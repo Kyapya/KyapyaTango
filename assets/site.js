@@ -16,11 +16,11 @@
   const empty = document.getElementById('noResults');
 
   // Limit study-mode hiding to the requested learning targets.
-  // Keep the overview, pronunciation, etymology, core image and central definitions visible.
+  // Keep usage notes, overviews, pronunciation, etymology, core image and central definitions visible.
   document.querySelectorAll('.ja').forEach((element) => {
-    const isStudyTarget =
-      element.matches('.notes.ja') ||
-      Boolean(element.closest('#formation, .collocation, .relation-card'));
+    const isStudyTarget = Boolean(
+      element.closest('#formation, .collocation, .relation-card')
+    );
     if (!isStudyTarget) element.classList.remove('ja');
   });
 
