@@ -39,6 +39,9 @@ jobs:
       - name: Check Python syntax
         run: python -m py_compile scripts/*.py
 
+      - name: Run synchronization selection tests
+        run: python -m unittest discover -s tests -p 'test_*.py'
+
       - name: Sync Notion pages
         env:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
@@ -48,6 +51,8 @@ jobs:
           args=()
           if [ -n "$REQUESTED_WORD" ]; then
             args+=(--word "$REQUESTED_WORD")
+          else
+            args+=(--allow-partial)
           fi
           python scripts/sync_notion.py "${args[@]}"
 
