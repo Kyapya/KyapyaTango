@@ -1,1 +1,1 @@
-`notion.json` contains non-secret database and property names. Keep `NOTION_TOKEN` only in GitHub Actions secrets.
+`notion.json` contains non-secret database, property, tag, and automatic-sync cutoff settings. Keep `NOTION_TOKEN` only in GitHub Actions secrets. `minimum_last_edited_time` applies only to full syncs; a manually requested word can still be synchronized regardless of its edit date.
