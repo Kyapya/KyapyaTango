@@ -14,6 +14,16 @@
   const search = document.getElementById('pageSearch');
   const freq = document.getElementById('freqFilter');
   const empty = document.getElementById('noResults');
+
+  // Limit study-mode hiding to the requested learning targets.
+  // Keep the overview, pronunciation, etymology, core image and central definitions visible.
+  document.querySelectorAll('.ja').forEach((element) => {
+    const isStudyTarget =
+      element.matches('.notes.ja') ||
+      Boolean(element.closest('#formation, .collocation, .relation-card'));
+    if (!isStudyTarget) element.classList.remove('ja');
+  });
+
   function filterCards(){
     const q=(search?.value||'').trim().toLowerCase();
     const min=Number(freq?.value||0);let shown=0;

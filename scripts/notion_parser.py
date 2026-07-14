@@ -21,6 +21,8 @@ DOMAIN_LABEL_RE = re.compile(
 )
 HTML_TAG_RE = re.compile(r"<[^>]+>")
 LABEL_RE = re.compile(r"^([^:：]+)\s*[:：]\s*(.*)$")
+SINGLE_ASTERISK_EMPHASIS_RE = re.compile(r"(?<!\\)(?<!\*)\*([^*\n]+)\*(?!\*)")
+SINGLE_UNDERSCORE_EMPHASIS_RE = re.compile(r"(?<!\\)(?<!_)_([^_\n]+)_(?!_)")
 
 SECTION_ALIASES = {
     "発音記号": "pronunciation",
@@ -58,12 +60,26 @@ def _remove_parenthesized_domain_link(match: re.Match[str]) -> str:
     return match.group(0)
 
 
+def _strip_markdown_emphasis(text: str) -> str:
+    """Convert Notion Markdown emphasis to plain text without touching list bullets."""
+    text = text.replace("**", "").replace("__", "")
+    previous = None
+    while previous != text:
+        previous = text
+        text = SINGLE_ASTERISK_EMPHASIS_RE.sub(r"\1", text)
+        text = SINGLE_UNDERSCORE_EMPHASIS_RE.sub(r"\1", text)
+    return text
+
+
 def _clean_inline(text: str) -> str:
     text = html.unescape(text)
     text = text.replace("<br />", "\n").replace("<br/>", "\n").replace("<br>", "\n")
     text = PAREN_LINK_RE.sub(_remove_parenthesized_domain_link, text)
-    text = LINK_RE.sub(r"\1", text).replace("**", "").replace("__", "")
+    text = LINK_RE.sub(r"\1", text)
     text = re.sub(r"`([^`]*)`", r"\1", text)
+    text = _strip_markdown_emphasis(text)
+    # Notion escapes brackets used as grammar variables: \[something\] -> [something].
+    text = re.sub(r"\\([\[\]])", r"\1", text)
     return HTML_TAG_RE.sub("", text).strip()
 
 
@@ -162,9 +178,7 @@ def _parse_core(lines: list[str]) -> list[dict[str, str]]:
 def _entry_chunks(lines: list[str]) -> list[list[str]]:
     flattened = []
     for paragraph in _paragraphs(lines):
-        flattened.extend(
-            item.strip() for item in paragraph.splitlines() if item.strip()
-        )
+        flattened.extend(item.strip() for item in paragraph.splitlines() if item.strip())
     chunks: list[list[str]] = []
     current: list[str] = []
     for line in flattened:
@@ -177,9 +191,7 @@ def _entry_chunks(lines: list[str]) -> list[list[str]]:
     return chunks
 
 
-def _parse_entries(
-    lines: list[str], relation: bool = False
-) -> list[dict[str, Any]]:
+def _parse_entries(lines: list[str], relation: bool = False) -> list[dict[str, Any]]:
     entries = []
     for chunk in _entry_chunks(lines):
         data: dict[str, Any] = {
@@ -202,9 +214,7 @@ def _parse_entries(
                 continue
             if key == "frequency":
                 frequency_match = FREQ_RE.search(value)
-                data[key] = (
-                    int(frequency_match.group(1)) if frequency_match else value
-                )
+                data[key] = int(frequency_match.group(1)) if frequency_match else value
             else:
                 data[key] = value
         if relation:
@@ -271,9 +281,7 @@ def parse_dictionary_markdown(
             if key:
                 payload[key] = subsection.lines
 
-        definition = "\n".join(
-            _paragraphs(payload.get("definition", []))
-        ).strip()
+        definition = "\n".join(_paragraphs(payload.get("definition", []))).strip()
         frequency_match = FREQ_RE.search(
             " ".join(_simple_items(payload.get("frequency", [])))
         )
@@ -281,24 +289,16 @@ def parse_dictionary_markdown(
             {
                 "number": number,
                 "title": title,
-                "frequency": int(frequency_match.group(1))
-                if frequency_match
-                else 0,
+                "frequency": int(frequency_match.group(1)) if frequency_match else 0,
                 "register": _split_register(
                     " ".join(_simple_items(payload.get("register", [])))
                 ),
                 "definition": definition,
                 "patterns": _split_patterns(payload.get("patterns", [])),
-                "collocations": _parse_entries(
-                    payload.get("collocations", [])
-                ),
+                "collocations": _parse_entries(payload.get("collocations", [])),
                 "notes": _simple_items(payload.get("notes", [])),
-                "synonyms": _parse_entries(
-                    payload.get("synonyms", []), True
-                ),
-                "antonyms": _parse_entries(
-                    payload.get("antonyms", []), True
-                ),
+                "synonyms": _parse_entries(payload.get("synonyms", []), True),
+                "antonyms": _parse_entries(payload.get("antonyms", []), True),
             }
         )
 
@@ -345,10 +345,7 @@ def validate_entry(entry: dict[str, Any]) -> list[str]:
         prefix = f"sense {sense.get('number', '?')}"
         if not sense.get("definition"):
             errors.append(f"{prefix}: definition is empty")
-        if (
-            not isinstance(sense.get("frequency"), int)
-            or not 1 <= sense["frequency"] <= 10
-        ):
+        if not isinstance(sense.get("frequency"), int) or not 1 <= sense["frequency"] <= 10:
             errors.append(f"{prefix}: frequency must be 1-10")
         if not sense.get("patterns"):
             errors.append(f"{prefix}: grammar patterns are empty")
