@@ -14,11 +14,22 @@ class MobileToolbarBehaviorTests(unittest.TestCase):
         self.assertNotIn("closeAfterAction", script)
         self.assertNotIn("setTimeout(() => setOpen(false), 120)", script)
 
-    def test_downward_scroll_closes_and_hides_toolbar(self) -> None:
+    def test_real_touch_swipe_closes_and_hides_toolbar(self) -> None:
         script = SITE_JS.read_text(encoding="utf-8")
-        self.assertIn("if (delta > 0)", script)
-        self.assertIn("setOpen(false);", script)
+        self.assertIn("document.addEventListener('touchmove'", script)
+        self.assertIn("const fingerDelta = nextTouchY - touchY", script)
+        self.assertIn("if (fingerDelta < 0)", script)
+        self.assertIn("if (toolbar.classList.contains('mobile-tools-open')) setOpen(false)", script)
         self.assertIn("toolbar.classList.add('mobile-toolbar-hidden')", script)
+
+    def test_layout_scroll_does_not_close_an_open_toolbar(self) -> None:
+        script = SITE_JS.read_text(encoding="utf-8")
+        self.assertIn("if (toolbar.classList.contains('mobile-tools-open'))", script)
+        self.assertIn("lastScrollY = currentY;", script)
+        self.assertIn("Do not close the toolbar unless a real touch gesture does it.", script)
+
+    def test_upward_scroll_reveals_toolbar(self) -> None:
+        script = SITE_JS.read_text(encoding="utf-8")
         self.assertIn("toolbar.classList.remove('mobile-toolbar-hidden')", script)
 
     def test_outside_interaction_still_closes_toolbar(self) -> None:
