@@ -61,15 +61,6 @@
       }
     });
 
-    const closeAfterAction = () => {
-      if (!mobileQuery.matches) return;
-      window.setTimeout(() => setOpen(false), 120);
-    };
-    freq?.addEventListener('change', closeAfterAction);
-    document.getElementById('jaToggle')?.addEventListener('click', closeAfterAction);
-    document.getElementById('expandAll')?.addEventListener('click', closeAfterAction);
-    document.getElementById('collapseAll')?.addEventListener('click', closeAfterAction);
-
     let lastScrollY = window.scrollY;
     window.addEventListener('scroll', () => {
       if (!mobileQuery.matches || toolbar.classList.contains('mobile-tools-open')) {
