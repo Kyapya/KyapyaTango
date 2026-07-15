@@ -33,11 +33,13 @@ class MobileToolbarBehaviorTests(unittest.TestCase):
         self.assertNotIn("el.style.filter", script)
         self.assertNotIn("element.style.filter", script)
 
-    def test_touch_hover_cannot_keep_hidden_text_revealed(self) -> None:
+    def test_hover_cannot_override_the_explicit_hidden_state(self) -> None:
         finalizer = FINALIZER.read_text(encoding="utf-8")
         self.assertIn(".hide-ja .ja.ja-revealed{filter:none}", finalizer)
-        self.assertIn("hover:none", finalizer)
-        self.assertIn(":hover:not(.ja-revealed){filter:blur(5px)}", finalizer)
+        self.assertIn(
+            ".hide-ja .ja:hover:not(.ja-revealed){filter:blur(5px)}",
+            finalizer,
+        )
 
 
 if __name__ == "__main__":
