@@ -1,0 +1,767 @@
+{
+  "word": "begin",
+  "slug": "begin",
+  "ipa": "米・英: /bɪˈɡɪn/",
+  "lead": "1．出来事・活動・期間・状態などが始まる、開始する\n会議、授業、映画、季節、物語、問題、変化などが、それまで存在または進行していなかった状態から、進行中の状態へ移ることを表す。",
+  "updated": "2026-07-15",
+  "notion_url": "https://app.notion.com/p/begin-39e4faa9b77d816ba48fd61bc8f40755",
+  "pronunciation": [
+    "第2音節に強勢がある。語頭の /bɪ/ は弱く短く発音し、日本語の「ビギン」のように両音節を同じ強さで発音しない。",
+    "三人称単数 begins: /bɪˈɡɪnz/",
+    "過去形 began: /bɪˈɡæn/",
+    "過去分詞 begun: /bɪˈɡʌn/",
+    "現在分詞 beginning: /bɪˈɡɪnɪŋ/。短母音＋子音で終わる強勢音節を持つため、n を重ねて -ing を付ける。"
+  ],
+  "etymology": [
+    "古英語 beginnan「始める、始まる」に由来し、オランダ語 beginnen、ドイツ語 beginnen などと同系。古いゲルマン諸語にさかのぼる語だが、語頭の be- と後半部分を現代英語の意味だけから明確に分析することはできない。",
+    "古英語の時代から、他動詞の「何かを始める」と自動詞の「何かが始まる」の両方で使われてきた。"
+  ],
+  "formation": [
+    {
+      "term": "begin",
+      "description": "– began – begun: 不規則変化。「始める、始まる」"
+    },
+    {
+      "term": "beginning",
+      "description": "名詞では「始まり、初期、冒頭」。限定用法では beginning students「初級の学習者」のように「初級の、始めたばかりの」"
+    },
+    {
+      "term": "beginner",
+      "description": "「初心者、初学者」。能力が低いことより、経験の初期段階にいることを表す"
+    },
+    {
+      "term": "beginner’s",
+      "description": "luck: 「初心者の幸運、ビギナーズラック」"
+    },
+    {
+      "term": "beginner-friendly",
+      "description": "「初心者向けの、初心者にも扱いやすい」"
+    }
+  ],
+  "core": [
+    {
+      "label": "それまで存在・進行していなかった行為、出来事、状態が「最初の段階に入る」。自動詞では物事自体がその段階に入り、他動詞では人などが物事をその段階へ移す。",
+      "description": ""
+    },
+    {
+      "label": "出来事が最初の段階に入る",
+      "description": "→ 「始まる」"
+    },
+    {
+      "label": "人が活動を最初の段階へ移す",
+      "description": "→ 「始める」"
+    },
+    {
+      "label": "動作や状態変化が最初に現れる",
+      "description": "→ 「～し始める」"
+    },
+    {
+      "label": "最初の要素・状態・地点を示す",
+      "description": "→ begin with / as / at / in"
+    },
+    {
+      "label": "議論の最初の論点を示す",
+      "description": "→ to begin with「まず第一に、そもそも」"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "自動詞",
+      "frequency": 10,
+      "register": [
+        "中立。会話・文章・ニュース・ビジネス・学術文書で広く使用される。start より文章的になることはあるが、フォーマル表現に限定されない。顕著な米英差はない。"
+      ],
+      "definition": "1．出来事・活動・期間・状態などが始まる、開始する\n会議、授業、映画、季節、物語、問題、変化などが、それまで存在または進行していなかった状態から、進行中の状態へ移ることを表す。start よりわずかに改まって聞こえる場合があるが、begin 自体は会話でも文章でも使われる中立的な基本語。\n開始時刻だけでなく、最初の要素、初期の形態、発祥した場所・時代、最低価格なども begin with / as / in / at によって示せる。",
+      "patterns": [
+        "[event / activity / period] + begins＝出来事・活動・期間が始まる",
+        "[event] + begins + at [時刻・地点・数値]＝特定の時刻・地点・数値から始まる",
+        "[event / period] + begins + on [日付・曜日]＝特定の日から始まる",
+        "[event / movement] + begins + in [場所・年代・期間]＝ある場所・時代に始まる",
+        "[something] + begins with [最初の要素]＝～で始まる",
+        "[person / organization / thing] + begins as [初期の役割・形態]＝当初は～として始まる",
+        "[building / organization / product] + begins life as [初期の用途・形態]＝もともと～として作られる、存在し始める",
+        "[event / situation] + begins + when / after / before節＝ある出来事を契機として始まる"
+      ],
+      "collocations": [
+        {
+          "pattern": "the meeting begins at [時刻]",
+          "use": "会議・授業・公演などの開始時刻を述べる",
+          "example": "The meeting begins at nine thirty.",
+          "translation": "会議は9時30分に始まります。"
+        },
+        {
+          "pattern": "the course begins on [日付]",
+          "use": "講座・期間・企画などの開始日を述べる",
+          "example": "The course begins on September 7.",
+          "translation": "その講座は9月7日に始まります。"
+        },
+        {
+          "pattern": "[something] begins with [something]",
+          "use": "文章・作品・出来事などの最初の要素を示す",
+          "example": "The novel begins with a mysterious disappearance.",
+          "translation": "その小説は謎めいた失踪事件から始まります。"
+        },
+        {
+          "pattern": "[something] begins at [場所 / 地点 / 数値]",
+          "use": "道・範囲・過程・価格などの起点を示す",
+          "example": "The hiking trail begins at the edge of the village.",
+          "translation": "そのハイキングコースは村の外れから始まります。"
+        },
+        {
+          "pattern": "prices begin at [金額]",
+          "use": "商品・宿泊施設・サービスなどの最低価格を示す",
+          "example": "Standard rooms begin at \\$120 per night.",
+          "translation": "スタンダードルームは1泊120ドルからです。"
+        },
+        {
+          "pattern": "[person / organization] began as [役割・形態]",
+          "use": "人の最初の職業や、組織の当初の形態を述べる",
+          "example": "She began as an assistant and later became a department manager.",
+          "translation": "彼女はアシスタントとして働き始め、のちに部門責任者になりました。"
+        },
+        {
+          "pattern": "[building / organization] began life as [something]",
+          "use": "建物・組織などの当初の用途や形態を述べる",
+          "example": "The building began life as a railway station.",
+          "translation": "その建物は、もともと鉄道駅として使われていました。"
+        },
+        {
+          "pattern": "[movement / tradition / problem] began in [場所・年代]",
+          "use": "運動・慣習・問題などの発祥地や成立時期を述べる",
+          "example": "The movement began in the late 1960s.",
+          "translation": "その運動は1960年代後半に始まりました。"
+        }
+      ],
+      "notes": [
+        "過去形は began、過去分詞は begun。完了形・受動態では begun を使う。",
+        "○ The meeting has begun.",
+        "× The meeting has began.",
+        "時刻には at、日付・曜日には on、月・年・季節・場所には通常 in を使う。",
+        "The ceremony begins at noon.「式典は正午に始まる」",
+        "The course begins on Monday.「講座は月曜日に始まる」",
+        "The festival begins in August.「祭りは8月に始まる」",
+        "begin with は「最初の構成要素が～である」、begin as は「最初の役割・形態が～である」を表す。",
+        "The book begins with a quotation.「その本は引用文で始まる」",
+        "The company began as a small workshop.「その会社は小さな工房として始まった」",
+        "begin at [金額] は広告や案内で「最低価格が～である」という意味になり、追加条件によって価格が上がる可能性を含む。",
+        "begin from も実際に使われるが、起点の種類によって begin at、begin with、begin in、start from のほうが自然なことが多い。begin from を一律に誤りと考えてはいけない。",
+        "We will begin from the basic principles.「基本原理から始めます」",
+        "The tour starts from the main entrance.「ツアーは正面入口から出発します」",
+        "予定表や時刻表として確定している未来の出来事には現在形を使える。",
+        "The ceremony begins at noon tomorrow.「式典は明日の正午に始まります」",
+        "start は機械の作動にも使えるが、begin は通常その用法を持たない。",
+        "○ She started the engine.",
+        "× She began the engine."
+      ],
+      "synonyms": [
+        {
+          "word": "start",
+          "definition": "出来事・活動・期間などが始まる",
+          "frequency": 10,
+          "difference": "begin より会話で広く使われ、移動の開始や機械の作動などにも使える。出来事の開始では begin と交換可能なことが多い",
+          "example": "The movie starts in ten minutes.",
+          "translation": "映画は10分後に始まります。"
+        },
+        {
+          "word": "commence",
+          "definition": "公式な活動・手続き・行事などが開始する",
+          "frequency": 5,
+          "difference": "begin よりかなりフォーマルで、法律、工事、式典、公式通知などに多い。日常的な出来事には硬く聞こえる",
+          "example": "Construction will commence next month.",
+          "translation": "建設工事は来月開始されます。"
+        },
+        {
+          "word": "open",
+          "definition": "催し・作品・会議・公演などが幕を開ける",
+          "frequency": 8,
+          "difference": "一般的な開始ではなく、公式な開幕や作品の冒頭に焦点がある",
+          "example": "The festival opens on Friday.",
+          "translation": "その祭りは金曜日に開幕します。"
+        },
+        {
+          "word": "originate",
+          "definition": "習慣・思想・製品などが特定の場所・時代・原因に起源を持つ",
+          "frequency": 6,
+          "difference": "begin よりも「どこから生まれたか」という発祥・起源に焦点がある。会議や授業の開始には使わない",
+          "example": "The custom originated in northern Europe.",
+          "translation": "その習慣は北ヨーロッパで生まれました。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "end",
+          "definition": "出来事・期間・状態などが終わる",
+          "frequency": 10,
+          "difference": "開始と終了という時間軸上で begin と直接対立する",
+          "example": "The meeting ended at noon.",
+          "translation": "会議は正午に終わりました。"
+        },
+        {
+          "word": "finish",
+          "definition": "活動・授業・作品などが最後まで進んで終わる",
+          "frequency": 10,
+          "difference": "単に終点に達するだけでなく、予定された内容が完了する含意を持つことがある",
+          "example": "The class finishes at four.",
+          "translation": "授業は4時に終わります。"
+        },
+        {
+          "word": "conclude",
+          "definition": "会議・交渉・行事などが正式に終了する",
+          "frequency": 7,
+          "difference": "begin と開始・終結の軸で対立するフォーマルな語で、まとまりのある終了を表す",
+          "example": "The conference concluded on Friday.",
+          "translation": "会議は金曜日に終了しました。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "他動詞",
+      "frequency": 9,
+      "register": [
+        "中立。begin negotiations、begin proceedings、begin an investigation などは、ニュース・ビジネス・公的文書で特に多い。"
+      ],
+      "definition": "2．行為・活動・過程・作品などを始める、開始する\n人や組織が、仕事、会議、調査、交渉、旅、文章などを実行に移すことを表す。目的語には、開始後に一定時間続く活動・過程や、冒頭を持つまとまりが置かれることが多い。",
+      "patterns": [
+        "begin + O＝Oを始める",
+        "begin + O + with [最初の要素]＝Oを～から始める",
+        "begin + O + by doing＝最初に～することによってOを始める",
+        "begin by doing＝最初の手順として～する",
+        "begin work on [something]＝～に関する作業を始める",
+        "begin on [仕事・食べ物など]＝～に取りかかる",
+        "begin one’s career / life / journey as [役割]＝～として経歴・人生・旅を始める",
+        "be begun＝開始される。文法的に可能だが、出来事を主語にした自動詞や be started のほうが自然な場合が多い"
+      ],
+      "collocations": [
+        {
+          "pattern": "begin work on [something]",
+          "use": "計画・文書・建設物などへの作業を開始する",
+          "example": "The team will begin work on the new system next week.",
+          "translation": "チームは来週、新しいシステムの作業を始めます。"
+        },
+        {
+          "pattern": "begin the process of doing",
+          "use": "複数の段階から成る手続き・変化を開始する",
+          "example": "The company has begun the process of replacing its old equipment.",
+          "translation": "その会社は古い設備を交換する手続きを開始しました。"
+        },
+        {
+          "pattern": "begin negotiations / discussions",
+          "use": "交渉・協議を正式に開始する",
+          "example": "The two governments began negotiations in early June.",
+          "translation": "両政府は6月初旬に交渉を開始しました。"
+        },
+        {
+          "pattern": "begin [something] with [something]",
+          "use": "活動・文章・食事などの最初の要素を示す",
+          "example": "She began her presentation with a brief personal story.",
+          "translation": "彼女は短い個人的な話からプレゼンテーションを始めました。"
+        },
+        {
+          "pattern": "begin [something] by doing",
+          "use": "活動を始める際に最初に行う動作を示す",
+          "example": "Begin the application process by creating an online account.",
+          "translation": "まずオンラインアカウントを作成して、申請手続きを始めてください。"
+        },
+        {
+          "pattern": "begin one’s career as [職業・役割]",
+          "use": "最初に就いた職業・役割を述べる",
+          "example": "He began his career as a newspaper reporter.",
+          "translation": "彼は新聞記者として職歴を始めました。"
+        },
+        {
+          "pattern": "begin a new chapter",
+          "use": "人生・組織などが新しい段階へ移ることを比喩的に表す",
+          "example": "After leaving the company, she began a new chapter in her life.",
+          "translation": "会社を辞めたあと、彼女は人生の新たな一章を始めました。"
+        },
+        {
+          "pattern": "not know where to begin",
+          "use": "問題や作業が複雑・膨大で、何から始めればよいか分からないと述べる",
+          "example": "There is so much damage that I don’t know where to begin.",
+          "translation": "被害があまりに大きく、どこから手を付ければよいのか分かりません。"
+        }
+      ],
+      "notes": [
+        "目的語には work、meeting、investigation、discussion、journey、career、chapter など、一定の時間的広がりや構成を持つ活動・過程がよく置かれる。",
+        "瞬間的な身体動作・反応を名詞目的語として直接置くことは通常できない。その場合は begin to do / begin doing を使う。",
+        "○ He began to cough.",
+        "○ He began coughing.",
+        "× He began a cough.",
+        "begin O with [名詞] は「Oの最初の構成要素として～を置く・使う」を表す。",
+        "She began the meal with soup.「彼女はスープから食事を始めた」",
+        "begin O by doing は「Oを開始するとき、最初の動作として～する」を表す。",
+        "She began the meeting by introducing herself.「彼女は自己紹介をして会議を始めた」",
+        "begin on O は「仕事などに取りかかる」の意味で使われる。start on O や begin work on O も一般的。",
+        "I’ll begin on the report after lunch.「昼食後に報告書に取りかかります」",
+        "受動態は文法的に可能だが、出来事の開始時刻を述べるだけなら自動詞が自然。",
+        "○ The meeting began at nine.",
+        "△ The meeting was begun at nine.",
+        "一方、手続きを誰かが正式に開始したことを表す文脈では受動態も使える。",
+        "Formal proceedings were begun immediately.「正式な手続きが直ちに開始された」",
+        "begin は「機械を始動させる」「エンジンをかける」の意味では使わない。その場合は start を使う。",
+        "begin someone to do の形は取らない。人に何かを始めさせる場合は have、get、make、start など、意味に合う別の構文を使う。",
+        "× She began him to work.",
+        "○ She got him to start working."
+      ],
+      "synonyms": [
+        {
+          "word": "start",
+          "definition": "行為・活動・過程などを始める",
+          "frequency": 10,
+          "difference": "begin より会話的で、機械を動かす、事業を立ち上げる、人を動作させるなど、begin より広い他動詞用法を持つ",
+          "example": "She started the engine.",
+          "translation": "彼女はエンジンをかけました。"
+        },
+        {
+          "word": "initiate",
+          "definition": "手続き・調査・計画・変化などを意図的かつ正式に開始する",
+          "frequency": 6,
+          "difference": "begin よりフォーマルで、開始のきっかけを主体が作ることを強調する",
+          "example": "The agency initiated an investigation.",
+          "translation": "その機関は調査を開始しました。"
+        },
+        {
+          "word": "launch",
+          "definition": "製品・計画・運動・事業などを公に、または本格的に開始する",
+          "frequency": 8,
+          "difference": "準備期間を経て対外的に始動させる含意がある。日常の小さな行動には通常使わない",
+          "example": "The company launched a new training program.",
+          "translation": "その会社は新しい研修プログラムを開始しました。"
+        },
+        {
+          "word": "commence",
+          "definition": "活動・手続き・作業などを正式に開始する",
+          "frequency": 5,
+          "difference": "begin よりかなりフォーマルで、法律文書、公式通知、儀礼的な場面に多い",
+          "example": "The court commenced proceedings at ten.",
+          "translation": "裁判所は10時に手続きを開始しました。"
+        },
+        {
+          "word": "undertake",
+          "definition": "責任を伴う仕事・調査・計画などを引き受けて実行する",
+          "frequency": 6,
+          "difference": "開始の瞬間よりも、その仕事を責任を持って引き受けることに焦点があるため、begin と完全には交換できない",
+          "example": "The researchers undertook a large-scale study.",
+          "translation": "研究者たちは大規模な研究に着手しました。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "finish",
+          "definition": "始めた活動・作業を最後まで完了する",
+          "frequency": 10,
+          "difference": "行為の開始と完了という過程上の反対を表す",
+          "example": "She finished the report before lunch.",
+          "translation": "彼女は昼食前に報告書を仕上げました。"
+        },
+        {
+          "word": "stop",
+          "definition": "進行中の活動をやめる、または停止させる",
+          "frequency": 10,
+          "difference": "完了したかどうかにかかわらず途中で止めることができ、開始・停止という方向上で begin と対立する",
+          "example": "They stopped the experiment after two hours.",
+          "translation": "彼らは2時間後に実験を中止しました。"
+        },
+        {
+          "word": "conclude",
+          "definition": "会議・交渉・演説などを正式に終える",
+          "frequency": 7,
+          "difference": "begin と開始・終結の軸で対立し、内容をまとめて締めくくる含意を持つことがある",
+          "example": "The chair concluded the meeting with a short summary.",
+          "translation": "議長は短い要約で会議を締めくくりました。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "自動詞・補文を取る動詞",
+      "frequency": 10,
+      "register": [
+        "中立。会話・文章の両方で非常に一般的。"
+      ],
+      "definition": "3．～し始める、次第に～するようになる\nbegin to do または begin doing の形で、動作、状態、認識、感情、天候などが最初の段階に入ることを表す。主語は人に限らず、機械、状況、天候、身体なども取れる。\nbegin to do と begin doing は多くの文脈でほぼ同じだが、後続動詞の種類や begin 自体の時制・相によって自然さが異なる。",
+      "patterns": [
+        "begin to + 動詞原形＝～し始める",
+        "begin + 動名詞＝～し始める",
+        "be beginning to + 動詞原形＝まさに～し始めている、次第に～してきている",
+        "begin to understand / realize / see＝理解・認識が生じ始める",
+        "begin to feel / seem / appear＝状態・印象が現れ始める",
+        "begin doing [継続可能な動作]＝動作を開始する",
+        "begin to be [形容詞・名詞]＝～になり始める",
+        "begin to have [問題・感情など]＝～を持ち始める"
+      ],
+      "collocations": [
+        {
+          "pattern": "begin to understand [something]",
+          "use": "それまで分からなかったことを次第に理解し始める",
+          "example": "I’m beginning to understand why she made that decision.",
+          "translation": "彼女がなぜその決断をしたのか、分かり始めています。"
+        },
+        {
+          "pattern": "begin to realize that [文]",
+          "use": "ある事実に徐々に気づき始める",
+          "example": "He began to realize that the plan would not work.",
+          "translation": "彼はその計画がうまくいかないことに気づき始めました。"
+        },
+        {
+          "pattern": "begin doing [継続的な動作]",
+          "use": "読む、笑う、働くなどの動作を開始する",
+          "example": "The children began laughing when they saw the costume.",
+          "translation": "子どもたちはその衣装を見ると笑い始めました。"
+        },
+        {
+          "pattern": "begin to rain / snow",
+          "use": "雨・雪などの天候現象が始まる",
+          "example": "It began to rain just as we left the station.",
+          "translation": "私たちが駅を出たちょうどそのとき、雨が降り始めました。"
+        },
+        {
+          "pattern": "be beginning to + 動詞原形",
+          "use": "変化や動作が現在まさに初期段階にあることを表す",
+          "example": "The situation is beginning to improve.",
+          "translation": "状況は改善し始めています。"
+        },
+        {
+          "pattern": "begin to feel [感情・身体状態]",
+          "use": "感情や身体感覚が徐々に現れることを表す",
+          "example": "She began to feel uneasy about the arrangement.",
+          "translation": "彼女はその取り決めに不安を感じ始めました。"
+        },
+        {
+          "pattern": "begin to be [形容詞]",
+          "use": "性質・状態が徐々に変化することを表す",
+          "example": "The old system is beginning to be a serious problem.",
+          "translation": "古いシステムは深刻な問題になり始めています。"
+        },
+        {
+          "pattern": "begin again",
+          "use": "中断後に再開する、または最初からやり直す",
+          "example": "After a short break, the music began again.",
+          "translation": "短い休憩のあと、音楽が再び始まりました。"
+        }
+      ],
+      "notes": [
+        "begin to do と begin doing は、多くの場合ほぼ同じ意味になる。",
+        "I began to read the report.",
+        "I began reading the report.",
+        "どちらも「報告書を読み始めた」。",
+        "ただし、understand、realize、see、believe など、状態・認識を表す動詞では to不定詞が特に一般的。動名詞形も文脈によって可能だが、単純に交換すると不自然になることがある。",
+        "○ I began to understand the problem.",
+        "△ I began understanding the problem.",
+        "begin 自体が進行形の場合は、後ろに動名詞を続けず、通常は to不定詞を使う。",
+        "○ It was beginning to rain.",
+        "× It was beginning raining.",
+        "これは単なる文体上の好みではなく、標準的な現代英語では後者を避ける。",
+        "動的な動作では begin doing が自然に使われる。",
+        "She began packing her bags.「彼女は荷造りを始めた」",
+        "to不定詞を使っても、その行為を最後まで完了したことは意味しない。begin は開始だけを表し、その後継続したかどうかは文脈で決まる。",
+        "He began to explain, but I interrupted him.「彼は説明し始めたが、私が遮った」",
+        "begin doing は、ある習慣を新たに開始したという意味でも使える。",
+        "She began exercising every morning.「彼女は毎朝運動するようになった」",
+        "否定文では、開始自体が起こらなかったのか、開始後の動作を否定するのかを区別する。",
+        "He didn’t begin to speak.「彼は話し始めなかった」",
+        "He began not to trust them.「彼は彼らを信用しなくなり始めた」は文法的だが、He began to distrust them のほうが通常明確。",
+        "begin O to do や begin someone doing の使役構文は取らない。",
+        "× The teacher began the students to write.",
+        "○ The teacher told the students to begin writing."
+      ],
+      "synonyms": [
+        {
+          "word": "start to do / start doing",
+          "definition": "～し始める",
+          "frequency": 10,
+          "difference": "begin とほぼ同義だが、会話では start のほうが一般的な場合がある。機械の動作や突然の反応にも広く使える",
+          "example": "She started laughing at the photograph.",
+          "translation": "彼女はその写真を見て笑い始めました。"
+        },
+        {
+          "word": "come to do",
+          "definition": "時間の経過や経験の結果として、次第に～するようになる",
+          "frequency": 7,
+          "difference": "単なる開始ではなく、長い過程を経て認識・感情・理解に至ることを強調する",
+          "example": "I came to appreciate his honesty.",
+          "translation": "私は次第に彼の誠実さを評価するようになりました。"
+        },
+        {
+          "word": "set about doing",
+          "definition": "必要な仕事・課題などに意図的に取りかかる",
+          "frequency": 6,
+          "difference": "自然に状態が始まる場合には使えず、目的を持って行動を開始することに焦点がある",
+          "example": "She set about repairing the damaged chair.",
+          "translation": "彼女は壊れた椅子の修理に取りかかりました。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "stop doing",
+          "definition": "行っていた動作・活動をやめる",
+          "frequency": 10,
+          "difference": "動作の開始と停止という方向上で begin doing と対立する",
+          "example": "He stopped talking when the teacher entered.",
+          "translation": "先生が入ってくると、彼は話すのをやめました。"
+        },
+        {
+          "word": "cease to do / cease doing",
+          "definition": "続いていた状態・活動を停止する",
+          "frequency": 6,
+          "difference": "stop よりフォーマルで、継続していた行為・状態が終わることを表す",
+          "example": "The company ceased operating in the region.",
+          "translation": "その会社はその地域での営業を停止しました。"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "慣用表現",
+      "frequency": 8,
+      "register": [
+        "中立。会話・議論・説明文で広く使われる。"
+      ],
+      "definition": "4．to begin with: まず第一に、そもそも／初めのうちは、当初は\n文頭などで複数の理由・論点の最初を提示する用法と、後の状態と対比して「当初は」と述べる用法がある。文末で使われる場合は、相手の主張の前提にさかのぼる「そもそも」という意味になりやすい。",
+      "patterns": [
+        "To begin with, + 文＝まず第一に",
+        "[文], to begin with＝そもそも、第一",
+        "[状態] + to begin with, but [後の変化]＝初めのうちは～だったが",
+        "固定表現であり、主語・時制に応じて begin を began や begun に変化させない"
+      ],
+      "collocations": [
+        {
+          "pattern": "To begin with, [第一の理由・論点]",
+          "use": "複数の理由や反論の最初を提示する",
+          "example": "To begin with, we don’t have enough staff to run the program.",
+          "translation": "まず第一に、そのプログラムを運営するだけの人員がいません。"
+        },
+        {
+          "pattern": "[否定・疑問文], to begin with",
+          "use": "問題となっている前提自体を否定したり問い直したりする",
+          "example": "I never agreed to the arrangement to begin with.",
+          "translation": "そもそも私はその取り決めに同意していませんでした。"
+        },
+        {
+          "pattern": "[状態] to begin with, but [後の変化]",
+          "use": "当初の状態と、その後の変化を対比する",
+          "example": "The instructions were confusing to begin with, but they became clearer after the first example.",
+          "translation": "説明は初めのうちは分かりにくかったのですが、最初の例のあとで明確になりました。"
+        },
+        {
+          "pattern": "Why [文] to begin with?",
+          "use": "行動・判断の根本的な理由を問い直す",
+          "example": "Why did they approve the proposal to begin with?",
+          "translation": "そもそも、なぜ彼らはその提案を承認したのですか。"
+        }
+      ],
+      "notes": [
+        "論点を列挙する to begin with は first of all や first に近いが、必ず second、third などを続ける必要はない。",
+        "文末の to begin with は、「その問題を論じる以前に、最初の前提がおかしい」という反論・不満の響きを持つことがある。",
+        "「当初は」の意味では、後に状況が変化したという含意を伴うことが多い。",
+        "to start with もほぼ同じ意味で、やや会話的。",
+        "× for begin with、× at begin with とは言わない。",
+        "beginning with は別構文で、「～から始めて」「～を最初として」という意味。to begin with と混同しない。",
+        "Beginning with the youngest child, each student introduced themselves.「一番年下の子から順に、生徒たちは自己紹介をした」"
+      ],
+      "synonyms": [
+        {
+          "word": "first of all",
+          "definition": "複数の事項のうち最初のものを提示する",
+          "frequency": 9,
+          "difference": "列挙の順序を明確に示す。to begin with より「第一点」という機能が前面に出る",
+          "example": "First of all, I’d like to thank everyone for coming.",
+          "translation": "まず初めに、お越しいただいた皆さんに感謝します。"
+        },
+        {
+          "word": "to start with",
+          "definition": "まず第一に、そもそも、当初は",
+          "frequency": 8,
+          "difference": "to begin with と意味範囲がほぼ同じだが、やや会話的",
+          "example": "To start with, we need a more realistic budget.",
+          "translation": "まず第一に、もっと現実的な予算が必要です。"
+        },
+        {
+          "word": "initially",
+          "definition": "初めの段階では、当初は",
+          "frequency": 7,
+          "difference": "論点の列挙ではなく、時間的な初期状態を比較的客観的に示す",
+          "example": "Initially, the proposal received little support.",
+          "translation": "当初、その提案はほとんど支持を得られませんでした。"
+        },
+        {
+          "word": "in the first place",
+          "definition": "そもそも、第一に",
+          "frequency": 8,
+          "difference": "問題の根本的な理由や、最初から成立していた事実を強調する。疑問・反論・非難で特に使われやすい",
+          "example": "Why did you accept the offer in the first place?",
+          "translation": "そもそも、なぜその申し出を受けたのですか。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "慣用構文",
+      "frequency": 6,
+      "register": [
+        "感情を強調する会話・スピーチ・文章。中立からやや修辞的。"
+      ],
+      "definition": "5．cannot / can’t begin to do: とても～しきれない、どれほど～か言葉では表せない、想像もつかない\n文字どおりの「～し始めることができない」ではなく、感情・規模・重要性・困難さなどが非常に大きく、説明・理解・想像の最初の段階にすら達せないという誇張表現。can’t even begin to do の形では強調がさらに強くなる。",
+      "patterns": [
+        "cannot begin to describe [something]＝とても～を言い表せない",
+        "cannot begin to explain [something]＝到底～を説明しきれない",
+        "cannot begin to imagine [something]＝～は想像もつかない",
+        "cannot begin to understand [something]＝～は到底理解できない",
+        "cannot even begin to do＝～することなど到底できない"
+      ],
+      "collocations": [
+        {
+          "pattern": "cannot begin to describe [感情・規模]",
+          "use": "感情や経験が言葉では表せないほど強いと述べる",
+          "example": "I cannot begin to describe how relieved I felt.",
+          "translation": "私がどれほどほっとしたか、言葉ではとても表せません。"
+        },
+        {
+          "pattern": "cannot begin to imagine [状況]",
+          "use": "他人の苦痛・困難・経験などが自分の想像を超えていると述べる",
+          "example": "I can’t begin to imagine what the families are going through.",
+          "translation": "ご家族がどのような思いをしているのか、私には想像もつきません。"
+        },
+        {
+          "pattern": "cannot begin to explain [複雑な事柄]",
+          "use": "理由・影響・規模などを十分に説明できないと強調する",
+          "example": "This short report cannot begin to explain the full scale of the problem.",
+          "translation": "この短い報告書では、問題の全容を到底説明しきれません。"
+        },
+        {
+          "pattern": "cannot even begin to understand [something]",
+          "use": "相手の行動・考えや複雑な事情をまったく理解できないと強く述べる",
+          "example": "I can’t even begin to understand why they ignored the warning.",
+          "translation": "なぜ彼らが警告を無視したのか、私にはまったく理解できません。"
+        }
+      ],
+      "notes": [
+        "通常は can’t / cannot とともに使われる。肯定形の can begin to describe は慣用的な強調表現にはならず、文字どおり「説明し始めることができる」と解釈される。",
+        "describe、imagine、express、explain、understand、tell など、認識・表現に関する動詞が続きやすい。",
+        "cannot begin to do は常に慣用表現になるわけではない。文脈によっては「～を開始することができない」という文字どおりの意味にもなる。",
+        "Without approval, we cannot begin to build.「承認がなければ、建設を開始できない」",
+        "慣用的な意味か文字どおりの意味かは、後続動詞と文脈で判断する。describe how happy I am のように、程度の大きさを表す文脈では慣用的な強調になりやすい。",
+        "非常に強い表現なので、小さな不便や単純な事柄に使うと大げさに聞こえることがある。"
+      ],
+      "synonyms": [
+        {
+          "word": "cannot possibly",
+          "definition": "どうしても～できない、～であるはずがない",
+          "frequency": 8,
+          "difference": "能力・可能性を強く否定するが、cannot begin to のような「規模が認識や表現を超える」という比喩はない",
+          "example": "I cannot possibly answer every question today.",
+          "translation": "今日すべての質問に答えることは到底できません。"
+        },
+        {
+          "word": "be beyond words",
+          "definition": "感情・美しさ・衝撃などが言葉では表現できない",
+          "frequency": 5,
+          "difference": "表現できないことを直接述べる簡潔で修辞的な表現。主に感情・印象に使う",
+          "example": "The beauty of the landscape was beyond words.",
+          "translation": "その風景の美しさは言葉では表せませんでした。"
+        },
+        {
+          "word": "be impossible to describe",
+          "definition": "説明することが不可能である",
+          "frequency": 7,
+          "difference": "cannot begin to describe より比喩性が弱く、比較的直接的",
+          "example": "The atmosphere in the stadium was almost impossible to describe.",
+          "translation": "スタジアムの雰囲気は、ほとんど言葉では説明できないものでした。"
+        },
+        {
+          "word": "be unable to comprehend",
+          "definition": "ある事柄を理解・把握できない",
+          "frequency": 5,
+          "difference": "cannot begin to understand よりフォーマルで、感情的な誇張よりも認知上の困難に焦点がある",
+          "example": "She was unable to comprehend the scale of the loss.",
+          "translation": "彼女は損失の規模を理解することができませんでした。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "自動詞・発話動詞／主に物語文",
+      "frequency": 4,
+      "register": [
+        "物語文、文学的な会話描写、やや改まった叙述。日常会話で発言動詞として頻繁に使う表現ではない。"
+      ],
+      "definition": "6．話し始める、言い出す、言いかける\n物語や会話描写で、人が発言を開始したことを表す。直接話法の前後に置かれることが多く、発言の内容よりも「話し始める動作」に焦点がある。途中で遮られた発言にもよく使われる。",
+      "patterns": [
+        "“[直接話法],” someone began＝「～」と人が話し始めた",
+        "someone began, “...”＝人が「～」と話し始めた",
+        "someone began by saying that ...＝人はまず～と言って話を始めた",
+        "someone began to say [something]＝人が～と言い始めた、言いかけた",
+        "begin + that節 は通常不可。発言内容を直接示すなら say、explain、argue などを使う"
+      ],
+      "collocations": [
+        {
+          "pattern": "“[発言],” someone began",
+          "use": "物語中で人物が発言を開始したことを示す",
+          "example": "“There’s something I need to tell you,” she began.",
+          "translation": "「あなたに話さなければならないことがあるの」と、彼女は話し始めました。"
+        },
+        {
+          "pattern": "someone began, “[発言]”",
+          "use": "発言者を先に示してから直接話法を導く",
+          "example": "He began, “I would first like to clarify one point.”",
+          "translation": "彼は「まず一点、明確にしておきたいことがあります」と話し始めました。"
+        },
+        {
+          "pattern": "begin by saying that [内容]",
+          "use": "発言・演説・説明の最初の内容を示す",
+          "example": "He began by saying that the decision had not been easy.",
+          "translation": "彼はまず、その決断は容易ではなかったと述べました。"
+        },
+        {
+          "pattern": "someone began to say [something], but ...",
+          "use": "発言を始めたものの、遮られたり途中でやめたりしたことを表す",
+          "example": "She began to say something, but the door suddenly opened.",
+          "translation": "彼女は何か言いかけましたが、突然ドアが開きました。"
+        }
+      ],
+      "notes": [
+        "直接話法を導く begin は say よりも、「その人物がまとまった発言を始めた」という動作に焦点がある。",
+        "単に短い一言を述べた事実を伝えるだけなら said のほうが普通。",
+        "begin 単独で発話内容を that節として取ることは通常できない。",
+        "× She began that she was tired.",
+        "○ She began by saying that she was tired.",
+        "○ She said that she was tired.",
+        "発言が途中で遮られる場面と相性がよい。",
+        "“I thought perhaps—” he began, but she interrupted him.「『ひょっとすると――』と彼は言いかけたが、彼女が遮った」",
+        "begin to say は、話し始めたことを一般的に表すこともあるが、文脈によっては「言いかける」という未完了の含意を持つ。"
+      ],
+      "synonyms": [
+        {
+          "word": "say",
+          "definition": "言葉を発する、ある内容を述べる",
+          "frequency": 10,
+          "difference": "発言の開始ではなく、発言内容を伝える最も一般的な動詞。短い一言にも使える",
+          "example": "“I’ll call you tomorrow,” she said.",
+          "translation": "「明日電話します」と彼女は言いました。"
+        },
+        {
+          "word": "start speaking",
+          "definition": "話す動作を始める",
+          "frequency": 8,
+          "difference": "文学的な含みが少なく、日常的・説明的に発話開始を表す",
+          "example": "Everyone became quiet when she started speaking.",
+          "translation": "彼女が話し始めると、全員が静かになりました。"
+        },
+        {
+          "word": "open with [something]",
+          "definition": "演説・会議・発言などを～から始める",
+          "frequency": 7,
+          "difference": "発話動作そのものより、公式な発言や催しの冒頭に何を述べるかに焦点がある",
+          "example": "The chair opened with a brief review of the agenda.",
+          "translation": "議長は議題の簡単な確認から話を始めました。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
