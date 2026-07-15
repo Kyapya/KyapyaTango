@@ -7,6 +7,8 @@
 <link rel="stylesheet" href="../assets/site.css">
 <style id="mobile-toolbar-style">
 .mobile-toolbar-toggle{display:none}
+.hide-ja .ja.ja-revealed{filter:none}
+.hide-ja .ja:hover:not(.ja-revealed){filter:blur(5px)}
 @media(max-width:720px){
   .word-toolbar.mobile-tools-ready{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;padding:7px 12px;max-height:calc(100vh - 78px);overflow-y:auto;transition:transform .2s ease,box-shadow .2s ease}
   .word-toolbar.mobile-tools-ready.mobile-toolbar-hidden{transform:translateY(calc(-100% - 2px))}
@@ -1203,5 +1205,5 @@
 </main>
 </div>
 <button class="backtop" onclick="window.scrollTo({top:0,behavior:'smooth'})" aria-label="上部へ戻る">↑</button>
-<script src="../assets/site.js?v=20260715-2"></script>
+<script src="../assets/site.js?v=20260715-3"></script>
 </body></html>
