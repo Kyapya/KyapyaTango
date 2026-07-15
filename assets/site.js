@@ -62,6 +62,36 @@
       }
     });
 
+    let touchY = null;
+    document.addEventListener('touchstart', (event) => {
+      if (!mobileQuery.matches || toolbar.contains(event.target)) {
+        touchY = null;
+        return;
+      }
+      touchY = event.touches[0]?.clientY ?? null;
+    }, { passive: true });
+
+    document.addEventListener('touchmove', (event) => {
+      if (!mobileQuery.matches || touchY === null) return;
+      const nextTouchY = event.touches[0]?.clientY;
+      if (nextTouchY === undefined) return;
+
+      const fingerDelta = nextTouchY - touchY;
+      if (Math.abs(fingerDelta) < 12) return;
+
+      if (fingerDelta < 0) {
+        if (toolbar.classList.contains('mobile-tools-open')) setOpen(false);
+        if (window.scrollY > 40) toolbar.classList.add('mobile-toolbar-hidden');
+      } else {
+        toolbar.classList.remove('mobile-toolbar-hidden');
+      }
+      touchY = nextTouchY;
+    }, { passive: true });
+
+    document.addEventListener('touchend', () => {
+      touchY = null;
+    }, { passive: true });
+
     let lastScrollY = window.scrollY;
     window.addEventListener('scroll', () => {
       const currentY = window.scrollY;
@@ -70,11 +100,17 @@
         return;
       }
 
+      // Opening the toolbar changes page layout and may fire a synthetic-looking
+      // scroll event. Do not close the toolbar unless a real touch gesture does it.
+      if (toolbar.classList.contains('mobile-tools-open')) {
+        lastScrollY = currentY;
+        return;
+      }
+
       const delta = currentY - lastScrollY;
       if (Math.abs(delta) < 8) return;
 
       if (delta > 0) {
-        if (toolbar.classList.contains('mobile-tools-open')) setOpen(false);
         if (currentY > 80) toolbar.classList.add('mobile-toolbar-hidden');
       } else {
         toolbar.classList.remove('mobile-toolbar-hidden');
