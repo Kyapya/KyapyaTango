@@ -14,6 +14,7 @@
   const search = document.getElementById('pageSearch');
   const freq = document.getElementById('freqFilter');
   const empty = document.getElementById('noResults');
+  const toolbar = document.querySelector('.word-toolbar');
 
   // Limit study-mode hiding to the requested learning targets.
   // Keep usage notes, overviews, pronunciation, etymology, core image and central definitions visible.
@@ -23,6 +24,71 @@
     );
     if (!isStudyTarget) element.classList.remove('ja');
   });
+
+  function installMobileToolbar() {
+    if (!toolbar || toolbar.querySelector('#mobileToolsToggle')) return;
+
+    const mobileQuery = window.matchMedia('(max-width: 720px)');
+    const toggle = document.createElement('button');
+    toggle.type = 'button';
+    toggle.id = 'mobileToolsToggle';
+    toggle.className = 'mobile-toolbar-toggle';
+    toggle.setAttribute('aria-expanded', 'false');
+    toggle.setAttribute('aria-controls', 'pageSearch freqFilter jaToggle expandAll collapseAll');
+    toggle.innerHTML = '<span>学習ツール</span><span class="mobile-toolbar-chevron" aria-hidden="true">⌄</span>';
+    toolbar.prepend(toggle);
+    toolbar.classList.add('mobile-tools-ready');
+
+    const setOpen = (open, focusSearch = false) => {
+      toolbar.classList.toggle('mobile-tools-open', open);
+      toolbar.classList.remove('mobile-toolbar-hidden');
+      toggle.setAttribute('aria-expanded', String(open));
+      toggle.querySelector('.mobile-toolbar-chevron').textContent = open ? '⌃' : '⌄';
+      if (open && focusSearch) window.setTimeout(() => search?.focus(), 80);
+    };
+
+    toggle.addEventListener('click', () => {
+      setOpen(!toolbar.classList.contains('mobile-tools-open'));
+    });
+
+    document.addEventListener('click', (event) => {
+      if (
+        mobileQuery.matches &&
+        toolbar.classList.contains('mobile-tools-open') &&
+        !toolbar.contains(event.target)
+      ) {
+        setOpen(false);
+      }
+    });
+
+    const closeAfterAction = () => {
+      if (!mobileQuery.matches) return;
+      window.setTimeout(() => setOpen(false), 120);
+    };
+    freq?.addEventListener('change', closeAfterAction);
+    document.getElementById('jaToggle')?.addEventListener('click', closeAfterAction);
+    document.getElementById('expandAll')?.addEventListener('click', closeAfterAction);
+    document.getElementById('collapseAll')?.addEventListener('click', closeAfterAction);
+
+    let lastScrollY = window.scrollY;
+    window.addEventListener('scroll', () => {
+      if (!mobileQuery.matches || toolbar.classList.contains('mobile-tools-open')) {
+        lastScrollY = window.scrollY;
+        return;
+      }
+      const currentY = window.scrollY;
+      const delta = currentY - lastScrollY;
+      if (Math.abs(delta) < 8) return;
+      toolbar.classList.toggle('mobile-toolbar-hidden', delta > 0 && currentY > 160);
+      lastScrollY = currentY;
+    }, { passive: true });
+
+    mobileQuery.addEventListener?.('change', (event) => {
+      setOpen(false);
+      if (!event.matches) toolbar.classList.remove('mobile-toolbar-hidden');
+    });
+  }
+  installMobileToolbar();
 
   function filterCards(){
     const q=(search?.value||'').trim().toLowerCase();
