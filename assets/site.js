@@ -15,6 +15,7 @@
   const freq = document.getElementById('freqFilter');
   const empty = document.getElementById('noResults');
   const toolbar = document.querySelector('.word-toolbar');
+  const jaToggle = document.getElementById('jaToggle');
 
   // Limit study-mode hiding to the requested learning targets.
   // Keep usage notes, overviews, pronunciation, etymology, core image and central definitions visible.
@@ -63,14 +64,21 @@
 
     let lastScrollY = window.scrollY;
     window.addEventListener('scroll', () => {
-      if (!mobileQuery.matches || toolbar.classList.contains('mobile-tools-open')) {
-        lastScrollY = window.scrollY;
+      const currentY = window.scrollY;
+      if (!mobileQuery.matches) {
+        lastScrollY = currentY;
         return;
       }
-      const currentY = window.scrollY;
+
       const delta = currentY - lastScrollY;
       if (Math.abs(delta) < 8) return;
-      toolbar.classList.toggle('mobile-toolbar-hidden', delta > 0 && currentY > 160);
+
+      if (delta > 0) {
+        if (toolbar.classList.contains('mobile-tools-open')) setOpen(false);
+        if (currentY > 80) toolbar.classList.add('mobile-toolbar-hidden');
+      } else {
+        toolbar.classList.remove('mobile-toolbar-hidden');
+      }
       lastScrollY = currentY;
     }, { passive: true });
 
@@ -88,8 +96,22 @@
     if(empty) empty.style.display=shown?'none':'block';
   }
   search?.addEventListener('input',filterCards);freq?.addEventListener('change',filterCards);
-  document.getElementById('jaToggle')?.addEventListener('click',e=>{const state=body.classList.toggle('hide-ja');e.currentTarget.textContent=state?'日本語を表示':'日本語を隠す';});
-  body.addEventListener('click',e=>{if(body.classList.contains('hide-ja')&&e.target.closest('.ja')){const el=e.target.closest('.ja');el.style.filter=el.style.filter?'':'none';}});
+
+  jaToggle?.addEventListener('click', (event) => {
+    const state = body.classList.toggle('hide-ja');
+    document.querySelectorAll('.ja-revealed').forEach((element) => {
+      element.classList.remove('ja-revealed');
+    });
+    event.currentTarget.textContent = state ? '日本語を表示' : '日本語を隠す';
+  });
+
+  body.addEventListener('click', (event) => {
+    if (!body.classList.contains('hide-ja')) return;
+    const element = event.target.closest('.ja');
+    if (!element) return;
+    element.classList.toggle('ja-revealed');
+  });
+
   document.getElementById('expandAll')?.addEventListener('click',()=>document.querySelectorAll('details').forEach(d=>d.open=true));
   document.getElementById('collapseAll')?.addEventListener('click',()=>document.querySelectorAll('details').forEach(d=>d.open=false));
 

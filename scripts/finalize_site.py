@@ -7,10 +7,12 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 WORDS = ROOT / "words"
-ASSET_VERSION = "20260715-2"
+ASSET_VERSION = "20260715-3"
 
 MOBILE_TOOLBAR_STYLE = """<style id="mobile-toolbar-style">
 .mobile-toolbar-toggle{display:none}
+.hide-ja .ja.ja-revealed{filter:none}
+.hide-ja .ja:hover:not(.ja-revealed){filter:blur(5px)}
 @media(max-width:720px){
   .word-toolbar.mobile-tools-ready{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;padding:7px 12px;max-height:calc(100vh - 78px);overflow-y:auto;transition:transform .2s ease,box-shadow .2s ease}
   .word-toolbar.mobile-tools-ready.mobile-toolbar-hidden{transform:translateY(calc(-100% - 2px))}
