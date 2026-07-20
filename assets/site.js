@@ -17,6 +17,14 @@
   const toolbar = document.querySelector('.word-toolbar');
   const jaToggle = document.getElementById('jaToggle');
 
+  // The sense number is already shown in the card heading, so remove a duplicated
+  // leading "1." / "2．" from definition text and home-page summaries.
+  document.querySelectorAll('.sense-card .definition, .word-card .summary').forEach((element) => {
+    const original = element.textContent || '';
+    const cleaned = original.replace(/^\s*\d+\s*[.．]\s*/, '');
+    if (cleaned !== original) element.textContent = cleaned;
+  });
+
   // Repair legacy generated pages whose summary contains only a sense number.
   const heroLead = document.querySelector('.word-hero > p.ja');
   if (heroLead && /^\s*\d+[.．]?\s*$/.test(heroLead.textContent || '')) {
