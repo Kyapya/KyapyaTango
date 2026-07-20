@@ -23,6 +23,8 @@ HTML_TAG_RE = re.compile(r"<[^>]+>")
 LABEL_RE = re.compile(r"^([^:：]+)\s*[:：]\s*(.*)$")
 SINGLE_ASTERISK_EMPHASIS_RE = re.compile(r"(?<!\\)(?<!\*)\*([^*\n]+)\*(?!\*)")
 SINGLE_UNDERSCORE_EMPHASIS_RE = re.compile(r"(?<!\\)(?<!_)_([^_\n]+)_(?!_)")
+LEADING_SENSE_NUMBER_RE = re.compile(r"^\s*\d+\s*[.．]\s*")
+ONLY_SENSE_NUMBER_RE = re.compile(r"^\s*\d+\s*[.．]?\s*$")
 
 SECTION_ALIASES = {
     "発音記号": "pronunciation",
@@ -239,6 +241,23 @@ def _split_register(text: str) -> list[str]:
     return [value for value in re.split(r"\s*(?:／|/|\|)\s*", text) if value]
 
 
+def _lead_from_definition(definition: str, limit: int = 180) -> str:
+    """Build a stable page summary from the first non-empty definition line."""
+    first_line = next(
+        (line.strip() for line in definition.splitlines() if line.strip()),
+        "",
+    )
+    return LEADING_SENSE_NUMBER_RE.sub("", first_line).strip()[:limit]
+
+
+def _resolve_lead(existing_lead: Any, senses: list[dict[str, Any]]) -> str:
+    """Keep a useful curated lead, but repair empty or number-only legacy values."""
+    lead = str(existing_lead or "").strip()
+    if lead and not ONLY_SENSE_NUMBER_RE.fullmatch(lead):
+        return LEADING_SENSE_NUMBER_RE.sub("", lead).strip()[:180]
+    return _lead_from_definition(senses[0].get("definition", "")) if senses else ""
+
+
 def parse_dictionary_markdown(
     markdown: str,
     *,
@@ -302,11 +321,7 @@ def parse_dictionary_markdown(
             }
         )
 
-    lead = existing.get("lead", "") or (
-        re.split(r"(?<=[。.!?])\s*", senses[0]["definition"])[0][:180]
-        if senses
-        else ""
-    )
+    lead = _resolve_lead(existing.get("lead", ""), senses)
     return {
         "word": word.strip(),
         "slug": existing.get("slug") or slugify(word),
@@ -338,6 +353,11 @@ def validate_entry(entry: dict[str, Any]) -> list[str]:
         errors.append("slug is empty")
     if not entry.get("ipa"):
         errors.append("pronunciation/IPA could not be parsed")
+    lead = str(entry.get("lead") or "").strip()
+    if not lead:
+        errors.append("lead is empty")
+    elif ONLY_SENSE_NUMBER_RE.fullmatch(lead):
+        errors.append(f"lead contains only a sense number: {lead!r}")
     senses = entry.get("senses") or []
     if not senses:
         errors.append("no sense headings were found")
