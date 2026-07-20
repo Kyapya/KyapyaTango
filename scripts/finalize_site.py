@@ -7,7 +7,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 WORDS = ROOT / "words"
-ASSET_VERSION = "20260720-1"
+ASSET_VERSION = "20260720-2"
 
 MOBILE_TOOLBAR_STYLE = """<style id="mobile-toolbar-style">
 .mobile-toolbar-toggle{display:none}
