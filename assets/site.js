@@ -17,6 +17,19 @@
   const toolbar = document.querySelector('.word-toolbar');
   const jaToggle = document.getElementById('jaToggle');
 
+  // Repair legacy generated pages whose summary contains only a sense number.
+  const heroLead = document.querySelector('.word-hero > p.ja');
+  if (heroLead && /^\s*\d+[.．]?\s*$/.test(heroLead.textContent || '')) {
+    const definition = document.querySelector('.sense-card .definition');
+    const firstLine = (definition?.textContent || '')
+      .split(/\r?\n/)
+      .find((line) => line.trim());
+    const repaired = firstLine
+      ?.replace(/^\s*\d+\s*[.．]\s*/, '')
+      .trim();
+    if (repaired) heroLead.textContent = repaired;
+  }
+
   // Limit study-mode hiding to the requested learning targets.
   // Keep usage notes, overviews, pronunciation, etymology, core image and central definitions visible.
   document.querySelectorAll('.ja').forEach((element) => {
