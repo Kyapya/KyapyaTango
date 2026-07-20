@@ -67,7 +67,17 @@
         .speech-button:focus-visible{outline:3px solid color-mix(in srgb,var(--primary) 25%,transparent);outline-offset:2px}
         .speech-button.is-speaking{background:var(--primary);border-color:var(--primary);color:white}
         .speech-button svg{width:16px;height:16px;fill:currentColor;pointer-events:none}
-        @media(max-width:720px){.speech-button{width:34px;height:34px;margin-left:8px}}
+        .word-hero h1 .headword-speech-button{
+          width:42px;height:42px;margin-left:13px;
+          border-color:rgba(255,255,255,.48);background:rgba(255,255,255,.14);color:white
+        }
+        .word-hero h1 .headword-speech-button:hover{border-color:white;background:rgba(255,255,255,.22)}
+        .word-hero h1 .headword-speech-button.is-speaking{border-color:white;background:white;color:var(--primary2)}
+        .word-hero h1 .headword-speech-button svg{width:21px;height:21px}
+        @media(max-width:720px){
+          .speech-button{width:34px;height:34px;margin-left:8px}
+          .word-hero h1 .headword-speech-button{width:40px;height:40px;margin-left:10px}
+        }
         @media(prefers-reduced-motion:reduce){.speech-button{transition:none}}
       `;
       document.head.append(style);
@@ -92,10 +102,11 @@
 
     const resetButton = (button) => {
       if (!button) return;
+      const defaultLabel = button.dataset.speechLabel || '例文を読み上げる';
       button.classList.remove('is-speaking');
       button.setAttribute('aria-pressed', 'false');
-      button.setAttribute('aria-label', '例文を読み上げる');
-      button.title = '例文を読み上げる';
+      button.setAttribute('aria-label', defaultLabel);
+      button.title = defaultLabel;
     };
 
     const stopSpeech = () => {
@@ -103,6 +114,63 @@
       resetButton(activeButton);
       activeButton = null;
     };
+
+    const createSpeechButton = (defaultLabel) => {
+      const button = document.createElement('button');
+      button.type = 'button';
+      button.className = 'speech-button';
+      button.dataset.speechLabel = defaultLabel;
+      button.setAttribute('aria-label', defaultLabel);
+      button.setAttribute('aria-pressed', 'false');
+      button.title = defaultLabel;
+      button.innerHTML = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9v6h4l5 4V5L8 9H4zm11.5 3a3.5 3.5 0 0 0-1.5-2.87v5.74A3.5 3.5 0 0 0 15.5 12zm0-7.18v2.06a6 6 0 0 1 0 10.24v2.06a8 8 0 0 0 0-14.36z"/></svg>';
+      return button;
+    };
+
+    const playSpeech = (button, text) => {
+      if (activeButton === button) {
+        stopSpeech();
+        return;
+      }
+
+      stopSpeech();
+      const utterance = new SpeechSynthesisUtterance(text);
+      const voice = pickVoice();
+      if (voice) {
+        utterance.voice = voice;
+        utterance.lang = voice.lang;
+      } else {
+        utterance.lang = 'en-US';
+      }
+      utterance.rate = 0.9;
+      utterance.pitch = 1;
+      utterance.volume = 1;
+
+      activeButton = button;
+      button.classList.add('is-speaking');
+      button.setAttribute('aria-pressed', 'true');
+      button.setAttribute('aria-label', '読み上げを停止する');
+      button.title = '読み上げを停止する';
+
+      const finish = () => {
+        if (activeButton !== button) return;
+        resetButton(button);
+        activeButton = null;
+      };
+      utterance.addEventListener('end', finish);
+      utterance.addEventListener('error', finish);
+      synth.speak(utterance);
+    };
+
+    const headwordHeading = document.querySelector('.word-hero h1');
+    const headword = (word || headwordHeading?.textContent || '').trim();
+    if (headwordHeading && headword && !headwordHeading.querySelector('.headword-speech-button')) {
+      const label = `見出し語 ${headword} を読み上げる`;
+      const button = createSpeechButton(label);
+      button.classList.add('headword-speech-button');
+      button.addEventListener('click', () => playSpeech(button, headword));
+      headwordHeading.append(button);
+    }
 
     document.querySelectorAll('.collocation p, .relation-card p').forEach((paragraph) => {
       const label = paragraph.firstElementChild;
@@ -120,49 +188,8 @@
         .trim();
       if (!sentence) return;
 
-      const button = document.createElement('button');
-      button.type = 'button';
-      button.className = 'speech-button';
-      button.setAttribute('aria-label', '例文を読み上げる');
-      button.setAttribute('aria-pressed', 'false');
-      button.title = '例文を読み上げる';
-      button.innerHTML = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9v6h4l5 4V5L8 9H4zm11.5 3a3.5 3.5 0 0 0-1.5-2.87v5.74A3.5 3.5 0 0 0 15.5 12zm0-7.18v2.06a6 6 0 0 1 0 10.24v2.06a8 8 0 0 0 0-14.36z"/></svg>';
-
-      button.addEventListener('click', () => {
-        if (activeButton === button) {
-          stopSpeech();
-          return;
-        }
-
-        stopSpeech();
-        const utterance = new SpeechSynthesisUtterance(sentence);
-        const voice = pickVoice();
-        if (voice) {
-          utterance.voice = voice;
-          utterance.lang = voice.lang;
-        } else {
-          utterance.lang = 'en-US';
-        }
-        utterance.rate = 0.9;
-        utterance.pitch = 1;
-        utterance.volume = 1;
-
-        activeButton = button;
-        button.classList.add('is-speaking');
-        button.setAttribute('aria-pressed', 'true');
-        button.setAttribute('aria-label', '読み上げを停止する');
-        button.title = '読み上げを停止する';
-
-        const finish = () => {
-          if (activeButton !== button) return;
-          resetButton(button);
-          activeButton = null;
-        };
-        utterance.addEventListener('end', finish);
-        utterance.addEventListener('error', finish);
-        synth.speak(utterance);
-      });
-
+      const button = createSpeechButton('例文を読み上げる');
+      button.addEventListener('click', () => playSpeech(button, sentence));
       paragraph.append(' ', button);
     });
 
