@@ -49,6 +49,127 @@
     if (!isStudyTarget) element.classList.remove('ja');
   });
 
+  function installExampleSpeech() {
+    if (!('speechSynthesis' in window) || !('SpeechSynthesisUtterance' in window)) return;
+
+    if (!document.getElementById('example-speech-style')) {
+      const style = document.createElement('style');
+      style.id = 'example-speech-style';
+      style.textContent = `
+        .speech-button{
+          display:inline-grid;place-items:center;vertical-align:middle;
+          width:30px;height:30px;margin-left:7px;padding:0;
+          border:1px solid var(--line);border-radius:999px;
+          background:var(--panel);color:var(--primary);cursor:pointer;
+          transition:background .15s ease,color .15s ease,border-color .15s ease,transform .15s ease
+        }
+        .speech-button:hover{border-color:var(--primary);transform:translateY(-1px)}
+        .speech-button:focus-visible{outline:3px solid color-mix(in srgb,var(--primary) 25%,transparent);outline-offset:2px}
+        .speech-button.is-speaking{background:var(--primary);border-color:var(--primary);color:white}
+        .speech-button svg{width:16px;height:16px;fill:currentColor;pointer-events:none}
+        @media(max-width:720px){.speech-button{width:34px;height:34px;margin-left:8px}}
+        @media(prefers-reduced-motion:reduce){.speech-button{transition:none}}
+      `;
+      document.head.append(style);
+    }
+
+    const synth = window.speechSynthesis;
+    let activeButton = null;
+    let englishVoices = [];
+
+    const refreshVoices = () => {
+      englishVoices = synth.getVoices().filter((voice) => /^en(?:-|_)/i.test(voice.lang));
+    };
+    refreshVoices();
+    synth.addEventListener?.('voiceschanged', refreshVoices);
+
+    const pickVoice = () => {
+      const preferredName = /(Google|Microsoft|Samantha|Natural|Enhanced)/i;
+      return englishVoices.find(
+        (voice) => /^en-US$/i.test(voice.lang) && preferredName.test(voice.name)
+      ) || englishVoices.find((voice) => /^en-US$/i.test(voice.lang)) || englishVoices[0] || null;
+    };
+
+    const resetButton = (button) => {
+      if (!button) return;
+      button.classList.remove('is-speaking');
+      button.setAttribute('aria-pressed', 'false');
+      button.setAttribute('aria-label', '例文を読み上げる');
+      button.title = '例文を読み上げる';
+    };
+
+    const stopSpeech = () => {
+      synth.cancel();
+      resetButton(activeButton);
+      activeButton = null;
+    };
+
+    document.querySelectorAll('.collocation p, .relation-card p').forEach((paragraph) => {
+      const label = paragraph.firstElementChild;
+      if (
+        !label ||
+        label.tagName !== 'B' ||
+        label.textContent.trim() !== '例' ||
+        paragraph.querySelector('.speech-button')
+      ) return;
+
+      const sentence = [...paragraph.childNodes]
+        .filter((node) => node !== label)
+        .map((node) => node.textContent || '')
+        .join('')
+        .trim();
+      if (!sentence) return;
+
+      const button = document.createElement('button');
+      button.type = 'button';
+      button.className = 'speech-button';
+      button.setAttribute('aria-label', '例文を読み上げる');
+      button.setAttribute('aria-pressed', 'false');
+      button.title = '例文を読み上げる';
+      button.innerHTML = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9v6h4l5 4V5L8 9H4zm11.5 3a3.5 3.5 0 0 0-1.5-2.87v5.74A3.5 3.5 0 0 0 15.5 12zm0-7.18v2.06a6 6 0 0 1 0 10.24v2.06a8 8 0 0 0 0-14.36z"/></svg>';
+
+      button.addEventListener('click', () => {
+        if (activeButton === button) {
+          stopSpeech();
+          return;
+        }
+
+        stopSpeech();
+        const utterance = new SpeechSynthesisUtterance(sentence);
+        const voice = pickVoice();
+        if (voice) {
+          utterance.voice = voice;
+          utterance.lang = voice.lang;
+        } else {
+          utterance.lang = 'en-US';
+        }
+        utterance.rate = 0.9;
+        utterance.pitch = 1;
+        utterance.volume = 1;
+
+        activeButton = button;
+        button.classList.add('is-speaking');
+        button.setAttribute('aria-pressed', 'true');
+        button.setAttribute('aria-label', '読み上げを停止する');
+        button.title = '読み上げを停止する';
+
+        const finish = () => {
+          if (activeButton !== button) return;
+          resetButton(button);
+          activeButton = null;
+        };
+        utterance.addEventListener('end', finish);
+        utterance.addEventListener('error', finish);
+        synth.speak(utterance);
+      });
+
+      paragraph.append(' ', button);
+    });
+
+    window.addEventListener('pagehide', stopSpeech);
+  }
+  installExampleSpeech();
+
   function installMobileToolbar() {
     if (!toolbar || toolbar.querySelector('#mobileToolsToggle')) return;
 
