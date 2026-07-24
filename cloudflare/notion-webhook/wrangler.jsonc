@@ -1,0 +1,13 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "kyapya-tango-notion-webhook",
+  "main": "src/index.js",
+  "compatibility_date": "2026-07-24",
+  "workers_dev": true,
+  "vars": {
+    "GITHUB_OWNER": "Kyapya",
+    "GITHUB_REPO": "KyapyaTango",
+    "GITHUB_WORKFLOW": "sync-notion.yml",
+    "GITHUB_REF": "main"
+  }
+}
