@@ -9,6 +9,13 @@ on:
         type: string
   schedule:
     - cron: '17 */6 * * *'
+  push:
+    branches:
+      - main
+    paths:
+      - scripts/normalize_content.py
+      - tests/test_normalize_content.py
+      - .github/workflows/sync-notion.yml
 
 permissions:
   contents: write
@@ -55,6 +62,9 @@ jobs:
             args+=(--allow-partial)
           fi
           python scripts/sync_notion.py "${args[@]}"
+
+      - name: Normalize generated content
+        run: python scripts/normalize_content.py
 
       - name: Build static site
         run: python scripts/build_site.py
