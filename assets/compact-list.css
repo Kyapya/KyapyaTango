@@ -68,6 +68,10 @@
   display:none;
 }
 
+.howto{
+  display:none;
+}
+
 @media(max-width:850px){
   .word-card>a{
     grid-template-columns:minmax(0,1fr) auto;
