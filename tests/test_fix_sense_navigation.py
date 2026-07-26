@@ -11,13 +11,23 @@ from fix_sense_navigation import navigation_label, repair_navigation  # noqa: E4
 
 
 class SenseNavigationTests(unittest.TestCase):
-    def test_removes_only_decorative_outer_brackets(self) -> None:
-        self.assertEqual(navigation_label("【形容詞】"), "形容詞")
+    def test_preserves_complete_bracketed_titles(self) -> None:
+        self.assertEqual(navigation_label("【形容詞】"), "【形容詞】")
         self.assertEqual(
             navigation_label("【形容詞・古風／歴史的用法】"),
-            "形容詞・古風／歴史的用法",
+            "【形容詞・古風／歴史的用法】",
+        )
+        self.assertEqual(
+            navigation_label("【従属接続詞】～だけれども"),
+            "【従属接続詞】～だけれども",
         )
         self.assertEqual(navigation_label("形容詞"), "形容詞")
+
+    def test_repairs_legacy_surplus_closing_bracket(self) -> None:
+        self.assertEqual(
+            navigation_label("【従属接続詞】～だけれども】"),
+            "【従属接続詞】～だけれども",
+        )
 
     def test_repairs_number_only_navigation_links(self) -> None:
         html = (
@@ -34,9 +44,9 @@ class SenseNavigationTests(unittest.TestCase):
         repaired, changed = repair_navigation(html, senses)
 
         self.assertEqual(changed, 2)
-        self.assertIn('<span>1</span>形容詞</a>', repaired)
+        self.assertIn('<span>1</span>【形容詞】</a>', repaired)
         self.assertIn(
-            '<span>2</span>形容詞・古風／歴史的用法</a>',
+            '<span>2</span>【形容詞・古風／歴史的用法】</a>',
             repaired,
         )
 
@@ -53,7 +63,7 @@ class SenseNavigationTests(unittest.TestCase):
         self.assertEqual(
             repaired,
             '<a href="#sense-1" data-target="sense-1">'
-            '<span>1</span>名詞・可算</a>',
+            '<span>1</span>【名詞・可算】</a>',
         )
 
 

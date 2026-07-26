@@ -8,20 +8,16 @@ from pathlib import Path
 import re
 from typing import Any
 
+from normalize_content import normalize_sense_title
+
 ROOT = Path(__file__).resolve().parents[1]
 CONTENT = ROOT / "content"
 WORDS = ROOT / "words"
 
 
 def navigation_label(title: Any) -> str:
-    """Remove decorative outer brackets while preserving the title text."""
-    value = str(title or "").strip()
-    for opening, closing in (("【", "】"), ("[", "]")):
-        if value.startswith(opening):
-            value = value[len(opening):].lstrip()
-        if value.endswith(closing):
-            value = value[:-len(closing)].rstrip()
-    return value
+    """Return the complete normalized sense title for the navigation."""
+    return normalize_sense_title(title)
 
 
 def repair_navigation(html: str, senses: list[dict[str, Any]]) -> tuple[str, int]:

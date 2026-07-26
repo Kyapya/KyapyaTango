@@ -23,6 +23,18 @@ class SenseTitleNormalizationTests(unittest.TestCase):
     def test_repairs_missing_opening_bracket(self) -> None:
         self.assertEqual(normalize_sense_title("形容詞】"), "【形容詞】")
 
+    def test_preserves_completed_label_followed_by_a_gloss(self) -> None:
+        self.assertEqual(
+            normalize_sense_title("【従属接続詞】～だけれども"),
+            "【従属接続詞】～だけれども",
+        )
+
+    def test_removes_only_a_surplus_trailing_closer(self) -> None:
+        self.assertEqual(
+            normalize_sense_title("【従属接続詞】～だけれども】"),
+            "【従属接続詞】～だけれども",
+        )
+
     def test_preserves_balanced_and_plain_titles(self) -> None:
         self.assertEqual(normalize_sense_title("【形容詞】"), "【形容詞】")
         self.assertEqual(normalize_sense_title("形容詞"), "形容詞")
@@ -31,14 +43,14 @@ class SenseTitleNormalizationTests(unittest.TestCase):
         entry = {
             "senses": [
                 {"number": 1, "title": "【形容詞"},
-                {"number": 2, "title": "【形容詞・古風／歴史的用法"},
+                {"number": 2, "title": "【従属接続詞】ただし～ではある】"},
             ]
         }
         self.assertTrue(normalize_entry(entry))
         self.assertEqual(entry["senses"][0]["title"], "【形容詞】")
         self.assertEqual(
             entry["senses"][1]["title"],
-            "【形容詞・古風／歴史的用法】",
+            "【従属接続詞】ただし～ではある",
         )
 
     def test_normalize_file_writes_valid_json(self) -> None:
