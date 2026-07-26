@@ -193,7 +193,6 @@ def home_page(words: list[dict]) -> str:
 <section class="home-hero"><p class="kicker">A DEEP ENGLISH–JAPANESE DICTIONARY</p><h1>意味だけでなく、<br>使い方まで身につく辞典。</h1><p>発音、語源、コアイメージ、主要構文、コロケーション、類義語の違いを一つのページで学べます。</p><div class="home-search"><input id="homeSearch" type="search" placeholder="英単語・日本語訳・構文を検索"><span>⌕</span></div><div id="suggestions" class="suggestions"></div></section>
 <section class="stats"><div><b>{len(words)}</b><span>収録単語</span></div><div><b>{sum(len(w['senses']) for w in words)}</b><span>収録語義</span></div><div><b>A–Z</b><span>索引対応</span></div><div><b>100%</b><span>静的サイト</span></div></section>
 <section class="dictionary-section" id="words"><div class="section-title"><div><p>DICTIONARY</p><h2>単語一覧</h2></div><small>アルファベット・検索で絞り込み</small></div><div class="alphabet" id="alphabet">{letter_buttons}</div><div class="word-grid" id="wordGrid">{''.join(cards)}</div><div id="homeEmpty" class="empty-state">該当する単語がありません。</div></section>
-<section class="howto"><div><p class="kicker">FIRST STAGE COMPLETE</p><h2>新しい単語を追加できる構成</h2></div><ol><li><b>content/</b> に単語JSONを追加</li><li><b>scripts/build_site.py</b> を実行</li><li>トップページ、単語ページ、検索索引を一括更新</li></ol></section>
 </main>
 <footer class="site-footer"><p>英和辞典Extra</p><p>学習用の詳細英和辞典</p></footer>
 <script id="dictionaryData" type="application/json">{index_json}</script><script src="assets/home.js"></script></body></html>'''
