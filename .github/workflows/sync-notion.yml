@@ -13,8 +13,11 @@ on:
     branches:
       - main
     paths:
+      - scripts/build_site.py
       - scripts/normalize_content.py
       - scripts/fix_sense_navigation.py
+      - assets/home.js
+      - assets/compact-list.css
       - tests/test_normalize_content.py
       - tests/test_fix_sense_navigation.py
       - .github/workflows/sync-notion.yml
