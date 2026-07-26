@@ -10,14 +10,35 @@ from typing import Any
 BRACKET_PAIRS = (("【", "】"), ("[", "]"))
 
 
+def _repair_bracket_pair(value: str, opening: str, closing: str) -> str:
+    """Repair only an unmatched leading label bracket or surplus trailing closer."""
+    if not value:
+        return value
+
+    if value.startswith(opening):
+        if closing not in value:
+            return value + closing
+
+        # A title such as "【従属接続詞】～だけれども】" already has a
+        # complete label. Remove only surplus closing brackets at the very end.
+        while value.endswith(closing) and value.count(closing) > value.count(opening):
+            value = value[:-len(closing)].rstrip()
+        return value
+
+    if opening not in value and closing in value:
+        value = opening + value
+        while value.endswith(closing) and value.count(closing) > value.count(opening):
+            value = value[:-len(closing)].rstrip()
+        return value
+
+    return value
+
+
 def normalize_sense_title(title: Any) -> str:
-    """Repair only unmatched outer title brackets without changing plain titles."""
+    """Balance a leading sense-label bracket without changing the title text."""
     value = str(title or "").strip()
     for opening, closing in BRACKET_PAIRS:
-        if value.startswith(opening) and not value.endswith(closing):
-            return value + closing
-        if value.endswith(closing) and not value.startswith(opening):
-            return opening + value
+        value = _repair_bracket_pair(value, opening, closing)
     return value
 
 
