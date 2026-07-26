@@ -1,4 +1,5 @@
 (() => {
+ const compactStyles=document.createElement('link');compactStyles.rel='stylesheet';compactStyles.href='assets/compact-list.css?v=1';compactStyles.dataset.compactWordList='';document.head.appendChild(compactStyles);
  const root=document.documentElement;const theme=document.getElementById('themeToggle');const saved=localStorage.getItem('eijiten-theme');if(saved)root.dataset.theme=saved;theme?.addEventListener('click',()=>{root.dataset.theme=root.dataset.theme==='dark'?'light':'dark';localStorage.setItem('eijiten-theme',root.dataset.theme);});
  const cards=[...document.querySelectorAll('.word-card')];const input=document.getElementById('homeSearch');const empty=document.getElementById('homeEmpty');const alphabet=document.getElementById('alphabet');let activeLetter='all';
  function apply(){const q=(input.value||'').trim().toLowerCase();let shown=0;cards.forEach(c=>{const ok=(activeLetter==='all'||c.dataset.letter===activeLetter)&&(!q||c.dataset.search.includes(q));c.style.display=ok?'':'none';if(ok)shown++;});empty.style.display=shown?'none':'block';}
