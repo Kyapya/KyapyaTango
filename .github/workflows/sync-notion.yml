@@ -14,7 +14,9 @@ on:
       - main
     paths:
       - scripts/normalize_content.py
+      - scripts/fix_sense_navigation.py
       - tests/test_normalize_content.py
+      - tests/test_fix_sense_navigation.py
       - .github/workflows/sync-notion.yml
 
 permissions:
@@ -68,6 +70,9 @@ jobs:
 
       - name: Build static site
         run: python scripts/build_site.py
+
+      - name: Repair sense navigation labels
+        run: python scripts/fix_sense_navigation.py
 
       - name: Finalize generated pages
         run: python scripts/finalize_site.py
