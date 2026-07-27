@@ -796,6 +796,410 @@
         }
       ],
       "antonyms": []
+    },
+    {
+      "number": 10,
+      "title": "関数が取り得る出力値の集合、値域",
+      "frequency": 4,
+      "register": [
+        "数学、教育、コンピューター科学。"
+      ],
+      "definition": "ある関数について、実際に出力として取り得る値をすべて集めた集合。「値域」。入力として許される値の集合 domain「定義域」と対になる。",
+      "patterns": [
+        "the range of a function＝関数の値域",
+        "find/determine the range＝値域を求める",
+        "the range is [a set/an interval]＝値域は～である",
+        "y is in the range of f＝yは関数fの値域に属する",
+        "the domain and range of f＝関数fの定義域と値域"
+      ],
+      "collocations": [
+        {
+          "pattern": "find the range of [a function]",
+          "use": "関数が取り得る出力値の集合を求める",
+          "example": "Find the range of the function for all real values of x.",
+          "translation": "すべての実数xについて、その関数の値域を求めなさい。"
+        },
+        {
+          "pattern": "the range of f is [a set]",
+          "use": "関数の値域を集合として明示する",
+          "example": "The range of f is the set of all nonnegative real numbers.",
+          "translation": "関数fの値域は、すべての非負の実数の集合である。"
+        },
+        {
+          "pattern": "determine the domain and range",
+          "use": "関数の許される入力値と出力値を求める",
+          "example": "Use the graph to determine the domain and range.",
+          "translation": "グラフを使って定義域と値域を求めなさい。"
+        },
+        {
+          "pattern": "be in the range of [a function]",
+          "use": "ある値が関数の出力として実現可能であることを示す",
+          "example": "The value −1 is not in the range of this function.",
+          "translation": "−1はこの関数の値域に含まれない。"
+        }
+      ],
+      "notes": [
+        "domain は入力値の集合、range は実際に得られる出力値の集合。",
+        "統計の range「最大値と最小値の差」と混同しない。",
+        "多くの数学教材では range を image「像」と同じ意味で使う。codomain「終域」は、関数の定義時に出力先として指定された集合であり、実際の range より広い場合がある。",
+        "プログラミングでは range が「連続する数値の列・区間」を表す場合もあるが、言語・ライブラリごとに仕様が異なる。"
+      ],
+      "synonyms": [
+        {
+          "word": "image",
+          "definition": "関数によって実際に得られる出力値の集合",
+          "frequency": 4,
+          "difference": "数学では range と同義で使われることが多いが、image のほうが集合論・高等数学で厳密な用語として好まれる場合がある。",
+          "example": "The image of the function is contained in the positive real numbers.",
+          "translation": "その関数の像は正の実数の集合に含まれる。"
+        },
+        {
+          "word": "set of outputs",
+          "definition": "関数から実際に出力される値の集合",
+          "frequency": 5,
+          "difference": "range の意味を平易に言い換えた説明的表現で、正式な専門用語ではない。",
+          "example": "We can identify the set of outputs from the graph.",
+          "translation": "グラフから出力値の集合を特定できる。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 11,
+      "title": "AからBまで変化する、AからBの間に分布する",
+      "frequency": 9,
+      "register": [
+        "日常、ビジネス、学術、報道で広く使われる。"
+      ],
+      "definition": "値・程度・性質などが、ある下限・一端から別の上限・一端まで異なる位置に分布する。「AからBまで幅がある」「AからBの間で変化する」「AからBに及ぶ」。",
+      "patterns": [
+        "S + range from A to B＝SはAからBまでの幅がある",
+        "S + range between A and B＝SはAとBの間に分布する",
+        "S + range in age/size/price from A to B＝年齢・大きさ・価格がAからBまでに及ぶ",
+        "S + range up to + 数値＝Sは最大～に達する",
+        "S + range widely/greatly in + 性質＝性質に大きなばらつきがある"
+      ],
+      "collocations": [
+        {
+          "pattern": "range from A to B",
+          "use": "数値・程度などの下限と上限を示す最も基本的な構文",
+          "example": "Ticket prices range from ¥3,000 to ¥12,000.",
+          "translation": "チケット価格は3,000円から12,000円まで幅がある。"
+        },
+        {
+          "pattern": "range between A and B",
+          "use": "値が二つの限界の間に分布することを示す",
+          "example": "Daytime temperatures range between 20 and 28 degrees.",
+          "translation": "日中の気温は20度から28度の間で推移する。"
+        },
+        {
+          "pattern": "range in age from A to B",
+          "use": "集団を構成する人々の年齢幅を示す",
+          "example": "The participants range in age from 18 to 70.",
+          "translation": "参加者の年齢は18歳から70歳までにわたる。"
+        },
+        {
+          "pattern": "range in size from A to B",
+          "use": "複数の物の大きさ・広さの幅を示す",
+          "example": "The rooms range in size from 20 to 45 square meters.",
+          "translation": "部屋の広さは20平方メートルから45平方メートルまである。"
+        },
+        {
+          "pattern": "range widely in [quality/price/ability]",
+          "use": "品質・価格・能力などに大きなばらつきがあることを示す",
+          "example": "The available courses range widely in quality.",
+          "translation": "利用できる講座は質に大きなばらつきがある。"
+        },
+        {
+          "pattern": "range up to [a maximum]",
+          "use": "値の上限だけを示す",
+          "example": "Delivery times range up to three weeks during the holiday season.",
+          "translation": "休暇シーズンには配送に最大3週間かかることがある。"
+        }
+      ],
+      "notes": [
+        "from A to B と between A and B を混同しない。× range between A to B → ○ range from A to B／○ range between A and B。",
+        "主語は Prices、The participants のような複数形だけでなく、The price ranges from ... のような単数形にもできる。単数主語では、条件・時点・商品仕様などによって値が異なることを表す。",
+        "A と B は文法的・意味的に対応する形にする。○ from mild to severe／○ from reading reports to meeting clients。",
+        "range は静的な上下限を示す場合、単純形が一般的。Prices range from ... が基本。進行形 is ranging/are ranging は、一時的に観測されている値の変化などを強調する場合には使われる。",
+        "一つの値が時間とともに不規則に上下することを中心に述べるなら fluctuate のほうが明確な場合がある。"
+      ],
+      "synonyms": [
+        {
+          "word": "vary",
+          "definition": "対象・条件・時点によって数値・性質・状態が異なる",
+          "frequency": 9,
+          "difference": "range は上下限を示す構文に特に適する。vary は具体的な両端を示さず、単に違いがあることも表せる。",
+          "example": "Prices vary depending on the season.",
+          "translation": "価格は季節によって異なる。"
+        },
+        {
+          "word": "span",
+          "definition": "ある始点から終点までの全体を覆う",
+          "frequency": 7,
+          "difference": "range は複数の値が両端の間に分布することを示す。span は期間・距離・程度を端から端まで覆うことを強調する。",
+          "example": "The survey spans an age group from 18 to 80.",
+          "translation": "その調査は18歳から80歳までの年齢層を対象としている。"
+        },
+        {
+          "word": "run",
+          "definition": "数値・期間・寸法などがある値から別の値まで続く",
+          "frequency": 7,
+          "difference": "prices run from A to B のように range と近く使えるが、対象や構文がやや限定され、口語的になる場合がある。",
+          "example": "Monthly fees run from ¥5,000 to ¥20,000.",
+          "translation": "月額料金は5,000円から2万円までである。"
+        },
+        {
+          "word": "fluctuate",
+          "definition": "数値・水準が繰り返し上下する",
+          "frequency": 7,
+          "difference": "range は存在する上下限を示す。fluctuate は時間の経過に伴う上昇と下降そのものを強調する。",
+          "example": "Oil prices fluctuated sharply during the month.",
+          "translation": "原油価格はその月に大きく変動した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 12,
+      "title": "種類・話題・活動がAからBまで多岐にわたる",
+      "frequency": 7,
+      "register": [
+        "日常、ビジネス、学術、報道。range over はやや文章語的。"
+      ],
+      "definition": "複数の種類・話題・活動などが、性質の異なる一端から別の一端まで含まれる。また、議論・本・講義などが複数の話題を幅広く扱う。「～から～まで多岐にわたる」「幅広い話題に及ぶ」。",
+      "patterns": [
+        "S + range from [one type] to [another type]＝種類が一方から他方まで多岐にわたる",
+        "S + range over + 複数の話題＝複数の話題を扱う",
+        "S + range across + 分野・地域・時代＝複数領域にまたがる",
+        "[things] ranging from A to B＝AからBまでに及ぶ～",
+        "S + range widely＝扱う対象・内容が非常に幅広い"
+      ],
+      "collocations": [
+        {
+          "pattern": "range from [one type] to [another type]",
+          "use": "数値ではなく、仕事・種類・性質などの両端を示す",
+          "example": "Her responsibilities range from answering emails to managing major projects.",
+          "translation": "彼女の担当業務は、メールへの返信から大規模プロジェクトの管理まで多岐にわたる。"
+        },
+        {
+          "pattern": "topics ranging from A to B",
+          "use": "名詞を後ろから修飾し、扱われる話題の幅を示す",
+          "example": "The conference covers topics ranging from climate science to urban planning.",
+          "translation": "その会議では気候科学から都市計画まで幅広いテーマを扱う。"
+        },
+        {
+          "pattern": "the discussion ranges over [several topics]",
+          "use": "議論・会話が複数の話題を扱う",
+          "example": "The discussion ranges over education, housing, and public health.",
+          "translation": "その議論は教育、住宅、公衆衛生など多方面に及ぶ。"
+        },
+        {
+          "pattern": "the book ranges across [periods/fields]",
+          "use": "本・研究などが複数の時代・分野にまたがる",
+          "example": "The book ranges across several centuries of European history.",
+          "translation": "その本は数世紀にわたるヨーロッパ史を幅広く扱っている。"
+        },
+        {
+          "pattern": "interests range widely",
+          "use": "関心・活動分野などが非常に多方面に及ぶ",
+          "example": "Her research interests range widely across the social sciences.",
+          "translation": "彼女の研究関心は社会科学のさまざまな分野に広く及んでいる。"
+        }
+      ],
+      "notes": [
+        "range from A to B は、数値だけでなく、chef to swimming instructor、mild to severe のような種類・性質にも使える。",
+        "A と B の形をそろえる。○ from writing reports to meeting clients／× from writing reports to client meetings は意味は通じても並列関係が不均衡。",
+        "range over は目的語を直接取らず、over が必要。× The lecture ranged many topics. → ○ The lecture ranged over many topics.",
+        "cover は他動詞なので The lecture covered many topics. と前置詞なしで使う。",
+        "range across は複数の分野・地域・時代に「またがる」感覚が強い。"
+      ],
+      "synonyms": [
+        {
+          "word": "cover",
+          "definition": "話題・問題・区域などを対象として扱う、含む",
+          "frequency": 10,
+          "difference": "cover は他動詞で目的語を直接取る。range over は、複数の話題へ幅広く及ぶことを強調する。",
+          "example": "The report covers the main causes of the problem.",
+          "translation": "その報告書は問題の主な原因を扱っている。"
+        },
+        {
+          "word": "encompass",
+          "definition": "複数の要素・領域を一つの全体の中に含む",
+          "frequency": 6,
+          "difference": "range over が複数の話題へ広がる動的な印象を持つのに対し、encompass は全体として包み込むことを強調する。",
+          "example": "The project encompasses research, training, and community outreach.",
+          "translation": "そのプロジェクトには研究、研修、地域支援が含まれている。"
+        },
+        {
+          "word": "span",
+          "definition": "複数の期間・分野・領域にまたがる",
+          "frequency": 7,
+          "difference": "range は内部の多様性を示しやすい。span は始点から終点まで全体を覆うことを強調する。",
+          "example": "The collection spans five centuries of art.",
+          "translation": "そのコレクションは5世紀にわたる芸術作品を含んでいる。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 13,
+      "title": "広い区域を動き回る、ある地域に分布する",
+      "frequency": 5,
+      "register": [
+        "生態、自然描写、報道、やや文語的な文章。"
+      ],
+      "definition": "人・動物などが比較的広い区域の各所を移動する。また、動植物が一定の地域に生息・分布する。「広範囲を動き回る」「歩き回る」「～に分布する」。他動詞では eyes ranged the room のように、視線が場所全体を見渡すことも表す。",
+      "patterns": [
+        "S + range over/across/through + 地域＝地域を広く動き回る",
+        "S + range far and wide＝遠く広く動き回る",
+        "S + range freely/widely＝自由に／広範囲に移動する",
+        "a species + range across/throughout + 地域＝種が地域に分布する",
+        "someone’s eyes/gaze + range over/around + 場所＝視線が場所を見渡す",
+        "someone’s eyes + range + 場所＝視線で場所全体を見回す"
+      ],
+      "collocations": [
+        {
+          "pattern": "range over a wide area",
+          "use": "動物・集団などが広い地域を移動する",
+          "example": "Wolves may range over a wide area in search of food.",
+          "translation": "オオカミは食べ物を求めて広い地域を移動することがある。"
+        },
+        {
+          "pattern": "range far and wide",
+          "use": "食料・情報・着想などを求めて遠く広く動く",
+          "example": "Bees range far and wide to find suitable flowers.",
+          "translation": "ミツバチは適した花を求めて広範囲を飛び回る。"
+        },
+        {
+          "pattern": "range freely across [an area]",
+          "use": "制限を受けずに広い区域を動き回る",
+          "example": "Wild horses once ranged freely across these plains.",
+          "translation": "かつて野生の馬はこの平原を自由に歩き回っていた。"
+        },
+        {
+          "pattern": "a species ranges across [a region]",
+          "use": "生物種がある地域に分布していることを示す",
+          "example": "The species ranges across much of Southeast Asia.",
+          "translation": "その種は東南アジアの広い地域に分布している。"
+        },
+        {
+          "pattern": "someone’s gaze ranges over [a place]",
+          "use": "人が場所全体を見渡す様子をやや文学的に表す",
+          "example": "Her gaze ranged over the crowded station.",
+          "translation": "彼女は混雑した駅を見渡した。"
+        }
+      ],
+      "notes": [
+        "日常的な「公園を散歩する」には通常 range を使わず、walk around、wander、roam などを使う。",
+        "主語には野生動物、遊牧民、船、探索者、視線など、広い区域を移動・探索する存在が来やすい。",
+        "The species ranges across Europe. は「個体がヨーロッパ全域を歩き回る」ではなく、「その種がヨーロッパに分布する」。",
+        "range the room のような他動詞用法は可能だが、主に eyes、gaze などに使われ、やや文学的。",
+        "range over は、主語が動物なら「区域を動き回る」、discussion や lecture なら「話題に及ぶ」。主語によって意味を判断する。"
+      ],
+      "synonyms": [
+        {
+          "word": "roam",
+          "definition": "決まった経路・目的地を持たず、自由に広い場所を動き回る",
+          "frequency": 7,
+          "difference": "range よりも「束縛されず、あちこちをさまよう」という感覚が強い。人にも動物にも使う。",
+          "example": "Wild horses roam freely across the plains.",
+          "translation": "野生の馬が平原を自由に歩き回っている。"
+        },
+        {
+          "word": "wander",
+          "definition": "明確な方向・目的なしにゆっくり移動する",
+          "frequency": 8,
+          "difference": "range より狭い場所にも使え、道に迷う・考えがそれるという含意を持つことがある。",
+          "example": "We wandered through the old town for hours.",
+          "translation": "私たちは何時間も旧市街を歩き回った。"
+        },
+        {
+          "word": "traverse",
+          "definition": "地域・空間を一方から他方へ横切る",
+          "frequency": 5,
+          "difference": "range は区域内の各所を動き回る。traverse は区域を横断することを強調する。",
+          "example": "The expedition traversed the desert on foot.",
+          "translation": "探検隊は徒歩で砂漠を横断した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 14,
+      "title": "人や物を並べる、支持・反対する陣営に位置づける",
+      "frequency": 3,
+      "register": [
+        "形式的、文語、歴史記述、政治・論説。"
+      ],
+      "definition": "人や物を一定の位置・順序に並べる。また、人・集団をある陣営の支持側または反対側に位置づける。「並べる」「整列させる」「～の側につく」「～に反対する側に回る」。",
+      "patterns": [
+        "range O along/around + 場所＝Oを場所に沿って／囲むように並べる",
+        "be ranged along/around + 場所＝場所に沿って／周囲に並べられている",
+        "range oneself with + 人・集団＝その人・集団の側につく",
+        "range oneself against + 人・思想＝その人・思想に反対する側につく",
+        "be ranged with/against + 人・集団＝支持側／反対側に位置している"
+      ],
+      "collocations": [
+        {
+          "pattern": "be ranged along [a wall/route]",
+          "use": "人や物が長い範囲に沿って並べられていることを表す",
+          "example": "Spectators were ranged along the route of the procession.",
+          "translation": "見物人たちは行列の進路に沿って並んでいた。"
+        },
+        {
+          "pattern": "range [people] around [a table]",
+          "use": "人をテーブルなどの周囲に配置する、形式的な表現",
+          "example": "The delegates ranged themselves around the table.",
+          "translation": "代表者たちはテーブルを囲むように着席した。"
+        },
+        {
+          "pattern": "range oneself with [a group]",
+          "use": "自ら特定の集団・立場の支持側につくことを改まって表す",
+          "example": "He ranged himself with those calling for reform.",
+          "translation": "彼は改革を求める人々の側についた。"
+        },
+        {
+          "pattern": "be ranged against [someone/something]",
+          "use": "人・勢力が相手に反対する陣営に属していることを示す",
+          "example": "Several powerful groups were ranged against the proposal.",
+          "translation": "複数の有力団体がその提案に反対する側に回っていた。"
+        }
+      ],
+      "notes": [
+        "現代の日常英語で「物を並べる」なら arrange、line up、place のほうが自然。",
+        "range oneself with は side with、range oneself against は oppose に近いが、非常に改まった響きがある。",
+        "range somebody with/against の構文も辞書上は可能だが、現代では be ranged with/against の受動形が目立つ。",
+        "「AからBまで及ぶ」の自動詞 range と異なり、この語義では目的語を取るか、受動態になる。",
+        "be ranged against は物理的に向かい合う配置だけでなく、政治的・思想的に対立していることも表す。"
+      ],
+      "synonyms": [
+        {
+          "word": "arrange",
+          "definition": "人や物を適切な順序・位置に整える",
+          "frequency": 9,
+          "difference": "現代英語で一般的。range より意味範囲が広く、列状以外の配置や予定の手配にも使える。",
+          "example": "She arranged the chairs in a circle.",
+          "translation": "彼女は椅子を円形に並べた。"
+        },
+        {
+          "word": "line up",
+          "definition": "人や物を一列に並べる、または一列に並ぶ",
+          "frequency": 8,
+          "difference": "range より口語的で一般的。自動詞・他動詞の両方で使える。",
+          "example": "The students lined up outside the classroom.",
+          "translation": "生徒たちは教室の外に一列に並んだ。"
+        },
+        {
+          "word": "side with",
+          "definition": "対立・議論において特定の人や集団を支持する",
+          "frequency": 7,
+          "difference": "range oneself with よりはるかに一般的で、物理的な配置ではなく支持する立場を表す。",
+          "example": "Most committee members sided with the chairperson.",
+          "translation": "委員の大半は議長の側についた。"
+        }
+      ],
+      "antonyms": []
     }
   ]
 }
