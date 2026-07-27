@@ -1,0 +1,515 @@
+{
+  "word": "wherever",
+  "slug": "wherever",
+  "ipa": "米: /werˈev.ɚ/｜英: /weərˈev.ə(r)/",
+  "lead": "人が行く場所、滞在する場所、物を置く場所などを一つに限定せず、「～する所ならどこでも」「好きな所へ」「どの場所にでも」と表す。",
+  "updated": "2026-07-27",
+  "notion_url": "https://app.notion.com/p/wherever-3aa4faa9b77d813fad5ae45fac3f220d",
+  "pronunciation": [
+    "通常3音節で、第2音節 /ˈev/ に主強勢を置く。",
+    "英音の語頭部分は where /weə(r)/ と同じで、後ろに母音が続くため、非R音系の発音でも /r/ が連結音として現れ、/weərˈev-/ のように聞こえることが多い。",
+    "米音では語末が r 音を含む /ɚ/ になる。"
+  ],
+  "etymology": [
+    "中英語期の where + ever からできた語で、13世紀後半には「いかなる場所で」という用法が確認される。もともとは where を強調・一般化する表現で、後に「任意の場所で・どこであっても」という意味が発達した。",
+    "where は古英語 hwǣr「どこで」、ever は古英語 ǣfre「いつでも・かつて」にさかのぼる。ここでの ever は単純な時間の「いつも」ではなく、疑問語・関係語の範囲を無限定に広げる働きを持つ。",
+    "同じ形成を持つ語に whenever「いつであっても」、whoever「誰であっても」、whatever「何であっても」、whichever「どれであっても」、however「どのようであっても」がある。"
+  ],
+  "formation": [
+    {
+      "term": "where",
+      "description": "+ ever → wherever「場所がどこであっても・どの場所でも」"
+    },
+    {
+      "term": "-ever",
+      "description": "は wh語が示す候補の範囲を広げ、「特定せずどれでも」「何であっても」という自由選択・無条件の意味を加える。"
+    },
+    {
+      "term": "現代の標準的な綴りは",
+      "description": "wherever の1語である。"
+    }
+  ],
+  "core": [
+    {
+      "label": "where",
+      "description": "が示す「場所」から制限を取り払い、「候補となる場所を一つに限定しない」というのが共通する核である。"
+    },
+    {
+      "label": "任意の一か所を選べる",
+      "description": "→ 「～する所ならどこでも」"
+    },
+    {
+      "label": "考えられる全場所で成立する",
+      "description": "→ 「どこへ行っても・どこであろうと」"
+    },
+    {
+      "label": "場所を事例・状況へ広げる",
+      "description": "→ 「該当する場合はどこでも」"
+    },
+    {
+      "label": "where",
+      "description": "自体を感情的に強める → 「いったいどこで」"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "任意の場所・行き先：「～する所ならどこでも・好きな所へ」",
+      "frequency": 9,
+      "register": [
+        "一般。会話・文章の両方で広く使われる。"
+      ],
+      "definition": "人が行く場所、滞在する場所、物を置く場所などを一つに限定せず、「～する所ならどこでも」「好きな所へ」「どの場所にでも」と表す。\nwherever 節全体が、主節内で場所・行き先・出発地点などを示す要素になる。動詞に応じて「どこででも」「どこへでも」「どこからでも」と訳し分ける。Oxford はこの用法を “in any place” として、Sit wherever you like. のような例で示している。",
+      "patterns": [
+        "V + wherever + S + V ＝ 条件を満たす任意の場所で・場所へ動作する",
+        "V + O + wherever + S + V ＝ Oを任意の場所へ置く・運ぶ",
+        "from + wherever + S + V ＝ 任意の出発地点・現在地から",
+        "[Wherever + S + V] + V ＝ wherever 節全体を主語にする",
+        "wherever that is / wherever that may be ＝ その場所がどこなのか分からないことを付け加える",
+        "Wherever you like / want / prefer. ＝ 会話で「あなたの好きな所で」と短く答える"
+      ],
+      "collocations": [
+        {
+          "pattern": "go wherever you want",
+          "use": "行き先を本人が自由に選べることを表す",
+          "example": "You can go wherever you want after the meeting.",
+          "translation": "会議の後は好きな所へ行って構いません。"
+        },
+        {
+          "pattern": "sit wherever you like",
+          "use": "座る場所に制限がないことを表す",
+          "example": "Please sit wherever you like.",
+          "translation": "お好きな所に座ってください。"
+        },
+        {
+          "pattern": "put O wherever there is room",
+          "use": "空いている場所ならどこへ置いてもよいことを表す",
+          "example": "Put the boxes wherever there is room.",
+          "translation": "箱は空いている所ならどこに置いても構いません。"
+        },
+        {
+          "pattern": "follow someone wherever they go",
+          "use": "相手が行く場所ならどこへでも付いていくことを表す",
+          "example": "The dog follows Leo wherever he goes.",
+          "translation": "その犬はレオが行く所ならどこへでも付いていきます。"
+        },
+        {
+          "pattern": "work from wherever you are",
+          "use": "現在いる場所を問わず仕事ができることを表す",
+          "example": "The platform allows you to work from wherever you are.",
+          "translation": "このプラットフォームを使えば、現在どこにいても仕事ができます。"
+        },
+        {
+          "pattern": "Wherever you decide to stay + V",
+          "use": "選ばれた滞在場所を表す節全体を文の主語にする",
+          "example": "Wherever you decide to stay must be close to a train station.",
+          "translation": "宿泊先としてどこを選ぶにしても、駅の近くでなければなりません。"
+        },
+        {
+          "pattern": "[place], wherever that is",
+          "use": "話題に出た場所の所在地を話者が知らないことを付け加える",
+          "example": "She says she’s moving to Bellford, wherever that is.",
+          "translation": "彼女はベルフォードに引っ越すそうですが、それがどこなのか私は知りません。"
+        }
+      ],
+      "notes": [
+        "wherever は通常 wherever you want、wherever she lives のように節を導く。anywhere は You can sit anywhere. のように単独で使える。",
+        "Where should we meet? に一語で答えるなら Anywhere. のほうが一般的である。wherever を使う場合は Wherever you like. や Wherever is easiest for you. のように後続要素を付けると自然である。",
+        "go、come、live、stay、sit、put などの後では、通常 go to wherever you like や sit at wherever you like ではなく、go wherever you like、sit wherever you like とする。wherever 自体が「その場所で・その場所へ」という関係を含むためである。",
+        "出発地点を明示する場合は from wherever you are のように from を置く。",
+        "wherever that may be は「その場所がどこなのかは知らないが」という挿入的表現で、単なる自由選択ではない。",
+        "where は文脈上想定された場所を表すことがあるのに対し、wherever は場所を限定しないことを明示する。",
+        "everywhere は「すべての場所に」、wherever は「節が示す条件を満たす場所ならどこでも」を表す。I looked everywhere. の everywhere は wherever に置き換えられない。"
+      ],
+      "synonyms": [
+        {
+          "word": "anywhere",
+          "definition": "場所を限定せず「どこかに・どこへでも・どこででも」と表す副詞",
+          "frequency": 9,
+          "difference": "単独で使える。wherever は原則として後ろに節を伴い、どのような場所が候補になるかを示す",
+          "example": "You can sit anywhere.",
+          "translation": "どこに座っても構いません。"
+        },
+        {
+          "word": "where",
+          "definition": "動作や状態が成立する場所を導く関係副詞",
+          "frequency": 10,
+          "difference": "文脈上の特定の場所・適切な場所を表しやすい。wherever は候補となる場所を限定しないことを強く示す",
+          "example": "Leave the package where I can see it.",
+          "translation": "私から見える所に荷物を置いてください。"
+        },
+        {
+          "word": "any place where",
+          "definition": "条件を満たす任意の場所を名詞 place を用いて明示する表現",
+          "frequency": 7,
+          "difference": "wherever より長いが、場所を表す名詞構造が明確で、規則や説明文に使いやすい",
+          "example": "You may camp in any place where overnight stays are permitted.",
+          "translation": "宿泊が許可されている場所なら、どこでキャンプしても構いません。"
+        },
+        {
+          "word": "wherever you please",
+          "definition": "本人が望む任意の場所を自由に選べることを表す",
+          "frequency": 5,
+          "difference": "wherever you like / want よりやや強く自由裁量を示し、文脈によっては硬さや突き放した調子を帯びる",
+          "example": "You are free to live wherever you please.",
+          "translation": "あなたは好きな所に自由に住めます。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "すべての場所で同じことが成立する：「どこへ行っても・どこであろうと」",
+      "frequency": 8,
+      "register": [
+        "一般。一般論、助言、規則、物語的表現でよく使われる。"
+      ],
+      "definition": "人や物の場所がどこであっても、主節の結果・事実・命令が変わらないことを表す。「どこへ行っても」「どこにいようと」「どこであろうと」に相当する。\n単に一つの場所を自由に選ぶのではなく、考えられるすべての該当場所について同じ内容が成立するという意味である。Oxford は “in all places that”、Cambridge と Merriam-Webster は「任意またはすべての場所で」という意味を認めている。",
+      "patterns": [
+        "Wherever + S + V, + 主節 ＝ Sの場所に関係なく主節が成立する",
+        "主節 + wherever + S + V ＝ 主節の後ろで成立範囲を示す",
+        "Wherever + S + may + V, + 主節 ＝ 所在が不明・不確定でも成立することを形式的に表す",
+        "Wherever + S + be, + 主節 ＝ 現在地にかかわらないことを表す",
+        "wherever + 名詞的な場所表現 + V ＝ 比喩的な行き先・展開先にも使える"
+      ],
+      "collocations": [
+        {
+          "pattern": "Wherever you go, + 命令・一般論",
+          "use": "行き先に関係なく守るべきことや成立する事実を述べる",
+          "example": "Wherever you go, keep your identification with you.",
+          "translation": "どこへ行く場合でも、身分証明書を携帯してください。"
+        },
+        {
+          "pattern": "Wherever you live, + 主節",
+          "use": "居住地にかかわらず当てはまる内容を述べる",
+          "example": "Wherever you live, access to clean water is essential.",
+          "translation": "どこに住んでいても、きれいな水を利用できることは不可欠です。"
+        },
+        {
+          "pattern": "Wherever you look, + 主節",
+          "use": "見る方向や場所を問わず同じものが見つかることを表す",
+          "example": "Wherever you look, there are signs of rapid change.",
+          "translation": "どこを見ても、急速な変化の兆候があります。"
+        },
+        {
+          "pattern": "wherever the evidence leads",
+          "use": "結論をあらかじめ決めず、証拠が示す方向へ従うことを表す",
+          "example": "Investigators must follow the evidence wherever it leads.",
+          "translation": "捜査官は、それがどのような結論につながろうと証拠を追わなければなりません。"
+        },
+        {
+          "pattern": "Wherever someone may be, + 主節",
+          "use": "所在が分からない人について「どこにいようとも」と述べる",
+          "example": "Wherever they may be, I hope they are safe.",
+          "translation": "彼らがどこにいようとも、無事であることを願っています。"
+        },
+        {
+          "pattern": "wherever life takes someone",
+          "use": "将来の居場所や人生の展開を比喩的に表す",
+          "example": "Wherever life takes you, you will always have a home here.",
+          "translation": "人生でどこへ行くことになっても、ここにはいつでもあなたの居場所があります。"
+        }
+      ],
+      "notes": [
+        "wherever 節を文頭に置く場合は、通常 Wherever you go, call me. のように主節との間へコンマを置く。",
+        "主節の後ろに置かれる短い wherever 節では、You’ll find friendly people wherever you go. のようにコンマを置かないことが多い。",
+        "may を加えた Wherever he may be は文法的だが、やや形式的・文学的である。日常的には Wherever he is のほうが普通である。",
+        "自由選択用法との違いは、wherever 節が主節内の「場所」を補うか、主節全体へ「場所にかかわらず」という条件を加えるかにある。",
+        "I’ll follow you wherever you go. は「あなたが行く場所へ付いていく」という場所の補足としても、「あなたがどこへ行っても付いていく」という無条件の意味としても解釈できる。両者の境界は文脈によって連続的になることがある。",
+        "wherever は場所、whenever は時間を表す。Wherever you go は「どこへ行っても」、Whenever you go は「いつ行っても」である。"
+      ],
+      "synonyms": [
+        {
+          "word": "no matter where",
+          "definition": "場所がどこであっても結果が変わらないことを明示する",
+          "frequency": 8,
+          "difference": "wherever より構造が分かりやすく、譲歩・無条件の意味が明白である",
+          "example": "No matter where you travel, check the local regulations first.",
+          "translation": "どこへ旅行する場合でも、まず現地の規則を確認してください。"
+        },
+        {
+          "word": "regardless of where",
+          "definition": "場所を考慮せず同じ扱いや結果になることを表す",
+          "frequency": 7,
+          "difference": "wherever より形式的で、規則・方針・説明文で使われやすい",
+          "example": "The service is available regardless of where you live.",
+          "translation": "このサービスは居住地にかかわらず利用できます。"
+        },
+        {
+          "word": "everywhere",
+          "definition": "すべての場所に・あらゆる所でという意味を表す副詞",
+          "frequency": 9,
+          "difference": "単独で場所を表す。wherever のように主語と動詞を伴う節を導かない",
+          "example": "The same posters appeared everywhere.",
+          "translation": "同じポスターが至る所に現れました。"
+        },
+        {
+          "word": "in every place where",
+          "definition": "条件を満たすすべての場所で同じことが成立すると明示する",
+          "frequency": 5,
+          "difference": "wherever より長いが、「すべての場所」という全称的な意味を明確に示す",
+          "example": "Warning signs were installed in every place where the path became dangerous.",
+          "translation": "道が危険になるすべての場所に警告標識が設置されました。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "該当する状況・場合：「可能な場合はどこでも・必要な箇所では」",
+      "frequency": 7,
+      "register": [
+        "中立～やや形式的。ビジネス、行政、学術、方針文書、説明書で特に多い。"
+      ],
+      "definition": "「その条件が成立するすべての箇所・状況で」「可能な場合には」「該当する場合には」と表す。\n特に wherever possible、wherever necessary、wherever appropriate、wherever applicable などの短縮された形で多く使われる。主要辞書では “in all cases that” や「可能なすべての場合に」と説明される。",
+      "patterns": [
+        "Wherever + 形容詞, + 主節 ＝ 条件が成立するすべての状況で主節を行う",
+        "主節 + wherever + 形容詞 ＝ 主節の行動を取る範囲を示す",
+        "wherever + S + V ＝ 条件に該当する状況・事例を完全な節で表す",
+        "wherever + 過去分詞由来の形容詞 ＝ applicable、required、permitted などと結び付く",
+        "wherever it is + 形容詞 + to不定詞 ＝ 省略せず条件を明示する"
+      ],
+      "collocations": [
+        {
+          "pattern": "wherever possible",
+          "use": "実行可能なすべての状況で行動することを求める",
+          "example": "Wherever possible, submit your documents electronically.",
+          "translation": "可能な場合は、書類を電子的に提出してください。"
+        },
+        {
+          "pattern": "wherever necessary",
+          "use": "必要が生じるすべての箇所で対応することを表す",
+          "example": "Additional support will be provided wherever necessary.",
+          "translation": "必要な箇所では追加の支援が提供されます。"
+        },
+        {
+          "pattern": "wherever appropriate",
+          "use": "各状況に照らして適切な場合に措置を取ることを表す",
+          "example": "Managers should consult specialists wherever appropriate.",
+          "translation": "管理者は、適切な場合には専門家へ相談すべきです。"
+        },
+        {
+          "pattern": "wherever applicable",
+          "use": "規則・説明・記入項目が当てはまる事例を表す",
+          "example": "Include the reference number wherever applicable.",
+          "translation": "該当する場合は参照番号を記載してください。"
+        },
+        {
+          "pattern": "wherever practical",
+          "use": "費用や事情を考慮して現実的に実行できる場合を表す",
+          "example": "We use local suppliers wherever practical.",
+          "translation": "現実的に可能な場合には地元の供給業者を利用しています。"
+        },
+        {
+          "pattern": "wherever demand is greatest",
+          "use": "需要などの条件が特に強い場所・分野へ資源を配分することを表す",
+          "example": "Staff will be assigned wherever demand is greatest.",
+          "translation": "職員は需要が最も大きい所へ配置されます。"
+        }
+      ],
+      "notes": [
+        "wherever possible などは、完全な形では wherever it is possible などに対応する短縮節として理解できる。ただし、実際には定型的な表現としてそのまま用いられる。",
+        "形容詞を無制限に置けるわけではない。possible、necessary、appropriate、applicable、practical、feasible など、条件判断を表す語との結び付きが中心である。",
+        "wherever possible は文脈によって「可能な場所ではどこでも」と「可能な場合はいつでも」の両方を含み得る。そのため whenever possible と意味が近づくことがある。Cambridge Learner’s Dictionary も wherever possible を “every time it is possible” と説明している。",
+        "where possible も非常に近い。wherever possible は「該当するすべての箇所・状況で」という網羅性をやや明示しやすいが、実際の使用では両者がほぼ同義になることも多い。",
+        "wherever applicable は「好きな場所へ適用する」ではなく、「その項目・規則が当てはまる場合には」という意味である。",
+        "日本語では機械的に「どこでも」と訳さず、「可能な場合は」「必要に応じて」「該当箇所では」など文脈に合わせる。"
+      ],
+      "synonyms": [
+        {
+          "word": "where possible",
+          "definition": "実行できる状況・箇所ではその行動を取ることを表す",
+          "frequency": 7,
+          "difference": "wherever possible より簡潔で、該当箇所を一つ一つ網羅する含意がやや弱い場合がある",
+          "example": "Use public transportation where possible.",
+          "translation": "可能な場合は公共交通機関を利用してください。"
+        },
+        {
+          "word": "whenever possible",
+          "definition": "実行できる時間・機会が生じるたびに行うことを表す",
+          "frequency": 7,
+          "difference": "wherever possible が場所・状況・事例を起点にするのに対し、whenever possible は時間・機会を起点にする",
+          "example": "Walk instead of driving whenever possible.",
+          "translation": "可能なときは、車ではなく徒歩で移動してください。"
+        },
+        {
+          "word": "where feasible",
+          "definition": "技術、費用、資源などを考慮して現実的に実行可能な場合を表す",
+          "frequency": 5,
+          "difference": "possible よりも、現実的な制約を検討したうえで実行できるという含意が強い",
+          "example": "Existing equipment should be reused where feasible.",
+          "translation": "現実的に可能な場合は既存の設備を再利用すべきです。"
+        },
+        {
+          "word": "in any case where",
+          "definition": "特定の条件に該当するすべての事例を明示する",
+          "frequency": 5,
+          "difference": "wherever より長いが、「場所」ではなく「事例」を指すことが明確になる",
+          "example": "A review is required in any case where safety may be affected.",
+          "translation": "安全性に影響する可能性がある事例では審査が必要です。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "不特定の別の場所：「～とか、どこかその辺で」",
+      "frequency": 4,
+      "register": [
+        "くだけた会話・非公式な文章。"
+      ],
+      "definition": "一つ以上の場所を例として挙げた後、「またはそれ以外のどこか」「～とか、その辺のどこか」と付け加えるくだけた用法。\n話者が正確な場所を知らない、覚えていない、または場所を厳密に特定する必要がないことを示す。Oxford は or wherever を informal なイディオムとして “or any other place” と説明している。",
+      "patterns": [
+        "[場所A], [場所B], or wherever ＝ 列挙した場所以外も含めて曖昧に示す",
+        "[場所], or wherever + S + V ＝ 話者が特定しない場所を節で補う",
+        "from [場所], or wherever ＝ 出身地・出発地を正確に問題にしない",
+        "to [場所], or wherever ＝ 行き先を例示にとどめる"
+      ],
+      "collocations": [
+        {
+          "pattern": "[city A], [city B], or wherever",
+          "use": "候補地を例示し、それ以外の場所も含める",
+          "example": "We could meet in Zurich, Bern, or wherever is convenient for everyone.",
+          "translation": "チューリヒでもベルンでも、皆に都合のよいどこかで会えます。"
+        },
+        {
+          "pattern": "from [place], or wherever",
+          "use": "人の出身地や物の発送元を正確には問題にしない",
+          "example": "They were tourists from Spain, France, or wherever.",
+          "translation": "彼らはスペインやフランスなど、どこかから来た観光客でした。"
+        },
+        {
+          "pattern": "go to [place], or wherever",
+          "use": "行き先を例として挙げるだけで、特定の場所に限定しない",
+          "example": "We can go to the park, the river, or wherever you prefer.",
+          "translation": "公園でも川でも、あなたが好きなどこかへ行けます。"
+        }
+      ],
+      "notes": [
+        "この用法では wherever が完全な節を導かず、or の後ろで単独に近い形で使われる。",
+        "「どこでも自由に選べる」と積極的に許可するより、「ほかのどこか」「場所は重要ではない」と曖昧に付け加える働きが中心である。",
+        "改まった文章では or another suitable location、or elsewhere、or another location などのほうが適切なことが多い。",
+        "話し方によっては無関心・投げやりな響きを帯びるため、相手に場所を選んでもらう丁寧な場面では wherever you prefer のように節を付けるほうが安全である。"
+      ],
+      "synonyms": [
+        {
+          "word": "or somewhere",
+          "definition": "正確には特定しない別の場所を候補として付け加える",
+          "frequency": 7,
+          "difference": "or wherever より中立的で、「どこか一か所」という不特定性を表しやすい",
+          "example": "We could have lunch at the station or somewhere nearby.",
+          "translation": "駅か、その近くのどこかで昼食を取れます。"
+        },
+        {
+          "word": "or anywhere",
+          "definition": "場所を限定せず、ほかのどの場所でもよいことを表す",
+          "frequency": 7,
+          "difference": "or wherever より自由選択の意味が明確で、話者が場所を知らないという含意は弱い",
+          "example": "We can meet at my office or anywhere that suits you.",
+          "translation": "私の事務所でも、あなたに都合のよいどこでも会えます。"
+        },
+        {
+          "word": "or elsewhere",
+          "definition": "すでに挙げた場所以外の場所を表す",
+          "frequency": 6,
+          "difference": "or wherever より簡潔で形式的。無関心な響きが弱く、文章でも使いやすい",
+          "example": "The records may be stored locally or elsewhere.",
+          "translation": "記録は現地または別の場所に保管される場合があります。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "強調疑問：「いったいどこで・いったいどこへ」",
+      "frequency": 4,
+      "register": [
+        "一般だが強調的。現代会話ではやや芝居がかった、古風な、または感情の強い響きになることがある。"
+      ],
+      "definition": "驚き、困惑、苛立ち、強い好奇心を伴って「いったいどこで」「いったいどこへ」「一体どこから」と尋ねる。\n中立的な場所の質問ではなく、話者が答えを予想できない、または相手の行動を意外に感じていることを示す。Cambridge、Merriam-Webster、Oxford の英米両方の辞書にこの疑問用法が掲載されているため、イギリス英語だけの用法ではない。",
+      "patterns": [
+        "Wherever + do/does/did + S + V? ＝ 一般動詞の場所・出所を強く尋ねる",
+        "Wherever + have/has + S + 過去分詞? ＝ 現在完了形で所在や行動を強く尋ねる",
+        "Wherever + can/could + S + V? ＝ 所在について困惑・推測を示す",
+        "Wherever + be + S? ＝ be動詞で人や物の所在を強く尋ねる",
+        "Wherever + 助動詞 + S + V + 前置詞? ＝ from、to などを文末に残すことがある"
+      ],
+      "collocations": [
+        {
+          "pattern": "Wherever did you get that idea?",
+          "use": "相手の考えの出所に強い驚きや疑念を示す",
+          "example": "Wherever did you get that idea?",
+          "translation": "いったいどこからそんな考えを思い付いたのですか。"
+        },
+        {
+          "pattern": "Wherever have you been?",
+          "use": "長時間姿を見せなかった相手へ驚きや苛立ちを示す",
+          "example": "Wherever have you been? We’ve been looking for you.",
+          "translation": "いったいどこにいたのですか。ずっと捜していたんですよ。"
+        },
+        {
+          "pattern": "Wherever could someone have gone?",
+          "use": "人の行き先が分からず困惑していることを表す",
+          "example": "Wherever could she have gone at this hour?",
+          "translation": "こんな時間に、彼女はいったいどこへ行ったのでしょう。"
+        },
+        {
+          "pattern": "Wherever can something be?",
+          "use": "物の所在がまったく分からず困っていることを表す",
+          "example": "Wherever can my keys be? I had them a moment ago.",
+          "translation": "私の鍵はいったいどこにあるのでしょう。さっきまで持っていたのに。"
+        },
+        {
+          "pattern": "Wherever did S + V + O + from?",
+          "use": "物・情報・金銭などの出所を驚きを込めて尋ねる",
+          "example": "Wherever did he get the money from?",
+          "translation": "彼はいったいどこからそのお金を手に入れたのでしょう。"
+        }
+      ],
+      "notes": [
+        "中立的に場所を尋ねるだけなら Where did you buy it? を使う。Wherever did you buy it? には「いったいどこで見つけたのか」という驚きが加わる。",
+        "通常の wh疑問文と同じく、Wherever did you find it? のように助動詞と主語を倒置する。",
+        "間接疑問で中立的な場所を尋ねる場合は I wonder where he is. とし、wherever にはしない。",
+        "Wherever did you find it? は強調疑問であり、「どこで見つけても」という自由選択の意味ではない。",
+        "where on earth、where in the world、where the heck なども同様の強調に使える。wherever はそれらより短いが、話者や場面によってはやや古風・文学的に聞こえる。",
+        "感嘆符を伴う Wherever did you find that hat! のような形もあり、文法上は疑問形式でも、実際には驚きの感嘆に近くなる。Cambridge もこの種の例を示している。"
+      ],
+      "synonyms": [
+        {
+          "word": "where on earth",
+          "definition": "驚き、困惑、苛立ちを込めて場所を強く尋ねる",
+          "frequency": 6,
+          "difference": "強調が明示的で、現代の会話では疑問用法の wherever より意味を理解しやすい",
+          "example": "Where on earth did you put the tickets?",
+          "translation": "いったいチケットをどこに置いたのですか。"
+        },
+        {
+          "word": "where in the world",
+          "definition": "場所がまったく見当も付かないことを強調して尋ねる",
+          "frequency": 5,
+          "difference": "where on earth と近いが、文脈によっては驚きや困惑がやや柔らかく聞こえる",
+          "example": "Where in the world is Daniel?",
+          "translation": "ダニエルはいったいどこにいるのでしょう。"
+        },
+        {
+          "word": "where the heck",
+          "definition": "くだけた調子で驚きや苛立ちを込めて場所を尋ねる",
+          "frequency": 5,
+          "difference": "wherever より口語的で感情が明白。改まった場面には適さない",
+          "example": "Where the heck did that noise come from?",
+          "translation": "あの音はいったいどこから聞こえてきたんだ。"
+        },
+        {
+          "word": "just where",
+          "definition": "正確な場所や行き先を強く確認・追及する",
+          "frequency": 6,
+          "difference": "驚きよりも「正確にはどこなのか」という確認・詰問を表しやすい",
+          "example": "Just where do you think you’re going?",
+          "translation": "いったいどこへ行くつもりなのですか。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
