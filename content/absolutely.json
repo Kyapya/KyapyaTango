@@ -228,6 +228,226 @@
           "translation": "その道路は引き続き一部通行止めです。"
         }
       ]
+    },
+    {
+      "number": 2,
+      "title": "【副詞・強意】",
+      "frequency": 9,
+      "register": [
+        "主に会話的だが、中立的な文章でも使われる。頻繁に重ねると、大げさ・感情的・宣伝的に聞こえることがある。"
+      ],
+      "definition": "「本当に」「ものすごく」「心から」「断固として」。強い形容詞、評価を表す形容詞、感情・判断・拒絶・主張を表す動詞などを強める。この用法では、論理的な「100％」よりも、話者の感情・熱意・確信・断固とした態度が前面に出る。",
+      "patterns": [
+        "absolutely + 強い形容詞 / 評価形容詞＝非常に、本当に",
+        "主語 + absolutely + 感情・判断・態度を表す動詞＝その感情や態度を強く表す",
+        "主語 + be + absolutely + 補語＝be動詞の後ろに置く",
+        "主語 + absolutely + 助動詞 + 動詞＝助動詞が表す必要性・確実性などを強調する",
+        "主語 + 助動詞 + absolutely + 動詞＝本動詞の行為内容を強く限定する"
+      ],
+      "collocations": [
+        {
+          "pattern": "be absolutely amazing / wonderful / fantastic",
+          "use": "人・物・経験などへの非常に高い評価や感動を表す",
+          "example": "The view from the top was absolutely amazing.",
+          "translation": "頂上からの眺めは本当に素晴らしかったです。"
+        },
+        {
+          "pattern": "be absolutely exhausted / freezing / starving",
+          "use": "疲労・寒さ・空腹などが極端な状態であることを強調する",
+          "example": "We were absolutely exhausted after the twelve-hour journey.",
+          "translation": "12時間の移動を終え、私たちは完全に疲れ切っていました。"
+        },
+        {
+          "pattern": "absolutely love someone / something / doing",
+          "use": "人・物・活動などを非常に強く好むことを表す",
+          "example": "My children absolutely love this book.",
+          "translation": "私の子どもたちはこの本が本当に大好きです。"
+        },
+        {
+          "pattern": "absolutely hate something / doing",
+          "use": "物事や行為に対する強い嫌悪を表す",
+          "example": "I absolutely hate being kept waiting.",
+          "translation": "私は待たされるのが本当に大嫌いです。"
+        },
+        {
+          "pattern": "absolutely agree [with someone / that節]",
+          "use": "意見・提案・判断などに強く賛成する",
+          "example": "I absolutely agree that the system needs to be simplified.",
+          "translation": "その制度を簡素化する必要があるという意見に、私は全面的に賛成です。"
+        },
+        {
+          "pattern": "absolutely refuse to do",
+          "use": "何かをすることを断固として拒む",
+          "example": "He absolutely refused to discuss the matter in public.",
+          "translation": "彼はその問題を公の場で話し合うことを断固として拒みました。"
+        },
+        {
+          "pattern": "absolutely insist [on something / on doing / that節]",
+          "use": "要求・主張を強く押し通し、譲らないことを表す",
+          "example": "She absolutely insisted on paying for dinner.",
+          "translation": "彼女は夕食代を自分が払うと言って、どうしても譲りませんでした。"
+        },
+        {
+          "pattern": "absolutely must do",
+          "use": "行為が非常に重要・必要であることを強く訴える",
+          "example": "You absolutely must see this film.",
+          "translation": "この映画は絶対に見るべきです。"
+        },
+        {
+          "pattern": "be absolutely delighted / thrilled [with / about / to do]",
+          "use": "非常にうれしい、感激していることを強く表す",
+          "example": "We are absolutely delighted with the results.",
+          "translation": "私たちはその結果を心から喜んでいます。"
+        }
+      ],
+      "notes": [
+        "absolutely は、あらゆる動詞を自由に強められるわけではない。love、hate、agree、refuse、insist、deny、adore など、強い感情・判断・態度を表す動詞と特に自然に結びつく。× absolutely walk、× absolutely eat のような機械的な組み合わせは通常成立しない。",
+        "一般動詞では、I absolutely agree. のように動詞の直前が最も一般的。I agree absolutely. も文脈によって可能だが、中立的な語順ではなく、後続する with句などに焦点を置く場合や形式的な響きが出やすい。",
+        "be動詞では、The film is absolutely wonderful. のように be の後ろ、補語の前に置く。She absolutely is right. は、is 自体を対比的に強調する特殊な語順。",
+        "You absolutely must go. では must の必要性を強く押し出す。You must absolutely avoid contact. では「接触を完全に避ける」という本動詞句の内容に焦点が置かれやすい。",
+        "absolutely beautiful、absolutely delicious のように、必ずしも意味上の限界点を持たない評価形容詞とも使われる。この場合は「完全に」より「本当に、ものすごく」に近い。",
+        "absolutely love は会話で非常に一般的だが、形式的な報告書では strongly support、greatly appreciate、firmly oppose など、内容に応じた具体的な動詞・副詞の方が適切なことがある。"
+      ],
+      "synonyms": [
+        {
+          "word": "really",
+          "definition": "本当に、実に、とても",
+          "frequency": 10,
+          "difference": "最も一般的で結合範囲が広い強調語。absolutely より強さが低く、段階的な形容詞や一般動詞にも使いやすい",
+          "example": "I really enjoyed talking to her.",
+          "translation": "彼女と話すのを本当に楽しみました。"
+        },
+        {
+          "word": "totally",
+          "definition": "本当に、完全に、まったく",
+          "frequency": 9,
+          "difference": "会話では感情的な強調語として使われやすく、absolutely よりくだけた若々しい響きになることがある",
+          "example": "I totally agree with you.",
+          "translation": "あなたにまったく同感です。"
+        },
+        {
+          "word": "extremely",
+          "definition": "極めて、非常に",
+          "frequency": 9,
+          "difference": "段階的な形容詞・副詞の程度を非常に高くする表現で、absolutely より客観的・形式的。通常は一般動詞を直接強めない",
+          "example": "The instructions were extremely confusing.",
+          "translation": "その説明は極めて分かりにくいものでした。"
+        },
+        {
+          "word": "genuinely",
+          "definition": "うわべではなく、心から、本当に",
+          "frequency": 7,
+          "difference": "感情の強度よりも、感情・関心・態度が偽りではないことを強調する",
+          "example": "She was genuinely pleased to see us.",
+          "translation": "彼女は私たちに会えて心から喜んでいました。"
+        },
+        {
+          "word": "positively",
+          "definition": "実に、まったく、明らかに",
+          "frequency": 5,
+          "difference": "評価や驚きを強く押し出す、やや芝居がかった強調語。現代の日常会話では absolutely より使用範囲が狭い",
+          "example": "The room was positively freezing.",
+          "translation": "その部屋は本当に凍えるほど寒かったです。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【応答表現】",
+      "frequency": 8,
+      "register": [
+        "主に会話。カジュアルから中立。接客やビジネス会話でも使えるが、Absolutely not. は口調によって断定的・威圧的に聞こえることがある。"
+      ],
+      "definition": "単独の Absolutely. で「もちろんです」「まったくそのとおりです」「ぜひ」「間違いなく」と、強い肯定・同意・承諾を表す。Absolutely not. では「絶対に違う」「断じてだめだ」「絶対にしない」と、強い否定・反対・拒絶を表す。",
+      "patterns": [
+        "Absolutely.＝質問・提案・依頼・意見への強い肯定",
+        "Yes, absolutely.＝yes を明示した積極的な肯定",
+        "Absolutely not.＝強い否定・反対・拒絶",
+        "Absolutely, + 文＝相手への同意を示してから説明や補足を続ける"
+      ],
+      "collocations": [
+        {
+          "pattern": "Absolutely.",
+          "use": "yes より強く、確信・熱意・全面的同意を示す",
+          "example": "“Would you recommend this restaurant?” “Absolutely.”",
+          "translation": "「このレストランを勧めますか」「もちろんです」"
+        },
+        {
+          "pattern": "Yes, absolutely.",
+          "use": "相手の依頼・確認・提案に明確かつ積極的に応じる",
+          "example": "“Can you send me the revised version today?” “Yes, absolutely.”",
+          "translation": "「修正版を今日送ってもらえますか」「はい、もちろんです」"
+        },
+        {
+          "pattern": "Oh, absolutely.",
+          "use": "強い共感・熱意・即座の賛成を、会話的に表す",
+          "example": "“The ending was the best part.” “Oh, absolutely.”",
+          "translation": "「結末が一番良かったですね」「ええ、まったくそのとおりです」"
+        },
+        {
+          "pattern": "Absolutely not.",
+          "use": "考え・提案・疑い・行為などを全面的に否定または拒絶する",
+          "example": "“Are you planning to resign?” “Absolutely not.”",
+          "translation": "「辞任するつもりですか」「まったくありません」"
+        },
+        {
+          "pattern": "Absolutely, + 文",
+          "use": "相手の意見に同意したうえで、理由・条件・補足を続ける",
+          "example": "Absolutely, we need to consider the long-term effects.",
+          "translation": "まったくそのとおりで、長期的な影響を考慮する必要があります。"
+        }
+      ],
+      "notes": [
+        "Absolutely. は単なる Yes. よりも、確信・熱意・積極性・全面的な賛成を含みやすい。",
+        "依頼への返答では Certainly. の方が落ち着いて丁寧に聞こえることがある。Absolutely. は、より熱意のある承諾になりやすい。",
+        "Absolutely not. と not absolutely + 形容詞は異なる。Absolutely not. は全面否定、I’m not absolutely certain. は「完全に確信しているわけではない」という部分否定。",
+        "“Do you mind if I sit here?” に Absolutely. と答えると、文字どおりには「はい、気にします」と解釈され得る。座ってよいと伝えるなら No, not at all.、Go ahead.、Of course not. が明確。",
+        "Absolutely not! は強い拒否なので、丁寧に断る必要がある場面では I’m afraid that won’t be possible. などに言い換えた方がよい。"
+      ],
+      "synonyms": [
+        {
+          "word": "definitely",
+          "definition": "間違いなく、ぜひ、確実に",
+          "frequency": 9,
+          "difference": "強い肯定として使えるが、同意よりも予定・意志・判断の確実性を示しやすい",
+          "example": "“Will you come again?” “Definitely.”",
+          "translation": "「また来ますか」「必ず来ます」"
+        },
+        {
+          "word": "certainly",
+          "definition": "もちろんです、承知しました、確かに",
+          "frequency": 9,
+          "difference": "absolutely より落ち着いて丁寧で、接客・依頼への承諾や形式的な会話に適している",
+          "example": "“Could I see the menu?” “Certainly.”",
+          "translation": "「メニューを見せていただけますか」「かしこまりました」"
+        },
+        {
+          "word": "of course",
+          "definition": "もちろん、当然",
+          "frequency": 10,
+          "difference": "依頼や質問への自然な肯定だが、声の調子によっては「当然でしょう」と相手の質問を軽視する響きが出ることがある",
+          "example": "“Can I ask you a question?” “Of course.”",
+          "translation": "「質問してもいいですか」「もちろんです」"
+        },
+        {
+          "word": "exactly",
+          "definition": "そのとおり、まさに",
+          "frequency": 9,
+          "difference": "absolutely が承諾・賛成全般に使えるのに対し、exactly は相手の発言が自分の考えや事実と正確に一致することを示す",
+          "example": "“So the real issue is trust.” “Exactly.”",
+          "translation": "「つまり、本当の問題は信頼ですね」「そのとおりです」"
+        },
+        {
+          "word": "indeed",
+          "definition": "確かに、まったくそのとおり",
+          "frequency": 7,
+          "difference": "absolutely より文語的・形式的で、先行する判断の確認や強調に使われる",
+          "example": "“It was a difficult decision.” “Indeed it was.”",
+          "translation": "「難しい決断でしたね」「本当にそのとおりでした」"
+        }
+      ],
+      "antonyms": []
     }
   ]
 }
