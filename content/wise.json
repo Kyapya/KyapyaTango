@@ -1,0 +1,1225 @@
+{
+  "word": "wise",
+  "slug": "wise",
+  "ipa": "米・英: /waɪz/",
+  "lead": "経験、知識、人間や状況への深い理解を適切な判断に結び付けられることを表す。単に頭の回転が速い、知識量が多いという意味ではなく、長期的な結果、他者への影響、現実的な制約を踏まえて判断できるという肯定的評価を含む。",
+  "updated": "2026-08-08",
+  "notion_url": "https://app.notion.com/p/wise-3b64faa9b77d81a9956ec5ac1ba4d7a5",
+  "pronunciation": [
+    "1音節語。母音は二重母音 /aɪ/、語末の s は無声音 /s/ ではなく有声音 /z/ で発音する。",
+    "比較級 wiser は、米: /ˈwaɪzər/｜英: /ˈwaɪzə(r)/。",
+    "最上級 wisest は、米・英: /ˈwaɪzɪst/。語末に /ɪst/ が加わる。",
+    "動詞の過去形・過去分詞 wised は /waɪzd/、三人称単数現在形 wises は /ˈwaɪzɪz/、-ing形 wising は /ˈwaɪzɪŋ/。wising は e を落として綴り、× wiseing とはしない。",
+    "wisely は米・英: /ˈwaɪzli/。wisdom は米・英: /ˈwɪzdəm/ で、母音が /aɪ/ から /ɪ/ に変わる。",
+    "接尾辞 -wise も通常 /waɪz/ と発音する。"
+  ],
+  "etymology": [
+    "形容詞 wise は古英語 wīs「知識がある、判断力がある」にさかのぼり、古英語 witan「知る」と関係するゲルマン系の語である。さらに遡ると「見る、知る」を表したインド・ヨーロッパ祖語の語根に結び付けられる。単なる知識量ではなく、「物事を見抜いて知っている」ことから、現在の「経験や理解に基づいて適切に判断できる」という意味につながる。",
+    "名詞 wise「方法、仕方」は古英語 wīse「仕方、様式」に由来し、現代では in no wise などの古風な定型表現にほぼ限定される。接尾辞 -wise もこの名詞から生じたもので、形容詞 wise「賢明な」と直接同じ意味ではない。",
+    "動詞 wise up は、形容詞の「事情を知っている」という意味から20世紀初頭に成立した表現で、「情報を得る」「現実に気付く」という意味になった。これとは別に、古英語 wīsian「道を示す」に由来する「案内する、方向を変えさせる」という動詞がスコットランドの地域用法に残るが、現代の一般英語ではほとんど用いられない。",
+    "同語源語:",
+    "wisdom: 知恵、英知。wise と歴史的な名詞形成要素から成立した語で、母音が /ɪ/ に短縮されている。",
+    "wit: 機知、知力、理解力。歴史的には「知る」という意味領域を wise と共有するが、現代の wit は特に「機転の利いた知性・ユーモア」を表す。",
+    "witness: 目撃者、証人。歴史的には「知っていること、証言すること」に関係するが、現代の意味は wise と大きく異なる。"
+  ],
+  "formation": [
+    {
+      "term": "wise",
+      "description": "→ wiser → wisest: 規則変化による比較級・最上級。「より賢明な」「最も賢明な」。"
+    },
+    {
+      "term": "wise",
+      "description": "+ -ly → wisely: 「賢明に、分別をもって」。"
+    },
+    {
+      "term": "wise",
+      "description": "+ -dom → wisdom: 「知恵、英知、適切な判断力」。発音は /ˈwɪzdəm/。"
+    },
+    {
+      "term": "un-",
+      "description": "+ wise → unwise: 「賢明でない、不適切な」。主に判断・行為・決定について用いる。"
+    },
+    {
+      "term": "wise",
+      "description": "+ up → wise up: 「事情に気付く、現実を悟る」「人に事情を教える」。くだけた句動詞。"
+    },
+    {
+      "term": "streetwise",
+      "description": "都市生活の危険や人間関係に通じた、世慣れた。単に学問的知識が豊富であることとは異なる。"
+    },
+    {
+      "term": "worldly-wise",
+      "description": "世間に通じた、世故にたけた。経験による現実的知識を含意する。"
+    },
+    {
+      "term": "wisecrack",
+      "description": "気の利いた皮肉、減らず口。wise の「利口ぶって生意気な」という意味に関係する。"
+    },
+    {
+      "term": "wise",
+      "description": "guy / wiseguy: 利口ぶって生意気な人、知ったかぶりをする人。米俗語では「ギャング、特にマフィアの構成員」も表す。"
+    },
+    {
+      "term": "名詞など",
+      "description": "+ -wise: clockwise、lengthwise のように「～の方向・仕方で」、money-wise のように「～に関して」を表す副詞を作る。"
+    }
+  ],
+  "core": [
+    {
+      "label": "形容詞",
+      "description": "wise の共通核は、「知識や経験を持っているだけでなく、それを使って状況を正しく理解し、よい判断ができる」である。"
+    },
+    {
+      "label": "人についての",
+      "description": "wise → 経験と理解に基づく判断力がある。"
+    },
+    {
+      "label": "決定・行為についての",
+      "description": "wise → 将来の結果まで考えると適切である。"
+    },
+    {
+      "label": "特定分野についての",
+      "description": "wise → 経験を通じて、その分野の実情や対処法を知っている。"
+    },
+    {
+      "label": "be",
+      "description": "wise to something → 隠れた事情や相手の意図を見抜いている。"
+    },
+    {
+      "label": "生意気さを表す",
+      "description": "wise → 利口であることを誇示し、相手に無礼な態度を取る。"
+    },
+    {
+      "label": "名詞",
+      "description": "wise と接尾辞 -wise の核はこれとは別で、「方法、向き、観点」である。"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【1 形容詞】人が賢明な、思慮深い、知恵がある",
+      "frequency": 7,
+      "register": [
+        "中立。日常会話、文章、教育、宗教、哲学などで広く用いられる。sage や sagacious より一般的である。"
+      ],
+      "definition": "経験、知識、人間や状況への深い理解を適切な判断に結び付けられることを表す。単に頭の回転が速い、知識量が多いという意味ではなく、長期的な結果、他者への影響、現実的な制約を踏まえて判断できるという肯定的評価を含む。",
+      "patterns": [
+        "a wise + 人を表す名詞＝賢明な人",
+        "be/become/grow + wise＝賢明である、経験を積んで賢くなる",
+        "be wise enough to do＝～するだけの分別がある",
+        "be wise beyond one’s years＝年齢以上に思慮深い",
+        "be/get wiser through/from + 経験＝経験を通じて賢明になる",
+        "the wise + 複数扱いの動詞＝賢明な人々",
+        "a word to the wise＝分別のある人なら短い忠告だけで十分だという含意を持つ定型句"
+      ],
+      "collocations": [
+        {
+          "pattern": "a wise leader",
+          "use": "経験と判断力に優れた指導者を表す",
+          "example": "A wise leader listens before making a decision.",
+          "translation": "賢明な指導者は決断する前に人の話を聞く。"
+        },
+        {
+          "pattern": "grow wiser with age",
+          "use": "年齢や経験を重ねるにつれて判断力が高まることを表す",
+          "example": "We do not automatically grow wiser with age.",
+          "translation": "年を取れば自動的に賢明になるわけではない。"
+        },
+        {
+          "pattern": "be wise beyond one’s years",
+          "use": "若いのに年齢から予想される以上の判断力があることを表す",
+          "example": "Maya is remarkably wise beyond her years.",
+          "translation": "マヤは驚くほど年齢以上に思慮深い。"
+        },
+        {
+          "pattern": "be wise enough to do",
+          "use": "危険や結果を理解し、適切な行動を取る分別があることを表す",
+          "example": "He was wise enough to ask for help before the problem got worse.",
+          "translation": "彼には、問題が悪化する前に助けを求めるだけの分別があった。"
+        },
+        {
+          "pattern": "be wiser for the experience",
+          "use": "ある経験によって理解や判断力が向上したことを表す",
+          "example": "The negotiations were difficult, but we were wiser for the experience.",
+          "translation": "交渉は困難だったが、私たちはその経験から多くを学んだ。"
+        },
+        {
+          "pattern": "the wise learn from experience",
+          "use": "wise を「賢明な人々」という集合的な名詞相当表現として使う",
+          "example": "The wise learn from the mistakes of others.",
+          "translation": "賢明な人は他人の失敗から学ぶ。"
+        },
+        {
+          "pattern": "a word to the wise",
+          "use": "短い忠告や警告を導入し、詳しく説明しなくても意図を察するよう促す",
+          "example": "A word to the wise: back up your files before installing the update.",
+          "translation": "忠告しておくと、アップデートをインストールする前にファイルをバックアップしたほうがいい。"
+        }
+      ],
+      "notes": [
+        "wise は intelligence の高さそのものではなく、知識や経験を「よい判断」に活用する能力を評価する。A brilliant scientist may not always make wise personal decisions. のように、brilliant と wise は両立も分離もする。",
+        "人を表す普通名詞の前では a wise person、a wise teacher のように使える。",
+        "the wise は「賢明な人々」という集合的表現で、通常は複数扱いになる。The wise are cautious. が正しく、× a wise のように単数の人を表すことはできない。",
+        "比較級 wiser は、知識が増えたというより、経験によって判断力や理解が向上したことを表すことが多い。",
+        "old and wise は肯定的だが、wise old man は物語的・類型的な響きを持つことがある。年齢が高ければ必ず wise だという意味ではない。",
+        "Wise Men を大文字にすると、キリスト教の伝統で幼子イエスを訪れた「東方の三博士」を指す固有表現になる。一般的な「賢者たち」とは区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "sensible",
+          "definition": "常識に基づいて現実的かつ合理的に判断できる",
+          "frequency": 7,
+          "difference": "wise ほど深い人生経験や洞察を含意せず、日常的で実用的な判断に重点がある。",
+          "example": "She is sensible enough to avoid unnecessary debt.",
+          "translation": "彼女には不必要な借金を避けるだけの常識がある。"
+        },
+        {
+          "word": "prudent",
+          "definition": "将来の危険や損失を考え、慎重に行動する",
+          "frequency": 6,
+          "difference": "wise よりもリスク回避、節制、先を見越した慎重さに重点がある。",
+          "example": "A prudent investor keeps an emergency fund.",
+          "translation": "慎重な投資家は緊急用の資金を確保しておく。"
+        },
+        {
+          "word": "sage",
+          "definition": "豊富な経験と深い知恵を備えた",
+          "frequency": 4,
+          "difference": "wise より文語的で、年長者、助言、格言などと結び付きやすい。人を指す名詞「賢者」としても使える。",
+          "example": "She offered some sage advice about handling criticism.",
+          "translation": "彼女は批判への対処について非常に賢明な助言をした。"
+        },
+        {
+          "word": "sagacious",
+          "definition": "複雑な状況を鋭く理解し、適切に判断できる",
+          "frequency": 2,
+          "difference": "wise より非常にフォーマルで低頻度。鋭い識別力や判断力を強調する。",
+          "example": "The committee benefited from his sagacious leadership.",
+          "translation": "委員会は彼の卓越した判断力を備えた指導から恩恵を受けた。"
+        },
+        {
+          "word": "shrewd",
+          "definition": "現実的な状況や人の意図を素早く見抜き、自分に有利な判断ができる",
+          "frequency": 6,
+          "difference": "wise より商売・交渉・自己利益との結び付きが強く、道徳的な善良さを必ずしも含まない。",
+          "example": "She is a shrewd negotiator who rarely reveals her priorities.",
+          "translation": "彼女は自分の優先事項をめったに明かさない抜け目のない交渉者だ。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "foolish",
+          "definition": "判断力を欠き、悪い結果につながる考えや行動を取る",
+          "frequency": 6,
+          "difference": "判断力の軸で wise と直接対立する。wise が結果を見通すのに対し、foolish は結果を十分に考えない。",
+          "example": "It was foolish to ignore repeated warnings.",
+          "translation": "繰り返された警告を無視したのは愚かだった。"
+        },
+        {
+          "word": "naive",
+          "definition": "経験不足のため、人や状況を単純に信じすぎる",
+          "frequency": 6,
+          "difference": "経験・世間知の軸で部分的に対立する。naive な人でも知的能力が低いとは限らない。",
+          "example": "I was naive enough to believe every promise they made.",
+          "translation": "私は世間知らずで、彼らの約束をすべて信じてしまった。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【2 形容詞】判断・行為・選択などが賢明な、得策な",
+      "frequency": 8,
+      "register": [
+        "中立。日常会話、ビジネス、報道、助言で広く使われる。"
+      ],
+      "definition": "決定、行動、助言、投資、方針などが、状況や将来の結果を十分に考えると適切であることを表す。「道徳的に正しい」とは限らず、現実的に見て利益があり、危険や後悔を減らせるという評価にも用いる。",
+      "patterns": [
+        "a wise + decision/choice/move/course/investment＝賢明な決定・選択・行動・方針・投資",
+        "it is wise to do＝～するのが賢明である",
+        "it is wise of someone to do＝～するとは、その人は賢明だ",
+        "it is wise for someone to do＝その人の状況では～するのが得策だ",
+        "someone would be wise to do＝～したほうが賢明だ",
+        "the wisest course is to do＝最も賢明な方針は～することだ",
+        "be wise after the event＝物事が起きた後になって正しい対応に気付く",
+        "penny-wise and pound-foolish＝小額を惜しんで、かえって大きな損をする"
+      ],
+      "collocations": [
+        {
+          "pattern": "make a wise decision",
+          "use": "十分に考えたうえで適切な決断をする",
+          "example": "She made a wise decision to postpone the launch until testing was complete.",
+          "translation": "彼女はテストが完了するまで発売を延期するという賢明な決断をした。"
+        },
+        {
+          "pattern": "a wise choice",
+          "use": "複数の選択肢の中から将来的に望ましいものを選んだと評価する",
+          "example": "Choosing the smaller apartment was a wise choice financially.",
+          "translation": "より小さいアパートを選んだのは、金銭面では賢明な選択だった。"
+        },
+        {
+          "pattern": "a wise move",
+          "use": "特定の状況で戦略的に得策な行動を表す",
+          "example": "Apologizing immediately was a wise move.",
+          "translation": "すぐに謝罪したのは得策だった。"
+        },
+        {
+          "pattern": "it is wise to do",
+          "use": "一般的または客観的な助言として、ある行動を勧める",
+          "example": "It is wise to read the contract carefully before signing it.",
+          "translation": "契約書に署名する前によく読むのが賢明だ。"
+        },
+        {
+          "pattern": "it was wise of someone to do",
+          "use": "行動を通じて、その人の判断力を肯定的に評価する",
+          "example": "It was wise of you to keep a copy of the receipt.",
+          "translation": "レシートの写しを取っておいたとは、あなたは賢明だった。"
+        },
+        {
+          "pattern": "it would be wise for someone to do",
+          "use": "その人の事情や利益を考えると、ある行動が得策だと控えめに助言する",
+          "example": "It would be wise for you to consult a specialist before proceeding.",
+          "translation": "先に進む前に専門家へ相談するのが、あなたにとっては賢明だろう。"
+        },
+        {
+          "pattern": "someone would be wise to do",
+          "use": "丁寧だが明確な助言や警告を与える",
+          "example": "Investors would be wise to consider the long-term risks.",
+          "translation": "投資家は長期的なリスクを考慮したほうが賢明だ。"
+        },
+        {
+          "pattern": "the wisest course of action",
+          "use": "複数の対応策のうち最も安全または合理的なものを示す",
+          "example": "The wisest course of action is to wait until more evidence becomes available.",
+          "translation": "最も賢明な対応は、さらに証拠が得られるまで待つことだ。"
+        },
+        {
+          "pattern": "be wise after the event",
+          "use": "結果を知った後で、取るべきだった行動を語ることを批判的に表す",
+          "example": "It is easy to be wise after the event and say that the warning signs were obvious.",
+          "translation": "事が起きた後で、警告の兆候は明白だったと言うのは簡単だ。"
+        },
+        {
+          "pattern": "be penny-wise and pound-foolish",
+          "use": "小さな節約を優先した結果、より大きな費用や損失を招くことを表す",
+          "example": "Delaying essential maintenance would be penny-wise and pound-foolish.",
+          "translation": "必要な整備を先延ばしにするのは、小銭を惜しんで大損するようなものだ。"
+        }
+      ],
+      "notes": [
+        "It is wise to do は行為を評価する。人を主語にするなら You are wise to do も可能だが、「そのようにするとは賢明だ」という評価を含み、単なる予定の説明にはならない。",
+        "It was wise of you to leave. は「立ち去る判断をしたあなたは賢明だった」と人の判断力を評価する。It was wise for you to leave. は「あなたの事情では立ち去ることが得策だった」と行為の適切さを評価する。",
+        "後続する動詞には原則 to不定詞を使う。× It is wise avoiding the area. ではなく、It is wise to avoid the area. とする。",
+        "would be wise to は助言に使われるが、文脈や口調によっては強い警告になる。You’d be wise to stay away. は「近寄らないほうが身のためだ」という威圧的な含意を持つことがある。",
+        "wise decision、wise move などでは、何を基準に賢明と評価しているかを financially、politically、in the long run などで補足できる。",
+        "be wise after the event は特にイギリス英語でよく認識される定型表現で、通常は「結果を知った後なら誰でも言える」という批判的含意を持つ。",
+        "penny-wise and pound-foolish の penny と pound は英国の通貨単位に由来するが、英国通貨を扱う場面に限らず、一般的な比喩として用いられる。penny wise and pound foolish とハイフンなしで表記されることもある。"
+      ],
+      "synonyms": [
+        {
+          "word": "sensible",
+          "definition": "常識的で現実に即した",
+          "frequency": 7,
+          "difference": "wise より日常的で、深い洞察よりも無理のない実用的な選択を強調する。",
+          "example": "Taking an earlier train seems like the sensible option.",
+          "translation": "もっと早い電車に乗るのが現実的な選択のようだ。"
+        },
+        {
+          "word": "prudent",
+          "definition": "リスクや将来の損失を避けるため慎重な",
+          "frequency": 6,
+          "difference": "wise より危険管理と慎重さに重点があり、金融・法律・経営でよく用いられる。",
+          "example": "Reducing the company’s debt would be a prudent step.",
+          "translation": "会社の債務を減らすことは慎重で適切な措置だろう。"
+        },
+        {
+          "word": "judicious",
+          "definition": "情報を慎重に比較し、バランスよく判断した",
+          "frequency": 4,
+          "difference": "wise よりフォーマルで、資源の配分、選択、批評などにおける識別力を強調する。",
+          "example": "The judicious use of public funds can prevent waste.",
+          "translation": "公的資金を慎重に使用すれば無駄を防げる。"
+        },
+        {
+          "word": "sound",
+          "definition": "根拠がしっかりしていて信頼できる",
+          "frequency": 7,
+          "difference": "sound advice、sound judgment のように、知恵より論理的・実務的な妥当性を強調する。",
+          "example": "The proposal is based on sound economic reasoning.",
+          "translation": "その提案は確かな経済的推論に基づいている。"
+        },
+        {
+          "word": "advisable",
+          "definition": "特定の状況では実行することが望ましい",
+          "frequency": 5,
+          "difference": "人や判断力を評価せず、ある行為を勧められるかどうかに焦点を置く。通常は叙述用法で使う。",
+          "example": "It is advisable to book well in advance.",
+          "translation": "十分早めに予約することが望ましい。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unwise",
+          "definition": "よい判断に基づいておらず、望ましくない結果を招き得る",
+          "frequency": 5,
+          "difference": "適切性・判断の軸で wise と最も直接的に対立する。必ずしも極端に愚かだとは限らない。",
+          "example": "It would be unwise to spend all of the reserve funds at once.",
+          "translation": "予備資金を一度にすべて使うのは賢明ではないだろう。"
+        },
+        {
+          "word": "imprudent",
+          "definition": "将来の危険や結果に対する慎重さを欠いた",
+          "frequency": 3,
+          "difference": "慎重さの軸で prudent および wise と対立し、unwise よりフォーマルである。",
+          "example": "The court described the transaction as highly imprudent.",
+          "translation": "裁判所はその取引を極めて軽率だと評した。"
+        },
+        {
+          "word": "reckless",
+          "definition": "明白な危険を顧みない",
+          "frequency": 6,
+          "difference": "wise の単なる欠如より強く、危険を認識しながら無視するような無謀さを表す。",
+          "example": "Driving at that speed in heavy rain was reckless.",
+          "translation": "激しい雨の中をその速度で運転するのは無謀だった。"
+        },
+        {
+          "word": "foolish",
+          "definition": "判断力を欠き、悪い結果を招きやすい",
+          "frequency": 6,
+          "difference": "wise と判断の質の軸で対立し、unwise より人への否定的評価が強いことがある。",
+          "example": "Quitting without any plan would be foolish.",
+          "translation": "何の計画もなく辞めるのは愚かだろう。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【3 形容詞】特定の分野や世間の実情に詳しい、経験を積んでいる",
+      "frequency": 5,
+      "register": [
+        "中立からくだけた表現。be wise in the ways of、streetwise、worldly-wise など、定着した構文・複合語で現れることが多い。"
+      ],
+      "definition": "特定の環境、分野、人間関係などについて、実際の経験を通じた知識があることを表す。一般的な知識量よりも、「その世界が実際にどのように動くか」「そこでどう対処すべきか」を知っているという含意が強い。",
+      "patterns": [
+        "be wise in the ways of + 名詞＝～の世界・対処法に通じている",
+        "be wise about + 名詞＝経験を通じて～についてよく理解している",
+        "streetwise＝都会の危険や人間関係に通じている",
+        "worldly-wise＝世間の実情や人間の行動に通じている",
+        "become/get wiser about + 名詞＝経験を積んで～について理解が深まる"
+      ],
+      "collocations": [
+        {
+          "pattern": "be wise in the ways of the world",
+          "use": "世間の現実、人間の利害、社会の仕組みに通じていることを表す",
+          "example": "She was young but already wise in the ways of the world.",
+          "translation": "彼女は若かったが、すでに世間の事情によく通じていた。"
+        },
+        {
+          "pattern": "be wise in the ways of something",
+          "use": "特定の環境や分野で実用的な知識を持つことを表す",
+          "example": "Local residents are wise in the ways of surviving severe winters.",
+          "translation": "地元の住民は厳しい冬を乗り切る方法を熟知している。"
+        },
+        {
+          "pattern": "become wiser about something",
+          "use": "経験を通じて、特定の問題について判断力や理解を高める",
+          "example": "After several failed projects, we became wiser about managing risk.",
+          "translation": "いくつかのプロジェクトに失敗した後、私たちはリスク管理について理解を深めた。"
+        },
+        {
+          "pattern": "a streetwise teenager",
+          "use": "都市の危険や人の下心を見抜く実践的能力のある若者を表す",
+          "example": "The streetwise teenager knew which areas to avoid after dark.",
+          "translation": "その世慣れた若者は、暗くなってから避けるべき地区を知っていた。"
+        },
+        {
+          "pattern": "a worldly-wise observer",
+          "use": "世間経験に基づいて人間や社会を現実的に見る人を表す",
+          "example": "The novel is narrated by a worldly-wise observer of political life.",
+          "translation": "その小説は政治の世界を知り尽くした観察者によって語られる。"
+        }
+      ],
+      "notes": [
+        "be wise in the ways of something は単に専門知識を持つだけでなく、経験から得た実践的な知識を含意する。純粋な学術知識には knowledgeable about や expert in のほうが適する。",
+        "be wise about something は文脈によって「～について賢明な判断をする」と「～について詳しくなった」の両方になり得る。具体的な意味は周囲の動詞や経験の記述で決まる。",
+        "streetwise は urban life、danger、crime、人の意図などへの実践的な対応力を表し、wise より意味が限定される。",
+        "worldly-wise は経験豊富という肯定的意味にも、純真さを失っているという含意にもなり得る。",
+        "この用法と be wise to something は異なる。be wise in the ways of business は「ビジネスの実情に通じている」、be wise to their scheme は「彼らの策略に気付いている」である。"
+      ],
+      "synonyms": [
+        {
+          "word": "knowledgeable",
+          "definition": "特定分野について豊富で正確な知識を持つ",
+          "frequency": 6,
+          "difference": "経験による処世能力を必須とせず、学術的・専門的知識にも広く使える。",
+          "example": "She is highly knowledgeable about tax law.",
+          "translation": "彼女は税法について非常に豊富な知識を持っている。"
+        },
+        {
+          "word": "experienced",
+          "definition": "実際に多くの経験を積み、対処能力を持つ",
+          "frequency": 8,
+          "difference": "wise より経験量に焦点を置き、その経験から必ず賢明な判断をするとは限らない。",
+          "example": "We need an experienced manager to lead the project.",
+          "translation": "そのプロジェクトを率いる経験豊富な管理者が必要だ。"
+        },
+        {
+          "word": "savvy",
+          "definition": "特定分野の実情を理解し、実際にうまく対処できる",
+          "frequency": 6,
+          "difference": "くだけた現代的な語で、business-savvy、tech-savvy のように実用能力を強調する。",
+          "example": "Today’s consumers are increasingly media-savvy.",
+          "translation": "現代の消費者はメディアにますます精通している。"
+        },
+        {
+          "word": "worldly",
+          "definition": "世間経験が豊富で、現実的な人間関係や利害を理解している",
+          "frequency": 5,
+          "difference": "wise より世俗的経験に焦点を置き、純真ではないという含意を伴うことがある。",
+          "example": "Despite his youth, he seemed remarkably worldly.",
+          "translation": "若いにもかかわらず、彼は驚くほど世慣れているようだった。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "inexperienced",
+          "definition": "特定の活動や状況について十分な経験がない",
+          "frequency": 7,
+          "difference": "経験量の軸で、この語義の wise と対立する。知的能力の低さは含意しない。",
+          "example": "The team was talented but inexperienced.",
+          "translation": "そのチームには才能があったが、経験が不足していた。"
+        },
+        {
+          "word": "naive",
+          "definition": "経験不足により、人や状況を単純に信じすぎる",
+          "frequency": 6,
+          "difference": "世間知の軸で worldly-wise や streetwise と対立する。",
+          "example": "It was naive to assume that everyone shared the same interests.",
+          "translation": "全員が同じ利害を共有していると思うのは世間知らずだった。"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "【4 形容詞】事情を知っている、相手の意図や秘密に気付いている",
+      "frequency": 5,
+      "register": [
+        "be",
+        "get wise to はくだけた表現で、犯罪物、警告、相手の不正を見抜く文脈などで使われる。none the wiser は米英ともに現在も一般的な定型表現である。"
+      ],
+      "definition": "秘密、策略、危険、真相など、誰もが知っているとは限らない事情を認識していることを表す。特に be wise to something、get wise to something の形で、「だまされずに見抜いている」「隠された事実に気付く」という含意を持つ。none the wiser では、説明後も理解できないこと、または出来事に気付いていないことを表す。",
+      "patterns": [
+        "be wise to + someone/something＝人の不正や物事の正体を知っている",
+        "get wise to + someone/something＝人の不正や物事の正体に気付く",
+        "be/get wise to the fact that節＝～という事実を知っている、知るようになる",
+        "be none the wiser about/as to + 名詞・wh節＝～について少しも分からない",
+        "be none the wiser after + 説明など＝説明などを受けても理解が深まらない",
+        "no one will be any the wiser＝誰にも気付かれない",
+        "leave someone none the wiser＝人に理解させないままにする"
+      ],
+      "collocations": [
+        {
+          "pattern": "be wise to someone’s tricks",
+          "use": "相手の策略や常套手段をすでに見抜いている",
+          "example": "Customers are now wise to the company’s misleading sales tactics.",
+          "translation": "顧客は今ではその会社の紛らわしい販売戦術を見抜いている。"
+        },
+        {
+          "pattern": "get wise to someone",
+          "use": "人が不正直であることや、だまそうとしていることに気付く",
+          "example": "He thought he could deceive us, but we soon got wise to him.",
+          "translation": "彼は私たちをだませると思っていたが、私たちはすぐに彼の正体を見抜いた。"
+        },
+        {
+          "pattern": "get wise to the scheme",
+          "use": "隠されていた計画や詐欺に気付く",
+          "example": "The authorities eventually got wise to the scheme.",
+          "translation": "当局は最終的にその計画の正体に気付いた。"
+        },
+        {
+          "pattern": "get wise to the fact that",
+          "use": "それまで認識していなかった事実を理解し始める",
+          "example": "He finally got wise to the fact that they were using him.",
+          "translation": "彼はついに、自分が彼らに利用されていることに気付いた。"
+        },
+        {
+          "pattern": "be none the wiser after an explanation",
+          "use": "説明を受けた後も理解できないことを表す",
+          "example": "I read the instructions twice but was none the wiser.",
+          "translation": "説明書を2回読んだが、結局少しも分からなかった。"
+        },
+        {
+          "pattern": "be none the wiser about something",
+          "use": "ある事柄について情報や理解を得ていないことを表す",
+          "example": "We asked several questions but were none the wiser about the cause of the failure.",
+          "translation": "私たちはいくつも質問したが、故障の原因については結局何も分からなかった。"
+        },
+        {
+          "pattern": "no one will be any the wiser",
+          "use": "行為や事実が他人に発見されないだろうと述べる",
+          "example": "Put the file back exactly where it was, and no one will be any the wiser.",
+          "translation": "ファイルを元の場所にきちんと戻せば、誰にも気付かれないだろう。"
+        },
+        {
+          "pattern": "leave someone none the wiser",
+          "use": "説明したにもかかわらず、相手に理解させられない",
+          "example": "His vague answer left the audience none the wiser.",
+          "translation": "彼の曖昧な答えでは、聴衆は結局何も理解できなかった。"
+        }
+      ],
+      "notes": [
+        "be wise to の to は不定詞の標識ではなく前置詞なので、後ろには名詞、代名詞、動名詞を置く。be wise to their methods、be wise to being manipulated のように使う。",
+        "get wise to は「気付く」という変化、be wise to は「すでに知っている」という状態を表す。ただし実際には be/get wise to がまとめて「不正や策略を見抜く」という定型表現として使われることも多い。",
+        "none the wiser には二つの主要な解釈がある。I read the manual but was none the wiser. は「理解できなかった」、The customers were none the wiser. は「顧客はその出来事を知らなかった」である。",
+        "none the wiser の the は比較級を伴う定型構文の一部であり、通常の定冠詞ではない。× none wiser と省略せず、none the wiser とする。",
+        "not any the wiser も可能で、I’m not any the wiser. のように使う。none the wiser のほうが定型性が高い。",
+        "a wise look、a wise smile のように、表情が秘密の知識や抜け目のなさを示すという用法もあるが、現代では a knowing look、a knowing smile のほうが一般的で明確である。",
+        "be wiser about something は「経験を通じて以前より詳しく、賢明になった」という通常の比較表現にもなり得る。be wise to something の「不正や秘密を見抜いている」とは必ずしも同じではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "aware",
+          "definition": "事実や状況の存在を認識している",
+          "frequency": 9,
+          "difference": "最も一般的で中立。wise to のような「策略を見抜いた」という含意は必須ではない。",
+          "example": "Are you aware of the risks involved?",
+          "translation": "関係するリスクを認識していますか。"
+        },
+        {
+          "word": "informed",
+          "definition": "必要な情報を与えられ、事情を知っている",
+          "frequency": 7,
+          "difference": "情報取得の結果を表し、wise to のような自力で見破る含意は弱い。",
+          "example": "All employees should be fully informed about the policy change.",
+          "translation": "全従業員に方針変更について十分知らせるべきだ。"
+        },
+        {
+          "word": "privy",
+          "definition": "秘密または非公開の情報を知る立場にある",
+          "frequency": 4,
+          "difference": "通常 privy to の形で、非公開情報を共有されていることを表す。wise to よりフォーマルである。",
+          "example": "Only senior officials were privy to the negotiations.",
+          "translation": "その交渉の内容を知っていたのは高官だけだった。"
+        },
+        {
+          "word": "alert to",
+          "definition": "危険や変化の可能性を認識し、注意を向けている",
+          "frequency": 5,
+          "difference": "wise to より警戒と継続的な注意を強調する。",
+          "example": "Banks must remain alert to new forms of fraud.",
+          "translation": "銀行は新しい形態の詐欺に引き続き警戒しなければならない。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unaware",
+          "definition": "事実や状況を認識していない",
+          "frequency": 7,
+          "difference": "認識の有無の軸で be wise to と直接対立する中立的な語。",
+          "example": "She was unaware that the meeting had been canceled.",
+          "translation": "彼女は会議が中止されたことを知らなかった。"
+        },
+        {
+          "word": "oblivious",
+          "definition": "周囲で起きていることにまったく気付いていない",
+          "frequency": 5,
+          "difference": "unaware より強く、気付くべき明白なことにも注意を払っていない含意がある。",
+          "example": "He seemed oblivious to the tension in the room.",
+          "translation": "彼は部屋に漂う緊張にまったく気付いていないようだった。"
+        },
+        {
+          "word": "unsuspecting",
+          "definition": "危険、詐欺、悪意などを疑っていない",
+          "frequency": 5,
+          "difference": "策略を警戒している wise to と、疑いの有無の軸で対立する。通常は名詞の前で使う。",
+          "example": "The fake website collected data from unsuspecting users.",
+          "translation": "その偽サイトは何も疑っていない利用者からデータを集めた。"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "【5 形容詞・主に米・くだけた表現】利口ぶって生意気な、口の減らない",
+      "frequency": 4,
+      "register": [
+        "主に米語・カナダ英語のくだけた用法。wise remark、wise mouth、get wise with someone などはやや古風または映画的に響く場合がある。wise guy",
+        "wiseguy と crack wise は現在も認識される。"
+      ],
+      "definition": "知性や機転を見せようとして、相手に無礼な返答、皮肉、冗談をする様子を表す。この意味では肯定的な「賢明な」ではなく、「小賢しい」「生意気な」「減らず口をたたく」という否定的評価になる。",
+      "patterns": [
+        "a wise + remark/answer＝生意気な発言・返答",
+        "a wise mouth＝減らず口をたたく性質・人物",
+        "get wise with + someone＝人に生意気な口を利く",
+        "a wise guy / wiseguy＝利口ぶった生意気な人、米俗語ではギャング",
+        "crack wise＝冗談や皮肉を言う",
+        "don’t get wise with me＝私に生意気な口を利くな"
+      ],
+      "collocations": [
+        {
+          "pattern": "make a wise remark",
+          "use": "相手をからかったり挑発したりする生意気な発言をする",
+          "example": "He made a wise remark and was immediately told to apologize.",
+          "translation": "彼は生意気な発言をして、すぐに謝るよう言われた。"
+        },
+        {
+          "pattern": "give someone a wise answer",
+          "use": "質問や注意に対して、利口ぶった無礼な返答をする",
+          "example": "Don’t give me a wise answer when I’m asking a serious question.",
+          "translation": "こちらが真剣に質問しているときに、生意気な返事をするな。"
+        },
+        {
+          "pattern": "have a wise mouth",
+          "use": "減らず口をたたく傾向があることを表す",
+          "example": "The character is known for his wise mouth and sarcastic humor.",
+          "translation": "その登場人物は減らず口と皮肉なユーモアで知られている。"
+        },
+        {
+          "pattern": "get wise with someone",
+          "use": "目上の人などに対して生意気な態度や返答をする",
+          "example": "Don’t get wise with your supervisor.",
+          "translation": "上司に生意気な口を利くな。"
+        },
+        {
+          "pattern": "a wise guy",
+          "use": "自分が賢いことを誇示し、冗談や無礼な発言をする人を批判的に呼ぶ",
+          "example": "He thinks he’s funny, but everyone else sees him as a wise guy.",
+          "translation": "本人は面白いつもりだが、周囲は彼を生意気な知ったかぶりだと思っている。"
+        },
+        {
+          "pattern": "crack wise",
+          "use": "機知を見せる冗談、皮肉、軽口を言う",
+          "example": "He kept cracking wise during the interview instead of answering seriously.",
+          "translation": "彼は面接で真面目に答えず、ずっと軽口をたたいていた。"
+        }
+      ],
+      "notes": [
+        "肯定的な wise と正反対に近い評価になるため、名詞と文脈が重要である。a wise decision は肯定的だが、a wise mouth は否定的である。",
+        "wise guy は親しい間柄で冗談めかして使う場合もあるが、基本的には相手を「生意気な知ったかぶり」とみなす表現である。直接呼び掛けると挑発的になり得る。",
+        "wise guy または wiseguy は、米国の俗語で「ギャング、特にマフィアの構成員」を表すこともある。この意味は現在も犯罪報道、映画、犯罪物で用いられる。",
+        "wisecrack は名詞「気の利いた皮肉、生意気な冗談」、wisecracking は形容詞「皮肉ばかり言う」である。",
+        "crack wise は wisecrack と関係する動詞表現である。必ずしも無礼とは限らず、「機知のある冗談を言う」という比較的軽い意味にもなる。",
+        "現代の一般的な英語で「生意気な」を明確に表すなら cheeky、smart-alecky、impertinent などを使える。"
+      ],
+      "synonyms": [
+        {
+          "word": "cheeky",
+          "definition": "無礼さを含みながらも、大胆でいたずらっぽい",
+          "frequency": 6,
+          "difference": "特にイギリス英語で一般的。wise より軽く、愛嬌を伴う場合もある。",
+          "example": "The child gave me a cheeky grin.",
+          "translation": "その子はいたずらっぽく生意気な笑みを浮かべた。"
+        },
+        {
+          "word": "impertinent",
+          "definition": "礼儀を欠き、立場をわきまえず無礼な",
+          "frequency": 4,
+          "difference": "wise の「利口ぶった」要素より、社会的な無礼さをフォーマルに非難する。",
+          "example": "The interviewer considered the question impertinent.",
+          "translation": "面接官はその質問を無礼だと考えた。"
+        },
+        {
+          "word": "insolent",
+          "definition": "権威や相手を公然と軽視するほど無礼な",
+          "frequency": 4,
+          "difference": "wise より強く、尊大さや反抗的な無礼を表す。",
+          "example": "His insolent response angered the judge.",
+          "translation": "彼の横柄な返答は裁判官を怒らせた。"
+        },
+        {
+          "word": "smart-alecky",
+          "definition": "自分の賢さを誇示するように生意気な",
+          "frequency": 4,
+          "difference": "この語義の wise に最も近い米口語で、知ったかぶりや皮肉な返答を明確に表す。",
+          "example": "Her smart-alecky comments disrupted the discussion.",
+          "translation": "彼女の小賢しく生意気な発言が議論を妨げた。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "respectful",
+          "definition": "相手への敬意を態度や言葉で示す",
+          "frequency": 7,
+          "difference": "対人態度の軸で、生意気で無礼な wise と対立する。",
+          "example": "Please remain respectful even when you disagree.",
+          "translation": "意見が違っても敬意ある態度を保ってください。"
+        },
+        {
+          "word": "deferential",
+          "definition": "相手の地位や権威を認め、控えめな敬意を示す",
+          "frequency": 3,
+          "difference": "権威への態度の軸で insolent やこの語義の wise と対立し、respectful よりフォーマルで従順な響きがある。",
+          "example": "The staff were unusually deferential toward the visiting minister.",
+          "translation": "職員たちは訪問中の大臣に対して異例なほど恭しい態度を取った。"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "【6 形容詞・古風】魔術、占い、民間療法などの知識がある",
+      "frequency": 2,
+      "register": [
+        "古風、歴史、民俗学、物語。"
+      ],
+      "definition": "超自然的な知識、占い、薬草、民間療法などに通じていることを表した歴史的用法。現代の日常英語で自由に使う意味ではなく、昔話、歴史、民俗学的な文脈で wise woman、wise man などとして現れる。",
+      "patterns": [
+        "a wise woman＝民間療法、薬草、占いなどの知識を持つ女性",
+        "a wise man＝古い物語などにおける賢者、占い師、秘術の知識を持つ男性"
+      ],
+      "collocations": [
+        {
+          "pattern": "a village wise woman",
+          "use": "村で治療、助言、占いなどを担ったとされる女性を歴史的に表す",
+          "example": "The villagers consulted a wise woman who was skilled in herbal remedies.",
+          "translation": "村人たちは薬草療法に詳しい賢女に相談した。"
+        },
+        {
+          "pattern": "a wise man versed in divination",
+          "use": "占いや秘術の知識を持つ人物を物語的・歴史的に表す",
+          "example": "The legend tells of a wise man versed in divination.",
+          "translation": "その伝説は占いに通じた賢者について語っている。"
+        }
+      ],
+      "notes": [
+        "現代の日常英語で a wise woman と言えば、通常は単に「賢明な女性」と解釈される。魔術・民間療法の意味には歴史的な文脈が必要である。",
+        "witch と完全な同義ではない。wise woman は地域社会で助言者や治療者として肯定的に見られる場合があり、悪意ある魔女という含意は必須ではない。",
+        "the Three Wise Men はキリスト教の固有表現であり、この語義だけで説明できる「占い師たち」という意味ではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【7 句動詞・自動詞・くだけた表現】wise up＝事情に気付く、現実を悟る、分別を持つようになる",
+      "frequency": 5,
+      "register": [
+        "くだけた口語。米英の両方で用いられる。命令形は直接的で批判的である。"
+      ],
+      "definition": "それまで理解していなかった事実、特に不愉快な現実、詐欺、利用されている状況などに気付くことを表す。また、命令形 Wise up! では「いい加減に現実を見ろ」「もっと分別を持て」という叱責になる。",
+      "patterns": [
+        "wise up＝現実に気付く、分別を持つ",
+        "wise up to + 名詞＝～の正体・問題に気付く",
+        "wise up to the fact that節＝～という事実に気付く",
+        "wise up before + 節＝～になる前に現実に気付く",
+        "Wise up!＝現実を見ろ、いい加減に分別を持て",
+        "活用は wises up / wised up / wising up"
+      ],
+      "collocations": [
+        {
+          "pattern": "wise up to a scam",
+          "use": "詐欺や策略の正体に気付く",
+          "example": "Consumers are beginning to wise up to the scam.",
+          "translation": "消費者はその詐欺に気付き始めている。"
+        },
+        {
+          "pattern": "wise up to what is happening",
+          "use": "周囲で実際に起きていることを理解する",
+          "example": "It took him months to wise up to what was happening.",
+          "translation": "彼が何が起きているのか理解するまでには何か月もかかった。"
+        },
+        {
+          "pattern": "wise up to the fact that",
+          "use": "認めにくい事実や不都合な現実を悟る",
+          "example": "She eventually wised up to the fact that the offer was too good to be true.",
+          "translation": "彼女は最終的に、その話がうますぎて本当ではないことに気付いた。"
+        },
+        {
+          "pattern": "wise up before it is too late",
+          "use": "手遅れになる前に危険や現実を認識するよう警告する",
+          "example": "The company needs to wise up before it loses its remaining customers.",
+          "translation": "その会社は残りの顧客まで失う前に現実を認識する必要がある。"
+        },
+        {
+          "pattern": "Wise up!",
+          "use": "相手の考えや行動が愚かだとして、現実を見るよう強く促す",
+          "example": "Wise up! They have no intention of paying you back.",
+          "translation": "いい加減に気付きなさい。彼らにはあなたにお金を返すつもりなどない。"
+        }
+      ],
+      "notes": [
+        "自動詞用法では目的語を直接置けない。× wise up the scam ではなく、wise up to the scam とする。",
+        "to は前置詞なので、wise up to being exploited のように動名詞を続けられる。",
+        "get wise to と wise up to は近いが、wise up to は「ようやく現実を悟る」という変化をより明確に表す。get wise to は相手の策略や不正を見破る響きが強い場合がある。",
+        "Wise up! は相手を無知・愚かだと批判する表現なので、丁寧な助言には適さない。Wake up! と同様、口調によっては攻撃的になる。",
+        "「知識を増やす」という一般的な学習には learn や become better informed を使う。wise up は、見落としていた現実や策略への気付きを含む。"
+      ],
+      "synonyms": [
+        {
+          "word": "realize",
+          "definition": "それまで十分に理解していなかった事実を認識する",
+          "frequency": 9,
+          "difference": "最も一般的で中立。wise up のような「現実を見るべきだった」という批判的含意はない。",
+          "example": "I realized that I had misunderstood the instructions.",
+          "translation": "私は説明を誤解していたことに気付いた。"
+        },
+        {
+          "word": "catch on",
+          "definition": "仕組み、意味、隠れた事情などを理解し始める",
+          "frequency": 6,
+          "difference": "くだけた表現で、理解の成立を表す。wise up より批判的な響きが弱い。",
+          "example": "It took me a while to catch on to their plan.",
+          "translation": "彼らの計画を理解するまで少し時間がかかった。"
+        },
+        {
+          "word": "wake up to",
+          "definition": "無視していた重要な事実や危険を認識するようになる",
+          "frequency": 6,
+          "difference": "wise up to と非常に近いが、社会問題や重大な危険への認識にも広く使われる。",
+          "example": "Governments are waking up to the scale of the problem.",
+          "translation": "各国政府はその問題の規模を認識し始めている。"
+        },
+        {
+          "word": "see through",
+          "definition": "見せかけ、うそ、策略の正体を見抜く",
+          "frequency": 6,
+          "difference": "気付く対象が欺瞞である場合に限定されやすく、目的語を直接取る。",
+          "example": "She quickly saw through his excuses.",
+          "translation": "彼女はすぐに彼の言い訳を見抜いた。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "remain oblivious",
+          "definition": "状況にまったく気付かないままでいる",
+          "frequency": 4,
+          "difference": "認識の変化が起こる wise up と正反対に、無認識の状態が続くことを表す。",
+          "example": "Management remained oblivious to the growing frustration among staff.",
+          "translation": "経営陣は従業員の不満が高まっていることに気付かないままだった。"
+        },
+        {
+          "word": "fall for something",
+          "definition": "うそ、詐欺、策略などを信じてだまされる",
+          "frequency": 6,
+          "difference": "策略を見破る wise up to と、欺瞞への反応の軸で対立する。",
+          "example": "Thousands of people fell for the fake investment offer.",
+          "translation": "何千人もの人がその偽の投資話にだまされた。"
+        },
+        {
+          "word": "be fooled",
+          "definition": "うそや見せかけを真実だと思わされる",
+          "frequency": 6,
+          "difference": "wise up が欺瞞を認識するのに対し、be fooled は欺瞞に成功されることを表す。",
+          "example": "I was fooled by the website’s professional appearance.",
+          "translation": "私はそのウェブサイトの本格的な見た目にだまされた。"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "【8 動詞・他動詞・くだけた表現】wise someone up / put someone wise＝人に事情を教える、現実を分からせる",
+      "frequency": 4,
+      "register": [
+        "くだけた表現。特に米語で認識されやすい。put someone wise はやや古風。正式な説明やビジネス文書では inform、brief、make someone aware of などが適する。"
+      ],
+      "definition": "人に、知らなかった事情、危険、内部情報、やり方などを教え、状況を理解させることを表す。単なる情報提供よりも、「知らないままでは失敗するので事情を分からせる」という含意を持つことがある。wise someone up が中心的な形で、put someone wise は別のくだけた定型表現である。",
+      "patterns": [
+        "wise + someone + up＝人に事情を教える",
+        "wise + someone + up to + 名詞＝人に～の存在・正体を教える",
+        "wise + someone + up about + 名詞＝人に～について事情を教える",
+        "wise + someone + up on + 名詞＝人に～の知識や要領を教える",
+        "put + someone + wise to + 名詞＝人に～の事情を教える",
+        "someone + be wised up to/about/on + 名詞＝人が事情を教えられる"
+      ],
+      "collocations": [
+        {
+          "pattern": "wise someone up",
+          "use": "知らないままの人に事情や現実を説明する",
+          "example": "Someone needs to wise him up before he signs the agreement.",
+          "translation": "彼が契約書に署名する前に、誰かが事情を教える必要がある。"
+        },
+        {
+          "pattern": "wise someone up to the risks",
+          "use": "人に隠れた危険や問題を認識させる",
+          "example": "Her lawyer wised her up to the risks of accepting the offer.",
+          "translation": "彼女の弁護士は、その提案を受け入れることの危険を彼女に教えた。"
+        },
+        {
+          "pattern": "wise someone up about the situation",
+          "use": "人に現在の状況や背景事情を説明する",
+          "example": "Let me wise you up about the situation before the meeting starts.",
+          "translation": "会議が始まる前に、その状況について事情を説明しておこう。"
+        },
+        {
+          "pattern": "wise someone up on the basics",
+          "use": "人に基本的な知識や要領をくだけた調子で教える",
+          "example": "A colleague wised me up on the basics of the approval process.",
+          "translation": "同僚が承認手続きの基本を私に教えてくれた。"
+        },
+        {
+          "pattern": "put someone wise to something",
+          "use": "人に隠れた事情や事実を教える。やや古風なくだけた表現",
+          "example": "A former employee put the investigators wise to the arrangement.",
+          "translation": "元従業員が調査官にその仕組みの実情を教えた。"
+        }
+      ],
+      "notes": [
+        "他動詞用法で学習上最も安全な語順は wise + someone + up である。特に代名詞は必ず wise him up、wise them up のように wise と up の間に置く。× wise up him、× wise up them は不可。",
+        "to、about、on は意味が重なる。to は危険・策略・事実への認識、about は状況についての説明、on は手順・知識・要領の伝達と結び付きやすい。ただし厳密な境界ではない。",
+        "wise someone up to は「人に～を気付かせる」、wise up to は「自分が～に気付く」である。目的語の有無と位置を混同しない。",
+        "put someone wise には up を加えない。put him wise to the danger が正しく、× put him wise up to the danger とはしない。",
+        "wise someone up は inform someone より口語的で、話し手が相手より事情をよく知っているという態度が現れやすい。",
+        "受動態は可能だが口語的である。正式な文書では The staff were informed about the procedure. のほうが適切である。"
+      ],
+      "synonyms": [
+        {
+          "word": "inform",
+          "definition": "人に事実や情報を正式または中立的に伝える",
+          "frequency": 8,
+          "difference": "wise someone up より中立かつフォーマルで、相手が無知だったという評価を含まない。",
+          "example": "Please inform all participants of the schedule change.",
+          "translation": "日程変更を全参加者に知らせてください。"
+        },
+        {
+          "word": "clue in",
+          "definition": "人に、それまで知らなかった事情や内部情報を教える",
+          "frequency": 5,
+          "difference": "wise someone up に非常に近い口語表現。通常 clue someone in on/about something の形を取る。",
+          "example": "Can you clue me in on what happened yesterday?",
+          "translation": "昨日何が起きたのか教えてくれますか。"
+        },
+        {
+          "word": "brief",
+          "definition": "必要な情報や指示を要点をまとめて伝える",
+          "frequency": 6,
+          "difference": "業務、軍事、会議などで用いる中立的・職業的な語で、情報伝達が計画的である。",
+          "example": "The adviser briefed the minister on the latest developments.",
+          "translation": "顧問は最新の動向について大臣に説明した。"
+        },
+        {
+          "word": "alert",
+          "definition": "危険や問題の存在を人に知らせて注意を促す",
+          "frequency": 6,
+          "difference": "wise someone up より危険への警告に特化し、alert someone to something の形を取る。",
+          "example": "The report alerted regulators to a serious safety issue.",
+          "translation": "その報告書は重大な安全上の問題を規制当局に知らせた。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "misinform",
+          "definition": "誤った情報を与える",
+          "frequency": 5,
+          "difference": "正しい事情を理解させる wise someone up と、情報の正確性の軸で対立する。",
+          "example": "Several customers were misinformed about the cancellation policy.",
+          "translation": "複数の顧客がキャンセル規定について誤った説明を受けた。"
+        },
+        {
+          "word": "mislead",
+          "definition": "誤った結論を抱くよう仕向ける",
+          "frequency": 7,
+          "difference": "wise someone up が真相を理解させるのに対し、mislead は真相から遠ざける。意図的とは限らない。",
+          "example": "The advertisement may mislead consumers about the product’s benefits.",
+          "translation": "その広告は製品の利点について消費者を誤解させるおそれがある。"
+        },
+        {
+          "word": "keep someone in the dark",
+          "definition": "人に重要な情報を知らせないでおく",
+          "frequency": 5,
+          "difference": "情報共有の有無の軸で wise someone up と対立する慣用表現。意図的な情報遮断を含意する。",
+          "example": "Employees were kept in the dark about the planned closure.",
+          "translation": "従業員には予定されていた閉鎖について何も知らされなかった。"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "【9 名詞・古風】方法、仕方、あり方",
+      "frequency": 2,
+      "register": [
+        "古風、文語、法律・宗教・歴史的文章。in no wise は意図的に荘重な文体で使われることがある。"
+      ],
+      "definition": "「方法、仕方、様式」を表す古い名詞。現代英語では独立した可算名詞として自由に使われず、in no wise、in any wise、in this wise、after this wise などの定型表現に残る。形容詞 wise「賢明な」とは歴史的に別の語として扱われる。",
+      "patterns": [
+        "in no wise＝いかなる点でも～ない、決して～ない",
+        "in any wise＝何らかの形で、いかなる点でも",
+        "in this wise＝このように、この方法で",
+        "after this wise＝このような仕方で"
+      ],
+      "collocations": [
+        {
+          "pattern": "in no wise",
+          "use": "「まったく～ない」を古風で強調的に表す",
+          "example": "The new evidence in no wise alters our conclusion.",
+          "translation": "その新しい証拠は、私たちの結論を少しも変えるものではない。"
+        },
+        {
+          "pattern": "in any wise",
+          "use": "「どのような形であれ」「いかなる点でも」を古風に表す",
+          "example": "The document must not be altered in any wise.",
+          "translation": "その文書はいかなる形でも変更してはならない。"
+        },
+        {
+          "pattern": "in this wise",
+          "use": "これから示す方法・言葉・順序で何かが行われたと古風に述べる",
+          "example": "The agreement was framed in this wise.",
+          "translation": "その合意は次のような形で作成された。"
+        },
+        {
+          "pattern": "after this wise",
+          "use": "聖書的・古風な文体で「このように」を表す",
+          "example": "The ceremony was conducted after this wise.",
+          "translation": "儀式はこのような方法で執り行われた。"
+        }
+      ],
+      "notes": [
+        "この名詞は現代の日常英語では生産的でない。通常の「方法」には way、manner、method を使う。",
+        "× a wise、× several wises のように普通の可算名詞として使わない。",
+        "in no wise は not at all、in no way に置き換えられる。現代英語で自然なのは The evidence in no way changes our conclusion. である。",
+        "in any wise は in any way、in any respect に置き換えられる。",
+        "otherwise、likewise、-wise の歴史的な形成を理解するうえでは重要だが、形容詞 wise の意味から「賢明な方法で」と誤解しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "way",
+          "definition": "行為の方法、物事のあり方",
+          "frequency": 10,
+          "difference": "現代英語で最も一般的な代替語。古風な wise と異なり、可算名詞として自由に使える。",
+          "example": "There are several ways to solve the problem.",
+          "translation": "その問題を解決する方法はいくつかある。"
+        },
+        {
+          "word": "manner",
+          "definition": "行為が行われる仕方や様式",
+          "frequency": 6,
+          "difference": "way よりややフォーマルで、in this manner の形が古い in this wise に近い。",
+          "example": "The data must be handled in a secure manner.",
+          "translation": "データは安全な方法で扱わなければならない。"
+        },
+        {
+          "word": "fashion",
+          "definition": "特定のやり方、様式",
+          "frequency": 6,
+          "difference": "in this fashion のように使うと「このような方法で」を表し、やや文語的だが in this wise ほど古風ではない。",
+          "example": "The pieces were arranged in a circular fashion.",
+          "translation": "部品は円形に配置されていた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 10,
+      "title": "【10 接尾辞】-wise＝～の向きに、～の方法で",
+      "frequency": 7,
+      "register": [
+        "中立。clockwise、counterclockwise、lengthwise、crosswise など、定着した語は会話、説明書、技術文書で一般的である。"
+      ],
+      "definition": "名詞や形容詞などに付いて、「指定された方向に」「指定された配置・方法で」という副詞を作る。clockwise「時計回りに」、lengthwise「縦方向に」のように、空間的な向きや物の置き方を具体的に示す。形容詞 wise「賢明な」の意味はない。",
+      "patterns": [
+        "方向・位置を表す要素 + -wise＝その方向・位置で",
+        "動詞 + clockwise/counterclockwise＝時計回り・反時計回りに動かす",
+        "動詞 + lengthwise/crosswise＝縦方向・横断方向に切る、折る、置く",
+        "定着した語は通常一語で綴るが、新しい形成ではハイフンが使われることがある"
+      ],
+      "collocations": [
+        {
+          "pattern": "turn clockwise",
+          "use": "時計の針が進む向きに回す",
+          "example": "Turn the dial clockwise to increase the temperature.",
+          "translation": "温度を上げるにはダイヤルを時計回りに回してください。"
+        },
+        {
+          "pattern": "rotate counterclockwise",
+          "use": "時計回りと反対の向きに回転させる。主に米語の形",
+          "example": "Rotate the image counterclockwise by ninety degrees.",
+          "translation": "画像を反時計回りに90度回転させてください。"
+        },
+        {
+          "pattern": "cut something lengthwise",
+          "use": "細長い物を長辺・縦の方向に沿って切る",
+          "example": "Cut the cucumber lengthwise and remove the seeds.",
+          "translation": "キュウリを縦に切り、種を取り除いてください。"
+        },
+        {
+          "pattern": "fold something lengthwise",
+          "use": "細長い形になるよう縦方向に折る",
+          "example": "Fold the sheet of paper lengthwise.",
+          "translation": "紙を縦方向に折ってください。"
+        },
+        {
+          "pattern": "cut something crosswise",
+          "use": "長さに対して直角となる横断方向に切る",
+          "example": "Cut the carrots crosswise into thin slices.",
+          "translation": "ニンジンを横向きに薄く輪切りにしてください。"
+        },
+        {
+          "pattern": "get a word in edgewise",
+          "use": "会話に割り込んで一言発する機会を得る。主に米語",
+          "example": "He talked continuously, so I couldn’t get a word in edgewise.",
+          "translation": "彼がずっと話し続けたので、私は一言も口を挟めなかった。"
+        }
+      ],
+      "notes": [
+        "イギリス英語では counterclockwise より anticlockwise が一般的である。",
+        "get a word in edgewise は主に米語。イギリス英語では get a word in edgeways が一般的である。",
+        "lengthwise は「長い辺に沿って」、crosswise は「横切る方向に」であり、物の向きによって具体的な日本語訳が変わる。",
+        "likewise「同様に」と otherwise「そうでなければ、別の点では」も歴史的に同じ要素を含むが、現代では独立した語として意味が定着しており、自由に分解して解釈しない。",
+        "すでに定着した clockwise、lengthwise などは原則一語で綴る。× clock-wise、× length-wise は通常用いない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 11,
+      "title": "【11 接尾辞・くだけた表現】-wise＝～に関して、～の面では",
+      "frequency": 6,
+      "register": [
+        "くだけた会話、インタビュー、社内会話、カジュアルな文章。1930年代以降広がった用法で、正式な文章では曖昧または不格好と評価される場合がある。"
+      ],
+      "definition": "名詞などに付いて、「～に関して言えば」「～という観点では」を表す副詞を作る。money-wise「金銭面では」、career-wise「仕事・キャリア面では」のように、話題の評価軸を限定する。特に会話やくだけたビジネス表現で生産的に使われる。",
+      "patterns": [
+        "名詞 + -wise＝～に関して、～の面では",
+        "[名詞]-wise, + 文＝～について言えば、…",
+        "文 + [名詞]-wise＝…である、～の面では",
+        "新しく作る複合語ではハイフンを使うことが多いが、綴りは媒体のスタイルによって揺れる",
+        "正式な文章では with regard to、in terms of、as far as ... is concerned などに言い換えられる"
+      ],
+      "collocations": [
+        {
+          "pattern": "money-wise",
+          "use": "金銭、費用、収入などの観点に話題を限定する",
+          "example": "Money-wise, taking the train would be the better option.",
+          "translation": "金銭面では、電車を利用するほうがよい選択だろう。"
+        },
+        {
+          "pattern": "career-wise",
+          "use": "仕事上の経歴、昇進、将来性という観点を示す",
+          "example": "Career-wise, moving abroad could open up new opportunities.",
+          "translation": "キャリア面では、海外へ移ることで新しい機会が開けるかもしれない。"
+        },
+        {
+          "pattern": "time-wise",
+          "use": "必要時間、日程、時間的余裕という観点を示す",
+          "example": "We’re doing well time-wise, but the budget is still a concern.",
+          "translation": "時間の面では順調だが、予算にはまだ懸念がある。"
+        },
+        {
+          "pattern": "health-wise",
+          "use": "健康状態や健康への影響という観点を示す",
+          "example": "Health-wise, she is doing much better than last year.",
+          "translation": "健康面では、彼女は昨年よりずっと良好だ。"
+        },
+        {
+          "pattern": "weather-wise",
+          "use": "天候という観点から状況を評価する",
+          "example": "We were lucky weather-wise throughout the trip.",
+          "translation": "旅行中は天候面で幸運だった。"
+        },
+        {
+          "pattern": "business-wise",
+          "use": "事業、収益、経営という観点を示す",
+          "example": "Business-wise, the first quarter was disappointing.",
+          "translation": "事業面では、第1四半期は期待外れだった。"
+        }
+      ],
+      "notes": [
+        "この -wise は形容詞 wise「賢明な」ではない。money-wise は「お金に関して賢明な」ではなく、「金銭面では」という文全体を修飾する副詞である。",
+        "特定の観点を短く提示できるため会話では便利だが、何と何を比較しているかが不明瞭になることがある。",
+        "正式な報告書では Money-wise, the plan is risky. より In financial terms, the plan is risky. または With regard to cost, the plan is risky. のほうが明確である。",
+        "新しく作られた形では career-wise、security-wise のようにハイフンを入れることが多いが、綴りには媒体差がある。clockwise のような定着語と同じ規則で機械的に一語にしない。",
+        "副詞として文頭に置く場合は Money-wise, ... のようにコンマで区切ることが多い。文末では Things look good financially but not security-wise. のように用いられる。",
+        "人を表す名詞にも付けられるが、friend-wise「友人関係では」のような即興的形成は非常にくだけており、文脈がなければ意味が曖昧になりやすい。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}
