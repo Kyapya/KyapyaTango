@@ -3,959 +3,796 @@
   "slug": "embrace",
   "ipa": "米・英: /ɪmˈbreɪs/",
   "lead": "単に仕方なく認めるのではなく、対象を価値あるものとして前向きに受け入れ、自分の考え方・行動・制度へ取り込むことを表す。目的語には change, technology, an idea, an opportunity, a challenge, diversity, a faith, a cause, an identity などが来る。対象自体が困難・不確",
-  "updated": "2026-08-07",
-  "notion_url": "https://app.notion.com/p/embrace-3b54faa9b77d819b9ff1da06040c94ae",
+  "updated": "2026-08-10",
+  "notion_url": "https://app.notion.com/p/embrace-3b84faa9b77d8147a280d5a278afcd67",
   "pronunciation": [
-    "第2音節に強勢。動詞・名詞で強勢位置は変わらず、品詞転換による強勢移動はない。",
-    "第1音節は弱い /ɪm/。実際の連続発話では母音がさらに中央化して [əm] に近づくことがあるが、学習上の基本形は /ɪmˈbreɪs/ と考えてよい。",
-    "/br/ は子音連結で、間に母音を入れない。日本語話者は「エンブレイス」のように /n/ を入れやすいが、後続が両唇音 /b/ なので鼻音は /m/。",
-    "語末の -ce は無声の /s/ で、/z/ にしない。名詞・動詞とも同じ。",
-    "活用形は embraces /ɪmˈbreɪsɪz/、embraced /ɪmˈbreɪst/（語尾は /t/）、embracing /ɪmˈbreɪsɪŋ/。embracing は綴り上、語末の e を落として -ing を付ける。"
+    "主強勢は第2音節 /breɪs/ にあり、語頭は通常 /ɪm/ と弱く発音する。綴りの em- を /em/ と強く読まない。",
+    "語末の -ce は /s/ で、名詞・動詞とも発音は同じである。",
+    "活用形は embraces /ɪmˈbreɪsɪz/、embraced /ɪmˈbreɪst/、embracing /ɪmˈbreɪsɪŋ/。embracing では語末の e を落として -ing を付ける。"
   ],
   "etymology": [
-    "古フランス語 embracier / embracer「両腕で抱く、囲む」に由来し、em-「中に」と brace「両腕、一対の腕」から形成された。brace はラテン語 bracchium「腕」（複数形 bracchia）にさかのぼる。語源上の意味核は「両腕の中に取り込む」。中英語期に「抱く」の意味で入り、そこから「考えなどを積極的に受け入れる」「広い範囲の中に含める」などの比喩義が発達した。",
-    "brace（名詞・動詞）— 支える、身構える／支柱、固定具、一対。現代の主要義は「腕」という語源的意味から大きく離れている。",
-    "bracelet（名詞）— 腕輪、ブレスレット。",
-    "brachial（形容詞）— 「腕の、上腕の」。医学・解剖学で用い、ラテン語 bracchium と同語源。"
+    "中英語を経て、アングロ・フランス語 embracer「腕の中に抱く、取り囲む」に由来する。これは em-/en-「中へ」と、古フランス語 brace「二本の腕」を組み合わせた語で、さらにラテン語 bracchium「腕」へさかのぼる。「腕の中へ取り込む」という物理的な意味から、「考えを受け入れる」「範囲の中に含む」「周囲から包む」という抽象的な意味が発達した。",
+    "brace（名詞・動詞）— 現代では「一対」「支え」「身構える」などの意味が中心だが、歴史的には「二本の腕」に関係する。",
+    "bracelet（名詞）— 「腕輪」。フランス語を介して、同じく「腕」を表す語根に関係する。",
+    "brachial（形容詞）— 解剖学で「上腕の、腕の」。ラテン語 bracchium に直接関係する専門語である。"
   ],
   "formation": [
     {
-      "term": "embrace（動詞）→",
-      "description": "embrace（名詞）: 接辞を伴わない品詞転換。名詞では「抱擁」「積極的な受容」などを表す。"
+      "term": "embraces",
+      "description": "/ embraced / embracing — 動詞の活用形。embraced は受動態や過去分詞修飾、embracing は進行形・分詞構文で広く使われる。"
     },
     {
-      "term": "embracing",
-      "description": "動詞の現在分詞・動名詞。進行形、分詞構文、動名詞として用いるほか、「包み込むような」「受容的な」という形容詞的用法も文脈によって見られる。"
+      "term": "embraceable（形容詞）—",
+      "description": "「抱きしめたくなる、受け入れられる」。実在するが低頻度で、通常は lovable、appealing、acceptable などの方が自然である。"
     },
     {
       "term": "all-embracing（形容詞）—",
-      "description": "「包括的な、あらゆるものを含む」。限定・叙述の両方で用いられるが、フォーマルな書き言葉。"
+      "description": "「あらゆるものを含む、包括的な」。限定・叙述の両方で使えるが、やや硬い。"
+    },
+    {
+      "term": "embracement（名詞）—",
+      "description": "「抱擁、受容」。現代ではまれで、通常は embrace または acceptance を使う。"
+    },
+    {
+      "term": "embracer（名詞）—",
+      "description": "「抱く人、受け入れる人」。文脈上作れるが一般的な職業名・人物分類ではなく、使用頻度は低い。"
     }
   ],
   "core": [
     {
-      "label": "「両腕で囲い込み、自分の側・内側へ取り込む」。物理的な抱擁から、思想や変化を自分のものとして受け入れる比喩、さらに複数のものを一つの範囲内に含める用法へ広がる。",
+      "label": "「対象を自分の腕・範囲・立場の内側へ取り込む」が中心にある。物理的に人を腕の中へ入れる用法と、考え・変化・要素を自分または体系の内側へ入れる用法が主要な枝になる。",
       "description": ""
     },
     {
-      "label": "核→語義1",
-      "description": "抽象物を自分の内側へ取り込む＝積極的に受け入れる、機会・課題を前向きに引き受ける。"
+      "label": "核",
+      "description": "→ 考え・変化・機会を積極的に自分のものとして受け入れる。"
     },
     {
-      "label": "核→語義2",
-      "description": "人を腕で囲う＝抱きしめる。"
+      "label": "核",
+      "description": "→ 人を腕の中に抱く、または二人が互いに抱き合う。"
     },
     {
-      "label": "核→語義3",
-      "description": "腕で囲った行為・状態＝抱擁。"
+      "label": "核",
+      "description": "→ 分野・計画・概念が複数の要素を範囲内に含む。"
     },
     {
-      "label": "核→語義4",
-      "description": "受け入れる行為・態度そのもの＝積極的な受容。"
+      "label": "核",
+      "description": "→ 地形・物体・雰囲気が対象を周囲から包む。"
     },
     {
-      "label": "核→語義5",
-      "description": "概念・制度などの範囲が複数の対象を内側に収める＝包含する。"
-    },
-    {
-      "label": "核→語義6",
-      "description": "自然物・環境・腕などが対象の周囲を包み込む＝囲む。"
-    },
-    {
-      "label": "核→語義7",
-      "description": "包み込む力・環境の内側に置かれた状態＝～に包まれた状態、支配下。"
+      "label": "核",
+      "description": "→ 名詞として、抱擁、積極的受容、包囲・影響下の状態を表す。"
     }
   ],
   "sources": [],
   "senses": [
     {
       "number": 1,
-      "title": "語義1：（考え・変化・機会などを）積極的に受け入れる、採用する；機会・課題などを前向きに引き受ける",
-      "frequency": 8,
+      "title": "【他動詞】（考え・変化・機会・価値観などを）進んで受け入れる、採用する、支持する",
+      "frequency": 9,
       "register": [
-        "中立～ややフォーマル。報道、ビジネス、政治、教育、社会評論、自己啓発などで広く用いられる。日常会話でも可能だが、文脈によっては accept より修辞的・積極的に響く。embrace the challenge、embrace uncertainty などは自己啓発・経営文脈で決まり文句的になることもある。"
+        "標準的だが、日常会話の単純な accept よりやや改まっている。報道、ビジネス、政治、教育、自己啓発、宗教・文化の説明で非常によく使う。"
       ],
-      "definition": "考え、変化、技術、価値観、生活様式などを、単に拒まず認めるのではなく、自分または自分の組織の考え方・行動へ積極的に取り入れること。opportunity、challenge、risk、uncertainty、failure などが目的語の場合は、それらを避けず、自分が向き合うべきものとして前向きに引き受ける意味になる。通常は主体側の積極性を伴うが、話し手自身がその対象を肯定的に評価しているとは限らない。",
+      "definition": "単に仕方なく認めるのではなく、対象を価値あるものとして前向きに受け入れ、自分の考え方・行動・制度へ取り込むことを表す。目的語には change, technology, an idea, an opportunity, a challenge, diversity, a faith, a cause, an identity などが来る。対象自体が困難・不確実でも、それに向き合う姿勢を積極的に選ぶという意味で使える。",
       "patterns": [
-        "A＝embrace + O「～を積極的に受け入れる」",
-        "B＝be embraced (by [人・集団])「～に受け入れられる」",
-        "C＝embrace O as C「OをCとして受け入れる・位置付ける」",
-        "D＝embrace the opportunity / chance to do「～する機会を積極的に活用する」",
-        "E＝embrace the challenge of doing「～するという課題に前向きに取り組む」",
-        "F＝embrace doing「～するという実践・行動様式を受け入れる」。to不定詞を直接目的語には取らない。"
+        "embrace 〈idea/change/technology/value〉＝考え・変化などを積極的に採用する",
+        "embrace 〈opportunity/challenge/uncertainty〉＝機会・課題などを前向きに引き受ける",
+        "embrace the opportunity/chance to do＝～する機会を喜んで生かす",
+        "〈fully/readily/wholeheartedly〉 embrace 〈O〉＝受容の強さを示す",
+        "embrace 〈O〉 as 〈C〉＝OをCとして受け入れる",
+        "be embraced by 〈人・組織〉＝人・組織に広く受け入れられる"
       ],
       "collocations": [
         {
-          "pattern": "embrace change",
-          "use": "個人・組織が変化に抵抗せず、積極的に取り入れる。ビジネスで特に定型的",
-          "example": "Companies that embrace change tend to adapt more quickly.",
-          "translation": "変化を積極的に受け入れる企業は、より速く適応する傾向がある。"
+          "pattern": "embrace change/new technology",
+          "use": "新しい状況・技術を避けず、積極的に導入する。",
+          "example": "Successful teams learn to embrace change instead of fearing it.",
+          "translation": "成功するチームは、変化を恐れるのではなく受け入れることを学ぶ。"
         },
         {
-          "pattern": "embrace new technology",
-          "use": "新技術を積極的に導入・活用する",
-          "example": "Small farms have been slow to embrace new technology.",
-          "translation": "小規模農家は新技術の導入が遅れている。"
+          "pattern": "embrace an opportunity/challenge",
+          "use": "機会を生かす、または課題に前向きに取り組む姿勢を示す。",
+          "example": "She embraced the challenge of leading the project overseas.",
+          "translation": "彼女は海外プロジェクトを率いるという課題を前向きに引き受けた。"
         },
         {
-          "pattern": "embrace the idea of [doing]",
-          "use": "「～する」という考え・方針自体を受け入れる",
-          "example": "He has finally embraced the idea of working from home.",
-          "translation": "彼はようやく在宅勤務という考えを受け入れた。"
+          "pattern": "embrace the opportunity to do",
+          "use": "embrace の直後に不定詞を置かず、opportunity を目的語にして行為を続ける。",
+          "example": "He embraced the opportunity to study with an experienced architect.",
+          "translation": "彼は経験豊かな建築家のもとで学ぶ機会を喜んで生かした。"
         },
         {
-          "pattern": "embrace the idea / belief that [節]",
-          "use": "「～である」という考え・信念を自分のものとして受け入れる",
-          "example": "We need to embrace the idea that mistakes are part of learning.",
-          "translation": "間違いは学習の一部であるという考えを受け入れる必要がある。"
+          "pattern": "fully/wholeheartedly embrace 〈O〉",
+          "use": "考え・制度・生き方などを部分的でなく強く支持・採用する。",
+          "example": "The organization has fully embraced remote work.",
+          "translation": "その組織はリモートワークを全面的に採用している。"
         },
         {
-          "pattern": "embrace an opportunity / the chance to do",
-          "use": "機会を好意的に受け止め、実際に活用する",
-          "example": "She embraced the opportunity to study abroad.",
-          "translation": "彼女は留学の機会を積極的に活用した。"
+          "pattern": "embrace diversity/difference",
+          "use": "人々や価値観の違いを肯定的に認め、組織や社会へ取り込む。",
+          "example": "The program encourages students to embrace cultural diversity.",
+          "translation": "そのプログラムは、学生に文化的多様性を受け入れるよう促している。"
         },
         {
-          "pattern": "embrace a challenge / the challenge of doing",
-          "use": "困難な課題を避けず、前向きに引き受ける",
-          "example": "The team embraced the challenge of rebuilding the system.",
-          "translation": "チームはシステムを再構築するという課題に前向きに取り組んだ。"
+          "pattern": "embrace a faith/cause/identity",
+          "use": "宗教、主義、社会運動、自己認識などを自分の立場として採用する。",
+          "example": "After years of uncertainty, he embraced the faith of his family.",
+          "translation": "何年もの迷いの末、彼は家族の信仰を受け入れた。"
         },
         {
-          "pattern": "embrace failure / uncertainty / risk",
-          "use": "失敗・不確実性・危険を避けるべきものとしてだけでなく、必要な過程として受け入れる",
-          "example": "Designers are encouraged to embrace failure as part of the process.",
-          "translation": "デザイナーは失敗を過程の一部として受け入れるよう促されている。"
+          "pattern": "embrace 〈O〉 as 〈C〉",
+          "use": "対象を新しい役割・価値・解釈として肯定的に位置づける。",
+          "example": "The team embraced the setback as a chance to improve.",
+          "translation": "チームはその挫折を改善の機会として受け止めた。"
         },
         {
-          "pattern": "wholeheartedly / fully / enthusiastically embrace [O]",
-          "use": "対象を受け入れる積極性・全面性を副詞で強調する",
-          "example": "The team wholeheartedly embraced the new approach.",
-          "translation": "チームはその新しい手法を全面的に受け入れた。"
-        },
-        {
-          "pattern": "be widely embraced by [集団]",
-          "use": "考え・制度・技術などが多くの人々に広く受け入れられていることを表す",
-          "example": "The method has been widely embraced by teachers.",
-          "translation": "その手法は教師の間で広く受け入れられている。"
-        },
-        {
-          "pattern": "embrace [O] as [C]",
-          "use": "対象を特定の資格・役割・位置付けで受け入れる",
-          "example": "The community embraced her as one of its own.",
-          "translation": "地域社会は彼女を自分たちの仲間として受け入れた。"
-        },
-        {
-          "pattern": "embrace diversity",
-          "use": "多様な背景・文化・価値観などを積極的に認め、組織や社会へ取り入れる",
-          "example": "The company says it embraces diversity in hiring.",
-          "translation": "同社は採用における多様性を積極的に受け入れていると述べている。"
-        },
-        {
-          "pattern": "embrace [a faith / a doctrine]",
-          "use": "宗教・信条・主義を自分の信念として受け入れる。やや文語的",
-          "example": "He embraced Buddhism in his early thirties.",
-          "translation": "彼は30代前半で仏教を信仰するようになった。"
-        },
-        {
-          "pattern": "embrace who you are",
-          "use": "自分の性格・背景・アイデンティティーを否定せず受け入れる",
-          "example": "It took her years to embrace who she was.",
-          "translation": "ありのままの自分を受け入れるまでに彼女は何年もかかった。"
+          "pattern": "be widely/readily embraced by 〈人・組織〉",
+          "use": "提案・技術・考えなどが、多くの人や組織に積極的に受容される。",
+          "example": "The new payment system was quickly embraced by small retailers.",
+          "translation": "その新しい決済システムは小規模小売業者にすぐ受け入れられた。"
         }
       ],
       "notes": [
-        "to不定詞を直接目的語に取らない。誤: We embraced to work remotely.／正: We embraced working remotely.／正: We embraced the idea of working remotely.",
-        "embrace doing は可能だが、どの動詞にも自由に付く補文構文ではない。working remotely、using new tools のように、行為・習慣・実践を一つの対象として捉えられる場合に自然。迷う場合は embrace the idea of doing が安全。",
-        "accept は「拒まず受け入れる」という中立的な語で、しぶしぶの受諾にも使える。embrace は通常、より積極的に対象へ関与する含意がある。She accepted the change. は「変更を受け入れた」、She embraced the change. は「変更を前向きに取り入れた」という差になりやすい。",
-        "failure、risk、uncertainty など否定的な対象でも使える。この場合、対象が望ましいという意味ではなく、それを避けずに向き合う主体の姿勢を示す。",
-        "reluctantly embrace のような組み合わせも、態度の変化、皮肉、外圧との葛藤などを表す文脈では成立する。ただし単純な「しぶしぶ受諾した」なら reluctantly accept のほうが中立的。",
-        "進行形は可能。Companies are embracing AI. のように、受容・導入が現在進行中であることを表す場合に自然である。一方、単なる静的な信念・支持を述べるなら単純形または完了形が普通。",
-        "人を目的語にした場合でも、必ず「抱きしめる」になるわけではない。The community embraced her as one of its own. のように、集団が人を「仲間として受け入れる」意味でも使える。ただし文脈なしの She embraced him. なら通常は物理的な「彼を抱きしめた」と解釈される。",
-        "受動 be embraced by の by は受け入れる側を示す。抽象物が主語なら「～に受け入れられる」が普通だが、人が主語の場合は物理的な「抱きしめられる」とも解釈できるため文脈が必要。",
-        "「事実が正しいと認める」だけなら accept / acknowledge / admit が普通。embrace the fact that ... は、その事実を単に認めるだけでなく、それを自分の現実として積極的に受け止める文脈に向く。",
-        "embrace yourself は字義どおり「自分の体に腕を回す」と解釈されることがある。「自分らしさを受け入れる」なら embrace who you are / embrace your identity / accept yourself が明確。",
-        "embrace the suck は主に米口語で、「つらい・不快な状況を受け入れてやり抜く」という俗語的表現。軍事・スポーツ・自己啓発的な文脈で見られるが、フォーマルな文章には不向き。"
+        "基本的に他動詞であり、embrace to do とはしない。行為を続ける場合は embrace the opportunity to do、または embrace doing something のように動名詞を目的語とする実例もあるが、後者は「その活動・実践を受け入れる」という意味が明確な場合に限られ、一般的な意志表現として機械的に使わない。accept は中立的で、しぶしぶ受け入れる場合も含むが、embrace は通常、積極性・熱意・自発性を含む。adopt は方法・制度・方針を実際に取り入れる結果に焦点を置き、熱意は必須ではない。welcome は提案や出来事を好意的に迎えることに焦点を置き、自分の信念や行動へ深く取り込むとは限らない。The company embraces diversity. は通常「多様性を重視・支持する」だが、The report embraces several topics. では語義4の「含む」になる。目的語の種類と主語の意味役割で判断する。"
       ],
       "synonyms": [
         {
           "word": "accept",
-          "definition": "提案・状況・事実などを拒まず受け入れる。",
+          "definition": "提案、事実、状況、責任などを受け入れる。",
           "frequency": 10,
-          "difference": "最も一般的で中立的。しぶしぶ受け入れる場合も含み、embrace のような熱意・積極的関与は必須ではない。",
-          "example": "She accepted the decision without complaint.",
-          "translation": "彼女は文句を言わずその決定を受け入れた。"
+          "difference": "embrace より中立的で、熱意がなくても成立する。事実を認める、招待を受諾するなど対象範囲も広い。",
+          "example": "She accepted the decision even though she disagreed with it.",
+          "translation": "彼女はその決定に反対だったが受け入れた。"
         },
         {
           "word": "adopt",
-          "definition": "方針・方法・考え方などを選び、実際に使い始める。",
-          "frequency": 8,
-          "difference": "採用・導入という行動や決定に焦点がある。embrace は対象への積極的な態度も含みやすい。",
-          "example": "The board adopted the new policy last month.",
-          "translation": "理事会は先月その新方針を採択した。"
+          "definition": "方法、方針、考え方、制度などを選んで使い始める。",
+          "frequency": 9,
+          "difference": "採用後の実行・制度化に焦点があり、embrace のような感情的・価値的な積極性は必須ではない。",
+          "example": "The hospital adopted a new scheduling system.",
+          "translation": "その病院は新しい勤務表システムを採用した。"
         },
         {
           "word": "welcome",
-          "definition": "変化・提案・知らせ・機会などを好意的に受け止める。",
+          "definition": "出来事、提案、人などを好意的に迎える。",
           "frequency": 9,
-          "difference": "喜び・好意を示すことが中心で、実際に対象を自分の実践へ取り入れることまでは必ずしも意味しない。",
-          "example": "We welcome your feedback.",
-          "translation": "ご意見を歓迎します。"
-        },
-        {
-          "word": "seize",
-          "definition": "機会などを逃さず、素早くつかんで利用する。",
-          "frequency": 7,
-          "difference": "決断と行動の速さに焦点がある。embrace an opportunity は機会を前向きに受け止める態度も強調する。",
-          "example": "He seized the opportunity to expand the business.",
-          "translation": "彼は事業拡大の機会を逃さず利用した。"
-        },
-        {
-          "word": "take on",
-          "definition": "仕事・責任・難題などを引き受ける。",
-          "frequency": 8,
-          "difference": "引き受けるという事実が中心で、喜んでいるか、前向きに評価しているかは示さない。",
-          "example": "She took on the difficult assignment.",
-          "translation": "彼女はその難しい任務を引き受けた。"
+          "difference": "embrace より「到来や提示に対する好意的反応」が中心で、長期的に信奉・実践する含みは弱い。",
+          "example": "Local businesses welcomed the tax reduction.",
+          "translation": "地元企業はその減税を歓迎した。"
         },
         {
           "word": "espouse",
-          "definition": "主義・信念・政策などを支持し、自分の立場として掲げる。",
-          "frequency": 4,
-          "difference": "フォーマルで、思想・理念への公的な支持に使われやすい。embrace より対象範囲が狭く、立場の表明に焦点がある。",
-          "example": "He espoused free-market principles throughout his career.",
-          "translation": "彼は生涯を通じて自由市場の原則を支持した。"
+          "definition": "信念、主義、政策などを公に支持する。",
+          "frequency": 5,
+          "difference": "非常に硬く、主に思想・政策を言葉で支持することを表す。embrace は生き方や技術などを実際に取り入れる場合にも使える。",
+          "example": "The candidate espoused a policy of fiscal restraint.",
+          "translation": "その候補者は財政抑制政策を支持した。"
         },
         {
-          "word": "endorse",
-          "definition": "人・政策・考えなどへの支持を公に表明する。",
-          "frequency": 7,
-          "difference": "第三者に向けた支持表明に重点があり、自分自身が対象を採用・実践するとは限らない。",
-          "example": "Several unions endorsed the candidate.",
-          "translation": "いくつかの労働組合がその候補を支持した。"
-        },
-        {
-          "word": "take up",
-          "definition": "活動・習慣・考え・課題などを始めたり取り入れたりする。",
-          "frequency": 8,
-          "difference": "行動の開始に焦点があり、embrace のような積極的評価や歓迎は必須ではない。",
-          "example": "He took up running after his fortieth birthday.",
-          "translation": "彼は40歳を機にランニングを始めた。"
+          "word": "support",
+          "definition": "人、計画、考え、運動などに賛成し、助力する。",
+          "frequency": 10,
+          "difference": "embrace より広く、必ずしも自分の信念・生活へ取り込むことを意味しない。",
+          "example": "Most employees support the revised proposal.",
+          "translation": "従業員の大半は修正案を支持している。"
         }
       ],
       "antonyms": [
         {
           "word": "reject",
-          "definition": "提案・考え・制度などを受け入れず退ける。",
+          "definition": "提案、考え、要求などを受け入れないと決める。",
           "frequency": 9,
-          "difference": "受容⇔拒絶の補完的な対立。embrace が積極的に取り込むのに対し、reject は対象を明確に退ける。",
-          "example": "The union rejected the proposal outright.",
-          "translation": "組合はその提案をきっぱり拒否した。"
+          "difference": "embrace の積極的受容に対する直接的な拒否を表す。",
+          "example": "The committee rejected the recommendation.",
+          "translation": "委員会はその勧告を退けた。"
         },
         {
           "word": "resist",
-          "definition": "変化・圧力・考えなどを受け入れまいとして抵抗する。",
+          "definition": "変化、圧力、考えなどに逆らい、受け入れまいとする。",
           "frequency": 8,
-          "difference": "受容⇔抵抗の方向的対立。embrace change と resist change が直接対比されやすい。",
-          "example": "Many staff resisted the change at first.",
-          "translation": "多くの職員が当初その変化に抵抗した。"
+          "difference": "最終的な拒否よりも、受容に対抗する過程・態度に焦点がある。",
+          "example": "Some managers resisted the move to flexible hours.",
+          "translation": "一部の管理職は柔軟な勤務時間への移行に抵抗した。"
+        },
+        {
+          "word": "oppose",
+          "definition": "計画、政策、考えなどに反対する。",
+          "frequency": 9,
+          "difference": "自分が採用しないだけでなく、実現・普及を阻止しようとする立場を表し得る。",
+          "example": "Several groups opposed the proposed law.",
+          "translation": "複数の団体がその法案に反対した。"
         },
         {
           "word": "shun",
-          "definition": "人・考え・慣習などを意図的に避け、関わらないようにする。",
-          "frequency": 5,
-          "difference": "接近・受容⇔回避の対立。reject のような明示的な拒否より、距離を置く行動に焦点がある。",
-          "example": "He shunned publicity for years.",
-          "translation": "彼は何年も人目を避けていた。"
-        },
-        {
-          "word": "shy away from",
-          "definition": "不安・自信のなさなどから、困難・責任・機会を避ける。",
-          "frequency": 7,
-          "difference": "前向きに取り組むこと⇔ためらって身を引くことの対立。challenge や difficult situations との対比に向く。",
-          "example": "She never shies away from difficult conversations.",
-          "translation": "彼女は難しい話し合いから決して逃げない。"
-        },
-        {
-          "word": "renounce",
-          "definition": "それまで持っていた信仰・権利・立場などを正式または明確に捨てる。",
-          "frequency": 5,
-          "difference": "取り込む⇔手放すという方向上の対立。未採用のものを拒否する reject と異なり、すでに持っていたものを放棄する。",
-          "example": "He publicly renounced his former beliefs.",
-          "translation": "彼は以前の信念を公に放棄した。"
+          "definition": "人・物・考えなどを意図的に避ける。",
+          "frequency": 6,
+          "difference": "公的な反対より、接触・関与そのものを避けることに焦点がある。",
+          "example": "He shunned publicity throughout his career.",
+          "translation": "彼は職業人生を通じて世間の注目を避けた。"
         }
       ]
     },
     {
       "number": 2,
-      "title": "語義2：（人を）抱きしめる、抱き合う",
-      "frequency": 6,
+      "title": "【他動詞・自動詞】（人を）抱きしめる；（二人が）抱き合う",
+      "frequency": 7,
       "register": [
-        "中立～ややフォーマル・文学的。小説、報道、伝記、人物描写などで用いられる。日常会話では hug のほうが一般的。顕著な米英差はない。"
+        "標準的だが、日常会話の hug より文学的・改まった響きがある。小説、報道写真の描写、式典、感情的な再会・別れの場面でよく使う。恋愛的とは限らない。"
       ],
-      "definition": "愛情、親愛、歓迎、慰め、和解、別れなどの気持ちを表して、両腕を人の体に回し、包むように抱きしめること。日常語の hug よりやや改まった、文学的・報道的な響きを持つ。通常、性的含意はなく、公的な場での抱擁にも使える。",
+      "definition": "愛情、喜び、慰め、あいさつ、別れなどを示すため、腕を相手の体に回してしっかり抱くことを表す。他動詞では相手を直接目的語に取り、自動詞では二人以上が互いに抱き合う相互的な動作を表す。",
       "patterns": [
-        "A＝embrace + someone「人を抱きしめる」",
-        "B＝[複数の参加者] + embrace「互いに抱き合う」",
-        "C＝embrace each other / one another「互いに抱き合う」",
-        "D＝be embraced by + someone「人に抱きしめられる」",
-        "E＝embrace someone warmly / tightly / gently「副詞で抱擁の仕方を示す」。"
+        "embrace someone＝人を抱きしめる",
+        "embrace each other＝互いに抱き合う",
+        "people embrace＝複数の人が抱き合う",
+        "embrace someone 〈warmly/tightly/tenderly〉＝抱き方を示す",
+        "be embraced by someone＝人に抱きしめられる"
       ],
       "collocations": [
         {
-          "pattern": "embrace [someone] warmly",
-          "use": "親愛・歓迎の気持ちを込めて温かく抱きしめる",
-          "example": "She embraced her old friend warmly.",
-          "translation": "彼女は旧友を温かく抱きしめた。"
-        },
-        {
-          "pattern": "embrace [someone] tightly",
-          "use": "強い感情を込めて、しっかり抱きしめる",
-          "example": "He embraced his daughter tightly at the airport.",
-          "translation": "彼は空港で娘を強く抱きしめた。"
-        },
-        {
-          "pattern": "gently embrace [someone]",
-          "use": "慰め・優しさを込めて穏やかに抱きしめる",
-          "example": "She gently embraced the crying child.",
-          "translation": "彼女は泣いている子供を優しく抱きしめた。"
+          "pattern": "embrace someone warmly/tightly",
+          "use": "再会、別れ、慰めなどで、相手を温かく・強く抱く。",
+          "example": "She embraced her brother tightly at the airport.",
+          "translation": "彼女は空港で弟を強く抱きしめた。"
         },
         {
           "pattern": "embrace each other",
-          "use": "複数の人物が互いに抱き合うことを明示する",
-          "example": "The two leaders embraced each other before the cameras.",
-          "translation": "両首脳はカメラの前で抱き合った。"
+          "use": "二人以上が互いを目的語として明示的に抱き合う。",
+          "example": "The players embraced each other after the final whistle.",
+          "translation": "試合終了の笛の後、選手たちは互いに抱き合った。"
         },
         {
-          "pattern": "[two people / the couple] embrace",
-          "use": "自動詞として相互的な抱擁を表す",
+          "pattern": "〈two people〉 embrace",
+          "use": "自動詞として、主語となる人々が互いに抱き合う。",
           "example": "The old friends laughed and embraced.",
           "translation": "旧友たちは笑い、抱き合った。"
         },
         {
-          "pattern": "rush / step forward to embrace [someone]",
-          "use": "人に近づいて抱きしめる一連の動作を描写する",
-          "example": "The mother rushed forward to embrace her son.",
-          "translation": "母親は駆け寄って息子を抱きしめた。"
+          "pattern": "step forward/rush to embrace someone",
+          "use": "相手に近づき、感情を示して抱きしめる。",
+          "example": "Her mother rushed to embrace her as she came through the gate.",
+          "translation": "彼女がゲートを出ると、母親は駆け寄って抱きしめた。"
         },
         {
-          "pattern": "be embraced by [someone]",
-          "use": "抱擁される側を主語にする",
-          "example": "He was embraced by his teammates after the final whistle.",
-          "translation": "試合終了の笛の後、彼はチームメイトに抱きしめられた。"
+          "pattern": "embrace someone in greeting/farewell",
+          "use": "あいさつまたは別れのしぐさとして抱きしめる。",
+          "example": "He embraced his host in farewell before boarding the train.",
+          "translation": "彼は列車に乗る前、別れのあいさつとして主人を抱きしめた。"
         },
         {
-          "pattern": "embrace and kiss",
-          "use": "抱擁と接吻を続けて行う場面を描写する。報道・文学でも見られる",
-          "example": "They embraced and kissed on the platform.",
-          "translation": "二人はホームで抱き合ってキスをした。"
+          "pattern": "be embraced by someone",
+          "use": "抱擁を受ける人を主語にした受動態。",
+          "example": "The child was embraced by both grandparents.",
+          "translation": "その子は祖父母の二人に抱きしめられた。"
         }
       ],
       "notes": [
-        "日常会話の「ハグする」は hug が最も普通。embrace を会話で使うと、文脈によってはやや改まった、文学的、芝居がかった響きになる。",
-        "他動詞では前置詞を入れない。誤: She embraced to her mother.／正: She embraced her mother.",
-        "相互的な自動詞用法では、「文法上の主語が複数形でなければならない」のではなく、抱擁に参加する複数の人物が意味上存在することが重要。They embraced. だけでなく The couple embraced. も自然。",
-        "単数の個人主語 He embraced. のように相手がまったく示されない形は通常文脈依存で不自然になりやすい。一方、She watched him and his brother embrace. のように参加者が文脈から明確なら自動詞 embrace は自然。",
-        "相互を表すために with each other は通常使わない。誤: They embraced with each other.／正: They embraced.／正: They embraced each other.",
-        "物理的な抱擁の典型的目的語は人。物を普通に「抱える」なら hold / clutch / cradle が自然。ただし、腕で対象を囲み込むことを文学的・描写的に表す場合には、物や身体部位を目的語に取ることもある。embrace one’s knees はその例。",
-        "an embraced child のように embraced を単純な限定形容詞として使うのは一般的ではない。必要なら a child embraced by her mother のように受動構文で表す。",
-        "embrace oneself は「自分の体に腕を回す」意味なら可能だが、一般的な定着表現ではない。",
-        "古い文学や婉曲表現では性的接触を暗示する場合があるが、現代英語でその意味を意図して単独使用することはまれ。"
+        "embrace は人を直接目的語に取るため、相互動作を embrace with someone とは通常言わない。They embraced. または They embraced each other. とする。他動詞 They embraced. ではなく、自動詞用法として主語が複数であることが重要である。日常の自然な会話では hug が最も普通で、embrace は文章的・感情的・儀礼的に響きやすい。embrace oneself は文字どおり「自分の体に腕を回す」なら可能だが一般的な定着表現ではなく、寒さや自己満足を表すなら hug oneself の方が普通である。受動態 be embraced は、主語が人なら物理的抱擁、考え・制度なら語義1の受容になり得る。"
       ],
       "synonyms": [
         {
           "word": "hug",
-          "definition": "愛情・挨拶・慰めなどのために人を腕で抱く。",
-          "frequency": 9,
-          "difference": "日常会話で最も一般的。embrace よりくだけており、短い挨拶としての抱擁にも自然。",
-          "example": "Give me a hug before you go.",
-          "translation": "行く前にハグして。"
+          "definition": "腕を回して人を抱きしめる。",
+          "frequency": 10,
+          "difference": "最も一般的で口語的。家族・友人・子どもとの日常的な抱擁に自然で、embrace より改まりがない。",
+          "example": "She hugged her daughter before school.",
+          "translation": "彼女は学校へ行く前に娘を抱きしめた。"
         },
         {
           "word": "hold",
-          "definition": "人や物を腕・手などで支え、離さないようにする。",
+          "definition": "人や物を腕・手で支えたり、近くに保ったりする。",
           "frequency": 10,
-          "difference": "抱擁そのものより、保持している状態に焦点がある。hold someone close なら愛情的な抱擁に近づく。",
-          "example": "He held her close for a long moment.",
-          "translation": "彼はしばらく彼女を抱き寄せたままにしていた。"
+          "difference": "抱擁に限らず範囲が広い。hold someone close は親密だが、embrace ほど両腕を回す動作を明示しないことがある。",
+          "example": "He held the baby close to his chest.",
+          "translation": "彼は赤ん坊を胸元に抱き寄せた。"
         },
         {
           "word": "clasp",
-          "definition": "人や物を手・腕でしっかり握る、抱き寄せる。",
-          "frequency": 5,
-          "difference": "手や腕を閉じて固定する力強い動作を強調し、embrace より文語的・切迫的になりやすい。",
+          "definition": "腕や手でしっかりつかむ、抱く。",
+          "frequency": 6,
+          "difference": "embrace より動作の締め付け・しっかり保持する感じが強く、文章的である。",
           "example": "She clasped the child to her chest.",
           "translation": "彼女はその子を胸にしっかり抱き寄せた。"
         },
         {
           "word": "cuddle",
-          "definition": "愛情や温かさを求め、長めに寄り添って抱く。",
-          "frequency": 6,
-          "difference": "親密さと持続する身体接触が中心。embrace は一回の短い抱擁にも使え、公的・儀礼的場面にも使える。",
-          "example": "They cuddled on the sofa while watching a film.",
-          "translation": "二人は映画を見ながらソファで寄り添っていた。"
-        },
-        {
-          "word": "enfold",
-          "definition": "腕などで対象を包み込むように抱く。",
-          "frequency": 3,
-          "difference": "非常に文学的で、「周囲から包む」という視覚的な描写に重点がある。",
-          "example": "He enfolded her in his arms.",
-          "translation": "彼は彼女を両腕の中に包み込んだ。"
+          "definition": "愛情を込めて長めに寄り添い、抱きしめる。",
+          "frequency": 7,
+          "difference": "embrace の一回の抱擁より、柔らかく継続的な身体接触を表しやすい。",
+          "example": "They cuddled together on the sofa.",
+          "translation": "二人はソファで寄り添って抱き合った。"
         }
       ],
-      "antonyms": []
+      "antonyms": [
+        {
+          "word": "release",
+          "definition": "抱いている人・物を離す。",
+          "frequency": 8,
+          "difference": "抱擁を終えて腕の拘束を解くという、動作の終点で反対になる。",
+          "example": "She released him and stepped back.",
+          "translation": "彼女は彼を離し、一歩下がった。"
+        },
+        {
+          "word": "push away",
+          "definition": "人や物を押して自分から遠ざける。",
+          "frequency": 8,
+          "difference": "親密に引き寄せる embrace と反対方向の身体動作で、拒絶の含みを伴いやすい。",
+          "example": "He tried to comfort her, but she pushed him away.",
+          "translation": "彼は彼女を慰めようとしたが、彼女は彼を押しのけた。"
+        }
+      ]
     },
     {
       "number": 3,
-      "title": "語義3：抱擁、ハグ",
-      "frequency": 6,
+      "title": "【可算名詞】抱擁、抱きしめること；抱き合っている状態",
+      "frequency": 7,
       "register": [
-        "中立～ややフォーマル・文学的。小説、報道、回想録、人物描写など。日常会話では hug のほうが一般的。"
+        "標準的だが、名詞 hug よりやや文章的・改まった響きがある。物語、報道、式典、感情的場面の描写でよく使う。"
       ],
-      "definition": "両腕を回して人を抱きしめる行為、または二人が抱き合っている状態。愛情、歓迎、慰め、再会、別れ、和解などを表す。hug よりややフォーマル・文学的で、報道や人物描写にもよく用いられる。",
+      "definition": "人が腕を相手に回して抱く一回の動作、または二人がその姿勢にある状態を表す。愛情、再会、慰め、祝福、別れ、恋愛感情などを示し得るが、語自体は性的関係を必ず意味しない。",
       "patterns": [
-        "A＝a / an + 形容詞 + embrace「～な抱擁」",
-        "B＝hold someone in an embrace「人を抱きしめた状態にする」",
-        "C＝share / exchange an embrace「互いに抱擁を交わす」",
-        "D＝return someone’s embrace「相手の抱擁に応じる」",
-        "E＝be locked in an embrace「抱き合った状態でいる」",
-        "F＝pull away / break free from someone’s embrace「抱擁から離れる」。"
+        "a 〈warm/tender/brief/tight〉 embrace＝抱擁の性質を示す",
+        "greet/welcome someone with an embrace＝抱擁で迎える",
+        "share an embrace＝互いに抱き合う",
+        "hold someone in an embrace＝抱いた状態を保つ",
+        "be locked in an embrace＝しっかり抱き合っている",
+        "break/pull away from an embrace＝抱擁を解く"
       ],
       "collocations": [
         {
-          "pattern": "a warm / tender / brief embrace",
-          "use": "抱擁の感情・強さ・長さなどを形容する",
-          "example": "She greeted him with a warm embrace.",
-          "translation": "彼女は温かい抱擁で彼を迎えた。"
+          "pattern": "a warm/tender/brief embrace",
+          "use": "温かさ、優しさ、時間の短さなど、抱擁の性質を形容する。",
+          "example": "They exchanged a brief embrace before the meeting began.",
+          "translation": "会議が始まる前、二人は短く抱き合った。"
         },
         {
-          "pattern": "hold [someone] in a tight embrace",
-          "use": "人を強く抱きしめた状態にしていることを描写する",
-          "example": "He held her in a tight embrace for several seconds.",
-          "translation": "彼は数秒間彼女を強く抱きしめていた。"
+          "pattern": "greet/welcome someone with an embrace",
+          "use": "言葉だけでなく抱擁を伴って相手を迎える。",
+          "example": "She welcomed her son home with a long embrace.",
+          "translation": "彼女は長い抱擁で帰宅した息子を迎えた。"
         },
         {
-          "pattern": "share / exchange an embrace",
-          "use": "二人が互いに一度抱き合う出来事を表す",
+          "pattern": "share an embrace",
+          "use": "二人が互いに抱き合う一回の出来事を表す。",
           "example": "The coach and captain shared an emotional embrace.",
           "translation": "監督と主将は感極まって抱き合った。"
         },
         {
-          "pattern": "return [someone’s] embrace",
-          "use": "相手からの抱擁に自分も抱き返すことで応じる",
-          "example": "She hesitated, then returned his embrace.",
-          "translation": "彼女はためらってから、彼の抱擁に応えた。"
+          "pattern": "hold someone in an embrace",
+          "use": "相手を腕の中に抱いた状態で保つ。",
+          "example": "He held the frightened child in a gentle embrace.",
+          "translation": "彼はおびえた子どもを優しく抱きしめていた。"
         },
         {
           "pattern": "be locked in an embrace",
-          "use": "二人が密着して抱き合った状態にある",
+          "use": "二人が強く密着して抱き合っている状態を表す。",
           "example": "The photograph showed the couple locked in an embrace.",
-          "translation": "その写真には抱き合っている二人が写っていた。"
+          "translation": "その写真には抱き合う二人が写っていた。"
         },
         {
-          "pattern": "break free from / pull away from [someone’s] embrace",
-          "use": "抱擁されている状態から体を離す",
-          "example": "The child broke free from his mother’s embrace.",
-          "translation": "その子は母親の腕から抜け出した。"
-        },
-        {
-          "pattern": "fall into [someone’s] embrace",
-          "use": "人の腕の中へ飛び込むように抱かれる。文学的",
-          "example": "She fell into his embrace, weeping.",
-          "translation": "彼女は泣きながら彼の腕の中に飛び込んだ。"
+          "pattern": "pull away from/break an embrace",
+          "use": "腕をほどき、抱き合っている状態を終える。",
+          "example": "She pulled away from the embrace and wiped her eyes.",
+          "translation": "彼女は抱擁を解き、目元を拭った。"
         }
       ],
       "notes": [
-        "具体的な一回の抱擁を表す可算名詞なので、単数なら通常 a / an、the、所有格などが必要。誤: They stood in embrace.／正: They stood in an embrace.／正: They stood in each other’s embrace.",
-        "日常的な「ハグ」は hug が普通で、give someone a hug が非常に自然。give someone an embrace も文法上可能だが、日常会話では硬く、greet someone with an embrace、hold someone in an embrace、share an embrace などのほうが embrace らしい。",
-        "「抱擁を交わす」には share / exchange an embrace が自然。make an embrace は通常使わない。",
-        "複数形 embraces も可能で、複数回の抱擁や複数組の抱擁を数える場合に使う。",
-        "his embrace は「彼がする抱擁」と「彼の腕の中に抱かれている状態」の両方を文脈によって表し得る。in his embrace は in his arms より文学的・感情的。",
-        "in the embrace of nature / winter のように、人ではなく自然現象・抽象的な力が of の後に来る場合は語義7の比喩用法。"
+        "可算名詞なので通常は an embrace、複数なら embraces とする。状態は in an embrace、迎え方は with an embrace と前置詞が異なる。日常会話では give someone a hug が普通で、give someone an embrace は文法的でも硬く不自然になりやすい。share an embrace、greet someone with an embrace、または動詞 embrace someone を使う方が自然である。古い文学や婉曲表現では複数形 embraces が性的関係を暗示することがあるが、現代の中立的な会話でこの意味を意図して使うのは不自然で、通常は文脈依存の古風な拡張として理解する。"
       ],
       "synonyms": [
         {
           "word": "hug",
-          "definition": "人を腕で抱きしめる行為。",
-          "frequency": 9,
-          "difference": "最も日常的で口語的。give a hug が定型で、embrace より軽く親しみやすい。",
-          "example": "He gave his father a quick hug.",
-          "translation": "彼は父親に軽くハグした。"
+          "definition": "人を腕で抱く一回の動作。",
+          "frequency": 10,
+          "difference": "最も普通で口語的。an embrace より日常的で、子ども・友人・家族との軽い抱擁にも自然である。",
+          "example": "He gave me a quick hug.",
+          "translation": "彼は私をさっと抱きしめた。"
         },
         {
           "word": "cuddle",
-          "definition": "愛情を込めて、長めに寄り添いながら抱くこと。",
-          "frequency": 6,
-          "difference": "一瞬の挨拶より、親密で持続的な接触を指す。子供、恋人、動物などとの場面で多い。",
-          "example": "The puppy wanted a cuddle.",
-          "translation": "子犬は抱っこをせがんだ。"
+          "definition": "愛情を込めて寄り添い、抱き合うこと。",
+          "frequency": 7,
+          "difference": "一回の抱擁より、長く柔らかな身体接触や親密な寄り添いを表しやすい。",
+          "example": "The toddler wanted a cuddle before bed.",
+          "translation": "その幼児は寝る前に抱っこしてほしがった。"
         },
         {
-          "word": "squeeze",
-          "definition": "人をぎゅっと抱きしめること。",
-          "frequency": 5,
-          "difference": "力を込めて締める動作を強調し、give someone a squeeze の形で口語的に使われる。",
-          "example": "She gave him a reassuring squeeze.",
-          "translation": "彼女は安心させるように彼をぎゅっと抱きしめた。"
+          "word": "hold",
+          "definition": "人を腕の中に保つこと、またはその保持。",
+          "frequency": 8,
+          "difference": "抱擁以外の支え・保持にも広く使い、名詞としての身体的抱擁は embrace ほど明確ではない。",
+          "example": "The child relaxed in his mother's hold.",
+          "translation": "その子は母親の腕の中で安心した。"
         }
       ],
       "antonyms": []
     },
     {
       "number": 4,
-      "title": "語義4：（考え・変化・技術などの）積極的な受容、採用",
-      "frequency": 5,
+      "title": "【他動詞】（分野・計画・概念・範囲などが複数の要素を）含む、包含する",
+      "frequency": 6,
       "register": [
-        "フォーマル。報道、政治、社会評論、学術、ビジネス、書評など。日常会話では acceptance、adoption、support や動詞 embrace を使うほうが普通。"
+        "硬い・形式的。学術、行政、法律、企画書、説明文で使われる。一般的な文章や会話では include, cover, encompass の方が自然なことが多い。"
       ],
-      "definition": "新しい考え、価値観、技術、制度、生き方などを個人・組織・社会が積極的に受け入れること、またその姿勢。動詞の語義1を名詞化したもので、単なる受諾より「自分のものとして取り込む」という積極性を伴いやすい。論説・報道・学術では、社会や組織の方向性を分析するときによく使われる。",
+      "definition": "全体となる分野、体系、定義、計画、報告書などが、複数の項目・人・主題を自らの範囲の一部として含むことを表す。語義1のような感情的・積極的受容ではなく、構成範囲の広さを述べる。",
       "patterns": [
-        "A＝the embrace of [O]「～の積極的受容」",
-        "B＝[所有格] embrace of [O]「主体が～を受け入れること」",
-        "C＝a + 形容詞 + embrace of [O]「特定の態度を伴う受容」",
-        "D＝signal / mark / reflect / represent an embrace of [O]「～の受容を示す」",
-        "E＝move toward / away from an embrace of [O]「～の受容へ向かう",
-        "そこから離れる」。"
+        "embrace a range/variety of 〈複数名詞〉＝広い範囲を含む",
+        "embrace 〈topics/fields/people/activities〉＝要素を包含する",
+        "embrace both A and B＝AとBの両方を含む",
+        "〈concept/definition/program〉 embraces 〈O〉＝概念・定義・計画がOを範囲内に入れる",
+        "〈O〉 + be embraced by/within 〈全体〉＝Oが全体に含まれる"
       ],
       "collocations": [
         {
-          "pattern": "the embrace of [new ideas / technology]",
-          "use": "新しい考え・技術などを社会や組織が受け入れる動きを名詞で述べる",
-          "example": "The embrace of digital tools transformed the industry.",
-          "translation": "デジタル技術の積極的な導入がその業界を一変させた。"
+          "pattern": "embrace a wide/broad range of 〈複数名詞〉",
+          "use": "分野・意見・活動などを幅広く含むことを表す。",
+          "example": "The course embraces a wide range of historical periods.",
+          "translation": "その講座は幅広い歴史時代を扱っている。"
         },
         {
-          "pattern": "[someone’s] enthusiastic / wholehearted embrace of [O]",
-          "use": "特定の主体が対象を強い熱意をもって受け入れることを示す",
-          "example": "Her enthusiastic embrace of the reforms surprised critics.",
-          "translation": "彼女が改革を熱心に受け入れたことは批評家を驚かせた。"
+          "pattern": "embrace diverse fields/topics",
+          "use": "一つの体系や計画が異なる複数分野・主題を含む。",
+          "example": "Environmental studies embraces diverse fields from ecology to economics.",
+          "translation": "環境学は生態学から経済学まで多様な分野を含む。"
         },
         {
-          "pattern": "a wholesale / uncritical embrace of [O]",
-          "use": "対象を全面的・無批判に受け入れることを批判的に述べる",
-          "example": "The report warns against a wholesale embrace of automation.",
-          "translation": "その報告書は自動化を全面的に受け入れることに警鐘を鳴らしている。"
-        },
-        {
-          "pattern": "a qualified / partial embrace of [O]",
-          "use": "留保付き・部分的な受容であることを表す",
-          "example": "The review offers a qualified embrace of the proposed reforms.",
-          "translation": "その論評は提案された改革を留保付きで受け入れている。"
-        },
-        {
-          "pattern": "signal / mark an embrace of [O]",
-          "use": "行動・決定などが特定の方針を受け入れたことを示す",
-          "example": "The appointment marked an embrace of a more collaborative style.",
-          "translation": "その任命は、より協調的な方式を採用したことを示した。"
-        },
-        {
-          "pattern": "[a country’s / a party’s] embrace of [O]",
-          "use": "所有格で受容する主体を明示する",
-          "example": "The party’s embrace of green policies came late.",
-          "translation": "その政党が環境政策を積極的に採用したのは遅かった。"
-        }
-      ],
-      "notes": [
-        "of は通常、受け入れられる対象を導く。the government’s embrace of the plan では government が受容する主体、plan が受容される対象。",
-        "前置詞は通常 of。an embrace for the policy のような形で「政策の受容」を表すのは一般的ではない。",
-        "この抽象義は基本的に不可算だが、a wholehearted embrace、an uncritical embrace のように、特定の態度・事例として修飾語付きで可算化されることがある。したがって「常に不可算」「複数形は絶対不可」とまでは言えない。",
-        "ただし通常は単数形中心で、複数の受容事例を単純に embraces of new ideas のように並べる用法は一般的ではない。",
-        "acceptance は中立的で、消極的な受諾も含められる。embrace は通常、より積極的・肯定的に対象を取り入れる態度を含む。",
-        "adoption は技術・制度・方法を実際に導入・実施することに重点があり、embrace は態度上の積極性も含みやすい。",
-        "語義7との判別では構文が重要。the country’s embrace of reform は「その国が改革を受け入れること」、the country in the embrace of winter は「その国が冬に包まれている状態」。"
-      ],
-      "synonyms": [
-        {
-          "word": "acceptance",
-          "definition": "状況・考え・提案などを受け入れること。",
-          "frequency": 9,
-          "difference": "最も広く中立的。しぶしぶ受け入れる場合も含み、熱意・積極的な実践までは必ずしも含まない。",
-          "example": "The idea slowly gained public acceptance.",
-          "translation": "その考えは徐々に世間に受け入れられた。"
-        },
-        {
-          "word": "adoption",
-          "definition": "方針・方法・制度・技術などを選び、実際に使い始めること。",
-          "frequency": 8,
-          "difference": "実際の導入・実施に重点がある。embrace は心理的・価値観的な受容も含みやすい。",
-          "example": "The adoption of the new standard took three years.",
-          "translation": "新基準の採用には3年かかった。"
-        },
-        {
-          "word": "endorsement",
-          "definition": "人・政策・考えなどへの公的な支持表明。",
-          "frequency": 7,
-          "difference": "外部へ支持を明示する行為に焦点があり、自分自身が対象を採用・実践することは必須ではない。",
-          "example": "The candidate won the endorsement of two major unions.",
-          "translation": "その候補は主要な労働組合2団体の支持を得た。"
-        },
-        {
-          "word": "espousal",
-          "definition": "信念・理念・主義を支持し、自分の立場として掲げること。",
-          "frequency": 3,
-          "difference": "非常にフォーマルで、思想・政治・宗教などに限定されやすい。実際の導入より、立場として掲げることに重点がある。",
-          "example": "His espousal of pacifism influenced his political career.",
-          "translation": "彼が平和主義を掲げたことは、その政治経歴に影響を与えた。"
-        }
-      ],
-      "antonyms": [
-        {
-          "word": "rejection",
-          "definition": "考え・提案・制度などを受け入れず退けること。",
-          "frequency": 8,
-          "difference": "受容⇔拒絶という補完的な対立。embrace の抽象名詞義に最も直接的な反意語。",
-          "example": "The party’s rejection of the compromise ended the talks.",
-          "translation": "その政党が妥協案を拒否したことで協議は決裂した。"
-        },
-        {
-          "word": "resistance",
-          "definition": "変化・制度・方針などを受け入れまいとする態度・行動。",
-          "frequency": 8,
-          "difference": "受容⇔抵抗という方向上の対立。最終的に拒絶したかどうかにかかわらず、受け入れるまでの抵抗も表せる。",
-          "example": "There was strong resistance to the merger.",
-          "translation": "合併には強い抵抗があった。"
-        },
-        {
-          "word": "repudiation",
-          "definition": "信念・方針・責任などを明確かつ公然と拒絶・否認すること。",
-          "frequency": 4,
-          "difference": "積極的受容⇔明確な決別という対立。rejection よりフォーマルで、すでに関係のあった立場を否定する含意を持つことが多い。",
-          "example": "The statement was a repudiation of the party’s former policy.",
-          "translation": "その声明は党の旧方針との明確な決別を示した。"
-        }
-      ]
-    },
-    {
-      "number": 5,
-      "title": "語義5：（範囲として）包含する、含む",
-      "frequency": 4,
-      "register": [
-        "フォーマル・文章語。学術、法律、専門文書、歴史、評論、制度説明など。日常会話では include、cover のほうが普通。"
-      ],
-      "definition": "ある語、概念、分野、制度、計画、議論などが、一つの広い範囲の中に複数の要素・対象・話題などを含むこと。語義1のような「好意的に受け入れる」という評価はなく、主語が枠、目的語がその範囲内に入る要素という関係を表す。include よりフォーマルで、現代英語では encompass に近い。",
-      "patterns": [
-        "A＝[範囲を持つ主語] + embrace + O「～を包含する」",
-        "B＝embrace a wide range of [複数名詞]「幅広い～を含む」",
-        "C＝embrace both A and B「AとBの両方を含む」",
-        "D＝embrace everything from A to B「AからBまで幅広く含む」",
-        "E＝be embraced by / within [枠・定義]「～の範囲内に含まれる」。通常は状態的な包含を表すため非進行形が普通。"
-      ],
-      "collocations": [
-        {
-          "pattern": "[the term] embraces [a range of O]",
-          "use": "用語・概念の意味範囲に複数の対象が含まれることを説明する",
-          "example": "The term “media” embraces print, broadcast, and online outlets.",
-          "translation": "「メディア」という語は、活字・放送・オンラインの各媒体を包含する。"
-        },
-        {
-          "pattern": "embrace a wide range of [O]",
-          "use": "分野・計画・議論などが幅広い対象を含むことを表す",
-          "example": "The programme embraces a wide range of subjects.",
-          "translation": "その課程は幅広い科目を含んでいる。"
-        },
-        {
-          "pattern": "embrace both [A] and [B]",
-          "use": "二つの異なる要素を一つの範囲内に含む",
+          "pattern": "embrace both A and B",
+          "use": "対照的または異なる二要素をともに範囲へ入れる。",
           "example": "The revised definition embraces both paid and unpaid work.",
           "translation": "改訂された定義は有償労働と無償労働の両方を含む。"
         },
         {
-          "pattern": "embrace everything from [A] to [B]",
-          "use": "範囲の広さを両端の例で示す",
-          "example": "The collection embraces everything from folk songs to opera.",
-          "translation": "そのコレクションは民謡からオペラまで幅広く含んでいる。"
+          "pattern": "〈a concept/definition〉 embraces 〈O〉",
+          "use": "概念・定義の意味範囲に具体的要素が含まれる。",
+          "example": "The term embraces several forms of informal cooperation.",
+          "translation": "その用語は複数の形態の非公式な協力を包含する。"
         },
         {
-          "pattern": "[a plan / programme / report] embraces [O]",
-          "use": "計画・制度・報告書などが複数の問題・領域を対象に含む",
+          "pattern": "〈a plan/program/report〉 embraces 〈O〉",
+          "use": "計画・制度・報告書が複数の課題や活動を対象にする。",
           "example": "The regional plan embraces transport, housing, and public health.",
-          "translation": "その地域計画は交通、住宅、公衆衛生を対象に含んでいる。"
+          "translation": "その地域計画は交通、住宅、公衆衛生を対象に含む。"
         },
         {
-          "pattern": "be embraced by / within [the definition / framework]",
-          "use": "対象が特定の定義・枠組みの範囲内に含まれることをフォーマルに述べる",
-          "example": "These activities are embraced within the broader definition of public service.",
-          "translation": "これらの活動は公共サービスというより広い定義の中に含まれる。"
+          "pattern": "〈a category/framework〉 embraces 〈O〉",
+          "use": "分類・枠組みを主語にし、そこに含まれる要素を目的語として示す。",
+          "example": "The broader framework embraces all these forms of community support.",
+          "translation": "そのより広い枠組みは、これらすべての地域支援の形態を含む。"
         }
       ],
       "notes": [
-        "典型的な主語は無生物だが、「主語は絶対に無生物」という文法規則ではない。重要なのは、主語が「ある内容・範囲・体系」を表し、その中に目的語を含む関係になっていること。",
-        "主語が組織・人であっても文脈によっては使用可能だが、「価値観を積極的に受け入れる」なら語義1、「分野・要素を範囲として含む」なら本語義という意味差が生じる。",
-        "主語が枠、目的語が含まれる要素という方向を理解する。The definition embraces several categories. では definition が広い枠、categories がその中に含まれる。",
-        "通常は状態的な包含を表すため進行形にしない。The category embraces several types. が普通。ただし The organization is embracing new areas of work. のように「現在、新分野を積極的に取り込みつつある」という動的意味なら進行形は可能で、その場合は語義1に近づく。",
-        "日常的な「含む」は include が最も一般的。embrace は「広い枠が多様な要素を包み込む」というフォーマルな文脈に向く。The price embraces tax. のような単純な内容物・料金項目には不自然で、The price includes tax. が普通。",
-        "cover は規則・保険・議論・授業などの「適用・言及範囲」を表しやすい。embrace は複数の要素を一つの広い全体へ含めるイメージが強い。",
-        "現代英語では、この包含義だけを明確に表したい場合 encompass のほうが自然なことが多く、embrace はやや文語的・古風に響く文脈もある。"
+        "この語義では、通常、全体を表す主語が部分を目的語に取る。The discipline embraces several fields. は「その学問分野が複数分野を含む」であり、Several fields embrace the discipline. と逆転させない。comprise も全体を主語にして部分を目的語に取るが、be comprised of の扱いには文体差があるため、単純な置換ではなく構文を確認する。The company embraces diversity. は「多様性を支持する」という語義1が自然だが、The policy embraces several areas. はこの語義の「含む」である。主語に意志を持つ人・組織が来ても、目的語が価値観なら語義1、列挙可能な構成要素なら語義4になりやすい。中立的な文章では include が最も無標である。"
       ],
       "synonyms": [
         {
           "word": "include",
-          "definition": "全体の一部として人・物・要素などを含む。",
+          "definition": "全体の一部として人・物・項目を含む。",
           "frequency": 10,
-          "difference": "最も一般的で中立的。要素が一つでも多数でも使え、レジスター上の制約もほとんどない。",
-          "example": "The fee includes breakfast.",
-          "translation": "料金には朝食が含まれている。"
+          "difference": "最も一般的で中立的。embrace より硬さがなく、単純な列挙にも使える。",
+          "example": "The fee includes breakfast and internet access.",
+          "translation": "料金には朝食とインターネット接続が含まれる。"
         },
         {
           "word": "encompass",
           "definition": "広い範囲・多様な要素を全体として含む。",
-          "frequency": 6,
-          "difference": "この語義の embrace に最も近い。現代のフォーマルな文章では、包含義を明確に示す語として embrace より一般的。",
-          "example": "The survey encompasses ten countries.",
-          "translation": "その調査は10か国を対象としている。"
-        },
-        {
-          "word": "cover",
-          "definition": "話題・地域・期間・費用・規則などの範囲に及ぶ。",
-          "frequency": 10,
-          "difference": "「適用・言及の範囲」を示すのに非常に広く使える。embrace より実用的で口語的。",
-          "example": "The warranty covers parts and labour.",
-          "translation": "保証は部品と工賃を対象としている。"
+          "frequency": 7,
+          "difference": "embrace の包含義に非常に近いが、感情的な「受け入れる」の別義を持たず、範囲の広さに焦点がある。",
+          "example": "The study encompasses five different regions.",
+          "translation": "その研究は五つの異なる地域を対象に含む。"
         },
         {
           "word": "comprise",
-          "definition": "全体が複数の構成部分を含んで成り立つ。",
-          "frequency": 6,
-          "difference": "全体とその構成部分の関係に焦点がある。embrace は構成要素だけでなく、話題・適用範囲・分類対象も含められる。",
+          "definition": "全体が複数の部分から成る、または部分を含む。",
+          "frequency": 7,
+          "difference": "硬い語で、全体と部分の構成関係を明示する。embrace より分類的・構造的である。",
           "example": "The committee comprises twelve members.",
-          "translation": "委員会は12名で構成されている。"
+          "translation": "その委員会は12名の委員で構成されている。"
+        },
+        {
+          "word": "cover",
+          "definition": "話題、地域、期間、費用などを対象範囲に入れる。",
+          "frequency": 9,
+          "difference": "より一般的で、授業・報告・保険など「扱う、及ぶ」の意味が強い。",
+          "example": "The report covers developments from 2015 to 2025.",
+          "translation": "その報告書は2015年から2025年までの動向を扱う。"
         },
         {
           "word": "incorporate",
-          "definition": "要素を全体の一部として組み込み、一体化させる。",
+          "definition": "要素を全体へ組み込み、その一部として機能させる。",
           "frequency": 8,
-          "difference": "単に範囲内に含むだけでなく、既存の全体へ機能的に組み込む過程・結果を強調する。",
+          "difference": "単に範囲に含むより、既存の全体へ統合する過程・結果を強く示す。",
           "example": "The design incorporates several energy-saving features.",
-          "translation": "その設計には複数の省エネルギー機能が組み込まれている。"
-        },
-        {
-          "word": "span",
-          "definition": "時間・地域・分野などのある範囲全体にわたる。",
-          "frequency": 7,
-          "difference": "両端の間の広がり・長さに焦点があり、個々の要素を「含む」ことより範囲の広さを表す。",
-          "example": "Her career spanned four decades.",
-          "translation": "彼女の経歴は40年に及んだ。"
+          "translation": "その設計には複数の省エネ機能が組み込まれている。"
         }
       ],
       "antonyms": [
         {
           "word": "exclude",
-          "definition": "人・物・要素を範囲・集団の外に置き、含めない。",
-          "frequency": 8,
-          "difference": "包含⇔除外という補完的な対立。ある範囲から意図的に対象を外す意味を持つ。",
-          "example": "The definition excludes part-time staff.",
-          "translation": "その定義はパートタイム職員を除外している。"
+          "definition": "人・物・項目を範囲や集団の外に置く。",
+          "frequency": 9,
+          "difference": "全体の内側へ含める embrace の包含義に対する直接的な反対である。",
+          "example": "The definition excludes temporary workers.",
+          "translation": "その定義は臨時労働者を除外している。"
         },
         {
           "word": "omit",
-          "definition": "含めることが予想される情報・項目などを省く。",
+          "definition": "必要・予想される項目を記述・一覧・構成から落とす。",
+          "frequency": 8,
+          "difference": "意図的・非意図的に項目を入れないことに焦点があり、分類範囲の外へ置く exclude より編集的である。",
+          "example": "The summary omitted several important details.",
+          "translation": "その要約はいくつかの重要な詳細を省いていた。"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "【可算名詞・通常単数】（考え・変化・制度などの）積極的な受容、採用、支持",
+      "frequency": 6,
+      "register": [
+        "硬い・抽象的。報道、評論、ビジネス、政治、学術で使われる。日常会話では acceptance, adoption, support の方が普通である。"
+      ],
+      "definition": "人、組織、社会などが、考え・技術・制度・文化・価値観を好意的かつ積極的に受け入れることを名詞で表す。多くの場合、単なる承認ではなく、実際に自分の立場・行動・制度へ取り込む含みがある。",
+      "patterns": [
+        "the/one's embrace of 〈名詞〉＝～の受容・採用",
+        "an enthusiastic/a full/a wholehearted embrace of 〈名詞〉＝受容の強さを示す",
+        "signal/mark/reflect an embrace of 〈名詞〉＝受容を示す",
+        "a 〈broad/partial/qualified〉 embrace of 〈名詞〉＝受容の範囲・留保を示す",
+        "move toward/away from an embrace of 〈名詞〉＝受容へ近づく・離れる"
+      ],
+      "collocations": [
+        {
+          "pattern": "the/one's embrace of 〈technology/change/ideas〉",
+          "use": "誰が何を積極的に受け入れたかを of で示す。",
+          "example": "The company's embrace of automation transformed its production line.",
+          "translation": "その会社による自動化の採用は、生産ラインを一変させた。"
+        },
+        {
+          "pattern": "an enthusiastic/a wholehearted embrace of 〈O〉",
+          "use": "強い熱意を伴う全面的な受容を表す。",
+          "example": "The movement's enthusiastic embrace of local culture attracted new members.",
+          "translation": "その運動が地域文化を熱心に受け入れたことで、新しい参加者が集まった。"
+        },
+        {
+          "pattern": "signal/mark an embrace of 〈O〉",
+          "use": "行動・決定が、特定の考えや方針を受け入れた証拠であることを示す。",
+          "example": "The appointment marked an embrace of a more collaborative style.",
+          "translation": "その任命は、より協調的な方式を採用したことを示した。"
+        },
+        {
+          "pattern": "a broad/partial/qualified embrace of 〈O〉",
+          "use": "受容が全面的か、限定や留保を伴うかを表す。",
+          "example": "The report offers a qualified embrace of the proposed reforms.",
+          "translation": "その報告書は、提案された改革を留保付きで支持している。"
+        },
+        {
+          "pattern": "move toward/away from an embrace of 〈O〉",
+          "use": "方針・世論が受容する方向へ進む、またはそこから離れる変化を表す。",
+          "example": "Public opinion has moved toward an embrace of flexible working.",
+          "translation": "世論は柔軟な働き方を受け入れる方向へ動いている。"
+        }
+      ],
+      "notes": [
+        "通常は単数で an embrace of X または the/one's embrace of X とする。前置詞は原則 of であり、an embrace for the policy より an embrace of the policy が自然である。語義3の物理的な名詞とは、後続する of の対象と周辺動詞で区別する。the country's embrace of reform は「改革の受容」だが、the child in his mother's embrace は「母親の抱擁」である。acceptance は中立的・受動的な承認にも使える一方、embrace は通常、積極的な同意・採用を示す。抽象名詞として多用すると修辞的に重くなるため、平易な文では adoption of や support for を選ぶ。"
+      ],
+      "synonyms": [
+        {
+          "word": "acceptance",
+          "definition": "考え、状況、提案などを受け入れること。",
+          "frequency": 9,
+          "difference": "最も中立的で、しぶしぶ認める場合も含む。embrace はより積極的・肯定的である。",
+          "example": "Public acceptance of the measure increased gradually.",
+          "translation": "その措置に対する社会的受容は徐々に高まった。"
+        },
+        {
+          "word": "adoption",
+          "definition": "方法、制度、技術、方針などを選び、使い始めること。",
+          "frequency": 9,
+          "difference": "実際の導入・運用に焦点があり、感情的支持を必ずしも含まない。",
+          "example": "The adoption of digital records reduced processing time.",
+          "translation": "デジタル記録の導入により処理時間が短縮された。"
+        },
+        {
+          "word": "support",
+          "definition": "人、案、運動などへの賛成・援助。",
+          "frequency": 10,
+          "difference": "embrace より広く、対象を自分の信念・制度へ取り込むほど強い関与を意味しないことがある。",
+          "example": "The proposal received strong public support.",
+          "translation": "その提案は世論の強い支持を得た。"
+        },
+        {
+          "word": "endorsement",
+          "definition": "人、製品、政策、考えなどを公に承認・支持すること。",
           "frequency": 7,
-          "difference": "包含⇔省略の対立。exclude が範囲外とする判断を表しやすいのに対し、omit は意図的な省略にも不注意による抜けにも使える。",
-          "example": "The list omits several key figures.",
-          "translation": "その一覧には重要人物が数名抜けている。"
+          "difference": "公的な表明・お墨付きに焦点があり、私的な受容や実際の採用とは限らない。",
+          "example": "The plan gained the endorsement of several experts.",
+          "translation": "その計画は複数の専門家の支持を得た。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "rejection",
+          "definition": "提案、考え、制度などを受け入れないこと。",
+          "frequency": 8,
+          "difference": "積極的受容を表す embrace と直接対立する。",
+          "example": "The vote represented a clear rejection of the proposal.",
+          "translation": "その投票結果は提案の明確な拒否を示した。"
+        },
+        {
+          "word": "resistance",
+          "definition": "変化、考え、圧力などを受け入れまいとする反発。",
+          "frequency": 8,
+          "difference": "最終的な拒絶だけでなく、受容へ向かう動きに抗う過程・態度を表す。",
+          "example": "There was considerable resistance to the new procedure.",
+          "translation": "新しい手順にはかなりの抵抗があった。"
+        },
+        {
+          "word": "repudiation",
+          "definition": "考え、信念、責任、関係などを強く公然と否定すること。",
+          "frequency": 5,
+          "difference": "非常に硬く強い語で、単なる不採用より明確な否認・決別を表す。",
+          "example": "The statement was a repudiation of the party's former policy.",
+          "translation": "その声明は党の旧方針との決別を示した。"
         }
       ]
     },
     {
       "number": 6,
-      "title": "語義6：（自然物・地形・腕などが）～を包み込む、取り囲む",
-      "frequency": 3,
+      "title": "【他動詞】（地形・物体・腕・雰囲気などが）～を取り囲む、包み込む",
+      "frequency": 4,
       "register": [
-        "文学的・修辞的。小説、詩、紀行文、風景描写など。客観的な位置説明・技術文書では surround、enclose、encircle などが普通。"
+        "文学的・修辞的、または硬い描写。地理・建築・物語の文章で使われる。中立的な説明では surround, encircle, enclose の方が普通である。"
       ],
-      "definition": "丘、森、湾、壁、霧、闇などが場所・物の周囲を包むように囲んでいることを、「両腕で抱く」動作になぞらえて表す。また embrace one’s knees のように、人が両腕を対象の周囲へ回して囲む字義的な用法もある。風景を擬人的・情緒的に描写する文学的用法が中心。",
+      "definition": "山、森、壁、湾、暗闇、暖かさなどが、対象の周囲へ広がって内側に包むことを表す。物理的な囲みが中心だが、光・闇・静けさ・暖かさなどを擬人化して包み込む文学的表現にも使える。",
       "patterns": [
-        "A＝[地形・自然物] + embrace + O「～を包むように囲む」",
-        "B＝be embraced by + [自然物・環境]「～に包まれている」",
-        "C＝embrace O on [three / all] sides「～を三方",
-        "四方から囲む」",
-        "D＝embrace one’s knees「両腕で膝を抱える」",
-        "E＝embrace O with one’s arms「Oを両腕で囲む」。"
+        "〈mountains/walls〉 embrace 〈O〉; a forest embraces 〈O〉＝地形・構造物がOを囲む",
+        "embrace 〈O〉 on all sides＝四方から包む",
+        "〈O〉 + be embraced by 〈nature/darkness/warmth〉＝Oが環境・雰囲気に包まれる",
+        "a curve/bay embraces 〈space/coast/town〉＝曲線状のものが対象を囲む"
       ],
       "collocations": [
         {
-          "pattern": "[hills / mountains] embrace [the valley / town]",
-          "use": "丘・山などが谷や町を包むように周囲へ連なる様子を描写する",
+          "pattern": "〈hills/mountains〉 embrace the valley/town",
+          "use": "地形が谷・町を周囲から囲む様子を描写する。",
           "example": "Low green hills embrace the village on three sides.",
-          "translation": "低い緑の丘が三方からその村を包むように囲んでいる。"
+          "translation": "低い緑の丘が三方からその村を囲んでいる。"
         },
         {
-          "pattern": "[a forest / wall] embraces [O]",
-          "use": "森林・壁などが対象の周囲に広がる様子を文学的に表す",
+          "pattern": "〈a forest/wall〉 embraces 〈O〉",
+          "use": "森林や構造物が対象の周囲に広がる。",
           "example": "A dense forest embraces the old monastery.",
           "translation": "深い森がその古い修道院を取り囲んでいる。"
         },
         {
-          "pattern": "[darkness / fog] embraces [O]",
-          "use": "闇・霧などが対象を包み込む様子を擬人的に描写する",
-          "example": "The fog embraced the harbour before dawn.",
-          "translation": "夜明け前、霧が港を包み込んだ。"
+          "pattern": "be embraced by nature/darkness/warmth",
+          "use": "環境や感覚的な力に包まれた状態を受動態で表す。",
+          "example": "At dusk, the garden was embraced by a deep silence.",
+          "translation": "夕暮れになると、庭は深い静けさに包まれた。"
         },
         {
-          "pattern": "[a bay / curve] embraces [a town / space]",
-          "use": "湾・曲線状の地形が対象を抱くような形で囲んでいることを表す",
+          "pattern": "〈a bay/curve〉 embraces 〈a town/space〉",
+          "use": "湾や曲線状の構造が対象を抱くように囲む。",
           "example": "The crescent-shaped bay embraces a small fishing town.",
           "translation": "三日月形の湾が小さな漁村を包むように囲んでいる。"
         },
         {
-          "pattern": "be embraced by [silence / light / wooded hills]",
-          "use": "対象が静寂・光・丘などに包まれていることを修辞的に表す",
-          "example": "The valley was embraced by an unbroken silence.",
-          "translation": "谷は途切れることのない静寂に包まれていた。"
-        },
-        {
-          "pattern": "embrace one’s knees",
-          "use": "座った状態で両腕を膝の周囲へ回して抱える",
-          "example": "She sat by the window, embracing her knees.",
-          "translation": "彼女は膝を抱え、窓辺に座っていた。"
+          "pattern": "embrace 〈O〉 on all sides",
+          "use": "対象がほぼ全面から囲まれていることを明示する。",
+          "example": "Terraced gardens embrace the hotel on all sides.",
+          "translation": "段々状の庭園がホテルを四方から取り囲んでいる。"
         }
       ],
       "notes": [
-        "自然物を主語とする用法は擬人的・文学的で、客観的な位置説明には surround / enclose などが自然。The hills surround the town. は位置関係を客観的に述べ、The hills embrace the town. は「丘が町を腕のように包む」という情緒的イメージを加える。",
-        "embrace around the valley のように around を必須前置詞として付けない。embrace 自体に「囲む」意味が含まれる。",
-        "「主語が人ならこの語義にはならない」という絶対的な制約はない。embrace one’s knees、embrace a tree のように、人が腕を対象の周囲へ回す字義的・描写的用法がある。ただし通常の「物を抱える」なら hold / clutch / cradle のほうが一般的。",
-        "単なる容器と中身の関係には使わない。誤: The box embraces a pen.／正: The box contains a pen.",
-        "be embraced by nature のような表現は「自然に囲まれる」という空間的意味と、「自然に温かく包まれる」という擬人的イメージが重なりやすい。正確な地理説明では surrounded by のほうが明確。"
+        "この語義は他動詞なので、embrace around the valley のように around を必須の前置詞として付けない。The hills embrace the valley. または通常語なら The hills surround the valley. とする。人を目的語にすると、多くの場合は語義2の「抱きしめる」と解釈される。無生物主語や地形・雰囲気が目的語を囲むときにこの語義が明確になる。be embraced by nature は「自然に囲まれる」と「自然に温かく受け入れられる」という肯定的な比喩が重なり得る。正確な地理・技術説明では修辞性を避け、surrounded by や enclosed by を使う方が明確である。"
       ],
       "synonyms": [
         {
           "word": "surround",
-          "definition": "人・物・場所の周囲全体または大部分に位置する。",
-          "frequency": 9,
-          "difference": "最も一般的で客観的。embrace のような感情的・擬人的な「抱く」イメージを伴わない。",
+          "definition": "人・物・場所の周囲に位置する、または取り囲む。",
+          "frequency": 10,
+          "difference": "最も一般的で中立的。完全な包囲にも部分的な周囲配置にも使え、embrace の擬人的な温かさを含まない。",
           "example": "Tall trees surround the house.",
-          "translation": "高い木々が家を取り囲んでいる。"
+          "translation": "高い木々がその家を取り囲んでいる。"
         },
         {
           "word": "encircle",
-          "definition": "円・輪を描くように対象の周囲を囲む。",
-          "frequency": 5,
-          "difference": "円形・環状の配置を強調する。embrace より幾何的・視覚的。",
+          "definition": "円・輪のように周囲を囲む。",
+          "frequency": 6,
+          "difference": "形状や包囲の輪郭を強く示し、embrace より視覚的・幾何的である。",
           "example": "A stone path encircles the pond.",
           "translation": "石の小道が池を一周している。"
         },
         {
           "word": "enclose",
-          "definition": "壁・柵・境界などで対象を内側に囲い込む。",
-          "frequency": 7,
-          "difference": "閉じた境界や外部との区切りを強調する。embrace より物理的・機能的。",
+          "definition": "境界・壁などの内側に入れ、外部と区切る。",
+          "frequency": 8,
+          "difference": "閉じた境界や物理的遮断に焦点があり、embrace の柔らかい包み込みとは異なる。",
           "example": "A high fence encloses the garden.",
           "translation": "高い柵が庭を囲っている。"
         },
         {
           "word": "envelop",
-          "definition": "霧・煙・闇・布などが対象全体を覆い包む。",
-          "frequency": 5,
-          "difference": "周囲だけでなく対象全体を覆うことに焦点があり、embrace より「覆い隠す」感覚が強い。",
-          "example": "Smoke enveloped the building within minutes.",
-          "translation": "数分で煙が建物を包み込んだ。"
-        },
-        {
-          "word": "engulf",
-          "definition": "炎・水・闇などが対象を完全に呑み込む。",
-          "frequency": 5,
-          "difference": "対象を圧倒して呑み込む強さ・破壊性を伴いやすい。embrace の柔らかな「包む」イメージとは異なる。",
-          "example": "Flames engulfed the upper floors.",
-          "translation": "炎が上階を呑み込んだ。"
+          "definition": "布、霧、暗闇、感情などが対象を完全に包む。",
+          "frequency": 6,
+          "difference": "embrace より「覆い尽くす」感覚が強く、霧・煙・暗闇の描写に特に自然である。",
+          "example": "Thick fog enveloped the harbor.",
+          "translation": "濃い霧が港を包み込んだ。"
         }
       ],
       "antonyms": []
     },
     {
       "number": 7,
-      "title": "語義7：（自然・闇・眠り・恐怖などに）包まれた状態、強い影響下",
-      "frequency": 3,
+      "title": "【可算名詞・通常単数／比喩】（自然・暗闇・眠り・感情などに）包まれた状態、支配・影響下",
+      "frequency": 4,
       "register": [
-        "文学的・修辞的。小説、紀行文、評論、演説、広告的文章など。日常の事実説明では grip、influence、surroundings、shelter などのほうが明確。"
+        "文学的・修辞的。小説、旅行記、評論、広告的表現で使われる。日常の事実説明では surroundings, grip, influence, shelter などの方が明確である。"
       ],
-      "definition": "人・場所などが自然、夜、冬、眠り、恐怖、貧困、期待などの力に周囲から包まれ、強い影響を受けている状態を「抱擁」にたとえて表す。対象によって、安心・保護・親密さを表すこともあれば、拘束・圧迫・逃れにくさを表すこともある。独立した日常語義というより、名詞 embrace の比喩的・修辞的拡張として現れる。",
+      "definition": "人や場所が、自然、夜、冬、眠り、恐怖などの力に取り囲まれ、そこから強い影響を受けている状態を、抱擁になぞらえて表す。対象によって、安心・保護・親密さにも、拘束・危険・逃れにくさにもなり得る。",
       "patterns": [
-        "A＝in / within the embrace of [O]「～に包まれて」",
-        "B＝in the [warm / cold / gentle / suffocating] embrace of [O]「包み込みの性質を形容する」",
-        "C＝sink / fall into the embrace of [sleep / night]「～に包まれるように入る」",
-        "D＝be held / caught in the embrace of [O]「～の強い影響・包囲下にある」",
-        "E＝escape / break free from the embrace of [O]「～の包囲・支配から抜け出す」。"
+        "in/within the embrace of 〈名詞〉＝～に包まれて",
+        "in the 〈warm/cold/gentle〉 embrace of 〈名詞〉＝包囲・影響の性質を示す",
+        "sink/fall into the embrace of 〈sleep/night〉＝眠り・夜へ包まれるように入る",
+        "be held/caught in the embrace of 〈名詞〉＝強い影響下にある",
+        "escape/break free from the embrace of 〈名詞〉＝その支配・包囲から離れる"
       ],
       "collocations": [
         {
           "pattern": "in the embrace of nature",
-          "use": "自然に囲まれ、守られているような状態を肯定的・詩的に表す",
+          "use": "自然に囲まれ、守られる・安らぐという肯定的な比喩を表す。",
           "example": "The cabin stands in the embrace of untouched forest.",
           "translation": "その小屋は手つかずの森に抱かれるように建っている。"
         },
         {
-          "pattern": "in the warm embrace of [O]",
-          "use": "心地よいものに優しく包まれている状態を表す",
-          "example": "The village lay in the warm embrace of the hills.",
-          "translation": "村は丘に温かく抱かれるように広がっていた。"
+          "pattern": "in the warm/cold embrace of 〈O〉",
+          "use": "包み込む環境を温かい・冷たい抱擁として擬人化する。",
+          "example": "The town lay in the cold embrace of winter.",
+          "translation": "その町は冬の冷たい支配に包まれていた。"
         },
         {
-          "pattern": "in the cold embrace of [O]",
-          "use": "冷たい自然・環境などに包み込まれることを暗く文学的に描写する",
-          "example": "The ship vanished into the cold embrace of the sea.",
-          "translation": "船は冷たい海に包み込まれるように消えていった。"
-        },
-        {
-          "pattern": "the suffocating embrace of [O]",
-          "use": "本来は保護的であり得る関係が、束縛・圧迫として働くことを批判的に表す",
-          "example": "He fled the suffocating embrace of his family’s expectations.",
-          "translation": "彼は家族の期待という息苦しい束縛から逃れた。"
-        },
-        {
-          "pattern": "sink / fall into the embrace of sleep",
-          "use": "眠りへ入ることを、眠りに抱かれる様子として文学的に表す",
+          "pattern": "sink/fall into the embrace of sleep",
+          "use": "眠りに入ることを、眠りの腕に抱かれるように表現する。",
           "example": "Exhausted, she soon sank into the embrace of sleep.",
           "translation": "疲れ果てた彼女は、まもなく眠りに包まれた。"
         },
         {
-          "pattern": "break free from / escape the embrace of [O]",
-          "use": "比喩的な包囲・支配・影響から抜け出す",
+          "pattern": "be held/caught in the embrace of 〈O〉",
+          "use": "感情・暗闇・環境などから逃れにくい状態を表す。",
+          "example": "The valley was held in the embrace of darkness.",
+          "translation": "谷は暗闇に包まれていた。"
+        },
+        {
+          "pattern": "escape/break free from the embrace of 〈O〉",
+          "use": "比喩的な包囲・支配・影響から抜け出す。",
           "example": "The region struggled to break free from the embrace of poverty.",
           "translation": "その地域は貧困の支配から抜け出そうともがいた。"
         }
       ],
       "notes": [
-        "この用法は通常 in the embrace of ...、in nature’s embrace などの句として現れる。embrace 単独が一般的な「支配」「影響」という意味の普通名詞になるわけではない。",
-        "of の後が人なら物理的な語義3になることが多い。in his embrace は「彼の腕の中で」。自然現象・感情・社会的状況などが来れば本語義の比喩になりやすい。",
-        "語義4との区別では構文が重要。the country’s embrace of reform は「国が改革を受け入れること」、the country in the embrace of winter は「国が冬に包まれている状態」。",
-        "肯定・否定の両方に使える。warm / gentle / protective なら安心・保護、cold / suffocating / deadly なら拘束・脅威という評価を明示できる。",
-        "移動してその状態へ入る場合は into が自然。The ship vanished into the cold embrace of the sea. のように使う。",
-        "in the grip of fear は in the embrace of fear より一般的で、「締め付けられて逃れにくい」という否定的な支配を明確に表す。embrace はより文学的で、包み込まれるイメージが中心。",
-        "事務的・科学的・技術的な文章では比喩性と曖昧さを避け、surrounded by、under the influence of、in the grip of などへ言い換えるのが普通。"
+        "in the embrace of は、後続名詞が人なら語義3の物理的抱擁、自然現象・状態・抽象的な力ならこの比喩義になりやすい。the country's embrace of reform は語義5の「改革の受容」だが、the country in the embrace of winter は「冬に包まれた状態」である。前者は受容する主体が of の前にあり、後者は影響を受ける対象が in の前にある。この比喩は肯定・否定の両方に使えるため、warm, gentle, cold, deadly などの修飾語と文脈を確認する。事務的・科学的な文章では曖昧さと擬人化を避け、under the influence of, surrounded by, in the grip of などに置き換える。"
       ],
       "synonyms": [
         {
           "word": "grip",
-          "definition": "感情・病気・気象・勢力などが人や場所を強く支配している状態。",
+          "definition": "力・感情・状況が人や場所を強く支配する状態。",
           "frequency": 8,
-          "difference": "通常は否定的で、締め付けられ逃れにくい拘束を強調する。embrace は肯定的・保護的な対象にも使える。",
+          "difference": "通常は否定的で、逃れにくい拘束・恐怖・寒さなどを強調する。embrace は保護的・肯定的にも使える。",
           "example": "The city remained in the grip of a severe heat wave.",
           "translation": "その都市は厳しい熱波に襲われ続けた。"
         },
         {
           "word": "hold",
-          "definition": "人・信念・状況などが対象に及ぼす強い保持・支配。",
+          "definition": "人・力・状況が対象に及ぼす保持・支配。",
           "frequency": 7,
-          "difference": "影響力・支配に焦点があり、周囲から包み込むという抱擁の比喩は必須ではない。",
+          "difference": "grip より中立的で強度が弱いこともある。抱擁のイメージは必須ではない。",
           "example": "The old belief still has a strong hold on the community.",
           "translation": "その古い信念はいまだに地域社会を強く支配している。"
         },
         {
           "word": "clutches",
-          "definition": "危険・悪い状況・勢力などが対象を捕らえて逃さない状態。",
-          "frequency": 5,
-          "difference": "通常複数形で否定的・劇的。embrace よりも強い拘束・捕縛を表し、肯定的な対象には通常使わない。",
+          "definition": "危険・恐怖・悪い状況などが対象を逃さず捕らえている状態。",
+          "frequency": 6,
+          "difference": "通常複数形で否定的・劇的。embrace の温かさを反転させたような、強い拘束を示す。",
           "example": "The village fell into the clutches of the occupying force.",
           "translation": "その村は占領軍の支配下に陥った。"
-        },
-        {
-          "word": "shelter",
-          "definition": "危険・悪天候などから守る覆い、保護、避難場所。",
-          "frequency": 8,
-          "difference": "embrace の比喩が持ち得る「保護・安心」の側面に近いが、束縛・圧迫の意味は持たない。",
-          "example": "They found shelter in the shadow of the cliff.",
-          "translation": "彼らは崖の陰に身を寄せた。"
         }
       ],
       "antonyms": []
