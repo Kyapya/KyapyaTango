@@ -4,7 +4,7 @@
   "ipa": "米: /ˌoʊvərˈwɛlm/｜英: /ˌəʊvəˈwelm/",
   "lead": "感情、出来事、景色、愛情、音・においなどの刺激が人や感覚に非常に強い影響を与え、その人が平静に考えたり、抵抗したり、どう反応するか判断したりすることを難しくする。悲しみ・恐怖のような苦痛だけでなく、喜び・感謝・感動のような肯定的な感情にも使える。人を主語にして「人が感情を圧倒する」とするのではなく、通常は感情や経験を主語にするか、人を目的語にして受動態で使う",
   "updated": "2026-08-10",
-  "notion_url": "https://app.notion.com/p/overwhelm-3b84faa9b77d81cb94f3d9709bdc567c",
+  "notion_url": "https://app.notion.com/p/overwhelm-3b84faa9b77d81c1ae6dc71eb27da008",
   "pronunciation": [
     "主強勢は第3音節の /wɛlm/・/welm/ に置き、語頭の /ˌoʊ/・/ˌəʊ/ には第二強勢（主強勢より弱い補助的な強勢）がある。したがって over- 全体を無強勢として読むのではなく、第1音節に弱めの強勢を置き、米音では第2音節を弱い /ər/ とする。",
     "語末の -whelm は1音節で、whelm の wh を /w/ と発音する。overwhelm の現在形・過去形・過去分詞形で語幹の母音は変わらない。",
@@ -82,19 +82,19 @@
       ],
       "collocations": [
         {
-          "pattern": "grief/joy/relief overwhelms someone",
-          "use": "悲しみ・喜び・安堵などの強い感情が人を圧倒する。",
+          "pattern": "grief/joy/relief overwhelm someone",
+          "use": "悲しみ・喜び・安堵などの強い感情が人を圧倒する。実際の用例では受動・状態の be/feel/get overwhelmed も非常に多いが、圧倒された人の状態として語義5で扱う。",
           "example": "Grief overwhelmed her after her father died.",
           "translation": "父親が亡くなった後、悲しみが彼女を圧倒した。"
         },
         {
-          "pattern": "a surge/wave of emotion overwhelms someone",
+          "pattern": "a surge/wave of emotion overwhelm someone",
           "use": "特定の感情名を挙げず、感情そのものの強さを表す。",
           "example": "A wave of emotion overwhelmed him when he saw his daughter on stage.",
           "translation": "彼は舞台上の娘を見て、感情の波に圧倒された。"
         },
         {
-          "pattern": "the beauty/power of + O overwhelms someone",
+          "pattern": "the beauty/power of + O overwhelm someone",
           "use": "景色・音楽・芸術などの強い印象が人に及ぼす影響を示す。",
           "example": "The beauty of the northern lights overwhelmed the visitors.",
           "translation": "オーロラの美しさは訪問者たちを圧倒した。"
@@ -106,9 +106,9 @@
           "translation": "煙があまりにも強烈で、私の感覚が圧倒された。"
         },
         {
-          "pattern": "a sense of + 名詞 overwhelms someone",
+          "pattern": "a sense of + 名詞 overwhelm someone",
           "use": "感謝、無力感、責任感など、ひとまとまりの感覚が人を圧倒する。",
-          "example": "A sense of gratitude overwhelmed me after their help.",
+          "example": "A sense of gratitude overwhelmed me after they helped me.",
           "translation": "彼らに助けてもらった後、感謝の念が私を圧倒した。"
         },
         {
@@ -118,7 +118,7 @@
           "translation": "彼女の友人たちは、療養中の彼女に惜しみない親切を寄せた。"
         },
         {
-          "pattern": "the response/support overwhelms someone",
+          "pattern": "the response/support overwhelm someone",
           "use": "予想以上の反応・支援が人を感動させ、言葉を失わせるほどになる。",
           "example": "The support from people we had never met overwhelmed us.",
           "translation": "会ったこともない人々からの支援に、私たちは胸を打たれた。"
@@ -212,8 +212,8 @@
       "collocations": [
         {
           "pattern": "work/tasks overwhelm someone",
-          "use": "仕事や作業の量が多すぎて人を処理不能にする。",
-          "example": "This week's workload overwhelms me, so I need help prioritizing it.",
+          "use": "仕事や作業の量が多すぎて人を処理不能にする。実際の用例では be overwhelmed with/by + 仕事・情報 のような受動・状態表現も非常に多いが、語義5で扱う。",
+          "example": "This week's workload is overwhelming me, so I need help prioritizing it.",
           "translation": "今週の仕事量は私を圧倒しているので、優先順位付けを手伝ってほしい。"
         },
         {
@@ -241,13 +241,13 @@
           "translation": "訪問者の急増がウェブサイトのサーバーを処理能力超過に追い込んだ。"
         },
         {
-          "pattern": "the amount/volume of + 名詞 overwhelms + team/organization",
+          "pattern": "the amount/volume of + 名詞 overwhelm + team/organization",
           "use": "情報、書類、作業などの総量が処理能力を超えることを示す。",
           "example": "The volume of data overwhelmed the review team.",
           "translation": "データ量の多さが確認チームの処理能力を超えた。"
         },
         {
-          "pattern": "the number of + 複数名詞 overwhelms + someone",
+          "pattern": "the number of + 複数名詞 overwhelm + someone",
           "use": "選択肢、応募、問い合わせなど、個数の多さが人の処理能力を超える。",
           "example": "The number of choices on the menu overwhelmed her.",
           "translation": "メニューの選択肢の多さが彼女を圧倒した。"
@@ -383,7 +383,7 @@
         }
       ],
       "notes": [
-        "defeat は勝敗の事実を広く表す中立語、overpower はより強い力で制御・制圧すること、overwhelm は力・人数・勢いの差によって相手が抵抗できないほどの一方的な結果を強調する。crush はさらに強く、相手を完全に打ちのめす口語的・比喩的な響きがある。overwhelm someone with numbers のように手段を with で示せるが、受動態では be overwhelmed by superior numbers が自然である。スポーツでは必ずしも相手を物理的に傷つける意味ではなく、試合を圧倒するという比喩である。"
+        "主語が部隊・チームなどの組織や、守備・抵抗などの物である受動表現は、人の心理状態を表す語義5には入らないため、この語義で扱う。defeat は勝敗の事実を広く表す中立語、overpower はより強い力で制御・制圧すること、overwhelm は力・人数・勢いの差によって相手が抵抗できないほどの一方的な結果を強調する。crush はさらに強く、相手を完全に打ちのめす口語的・比喩的な響きがある。overwhelm someone with numbers のように手段を with で示せるが、受動態では be overwhelmed by superior numbers が自然である。スポーツでは必ずしも相手を物理的に傷つける意味ではなく、試合を圧倒するという比喩である。"
       ],
       "synonyms": [
         {
@@ -476,7 +476,7 @@
           "translation": "いくつかの低地の地区が洪水にのみ込まれた。"
         },
         {
-          "pattern": "a wave overwhelms a boat",
+          "pattern": "a wave overwhelm a boat",
           "use": "大波が船を覆い、転覆・水没の危険にさらす。",
           "example": "A sudden wave overwhelmed the fishing boat.",
           "translation": "突然の波が漁船をのみ込んだ。"
@@ -494,14 +494,14 @@
           "translation": "放棄された道路は徐々に海にのみ込まれていった。"
         },
         {
-          "pattern": "darkness/silence overwhelms + 場所",
+          "pattern": "darkness/silence overwhelm + 場所",
           "use": "暗闇や静けさが場所をすっかり包む比喩。",
           "example": "As the last lights disappeared, darkness overwhelmed the valley.",
           "translation": "最後の明かりが消えると、暗闇が谷を包み込んだ。"
         }
       ],
       "notes": [
-        "この物理義は他動詞で、The wave overwhelmed the boat. のように対象を直接目的語に取る。通常の地理説明で The hills overwhelmed the town. とすると「町を圧倒した」という比喩的な響きが出やすく、「取り囲んだ」なら surrounded が明確である。水が対象を覆う意味では flood が最も一般的、完全に水中へ入れる意味では submerge、周囲から包む意味では engulf が使いやすい。力・数で相手を制圧する語義3とは、目的語が建物・土地・船などで、覆う物理的な出来事である点が異なる。"
+        "主語が船・町・土地・道路などの物理的対象である受動表現は、人の心理状態を表す語義5には入らないため、この語義で扱う。この物理義は他動詞で、The wave overwhelmed the boat. のように対象を直接目的語に取る。通常の地理説明で The hills overwhelmed the town. とすると「町を圧倒した」という比喩的な響きが出やすく、「取り囲んだ」なら surrounded が明確である。水が対象を覆う意味では flood が最も一般的、完全に水中へ入れる意味では submerge、周囲から包む意味では engulf が使いやすい。力・数で相手を制圧する語義3とは、目的語が建物・土地・船などで、覆う物理的な出来事である点が異なる。"
       ],
       "synonyms": [
         {
