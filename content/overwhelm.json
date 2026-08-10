@@ -4,7 +4,7 @@
   "ipa": "米: /ˌoʊvərˈwɛlm/｜英: /ˌəʊvəˈwelm/",
   "lead": "感情、出来事、景色、愛情、音・においなどの刺激が人や感覚に非常に強い影響を与え、その人が平静に考えたり、抵抗したり、どう反応するか判断したりすることを難しくする。悲しみ・恐怖のような苦痛だけでなく、喜び・感謝・感動のような肯定的な感情にも使える。人を主語にして「人が感情を圧倒する」とするのではなく、通常は感情や経験を主語にするか、人を目的語にして受動態で使う",
   "updated": "2026-08-10",
-  "notion_url": "https://app.notion.com/p/overwhelm-3b84faa9b77d81b99591c2afe7a12052",
+  "notion_url": "https://app.notion.com/p/overwhelm-3b84faa9b77d81148063fa8ee0f18d07",
   "pronunciation": [
     "主強勢は第3音節の /wɛlm/・/welm/ に置き、語頭の /ˌoʊ/・/ˌəʊ/ には第二強勢（主強勢より弱い補助的な強勢）がある。したがって over- 全体を無強勢として読むのではなく、第1音節に弱めの強勢を置き、米音では第2音節を弱い /ər/ とする。",
     "語末の -whelm は1音節で、whelm の wh を /w/ と発音する。overwhelm の現在形・過去形・過去分詞形で語幹の母音は変わらない。",
@@ -76,9 +76,9 @@
       "definition": "感情、出来事、景色、愛情、音・においなどの刺激が人や感覚に非常に強い影響を与え、その対象が平静に考えたり、抵抗したり、どう反応するか判断したりすることを難しくする。悲しみ・恐怖のような苦痛だけでなく、喜び・感謝・感動のような肯定的な感情にも使える。感情・経験・刺激を主語にし、人や感覚を目的語に取る能動文で表す。",
       "patterns": [
         "emotion/event/stimulus + overwhelm + someone/something＝感情・出来事・刺激が人や感覚を圧倒する",
-        "overwhelm someone with + 感情・愛情＝感情・愛情を相手に強く感じさせる",
-        "the beauty/scale of + O overwhelms someone＝美しさ・規模が人を圧倒する",
-        "a sense/wave of + 感情 overwhelms someone＝感情の波・感覚が人を圧倒する"
+        "overwhelm someone with 〈感情・愛情〉＝感情・愛情を相手に強く感じさせる",
+        "the beauty/scale of 〈O〉 + overwhelm + someone＝美しさ・規模が人を圧倒する",
+        "a sense/wave of 〈感情〉 + overwhelm + someone＝感情の波・感覚が人を圧倒する"
       ],
       "collocations": [
         {
@@ -204,15 +204,15 @@
       "definition": "仕事、情報、質問、依頼、顧客、通信量などの量や勢いが許容量を超え、人・チーム・組織・機械がすべてを処理することを難しくする。必ずしも強い感情を伴わず、「多すぎて手に負えない」という能力・資源上の限界を表す。人が主語になる場合は、相手に情報や質問を一度に多く与える意味になる。",
       "patterns": [
         "work/information/requests + overwhelm + someone＝仕事・情報・要求が人を処理不能にする",
-        "overwhelm someone with + 物＝人に物を過剰に与える",
-        "overwhelm a system/server/service with + traffic/data＝通信量・データでシステムを過負荷にする",
-        "the amount/volume/number of + O overwhelms + someone/organization＝量・数・規模が人・組織を処理不能にする",
-        "not overwhelm the reader with + 情報＝読者に情報を詰め込みすぎない"
+        "overwhelm someone with 〈物〉＝人に物を過剰に与える",
+        "overwhelm a system/server/service with 〈traffic/data〉＝通信量・データでシステムを過負荷にする",
+        "the amount/volume/number of 〈O〉 + overwhelm + someone/organization＝量・数・規模が人・組織を処理不能にする",
+        "not overwhelm the reader with 〈情報〉＝読者に情報を詰め込みすぎない"
       ],
       "collocations": [
         {
           "pattern": "work/tasks + overwhelm + someone",
-          "use": "仕事や作業の量が多すぎて人を処理不能にする。実際の用例では be overwhelmed with/by + 仕事・情報 のような受動・状態表現も非常に多いが、語義5で扱う。",
+          "use": "仕事や作業の量が多すぎて人を処理不能にする。実際の用例では be overwhelmed with/by 〈仕事・情報〉 のような受動・状態表現も非常に多いが、語義5で扱う。",
           "example": "This week's workload is overwhelming me, so I need help prioritizing it.",
           "translation": "今週の仕事量は私を圧倒しているので、優先順位付けを手伝ってほしい。"
         },
@@ -333,10 +333,10 @@
       "definition": "軍隊、選手、対戦相手、競争相手などを、優れた力・人数・速度・圧力によって完全に打ち負かす。単に勝つだけでなく、相手が有効に抵抗・反応できないほど一方的に支配する含みがある。人だけでなく、守備、抵抗、競合サービスなどを目的語に取ることもある。",
       "patterns": [
         "army/team + overwhelm + opponent/enemy＝軍隊・チームが相手を圧倒する",
-        "overwhelm + someone/something + with/by + force/numbers＝力・数で制圧する",
-        "be overwhelmed by + superior force/numbers＝優勢な力・数に制圧される",
+        "overwhelm someone/something with/by 〈force/numbers〉＝力・数で制圧する",
+        "be overwhelmed by 〈superior force/numbers〉＝優勢な力・数に制圧される",
         "overwhelm the defense/resistance＝守備・抵抗を完全に崩す",
-        "overwhelm a rival in + competition＝競争でライバルを圧倒する"
+        "overwhelm a rival in 〈competition〉＝競争でライバルを圧倒する"
       ],
       "collocations": [
         {
@@ -464,8 +464,8 @@
       "definition": "水、波、洪水などの物理的な力が、場所・船・建物などを完全に覆い、のみ込むことを表す。火、煙、暗闇、騒音などが対象を押し包む比喩にも使えるが、現代の中立的な説明では flood, submerge, engulf の方が普通である。",
       "patterns": [
         "wave/floodwater + overwhelm + boat/town/land＝波・洪水が船・町・土地をのみ込む",
-        "be overwhelmed by + water/flooding＝水に覆われる",
-        "overwhelm + barrier/levee/defense＝水の勢いで防壁・堤防を破る",
+        "be overwhelmed by 〈water/flooding〉＝水に覆われる",
+        "overwhelm barrier/levee/defense＝水の勢いで防壁・堤防を破る",
         "darkness/silence + overwhelm + place＝暗闇・静けさが場所を包む"
       ],
       "collocations": [
@@ -549,9 +549,9 @@
       "definition": "人が強い感情、多すぎる仕事・情報、困難な状況、圧倒的な相手などの影響を受け、平静に対処できない状態を表す。動詞 overwhelm の受動態と形が同じだが、feel/be/get overwhelmed では結果としての心理状態を表す形容詞として使われる。文脈によって「感動で胸がいっぱい」「仕事で手に負えない」「相手に完敗した」のいずれにもなる。",
       "patterns": [
         "feel/be/seem/become/get overwhelmed＝圧倒された状態である・なる",
-        "be overwhelmed by + 原因＝原因に圧倒されている",
-        "be overwhelmed with + 仕事・感情＝仕事・感情でいっぱいである",
-        "an overwhelmed + 人・チーム＝圧倒されている人・チーム",
+        "be overwhelmed by 〈原因〉＝原因に圧倒されている",
+        "be overwhelmed with 〈仕事・感情〉＝仕事・感情でいっぱいである",
+        "an overwhelmed 〈人・チーム〉＝圧倒されている人・チーム",
         "be emotionally overwhelmed＝感情的に圧倒されている",
         "be completely/totally overwhelmed＝完全に手に負えない状態である"
       ],
@@ -686,12 +686,12 @@
       ],
       "definition": "力、規模、数、程度、証拠、支持、感情などが非常に大きく強く、相手が抵抗したり、無視したり、冷静に判断したりすることが難しいほどであることを表す。否定的なものだけでなく、overwhelming support「圧倒的な支持」のように肯定的なものにも使う。overwhelming majority は「圧倒的多数」であり、必ずしも感情的な圧力を意味しない。",
       "patterns": [
-        "an overwhelming + 名詞＝圧倒的な・非常に強い～",
+        "an overwhelming 〈名詞〉＝圧倒的な・非常に強い～",
         "be/seem/become overwhelming＝圧倒的である・なる",
-        "overwhelming for + 人＝人にとって手に負えないほど強い",
+        "overwhelming for 〈人〉＝人にとって手に負えないほど強い",
         "an overwhelming majority/amount/number＝圧倒的多数・量・数",
         "almost/completely/quite overwhelming＝程度を調整する",
-        "overwhelmingly + 形容詞・過去分詞＝圧倒的に～"
+        "overwhelmingly 〈形容詞・過去分詞〉＝圧倒的に～"
       ],
       "collocations": [
         {
@@ -833,8 +833,8 @@
       "definition": "投票、支持、勝敗、評価などが非常に大きな差で一方に傾いていること、または程度・強さが圧倒的であることを表す。多くの場合、単なる「非常に」よりも、多数・大差・明白な優勢という意味を含む。",
       "patterns": [
         "vote/win/approve overwhelmingly＝圧倒的な差で投票・勝利・承認する",
-        "be overwhelmingly + 形容詞・過去分詞＝圧倒的に～である",
-        "overwhelmingly in favor of/against + 名詞＝圧倒的に賛成・反対で",
+        "be overwhelmingly 〈形容詞・過去分詞〉＝圧倒的に～である",
+        "overwhelmingly in favor of/against 〈名詞〉＝圧倒的に賛成・反対で",
         "overwhelmingly positive/negative＝評価が圧倒的に肯定的・否定的",
         "overwhelmingly likely＝圧倒的に可能性が高い"
       ],
@@ -953,7 +953,7 @@
         "cope with overwhelm＝圧倒された状態に対処する",
         "in the midst of overwhelm＝圧倒された状態のさなかに",
         "move through overwhelm＝圧倒感を経験しながら乗り越える",
-        "overwhelm can make + O + 形容詞＝圧倒感がOを～にする"
+        "overwhelm can make 〈O〉 〈形容詞〉＝圧倒感がOを～にする"
       ],
       "collocations": [
         {
