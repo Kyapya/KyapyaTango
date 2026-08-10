@@ -4,9 +4,9 @@
   "ipa": "米: /ˌoʊvərˈwɛlm/｜英: /ˌəʊvəˈwelm/",
   "lead": "感情、出来事、景色、愛情、音・においなどの刺激が人や感覚に非常に強い影響を与え、その人が平静に考えたり、抵抗したり、どう反応するか判断したりすることを難しくする。悲しみ・恐怖のような苦痛だけでなく、喜び・感謝・感動のような肯定的な感情にも使える。人を主語にして「人が感情を圧倒する」とするのではなく、通常は感情や経験を主語にするか、人を目的語にして受動態で使う",
   "updated": "2026-08-10",
-  "notion_url": "https://app.notion.com/p/overwhelm-3b84faa9b77d8148b8dfe06b84531d23",
+  "notion_url": "https://app.notion.com/p/overwhelm-3b84faa9b77d81cb94f3d9709bdc567c",
   "pronunciation": [
-    "主強勢は第3音節の /wɛlm/・/welm/ に置く。語頭の over- は弱くなりやすく、米音では第1母音が /oʊ/、第2母音が弱い /ər/ になる。",
+    "主強勢は第3音節の /wɛlm/・/welm/ に置き、語頭の /ˌoʊ/・/ˌəʊ/ には第二強勢（主強勢より弱い補助的な強勢）がある。したがって over- 全体を無強勢として読むのではなく、第1音節に弱めの強勢を置き、米音では第2音節を弱い /ər/ とする。",
     "語末の -whelm は1音節で、whelm の wh を /w/ と発音する。overwhelm の現在形・過去形・過去分詞形で語幹の母音は変わらない。",
     "活用形は overwhelms /ˌoʊvərˈwɛlmz/｜/ˌəʊvəˈwelmz/、overwhelmed /ˌoʊvərˈwɛlmd/｜/ˌəʊvəˈwelmd/、overwhelming /ˌoʊvərˈwɛlmɪŋ/｜/ˌəʊvəˈwelmɪŋ/。overwhelmed の -ed は /d/ で発音する。"
   ],
@@ -68,32 +68,30 @@
   "senses": [
     {
       "number": 1,
-      "title": "【他動詞・通常受動】（感情・経験・刺激などが）人の心や感覚を圧倒する、強く感動させる；対処・反応を難しくする",
+      "title": "【他動詞】（感情・経験・刺激などが）人の心や感覚を圧倒する、強く感動させる；対処・反応を難しくする",
       "frequency": 9,
       "register": [
-        "標準的。会話、報道、物語、スピーチで広く使うが、特に be overwhelmed の受動・状態表現が頻出する。感情の強さを強調するため、やや文章的・感情的になることもある。"
+        "標準的。会話、報道、物語、スピーチで広く使う。感情の強さを強調するため、やや文章的・感情的になることもある。圧倒された人の受動・状態表現は語義5で扱う。"
       ],
-      "definition": "感情、出来事、景色、愛情、音・においなどの刺激が人や感覚に非常に強い影響を与え、その人が平静に考えたり、抵抗したり、どう反応するか判断したりすることを難しくする。悲しみ・恐怖のような苦痛だけでなく、喜び・感謝・感動のような肯定的な感情にも使える。人を主語にして「人が感情を圧倒する」とするのではなく、通常は感情や経験を主語にするか、人を目的語にして受動態で使う。",
+      "definition": "感情、出来事、景色、愛情、音・においなどの刺激が人や感覚に非常に強い影響を与え、その対象が平静に考えたり、抵抗したり、どう反応するか判断したりすることを難しくする。悲しみ・恐怖のような苦痛だけでなく、喜び・感謝・感動のような肯定的な感情にも使える。感情・経験・刺激を主語にし、人や感覚を目的語に取る能動文で表す。",
       "patterns": [
         "emotion/event/stimulus + overwhelm + someone/something＝感情・出来事・刺激が人や感覚を圧倒する",
-        "be overwhelmed by + 原因＝原因によって圧倒される",
-        "be overwhelmed with + 感情＝感情でいっぱいになり圧倒される",
         "overwhelm someone with + 感情・愛情＝感情・愛情を相手に強く感じさせる",
-        "feel/become/get overwhelmed＝圧倒された状態になる",
-        "the beauty/scale of + O overwhelms someone＝美しさ・規模が人を圧倒する"
+        "the beauty/scale of + O overwhelms someone＝美しさ・規模が人を圧倒する",
+        "a sense/wave of + 感情 overwhelms someone＝感情の波・感覚が人を圧倒する"
       ],
       "collocations": [
         {
-          "pattern": "be overwhelmed by/with grief/joy/relief",
-          "use": "悲しみ・喜び・安堵などの強い感情に圧倒される。",
-          "example": "She was overwhelmed with grief after her father died.",
-          "translation": "彼女は父親が亡くなった後、悲しみに打ちのめされた。"
+          "pattern": "grief/joy/relief overwhelms someone",
+          "use": "悲しみ・喜び・安堵などの強い感情が人を圧倒する。",
+          "example": "Grief overwhelmed her after her father died.",
+          "translation": "父親が亡くなった後、悲しみが彼女を圧倒した。"
         },
         {
-          "pattern": "be overwhelmed by emotion",
+          "pattern": "a surge/wave of emotion overwhelms someone",
           "use": "特定の感情名を挙げず、感情そのものの強さを表す。",
-          "example": "He was overwhelmed by emotion when he saw his daughter on stage.",
-          "translation": "彼は舞台上の娘を見て、感情がこみ上げて圧倒された。"
+          "example": "A wave of emotion overwhelmed him when he saw his daughter on stage.",
+          "translation": "彼は舞台上の娘を見て、感情の波に圧倒された。"
         },
         {
           "pattern": "the beauty/power of + O overwhelms someone",
@@ -105,19 +103,13 @@
           "pattern": "overwhelm the senses",
           "use": "音、におい、味、光などの刺激が強すぎて感覚を圧倒する。",
           "example": "The smoke was so intense that it overwhelmed my senses.",
-          "translation": "煙があまりにも強烈で、私は感覚を圧倒された。"
+          "translation": "煙があまりにも強烈で、私の感覚が圧倒された。"
         },
         {
-          "pattern": "be overwhelmed by a sense of + 名詞",
-          "use": "感謝、無力感、責任感など、ひとまとまりの感覚に圧倒される。",
-          "example": "I was overwhelmed by a sense of gratitude for their help.",
-          "translation": "私は彼らの助けに対する感謝の念で胸がいっぱいになった。"
-        },
-        {
-          "pattern": "be overwhelmed with gratitude/relief",
-          "use": "with の後ろに、圧倒されている感情を置く。",
-          "example": "The patient was overwhelmed with gratitude when the treatment succeeded.",
-          "translation": "治療が成功したとき、その患者は感謝の気持ちでいっぱいになった。"
+          "pattern": "a sense of + 名詞 overwhelms someone",
+          "use": "感謝、無力感、責任感など、ひとまとまりの感覚が人を圧倒する。",
+          "example": "A sense of gratitude overwhelmed me after their help.",
+          "translation": "彼らに助けてもらった後、感謝の念が私を圧倒した。"
         },
         {
           "pattern": "overwhelm someone with kindness/love",
@@ -126,20 +118,20 @@
           "translation": "彼女の友人たちは、療養中の彼女に惜しみない親切を寄せた。"
         },
         {
-          "pattern": "be overwhelmed by the response/support",
-          "use": "予想以上の反応・支援に感動し、言葉を失うほどになる。",
-          "example": "We were overwhelmed by the support from people we had never met.",
-          "translation": "私たちは、会ったこともない人々からの支援に胸を打たれた。"
+          "pattern": "the response/support overwhelms someone",
+          "use": "予想以上の反応・支援が人を感動させ、言葉を失わせるほどになる。",
+          "example": "The support from people we had never met overwhelmed us.",
+          "translation": "会ったこともない人々からの支援に、私たちは胸を打たれた。"
         },
         {
-          "pattern": "feel completely overwhelmed",
-          "use": "感情または状況の強さで、平静に対処できない状態を率直に述べる。",
-          "example": "After the announcement, she felt completely overwhelmed.",
-          "translation": "その発表の後、彼女は完全に圧倒されたように感じた。"
+          "pattern": "completely overwhelm someone",
+          "use": "感情または状況の強さが、人の平静な反応や判断を完全に奪う。",
+          "example": "The unexpected news completely overwhelmed her.",
+          "translation": "予想外の知らせは彼女を完全に圧倒した。"
         }
       ],
       "notes": [
-        "この意味では受動態が非常に多く、I was overwhelmed by the news. のように「ニュースが私に強い影響を与えた」とする。原因には by、圧倒されている感情には with がよく使われるが、感情名では両方が自然な場合もある。overcome も強い感情に負ける意味で使えるが、overwhelm は外部の感情・経験が人に押し寄せる構図を示しやすい。move は感動させることに焦点があり、対処不能なほどの強さは必須ではない。overwhelm someone to do とは通常言わず、行為を表すなら overwhelm someone with emotion や be overwhelmed by the desire to do のようにする。"
+        "この意味では感情・経験・刺激を主語、人や感覚を目的語にする。overcome も強い感情に負ける意味で使えるが、overwhelm は外部の感情・経験が人に押し寄せる構図を示しやすい。move は感動させることに焦点があり、対処不能なほどの強さは必須ではない。受動・状態の be/feel/get overwhelmed は語義5に集約する。overwhelm someone to do とは通常言わず、行為を表すなら overwhelm someone with emotion や be overwhelmed by the desire to do のようにする。"
       ],
       "synonyms": [
         {
@@ -207,30 +199,28 @@
       "title": "【他動詞】（仕事・情報・要求などを）多すぎて人・組織・システムが処理できない状態にする、圧倒する",
       "frequency": 9,
       "register": [
-        "標準的。仕事、教育、医療、IT、行政、顧客対応など幅広い領域で使う。受動態の be overwhelmed with",
-        "by が特に一般的である。"
+        "標準的。仕事、教育、医療、IT、行政、顧客対応など幅広い領域で使う。この語義では、量や流入を主語にする能動文で構造を理解すると分かりやすい。受動・状態表現は語義5で扱う。"
       ],
       "definition": "仕事、情報、質問、依頼、顧客、通信量などの量や勢いが許容量を超え、人・チーム・組織・機械がすべてを処理することを難しくする。必ずしも強い感情を伴わず、「多すぎて手に負えない」という能力・資源上の限界を表す。人が主語になる場合は、相手に情報や質問を一度に多く与える意味になる。",
       "patterns": [
         "work/information/requests + overwhelm + someone＝仕事・情報・要求が人を処理不能にする",
         "overwhelm someone with + 物＝人に物を過剰に与える",
-        "be overwhelmed with/by + 物＝物が多すぎて処理できない",
         "overwhelm a system/server/service with + traffic/data＝通信量・データでシステムを過負荷にする",
-        "be overwhelmed by the number/amount/volume of + 名詞＝数・量・規模に圧倒される",
+        "the amount/volume/number of + O overwhelms + someone/organization＝量・数・規模が人・組織を処理不能にする",
         "not overwhelm the reader with + 情報＝読者に情報を詰め込みすぎない"
       ],
       "collocations": [
         {
-          "pattern": "be overwhelmed with work/tasks",
-          "use": "仕事や作業が多すぎて処理しきれない。",
-          "example": "I am overwhelmed with work this week and need help prioritizing it.",
-          "translation": "今週は仕事が多すぎて手に負えないので、優先順位付けを手伝ってほしい。"
+          "pattern": "work/tasks overwhelm someone",
+          "use": "仕事や作業の量が多すぎて人を処理不能にする。",
+          "example": "This week's workload overwhelms me, so I need help prioritizing it.",
+          "translation": "今週の仕事量は私を圧倒しているので、優先順位付けを手伝ってほしい。"
         },
         {
-          "pattern": "be overwhelmed by requests/demand",
-          "use": "依頼や需要が予想以上に殺到する。",
-          "example": "The clinic was overwhelmed by requests for appointments.",
-          "translation": "その診療所には予約の依頼が殺到し、対応しきれなかった。"
+          "pattern": "requests/demand overwhelm + 組織・サービス",
+          "use": "依頼や需要が予想以上に殺到し、組織・サービスを処理不能にする。",
+          "example": "A surge in appointment requests overwhelmed the clinic.",
+          "translation": "予約依頼の急増がその診療所の対応能力を超えた。"
         },
         {
           "pattern": "overwhelm someone with information/details",
@@ -251,16 +241,16 @@
           "translation": "訪問者の急増がウェブサイトのサーバーを処理能力超過に追い込んだ。"
         },
         {
-          "pattern": "be overwhelmed by the amount/volume of + 名詞",
-          "use": "情報、書類、作業などの総量に対処できないことを示す。",
-          "example": "The team was overwhelmed by the volume of data it had to review.",
-          "translation": "そのチームは確認しなければならないデータ量の多さに圧倒された。"
+          "pattern": "the amount/volume of + 名詞 overwhelms + team/organization",
+          "use": "情報、書類、作業などの総量が処理能力を超えることを示す。",
+          "example": "The volume of data overwhelmed the review team.",
+          "translation": "データ量の多さが確認チームの処理能力を超えた。"
         },
         {
-          "pattern": "be overwhelmed by the number of + 複数名詞",
-          "use": "選択肢、応募、問い合わせなど、個数の多さに対応できない。",
-          "example": "She was overwhelmed by the number of choices on the menu.",
-          "translation": "彼女はメニューの選択肢の多さに途方に暮れた。"
+          "pattern": "the number of + 複数名詞 overwhelms + someone",
+          "use": "選択肢、応募、問い合わせなど、個数の多さが人の処理能力を超える。",
+          "example": "The number of choices on the menu overwhelmed her.",
+          "translation": "メニューの選択肢の多さが彼女を圧倒した。"
         },
         {
           "pattern": "overwhelm resources/services",
@@ -270,7 +260,7 @@
         }
       ],
       "notes": [
-        "この意味の中心は「忙しい」ではなく「処理能力・資源を超える」である。overload は機械・人に過剰な負荷をかける技術的な語、inundate は連絡・依頼などを大量に送りつける硬い語、swamp は処理不能にするという結果を強く示す口語的な語である。overwhelm someone with information は「情報を一度に多く与えすぎる」で、情報の内容が感情的である必要はない。原因には by、過剰に与えられる物や量には with が使われる。overwhelm to someone、overwhelm someone of work とはせず、overwhelm someone with work または be overwhelmed by work とする。"
+        "この意味の中心は「忙しい」ではなく「処理能力・資源を超える」である。overload は機械・人に過剰な負荷をかける技術的な語、inundate は連絡・依頼などを大量に送りつける硬い語、swamp は処理不能にするという結果を強く示す口語的な語である。overwhelm someone with information は「情報を一度に多く与えすぎる」で、情報の内容が感情的である必要はない。量や流入を主語にする能動文では、The workload overwhelmed me. のように直接目的語を置く。受動・状態の be overwhelmed with/by は語義5に集約する。overwhelm to someone、overwhelm someone of work とはせず、overwhelm someone with work とする。"
       ],
       "synonyms": [
         {
@@ -314,7 +304,24 @@
           "translation": "そのキャンペーンはソーシャルメディアに広告を大量に流した。"
         }
       ],
-      "antonyms": []
+      "antonyms": [
+        {
+          "word": "manageable",
+          "definition": "適切な努力や資源があれば処理・対処できる。",
+          "frequency": 7,
+          "difference": "overwhelm が許容量を超えさせるのに対し、負荷や問題が現実的に扱える範囲に収まっていることを表す。",
+          "example": "The workload is manageable if we divide it among three people.",
+          "translation": "3人で分担すれば、その仕事量は処理可能だ。"
+        },
+        {
+          "word": "keep up with + O",
+          "definition": "入ってくる仕事、情報、要求などに遅れず対応する。",
+          "frequency": 8,
+          "difference": "overwhelm が処理を追いつかなくさせるのに対し、keep up with は流入に対応し続ける能力・状態を表す。",
+          "example": "The team expanded so it could keep up with incoming requests.",
+          "translation": "そのチームは入ってくる依頼に対応し続けられるよう、規模を拡大した。"
+        }
+      ]
     },
     {
       "number": 3,
@@ -450,7 +457,7 @@
     {
       "number": 4,
       "title": "【他動詞・文語的】（水・波・洪水などが）～を覆う、のみ込む、水没させる；（比喩的に）押し寄せて包む",
-      "frequency": 5,
+      "frequency": 3,
       "register": [
         "文語的・文学的、または報道・災害描写。一般会話では頻度が低い。物理的な被害を正確に説明する場合は、より具体的な flood や submerge を使うことが多い。"
       ],
