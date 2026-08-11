@@ -47,4 +47,4 @@ python scripts/build_site.py
 
 ## 次段階
 
-Notion APIから完成版ページを取得し、JSON生成・ビルド・GitHubへの反映を自動化する構成へ拡張できます。
+Notion APIから `Status=完了` の最新ページだけを取得し、JSON生成・ビルド・GitHubへの反映を自動化しています。`進行中` のページは、単語を指定した手動同期でも取り込みません。
