@@ -1,0 +1,457 @@
+{
+  "word": "adequate",
+  "slug": "adequate",
+  "ipa": "米: /ˈædɪkwət/（/ˈædɪkwɪt/ も）｜英: /ˈædɪkwət/",
+  "lead": "特定の目的・要求・必要を満たすだけの量、質、能力、設備、情報などがあること。必ずしも余裕がある、理想的である、または高品質であることは含まず、「その目的には足りる」という基準適合を表す。",
+  "updated": "2026-08-11",
+  "notion_url": "https://app.notion.com/p/adequate-3804faa9b77d812aa130ebeff1e7aac1",
+  "pronunciation": [
+    "第1音節に強勢がある。語末の -ate は /eɪt/ ではなく、通常は弱い /ət/（米音では /ɪt/）になる。「アデクエイト」のように語末を強く読まない。",
+    "米英とも基本的な音節構成は共通するが、米語では第2母音を /ɪ/ に近く発音する辞書・話者もいる。"
+  ],
+  "etymology": [
+    "ラテン語 adaequātus「等しくされた、釣り合わされた」に由来する。adaequāre「等しくする、同じ水準にする」が、ad-「〜へ」と aequus「等しい、平らな」から成る。",
+    "必要な基準と量・質が釣り合うという語源上の発想が、現在の「要求を満たすだけの」「目的に足りる」という意味につながっている。",
+    "同語源・関連語には equal「等しい」、equate「同等とみなす、等式化する」、adequacy「十分性・適切さ」がある。adequate は「豊富な」ではなく、基準に届いていることを表す。"
+  ],
+  "formation": [
+    {
+      "term": "adequacy",
+      "description": "名詞「十分性、適切さ」。通常は不可算で、必要な水準を満たしている状態を表す。"
+    },
+    {
+      "term": "adequately",
+      "description": "副詞「十分に、適切に」。adequately prepared「十分な準備ができた」のように、動詞や過去分詞を修飾する。"
+    },
+    {
+      "term": "inadequate",
+      "description": "形容詞「不十分な、基準に達しない」。adequate の直接的な反対形成である。"
+    },
+    {
+      "term": "adequateness",
+      "description": "名詞「十分性、適切さ」。意味は adequacy と重なるが、頻度が低く、通常は adequacy を使う。"
+    }
+  ],
+  "core": [
+    {
+      "label": "必要な基準に量・質・法的な根拠が釣り合い、目的を果たせる状態が中心にある。褒め言葉としては「十分に良い」よりも「最低限は足りる」という含みが出ることがある。",
+      "description": ""
+    },
+    {
+      "label": "必要な目的・要求に釣り合う量や質",
+      "description": "→ 「必要なだけの、十分な、適切な」（語義1）"
+    },
+    {
+      "label": "評価基準に釣り合うが卓越まではしない水準",
+      "description": "→ 「まずまずの、合格点の、可もなく不可もない」（語義2）"
+    },
+    {
+      "label": "法的要件に釣り合う合理的な根拠・水準",
+      "description": "→ 「法律上十分な、合理的に足りる」（語義3）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【形容詞・限定・叙述】必要なだけの、十分な、適切な",
+      "frequency": 8,
+      "register": [
+        "標準的な一般語。会話よりも説明文、ビジネス、教育、行政、技術、学術でやや多く、必要量や基準を客観的に評価するときに使う。"
+      ],
+      "definition": "特定の目的・要求・必要を満たすだけの量、質、能力、設備、情報などがあること。必ずしも余裕がある、理想的である、または高品質であることは含まず、「その目的には足りる」という基準適合を表す。",
+      "patterns": [
+        "adequate 〈名詞〉＝必要量・質を満たす～",
+        "be・seem・prove・remain adequate＝十分である・十分だと分かる・十分であり続ける",
+        "be adequate for 〈目的・用途〉＝～に足りる",
+        "be adequate to 〈動詞原形〉＝～するのに足りる",
+        "be adequate to 〈課題・要求〉＝～に見合う（やや硬い）",
+        "more than・perfectly・barely adequate＝十分以上・十分に・ぎりぎり十分"
+      ],
+      "collocations": [
+        {
+          "pattern": "adequate time to prepare",
+          "use": "準備に必要な時間が確保されていることを表す。",
+          "example": "We need adequate time to prepare the equipment safely.",
+          "translation": "私たちには機器を安全に準備するための十分な時間が必要だ。"
+        },
+        {
+          "pattern": "an adequate supply of 〈物質〉",
+          "use": "必要な量の物質・資源が供給されていることを表す。",
+          "example": "The clinic keeps an adequate supply of clean water.",
+          "translation": "その診療所は十分な量の清潔な水を備えている。"
+        },
+        {
+          "pattern": "adequate resources/funding for 〈計画〉",
+          "use": "計画や活動を実行するのに足りる資源・資金を表す。",
+          "example": "The project cannot succeed without adequate funding.",
+          "translation": "そのプロジェクトは十分な資金なしには成功できない。"
+        },
+        {
+          "pattern": "adequate training for 〈職務〉",
+          "use": "職務を安全・適切に行うための必要な訓練を表す。",
+          "example": "All staff must receive adequate training for the new procedure.",
+          "translation": "全職員が新しい手順について十分な訓練を受けなければならない。"
+        },
+        {
+          "pattern": "adequate protection against 〈危険〉",
+          "use": "危険や損害を防ぐのに足りる保護を表す。",
+          "example": "This coating provides adequate protection against moisture.",
+          "translation": "この塗装は湿気に対して十分な保護を与える。"
+        },
+        {
+          "pattern": "be adequate for 〈目的〉",
+          "use": "特定の目的には量・性能が足りることを述べる。",
+          "example": "The room is adequate for a small meeting.",
+          "translation": "その部屋は小規模な会議には十分だ。"
+        },
+        {
+          "pattern": "be adequate to meet 〈需要・要件〉",
+          "use": "需要や要件を満たすのに足りることを表す。",
+          "example": "The reservoir is adequate to meet demand through the summer.",
+          "translation": "その貯水池は夏の間の需要を満たすのに十分だ。"
+        },
+        {
+          "pattern": "provide adequate support for 〈人・活動〉",
+          "use": "人や活動に必要な支援を与えることを表す。",
+          "example": "The grant provides adequate support for the research team.",
+          "translation": "その助成金は研究チームに十分な支援を与える。"
+        },
+        {
+          "pattern": "an adequate explanation of 〈問題〉",
+          "use": "問題や疑問に答えるだけの説明を表す。",
+          "example": "The report did not give an adequate explanation of the discrepancy.",
+          "translation": "その報告書はその食い違いについて十分な説明をしていなかった。"
+        }
+      ],
+      "notes": [
+        "adequate は enough より硬く、単に量があるというより、目的・基準に照らして足りるかを評価する。for は目的・用途・対象を示し、to do は満たせる行為や機能を示す。adequate to the task のように to の後ろに名詞を置く形もあるが、やや硬い。adequate enough は文法的に作れなくはないものの、十分性の重複で冗長になりやすく、通常は adequate、more than adequate、perfectly adequate などを使う。"
+      ],
+      "synonyms": [
+        {
+          "word": "sufficient",
+          "definition": "特定の必要を満たすのに必要な量・条件がある。",
+          "frequency": 8,
+          "difference": "必要量や条件の充足をやや正確・硬めに述べる。adequate は量だけでなく、目的への適合や質の評価も含みやすい。",
+          "example": "We have sufficient evidence to proceed.",
+          "translation": "先へ進むのに十分な証拠がある。"
+        },
+        {
+          "word": "enough",
+          "definition": "必要なだけの量・程度がある。",
+          "frequency": 10,
+          "difference": "日常会話で最も普通で、adequate よりくだけている。adequate は基準に照らした客観的な評価の響きが強い。",
+          "example": "There is enough water for everyone.",
+          "translation": "全員分の水がある。"
+        },
+        {
+          "word": "suitable",
+          "definition": "目的、条件、人物、場面に合っている。",
+          "frequency": 7,
+          "difference": "適合性に焦点があり、量や性能が十分だという意味は必須ではない。",
+          "example": "This room is suitable for interviews.",
+          "translation": "この部屋は面接に適している。"
+        },
+        {
+          "word": "appropriate",
+          "definition": "状況、目的、規則、相手にふさわしい。",
+          "frequency": 8,
+          "difference": "社会的・状況的な「ふさわしさ」に焦点があり、adequate のような必要量・性能の充足を直接表さない。",
+          "example": "The response was appropriate to the situation.",
+          "translation": "その対応は状況にふさわしかった。"
+        },
+        {
+          "word": "satisfactory",
+          "definition": "要求や基準を満たしていて、受け入れられる。",
+          "frequency": 7,
+          "difference": "評価・検査・業務結果について、adequate より肯定的または公式な合格判定として響くことがある。",
+          "example": "The inspection found the equipment satisfactory.",
+          "translation": "検査ではその設備は満足できるものと判断された。"
+        },
+        {
+          "word": "ample",
+          "definition": "必要量を十分に、しばしば余裕をもって備えている。",
+          "frequency": 6,
+          "difference": "adequate が「足りる」程度を含むのに対し、ample は不足の心配がない豊富さを示す。",
+          "example": "The hotel provides ample space for families.",
+          "translation": "そのホテルは家族連れに十分な、ゆとりある空間を提供している。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "inadequate",
+          "definition": "必要な量・質・能力が基準に達していない。",
+          "frequency": 7,
+          "difference": "adequate の直接的な反対語で、目的を果たすには足りないことを表す。",
+          "example": "The safety measures were inadequate.",
+          "translation": "その安全対策は不十分だった。"
+        },
+        {
+          "word": "insufficient",
+          "definition": "必要な量・程度・証拠などが足りない。",
+          "frequency": 7,
+          "difference": "数量や程度の不足に焦点があり、adequate のような全体的な適合性より狭い。",
+          "example": "The evidence was insufficient to support the claim.",
+          "translation": "その主張を裏付けるには証拠が不十分だった。"
+        },
+        {
+          "word": "deficient",
+          "definition": "必要な成分、能力、品質などが欠けている。",
+          "frequency": 5,
+          "difference": "formalな響きがあり、特定の要素が不足していることを強調する。",
+          "example": "The diet was deficient in iron.",
+          "translation": "その食事は鉄分が不足していた。"
+        },
+        {
+          "word": "lacking",
+          "definition": "必要な特徴、量、質などを欠いている。",
+          "frequency": 8,
+          "difference": "不足している内容を説明しやすい一般語で、基準判定を表す adequate の直接的な反対より広い。",
+          "example": "The proposal was lacking in detail.",
+          "translation": "その提案は詳細さに欠けていた。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【形容詞・限定・叙述】まずまずの、合格点の、可もなく不可もない",
+      "frequency": 7,
+      "register": [
+        "評価、レビュー、職場、教育、接客、日常会話。標準語だが、merely・only・barely と結びつくと低評価が明確になる。"
+      ],
+      "definition": "品質や成果が最低限の基準を満たしているが、特に優れているわけではないという評価。話者が期待していた水準や比較対象を下回る含みを帯びることがあり、人の仕事・演技・サービスなどへの評価では、控えめまたは冷淡な褒め方になる。",
+      "patterns": [
+        "an adequate 〈仕事・成果物〉＝合格点の～",
+        "be merely・only・barely adequate＝単に・かろうじて～",
+        "adequate but not exceptional＝合格点だが卓越しない",
+        "be more than adequate for 〈用途〉＝十分以上である",
+        "be perfectly adequate for 〈用途〉＝実用上は十分である",
+        "less than adequate＝十分とはいえない、基準未満"
+      ],
+      "collocations": [
+        {
+          "pattern": "an adequate job",
+          "use": "最低限の水準は満たす仕事を評価する。",
+          "example": "He did an adequate job, but nothing more.",
+          "translation": "彼は最低限の仕事はしたが、それ以上ではなかった。"
+        },
+        {
+          "pattern": "a merely adequate performance",
+          "use": "合格点だが、特に印象に残らない演技・成果を評価する。",
+          "example": "The team's performance was merely adequate.",
+          "translation": "そのチームの成績は可もなく不可もない程度だった。"
+        },
+        {
+          "pattern": "be barely adequate for 〈用途〉",
+          "use": "目的に対して基準ぎりぎりで足りることを表す。",
+          "example": "The battery is barely adequate for a full day's use.",
+          "translation": "そのバッテリーは一日中使うにはぎりぎり足りる程度だ。"
+        },
+        {
+          "pattern": "an adequate but unremarkable 〈成果物〉",
+          "use": "問題はないが、目立った長所もない成果物を評価する。",
+          "example": "It was an adequate but unremarkable meal.",
+          "translation": "それはまずまずだが、特に印象に残らない食事だった。"
+        },
+        {
+          "pattern": "be more than adequate for 〈用途〉",
+          "use": "必要水準を十分に上回っていると安心させる。",
+          "example": "This laptop is more than adequate for office work.",
+          "translation": "このノートパソコンは事務作業には十分すぎるほどだ。"
+        },
+        {
+          "pattern": "be perfectly adequate for everyday use",
+          "use": "豪華ではなくても日常用途には問題ないと述べる。",
+          "example": "The camera is perfectly adequate for everyday use.",
+          "translation": "そのカメラは日常使いには十分だ。"
+        },
+        {
+          "pattern": "less than adequate",
+          "use": "基準に届かず、十分とはいえないと批判する。",
+          "example": "The explanation was less than adequate.",
+          "translation": "その説明は十分とはいえなかった。"
+        }
+      ],
+      "notes": [
+        "Your work is adequate. のように人の成果を直接評価すると、「合格点だが、もっと良くできる」という冷たい響きになり得る。一方、This room is adequate for our needs. は用途に足りるという中立的な意味にもなる。merely・only・barely は低評価を強め、more than・perfectly は安心・肯定へ寄せるため、adequate だけでなく程度副詞との組み合わせで含意が変わる。"
+      ],
+      "synonyms": [
+        {
+          "word": "satisfactory",
+          "definition": "要求された水準を満たしていて、受け入れられる。",
+          "frequency": 7,
+          "difference": "adequate と重なるが、評価結果としては「満足できる」という肯定がやや強く、公式な検査・判定にも使いやすい。",
+          "example": "The work was satisfactory overall.",
+          "translation": "その仕事は全体として満足できるものだった。"
+        },
+        {
+          "word": "acceptable",
+          "definition": "受け入れたり許可したりできる水準にある。",
+          "frequency": 8,
+          "difference": "品質が高いことより、規則・相手・状況から許容されることに焦点がある。",
+          "example": "The level of noise was acceptable.",
+          "translation": "騒音の程度は許容範囲だった。"
+        },
+        {
+          "word": "passable",
+          "definition": "良くはないが、何とか通用する。",
+          "frequency": 5,
+          "difference": "adequate より「ぎりぎり合格」の低さとくだけた評価が強い。",
+          "example": "His French is passable.",
+          "translation": "彼のフランス語は何とか通じる程度だ。"
+        },
+        {
+          "word": "decent",
+          "definition": "かなり良い、または恥ずかしくない水準の。",
+          "frequency": 8,
+          "difference": "adequate より温かく肯定的で、「思ったより悪くない」という日常的な評価になりやすい。",
+          "example": "We found a decent hotel near the station.",
+          "translation": "私たちは駅の近くにまずまず良いホテルを見つけた。"
+        },
+        {
+          "word": "mediocre",
+          "definition": "平凡で、特に良いところがない。",
+          "frequency": 6,
+          "difference": "adequate は基準を満たすだけなら中立にも使えるが、mediocre は期待外れという否定的評価が強い。",
+          "example": "The restaurant's food was mediocre.",
+          "translation": "そのレストランの料理は平凡だった。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "inadequate",
+          "definition": "求められる水準を満たさず、能力・品質・結果が不十分な。",
+          "frequency": 7,
+          "difference": "adequate の「合格点」に対し、inadequate は不合格・基準未満を表す。",
+          "example": "His preparation was inadequate.",
+          "translation": "彼の準備は不十分だった。"
+        },
+        {
+          "word": "substandard",
+          "definition": "通常または要求された標準より低い。",
+          "frequency": 5,
+          "difference": "客観的な規格・品質基準を下回ることを強く示し、adequate より明確に否定的である。",
+          "example": "The building was condemned for substandard wiring.",
+          "translation": "その建物は配線が基準未満だったため使用禁止になった。"
+        },
+        {
+          "word": "excellent",
+          "definition": "非常に優れていて、高い評価に値する。",
+          "frequency": 9,
+          "difference": "adequate の最低限の合格点とは反対に、高い品質・成果を明示的に称賛する。",
+          "example": "She received excellent feedback on her presentation.",
+          "translation": "彼女はプレゼンテーションについて非常に良い評価を受けた。"
+        },
+        {
+          "word": "outstanding",
+          "definition": "他と比べても際立って優れている。",
+          "frequency": 7,
+          "difference": "adequate が基準への到達を述べるのに対し、outstanding は基準を大きく超える卓越性を表す。",
+          "example": "The researcher made an outstanding contribution.",
+          "translation": "その研究者は際立った貢献をした。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【形容詞・法律／法務】法律上十分な、合理的に足りる",
+      "frequency": 3,
+      "register": [
+        "法律、裁判、行政、契約の正式な文書。一般会話では通常、単に enough、sufficient、reasonable などを使う。法域や手続によって要求される基準は異なるため、一般的な法律判断として断定しない。"
+      ],
+      "definition": "法律や手続の文脈で、訴え・判断・逮捕・契約などを法的に進めたり有効にしたりするのに、法律上および合理性の基準から見て足りること。adequate grounds は、法的手続を始める根拠としては十分という意味であり、最終的に主張が認められることまで保証しない。",
+      "patterns": [
+        "adequate grounds for 〈訴え・逮捕・判断〉＝法的に十分な根拠",
+        "adequate notice to 〈当事者〉＝手続上十分な通知",
+        "adequate consideration for 〈財産・契約〉＝法的に十分な対価",
+        "an adequate legal remedy for 〈損害〉＝十分な法的救済",
+        "be legally adequate under 〈法令・手続〉＝法令・手続上十分である"
+      ],
+      "collocations": [
+        {
+          "pattern": "adequate grounds for a lawsuit",
+          "use": "訴訟を開始する法的根拠が十分であることを表す。",
+          "example": "The judge found no adequate grounds for a lawsuit.",
+          "translation": "裁判官は訴訟を起こすのに十分な根拠を認めなかった。"
+        },
+        {
+          "pattern": "adequate grounds for arrest",
+          "use": "逮捕を法的に正当化する根拠が十分であることを表す。",
+          "example": "The officers needed adequate grounds for arrest before detaining him.",
+          "translation": "警官は彼を拘束する前に、逮捕に十分な根拠を必要とした。"
+        },
+        {
+          "pattern": "provide adequate notice to the other party",
+          "use": "手続上必要な内容と期間を満たす通知を相手方に行う。",
+          "example": "The landlord failed to provide adequate notice to the tenant.",
+          "translation": "大家は借主に十分な通知を行わなかった。"
+        },
+        {
+          "pattern": "adequate consideration in a contract",
+          "use": "契約上、対価として法的に十分な価値があることを表す。",
+          "example": "The transfer was challenged for lack of adequate consideration.",
+          "translation": "その譲渡は十分な対価を欠いているとして争われた。"
+        },
+        {
+          "pattern": "an adequate legal remedy",
+          "use": "権利侵害や損害に対して、法律上利用できる十分な救済手段を表す。",
+          "example": "The court considered whether damages were an adequate legal remedy.",
+          "translation": "裁判所は損害賠償が十分な法的救済になるかを検討した。"
+        },
+        {
+          "pattern": "be legally adequate under 〈法令〉",
+          "use": "特定の法令や手続の基準を満たしていることを述べる。",
+          "example": "The disclosure was legally adequate under the applicable statute.",
+          "translation": "その開示は適用される法令の下で法的に十分だった。"
+        }
+      ],
+      "notes": [
+        "法律義の adequate は、日常語の「まあ十分」ではなく、法令・判例・手続が要求する合理的な水準を満たすという専門的な評価である。adequate grounds、adequate notice、adequate consideration のように、何に対して十分なのかを後続の名詞や前置詞句で明示する。具体的な法的効果や必要基準は法域によって異なるため、adequate だけから「合法」「勝訴できる」と判断してはならない。"
+      ],
+      "synonyms": [
+        {
+          "word": "legally sufficient",
+          "definition": "法律上要求される量・質・根拠を満たしている。",
+          "frequency": 5,
+          "difference": "adequate の法律義をより直接的に言い換える正式表現で、法的基準への充足に焦点がある。",
+          "example": "The evidence was legally sufficient to support the charge.",
+          "translation": "その証拠は起訴内容を裏付けるのに法的に十分だった。"
+        },
+        {
+          "word": "sufficient",
+          "definition": "必要な条件や根拠を満たしている。",
+          "frequency": 8,
+          "difference": "法律文書では adequate より広く使える一般的な正式語で、法的な合理性という含みは文脈から補われる。",
+          "example": "The evidence was sufficient for the court to proceed.",
+          "translation": "その証拠は裁判所が手続を進めるのに十分だった。"
+        },
+        {
+          "word": "reasonable",
+          "definition": "道理にかない、合理的で、妥当な。",
+          "frequency": 10,
+          "difference": "根拠や判断の合理性に焦点があり、法的要件を量・手続の面で満たすという adequate の意味を必ずしも含まない。",
+          "example": "The court required a reasonable explanation for the delay.",
+          "translation": "裁判所はその遅延について合理的な説明を求めた。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "legally insufficient",
+          "definition": "法律上要求される根拠・証拠・手続が足りない。",
+          "frequency": 5,
+          "difference": "adequate の法律上の十分性に対する直接的な反対表現である。",
+          "example": "The complaint was legally insufficient.",
+          "translation": "その訴状は法的に不十分だった。"
+        },
+        {
+          "word": "inadequate",
+          "definition": "法的な目的や手続に必要な水準を満たさない。",
+          "frequency": 7,
+          "difference": "一般語としても使えるが、法律文脈では通知、救済、根拠などの不足を表す。",
+          "example": "The notice was inadequate under the statute.",
+          "translation": "その通知は法令の下では不十分だった。"
+        }
+      ]
+    }
+  ]
+}
