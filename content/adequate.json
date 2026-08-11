@@ -7,7 +7,7 @@
   "notion_url": "https://app.notion.com/p/adequate-3804faa9b77d812aa130ebeff1e7aac1",
   "pronunciation": [
     "第1音節に強勢がある。語末の -ate は /eɪt/ ではなく、通常は弱い /ət/（米音では /ɪt/）になる。「アデクエイト」のように語末を強く読まない。",
-    "米英とも基本的な音節構成は共通するが、米語では第2母音を /ɪ/ に近く発音する辞書・話者もいる。"
+    "米英とも第2母音の /ɪ/ は共通し、米語の別発音では第3母音（語末の /ə/）が /ɪ/ に近くなることがある。"
   ],
   "etymology": [
     "ラテン語 adaequātus「等しくされた、釣り合わされた」に由来する。adaequāre「等しくする、同じ水準にする」が、ad-「〜へ」と aequus「等しい、平らな」から成る。",
@@ -66,7 +66,7 @@
         "be adequate for 〈目的・用途〉＝～に足りる",
         "be adequate to 〈動詞原形〉＝～するのに足りる",
         "be adequate to 〈課題・要求〉＝～に見合う（やや硬い）",
-        "more than・perfectly・barely adequate＝十分以上・十分に・ぎりぎり十分"
+        "程度副詞を伴う adequate for 〈目的・用途〉＝必要水準との距離を示す"
       ],
       "collocations": [
         {
@@ -106,6 +106,24 @@
           "translation": "その部屋は小規模な会議には十分だ。"
         },
         {
+          "pattern": "be more than adequate for 〈用途〉",
+          "use": "必要水準を十分に上回り、物・設備などが用途に余裕をもって足りることを表す。",
+          "example": "This laptop is more than adequate for office work.",
+          "translation": "このノートパソコンは事務作業には十分すぎるほどだ。"
+        },
+        {
+          "pattern": "be perfectly adequate for 〈用途〉",
+          "use": "特別に高性能でなくても、特定の用途には問題なく足りることを表す。",
+          "example": "The camera is perfectly adequate for everyday use.",
+          "translation": "そのカメラは日常使いには十分だ。"
+        },
+        {
+          "pattern": "be barely adequate for 〈用途〉",
+          "use": "物・設備などが特定の用途に基準ぎりぎりで足りることを表す。",
+          "example": "The battery is barely adequate for a full day's use.",
+          "translation": "そのバッテリーは一日中使うにはぎりぎり足りる程度だ。"
+        },
+        {
           "pattern": "be adequate to meet 〈需要・要件〉",
           "use": "需要や要件を満たすのに足りることを表す。",
           "example": "The reservoir is adequate to meet demand through the summer.",
@@ -125,7 +143,7 @@
         }
       ],
       "notes": [
-        "adequate は enough より硬く、単に量があるというより、目的・基準に照らして足りるかを評価する。for は目的・用途・対象を示し、to do は満たせる行為や機能を示す。adequate to the task のように to の後ろに名詞を置く形もあるが、やや硬い。adequate enough は文法的に作れなくはないものの、十分性の重複で冗長になりやすく、通常は adequate、more than adequate、perfectly adequate などを使う。"
+        "adequate は enough より硬く、単に量があるというより、目的・基準に照らして足りるかを評価する。for は目的・用途・対象を示し、to do は満たせる行為や機能を示す。adequate to the task のように to の後ろに名詞を置く形もあるが、やや硬い。adequate enough は文法的に作れなくはないものの、十分性の重複で冗長になりやすく、通常は adequate だけで足りる。物・設備・資源などが特定の用途に足りるという客観的な判断は語義1で扱い、程度副詞を伴う具体的な型はこの語義のコロケーションで示す。"
       ],
       "synonyms": [
         {
@@ -217,15 +235,14 @@
       "title": "【形容詞・限定・叙述】まずまずの、合格点の、可もなく不可もない",
       "frequency": 7,
       "register": [
-        "評価、レビュー、職場、教育、接客、日常会話。標準語だが、merely・only・barely と結びつくと低評価が明確になる。"
+        "評価、レビュー、職場、教育、接客、日常会話。標準語だが、程度副詞と結びつくと低評価が明確になる。"
       ],
-      "definition": "品質や成果が最低限の基準を満たしているが、特に優れているわけではないという評価。話者が期待していた水準や比較対象を下回る含みを帯びることがあり、人の仕事・演技・サービスなどへの評価では、控えめまたは冷淡な褒め方になる。",
+      "definition": "人の仕事・成果物・演技・サービスなどが最低限の基準を満たしているが、特に優れているわけではないという評価。話者が期待していた水準や比較対象を下回る含みを帯びることがあり、控えめまたは冷淡な褒め方になる。",
       "patterns": [
-        "an adequate 〈仕事・成果物〉＝合格点の～",
-        "be merely・only・barely adequate＝単に・かろうじて～",
+        "an adequate 〈仕事・成果物・演技〉＝合格点の～",
+        "be adequate（人の仕事・成果・演技について）＝合格点である",
+        "程度副詞を伴う adequate＝評価の強弱を示す",
         "adequate but not exceptional＝合格点だが卓越しない",
-        "be more than adequate for 〈用途〉＝十分以上である",
-        "be perfectly adequate for 〈用途〉＝実用上は十分である",
         "less than adequate＝十分とはいえない、基準未満"
       ],
       "collocations": [
@@ -242,28 +259,22 @@
           "translation": "そのチームの成績は可もなく不可もない程度だった。"
         },
         {
-          "pattern": "be barely adequate for 〈用途〉",
-          "use": "目的に対して基準ぎりぎりで足りることを表す。",
-          "example": "The battery is barely adequate for a full day's use.",
-          "translation": "そのバッテリーは一日中使うにはぎりぎり足りる程度だ。"
+          "pattern": "a barely adequate performance",
+          "use": "人の演技・成果が基準ぎりぎりで、特に優れてはいないと評価する。",
+          "example": "Her performance was barely adequate.",
+          "translation": "彼女の演技はぎりぎり合格という程度だった。"
         },
         {
-          "pattern": "an adequate but unremarkable 〈成果物〉",
+          "pattern": "an adequate but unremarkable 〈仕事・成果物・演技〉",
           "use": "問題はないが、目立った長所もない成果物を評価する。",
           "example": "It was an adequate but unremarkable meal.",
           "translation": "それはまずまずだが、特に印象に残らない食事だった。"
         },
         {
-          "pattern": "be more than adequate for 〈用途〉",
-          "use": "必要水準を十分に上回っていると安心させる。",
-          "example": "This laptop is more than adequate for office work.",
-          "translation": "このノートパソコンは事務作業には十分すぎるほどだ。"
-        },
-        {
-          "pattern": "be perfectly adequate for everyday use",
-          "use": "豪華ではなくても日常用途には問題ないと述べる。",
-          "example": "The camera is perfectly adequate for everyday use.",
-          "translation": "そのカメラは日常使いには十分だ。"
+          "pattern": "be only adequate",
+          "use": "人の仕事・説明・成果などが合格点にとどまると評価する。",
+          "example": "The explanation was only adequate.",
+          "translation": "その説明は合格点にとどまった。"
         },
         {
           "pattern": "less than adequate",
@@ -273,7 +284,7 @@
         }
       ],
       "notes": [
-        "Your work is adequate. のように人の成果を直接評価すると、「合格点だが、もっと良くできる」という冷たい響きになり得る。一方、This room is adequate for our needs. は用途に足りるという中立的な意味にもなる。merely・only・barely は低評価を強め、more than・perfectly は安心・肯定へ寄せるため、adequate だけでなく程度副詞との組み合わせで含意が変わる。"
+        "人の仕事や演技に対して Your work is adequate. と言うと、「合格点だが、もっと良くできる」という冷たい響きになり得る。人の成果については、単独の adequate でも高い称賛にはならず、文脈や評価対象への期待が含意を決める。物・設備の用途適合は語義1で扱う。"
       ],
       "synonyms": [
         {
