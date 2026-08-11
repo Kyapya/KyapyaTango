@@ -157,6 +157,15 @@ def is_dictionary_page(
     return tag_value in [item.get("name", "") for item in prop.get("multi_select", [])]
 
 
+def is_complete_page(
+    page: dict[str, Any], status_property: str, complete_status: str
+) -> bool:
+    prop = page.get("properties", {}).get(status_property)
+    if not prop:
+        return False
+    return property_text(prop).strip() == complete_status
+
+
 def normalize_cutoff(value: str) -> str:
     value = value.strip()
     if not value:
@@ -194,33 +203,49 @@ def select_pages(
     title_property: str,
     tag_property: str,
     tag_value: str,
+    status_property: str,
+    complete_status: str,
     requested: set[str],
     minimum_last_edited_time: str,
-) -> tuple[list[dict[str, Any]], int]:
+) -> tuple[list[dict[str, Any]], int, int]:
     tagged = [
         page
         for page in pages
         if is_dictionary_page(page, tag_property, tag_value)
     ]
 
-    skipped_legacy = 0
+    candidates = newest_per_word(tagged, title_property)
     if requested:
-        selected = newest_per_word(tagged, title_property)
-        selected = [
+        candidates = [
             page
-            for page in selected
+            for page in candidates
             if get_word(page, title_property).casefold() in requested
         ]
+
+    incomplete = [
+        page
+        for page in candidates
+        if not is_complete_page(page, status_property, complete_status)
+    ]
+    completed = [
+        page
+        for page in candidates
+        if is_complete_page(page, status_property, complete_status)
+    ]
+
+    skipped_legacy = 0
+    if requested:
+        selected = completed
     else:
         recent = [
             page
-            for page in tagged
+            for page in completed
             if is_recent_page(page, minimum_last_edited_time)
         ]
-        skipped_legacy = len(tagged) - len(recent)
-        selected = newest_per_word(recent, title_property)
+        skipped_legacy = len(completed) - len(recent)
+        selected = recent
 
-    return selected, skipped_legacy
+    return selected, skipped_legacy, len(incomplete)
 
 
 def load_json(path: Path) -> dict[str, Any]:
@@ -274,20 +299,30 @@ def main() -> int:
     title_property = config.get("title_property", "ALL")
     tag_property = config.get("tag_property", "タグ")
     tag_value = config.get("tag_value", "英単語")
+    status_property = config.get("status_property", "Status")
+    complete_status = config.get("complete_status", "完了")
     minimum_last_edited_time = config.get("minimum_last_edited_time", "")
     requested = {word.casefold() for word in args.word}
 
     client = NotionClient(token)
     data_source_id = client.resolve_data_source(database_id, data_source_id)
     all_pages = client.query_all_pages(data_source_id)
-    pages, skipped_legacy = select_pages(
+    pages, skipped_legacy, skipped_incomplete = select_pages(
         all_pages,
         title_property=title_property,
         tag_property=tag_property,
         tag_value=tag_value,
+        status_property=status_property,
+        complete_status=complete_status,
         requested=requested,
         minimum_last_edited_time=minimum_last_edited_time,
     )
+
+    if skipped_incomplete:
+        print(
+            f"Skipped {skipped_incomplete} latest page(s) whose "
+            f"{status_property} is not {complete_status}"
+        )
 
     if skipped_legacy:
         print(
