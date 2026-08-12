@@ -1,36 +1,29 @@
 {
   "word": "approximately",
   "slug": "approximately",
-  "ipa": "米: /əˈprɑːksəmətli/｜英: /əˈprɒksɪmətli/",
+  "ipa": "米: /əˈprɑːksəmətli/｜英: /əˈprɒksɪmətli/。主強勢は第2音節にある。音節に分けると、米音は ə-ˈprɑːk-sə-mət-li、英音は ə-ˈprɒk-sɪ-mət-li となる。",
   "lead": "約、およそ、だいたい",
   "updated": "2026-08-12",
   "notion_url": "https://app.notion.com/p/approximately-3b24faa9b77d813bbb76cd6242fb455e",
   "pronunciation": [
-    "音節は米 ə-ˈprɑːk-sə-mət-li、英 ə-ˈprɒk-sɪ-mət-li と分けられる。主強勢はどちらも第2音節にあり、米英の差は第2音節の母音（米 /ɑː/・英 /ɒ/）と第3音節の母音（米 /ə/・英 /ɪ/）である。語頭の /ə/ と語末の /li/ は弱く発音される。",
-    "語末の -ly は /li/ と発音される。approximate は、形容詞では /əˈprɑːksəmət/、動詞では /əˈprɑːksəmeɪt/ と語末が異なる。approximately は副詞であり、approximate（動詞）のように語末を /eɪt/ と発音しない。"
+    "米英で異なるのは、第2音節の母音が米 /ɑː/・英 /ɒ/ であることと、第3音節の母音が米 /ə/・英 /ɪ/ であることの2点である。第3音節の差を落として「主強勢の母音だけが違う」と説明しない。"
   ],
   "etymology": [
-    "approximately は approximate「おおよその、近似の」に副詞接尾辞 -ly が付いた語である。approximate はラテン語 approximare「近づく」に由来し、ad-「〜へ」と proximus「最も近い」に関係する。厳密な値へ近づいているが一致していない、という意味核が現在の「およそ・近似的に」につながる。",
-    "approximation（名詞）— 「概算、近似、近似値」。数値や計算結果だけでなく、完全な一致に近づける行為・結果にも使う。",
-    "proximity（名詞）— 「近接、近いこと」。空間・時間・関係の近さを表す。",
-    "proximate（形容詞）— 「最も近い、直接の」。proximate cause（近因）のような専門的な結合で使われる。"
+    "approximately は approximate に副詞語尾 -ly が付いた語で、approximate はラテン語 approximātus「近づけられた」に由来する。proximus「最も近い」に ad-「〜へ」に当たる要素が加わり、「近くへ寄せる」という発想を持つ。",
+    "approximate は「厳密には一致しないが近い」、approximately はその近さを数値・時刻・数量などについて示す。approximation「近似、概算」、proximity「近接」も同じ語源の学習語である。"
   ],
   "formation": [
     {
-      "term": "approximate（形容詞）—",
-      "description": "「おおよその、近似の」。approximately と違い、名詞を修飾する。"
+      "term": "approximate",
+      "description": "形容詞「おおよその、近似した」と動詞「近似する、概算する」。形容詞は /əˈprɑːksəmət/（米）・/əˈprɒksɪmət/（英）、動詞は /əˈprɑːksəmeɪt/（米）・/əˈprɒksɪmeɪt/（英）で、動詞の語尾は /eɪt/ になる。"
     },
     {
-      "term": "approximate（動詞）—",
-      "description": "「〜に近い、〜を概算する・近似する」。形容詞用法とは発音と構文が異なる。"
+      "term": "approximation",
+      "description": "名詞「近似、概算、近似値」。"
     },
     {
-      "term": "approximation（名詞）—",
-      "description": "「概算、近似、近似値」。approximate から派生した名詞である。"
-    },
-    {
-      "term": "approx.（略記）—",
-      "description": "approximate または approximately の書き言葉の略。表、図、注記などで使うが、本文では approximately と綴る方が明確である。"
+      "term": "proximity",
+      "description": "名詞「近接、近いこと」。綴りは異なるが、近さに関わる同語源語である。"
     }
   ],
   "core": [],
@@ -41,150 +34,143 @@
       "title": "【副詞】約、およそ、ほぼ、近似的に",
       "frequency": 8,
       "register": [
-        "標準的な副詞だが、about や around よりやや文章語的である。報道、ビジネス、行政、学術、技術説明、統計・報告書で特によく使われる。日常会話では about や around の方が短く自然なことが多い。"
+        "標準的で中立。説明文、ニュース、統計、技術・学術文書、ビジネスで特によく使う。会話では about、around、roughly のほうが自然なことが多い。"
       ],
-      "definition": "数、数量、金額、時刻、年代、期間、距離、寸法、割合、倍率、測定値、計算結果などが、示した値に近いものの厳密には一致しないことを表す。値は丸めたものや推定値であることが多く、示した値より大きい場合にも小さい場合にも使える。数値以外では、二つの値・大きさ・状態などが厳密には同じでないが近いことや、動作が対象を近似的に表すことも示す。",
+      "definition": "数値、数量、時刻、距離、割合、倍率などが正確な値ではなく、基準値の近くにあることを示す。厳密な測定・計算結果ではないことを明示する語で、基準値より必ず小さいことや大きいことは含まない。数値以外でも approximately equal、approximately the same のように、完全一致ではない近似的な対応を表せる。",
       "patterns": [
-        "approximately + 〈数値・数量〉＝示した数・量が概数である",
-        "V + approximately + 〈数値・数量〉＝費用・時間・重量などを概算で示す",
-        "at approximately 〈時刻・日付・年代〉＝時点をおおよそ示す",
-        "approximately + 〈分数・割合・倍率〉＝割合・比率・倍率を概算で示す",
-        "approximately equal/equivalent to 〈値・対象〉＝厳密ではないが近似的に等しい",
-        "approximately the same as 〈対象〉＝厳密には同じでないがほぼ同じである",
-        "approximately represent/describe/model/reproduce + 〈O〉＝対象・関係・結果を近似的に表現する"
+        "approximately 〈数値・数量・時間〉",
+        "at approximately 〈時刻〉",
+        "approximately 〈倍数・割合〉",
+        "be approximately 〈数値〉",
+        "approximately equal to 〈値〉",
+        "approximately the same as 〈対象〉",
+        "approximately as many・much・long as 〈比較対象〉。通常は近似させる数値の直前に置く。"
       ],
       "collocations": [
         {
-          "pattern": "approximately + 〈数値・数量〉",
-          "use": "人数、個数、金額、重量などを厳密値ではなく概数として示す。",
-          "example": "Approximately 1,200 people attended the outdoor concert.",
-          "translation": "その野外コンサートには約1,200人が参加した。"
+          "pattern": "approximately 100 people",
+          "use": "人数を正確でない概数として示す。",
+          "example": "Approximately 100 people attended the public meeting.",
+          "translation": "約100人がその公開会議に出席した。"
         },
         {
-          "pattern": "at approximately 〈時刻・年代〉",
-          "use": "出来事の時刻や年代を、示した時点の前後を含む概算として示す。",
-          "example": "The meeting began at approximately 9:00 a.m.",
-          "translation": "会議は午前9時ごろに始まった。"
+          "pattern": "at approximately 6 p.m.",
+          "use": "出来事のおおよその時刻を示す。",
+          "example": "The train arrived at approximately 6 p.m.",
+          "translation": "その列車は午後6時ごろに到着した。"
         },
         {
-          "pattern": "approximately + 〈測定値〉 + long/wide/high",
-          "use": "長さ、幅、高さなどの寸法を概数として示す。",
-          "example": "The bridge is approximately two kilometers long.",
-          "translation": "その橋は全長約2キロメートルである。"
+          "pattern": "approximately 20 percent",
+          "use": "割合・比率のおおよその値を示す。",
+          "example": "Approximately 20 percent of the budget is spent on training.",
+          "translation": "予算のおよそ20％が研修に使われている。"
         },
         {
-          "pattern": "approximately + 〈割合・分数〉",
-          "use": "集団に占める割合や全体の一部を、丸めた値または推定値として示す。",
-          "example": "Approximately one-third of the applicants were offered interviews.",
-          "translation": "応募者のおよそ3分の1に面接の案内が送られた。"
+          "pattern": "approximately twice as large/long",
+          "use": "大きさ・長さなどが約2倍であることを示す。",
+          "example": "The new battery is approximately twice as large as the old one.",
+          "translation": "新しいバッテリーは古いものの約2倍の大きさだ。"
         },
         {
-          "pattern": "approximately twice/three times as 〈形容詞・副詞〉",
-          "use": "大きさ、長さ、頻度、時間などが何倍程度であるかを示す。",
-          "example": "The new battery lasts approximately twice as long as the old one.",
-          "translation": "新しい電池は古いものの約2倍長く持つ。"
-        },
-        {
-          "pattern": "approximately equal/equivalent to 〈値・対象〉",
-          "use": "数値、換算値、効果などが厳密には同一でないものの、実用上近いことを示す。",
-          "example": "The two estimates are approximately equal in value.",
-          "translation": "その二つの見積もりは金額的にほぼ等しい。"
+          "pattern": "be approximately equal to 〈値〉",
+          "use": "数値が厳密には同じでないが、近似的に等しいことを示す。",
+          "example": "One mile is approximately equal to 1.6 kilometers.",
+          "translation": "1マイルは約1.6キロメートルに等しい。"
         },
         {
           "pattern": "approximately the same as 〈対象〉",
-          "use": "数量、程度、規模、状態などがほぼ同じであることを示す。",
-          "example": "The total cost was approximately the same as last year's.",
-          "translation": "総費用は昨年のものとほぼ同じだった。"
+          "use": "完全一致ではないが、ほぼ同じだと述べる。",
+          "example": "The repair cost was approximately the same as the original estimate.",
+          "translation": "修理費は当初の見積もりとほぼ同じだった。"
         },
         {
-          "pattern": "approximately represent/describe/model + 〈O〉",
-          "use": "科学・技術的な関係、形状、傾向、観測結果などを近似的に表現する。",
-          "example": "This curve approximately represents the observed trend.",
-          "translation": "この曲線は観測された傾向を近似的に表している。"
+          "pattern": "approximately as many/much as 〈比較対象〉",
+          "use": "数量・量が比較対象とほぼ同じだと表す。",
+          "example": "The second study included approximately as many participants as the first.",
+          "translation": "2つ目の研究には1つ目とほぼ同数の参加者が含まれていた。"
+        },
+        {
+          "pattern": "an approximately 〈数量〉-word statement",
+          "use": "近似値を含む表現や記述を説明する。",
+          "example": "The report gives an approximately 10 percent estimate of the reduction.",
+          "translation": "その報告書は削減率をおよそ10％と見積もっている。"
+        },
+        {
+          "pattern": "approximately 〈期間〉 later",
+          "use": "経過時間をおおよそ示す。",
+          "example": "The symptoms disappeared approximately two weeks later.",
+          "translation": "症状は約2週間後に消えた。"
         }
       ],
       "notes": [
-        "数値・数量を修飾する場合は通常その直前に置く。Approximately 200 guests attended. のように主語全体の前に置くことも、The trip takes approximately two hours. のように動詞の後ろの数量表現の前に置くこともできる。時刻を前置詞句で示す場合は at approximately 8:00 の語順が自然である。",
-        "approximately 100 は「100を中心とする近い値」であり、文脈によって100未満にも100超にもなり得る。nearly/almost 100 は、多くの文脈で「100にはまだ達していないが近い」という方向を含むため、完全な同義語ではない。",
-        "許容されるずれの幅は語そのものでは決まらない。approximately 10 seconds と approximately 10 years では、場面、測定方法、求められる精度によって意味する範囲が変わる。科学・技術文書では、必要に応じて誤差範囲や有効数字も示す。",
-        "approximately about 50、approximately around 50、roughly approximately 50 のように概算表現を重ねるのは通常避け、どれか一つを選ぶ。",
-        "名詞を修飾する形容詞は approximate であり、副詞 approximately ではない。an approximate cost は正しいが、an approximately cost は誤りである。反対に「費用は約500ドルだ」は The cost is approximately \\$500. とする。",
-        "approx. は主に表、図、注記、予定表などで使う略記で、通常は発音せず、正式な本文では approximately と綴る方が読み手に明確である。"
+        "approximately は通常、近似させる数値の前に置く。時刻では at approximately 7:30 のように前置詞句全体の中で使う。about・around より書き言葉・客観的な響きがあり、roughly は「大まかに」という粗さをやや強く示す。nearly・almost は「基準値に達していない」方向を含みやすいが、approximately は基準値の上下を中立に残す。approximately 100 は「100未満」とは限らず、100を中心とする概数である。"
       ],
       "synonyms": [
         {
           "word": "about",
-          "definition": "数・量・時刻などが示した値の近くであることを表す。",
+          "definition": "数値・数量・時刻などのおよその値を示す。",
           "frequency": 10,
-          "difference": "approximately より会話的で短く、日常会話で最も自然な概算表現になりやすい。特別に厳密な文章語の響きを加えない。",
-          "example": "The repair should take about an hour.",
-          "translation": "修理には1時間ほどかかるはずだ。"
+          "difference": "会話で最も普通で、approximately よりくだけている。approximately は報告・統計・説明で客観的に見せやすい。",
+          "example": "About 50 students joined the workshop.",
+          "translation": "約50人の学生がその講習会に参加した。"
         },
         {
           "word": "around",
-          "definition": "数・量・時刻などがおおよそ示した値であることを表す。",
-          "frequency": 9,
-          "difference": "概数の意味では about に近く、approximately より会話的である。場所の「周囲に」など別の意味も多いため、数量以外では文脈に注意する。",
-          "example": "We expect around thirty applications.",
-          "translation": "応募は30件ほどを見込んでいる。"
+          "definition": "数値・時刻・数量などの近くを示す。",
+          "frequency": 10,
+          "difference": "about と同様に口語的で、時刻や概数に自然。approximately より柔らかい。",
+          "example": "The package should arrive around noon.",
+          "translation": "荷物は正午ごろ届くはずだ。"
         },
         {
           "word": "roughly",
-          "definition": "細かな正確さを求めず、大まかに示すことを表す。",
+          "definition": "正確ではなく、大まかな数値・割合・対応を示す。",
           "frequency": 8,
-          "difference": "approximately より「粗い見積もり」や「大まかな近似」という含みが出やすい。数値以外にも形・位置・関係の大まかな一致に使える。",
-          "example": "The renovation will cost roughly \\$20,000.",
-          "translation": "改修費は大まかに2万ドルほどになる。"
+          "difference": "approximately より概算の粗さや細部を省いた感じが強い。",
+          "example": "The project will cost roughly two million dollars.",
+          "translation": "そのプロジェクトにはおよそ200万ドルかかる。"
         },
         {
           "word": "nearly",
-          "definition": "ある数・量・状態に近いが、通常はまだその基準に達していないことを表す。",
+          "definition": "数値・程度が基準に非常に近いが、通常はまだ達していないことを示す。",
           "frequency": 9,
-          "difference": "approximately が基準値の上下どちらにも使えるのに対し、nearly は多くの文脈で基準値未満の方向を示す。",
-          "example": "Nearly a hundred tickets had been sold by noon.",
-          "translation": "正午までに100枚近いチケットが売れていた。"
-        },
-        {
-          "word": "or so",
-          "definition": "直前の数・量に「そのくらい」を付け、多少の幅を持たせる表現である。",
-          "frequency": 8,
-          "difference": "approximately と違って数量表現の後ろに置く口語的な表現であり、twenty minutes or so のような語順になる。",
-          "example": "We waited for twenty minutes or so.",
-          "translation": "私たちは20分ほど待った。"
-        },
-        {
-          "word": "circa",
-          "definition": "特に日付・年代について「およそ、〜年ごろ」を表す。",
-          "frequency": 4,
-          "difference": "歴史、伝記、目録などの書き言葉で年代の前に置く。一般の数量や日常の時刻には通常 approximately や about を使う。",
-          "example": "The building was completed circa 1750.",
-          "translation": "その建物は1750年ごろに完成した。"
+          "difference": "approximately と違い、「基準未満・未到達」の方向が出やすい。",
+          "example": "The tank is nearly full.",
+          "translation": "そのタンクはほぼ満杯だ。"
         },
         {
           "word": "more or less",
-          "definition": "厳密ではないが、数量・程度・状態などがだいたい当てはまることを表す。",
-          "frequency": 7,
-          "difference": "数値の概算だけでなく The work is more or less complete. のように状態の「ほぼ」を表せる。approximately は測定値や数量との結び付きがより強い。",
-          "example": "The two routes are more or less the same length.",
-          "translation": "その二つの経路はだいたい同じ長さである。"
+          "definition": "ほぼ、だいたい、程度の差はあるが。",
+          "frequency": 8,
+          "difference": "approximately より口語的で、数量だけでなく状態や評価にも使える。厳密な数値の報告には approximately が自然。",
+          "example": "The two plans are more or less the same.",
+          "translation": "その2つの計画はだいたい同じだ。"
         }
       ],
       "antonyms": [
         {
           "word": "exactly",
-          "definition": "数、時刻、量、位置などが示した値と完全に一致することを表す。",
+          "definition": "数値・時刻・内容などが完全に正確で、一致していることを示す。",
           "frequency": 8,
-          "difference": "概算ではなく厳密な一致を示すため、正確さの軸で approximately と直接対立する。",
-          "example": "The package weighs exactly two kilograms.",
-          "translation": "その荷物の重さはちょうど2キログラムである。"
+          "difference": "approximately が誤差や近似を残すのに対し、exactly は誤差のない一致を示す。",
+          "example": "The result was exactly 25.",
+          "translation": "結果はちょうど25だった。"
         },
         {
           "word": "precisely",
-          "definition": "誤差や曖昧さなく、厳密かつ正確に行うことを表す。",
+          "definition": "厳密に、正確に、細部まで一致して。",
+          "frequency": 7,
+          "difference": "exactly より硬く、測定・定義・説明の精密さを強調しやすい。",
+          "example": "The device records precisely 60 seconds of data.",
+          "translation": "その装置は正確に60秒分のデータを記録する。"
+        },
+        {
+          "word": "accurately",
+          "definition": "事実・数値・状態を誤りなく正確に。",
           "frequency": 8,
-          "difference": "exactly と同じく近似の反対側にあるが、正確さ・精密さをやや改まって強調する。",
-          "example": "The sensor records precisely when the temperature changes.",
-          "translation": "そのセンサーは温度が変化した時点を正確に記録する。"
+          "difference": "approximately が近似値を示す副詞なのに対し、accurately は測定・記述が実際の値に忠実であることを示す。",
+          "example": "The instrument measures temperature accurately.",
+          "translation": "その機器は温度を正確に測定する。"
         }
       ]
     }
