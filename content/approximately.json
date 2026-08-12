@@ -6,8 +6,8 @@
   "updated": "2026-08-12",
   "notion_url": "https://app.notion.com/p/approximately-3b24faa9b77d813bbb76cd6242fb455e",
   "pronunciation": [
-    "主強勢は第2音節の /ˈprɑːk/ にあり、語頭の /ə/ と語末の /li/ は弱く発音される。米英で記号が異なる部分は、主強勢を担う母音が米 /ɑː/、英 /ɒ/ となる点である。",
-    "語末の -ly は /li/ と発音される。形容詞 approximate の形容詞用法と動詞用法では語末が異なるため、approximately を approximate（動詞）のように発音しない。"
+    "音節は米 ə-ˈprɑːk-sə-mət-li、英 ə-ˈprɒk-sɪ-mət-li と分けられる。主強勢はどちらも第2音節にあり、米英の差は第2音節の母音（米 /ɑː/・英 /ɒ/）と第3音節の母音（米 /ə/・英 /ɪ/）である。語頭の /ə/ と語末の /li/ は弱く発音される。",
+    "語末の -ly は /li/ と発音される。approximate は、形容詞では /əˈprɑːksəmət/、動詞では /əˈprɑːksəmeɪt/ と語末が異なる。approximately は副詞であり、approximate（動詞）のように語末を /eɪt/ と発音しない。"
   ],
   "etymology": [
     "approximately は approximate「おおよその、近似の」に副詞接尾辞 -ly が付いた語である。approximate はラテン語 approximare「近づく」に由来し、ad-「〜へ」と proximus「最も近い」に関係する。厳密な値へ近づいているが一致していない、という意味核が現在の「およそ・近似的に」につながる。",
@@ -31,10 +31,6 @@
     {
       "term": "approx.（略記）—",
       "description": "approximate または approximately の書き言葉の略。表、図、注記などで使うが、本文では approximately と綴る方が明確である。"
-    },
-    {
-      "term": "approximately（副詞）—",
-      "description": "approximate に -ly が付いた形で、数値・時間・程度などを文中で修飾する。"
     }
   ],
   "core": [],
@@ -177,7 +173,7 @@
         {
           "word": "exactly",
           "definition": "数、時刻、量、位置などが示した値と完全に一致することを表す。",
-          "frequency": 10,
+          "frequency": 8,
           "difference": "概算ではなく厳密な一致を示すため、正確さの軸で approximately と直接対立する。",
           "example": "The package weighs exactly two kilograms.",
           "translation": "その荷物の重さはちょうど2キログラムである。"
