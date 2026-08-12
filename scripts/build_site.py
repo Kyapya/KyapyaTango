@@ -109,9 +109,17 @@ def word_page(word: dict, all_words: list[dict]) -> str:
         f'<div class="formation-row"><b>{escape(x["term"])}</b><span class="ja">{escape(x["description"])}</span></div>'
         for x in word.get("formation", [])
     )
+    core_items = word.get("core", [])
     core = "".join(
         f'<div class="core-item"><b>{escape(x["label"])}</b><span class="ja">{escape(x["description"])}</span></div>'
-        for x in word.get("core", [])
+        for x in core_items
+    )
+    core_nav = '<a href="#core">コアイメージ</a>' if core_items else ""
+    core_panel = (
+        "\n    "
+        + overview_panel('コアイメージ', f'<div class="core-grid">{core}</div>', 'core')
+        if core_items
+        else ""
     )
     sources = " / ".join(
         f'<a href="{escape(x["url"], quote=True)}" target="_blank" rel="noopener">{escape(x["name"])}</a>'
@@ -141,14 +149,13 @@ def word_page(word: dict, all_words: list[dict]) -> str:
 <aside class="word-sidebar">
   <div class="side-word"><h1>{escape(word['word'])}</h1><p>{escape(word['ipa'])}</p><div class="progress"><i id="progressFill"></i></div><small id="progressText">習得 0 / {len(word['senses'])}</small></div>
   <p class="side-label">概要</p>
-  <nav class="side-nav"><a href="#pronunciation">発音</a><a href="#etymology">語源</a><a href="#formation">語形成</a><a href="#core">コアイメージ</a></nav>
+  <nav class="side-nav"><a href="#pronunciation">発音</a><a href="#etymology">語源</a><a href="#formation">語形成</a>{core_nav}</nav>
   <p class="side-label">語義</p><nav class="side-nav sense-nav">{nav}</nav>
 </aside>
 <main class="word-main">
   <section class="word-hero"><p class="kicker">ENGLISH–JAPANESE EXTRA</p><h1>{escape(word['word'])}</h1><p class="hero-ipa">{escape(word['ipa'])}</p><p class="ja">{escape(word['lead'])}</p><div class="hero-badges"><span>主要語義 {len(word['senses'])}</span><span>更新 {escape(word['updated'])}</span></div></section>
   <div class="overview-grid">
-    {overview_panel('発音記号', f'<p class="big-ipa">{escape(word["ipa"])}</p>{list_html(word.get("pronunciation", []), "ja")}', 'pronunciation')}
-    {overview_panel('コアイメージ', f'<div class="core-grid">{core}</div>', 'core')}
+    {overview_panel('発音記号', f'<p class="big-ipa">{escape(word["ipa"])}</p>{list_html(word.get("pronunciation", []), "ja")}', 'pronunciation')}{core_panel}
     {overview_panel('語源', list_html(word.get('etymology', []), 'ja'), 'etymology')}
     {overview_panel('語形成', f'<div class="formation-list">{formation}</div>', 'formation')}
   </div>
