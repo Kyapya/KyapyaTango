@@ -1,0 +1,361 @@
+{
+  "word": "as well as",
+  "slug": "as-well-as",
+  "ipa": "米・英: 通常 /əz ˈwɛl əz/｜強調時 /æz ˈwɛl æz/",
+  "lead": "A as well as B は、Bを加えてAも成り立つことを表す。日本語では「BだけでなくAも」と訳せる。and に近いが、英語では通常、as well as の前のAが文の中心・焦点になり、AとBを完全に対等に並べる and とは含みが異なる。",
+  "updated": "2026-08-12",
+  "notion_url": "https://app.notion.com/p/as-well-as-3804faa9b77d81c5804be829e7ff5284",
+  "pronunciation": [
+    "通常は第2音節の well /ˈwɛl/ に主強勢があり、前後の as は弱形 /əz/ になりやすい。",
+    "対比や強調で as をはっきり発音すると、両方が強形 /æz/ に近づく。",
+    "通常形では /w/ の後の短母音 /ɛ/ と末尾の /l/ を続けて、well を一まとまりに発音する。"
+  ],
+  "etymology": [
+    "as は古英語 alswā（そのように、同じように）に、well は古英語 wel（よく、十分に）にさかのぼる。現代の as well as では、程度や仕方の同等性を示す as ... as 構文と、そこから慣用化した追加表現が共存している。",
+    "関連する現代表現には、文末などで「〜も、同様に」を表す as well と、「〜と同じくらい」を表す as ... as がある。"
+  ],
+  "formation": [
+    {
+      "term": "as",
+      "description": "well（副詞句）— 「〜も、同様に」を表し、as well as の追加用法から後半の as を外した関連表現。"
+    },
+    {
+      "term": "as",
+      "description": "well as possible（定型的比較表現）— 「できる限りうまく、できるだけよく」を表す。"
+    },
+    {
+      "term": "as",
+      "description": "well as can be expected（定型表現）— 困難な状況を基準に「期待できる範囲では順調に」を表す。"
+    }
+  ],
+  "core": [
+    {
+      "label": "「as（同じように）」と「well（よく）」を土台に、ある要素や状態を別の要素・基準と並べ、追加または同程度の成立を示す表現である。",
+      "description": ""
+    },
+    {
+      "label": "別の要素と並べて追加すること",
+      "description": "→ 「〜だけでなく、〜に加えて、〜も」（語義1）"
+    },
+    {
+      "label": "別の対象と並べて同程度に成り立つこと",
+      "description": "→ 「〜と同じくらい上手に、〜と同程度によく」（語義2）"
+    },
+    {
+      "label": "困難な基準と並べて許容範囲で成り立つこと",
+      "description": "→ 「期待できる範囲では順調に、まずまず」（語義3）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【句・追加表現】〜だけでなく、〜に加えて、〜も。",
+      "frequency": 8,
+      "register": [
+        "一般語。会話、文章、ビジネス、学術で広く使う。"
+      ],
+      "definition": "A as well as B は、Bを加えてAも成り立つことを表す。日本語では「BだけでなくAも」と訳せる。and に近いが、英語では通常、as well as の前のAが文の中心・焦点になり、AとBを完全に対等に並べる and とは含みが異なる。",
+      "patterns": [
+        "A as well as B（A＝中心要素、B＝追加要素）",
+        "as well as 〈名詞・代名詞〉",
+        "as well as 〈動名詞〉",
+        "as well as being 〈形容詞・過去分詞〉",
+        "A as well as B + 〈動詞〉（動詞は通常Aに一致）。"
+      ],
+      "collocations": [
+        {
+          "pattern": "A as well as B",
+          "use": "Bに加えてAも含める基本形。",
+          "example": "The course covers speaking as well as writing.",
+          "translation": "その講座ではライティングだけでなくスピーキングも扱う。"
+        },
+        {
+          "pattern": "〈動詞〉 A as well as B",
+          "use": "動詞の目的語を、Bに加えてAへ広げる。",
+          "example": "The plan affects teachers as well as students.",
+          "translation": "その計画は学生だけでなく教師にも影響する。"
+        },
+        {
+          "pattern": "include A as well as B",
+          "use": "BだけでなくAも含まれることを明示する。",
+          "example": "The package includes installation as well as delivery.",
+          "translation": "そのパッケージには配送だけでなく設置も含まれる。"
+        },
+        {
+          "pattern": "as well as 〈動名詞〉",
+          "use": "同じ主語が行う別の動作を追加する。",
+          "example": "She manages the budget as well as training new staff.",
+          "translation": "彼女は新人研修をするだけでなく予算も管理している。"
+        },
+        {
+          "pattern": "as well as being 〈形容詞〉",
+          "use": "ある性質や状態に、別の性質や状態を加える。",
+          "example": "The system is fast as well as being secure.",
+          "translation": "そのシステムは安全なだけでなく高速でもある。"
+        },
+        {
+          "pattern": "As well as 〈動名詞〉, 主節",
+          "use": "文頭で、主節と同じ主語が行う動作を追加する。",
+          "example": "As well as teaching, he writes textbooks.",
+          "translation": "彼は教えるだけでなく教科書も執筆している。"
+        },
+        {
+          "pattern": "A as well as B + 〈be動詞〉",
+          "use": "主語の中心がAであることを保ったままBを付け加える。",
+          "example": "The teacher as well as the students was tired.",
+          "translation": "生徒たちだけでなく教師も疲れていた。"
+        }
+      ],
+      "notes": [
+        "A as well as B は and と同じ対等な等位接続詞ではない。主語として使う場合、標準的には動詞を中心主語Aに一致させるため、The teacher as well as the students was tired. のように単数形にする。名詞・名詞、動名詞・動名詞のように前後の要素をそろえ、同じ主語の動作を加えるときは as well as 〈動名詞〉 が自然である。She enjoys reading as well as to write. は不自然で、She enjoys reading as well as writing. とする。AとBを完全に同じ重みで強調したい場合は、and または not only A but also B の方が適切なことが多い。"
+      ],
+      "synonyms": [
+        {
+          "word": "and",
+          "definition": "2つ以上の要素・節・文を対等に結び付ける。",
+          "frequency": 10,
+          "difference": "and は要素を中立的・対等に並べる。as well as はBよりも前のAに焦点が置かれやすく、主語の動詞一致もandとは異なる。",
+          "example": "The shop sells tea and coffee.",
+          "translation": "その店は紅茶とコーヒーを売っている。"
+        },
+        {
+          "word": "in addition to",
+          "definition": "〜に加えて、〜だけでなく。",
+          "frequency": 7,
+          "difference": "追加を明示する前置詞句で、as well as より形式的・説明的に響きやすい。",
+          "example": "In addition to rent, we pay a service fee.",
+          "translation": "家賃に加えて、サービス料も払っている。"
+        },
+        {
+          "word": "besides",
+          "definition": "〜に加えて、さらに。",
+          "frequency": 7,
+          "difference": "Besides は追加情報を文頭に置きやすく、会話では「そのうえ」「それに」という響きも持つ。",
+          "example": "Besides English, she speaks French.",
+          "translation": "英語に加えて、彼女はフランス語も話す。"
+        },
+        {
+          "word": "not only A but also B",
+          "definition": "AだけでなくBも。",
+          "frequency": 8,
+          "difference": "2要素を強く対照・強調して両方を提示する相関表現で、as well as より対等な列挙になりやすい。",
+          "example": "The role requires not only skill but also patience.",
+          "translation": "その仕事には技術だけでなく忍耐も必要だ。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "instead of",
+          "definition": "〜の代わりに、〜ではなく。",
+          "frequency": 9,
+          "difference": "追加ではなく、一方を選んで他方を置き換える関係を示す。",
+          "example": "We used olive oil instead of butter.",
+          "translation": "私たちはバターの代わりにオリーブオイルを使った。"
+        },
+        {
+          "word": "rather than",
+          "definition": "〜ではなく、むしろ〜。",
+          "frequency": 8,
+          "difference": "追加ではなく、対比や選択を示す。両方を含める as well as と反対方向の関係になる。",
+          "example": "I chose tea rather than coffee.",
+          "translation": "私はコーヒーではなく紅茶を選んだ。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【比較表現】〜と同じくらい上手に、〜と同程度によく。",
+      "frequency": 7,
+      "register": [
+        "一般語。能力・成績・性能・状態の比較で、会話から説明文まで使う。"
+      ],
+      "definition": "as + well + as の比較構文で、行為の仕方、成績、性能、状態などが比較対象と同程度であることを表す。後ろには名詞句だけでなく、as well as I do のような節や、as well as expected のような暗黙の基準も置ける。",
+      "patterns": [
+        "〈主語〉 + 〈動詞〉 as well as 〈比較対象〉",
+        "〈主語〉 + 〈動詞〉 as well as 〈主語〉 do・does・did",
+        "as well as expected・before・possible",
+        "not as well as 〈比較対象〉。"
+      ],
+      "collocations": [
+        {
+          "pattern": "do as well as 〈人〉",
+          "use": "成績や出来が人と同程度であることを表す。",
+          "example": "He did as well as his older sister on the exam.",
+          "translation": "彼は試験で姉と同じくらいよい成績を取った。"
+        },
+        {
+          "pattern": "as well as 〈主語〉 do",
+          "use": "行為の程度を、相手が同じ行為をする程度と比べる。",
+          "example": "She sings as well as her sister does.",
+          "translation": "彼女は姉と同じくらい上手に歌う。"
+        },
+        {
+          "pattern": "perform as well as expected",
+          "use": "性能や結果が予想された水準と同程度であることを表す。",
+          "example": "The new battery performed as well as expected.",
+          "translation": "新しいバッテリーは期待どおりの性能を示した。"
+        },
+        {
+          "pattern": "work as well as before",
+          "use": "以前と同じ程度にうまく機能することを表す。",
+          "example": "The printer does not work as well as before.",
+          "translation": "そのプリンターは以前ほど調子よく動かない。"
+        },
+        {
+          "pattern": "write as well as 〈人〉",
+          "use": "文章力を比較する。",
+          "example": "She writes as well as many professional editors.",
+          "translation": "彼女は多くのプロ編集者と同じくらい上手に書く。"
+        },
+        {
+          "pattern": "as well as possible",
+          "use": "可能な範囲で最大限うまく行う。",
+          "example": "Try to do the job as well as possible.",
+          "translation": "その仕事をできるだけうまくやってみなさい。"
+        },
+        {
+          "pattern": "not as well as 〈比較対象〉",
+          "use": "比較対象ほど上手くない、またはうまく機能しないことを表す。",
+          "example": "The new model does not sell as well as the old one.",
+          "translation": "新しいモデルは旧型ほど売れない。"
+        }
+      ],
+      "notes": [
+        "追加の as well as と比較の as well as は、後ろの要素が「加えられる対象」か「比較の基準」かで見分ける。He speaks English as well as French. は「フランス語に加えて英語を話す」と「フランス語と同じくらい上手に英語を話す」の両方に解釈できる。追加なら He speaks English in addition to French.、比較なら He speaks English as well as he speaks French. のように言い換えると明確になる。比較で人を受ける場合は、She sings as well as I do. のように節にすると構造が明確で、as well as me はくだけた会話では使われるものの、文脈によって追加用法にも読める。not as well as は「まったくできない」ではなく、比較対象より程度が低いことを表す。"
+      ],
+      "synonyms": [
+        {
+          "word": "equally well",
+          "definition": "同じ程度に上手に、同程度にうまく。",
+          "frequency": 7,
+          "difference": "比較対象を後置せず、文脈上の複数対象や既出の基準をまとめて評価できる。",
+          "example": "Both methods work equally well.",
+          "translation": "どちらの方法も同じくらいうまく機能する。"
+        },
+        {
+          "word": "as effectively as",
+          "definition": "〜と同じくらい効果的に。",
+          "frequency": 6,
+          "difference": "効果に焦点を絞るため、能力・成績・状態全般を比べる as well as より意味範囲が狭い。",
+          "example": "The online class worked as effectively as the in-person one.",
+          "translation": "そのオンライン授業は対面授業と同じくらい効果的だった。"
+        },
+        {
+          "word": "as successfully as",
+          "definition": "〜と同じくらい成功して。",
+          "frequency": 5,
+          "difference": "成果や成功度に焦点があり、技能や機械の作動全般には必ずしも置き換えられない。",
+          "example": "The second launch went as successfully as the first.",
+          "translation": "2回目の打ち上げは1回目と同じくらい成功した。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "worse than",
+          "definition": "〜より悪く、劣って。",
+          "frequency": 8,
+          "difference": "同程度の良さではなく、比較対象を下回る広い評価を表す。",
+          "example": "The second version works worse than the first.",
+          "translation": "2つ目の版は1つ目よりうまく機能しない。"
+        },
+        {
+          "word": "less well than",
+          "definition": "〜ほど上手に、または〜ほどよくは。",
+          "frequency": 6,
+          "difference": "行為の仕方や性能が比較対象を下回ることを、well の反対方向として明示する。",
+          "example": "He performed less well than he had hoped.",
+          "translation": "彼は望んでいたほどよい成績を上げられなかった。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【固定表現】as well as can be expected／as well as could be expected — 期待できる範囲では順調に、まずまず。",
+      "frequency": 4,
+      "register": [
+        "会話、手紙、近況説明、医療・事故後の経過。定型的で控えめ。"
+      ],
+      "definition": "病気、手術後、事故、困難な出来事などについて、理想的な状態ではないが、その状況から期待できる範囲ではよく進んでいると控えめに評価する。直訳的な単純比較ではなく、困難を踏まえた暗黙の基準との比較になっている。",
+      "patterns": [
+        "be doing as well as can be expected",
+        "recover as well as can be expected",
+        "go as well as could be expected",
+        "about as well as can be expected。"
+      ],
+      "collocations": [
+        {
+          "pattern": "doing as well as can be expected",
+          "use": "大変な状況での現在の状態を、期待範囲内だと述べる。",
+          "example": "She is doing as well as can be expected after the surgery.",
+          "translation": "手術後の彼女は、状況を考えればまずまず順調だ。"
+        },
+        {
+          "pattern": "recovering as well as can be expected",
+          "use": "回復が期待できる範囲で進んでいることを表す。",
+          "example": "He is recovering as well as can be expected.",
+          "translation": "彼は期待できる範囲で順調に回復している。"
+        },
+        {
+          "pattern": "go as well as could be expected",
+          "use": "過去の出来事が、状況から見て予想できる範囲で進んだことを表す。",
+          "example": "The event went as well as could be expected.",
+          "translation": "そのイベントは、状況を考えればまずまずうまくいった。"
+        },
+        {
+          "pattern": "about as well as can be expected",
+          "use": "強い楽観ではなく、控えめに「まあ予想どおり」と評価する。",
+          "example": "Things are going about as well as can be expected.",
+          "translation": "物事は予想できる範囲ではまあ順調に進んでいる。"
+        }
+      ],
+      "notes": [
+        "can be expected は現在の状況についての標準的な形で、could be expected は過去の出来事や、距離を置いた控えめな評価でよく使う。大成功を表す表現ではなく、困難や制約があることを暗に認めたうえでの「まずまず」である。単に as well as expected とすると「予想どおりにうまく」という比較・評価になり、この定型表現ほど強い困難の含みは必ずしもない。"
+      ],
+      "synonyms": [
+        {
+          "word": "under the circumstances",
+          "definition": "その状況を考えると。",
+          "frequency": 7,
+          "difference": "評価そのものではなく、評価を判断する前提条件を示す。",
+          "example": "She is remarkably calm under the circumstances.",
+          "translation": "その状況を考えると、彼女は驚くほど落ち着いている。"
+        },
+        {
+          "word": "reasonably well",
+          "definition": "まずまずうまく、十分悪くない程度に。",
+          "frequency": 7,
+          "difference": "as well as can be expected よりも制約や困難の含みが弱く、単純な中程度の良さにも使える。",
+          "example": "The treatment is working reasonably well.",
+          "translation": "その治療はまずまず効いている。"
+        },
+        {
+          "word": "all things considered",
+          "definition": "すべてを考慮すると、総合的に見れば。",
+          "frequency": 6,
+          "difference": "困難な状況での控えめな良好さに限らず、複数の事情を踏まえた総合評価に使う。",
+          "example": "All things considered, the trip went well.",
+          "translation": "すべてを考えれば、旅行はうまくいった。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "worse than expected",
+          "definition": "予想より悪く。",
+          "frequency": 7,
+          "difference": "期待できる範囲内ではなく、予想や基準を下回ることを明示する。",
+          "example": "The damage was worse than expected.",
+          "translation": "被害は予想よりひどかった。"
+        },
+        {
+          "word": "poorly",
+          "definition": "うまくいかずに、悪い状態で。",
+          "frequency": 8,
+          "difference": "as well as can be expected の控えめな順調さに対し、明確な不調や低い状態を表す。",
+          "example": "The patient is doing poorly.",
+          "translation": "患者の状態はよくない。"
+        }
+      ]
+    }
+  ]
+}
