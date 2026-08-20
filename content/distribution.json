@@ -3,7 +3,7 @@
   "slug": "distribution",
   "ipa": "発音表記における /ə/ と /ɪ/ の差は、弱化の実現や辞書ごとの表記方針も反映しうるため、単純な米英差として断定しない。",
   "lead": "物・資金・情報などを受け手へ分けて渡す、配る、届ける行為または過程。一般の配布では通常、複数の受け手・地点を想定する。可算の a distribution は、一回・一件として区切られた配布や、非金融の文脈で配られた一口・割当物を表すこともある。金融・信託・相続における制度的な支払額・取り分は語義4で扱う。個々の配分・配布行為に焦点があり、販売・物流の仕組み",
-  "updated": "2026-08-15",
+  "updated": "2026-08-20",
   "notion_url": "https://app.notion.com/p/distribution-3804faa9b77d819f8e1ffb4941a68638",
   "pronunciation": [
     "米: /ˌdɪstrəˈbjuːʃən/（/ˌdɪstrɪˈbjuːʃən/ とする表記もある）｜英: /ˌdɪstrɪˈbjuːʃən/",
@@ -49,7 +49,7 @@
   ],
   "core": [
     {
-      "label": "一つのまとまりを複数の受け手・場所・経路へ配ること、または人為的な配分を伴わずに、物・生物・数値などがどのように広がっているかを捉える語。数学では、通常の関数を含むより広い作用対象としての「超関数」へ意味が専門化する。焦点が「配る行為」「広がった配置」「市場へ届ける仕組み」「配られた取り分」「配布単位としてまとめられたソフトウェア構成」「Pythonの配布パッケージ」「試験関数に作用する数学的対象」のどこに置かれるかで日本語訳が変わる。",
+      "label": "一つのまとまりを複数の受け手・場所・経路へ配ること、または人為的な配分を伴わずに、物・生物・数値などがどのように広がっているかを捉える語。数学では、通常の関数を一般化し、試験関数に作用する数学的対象である「超関数」へ意味が専門化する。焦点が「配る行為」「広がった配置」「市場へ届ける仕組み」「配られた取り分」「配布単位としてまとめられたソフトウェア構成」「Pythonの配布パッケージ」「試験関数に作用する数学的対象」のどこに置かれるかで日本語訳が変わる。",
       "description": ""
     },
     {
@@ -61,8 +61,8 @@
       "description": "→ 「分布、配置、分配のあり方」（語義2）"
     },
     {
-      "label": "複数の販売地点・顧客へ届く経路としての割り振り",
-      "description": "→ 「流通、供給、配電・配水などの供給網」（語義3）"
+      "label": "複数の販売地点・利用者へ届ける仕組み・過程",
+      "description": "→ 「流通、供給、配給・配電・配水」（語義3）"
     },
     {
       "label": "受取人へ割り振られた金銭・資産の取り分",
@@ -77,8 +77,8 @@
       "description": "→ 「Python packagingにおける配布パッケージ」（語義6）"
     },
     {
-      "label": "試験関数に作用する数学解析の超関数",
-      "description": "→ 「一般化関数、超関数」（語義7）"
+      "label": "試験関数に作用する数学解析の対象",
+      "description": "→ 「超関数（一般化関数の一種）」（語義7）"
     },
     {
       "label": "語義1〜3は固定的に切り分けられるとは限らない。distribution",
@@ -130,24 +130,6 @@
           "use": "distributionの配布行為ではなく、メールなどの一斉送信先一覧を指す定着複合名詞。語義1の中心義とは別の関連表現として覚える。",
           "example": "Please add the new team members to the distribution list.",
           "translation": "新しいチームメンバーを配信先リストに追加してください。"
-        },
-        {
-          "pattern": "send an email to a distribution list",
-          "use": "配信先リストに登録された複数の宛先へメールを一斉送信することを表す。",
-          "example": "She sent the announcement to a distribution list.",
-          "translation": "彼女はその告知を配信先リストへ送った。"
-        },
-        {
-          "pattern": "create a distribution list",
-          "use": "一斉送信用の宛先リストを作成することを表す。",
-          "example": "The administrator created a distribution list for the project team.",
-          "translation": "管理者はプロジェクトチーム用の配信先リストを作成した。"
-        },
-        {
-          "pattern": "remove a member from a distribution list",
-          "use": "一斉送信の宛先リストからメンバーを削除することを表す。",
-          "example": "Please remove the former employee from the distribution list.",
-          "translation": "元従業員を配信先リストから外してください。"
         }
       ],
       "notes": [
@@ -186,14 +168,16 @@
       "title": "【名詞・不可算・可算】分布、配置、分配のあり方",
       "frequency": 8,
       "register": [
-        "一般・学術・統計。地理、生物、人口、所得、重量、データなどの広がり方を述べる。"
+        "一般・学術・統計・医学・薬学。地理、生物、人口、所得、重量、データ、薬物の体内移行、神経・血管などの広がり方を述べる。"
       ],
-      "definition": "人・物・量が、場所・集団・時間・値の範囲にわたってどのように広がり、配置され、割り振られているかという状態・パターン。統計では、観測値や確率が値の範囲にどう現れるかを表す「分布」もこの用法に含まれる。",
+      "definition": "人・物・量が、場所・集団・時間・値の範囲にわたってどのように広がり、配置され、割り振られているかという状態・パターン。統計では、観測値や確率が値の範囲にどう現れるかを表す「分布」もこの用法に含まれる。薬物動態では薬物が血液や組織へ移行して体内に広がる過程、解剖学では神経・血管などの分岐・終末と到達範囲を指す。",
       "patterns": [
         "the distribution of 〈人・物・量〉 across/over 〈範囲〉＝～が…にどう分布しているか",
         "the distribution of 〈人・物・量〉 among 〈集団〉＝～が集団内でどう割り振られているか",
         "distribution by/according to 〈分類・カテゴリー〉＝…別の分布",
         "distribution within 〈母集団・範囲〉＝…の内部での分布",
+        "the distribution of 〈a drug〉 throughout 〈the body/tissues〉＝薬物が…の全体へ広がること",
+        "the distribution of 〈a nerve/an artery〉＝神経・動脈の分布・走行範囲",
         "a 〈normal〉 distribution＝正規分布",
         "a 〈probability/frequency〉 distribution＝確率・頻度分布",
         "the distribution of 〈values/scores〉 is skewed＝～の分布は偏っている",
@@ -272,10 +256,22 @@
           "use": "言語学で、音素・語・形態素などが現れる位置や環境、用例の分布を表す。",
           "example": "The distribution of the phoneme is restricted to unstressed syllables.",
           "translation": "その音素は無強勢音節にしか現れない。"
+        },
+        {
+          "pattern": "the distribution of 〈a drug〉 throughout 〈the body/tissues〉",
+          "use": "薬物動態で、薬物が血液から組織へ移行し、体内に広がる過程を表す。",
+          "example": "The study examined the distribution of the drug throughout the body.",
+          "translation": "その研究は薬物が体内全体へ分布する過程を調べた。"
+        },
+        {
+          "pattern": "the distribution of 〈a nerve/an artery〉",
+          "use": "解剖学で、神経・動脈などが枝分かれして到達する範囲や走行を表す。",
+          "example": "The diagram shows the distribution of the nerve in the hand.",
+          "translation": "その図は手におけるその神経の分布を示している。"
         }
       ],
       "notes": [
-        "空間・社会・数値の「結果としての並び方」に焦点があり、配る行為そのものを表す語義1と区別する。distribution of wealth/resources は両義になり得るため、動詞が change/examine/show のように結果の状態を扱うなら語義2の読みが強い。統計では a normal distribution, a probability distribution のように、特定の分布を一つの数学的対象として可算で使う。spread は単に広がりや範囲を表すことが多く、distribution のように「どこにどの程度あるか」という構造全体を必ずしも示さない。"
+        "一般・統計・解剖学では、空間・社会・数値における結果としての配置や広がり方に焦点があり、人が物を受け手へ配る語義1と区別する。薬物動態では、人為的な配布ではなく、薬物が血液から組織へ移行して体内に広がる過程を指す。distribution of wealth/resources は両義になり得るため、動詞が change/examine/show のように結果の状態を扱うなら語義2の読みが強い。統計では a normal distribution, a probability distribution のように、特定の分布を一つの数学的対象として可算で使う。spread は単に広がりや範囲を表すことが多く、distribution のように「どこにどの程度あるか」という構造全体を必ずしも示さない。"
       ],
       "synonyms": [
         {
@@ -307,12 +303,12 @@
     },
     {
       "number": 3,
-      "title": "【名詞・不可算】流通、供給、配電・配水などの供給網",
+      "title": "【名詞・不可算】流通、供給、配給・配電・配水",
       "frequency": 7,
       "register": [
-        "ビジネス・物流・メディア・公共インフラ。商品、ソフトウェア、書籍、映画などの市場への供給に加え、電力・ガス・水などの供給網について使う。映画では「配給」、音楽・ソフトウェアでは「配信・流通」と訳すことがある。"
+        "ビジネス・物流・メディア・公共インフラ。商品、ソフトウェア、書籍、映画などの市場への供給に加え、電力・ガス・水などの供給・配電・配水について使う。映画では「配給」、音楽・ソフトウェアでは「配信・流通」と訳すことがある。"
       ],
-      "definition": "ビジネス・インフラで、商品・コンテンツや電気・ガス・水などを、生産者・供給源から市場、小売店、利用者・需要地点へ届けるための流通経路・供給網・仕組み・活動。個別の配送を指す場合もあるが、delivery より、広い市場・複数地点へ届ける経路・仕組み・活動に焦点が置かれやすい。裸の distribution は配電・供給の機能、過程、事業領域を指しやすく、具体的な物理網は distribution network/system/grid などで表す。インフラでは発電・浄水・生産そのものではなく、利用者まで届ける下流の網を指す。",
+      "definition": "ビジネス・インフラで、商品・コンテンツやガス・水などを生産者・供給源から市場、小売店、利用者・需要地点へ届ける流通・供給・配給・配水、または電気を送電系統との接続点・配電用変電所などから需要家へ届ける配電の活動、過程、事業領域。広い市場・複数地点へ届ける一連の活動に焦点があり、通常の個別配送には delivery を使う。裸の distribution は流通・配電・供給の機能、過程、事業領域を指しやすく、具体的な物理網は distribution network/system/grid などで表す。電力では、発電所から高圧線で長距離輸送する段階は通常 transmission であり、distribution はその下流で需要家へ届ける段階を指す。",
       "patterns": [
         "distribution of 〈products/content〉 in 〈a market〉＝～を…で流通させること",
         "distribution of 〈products/content〉 through 〈a channel〉＝～を…という経路で流通させること",
@@ -335,9 +331,9 @@
         },
         {
           "pattern": "an electricity distribution system/network",
-          "use": "電気を供給源から利用者へ届ける配電網を表す。",
+          "use": "電気を送電系統との接続点・配電用変電所などから需要家へ届ける配電網を表す。",
           "example": "The utility is upgrading its electricity distribution network.",
-          "translation": "その公益事業者は電力供給網を改修している。"
+          "translation": "その公益事業者は配電網を改修している。"
         },
         {
           "pattern": "a water distribution system/network",
@@ -383,13 +379,13 @@
         },
         {
           "pattern": "distribution of 〈electricity/gas/water〉 through 〈a network〉",
-          "use": "電気・ガス・水などを供給源から利用者へ供給網を通じて届ける活動を表す。",
+          "use": "ガス・水などを供給源から、または電気を送電系統との接続点・配電用変電所などから、利用者へ供給網を通じて届ける活動を表す。",
           "example": "The utility manages the distribution of electricity through a regional network.",
-          "translation": "その公益事業者は地域の供給網を通じた電力供給を管理している。"
+          "translation": "その公益事業者は地域の配電網を通じた電力供給を管理している。"
         },
         {
           "pattern": "an electricity distribution grid",
-          "use": "発電所や変電所から利用者へ電力を届ける配電網を表す。",
+          "use": "送電系統との接続点・配電用変電所などから需要家へ電力を届ける配電網を表す。",
           "example": "The utility is modernizing the electricity distribution grid.",
           "translation": "その公益事業者は電力配電網を近代化している。"
         }
@@ -603,12 +599,6 @@
           "translation": "配布アーカイブにはリリースのインストールに必要なファイルが含まれている。"
         },
         {
-          "pattern": "a distribution package vs. an import package",
-          "use": "distribution packageというインストール対象と、Pythonコードからimportできるimport packageを対比し、両者の違いを説明する表現。",
-          "example": "The Pillow distribution package provides the PIL import package.",
-          "translation": "Pillow配布パッケージはPIL import packageを提供する。"
-        },
-        {
           "pattern": "build a source distribution or wheel from 〈a project〉",
           "use": "projectのソースツリーから、配布・インストールに使うsource distributionまたはwheelを作ることを表す。",
           "example": "The build backend builds a source distribution and a wheel for the release.",
@@ -662,15 +652,14 @@
     },
     {
       "number": 7,
-      "title": "【名詞・可算】数学解析の一般化関数、超関数",
+      "title": "【名詞・可算】数学解析の超関数（一般化関数の一種）",
       "frequency": 1,
       "register": [
         "数学・解析学・物理数学。一般英語ではまれだが、distribution theory、偏微分方程式、フーリエ解析などで使う。"
       ],
-      "definition": "数学解析で、通常の関数として直接扱うことが難しい対象を、試験関数空間上の連続線形汎関数として表す対象。局所可積分関数などは一定の条件のもとでdistributionに埋め込める。確率分布や度数分布とは別の専門用法で、generalized function とも呼ばれる。",
+      "definition": "数学解析で、通常の関数として直接扱うことが難しい対象を、試験関数空間上の連続線形汎関数として表す対象。distribution は generalized function（一般化関数）の代表的な一種で、文献によっては generalized function が distribution とほぼ同義に使われることもある。局所可積分関数などは一定の条件のもとでdistributionに埋め込める。確率分布や度数分布とは別の専門用法。",
       "patterns": [
         "a distribution on 〈an open set〉＝…上の超関数",
-        "a distribution on 〈a space〉＝…上の超関数",
         "a 〈tempered/compactly supported〉 distribution＝…超関数",
         "the space of distributions＝超関数の空間",
         "the derivative of 〈a distribution〉＝超関数の導関数",
@@ -682,12 +671,6 @@
           "use": "開集合などの領域上で定義される数学解析のdistributionを表す。",
           "example": "A distribution on an open set acts on test functions.",
           "translation": "開集合上の超関数は試験関数に作用する。"
-        },
-        {
-          "pattern": "a distribution on 〈a space〉",
-          "use": "関数空間・ベクトル空間など、対象となる空間を明示する。",
-          "example": "The distribution is defined on a space of test functions.",
-          "translation": "その超関数は試験関数の空間上で定義される。"
         },
         {
           "pattern": "a tempered distribution",
