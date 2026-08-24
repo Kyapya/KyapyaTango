@@ -7,7 +7,7 @@
   "notion_url": "https://app.notion.com/p/retain-3c64faa9b77d818bad1cde18bc2955f6",
   "pronunciation": [
     "三人称単数 retains は /rɪˈteɪnz/、過去形・過去分詞 retained は /rɪˈteɪnd/、-ing形 retaining は /rɪˈteɪnɪŋ/。",
-    "retained の -ed は、語末の有声音 /n/ の後なので /d/ と発音する。retaining では語末の e を落とさず、retain + -ing の形で retaining となる。"
+    "retained の -ed は、語末の有声音 /n/ の後なので /d/ と発音する。"
   ],
   "etymology": [
     "後期中英語に、アングロノルマン語・古フランス語 retenir を経て、ラテン語 retinēre「保つ、つかんで離さない」から入った。retinēre は re-「後ろへ、戻して」と tenēre「つかむ、保つ」から成ると説明され、対象を手元や内部にとどめて手放さないという現在の意味につながる。",
@@ -16,7 +16,7 @@
   "formation": [
     {
       "term": "retains",
-      "description": "/ retained / retaining — 動詞 retain の三人称単数・過去形／過去分詞・現在分詞。retained は受動態のほか、retained earnings「内部留保利益」のような複合表現にも現れる。"
+      "description": "/ retained / retaining — 動詞 retain の三人称単数・過去形／過去分詞・現在分詞。retained は受動態のほか、retained earnings「利益剰余金（内部留保）」のような複合表現にも現れる。"
     },
     {
       "term": "retention（名詞）—",
@@ -62,7 +62,7 @@
     {
       "number": 1,
       "title": "【他動詞】保持する、持ち続ける",
-      "frequency": 10,
+      "frequency": 9,
       "register": [
         "一般語。会話でも使うが、契約、組織、制度、財産、業務、評価を扱う説明文・ビジネス文書で特に多い。keep より硬く、継続的な保持や喪失への対抗を意識させる。"
       ],
@@ -112,7 +112,7 @@
         }
       ],
       "notes": [
-        "retain は通常、直接目的語を取る他動詞で、retain to 〈人〉 とはしない。retain は「保つ」という到達状態に焦点を置くため、単に新しく手に入れる acquire や、状態を積極的に整え続ける maintain とは異なる。retain a deposit のように金銭を手元に残す場合は、返還・支払いを控える含みがあるが、法的に差し引けるとは文脈だけから断定しない。英国のやや硬い用法では retain a room/seat「部屋・席を将来のために確保しておく」もある。"
+        "retain は、すでに持っているもの・すでにある状態を、その後も失わずに保つことを表す。新たに手に入れる acquire や、状態を保つために継続的に管理する maintain とは焦点が異なる。retainer は依頼契約・前払報酬などを表す名詞で、retain の活用形ではない。retain a deposit のように金銭を手元に残す場合は、返還・支払いを控える含みがあるが、法的に差し引けるとは文脈だけから断定しない。英国のやや硬い用法では retain a room/seat「部屋・席を将来のために確保しておく」もある。"
       ],
       "synonyms": [
         {
@@ -154,8 +154,8 @@
           "definition": "持っていた物・権利・状態などを失う。",
           "frequency": 10,
           "difference": "持ち続ける retain と、持っていたものが手元からなくなる lose は基本的な対立をなす。",
-          "example": "The team retained its title instead of losing it.",
-          "translation": "そのチームはタイトルを失わずに守った。"
+          "example": "The team lost its title after a long winning streak.",
+          "translation": "そのチームは長い連勝の後、タイトルを失った。"
         },
         {
           "word": "relinquish",
@@ -262,8 +262,8 @@
           "definition": "人を職務や関係にとどめておく。",
           "frequency": 10,
           "difference": "keep an employee は口語的で、retain employees は人材定着を扱うビジネス表現として自然である。",
-          "example": "The manager worked hard to keep the team together.",
-          "translation": "その管理者はチームを一つに保つため努力した。"
+          "example": "The company worked hard to keep its best employees.",
+          "translation": "その会社は優秀な従業員をつなぎ留めるため努力した。"
         }
       ],
       "antonyms": [
@@ -473,8 +473,8 @@
           "definition": "何かを外へ出したり相手に渡したりするのを意図的に差し控える。",
           "frequency": 7,
           "difference": "withhold は意図的な差し控えを表しやすく、身体の生理的な保持には retain の方が自然である。",
-          "example": "The body does not intentionally withhold urine.",
-          "translation": "体は意図的に尿の排出を差し控えているわけではない。"
+          "example": "Doctors sometimes withhold treatment until test results arrive.",
+          "translation": "医師は検査結果が出るまで治療を控えることがある。"
         }
       ],
       "antonyms": [
@@ -615,7 +615,7 @@
           "word": "erase",
           "definition": "記録や記憶を消去する。",
           "frequency": 8,
-          "difference": "erase は意図的・物理的に消す意味が強く、自然に忘れる forget よりも操作的である。",
+          "difference": "erase は記録や記憶を意図的・物理的に消す意味が強く、すでにある情報を失わず保つ retain とは逆方向の操作を表す。",
           "example": "Time cannot erase every memory.",
           "translation": "時間がたっても、すべての記憶を消し去れるわけではない。"
         }
