@@ -1,0 +1,591 @@
+{
+  "word": "perceive",
+  "slug": "perceive",
+  "ipa": "米: /pɚˈsiːv/｜英: /pəˈsiːv/。2音節で、第2音節 /ˈsiːv/ に主強勢がある。米語の第1音節は r 色のある /pɚ/、英語は弱い /pə/。",
+  "lead": "目・耳・鼻などの感覚を通して、人・物・動き・変化を直接捉える。完全に意識化したり、詳しく理解したりするとは限らない。",
+  "updated": "2026-08-24",
+  "notion_url": "https://app.notion.com/p/perceive-3c64faa9b77d8140b72bdf69bf18369c",
+  "pronunciation": [
+    "語末 /iːv/ は長母音 /iː/ と有声音 /v/ の組み合わせで、最後の /v/ を無声化しない。",
+    "三人称単数 perceives は /pɚˈsiːvz/、過去形・過去分詞 perceived は /pɚˈsiːvd/、-ing形 perceiving は /pɚˈsiːvɪŋ/。-s は /z/、-ed は有声音 /v/ の後なので /d/ となり、perceiving では語末の e を落とす。"
+  ],
+  "etymology": [
+    "後期中英語に、アングロフランス語・古フランス語 perceivre を経て、ラテン語 percipere「完全に取り込む、把握する」から入った。per-「十分に、徹底して」＋ capere「取る、つかむ」という構成で説明される。",
+    "英語では14世紀初めごろから、感覚で捉える用法と、心で理解・評価する用法が確認される。語源の「つかみ取る」という比喩的な核は、現代の知覚・認識の広がりを理解する助けになるが、個々の語義を機械的に予測するものではない。"
+  ],
+  "formation": [
+    {
+      "term": "perceives",
+      "description": "は三人称単数、perceived は過去形・過去分詞、perceiving は現在分詞・動名詞である。"
+    },
+    {
+      "term": "perception",
+      "description": "は「知覚、認識」、perceptive は「洞察力のある、知覚の鋭い」という主要派生語である。"
+    },
+    {
+      "term": "perceptible",
+      "description": "は「知覚できる、感じ取れる」、perceivable は「知覚可能な」、perceivably は「知覚できる形で」、perceiver は「知覚する人」を表す。"
+    },
+    {
+      "term": "perceived",
+      "description": "は過去分詞形容詞としても使われ、perceived threat のように「実際にそうだと断定するのでなく、誰かにそう認識・評価された」という意味を作る。"
+    }
+  ],
+  "core": [
+    {
+      "label": "perceive",
+      "description": "の核は、外界や状況から情報を受け取り、意識の中で「そうだ」と捉えること。感覚で捉える場合から、事実・意味・評価として捉える場合まで広がる。過去分詞形容詞の perceived は、その知覚・判断の結果として人からそう受け止められている状態を表す。"
+    },
+    {
+      "label": "感覚で対象や変化を捉える",
+      "description": "→ 「知覚する・気づく」（語義1）"
+    },
+    {
+      "label": "事実や状況がそうだと認識する",
+      "description": "→ 「認識する・気づく」（語義2）"
+    },
+    {
+      "label": "意味や構造、含意を心で捉える",
+      "description": "→ 「理解する・見抜く」（語義3）"
+    },
+    {
+      "label": "人や物をある性質のものとして位置づける",
+      "description": "→ 「～と見なす・受け止める」（語義4）"
+    },
+    {
+      "label": "知覚や判断の結果、そう受け止められている",
+      "description": "→ 「認識された・そう見なされた」（語義5）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【他動詞・感覚】感覚で知覚する、目や耳などで気づく",
+      "frequency": 8,
+      "register": [
+        "一般。see や notice よりやや硬く、説明文・報告・学術的な記述で目立つ。"
+      ],
+      "definition": "目・耳・鼻などの感覚を通して、人・物・動き・変化を直接捉える。完全に意識化したり、詳しく理解したりするとは限らない。",
+      "patterns": [
+        "perceive 〈対象〉",
+        "perceive 〈対象〉 doing",
+        "perceive that ..."
+      ],
+      "collocations": [
+        {
+          "pattern": "perceive a movement",
+          "use": "視界や周辺感覚から動きを捉える",
+          "example": "The guard perceived a movement near the entrance.",
+          "translation": "警備員は入口付近の動きに気づいた。"
+        },
+        {
+          "pattern": "perceive a change",
+          "use": "状態や環境の変化を感じ取る",
+          "example": "Residents quickly perceived a change in the air quality.",
+          "translation": "住民は空気の質の変化をすぐに感じ取った。"
+        },
+        {
+          "pattern": "perceive a sound",
+          "use": "音を耳で捉える",
+          "example": "She perceived a faint sound behind the wall.",
+          "translation": "彼女は壁の向こうのかすかな音を聞き取った。"
+        },
+        {
+          "pattern": "perceive a difference",
+          "use": "二つの刺激の違いを感覚的に捉える",
+          "example": "Some users cannot perceive a difference between the two displays.",
+          "translation": "2つの表示の違いを知覚できない利用者もいる。"
+        },
+        {
+          "pattern": "perceive a faint smell",
+          "use": "弱いにおいを鼻で感じ取る",
+          "example": "The dog perceived a faint smell of smoke.",
+          "translation": "その犬はかすかな煙のにおいを感じ取った。"
+        },
+        {
+          "pattern": "perceive the light",
+          "use": "光の有無や変化を視覚で捉える",
+          "example": "The sensor perceives the light reflected from the surface.",
+          "translation": "そのセンサーは表面から反射した光を検知する。"
+        }
+      ],
+      "notes": [
+        "感覚に入った対象を意識が捉える語で、意図的に詳しく調べることまでは含まない。perceive O doing は「Oが～しているのを知覚する」で、Oの動作をひとまとまりの出来事として捉える perceive O do と使い分ける。perceive O as B はこの感覚義ではなく、語義4の評価・分類である。"
+      ],
+      "synonyms": [
+        {
+          "word": "notice",
+          "definition": "感覚や注意によって何かに気づく",
+          "frequency": 9,
+          "difference": "perceive より日常的で、意識的な注意の結果にも自然に使える",
+          "example": "I noticed a crack in the glass.",
+          "translation": "私はガラスのひびに気づいた。"
+        },
+        {
+          "word": "detect",
+          "definition": "通常は見えにくいものを調べて発見する",
+          "frequency": 8,
+          "difference": "perceive より検出・発見の意図や装置の働きを強く示す",
+          "example": "The instrument detected a small leak.",
+          "translation": "その装置は小さな漏れを検出した。"
+        },
+        {
+          "word": "sense",
+          "definition": "五感や直感で何かを感じ取る",
+          "frequency": 8,
+          "difference": "perceive より感覚・直感寄りで、対象を明確に言語化しない場合にも使える",
+          "example": "I sensed movement in the dark.",
+          "translation": "私は暗闇で動きを感じ取った。"
+        },
+        {
+          "word": "observe",
+          "definition": "注意深く見聞きして事実を捉える",
+          "frequency": 8,
+          "difference": "perceive が単なる受容も含むのに対し、observe は注意を向ける行為を含みやすい",
+          "example": "The scientist observed a change in the cells.",
+          "translation": "科学者は細胞の変化を観察した。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "overlook",
+          "definition": "見えているもの・気づくべきものを見落とす",
+          "frequency": 7,
+          "difference": "perceive が対象を意識に入れるのに対し、overlook は注意不足で見落とすことを表す",
+          "example": "The reviewer overlooked a small error.",
+          "translation": "査読者は小さな誤りを見落とした。"
+        },
+        {
+          "word": "miss",
+          "definition": "対象を捉え損なう、見逃す",
+          "frequency": 9,
+          "difference": "overlook より広く、視認・聴取の機会を逃すことにも使える",
+          "example": "I missed the change in his expression.",
+          "translation": "私は彼の表情の変化を見逃した。"
+        },
+        {
+          "word": "fail to notice",
+          "definition": "気づくことに失敗する",
+          "frequency": 8,
+          "difference": "意図的な無視ではなく、知覚・注意の結果として気づかなかったことを明示する",
+          "example": "She failed to notice the warning light.",
+          "translation": "彼女は警告灯に気づかなかった。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【他動詞・認識】事実・状況に気づき、認識する",
+      "frequency": 8,
+      "register": [
+        "一般だがややフォーマル。報告書、評論、学術文、ビジネス文書で使いやすい。"
+      ],
+      "definition": "事実、問題、必要性、危険などが存在・成立していると心で認識する。単なる感覚入力より、状況を事実として受け止める段階に焦点がある。",
+      "patterns": [
+        "perceive that ...",
+        "perceive 〈wh節〉",
+        "perceive 〈名詞句〉"
+      ],
+      "collocations": [
+        {
+          "pattern": "perceive a problem",
+          "use": "問題が存在すると認識する",
+          "example": "The team perceived a problem in the current process.",
+          "translation": "チームは現在の工程に問題があると認識した。"
+        },
+        {
+          "pattern": "perceive a threat",
+          "use": "脅威が存在すると受け止める",
+          "example": "The community perceived a threat to its water supply.",
+          "translation": "地域社会は水の供給への脅威を認識した。"
+        },
+        {
+          "pattern": "perceive a need",
+          "use": "必要性を認識する",
+          "example": "The board perceived a need for clearer guidance.",
+          "translation": "理事会は、より明確な指針の必要性を認識した。"
+        },
+        {
+          "pattern": "perceive a risk",
+          "use": "危険性を認識する",
+          "example": "Investors perceived a risk in the proposed deal.",
+          "translation": "投資家は提案された取引にリスクがあると認識した。"
+        },
+        {
+          "pattern": "perceive the truth",
+          "use": "事実関係を真実として認識する",
+          "example": "Only later did he perceive the truth of the situation.",
+          "translation": "彼がその状況の真実に気づいたのは後になってからだった。"
+        },
+        {
+          "pattern": "perceive that something is wrong",
+          "use": "何かが間違っていると認識する",
+          "example": "She perceived that something was wrong with the report.",
+          "translation": "彼女はその報告書に何か問題があると気づいた。"
+        }
+      ],
+      "notes": [
+        "realize や recognize と重なるが、perceive は状況をどのように捉えたかという認識の枠組みに焦点を置きやすい。否定形では「気づいていない・認識していない」という意味になり、知識不足だけでなく、状況をそう捉えるに至っていないことも表す。語義1の直接の感覚知覚と、語義3の意味・含意の理解の中間に位置する学習上の区分であり、辞書によっては同じ大きな sense にまとめられる。"
+      ],
+      "synonyms": [
+        {
+          "word": "realize",
+          "definition": "事実や状況を理解し、気づく",
+          "frequency": 9,
+          "difference": "realize は気づきの到達点を直接表しやすく、perceive より会話的である",
+          "example": "I realized that the figures were incomplete.",
+          "translation": "私はその数字が不完全だと気づいた。"
+        },
+        {
+          "word": "recognize",
+          "definition": "事実・重要性・存在を認めて認識する",
+          "frequency": 9,
+          "difference": "recognize は既知のものとの照合や、存在・価値を認める含みが出やすい",
+          "example": "The agency recognized the need for reform.",
+          "translation": "その機関は改革の必要性を認識した。"
+        },
+        {
+          "word": "identify",
+          "definition": "対象や問題を特定する",
+          "frequency": 9,
+          "difference": "identify は何であるかを特定する行為に焦点があり、perceive のような広い受け止め方は表さない",
+          "example": "The audit identified a serious risk.",
+          "translation": "監査は重大なリスクを特定した。"
+        },
+        {
+          "word": "acknowledge",
+          "definition": "事実や問題の存在を認める",
+          "frequency": 8,
+          "difference": "acknowledge は認識に加えて、公に認める・受け入れる態度を含みやすい",
+          "example": "The company acknowledged the problem.",
+          "translation": "その会社は問題を認めた。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "overlook",
+          "definition": "認識すべき事実や問題を見落とす",
+          "frequency": 7,
+          "difference": "perceive が事実を認識するのに対し、overlook は注意や検討から漏らすことを表す",
+          "example": "The report overlooked a key constraint.",
+          "translation": "その報告書は重要な制約を見落とした。"
+        },
+        {
+          "word": "miss",
+          "definition": "事実や意味に気づき損なう",
+          "frequency": 9,
+          "difference": "miss は認識の機会を逃したことを広く表し、意図的な拒否までは含まない",
+          "example": "The analysis missed the main warning sign.",
+          "translation": "その分析は主な警告の兆候を見逃した。"
+        },
+        {
+          "word": "remain unaware of",
+          "definition": "～を知らないままでいる",
+          "frequency": 6,
+          "difference": "perceive の認識到達と反対に、対象が意識や知識に入らない状態を明示する",
+          "example": "They remained unaware of the change.",
+          "translation": "彼らはその変化に気づかないままだった。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【他動詞・理解】意味・構造・含意を理解する、見抜く",
+      "frequency": 7,
+      "register": [
+        "ややフォーマル。学術・評論・報道・ビジネスでも使われ、understand より分析的に響くことがある。"
+      ],
+      "definition": "目に見える事実から一歩進み、意味、関係、パターン、含意、難しさなどを心でつかむ。細部をすべて説明できることではなく、重要な構造を捉えることを表す。",
+      "patterns": [
+        "perceive 〈名詞〉",
+        "perceive that ...",
+        "perceive 〈how・why・what節〉"
+      ],
+      "collocations": [
+        {
+          "pattern": "perceive the significance",
+          "use": "重要性・意義を理解する",
+          "example": "The students gradually perceived the significance of the experiment.",
+          "translation": "学生たちは次第にその実験の意義を理解した。"
+        },
+        {
+          "pattern": "perceive a pattern",
+          "use": "繰り返しや規則性を見抜く",
+          "example": "The analyst perceived a pattern in the apparently random data.",
+          "translation": "分析担当者は一見無作為なデータにパターンを見いだした。"
+        },
+        {
+          "pattern": "perceive a relationship",
+          "use": "二つの事柄の関係を理解する",
+          "example": "Readers may perceive a relationship between the two themes.",
+          "translation": "読者はその2つのテーマの関係を理解するかもしれない。"
+        },
+        {
+          "pattern": "perceive an implication",
+          "use": "発言や事実から含意を読み取る",
+          "example": "She perceived an implication that the plan would be delayed.",
+          "translation": "彼女はその計画が遅れるという含意を読み取った。"
+        },
+        {
+          "pattern": "perceive the difficulty",
+          "use": "課題の難しさを理解する",
+          "example": "He did not perceive the difficulty of the task at first.",
+          "translation": "彼は初め、その課題の難しさを理解していなかった。"
+        },
+        {
+          "pattern": "perceive an opportunity",
+          "use": "状況の中の機会を見抜く",
+          "example": "The founder perceived an opportunity in the changing market.",
+          "translation": "創業者は市場の変化の中に機会を見いだした。"
+        }
+      ],
+      "notes": [
+        "understand よりも、対象の意味・関係・含意を「捉えた」という視点が前面に出やすい。完全で詳細な理解を必ず含むわけではない。語義2の「事実だと認識する」と近いが、語義3では事実から読み取る意味や構造が中心で、語義4の as/to be は人・物への評価や分類を作る構文である。"
+      ],
+      "synonyms": [
+        {
+          "word": "understand",
+          "definition": "意味・仕組み・状況を理解する",
+          "frequency": 10,
+          "difference": "understand は最も広く日常的で、perceive のような分析的な捉え方を必ずしも含まない",
+          "example": "Do you understand the point of the example?",
+          "translation": "その例の要点が分かりますか。"
+        },
+        {
+          "word": "comprehend",
+          "definition": "内容を十分に理解する",
+          "frequency": 6,
+          "difference": "comprehend は perceive より硬く、内容全体を把握したことを強く示す",
+          "example": "The reader comprehended the argument quickly.",
+          "translation": "その読者は議論をすぐに理解した。"
+        },
+        {
+          "word": "grasp",
+          "definition": "要点や構造をすばやくつかむ",
+          "frequency": 8,
+          "difference": "grasp は理解の到達を鮮明に示し、perceive より口語的で、要点把握の含みが強い",
+          "example": "She grasped the underlying idea.",
+          "translation": "彼女は根底にある考えをつかんだ。"
+        },
+        {
+          "word": "discern",
+          "definition": "見分けにくい違い・意味を識別する",
+          "frequency": 6,
+          "difference": "discern は微妙な差や隠れた意味を見抜くことに焦点がある",
+          "example": "Experts discerned a subtle shift in tone.",
+          "translation": "専門家は口調の微妙な変化を見抜いた。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "misunderstand",
+          "definition": "意味や状況を誤って理解する",
+          "frequency": 9,
+          "difference": "perceive が構造や含意を正しく捉えるのに対し、misunderstand は解釈の内容が誤る",
+          "example": "I misunderstood the implication of his reply.",
+          "translation": "私は彼の返答の含意を誤解した。"
+        },
+        {
+          "word": "misinterpret",
+          "definition": "発言・行動・資料を誤って解釈する",
+          "frequency": 8,
+          "difference": "misinterpret は解釈の枠組みを誤ることに焦点があり、対象が言語・記号である場合に特に自然",
+          "example": "The headline was misinterpreted as a promise.",
+          "translation": "その見出しは約束だと誤解釈された。"
+        },
+        {
+          "word": "fail to grasp",
+          "definition": "要点・構造をつかめない",
+          "frequency": 7,
+          "difference": "完全な反対というより、理解に到達しないことを明示する対立表現である",
+          "example": "The audience failed to grasp the central distinction.",
+          "translation": "聴衆は中心的な違いをつかめなかった。"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "【他動詞・評価】人・物を特定のものとして受け止める、見なす",
+      "frequency": 8,
+      "register": [
+        "ややフォーマル。特に be perceived as",
+        "to be の受け身が、報道・論文・ビジネス文書で頻出する。"
+      ],
+      "definition": "人、組織、物、状況などを、ある性質・立場・評価をもつものとして捉える。ここでは対象の客観的性質を断定するより、話者や集団の認識・評価の枠組みを表す。",
+      "patterns": [
+        "perceive 〈対象〉 as 〈性質・分類〉",
+        "perceive 〈対象〉 to be・to have 〈性質・所有〉",
+        "〈対象〉 is perceived as 〈性質・分類〉",
+        "〈対象〉 is perceived to be・to have 〈性質・所有〉"
+      ],
+      "collocations": [
+        {
+          "pattern": "perceive a company as reliable",
+          "use": "会社を信頼できるものと受け止める",
+          "example": "Customers perceive the company as reliable.",
+          "translation": "顧客はその会社を信頼できると受け止めている。"
+        },
+        {
+          "pattern": "perceive someone as a threat",
+          "use": "人を脅威と見なす",
+          "example": "The rival perceived the newcomer as a threat.",
+          "translation": "競争相手はその新参者を脅威と見なした。"
+        },
+        {
+          "pattern": "perceive a policy to be unfair",
+          "use": "方針を不公平だと判断する",
+          "example": "Employees perceived the policy to be unfair.",
+          "translation": "従業員はその方針を不公平だと受け止めた。"
+        },
+        {
+          "pattern": "be perceived as successful",
+          "use": "成功していると見なされる",
+          "example": "The project is widely perceived as successful.",
+          "translation": "そのプロジェクトは広く成功したと見なされている。"
+        },
+        {
+          "pattern": "be perceived to have an advantage",
+          "use": "優位性があると見なされる",
+          "example": "The smaller firm is perceived to have an advantage.",
+          "translation": "その小規模企業には優位性があると見なされている。"
+        },
+        {
+          "pattern": "perceive oneself as a leader",
+          "use": "自分を指導者だと認識する",
+          "example": "She perceives herself as a practical leader.",
+          "translation": "彼女は自分を実務的なリーダーだと認識している。"
+        }
+      ],
+      "notes": [
+        "as の後ろには名詞・形容詞相当の語句を置き、to be・to have の後ろには対象の性質や所有を置く。受け身の perceived は「そう見られている」であり、実際にそうであるという話者自身の断定とは限らない。perceive oneself as ... も可能だが、自己認識を述べる構文として扱う。"
+      ],
+      "synonyms": [
+        {
+          "word": "regard",
+          "definition": "人・物をある性質のものと見なす",
+          "frequency": 8,
+          "difference": "regard A as B は perceive A as B に近いが、判断・評価としての明示的な見なしに寄る",
+          "example": "Many regard the rule as outdated.",
+          "translation": "多くの人がその規則を時代遅れだと見なしている。"
+        },
+        {
+          "word": "view",
+          "definition": "人・物・問題をある観点から見る",
+          "frequency": 9,
+          "difference": "view は観点や意見の枠組みを示し、perceive より意識的な立場表明に近いことがある",
+          "example": "The public views the measure as necessary.",
+          "translation": "世間はその措置を必要なものと見ている。"
+        },
+        {
+          "word": "consider",
+          "definition": "人・物をあるものとして判断する",
+          "frequency": 10,
+          "difference": "consider A (to be) B は判断の行為を強く示し、perceive の受け止め方より意図的である",
+          "example": "They considered the proposal to be practical.",
+          "translation": "彼らはその提案を実行可能だと判断した。"
+        },
+        {
+          "word": "see",
+          "definition": "人・物をある役割・性質として捉える",
+          "frequency": 10,
+          "difference": "see A as B は口語的で広く使えるが、perceive は認識・評価のずれを分析的に述べやすい",
+          "example": "She sees the experience as a lesson.",
+          "translation": "彼女はその経験を教訓と捉えている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【過去分詞形・形容詞】認識された、そう受け止められた",
+      "frequency": 7,
+      "register": [
+        "一般。ニュース、論文、調査報告、ビジネス文書で perceived threat・perceived risk などの形が頻出する。"
+      ],
+      "definition": "perceived は perceive の過去分詞。限定用法では、実際の性質を断定するのでなく、誰かにそう認識・評価されている状態を表す。",
+      "patterns": [
+        "a perceived 〈名詞〉",
+        "a widely・commonly perceived 〈名詞〉",
+        "be perceived as 〈性質・分類〉",
+        "be perceived to be・to have 〈性質・所有〉"
+      ],
+      "collocations": [
+        {
+          "pattern": "perceived threat",
+          "use": "認識された脅威、脅威と受け止められたもの",
+          "example": "The policy was introduced in response to a perceived threat.",
+          "translation": "その方針は、脅威と認識されたものに対応して導入された。"
+        },
+        {
+          "pattern": "perceived risk",
+          "use": "認識されたリスク、リスクと受け止められたもの",
+          "example": "The perceived risk affected consumer behavior.",
+          "translation": "認識されたリスクが消費者行動に影響した。"
+        },
+        {
+          "pattern": "perceived benefit",
+          "use": "認識された利点、利点と受け止められたもの",
+          "example": "The study measured both costs and perceived benefits.",
+          "translation": "その研究は費用と認識された利点の両方を測定した。"
+        },
+        {
+          "pattern": "perceived weakness",
+          "use": "弱点と見なされた点",
+          "example": "The opponent targeted a perceived weakness in the defense.",
+          "translation": "相手は守備の弱点と見なされた点を狙った。"
+        },
+        {
+          "pattern": "widely perceived problem",
+          "use": "広く問題と認識されたもの",
+          "example": "Housing affordability is a widely perceived problem.",
+          "translation": "住宅を手頃な価格で確保できないことは、広く認識された問題である。"
+        },
+        {
+          "pattern": "perceived need",
+          "use": "必要性と受け止められたもの",
+          "example": "The service was created in response to a perceived need.",
+          "translation": "そのサービスは必要性があるとの認識に応じて作られた。"
+        }
+      ],
+      "notes": [
+        "名詞の前の perceived は「認識された・そう見なされた」という形容詞的用法で、客観的な事実の確定を避ける働きがある。受け身の動詞 be perceived と形は同じだが、前者は名詞を修飾し、後者は認識の受け手となる主語を取る。perceptible「知覚できる」と混同しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "recognized",
+          "definition": "存在・価値・重要性を認められた",
+          "frequency": 9,
+          "difference": "recognized は認識が成立したことを比較的中立に表し、perceived は評価や見え方の側面を残す",
+          "example": "The recognized need for reform was widely discussed.",
+          "translation": "改革の必要性が認識され、広く議論された。"
+        },
+        {
+          "word": "regarded",
+          "definition": "あるものとして見なされた",
+          "frequency": 8,
+          "difference": "regarded は判断・評価の結果に焦点があり、perceived より「見なす」という行為が明確である",
+          "example": "The proposal was regarded as realistic.",
+          "translation": "その提案は現実的だと見なされた。"
+        },
+        {
+          "word": "supposed",
+          "definition": "そうだと思われている、そうであると想定された",
+          "frequency": 9,
+          "difference": "supposed は根拠の弱い想定や通念を含むことがあり、perceived より不確実性が強い",
+          "example": "The supposed advantage disappeared in practice.",
+          "translation": "その優位性とされるものは実際には消えた。"
+        },
+        {
+          "word": "apparent",
+          "definition": "見かけ上明らかな、そう見える",
+          "frequency": 9,
+          "difference": "apparent は観察者にとって明らかに見える状態を表し、人々の認識・評価を明示しない",
+          "example": "The apparent benefit was short-lived.",
+          "translation": "見かけ上の利点は長続きしなかった。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
