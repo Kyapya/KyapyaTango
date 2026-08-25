@@ -1,0 +1,581 @@
+{
+  "word": "distinct",
+  "slug": "distinct",
+  "ipa": "米・英: /dɪˈstɪŋkt/。2音節の dɪ-STINGKT で、第2音節に主強勢がある。第1音節は弱い /dɪ/、第2音節の母音は /ɪ/ で、語末は /ŋ/・/k/・/t/ が連続する /ŋkt/ である。",
+  "lead": "二つ以上の物、種類、考え、段階、役割などが同一ではなく、それぞれ独立して区別できることを表す。単に小さな差があるというより、分類・同一性・役割の境界を引けることが中心である。ただし、物理的に離れていることや相互に無関係であることまでは必ずしも意味しない。",
+  "updated": "2026-08-25",
+  "notion_url": "https://app.notion.com/p/distinct-3c74faa9b77d8164b813ed507b3e3b11",
+  "pronunciation": [
+    "語頭を /dɪs/ と切って強く読まず、/s/ は強勢のある第2音節の /st/ の一部として発音する。語末の3子音は学習者には難しいが、丁寧な発音では /k/ と /t/ を意識する。副詞 distinctly は /dɪˈstɪŋktli/ で、主強勢を保ったまま /li/ が加わる。"
+  ],
+  "etymology": [
+    "中英語 distinct は、ラテン語 distinctus「区別された、分けられた」に由来する。distinctus は distinguere「印を付けて分ける、区別する」の過去分詞で、英語 distinguish「見分ける、区別する」も同じ語源系統に属する。",
+    "「ほかとの境界が付けられている」という語源的な発想は、現代の「別個の」と「はっきり見分けられる」の両方につながる。ただし、現代英語では distinct は状態を表す形容詞、distinguish は区別する行為を表す動詞であり、品詞も構文も異なる。"
+  ],
+  "formation": [
+    {
+      "term": "distinction",
+      "description": "— 名詞「区別、相違、卓越」。物事の間に境界を設けること、または目立って優れていることを表す。"
+    },
+    {
+      "term": "distinctive",
+      "description": "— 形容詞「特徴的な、独特の」。ほかと見分ける手掛かりになる特徴を持つことを表す。"
+    },
+    {
+      "term": "distinctly",
+      "description": "— 副詞「はっきりと、明らかに」。知覚・記憶の明瞭さのほか、話者の強い印象を表すこともある。"
+    },
+    {
+      "term": "distinctness",
+      "description": "— 名詞「明瞭さ、別個性」。境界や知覚がはっきりしている性質を表す。"
+    },
+    {
+      "term": "indistinct",
+      "description": "— 接頭辞 in-「否定」を付けた形容詞「ぼんやりした、はっきり区別できない」。"
+    },
+    {
+      "term": "indistinctly",
+      "description": "— 副詞「ぼんやりと、不明瞭に」。音・像・記憶などが明確でない様子を表す。"
+    }
+  ],
+  "core": [
+    {
+      "label": "distinct",
+      "description": "の共通核は、あるものの境界や特徴がほかに埋もれず、別のものとして取り出せることである。何が取り出されるかによって、対象の別個性、知覚の明瞭さ、程度・存在の明白さ、重複しない値、合着していない植物器官という用法に広がる。"
+    },
+    {
+      "label": "対象の境界がほかに埋もれない状態",
+      "description": "→ 「別個の、明確に異なる」（語義1）"
+    },
+    {
+      "label": "知覚上の特徴がほかに埋もれない状態",
+      "description": "→ 「はっきりした、明瞭な」（語義2）"
+    },
+    {
+      "label": "程度や存在がほかに埋もれない状態",
+      "description": "→ 「明らかな、はっきり認められる」（語義3）"
+    },
+    {
+      "label": "値の同一性がほかに埋もれない状態",
+      "description": "→ 「相異なる、重複しない」（語義4）"
+    },
+    {
+      "label": "植物器官の境界がほかに埋もれない状態",
+      "description": "→ 「分離した、合着していない」（語義5）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【形容詞・限定／叙述】別個の、明確に異なる",
+      "frequency": 9,
+      "register": [
+        "標準語。日常会話、学術、ビジネス、報道で広く使う。分類や概念の境界を明示する文章では特に多い。"
+      ],
+      "definition": "二つ以上の物、種類、考え、段階、役割などが同一ではなく、それぞれ独立して区別できることを表す。単に小さな差があるというより、分類・同一性・役割の境界を引けることが中心である。ただし、物理的に離れていることや相互に無関係であることまでは必ずしも意味しない。",
+      "patterns": [
+        "a distinct 〈type/category/group/stage〉＝別個の〈種類・分類・集団・段階〉",
+        "〈A〉 + be distinct from 〈B〉＝AはBとは明確に異なる",
+        "as distinct from 〈B〉＝Bではなく、それとは区別して",
+        "two/several distinct 〈objects/ideas〉＝二つまたはいくつかの別個の〈対象・考え〉"
+      ],
+      "collocations": [
+        {
+          "pattern": "be distinct from 〈something else〉",
+          "use": "二つの対象・概念が同一ではなく、区別すべきものであると明示する。",
+          "example": "Biological sex is distinct from gender identity, although the two concepts may interact.",
+          "translation": "生物学的な性はジェンダー・アイデンティティとは別の概念だが、両者は相互に関係することがある。"
+        },
+        {
+          "pattern": "as distinct from 〈something else〉",
+          "use": "直前の名称・役割・概念を、似ている別のものではなくこちらだと対比する。",
+          "example": "The report measures household income, as distinct from individual earnings.",
+          "translation": "その報告書が測定しているのは、個人の所得ではなく、それと区別された世帯所得である。"
+        },
+        {
+          "pattern": "two distinct 〈groups/categories/periods〉",
+          "use": "数え上げる対象が重なった一つのまとまりではなく、区別可能な複数単位であると示す。",
+          "example": "The survey revealed two distinct groups of customers.",
+          "translation": "その調査から、明確に異なる二つの顧客群が明らかになった。"
+        },
+        {
+          "pattern": "a distinct 〈type/form/species〉",
+          "use": "ある対象を既存の種類と同一視せず、独立した型・形・種として分類する。",
+          "example": "Researchers identified the samples as a distinct form of the virus.",
+          "translation": "研究者たちは、その試料をそのウイルスの別個の型と特定した。"
+        },
+        {
+          "pattern": "a distinct 〈role/function/identity〉",
+          "use": "組織や制度の中で、役割・機能・同一性がほかと混ざらず独立していることを表す。",
+          "example": "The board and the management team have distinct roles.",
+          "translation": "取締役会と経営陣には、それぞれ異なる役割がある。"
+        },
+        {
+          "pattern": "remain distinct",
+          "use": "接触・類似・統合があっても、二つ以上の対象が区別できる状態を保つ。",
+          "example": "The two traditions influenced each other but remained distinct.",
+          "translation": "その二つの伝統は互いに影響し合ったが、別個のものではあり続けた。"
+        }
+      ],
+      "notes": [
+        "distinct from が標準的な形であり、差の基準を導くのに distinct than は使わない。A is distinct from B. はAとBの同一性・種類・役割が異なることを述べる。A is different from B. より分類上の境界を意識させやすいが、「完全に無関係」という意味ではない。as distinct from は「〜とは別に」ではなく、「〜ではなく、それと区別して」という対比を作る。単に追加を表す in addition to とは異なる。distinct と separate も同一ではなく、distinct concepts は概念上区別できること、separate rooms は空間・配置上離れていることを中心にする。"
+      ],
+      "synonyms": [
+        {
+          "word": "different",
+          "definition": "二つ以上のものが同じではない。",
+          "frequency": 10,
+          "difference": "different は大小を問わず差があることを広く表す。distinct は差によって対象を別々のものとして区別できることを強く示す。",
+          "example": "The revised plan is different from the original one in several details.",
+          "translation": "改訂案は、いくつかの細部で原案と異なる。"
+        },
+        {
+          "word": "separate",
+          "definition": "物・場所・組織などが結合せず、離れた単位になっている。",
+          "frequency": 9,
+          "difference": "separate は接続・配置・所属が分かれていることを強調する。distinct は同じ場所や体系の中にあっても、性質や同一性を区別できれば使える。",
+          "example": "The interviews were conducted in separate rooms.",
+          "translation": "面接は別々の部屋で行われた。"
+        },
+        {
+          "word": "discrete",
+          "definition": "連続せず、一つ一つ独立した単位として分かれている。",
+          "frequency": 5,
+          "difference": "discrete は非連続性と個々の独立性を強く表し、学術・技術文脈で多い。distinct は境界を認識できることが中心で、対象同士が接触・関連していても使える。",
+          "example": "The process consists of four discrete stages.",
+          "translation": "その工程は、互いに区切られた四つの段階から成る。"
+        },
+        {
+          "word": "differentiated",
+          "definition": "特徴・機能・市場などによって、ほかと区別された。",
+          "frequency": 5,
+          "difference": "differentiated は区別する過程や差別化の結果を含みやすい。distinct は、その過程を問わず区別可能な状態を述べる。",
+          "example": "The company offers a highly differentiated service.",
+          "translation": "その会社は他社と明確に差別化されたサービスを提供している。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "identical",
+          "definition": "比較対象がすべての関連する点でまったく同じである。",
+          "frequency": 8,
+          "difference": "distinct が対象を別物として区別できることを表すのに対し、identical は差を認められないほど同一であることを表す。",
+          "example": "The two copies appear identical.",
+          "translation": "その二つの複製は同一に見える。"
+        },
+        {
+          "word": "indistinguishable",
+          "definition": "見た目・性質・結果などから区別できない。",
+          "frequency": 6,
+          "difference": "distinct との対立は「別個に見分けられるか」という認識上の軸にある。indistinguishable は実際に同一とは限らないが、利用できる手掛かりでは見分けられない。",
+          "example": "The imitation was almost indistinguishable from the original.",
+          "translation": "その模造品は本物とほとんど見分けがつかなかった。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【形容詞・限定／叙述】はっきりした、明瞭な",
+      "frequency": 8,
+      "register": [
+        "標準語。日常会話、描写、科学的観察、製品評価などで使う。視覚だけでなく、音・匂い・味・記憶にも用いる。"
+      ],
+      "definition": "形、線、音、声、匂い、味、記憶、特徴などがぼやけず、目・耳・鼻・心などで容易に認識できることを表す。ここでは、ほかと種類が違うことより、知覚・認識の輪郭が明瞭であることが中心である。",
+      "patterns": [
+        "a distinct 〈sound/smell/taste/outline/feature〉＝はっきり分かる〈音・匂い・味・輪郭・特徴〉",
+        "〈sound/shape/feature〉 + be/become/remain distinct＝〈音・形・特徴〉がはっきりしている"
+      ],
+      "collocations": [
+        {
+          "pattern": "a distinct 〈sound/voice/accent〉",
+          "use": "音声や話し方の特徴が耳ではっきり認識できることを表す。",
+          "example": "A distinct clicking sound came from the engine.",
+          "translation": "エンジンから、はっきりとしたカチカチ音が聞こえた。"
+        },
+        {
+          "pattern": "a distinct 〈smell/odor/aroma〉",
+          "use": "匂いが弱く曖昧なのではなく、何らかの特徴として明確に感じられることを表す。",
+          "example": "There was a distinct smell of smoke in the hallway.",
+          "translation": "廊下には、はっきりと煙の匂いがした。"
+        },
+        {
+          "pattern": "a distinct 〈outline/shape/boundary〉",
+          "use": "形や境界線が背景に溶け込まず、目で明確に追えることを表す。",
+          "example": "At sunrise, the mountain formed a distinct outline against the sky.",
+          "translation": "日の出のころ、その山は空を背景にはっきりした輪郭を見せた。"
+        },
+        {
+          "pattern": "a distinct 〈flavor/taste/note〉",
+          "use": "飲食物の味・香りに、識別できる特徴があることを表す。",
+          "example": "The sauce has a distinct smoky flavor.",
+          "translation": "そのソースには、はっきりとした燻製風味がある。"
+        },
+        {
+          "pattern": "a distinct memory",
+          "use": "過去の場面や出来事を曖昧にではなく、細部を伴って明確に覚えていることを表す。",
+          "example": "I have a distinct memory of locking the back door.",
+          "translation": "私には裏口に鍵を掛けたというはっきりした記憶がある。"
+        },
+        {
+          "pattern": "become less distinct",
+          "use": "光、距離、雑音、時間などによって、像・音・記憶の明瞭さが下がることを表す。",
+          "example": "The markings became less distinct as the paint faded.",
+          "translation": "塗料が色あせるにつれて、その印は次第に不鮮明になった。"
+        }
+      ],
+      "notes": [
+        "この語義のdistinctは、知覚できる「特徴」があることを示すが、その特徴が珍しい、魅力的、またはその対象だけに固有だとは限らない。a distinct accent はアクセントが明瞭に聞き取れることを表し得るのに対し、a distinctive accent はほかと見分ける目印になる独特のアクセントを表す。clear は障害や曖昧さがなく理解・知覚しやすいことを広く表す。distinct は輪郭や特徴を一つのものとして取り出せることを強調する。画像については clear image が自然な一般表現であり、distinct outline のように識別対象を示すとdistinctの意味が明確になる。"
+      ],
+      "synonyms": [
+        {
+          "word": "clear",
+          "definition": "見る、聞く、理解する際の妨げがなく、容易に知覚・把握できる。",
+          "frequency": 10,
+          "difference": "clear は情報や説明の理解しやすさにも広く使う。distinct は、音・形・特徴の輪郭がほかから分かれて認識できることに焦点がある。",
+          "example": "Her explanation was clear and concise.",
+          "translation": "彼女の説明は明快で簡潔だった。"
+        },
+        {
+          "word": "definite",
+          "definition": "輪郭、証拠、計画などが曖昧でなく、確定的または明確である。",
+          "frequency": 8,
+          "difference": "definite は不確定性の少なさを強調し、予定・答えにも使う。distinct は主に識別可能な感覚的・認識的特徴を強調する。",
+          "example": "We need a definite answer by Friday.",
+          "translation": "金曜日までに明確な返答が必要だ。"
+        },
+        {
+          "word": "discernible",
+          "definition": "注意すれば知覚・認識できる程度に見分けられる。",
+          "frequency": 4,
+          "difference": "discernible は「辛うじてでも識別可能か」という閾値を意識させ、しばしば形式的である。distinct は通常、特徴がより明瞭に現れていることを示す。",
+          "example": "A faint pattern was discernible beneath the top layer of paint.",
+          "translation": "上塗りの下に、かすかな模様が見分けられた。"
+        },
+        {
+          "word": "unmistakable",
+          "definition": "ほかのものと取り違えようがないほど明瞭である。",
+          "frequency": 6,
+          "difference": "unmistakable は誤認の余地がないという強い程度を表す。distinct は明瞭さを表すが、常にそこまで絶対的ではない。",
+          "example": "His voice has an unmistakable warmth.",
+          "translation": "彼の声には、聞き違えようのない温かみがある。"
+        },
+        {
+          "word": "vivid",
+          "definition": "色、描写、記憶、想像などが鮮明で、生き生きと感じられる。",
+          "frequency": 7,
+          "difference": "vivid は鮮やかさや心理的な生々しさを含む。distinct は、感情的な強さを伴わず、単に輪郭・特徴が明瞭である場合にも使える。",
+          "example": "She gave a vivid description of the storm.",
+          "translation": "彼女はその嵐を生々しく描写した。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "indistinct",
+          "definition": "輪郭・音・記憶などがぼんやりして、はっきり識別できない。",
+          "frequency": 5,
+          "difference": "distinct と同じ明瞭さの軸で直接反対を表す派生語である。対象が存在しないのではなく、知覚・認識しにくいことを示す。",
+          "example": "The figures in the distance were indistinct.",
+          "translation": "遠くの人影はぼんやりしていた。"
+        },
+        {
+          "word": "faint",
+          "definition": "音、光、匂い、印などが弱く、知覚しにくい。",
+          "frequency": 8,
+          "difference": "faint は刺激の弱さを中心にする。distinct は識別の明瞭さを中心にするため、弱くても輪郭を見分けられる音や印はfaint but distinctと表せる。",
+          "example": "We heard a faint noise from upstairs.",
+          "translation": "私たちは上の階からかすかな物音を聞いた。"
+        },
+        {
+          "word": "blurred",
+          "definition": "像・境界・記憶などの輪郭がにじみ、明瞭でない。",
+          "frequency": 7,
+          "difference": "blurred は輪郭が物理的または比喩的にぼやけた状態を表す。distinct は、輪郭をほかから切り分けられる状態を表す。",
+          "example": "The photograph was blurred by the movement of the camera.",
+          "translation": "その写真はカメラの動きでぼやけていた。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【形容詞・主に限定】明らかな、はっきり認められる",
+      "frequency": 8,
+      "register": [
+        "標準語。会話、報道、ビジネス、評論で広く使う。distinct possibility、distinct advantage、distinct impression は定着度が高い。"
+      ],
+      "definition": "可能性、印象、利点、変化、傾向、不足などが、無視できないほどはっきり存在する、または認められることを表す。知覚対象の輪郭ではなく、程度・存在・判断が明白であることが中心である。a distinct possibility は現実に考慮すべき可能性を示すが、必ず起こることまでは意味しない。",
+      "patterns": [
+        "a distinct 〈possibility/chance/risk〉＝はっきり存在する〈可能性・見込み・危険〉",
+        "a distinct 〈advantage/disadvantage/improvement/change〉＝明白な〈利点・不利・改善・変化〉",
+        "have/get the distinct impression that 〈節〉＝〜だという強い印象を持つ",
+        "show a distinct 〈tendency/preference/lack〉＝明らかな〈傾向・好み・不足〉を示す"
+      ],
+      "collocations": [
+        {
+          "pattern": "a distinct possibility that 〈節〉",
+          "use": "ある出来事が現実に起こり得るため、無視せず考慮すべきだと述べる。",
+          "example": "There is a distinct possibility that the launch will be delayed by the weather.",
+          "translation": "天候によって打ち上げが延期される可能性は十分にある。"
+        },
+        {
+          "pattern": "a distinct advantage over someone/something",
+          "use": "比較対象に対して、認識できる明確な優位性があることを示す。",
+          "example": "The smaller device has a distinct advantage over its competitors in portability.",
+          "translation": "その小型機器は携帯性の点で競合製品より明らかに有利だ。"
+        },
+        {
+          "pattern": "a distinct improvement on/over something",
+          "use": "以前の状態・製品・案と比べ、改善が明確に認められることを表す。",
+          "example": "The new timetable is a distinct improvement on the previous one.",
+          "translation": "新しい時刻表は以前のものより明らかに改善されている。"
+        },
+        {
+          "pattern": "have the distinct impression that 〈節〉",
+          "use": "証明済みの事実とは限らないが、話者が強く明確な印象を持っていると述べる。",
+          "example": "I had the distinct impression that she wanted to end the meeting early.",
+          "translation": "私には、彼女が会議を早く終えたがっているというはっきりした印象があった。"
+        },
+        {
+          "pattern": "a distinct lack of something",
+          "use": "必要・期待されるものが明らかに不足していることを、しばしば批判的または皮肉に指摘する。",
+          "example": "The proposal shows a distinct lack of practical detail.",
+          "translation": "その提案には実務的な詳細が明らかに欠けている。"
+        },
+        {
+          "pattern": "show a distinct 〈tendency/preference〉",
+          "use": "行動や選択に、偶然とは見なしにくい明確な傾向・好みが現れていると述べる。",
+          "example": "Younger respondents showed a distinct preference for monthly subscriptions.",
+          "translation": "若い回答者は月額契約を明らかに好む傾向を示した。"
+        }
+      ],
+      "notes": [
+        "この語義は主に名詞の前で使い、a distinct possibility、a distinct advantage のように程度を強める。distinct 自体が「確実な」を意味するわけではないため、a distinct possibility を「確実に起こること」と訳さない。可能性が明確に存在するという意味であり、その確率は文脈で決まる。the distinct impression that ... は話者の強い印象であって、内容の真実性を保証しない。distinct lack of ... は不足が目立つことを表し、しばしば否定的評価を伴う。この評価を、distinct advantage のような中立・肯定的表現へ一般化しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "clear",
+          "definition": "可能性、利点、傾向、証拠などが容易に理解・認識できる。",
+          "frequency": 10,
+          "difference": "clear は判断の分かりやすさを広く表す。distinct は、程度や存在が背景から浮かび上がるほど認められることを強調する。",
+          "example": "The data show a clear decline in demand.",
+          "translation": "そのデータは需要の明らかな減少を示している。"
+        },
+        {
+          "word": "definite",
+          "definition": "可能性、計画、利点などが曖昧でなく、明確に定まっている。",
+          "frequency": 8,
+          "difference": "definite は確定性を強く示し、a definite plan のように内容が決まっている場合にも使う。distinct possibility は無視できない可能性であって、結果の確定を意味しない。",
+          "example": "We have no definite date for the move yet.",
+          "translation": "移転の確定日はまだ決まっていない。"
+        },
+        {
+          "word": "noticeable",
+          "definition": "変化、差、効果などが気付ける程度に目立つ。",
+          "frequency": 8,
+          "difference": "noticeable は観察者が実際に気付く程度を中心にする。distinct は、可能性や印象のような抽象的判断にも広く使える。",
+          "example": "There was a noticeable drop in noise after the repairs.",
+          "translation": "修理後、騒音が目に見えて減った。"
+        },
+        {
+          "word": "pronounced",
+          "definition": "差、傾向、特徴などが特に顕著である。",
+          "frequency": 6,
+          "difference": "pronounced は通常、distinct より強く、観察可能な差や特徴が際立つことを表す。可能性や話者の印象にはdistinctほど広く使わない。",
+          "example": "The regional gap is most pronounced among older workers.",
+          "translation": "地域差は高年齢の労働者の間で最も顕著である。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "slight",
+          "definition": "差、可能性、変化、利点などの程度が小さく、目立たない。",
+          "frequency": 9,
+          "difference": "distinct が無視しにくい明確な程度を示すのに対し、slight は存在しても程度が小さいことを示す。",
+          "example": "There is only a slight chance of rain.",
+          "translation": "雨が降る可能性はわずかしかない。"
+        },
+        {
+          "word": "negligible",
+          "definition": "影響、差、危険、可能性などが無視できるほど小さい。",
+          "frequency": 6,
+          "difference": "distinct が考慮に値する存在・程度を示すのに対し、negligible は実務上考慮しなくてよいほど小さいことを表す。",
+          "example": "The change had a negligible effect on total costs.",
+          "translation": "その変更が総費用に与えた影響は無視できるほど小さかった。"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "【形容詞・数学／データ処理】相異なる、重複しない",
+      "frequency": 5,
+      "register": [
+        "数学、統計、データ分析、データベース。一般英語の「別個の」から直接理解できる専門的用法である。SQLでは大文字の DISTINCT がキーワードとして用いられる。"
+      ],
+      "definition": "集合の要素、数、組合せ、データ値、行などについて、同じものとして等しくない、または重複を除けば別々に数えられることを表す。数学では複数の対象が互いに等しくないこと、データ処理では同一値・同一行を一つにまとめた結果を説明する。",
+      "patterns": [
+        "distinct 〈values/elements/points/solutions〉＝互いに異なる〈値・要素・点・解〉",
+        "〈objects〉 + be pairwise distinct＝任意の二つが互いに異なる",
+        "the number of distinct 〈values/categories〉＝重複を除いた〈値・分類〉の数",
+        "SELECT DISTINCT 〈column/list〉＝SQLで重複行を除いて選択する"
+      ],
+      "collocations": [
+        {
+          "pattern": "distinct 〈values/elements〉",
+          "use": "同じ値・要素を重複して数えず、互いに異なるものだけを対象にする。",
+          "example": "The column contains twelve entries but only five distinct values.",
+          "translation": "その列には12件のデータがあるが、重複を除くと値は5種類しかない。"
+        },
+        {
+          "pattern": "pairwise distinct 〈numbers/sets/points〉",
+          "use": "対象の任意の二つを選んでも同一にならないという数学的条件を明示する。",
+          "example": "Let a, b, and c be pairwise distinct positive integers.",
+          "translation": "a、b、cを、どの二つも互いに異なる正の整数とする。"
+        },
+        {
+          "pattern": "the number of distinct 〈values/items〉",
+          "use": "出現回数ではなく、重複を除いた種類数を数える。",
+          "example": "We counted the number of distinct error codes in the log.",
+          "translation": "私たちはログに含まれる重複を除いたエラーコードの種類数を数えた。"
+        },
+        {
+          "pattern": "return distinct 〈rows/results〉",
+          "use": "データ処理や検索結果から、完全に重複する行・結果を除いて返す。",
+          "example": "The query returns distinct rows based on the selected columns.",
+          "translation": "そのクエリは、選択された列に基づいて重複しない行を返す。"
+        },
+        {
+          "pattern": "SELECT DISTINCT 〈column/list〉",
+          "use": "SQLのSELECT結果から、選択した列の値が同じ重複行を除く。",
+          "example": "Use SELECT DISTINCT city to list each city only once.",
+          "translation": "各都市を一度ずつ一覧にするには、SELECT DISTINCT city を使う。"
+        }
+      ],
+      "notes": [
+        "数学の distinct は「見た目が違う」ではなく、指定された等値関係のもとで同じではないことを表す。pairwise distinct は集合全体が異なるという曖昧な表現ではなく、任意の二対象が等しくない条件を明示する。SQLの SELECT DISTINCT は、選択結果の全列が同じ行を重複として除く。複数列を選べば、その列の組合せ全体で比較され、一つの列だけを個別に重複排除するとは限らない。PostgreSQLの DISTINCT ON は標準SQLの一般的な DISTINCT と同一ではなく、指定式ごとの先頭行を残す拡張であり、どの行を残すかを安定させるには適切な ORDER BY が必要である。"
+      ],
+      "synonyms": [
+        {
+          "word": "unique",
+          "definition": "集合・列・識別子などの中で、同じ値を持つ別の対象がない。",
+          "frequency": 7,
+          "difference": "unique はある要素が集合内でただ一つであることを表しやすい。distinct は複数要素同士が等しくないことや、重複を除いた種類を表す。データベースではunique制約とSELECT DISTINCTは別の機能である。",
+          "example": "Each account must have a unique identifier.",
+          "translation": "各アカウントには一意の識別子が必要だ。"
+        },
+        {
+          "word": "different",
+          "definition": "比較する二つ以上の値・対象が同じではない。",
+          "frequency": 9,
+          "difference": "different は一般的な比較語である。distinct は集合・列・解などを一括して扱い、重複排除や相異性という技術的条件を簡潔に表せる。",
+          "example": "The two variables have different values.",
+          "translation": "その二つの変数は異なる値を持つ。"
+        },
+        {
+          "word": "nonduplicate",
+          "definition": "既存の項目と重複していない。",
+          "frequency": 2,
+          "difference": "nonduplicate は重複項目ではないことを直接表す低頻度の技術語である。distinct は数学・データ処理でより標準的で、値同士の相異性にも使える。",
+          "example": "The import tool keeps only nonduplicate records.",
+          "translation": "そのインポートツールは重複していないレコードだけを保持する。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "equal",
+          "definition": "二つの値・式・対象が、指定された基準のもとで同じである。",
+          "frequency": 9,
+          "difference": "distinct が複数対象の非同一性を表すのに対し、equal は比較対象が同じ値または同等の対象であることを表す。",
+          "example": "The two expressions are equal for every real value of x.",
+          "translation": "その二つの式は、xのすべての実数値について等しい。"
+        },
+        {
+          "word": "duplicate",
+          "definition": "既存の値、記録、行などと同一内容を繰り返したもの。",
+          "frequency": 7,
+          "difference": "distinct が重複を除いて別々に扱う対象を表すのに対し、duplicate は同一内容が複数回現れていることを表す。",
+          "example": "The system flagged three duplicate records.",
+          "translation": "そのシステムは三つの重複レコードを検出した。"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "【形容詞・植物学】分離した、合着していない",
+      "frequency": 2,
+      "register": [
+        "植物形態学、植物分類、植物誌、同定用の検索表。日常英語ではなく、器官の結合状態を記載する専門用法である。"
+      ],
+      "definition": "花弁、がく片、雄しべなどの植物器官が、同じまとまりのほかの器官と融合せず、一つ一つ分かれていることを表す。一般義の「別個の」を植物形態の記載に用いる専門語であり、単に種類が異なるという意味ではない。",
+      "patterns": [
+        "distinct 〈petals/sepals/stamens〉＝互いに合着していない〈花弁・がく片・雄しべ〉",
+        "〈floral parts〉 + be distinct＝〈花の各器官〉が分離している",
+        "〈number〉 + distinct 〈floral parts〉＝合着せず個別に数えられる〈数〉個の器官"
+      ],
+      "collocations": [
+        {
+          "pattern": "distinct 〈petals/sepals〉",
+          "use": "同じ花冠・がくを構成する花弁・がく片が、互いに合着していないことを記載する。",
+          "example": "The flower has five distinct petals rather than a fused corolla.",
+          "translation": "その花には、合着した花冠ではなく、互いに分離した5枚の花弁がある。"
+        },
+        {
+          "pattern": "distinct 〈stamens/carpels〉",
+          "use": "雄しべ・心皮が一つの構造へ融合せず、個別の器官として存在することを示す。",
+          "example": "In this species, the stamens remain distinct at maturity.",
+          "translation": "この種では、雄しべは成熟時にも互いに合着せず分離している。"
+        },
+        {
+          "pattern": "〈floral parts〉 + be distinct",
+          "use": "植物記載で、対象器官の結合状態を叙述形で示す。",
+          "example": "The sepals are distinct and fall soon after the flower opens.",
+          "translation": "がく片は互いに分離しており、開花後まもなく落ちる。"
+        },
+        {
+          "pattern": "〈number〉 + distinct 〈floral parts〉",
+          "use": "合着していない器官を個別に数えて、形態的特徴を示す。",
+          "example": "Each flower bears three distinct carpels.",
+          "translation": "各花には、互いに合着していない3個の心皮がある。"
+        }
+      ],
+      "notes": [
+        "植物学のdistinctは、同じ系列の器官が互いにfree、すなわち融合していない状態を記載する。一般義のdistinct speciesは「別種」、この専門義のdistinct petalsは「互いに合着していない花弁」であり、対象名詞によって解釈が変わる。器官が別の種類の器官へ付着していないことまで常に含むわけではないため、どの器官同士の結合を述べているかを確認する。"
+      ],
+      "synonyms": [
+        {
+          "word": "free",
+          "definition": "植物器官が同じ系列または別の器官と融合・付着していない。",
+          "frequency": 3,
+          "difference": "植物学のfreeは融合だけでなく、文脈によって別種器官への付着がないことも表せる。distinctは主に器官同士が個別に分かれている点を強調する。",
+          "example": "The upper portions of the filaments are free.",
+          "translation": "花糸の上部は互いに合着していない。"
+        },
+        {
+          "word": "separate",
+          "definition": "植物器官が結合せず、個別の部分として存在する。",
+          "frequency": 3,
+          "difference": "separateは一般語としても使える説明的表現である。distinctは植物誌や形態記載で、器官がfreeであることを簡潔に示す専門的用法を持つ。",
+          "example": "The ovary is divided into three separate chambers.",
+          "translation": "その子房は三つの別々の室に分かれている。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "fused",
+          "definition": "複数の植物器官が接合し、一つの構造になっている。",
+          "frequency": 4,
+          "difference": "distinctが器官を個別に数えられる分離状態を表すのに対し、fusedは組織が連続して一体化した状態を表す。",
+          "example": "The petals are fused at the base to form a short tube.",
+          "translation": "花弁は基部で合着し、短い筒を形成している。"
+        },
+        {
+          "word": "united",
+          "definition": "植物器官が互いに結合し、一続きの部分を形成している。",
+          "frequency": 3,
+          "difference": "unitedは植物形態記載で、distinctまたはfreeと対照される説明語である。fusedと同様に結合を示すが、結合の発生過程までは必ずしも強調しない。",
+          "example": "The sepals are united for half their length.",
+          "translation": "がく片は長さの半分まで合着している。"
+        }
+      ]
+    }
+  ]
+}
