@@ -3,7 +3,7 @@
   "slug": "pursue",
   "ipa": "米: /pərˈsuː/｜英: /pəˈsjuː/。2音節で、第2音節に主強勢がある。米語の第1音節は弱い r 色のある /pər/、英語は弱い /pə/。第2音節は米語が /suː/、英語が /sjuː/ で、英語では /s/ の後に弱い /j/ が入る。",
   "lead": "人、動物、車などの後を追い、特に捕まえる、追い越す、倒すなどの目的で追跡する。実際の速度や距離を述べる場合にも、警察・報道・競技などの比喩的な追跡にも使う。",
-  "updated": "2026-08-25",
+  "updated": "2026-08-26",
   "notion_url": "https://app.notion.com/p/pursue-3c74faa9b77d819da2f8e188f37aa1d2",
   "pronunciation": [
     "三人称単数 pursues は米 /pərˈsuːz/・英 /pəˈsjuːz/、過去形・過去分詞 pursued は米 /pərˈsuːd/・英 /pəˈsjuːd/、-ing形 pursuing は米 /pərˈsuːɪŋ/・英 /pəˈsjuːɪŋ/。語末の /z/ は有声音の後なので /s/ ではなく /z/、-ed は /d/ と発音する。綴りでは pursue に -ing を付けると語末の e を落として pursuing となるが、pursued では e を残して pursued と綴る。"
@@ -100,10 +100,10 @@
           "translation": "その運転手は道路封鎖を無視した後、警察に追跡された。"
         },
         {
-          "pattern": "hotly pursue 〈a target〉",
-          "use": "目標を激しく、執拗に追跡することを表す。",
-          "example": "The two teams are hotly pursuing the championship.",
-          "translation": "その2チームは優勝を激しく争っている。"
+          "pattern": "hotly pursue 〈逃げる動物・犯人〉",
+          "use": "逃げる対象を激しく、執拗に追跡することを表す。",
+          "example": "The dogs hotly pursued the fox across the field.",
+          "translation": "その犬たちは野原を横切ってキツネを激しく追跡した。"
         },
         {
           "pattern": "pursue prey",
@@ -122,7 +122,7 @@
           "frequency": 10,
           "difference": "chase は日常的で速度や追いかける動作を直接的に示す。pursue は継続的な追跡や硬い文体にも使いやすい。",
           "example": "The child chased the balloon down the street.",
-          "translation": "その子どもは通りを風船めがけて追いかけた。"
+          "translation": "その子どもは風船を追って通りを駆けていった。"
         },
         {
           "word": "follow",
@@ -292,7 +292,7 @@
           "pattern": "pursue a claim",
           "use": "権利・賠償などの請求を手続きとして追及することを表す。",
           "example": "The customer decided to pursue a claim for compensation.",
-          "translation": "その顧客は補償請求を追及することに決めた。"
+          "translation": "その顧客は補償を請求する手続きを進めることにした。"
         },
         {
           "pattern": "pursue the matter further",
@@ -473,8 +473,8 @@
         {
           "pattern": "be actively pursued by 〈人〉",
           "use": "相手から積極的に交際や関心を求められている状態を表す。",
-          "example": "The actor was actively pursued by several magazines for an interview.",
-          "translation": "その俳優には、複数の雑誌がインタビューを求めて積極的に接触した。"
+          "example": "She was actively pursued by a colleague who wanted to date her.",
+          "translation": "彼女は交際を望む同僚から積極的に言い寄られていた。"
         },
         {
           "pattern": "pursue a love interest",
@@ -484,9 +484,9 @@
         },
         {
           "pattern": "pursue someone for months",
-          "use": "数か月にわたって人に働きかけ続けることを表す。",
-          "example": "The journalist pursued the source for months before receiving a reply.",
-          "translation": "その記者は返事を受け取るまで何か月も情報源を追い続けた。"
+          "use": "恋愛関係を求めて、数か月にわたり相手に働きかけ続けることを表す。",
+          "example": "He pursued her for months before she agreed to a date.",
+          "translation": "彼は彼女がデートに応じるまで、何か月も彼女にアプローチし続けた。"
         }
       ],
       "notes": [
@@ -578,8 +578,8 @@
         {
           "pattern": "pursue someone in dreams",
           "use": "記憶や恐怖が夢の中でも人につきまとうことを表す。",
-          "example": "The old house continued to pursue him in dreams.",
-          "translation": "その古い家は夢の中でも彼につきまとい続けた。"
+          "example": "The memory of the accident continued to pursue him in his dreams.",
+          "translation": "事故の記憶は夢の中でも彼につきまとい続けた。"
         }
       ],
       "notes": [
