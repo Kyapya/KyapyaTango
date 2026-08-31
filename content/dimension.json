@@ -1,12 +1,12 @@
 {
   "word": "dimension",
   "slug": "dimension",
-  "ipa": "米・英: /dɪˈmenʃən/。3音節で、第2音節の /men/ に主強勢がある。最初の /dɪ/ は弱く、語末の /ʃən/ は「ション」に近い。辞書によっては米国英語で /daɪˈmenʃən/ という発音も載るが、/dɪˈmenʃən/ が一般的で安全な発音である。派生語 dimensional は /dɪˈmenʃənəl/、dimensionless は /dɪˈmenʃənləs/ となる。",
+  "ipa": "米: /dɪˈmenʃən/ が主要な掲載形で、/daɪˈmenʃən/ も認められる。英: /daɪˈmenʃən/ を主要な掲載形として載せる辞書が多いが、/dɪˈmenʃən/ も認められる。いずれも3音節で、第2音節の /men/ に主強勢がある。最初の音節は弱く、語末の /ʃən/ は「ション」に近い。派生語 dimensional は /dɪˈmenʃənəl/、dimensionless は /dɪˈmenʃənləs/ となる。",
   "lead": "物体や空間を、長さ、幅、高さ、深さ、直径などの一つの方向に沿って測った広がり。複数の方向の数値全体をいうときは dimensions と複数形にすることが多い。単位を伴う数値だけでなく、測定の軸そのものを指すこともある。",
-  "updated": "2026-08-30",
+  "updated": "2026-08-31",
   "notion_url": "https://app.notion.com/p/dimension-3cc4faa9b77d810baab6f57dd57dbc81",
   "pronunciation": [
-    "複数形 dimensions は /dɪˈmenʃənz/。語末の -s は通常 /z/ で、dimensions of ... のように名詞の複数形として使う。動詞 dimension は同じく /dɪˈmenʃən/ で、過去形・過去分詞 dimensioned は /dɪˈmenʃənd/、-ing形 dimensioning は /dɪˈmenʃənɪŋ/ となる。"
+    "複数形 dimensions は /dɪˈmenʃənz/、/daɪˈmenʃənz/。語末の -s は通常 /z/ で、dimensions of ... のように名詞の複数形として使う。動詞 dimension も /dɪˈmenʃən/、/daɪˈmenʃən/ があり、過去形・過去分詞 dimensioned は /dɪˈmenʃənd/、/daɪˈmenʃənd/、-ing形 dimensioning は /dɪˈmenʃənɪŋ/、/daɪˈmenʃənɪŋ/ となる。"
   ],
   "etymology": [
     "中英語 dimensioun が古フランス語を経て、ラテン語 dimensio(n-)「測定、広がり」にさかのぼる。dimensio は dimetiri「測り出す、測定する」の過去分詞に関係し、dis-「離して、分けて」＋ metiri「測る」という構成を持つ。まず「ある方向へ測った広がり」という意味があり、そこから空間の広がり、物事の規模、抽象的な側面、数学・物理学の技術概念へ広がった。",
@@ -72,7 +72,7 @@
       "description": "→ 「次元、次元式」（語義6）"
     },
     {
-      "label": "現実や経験とは別の存在の領域",
+      "label": "現実とは別の存在の領域",
       "description": "→ 「異次元、別世界、層」（語義7）"
     },
     {
@@ -214,7 +214,7 @@
       ],
       "notes": [
         "寸法を複数まとめて表す dimensions は、単一の物体にも使う。The dimensions are ... のように複数扱いするが、これは複数の物体を意味しない。幅・高さ・奥行きを一組の仕様として示すための複数形である。",
-        "dimensions は文脈によって、単なる数値の組合せだけでなく、物体の外形・比例や建物の大きさを含む。数値を厳密に述べるときは measurements、収納や設計上の外側の大きさを述べるときは dimensions が自然である。"
+        "dimensions は文脈によって、単なる数値の組合せだけでなく、物体の外形・比例や建物の大きさを含む。measurements は実際に測定して得た値・測定値に焦点を置きやすく、dimensions は物体の長さ・幅・高さなどの空間的寸法やその組合せに焦点を置きやすい。物体の寸法値を述べる場面では両者が重なるため、exact dimensions、precise dimensions も普通に使う。"
       ],
       "synonyms": [
         {
@@ -257,7 +257,8 @@
         "a dimension to 〈問題・経験〉＝～に加わる一側面",
         "add/give/bring a new dimension to 〈対象〉＝対象に新しい側面を加える",
         "consider/explore the 〈社会・政治・倫理〉 dimension＝～の側面を考慮・探究する",
-        "have a personal/human dimension＝個人的・人間的な側面を持つ"
+        "have a personal/human dimension＝個人的・人間的な側面を持つ",
+        "a spiritual/psychological dimension＝精神的・心理的な側面"
       ],
       "collocations": [
         {
@@ -289,6 +290,18 @@
           "use": "公的な問題などに、関係者個人の経験や感情が絡むことを示す。",
           "example": "The dispute took on a personal dimension after the two managers exchanged accusations.",
           "translation": "2人の管理職が非難を交わした後、その対立は個人的な側面を帯びた。"
+        },
+        {
+          "pattern": "a spiritual dimension",
+          "use": "物事に宗教的・精神的な側面があることを示す。",
+          "example": "The ceremony has a spiritual dimension.",
+          "translation": "その儀式には精神的・宗教的な側面がある。"
+        },
+        {
+          "pattern": "a different dimension of experience",
+          "use": "経験や公演に新たな側面・質を加えることを比喩的に表す。",
+          "example": "Live music brings a different dimension to the experience.",
+          "translation": "生演奏は、その体験に別の側面・新たな要素を加える。"
         }
       ],
       "notes": [
@@ -408,7 +421,7 @@
       "register": [
         "数学、幾何学、物理学、コンピューターグラフィックス、データ分析。専門用語として標準的。一般説明でも three dimensions、higher dimensions はよく使う。"
       ],
-      "definition": "点の位置や数学的対象を指定するために必要な、互いに独立した座標・方向の数。直線は1次元、平面は2次元、通常の立体空間は3次元である。数学では、曲がった空間、ベクトル空間、抽象空間などにも一般化され、必ずしも目に見える方向だけを指さない。",
+      "definition": "点の位置や数学的対象を指定するために必要な、互いに独立した方向・自由度の数。直線は1次元、平面は2次元、通常の立体空間は3次元である。数学では、曲がった空間、ベクトル空間、抽象空間などにも一般化され、必ずしも目に見える方向だけを指さない。",
       "patterns": [
         "one/two/three dimensions＝1・2・3次元",
         "an n-dimensional space＝n次元空間",
@@ -455,7 +468,7 @@
       "synonyms": [
         {
           "word": "coordinate",
-          "definition": "空間内の位置を表す数値または軸。",
+          "definition": "座標系において点の位置を指定するための数値・座標値。",
           "frequency": 7,
           "difference": "coordinate は一つの位置変数を指す。dimension は位置を定めるために必要な独立した座標の数・方向の体系を指す。",
           "example": "Enter the x-coordinate and y-coordinate of the point.",
@@ -471,9 +484,9 @@
         },
         {
           "word": "rank",
-          "definition": "線形代数で、ベクトル空間などの独立な基底の数に関係する量。",
+          "definition": "線形代数で、行列や線形写像などについて、その像・列空間などの次元として表される量。",
           "frequency": 5,
-          "difference": "rank は行列や線形写像の独立性を測る専門語。dimension は空間そのものの独立方向の数を表す一般的な数学用語である。",
+          "difference": "rank は行列や線形写像の像・列空間などの次元を表す。dimension はベクトル空間などの独立方向・自由度の数を表す。",
           "example": "The rank of the matrix is equal to the dimension of its column space.",
           "translation": "その行列のランクは、その列空間の次元に等しい。"
         }
@@ -515,8 +528,8 @@
           "translation": "2つの長さの比は無次元量である。"
         },
         {
-          "pattern": "have the dimensions of force",
-          "use": "ある量が力と同じ次元構造を持つことを表す。",
+          "pattern": "have the dimensions of force multiplied by length",
+          "use": "ある量が力に長さを掛けたものと同じ次元構造を持つことを表す。",
           "example": "Torque has the dimensions of force multiplied by length.",
           "translation": "トルクは力に長さを掛けたものと同じ次元を持つ。"
         },
@@ -564,13 +577,12 @@
       "title": "【名詞・可算】別の存在領域、異次元、現実とは異なる層",
       "frequency": 6,
       "register": [
-        "SF・ファンタジー、ゲーム、ポップカルチャーでは標準的。比喩用法は評論・文学・会話に現れる。科学的に実在が確認された領域を意味するとは限らない。"
+        "SF・ファンタジー、ゲーム、ポップカルチャーでは標準的。現実とは別の世界を比喩的に指す用法は評論・文学・会話に現れる。科学的に実在が確認された領域を意味するとは限らない。"
       ],
-      "definition": "通常の空間・現実とは別の存在の領域や、そこへ広がる世界。SF、ファンタジー、ゲームなどで並行世界・異世界を指すほか、比喩的に精神、宗教、経験などの別の層を表す。another dimension、a parallel dimension の形でよく使う。",
+      "definition": "通常の空間・現実とは別の存在の領域や、そこへ広がる世界。SF、ファンタジー、ゲームなどで並行世界・異世界を指す。another dimension、a parallel dimension の形でよく使う。",
       "patterns": [
-        "another/a parallel dimension＝別の・並行する次元",
+        "another/an alternate/a parallel dimension＝別の・異なる・並行する次元",
         "travel/pass into another dimension＝別の次元へ移動する",
-        "a spiritual/psychological dimension＝精神的・心理的な別の層",
         "exist in a different dimension＝異なる領域に存在する",
         "open a portal to 〈dimension〉＝～への入口を開く"
       ],
@@ -588,27 +600,15 @@
           "translation": "その小説は、歴史が別の道をたどった並行世界を想像している。"
         },
         {
-          "pattern": "a spiritual dimension",
-          "use": "物事に宗教的・精神的な別の層があることを示す。",
-          "example": "The ceremony has a spiritual dimension that is not captured by its formal rules.",
-          "translation": "その儀式には、形式的な規則だけでは捉えられない精神的な側面がある。"
-        },
-        {
           "pattern": "pass into another dimension",
           "use": "別の世界へ移ることを物語的に表す。",
           "example": "The characters pass into another dimension when the clock strikes twelve.",
           "translation": "時計が12時を打つと、登場人物たちは別の次元へ移る。"
-        },
-        {
-          "pattern": "a different dimension of experience",
-          "use": "通常とは異なる経験の層・質を比喩的に表す。",
-          "example": "Live music brings a different dimension of experience to the performance.",
-          "translation": "生演奏は、その公演に異なる次元の体験をもたらす。"
         }
       ],
       "notes": [
         "この語義の dimension は、数学・物理学の次元を直接説明する語ではない。another dimension は「別の世界」や「別の存在領域」を表す定着した表現で、実在性を主張しない物語上の設定にも使える。",
-        "spiritual dimension、human dimension のような表現は語義3の「側面」と重なることがある。別世界・異次元という空間的な想像を指すときは another、parallel、portal などと結び付き、問題を分析する観点を指すときは social、political、ethical などと結び付きやすい。"
+        "別世界・異次元という空間的な想像を指すときは another、parallel、portal などと結び付きやすい。spiritual dimension、human dimension、a different dimension of experience のような「側面・要素」の用法は語義3で扱う。"
       ],
       "synonyms": [
         {
@@ -631,7 +631,7 @@
           "word": "plane",
           "definition": "存在・意識・活動などの異なる水準・領域。",
           "frequency": 6,
-          "difference": "plane は「水準・層」という縦の段階を強く示す。dimension は別世界の広がり、または経験の新しい側面を示すことが多い。",
+          "difference": "plane は「水準・層」という縦の段階を強く示す。dimension は別の空間・存在領域を表し、plane より世界・領域の想像に焦点を置く。",
           "example": "The novel shifts between the physical plane and the dream plane.",
           "translation": "その小説は物質的な領域と夢の領域の間を移り変わる。"
         }
