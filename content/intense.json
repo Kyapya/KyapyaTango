@@ -1,200 +1,342 @@
 {
   "word": "intense",
   "slug": "intense",
-  "ipa": "発音（辞書表記）: /ɪnˈtens/。2音節で、第2音節の /tens/ に主強勢がある。",
+  "ipa": "発音（辞書表記）: /ɪnˈtens/。2音節で、第2音節に主強勢がある。英米で基本発音に大きな違いはない。",
   "lead": "感覚、感情、性質、色、圧力、活動、人の態度、視線・表情、関係など、対象の強度や程度が非常に高いこと。活動では強度・激しさが高いことを表し、短期間に多くの活動が集まる文脈にも使う。人・視線・表情・関係では、対象に応じた強い感情や態度、視線・表情では集中・鋭さなどの強い印象、または強い感情的相互作用が焦点になる。好ましい対象にも好ましくない対象にも使う。",
   "updated": "2026-09-06",
   "notion_url": "https://app.notion.com/p/intense-3804faa9b77d81cbbca3efeddcf5ebfa",
   "pronunciation": [],
   "etymology": [
-    "15世紀初頭に、フランス語を経てラテン語 intensus「引き伸ばされた、張り詰めた」から英語に入った。intensus は intendere の過去分詞に由来する。",
-    "現在の intense は、程度・力・感情などの強度や度合いが非常に高いことを表す。"
+    "中英語期に、古フランス語またはラテン語 intensus「引き伸ばされた、張り詰めた」から英語に入った。intensus は intendere「引き伸ばす、張り詰める、意識を向ける」の過去分詞に由来する。"
   ],
   "formation": [
     {
       "term": "intensity（名詞）—",
-      "description": "強度、激しさ。"
+      "description": "強度、激しさ。感覚・感情・作用などがどの程度強いかを表す。"
     },
     {
       "term": "intensify（動詞）—",
-      "description": "強まる、強める。自動詞・他動詞の両方で使う。"
+      "description": "強まる、強める。自動詞では「強まる」、他動詞では「～を強める」と使う。"
+    },
+    {
+      "term": "intensely（副詞）—",
+      "description": "強く、激しく。感情や注意の向け方を強調することもある。"
     },
     {
       "term": "intensive（形容詞）—",
-      "description": "集中的な、重点的な。活動・訓練などに多くの努力や注意を集中的に投入することを表す。intense と活動用法で重なるが、常に交換できるわけではない。intense は経験される強さや緊迫感を前面に出しやすく、intensive は活動への集中投入を記述しやすい。"
-    },
-    {
-      "term": "intensification（名詞）—",
-      "description": "intensify に由来する関連名詞。強まる／強める過程や事例を表す。"
+      "description": "短期間に多くの努力・作業・活動を集中的に行う、または非常に詳細な。intense と重なる場合があるが、intensive は計画された投入量や客観的な集中を表しやすい。"
     }
   ],
   "core": [
     {
-      "label": "程度・力・エネルギー・感情の強度や度合いが非常に高い。活動や行動では、その強度や激しさが非常に高い。短期間に多くの行動が集中する文脈にも使う。何が高いかは文脈によって異なる。人・視線・表情・関係では、対象に応じた強い感情や態度として、視線・表情では集中・鋭さなどの強い印象として、または強い感情的相互作用として現れる。",
+      "label": "強さ・程度・エネルギー・感情が、通常よりはるかに高い。",
       "description": ""
     },
     {
-      "label": "対象の程度・感覚・感情の強度が非常に高い",
-      "description": "→ 「強烈な、非常に強い」（中心義）"
+      "label": "感覚・感情・性質などの強さが非常に高い",
+      "description": "→ 「強烈な、非常に強い」"
     },
     {
-      "label": "活動・競争・議論の活動量・強度・激しさが非常に高い",
-      "description": "→ 「激しい」（活動用法）"
+      "label": "活動・競争・議論などの動きや負荷が非常に大きい",
+      "description": "→ 「激しい、集中した」"
     },
     {
-      "label": "人・視線・表情・関係では、対象に応じた強い感情や態度、視線・表情の集中・鋭さなどの強い印象、または強い感情的相互作用を表す",
-      "description": "→ 「感情や態度の強い、強い感情や集中・鋭さが表れた、感情的に強い」（人・視線・関係の用法）"
+      "label": "人・表情・視線・関係に強い感情、集中、真剣さが表れている",
+      "description": "→ 「感情や態度の強い、強い印象を与える」"
     }
   ],
   "sources": [],
   "senses": [
     {
       "number": 1,
-      "title": "【形容詞・限定／叙述】強烈な、非常に強い、激しい",
-      "frequency": 7,
+      "title": "【形容詞・限定／叙述】強烈な、非常に強い、程度の高い",
+      "frequency": 8,
       "register": [
-        "一般語として使われる形容詞。"
+        "一般語。会話、ニュース、ビジネス、学術的な文章まで広く使われる。"
       ],
-      "definition": "感覚、感情、性質、色、圧力、活動、人の態度、視線・表情、関係など、対象の強度や程度が非常に高いこと。活動では強度・激しさが高いことを表し、短期間に多くの活動が集まる文脈にも使う。人・視線・表情・関係では、対象に応じた強い感情や態度、視線・表情では集中・鋭さなどの強い印象、または強い感情的相互作用が焦点になる。好ましい対象にも好ましくない対象にも使う。",
+      "definition": "感覚、感情、性質、光、色、熱、寒さ、圧力などの強さや程度が非常に高いこと。好ましいものにも好ましくないものにも使い、何が強いのかは修飾される名詞や文脈で決まる。〈感覚・感情・影響など〉 be intense のように、主語そのものの強さを述べることもできる。",
       "patterns": [
-        "intense + 〈感情・感覚・性質・熱・色・圧力など〉＝程度・強度が非常に高い～",
-        "intense + 〈活動・競争・議論など〉＝活動・競争・議論の強度や激しさが非常に高い",
-        "an intense person＝強い感情や態度を持つ、またはそうした印象を与える人",
-        "an intense look/gaze＝強い感情が表れた、集中した、鋭い印象を与える視線",
-        "an intense relationship＝情緒的な結びつきや相互作用が強い関係",
-        "〈感覚・感情・活動など〉 be intense＝感覚・感情・活動などが非常に強い・激しい"
+        "intense + 〈感覚・感情・性質・色・光・熱など〉＝強さや程度が非常に高い～",
+        "under intense pressure to do 〈O〉＝〈O〉するよう非常に強い圧力を受けて",
+        "intense interest in 〈対象〉＝〈対象〉への非常に強い関心",
+        "〈感覚・感情・影響など〉 be/become/get intense＝感覚・感情・影響などが非常に強い",
+        "intense enough to do 〈O〉＝〈O〉するほど強烈な"
       ],
       "collocations": [
         {
           "pattern": "intense pain",
           "use": "身体的な痛みが非常に強いことを表す。",
-          "example": "He felt intense pain in his lower back。",
-          "translation": "彼は腰の下部に激しい痛みを感じた。"
+          "example": "She was in intense pain after the accident.",
+          "translation": "彼女は事故の後、激しい痛みに苦しんでいた。"
         },
         {
-          "pattern": "〈感覚・感情・活動など〉 be intense",
-          "use": "主語となる感覚・感情・活動などの強度が非常に高いことを叙述する。",
-          "example": "The pain was intense。",
-          "translation": "その痛みは激しかった。"
-        },
-        {
-          "pattern": "intense heat",
-          "use": "暑さや熱が非常に強いことを表す。",
-          "example": "The intense heat made it dangerous to work outside。",
+          "pattern": "intense heat/cold",
+          "use": "暑さや寒さが非常に厳しいことを表す。",
+          "example": "The intense heat made it unsafe to work outside.",
           "translation": "強烈な暑さのため、屋外で働くのは危険だった。"
         },
         {
-          "pattern": "intense pressure",
-          "use": "外部からかかる重圧や心理的な圧力が非常に強いことを表す。",
-          "example": "The new manager is under intense pressure to improve the results。",
-          "translation": "新しい管理職は、業績を改善するよう非常に強い重圧を受けている。"
+          "pattern": "intense interest in 〈対象〉",
+          "use": "〈対象〉に向けられる関心が非常に強いことを表す。",
+          "example": "The discovery attracted intense interest from researchers.",
+          "translation": "その発見は研究者から強い関心を集めた。"
         },
         {
-          "pattern": "intense interest",
-          "use": "ある対象に向けられる関心が非常に強いことを表す。",
-          "example": "The discovery attracted intense interest from researchers around the world。",
-          "translation": "その発見は世界中の研究者から強い関心を集めた。"
+          "pattern": "under intense pressure to do 〈O〉",
+          "use": "〈O〉するよう非常に強い心理的・社会的圧力を受けていることを表す。",
+          "example": "The manager was under intense pressure to meet the deadline.",
+          "translation": "その管理職は期限に間に合わせるよう非常に強い重圧を受けていた。"
         },
         {
-          "pattern": "intense anger",
-          "use": "怒りの感情が非常に強いことを表す。",
-          "example": "The decision provoked intense anger among local residents。",
+          "pattern": "intense anger/joy",
+          "use": "怒りや喜びなどの感情が非常に強いことを表す。",
+          "example": "The decision caused intense anger among local residents.",
           "translation": "その決定は地元住民の間に激しい怒りを引き起こした。"
         },
         {
-          "pattern": "intense blue",
-          "use": "色の強さや鮮やかさが際立ち、強い印象を与えることを表す。",
-          "example": "The intense blue of the lake stood out against the white snow。",
-          "translation": "湖の鮮やかな青が白い雪を背景に際立っていた。"
-        },
-        {
-          "pattern": "intense competition",
-          "use": "競争の強度や激しさが非常に高いことを表す。",
-          "example": "There is intense competition for places at the top universities。",
-          "translation": "一流大学の枠をめぐって激しい競争がある。"
-        },
-        {
-          "pattern": "intense activity",
-          "use": "活動の強度や激しさが非常に高いことを表す。",
-          "example": "The airport experienced a period of intense activity before the holiday。",
-          "translation": "その空港では休暇前に活動が非常に活発な時期があった。"
-        },
-        {
-          "pattern": "an intense look",
-          "use": "強い感情、集中、鋭さなどの印象を示す視線・表情を表す。",
-          "example": "She gave him an intense look when he mentioned the accusation。",
-          "translation": "彼がその告発に言及すると、彼女は感情や集中の強さが表れた、鋭い視線を彼に向けた。"
-        },
-        {
-          "pattern": "an intense person",
-          "use": "感情や態度が強く、強い印象を与える人を表す。",
-          "example": "He is an intense person who takes every project very seriously。",
-          "translation": "彼は感情や態度が強く、どのプロジェクトにも非常に真剣に取り組む人だ。"
-        },
-        {
-          "pattern": "an intense relationship",
-          "use": "感情的な結びつきや相互作用が非常に強い関係を表す。",
-          "example": "Their intense relationship left little room for emotional distance。",
-          "translation": "彼らの濃密な関係には、感情的な距離を置く余地がほとんどなかった。"
+          "pattern": "intense blue/light",
+          "use": "色や光の鮮やかさ・強さが際立っていることを表す。",
+          "example": "The intense blue of the sky stood out after the storm.",
+          "translation": "嵐の後、空の鮮やかな青が際立っていた。"
         }
       ],
       "notes": [
-        "intense は対象の強度・程度が非常に高いことを表す中心義で、活動・人・視線・表情・関係への用法もこの強度の軸から理解できる。活動では短期間に多くの行動が集まることが典型的な文脈の一つであり、活動の強度・激しさに焦点を置く。人では強い感情や態度またはそうした印象、視線・表情では強い感情の表れや集中・鋭さなどの強い印象、relationship では情緒的な結びつきや相互作用の強さを表す。評価は対象と文脈により変わる。extreme は程度の大きさや通常の範囲を超える側面、intense は経験・作用・感情の強さを前面に出しやすい。intensive は活動への努力・注意などの集中投入を客観的に記述しやすく、intense は経験される強さ・負荷・感情・緊迫感を前面に出しやすい。両語は活動用法で重なるが、常に交換できるわけではない。"
+        "intense は「強度・程度が高い」ことに焦点があり、必ずしも通常の限界を超えた異常さを表すわけではない。extreme は通常の範囲や限界から外れている側面を強調しやすい。痛み・暑さ・怒りなどでは両語が近くなるが、intense pain は感じられる強さ、extreme pain は極端な程度を前面に出しやすい。また、intense は形容詞なので、視線を「熱心に」向けるという動作には通常 look intently を使い、look intensely と機械的に置き換えない。"
       ],
       "synonyms": [
         {
           "word": "strong",
-          "definition": "intense と同じく、力・程度・感情などが大きいことを表す基本語。",
+          "definition": "力、程度、感情、作用などが大きいことを広く表す基本語。",
           "frequency": 10,
-          "difference": "strong は力・能力・程度など広い範囲に使い、intense は経験・作用・感情などの強度が非常に高いことに焦点を置く。",
+          "difference": "strong は対象の範囲が非常に広く、intense は感覚・感情・作用などが一時的または集中的に強く感じられることを前面に出しやすい。",
           "example": "strong pain",
           "translation": "強い痛み。"
         },
         {
           "word": "extreme",
-          "definition": "通常の範囲や限界から大きく外れた状態を表す関連語。",
-          "frequency": 6,
-          "difference": "extreme は程度が非常に大きいことや通常・予想の範囲を超える側面を表し、intense は経験・作用・感情の強さを前面に出しやすい。",
+          "definition": "程度が非常に大きい、または通常の範囲・限界から外れている。",
+          "frequency": 7,
+          "difference": "extreme は「通常からの隔たり」や極端さ、intense は経験・作用・感情の強度を中心に表す。",
           "example": "extreme heat",
-          "translation": "強烈な暑さ。"
+          "translation": "極端な暑さ。"
         },
         {
           "word": "powerful",
-          "definition": "物理的・心理的な力や他者への影響が大きいことを表す関連語。",
+          "definition": "物理的・心理的な力や、他者への影響が大きい。",
           "frequency": 8,
-          "difference": "powerful は作用する力や影響力に焦点があり、intense は経験される強度や圧にも使う。",
-          "example": "a powerful influence",
-          "translation": "大きな影響力。"
+          "difference": "powerful は力や影響を及ぼす側に焦点があり、intense は痛み・感情・圧力のように受け手が強く感じる対象にも広く使う。",
+          "example": "a powerful effect",
+          "translation": "強力な効果。"
         },
         {
+          "word": "severe",
+          "definition": "痛み、症状、天候、損害などが非常に厳しい・深刻な。",
+          "frequency": 7,
+          "difference": "severe は好ましくない深刻さを含みやすく、intense は喜び、関心、色など肯定的または中立的な対象にも使える。",
+          "example": "severe pain",
+          "translation": "激しい痛み。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "mild",
+          "definition": "強さ、刺激、症状、気候などが穏やかで、程度が高くない。",
+          "frequency": 8,
+          "difference": "痛み・暑さ・反応などの強度という軸で、mild は低い側、intense は高い側を表す。",
+          "example": "mild pain",
+          "translation": "軽い痛み。"
+        },
+        {
+          "word": "weak",
+          "definition": "力、作用、信号、影響などが弱く、十分な強さを持たない。",
+          "frequency": 9,
+          "difference": "力や作用の強さという軸では反対になるが、weak は「強く感じられるか」よりも力の不足に焦点を置く。",
+          "example": "a weak signal",
+          "translation": "弱い信号。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【形容詞・限定】激しい、集中した（活動・競争・議論など）",
+      "frequency": 7,
+      "register": [
+        "一般語。仕事、学習、競技、政治・社会上の議論などで使われる。"
+      ],
+      "definition": "活動、競争、議論、努力、勉強などの動き・負荷・真剣さが非常に大きいこと。短い期間に多くの行動が集中する場面でよく使うが、短期間であること自体は必須条件ではない。活動を経験する側の負荷や緊迫感を含めて表すことが多い。",
+      "patterns": [
+        "intense + 〈activity・competition・debate・effort・studyなど〉＝活動・競争・議論・努力などが非常に激しい",
+        "intense competition for 〈地位・機会〉＝〈地位・機会〉をめぐる激しい競争",
+        "a period of intense 〈活動・作業〉＝活動・作業が非常に集中する期間",
+        "〈activity・debate・competition〉 be/remain intense＝活動・議論・競争が激しい状態である",
+        "intense effort to do 〈O〉＝〈O〉するための大きな努力"
+      ],
+      "collocations": [
+        {
+          "pattern": "intense competition for 〈地位・機会〉",
+          "use": "〈地位・機会〉をめぐる競争が非常に激しいことを表す。",
+          "example": "There is intense competition for places at the top universities.",
+          "translation": "一流大学の枠をめぐって激しい競争がある。"
+        },
+        {
+          "pattern": "intense debate over/about 〈問題〉",
+          "use": "〈問題〉について意見の対立や議論が非常に激しいことを表す。",
+          "example": "The proposal has sparked intense debate over data privacy.",
+          "translation": "その提案はデータプライバシーをめぐる激しい議論を引き起こした。"
+        },
+        {
+          "pattern": "a period of intense activity",
+          "use": "活動量や動きが非常に大きい期間を表す。",
+          "example": "The airport experienced a period of intense activity before the holiday.",
+          "translation": "その空港では休暇前に活動が非常に活発な時期があった。"
+        },
+        {
+          "pattern": "intense effort to do 〈O〉",
+          "use": "〈O〉するために大きな力を注ぐ努力を表す。",
+          "example": "The team made an intense effort to restore the service.",
+          "translation": "チームはサービスを復旧させるために全力を尽くした。"
+        },
+        {
+          "pattern": "intense study/training",
+          "use": "勉強や訓練が非常に厳しく、参加者が強い負荷を感じることを表す。",
+          "example": "After months of intense study, she passed the examination.",
+          "translation": "何か月もの厳しい勉強の末、彼女は試験に合格した。"
+        }
+      ],
+      "notes": [
+        "intense と intensive はどちらも短期間に多くの活動が行われる場合に使える。intense debate は議論の熱さ・緊迫感・対立の強さを、intensive training は計画的に多くの訓練を投入する性質を表しやすい。したがって、intensive course、intensive investigation、intensive farming のように、方法や投入を客観的・組織的に述べる場合は intensive が自然である。intense を「短時間である」という意味だけで覚えると、活動の激しさという中心を取り違える。"
+      ],
+      "synonyms": [
+        {
           "word": "fierce",
-          "definition": "競争・対立・攻撃性などの激しさが非常に強いことを表す関連語。",
-          "frequency": 5,
-          "difference": "fierce は競争・対立の激しさや攻撃性を前面に出し、intense は敵意のない活動の激しさにも使える。",
+          "definition": "競争、対立、議論などが激しく、しばしば攻撃性や敵対性を帯びている。",
+          "frequency": 6,
+          "difference": "fierce は競争・対立の敵対的な激しさを強調し、intense は敵意のない活動や努力の高い負荷にも使える。",
           "example": "fierce competition",
           "translation": "激しい競争。"
         },
         {
-          "word": "passionate",
-          "definition": "強い感情や熱意・情熱を示す関連語。",
-          "frequency": 3,
-          "difference": "passionate は熱意・情熱を前面に出し、intense は感情や態度の強さをより広く表す。",
-          "example": "a passionate coach",
-          "translation": "情熱的なコーチ。"
+          "word": "strenuous",
+          "definition": "大きな力や体力を必要とし、非常にきつい。",
+          "frequency": 5,
+          "difference": "strenuous は努力する側の身体的・精神的な負荷に焦点があり、intense は活動全体の激しさや緊迫感にも使える。",
+          "example": "strenuous training",
+          "translation": "きつい訓練。"
         },
         {
-          "word": "deep",
-          "definition": "感情の深さを表す関連語。",
-          "frequency": 9,
-          "difference": "deep は感情の深さを前面に出し、intense は感情や相互作用の強さを前面に出す。",
-          "example": "a deep sense of loss",
-          "translation": "深い喪失感。"
+          "word": "vigorous",
+          "definition": "力強く、活発で、エネルギーに満ちている。",
+          "frequency": 6,
+          "difference": "vigorous は活動の活発さやエネルギーを肯定的に示しやすく、intense は緊張や負荷を含む強烈さにも使える。",
+          "example": "vigorous exercise",
+          "translation": "激しい運動。"
+        },
+        {
+          "word": "concentrated",
+          "definition": "注意、努力、資源などが一つの対象に集中的に向けられている。",
+          "frequency": 7,
+          "difference": "concentrated は何がどこへ集まっているかという投入の集中に焦点があり、intense は経験される強さや活動の激しさを広く表す。",
+          "example": "concentrated study",
+          "translation": "集中的な勉強。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【形容詞・限定／叙述】感情や態度、集中の強い；強い印象を与える",
+      "frequency": 6,
+      "register": [
+        "一般語。人の性格・態度、視線・表情、対人関係を評価・描写する文脈で使われる。文脈によって賞賛にも戸惑いにもなりうる。"
+      ],
+      "definition": "人、表情、視線、態度、または関係について、強い感情・意見・真剣さ・集中が表れていること。人については感情的、強く没頭する、存在感が強いなどの印象を表し、必ずしも怒りや不快感を意味しない。視線や表情では、感情の強さに加えて、直接的・集中した・鋭い印象を表す。関係では感情的な関わりが強いことを表し、親密な場合にも緊張や圧迫感を伴う場合にも使える。",
+      "patterns": [
+        "an intense person/man/player＝感情・態度・取り組み方が強烈な人",
+        "be intense about 〈物事〉＝〈物事〉に非常に強い態度や感情を示す",
+        "an intense look/gaze/expression＝強い感情、集中、鋭さなどが表れた視線・表情",
+        "give 〈人〉 an intense look＝〈人〉に強い印象を与える視線を向ける",
+        "an intense relationship between 〈人〉＝〈人〉の間の感情的な関わりが強い関係",
+        "〈人〉 be intense＝人が強い感情・態度・存在感を持つ、またはそうした印象を与える"
+      ],
+      "collocations": [
+        {
+          "pattern": "an intense person",
+          "use": "感情、態度、集中、存在感などが強く、周囲に強い印象を与える人を表す。",
+          "example": "He is an intense person who takes every project seriously.",
+          "translation": "彼はどのプロジェクトにも真剣に取り組む、強い印象を与える人だ。"
+        },
+        {
+          "pattern": "be intense about 〈物事〉",
+          "use": "〈物事〉に対して非常に強い関心・意見・態度を示すことを表す。",
+          "example": "She is intense about protecting the local forest.",
+          "translation": "彼女は地域の森を守ることに強い思いを抱いている。"
+        },
+        {
+          "pattern": "an intense look/gaze",
+          "use": "強い感情、集中、鋭さなどが感じられる視線を表す。",
+          "example": "I felt uneasy under his intense gaze.",
+          "translation": "彼の強い視線を受けて、私は落ち着かなかった。"
+        },
+        {
+          "pattern": "give 〈人〉 an intense look",
+          "use": "〈人〉に感情や集中の強さが伝わる視線を向けることを表す。",
+          "example": "She gave me an intense look when I mentioned the mistake.",
+          "translation": "私がそのミスに言及すると、彼女は強い視線を私に向けた。"
+        },
+        {
+          "pattern": "an intense expression",
+          "use": "強い感情や真剣さが表情にはっきり表れていることを表す。",
+          "example": "His intense expression made the conversation feel serious.",
+          "translation": "彼の険しい真剣な表情で、会話は重い雰囲気になった。"
+        },
+        {
+          "pattern": "an intense relationship between 〈人〉",
+          "use": "〈人〉の間の感情的な関わりが非常に強い関係を表す。",
+          "example": "The two actors developed an intense working relationship during the production.",
+          "translation": "その2人の俳優は制作期間中に感情的な結びつきの強い仕事上の関係を築いた。"
+        }
+      ],
+      "notes": [
+        "an intense person は「怒りっぽい人」に限定されず、強く集中する、真剣である、感情を強く示す、または存在感が強い人を指す。intense look/gaze は視線そのものの強さ・直接性・集中を表し、見る動作を「じっと、熱心に」と述べる look intently とは品詞も焦点も異なる。intense relationship は必ずしも親密で肯定的な関係を意味せず、強い結びつきや緊張を文脈に応じて表す。"
+      ],
+      "synonyms": [
+        {
+          "word": "passionate",
+          "definition": "強い情熱や熱意を持ち、それを表す。",
+          "frequency": 7,
+          "difference": "passionate は熱意・情熱を前向きに示すことが多く、intense は情熱に限らず、真剣さ、感情の強さ、圧迫感も表せる。",
+          "example": "a passionate teacher",
+          "translation": "情熱的な教師。"
+        },
+        {
+          "word": "earnest",
+          "definition": "目的や態度が真剣で、冗談や軽さではない。",
+          "frequency": 5,
+          "difference": "earnest は誠実さ・真剣さを中心に表し、intense のような感情や存在感の強烈さまでは必ずしも含まない。",
+          "example": "an earnest appeal",
+          "translation": "真剣な訴え。"
+        },
+        {
+          "word": "emotional",
+          "definition": "感情を強く感じたり、感情が表に出たりする。",
+          "frequency": 8,
+          "difference": "emotional は感情が関わることに焦点があり、intense は感情が必ずしも中心でない集中・圧力・存在感にも使える。",
+          "example": "an emotional speech",
+          "translation": "感情のこもったスピーチ。"
+        },
+        {
+          "word": "focused",
+          "definition": "注意や努力が一つの対象にしっかり向けられている。",
+          "frequency": 8,
+          "difference": "focused は集中の方向と持続に焦点があり、intense は集中に加えて感情や雰囲気の強さも表せる。",
+          "example": "a focused expression",
+          "translation": "集中した表情。"
         },
         {
           "word": "fervent",
-          "definition": "特定の対象への強い感情・熱意を示す関連語。",
-          "frequency": 3,
-          "difference": "fervent は支持や願いなど特定の対象への熱意を前面に出し、intense は人・視線・関係を含むより広い対象に使う。",
+          "definition": "支持、信念、願いなどに非常に強い熱意を示す。",
+          "frequency": 4,
+          "difference": "fervent は特定の信念や支持への熱烈さを表す比較的硬い語で、intense は人・視線・関係などにも広く使える。",
           "example": "a fervent supporter",
           "translation": "熱烈な支持者。"
         }
