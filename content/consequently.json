@@ -1,0 +1,92 @@
+{
+  "word": "consequently",
+  "slug": "consequently",
+  "ipa": "Cambridge: 米 /ˈkɑːn.sə.kwənt.li/｜英 /ˈkɒn.sɪ.kwənt.li/。Oxford: 米 /ˈkɑːn.sɪ.kwent.li/｜英 /ˈkɒn.sɪ.kwənt.li/。いずれも4音節で、第1音節に主強勢がある。第1音節は米語で /ɑː/、英語で /ɒ/ と表記される。米語では、Cambridge は第2音節を /ə/・第3音節を /kwənt/、Oxford は /ɪ/・/kwent/ と表記する。英語の表記は両辞書で同じである。",
+  "lead": "前に述べた事実・状況・判断を理由として、後に述べる結果が続くことを示す。単に出来事が後の時点で起こることではなく、前件から後件が結果または論理的帰結として導かれることを表す。",
+  "updated": "2026-09-09",
+  "notion_url": "https://app.notion.com/p/consequently-3d64faa9b77d817d907edcaf7ae72ebc",
+  "pronunciation": [],
+  "etymology": [
+    "consequently は consequent と関連し、consequent はラテン語 consequi「あとに従う」にさかのぼる。"
+  ],
+  "formation": [
+    {
+      "term": "consequence",
+      "description": "名詞。「結果、影響」。特に複数形 consequences は好ましくない結果を指しやすい。"
+    },
+    {
+      "term": "consequent",
+      "description": "形容詞。ある出来事の結果として続くことを表す。"
+    },
+    {
+      "term": "consequential",
+      "description": "形容詞。「結果として生じる」、また「重要な結果を伴う、重要な」。consequently と違い、因果関係をつなぐ副詞ではなく形容詞である。"
+    }
+  ],
+  "core": [],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【副詞・文副詞／接続副詞】その結果、したがって",
+      "frequency": 6,
+      "register": [
+        "結果や帰結を述べる文章・説明で用いられる。"
+      ],
+      "definition": "前に述べた事実・状況・判断を理由として、後に述べる結果が続くことを示す。単に出来事が後の時点で起こることではなく、前件から後件が結果または論理的帰結として導かれることを表す。",
+      "patterns": [
+        "〈原因となる文〉. Consequently, 〈結果の文〉＝その結果、…",
+        "〈原因となる文〉; consequently, 〈結果の文〉＝…、したがって…",
+        "〈主語〉 + consequently + 〈動詞句〉＝その結果〈主語〉は…する",
+        "〈主語〉 + be + consequently + 〈補語〉＝〈主語〉はその結果…である",
+        "〈主語〉 + 〈動詞句1〉 and consequently + 〈動詞句2〉＝〈主語〉は…し、その結果…する。文中では主語の後で主要動詞の前に置く形のほか、be の後で補語の前に置く形がある。"
+      ],
+      "collocations": [
+        {
+          "pattern": "Consequently, 〈結果の文〉",
+          "use": "直前に述べた原因・根拠を受けて、文全体の結果を明示する。",
+          "example": "The train service was suspended. Consequently, many employees worked from home.",
+          "translation": "列車の運行が停止された。その結果、多くの従業員が在宅勤務をした。"
+        },
+        {
+          "pattern": "〈原因となる文〉; consequently, 〈結果の文〉",
+          "use": "原因と結果を一続きの文で示す。",
+          "example": "The evidence was incomplete; consequently, the committee postponed its decision.",
+          "translation": "証拠が不十分だった。その結果、委員会は決定を延期した。"
+        },
+        {
+          "pattern": "〈主語〉 + consequently + 〈動詞句〉",
+          "use": "結果を表す副詞として、主語の後、主要動詞の前に置く。",
+          "example": "Demand fell sharply, and the company consequently reduced production.",
+          "translation": "需要が急減したため、その会社は結果として生産を減らした。"
+        },
+        {
+          "pattern": "〈主語〉 + be + consequently + 〈過去分詞・形容詞〉",
+          "use": "be の後で、ある事情の結果としての状態や判断を補語で説明する。",
+          "example": "The deadline was missed, and the application was consequently rejected.",
+          "translation": "締切に間に合わなかったため、その申請は結果として却下された。"
+        },
+        {
+          "pattern": "〈主語〉 + 〈動詞句1〉 and consequently + 〈動詞句2〉",
+          "use": "同じ主語の二つの述語を結び、前の内容の結果として後の行為や状態を示す。",
+          "example": "The region receives little rainfall and consequently faces frequent water shortages.",
+          "translation": "その地域は降雨量が少なく、その結果しばしば水不足に直面する。"
+        }
+      ],
+      "notes": [
+        "consequently は、前に述べた事情・根拠から結果または論理的帰結を示す副詞であり、単なる時間順だけを示す語ではない。文頭だけでなく、接続詞の後や be の後で補語の前にも置ける。"
+      ],
+      "synonyms": [
+        {
+          "word": "therefore",
+          "definition": "前に述べた事実・理由から結果または結論が導かれることを示す。",
+          "frequency": 7,
+          "difference": "consequently と同様に、前の事情を受けた結果を示す。",
+          "example": "The data are incomplete; therefore, no firm conclusion can be drawn.",
+          "translation": "データが不完全なので、確かな結論は導けない。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
