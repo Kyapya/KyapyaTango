@@ -17,6 +17,76 @@
   const toolbar = document.querySelector('.word-toolbar');
   const jaToggle = document.getElementById('jaToggle');
 
+  // Keep the article full-width on tablets, including landscape touch screens.
+  function installCompactContents() {
+    const sidebar = document.querySelector('.word-sidebar');
+    const headerNav = document.querySelector('.site-header nav');
+    if (!sidebar || !headerNav || typeof HTMLDialogElement === 'undefined') return;
+    const compact = window.matchMedia('(max-width: 1400px), (hover: none)');
+    const marker = document.createComment('word-sidebar desktop position');
+    sidebar.before(marker);
+    const dialog = document.createElement('dialog');
+    dialog.id = 'wordContents';
+    dialog.className = 'contents-dialog';
+    dialog.setAttribute('aria-labelledby', 'contentsTitle');
+    const heading = document.createElement('div');
+    heading.className = 'contents-heading';
+    const title = document.createElement('h2');
+    title.id = 'contentsTitle';
+    title.textContent = `${word || 'この単語'} の目次`;
+    const close = document.createElement('button');
+    close.type = 'button';
+    close.textContent = '閉じる';
+    close.className = 'contents-close';
+    heading.append(title, close);
+    dialog.append(heading);
+    body.append(dialog);
+    const toggle = document.createElement('button');
+    toggle.type = 'button';
+    toggle.className = 'contents-toggle';
+    toggle.textContent = '目次を開く';
+    toggle.setAttribute('aria-haspopup', 'dialog');
+    toggle.setAttribute('aria-controls', dialog.id);
+    toggle.setAttribute('aria-expanded', 'false');
+    headerNav.prepend(toggle);
+    toggle.addEventListener('click', () => {
+      dialog.showModal();
+      toggle.setAttribute('aria-expanded', 'true');
+      body.classList.add('contents-open');
+    });
+    close.addEventListener('click', () => dialog.close());
+    dialog.addEventListener('close', () => {
+      toggle.setAttribute('aria-expanded', 'false');
+      body.classList.remove('contents-open');
+    });
+    dialog.addEventListener('click', (event) => {
+      if (event.target !== dialog) return;
+      const box = dialog.getBoundingClientRect();
+      if (event.clientX < box.left || event.clientX > box.right ||
+          event.clientY < box.top || event.clientY > box.bottom) dialog.close();
+    });
+    sidebar.addEventListener('click', (event) => {
+      const link = event.target.closest('a[href^="#"]');
+      if (!link || !dialog.open) return;
+      const target = document.getElementById(link.hash.slice(1));
+      dialog.close();
+      if (target) {
+        target.setAttribute('tabindex', '-1');
+        target.focus({ preventScroll: true });
+        target.addEventListener('blur', () => target.removeAttribute('tabindex'), { once: true });
+      }
+    });
+    const updateLayout = () => {
+      if (dialog.open) dialog.close();
+      toggle.hidden = !compact.matches;
+      if (compact.matches) dialog.append(sidebar);
+      else marker.after(sidebar);
+    };
+    compact.addEventListener('change', updateLayout);
+    updateLayout();
+  }
+  installCompactContents();
+
   // Sense numbers are already shown in headings, so hide duplicated leading
   // "1." / "2．" markers from hero summaries, definitions and list summaries.
   document.querySelectorAll(
