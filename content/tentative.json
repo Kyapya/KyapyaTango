@@ -1,0 +1,362 @@
+{
+  "word": "tentative",
+  "slug": "tentative",
+  "ipa": "米・英: /ˈtentətɪv/。3音節で、第1音節の /ˈten/ に主強勢がある。第2音節は弱い /tə/、語末は /tɪv/ と発音する。tentatively は /ˈtentətɪvli/、tentativeness は /ˈtentətɪvnəs/ のように、派生語でも第1音節の強勢を保つ。",
+  "lead": "計画、日程、合意、結論、説明、提案、識別などが、現時点では候補として置かれているものの、検討・交渉・確認が終わっておらず、後で変更または撤回される可能性があることを表す。単に「一時的」という期間の短さではなく、内容の確定性がまだ低いことに焦点がある。",
+  "updated": "2026-09-21",
+  "notion_url": "https://app.notion.com/p/tentative-3e24faa9b77d81d0acd5e33e7d8be46c",
+  "pronunciation": [],
+  "etymology": [
+    "16世紀後半に使われ始めた語で、中世ラテン語 tentativus「試みる性質の、試験的な、暫定的な」から来た。これはラテン語 tentare／temptare「触れて確かめる、試す、試みる」に由来する。「まず試してみる段階」という意味から、まだ十分に固まっていない「暫定的な」と、試みる人の「自信のない、ためらいがちな」へ意味が広がった。attempt、tempt、tentatively、tentativeness は同じラテン語の語族に関係するが、tentative の単純な活用形ではない。"
+  ],
+  "formation": [
+    {
+      "term": "tentatively",
+      "description": "副詞。「暫定的に、仮に」または「ためらいがちに、自信なさそうに」。修飾する内容によって2つの形容詞義に対応する。"
+    },
+    {
+      "term": "tentativeness",
+      "description": "名詞。「暫定性、未確定性」または「ためらい、自信のなさ」。通常は不可算名詞で、性質や態度を表す。"
+    },
+    {
+      "term": "tentative",
+      "description": "名詞転用。「暫定的なもの、仮の項目」。まれで、予約・契約・日程などが確定する前の業務上の項目を指すことがある。"
+    },
+    {
+      "term": "attempt／tempt",
+      "description": "同じラテン語 tentare／temptare にさかのぼる関連語。attempt は「試み」、tempt は現代英語で主に「誘惑する」を表し、tentative の派生語ではない。"
+    }
+  ],
+  "core": [
+    {
+      "label": "tentative",
+      "description": "の共通核は、「まだ確定させず、試しに触れている段階」である。計画や判断なら後で変更され得る「暫定性」、行動や表情なら確信を持たず慎重に踏み出す「ためらい」として現れる。"
+    },
+    {
+      "label": "内容を試しに置き、後で変えられる状態",
+      "description": "→ 「暫定的な、仮の」（語義1）"
+    },
+    {
+      "label": "行動を試しに行い、確信を持てない様子",
+      "description": "→ 「ためらいがちな、自信のない」（語義2）"
+    },
+    {
+      "label": "確定前の項目を業務上の仮登録として扱う",
+      "description": "→ 「暫定案、仮の項目」（語義3）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【形容詞・限定用法／叙述用法】暫定的な、仮の、まだ確定していない",
+      "frequency": 9,
+      "register": [
+        "標準語で、会話・報道・ビジネス・学術・交渉まで広く使う。特に plan、date、schedule、arrangement、agreement、conclusion、explanation、identification など、後から確認や調整が入り得る名詞と結びつく。"
+      ],
+      "definition": "計画、日程、合意、結論、説明、提案、識別などが、現時点では候補として置かれているものの、検討・交渉・確認が終わっておらず、後で変更または撤回される可能性があることを表す。単に「一時的」という期間の短さではなく、内容の確定性がまだ低いことに焦点がある。",
+      "patterns": [
+        "a tentative 〈plan/date/schedule/arrangement/agreement〉＝暫定的な〈計画・日付・予定・取り決め・合意〉",
+        "tentative conclusions/findings＝予備的な結論・調査結果",
+        "a tentative explanation/identification＝暫定的な説明・仮の同定",
+        "make/reach/announce a tentative decision＝暫定的な決定をする・出す",
+        "be tentative about 〈the date/details〉＝〈日付・詳細〉がまだ確定していない",
+        "tentative plans to do＝～する暫定的な計画",
+        "tentatively agree/approve/identify＝暫定的に合意する・承認する・特定する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "tentative plans for 〈event/activity〉",
+          "use": "予定はあるが、内容や日時がまだ変わる可能性があることを表す。",
+          "example": "We have tentative plans for a short trip in October.",
+          "translation": "私たちは10月に短い旅行をする仮の予定がある。"
+        },
+        {
+          "pattern": "a tentative date for 〈event〉",
+          "use": "会議・発売・開始などの日付を候補として置く。",
+          "example": "The organizers set a tentative date for the conference in early May.",
+          "translation": "主催者は会議の開催日を5月初旬の仮の日付として設定した。"
+        },
+        {
+          "pattern": "a tentative schedule",
+          "use": "今後の調整で変更され得る予定表を指す。",
+          "example": "The airline released a tentative schedule for the new route.",
+          "translation": "その航空会社は新路線の暫定的な運航予定を公表した。"
+        },
+        {
+          "pattern": "a tentative agreement/deal",
+          "use": "当事者が大筋で合意したが、最終承認や正式契約がまだ済んでいない状態を表す。",
+          "example": "The two sides reached a tentative agreement after three days of talks.",
+          "translation": "両者は3日間の協議の後、暫定合意に達した。"
+        },
+        {
+          "pattern": "tentative conclusions/findings",
+          "use": "調査や分析の途中で得られ、追加の確認で修正され得る結論・結果を表す。",
+          "example": "The researchers presented their tentative findings at the workshop.",
+          "translation": "研究者たちはワークショップで予備的な研究結果を発表した。"
+        },
+        {
+          "pattern": "a tentative explanation for 〈phenomenon/problem〉",
+          "use": "現象や問題を説明する仮説を、確定的な説明としてではなく提示する。",
+          "example": "The team offered a tentative explanation for the sudden drop in demand.",
+          "translation": "チームは需要が急減したことについて暫定的な説明を示した。"
+        },
+        {
+          "pattern": "a tentative identification of 〈person/object〉",
+          "use": "証拠が十分でなく、現段階での仮の同定であることを示す。",
+          "example": "The police made a tentative identification of the vehicle from the video.",
+          "translation": "警察は映像からその車両を暫定的に特定した。"
+        },
+        {
+          "pattern": "tentatively approve/accept/identify something",
+          "use": "承認・受諾・特定を行うが、最終確認や条件の充足を残していることを表す。",
+          "example": "The board tentatively approved the budget pending a legal review.",
+          "translation": "取締役会は法務審査を条件として、その予算を暫定承認した。"
+        }
+      ],
+      "notes": [
+        "tentative は「その場しのぎの」「短期間の」と同義ではない。a tentative date は期間が短い日付ではなく、まだ変更され得る候補日である。a tentative agreement も正式な契約・最終合意とは限らず、final、confirmed、settled などで確定段階を示す。uncertain は結果や真偽が不確かなことを広く表すのに対し、tentative は計画・判断などをいったん置いているが確定させていないことに焦点がある。preliminary は作業・調査の初期段階であること、provisional は正式なものに代わる仮の状態であることを強調しやすい。"
+      ],
+      "synonyms": [
+        {
+          "word": "provisional",
+          "definition": "正式なものが決まるまで、暫定的に使われる。",
+          "frequency": 7,
+          "difference": "provisional は正式な決定・制度・地位の代替として置かれることを強調し、tentative は内容がまだ固まっておらず変更され得ることを広く示す。",
+          "example": "The committee issued a provisional approval while the documents were being checked.",
+          "translation": "委員会は書類を確認している間、暫定承認を出した。"
+        },
+        {
+          "word": "preliminary",
+          "definition": "本格的な検討や最終段階の前に行われる、初期段階の。",
+          "frequency": 8,
+          "difference": "preliminary は時期・段階が早いことに焦点があり、tentative はその結論や計画がまだ確定していないことに焦点がある。",
+          "example": "The report contains preliminary results from the first experiment.",
+          "translation": "その報告書には最初の実験の予備結果が含まれている。"
+        },
+        {
+          "word": "conditional",
+          "definition": "特定の条件が満たされる場合にだけ成立する。",
+          "frequency": 8,
+          "difference": "conditional は変更の理由となる条件を明示する語で、tentative は条件を示さなくても、現段階で確定していないことを表せる。",
+          "example": "The offer is conditional on approval from the lender.",
+          "translation": "その申し出は貸し手の承認を条件としている。"
+        },
+        {
+          "word": "unconfirmed",
+          "definition": "正式な確認や裏付けがまだ得られていない。",
+          "frequency": 7,
+          "difference": "unconfirmed は情報の確認状態に焦点があり、tentative は情報だけでなく計画・合意・結論を仮置きする場合にも使う。",
+          "example": "The report was based on an unconfirmed account of the incident.",
+          "translation": "その報告書は、その出来事についてまだ確認されていない説明に基づいていた。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "definite",
+          "definition": "内容や予定が明確に決まっていて、曖昧さが少ない。",
+          "frequency": 9,
+          "difference": "definite は tentative の「未確定」に対する直接的な反対側を示す。",
+          "example": "We need a definite answer before we book the venue.",
+          "translation": "会場を予約する前に、確定した返事が必要だ。"
+        },
+        {
+          "word": "confirmed",
+          "definition": "確認や承認によって、正しいもの・正式なものとして確定している。",
+          "frequency": 9,
+          "difference": "confirmed は確認手続きが済んだことに焦点があり、tentative はその手続きの前段階を示す。",
+          "example": "The confirmed departure time is shown on your ticket.",
+          "translation": "確定した出発時刻はチケットに表示されている。"
+        },
+        {
+          "word": "final",
+          "definition": "それ以上の変更・検討を予定しない最終的な。",
+          "frequency": 10,
+          "difference": "final は変更を終えた段階、tentative は変更の余地を残した段階を表す。",
+          "example": "The final schedule will be sent to all participants tomorrow.",
+          "translation": "最終日程は明日、参加者全員に送られる。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【形容詞・限定用法／叙述用法】ためらいがちな、自信のない、慎重な",
+      "frequency": 8,
+      "register": [
+        "標準語で、会話・描写・物語・心理描写・対人場面に広く使う。smile、voice、answer、reply、greeting、knock、step、attempt、gesture など、意志や動作の現れ方を表す語と結びつく。"
+      ],
+      "definition": "人の行動、声、表情、返答、提案などが、確信や自信を十分に示さず、様子をうかがいながら慎重に行われることを表す。単に静か・弱いという意味ではなく、失敗や拒否を恐れている、またはまだ慣れていないような不確かさが表れやすい。",
+      "patterns": [
+        "a tentative 〈smile/voice/answer/reply〉＝ためらいがちな〈笑顔・声・返答〉",
+        "take tentative steps＝おそるおそる歩み出す・初めの一歩を踏み出す",
+        "make a tentative attempt/gesture＝慎重な試み・身振りをする",
+        "be tentative about 〈doing something〉＝～することにためらいがある",
+        "sound/look/seem tentative＝声・様子が自信なさそうに聞こえる・見える",
+        "tentatively ask/suggest/reply＝ためらいながら尋ねる・提案する・返答する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a tentative smile",
+          "use": "相手の反応をうかがうような、確信のない笑顔を表す。",
+          "example": "She gave him a tentative smile before entering the unfamiliar room.",
+          "translation": "彼女は見慣れない部屋に入る前、彼にためらいがちな笑顔を向けた。"
+        },
+        {
+          "pattern": "a tentative answer/reply",
+          "use": "答えを断定せず、自信がないまま返すことを表す。",
+          "example": "He gave a tentative answer because he had not checked the figures.",
+          "translation": "彼は数字を確認していなかったので、自信のない返答をした。"
+        },
+        {
+          "pattern": "a tentative voice/tone",
+          "use": "声や口調にためらい・不確かさが表れていることを表す。",
+          "example": "“Perhaps we should wait,” she said in a tentative voice.",
+          "translation": "「待ったほうがよいかもしれません」と、彼女はためらいがちな声で言った。"
+        },
+        {
+          "pattern": "a tentative knock on 〈door〉",
+          "use": "在室や反応を確かめるように、強く決め込まずノックすることを表す。",
+          "example": "There was a tentative knock on the office door.",
+          "translation": "オフィスのドアをおそるおそるノックする音がした。"
+        },
+        {
+          "pattern": "take tentative steps towards 〈goal/change〉",
+          "use": "目標や変化に向けて、確信はないが最初の行動を始めることを表す。",
+          "example": "The company is taking tentative steps toward reducing its use of plastic.",
+          "translation": "その会社はプラスチックの使用を減らすための最初の一歩を慎重に踏み出している。"
+        },
+        {
+          "pattern": "make a tentative attempt to do something",
+          "use": "成功の確信はないが、試しに行動を起こすことを表す。",
+          "example": "The child made a tentative attempt to join the other players.",
+          "translation": "その子どもは、ほかの遊び仲間に加わろうとおそるおそる試みた。"
+        },
+        {
+          "pattern": "be tentative about 〈doing something〉",
+          "use": "何かをすることに自信がなく、決めかねている状態を表す。",
+          "example": "She was tentative about speaking up in front of the whole team.",
+          "translation": "彼女はチーム全員の前で発言することをためらっていた。"
+        },
+        {
+          "pattern": "tentatively suggest/ask something",
+          "use": "相手の反応を見ながら、強く主張せずに提案・質問することを表す。",
+          "example": "He tentatively suggested moving the meeting to Friday.",
+          "translation": "彼は会議を金曜日に移してはどうかと、ためらいがちに提案した。"
+        }
+      ],
+      "notes": [
+        "この意味の tentative は、計画が未確定という語義1と異なり、行為者の態度や動作の仕方を描写する。a tentative smile は「仮の笑顔」ではなく、相手の反応を確かめるような笑顔である。hesitant は決断・発言・行動をためらうことを直接表す最も近い語、cautious は危険や失敗を避けるための用心深さを表し、必ずしも自信のなさを含まない。tentative steps は文字どおり歩く場合も、計画・改革への初期行動を比喩的に表す場合もある。"
+      ],
+      "synonyms": [
+        {
+          "word": "hesitant",
+          "definition": "決めたり行動したりすることをためらっている。",
+          "frequency": 9,
+          "difference": "hesitant は意思決定や行動を進められないためらいを直接示し、tentative は声・表情・動作が自信なさそうに現れる様子まで表せる。",
+          "example": "She was hesitant to raise the issue during the meeting.",
+          "translation": "彼女は会議中にその問題を持ち出すのをためらった。"
+        },
+        {
+          "word": "uncertain",
+          "definition": "自分の判断・答え・行動に確信がない。",
+          "frequency": 9,
+          "difference": "uncertain は認識や判断の不確かさを広く表し、tentative はその不確かさが行動・発言・表情に現れていることを描きやすい。",
+          "example": "He sounded uncertain when asked about the cause.",
+          "translation": "原因を尋ねられたとき、彼は自信がなさそうに聞こえた。"
+        },
+        {
+          "word": "cautious",
+          "definition": "危険・損失・誤りを避けるために用心深い。",
+          "frequency": 9,
+          "difference": "cautious はリスク管理の意識を含むが、tentative は必ずしも危険を評価しているとは限らず、自信のなさや慣れていない感じを示す。",
+          "example": "The manager took a cautious approach to the unfamiliar market.",
+          "translation": "その管理者は未知の市場に慎重な姿勢で臨んだ。"
+        },
+        {
+          "word": "faltering",
+          "definition": "力強さや流暢さを欠き、途中で弱まったりつまずいたりする。",
+          "frequency": 6,
+          "difference": "faltering は声・歩み・進行が不安定で途切れがちな結果に焦点があり、tentative は最初から確信を持てず慎重に行う態度に焦点がある。",
+          "example": "His faltering voice revealed how nervous he was.",
+          "translation": "彼の途切れがちな声から、彼がどれほど緊張していたかが分かった。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "confident",
+          "definition": "自分の能力・判断・発言に確信を持っている。",
+          "frequency": 10,
+          "difference": "confident は tentative の「自信のない態度」に対する直接的な反対を表す。",
+          "example": "She gave a confident answer to the difficult question.",
+          "translation": "彼女はその難しい質問に自信を持って答えた。"
+        },
+        {
+          "word": "assured",
+          "definition": "落ち着きと自信があり、確実そうに見える。",
+          "frequency": 7,
+          "difference": "assured は態度・話し方・演技などに表れる落ち着いた自信を強調し、confident より改まった響きがある。",
+          "example": "The speaker adopted an assured tone from the beginning.",
+          "translation": "その話し手は最初から自信に満ちた口調を取った。"
+        },
+        {
+          "word": "decisive",
+          "definition": "迷わず判断し、行動をはっきり決める。",
+          "frequency": 8,
+          "difference": "decisive は決断や行動の速さ・明確さに焦点があり、tentative は決めかねながら慎重に進めることを表す。",
+          "example": "The director took decisive action when the system failed.",
+          "translation": "システムが停止したとき、部長は断固たる行動を取った。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算／まれ・業務用語】暫定案、仮の項目",
+      "frequency": 2,
+      "register": [
+        "低頻度。イベント予約、放送・興行、契約管理など、仮押さえや契約待ちの項目を区別する実務的な文脈に限られやすい。通常は a tentative booking、a tentative date、a tentative arrangement のように形容詞として言うほうが自然である。"
+      ],
+      "definition": "予約、契約、日程、出演枠などについて、正式な確定や契約が済む前に、仮のものとして記録・扱われる項目を表す。一般会話で広く使う名詞ではなく、複数形 tentatives を含む業務上・事務上の文脈で見られる低頻度用法である。",
+      "patterns": [
+        "a tentative＝1件の暫定項目",
+        "tentatives＝複数の暫定項目",
+        "list/hold/book dates as tentatives＝日程を暫定項目として一覧化・仮押さえする。"
+      ],
+      "collocations": [
+        {
+          "pattern": "list the dates as tentatives",
+          "use": "契約や正式確認が済んでいない日程を仮の枠として記録する。",
+          "example": "The theater listed the autumn dates as tentatives while it waited for the contracts.",
+          "translation": "その劇場は契約を待つ間、秋の日程を暫定枠として記録した。"
+        },
+        {
+          "pattern": "hold a date as a tentative",
+          "use": "日程を正式決定前の仮押さえとして扱う。",
+          "example": "The producer asked us to hold the date as a tentative until Friday.",
+          "translation": "プロデューサーは、金曜日まではその日を仮押さえとしておくよう私たちに頼んだ。"
+        }
+      ],
+      "notes": [
+        "この名詞用法は一般的な「仮のもの」の言い換えとして自由に使う語ではない。通常の文章では a tentative plan、a tentative booking のように形容詞用法を選ぶ。名詞の tentative が必要かどうかは業界の慣行によって異なり、読者に伝わりにくい場合は provisional item、pending booking など具体的な表現で言い換える。"
+      ],
+      "synonyms": [
+        {
+          "word": "provisional item",
+          "definition": "正式決定まで仮のものとして記録・管理される項目。",
+          "frequency": 3,
+          "difference": "provisional item は意味を明示する説明的な句で、名詞 tentative の業務上の用法を平易に言い換える。tentative より自然に伝わりやすいが、特定業界の固定用語とは限らない。",
+          "example": "The spreadsheet marks each provisional item in gray until the contract is signed.",
+          "translation": "その表計算シートでは、契約が締結されるまで各暫定項目を灰色で示している。"
+        },
+        {
+          "word": "pending booking",
+          "definition": "確定や支払いなどを待っている仮予約。",
+          "frequency": 4,
+          "difference": "pending booking は予約に意味を限定し、保留中であることを直接示す。tentative は予約以外の日程・契約項目にも使える。",
+          "example": "We kept the pending booking separate from the confirmed reservations.",
+          "translation": "私たちは保留中の仮予約を、確定済みの予約とは別にしておいた。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
