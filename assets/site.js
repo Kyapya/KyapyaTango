@@ -270,7 +270,8 @@
   function installMobileToolbar() {
     if (!toolbar || toolbar.querySelector('#mobileToolsToggle')) return;
 
-    const mobileQuery = window.matchMedia('(max-width: 720px), (hover: none) and (orientation: landscape)');
+    const mobileQuery = window.matchMedia('(max-width: 720px)');
+    const autoHideQuery = window.matchMedia('(max-width: 720px), (hover: none) and (orientation: landscape)');
     const toggle = document.createElement('button');
     toggle.type = 'button';
     toggle.id = 'mobileToolsToggle';
@@ -305,7 +306,7 @@
 
     let touchY = null;
     document.addEventListener('touchstart', (event) => {
-      if (!mobileQuery.matches || toolbar.contains(event.target)) {
+      if (!autoHideQuery.matches || toolbar.contains(event.target)) {
         touchY = null;
         return;
       }
@@ -313,7 +314,7 @@
     }, { passive: true });
 
     document.addEventListener('touchmove', (event) => {
-      if (!mobileQuery.matches || touchY === null) return;
+      if (!autoHideQuery.matches || touchY === null) return;
       const nextTouchY = event.touches[0]?.clientY;
       if (nextTouchY === undefined) return;
 
@@ -336,7 +337,7 @@
     let lastScrollY = window.scrollY;
     window.addEventListener('scroll', () => {
       const currentY = window.scrollY;
-      if (!mobileQuery.matches) {
+      if (!autoHideQuery.matches) {
         lastScrollY = currentY;
         return;
       }
@@ -361,6 +362,10 @@
 
     mobileQuery.addEventListener?.('change', (event) => {
       setOpen(false);
+      if (!autoHideQuery.matches) toolbar.classList.remove('mobile-toolbar-hidden');
+    });
+    autoHideQuery.addEventListener?.('change', (event) => {
+      lastScrollY = window.scrollY;
       if (!event.matches) toolbar.classList.remove('mobile-toolbar-hidden');
     });
   }
