@@ -9,6 +9,22 @@ FINALIZER = ROOT / "scripts" / "finalize_site.py"
 
 
 class MobileToolbarBehaviorTests(unittest.TestCase):
+    def test_touch_landscape_uses_the_same_collapsible_toolbar_rules(self) -> None:
+        script = SITE_JS.read_text(encoding="utf-8")
+        finalizer = FINALIZER.read_text(encoding="utf-8")
+        self.assertIn(
+            "matchMedia('(max-width: 720px), (hover: none) and (orientation: landscape)')",
+            script,
+        )
+        self.assertIn(
+            "@media(max-width:720px), (hover:none) and (orientation:landscape){",
+            finalizer,
+        )
+        self.assertIn(
+            ".word-toolbar.mobile-tools-ready.mobile-toolbar-hidden{transform:",
+            finalizer,
+        )
+
     def test_action_buttons_do_not_auto_close_toolbar(self) -> None:
         script = SITE_JS.read_text(encoding="utf-8")
         self.assertNotIn("closeAfterAction", script)

@@ -270,7 +270,7 @@
   function installMobileToolbar() {
     if (!toolbar || toolbar.querySelector('#mobileToolsToggle')) return;
 
-    const mobileQuery = window.matchMedia('(max-width: 720px)');
+    const mobileQuery = window.matchMedia('(max-width: 720px), (hover: none) and (orientation: landscape)');
     const toggle = document.createElement('button');
     toggle.type = 'button';
     toggle.id = 'mobileToolsToggle';
