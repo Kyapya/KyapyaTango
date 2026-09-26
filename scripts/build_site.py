@@ -153,7 +153,7 @@ def word_page(word: dict, all_words: list[dict]) -> str:
   <p class="side-label">語義</p><nav class="side-nav sense-nav">{nav}</nav>
 </aside>
 <main class="word-main">
-  <section class="word-hero"><p class="kicker">ENGLISH–JAPANESE EXTRA</p><h1>{escape(word['word'])}</h1><p class="hero-ipa">{escape(word['ipa'])}</p><div class="hero-badges"><span>主要語義 {len(word['senses'])}</span><span>更新 {escape(word['updated'])}</span></div></section>
+  <section class="word-hero"><p class="kicker">ENGLISH–JAPANESE EXTRA</p><h1>{escape(word['word'])}</h1><div class="hero-badges"><span>主要語義 {len(word['senses'])}</span><span>更新 {escape(word['updated'])}</span></div></section>
   <div class="overview-grid">
     {overview_panel('発音記号', f'<p class="big-ipa">{escape(word["ipa"])}</p>{list_html(word.get("pronunciation", []), "ja")}', 'pronunciation')}{core_panel}
     {overview_panel('語源', list_html(word.get('etymology', []), 'ja'), 'etymology')}
