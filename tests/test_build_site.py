@@ -43,6 +43,16 @@ def entry(core: list[dict] | None = None) -> dict:
 
 
 class BuildSiteTests(unittest.TestCase):
+    def test_hero_omits_lead_but_keeps_sense_definition(self) -> None:
+        word = entry()
+        result = word_page(word, [word])
+
+        hero = result.split('<section class="word-hero">', 1)[1].split('</section>', 1)[0]
+        self.assertIn('<h1>approximately</h1>', hero)
+        self.assertIn('class="hero-ipa"', hero)
+        self.assertNotIn(word["lead"], hero)
+        self.assertIn(word["senses"][0]["definition"], result)
+
     def test_omits_core_image_navigation_and_panel_when_core_is_missing(self) -> None:
         word = entry()
         result = word_page(word, [word])
