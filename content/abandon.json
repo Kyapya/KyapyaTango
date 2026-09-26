@@ -44,20 +44,20 @@
       "description": "→ 「場所・物・乗り物を離れて放棄する」（語義2）"
     },
     {
-      "label": "完遂への関与を手放す対象としての活動・計画",
-      "description": "→ 「活動・計画・試みを途中で断念する」（語義3）"
+      "label": "実現・完遂への関与を手放す対象としての活動・計画",
+      "description": "→ 「活動・計画・試みを断念する、打ち切る」（語義3）"
     },
     {
       "label": "支持・維持への関与を手放す対象としての考え・希望・慣習",
       "description": "→ 「支持・信念・希望・方針・慣習を捨てる」（語義4）"
     },
     {
-      "label": "管理・保護を手放し変化に委ねる対象としての財産・場所",
-      "description": "→ 「対象を放置し荒廃に委ねる」（語義5）"
+      "label": "管理・支配を手放し、他者や変化に委ねる対象としての財産・場所",
+      "description": "→ 「他者に明け渡す、放置して荒廃に委ねる」（語義5）"
     },
     {
-      "label": "法的な権利・所有への関与を手放す対象としての請求・財産",
-      "description": "→ 「権利・請求・所有・地位を放棄する」（語義6）"
+      "label": "法的な権利・所有・手続きへの関与を手放す対象としての請求・財産・出願",
+      "description": "→ 「権利・請求・所有・申請を放棄する」（語義6）"
     },
     {
       "label": "保険目的物の所有・関与を手放すこと",
@@ -176,7 +176,7 @@
           "word": "look after",
           "definition": "人・動物・物に必要な注意を払い、面倒を見る。",
           "frequency": 9,
-          "difference": "care for より口語的で、日常的な一時の世話にも使いやすい。",
+          "difference": "abandon は保護・世話から完全に手を引くのに対し、look after は日常的・一時的な世話にも使いやすい。",
           "example": "Can you look after the dog this weekend?",
           "translation": "今週末、その犬の面倒を見てくれますか。"
         },
@@ -302,7 +302,7 @@
     },
     {
       "number": 3,
-      "title": "【動詞・他動詞】活動・計画・試みを途中で断念する",
+      "title": "【動詞・他動詞】活動・計画・試みを断念する、打ち切る",
       "frequency": 8,
       "register": [
         "現代一般。ニュース、ビジネス、研究、行政、日常会話で広く使う。中立からやや正式。"
@@ -318,7 +318,7 @@
       "collocations": [
         {
           "pattern": "abandon a plan/project",
-          "use": "計画・プロジェクトを途中で取りやめる。",
+          "use": "計画・プロジェクトを取りやめる、断念する。",
           "example": "The company abandoned the project after costs doubled.",
           "translation": "その会社は費用が2倍になった後、プロジェクトを断念した。"
         },
@@ -513,7 +513,7 @@
           "word": "uphold",
           "definition": "原則・法律・決定などを支持し、守り続ける。",
           "frequency": 8,
-          "difference": "abandon より正式で、価値や規範を守る責任の含みがある。",
+          "difference": "abandon が考えや方針への支持・維持を手放すのに対し、uphold は原則・法律・決定を支持し、守り続けることを表す。",
           "example": "The court upheld the principle of equal treatment.",
           "translation": "裁判所は平等な扱いの原則を支持した。"
         },
@@ -529,7 +529,7 @@
     },
     {
       "number": 5,
-      "title": "【動詞・他動詞】管理・保護を手放し、荒廃や成り行きに委ねる",
+      "title": "【動詞・他動詞】管理・支配を手放し、他者・荒廃・成り行きに委ねる",
       "frequency": 4,
       "register": [
         "やや文語的・比喩的。土地管理、環境、都市、施設などの文脈で使う。責任や問題を成り行きに委ねる比喩にも使えるが、一般的な「放置」には neglect や leave がより自然なことが多い。"
@@ -574,7 +574,7 @@
         }
       ],
       "notes": [
-        "この用法では、対象から離れた事実よりも「管理・対処をやめた結果、劣化や偶然に委ねられる」ことが重要である。放置された状態を単に述べる場合は leave 〈O〉 abandoned、管理不足を述べる場合は neglect も使える。"
+        "この用法では、対象から離れた事実よりも「管理・対処をやめた結果、劣化や偶然に委ねられる」ことが重要である。to の後に敵・他者が来る場合（abandon a city to the enemy）は、放置ではなく、支配を手放して相手に明け渡すことを表す。放置された状態を単に述べる場合は leave 〈O〉 abandoned、管理不足を述べる場合は neglect も使える。"
       ],
       "synonyms": [
         {
@@ -644,7 +644,7 @@
       "register": [
         "正式・法律・契約。日常会話では give up、relinquish、waive などへ言い換えることが多い。"
       ],
-      "definition": "法的または正式な権利、請求、利益、所有物、地位、申請などを自ら手放し、以後それを主張・行使・追求しない。特許出願では、その審査の継続をやめることを表す。単なる計画中止より、権利関係や法的立場を失うことに焦点がある。",
+      "definition": "法的または正式な権利、請求、利益、所有物、申請などを自ら手放し、以後それを主張・行使・追求しない。特許出願では、その審査の継続をやめることを表す。単なる計画中止より、権利関係や法的立場を失うことに焦点がある。",
       "patterns": [
         "abandon 〈claim・right・interest・property・patent application〉。"
       ],
@@ -803,7 +803,7 @@
           "word": "retain",
           "definition": "所有・権利・目的物を手元に保ち続ける。",
           "frequency": 7,
-          "difference": "委付して手放すことと反対に、被保険者側が対象を保持する。",
+          "difference": "abandon は保険目的物を保険者に委付して手放すのに対し、retain は被保険者側が対象を保持することを表す。",
           "example": "The owner retained the damaged cargo.",
           "translation": "所有者は損傷した貨物を保持した。"
         },
@@ -905,7 +905,7 @@
           "word": "control oneself",
           "definition": "感情や行動を自分で制御する。",
           "frequency": 8,
-          "difference": "感情に身を任せるのではなく、意識的に制御を維持する。",
+          "difference": "abandon oneself to が感情・欲望に身を任せるのに対し、control oneself は意識的に制御を維持することを表す。",
           "example": "He struggled to control himself.",
           "translation": "彼は自分を抑えようと苦闘した。"
         },
@@ -1200,9 +1200,9 @@
           "word": "inhibited",
           "definition": "ためらいや自意識のため、自然に行動・感情を表せない。",
           "frequency": 6,
-          "difference": "unrestrained のように自由に表れる状態の反対で、内的なためらいや抑制に焦点がある。",
-          "example": "The audience's laughter was inhibited at first.",
-          "translation": "観客は初め、笑いを抑えていた。"
+          "difference": "抑制なく表れる abandoned の動きと反対に、ためらいや自意識のために行動・感情を自然に表せない状態を表す。",
+          "example": "The audience was inhibited at first but soon joined in.",
+          "translation": "観客は初めは遠慮がちだったが、すぐに一緒に盛り上がった。"
         }
       ]
     },
@@ -1280,7 +1280,7 @@
           "word": "upright",
           "definition": "道徳的に正直で、高潔な。",
           "frequency": 6,
-          "difference": "自堕落な生活態度に対して、誠実で筋の通った生き方を表す。",
+          "difference": "abandoned は自堕落な生活態度を表すのに対し、upright は誠実で筋の通った生き方を表す。",
           "example": "The story presents her as an upright woman who refuses to exploit others.",
           "translation": "その物語は、他人を利用することを拒む高潔な女性として彼女を描いている。"
         }
