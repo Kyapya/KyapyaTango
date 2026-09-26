@@ -9,21 +9,25 @@ FINALIZER = ROOT / "scripts" / "finalize_site.py"
 
 
 class MobileToolbarBehaviorTests(unittest.TestCase):
-    def test_touch_landscape_uses_the_same_collapsible_toolbar_rules(self) -> None:
+    def test_landscape_keeps_the_button_row_and_only_auto_hides_it(self) -> None:
         script = SITE_JS.read_text(encoding="utf-8")
         finalizer = FINALIZER.read_text(encoding="utf-8")
+        self.assertIn("const mobileQuery = window.matchMedia('(max-width: 720px)')", script)
         self.assertIn(
-            "matchMedia('(max-width: 720px), (hover: none) and (orientation: landscape)')",
+            "const autoHideQuery = window.matchMedia('(max-width: 720px), (hover: none) and (orientation: landscape)')",
             script,
         )
-        self.assertIn(
-            "@media(max-width:720px), (hover:none) and (orientation:landscape){",
-            finalizer,
-        )
+        self.assertIn("if (!autoHideQuery.matches || touchY === null) return;", script)
+        self.assertIn("@media(max-width:720px){", finalizer)
+        landscape = finalizer.split(
+            "@media(hover:none) and (orientation:landscape) and (min-width:721px){", 1
+        )[1].split("}", 2)
         self.assertIn(
             ".word-toolbar.mobile-tools-ready.mobile-toolbar-hidden{transform:",
-            finalizer,
+            landscape[1],
         )
+        self.assertNotIn("display:grid", landscape[0] + landscape[1])
+        self.assertNotIn(".mobile-toolbar-toggle{display:flex", landscape[0] + landscape[1])
 
     def test_action_buttons_do_not_auto_close_toolbar(self) -> None:
         script = SITE_JS.read_text(encoding="utf-8")
