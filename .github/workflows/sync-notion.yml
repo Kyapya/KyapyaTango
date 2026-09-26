@@ -18,7 +18,10 @@ on:
       - scripts/normalize_content.py
       - scripts/fix_sense_navigation.py
       - assets/home.js
+      - assets/site.js
       - assets/compact-list.css
+      - scripts/finalize_site.py
+      - tests/test_mobile_toolbar_behavior.py
       - config/notion.json
       - tests/test_sync_selection.py
       - tests/test_normalize_content.py
