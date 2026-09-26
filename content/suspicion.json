@@ -1,14 +1,13 @@
 {
   "word": "suspicion",
   "slug": "suspicion",
-  "ipa": "Oxford は米・英とも /səˈspɪʃn/ と表記する。Oxford Advanced Learner’s Dictionary（OALD10）の解説では、位置から分かる音節主音 /n/ は [n̩] のような補助記号を付けずに表す。このため /səˈspɪʃn/ の語末 /n/ が音節を担い、全体は3音節と読める。Merriam-Webster の音節別表記 sə-ˈspi-shən も3音節で、第2音節に主強勢を置く。語頭の su- は強く /suː/ と読まず、弱い /sə/ になる。",
+  "ipa": "Oxford は米・英とも /səˈspɪʃn/ と表記する。強勢は第2音節。語頭は弱い /sə/、語末は「シュン」に近く、全体で3音節。",
   "lead": "人が犯罪、不正、不誠実な行為をしたとして疑いの対象になること、またはその人の行為に不正の容疑を向けることを表す。焦点は、ある命題の真偽を予想すること自体より、特定の人がその行為をしたとして疑われている点にある。that節を伴う例もあるが、節の話題だけで語義を決めず、人への容疑を表す場合は語義1に置く。複数の個別の疑いを述べる suspicions は可算、疑",
   "updated": "2026-09-26",
   "notion_url": "https://app.notion.com/p/suspicion-3e54faa9b77d81c18342e7ef12bf5c75",
   "pronunciation": [],
   "etymology": [
-    "suspicion は中英語を経て、アングロフランス語／古フランス語形から英語に入った。語源資料はラテン語形を Oxford が suspectio(n-)、Merriam-Webster が suspicion- / suspicio、Etymonline が後期ラテン語 suspectionem（主格 suspectio）と記している。語源はラテン語 suspicere に関係し、英語の綴りには14世紀の古フランス語形の影響があったとされる。",
-    "Etymonline は、ラテン語 suspicere を sub-（“up to”）＋ specere（“to look at”）からなる形と説明している。suspicere には「見上げる」「ひそかに見る」「疑いの目で見る」などの意味があった。Etymonline は「ひそかに見る」から「疑いの目で見る」への意味のつながりを示している。",
+    "ラテン語 suspicere（sub-「下から上へ」＋ specere「見る」）に由来する。「見上げる」から「こっそり見る」、さらに「疑いの目で見る」へ意味がつながったと説明される。",
     "同じ語根に連なる語に suspect、inspect、respect、spectator などがある。"
   ],
   "formation": [
@@ -50,13 +49,13 @@
       "title": "【名詞・可算／不可算】容疑、犯罪・不正をしたのではないかという疑い",
       "frequency": 8,
       "register": [
-        "一般名詞。辞書には on suspicion of ... を逮捕理由として用いる例がある。Merriam-Webster の法律辞典は suspicion を、証拠なしに、またはわずかな証拠に基づいて、何かが間違っている、またはある事実が存在すると考える、通常は確信に至らない心理状態として説明する。"
+        "中立。報道・法律・日常で広く使う。"
       ],
       "definition": "人が犯罪、不正、不誠実な行為をしたとして疑いの対象になること、またはその人の行為に不正の容疑を向けることを表す。焦点は、ある命題の真偽を予想すること自体より、特定の人がその行為をしたとして疑われている点にある。複数の個別の疑いを述べる suspicions は可算、疑いという状態を表す suspicion は不可算で使われる。on suspicion of ... のように特定の容疑でも無冠詞となる定型表現があるため、可算・不可算は意味だけで一律には決まらない。",
       "patterns": [
         "suspicion that 〈person committed a crime/wrongdoing〉＝〈人が犯罪・不正をした〉のではないかという疑い",
         "suspicion of 〈crime/wrongdoing〉＝〈犯罪・不正〉の疑い",
-        "arouse suspicion that 〈person committed a crime/wrongdoing〉＝〈人が犯罪・不正をした〉という疑いを招く",
+        "arouse/raise suspicion(s) that 〈person committed a crime/wrongdoing〉＝〈人が犯罪・不正をした〉という疑いを招く",
         "on suspicion of 〈crime〉＝〈犯罪〉の容疑で",
         "be under suspicion＝疑いをかけられている",
         "come/fall under suspicion＝疑いをかけられるようになる",
@@ -65,10 +64,16 @@
       ],
       "collocations": [
         {
-          "pattern": "arouse suspicion",
-          "use": "人の行動などから、その人が犯罪・不正をしたのではないかという疑いが生じる。",
-          "example": "Among the auditors, the unexplained transfer of client funds aroused suspicion that the treasurer had committed fraud.",
-          "translation": "監査担当者の間では、顧客資金の使途不明な移動により、会計係が詐欺を行ったのではないかという疑いが生じた。"
+          "pattern": "arouse/raise suspicion(s)",
+          "use": "人の行動や事実から、犯罪・不正の疑いが生じる、または疑いを招く。",
+          "example": "The unexplained transfer of client funds raised suspicions that the treasurer had committed fraud.",
+          "translation": "説明のつかない顧客資金の移動により、会計係が詐欺を働いたのではないかという疑いが生じた。"
+        },
+        {
+          "pattern": "above suspicion",
+          "use": "人が不正をしたとは考えにくいほど潔白だと見られていることを表す。",
+          "example": "As the company's founder, she was considered above suspicion.",
+          "translation": "創業者である彼女は、疑いの余地がないとみなされていた。"
         },
         {
           "pattern": "on suspicion of 〈crime〉",
@@ -92,7 +97,19 @@
           "pattern": "cast suspicion on 〈person/action suspected of wrongdoing〉",
           "use": "犯罪・不正をした可能性がある人や行為に疑いを向けることを表す。",
           "example": "The altered timestamp cast suspicion on the clerk who had access to the report.",
-          "translation": "変更された時刻表示によって、報告書にアクセスできた事務員に疑いが向けられた。"
+          "translation": "改ざんされたタイムスタンプによって、報告書にアクセスできた事務員に疑いが向けられた。"
+        },
+        {
+          "pattern": "suspicion falls on 〈person〉",
+          "use": "疑いの目が特定の人に向けられることを表す。",
+          "example": "When the files went missing, suspicion fell on the office manager.",
+          "translation": "書類がなくなったとき、疑いはオフィスの責任者に向けられた。"
+        },
+        {
+          "pattern": "allay/dispel suspicion(s)",
+          "use": "誰かが不正をしたという疑いを弱めたり、晴らしたりすることを表す。",
+          "example": "The audit results dispelled suspicions that the treasurer had committed fraud.",
+          "translation": "監査結果により、会計係が詐欺をしたという疑いは晴れた。"
         },
         {
           "pattern": "confirm suspicions",
@@ -102,7 +119,7 @@
         }
       ],
       "notes": [
-        "on suspicion of theft は「窃盗の疑いを理由に」という定型表現である。under suspicion は、Oxford の説明では不正をしたのではないかと疑われている状態を表す。accusation や allegation は類義語ではなく、誰かが不正をしたという主張・告発を指す関連語である。人を疑う場合でも、その人に犯罪・不正の容疑を向けるなら語義1に当たる。人・組織を信用できないという意味で使う suspicion of は、語義2の用法を参照。"
+        "on suspicion of theft は「窃盗の疑いを理由に」という定型表現である。under suspicion は、不正をしたのではないかと疑われている状態を表す。accusation や allegation は類義語ではなく、誰かが不正をしたという主張・告発を指す関連語である。人を疑う場合でも、その人に犯罪・不正の容疑を向けるなら語義1に当たる。人・組織を信用できないという意味で使う suspicion of は、語義2の用法を参照。confirm suspicions that a person committed wrongdoing は語義1の用法で、事態についての推測を裏付ける confirm a suspicion は語義3を参照。"
       ],
       "synonyms": [],
       "antonyms": []
@@ -125,7 +142,7 @@
           "pattern": "deep suspicion of 〈person/organization〉",
           "use": "人・組織などを根深く信用していないことを表す。",
           "example": "Many voters have a deep suspicion of large corporations.",
-          "translation": "多くの有権者は大企業を根深く信用していない。"
+          "translation": "多くの有権者は大企業に根強い不信感を抱いている。"
         },
         {
           "pattern": "regard/view 〈person/claim/proposal/action/decision〉 with suspicion",
@@ -137,7 +154,7 @@
           "pattern": "be greeted with (some) suspicion",
           "use": "申し出・提案などが、当初は信用されず、疑いをもって受け止められることを表す。",
           "example": "The new monitoring system was initially greeted with some suspicion.",
-          "translation": "新しい監視システムは当初、多少の疑いをもって受け止められた。"
+          "translation": "新しい監視システムは当初、いくらか警戒の目で見られた。"
         }
       ],
       "notes": [
@@ -156,7 +173,7 @@
           "word": "mistrust",
           "definition": "人・物事を十分には信頼しないこと。",
           "frequency": 7,
-          "difference": "Merriam-Webster の説明では、mistrust は suspicion に基づく本物の疑いを含意する。suspicion は真実性・公正さ・信頼性への信頼の薄さに重心がある。",
+          "difference": "distrust は信頼の欠如を幅広く表す。mistrust は相手や情報に確信が持てず、慎重に受け止める不信を表す。",
           "example": "There was longstanding mistrust between the two groups.",
           "translation": "その二つの集団の間には長年の不信があった。"
         }
@@ -182,8 +199,8 @@
         {
           "pattern": "have a suspicion that 〈clause〉",
           "use": "十分な証拠はないが、あることが本当ではないかと感じていることを表す。",
-          "example": "I have a suspicion that the meeting will finish earlier than planned.",
-          "translation": "その会議は予定より早く終わるのではないかという気がしている。"
+          "example": "I have a suspicion that he hasn't read the report yet.",
+          "translation": "彼はまだ報告書を読んでいないのではないかという気がする。"
         },
         {
           "pattern": "a sneaking suspicion that 〈clause〉",
@@ -195,7 +212,7 @@
           "pattern": "a strong suspicion that 〈clause〉",
           "use": "あることが本当ではないかという強い推測を表す。",
           "example": "We had a strong suspicion that the delay was caused by a technical problem.",
-          "translation": "私たちは、その遅延は技術的な問題によるのではないかという強い疑いを抱いていた。"
+          "translation": "私たちは、その遅延は技術的な問題によるのではないかと強く思っていた。"
         },
         {
           "pattern": "confirm a suspicion",
@@ -205,7 +222,7 @@
         }
       ],
       "notes": [
-        "この語義では内容は悪いことに限らず、I have a suspicion that she may surprise us with good news. のように中立・肯定的な内容についても「そうではないかという気」を表せる。suspicion that ... は、人に犯罪・不正の容疑を向ける場合は語義1、事態についての推測を述べる場合は語義3に当たる。suspicion that ... の that は内容を導く接続詞で、suspicion of ... の of は名詞句を取る。a sneaking suspicion の sneaking はここでは「盗み歩く」という直訳ではなく、表立って確信してはいないが心の中にある感覚を表す。"
+        "この語義では内容は悪いことに限らず、I have a suspicion that she may surprise us with good news. のように中立・肯定的な内容についても「そうではないかという気」を表せる。suspicion that ... は、人に犯罪・不正の容疑を向ける場合は語義1、事態についての推測を述べる場合は語義3に当たる。suspicion that ... の that は内容を導く接続詞で、suspicion of ... の of は名詞句を取る。a sneaking suspicion の sneaking は「こそこそ動く」の意。ここでは「打ち消しきれずに心に残る」感覚を表す。"
       ],
       "synonyms": [
         {
@@ -232,7 +249,7 @@
       "title": "【名詞・単数／formal（やや改まった）】ほんの少し、かすかな気配",
       "frequency": 2,
       "register": [
-        "Oxford はこの意味に formal のラベルを付け、hint を類義語として挙げている。"
+        "formal（やや改まった語）。hint より改まった表現。"
       ],
       "definition": "色、味、匂い、感情、表情などが、はっきり大量に存在するのではなく「あるかないか分かる程度」にわずかに感じられることを表す。通常 a suspicion of ... の形で用いられる比喩的な用法である。",
       "patterns": [
