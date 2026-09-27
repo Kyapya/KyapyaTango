@@ -3,32 +3,28 @@
   "slug": "assert",
   "ipa": "米: /əˈsɝt/｜英: /əˈsɜːt/。2音節の ə-SERT で、第2音節に主強勢がある。米音の /ɝ/ は r の響きを伴う母音、英音の /ɜː/ は r を発音しない長母音である。",
   "lead": "ある命題・事実・意見などを、真実または妥当なものだと明確かつ強く述べる。相手の疑い・反論・否定を予想して、確信をもって言い張る含みが出やすいが、assert した内容が実際に真実であることや、証拠で証明済みであることまでは表さない。",
-  "updated": "2026-09-26",
+  "updated": "2026-09-27",
   "notion_url": "https://app.notion.com/p/assert-3c74faa9b77d8168a1d6de2856a6cc88",
   "pronunciation": [
     "綴りの最初の a は /æ/ ではなく弱い /ə/、語中の ss は /s/、語末の t は /t/ と発音する。",
     "三人称単数 asserts は米 /əˈsɝts/・英 /əˈsɜːts/、過去形・過去分詞 asserted は米 /əˈsɝtɪd/・英 /əˈsɜːtɪd/、-ing形 asserting は米 /əˈsɝtɪŋ/・英 /əˈsɜːtɪŋ/。",
     "asserted の -ed は語末音 /t/ の後なので /ɪd/ となり、asserts は /ts/ の連続で終わる。",
-    "米音では asserted / asserting の t が r と母音に挟まれて弾音化し、[əˈsɝɾɪd]、[əˈsɝɾɪŋ] と発音されることが多い。"
+    "米音では、強勢のある r 音化母音 /ɝ/ の後、弱母音の前にくる /t/ が弾音化し、asserted / asserting は [əˈsɝɾɪd]、[əˈsɝɾɪŋ] と発音されることが多い。"
   ],
   "etymology": [
-    "ラテン語 asserere「主張する、認めさせる」に由来し、その過去分詞 assertus を経て17世紀初頭の英語に入った。語源上は ad-「〜へ」と serere「つなぐ、結びつける」に分けられ、原義は「自分に結びつける」、そこから「自分のものだと主張する」へ発展した。ラテン語 asserere は、ローマ法で「ある人が自由人であると法廷で主張する」（asserere in libertatem）という用法をもっていた（逆に、奴隷であると主張するのは asserere in servitutem）。「権利を主張して認めさせる」という語義2に通じる使い方である。",
-    "現在の「命題・権利・存在を前面に出し、認めさせる」という意味の広がりは、この「自分の側に引き寄せて認めさせる」発想と大まかに対応するが、語源だけから現代の各語義を機械的に導けるわけではない。",
-    "派生語は assertion「主張、断言」、assertive「自己主張の強い、断定的な」、assertiveness「自己主張、積極性」、reassert「再び主張する」である。",
+    "ラテン語 asserere「主張する、認めさせる」に由来し、その過去分詞 assertus を経て17世紀初頭の英語に入った。語源上は ad-「〜へ」と serere「つなぐ、結びつける」に分けられ、語源的には「（自分の側に）結びつける」という発想を背景にもち、ラテン語ですでに「自分のものだと主張する」の意味で使われていた。ラテン語 asserere は、ローマ法で「ある人が自由人であると法廷で主張する」（asserere in libertatem）という用法をもっていた（逆に、奴隷であると主張するのは asserere in servitutem）。権利を主張するという語義2に通じる使い方である。",
+    "現在の「命題・権利・自分自身などをはっきり前面に出す」という意味の広がりは、この「自分の側に結びつけて主張する」発想と大まかに対応するが、語源だけから現代の各語義を機械的に導けるわけではない。",
+    "派生語は assertion「主張、断言」、assertive「自信をもって意見や要求をはっきり述べる」、assertiveness「自己主張、積極性」、reassert「再び主張する」である。",
     "同じ serere「つなぐ、並べる」に由来する同語源語には、insert「差し込む」、exert「（力・影響を）発揮する」、desert「見捨てる」、series「連続、シリーズ」がある。"
   ],
   "formation": [
-    {
-      "term": "asserts",
-      "description": "/ asserted / asserting — 三人称単数現在形・過去形／過去分詞・-ing形。"
-    },
     {
       "term": "assertion",
       "description": "— 名詞「主張、断言、主張する行為」。"
     },
     {
       "term": "assertive",
-      "description": "/ assertively / assertiveness — 形容詞「自己主張の強い、断定的な」／副詞「断定的に、はっきりと自己主張して」／名詞「自己主張、積極性」。"
+      "description": "/ assertively / assertiveness — 形容詞「自信をもって意見や要求をはっきり述べる、毅然とした」／副詞「自信をもって、毅然と、はっきりと」／名詞「自己主張、積極性」。"
     },
     {
       "term": "reassert",
@@ -42,19 +38,19 @@
   "core": [
     {
       "label": "assert",
-      "description": "の共通核は、命題・権利・権威・存在などを、はっきり前面に出して相手や状況に認識させることである。必ずしも証拠で真実を証明することや、相手を威圧することまでは意味しない。"
+      "description": "の共通核は、命題・権利・権威・自分自身などを、確信をもってはっきり前面に出すことである。相手が実際にそれを認めたという結果までは含まず、証拠で真実を証明することや、相手を威圧することも必ずしも意味しない。"
     },
     {
       "label": "命題を真実として前面に出す",
       "description": "→ 「（強く）主張する、断言する」（語義1）"
     },
     {
-      "label": "権利や権威を認めさせようとする",
-      "description": "→ 「権利・権威などを主張し、認めさせようとする」（語義2）"
+      "label": "権利を前面に出す／権威・支配力を行動で示す",
+      "description": "→ 「（権利・請求などを）主張する、（権威・支配などを）示す」（語義2）"
     },
     {
-      "label": "自分の意見や権利を前面に出す",
-      "description": "→ 「自己主張する」（語義3）"
+      "label": "自分の意見や存在を前面に出す",
+      "description": "→ 「自己主張する、自分をはっきり出す」（語義3）"
     },
     {
       "label": "作用や感情の存在・影響を前面に出す",
@@ -70,7 +66,7 @@
       "register": [
         "標準語だがやや硬い。日常会話ではあまり使わず、報道、論文、議論、法廷・公式発言など、他者の主張を報告・検討する書き言葉で特に頻出する。"
       ],
-      "definition": "ある命題・事実・意見などを、真実または妥当なものだと明確かつ強く述べる。相手の疑い・反論・否定を予想して、確信をもってはっきり言い切る含みが出やすいが、assert した内容が実際に真実であることや、証拠で証明済みであることまでは表さない。訳語は「主張する」が基本で、強い言い切りを強調したい場合に「断言する」を用いる。なお、数学・論理学・哲学などでは、定理や命題が何かを「主張する（述べる）」という中立的な意味で使い、強さや反論への構えの含みはない。\n単なる発言よりも、話者がその内容を前面に出して受け入れを求める感じがあり、根拠を示さずに断言しているという批判的な含みを帯びることもある。",
+      "definition": "ある命題・事実・意見などを、確信をもって明確に述べ、真実または妥当なものとして提示する。疑い・反論・否定のある文脈でよく使われ、その場合は確信をもってはっきり言い切る響きになるが、反論を予想していること自体は語義の必須要素ではない。また、assert した内容が実際に真実であることや、証拠で証明済みであることまでは表さない。訳語は「主張する」が基本で、強い言い切りを強調したい場合に「断言する」を用いる。なお、数学・論理学・哲学などでは、定理や命題が何かを「主張する（述べる）」という中立的な意味で使い、強さや反論への構えの含みはない。\n単なる発言よりも、話者がその内容を前面に出して受け入れを求める感じがあり、根拠を示さずに断言しているという批判的な含みを帯びることもある。",
       "patterns": [
         "assert that ...＝〜だと主張する",
         "assert 〈belief/claim/innocence〉＝信念・主張・無実などを強く主張する",
@@ -118,7 +114,7 @@
       "notes": [
         "assert は通常、assert that ... の that節、または assert one's innocence のような名詞句を目的語に取る。目的語を置かない assert about ... という形は通常用いず、内容は直接目的語か that節で置く。一方、assert something about ... のように目的語を置けば、〜について何かを主張するという形は可能である。",
         "assert は「証明する」「真実だと確認する」という意味ではない。He asserted that the figures were correct. は、彼がそう強く述べたことを表すだけで、数値の正しさが証明されたことは含まない。",
-        "単純な say よりも主張の強さ・確信・反論への構えが出やすい。一方、affirm は根拠や確信に基づく確認、claim は未証明・争いの余地がある主張という含みが出やすい。"
+        "単純な say よりも主張の強さ・確信が出やすい。一方、affirm は真実であることや信念・立場を明確に肯定する側面が強く、claim は話者自身がその内容を保証せずに紹介する含みが出やすい。"
       ],
       "synonyms": [
         {
@@ -141,7 +137,7 @@
           "word": "affirm",
           "definition": "事実・信念・判断などを正しいと明確に確認する。",
           "frequency": 5,
-          "difference": "affirm は証拠、経験、信念などに基づく確信や確認を示しやすい。assert は根拠の有無を問わず、強く言い切ることに焦点がある。",
+          "difference": "affirm は、何かが真実であることや自分の信念・立場などを明確に肯定・確認する側面が強い。assert は内容を強く前面に出して言い切る態度に焦点がある。",
           "example": "Several witnesses affirmed that the driver had stopped at the red light.",
           "translation": "複数の目撃者が、運転手は赤信号で停止していたと明言した。"
         },
@@ -149,7 +145,7 @@
           "word": "claim",
           "definition": "何かが事実・権利・資格などだと主張する。",
           "frequency": 9,
-          "difference": "claim は、書き手が内容の真偽から距離を置き、疑わしさを示す合図として報道で特によく使われる。assert も根拠のない断言を表し得るが、疑念の含みは claim より弱く、話者が強く言い切る態度に焦点がある。",
+          "difference": "claim は、話し手・書き手が内容の真偽を自分では保証せず、一定の距離を置いてその人・組織の主張として紹介するときによく使われる。そのため文脈によっては疑念をにじませることもある。assert は、主張者が強く・明確に言い切る態度に焦点がある。",
           "example": "The company claims that its product is completely safe.",
           "translation": "その会社は、自社製品は完全に安全だと主張している。"
         },
@@ -175,12 +171,12 @@
     },
     {
       "number": 2,
-      "title": "【他動詞】権利・権威などを主張し、認めさせようとする",
+      "title": "【他動詞】（権利・請求などを）主張する、（権威・支配などを）示す・行使する",
       "frequency": 7,
       "register": [
         "標準語。日常の対人関係から、政治、組織、法律、国際関係まで使う。assert authority や assert dominance は、決然とした自己主張にも、支配的・威圧的な振る舞いにもなり得る。"
       ],
-      "definition": "自分の権利・権威・支配・独立などを、言葉や決然とした行動によって相手・組織に認めさせようとする。単に「権利があると言う」だけでなく、認識・受諾・支配を求める働きかけを含む。\n権利や権限を実際に獲得できたことを必ずしも含まない（文脈による）。assert a claim は法律・公式文書で「請求・主張を提示し、認めるよう求める」という意味になり得るが、請求が認められたことを表すわけではない。",
+      "definition": "目的語によって大きく2つの使い方がある。\nA. rights、claim、privilege、independence など：自分にその権利・請求・資格・立場などがあることを強く主張する、またはその権利を行使する。\nB. authority、control、dominance、power など：権威・支配力・優位性などを、言葉だけでなく実際の行動によって示す、発揮する。文脈によっては支配・権威を確立することまで表す（例：The military asserted control over the capital.＝軍が首都を掌握した）。\n権利や権限を実際に獲得できたことを必ずしも含まない（文脈による）。assert a claim は法律・公式文書で「請求・主張を提示し、認めるよう求める」という意味になり得るが、請求が認められたことを表すわけではない。",
       "patterns": [
         "assert one's rights/independence/authority/control＝権利・独立・権威・支配を主張する",
         "assert a claim to 〈property/land〉＝財産・土地への権利を主張する",
@@ -250,7 +246,7 @@
         "assert one's rights は権利が法的に確定したことではなく、権利を認めるよう求める行為を表す。assert authority も、相手が実際に従ったことを必ずしも含まない（文脈による）。ただし過去形では、実際に支配・権威を確立したことを含意する場合が多い（例：The military asserted control over the capital.＝軍が首都を掌握した）。",
         "assert control は支配の状態そのものより、支配を確立・行使する動きに焦点がある。",
         "assert a claim to ... は make a claim to ... より硬く、公式・法律的な響きがある。同じ意味では lay claim to ... もよく使われ、単に claim ... と言うのが最も一般的である。assert a claim と言っても、請求が認められた、所有権が確定したという意味にはならない。",
-        "この語義では目的語に rights、authority、control、dominance など、他者に認めさせる対象を置く。単なる事実の主張なら語義1の assert that ... を使う。"
+        "この語義では目的語に rights、authority、control、dominance など、主張する権利や示す権威・支配を表す名詞を置く。単なる事実の主張なら語義1の assert that ... を使う。"
       ],
       "synonyms": [
         {
@@ -328,7 +324,7 @@
       "register": [
         "標準語。職場、会議、交渉、教育、心理・コミュニケーションの文脈で使う。assert yourself more は、遠慮しすぎる人への助言として自然である。"
       ],
-      "definition": "assert oneself の形で、自分の意見・権利・存在を、確信と決意をもって表し、周囲に注意を向けさせたり認めさせたりする。おとなしく引き下がらないことを表すが、必ずしも攻撃的・威圧的であるとは限らず、対人スキルとして肯定的に使われることも多い。",
+      "definition": "assert oneself の形で、自分の意見・権利・存在を、確信と決意をもって表し、遠慮しすぎずにはっきり示す。対立や圧力がある場面に限らず、I need to assert myself more in meetings.（会議でもっと自分の意見をはっきり言う必要がある）のように日常的な場面でも使う。必ずしも攻撃的・威圧的であるとは限らず、対人スキルとして肯定的に使われることも多い。",
       "patterns": [
         "assert oneself＝自己主張する",
         "assert oneself in 〈meeting/discussion〉＝会議・議論で自己主張する",
@@ -376,7 +372,7 @@
       "notes": [
         "この語義では再帰代名詞が必要で、主語に合わせて assert myself/yourself/himself/herself/ourselves/themselves と変化する。assert yourself を assert you とはしない。",
         "assert oneself は「自分の権利を主張する」場合にも使えるが、語義2の assert one's rights より、人が対人場面で自分の意見・存在を前面に出す行動全般に焦点がある。",
-        "assertive は「自信をもって率直に自分の考えや権利を表す」という肯定的・中立的な意味で使われることが多く、aggressive「相手の権利を顧みず攻撃的な」とは区別する。assert oneself 自体も文脈によっては押しが強いという否定的含みを帯びる。"
+        "assertive は「自信をもって率直に自分の考えや権利を表す」という肯定的・中立的な意味で使われることが多く、aggressive「相手の権利を顧みず攻撃的な」とは区別する。assert oneself 自体も文脈によっては押しが強いという否定的含みを帯びる。なお、日本語の「自己主張する」は英語の assert oneself / be assertive より否定的に受け取られることがある。"
       ],
       "synonyms": [
         {
@@ -450,7 +446,7 @@
       "patterns": [
         "〈effect/problem/feeling〉 assert itself＝効果・問題・感情などが現れ始める",
         "begin/start to assert itself＝現れ始める・影響し始める",
-        "〈instinct/training/common sense〉 asserts itself＝本能・訓練・良識などが自然に表に出る",
+        "〈instinct/personality/tendency〉 assert itself＝本能・性格・傾向などが表に出る",
         "assert itself again＝再び表面化する"
       ],
       "collocations": [
@@ -467,10 +463,10 @@
           "translation": "午後遅くになると、疲労が出始めた。"
         },
         {
-          "pattern": "〈instinct/training/common sense〉 asserts itself",
-          "use": "身についた本能・訓練・良識などが、いざという場面で自然に表に出る。",
-          "example": "When the alarm went off, his training asserted itself and he calmly led everyone outside.",
-          "translation": "警報が鳴ると、彼は訓練で身につけたとおりに動き、落ち着いて全員を外へ誘導した。"
+          "pattern": "〈instinct/personality/tendency〉 assert itself",
+          "use": "もともと備わっていた本能・性格・傾向などが、抑えきれずに表に出る。",
+          "example": "His old instincts began to assert themselves.",
+          "translation": "彼の昔からの本能が表に出始めた。"
         },
         {
           "pattern": "reassert itself / reassert themselves",
