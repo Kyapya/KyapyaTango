@@ -1,7 +1,7 @@
 {
   "word": "assess",
   "slug": "assess",
-  "ipa": "米・英: /əˈses/。2音節の ə-ˈses で、第2音節に主強勢がある。第2音節の母音を /ɛ/ と表記する辞書もあるが、表記方式の違いで、音は同じである。いずれも語頭の /ə/ が弱く、第2音節の母音は日本語の「エ」に近いが同一ではない。つづりの似た access /ˈækses/ は第1音節に強勢があり、母音も /æ/ で異なる。assess は第1音節を弱く、第2音節を強く発音する。",
+  "ipa": "米・英: /əˈses/。2音節の ə-ˈses で、第2音節に主強勢がある。第2音節の母音を /ɛ/ と表記する辞書もあるが、表記方式の違いで、音は同じである。いずれも語頭の /ə/ が弱く、第2音節の母音は日本語の「エ」に近いが同一ではない。つづりの似た access /ˈækses/ は第1音節に強勢があり、母音も /æ/ で異なる。",
   "lead": "情報、観察、証拠、基準などに基づいて、人・物・能力・リスク・必要性・状況などを慎重に判断する。単なる印象や当て推量ではなく、調べた内容をもとに「どう評価できるか」「何が必要か」を決める含みがある。",
   "updated": "2026-09-27",
   "notion_url": "https://app.notion.com/p/assess-3804faa9b77d813ea77fc9f0f84a6390",
@@ -10,7 +10,7 @@
   ],
   "etymology": [
     "中英語 assessen、古フランス語 assesser を経て、中世ラテン語 assessare「税を定める」にさかのぼる。assessare はラテン語 assidēre「そばに座る」の過去分詞 assessus から派生した語で、assidēre は ad-「〜へ」と sedēre「座る」から成る。ラテン語 assessor は裁判官の隣に座る補佐役を指し、税額の査定も担ったことから、「税・罰金の額を決める」意味が生じた。",
-    "もともとは税・罰金などの額を決める語で、そこから財産価値の査定、さらに人・物事の性質・重要性・程度を調べて判断する一般義へ広がった。",
+    "そこから財産価値の査定、さらに人・物事の性質・重要性・程度を調べて判断する一般義へ広がった。",
     "同語源の学習語には session「会期、集まり」、preside「司会する、統轄する」がある。"
   ],
   "formation": [
@@ -126,6 +126,12 @@
           "translation": "医師たちは手術が必要かどうかを判断した。"
         },
         {
+          "pattern": "assess how 〈節〉",
+          "use": "対象がどのように、またはどの程度そうなっているかを見極める。",
+          "example": "Teachers need to assess how well students have understood the lesson.",
+          "translation": "教師は、生徒が授業をどの程度理解したかを見極める必要がある。"
+        },
+        {
           "pattern": "assess 〈O〉 as 〈名詞・形容詞〉",
           "use": "対象を特定の分類・性質・状態だと評価する。",
           "example": "The committee assessed the proposal as a viable option.",
@@ -148,12 +154,6 @@
           "use": "教育で、学生の成績が課題や試験によって評価される。",
           "example": "Students are assessed on their coursework and a final exam.",
           "translation": "学生は課題と期末試験で評価される。"
-        },
-        {
-          "pattern": "assess how 〈節〉",
-          "use": "対象がどのように、またはどの程度そうなっているかを見極める。",
-          "example": "Teachers need to assess how well students have understood the lesson.",
-          "translation": "教師は、生徒が授業をどの程度理解したかを見極める必要がある。"
         }
       ],
       "notes": [
@@ -309,14 +309,14 @@
       "title": "【動詞・他動詞・正式／税務・法律・スポーツ】税・料金・罰金などを算定・賦課する／反則に対するペナルティを科す",
       "frequency": 5,
       "register": [
-        "正式・税務・法律・スポーツ。税、会費、料金、罰金の規則や通知で使われ、スポーツの規則文で反則・ペナルティを科す意味でも見られる。日常の「料金を請求する」には charge、「税や罰を公式に課す」には impose・levy が自然なことが多い。"
+        "正式・税務・法律・スポーツ。税、会費、料金、罰金の規則や通知で使われ、スポーツの規則文で反則に対するペナルティを科す意味でも見られる。日常の「料金を請求する」には charge、「税や罰を公式に課す」には impose・levy が自然なことが多い。"
       ],
       "definition": "税・料金・罰金・特別負担などについて、制度や決められた率に基づき、誰にいくら負担させるかを正式に決める。スポーツでは、選手やチームに反則に対するペナルティを科すことを表す。金額の査定（語義2）と負担を課すことが重なる。",
       "patterns": [
         "assess a tax・fee・fine on 〈人・財産〉＝税・料金・罰金の金額を査定し、必要に応じて負担させる",
         "assess 〈人・団体〉 a tax・fee＝人・団体に税・料金を課す",
         "be assessed a tax・fee・fine＝税・料金・罰金を課される",
-        "be assessed a 〈sports penalty〉＝スポーツで反則・ペナルティを科される",
+        "be assessed a 〈sports penalty〉＝スポーツで反則に対するペナルティを科される",
         "assess 〈人・団体〉 for 〈tax・unpaid tax〉＝人・団体について税額・未納税額を査定する。"
       ],
       "collocations": [
@@ -346,7 +346,7 @@
         },
         {
           "pattern": "be assessed a 〈sports penalty〉",
-          "use": "スポーツで選手やチームに反則・ペナルティを科される。",
+          "use": "スポーツで選手やチームが反則に対するペナルティを科される。",
           "example": "The team was assessed a 15-yard penalty for unsportsmanlike conduct.",
           "translation": "そのチームはスポーツマンシップに反する行為で、15ヤードのペナルティを科された。"
         },
