@@ -28,7 +28,7 @@
     },
     {
       "term": "reassert",
-      "description": "— 接頭辞 re-「再び」を付けた動詞「再び主張する、改めて認めさせる」。"
+      "description": "— 接頭辞 re-「再び」を付けた動詞「再び主張する、改めて示す」。"
     },
     {
       "term": "self-assertion",
@@ -178,24 +178,27 @@
       ],
       "definition": "目的語によって大きく2つの使い方がある。\nA. rights、claim、privilege、independence など：自分にその権利・請求・資格・立場などがあることを強く主張する、またはその権利を行使する。\nB. authority、control、dominance、power など：権威・支配力・優位性などを、言葉だけでなく実際の行動によって示す、発揮する。文脈によっては支配・権威を確立することまで表す（例：The military asserted control over the capital.＝軍が首都を掌握した）。\n権利や権限を実際に獲得できたことを必ずしも含まない（文脈による）。assert a claim は法律・公式文書で「請求・主張を提示し、認めるよう求める」という意味になり得るが、請求が認められたことを表すわけではない。",
       "patterns": [
-        "assert one's rights/independence/authority/control＝権利・独立・権威・支配を主張する",
+        "assert one's rights＝権利を主張する・行使する",
+        "assert one's independence＝独立性を示す・主張する",
+        "assert authority/control＝権威・支配力を示す・行使する・確立する",
         "assert a claim to 〈property/land〉＝財産・土地への権利を主張する",
         "assert dominance over 〈person/group〉＝人・集団に対する優位を示す",
         "assert power over 〈person/institution〉＝人・組織に対する権力を示す",
         "assert sovereignty over 〈territory〉＝領土に対する主権を主張する",
         "assert a claim against 〈person/company〉＝〜に対して請求を申し立てる",
-        "assert (a) privilege＝特権・権利の行使を主張する"
+        "assert (a) privilege＝特権・権利を主張する",
+        "援用する"
       ],
       "collocations": [
         {
           "pattern": "assert one's rights",
-          "use": "自分に認められるべき権利を、相手や制度に認識させようとする。",
+          "use": "自分にその権利があることをはっきり主張する、またはその権利を行使する。",
           "example": "The tenants organized to assert their rights.",
           "translation": "借家人たちは、自分たちの権利を主張するために団結した。"
         },
         {
           "pattern": "assert one's independence",
-          "use": "他者・他国・親組織から独立した立場を認めさせる。",
+          "use": "他者・他国・親組織から独立した立場をはっきり示す、または主張する。",
           "example": "The new government sought to assert its independence from the former colonial power.",
           "translation": "新政府は、旧宗主国からの独立を内外に示そうとした。"
         },
@@ -231,7 +234,7 @@
         },
         {
           "pattern": "assert (a) privilege",
-          "use": "法廷などで、証言拒否権や秘匿特権などを行使すると主張する。",
+          "use": "法廷などで、証言拒否権や秘匿特権などを主張・援用し、実際にそれを根拠に証言や開示を拒む。",
           "example": "The witness asserted her Fifth Amendment privilege and declined to answer.",
           "translation": "証人は合衆国憲法修正第5条の自己負罪拒否特権を行使し、回答を拒んだ。"
         },
@@ -243,7 +246,7 @@
         }
       ],
       "notes": [
-        "assert one's rights は権利が法的に確定したことではなく、権利を認めるよう求める行為を表す。assert authority も、相手が実際に従ったことを必ずしも含まない（文脈による）。ただし過去形では、実際に支配・権威を確立したことを含意する場合が多い（例：The military asserted control over the capital.＝軍が首都を掌握した）。",
+        "assert one's rights は権利が法的に確定したことではなく、自分にその権利があることを主張する、またはそれを行使する行為を表す。assert authority も、相手が実際に従ったことを必ずしも含まない（文脈による）。ただし過去形では、実際に支配・権威を確立したことを含意する場合が多い（例：The military asserted control over the capital.＝軍が首都を掌握した）。",
         "assert control は支配の状態そのものより、支配を確立・行使する動きに焦点がある。",
         "assert a claim to ... は make a claim to ... より硬く、公式・法律的な響きがある。同じ意味では lay claim to ... もよく使われ、単に claim ... と言うのが最も一般的である。assert a claim と言っても、請求が認められた、所有権が確定したという意味にはならない。",
         "この語義では目的語に rights、authority、control、dominance など、主張する権利や示す権威・支配を表す名詞を置く。単なる事実の主張なら語義1の assert that ... を使う。"
@@ -253,7 +256,7 @@
           "word": "claim",
           "definition": "権利、所有権、資格などが自分にあると主張する。",
           "frequency": 9,
-          "difference": "claim は権利・所有などの主張そのものに焦点があり、assert と違って、強い態度や相手に認めさせる働きかけを必ずしも含まない。",
+          "difference": "claim は権利・所有などを自分に属するものとして主張することに焦点がある。assert は、それをより明確・強く前面に出したり、文脈によって実際に権利・権威を行使したりすることに焦点がある。",
           "example": "Several families claim ownership of the land.",
           "translation": "複数の家族が、その土地の所有権を主張している。"
         },
@@ -261,7 +264,7 @@
           "word": "insist on",
           "definition": "何かを当然のこととして強く求め、譲らない。",
           "frequency": 9,
-          "difference": "insist on は要求を繰り返して譲歩しない態度に焦点がある。assert は権利・権威を認識させる行為をより広く表す。",
+          "difference": "insist on は要求を繰り返して譲歩しない態度に焦点がある。assert は権利・権威をはっきり示したり、主張・行使したりする行為をより広く表す。",
           "example": "She insisted on her right to speak at the hearing.",
           "translation": "彼女は、その公聴会で発言する権利を強く主張して譲らなかった。"
         },
@@ -277,7 +280,7 @@
           "word": "exercise",
           "definition": "権利、権限、影響力などを実際に行使する。",
           "frequency": 8,
-          "difference": "exercise authority は権限を実際に使うことを表す。assert authority は、まず自分の権限を示して認めさせる局面に焦点がある。",
+          "difference": "exercise authority は権限を実際に使うことを表す。assert authority は、自分の権限をはっきり示し、必要に応じて実際に発揮・確立する局面に焦点がある。",
           "example": "The board exercised its authority to suspend the project.",
           "translation": "取締役会は、プロジェクトを停止する権限を行使した。"
         },
@@ -285,7 +288,7 @@
           "word": "establish",
           "definition": "権威、支配、地位などを確かなものとして打ち立てる。",
           "frequency": 9,
-          "difference": "establish authority/control は権威や支配が確立した結果に焦点がある。assert はそれを認めさせようとする働きかけの段階を表し、成功を必ずしも含まない（文脈による）。",
+          "difference": "establish authority/control は権威や支配が確立した結果に焦点がある。assert は権威・支配などを前面に出して示す・行使する過程に焦点がある。文脈によっては実際の確立まで表すが、establish は確立された結果そのものにより強く焦点がある。",
           "example": "The new coach quickly established control of the dressing room.",
           "translation": "新監督は、すぐにチーム内の主導権を確立した。"
         }
@@ -311,7 +314,7 @@
           "word": "surrender",
           "definition": "権利、支配、抵抗などを手放し、相手に渡す。",
           "frequency": 7,
-          "difference": "surrender は権利・支配・抵抗などを手放すことを表し、それらを前面に出して認めさせようとする assert と反対方向である。",
+          "difference": "surrender は権利・支配・抵抗などを手放すことを表し、それらを前面に出して主張・行使する assert と反対方向である。",
           "example": "The rebels surrendered control of the city.",
           "translation": "反乱軍はその都市の支配権を手放した。"
         }
@@ -352,7 +355,7 @@
         },
         {
           "pattern": "try to assert yourself",
-          "use": "自分の意見・存在を認めてもらおうと試みる。",
+          "use": "自分の意見・立場・存在を、遠慮せずにはっきり示そうとする。",
           "example": "If you disagree, try to assert yourself without interrupting others.",
           "translation": "反対意見があるなら、他人の話を遮らずに自分の考えをはっきり伝えるようにしよう。"
         },
@@ -379,7 +382,7 @@
           "word": "speak up",
           "definition": "意見、質問、異議などを声に出して述べる。",
           "frequency": 9,
-          "difference": "speak up は黙っている状況で発言することに焦点があり、権利や存在を認めさせる強さまでは必ずしも含まない。",
+          "difference": "speak up は黙っている状況で発言することに焦点があり、自分の立場や存在を強く前面に出すニュアンスまでは必ずしも含まない。",
           "example": "Please speak up if you have a concern about the plan.",
           "translation": "その計画に懸念があれば、遠慮なく言ってください。"
         },
