@@ -1,0 +1,268 @@
+{
+  "word": "intervention",
+  "slug": "intervention",
+  "ipa": "米: /ˌɪntərˈvenʃən/｜英: /ˌɪntəˈvenʃən/",
+  "lead": "問題の進行を止めたり改善したりするため、外部の人・組織・制度が意図的に関与すること。中立的にも批判的にも使われる。",
+  "updated": "2026-09-28",
+  "notion_url": "https://app.notion.com/p/intervention-3834faa9b77d8102b5c4f14f5b7ec6a8",
+  "pronunciation": [
+    "主強勢は -ven- /ˈven/ に置く。",
+    "動詞 intervene（米 /ˌɪntərˈviːn/｜英 /ˌɪntəˈviːn/）は強勢母音が長い /iː/ だが、名詞 intervention では短い /e/ になる。"
+  ],
+  "etymology": [
+    "ラテン語 intervenire「間に来る」に由来し、inter-「間に」+ venire「来る」が背景にある。",
+    "関連語には intervene（介入する、間に起こる）、convene（招集する）、convention（会議、慣習）、venue（会場）がある。",
+    "共通コアは「物事の間に入る」という発想で、医療・教育・政治・紛争への介入を表す。"
+  ],
+  "formation": [
+    {
+      "term": "intervene（動詞）—",
+      "description": "介入する、間に入る。"
+    },
+    {
+      "term": "interventionist（名詞/形容詞）—",
+      "description": "介入主義者、介入主義の。"
+    },
+    {
+      "term": "nonintervention（名詞）—",
+      "description": "不介入。政治・外交で使う。"
+    },
+    {
+      "term": "early",
+      "description": "intervention（固定表現）— 早期介入。教育・医療で重要。"
+    },
+    {
+      "term": "crisis",
+      "description": "intervention（固定表現）— 危機介入。"
+    }
+  ],
+  "core": [],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞】介入、干渉、状況を変えるために間に入ること。",
+      "frequency": 7,
+      "register": [
+        "医療、教育、心理、政治、外交、ビジネス、社会政策で高頻度。"
+      ],
+      "definition": "問題の進行を止めたり改善したりするため、外部の人・組織・制度が意図的に関与すること。中立的にも批判的にも使われる。",
+      "patterns": [
+        "intervention in + 状況",
+        "intervention by + 人・組織",
+        "early intervention",
+        "government intervention。"
+      ],
+      "collocations": [
+        {
+          "pattern": "early intervention",
+          "use": "問題が深刻化する前の早期対応。",
+          "example": "Early intervention can improve learning outcomes.",
+          "translation": "早期介入によって、学習成果が向上することがある。"
+        },
+        {
+          "pattern": "government intervention",
+          "use": "政府が市場や社会問題に関与すること。",
+          "example": "The crisis led to government intervention.",
+          "translation": "その危機を受けて、政府が介入した。"
+        },
+        {
+          "pattern": "medical intervention",
+          "use": "医療上の処置や介入を指す。",
+          "example": "The patient needed immediate medical intervention.",
+          "translation": "その患者には、直ちに医療処置が必要だった。"
+        },
+        {
+          "pattern": "intervention in + 名詞",
+          "use": "どの問題に介入するかを示す。",
+          "example": "The group opposed foreign intervention in the conflict.",
+          "translation": "その団体は紛争への外国の介入に反対した。"
+        }
+      ],
+      "notes": [
+        "intervention は「助け」になる場合もあれば「余計な干渉」と受け取られる場合もある。文脈で評価が変わるため、timely, unnecessary などの形容詞で評価を明示することが多い。military, surgical のように介入の種類を示す形容詞もよく付く。"
+      ],
+      "synonyms": [
+        {
+          "word": "involvement",
+          "definition": "関与、参加。",
+          "frequency": 8,
+          "difference": "involvement は単に関わることも含み、intervention ほど状況を変える意図を強く含まない。",
+          "example": "Her involvement helped the project.",
+          "translation": "彼女が関わったことは、プロジェクトの助けになった。"
+        },
+        {
+          "word": "interference",
+          "definition": "干渉、妨害。",
+          "frequency": 6,
+          "difference": "interference は否定的で、望まれない介入を指しやすい。",
+          "example": "They complained about political interference.",
+          "translation": "彼らは政治的干渉に不満を述べた。"
+        },
+        {
+          "word": "action",
+          "definition": "行動、措置。",
+          "frequency": 10,
+          "difference": "action は広い語で、intervention は問題に割って入る行動に限定される。",
+          "example": "Immediate action is needed.",
+          "translation": "直ちに行動が必要だ。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "nonintervention",
+          "definition": "不介入。",
+          "frequency": 4,
+          "difference": "intervention の直接的な反対で、他者の問題に介入しない方針を表す。",
+          "example": "The country adopted a policy of nonintervention.",
+          "translation": "その国は不介入政策を採用した。"
+        },
+        {
+          "word": "inaction",
+          "definition": "何もしないこと、無策。",
+          "frequency": 5,
+          "difference": "intervention が積極的に間に入ることなら、inaction は行動しないこと。",
+          "example": "Inaction made the problem worse.",
+          "translation": "何もしなかったことで問題は悪化した。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【名詞】支援プログラム、治療・教育上の介入策。",
+      "frequency": 6,
+      "register": [
+        "教育、医療、心理学、公衆衛生、福祉、研究。"
+      ],
+      "definition": "特定の問題を改善するために設計された処置・訓練・支援・プログラム。研究や実務では可算名詞として an intervention と言う。",
+      "patterns": [
+        "design an intervention",
+        "evaluate an intervention",
+        "behavioral intervention",
+        "school-based intervention。"
+      ],
+      "collocations": [
+        {
+          "pattern": "behavioral intervention",
+          "use": "行動を変えるための支援策。",
+          "example": "The clinic offers behavioral interventions for anxiety.",
+          "translation": "そのクリニックは不安に対する行動介入を提供している。"
+        },
+        {
+          "pattern": "school-based intervention",
+          "use": "学校で行う支援プログラム。",
+          "example": "The study tested a school-based intervention.",
+          "translation": "その研究は、学校で実施する介入プログラムの効果を検証した。"
+        },
+        {
+          "pattern": "design an intervention",
+          "use": "改善策を設計する。",
+          "example": "Researchers designed an intervention to reduce stress.",
+          "translation": "研究者たちはストレスを減らす介入策を設計した。"
+        },
+        {
+          "pattern": "evaluate an intervention",
+          "use": "介入策の効果を評価する。",
+          "example": "We evaluated the intervention after six months.",
+          "translation": "私たちは6か月後にその介入策を評価した。"
+        }
+      ],
+      "notes": [
+        "この意味では intervention は「介入する行為」だけでなく、具体的なプログラムや処置を指す。可算名詞として複数形 interventions がよく使われる。"
+      ],
+      "synonyms": [
+        {
+          "word": "program",
+          "definition": "計画的な活動や支援制度。",
+          "frequency": 8,
+          "difference": "program は広く、intervention は問題改善を目的にしたプログラムに焦点がある。",
+          "example": "The program supports new parents.",
+          "translation": "そのプログラムは、親になったばかりの人を支援する。"
+        },
+        {
+          "word": "treatment",
+          "definition": "治療、処置。",
+          "frequency": 8,
+          "difference": "treatment は医療的処置に強く、intervention は教育・社会政策にも広がる。",
+          "example": "The treatment reduced symptoms.",
+          "translation": "その治療は症状を軽減した。"
+        },
+        {
+          "word": "measure",
+          "definition": "措置、手段。",
+          "frequency": 7,
+          "difference": "measure は行政・組織の対策に広く使い、intervention のように対象者に合わせて設計された支援であることは必ずしも含まない。",
+          "example": "The city introduced new safety measures.",
+          "translation": "市は新しい安全対策を導入した。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "no intervention",
+          "definition": "介入策を実施しないこと。",
+          "frequency": 4,
+          "difference": "intervention を行う場合と直接対比され、研究や実務で比較条件として使われる。",
+          "example": "The study compared counseling with no intervention.",
+          "translation": "その研究は、カウンセリングを受けた群と、何の介入も受けなかった群を比較した。"
+        },
+        {
+          "word": "withdrawal",
+          "definition": "撤退、引き上げ、中止。",
+          "frequency": 6,
+          "difference": "intervention が関与を始めることなら、withdrawal は関与をやめること。",
+          "example": "The withdrawal of support harmed the project.",
+          "translation": "支援の打ち切りは、プロジェクトに悪影響を与えた。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【名詞】（依存症などの本人に対し、家族・友人が行う）説得の場、介入。",
+      "frequency": 3,
+      "register": [
+        "主に米国の口語・一般向け記事、依存症支援の分野。"
+      ],
+      "definition": "依存症や深刻な問題行動を抱える人に対し、家族・友人などが集まって問題に向き合わせ、治療を受けるよう説得する計画的な話し合い。主に米国で使われる。",
+      "patterns": [
+        "stage/hold an intervention (for + 人)。"
+      ],
+      "collocations": [
+        {
+          "pattern": "stage an intervention",
+          "use": "家族や友人が集まり、本人に治療を促す場を設ける。",
+          "example": "His family staged an intervention to get him into rehab.",
+          "translation": "家族は彼を依存症の治療施設に入れるため、皆で説得の場を設けた。"
+        },
+        {
+          "pattern": "hold an intervention for + 人",
+          "use": "特定の人のために説得の場を開く。",
+          "example": "Her friends held an intervention for her after the accident.",
+          "translation": "事故の後、友人たちは彼女を囲んで、問題に向き合うよう説得した。"
+        }
+      ],
+      "notes": [
+        "可算名詞で、an intervention の形で使う。専門のカウンセラーが同席することもある。日本語の「介入」だけでは伝わりにくいので、「本人を囲んで説得する話し合い」と補って理解するとよい。"
+      ],
+      "synonyms": [
+        {
+          "word": "confrontation",
+          "definition": "対決、（問題に）向き合わせること。",
+          "frequency": 6,
+          "difference": "confrontation は対立的な直面を広く指し、intervention は本人を助ける目的で計画された説得の場に限られる。",
+          "example": "She wanted to avoid a confrontation with her father.",
+          "translation": "彼女は父親と対立することを避けたかった。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "enabling",
+          "definition": "（依存などの）問題行動を結果的に助長すること。",
+          "frequency": 3,
+          "difference": "intervention が本人に変化を促すのに対し、enabling は問題行動を許したり支えたりして続けさせてしまうことを表す。",
+          "example": "Covering for his absences was a form of enabling.",
+          "translation": "彼の欠勤をかばうことは、結果的に問題行動を助長することだった。"
+        }
+      ]
+    }
+  ]
+}
