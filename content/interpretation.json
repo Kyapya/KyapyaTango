@@ -1,0 +1,251 @@
+{
+  "word": "interpretation",
+  "slug": "interpretation",
+  "ipa": "米: /ɪnˌtɝːprəˈteɪʃən/｜英: /ɪnˌtɜːprɪˈteɪʃən/",
+  "lead": "文章・発言・データ・出来事などの意味をどう理解するか、またその説明。複数の interpretation が成立し得る点が重要。",
+  "updated": "2026-09-28",
+  "notion_url": "https://app.notion.com/p/interpretation-3804faa9b77d813ba01ef615478a855c",
+  "pronunciation": [
+    "主強勢は -ta- /ˈteɪ/ に置く。",
+    "動詞 interpret は米 /ɪnˈtɝːprət/、英 /ɪnˈtɜːprɪt/ で、語尾は弱くなる。"
+  ],
+  "etymology": [
+    "古フランス語を経て、ラテン語 interpretatio（interpretari「説明する、解釈する」の名詞形）に由来する。interpretari は interpres「仲介者、説明者、通訳者」から派生した。",
+    "関連語には interpret（解釈する、通訳する）、interpreter（通訳者、解釈者）、interpretive（解釈的な）、misinterpret（誤解する）がある。",
+    "共通コアは「当事者の間に立って意味を説明する」という発想で、解釈、説明、通訳、芸術的表現へ広がる。"
+  ],
+  "formation": [
+    {
+      "term": "interpret（動詞）—",
+      "description": "解釈する、通訳する。"
+    },
+    {
+      "term": "interpreter（名詞）—",
+      "description": "通訳者、解釈者。"
+    },
+    {
+      "term": "interpretive（形容詞）—",
+      "description": "解釈に基づく、説明的な。"
+    },
+    {
+      "term": "misinterpretation（名詞）—",
+      "description": "誤解、誤った解釈。"
+    },
+    {
+      "term": "reinterpretation（名詞）—",
+      "description": "再解釈。"
+    }
+  ],
+  "core": [],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞】解釈、理解の仕方、説明。",
+      "frequency": 8,
+      "register": [
+        "学術、法律、文学、データ分析、報道、日常の説明で広く使う。"
+      ],
+      "definition": "文章・発言・データ・出来事などの意味をどう理解するか、またその説明。複数の interpretation が成立し得る点が重要。",
+      "patterns": [
+        "interpretation of + 名詞",
+        "an interpretation that + 節",
+        "under one interpretation",
+        "open to interpretation。"
+      ],
+      "collocations": [
+        {
+          "pattern": "interpretation of + 名詞",
+          "use": "何についての解釈かを示す。",
+          "example": "Her interpretation of the poem was persuasive.",
+          "translation": "その詩についての彼女の解釈には説得力があった。"
+        },
+        {
+          "pattern": "open to interpretation",
+          "use": "複数の解釈が可能であること。",
+          "example": "The wording is open to interpretation.",
+          "translation": "その文言は解釈の余地がある。"
+        },
+        {
+          "pattern": "legal interpretation",
+          "use": "法律や契約の解釈を指す。",
+          "example": "The case turns on the legal interpretation of a single clause.",
+          "translation": "その訴訟の行方は、ある一つの条項の法的解釈にかかっている。"
+        },
+        {
+          "pattern": "alternative interpretation",
+          "use": "別の見方・説明を示す。",
+          "example": "The data support an alternative interpretation.",
+          "translation": "そのデータは別の解釈を裏づけている。"
+        }
+      ],
+      "notes": [
+        "interpretation は「客観的な意味そのもの」ではなく、人が意味を読み取る行為や結果を指す。translation は言語を移すこと、interpretation は意味づけの幅が広い。"
+      ],
+      "synonyms": [
+        {
+          "word": "explanation",
+          "definition": "説明、理由づけ。",
+          "frequency": 9,
+          "difference": "explanation はわかりやすく説明することに焦点があり、interpretation は意味の読み取りに焦点がある。",
+          "example": "The teacher gave a clear explanation.",
+          "translation": "先生は明確な説明をした。"
+        },
+        {
+          "word": "reading",
+          "definition": "読み、解釈。",
+          "frequency": 6,
+          "difference": "reading は文学・法律・批評で特定の解釈を指す。",
+          "example": "This reading of the text is controversial.",
+          "translation": "本文のこの読み方は議論を呼んでいる。"
+        },
+        {
+          "word": "understanding",
+          "definition": "理解、捉え方。",
+          "frequency": 8,
+          "difference": "understanding は個人の理解状態に焦点があり、interpretation より広い。",
+          "example": "My understanding is that the meeting was canceled.",
+          "translation": "私の理解では、会議は中止になったはずだ。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "misinterpretation",
+          "definition": "誤った解釈。",
+          "frequency": 5,
+          "difference": "interpretation が中立的な解釈なら、misinterpretation は不正確な読み取り。",
+          "example": "The rumor was based on a misinterpretation.",
+          "translation": "そのうわさは誤解に基づいていた。"
+        },
+        {
+          "word": "literal meaning",
+          "definition": "文字どおりの意味。",
+          "frequency": 6,
+          "difference": "interpretation が文脈や視点を含むのに対し、literal meaning は表面上の意味。",
+          "example": "The literal meaning of the phrase is quite different.",
+          "translation": "その表現の文字どおりの意味はまったく異なる。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【名詞】通訳、口頭翻訳。",
+      "frequency": 6,
+      "register": [
+        "国際会議、医療、法律、ビジネス、公共サービス。"
+      ],
+      "definition": "話された言葉を別の言語に口頭で伝えること。職業・サービスとしての通訳を指す。",
+      "patterns": [
+        "simultaneous interpretation",
+        "consecutive interpretation",
+        "interpretation services",
+        "provide interpretation for + 人。"
+      ],
+      "collocations": [
+        {
+          "pattern": "simultaneous interpretation",
+          "use": "話とほぼ同時に訳す通訳。",
+          "example": "The conference offered simultaneous interpretation.",
+          "translation": "その会議では同時通訳が提供された。"
+        },
+        {
+          "pattern": "consecutive interpretation",
+          "use": "話者が区切った後に訳す逐次通訳。",
+          "example": "The interview was conducted with consecutive interpretation.",
+          "translation": "その面談は逐次通訳を介して行われた。"
+        },
+        {
+          "pattern": "interpretation services",
+          "use": "通訳サービス全般を指す。",
+          "example": "The hospital provides interpretation services.",
+          "translation": "その病院は通訳サービスを提供している。"
+        },
+        {
+          "pattern": "provide interpretation for + 人",
+          "use": "特定の人に通訳を提供する。",
+          "example": "The city provides interpretation for residents who do not speak English.",
+          "translation": "市は英語を話さない住民に通訳を提供している。"
+        }
+      ],
+      "notes": [
+        "書かれた文章を別の言語に訳すのは translation、話し言葉を口頭で訳すのは interpretation（または interpreting）と区別する。ただし日常会話では口頭の通訳も translation と言うことが多い。通訳者は interpreter。"
+      ],
+      "synonyms": [
+        {
+          "word": "interpreting",
+          "definition": "通訳する行為。",
+          "frequency": 6,
+          "difference": "interpreting は通訳という行為・職業分野の名称として通訳の専門家の間で好まれる。interpretation も同じ意味で広く使われ、特に米で多く、interpretation services のようなサービス名にもよく現れる。",
+          "example": "She works in medical interpreting.",
+          "translation": "彼女は医療通訳の仕事をしている。"
+        },
+        {
+          "word": "translation",
+          "definition": "翻訳、訳文。",
+          "frequency": 8,
+          "difference": "translation は主に書き言葉の翻訳に使うが、広く訳す行為にも使われる。",
+          "example": "The translation was accurate.",
+          "translation": "その翻訳は正確だった。"
+        },
+        {
+          "word": "rendering",
+          "definition": "表現、訳し方。",
+          "frequency": 4,
+          "difference": "rendering は訳文や表現結果を指す硬い語。",
+          "example": "This rendering sounds natural.",
+          "translation": "この訳し方は自然に聞こえる。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞】（演奏・演技・演出などの）解釈、表現。",
+      "frequency": 5,
+      "register": [
+        "音楽・演劇・映画・舞踊などの批評、公演の解説。"
+      ],
+      "definition": "演奏家・俳優・演出家などが、作品や役をどう理解し、どう表現するか。また、その表現の仕方。",
+      "patterns": [
+        "someone's interpretation of + 作品・役",
+        "a fresh/faithful interpretation。"
+      ],
+      "collocations": [
+        {
+          "pattern": "interpretation of + 作品・役",
+          "use": "誰がどの作品・役をどう表現したかを示す。",
+          "example": "His interpretation of Hamlet was widely praised.",
+          "translation": "彼のハムレット役の解釈は広く称賛された。"
+        },
+        {
+          "pattern": "a fresh interpretation",
+          "use": "従来とは違う新鮮な解釈・表現を評価する。",
+          "example": "The orchestra gave a fresh interpretation of the symphony.",
+          "translation": "そのオーケストラは、その交響曲を新鮮な解釈で演奏した。"
+        }
+      ],
+      "notes": [
+        "この意味では、演奏・演技という行為そのものよりも、作品に対する演者の理解と表現の方向性に焦点がある。上演・演奏という行為や出来栄え全般は performance で表す。"
+      ],
+      "synonyms": [
+        {
+          "word": "rendition",
+          "definition": "曲や役などの演奏・歌唱・演技の仕方。",
+          "frequency": 5,
+          "difference": "rendition は特定の曲や役の実際の演奏・歌唱を指し、interpretation はその背後にある解釈の方向性に焦点がある。",
+          "example": "She sang a moving rendition of the national anthem.",
+          "translation": "彼女は国歌を感動的に歌い上げた。"
+        },
+        {
+          "word": "performance",
+          "definition": "演奏、演技、上演。",
+          "frequency": 9,
+          "difference": "performance は行為や出来栄え全般を指し、解釈の独自性には必ずしも焦点がない。",
+          "example": "The actor's performance was powerful.",
+          "translation": "その俳優の演技には迫力があった。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
