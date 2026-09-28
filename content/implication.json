@@ -1,0 +1,277 @@
+{
+  "word": "implication",
+  "slug": "implication",
+  "ipa": "米: /ˌɪmpləˈkeɪʃən/｜英: /ˌɪmplɪˈkeɪʃən/",
+  "lead": "直接言われていないが、発言・事実・状況から読み取れる意味。日本語の「含み」「示唆」に近い。",
+  "updated": "2026-09-28",
+  "notion_url": "https://app.notion.com/p/implication-3804faa9b77d818a8414cf36e768df0f",
+  "pronunciation": [
+    "主強勢は -ca- /ˈkeɪ/ に置く。",
+    "動詞 imply /ɪmˈplaɪ/ は第2音節に強勢があるが、implication では強勢が -ca- に移り、-pli- の母音は /aɪ/ ではなく弱母音 /ə/（米）・/ɪ/（英）になる。"
+  ],
+  "etymology": [
+    "ラテン語 implicare「折り込む、巻き込む」に由来し、in-「中へ」+ plicare「折る」が背景にある。",
+    "関連語には imply（暗に意味する）、implicit（暗黙の）、complicate（複雑にする）、apply（適用する）がある。",
+    "共通コアは「内側に折り込まれているもの」という発想で、暗示された意味、結果として含まれる影響、（不正などへの）関与の示唆を表す。"
+  ],
+  "formation": [
+    {
+      "term": "imply（動詞）—",
+      "description": "暗に意味する、示唆する。"
+    },
+    {
+      "term": "implicit（形容詞）—",
+      "description": "暗黙の、明示されていない。"
+    },
+    {
+      "term": "implicate（動詞）—",
+      "description": "関与を示す、巻き込む。"
+    },
+    {
+      "term": "implicated（形容詞/過去分詞）—",
+      "description": "関与しているとされた。"
+    },
+    {
+      "term": "implicational（形容詞）—",
+      "description": "含意に関する。論理・言語学で使う。"
+    }
+  ],
+  "core": [],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞】含意、暗示、言外の意味。",
+      "frequency": 7,
+      "register": [
+        "一般語だがやや硬い。議論、報道、学術、批評でよく使う。"
+      ],
+      "definition": "直接言われていないが、発言・事実・状況から読み取れる意味。日本語の「含み」「示唆」に近い。",
+      "patterns": [
+        "the implication of + 名詞",
+        "an implication that + 節",
+        "by implication",
+        "clear implication。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the implication of + 名詞",
+          "use": "発言や事実の含意を述べる。",
+          "example": "The implication of his comment was clear.",
+          "translation": "彼の発言の含意は明らかだった。"
+        },
+        {
+          "pattern": "an implication that + 節",
+          "use": "暗に示された内容を節で説明する。",
+          "example": "There was an implication that the team had failed.",
+          "translation": "チームが失敗したという含みがあった。"
+        },
+        {
+          "pattern": "by implication",
+          "use": "明示ではなく含意として示す。",
+          "example": "By implication, the rule applies to contractors too.",
+          "translation": "言外に、その規則は請負業者にも適用されるということになる。"
+        },
+        {
+          "pattern": "clear implication",
+          "use": "読み取れる意味がはっきりしていること。",
+          "example": "The clear implication is that costs will rise.",
+          "translation": "そこからはっきり読み取れるのは、費用が上がるということだ。"
+        }
+      ],
+      "notes": [
+        "implication は「話し手が本当に意図した意味」とは限らない。聞き手や読者が状況から推論する意味にも使う。explicit meaning とは対になる。"
+      ],
+      "synonyms": [
+        {
+          "word": "suggestion",
+          "definition": "示唆、ほのめかし。",
+          "frequency": 8,
+          "difference": "suggestion はより一般的で、提案の意味もある。implication は論理的に含まれる意味に寄りやすい。",
+          "example": "There was a suggestion of bias.",
+          "translation": "偏りがあるのではないかという示唆があった。"
+        },
+        {
+          "word": "hint",
+          "definition": "ほのめかし、手がかり。",
+          "frequency": 7,
+          "difference": "hint は小さな手がかりや意図的なほのめかしに使いやすい。",
+          "example": "She gave no hint of anger.",
+          "translation": "彼女は怒りを少しも見せなかった。"
+        },
+        {
+          "word": "meaning",
+          "definition": "意味。",
+          "frequency": 10,
+          "difference": "meaning は明示的な意味も含む広い語で、implication は隠れた意味に焦点がある。",
+          "example": "The meaning of the phrase is disputed.",
+          "translation": "その表現の意味は議論されている。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "explicit statement",
+          "definition": "明示的な発言。",
+          "frequency": 5,
+          "difference": "implication が言外の意味なら、explicit statement は直接述べられた内容。",
+          "example": "The contract contains an explicit statement of responsibility.",
+          "translation": "その契約には責任についての明示的な記載がある。"
+        },
+        {
+          "word": "literal meaning",
+          "definition": "文字どおりの意味。",
+          "frequency": 6,
+          "difference": "implication が文脈から読み取る意味なら、literal meaning は語句そのものの意味。",
+          "example": "The literal meaning is not the whole message.",
+          "translation": "文字どおりの意味がメッセージのすべてではない。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【名詞】影響、予想される結果、重要な帰結。",
+      "frequency": 8,
+      "register": [
+        "ビジネス、政策、学術、医療、技術、報道で高頻度。"
+      ],
+      "definition": "ある決定・出来事・発見が将来にもたらす結果や重要性。複数形 implications で「波及効果」「意味合い」としてよく使う。",
+      "patterns": [
+        "implications for + 名詞",
+        "policy implications",
+        "practical implications",
+        "serious implications。"
+      ],
+      "collocations": [
+        {
+          "pattern": "implications for + 名詞",
+          "use": "何に影響するかを示す。",
+          "example": "The findings have implications for public health.",
+          "translation": "その研究結果は公衆衛生にとって重要な意味を持つ。"
+        },
+        {
+          "pattern": "policy implications",
+          "use": "政策上の意味合いを述べる。",
+          "example": "The study discusses the policy implications of aging.",
+          "translation": "その研究は高齢化の政策上の意味合いを論じている。"
+        },
+        {
+          "pattern": "practical implications",
+          "use": "実務・現場での影響を示す。",
+          "example": "The change has practical implications for teachers.",
+          "translation": "その変更は教師に実務上の影響を及ぼす。"
+        },
+        {
+          "pattern": "serious implications",
+          "use": "重大な結果につながる可能性を示す。",
+          "example": "The error could have serious implications for safety.",
+          "translation": "そのミスは安全に重大な影響を及ぼす可能性がある。"
+        }
+      ],
+      "notes": [
+        "この意味では単数より複数形 implications が非常に多い。「良い影響」だけでなく、リスクや課題を含む中立的な語。"
+      ],
+      "synonyms": [
+        {
+          "word": "consequence",
+          "definition": "結果、帰結。",
+          "frequency": 8,
+          "difference": "consequence は実際または論理上の結果に焦点があり、implication は将来の意味合いや波及に焦点がある。",
+          "example": "The decision had unexpected consequences.",
+          "translation": "その決定には予期しない結果があった。"
+        },
+        {
+          "word": "impact",
+          "definition": "影響、効果。",
+          "frequency": 8,
+          "difference": "impact は影響の大きさや直接性に焦点がある。",
+          "example": "The policy had a major impact on families.",
+          "translation": "その政策は家庭に大きな影響を与えた。"
+        },
+        {
+          "word": "ramification",
+          "definition": "複雑に広がる影響、波及効果。",
+          "frequency": 4,
+          "difference": "ramification は硬く、複雑な派生的影響を強調する。",
+          "example": "The legal ramifications are unclear.",
+          "translation": "法的な波及効果は不明だ。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "irrelevance",
+          "definition": "関係のなさ、無関係。",
+          "frequency": 4,
+          "difference": "implication が重要な意味合いを持つのに対し、irrelevance は影響や関係がないこと。",
+          "example": "The old rule has become an irrelevance.",
+          "translation": "その古い規則は、今では意味のないものになっている。"
+        },
+        {
+          "word": "insignificance",
+          "definition": "重要でないこと。",
+          "frequency": 4,
+          "difference": "implication が意味や影響の重要性を示すのに対し、insignificance は重要性の欠如を示す。",
+          "example": "The difference faded into insignificance.",
+          "translation": "その差は取るに足らないものになった。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【名詞】（犯罪・不正などへの）関与の示唆、巻き込み。",
+      "frequency": 3,
+      "register": [
+        "報道、法律、捜査の文脈で使う。やや硬い。"
+      ],
+      "definition": "人が犯罪・不正・不祥事などに関わっていると示されること、またはそう疑われること。動詞 implicate「関与を示す、巻き込む」に対応する用法。",
+      "patterns": [
+        "someone's implication in + 名詞",
+        "implication in a crime/scandal。"
+      ],
+      "collocations": [
+        {
+          "pattern": "implication in + 名詞",
+          "use": "何への関与が示されたかを表す。",
+          "example": "The report revealed the minister's implication in the cover-up.",
+          "translation": "その報告書で、大臣が隠蔽に関与していたことが明らかになった。"
+        },
+        {
+          "pattern": "implication in a scandal",
+          "use": "不祥事への関与が取り沙汰されることを表す。",
+          "example": "Her implication in the scandal ended her political career.",
+          "translation": "その不祥事への関与が取り沙汰されたことで、彼女の政治生命は絶たれた。"
+        }
+      ],
+      "notes": [
+        "この意味では involvement の方がはるかに一般的で、implication は「関与していると示される・疑われる」という含みが強い。動詞を使って be implicated in ～ と言う方が普通である。"
+      ],
+      "synonyms": [
+        {
+          "word": "involvement",
+          "definition": "関与、関わり。",
+          "frequency": 8,
+          "difference": "関わりを中立的に表す一般語で、implication のような「疑い・示唆」の含みはない。",
+          "example": "Police are investigating his involvement in the robbery.",
+          "translation": "警察は強盗事件への彼の関与を捜査している。"
+        },
+        {
+          "word": "complicity",
+          "definition": "共謀、加担。",
+          "frequency": 4,
+          "difference": "悪事に加担したことを表し、implication より断定的で否定的である。",
+          "example": "She was accused of complicity in the cover-up.",
+          "translation": "彼女は隠蔽に加担したとして非難された。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "exoneration",
+          "definition": "容疑が晴れること、潔白の証明。",
+          "frequency": 3,
+          "difference": "implication が関与を示すのに対し、exoneration は関与の疑いが晴れることを表す。",
+          "example": "The new evidence led to his exoneration.",
+          "translation": "新たな証拠によって、彼の容疑は晴れた。"
+        }
+      ]
+    }
+  ]
+}
