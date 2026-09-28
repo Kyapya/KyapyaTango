@@ -3,14 +3,14 @@
   "slug": "extensive",
   "ipa": "米: /ɪkˈstɛnsɪv/｜英: /ɪkˈstensɪv/。3音節の ik-STEN-siv で、第2音節に主強勢がある。第1音節は弱い /ɪk/、第2音節の母音は米国発音で /ɛ/、英国発音で /e/ と表記され、第3音節は弱い /ɪv/ で終わる。",
   "lead": "土地・地域・建物の敷地などが大きな面積に及ぶ、または旅行・活動などが広い地域にわたることを表す。単に対象の数が多いというより、空間的な広がりや及ぶ範囲に焦点がある。",
-  "updated": "2026-08-25",
+  "updated": "2026-09-28",
   "notion_url": "https://app.notion.com/p/extensive-3c74faa9b77d81e7a7c1c960246b0221",
   "pronunciation": [
-    "綴りの ex- はここでは /ɛks/ と強く読まず、語頭の /ɪk/ と、次の強勢音節の /st/ に分かれる。語末の -sive は /sɪv/ で、/saɪv/ ではない。",
+    "綴りの ex- はここでは /ɛks/ と強く読まず、x の /ks/ が分かれて、/k/ は語頭の弱い /ɪk/ に、/s/ は次の強勢音節の頭（/st/ の /s/）に属する。語末の -sive は /sɪv/ で、/saɪv/ ではない。",
     "比較級は more extensive、最上級は most extensive とするのが普通で、extensiver・extensivest は通常用いない。副詞 extensively は米 /ɪkˈstɛnsɪvli/、英 /ɪkˈstensɪvli/ と発音し、主強勢の位置を保つ。"
   ],
   "etymology": [
-    "late Middle English に、フランス語 extensif, -ive または後期ラテン語 extensivus 経由で入った。さらにラテン語 extendere「外へ伸ばす、広げる」へさかのぼり、ex-「外へ」と tendere「伸ばす」から成る。",
+    "後期中英語期に、フランス語 extensif, -ive または後期ラテン語 extensivus を経て英語に入った。さらにラテン語 extendere「外へ伸ばす、広げる」へさかのぼり、ex-「外へ」と tendere「伸ばす」から成る。",
     "中心にあるのは「外へ伸びて、範囲・量・作用の及ぶ先が広がる」という発想で、物理的な広さから、情報の範囲、被害の規模、専門分野の「系の大きさ」へ意味が抽象化している。",
     "同語族の学習語は extend「広げる、延長する」、extent「広がり、程度」、extension「拡張、延長」、extensively「広範囲に、広く」、extensiveness「広範さ」である。"
   ],
@@ -25,7 +25,7 @@
     },
     {
       "term": "extensivity",
-      "description": "— 名詞「外延性、示量性」。物理・論理などの専門分野で使われる。"
+      "description": "— 名詞「示量性」。主に物理・化学の専門語として使われる。"
     },
     {
       "term": "more/most",
@@ -104,17 +104,17 @@
           "pattern": "extensive travels",
           "use": "多くの地域を巡る広範な旅行経験を表す。",
           "example": "Her extensive travels have shaped her understanding of different cultures.",
-          "translation": "彼女の広範な旅行経験は、異なる文化への理解を形づくってきた。"
+          "translation": "各地を広く旅した経験が、彼女の異文化理解を形づくってきた。"
         },
         {
           "pattern": "an extensive network of 〈roads/railways〉",
           "use": "道路や鉄道などが広い地域を結んでいることを表す。",
           "example": "The island has an extensive network of rural roads.",
-          "translation": "その島には農村部まで広がる道路網がある。"
+          "translation": "その島には、農村部の道路網が広く張り巡らされている。"
         }
       ],
       "notes": [
-        "この語義の extensive は「広い面積に及ぶ」という空間的な意味が中心である。extensive grounds は庭や敷地の面積を表すが、extensive research は面積ではなく情報の範囲を表すため、語義3に近い。",
+        "この語義の extensive は「広い面積に及ぶ」という空間的な意味が中心である。extensive grounds は庭や敷地の面積を表すが、extensive research は面積ではなく情報の範囲を表すため、語義3に当たる。",
         "extensive は名詞の前に置く限定用法が多い。述語位置の The grounds are extensive. も可能だが、被害・損傷について The damage was extensive. と言う場合は、空間よりも規模・程度を表す語義2として理解する。"
       ],
       "synonyms": [
@@ -131,8 +131,8 @@
           "definition": "左右・範囲・選択肢などが広い。",
           "frequency": 10,
           "difference": "wide は幅や選択の広さを日常的に表す基本語で、extensive は広い範囲にわたる規模や展開をやや硬く述べる。",
-          "example": "The museum offers a wide range of educational programs.",
-          "translation": "その博物館は幅広い教育プログラムを提供している。"
+          "example": "The storm caused power cuts across a wide area.",
+          "translation": "その嵐で広い地域が停電した。"
         },
         {
           "word": "expansive",
@@ -148,7 +148,7 @@
           "frequency": 6,
           "difference": "sprawling は形がまとまりなく広がる印象や、しばしば批判的な含みを伴う。extensive にはその評価は必須でない。",
           "example": "A sprawling suburb has developed around the airport.",
-          "translation": "空港周辺に広がり続ける郊外が形成された。"
+          "translation": "空港の周囲には、無秩序に広がる郊外住宅地ができた。"
         }
       ],
       "antonyms": [
@@ -166,7 +166,7 @@
           "frequency": 7,
           "difference": "confined は広がりが物理的・制度的に抑えられていることを強調する。",
           "example": "The fire was confined to a single room.",
-          "translation": "火災は一室に限定されていた。"
+          "translation": "火災は一室だけにとどまった。"
         }
       ]
     },
@@ -206,7 +206,7 @@
           "pattern": "extensive testing",
           "use": "検査・試験を多くの条件や段階で大規模に行うことを表す。",
           "example": "The software underwent extensive testing before its release.",
-          "translation": "そのソフトウェアは発売前に大規模な試験を受けた。"
+          "translation": "そのソフトウェアは、リリース前に広範なテストを受けた。"
         },
         {
           "pattern": "extensive powers",
@@ -218,11 +218,11 @@
           "pattern": "the damage is extensive",
           "use": "被害の規模が大きいと報告・評価する。",
           "example": "Officials said that the damage was extensive but no one was injured.",
-          "translation": "当局者は被害は甚大だが、けが人はいないと述べた。"
+          "translation": "当局者は、被害は甚大だがけが人はいないと述べた。"
         }
       ],
       "notes": [
-        "extensive damage・extensive research のように、不可算名詞をそのまま修飾できる。damage は通常不可算なので、一般的な意味で an extensive damage とは言わず、extensive damage または an extensive amount of damage とする。",
+        "extensive damage・extensive research のように、不可算名詞をそのまま修飾できる。damage は通常不可算なので、an extensive damage とは言わず extensive damage とする。量の多さを強調するなら a great deal of damage なども使える。",
         "「長い」を表す lengthy と重なることはあるが、extensive は時間の長さそのものより、作業・被害・内容が及ぶ範囲や規模に焦点がある。修理に時間がかかったことを言いたいなら lengthy repairs、作業量が大きいことを言いたいなら extensive repairs が自然である。",
         "「強烈な」を表す intense とも異なる。intense は経験・感情・熱・努力などの強度や集中度、extensive は広がり・量・規模を表す。"
       ],
@@ -231,7 +231,7 @@
           "word": "considerable",
           "definition": "量・程度・重要性がかなり大きい。",
           "frequency": 8,
-          "difference": "considerable は「かなりの」という数量・程度の評価に焦点がある。extensive は対象が広い範囲に及ぶという構造的な広がりをより強く示す。",
+          "difference": "considerable は「かなりの」という数量・程度の評価に焦点がある。extensive は対象が広い範囲や多くの部分に及ぶことをより強く示す。",
           "example": "The project required a considerable investment.",
           "translation": "その計画にはかなりの投資が必要だった。"
         },
@@ -273,7 +273,7 @@
           "word": "minor",
           "definition": "重要性・規模・程度が小さく、深刻でない。",
           "frequency": 9,
-          "difference": "minor は被害や変更の小ささ・軽さを表す。extensive の範囲の広さとは異なる軸もあるが、damage・injuries・repairs では有効な対比になる。",
+          "difference": "minor は被害や変更の小ささ・軽さを表し、範囲の広さを直接表す extensive とは軸が少し異なる。ただし damage・injuries・repairs では有効な対比になる。",
           "example": "The vehicle suffered only minor damage.",
           "translation": "その車は軽微な損傷しか受けなかった。"
         },
@@ -330,19 +330,20 @@
           "pattern": "an extensive bibliography",
           "use": "書籍・論文などの参考文献一覧が多く、広い資料範囲をカバーしていることを表す。",
           "example": "The book includes an extensive bibliography of historical sources.",
-          "translation": "その本には歴史資料の広範な参考文献一覧が付いている。"
+          "translation": "その本には、歴史資料を幅広く収めた参考文献一覧が付いている。"
         },
         {
           "pattern": "extensive reading",
           "use": "特定の文章を細部まで分析するより、多くの文章を読む学習・活動を表す。",
           "example": "Extensive reading can help learners build vocabulary through repeated exposure.",
-          "translation": "多読は、繰り返し触れることを通じて学習者の語彙構築に役立つ。"
+          "translation": "多読は、語に繰り返し触れることで学習者が語彙を増やすのに役立つ。"
         }
       ],
       "notes": [
         "extensive knowledge は「知識が深い」ことを含む場合もあるが、語の中心は知識の量・範囲であり、細部への深さを必ずしも保証しない。comprehensive は必要な範囲を漏れなく含むこと、thorough は細部まで注意深く扱うことに焦点がある。",
         "extensive experience は「経験した期間が長い」だけでなく、複数の業務・状況・分野にまたがる経験が豊富であることを表しやすい。経験年数だけを述べるなら many years of experience の方が直接的な場合もある。",
-        "extensive reading は教育用語として「多読」を指すことがあるが、一般文脈では単に大量・広範囲に読むことも表す。精読は intensive reading と対比される。"
+        "extensive reading は教育用語として「多読」を指すことがあるが、一般文脈では単に大量・広範囲に読むことも表す。教育用語としては「精読」を表す intensive reading と対比される。",
+        "深く集中的に行うことを言うなら intensive を使う。extensive research は研究の範囲・量、intensive research は集中的に深く行う研究であることを強調する。"
       ],
       "synonyms": [
         {
@@ -367,7 +368,7 @@
           "frequency": 10,
           "difference": "broad は日常的で基本的な語。extensive は資料・経験・研究などの量や展開の大きさをやや強く、また硬く表す。",
           "example": "The course gives students a broad understanding of economics.",
-          "translation": "その講座は学生に経済学の幅広い理解を与える。"
+          "translation": "その講座で、学生は経済学を幅広く理解できる。"
         },
         {
           "word": "far-reaching",
@@ -375,7 +376,7 @@
           "frequency": 7,
           "difference": "far-reaching は影響や結果の及ぶ範囲を強調する。extensive は知識・資料・経験の量や範囲にも使える。",
           "example": "The reform could have far-reaching consequences.",
-          "translation": "その改革は広範な結果をもたらす可能性がある。"
+          "translation": "その改革は、広範囲に影響を及ぼす可能性がある。"
         },
         {
           "word": "thorough",
@@ -409,7 +410,7 @@
           "frequency": 7,
           "difference": "restricted は外部の規則や条件によって利用・適用範囲が抑えられていることを示す。",
           "example": "Access to the archive is restricted to researchers.",
-          "translation": "その資料館へのアクセスは研究者に制限されている。"
+          "translation": "その資料館を利用できるのは研究者に限られている。"
         }
       ]
     },
@@ -418,7 +419,7 @@
       "title": "【形容詞・農業】粗放的な、粗放農業の",
       "frequency": 3,
       "register": [
-        "農業・畜産の専門語。一般会話では extensive farming",
+        "農業・畜産の専門語。一般向けの文章では extensive farming",
         "agriculture の定着した語句で現れることが多い。intensive farming",
         "agriculture と対比される。"
       ],
@@ -457,7 +458,7 @@
       ],
       "notes": [
         "この語義では extensive を「大規模な」「広範な」とだけ訳すと、低投入・低密度という対比が抜ける。extensive farming は土地当たりの投入が少ない方式、intensive farming は土地当たりの投入を増やして高い生産性を目指す方式である。",
-        "農業用法の extensive は、一般語義2の extensive production「大規模な生産」と完全に同義ではない。広い土地を使っていても、単位面積当たりの投入が少ないという方式上の特徴がなければ、この専門義とは限らない。"
+        "農業用法の extensive は、一般語義の「広大な」「大規模な」と完全に同義ではない。広い土地を使う大規模な経営であっても、単位面積当たりの投入が少ないという方式上の特徴がなければ、この専門義とは限らない。"
       ],
       "synonyms": [
         {
@@ -498,7 +499,7 @@
           "word": "high-input",
           "definition": "土地や生産単位当たりの投入量が多い。",
           "frequency": 5,
-          "difference": "high-input agriculture は投入の多さを直接示す説明的な表現で、extensive の専門的な対比として使われる。",
+          "difference": "high-input は投入の多さを直接示す説明的な表現で、extensive のうち低投入という側面に対比される。土地の使い方まで含む方式上の対比には intensive が普通である。",
           "example": "High-input farming often requires careful management of water and fertilizer.",
           "translation": "高投入型農業では、水と肥料の慎重な管理が必要になることが多い。"
         }
@@ -552,7 +553,7 @@
       ],
       "notes": [
         "この専門義では「系を二つの同種の部分に分けると、全体の値が部分の値の和になる」という加法性が重要である。単に大きい物理量という意味ではなく、系のサイズや物質量との関係を分類する用語である。",
-        "示量性の量を物質量や質量で割ると、密度や比エネルギーのような示強性の量になることが多い。intensive は系の大きさに依存しない性質を表すため、一般語義の「intensive＝集中的な」と機械的に訳さない。"
+        "示量性の量どうしの比は示強性の量になる。たとえば質量を体積で割った密度、エネルギーを質量で割った比エネルギーは示強性である。intensive は系の大きさに依存しない性質を表すため、一般語義の「intensive＝集中的な」と機械的に訳さない。"
       ],
       "synonyms": [
         {
@@ -576,7 +577,7 @@
         {
           "word": "intensive",
           "definition": "系の大きさや物質量に依存せず、部分系でも同じ値を保つ性質の。",
-          "frequency": 7,
+          "frequency": 3,
           "difference": "熱力学では extensive の直接的な対照語。temperature・pressure・density などが典型例である。",
           "example": "Temperature is an intensive property of a thermodynamic system.",
           "translation": "温度は熱力学系の示強性の性質である。"
@@ -611,10 +612,7 @@
       ],
       "notes": [
         "この用法で extensive は「範囲が広い」という意味ではない。extension「外延」に結び付いた専門用法であり、現在の論理学・意味論では extensional definition がより普通である。",
-        "intensional は「内包的な」で、概念が適用される対象の一覧ではなく、概念を成り立たせる属性・意味内容に基づく。extensive と intensive は一般語では規模と集中の対比だが、この論理学用法では extensive と intensional が対になる。",
-        "extensive は、一般語義では「広がり・量・規模が大きい」、専門義では「広い土地を低投入で使う」「系の大きさに応じて増える」「外延に関係する」と意味の焦点が変わる。",
-        "「広範な」を言いたいときは extensive、「細部まで入念な」を言いたいときは thorough、「深く集中的な」を言いたいときは intensive を選ぶ。extensive research は研究の範囲・量、intensive research は深さ・集中度を強調する。",
-        "extensive damage は被害の範囲・規模が大きいという意味で、必ずしも damage が最も深刻、全面的、回復不能という意味ではない。"
+        "intensional は「内包的な」で、概念が適用される対象の一覧ではなく、概念を成り立たせる属性・意味内容に基づく。extensive と intensive は一般語では規模と集中の対比だが、この論理学用法では extensive と intensional が対になる。"
       ],
       "synonyms": [
         {
@@ -631,7 +629,7 @@
           "word": "intensional",
           "definition": "概念の内包、つまりその概念を成り立たせる属性・意味内容に関する。",
           "frequency": 4,
-          "difference": "論理学では、対象の集合に基づく extensive/extensional に対し、概念の属性や意味内容に基づく。",
+          "difference": "論理学では、対象の集合に基づく extensive/extensional に対し、intensional は概念の属性や意味内容に基づくことを表す。",
           "example": "An intensional definition specifies the essential properties of a concept.",
           "translation": "内包的定義は、ある概念の本質的な属性を明示する。"
         }
