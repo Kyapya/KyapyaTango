@@ -3,70 +3,63 @@
   "slug": "mess",
   "ipa": "米・英: /mes/",
   "lead": "物理的な散らかりから、状況・感情の混乱、mess up / mess with などの重要構文までを整理する。",
-  "updated": "2026-07-11",
+  "updated": "2026-09-30",
   "notion_url": "https://app.notion.com/p/mess-3994faa9b77d81f5abe5ff9041cb4682",
   "pronunciation": [
-    "1音節語。母音は /e/ で、mass /mæs/、miss /mɪs/ と区別する。",
-    "複数形・三人称単数現在形 messes は /ˈmesɪz/、現在分詞 messing は /ˈmesɪŋ/、過去形・過去分詞 messed は /mest/。"
+    "1音節語で、母音は bed、head と同じ /e/。語末の /s/ は濁らせずに発音する。",
+    "活用形は messes /ˈmes.ɪz/、messed /mest/、messing /ˈmes.ɪŋ/。messed の語尾は /t/、messes は2音節になる。"
   ],
   "etymology": [
-    "中英語 mes「一食分の食べ物、料理」←古フランス語 mes「一皿の料理、食事の一品」←後期ラテン語 missus / missum「食卓に置かれた料理」に由来し、ラテン語 mittere「送る、置く」の過去分詞に関係する。",
-    "最初の意味は「一食分として出された料理」であり、そこから「同じ料理を分け合う集団」「共同食堂」という軍事用法が生じた。「混ぜ合わされた食べ物、家畜用の餌」から「雑然とした塊」「混乱・散らかり」へ広がったという説明が有力である。",
-    "同じラテン語 mittere にさかのぼる語には mission「任務、派遣」、missile「ミサイル、投射物」、submit「提出する、服従する」などがある。ただし、現代の意味上は mess と直接結びつかない。"
+    "中英語 mes「食事の一皿、一人分の食物」を経て、古フランス語 mes「食卓に出される一皿」、後期ラテン語 missus「食事の一皿、置かれたもの」に由来する。missus はラテン語 mittere「送る、置く」の過去分詞に由来する。食物の一盛り・混ぜ物という意味から、「入り混じったもの」「混乱した状態」「散らかった状態」へ意味が広がった。軍隊の「食事を共にする集団・食堂」には古い食事の意味が残っている。",
+    "mission（名詞）— ラテン語 mittere の「送る」に由来し、「派遣、使命」を表す。",
+    "missile（名詞）— 同じく mittere にさかのぼり、「投げる・発射する物」を表す。",
+    "submit（動詞）— sub-「下に」+ mittere「送る、置く」に由来し、「提出する、服従する」を表す。"
   ],
   "formation": [
     {
-      "term": "messy",
-      "description": "形容詞: 散らかった、汚れた、複雑で処理しにくい。"
+      "term": "messy（形容詞）—",
+      "description": "「散らかった、汚れやすい、込み入って厄介な」。物理的状態にも問題状況にも使う。"
     },
     {
-      "term": "messily",
-      "description": "副詞: 乱雑に、汚らしく。"
+      "term": "messily（副詞）—",
+      "description": "「散らかった仕方で、乱雑に」。"
     },
     {
-      "term": "messiness",
-      "description": "名詞: 散らかっていること、処理しにくい複雑さ。"
+      "term": "messiness（不可算名詞）—",
+      "description": "「散らかり、乱雑さ、問題の込み入った性質」。"
     },
     {
-      "term": "mess-up",
-      "description": "可算名詞: 失敗、手違い。くだけた表現で、動詞句 mess up と異なり通常ハイフンを付ける。"
-    },
-    {
-      "term": "mess hall",
-      "description": "名詞: 軍隊・収容施設などの共同食堂。"
-    },
-    {
-      "term": "mess kit",
-      "description": "/ mess tin 名詞: 野外で用いる携帯食器・調理器具。mess tin は特にイギリス英語で使われる。"
-    },
-    {
-      "term": "messmate",
-      "description": "名詞: 軍隊・船などで食事を共にする仲間。"
+      "term": "mess-up（可算名詞）—",
+      "description": "主にくだけた表現で「失敗、不手際」。動詞句 mess up と異なり、名詞ではハイフンを付けるのが標準的である。"
     }
   ],
   "core": [
     {
-      "label": "現代の主要用法に共通する核は「本来まとまっているはずの物・状況・人が乱れ、正常に扱いにくくなっている」である。",
+      "label": "現代の主要義の核は、本来あるべき順序・機能・平静が崩れ、扱いにくい状態になること。そこから物理的な散らかり、問題状況、失敗、心身の混乱、余計な干渉へ広がる。",
       "description": ""
     },
     {
-      "label": "物理的な乱れ",
-      "description": "→ 散らかり、汚れ、ごちゃ混ぜの塊。"
+      "label": "物や場所",
+      "description": "→ 散らかり、汚れ、後始末が必要な状態。"
     },
     {
-      "label": "状況の乱れ",
-      "description": "→ 問題が絡み合った混乱、失敗。"
+      "label": "計画・制度・行為",
+      "description": "→ 正常に機能しない、失敗する、台無しになる。"
     },
     {
-      "label": "人の乱れ",
-      "description": "→ 外見・感情・生活・心身が崩れた状態。"
+      "label": "人の心身",
+      "description": "→ 平静や健全な状態が崩れる。"
     },
     {
-      "label": "行為による乱れ",
-      "description": "→ 散らかす、失敗する、損なう、余計に干渉する。"
+      "label": "評価",
+      "description": "→ 状況・制度・行為が常識や公平さから外れて「ひどい」と感じられる。"
     },
     {
-      "label": "軍事上の「食堂・食事集団」と古い「一食分の料理」は歴史的語義であり、この現代的コアイメージとは分けて理解する方がよい。",
+      "label": "干渉",
+      "description": "→ 対象へ余計に手を出し、その状態や相手の平静を乱す。"
+    },
+    {
+      "label": "軍隊の食堂・共同食事と古い「一食分」の意味は、語源上の食事義が残った歴史的な別枝である。現代の「乱れ」というコアイメージから派生させず、別に覚える方がよい。",
       "description": ""
     }
   ],
@@ -87,1535 +80,1434 @@
   "senses": [
     {
       "number": 1,
-      "title": "散らかった状態、汚れ、ごちゃごちゃした物",
+      "title": "【名詞・可算／不可算】散らかり、汚れ、乱雑なもの・状態",
       "frequency": 9,
       "register": [
-        "日常会話・一般英語。中立～くだけた表現。"
+        "日常的でくだけすぎない一般語。家庭、職場、事故現場、料理など幅広い場面で使う。不可算用法はイギリス英語で特に自然である。"
       ],
-      "definition": "物や場所が整理されておらず、汚れたり散乱したりして、片づけが必要な状態。また、こぼれた液体、食べ物、泥、ごみなどが作る汚れた塊を指す。イギリス英語では、乱雑さ全般を不可算の mess で表す用法も比較的目立つ。",
+      "definition": "物や場所が整頓されていない、汚れている、または物がこぼれて後始末を要する状態を表す。可算名詞の a mess は一つの乱雑な状態・散らかった場所・汚れの塊を指し、不可算の mess は乱雑さや汚れ一般を指す。清潔さと整頓のどちらか一方だけでなく、両方が問題になっている場合にも使える。",
       "patterns": [
-        "[場所 / 物] + be + a mess＝場所・物がひどく散らかっている",
-        "[場所 / 物] + be + in a mess＝散らかった状態にある。特にイギリス英語で一般的",
-        "make + a mess＝周囲を汚す、散らかす",
-        "leave + O + a mess / in a mess＝Oを乱れた状態のまま残す",
-        "clean up / clear up + the mess＝汚れや散らかった物を片づける",
-        "不可算の mess＝乱雑さ・汚れ全般を表す"
+        "a/the mess＝具体的な散らかり・汚れ",
+        "mess＝乱雑さ一般",
+        "be in a mess＝散らかった状態にある",
+        "leave + O + a mess＝目的語を散らかった状態のままにする",
+        "make a mess of + 場所・物＝場所・物を散らかす・汚す",
+        "leave/make a mess＝汚れや散らかりを残す"
       ],
       "collocations": [
         {
-          "pattern": "be a complete mess",
-          "use": "部屋・机・髪・書類などが完全に乱れていることを強調する",
-          "example": "My desk is a complete mess.",
-          "translation": "私の机は完全に散らかっている。"
-        },
-        {
           "pattern": "make a mess",
-          "use": "料理、工作、遊びなどによって周囲を汚したり散らかしたりする",
-          "example": "The children made a mess in the kitchen.",
-          "translation": "子どもたちは台所を散らかした。"
+          "use": "料理、工作、遊びなどによって物を散らかしたり汚したりすることを表す。",
+          "example": "The children made a mess with paint and glue.",
+          "translation": "子どもたちは絵の具とのりで辺りを散らかした。"
         },
         {
-          "pattern": "leave [something] in a mess",
-          "use": "物や場所を片づけず、乱れた状態のまま残す",
-          "example": "The contractors left the hallway in a mess.",
-          "translation": "業者は廊下を散らかったままにした。"
+          "pattern": "be in a mess",
+          "use": "部屋、机、髪、衣服などが乱れた状態にあることを表す。",
+          "example": "My desk is in a mess after a week of deadlines.",
+          "translation": "締め切り続きの一週間のせいで、私の机は散らかっている。"
         },
         {
           "pattern": "clean up the mess",
-          "use": "こぼれた物、泥、ごみ、散らかった物などを片づける",
-          "example": "Please clean up the mess before you leave.",
-          "translation": "帰る前に散らかった物を片づけてください。"
+          "use": "こぼれた物、散乱物、汚れを片付けることを表す。",
+          "example": "We cleaned up the mess before the guests arrived.",
+          "translation": "私たちは客が来る前に散らかった物を片付けた。"
         },
         {
-          "pattern": "a tangled mess",
-          "use": "髪、糸、ケーブルなどが絡み合った塊を表す",
-          "example": "The cables had become a tangled mess behind the desk.",
-          "translation": "ケーブルは机の後ろで絡み合っていた。"
-        },
-        {
-          "pattern": "What a mess!",
-          "use": "ひどい散らかりや汚れを見て、驚き・不満を表す",
-          "example": "What a mess! Did nobody clean up after the party?",
-          "translation": "なんて散らかりようだ。パーティーの後、誰も片づけなかったの？"
+          "pattern": "leave the kitchen a mess",
+          "use": "場所を散らかった状態のままにする結果構文を示す。",
+          "example": "Please don't leave the kitchen a mess after you bake.",
+          "translation": "お菓子を焼いた後、キッチンを散らかったままにしないでください。"
         }
       ],
       "notes": [
-        "状態を可算名詞で表す場合は通常 a mess とする。誤: My room is mess.／正: My room is a mess.",
-        "不可算の mess は「乱雑さ・汚れというもの全般」を表す。例: I can’t stand mess. は特にイギリス英語で自然である。",
-        "The room is a mess. は部屋そのものを「ひどく散らかっている」と評価する。The room is in a mess. は部屋が「乱雑な状態にある」ことに重点を置く。",
-        "leave O a mess と leave O in a mess はともに可能。前者はOを直接「ひどい状態」にしたという評価がやや強く、後者は残された状態を描写する。",
-        "形容詞としては messy を使う。「散らかった部屋」は a messy room。ただし mess hall, mess room の mess は軍事上の別義の名詞修飾である。"
+        "可算用法では通常 a mess と冠詞を付け、× The room is mess. ではなく The room is a mess. または The room is messy. とする。in a mess は「散らかった状態で」、in the mess は文脈で特定された散乱物の中にいることを表し得る。leave the room a mess は leave + O + C の結果構文で、前置詞 in は不要である。不可算の mess は「乱雑さ一般」を表し、I can't stand mess のように使うが、アメリカ英語では具体的な a mess や clutter の方が自然な場面も多い。"
       ],
       "synonyms": [
         {
           "word": "clutter",
-          "definition": "多数の物が場所をふさぎ、ごちゃごちゃしている状態またはその物",
-          "frequency": 6,
-          "difference": "物が多すぎることに重点があり、液体の汚れや抽象的な失敗には通常使わない。",
-          "example": "There was too much clutter on the desk.",
-          "translation": "机の上は物が多すぎてごちゃごちゃしていた。"
+          "definition": "不要な物や多すぎる物が場所をふさいでいる散らかり。",
+          "frequency": 7,
+          "difference": "mess は汚れやこぼれも含められるが、clutter は主に物の多さと無秩序な配置に焦点がある。",
+          "example": "The shelves were covered in clutter.",
+          "translation": "棚は雑多な物で埋まっていた。"
         },
         {
           "word": "disorder",
-          "definition": "物が適切な順序や配置になっていない状態",
+          "definition": "物事が正しい順序・配置になっていない状態。",
           "frequency": 6,
-          "difference": "mess より硬く客観的で、物理的配置だけでなく制度・社会秩序にも使える。",
-          "example": "The records were in complete disorder.",
-          "translation": "記録は完全に乱雑な状態だった。"
-        },
-        {
-          "word": "disarray",
-          "definition": "整っていた配置・秩序・外見が崩れている状態",
-          "frequency": 5,
-          "difference": "mess より文語的で、衣服・組織・計画などの秩序の崩れを表しやすい。",
-          "example": "The office was in disarray after the sudden move.",
-          "translation": "急な移転の後、事務所は混乱していた。"
+          "difference": "mess より抽象的でやや改まっており、必ずしも汚れを含まない。",
+          "example": "The files were in complete disorder.",
+          "translation": "書類は完全に乱れていた。"
         },
         {
           "word": "jumble",
-          "definition": "異なる物が無秩序に入り交じった集まり",
+          "definition": "さまざまな物が無秩序に混ざった集まり。",
           "frequency": 5,
-          "difference": "mess より「複数の物が混ざって区別しにくい」ことに重点がある。",
-          "example": "The drawer contained a jumble of cables and old batteries.",
-          "translation": "引き出しにはケーブルと古い電池がごちゃ混ぜに入っていた。"
+          "difference": "mess が状態全体を評価するのに対し、jumble は入り混じった物の集合そのものに焦点を当てる。",
+          "example": "A jumble of cables lay under the desk.",
+          "translation": "机の下にはケーブルがごちゃ混ぜになっていた。"
+        },
+        {
+          "word": "filth",
+          "definition": "強い不快感を伴うひどい汚れ、不潔な物。",
+          "frequency": 5,
+          "difference": "mess よりはるかに強く、散らかりではなく不潔さを非難する語である。",
+          "example": "The abandoned room was covered in filth.",
+          "translation": "放棄された部屋はひどい汚れに覆われていた。"
         }
       ],
       "antonyms": [
         {
           "word": "order",
-          "definition": "物が適切な順序・配置に整えられている状態",
-          "frequency": 9,
-          "difference": "無秩序な mess と状態の軸で直接対立する。",
-          "example": "She put the documents back in order.",
-          "translation": "彼女は書類を再び整理した。"
+          "definition": "物が適切な位置・順序に整えられた状態。",
+          "frequency": 8,
+          "difference": "整頓・配置の軸で mess と状態上の反対をなすが、清潔さまでは保証しない。",
+          "example": "She restored order to the crowded storeroom.",
+          "translation": "彼女は物でいっぱいの倉庫を整頓された状態に戻した。"
         },
         {
           "word": "tidiness",
-          "definition": "物がきちんと整理され、清潔に保たれている状態",
+          "definition": "物や外見がきちんと整っている性質。",
           "frequency": 5,
-          "difference": "日常的な整理整頓・見た目のきれいさという軸で mess と対立する。",
-          "example": "I was impressed by the tidiness of the apartment.",
-          "translation": "私はそのアパートの整然さに感心した。"
+          "difference": "乱雑さの軸で不可算の mess と対立し、汚れより整然さに焦点がある。",
+          "example": "The office was notable for its tidiness.",
+          "translation": "その事務所は整然としていることが際立っていた。"
         },
         {
-          "word": "neatness",
-          "definition": "配置、外見、文字などが端正に整っている性質",
-          "frequency": 5,
-          "difference": "mess の乱雑な見た目に対し、細部まで整っていることを表す程度上の反対語。",
-          "example": "Her notes were remarkable for their neatness.",
-          "translation": "彼女のノートは非常に整っていた。"
+          "word": "cleanliness",
+          "definition": "汚れがなく衛生的である性質。",
+          "frequency": 6,
+          "difference": "汚れの軸で mess と対立するが、物が整頓されているかどうかは含意しない。",
+          "example": "The inspector praised the kitchen's cleanliness.",
+          "translation": "検査官はその厨房の清潔さを評価した。"
         }
       ]
     },
     {
       "number": 2,
-      "title": "動物の排泄物",
-      "frequency": 4,
+      "title": "【名詞・通例単数可算】問題だらけの状況、混乱、失敗作",
+      "frequency": 9,
       "register": [
-        "日常語・婉曲表現。dog mess は特にイギリス英語で目にしやすい。"
+        "日常会話から報道・ビジネスまで広く使うが、評価的で比較的くだけた語。正式文書では disorder、crisis、failure など、問題の種類を特定する語が好まれることがある。"
       ],
-      "definition": "動物が残した固形の排泄物。特に犬などの排泄物を、直接的な語を避けて表す婉曲的な日常語である。",
+      "definition": "計画、制度、財政、人間関係、生活などに問題や混乱が生じ、対処に困る状態を表す。また、仕事や課題をひどく失敗した結果も指す。話者が「正常な状態から大きく崩れている」と否定的に評価する語である。",
       "patterns": [
-        "an animal + leave + a mess＝動物が排泄物を残す",
-        "dog mess＝犬の排泄物",
-        "step in + dog mess / a mess＝排泄物を踏む",
-        "clean up + the mess＝動物の排泄物を片づける"
+        "be in a mess＝状況が混乱している",
+        "get into a mess＝困った状況に陥る",
+        "make a mess of + 名詞/-ing＝物事をひどくやり損なう",
+        "get O into/out of this mess＝人・組織を混乱へ陥れる",
+        "そこから救い出す"
       ],
       "collocations": [
         {
-          "pattern": "leave a mess on [something]",
-          "use": "動物が床・じゅうたんなどに排泄したことを婉曲的に表す",
-          "example": "The puppy left a mess on the carpet.",
-          "translation": "子犬がじゅうたんの上に排泄してしまった。"
+          "pattern": "the situation is a mess",
+          "use": "状況全体が混乱し、複数の問題を抱えていると評価する。",
+          "example": "The booking system is a mess, and customers keep receiving the wrong dates.",
+          "translation": "予約システムはめちゃくちゃで、顧客に誤った日付が届き続けている。"
         },
         {
-          "pattern": "step in dog mess",
-          "use": "犬の排泄物を誤って踏む",
-          "example": "I stepped in dog mess on the way home.",
-          "translation": "帰宅途中に犬のふんを踏んでしまった。"
+          "pattern": "get into a mess",
+          "use": "誤った判断などによって、対処しにくい状況へ陥ることを表す。",
+          "example": "We got into a mess by promising the same room to two groups.",
+          "translation": "私たちは同じ部屋を二つの団体に約束してしまい、厄介なことになった。"
         },
         {
-          "pattern": "clean up the mess",
-          "use": "ペットなどの排泄物を取り除く",
-          "example": "The owner immediately cleaned up the mess.",
-          "translation": "飼い主はすぐに排泄物を片づけた。"
+          "pattern": "get out of this mess",
+          "use": "現在の困難・混乱から抜け出すことを表す。",
+          "example": "A short-term loan will not get us out of this mess.",
+          "translation": "短期融資では、この苦境から抜け出せない。"
+        },
+        {
+          "pattern": "make a mess of something",
+          "use": "課題、計画、機会などをひどくやり損なうことを表す。",
+          "example": "The contractor made a mess of the renovation.",
+          "translation": "その業者は改修工事をひどく失敗した。"
+        },
+        {
+          "pattern": "sort out the mess",
+          "use": "混乱した状況の問題を一つずつ整理して解決することを表す。",
+          "example": "It took the new manager months to sort out the financial mess.",
+          "translation": "新しい管理者が財務上の混乱を整理するのに数か月かかった。"
         }
       ],
       "notes": [
-        "この語義は通常、動物の固形排泄物を指す。人間の排泄物を表す一般的な名詞としては使いにくい。",
-        "dog mess は婉曲的だが、行政表示などでは dog waste、日常では dog poop も使われる。",
-        "「散らかり」と「排泄物」は、The dog made a mess. のような文では文脈によって両方に解釈できる。"
+        "この意味でも a mess が基本で、The project is mess. とはしない。make a mess だけなら物理的に「散らかす」とも解釈できるため、失敗を明示するには make a mess of the project のように of を続ける。be in a mess は状態、get into a mess はその状態への変化を表す。What a mess! は物理的な散らかりにも問題状況にも使える。"
       ],
       "synonyms": [
         {
-          "word": "animal waste",
-          "definition": "動物が排出するふん・尿などの廃棄物",
+          "word": "muddle",
+          "definition": "考え・手順・状況が整理されず、混乱している状態。",
           "frequency": 5,
-          "difference": "mess より中立的・説明的で、固形物だけでなく尿なども含み得る。",
-          "example": "Animal waste must be disposed of safely.",
-          "translation": "動物の排泄物は安全に処分しなければならない。"
+          "difference": "mess よりイギリス英語的で、特に思考や運営の混乱に焦点を当てる。",
+          "example": "The policy was introduced in a muddle.",
+          "translation": "その政策は混乱したまま導入された。"
         },
         {
-          "word": "droppings",
-          "definition": "鳥・小動物などが残す小さな固形排泄物",
+          "word": "shambles",
+          "definition": "ひどく無秩序で機能していない状況。",
           "frequency": 5,
-          "difference": "排泄物の形が小さな粒・塊であることに重点があり、婉曲的な mess より具体的。",
-          "example": "We found mouse droppings behind the cupboard.",
-          "translation": "戸棚の後ろでネズミのふんを見つけた。"
+          "difference": "語末に -s があるが、a shambles のように単数の状況として扱うことも多く、mess より失敗・混乱の程度が強い。",
+          "example": "The whole event was a shambles.",
+          "translation": "その催し全体が大混乱だった。"
         },
         {
-          "word": "poop",
-          "definition": "ふん、排便",
+          "word": "chaos",
+          "definition": "秩序や統制がほとんど失われた状態。",
           "frequency": 7,
-          "difference": "主にアメリカ英語のくだけた語で、mess より直接的だが、強い下品さは比較的少ない。",
-          "example": "Please pick up your dog’s poop.",
-          "translation": "犬のふんを拾ってください。"
+          "difference": "mess より規模と無秩序の程度が強く、個人的な小さな失敗より広い混乱に使いやすい。",
+          "example": "The sudden closure caused chaos across the network.",
+          "translation": "突然の閉鎖によってネットワーク全体が大混乱に陥った。"
+        },
+        {
+          "word": "fiasco",
+          "definition": "計画や出来事が完全に失敗すること。恥ずかしい結果を伴うことが多い。",
+          "frequency": 5,
+          "difference": "mess が継続中の問題状況も指すのに対し、fiasco は出来事・計画の失敗という結果を強調する。",
+          "example": "The product launch turned into a fiasco.",
+          "translation": "製品発表は大失敗に終わった。"
         }
       ],
       "antonyms": []
     },
     {
       "number": 3,
-      "title": "混乱した状況、厄介な問題、収拾のつかない事態",
-      "frequency": 9,
+      "title": "【名詞・単数可算・くだけた表現】外見・感情・生活がひどい状態の人",
+      "frequency": 7,
       "register": [
-        "日常会話・報道・ビジネス。くだけた語だが一般的な文章でも広く使う。"
+        "くだけた会話表現。共感的にも批判的にも使われる。心理状態について使う場合、診断名ではなく話者の主観的評価である。"
       ],
-      "definition": "失敗、不適切な判断、対立、複雑な手続きなどが重なり、容易に理解・管理・解決できない状況。政治、経済、仕事、法律、個人生活、人間関係などに広く使い、「ひどい状態で、後始末が必要だ」という否定的評価を伴いやすい。",
+      "definition": "人が疲労、悲嘆、酔い、病気、強い不安などのために外見が乱れている、感情を制御できない、または生活上の問題に対処できない状態を表す。人そのものの価値ではなく現在の状態を述べるのが基本だが、文脈によっては侮辱的になり得る。",
       "patterns": [
-        "[状況 / 組織 / 人生] + be + a mess＝そのものが混乱・機能不全の状態である",
-        "[状況 / 組織 / 財政] + be + in a mess＝問題を抱えた状態にある",
-        "get + oneself / someone + into + a mess＝自分・人を厄介な状況に陥らせる",
-        "make + a mess + of + [仕事 / 計画 / 人生]＝物事を下手に処理して台なしにする",
-        "sort out / fix + the mess＝混乱した状況を整理・解決する",
-        "clean up + someone’s / the mess＝失敗や問題の後始末をする"
+        "someone is a mess＝人が外見・感情・生活面でひどい状態にある",
+        "a complete/total mess＝程度を強調する",
+        "an emotional mess＝感情面の混乱を限定する",
+        "a hot mess＝ひどく混乱している人・物事をユーモラスまたは批判的に評する"
       ],
       "collocations": [
         {
-          "pattern": "be in a terrible mess",
-          "use": "個人、組織、財政などが深刻な混乱状態にある",
-          "example": "The company is in a terrible mess after years of poor management.",
-          "translation": "その会社は長年のずさんな経営によってひどい混乱状態にある。"
+          "pattern": "be a mess after something",
+          "use": "つらい出来事の後で、人が感情的・身体的に参っている状態を表す。",
+          "example": "She was a mess after saying goodbye to her dog.",
+          "translation": "愛犬に別れを告げた後、彼女はひどく取り乱していた。"
         },
-        {
-          "pattern": "get oneself into a mess",
-          "use": "自分の判断や行動によって厄介な状況に陥る",
-          "example": "I got myself into a mess by lying about the payment.",
-          "translation": "支払いについてうそをついたため、私は厄介な状況に陥った。"
-        },
-        {
-          "pattern": "make a mess of [something]",
-          "use": "仕事、試験、説明、人生などを下手に処理する",
-          "example": "I made a mess of the presentation.",
-          "translation": "私はプレゼンを台なしにしてしまった。"
-        },
-        {
-          "pattern": "sort out the mess",
-          "use": "複雑に絡んだ問題を整理して解決する",
-          "example": "It may take months to sort out the mess.",
-          "translation": "この混乱を収拾するには数か月かかるかもしれない。"
-        },
-        {
-          "pattern": "clean up [someone’s] mess",
-          "use": "誰かが引き起こした問題の後始末をする",
-          "example": "The new manager had to clean up her predecessor’s mess.",
-          "translation": "新しい管理職は前任者が残した問題を処理しなければならなかった。"
-        },
-        {
-          "pattern": "another fine mess",
-          "use": "また厄介な事態になったことを、皮肉・不満・ユーモアを込めて表す",
-          "example": "Well, this is another fine mess we’ve gotten ourselves into.",
-          "translation": "まったく、またとんでもない面倒に入り込んでしまったものだ。"
-        }
-      ],
-      "notes": [
-        "be a mess は状況そのものを「めちゃくちゃだ」と評価し、be in a mess は何かが問題を抱えた状態にあることを表す。",
-        "get into a mess は意図せず問題に陥ること、make a mess of O はOを下手に処理することに重点がある。",
-        "make a mess of O は小さな一度の誤りより、複数の誤りや不手際によって結果全体を悪化させた場合に使いやすい。",
-        "clean up someone’s mess は、他人の失敗の責任を負わされるという批判的含意を持つことがある。",
-        "What a mess! は物理的な散らかりにも抽象的な混乱にも使える。"
-      ],
-      "synonyms": [
-        {
-          "word": "chaos",
-          "definition": "秩序や統制がほぼ失われた激しい混乱",
-          "frequency": 7,
-          "difference": "mess より強く、大規模で制御不能な状態を表しやすい。",
-          "example": "The sudden evacuation caused chaos at the station.",
-          "translation": "突然の避難によって駅は大混乱に陥った。"
-        },
-        {
-          "word": "muddle",
-          "definition": "考え、手続き、配置などが整理されていない混乱状態",
-          "frequency": 5,
-          "difference": "特にイギリス英語で使われ、mess より混同・整理不足に重点がある。",
-          "example": "The booking system was in a complete muddle.",
-          "translation": "予約システムは完全に混乱していた。"
-        },
-        {
-          "word": "shambles",
-          "definition": "組織・計画などがひどく混乱し、正常に機能していない状態",
-          "frequency": 5,
-          "difference": "通常 a shambles とし、mess より機能不全への強い批判を含む。特にイギリス英語で一般的。",
-          "example": "The entire investigation was a shambles.",
-          "translation": "その捜査全体はめちゃくちゃだった。"
-        },
-        {
-          "word": "predicament",
-          "definition": "抜け出しにくく、当事者を困らせる状況",
-          "frequency": 5,
-          "difference": "状況の乱雑さより、当事者が困難な立場にあることに重点がある。",
-          "example": "The mistake put us in a difficult predicament.",
-          "translation": "その間違いによって、私たちは難しい立場に置かれた。"
-        },
-        {
-          "word": "fiasco",
-          "definition": "計画や催しが明白な大失敗に終わった出来事",
-          "frequency": 5,
-          "difference": "mess は進行中の混乱にも使えるが、fiasco は失敗という結果が明確になった出来事を指す。",
-          "example": "The product launch turned into a fiasco.",
-          "translation": "製品発表は大失敗に終わった。"
-        }
-      ],
-      "antonyms": [
-        {
-          "word": "order",
-          "definition": "物事が体系的に整理され、正常に機能している状態",
-          "frequency": 9,
-          "difference": "混乱・無秩序としての mess と状態の軸で直接対立する。",
-          "example": "The new director restored order to the department.",
-          "translation": "新しい部長は部署の秩序を回復した。"
-        },
-        {
-          "word": "control",
-          "definition": "状況が適切に管理され、望ましくない変化が抑えられている状態",
-          "frequency": 9,
-          "difference": "収拾のつかない mess に対し、状況を管理できていることを表す。",
-          "example": "The team quickly brought the situation under control.",
-          "translation": "チームはすぐに状況を制御下に置いた。"
-        }
-      ]
-    },
-    {
-      "number": 4,
-      "title": "心身・外見・生活がひどく乱れた人",
-      "frequency": 8,
-      "register": [
-        "日常会話・くだけた表現。"
-      ],
-      "definition": "感情的に取り乱している、疲れ切っている、外見が乱れている、健康や生活がうまく管理できていない人。一時的な泣き崩れから、長期的な生活の混乱まで幅広く表せる。他人への評価として使うと無礼・批判的になることがある。",
-      "patterns": [
-        "someone + be + a mess＝人が感情・健康・生活面でひどい状態にある",
-        "someone + look + a mess＝人の外見がひどく乱れて見える。主にイギリス英語",
-        "someone + be + an emotional / nervous mess＝感情・不安で取り乱している",
-        "someone + be + a hot mess＝人や状況がひどく乱れている。主にアメリカ英語の強い口語",
-        "reduce + someone + to + a sobbing / emotional mess＝人を泣き崩れる状態にする"
-      ],
-      "collocations": [
         {
           "pattern": "be an emotional mess",
-          "use": "悲しみ、不安、ショックなどで感情を制御できない状態を表す",
-          "example": "I was an emotional mess after the funeral.",
-          "translation": "葬儀の後、私は感情的にぼろぼろだった。"
+          "use": "感情が入り混じり、自分でうまく制御できない状態を明示する。",
+          "example": "I was an emotional mess throughout the final episode.",
+          "translation": "最終話の間、私はずっと感情がぐちゃぐちゃだった。"
         },
         {
-          "pattern": "look a mess",
-          "use": "髪、化粧、衣服などが乱れ、外見がひどく見える",
-          "example": "I’ve just woken up, so I probably look a mess.",
-          "translation": "起きたばかりなので、たぶんひどい格好をしている。"
-        },
-        {
-          "pattern": "be a complete mess",
-          "use": "人の生活、感情、健康、外見が大きく崩れていることを強調する",
-          "example": "He was a complete mess for weeks after the breakup.",
-          "translation": "彼は別れてから何週間も完全にぼろぼろだった。"
+          "pattern": "look like a complete mess",
+          "use": "疲労、雨、寝不足などで外見がひどく乱れていることを表す。",
+          "example": "He looked like a complete mess after the overnight shift.",
+          "translation": "夜勤の後、彼は見るからにぼろぼろだった。"
         },
         {
           "pattern": "be a hot mess",
-          "use": "外見・行動・生活がひどく乱れた人を、自虐的または批判的に評する",
-          "example": "I forgot my wallet, missed the train, and spilled coffee on myself—I’m a hot mess today.",
-          "translation": "財布を忘れ、電車に乗り遅れ、コーヒーまでこぼした。今日は本当にめちゃくちゃだ。"
-        },
-        {
-          "pattern": "reduce [someone] to a sobbing mess",
-          "use": "出来事が人を激しく泣いて取り乱す状態にする",
-          "example": "The final scene reduced me to a sobbing mess.",
-          "translation": "最後の場面を見て、私は泣き崩れてしまった。"
+          "use": "人や状況がひどく混乱している一方、どこか面白い・目が離せないというくだけた評価を表すことがある。",
+          "example": "I love the character, but he is a hot mess.",
+          "translation": "その登場人物は好きだが、彼は本当にめちゃくちゃだ。"
         }
       ],
       "notes": [
-        "I’m a mess. は「私は散らかっている」ではなく、文脈に応じて「感情・外見・生活がぼろぼろだ」という意味になる。",
-        "外見だけを述べるなら look a mess が自然。You are a mess. は人格や生活全体への批判に聞こえることがある。",
-        "look a mess は主にイギリス英語で使われる。アメリカ英語では look messy, look terrible なども一般的である。",
-        "hot mess は主にアメリカ英語の強い口語。愛嬌を込めた自虐にもなるが、他人に使うと侮辱的になり得る。",
-        "精神疾患の医学的診断を意味する語ではなく、話者による主観的評価である。"
+        "She is a mess. は状態を強く評価するため、本人に直接言うと傷つけるおそれがある。外見だけなら She looks a mess.、感情なら She is an emotional mess. のように範囲を明確にできる。hot mess は肯定的な「魅力的な人」を単独で意味するわけではなく、混乱や破綻をユーモラスに表す語である。深刻な心理状態を正確に述べる必要がある場面では、具体的な症状や状態を示す語を使う。"
       ],
       "synonyms": [
         {
           "word": "wreck",
-          "definition": "心身が疲弊し、正常に行動できないほど参っている人",
+          "definition": "心身がひどく疲れ、取り乱し、正常に機能できない人。",
           "frequency": 6,
-          "difference": "mess より疲労、不安、ショックによる深刻な消耗を強く表す。",
+          "difference": "mess より消耗・損傷の比喩が強く、a nervous wreck の形が特に一般的である。",
           "example": "I was a nervous wreck before the interview.",
           "translation": "面接前、私は緊張でぼろぼろだった。"
         },
         {
           "word": "disaster",
-          "definition": "行動、生活管理、特定の活動などが非常にうまくいかない人",
-          "frequency": 6,
-          "difference": "人について使うと、mess より「何をしてもうまくできない」という誇張・自己批判が強い。",
-          "example": "I’m a disaster in the kitchen.",
-          "translation": "私は料理となると本当にだめだ。"
+          "definition": "行動・外見・生活がひどく失敗していると評価される人。",
+          "frequency": 7,
+          "difference": "人については強い否定的評価になりやすく、特にある仕事・活動をうまくできないことを強調する。mess は外見や感情の乱れにも広く使える。",
+          "example": "He is a disaster in the kitchen.",
+          "translation": "彼は料理をするとまるで駄目だ。"
         },
         {
           "word": "basket case",
-          "definition": "不安・ショックなどで正常に機能できないほど取り乱した人",
+          "definition": "問題や不安のため、ほとんど対処できない状態の人・組織。",
           "frequency": 4,
-          "difference": "mess より強く、無神経・侮辱的に聞こえることがある。",
-          "example": "By Friday, I was a complete basket case.",
-          "translation": "金曜日までには、私は完全に精神的に参っていた。"
-        },
-        {
-          "word": "train wreck",
-          "definition": "生活・行動・状況が悲惨で、見ていられない人や出来事",
-          "frequency": 5,
-          "difference": "mess より劇的で、失敗や破綻が次々と目に見えるという比喩的評価を含む。",
-          "example": "His personal life had become a train wreck.",
-          "translation": "彼の私生活は見るも無残な状態になっていた。"
+          "difference": "mess より極端で、侮蔑的・無神経に響くことがあるため使用に注意が必要である。",
+          "example": "I was a complete basket case during the delay.",
+          "translation": "遅延している間、私は完全に取り乱していた。"
         }
       ],
-      "antonyms": [
-        {
-          "word": "have it together",
-          "definition": "感情、生活、仕事などをきちんと管理できている",
-          "frequency": 7,
-          "difference": "人としての生活・感情が崩れている be a mess と直接対立する口語表現。",
-          "example": "She always seems to have it together.",
-          "translation": "彼女はいつも生活をきちんと管理できているように見える。"
-        },
-        {
-          "word": "be composed",
-          "definition": "感情を制御し、落ち着いている",
-          "frequency": 6,
-          "difference": "感情的に取り乱した mess に対し、冷静さが保たれていることを表す。",
-          "example": "He remained composed throughout the interview.",
-          "translation": "彼は面接中ずっと落ち着いていた。"
-        }
-      ]
+      "antonyms": []
     },
     {
-      "number": 5,
-      "title": "軍隊などの食堂、食事集団、共同の食事",
-      "frequency": 3,
+      "number": 4,
+      "title": "【名詞・可算／不可算・婉曲表現】動物の排せつ物、吐しゃ物などの汚物",
+      "frequency": 5,
       "register": [
-        "軍事・海事・寄宿施設・歴史的文脈。"
+        "日常的な婉曲表現。家庭、ペットの世話、育児などで使う。具体性が必要な衛生・医療・事故報告では feces、urine、vomit などを使う。"
       ],
-      "definition": "軍隊・海軍などで、特定の階級や部隊の人々が共同で食事をし、交流する施設。また、その施設に属する集団や共同の食事。単なる食堂ではなく、所属・社交制度を含む場合がある。",
+      "definition": "主にペットが残した糞、尿、吐しゃ物など、掃除を必要とする不快な汚物を直接名指しせずに表す。何を指すかは状況によって決まり、医学的・衛生的に正確な名称ではない。",
       "patterns": [
-        "the + officers’ / sergeants’ + mess＝将校・軍曹などの食堂または所属集団",
-        "eat / dine + in + the mess＝共同食堂で食事をする",
-        "go + to + the mess＝共同食堂へ行く",
-        "belong + to + a mess＝食事・社交上の集団に所属する",
-        "mess + hall＝多数の軍人などが利用する共同食堂"
+        "a mess＝一回分の汚物・汚れ",
+        "mess＝汚物一般",
+        "leave/make a mess＝排せつ物などを残す"
       ],
       "collocations": [
         {
-          "pattern": "the officers’ mess",
-          "use": "将校が食事・交流をする施設または所属組織を指す",
-          "example": "Dinner will be served in the officers’ mess at seven.",
-          "translation": "夕食は7時に将校食堂で出される。"
+          "pattern": "the dog left a mess",
+          "use": "犬などが室内・庭に排せつ物や吐しゃ物を残したことを婉曲に表す。",
+          "example": "The dog left a mess by the back door.",
+          "translation": "犬が裏口のそばを汚していた。"
         },
         {
-          "pattern": "eat in the mess",
-          "use": "軍などの共同食堂で食事を取る",
-          "example": "New recruits usually eat in the mess.",
-          "translation": "新兵は通常、共同食堂で食事をする。"
+          "pattern": "clean up the pet mess",
+          "use": "ペットが残した汚物を片付けることを表す。",
+          "example": "Please wear gloves when you clean up the pet mess.",
+          "translation": "ペットの汚物を片付けるときは手袋をしてください。"
         },
         {
-          "pattern": "go to the mess",
-          "use": "食事・休憩・交流のために軍の食堂へ行く",
-          "example": "We went to the mess after the briefing.",
-          "translation": "私たちは説明会の後、食堂へ行った。"
-        },
-        {
-          "pattern": "mess hall",
-          "use": "多数の兵士、収容者、作業員などが食事を取る食堂を指す",
-          "example": "The soldiers gathered in the mess hall for breakfast.",
-          "translation": "兵士たちは朝食のために食堂へ集まった。"
+          "pattern": "dog mess",
+          "use": "特にイギリス英語で、公共の場所などにある犬の糞を指す。",
+          "example": "There was dog mess on the pavement.",
+          "translation": "歩道に犬の糞があった。"
         }
       ],
       "notes": [
-        "officers’ mess の mess は建物・部屋だけでなく、会員組織や社交制度を指すことがある。",
-        "複数の将校に属するため、通常 officers’ mess と複数所有格にする。",
-        "mess hall は特にアメリカ英語で一般的。イギリス軍では階級別の mess という表現が重要である。",
-        "一般の学校・会社の「食堂」には通常 cafeteria, canteen, dining hall を使う。",
-        "mess kit は携帯食器・調理器具、mess tin は特にイギリス英語で軍用・キャンプ用の金属食器を指す。"
+        "a mess は排せつ物の種類を曖昧にするため、文脈がなければ単なる散らかりとも解釈される。dog mess はイギリス英語でよく使われるが、アメリカ英語では dog poop、dog waste なども一般的である。動詞の mess on + 場所 と mess oneself は、後方の動詞語義で扱う。"
       ],
       "synonyms": [
         {
-          "word": "dining hall",
-          "definition": "多人数が食事をするための大きな食堂",
-          "frequency": 6,
-          "difference": "学校・大学・施設などに広く使え、軍の階級別組織という含意はない。",
-          "example": "Students have breakfast in the main dining hall.",
-          "translation": "学生たちは中央食堂で朝食を取る。"
+          "word": "waste",
+          "definition": "人や動物の体から排出される不要物。",
+          "frequency": 7,
+          "difference": "animal waste のように衛生・行政上も使える中立的な総称で、mess より具体的な管理対象として扱う。",
+          "example": "Animal waste must be disposed of safely.",
+          "translation": "動物の排せつ物は安全に処分しなければならない。"
         },
         {
+          "word": "poop",
+          "definition": "糞、または排便することを表すくだけた語。",
+          "frequency": 7,
+          "difference": "mess より対象が明確で、主にアメリカ英語の日常会話や子ども向け表現で使う。",
+          "example": "Someone forgot to pick up the dog's poop.",
+          "translation": "誰かが犬の糞を片付け忘れた。"
+        },
+        {
+          "word": "droppings",
+          "definition": "鳥や小動物が落とした糞。",
+          "frequency": 5,
+          "difference": "動物の糞を比較的客観的に指し、mess のように尿・吐しゃ物や周囲の汚れまでは含めない。",
+          "example": "Bird droppings covered the bench.",
+          "translation": "ベンチは鳥の糞で覆われていた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞・可算／動詞・自動詞・軍事】食堂、食事を共にする集団、その食事；一緒に食事を取る",
+      "frequency": 3,
+      "register": [
+        "軍事用語。イギリスおよび英連邦の軍事文化では officers' mess などが定着している。アメリカ英語では建物を mess hall と呼ぶのが特に一般的である。"
+      ],
+      "definition": "名詞では、軍人が食事を取り、場合によっては休憩・交流もする部屋や建物を指す。また、その施設を利用する階級別の集団や、そこで取る食事を指すことがある。軍事用の自動詞では、同じ食事集団に属して一緒に食事を取ることを表す。現代の日常語の「散らかり」とは別に、語源的に古い「一緒に取る食事」の意味を保っている。",
+      "patterns": [
+        "the officers’/sergeants’ mess＝将校・軍曹などの食堂・集団",
+        "a mess hall＝軍・キャンプなどの共同食堂",
+        "eat/dine in the mess＝その食堂で食事をする",
+        "mess together/with + 人＝軍人などが同じ食事集団で食事を取る"
+      ],
+      "collocations": [
+        {
+          "pattern": "the officers' mess",
+          "use": "将校用の食堂・社交施設、またはそれを利用する将校集団を指す。",
+          "example": "Dinner will be served in the officers' mess at seven.",
+          "translation": "夕食は7時に将校食堂で出される。"
+        },
+        {
+          "pattern": "the sergeants' mess",
+          "use": "軍曹など特定階級の隊員用の食堂・社交施設を指す。",
+          "example": "The reception was held in the sergeants' mess.",
+          "translation": "歓迎会は軍曹食堂で開かれた。"
+        },
+        {
+          "pattern": "a mess hall",
+          "use": "軍人、キャンプ参加者、作業員などが共同で食事を取る建物を指す。",
+          "example": "Hundreds of recruits ate breakfast in the mess hall.",
+          "translation": "何百人もの新兵が共同食堂で朝食を取った。"
+        },
+        {
+          "pattern": "eat in the mess",
+          "use": "軍の共同食堂で食事を取ることを表す。",
+          "example": "Junior officers usually eat in the mess.",
+          "translation": "下級将校は通常、将校食堂で食事をする。"
+        },
+        {
+          "pattern": "mess together",
+          "use": "軍人などが同じ食事集団に属し、一緒に食事を取ることを専門的・古風に表す。",
+          "example": "The visiting officers messed together during the exercise.",
+          "translation": "訪問中の将校たちは演習中、一緒に食事を取った。"
+        }
+      ],
+      "notes": [
+        "場所を指す mess は可算名詞だが、所属者に共有される特定施設として the mess と呼ぶことが多い。officers' mess のアポストロフィは複数所有格で officers' とする。一般の社員食堂を通常 mess とは呼ばず、canteen、cafeteria、dining hall などを使う。mess hall は軍以外のキャンプ・刑務所・大規模作業現場などにも使われることがある。動詞の「一緒に食事を取る」は軍事・歴史文脈に限られ、一般には eat together を使う。"
+      ],
+      "synonyms": [
+        {
           "word": "canteen",
-          "definition": "学校、工場、職場、軍施設などにある食堂",
+          "definition": "職場、学校、軍施設などの食堂・売店。",
           "frequency": 6,
-          "difference": "特にイギリス英語で一般的で、食事を購入・提供する場所に重点がある。",
-          "example": "We had lunch in the staff canteen.",
-          "translation": "私たちは職員食堂で昼食を取った。"
+          "difference": "特にイギリス英語で民間施設にも広く使え、階級別共同体を含意する mess より一般的である。",
+          "example": "Staff can buy lunch in the canteen.",
+          "translation": "職員は食堂で昼食を買える。"
         },
         {
           "word": "cafeteria",
-          "definition": "客が料理を選び、自分で運ぶ形式の食堂",
+          "definition": "客が料理を選んで運ぶセルフサービス式食堂。",
           "frequency": 7,
-          "difference": "主にアメリカ英語で一般的で、軍事的所属集団という mess の含意はない。",
-          "example": "Employees can eat in the cafeteria downstairs.",
-          "translation": "従業員は階下の食堂で食事ができる。"
+          "difference": "提供方式に焦点があり、軍事組織や所属集団を含意しない。",
+          "example": "The hospital cafeteria stays open all night.",
+          "translation": "病院のカフェテリアは一晩中営業している。"
         },
         {
-          "word": "refectory",
-          "definition": "修道院、古い学校・大学などの共同食堂",
-          "frequency": 3,
-          "difference": "mess より歴史的・制度的で、特に宗教施設や伝統的教育機関に使う。",
-          "example": "The monks ate together in the refectory.",
-          "translation": "修道士たちは食堂で一緒に食事をした。"
+          "word": "dining hall",
+          "definition": "学校、寮、施設などで多人数が食事を取る大きな部屋。",
+          "frequency": 6,
+          "difference": "軍に限られない中立的な語で、mess のような階級別の社交組織までは指さない。",
+          "example": "Students gathered in the dining hall.",
+          "translation": "学生たちは食堂に集まった。"
         }
       ],
       "antonyms": []
     },
     {
       "number": 6,
-      "title": "一食分の料理、柔らかい食べ物、一定量の食材",
+      "title": "【名詞・単数可算・地域的／古風】一食分・一鍋分の食物；多数・多量",
       "frequency": 2,
       "register": [
-        "古風・文学的・アメリカ地域語・歴史的用法。"
+        "地域的・古風。アメリカ南部などの食文化を描く文脈、歴史・文学・聖書由来の表現で遭遇する。通常の日常英語で一人分を言うなら a serving または a portion を使う。"
       ],
-      "definition": "一食分として用意された料理、特に柔らかい・半液状の食べ物。また、主にアメリカの地域用法で、豆・野菜・魚など「一皿または一食に足りる量」を表す。現代の一般英語では単独の語義としては低頻度だが、固定句に残っている。",
+      "definition": "古い食物義では、一回の食事に足りる食物、特に調理した野菜・魚などの一まとまりを表す。そこから、北米のくだけた地域的用法で a mess of + 複数名詞／不可算名詞 が「多数・多量の～」を表すことがある。現代では a mess of greens/fish、a mess of trouble や、古風な慣用句 a mess of pottage などで見られる。",
       "patterns": [
-        "a mess of + [soft food]＝一皿分の柔らかい料理",
-        "a mess of + [peas / beans / fish]＝一食分になる量の食材。主にアメリカ地域語",
-        "a mess of pottage＝目先の小さな利益。通常は固定句内で使う",
-        "sell + one’s birthright + for + a mess of pottage＝大切な権利・将来を目先の利益と交換する"
+        "a mess of + 食物＝一食・一鍋分ほどのまとまった量",
+        "a mess of + 複数名詞",
+        "不可算名詞＝北米のくだけた地域用法で「多数・多量の～」",
+        "a mess of pottage＝古風に「一杯の煮物」、慣用的には小さな目先の利益",
+        "sell/trade + 価値ある物 + for a mess of pottage＝大切な物をわずかな目前の利益と引き換えにする"
       ],
       "collocations": [
         {
-          "pattern": "a mess of porridge",
-          "use": "柔らかい・半液状の料理一皿を古風に表す",
-          "example": "They were served a thin mess of porridge.",
-          "translation": "彼らには水っぽいかゆが一皿出された。"
+          "pattern": "a mess of greens",
+          "use": "主にアメリカ南部の地域的表現で、調理する・食べるのに十分な葉野菜一盛りを表す。",
+          "example": "She cooked a mess of greens for the family supper.",
+          "translation": "彼女は家族の夕食に葉野菜を一鍋分調理した。"
         },
         {
-          "pattern": "a mess of peas",
-          "use": "一食分になるほどのエンドウ豆を表す。主にアメリカ地域語",
-          "example": "She picked a mess of peas for supper.",
-          "translation": "彼女は夕食用に一食分のエンドウ豆を摘んだ。"
+          "pattern": "a mess of fish",
+          "use": "一食分になるほどの魚のまとまりを地域的・古風に表す。",
+          "example": "They returned from the lake with a mess of fish.",
+          "translation": "彼らは湖から一食分ほどの魚を持ち帰った。"
         },
         {
           "pattern": "a mess of pottage",
-          "use": "長期的に価値のあるものと引き換えに得る、目先の小さな利益を比喩的に表す",
-          "example": "He gave up his independence for a mess of pottage.",
-          "translation": "彼は目先の利益のために自立を手放した。"
+          "use": "古風に一杯の豆などの煮物を指し、特に価値の小さい目先の利益の比喩として使う。",
+          "example": "The editorial accused them of trading principle for a mess of pottage.",
+          "translation": "その社説は、彼らがわずかな目先の利益のために原則を売ったと非難した。"
+        },
+        {
+          "pattern": "a mess of trouble",
+          "use": "北米のくだけた地域的表現で、非常に多くの問題・面倒を表す。",
+          "example": "We're in a mess of trouble now.",
+          "translation": "私たちは今、山ほどの問題を抱えている。"
         }
       ],
       "notes": [
-        "この語義の mess は現代の日常的な「散らかり」とは異なる歴史的用法である。",
-        "a mess of peas などは標準的な国際英語ではなく、主にアメリカの一部地域で使われる。一般的には a serving, a batch, enough peas for a meal などが明確である。",
-        "a mess of pottage は聖書に由来する文学的な固定句だが、聖書本文の多くの英訳にそのまま現れる表現ではない。",
-        "食欲をそそらないどろどろした料理を、軽蔑的に a mess と呼ぶ用法もある。"
+        "この用法の a mess of を、常に現代の一般的な「めちゃくちゃな～」と機械的に訳さない。a mess of greens は「散らかった野菜」ではなく「一食・一鍋分ほどの葉野菜」である一方、a mess of papers は文脈によって「散らかった書類の塊」を表し得る。a mess of pottage は『創世記』のエサウの物語に結び付く慣用表現だが、この正確な英語句自体が聖書本文のすべての翻訳に現れるわけではない。現代の数量表現としては地域性が強いため、能動的に使うより読解できることが重要である。"
       ],
       "synonyms": [
         {
           "word": "serving",
-          "definition": "一人に一度に出される食べ物の量",
-          "frequency": 7,
-          "difference": "現代の一般英語で使える中立語で、柔らかい料理や地域性に限定されない。",
-          "example": "Each serving contains about 200 calories.",
-          "translation": "一食分には約200カロリーが含まれている。"
+          "definition": "一人に一度に供される食物・飲み物の量。",
+          "frequency": 8,
+          "difference": "現代の標準語で一人分を表し、地域的な a mess of food より量と提供単位が明確である。",
+          "example": "Each box contains four servings.",
+          "translation": "各箱には4食分入っている。"
         },
         {
           "word": "portion",
-          "definition": "全体から分けられた一定量の食べ物",
-          "frequency": 7,
-          "difference": "mess より中立的・現代的で、量や分配に重点がある。",
+          "definition": "全体から分けられた一部、特に一人分の食物。",
+          "frequency": 8,
+          "difference": "食物以外にも使える中立的な語で、mess の歴史的・地域的な響きがない。",
           "example": "The restaurant serves generous portions.",
-          "translation": "そのレストランは量の多い料理を出す。"
+          "translation": "そのレストランは一人前の量が多い。"
         },
         {
-          "word": "helping",
-          "definition": "皿に取り分けられた一人分の食べ物",
-          "frequency": 6,
-          "difference": "日常的で、特に食卓でよそった一杯・一皿分を表す。",
-          "example": "He asked for a second helping of stew.",
-          "translation": "彼はシチューをもう一杯求めた。"
+          "word": "batch",
+          "definition": "一度に作る・処理する物のまとまり。",
+          "frequency": 7,
+          "difference": "一食分ではなく、一回の製造・調理単位に焦点を当てる。",
+          "example": "He baked a fresh batch of rolls.",
+          "translation": "彼はロールパンを新しく一回分焼いた。"
+        },
+        {
+          "word": "lot",
+          "definition": "くだけた表現で、多数・多量の人や物。",
+          "frequency": 10,
+          "difference": "現代英語で地域を問わず使える一般的な数量表現で、a mess of の古風・地域的な響きがない。",
+          "example": "We had a lot of trouble finding the address.",
+          "translation": "私たちはその住所を見つけるのに大変苦労した。"
         }
       ],
       "antonyms": []
     },
     {
       "number": 7,
-      "title": "物・場所を散らかす、形や配置を乱す",
-      "frequency": 8,
+      "title": "【動詞・他動詞／自動詞・くだけた表現】物を乱す、汚す；排せつして汚す",
+      "frequency": 4,
       "register": [
-        "日常会話・くだけた表現。"
+        "くだけた日常語。単独他動詞の地域差に注意する。自動詞の排せつ用法は家庭内の婉曲表現である。"
       ],
-      "definition": "髪、衣服、部屋、書類、配置などを、整った状態から乱雑・不潔・不規則な状態にする。必ずしも汚すとは限らず、形や順番を崩すことも含む。",
+      "definition": "他動詞では物の整った形・配置を崩して乱雑にする。単独の他動詞用法は主にアメリカ英語で、イギリス英語では mess up がより一般的である。自動詞では動物がある場所に排せつして汚すことを表す。現代英語では多くの場合、up、with、around/about を伴う句動詞・動詞句の方が一般的である。",
       "patterns": [
-        "mess up + [物 / 場所]＝物・場所を散らかす、乱す",
-        "mess + [名詞目的語] + up＝名詞目的語は小辞の前後どちらにも置ける",
-        "mess + [代名詞目的語] + up＝代名詞目的語は必ず動詞と小辞の間に置く",
-        "get + [髪 / 衣服 / 配置] + messed up＝乱れた状態になる",
-        "be + all messed up＝配置・順序などがひどく乱れている"
+        "mess + O＝主に米「目的語を乱す」",
+        "mess on + 場所＝動物がそこで排せつする",
+        "mess oneself＝人が衣服の中で排便して自分を汚す",
+        "否定命令 Don't mess + O＝物を乱すな"
       ],
       "collocations": [
         {
-          "pattern": "mess up [someone’s] hair",
-          "use": "髪型や整えられた髪を乱す",
-          "example": "Take off your hat carefully so you don’t mess up your hair.",
-          "translation": "髪型を崩さないよう、帽子を慎重に脱ぎなさい。"
+          "pattern": "mess someone's hair",
+          "use": "主にアメリカ英語で、人の髪を触って乱すことを表す。",
+          "example": "Don't mess my hair; I just fixed it.",
+          "translation": "髪を乱さないで。今整えたばかりなの。"
         },
         {
-          "pattern": "mess up the room",
-          "use": "部屋を散らかし、乱雑な状態にする",
-          "example": "The children messed up the room while they were playing.",
-          "translation": "子どもたちは遊んでいる間に部屋を散らかした。"
+          "pattern": "mess on the carpet",
+          "use": "ペットなどがカーペットの上で排せつして汚すことを表す。",
+          "example": "The cat had messed on the carpet while we were away.",
+          "translation": "私たちの留守中に、猫がカーペットで粗相をしていた。"
         },
         {
-          "pattern": "mess [something] up",
-          "use": "並び、配置、外見などを崩す",
-          "example": "Don’t mess the papers up—I’ve arranged them by date.",
-          "translation": "書類を乱さないで。日付順に並べてあるから。"
-        },
-        {
-          "pattern": "get [something] messed up",
-          "use": "物が絡まる、順番が崩れるなど、乱れた状態になる",
-          "example": "The cables got messed up inside the box.",
-          "translation": "箱の中でケーブルが絡まってしまった。"
-        },
-        {
-          "pattern": "mess up [someone’s] clothes",
-          "use": "衣服を汚したり、しわや乱れを生じさせたりする",
-          "example": "The wet paint messed up his clothes.",
-          "translation": "ぬれたペンキで彼の服が汚れてしまった。"
+          "pattern": "mess oneself",
+          "use": "人がトイレに間に合わず、衣服の中で排便してしまうことを婉曲に表す。",
+          "example": "He was afraid he might mess himself before reaching the bathroom.",
+          "translation": "彼はトイレに着く前に粗相をしてしまうのではないかと心配していた。"
         }
       ],
       "notes": [
-        "名詞目的語は mess up the room / mess the room up の両方が可能。代名詞目的語は誤: mess up it／正: mess it up。",
-        "単独の mess O にも辞書上の用法はあるが、現代の日常英語では通常 mess O up を使う。",
-        "mess up someone’s hair は髪型を乱した結果に重点がある。mess with someone’s hair は髪を触ったりいじったりする行為に重点があり、必ずしも乱れるとは限らない。",
-        "単に物を汚す場合は get O dirty、液体などをこぼして周囲を汚す場合は make a mess も使える。"
+        "他動詞 mess + O は使用範囲が限られ、一般には mess up + O または mess + O + up の方が明確で自然である。特にイギリス英語では Don't mess up my hair. が普通。mess on と mess oneself は文脈依存の婉曲表現なので、正確さが必要なら defecate や soil oneself などを使う。排尿して衣服をぬらす場合は通常 wet oneself と言い、mess oneself と区別する。最小対立は、mess oneself＝「衣服の中で粗相する」、mess oneself up＝「自分の心身・人生を損なう」。up の有無で意味が全く異なる。mess は規則活用し、過去形・過去分詞は messed である。"
       ],
       "synonyms": [
         {
-          "word": "disarrange",
-          "definition": "整然と配置されていた物の並びや形を乱す",
-          "frequency": 4,
-          "difference": "mess up より硬く、主に物理的な配置の乱れを表す。",
-          "example": "Please do not disarrange the files.",
-          "translation": "書類の順番を乱さないでください。"
-        },
-        {
-          "word": "ruffle",
-          "definition": "髪、羽毛、布などの表面を軽くかき乱す",
-          "frequency": 5,
-          "difference": "対象が限定され、mess up より軽い表面的な乱れを表しやすい。",
-          "example": "The wind ruffled his hair.",
-          "translation": "風が彼の髪を乱した。"
-        },
-        {
-          "word": "rumple",
-          "definition": "衣服、紙、髪などにしわや乱れを生じさせる",
-          "frequency": 4,
-          "difference": "表面にしわができ、外見が乱れることに重点がある。",
-          "example": "Sleeping in the shirt had rumpled it badly.",
-          "translation": "そのシャツを着たまま寝たため、ひどくしわになっていた。"
-        },
-        {
-          "word": "tousle",
-          "definition": "人の髪を無造作にかき乱す",
+          "word": "muss",
+          "definition": "髪、服、整えた物などをくしゃくしゃに乱す。",
           "frequency": 3,
-          "difference": "主に髪に使い、親しみや愛情を伴う軽い動作にもなる。",
-          "example": "She affectionately tousled the child’s hair.",
-          "translation": "彼女は愛情を込めてその子の髪をくしゃくしゃにした。"
+          "difference": "主にアメリカ英語で外見上の乱れに限定され、mess より対象が狭く、やや古風に感じられることがある。",
+          "example": "The wind mussed her hair.",
+          "translation": "風が彼女の髪をくしゃくしゃにした。"
+        },
+        {
+          "word": "disarrange",
+          "definition": "整った配置・順序を崩す。",
+          "frequency": 3,
+          "difference": "mess より改まった語で、汚れや排せつの意味を含まない。",
+          "example": "Someone had disarranged the papers.",
+          "translation": "誰かが書類の順序を乱していた。"
+        },
+        {
+          "word": "soil",
+          "definition": "表面を汚物・泥などで汚す。",
+          "frequency": 5,
+          "difference": "物理的な汚れに焦点があり、配置を乱す意味はない。排せつを直接言わない婉曲動詞としても使える。",
+          "example": "The child had soiled the sheets.",
+          "translation": "その子はシーツを汚してしまっていた。"
         }
       ],
-      "antonyms": [
-        {
-          "word": "tidy",
-          "definition": "散らかった物を適切な場所へ戻して整える",
-          "frequency": 7,
-          "difference": "物理的な乱れを生じさせる mess up と方向上直接対立する。",
-          "example": "She tidied the room before the guests arrived.",
-          "translation": "彼女は客が来る前に部屋を片づけた。"
-        },
-        {
-          "word": "arrange",
-          "definition": "物を意図した順序・配置に整える",
-          "frequency": 8,
-          "difference": "配置を崩す mess up に対し、一定の構造を作る行為を表す。",
-          "example": "I arranged the books by subject.",
-          "translation": "私は本を分野別に並べた。"
-        },
-        {
-          "word": "straighten",
-          "definition": "曲がり、しわ、位置の乱れを正す",
-          "frequency": 7,
-          "difference": "乱れた形や位置を修正する点で反対だが、部屋全体より局所的な修正に使いやすい。",
-          "example": "He straightened his tie before entering.",
-          "translation": "彼は入室する前にネクタイを直した。"
-        }
-      ]
+      "antonyms": []
     },
     {
       "number": 8,
-      "title": "間違える、物事を台なしにする、正常な進行を妨げる",
+      "title": "【句動詞・自他】mess up：失敗する、間違える；計画・機会などを台無しにする",
       "frequency": 9,
       "register": [
-        "日常会話・くだけた表現。"
+        "非常に一般的なくだけた表現。会話、職場、学校、スポーツなどで広く使う。正式な報告では make an error、damage、compromise など具体的な語を選ぶことがある。"
       ],
-      "definition": "仕事、試験、計画、説明、機会などを誤って処理して悪い結果にする。また、自動詞では目立つ間違いをすること、物・出来事を主語にすると予定・通信・仕組みなどの正常な進行を狂わせることを表す。",
+      "definition": "自動詞では本人がミスをする、期待どおりにできないことを表す。他動詞では計画、仕事、機会、関係などの成功・正常な進行を損ない、台無しにする。失敗の程度は軽い間違いから重大な損害まで文脈で決まる。物や場所を物理的に散らかす用法は次の語義で分けて扱う。",
       "patterns": [
-        "mess up＝間違える、へまをする",
-        "mess up + [仕事 / 計画 / 機会]＝物事を失敗させる、台なしにする",
-        "mess + [名詞目的語] + up＝名詞目的語は小辞の前後どちらにも置ける",
-        "mess + [代名詞目的語] + up＝代名詞目的語は必ず中間に置く",
-        "mess up + by + -ing＝～したことが原因で失敗する",
-        "mess up + on + [問題 / 試験 / 手順]＝特定の部分・課題で間違える",
-        "[出来事 / 障害] + mess up + [予定 / 通信 / 仕組み]＝正常な進行を妨げる"
+        "mess up＝自動詞「失敗する」",
+        "mess up + O または mess + O + up＝分離可能な他動詞「Oを台無しにする」",
+        "mess up on + 課題＝課題の特定部分で失敗する",
+        "mess up by -ing＝何をして失敗したか示す"
       ],
       "collocations": [
         {
-          "pattern": "mess up badly",
-          "use": "大きな、または明白な失敗をしたことを認める",
-          "example": "I messed up badly and sent the file to the wrong client.",
-          "translation": "私はひどいミスをして、間違った顧客にファイルを送ってしまった。"
+          "pattern": "mess up",
+          "use": "目的語を置かず、自分が間違えたり失敗したりしたことを認める。",
+          "example": "I messed up, and I take full responsibility.",
+          "translation": "私が失敗しました。責任はすべて私にあります。"
         },
         {
-          "pattern": "mess up [a task]",
-          "use": "面接、試験、演奏、仕事などをうまく行えず失敗する",
-          "example": "I was so nervous that I messed up the interview.",
-          "translation": "緊張しすぎて、私は面接で失敗した。"
+          "pattern": "mess up something",
+          "use": "計画、機会、作業などを失敗によって損なうことを表す。",
+          "example": "One incorrect setting could mess up the entire experiment.",
+          "translation": "設定を一つ間違えるだけで、実験全体を台無しにしかねない。"
         },
         {
-          "pattern": "mess up [someone’s] plans",
-          "use": "出来事や行動が予定・計画を狂わせる",
-          "example": "The flight cancellation messed up our travel plans.",
-          "translation": "欠航のせいで、私たちの旅行計画は狂ってしまった。"
+          "pattern": "mess something up",
+          "use": "名詞目的語を mess と up の間に置く分離形を示す。",
+          "example": "I entered the wrong date and messed the schedule up.",
+          "translation": "私は日付を間違えて入力し、予定をめちゃくちゃにした。"
         },
         {
-          "pattern": "mess up [an opportunity]",
-          "use": "判断ミスなどによって貴重な機会を無駄にする",
-          "example": "Don’t mess up this opportunity to work abroad.",
-          "translation": "海外で働くこの機会を台なしにしないで。"
+          "pattern": "mess it up",
+          "use": "代名詞目的語を必ず mess と up の間に置く。",
+          "example": "This is our last chance, so don't mess it up.",
+          "translation": "これが最後の機会だから、台無しにしないで。"
         },
         {
-          "pattern": "mess up by -ing",
-          "use": "失敗を引き起こした行為を示す",
-          "example": "We messed up by assuming everyone had received the email.",
-          "translation": "全員がメールを受け取ったと思い込んだことで、私たちは失敗した。"
-        },
-        {
-          "pattern": "mess up on [something]",
-          "use": "試験問題、演奏箇所、作業段階など、特定部分で間違える",
-          "example": "I messed up on the last question.",
-          "translation": "私は最後の問題で間違えた。"
+          "pattern": "mess up on something",
+          "use": "テスト、質問、作業工程など、失敗した対象・箇所を on で示す。",
+          "example": "I messed up on the final calculation.",
+          "translation": "最後の計算で間違えた。"
         }
       ],
       "notes": [
-        "目的語なしの I messed up. だけで「失敗した、へまをした」と言える。",
-        "名詞目的語は mess up the order / mess the order up の両方が可能。代名詞は誤: mess up it／正: mess it up。",
-        "mess up O は、単なる一か所の誤りより、O全体の結果・進行を悪化させたという響きがある。軽い誤りには make a mistake の方が中立的。",
-        "mess up on the test は試験で間違えること、mess up the test は試験の実施・内容自体を台なしにすることにも解釈できる。",
-        "mix up the answers は答えを取り違えること、mess up the answers は答え方を全般的に失敗することを表す。"
+        "他動詞用法は分離可能で、名詞目的語なら mess up the plan と mess the plan up の両方が可能。代名詞は必ず中央に置き、○ mess it up、× mess up it とする。自動詞 I messed up. は「私が失敗した」であり、何を損ねたかは示さない。句動詞の過去形 messed up the plan、叙述形容詞 the plan is messed up、限定形容詞 a messed-up plan を区別する。"
       ],
       "synonyms": [
         {
           "word": "make a mistake",
-          "definition": "判断、計算、行動などで誤りを犯す",
+          "definition": "判断・計算・行動などで誤りを犯す。",
           "frequency": 10,
-          "difference": "mess up より中立的で、小さな誤りから重大な失敗まで広く使える。",
-          "example": "I made a mistake in the final calculation.",
-          "translation": "私は最後の計算で間違えた。"
+          "difference": "中立的で失敗の種類を限定せず、責任を認める場面でも mess up より改まった響きにできる。",
+          "example": "Everyone makes mistakes when learning a new system.",
+          "translation": "新しい仕組みを学ぶときは誰でも間違える。"
         },
         {
           "word": "screw up",
-          "definition": "重大なへまをする、物事を台なしにする",
+          "definition": "くだけた表現で、失敗する、物事を台無しにする。",
           "frequency": 7,
-          "difference": "mess up と非常に近いが、よりくだけており、やや乱暴に響く場合がある。",
-          "example": "I screwed up the entire project.",
-          "translation": "私はプロジェクト全体を台なしにした。"
+          "difference": "構文と意味は mess up に非常に近いが、より俗語的で荒い響きがある。",
+          "example": "I screwed up the booking.",
+          "translation": "予約をしくじった。"
         },
         {
           "word": "botch",
-          "definition": "技術不足や不注意によって仕事をひどく失敗する",
+          "definition": "技能不足や不注意によって仕事を不格好にやり損なう。",
           "frequency": 5,
-          "difference": "作業の完成物・結果が明らかに粗悪になったことを強調する。",
-          "example": "The contractor botched the repair.",
-          "translation": "その業者は修理をひどくしくじった。"
+          "difference": "他動詞として失敗した作業・修理などを目的語に取り、完成結果の質の悪さを強調する。",
+          "example": "The first repair was badly botched.",
+          "translation": "最初の修理はひどくやり損なわれていた。"
         },
         {
-          "word": "bungle",
-          "definition": "不器用・無能なやり方で仕事や計画を失敗させる",
-          "frequency": 4,
-          "difference": "実行者の不手際・能力不足を批判する響きが mess up より強い。",
-          "example": "The authorities bungled the investigation.",
-          "translation": "当局は捜査で大失態を犯した。"
-        },
-        {
-          "word": "mishandle",
-          "definition": "問題、情報、状況などを不適切に処理する",
-          "frequency": 5,
-          "difference": "mess up より硬く、公的機関・専門家・組織の対応ミスを批判するときに使いやすい。",
-          "example": "The company mishandled the complaint.",
-          "translation": "会社はその苦情を不適切に処理した。"
+          "word": "ruin",
+          "definition": "物事の価値・機能・成功の可能性を大きく損なう。",
+          "frequency": 9,
+          "difference": "mess up より結果の深刻さ・不可逆性が強いことが多く、単なる一回のミスには強すぎる場合がある。",
+          "example": "The leak ruined the wooden floor.",
+          "translation": "水漏れで木の床が台無しになった。"
         }
       ],
-      "antonyms": [
-        {
-          "word": "get [something] right",
-          "definition": "物事を正しく行い、正しい答え・結果を得る",
-          "frequency": 9,
-          "difference": "手順や判断を誤る mess up と直接対立する日常表現。",
-          "example": "This time, we need to get every detail right.",
-          "translation": "今回はすべての詳細を正確に処理する必要がある。"
-        },
-        {
-          "word": "handle [something] well",
-          "definition": "状況や仕事を適切かつ効果的に処理する",
-          "frequency": 8,
-          "difference": "物事を不適切に処理する mess up に対し、処理方法が適切であることを表す。",
-          "example": "She handled the difficult conversation well.",
-          "translation": "彼女はその難しい話し合いにうまく対処した。"
-        },
-        {
-          "word": "succeed",
-          "definition": "試みや活動で望んだ結果を得る",
-          "frequency": 9,
-          "difference": "自動詞の mess up「失敗する」に対する結果上の反対語。",
-          "example": "She succeeded on her second attempt.",
-          "translation": "彼女は2回目の試みで成功した。"
-        }
-      ]
+      "antonyms": []
     },
     {
       "number": 9,
-      "title": "人の心身・人生をひどく傷つける",
+      "title": "【句動詞・他動詞・くだけた表現】mess up：物・場所・髪などを散らかす、乱す、汚す",
       "frequency": 7,
       "register": [
-        "くだけた口語。暴力・けが・精神的苦痛などの文脈。"
+        "くだけた日常語。片づけ、身だしなみ、物の配置について広く使う。"
       ],
-      "definition": "暴力、事故、薬物、虐待、喪失、人間関係などが、人の身体・精神・生活に大きな悪影響を与える。文脈によって「負傷させる」「精神的に傷つける」「人生を狂わせる」「殴って痛めつける」などを表す。",
+      "definition": "整っていた物の配置・形・見た目を崩して、乱雑・不格好・汚れた状態にする。部屋、書類、髪、服装など、目で確認できる物理的な乱れが中心である。計画や機会を台無しにする前項の抽象的な失敗義とは分けて理解する。",
       "patterns": [
-        "mess + someone + up＝人を身体的・精神的にひどく傷つける",
-        "mess up + someone’s + [knee / shoulder / life]＝身体部位・人生を損なう",
-        "be / get + messed up + by + [経験 / 事故 / 薬物]＝出来事などによって悪影響を受ける",
-        "mess + someone + up + emotionally / psychologically＝人を精神的に傷つける",
-        "mess + someone + up + badly / good＝人をひどく痛めつける。good は非標準的・強い口語"
+        "mess up + O または mess + O + up＝物・場所の状態を乱す。分離可能で、名詞目的語は両位置に置けるが、代名詞は必ず中央に置く（mess it up）。"
       ],
       "collocations": [
         {
-          "pattern": "mess [someone] up emotionally",
-          "use": "別れ、虐待、喪失などが人の感情に深い悪影響を与える",
-          "example": "That relationship messed him up emotionally.",
-          "translation": "その恋愛関係は彼を精神的にひどく傷つけた。"
+          "pattern": "mess up someone's hair",
+          "use": "人の髪型や髪の整った状態を崩すことを表す。",
+          "example": "The wind messed up my hair before the photo.",
+          "translation": "写真を撮る前に風で髪が乱れてしまった。"
         },
         {
-          "pattern": "mess up [someone’s] knee",
-          "use": "事故・スポーツなどで身体部位をかなり痛める",
-          "example": "She messed up her knee in a skiing accident.",
-          "translation": "彼女はスキー事故で膝をひどく痛めた。"
+          "pattern": "mess up a room",
+          "use": "部屋を散らかして乱雑な状態にすることを表す。",
+          "example": "The children messed up the room while they were playing.",
+          "translation": "子どもたちは遊んでいる間に部屋を散らかした。"
         },
         {
-          "pattern": "be messed up by [something]",
-          "use": "つらい経験、薬物、事故などによって心身が損なわれる",
-          "example": "He was badly messed up by what happened during the war.",
-          "translation": "彼は戦時中の経験によって心に深い傷を負った。"
-        },
-        {
-          "pattern": "mess up [someone’s] life",
-          "use": "出来事・行動が人の生活や将来を大きく損なう",
-          "example": "One false accusation can mess up someone’s life.",
-          "translation": "一つの虚偽の告発が人の人生を狂わせることがある。"
-        },
-        {
-          "pattern": "mess [someone] up in a fight",
-          "use": "けんかで人を殴り、ひどく負傷させる",
-          "example": "He threatened to mess me up if I spoke to the police.",
-          "translation": "警察に話したらひどい目に遭わせると、彼は私を脅した。"
+          "pattern": "mess the papers up",
+          "use": "順序よく並んだ書類をばらばらにすることを表し、分離形を示す。",
+          "example": "A gust of wind messed the papers up.",
+          "translation": "突風で書類がばらばらになった。"
         }
       ],
       "notes": [
-        "代名詞目的語は誤: mess up him／正: mess him up。",
-        "mess someone up の具体的な意味は原因によって決まる。事故なら「負傷させる」、経験なら「精神的に傷つける」、暴力なら「殴って痛めつける」となる。",
-        "mess up one’s knee は「かなり傷める」という口語表現で、完全に機能を失わせたとは限らない。",
-        "人に対する messed up は無神経・侮辱的に聞こえることがある。配慮が必要な場面では traumatized, emotionally hurt, struggling などを使う。",
-        "mess with someone’s head は混乱・不安を生じさせる行為、mess someone up psychologically はより長期的・深刻な悪影響を示しやすい。"
+        "この用法の mess up は結果が物理的に見える。mess up someone's hair は「髪を乱す」であり、「髪に関する作業で失敗する」という前項の失敗義ではない。名詞目的語では mess up the room / mess the room up の両方が可能だが、代名詞では mess it up とし、× mess up it とはしない。"
       ],
       "synonyms": [
         {
-          "word": "damage",
-          "definition": "身体、精神、生活、機能などに害を与える",
-          "frequency": 8,
-          "difference": "mess up より中立的・客観的で、損傷の種類を広く表せる。",
-          "example": "The injury damaged several nerves in his hand.",
-          "translation": "そのけがで彼の手の神経が数本損傷した。"
+          "word": "disarrange",
+          "definition": "整然と配置されていた物の順序・配置を乱す。",
+          "frequency": 4,
+          "difference": "mess up より硬く、汚すことより配置や順序が崩れることに焦点がある。",
+          "example": "Someone had disarranged the books on the shelf.",
+          "translation": "誰かが棚の本の並びを乱していた。"
         },
         {
-          "word": "traumatize",
-          "definition": "非常につらい経験によって長期的な心理的外傷を与える",
-          "frequency": 5,
-          "difference": "より専門的・深刻で、主に心理的外傷に限定される。",
-          "example": "The accident traumatized the young child.",
-          "translation": "その事故は幼い子どもに心的外傷を与えた。"
+          "word": "rumple",
+          "definition": "髪、衣服、紙などにしわや乱れを生じさせる。",
+          "frequency": 4,
+          "difference": "対象が柔らかい物や表面に限られやすく、部屋全体を散らかす意味には通常使わない。",
+          "example": "He rumpled the child's hair affectionately.",
+          "translation": "彼は親しみを込めてその子の髪をくしゃくしゃにした。"
         },
         {
-          "word": "injure",
-          "definition": "事故や暴力によって身体を傷つける",
-          "frequency": 7,
-          "difference": "通常は身体的損傷に限定され、医療・報道でも使える中立語。",
-          "example": "He injured his shoulder during training.",
-          "translation": "彼は訓練中に肩を負傷した。"
-        },
-        {
-          "word": "scar",
-          "definition": "人に長く残る身体的・精神的な傷を与える",
-          "frequency": 5,
-          "difference": "mess up より、悪影響が長期間残ることを強調する。",
-          "example": "The experience scarred her for life.",
-          "translation": "その経験は彼女に一生残る心の傷を負わせた。"
-        },
-        {
-          "word": "wreck",
-          "definition": "人の健康、精神、人生などをひどく損なう",
-          "frequency": 6,
-          "difference": "mess up より破壊的な結果を強調しやすい。",
-          "example": "Years of stress wrecked his health.",
-          "translation": "長年のストレスが彼の健康をひどく損なった。"
+          "word": "clutter up",
+          "definition": "物を置きすぎて場所を散らかし、使いにくくする。",
+          "frequency": 4,
+          "difference": "mess up より、不要な物が空間を占めることを具体的に表す。",
+          "example": "Boxes cluttered up the hallway.",
+          "translation": "箱が廊下をふさいで散らかしていた。"
         }
       ],
-      "antonyms": [
-        {
-          "word": "heal",
-          "definition": "身体・精神の傷を回復させる、または傷が回復する",
-          "frequency": 7,
-          "difference": "心身を損なう mess up に対し、損傷から回復する方向を表す。",
-          "example": "It took years for her to heal emotionally.",
-          "translation": "彼女が精神的に回復するまでには何年もかかった。"
-        },
-        {
-          "word": "restore",
-          "definition": "損なわれた健康、機能、生活などを良好な状態へ戻す",
-          "frequency": 6,
-          "difference": "正常な状態を崩す mess up に対し、元の機能・状態を取り戻させる。",
-          "example": "Surgery restored movement to his hand.",
-          "translation": "手術によって彼の手の動きが回復した。"
-        }
-      ]
+      "antonyms": []
     },
     {
       "number": 10,
-      "title": "正常でない、機能不全の、精神的に不安定な",
+      "title": "【形容詞・限定／叙述・くだけた表現】messed up / messed-up：乱れている、壊れている、正常に機能しない",
       "frequency": 8,
       "register": [
-        "くだけた口語。人については無礼・侮辱的になる場合がある。"
+        "くだけた日常語。会話や非公式な文章で非常によく使う。制度批判にも使えるが、正式な報告では dysfunctional、disordered などが適することがある。"
       ],
-      "definition": "物・制度・状況が間違っている、機能していない、不公平・異常であること。また、人が精神的に傷ついている、考えが混乱していることを表す。くだけた用法では、酒・薬物などでひどく酔った状態も表せる。",
+      "definition": "物、計画、制度、日程などの構造・順序・機能が乱れ、正常な状態ではないことを表す。単なる見た目の散らかりから、仕組みの機能不全までを含む。ここでは人の心理状態、倫理的評価、酩酊の意味は扱わない。",
       "patterns": [
-        "[制度 / 状況] + be + messed up＝制度・状況が異常、機能不全である",
-        "a + messed-up + [system / situation / family]＝異常・複雑な制度、状況、家庭",
-        "someone + be + emotionally / psychologically + messed up＝人が精神的に傷ついている",
-        "That’s messed up.＝それはひどい、不公平だ、異常だ",
-        "get + messed up + on + [alcohol / drugs]＝酒・薬物でひどく酔う"
+        "叙述用法 S + be/get + messed up＝主語が乱れた状態にある・なる",
+        "限定用法 a/an + messed-up + 名詞＝乱れた・機能不全の名詞。very/really/badly/completely messed up のように程度修飾できる。"
       ],
       "collocations": [
         {
-          "pattern": "That’s messed up",
-          "use": "出来事・行為がひどい、不公平、異常だと強く評価する",
-          "example": "They fired her without even hearing her side—that’s messed up.",
-          "translation": "彼女の言い分も聞かずに解雇したなんて、ひどすぎる。"
+          "pattern": "be badly messed up",
+          "use": "物や計画の状態がひどく乱れていることを表す。",
+          "example": "The filing system is badly messed up.",
+          "translation": "書類整理の仕組みがひどく乱れている。"
         },
         {
           "pattern": "a messed-up system",
-          "use": "優先順位・規則・機能などが根本的におかしい制度を表す",
-          "example": "The policy is a product of a deeply messed-up system.",
-          "translation": "その方針は根本的におかしい制度から生まれたものだ。"
+          "use": "正常に機能しない制度・仕組みを名詞の前から説明する。",
+          "example": "We are trying to repair a messed-up payment system.",
+          "translation": "私たちは機能不全に陥った決済システムを修復しようとしている。"
         },
         {
-          "pattern": "be emotionally messed up",
-          "use": "つらい経験などによって感情面に問題を抱えていることを表す",
-          "example": "He was emotionally messed up after the accident.",
-          "translation": "彼は事故の後、精神的にひどく参っていた。"
-        },
-        {
-          "pattern": "have a messed-up schedule",
-          "use": "睡眠・仕事・予定などの時間配分が大きく乱れている",
-          "example": "Working night shifts has given me a messed-up sleep schedule.",
-          "translation": "夜勤のせいで、私の睡眠時間はめちゃくちゃになっている。"
-        },
-        {
-          "pattern": "get messed up on [something]",
-          "use": "酒・薬物などによって正常に判断・行動できない状態になる",
-          "example": "He got badly messed up on pills and alcohol.",
-          "translation": "彼は薬と酒でひどく酔った状態になった。"
+          "pattern": "get completely messed up",
+          "use": "日程、順序、配置などが完全に狂う変化を表す。",
+          "example": "Our schedule got completely messed up by the delay.",
+          "translation": "遅延のせいで私たちの日程は完全に狂ってしまった。"
         }
       ],
       "notes": [
-        "限定用法では a messed-up system のようにハイフンを付ける。補語では The system is messed up. と通常ハイフンを付けない。",
-        "That’s messed up. は「混乱している」だけでなく、「倫理的にひどい、不公平だ」という話者の強い非難を表せる。",
-        "人を messed up と呼ぶと「精神的に異常だ」という侮辱に聞こえることがある。本人の苦痛を説明するなら、より具体的で配慮のある語を選ぶ。",
-        "酒・薬物の意味では、何によって酔ったかを on で示すことがある。一般的な場面では drunk, intoxicated, high の方が意味が明確。",
-        "messed-up と messy は異なる。a messy system は複雑・整理不足、a messed-up system は機能や価値判断の面で根本的におかしいという響きが強い。"
+        "叙述用法では通常ハイフンを付けず The system is messed up. と書く。名詞の前では複合形容詞として a messed-up system のようにハイフンを付ける。The system was messed up by an incorrect update. は文脈によって「誤った更新がシステムを壊した」という句動詞の受動態とも、「システムが壊れた状態だった」という形容詞とも分析できる。"
       ],
       "synonyms": [
         {
           "word": "dysfunctional",
-          "definition": "組織、制度、家族などが正常に機能していない",
+          "definition": "組織、制度、関係などが本来の機能を果たしていない。",
           "frequency": 6,
-          "difference": "messed-up より硬く、機能不全に重点があり、単なる不公平や驚きには使わない。",
+          "difference": "messed up より硬く、見た目の乱れではなく、本来の機能を果たしていないことを明確に表す。",
           "example": "The department had become deeply dysfunctional.",
-          "translation": "その部署は深刻な機能不全に陥っていた。"
+          "translation": "その部門は深刻な機能不全に陥っていた。"
         },
         {
-          "word": "disturbed",
-          "definition": "精神的・感情的に深刻な問題を抱えている",
-          "frequency": 6,
-          "difference": "人について使う場合は messed-up より硬く、医学的・深刻に聞こえることがある。",
-          "example": "The character is portrayed as deeply disturbed.",
-          "translation": "その人物は精神的に深刻な問題を抱えているように描かれている。"
-        },
-        {
-          "word": "twisted",
-          "definition": "考え方・価値観が異常で悪意がある",
-          "frequency": 6,
-          "difference": "messed-up より道徳的な歪み・悪意への批判が強い。",
-          "example": "He had a twisted sense of humor.",
-          "translation": "彼はゆがんだユーモアの感覚を持っていた。"
-        },
-        {
-          "word": "intoxicated",
-          "definition": "酒・薬物によって正常な判断・動作ができない",
+          "word": "disordered",
+          "definition": "順序や体系が崩れ、整っていない。",
           "frequency": 5,
-          "difference": "messed up より硬く正確で、酔った状態に意味が限定される。",
-          "example": "The driver appeared to be intoxicated.",
-          "translation": "その運転手は酔っているように見えた。"
+          "difference": "比較的中立的・説明的で、messed up が持ちうる苛立ちや強い評価を必ずしも伴わない。",
+          "example": "The records were incomplete and disordered.",
+          "translation": "記録は不完全で、順序も乱れていた。"
+        },
+        {
+          "word": "broken",
+          "definition": "機械、仕組み、制度などが正常に働かない。",
+          "frequency": 10,
+          "difference": "messed up より結果を端的に述べ、乱れ方や原因を含意しない。",
+          "example": "The booking system is broken again.",
+          "translation": "予約システムがまた故障している。"
         }
       ],
-      "antonyms": [
-        {
-          "word": "functional",
-          "definition": "制度・物などが意図されたとおり正常に機能する",
-          "frequency": 6,
-          "difference": "機能不全の messed-up と機能の軸で直接対立する。",
-          "example": "The system is basic but fully functional.",
-          "translation": "そのシステムは基本的だが、完全に機能している。"
-        },
-        {
-          "word": "well-adjusted",
-          "definition": "精神的・社会的に安定し、環境へ適切に適応している",
-          "frequency": 5,
-          "difference": "精神的に不安定な人を表す messed-up と状態の軸で対立する。",
-          "example": "She grew into a confident, well-adjusted adult.",
-          "translation": "彼女は自信があり精神的に安定した大人に成長した。"
-        },
-        {
-          "word": "sober",
-          "definition": "酒・薬物の影響を受けていない",
-          "frequency": 7,
-          "difference": "酔った意味の messed up と状態の軸で直接対立する。",
-          "example": "He had been sober for six months.",
-          "translation": "彼は6か月間酒を断っていた。"
-        }
-      ]
+      "antonyms": []
     },
     {
       "number": 11,
-      "title": "人・物に干渉する、いじる、からかう、危険な相手に関わる",
-      "frequency": 9,
+      "title": "【形容詞・限定／叙述・くだけた表現】messed up / messed-up：精神的・感情的に傷つき、混乱している",
+      "frequency": 7,
       "register": [
-        "日常会話・くだけた表現。命令文では警告・威嚇になり得る。"
+        "くだけた会話表現。心理状態を大づかみに述べるため、支援・医療・教育の正式な場面では、具体的な状態を説明する語を選ぶ方がよい。"
       ],
-      "definition": "物を勝手にいじる、人をからかう・困らせる・挑発する、または危険な人物・物事に関わる。文脈によって軽い冗談から、改変・妨害・威嚇まで意味の強さが大きく変わる。",
+      "definition": "人がつらい経験、家庭環境、不安などのために、感情や考え方が不安定・混乱した状態にあることを表す。話者が外から強く評価する語なので、本人に直接使うと無神経または侮辱的に響きうる。医学的診断を表す語ではない。",
       "patterns": [
-        "mess with + someone＝人をからかう、困らせる、挑発する",
-        "Don’t mess with + someone＝その人を敵に回すな、手を出すな",
-        "mess with + something＝物・設定などを勝手にいじる",
-        "mess with + someone’s + head / mind＝人を混乱・不安にさせる",
-        "mess with + [dangerous person / drugs / trouble]＝危険な相手・物事に関わる",
-        "not be + someone + to mess with＝軽く扱ったり敵に回したりしてはいけない人物である"
+        "someone + be/seem + messed up＝人が精神的に混乱している",
+        "get/become + messed up by/after + 原因＝経験のために混乱した状態になる",
+        "限定用法 a messed-up + 人。emotionally/deeply/really messed up と程度・領域を示せる。"
       ],
       "collocations": [
         {
-          "pattern": "mess with [someone]",
-          "use": "人をからかう、困らせる、または挑発する",
-          "example": "Are you serious, or are you just messing with me?",
-          "translation": "本気で言っているの、それとも私をからかっているだけ？"
+          "pattern": "be emotionally messed up",
+          "use": "人が感情面で深く混乱し、不安定になっていることを明示する。",
+          "example": "He was emotionally messed up after the breakup.",
+          "translation": "彼は別れた後、感情的にひどく混乱していた。"
         },
         {
-          "pattern": "Don’t mess with [someone]",
-          "use": "強い・危険な相手を敵に回さないよう警告する",
-          "example": "Don’t mess with her—she knows exactly how to defend herself.",
-          "translation": "彼女を甘く見ない方がいい。自分を守る方法をよく分かっている。"
+          "pattern": "a deeply messed-up person",
+          "use": "心理的問題が深いと話者が判断する人を名詞の前から形容する。",
+          "example": "The novel is narrated by a deeply messed-up character.",
+          "translation": "その小説は精神的に深く傷ついた人物によって語られる。"
         },
         {
-          "pattern": "mess with [the settings]",
-          "use": "機械、設定、仕組みなどを許可なく変更する",
-          "example": "Please don’t mess with the router settings.",
-          "translation": "ルーターの設定を勝手にいじらないでください。"
-        },
-        {
-          "pattern": "mess with [someone’s] head",
-          "use": "嘘、矛盾した態度、不安材料などによって人の判断・感情を混乱させる",
-          "example": "His constant lies were starting to mess with my head.",
-          "translation": "彼の絶え間ない嘘のせいで、私は頭が混乱し始めていた。"
-        },
-        {
-          "pattern": "mess with [drugs / dangerous people]",
-          "use": "問題を引き起こし得る物・人物と関係を持つ",
-          "example": "He warned the teenagers not to mess with drugs.",
-          "translation": "彼は若者たちに薬物に手を出さないよう警告した。"
-        },
-        {
-          "pattern": "not be someone to mess with",
-          "use": "強く危険で、簡単に利用・挑発できない人物だと表す",
-          "example": "The new director is not someone to mess with.",
-          "translation": "新しい部長は軽く扱ってよい相手ではない。"
+          "pattern": "get messed up by something",
+          "use": "出来事や環境が原因で人の心理状態が損なわれる変化を表す。",
+          "example": "Some children get messed up by years of instability.",
+          "translation": "長年の不安定な環境によって心が傷つく子どももいる。"
         }
       ],
       "notes": [
-        "mess with O は分離不可。誤: mess O with。",
-        "Are you messing with me? は「からかっているのか」「だまそうとしているのか」の両方に使える。",
-        "Don’t mess with me. は声調・状況によって「邪魔しないで」から「私を敵に回すな」まで強さが変わる。",
-        "物を目的語にすると、単なる中立的な操作ではなく、不要・無断・不注意ないじり方を暗示しやすい。",
-        "mess with drugs は薬物を物理的にいじるのではなく、「薬物に関わる、手を出す」という意味になり得る。",
-        "mess with someone’s food は、食べ物に勝手に触る・細工することを表し、状況によっては深刻な疑いになる。"
+        "She is messed up. は状態を表す形容詞、The experience messed her up. は経験が悪影響を与えた能動の句動詞である。人に用いると強く断定的なので、具体的な症状を意味する distressed、anxious、traumatized などと置き換えられるか検討する。限定用法は a messed-up child のようにハイフンを付ける。"
       ],
       "synonyms": [
         {
-          "word": "bother",
-          "definition": "人を困らせる、邪魔する、煩わせる",
-          "frequency": 9,
-          "difference": "mess with より中立的で、悪意・挑発がなくても使える。",
-          "example": "Please don’t bother him while he’s working.",
-          "translation": "彼が仕事中は邪魔しないでください。"
+          "word": "troubled",
+          "definition": "心配、葛藤、問題を抱えて精神的に落ち着かない。",
+          "frequency": 7,
+          "difference": "messed up より穏やかで共感的に響きやすく、人そのものを壊れていると評価する含意が弱い。",
+          "example": "The school provides support for troubled teenagers.",
+          "translation": "その学校は問題を抱えた十代の若者を支援している。"
         },
         {
-          "word": "tamper with",
-          "definition": "機械、証拠、食品などに許可なく触れ、変更・細工をする",
-          "frequency": 5,
-          "difference": "mess with より深刻で、違法・危険・不正な変更を暗示する。",
-          "example": "Someone had tampered with the lock.",
-          "translation": "誰かが錠前に細工していた。"
-        },
-        {
-          "word": "tease",
-          "definition": "冗談・言葉・行動で人をからかう",
-          "frequency": 8,
-          "difference": "mess with の軽いからかいに対応し、物への干渉や危険な相手への関与には使わない。",
-          "example": "I was only teasing you.",
-          "translation": "ただ君をからかっていただけだよ。"
-        },
-        {
-          "word": "provoke",
-          "definition": "人を意図的に怒らせ、反応を引き起こす",
+          "word": "disturbed",
+          "definition": "心理的に強く動揺している、または考え方・行動に深刻な問題がある。",
           "frequency": 6,
-          "difference": "mess with より硬く、挑発の意図と相手の反応に重点がある。",
-          "example": "He was trying to provoke a fight.",
-          "translation": "彼はけんかを挑発しようとしていた。"
+          "difference": "文脈によって一時的な動揺にも深刻な精神状態にもなり、messed up より硬いが依然として強い評価を帯びうる。",
+          "example": "The child seemed deeply disturbed by what he had seen.",
+          "translation": "その子は目にしたものによって深く動揺しているようだった。"
         },
         {
-          "word": "meddle with",
-          "definition": "自分に関係のない物事に余計な手出しをする",
-          "frequency": 4,
-          "difference": "権限や必要がないのに介入することへの批判が明確。",
-          "example": "Don’t meddle with things you don’t understand.",
-          "translation": "理解していないことに余計な手出しをするな。"
+          "word": "traumatized",
+          "definition": "強い恐怖や衝撃を伴う経験によって心理的外傷を受けている。",
+          "frequency": 6,
+          "difference": "原因がトラウマとなる出来事であることを具体的に示し、漠然とした messed up より意味範囲が狭い。",
+          "example": "Many survivors remained traumatized for years.",
+          "translation": "多くの生存者は何年も心の傷を抱えたままだった。"
         }
       ],
-      "antonyms": [
-        {
-          "word": "leave [someone / something] alone",
-          "definition": "人を困らせず、物にも触れず、そのままにしておく",
-          "frequency": 9,
-          "difference": "干渉する mess with に対する行為上の直接的な反対表現。",
-          "example": "Leave the controls alone unless there is an emergency.",
-          "translation": "緊急時でない限り、操作装置には触れないでください。"
-        },
-        {
-          "word": "keep one’s hands off [someone / something]",
-          "definition": "人・物に触れたり干渉したりしない",
-          "frequency": 7,
-          "difference": "mess with に対し、物理的・比喩的な手出しを禁止する強い表現。",
-          "example": "Keep your hands off my computer.",
-          "translation": "私のコンピューターに触らないで。"
-        }
-      ]
+      "antonyms": []
     },
     {
       "number": 12,
-      "title": "ふざける、時間を無駄にする、目的なくいじる",
+      "title": "【形容詞・叙述中心・くだけた表現】messed up：ひどい、不公平・不快で受け入れがたい",
       "frequency": 8,
       "register": [
-        "日常会話・くだけた表現。mess about はイギリス英語寄り。"
+        "くだけた会話、とくにアメリカ英語で一般的。強い否定評価を含むため、正式な議論では何が不公正・有害なのかを具体的に述べる方がよい。"
       ],
-      "definition": "真剣に取り組まずにふざける、重要でない行動をして時間を使う、または明確な目的なしに物を試したりいじったりする。mess around with someone は、文脈によって婚外・性的関係を持つ意味にもなる。",
+      "definition": "出来事、発言、規則、人の扱いなどを、単に混乱しているのではなく「道徳的に間違っている」「不公平でひどい」「常識的に受け入れがたい」と強く非難・評価する。必ずしも道徳や公平性だけを問題にしているわけではなく、不快さに対する反応にもなる。That's messed up. は、驚き、怒り、嫌悪、同情を込めた反応として非常によく使われる。",
       "patterns": [
-        "mess around / mess about＝ふざける、時間を無駄にする",
-        "mess around / about + with + something＝物を目的なく試す、または不注意にいじる",
-        "mess around / about + with + someone＝人とふざける、または性的関係を持つ",
-        "stop + messing around / about＝ふざけるのをやめる",
-        "mess around / about + instead of + -ing＝すべきことをせず時間を無駄にする",
-        "not mess around / about＝ぐずぐずせず、真剣・迅速に行動する"
+        "That/It + be + messed up＝目前の事実・既出内容を強く非難する",
+        "It is messed up that + 節＝節で示す事実を不当と評価する",
+        "a messed-up + 規則・考え方＝不当・異常な名詞。really/seriously/so messed up で程度を示せる。比較するときは more messed up、the most messed up とする。"
       ],
       "collocations": [
         {
-          "pattern": "stop messing around",
-          "use": "ふざけたり時間を無駄にしたりするのをやめるよう命じる",
-          "example": "Stop messing around and finish your homework.",
-          "translation": "ふざけるのをやめて宿題を終わらせなさい。"
+          "pattern": "That's messed up",
+          "use": "聞いた出来事を倫理的にひどい・不当だと即座に評価する。",
+          "example": "They charged you twice and refused a refund? That's messed up.",
+          "translation": "二重に請求して返金も拒んだの？ それはひどすぎる。"
         },
         {
-          "pattern": "mess around instead of -ing",
-          "use": "すべきことをせず、時間を無駄にしていることを批判する",
-          "example": "They spent the afternoon messing around instead of studying.",
-          "translation": "彼らは勉強せずに、午後ずっとふざけて過ごした。"
+          "pattern": "It's messed up that + 節",
+          "use": "不公平・不道徳だと評価する事実を that 節で具体化する。",
+          "example": "It's messed up that some workers were never paid.",
+          "translation": "一部の労働者に賃金がまったく支払われなかったなんてひどい。"
         },
         {
-          "pattern": "mess around with [something]",
-          "use": "機械、楽器、ソフトウェアなどを気軽に試したりいじったりする",
-          "example": "I was messing around with the camera settings and found a useful feature.",
-          "translation": "カメラの設定をいろいろいじっていたら、便利な機能を見つけた。"
-        },
-        {
-          "pattern": "mess about with [something]",
-          "use": "物を不必要・不注意にいじる。特にイギリス英語で使う",
-          "example": "Don’t mess about with the wiring.",
-          "translation": "配線をむやみにいじらないで。"
-        },
-        {
-          "pattern": "mess around with [someone]",
-          "use": "配偶者・恋人以外の人と性的・恋愛的関係を持つ",
-          "example": "She discovered that her husband had been messing around with someone from work.",
-          "translation": "彼女は、夫が職場の誰かと浮気していたことを知った。"
-        },
-        {
-          "pattern": "not mess around",
-          "use": "ためらわず、手早く真剣に行動する",
-          "example": "When the alarm sounds, the staff don’t mess around.",
-          "translation": "警報が鳴ると、職員はぐずぐずせずに行動する。"
+          "pattern": "a seriously messed-up rule",
+          "use": "不当または非常識な規則を名詞の前から強く批判する。",
+          "example": "That is a seriously messed-up rule.",
+          "translation": "それは本当にひどく不当な規則だ。"
         }
       ],
       "notes": [
-        "mess around と mess about は多くの文脈で置き換えられるが、mess about はイギリス英語でより一般的。",
-        "mess around with a machine は「試しにいじる」と「危険・不注意にいじる」の両方があり、評価は文脈で決まる。",
-        "mess around with someone は「一緒にふざける」と「性的関係を持つ」の両方があり、文脈なしでは曖昧。",
-        "浮気を明確に表すなら cheat on one’s partner の方が誤解が少ない。",
-        "They don’t mess around. は否定形で「ふざけない」だけでなく、「本気で行動する、仕事が速い」という肯定的評価になる。",
-        "no messing は特にイギリス英語で、「余計なことをせず、手早く・率直に」という意味のくだけた固定表現である。"
+        "この用法を「混乱している」とだけ訳すと、話者の強い否定評価を落としてしまう。That's messed up. は文脈に応じて「それはひどい」「そんなの間違っている」「理不尽だ」「不快だ」などに近い。叙述用法なのでハイフンは不要だが、名詞の前では a messed-up rule とする。"
       ],
       "synonyms": [
         {
-          "word": "fool around",
-          "definition": "真剣に行動せず、ふざけたり遊んだりする",
-          "frequency": 7,
-          "difference": "mess around と近いが、人同士のふざけ合い・軽い性的行動にも使われやすい。",
-          "example": "The children were fooling around in the hallway.",
-          "translation": "子どもたちは廊下でふざけていた。"
+          "word": "wrong",
+          "definition": "道徳、規則、事実、判断などの点で正しくない。",
+          "frequency": 10,
+          "difference": "最も広く中立的にも使え、messed up ほど驚きや嫌悪を必ずしも示さない。",
+          "example": "It was wrong to hide the information from them.",
+          "translation": "彼らにその情報を隠したのは間違っていた。"
         },
         {
-          "word": "waste time",
-          "definition": "有益な結果を生まないことに時間を使う",
+          "word": "unfair",
+          "definition": "人の扱い、規則、結果などが公平でない。",
           "frequency": 9,
-          "difference": "ふざける動作より、時間の非効率な使用に意味の中心がある。",
-          "example": "Stop wasting time and get back to work.",
-          "translation": "時間を無駄にするのをやめて仕事に戻りなさい。"
+          "difference": "非難の根拠を公平性に限定し、messed up より評価軸が明確である。",
+          "example": "The new rule is unfair to part-time staff.",
+          "translation": "その新しい規則は非常勤職員に不公平だ。"
         },
         {
-          "word": "play around with",
-          "definition": "物・考えを気軽に試し、さまざまな可能性を探る",
-          "frequency": 6,
-          "difference": "mess around with より肯定的・創造的な試行錯誤を表しやすい。",
-          "example": "I’ve been playing around with a few design ideas.",
-          "translation": "いくつかのデザイン案を試しているところだ。"
-        },
-        {
-          "word": "tinker with",
-          "definition": "機械、制度、文章などに小さな変更を加えながら試す",
-          "frequency": 5,
-          "difference": "mess around with より、調整・改良しようとする意図が強い。",
-          "example": "He spent the weekend tinkering with his motorcycle.",
-          "translation": "彼は週末をオートバイの調整に費やした。"
-        },
-        {
-          "word": "goof off",
-          "definition": "仕事・勉強をせず、ふざけたり怠けたりする",
-          "frequency": 5,
-          "difference": "主にアメリカ英語で、責任を果たさずさぼることを強調する。",
-          "example": "They were caught goofing off during work hours.",
-          "translation": "彼らは勤務時間中にさぼっているところを見つかった。"
+          "word": "outrageous",
+          "definition": "常識や許容範囲を大きく外れ、強い怒りや驚きを招く。",
+          "frequency": 7,
+          "difference": "強い怒りや驚きを表す評価語で、messed up と違って改まった文脈でも使える。行為だけでなく価格や主張の途方もなさにも使う。",
+          "example": "Their treatment of the residents was outrageous.",
+          "translation": "住民に対する彼らの扱いは言語道断だった。"
         }
       ],
-      "antonyms": [
-        {
-          "word": "get down to [something]",
-          "definition": "先延ばしやふざけをやめ、真剣に課題へ取りかかる",
-          "frequency": 7,
-          "difference": "時間を無駄にする mess around に対し、仕事へ集中し始めることを表す。",
-          "example": "We need to get down to work.",
-          "translation": "私たちは仕事に本腰を入れる必要がある。"
-        },
-        {
-          "word": "focus on [something]",
-          "definition": "注意・努力を特定の課題へ集中させる",
-          "frequency": 9,
-          "difference": "無目的に行動する mess around に対し、明確な対象へ注意を向ける。",
-          "example": "Please focus on the task in front of you.",
-          "translation": "目の前の課題に集中してください。"
-        },
-        {
-          "word": "knuckle down",
-          "definition": "ふざけたり先延ばししたりせず、本気で仕事を始める",
-          "frequency": 5,
-          "difference": "mess around と行動姿勢の軸で対立する、くだけた表現。",
-          "example": "It’s time to knuckle down and revise for the exam.",
-          "translation": "そろそろ本気で試験勉強をする時間だ。"
-        }
-      ]
+      "antonyms": []
     },
     {
       "number": 13,
-      "title": "人を振り回す、不当に扱う",
+      "title": "【形容詞・叙述中心・俗語】messed up：酒・薬物でひどく酔っている、正常な判断ができない",
       "frequency": 5,
       "register": [
-        "くだけた表現。主にイギリス英語。"
+        "くだけた俗語。酒や薬物の話題で使う。医療・法律上の正確な状態を示す語ではなく、正式な場面では intoxicated などを使う。"
       ],
-      "definition": "予定を何度も変える、必要な情報を与えない、決定を先延ばしにするなどして、人を不当に待たせたり困らせたりする。単なる「からかう」より、相手の時間・期待・権利を軽く扱うことに重点がある。",
+      "definition": "酒または薬物の影響で、意識、判断、身体の動きが正常でない状態を表す俗語。単に少量飲んだ状態より強いことが多いが、具体的な酩酊度や物質は文脈による。on alcohol/drugs で原因物質を示せる。",
       "patterns": [
-        "mess + someone + around / about＝人を不当に振り回す",
-        "be + messed around / about + by + someone＝人によって振り回される",
-        "stop + messing + someone + around / about＝人を振り回すのをやめる",
-        "not let + someone + mess + one + around / about＝相手に不当に扱わせない"
+        "someone + be/get + messed up＝人が酩酊状態にある・なる",
+        "get/be messed up on + alcohol/drugs/物質名＝原因物質を示す",
+        "be too messed up to + 動詞＝酩酊がひどくて行動できない。通常は叙述用法で、really/completely/so messed up と程度修飾できる。"
       ],
       "collocations": [
         {
-          "pattern": "mess [someone] around",
-          "use": "約束・手続き・予定を何度も変え、人を困らせる",
-          "example": "The company messed us around for weeks before giving us an answer.",
-          "translation": "その会社は回答を出すまで何週間も私たちを振り回した。"
+          "pattern": "get messed up on alcohol",
+          "use": "酒でひどく酔った状態になることを表す。",
+          "example": "He used to get messed up on alcohol every weekend.",
+          "translation": "彼は以前、毎週末ひどく酒に酔っていた。"
         },
         {
-          "pattern": "mess [someone] about",
-          "use": "人を不当に待たせたり、曖昧な対応を続けたりする。特にイギリス英語",
-          "example": "I’m tired of being messed about by the bank.",
-          "translation": "銀行に振り回されるのにはうんざりしている。"
+          "pattern": "be messed up on drugs",
+          "use": "薬物の影響で意識や判断が正常でない状態を表す。",
+          "example": "She realized that he was messed up on drugs.",
+          "translation": "彼女は彼が薬物で正常でない状態だと気づいた。"
         },
         {
-          "pattern": "stop messing [someone] around",
-          "use": "不誠実・不安定な対応をやめるよう要求する",
-          "example": "Stop messing me around and tell me whether I’ve got the job.",
-          "translation": "私を振り回すのはやめて、採用されたのか教えてください。"
-        },
-        {
-          "pattern": "be messed around by [an organization]",
-          "use": "企業・役所などの対応によって時間や労力を無駄にさせられる",
-          "example": "Customers were repeatedly messed around by the airline.",
-          "translation": "顧客はその航空会社に何度も振り回された。"
+          "pattern": "be too messed up to drive",
+          "use": "酩酊がひどく、安全に運転できない状態を表す。",
+          "example": "You're too messed up to drive, so give me the keys.",
+          "translation": "ひどく酔っていて運転できる状態ではないから、鍵を渡して。"
         }
       ],
       "notes": [
-        "目的語は必ず中間に置く。正: mess me around／誤: mess around me。後者は「私の周囲でふざける」と解釈され得る。",
-        "mess someone about は特にイギリス英語で一般的。mess someone around も使われるが、地域によって自然さに差がある。",
-        "mess around with someone は「その人とふざける・性的関係を持つ」であり、mess someone around「その人を振り回す」と語順・意味が異なる。",
-        "受動態 be messed around/about が非常に自然で、企業・役所・雇用主などへの不満によく使われる。"
+        "文脈なしの He's messed up. は「精神的に混乱している」とも「酔っている」とも取れるため、必要なら on alcohol/drugs を加える。get messed up on alcohol の on は酩酊の原因を示す。薬物使用を肯定する表現ではなく、健康・安全上の状態を俗語で述べる用法である。"
       ],
       "synonyms": [
         {
-          "word": "give [someone] the runaround",
-          "definition": "はっきりした回答・行動を避け、人をあちこち回らせる",
-          "frequency": 5,
-          "difference": "特に問い合わせ・手続きで、回答を避け続けることに重点がある。",
-          "example": "The insurance company gave me the runaround for months.",
-          "translation": "保険会社は何か月も私をたらい回しにした。"
+          "word": "drunk",
+          "definition": "酒を飲んで酔っている。",
+          "frequency": 10,
+          "difference": "原因を酒に限定し、意味が最も明確で、messed up より俗語性が弱い。",
+          "example": "He was too drunk to walk straight.",
+          "translation": "彼は酔いすぎてまっすぐ歩けなかった。"
         },
         {
-          "word": "string [someone] along",
-          "definition": "本当の意図を明かさず、期待を持たせたまま相手を待たせる",
-          "frequency": 5,
-          "difference": "mess someone around より、恋愛・仕事などで虚偽の期待を持たせ続けることに重点がある。",
-          "example": "He had no intention of hiring her and was just stringing her along.",
-          "translation": "彼には彼女を雇うつもりはなく、ただ期待を持たせていた。"
+          "word": "high",
+          "definition": "主に薬物の作用で陶酔・酩酊状態にある。",
+          "frequency": 8,
+          "difference": "原因を主に薬物に限定する一方、messed up は酒にも薬物にも使え、より機能低下を強調しやすい。",
+          "example": "The driver appeared to be high.",
+          "translation": "その運転手は薬物で酩酊しているようだった。"
         },
         {
-          "word": "jerk [someone] around",
-          "definition": "約束・態度を変え、人を不当に扱う",
-          "frequency": 4,
-          "difference": "主にアメリカ英語で、mess someone around より怒り・非難が強い。",
-          "example": "I’m not going to let them jerk me around anymore.",
-          "translation": "もう彼らに振り回されるつもりはない。"
-        },
-        {
-          "word": "toy with [someone]",
-          "definition": "人の感情や期待を真剣に扱わず、もてあそぶ",
-          "frequency": 5,
-          "difference": "mess someone around より、恋愛感情・期待を意図的にもてあそぶことに重点がある。",
-          "example": "She accused him of toying with her feelings.",
-          "translation": "彼女は彼が自分の感情をもてあそんだと非難した。"
+          "word": "wasted",
+          "definition": "酒や薬物で極度に酔っている。",
+          "frequency": 7,
+          "difference": "強い俗語で、messed up より重度の酩酊を直接示すことが多い。",
+          "example": "He was completely wasted by midnight.",
+          "translation": "彼は真夜中までには完全に泥酔していた。"
         }
       ],
-      "antonyms": [
-        {
-          "word": "treat [someone] fairly",
-          "definition": "人を不当に待たせたり欺いたりせず、公平に扱う",
-          "frequency": 8,
-          "difference": "人の時間・期待を軽く扱う mess someone around と扱い方の軸で対立する。",
-          "example": "All applicants must be treated fairly.",
-          "translation": "すべての応募者を公平に扱わなければならない。"
-        },
-        {
-          "word": "deal honestly with [someone]",
-          "definition": "人に事実・意図を隠さず、誠実に対応する",
-          "frequency": 7,
-          "difference": "曖昧・不誠実な対応で振り回す行為と直接対立する。",
-          "example": "I wish they would deal honestly with us.",
-          "translation": "彼らには私たちに誠実に対応してほしい。"
-        }
-      ]
+      "antonyms": []
     },
     {
       "number": 14,
-      "title": "便を漏らして衣服を汚す",
-      "frequency": 3,
+      "title": "【句動詞・他動詞・くだけた表現】mess someone up：人の心身・生活に深刻な悪影響を与える",
+      "frequency": 6,
       "register": [
-        "くだけた婉曲表現。育児・介護・恐怖の誇張。"
+        "くだけた強い表現。心理的影響を日常会話で述べるときに多い。暴力の意味は特にアメリカ英語の俗語で、脅しに使うと攻撃的である。"
       ],
-      "definition": "排便を制御できず、便で衣服や体を汚す。乳幼児、病人、介護が必要な人などについて使われる婉曲的な口語。恐怖で「漏らしそうになった」という誇張表現にも使う。",
+      "definition": "経験、暴力、薬物、人間関係などが人に混乱、トラウマ、機能低下、けがを生じさせることを表す。心理的悪影響が中心だが、アメリカ英語の俗語では人を殴ってひどく傷つける、身体を痛めるという意味にもなる。",
       "patterns": [
-        "mess + oneself＝便を漏らして自分の衣服を汚す",
-        "have + messed + oneself＝すでに漏らしてしまっている",
-        "nearly / almost + mess + oneself＝恐怖などで漏らしそうになる",
-        "mess + one’s + pants / trousers＝ズボンの中で便を漏らす"
+        "mess + someone + up＝分離形で人に悪影響を与える",
+        "be/get messed up by + 原因＝受動態で原因を示す",
+        "mess up + 身体部位＝身体を痛める",
+        "mess someone up emotionally＝影響の領域を副詞で限定する"
       ],
       "collocations": [
         {
-          "pattern": "mess oneself",
-          "use": "乳幼児・病人などが排便を制御できず衣服を汚すことを婉曲的に表す",
-          "example": "The child had messed himself during the night.",
-          "translation": "その子は夜中に便を漏らしていた。"
+          "pattern": "mess someone up emotionally",
+          "use": "出来事や関係が人の感情・心理に長く悪影響を与えることを表す。",
+          "example": "The years of uncertainty messed him up emotionally.",
+          "translation": "何年にもわたる不安定な状況が、彼の心に深い悪影響を与えた。"
         },
         {
-          "pattern": "almost mess oneself",
-          "use": "非常に怖かった・驚いたことをくだけて誇張する",
-          "example": "I almost messed myself when the alarm suddenly went off.",
-          "translation": "警報が突然鳴ったとき、漏らしそうなほど驚いた。"
+          "pattern": "be messed up by something",
+          "use": "人が経験・薬物・暴力などによって心身の調子を崩したことを受動態で表す。",
+          "example": "She was badly messed up by the accident.",
+          "translation": "彼女はその事故でひどく参ってしまった。"
         },
         {
-          "pattern": "mess one’s pants",
-          "use": "ズボンの中で便を漏らすことを、より直接的・口語的に表す",
-          "example": "The toddler messed his pants on the way home.",
-          "translation": "その幼児は帰宅途中にズボンの中で便を漏らした。"
+          "pattern": "mess up a knee",
+          "use": "事故や運動によって膝などの身体部位を痛めることをくだけて表す。",
+          "example": "I messed up my knee playing basketball.",
+          "translation": "バスケットボールをしていて膝を痛めた。"
+        },
+        {
+          "pattern": "mess someone up in a fight",
+          "use": "主にアメリカ英語の俗語で、人を殴るなどしてひどく傷つけることを表す。",
+          "example": "He threatened to mess me up if I came back.",
+          "translation": "戻ってきたら痛い目に遭わせると、彼は私を脅した。"
         }
       ],
       "notes": [
-        "主語に合わせて myself, yourself, himself, herself, ourselves, themselves を使う。誤: He messed myself.／正: He messed himself.",
-        "通常は排便を指す。排尿を明確に表す場合は wet oneself、排便なら soil oneself がより具体的。",
-        "成人について文字どおり使うと、屈辱的・無礼に響くことがある。医療・介護では lose control of one’s bowels や have an accident の方が配慮のある場合が多い。",
-        "I nearly messed myself. は実際に漏らしたことを意味せず、「非常に怖かった」という誇張にもなる。",
-        "mess oneself up は別構文で、「自分の心身・人生を損なう」という意味になり得る。up の有無で意味が変わる。"
+        "心理的影響を表す mess someone up は幅が広く、医学的診断を意味しない。正確さが必要なら traumatize、cause anxiety、injure などを使う。代名詞は必ず中央に置き、○ mess him up、× mess up him。身体部位を目的語にする mess up my knee は「痛める」で、人を目的語にする暴力義とは区別する。脅しの I'll mess you up. は冗談でない限り危険で攻撃的に響く。"
       ],
       "synonyms": [
         {
-          "word": "have an accident",
-          "definition": "便・尿を意図せず漏らす",
+          "word": "traumatize",
+          "definition": "強い恐怖・衝撃によって長く続く心理的苦痛を与える。",
           "frequency": 6,
-          "difference": "mess oneself より婉曲的で、子ども・病人への配慮がある。",
-          "example": "The child had an accident at school.",
-          "translation": "その子は学校でお漏らしをした。"
+          "difference": "mess someone up より具体的で改まっており、深刻な心理的影響に焦点を限定する。",
+          "example": "The violent incident traumatized several witnesses.",
+          "translation": "その暴力事件は複数の目撃者に心的外傷を与えた。"
         },
         {
-          "word": "soil oneself",
-          "definition": "排泄物で自分の衣服や体を汚す",
-          "frequency": 3,
-          "difference": "mess oneself より硬く、医療・介護・報告的な文脈で使う。",
-          "example": "The patient had soiled himself.",
-          "translation": "その患者は排泄物で衣服を汚していた。"
+          "word": "damage",
+          "definition": "人の健康、能力、評判などを損なう。",
+          "frequency": 9,
+          "difference": "より中立的で正式な文脈にも使え、心理・身体・社会的損害の種類を補語で明示しやすい。",
+          "example": "Prolonged stress can damage your health.",
+          "translation": "長期的なストレスは健康を損なうことがある。"
         },
         {
-          "word": "lose control of one’s bowels",
-          "definition": "排便を制御できなくなる",
-          "frequency": 4,
-          "difference": "より具体的・医学的で、排尿には使わない。",
-          "example": "Some patients temporarily lose control of their bowels after surgery.",
-          "translation": "一部の患者は手術後、一時的に排便を制御できなくなる。"
+          "word": "beat up",
+          "definition": "人を繰り返し殴ってけがをさせる。",
+          "frequency": 7,
+          "difference": "暴力行為を直接表し、心理的悪影響や身体部位の故障には使わない。",
+          "example": "The attackers beat him up and stole his phone.",
+          "translation": "襲撃者たちは彼を殴り、携帯電話を奪った。"
         }
       ],
       "antonyms": []
     },
     {
       "number": 15,
-      "title": "共同食堂で食事をする、食事集団を作る",
-      "frequency": 2,
+      "title": "【句動詞・他動詞・くだけた表現】mess with：いじる、干渉する、関わる；挑発する；からかう",
+      "frequency": 8,
       "register": [
-        "軍事・海事・歴史的・制度的文脈。"
+        "くだけた会話表現。Don't mess with me. は警告・威嚇にもなり得る。物をいじる意味はアメリカ英語で特に一般的だが、他地域でも理解される。"
       ],
-      "definition": "軍隊・船などで、特定の食事集団の一員として共同で食事をする。また、軍人などに共同食堂で食事を提供する。現代の日常英語では非常に限定的な用法である。",
+      "definition": "物に不用意な変更を加える、人の事柄へ余計に介入する、危険な物事と関わる、人を挑発して争いを起こす、または嘘・冗談で人をからかうことを表す。目的語と状況によって中心訳が変わるが、「対象に手を出して、本来の状態や相手の平静を乱す」という共通核がある。",
       "patterns": [
-        "mess + with + [unit / officers]＝その部隊・人々と共同で食事をする",
-        "mess + in + [place]＝その共同食堂で食事をする",
-        "mess + together＝同じ集団として共同で食事をする",
-        "mess + [military personnel]＝軍人などに共同の食事を提供する。まれ"
+        "mess with + 物＝いじる・変更する",
+        "mess with + 人・制度＝干渉する・挑発する",
+        "mess with + 危険な物事＝不用意に関わる",
+        "be just messing with + 人＝冗談でからかう",
+        "mess with someone's head/mind＝人を意図的または結果的に混乱させる"
       ],
       "collocations": [
         {
-          "pattern": "mess with [a unit]",
-          "use": "特定の部隊・集団と共同で食事をする",
-          "example": "The visiting officers messed with the local regiment.",
-          "translation": "訪問中の将校たちは現地の連隊と共同で食事をした。"
+          "pattern": "mess with the settings",
+          "use": "設定や装置に、不用意または試行的な変更を加えることを表す。",
+          "example": "Don't mess with the settings unless you know what they do.",
+          "translation": "機能が分からないなら設定をいじらないで。"
         },
         {
-          "pattern": "mess in [a separate building]",
-          "use": "指定された軍の食堂・建物で食事をする",
-          "example": "Junior officers messed in a separate building.",
-          "translation": "下級将校たちは別棟で食事をした。"
+          "pattern": "mess with someone",
+          "use": "人に嫌がらせをする、挑発する、争いを仕掛けることを表す。",
+          "example": "People quickly learn not to mess with her.",
+          "translation": "彼女にはちょっかいを出さない方がよいと、皆すぐに学ぶ。"
         },
         {
-          "pattern": "mess together",
-          "use": "同じ食事集団を作り、共同で食事をする",
-          "example": "The two crews messed together during the voyage.",
-          "translation": "その2組の乗組員は航海中、共同で食事をした。"
+          "pattern": "be just messing with someone",
+          "use": "本気ではなく、嘘や誇張を言って相手をからかっていると明かす。",
+          "example": "Relax—I'm just messing with you.",
+          "translation": "落ち着いて。からかっているだけだよ。"
+        },
+        {
+          "pattern": "mess with someone's head",
+          "use": "人を意図的に混乱・不安にさせる、または経験が結果的にそうさせることを表す。",
+          "example": "Constantly changing the rules can mess with your head.",
+          "translation": "規則が絶えず変わると、頭が混乱しかねない。"
+        },
+        {
+          "pattern": "mess with dangerous chemicals",
+          "use": "危険な物質・薬物・人物などへ不用意に関わることを表す。",
+          "example": "Children should never mess with dangerous chemicals.",
+          "translation": "子どもは危険な化学物質に決して手を出してはいけない。"
         }
       ],
       "notes": [
-        "この動詞用法は現代の一般会話ではほとんど使わず、軍事史・軍隊内部・海事の文脈に限られる。",
-        "軍事用法の mess with a regiment は「連隊と食事を共にする」だが、一般口語では「連隊に干渉する、連隊を敵に回す」と解釈され得る。文脈が不可欠である。",
-        "日常的な「一緒に食事をする」には eat with, dine with, have a meal with を使う。",
-        "他動詞の「食事を提供する」はさらにまれで、通常は provide meals for, feed の方が明確である。"
+        "mess with + 目的語 の構文では with は省略できない。ただし、主にイギリス英語の固定表現 be just/only messing は目的語を置かず、「冗談を言っているだけ・からかっているだけ」を表す（I'm only messing—of course you can come.＝「からかっているだけだよ。もちろん来ていいよ」）。Don't mess with me. は「私をからかわないで」にも「私にけんかを売るな」にもなり、口調と状況で強さが決まる。冗談であることを明示する I'm just messing with you. は一般的だが、相手が傷ついている場面では軽く扱う響きになることがある。mess with the settings は「いじる」であり、必ず壊すことまでは含意しない。mess with someone's head は口語的で、正式には具体的な心理的影響を述べる。"
       ],
       "synonyms": [
         {
-          "word": "eat with",
-          "definition": "人と一緒に食事を取る",
-          "frequency": 9,
-          "difference": "最も一般的で中立的。軍隊の所属集団という含意はない。",
-          "example": "I usually eat with my colleagues.",
-          "translation": "私は普段、同僚たちと食事をする。"
-        },
-        {
-          "word": "dine with",
-          "definition": "人と一緒に食事をする",
+          "word": "tamper with",
+          "definition": "許可なく物・証拠・機器などへ変更を加える。",
           "frequency": 6,
-          "difference": "eat with より改まっており、軍事制度上の意味はない。",
-          "example": "We dined with the ambassador that evening.",
-          "translation": "私たちはその晩、大使と食事をした。"
+          "difference": "不正・危険・無断という含意が mess with より明確で、警告文や法的文脈にも使う。",
+          "example": "Do not tamper with the smoke detector.",
+          "translation": "煙感知器を勝手にいじらないでください。"
         },
         {
-          "word": "have a meal with",
-          "definition": "人と一回の食事を共にする",
+          "word": "meddle with",
+          "definition": "自分に関係のない事柄へ余計に介入する。",
+          "frequency": 5,
+          "difference": "人の問題へのおせっかいな干渉を明示し、物を試しに調整する中立的な用法には向かない。",
+          "example": "He was accused of meddling with the investigation.",
+          "translation": "彼は捜査に余計な介入をしたとして非難された。"
+        },
+        {
+          "word": "fiddle with",
+          "definition": "物を何度も触ったり、小さな調整を加えたりする。",
+          "frequency": 6,
+          "difference": "物を手でいじる・微調整する意味に強く、人を挑発する意味はない。",
+          "example": "She fiddled with the controls until the sound improved.",
+          "translation": "音が良くなるまで、彼女は操作部をあれこれ調整した。"
+        },
+        {
+          "word": "tease",
+          "definition": "冗談や軽い意地悪で人をからかう。",
           "frequency": 8,
-          "difference": "日常的で意味が明確だが、継続的な所属食事集団は示さない。",
-          "example": "We had a meal with our hosts.",
-          "translation": "私たちは受け入れ先の人々と食事をした。"
+          "difference": "からかう意味を直接表し、物への干渉や危険なものとの関わりは表さない。",
+          "example": "They teased him about his new haircut.",
+          "translation": "彼らは彼の新しい髪型をからかった。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 16,
+      "title": "【句動詞・自動詞・くだけた表現】mess around/about：ふざける、だらだらする、時間を無駄にする；気ままに遊ぶ",
+      "frequency": 7,
+      "register": [
+        "くだけた会話表現。mess about はイギリス英語、mess around はアメリカ英語で特に一般的だが、どちらも広く理解される。恋愛・性的意味は文脈依存である。"
+      ],
+      "definition": "mess around または主にイギリス英語の mess about は、目的なくふざける、真剣に取り組まずだらだらと時間を使うことを表す。また、特に目標を決めず、気ままに遊んで楽しく過ごすという中立的な意味でも使う。この項目は目的語を取らない自動詞用法である。with + 物・人 を伴う構文や、人を中央に置く mess someone around/about は後続の別項目で扱う。",
+      "patterns": [
+        "mess around/about＝ふざける・だらだらする・気ままに遊ぶ",
+        "stop messing around/about＝ふざけるのをやめる",
+        "mess around/about instead of + -ing＝すべきことをせず時間を無駄にする",
+        "spend time messing around/about＝ふざけたり気ままに遊んだりして時間を過ごす"
+      ],
+      "collocations": [
+        {
+          "pattern": "stop messing around",
+          "use": "ふざけたり時間を無駄にしたりするのをやめるよう命じる。",
+          "example": "Stop messing around and finish your homework.",
+          "translation": "ふざけていないで宿題を終えなさい。"
+        },
+        {
+          "pattern": "mess about instead of working",
+          "use": "主にイギリス英語で、仕事をせずにだらだら過ごすことを表す。",
+          "example": "They spent the afternoon messing about instead of working.",
+          "translation": "彼らは仕事をせず、午後をだらだら過ごした。"
+        },
+        {
+          "pattern": "not mess around/about",
+          "use": "否定形で、ぐずぐずせず迅速・手際よく行動することを肯定的に評価する。",
+          "example": "The repair team doesn't mess around—they had the heating working again within an hour.",
+          "translation": "その修理チームは仕事が早い。1時間もしないうちに暖房を使えるようにしてくれた。"
+        },
+        {
+          "pattern": "spend time messing around",
+          "use": "気ままに遊んで時間を過ごすという、必ずしも否定的でない用法を示す。",
+          "example": "The children spent the afternoon messing around in the garden.",
+          "translation": "子どもたちは午後、庭で気ままに遊んで過ごした。"
+        }
+      ],
+      "notes": [
+        "ここでは目的語を取らない。否定形 not mess around/about は、文脈によって単に「ふざけない」ではなく「ぐずぐずしない・手際よくやる」という肯定的評価になる。物を続けるなら mess around/about with something、恋愛・性的な相手を示すなら mess around with someone とし、いずれも後続項目の別フレームである。また「人を振り回す」は mess someone around/about と直接目的語を中央に置く。mess about in boats は「ボートで気ままに遊ぶ」のようなイギリス英語的表現で、about と around の選択には地域差と個人差がある。"
+      ],
+      "synonyms": [
+        {
+          "word": "fool around",
+          "definition": "真剣に取り組まず、ふざけたり無駄に時間を使ったりする。",
+          "frequency": 7,
+          "difference": "mess around に非常に近いアメリカ英語の口語で、恋愛・性的関係の含意を持つこともある。",
+          "example": "The students were fooling around in the hallway.",
+          "translation": "生徒たちは廊下でふざけていた。"
+        },
+        {
+          "word": "play around",
+          "definition": "気軽に試す、または真剣でない態度で楽しむ。",
+          "frequency": 7,
+          "difference": "実験的に試す意味では mess around より否定的評価が弱く、創作・設定変更にも使いやすい。",
+          "example": "I played around with several color combinations.",
+          "translation": "私はいくつかの色の組み合わせを気軽に試した。"
+        },
+        {
+          "word": "waste time",
+          "definition": "有益な結果につながらないことに時間を使う。",
+          "frequency": 9,
+          "difference": "時間損失を直接述べ、ふざける行動や物を試す意味は含まない。",
+          "example": "We wasted time arguing about minor details.",
+          "translation": "私たちは細部について言い争い、時間を無駄にした。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 17,
+      "title": "【句前置詞動詞・自動詞・くだけた表現】mess around/about with something：物をいじる、あれこれ試す",
+      "frequency": 7,
+      "register": [
+        "くだけた日常語。mess about with は主にイギリス英語、mess around with は特にアメリカ英語で一般的。創作、機械操作、設定変更などに使う。"
+      ],
+      "definition": "機械、設定、素材、考え、デザインなどを、明確な手順や完成形を決めずに触ったり変えたりして試す。好奇心からの気軽な試行にも、不用意な操作への軽い非難にも使える。目的物は with の後ろに置く。",
+      "patterns": [
+        "mess around/about with + something＝物をいじる・試す",
+        "spend time messing around/about with + something＝物をあれこれ試して時間を過ごす。with は省略できず、目的語を mess と around/about の間には置かない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "mess around with a new design",
+          "use": "完成形を決めず、デザインを試行錯誤することを表す。",
+          "example": "I spent the weekend messing around with a new design.",
+          "translation": "私は週末、新しいデザインをあれこれ試して過ごした。"
+        },
+        {
+          "pattern": "mess about with the controls",
+          "use": "主にイギリス英語で、操作部を目的なく、または不用意にいじることを表す。",
+          "example": "Don't mess about with the controls while the machine is running.",
+          "translation": "機械が動いている間は操作部をいじらないで。"
+        },
+        {
+          "pattern": "mess around with the layout",
+          "use": "配置や構成を気軽に変えながら試すことを表す。",
+          "example": "We messed around with the layout but eventually went back to the original design.",
+          "translation": "私たちはレイアウトをあれこれ変えてみたが、結局は元のデザインに戻した。"
+        }
+      ],
+      "notes": [
+        "mess around with something は「試しにいじる」が中心で、mess with something は「勝手に変更する・干渉する」という否定的な含意がより強くなりやすい。人を直接目的語にして「振り回す」と言うときは mess someone around/about であり、× mess around someone ではない。人との性的関係を表す mess around with someone は次項で扱う。ただし、人が with の後ろに来ても、必ず性的意味になるわけではなく、一緒にふざける・相手をからかう意味にもなり得る。"
+      ],
+      "synonyms": [
+        {
+          "word": "tinker with",
+          "definition": "機械、仕組み、計画などに小さな変更を加えながら試す。",
+          "frequency": 6,
+          "difference": "mess around with より、改善や調整を意図した細かな作業を示しやすい。",
+          "example": "She spent the evening tinkering with the program.",
+          "translation": "彼女は夜をそのプログラムの細かな調整に費やした。"
+        },
+        {
+          "word": "experiment with",
+          "definition": "結果を確かめるため、方法、材料、考えなどを試す。",
+          "frequency": 7,
+          "difference": "より中立的で目的意識があり、mess around with の「気軽に・行き当たりばったりに」という含意が弱い。",
+          "example": "The chef experimented with several spices.",
+          "translation": "その料理人はいくつかの香辛料を試した。"
+        },
+        {
+          "word": "play around with",
+          "definition": "遊びや試行として、選択肢、設定、考えなどを気軽に変えてみる。",
+          "frequency": 7,
+          "difference": "mess around with より肯定的・創造的に響きやすく、不用意にいじるという非難が弱い。",
+          "example": "Try playing around with the font size.",
+          "translation": "フォントサイズをいろいろ変えて試してみて。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 18,
+      "title": "【句動詞／句前置詞動詞・自動詞・くだけた表現】mess around (with someone)：性的関係を持つ、浮気する",
+      "frequency": 6,
+      "register": [
+        "くだけた会話表現。恋愛・不貞について間接的に述べる婉曲的な言い方で、明示性は have sex with より低い。"
+      ],
+      "definition": "人と性的関係を持つことをくだけて表す。特に、恋人・配偶者以外の相手との関係など、不適切だとみなされる関係について使われやすいが、不貞を必ず意味するわけではない。with someone を省略して性的な行動を表すこともあり、イギリス英語では mess about (with someone) も使う。人を with の後ろに置いても、文脈によっては単に一緒にふざける・からかう意味になる。",
+      "patterns": [
+        "mess around (with + someone)＝性的関係を持つ（with の後ろに相手を示せる）",
+        "be messing around with someone else＝交際相手以外の人と関係を持っている",
+        "be caught/deny + messing around with someone＝関係を発見される・否定する。人は with の後ろに置く。"
+      ],
+      "collocations": [
+        {
+          "pattern": "mess around with someone else",
+          "use": "交際相手以外の人と恋愛・性的関係を持つことを表す。",
+          "example": "She ended the relationship because he was messing around with someone else.",
+          "translation": "彼が別の人と関係を持っていたため、彼女は交際を終わらせた。"
+        },
+        {
+          "pattern": "be caught messing around with someone",
+          "use": "秘密の関係を持っているところを発見されることを表す。",
+          "example": "He was caught messing around with a coworker.",
+          "translation": "彼は同僚と関係を持っているところを見つかった。"
+        },
+        {
+          "pattern": "deny messing around with someone",
+          "use": "特定の人と恋愛・性的関係を持ったという疑いを否定する。",
+          "example": "He denied messing around with anyone at work.",
+          "translation": "彼は職場の誰とも関係を持っていないと否定した。"
+        }
+      ],
+      "notes": [
+        "この性的用法では、mess around with someone の with の後ろの人が「関係を持つ相手」である。これに対し mess someone around/about は人を mess と小辞の間に置き、「その人を振り回す」という意味になる。性的な文脈の mess around with Alex と mess Alex around では、語順によって相手の役割と意味が変わる。性的意味を避けて「一緒にふざける」と明確に言うなら joke around with someone が安全である。"
+      ],
+      "synonyms": [
+        {
+          "word": "have an affair with",
+          "definition": "配偶者・交際相手以外の人と継続的な恋愛・性的関係を持つ。",
+          "frequency": 7,
+          "difference": "mess around with より関係の継続性と不貞を明確に示す。",
+          "example": "He had an affair with a colleague.",
+          "translation": "彼は同僚と不倫関係を持った。"
+        },
+        {
+          "word": "cheat on",
+          "definition": "配偶者・交際相手を裏切って別の人と恋愛・性的関係を持つ。",
+          "frequency": 8,
+          "difference": "目的語は関係を持つ相手ではなく、裏切られる現在のパートナーである点が異なる。",
+          "example": "She discovered that her husband had cheated on her.",
+          "translation": "彼女は夫が自分を裏切って浮気していたことを知った。"
+        },
+        {
+          "word": "sleep with",
+          "definition": "人と性交渉を持つ。",
+          "frequency": 8,
+          "difference": "性的関係を直接示すが、不貞や継続性はそれ自体では含意しない。",
+          "example": "He denied sleeping with anyone else.",
+          "translation": "彼はほかの誰かと性的関係を持ったことを否定した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 19,
+      "title": "【句動詞・他動詞・主に英・くだけた表現】mess someone around/about：人を振り回す、不当に待たせる",
+      "frequency": 5,
+      "register": [
+        "主にイギリス英語のくだけた表現。mess about を使う地域では mess someone about も用いる。アメリカ英語では jerk someone around などが近い。"
+      ],
+      "definition": "約束を守らない、予定や条件を何度も変える、必要な情報を出さない、不誠実な対応を続けるなどして、人に時間・労力・不安を負わせる。直接目的語の人は mess と around/about の間に置く。",
+      "patterns": [
+        "mess + someone + around/about＝人を振り回す",
+        "be messed around/about by + 人・組織＝人・組織に振り回される",
+        "stop messing someone around/about＝人を振り回すのをやめる。代名詞も必ず中央に置き、with は使わない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "mess someone around for weeks",
+          "use": "長期間、回答や対応を引き延ばして人を振り回すことを表す。",
+          "example": "The agency messed us around for weeks before giving a clear answer.",
+          "translation": "その機関は明確な回答を出すまで何週間も私たちを振り回した。"
+        },
+        {
+          "pattern": "stop messing me about",
+          "use": "主にイギリス英語で、不誠実な扱いや度重なる変更をやめるよう求める。",
+          "example": "Stop messing me about and tell me whether I have the job.",
+          "translation": "私を振り回すのはやめて、採用なのかどうか教えてください。"
+        },
+        {
+          "pattern": "be messed around by a company",
+          "use": "会社の不手際や不誠実な対応によって迷惑を受けることを受動態で表す。",
+          "example": "Customers felt they had been messed around by the company.",
+          "translation": "顧客たちはその会社に振り回されたと感じていた。"
+        }
+      ],
+      "notes": [
+        "mess someone around/about は「人」を直接目的語として中央に置く。mess around with someone は、人を with の後ろに置き、文脈に応じて「その人と性的関係を持つ」「一緒にふざける」「からかう」などの別義になる。したがって They messed him around. は「彼らは彼を振り回した」、They messed around with him. は文脈により「彼と関係を持った／彼とふざけた」であり、同じ意味ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "jerk someone around",
+          "definition": "くだけた表現で、人を不誠実に扱い、待たせたり振り回したりする。",
+          "frequency": 5,
+          "difference": "mess someone around よりアメリカ英語的で、相手への不当な扱いを強く非難する。",
+          "example": "The company jerked applicants around for months.",
+          "translation": "その会社は何か月も応募者を振り回した。"
+        },
+        {
+          "word": "give someone the runaround",
+          "definition": "回答や解決を避け、たらい回しにして人の時間を浪費させる。",
+          "frequency": 5,
+          "difference": "特に問い合わせ・手続きで明確な回答を与えない状況に焦点がある。",
+          "example": "The insurer gave us the runaround for days.",
+          "translation": "保険会社は何日も私たちをたらい回しにした。"
+        },
+        {
+          "word": "string someone along",
+          "definition": "本当の意図を明かさず、期待を持たせたまま人を待たせる。",
+          "frequency": 5,
+          "difference": "mess someone around より、見込みがあると思わせて意図的に引き延ばすことを強調する。",
+          "example": "They strung him along with promises of a promotion.",
+          "translation": "彼らは昇進をほのめかして彼を期待させ続けた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 20,
+      "title": "【固定表現・主に英・くだけた表現】no messing：ふざけなし、無駄なし；難なく、手際よく",
+      "frequency": 3,
+      "register": [
+        "主にイギリス英語のくだけた表現。見出し・会話・スポーツ評などで簡潔に強調するときに使う。"
+      ],
+      "definition": "冗談、ためらい、手加減、面倒な手続きなどがなく、真剣・直接的・迅速であることを表す短い固定表現。何を排除しているかは文脈によって変わり、命令としての「ふざけるな」に近い場合も、人物・方法のきっぱりした性質を評する場合もある。また、完了した行動に添えて「難なく・手際よく成し遂げた」と強調する用法がある。",
+      "patterns": [
+        "独立した No messing.＝「ふざけるな・無駄はなし」",
+        "名詞句 + and no messing＝その方針をきっぱり要求する",
+        "文 + , no messing＝難なく・手際よくできたと強調する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "hard work and no messing",
+          "use": "努力を求め、ふざけや怠慢を許さない方針を短く表す。",
+          "example": "The new coach expects hard work and no messing.",
+          "translation": "新しいコーチは懸命な努力を求め、ふざけることを許さない。"
+        },
+        {
+          "pattern": "No messing",
+          "use": "単独で、冗談やためらいをやめて真剣に行動するよう求める。",
+          "example": "No messing—we need to leave in five minutes.",
+          "translation": "ふざけている場合じゃない。5分後には出発しないといけない。"
+        },
+        {
+          "pattern": "no messing（完了した行動に添える）",
+          "use": "何かを容易に、滞りなく成し遂げたことを強調する。",
+          "example": "We got everything packed before lunch, no messing.",
+          "translation": "昼食前にすべての荷造りができた。手間取らずに済んだ。"
+        }
+      ],
+      "notes": [
+        "この messing は動作を表す普通の進行形ではなく、「ふざけ・無駄・面倒」をまとめて指す名詞的な固定用法である。アメリカ英語で同じ意図を明確に伝えるなら、文脈に応じて no fooling around、no nonsense、no kidding などを使う方が自然なことが多い。完了した行動に添える用法では without any fuss や with no trouble も近い。"
+      ],
+      "synonyms": [
+        {
+          "word": "no fooling around",
+          "definition": "ふざけたり時間を無駄にしたりすることを許さない。",
+          "frequency": 6,
+          "difference": "no messing より地域差が小さく、禁止される行動が「ふざけ」であることを明確にする。",
+          "example": "There will be no fooling around during the safety drill.",
+          "translation": "安全訓練中にふざけることは許されない。"
+        },
+        {
+          "word": "no-nonsense",
+          "definition": "無駄話、言い訳、複雑な手続きなどを排して実際的・直接的である。",
+          "frequency": 6,
+          "difference": "no messing より「実務的で要点を外さない」という人物・方法への評価に使いやすい。",
+          "example": "She takes a no-nonsense approach to management.",
+          "translation": "彼女は経営に実務的で無駄のない姿勢で臨む。"
+        },
+        {
+          "word": "no kidding",
+          "definition": "冗談ではないことを示す、または驚きへの強い同意を表す。",
+          "frequency": 8,
+          "difference": "アメリカ英語で一般的だが、時間の無駄や手加減まで排除する no messing より意味が狭い。",
+          "example": "No kidding—this warning is serious.",
+          "translation": "冗談ではない。この警告は深刻だ。"
         }
       ],
       "antonyms": []
