@@ -1,0 +1,118 @@
+{
+  "word": "mainly",
+  "slug": "mainly",
+  "ipa": "米: /ˈmeɪnli/｜英: /ˈmeɪnli/",
+  "lead": "全体の大部分を占めるもの、または主な理由・対象・用途を示す。行動や習慣については「たいていは」の意味でも使う。他の要素を排除する語ではなく、その残りが必ずごく少量であるという意味でもない。",
+  "updated": "2026-09-30",
+  "notion_url": "https://app.notion.com/p/mainly-3804faa9b77d81b086fbc292bee1bef3",
+  "pronunciation": [
+    "第1音節 main /meɪn/ に強勢がある。",
+    "語末 -ly は弱く /li/ と発音する。"
+  ],
+  "etymology": [
+    "main は古英語 mægen「力、強さ」に関係し、後に「主要な、中心的な」という意味を発達させた。",
+    "mainly は main + -ly から作られ、「主要な部分として、主として」を表す副詞である。",
+    "関連語には main（主要な）、mainstream（主流）、mainstay（支柱、頼みの綱）、mainline（幹線）がある。",
+    "共通コアは「中心・主要部分に属する」という発想で、全体の中で最も大きい理由や割合を示す。"
+  ],
+  "formation": [
+    {
+      "term": "main",
+      "description": "+ -ly — 形容詞 main「主要な」に副詞を作る接尾辞 -ly を付けた形。"
+    },
+    {
+      "term": "main（形容詞）—",
+      "description": "主要な、中心となる。"
+    },
+    {
+      "term": "mainstream（名詞/形容詞）—",
+      "description": "主流、主流の。"
+    },
+    {
+      "term": "mainstay（名詞）—",
+      "description": "支えとなるもの、人。"
+    }
+  ],
+  "core": [],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【副詞】主に、大部分は、たいていは。",
+      "frequency": 9,
+      "register": [
+        "一般語。会話、説明、ビジネス、学術で広く使える。"
+      ],
+      "definition": "全体の大部分を占めるもの、または主な理由・対象・用途を示す。行動や習慣については「たいていは」の意味でも使う。他の要素を排除する語ではなく、その残りが必ずごく少量であるという意味でもない。",
+      "patterns": [
+        "一般動詞の前（They mainly sell books.）、be動詞の後（The visitors are mainly students.）、助動詞と本動詞の間（The room is mainly used for training.）などに置く。特定の要素に焦点を当てるときはその直前にも置く（We sell books mainly online.）。mainly because + 節",
+        "mainly due to + 名詞句。"
+      ],
+      "collocations": [
+        {
+          "pattern": "mainly because + 節",
+          "use": "主な理由を示す。",
+          "example": "I chose the apartment mainly because it was close to work.",
+          "translation": "そのアパートを選んだ主な理由は職場に近かったことだ。"
+        },
+        {
+          "pattern": "mainly due to + 名詞",
+          "use": "主な原因をやや硬く述べる。",
+          "example": "Sales fell mainly due to weak demand.",
+          "translation": "売上は主に需要の弱さが原因で落ちた。"
+        },
+        {
+          "pattern": "mainly used for + 名詞",
+          "use": "主な用途を示す。",
+          "example": "The room is mainly used for training.",
+          "translation": "その部屋は主に研修に使われている。"
+        },
+        {
+          "pattern": "mainly consists of + 名詞",
+          "use": "構成の大部分を示す。",
+          "example": "The diet mainly consists of rice and vegetables.",
+          "translation": "その食事は主に米と野菜で構成されている。"
+        }
+      ],
+      "notes": [
+        "mainly は主な部分や理由を示し、only のように他の可能性を排除しない。mostly とも大きく意味が重なり、両語に一定の割合の境界はない。「ほぼすべて」を明確に言うなら almost all などを使う。primarily は「主として」という意味で使え、文脈によっては「第一に」という重要性も示す。mainly を置く位置によって、何が「主」であるかが変わる。"
+      ],
+      "synonyms": [
+        {
+          "word": "mostly",
+          "definition": "大部分は、ほとんどは。",
+          "frequency": 9,
+          "difference": "mostly は割合の大きさに焦点があり、mainly は主な理由・用途・焦点にも使いやすい。",
+          "example": "The audience was mostly students.",
+          "translation": "聴衆の大半は学生だった。"
+        },
+        {
+          "word": "primarily",
+          "definition": "第一に、主として。",
+          "frequency": 7,
+          "difference": "primarily はやや硬い語で、主な目的や重要性を述べる場面でも使う。ただし、mainly と同じく、単に大部分を示すこともある。",
+          "example": "The tool is primarily designed for teachers.",
+          "translation": "そのツールは主に教師向けに設計されている。"
+        },
+        {
+          "word": "largely",
+          "definition": "大部分は、主として。",
+          "frequency": 7,
+          "difference": "largely は割合や程度を示し、形容詞と組み合わせて「おおむね〜だ」と述べるときにも使う。",
+          "example": "The project was largely successful.",
+          "translation": "そのプロジェクトはおおむね成功した。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "partly",
+          "definition": "部分的に、一部は。",
+          "frequency": 8,
+          "difference": "同じ原因や構成について、mainly は主な部分、partly は一部を示す。ただし、partly だけではその部分が小さいとは限らず、厳密な反意語ではない。",
+          "example": "The delay was partly my fault.",
+          "translation": "遅れは部分的には私の責任だった。"
+        }
+      ]
+    }
+  ]
+}
