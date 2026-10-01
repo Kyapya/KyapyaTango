@@ -3,7 +3,7 @@
   "slug": "distinct",
   "ipa": "米・英: /dɪˈstɪŋkt/。2音節の dɪ-STINGKT で、第2音節に主強勢がある。第1音節は弱い /dɪ/、第2音節の母音は /ɪ/ で、語末は /ŋ/・/k/・/t/ が連続する /ŋkt/ である。",
   "lead": "二つ以上の物、種類、考え、段階、役割などが同一ではなく、それぞれ独立して区別できることを表す。単に小さな差があるというより、分類・同一性・役割の境界を引けることが中心である。ただし、物理的に離れていることや相互に無関係であることまでは必ずしも意味しない。",
-  "updated": "2026-08-25",
+  "updated": "2026-10-01",
   "notion_url": "https://app.notion.com/p/distinct-3c74faa9b77d8164b813ed507b3e3b11",
   "pronunciation": [
     "語頭を /dɪs/ と切って強く読まず、/s/ は強勢のある第2音節の /st/ の一部として発音する。語末の3子音は学習者には難しいが、丁寧な発音では /k/ と /t/ を意識する。副詞 distinctly は /dɪˈstɪŋktli/ で、主強勢を保ったまま /li/ が加わる。"
@@ -53,7 +53,7 @@
     },
     {
       "label": "程度や存在がほかに埋もれない状態",
-      "description": "→ 「明らかな、はっきり認められる」（語義3）"
+      "description": "→ 「明らかな、はっきり認められる、格別な」（語義3）"
     },
     {
       "label": "値の同一性がほかに埋もれない状態",
@@ -213,7 +213,7 @@
         },
         {
           "pattern": "a distinct memory",
-          "use": "過去の場面や出来事を曖昧にではなく、細部を伴って明確に覚えていることを表す。",
+          "use": "過去の場面や出来事を曖昧にではなく、はっきり覚えていることを表す。細部を豊富に覚えていることまでは必須ではない。",
           "example": "I have a distinct memory of locking the back door.",
           "translation": "私には裏口に鍵を掛けたというはっきりした記憶がある。"
         },
@@ -225,7 +225,14 @@
         }
       ],
       "notes": [
-        "この語義のdistinctは、知覚できる「特徴」があることを示すが、その特徴が珍しい、魅力的、またはその対象だけに固有だとは限らない。a distinct accent はアクセントが明瞭に聞き取れることを表し得るのに対し、a distinctive accent はほかと見分ける目印になる独特のアクセントを表す。clear は障害や曖昧さがなく理解・知覚しやすいことを広く表す。distinct は輪郭や特徴を一つのものとして取り出せることを強調する。画像については clear image が自然な一般表現であり、distinct outline のように識別対象を示すとdistinctの意味が明確になる。"
+        "この語義のdistinctは、知覚できる「特徴」があることを示すが、その特徴が珍しい、魅力的、またはその対象だけに固有だとは限らない。a distinct accent はアクセントが明瞭に聞き取れることを表し得るのに対し、a distinctive accent はほかと見分ける目印になる独特のアクセントを表す。clear は障害や曖昧さがなく理解・知覚しやすいことを広く表す。distinct は輪郭や特徴を一つのものとして取り出せることを強調する。画像については clear image が自然な一般表現であり、distinct outline のように識別対象を示すとdistinctの意味が明確になる。",
+        "対照表現として、刺激の強さを述べる faint と区別する。明瞭さとは別の軸なので、直接の反意語ではない。",
+        "faint",
+        "定義: 音、光、匂い、印などが弱く、知覚しにくい。",
+        "頻度: 〈8/10〉",
+        "違い: faint は刺激の弱さを中心にする。distinct は識別の明瞭さを中心にするため、弱くても輪郭を見分けられる音や印はfaint but distinctと表せる。",
+        "例: We heard a faint noise from upstairs.",
+        "訳: 私たちは上の階からかすかな物音を聞いた。"
       ],
       "synonyms": [
         {
@@ -248,7 +255,7 @@
           "word": "discernible",
           "definition": "注意すれば知覚・認識できる程度に見分けられる。",
           "frequency": 4,
-          "difference": "discernible は「辛うじてでも識別可能か」という閾値を意識させ、しばしば形式的である。distinct は通常、特徴がより明瞭に現れていることを示す。",
+          "difference": "discernible は「辛うじてでも識別可能か」という閾値を意識させ、しばしば改まった表現である。distinct は通常、特徴がより明瞭に現れていることを示す。",
           "example": "A faint pattern was discernible beneath the top layer of paint.",
           "translation": "上塗りの下に、かすかな模様が見分けられた。"
         },
@@ -258,7 +265,7 @@
           "frequency": 6,
           "difference": "unmistakable は誤認の余地がないという強い程度を表す。distinct は明瞭さを表すが、常にそこまで絶対的ではない。",
           "example": "His voice has an unmistakable warmth.",
-          "translation": "彼の声には、聞き違えようのない温かみがある。"
+          "translation": "彼の声には、はっきりと感じられる温かみがある。"
         },
         {
           "word": "vivid",
@@ -279,14 +286,6 @@
           "translation": "遠くの人影はぼんやりしていた。"
         },
         {
-          "word": "faint",
-          "definition": "音、光、匂い、印などが弱く、知覚しにくい。",
-          "frequency": 8,
-          "difference": "faint は刺激の弱さを中心にする。distinct は識別の明瞭さを中心にするため、弱くても輪郭を見分けられる音や印はfaint but distinctと表せる。",
-          "example": "We heard a faint noise from upstairs.",
-          "translation": "私たちは上の階からかすかな物音を聞いた。"
-        },
-        {
           "word": "blurred",
           "definition": "像・境界・記憶などの輪郭がにじみ、明瞭でない。",
           "frequency": 7,
@@ -298,17 +297,18 @@
     },
     {
       "number": 3,
-      "title": "【形容詞・主に限定】明らかな、はっきり認められる",
+      "title": "【形容詞・主に限定】明らかな、はっきり認められる、格別な",
       "frequency": 8,
       "register": [
         "標準語。会話、報道、ビジネス、評論で広く使う。distinct possibility、distinct advantage、distinct impression は定着度が高い。"
       ],
-      "definition": "可能性、印象、利点、変化、傾向、不足などが、無視できないほどはっきり存在する、または認められることを表す。知覚対象の輪郭ではなく、程度・存在・判断が明白であることが中心である。a distinct possibility は現実に考慮すべき可能性を示すが、必ず起こることまでは意味しない。",
+      "definition": "可能性、印象、利点、変化、傾向、不足などが、無視できないほどはっきり存在する、または認められることを表す。知覚対象の輪郭ではなく、程度・存在・判断が明白であることが中心である。a distinct possibility は現実に考慮すべき可能性を示すが、必ず起こることまでは意味しない。名誉・貢献などについては「格別な・際立った」という評価を強めることもある。",
       "patterns": [
         "a distinct 〈possibility/chance/risk〉＝はっきり存在する〈可能性・見込み・危険〉",
         "a distinct 〈advantage/disadvantage/improvement/change〉＝明白な〈利点・不利・改善・変化〉",
         "have/get the distinct impression that 〈節〉＝〜だという強い印象を持つ",
-        "show a distinct 〈tendency/preference/lack〉＝明らかな〈傾向・好み・不足〉を示す"
+        "show a distinct 〈tendency/preference/lack〉＝明らかな〈傾向・好み・不足〉を示す",
+        "a distinct honor＝格別な光栄"
       ],
       "collocations": [
         {
@@ -346,6 +346,12 @@
           "use": "行動や選択に、偶然とは見なしにくい明確な傾向・好みが現れていると述べる。",
           "example": "Younger respondents showed a distinct preference for monthly subscriptions.",
           "translation": "若い回答者は月額契約を明らかに好む傾向を示した。"
+        },
+        {
+          "pattern": "a distinct honor",
+          "use": "名誉が格別なものであることを、改まった挨拶などで強調する。",
+          "example": "It is a distinct honor to welcome you here today.",
+          "translation": "本日ここに皆さまをお迎えでき、たいへん光栄です。"
         }
       ],
       "notes": [
@@ -362,11 +368,11 @@
         },
         {
           "word": "definite",
-          "definition": "可能性、計画、利点などが曖昧でなく、明確に定まっている。",
+          "definition": "利点、変化、印象などの存在や性質が、疑いなくはっきり認められる。",
           "frequency": 8,
-          "difference": "definite は確定性を強く示し、a definite plan のように内容が決まっている場合にも使う。distinct possibility は無視できない可能性であって、結果の確定を意味しない。",
-          "example": "We have no definite date for the move yet.",
-          "translation": "移転の確定日はまだ決まっていない。"
+          "difference": "ここでの definite は「明らかな」の意味で、distinct と近い。a definite plan の「確定した」は別の用法であり、この比較では区別する。可能性の存在が明確だということと、出来事が必ず起こることは同じではない。",
+          "example": "We noticed a definite improvement after the repairs.",
+          "translation": "修理後、明らかな改善が認められた。"
         },
         {
           "word": "noticeable",
@@ -490,7 +496,7 @@
         },
         {
           "word": "duplicate",
-          "definition": "既存の値、記録、行などと同一内容を繰り返したもの。",
+          "definition": "既存の値、記録、行などと同一内容で、重複している。",
           "frequency": 7,
           "difference": "distinct が重複を除いて別々に扱う対象を表すのに対し、duplicate は同一内容が複数回現れていることを表す。",
           "example": "The system flagged three duplicate records.",
@@ -538,7 +544,7 @@
         }
       ],
       "notes": [
-        "植物学のdistinctは、同じ系列の器官が互いにfree、すなわち融合していない状態を記載する。一般義のdistinct speciesは「別種」、この専門義のdistinct petalsは「互いに合着していない花弁」であり、対象名詞によって解釈が変わる。器官が別の種類の器官へ付着していないことまで常に含むわけではないため、どの器官同士の結合を述べているかを確認する。"
+        "植物学のdistinctは、同じ系列の器官が互いに融合していない状態を記載する。広い用語法ではこれを free とも表すが、資料によっては distinct を同種器官間、free を異種器官間の非結合に使い分ける。一般義のdistinct speciesは「別種」、この専門義のdistinct petalsは「互いに合着していない花弁」であり、対象名詞によって解釈が変わる。器官が別の種類の器官へ付着していないことまで常に含むわけではないため、どの器官同士の結合を述べているかを確認する。"
       ],
       "synonyms": [
         {
@@ -546,7 +552,7 @@
           "definition": "植物器官が同じ系列または別の器官と融合・付着していない。",
           "frequency": 3,
           "difference": "植物学のfreeは融合だけでなく、文脈によって別種器官への付着がないことも表せる。distinctは主に器官同士が個別に分かれている点を強調する。",
-          "example": "The upper portions of the filaments are free.",
+          "example": "The upper portions of the filaments are free from one another.",
           "translation": "花糸の上部は互いに合着していない。"
         },
         {
@@ -554,8 +560,8 @@
           "definition": "植物器官が結合せず、個別の部分として存在する。",
           "frequency": 3,
           "difference": "separateは一般語としても使える説明的表現である。distinctは植物誌や形態記載で、器官がfreeであることを簡潔に示す専門的用法を持つ。",
-          "example": "The ovary is divided into three separate chambers.",
-          "translation": "その子房は三つの別々の室に分かれている。"
+          "example": "The flower has five separate petals that are not fused at the base.",
+          "translation": "その花には、基部でも合着していない5枚の別々の花弁がある。"
         }
       ],
       "antonyms": [
