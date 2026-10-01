@@ -3,7 +3,7 @@
   "slug": "dimension",
   "ipa": "米: /dɪˈmenʃən/ が主要な掲載形で、/daɪˈmenʃən/ も認められる。英: /daɪˈmenʃən/ を主要な掲載形として載せる辞書が多いが、/dɪˈmenʃən/ も認められる。いずれも3音節で、第2音節の /men/ に主強勢がある。最初の音節は弱く、語末の /ʃən/ は「ション」に近い。派生語 dimensional は /dɪˈmenʃənəl/、dimensionless は /dɪˈmenʃənləs/ となる。",
   "lead": "物体や空間を、長さ、幅、高さ、深さ、直径などの一つの方向に沿って測った広がり。複数の方向の数値全体をいうときは dimensions と複数形にすることが多い。単位を伴う数値だけでなく、測定の軸そのものを指すこともある。",
-  "updated": "2026-08-31",
+  "updated": "2026-10-01",
   "notion_url": "https://app.notion.com/p/dimension-3cc4faa9b77d810baab6f57dd57dbc81",
   "pronunciation": [
     "複数形 dimensions は /dɪˈmenʃənz/、/daɪˈmenʃənz/。語末の -s は通常 /z/ で、dimensions of ... のように名詞の複数形として使う。動詞 dimension も /dɪˈmenʃən/、/daɪˈmenʃən/ があり、過去形・過去分詞 dimensioned は /dɪˈmenʃənd/、/daɪˈmenʃənd/、-ing形 dimensioning は /dɪˈmenʃənɪŋ/、/daɪˈmenʃənɪŋ/ となる。"
@@ -19,11 +19,11 @@
     },
     {
       "term": "dimensional",
-      "description": "次元・寸法に関する。「三次元の」「多面的な」の意味で使う。"
+      "description": "次元・寸法に関する、次元を持つ。three-dimensional「三次元の」、multidimensional「多次元の・多面的な」のように、前の要素で次元数や性質を示す。単独でも、物が「立体的な・三次元の」ことや、人物描写が「多面的で深みのある」ことを表す場合がある。"
     },
     {
       "term": "dimensionless",
-      "description": "物理量の次元を持たない。数学・物理の専門語で、単に「小さい」という意味ではない。"
+      "description": "無次元の。物理量では基本量の次元の指数がすべて0で、次元が1になることをいう。数学・物理の専門語で、単に「小さい」という意味ではない。"
     },
     {
       "term": "multidimensional",
@@ -39,45 +39,49 @@
     },
     {
       "term": "dimension",
-      "description": "stone：建築用に所定の寸法へ切り出した石材を表す複合表現。dimension 単独の一般義と混同しない。"
+      "description": "stone / dimension lumber：所定の寸法にした石材・木材を表す複合表現。専門文脈では dimension 単独でこのような木材・石材を指す名詞用法もある。一般的な寸法の意味とは区別する。"
     }
   ],
   "core": [
     {
       "label": "dimension",
-      "description": "の中心には、「対象をある測定軸・広がり・観点に沿って捉える」という核がある。物体なら長さ・幅・高さのような空間上の軸、問題なら社会・政治・倫理のような分析軸、数学なら位置を決める独立した軸、物理学なら量を構成する基本量の組合せになる。"
+      "description": "は、空間的な広がりを基に、対象の大きさや構成面を測定・分析の軸で捉える語である。物理的な寸法から抽象的な側面や描写の深みへ広がるが、数学・物理学での厳密な定義は語義5・6で区別する。"
     },
     {
-      "label": "物体を一方向に測った広がり",
-      "description": "→ 「寸法、長さ・幅・高さなど」（語義1）"
+      "label": "対象の一方向への広がり",
+      "description": "→ 「寸法、ある方向への長さ・幅・高さ・深さ」（語義1）"
     },
     {
-      "label": "物体の複数の寸法を合わせた大きさ・形",
-      "description": "→ 「寸法、サイズ、外形」（語義2）"
+      "label": "対象の複数寸法による全体像",
+      "description": "→ 「寸法の組合せ、サイズ、外形」（語義2）"
     },
     {
-      "label": "問題や経験を捉える一つの観点",
-      "description": "→ 「側面、局面、要素」（語義3）"
+      "label": "対象を捉える分析上の広がり",
+      "description": "→ 「（問題・経験などの）側面、局面、要素」（語義3）"
     },
     {
-      "label": "問題や出来事が広がる範囲・程度",
-      "description": "→ 「規模、範囲、深刻さ」（語義4）"
+      "label": "対象の影響や規模の広がり",
+      "description": "→ 「（問題・出来事などの）規模、範囲、程度、深刻さ」（語義4）"
     },
     {
-      "label": "位置や空間を定める独立した方向・数",
-      "description": "→ 「次元」（語義5）"
+      "label": "対象の位置を定める独立した軸",
+      "description": "→ 「独立した方向・座標、空間の次元数」（語義5）"
     },
     {
-      "label": "物理量を表す基本量の種類・指数",
-      "description": "→ 「次元、次元式」（語義6）"
+      "label": "対象の物理的性質を記す基本量の軸",
+      "description": "→ 「物理量の次元、次元式」（語義6）"
     },
     {
-      "label": "現実とは別の存在の領域",
-      "description": "→ 「異次元、別世界、層」（語義7）"
+      "label": "対象の存在領域として想定する広がり",
+      "description": "→ 「別の存在領域、異次元、現実とは異なる層」（語義7）"
     },
     {
-      "label": "必要な寸法に合わせ、または図面上に寸法を示す",
-      "description": "→ 「寸法を定める、寸法を記入する」（語義8）"
+      "label": "対象の必要寸法の指定・表示",
+      "description": "→ 「必要な寸法に形作る、図面に寸法を記入する」（語義8）"
+    },
+    {
+      "label": "対象の描写に感じられる奥行き",
+      "description": "→ 「（人物描写・作品などの）深み、立体感、現実味」（語義9）"
     },
     {
       "label": "語義3の「側面」と語義4の「規模」は、どちらも対象を別の軸から捉える比喩用法だが、語義3は「何の側面か」、語義4は「どの程度の広がりか」に焦点がある。語義5と語義6は専門概念として近いが、語義5は空間・数学的対象の独立方向や自由度、語義6は物理量を基本量で表す関係を指す。",
@@ -214,7 +218,8 @@
       ],
       "notes": [
         "寸法を複数まとめて表す dimensions は、単一の物体にも使う。The dimensions are ... のように複数扱いするが、これは複数の物体を意味しない。幅・高さ・奥行きを一組の仕様として示すための複数形である。",
-        "dimensions は文脈によって、単なる数値の組合せだけでなく、物体の外形・比例や建物の大きさを含む。measurements は実際に測定して得た値・測定値に焦点を置きやすく、dimensions は物体の長さ・幅・高さなどの空間的寸法やその組合せに焦点を置きやすい。物体の寸法値を述べる場面では両者が重なるため、exact dimensions、precise dimensions も普通に使う。"
+        "dimensions は文脈によって、単なる数値の組合せだけでなく、物体の外形・比例や建物の大きさを含む。measurements は実際に測定して得た値・測定値に焦点を置きやすく、dimensions は物体の長さ・幅・高さなどの空間的寸法やその組合せに焦点を置きやすい。物体の寸法値を述べる場面では両者が重なるため、exact dimensions、precise dimensions も普通に使う。",
+        "size は全体の大きさ、dimension は具体的な測定軸・数値。What size is the package? は大きさの区分や全体感を尋ね、What are the dimensions of the package? は長さ・幅・高さなどの数値を尋ねる。"
       ],
       "synonyms": [
         {
@@ -222,7 +227,7 @@
           "definition": "人・物・場所がどの程度大きいかという全体的な大きさ。",
           "frequency": 10,
           "difference": "size は衣服の規格や大・中・小の区分にも使える。dimensions は長さ・幅・高さなど、具体的な数値の組合せを示す。",
-          "example": "The box is the right size, but its dimensions are slightly different from the old one.",
+          "example": "The box is the right size, but its dimensions are slightly different from those of the old one.",
           "translation": "その箱は大きさは適切だが、寸法は古い箱と少し異なる。"
         },
         {
@@ -231,7 +236,7 @@
           "frequency": 7,
           "difference": "proportions は形のバランスや部分間の比率に焦点がある。dimensions は比率に限らず、実際の測定値を表す。",
           "example": "The building has elegant proportions despite its large dimensions.",
-          "translation": "その建物は大きな寸法を持つにもかかわらず、優雅な外形比率をしている。"
+          "translation": "その建物は大きいが、各部の比率が美しく整っている。"
         },
         {
           "word": "measurements",
@@ -249,7 +254,7 @@
       "title": "【名詞・可算】（問題・経験などの）側面、局面、要素",
       "frequency": 9,
       "register": [
-        "標準～やや形式的。報道、評論、学術、ビジネス、政策、人物・作品の評価で非常によく使う。"
+        "標準～やや改まった表現。報道、評論、学術、ビジネス、政策、人物・作品の評価で非常によく使う。"
       ],
       "definition": "複雑な問題、活動、経験、人物、計画などを理解するときの一つの観点・構成要素。単なる「部分」ではなく、社会的、政治的、倫理的、心理的など、対象を捉える分析上の軸を表す。dimension to 〈対象〉、dimension of 〈対象〉 の形が使われる。",
       "patterns": [
@@ -286,7 +291,7 @@
           "translation": "その決定には、利益だけに還元できない重要な倫理的側面がある。"
         },
         {
-          "pattern": "a personal dimension to 〈出来事・問題〉",
+          "pattern": "a personal dimension / a personal dimension to 〈出来事・問題〉",
           "use": "公的な問題などに、関係者個人の経験や感情が絡むことを示す。",
           "example": "The dispute took on a personal dimension after the two managers exchanged accusations.",
           "translation": "2人の管理職が非難を交わした後、その対立は個人的な側面を帯びた。"
@@ -298,7 +303,7 @@
           "translation": "その儀式には精神的・宗教的な側面がある。"
         },
         {
-          "pattern": "a different dimension of experience",
+          "pattern": "bring a different dimension to 〈経験・体験〉",
           "use": "経験や公演に新たな側面・質を加えることを比喩的に表す。",
           "example": "Live music brings a different dimension to the experience.",
           "translation": "生演奏は、その体験に別の側面・新たな要素を加える。"
@@ -341,7 +346,7 @@
       "title": "【名詞・通常複数】（問題・出来事などの）規模、範囲、程度、深刻さ",
       "frequency": 8,
       "register": [
-        "標準～やや形式的。報道、分析、政策、経済、災害・危機の説明で使う。重大性を強調する硬めの表現になりやすい。"
+        "標準～やや改まった表現。報道、分析、政策、経済、災害・危機の説明で使う。重大性を強調する硬めの表現になりやすい。"
       ],
       "definition": "問題、災害、変化、市場などがどれほど広く、大きく、深刻に及ぶかという全体的な規模・範囲。dimensions は通常複数形で使われ、個別の側面ではなく、対象の広がりや重大さを評価する。",
       "patterns": [
@@ -377,7 +382,7 @@
         },
         {
           "pattern": "a problem of considerable dimensions",
-          "use": "問題がかなり大きいことを形式的に述べる。",
+          "use": "問題がかなり大きいことを改まった表現で述べる。",
           "example": "The company is facing a problem of considerable dimensions.",
           "translation": "その会社はかなり大きな問題に直面している。"
         }
@@ -397,7 +402,7 @@
         },
         {
           "word": "scale",
-          "definition": "物事の大きさ・広がり・程度を比較する尺度。",
+          "definition": "物事の大きさ・広がり・規模。",
           "frequency": 10,
           "difference": "scale は実際の大きさや規模を直接的に表す。dimensions は問題が持つ複数の広がりや重大さを分析的に述べる、やや硬い語である。",
           "example": "The scale of the operation surprised local officials.",
@@ -416,12 +421,12 @@
     },
     {
       "number": 5,
-      "title": "【名詞・数学・幾何学】位置や空間を定める独立した方向の数、次元",
+      "title": "【名詞・数学・幾何学】独立した方向・座標、空間の次元数",
       "frequency": 7,
       "register": [
         "数学、幾何学、物理学、コンピューターグラフィックス、データ分析。専門用語として標準的。一般説明でも three dimensions、higher dimensions はよく使う。"
       ],
-      "definition": "点の位置や数学的対象を指定するために必要な、互いに独立した方向・自由度の数。直線は1次元、平面は2次元、通常の立体空間は3次元である。数学では、曲がった空間、ベクトル空間、抽象空間などにも一般化され、必ずしも目に見える方向だけを指さない。",
+      "definition": "通常の幾何学・線形代数では、点の位置や数学的対象を指定するための独立した方向・座標の一つ。また、そのような独立した方向・自由度がいくつ必要かという数。直線は1次元、平面は2次元、通常の立体空間は3次元である。数学では、曲がった空間、ベクトル空間、抽象空間などにも一般化され、必ずしも目に見える方向だけを指さない。",
       "patterns": [
         "one/two/three dimensions＝1・2・3次元",
         "an n-dimensional space＝n次元空間",
@@ -434,7 +439,7 @@
           "pattern": "a three-dimensional space",
           "use": "長さ・幅・高さの三つの独立方向を持つ空間を表す。",
           "example": "The robot maps its position in a three-dimensional space.",
-          "translation": "そのロボットは三次元空間内で自分の位置を地図化する。"
+          "translation": "そのロボットは自分の位置を三次元の地図上に示す。"
         },
         {
           "pattern": "in two dimensions",
@@ -450,7 +455,7 @@
         },
         {
           "pattern": "higher dimensions",
-          "use": "通常の三次元を超える数学的・物理的な次元を表す。",
+          "use": "比較する空間より多くの次元を表す。理論物理学では、通常の三次元を超える次元を指すことが多い。",
           "example": "The theory describes particles moving through higher dimensions.",
           "translation": "その理論は高次元を移動する粒子を記述する。"
         },
@@ -462,17 +467,30 @@
         }
       ],
       "notes": [
-        "この語義の dimension は、単に「長さ」や「寸法」を意味しない。three dimensions は物体の寸法を三種類測ることにも、三次元空間そのものにも使えるため、文脈で区別する。数学では、次元は対象を一意に指定するための独立した自由度・座標の数と考えると理解しやすい。",
-        "ordinary space を three-dimensional と呼ぶ一方、時間を加えて space-time を four-dimensional と扱うこともある。higher dimension は分野によって定義や理論上の位置付けが異なるため、日常語の「別世界」と数学用語を同一視しない。"
+        "この語義の dimension は、単に「長さ」や「寸法」を意味しない。three dimensions は物体の寸法を三種類測ることにも、三次元空間そのものにも使えるため、文脈で区別する。通常の幾何学・線形代数では、次元数を独立した自由度・座標の数と考えると理解しやすい。ただし、数学の分野によっては別の厳密な定義を用い、フラクタル次元のように非整数になるものもある。",
+        "ordinary space を three-dimensional と呼ぶ一方、時間を加えて space-time を four-dimensional と扱うこともある。higher dimension は分野によって定義や理論上の位置付けが異なるため、日常語の「別世界」と数学用語を同一視しない。",
+        "以下の coordinate と rank は、同義語ではなく、区別して理解したい関連概念である。",
+        "coordinate",
+        "定義: 座標系において点の位置を指定するための数値・座標値。",
+        "頻度: 〈7/10〉",
+        "違い: coordinate は一つの位置変数を指す。dimension は位置を定めるために必要な独立した座標の数・方向の体系を指す。",
+        "例: Enter the x-coordinate and y-coordinate of the point.",
+        "訳: その点のx座標とy座標を入力しなさい。",
+        "rank",
+        "定義: 線形代数で、行列や線形写像などについて、その像・列空間などの次元として表される量。",
+        "頻度: 〈5/10〉",
+        "違い: rank は行列や線形写像の像・列空間などの次元を表す。dimension はベクトル空間などの独立方向・自由度の数を表す。",
+        "例: The rank of the matrix is equal to the dimension of its column space.",
+        "訳: その行列のランクは、その列空間の次元に等しい。"
       ],
       "synonyms": [
         {
-          "word": "coordinate",
-          "definition": "座標系において点の位置を指定するための数値・座標値。",
-          "frequency": 7,
-          "difference": "coordinate は一つの位置変数を指す。dimension は位置を定めるために必要な独立した座標の数・方向の体系を指す。",
-          "example": "Enter the x-coordinate and y-coordinate of the point.",
-          "translation": "その点のx座標とy座標を入力しなさい。"
+          "word": "dimensionality",
+          "definition": "何次元であるかという性質・次数。",
+          "frequency": 5,
+          "difference": "dimensionality は空間・データ・モデルが何次元かという性質を述べる。この数の意味では dimension と重なるが、個々の方向・座標を表すときには使わない。",
+          "example": "The dimensionality of the dataset is reduced before modeling.",
+          "translation": "モデル化の前に、そのデータセットの次元数が削減される。"
         },
         {
           "word": "degree of freedom",
@@ -481,26 +499,18 @@
           "difference": "degree of freedom は力学・統計などで独立な変数の数を数える概念。dimension と重なることがあるが、空間の幾何学的次元と常に同じではない。",
           "example": "The mechanism has two degrees of freedom.",
           "translation": "その機構には2つの自由度がある。"
-        },
-        {
-          "word": "rank",
-          "definition": "線形代数で、行列や線形写像などについて、その像・列空間などの次元として表される量。",
-          "frequency": 5,
-          "difference": "rank は行列や線形写像の像・列空間などの次元を表す。dimension はベクトル空間などの独立方向・自由度の数を表す。",
-          "example": "The rank of the matrix is equal to the dimension of its column space.",
-          "translation": "その行列のランクは、その列空間の次元に等しい。"
         }
       ],
       "antonyms": []
     },
     {
       "number": 6,
-      "title": "【名詞・物理学】物理量を構成する基本量の種類・指数、次元式",
+      "title": "【名詞・物理学】物理量の次元、次元式",
       "frequency": 5,
       "register": [
         "物理学、工学、数学、計量学。専門用語。dimensional analysis「次元解析」、dimensionless quantity「無次元量」とともに使われる。"
       ],
-      "definition": "速度、力、エネルギーなどの物理量が、長さ、質量、時間などの基本量の組合せとしてどのような性質を持つかを示す関係。たとえば速度の次元は長さを時間で割ったものとして表され、単位そのものとは区別される。dimension はこの意味で、基本量の種類またはそれらに付く指数を指す。",
+      "definition": "速度、力、エネルギーなどの物理量が、長さ、質量、時間などの基本量の組合せとしてどのような性質を持つかを示す関係。たとえば速度の次元は長さを時間で割ったものとして表され、単位そのものとは区別される。次元式では、基本量の次元をそれぞれ必要な指数で累乗し、その積として表す。dimension は基本量の次元や、辞書によってはその指数を指す用法もある。",
       "patterns": [
         "the dimensions of 〈物理量〉＝～の次元",
         "have the dimensions of 〈基本量の式〉＝～の次元を持つ",
@@ -523,7 +533,7 @@
         },
         {
           "pattern": "a dimensionless quantity",
-          "use": "基本量の次元が相殺され、次元を持たない量を表す。",
+          "use": "基本量の次元の指数がすべて0となり、次元が1になる無次元量を表す。",
           "example": "The ratio of two lengths is a dimensionless quantity.",
           "translation": "2つの長さの比は無次元量である。"
         },
@@ -542,17 +552,16 @@
       ],
       "notes": [
         "dimension と unit は同じではない。meter、second、newton のような unit は測定値を表す具体的な単位であり、dimension は長さ、時間、質量などの性質や、それらの組合せを表す。メートルとフィートは単位が異なっても、どちらも長さの次元を持つ。",
-        "この語義の dimensions は、物体の寸法や問題の規模ではなく、物理量の構造を表す。the dimensions of velocity は「速度の大きさ」ではなく「速度が長さ／時間という次元を持つこと」を意味する。"
+        "この語義の dimensions は、物体の寸法や問題の規模ではなく、物理量の構造を表す。the dimensions of velocity は「速度の大きさ」ではなく「速度が長さ／時間という次元を持つこと」を意味する。",
+        "対照表現 unit は、dimension の類義語ではなく、区別して理解したい関連概念である。",
+        "unit",
+        "定義: 物理量を測定・表記するための標準的な量。",
+        "頻度: 〈10/10〉",
+        "違い: unit は meter や pascal のような具体的な測定基準。dimension は単位を変えても保たれる物理的な種類・構造であり、代用語ではない。",
+        "例: The SI unit of force is the newton.",
+        "訳: 力のSI単位はニュートンである。"
       ],
       "synonyms": [
-        {
-          "word": "dimensionality",
-          "definition": "何次元であるかという性質・次数。",
-          "frequency": 5,
-          "difference": "dimensionality は空間・データ・モデルが持つ次元数を抽象的に述べる名詞。dimension は個々の次元や物理量の次元式にも使える。",
-          "example": "The dimensionality of the dataset is reduced before modeling.",
-          "translation": "モデル化の前に、そのデータセットの次元数が削減される。"
-        },
         {
           "word": "dimensional formula",
           "definition": "物理量を基本量とその指数で表す式。",
@@ -560,14 +569,6 @@
           "difference": "dimensional formula は物理学で式そのものを指す定着語。dimension は式だけでなく、そこから示される性質も指す。",
           "example": "Write the dimensional formula for pressure.",
           "translation": "圧力の次元式を書きなさい。"
-        },
-        {
-          "word": "unit",
-          "definition": "物理量を測定・表記するための標準的な量。",
-          "frequency": 10,
-          "difference": "unit は meter や pascal のような具体的な測定基準。dimension は単位を変えても保たれる物理的な種類・構造であり、代用語ではない。",
-          "example": "The SI unit of force is the newton.",
-          "translation": "力のSI単位はニュートンである。"
         }
       ],
       "antonyms": []
@@ -655,10 +656,10 @@
       ],
       "collocations": [
         {
-          "pattern": "dimension 〈部品〉 to size",
+          "pattern": "dimension 〈部品〉 to fit 〈場所・部品〉",
           "use": "部品を指定された寸法に仕上げる。",
           "example": "The machinist dimensioned the bracket to fit the new housing.",
-          "translation": "機械工は新しい筐体に合うようブラケットの寸法を仕上げた。"
+          "translation": "機械工は、新しい筐体に合う寸法にブラケットを仕上げた。"
         },
         {
           "pattern": "dimension a drawing",
@@ -687,17 +688,16 @@
       ],
       "notes": [
         "この動詞は、単に長さを測定する measure と異なる。dimension a drawing は図面上に寸法を示すこと、dimension a part は必要寸法に設計・加工することを表す。実際の寸法を測るだけなら measure the part が自然である。",
-        "過去分詞 dimensioned は、dimensioned drawing のように「寸法が記入された」、または dimensioned to fit のように「～に合う寸法にされた」という意味になる。文脈によって、図面への記入と物体の加工・設計を区別する。"
+        "過去分詞 dimensioned は、dimensioned drawing のように「寸法が記入された」、または dimensioned to fit のように「～に合う寸法にされた」という意味になる。文脈によって、図面への記入と物体の加工・設計を区別する。",
+        "対照表現 measure は、既にある対象を測定する語であり、この動詞義の類義語ではない。",
+        "measure",
+        "定義: 大きさ・長さ・量などを測定して数値を得る。",
+        "頻度: 〈10/10〉",
+        "違い: measure は既にある対象の数値を調べること。dimension は技術上必要な寸法を定めたり、図面に記入したりすることまで含む。",
+        "例: Measure the opening before ordering the door.",
+        "訳: ドアを注文する前に開口部を測りなさい。"
       ],
       "synonyms": [
-        {
-          "word": "measure",
-          "definition": "大きさ・長さ・量などを測定して数値を得る。",
-          "frequency": 10,
-          "difference": "measure は既にある対象の数値を調べること。dimension は技術上必要な寸法を定めたり、図面に記入したりすることまで含む。",
-          "example": "Measure the opening before ordering the door.",
-          "translation": "ドアを注文する前に開口部を測りなさい。"
-        },
         {
           "word": "size",
           "definition": "物を特定の大きさに作る、または大きさを合わせる。",
@@ -713,34 +713,68 @@
           "difference": "scale は実物との比率や全体サイズの調整に焦点がある。dimension は個々の長さ・幅・高さを明示・指定する。",
           "example": "The architect scaled the model down for the presentation.",
           "translation": "建築家は発表用に模型を縮小した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 9,
+      "title": "【名詞・不可算】（人物描写・作品などの）深み、立体感、現実味",
+      "frequency": 5,
+      "register": [
+        "文学、映画、演劇、美術などの描写・表現の評価。人物像や作品に深みがあるかを述べる。"
+      ],
+      "definition": "登場人物や描写などが平板に見えず、奥行きや実在感を持って感じられる性質。一つの分析上の側面を数える語義3と違い、人物や作品全体に感じられる深みを表す。",
+      "patterns": [
+        "add/give/bring dimension to 〈登場人物・描写〉＝～に深み・立体感を与える",
+        "lack dimension＝深みに欠ける",
+        "a character with dimension＝深みのある登場人物"
+      ],
+      "collocations": [
+        {
+          "pattern": "add/give dimension to 〈登場人物〉",
+          "use": "演技や描写によって人物像に深みを与える。",
+          "example": "The actor's quiet gestures give dimension to an otherwise predictable character.",
+          "translation": "俳優のさりげない身ぶりが、ありきたりになりがちな登場人物に深みを与えている。"
         },
         {
-          "word": "dimension と size",
-          "definition": "",
-          "difference": "",
-          "example": "",
-          "translation": ""
+          "pattern": "bring dimension to 〈描写〉",
+          "use": "細部や複雑さによって描写を立体的にする。",
+          "example": "These small contradictions bring dimension to her portrayal of the queen.",
+          "translation": "こうした小さな矛盾が、彼女の演じる女王像に深みをもたらしている。"
         },
         {
-          "word": "dimension と aspect",
-          "definition": "",
-          "difference": "",
-          "example": "",
-          "translation": ""
+          "pattern": "lack dimension",
+          "use": "登場人物や描写に奥行きがなく、平板に感じられることを表す。",
+          "example": "The villain looks threatening but lacks dimension.",
+          "translation": "その悪役は恐ろしそうに見えるが、人物としての深みに欠ける。"
         },
         {
-          "word": "dimension と scope",
-          "definition": "",
-          "difference": "",
-          "example": "",
-          "translation": ""
+          "pattern": "a character with dimension",
+          "use": "単純な役割にとどまらず、人物としての深みを持つ登場人物を表す。",
+          "example": "The novel needs characters with dimension, not just heroes and villains.",
+          "translation": "その小説に必要なのは、単なる善玉と悪玉ではなく、深みのある登場人物だ。"
+        }
+      ],
+      "notes": [
+        "この意味では通常、冠詞 a を付けず dimension を不可算名詞として使う。add a new dimension to a character とすれば「人物像に新たな側面を加える」という語義3の読みが前面に出る。どちらも人物を複雑に描く効果につながるが、側面の追加と全体の深みという焦点の違いがある。"
+      ],
+      "synonyms": [
+        {
+          "word": "depth",
+          "definition": "人物・作品などを豊かで興味深く感じさせる内面的な深さ。",
+          "frequency": 7,
+          "difference": "depth は心理・感情・内容の深さを広く表す。dimension は平板な描写に奥行きや立体感が生まれる点を示しやすい。",
+          "example": "Her performance gives the character emotional depth.",
+          "translation": "彼女の演技は、その登場人物に感情の深みを与えている。"
         },
         {
-          "word": "dimension と unit",
-          "definition": "",
-          "difference": "",
-          "example": "",
-          "translation": ""
+          "word": "realism",
+          "definition": "描かれた人物や出来事が実際の生活に近く感じられる性質。",
+          "frequency": 6,
+          "difference": "realism は現実らしさに焦点がある。dimension は人物の複雑さや描写の深みも表し、写実的な作品だけに限らない。",
+          "example": "The natural dialogue adds realism to the scene.",
+          "translation": "自然な対話が、その場面に現実味を加えている。"
         }
       ],
       "antonyms": []
