@@ -3,7 +3,7 @@
   "slug": "constitute",
   "ipa": "米（一般的な形）: /ˈkɑːnstəˌtuːt/｜英: /ˈkɒnstɪˌtjuːt/。3音節で、第1音節に主強勢、第3音節に第二強勢がある。米音では第1音節の母音が /ɑː/、第2音節が弱い /stə/ となり、第3音節は一般に /tuːt/ だが /tjuːt/ の変異もある。英音では第1音節が /ɒ/、第2音節が /stɪ/、第3音節が /tjuːt/ となる。",
   "lead": "一つまたは複数の人・物・部分・期間などが、一つの全体を形作る、またはその全体の一定割合・重要部分を占めることを表す。全体構成の能動構文では主語が構成要素、目的語がそれらによってできる全体である。一方、割合・部分量を示す構文では、目的語が割合・部分量となり、全体は通常 of 句に現れるが、文脈上明らかな場合は省略できる。意図的に組み立てる行為ではなく、部分と全",
-  "updated": "2026-09-08",
+  "updated": "2026-10-01",
   "notion_url": "https://app.notion.com/p/constitute-3d54faa9b77d81e98f9cf7d9e03a37d0",
   "pronunciation": [],
   "etymology": [
@@ -35,19 +35,19 @@
     },
     {
       "label": "要素を全体として成り立つ位置に据える",
-      "description": "→ 「構成する、占める」（語義1）"
+      "description": "→ 「構成する、（全体の一定割合を）占める」（語義1）"
     },
     {
       "label": "行為や事実を分類として成り立つ位置に据える",
-      "description": "→ 「～に当たる、～となる」（語義2）"
+      "description": "→ 「～に当たる、～を意味する、～となる」（語義2）"
     },
     {
       "label": "組織や契約を正式な制度・法的形式として成り立つ位置に据える",
-      "description": "→ 「正式に設立する、所定の形式に整える」（語義3）"
+      "description": "→ 「（組織などを）正式に設立する；（契約などを）所定の法的形式に整える」（語義3）"
     },
     {
       "label": "人を公的な役割として成り立つ位置に据える",
-      "description": "→ 「正式に任命・指定する」（語義4）"
+      "description": "→ 「（人を役職・地位に）正式に任命・指定する」（語義4）"
     }
   ],
   "sources": [],
@@ -99,6 +99,7 @@
       ],
       "notes": [
         "能動の A, B, and C constitute X では A・B・C が部分、X が全体である。X consists of A, B, and C や X is composed of A, B, and C では向きが逆になり、X が全体、A・B・C が部分になる。",
+        "構成関係を述べるこの意味では、通常は進行形にしない。例えば割合を述べるなら Online sales constitute 35 percent of revenue. とし、通常 are constituting とはしない。",
         "be constituted of は可能だが硬い。通常は be composed of または consist of が自然である。consist は自動詞なので X is consisted of A とはしない。",
         "comprise は伝統的には X comprises A, B, and C のように全体を主語、部分を目的語にするため、能動の constitute とは基本方向が逆である。ただし現代英語では parts comprise a whole や be comprised of も広く使われるので、厳密さが必要な文章では parts/whole の関係が明確な表現を選ぶ。"
       ],
@@ -129,9 +130,9 @@
         },
         {
           "word": "account for",
-          "definition": "数量・割合・原因などのうち、特定の分を占める。",
+          "definition": "全体のうち特定の割合・部分を占める。",
           "frequency": 8,
-          "difference": "割合の用法では近いが、account for は「全体のうちどれだけを説明できるか・占めるか」に焦点がある。constitute は割合だけでなく、部分が全体そのものを形作る関係にも使える。",
+          "difference": "割合の用法では近いが、account for は全体に占める割合・部分に焦点がある。「原因になる・説明する」は別の語義である。constitute は割合だけでなく、部分が全体そのものを形作る関係にも使える。",
           "example": "Exports account for nearly half of total sales.",
           "translation": "輸出が総売上高のほぼ半分を占める。"
         }
@@ -154,7 +155,7 @@
       ],
       "collocations": [
         {
-          "pattern": "constitute a crime/offence",
+          "pattern": "constitute a crime/an offence",
           "use": "ある行為が法律上の犯罪・違反に当たり得ることを述べる。",
           "example": "Deliberately altering the records may constitute a criminal offence.",
           "translation": "記録を故意に改ざんすることは、刑事犯罪に当たる可能性がある。"
@@ -192,6 +193,7 @@
       ],
       "notes": [
         "この語義の constitute は、主語と目的語を同一の分類関係で結ぶが、文法上は目的語を取る動詞であり、通常 constitute as a threat のように as を挟まない。The delay constitutes a problem. のように直接目的語を置く。",
+        "この意味も状態的な該当関係を表すため、通常は進行形にしない。組織を設立する語義3のような行為的用法まで一律に禁止する説明ではない。",
         "語義1との区別は、目的語が「主語を部分として含む全体」か、「主語が該当すると判断される分類・評価」かで行う。Ten members constitute the committee. は構成、Their absence constitutes a problem. は評価・該当である。",
         "否定文の does not constitute proof/consent/approval は、「証拠・同意・承認として十分ではない」という境界を明示する定型的な用法である。constitute 自体は、事態を引き起こす cause や、証拠によって証明する prove を意味しない。"
       ],
