@@ -3,7 +3,7 @@
   "slug": "cast",
   "ipa": "米: /kæst/｜英: /kɑːst/。米英とも1音節で、母音だけが大きく異なる。名詞・動詞とも同じ発音で、複数形 casts は米 /kæsts/・英 /kɑːsts/、現在分詞 casting は米 /ˈkæstɪŋ/・英 /ˈkɑːstɪŋ/ と発音する。",
   "lead": "物を手などで外へ投じ、空中や水中を通して特定の場所へ送る。釣りでは、釣り糸・ルアー・網などを狙った場所へ投げ入れることを表し、この用法は現在でも自然である。一般的な物の「投げる」では throw の方が普通で、cast は釣り、投げ入れる方向、文語的な描写、定着句で使われやすい。",
-  "updated": "2026-08-13",
+  "updated": "2026-10-01",
   "notion_url": "https://app.notion.com/p/cast-3804faa9b77d81f792eee12fed5c834b",
   "pronunciation": [
     "過去形・過去分詞は一般的な用法では cast のままである。casted は一部の専門的・非標準的な用例で見かけることがあるが、通常の過去・過去分詞としては cast を使う。"
@@ -50,19 +50,19 @@
     },
     {
       "label": "物を外へ投じ、特定の場所へ送ること",
-      "description": "→ 「投げる、投げ入れる」（語義1）"
+      "description": "→ 「投げる、投げ入れる；釣り糸・網を投げる」（語義1）"
     },
     {
       "label": "視線・表情・光・影を対象へ向け、そこに届かせること",
-      "description": "→ 「視線・光・影などを向ける／投げかける」（語義2）"
+      "description": "→ 「視線・表情を向ける；光・影などを投げかける」（語義2）"
     },
     {
       "label": "疑い・非難・暗い雰囲気などを対象に及ぼすこと",
-      "description": "→ 「疑い・非難などを投げかける／影響を及ぼす」（語義3）"
+      "description": "→ 「疑い・非難などを投げかける；暗い影響を及ぼす」（語義3）"
     },
     {
       "label": "票やくじを外へ投じ、支持や運命を託すこと",
-      "description": "→ 「票・くじを投じる」（語義4）"
+      "description": "→ 「票・くじを投じる；運命を託す」（語義4）"
     },
     {
       "label": "魔法や呪いを対象に及ぼすこと",
@@ -70,7 +70,7 @@
     },
     {
       "label": "人を作品内の特定の役へ割り当てること",
-      "description": "→ 「俳優を配役する」（語義6）"
+      "description": "→ 「俳優を役に配役する」（語義6）"
     },
     {
       "label": "人や物事を特定の役割・見方として提示すること",
@@ -82,11 +82,11 @@
     },
     {
       "label": "皮や靴などを外へ落とし、表面や付属物を失うこと",
-      "description": "→ 「脱ぎ捨てる、抜け落とす」（語義9）"
+      "description": "→ 「皮・殻・靴などを脱ぎ捨てる、抜け落とす」（語義9）"
     },
     {
       "label": "不要な人・物を外へ振り捨てたり、船や綱を岸から放したりすること",
-      "description": "→ 「捨てる、追い出す、離れる」（語義10）"
+      "description": "→ 「捨てる、追い出す、振り捨てる；船が岸を離れる」（語義10）"
     },
     {
       "label": "意識や探索を広げたり、過去へ向けたりすること",
@@ -94,31 +94,31 @@
     },
     {
       "label": "値を別のデータ型へ移し替えること",
-      "description": "→ 「型変換する」（語義12）"
+      "description": "→ 「値を別のデータ型へ変換する、型変換する」（語義12）"
     },
     {
       "label": "投じる動作や一投を、行為・距離・結果として捉えたもの",
-      "description": "→ 「一投、投げること」（語義13）"
+      "description": "→ 「一投、投げること；釣り糸・網の一投」（語義13）"
     },
     {
       "label": "作品内へ割り当てられた人々や登場人物の集合",
-      "description": "→ 「出演者、配役陣」（語義14）"
+      "description": "→ 「出演者、配役陣；登場人物の一群」（語義14）"
     },
     {
       "label": "物に与えられた形・見え方・特徴的な性質",
-      "description": "→ 「形、外観、気質」（語義15）"
+      "description": "→ 「形、外観、特徴的な性質・気質」（語義15）"
     },
     {
       "label": "型へ入れて作られた物、またはそこから取った型・複製",
-      "description": "→ 「鋳造品、型、複製」（語義16）"
+      "description": "→ 「鋳造品、型、型取りによる複製」（語義16）"
     },
     {
       "label": "身体の一部を固定するために置かれた硬い覆い",
       "description": "→ 「ギプス、固定具」（語義17）"
     },
     {
-      "label": "写真・表面・言葉などにわずかに加わる色や印象",
-      "description": "→ 「色合い、帯びた感じ」（語義18）"
+      "label": "写真・表面・言葉などに加わる色や印象",
+      "description": "→ 「色合い、帯びた感じ、わずかな混じり気」（語義18）"
     }
   ],
   "sources": [],
@@ -126,7 +126,7 @@
     {
       "number": 1,
       "title": "【動詞・他動詞／自動詞】投げる、投げ入れる；釣り糸・網を投げる",
-      "frequency": 8,
+      "frequency": 6,
       "register": [
         "標準語。一般語だが、物を投げる意味は throw より文語的・描写的になりやすく、釣りでは中立的。"
       ],
@@ -158,8 +158,8 @@
           "translation": "彼らは午前中ずっとマス釣りをしていた。"
         },
         {
-          "pattern": "cast 〈物〉 into 〈場所〉",
-          "use": "物を勢いよく特定の場所へ投げ入れる。",
+          "pattern": "cast 〈物〉 onto 〈場所〉",
+          "use": "物を特定の場所の上へ投げたり、打ち上げたりする。",
           "example": "The waves cast pieces of wood onto the beach.",
           "translation": "波が木片を浜辺へ打ち上げた。"
         },
@@ -201,12 +201,12 @@
           "definition": "力や感情を込めて勢いよく投げる。",
           "frequency": 7,
           "difference": "cast より強い勢い・荒々しさ・感情が出やすい。",
-          "example": "He flung the door open and ran outside.",
-          "translation": "彼はドアを勢いよく開けて外へ走り出た。"
+          "example": "He flung his bag onto the floor and ran outside.",
+          "translation": "彼はかばんを床に投げ出して外へ走り出た。"
         },
         {
           "word": "hurl",
-          "definition": "大きな力で遠くへ投げつける。",
+          "definition": "大きな力で投げつける。",
           "frequency": 7,
           "difference": "cast より強い力や攻撃的な投げ方を明示しやすい。",
           "example": "Someone hurled a bottle at the wall.",
@@ -285,7 +285,7 @@
         }
       ],
       "notes": [
-        "cast a glance・cast one's eyes は、look より「ある方向へ視線を投じる」という描写性がある。cast light on は、問題を明らかにする比喩にも使えるが、光そのものを照らす場合にも使える。cast a shadow over 〈出来事〉のように対象が抽象的で、暗い影響や不安を表す場合は語義3に近い。"
+        "cast a glance・cast one's eyes は、look より「ある方向へ視線を投じる」という描写性がある。cast light on は、問題を明らかにする比喩にも使えるが、実際の光を場所・物に当てる場合にも使える。cast a shadow over 〈出来事〉のように対象が抽象的で、暗い影響や不安を表す場合は語義3に近い。"
       ],
       "synonyms": [
         {
@@ -317,8 +317,8 @@
           "definition": "光、映像、音などを特定の場所へ送り出す。",
           "frequency": 8,
           "difference": "project は装置や意図的な送り出しを表しやすく、cast より技術的・機械的である。",
-          "example": "The screen projected an image onto the wall.",
-          "translation": "画面は壁に映像を投影した。"
+          "example": "The projector projected an image onto the wall.",
+          "translation": "プロジェクターは壁に映像を投影した。"
         }
       ],
       "antonyms": []
@@ -463,7 +463,7 @@
         },
         {
           "pattern": "cast a ballot for 〈候補・政党〉",
-          "use": "投票用紙を使って候補者や政党に投票する。",
+          "use": "紙の投票用紙や電子投票などで、候補者や政党に票を投じる。",
           "example": "She cast her ballot for the independent candidate.",
           "translation": "彼女は無所属候補に投票した。"
         },
@@ -630,7 +630,7 @@
         {
           "word": "break",
           "definition": "呪文や魔法の効力を断ち切る。",
-          "frequency": 9,
+          "frequency": 4,
           "difference": "break a spell は魔法の効果を終わらせる定着表現で、cast a spell の反対側の結果を表す。",
           "example": "The princess found a way to break the spell.",
           "translation": "王女は魔法を解く方法を見つけた。"
@@ -648,6 +648,7 @@
       "patterns": [
         "cast someone as 〈役〉＝人を〜役に配役する",
         "cast someone in 〈作品〉＝人を作品に配役する",
+        "cast someone in a role＝人をある役に配役する",
         "be cast as 〈役〉・in 〈作品〉＝〜役・作品に配役される",
         "cast someone opposite someone＝人を〜の相手役に配役する",
         "cast against type＝普段のイメージと違う役に配役する。"
@@ -663,7 +664,7 @@
           "pattern": "cast someone in 〈映画・劇〉",
           "use": "人を作品の出演者として選ぶ。",
           "example": "The studio cast him in a historical film.",
-          "translation": "その映画会社は彼を歴史映画に出演させた。"
+          "translation": "その映画会社は彼を歴史映画に起用した。"
         },
         {
           "pattern": "be cast as 〈役〉",
@@ -672,10 +673,10 @@
           "translation": "彼女はそのテレビシリーズで刑事役に選ばれた。"
         },
         {
-          "pattern": "be cast in 〈作品〉",
-          "use": "俳優が作品の出演者に選ばれる。",
-          "example": "He was cast in a play opening in London this autumn.",
-          "translation": "彼はこの秋ロンドンで開幕する劇に配役された。"
+          "pattern": "be cast in the lead role",
+          "use": "俳優が作品の主役に選ばれる。",
+          "example": "He was cast in the lead role in a play opening in London this autumn.",
+          "translation": "彼はこの秋ロンドンで開幕する劇の主役に起用された。"
         },
         {
           "pattern": "cast someone opposite someone",
@@ -691,7 +692,7 @@
         }
       ],
       "notes": [
-        "cast someone as 〈役〉は「人を役に選ぶ」であり、cast someone in 〈作品〉は「作品に出演者として選ぶ」である。役を実際に演じることは play・portray で表す。be cast as は「配役された」であって、必ずしも撮影・上演を完了したことを意味しない。casted him は通常の過去形として避け、cast him とする。"
+        "cast someone as 〈役〉は「人を役に選ぶ」であり、cast someone in 〈作品〉は「作品に出演者として選ぶ」である。in は作品だけでなく、in a role・in the lead role のように役を表す名詞句も取る。役を実際に演じることは play・portray で表す。be cast as は「配役された」であって、必ずしも撮影・上演を完了したことを意味しない。casted him は通常の過去形として避け、cast him とする。"
       ],
       "synonyms": [
         {
@@ -793,7 +794,7 @@
         }
       ],
       "notes": [
-        "語義6の cast someone as 〈俳優の役〉は、作品の配役を決める行為である。語義7の cast someone as 〈人物像・評価〉は、実際の出演とは関係なく、説明・報道・自己演出の枠組みを作る。cast 〈問題〉 in a new light は「問題を新しい光の中に置く」という比喩で、問題を物理的に照らす語義2とは異なる。"
+        "語義6の cast someone as 〈俳優の役〉は、作品の配役を決める行為である。語義7の cast someone as 〈人物像・評価〉は、実際の出演とは関係なく、説明・報道・自己演出の枠組みを作る。cast 〈問題〉 in a new light は「問題を新しい光の中に置く」という比喩で、問題を物理的に照らす語義2とは異なる。reframe は「別の枠組み・観点で捉え直す」という対照表現で、cast as の反意語ではない。例: The mediator reframed the dispute as a problem of communication.（仲介者はその争いを意思疎通の問題として捉え直した。）"
       ],
       "synonyms": [
         {
@@ -829,16 +830,7 @@
           "translation": "批評家たちはその小説を異例に抑制された作品だと評した。"
         }
       ],
-      "antonyms": [
-        {
-          "word": "reframe",
-          "definition": "問題や出来事を別の枠組み・観点で提示し直す。",
-          "frequency": 6,
-          "difference": "reframe は厳密な反意語ではなく、既存の位置づけを別の枠へ置き直す対照表現である。cast as が提示する見方を再構成する場合に使う。",
-          "example": "The mediator reframed the dispute as a problem of communication.",
-          "translation": "仲介者はその争いを意思疎通の問題として捉え直した。"
-        }
-      ]
+      "antonyms": []
     },
     {
       "number": 8,
@@ -853,7 +845,8 @@
         "cast 〈材料〉 into 〈形・部品〉＝材料を〜の形に鋳造する",
         "be cast in 〈材料〉＝〜で鋳造される",
         "be cast from 〈型・原型〉＝〜を使って鋳造される",
-        "cast 〈材料〉 into a mold＝材料を型に流し込んで作る。"
+        "be cast from 〈材料〉＝〜を材料として鋳造される",
+        "cast 〈材料〉 in 〈型〉＝材料を型に流し込んで成形する。"
       ],
       "collocations": [
         {
@@ -881,14 +874,14 @@
           "translation": "その複製品は元の彫刻の型を使って鋳造された。"
         },
         {
-          "pattern": "cast 〈材料〉 into a mold",
+          "pattern": "cast 〈材料〉 in 〈型〉",
           "use": "材料を鋳型へ流し込んで形を作る。",
           "example": "The workers cast the resin in a silicone mold.",
-          "translation": "作業員たちは樹脂をシリコーン製の型に流し込んだ。"
+          "translation": "作業員たちはシリコーン製の型で樹脂を成形した。"
         }
       ],
       "notes": [
-        "cast in bronze は「青銅で鋳造する」で、be made of bronze より製法を明示する。forge は加熱した金属を打つ・圧力で成形することで、型に流す cast とは異なる。mold は型で成形する一般語で、cast のように材料を型へ流す工程を指すことも、より広く型成形を指すこともある。"
+        "cast in bronze は「青銅で鋳造する」で、be made of bronze より製法を明示する。forge は固体の金属を打つ・押すなどして成形することで、溶かした材料を型で固める cast とは異なる。加熱する場合が多いが、冷間鍛造もある。mold は型で成形する一般語で、cast のように材料を型へ流す工程を指すことも、より広く型成形を指すこともある。"
       ],
       "synonyms": [
         {
@@ -917,7 +910,7 @@
         },
         {
           "word": "forge",
-          "definition": "金属を加熱し、打つ・押すなどして成形する。",
+          "definition": "固体の金属を打つ・押すなどして成形する。",
           "frequency": 5,
           "difference": "forge は圧力で金属を成形し、cast は溶かした材料を型で固める。両者は製法が異なる。",
           "example": "The blade was forged from a single piece of steel.",
@@ -980,7 +973,7 @@
         {
           "word": "slough",
           "definition": "皮や不要な外層を脱ぎ捨てる。",
-          "frequency": 8,
+          "frequency": 4,
           "difference": "slough は動物の皮や、比喩的な習慣・状態を脱ぎ捨てる硬い語で、cast より使う範囲が広い比喩もある。",
           "example": "The snake sloughed off its old skin.",
           "translation": "その蛇は古い皮を脱ぎ捨てた。"
@@ -1067,7 +1060,7 @@
         }
       ],
       "notes": [
-        "句動詞は小辞で意味が変わる。cast off・aside・away は名詞目的語なら cast the clothes off のように目的語を間に置けるが、代名詞は cast them off の語順にする。cast out は cast the intruder out と cast out the intruder の両方が可能で、代名詞は cast them out が自然である。船が離れる cast off は自動詞で、cast off the boat のように船を捨てる意味にはしない。cast away は人を見捨てる意味にも物を捨てる意味にも使うが、castaway は別の名詞である。"
+        "句動詞は小辞で意味が変わる。cast off・aside・away は名詞目的語なら cast the clothes off のように目的語を間に置けるが、代名詞は cast them off の語順にする。cast out は cast the intruder out と cast out the intruder の両方が可能で、代名詞は cast them out が自然である。船が離れる cast off は自動詞で、cast off the boat のように船を捨てる意味にはしない。cast away は人を見捨てる意味にも物を捨てる意味にも使うが、castaway は別の名詞である。別の分野限定用法として、編み物の cast on は「作り目をする」、cast off は針から目を外しながらほどけない縁を作る「伏せ止めをする」を表す。文語的な be cast down (by 〈原因〉) は「～によって落胆する」で、物理的に投げ落とされることとは区別する。"
       ],
       "synonyms": [
         {
@@ -1088,7 +1081,7 @@
         },
         {
           "word": "abandon",
-          "definition": "人・場所・計画などを見捨て、取り残す。",
+          "definition": "人・場所などを見捨てる、計画などを断念・放棄する。",
           "frequency": 8,
           "difference": "abandon は関係や責任を放棄して残していく含みが強く、cast away は投げ捨てる比喩の力が出やすい。",
           "example": "They abandoned the plan after the costs rose.",
@@ -1341,7 +1334,7 @@
         {
           "word": "pitch",
           "definition": "ボールなどを特定の方向へ投げる動作。",
-          "frequency": 9,
+          "frequency": 5,
           "difference": "pitch は野球の投球や、目的を持って投げる動作に強く、cast の釣りの一投とは領域が異なる。",
           "example": "The pitcher made a fast pitch.",
           "translation": "投手は速い球を投げた。"
@@ -1512,7 +1505,7 @@
         {
           "word": "aspect",
           "definition": "物事がある観点から見える様相。",
-          "frequency": 8,
+          "frequency": 6,
           "difference": "aspect は物事の見え方・側面に焦点があり、cast の文学的な「帯びた性質」より分析的である。",
           "example": "The problem took on a new aspect after the report.",
           "translation": "その報告の後、その問題は新たな様相を呈した。"
@@ -1582,9 +1575,9 @@
         {
           "word": "impression",
           "definition": "表面を押し写してできた跡や型。",
-          "frequency": 8,
+          "frequency": 5,
           "difference": "impression は表面の写し・跡に焦点があり、cast はそこから作られた立体的な型・複製まで表し得る。",
-          "example": "The clay left an impression of the key.",
+          "example": "The key left an impression in the clay.",
           "translation": "粘土に鍵の跡が残った。"
         },
         {
@@ -1619,7 +1612,7 @@
         "have a cast on 〈身体部位〉＝〜にギプスをしている",
         "put 〈身体部位〉 in a cast＝〜をギプスで固定する",
         "remove・take off a cast＝ギプスを外す",
-        "a cast for 〈期間〉＝〜の間のギプス。"
+        "wear a cast for 〈期間〉＝〜の間ギプスを着けている。"
       ],
       "collocations": [
         {
@@ -1691,7 +1684,7 @@
       "register": [
         "写真、色彩描写、文学、評論。日常会話では tinge・tint・tone の方が選ばれることも多い。"
       ],
-      "definition": "写真、物の表面、光景などにわずかに加わって見える色合いを表す。また、言葉・表情・作品などに感じられる、ある感情や性質の混じり気を表す。強い全面的な色や性質ではなく、全体に薄く加わる印象を示すことが多い。",
+      "definition": "写真、物の表面、光景などが帯びて見える色合いを表す。また、言葉・表情・作品などに感じられる、ある感情や性質の混じり気を表す。色では全体にある色味を帯びることを表し、写真では目立つ「色かぶり」を指すこともある。感情や性質については、わずかな混じり気を表すことが多い。",
       "patterns": [
         "a 〈色〉 cast＝〜色の色合い",
         "a cast to 〈写真・肌・空〉＝〜に帯びた色",
@@ -1725,7 +1718,7 @@
         }
       ],
       "notes": [
-        "色の cast は、全体に薄く加わった色合いを表し、完全な色そのものや色相の名称ではない。a bitter cast to 〈言葉・表情〉のように感情を表す語が続くと、苦々しい調子が全体に混じった印象を表す。語義15の cast of mind・cast to someone's features は、色や感情ではなく考え方・外観・性質の形を表す。"
+        "色の cast は、全体に帯びた色味や写真の色かぶりを表し、その強さは弱い場合も強い場合もある。色相の名称そのものとは区別する。a bitter cast to 〈言葉・表情〉のように感情を表す語が続くと、苦々しい調子が全体に混じった印象を表す。語義15の cast of mind・cast to someone's features は、色や感情ではなく考え方・外観・性質の形を表す。"
       ],
       "synonyms": [
         {
@@ -1756,7 +1749,7 @@
           "word": "hue",
           "definition": "色相、特定の色合い。",
           "frequency": 6,
-          "difference": "hue は色そのものの種類に焦点があり、cast のような「全体に帯びた薄い混じり気」を必ずしも含まない。",
+          "difference": "hue は色そのものの種類に焦点があり、cast のような「全体に帯びた色味」を必ずしも含まない。",
           "example": "The leaves turned a golden hue in autumn.",
           "translation": "秋になると葉は金色になった。"
         }
