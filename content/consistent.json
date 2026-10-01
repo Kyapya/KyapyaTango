@@ -3,7 +3,7 @@
   "slug": "consistent",
   "ipa": "米・英: /kənˈsɪstənt/。3音節の kən-SIS-tənt で、第2音節に主強勢がある。第1音節の /ə/ は弱く、第2音節の /ɪ/ が主強勢を担い、語末の -ent は /ənt/ と発音する。",
   "lead": "人がいつも同じように振る舞う、同じ意見・基準・態度を保つ、または仕事や競技で安定した水準を示す。人を評価するときは「信頼して任せやすい」という肯定的な含みが出やすいが、同じ態度や基準を保っていること自体を表す語であり、その基準が望ましいとは限らない。",
-  "updated": "2026-08-25",
+  "updated": "2026-10-01",
   "notion_url": "https://app.notion.com/p/consistent-3c74faa9b77d81dfbc1feb3ba2b3e596",
   "pronunciation": [
     "綴りの最初の con- は強い /kɑn/・/kɒn/ ではなく /kən/、語中の s は /s/、語末の t は /t/ である。",
@@ -17,7 +17,7 @@
   "formation": [
     {
       "term": "consistency",
-      "description": "— 名詞「一貫性、安定性、整合性」。"
+      "description": "— 名詞「一貫性、安定性、整合性」。また、液体・混合物などの「粘度、固さ、質感」も表す。"
     },
     {
       "term": "consistently",
@@ -35,27 +35,27 @@
   "core": [
     {
       "label": "consistent",
-      "description": "の共通核は、複数の要素・時点・行動が互いに離れたり衝突したりせず、同じ基準のもとでまとまっていることである。ここでいう「同じ」は完全に同一という意味ではなく、重要なパターン・水準・原則が保たれていることを指す。"
+      "description": "に共通するイメージは、比べる対象が重要な水準・基準の点でそろい、食い違わないことであり、完全な同一を常に意味するわけではない。人や結果では安定性、説明では矛盾のなさ、統計では標本数の増加に伴う真値への一致に具体化するが、統計的な収束の条件は語義4で区別する。"
     },
     {
       "label": "人や行動が同じ基準を保つ",
-      "description": "→ 「一貫した、安定した」（語義1）"
+      "description": "→ 「一貫した、安定した、むらのない」（語義1）"
     },
     {
       "label": "状態や結果が同じ傾向を保つ",
-      "description": "→ 「安定した、むらのない」（語義2）"
+      "description": "→ 「安定した、同じ傾向が続く、むらのない」（語義2）"
     },
     {
       "label": "事実や判断が互いに衝突しない",
-      "description": "→ 「一致した、矛盾しない」（語義3）"
+      "description": "→ 「一致した、矛盾しない、〜と整合する」（語義3）"
+    },
+    {
+      "label": "標本の増加に伴う推定量と真値の一致",
+      "description": "→ 「（推定量が）一致性をもつ」（語義4）"
     },
     {
       "label": "方程式や命題が同時に成り立つ",
       "description": "→ 「無矛盾な、共通解をもつ」（語義5）"
-    },
-    {
-      "label": "語義4は統計学で標本数を無限に増やしたときの収束を指す専門義で、一般的な「同じ基準を保つ」からは形式的な条件まで予測できないため、個別に覚える。",
-      "description": ""
     }
   ],
   "sources": [],
@@ -278,19 +278,27 @@
     },
     {
       "number": 3,
-      "title": "【形容詞・with構文】一致した、矛盾しない、〜と整合する",
+      "title": "【形容詞・整合性】一致した、矛盾しない、〜と整合する",
       "frequency": 9,
       "register": [
         "標準語。議論、報道、研究、法律・医療の記述、方針や行動の評価で特に頻出する。証拠と説明、症状と診断候補、行動と原則の関係を慎重に述べる表現である。"
       ],
-      "definition": "ある事実・説明・結果・行動・方針などが、別の事実や基準と両立し、互いに矛盾しない。consistent with は「〜と一致する」「〜に沿う」と訳せるが、単に両立する可能性を示すだけで、後ろの内容が真実だと証明したり、原因を確定したりするわけではない。",
+      "definition": "ある事実・説明・結果・行動・方針などが、別の事実や基準と両立し、互いに矛盾しない。また、一つの議論・説明・考え方の内部で、各部分が食い違わずに整合している。consistent with は「〜と一致する」「〜に沿う」と訳せるが、単に両立する可能性を示すだけで、後ろの内容が真実だと証明したり、原因を確定したりするわけではない。",
       "patterns": [
+        "an internally consistent 〈argument/account〉＝内部に矛盾のない議論・説明",
+        "〈argument/account〉 be internally consistent＝議論・説明の内部が整合している",
         "be consistent with 〈fact/evidence/policy〉＝事実・証拠・方針と矛盾しない",
         "be consistent with what ...＝〜することと整合する",
         "findings/results consistent with 〈cause〉＝原因と一致する所見・結果",
         "consistent with 〈principle/standard〉＝原則・基準に沿った"
       ],
       "collocations": [
+        {
+          "pattern": "an argument is internally consistent",
+          "use": "議論の内部に食い違いがないことを示す。前提の正しさまで保証するわけではない。",
+          "example": "Her argument is internally consistent, although I disagree with its assumptions.",
+          "translation": "前提には賛成できないが、彼女の議論の内部に矛盾はない。"
+        },
         {
           "pattern": "be consistent with the evidence",
           "use": "説明や結論が、得られている証拠と矛盾しない。",
@@ -307,7 +315,7 @@
           "pattern": "findings consistent with 〈diagnosis/cause〉",
           "use": "所見が、ある診断や原因なら予想されるものと一致する。",
           "example": "The scan showed injuries consistent with a fall.",
-          "translation": "その画像検査では、転落によるものと一致するけがが見られた。"
+          "translation": "その画像検査では、転倒・転落によるものとして矛盾しないけがが見られた。"
         },
         {
           "pattern": "be consistent with what 〈person〉 said",
@@ -323,8 +331,9 @@
         }
       ],
       "notes": [
-        "この意味では consistent with が基本で、consistent to とは通常言わない。with の後ろには名詞句だけでなく、what ... の名詞節も置ける。consistent with a fall のように、後ろの原因が実際に起きたことを断定せず、「その原因と整合する特徴がある」と述べることも多い。",
+        "外部の事実・基準との関係を示すときは consistent with が基本で、consistent to とは通常言わない。with の後ろには名詞句だけでなく、what ... の名詞節も置ける。consistent with a fall のように、後ろの原因が実際に起きたことを断定せず、「その原因と整合する特徴がある」と述べることも多い。",
         "A is consistent with B は、AとBが両立することを表すだけで、AがBを証明する、BがAの唯一の説明である、という意味ではない。consistent with を「〜と同一」「〜の証拠そのもの」と訳しすぎない。",
+        "an internally consistent argument は、通常の議論の内部に矛盾がないことを表し、数学・形式論理に限らない。外部の事実と一致するか、前提が真かは別の問題である。",
         "語義1の consistent in applying the rules は、主語が同じ基準で行動する領域を in で示す形である。語義3の consistent with the rules は、行動や決定が規則と整合するという関係を示す形であり、前置詞の違いだけでなく意味の向きも異なる。"
       ],
       "synonyms": [
@@ -405,20 +414,20 @@
         {
           "pattern": "a consistent estimator of 〈parameter〉",
           "use": "標本数を増やすと真の母数へ確率収束する推定量を指す。",
-          "example": "The sample mean is a consistent estimator of the population mean.",
-          "translation": "標本平均は母平均の一致推定量である。"
+          "example": "For independent, identically distributed data with a finite mean, the sample mean is a consistent estimator of the population mean.",
+          "translation": "有限の平均をもつ分布からの独立同分布のデータでは、標本平均は母平均の一致推定量である。"
         },
         {
           "pattern": "be consistent for 〈the true parameter〉",
           "use": "推定量が特定の真の母数に対して一致性をもつことを述べる。",
           "example": "This estimator is consistent for the true parameter under mild conditions.",
-          "translation": "この推定量は、穏やかな条件のもとで真の母数に対して一致性をもつ。"
+          "translation": "この推定量は、比較的緩い条件のもとで真の母数に対して一致性をもつ。"
         },
         {
           "pattern": "consistent as the sample size grows",
           "use": "標本数の増加に伴って推定量が真値に近づく性質を説明する。",
           "example": "The estimator is consistent as the sample size increases.",
-          "translation": "その推定量は標本数が増えるにつれて一致性をもつようになる。"
+          "translation": "その推定量は、標本数の増加に伴って真の母数へ確率収束するという一致性をもつ。"
         },
         {
           "pattern": "a biased but consistent estimator",
@@ -429,7 +438,8 @@
       ],
       "notes": [
         "この用法の consistent は、日常語の「結果が安定している」ではなく、標本数を無限に増やした極限で真の母数へ確率収束するという専門的な定義をもつ。accurate や unbiased と同義ではない。有限標本で偏りがあっても一致推定量になり得るし、各回の推定値が大きく変動しても一致性はあり得る。",
-        "通常は consistent estimator of 〈parameter〉 または consistent for 〈parameter〉 といい、一般義の consistent with 〈evidence〉 とは前置詞も意味も異なる。専門外の文脈で「一致推定量」と訳すと、単なる安定した推定結果と混同しやすい。"
+        "通常は consistent estimator of 〈parameter〉 または consistent for 〈parameter〉 といい、一般義の consistent with 〈evidence〉 とは前置詞も意味も異なる。専門外の文脈で「一致推定量」と訳すと、単なる安定した推定結果と混同しやすい。",
+        "対照表現: asymptotically unbiased は、標本数が無限に増えると、推定量の期待値の偏りがゼロへ近づくという漸近的不偏性を表す（この語義の頻度: 〈3/10〉）。期待値の偏りについての性質であり、真値への確率収束を表す consistent の類義語ではない。例: The estimator is asymptotically unbiased but not necessarily consistent. 訳: その推定量は漸近的に不偏だが、必ずしも一致性をもつとは限らない。"
       ],
       "synonyms": [
         {
@@ -439,14 +449,6 @@
           "difference": "convergent は極限へ近づく数学的性質を広く表す。統計で consistent というと、真の母数への確率収束という推定量固有の条件を表す。",
           "example": "The sequence is convergent and approaches zero.",
           "translation": "その数列は収束し、ゼロに近づく。"
-        },
-        {
-          "word": "asymptotically unbiased",
-          "definition": "標本数が無限に増えると、推定量の期待値の偏りがゼロへ近づく。",
-          "frequency": 3,
-          "difference": "asymptotically unbiased は期待値の偏りに関する性質で、真値への確率収束をいう consistent と同じではない。",
-          "example": "The estimator is asymptotically unbiased but not necessarily consistent.",
-          "translation": "その推定量は漸近的に不偏だが、必ずしも一致性をもつとは限らない。"
         }
       ],
       "antonyms": [
@@ -455,8 +457,8 @@
           "definition": "標本数を増やしても、真の母数へ確率収束しない推定量。",
           "frequency": 3,
           "difference": "統計学で、consistent estimator の定義上の反対に当たる。単に推定値のばらつきが大きいというだけでは inconsistent とは限らない。",
-          "example": "The estimator is inconsistent because it ignores most of the available data.",
-          "translation": "その推定量は利用できるデータの大部分を無視するため、一致性をもたない。"
+          "example": "The estimator is inconsistent because it converges in probability to the wrong value.",
+          "translation": "その推定量は真の母数と異なる値に確率収束するため、一致性をもたない。"
         }
       ]
     },
