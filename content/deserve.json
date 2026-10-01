@@ -3,7 +3,7 @@
   "slug": "deserve",
   "ipa": "米: /dɪˈzɝv/｜英: /dɪˈzɜːv/。2音節の di-ZURV で、第2音節に主強勢がある。米音の /ɝ/ は r の響きを伴う母音、英音の /ɜː/ は r を発音しない長母音である。綴りの s は /s/ ではなく有声音の /z/、語末は /f/ ではなく有声音の /v/ と発音する。",
   "lead": "ある人・集団・物・行為・提案などの行為、性質、重要性、結果を根拠として、称賛・報酬・機会・注意・配慮・批判・責任・罰などを受けるのが適切だと判断する。対象は人に限らず、The report deserves attention. のように報告書や提案なども主語になる。deserve はよい結果にも悪い結果にも使われ、必ずしも結果が実現することや、法的な請求権",
-  "updated": "2026-08-25",
+  "updated": "2026-10-01",
   "notion_url": "https://app.notion.com/p/deserve-3c74faa9b77d81f882faf6bce80c6242",
   "pronunciation": [
     "三人称単数 deserves は米 /dɪˈzɝvz/・英 /dɪˈzɜːvz/、過去形・過去分詞 deserved は米 /dɪˈzɝvd/・英 /dɪˈzɜːvd/、-ing形 deserving は米 /dɪˈzɝvɪŋ/・英 /dɪˈzɜːvɪŋ/。",
@@ -25,7 +25,7 @@
     },
     {
       "term": "deserved（形容詞）—",
-      "description": "a well-deserved rest「十分に休むに値する休息」、well-deserved praise「当然受けるに値する称賛」のように、結果・扱いが妥当だったことを表す。"
+      "description": "a well-deserved rest「努力や働きに見合った休息」、well-deserved praise「当然受けるに値する称賛」のように、結果・扱いが妥当であることを表す。"
     },
     {
       "term": "undeserved",
@@ -43,11 +43,11 @@
     },
     {
       "label": "行為者や対象が、ある行為をする・されるのが適切だと判断すること",
-      "description": "→ 「〜する／されるに値する」（語義2）"
+      "description": "→ 「〜する／されるに値する、当然〜になるべきだ」（語義2）"
     },
     {
       "label": "ある事柄が、検討・説明などの対象にされる価値があると判断すること",
-      "description": "→ 「〜される価値がある」（語義3）"
+      "description": "→ 「〜される価値がある、〜するだけの価値がある」（語義3）"
     }
   ],
   "sources": [],
@@ -62,14 +62,16 @@
       "definition": "ある人・集団・物・行為・提案などの行為、性質、重要性、結果を根拠として、称賛・報酬・機会・注意・配慮・批判・責任・罰などを受けるのが適切だと判断する。対象は人に限らず、The report deserves attention. のように報告書や提案なども主語になる。deserve はよい結果にも悪い結果にも使われ、必ずしも結果が実現することや、法的な請求権があることを含まない。",
       "patterns": [
         "〈人・物〉 deserve 〈reward/praise/attention〉＝人・物が報酬・称賛・注意などを受けるに値する",
+        "deserve something for 〈名詞・動名詞〉＝～を理由にある扱いを受けるに値する",
         "〈人・物〉 deserve 〈blame/punishment/criticism〉＝人・物が非難・罰・批判などを受けるに値する",
         "〈人・物〉 deserve a rest/a chance/a mention＝休息・機会・言及を受けるに値する",
         "〈人・物〉 deserve better＝もっとよい扱いを受けるに値する",
-        "What have I done to deserve this?＝自分が何をしたからこんな扱いを受けるのかという不満・冗談めいた反語"
+        "What have I done to deserve this?＝自分が何をしたからこんな扱いを受けるのかという不満・冗談めいた反語",
+        "one good turn deserves another＝親切には親切で報いるべきだということわざ"
       ],
       "collocations": [
         {
-          "pattern": "deserve praise/credit/respect",
+          "pattern": "deserve praise/credit/respect for 〈something/doing〉",
           "use": "努力、貢献、態度などに対する称賛・評価・尊敬が妥当だと述べる。",
           "example": "The volunteers deserve credit for keeping the shelter open through the winter.",
           "translation": "そのボランティアたちは、冬の間も避難所を開け続けたことで評価されて当然だ。"
@@ -115,6 +117,12 @@
           "use": "大変なことや不快なことを立派にやり遂げた人を、文字どおりではなく「勲章ものだ」と称賛するくだけた表現。",
           "example": "You deserve a medal for looking after those children all weekend.",
           "translation": "週末ずっとあの子どもたちの世話をしたなんて、勲章ものだよ。"
+        },
+        {
+          "pattern": "one good turn deserves another",
+          "use": "受けた親切に、こちらも親切で応えるべきだということわざ。",
+          "example": "You helped me move last month, so let me help you now; one good turn deserves another.",
+          "translation": "先月は引っ越しを手伝ってくれたから、今度は僕に手伝わせて。親切には親切で報いないとね。"
         }
       ],
       "notes": [
@@ -144,15 +152,15 @@
           "word": "warrant",
           "definition": "ある行動、判断、処置を正当化するだけの根拠がある。",
           "frequency": 6,
-          "difference": "warrant は「何かを行うだけの事情・証拠がある」という因果的・実務的な語で、人が報酬や罰を受ける道徳的評価を直接表す語ではない。",
+          "difference": "warrant は「何かを行うだけの事情・証拠がある」という根拠・正当性に関する語で、人が報酬や罰を受ける道徳的評価を直接表す語ではない。",
           "example": "The evidence does not warrant such a strong conclusion.",
           "translation": "その証拠は、そこまで強い結論を正当化するものではない。"
         },
         {
           "word": "earn",
-          "definition": "努力、行為、勤務などの結果として、報酬・信頼・評価・反応を得る。",
+          "definition": "努力、行為、勤務などによって、報酬・信頼・評価・反応、またはそれを受ける資格を得る。",
           "frequency": 9,
-          "difference": "earn は努力や実績によって結果を実際に獲得する過程に焦点を置く。deserve は、その結果を受けるのが妥当かという評価に焦点を置き、実現していない結果にも使える。",
+          "difference": "earn は努力・行為・実績が報酬や評価、またはそれを受ける資格をもたらす点に焦点がある。休息などについては、実際に受け取る前にも使える。deserve は、その扱い・結果が行為や性質に見合って妥当かという評価に焦点を置く。",
           "example": "She earned the team's trust by admitting her mistake.",
           "translation": "彼女は自分の間違いを認めることで、チームの信頼を得た。"
         },
@@ -244,7 +252,7 @@
           "word": "be worthy of",
           "definition": "性質や価値の点で、ある評価や扱いに値する。",
           "frequency": 8,
-          "difference": "be worthy of の後ろは名詞または動名詞で、be worthy to do は一般的な形ではない。deserve to do のように主語が行為者となる構文とは形が異なる。",
+          "difference": "be worthy of の後ろは名詞または動名詞になる。改まった表現では be worthy to do も使い、その行為をするにふさわしい資質があることを表す。deserve to do が行為や状況に見合う結果を評価するのに対し、worthy は本人や対象の価値・資質を強調しやすい。",
           "example": "The cause is worthy of your support.",
           "translation": "その大義はあなたの支援を受けるに値する。"
         },
