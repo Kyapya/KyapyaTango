@@ -3,7 +3,7 @@
   "slug": "device",
   "ipa": "米・英: /dɪˈvaɪs/。2音節の dɪ-ˈvaɪs で、第2音節に主強勢がある。第1音節は弱い /dɪ/、第2音節の /aɪ/ は強勢を担う二重母音で、語末は無声音 /s/ で終わる。複数形 devices は /dɪˈvaɪsɪz/ で、-s は /ɪz/ という別音節になる。綴りの似た動詞 devise は /dɪˈvaɪz/ で、語末が /z/ になる。",
   "lead": "特定の仕事・機能・目的を果たすように設計された物体、機械、器具、または機械的・電気的な仕掛け。電子機器に限らず、測定器、作業用器具、安全装置などにも使える。単に「物」なら何でも device と呼ぶのではなく、何らかの機能を果たすよう考案されたものを指す。",
-  "updated": "2026-08-21",
+  "updated": "2026-10-01",
   "notion_url": "https://app.notion.com/p/device-3c34faa9b77d817e90dffc59551923ff",
   "pronunciation": [],
   "etymology": [
@@ -14,7 +14,7 @@
   "core": [
     {
       "label": "device",
-      "description": "には、目的や特定の効果に向けて人が考案・配置した「仕掛け・手段」という共通核がある。物理的な機器だけでなく、目的達成の方法、欺きの策略、表現上の技法、紋章の意匠にも広がる。"
+      "description": "には、目的や特定の効果に向けて人が考案・配置した「仕掛け・手段」という共通核がある。物理的な機器だけでなく、目的達成の方法、欺きの策略、表現上の技法、紋章や装飾の意匠にも広がる。"
     },
     {
       "label": "目的に向けて考案・配置された物理的な仕掛け",
@@ -41,8 +41,8 @@
       "description": "→ 「表現技法、文学的装置」（語義6）"
     },
     {
-      "label": "目的に向けて考案・配置された紋章上の意匠",
-      "description": "→ 「紋章、標章」（語義7）"
+      "label": "目的に向けて考案・配置された象徴・装飾の意匠",
+      "description": "→ 「紋章、標章、装飾図案」（語義7）"
     },
     {
       "label": "語義8は歴史的残存義で、現代の",
@@ -179,7 +179,7 @@
       "register": [
         "標準語。IT、通信、家電、オンラインサービス、職場の情報管理で非常に一般的。日常語でも使うが、文脈によっては smartphone や computer より広い分類語になる。"
       ],
-      "definition": "コンピューターやネットワークに接続して、情報を処理・保存・送受信する電子機器。特に smartphone、tablet、printer、scanner、storage device などの比較的小型のハードウェアを指す。日常のIT文脈では、話題になっている機器を device とだけ呼ぶことが多い。",
+      "definition": "情報の処理・保存・入出力・通信などに使う電子機器・コンピューター関連機器。単体で使うものも、他の機器やネットワークに接続して使うものも含む。特に smartphone、tablet、printer、scanner、storage device などの比較的小型のハードウェアを指す。日常のIT文脈では、話題になっている機器を device とだけ呼ぶことが多い。",
       "patterns": [
         "a mobile・portable・wireless device＝携帯・持ち運び可能・無線の端末",
         "connect・pair a device with/to 〈機器・ネットワーク〉＝端末を～と接続・ペアリングする",
@@ -222,7 +222,7 @@
           "pattern": "access 〈サービス・データ〉 from a device",
           "use": "端末を使ってサービスやデータへアクセスすることを表す。",
           "example": "Employees can access the payroll system from any authorized device.",
-          "translation": "従業員は認証済みのどの端末からでも給与システムにアクセスできる。"
+          "translation": "従業員は利用を許可されたどの端末からでも給与システムにアクセスできる。"
         },
         {
           "pattern": "a device driver",
@@ -238,7 +238,7 @@
         }
       ],
       "notes": [
-        "IT文脈の device は、単なる「便利な小道具」ではなく、システムと接続して機能するハードウェアを分類する語になりやすい。phone と言えば電話機、computer と言えばコンピューター全体を指すのに対し、device はそれらを含む広い分類語である。device は通常可算で、複数の機器なら devices とする。device driver、storage device、mobile device のように前置修飾語で種類を具体化する。"
+        "IT文脈の device は、単なる「便利な小道具」ではなく、単体の端末や周辺機器などのハードウェアを分類する語になりやすい。外部のシステムに接続していない状態でも device と呼べる。phone と言えば電話機、computer と言えばコンピューター全体を指すのに対し、device はそれらを含む広い分類語である。device は通常可算で、複数の機器なら devices とする。storage device、mobile device のように、device の前の修飾語で機器の種類を具体化する。device driver はこれとは構造が異なり、device が driver を修飾する複合語で、機器を扱うためのソフトウェアを指す。"
       ],
       "synonyms": [
         {
@@ -296,7 +296,7 @@
         "an explosive・improvised explosive device＝爆発・即席爆発装置",
         "plant・place a device＝装置を仕掛ける",
         "detonate・set off a device＝装置を爆発させる",
-        "defuse・disarm a device＝装置の爆発を解除する",
+        "defuse・disarm a device＝装置が爆発しないように処理する",
         "a device explodes・fails to detonate＝装置が爆発する・起爆しない"
       ],
       "collocations": [
@@ -314,9 +314,9 @@
         },
         {
           "pattern": "a nuclear/atomic device",
-          "use": "核兵器・原子爆弾を、兵器の機能に焦点を置いて表す。",
+          "use": "核爆発を起こす装置を表す。核兵器だけでなく、実験用の核爆発装置も含めて使える。",
           "example": "The treaty prohibits the testing of nuclear devices.",
-          "translation": "その条約は核兵器の実験を禁じている。"
+          "translation": "その条約は核爆発装置の実験を禁じている。"
         },
         {
           "pattern": "plant/place a device",
@@ -326,7 +326,7 @@
         },
         {
           "pattern": "detonate/set off a device",
-          "use": "爆発装置を意図的に起爆することを表す。",
+          "use": "爆発装置を起爆することを表す。意図的な場合にも、偶発的な場合にも使える。",
           "example": "The device was detonated remotely.",
           "translation": "その装置は遠隔操作で起爆された。"
         },
@@ -334,7 +334,7 @@
           "pattern": "defuse/disarm a device",
           "use": "爆発装置が爆発しないように処理することを表す。",
           "example": "Bomb technicians managed to defuse the device.",
-          "translation": "爆発物処理班はその装置の爆発を解除することに成功した。"
+          "translation": "爆発物処理班は、その装置が爆発しないように処理することに成功した。"
         },
         {
           "pattern": "a device fails to detonate",
@@ -367,7 +367,7 @@
           "word": "weapon",
           "definition": "攻撃や防御に使う兵器・武器。",
           "frequency": 10,
-          "difference": "weapon は爆発しない銃や刃物も含む上位語で、device はこの語義では爆発するものに限定される。",
+          "difference": "weapon は攻撃・防御という用途に基づく語で、爆発しない銃や刃物も含む。device はここでは爆発する装置に焦点があり、兵器としての用途を必ずしも断定しない。",
           "example": "The device was designed as a weapon.",
           "translation": "その装置は兵器として設計された。"
         },
@@ -408,7 +408,7 @@
           "pattern": "a mnemonic device",
           "use": "情報を記憶しやすくする語呂、規則、イメージなどの工夫を表す。",
           "example": "Students invented a mnemonic device to remember the order of the planets.",
-          "translation": "生徒たちは惑星の順番を覚えるための語呂合わせを考えた。"
+          "translation": "生徒たちは惑星の順番を覚えやすくする工夫を考えた。"
         },
         {
           "pattern": "a teaching device",
@@ -417,7 +417,7 @@
           "translation": "その実験は圧力を説明するための効果的な教育手段だ。"
         },
         {
-          "pattern": "a device for achieving 〈目的〉",
+          "pattern": "a device for ensuring/achieving 〈結果〉",
           "use": "特定の目的を実現するために採用する手段を表す。",
           "example": "The committee proposed a device for ensuring equal access to the service.",
           "translation": "委員会はサービスへの平等なアクセスを確保する手段を提案した。"
@@ -442,7 +442,7 @@
         }
       ],
       "notes": [
-        "この語義では、device は「装置」から抽象化された「目的のための仕掛け・手段」で、method、technique、means と近い。a device for 〈動名詞・目的〉、a device to 〈動詞原形〉のように目的を後ろへ置く。欺きが中心なら語義5、文学・演説・物語の効果を狙う表現技法なら語義6へ移る。単に「方法」という意味でも、何らかの意図的な工夫・仕掛けという見方が含まれやすい。"
+        "この語義では、device は物理的な装置ではなく、抽象的な「目的のための仕掛け・手段」を指し、method、technique、means と近い。a device for 〈動名詞・目的〉、a device to 〈動詞原形〉のように目的を後ろへ置く。欺きが中心なら語義5、文学・演説・物語の効果を狙う表現技法なら語義6へ移る。単に「方法」という意味でも、何らかの意図的な工夫・仕掛けという見方が含まれやすい。"
       ],
       "synonyms": [
         {
@@ -501,7 +501,7 @@
         "a device for 〈動名詞・目的〉＝～のための計略",
         "use something as a device to 〈動詞原形〉＝何かを～する策略として使う",
         "a device used to 〈動詞原形〉＝～するために使われる仕掛け",
-        "a mere・clever・cynical device＝単なる・巧妙な・冷笑的な策略"
+        "a mere・clever・cynical device＝単なる・巧妙な・他者を顧みず利益を図る策略"
       ],
       "collocations": [
         {
@@ -523,7 +523,7 @@
           "translation": "その取り決めは支出上限をかいくぐるための策略だった。"
         },
         {
-          "pattern": "a device used to make it seem 〈形容詞〉",
+          "pattern": "a device used to make 〈対象〉 seem 〈形容詞〉",
           "use": "実際とは違う印象を与えるための仕掛けを表す。",
           "example": "The report was merely a device used to make the losses seem smaller.",
           "translation": "その報告書は損失を小さく見せるためだけの仕掛けだった。"
@@ -536,7 +536,7 @@
         },
         {
           "pattern": "a clever/cynical device",
-          "use": "策略の巧妙さや冷笑的な意図を評価する。",
+          "use": "策略が巧妙であることや、他者への配慮を欠いて自分の利益を図るものであることを評価する。",
           "example": "Calling the fee a donation was a clever device to avoid criticism.",
           "translation": "その料金を寄付と呼ぶのは批判を避ける巧妙な策略だった。"
         }
@@ -669,9 +669,9 @@
         },
         {
           "word": "trope",
-          "definition": "繰り返し用いられる比喩・表現類型または物語上の定型。",
+          "definition": "比喩的な表現。また、よく使われる表現類型や物語上の定型。",
           "frequency": 6,
-          "difference": "trope は定型化・反復された表現や物語パターンを指しやすい。device は一つの作品で意図的に使われる仕掛けにも使える。",
+          "difference": "trope は修辞では比喩的表現を指し、反復は必須ではない。物語批評では定型化した表現や展開のパターンを指す。device は定型かどうかを問わず、作品の効果を生む仕掛けを広く指せる。",
           "example": "The film plays with the familiar hero’s-journey trope.",
           "translation": "その映画はおなじみの英雄の旅という物語類型をひねって使っている。"
         },
@@ -696,14 +696,15 @@
     },
     {
       "number": 7,
-      "title": "【名詞・可算・紋章学】紋章、標章、意匠",
+      "title": "【名詞・可算・紋章・装飾】紋章、標章、装飾図案",
       "frequency": 2,
       "register": [
-        "紋章学、歴史、文学、正式な意匠説明。現代の日常英語ではまれで、heraldic device などの形で現れやすい。"
+        "紋章学、歴史、美術・工芸、文学、意匠説明。日常の一般的な機器の用法に比べて使用場面が限られ、heraldic device、decorative device などの形で現れる。"
       ],
-      "definition": "特に紋章の一部として使われる象徴的な図案・意匠・標章。家系、組織、国家などを表すデザインを指す専門的・歴史的な用法で、日常の「装置」という意味では使わない。",
+      "definition": "象徴や装飾のために用いる図案・意匠・標章。紋章の一部や、家系・組織・国家・商標などを表す図案に加え、刺繍などの装飾模様にも使う。この用法では、何かの機能を果たす装置ではなく、描かれたり作り込まれたりしたデザインを指す。",
       "patterns": [
         "a heraldic device＝紋章上の意匠",
+        "a decorative device＝装飾図案",
         "the device of 〈家系・組織〉＝～の標章",
         "display・bear a device＝意匠を掲げる・身に付ける"
       ],
@@ -731,17 +732,23 @@
           "use": "盾、旗、印章などが特定の意匠を描いていることを表す。",
           "example": "The seal bears a device of a bird and a crown.",
           "translation": "その印章には鳥と王冠の意匠が描かれている。"
+        },
+        {
+          "pattern": "a decorative device",
+          "use": "物の表面などに用いる装飾的な図案・模様を表す。",
+          "example": "A decorative device was embroidered on each corner of the cloth.",
+          "translation": "布の各隅に装飾模様が刺繍されていた。"
         }
       ],
       "notes": [
-        "この語義は heraldry の専門用法で、emblem や insignia に近い。crest は紋章全体ではなく、しばしば兜の上に置かれる特定部分を指すため、device と完全に同義ではない。現代の一般文脈で組織のマークを言うなら emblem、logo、insignia の方が自然なことが多い。"
+        "heraldry では象徴的な紋章の意匠を指すが、紋章以外の標章や装飾図案にも使う。標語を device と呼ぶ用法もある。crest は厳密な紋章学では兜の上などに置かれる特定部分を指す。一方、一般用法では家系・組織の標章を広く crest と呼ぶこともあり、どちらの意味かを文脈から判断する。現代の一般文脈で組織のマークを言うなら emblem、logo、insignia の方が自然なことが多い。"
       ],
       "synonyms": [
         {
           "word": "emblem",
           "definition": "集団・理念・組織などを象徴する図案や物。",
           "frequency": 7,
-          "difference": "emblem は紋章学に限らず象徴一般に使える。device はこの語義では紋章上の正式な意匠という専門性が強い。",
+          "difference": "emblem は紋章学に限らず象徴一般に使える。device は紋章上の意匠や装飾図案を述べる硬めの用法であり、象徴性のない装飾にも使える。",
           "example": "The eagle is an emblem of the nation.",
           "translation": "ワシはその国の象徴だ。"
         },
@@ -755,9 +762,9 @@
         },
         {
           "word": "crest",
-          "definition": "紋章の上部に置かれる図案、または家系を表す紋章。",
+          "definition": "紋章学では兜の上などに置く図案。一般用法では家系・組織の標章。",
           "frequency": 6,
-          "difference": "crest は紋章の特定部分を指すことが多く、device より対象が限定される。",
+          "difference": "紋章学上の crest は特定の部分を指し、device より対象が限定される。次の family crest は家系の標章を表す一般的な用法である。",
           "example": "The family crest appears on the silverware.",
           "translation": "その家の紋章が銀食器に描かれている。"
         },
@@ -832,7 +839,7 @@
           "translation": "監督はビジュアルスタイルについてデザイナーに自由な裁量を与えた。"
         },
         {
-          "word": "let somebody fend for themselves",
+          "word": "leave somebody to fend for themselves",
           "definition": "人が自力で対処するに任せ、助けを与えない。",
           "frequency": 6,
           "difference": "fend for themselves は困難の中で自力で切り抜ける含みが強く、own devices より厳しい状況を示しやすい。",
