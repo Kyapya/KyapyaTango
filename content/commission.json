@@ -3,11 +3,11 @@
   "slug": "commission",
   "ipa": "米・英: /kəˈmɪʃən/。3音節で第2音節に主強勢があり、第1音節の母音は弱い /ə/ になる。語末の -sion は /ʃən/ と発音し、commissioned は /kəˈmɪʃənd/、commissioning は /kəˈmɪʃənɪŋ/ となる。",
   "lead": "政府、公的機関、国際機関その他の組織・団体から、特定分野の調査、監督、規制、助言などを行う正式な任務と権限を与えられた人々の組織を表す。公的機関が典型だが、設置主体は政府に限られない。固有の機関名では Commission と大文字で書くことがある。",
-  "updated": "2026-09-07",
+  "updated": "2026-10-01",
   "notion_url": "https://app.notion.com/p/commission-3d44faa9b77d81c39ef7faef8ac9c1e1",
   "pronunciation": [],
   "etymology": [
-    "中英語 commissioun が古フランス語 commission を経てラテン語 commissio「委ねること、委任」にさかのぼる。これは committere「結び付ける、委ねる」の過去分詞語幹に由来し、com-「共に」と mittere「送る」から成る。「権限や仕事を人に委ねる」という核から、委員会、正式な依頼、軍の任官、取引を委ねた相手への手数料などの意味が発達した。同語源の主要語に commit「委ねる、犯す」、commitment「委任、約束・責任」、commissioner「委員、長官」がある。"
+    "中英語 commissioun が古フランス語 commission を経て中世ラテン語 commissio「委ねること、委任」にさかのぼる。これは committere「結び付ける、委ねる」の過去分詞語幹に由来し、com-「共に」と mittere「送る」から成る。「権限や仕事を人に委ねる」という核から、委員会、正式な依頼、軍の任官、取引を委ねた相手への手数料などの意味が発達した。同語源の主要語に commit「委ねる、犯す」、commitment「約束、責任、献身」、commissioner「委員、長官」がある。"
   ],
   "formation": [
     {
@@ -28,7 +28,7 @@
     },
     {
       "term": "recommission（動詞）—",
-      "description": "運用を停止していた船舶・設備などを再び就役・稼働させる。"
+      "description": "船舶などを再び就役させる。また工学では、設備などを再度試験・調整し、所期の性能を確認する。設備が以前に運用を停止していたとは限らない。"
     },
     {
       "term": "commission-free（形容詞）—",
@@ -37,8 +37,8 @@
   ],
   "core": [
     {
-      "label": "権限、仕事、取引などを正式に誰かへ委ね、その実行を担わせること。委ねられた主体、依頼された仕事、その対価、正式な権限へ焦点が移ることで各語義が生じる。語義5は「行為を実行する」という古くからの抽象名詞用法が犯罪などに固定した歴史的残存義で、現代の「委ねる」という核から導きにくいため個別に参照する。",
-      "description": ""
+      "label": "権限、仕事、取引などを正式に誰かへ委ね、その実行を担わせること。委ねられた主体、依頼された仕事、その対価、正式な権限へ焦点が移ることで各語義が生じる。語義5は",
+      "description": "commit「行う、犯す」に対応する「行為の実行」の意味で、特に犯罪・違反などについて使われる。現代の「委ねる」という核から導きにくいため個別に参照する。"
     },
     {
       "label": "公的な役目を集団へ委ねること",
@@ -46,11 +46,11 @@
     },
     {
       "label": "売買・仲介・取引処理を担う相手へ対価を渡すこと",
-      "description": "→ 「歩合、販売・取扱・仲介手数料」（語義2）"
+      "description": "→ 「歩合、販売・仲介・取扱手数料」（語義2）"
     },
     {
       "label": "人へ任務とそれを行う権限を正式に委ねること",
-      "description": "→ 「委任、任務、権限」（語義3）"
+      "description": "→ 「委任された任務・権限」（語義3）"
     },
     {
       "label": "作品・専門成果物の制作を専門家へ正式に委ねること",
@@ -61,8 +61,8 @@
       "description": "→ 「士官任命、士官の地位・権限」（語義6）"
     },
     {
-      "label": "船舶や設備へ正式な役目を与えること",
-      "description": "→ in commission「就役・稼働中」。その否定から out of commission「使用不能」、さらに人の「活動不能」へ比喩的に広がる（語義7）"
+      "label": "正式な任務・運用に就いているかどうか",
+      "description": "→ 「就役中・稼働中／使用不能・任務不能」（語義7）"
     },
     {
       "label": "制作や調査を人へ正式に委ねること",
@@ -192,7 +192,7 @@
         },
         {
           "pattern": "work on commission",
-          "use": "固定給の全部または一部ではなく、成果に応じた報酬体系で働く。",
+          "use": "報酬の全部または一部が、売上・取引成果に応じて決まる形で働く。",
           "example": "Most sales staff receive a base salary and work partly on commission.",
           "translation": "営業担当者の多くは基本給を受け取り、報酬の一部が歩合となる形で働いている。"
         },
@@ -236,12 +236,12 @@
     },
     {
       "number": 3,
-      "title": "【可算名詞・形式的】委任された任務・権限",
+      "title": "【可算名詞・文語的】委任された任務・権限",
       "frequency": 3,
       "register": [
-        "形式的、歴史的、外交・行政・代理・文学。"
+        "文語的、外交・行政・代理・文学。歴史的な叙述にも用いる。"
       ],
-      "definition": "外交・行政・代理行為などで、人に正式に委ねられた任務、指示、またはその任務を遂行する権限。有償の作品・専門成果物を作らせる発注ではなく、受任者が何を行うよう命じられ、どこまで代表・交渉・調査する権限を持つかに焦点がある。現代ではやや形式的・文語的である。",
+      "definition": "外交・行政・代理行為などで、人に正式に委ねられた任務、指示、またはその任務を遂行する権限。有償の作品・専門成果物を作らせる発注ではなく、受任者が何を行うよう命じられ、どこまで代表・交渉・調査する権限を持つかに焦点がある。現代ではやや硬い文体で用いる。",
       "patterns": [
         "a commission to do 〈任務〉＝～するよう委ねられた任務",
         "receive/accept a commission to do 〈任務〉＝～する任務を受ける",
@@ -276,7 +276,7 @@
         }
       ],
       "notes": [
-        "この語義は現代の日常語では assignment、mission、authority などに言い換えることが多い。語義4は依頼主が有償で作品・専門成果物を作らせる「発注」を表し、語義3は受任者に委ねられた任務と行動権限を表す。"
+        "この語義は現代の日常語では assignment、mission、authority などに言い換えることが多い。語義4は依頼主が有償で作品・専門成果物を作らせる「発注」を表し、語義3は受任者に委ねられた任務と行動権限を表す。その権限を授与する正式な文書・委任状そのものも commission と呼ぶ。"
       ],
       "synonyms": [
         {
@@ -371,12 +371,12 @@
     },
     {
       "number": 5,
-      "title": "【不可算名詞・形式的】犯罪・不正行為を行うこと",
+      "title": "【不可算名詞・文語的】犯罪・不正行為を行うこと",
       "frequency": 5,
       "register": [
         "法律、報道、公的文書。日常会話では committing a crime や carrying out the act の方が普通。"
       ],
-      "definition": "犯罪、違反、不正行為などを実行することを表す形式的な名詞用法。通常、the commission of 〈crime/offence/act〉という固定的な形で使う。",
+      "definition": "犯罪、違反、不正行為などを実行することを表す、硬い文体の名詞用法。通常、the commission of 〈crime/offence/act〉という固定的な形で使う。",
       "patterns": [
         "the commission of a crime/an offence＝犯罪・違反を行うこと",
         "during/in the commission of 〈crime〉＝犯罪の実行中に",
@@ -385,7 +385,7 @@
       "collocations": [
         {
           "pattern": "the commission of a crime",
-          "use": "犯罪を実行する行為を法律的・形式的に表す。",
+          "use": "犯罪を実行する行為を法律文書などの硬い表現で述べる。",
           "example": "The evidence linked the weapon to the commission of the crime.",
           "translation": "その証拠により、凶器とその犯罪の実行が結び付けられた。"
         },
@@ -397,13 +397,13 @@
         },
         {
           "pattern": "aid someone in the commission of 〈offence〉",
-          "use": "他者が違反・犯罪を行うのを助けることを形式的に表す。",
+          "use": "他者が違反・犯罪を行うのを助けることを硬い文体で表す。",
           "example": "He was accused of aiding others in the commission of the offence.",
           "translation": "彼は他者によるその違反の実行を助けたとして告発された。"
         }
       ],
       "notes": [
-        "この語義の commission は「委員会」や「手数料」ではなく、commit「行う、犯す」に対応する行為名詞である。通常は単独で自由に使わず、the commission of の後ろに犯罪・違反・不正行為を置く。"
+        "この語義の commission は「委員会」や「手数料」ではなく、commit「行う、犯す」に対応する行為名詞である。特に the commission of a crime/an offence のように、犯罪・違反などの実行を表す形で使う。errors of commission は、誤ったことをしてしまうタイプのミスを指し、犯罪や故意の不正に限らない。"
       ],
       "synonyms": [
         {
@@ -424,7 +424,7 @@
       "register": [
         "軍事、公式。"
       ],
-      "definition": "軍で士官としての階級と権限を正式に与える任命、またはその地位・権限を表す。一般的な入隊や配属そのものではない。",
+      "definition": "軍で士官としての階級と権限を正式に与える任命、またはその地位・権限を表す。一般的な入隊や配属そのものではない。文脈によっては、任命を記した辞令・任官証書そのものも指す。",
       "patterns": [
         "receive/obtain a commission＝士官に任官する",
         "hold a commission in 〈軍種〉＝～軍で士官の地位にある",
@@ -447,7 +447,7 @@
           "pattern": "resign one's commission",
           "use": "士官としての地位・任命を正式に辞する。",
           "example": "The officer resigned her commission and left the service.",
-          "translation": "その士官は任官を辞し、軍を去った。"
+          "translation": "その士官は士官の地位を辞し、軍を去った。"
         }
       ],
       "notes": [
@@ -467,7 +467,7 @@
     },
     {
       "number": 7,
-      "title": "【慣用的名詞句】就役中・稼働中／使用不能・任務不能",
+      "title": "【慣用表現】就役中・稼働中／使用不能・任務不能",
       "frequency": 6,
       "register": [
         "一般語・海事・軍事。out of commission は機械や人について日常的な比喩にも使う。"
@@ -495,7 +495,7 @@
           "pattern": "put someone out of commission",
           "use": "けがや病気などで人を一時的に活動できない状態にする。",
           "example": "A shoulder injury put him out of commission for the rest of the season.",
-          "translation": "肩のけがにより、彼はシーズン残りを出場できなくなった。"
+          "translation": "肩のけがにより、彼はシーズンの残りの期間は出場できなくなった。"
         },
         {
           "pattern": "put 〈ship/equipment〉 into commission",
@@ -562,7 +562,7 @@
           "pattern": "be commissioned by 〈依頼主〉",
           "use": "作品・調査などを依頼した主体を受動形で示す。",
           "example": "The survey was commissioned by the city council.",
-          "translation": "その調査は市議会の依頼で実施された。"
+          "translation": "その調査は市議会によって正式に依頼された。"
         },
         {
           "pattern": "specially commissioned for 〈目的・機会〉",
@@ -572,7 +572,7 @@
         }
       ],
       "notes": [
-        "commission someone to do と commission something from someone は視点が異なる。前者は仕事をする人を直接目的語にし、後者は成果物を直接目的語にして制作者を from で示す。commission someone for a job は文脈によって不自然になりやすく、正式な制作依頼なら commission someone to do the work とする。"
+        "commission someone to do と commission something from someone は視点が異なる。前者は仕事をする人を直接目的語にし、後者は成果物を直接目的語にして制作者を from で示す。"
       ],
       "synonyms": [
         {
@@ -665,7 +665,7 @@
       "register": [
         "海事、軍事、工学、建設、エネルギー。"
       ],
-      "definition": "船舶を正式に就役させる。また工学では、設備・システムが要求どおり安全に作動するかを試験・調整・検証し、運用可能であることを確認して引き渡す。既設・改修設備にも使い、必ずしも実運用の開始そのものを意味しない。",
+      "definition": "船舶を正式に就役させる。また工学では、設備・システムが要求どおり安全に作動するかを試験・調整・検証し、運用可能であることを確認し、必要に応じて運用側へ引き渡す。既設・改修設備にも使い、必ずしも実運用の開始そのものを意味しない。",
       "patterns": [
         "commission 〈ship〉＝船を正式に就役させる",
         "commission 〈system/equipment〉＝設備・システムを試験・調整・検証して運用可能にする",
@@ -705,7 +705,7 @@
           "word": "activate",
           "definition": "装置・機能を作動状態にする。",
           "frequency": 7,
-          "difference": "activate は一回の作動操作にも使う。commission は試験・承認・引渡しを含む正式な運用開始工程に焦点がある。",
+          "difference": "activate は一回の作動操作にも使う。commission は、試験・検証によって運用可能性を確認する工程に焦点があり、必要に応じて承認・引渡しも含む。",
           "example": "The technician activated the emergency system.",
           "translation": "技術者は緊急システムを作動させた。"
         },
@@ -723,9 +723,9 @@
           "word": "decommission",
           "definition": "船舶、設備、施設などを正式に運用から外す。",
           "frequency": 5,
-          "difference": "commission が正式な運用開始を表すのに対し、decommission は同じ運用状態の軸で正式な使用停止を表す。",
+          "difference": "commission が船舶・設備を就役・運用に入れる意味で使われる場合、decommission はそれらを正式に運用から外すことを表す。",
           "example": "The operator plans to decommission the old reactor by 2030.",
-          "translation": "運営事業者は2030年までに古い原子炉を廃止措置へ移す予定だ。"
+          "translation": "運営事業者は2030年までに古い原子炉の廃止措置を行う予定だ。"
         }
       ]
     }
