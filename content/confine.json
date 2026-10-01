@@ -1,9 +1,9 @@
 {
   "word": "confine",
   "slug": "confine",
-  "ipa": "動詞は米・英: /kənˈfaɪn/。2音節で第2音節に主強勢があり、第1音節の母音は弱い /ə/ になる。低頻度の名詞は、米: /ˈkɑːnfaɪn/｜英: /ˈkɒnfaɪn/ で、第1音節に主強勢が移り、第1音節の母音にも米英差がある。",
+  "ipa": "動詞は米・英: /kənˈfaɪn/。2音節で第2音節に主強勢があり、第1音節の母音は弱い /ə/ になる。低頻度の名詞の基本的な発音は、米: /ˈkɑːnfaɪn/｜英: /ˈkɒnfaɪn/ で、第1音節に主強勢が移り、第1音節の母音にも米英差がある。",
   "lead": "話題、活動、作業、影響、現象などが及ぶ抽象的な範囲を、特定の対象、期間、分野などに限定する。対象がすでにその範囲に収まっていることを述べる受動形のほか、話し手が意識的に扱う範囲を絞る能動形・再帰形でも使われる。",
-  "updated": "2026-09-06",
+  "updated": "2026-10-01",
   "notion_url": "https://app.notion.com/p/confine-3d34faa9b77d81c8ab70f963865d05ed",
   "pronunciation": [],
   "etymology": [
@@ -12,7 +12,7 @@
   "formation": [
     {
       "term": "confinement（名詞）—",
-      "description": "閉じ込めること、閉じ込められた状態、拘禁。"
+      "description": "閉じ込めること、閉じ込められた状態、拘禁。また、硬い・古風な用法で「出産、産期」。"
     },
     {
       "term": "confined（形容詞）—",
@@ -38,7 +38,7 @@
     },
     {
       "label": "人・動物・物質などを一定の場所や区域から出ないようにする",
-      "description": "→ 「閉じ込める、拘束する」（語義2）"
+      "description": "→ 「人・動物・物質などを閉じ込める、拘束する」（語義2）"
     },
     {
       "label": "病気やけがで生活場所を狭い範囲にとどめる",
@@ -248,18 +248,18 @@
       "register": [
         "一般語・医療関連。病状や回復期間を述べるやや硬い表現。"
       ],
-      "definition": "病気、けが、身体状態などが原因で、人がベッド、自宅、病室など限られた場所から動けない、または外出できない状態にする。原因を主語にする能動文と、本人を主語にした be confined to の形がある。",
+      "definition": "病気、けが、身体状態や療養上の制限のため、人がベッド、自宅、病室など限られた場所にとどまらなければならない状態にする。原因を主語にする能動文と、本人を主語にした be confined to の形がある。",
       "patterns": [
-        "〈病気・けが・身体状態〉 confine someone to 〈bed/home/a room〉＝病気などが人を～から動けない状態にする",
-        "someone be confined to bed/home＝人が病気などで寝床・自宅から動けない",
+        "〈病気・けが・身体状態〉 confine someone to 〈bed/home/a room〉＝病気などのため人が～にとどまらなければならなくなる",
+        "someone be confined to bed/home＝人が病気などで寝床・自宅にとどまらなければならない",
         "someone be confined to bed with 〈病気〉＝病気により寝床にとどまっている"
       ],
       "collocations": [
         {
           "pattern": "be confined to bed",
-          "use": "病気やけがのため起きて普段どおり活動できず、寝床にとどまる。",
+          "use": "病気やけが、療養上の制限のため、寝床にとどまる。",
           "example": "She was confined to bed for a week with a severe infection.",
-          "translation": "彼女は重い感染症のため1週間、寝床から起きられなかった。"
+          "translation": "彼女は重い感染症のため1週間、床についていた。"
         },
         {
           "pattern": "be confined to one's home",
@@ -281,7 +281,7 @@
         }
       ],
       "notes": [
-        "be confined to a wheelchair は従来から見られる表現だが、車いすを人を閉じ込める物として否定的に描くため、不快・不適切と受け取られることがある。単に移動手段を述べるなら use a wheelchair または be a wheelchair user を用いる。be confined to bed は病気などで起きられない状態を表し、単にベッドで休む choose to stay in bed とは異なる。"
+        "be confined to a wheelchair は従来から見られる表現だが、車いすを人を閉じ込める物として否定的に描くため、不快・不適切と受け取られることがある。単に移動手段を述べるなら use a wheelchair または be a wheelchair user を用いる。be confined to bed は病気や療養のため寝床にとどまる必要がある状態を表し、身体的に起き上がれないとは限らない。単に好んで寝床にいる choose to stay in bed とは異なる。また、古風な be confined には「出産する」という用法があり、場所に閉じ込める通常の受動形とは区別する。"
       ],
       "synonyms": [
         {
@@ -511,7 +511,7 @@
         }
       ],
       "notes": [
-        "名詞では動詞と強勢位置が異なる。現代英語では通常 the confines of ... の複数形で使い、単数の a confine はまれである。confines は「境界線」そのものと「境界に囲まれた領域」の両方を表し得るため、within the confines of the park は通常「公園の区域内」、beyond the confines of the law は比喩的に「法の枠を越えて」と理解する。"
+        "名詞では通常、動詞と強勢位置が異なる。現代英語では通常 the confines of ... の複数形で使い、単数の a confine はまれである。confines は「境界線」そのものと「境界に囲まれた領域」の両方を表し得るため、within the confines of the park は通常「公園の区域内」、beyond the confines of the law は比喩的に「法の枠を越えて」と理解する。"
       ],
       "synonyms": [
         {
