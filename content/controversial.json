@@ -3,7 +3,7 @@
   "slug": "controversial",
   "ipa": "米: /ˌkɑːntrəˈvɝːʃəl/｜英: /ˌkɒntrəˈvɜːʃəl/。米英とも4音節で、第3音節の /vɝː/・/vɜː/ に主強勢がある。第1音節の /ˌkɑːn/・/ˌkɒn/ には副次強勢を示す。米語では /ˌkɑːntrəˈvɝːsiəl/ に近い5音節寄りの発音も聞かれるが、通常の学習上は /ˈvɝːʃəl/・/ˈvɜːʃəl/ の部分を基準にする。",
   "lead": "政策・決定・主張・作品・発言・人物などが、社会全体または特定の集団の中で、強い意見の対立、批判、反対を引き起こしていることを表す。事実として真偽が決まっていないことを必ずしも含まず、悪い、違法、意図的に挑発的だという意味でもない。",
-  "updated": "2026-09-12",
+  "updated": "2026-10-01",
   "notion_url": "https://app.notion.com/p/controversial-3d94faa9b77d816390a5eca2cbd3a092",
   "pronunciation": [],
   "etymology": [
@@ -20,7 +20,7 @@
     },
     {
       "term": "controversialist",
-      "description": "名詞。「論争家、論争に加わる人」。人の性向または論争上の立場を指す硬めの語。"
+      "description": "名詞。「論争家、論争に加わる人」。硬めの語。"
     },
     {
       "term": "controvert",
@@ -35,9 +35,9 @@
       "title": "【形容詞・限定用法／叙述用法・対象／人】論争を呼ぶ、賛否が分かれる、物議を醸す",
       "frequency": 9,
       "register": [
-        "標準語で、会話・ニュース・政治・文化・学術・ビジネスの文章まで広く使う。controversial は「多くの人が反対している」と同じではなく、賛成・反対の議論が強く起きている状態を指す。"
+        "標準語で、会話・ニュース・政治・文化・学術・ビジネスの文章まで広く使う。controversial は単に「多くの人が反対している」という意味ではなく、論争や強い意見の対立を引き起こしている、または引き起こしやすいことを表す。"
       ],
-      "definition": "政策・決定・主張・作品・発言・人物などが、社会全体または特定の集団の中で、強い意見の対立、批判、反対を引き起こしていることを表す。事実として真偽が決まっていないことを必ずしも含まず、悪い、違法、意図的に挑発的だという意味でもない。",
+      "definition": "政策・決定・主張・作品・発言・人物などが、社会全体または特定の集団の中で、強い意見の対立、批判、反対を引き起こしている、または引き起こしやすいことを表す。事実として真偽が決まっていないことを必ずしも含まず、悪い、違法、意図的に挑発的だという意味でもない。",
       "patterns": [
         "be/become/remain/prove controversial＝論争を呼ぶ・論争の的であり続ける・結果的に物議を醸す",
         "a controversial 〈issue・decision・policy・claim・statement・figure・book・film〉＝論争を呼ぶ〈問題・決定・政策・主張・発言・人物・本・映画〉",
@@ -64,15 +64,15 @@
         },
         {
           "pattern": "a controversial figure",
-          "use": "功績と批判の両方があり、評価が大きく割れている人物を指す。",
+          "use": "言動・立場・評価などをめぐって、強い意見の対立や論争を招く人物を指す。",
           "example": "The historian remains a controversial figure in the region.",
           "translation": "その歴史家はその地域で今も評価が大きく分かれる人物だ。"
         },
         {
           "pattern": "a highly controversial proposal",
           "use": "提案に対して非常に強い賛否や反発が起きていることを強調する。",
-          "example": "The city council postponed a highly controversial proposal.",
-          "translation": "市議会は非常に物議を醸している提案を延期した。"
+          "example": "The city council postponed a vote on a highly controversial proposal.",
+          "translation": "市議会は非常に物議を醸している提案の採決を延期した。"
         },
         {
           "pattern": "controversial among 〈group〉",
@@ -100,7 +100,7 @@
         },
         {
           "pattern": "become controversial after ...",
-          "use": "当初は普通だった対象が、後から知られた事実や変化によって論争の的になることを表す。",
+          "use": "以前は論争の的ではなかった対象が、後から知られた事実や変化によって論争の的になることを表す。",
           "example": "The renovation plan became controversial after residents learned the full cost.",
           "translation": "住民が総費用を知った後、その改修計画は物議を醸すようになった。"
         }
@@ -121,7 +121,7 @@
           "word": "disputed",
           "definition": "真偽・権利・解釈などが争われている、意見が一致していない。",
           "frequency": 8,
-          "difference": "disputed は「正しいか、誰のものかなどが争われている」という未確定性を強調し、controversial のような広い世論上の物議まで必ずしも含まない。",
+          "difference": "disputed は真偽・権利・判断などについて異議や争いがあることを強調し、controversial のような広い世論上の物議まで必ずしも含まない。",
           "example": "The map shows the disputed border in a different color.",
           "translation": "その地図は争われている国境を別の色で示している。"
         },
@@ -145,7 +145,7 @@
           "word": "provocative",
           "definition": "強い反応や議論を意図的または効果として引き起こす、挑発的な。",
           "frequency": 8,
-          "difference": "provocative は発言者・作者が反応を誘う性質や意図に焦点がある。controversial は実際に物議が生じている状態を表し、意図を必要としない。",
+          "difference": "provocative は発言者・作者が反応を誘う性質や意図に焦点がある。controversial は論争や強い意見の対立を引き起こしている、または引き起こしやすいことを表し、意図的な挑発を必須としない。",
           "example": "The artist is known for provocative questions about public memory.",
           "translation": "その芸術家は公共の記憶について挑発的な問いを投げかけることで知られている。"
         },
@@ -190,14 +190,14 @@
       "title": "【形容詞・人の性向・まれ】論争を好む、論争を引き起こしがちな、論争的な",
       "frequency": 2,
       "register": [
-        "まれで、辞書的・形式的・文学的な説明に現れやすい。現代の一般的な文章で人の性向を表すなら argumentative、disputatious、polemical の方が意味を明確にしやすい。"
+        "まれで、硬い文体や文学的な人物描写などに現れる。現代の一般的な文章で人の性向を表すなら argumentative、disputatious、polemical の方が意味を明確にしやすい。"
       ],
       "definition": "人が性格や態度の傾向として、議論を好んだり、既存の立場に反論して対立を生みやすかったりすることを表す。辞書に記載される低頻度の語義で、現代の controversial person は通常、語義1の「論争の的となっている人物」と解釈される。",
       "patterns": [
         "a controversial temperament＝論争を好む気質",
         "a controversial manner＝対立を生みやすい態度",
         "be controversial by temperament＝性向として論争的である",
-        "be controversial in debate＝議論で意図的に反論を重ねる。"
+        "be controversial in debate＝討論で論争的な態度を示す。"
       ],
       "collocations": [
         {
@@ -220,13 +220,13 @@
         },
         {
           "pattern": "be controversial in debate",
-          "use": "議論の最中に、立場そのものよりも反論を重ねる性向が目立つことを表す。",
+          "use": "討論の場で論争を好む性向や態度を示す。反論の回数や意図性まで語自体が指定するわけではない。",
           "example": "The speaker was controversial in debate because he deliberately attacked each established position.",
           "translation": "その話者は確立した立場を一つ一つ意図的に攻撃したため、討論では論争的だった。"
         }
       ],
       "notes": [
-        "この語義では controversial が人の性向を直接表すが、現代の「論争の的となる人物」という普通の解釈と形が同じなので、文脈で区別する必要がある。a controversial politician は通常語義1であり、気質を明示する temperament、manner、by temperament などがあって初めて語義2に近づく。意見が割れているだけなら語義1、本人が反論・対立を好むことまで言うなら語義2である。"
+        "この語義では controversial が人の性向を直接表すが、現代の「論争の的となる人物」という普通の解釈と形が同じなので、文脈で区別する必要がある。a controversial politician は通常語義1であり、temperament、manner、by temperament などで気質を明示すると、語義2だと分かりやすい。意見が割れているだけなら語義1、本人が反論・対立を好むことまで言うなら語義2である。"
       ],
       "synonyms": [
         {
@@ -256,8 +256,8 @@
         {
           "word": "contentious",
           "definition": "対立的で、争いを引き起こしやすい。",
-          "frequency": 8,
-          "difference": "contentious は人の態度にも使えるが、敵対的・喧嘩腰の含みが出やすい。controversial の語義2は、必ずしも敵意や攻撃性まで含まない。",
+          "frequency": 6,
+          "difference": "contentious は硬めの語で、人の態度にも使えるが、敵対的・喧嘩腰の含みが出やすい。controversial の語義2は、必ずしも敵意や攻撃性まで含まない。",
           "example": "The manager's contentious style made open discussion difficult.",
           "translation": "その管理職の対立的なスタイルは、率直な話し合いを難しくした。"
         }
