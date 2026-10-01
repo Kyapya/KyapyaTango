@@ -1,13 +1,13 @@
 {
   "word": "desperate",
   "slug": "desperate",
-  "ipa": "米: /ˈdɛspərət/｜英: /ˈdespərət/。いずれも3音節で、第1音節に主強勢がある。米音では第1音節を /dɛs/、英音では /des/ と示す辞書がある。米英とも /ˈdespərət/ や /ˈdɛspərɪt/ に近い別表記が見られるが、語末の -ate はここでは /ət/ で、「エイト」とは読まない。第2音節の /pər/ は米音では r を伴う /pɚ/、英音では /pə/ に近い。desperately は /ˈdespərətli/、desperation は /ˌdespəˈreɪʃən/ で、名詞では強勢位置が変わる。",
+  "ipa": "米: /ˈdɛspərət/｜英: /ˈdespərət/。第1音節に主強勢がある。3音節の形のほか、中間の弱い母音を省いた /ˈdesprət/ のような2音節の発音もある。第1母音は辞書の転写方式によって /e/ または /ɛ/ と示され、語末にも /ət/・/ɪt/ などの表記があるが、-ate を「エイト」/eɪt/ とは読まない。この語の r は後ろに母音が続くため、英音でも発音する。米音の /pər/ を /pɚ/ と表記する辞書もある。desperately は /ˈdespərətli/、desperation は /ˌdespəˈreɪʃən/ のように発音し、名詞では強勢位置が変わる。",
   "lead": "ほとんど希望がなく、状況を変えるためなら危険や結果を十分に考えず何でもしようとする心理状態。人・集団について使うと「絶望した」「追い詰められた」「必死の」という意味になり、文脈によっては無謀さや暴力性を含むが、必ずしも暴力的とは限らない。",
-  "updated": "2026-08-31",
+  "updated": "2026-10-01",
   "notion_url": "https://app.notion.com/p/desperate-3cd4faa9b77d8166a075d38381d7b637",
   "pronunciation": [],
   "etymology": [
-    "中英語 desperat が古フランス語を経て、ラテン語 desperatus「希望を失った、絶望した」にさかのぼる。これは動詞 desperare「絶望する、望みがないとあきらめる」の過去分詞で、de- と sperare「望む、希望する」から成る。まず「絶望している」という人の状態を表し、そこから、絶望に動かされた無謀な行動、成功の望みが薄い試み、状況の深刻さ、極度の必要・欲求へ意味が広がった。",
+    "中英語 desperat はラテン語 desperatus「希望を失った、絶望した」に由来する。これは動詞 desperare「絶望する、望みがないとあきらめる」の過去分詞で、de- と sperare「望む、希望する」から成る。まず「絶望している」という人の状態を表し、そこから、絶望に動かされた無謀な行動、成功の望みが薄い試み、状況の深刻さ、極度の必要・欲求へ意味が広がった。",
     "despair「絶望する／絶望」、desperately「必死に、非常に」、desperation「絶望、やけ、切迫した状態」は同じ語源に連なる。語源上の「希望がない」という核は現代の全用法を文字どおりに規定するものではなく、desperate for a coffee のようなくだけた強い欲求では、必ずしも実際の絶望や危険を意味しない。"
   ],
   "formation": [
@@ -17,7 +17,7 @@
     },
     {
       "term": "desperation",
-      "description": "名詞。「絶望、やけ、切迫した状態」または、その状態から出る必死の行動。"
+      "description": "名詞。「絶望、やけ、切迫した状態」また、その状態から生じるなりふり構わない必死さを表す。"
     },
     {
       "term": "desperateness",
@@ -31,27 +31,27 @@
   "core": [
     {
       "label": "desperate",
-      "description": "の中心には、「希望や余裕がほとんどなく、事態を変えるために限界まで切迫している」という感覚がある。人の状態では絶望が無謀さや必死さにつながり、行動では最後の手段になり、必要・欲求では強さが極限に達し、状況では深刻さや危険として現れる。"
+      "description": "の中心には、「希望や余裕がほとんどなく、事態を変えるために限界まで切迫している」という感覚がある。人の状態では絶望が無謀さや必死さにつながり、行動ではなりふり構わない努力や最後の手段になり、必要・欲求では強さが極限に達し、状況では深刻さや危険として現れる。語義3の日常的な欲求や語義4の程度の強調では、この切迫感を誇張的に用い、実際の絶望や危険を伴わないこともある。"
     },
     {
       "label": "絶望して余裕がない",
       "description": "→ 「絶望して必死の、危険を顧みない」（語義1）"
     },
     {
-      "label": "望みが薄くても最後に試みる",
-      "description": "→ 「必死の、最後の手段の」（語義2）"
+      "label": "追い詰められてなりふり構わず試みる",
+      "description": "→ 「切迫した、必死の、最後の手段の」（語義2）"
     },
     {
       "label": "必要・欲求が極度に強い",
-      "description": "→ 「～を非常に必要とする、切望する」（語義3）"
+      "description": "→ 「～を非常に必要としている、～を切望している」（語義3）"
     },
     {
-      "label": "状況や不足が限界的に悪い",
+      "label": "状況や状態の程度が極端に強い・悪い",
       "description": "→ 「非常に深刻な、危険な、極度の」（語義4）"
     },
     {
-      "label": "語義1は人・集団の心理状態、語義2はその状態から出る行動や試み、語義3は対象への強い必要・欲求、語義4は状況や状態そのものの深刻さに焦点がある。特に",
-      "description": "desperate for 〈名詞〉は「その人が強く必要・欲求を感じる」、in desperate need of 〈名詞〉は「状況が極度に不足している」という違いに注意する。"
+      "label": "語義1は人・集団の心理状態、語義2はその状態から出る行動や試み、語義3は対象への強い必要・欲求、語義4は状況や状態そのものの深刻さに焦点がある。desperate",
+      "description": "for 〈名詞〉は主語の強い必要・欲求を、in desperate need of 〈名詞〉は必要性そのものの強さを述べる。両者は同じ切実な必要を表すこともあり、主観的な欲求と客観的な不足に機械的に分かれるわけではない。"
     }
   ],
   "sources": [],
@@ -81,7 +81,7 @@
           "pattern": "grow increasingly desperate",
           "use": "時間の経過とともに、絶望や切迫感が強まることを表す。",
           "example": "The trapped hikers grew increasingly desperate as night fell.",
-          "translation": "閉じ込められたハイカーたちは、夜になるにつれてますます切迫した。"
+          "translation": "閉じ込められたハイカーたちは、夜になるにつれてますます追い詰められた気持ちになった。"
         },
         {
           "pattern": "a desperate man/ woman/ family",
@@ -144,12 +144,12 @@
     },
     {
       "number": 2,
-      "title": "【形容詞・通常限定用法】（行動・試みが）最後の手段の、成功の望みが薄い、必死の",
+      "title": "【形容詞・通常限定用法】（行動・試みが）切迫した、必死の、最後の手段の",
       "frequency": 9,
       "register": [
         "標準的な一般語。報道、政治、競技、救助、交渉、ビジネス、物語で広く使う。"
       ],
-      "definition": "他の方法が失敗した後、または成功の見込みがほとんどない状況で行われる行動・試み。危険を伴うことがあるが、語の必須条件は「追い詰められた状況での最後の努力」であり、結果が実際に失敗することまでは含まない。",
+      "definition": "追い詰められた状況で、失敗や不利益を避けるために、なりふり構わず全力や極端な手段を用いる行動・試み。危険を伴うことがあり、最後の手段や成功の見込みが薄い試みを指すことも多い。ただし、他の方法をすべて試し尽くしたことや、結果が実際に失敗することまで必ず含むわけではない。",
       "patterns": [
         "make a desperate attempt/bid/effort to do＝～するために必死の試み・努力をする",
         "take desperate measures＝非常手段を取る",
@@ -159,13 +159,13 @@
       "collocations": [
         {
           "pattern": "a desperate attempt to do",
-          "use": "成功の望みが薄くても、最後に何かをしようとする試みを表す。",
+          "use": "切迫した状況で、何とか目的を達成しようとする必死の試みを表す。",
           "example": "She made a desperate attempt to reach the child before the door closed.",
-          "translation": "彼女は扉が閉まる前にその子に届こうと必死に試みた。"
+          "translation": "彼女は扉が閉まる前にその子のところにたどり着こうと必死に試みた。"
         },
         {
           "pattern": "make a desperate bid for 〈自由・勝利・主導権〉",
-          "use": "重要な目標を得るための最後の、しばしば危険な努力を表す。",
+          "use": "重要な目標を得るための、切迫した、しばしば危険も伴う努力を表す。",
           "example": "The team made a desperate bid for victory in the final minute.",
           "translation": "そのチームは最後の1分に勝利を懸けた必死の攻勢に出た。"
         },
@@ -183,7 +183,7 @@
         },
         {
           "pattern": "a desperate search for 〈人・解決策〉",
-          "use": "時間や可能性が限られた中で、最後まで行う切迫した捜索を表す。",
+          "use": "時間や可能性が限られた中で、必死に行う切迫した捜索を表す。",
           "example": "Volunteers organized a desperate search for the missing child.",
           "translation": "ボランティアは行方不明の子どもを必死に捜す活動を組織した。"
         },
@@ -195,14 +195,14 @@
         }
       ],
       "notes": [
-        "desperate attempt は「必死の試み」であって、必ずしも無謀・違法という意味ではない。last-ditch attempt は「最後の手段」という時間的・戦略的な面を強調し、desperate attempt はそこに切迫感や成功の望みの薄さが加わる。take desperate measures も、手段が必ず非倫理的・暴力的だと決めつけない。"
+        "desperate attempt は「必死の試み」であって、必ずしも無謀・違法という意味ではない。last-ditch attempt は「最後の手段」という時間的・戦略的な面を直接強調する。desperate attempt は切迫感やなりふり構わない努力に重点があり、最後の試みでない場合にも使える。take desperate measures も、手段が必ず非倫理的・暴力的だと決めつけない。"
       ],
       "synonyms": [
         {
           "word": "last-ditch",
           "definition": "ほかの手段が尽きた段階で行う、最後の。",
           "frequency": 7,
-          "difference": "last-ditch は最後の機会という順序に焦点があり、desperate は行為者の切迫感や成功の見込みの薄さをより強く示す。",
+          "difference": "last-ditch は成功の望みが薄い最後の機会に焦点があり、desperate は最後かどうかにかかわらず、行為者の切迫感や極端な努力を強調する。",
           "example": "The board approved a last-ditch plan to save the project.",
           "translation": "取締役会はプロジェクトを救うための最後の計画を承認した。"
         },
@@ -210,7 +210,7 @@
           "word": "frantic",
           "definition": "急ぎや不安で取り乱した、必死の。",
           "frequency": 7,
-          "difference": "frantic は行動の慌ただしさ・混乱を表し、desperate は追い詰められた状況と望みの薄さに焦点がある。",
+          "difference": "frantic は行動の慌ただしさ・混乱を表し、desperate は追い詰められた状況から生じる切迫感に焦点がある。",
           "example": "They launched a frantic search before the storm arrived.",
           "translation": "彼らは嵐が来る前に大急ぎで捜索を始めた。"
         },
@@ -226,7 +226,7 @@
           "word": "do-or-die",
           "definition": "成功しなければ重大な結果になる、絶対に成功させなければならない。",
           "frequency": 5,
-          "difference": "do-or-die は成功か失敗かの重大な二択を強調し、desperate は試みの切迫感や成功の見込みの薄さを表す。",
+          "difference": "do-or-die は成功か失敗かの重大な二択を強調し、desperate は試みの切迫感を表し、成功の見込みの薄さを伴うこともある。",
           "example": "This is a do-or-die match for the team.",
           "translation": "これはそのチームにとって絶対に負けられない試合だ。"
         }
@@ -240,7 +240,7 @@
       "register": [
         "標準的な一般語。求人、支援要請、感情描写で広く使う。desperate for a coffee のような「とても欲しい」という用法はくだけた会話で特に自然である。"
       ],
-      "definition": "人が何かを極度に必要としたり、強く欲しがったりしている状態。desperate for 〈名詞〉 と desperate to do の形を取り、対象は仕事・金・助けのような切実な必要から、愛情・注目・コーヒーのような強い欲求まで広い。この用法だけでは、実際に希望を失ったり危険な行動を取ったりしているとは限らない。",
+      "definition": "人・組織などが何かを極度に必要としたり、強く欲しがったりしている状態。desperate for 〈名詞〉 と desperate to do の形を取り、対象は仕事・金・助けのような切実な必要から、愛情・注目・コーヒーのような強い欲求まで広い。この用法だけでは、実際に希望を失ったり危険な行動を取ったりしているとは限らない。",
       "patterns": [
         "be/feel desperate for 〈物・支援・機会〉＝～を非常に必要とする・切望する",
         "be desperate to do＝どうしても～したい",
@@ -293,7 +293,7 @@
           "word": "in dire need of 〈物・支援〉",
           "definition": "物や支援を非常に深刻な状態で必要としている。",
           "frequency": 6,
-          "difference": "in dire need of は客観的な不足・困窮を強調し、desperate for は人の強い欲求・切望にも、くだけた欲しさにも使える。",
+          "difference": "in dire need of は必要性の深刻さや緊急性を強調する。desperate for は切実な必要にも、くだけた強い欲しさにも使える。両者を客観的な不足と主観的な欲求に分けることはできない。",
           "example": "The clinic is in dire need of more nurses.",
           "translation": "その診療所は看護師をもっと必要とする深刻な状況にある。"
         },
@@ -306,12 +306,12 @@
           "translation": "学生たちは競技会の結果を心待ちにしていた。"
         },
         {
-          "word": "longing for 〈人・場所・経験〉",
-          "definition": "人・場所・過去の経験などを強く恋しく思い、切望している。",
+          "word": "long for 〈人・場所・経験〉",
+          "definition": "人・場所・経験などを強く恋しく思い、切望している。",
           "frequency": 6,
-          "difference": "longing for は持続的で感情的なあこがれ・恋しさに焦点があり、desperate for は必要の切迫や欲求の極端な強さを広く表す。",
-          "example": "She felt a deep longing for her childhood home.",
-          "translation": "彼女は子どもの頃の家を深く恋しく思った。"
+          "difference": "long for は持続的で感情的なあこがれ・恋しさに焦点があり、desperate for は必要の切迫や欲求の極端な強さを広く表す。",
+          "example": "She longed for her childhood home.",
+          "translation": "彼女は子どもの頃の家を強く恋しく思った。"
         },
         {
           "word": "dying for 〈物・行動〉",
@@ -331,13 +331,14 @@
       "register": [
         "標準的な一般語。報道、社会問題、医療、経済、災害、政策で広く使う。"
       ],
-      "definition": "状況、病状、経済状態、不足などが非常に悪く、改善の望みが薄い、または緊急の対処を要する状態。人の心理状態ではなく、対象となる状況そのものの深刻さを評価する。desperate need は「極度の必要・不足」、desperate shortage は「深刻な不足」を表す。",
+      "definition": "状況、病状、経済状態、不足などが非常に悪く、改善の望みが薄い、または緊急の対処を要する状態。主に対象となる状況・状態の深刻さや程度の強さを評価する。desperate need は「極度の必要・不足」、desperate shortage は「深刻な不足」を表す。必要・欲求・急ぎなどの程度が非常に強いという強調にも使い、必ずしも危険な状況や客観的な物資不足を意味しない。",
       "patterns": [
         "be in a desperate situation/condition/state＝非常に深刻な状況・状態にある",
         "face a desperate shortage of 〈物〉＝〈物〉の深刻な不足に直面する",
         "be in desperate need of 〈物・支援〉＝〈物・支援〉を極度に必要とする状況にある",
         "be in desperate straits＝非常に困窮した状況にある",
-        "a desperate illness/crisis＝深刻な病気・危機"
+        "a desperate illness/crisis＝深刻な病気・危機",
+        "be in a desperate hurry＝非常に急いでいる"
       ],
       "collocations": [
         {
@@ -371,14 +372,20 @@
           "translation": "その報告書は極度の貧困の中で暮らす家族について述べている。"
         },
         {
-          "pattern": "a desperate illness/crisis",
-          "use": "病状や危機が非常に重く、改善や解決の見込みが薄いことを表す。",
+          "pattern": "be in a desperate condition",
+          "use": "病状などが非常に重く、緊急の対処を要する状態を表す。",
           "example": "The patient was in a desperate condition when the ambulance arrived.",
           "translation": "救急車が到着したとき、患者の状態は非常に深刻だった。"
+        },
+        {
+          "pattern": "be in a desperate hurry",
+          "use": "くだけた表現で、非常に急いでいることを強調する。",
+          "example": "I'm in a desperate hurry, so I'll call you later.",
+          "translation": "今とても急いでいるから、後で電話するね。"
         }
       ],
       "notes": [
-        "in desperate need of 〈名詞〉は、状況や不足が深刻であることに焦点を置く。一方、be desperate for 〈名詞〉は、主語である人・組織が対象を強く必要・欲求していることに焦点を置く。たとえば The hospital is in desperate need of blood は病院の不足を、The patient is desperate for help は患者の切実な求めを表す。desperate は「必ず完全に絶望的」と断定する語ではなく、深刻さ・危険さ・緊急性を強く評価する語としても使う。"
+        "in desperate need of 〈名詞〉は必要性の強さを明示し、be desperate for 〈名詞〉は主語の強い必要・欲求を述べる。どちらも人・組織などを主語にし、同じ切実な必要を表すことがある。たとえば The hospital is in desperate need of blood は病院の不足を、The patient is desperate for help は患者の切実な求めを表す。desperate は「必ず完全に絶望的」と断定する語ではなく、深刻さ・危険さ・緊急性を強く評価する語としても使う。 趣味などを「ひどい、目に余る」と強く悪く評価する用法もあり、desperate taste はそのような趣味の悪さを表せる。この用法も、現実の危険や絶望が必須という意味ではない。"
       ],
       "synonyms": [
         {
