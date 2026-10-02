@@ -1,13 +1,14 @@
 {
   "word": "grant",
   "slug": "grant",
-  "ipa": "米: /ɡrænt/｜英: /ɡrɑːnt/。1音節で、語頭の /ɡr/ に続いて母音、最後に /nt/ が来る。米音の /æ/ は cat の母音に近く、英音の /ɑː/ は father の母音に近い。過去形・過去分詞 granted は米 /ˈɡræntɪd/、英 /ˈɡrɑːntɪd/、-ing形 granting は米 /ˈɡræntɪŋ/、英 /ˈɡrɑːntɪŋ/。語末の /t/ を落とさず発音する。",
+  "ipa": "米: /ɡrænt/｜英: /ɡrɑːnt/。1音節で、語頭の /ɡr/ に続いて母音、最後に /nt/ が来る。米音の /æ/ は cat の母音に近く、英音の /ɑː/ は father の母音に近い。過去形・過去分詞 granted は米 /ˈɡræntɪd/、英 /ˈɡrɑːntɪd/、-ing形 granting は米 /ˈɡræntɪŋ/、英 /ˈɡrɑːntɪŋ/。単語を丁寧に発音する練習では、語末の /nt/ を意識する。自然な連続発話では、後続音などによって /t/ が弱まったり省略されたりすることもある。",
   "lead": "人が求めたもの、または人に認められる権利・許可・利益を、権限のある個人・組織が公式または改まった形で与える。相手の要求を検討したうえで「与えてよい」と決定する含みがあり、単なる物の受け渡しを表す give より制度的・形式的である。",
-  "updated": "2026-09-10",
+  "updated": "2026-10-02",
   "notion_url": "https://app.notion.com/p/grant-3d74faa9b77d819d9161ee42b95381b9",
   "pronunciation": [],
   "etymology": [
-    "中英語を経て、古フランス語 granter「同意する、保証する」から入った語。古フランス語の形は、ラテン語 credere「信じる、託す」と関係する形から発達したとされる。もともと相手の求めや主張を認めることから、「正式に与える・許可する」、さらに「認める・譲歩する」へ意味が広がった。"
+    "中英語を経て、古フランス語 granter「同意する、保証する」から入った語。古フランス語の形は、ラテン語 credere「信じる、託す」と関係する形から発達したとされる。もともと相手の求めや主張を認めることから、「正式に与える・許可する」、さらに「認める・譲歩する」へ意味が広がった。",
+    "同じラテン語 credere にさかのぼる語には、credit「信用、貸付」と credible「信じられる」がある。"
   ],
   "formation": [
     {
@@ -33,59 +34,59 @@
   ],
   "core": [
     {
-      "label": "権限や裁量を持つ側が、相手の求め・権利・利益などを「認めて、相手のものにする／できるようにする」こと。単なる",
-      "description": "give よりも、許可・資格・公式決定・申請への応答という含みが出やすい。そこから、主張を認める用法、補助金という「与えられたもの」の名詞用法、当然視する take for granted が生じる。"
+      "label": "相手の求め・権利・利益や主張を「認めて受け入れる」という関係が共通核で、許可や財産では相手に与えること、議論では真実・前提として認めることに具体化する。名詞は付与やその結果を指し、take",
+      "description": "for granted は、すでに認められた自明のものとして扱うことから、未確認の前提や支えへの無自覚を表す。"
     },
     {
-      "label": "申請・要求・権利・許可などを正式に認める",
-      "description": "→ 「許可する、認める、与える」（語義1）"
+      "label": "求めや権利を認めて与えること",
+      "description": "→ 「申請・要求・権利・許可などを認めて与える、許可する」（語義1）"
     },
     {
-      "label": "土地・権利・地位などを公式に授与・譲渡する",
-      "description": "→ 「授与する、付与する」（語義2）"
+      "label": "財産や地位の帰属を正式に認めること",
+      "description": "→ 「土地・権利・地位などを公式に授与・付与する」（語義2）"
     },
     {
-      "label": "裁判所・行政機関が申立てや救済を認める",
-      "description": "→ 「認容する、許可する」（語義3）"
+      "label": "申立てや救済を法的に認めること",
+      "description": "→ 「申立て・救済・判決などを認容する」（語義3）"
     },
     {
-      "label": "相手の主張や事実を認める",
-      "description": "→ 「認める、譲歩する」（語義4）"
+      "label": "主張を真実・前提として認めること",
+      "description": "→ 「事実・主張を認める、譲歩する」（語義4）"
     },
     {
-      "label": "特定目的のために与えられる金銭",
+      "label": "交付を認められた特定目的の金銭",
       "description": "→ 「助成金、補助金、奨学金」（語義5）"
     },
     {
-      "label": "権利・財産の正式な付与、またはその証書",
-      "description": "→ 「付与、譲渡、付与証書」（語義6）"
+      "label": "正式に認めた付与・移転やその証書",
+      "description": "→ 「権利・財産の正式な付与、譲渡、付与証書」（語義6）"
     },
     {
-      "label": "当然のものとして扱い、価値や幸運を意識しない",
-      "description": "→ 「～を当然と思う、ありがたみを忘れる」（語義7）"
+      "label": "自明のものと認め、確認や感謝を欠くこと → 「take 〈人・物〉 for granted",
+      "description": "当然と思う、ありがたみを忘れる」（語義7）"
     }
   ],
   "sources": [],
   "senses": [
     {
       "number": 1,
-      "title": "【他動詞・形式的】申請・要求・権利・許可などを認めて与える、許可する",
-      "frequency": 10,
+      "title": "【他動詞・改まった表現】申請・要求・権利・許可などを認めて与える、許可する",
+      "frequency": 8,
       "register": [
         "標準語。行政、ビジネス、学校、公式通知、丁寧な依頼への応答で広く使う。受け身の be granted は、ビザ・許可・アクセスなどを受けた人を主語にする場合に特に多い。"
       ],
-      "definition": "人が求めたもの、または人に認められる権利・許可・利益を、権限のある個人・組織が公式または改まった形で与える。相手の要求を検討したうえで「与えてよい」と決定する含みがあり、単なる物の受け渡しを表す give より制度的・形式的である。",
+      "definition": "人が求めたもの、または人に認められる権利・許可・利益を、与える権限や裁量のある個人・組織が認めて与える。許可・権利などでは公式な決定を表すことが多く、単なる物の受け渡しを表す give より改まった響きがあるが、願いをかなえる用法まで公式手続きに限るわけではない。",
       "patterns": [
         "grant 〈要求・権利・許可〉＝要求・権利・許可を認める",
         "grant 〈人〉 + 〈許可・権利・利益〉＝〈人〉に…を与える",
         "grant 〈許可・権利・利益〉 to 〈人・組織〉＝…を〈人・組織〉に与える",
         "be granted 〈許可・権利・アクセス〉＝許可・権利・アクセスを与えられる",
         "grant 〈人〉 permission/access/leave＝〈人〉に許可・アクセス・休暇を与える",
-        "grant 〈人〉 an extension/a request/a wish＝〈人〉に延長・要求の承認・願いの実現を認める。"
+        "grant 〈人〉 an extension/a wish＝〈人〉に延長を認める・〈人〉の願いをかなえる。"
       ],
       "collocations": [
         {
-          "pattern": "grant permission to 〈人〉",
+          "pattern": "grant permission to 〈動詞〉",
           "use": "公式に何かをする許可を与える。",
           "example": "The museum granted permission to photograph the exhibition.",
           "translation": "その美術館は展示を撮影する許可を与えた。"
@@ -180,17 +181,19 @@
     },
     {
       "number": 2,
-      "title": "【他動詞・形式的】土地・権利・地位などを公式に授与・付与する",
+      "title": "【他動詞・改まった表現】土地・権利・地位などを公式に授与・付与する",
       "frequency": 8,
       "register": [
-        "形式的。法律、歴史、政治、行政、不動産、国際関係で多い。be granted の受け身では、与えられた側の地位や権利を述べる。"
+        "改まった表現。法律、歴史、政治、行政、不動産、国際関係で多い。be granted の受け身では、与えられた側の地位や権利を述べる。"
       ],
       "definition": "政府、君主、機関、所有者などが、土地、財産、称号、独立、免除、権利などを正式な決定・文書・権限によって相手に与える。語義1の「要求を認める」よりも、何かを新たに相手へ帰属させることに焦点がある。",
       "patterns": [
         "grant 〈土地・権利・地位〉 to 〈人・組織〉＝土地・権利・地位を〈人・組織〉に付与する",
         "grant 〈人・組織〉 + 〈土地・権利〉＝〈人・組織〉に土地・権利を与える",
         "be granted 〈独立・市民権・免除〉＝独立・市民権・免除を与えられる",
-        "grant 〈人〉 title/custody/independence＝〈人〉に称号・監護権・独立を付与する。"
+        "grant 〈人〉 a title＝〈人〉に称号を与える",
+        "grant 〈人〉 custody＝〈人〉に監護権を認める",
+        "grant 〈国・地域〉 independence＝〈国・地域〉に独立を認める。"
       ],
       "collocations": [
         {
@@ -219,7 +222,7 @@
         }
       ],
       "notes": [
-        "この用法は、物を一時的に貸す lend や、対価を払って販売する sell とは異なる。grant land to someone は、土地を相手に正式に帰属させる・使用させるという制度的な授与を表す。現代の政治・法律文脈では、grant independence や grant citizenship のように抽象的な地位にも使える。"
+        "この用法は正式な権利の付与・移転に焦点があり、物を一時的に貸す lend や、代金を受け取って売る sell とは焦点が異なる。ただし、売買に伴う所有権の移転も grant と表せるため、無償であることを必ずしも意味しない。grant land to someone は、土地を相手に正式に帰属させる・使用させるという制度的な授与を表す。現代の政治・法律文脈では、grant independence や grant citizenship のように抽象的な地位にも使える。"
       ],
       "synonyms": [
         {
@@ -269,7 +272,7 @@
     {
       "number": 3,
       "title": "【他動詞・法律・行政】申立て・救済・判決などを認容する",
-      "frequency": 8,
+      "frequency": 6,
       "register": [
         "法律・行政。一般会話では、対象を具体的に示さない限りこの意味にならない。"
       ],
@@ -290,7 +293,7 @@
         },
         {
           "pattern": "grant an injunction",
-          "use": "一定の行為をする・しないよう命じる差止めを認める。",
+          "use": "一定の行為を禁止する差止命令などを認める。injunction には、一定の行為を行うよう命じるものもある。",
           "example": "The court granted an injunction preventing the sale of the building.",
           "translation": "裁判所はその建物の売却を差し止める命令を認めた。"
         },
@@ -308,24 +311,23 @@
         }
       ],
       "notes": [
-        "法律文脈の grant は「申立てを認める」であり、申立人の主張すべてを最終的に正しいと認定したことを必ずしも意味しない。grant a motion、grant an application のように、認められた手続き・救済を目的語に置く。反対は deny/refuse a motion など。法域によって手続きや訳語は異なるため、具体的制度の要件までこの語だけから推測しない。"
+        "法律文脈の grant は「申立てを認める」であり、申立人の主張すべてを最終的に正しいと認定したことを必ずしも意味しない。grant a motion、grant an application のように、認められた手続き・救済を目的語に置く。反対は deny/refuse a motion など。法域によって手続きや訳語は異なるため、具体的制度の要件までこの語だけから推測しない。",
+        "次の uphold は既存判断の維持を表す対照用法である。uphold には申立て・苦情を正当と認める用法もあるが、ここでは区別する。",
+        "uphold",
+        "定義: 決定、判決、権利などを有効なものとして支持する。",
+        "頻度: 〈7/10〉",
+        "違い: uphold は既存の判断や権利を維持することで、grant は新たな申立てや救済を認めることに焦点がある。",
+        "例: The appeal court upheld the original decision.",
+        "訳: 控訴裁判所は原判決を支持した。"
       ],
       "synonyms": [
         {
           "word": "allow",
           "definition": "申請・訴え・手続きなどを認め、進行させる。",
-          "frequency": 8,
+          "frequency": 6,
           "difference": "allow は裁判・行政でも使えるが、grant は命令・救済・許可を公式に付与する語として定着している。",
           "example": "The tribunal allowed the appeal to proceed.",
           "translation": "その審判機関は上訴を進めることを認めた。"
-        },
-        {
-          "word": "uphold",
-          "definition": "決定、判決、権利などを有効なものとして支持する。",
-          "frequency": 7,
-          "difference": "uphold は既存の判断や権利を維持することで、grant は新たな申立てや救済を認めることに焦点がある。",
-          "example": "The appeal court upheld the original decision.",
-          "translation": "控訴裁判所は原判決を支持した。"
         },
         {
           "word": "approve",
@@ -340,7 +342,7 @@
         {
           "word": "deny",
           "definition": "請求、申立て、許可などを認めない。",
-          "frequency": 9,
+          "frequency": 6,
           "difference": "deny は、相手が求めた救済や許可を与えない決定を表す法律用語として特に重要である。",
           "example": "The court denied the petition for a new hearing.",
           "translation": "裁判所は再審理を求める請願を退けた。"
@@ -348,7 +350,7 @@
         {
           "word": "dismiss",
           "definition": "訴え、申立て、事件などを退け、手続きを終わらせる。",
-          "frequency": 8,
+          "frequency": 6,
           "difference": "dismiss は手続き自体を退けることに焦点があり、grant は求められた申立てや救済を認めることに焦点がある。",
           "example": "The court dismissed the claim without reaching the merits.",
           "translation": "裁判所は本案に立ち入らず、その請求を退けた。"
@@ -362,9 +364,9 @@
       "register": [
         "標準語。議論、批評、説得、改まった会話で使う。相手の主張への譲歩を示すため、admit よりやや論証的で、concede に近い場合がある。"
       ],
-      "definition": "相手の指摘やある事実が正しいと認める。しばしば、全面的な賛成ではなく、反論や別の判断に移るために一部だけを認める。I grant you that ... は「…なのは認めるが」という対比を作り、granting that ... は「…だと認めるとしても」を表す。",
+      "definition": "相手の指摘やある事実が正しいと認める、または議論の前提として仮に受け入れる。しばしば、全面的な賛成ではなく、反論や別の判断に移るために一部だけを認める。I grant you that ... は「…なのは認めるが」という対比を作り、granting that ... は「…だと認めるとしても」を表す。",
       "patterns": [
-        "grant (someone) that 〈節〉＝〈人〉が～だと認める",
+        "grant (someone) that 〈節〉＝（〈人〉に対して）～だと認める",
         "I grant you that 〈節〉, but ...＝～なのは認めるが…",
         "grant 〈人〉 + 〈点・主張〉＝〈人〉の点・主張を認める",
         "granting that 〈節〉＝～だと認めるとしても",
@@ -397,7 +399,7 @@
         }
       ],
       "notes": [
-        "この用法の grant は「要求を許可する」ではなく、「発言・事実を認める」。I grant you that ... の you は認める相手を示す間接目的語であり、許可を受ける人を示す grant you permission とは構造も意味も違う。grant と言っても後続の but で反論することが多く、必ずしも全体への同意ではない。"
+        "この用法の grant は「要求を許可する」ではなく、「発言・事実を認める」。I grant you that ... の you は譲歩を向ける相手を示す間接目的語で、that 節が認める内容を表す。grant you permission の you も間接目的語だが、こちらは許可を与えられる人を示す。grant と言っても後続の but で反論することが多く、必ずしも全体への同意ではない。"
       ],
       "synonyms": [
         {
@@ -451,7 +453,7 @@
       "register": [
         "標準語。行政、教育、研究、非営利活動、事業支援、金融の説明で広く使う。"
       ],
-      "definition": "政府、大学、財団、企業などが、研究、教育、事業、地域活動など特定の目的のために人・組織へ与える金銭。通常は目的、申請、審査、報告などの条件を伴う。grant だけで「無条件にもらえるお金」や「返済不要」を常に意味するわけではないため、制度ごとの条件は別に確認する。",
+      "definition": "政府、大学、財団、企業などが、研究、教育、事業、地域活動など特定の目的のために人・組織へ与える金銭。通常は目的、申請、審査、報告などの条件を伴う。通常は返済を前提としない助成だが、交付条件により返還が必要になる場合もあるため、無条件に受け取れるお金とは限らない。",
       "patterns": [
         "a grant from 〈機関〉＝〈機関〉からの助成金",
         "a grant for 〈目的〉＝〈目的〉のための助成金",
@@ -499,8 +501,27 @@
         }
       ],
       "notes": [
-        "この意味は通常可算で、a grant、several grants と数える。loan は返済を前提とする借入金、grant は特定目的のために交付される資金で、返済条件や自己負担の有無は制度により異なる。funding は資金供給全般を指し、grant より広い。",
-        "grant は金額そのものだけでなく、交付制度・一件の助成を指せる。grant funding は「助成金による資金」で、単に funding と言うより、返済ではなく交付・助成の仕組みに焦点を置く。"
+        "この意味は通常可算で、a grant、several grants と数える。loan は返済を前提とする借入金、grant は通常返済を前提とせず特定目的のために交付される資金で、返還が必要になる条件や自己負担の有無は制度により異なる。funding は資金供給全般を指し、grant より広い。",
+        "grant は金額そのものだけでなく、交付制度・一件の助成を指せる。grant funding は「助成金による資金」で、単に funding と言うより、返済ではなく交付・助成の仕組みに焦点を置く。",
+        "関連する金銭表現として、借入金の loan、返済の repayment、料金の fee を区別する。以下は語義の異なる対照表現である。",
+        "loan",
+        "定義: 後で返すことを前提に貸し出される金銭。",
+        "頻度: 〈9/10〉",
+        "違い: loan は返済義務が中心で、grant は特定目的への交付・助成を表す。",
+        "例: The startup used a loan to cover short-term costs.",
+        "訳: その新興企業は短期費用をまかなうため融資を利用した。",
+        "repayment",
+        "定義: 借りた金銭を返すこと、または返済された金額。",
+        "頻度: 〈7/10〉",
+        "違い: この語義の grant は交付される資金、repayment は借入金を返す行為・金額を表す。資金の種類と返済の行為という別の関係であり、直接の反意語ではない。",
+        "例: The contract specifies the repayment schedule for the loan.",
+        "訳: その契約は融資の返済予定を定めている。",
+        "fee",
+        "定義: サービス、許可、授業などの対価として支払う料金。",
+        "頻度: 〈9/10〉",
+        "違い: grant は目的のために資金を受け取ることで、fee のように受益者がサービスの対価を支払うものではない。",
+        "例: The course has a registration fee but offers grants to students in need.",
+        "訳: その講座には登録料があるが、困窮する学生には助成金を提供している。"
       ],
       "synonyms": [
         {
@@ -518,43 +539,18 @@
           "difference": "scholarship は教育目的に限られやすく、grant は研究者・団体・事業などにも交付される。",
           "example": "He won a scholarship to study engineering abroad.",
           "translation": "彼は海外で工学を学ぶための奨学金を得た。"
-        },
-        {
-          "word": "loan",
-          "definition": "後で返すことを前提に貸し出される金銭。",
-          "frequency": 9,
-          "difference": "loan は返済義務が中心で、grant は特定目的への交付・助成を表す。",
-          "example": "The startup used a loan to cover short-term costs.",
-          "translation": "その新興企業は短期費用をまかなうため融資を利用した。"
         }
       ],
-      "antonyms": [
-        {
-          "word": "repayment",
-          "definition": "借りた金銭を返すこと、または返済された金額。",
-          "frequency": 7,
-          "difference": "grant が資金を交付する側から見た付与であるのに対し、repayment は借り手が返す行為・金額を表す。",
-          "example": "The contract specifies the repayment schedule for the loan.",
-          "translation": "その契約は融資の返済予定を定めている。"
-        },
-        {
-          "word": "fee",
-          "definition": "サービス、許可、授業などの対価として支払う料金。",
-          "frequency": 9,
-          "difference": "grant は目的のために資金を受け取ることで、fee のように受益者がサービスの対価を支払うものではない。",
-          "example": "The course has a registration fee but offers grants to students in need.",
-          "translation": "その講座には登録料があるが、困窮する学生には助成金を提供している。"
-        }
-      ]
+      "antonyms": []
     },
     {
       "number": 6,
-      "title": "【可算名詞・法律・形式的】権利・財産の正式な付与、譲渡、付与証書",
+      "title": "【可算名詞・法律・改まった表現】権利・財産の正式な付与、譲渡、付与証書",
       "frequency": 4,
       "register": [
         "法律、不動産、歴史、行政。一般会話では語義5の「助成金」が先に想起されやすい。"
       ],
-      "definition": "土地、財産、権利などを正式に与える行為、またはその結果として認められたもの。法律・不動産では、その移転を記した文書や証書を指すこともある。一般的な「助成金」の grant と同じ綴りだが、目的語が土地・権利・財産で、法的な移転関係に焦点がある。",
+      "definition": "土地、財産、権利などを正式に与える行為、またはその結果として認められたもの。法律・不動産では、その移転を記した文書や証書を指すこともある。一般的な「助成金」の grant と同じ綴りだが、付与の対象が土地・権利・財産で、法的な移転関係に焦点がある。",
       "patterns": [
         "the grant of 〈権利・財産〉＝〈権利・財産〉の正式な付与",
         "a grant of land/property＝土地・財産の付与",
@@ -576,9 +572,9 @@
         },
         {
           "pattern": "a grant of probate",
-          "use": "遺言執行に関する裁判所の正式な許可・証書を指す法律表現。制度の詳細は法域により異なる。",
-          "example": "The executor could not act until the grant of probate was issued.",
-          "translation": "遺言執行者は正式な遺言検認証書が発行されるまで行動できなかった。"
+          "use": "英国などで、遺言執行者が遺産を扱う法的権限を示す証書を指す法律表現。制度の詳細は法域により異なる。",
+          "example": "The bank required a grant of probate before releasing the deceased’s funds.",
+          "translation": "その銀行は、故人の預金を払い戻す前に遺言検認証書の提出を求めた。"
         },
         {
           "pattern": "under a grant from 〈機関〉",
@@ -648,7 +644,8 @@
         "take it for granted that 〈節〉＝～だと当然のように思う",
         "take for granted that 〈節〉＝～だと当然視する",
         "be taken for granted＝当然視される、価値を認められない",
-        "never/too easily take 〈人・物〉 for granted＝決して・あまりに簡単に当然視する。"
+        "never take 〈人・物〉 for granted＝決して〈人・物〉を当然視しない",
+        "too easily take 〈人・物〉 for granted＝あまりに簡単に〈人・物〉を当然視する。"
       ],
       "collocations": [
         {
@@ -659,7 +656,7 @@
         },
         {
           "pattern": "take something for granted",
-          "use": "自由、健康、利便性などを、当たり前で価値がないかのように扱う。",
+          "use": "自由、健康、利便性などを当たり前だと思い、その価値やありがたみを十分に意識しない。",
           "example": "Many people take clean water for granted until a supply problem occurs.",
           "translation": "多くの人は、供給問題が起きるまできれいな水を当然のものと思っている。"
         },
@@ -679,7 +676,7 @@
       "notes": [
         "take A for granted の for granted は分離できない固定的な補語で、take A granted や take for A granted とは言わない。人を目的語にすると「その人の存在・支えを当然視する」、事実を目的語にすると「確認なしに真実だと仮定する」という違いが出る。",
         "take it for granted that ... の it は形式的な目的語で、後ろの that 節が内容を表す。I took for granted that ... も見られるが、学習者には take it for granted that ... を基本形として覚えると安全である。",
-        "grant は、許可・権利・金銭を「権限者が与える」方向と、相手の主張を「認める」方向の両方を持つ。grant permission は許可を与えるが、grant that ... は主張を認める。grant が入っていても take for granted は「与える」意味ではなく、与えられているものを当然視する固定表現である。",
+        "この表現の granted は「認められた・当然とされた」という理解に関わり、「すでに与えられている物」だけを指すのではない。確認せず真実とする用法と、支えや恩恵を当たり前として十分に感謝しない用法を区別する。",
         "grant と give の違いは絶対的ではないが、公式性・申請への応答・権利の付与が関わると grant が自然になりやすい。grant と award では、前者が許可・権利の承認、後者が功績や審査に基づく授与という焦点の差がある。",
         "granted は過去分詞として「与えられた」だけでなく、Granted, the plan is ambitious, but ... のように「確かに～だが」と文全体を譲歩的につなぐ。これは時制を表す普通の過去形ではなく、相手の点をいったん認める談話表現である。"
       ],
