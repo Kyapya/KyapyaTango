@@ -3,58 +3,79 @@
   "slug": "perceive",
   "ipa": "米: /pɚˈsiːv/｜英: /pəˈsiːv/。2音節で、第2音節 /ˈsiːv/ に主強勢がある。米語の第1音節は r 色のある /pɚ/、英語は弱い /pə/。",
   "lead": "目・耳・鼻などの感覚を通して、人・物・動き・変化を直接捉える。完全に意識化したり、詳しく理解したりするとは限らない。",
-  "updated": "2026-08-24",
+  "updated": "2026-10-02",
   "notion_url": "https://app.notion.com/p/perceive-3c64faa9b77d8140b72bdf69bf18369c",
   "pronunciation": [
-    "語末 /iːv/ は長母音 /iː/ と有声音 /v/ の組み合わせで、最後の /v/ を無声化しない。",
+    "第2音節の母音 /iː/ に続く語末の子音は /v/ で、/f/ と区別する。自然な発話では /v/ の声帯振動が弱くなることもあるため、常に最後まで明瞭な有声を保つという絶対的な規則ではない。",
     "三人称単数 perceives は /pɚˈsiːvz/、過去形・過去分詞 perceived は /pɚˈsiːvd/、-ing形 perceiving は /pɚˈsiːvɪŋ/。-s は /z/、-ed は有声音 /v/ の後なので /d/ となり、perceiving では語末の e を落とす。"
   ],
   "etymology": [
-    "後期中英語に、アングロフランス語・古フランス語 perceivre を経て、ラテン語 percipere「完全に取り込む、把握する」から入った。per-「十分に、徹底して」＋ capere「取る、つかむ」という構成で説明される。",
-    "英語では14世紀初めごろから、感覚で捉える用法と、心で理解・評価する用法が確認される。語源の「つかみ取る」という比喩的な核は、現代の知覚・認識の広がりを理解する助けになるが、個々の語義を機械的に予測するものではない。"
+    "中英語に、アングロフランス語・古フランス語 perceivre を経て、ラテン語 percipere「完全に取り込む、把握する」から入った。per-「十分に、徹底して」＋ capere「取る、つかむ」という構成で説明される。",
+    "英語では14世紀初めごろから、感覚で捉える用法と、心で理解・評価する用法が確認される。語源の「つかみ取る」という比喩的な核は、現代の知覚・認識の広がりを理解する助けになるが、個々の語義を機械的に予測するものではない。",
+    "同じラテン語 capere に関係する英単語には、receive「受け取る」と conceive「考えを抱く、思いつく」がある。"
   ],
   "formation": [
     {
       "term": "perceives",
-      "description": "は三人称単数、perceived は過去形・過去分詞、perceiving は現在分詞・動名詞である。"
-    },
-    {
-      "term": "perception",
-      "description": "は「知覚、認識」、perceptive は「洞察力のある、知覚の鋭い」という主要派生語である。"
-    },
-    {
-      "term": "perceptible",
-      "description": "は「知覚できる、感じ取れる」、perceivable は「知覚可能な」、perceivably は「知覚できる形で」、perceiver は「知覚する人」を表す。"
+      "description": "三人称単数形。"
     },
     {
       "term": "perceived",
-      "description": "は過去分詞形容詞としても使われ、perceived threat のように「実際にそうだと断定するのでなく、誰かにそう認識・評価された」という意味を作る。"
+      "description": "過去形・過去分詞。過去分詞形容詞としても使い、感覚で知覚されたものや、人からそう認識・評価されているものを表す（語義5）。"
+    },
+    {
+      "term": "perceiving",
+      "description": "現在分詞・動名詞。語末の e を落として -ing を付ける。"
+    },
+    {
+      "term": "perception",
+      "description": "名詞。「知覚、認識」。"
+    },
+    {
+      "term": "perceptive",
+      "description": "形容詞。「洞察力のある、知覚の鋭い」。"
+    },
+    {
+      "term": "perceptible",
+      "description": "形容詞。「知覚できる、感じ取れる」。"
+    },
+    {
+      "term": "perceivable",
+      "description": "形容詞。「知覚可能な」。"
+    },
+    {
+      "term": "perceivably",
+      "description": "副詞。「知覚できる形で」。"
+    },
+    {
+      "term": "perceiver",
+      "description": "名詞。「知覚する人」。"
     }
   ],
   "core": [
     {
       "label": "perceive",
-      "description": "の核は、外界や状況から情報を受け取り、意識の中で「そうだ」と捉えること。感覚で捉える場合から、事実・意味・評価として捉える場合まで広がる。過去分詞形容詞の perceived は、その知覚・判断の結果として人からそう受け止められている状態を表す。"
+      "description": "の核は、外界や状況から情報を受け取り、感覚・認識として捉えること。感覚で気づくことから事実・意味・評価を捉えることへ広がり、形容詞 perceived はその知覚・判断を受けたものを表す。"
     },
     {
-      "label": "感覚で対象や変化を捉える",
-      "description": "→ 「知覚する・気づく」（語義1）"
+      "label": "感覚を通じて対象や変化を捉えること",
+      "description": "→ 「感覚で知覚する、目や耳などで気づく」（語義1）"
     },
     {
-      "label": "事実や状況がそうだと認識する",
-      "description": "→ 「認識する・気づく」（語義2）"
+      "label": "事実や状況の成立を捉えること",
+      "description": "→ 「事実・状況に気づき、認識する」（語義2）"
     },
     {
-      "label": "意味や構造、含意を心で捉える",
-      "description": "→ 「理解する・見抜く」（語義3）"
+      "label": "意味・構造・含意を捉えること",
+      "description": "→ 「意味・構造・含意を理解する、見抜く」（語義3）"
     },
     {
-      "label": "人や物をある性質のものとして位置づける",
-      "description": "→ 「～と見なす・受け止める」（語義4）"
+      "label": "人や物の性質・立場を捉えること",
+      "description": "→ 「人・物を特定のものとして受け止める、見なす」（語義4）"
     },
     {
-      "label": "知覚や判断の結果、そう受け止められている",
-      "description": "→ 「認識された・そう見なされた」（語義5）"
+      "label": "知覚や判断によって捉えられたもの",
+      "description": "→ 「認識された、そう受け止められた；感覚で知覚された」（語義5）"
     }
   ],
   "sources": [],
@@ -66,7 +87,7 @@
       "register": [
         "一般。see や notice よりやや硬く、説明文・報告・学術的な記述で目立つ。"
       ],
-      "definition": "目・耳・鼻などの感覚を通して、人・物・動き・変化を直接捉える。完全に意識化したり、詳しく理解したりするとは限らない。",
+      "definition": "目・耳・鼻などの感覚を通して、人・物・動き・変化を直接捉える。完全に意識化したり、詳しく理解したりするとは限らない。機械知覚の文脈では、センサーなどが環境情報を捉える働きにも拡張して使われる。",
       "patterns": [
         "perceive 〈対象〉",
         "perceive 〈対象〉 doing",
@@ -105,13 +126,19 @@
         },
         {
           "pattern": "perceive the light",
-          "use": "光の有無や変化を視覚で捉える",
+          "use": "光を捉える。この例はセンサーへの技術的な拡張用法で、単なる光の検出を述べる一般的な表現では detect が使いやすい",
           "example": "The sensor perceives the light reflected from the surface.",
           "translation": "そのセンサーは表面から反射した光を検知する。"
+        },
+        {
+          "pattern": "perceive 〈対象〉 doing",
+          "use": "対象がある動作をしていることを感覚で捉える",
+          "example": "I perceived someone moving behind the curtain.",
+          "translation": "カーテンの陰で誰かが動いているのに気づいた。"
         }
       ],
       "notes": [
-        "感覚に入った対象を意識が捉える語で、意図的に詳しく調べることまでは含まない。perceive O doing は「Oが～しているのを知覚する」で、Oの動作をひとまとまりの出来事として捉える perceive O do と使い分ける。perceive O as B はこの感覚義ではなく、語義4の評価・分類である。"
+        "人・動物については感覚に入った対象を捉えることを表し、意図的に詳しく調べることまでは含まない。perceive O doing は「Oが～しているのを知覚する」という構文である。see や hear に見られる原形不定詞との対比を、そのまま perceive に当てはめない。perceive O as B のように対象を特定の性質・分類として捉える用法は、語義4を参照する。"
       ],
       "synonyms": [
         {
@@ -124,9 +151,9 @@
         },
         {
           "word": "detect",
-          "definition": "通常は見えにくいものを調べて発見する",
+          "definition": "見えにくいものや明らかでないものを発見する、気づく",
           "frequency": 8,
-          "difference": "perceive より検出・発見の意図や装置の働きを強く示す",
+          "difference": "detect は検査や装置による検出によく使うが、普通の感覚で微かな兆候に気づく場合にも使える。perceive より、見つけにくいものの発見に焦点がある",
           "example": "The instrument detected a small leak.",
           "translation": "その装置は小さな漏れを検出した。"
         },
@@ -341,7 +368,7 @@
         }
       ],
       "notes": [
-        "understand よりも、対象の意味・関係・含意を「捉えた」という視点が前面に出やすい。完全で詳細な理解を必ず含むわけではない。語義2の「事実だと認識する」と近いが、語義3では事実から読み取る意味や構造が中心で、語義4の as/to be は人・物への評価や分類を作る構文である。"
+        "understand よりも、対象の意味・関係・含意を「捉えた」という視点が前面に出やすい。完全で詳細な理解を必ず含むわけではない。語義2の「事実だと認識する」と近いが、語義3では事実から読み取る意味や構造が中心で、as/to be などによる人・物への評価・分類は語義4で扱う。ただし、to不定詞は対象の状態を知覚・認識する記述にも使うため、構文だけで評価義と決めない。"
       ],
       "synonyms": [
         {
@@ -362,7 +389,7 @@
         },
         {
           "word": "grasp",
-          "definition": "要点や構造をすばやくつかむ",
+          "definition": "要点や構造を理解し、つかむ",
           "frequency": 8,
           "difference": "grasp は理解の到達を鮮明に示し、perceive より口語的で、要点把握の含みが強い",
           "example": "She grasped the underlying idea.",
@@ -414,10 +441,14 @@
       ],
       "definition": "人、組織、物、状況などを、ある性質・立場・評価をもつものとして捉える。ここでは対象の客観的性質を断定するより、話者や集団の認識・評価の枠組みを表す。",
       "patterns": [
-        "perceive 〈対象〉 as 〈性質・分類〉",
-        "perceive 〈対象〉 to be・to have 〈性質・所有〉",
-        "〈対象〉 is perceived as 〈性質・分類〉",
-        "〈対象〉 is perceived to be・to have 〈性質・所有〉"
+        "perceive 〈対象〉 as 〈名詞句・形容詞句〉＝対象を～と見なす",
+        "perceive 〈対象〉 as doing＝対象が～するものと捉える",
+        "perceive 〈対象〉 to be 〈名詞句・形容詞句〉＝対象を～であると捉える",
+        "perceive 〈対象〉 to have 〈名詞句〉＝対象が～を持つと捉える",
+        "〈対象〉 be perceived as 〈名詞句・形容詞句・-ing節〉＝対象が～と見なされる",
+        "〈対象〉 be perceived to be 〈名詞句・形容詞句〉＝対象が～であると見なされる",
+        "〈対象〉 be perceived to have 〈名詞句〉＝対象が～を持つと見なされる",
+        "〈対象〉 be perceived to have 〈過去分詞〉＝対象が以前に～した・～であったと捉えられる"
       ],
       "collocations": [
         {
@@ -455,10 +486,22 @@
           "use": "自分を指導者だと認識する",
           "example": "She perceives herself as a practical leader.",
           "translation": "彼女は自分を実務的なリーダーだと認識している。"
+        },
+        {
+          "pattern": "be perceived as doing",
+          "use": "対象がある行動をしている、またはある働きをするものと捉えられる",
+          "example": "The new rules were perceived as favoring larger companies.",
+          "translation": "新しい規則は、大企業を優遇するものと受け止められた。"
+        },
+        {
+          "pattern": "be perceived to have 〈過去分詞〉",
+          "use": "認識・評価の時点より前の出来事や状態について述べる",
+          "example": "The manager was perceived to have ignored the warnings.",
+          "translation": "その管理者は警告を無視していたと見なされた。"
         }
       ],
       "notes": [
-        "as の後ろには名詞・形容詞相当の語句を置き、to be・to have の後ろには対象の性質や所有を置く。受け身の perceived は「そう見られている」であり、実際にそうであるという話者自身の断定とは限らない。perceive oneself as ... も可能だが、自己認識を述べる構文として扱う。"
+        "as の後ろには名詞句・形容詞句のほか、動作や働きを表す -ing 節も置ける。to be の後ろには性質・分類を表す補語、所有などを表す to have の後ろには名詞句を置く。また、to have been・to have done のような完了不定詞では have は助動詞で、認識の時点より前の状態・出来事を表す。受け身の perceived は「そう見られている」であり、実際にそうであるという話者自身の断定とは限らない。perceive oneself as ... も可能だが、自己認識を述べる構文として扱う。"
       ],
       "synonyms": [
         {
@@ -498,17 +541,17 @@
     },
     {
       "number": 5,
-      "title": "【過去分詞形・形容詞】認識された、そう受け止められた",
+      "title": "【過去分詞形・形容詞（perceived）】認識された、そう受け止められた；感覚で知覚された",
       "frequency": 7,
       "register": [
         "一般。ニュース、論文、調査報告、ビジネス文書で perceived threat・perceived risk などの形が頻出する。"
       ],
-      "definition": "perceived は perceive の過去分詞。限定用法では、実際の性質を断定するのでなく、誰かにそう認識・評価されている状態を表す。",
+      "definition": "perceived は perceive の過去分詞に由来する形容詞として、誰かにそう認識・評価されたことや、感覚を通じて知覚されたことを表す。perceived threat などでは客観的な実態より人の受け止め方に焦点を置くが、常に事実を疑ったり否定したりする意味ではない。",
       "patterns": [
-        "a perceived 〈名詞〉",
-        "a widely・commonly perceived 〈名詞〉",
-        "be perceived as 〈性質・分類〉",
-        "be perceived to be・to have 〈性質・所有〉"
+        "a perceived 〈単数可算名詞〉",
+        "perceived 〈不可算名詞・複数名詞〉",
+        "a widely/commonly perceived 〈単数可算名詞〉",
+        "widely/commonly perceived 〈不可算名詞・複数名詞〉。名詞を修飾する形を扱い、評価・分類を述べる動詞の受動態 be perceived as/to be ... などは語義4を参照する。"
       ],
       "collocations": [
         {
@@ -546,10 +589,23 @@
           "use": "必要性と受け止められたもの",
           "example": "The service was created in response to a perceived need.",
           "translation": "そのサービスは必要性があるとの認識に応じて作られた。"
+        },
+        {
+          "pattern": "perceived brightness",
+          "use": "観察者が感覚として捉えた明るさを表す",
+          "example": "Participants rated the perceived brightness of each image.",
+          "translation": "参加者は、それぞれの画像がどのくらい明るく感じられたかを評価した。"
         }
       ],
       "notes": [
-        "名詞の前の perceived は「認識された・そう見なされた」という形容詞的用法で、客観的な事実の確定を避ける働きがある。受け身の動詞 be perceived と形は同じだが、前者は名詞を修飾し、後者は認識の受け手となる主語を取る。perceptible「知覚できる」と混同しない。"
+        "名詞の前の perceived は「認識された・そう見なされた・知覚された」という形容詞的用法である。人の受け止め方を客観的な実態と区別する場合も、感覚で捉えられた性質を中立的に述べる場合もある。受け身の動詞 be perceived と過去分詞の形は同じだが、前者は名詞を修飾し、後者は認識の対象を主語にする。perceptible「知覚できる」と混同しない。",
+        "次は名詞修飾の形容詞ではなく、判断・評価を表す動詞の受動態との構文上の対照である。",
+        "be regarded as 〈性質・分類〉",
+        "定義: あるものとして見なされた",
+        "頻度: 〈8/10〉",
+        "違い: be regarded as は語義4の be perceived as に対応する動詞の受動態である。名詞の前の perceived を、単独の regarded でそのまま置き換える表現ではない",
+        "例: The proposal was regarded as realistic.",
+        "訳: その提案は現実的だと見なされた。"
       ],
       "synonyms": [
         {
@@ -559,14 +615,6 @@
           "difference": "recognized は認識が成立したことを比較的中立に表し、perceived は評価や見え方の側面を残す",
           "example": "The recognized need for reform was widely discussed.",
           "translation": "改革の必要性が認識され、広く議論された。"
-        },
-        {
-          "word": "regarded",
-          "definition": "あるものとして見なされた",
-          "frequency": 8,
-          "difference": "regarded は判断・評価の結果に焦点があり、perceived より「見なす」という行為が明確である",
-          "example": "The proposal was regarded as realistic.",
-          "translation": "その提案は現実的だと見なされた。"
         },
         {
           "word": "supposed",
