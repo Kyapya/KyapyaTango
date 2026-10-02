@@ -16,8 +16,8 @@
   ],
   "formation": [
     {
-      "term": "retains",
-      "description": "/ retained / retaining：動詞 retain の三人称単数・過去形／過去分詞・現在分詞。retained は受動態のほか、retained earnings「利益剰余金」のような複合表現にも現れる。"
+      "term": "retained",
+      "description": "earnings：retained（過去分詞）と earnings（収益）から成る複合表現で、「利益剰余金」を表す。"
     },
     {
       "term": "retention",
@@ -104,7 +104,7 @@
           "pattern": "retain a deposit",
           "use": "保証金や預かり金を返還せず手元に残す。",
           "example": "The landlord may retain part of the deposit to cover the repairs.",
-          "translation": "大家は修繕費に充てるため、保証金の一部を差し引いて保持することがある。"
+          "translation": "大家は修繕費に充てるため、保証金の一部を返さずに手元に残すことがある。"
         },
         {
           "pattern": "retain the custom of doing something",
@@ -138,7 +138,7 @@
         }
       ],
       "notes": [
-        "この語義の retain は、すでに持っているもの・すでにある状態や関係を、その後も失わずに保つことを表す。新たに手に入れる acquire や、状態を保つために継続的に管理する maintain とは焦点が異なる。retain a deposit のように金銭を手元に残す場合は、返還・支払いを控える含みがある。retain rooms は「部屋を引き続き自分の利用のために確保しておく」という意味にもなる。retain one’s seat は、政治の文脈では「議席を守る」を表す。"
+        "この語義の retain は、すでに持っているもの・すでにある状態や関係を、その後も失わずに保つことを表す。新たに手に入れる acquire や、状態を保つために継続的に管理する maintain とは焦点が異なる。retain a deposit のように金銭を手元に残す場合は、返還・支払いを控える含みがある。retain rooms は「部屋を引き続き自分の利用のために確保しておく」という意味にもなる。retain one's seat は、政治の文脈では「議席を守る」を表す。"
       ],
       "synonyms": [
         {
@@ -275,7 +275,7 @@
           "frequency": 10,
           "difference": "hire は一般的な採用・依頼を広く表す。専門家を目的語にした retain は、より硬く、正式に役務を確保することを表すが、単発の依頼を排除しない。",
           "example": "We hired a lawyer to review the contract.",
-          "translation": "私たちは契約を確認してもらうため弁護士を雇った。"
+          "translation": "私たちは契約の確認を弁護士に依頼した。"
         },
         {
           "word": "engage",
@@ -448,7 +448,7 @@
       "patterns": [
         "〈体・患者〉 retain 〈fluid/urine/water〉＝〈体・患者〉が〈液体・尿・水分〉を体内にためる",
         "retain 〈fluid〉 in 〈部位〉＝〈液体〉を〈部位〉にためる",
-        "be retaining fluid＝体内に液体がたまっている。retain water は医学文脈ではこの語義になり得るが、土壌や容器が水を保つ語義3とも解釈できる。"
+        "be retaining fluid＝体内に液体がたまっている。"
       ],
       "collocations": [
         {
@@ -459,9 +459,9 @@
         },
         {
           "pattern": "retain urine",
-          "use": "尿を十分に排出できず、膀胱に残している状態を述べる。",
+          "use": "尿を十分に排出できず、膀胱に尿が残っている状態を述べる。",
           "example": "The patient was retaining urine after the operation.",
-          "translation": "その患者は手術後、尿を十分に排出できず、膀胱に残していた。"
+          "translation": "その患者は手術後、尿を十分に排出できず、膀胱に尿が残った状態だった。"
         },
         {
           "pattern": "retain water",
@@ -477,7 +477,7 @@
         }
       ],
       "notes": [
-        "医学用法の retain は、単に「吸収する」ことではなく、物質が体外へ出ずに体内に残ることを表す。excrete や expel は外へ出す側の語であり、retain fluid と方向が逆である。eliminate は除去・消失を広く表し、薬物では代謝と排泄の両方を含み得る。fluid retention や urinary retention は名詞表現としてよく使われる。retain は物質が体内に残ることを表し、その原因までは含まない。",
+        "retain water は医学文脈ではこの語義になり得るが、土壌や容器が水を保つ語義3とも解釈できる。医学用法の retain は、単に「吸収する」ことではなく、物質が体外へ出ずに体内に残ることを表す。excrete や expel は外へ出す側の語であり、retain fluid と方向が逆である。eliminate は除去・消失を広く表し、薬物では代謝と排泄の両方を含み得る。fluid retention や urinary retention は名詞表現としてよく使われる。retain は物質が体内に残ることを表し、その原因までは含まない。",
         "accumulate は量が次第に増えることを表す。Fluid accumulated around the lungs.「肺の周囲に液体がたまった」は蓄積に焦点があり、物質を体内にとどめる retain とは区別する。"
       ],
       "synonyms": [
