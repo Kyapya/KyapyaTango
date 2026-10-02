@@ -1,14 +1,17 @@
 {
   "word": "scope",
   "slug": "scope",
-  "ipa": "米: /skoʊp/｜英: /skəʊp/。いずれも1音節で、子音群 /sk/ で始まり、母音に主強勢があり、語末を /p/ で閉じる。米音の /oʊ/ は「オウ」、英音の /əʊ/ は中央寄りの「オウ」に近い。名詞と動詞で発音は同じである。複数形 scopes は /skoʊps/、/skəʊps/、過去形・過去分詞 scoped は /skoʊpt/、/skəʊpt/、-ing形 scoping は /ˈskoʊpɪŋ/、/ˈskəʊpɪŋ/ となる。scope out では scope と out を分けて発音する。",
+  "ipa": "米: /skoʊp/｜英: /skəʊp/",
   "lead": "人が何かをしたり、能力を伸ばしたりするために残されている余地・機会。scope for + 名詞・動名詞 が最も定着しており、十分な余地にも、ほとんど余地がない状態にも使える。実際に成功する機会を保証する語ではなく、可能性を活かせる空間を表す。",
-  "updated": "2026-09-02",
+  "updated": "2026-10-02",
   "notion_url": "https://app.notion.com/p/scope-3ce4faa9b77d8179b29de2dadea378a6",
-  "pronunciation": [],
+  "pronunciation": [
+    "いずれも1音節で、子音群 /sk/ で始まり、語末を /p/ で閉じる。米音の母音 /oʊ/ は「オウ」、英音の /əʊ/ は中央寄りの「オウ」に近い。名詞と動詞で発音は同じである。",
+    "複数形 scopes は米 /skoʊps/・英 /skəʊps/、過去形・過去分詞 scoped は米 /skoʊpt/・英 /skəʊpt/、-ing形 scoping は米 /ˈskoʊpɪŋ/・英 /ˈskəʊpɪŋ/ となる。scope out は2語だが、続けて話すと scope の語末 /p/ を out の母音につなげて発音でき、必ず間を空けるわけではない。"
+  ],
   "etymology": [
     "一般名詞の scope は、イタリア語 scopo「目的、目標、対象」からラテン語 scopus、ギリシャ語 skopos「目標、見張る人、注目の対象」へさかのぼる。英語では「目指す対象」から「考えや活動が及ぶ範囲」「行動の余地」へ意味が広がった。",
-    "視覚器具を表す scope は、telescope、microscope、endoscope などの短縮形として発達した用法で、見ることを表すギリシャ語 skopein と関係する。動詞 scope は名詞の「範囲を見積もる」用法から発達し、現代の「調べる」「作業範囲を定める」へ展開した。"
+    "器具を表す scope は、telescope、microscope、endoscope、oscilloscope などの短縮形で、見ることを表すギリシャ語 skopein と関係する。動詞については、名詞の「範囲を見積もる」用法から計画・調査へ広がったという説明がある一方、観察器具を表す scope との関係を指摘する説明もある。器具で観察する・器具を取り付ける意味は、現代でも器具名とのつながりが明瞭である。"
   ],
   "formation": [
     {
@@ -25,11 +28,11 @@
     },
     {
       "term": "scope",
-      "description": "out：対象を詳しく調べる、可能性・必要条件を見積もる。out は分離できず、scope something out / scope out something の両方があるが、代名詞は scope it out の位置に置く。"
+      "description": "out：scope と副詞的小辞 out からなる句動詞で、対象を詳しく調べる、可能性・必要条件を見積もる。目的語の位置は語義7で説明する。"
     },
     {
       "term": "scope",
-      "description": "creep：プロジェクト開始後に、合意した範囲へ要求や作業が少しずつ追加されること。単なる scope の拡大ではなく、管理上望ましくない含みを持つ。"
+      "description": "creep：プロジェクト開始後に、合意した範囲へ要求や作業が十分に管理されないまま少しずつ追加されること。scope の拡大自体ではなく、管理上望ましくない拡大を表す。"
     },
     {
       "term": "scope",
@@ -44,56 +47,7 @@
       "description": "telescope、microscope、periscope、endoscope などで「見る・観察する器具」を表す結合形。単独名詞 scope の「範囲」とは系統・意味を分けて覚える。"
     }
   ],
-  "core": [
-    {
-      "label": "scope",
-      "description": "の中心には、「どこまで見渡せるか、扱えるかを区切った境界」というイメージがある。対象を含める範囲にも、行動できる余地にも、名前や演算子が届く領域にも使われ、動詞ではその境界を調べたり先に定めたりする。"
-    },
-    {
-      "label": "行動や発展を許す余地",
-      "description": "→ 「余地、機会」（語義1）"
-    },
-    {
-      "label": "主題や活動が扱う境界",
-      "description": "→ 「範囲、対象領域」（語義2）"
-    },
-    {
-      "label": "人・組織の知識や権限が届く境界",
-      "description": "→ 「能力・権限の及ぶ範囲」（語義3）"
-    },
-    {
-      "label": "遠く・内部を見る器具",
-      "description": "→ 「スコープ、観察器具」（語義4）"
-    },
-    {
-      "label": "量化子や修飾語が意味に及ぼす領域",
-      "description": "→ 「作用域」（語義5）"
-    },
-    {
-      "label": "プログラム内で名前を参照できる領域",
-      "description": "→ 「スコープ、可視範囲」（語義6）"
-    },
-    {
-      "label": "対象を見て情報を得る",
-      "description": "→ 「詳しく調べる、下見する」（語義7）"
-    },
-    {
-      "label": "作業の大きさや必要条件を先に見積もる",
-      "description": "→ 「範囲を定める、要件を見積もる」（語義8）"
-    },
-    {
-      "label": "望遠鏡・内視鏡で見る",
-      "description": "→ 「スコープで観察する」（語義9）"
-    },
-    {
-      "label": "器具を取り付けて見る装備にする",
-      "description": "→ 「スコープを装備する」（語義10）"
-    },
-    {
-      "label": "語義1〜3・5・6は、対象に届く境界という共通核から現代的に理解できる。語義4・9・10は「見る器具」への短縮・転用を含むため、範囲を表す名詞・動詞と文脈で区別する。",
-      "description": ""
-    }
-  ],
+  "core": [],
   "sources": [],
   "senses": [
     {
@@ -108,7 +62,8 @@
         "scope for 〈名詞・動名詞〉＝～の余地・機会",
         "scope for somebody to do＝人が～する余地",
         "give/allow somebody scope to do＝人に～する余地を与える",
-        "have plenty/little scope for＝～の余地が十分にある・ほとんどない",
+        "have plenty of scope for＝～の余地が十分にある",
+        "have little scope for＝～の余地がほとんどない",
         "within somebody's scope＝人の裁量・能力の範囲内で"
       ],
       "collocations": [
@@ -121,8 +76,8 @@
         {
           "pattern": "limited scope for 〈行動・選択〉",
           "use": "条件や制約のために、行動・選択できる余地が限られていることを表す。",
-          "example": "The narrow budget leaves us with limited scope for experimentation.",
-          "translation": "予算が少ないため、私たちには試行の余地がほとんどない。"
+          "example": "The tight budget leaves us with limited scope for experimentation.",
+          "translation": "予算が少ないため、私たちが試行できる余地は限られている。"
         },
         {
           "pattern": "give somebody scope to do",
@@ -195,7 +150,7 @@
     {
       "number": 2,
       "title": "【名詞・不可算】主題・活動・調査などが扱う範囲、対象領域",
-      "frequency": 10,
+      "frequency": 9,
       "register": [
         "標準的な一般語。報道、学術、法律、ビジネス、政策、プロジェクト管理で非常に広く使う。scope of the investigation、scope of the project は定型性が高い。"
       ],
@@ -247,7 +202,9 @@
       ],
       "notes": [
         "scope は「範囲」でも境界線そのものではなく、何が対象に含まれるかという内容上の広がりを表す。within the scope of は「～の範囲内で」、beyond/outside the scope of は「～の対象外で」であり、単に「～の外側にある」という物理的位置には通常使わない。scope of と scope for を混同しない。前者は対象に含まれる範囲、後者は行動・改善の余地である。",
-        "range は数値・種類・距離などの幅を広く表し、scope は計画・調査・活動について定められた対象境界を強く示す。extent は実際の広がり・程度に焦点があり、scope は「何を扱うか」という選択された範囲にも使える。"
+        "range は数値・種類・距離などの幅を広く表し、scope は計画・調査・活動について定められた対象境界を強く示す。extent は実際の広がり・程度に焦点があり、scope は「何を扱うか」という選択された範囲にも使える。",
+        "プロジェクト管理では in scope が「合意した作業範囲に含まれる」、out of scope が「範囲外」を表す。一般的な within the scope of 〈計画・規則〉と同じく対象範囲への包含を述べるが、使う構文は文脈で選ぶ。",
+        "別の専門用法として、海事では scope が繰り出した錨索の長さやたるみを指し、錨索の長さと水深などとの比を表すこともある。作業や議論の対象範囲とは区別する。古い「目的・ねらい」の意味は現代の一般用法ではまれである。"
       ],
       "synonyms": [
         {
@@ -287,7 +244,7 @@
     },
     {
       "number": 3,
-      "title": "【名詞・不可算】人・組織の能力、知識、権限が及ぶ範囲",
+      "title": "【名詞・通常不可算】人・組織などの能力、知識、権限が及ぶ範囲",
       "frequency": 8,
       "register": [
         "標準的。仕事、専門職、資格、組織運営、技術支援でよく使う。制度上の scope of practice の具体的な許可範囲は、語彙的意味とは別に各制度の資料で確認する。"
@@ -298,7 +255,8 @@
         "範囲外",
         "the scope of 〈役割・権限〉＝役割・権限の及ぶ範囲",
         "fall within somebody's scope＝人の担当範囲に入る",
-        "extend the scope of 〈権限・サービス〉＝権限・サービスの範囲を広げる"
+        "extend the scope of 〈権限・サービス〉＝権限・サービスの範囲を広げる",
+        "request access scopes＝アクセス権限の範囲を要求する"
       ],
       "collocations": [
         {
@@ -330,11 +288,18 @@
           "use": "サービスやチームが扱える対象・地域・業務を広げることを表す。",
           "example": "The clinic expanded the scope of its service to include evening appointments.",
           "translation": "その診療所はサービスの範囲を広げ、夜間の予約も受け付けるようにした。"
+        },
+        {
+          "pattern": "request access scopes",
+          "use": "アプリなどが、必要なデータや機能へアクセスするための権限範囲を要求する。",
+          "example": "The app requests only the access scopes it needs.",
+          "translation": "そのアプリは、必要なアクセス権限の範囲だけを要求する。"
         }
       ],
       "notes": [
         "「能力がない」と断定するより、outside my scope は「この担当・専門範囲では扱わない」という境界の表現である。専門職について scope of practice と言う場合、実際に許される行為、資格、監督、法域は制度ごとに異なるため、単なる担当範囲と法的資格を同一視しない。",
-        "role は職務上の立場全体、remit は正式に割り当てられた任務、scope はその役割・任務が実際に及ぶ境界を表す。authority は決定権そのものを指し、scope of authority はその決定権が及ぶ範囲を指す。"
+        "role は職務上の立場全体、remit は正式に割り当てられた任務、scope はその役割・任務が実際に及ぶ境界を表す。authority は決定権そのものを指し、scope of authority はその決定権が及ぶ範囲を指す。",
+        "情報システムの認可では、scope はアプリやアクセストークンに許されるアクセスの範囲を指し、個別の権限区分を a scope / scopes と数えることもある。これは語義6の「名前をコードのどこから参照できるか」とは別の技術用法である。"
       ],
       "synonyms": [
         {
@@ -366,18 +331,20 @@
     },
     {
       "number": 4,
-      "title": "【名詞・可算】望遠鏡・内視鏡・照準器などのスコープ、観察器具",
+      "title": "【名詞・可算】望遠鏡・内視鏡・照準器・オシロスコープなどの観察・表示器具",
       "frequency": 7,
       "register": [
-        "一般語としては技術・医療・天文・射撃で使う。何の器具かが重要な文章では telescope、endoscope、rifle scope など正式名称を使う。射撃関連は地域・制度・安全文脈に依存するため、ここでは語彙的な器具名として扱う。"
+        "技術・医療・天文・射撃・電子計測などで使う短縮語。何の器具かが重要な文章では telescope、endoscope、rifle scope、oscilloscope などの具体名を使う。"
       ],
-      "definition": "遠くのもの、内部、または照準対象を見るための器具を指す短縮的な名詞。文脈により telescope、microscope、endoscope、rifle scope などを指し、scope 単独で器具の種類が決まるとは限らない。医療では検査用の内視鏡、射撃では銃に取り付ける照準望遠鏡を指すことがある。",
+      "definition": "遠くのものや内部を観察したり、照準を合わせたり、信号や検出結果を画面に表示したりする器具を指す短縮的な名詞。文脈により telescope、microscope、endoscope、rifle scope、oscilloscope、radarscope などを指す。scope 単独で器具の種類が決まるとは限らず、すべてが対象を光学的に拡大する器具とは限らない。",
       "patterns": [
-        "look/view through a scope＝スコープを通して見る",
+        "look through a scope＝スコープをのぞく",
+        "view something through a scope＝スコープを通して対象を見る",
         "look into a scope＝スコープをのぞく",
         "a scope on 〈銃・器具〉＝銃などに取り付けたスコープ",
         "mount/adjust a scope＝スコープを取り付ける・調整する",
-        "under the scope＝スコープによる観察下で"
+        "under the scope＝スコープによる観察下で",
+        "display a waveform on a scope＝オシロスコープに波形を表示する"
       ],
       "collocations": [
         {
@@ -409,11 +376,17 @@
           "use": "焦点、倍率、照準などを見やすく・正確になるよう調整することを表す。",
           "example": "She adjusted the scope until the distant marker came into focus.",
           "translation": "彼女は遠くの標識に焦点が合うまでスコープを調整した。"
+        },
+        {
+          "pattern": "display a waveform on a scope",
+          "use": "オシロスコープの画面に電気信号の波形を表示する。",
+          "example": "The technician displayed the waveform on the scope.",
+          "translation": "技術者はオシロスコープに波形を表示した。"
         }
       ],
       "notes": [
         "この scope は語義2の「範囲」と別の名詞系統から来た短縮用法である。a scope と単数で数えられ、the scope of the report のような of 構文とは意味が異なる。under the scope は専門文脈に限られ、一般的な「詳しく検討されている」には under scrutiny や under review が自然な場合が多い。",
-        "「スコープ」が器具の種類を指すかは目的語・領域で決まる。astronomy なら telescope、medical context なら endoscope、銃の照準なら rifle scope と具体化する。"
+        "器具としての scope が何を指すかは文脈で判断する。天文では telescope、医療では endoscope、銃の照準では rifle scope、電子計測では oscilloscope、レーダーでは radarscope などと具体化できる。別の短縮用法として horoscope「星占い」を指す場合もあり、器具の意味とは区別する。"
       ],
       "synonyms": [
         {
@@ -427,8 +400,8 @@
         {
           "word": "sight",
           "definition": "銃などで照準を合わせるための器具・目印。",
-          "frequency": 8,
-          "difference": "sight は照準全般を指し、光学倍率を持つとは限らない。scope は通常、見るための光学器具を含意する。",
+          "frequency": 6,
+          "difference": "sight は照準用の器具を指し、光学倍率を持つとは限らない。この文脈の scope は照準望遠鏡を指すが、scope 全般には電子計測の表示器具なども含まれる。",
           "example": "The instructor checked the alignment of the sight.",
           "translation": "指導員は照準器の位置合わせを確認した。"
         },
@@ -452,11 +425,11 @@
       ],
       "definition": "論理式や文の中で、量化子、否定、修飾語などが意味・真偽の解釈に影響を及ぼす部分。scope of a quantifier はその量化子が支配する領域を指し、文の構造によって複数の解釈が生じると scope ambiguity「作用域の曖昧性」になる。一般的な「主題の範囲」と違い、意味解釈を決める構造上の領域である。",
       "patterns": [
-        "the scope of 〈a quantifier・negation〉＝量化子・否定の作用域",
+        "the scope of 〈a quantifier / negation〉＝量化子・否定の作用域",
         "take scope over 〈表現〉＝～に作用域を及ぼす",
-        "wide/narrow scope＝広い・狭い作用域",
+        "wide/narrow scope＝相対的に広い・狭い作用域",
         "scope ambiguity＝作用域の曖昧性",
-        "within the scope of 〈operator〉＝演算子の作用域内で"
+        "within the scope of an operator＝演算子の作用域内で"
       ],
       "collocations": [
         {
@@ -473,13 +446,13 @@
         },
         {
           "pattern": "wide scope",
-          "use": "演算子が文や命題の広い部分に及ぶ解釈を表す。",
+          "use": "ある演算子の作用域が別の演算子や複数の構成要素を含む、相対的に広い解釈を表す。",
           "example": "The adverb has wide scope and modifies both clauses.",
           "translation": "その副詞は広い作用域を持ち、二つの節を修飾する。"
         },
         {
           "pattern": "narrow scope",
-          "use": "演算子が直近の語句や一部の表現だけに及ぶ解釈を表す。",
+          "use": "ある演算子が別の演算子の作用域内に入るなど、相対的に狭い範囲に働く解釈を表す。直近の語だけに限るという意味ではない。",
           "example": "Under the narrow-scope reading, the speaker denies only the final claim.",
           "translation": "狭い作用域の解釈では、話者は最後の主張だけを否定している。"
         },
@@ -492,44 +465,38 @@
       ],
       "notes": [
         "この語義の scope は、単に「文が扱う主題の範囲」を指すのではなく、ある要素が他の要素の解釈を支配する領域を指す。take scope over は「～について広い範囲を調べる」ではなく、論理的・意味論的な作用関係を表す。wide/narrow は物理的な幅ではなく、支配する構造上の広さである。",
-        "domain はある演算や関数が定義される領域、range は値が取り得る範囲にも使える。scope は特に、量化・否定・修飾などがどこまで解釈を変えるかという支配関係に焦点がある。"
+        "domain はある演算や関数が定義される領域、range は値が取り得る範囲にも使える。scope は特に、量化・否定・修飾などがどこまで解釈を変えるかという支配関係に焦点がある。",
+        "関連概念との比較: 以下の domain・range・reach は、それぞれ領域・値の範囲・影響の到達範囲を表し、論理・言語学の作用域そのものとは区別する。",
+        "domain",
+        "定義: 概念、関数、活動、演算などが成立・作用する領域。",
+        "頻度: 〈8/10〉",
+        "違い: domain は対象となる領域そのものを広く表す。scope は文中の演算子・量化子が意味に影響する支配範囲を表す。",
+        "例: The function is defined over a restricted domain.",
+        "訳: その関数は限られた定義域上で定義されている。",
+        "range",
+        "定義: 量、値、対象が取り得る範囲。",
+        "頻度: 〈10/10〉",
+        "違い: range は可能な値や広がりを表す一般語。scope は論理・言語学で要素の解釈上の支配領域を表す専門語である。",
+        "例: The possible range of answers is quite narrow.",
+        "訳: 可能な答えの範囲はかなり狭い。",
+        "reach",
+        "定義: 効果、影響、理解などが届く範囲。",
+        "頻度: 〈9/10〉",
+        "違い: reach は影響が実際に届くことを強調する。scope は文の構造上どこを支配するかを形式的に述べる。",
+        "例: The law's reach extends beyond the national border.",
+        "訳: その法律の及ぶ範囲は国境を越えている。"
       ],
-      "synonyms": [
-        {
-          "word": "domain",
-          "definition": "概念、関数、活動、演算などが成立・作用する領域。",
-          "frequency": 8,
-          "difference": "domain は対象となる領域そのものを広く表す。scope は文中の演算子・量化子が意味に影響する支配範囲を表す。",
-          "example": "The function is defined over a restricted domain.",
-          "translation": "その関数は限られた定義域上で定義されている。"
-        },
-        {
-          "word": "range",
-          "definition": "量、値、対象が取り得る範囲。",
-          "frequency": 10,
-          "difference": "range は可能な値や広がりを表す一般語。scope は論理・言語学で要素の解釈上の支配領域を表す専門語である。",
-          "example": "The possible range of answers is quite narrow.",
-          "translation": "可能な答えの範囲はかなり狭い。"
-        },
-        {
-          "word": "reach",
-          "definition": "効果、影響、理解などが届く範囲。",
-          "frequency": 9,
-          "difference": "reach は影響が実際に届くことを強調する。scope は文の構造上どこを支配するかを形式的に述べる。",
-          "example": "The law's reach extends beyond the national border.",
-          "translation": "その法律の及ぶ範囲は国境を越えている。"
-        }
-      ],
+      "synonyms": [],
       "antonyms": []
     },
     {
       "number": 6,
-      "title": "【名詞・コンピューター】プログラム内で名前や値を参照できる範囲、実行コンテキスト",
-      "frequency": 8,
+      "title": "【名詞・コンピューター】プログラム内で名前や式を参照できる範囲",
+      "frequency": 6,
       "register": [
         "コンピューター科学、ソフトウェア開発、プログラミング教育で標準的な専門語。JavaScript、Python などの公式資料でも、名前の可視性・束縛・解決範囲を説明する語として使われる。"
       ],
-      "definition": "変数、関数、値などがプログラムのどの部分から見え、参照できるかを決める実行上の範囲・文脈。global scope、function scope、block scope、lexical scope などがあり、内側の scope が外側の scope を参照できる階層構造を持つことがある。言語ごとの規則は異なるため、scope という一般概念と各言語の実装規則を分けて理解する。",
+      "definition": "変数名・関数名などを、プログラムのどの領域や文脈から参照できるかという範囲。global scope、function scope、block scope、lexical scope などがあり、内側のスコープから外側の名前を参照できる階層構造を持つことがある。コード上の領域として説明する言語も、実行時の名前解決との関係で説明する場合もあり、具体的な規則は言語ごとに異なる。",
       "patterns": [
         "the scope of 〈a variable・a function〉＝変数・関数のスコープ",
         "global/local/function/block scope＝グローバル・ローカル・関数・ブロックスコープ",
@@ -541,8 +508,8 @@
         {
           "pattern": "variable scope",
           "use": "変数名を参照できるコード上の範囲を表す。",
-          "example": "The variable scope ends when the function returns.",
-          "translation": "その変数のスコープは関数が戻ると終わる。"
+          "example": "The variable has scope only within this block.",
+          "translation": "その変数のスコープはこのブロック内に限られる。"
         },
         {
           "pattern": "global scope",
@@ -554,7 +521,7 @@
           "pattern": "function scope",
           "use": "関数の本体を境界とする名前の可視範囲を表す。",
           "example": "The parameter is available throughout the function scope.",
-          "translation": "その引数は関数スコープ全体で利用できる。"
+          "translation": "その仮引数は関数スコープ全体で利用できる。"
         },
         {
           "pattern": "block scope",
@@ -571,32 +538,29 @@
       ],
       "notes": [
         "プログラミングの scope は、変数の寿命そのもの、保存場所、値の型と同じではない。scope は主に「名前をどこから参照できるか」を表し、lifetime は値が存在する期間を表す。言語によって function scope と block scope の規則や、親 scope への名前解決の仕組みは異なる。",
-        "visibility は「見える・参照できる」性質に焦点があり、context はコードが実行される環境全体を指し得る。scope はその中で名前・式が利用可能な境界を指す、より専門的で限定された語である。"
+        "visibility は「見える・参照できる」性質に焦点があり、context はコードが実行される環境全体を指し得る。scope はその中で名前・式が利用可能な境界を指す、より専門的で限定された語である。",
+        "関連概念との比較: context は周囲の実行・解釈環境、namespace は名前と対象の対応関係を表し、名前が参照できる範囲を示す scope と同一ではない。",
+        "context",
+        "定義: コードが実行・解釈される周囲の状態や環境。",
+        "頻度: 〈5/10〉",
+        "違い: context は実行状態、呼び出し元、設定などを含む広い語。scope は名前や式が参照可能な範囲に限定される。",
+        "例: The callback receives the current execution context.",
+        "訳: そのコールバックは現在の実行コンテキストを受け取る。",
+        "namespace",
+        "定義: 名前と、それが参照するオブジェクトの対応を管理する領域。",
+        "頻度: 〈5/10〉",
+        "違い: namespace は名前の集合・対応関係に焦点があり、scope はその名前がどのコード領域で解決されるかに焦点がある。",
+        "例: The module provides a separate namespace for its exported names.",
+        "訳: そのモジュールは、エクスポートする名前のために別の名前空間を提供する。"
       ],
       "synonyms": [
         {
           "word": "visibility",
           "definition": "名前、属性、機能などがコードのどこから見え、利用できるかという性質。",
-          "frequency": 8,
+          "frequency": 5,
           "difference": "visibility は可視性という性質に焦点がある。scope はその可視性を決めるコード上の範囲・階層を指す。",
           "example": "The class controls the visibility of its internal methods.",
           "translation": "そのクラスは内部メソッドの可視性を制御する。"
-        },
-        {
-          "word": "context",
-          "definition": "コードが実行・解釈される周囲の状態や環境。",
-          "frequency": 9,
-          "difference": "context は実行状態、呼び出し元、設定などを含む広い語。scope は名前や式が参照可能な範囲に限定される。",
-          "example": "The callback receives the current execution context.",
-          "translation": "そのコールバックは現在の実行コンテキストを受け取る。"
-        },
-        {
-          "word": "namespace",
-          "definition": "名前と、それが参照するオブジェクトの対応を管理する領域。",
-          "frequency": 7,
-          "difference": "namespace は名前の集合・対応関係に焦点があり、scope はその名前がどのコード領域で解決されるかに焦点がある。",
-          "example": "The module provides a separate namespace for its exported names.",
-          "translation": "そのモジュールは、エクスポートする名前のために別の名前空間を提供する。"
         }
       ],
       "antonyms": []
@@ -638,8 +602,8 @@
         {
           "pattern": "scope out the possibilities",
           "use": "選択肢や実現可能性を検討するため、情報を集めて評価する。",
-          "example": "The team spent a week scoping out the possibilities for a remote launch.",
-          "translation": "そのチームは遠隔での発売の可能性を一週間かけて検討した。"
+          "example": "The team spent a week scoping out the possibilities for an online launch event.",
+          "translation": "そのチームはオンラインでの発表会の可能性を一週間かけて検討した。"
         },
         {
           "pattern": "scope somebody out",
@@ -688,18 +652,19 @@
     },
     {
       "number": 8,
-      "title": "【他動詞・主にビジネス／技術】仕事・計画・解決策の範囲や必要条件を見積もり、定める",
+      "title": "【他動詞・主にビジネス／技術】仕事・計画などの範囲や必要条件を見積もり、定める；適用範囲を限定する",
       "frequency": 7,
       "register": [
-        "ビジネス、プロジェクト管理、ソフトウェア開発、設計、コンサルティングで標準的。一般会話の「調べる」より専門的で、作業内容・コスト・納期などを見積もって合意可能な範囲にする用法である。"
+        "ビジネス、プロジェクト管理、ソフトウェア開発、設計、コンサルティングで標準的。計画については作業内容・コスト・納期などを見積もる用法が中心で、技術文脈では規則や機能の適用先を限定する用法もある。"
       ],
-      "definition": "作業に着手する前に、プロジェクト、解決策、機能、要件などを調べて、必要な作業量・費用・範囲・条件を明確にする。scope the project/solution のように目的語を直接取る。scope out は同じ準備段階をより口語的に表すが、scope は計画上の境界を定義する意味が強い。",
+      "definition": "プロジェクト、解決策、機能、要件などの範囲・条件を調べ、必要な作業量や境界を明確にする。作業前の見積もりでよく使うが、scope something to 〈領域〉の形では、規則や機能などの適用範囲をその領域に限定することも表す。scope out も、計画の必要量や条件を詳しく調べる意味で使える。",
       "patterns": [
-        "scope 〈project・work・solution〉＝プロジェクトなどの範囲を定める",
-        "scope 〈work〉 for 〈目的・条件〉＝目的などに合わせて作業範囲を定める",
-        "scope out 〈requirements・costs〉＝要件・費用を下調べする",
+        "scope 〈a project / work / a solution〉＝プロジェクトなどの範囲を定める",
+        "scope work for 〈目的・条件〉＝目的などに合わせて作業範囲を定める",
+        "scope out 〈requirements / costs〉＝要件・費用を下調べする",
         "be fully scoped＝範囲・要件が十分に定義されている",
-        "scope 〈a solution〉 to do＝～する解決策の範囲を定める"
+        "scope a solution to do＝～する解決策の範囲を定める",
+        "scope something to 〈領域〉・be scoped to 〈領域〉＝適用範囲を限定する・限定されている"
       ],
       "collocations": [
         {
@@ -731,18 +696,24 @@
           "use": "プロジェクトや機能の範囲・要件が十分に定義され、見積もり可能であることを表す。",
           "example": "The feature is not fully scoped, so the estimate may change.",
           "translation": "その機能の範囲はまだ十分に定義されていないので、見積もりは変わるかもしれない。"
+        },
+        {
+          "pattern": "be scoped to 〈領域・構成要素〉",
+          "use": "規則や機能などの適用範囲が、特定の領域・構成要素に限定されていることを表す。",
+          "example": "These styles are scoped to the dialog.",
+          "translation": "これらのスタイルの適用範囲は、そのダイアログに限定されている。"
         }
       ],
       "notes": [
-        "scope a project は「プロジェクトを実行する」ではなく、実行前に何を含めるか、どの程度の費用・時間が必要かを定めること。define は概念や境界を明確にする一般語、estimate は数量・費用を見積もる語であり、scope は両者を含む計画上の範囲決めである。scope creep は、この合意済みの範囲が管理されないまま広がる現象を指す。",
-        "scope the work と scope out the work は似るが、前者は正式な計画・定義の動作、後者は着手前の情報収集・見積もりという段階に焦点がある。目的語を人にする scope somebody out は語義7の「人を観察する」であり、プロジェクト計画の語義8と混同しない。"
+        "計画段階の scope a project は「プロジェクトを実行する」ではなく、何を含めるか、どの程度の費用・時間が必要かを見積もって定めること。define は概念や境界を明確にする一般語、estimate は数量・費用を見積もる語である。scope creep は、合意済みの範囲が十分に管理されないまま広がる現象を指す。",
+        "scope the work と scope out the work は重なりがあり、前者は作業範囲の設定、後者はそのための調査・見積もりに焦点を置きやすい。scope something to a component のような技術表現は、対象に適用先の境界を設ける意味で、費用や納期の見積もりを必須としない。目的語を人にする scope somebody out は語義7の「人を観察する」である。"
       ],
       "synonyms": [
         {
           "word": "define",
           "definition": "意味、性質、範囲、条件などを明確に定める。",
           "frequency": 10,
-          "difference": "define は境界や意味を明確にする一般語。scope は実作業、費用、要件、納期などを調べたうえで計画の範囲を定める。",
+          "difference": "define は境界や意味を明確にする一般語。計画を scope する場合は、実作業・費用・要件などを調べて範囲を定める点に焦点がある。",
           "example": "The contract defines the responsibilities of each party.",
           "translation": "その契約は各当事者の責任を定めている。"
         },
@@ -750,7 +721,7 @@
           "word": "assess",
           "definition": "状況、価値、リスク、必要性などを調査して評価する。",
           "frequency": 9,
-          "difference": "assess は評価・判断に焦点があり、作業を含めるかという境界設定までは必須ではない。scope は評価を経て実行範囲を具体化する。",
+          "difference": "assess は評価・判断に焦点があり、境界設定までは必須ではない。計画を scope する場合は、調査・評価を通じて作業範囲を具体化する。",
           "example": "The team assessed the risks before choosing a design.",
           "translation": "そのチームは設計を選ぶ前にリスクを評価した。"
         },
@@ -758,7 +729,7 @@
           "word": "plan",
           "definition": "目的を達成するための行動、順序、資源を決める。",
           "frequency": 10,
-          "difference": "plan は実行方法全体を組み立てる語。scope は計画の前段で、何をするか・しないかと必要量の境界を定める語である。",
+          "difference": "plan は実行方法全体を組み立てる語。計画段階の scope は、何をするか・しないかと必要量の境界を定めることに焦点を置く。",
           "example": "We planned the rollout after agreeing on the work to include.",
           "translation": "私たちは含める作業について合意した後で展開を計画した。"
         }
@@ -767,17 +738,17 @@
     },
     {
       "number": 9,
-      "title": "【他動詞・技術】望遠鏡・内視鏡などで見る、観察する",
+      "title": "【他動詞・技術】望遠鏡・内視鏡などで見る、検査・処置する",
       "frequency": 4,
       "register": [
         "天文、医療、スポーツ報道などの専門・くだけた用法。医療では受動態 be scoped がよく見られるが、処置の具体的な内容は endoscopy、arthroscopy などの専門名で確認する。"
       ],
-      "definition": "対象を望遠鏡で見たり、内視鏡・関節鏡などで体内や狭い部分を検査したりする。scope the sky、scope the knee のように直接目的語を取る。一般の「詳しく調べる」より、どの器具を使うかが文脈で明らかな技術・医療用法である。",
+      "definition": "対象を望遠鏡で見たり、内視鏡・関節鏡などで体内や狭い部分を検査したりする。医療では、関節鏡を使った処置・手術を指すこともある。scope the sky、scope the knee のように直接目的語を取り、具体的な観察・検査・処置の内容は文脈で決まる。",
       "patterns": [
         "scope 〈空・天体〉＝望遠鏡で～を見る",
-        "scope 〈身体部位・関節〉＝内視鏡などで～を検査する",
-        "be scoped＝スコープで検査される",
-        "scope 〈対象〉 with 〈instrument〉＝器具で対象を見る"
+        "scope 〈身体部位・関節〉＝内視鏡などで～を検査・処置する",
+        "be scoped＝スコープで検査・処置される",
+        "scope 〈対象〉 with an instrument＝器具で対象を見る"
       ],
       "collocations": [
         {
@@ -790,10 +761,10 @@
           "pattern": "scope the knee",
           "use": "関節鏡などで膝関節を検査する。医療のくだけた短縮表現。",
           "example": "The surgeon decided to scope the knee after the scan showed a possible tear.",
-          "translation": "スキャンで裂傷の可能性が示されたため、外科医は膝を関節鏡で検査することにした。"
+          "translation": "スキャン画像で断裂の可能性が示されたため、外科医は膝を関節鏡で検査することにした。"
         },
         {
-          "pattern": "be scoped for 〈condition〉",
+          "pattern": "be scoped for 〈病状〉",
           "use": "ある病状の確認のために内視鏡検査を受けることを表す。",
           "example": "She was scoped for internal bleeding after the accident.",
           "translation": "彼女は事故の後、内出血がないか内視鏡検査を受けた。"
@@ -806,8 +777,8 @@
         }
       ],
       "notes": [
-        "この用法の scope は「器具を使って観察・検査する」という動作であり、単に examine と同じ範囲の一般語ではない。be scoped は「スコープを使った検査を受ける」で、受動態の主語が自分で観察するという意味にはならない。medical context では、検査の種類・麻酔・結果などをこの語だけから推測しない。",
-        "examine は器具を限定しない一般語、inspect は状態を調べるやや正式な語、scope はスコープを使う観察に限定される。scope out は器具を使わずに下見・情報収集する語義7である。"
+        "この用法の scope はスコープを使う観察・検査を表し、医療では処置を含むこともある。be scoped はスコープによる検査・処置を受ける受動態で、主語が自分で観察する意味ではない。具体的な手技や結果は、この語だけからは決まらない。",
+        "examine は器具を限定しない一般語、inspect は状態を調べるやや正式な語。この語義の scope は器具使用に焦点を置く。scope out は語義7の下見・情報収集を表し、器具の使用を必須とはしないが、使わないことを意味するわけでもない。"
       ],
       "synonyms": [
         {
@@ -823,7 +794,7 @@
           "definition": "欠陥、損傷、規則違反などがないか注意深く点検する。",
           "frequency": 8,
           "difference": "inspect は点検の目的と丁寧さに焦点がある。scope は検査方法としての器具使用に焦点がある。",
-          "example": "An inspector examined the pipe for visible cracks.",
+          "example": "An inspector inspected the pipe for visible cracks.",
           "translation": "検査官は目に見える亀裂がないか管を点検した。"
         },
         {
@@ -864,21 +835,20 @@
           "translation": "そのカタログは、スコープ付きライフルの重量を、ライフル単体とは別に記載している。"
         },
         {
-          "pattern": "be scoped for 〈use・range〉",
+          "pattern": "be scoped for 〈用途・距離〉",
           "use": "特定の用途や距離に合わせたスコープを装備していることを表す。",
           "example": "The equipment was scoped for short-range observation rather than long-distance use.",
           "translation": "その装備は長距離用ではなく、近距離観察用のスコープを備えていた。"
-        },
-        {
-          "pattern": "a scope-equipped 〈device〉",
-          "use": "scope の動詞ではなく、スコープを備えた装置を明示的に表す複合的な言い方。",
-          "example": "The safety sheet describes the scope-equipped device in neutral technical terms.",
-          "translation": "その安全資料は、スコープ付き装置を中立的な技術用語で説明している。"
         }
       ],
       "notes": [
-        "scope a rifle の目的語はスコープを取り付けられる器具であり、scope the rifle のように「ライフルを詳しく見る」とは通常解釈しない。装備の調整・使用・安全性は別の概念で、scope という動詞だけから照準の正確さや使用結果を推測しない。",
-        "fit with a scope は「スコープを取り付ける」という状態・装備に焦点があり、scope a rifle はその装備作業を表す動作である。equip は武器に限らず必要な装備を備えさせる一般語で、scope は特定の観察・照準器具に限定される。"
+        "この語義では、目的語はスコープを取り付けられる器具である。ただし scope a rifle / scope the rifle は文脈によって「ライフルを詳しく見る」という語義7にも読め、冠詞だけで意味は決まらない。scope という動詞だけから照準の正確さや使用結果までは分からない。",
+        "fit something with a scope は「～にスコープを取り付ける」という動作を明示する。scope a rifle もこの装備の意味で使え、equip はスコープに限らず必要な道具や機能を備えさせる一般語である。",
+        "関連表現: scope-equipped は名詞 scope を使った複合表現で、この他動詞の活用形ではない。",
+        "a scope-equipped 〈device〉",
+        "用途: scope の動詞ではなく、スコープを備えた装置を明示的に表す複合的な言い方。",
+        "例: The safety sheet describes the scope-equipped device in neutral technical terms.",
+        "訳: その安全資料は、スコープ付き装置を中立的な技術用語で説明している。"
       ],
       "synonyms": [
         {
@@ -901,51 +871,9 @@
           "word": "mount",
           "definition": "器具を台座や別の装置に固定して取り付ける。",
           "frequency": 8,
-          "difference": "mount は固定方法・位置に焦点があり、scope はスコープ付き装備にする結果を表す。scope a rifle では調整まで含むことがある。",
+          "difference": "mount は器具を固定して取り付ける動作。scope は特定の器具をスコープ付きにする結果を表し、調整が別途行われる場合も、その作業までを必ず意味するわけではない。",
           "example": "The engineer mounted the sensor on the outer frame.",
           "translation": "技術者はセンサーを外枠に取り付けた。"
-        },
-        {
-          "word": "scope for と scope of",
-          "definition": "",
-          "difference": "",
-          "example": "",
-          "translation": ""
-        },
-        {
-          "word": "within scope と in scope",
-          "definition": "",
-          "difference": "",
-          "example": "",
-          "translation": ""
-        },
-        {
-          "word": "scope と range",
-          "definition": "",
-          "difference": "",
-          "example": "",
-          "translation": ""
-        },
-        {
-          "word": "scope と remit",
-          "definition": "",
-          "difference": "",
-          "example": "",
-          "translation": ""
-        },
-        {
-          "word": "scope と scope out",
-          "definition": "",
-          "difference": "",
-          "example": "",
-          "translation": ""
-        },
-        {
-          "word": "scope と scope creep",
-          "definition": "",
-          "difference": "",
-          "example": "",
-          "translation": ""
         }
       ],
       "antonyms": []
