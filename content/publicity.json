@@ -3,16 +3,21 @@
   "slug": "publicity",
   "ipa": "基本: /pʌbˈlɪsəti/。米語では /pəˈblɪsəti/ も使われる。いずれも4音節で、第2音節に主強勢がある。/pʌbˈlɪsəti/ では第1音節が /pʌb/、第2音節が /ˈlɪs/ となる。/pəˈblɪsəti/ では第1音節が弱い /pə/ となり、/b/ は第2音節頭の /bl/ と発音される。これは米英の絶対的な地域差というより、辞書や話者による発音差として覚えるとよい。語末は /əti/ で、綴りの -ity を /aɪti/ と読まない。",
   "lead": "人・企業・作品・出来事などが、新聞、テレビなどのメディアを通じて世間から受ける注目や報道上の露出。好意的とは限らず、good/bad/negative/unwanted publicity のように評価を添えられる。",
-  "updated": "2026-09-03",
+  "updated": "2026-10-02",
   "notion_url": "https://app.notion.com/p/publicity-3d04faa9b77d81e5a210e09d6628823e",
   "pronunciation": [],
   "etymology": [
-    "フランス語 publicité を経て、ラテン語 publicus「公の、人民の」にさかのぼる。英語ではもともと「公にされている状態・公開性」を表し、そこから「世間に知られるようにすること」や、現代の「宣伝・広報活動」へ意味が発展した。"
+    "フランス語 publicité を経て、ラテン語 publicus「公の、人民の」にさかのぼる。英語ではもともと「公にされている状態・公開性」を表し、そこから「世間に知られるようにすること」や、現代の「宣伝・広報活動」へ意味が発展した。",
+    "同じ publicus 系統の語に public「公の、一般に公開された」と、public に -ize を付けた publicize「公に知らせる、宣伝する」がある。publicize はイギリス英語では publicise とも綴る。"
   ],
   "formation": [
     {
+      "term": "publicize",
+      "description": "/ publicise：動詞「公に知らせる、広く宣伝する」。publicity が注目や広報・宣伝を指す名詞であるのに対し、知らせる行為を表す。"
+    },
+    {
       "term": "publicist",
-      "description": "publicity を作り、扱い、広める仕事をする人。映画、作家、芸能人、企業などの広報担当者を指す。"
+      "description": "人・団体・作品などを世間に知らせる広報・宣伝の仕事をする人。映画、作家、芸能人、企業などの広報担当者を指す。"
     },
     {
       "term": "publicity",
@@ -35,9 +40,9 @@
       "title": "【名詞・不可算】公衆の注目、報道上の露出",
       "frequency": 9,
       "register": [
-        "標準的な一般語。複数の一般辞書で主要な名詞として扱われる。"
+        "標準語。報道、芸能、企業活動、社会的な出来事などについて使う。"
       ],
-      "definition": "人・企業・作品・出来事などが、新聞、テレビなどのメディアを通じて世間から受ける注目や報道上の露出。好意的とは限らず、good/bad/negative/unwanted publicity のように評価を添えられる。",
+      "definition": "人・企業・作品・出来事などが、新聞、テレビ、ウェブなどでの報道や、口コミなどを通じて世間から受ける注目・露出。好意的とは限らず、good/bad/negative/unwanted publicity のように評価を添えられる。",
       "patterns": [
         "gain/receive publicity＝世間の注目・報道を得る",
         "widespread publicity＝広範な世間の注目・報道",
@@ -59,7 +64,7 @@
         },
         {
           "pattern": "good/bad publicity",
-          "use": "注目が対象に好影響または悪影響を与えることを評価する。",
+          "use": "対象が好意的に、または悪い意味で注目・報道されることを表す。",
           "example": "The scandal gave the company bad publicity.",
           "translation": "その不祥事は会社に否定的な世間の注目をもたらした。"
         },
@@ -78,14 +83,14 @@
       ],
       "notes": [
         "現代の一般用法ではこの語義の publicity は通常不可算で、a publicity や publicities は一般に避け、a lot of publicity、the publicity surrounding the case のように使う。publicity は注目・報道を表し、好評や長期的な名声を必ず含むわけではない。good/bad/negative/unwanted publicity のように評価を添えられる。",
-        "publicity about 〈話題〉は話題に関する注目・報道、publicity for 〈対象〉（結果読み）は対象が受ける注目・報道を指す。対象に注目を集める活動読みの publicity for 〈対象〉は語義2で扱う。結果として受けた注目を明確にするなら gain/receive publicity for のように動詞で示す。古風・形式的には「公開性、公然性」の意味で使われることもある。"
+        "この語義での publicity about 〈話題〉は話題に関する注目・報道、publicity for 〈対象〉（結果読み）は対象が受ける注目・報道を指す。対象に注目を集める活動読みの publicity for 〈対象〉は語義2で扱う。結果として受けた注目を明確にするなら gain/receive publicity for のように動詞で示す。注目・報道とは別に、「公開性、公然性」を表す用法もあり、手続きなどが一般に開かれていることを論じる文脈で使われる。"
       ],
       "synonyms": [
         {
           "word": "attention",
           "definition": "人や話題に関心が向けられていること。",
           "frequency": 10,
-          "difference": "publicity は特に新聞・テレビなどを通じた公的な注目・露出に焦点があり、attention より媒体や公衆に寄る。",
+          "difference": "publicity はメディアなどを通じて世間に知られ、注目されることに焦点がある。attention は一人の関心にも使える、より広い語である。",
           "example": "The announcement attracted attention from local residents.",
           "translation": "その発表は地元住民の注目を集めた。"
         },
@@ -95,7 +100,7 @@
           "frequency": 8,
           "difference": "publicity は露出の機会一般より、世間の注目・報道を受けること、またはそれを集める活動を表す。",
           "example": "The interview gave the small business valuable exposure.",
-          "translation": "そのインタビューは、その小企業に貴重な公的露出をもたらした。"
+          "translation": "そのインタビューは、その小企業が世間に知られる貴重な機会となった。"
         },
         {
           "word": "coverage",
@@ -118,16 +123,17 @@
     },
     {
       "number": 2,
-      "title": "【名詞・不可算】宣伝活動、広報",
+      "title": "【名詞・不可算】宣伝活動、広報・宣伝用の情報",
       "frequency": 9,
       "register": [
-        "標準的な一般語。複数の一般辞書で活動・情報に関わる名詞用法として扱われる。"
+        "標準語。広報、宣伝、作品・商品の発表、行事の案内などで使う。"
       ],
-      "definition": "人、商品、作品、行事、主張などに世間の関心を集めるために行う広報・宣伝活動。広告に限らず、情報提供などの広報手段を含み得る。ここでは世間の注目を集める側の活動・手段に焦点を置く。",
+      "definition": "人、商品、作品、行事、主張などに世間の関心を集めるために行う広報・宣伝活動、またはそのために作成・提供される情報や資料。広告に限らず、情報提供などの広報手段を含み得る。活動だけでなく、read the publicity「広報・宣伝用の情報を読む」のように、その内容自体を指すこともある。",
       "patterns": [
-        "publicity for 〈映画・商品・行事〉（活動読み）＝対象に注目を集める広報",
+        "publicity for 〈映画・商品・行事〉＝対象に注目を集める広報活動・情報",
         "advance publicity for 〈発売・行事〉＝発売・行事の事前広報",
-        "publicity campaign/material/stunt＝宣伝キャンペーン・資料・仕掛け"
+        "publicity campaign/material/stunt＝宣伝キャンペーン・資料・仕掛け",
+        "read the publicity＝広報・宣伝用の情報を読む"
       ],
       "collocations": [
         {
@@ -143,6 +149,12 @@
           "translation": "広報室は製品発売のための宣伝資料を用意した。"
         },
         {
+          "pattern": "read the publicity for 〈対象〉",
+          "use": "対象への関心を集めるために公開された情報や資料を読むことを表す。",
+          "example": "I read the publicity for the exhibition on the museum's website.",
+          "translation": "私は博物館のウェブサイトで、その展覧会の広報資料を読んだ。"
+        },
+        {
           "pattern": "advance publicity for 〈発売・行事〉",
           "use": "映画、書籍、製品、行事などの開始前に行う事前広報を表す。",
           "example": "The organizers arranged advance publicity for the festival several months before it opened.",
@@ -156,9 +168,9 @@
         }
       ],
       "notes": [
-        "この語義でも publicity は通常不可算で、a publicity campaign、a publicity stunt のように、数えられるのは campaign や stunt などの具体的な活動である。この語義の publicity for 〈対象〉は、対象に注目を集める活動を指す。対象が受ける注目・報道という結果読みは語義1に置く。",
+        "この語義でも publicity は通常不可算で、a publicity campaign、a publicity stunt のように、数えられるのは campaign や stunt などの具体的な活動である。この語義の publicity for 〈対象〉は、対象に注目を集める活動や情報・資料を指す。対象が受ける注目・報道という結果読みは語義1に置く。publicity about 〈話題〉も、その話題についての広報・宣伝情報を指す場合があるため、前置詞だけで語義を決めない。",
         "advertising は通常、料金を払って掲載・放送する広告やその活動に焦点がある。一般的な区別では publicity と paid advertising を分けるが、辞書や文脈によっては publicity が有料広告・宣伝まで指すこともある。",
-        "publicity stunt は、世間の注目を集める意図を前面に出す行為・仕掛けを指す。publicity for 〈対象〉が対象の受けた注目・報道を表す結果読みになる場合は語義1の用法であり、この語義2の活動読みとは分ける。結果としての注目を明確にするなら、語義1の gain/receive publicity for のように動詞で示す。"
+        "publicity stunt は、世間の注目を集める意図を前面に出す行為・仕掛けを指す。publicity for 〈対象〉が対象の受けた注目・報道を表す結果読みになる場合は語義1の用法であり、この語義2の活動・情報の読みとは分ける。結果としての注目を明確にするなら、語義1の gain/receive publicity for のように動詞で示す。"
       ],
       "synonyms": [
         {
