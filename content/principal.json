@@ -1,9 +1,9 @@
 {
   "word": "principal",
   "slug": "principal",
-  "ipa": "発音: /ˈprɪnsəpəl/。形容詞と名詞で同じ発音を用いる。",
+  "ipa": "米・英: /ˈprɪnsəpəl/。第1音節に主強勢があり、形容詞と名詞で同じ発音を用いる。principle「原理、原則」とも同音だが、綴りと意味は異なる。",
   "lead": "複数の原因、目的、人物、場所、要素などの中で、重要度・影響力・順位が最も高い、または特に高いものを示す。単に時間的に最初という意味ではなく、重要性や中心性の評価を表す。",
-  "updated": "2026-09-08",
+  "updated": "2026-10-02",
   "notion_url": "https://app.notion.com/p/principal-3d54faa9b77d81e1ab0dd136f58222b5",
   "pronunciation": [],
   "etymology": [
@@ -13,11 +13,11 @@
   "formation": [
     {
       "term": "principally",
-      "description": "principal の副詞形。"
+      "description": "principal の副詞形。「主に、主として」。"
     },
     {
       "term": "principalship",
-      "description": "principal の名詞派生形。"
+      "description": "principal の名詞派生形。「校長・学長などの職、地位」。"
     },
     {
       "term": "principal-agent",
@@ -27,35 +27,39 @@
   "core": [
     {
       "label": "principal",
-      "description": "の中心は、「重要度・権限・責任・金額の土台として第一に位置する」である。形容詞では主要なものを選び出し、名詞では組織・活動の主要人物や取引の当事者本人、教育機関の長や舞台芸術で確立した主要演者、利息・収益に対する元の金額や信託収益に対する財産本体、法的関係の主要当事者を指す。"
+      "description": "の核は、物事の中で主となるものや、関係の基礎・中心となる本体を指すこと。重要な要素、主要な人物、権限・責任を負う本人、収益に対する元本へと具体化する。"
     },
     {
-      "label": "重要度で第一に位置するもの",
-      "description": "→ 「主要な、最も重要な」（語義1）"
+      "label": "重要度で主となるもの",
+      "description": "→ 「主要な、最も重要な、第一の」（語義1）"
     },
     {
-      "label": "組織・活動・取引で主要な立場にある人、特に教育機関の長",
-      "description": "→ 「主要人物・当事者、校長、学長」（語義2）"
+      "label": "組織・活動・取引で主となる人物・当事者",
+      "description": "→ 「主要人物・当事者；特に校長、学長」（語義2）"
     },
     {
-      "label": "利息・収益に対する基礎額、または信託収益に対する財産本体",
-      "description": "→ 「元金、元本、信託元本」（語義3）"
+      "label": "利息・収益に対して基礎となる金額・財産本体",
+      "description": "→ 「元金、元本、信託財産の元本」（語義3）"
     },
     {
-      "label": "代理関係で権限の源として第一に位置する当事者",
-      "description": "→ 「本人、依頼者」（語義4）"
+      "label": "代理関係で権限の源となる本人",
+      "description": "→ 「本人、依頼者、代理権を与える当事者」（語義4）"
     },
     {
-      "label": "舞台芸術で主要な役割を担う人",
-      "description": "→ 「主要演者、オーケストラの首席奏者」（語義5）"
+      "label": "舞台や楽団で主となる役割の演者",
+      "description": "→ 「舞台芸術の主要演者、オーケストラの首席奏者」（語義5）"
     },
     {
-      "label": "適用法上",
-      "description": "principal と分類される犯罪関与者 → 「犯罪関与者」（語義6）"
+      "label": "犯罪で直接の責任を負う主体",
+      "description": "→ 「適用法上 principal と分類される犯罪関与者」（語義6）"
     },
     {
-      "label": "債務・保証関係で第一次的責任を負う者",
-      "description": "→ 「主たる債務者・義務者」（語義7）"
+      "label": "義務の本来の責任・負担の主体",
+      "description": "→ 「主たる債務者・義務者、第一次的責任者」（語義7）"
+    },
+    {
+      "label": "収益に対する基礎額である元本への関係",
+      "description": "→ 「元金の、元本に関する」（語義8）"
     }
   ],
   "sources": [],
@@ -65,7 +69,7 @@
       "title": "【形容詞】主要な、最も重要な、第一の",
       "frequency": 9,
       "register": [
-        "標準～やや形式的。報道、ビジネス、学術、行政で広く使う。日常会話では main がより普通なことが多い。"
+        "標準～ややフォーマル。報道、ビジネス、学術、行政で広く使う。日常会話では main がより普通なことが多い。"
       ],
       "definition": "複数の原因、目的、人物、場所、要素などの中で、重要度・影響力・順位が最も高い、または特に高いものを示す。単に時間的に最初という意味ではなく、重要性や中心性の評価を表す。",
       "patterns": [
@@ -92,7 +96,7 @@
         },
         {
           "pattern": "one of the principal 〈複数名詞〉",
-          "use": "最重要候補が複数ある中の一つであることを示す。",
+          "use": "主要なもの・人が複数ある中の一つ・一人であることを示す。",
           "example": "She is one of the principal architects of the reform.",
           "translation": "彼女はその改革の主要な立案者の一人である。"
         },
@@ -104,14 +108,15 @@
         }
       ],
       "notes": [
-        "principal と principle は綴りも意味も異なる。principal には形容詞で「最も重要な」を表す用法があり、別に人や金額などを指す名詞用法もある。一方、principle は「原理・原則」を表す名詞である。したがって「基本原則」は basic principle であり、basic principal ではない。"
+        "principal と principle は綴りも意味も異なる。principal には形容詞で「最も重要な」を表す用法があり、別に人や金額などを指す名詞用法もある。一方、principle は「原理・原則」を表す名詞である。したがって「基本原則」は basic principle であり、basic principal ではない。",
+        "principal amount「元本額」などでは、「最も重要な」ではなく「元本の」という金融上の形容詞用法になる（語義8）。また、名詞には建築で主要な屋根のトラス・垂木を指す専門用法もある。"
       ],
       "synonyms": [
         {
           "word": "main",
           "definition": "複数のものの中で中心的・最重要である。",
           "frequency": 10,
-          "difference": "main は日常語で範囲が広い。principal はより形式的で、順位・重要性・影響力が高いことを意識させる。",
+          "difference": "main は日常語で範囲が広い。principal はよりフォーマルで、順位・重要性・影響力が高いことを意識させる。",
           "example": "Our main goal is to reduce waiting times.",
           "translation": "私たちの主な目標は待ち時間を減らすことだ。"
         },
@@ -164,11 +169,14 @@
       "title": "【名詞・可算】主要人物・当事者；特に校長、学長",
       "frequency": 8,
       "register": [
-        "標準～やや形式的。教育分野では学校・教育機関の長を表し、イングランドではカレッジの長を指す場合がある。"
+        "標準～ややフォーマル。教育分野では学校・教育機関の長を表す。米国では学校の校長を指す一般的な語で、英国の学校では headteacher もよく使う。英国のカレッジや、スコットランド・カナダの一部の大学でも principal が長の役職名になる。"
       ],
-      "definition": "組織・事業・交渉などで主導的地位を持つ人、または行為・取引の主要な当事者。権限を持つ人を指すことが多いが、組織を支配することを必須とはしない。特に教育では、学校、カレッジ、その他の教育機関を管理する最高責任者を指す。教育上どの種類の機関を指すかは地域と制度によって異なる。",
+      "definition": "組織・事業・交渉などで主導的地位を持つ人、または行為・取引の主要な当事者。取引の当事者としては会社などの法人を指すこともある。権限を持つ人を指すことが多いが、組織を支配することを必須とはしない。特に教育では、学校、カレッジ、その他の教育機関を管理する最高責任者を指す。教育上どの種類の機関を指すかは地域と制度によって異なる。",
       "patterns": [
-        "可算名詞として、組織・活動の主要人物や取引の当事者を指す。act as principal は取引の当事者本人の資格で行動することを表す。教育文脈では学校・カレッジなどの長を表す役職名として用いる。"
+        "the principal of 〈限定詞を含む教育機関の名詞句〉＝その教育機関の長",
+        "a school/college principal＝学校・カレッジの長",
+        "be appointed principal＝校長・学長などに任命される",
+        "act as principal＝取引の当事者本人の資格で行動する。"
       ],
       "collocations": [
         {
@@ -218,9 +226,12 @@
       "register": [
         "金融、融資、投資、会計、信託法。金融義は日常的なローン説明にも現れ、信託義は専門的である。"
       ],
-      "definition": "借入・貸付・投資で利息・利益・収益と区別される元の資本額を指す。元金への支払いは債務額を減らす。信託法では、収益と区別される信託財産そのもの、すなわち信託元本・corpusを指す。",
+      "definition": "借入・貸付・投資で利息・利益・収益と区別される元金・元本を指す。借入では当初の元金のほか、返済後に残る未返済元金も表し、元金への支払いはその残高を減らす。債券では額面上の元本を指すことがあり、購入価格とは一致しない場合がある。信託法では、収益と区別される信託財産そのもの、すなわち信託元本・corpusを指す。",
       "patterns": [
-        "金融では利息・収益の基礎となる金額を、信託法では収益と区別される財産本体を表す名詞として用いる。"
+        "金額・財産を指して通常は単数形で使い、文脈により冠詞なしでも使う。the principal of 〈貸付・投資・信託〉＝その元本",
+        "principal and interest＝元利金",
+        "pay down/repay the principal＝元金を減らす・返済する",
+        "protect the principal＝元本を保全する。"
       ],
       "collocations": [
         {
@@ -249,14 +260,14 @@
         }
       ],
       "notes": [
-        "principal は元の基礎額、interest は借入の対価または貸付・投資から生じる追加額であり、反意語ではなく関連する別の金額構成要素である。信託では principal が財産本体、income がそこから生じる収益を指す。repay the principal では principal 自体が目的語の名詞になる。日本語の「元利金」は principal and interest であり、principal interest とはしない。"
+        "principal は利息・収益と区別される元本、interest は借入の対価または貸付・投資から生じる利息であり、反意語ではなく関連する別の金額構成要素である。信託では principal が財産本体、income がそこから生じる収益を指す。repay the principal では principal 自体が目的語の名詞になる。日本語の「元利金」は principal and interest であり、principal interest とはしない。"
       ],
       "synonyms": [
         {
           "word": "capital",
           "definition": "投資・事業に用いられる資金または資産。",
           "frequency": 9,
-          "difference": "capital は事業資金・生産資産まで広く表す。principal は特定の貸付・借入・投資で利息や収益の基礎となる元の額を指す。",
+          "difference": "capital は事業資金・生産資産まで広く表す。principal は特定の貸付・借入・投資で利息や収益の基礎となる元本額を指す。",
           "example": "The company raised additional capital from investors.",
           "translation": "その会社は投資家から追加資金を調達した。"
         }
@@ -313,7 +324,8 @@
       ],
       "definition": "舞台芸術で主要な役を担う演者、またはオーケストラで一つのセクションを率いる奏者。一般の重要人物ではなく、芸術分野で確立した役割名を指す。",
       "patterns": [
-        "可算名詞として、舞台芸術・音楽で確立した主要演者や首席奏者の役割を表す。"
+        "one of the orchestra's principals＝オーケストラの首席奏者の一人",
+        "the principals in 〈作品を表す名詞句〉＝その作品の主要演者たち。"
       ],
       "collocations": [
         {
@@ -321,10 +333,17 @@
           "use": "オーケストラで各セクションを率いる奏者を名詞で指す。",
           "example": "As one of the orchestra's principals, she leads the cello section.",
           "translation": "オーケストラの首席奏者の一人として、彼女はチェロのセクションを率いている。"
+        },
+        {
+          "pattern": "the principals in an opera",
+          "use": "オペラで主要な役を歌う演者たちを指す。",
+          "example": "The principals in the opera returned to the stage for a final bow.",
+          "translation": "そのオペラの主要歌手たちは、最後の挨拶のために舞台に戻った。"
         }
       ],
       "notes": [
-        "舞台芸術やオーケストラ内で確立した役割名として用い、一般の「重要人物」には広げない。"
+        "舞台芸術やオーケストラ内で確立した役割名として用い、一般の「重要人物」には広げない。",
+        "音楽でも、オルガンの principal は奏者ではなく、プリンシパル系のストップ（音栓）を指す場合がある。これは楽器に関する専門用法である。"
       ],
       "synonyms": [
         {
@@ -347,7 +366,9 @@
       ],
       "definition": "刑事法の文脈で、犯罪を実行する者、または適用される分類の下で犯罪への一定の関与により直接の刑事責任を負う者。",
       "patterns": [
-        "刑事法で可算名詞として用い、犯罪関与者を適用される法的分類に従って指す。"
+        "a principal in 〈犯罪を表す名詞句〉＝その犯罪で principal とされる関与者",
+        "treat 〈人〉 as a principal＝人を principal として扱う",
+        "be liable as a principal＝principal として責任を負う。"
       ],
       "collocations": [
         {
@@ -385,9 +406,11 @@
       "register": [
         "債務法・保証法の専門語。"
       ],
-      "definition": "債務・保証の文脈で、保証人などの二次的責任者と対比され、義務について第一次的に責任を負う人または法人。",
+      "definition": "債務・保証の文脈で、保証人などと対比され、本来の義務について第一次的な責任、または当事者間で最終的な負担を負う人・法人。",
       "patterns": [
-        "可算名詞として、保証人・surety・guarantor と対比される第一次的責任者を指す。"
+        "be liable as principal for 〈債務〉＝主たる当事者として債務に責任を負う",
+        "the obligation of the principal＝主たる義務者の義務",
+        "the principal and the surety/guarantor＝主たる義務者と保証する側。"
       ],
       "collocations": [
         {
@@ -410,7 +433,8 @@
         }
       ],
       "notes": [
-        "この語義では、principal は be liable as principal のように人・法人を指す名詞である。principal debtor や principal obligor では語義1の形容詞が debtor・obligor を修飾するため、名詞単独の構造と区別する。また、金額を指す語義3の「元金」とも区別する。"
+        "この語義では、principal は be liable as principal のように人・法人を指す名詞である。principal debtor や principal obligor では語義1の形容詞が debtor・obligor を修飾するため、名詞単独の構造と区別する。また、金額を指す語義3の「元金」とも区別する。",
+        "surety と guarantor の責任の扱いは、適用法や契約によって異なる。surety が債権者に対して principal と共同で直接の責任を負う場合もあるため、「surety は常に二次的責任だけを負う」とは一般化しない。債権者に対する責任と、当事者間で誰が最終的に負担するかは区別する。"
       ],
       "synonyms": [
         {
@@ -430,6 +454,46 @@
           "translation": "債務者は期限どおりに支払った。"
         }
       ],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【形容詞・限定用法・金融】元金の、元本に関する",
+      "frequency": 6,
+      "register": [
+        "金融、融資、債券、会計。"
+      ],
+      "definition": "利息・収益と区別される元金・元本そのもの、またはその金額・返済などに関係することを表す。principal amount は「最も重要な金額」ではなく「元本額」という意味になる。",
+      "patterns": [
+        "the principal amount/sum＝元本額",
+        "a principal payment＝元金に充てる支払い",
+        "principal repayment＝元金の返済。名詞の前に置いて、その金額や支払いが元本に関することを示す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the principal amount",
+          "use": "利息などと区別した元本額を示す。",
+          "example": "The principal amount of the bond is five thousand dollars.",
+          "translation": "その債券の元本額は5千ドルである。"
+        },
+        {
+          "pattern": "the principal sum",
+          "use": "契約などで元本となる金額を示す。",
+          "example": "The agreement specifies the principal sum separately from interest.",
+          "translation": "その契約は、利息とは別に元本額を明記している。"
+        },
+        {
+          "pattern": "a principal payment",
+          "use": "支払いが元金の返済に充てられることを示す。",
+          "example": "The borrower made an additional principal payment.",
+          "translation": "借り手は追加の元金返済を行った。"
+        }
+      ],
+      "notes": [
+        "語義3の名詞 principal に対応する形容詞用法である。語義1の「主要な、最も重要な」と区別して読む。",
+        "repay the principal では principal 自体が金額を指す名詞だが、repay the principal amount では amount を修飾する。"
+      ],
+      "synonyms": [],
       "antonyms": []
     }
   ]
