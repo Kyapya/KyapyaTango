@@ -3,7 +3,7 @@
   "slug": "pursue",
   "ipa": "米: /pərˈsuː/｜英: /pəˈsjuː/。2音節で、第2音節に主強勢がある。米語の第1音節は弱い r 色のある /pər/、英語は弱い /pə/。第2音節は米語が /suː/、英語が /sjuː/ で、英語では /s/ の後に弱い /j/ が入る。",
   "lead": "人、動物、車などの後を追い、特に捕まえる、追い越す、倒すなどの目的で追跡する。実際の速度や距離を述べる場合にも、警察・報道・競技などの比喩的な追跡にも使う。",
-  "updated": "2026-08-26",
+  "updated": "2026-10-02",
   "notion_url": "https://app.notion.com/p/pursue-3c74faa9b77d819da2f8e188f37aa1d2",
   "pronunciation": [
     "三人称単数 pursues は米 /pərˈsuːz/・英 /pəˈsjuːz/、過去形・過去分詞 pursued は米 /pərˈsuːd/・英 /pəˈsjuːd/、-ing形 pursuing は米 /pərˈsuːɪŋ/・英 /pəˈsjuːɪŋ/。語末の /z/ は有声音の後なので /s/ ではなく /z/、-ed は /d/ と発音する。綴りでは pursue に -ing を付けると語末の e を落として pursuing となるが、pursued では e を残して pursued と綴る。"
@@ -38,38 +38,38 @@
   "core": [
     {
       "label": "pursue",
-      "description": "の核は、対象の後を追いながら、前へ進み続けること。実際に走って追う場合から、時間をかけて目標・計画・案件を追い続ける場合、さらには不安や記憶に追われる場合まで、対象との関係を切らずに進み続ける感覚がある。"
+      "description": "の核は、対象の後を追いながら、前へ進み続けること。実際に走って追う場合から、目標・活動・案件に関わり続ける場合、不安や記憶に追われる場合まで、対象との関係を切らずに進み続ける感覚がある。"
     },
     {
-      "label": "人・動物・乗り物などの後を追い、捕まえようとする",
-      "description": "→ 「追跡する・追いかける」（語義1）"
+      "label": "捕まえる対象への追跡",
+      "description": "→ 「人・動物・乗り物などを追跡する、追いかける」（語義1）"
     },
     {
-      "label": "目標・夢・職業などを実現しようと、継続的に追い求める",
-      "description": "→ 「追求する・目指す」（語義2）"
+      "label": "目標の実現に向けた追求",
+      "description": "→ 「目標・夢・職業などを追求する、目指す」（語義2）"
     },
     {
-      "label": "計画・方針・活動・案件などを続けて進める",
-      "description": "→ 「進める・追及する」（語義3）"
+      "label": "活動・案件に関わり続ける追求",
+      "description": "→ 「計画・方針・活動・案件などに取り組む、進める、追及する」（語義3）"
     },
     {
-      "label": "道筋・方針・論理などをたどって進む",
-      "description": "→ 「進路を取る・たどる」（語義4）"
+      "label": "選んだ筋道に沿う追求",
+      "description": "→ 「道筋・進路・論理などをたどって進む」（語義4）"
     },
     {
-      "label": "人に恋愛・性的な関係を求めて働きかけ続ける",
-      "description": "→ 「口説く・交際を求める」（語義5）"
+      "label": "恋愛関係の実現に向けた追求",
+      "description": "→ 「人に恋愛・性的な関係を求めて働きかけ続ける、口説く」（語義5）"
     },
     {
-      "label": "記憶・恐怖・罪悪感などが人につきまとい続ける",
-      "description": "→ 「苦しめ続ける・追い続ける」（語義6）"
+      "label": "人の心から離れない比喩的な追跡",
+      "description": "→ 「記憶・恐怖・罪悪感などが人につきまとう、苦しめ続ける」（語義6）"
     }
   ],
   "sources": [],
   "senses": [
     {
       "number": 1,
-      "title": "【他動詞・追跡】人・動物・乗り物などを追跡する、追いかける",
+      "title": "【他動詞・自動詞・追跡】人・動物・乗り物などを追跡する、追いかける",
       "frequency": 8,
       "register": [
         "一般語。犯罪報道、警察、スポーツ、狩猟、物語で特に多い。受け身の be pursued by 〈追跡者〉も非常に自然である。"
@@ -78,7 +78,8 @@
       "patterns": [
         "pursue 〈人・動物・乗り物〉＝～を追跡する",
         "pursue 〈対象〉 through/across 〈場所〉＝場所を通って～を追跡する",
-        "〈対象〉 be pursued by 〈追跡者〉＝対象が～に追われる"
+        "〈対象〉 be pursued by 〈追跡者〉＝対象が～に追われる",
+        "〈追跡者〉 pursue＝追跡者が後を追う（対象が文脈から分かる自動詞用法）"
       ],
       "collocations": [
         {
@@ -110,10 +111,16 @@
           "use": "動物や狩猟者が獲物を追うことを表す。",
           "example": "The wolves pursued their prey across the frozen plain.",
           "translation": "オオカミたちは凍った平原を越えて獲物を追った。"
+        },
+        {
+          "pattern": "〈追跡者〉 pursue（目的語なし）",
+          "use": "追う対象が文脈から分かるときに、後を追う行為だけを述べる。",
+          "example": "The thief fled, and the officers pursued.",
+          "translation": "泥棒は逃げ出し、警官たちは後を追った。"
         }
       ],
       "notes": [
-        "物理的な追跡では、pursue は対象を直接目的語に取り、pursue after とは通常言わない。chase は速く追いかける動作を日常的に表すのに対し、pursue は継続して追跡することや、報道・警察などの硬めの叙述に向く。人を pursue したからといって、必ず捕まえたことや追跡に成功したことまでは表さない。"
+        "物理的な追跡では、通常は pursue の直接目的語に対象を置き、pursue after とは言わない。対象が文脈から分かる場合は、目的語を置かずに「後を追う」と述べる自動詞用法もある。chase は速く追いかける動作を日常的に表すのに対し、pursue は継続して追跡することや、報道・警察などの硬めの叙述に向く。人を pursue したからといって、必ず捕まえたことや追跡に成功したことまでは表さない。"
       ],
       "synonyms": [
         {
@@ -163,14 +170,15 @@
     {
       "number": 2,
       "title": "【他動詞・目標】目標・夢・職業などを追求する、目指す",
-      "frequency": 10,
+      "frequency": 8,
       "register": [
         "一般語だがややフォーマル。進路、教育、仕事、自己実現、政策、評論で広く使う。"
       ],
       "definition": "目標、夢、学位、職業、幸福などを実現・獲得しようとして、時間をかけて努力を続ける。単に欲しいと思うことではなく、目的に向けて行動していることに焦点がある。",
       "patterns": [
-        "pursue 〈goal/dream/aim〉＝目標・夢・目的を追求する",
-        "pursue 〈career/degree〉＝職業・学位を目指す",
+        "pursue 〈a goal / a dream / an aim〉＝目標・夢・目的を追求する",
+        "pursue a career＝職業を目指す、キャリアを築く",
+        "pursue a degree＝学位取得を目指す",
         "pursue 〈the goal of doing something〉＝～するという目標を追求する",
         "pursue 〈happiness/knowledge〉＝幸福・知識を追い求める"
       ],
@@ -189,9 +197,9 @@
         },
         {
           "pattern": "pursue a career in 〈分野〉",
-          "use": "特定分野を職業として目指すことを表す。",
+          "use": "特定分野で働くことを目指すほか、その分野で実際に働き、キャリアを築くことも表す。",
           "example": "He moved to the city to pursue a career in environmental law.",
-          "translation": "彼は環境法の分野でのキャリアを目指して都会へ移った。"
+          "translation": "彼は環境法の分野でキャリアを築くために都会へ移った。"
         },
         {
           "pattern": "pursue a degree",
@@ -207,7 +215,7 @@
         }
       ],
       "notes": [
-        "この語義の pursue は、対象の実現に向けて努力を継続する含みがあり、単なる希望や願望を表す want とは異なる。seek は見つける・得ることを目指す幅広い語、strive for は努力の強さを強調する語である。pursue の目的語には通常名詞句を置き、pursue to do something とは言わない。動作を表すなら pursue the goal of doing something、seek to do something、work to do something などにする。"
+        "この語義の pursue は、対象の実現に向けて努力を継続する含みがあり、単なる希望や願望を表す want とは異なる。seek は見つける・得ることを目指す幅広い語、strive for は努力の強さを強調する語である。pursue の目的語には通常名詞句を置き、pursue to do something とは言わない。動作を表すなら pursue the goal of doing something、seek to do something、work to do something などにする。pursue a career は、職業を目標として求めるだけでなく、その仕事に従事してキャリアを築く意味にもなる。実際に活動に取り組む用法は語義3とつながる。"
       ],
       "synonyms": [
         {
@@ -256,18 +264,21 @@
     },
     {
       "number": 3,
-      "title": "【他動詞・継続／案件】計画・方針・活動・案件などを続けて進める、追及する",
+      "title": "【動詞・活動／継続／案件】計画・方針・活動・案件などに取り組む、進める、追及する",
       "frequency": 8,
       "register": [
         "標準語。ビジネス、研究、政策、法律、行政で特に多い。pursue legal action は「法的措置を取る・法的手続きを進める」で、必ず訴訟で勝つことまでは表さない。"
       ],
-      "definition": "すでに選んだ計画、方針、研究、活動、問題、請求などに継続して関わり、さらに調べたり実行したりする。目標を新たに設定するというより、進行中の事柄を途中でやめずに進めることに焦点がある。法律用法では、claim、case、legal action などを手続きとして進める意味になる。",
+      "definition": "計画、方針、研究、趣味・職業上の活動、問題、請求などに取り組み、調べたり実行したりする。すでに始めたことを続ける意味でもよく使うが、必ずしも以前から進行中であることを前提にしない。法律用法では、claim、case、legal action などを手続きとして進める意味になる。",
       "patterns": [
-        "pursue 〈policy/strategy/course〉＝方針・戦略を進める",
-        "pursue 〈an interest/studies/research〉＝関心・学業・研究を続ける",
-        "pursue 〈a matter/claim/case〉＝問題・請求・案件を追及する",
+        "pursue 〈a policy / a strategy / a course〉＝方針・戦略・進路に沿って進める",
+        "pursue an interest＝関心のある活動に取り組む",
+        "pursue one’s studies＝学業に取り組む",
+        "pursue research＝研究に取り組む",
+        "pursue 〈a matter / a claim / a case〉＝問題・請求・案件を追及する",
         "pursue legal action＝法的措置を進める",
-        "pursue 〈案件・活動〉 further＝～をさらに追及する"
+        "pursue 〈案件・活動〉 further＝～をさらに追及する",
+        "\"〈発言〉,\" 〈話者〉 pursued＝話者が発言を続けた（硬い物語文など）"
       ],
       "collocations": [
         {
@@ -299,6 +310,12 @@
           "use": "問題をさらに調べたり、交渉・手続きを続けたりすることを表す。",
           "example": "We need more evidence before we pursue the matter further.",
           "translation": "その問題をさらに追及する前に、私たちはより多くの証拠が必要だ。"
+        },
+        {
+          "pattern": "\"〈発言〉,\" 〈話者〉 pursued",
+          "use": "名詞の目的語を置かず、引用した発言で質問や話を続けることを表す。硬い物語文などで使う。",
+          "example": "She asked where he had been. \"And why didn't you call?\" she pursued.",
+          "translation": "彼女は彼にどこにいたのか尋ねた。「それに、どうして電話をくれなかったの？」と彼女は続けた。"
         }
       ],
       "notes": [
@@ -325,7 +342,7 @@
           "word": "carry out",
           "definition": "計画・指示・約束などを実際に実行する。",
           "frequency": 9,
-          "difference": "carry out は実行・完遂に焦点があり、pursue は実行へ向かう継続的な追求や方針選択を表す。",
+          "difference": "carry out は計画・指示などを実行することに焦点がある。pursue も活動や方針を実際に進める意味で使うが、対象への継続的な関与や追求に重点が出やすい。",
           "example": "The agency carried out a detailed review.",
           "translation": "その機関は詳細な検討を実施した。"
         }
@@ -341,9 +358,9 @@
         },
         {
           "word": "discontinue",
-          "definition": "活動・サービス・手続きを正式に中止する。",
+          "definition": "続けていた活動・サービス・手続きなどを中止する。",
           "frequency": 6,
-          "difference": "discontinue は継続を制度的・正式に止める語で、pursue の継続と明確に対立する。",
+          "difference": "discontinue は活動や提供をやめることを表すフォーマルな語で、この語義の pursue が表す継続・遂行と対立する。",
           "example": "The company discontinued the program after two years.",
           "translation": "その会社は2年後にそのプログラムを中止した。"
         }
@@ -381,7 +398,7 @@
           "pattern": "pursue a line of inquiry",
           "use": "調査で特定の仮説や方向を追って検討することを表す。",
           "example": "The investigators pursued a new line of inquiry.",
-          "translation": "捜査官たちは新たな捜査の方向を追った。"
+          "translation": "捜査官たちは新たな方向から捜査を進めた。"
         },
         {
           "pattern": "pursue a line of reasoning",
@@ -432,7 +449,7 @@
           "frequency": 8,
           "difference": "pursue が一つの方向を追い続けるのに対し、abandon はその方向から手を引くことを表す。",
           "example": "The researchers abandoned that line of inquiry.",
-          "translation": "研究者たちはその調査の方向を捨てた。"
+          "translation": "研究者たちはその線での調査を断念した。"
         },
         {
           "word": "deviate from",
@@ -480,7 +497,7 @@
           "pattern": "pursue a love interest",
           "use": "好意を寄せる相手との関係を得ようとすることを表す。",
           "example": "The novel follows a young woman who pursues a love interest abroad.",
-          "translation": "その小説は、海外にいる意中の人との関係を求める若い女性を描いている。"
+          "translation": "その小説は、海外で意中の人との関係を求める若い女性を描いている。"
         },
         {
           "pattern": "pursue someone for months",
@@ -490,7 +507,10 @@
         }
       ],
       "notes": [
-        "恋愛の pursue は「付き合っている」ことを意味せず、関係を始めようとする側の継続的な働きかけを表す。相手が明確に拒否した後も続ける文脈では、しつこい・迷惑な含みが強くなる。人を追跡する語義1、恋愛関係を求める語義5、情報源や案件を追う語義3は、目的語と文脈で区別する。"
+        "恋愛の pursue は「付き合っている」ことを意味せず、関係を始めようとする側の継続的な働きかけを表す。相手が明確に拒否した後も続ける文脈では、しつこい・迷惑な含みが強くなる。人を追跡する語義1、恋愛関係を求める語義5、情報源や案件を追う語義3は、目的語と文脈で区別する。",
+        "woo には、恋愛とは別に、人に働きかけて支持を得ようとする意味もある。以下はその支持獲得の用法で、恋愛義の pursue との比較とは分ける。",
+        "例: The candidate wooed undecided voters.",
+        "訳: その候補者は態度を決めていない有権者の支持を得ようとした。"
       ],
       "synonyms": [
         {
@@ -503,11 +523,11 @@
         },
         {
           "word": "woo",
-          "definition": "熱心に働きかけて恋愛関係や支持を得ようとする。",
+          "definition": "好意を得て恋愛・結婚関係を結ぼうと、相手に求愛する。",
           "frequency": 5,
-          "difference": "woo は文学的な恋愛用法のほか、支持・顧客を得る比喩にも使える。",
-          "example": "The candidate wooed undecided voters.",
-          "translation": "その候補者は態度を決めていない有権者の支持を得ようとした。"
+          "difference": "この恋愛義の woo は古風・文学的な響きがあり、相手の好意を得ようとする働きかけに焦点がある。pursue は中立的な接近にも執拗な接近にも使う。",
+          "example": "He wooed her with flowers and handwritten letters.",
+          "translation": "彼は花や手書きの手紙を贈って彼女に求愛した。"
         },
         {
           "word": "chase",
@@ -546,7 +566,7 @@
       ],
       "definition": "記憶、恐怖、罪悪感、不運などが人の意識や生活から離れず、繰り返し苦しめる。通常は受け身の be pursued by 〈感情・記憶〉で使い、実際に対象を追いかける意味ではない。",
       "patterns": [
-        "〈人〉 be pursued by 〈memory/fear/guilt〉＝人が記憶・恐怖・罪悪感に追われる",
+        "〈人〉 be pursued by 〈memories / fear / guilt〉＝人が記憶・恐怖・罪悪感に追われる",
         "pursue 〈人〉 in dreams＝夢の中でも人につきまとう",
         "〈人〉 be relentlessly pursued by 〈不安・不運〉＝人が不安・不運に執拗につきまとわれる"
       ],
@@ -583,7 +603,7 @@
         }
       ],
       "notes": [
-        "この用法の主語は memory、fear、guilt、misfortune などで、受け身が特に自然である。haunt は記憶や場所などが長く心につきまとう語、plague は問題・病気・人が繰り返し苦しめる語で、pursue は「追い続ける」という比喩を残した文語的な響きがある。物理的な追跡義から、対象が人の後を離れず続くという関係だけを比喩的に引き継いでいる。"
+        "能動態では記憶・恐怖・罪悪感・不運などが主語になり、人を目的語に取る。受け身では苦しめられる人が主語になり、原因を by の後に置く。haunt は記憶や場所などが長く心につきまとう語、plague は問題・病気・人が繰り返し苦しめる語で、pursue は「追い続ける」という比喩を残した文語的な響きがある。物理的な追跡義から、対象が人の後を離れず続くという関係だけを比喩的に引き継いでいる。"
       ],
       "synonyms": [
         {
@@ -626,7 +646,7 @@
           "frequency": 7,
           "difference": "be free from は追い続ける負担が存在しない状態を表す。",
           "example": "After treatment, he was finally free from constant pain.",
-          "translation": "治療後、彼はついに慢性的な痛みから解放された。"
+          "translation": "治療後、彼はついに絶え間ない痛みから解放された。"
         }
       ]
     }
