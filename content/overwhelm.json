@@ -7,7 +7,7 @@
   "notion_url": "https://app.notion.com/p/overwhelm-3b84faa9b77d81538b4af0c97a5b81e8",
   "pronunciation": [
     "主強勢は第3音節の /wɛlm/・/welm/ に置き、語頭の /ˌoʊ/・/ˌəʊ/ には第二強勢（主強勢より弱い補助的な強勢）がある。したがって over- 全体を無強勢として読むのではなく、第1音節に弱めの強勢を置き、米音では第2音節を弱い /ər/ とする。",
-    "語末の -whelm は1音節で、whelm の wh を /w/ と発音する。overwhelm の現在形・過去形・過去分詞形で語幹の母音は変わらない。",
+    "語末の -whelm は1音節で、whelm の wh は一般に /w/ と発音するが、米音には /hw/ の変種もある。overwhelm の現在形・過去形・過去分詞形で語幹の母音は変わらない。",
     "活用形は overwhelms /ˌoʊvərˈwɛlmz/｜/ˌəʊvəˈwelmz/、overwhelmed /ˌoʊvərˈwɛlmd/｜/ˌəʊvəˈwelmd/、overwhelming /ˌoʊvərˈwɛlmɪŋ/｜/ˌəʊvəˈwelmɪŋ/。overwhelmed の -ed は /d/ で発音する。"
   ],
   "etymology": [
@@ -192,7 +192,7 @@
           "word": "remain composed",
           "definition": "強い感情や出来事の中でも、平静さを保つ。",
           "frequency": 6,
-          "difference": "overwhelm が平静さを失わせるのに対し、感情を制御して落ち着いたままでいる。",
+          "difference": "厳密な他動詞の反意語ではなく、人を主語にした対照表現。overwhelm が平静さを失わせるのに対し、感情を制御して落ち着いたままでいる。",
           "example": "She remained composed despite the unexpected criticism.",
           "translation": "予想外の批判にもかかわらず、彼女は平静を保った。"
         },
@@ -200,7 +200,7 @@
           "word": "remain unmoved",
           "definition": "出来事や訴えによって感情を動かされない。",
           "frequency": 6,
-          "difference": "overwhelm のように強い心理的影響を受けるのではなく、感情的な反応を示さない。",
+          "difference": "厳密な他動詞の反意語ではなく、人を主語にした対照表現。強い心理的影響を受けるのではなく、感情的な反応を示さない。",
           "example": "The judge remained unmoved by the emotional appeal.",
           "translation": "裁判官はその感情的な訴えにも動かされなかった。"
         }
@@ -317,14 +317,6 @@
         }
       ],
       "antonyms": [
-        {
-          "word": "manageable",
-          "definition": "適切な努力や資源があれば処理・対処できる。",
-          "frequency": 7,
-          "difference": "overwhelm が許容量を超えさせるのに対し、負荷や問題が現実的に扱える範囲に収まっていることを表す。",
-          "example": "The workload is manageable if we divide it among three people.",
-          "translation": "3人で分担すれば、その仕事量は処理可能だ。"
-        },
         {
           "word": "keep up with 〈O〉",
           "definition": "入ってくる仕事、情報、要求などに遅れず対応する。",
@@ -503,7 +495,7 @@
           "pattern": "overwhelm a levee/barrier",
           "use": "水の量や勢いが堤防・防壁の能力を超える。",
           "example": "The river rose rapidly and overwhelmed the temporary levee.",
-          "translation": "川の水位が急上昇し、仮設の堤防を越えた。"
+          "translation": "川の水位が急上昇し、仮設の堤防をのみ込んだ。"
         },
         {
           "pattern": "be overwhelmed by the sea",
@@ -519,7 +511,7 @@
         }
       ],
       "notes": [
-        "水や雪などに物理的に覆われる出来事を表す受動態は、この語義で扱う。この物理義は他動詞で、The wave overwhelmed the boat. のように対象を直接目的語に取る。通常の地理説明で The hills overwhelmed the town. とすると「町を圧倒した」という比喩的な響きが出やすく、「取り囲んだ」なら surrounded が明確である。水が対象を覆う意味では flood が最も一般的、完全に水中へ入れる意味では submerge、周囲から包む意味では engulf が使いやすい。力・数で相手を制圧する語義3とは、目的語が建物・土地・船などで、覆う物理的な出来事である点が異なる。"
+        "水や雪などに物理的に覆われる出来事を表す受動態は、この語義で扱う。この物理義は他動詞で、The wave overwhelmed the boat. のように対象を直接目的語に取る。水が対象を覆う意味では flood が最も一般的、完全に水中へ入れる意味では submerge、周囲から包む意味では engulf が使いやすい。力・数で相手を制圧する語義3とは、目的語が建物・土地・船などで、覆う物理的な出来事である点が異なる。"
       ],
       "synonyms": [
         {
@@ -564,7 +556,7 @@
       "register": [
         "標準的で非常に一般的。日常会話、仕事、育児、医療、心理、報道で使う。特に自分の状態を説明する I feel overwhelmed. が頻出する。"
       ],
-      "definition": "overwhelmed は、人・集団などが強い感情、多すぎる仕事・情報、困難な状況、圧倒的な相手などの影響を受け、対処しきれない、強く心を動かされている、制圧されているといった状態を表す。overwhelmed は分詞形容詞として状態を表せるが、be/get overwhelmed は圧倒される出来事を述べる受動態にもなるため、形だけで品詞を決めない。feel overwhelmed は状態を表す用法である。文脈によって「感動で胸がいっぱい」「仕事で手に負えない」「相手に完敗した」のいずれにもなる。",
+      "definition": "overwhelmed は、人・集団などが強い感情、多すぎる仕事・情報、困難な状況などの影響を受け、対処しきれない、強く心を動かされているといった状態を表す。overwhelmed は分詞形容詞として状態を表せるが、be/get overwhelmed は圧倒される出来事を述べる受動態にもなるため、形だけで品詞を決めない。feel overwhelmed は状態を表す用法である。文脈によって「感動で胸がいっぱい」「仕事で手に負えない」などの意味になる。",
       "patterns": [
         "feel overwhelmed＝圧倒されていると感じる",
         "be overwhelmed＝圧倒されている",
@@ -764,7 +756,7 @@
         }
       ],
       "notes": [
-        "overwhelming は「圧倒する原因・性質」、overwhelmed は「圧倒された人の状態」である。The evidence was overwhelming. は証拠の説得力が極めて強い、The lawyer was overwhelmed by the evidence. は弁護士がその証拠に圧倒された、という違いになる。overwhelming majority は割合の大きさ、overwhelming desire は心理的な強さ、overwhelming amount は量の多さを表す。very overwhelming も文法的だが、通常は extremely、almost、quite など文脈に合う程度副詞を選ぶ。限定用法では通常1語で an overwhelming victory と綴り、ハイフンは不要である。"
+        "overwhelming は「圧倒する原因・性質」、overwhelmed は「圧倒された人の状態」である。The evidence was overwhelming. は証拠の説得力が極めて強い、The lawyer was overwhelmed by the evidence. は弁護士がその証拠に圧倒された、という違いになる。overwhelming majority は割合の大きさ、overwhelming desire は心理的な強さ、overwhelming amount は量の多さを表す。very overwhelming も文法的だが、通常は extremely、almost、quite など文脈に合う程度副詞を選ぶ。"
       ],
       "synonyms": [
         {
@@ -1008,14 +1000,7 @@
         }
       ],
       "notes": [
-        "この名詞用法は通常不可算で、an overwhelm や複数形 overwhelms とは一般にしない。overwhelm を動詞として使う場合は The workload overwhelmed me.、形容詞を使う場合は I felt overwhelmed. となる。名詞の overwhelm は文体依存の用法なので、学習者が通常の文章で無理に使う必要はない。a sense of overwhelm は自然だが、より標準的で説明的なのは a sense of being overwhelmed である。",
-        "次の pressure は、圧倒された感覚そのものではなく、外部からの要求や負担に焦点を置く対照用法である。",
-        "pressure",
-        "定義: 人に行動や対応を迫る負担・圧力。",
-        "頻度: 〈10/10〉",
-        "違い: 外部からかかる要求や責任に焦点があり、実際に処理不能になった状態までは含まない。",
-        "例: She works well under pressure.",
-        "訳: 彼女はプレッシャーの下でもうまく働く。"
+        "この名詞用法は通常不可算で、an overwhelm や複数形 overwhelms とは一般にしない。overwhelm を動詞として使う場合は The workload overwhelmed me.、形容詞を使う場合は I felt overwhelmed. となる。名詞の overwhelm は文体依存の用法なので、学習者が通常の文章で無理に使う必要はない。a sense of overwhelm は自然だが、より標準的で説明的なのは a sense of being overwhelmed である。"
       ],
       "synonyms": [
         {
