@@ -25,11 +25,11 @@
     },
     {
       "term": "retentive",
-      "description": "/ retentively / retentiveness：形容詞／副詞／名詞。「保持力のある、記憶力のよい／保持力よく／保持力」。特に記憶や物質を保持する性質について使う。"
+      "description": "/ retentively / retentiveness：形容詞／副詞／名詞。「保持力のある、記憶力のよい／よく保持して／保持する力・性質」。特に記憶や物質を保持する性質について使う。"
     },
     {
       "term": "retainer",
-      "description": "名詞。専門家への依頼料・役務を確保する報酬や依頼契約、または物を所定位置に留める器具を表す。歯列矯正後に歯の位置を保つ保定装置も retainer という。人を指す場合は雇われて仕える人で、特に家に長く仕える使用人の意味は古風である。依頼した弁護士を一般に retainer と呼ぶわけではない。"
+      "description": "名詞。専門家への依頼料・役務を確保する報酬や依頼契約、または物を所定位置に留める器具を表す。歯列矯正後に歯の位置を保つ保定装置も retainer という。人を指す場合は雇われて仕える人で、特に家に長く仕える使用人の意味は古風である。"
     },
     {
       "term": "retaining",
@@ -62,7 +62,7 @@
       "description": "→ 「記憶にとどめる、覚えている」（語義5）"
     },
     {
-      "label": "現在の学年にとどめる進級の保留",
+      "label": "進級させず現在の学年にとどめる措置",
       "description": "→ 「同じ学年をもう一度履修させる、留年させる」（語義6）"
     }
   ],
@@ -77,13 +77,9 @@
       ],
       "definition": "物・権利・所有・支配・特徴・習慣などを、失ったり手放したりせず持ち続ける。単に持っているというより、変更・譲渡・奪取などの可能性がある中で、以前からあるものをそのまま保つことに焦点がある。預金、保証金、給与などを返還・支払いせずに手元に残す意味にも使う。顧客や読者との関係を失わずに保つことや、データ・記録を保存した状態に保つことも表す。",
       "patterns": [
-        "retain 〈所有物・権利・支配〉＝〈所有物・権利・支配〉を保持する",
-        "retain 〈特徴・習慣・状態〉＝〈特徴・習慣・状態〉を保ち続ける",
-        "retain a deposit＝保証金を手元に残す",
-        "retain earnings＝利益を社外へ分配せず残す",
-        "retain customers＝顧客との関係を維持する",
-        "retain 〈data/records〉＝データ・記録を保存した状態に保つ",
-        "受動態 〈物・権利〉 be retained by 〈主体〉＝〈物・権利〉が〈主体〉によって保持される。"
+        "〈人・組織・物〉 retain 〈所有物・権利・特徴・状態など〉＝すでにあるものを失わずに保つ",
+        "retain 〈対象〉 for 〈期間〉＝対象をその期間保つ",
+        "〈対象〉 be retained by 〈保持する主体〉＝対象がその主体によって保持される。"
       ],
       "collocations": [
         {
@@ -93,7 +89,7 @@
           "translation": "親会社は合併後もその子会社の支配権を保持した。"
         },
         {
-          "pattern": "retain ownership/rights",
+          "pattern": "retain 〈ownership/rights〉",
           "use": "所有権や権利を手放さず持ち続ける。",
           "example": "The creator retains ownership of the original design.",
           "translation": "制作者は元のデザインの所有権を保持する。"
@@ -133,10 +129,16 @@
           "use": "記録を削除・廃棄せず、一定期間保存する。",
           "example": "The system retains transaction records for five years.",
           "translation": "そのシステムは取引記録を5年間保存する。"
+        },
+        {
+          "pattern": "retain earnings",
+          "use": "利益をすべて社外へ分配せず、社内に残す。",
+          "example": "The company retained part of its earnings to fund expansion.",
+          "translation": "その会社は事業拡大の資金にするため、利益の一部を社内に残した。"
         }
       ],
       "notes": [
-        "この語義の retain は、すでに持っているもの・すでにある状態や関係を、その後も失わずに保つことを表す。新たに手に入れる acquire や、状態を保つために継続的に管理する maintain とは焦点が異なる。retainer は依頼契約・前払報酬などを表す名詞で、retain の活用形ではない。retain a deposit のように金銭を手元に残す場合は、返還・支払いを控える含みがあるが、法的に差し引けるとは文脈だけから断定しない。英国のやや硬い用法では retain a room/seat「部屋・席を将来のために確保しておく」もある。"
+        "この語義の retain は、すでに持っているもの・すでにある状態や関係を、その後も失わずに保つことを表す。新たに手に入れる acquire や、状態を保つために継続的に管理する maintain とは焦点が異なる。retain a deposit のように金銭を手元に残す場合は、返還・支払いを控える含みがある。retain rooms は「部屋を引き続き自分の利用のために確保しておく」という意味にもなる。retain one’s seat は、政治の文脈では「議席を守る」を表す。"
       ],
       "synonyms": [
         {
@@ -165,9 +167,9 @@
         },
         {
           "word": "withhold",
-          "definition": "金銭、情報、許可などを相手に渡さず手元にとどめる。",
+          "definition": "金銭の支払いや、情報・許可などの提供を意図的に差し控える。",
           "frequency": 7,
-          "difference": "withhold は相手に渡すことを意図的に差し控える含みが強く、相手に受領する権利があるとは限らない。retain は単に手元に残す場合にも使える。",
+          "difference": "withhold は支払い・提供をしないことに焦点があり、retain は自分の側に残して持ち続けることに焦点がある。",
           "example": "The bank withheld the payment until the documents were verified.",
           "translation": "銀行は書類が確認されるまで支払いを保留した。"
         }
@@ -232,9 +234,9 @@
         },
         {
           "pattern": "retain 〈a lawyer / an attorney〉",
-          "use": "弁護士を正式に依頼する。",
+          "use": "弁護士に正式に仕事を依頼する。",
           "example": "The family retained an attorney to handle the estate.",
-          "translation": "その家族は遺産を扱うために弁護士を依頼した。"
+          "translation": "その家族は遺産の処理を弁護士に依頼した。"
         },
         {
           "pattern": "retain the services of 〈専門家・会社〉",
@@ -256,7 +258,7 @@
         }
       ],
       "notes": [
-        "retain a lawyer は「弁護士を保持する」という物理的な意味ではなく、報酬を支払って仕事を依頼するという専門用法である。hire は新たに雇う行為全般に使える。retain は従業員を雇い続ける意味では継続を表すが、専門家の役務を依頼する意味では新規・一件限りの依頼も含む。retain the services of ... では of 以下にサービスの提供者や組織を置き、retain 〈人〉 for 〈業務〉 のように目的を示すこともできる。retainer は依頼契約・前払報酬を表す名詞で、retain の過去形ではない。"
+        "retain a lawyer は「弁護士を保持する」という物理的な意味ではなく、報酬を支払って仕事を依頼するという専門用法である。hire は新たに雇う行為全般に使える。retain は従業員を雇い続ける意味では継続を表すが、専門家の役務を依頼する意味では新規・一件限りの依頼も含む。retain the services of ... では of 以下にサービスの提供者や組織を置き、retain 〈人〉 for 〈業務〉 のように目的を示すこともできる。"
       ],
       "synonyms": [
         {
@@ -277,11 +279,11 @@
         },
         {
           "word": "engage",
-          "definition": "専門家や業者を正式に依頼する。",
+          "definition": "専門家や業者に正式に仕事を依頼する。",
           "frequency": 7,
           "difference": "engage と専門家への retain は、どちらも硬い表現で正式な役務の依頼を表す。retain は従業員を雇い続ける意味も持つが、専門家への依頼が継続案件かどうかは文脈による。",
           "example": "The company engaged an outside consultant.",
-          "translation": "その会社は外部コンサルタントを依頼した。"
+          "translation": "その会社は外部コンサルタントに業務を依頼した。"
         },
         {
           "word": "keep",
@@ -330,7 +332,7 @@
       "patterns": [
         "〈素材・土壌・容器〉 retain 〈heat/moisture/water〉＝〈素材・土壌・容器〉が〈熱・水分・水〉を保つ",
         "〈物〉 retain its 〈shape/color/strength〉＝〈物〉がその〈形・色・強度〉を保つ",
-        "retain a part in place＝部品を所定位置に留める",
+        "retain 〈部品〉 in place＝部品を所定位置に留める",
         "受動態 〈物質・部品〉 be retained in 〈容器・構造〉＝〈物質・部品〉が〈容器・構造〉内に保持される。"
       ],
       "collocations": [
@@ -338,7 +340,7 @@
           "pattern": "retain heat",
           "use": "素材や建物などが熱を外へ逃がさず保つ。",
           "example": "Stone walls retain heat well after sunset.",
-          "translation": "石壁は日没後も熱をよく保つ。"
+          "translation": "石壁は日没からかなり時間がたっても熱を保つ。"
         },
         {
           "pattern": "retain moisture",
@@ -356,7 +358,7 @@
           "pattern": "retain its shape",
           "use": "物が圧力や熱を受けても形を保つ。",
           "example": "The frame retains its shape under moderate pressure.",
-          "translation": "その枠は適度な圧力の下でも形を保つ。"
+          "translation": "その枠は中程度の圧力を受けても形を保つ。"
         },
         {
           "pattern": "retain its color",
@@ -365,7 +367,7 @@
           "translation": "その布は何度洗っても色を保つ。"
         },
         {
-          "pattern": "retain a component in place",
+          "pattern": "retain 〈部品〉 in place",
           "use": "部品を移動させず、所定の位置に留める。",
           "example": "The clip retains the panel in place during transport.",
           "translation": "その留め具は輸送中にパネルを所定の位置に保持する。"
@@ -380,8 +382,8 @@
           "definition": "容器、素材、構造などが物を内部に含む、または所定位置に保つ。",
           "frequency": 10,
           "difference": "hold は単に入れておく・支えるという広い語で、retain は逃げたり失われたりしないよう保つ含みが強い。",
-          "example": "The bottle holds two liters of water.",
-          "translation": "その瓶には2リットルの水が入る。"
+          "example": "The clamp holds the panel in place.",
+          "translation": "そのクランプはパネルを所定の位置に固定している。"
         },
         {
           "word": "contain",
@@ -440,7 +442,7 @@
       "title": "【他動詞・生理・医学】体内にとどめる、排出せずに保持する",
       "frequency": 4,
       "register": [
-        "医学、薬理、健康情報。生理的な調節や症状・病態を述べる用法。日常会話で症状を伝える場合は、「尿が出にくい」「むくみがある」など具体的な表現も使う。"
+        "医学、薬理、健康情報。生理的な調節や症状・病態を述べる用法。"
       ],
       "definition": "人体や動物の体が、液体、尿、塩分などを体外へ出さず、体内にとどめる。retain fluid、retain urine は過剰な蓄積や排泄の不全を述べる場面で使われるが、retain sodium and water のように体液量を調整する生理的な反応にも使い、動詞自体が必ず異常や排出不能を意味するわけではない。名詞 retention とともによく使われる。",
       "patterns": [
@@ -450,16 +452,16 @@
       ],
       "collocations": [
         {
-          "pattern": "retain fluid/fluids",
+          "pattern": "retain 〈fluid/fluids〉",
           "use": "体が体液を体内にとどめる。病態や薬の作用による過剰な保持を述べる場合にも使う。",
           "example": "Some medications can cause the body to retain fluid.",
           "translation": "薬によっては、体が体液をため込むことがある。"
         },
         {
           "pattern": "retain urine",
-          "use": "尿を排出できず、膀胱などにとどめる。",
+          "use": "尿を十分に排出できず、膀胱に残している状態を述べる。",
           "example": "The patient was retaining urine after the operation.",
-          "translation": "その患者は手術後、尿を排出できずにためていた。"
+          "translation": "その患者は手術後、尿を十分に排出できず、膀胱に残していた。"
         },
         {
           "pattern": "retain water",
@@ -475,24 +477,10 @@
         }
       ],
       "notes": [
-        "医学用法の retain は、単に「吸収する」ことではなく、物質が体外へ出ずに体内に残ることを表す。excrete や expel は外へ出す側の語であり、retain fluid と方向が逆である。eliminate は除去・消失を広く表し、薬物では代謝と排泄の両方を含み得る。fluid retention や urinary retention は名詞表現としてよく使われるが、実際の原因や診断を動詞 retain だけから決めてはならない。",
-        "対照表現: 次の withhold は治療などの提供を差し控える意味で、体内の物質保持とは異なる。",
-        "withhold",
-        "定義: 何かを外へ出したり相手に渡したりするのを意図的に差し控える。",
-        "頻度: 〈7/10〉",
-        "違い: withhold は意図的な差し控えを表しやすく、身体の生理的な保持には retain の方が自然である。",
-        "例: Doctors sometimes withhold treatment until test results arrive.",
-        "訳: 医師は検査結果が出るまで治療を控えることがある。"
+        "医学用法の retain は、単に「吸収する」ことではなく、物質が体外へ出ずに体内に残ることを表す。excrete や expel は外へ出す側の語であり、retain fluid と方向が逆である。eliminate は除去・消失を広く表し、薬物では代謝と排泄の両方を含み得る。fluid retention や urinary retention は名詞表現としてよく使われる。retain は物質が体内に残ることを表し、その原因までは含まない。",
+        "accumulate は量が次第に増えることを表す。Fluid accumulated around the lungs.「肺の周囲に液体がたまった」は蓄積に焦点があり、物質を体内にとどめる retain とは区別する。"
       ],
       "synonyms": [
-        {
-          "word": "accumulate",
-          "definition": "液体、物質、量などが徐々に蓄積する。",
-          "frequency": 8,
-          "difference": "accumulate は蓄積の進行や結果に焦点があり、retain は体が排出せず保持する側の働きに焦点がある。",
-          "example": "Fluid accumulated around the lungs.",
-          "translation": "肺の周囲に液体がたまった。"
-        },
         {
           "word": "hold",
           "definition": "物質を内部にとどめておく。",
@@ -505,7 +493,7 @@
       "antonyms": [
         {
           "word": "excrete",
-          "definition": "尿や汗などの老廃物を体外へ排出する。",
+          "definition": "老廃物や余分な水分・塩分などを、尿や汗などとして体外へ排出する。",
           "frequency": 5,
           "difference": "excrete は生理的な排泄を直接表し、体内にとどめる retain と対立する。",
           "example": "The kidneys excrete waste products in urine.",
@@ -515,7 +503,7 @@
           "word": "eliminate",
           "definition": "薬物などを代謝・排泄によって消失させる。",
           "frequency": 5,
-          "difference": "薬物についての eliminate は代謝と排泄を含む消失を表す。retain は体内に残す側の語で、単に尿などとして排出することだけとの対立ではない。",
+          "difference": "薬物についての eliminate は、代謝と排泄によって体内から消失することを表す。体内に残す retain とは方向が逆で、排泄だけに限定されない。",
           "example": "The body gradually eliminates the drug.",
           "translation": "体は代謝や排泄によって、その薬を徐々に除去する。"
         },
@@ -523,7 +511,7 @@
           "word": "drain",
           "definition": "液体を流し出す、排出する。",
           "frequency": 8,
-          "difference": "drain は液体を外へ流す処置・動作に焦点があり、retain は液体が内部に残る状態に焦点がある。",
+          "difference": "液体を外へ流し出す drain と、内部にとどめる retain は方向が逆になる。drain は医療処置に限らず排水などにも使う。",
           "example": "The procedure drained excess fluid from the abdomen.",
           "translation": "その処置は腹部から余分な液体を排出した。"
         }
@@ -583,21 +571,7 @@
         }
       ],
       "notes": [
-        "retain information は、情報が後まで記憶に残ることを表す。意識的に暗記する memorize や、記憶から取り出す recall とは、記憶について注目する側面が異なる。単に「覚えている」と日常的に言うなら remember が自然な場合が多い。retain は情報を頭の中に保持する意味であり、記憶の正確さや理解の深さまで必ず保証しない。",
-        "対照表現: 次の memorize は記憶に取り込む学習過程を表す。",
-        "memorize",
-        "定義: 情報を意識的に暗記する。",
-        "頻度: 〈8/10〉",
-        "違い: memorize は覚えるための意図的な学習過程、retain は覚えた内容が後まで残る結果を表す。",
-        "例: The students memorized the formula before the test.",
-        "訳: 学生たちは試験前にその公式を暗記した。",
-        "対照表現: 次の recall は、保持された記憶から取り出すことを表す。",
-        "recall",
-        "定義: 記憶から情報や出来事を思い出す。",
-        "頻度: 〈8/10〉",
-        "違い: recall は必要な時点で取り出す行為に焦点があり、retain は記憶内に残っていることに焦点がある。",
-        "例: The witness could not recall the exact time.",
-        "訳: その証人は正確な時刻を思い出せなかった。"
+        "retain information は、情報が後まで記憶に残ることを表す。意識的に暗記する memorize や、記憶から取り出す recall とは、記憶について注目する側面が異なる。単に「覚えている」と日常的に言うなら remember が自然な場合が多い。retain は情報を頭の中に保持する意味であり、記憶の正確さや理解の深さまで必ず保証しない。"
       ],
       "synonyms": [
         {
@@ -631,8 +605,8 @@
           "definition": "記憶、知識、能力などを失う。",
           "frequency": 10,
           "difference": "lose a memory / lose knowledge は、持っていた記憶や知識が失われることを表す。",
-          "example": "He gradually lost his memory of the language.",
-          "translation": "彼はその言語の記憶を徐々に失った。"
+          "example": "He gradually lost his knowledge of the language.",
+          "translation": "彼はその言語についての知識を徐々に失った。"
         },
         {
           "word": "erase",
@@ -678,14 +652,14 @@
         }
       ],
       "notes": [
-        "retain students だけでは、退学・転校を防いで在籍を続けてもらうという一般的な保持の意味にもなる。in third grade や進級についての文脈で、この教育用法を明確にする。実際の判断基準や手続きは地域・学校制度によって異なり、retain という語だけでは決まらない。hold back の目的語が代名詞なら hold them back のように back の前に置く。"
+        "retain students だけでは、退学・転校を防いで在籍を続けてもらうという一般的な保持の意味にもなる。in third grade や進級についての文脈で、この教育用法を明確にする。"
       ],
       "synonyms": [
         {
           "word": "hold back",
           "definition": "生徒を次の学年へ進ませず、同じ学年をもう一度履修させる。",
           "frequency": 5,
-          "difference": "この意味では retain より日常的な言い方。hold back には進歩を妨げるなど別の意味もあるため、学校・学年の文脈で使い分ける。",
+          "difference": "この意味では retain より日常的な言い方。hold back には進歩を妨げるなど別の意味もあるため、学校・学年の文脈で使い分ける。目的語が代名詞なら hold them back のように back の前に置く。",
           "example": "They decided to hold her back a year.",
           "translation": "彼らは、彼女に同じ学年をもう1年履修させることにした。"
         }
@@ -695,7 +669,7 @@
           "word": "promote",
           "definition": "生徒を次の学年に進級させる。",
           "frequency": 5,
-          "difference": "同じ学年にとどめる retain に対して、次の学年へ進ませる方向の対立を表す。この頻度は教育用法に限る。",
+          "difference": "同じ学年にとどめる retain に対して、次の学年へ進ませる方向の対立を表す。",
           "example": "The school promoted her to fourth grade.",
           "translation": "学校は彼女を4年生に進級させた。"
         }
