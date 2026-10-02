@@ -1,18 +1,18 @@
 {
   "word": "pose",
   "slug": "pose",
-  "ipa": "米: /poʊz/｜英: /pəʊz/。どちらも1音節で、語末は無声音 /s/ ではなく有声音の /z/ である。米音は二重母音 /oʊ/、英音は二重母音 /əʊ/ で、違いは主に第1音節の母音にある。",
+  "ipa": "米: /poʊz/｜英: /pəʊz/。どちらも1音節で、語末は無声音 /s/ ではなく有声音の /z/ である。米音は二重母音 /oʊ/、英音は二重母音 /əʊ/ で、違いは主にこの二重母音にある。",
   "lead": "事物や状況が、誰か・何かにとって対処を要する危険、リスク、問題、困難などを生じさせること。主語が意図的に脅すとは限らず、客観的に「〜という危険をもたらす」「〜の障害となる」と述べる硬めの表現である。",
-  "updated": "2026-08-27",
+  "updated": "2026-10-02",
   "notion_url": "https://app.notion.com/p/pose-3c94faa9b77d8162ad9ae763437d42f4",
   "pronunciation": [
     "三人称単数・複数形の poses は米 /ˈpoʊzɪz/・英 /ˈpəʊzɪz/。語末の /z/ に続くため、複数・三単現の語尾は /ɪz/ となる。過去形・過去分詞 posed は米 /poʊzd/・英 /pəʊzd/ で、語尾に母音を加えず1音節で発音する。",
     "現在分詞 posing は米 /ˈpoʊzɪŋ/・英 /ˈpəʊzɪŋ/。pose の語末の e は書かれないが、語幹の /z/ は保たれる。動詞・名詞とも基本形は同じ1音節で、品詞による強勢移動はない。",
-    "pose /poʊz/（ポーズ）と pause /pɔːz/（ポーズ、休止）は、米音でも母音が異なる別語である。"
+    "pose（米 /poʊz/・英 /pəʊz/）と pause「休止」（英 /pɔːz/、米では方言により /pɔːz/ または /pɑːz/ など）は、母音が異なる別語である。日本語ではどちらも「ポーズ」と書かれるため混同しない。"
   ],
   "etymology": [
     "中心的な動詞 pose は中英語 posen、古フランス語 poser「置く、位置づける、提案する」を経て、後期ラテン語 pausare「止める、休ませる、休止する」に由来する。フランス語の poser が「置く」という意味を発達させる過程で、ラテン語 ponere「置く」とその過去分詞 positus との形の類似・意味上の連想も影響したと説明されるが、pausare と ponere は本来別語源である。",
-    "英語では「特定の位置に置く」から「特定の姿勢を取る・取らせる」へ、さらに「質問や問題を目の前に提示する」「危険や問題を生じさせる」へ用法が広がった。名詞の pose はこの動詞から生じ、19世紀初頭には身体の姿勢を表す語として使われていた。",
+    "英語では中英語期に、議論で「提案する、仮定する」などの用法がすでに見られ、「特定の位置に置く」という用法も早くから使われた。現代の身体・質問・危険に関する用法は「置く、示す」という連想で整理できるが、身体のポーズから質問の提起へという順に発達したわけではない。名詞の pose はこの動詞から生じ、19世紀初頭には身体の姿勢を表す語として使われていた。",
     "「困惑させる」という別の動詞 pose は、古い appose／oppose の短縮・変形に関係する別系統で、写真や質問を「置く」という中心義から直接派生したものとして扱わない。pause は pausare を共有する同語源語で、propose、compose、expose などはフランス語の poser 系統を含むが、現代英語で pose に接頭辞を付けて作った単純な派生語ではない。"
   ],
   "formation": [
@@ -36,39 +36,35 @@
   "core": [
     {
       "label": "pose",
-      "description": "の中心義は、人・物・問い・危険などを、他者が見る・考える・対処する位置へ「置く」ことである。そこから、身体を特定の姿勢に置く用法、質問や問題を検討の前に置く用法、危険を対処すべきものとして生じさせる用法が分かれる。"
+      "description": "の主要用法は、人・物・問いなどを特定の位置や見え方に「置く、示す」という共通イメージで整理でき、これは英語での成立順序を示すものではない。語義8「（人を）困惑させる、手こずらせる」は同綴異義の用法で、困惑させるという語彙的意味がこの核から導けないため、個別に参照する。"
     },
     {
-      "label": "危険や困難を対処すべき位置に置く",
-      "description": "→ 「危険・問題を引き起こす」（語義1）"
+      "label": "危険や困難を対処対象として置くこと",
+      "description": "→ 「危険・問題・課題などを引き起こす、もたらす」（語義1）"
     },
     {
-      "label": "質問や問題を検討の前に置く",
-      "description": "→ 「質問・問題を提起する」（語義2）"
+      "label": "質問や問題を検討対象として示すこと",
+      "description": "→ 「質問・問題・仮説などを提起する、提示する」（語義2）"
     },
     {
-      "label": "人や物を見せる姿勢に置く",
-      "description": "→ 「ポーズを取らせる・取る」（語義3）"
+      "label": "人や物を特定の姿勢に置くこと・身を置くこと",
+      "description": "→ 「（撮影・絵画のために）人・物を特定の位置に置く／自分がポーズを取る」（語義3）"
     },
     {
-      "label": "自分を人目を引く態度に置く",
-      "description": "→ 「気取って振る舞う」（語義4）"
+      "label": "自分を気取った姿として示すこと",
+      "description": "→ 「人目を引くために気取った態度・格好をする」（語義4）"
     },
     {
-      "label": "自分を別人・別の立場として置く",
-      "description": "→ 「〜を装う、なりすます」（語義5）"
+      "label": "自分を別の人物・立場として示すこと",
+      "description": "→ 「（人・資格・立場など）を装う、〜になりすます」（語義5）"
     },
     {
-      "label": "身体を置いた姿勢そのもの",
-      "description": "→ 「姿勢、ポーズ」（語義6）"
+      "label": "身体・物体を特定の位置や向きに置いた状態",
+      "description": "→ 「（写真・絵画・演技などの）姿勢、ポーズ」（語義6）"
     },
     {
-      "label": "本心とは別の態度を見せるために置いた姿勢",
-      "description": "→ 「見せかけの態度」（語義7）"
-    },
-    {
-      "label": "語義8は、古い",
-      "description": "appose／oppose に関係する同綴異義の動詞で、語彙的意味がこの「置く」という共通核から導けないため、個別に参照する。"
+      "label": "本心とは別の態度を示すこと",
+      "description": "→ 「見せかけの態度、気取ったふるまい、ポーズ」（語義7）"
     }
   ],
   "sources": [],
@@ -80,11 +76,12 @@
       "register": [
         "標準語。報道、行政、科学、医療、安全管理、ビジネスで特に多い。threat、risk、danger では害の可能性、problem、challenge、obstacle では対処の難しさに焦点が移る。"
       ],
-      "definition": "事物や状況が、誰か・何かにとって対処を要する危険、リスク、問題、困難などを生じさせること。主語が意図的に脅すとは限らず、客観的に「〜という危険をもたらす」「〜の障害となる」と述べる硬めの表現である。",
+      "definition": "人・事物・状況が、誰か・何かにとって対処を要する危険、リスク、問題、困難などを生じさせること。主語が意図的に脅すとは限らず、客観的に「〜という危険をもたらす」「〜の障害となる」と述べる硬めの表現である。",
       "patterns": [
-        "〈事物・状況〉 pose a threat/risk/danger to 〈対象〉＝〈対象〉に危険をもたらす",
+        "〈人・事物・状況〉 pose a threat/risk/danger to 〈対象〉＝〈対象〉に危険をもたらす",
         "〈事物・状況〉 pose a problem/challenge for 〈人・組織〉＝〈人・組織〉に問題・課題を生じさせる",
-        "pose a hazard/obstacle/barrier to 〈活動・進行〉＝活動・進行の障害となる"
+        "pose a hazard to 〈対象〉＝対象に危険をもたらす",
+        "pose an obstacle/a barrier to 〈活動・進行〉＝活動・進行の障害となる"
       ],
       "collocations": [
         {
@@ -125,7 +122,7 @@
         }
       ],
       "notes": [
-        "pose はこの用法では通常、主語に危険や問題を生じさせる事物・状況を置き、危険の受け手は to、問題の受け手は for で示す。*pose someone a threat とせず、pose a threat to someone とする。",
+        "pose はこの用法では主語に危険や問題の原因となる人・事物・状況を置く。危険が及ぶ対象には to、問題を抱える人などには for を使うのが代表的で、challenge to などの組み合わせもある。*pose someone a threat とせず、pose a threat to someone とする。",
         "pose a threat は「脅迫する」という意図を必須とせず、threaten より客観的・報告的である。pose a problem は「問題を引き起こす」の意味なら語義1だが、問題を議論の対象として提示する意味にもなり得る。その場合は語義2で、周囲に for discussion、the question of などが現れやすい。pose as は「〜を装う」という別構文であり、ここには含めない。"
       ],
       "synonyms": [
@@ -147,7 +144,7 @@
         },
         {
           "word": "constitute",
-          "definition": "全体として、ある危険・問題・脅威に当たる。",
+          "definition": "ある性質のもの・事態に当たる、それ自体が〜である。",
           "frequency": 7,
           "difference": "constitute は「それ自体が〜である」という分類・評価に焦点があり、pose は誰かにとって危険や問題を生じさせる関係に焦点がある。",
           "example": "The leak constitutes a serious violation of the safety rules.",
@@ -295,13 +292,13 @@
           "pattern": "pose someone for 〈photograph/portrait〉",
           "use": "写真家や画家が、モデルの姿勢や位置を決めて撮影・制作することを表す。",
           "example": "The photographer posed the family for a formal portrait.",
-          "translation": "写真家は正式な家族写真のために、家族を配置した。"
+          "translation": "写真家は、きちんとした家族の肖像写真を撮るために、家族にポーズを取らせた。"
         },
         {
           "pattern": "pose a model in 〈position〉",
           "use": "モデルを特定の身体の向きや姿勢に置くことを表す。",
           "example": "The artist posed the model in a seated position.",
-          "translation": "その芸術家はモデルを座った姿勢に置いた。"
+          "translation": "その芸術家はモデルに座ったポーズを取らせた。"
         }
       ],
       "notes": [
@@ -334,12 +331,12 @@
           "translation": "彼女は冬の間、彫刻家のモデルを務めた。"
         },
         {
-          "word": "sit/stand for 〈artist/photographer〉",
-          "definition": "画家や写真家のために座ったり立ったりして姿勢を保つ。",
+          "word": "sit for 〈artist/photographer/portrait〉",
+          "definition": "画家や写真家のモデルを務める。",
           "frequency": 5,
-          "difference": "sit/stand for は実際の姿勢とその持続を具体的に述べる句で、pose よりも動作の種類が限定される。",
-          "example": "The child stood for the painter for nearly an hour.",
-          "translation": "その子どもは1時間近く画家のために立っていた。"
+          "difference": "この sit for はモデルを務めるというまとまった用法で、必ずしも座った姿勢だけを意味しない。stand for the painter で画家のために立つことは述べられるが、同じ意味の句動詞として一括しない。",
+          "example": "The child sat for the painter for nearly an hour.",
+          "translation": "その子どもは1時間近く画家のモデルを務めた。"
         }
       ],
       "antonyms": []
@@ -364,7 +361,7 @@
           "translation": "彼は仕事を手伝わず、高級な服を着て気取ってばかりいた。"
         },
         {
-          "pattern": "pose in 〈car/clothes〉",
+          "pattern": "pose in a car／pose in 〈衣服を表す名詞句〉",
           "use": "車や服などを見せびらかすように、外で気取って振る舞うことを表す。",
           "example": "They were out posing in a rented sports car all afternoon.",
           "translation": "彼らは午後ずっと、借りたスポーツカーを見せびらかして外で気取っていた。"
@@ -440,14 +437,14 @@
           "translation": "その電話の相手は部長の助手を装い、機密ファイルを要求した。"
         },
         {
-          "pattern": "pose as a security guard",
-          "use": "身分を偽っているところを発見・逮捕されることを表す。",
+          "pattern": "pose as a security guard／be caught posing as a security guard",
+          "use": "警備員を装うこと、またはそうしているところを見つかる・捕まることを表す。",
           "example": "The suspect was caught posing as a security guard.",
           "translation": "その容疑者は警備員を装っていたところを捕まった。"
         },
         {
           "pattern": "pose as a potential buyer",
-          "use": "実際には購入者ではない人が、購入希望者を装って接近することを表す。",
+          "use": "本当の立場や目的を隠し、購入を検討している人として接近することを表す。",
           "example": "Investigators posed as potential buyers to document the illegal sales.",
           "translation": "調査員たちは違法販売を記録するため、購入希望者を装った。"
         }
@@ -485,7 +482,7 @@
           "word": "masquerade as 〈someone/something〉",
           "definition": "別の人・物・立場を装う。",
           "frequency": 4,
-          "difference": "masquerade as は仮面をかぶるような明白な偽装や、実体を隠す比喩に使われ、pose as より文語的・劇的に響くことがある。",
+          "difference": "masquerade as は仮面をかぶるような偽装や、実体を隠す比喩に使われ、pose as より文語的・劇的に響くことがある。",
           "example": "The website masqueraded as an official public-service portal.",
           "translation": "そのウェブサイトは公式の行政サービス窓口を装っていた。"
         }
@@ -510,7 +507,7 @@
       "collocations": [
         {
           "pattern": "strike a pose",
-          "use": "特定の印象を与える姿勢を、意識して素早く取ることを表す。比喩的に、態度を演出する意味にもなる。",
+          "use": "特定の印象を与える姿勢を、意識して取ることを表す。比喩的に、態度を演出する意味にもなる。",
           "example": "She struck a confident pose before the interview began.",
           "translation": "彼女は面接が始まる前に自信ありげなポーズを取った。"
         },
@@ -530,7 +527,7 @@
           "pattern": "a pose for the camera",
           "use": "カメラに写ることを目的とした姿勢を表す。",
           "example": "The athlete found a dramatic pose for the camera.",
-          "translation": "その選手はカメラに向けて劇的なポーズを決めた。"
+          "translation": "その選手はカメラに向けた印象的なポーズを見つけた。"
         },
         {
           "pattern": "a yoga/dance pose",
@@ -547,7 +544,8 @@
       ],
       "notes": [
         "pose は通常 a pose と数え、three different poses のように複数形にできる。posture は普段の体の構えや健康上の姿勢、position は身体に限らない位置全般、stance は立ち方に加えて意見・立場も表す。したがって「姿勢が悪い」という一般的な身体状態には bad posture が自然で、撮影で一時的に取る姿勢には a pose が自然である。",
-        "strike a pose/an attitude は身体のポーズにも、勇敢さ・反抗などの態度を演じる比喩にも使える。"
+        "strike a pose/an attitude は身体のポーズにも、勇敢さ・反抗などの態度を演じる比喩にも使える。",
+        "ロボット工学やコンピュータービジョンでは、物体・カメラなどの pose が、基準座標系に対する位置と向きの組み合わせを表すことがある。一方、human pose estimation「人体姿勢推定」では、関節などの位置から捉えた身体の構えを扱い、写真のために意識して静止していることは必要ない。"
       ],
       "synonyms": [
         {
@@ -560,7 +558,7 @@
         },
         {
           "word": "stance",
-          "definition": "立っているときの足や体の構え、または意見・立場。",
+          "definition": "立っているときの足や体の構え。",
           "frequency": 8,
           "difference": "身体についての stance は安定性や構えを強調し、pose のような撮影・演出の含みは弱い。比喩的な意見の意味は pose より広く定着している。",
           "example": "The boxer changed his stance before the next round.",
@@ -576,8 +574,8 @@
         },
         {
           "word": "attitude",
-          "definition": "体の構え、または人・物事に対する心理的な態度。",
-          "frequency": 9,
+          "definition": "体の構え、姿勢。",
+          "frequency": 5,
           "difference": "身体の意味の attitude はやや専門的・芸術的で、日常の写真の姿勢には pose が普通である。心理的な態度を表す場合は、pose と違って本心に反する見せかけを必ずしも含まない。",
           "example": "The sculpture has an attitude of quiet movement.",
           "translation": "その彫刻には静かな動きを感じさせる姿勢がある。"
@@ -673,7 +671,7 @@
           "frequency": 9,
           "difference": "act は演技一般を表す口語的な語で、舞台上の演技にも使える。pose は短い態度や見せかけを批判的に指しやすい。",
           "example": "His apology sounded like an act rather than a sincere admission.",
-          "translation": "彼の謝罪は、誠実な認め方というより演技のように聞こえた。"
+          "translation": "彼の謝罪は、心から非を認めたものというより演技のように聞こえた。"
         },
         {
           "word": "airs",
@@ -713,10 +711,10 @@
     },
     {
       "number": 8,
-      "title": "【動詞・他動詞・まれ・古風】（人を）困惑させる、手こずらせる",
+      "title": "【動詞・他動詞・まれ】（人を）困惑させる、手こずらせる",
       "frequency": 2,
       "register": [
-        "まれ・古風または文語的。古い文章、辞書の用例、硬い人物描写などで見られるが、学習者が自分で使う必要性は低い。語源的にも、語義1〜7の pose とは別系統である。"
+        "まれな用法。辞書の用例や硬い人物描写などで見られるが、学習者が自分で使う必要性は低い。語源的にも、語義1〜7の pose とは別系統である。"
       ],
       "definition": "難しい質問や問題によって、人を困らせて答えに窮させること。現代の一般英語では puzzle、baffle、perplex のほうが普通で、この pose は辞書に残る低頻度・硬い用法として理解するとよい。",
       "patterns": [
@@ -725,9 +723,9 @@
       "collocations": [
         {
           "pattern": "be completely posed by 〈question〉",
-          "use": "難しい質問に答えられず、すっかり困惑していることを古風・硬く表す。",
+          "use": "難しい質問に答えられず、すっかり困惑していることを、まれな語の選択で表す。",
           "example": "The witness was completely posed by the examiner's final question.",
-          "translation": "その証人は試験官の最後の質問にすっかり困惑した。"
+          "translation": "その証人は尋問者の最後の質問にすっかり困惑した。"
         },
         {
           "pattern": "a problem that poses 〈person〉",
