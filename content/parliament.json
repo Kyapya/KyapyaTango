@@ -3,32 +3,24 @@
   "slug": "parliament",
   "ipa": "発音: イギリス英語 /ˈpɑːləmənt/、アメリカ英語 /ˈpɑːrləmənt/。綴りの lia を一音ずつ読まず、通常は3音節で発音する。ここに示した標準的な発音では、イギリス英語形は第1音節の母音後の /r/ を発音せず、アメリカ英語形は発音する。辞書には /-ljə-/ を含む別発音も記録される。",
   "lead": "法律を制定・改正し、政策を審議する制度的な機関を指す。機関を一つの行為主体として述べるときは、その構成員の集合も含めて表す。特定国の制度名として用いる場合は Parliament と大文字で始めることがある。",
-  "updated": "2026-09-08",
+  "updated": "2026-10-02",
   "notion_url": "https://app.notion.com/p/parliament-3d54faa9b77d81be84c1ce8bec21677c",
   "pronunciation": [],
   "etymology": [
-    "中英語 parlement を経て、古フランス語 parlement「話すこと」にさかのぼり、その基になった parler は「話す」を意味する。英語では1300年ごろに「相談、正式な会議、集会」を表した。現在の綴りにある ia は、中世ラテン語 parliamentum に合わせた形の影響を受けている。"
+    "中英語 parlement を経て、古フランス語 parlement「話すこと」にさかのぼり、その基になった parler は「話す」を意味する。英語では1300年ごろに「相談、正式な会議、集会」を表した。現在の綴りにある ia は、中世ラテン語 parliamentum に合わせた形の影響を受けている。",
+    "同じ古フランス語 parler に関係する英単語には、parley「交渉、会談」と parlour（米 parlor）「客間」がある。"
   ],
   "formation": [
     {
       "term": "parliamentary",
       "description": "形容詞。「議会の」「議会制の」のほか、parliamentary procedure では「議事手続きの」を表す。"
-    }
-  ],
-  "core": [
-    {
-      "label": "parliament",
-      "description": "の中心は、「構成員が集まり、公的事項を審議して決定する制度的な立法機関」である。そこから、継続する制度そのものと、総選挙を区切りとして成立する特定回の議会体・存続期間を表す。"
     },
     {
-      "label": "法律や政策を審議する継続的な制度とその構成員全体",
-      "description": "→ 「議会、国会」（語義1）"
-    },
-    {
-      "label": "総選挙を区切りとして成立する特定回の議会体と存続期間",
-      "description": "→ 「特定期の議会、一議会期」（語義2）"
+      "term": "parliamentarian",
+      "description": "名詞。「議員」のほか、「議事手続きの専門家」の意味もある。"
     }
   ],
+  "core": [],
   "sources": [],
   "senses": [
     {
@@ -45,7 +37,7 @@
       "collocations": [
         {
           "pattern": "a member of parliament",
-          "use": "ある国・地域の議会の議員を一般的に指す。イギリスの正式な役職表現では Member of Parliament と大文字で書き、略して MP とする。",
+          "use": "ある国・地域の議会の議員を一般的に指す。イギリスの正式な役職表現では Member of Parliament と大文字で書き、略して MP とする。この役職名・略称は下院議員を指し、上院議員は通常 MP とは呼ばない。",
           "example": "She was elected as a member of parliament for the first time last year.",
           "translation": "彼女は昨年、初めて国会議員に選出された。"
         },
@@ -75,9 +67,18 @@
         }
       ],
       "notes": [
-        "この語義は継続する制度、またはその制度を一つの行為主体として述べた集合を表す。総選挙ごとに成立する特定回の議会体と期間は語義2で扱う。"
+        "この語義は継続する制度、またはその制度を一つの行為主体として述べた集合を表す。総選挙ごとに成立する特定回の議会体と期間は語義2で扱う。",
+        "英国の Parliament は制度上、下院、上院、君主から成り、政府の活動を監視する役割も持つ。government「政府」と同義ではない。文脈によって Parliament が下院を指すこともあるが、制度全体を常に下院だけと同一視しない。"
       ],
       "synonyms": [
+        {
+          "word": "legislature",
+          "definition": "法律を制定・改正する権限を持つ議会・立法機関。",
+          "frequency": 7,
+          "difference": "legislature は立法機関を表すやや改まった一般語で、名称が Parliament でない州議会などにも使える。parliament はその国・地域の制度上の名称として使われることが多い。",
+          "example": "The state legislature approved the bill.",
+          "translation": "州議会はその法案を可決した。"
+        },
         {
           "word": "legislative body",
           "definition": "法律を制定する権限を持つ機関。",
@@ -90,7 +91,7 @@
           "word": "lawmaking body",
           "definition": "法律を制定・改正する機関。",
           "frequency": 4,
-          "difference": "lawmaking body は役割を平易に説明する句である。parliament は法律だけでなく政策も審議する機関の名称として用いられる。",
+          "difference": "lawmaking body は、法律を制定する機能に注目した一般的な説明句である。parliament は、特定の国・地域の制度における議会を指す名称である。",
           "example": "The lawmaking body debated the proposed change.",
           "translation": "その立法機関は提案された変更を審議した。"
         },
@@ -114,12 +115,16 @@
       ],
       "definition": "総選挙を区切りとして特定回を数える制度・文脈で、その議会体または存続期間を指す。一つの Parliament は通常、複数の session に分かれる。",
       "patterns": [
-        "可算名詞として、総選挙を区切りとして成立する一つの議会体またはその存続期間を表す。"
+        "the current/next parliament＝今期・次期の特定回の議会",
+        "during this parliament＝今議会期中に",
+        "in the next parliament＝次の議会期に",
+        "the lifetime of a parliament＝一つの議会の存続期間",
+        "dissolve Parliament＝英国などで議会を解散し、その回の議会を終える。"
       ],
       "collocations": [
         {
           "pattern": "a hung parliament",
-          "use": "単独で過半数を持つ政党がない議会を表す。主にイギリス英語で用いる。",
+          "use": "どの政党も単独で議席の過半数を持たない議会を表す。主にイギリス英語で用い、イギリスでは下院の議席についていう。",
           "example": "The general election produced a hung parliament.",
           "translation": "その総選挙の結果、どの政党も単独過半数を持たない議会となった。"
         },
@@ -154,9 +159,9 @@
       "synonyms": [
         {
           "word": "legislative body",
-          "definition": "立法機関として見た、特定回の議会体。",
+          "definition": "立法機関。",
           "frequency": 5,
-          "difference": "legislative body は機関・会議体を指す。語義2の parliament は、その特定回の議会体に加え、その存続期間も指す。",
+          "difference": "legislative body は機関・会議体を指す。語義2の parliament が特定回の議会体を指す文脈では対応するが、その存続期間を指す場合には置き換えられない。",
           "example": "The newly elected legislative body met for the first time.",
           "translation": "新たに選ばれた立法機関が初めて開会した。"
         }
