@@ -1,0 +1,749 @@
+{
+  "word": "impose",
+  "slug": "impose",
+  "ipa": "米: /ɪmˈpoʊz/｜英: /ɪmˈpəʊz/",
+  "lead": "権限を持つ人・組織などが、税・罰・規則・禁止・条件などを定め、対象となる人や物に適用する。受ける側が自由に選ぶというより、従うべきものとして与えることに焦点がある。厳しい措置に使いやすいが、不当・違法・過酷であることは必須ではない。",
+  "updated": "2026-10-03",
+  "notion_url": "https://app.notion.com/p/impose-3ee4faa9b77d81eba415f78ee8de90cf",
+  "pronunciation": [
+    "2音節で、第2音節に主強勢を置く。米英差は第2音節の二重母音で、米音では /oʊ/、英音では /əʊ/。語末は /z/ で、/s/ ではない。imposed の語尾は /zd/、imposes の語尾は /zɪz/ になる。"
+  ],
+  "etymology": [
+    "フランス語 imposer を経た語で、ラテン語 imponere「上に置く、課す」にさかのぼる。in-「中へ、上に」と ponere「置く」が関係し、フランス語 poser「置く」の形の影響も受けている。負担や決まりを相手に負わせる意味につながる。同じ ponere 系の語には position「位置」と component「構成要素」がある。im- を否定の接頭辞と考え、「pose しない」という意味にはしない。"
+  ],
+  "formation": [
+    {
+      "term": "imposition",
+      "description": "規則・税などを課すことを表す場合は主に不可算。an imposition は、相手の負担になる頼み事や行為を指す。"
+    },
+    {
+      "term": "self-imposed",
+      "description": "自分で自分に課した。a self-imposed deadline は「自分で決めて守ろうとしている締切」で、外から強制されたものではない。"
+    },
+    {
+      "term": "reimpose",
+      "description": "/ re-impose: 一度撤廃した制限などを再び課す。他動詞で、reimpose restrictions のように使う。"
+    },
+    {
+      "term": "imposing",
+      "description": "現在分詞のほか、「堂々とした、威容のある」という形容詞にもなる。形容詞用法は語義6で扱う。"
+    },
+    {
+      "term": "imposingly",
+      "description": "堂々と、威容を見せて、という副詞。外観や態度の描写で使う。"
+    }
+  ],
+  "core": [
+    {
+      "label": "相手・対象に何かを受け入れさせる、または強い印象を与える。規則・負担・考え・自分の存在を及ぼす用法、迫力によって注意を引く用法、偽りを信じ込ませる用法につながる。語義7・8は「物を所定の場所に置く」という歴史的な意味が印刷と宗教儀礼に残った専門義で、この現代の核から語彙的意味を導けないため、個別に参照する。",
+      "description": ""
+    },
+    {
+      "label": "決まりを受け入れさせる働き",
+      "description": "→ 「課す、施行する」（語義1）"
+    },
+    {
+      "label": "負担を受け入れさせる働き",
+      "description": "→ 「負担や制約をもたらす」（語義2）"
+    },
+    {
+      "label": "考えや枠組みを受け入れさせる働き",
+      "description": "→ 「押しつける、一定の秩序を与える」（語義3）"
+    },
+    {
+      "label": "頼み事を受け入れさせる働き",
+      "description": "→ 「好意に甘えて負担をかける」（語義4）"
+    },
+    {
+      "label": "自分の存在を受け入れさせる働き",
+      "description": "→ 「自分の存在を押しつける、存在感を示す」（語義5）"
+    },
+    {
+      "label": "強い印象を与える姿や規模",
+      "description": "→ 「堂々とした、威容のある」（語義6）"
+    },
+    {
+      "label": "偽りを信じ込ませる働き",
+      "description": "→ 「だます、欺く」（語義9）"
+    },
+    {
+      "label": "偽りの物を本物として受け入れさせる働き",
+      "description": "→ 「偽りの物を本物らしく押しつける」（語義10）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞】課す、施行する",
+      "frequency": 8,
+      "register": [
+        "報道、行政、法律、仕事、学校。比較的改まった表現。"
+      ],
+      "definition": "権限を持つ人・組織などが、税・罰・規則・禁止・条件などを定め、対象となる人や物に適用する。受ける側が自由に選ぶというより、従うべきものとして与えることに焦点がある。厳しい措置に使いやすいが、不当・違法・過酷であることは必須ではない。",
+      "patterns": [
+        "impose 〈a tax/a fine/a penalty/a ban〉",
+        "impose 〈rules/restrictions/conditions〉 on someone/something",
+        "impose a tax on 〈課税対象〉",
+        "impose a ban on 〈名詞句/動名詞句〉",
+        "impose a fine of 〈金額〉 on someone",
+        "impose a sentence on someone",
+        "be imposed on someone/something",
+        "impose a deadline on oneself"
+      ],
+      "collocations": [
+        {
+          "pattern": "impose a tax on 〈課税対象〉",
+          "use": "商品や所得などに税を課す。",
+          "example": "The government imposed a new tax on luxury goods.",
+          "translation": "政府は高級品に新たな税を課した。"
+        },
+        {
+          "pattern": "impose a fine of 〈金額〉 on someone",
+          "use": "金額と罰金を科される相手を示す。",
+          "example": "The regulator imposed a fine of 10,000 dollars on the company.",
+          "translation": "規制当局はその会社に1万ドルの罰金を科した。"
+        },
+        {
+          "pattern": "impose a ban on 〈名詞句/動名詞句〉",
+          "use": "禁止の対象となる行為や物を示す。",
+          "example": "The park imposed a ban on feeding the wildlife.",
+          "translation": "その公園は野生動物への餌やりを禁止した。"
+        },
+        {
+          "pattern": "impose restrictions on someone/something",
+          "use": "人や活動などに制限を設ける。",
+          "example": "The city imposed restrictions on water use during the drought.",
+          "translation": "干ばつの間、市は水の使用を制限した。"
+        },
+        {
+          "pattern": "impose a sentence on someone",
+          "use": "裁判所が刑を言い渡す。",
+          "example": "The court imposed a five-year prison sentence on the defendant.",
+          "translation": "裁判所は被告に5年間の拘禁刑を言い渡した。"
+        },
+        {
+          "pattern": "be imposed on someone/something",
+          "use": "措置を受ける対象を on で示した受動態。",
+          "example": "New safety requirements have been imposed on all contractors.",
+          "translation": "すべての請負業者に、新たな安全上の要件が課されている。"
+        },
+        {
+          "pattern": "impose a deadline on oneself",
+          "use": "自分自身に守るべき期限を課す。",
+          "example": "I imposed a deadline on myself so that I would finish the draft this week.",
+          "translation": "今週中に下書きを終えるため、自分で締切を設けた。"
+        }
+      ],
+      "notes": [
+        "基本は impose 〈課すもの〉 on 〈対象〉。impose people a fine や impose a fine to people ではなく impose a fine on people とする。「人に～するよう強制する」なら force someone to do ... で、impose someone to do ... にはしない。upon も使えるが on が一般的。impose a ban on smoking の smoking は ban の対象、impose a ban on a company の company は措置を受ける組織として解釈でき、on 以下の役割を文脈で区別する。受動態の主語は通常、課されたものなので A fine was imposed on him. となる。He was imposed a fine. は標準的な基本形ではない。impose は措置の設定・適用、enforce は既にある規則を実際に守らせることに焦点がある。self-imposed のように自分で課した場合もあり、常に他人が主語とは限らない。"
+      ],
+      "synonyms": [
+        {
+          "word": "levy",
+          "definition": "税・料金などを公的に課す。",
+          "frequency": 6,
+          "difference": "金銭的な負担を課す用法に中心があり、impose a rule のように規則一般へ広く使う語ではない。",
+          "example": "The authority levies a fee on each application.",
+          "translation": "当局は申請ごとに手数料を課す。"
+        },
+        {
+          "word": "introduce",
+          "definition": "新しい制度・規則・措置などを導入する。",
+          "frequency": 8,
+          "difference": "新しく始めることが中心で、相手に従わせる意味は必須ではない。impose は負担や拘束として適用する側面を強調する。",
+          "example": "The company introduced a new system for reporting accidents.",
+          "translation": "会社は事故報告の新しい仕組みを導入した。"
+        },
+        {
+          "word": "set",
+          "definition": "期限・条件・限度などを定める。",
+          "frequency": 9,
+          "difference": "決める行為を中立的に表し、impose より日常的。相手の選択を制限する響きは弱い。",
+          "example": "We set a deadline for receiving applications.",
+          "translation": "私たちは応募の締切を定めた。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "lift",
+          "definition": "禁止・制限・制裁などを解除する。",
+          "frequency": 7,
+          "difference": "措置を課して有効にする方向と、解除してなくす方向の対立。すべての impose の目的語に使えるわけではない。",
+          "example": "The city lifted the water restrictions after heavy rain.",
+          "translation": "大雨の後、市は水の使用制限を解除した。"
+        },
+        {
+          "word": "remove",
+          "definition": "条件・制約などを取り除く。",
+          "frequency": 8,
+          "difference": "課された負担や条件をなくす方向の反対で、lift より対象が広い。制定という手続きを必ず含む語ではない。",
+          "example": "The new agreement removes several restrictions on trade.",
+          "translation": "新たな協定によって、貿易に関するいくつかの制限がなくなる。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【動詞・他動詞】負担や制約をもたらす",
+      "frequency": 7,
+      "register": [
+        "報道、仕事、研究、社会問題の説明。やや改まった表現。"
+      ],
+      "definition": "状況・制度・出来事などが、人・組織・活動に負担、費用、圧力、限界などを生じさせる。語義1と違い、誰かが正式に措置を決めるとは限らず、状況自体が避けにくい負担をもたらす場合にも使う。",
+      "patterns": [
+        "impose a burden on someone/something",
+        "impose a strain on someone/something",
+        "impose 〈costs/constraints/limitations〉 on someone/something",
+        "〈constraints/limitations〉 imposed by 〈原因〉"
+      ],
+      "collocations": [
+        {
+          "pattern": "impose a burden on someone/something",
+          "use": "状況や仕組みが負担を生むことを述べる。",
+          "example": "The complicated application process imposes a burden on small businesses.",
+          "translation": "複雑な申請手続きは、小規模な事業者の負担になっている。"
+        },
+        {
+          "pattern": "impose a strain on someone/something",
+          "use": "身体・関係・資金などに無理がかかることを示す。",
+          "example": "The long commute imposed a considerable strain on her family life.",
+          "translation": "長時間の通勤は、彼女の家庭生活にかなりの負担をかけていた。"
+        },
+        {
+          "pattern": "impose costs on someone/something",
+          "use": "状況の影響で費用負担が生じることを示す。",
+          "example": "Repeated delays impose additional costs on the supplier.",
+          "translation": "遅れが繰り返されると、供給業者に追加の費用負担が生じる。"
+        },
+        {
+          "pattern": "limitations imposed by 〈原因〉",
+          "use": "限界を生じさせる事情を、過去分詞句の by で示す。",
+          "example": "We had to work within the limitations imposed by the small budget.",
+          "translation": "私たちは少ない予算による制約の中で作業しなければならなかった。"
+        }
+      ],
+      "notes": [
+        "The weather imposed constraints on travel. の主語は人でなく天候であり、規則を制定したわけではない。このため impose をすべて「命令して強制する」と訳すと不自然になる。impose a burden on someone は burden が直接目的語、someone は on の目的語。語義4の impose on someone「相手の好意に甘えて負担をかける」は直接目的語を持たない別の型である。負担を受ける人を主語にするなら bear a burden、be under strain なども使えるが、これらは反意語ではなく視点を変えた対照表現。"
+      ],
+      "synonyms": [
+        {
+          "word": "place on",
+          "definition": "負担・要求・制約などを人や物にかける。",
+          "frequency": 7,
+          "difference": "place a burden on ... のように使い、この意味の impose に近いが、より広い文脈で中立的に述べられる。",
+          "example": "The extra work placed a heavy burden on the team.",
+          "translation": "追加の仕事はチームに大きな負担をかけた。"
+        },
+        {
+          "word": "burden",
+          "definition": "人・組織などに重い責任や負担を負わせる。",
+          "frequency": 6,
+          "difference": "burden someone with something と、負担を受ける人を直接目的語にする。負担が重いという否定的評価が前面に出る。",
+          "example": "The policy burdens local authorities with extra paperwork.",
+          "translation": "その政策は、地方当局に追加の書類業務という負担を負わせる。"
+        },
+        {
+          "word": "inflict",
+          "definition": "苦痛・損害・苦しい負担などを相手に与える。",
+          "frequency": 6,
+          "difference": "impose より害や苦痛を強く示す。単に予算上の制約が生じるという中立的説明には強すぎる場合がある。",
+          "example": "The disruption inflicted heavy costs on local firms.",
+          "translation": "その混乱は地元企業に多大な費用負担をもたらした。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞・他動詞】押しつける、一定の秩序を与える",
+      "frequency": 7,
+      "register": [
+        "一般、仕事、報道、批評、学術的説明。"
+      ],
+      "definition": "自分の考え・好み・方針などを相手に受け入れさせたり、対象に一定の秩序や構造を持たせたりする。人の価値観を押しつける場合には批判的になりやすいが、混乱を整理する impose order などは肯定的・中立的にも使う。",
+      "patterns": [
+        "impose one's 〈views/values/will〉 on someone",
+        "impose something on someone/something",
+        "impose order on 〈混乱した対象〉",
+        "impose a structure on something",
+        "be imposed on someone/something"
+      ],
+      "collocations": [
+        {
+          "pattern": "impose one's views on someone",
+          "use": "相手の考えを尊重せず、自分の見解を押しつける。",
+          "example": "I can explain my views without imposing them on you.",
+          "translation": "自分の考えをあなたに押しつけずに説明することはできる。"
+        },
+        {
+          "pattern": "impose one's will on someone",
+          "use": "自分の意向どおりに相手を従わせる。",
+          "example": "One member should not be allowed to impose her will on the whole committee.",
+          "translation": "1人の委員が、委員会全体に自分の意向を押し通すことは認めるべきではない。"
+        },
+        {
+          "pattern": "impose something on someone",
+          "use": "相手が選んでいないやり方などを受け入れさせる。",
+          "example": "The headquarters imposed its preferred working methods on the local teams.",
+          "translation": "本社は、自分たちがよいと考える働き方を各地のチームに押しつけた。"
+        },
+        {
+          "pattern": "impose order on 〈混乱した対象〉",
+          "use": "乱雑なものを、一定の秩序に従って整理する。",
+          "example": "The editor imposed order on the writer's scattered notes.",
+          "translation": "編集者は、ばらばらだった作家のメモに筋道をつけた。"
+        },
+        {
+          "pattern": "impose a structure on something",
+          "use": "素材や活動に、外から一定の枠組みを与える。",
+          "example": "A weekly schedule helped us impose a structure on the project.",
+          "translation": "週ごとの予定を立てることで、プロジェクトを体系的に進められるようになった。"
+        }
+      ],
+      "notes": [
+        "impose の直後に「押しつける内容」、on の後ろに「受け入れる側」を置く。代名詞でも impose it on them とし、impose on them it にはしない。on は分離できる小辞ではない。impose one's will on ... と impose oneself on ... は違い、前者は自分の意向、後者は語義5の自分の存在を受け入れさせる型である。order はここでは「命令」ではなく「秩序」という不可算名詞。相手が人でなければ不本意さを文字どおり表すわけではなく、impose a structure on data なら、データに外から分類や枠組みを適用する意味になる。"
+      ],
+      "synonyms": [
+        {
+          "word": "force on",
+          "definition": "相手が望まないものを無理に受け入れさせる。",
+          "frequency": 7,
+          "difference": "force something on someone と使い、impose より直接的に無理強いを示す。中立的な構造づけには通常向かない。",
+          "example": "They tried to force a decision on us before we had all the facts.",
+          "translation": "すべての事情が分かる前に、彼らは私たちに決定を押しつけようとした。"
+        },
+        {
+          "word": "foist on",
+          "definition": "望ましくない物や責任などを相手に押しつける。",
+          "frequency": 4,
+          "difference": "foist something on someone の形で、相手が迷惑するものを一方的に渡す否定的評価が強い。",
+          "example": "The department tried to foist the unwanted equipment on us.",
+          "translation": "その部署は、不要な機器を私たちに押しつけようとした。"
+        },
+        {
+          "word": "dictate",
+          "definition": "方針や行動のしかたを、相手の自由を認めず決める。",
+          "frequency": 6,
+          "difference": "内容ややり方を支配的に決定する点が中心で、dictate how ... のように節を直接続けられる。",
+          "example": "We will not let one client dictate how the whole team works.",
+          "translation": "1社の顧客にチーム全体の働き方を決めさせるつもりはない。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞・自動詞／on・uponを伴う前置詞構文】好意に甘えて負担をかける",
+      "frequency": 6,
+      "register": [
+        "一般、丁寧な会話。相手を責めるときにも、自分の頼み事を控えめに切り出すときにも使う。"
+      ],
+      "definition": "人に頼み事をしたり長く世話になったりして、相手の親切・時間・もてなしなどに頼りすぎる。相手の都合や負担を十分考慮しない含みがあり、I don't want to impose. のように遠慮を示す表現でもよく使う。",
+      "patterns": [
+        "impose",
+        "impose on/upon someone",
+        "impose on someone's 〈kindness/hospitality/good nature〉",
+        "impose on someone for 〈a favor/help〉",
+        "impose by 〈動名詞句〉",
+        "feel imposed upon"
+      ],
+      "collocations": [
+        {
+          "pattern": "I don't want to impose.",
+          "use": "相手に迷惑や無理な負担をかけたくないと、遠慮を表す。",
+          "example": "Thank you for offering, but I don't want to impose.",
+          "translation": "申し出てくれてありがとう。でも、あまりご迷惑はかけたくありません。"
+        },
+        {
+          "pattern": "impose on someone",
+          "use": "相手の親切や時間に頼りすぎることを述べる。",
+          "example": "We have stayed here for a week, and I worry that we are imposing on you.",
+          "translation": "ここに1週間も泊まっているので、ご迷惑をかけていないか気になります。"
+        },
+        {
+          "pattern": "impose on someone's hospitality",
+          "use": "もてなしや宿泊の世話に甘えすぎることを表す。",
+          "example": "I cannot keep imposing on your hospitality every time I visit the city.",
+          "translation": "この街に来るたびに、いつまでもあなたのお世話になるわけにはいきません。"
+        },
+        {
+          "pattern": "impose on someone for 〈a favor/help〉",
+          "use": "頼み事などで相手に無理をさせる。",
+          "example": "He is always imposing on his neighbors for favors.",
+          "translation": "彼はいつも近所の人に頼み事をして、好意に甘えている。"
+        },
+        {
+          "pattern": "impose by 〈動名詞句〉",
+          "use": "どのような行為で負担をかけるのかを示す。",
+          "example": "I hope I am not imposing by asking you to read one more draft.",
+          "translation": "もう一度下書きを読んでいただくことで、ご負担になっていなければよいのですが。"
+        },
+        {
+          "pattern": "feel imposed upon",
+          "use": "人の頼み事や要求によって、負担を押しつけられたと感じる。",
+          "example": "She felt imposed upon when everyone expected her to organize the trip.",
+          "translation": "皆が旅行の手配を当然のように彼女に任せたので、彼女は負担を押しつけられたと感じた。"
+        }
+      ],
+      "notes": [
+        "この用法では課すものを直接目的語にしない。impose on you が「あなたに甘えて負担をかける」、impose a rule on you が語義1の「あなたに規則を課す」である。相手が文脈で明らかなら I don't want to impose. と on 以下を省ける。on を小辞として分離せず、impose you on にはしない。feel imposed upon は on/upon の目的語に当たる人を主語にした受動的表現で、「規則などが課された」という受動態とは構造が異なる。遠慮の発言だけで実際に迷惑だったと確定するわけではなく、相手から You're not imposing. と返せる。語義9の「だます」と形が似るが、現代の普通の会話では、頼み事・時間・もてなしの文脈ならこの語義をまず考える。"
+      ],
+      "synonyms": [
+        {
+          "word": "take advantage of",
+          "definition": "他人の好意などを、自分のために不当に利用する。",
+          "frequency": 7,
+          "difference": "人や親切を目的語にするこの用法では、impose on より意図的・身勝手な利用を強く批判しやすい。機会を生かす中立的な意味とは別。",
+          "example": "Don't take advantage of her generosity.",
+          "translation": "彼女の気前のよさにつけ込まないで。"
+        },
+        {
+          "word": "presume on",
+          "definition": "相手の親切や関係を当てにして、遠慮なく頼る。",
+          "frequency": 4,
+          "difference": "相手が応じてくれると当然視する点を強調する、impose on より改まった表現。presume upon ともいう。",
+          "example": "I hope I am not presuming on our friendship by asking this favor.",
+          "translation": "このお願いをすることで、友人だからと甘えすぎていないとよいのですが。"
+        },
+        {
+          "word": "trouble",
+          "definition": "人に手間や面倒をかける。",
+          "frequency": 7,
+          "difference": "trouble someone のように人を直接目的語にする。impose on にある「好意に頼りすぎる」含みは必須ではない。",
+          "example": "May I trouble you for a glass of water?",
+          "translation": "お手数ですが、水を1杯いただけますか。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【動詞・他動詞・主に再帰用法】自分の存在を押しつける、存在感を示す",
+      "frequency": 5,
+      "register": [
+        "一般、報道、スポーツ、社会・歴史の説明。単に好意に甘える語義4より、自分自身の参加・存在・影響が前面に出る。"
+      ],
+      "definition": "相手が望んでいるとは限らないのに、自分との付き合いや自分の存在を受け入れさせる。また、人・集団などが強い存在感や影響力を示し、周囲に認めさせる。迷惑な割込みを表す場合と、競技などで主導権を示す場合があり、評価は文脈による。",
+      "patterns": [
+        "impose oneself on someone",
+        "impose oneself upon someone",
+        "impose one's presence on someone/something",
+        "impose oneself on 〈a game/an organization〉",
+        "〈文化/制度など〉 + impose itself on 〈対象〉"
+      ],
+      "collocations": [
+        {
+          "pattern": "impose oneself on someone",
+          "use": "招かれていないのに、一緒に過ごすことなどを相手に受け入れさせる。",
+          "example": "He did not want to impose himself on the couple during their holiday.",
+          "translation": "彼は、休暇中のそのカップルに自分まで付き合わせたくなかった。"
+        },
+        {
+          "pattern": "impose one's presence on someone/something",
+          "use": "自分がそこにいることを、相手の意向を顧みず押しつける。",
+          "example": "She disliked the way he imposed his presence on every private gathering.",
+          "translation": "内輪の集まりのたびに彼が強引に加わってくるのを、彼女は嫌がっていた。"
+        },
+        {
+          "pattern": "impose oneself on a game",
+          "use": "選手などが試合の中で存在感を示し、展開に強く影響する。",
+          "example": "The midfielder began to impose herself on the game in the second half.",
+          "translation": "そのミッドフィルダーは後半になると存在感を示し、試合を動かし始めた。"
+        },
+        {
+          "pattern": "〈文化/制度など〉 + impose itself on 〈対象〉",
+          "use": "非人間の主語が、他の社会や活動に強く入り込んで影響する。",
+          "example": "The new corporate culture gradually imposed itself on every department.",
+          "translation": "新しい企業文化は、次第にすべての部署に浸透し、強い影響を及ぼした。"
+        }
+      ],
+      "notes": [
+        "能動態の impose oneself on ... では、自分自身を表す直接目的語が必要で、主語に合わせて myself、herself、themselves などを使う。ただし、語義4の impose on ... も別の成立した型なので、「impose では常に oneself が必要」と一般化しない。He imposed himself on us. は「彼が自分との付き合いを私たちに押しつけた」、He imposed his views on us. は語義3の「彼が自分の意見を押しつけた」、He imposed on us. は語義4の「彼が私たちの好意に甘えて負担をかけた」。再帰代名詞は impose の直後に置き、impose on us himself のように分離しない。impose one's presence は再帰代名詞を使わず、自分の存在を表す名詞句を直接目的語にする言い換え。be imposing は、語義6の形容詞だけでなく、The company is imposing new rules. のような他動詞の進行形、I hope I'm not imposing. のような語義4の自動詞の進行形にもなる。目的語や on 以下が続かないことだけで形容詞とは判断しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "intrude on",
+          "definition": "人の私的な時間や場所などに、望まれない形で入り込む。",
+          "frequency": 6,
+          "difference": "迷惑な参加という部分で重なるが、impose oneself のように自分の存在や影響を受け入れさせることより、境界を越えることに焦点がある。",
+          "example": "I did not want to intrude on their family time.",
+          "translation": "家族で過ごす時間に割り込みたくなかった。"
+        },
+        {
+          "word": "assert oneself",
+          "definition": "自分の意見や存在をはっきり示し、認めさせる。",
+          "frequency": 6,
+          "difference": "存在感を示す用法で重なり、主体性として肯定的にも使う。招かれていない場に押しかける意味は必須ではない。",
+          "example": "She began to assert herself more confidently in meetings.",
+          "translation": "彼女は会議で、以前より自信を持って自分の意見を示すようになった。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【形容詞・imposing・限定/叙述】堂々とした、威容のある",
+      "frequency": 6,
+      "register": [
+        "一般、文章での描写、建築、人物・規模・内容の評価。"
+      ],
+      "definition": "人・建物・姿などが、大きさや堂々とした外観・態度によって強い印象を与える。また、規模や内容の充実によって圧倒するような印象を与えるものにも使う。感嘆や畏敬を感じさせることが多いが、親しみやすさや人格のよさを保証せず、圧倒されるような印象にも使う。",
+      "patterns": [
+        "an imposing 〈building/figure/presence〉",
+        "look imposing",
+        "be imposing",
+        "a physically imposing 〈person/figure〉",
+        "more imposing than 〈比較対象〉",
+        "an imposing array of 〈skills/qualifications〉"
+      ],
+      "collocations": [
+        {
+          "pattern": "an imposing building（impose の形容詞形）",
+          "use": "建物の大きさや堂々とした外観を描く。",
+          "example": "An imposing stone building stood at the top of the hill.",
+          "translation": "丘の頂上に、威容を誇る石造りの建物が立っていた。"
+        },
+        {
+          "pattern": "an imposing figure（impose の形容詞形）",
+          "use": "体格や風格によって強い印象を与える人物を描く。",
+          "example": "In her long coat, she was an imposing figure at the entrance.",
+          "translation": "長いコートを着て入口に立つ彼女には、堂々とした存在感があった。"
+        },
+        {
+          "pattern": "look imposing（impose の形容詞形）",
+          "use": "見た目が堂々としていることを述べる。",
+          "example": "The castle looks especially imposing from the river.",
+          "translation": "川から見ると、その城はひときわ堂々として見える。"
+        },
+        {
+          "pattern": "more imposing than 〈比較対象〉（impose の形容詞形）",
+          "use": "外観の迫力を比較する。",
+          "example": "The new entrance is more imposing than the old one.",
+          "translation": "新しい入口は、以前のものより威風堂々としている。"
+        },
+        {
+          "pattern": "an imposing array of 〈skills/qualifications〉（impose の形容詞形）",
+          "use": "技能や資格などが豊富にそろい、強い印象を与えることを示す。",
+          "example": "The applicant had an imposing array of skills.",
+          "translation": "その応募者は、目を見張るほど多彩な技能を備えていた。"
+        }
+      ],
+      "notes": [
+        "imposing はこの語義では形容詞で、very imposing や more imposing のように程度・比較を表せる。The building is imposing. は「建物が堂々としている」。The company is imposing new rules. の imposing は目的語 new rules を伴う進行形で「課している」。The rules were imposed. は受動態で「規則が課された」であり、「堂々とした」とは関係がない。人について imposing と言っても、「押しつけがましい人」や「上司風を吹かせる人」を必ず意味するわけではない。そのような性格なら overbearing などが適する。"
+      ],
+      "synonyms": [
+        {
+          "word": "impressive",
+          "definition": "能力・外観・規模などによって、感心するような強い印象を与える。",
+          "frequency": 8,
+          "difference": "成績や技能などにも広く使える。imposing は堂々とした姿や存在感、圧倒するような規模に重点があり、技能そのものを褒める以外に、豊富な技能がそろう様子にも使う。",
+          "example": "The museum has an impressive entrance hall.",
+          "translation": "その博物館には、目を見張るような立派な玄関ホールがある。"
+        },
+        {
+          "word": "stately",
+          "definition": "外観や動きが堂々として、落ち着いた威厳がある。",
+          "frequency": 5,
+          "difference": "大きさや迫力だけでなく、優雅さや格調を強調する。imposing より文章語的。",
+          "example": "Stately trees lined the long driveway.",
+          "translation": "長い私道には、風格のある木々が並んでいた。"
+        },
+        {
+          "word": "commanding",
+          "definition": "姿や態度に、周囲の注意・敬意を引きつける力がある。",
+          "frequency": 5,
+          "difference": "commanding presence などでは指導力や威厳を感じさせる。imposing は建物や体格の視覚的な迫力にも広く使う。",
+          "example": "He had a commanding presence even before he began to speak.",
+          "translation": "話し始める前から、彼には周囲を引きつける威厳があった。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unimposing",
+          "definition": "外観や態度に、目を引くような威容がない。",
+          "frequency": 3,
+          "difference": "imposing の否定による外観・存在感の対立。価値や能力が低いという意味までは含まない。",
+          "example": "The unimposing house contained a remarkable art collection.",
+          "translation": "その外見は地味な家に、すばらしい美術コレクションが収められていた。"
+        },
+        {
+          "word": "unimpressive",
+          "definition": "特に感心させるほどの強い印象を与えない。",
+          "frequency": 6,
+          "difference": "印象の強さという程度上の対立。imposing の反対として外観に使えるが、能力・成果にも適用できる、より広い語。",
+          "example": "From the street, the building looked unimpressive.",
+          "translation": "通りから見ると、その建物はあまりぱっとしなかった。"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "【動詞・他動詞】面付けする",
+      "frequency": 2,
+      "register": [
+        "印刷、製版、製本。日常の「置く」「並べる」を一般に impose で表すわけではない。"
+      ],
+      "definition": "印刷・製本で、印刷後に折ったり綴じたりすると正しいページ順になるよう、複数のページを印刷用の面に配置する。デジタルの印刷準備にも使う専門語。",
+      "patterns": [
+        "impose pages",
+        "impose a document for booklet printing",
+        "be imposed for printing"
+      ],
+      "collocations": [
+        {
+          "pattern": "impose pages",
+          "use": "折り・綴じを考慮した印刷用のページ配置を行う。",
+          "example": "The software imposes the pages so that they appear in the correct order after folding.",
+          "translation": "そのソフトは、折った後に正しい順序になるようページを面付けする。"
+        },
+        {
+          "pattern": "impose a document for booklet printing",
+          "use": "小冊子として印刷するために、文書のページを面付けする。",
+          "example": "Before printing the booklet, we imposed the document using the print settings.",
+          "translation": "小冊子を印刷する前に、印刷設定を使って文書を面付けした。"
+        }
+      ],
+      "notes": [
+        "この語義の impose は「配置する」という歴史的な意味に関係する専門用法で、相手に規則を強制する意味ではない。ページそのものの読み順を単純に並べ替えるというより、印刷・折り・製本を見越して印刷面上に配置すること。名詞は imposition「面付け」。layout はページ内部の文字や画像の配置にも広く使うので、面付けの完全な同義語とはしない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【動詞・他動詞】儀礼として手を置く、灰を付ける",
+      "frequency": 2,
+      "register": [
+        "キリスト教の典礼・儀礼の説明。現代の教会文書にも残る専門用法で、日常の「置く」にそのまま広げない。"
+      ],
+      "definition": "キリスト教の儀礼で、人の頭などに手を置いたり、額などに灰を付けたりする。impose hands は按手すること、impose ashes は灰を付けることを表す。相手に信仰を強制する意味ではない。",
+      "patterns": [
+        "impose hands on someone",
+        "impose one's hands on someone",
+        "impose ashes on 〈the forehead/the head〉",
+        "ashes are imposed"
+      ],
+      "collocations": [
+        {
+          "pattern": "impose one's hands on someone",
+          "use": "叙階などの儀礼で、相手に手を置くことを表す。",
+          "example": "The bishop imposed his hands on each candidate during the ordination.",
+          "translation": "司教は叙階式で、候補者1人ひとりに按手した。"
+        },
+        {
+          "pattern": "impose ashes on the forehead",
+          "use": "灰の水曜日の儀礼で、額に灰を付けることを表す。",
+          "example": "At the Ash Wednesday service, the priest imposed ashes on the foreheads of the worshippers.",
+          "translation": "灰の水曜日の礼拝で、司祭は参列者たちの額に灰を付けた。"
+        }
+      ],
+      "notes": [
+        "この用法は「物を置く」という歴史的な意味が儀礼の語彙として残ったもの。手を置く行為は一般向けには lay hands on someone、灰を付ける行為は apply ashes などとも説明できる。儀礼の名称・実施者・具体的な作法は教派によって異なる。impose religion on someone なら語義3の信仰の押しつけで、impose hands on someone と取り違えない。"
+      ],
+      "synonyms": [
+        {
+          "word": "lay hands on",
+          "definition": "宗教儀礼として、人の頭などに手を置く。",
+          "frequency": 3,
+          "difference": "この宗教的な意味では impose hands に対応し、比較的一般向けの説明でも使われる。文脈がなければ、人を捕まえるなど別の意味にもなる。",
+          "example": "The bishop laid hands on the candidates during the ceremony.",
+          "translation": "司教は式の中で、候補者たちに按手した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 9,
+      "title": "【動詞・自動詞＋on/upon】だます、欺く",
+      "frequency": 2,
+      "register": [
+        "低頻度、主に文章語。古い小説などでも遭遇する。"
+      ],
+      "definition": "虚偽の話や見せかけによって、人に本当でないことを信じさせる。impose on/upon someone という形の低頻度の用法で、現代の一般会話で多い「好意に甘えて負担をかける」とは区別する。",
+      "patterns": [
+        "impose on/upon someone",
+        "be imposed upon"
+      ],
+      "collocations": [
+        {
+          "pattern": "impose upon someone",
+          "use": "偽りの話で相手をだますことを、文章で述べる。",
+          "example": "The impostor imposed upon the villagers with tales of a fortune that did not exist.",
+          "translation": "その詐欺師は、存在しない財産の話で村人たちをだました。"
+        },
+        {
+          "pattern": "be imposed upon",
+          "use": "虚偽を信じ込まされる側を主語にする。",
+          "example": "She soon discovered that she had been imposed upon: the jewels were worthless glass.",
+          "translation": "彼女はすぐに、だまされていたと気づいた。宝石は価値のないガラスだった。"
+        }
+      ],
+      "notes": [
+        "I don't want to impose on you. は通常、語義4の遠慮を表す言い方で、「あなたをだましたくない」とは解釈しない。この低頻度の語義を判別するには、詐欺・虚偽などの文脈が必要。on/upon の後ろがだまされる相手で、代名詞も impose upon him と前置詞の後ろに置く。語義10では偽りの物を直接目的語に取るので、構造を分けて覚える。"
+      ],
+      "synonyms": [
+        {
+          "word": "deceive",
+          "definition": "人に、本当でないことを信じさせる。",
+          "frequency": 7,
+          "difference": "現代英語の一般的な言い方で、deceive someone と人を直接目的語にする。この意味の impose upon より幅広い場面で使いやすい。",
+          "example": "The forged letter deceived even the experts.",
+          "translation": "偽造された手紙は、専門家さえだました。"
+        },
+        {
+          "word": "take in",
+          "definition": "人をだまし、偽りを信じ込ませる。",
+          "frequency": 6,
+          "difference": "くだけた言い方で、be taken in という受動態も多い。代名詞目的語は take him in の順にする。",
+          "example": "I was taken in by his convincing story.",
+          "translation": "私は彼のもっともらしい話にだまされた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 10,
+      "title": "【動詞・他動詞】偽りの物を本物らしく押しつける",
+      "frequency": 2,
+      "register": [
+        "低頻度、主に文章語。通常の会話では pass off や palm off などで表す。"
+      ],
+      "definition": "偽物や虚偽の説明などを、価値や真実性があるもののように見せて相手に受け入れさせる。だまされる人を on/upon の後ろに置き、偽りの物を直接目的語にする低頻度の用法。",
+      "patterns": [
+        "impose 〈偽物/虚偽〉 on someone",
+        "impose 〈偽物/虚偽〉 upon someone"
+      ],
+      "collocations": [
+        {
+          "pattern": "impose 〈偽物/虚偽〉 on someone",
+          "use": "偽物を本物のように受け入れさせる行為を、文章で述べる。",
+          "example": "The dealer imposed worthless copies on collectors as rare originals.",
+          "translation": "その商人は、価値のない複製品を希少な原作だとして収集家たちに売りつけた。"
+        }
+      ],
+      "notes": [
+        "impose fake antiques on buyers のように「何を受け入れさせるか」が直接目的語になる点で、語義9の impose on buyers「買い手をだます」と異なる。語義3の impose one's views on others には、意見が虚偽だという意味はない。この低頻度の語義を示す例では、偽物・虚偽であることを文脈に含める必要がある。"
+      ],
+      "synonyms": [
+        {
+          "word": "pass off",
+          "definition": "偽りの物などを、本物や別の種類の物であるかのように見せて受け入れさせる。",
+          "frequency": 6,
+          "difference": "pass something off as something の形が現代では自然で、何だと偽ったかを as で明示できる。",
+          "example": "He passed the copy off as an original painting.",
+          "translation": "彼はその複製を本物の絵画と偽った。"
+        },
+        {
+          "word": "palm off",
+          "definition": "偽物や粗悪な物などを、相手をだまして押しつける。",
+          "frequency": 4,
+          "difference": "palm something off on someone の形で、売り手などが厄介な物を相手に渡す、くだけた否定的な表現。",
+          "example": "The shop tried to palm damaged goods off on unsuspecting customers.",
+          "translation": "その店は、事情を知らない客に傷物を押しつけようとした。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

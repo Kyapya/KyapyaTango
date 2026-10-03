@@ -1,0 +1,675 @@
+{
+  "word": "dismiss",
+  "slug": "dismiss",
+  "ipa": "米・英: /dɪsˈmɪs/",
+  "lead": "考え・主張・懸念、または人を、真剣に考慮するほど重要・妥当ではないと判断して退ける。軽視や性急な判断を感じさせる場合があるが、dismiss after careful consideration のように検討後にも使え、必ず「考えもせずに無視する」という意味ではない。",
+  "updated": "2026-10-03",
+  "notion_url": "https://app.notion.com/p/dismiss-3ee4faa9b77d81b8811bdb07cf143b32",
+  "pronunciation": [
+    "2音節で、第2音節に主強勢を置く。両方の母音は /ɪ/。語末は /s/ で、/z/ ではない。dismissed は /dɪsˈmɪst/、dismisses は /dɪsˈmɪsɪz/ になる。"
+  ],
+  "etymology": [
+    "ラテン語 dimittere「送り出す、行かせる」の過去分詞 dimissus に由来し、dis-「離れて」と mittere「送る」に関係する。人をその場や職務から退かせる用法と、考えを検討の対象から外す用法がある。同じ mittere にさかのぼる語には emit「放出する」と transmit「送る、伝える」がある。現代の miss「逃す、いなくて寂しく思う」と dis- を組み合わせた語ではない。"
+  ],
+  "formation": [
+    {
+      "term": "dismissal",
+      "description": "解雇・退去の指示・却下などを表す名詞。個別の処分には可算、行為や扱いを一般に述べる場合には不可算で使う。"
+    },
+    {
+      "term": "dismissive",
+      "description": "人や意見を取るに足りないものとして扱う形容詞。dismissive of criticism は「批判を軽くあしらう」で、「解雇された」ではない。"
+    },
+    {
+      "term": "dismissively",
+      "description": "軽くあしらうように、取り合わない態度で、という副詞。"
+    },
+    {
+      "term": "dismissed",
+      "description": "過去形・過去分詞。a dismissed employee は「解雇された従業員」、a dismissed claim は「退けられた申し立て」などで、元の動詞の意味を文脈から判断する。"
+    }
+  ],
+  "core": [
+    {
+      "label": "人・事柄を、それまで置かれていた場・役割・注意の対象から退かせる。考えを取り合わないことから職を解くこと、画面上の表示を閉じることまで、何をどこから退かせるかが変わる。",
+      "description": ""
+    },
+    {
+      "label": "注意の対象から退かせる判断",
+      "description": "→ 「取り合わない、退ける」（語義1）"
+    },
+    {
+      "label": "職務から退かせる処置",
+      "description": "→ 「解雇する、解任する」（語義2）"
+    },
+    {
+      "label": "その場から退かせる指示・許可",
+      "description": "→ 「退出させる、解散させる」（語義3）"
+    },
+    {
+      "label": "意識の中から退かせる働き",
+      "description": "→ 「頭から追い払う」（語義4）"
+    },
+    {
+      "label": "画面から退かせる操作",
+      "description": "→ 「通知や画面表示を閉じる、消す」（語義5）"
+    },
+    {
+      "label": "裁判の審理対象から退かせる処置",
+      "description": "→ 「訴えなどを退ける、審理を打ち切る」（語義6）"
+    },
+    {
+      "label": "試合の場から退かせる処分",
+      "description": "→ 「選手を退場させる」（語義7）"
+    },
+    {
+      "label": "打撃の場から退かせるプレー",
+      "description": "→ 「打者をアウトにする」（語義8）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞】取り合わない、退ける",
+      "frequency": 8,
+      "register": [
+        "一般、報道、議論、仕事。人物への dismiss は、この語義では相手の意見や能力などをまともに評価しないことを表す。"
+      ],
+      "definition": "考え・主張・懸念、または人を、真剣に考慮するほど重要・妥当ではないと判断して退ける。軽視や性急な判断を感じさせる場合があるが、dismiss after careful consideration のように検討後にも使え、必ず「考えもせずに無視する」という意味ではない。",
+      "patterns": [
+        "dismiss 〈an idea/a claim/a concern〉",
+        "dismiss someone",
+        "dismiss someone/something as 〈名詞句/形容詞句〉",
+        "dismiss the idea that 〈節〉",
+        "dismiss something out of hand",
+        "be dismissed as 〈名詞句/形容詞句〉"
+      ],
+      "collocations": [
+        {
+          "pattern": "dismiss an idea",
+          "use": "提案や考えを検討・採用に値しないと判断する。",
+          "example": "The team dismissed the idea because it depended on technology that did not yet exist.",
+          "translation": "その案はまだ存在しない技術を前提としていたため、チームは退けた。"
+        },
+        {
+          "pattern": "dismiss a concern",
+          "use": "心配や懸念を重要ではないとして扱う。",
+          "example": "The manager dismissed our concerns about the workload.",
+          "translation": "部長は、仕事量に関する私たちの懸念を取り合わなかった。"
+        },
+        {
+          "pattern": "dismiss something as 〈形容詞句〉",
+          "use": "どのように評価して退けたかを示す。",
+          "example": "She dismissed the accusation as completely unfounded.",
+          "translation": "彼女は、その非難にはまったく根拠がないとして退けた。"
+        },
+        {
+          "pattern": "dismiss someone as 〈名詞句〉",
+          "use": "人物をある種類の人と決めつけ、まともに評価しない。",
+          "example": "Critics initially dismissed him as an amateur, but his research proved influential.",
+          "translation": "批評家たちは当初、彼を素人だと軽視したが、その研究は大きな影響を与えた。"
+        },
+        {
+          "pattern": "dismiss the idea that 〈節〉",
+          "use": "内容を that 節で示した考えを退ける。",
+          "example": "We should not dismiss the idea that customers may want a simpler product.",
+          "translation": "顧客はもっと簡単な製品を求めているかもしれないという考えを、退けるべきではない。"
+        },
+        {
+          "pattern": "dismiss something out of hand",
+          "use": "十分に検討せず、その場で退けることを明示する。",
+          "example": "Her proposal was dismissed out of hand without a discussion.",
+          "translation": "彼女の提案は話し合いもなく一蹴された。"
+        }
+      ],
+      "notes": [
+        "dismiss はこの語義では直接目的語を取る。dismiss the suggestion が基本で、dismiss about the suggestion とはしない。as の後ろは名詞句または形容詞句で、dismiss it as impractical と言える。dismiss the idea that ... の that 節は idea の内容を説明しており、「～だと退ける」のつもりで dismiss that ... を一般的な型として使わない。dismiss a complaint は一般には「苦情を取り合わない」だが、裁判所が法的な申立てを処理する文脈なら語義6。人を直接目的語にした dismiss him は、軽視・解雇・退出のいずれにもなり得るので、as inexperienced、from his job、その場の状況などで判断する。"
+      ],
+      "synonyms": [
+        {
+          "word": "reject",
+          "definition": "提案・主張などを受け入れないと決める。",
+          "frequency": 8,
+          "difference": "不採用や否定の決定が中心で、相手を軽視する態度は必須ではない。dismiss は検討に値するものとして扱わない含みを持ちやすい。",
+          "example": "The committee rejected the proposal after a detailed review.",
+          "translation": "委員会は詳しい検討の後、その提案を却下した。"
+        },
+        {
+          "word": "disregard",
+          "definition": "ある情報・意見などを考慮に入れない。",
+          "frequency": 6,
+          "difference": "判断や行動の際に取り上げないことが中心。dismiss のように価値がないと評価して退けるとは限らない。",
+          "example": "Please disregard the earlier estimate.",
+          "translation": "先ほどの見積もりは考慮から外してください。"
+        },
+        {
+          "word": "brush aside",
+          "definition": "意見や懸念を重要でないものとして払いのける。",
+          "frequency": 6,
+          "difference": "dismiss より、他人の意見に十分向き合わず軽く扱う態度を描きやすい。",
+          "example": "He brushed aside their objections and continued with the plan.",
+          "translation": "彼は皆の反対意見をはねつけ、計画を進めた。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "take seriously",
+          "definition": "人・意見・懸念などを重要なものとして受け止める。",
+          "frequency": 8,
+          "difference": "考慮に値しないとして退ける態度と、重要だと認めて向き合う態度の対立。意見への賛成までは意味しない。",
+          "example": "We take every safety concern seriously.",
+          "translation": "私たちは安全上の懸念をすべて真剣に受け止めている。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【動詞・他動詞】解雇する、解任する",
+      "frequency": 7,
+      "register": [
+        "雇用、人事、報道。fire や、特にイギリス英語で口語的な sack より改まった表現。"
+      ],
+      "definition": "雇用者や権限を持つ組織などが、人を仕事・役職から正式に外す。能力不足や不正が理由のこともあるが、それらを理由として必ず含むわけではなく、解雇が正当であることも保証しない。",
+      "patterns": [
+        "dismiss 〈an employee/a manager〉",
+        "dismiss someone from 〈a job/a post〉",
+        "dismiss someone for 〈理由を表す名詞句/動名詞句〉",
+        "be dismissed",
+        "be unfairly dismissed",
+        "summarily dismiss someone"
+      ],
+      "collocations": [
+        {
+          "pattern": "dismiss an employee",
+          "use": "雇用者が従業員を解雇する。",
+          "example": "The company dismissed two employees following an internal investigation.",
+          "translation": "社内調査の後、会社は従業員2人を解雇した。"
+        },
+        {
+          "pattern": "dismiss someone from 〈a job/a post〉",
+          "use": "どの仕事・役職から外されたかを明示する。",
+          "example": "He was dismissed from his post as director.",
+          "translation": "彼は取締役の職を解かれた。"
+        },
+        {
+          "pattern": "dismiss someone for 〈理由を表す名詞句/動名詞句〉",
+          "use": "解雇の理由を示す。",
+          "example": "She was dismissed for falsifying expense reports.",
+          "translation": "彼女は経費報告書を偽造したため解雇された。"
+        },
+        {
+          "pattern": "be unfairly dismissed",
+          "use": "不当な解雇だったという主張や判断を述べる。",
+          "example": "He believes he was unfairly dismissed and is challenging the decision.",
+          "translation": "彼は不当に解雇されたと考え、その決定に異議を申し立てている。"
+        },
+        {
+          "pattern": "summarily dismiss someone",
+          "use": "通常の予告などを経ずに即時に解雇したことを述べる。",
+          "example": "The firm summarily dismissed the employee after discovering the theft.",
+          "translation": "盗難の事実を発見した後、その会社は従業員を即時解雇した。"
+        }
+      ],
+      "notes": [
+        "受動態の be dismissed がよく使われる。「仕事を辞める」という本人側の行為は resign または quit で、I dismissed my job とはしない。dismiss someone for doing ... は自然だが、解雇理由を to 不定詞で置いた dismiss someone to do ... は別の意味になるか不自然になる。from は辞めさせられた職、for は理由を示す。summarily は即時に行う処置を表し、その解雇が合法かどうかまでは述べない。unfair dismissal と wrongful dismissal は法域によって要件が異なる法律用語でもあり、一般語の「不当」とだけ対応させて法的な意味を同一視しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "fire",
+          "definition": "人を仕事から辞めさせる。",
+          "frequency": 8,
+          "difference": "日常会話で広く使う直接的な表現。dismiss よりくだけており、解雇された人にとって厳しい響きになりやすい。",
+          "example": "The company fired him for repeatedly ignoring safety rules.",
+          "translation": "会社は、安全規則を繰り返し無視した彼を解雇した。"
+        },
+        {
+          "word": "sack",
+          "definition": "人を仕事から辞めさせる。",
+          "frequency": 6,
+          "difference": "特にイギリス英語の口語で使う。正式な人事上の説明には dismiss が適する場面が多い。",
+          "example": "The club sacked its manager after a series of defeats.",
+          "translation": "連敗の後、クラブは監督を解任した。"
+        },
+        {
+          "word": "lay off",
+          "definition": "仕事不足などで従業員を一時休業させたり、解雇したりする。",
+          "frequency": 7,
+          "difference": "労働者本人の非より、雇用側の仕事や資金の不足に焦点がある。一時的か恒久的かは地域・制度・文脈による。",
+          "example": "The factory laid off workers when demand fell.",
+          "translation": "需要が落ち込むと、工場は従業員を削減した。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "hire",
+          "definition": "人を雇用する。",
+          "frequency": 9,
+          "difference": "雇用関係を始める方向と、dismiss で終わらせる方向の対立。すべての役職への就任を表すわけではない。",
+          "example": "The company plans to hire three engineers.",
+          "translation": "会社は技術者を3人採用する予定だ。"
+        },
+        {
+          "word": "retain",
+          "definition": "人を引き続き雇用・在職させる。",
+          "frequency": 6,
+          "difference": "現在の職にとどめるか、解雇・解任するかという処遇の対立。新規に雇う hire とは違う。",
+          "example": "The new owners decided to retain the existing staff.",
+          "translation": "新しいオーナーは、現在の従業員の雇用を継続すると決めた。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【動詞・他動詞】退出させる、解散させる",
+      "frequency": 6,
+      "register": [
+        "学校、軍隊、職場などの指示。立場が上の人から下の人へ向けた響きがある。"
+      ],
+      "definition": "権限を持つ人が、相手にその場を去るよう指示したり、もう帰ってよいと許可したりする。授業中の生徒や整列した部隊など、集団を解散させる場合にも使う。仕事を失わせる語義2とは異なり、その場での拘束や参加を終えることが中心。",
+      "patterns": [
+        "dismiss the class",
+        "dismiss 〈the students/the troops〉",
+        "dismiss someone from 〈the room/the meeting〉",
+        "be dismissed early",
+        "You are dismissed.",
+        "Dismissed!"
+      ],
+      "collocations": [
+        {
+          "pattern": "dismiss the class",
+          "use": "教師が授業を終え、生徒を帰してよいとする。",
+          "example": "The teacher dismissed the class ten minutes early.",
+          "translation": "教師は授業を10分早く切り上げ、生徒たちを帰した。"
+        },
+        {
+          "pattern": "dismiss the troops",
+          "use": "整列や招集を終え、部隊に解散を命じる。",
+          "example": "After the briefing, the officer dismissed the troops.",
+          "translation": "説明が終わると、将校は部隊に解散を命じた。"
+        },
+        {
+          "pattern": "dismiss someone from 〈the room/the meeting〉",
+          "use": "特定の場から相手を退出させる。",
+          "example": "The chair dismissed the witnesses from the room before the private discussion.",
+          "translation": "非公開の話し合いに入る前に、議長は証人たちを退室させた。"
+        },
+        {
+          "pattern": "You are dismissed.",
+          "use": "相手にもうその場を去ってよいと伝える。",
+          "example": "Thank you for your report. You are dismissed.",
+          "translation": "報告ありがとう。もう下がってよい。"
+        },
+        {
+          "pattern": "Dismissed!",
+          "use": "部隊などに、短く解散を命じる。",
+          "example": "The officer called out, \"Dismissed!\"",
+          "translation": "将校は「解散！」と号令をかけた。"
+        }
+      ],
+      "notes": [
+        "dismiss the class の class は授業に参加している集団を指す。授業を実施前に取りやめる cancel the class とは違う。Class dismissed. は The class is dismissed. に相当する定型的な言い方で、動詞の通常の自動詞用法を示すものではない。You are dismissed. は立場によっては高圧的に聞こえるので、同僚や友人へ気軽に「帰っていいよ」と言う一般表現として使わない。dismiss someone from the meeting は会議からの退出、dismiss someone from their job は語義2の解雇である。"
+      ],
+      "synonyms": [
+        {
+          "word": "send away",
+          "definition": "人にその場を離れさせる、別の場所へ行かせる。",
+          "frequency": 7,
+          "difference": "dismiss のような正式な指示・許可に限らず、家から追い返す場合などにも使う。",
+          "example": "The guard sent the visitors away because the building was closed.",
+          "translation": "建物が閉まっていたので、警備員は訪問者を帰らせた。"
+        },
+        {
+          "word": "excuse",
+          "definition": "人に、その場を離れたり参加を終えたりすることを許可する。",
+          "frequency": 6,
+          "difference": "相手の事情や申し出を認めて退出を許す点に焦点がある。dismiss は指示する側から参加を終わらせる場合にも使う。",
+          "example": "The teacher excused Maya so that she could attend her appointment.",
+          "translation": "教師は、マヤが予約の用事に行けるよう退出を許した。"
+        },
+        {
+          "word": "release",
+          "definition": "人を拘束・義務などから解放して自由にする。",
+          "frequency": 7,
+          "difference": "その場から帰す点では重なるが、逮捕や監禁からの釈放も含み、dismiss より拘束の解除を広く表す。",
+          "example": "The police released the witnesses after questioning them.",
+          "translation": "警察は事情を聴いた後、証人たちを帰した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞・他動詞】頭から追い払う",
+      "frequency": 6,
+      "register": [
+        "一般、物語、心理の描写。日常会話では put it out of your mind などもよく使う。"
+      ],
+      "definition": "考え・不安・記憶、または誰かのことを、それ以上考えないよう意識から退ける。重要性や正しさを否定する語義1と重なる場合もあるが、ここでは考え続けるのをやめることが中心であり、その内容が間違っていると判断するとは限らない。",
+      "patterns": [
+        "dismiss 〈a thought/a fear/a worry〉",
+        "dismiss someone/something from one's mind",
+        "dismiss something from one's thoughts",
+        "cannot dismiss 〈a thought/a fear〉"
+      ],
+      "collocations": [
+        {
+          "pattern": "dismiss a thought",
+          "use": "浮かんだ考えを払いのけ、考えるのをやめる。",
+          "example": "She dismissed the thought of work for the evening and opened her novel.",
+          "translation": "彼女はその晩は仕事のことを頭から追い払い、小説を開いた。"
+        },
+        {
+          "pattern": "dismiss something from one's mind",
+          "use": "ある事柄を意識から追い払う。",
+          "example": "I tried to dismiss the embarrassing incident from my mind and get some sleep.",
+          "translation": "恥ずかしい出来事を頭から追い払って、少し眠ろうとした。"
+        },
+        {
+          "pattern": "dismiss someone from one's mind",
+          "use": "ある人物のことを考えるのをやめる。",
+          "example": "He dismissed his rival from his mind and concentrated on his own performance.",
+          "translation": "彼はライバルのことを考えるのをやめ、自分の演技に集中した。"
+        },
+        {
+          "pattern": "cannot dismiss a fear",
+          "use": "気になる思いを頭から追い払えないことを表す。",
+          "example": "She could not dismiss the fear that she had left the door unlocked.",
+          "translation": "ドアに鍵をかけ忘れたのではないかという不安が、彼女の頭から離れなかった。"
+        }
+      ],
+      "notes": [
+        "from one's mind の one's は、その考えを払いのける人に合わせる。dismiss it from my mind の it は直接目的語で、from は取り除く元を示す前置詞。語義1の dismiss his fears as irrational は「不合理だとして彼の不安を退ける」、この語義の dismiss my fears from my mind は「自分の不安を頭から追い払う」である。forget は自然に忘れる場合も含むが、dismiss は意識的に考えを退ける行為を描きやすい。cannot dismiss ... は、その考えや不安を頭から追い払えないことを表す。"
+      ],
+      "synonyms": [
+        {
+          "word": "put out of one's mind",
+          "definition": "あることを意識から追い出し、考えないようにする。",
+          "frequency": 7,
+          "difference": "dismiss ... from one's mind より日常的で、考えの価値を否定する含みを避けやすい。",
+          "example": "Try to put the argument out of your mind for now.",
+          "translation": "今はひとまず、その口論のことを考えないようにしてみて。"
+        },
+        {
+          "word": "banish",
+          "definition": "不安や考えなどを意識から強く追い払う。",
+          "frequency": 5,
+          "difference": "この心理的な意味では dismiss より強く、すっかり取り除こうとする響きがある。やや文章語的。",
+          "example": "She tried to banish all thoughts of failure.",
+          "translation": "彼女は失敗への思いをすべて振り払おうとした。"
+        },
+        {
+          "word": "set aside",
+          "definition": "気がかりや個人的感情などをいったん脇に置く。",
+          "frequency": 7,
+          "difference": "後で再び扱う可能性を残し、別のことに集中するため一時的に保留する場合にも使う。",
+          "example": "He set aside his worries and listened to the music.",
+          "translation": "彼は心配事をひとまず脇に置いて、音楽に耳を傾けた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【動詞・他動詞】通知や画面表示を閉じる、消す",
+      "frequency": 6,
+      "register": [
+        "コンピューター、スマートフォン、アプリの操作説明。"
+      ],
+      "definition": "画面に出ている通知・ダイアログ・ポップアップなどを閉じたり、表示から取り除いたりする。内容を重要でないと判断すること自体ではなく、画面上の要素を片づける操作を指す。",
+      "patterns": [
+        "dismiss a notification",
+        "dismiss a dialog",
+        "dismiss a pop-up",
+        "dismiss something by 〈動名詞句〉",
+        "tap to dismiss",
+        "be dismissed automatically"
+      ],
+      "collocations": [
+        {
+          "pattern": "dismiss a notification",
+          "use": "画面に出た通知を消す。",
+          "example": "Swipe up to dismiss the notification and continue reading.",
+          "translation": "上にスワイプして通知を消し、そのまま読み進めてください。"
+        },
+        {
+          "pattern": "dismiss a dialog",
+          "use": "確認や入力などのために出たダイアログを閉じる。",
+          "example": "You can dismiss the dialog by pressing the Escape key.",
+          "translation": "Escape キーを押すと、そのダイアログを閉じられます。"
+        },
+        {
+          "pattern": "dismiss a pop-up",
+          "use": "一時的に現れた小さな画面表示を閉じる。",
+          "example": "Tap outside the box to dismiss the pop-up.",
+          "translation": "枠の外をタップすると、ポップアップが閉じます。"
+        },
+        {
+          "pattern": "be dismissed automatically",
+          "use": "操作しなくても表示が自動で消えることを述べる。",
+          "example": "The message is dismissed automatically after a few seconds.",
+          "translation": "そのメッセージは数秒後に自動で消えます。"
+        }
+      ],
+      "notes": [
+        "dismiss a notification は「通知を消す」であり、必ずその元のメールやメッセージを削除するわけではない。dismiss a dialog も、それまでの入力を保存するか破棄するかは画面の仕様や選んだボタンによる。dismiss は閉じる動作を述べる語で、save や delete と同一視しない。dismiss the warning が「警告を軽視する」なら語義1、画面上の警告表示を閉じるならこの語義。操作説明の tap to dismiss は、閉じる対象が画面から明らかなため目的語を省いた形である。"
+      ],
+      "synonyms": [
+        {
+          "word": "close",
+          "definition": "ウィンドウやダイアログなどを閉じる。",
+          "frequency": 8,
+          "difference": "画面を閉じる一般的な語。dismiss は一時的に現れた通知やダイアログを片づける場面で使いやすい。",
+          "example": "Close the settings window when you have finished.",
+          "translation": "作業が終わったら、設定ウィンドウを閉じてください。"
+        },
+        {
+          "word": "clear",
+          "definition": "通知などの表示項目を取り除く。",
+          "frequency": 7,
+          "difference": "clear all notifications のように一覧からまとめて除く場合にも使う。アプリによっては dismiss より除去する範囲が広い。",
+          "example": "Tap the button to clear all notifications.",
+          "translation": "ボタンをタップすると、通知がすべて消えます。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【動詞・他動詞・目的語を省くこともある】訴えなどを退ける、審理を打ち切る",
+      "frequency": 6,
+      "register": [
+        "法律、裁判報道。以下の with prejudice",
+        "without prejudice の区別は、特にアメリカの訴訟で使われる表現として示す。"
+      ],
+      "definition": "裁判所などが、訴訟・請求・上訴・申立てなどを退け、対象となる手続きを終了させる。また、当事者が手続きに従って訴えを取り下げる場合にも使う。対象と法域によって日本語は「却下」「棄却」「取下げ」などになり、dismiss の一語だけで理由や法的効果まで決まるわけではない。",
+      "patterns": [
+        "dismiss 〈a case/a claim/an appeal/an application〉",
+        "dismiss the charges against someone",
+        "be dismissed for lack of 〈evidence/jurisdiction〉",
+        "move to dismiss 〈a case/a claim〉",
+        "move to dismiss",
+        "dismiss a case with prejudice",
+        "dismiss a case without prejudice",
+        "voluntarily dismiss a lawsuit"
+      ],
+      "collocations": [
+        {
+          "pattern": "dismiss a case",
+          "use": "裁判所が事件の手続きを終わらせる。",
+          "example": "The judge dismissed the case for lack of jurisdiction.",
+          "translation": "裁判官は、裁判所に管轄権がないとして訴えを却下した。"
+        },
+        {
+          "pattern": "dismiss the charges against someone",
+          "use": "特定の人に対する起訴内容を退ける。",
+          "example": "The court dismissed the charges against her because the evidence was insufficient.",
+          "translation": "裁判所は証拠が不十分だとして、彼女に対する起訴を退けた。"
+        },
+        {
+          "pattern": "dismiss an appeal",
+          "use": "上訴を退ける。",
+          "example": "The court dismissed the appeal and left the original ruling in place.",
+          "translation": "裁判所は上訴を棄却し、元の判断を維持した。"
+        },
+        {
+          "pattern": "move to dismiss",
+          "use": "裁判所に、訴えなどを退けるよう正式に申し立てる。",
+          "example": "The defendant moved to dismiss, arguing that the claim had been filed too late.",
+          "translation": "被告は、請求の提起が期限を過ぎているとして、訴えを退けるよう申し立てた。"
+        },
+        {
+          "pattern": "dismiss a case with prejudice",
+          "use": "アメリカの訴訟で、同じ訴えを再び提起できない形で終わらせる。",
+          "example": "The court dismissed the case with prejudice, preventing the plaintiff from filing the same claim again.",
+          "translation": "裁判所は同じ請求を再提起できない形で事件を終結させた。"
+        },
+        {
+          "pattern": "dismiss a case without prejudice",
+          "use": "アメリカの訴訟で、その処分自体は再提起の可能性を閉ざさずに終わらせる。",
+          "example": "The case was dismissed without prejudice, leaving open the possibility of a new filing.",
+          "translation": "その事件は、再び訴えを起こす可能性を残した形で終結した。"
+        },
+        {
+          "pattern": "voluntarily dismiss a lawsuit",
+          "use": "当事者が自ら訴えを取り下げることを表す。",
+          "example": "The plaintiff voluntarily dismissed the lawsuit after reaching a settlement.",
+          "translation": "和解が成立した後、原告は訴えを自ら取り下げた。"
+        }
+      ],
+      "notes": [
+        "dismiss a case は無罪判決を出す acquit someone と同義ではない。証拠の問題だけでなく、管轄権や手続きの問題などでも用いられる。dismiss an appeal も、常に「審理する前に門前払いする」とは限らない。move to dismiss は申立てを行ったことを表し、裁判所が認めたことまでは含まない。この定型では目的語を省けるが、一般の「解雇する」などを同じように自由な自動詞として扱わない。with prejudice / without prejudice は偏見の有無ではなく再提起への効果を述べる表現で、without prejudice でも時効など別の制限がなくなるわけではない。訴えの自主的な取下げに必要な手続きは、進行段階と法域により異なる。"
+      ],
+      "synonyms": [
+        {
+          "word": "reject",
+          "definition": "法的な主張や申立てを受け入れない。",
+          "frequency": 6,
+          "difference": "一般的な「退ける」を法律の文脈でも使う語。dismiss のように特定の事件や請求を手続きから除く処分とは限らない。",
+          "example": "The court rejected the defendant's argument.",
+          "translation": "裁判所は被告の主張を退けた。"
+        },
+        {
+          "word": "throw out",
+          "definition": "裁判所が事件・請求などを退ける。",
+          "frequency": 6,
+          "difference": "dismiss の意味を報道や日常語で表す、よりくだけた言い方。正式な処分名としては dismiss が適する。",
+          "example": "The judge threw out the lawsuit because it had been filed in the wrong court.",
+          "translation": "提訴先の裁判所が適切でなかったため、裁判官は訴えを却下した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【動詞・他動詞】選手を退場させる",
+      "frequency": 5,
+      "register": [
+        "スポーツ報道。サッカーでは send off と同じ場面で使われる。"
+      ],
+      "definition": "サッカーなどで、審判が反則や不適切な行為を理由に選手を退場処分にする。その試合への参加を認めなくする処置であり、クラブから解雇する意味ではない。",
+      "patterns": [
+        "dismiss a player",
+        "be dismissed for 〈反則を表す名詞句/動名詞句〉",
+        "be dismissed after a second yellow card"
+      ],
+      "collocations": [
+        {
+          "pattern": "dismiss a player",
+          "use": "審判が選手を退場処分にしたことを述べる。",
+          "example": "The referee dismissed the defender for a dangerous tackle.",
+          "translation": "審判は、危険なタックルをした守備の選手を退場させた。"
+        },
+        {
+          "pattern": "be dismissed for 〈反則を表す名詞句/動名詞句〉",
+          "use": "退場の理由を示す。",
+          "example": "The striker was dismissed for striking an opponent.",
+          "translation": "そのストライカーは、相手選手を殴って退場処分になった。"
+        },
+        {
+          "pattern": "be dismissed after a second yellow card",
+          "use": "2枚目のイエローカードを受けて退場したことを述べる。",
+          "example": "The captain was dismissed after a second yellow card in the final minutes.",
+          "translation": "主将は終盤に2枚目のイエローカードを受け、退場した。"
+        }
+      ],
+      "notes": [
+        "サッカー報道の be dismissed for a foul は、語義2の職場からの解雇でも、語義8のクリケットでのアウトでもない。競技・目的語・for 以下の内容を確認する。サッカーでは for a dangerous tackle が退場理由、クリケットでは for 42 がアウトになるまでの得点を示す。dismiss だけでは、次の試合への出場停止の有無や期間までは分からない。"
+      ],
+      "synonyms": [
+        {
+          "word": "send off",
+          "definition": "反則などをした選手を、その試合から退場させる。",
+          "frequency": 6,
+          "difference": "特にサッカーで広く使う、dismiss より直接的な表現。分離可能で、代名詞では send him off とする。",
+          "example": "The referee sent him off for a second bookable offence.",
+          "translation": "審判は、2度目の警告対象の反則により彼を退場させた。"
+        },
+        {
+          "word": "eject",
+          "definition": "規則違反などを理由に、選手などを試合や競技場から退場させる。",
+          "frequency": 5,
+          "difference": "特にアメリカのスポーツ報道で使われ、野球やバスケットボールにも用いる。dismiss より強制的な退出を明確に表す。",
+          "example": "The player was ejected for arguing with the umpire.",
+          "translation": "その選手は審判に抗議して退場処分になった。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【動詞・他動詞】打者をアウトにする",
+      "frequency": 3,
+      "register": [
+        "クリケット。競技が盛んな地域のスポーツ報道で使われる。"
+      ],
+      "definition": "クリケットで、打者をアウトにしてその打撃を終わらせる。チーム全体を目的語にした場合は、打者を順にアウトにし、そのチームのイニングを終わらせることを表す。",
+      "patterns": [
+        "dismiss a batter",
+        "dismiss a team",
+        "be dismissed for 〈得点〉",
+        "be dismissed without scoring"
+      ],
+      "collocations": [
+        {
+          "pattern": "dismiss a batter",
+          "use": "打者をアウトにしたことを述べる。",
+          "example": "The bowler dismissed the opening batter with her first delivery.",
+          "translation": "その投手は最初の1球で先頭打者をアウトにした。"
+        },
+        {
+          "pattern": "be dismissed for 〈得点〉",
+          "use": "アウトになるまでに挙げた得点を示す。",
+          "example": "He was dismissed for 42 after being caught near the boundary.",
+          "translation": "彼は境界線付近で打球を捕球され、42点を挙げたところでアウトになった。"
+        },
+        {
+          "pattern": "dismiss a team",
+          "use": "相手チームの打撃を終わらせたことを述べる。",
+          "example": "The home side dismissed the visitors for 180.",
+          "translation": "ホームチームは相手を180点でオールアウトにした。"
+        },
+        {
+          "pattern": "be dismissed without scoring",
+          "use": "無得点のままアウトになったことを表す。",
+          "example": "The captain was dismissed without scoring in the second innings.",
+          "translation": "主将は第2イニングで無得点のままアウトになった。"
+        }
+      ],
+      "notes": [
+        "be dismissed for 42 の for は解雇理由ではなく得点を表す。この dismiss は試合出場禁止や退場処分を意味しない。サッカーの dismiss a player / send off は語義7の退場処分であり、同じ dismiss でも競技によって意味が異なる。bowled や caught はアウトになった具体的な方式を表し、dismiss はそれらを含む上位の語である。"
+      ],
+      "synonyms": [
+        {
+          "word": "get out",
+          "definition": "スポーツで相手をアウトにする。",
+          "frequency": 5,
+          "difference": "クリケットでも使える、より日常的な言い方。dismiss と違って語順の変化があり、代名詞では get him out とする。",
+          "example": "They finally got the batter out with a catch at slip.",
+          "translation": "スリップの位置での捕球によって、ようやくその打者をアウトにした。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
