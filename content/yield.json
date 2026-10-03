@@ -3,7 +3,7 @@
   "slug": "yield",
   "ipa": "米・英: /jiːld/。1音節で、長い /iː/ に主強勢がある。語頭の y は母音ではなく、yes の y と同じ子音 /j/。語末は /ld/ で、l の後に d を続けて発音する。",
   "lead": "土地、植物、方法、研究、努力などが、作物・製品・結果・情報・利益になるものを生み出す。何かを返すように得られる結果に焦点があり、主語が人でなくても使える。金融投資の利回りは語義2、名詞の産出量は語義9で扱う。",
-  "updated": "2026-10-01",
+  "updated": "2026-10-03",
   "notion_url": "https://app.notion.com/p/yield-3c84faa9b77d8121a482ebde7f6f6642",
   "pronunciation": [
     "三人称単数現在形 yields は /jiːldz/、過去形・過去分詞 yielded は /ˈjiːldɪd/、-ing形 yielding は /ˈjiːldɪŋ/。yielded の -ed は、語末が /d/ で終わるため /ɪd/ となり、2音節になる。",
@@ -11,62 +11,81 @@
   ],
   "etymology": [
     "yield は中英語 yelden を経て、古英語 gieldan / geldan「支払う、返す、報いる、差し出す」にさかのぼる。語源上は「持っているものを相手へ返す・差し出す」という関係があり、古高ドイツ語 geltan、現代ドイツ語 Geld「お金」とも同根とされる。",
-    "中英語期以降、この「返す・差し出す」関係から、土地や方法が産物・結果を返す用法、抵抗や支配を手放して相手に譲る用法、圧力で物がたわんで道を空ける用法が発達した。現代の「産出する」と「屈服する」は表面上は反対に見えるが、どちらも何かを外へ返す・手放すという歴史的な広がりを持つ。",
-    "yielding は「屈する、しなやかにたわむ、譲歩する」から「柔軟な、従順な」を表す形容詞にもなり、unyielding は「屈しない、頑固な、たわまない」。yielder は「産出するもの・人、屈する人」を表す。"
+    "「産出する」と「譲る・屈する」の用法は中英語期に現れた。現代では一見無関係に見えるこれらの意味も、歴史的には「支払う・差し出す」という古い意味につながっている。"
   ],
   "formation": [
     {
-      "term": "yields",
-      "description": "は yield の三人称単数現在形、yielded は過去形・過去分詞、yielding は現在分詞・動名詞である。yielded は語末の d と -ed の母音によって /ɪd/ を含む。"
+      "term": "yielding（形容詞）",
+      "description": "物の「柔軟な・たわみやすい」、人や態度の「譲歩的な」を表す。"
     },
     {
-      "term": "yielding",
-      "description": "は形容詞として「産出する・収益を生む」「柔軟な・たわみやすい」「譲歩的な」の意味でも使われる。high-yielding crops は「収量の多い作物」、income-yielding assets は「収入を生む資産」。unyielding は、柔軟性や譲歩を表す yielding の反対で、物について「たわまない」、人・態度について「屈しない、譲らない」を表す。"
+      "term": "unyielding（形容詞）",
+      "description": "否定の un- と yielding から成り、物の「たわまない」、人や態度の「屈しない・譲らない」を表す。"
     },
     {
-      "term": "名詞の複合表現には",
-      "description": "crop yield「作物収量」、bond yield「債券利回り」がある。yield sign「譲れ標識」は交通の「譲る」に、yield point「降伏点」は材料の物理的な降伏に関わる表現で、産出量を表す名詞の例とは区別する。"
+      "term": "high-yielding（複合形容詞）",
+      "description": "「収量・収益の多い」。high-yielding crops は「収量の多い作物」。"
+    },
+    {
+      "term": "income-yielding（複合形容詞）",
+      "description": "「収入を生む」。income-yielding assets は「収入を生む資産」。"
+    },
+    {
+      "term": "crop",
+      "description": "yield（名詞複合語）：「作物収量」。産出量を表す名詞 yield を用いる。"
+    },
+    {
+      "term": "bond",
+      "description": "yield（名詞複合語）：「債券利回り」。収益率を表す名詞 yield を用いる。"
+    },
+    {
+      "term": "yield",
+      "description": "sign（複合表現）：「譲れ標識」。交通の「譲る」（語義5）に関わる。"
+    },
+    {
+      "term": "yield",
+      "description": "point（複合表現）：「降伏点」。材料の物理的な降伏（語義6）に関わる。"
     }
   ],
   "core": [
     {
       "label": "yield",
-      "description": "には、産物・結果を外へ出すことと、保持していたもの・抵抗・優先権を相手に譲ることをつなぐイメージがある。「返ってくる」は産出・収益を捉える比喩であり、明け渡すものが以前は相手のものだったという意味ではない。"
+      "description": "は「生み出して外に出す」と「保持・抵抗をやめて相手に譲る」という二つの意味のまとまりで捉えると覚えやすい。以下は各用法を結び付ける学習上のイメージで、すべてに意図的な譲渡や以前の所有者への返却を含むわけではない。"
     },
     {
-      "label": "土地・植物・方法が産物や結果を返す",
+      "label": "土地・方法から外に出る産物や結果",
       "description": "→ 「作物・結果・情報などを産出する、もたらす」（語義1）"
     },
     {
-      "label": "資産が利息や収益を返す",
+      "label": "投資・資産から外に出る利息や収益",
       "description": "→ 「投資・資産が利息や収益を生む、利回りをもたらす」（語義2）"
     },
     {
-      "label": "所有・支配を相手に渡して手放す",
+      "label": "保持をやめて相手へ渡す所有・支配",
       "description": "→ 「所有・支配・領土などを相手に譲る、明け渡す」（語義3）"
     },
     {
-      "label": "抵抗を手放して要求や誘惑に従う",
+      "label": "抵抗をやめて相手に従うこと",
       "description": "→ 「抵抗をやめ、圧力・要求・誘惑などに屈する」（語義4）"
     },
     {
-      "label": "自分の優先権や道を空けて相手を先にする",
+      "label": "先に進む権利を相手に譲ること",
       "description": "→ 「道や優先権を譲り、相手を先にする」（語義5）"
     },
     {
-      "label": "物体が力に負けて動いたりたわんだりする",
+      "label": "力に対する抵抗を失う物体の変形・移動",
       "description": "→ 「力に負けて動く、たわむ、変形する」（語義6）"
     },
     {
-      "label": "それまでのものが後に来るものに場所を譲る",
+      "label": "後に来るものに場所を譲る交代",
       "description": "→ 「それまでのもの・状態が別のものに取って代わられる」（語義7）"
     },
     {
-      "label": "野球で投手が相手に安打・得点を許す",
+      "label": "投手が相手に与えてしまう安打・得点",
       "description": "→ 「投手が安打・得点などを許す」（語義8）"
     },
     {
-      "label": "名詞では、返ってきた産出量・収益・利回りそのもの",
+      "label": "産出された物の量や投資からの収益率",
       "description": "→ 「産出された量、収益、投資の利回り」（語義9）"
     }
   ],
@@ -77,7 +96,7 @@
       "title": "【他動詞・自動詞・産出】作物・結果・情報などを産出する、もたらす",
       "frequency": 7,
       "register": [
-        "一般語。農業、研究、製造、ビジネス、政策評価などで広く使う。抽象的な result、information、benefit も目的語にできる。"
+        "一般語。農業、研究、製造、ビジネス、政策評価などで広く使う。"
       ],
       "definition": "土地、植物、方法、研究、努力などが、作物・製品・結果・情報などを生み出す。何かを返すように得られる結果に焦点があり、主語が人でなくても使える。金融投資の利回りは語義2、名詞の産出量は語義9で扱う。",
       "patterns": [
@@ -119,7 +138,7 @@
         }
       ],
       "notes": [
-        "yield well のように産出物を目的語に置かない自動詞用法もある。produce は物や結果を生み出す最も広い語、generate はエネルギー・データ・利益などを生み出す語。yield は、土地・方法・研究などを主語にして、そこから結果が「返ってくる」ことに焦点を置きやすい。yield a result は結果が出ることを表すが、結果が必ず良いとは限らない。"
+        "抽象的な result、information、benefit も目的語にできる。yield well のように産出物を目的語に置かない自動詞用法もある。produce は物や結果を生み出す最も広い語、generate はエネルギー・データ・利益などを生み出す語。yield は、土地・方法・研究などを主語にして、そこから結果が「返ってくる」ことに焦点を置きやすい。yield a result は結果が出ることを表すが、結果が必ず良いとは限らない。"
       ],
       "synonyms": [
         {
@@ -136,7 +155,7 @@
           "frequency": 9,
           "difference": "generate は何かを発生させる仕組みに焦点があり、yield は活動や方法がもたらす成果に焦点を置きやすい。",
           "example": "The campaign generated a great deal of public interest.",
-          "translation": "そのキャンペーンは大きな世間の関心を生み出した。"
+          "translation": "そのキャンペーンは世間の大きな関心を呼んだ。"
         },
         {
           "word": "bring about",
@@ -154,12 +173,12 @@
       "title": "【他動詞・金融収益】投資・資産が利息や収益を生む、利回りをもたらす",
       "frequency": 6,
       "register": [
-        "金融・経済で頻出する標準語。投資商品の説明、企業財務、資産運用、ニュースで使う。yield 5% は通常、元本に対する年率などの利回りを表すが、価格変動まで含む最終的なもうけを無条件に保証する表現ではない。"
+        "金融・経済で頻出する標準語。投資商品の説明、企業財務、資産運用、ニュースで使う。"
       ],
       "definition": "債券、預金、投資、賃貸物件などが、利息・配当・収益を生む。yield 5% のように割合を目的語に取り、一定期間の収益率を表すことが多い。名詞 yield の「利回り」は語義9で扱う。",
       "patterns": [
         "〈債券・預金・投資〉 yield 〈割合・金額〉＝債券・預金・投資が～を生む",
-        "yield 〈収益・利息〉 on 〈投資・資産〉＝投資・資産に～の収益をもたらす",
+        "yield 〈収益・利息〉 on 〈投資・資産〉＝投資・資産に対して～の収益・利息を生む",
         "yield 〈投資家〉 + 〈income・a return〉＝投資家に収益・利益をもたらす"
       ],
       "collocations": [
@@ -173,13 +192,25 @@
           "pattern": "yield a steady return",
           "use": "資産が安定した収益を生むことを表す。",
           "example": "The retirement account is designed to yield a steady return over time.",
-          "translation": "その退職後の生活資金を運用する口座は、長期的に安定した収益を生むよう設計されている。"
+          "translation": "その老後資金用の口座は、長期的に安定した収益を生むよう設計されている。"
         },
         {
           "pattern": "yield income",
           "use": "資産が継続的な収入をもたらすことを表す。",
           "example": "The rental property yields enough income to cover its expenses.",
           "translation": "その賃貸物件は経費をまかなえるだけの収入を生む。"
+        },
+        {
+          "pattern": "yield a return on 〈投資〉",
+          "use": "投資に対して得られる収益を述べる。",
+          "example": "The fund yielded a 4 percent return on the initial investment.",
+          "translation": "そのファンドは当初の投資額に対して4パーセントの収益を生んだ。"
+        },
+        {
+          "pattern": "yield someone an income",
+          "use": "資産などが特定の人に収入をもたらすことを表す。",
+          "example": "The rental properties yield their owner a steady income.",
+          "translation": "その賃貸物件から、所有者は安定した収入を得ている。"
         },
         {
           "pattern": "yield a profit",
@@ -189,7 +220,7 @@
         }
       ],
       "notes": [
-        "金融の yield は、資産側を主語にして「収益を生む」と述べる語。investors earn a return は投資家側、an investment returns 5% は投資そのものの収益率に焦点がある。yield 5% は必ずしも価格上昇率5%と同じではなく、利息・配当・購入価格など、文脈上の計算基準を確認する。"
+        "金融の yield は、資産側を主語にして「収益を生む」と述べる。investors earn a return は投資家が収益を得る表現で、an investment returns 5% のように return も資産を主語にできる。yield 5% の計算基準は商品や利回りの種類による。債券の current yield（直接利回り）は年間利息を価格で割った率で、額面に対する coupon rate（表面利率）と区別する。yield to maturity（満期利回り）は価格と満期までの予定キャッシュフローに基づく。表示利回りが実際の投資成果を保証するわけではない。"
       ],
       "synonyms": [
         {
@@ -206,7 +237,7 @@
           "frequency": 8,
           "difference": "earn は人・組織が収入を得る場合にも、口座・資産が利息を生む場合にも使う。yield は資産・投資などが生む収益や利回りを述べることに重点がある。",
           "example": "The savings account earns interest every month.",
-          "translation": "その普通預金口座は毎月利息を生む。"
+          "translation": "その貯蓄口座は毎月利息を生む。"
         },
         {
           "word": "pay",
@@ -224,13 +255,14 @@
       "title": "【他動詞・明け渡し】所有・支配・領土などを相手に譲る、明け渡す",
       "frequency": 5,
       "register": [
-        "標準語だが、surrender、relinquish と同様にやや硬い。戦争、交渉、企業支配、法的・政治的な叙述で使う。自動詞の yield to 〈圧力・誘惑〉「屈する」とは構文も意味の焦点も異なる。"
+        "標準語だが、surrender、relinquish と同様にやや硬い。戦争、交渉、企業支配、法的・政治的な叙述で使う。"
       ],
-      "definition": "自分が持っている所有権、支配権、領土、立場などを、他者の要求や状況に応じて手放す。yield up 〈物・秘密〉 は、物を引き渡すほか、隠れていた情報を明らかにする意味にもなる。",
+      "definition": "自分が持っている所有権、支配権、領土、立場などを、他者の要求や状況に応じて手放す。議論で自分の主張を引っ込め、相手の論点を認める場合にも使う。yield up 〈物・秘密〉 は、物を引き渡すほか、隠れていた情報を明らかにする意味にもなる。",
       "patterns": [
         "yield 〈所有・支配・領土〉 to 〈人・組織〉＝～を～に譲る",
         "yield up 〈物・秘密〉 (to 〈人・組織〉)＝～を引き渡す・明らかにする",
-        "yield 〈ground・position〉＝陣地・立場を明け渡す"
+        "yield 〈ground・position〉＝陣地・立場を明け渡す",
+        "yield a point＝議論で相手の論点を認める"
       ],
       "collocations": [
         {
@@ -249,17 +281,23 @@
           "pattern": "yield up 〈物・秘密〉",
           "use": "物を引き渡す、または隠れていた情報を明らかにすることを表す。",
           "example": "The archive yielded up several letters that had been hidden for decades.",
-          "translation": "その記録保管所から、何十年も隠されていた手紙がいくつか明らかになった。"
+          "translation": "その記録保管所から、何十年も隠されていた手紙が何通か見つかった。"
         },
         {
           "pattern": "yield ground",
-          "use": "陣地や立場を後退して相手に譲ることを表す。",
+          "use": "支配していた土地や議論上の立場を相手に譲って退くことを表す。",
           "example": "The defenders yielded ground but continued to hold the bridge.",
-          "translation": "防衛側は陣地を後退させたが、橋を守り続けた。"
+          "translation": "防衛側は土地を明け渡して後退したが、橋を守り続けた。"
+        },
+        {
+          "pattern": "yield a point",
+          "use": "議論で相手の指摘を認め、その点については自分の主張を引っ込めることを表す。",
+          "example": "She yielded the point about cost but defended the rest of her proposal.",
+          "translation": "彼女は費用に関する点では相手の指摘を認めたが、提案のほかの部分については自分の立場を守った。"
         }
       ],
       "notes": [
-        "この語義は目的語を直接取る他動詞で、yield control to 〈人〉のように「何を譲るか」を明示する。yield to 〈圧力〉では to の後ろが圧力や誘惑であり、明け渡す物を直接目的語にしない。yield up secrets は「秘密を産出する」というより、隠れていたものを差し出す・明らかにする含みがある。"
+        "この語義は目的語を直接取る他動詞で、yield control to 〈人〉のように「何を譲るか」を明示する。yield to 〈圧力〉では to の後ろが圧力や誘惑であり、明け渡す物を直接目的語にしない。yield a point は議論上の立場を譲る表現で、物や支配権の引き渡しとは対象が異なる。yield up secrets は「秘密を産出する」というより、隠れていたものを差し出す・明らかにする含みがある。"
       ],
       "synonyms": [
         {
@@ -272,7 +310,7 @@
         },
         {
           "word": "relinquish",
-          "definition": "権利、地位、所有などを自ら手放す。",
+          "definition": "権利、地位、所有などを手放す。",
           "frequency": 7,
           "difference": "relinquish は硬く、何かを保持する権利や立場を放棄することに焦点がある。",
           "example": "She relinquished her claim to the estate.",
@@ -298,9 +336,9 @@
         },
         {
           "word": "withhold",
-          "definition": "渡すべき物や情報を相手に渡さず差し控える。",
+          "definition": "物、情報、支援などを相手に与えず差し控える。",
           "frequency": 7,
-          "difference": "withhold は引き渡しを意図的に止めることに焦点がある。",
+          "difference": "withhold は物や情報を渡さずにおく点で yield (up) と対照をなす。領土や支配権を保持する場合全般の反対語ではなく、与える義務があることも必須条件ではない。",
           "example": "The witness withheld the documents from the investigators.",
           "translation": "その証人は捜査員に書類を渡さなかった。"
         }
@@ -311,7 +349,7 @@
       "title": "【自動詞・他動詞（再帰形）・屈服】抵抗をやめ、圧力・要求・誘惑などに屈する",
       "frequency": 6,
       "register": [
-        "一般語。議論、交渉、戦闘、心理、誘惑の説明で使う。yield to 〈人・要求〉 は自動詞で、目的語を直接取る明け渡しの yield とは区別する。硬い表現の yield oneself to は、oneself を目的語とする再帰他動詞構文である。"
+        "やや硬い一般語。議論、交渉、戦闘、心理、誘惑の説明で使い、日常会話では give in がより普通。yield oneself to は特に硬い表現。"
       ],
       "definition": "相手の圧力、説得、要求、誘惑などに対する抵抗をやめて相手の要求に従ったり、抑えていた欲求に身を任せたりする。完全な降伏だけでなく、議論中の譲歩や一時的な「負け」を表すこともある。",
       "patterns": [
@@ -340,6 +378,12 @@
           "translation": "交渉担当者たちは組合の要求に屈することを拒んだ。"
         },
         {
+          "pattern": "yield oneself to 〈感情・誘惑〉",
+          "use": "硬い文体で、感情や誘惑に身を任せることを表す。",
+          "example": "For a moment, she yielded herself to despair.",
+          "translation": "一瞬、彼女は絶望に身を任せた。"
+        },
+        {
           "pattern": "refuse to yield",
           "use": "最後まで抵抗や主張をやめないことを表す。",
           "example": "The defendant refused to yield despite the intense questioning.",
@@ -347,7 +391,7 @@
         }
       ],
       "notes": [
-        "yield は抵抗をやめる行為に焦点があり、必ずしも相手の完全な支配下に入ることを意味しない。submit は権威や相手の意思に従う含みが強く、succumb は誘惑や圧倒的な力に負ける弱さを示しやすい。yield to の to は前置詞で、to 不定詞ではない。"
+        "yield to 〈人・要求〉 は自動詞で、目的語を直接取る明け渡しの yield とは区別する。yield oneself to は oneself を目的語とする再帰他動詞構文である。yield は抵抗をやめる行為に焦点があり、必ずしも相手の完全な支配下に入ることを意味しない。submit は権威や相手の意思に従う含みが強く、succumb は誘惑や圧倒的な力に負ける弱さを示しやすい。yield to の to は前置詞で、to 不定詞ではない。"
       ],
       "synonyms": [
         {
@@ -372,7 +416,7 @@
           "frequency": 7,
           "difference": "succumb は抵抗する力が尽きて負ける、または悪い影響に支配される含みが強い。",
           "example": "He succumbed to the pressure to appear successful.",
-          "translation": "彼は成功しているように見せろというプレッシャーに屈した。"
+          "translation": "彼は成功しているように見られなければならないというプレッシャーに屈した。"
         }
       ],
       "antonyms": [
@@ -411,7 +455,7 @@
       "collocations": [
         {
           "pattern": "yield to oncoming traffic",
-          "use": "対向車や交差する交通を先に通すことを表す。",
+          "use": "こちらに向かって来る対向車を先に通すことを表す。",
           "example": "The driver yielded to oncoming traffic on the narrow bridge.",
           "translation": "その運転者は狭い橋で対向車に道を譲った。"
         },
@@ -424,18 +468,18 @@
         {
           "pattern": "yield precedence to 〈人・もの〉",
           "use": "相手を優先し、自分を後順位に置くことを表す。",
-          "example": "The smaller vessel yielded precedence to the ferry in the narrow channel.",
-          "translation": "小型船は狭い水路でフェリーに優先権を譲った。"
+          "example": "At the formal ceremony, junior officials yielded precedence to the visiting ministers.",
+          "translation": "その公式式典では、下位の役職の職員たちは来訪した閣僚たちを優先した。"
         },
         {
           "pattern": "yield the floor to 〈発言者〉",
           "use": "議会や討論で発言の場を別の人に譲ることを表す。",
-          "example": "During the debate, the chair yielded the floor to the opposition leader.",
-          "translation": "討論中、議長は野党党首に発言の場を譲った。"
+          "example": "During the debate, the senator yielded the floor to a colleague.",
+          "translation": "討論中、その上院議員は同僚に発言の場を譲った。"
         }
       ],
       "notes": [
-        "交通標識の yield sign は、優先される車や歩行者に道を譲るよう指示する標識で、必要に応じて減速・停止する。常に完全停止する stop sign とは区別する。交通の yield to は圧力に屈する語義4ではなく、順番・通行権を譲る意味。yield to 〈相手〉 は自動詞、yield the right of way / precedence / the floor to 〈相手〉 は名詞句を目的語とする他動詞構文である。硬い表現 yield to none / no one in 〈分野〉 は、優劣について「～では誰にも劣らない」ともいう。"
+        "交通標識の yield sign は、優先される車や歩行者に道を譲るよう指示する標識で、必要に応じて減速・停止する。常に完全停止する stop sign とは区別する。交通の yield to は圧力に屈する語義4ではなく、順番・通行権を譲る意味。yield to 〈相手〉 は自動詞、yield the right of way / precedence / the floor to 〈相手〉 は名詞句を目的語とする他動詞構文である。硬い慣用句 yield to none / no one in 〈分野〉 は「～では誰にも劣らない」を表し、交通で道を譲る意味ではない。"
       ],
       "synonyms": [
         {
@@ -458,7 +502,7 @@
           "word": "make way for",
           "definition": "人や物のために場所や通路を空ける。",
           "frequency": 8,
-          "difference": "make way for は物理的・比喩的に場所を空けることを表し、通行優先権を譲る yield の近い表現になる。",
+          "difference": "make way for は物理的・比喩的に場所を空けることを表し、通行優先権を譲る yield に近い表現になる。",
           "example": "The crowd made way for the emergency vehicle.",
           "translation": "群衆は緊急車両のために道を空けた。"
         }
@@ -468,17 +512,9 @@
           "word": "take precedence over",
           "definition": "相手より優先される、優先権を持つ。",
           "frequency": 8,
-          "difference": "yield precedence to が相手を優先するのに対し、take precedence over は自分側を優先順位の上に置く。",
+          "difference": "yield precedence to が相手を優先するのに対し、take precedence over は「～より優先される」という優先順位の関係を表す。",
           "example": "Safety takes precedence over speed in this operation.",
           "translation": "この作業では速度より安全が優先される。"
-        },
-        {
-          "word": "block",
-          "definition": "通路や進行をふさぎ、相手を通れなくする。",
-          "frequency": 9,
-          "difference": "block は道を空けるのではなく、物理的に進行を妨げる。",
-          "example": "A fallen tree blocked traffic on the mountain road.",
-          "translation": "倒木が山道の交通を妨げた。"
         }
       ]
     },
@@ -493,7 +529,7 @@
       "patterns": [
         "〈物体・材料〉 yield under 〈圧力・荷重〉＝物体・材料が圧力でたわむ",
         "〈物体・材料〉 yield to 〈力〉＝力に負けて動く・変形する",
-        "yield without breaking＝壊れずに変形する"
+        "〈物体・材料〉 yield without breaking＝壊れずに変形する"
       ],
       "collocations": [
         {
@@ -506,23 +542,23 @@
           "pattern": "yield to force",
           "use": "物体が外から加えられた力に負けて動いたり変形したりすることを表す。",
           "example": "The old gate finally yielded to the force of the wind.",
-          "translation": "古い門はついに風の力に負けて動いた。"
+          "translation": "古い門はついに風に押されて動いた。"
         },
         {
-          "pattern": "the metal yielded",
-          "use": "金属が荷重に耐えきれず変形し始めたことを表す。",
-          "example": "The metal yielded before it cracked.",
-          "translation": "その金属はひびが入る前に変形した。"
+          "pattern": "〈金属〉 + yield without breaking",
+          "use": "金属が力を受け、破断せずに変形することを表す。",
+          "example": "The metal yielded under the load without breaking.",
+          "translation": "その金属は荷重を受け、壊れずに変形した。"
         },
         {
-          "pattern": "a lock that would not yield",
+          "pattern": "〈錠前〉 + will not yield",
           "use": "力を加えても開かない錠前を表す。",
           "example": "The rusted lock would not yield, even after oil was applied.",
           "translation": "さびた錠前は油を差した後でさえ開かなかった。"
         }
       ],
       "notes": [
-        "この用法の yield は自動詞で、物体が何かを「産出する」意味ではない。材料が yield した時点で必ず破断したとは限らず、弾性限界を越えて塑性変形が始まる場合もある。yield to 〈力〉は人が圧力に屈する語義4と形が同じなので、主語が material、gate、lock などかどうかで判断する。"
+        "この用法の yield は自動詞で、物体が何かを「産出する」意味ではない。一般的な物理描写では、力に負けて動く、たわむ、壊れるなどを指す。材料工学の降伏は、荷重を除いても元に戻らない塑性変形が始まることで、破断とは区別する。yield to 〈力〉は人が圧力に屈する語義4と形が同じなので、主語が material、gate、lock などかどうかで判断する。"
       ],
       "synonyms": [
         {
@@ -574,7 +610,7 @@
       "title": "【自動詞・他動詞の慣用句・交代】それまでのもの・状態が別のものに取って代わられる",
       "frequency": 4,
       "register": [
-        "やや硬い一般語。歴史、技術、社会変化、評論、報道で使う。語義4の要求・誘惑への屈服とは異なり、to の後ろに後継となるものや新たな状態を置く。"
+        "やや硬い一般語。歴史、技術、社会変化、評論、報道で使う。"
       ],
       "definition": "制度、方法、技術、慣習や状態などが別のものに場所を譲り、交代・変化する。yield to 〈後に来るもの・状態〉 は硬い書き言葉で「～に取って代わられる」を表す。必ずしも古い技術が新技術へ進歩する場合に限らない。",
       "patterns": [
@@ -608,7 +644,7 @@
         }
       ],
       "notes": [
-        "この用法の yield to は「～に屈する」と形が同じなので、後続するものが圧力・要求なのか、後継のもの・状態なのかを文脈から判断する。replace は置き換える側を主語にする他動詞、yield to は置き換えられる側を主語にする自動詞である。yield place to は place を目的語に取る他動詞の慣用句で、主語の方向は yield to と同じ。"
+        "この用法の yield to は「～に屈する」と形が同じなので、後続するものが圧力・要求なのか、後継のもの・状態なのかを文脈から判断する。yield to は取って代わられる側を主語にする。replace は他動詞で、新たに取って代わる物が主語の New software replaced the old system. と、交換する人が主語の We replaced the old system. の両方がある。後者では with 〈新しいもの〉を続けて交換先も示せる。yield place to は place を目的語に取る他動詞の慣用句で、主語の方向は yield to と同じ。"
       ],
       "synonyms": [
         {
@@ -660,7 +696,7 @@
       "title": "【他動詞・野球】投手が安打・得点などを許す",
       "frequency": 3,
       "register": [
-        "野球・スポーツ報道の用法。投手を主語にして、yield a hit、yield two runs のように使う。日常の「許す」では allow、口語的なスポーツ表現では give up がより普通。"
+        "野球・スポーツ報道の用法。日常の「許す」では allow、口語的なスポーツ表現では give up がより普通。"
       ],
       "definition": "野球で、投手が打者や走者に安打、得点、四球などを許す。ここでは yield が「相手に与える、手放す」という意味で使われ、作物や利益を産出する語義1・2とは異なる。",
       "patterns": [
@@ -690,11 +726,11 @@
           "pattern": "yield two walks",
           "use": "投手が四球を2つ与えることを表す。",
           "example": "The reliever yielded two walks but escaped the inning without allowing a run.",
-          "translation": "その救援投手は四球を2つ与えたが、回を無失点で切り抜けた。"
+          "translation": "その救援投手は四球を2つ与えたが、その回を無失点で切り抜けた。"
         }
       ],
       "notes": [
-        "野球の yield は、投手が相手に結果を「与えてしまう」ことを表す。produce のように投手が安打を作り出すという意味ではなく、allow や give up に近い。yielded two runs は「2点を許した」であり、投手自身が2点を得たという意味ではない。"
+        "投手を主語にして、yield a hit、yield two runs のように使う。野球の yield は、投手が相手に結果を「与えてしまう」ことを表す。produce のように投手が安打を作り出すという意味ではなく、allow や give up に近い。yielded two runs は「2点を許した」であり、投手自身が2点を得たという意味ではない。"
       ],
       "synonyms": [
         {
@@ -715,9 +751,9 @@
         },
         {
           "word": "concede",
-          "definition": "相手に得点などを許す、認める。",
+          "definition": "スポーツで相手に得点などを許す。",
           "frequency": 7,
-          "difference": "concede はサッカーなどにも広く使え、yield より「相手に与える」と明示的に述べる硬い語。",
+          "difference": "concede は特にサッカーの concede a goal などで使う。ここでの yield は野球の投手が安打・得点を許す用法で、単に硬さの違いとして置き換えることはできない。",
           "example": "The team conceded two goals before halftime.",
           "translation": "そのチームは前半終了前に2ゴールを許した。"
         }
@@ -735,7 +771,7 @@
           "word": "deny",
           "definition": "相手に得点、機会、勝利などを与えない。",
           "frequency": 5,
-          "difference": "deny は相手が得ようとするものを許さず奪うことに焦点がある。",
+          "difference": "deny は相手が得点や機会を得ることを阻む表現で、すでに得たものを取り上げることは必ずしも意味しない。",
           "example": "The goalkeeper denied the striker an easy goal.",
           "translation": "ゴールキーパーはストライカーに簡単なゴールを許さなかった。"
         }
@@ -746,7 +782,7 @@
       "title": "【名詞・産出量／利回り】産出された量、収益、投資の利回り",
       "frequency": 7,
       "register": [
-        "農業、製造、研究、金融で使う標準語。financial yield は通常パーセントなどで示し、crop yield は総収量のほか、単位面積・単位個体あたりの量でも示す。yield sign は語義5の交通用語で、名詞 yield 単独の「産出量」とは別の複合表現。"
+        "農業、製造、研究、金融で使う標準語。化学の reaction yield（反応の収量・収率）や nuclear yield（核爆発のエネルギー規模）は、さらに分野を限定した用法。"
       ],
       "definition": "土地・植物・製造工程などから得られる産出量、または投資・債券などから得られる収益率や利回り。可算・不可算の両方で使い、crop yield では収量、bond yield では金融上の利回りを表す。",
       "patterns": [
@@ -760,7 +796,7 @@
           "pattern": "a high crop yield",
           "use": "作物の収量が多いことを表す。",
           "example": "The farm achieved a high crop yield despite the dry spring.",
-          "translation": "その農場は乾燥した春にもかかわらず高い作物収量を達成した。"
+          "translation": "その農場では春の乾燥にもかかわらず多くの作物が収穫できた。"
         },
         {
           "pattern": "yield per acre",
@@ -771,8 +807,8 @@
         {
           "pattern": "bond yield",
           "use": "債券から得られる利回りを表す。",
-          "example": "The bond yield changed as the market price fell.",
-          "translation": "市場価格が下落すると、その債券の利回りは変化した。"
+          "example": "The bond's current yield rose as its market price fell.",
+          "translation": "市場価格が下がるにつれて、その債券の直接利回りは上昇した。"
         },
         {
           "pattern": "yield to maturity",
@@ -782,8 +818,7 @@
         }
       ],
       "notes": [
-        "yield は通常、産出された「量」や投資から得られる「収益・率」を表すが、文脈によっては生産力も指す。crop yield は作物の総収量や単位面積あたりの収量、bond yield は債券価格・利息・満期などをもとにした利回りである。yield to maturity は、債券の価格と満期までの予定どおりの利払い・元本償還を前提にした計算上の利回りで、通常は税金・売買手数料を含まない。実際の投資成果を保証するものではない。",
-        "化学では reaction yield が反応で得られる生成物の収量・収率を表し、理論上得られる量に対する割合で示すことも多い。nuclear yield は核爆発で放出されるエネルギーの規模を表し、TNT相当量で示す。いずれも分野を限定した名詞用法である。"
+        "yield は通常、産出された「量」や投資から得られる「収益・率」を表すが、文脈によっては生産力も指す。crop yield は作物の総収量や単位面積・個体あたりの収量、bond yield は債券価格・利息・満期などをもとにした利回りである。yield to maturity は、債券の価格と満期までの予定どおりの利払い・元本償還を前提にした計算上の利回りで、通常は税金・売買手数料を含まない。実際の投資成果を保証するものではない。化学では reaction yield が反応で得られる生成物の収量・収率を表し、理論上得られる量に対する割合で示すことも多い。nuclear yield は核爆発で放出されるエネルギーの規模を表し、TNT相当量で示す。いずれも分野を限定した名詞用法である。"
       ],
       "synonyms": [
         {
