@@ -40,7 +40,8 @@ SUBSECTION_ALIASES = {
     "レジスター/領域": "register",
     "レジスター／領域": "register",
     "文法パターン": "patterns",
-    "コロケーション": "collocations",
+    "コロケーション": "collocations",  # Legacy Notion/source label.
+    "コロケーション・構文例": "collocations",
     "語法・注意": "notes",
     "類義語": "synonyms",
     "反意語": "antonyms",
