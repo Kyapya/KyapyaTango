@@ -1,0 +1,731 @@
+{
+  "word": "discipline",
+  "slug": "discipline",
+  "ipa": "米・英: /ˈdɪs.ə.plɪn/",
+  "lead": "人々が規則や行動の基準を守るよう指導・管理すること、また、その結果として保たれる秩序ある行動。学校・家庭・組織などで使う。違反への処罰を含む場合もあるが、処罰や厳しさそのものだけを意味するわけではない。",
+  "updated": "2026-10-03",
+  "notion_url": "https://app.notion.com/p/discipline-3ee4faa9b77d810a81a7c08c55276366",
+  "pronunciation": [
+    "3音節で、第1音節に強勢を置く。第1音節と第3音節の母音は /ɪ/、第2音節は弱い /ə/。名詞と動詞で強勢は変わらない。語尾 -line は /laɪn/ ではなく /lɪn/。disciplined の -ed は /d/ で、音節は増えない。"
+  ],
+  "etymology": [
+    "古フランス語を経て、ラテン語 disciplina「教え、訓練、学問」に由来し、discipulus「学ぶ人、弟子」と同じ系統にある。disciple「弟子、信奉者」もこの discipulus にさかのぼる。人を教え導くことに関わる語だが、現代では規律・自己管理、懲戒、学問分野という意味を区別して覚える。dis- を否定の接頭辞として切り分ける語ではない。"
+  ],
+  "formation": [
+    {
+      "term": "disciplines",
+      "description": "/ disciplined / disciplining: 三人称単数現在・過去形と過去分詞・現在分詞。disciplines は名詞の複数形にもなる。disciplining は末尾の e を落とす。"
+    },
+    {
+      "term": "disciplined",
+      "description": "形容詞。「自制の利いた、規律正しい」。単に罰せられたという受動態とは異なり、語義5で扱う。"
+    },
+    {
+      "term": "undisciplined",
+      "description": "形容詞。「規律を守らない、自制の利かない」。an undisciplined team など。"
+    },
+    {
+      "term": "self-discipline",
+      "description": "不可算名詞。「自己規律、自制心」。他人に管理されずに自分を律する力を明示する。"
+    },
+    {
+      "term": "disciplinary",
+      "description": "形容詞。「懲戒の、規律に関する」。disciplinary action は懲戒処分。academic disciplinary boundaries のように学問分野に関わる用法もある。"
+    },
+    {
+      "term": "disciplinarian",
+      "description": "可算名詞。「規律に厳しい人」。a strict disciplinarian とよく使う。"
+    },
+    {
+      "term": "interdisciplinary",
+      "description": "形容詞。「複数の学問分野にまたがる、学際的な」。interdisciplinary research など。"
+    }
+  ],
+  "core": [
+    {
+      "label": "行動や心の働きを一定の基準に沿って整え、保つこと。外からの指導、自分を律する力、訓練された状態、規則違反への処置をつなげて理解できる。語義3は「教え・学問」に由来する歴史的残存義で、学問や競技の一分野という語彙的意味はこの核から導けないため、個別に参照する。",
+      "description": ""
+    },
+    {
+      "label": "基準に沿って整える集団の行動",
+      "description": "→ 「規律、しつけ、統制」（語義1）"
+    },
+    {
+      "label": "基準に沿って整える自分の行動",
+      "description": "→ 「自制心、自己管理能力」（語義2）"
+    },
+    {
+      "label": "基準に沿って整えるための処罰行為",
+      "description": "→ 「懲戒する、罰する」（語義4）"
+    },
+    {
+      "label": "基準に沿って整った行動や態度",
+      "description": "→ 「自制の利いた、規律正しい」（語義5）"
+    },
+    {
+      "label": "基準に沿って整える訓練の働き",
+      "description": "→ 「訓練する、自分を律する」（語義6）"
+    },
+    {
+      "label": "基準に沿って整えるための処罰",
+      "description": "→ 「懲戒、処罰」（語義7）"
+    },
+    {
+      "label": "基準に沿って整える日々の実践",
+      "description": "→ 「鍛錬、訓練となる習慣」（語義8）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・不可算】規律、しつけ、統制",
+      "frequency": 8,
+      "register": [
+        "一般、教育、組織運営、軍隊、政治。"
+      ],
+      "definition": "人々が規則や行動の基準を守るよう指導・管理すること、また、その結果として保たれる秩序ある行動。学校・家庭・組織などで使う。違反への処罰を含む場合もあるが、処罰や厳しさそのものだけを意味するわけではない。",
+      "patterns": [
+        "maintain discipline in 〈集団/場所〉",
+        "impose discipline on 〈人/集団〉",
+        "instil discipline in someone",
+        "a lack of discipline",
+        "a breach of discipline",
+        "strict discipline",
+        "party discipline"
+      ],
+      "collocations": [
+        {
+          "pattern": "maintain discipline in 〈集団/場所〉",
+          "use": "集団の中で規則が守られる状態を保つ。",
+          "example": "Clear expectations help teachers maintain discipline in the classroom.",
+          "translation": "何を求めるかを明確にすると、教師は教室の規律を保ちやすくなる。"
+        },
+        {
+          "pattern": "impose discipline on 〈人/集団〉",
+          "use": "外から規律や統制を課す。",
+          "example": "The new manager imposed stricter discipline on the sales team.",
+          "translation": "新任の管理職は、営業チームにより厳しい規律を課した。"
+        },
+        {
+          "pattern": "instil discipline in someone",
+          "use": "規則を守る姿勢を身につけさせる。",
+          "example": "The coach tried to instil discipline in the players without discouraging their creativity.",
+          "translation": "コーチは選手たちの創造性を損なわずに、規律を身につけさせようとした。"
+        },
+        {
+          "pattern": "a lack of discipline",
+          "use": "規律が十分に保たれていないことを述べる。",
+          "example": "A lack of discipline during practice led to repeated mistakes in the match.",
+          "translation": "練習中の規律の欠如が、試合での度重なるミスにつながった。"
+        },
+        {
+          "pattern": "a breach of discipline",
+          "use": "組織の規律に反する行為を改まって述べる。",
+          "example": "Leaving the post without permission was treated as a serious breach of discipline.",
+          "translation": "許可なく持ち場を離れたことは、重大な規律違反として扱われた。"
+        },
+        {
+          "pattern": "party discipline",
+          "use": "政党内で党の方針に従うことを指す。",
+          "example": "Party discipline kept most members voting together on the bill.",
+          "translation": "党の規律によって、大半の議員はその法案で足並みをそろえて投票した。"
+        }
+      ],
+      "notes": [
+        "この意味では通常不可算で、strict discipline、good discipline とする。複数の規則を指すからといって disciplines にしない。「規則が三つ」は three rules。school discipline は学校での規律維持や指導の仕組みを広く指し、体罰と同義ではない。a breach of discipline の a は breach に付く。instil は主に英式、instill は米式の綴り。語義2の個人の自己管理と重なる場合もあるが、maintain discipline in a class は集団を管理する側の働きを表しやすい。"
+      ],
+      "synonyms": [
+        {
+          "word": "order",
+          "definition": "人々が規則に従い、混乱なく行動している状態。",
+          "frequency": 8,
+          "difference": "保たれている秩序という結果に重点がある。discipline はそのための訓練や統制も含む。",
+          "example": "The moderator quickly restored order after the interruption.",
+          "translation": "司会者は中断の後、すぐに場の秩序を取り戻した。"
+        },
+        {
+          "word": "control",
+          "definition": "人や集団の行動を管理し、望む範囲に収めること。",
+          "frequency": 8,
+          "difference": "行動を管理する力を広く指す。discipline は規則の遵守や習慣づけに焦点がある。",
+          "example": "The teacher remained in control of the class throughout the exercise.",
+          "translation": "教師は、その活動の間ずっとクラスを落ち着いてまとめていた。"
+        },
+        {
+          "word": "training",
+          "definition": "練習や指導を通じて、必要な行動や能力を身につけさせること。",
+          "frequency": 9,
+          "difference": "技術の習得も広く含む。discipline と重なるのは、規律や自制を身につけるための訓練の場合。",
+          "example": "The training teaches new staff how to respond calmly to difficult customers.",
+          "translation": "その研修では、新入職員が対応の難しい顧客にも落ち着いて接する方法を学ぶ。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "indiscipline",
+          "definition": "規則を守らず、秩序を欠いていること。",
+          "frequency": 4,
+          "difference": "規律の有無という同じ軸での対立。英式の改まった文章で比較的見られる。",
+          "example": "Repeated acts of indiscipline disrupted the team's preparations.",
+          "translation": "度重なる規律違反で、チームの準備が乱された。"
+        },
+        {
+          "word": "disorder",
+          "definition": "集団や場で秩序が失われ、混乱している状態。",
+          "frequency": 7,
+          "difference": "秩序ある行動との状態上の対立。規則を故意に破ることが原因とは限らない。",
+          "example": "The meeting descended into disorder when several people began shouting.",
+          "translation": "数人が叫び始め、会議は混乱状態に陥った。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【名詞・不可算】自制心、自己管理能力",
+      "frequency": 8,
+      "register": [
+        "一般、学習、仕事、スポーツ、生活習慣。"
+      ],
+      "definition": "衝動や気分に流されず、必要な行動を続けたり、決めた基準を守ったりする力。単に欲求を抑えるだけでなく、やるべきことを着実に行う自己管理も表す。他人からの命令や監視は必須ではない。",
+      "patterns": [
+        "have the discipline to do",
+        "lack the discipline to do",
+        "show discipline",
+        "require discipline",
+        "exercise discipline",
+        "financial discipline"
+      ],
+      "collocations": [
+        {
+          "pattern": "have the discipline to do",
+          "use": "必要な行動を続けられる自制心があると述べる。",
+          "example": "She has the discipline to practise even when she is not in the mood.",
+          "translation": "彼女には、気が乗らないときでも練習を続ける自己管理能力がある。"
+        },
+        {
+          "pattern": "lack the discipline to do",
+          "use": "自分を律して行動する力が足りないことを表す。",
+          "example": "I used to lack the discipline to finish one project before starting another.",
+          "translation": "以前の私は、一つの作業を終えてから次に取りかかるというけじめをつけられなかった。"
+        },
+        {
+          "pattern": "require discipline",
+          "use": "達成に継続的な自己管理が必要だと述べる。",
+          "example": "Learning an instrument on your own requires discipline.",
+          "translation": "独学で楽器を身につけるには、自分を律する力が必要だ。"
+        },
+        {
+          "pattern": "show discipline",
+          "use": "気分や衝動に流されない態度を示す。",
+          "example": "The team showed discipline by sticking to the plan under pressure.",
+          "translation": "チームは重圧の中でも計画を守り、統制の取れた姿勢を示した。"
+        },
+        {
+          "pattern": "financial discipline",
+          "use": "支出などを計画に沿って管理する姿勢を指す。",
+          "example": "Staying within the small budget took considerable financial discipline.",
+          "translation": "限られた予算内に収めるには、支出をかなり厳しく管理する必要があった。"
+        }
+      ],
+      "notes": [
+        "have discipline は自制心があること。have the discipline to do の the は、後の不定詞で示す行動に必要な自己管理能力を特定する。have a discipline to do と可算名詞にしない。self-discipline はこの意味を明確にする語で、外から課される統制を含む discipline 全般とは範囲が異なる。discipline は衝動に負けないことだけでなく、計画的な実行も含むため、単なる我慢と訳すと狭すぎる場合がある。"
+      ],
+      "synonyms": [
+        {
+          "word": "self-discipline",
+          "definition": "他人に強制されなくても、自分を律して必要な行動をする力。",
+          "frequency": 7,
+          "difference": "自分自身を管理することを明示する。この語義の discipline と非常に近い。",
+          "example": "Working from home demands a degree of self-discipline.",
+          "translation": "在宅勤務には、ある程度の自己管理能力が求められる。"
+        },
+        {
+          "word": "self-control",
+          "definition": "自分の感情や衝動を抑え、行動を制御する力。",
+          "frequency": 7,
+          "difference": "怒りや欲求などを抑える面に重点がある。discipline は日々の習慣や継続的な実行にも使う。",
+          "example": "He showed remarkable self-control when the discussion became heated.",
+          "translation": "議論が白熱しても、彼は見事に感情を抑えていた。"
+        },
+        {
+          "word": "restraint",
+          "definition": "感情や行動を行き過ぎないように抑えること。",
+          "frequency": 7,
+          "difference": "その場で行動を控える面が強い。discipline は一定の基準を長く守る力にも重点を置く。",
+          "example": "She exercised restraint and did not reply to the insult.",
+          "translation": "彼女は自制して、侮辱に言い返さなかった。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算】学問分野、専門分野、競技種目",
+      "frequency": 7,
+      "register": [
+        "学術、教育、専門職、スポーツ。学問分野の用法はやや改まっている。"
+      ],
+      "definition": "一定の知識・方法・技能によって成り立つ、学問や専門的活動の一分野。大学や研究の文脈で特によく使う。スポーツでは、競技の中の専門的な種目や部門を指すこともある。規則を守る態度という語義1・2とは区別する。",
+      "patterns": [
+        "an academic discipline",
+        "the discipline of 〈学問名〉",
+        "across disciplines",
+        "within a discipline",
+        "a range of disciplines",
+        "a sporting discipline"
+      ],
+      "collocations": [
+        {
+          "pattern": "an academic discipline",
+          "use": "大学などで扱われる学問の一分野を指す。",
+          "example": "Linguistics is an academic discipline with its own methods and terminology.",
+          "translation": "言語学は、独自の方法と専門用語を持つ学問分野だ。"
+        },
+        {
+          "pattern": "the discipline of 〈学問名〉",
+          "use": "分野名を of で具体的に示す。",
+          "example": "The discipline of archaeology draws on evidence from many kinds of material remains.",
+          "translation": "考古学は、さまざまな種類の物質的な遺物を証拠として用いる学問だ。"
+        },
+        {
+          "pattern": "across disciplines",
+          "use": "複数分野の境界を越えることを述べる。",
+          "example": "The project encourages researchers to collaborate across disciplines.",
+          "translation": "そのプロジェクトは、研究者が分野を越えて協力することを促している。"
+        },
+        {
+          "pattern": "within a discipline",
+          "use": "一つの専門分野の内部を指す。",
+          "example": "Research methods can vary considerably even within a single discipline.",
+          "translation": "一つの学問分野の中でも、研究方法は大きく異なることがある。"
+        },
+        {
+          "pattern": "a sporting discipline",
+          "use": "スポーツの専門種目を指す。",
+          "example": "Dressage is an equestrian discipline that demands precise coordination between horse and rider.",
+          "translation": "馬場馬術は、馬と騎手の正確な連携が求められる馬術競技の一種だ。"
+        }
+      ],
+      "notes": [
+        "この意味では可算なので、a discipline、several disciplines と言う。She has discipline. は「自制心がある」、She works across several disciplines. は「複数の専門分野にまたがって活動している」。discipline は必ずしも大学の学科という組織を指さず、department は組織としての学科・部門。スポーツでの discipline と sport、event の分類は競技団体や文脈によって異なるため、すべてを同じ区分として置き換えない。"
+      ],
+      "synonyms": [
+        {
+          "word": "field",
+          "definition": "研究・知識・仕事などの一分野。",
+          "frequency": 9,
+          "difference": "専門活動の領域を広く表す。discipline は独自の方法や体系を持つ分野を意識させやすい。",
+          "example": "She is well known in the field of environmental research.",
+          "translation": "彼女は環境研究の分野でよく知られている。"
+        },
+        {
+          "word": "subject",
+          "definition": "学習や教育の対象となる科目・学問。",
+          "frequency": 9,
+          "difference": "学校で学ぶ内容という面に重点がある。discipline は研究方法を備えた学問分野として述べやすい。",
+          "example": "Chemistry was my favourite subject at school.",
+          "translation": "学校では、化学が一番好きな科目だった。"
+        },
+        {
+          "word": "specialty",
+          "definition": "人が特に詳しく、専門として扱う分野。",
+          "frequency": 6,
+          "difference": "個人の専門性との関係が強い。discipline は誰が専門にしているかと無関係に分野を指せる。speciality という綴りもあり、特に英式で使う。",
+          "example": "Her specialty is the history of medieval cities.",
+          "translation": "彼女の専門は、中世都市の歴史だ。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞・他動詞】懲戒する、罰する",
+      "frequency": 6,
+      "register": [
+        "一般、教育、職場、スポーツ、組織の規則。"
+      ],
+      "definition": "規則違反や不適切な行動をした人に、行動を改めさせたり規律を保ったりするための処置を取る。家庭で子どもを叱って指導する場合から、組織が職員を処分する場合まで使える。具体的な処置や重さは、この動詞だけでは決まらない。",
+      "patterns": [
+        "discipline someone",
+        "discipline someone for 〈違反行為〉",
+        "discipline someone for doing",
+        "be disciplined by 〈組織/責任者〉",
+        "be disciplined for doing"
+      ],
+      "collocations": [
+        {
+          "pattern": "discipline someone for doing",
+          "use": "処分の理由となる行為を示す。",
+          "example": "The club disciplined the player for repeatedly missing training sessions.",
+          "translation": "クラブは、練習を繰り返し欠席した選手を処分した。"
+        },
+        {
+          "pattern": "discipline someone for 〈違反行為〉",
+          "use": "違反内容を名詞で述べる。",
+          "example": "The company disciplined two managers for serious breaches of its safety rules.",
+          "translation": "会社は、安全規則への重大な違反で管理職2人を懲戒処分にした。"
+        },
+        {
+          "pattern": "discipline a child",
+          "use": "不適切な行動に対し、子どもを叱るなどして正す。",
+          "example": "When she disciplined her son for hitting his brother, she explained why the behaviour was unacceptable.",
+          "translation": "息子が弟をたたいたため、彼女は叱ったうえで、なぜその行動がいけないのかを説明した。"
+        },
+        {
+          "pattern": "be disciplined by 〈組織/責任者〉",
+          "use": "処分される人を主語にする。",
+          "example": "The official was disciplined by the committee and suspended for a month.",
+          "translation": "その役員は委員会から懲戒処分を受け、1か月の職務停止となった。"
+        }
+      ],
+      "notes": [
+        "discipline someone for doing の for は処分の理由を示す。discipline someone to do とすると、語義6の訓練の意味になる。They disciplined him for ignoring instructions. は指示を無視したことへの処分、They disciplined him to follow instructions carefully. は注意深く指示に従えるよう訓練したこと。discipline は殴る・解雇するなど特定の処置と同義ではない。be disciplined for misconduct は動詞の受動態で、語義5の be highly disciplined「非常に自制が利く」という形容詞用法と区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "punish",
+          "definition": "悪い行為や違反に対して、罰を与える。",
+          "frequency": 8,
+          "difference": "苦痛や不利益を与えることを広く表す。discipline は行動を正し、組織の規律を保つ目的を意識させやすい。",
+          "example": "The school punished the students for damaging the equipment.",
+          "translation": "学校は、備品を壊した生徒たちに罰を与えた。"
+        },
+        {
+          "word": "penalize",
+          "definition": "規則違反などに対して、不利益やペナルティーを課す。",
+          "frequency": 6,
+          "difference": "減点・罰金などの不利益に重点がある。discipline は注意や指導を伴う処置にも使う。",
+          "example": "The referee penalized the team for a late substitution.",
+          "translation": "審判は、選手交代が遅れたチームにペナルティーを科した。"
+        },
+        {
+          "word": "reprimand",
+          "definition": "不適切な行動について、正式に厳しく注意する。",
+          "frequency": 5,
+          "difference": "言葉による叱責を指す。discipline は停職など、それ以外の処置も含む。",
+          "example": "The supervisor reprimanded him for ignoring the warning signs.",
+          "translation": "上司は、警告表示を無視した彼を厳しく注意した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【形容詞・限定/叙述】自制の利いた、規律正しい",
+      "frequency": 6,
+      "register": [
+        "一般、仕事、スポーツ、学習。通常は好意的な評価。"
+      ],
+      "definition": "disciplined の形で、人や集団が自分の行動を制御し、規則や計画に沿って着実に行動できること。また、そのような統制の取れた取り組み方を表す。罰を受けたという出来事ではなく、行動や性質への評価である。",
+      "patterns": [
+        "a disciplined 〈person/team〉",
+        "a disciplined approach to 〈活動〉",
+        "be highly disciplined",
+        "become more disciplined",
+        "be disciplined about 〈活動/習慣〉",
+        "be disciplined with 〈money/time〉"
+      ],
+      "collocations": [
+        {
+          "pattern": "a disciplined team",
+          "use": "統制が取れ、計画を守って行動できる集団を表す。",
+          "example": "A disciplined team can stay calm even when the score is against them.",
+          "translation": "規律のあるチームは、得点で負けていても落ち着きを保てる。"
+        },
+        {
+          "pattern": "a disciplined approach to 〈活動〉",
+          "use": "計画的で一貫した取り組み方を述べる。",
+          "example": "She takes a disciplined approach to writing and revises her work every morning.",
+          "translation": "彼女は計画的に執筆に取り組み、毎朝原稿を推敲している。"
+        },
+        {
+          "pattern": "be highly disciplined",
+          "use": "自制心や自己管理能力が高いと評価する。",
+          "example": "He is highly disciplined and rarely misses a practice session.",
+          "translation": "彼はとても自己管理ができていて、練習をほとんど休まない。"
+        },
+        {
+          "pattern": "become more disciplined",
+          "use": "以前よりも規律正しく行動できるようになる。",
+          "example": "Since joining the orchestra, I have become more disciplined about practising.",
+          "translation": "オーケストラに入ってから、以前より規則正しく練習に取り組むようになった。"
+        },
+        {
+          "pattern": "be disciplined about 〈活動/習慣〉",
+          "use": "特定の行動を着実に続ける姿勢を表す。",
+          "example": "She is disciplined about taking breaks instead of working until she is exhausted.",
+          "translation": "彼女は疲れ切るまで働くのではなく、きちんと休憩を取るようにしている。"
+        },
+        {
+          "pattern": "be disciplined with 〈money/time〉",
+          "use": "お金や時間の使い方をきちんと管理する。",
+          "example": "We need to be more disciplined with our time if we want to finish today.",
+          "translation": "今日中に終わらせるには、時間の使い方をもっときちんと管理する必要がある。"
+        }
+      ],
+      "notes": [
+        "a disciplined worker と The worker is disciplined. の両方が可能。very disciplined、more disciplined のような程度・比較表現も使える。disciplinary action は「懲戒処分」、a disciplined approach は「統制の取れた取り組み方」であり、disciplinary と disciplined を入れ替えない。He was disciplined for lying. は語義4の受動態で「うそをついたため処分された」。He is disciplined about his work. は仕事ぶりへの評価。a well-disciplined team のように well と組み合わせて名詞の前に置く場合は、通常ハイフンを使う。"
+      ],
+      "synonyms": [
+        {
+          "word": "self-controlled",
+          "definition": "感情や衝動を自分で抑えられる。",
+          "frequency": 5,
+          "difference": "怒りや欲求を制御する面が中心。disciplined は計画どおりに行動を継続することにも使う。",
+          "example": "She remained self-controlled throughout the argument.",
+          "translation": "彼女は口論の間ずっと、感情を抑えていた。"
+        },
+        {
+          "word": "methodical",
+          "definition": "一定の手順に従い、順序立てて物事を行う。",
+          "frequency": 5,
+          "difference": "手順の整然さが中心。disciplined は自制や規則を守る姿勢にも重点がある。",
+          "example": "His methodical approach made the complex task manageable.",
+          "translation": "彼が順序立てて進めたおかげで、複雑な作業にも対応できた。"
+        },
+        {
+          "word": "orderly",
+          "definition": "行動や進み方に混乱がなく、秩序がある。",
+          "frequency": 6,
+          "difference": "外から見える整然さが中心。disciplined はその背景にある自制や訓練を意識させる。",
+          "example": "The crowd left the hall in an orderly manner.",
+          "translation": "観客は秩序正しく会場を後にした。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "undisciplined",
+          "definition": "規則や計画を守らず、自分の行動を十分に制御できない。",
+          "frequency": 5,
+          "difference": "規律・自制の有無という同じ軸での対立。",
+          "example": "Their undisciplined play resulted in a series of unnecessary penalties.",
+          "translation": "統制の取れないプレーのせいで、彼らは避けられたはずのペナルティーを何度も受けた。"
+        },
+        {
+          "word": "unruly",
+          "definition": "指示や規則に従わず、扱いにくい。",
+          "frequency": 5,
+          "difference": "秩序だった行動との対立で、特に外から統制しにくいことを表す。undisciplined は個人の計画性のなさにも使う。",
+          "example": "The unruly crowd ignored repeated requests to stay behind the barrier.",
+          "translation": "騒がしく統制の利かない群衆は、柵の後ろにとどまるよう何度求められても従わなかった。"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "【動詞・他動詞/再帰】訓練する、自分を律する",
+      "frequency": 5,
+      "register": [
+        "一般、教育、自己管理。train より、規律や統制を身につける意味が強い。"
+      ],
+      "definition": "指導や繰り返しの練習によって、人や心の働きを制御し、一定のやり方で行動できるようにする。discipline oneself は、自分に習慣や自制を身につけさせること。語義4と違い、過去の違反を罰することは必須ではない。",
+      "patterns": [
+        "discipline oneself",
+        "discipline oneself to do",
+        "discipline one's mind",
+        "discipline someone to do",
+        "discipline 〈troops/a team〉"
+      ],
+      "collocations": [
+        {
+          "pattern": "discipline oneself to do",
+          "use": "自分を律し、ある行動を習慣として行えるようにする。",
+          "example": "I disciplined myself to check my work before sending it.",
+          "translation": "送信前に必ず内容を確認するよう、自分に習慣づけた。"
+        },
+        {
+          "pattern": "discipline oneself",
+          "use": "自分の行動を自分で管理すると述べる。",
+          "example": "Without a fixed schedule, she found it difficult to discipline herself.",
+          "translation": "決まった予定がないと、彼女は自分を律するのが難しいと感じた。"
+        },
+        {
+          "pattern": "discipline one's mind",
+          "use": "集中や思考の仕方を訓練によって整える。",
+          "example": "The exercises helped him discipline his mind and focus on one problem at a time.",
+          "translation": "その練習は、彼が心を整え、一度に一つの問題に集中する助けとなった。"
+        },
+        {
+          "pattern": "discipline someone to do",
+          "use": "人が一定の行動をできるよう、継続的に訓練する。",
+          "example": "The training disciplined recruits to remain calm and follow instructions under pressure.",
+          "translation": "その訓練によって、新兵たちは重圧の中でも落ち着いて指示に従えるようになった。"
+        }
+      ],
+      "notes": [
+        "自分を訓練する能動文では I disciplined myself to study regularly. のように再帰代名詞を目的語に置く。I disciplined to study regularly. とはしない。I was disciplined to work carefully. は他者による訓練を表す受動態で、myself を省略した能動文ではない。I am disciplined about my work. は語義5の形容詞による性質の説明。discipline oneself to do の to は不定詞の一部で、後ろは動詞の原形。語義4の discipline someone for doing は行為への処分であり、前置詞と意味役割が異なる。"
+      ],
+      "synonyms": [
+        {
+          "word": "train",
+          "definition": "練習や指導によって、人が一定の行動や技能を身につけるようにする。",
+          "frequency": 9,
+          "difference": "技能全般を広く扱う。discipline は規律・自制・整然とした習慣を身につけることに重点がある。",
+          "example": "The course trains staff to deal with complaints calmly.",
+          "translation": "その講座では、職員が苦情に落ち着いて対応できるよう訓練する。"
+        },
+        {
+          "word": "condition",
+          "definition": "繰り返しの経験や訓練によって、特定の反応や行動をするようにする。",
+          "frequency": 5,
+          "difference": "習慣的・自動的な反応の形成を意識させる。discipline は意識的な自制や秩序を重視する。",
+          "example": "Years of practice had conditioned her to check every detail.",
+          "translation": "長年の練習で、彼女には細部まで確認する習慣が身についていた。"
+        },
+        {
+          "word": "school",
+          "definition": "人をある技能・態度・行動様式に習熟させる。",
+          "frequency": 4,
+          "difference": "改まった語で、教え込んだり鍛えたりする面が強い。discipline は自分を律する訓練にもよく使う。",
+          "example": "The experience schooled him in patience.",
+          "translation": "その経験を通じて、彼は忍耐を身につけた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【名詞・不可算】懲戒、処罰",
+      "frequency": 5,
+      "register": [
+        "組織の規定、教育、職場。処分の意味では米式の用例でもよく見られる。"
+      ],
+      "definition": "不適切な行動や規則違反への対応として与える処分・罰。語義1の広い規律維持のうち、違反後の処置そのものを指す用法。身体的な罰に限らず、注意・権限の停止なども文脈により含む。",
+      "patterns": [
+        "face discipline for 〈違反〉",
+        "be subject to discipline",
+        "administer discipline",
+        "a form of discipline",
+        "harsh discipline"
+      ],
+      "collocations": [
+        {
+          "pattern": "face discipline for 〈違反〉",
+          "use": "規則違反などで処分を受ける可能性があると述べる。",
+          "example": "Employees may face discipline for deliberately falsifying records.",
+          "translation": "故意に記録を改ざんした従業員は、懲戒処分を受ける可能性がある。"
+        },
+        {
+          "pattern": "be subject to discipline",
+          "use": "処分の対象となることを規定などで示す。",
+          "example": "Members who repeatedly violate the code are subject to discipline under the club's rules.",
+          "translation": "行動規範への違反を繰り返した会員は、クラブの規則に基づく処分の対象となる。"
+        },
+        {
+          "pattern": "administer discipline",
+          "use": "責任者が処分や罰を与えることを改まって述べる。",
+          "example": "The committee must administer discipline fairly and consistently.",
+          "translation": "委員会は、公平かつ一貫した基準で処分を行わなければならない。"
+        },
+        {
+          "pattern": "a form of discipline",
+          "use": "罰や懲戒の一つの方法を示す。",
+          "example": "The school uses temporary loss of privileges as a form of discipline.",
+          "translation": "その学校は、懲戒の一つとして、一定期間一部の活動などへの参加を認めない措置を取っている。"
+        }
+      ],
+      "notes": [
+        "この意味でも通常不可算で、a discipline を「一件の処分」とするのは一般的ではない。個別の措置なら a disciplinary measure、a penalty などを使う。discipline だけで解雇・停学などの処分内容は決まらない。disciplinary action も組織でよく使う表現。学校や家庭の文脈では「しつけ」と「罰」が重なるため、文脈が実際の処置を指すか、継続的な指導全体を指すかで語義1と区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "punishment",
+          "definition": "悪い行為への対応として与えられる罰や不利益。",
+          "frequency": 8,
+          "difference": "罰そのものを最も広く表す。discipline は規律の維持・行動の改善との関係を意識させる。",
+          "example": "The punishment was considered too severe for the offence.",
+          "translation": "その罰は、違反の内容に比べて重すぎると考えられた。"
+        },
+        {
+          "word": "penalty",
+          "definition": "規則や法律への違反に対して科される罰・不利益。",
+          "frequency": 8,
+          "difference": "個別の罰金・減点などを数えられる名詞で表せる。discipline は懲戒としての処置を広く指す。",
+          "example": "The rules specify a penalty for each type of violation.",
+          "translation": "規則には、違反の種類ごとの罰則が定められている。"
+        },
+        {
+          "word": "sanction",
+          "definition": "規則違反などへの対応として正式に科される制裁・処分。",
+          "frequency": 6,
+          "difference": "正式な機関による不利益措置を改まって述べる。discipline は家庭での罰にも使う。",
+          "example": "The association imposed a sanction on the club for breaking the rules.",
+          "translation": "協会は、規則を破ったクラブに制裁を科した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【名詞・可算/不可算】鍛錬、訓練となる習慣",
+      "frequency": 4,
+      "register": [
+        "学習、創作、心身の鍛錬、宗教的実践。やや改まった説明。"
+      ],
+      "definition": "心身や技能を整えるために継続的に取り組む行為・習慣、また、その訓練としての働き。具体的な実践を一つのものとして捉えると可算、訓練効果や規則正しい実践を全体として捉えると不可算になる。",
+      "patterns": [
+        "a useful discipline",
+        "the discipline of doing",
+        "good discipline for someone",
+        "spiritual disciplines"
+      ],
+      "collocations": [
+        {
+          "pattern": "a useful discipline",
+          "use": "続けることで自分を鍛えられる習慣を指す。",
+          "example": "Writing a short summary after each lecture is a useful discipline.",
+          "translation": "毎回の講義の後に短い要約を書くことは、よい訓練になる習慣だ。"
+        },
+        {
+          "pattern": "the discipline of doing",
+          "use": "繰り返し行う具体的な訓練内容を示す。",
+          "example": "She values the discipline of revising a page before beginning a new one.",
+          "translation": "彼女は、新しいページを書き始める前に前のページを推敲する習慣を大切にしている。"
+        },
+        {
+          "pattern": "good discipline for someone",
+          "use": "ある行動が人の鍛錬になると述べる。",
+          "example": "Working to a strict word limit is good discipline for a writer.",
+          "translation": "厳しい字数制限に合わせて書くことは、書き手にとってよい訓練になる。"
+        },
+        {
+          "pattern": "spiritual disciplines",
+          "use": "宗教的・精神的な成長のために継続する実践を指す。",
+          "example": "The retreat introduces spiritual disciplines such as meditation and regular reflection.",
+          "translation": "その研修では、瞑想や定期的な内省など、精神を整える実践を紹介する。"
+        }
+      ],
+      "notes": [
+        "a discipline はここでは訓練となる一つの実践。語義3の an academic discipline「学問の一分野」と区別する。the discipline of daily practice は日々の練習という鍛錬、the discipline to practise daily は語義2の毎日練習できる自制心であり、of と to の後に来る形と意味が異なる。religious disciplines は宗教上の規則・鍛錬を指し得るが、具体的な内容は伝統や文脈によって決まる。"
+      ],
+      "synonyms": [
+        {
+          "word": "practice",
+          "definition": "習熟や心身の向上のために繰り返し行う活動。",
+          "frequency": 8,
+          "difference": "実際に繰り返す活動に重点がある。discipline は自分を律する訓練としての面が強い。",
+          "example": "Regular writing practice helped her express complex ideas clearly.",
+          "translation": "定期的に文章を書く練習をすることで、彼女は複雑な考えを明確に表せるようになった。"
+        },
+        {
+          "word": "exercise",
+          "definition": "能力や技能を鍛えるための課題・練習。",
+          "frequency": 8,
+          "difference": "個々の課題や練習を指しやすい。discipline は継続的な実践として捉えやすい。",
+          "example": "The course includes exercises in careful observation.",
+          "translation": "その講座には、注意深く観察するための練習が含まれている。"
+        },
+        {
+          "word": "regimen",
+          "definition": "心身などの状態を整えるための、計画的な生活・訓練の体系。",
+          "frequency": 5,
+          "difference": "日程や方法を定めた一連の計画に重点がある。discipline は一つの習慣にも使える。",
+          "example": "The athlete follows a demanding training regimen.",
+          "translation": "その選手は、厳しい訓練計画に従っている。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
