@@ -1,0 +1,573 @@
+{
+  "word": "acknowledge",
+  "slug": "acknowledge",
+  "ipa": "米: /əkˈnɑː.lɪdʒ/｜英: /əkˈnɒl.ɪdʒ/",
+  "lead": "事実・問題・必要性などが本当である、または存在すると認めること。自分に不都合な事実にも使うが、不本意さや後悔が必ず含まれるわけではない。認めた事実を好ましいと評価することとも別。",
+  "updated": "2026-10-03",
+  "notion_url": "https://app.notion.com/p/acknowledge-3ee4faa9b77d8149afd1c79597c7535e",
+  "pronunciation": [
+    "3音節で、第2音節に強勢を置く。米英差は第2音節の母音で、米音は /ɑː/、英音は /ɒ/。第1音節は /ə/、第3音節は /ɪ/。語末の /dʒ/ を保ち、acknowledged の語尾は /dʒd/、acknowledges は /dʒɪz/ となる。"
+  ],
+  "etymology": [
+    "中英語の aknowen「知っていると認める」と knowledge 系の語が関わってできた語。さらに古英語の cnāwan「知る」にさかのぼり、単に知っていることよりも、その認識を示すことへ重点が移っている。同じ系統の語に know「知る」と knowledge「知識」がある。見た目だけからラテン語の ac- と knowledge の単純な組み合わせとして覚えない。"
+  ],
+  "formation": [
+    {
+      "term": "acknowledged",
+      "description": "過去形・過去分詞。「認めた、認められた」。形容詞としての「広く認められた」は語義6。"
+    },
+    {
+      "term": "acknowledging",
+      "description": "現在分詞・動名詞。語末の e を落として -ing を付ける。"
+    },
+    {
+      "term": "acknowledgment",
+      "description": "/ acknowledgement: 名詞。「承認、認めること、謝意、受領の確認」。米語では前者、英語では後者がよく使われるが、両綴りがある。"
+    },
+    {
+      "term": "acknowledgments",
+      "description": "/ acknowledgements: 複数形で、書籍・論文などの「謝辞」。"
+    },
+    {
+      "term": "unacknowledged",
+      "description": "形容詞。「認められていない、謝意や功績の言及を受けていない」。何が認められていないかは文脈で決まる。"
+    }
+  ],
+  "core": [
+    {
+      "label": "対象の存在・事実・価値などを認めること。多くの用法ではその認識を言葉や態度で示すが、自分の内面で認める場合もある。",
+      "description": ""
+    },
+    {
+      "label": "認識した事実を真実と認めること",
+      "description": "→ 「事実・問題を認める」（語義1）"
+    },
+    {
+      "label": "認識した地位や価値を認めて示すこと",
+      "description": "→ 「地位・価値・権利を認める」（語義2）"
+    },
+    {
+      "label": "認識した受領の事実を相手に示すこと",
+      "description": "→ 「受領したことを知らせる」（語義3）"
+    },
+    {
+      "label": "認識した相手に気づいたと示すこと",
+      "description": "→ 「相手に気づいて応じる」（語義4）"
+    },
+    {
+      "label": "認識した貢献への評価や感謝を示すこと",
+      "description": "→ 「貢献に言及する、謝意を示す」（語義5）"
+    },
+    {
+      "label": "認識した事実や価値が広く認められた状態",
+      "description": "→ 「広く認められた、公認の」（語義6）"
+    },
+    {
+      "label": "認識した自分の署名行為を正式に示すこと",
+      "description": "→ 「署名・作成が本人の行為だと認める」（語義7）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞】事実・問題を認める",
+      "frequency": 8,
+      "register": [
+        "一般、報道、仕事、議論。admit よりやや改まった響きがある。"
+      ],
+      "definition": "事実・問題・必要性などが本当である、または存在すると認めること。自分に不都合な事実にも使うが、不本意さや後悔が必ず含まれるわけではない。認めた事実を好ましいと評価することとも別。",
+      "patterns": [
+        "acknowledge 〈事実・問題〉",
+        "acknowledge that 〈節〉",
+        "acknowledge -ing",
+        "acknowledge having + 〈過去分詞〉",
+        "acknowledge 〈内容〉 to someone",
+        "acknowledge 〈O〉 to be 〈補語〉",
+        "it is acknowledged that 〈節〉"
+      ],
+      "collocations": [
+        {
+          "pattern": "acknowledge a mistake",
+          "use": "自分の誤りを認める。",
+          "example": "The editor acknowledged a mistake in the original article.",
+          "translation": "編集者は元の記事に誤りがあったことを認めた。"
+        },
+        {
+          "pattern": "acknowledge the need for 〈名詞〉",
+          "use": "対応が必要であると認める。",
+          "example": "Both sides acknowledge the need for further discussion.",
+          "translation": "双方とも、さらに話し合う必要があると認めている。"
+        },
+        {
+          "pattern": "acknowledge that 〈節〉",
+          "use": "認める内容を文で述べる。",
+          "example": "She acknowledged that the new system was easier to use.",
+          "translation": "彼女は、新しいシステムのほうが使いやすいと認めた。"
+        },
+        {
+          "pattern": "acknowledge -ing",
+          "use": "自分が行ったことなどを認める。",
+          "example": "He acknowledged sending the message to the wrong address.",
+          "translation": "彼は、間違った宛先にメッセージを送ったことを認めた。"
+        },
+        {
+          "pattern": "acknowledge having + 〈過去分詞〉",
+          "use": "それ以前にしたことを明確に認める。",
+          "example": "The company acknowledged having used outdated figures in its report.",
+          "translation": "その会社は報告書に古い数値を使っていたことを認めた。"
+        },
+        {
+          "pattern": "acknowledge 〈内容〉 to someone",
+          "use": "誰に対して認めたかを示す。",
+          "example": "I acknowledged my mistake to my colleague.",
+          "translation": "私は同僚に、自分の誤りを認めた。"
+        },
+        {
+          "pattern": "acknowledge 〈O〉 to be 〈補語〉",
+          "use": "対象がある状態だと認める硬めの構文。",
+          "example": "The author acknowledged the estimate to be unreliable.",
+          "translation": "著者は、その推計が信頼できないことを認めた。"
+        },
+        {
+          "pattern": "it is acknowledged that 〈節〉",
+          "use": "誰が認めるかを前面に出さず、共有される認識を述べる。",
+          "example": "It is generally acknowledged that the current process takes too long.",
+          "translation": "現在の手順は時間がかかりすぎるということが、一般に認められている。"
+        }
+      ],
+      "notes": [
+        "「～したと認める」は acknowledge doing または acknowledge that ... とし、acknowledge to do は使わない。acknowledge to someone that ... の to は相手を示す前置詞。acknowledge to oneself that ... は「自分でも心の中で～と認める」で、他人への表明は必要ない。acknowledge something to be ... は目的語がある別構文なので、to do の誤用と混同しない。that は省略できる。受動態の The problem was acknowledged.「問題の存在が認められた」も可能。acknowledge responsibility は責任があると認めることで、必ずしも今後の役割を引き受ける約束そのものではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "admit",
+          "definition": "事実や自分の行為が本当だと認める。",
+          "frequency": 8,
+          "difference": "不都合な事実や、それまで認めていなかった事実によく使う。acknowledge は必要性や長所を冷静に認める場合にも使いやすい。",
+          "example": "I admit that I underestimated the cost.",
+          "translation": "費用を低く見積もりすぎたことは認めます。"
+        },
+        {
+          "word": "concede",
+          "definition": "議論や対立の中で相手の主張などを認める。",
+          "frequency": 6,
+          "difference": "譲歩する含みが強い。acknowledge には対立や譲歩が必ずあるわけではない。",
+          "example": "He conceded that her proposal would save money.",
+          "translation": "彼は、彼女の提案なら費用を節約できることは認めた。"
+        },
+        {
+          "word": "recognize",
+          "definition": "事実・必要性・重要性などを認識し、認める。",
+          "frequency": 8,
+          "difference": "認識そのものにも使える。acknowledge はその認識を言葉や態度で示す側面が強い。",
+          "example": "We recognize that the timetable needs to change.",
+          "translation": "私たちは日程を変える必要があると認識している。"
+        },
+        {
+          "word": "confess",
+          "definition": "罪・過ち・隠していたことなどを打ち明けて認める。",
+          "frequency": 6,
+          "difference": "告白という側面が強い。acknowledge より対象が罪や弱点などに偏るが、軽い冗談にも使える。",
+          "example": "She confessed that she had broken the vase.",
+          "translation": "彼女は花瓶を割ったことを打ち明けた。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "deny",
+          "definition": "事実や主張が本当ではないと言う。",
+          "frequency": 8,
+          "difference": "真実だと認めるか否定するかという同じ軸の反対。単に返事をしないこととは異なる。",
+          "example": "He denied sending the email.",
+          "translation": "彼はそのメールを送ったことを否定した。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【動詞・他動詞】地位・価値・権利を認める",
+      "frequency": 7,
+      "register": [
+        "一般、仕事、報道、学術、正式な評価。"
+      ],
+      "definition": "人や物がある地位・性質・価値を持つと認めること。また、権威・権利などを正当なものとして認めること。単に存在を知っているだけでなく、どう評価し、どのようなものとして扱うかを表す。",
+      "patterns": [
+        "acknowledge someone/something as 〈名詞・形容詞〉",
+        "acknowledge someone/something to be 〈補語〉",
+        "be acknowledged as 〈名詞・形容詞〉",
+        "be acknowledged to be 〈補語〉",
+        "acknowledge someone's 〈authority/rights〉"
+      ],
+      "collocations": [
+        {
+          "pattern": "acknowledge someone as 〈役割・地位〉",
+          "use": "人を特定の地位にある者と認める。",
+          "example": "The group acknowledged her as its leader.",
+          "translation": "その集団は、彼女を自分たちの指導者として認めた。"
+        },
+        {
+          "pattern": "acknowledge something as 〈形容詞〉",
+          "use": "対象にある性質や価値があると認める。",
+          "example": "Even her critics acknowledged the discovery as important.",
+          "translation": "彼女を批判する人たちでさえ、その発見は重要だと認めた。"
+        },
+        {
+          "pattern": "be acknowledged as 〈地位・種類〉",
+          "use": "広く受けている評価を述べる。",
+          "example": "The building is widely acknowledged as a masterpiece of modern architecture.",
+          "translation": "その建物は近代建築の傑作として広く認められている。"
+        },
+        {
+          "pattern": "be acknowledged to be 〈補語〉",
+          "use": "対象への評価を改まった表現で述べる。",
+          "example": "She is acknowledged to be one of the leading researchers in the field.",
+          "translation": "彼女はその分野の第一人者の一人だと認められている。"
+        },
+        {
+          "pattern": "acknowledge someone's authority",
+          "use": "人の権限・権威を正当なものとして認める。",
+          "example": "The committee refused to acknowledge his authority to make the decision.",
+          "translation": "委員会は、彼にその決定を下す権限があることを認めなかった。"
+        }
+      ],
+      "notes": [
+        "as の後には名詞句や形容詞、to be の後には補語を置く。be widely acknowledged as ... は普通の受動構文で、「広く～と認められている」。人を主語にして The group acknowledged her ... とする能動文と、She was acknowledged ... とする受動文を区別する。acknowledge は elect や appoint ではないので、その人物を新たに選出・任命したことまでは意味しない。acknowledge someone's rights も、権利を認めるという語彙的意味だけで、特定の法的手続きが完了したとは限らない。"
+      ],
+      "synonyms": [
+        {
+          "word": "recognize",
+          "definition": "地位・資格・価値・権利などを認める。",
+          "frequency": 8,
+          "difference": "公的承認にも一般的な評価にも使う。acknowledge は、すでにある地位や価値を認めて示す点に重点がある。",
+          "example": "The award recognizes her outstanding work in conservation.",
+          "translation": "その賞は、自然保護における彼女の優れた功績をたたえるものだ。"
+        },
+        {
+          "word": "accept",
+          "definition": "人や物を、ある立場・性質のものとして受け入れる。",
+          "frequency": 8,
+          "difference": "受け入れる側の態度や扱いに重点がある。acknowledge は評価や正当性を認めて表明する側面が強い。",
+          "example": "They accepted him as a full member of the team.",
+          "translation": "彼らは彼を正式なチームの一員として受け入れた。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "reject",
+          "definition": "主張・権利・権威などを認めず、退ける。",
+          "frequency": 7,
+          "difference": "正当と認めるか退けるかという態度の反対。単に相手に気づかないことではない。",
+          "example": "The council rejected his claim to ownership of the land.",
+          "translation": "評議会は、その土地の所有権があるという彼の主張を退けた。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【動詞・他動詞】受領したことを知らせる",
+      "frequency": 7,
+      "register": [
+        "仕事、事務連絡、正式なやり取り。通信技術では受信確認にも使う。"
+      ],
+      "definition": "手紙・メール・書類・支払いなどを受け取ったことを、送り手に知らせること。内容への詳しい返答や、依頼・条件への同意まで意味するわけではない。",
+      "patterns": [
+        "acknowledge receipt of 〈受け取った物〉",
+        "acknowledge 〈an email/a letter/a payment〉",
+        "be acknowledged automatically",
+        "acknowledge receiving 〈物〉"
+      ],
+      "collocations": [
+        {
+          "pattern": "acknowledge receipt of 〈物〉",
+          "use": "受け取ったことを正式に知らせる。",
+          "example": "Please acknowledge receipt of the attached documents.",
+          "translation": "添付書類を受け取られましたら、その旨をご連絡ください。"
+        },
+        {
+          "pattern": "acknowledge an email",
+          "use": "メールを受信したことへの短い返答。",
+          "example": "I'll acknowledge your email now and send a full reply tomorrow.",
+          "translation": "今はメールを受け取った旨をお伝えし、詳しいお返事は明日お送りします。"
+        },
+        {
+          "pattern": "acknowledge a payment",
+          "use": "支払いを受領したことを知らせる。",
+          "example": "The office acknowledged the payment in a confirmation email.",
+          "translation": "事務所は確認メールで支払いの受領を知らせた。"
+        },
+        {
+          "pattern": "be acknowledged automatically",
+          "use": "システムによる自動の受領確認。",
+          "example": "All online applications are acknowledged automatically.",
+          "translation": "オンライン申請には、すべて自動で受領確認が送られます。"
+        }
+      ],
+      "notes": [
+        "acknowledge receipt of の receipt は通常無冠詞で、「領収書」ではなく「受領」という意味。acknowledge an application は受領を知らせることで、accept an application「申請を受理する・認める」と常に同じではない。通信の文脈では機器が受信を確認することにも使い、acknowledgment は ACK と略される。"
+      ],
+      "synonyms": [
+        {
+          "word": "confirm receipt",
+          "definition": "届いたこと・受け取ったことを確認して知らせる。",
+          "frequency": 6,
+          "difference": "この語義を明示する定着した表現。acknowledge a message より「受信確認」であることが直接分かる。",
+          "example": "Could you confirm receipt of the revised schedule?",
+          "translation": "修正版の日程表が届いたか、ご確認いただけますか。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞・他動詞】相手に気づいて応じる",
+      "frequency": 6,
+      "register": [
+        "一般、人のやり取りや態度の描写。"
+      ],
+      "definition": "相手の姿や挨拶に気づいたことを、会釈・視線・笑顔・言葉などで示すこと。単に気づくという内的な認識ではなく、相手に分かる反応がある。",
+      "patterns": [
+        "acknowledge someone",
+        "acknowledge someone's 〈presence/greeting〉",
+        "acknowledge someone with 〈しぐさ〉",
+        "acknowledge someone by -ing",
+        "barely acknowledge someone"
+      ],
+      "collocations": [
+        {
+          "pattern": "acknowledge someone with a nod",
+          "use": "軽い会釈で相手に応じる。",
+          "example": "She acknowledged me with a nod but continued her conversation.",
+          "translation": "彼女は私に軽く会釈し、そのまま話を続けた。"
+        },
+        {
+          "pattern": "acknowledge someone's greeting",
+          "use": "挨拶に反応する。",
+          "example": "He was so absorbed in the map that he failed to acknowledge my greeting.",
+          "translation": "彼は地図を見るのに夢中で、私の挨拶に反応しなかった。"
+        },
+        {
+          "pattern": "acknowledge someone's presence",
+          "use": "そこにいる相手に気づいていることを示す。",
+          "example": "The receptionist looked up to acknowledge our presence.",
+          "translation": "受付係は顔を上げ、私たちが来たことに気づいた様子を示した。"
+        },
+        {
+          "pattern": "acknowledge someone by -ing",
+          "use": "反応の方法を動作で示す。",
+          "example": "The driver acknowledged us by raising a hand.",
+          "translation": "運転手は片手を上げて、私たちに挨拶を返した。"
+        }
+      ],
+      "notes": [
+        "acknowledge someone だけでも使えるが、人の地位を認める語義2や、貢献に謝意を示す語義5との区別は文脈による。a nod、a glance、a smile などがあれば、この意味を明確にしやすい。not acknowledge someone は無視する態度を表すことがあるが、気づかなかっただけの場合もあるので、否定だけから故意と断定しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "greet",
+          "definition": "会った相手に挨拶する。",
+          "frequency": 7,
+          "difference": "出会いの挨拶に焦点があり、言葉でも動作でもよい。acknowledge は会話を始めず、短い視線や会釈だけの場合にも合う。",
+          "example": "The host greeted each guest at the door.",
+          "translation": "主催者は玄関で客一人一人に挨拶した。"
+        },
+        {
+          "word": "respond",
+          "definition": "相手の言葉や働きかけに反応する。",
+          "frequency": 8,
+          "difference": "自動詞で respond to someone's greeting とする。反応全般を表すため、相手の存在に気づいたことを示す意味に限定されない。",
+          "example": "She responded to my wave with a smile.",
+          "translation": "私が手を振ると、彼女は笑顔で応じた。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "ignore",
+          "definition": "相手や働きかけに注意を向けず、取り合わない。",
+          "frequency": 8,
+          "difference": "相手に反応するか、無視するかという態度の反対。意図的に相手にしない場合に使う。",
+          "example": "He ignored my greeting and walked past.",
+          "translation": "彼は私の挨拶を無視して通り過ぎた。"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "【動詞・他動詞】貢献に言及する、謝意を示す",
+      "frequency": 6,
+      "register": [
+        "仕事、スピーチ、出版、学術、謝辞。"
+      ],
+      "definition": "人の助力・功績・提供した情報などを取り上げ、その貢献を認めたり感謝を示したりすること。書籍などで出典や協力者を明らかにする場合にも使う。必ずしも「ありがとう」という言葉を使うとは限らない。",
+      "patterns": [
+        "acknowledge someone's 〈help/contribution/support〉",
+        "acknowledge the contribution of someone",
+        "acknowledge someone in 〈謝辞・文書〉",
+        "acknowledge one's sources",
+        "acknowledge 〈applause/a gift〉 with 〈反応・返礼〉"
+      ],
+      "collocations": [
+        {
+          "pattern": "acknowledge someone's contribution",
+          "use": "相手の貢献を明示して評価する。",
+          "example": "The director acknowledged the volunteers' contribution during her speech.",
+          "translation": "理事長はスピーチの中でボランティアの貢献をたたえた。"
+        },
+        {
+          "pattern": "acknowledge someone's help",
+          "use": "助けてもらったことに謝意を示す。",
+          "example": "I would like to acknowledge the help of the library staff.",
+          "translation": "図書館職員の皆様のご協力に感謝申し上げます。"
+        },
+        {
+          "pattern": "acknowledge someone in 〈謝辞・文書〉",
+          "use": "協力者を文書の中で挙げる。",
+          "example": "She acknowledged her research assistants in the book's preface.",
+          "translation": "彼女は本の序文で、研究助手たちへの謝意を述べた。"
+        },
+        {
+          "pattern": "acknowledge one's sources",
+          "use": "利用した情報の出所を明らかにする。",
+          "example": "Authors must acknowledge their sources when quoting other people's work.",
+          "translation": "著者は他人の著作を引用するとき、出典を明示しなければならない。"
+        },
+        {
+          "pattern": "acknowledge applause with a bow",
+          "use": "拍手への感謝をしぐさで示す。",
+          "example": "The pianist acknowledged the applause with a bow.",
+          "translation": "ピアニストはお辞儀をして拍手に応えた。"
+        }
+      ],
+      "notes": [
+        "acknowledge someone's help は「助けがあったことを認める」から謝意につながる。thank someone for their help は、人を直接目的語にして感謝を伝える形。acknowledge someone for ... も貢献を認める文脈で使うが、単なるお礼では thank someone for ... が明確。出典の acknowledge は出所・貢献を示すことで、相手の主張に全面的に同意することではない。拍手に応える用法は、単に姿に気づく語義4よりも感謝の反応に重点がある。"
+      ],
+      "synonyms": [
+        {
+          "word": "thank",
+          "definition": "人に感謝の気持ちを伝える。",
+          "frequency": 9,
+          "difference": "感謝を直接表す。acknowledge は協力者や出典を記載して貢献を認めるだけの場合にも使う。",
+          "example": "We thanked the neighbors for looking after our cat.",
+          "translation": "猫の世話をしてくれた近所の人たちにお礼を言った。"
+        },
+        {
+          "word": "credit",
+          "definition": "功績・成果などを人や物に帰する。",
+          "frequency": 6,
+          "difference": "誰のおかげかを特定する点に重点がある。credit someone with ...、credit something to someone の形を取る。",
+          "example": "She credited her teacher with encouraging her to write.",
+          "translation": "彼女は、文章を書くよう背中を押してくれたのは先生だと述べた。"
+        },
+        {
+          "word": "recognize",
+          "definition": "人の功績を認め、評価する。",
+          "frequency": 7,
+          "difference": "賞や待遇によって評価を示すこともある。acknowledge は言葉や記載によって貢献に触れる場合によく使う。",
+          "example": "The organization recognized his service with a special award.",
+          "translation": "その団体は特別賞を贈り、彼の尽力をたたえた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【形容詞・主に限定用法】広く認められた、公認の",
+      "frequency": 5,
+      "register": [
+        "文章、報道、学術、人物・業績の評価。"
+      ],
+      "definition": "acknowledged の形で、地位・能力・事実などが一般に認められていること。公的な免許や認可を受けたという意味に限らず、周囲が認めている評価にも使う。",
+      "patterns": [
+        "an acknowledged 〈expert/authority/master〉",
+        "the acknowledged leader in 〈分野〉",
+        "an acknowledged 〈fact/problem〉",
+        "an acknowledged expert on 〈対象〉"
+      ],
+      "collocations": [
+        {
+          "pattern": "an acknowledged expert on 〈対象〉",
+          "use": "専門家として広く認められている人物。",
+          "example": "She is an acknowledged expert on medieval pottery.",
+          "translation": "彼女は中世の陶器の専門家として広く認められている。"
+        },
+        {
+          "pattern": "the acknowledged leader in 〈分野〉",
+          "use": "分野の第一人者・先導者としての評価。",
+          "example": "The laboratory is the acknowledged leader in this area of research.",
+          "translation": "その研究所は、この研究分野を先導する存在として認められている。"
+        },
+        {
+          "pattern": "an acknowledged problem",
+          "use": "問題の存在がすでに認められていること。",
+          "example": "Staff shortages are an acknowledged problem across the industry.",
+          "translation": "人手不足は、業界全体で認識されている問題だ。"
+        }
+      ],
+      "notes": [
+        "過去分詞から来た形容詞で、特に名詞の前で使う。an acknowledged expert の acknowledged は名詞を修飾し、She is acknowledged as an expert. は語義2の受動構文。be acknowledged は受動態との境界が重なりやすいため、単独の形だけで別の意味だと決めない。very acknowledged は普通使わず、程度・範囲は widely acknowledged、generally acknowledged などで表す。"
+      ],
+      "synonyms": [
+        {
+          "word": "recognized",
+          "definition": "能力・地位・事実などが広く認められている。",
+          "frequency": 7,
+          "difference": "非常に近いが、公式の資格や制度上の承認を示す文脈にもよく使う。acknowledged は評価を認める含みが強い。",
+          "example": "He is a recognized authority on marine mammals.",
+          "translation": "彼は海洋哺乳類の権威として認められている。"
+        },
+        {
+          "word": "accepted",
+          "definition": "事実・考え方などが一般に受け入れられている。",
+          "frequency": 7,
+          "difference": "意見や説明の受容に重点がある。acknowledged は人の専門性・地位についても使う。",
+          "example": "This is the most widely accepted explanation of the results.",
+          "translation": "これは、その結果について最も広く受け入れられている説明だ。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unacknowledged",
+          "definition": "存在・価値・貢献などが認められていない。",
+          "frequency": 4,
+          "difference": "認められているかどうかという状態の直接的な反対。実際に価値がないという意味ではない。",
+          "example": "Her contribution remained unacknowledged for years.",
+          "translation": "彼女の貢献は何年もの間、認められないままだった。"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "【動詞・他動詞】署名・作成が本人の行為だと認める",
+      "frequency": 3,
+      "register": [
+        "法律、公証。ここでは米国の文書署名に関する用法。"
+      ],
+      "definition": "法律・公証の文脈で、本人が文書への署名や文書の作成を自分の行為として正式に認めること。米国の acknowledgment 手続きなどで使う。",
+      "patterns": [
+        "acknowledge one's signature before a notary",
+        "acknowledge that one executed 〈文書〉",
+        "acknowledge the execution of 〈文書〉"
+      ],
+      "collocations": [
+        {
+          "pattern": "acknowledge one's signature before a notary",
+          "use": "本人が公証人の面前で署名を自分のものと認める。",
+          "example": "The signer appeared before a notary to acknowledge her signature on the deed.",
+          "translation": "署名者は公証人の面前に出向き、その証書の署名が自分のものだと認めた。"
+        },
+        {
+          "pattern": "acknowledge that one executed 〈文書〉",
+          "use": "文書に署名し、作成した行為を本人が認める。",
+          "example": "Before the notary, he acknowledged that he had executed the document.",
+          "translation": "彼は公証人の面前で、その文書に所定の方式で署名したのは自分だと認めた。"
+        }
+      ],
+      "notes": [
+        "この文脈での execute a document は、文書を所定の方式で署名・作成すること。文面を自ら起草したという意味ではない。「実行する」と機械的に訳さない。acknowledge する主体は署名者であり、公証人が文書の内容すべてを正しいと認めるという意味ではない。",
+        "カリフォルニア州の acknowledgment の証明書は、文書内容の真実性・正確性・有効性を公証人が保証するものではないと明記している。具体的な要件や効力は法域・文書により異なる。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}

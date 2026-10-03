@@ -1,0 +1,488 @@
+{
+  "word": "access",
+  "slug": "access",
+  "ipa": "米・英: /ˈæk.ses/",
+  "lead": "情報・サービス・場所などを利用したり、人に会って話したりできること。その機会・権利・許可・実際の利用可能性を指し、どれが問題になるかは文脈で決まる。必ずしも法律上の権利や正式な許可だけを意味しない。",
+  "updated": "2026-10-03",
+  "notion_url": "https://app.notion.com/p/access-3ee4faa9b77d81ccb396cb3bd7aae3bf",
+  "pronunciation": [
+    "名詞・動詞とも2音節で、第1音節に強勢を置く。第1音節の母音は /æ/、第2音節は /e/。accesses は /ˈæk.ses.ɪz/、accessed は /ˈæk.sest/。excess「過剰」と綴り・発音を区別する。"
+  ],
+  "etymology": [
+    "名詞はフランス語・ラテン語に由来し、ラテン語 accessus「接近、入口、発作」は accēdere「近づく」から生まれた。ad-「～へ」と cēdere「進む、退く」から成る。現代の動詞は名詞から作られた。同じ cēdere にさかのぼる語には proceed「進む」と recede「後退する」がある。"
+  ],
+  "formation": [
+    {
+      "term": "accessible",
+      "description": "形容詞。「近づける、利用できる、理解しやすい」。accessible to someone とする。"
+    },
+    {
+      "term": "inaccessible",
+      "description": "形容詞。「近づけない、利用できない」。技術的制約・立地・費用など理由は文脈で決まる。"
+    },
+    {
+      "term": "accessibility",
+      "description": "名詞。「利用しやすさ、到達しやすさ」。障害の有無などにかかわらず利用できるようにする文脈でも使う。"
+    },
+    {
+      "term": "access",
+      "description": "road: 複合名詞。「施設などへの進入路」。中心となる名詞は road なので a road、roads のように数えられる。"
+    },
+    {
+      "term": "open",
+      "description": "access: 名詞・名詞修飾表現。学術出版などで「無料で読める公開方式」。具体的な再利用条件は個々のライセンスによる。"
+    }
+  ],
+  "core": [
+    {
+      "label": "対象に届いて、入ったり使ったりできること。利用の機会・経路・実際の操作につながる。語義6は歴史的残存義で、「感情などが突然起こる」という語彙的意味はこの現代の核から導けないため、個別に参照する。",
+      "description": ""
+    },
+    {
+      "label": "対象に届いて利用できる機会",
+      "description": "→ 「利用・接近の機会や権利」（語義1）"
+    },
+    {
+      "label": "対象に届いて利用する行為",
+      "description": "→ 「利用する、情報を取り出す」（語義2）"
+    },
+    {
+      "label": "対象に届いて入るための経路",
+      "description": "→ 「入るための道、到達手段」（語義3）"
+    },
+    {
+      "label": "対象に届いて入る行為",
+      "description": "→ 「場所に入る、たどり着く」（語義4）"
+    },
+    {
+      "label": "対象に届いて行う個々の処理",
+      "description": "→ 「データへのアクセス操作」（語義5）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・不可算】利用・接近の機会や権利",
+      "frequency": 8,
+      "register": [
+        "一般、仕事、教育、医療、情報技術、公共政策。"
+      ],
+      "definition": "情報・サービス・場所などを利用したり、人に会って話したりできること。その機会・権利・許可・実際の利用可能性を指し、どれが問題になるかは文脈で決まる。必ずしも法律上の権利や正式な許可だけを意味しない。",
+      "patterns": [
+        "have access to 〈対象〉",
+        "gain/get access to 〈対象〉",
+        "give/grant someone access to 〈対象〉",
+        "provide access to 〈対象〉",
+        "deny someone access to 〈対象〉",
+        "access for 〈利用者〉",
+        "equal/free/unlimited access to 〈対象〉",
+        "internet access"
+      ],
+      "collocations": [
+        {
+          "pattern": "have access to 〈対象〉",
+          "use": "情報やサービスを利用できる状態。",
+          "example": "All students have access to the online library.",
+          "translation": "すべての学生がオンライン図書館を利用できる。"
+        },
+        {
+          "pattern": "gain access to 〈対象〉",
+          "use": "新たに利用できるようになる。",
+          "example": "Members gain access to the archive after completing registration.",
+          "translation": "会員は登録を済ませると、その資料庫を利用できるようになる。"
+        },
+        {
+          "pattern": "grant someone access to 〈対象〉",
+          "use": "人に利用・閲覧の許可を与える。",
+          "example": "The manager granted the auditors access to the financial records.",
+          "translation": "管理者は監査担当者に会計記録の閲覧を許可した。"
+        },
+        {
+          "pattern": "deny someone access to 〈対象〉",
+          "use": "接近・利用を認めない。",
+          "example": "The guards denied reporters access to the meeting room.",
+          "translation": "警備員は記者たちの会議室への立ち入りを認めなかった。"
+        },
+        {
+          "pattern": "equal access to 〈対象〉",
+          "use": "利用機会の平等。",
+          "example": "The program aims to give rural communities equal access to education.",
+          "translation": "その事業は、地方の地域社会にも平等な教育機会を提供することを目指している。"
+        },
+        {
+          "pattern": "access for 〈利用者〉",
+          "use": "誰が利用できるかを示す。",
+          "example": "The subscription includes access for up to five users.",
+          "translation": "その定期契約では、最大5人まで利用できます。"
+        },
+        {
+          "pattern": "internet access",
+          "use": "インターネットを利用できる環境。",
+          "example": "Internet access is included in the room rate.",
+          "translation": "インターネットの利用料金は宿泊費に含まれています。"
+        },
+        {
+          "pattern": "have direct access to someone",
+          "use": "間に人を挟まず、特定の人物と接触できる。",
+          "example": "The project leader has direct access to the chief executive.",
+          "translation": "そのプロジェクトの責任者は、最高経営責任者と直接連絡を取れる。"
+        }
+      ],
+      "notes": [
+        "この意味は通常不可算で、have an access to ではなく have access to とする。to は前置詞で、対象を続ける。名詞は access to the files、動詞は access the files とし、動詞の access to the files は通常誤り。free access は「無料の利用」または「制限のない利用」なので文脈を確認する。親子の面会を扱う文脈では access to one's children が「子に会う機会・権利」を表すことがあるが、監護権そのものを意味せず、制度の名称や内容は地域による。Access denied. はシステム表示でも使う「アクセス拒否」。"
+      ],
+      "synonyms": [
+        {
+          "word": "admission",
+          "definition": "場所や催しなどに入ること、またはその許可。",
+          "frequency": 7,
+          "difference": "入場・入学など、受け入れられることが中心。access は継続的な利用や情報の閲覧にも使う。",
+          "example": "Admission to the exhibition is free on Sundays.",
+          "translation": "日曜日はその展覧会に無料で入場できます。"
+        },
+        {
+          "word": "entry",
+          "definition": "場所や組織などに入ること、または入る許可。",
+          "frequency": 7,
+          "difference": "中へ入ることに焦点がある。access は実際に入ったかどうかとは別に、利用できる状態も表す。",
+          "example": "Entry to the laboratory is restricted to authorized staff.",
+          "translation": "研究室への立ち入りは、許可された職員に限られています。"
+        },
+        {
+          "word": "use",
+          "definition": "何かを利用すること、または利用する権利。",
+          "frequency": 8,
+          "difference": "have the use of のような形で利用権を表せる。access は利用に至る機会や条件に重点を置く。",
+          "example": "Guests have the use of a shared kitchen.",
+          "translation": "宿泊客は共用キッチンを利用できます。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【動詞・他動詞】利用する、情報を取り出す",
+      "frequency": 8,
+      "register": [
+        "情報技術では一般的。サービス・資源については仕事・行政などの説明でよく使う。"
+      ],
+      "definition": "情報・システム・サービス・資源などを利用できるようになること。また、情報を開く・取り出すなどして利用すること。コンピューター上のファイルを開く場合から、必要な支援や資金を利用する場合まで使える。",
+      "patterns": [
+        "access 〈information/data/files〉",
+        "access the internet",
+        "access one's account",
+        "access 〈services/support/funds〉",
+        "access something via/from 〈手段・端末〉",
+        "be accessed by 〈利用者〉"
+      ],
+      "collocations": [
+        {
+          "pattern": "access 〈information/data〉",
+          "use": "必要な情報を取得・閲覧する。",
+          "example": "Researchers can access the data without downloading the entire archive.",
+          "translation": "研究者は資料全体をダウンロードせずに、そのデータを閲覧できる。"
+        },
+        {
+          "pattern": "access one's account",
+          "use": "アカウントに入って内容や機能を使う。",
+          "example": "I can't access my account because I've forgotten my password.",
+          "translation": "パスワードを忘れたため、アカウントにアクセスできません。"
+        },
+        {
+          "pattern": "access the internet",
+          "use": "インターネットに接続して使う。",
+          "example": "Visitors can access the internet through the library's Wi-Fi network.",
+          "translation": "来館者は図書館のWi-Fiを使ってインターネットを利用できる。"
+        },
+        {
+          "pattern": "access something from 〈端末〉",
+          "use": "利用に使う端末を示す。",
+          "example": "You can access the shared files from any computer in the office.",
+          "translation": "オフィス内のどのコンピューターからでも共有ファイルにアクセスできます。"
+        },
+        {
+          "pattern": "access 〈services/support〉",
+          "use": "必要なサービスや支援を利用する。",
+          "example": "The helpline helps families access local support services.",
+          "translation": "その相談窓口は、家族が地域の支援サービスを利用できるよう手助けしている。"
+        },
+        {
+          "pattern": "access one's funds",
+          "use": "自分の資金を引き出すなどして利用する。",
+          "example": "Customers can access their funds through the mobile app.",
+          "translation": "顧客はモバイルアプリを通じて、自分の資金を引き出すなどの操作ができる。"
+        },
+        {
+          "pattern": "be accessed by 〈利用者〉",
+          "use": "誰がファイルやサービスを使えるかを受動態で示す。",
+          "example": "These records can be accessed only by authorized staff.",
+          "translation": "これらの記録を閲覧できるのは、許可された職員だけです。"
+        }
+      ],
+      "notes": [
+        "目的語を直接続ける。他動詞なので access to information ではなく access information。名詞を使うなら gain access to information とする。受動態も普通に使う。accessed、accessing は通常の活用形で、「利用しやすい」は accessible。access a service は利用できるようになることに焦点があり、そのサービスのすべての機能を実際に使い終えたという意味ではない。一般的な相手への「連絡する」を access someone で置き換えず、contact someone や have access to someone を使い分ける。"
+      ],
+      "synonyms": [
+        {
+          "word": "retrieve",
+          "definition": "保存されている情報などを探して取り出す。",
+          "frequency": 6,
+          "difference": "取り出して手元に得ることを強調する。access は画面上で閲覧したり、システムを使ったりするだけでも成立する。",
+          "example": "The program retrieves the latest figures from the database.",
+          "translation": "そのプログラムはデータベースから最新の数値を取り出す。"
+        },
+        {
+          "word": "use",
+          "definition": "物・機能・サービスを目的のために使う。",
+          "frequency": 10,
+          "difference": "最も広い日常語。access は利用先に到達することや、利用可能になることに焦点を置く。",
+          "example": "You can use this app to edit photos.",
+          "translation": "このアプリで写真を編集できます。"
+        },
+        {
+          "word": "obtain",
+          "definition": "必要な情報・資源などを手に入れる。",
+          "frequency": 7,
+          "difference": "入手という結果を表す。access は所有せずに閲覧・利用できる場合にも使う。",
+          "example": "We obtained a copy of the report from the local office.",
+          "translation": "私たちは現地の事務所から報告書の写しを入手した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・通常不可算】入るための道、到達手段",
+      "frequency": 6,
+      "register": [
+        "一般、案内、不動産、交通、施設設計。"
+      ],
+      "definition": "場所に入ったり近づいたりするための経路・手段。単に許可があるかではなく、どこを通るか、何で行けるかという物理的な到達のしやすさを表す。",
+      "patterns": [
+        "access to 〈場所〉",
+        "access via/through 〈経路〉",
+        "access by 〈交通手段〉",
+        "wheelchair access",
+        "an access 〈road/route/point〉",
+        "the only access to 〈場所〉"
+      ],
+      "collocations": [
+        {
+          "pattern": "access to 〈場所〉",
+          "use": "目的地へ通じる物理的な経路。",
+          "example": "A narrow path provides access to the beach below the cliffs.",
+          "translation": "狭い小道を通って、崖の下の浜辺に出られる。"
+        },
+        {
+          "pattern": "access through 〈経路〉",
+          "use": "建物のどこから入れるかを示す。",
+          "example": "Access to the courtyard is through a passage beside the shop.",
+          "translation": "中庭へは、店の横の通路から入ります。"
+        },
+        {
+          "pattern": "access by 〈交通手段〉",
+          "use": "利用できる交通手段。",
+          "example": "Access by car is difficult because the final stretch is unpaved.",
+          "translation": "最後の区間が舗装されていないため、車では行きにくい。"
+        },
+        {
+          "pattern": "wheelchair access",
+          "use": "車椅子で出入りできる経路や設備。",
+          "example": "The new ramp provides wheelchair access to the main entrance.",
+          "translation": "新しいスロープができて、車椅子で正面玄関まで行けるようになった。"
+        },
+        {
+          "pattern": "an access road",
+          "use": "施設などへ通じる進入路。",
+          "example": "A fallen tree has blocked the access road to the campsite.",
+          "translation": "倒木でキャンプ場への進入路が塞がれている。"
+        }
+      ],
+      "notes": [
+        "通常は access を不可算として使い、a way in、an entrance などとは数え方が違う。特定の経路なら the only access のように the を付けられる。an access road の a は road に対応し、access 自体を数えているわけではない。交通案内の easy access は「行きやすい」という意味で、インターネットへの接続だけを指す語ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "entrance",
+          "definition": "建物や場所に入るための出入口。",
+          "frequency": 8,
+          "difference": "可算名詞で、戸口・門などの具体的な入口に焦点を置く。access はそこへ至る道や手段全体も表す。",
+          "example": "The entrance to the museum is on the north side.",
+          "translation": "博物館の入口は北側にある。"
+        },
+        {
+          "word": "approach",
+          "definition": "場所に近づくための道や経路。",
+          "frequency": 5,
+          "difference": "目的地へ近づく区間に重点がある。access は入れることや目的地に届く手段まで含む。",
+          "example": "Floodwater covered the southern approach to the bridge.",
+          "translation": "洪水で、橋へ南側から通じる道が水に浸かった。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞・他動詞】場所に入る、たどり着く",
+      "frequency": 6,
+      "register": [
+        "案内、不動産、技術・作業説明。日常会話の get to や get into より説明的。"
+      ],
+      "definition": "入口・通路・交通手段などを使って、場所や物の内部に到達すること。建物だけでなく、機器の内部など、作業対象に手が届くようにする場合にも使う。",
+      "patterns": [
+        "access 〈場所・内部〉",
+        "access something via/through 〈経路〉",
+        "be accessed from 〈出発側の場所〉",
+        "be accessed by 〈交通手段〉",
+        "be easily accessed"
+      ],
+      "collocations": [
+        {
+          "pattern": "access 〈場所・内部〉",
+          "use": "到達して内部に入る、または作業できるようにする。",
+          "example": "Remove the cover to access the battery compartment.",
+          "translation": "カバーを外すと電池収納部に手が届きます。"
+        },
+        {
+          "pattern": "access 〈場所〉 via 〈経路〉",
+          "use": "どの経路を通って入るかを示す。",
+          "example": "Visitors access the garden via a gate behind the museum.",
+          "translation": "来館者は博物館の裏の門から庭園に入ります。"
+        },
+        {
+          "pattern": "be accessed from 〈場所〉",
+          "use": "どこから入れるかを受動態で示す。",
+          "example": "The roof terrace is accessed from the third-floor corridor.",
+          "translation": "屋上テラスへは3階の廊下から出られます。"
+        },
+        {
+          "pattern": "be accessed by 〈交通手段〉",
+          "use": "目的地までの移動手段。",
+          "example": "The island can be accessed only by boat.",
+          "translation": "その島へは船でしか行けません。"
+        }
+      ],
+      "notes": [
+        "場所を直接目的語に取る。access to the roof を動詞句のつもりで使わず、access the roof または get access to the roof とする。受動態は案内文でよく使う。via・through・from・by は経路や手段を補う前置詞で、access と固定の句動詞を作るわけではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "reach",
+          "definition": "移動して場所や対象まで届く。",
+          "frequency": 9,
+          "difference": "到着・到達が中心で、内部に入ることは必ずしも含まない。access は入る・手を届かせるための経路を意識させる。",
+          "example": "We reached the village just before sunset.",
+          "translation": "私たちは日没の直前に村に着いた。"
+        },
+        {
+          "word": "enter",
+          "definition": "場所の外から中へ入る。",
+          "frequency": 8,
+          "difference": "内外の境界を越えることに焦点がある。access は場所まで行けることや機器内部に手が届くことにも使う。",
+          "example": "Please enter the building through the side door.",
+          "translation": "横のドアから建物にお入りください。"
+        },
+        {
+          "word": "get to",
+          "definition": "ある場所まで行き着く。",
+          "frequency": 9,
+          "difference": "会話で自然な表現。access より広く、所要時間や移動の話にも使う。",
+          "example": "How do we get to the station from here?",
+          "translation": "ここから駅へはどう行けばよいですか。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞・可算または不可算】データへのアクセス操作",
+      "frequency": 4,
+      "register": [
+        "コンピューター、プログラミング、性能分析。"
+      ],
+      "definition": "コンピューターが記憶領域やデータなどを読み出し・書き込みのために参照すること。また、その個々の操作。利用する権限ではなく、実行される処理自体を指す。",
+      "patterns": [
+        "memory access",
+        "disk access",
+        "a memory access",
+        "〈数〉 memory accesses",
+        "access time"
+      ],
+      "collocations": [
+        {
+          "pattern": "memory access",
+          "use": "メモリーを参照する処理全般。",
+          "example": "This optimization reduces the time spent on memory access.",
+          "translation": "この最適化により、メモリーへのアクセスにかかる時間が短くなる。"
+        },
+        {
+          "pattern": "〈数〉 memory accesses",
+          "use": "個々のアクセス操作を数える。",
+          "example": "Each iteration requires two memory accesses.",
+          "translation": "反復処理1回につき、メモリーへのアクセスが2回必要になる。"
+        },
+        {
+          "pattern": "access time",
+          "use": "データにアクセスするのにかかる時間。",
+          "example": "Faster storage can reduce average access time.",
+          "translation": "より高速な記憶装置を使うと、平均アクセス時間を短縮できる。"
+        }
+      ],
+      "notes": [
+        "処理一般は不可算、個々の回数を数えるときは an access、accesses が使える。この専門的な可算用法を、語義1の have access to に広げない。a memory access は可算だが、access time の access は名詞を修飾している。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【名詞・可算】感情などの急な高まり、発作",
+      "frequency": 2,
+      "register": [
+        "文学的、古風。病気については特に古い表現。"
+      ],
+      "definition": "怒りなどの感情が急に強く起こること。古い文章では病気の発作にも使われる。現代の一般的な「アクセス」とは別に覚える文学的・古風な用法。",
+      "patterns": [
+        "an access of 〈rage/anger〉",
+        "in an access of 〈感情〉"
+      ],
+      "collocations": [
+        {
+          "pattern": "an access of rage",
+          "use": "怒りが突然込み上げる場面の文学的な描写。",
+          "example": "An access of rage left him unable to speak.",
+          "translation": "怒りが急に込み上げて、彼は言葉を失った。"
+        },
+        {
+          "pattern": "in an access of anger",
+          "use": "突然の怒りに駆られた行動。",
+          "example": "In an access of anger, she tore the letter into pieces.",
+          "translation": "急に怒りがこみ上げ、彼女は手紙を細かく引き裂いた。"
+        }
+      ],
+      "notes": [
+        "この意味では an access of とし、利用・接近を表す access to と区別する。日常会話では a fit of anger や a burst of anger が分かりやすい。現代の病状を説明する際に、一般的な attack や episode の代わりとして積極的に使う語ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "fit",
+          "definition": "感情や身体的な症状が一時的に激しく起こること。",
+          "frequency": 6,
+          "difference": "a fit of anger の形は access of anger より一般的。病気の意味もあるが、何の fit かで解釈が変わる。",
+          "example": "In a fit of anger, he threw his notes into the bin.",
+          "translation": "かっとなって、彼はメモをごみ箱に投げ込んだ。"
+        },
+        {
+          "word": "burst",
+          "definition": "感情・活動などが突然強く現れること。",
+          "frequency": 7,
+          "difference": "短時間に一気に現れる感じを強調し、喜び・笑い・活動にも広く使う。",
+          "example": "The joke produced a burst of laughter.",
+          "translation": "その冗談に、どっと笑いが起こった。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
