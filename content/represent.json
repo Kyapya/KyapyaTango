@@ -3,7 +3,7 @@
   "slug": "represent",
   "ipa": "米・英: /ˌreprɪˈzent/",
   "lead": "人・団体・地域などの立場を担って行動・発言する。弁護士や代理人として事務を扱う場合、会合で代わりに出席する場合、国・学校などの代表として競技に参加する場合を含む。",
-  "updated": "2026-10-02",
+  "updated": "2026-10-03",
   "notion_url": "https://app.notion.com/p/represent-3804faa9b77d81c9b22ffaf53e0fca1b",
   "pronunciation": [
     "3音節で、主強勢は第3音節 /zent/、副強勢は第1音節 /rep/ にある。綴りの s は /z/ と発音する。",
@@ -50,7 +50,7 @@
       "description": "→ 「象徴する、意味を表す、性質を体現する」（語義2）"
     },
     {
-      "label": "物事が当たる性質・割合を示す対応",
+      "label": "物事の位置づけや全体に占める割合",
       "description": "→ 「〜に当たる、〜を構成する、全体の割合を占める」（語義3）"
     },
     {
@@ -290,6 +290,7 @@
       "definition": "絵・図・文章などで対象の姿や内容を示す。また、対象をある性質・立場のものとして描いたり説明したりする。実際の姿を写す描写、図表による情報提示、評価を含む人物像の提示などを、目的語と as の後の内容で区別する。",
       "patterns": [
         "represent 〈人・場面・対象〉＝〜を描写する",
+        "represent 〈対象〉 + 〈-ing句〉＝対象が〜している姿を描く",
         "represent 〈情報〉 as 〈形式〉＝情報を〜の形式で表す",
         "be represented as 〈形式〉＝〜の形式で表される",
         "represent 〈人・物〉 as 〈名詞句〉＝〜として描く・説明する",
@@ -304,6 +305,12 @@
           "use": "絵や彫刻などが具体的な場面を描く。",
           "example": "The painting represents a crowded market at dawn.",
           "translation": "その絵は夜明けの混雑した市場を描いている。"
+        },
+        {
+          "pattern": "represent 〈対象〉 + 〈-ing句〉",
+          "use": "対象がある動作をしている姿を描く。",
+          "example": "The painting represents children playing by a river.",
+          "translation": "その絵は、子どもたちが川辺で遊んでいる姿を描いている。"
         },
         {
           "pattern": "be represented as a graph",
@@ -384,12 +391,13 @@
       "title": "【動詞・受け身中心】集団や場所に含まれている、存在が反映されている",
       "frequency": 7,
       "register": [
-        "受け身の be represented が中心。集団構成、調査、社会的な参加、展示などの説明で使う。"
+        "集団構成、調査、社会的な参加、展示などの説明で使う。"
       ],
       "definition": "ある集団に属する人・物・意見などが、組織・場所・活動・標本の中に一定の程度で含まれていることを表す。特定の代理人が任命されているとは限らない。",
       "patterns": [
         "〈集団〉 be represented in 〈組織・標本・場所〉＝その集団の人・物などが含まれる",
         "〈集団〉 be represented on 〈委員会・名簿〉＝その集団の人などが委員会・名簿に含まれる",
+        "〈集団〉 be represented at 〈会合・催し〉＝その集団の人などが参加している",
         "be well/poorly represented＝十分に含まれる・十分には含まれない",
         "be equally represented＝等しく含まれる"
       ],
@@ -413,6 +421,12 @@
           "translation": "その標本では、高齢の住民があまり含まれていなかった。"
         },
         {
+          "pattern": "be well represented at a conference",
+          "use": "会議の参加者にある集団の人が十分な人数含まれていることを述べる。",
+          "example": "Young researchers were well represented at the conference.",
+          "translation": "その会議には若手研究者が十分な人数参加していた。"
+        },
+        {
           "pattern": "be equally represented",
           "use": "複数の集団が同程度に含まれる。",
           "example": "The two age groups were equally represented in the study.",
@@ -420,7 +434,7 @@
         }
       ],
       "notes": [
-        "be represented by a lawyer は代理人を示す語義1である。ここでは in/on の後に集団・場所などを置き、well、poorly、equally などで含まれ方を述べる。underrepresented は、ある基準や期待に比べて存在・割合・意見の反映が不十分なことを表す。",
+        "be represented by a lawyer は代理人を示す語義1である。この語義では in/on に続けて組織・標本・場所などを、at に続けて会合・催しなどを示せる。among 〈人々〉で、どの人々の中に含まれるかを示すこともある。well、poorly、equally などで含まれ方を述べる。underrepresented は、ある基準や期待に比べて存在・割合・意見の反映が不十分なことを表す。",
         "以下の exclude は、誰かを参加や対象から外す行為との対照である。「代理を務める」の反意語としては扱わない。",
         "exclude",
         "定義: 除外する、含めない。",
@@ -484,7 +498,7 @@
         }
       ],
       "notes": [
-        "represent someone は人を代理する語義1だが、represent something to someone は内容をその人に伝える構文である。that 節は表明の内容、to の後の名詞句は相手を示す。法律・契約の文章で使われても、語だけから一律の保証内容や法的効果を決めることはできない。"
+        "代理の意味の represent someone（語義1）と異なり、represent something to someone は内容をその人に伝える構文である。that 節は表明の内容、to の後の名詞句は相手を示す。法律・契約の文章で使われても、語だけから一律の保証内容や法的効果を決めることはできない。"
       ],
       "synonyms": [
         {
