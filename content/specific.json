@@ -501,7 +501,7 @@
     },
     {
       "number": 7,
-      "title": "【形容詞・限定用法】従量制の、数量当たり定額の",
+      "title": "【形容詞・限定／叙述用法】従量制の、数量当たり定額の",
       "frequency": 3,
       "register": [
         "貿易、関税、経済。制度上の税率・適用品目をここで一律に定めるものではない。"
@@ -510,7 +510,8 @@
       "patterns": [
         "a specific duty＝従量税",
         "a specific tariff＝従量関税",
-        "a specific duty of 〈金額〉 per 〈単位〉＝単位当たり～の従量税"
+        "a specific duty of 〈金額〉 per 〈単位〉＝単位当たり～の従量税",
+        "〈duties/tariffs〉 + be specific＝関税が従量制である"
       ],
       "collocations": [
         {
@@ -524,10 +525,16 @@
           "use": "価格に対する割合ではなく、数量基準の関税であることを示す。",
           "example": "A specific tariff does not automatically rise when the product's price increases.",
           "translation": "従量関税の単位当たりの税額は、商品の価格が上がっても自動的には増えない。"
+        },
+        {
+          "pattern": "〈duties/tariffs〉 + be specific",
+          "use": "関税の算定方式を、叙述用法で分類する。",
+          "example": "These duties are specific rather than ad valorem: importers pay a fixed amount per kilogram.",
+          "translation": "これらの関税は従価制ではなく従量制で、輸入業者は1キログラム当たり一定額を支払う。"
         }
       ],
       "notes": [
-        "通常語の a specific tariff が単に「ある特定の関税」を意味する場合もあるため、per kilogram などの数量基準や ad valorem との対比を確認する。この専門義では「詳しい関税」ではない。specific は単位当たりの税額を表し、荷物全体に同じ総額がかかるという意味ではない。"
+        "通常語の a specific tariff が単に「ある特定の関税」を意味する場合もあるため、per kilogram などの数量基準や ad valorem との対比を確認する。名詞の前だけでなく、duties are specific のように叙述用法でも使う。この専門義では「詳しい関税」ではなく、more specific で税額の大小を比べる用法でもない。specific は単位当たりの税額を表し、荷物全体に同じ総額がかかるという意味ではない。"
       ],
       "synonyms": [],
       "antonyms": [
