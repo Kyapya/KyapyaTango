@@ -93,7 +93,7 @@ def sense_html(sense: dict) -> str:
       </div>
       <p class="definition ja">{escape(sense['definition'])}</p>
       {details_block('文法パターン', pattern_body, len(sense.get('patterns', [])), True)}
-      {details_block('コロケーションと例文', f'<div class="card-grid">{collocations}</div>', len(sense.get('collocations', [])), True)}
+      {details_block('コロケーション・構文例', f'<div class="card-grid">{collocations}</div>', len(sense.get('collocations', [])), True)}
       {details_block('語法・注意', notes_body, len(sense.get('notes', [])), False)}
       {details_block('類義語', f'<div class="card-grid">{syns}</div>', len(sense.get('synonyms', [])), False) if syns else ''}
       {details_block('反意語', f'<div class="card-grid">{ants}</div>', len(sense.get('antonyms', [])), False) if ants else ''}
