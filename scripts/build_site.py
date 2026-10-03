@@ -35,15 +35,23 @@ def chips(items: list[str]) -> str:
 
 
 def relation_cards(items: list[dict]) -> str:
-    return "".join(
-        f'''<article class="relation-card searchable">
+    cards = []
+    for item in items:
+        # Use this relation's sense-specific score, never the headword's score.
+        score = item.get("frequency")
+        frequency = ""
+        if type(score) is int and 1 <= score <= 10:
+            frequency = f'<div class="frequency relation-frequency"><b>この語義の頻度 {score}/10</b></div>'
+        cards.append(
+            f'''<article class="relation-card searchable">
           <h4>{escape(item['word'])}</h4>
+          {frequency}
           <p class="ja"><b>違い</b>{escape(item['difference'])}</p>
           <p><b>例</b>{escape(item['example'])}</p>
           <p class="ja"><b>訳</b>{escape(item['translation'])}</p>
         </article>'''
-        for item in items
-    )
+        )
+    return "".join(cards)
 
 
 def details_block(title: str, body: str, count: int, open_by_default: bool = False) -> str:
