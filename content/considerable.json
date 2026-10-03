@@ -14,7 +14,7 @@
   "formation": [
     {
       "term": "considerably（副詞）",
-      "description": "「かなり、相当に」。動詞・形容詞・副詞を修飾し、considerably improve「かなり改善する」、considerably larger「かなり大きい」のように使う。"
+      "description": "「かなり、相当に」。動詞・形容詞・副詞を修飾し、considerably improve「かなり改善する」、considerably larger「（～より）かなり大きい」のように使う。"
     },
     {
       "term": "inconsiderable（形容詞）",
@@ -23,7 +23,7 @@
   ],
   "core": [
     {
-      "label": "量・程度や重要性が、軽く扱えないほど大きいというイメージ。量の大きさを述べる用法が中心で、人の重要性を表す硬い用法や、量そのものを指すまれな名詞用法にもつながる。",
+      "label": "量・程度や重要性が、軽く扱えないほど大きいというイメージ。量の大きさを述べる用法が中心で、人物・作品などの重要性を表す硬い用法や、量そのものを指すまれな名詞用法にもつながる。",
       "description": ""
     },
     {
@@ -31,7 +31,7 @@
       "description": "→ 「かなりの、相当な」（語義1）"
     },
     {
-      "label": "人物の重要性の無視できない大きさ",
+      "label": "人物・作品などの重要性の無視できない大きさ",
       "description": "→ 「重要な、注目に値する」（語義2）"
     },
     {
@@ -57,7 +57,10 @@
         "a considerable number of 〈複数名詞〉＝かなりの数の～",
         "〈物事〉 + be/seem + considerable＝物事の規模・程度が相当である",
         "of considerable 〈importance/value〉＝相当な重要性・価値のある",
-        "at considerable risk＝大きな危険を冒して",
+        "at considerable risk＝大きな危険を伴って",
+        "be at considerable risk of 〈名詞",
+        "動名詞〉＝～の危険性がかなり高い",
+        "to a considerable extent＝かなりの程度・範囲で",
         "some considerable time＝相当な時間・期間。"
       ],
       "collocations": [
@@ -71,7 +74,7 @@
           "pattern": "a considerable number of 〈複数名詞〉",
           "use": "人や物の数が相当多いことを述べる。",
           "example": "A considerable number of applicants have previous teaching experience.",
-          "translation": "かなりの数の応募者に、教えた経験がある。"
+          "translation": "かなりの数の応募者が、これまでに人に教えた経験を持っている。"
         },
         {
           "pattern": "considerable progress",
@@ -98,6 +101,18 @@
           "translation": "ボランティアたちは自ら大きな危険を冒して食料を届けた。"
         },
         {
+          "pattern": "be at considerable risk of 〈名詞／動名詞〉",
+          "use": "人や物事が大きな危険にさらされている状態を述べる。",
+          "example": "The old bridge is at considerable risk of collapse.",
+          "translation": "その古い橋は、崩落する危険性がかなり高い。"
+        },
+        {
+          "pattern": "to a considerable extent",
+          "use": "あることが当てはまる程度や範囲が、かなり大きいことを述べる。",
+          "example": "I agree with her analysis to a considerable extent.",
+          "translation": "彼女の分析には、かなりの部分で同意する。"
+        },
+        {
           "pattern": "be of considerable importance",
           "use": "ある物事の重要性が高いことを、改まった表現で述べる。",
           "example": "Reliable transport is of considerable importance to rural communities.",
@@ -117,14 +132,14 @@
         }
       ],
       "notes": [
-        "considerable progress の progress は不可算なので、不定冠詞を付けた a considerable progress とはしない。一方、単数可算の difference には a considerable difference のように冠詞が必要。a considerable number of applicants are ... は複数の応募者を述べるので通常 are を使い、a considerable amount of work is ... では量を表す amount に合わせて通常 is を使う。some considerable time の some は、ここでは「少し」を意味しない。程度は quite considerable、very considerable と強められ、比較には more considerable、most considerable を使える。ただし「かなり大きい」と比較級そのものを修飾する場合は、形容詞でなく副詞の considerably larger を使う。considerable は量・程度が大きいことであり、「思いやりがある」は considerate。例えば considerable help は「多大な援助」、a considerate colleague は「思いやりのある同僚」で、同じ意味ではない。"
+        "considerable progress の progress は不可算なので、不定冠詞を付けた a considerable progress とはしない。一方、単数可算の difference には a considerable difference のように冠詞が必要。a considerable number of applicants are ... は複数の応募者を述べるので通常 are を使い、a considerable amount of work is ... では量を表す amount に合わせて通常 is を使う。at considerable risk は、大きな危険を伴って行動する場合にも、be at considerable risk of collapse のように危険にさらされた状態にも使う。to themselves などは危険が及ぶ相手を明示する語句で、必須ではない。some considerable time の some は、ここでは「少し」を意味しない。程度は quite considerable、very considerable と強められ、比較には more considerable、most considerable を使える。ただし標準的な現代英語で「～よりかなり大きい」と比較級そのものを修飾する場合は、形容詞でなく副詞の considerably larger を使う。非標準的・古風な英語には considerable better のような副詞用法もあるが、通常の文章では considerably better とする。considerable は量・程度が大きいことであり、「思いやりがある」は considerate。例えば considerable help は「多大な援助」、a considerate colleague は「思いやりのある同僚」で、同じ意味ではない。"
       ],
       "synonyms": [
         {
           "word": "substantial",
           "definition": "量・規模・程度が相当大きいこと。",
           "frequency": 8,
-          "difference": "considerable と重なるが、substantial は実質のある大きな量・規模に焦点を置きやすい。a substantial increase は「相当な増加」で、統計上の有意性まで意味するわけではない。",
+          "difference": "considerable と重なるが、substantial は実質のある大きな量・規模に焦点を置きやすい。a substantial increase は「相当な増加」を表す。",
           "example": "The repairs required a substantial investment.",
           "translation": "その修理には相当な投資が必要だった。"
         },
@@ -148,7 +163,7 @@
           "word": "large",
           "definition": "大きさ・量・規模が大きいこと。",
           "frequency": 10,
-          "difference": "considerable より日常的で広く使えるが、結び付く名詞は同じではない。a large amount of work とは言えるが、通常 large work で「大量の仕事」とは言わない。",
+          "difference": "considerable より日常的で広く使えるが、結び付く名詞は同じではない。considerable work は「かなりの仕事量」を表せるが、large なら a large amount of work とし、通常 large work で「大量の仕事」とは言わない。",
           "example": "The survey produced a large amount of useful data.",
           "translation": "その調査から大量の有用なデータが得られた。"
         }
@@ -187,23 +202,30 @@
       "register": [
         "硬い用法。人物評、批評、伝記などで見られる。"
       ],
-      "definition": "人物が、能力・業績・影響力などの点で重要な存在であること。人物そのものを評価する用法で、体の大きさを表すのではない。",
+      "definition": "人物が、能力・業績・影響力などの点で重要な存在であること。作品などが、内容や意義の点で注目・評価に値する場合にも使う。単なる量・大きさではなく、対象の価値・重要性を評価する。",
       "patterns": [
         "a considerable 〈artist/figure〉＝重要な芸術家・人物",
-        "one of the most considerable 〈複数の人物名詞〉＝特に重要な人物の一人。"
+        "one of the most considerable 〈複数の人物名詞〉＝特に重要な人物の一人",
+        "a considerable work of literature＝重要な文学作品。"
       ],
       "collocations": [
         {
           "pattern": "a considerable artist",
           "use": "芸術家を、重要な業績のある存在として評価する。",
           "example": "Although little known abroad, she was a considerable artist whose work shaped a generation of painters.",
-          "translation": "海外ではほとんど知られていなかったが、彼女は一世代の画家たちに影響を与えた重要な芸術家だった。"
+          "translation": "海外ではほとんど知られていなかったが、彼女は重要な芸術家で、その作品は一世代の画家たちに大きな影響を及ぼした。"
         },
         {
           "pattern": "one of the most considerable 〈複数の人物名詞〉",
           "use": "同じ分野の人物の中でも特に重要な存在として評価する。",
           "example": "He was one of the most considerable historians of his generation.",
           "translation": "彼は同世代の中でも特に重要な歴史家の一人だった。"
+        },
+        {
+          "pattern": "a considerable work of literature",
+          "use": "文学作品を、その内容や意義の点で高く評価する。",
+          "example": "Despite its brevity, the novel is a considerable work of literature.",
+          "translation": "短いながらも、その小説は重要な文学作品である。"
         }
       ],
       "notes": [
@@ -212,7 +234,7 @@
       "synonyms": [
         {
           "word": "important",
-          "definition": "ある分野などで、大きな影響や意味を持つこと。",
+          "definition": "人物が、役割・地位・影響力などの点で重要な存在であること。",
           "frequency": 9,
           "difference": "considerable の人物評より一般的で、影響力だけでなく役割や地位の重要性にも広く使える。",
           "example": "She became an important figure in the movement.",
