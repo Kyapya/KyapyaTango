@@ -3,7 +3,7 @@
   "slug": "assess",
   "ipa": "米・英: /əˈses/。2音節の ə-ˈses で、第2音節に主強勢がある。第2音節の母音を /ɛ/ と表記する辞書もあるが、表記方式の違いで、音は同じである。いずれも語頭の /ə/ が弱く、第2音節の母音は日本語の「エ」に近いが同一ではない。つづりの似た access /ˈækses/ は第1音節に強勢があり、母音も /æ/ で異なる。possess /pəˈzes/ は s が /z/ と発音されるが、assess の s は2つとも /s/ である。",
   "lead": "情報、観察、証拠、基準などに基づいて、人・物・能力・リスク・必要性・状況などを慎重に判断する。単なる印象や当て推量ではなく、調べた内容をもとに「どう評価できるか」「何が必要か」を決める含みがある。",
-  "updated": "2026-09-27",
+  "updated": "2026-10-03",
   "notion_url": "https://app.notion.com/p/assess-3804faa9b77d813ea77fc9f0f84a6390",
   "pronunciation": [
     "assesses は /əˈsesɪz/、assessed は /əˈsest/、assessing は /əˈsesɪŋ/。assessed の -ed は /t/ と発音され、assess の最後の /s/ の後に独立した /ɪd/ 音節を加えない。"
@@ -41,8 +41,20 @@
   ],
   "core": [
     {
-      "label": "対象を調べ、基準に照らして、性質・程度・価値・負担額を決めることが中心にある。判断材料は情報・観察・経験などである。対象の性質や適格性なら一般的な評価、量・金額・価値なら査定、税・料金などの負担やスポーツのペナルティなら正式に科す用法へ具体化する（それぞれ語義1・2・3）。",
+      "label": "対象を調べ、基準に照らして、性質・程度・価値・負担を判断し、定めることが中心にある。判断材料は情報・観察・経験などである。",
       "description": ""
+    },
+    {
+      "label": "対象を調べて性質・程度を判断すること",
+      "description": "→ 「評価する、判断する」（語義1）"
+    },
+    {
+      "label": "対象を調べて金額・数量・価値を定めること",
+      "description": "→ 「金額・数量・価値などを査定する」（語義2）"
+    },
+    {
+      "label": "対象を調べて税・料金・罰などの負担を定めること",
+      "description": "→ 「税・料金・罰金などを算定・賦課する／反則に対するペナルティを科す」（語義3）"
     }
   ],
   "sources": [],
@@ -84,19 +96,19 @@
           "translation": "技術者たちはその地域の洪水リスクを評価した。"
         },
         {
-          "pattern": "assess the extent of 〈damage・problem〉",
+          "pattern": "assess the extent of the damage／assess the extent of the problem",
           "use": "被害や問題がどの範囲・程度に及ぶかを評価する。金額の査定ではなく、広がりや規模の把握に焦点がある。",
           "example": "Officials assessed the extent of the damage caused by the storm.",
           "translation": "当局者は、嵐による被害がどこまで及んでいるかを調べた。"
         },
         {
-          "pattern": "assess the severity of 〈injury・condition〉",
+          "pattern": "assess the severity of an injury／assess the severity of a condition",
           "use": "けがや状態の深刻さを評価する。",
           "example": "The doctor assessed the severity of the injury before recommending treatment.",
           "translation": "医師は治療を勧める前に、けがの深刻さを確認した。"
         },
         {
-          "pattern": "assess the impact of 〈change・project〉",
+          "pattern": "assess the impact of a change／assess the impact of a project",
           "use": "変化や計画が及ぼす影響を評価する。",
           "example": "The study assessed the impact of the new law on small businesses.",
           "translation": "その研究では、新しい法律が小規模企業に与える影響が検証された。"
@@ -126,7 +138,7 @@
           "translation": "感染リスクは低いと評価された。"
         },
         {
-          "pattern": "assess someone for 〈condition・eligibility〉",
+          "pattern": "assess someone for 〈病気・障害・適格性〉",
           "use": "人に特定の状態があるか、資格があるかを調べる。",
           "example": "The clinic assessed the child for dyslexia.",
           "translation": "診療所で、その子にディスレクシア（読み書き障害）がないか検査した。"
@@ -152,11 +164,11 @@
         {
           "pattern": "carefully/accurately/fully assess",
           "use": "評価の慎重さ・正確さ・網羅性を副詞で強める。",
-          "example": "We need to carefully assess the costs before making a decision.",
-          "translation": "決定を下す前に、費用を慎重に検討する必要がある。"
+          "example": "We need to carefully assess the risks before making a decision.",
+          "translation": "決定を下す前に、リスクを慎重に評価する必要がある。"
         },
         {
-          "pattern": "be assessed on 〈coursework・exam〉",
+          "pattern": "be assessed on coursework／be assessed on an exam",
           "use": "教育で、学生の成績が課題や試験によって評価される。",
           "example": "Students are assessed on their coursework and a final exam.",
           "translation": "学生は課題と期末試験で評価される。"
@@ -184,9 +196,9 @@
         },
         {
           "word": "appraise",
-          "definition": "人の業績・能力などを、正式な手続きで評価する。",
+          "definition": "人の業績・能力や物事の質などを調べて評価する。",
           "frequency": 5,
-          "difference": "appraise は人事考課（performance appraisal）のように、組織が人・業績を正式に評価する場面で使われやすい。assess はリスク・必要性・影響など、人以外の対象にも広く使う。",
+          "difference": "appraise はやや改まった語で、質・能力・業績などを見定めることに焦点がある。人事考課（performance appraisal）でも使うが、正式な手続きは必須ではなく、人以外にも使える。assess はリスク・必要性・影響の見極めにも広く使う。",
           "example": "The manager appraised each employee's performance at the end of the year.",
           "translation": "上司は年度末に各社員の業績を評価した。"
         },
@@ -233,13 +245,13 @@
       ],
       "collocations": [
         {
-          "pattern": "assess the cost of 〈repair・project〉",
+          "pattern": "assess the cost of repairs／assess the cost of a project",
           "use": "修理や計画に必要な費用を見積もる。",
           "example": "The insurance adjuster assessed the cost of repairing the storm damage.",
           "translation": "保険の損害査定人は、嵐による被害の修理費を査定した。"
         },
         {
-          "pattern": "assess the value of 〈property・asset〉",
+          "pattern": "assess the value of property／assess the value of an asset",
           "use": "不動産や資産の金銭的価値を査定する。",
           "example": "Before the merger, independent valuers assessed the value of the company's assets.",
           "translation": "合併前に、独立した評価の専門家がその会社の資産価値を査定した。"
@@ -301,9 +313,9 @@
         },
         {
           "word": "value",
-          "definition": "人・物の価値や重要性を評価し、または金銭的価値を見積もる。",
-          "frequency": 8,
-          "difference": "value は価値そのものに焦点があり、assess のようにリスク・深刻さ・影響・必要性の査定まで広く表さない。",
+          "definition": "物の金銭的価値を見積もり、評価額を定める。",
+          "frequency": 6,
+          "difference": "この意味の value は金銭的価値に焦点があり、value something at 〈金額〉の形で評価額を示す。assess は損害額・費用・数量などの査定にも使う。「大切に思う」という value の別義とは区別する。",
           "example": "The painting was valued at \\$10,000 by an art expert.",
           "translation": "その絵画は美術の専門家によって1万ドルと評価された。"
         }
@@ -333,13 +345,13 @@
           "translation": "その市は商業用不動産に税を課している。"
         },
         {
-          "pattern": "assess 〈member・customer〉 a fee",
+          "pattern": "assess each member a fee／assess each customer a fee",
           "use": "会員や顧客に料金・特別負担の額を決めて負担させる。",
           "example": "The club assessed each member a special fee to fund the repairs.",
           "translation": "そのクラブは修理費を賄うため、各会員に特別料金を課した。"
         },
         {
-          "pattern": "assess a fine on/against 〈person・organization〉",
+          "pattern": "assess a fine on/against a person／assess a fine on/against an organization",
           "use": "人や組織に罰金の額を決め、正式に科す。",
           "example": "The judge assessed a fine of \\$10,000 against the company for violating safety regulations.",
           "translation": "裁判官は安全規制違反を理由に、その会社に1万ドルの罰金を科した。"
@@ -357,7 +369,7 @@
           "translation": "そのチームはスポーツマンシップに反する行為で、15ヤードのペナルティを科された。"
         },
         {
-          "pattern": "assess 〈person・organization〉 for 〈tax・unpaid tax〉",
+          "pattern": "assess a person for 〈tax・unpaid tax〉／assess an organization for 〈tax・unpaid tax〉",
           "use": "人や組織について、税額や未納税額を正式に査定する。",
           "example": "The tax authority assessed the company for back taxes.",
           "translation": "税務当局はその会社について、未納分の税額を査定した。"
