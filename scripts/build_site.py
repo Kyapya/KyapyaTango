@@ -41,7 +41,7 @@ def relation_cards(items: list[dict]) -> str:
         score = item.get("frequency")
         frequency = ""
         if type(score) is int and 1 <= score <= 10:
-            frequency = f'<div class="frequency relation-frequency"><b>この語義の頻度 {score}/10</b></div>'
+            frequency = f'<p>頻度 {score}/10</p>'
         cards.append(
             f'''<article class="relation-card searchable">
           <h4>{escape(item['word'])}</h4>
