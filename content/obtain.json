@@ -3,13 +3,13 @@
   "slug": "obtain",
   "ipa": "米・英: /əbˈteɪn/",
   "lead": "必要とする物・情報・許可・結果などを手に入れる。申請・依頼・調査など何らかの行動を経る場合が多いが、必ず苦労したり対価を払ったりするという意味ではない。目に見える所有物に限らず、情報・同意・利用する権利なども目的語に取る。",
-  "updated": "2026-10-03",
+  "updated": "2026-10-04",
   "notion_url": "https://app.notion.com/p/obtain-3ee4faa9b77d810395ebd9ff9bfb8057",
   "pronunciation": [
     "2音節で、第2音節に強勢を置く。第1音節の母音は弱い /ə/、第2音節は二重母音 /eɪ/。obtained は /əbˈteɪnd/ で、-ed は /d/、obtains は /əbˈteɪnz/ で、-s は /z/ になる。"
   ],
   "etymology": [
-    "フランス語を経て、ラテン語 obtinēre「保持する、手に入れる」に由来する。ob- と tenēre「持つ」から成る。現代の主要義は「必要なものを手に入れる」。同じ tenēre にさかのぼる語に retain「保持する」と contain「含む」がある。attain「到達する」とは綴りも意味も近いが、同じ語を別綴りにしたものではない。"
+    "フランス語を経て、ラテン語 obtinēre「保持する、手に入れる」に由来する。強意の接頭辞 ob- と tenēre「持つ」から成る。同じ tenēre にさかのぼる語に retain「保持する」と contain「含む」がある。attain「到達する」とは綴りも意味も近いが、同じ語を別綴りにしたものではない。"
   ],
   "formation": [
     {
@@ -35,7 +35,7 @@
       "register": [
         "やや改まった表現。仕事、報道、研究、事務手続き。日常会話では get がよく使われる。"
       ],
-      "definition": "必要とする物・情報・許可・結果などを手に入れる。申請・依頼・調査など何らかの行動を経る場合が多いが、必ず苦労したり対価を払ったりするという意味ではない。目に見える所有物に限らず、情報・同意・利用する権利なども目的語に取る。",
+      "definition": "物・情報・許可・結果などを手に入れる。申請・依頼・調査など何らかの行動を経る場合が多いが、必ず苦労したり対価を払ったりするという意味ではない。目に見える所有物に限らず、情報・同意・利用する権利なども目的語に取る。",
       "patterns": [
         "obtain 〈物/情報/許可/結果〉",
         "obtain something from 〈提供元〉",
@@ -49,7 +49,7 @@
       "collocations": [
         {
           "pattern": "obtain information from 〈情報源〉",
-          "use": "人や資料から必要な情報を手に入れる。",
+          "use": "人や資料から情報を手に入れる。",
           "example": "We obtained information about the old bridge from local newspaper archives.",
           "translation": "私たちは地元の新聞の記録から、その古い橋に関する情報を得た。"
         },
@@ -73,9 +73,9 @@
         },
         {
           "pattern": "obtain something for someone",
-          "use": "他の人が必要とするものを手配して入手する。",
+          "use": "他の人のために物などを入手する。",
           "example": "The office obtained a replacement pass for me.",
-          "translation": "事務所が私のために代わりの通行証を手配してくれた。"
+          "translation": "事務所が私のために代わりの通行証を入手してくれた。"
         },
         {
           "pattern": "obtain results by doing",
@@ -97,7 +97,7 @@
         }
       ],
       "notes": [
-        "obtain の直後に手に入れるものを置く。「許可を得る」は obtain permission であり、obtain to enter とはせず obtain permission to enter とする。to enter は permission の内容を示す。誰かのために入手する場合は obtain a ticket for her が明確で、get her a ticket の語順をそのまま obtain に当てはめない。get の「～になる」「到着する」などの意味は代用できず、「疲れる」は get tired であって obtain tired ではない。be obtained は取得されたという受動態、the data obtained in the survey は調査で得られたデータを表す後置修飾で、obtained に別の評価的意味があるわけではない。obtain a certificate は証明書を入手することを述べ、どのような審査や手続きが必要かまでは語自体に含まない。"
+        "obtain の直後に手に入れるものを置く。「許可を得る」は obtain permission であり、obtain to enter とはせず obtain permission to enter とする。to enter は permission の内容を示す。誰かのために入手する場合は obtain a ticket for her が明確で、get her a ticket の語順をそのまま obtain に当てはめない。get の「～になる」「到着する」などの意味は代用できず、「疲れる」は get tired であって obtain tired ではない。be obtained は「取得される」という受動態。the data obtained in the survey では、過去分詞 obtained 以下が data を後ろから修飾し、「調査で得られたデータ」を表す。"
       ],
       "synonyms": [
         {
@@ -118,9 +118,9 @@
         },
         {
           "word": "secure",
-          "definition": "必要なものを、確実に使える形で獲得する。",
+          "definition": "物・機会・成果などを獲得・確保する。",
           "frequency": 7,
-          "difference": "努力や交渉によって確保できた点を強調する。obtain は取得した事実をより中立的に述べる。",
+          "difference": "努力や交渉を経て獲得・確保した点を強調することが多い。obtain は取得した事実をより中立的に述べる。",
           "example": "The group secured funding for the next stage of the project.",
           "translation": "その団体は事業の次の段階に必要な資金を確保した。"
         },
@@ -128,7 +128,7 @@
           "word": "gain",
           "definition": "利益・支持・経験・利用機会などを得る。",
           "frequency": 8,
-          "difference": "有利なものや能力が増える意味合いが出やすい。obtain は書類や部品のような具体的な必要物にも広く使う。",
+          "difference": "有利なものや能力が増える意味合いが出やすい。obtain は書類や部品のような具体物にも広く使う。",
           "example": "The campaign gained support from several local businesses.",
           "translation": "その活動は地元の複数の企業から支持を得た。"
         },
@@ -152,7 +152,7 @@
           "word": "receive",
           "definition": "送られたり与えられたりしたものを受け取る。",
           "frequency": 9,
-          "difference": "受け手の側で起こる受領に重点がある。obtain は必要物の獲得を述べ、依頼や探索など自らの働きかけを伴うことが多い。",
+          "difference": "受け手の側で起こる受領に重点がある。obtain は物などの獲得を述べ、依頼や探索など自らの働きかけを伴うことが多い。",
           "example": "I received the documents by email this morning.",
           "translation": "今朝、メールで書類を受け取った。"
         }
@@ -209,7 +209,7 @@
         }
       ],
       "notes": [
-        "目的語を取らない The rule obtains. は「その規則が通用する」。他動詞の They obtained the document. は「彼らはその書類を入手した」、The document was obtained. はその受動態で、区別が必要。この自動詞義を be obtained で表すことはしない。状態を述べるため通常は単純時制を使い、会話では exist、apply、be the case など内容に合う表現が分かりやすい。"
+        "目的語を取らない The rule obtains. は「その規則が通用する」。他動詞の They obtained the document. は「彼らはその書類を入手した」、The document was obtained. はその受動態で、区別が必要。この自動詞義を be obtained で表すことはしない。この語義では状態を述べるため、通常は進行形にせず、現在形・過去形などで用いる。会話では exist、apply、be the case など内容に合う表現が分かりやすい。"
       ],
       "synonyms": [
         {
