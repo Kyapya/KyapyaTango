@@ -3,10 +3,10 @@
   "slug": "perspective",
   "ipa": "米: /pɚˈspektɪv/｜英: /pəˈspektɪv/",
   "lead": "経験・立場・関心などに基づく、物事の捉え方。何についてどう考えるかだけでなく、どの立場や時間的な幅から見るかにも重点がある。必ずしも客観的・正確な見方とは限らない。",
-  "updated": "2026-10-03",
+  "updated": "2026-10-04",
   "notion_url": "https://app.notion.com/p/perspective-3ee4faa9b77d81c4a768c8b6ff7e24c3",
   "pronunciation": [
-    "3音節で、第2音節に強勢を置く。第1音節は米音では /ɚ/、英音では /ə/ で、米音に r の響きがある。第2音節の母音は /e/、第3音節は /ɪ/。語末は /v/ で、/f/ にしない。"
+    "3音節で、第2音節に強勢を置く。第1音節の母音は米音では /ɚ/、英音では /ə/ で、米音に r の響きがある。第2音節の母音は /e/、第3音節の母音は /ɪ/。語末は /v/ で、/f/ にしない。"
   ],
   "etymology": [
     "中世の光学を表したラテン語 perspectiva ars に関わり、perspicere「透かして見る、よく見る」、さらに per-「通して」と specere「見る」にさかのぼる。遠近法に関する用法にはフランス語・イタリア語も関わっている。現代の「観点」も、どこからどう物事を見るかという発想で捉えられる。同じ specere 系の語に inspect「詳しく調べる」と spectator「観客」がある。"
@@ -32,7 +32,7 @@
     },
     {
       "label": "全体から捉える物事の重要度",
-      "description": "→ 「釣り合いの取れた見方、広い視野」（語義2）"
+      "description": "→ 「釣り合いの取れた見方、重要度を適切に判断する感覚」（語義2）"
     },
     {
       "label": "見る位置から捉える奥行きの表現",
@@ -145,7 +145,7 @@
     },
     {
       "number": 2,
-      "title": "【名詞・不可算】釣り合いの取れた見方、広い視野",
+      "title": "【名詞・不可算】釣り合いの取れた見方、重要度を適切に判断する感覚",
       "frequency": 7,
       "register": [
         "一般、助言、報道、議論。"
@@ -158,7 +158,8 @@
         "gain perspective",
         "lose perspective",
         "a sense of perspective",
-        "get out of perspective"
+        "things get out of perspective",
+        "let things get out of perspective"
       ],
       "collocations": [
         {
@@ -181,9 +182,9 @@
         },
         {
           "pattern": "gain perspective",
-          "use": "経験や時間によって広い視野を得る。",
+          "use": "経験や時間を通して、物事を全体の中に位置づけ、重要度を適切に捉えられるようになる。",
           "example": "Taking a break helped me gain perspective and see that the disagreement was minor.",
-          "translation": "少し休んだことで視野が広がり、あの意見の食い違いは小さなものだと分かった。"
+          "translation": "少し休んだことで全体を冷静に捉えられるようになり、あの意見の食い違いは小さなものだと分かった。"
         },
         {
           "pattern": "lose perspective",
@@ -196,10 +197,16 @@
           "use": "重要度を適切に判断する感覚。",
           "example": "Her sense of perspective helped the team stay calm after the mistake.",
           "translation": "彼女が物事を釣り合いよく見ていたおかげで、ミスの後もチームは冷静でいられた。"
+        },
+        {
+          "pattern": "let things get out of perspective",
+          "use": "物事の重要度を釣り合いよく捉えられなくなることを表す。get の主語に当たるのは things。",
+          "example": "After one bad review, I let things get out of perspective and thought my career was over.",
+          "translation": "たった一度の悪い評価で、物事の重要度を見誤り、自分のキャリアは終わりだと思ってしまった。"
         }
       ],
       "notes": [
-        "この意味の perspective は通常数えず、gain perspective、lose perspective とする。gain a new perspective は語義1の「新たな見方を得る」。put the figure into perspective は比較や背景を示して数値の意味を理解させる表現で、数値を小さく見せることに限定しない。in perspective はここでは「全体の中で適切に捉えられて」であり、語義3の「遠近法が合っている」とは文脈で区別する。"
+        "この意味の perspective は通常数えず、gain perspective、lose perspective とする。get out of perspective の主語は典型的に things、problems などの物事で、その重要度が釣り合いを欠いて捉えられることを表す。人が適切な判断力を失うことは I lost perspective のように述べる。I let things get out of perspective では、I は let の主語であり、get の主語に当たるのは things。gain a new perspective は語義1の「新たな見方を得る」。put the figure into perspective は比較や背景を示して数値の意味を理解させる表現で、数値を小さく見せることに限定しない。in perspective はここでは「全体の中で適切に捉えられて」であり、語義3の「遠近法が合っている」とは文脈で区別する。"
       ],
       "synonyms": [
         {
@@ -370,9 +377,9 @@
         },
         {
           "word": "vista",
-          "definition": "遠くまで広がる美しい眺め。",
+          "definition": "遠くまで見渡せる眺め。特に美しい景色について使う。",
           "frequency": 4,
-          "difference": "開けた景色の広がりや見応えを表しやすい。perspective は距離や見える位置関係にも注意を向ける。",
+          "difference": "この意味の perspective と広く重なるが、vista は特に美しさや見応えを伴う眺めを表しやすい。どちらも改まった描写で使い、日常的な「眺め」には view が一般的。",
           "example": "A broad vista of fields opened beyond the gate.",
           "translation": "門の向こうには、畑の広々とした眺めが開けていた。"
         },
