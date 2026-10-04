@@ -1,0 +1,626 @@
+{
+  "word": "history",
+  "slug": "history",
+  "ipa": "米・英: /ˈhɪs.tər.i/ または /ˈhɪs.tri/",
+  "lead": "過去に起きた出来事の全体、または国・地域・組織・物事がこれまでたどってきた経過。history 全体を時間の流れとして捉える場合と、a long history のように一つの対象の歩みとして捉える場合がある。",
+  "updated": "2026-10-04",
+  "notion_url": "https://app.notion.com/p/history-3ef4faa9b77d81958f85e277dc9ed203",
+  "pronunciation": [
+    "第1音節に主強勢を置く。前者は3音節、後者は中央の弱母音 /ə/ が落ちた2音節の形で、どちらも使われる。3音節形の第2音節にある /r/ は次の母音につながり、英語でも発音する。複数形 histories は語末に /z/ を加える。"
+  ],
+  "etymology": [
+    "古フランス語・ラテン語を経て、ギリシャ語 historia「調べて得た知識、調査の記述」にさかのぼる。過去の出来事そのものと、それを調べて記すことの両方を表すようになった。his + story「彼の物語」という分解は語源ではない。",
+    "同じ historia に由来する story は、現代では事実にも創作にも使える「話・物語」。さらに遠い「見る・知る」という語根は idea や vision にもつながるが、現代英語で互いの派生語というわけではない。"
+  ],
+  "formation": [
+    {
+      "term": "historian〈名詞〉歴史家、歴史研究者。強勢は",
+      "description": "history と異なり、第2音節に置く。"
+    },
+    {
+      "term": "historical〈形容詞〉歴史に関する、過去の事実に基づく。historical",
+      "description": "records は歴史資料。"
+    },
+    {
+      "term": "historic〈形容詞〉歴史上重要な。a",
+      "description": "historic decision は歴史に残る重大な決定で、単に古い決定ではない。"
+    },
+    {
+      "term": "historically〈副詞〉歴史的に、従来。historically",
+      "description": "low prices は過去の水準と比べて低い価格。"
+    },
+    {
+      "term": "prehistory〈名詞・不可算〉先史時代、先史時代の研究。文字記録以前を指す。",
+      "description": ""
+    },
+    {
+      "term": "history-making〈形容詞〉歴史に残るような、歴史を画する。名詞の前ではハイフンを付ける。",
+      "description": ""
+    }
+  ],
+  "core": [
+    {
+      "label": "共通核は「過去に何が起き、どのような経過をたどったか」。出来事、その学習・記録、現在に影響する背景をつなぐ。語義7の",
+      "description": "natural history は歴史的残存義で、時間的な過去ではなく自然の観察・記述を表し、この核から語彙的意味を導けないため個別に参照する。"
+    },
+    {
+      "label": "過去の出来事としての経過",
+      "description": "→ 「歴史、これまでの歩み」（語義1）"
+    },
+    {
+      "label": "過去の出来事を調べる学問",
+      "description": "→ 「歴史学、歴史科目」（語義2）"
+    },
+    {
+      "label": "過去の出来事を示す個別の記録",
+      "description": "→ 「経歴、履歴、既往歴」（語義3）"
+    },
+    {
+      "label": "過去の出来事をまとめた叙述",
+      "description": "→ 「歴史の記述、歴史書」（語義4）"
+    },
+    {
+      "label": "過去の出来事が残す関係上の背景",
+      "description": "→ 「過去からのいきさつ、因縁」（語義5）"
+    },
+    {
+      "label": "過去の出来事となり重要性を失ったもの",
+      "description": "→ 「過去のこと、もう終わったもの」（語義6）"
+    },
+    {
+      "label": "過去の出来事を題材にした演劇",
+      "description": "→ 「歴史劇」（語義8）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・不可算／特定の経過は単数可算も】歴史、これまでの歩み",
+      "frequency": 9,
+      "register": [
+        "一般、教育、報道。make history などは重要な出来事を評価する表現。"
+      ],
+      "definition": "過去に起きた出来事の全体、または国・地域・組織・物事がこれまでたどってきた経過。history 全体を時間の流れとして捉える場合と、a long history のように一つの対象の歩みとして捉える場合がある。",
+      "patterns": [
+        "in history",
+        "throughout history",
+        "the history of 〈国/組織/分野〉",
+        "have a 〈long/rich〉 history",
+        "make history",
+        "go down in history as 〈人物像/出来事〉",
+        "history repeats itself",
+        "the rest is history"
+      ],
+      "collocations": [
+        {
+          "pattern": "in history",
+          "use": "歴史上の位置や規模を述べる。",
+          "example": "It was one of the largest migrations in history.",
+          "translation": "それは歴史上でも最大級の人口移動だった。"
+        },
+        {
+          "pattern": "throughout history",
+          "use": "過去の長い期間を通じた傾向を述べる。",
+          "example": "People have used music to tell stories throughout history.",
+          "translation": "人々は歴史を通じて、物語を伝えるために音楽を使ってきた。"
+        },
+        {
+          "pattern": "the history of 〈国/組織/分野〉",
+          "use": "特定の対象が発展してきた過程を述べる。",
+          "example": "The exhibition traces the history of the railway.",
+          "translation": "その展示は鉄道の歴史をたどっている。"
+        },
+        {
+          "pattern": "have a 〈long/rich〉 history",
+          "use": "一つの対象が豊かな、または長い歩みを持つと述べる。",
+          "example": "The village has a long history of pottery making.",
+          "translation": "その村には陶器作りの長い歴史がある。"
+        },
+        {
+          "pattern": "make history",
+          "use": "後に記録されるような重要な出来事を起こす。",
+          "example": "The team made history by winning every match in the season.",
+          "translation": "そのチームはシーズン全試合に勝ち、歴史に名を刻んだ。"
+        },
+        {
+          "pattern": "go down in history as 〈人物像/出来事〉",
+          "use": "どのような人物・出来事として歴史に残るかを述べる。",
+          "example": "The agreement will go down in history as a turning point.",
+          "translation": "その合意は転換点として歴史に残るだろう。"
+        },
+        {
+          "pattern": "history repeats itself",
+          "use": "以前と似た出来事が再び起こると述べる。",
+          "example": "History repeated itself when the two rivals met in the final again.",
+          "translation": "ライバルの二チームが再び決勝で対戦し、歴史は繰り返された。"
+        },
+        {
+          "pattern": "the rest is history",
+          "use": "その後の有名な展開を省いて話を締めくくる。",
+          "example": "A producer heard her sing in a small club, and the rest is history.",
+          "translation": "あるプロデューサーが小さなクラブで彼女の歌を聴いた。その後の活躍は、誰もが知るとおりだ。"
+        }
+      ],
+      "notes": [
+        "歴史一般は無冠詞で in history とする。特定するなら in the history of medicine「医学の歴史において」。a history は必ずしも「歴史書」ではなく、The town has a rich history. では町の歩みを指す。make history は歴史的な出来事を起こすことで、歴史を勉強する study history とは違う。go down in history の go down はここでは「記録に残る」で、評価が悪いという意味ではない。the rest is history はその後を省く語りの定型句で、語義6の「もう重要でない」とは限らない。in the history books は歴史的な記録に残ることを表せる。 関連する対照語 heritage は、過去の出来事全体ではなく、受け継がれた文化・遺産を指す。"
+      ],
+      "synonyms": [
+        {
+          "word": "the past",
+          "definition": "現在より前に起きたこと、過ぎ去った時代。",
+          "frequency": 10,
+          "difference": "history より広く、個人的な思い出や直前の出来事にも使う。歴史的な経過・意味づけは必須でない。",
+          "example": "We cannot change the past, but we can learn from it.",
+          "translation": "過去は変えられないが、そこから学ぶことはできる。"
+        },
+        {
+          "word": "background",
+          "definition": "現在の状況に至る背景事情。",
+          "frequency": 8,
+          "difference": "history が時間に沿った経過を指すのに対し、background は現在の理解に必要な事情を中心にする。",
+          "example": "The report explains the background to the dispute.",
+          "translation": "その報告書は紛争の背景を説明している。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・不可算】歴史学、歴史科目",
+      "frequency": 8,
+      "register": [
+        "教育、研究、一般。科目名として History と大文字にする場合もある。"
+      ],
+      "definition": "過去の社会や出来事を資料に基づいて調べ、理解し、説明する学問や学校の科目。",
+      "patterns": [
+        "study history",
+        "teach history",
+        "〈ancient/modern〉 history",
+        "art history",
+        "a degree in history",
+        "a history 〈teacher/class〉"
+      ],
+      "collocations": [
+        {
+          "pattern": "study history",
+          "use": "学問・科目として歴史を学ぶ。",
+          "example": "She plans to study history at university.",
+          "translation": "彼女は大学で歴史学を学ぶ予定だ。"
+        },
+        {
+          "pattern": "teach history",
+          "use": "歴史の授業を担当する。",
+          "example": "My uncle teaches history at a secondary school.",
+          "translation": "叔父は中等学校で歴史を教えている。"
+        },
+        {
+          "pattern": "〈ancient/modern〉 history",
+          "use": "研究対象の時代を示す。",
+          "example": "The course covers ancient history, with a focus on trade.",
+          "translation": "その授業は、交易を中心に古代史を扱う。"
+        },
+        {
+          "pattern": "art history",
+          "use": "美術作品とその歴史的背景を学ぶ分野を示す。",
+          "example": "He took an art history course to understand the paintings better.",
+          "translation": "彼は絵画をよりよく理解するため、美術史の授業を受けた。"
+        },
+        {
+          "pattern": "a degree in history",
+          "use": "歴史学の学位を示す。",
+          "example": "She earned a degree in history before training as a teacher.",
+          "translation": "彼女は歴史学の学位を取得してから、教員になるための訓練を受けた。"
+        },
+        {
+          "pattern": "a history 〈teacher/class〉",
+          "use": "history を名詞の前に置き、科目との関係を示す。",
+          "example": "Our history class is discussing how to evaluate old letters as evidence.",
+          "translation": "私たちの歴史の授業では、古い手紙を史料としてどう評価するかを話し合っている。"
+        }
+      ],
+      "notes": [
+        "一般的な科目は study history で、通常 study a history とはしない。a history of Rome はローマ史の著作にもなり、語義4。history teacher の history は名詞が別の名詞を修飾する用法。historical teacher は「歴史の先生」の通常の言い方ではない。歴史学は単なる年号の暗記を意味しない。natural history「博物学」は語義7の別の固定表現。"
+      ],
+      "synonyms": [
+        {
+          "word": "historiography",
+          "definition": "歴史の叙述方法や、歴史研究・叙述の蓄積を扱う学問。",
+          "frequency": 3,
+          "difference": "history 全体と同じ範囲ではなく、歴史がどう書かれ、解釈されてきたかに焦点を置く専門語。",
+          "example": "The seminar examines the historiography of the revolution.",
+          "translation": "その演習では、その革命が歴史学でどのように論じられてきたかを検討する。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算／記録全体では不可算も】経歴、履歴、既往歴",
+      "frequency": 8,
+      "register": [
+        "一般、医療、採用、取引、情報技術。"
+      ],
+      "definition": "ある人・物・組織について、それまでに起きたことや行ってきたこと、その記録。a history of ... は特定の経験や問題が過去にあったことを表し、反復や継続を含むことも多い。",
+      "patterns": [
+        "someone’s 〈medical/employment/credit〉 history",
+        "a history of 〈病気/行動/問題〉",
+        "a history of doing",
+        "have no history of 〈病気/問題〉",
+        "take someone’s medical history",
+        "clear one’s browsing history",
+        "a vehicle’s service history",
+        "the version history of 〈ファイル〉"
+      ],
+      "collocations": [
+        {
+          "pattern": "someone’s medical history",
+          "use": "過去の病気や治療などの情報を指す。",
+          "example": "The nurse asked about my medical history.",
+          "translation": "看護師は私のこれまでの病気や治療について尋ねた。"
+        },
+        {
+          "pattern": "a history of 〈病気/行動/問題〉",
+          "use": "ある病気・行動・問題が過去にあったことを示す。",
+          "example": "The company has a history of late payments.",
+          "translation": "その会社はこれまでも支払いを遅らせてきた。"
+        },
+        {
+          "pattern": "a history of doing",
+          "use": "過去から続く行動傾向を動名詞で示す。",
+          "example": "The organization has a history of supporting local artists.",
+          "translation": "その団体は以前から地元の芸術家を支援してきた。"
+        },
+        {
+          "pattern": "have no history of 〈病気/問題〉",
+          "use": "該当する過去の事例がないと述べる。",
+          "example": "The patient had no history of asthma.",
+          "translation": "その患者には、ぜんそくの既往歴はなかった。"
+        },
+        {
+          "pattern": "take someone’s medical history",
+          "use": "診療などで病歴を聞き取る。",
+          "example": "The doctor took her medical history before examining her.",
+          "translation": "医師は診察の前に、彼女の病歴を聞き取った。"
+        },
+        {
+          "pattern": "clear one’s browsing history",
+          "use": "ブラウザーに保存された閲覧の記録を消す。",
+          "example": "I cleared my browsing history on the shared computer.",
+          "translation": "共有パソコンに残っていた自分の閲覧履歴を消した。"
+        },
+        {
+          "pattern": "someone’s credit history",
+          "use": "過去の借入れや返済などの記録を指す。",
+          "example": "The lender reviewed her credit history.",
+          "translation": "貸し手は彼女の信用履歴を確認した。"
+        },
+        {
+          "pattern": "someone’s employment history",
+          "use": "過去の勤務先や職務の記録を指す。",
+          "example": "The application asks for your employment history.",
+          "translation": "その応募書類では職歴の記入が求められる。"
+        },
+        {
+          "pattern": "a vehicle’s service history",
+          "use": "車両の点検・整備の記録を指す。",
+          "example": "The buyer asked to see the car’s service history.",
+          "translation": "買い手は、その車の整備記録を見せてほしいと頼んだ。"
+        },
+        {
+          "pattern": "the version history of 〈ファイル〉",
+          "use": "ファイルの過去の変更や版を指す。",
+          "example": "The editor checked the version history of the document.",
+          "translation": "編集者は文書の変更履歴を確認した。"
+        }
+      ],
+      "notes": [
+        "a history of は悪い事柄だけに使うわけではなく、a history of innovation「革新を重ねてきた実績」にも使う。病歴は一度の発症にも使えるため、「必ず何度も繰り返した」という定義にはしない。of の後に行為を置くなら a history of missing deadlines とし、a history of miss deadlines とはしない。medical history は既往歴だけでなく治療などの関連情報も含み得る。family history of a disease は家族内での病気の履歴で、本人の診断と同じではない。履歴の集合を browsing history、個々の人などの記録を medical histories のように数えられる。"
+      ],
+      "synonyms": [
+        {
+          "word": "record",
+          "definition": "過去の事実・行動・成績を残した記録。",
+          "frequency": 9,
+          "difference": "history より記録そのものや実績を強く意識させる。必ずしも経過を物語的にまとめない。",
+          "example": "The machine keeps a record of every transaction.",
+          "translation": "その機械はすべての取引の記録を残す。"
+        },
+        {
+          "word": "background",
+          "definition": "経歴や経験など、その人を形作った背景。",
+          "frequency": 8,
+          "difference": "history が具体的な経過・記録を指すのに対し、background は教育・経験・育った環境をまとめて捉える。",
+          "example": "Her background in engineering is useful in this role.",
+          "translation": "工学分野での彼女の経験は、この仕事で役に立つ。"
+        },
+        {
+          "word": "track record",
+          "definition": "継続的な活動から分かる実績。",
+          "frequency": 7,
+          "difference": "能力や信頼性を判断する材料としての実績に重点があり、病歴や閲覧履歴には普通使わない。",
+          "example": "The firm has a strong track record in product design.",
+          "translation": "その会社は製品設計で優れた実績を持つ。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・可算／叙述一般は不可算も】歴史の記述、歴史書",
+      "frequency": 7,
+      "register": [
+        "一般、出版、教育、研究。"
+      ],
+      "definition": "過去の出来事をまとめ、説明した文章・語り・著作。一つの叙述や著作として数えることができる。",
+      "patterns": [
+        "a history of 〈国/組織/分野〉",
+        "write a history of 〈対象〉",
+        "an oral history",
+        "〈written/oral〉 history"
+      ],
+      "collocations": [
+        {
+          "pattern": "a history of 〈国/組織/分野〉",
+          "use": "過去をまとめた一つの著作を示す。",
+          "example": "This book is a short history of public libraries.",
+          "translation": "この本は公共図書館の歴史を簡潔にまとめたものだ。"
+        },
+        {
+          "pattern": "write a history of 〈対象〉",
+          "use": "歴史を文章や本としてまとめる。",
+          "example": "She is writing a history of the local fishing industry.",
+          "translation": "彼女は地元の漁業の歴史を執筆している。"
+        },
+        {
+          "pattern": "an oral history",
+          "use": "当事者の語りを記録した歴史叙述を示す。",
+          "example": "The archive holds oral histories recorded with former factory workers.",
+          "translation": "その資料館には、元工場労働者への聞き取りを収録した記録がある。"
+        },
+        {
+          "pattern": "〈written/oral〉 history",
+          "use": "記述・伝承の形態を示す。",
+          "example": "The researchers compared oral history with written records.",
+          "translation": "研究者たちは、口述で伝えられた歴史と文書記録を照合した。"
+        }
+      ],
+      "notes": [
+        "a history of a town は「町の歴史をまとめた本」にも「町がたどった経過」にもなるため、book、write などの文脈で判断する。histories は複数の著作・叙述を指せる。history と story は完全な「事実対虚構」ではない。story にも実話はあるが、history はこの語義では実際の過去を記述するものとして提示される。"
+      ],
+      "synonyms": [
+        {
+          "word": "account",
+          "definition": "出来事についての説明・記述。",
+          "frequency": 8,
+          "difference": "歴史以外にも使え、目撃した一回の出来事を短く説明する場合も含む。",
+          "example": "The diary gives a vivid account of the journey.",
+          "translation": "その日記には旅の様子が生き生きと記されている。"
+        },
+        {
+          "word": "chronicle",
+          "definition": "出来事を時の順に記した記録、年代記。",
+          "frequency": 5,
+          "difference": "history より出来事の時系列的な列挙に重点があり、原因の分析を必ずしも伴わない。",
+          "example": "The chronicle describes a severe winter in the region.",
+          "translation": "その年代記には、その地方を襲った厳しい冬が記されている。"
+        },
+        {
+          "word": "narrative",
+          "definition": "出来事をつながりのある話としてまとめた叙述。",
+          "frequency": 7,
+          "difference": "物語としての構成や語り方に重点があり、歴史にも創作にも使う。",
+          "example": "The museum presents a narrative of the city’s growth.",
+          "translation": "その博物館は、都市の発展を一つの物語として伝えている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞・不可算／単数形】過去からのいきさつ、因縁",
+      "frequency": 6,
+      "register": [
+        "主に会話。恋愛、対立、職場関係など。"
+      ],
+      "definition": "人や集団の間に以前から存在する関係や共有した経験、とくに現在の感情や反応を説明する複雑ないきさつ。",
+      "patterns": [
+        "have history with someone",
+        "have a history together",
+        "there is history between A and B",
+        "a lot of history between A and B"
+      ],
+      "collocations": [
+        {
+          "pattern": "have history with someone",
+          "use": "相手との過去の関係をほのめかす。",
+          "example": "I have history with that manager, so this meeting may be awkward.",
+          "translation": "あの部長とは過去にいろいろあったので、今回の会議は気まずくなるかもしれない。"
+        },
+        {
+          "pattern": "have a history together",
+          "use": "二人などが共有する過去の関係を述べる。",
+          "example": "They have a history together that neither wants to discuss.",
+          "translation": "二人には、どちらも話したがらない過去のいきさつがある。"
+        },
+        {
+          "pattern": "there is history between A and B",
+          "use": "現在の緊張の背景に過去の関係があると示す。",
+          "example": "There is history between the two founders, which explains the tension.",
+          "translation": "二人の創業者の間には過去のいきさつがあり、それが緊張の原因になっている。"
+        },
+        {
+          "pattern": "a lot of history between A and B",
+          "use": "積み重なった関係の重さを示す。",
+          "example": "There is a lot of history between us, and rebuilding trust will take time.",
+          "translation": "私たちの間にはこれまでにいろいろあり、信頼を取り戻すには時間がかかる。"
+        }
+      ],
+      "notes": [
+        "悪い関係や元恋人同士を示唆することはあるが、それだけに限定されない。have history with someone は背景の共有を述べるため、「その人の歴史を所有している」と直訳しない。have a history of arguments は語義3の「口論してきた過去」で、with の後の相手と of の後の出来事を区別する。明確な一語の同義語は少ないため、機械的に関連語を並べない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【名詞・不可算／be history の慣用表現】過去のこと、もう終わったもの",
+      "frequency": 6,
+      "register": [
+        "くだけた会話。人に向けると強い警告や冷たい言い方になる。"
+      ],
+      "definition": "すでに終わって現在は重要でないこと、または地位・存続の見込みを失った人や物。be history の形で用いる。",
+      "patterns": [
+        "be history",
+        "that’s history",
+        "be ancient history",
+        "someone + will be history"
+      ],
+      "collocations": [
+        {
+          "pattern": "that’s history",
+          "use": "過去の問題をもう気にしないと述べる。",
+          "example": "We argued last year, but that’s history now.",
+          "translation": "去年はけんかしたけれど、今ではもう過去のことだ。"
+        },
+        {
+          "pattern": "be history",
+          "use": "人や物の役割が終わったと述べる。",
+          "example": "Once the new system is ready, these paper forms will be history.",
+          "translation": "新しいシステムが完成すれば、この紙の書類はもう使われなくなる。"
+        },
+        {
+          "pattern": "be ancient history",
+          "use": "今さら重要でない古い話だと強調する。",
+          "example": "Their brief romance is ancient history.",
+          "translation": "二人の短い恋愛は、もうとっくに終わった話だ。"
+        },
+        {
+          "pattern": "someone + will be history",
+          "use": "地位などを失うという強い警告を示す。",
+          "example": "If he leaks another confidential file, he’ll be history.",
+          "translation": "また機密ファイルを漏らせば、彼はもうここにはいられない。"
+        }
+      ],
+      "notes": [
+        "That’s history. は「それは歴史の授業だ」ではない。You’re history. は状況によって「お前は終わりだ」「首だ」、さらに脅迫的な意味にもなり、単なる別れの挨拶には使わない。be ancient history の ancient は、実際に古代の出来事でなくても使える。語義1の make history は歴史に残る重要な出来事を表し、重要性を失うこの用法とは区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "over",
+          "definition": "出来事や関係が終わっている。",
+          "frequency": 9,
+          "difference": "history より中立的に終了を述べる。現在の価値がない、存続できないという強い評価は必須でない。",
+          "example": "The disagreement is over, and we are working together again.",
+          "translation": "意見の対立は終わり、私たちはまた一緒に働いている。"
+        },
+        {
+          "word": "a thing of the past",
+          "definition": "現在では見られなくなったもの。",
+          "frequency": 7,
+          "difference": "技術・習慣・問題などが過去のものになったことを述べ、人への脅しには普通使わない。",
+          "example": "Long queues at the ticket office are a thing of the past.",
+          "translation": "切符売り場の長い行列は、もう過去のものとなった。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【複合名詞・不可算／著作は可算】博物学、自然誌",
+      "frequency": 4,
+      "register": [
+        "教育、博物館、自然観察。history 単独をこの意味で自由に使うのは現代では一般的でない。"
+      ],
+      "definition": "natural history の形で、動植物などの自然を観察・研究する分野、またはある地域の自然を記述した著作を指す。",
+      "patterns": [
+        "natural history",
+        "a natural history museum",
+        "a natural history of 〈地域〉"
+      ],
+      "collocations": [
+        {
+          "pattern": "natural history",
+          "use": "自然を観察し記述する分野を指す。",
+          "example": "Her interest in natural history began with watching birds.",
+          "translation": "彼女が博物学に興味を持ったきっかけは、鳥の観察だった。"
+        },
+        {
+          "pattern": "a natural history museum",
+          "use": "動植物・化石・鉱物などを扱う博物館を指す。",
+          "example": "The children examined the fossils at a natural history museum.",
+          "translation": "子どもたちは自然史博物館で化石を観察した。"
+        },
+        {
+          "pattern": "a natural history of 〈地域〉",
+          "use": "地域の生物や自然環境を記述した著作を示す。",
+          "example": "He published a natural history of the island, describing its plants and wildlife.",
+          "translation": "彼は島の植物や野生生物を紹介する自然誌を出版した。"
+        }
+      ],
+      "notes": [
+        "この複合語では、history の古い「体系的な調査・記述」という意味が残っている。natural history は自然の過去だけを研究する学問ではなく、現在の動植物の観察も含む。病気について the natural history of a disease と言うと、その病気が自然にたどる経過を指し、博物学というこの複合語義ではなく、語義1の「経過」に対応する。"
+      ],
+      "synonyms": [
+        {
+          "word": "natural science",
+          "definition": "自然界の現象を研究する科学。",
+          "frequency": 6,
+          "difference": "範囲が広く、物理学・化学なども含む。natural history は特に生物などの観察・記述に重点を置く。",
+          "example": "The course introduces several branches of natural science.",
+          "translation": "その授業では自然科学のいくつかの分野を紹介する。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【名詞・可算】歴史劇",
+      "frequency": 3,
+      "register": [
+        "文学、演劇。"
+      ],
+      "definition": "歴史上の人物や出来事を題材にした劇。とくにシェイクスピア作品の分類で用いられる。",
+      "patterns": [
+        "Shakespeare’s histories",
+        "Shakespeare’s history plays",
+        "a history play",
+        "a cycle of history plays"
+      ],
+      "collocations": [
+        {
+          "pattern": "Shakespeare’s histories（history の複数形）",
+          "use": "history 自体を可算名詞として用い、シェイクスピアの歴史劇群を指す。",
+          "example": "The company will perform two of Shakespeare’s histories this season.",
+          "translation": "その劇団は今シーズン、シェイクスピアの歴史劇を二作上演する。"
+        },
+        {
+          "pattern": "a history play",
+          "use": "ジャンルとして歴史劇を示す。",
+          "example": "The director has chosen a history play about royal power.",
+          "translation": "その演出家は、王権を題材にした歴史劇を選んだ。"
+        },
+        {
+          "pattern": "a cycle of history plays",
+          "use": "連続した作品群として歴史劇を示す。",
+          "example": "The theatre is staging a cycle of history plays this autumn.",
+          "translation": "その劇場では、この秋、一連の歴史劇を上演する。"
+        }
+      ],
+      "notes": [
+        "複数形 histories が常に「歴史劇」とは限らず、語義4の歴史書や複数の歴史叙述にもなる。ここでは plays、theatre、Shakespeare などの文脈が手掛かり。history play の history は名詞修飾。歴史劇は史実を題材にしていても、台詞や展開まで史実どおりとは限らない。"
+      ],
+      "synonyms": [
+        {
+          "word": "historical drama",
+          "definition": "歴史上の人物・出来事・時代を描く劇。",
+          "frequency": 5,
+          "difference": "舞台だけでなく映像作品にも使え、history より明示的で広く通じる。",
+          "example": "The historical drama explores the queen’s final years.",
+          "translation": "その歴史劇は、女王の晩年を描いている。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

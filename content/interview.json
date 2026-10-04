@@ -1,0 +1,501 @@
+{
+  "word": "interview",
+  "slug": "interview",
+  "ipa": "米: /ˈɪn.tər.vjuː/｜英: /ˈɪn.tə.vjuː/",
+  "lead": "仕事・コース・入学などの候補者に質問し、適性や経験を確かめる面談。候補者から組織に質問する機会も含み得る。",
+  "updated": "2026-10-04",
+  "notion_url": "https://app.notion.com/p/interview-3ef4faa9b77d815d9e7dc6885efdc4eb",
+  "pronunciation": [
+    "名詞・動詞とも3音節で、第1音節に主強勢を置く。第2音節の母音は弱く、米語では /r/ を伴うが、英語では次に子音 /v/ が来るため通常 /r/ を発音しない。第3音節の /vjuː/ は /v/ と /j/ を続け、間に日本語の母音を入れない。interviewed の語末は /d/、interviews の語末は /z/ で、どちらも音節数は増えない。"
+  ],
+  "etymology": [
+    "フランス語 entrevue「会見」に由来し、互いに会うことを表す s’entrevoir に関係する。もとは人が会うことを指し、英語では質問を通じて情報を得る会見や採用面接に用いられるようになった。動詞は名詞に基づく。",
+    "view は「見る」という要素と関係し、同じラテン語 videre「見る」の系統に vision、visible もある。現代の interview は、実際に対面で互いを見る必要はなく、電話やオンラインでも成立する。"
+  ],
+  "formation": [
+    {
+      "term": "interviewer〈名詞〉面接官、聞き手、取材する人。質問する側を表す。",
+      "description": ""
+    },
+    {
+      "term": "interviewee〈名詞〉面接を受ける人、取材される人。語末の",
+      "description": "-ee に主強勢を置き、interviewer と役割が逆になる。"
+    },
+    {
+      "term": "interviewing〈現在分詞・動名詞〉面接・取材を行うこと。interviewing",
+      "description": "skills は面接や聞き取りの技術。"
+    },
+    {
+      "term": "interviewed〈過去形・過去分詞〉面接した、取材した。the",
+      "description": "people interviewed は「面接・取材された人々」で、独立した評価の意味を持つ形容詞ではない。"
+    },
+    {
+      "term": "re-interview",
+      "description": "/ reinterview〈動詞・他動詞〉再び面接・聞き取りをする。"
+    }
+  ],
+  "core": [
+    {
+      "label": "共通核は「目的を持って質問と回答を交わし、人の適性や情報を知る場」。その場を指す名詞、質問する側の動詞、応募者として答える側の自動詞を区別する。",
+      "description": ""
+    },
+    {
+      "label": "質問と回答による適性確認の場",
+      "description": "→ 「採用・入学の面接」（語義1）"
+    },
+    {
+      "label": "質問と回答による取材・情報収集の場",
+      "description": "→ 「インタビュー、聞き取り、取材記事」（語義2）"
+    },
+    {
+      "label": "質問と回答による適性確認を行うこと",
+      "description": "→ 「面接する」（語義3）"
+    },
+    {
+      "label": "質問と回答による取材・情報収集を行うこと",
+      "description": "→ 「取材する、聞き取りをする」（語義4）"
+    },
+    {
+      "label": "質問と回答による適性確認を受けること",
+      "description": "→ 「面接を受ける」（語義5）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算／選考手続きでは不可算も】採用・入学の面接",
+      "frequency": 8,
+      "register": [
+        "一般、就職、採用、教育。"
+      ],
+      "definition": "仕事・コース・入学などの候補者に質問し、適性や経験を確かめる面談。候補者から組織に質問する機会も含み得る。",
+      "patterns": [
+        "a job interview",
+        "an interview for 〈仕事/コース〉",
+        "an interview with 〈人/組織〉",
+        "have an interview",
+        "attend an interview",
+        "conduct an interview",
+        "invite someone for an interview",
+        "be invited for interview",
+        "at an interview",
+        "a 〈phone/video〉 interview"
+      ],
+      "collocations": [
+        {
+          "pattern": "a job interview",
+          "use": "採用面接だと明示する。",
+          "example": "I have a job interview on Thursday morning.",
+          "translation": "木曜日の午前中に採用面接がある。"
+        },
+        {
+          "pattern": "an interview for 〈仕事/コース〉",
+          "use": "応募している仕事やコースを示す。",
+          "example": "She has an interview for a position in the design team.",
+          "translation": "彼女はデザインチームの職に応募しており、面接を受ける予定だ。"
+        },
+        {
+          "pattern": "an interview with 〈人/組織〉",
+          "use": "面接相手や採用側の組織を示す。",
+          "example": "My interview with the department head lasted forty minutes.",
+          "translation": "部門長との面接は40分続いた。"
+        },
+        {
+          "pattern": "have an interview",
+          "use": "面接の予定や経験を述べる。",
+          "example": "I had an interview yesterday and expect to hear back next week.",
+          "translation": "昨日面接を受けたので、来週には返事が来ると思う。"
+        },
+        {
+          "pattern": "attend an interview",
+          "use": "面接に出席することを述べる。",
+          "example": "Candidates may attend the interview online.",
+          "translation": "候補者はオンラインで面接に参加できます。"
+        },
+        {
+          "pattern": "conduct an interview",
+          "use": "面接を実施する側の行為を述べる。",
+          "example": "Two managers will conduct each interview.",
+          "translation": "各面接は管理職二人が担当する。"
+        },
+        {
+          "pattern": "invite someone for an interview",
+          "use": "候補者に面接の案内をする。",
+          "example": "The company invited me for a second interview.",
+          "translation": "その会社から二次面接の案内が来た。"
+        },
+        {
+          "pattern": "be invited for interview",
+          "use": "特にイギリス英語で、選考手続きとして面接に呼ばれることを無冠詞で表す。",
+          "example": "Shortlisted candidates will be invited for interview next month.",
+          "translation": "選考に残った候補者には、来月の面接の案内が送られる。"
+        },
+        {
+          "pattern": "at an interview",
+          "use": "面接という場での振る舞いを述べる。",
+          "example": "He seemed calm and well prepared at the interview.",
+          "translation": "面接で彼は落ち着いていて、十分に準備してきた様子だった。"
+        },
+        {
+          "pattern": "a 〈phone/video〉 interview",
+          "use": "電話・映像通話での面接を示す。",
+          "example": "The first stage is a short video interview with a recruiter.",
+          "translation": "最初の段階では、採用担当者と短いビデオ面接を行う。"
+        }
+      ],
+      "notes": [
+        "個々の面接は通常、一回なら an interview、複数なら interviews。特にイギリス英語の be called for interview、be invited for interview では、選考手続きとして無冠詞にできる。面接を受ける側は have an interview、attend an interview、be interviewed が広く通じる。take an interview はこの意味では地域差があり、一般的な米英語を目指すなら避ける。面接を行う側は conduct/hold an interview。for は募集職種など、with は面接相手を示す。in an interview は面接中の発言や出来事に焦点を置き、at an interview は面接の場を捉えるが、両者が重なる文脈もある。"
+      ],
+      "synonyms": [
+        {
+          "word": "meeting",
+          "definition": "人が集まって話し合う会合。",
+          "frequency": 10,
+          "difference": "interview より広く、質問による適性確認は必須でない。置き換えると採用面接という情報が失われる。",
+          "example": "The team arranged a meeting with the candidate.",
+          "translation": "チームはその候補者との面談を設定した。"
+        },
+        {
+          "word": "screening",
+          "definition": "候補者などを一定の条件で選別する審査。",
+          "frequency": 6,
+          "difference": "面談を伴う場合には重なるが、書類やテストだけで行う場合もある。",
+          "example": "All applicants undergo an initial screening.",
+          "translation": "応募者全員が最初の選考を受ける。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算】インタビュー、聞き取り、取材記事",
+      "frequency": 8,
+      "register": [
+        "報道、放送、研究、調査、警察など。"
+      ],
+      "definition": "情報・意見・経験などを得るために人に質問する会見や面談。また、その内容をまとめた記事・番組・録音など。",
+      "patterns": [
+        "an interview with someone",
+        "give an interview",
+        "conduct an interview with someone",
+        "in an interview",
+        "an interview about 〈話題〉",
+        "a 〈radio/television〉 interview",
+        "a recorded interview",
+        "a police interview",
+        "read an interview"
+      ],
+      "collocations": [
+        {
+          "pattern": "an interview with someone",
+          "use": "取材対象を示す。",
+          "example": "The magazine published an interview with a retired astronaut.",
+          "translation": "その雑誌は、引退した宇宙飛行士へのインタビューを掲載した。"
+        },
+        {
+          "pattern": "give an interview",
+          "use": "取材を受けて質問に答える。",
+          "example": "The novelist rarely gives interviews.",
+          "translation": "その小説家はめったに取材を受けない。"
+        },
+        {
+          "pattern": "conduct an interview with someone",
+          "use": "聞き手が取材・聞き取りを実施する。",
+          "example": "The researcher conducted an interview with each participant.",
+          "translation": "研究者は参加者一人ひとりに聞き取りを行った。"
+        },
+        {
+          "pattern": "in an interview",
+          "use": "取材の中で話した内容を導く。",
+          "example": "In an interview, the director explained why she chose that ending.",
+          "translation": "監督はインタビューで、なぜその結末を選んだのかを説明した。"
+        },
+        {
+          "pattern": "an interview about 〈話題〉",
+          "use": "取材で扱うテーマを示す。",
+          "example": "The podcast features an interview about urban wildlife.",
+          "translation": "そのポッドキャストには、都市の野生生物についてのインタビューが収録されている。"
+        },
+        {
+          "pattern": "a 〈radio/television〉 interview",
+          "use": "放送される媒体を示す。",
+          "example": "The mayor answered questions during a radio interview.",
+          "translation": "市長はラジオのインタビューで質問に答えた。"
+        },
+        {
+          "pattern": "a recorded interview",
+          "use": "録音・録画された聞き取りを指す。",
+          "example": "The researchers analysed the recorded interviews.",
+          "translation": "研究者たちは、録音された聞き取りの内容を分析した。"
+        },
+        {
+          "pattern": "a police interview",
+          "use": "警察による事情聴取や取調べを指す。",
+          "example": "The witness described the car during a police interview.",
+          "translation": "目撃者は警察の事情聴取で、その車の特徴を説明した。"
+        },
+        {
+          "pattern": "read an interview",
+          "use": "取材内容を文章にしたものを読む。",
+          "example": "I read an interview with the composer in yesterday’s paper.",
+          "translation": "昨日の新聞で、その作曲家のインタビュー記事を読んだ。"
+        }
+      ],
+      "notes": [
+        "give an interview は通常、取材される側が答えること。conduct an interview は取材する側で、役割が逆になる。an interview with Maya だけでは Maya が質問する側か答える側かは文脈次第だが、報道では普通、取材対象を示す。police interview は容疑者の取調べだけでなく、目撃者などからの聞き取りにも使える。interview は必ずしも対面・一対一・生放送を意味しない。He is a good interview. のように人を主語にして「取材相手として話が面白い人」と呼ぶ換喩的用法もあるが、一般的な「取材対象者」は interviewee。"
+      ],
+      "synonyms": [
+        {
+          "word": "conversation",
+          "definition": "人同士の会話。",
+          "frequency": 10,
+          "difference": "interview より目的や質問者の役割が固定されず、気軽な雑談にも使う。",
+          "example": "Their conversation turned to life in the countryside.",
+          "translation": "二人の会話は田舎での暮らしに移った。"
+        },
+        {
+          "word": "questioning",
+          "definition": "情報を得るために質問すること。",
+          "frequency": 7,
+          "difference": "行為そのものに焦点があり、警察などの文脈では強い追及を含み得る。完成した記事や番組は指さない。",
+          "example": "The witness answered several questions during the questioning.",
+          "translation": "目撃者は事情聴取でいくつかの質問に答えた。"
+        },
+        {
+          "word": "interrogation",
+          "definition": "厳しく、または組織的に質問して情報を引き出す取調べ。",
+          "frequency": 6,
+          "difference": "interview より強い圧力・追及を連想させる。一般の取材を中立的に呼ぶ語ではない。",
+          "example": "The suspect remained silent during the interrogation.",
+          "translation": "容疑者は取調べの間、黙っていた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞・他動詞／目的語省略の自動詞用法も】面接する",
+      "frequency": 8,
+      "register": [
+        "一般、採用、教育。"
+      ],
+      "definition": "採用側や教育機関が、候補者に質問して仕事・学習への適性を確かめる。",
+      "patterns": [
+        "interview someone",
+        "interview someone for 〈仕事/コース〉",
+        "be interviewed for 〈仕事/コース〉",
+        "be interviewed by someone",
+        "interview 〈candidates/applicants〉",
+        "be interviewing"
+      ],
+      "collocations": [
+        {
+          "pattern": "interview someone",
+          "use": "候補者を直接目的語にする。",
+          "example": "The panel interviewed six applicants this morning.",
+          "translation": "面接担当者たちは今朝、応募者六人を面接した。"
+        },
+        {
+          "pattern": "interview someone for 〈仕事/コース〉",
+          "use": "どの募集について面接するかを示す。",
+          "example": "We interviewed her for the position of project coordinator.",
+          "translation": "私たちはプロジェクト調整担当の職について、彼女を面接した。"
+        },
+        {
+          "pattern": "be interviewed for 〈仕事/コース〉",
+          "use": "面接される候補者を主語にする。",
+          "example": "He was interviewed for a place on the training programme.",
+          "translation": "彼はその研修プログラムへの参加選考で面接を受けた。"
+        },
+        {
+          "pattern": "be interviewed by someone",
+          "use": "面接官を by で示す。",
+          "example": "I was interviewed by the head of the laboratory.",
+          "translation": "私は研究室の責任者による面接を受けた。"
+        },
+        {
+          "pattern": "interview 〈candidates/applicants〉",
+          "use": "採用側が複数の応募者を面接する。",
+          "example": "The university interviews candidates before making its final decision.",
+          "translation": "その大学は、最終決定の前に候補者を面接する。"
+        },
+        {
+          "pattern": "be interviewing",
+          "use": "相手を省略して、採用側が面接を行っていると述べる。",
+          "example": "Our hiring team is interviewing all day tomorrow.",
+          "translation": "採用チームは明日、一日中面接を行う。"
+        }
+      ],
+      "notes": [
+        "他動詞の interview someone では主語が質問する側、目的語が候補者。I interviewed the manager. は通常「私がその管理職を面接した」で、「管理職の面接を受けた」なら I was interviewed by the manager. とする。目的語を省いた We are interviewing next week. も採用側の意味になれる。一方、応募者主語の I’m interviewing for a job. は語義5で、目的語がないだけで常に採用側と決まるわけではない。interview someone to do で「相手に何かをするよう面接する」という補文を作らない。"
+      ],
+      "synonyms": [
+        {
+          "word": "assess",
+          "definition": "能力や適性などを評価する。",
+          "frequency": 8,
+          "difference": "面接以外のテスト・観察も含み、質問する行為そのものは必須でない。",
+          "example": "The exercise is designed to assess each candidate’s communication skills.",
+          "translation": "その課題は、各候補者の伝達力を評価するために設計されている。"
+        },
+        {
+          "word": "screen",
+          "definition": "条件に合うかを調べて候補を絞る。",
+          "frequency": 7,
+          "difference": "選別段階に焦点を置き、書類審査にも使う。面接が選別手段の場合に意味が重なる。",
+          "example": "The recruiter screened applicants before scheduling meetings.",
+          "translation": "採用担当者は面談を設定する前に応募者を選考した。"
+        },
+        {
+          "word": "question",
+          "definition": "人に質問する。",
+          "frequency": 9,
+          "difference": "interview より広い一般語で、正式な面接や採用目的は意味に含まれない。",
+          "example": "The panel questioned each candidate about their previous work.",
+          "translation": "面接担当者たちは、候補者一人ひとりに前職の仕事について質問した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞・他動詞】取材する、聞き取りをする",
+      "frequency": 8,
+      "register": [
+        "一般、報道、研究、警察。"
+      ],
+      "definition": "報道・研究・調査などのため、人に質問して情報や意見、経験を聞き出す。",
+      "patterns": [
+        "interview someone about 〈話題〉",
+        "interview someone for 〈記事/番組/研究〉",
+        "interview someone on 〈番組/媒体〉",
+        "be interviewed by someone",
+        "interview 〈witnesses/residents〉",
+        "interview someone in person"
+      ],
+      "collocations": [
+        {
+          "pattern": "interview someone about 〈話題〉",
+          "use": "質問する内容を about で示す。",
+          "example": "The journalist interviewed residents about the proposed road.",
+          "translation": "記者は計画中の道路について住民に取材した。"
+        },
+        {
+          "pattern": "interview someone for 〈記事/番組/研究〉",
+          "use": "取材を使う媒体や目的を示す。",
+          "example": "She interviewed three chefs for an article on food waste.",
+          "translation": "彼女は食品ロスの記事を書くため、料理人三人に取材した。"
+        },
+        {
+          "pattern": "interview someone on 〈番組/媒体〉",
+          "use": "取材が行われる番組・媒体を示す。",
+          "example": "The presenter interviewed the author on her morning radio show.",
+          "translation": "司会者は朝のラジオ番組で、その作家にインタビューした。"
+        },
+        {
+          "pattern": "be interviewed by someone",
+          "use": "取材される人を主語にする。",
+          "example": "The witnesses were interviewed separately by the police.",
+          "translation": "目撃者たちは、警察から別々に事情を聞かれた。"
+        },
+        {
+          "pattern": "interview 〈witnesses/residents〉",
+          "use": "情報源になる人を直接目的語にする。",
+          "example": "Investigators interviewed witnesses who had seen the boat leave.",
+          "translation": "調査員たちは、船の出発を見た目撃者から話を聞いた。"
+        },
+        {
+          "pattern": "interview someone in person",
+          "use": "直接会って聞き取りを行う。",
+          "example": "The researcher interviewed each participant in person rather than by phone.",
+          "translation": "研究者は電話ではなく直接会って、参加者一人ひとりに聞き取りを行った。"
+        }
+      ],
+      "notes": [
+        "interview someone about something とし、相手の前に to は不要。I interviewed to him. ではなく I interviewed him.。on television は媒体、about his research は話題であり、on a subject のように on が話題を表す場合もある。interview someone for an article の for は掲載目的、語義3の for a job は募集対象。interview は質問を通じた取材で、日本語の「取材」全般を常に表すわけではない。現地で観察・資料収集をするなら report on、research などが適切な場合がある。"
+      ],
+      "synonyms": [
+        {
+          "word": "question",
+          "definition": "情報を得るために人に質問する。",
+          "frequency": 9,
+          "difference": "正式な取材場面に限らず、一つの質問や問いただす行為にも使う。",
+          "example": "The police questioned the driver about the accident.",
+          "translation": "警察は事故について運転手に質問した。"
+        },
+        {
+          "word": "survey",
+          "definition": "一定の質問を使って人々の意見や状況を調査する。",
+          "frequency": 7,
+          "difference": "集団の傾向を把握することに重点があり、オンラインの質問票だけでも成立する。",
+          "example": "The researchers surveyed commuters about their travel habits.",
+          "translation": "研究者たちは、通勤者の移動習慣を調査した。"
+        },
+        {
+          "word": "interrogate",
+          "definition": "厳しく質問して情報を引き出す。",
+          "frequency": 6,
+          "difference": "interview より圧力の強い取調べを表す。通常の広報インタビューの中立的な言い換えにはしない。",
+          "example": "Officers interrogated the suspect about the missing documents.",
+          "translation": "捜査官たちは、行方不明の書類について容疑者を厳しく取り調べた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【動詞・自動詞】面接を受ける",
+      "frequency": 6,
+      "register": [
+        "採用・選考。米語で特によく見られるが、英語でも使われる。"
+      ],
+      "definition": "応募者として採用・入学などの面接に参加し、質問に答える。また、その場でどのような印象を与えるかを述べる。",
+      "patterns": [
+        "interview for 〈仕事/コース〉",
+        "interview with 〈人/組織〉",
+        "interview at 〈組織〉",
+        "someone + interview well",
+        "someone + interview badly"
+      ],
+      "collocations": [
+        {
+          "pattern": "interview for 〈仕事/コース〉",
+          "use": "応募者側が面接に参加する。",
+          "example": "I’m interviewing for a research position next week.",
+          "translation": "私は来週、研究職の面接を受ける。"
+        },
+        {
+          "pattern": "interview with 〈人/組織〉",
+          "use": "面接を受ける相手を示す。",
+          "example": "She interviewed with three firms before accepting an offer.",
+          "translation": "彼女は三社の面接を受けてから、内定の一つを受諾した。"
+        },
+        {
+          "pattern": "interview at 〈組織〉",
+          "use": "面接を受ける組織を示す。",
+          "example": "He interviewed at a local hospital for a laboratory job.",
+          "translation": "彼は地元の病院で検査室の仕事の面接を受けた。"
+        },
+        {
+          "pattern": "interview well",
+          "use": "面接で能力や人柄をうまく伝える。",
+          "example": "She has little experience, but she interviews well.",
+          "translation": "彼女は経験こそ少ないが、面接では自分の良さをうまく伝える。"
+        },
+        {
+          "pattern": "interview badly",
+          "use": "面接で実力や人柄をうまく示せない。",
+          "example": "He tends to interview badly when he is nervous.",
+          "translation": "彼は緊張すると、面接でうまく受け答えができない傾向がある。"
+        }
+      ],
+      "notes": [
+        "この語義では主語が応募者で、直接目的語を取らない。I interviewed for the job.「私はその仕事の面接を受けた」と I interviewed an applicant for the job.「私はその仕事の応募者を面接した」を区別する。interview well は「面接官として上手に質問する」とも文脈上解釈できるが、応募者を評価する文脈では「面接で好印象を与える」。well は副詞で、通常 He interviews good. とはしない。",
+        "中立的で広く通じる形は have an interview や be interviewed。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}
