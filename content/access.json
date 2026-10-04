@@ -3,7 +3,7 @@
   "slug": "access",
   "ipa": "米・英: /ˈæk.ses/",
   "lead": "情報・サービス・場所などを利用したり、人に会って話したりできること。その機会・権利・許可・実際の利用可能性を指し、どれが問題になるかは文脈で決まる。必ずしも法律上の権利や正式な許可だけを意味しない。",
-  "updated": "2026-10-03",
+  "updated": "2026-10-04",
   "notion_url": "https://app.notion.com/p/access-3ee4faa9b77d81ccb396cb3bd7aae3bf",
   "pronunciation": [
     "名詞・動詞とも2音節で、第1音節に強勢を置く。第1音節の母音は /æ/、第2音節は /e/。accesses は /ˈæk.ses.ɪz/、accessed は /ˈæk.sest/。excess「過剰」と綴り・発音を区別する。"
@@ -14,7 +14,7 @@
   "formation": [
     {
       "term": "accessible",
-      "description": "形容詞。「近づける、利用できる、理解しやすい」。accessible to someone とする。"
+      "description": "形容詞。「近づける、利用できる、理解しやすい」。誰にとって利用・理解できるかを示すときは accessible to someone。単独でも使え、accessible by car は交通手段、accessible via 〈経路〉は到達経路を示す。"
     },
     {
       "term": "inaccessible",
@@ -51,7 +51,7 @@
       "description": "→ 「入るための道、到達手段」（語義3）"
     },
     {
-      "label": "対象に届いて入る行為",
+      "label": "対象に届く移動や内部への到達",
       "description": "→ 「場所に入る、たどり着く」（語義4）"
     },
     {
@@ -167,7 +167,7 @@
       "register": [
         "情報技術では一般的。サービス・資源については仕事・行政などの説明でよく使う。"
       ],
-      "definition": "情報・システム・サービス・資源などを利用できるようになること。また、情報を開く・取り出すなどして利用すること。コンピューター上のファイルを開く場合から、必要な支援や資金を利用する場合まで使える。",
+      "definition": "情報を開く・取り出す、システムに接続する、サービスや資源を利用すること。また、それらを利用できるようになること。ファイルの閲覧から、必要な支援や資金の利用まで使える。",
       "patterns": [
         "access 〈information/data/files〉",
         "access the internet",
@@ -211,7 +211,7 @@
           "pattern": "access one's funds",
           "use": "自分の資金を引き出すなどして利用する。",
           "example": "Customers can access their funds through the mobile app.",
-          "translation": "顧客はモバイルアプリを通じて、自分の資金を引き出すなどの操作ができる。"
+          "translation": "顧客はモバイルアプリを通じて、自分の資金を引き出すなどして利用できる。"
         },
         {
           "pattern": "be accessed by 〈利用者〉",
@@ -221,7 +221,7 @@
         }
       ],
       "notes": [
-        "目的語を直接続ける。他動詞なので access to information ではなく access information。名詞を使うなら gain access to information とする。受動態も普通に使う。accessed、accessing は通常の活用形で、「利用しやすい」は accessible。access a service は利用できるようになることに焦点があり、そのサービスのすべての機能を実際に使い終えたという意味ではない。一般的な相手への「連絡する」を access someone で置き換えず、contact someone や have access to someone を使い分ける。"
+        "目的語を直接続ける。他動詞なので access to information ではなく access information。名詞を使うなら gain access to information とする。受動態も普通に使う。accessed、accessing は通常の活用形で、「利用しやすい」は accessible。新たに利用可能になることに限らず、すでに使えるファイルを開いたりサービスを利用したりする場合にも使う。接続・閲覧・利用のどこまでを指すかは、対象と文脈による。一般的な相手への「連絡する」を access someone で置き換えず、contact someone や have access to someone を使い分ける。"
       ],
       "synonyms": [
         {
@@ -236,7 +236,7 @@
           "word": "use",
           "definition": "物・機能・サービスを目的のために使う。",
           "frequency": 10,
-          "difference": "最も広い日常語。access は利用先に到達することや、利用可能になることに焦点を置く。",
+          "difference": "use は、道具で作業するなど、何かを目的のために使う行為を広く表す。access は、情報を開く・システムに接続するなどして利用先に到達し、利用できることや利用する行為に焦点を置く。",
           "example": "You can use this app to edit photos.",
           "translation": "このアプリで写真を編集できます。"
         },
@@ -264,7 +264,9 @@
         "access via/through 〈経路〉",
         "access by 〈交通手段〉",
         "wheelchair access",
-        "an access 〈road/route/point〉",
+        "an access road",
+        "an access route",
+        "an access point",
         "the only access to 〈場所〉"
       ],
       "collocations": [
@@ -300,7 +302,7 @@
         }
       ],
       "notes": [
-        "通常は access を不可算として使い、a way in、an entrance などとは数え方が違う。特定の経路なら the only access のように the を付けられる。an access road の a は road に対応し、access 自体を数えているわけではない。交通案内の easy access は「行きやすい」という意味で、インターネットへの接続だけを指す語ではない。"
+        "通常は access を不可算として使い、a way in、an entrance などとは数え方が違う。特定の経路なら the only access のように the を付けられる。an access road、an access route、an access point は複合名詞で、冠詞 an はそれぞれの中心名詞 road・route・point に対応する。access 自体を数えているわけではない。交通案内の easy access は「行きやすい」という意味で、インターネットへの接続だけを指す語ではない。"
       ],
       "synonyms": [
         {
@@ -329,7 +331,7 @@
       "register": [
         "案内、不動産、技術・作業説明。日常会話の get to や get into より説明的。"
       ],
-      "definition": "入口・通路・交通手段などを使って、場所や物の内部に到達すること。建物だけでなく、機器の内部など、作業対象に手が届くようにする場合にも使う。",
+      "definition": "入口・通路・交通手段などを使って、場所にたどり着いたり、中へ入ったりすること。機器の内部など、作業対象に手が届くようにする場合にも使う。",
       "patterns": [
         "access 〈場所・内部〉",
         "access something via/through 〈経路〉",
@@ -340,7 +342,7 @@
       "collocations": [
         {
           "pattern": "access 〈場所・内部〉",
-          "use": "到達して内部に入る、または作業できるようにする。",
+          "use": "場所にたどり着く、中へ入る、または対象に手が届いて作業できるようにする。",
           "example": "Remove the cover to access the battery compartment.",
           "translation": "カバーを外すと電池収納部に手が届きます。"
         },
@@ -371,7 +373,7 @@
           "word": "reach",
           "definition": "移動して場所や対象まで届く。",
           "frequency": 9,
-          "difference": "到着・到達が中心で、内部に入ることは必ずしも含まない。access は入る・手を届かせるための経路を意識させる。",
+          "difference": "reach は到着・到達そのものが中心。access は、場所へ行く・入る、対象に手を届かせるための経路や手段を意識させるが、常に内部へ入ることを意味するわけではない。",
           "example": "We reached the village just before sunset.",
           "translation": "私たちは日没の直前に村に着いた。"
         },
