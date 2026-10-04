@@ -3,7 +3,7 @@
   "slug": "primarily",
   "ipa": "米: /praɪˈmerəli/｜英: /ˈpraɪmərəli/、/praɪˈmerəli/",
   "lead": "複数の要因・目的・対象などの中で、あるものが中心を占めることを表す。量や割合が大きい場合にも、重要性や責任の点で第一である場合にも使う。「それだけ」「例外なく」ではなく、他の要因や対象もあり得る。",
-  "updated": "2026-10-03",
+  "updated": "2026-10-04",
   "notion_url": "https://app.notion.com/p/primarily-3ee4faa9b77d81938b3ed2a5613675ea",
   "pronunciation": [
     "ここではいずれも4音節の発音を示す。米音と英音の第2の形は、第2音節の /e/ に強勢がある。英音の第1の形は、第1音節の /aɪ/ に強勢があり、第2音節の母音が /ə/ になる。第3音節の母音は /ə/、第4音節は /i/。米英で完全に異なる発音に固定されているわけではない。"
@@ -39,7 +39,7 @@
         "be primarily responsible for 〈事柄〉",
         "be designed primarily for 〈対象/目的〉",
         "primarily because + 〈節〉",
-        "have primarily + 〈過去分詞〉",
+        "have/has primarily 〈過去分詞〉",
         "not primarily + 〈名詞句/形容詞/前置詞句〉",
         "primarily, + 〈節〉"
       ],
@@ -48,7 +48,7 @@
           "pattern": "primarily serve 〈対象〉",
           "use": "活動などが主に誰のためのものかを示す。",
           "example": "The new bus route primarily serves communities east of the river.",
-          "translation": "新しいバス路線は、主に川の東側の地域を結んでいる。"
+          "translation": "新しいバス路線は、主に川の東側の地域の交通を担っている。"
         },
         {
           "pattern": "be primarily + 〈名詞句〉",
@@ -81,8 +81,8 @@
           "translation": "この場所を選んだ主な理由は、駅から近いことです。"
         },
         {
-          "pattern": "have primarily + 〈過去分詞〉",
-          "use": "これまでの活動などの中心を、完了形で述べる。",
+          "pattern": "have/has primarily 〈過去分詞〉",
+          "use": "完了形で副詞を置く位置を示し、これまでの活動などの中心を述べる。",
           "example": "The researchers have primarily focused on changes in water temperature.",
           "translation": "研究者たちはこれまで、主に水温の変化に注目してきた。"
         },
@@ -100,7 +100,7 @@
         }
       ],
       "notes": [
-        "一般動詞の前、be の後、助動詞・完了の have の後が基本的な位置になる。They primarily work online.、They are primarily interested in design.、They have primarily worked online. のように使う。特定の句を焦点にするときは primarily for students、primarily because of the weather のように、その句の直前にも置ける。not primarily は「主な点ではそうではない」で、not at all「全く違う」とは異なる。primarily responsible は責任が中心的にあることを表し、primarily が responsible の程度を「とても」のように強めているわけではない。名詞を直接修飾する「主な理由」は the primary reason であり、the primarily reason とはしない。文頭の Primarily は「第一に重要なのは」という優先度を示せるが、単純な作業順序を「最初に、次に」と列挙するなら First, ... Then, ... が明確。時間的な「当初は」は語義2で別に扱う。"
+        "一般動詞の前、be の後、助動詞・完了の have/has の後が基本的な位置になる。They primarily work online.、They are primarily interested in design.、They have primarily worked online. のように使う。特定の句を焦点にするときは primarily for students、primarily because of the weather のように、その句の直前にも置ける。not primarily は、ある性質・理由・対象が「中心である」という点を否定する。上の費用の例では、費用が主な問題であることを否定しており、費用も問題の一部である可能性は残る。費用が全く問題ではないと全面否定する表現ではない。primarily responsible は責任が中心的にあることを表し、primarily が responsible の程度を「とても」のように強めているわけではない。名詞を直接修飾する「主な理由」は the primary reason であり、the primarily reason とはしない。文頭の Primarily は「第一に重要なのは」という優先度を示せるが、単純な作業順序を「最初に、次に」と列挙するなら First, ... Then, ... が明確。時間的な「当初は」は語義2で別に扱う。"
       ],
       "synonyms": [
         {
@@ -123,7 +123,7 @@
           "word": "principally",
           "definition": "主要な点で、主として。",
           "frequency": 6,
-          "difference": "重要性や中心性を強調する改まった語。primarily 同様、単に一番早い時点を意味するとは限らない。",
+          "difference": "重要性や中心性を強調する改まった語。この用法の primarily と同様、時間的な早さではなく、主要なものを示す。",
           "example": "The fund is intended principally to support small community projects.",
           "translation": "その基金は、主に地域の小規模な活動を支援するためのものだ。"
         },
@@ -164,25 +164,18 @@
       ],
       "definition": "後の状態や意味と対比して、出発点ではどうであったかを表す。「主に」ではなく時間的な起点を示す用法。",
       "patterns": [
-        "primarily + 〈過去の身分/性質を表す名詞句〉, ... later ...",
-        "〈語〉 + primarily meant ... but later ..."
+        "Primarily 〈名詞句〉, 〈主語〉 + 〈後の変化を表す述語〉"
       ],
       "collocations": [
         {
-          "pattern": "primarily + 〈過去の身分/性質を表す名詞句〉, ... later ...",
-          "use": "当初の役割を、後に変わった役割と対比する。",
-          "example": "Primarily a private residence, the building was later converted into a museum.",
-          "translation": "もともと個人の住居だったその建物は、後に博物館へと改装された。"
-        },
-        {
-          "pattern": "〈語〉 + primarily meant ... but later ...",
-          "use": "語の初期の意味と後の意味変化を対比する。",
-          "example": "In this fictional language, the word primarily meant \"water\" but later came to mean \"river\".",
-          "translation": "この架空の言語では、その語は当初「水」を意味していたが、後に「川」を意味するようになった。"
+          "pattern": "Primarily 〈名詞句〉, 〈主語〉 + 〈後の変化を表す述語〉",
+          "use": "文頭の名詞句で主節の主語を補足し、当初の役割と後の変化を対比する。例の括弧内は、「初めは」という意味を明示するための補足。",
+          "example": "Primarily (that is, at first) a private residence, the building was later converted into a museum.",
+          "translation": "初めは個人の住居だったその建物は、後に博物館へと改装された。"
         }
       ],
       "notes": [
-        "この用法は残っているが、単に過去時制と組み合わせれば必ず「当初は」になるわけではない。語義1の「主に」と紛らわしいため、過去と後の変化をはっきり示す必要がある。自分で書くなら Originally a private residence, ... や The word originally meant ... とすると誤解が少ない。新しい点を順に列挙する firstly や、理由を挙げる in the first place と機械的に置き換えない。"
+        "この用法は辞書にも載っているが、単に過去時制や later と組み合わせれば必ず「当初は」になるわけではない。上の例で時間的な意味を確定させているのは、説明を補う that is, at first である。この補足がなければ「主として個人の住居だった」とも読める。In this fictional language, the word primarily meant \"water\" but later came to mean \"river\". も、「主に『水』を意味していた」と解釈できるため、時間的な用法の明確な例とはならない。文頭の名詞句そのものが過去を表すのではなく、主節の時制や文脈によって過去の役割だと分かる。自分で書くなら Originally a private residence, ... や The word originally meant ... とすると誤解が少ない。新しい点を順に列挙する firstly や、理由を挙げる in the first place と機械的に置き換えない。"
       ],
       "synonyms": [
         {
