@@ -3,18 +3,18 @@
   "slug": "acknowledge",
   "ipa": "米: /əkˈnɑː.lɪdʒ/｜英: /əkˈnɒl.ɪdʒ/",
   "lead": "事実・問題・必要性などが本当である、または存在すると認めること。自分に不都合な事実にも使うが、不本意さや後悔が必ず含まれるわけではない。認めた事実を好ましいと評価することとも別。",
-  "updated": "2026-10-03",
+  "updated": "2026-10-04",
   "notion_url": "https://app.notion.com/p/acknowledge-3ee4faa9b77d8149afd1c79597c7535e",
   "pronunciation": [
     "3音節で、第2音節に強勢を置く。米英差は第2音節の母音で、米音は /ɑː/、英音は /ɒ/。第1音節は /ə/、第3音節は /ɪ/。語末の /dʒ/ を保ち、acknowledged の語尾は /dʒd/、acknowledges は /dʒɪz/ となる。"
   ],
   "etymology": [
-    "中英語の aknowen「知っていると認める」と knowledge 系の語が関わってできた語。さらに古英語の cnāwan「知る」にさかのぼり、単に知っていることよりも、その認識を示すことへ重点が移っている。同じ系統の語に know「知る」と knowledge「知識」がある。見た目だけからラテン語の ac- と knowledge の単純な組み合わせとして覚えない。"
+    "中英語の aknowen「認識する・認める」と knowlechen「認める」が混ざってできたと考えられている。前者は古英語の oncnāwan「知る・認識する」にさかのぼり、know「知る」や knowledge「知識」と同じ「知る」という語根を持つ。語の形成には説明の違いもあるが、ラテン語の ac- と現代英語の knowledge を単純に組み合わせた語ではない。"
   ],
   "formation": [
     {
       "term": "acknowledged",
-      "description": "過去形・過去分詞。「認めた、認められた」。形容詞としての「広く認められた」は語義6。"
+      "description": "過去形・過去分詞。「認めた、認められた」。形容詞としての「認められた、受け入れられた」は語義6。"
     },
     {
       "term": "acknowledging",
@@ -59,12 +59,12 @@
       "description": "→ 「貢献に言及する、謝意を示す」（語義5）"
     },
     {
-      "label": "認識した事実や価値が広く認められた状態",
-      "description": "→ 「広く認められた、公認の」（語義6）"
+      "label": "認識した事実や価値が認められた状態",
+      "description": "→ 「認められた、受け入れられた」（語義6）"
     },
     {
       "label": "認識した自分の署名行為を正式に示すこと",
-      "description": "→ 「署名・作成が本人の行為だと認める」（語義7）"
+      "description": "→ 「署名が本人の行為だと認める」（語義7）"
     }
   ],
   "sources": [],
@@ -137,7 +137,7 @@
         }
       ],
       "notes": [
-        "「～したと認める」は acknowledge doing または acknowledge that ... とし、acknowledge to do は使わない。acknowledge to someone that ... の to は相手を示す前置詞。acknowledge to oneself that ... は「自分でも心の中で～と認める」で、他人への表明は必要ない。acknowledge something to be ... は目的語がある別構文なので、to do の誤用と混同しない。that は省略できる。受動態の The problem was acknowledged.「問題の存在が認められた」も可能。acknowledge responsibility は責任があると認めることで、必ずしも今後の役割を引き受ける約束そのものではない。"
+        "「～したと認める」は acknowledge doing または acknowledge that ... とし、acknowledge to do は使わない。acknowledge to someone that ... の to は相手を示す前置詞。acknowledge to oneself that ... は「自分でも心の中で～と認める」で、他人への表明は必要ない。acknowledge something to be ... は目的語がある別構文なので、to do の誤用と混同しない。that は省略できる。受動態の The problem was acknowledged.「問題の存在が認められた」も可能。acknowledge responsibility は責任があると認めることで、必ずしも今後の役割を引き受ける約束そのものではない。 acknowledge receiving 〈物〉 も、調査などで受け取った事実を認めるならこの語義で、送り手への受領通知を表す語義3とは文脈で区別する。"
       ],
       "synonyms": [
         {
@@ -214,7 +214,7 @@
         },
         {
           "pattern": "be acknowledged as 〈地位・種類〉",
-          "use": "広く受けている評価を述べる。",
+          "use": "特定の地位・種類のものと認められていることを述べる。",
           "example": "The building is widely acknowledged as a masterpiece of modern architecture.",
           "translation": "その建物は近代建築の傑作として広く認められている。"
         },
@@ -304,16 +304,16 @@
         }
       ],
       "notes": [
-        "acknowledge receipt of の receipt は通常無冠詞で、「領収書」ではなく「受領」という意味。acknowledge an application は受領を知らせることで、accept an application「申請を受理する・認める」と常に同じではない。通信の文脈では機器が受信を確認することにも使い、acknowledgment は ACK と略される。"
+        "acknowledge receipt of の receipt は通常無冠詞で、「領収書」ではなく「受領」という意味。 acknowledge receiving 〈物〉 は、受け取ったことを送り手に知らせる文脈ならこの語義だが、受領の事実を認める語義1にもなる。-ing という形だけでは区別できない。acknowledge an application は受領を知らせることで、accept an application「申請を受理する・認める」と常に同じではない。通信の文脈では機器が受信を確認することにも使い、acknowledgment は ACK と略される。"
       ],
       "synonyms": [
         {
           "word": "confirm receipt",
           "definition": "届いたこと・受け取ったことを確認して知らせる。",
           "frequency": 6,
-          "difference": "この語義を明示する定着した表現。acknowledge a message より「受信確認」であることが直接分かる。",
+          "difference": "受領を明示する定着した表現。ここでの依頼は送り手への受領連絡を求めるもので、届いたかどうかを自分で調べるだけではない。ただし confirm 自体がいつも相手への通知を意味するわけではない。",
           "example": "Could you confirm receipt of the revised schedule?",
-          "translation": "修正版の日程表が届いたか、ご確認いただけますか。"
+          "translation": "修正版の日程表を受け取った旨をご連絡いただけますか。"
         }
       ],
       "antonyms": []
@@ -356,7 +356,7 @@
           "pattern": "acknowledge someone by -ing",
           "use": "反応の方法を動作で示す。",
           "example": "The driver acknowledged us by raising a hand.",
-          "translation": "運転手は片手を上げて、私たちに挨拶を返した。"
+          "translation": "運転手は片手を上げて、私たちに応じた。"
         }
       ],
       "notes": [
@@ -471,12 +471,12 @@
     },
     {
       "number": 6,
-      "title": "【形容詞・主に限定用法】広く認められた、公認の",
+      "title": "【形容詞・主に限定用法】認められた、受け入れられた",
       "frequency": 5,
       "register": [
         "文章、報道、学術、人物・業績の評価。"
       ],
-      "definition": "acknowledged の形で、地位・能力・事実などが一般に認められていること。公的な免許や認可を受けたという意味に限らず、周囲が認めている評価にも使う。",
+      "definition": "acknowledged の形で、地位・能力・事実・問題の存在などが認められていること。専門家などの評価では「周囲に広く認められた」という含みがあるが、公的な免許・認可や、誰もが認めていることを必ず表すわけではない。",
       "patterns": [
         "an acknowledged 〈expert/authority/master〉",
         "the acknowledged leader in 〈分野〉",
@@ -498,7 +498,7 @@
         },
         {
           "pattern": "an acknowledged problem",
-          "use": "問題の存在がすでに認められていること。",
+          "use": "問題の存在が認められていること。認める人の範囲は文脈による。",
           "example": "Staff shortages are an acknowledged problem across the industry.",
           "translation": "人手不足は、業界全体で認識されている問題だ。"
         }
@@ -509,7 +509,7 @@
       "synonyms": [
         {
           "word": "recognized",
-          "definition": "能力・地位・事実などが広く認められている。",
+          "definition": "能力・地位・事実などが認められている。",
           "frequency": 7,
           "difference": "非常に近いが、公式の資格や制度上の承認を示す文脈にもよく使う。acknowledged は評価を認める含みが強い。",
           "example": "He is a recognized authority on marine mammals.",
@@ -537,12 +537,12 @@
     },
     {
       "number": 7,
-      "title": "【動詞・他動詞】署名・作成が本人の行為だと認める",
+      "title": "【動詞・他動詞】署名が本人の行為だと認める",
       "frequency": 3,
       "register": [
         "法律、公証。ここでは米国の文書署名に関する用法。"
       ],
-      "definition": "法律・公証の文脈で、本人が文書への署名や文書の作成を自分の行為として正式に認めること。米国の acknowledgment 手続きなどで使う。",
+      "definition": "法律・公証の文脈で、文書への署名を自分の行為として正式に認めること。米国の acknowledgment 手続きなどで使い、文面を自分で起草したと認める意味ではない。",
       "patterns": [
         "acknowledge one's signature before a notary",
         "acknowledge that one executed 〈文書〉",
@@ -557,13 +557,13 @@
         },
         {
           "pattern": "acknowledge that one executed 〈文書〉",
-          "use": "文書に署名し、作成した行為を本人が認める。",
+          "use": "文書に所定の方式で署名したことを本人が認める。",
           "example": "Before the notary, he acknowledged that he had executed the document.",
           "translation": "彼は公証人の面前で、その文書に所定の方式で署名したのは自分だと認めた。"
         }
       ],
       "notes": [
-        "この文脈での execute a document は、文書を所定の方式で署名・作成すること。文面を自ら起草したという意味ではない。「実行する」と機械的に訳さない。acknowledge する主体は署名者であり、公証人が文書の内容すべてを正しいと認めるという意味ではない。",
+        "この文脈での execute a document は、文書に所定の方式で署名すること。文面を自ら起草したという意味ではなく、「実行する」と機械的に訳さない。acknowledge する主体は署名者であり、公証人が文書の内容すべてを正しいと認めるという意味ではない。カリフォルニア州の acknowledgment では、あらかじめ署名した文書を持参し、公証人の面前でその署名行為を認めることもできる。公証人の目の前で署名すること自体が必須なのではない。",
         "カリフォルニア州の acknowledgment の証明書は、文書内容の真実性・正確性・有効性を公証人が保証するものではないと明記している。具体的な要件や効力は法域・文書により異なる。"
       ],
       "synonyms": [],
