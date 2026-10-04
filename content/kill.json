@@ -1,0 +1,1805 @@
+{
+  "word": "kill",
+  "slug": "kill",
+  "ipa": "米・英: /kɪl/",
+  "lead": "人・動物・植物などを死に至らせる。他動詞では死ぬものを目的語に置き、自動詞では相手を特定せず「命を奪う作用がある・殺す行為をする」と述べる。主語は人だけでなく、事故・病気・寒さなどにもなる。故意や違法性は、この語自体の必須条件ではない。",
+  "updated": "2026-10-04",
+  "notion_url": "https://app.notion.com/p/kill-3ef4faa9b77d8117b85cfa270af701a8",
+  "pronunciation": [
+    "1音節。母音は /ɪ/ で、長い /iː/ ではない。語末の /l/ の後に母音を加えない。",
+    "三人称単数形・名詞複数形 kills は /kɪlz/。過去形・過去分詞 killed は /kɪld/ で、-ed は /d/ と読み、新しい音節を作らない。現在分詞・派生名詞 killing は /ˈkɪlɪŋ/ で2音節、第1音節に強勢がある。"
+  ],
+  "etymology": [
+    "中英語の killen、cullen などにさかのぼり、古くは「打つ・たたく」という用法もあった。さらに前の起源には不確かさがあるが、ゲルマン語系で quell「鎮める」と関係する可能性があるとされる。確実な接頭辞・語根へ無理に分解しない。",
+    "地名の kill「川・水路」はオランダ語 kil に由来する別系統。語義31のような地名を「殺す」の意味から説明しない。"
+  ],
+  "formation": [
+    {
+      "term": "killer",
+      "description": "kill に -er を付けた名詞で「殺す人・もの」。比喩では大きな負担をかけるものも指す。形容詞的な killer の「すばらしい・強烈な」は非常にくだけた別の用法で、killed「殺された」と区別する。"
+    },
+    {
+      "term": "killing",
+      "description": "動詞の現在分詞のほか、名詞「殺害・殺害事件」（語義5）、make a killing「大もうけする」（語義16）、形容詞「過酷な」（語義26）として使う。"
+    },
+    {
+      "term": "overkill",
+      "description": "名詞で「過剰な対応・やりすぎ」。必要な量や程度を大幅に超えることを表し、実際の殺害に限らない。"
+    },
+    {
+      "term": "killjoy",
+      "description": "可算名詞で「興ざめさせる人・楽しみを台なしにする人」。kill と joy の複合語。"
+    },
+    {
+      "term": "painkiller",
+      "description": "可算名詞で「鎮痛剤」。痛みを抑える語義10に関係する複合語で、病気の原因を治すことを語自体が保証するわけではない。"
+    },
+    {
+      "term": "kill",
+      "description": "switch：名詞句で「緊急停止スイッチ・停止機構」。機器などの働きを止める語義6に関係する。"
+    }
+  ],
+  "core": [],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞／自動詞】殺す・死なせる・命を奪う",
+      "frequency": 9,
+      "register": [
+        "日常・報道・科学など。具体的な死の原因を述べる基本語。"
+      ],
+      "definition": "人・動物・植物などを死に至らせる。他動詞では死ぬものを目的語に置き、自動詞では相手を特定せず「命を奪う作用がある・殺す行為をする」と述べる。主語は人だけでなく、事故・病気・寒さなどにもなる。故意や違法性は、この語自体の必須条件ではない。",
+      "patterns": [
+        "kill someone/something",
+        "kill",
+        "be killed in 〈事故/戦闘〉",
+        "be killed by 〈原因/行為者〉",
+        "get killed",
+        "kill oneself"
+      ],
+      "collocations": [
+        {
+          "pattern": "kill someone",
+          "use": "人を死に至らせる原因を主語にする。",
+          "example": "The landslide killed two people and blocked the road.",
+          "translation": "地滑りで2人が亡くなり、道路がふさがれた。"
+        },
+        {
+          "pattern": "kill 〈plants/bacteria〉",
+          "use": "人以外の生物にも使う。",
+          "example": "The sudden frost killed the young plants in the garden.",
+          "translation": "突然の霜で、庭の若い植物が枯れた。"
+        },
+        {
+          "pattern": "be killed in 〈事故〉",
+          "use": "事故で命を落とす人を主語にする。",
+          "example": "No one was killed in the railway accident.",
+          "translation": "その鉄道事故で亡くなった人はいなかった。"
+        },
+        {
+          "pattern": "be killed by 〈原因〉",
+          "use": "死をもたらした原因を by で示す。",
+          "example": "Several trees were killed by the prolonged drought.",
+          "translation": "長く続いた干ばつで、何本かの木が枯れた。"
+        },
+        {
+          "pattern": "get killed",
+          "use": "危険な状況で命を落とすことを、くだけた言い方で述べる。",
+          "example": "You could get killed crossing the tracks here.",
+          "translation": "ここで線路を渡ったら、命を落としかねない。"
+        },
+        {
+          "pattern": "kill",
+          "use": "目的語を置かず、致死的な作用を述べる。",
+          "example": "Carbon monoxide can kill without any obvious warning.",
+          "translation": "一酸化炭素は、はっきりした前兆もなく命を奪うことがある。"
+        },
+        {
+          "pattern": "kill oneself",
+          "use": "行為者自身が死に至る再帰構文。",
+          "example": "The investigation found that he had not killed himself.",
+          "translation": "調査の結果、彼の死は自殺ではなかったと分かった。"
+        }
+      ],
+      "notes": [
+        "if looks could kill は「視線だけで人を殺せるなら」という仮定で、ものすごく怒った目つきを表す定型表現。If looks could kill, I would be dead after that mistake. なら「あのミスの後の相手のにらみ方は、恐ろしいほどだった」。curiosity killed the cat は「余計な詮索は危険だ」という警告や、質問への応答に使うことわざ。kill は「死なせる」、die は「死ぬ」。The cold killed the plant. と The plant died. を区別する。「病気で死んだ」は died of the disease ともいえるが、was died とはしない。be killed in action は「戦闘中に死亡する・戦死する」。kill oneself の字義的な意味と、語義11の「無理をする」、語義12の「大笑いする」は文脈と後続語で区別する。My parents will kill me if I lose the keys again. のような発言は「また鍵をなくしたら親にものすごく怒られる」という誇張にもなるが、相手や状況によっては実際の脅しとして受け取られる。"
+      ],
+      "synonyms": [
+        {
+          "word": "murder",
+          "definition": "人を故意に、違法に殺す。",
+          "frequency": 8,
+          "difference": "kill より意味が狭く、人の犯罪行為という評価を伴う。法律上の細かな成立要件は法域によって異なる。",
+          "example": "The detective was investigating who had murdered the shopkeeper.",
+          "translation": "刑事は、誰がその店主を殺害したのか捜査していた。"
+        },
+        {
+          "word": "slay",
+          "definition": "人や動物を殺す。",
+          "frequency": 4,
+          "difference": "この字義では文語・物語・報道の色合いが強い。日常の事故や植物の枯死には通常 kill を使う。",
+          "example": "In the legend, the knight slays a monster.",
+          "translation": "その伝説では、騎士が怪物を倒す。"
+        },
+        {
+          "word": "slaughter",
+          "definition": "動物を食肉用に殺す、または人々を残酷に大量殺害する。",
+          "frequency": 6,
+          "difference": "対象と方法・規模が限定される。kill は食肉処理や残酷さを必ずしも含まない。",
+          "example": "The report described how animals were slaughtered for meat.",
+          "translation": "報告書は、動物が食肉用に処理される様子を記述していた。"
+        },
+        {
+          "word": "assassinate",
+          "definition": "政治的・社会的に重要な人物を、政治的な動機などで暗殺する。",
+          "frequency": 6,
+          "difference": "対象人物と動機に焦点があり、単に事故で死なせる kill と置き換えられない。",
+          "example": "The novel begins after a minister is assassinated.",
+          "translation": "その小説は、ある大臣が暗殺された後から始まる。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【動詞・他動詞】台なしにする・終わらせる・打ち切る",
+      "frequency": 8,
+      "register": [
+        "一般・会話・ビジネス・報道。中立的な stop や end より強く、対象によってはくだけた表現。"
+      ],
+      "definition": "希望・機会・感情・計画などを失わせたり、それ以上続かなくしたりする。制度上の決議や記事の掲載を止める場合にも使い、通常は強い悪影響や決定的な中止を表す。人の死亡を意味しない。",
+      "patterns": [
+        "kill 〈hope/enthusiasm/interest〉",
+        "kill someone's chances of doing something",
+        "kill a project",
+        "kill a bill",
+        "kill a story",
+        "kill something stone-dead",
+        "be killed by 〈原因〉"
+      ],
+      "collocations": [
+        {
+          "pattern": "kill someone's chances of doing something",
+          "use": "成功の見込みを失わせる。",
+          "example": "The missed deadline killed our chances of joining the exhibition.",
+          "translation": "締め切りに間に合わず、私たちは展覧会に参加する望みを失った。"
+        },
+        {
+          "pattern": "kill the mood",
+          "use": "その場のよい雰囲気を壊す。",
+          "example": "The argument over money killed the mood at dinner.",
+          "translation": "お金をめぐる口論で、夕食の雰囲気は台なしになった。"
+        },
+        {
+          "pattern": "kill enthusiasm",
+          "use": "意欲が失われるほど悪影響を与える。",
+          "example": "Repeated delays killed the volunteers' enthusiasm for the project.",
+          "translation": "度重なる遅れで、ボランティアたちはその計画への熱意を失った。"
+        },
+        {
+          "pattern": "kill a project",
+          "use": "計画の継続を取りやめる。",
+          "example": "The company killed the project after the funding disappeared.",
+          "translation": "資金がなくなったため、会社はその計画を打ち切った。"
+        },
+        {
+          "pattern": "kill a bill",
+          "use": "法案が成立する道を断つことを、報道などで述べる。",
+          "example": "The committee vote effectively killed the bill.",
+          "translation": "委員会での採決により、その法案は事実上成立の見込みを失った。"
+        },
+        {
+          "pattern": "kill a story",
+          "use": "編集者などが記事の掲載を取りやめる。",
+          "example": "The editor killed the story because its central claim could not be verified.",
+          "translation": "中心となる主張を確認できなかったため、編集者は記事を没にした。"
+        },
+        {
+          "pattern": "kill something stone-dead",
+          "use": "希望や計画を完全に潰すことを強調する。",
+          "example": "The funding decision killed our expansion plans stone-dead.",
+          "translation": "資金についての決定で、私たちの拡張計画は完全に潰れた。"
+        }
+      ],
+      "notes": [
+        "kill the bill は「法案を廃案に追い込む」などの広い表現で、特定の議会手続き一つを指す専門用語ではない。kill a story は物語の登場人物を死なせることではなく、記事の掲載などを止める意味。登場人物を死なせる kill off a character は語義8。kill the goose that lays the golden egg/eggs は「利益を生む源を自分で失わせる」ということわざ的表現で、目先の利益のために収益源を壊す場合などに使う。"
+      ],
+      "synonyms": [
+        {
+          "word": "ruin",
+          "definition": "価値・楽しみ・成功の見込みなどをひどく損なう。",
+          "frequency": 8,
+          "difference": "悪い結果の軸で重なる。ruin は損なわれても物事自体が続く場合があり、kill は勢いや継続を絶つ感じが強い。",
+          "example": "The constant interruptions ruined the performance.",
+          "translation": "絶え間ない中断で、その公演は台なしになった。"
+        },
+        {
+          "word": "end",
+          "definition": "継続していたものを終わらせる。",
+          "frequency": 10,
+          "difference": "終了という軸で重なるが、end 自体は有害さや唐突な打ち切りを表さない。",
+          "example": "Both sides agreed to end the dispute.",
+          "translation": "双方は争いを終わらせることで合意した。"
+        },
+        {
+          "word": "cancel",
+          "definition": "予定・企画・契約などを取り消す。",
+          "frequency": 9,
+          "difference": "決定による取り消しに焦点を置く。kill は無意図の出来事が希望を失わせる場合にも使える。",
+          "example": "They canceled the outdoor concert because of the storm.",
+          "translation": "嵐のため、屋外コンサートは中止された。"
+        },
+        {
+          "word": "quash",
+          "definition": "計画・うわさ・反対などを強く抑え込む。",
+          "frequency": 5,
+          "difference": "抑圧・阻止という軸で近い硬めの語。法的決定を取り消すという別義もあり、常に kill と同義ではない。",
+          "example": "The announcement quashed rumors of a merger.",
+          "translation": "その発表で、合併のうわさは否定された。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞・他動詞／自動詞】ひどく痛む・苦しめる・へとへとにする",
+      "frequency": 8,
+      "register": [
+        "くだけた会話。通常、実際に死ぬという意味ではない。"
+      ],
+      "definition": "身体や気持ちに強い苦痛を与える、または体力をひどく消耗させるという誇張。身体部位を主語にした My feet are killing me. では「足がひどく痛い」という意味になる。くだけた自動詞の My back kills. は「背中がひどく痛む」。",
+      "patterns": [
+        "〈身体部位〉 + be killing + someone",
+        "〈負担の大きい活動〉 + kill + someone",
+        "it kills someone to do something",
+        "it kills someone that 〈節〉",
+        "〈身体部位〉 + kill",
+        "would it kill someone to do something?"
+      ],
+      "collocations": [
+        {
+          "pattern": "be killing someone",
+          "use": "身体部位の強い痛みを、経験者を目的語にして述べる。",
+          "example": "My shoulders are killing me after carrying that heavy backpack.",
+          "translation": "あの重いリュックを背負ったせいで、肩がひどく痛い。"
+        },
+        {
+          "pattern": "〈活動〉 + kill + someone",
+          "use": "活動による極端な疲れを誇張する。",
+          "example": "The long climb nearly killed us, so we rested at the top.",
+          "translation": "長い登りでへとへとになったので、私たちは頂上で休んだ。"
+        },
+        {
+          "pattern": "it kills someone to do something",
+          "use": "ある経験が精神的につらいと述べる。",
+          "example": "It kills me to see so much food being wasted.",
+          "translation": "あれほどの食べ物が無駄になるのを見ると、つらくてたまらない。"
+        },
+        {
+          "pattern": "it kills someone that 〈節〉",
+          "use": "つらさの原因となる事実を節で示す。",
+          "example": "It kills her that she missed her best friend's wedding.",
+          "translation": "親友の結婚式に出られなかったことが、彼女にはつらくてたまらない。"
+        },
+        {
+          "pattern": "〈身体部位〉 + kill",
+          "use": "極めてくだけた発話で、痛む部位を主語にする。",
+          "example": "My ankle still kills whenever I put weight on it.",
+          "translation": "足首に体重をかけると、今でもひどく痛む。"
+        },
+        {
+          "pattern": "would it kill someone to do something?",
+          "use": "大した負担ではないはずだと、いら立ちを込めていう。",
+          "example": "Would it kill you to knock before coming in?",
+          "translation": "入る前にノックするくらい、できないの？"
+        }
+      ],
+      "notes": [
+        "痛みでは進行形がよく使われるが、非進行形を一律に誤りとしない。誇張の意味で I am killed by my shoes. のような受動を通常の選択肢にせず、My shoes are killing me. とする。Would it kill you to ...? や It wouldn't kill you to ... は文字どおりの死亡の質問ではなく、非難や皮肉になりやすい。聞き手との関係に注意する。You're killing me. は笑いにも使えるため、語義12と区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "hurt",
+          "definition": "身体に痛みを生じさせる、または痛む。",
+          "frequency": 10,
+          "difference": "痛みという同じ軸で重なる中立的な語。kill は痛みの強さを誇張しやすい。",
+          "example": "My knees hurt when I walk downstairs.",
+          "translation": "階段を下りると膝が痛む。"
+        },
+        {
+          "word": "exhaust",
+          "definition": "人の体力や気力を使い果たさせる。",
+          "frequency": 8,
+          "difference": "疲労という限定した軸で重なる。kill は会話の誇張で、exhaust は消耗そのものを直接表す。",
+          "example": "The overnight journey exhausted everyone.",
+          "translation": "夜通しの移動で、皆が疲れ切った。"
+        },
+        {
+          "word": "distress",
+          "definition": "人をひどく悲しませる・動揺させる。",
+          "frequency": 7,
+          "difference": "精神的な苦痛の軸で近い。kill より改まった語で、身体の痛みには通常使わない。",
+          "example": "The news distressed her deeply.",
+          "translation": "その知らせに、彼女は深く心を痛めた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【他動詞句】kill time：時間をつぶす",
+      "frequency": 8,
+      "register": [
+        "日常・会話。時間を無駄にしたと強く非難するとは限らない。"
+      ],
+      "definition": "次の予定などを待つ間、特に大きな目的のないことをして時間を過ごす。time を目的語にするほか、an hour、a few minutes など具体的な長さも置ける。",
+      "patterns": [
+        "kill time",
+        "kill 〈時間の長さ〉",
+        "kill time doing something",
+        "kill time by doing something",
+        "have time to kill"
+      ],
+      "collocations": [
+        {
+          "pattern": "kill time doing something",
+          "use": "待ち時間に何をしていたかを示す。",
+          "example": "We killed time browsing in a bookshop before the concert.",
+          "translation": "コンサートが始まるまで、本屋を見て回って時間をつぶした。"
+        },
+        {
+          "pattern": "kill time by doing something",
+          "use": "時間を過ごす方法を by で示す。",
+          "example": "I killed time by sorting the photos on my phone.",
+          "translation": "スマートフォンの写真を整理して、時間をつぶした。"
+        },
+        {
+          "pattern": "kill an hour",
+          "use": "具体的な時間を目的語に置く。",
+          "example": "They killed an hour in the museum while waiting for the rain to stop.",
+          "translation": "雨がやむのを待つ間、彼らは博物館で1時間を過ごした。"
+        },
+        {
+          "pattern": "have time to kill",
+          "use": "次の予定まで時間を持て余している。",
+          "example": "We had forty minutes to kill before our table was ready.",
+          "translation": "席が用意されるまで、40分ほど時間をつぶす必要があった。"
+        }
+      ],
+      "notes": [
+        "通常 kill time と無冠詞にする。a time は「ある機会」など別の捉え方なので、単純に「少し時間をつぶす」を kill a time としない。動名詞で活動を添える kill time reading と、time を修飾する have time to kill を混同しない。語義23の kill the clock はスポーツなどで残り時間を意図的に消費する表現で、単なる暇つぶしとは目的が違う。"
+      ],
+      "synonyms": [
+        {
+          "word": "pass the time",
+          "definition": "退屈をしないようにして時間を過ごす。",
+          "frequency": 8,
+          "difference": "待ち時間を過ごす軸で近く、kill time より中立的に響きやすい。冠詞 the を含める。",
+          "example": "A crossword helped me pass the time on the train.",
+          "translation": "クロスワードで、電車の中を退屈せずに過ごせた。"
+        },
+        {
+          "word": "while away",
+          "definition": "ある時間を、のんびり気楽に過ごす。",
+          "frequency": 5,
+          "difference": "時間を過ごす軸で近い。kill time よりも、ゆったり楽しんで過ごす様子が出やすい。",
+          "example": "We whiled away the afternoon beside the river.",
+          "translation": "私たちは川辺で、のんびり午後を過ごした。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞・可算／不可算】killing：殺害・殺害事件",
+      "frequency": 8,
+      "register": [
+        "一般・報道。しばしば故意の殺害に使うが、法律上の murder の要件をそのまま表すわけではない。"
+      ],
+      "definition": "人や動物の命を奪う行為。また、特定の一件の殺害。動詞の -ing 形に由来する名詞で、行為全体を不可算で述べる形と、事件を可算で数える形がある。",
+      "patterns": [
+        "the killing of someone/something",
+        "a killing",
+        "investigate a killing",
+        "a series of killings"
+      ],
+      "collocations": [
+        {
+          "pattern": "the killing of 〈対象〉",
+          "use": "殺害行為と、その被害対象を示す。",
+          "example": "The organization condemned the killing of civilians.",
+          "translation": "その団体は、民間人の殺害を非難した。"
+        },
+        {
+          "pattern": "a killing",
+          "use": "特定の殺害事件を一件として述べる。",
+          "example": "The killing took place near the station late on Friday.",
+          "translation": "その殺害事件は、金曜日の夜遅くに駅の近くで起きた。"
+        },
+        {
+          "pattern": "investigate a killing",
+          "use": "殺害事件を捜査する。",
+          "example": "Police are investigating the killing of a local journalist.",
+          "translation": "警察は、地元の記者が殺害された事件を捜査している。"
+        },
+        {
+          "pattern": "a series of killings",
+          "use": "複数の殺害事件を指す。",
+          "example": "The documentary examines a series of killings that shocked the city.",
+          "translation": "そのドキュメンタリーは、街を震撼させた一連の殺害事件を検証している。"
+        }
+      ],
+      "notes": [
+        "The killing of animals is regulated. の killing は名詞で、the と of を伴える。Killing animals requires permission. の Killing animals は目的語を直接取る動名詞句。be killing animals は進行形で、構造が異なる。a killing は「殺害事件」にも語義16の「大もうけ」にもなるので、make a killing などの結び付きで判断する。"
+      ],
+      "synonyms": [
+        {
+          "word": "murder",
+          "definition": "人を故意かつ違法に殺す行為、またはその事件。",
+          "frequency": 9,
+          "difference": "人の犯罪としての殺害という、より限定された意味。killing の語だけで、その法的分類まで決めない。",
+          "example": "The detective investigated three murders in the same neighborhood.",
+          "translation": "刑事は、同じ地区で起きた3件の殺人事件を捜査した。"
+        },
+        {
+          "word": "homicide",
+          "definition": "人が他の人を死に至らせること、またはその事件。",
+          "frequency": 6,
+          "difference": "人の死という軸で重なる、法・報道の改まった語。動物には使わず、違法な murder と常に同じではない。",
+          "example": "The case was assigned to the homicide unit.",
+          "translation": "その事件は、殺人事件を扱う捜査班に割り当てられた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【動詞・他動詞】止める・電源を切る・終了させる",
+      "frequency": 7,
+      "register": [
+        "くだけた会話・作業指示。コンピューター分野でも使う。"
+      ],
+      "definition": "エンジン・照明・機器・プログラムなどを停止させる。装置そのものを破壊することは必須ではなく、働きを止める点が中心。",
+      "patterns": [
+        "kill the engine",
+        "kill the lights",
+        "kill the power to something",
+        "kill a process",
+        "be killed automatically"
+      ],
+      "collocations": [
+        {
+          "pattern": "kill the engine",
+          "use": "エンジンの作動を止める。",
+          "example": "Maya parked beside the gate and killed the engine.",
+          "translation": "マヤは門の横に駐車して、エンジンを止めた。"
+        },
+        {
+          "pattern": "kill the lights",
+          "use": "照明を消す。",
+          "example": "The stage manager told the crew to kill the lights after the final scene.",
+          "translation": "舞台監督は、最後の場面の後に照明を消すようスタッフに指示した。"
+        },
+        {
+          "pattern": "kill the power to 〈機器〉",
+          "use": "機器などへの電力供給を断つ。",
+          "example": "The switch kills the power to the entire machine.",
+          "translation": "そのスイッチを切ると、機械全体への電力供給が止まる。"
+        },
+        {
+          "pattern": "kill a process",
+          "use": "実行中の処理を終了させる。",
+          "example": "The operating system killed the process when it exceeded the memory limit.",
+          "translation": "メモリーの上限を超えたため、OSはそのプロセスを終了させた。"
+        }
+      ],
+      "notes": [
+        "kill the engine は普通「エンジンを壊す」ではない。kill a process と delete a file「ファイルを削除する」は対象と作用が異なる。コンピューターの特定のコマンド名 kill には、この一般動詞から予測できない仕様もあるため、ここであらゆる操作の効果を断定しない。電力を使い果たして機器が止まる kill the battery のような表現も、文脈によって現れる。"
+      ],
+      "synonyms": [
+        {
+          "word": "switch off",
+          "definition": "機器や照明のスイッチを切る。",
+          "frequency": 9,
+          "difference": "停止の軸で近い中立的な句動詞。kill は作業指示で短く強く響き、プロセスの強制終了などにも使う。",
+          "example": "Please switch off the projector after the meeting.",
+          "translation": "会議の後、プロジェクターの電源を切ってください。"
+        },
+        {
+          "word": "shut down",
+          "definition": "機器・システムなどの運転を停止する。",
+          "frequency": 8,
+          "difference": "稼働停止の軸で重なる。正常な終了手順を含む場合もあり、kill が示唆する即時・強制の停止とは常に同じでない。",
+          "example": "The system shuts down safely after saving the data.",
+          "translation": "システムはデータを保存してから安全に停止する。"
+        },
+        {
+          "word": "terminate",
+          "definition": "処理・実行などを終了させる。",
+          "frequency": 7,
+          "difference": "コンピューターの処理について近い、より形式的な語。kill より広く終了を表す。",
+          "example": "The server terminated the inactive session.",
+          "translation": "サーバーは、操作のないセッションを終了した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【慣用的な他動詞句／自動詞】kill it：見事にやる・大成功する",
+      "frequency": 7,
+      "register": [
+        "くだけた賞賛。会話・SNS・芸能・スポーツ。"
+      ],
+      "definition": "演技・演奏・発表・試合などで、非常に高い出来や成功を収める。kill it がよく使われ、舞台芸能などでは目的語のない kill も「大いに受ける」の意味になる。",
+      "patterns": [
+        "kill it",
+        "be killing it",
+        "kill it on stage",
+        "kill it in 〈活動〉",
+        "kill"
+      ],
+      "collocations": [
+        {
+          "pattern": "kill it",
+          "use": "直前に話題になった活動で見事な成果を出す。",
+          "example": "I heard your presentation this morning. You killed it!",
+          "translation": "今朝の発表を聞いたよ。すごくよかった！"
+        },
+        {
+          "pattern": "be killing it",
+          "use": "最近・現在の好調さをたたえる。",
+          "example": "The new sales team is killing it this quarter.",
+          "translation": "新しい営業チームは、今四半期ものすごく好調だ。"
+        },
+        {
+          "pattern": "kill it on stage",
+          "use": "舞台上ですばらしい演技や演奏をする。",
+          "example": "The singer killed it on stage despite the technical problems.",
+          "translation": "技術的なトラブルがあっても、その歌手は舞台ですばらしい歌声を披露した。"
+        },
+        {
+          "pattern": "kill",
+          "use": "芸人などが観客に大受けする。",
+          "example": "The comedian killed at the late show, and the audience demanded an encore.",
+          "translation": "そのコメディアンは夜の公演で大受けし、観客はアンコールを求めた。"
+        }
+      ],
+      "notes": [
+        "この it は特定の殺される物を指さない慣用的な目的語。kill the project「計画を潰す」と評価が逆になるので、kill に物を自由に入れて「上手にやる」にしてはいけない。She killed it. は賞賛にも字義的な殺害にもなり、文脈で判断する。dressed to kill は実力一般ではなく、服装で強い印象を与える表現で、語義20。"
+      ],
+      "synonyms": [
+        {
+          "word": "nail it",
+          "definition": "課題や演技などを、うまく決める。",
+          "frequency": 7,
+          "difference": "成功という軸で近い。nail it は求められたことを的確に達成する点、kill it は際立った出来への賞賛を出しやすい。",
+          "example": "She nailed the difficult opening of the speech.",
+          "translation": "彼女は難しいスピーチの冒頭を見事に決めた。"
+        },
+        {
+          "word": "excel",
+          "definition": "ある活動で非常に優れている。",
+          "frequency": 7,
+          "difference": "高い出来という軸で重なる、より改まった語。excel at/in などの構文を取り、it を直接目的語にしない。",
+          "example": "He excels at explaining complicated ideas.",
+          "translation": "彼は複雑な考えを説明するのが非常にうまい。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【句動詞・他動詞・分離可】kill off：死滅させる・次々に殺す・登場人物を死なせる",
+      "frequency": 7,
+      "register": [
+        "一般・科学・作品の批評。off が除去・消失という結果を強める。"
+      ],
+      "definition": "生物を大量に、次々に、または残らないように死なせる。作品の人物については、作者などが物語の展開としてその人物を死亡させる意味でも使い、この場合は一人でもよい。",
+      "patterns": [
+        "kill off 〈生物〉",
+        "kill 〈生物〉 off",
+        "kill them off",
+        "be killed off",
+        "kill off a character"
+      ],
+      "collocations": [
+        {
+          "pattern": "kill off 〈生物〉",
+          "use": "ある集団の生物を広く死なせる。",
+          "example": "The unusually cold winter killed off most of the insects.",
+          "translation": "例外的に寒かった冬に、その昆虫の大半が死滅した。"
+        },
+        {
+          "pattern": "kill them off",
+          "use": "代名詞目的語を動詞と off の間に置く。",
+          "example": "The plants had survived the drought, but the frost killed them off.",
+          "translation": "植物は干ばつを生き延びていたが、霜で枯れてしまった。"
+        },
+        {
+          "pattern": "be killed off",
+          "use": "生物側を主語にして消失を述べる。",
+          "example": "The native fish were gradually killed off by pollution.",
+          "translation": "在来の魚は、汚染によって次第に死滅した。"
+        },
+        {
+          "pattern": "kill off a character",
+          "use": "作品の人物が死ぬ展開を作る。",
+          "example": "The novelist refused to kill off her most popular character.",
+          "translation": "小説家は、最も人気のある登場人物を死なせることを拒んだ。"
+        }
+      ],
+      "notes": [
+        "名詞目的語なら kill off the insects と kill the insects off、代名詞なら kill them off。kill off them とはしない。off があっても常に絶滅したとは限らず、kill off most of ... なら大半の消失。人物の退場でも、死ぬ展開でないなら単に kill off としない。計画などを消滅させる語義14とは対象と中心訳を分ける。"
+      ],
+      "synonyms": [
+        {
+          "word": "wipe out",
+          "definition": "集団・生物などを壊滅させる。",
+          "frequency": 7,
+          "difference": "大規模な消失という同じ軸で近い。kill off は死ぬという結果に直接結び付き、wipe out は町や資産の破壊にも広がる。",
+          "example": "The disease wiped out the colony.",
+          "translation": "その病気で、群れは壊滅した。"
+        },
+        {
+          "word": "exterminate",
+          "definition": "害虫などを徹底的に駆除する・殺し尽くす。",
+          "frequency": 5,
+          "difference": "殺して除く軸で近い。exterminate は意図的・組織的な除去を強く表し、自然な霜による枯死には通常 kill off が合う。",
+          "example": "The infestation was so severe that specialists were called to exterminate the pests.",
+          "translation": "害虫の発生がひどく、駆除のために専門家が呼ばれた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 9,
+      "title": "【慣用表現・他動詞句】kill two birds with one stone：一石二鳥を得る",
+      "frequency": 7,
+      "register": [
+        "一般・会話・仕事上の説明。"
+      ],
+      "definition": "一つの行動によって、二つの目的を同時に達成する。実際の鳥や石を指さず、効率のよさを表す。",
+      "patterns": [
+        "kill two birds with one stone",
+        "kill two birds with one stone by doing something"
+      ],
+      "collocations": [
+        {
+          "pattern": "kill two birds with one stone",
+          "use": "一つの行動が二つの目的を満たす。",
+          "example": "Walking to the library kills two birds with one stone: I get some exercise and return my books.",
+          "translation": "図書館まで歩けば、運動になり、本も返せて一石二鳥だ。"
+        },
+        {
+          "pattern": "kill two birds with one stone by doing something",
+          "use": "二つの目的を達成する方法を示す。",
+          "example": "We killed two birds with one stone by holding the training session in our new office.",
+          "translation": "新しい事務所で研修を行い、研修と新事務所の紹介を一度に済ませた。"
+        }
+      ],
+      "notes": [
+        "birds は複数、stone は one の後で単数。手段は with、何をするかは by doing で示す。kill を時制・主語に合わせて killed、kills、killing にできる。慣用句としてよく知られているため短縮形もあるが、基本形を保つと誤解が少ない。"
+      ],
+      "synonyms": [
+        {
+          "word": "do double duty",
+          "definition": "一つの物や行動が二つの役割を果たす。",
+          "frequency": 5,
+          "difference": "一つで二役という限定した軸で重なる。kill two birds with one stone は達成する二つの目的、do double duty は継続的な二つの機能にも焦点を置ける。",
+          "example": "The bench does double duty as a storage box.",
+          "translation": "そのベンチは、収納箱の役割も兼ねている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 10,
+      "title": "【動詞・他動詞】抑える・消す・効かなくする",
+      "frequency": 6,
+      "register": [
+        "一般・会話。音響・料理などにも使うが、専門的な処置の名称ではない。"
+      ],
+      "definition": "痛み・におい・音などの作用や強さを失わせる。完全になくす場合だけでなく、感じにくくする場合もある。語義3の kill me「私を苦しめる」とは、目的語が受ける作用の向きが異なる。",
+      "patterns": [
+        "kill the pain",
+        "kill the smell",
+        "kill the sound of something",
+        "kill the taste of something"
+      ],
+      "collocations": [
+        {
+          "pattern": "kill the pain",
+          "use": "痛みを抑える働きを述べる。",
+          "example": "The treatment reduced the swelling but did not kill the pain.",
+          "translation": "その処置で腫れは引いたが、痛みは消えなかった。"
+        },
+        {
+          "pattern": "kill the smell",
+          "use": "においを消す、または分からなくする。",
+          "example": "The cleaner removed the stain, but it did not kill the smell.",
+          "translation": "その洗剤で染みは落ちたが、においは消えなかった。"
+        },
+        {
+          "pattern": "kill the sound of 〈音の発生源〉",
+          "use": "音を吸収するなどして響きを抑える。",
+          "example": "The thick curtains helped kill the sound of traffic outside.",
+          "translation": "厚いカーテンで、外の交通騒音がいくらか抑えられた。"
+        },
+        {
+          "pattern": "kill the taste of something",
+          "use": "強すぎる味などで、本来の味を感じにくくする。",
+          "example": "Too much vinegar can kill the delicate taste of the fish.",
+          "translation": "酢を入れすぎると、魚の繊細な味が分からなくなることがある。"
+        }
+      ],
+      "notes": [
+        "kill the pain は痛みを抑えることで、原因となる病気を治す cure と同じではない。「痛みでつらい」は The pain is killing me.、痛みを抑えるのは This helps kill the pain. と、主語・目的語を区別する。音・味・においでは、消失の程度は文脈による。"
+      ],
+      "synonyms": [
+        {
+          "word": "relieve",
+          "definition": "痛みや苦しみを軽くする。",
+          "frequency": 8,
+          "difference": "苦痛を弱める軸で近い。relieve は軽減でもよく、kill は強い抑制をくだけて述べることが多い。",
+          "example": "Rest helped relieve the discomfort.",
+          "translation": "休むと、不快感が和らいだ。"
+        },
+        {
+          "word": "deaden",
+          "definition": "音・感覚・反応などを鈍く、弱くする。",
+          "frequency": 4,
+          "difference": "作用の強さを弱める軸で近い。deaden は鈍化・吸収の過程を表し、完全な消失を必要としない。",
+          "example": "The carpet deadened the sound of footsteps.",
+          "translation": "カーペットが足音を吸収した。"
+        },
+        {
+          "word": "neutralize",
+          "definition": "物質の作用や好ましくない影響を打ち消す。",
+          "frequency": 6,
+          "difference": "効果をなくす軸で重なる、より技術的・中立的な語。すべての痛みを neutralize と自然に表せるわけではない。",
+          "example": "The filter is designed to neutralize unpleasant odors.",
+          "translation": "そのフィルターは、不快なにおいを抑えるよう設計されている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 11,
+      "title": "【再帰的な動詞句】kill oneself：無理をする・身を粉にして働く",
+      "frequency": 6,
+      "register": [
+        "くだけた会話。字義的な自殺を表す用法とは区別する。"
+      ],
+      "definition": "仕事や行動のために、体力・時間などを極端に費やすという誇張。特に否定命令では「そこまで無理をしなくていい」と労力のかけすぎを制する。",
+      "patterns": [
+        "kill oneself doing something",
+        "kill oneself to do something",
+        "not kill oneself",
+        "kill oneself over something"
+      ],
+      "collocations": [
+        {
+          "pattern": "kill oneself doing something",
+          "use": "疲れ切るほど行動を続ける。",
+          "example": "She has been killing herself trying to finish all the costumes alone.",
+          "translation": "彼女は衣装を全部一人で仕上げようと、身を粉にして働いている。"
+        },
+        {
+          "pattern": "kill oneself to do something",
+          "use": "無理をする目的を示す。",
+          "example": "You don't have to kill yourself to impress the new manager.",
+          "translation": "新しい上司に好印象を与えるために、そこまで無理をする必要はない。"
+        },
+        {
+          "pattern": "don't kill yourself",
+          "use": "作業を頑張りすぎないよう促す。",
+          "example": "The report can wait until Monday, so don't kill yourself.",
+          "translation": "報告書は月曜日まで待てるから、無理をしないで。"
+        },
+        {
+          "pattern": "kill oneself over 〈課題〉",
+          "use": "ある仕事に労力をかけすぎる。",
+          "example": "We shouldn't kill ourselves over a presentation that only lasts five minutes.",
+          "translation": "たった5分の発表に、私たちがそこまで無理をすることはない。"
+        }
+      ],
+      "notes": [
+        "再帰代名詞は主語に合わせる。I kill myself、she kills herself、we kill ourselves のようにし、この能動再帰構文で省かない。I was killed. は対応する省略形ではなく、普通は字義的な受動。kill oneself laughing は「無理をして笑う」ではなく「大笑いする」で、語義12を参照。"
+      ],
+      "synonyms": [
+        {
+          "word": "overwork",
+          "definition": "働きすぎる、または人を働かせすぎる。",
+          "frequency": 6,
+          "difference": "過度の労働という同じ軸で近い。kill oneself は仕事以外の準備や運動などにも誇張して使える。",
+          "example": "She tends to overwork when a deadline is close.",
+          "translation": "締め切りが近づくと、彼女は働きすぎる傾向がある。"
+        },
+        {
+          "word": "overexert oneself",
+          "definition": "体力や能力を過度に使う。",
+          "frequency": 4,
+          "difference": "力の使いすぎという同じ軸の、より直接的で改まった言い方。kill oneself は感情的な誇張になる。",
+          "example": "He overexerted himself during the move.",
+          "translation": "彼は引っ越しで無理をしすぎた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 12,
+      "title": "【動詞・他動詞／再帰的な慣用表現】大笑いさせる・大笑いする",
+      "frequency": 6,
+      "register": [
+        "くだけた会話。人を笑わせる kill someone は特に北米でよく見られ、再帰形は特に英国で使われる。"
+      ],
+      "definition": "冗談や人の話しぶりなどが非常におかしく、人を大笑いさせる。kill oneself laughing は「自分が大笑いする」という慣用的な形で、笑うために苦労するという意味ではない。",
+      "patterns": [
+        "kill someone",
+        "be killing someone",
+        "kill oneself laughing"
+      ],
+      "collocations": [
+        {
+          "pattern": "kill someone",
+          "use": "話・仕草などが非常におかしいという反応。",
+          "example": "His imitation of the fussy waiter kills me every time.",
+          "translation": "彼の、あのうるさいウェイターの物まねには、毎回大笑いしてしまう。"
+        },
+        {
+          "pattern": "you're killing me",
+          "use": "笑わせる相手に、笑いながらいう。",
+          "example": "Stop doing that ridiculous voice; you're killing me!",
+          "translation": "その変な声はやめて、笑いが止まらなくなる！"
+        },
+        {
+          "pattern": "kill oneself laughing",
+          "use": "主語の人が激しく笑う。",
+          "example": "They were killing themselves laughing at the bloopers.",
+          "translation": "彼らはNG集を見て、大笑いしていた。"
+        }
+      ],
+      "notes": [
+        "You're killing me. は苦痛・疲労・困惑の訴えにもなるため、文字だけでは「大笑いしている」と決められない。ここでは声色や冗談の文脈が必要。kill ourselves laughing はこの意味を明示する組み合わせで、kill ourselves working「働きすぎる」と意味が異なる。特に英国のくだけた会話では、笑いの文脈が明らかなら We were killing ourselves. のように laughing なしでも使う。"
+      ],
+      "synonyms": [
+        {
+          "word": "crack someone up",
+          "definition": "人を大笑いさせる。",
+          "frequency": 6,
+          "difference": "笑わせるという同じ軸で近い、くだけた句動詞。代名詞は crack me up と中に置く。",
+          "example": "The unexpected punchline cracked everyone up.",
+          "translation": "予想外のオチに、皆が大笑いした。"
+        },
+        {
+          "word": "amuse",
+          "definition": "人を面白がらせる・楽しませる。",
+          "frequency": 8,
+          "difference": "面白さという軸で重なるが、大笑いする強さまでは必要ない。kill はより強い反応を誇張する。",
+          "example": "The unusual sign amused the visitors.",
+          "translation": "変わった看板が、訪問者たちを面白がらせた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 13,
+      "title": "【慣用的な動詞句】would kill for/to：ぜひ欲しい・どうしてもしたい",
+      "frequency": 6,
+      "register": [
+        "くだけた会話。通常、実際の殺害意図を述べるものではない。"
+      ],
+      "definition": "食べ物・休暇・機会などを非常に強く望むという誇張。for の後には欲しい物や機会、to の後にはしたい行動を置く。",
+      "patterns": [
+        "would kill for something",
+        "would kill to do something",
+        "could kill for something"
+      ],
+      "collocations": [
+        {
+          "pattern": "would kill for something",
+          "use": "とても欲しい物を示す。",
+          "example": "After the long hike, I would kill for a cold drink.",
+          "translation": "長いハイキングの後だから、冷たい飲み物が欲しくてたまらない。"
+        },
+        {
+          "pattern": "would kill to do something",
+          "use": "強く望む経験を示す。",
+          "example": "I would kill to hear that orchestra perform live.",
+          "translation": "あのオーケストラの生演奏を、ぜひ聴いてみたい。"
+        },
+        {
+          "pattern": "could kill for something",
+          "use": "食べ物などへの強い欲求をくだけて述べる。",
+          "example": "I could kill for a slice of fresh bread right now.",
+          "translation": "今、焼きたてのパンが一切れ欲しくてたまらない。"
+        }
+      ],
+      "notes": [
+        "I'd はこの形では I would。kill for money のような一般の形は「金のために殺す」とも読めるため、would/could と欲求を示す文脈を含めて覚える。くだけた誇張が合わない相手には I'd really like ... などで直接望みを述べる。"
+      ],
+      "synonyms": [
+        {
+          "word": "crave",
+          "definition": "ある物や経験を強く欲しがる。",
+          "frequency": 7,
+          "difference": "強い欲求という同じ軸で近い。crave は他動詞で crave something とし、kill のような極端な誇張は含まない。",
+          "example": "After weeks of travel, she craved a quiet evening at home.",
+          "translation": "何週間も旅をした後、彼女は家で静かに夜を過ごしたくてたまらなかった。"
+        },
+        {
+          "word": "long for",
+          "definition": "物・人・状態などを切に望む。すぐには実現しそうにない願望にもよく使う。",
+          "frequency": 7,
+          "difference": "願望という同じ軸で近い。long for は継続する切実な思いにも使え、would kill for は瞬間的な欲求にも合う。",
+          "example": "He longed for a few days of complete rest.",
+          "translation": "彼は数日間ゆっくり休みたいと切に願った。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 14,
+      "title": "【句動詞・他動詞・分離可】kill off：完全に潰す・消滅させる",
+      "frequency": 6,
+      "register": [
+        "一般・報道・ビジネス。しばしば否定的な影響を述べる。"
+      ],
+      "definition": "計画・可能性・慣習・競争などを終わらせ、残らないようにする。対象を生き物に見立てた比喩で、強い終結・除去に焦点を置く。",
+      "patterns": [
+        "kill off 〈計画/可能性/慣習〉",
+        "kill something off",
+        "kill it off",
+        "be killed off"
+      ],
+      "collocations": [
+        {
+          "pattern": "kill off competition",
+          "use": "競争が成り立たない状態にする。",
+          "example": "Exclusive contracts could kill off competition in the local market.",
+          "translation": "独占契約によって、地域市場の競争がなくなってしまうおそれがある。"
+        },
+        {
+          "pattern": "kill off any hope of doing something",
+          "use": "残っている望みまで失わせる。",
+          "example": "The final rejection killed off any hope of reopening the theater.",
+          "translation": "最後の申請も却下され、劇場再開への望みは完全に絶たれた。"
+        },
+        {
+          "pattern": "kill it off",
+          "use": "前に述べた計画などを完全に終わらせる。",
+          "example": "The idea still had supporters, but the budget cut killed it off.",
+          "translation": "その案にはまだ支持者がいたが、予算削減で完全に立ち消えになった。"
+        },
+        {
+          "pattern": "be killed off",
+          "use": "消滅する制度や慣習を主語にする。",
+          "example": "The annual festival was not killed off by the temporary closure of the square.",
+          "translation": "広場が一時閉鎖されても、毎年の祭りは途絶えなかった。"
+        }
+      ],
+      "notes": [
+        "語義8の The frost killed the plants off. は生物の死、ここでの The cuts killed the project off. は計画の消滅。代名詞はどちらも中に置く。kill off を必ず少しずつ進む意味と限定しない。単一の決定が計画を終わらせる場合にも使える。"
+      ],
+      "synonyms": [
+        {
+          "word": "eliminate",
+          "definition": "存在するものや可能性を取り除く。",
+          "frequency": 8,
+          "difference": "除去という同じ軸の中立的な語。kill off は終わらせる強さや不可逆的な印象を出しやすい。",
+          "example": "The new design eliminates the need for an extra cable.",
+          "translation": "新しい設計なら、追加のケーブルが不要になる。"
+        },
+        {
+          "word": "stamp out",
+          "definition": "好ましくない慣習や問題を根絶する。",
+          "frequency": 6,
+          "difference": "消失させる軸で近い。stamp out は通常、取り除くべき悪いものが対象だが、kill off は望ましい伝統や競争を潰す場合にも使う。",
+          "example": "The campaign aims to stamp out cheating.",
+          "translation": "その取り組みは、不正行為の根絶を目指している。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 15,
+      "title": "【名詞・可算】仕留めること・決定的な一撃",
+      "frequency": 6,
+      "register": [
+        "動物・狩猟の描写。比喩は競争・議論などで、攻撃的な響きを持ち得る。"
+      ],
+      "definition": "獲物などの命を奪う一回の行為や、その決着。the kill は狩りの最後の場面を表し、比喩では勝負や交渉で相手を決定的に打ち負かす局面も指す。",
+      "patterns": [
+        "make a kill",
+        "go in for the kill",
+        "move in for the kill",
+        "be in at the kill"
+      ],
+      "collocations": [
+        {
+          "pattern": "make a kill",
+          "use": "捕食者などが獲物を仕留める。",
+          "example": "The camera recorded the leopard making a kill at dusk.",
+          "translation": "カメラは、夕暮れにヒョウが獲物を仕留めるところを記録した。"
+        },
+        {
+          "pattern": "move in for the kill",
+          "use": "獲物にとどめを刺すために近づく。",
+          "example": "The lion paused before moving in for the kill.",
+          "translation": "ライオンは一度止まり、それから獲物を仕留めに近づいた。"
+        },
+        {
+          "pattern": "go in for the kill",
+          "use": "議論などで勝負を決める行動に出る。",
+          "example": "When her opponent contradicted himself, she went in for the kill with one final question.",
+          "translation": "相手が矛盾したことを言うと、彼女は最後の質問で決着をつけにかかった。"
+        },
+        {
+          "pattern": "be in at the kill",
+          "use": "決着の場面に居合わせる。",
+          "example": "Several senior staff were in at the kill when the failing division was finally closed.",
+          "translation": "業績不振の部門がついに閉鎖されたとき、何人かの幹部がその決着に立ち会った。"
+        }
+      ],
+      "notes": [
+        "一件の行為なら a kill、特定の決着なら the kill。be in at the kill は単に事件の参加者であるだけでなく、最後の決着に立ち会う表現で、しばしば好ましくない結末を扱う。語義18の獲物そのものと区別する。make a kill と make a killing「大もうけする」（語義16）は同じではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "killing",
+          "definition": "人や動物の命を奪う行為。",
+          "frequency": 8,
+          "difference": "殺す行為という同じ軸で近い。kill は狩りの決着や一件の戦果などを数えるのに向き、killing は一般的な殺害行為・事件にも広い。",
+          "example": "The film documents the killing of wild animals for profit.",
+          "translation": "その映画は、利益のために野生動物が殺される実態を記録している。"
+        },
+        {
+          "word": "finishing blow",
+          "definition": "相手を決定的に倒す最後の一撃。",
+          "frequency": 4,
+          "difference": "決着という限定した軸で重なる定着表現。kill は字義では命を奪うが、finishing blow は必ずしも死亡を伴わない。",
+          "example": "The last revelation dealt a finishing blow to his argument.",
+          "translation": "最後に明らかになった事実が、彼の主張を決定的に崩した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 16,
+      "title": "【名詞を含む慣用表現】make a killing：大もうけする",
+      "frequency": 6,
+      "register": [
+        "くだけた会話・経済報道。金もうけを強調し、ときにうらやましさや批判を伴う。"
+      ],
+      "definition": "短期間に、または特定の好機を利用して、大きな利益を得る。killing はここでは利益を表す名詞で、殺害行為ではない。",
+      "patterns": [
+        "make a killing",
+        "make a killing on something",
+        "make a killing from something",
+        "make a killing doing something"
+      ],
+      "collocations": [
+        {
+          "pattern": "make a killing on something",
+          "use": "利益を上げた商品や取引を示す。",
+          "example": "The dealer made a killing on the rare books he bought years earlier.",
+          "translation": "その商人は、何年も前に買った希少本で大もうけした。"
+        },
+        {
+          "pattern": "make a killing from something",
+          "use": "大きな利益の源を示す。",
+          "example": "Local hotels made a killing from the week-long festival.",
+          "translation": "地元のホテルは、1週間の祭りで大もうけした。"
+        },
+        {
+          "pattern": "make a killing doing something",
+          "use": "何をして稼いだかを示す。",
+          "example": "She made a killing selling handmade decorations before the holidays.",
+          "translation": "彼女は祝日前に手作りの飾りを売って、大きな利益を上げた。"
+        }
+      ],
+      "notes": [
+        "a killing はこの表現の基本形。通常 make killing や make a kill へ省略しない。利益が大きいという意味で、違法な手段や他人の損失を必ず含むわけではない。語義15の make a kill「獲物を仕留める」と区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "make a fortune",
+          "definition": "非常に多くの金を稼ぐ。",
+          "frequency": 7,
+          "difference": "大きな利益という同じ軸で近い。make a killing は短期間・好機での利益を強調しやすく、make a fortune は長年かけた富にも使える。",
+          "example": "He made a fortune in the furniture business.",
+          "translation": "彼は家具の商売で財を成した。"
+        },
+        {
+          "word": "clean up",
+          "definition": "商売や取引などで大もうけする。",
+          "frequency": 5,
+          "difference": "金銭的成功という限定した語義で近い、くだけた句動詞。「掃除する」とは別義。",
+          "example": "The souvenir sellers cleaned up during the tournament.",
+          "translation": "大会中、土産物の販売業者は大もうけした。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 17,
+      "title": "【慣用表現・譲歩の副詞節】if it kills me：どんなに大変でも・何が何でも",
+      "frequency": 6,
+      "register": [
+        "くだけた、強調的な発言。冗談めいた決意にも使う。"
+      ],
+      "definition": "あることを必ずやり遂げるという強い決意を、極端な苦労もいとわないという誇張で表す。普通は実際の死を望む意味ではない。",
+      "patterns": [
+        "I will do something if it kills me",
+        "I will do something even if it kills me",
+        "someone + say they would do something if it killed them"
+      ],
+      "collocations": [
+        {
+          "pattern": "I will do something if it kills me",
+          "use": "困難な課題を絶対に終えるという決意。",
+          "example": "I'll get this old bicycle working again if it kills me.",
+          "translation": "どんなに苦労しても、この古い自転車を必ず直してみせる。"
+        },
+        {
+          "pattern": "even if it kills me",
+          "use": "even を添えて、苦労してもやると強調する。",
+          "example": "I'm going to learn the whole piece, even if it kills me.",
+          "translation": "どれほど大変でも、この曲を全部弾けるようになるつもりだ。"
+        },
+        {
+          "pattern": "if it killed someone",
+          "use": "過去の発言として、決意を伝える。",
+          "example": "She said she would finish the translation if it killed her.",
+          "translation": "彼女は、どんなに大変でも翻訳を仕上げると言った。"
+        }
+      ],
+      "notes": [
+        "この if は「たとえ〜でも」という譲歩として働く。主節が未来でも、通常 if it kills me と現在形にする。it は取り組む行為やその苦労を受け、me は苦労する人で、I kill myself という再帰構文ではない。語義11の kill oneself working は無理な努力を描写するが、if it kills me は話者の決意を示す。人称・時制は文脈に合わせて if it kills him、if it killed her などに変わる。"
+      ],
+      "synonyms": [
+        {
+          "word": "come hell or high water",
+          "definition": "どんな困難や障害があっても。",
+          "frequency": 5,
+          "difference": "決意を示す譲歩の軸で近い。if it kills me は自分にかかる極端な苦労、come hell or high water は外的な障害も含めた困難を強調する。",
+          "example": "I'll be there on opening night, come hell or high water.",
+          "translation": "どんなことがあっても、初日の夜にはそこへ行く。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 18,
+      "title": "【名詞・可算】仕留めた獲物",
+      "frequency": 5,
+      "register": [
+        "自然・野生動物・狩猟の描写。"
+      ],
+      "definition": "捕食者や狩猟者が殺した動物。食べられる獲物や、獲得した獲物として捉える。",
+      "patterns": [
+        "a fresh kill",
+        "feed on a kill",
+        "drag one's kill",
+        "protect one's kill"
+      ],
+      "collocations": [
+        {
+          "pattern": "a fresh kill",
+          "use": "殺されて間もない獲物。",
+          "example": "The vultures circled above a fresh kill.",
+          "translation": "ハゲワシたちが、仕留められたばかりの獲物の上を旋回した。"
+        },
+        {
+          "pattern": "feed on one's kill",
+          "use": "捕食者が自分の獲物を食べる。",
+          "example": "The lynx returned to feed on its kill after sunset.",
+          "translation": "日没後、オオヤマネコは自分が仕留めた獲物を食べに戻った。"
+        },
+        {
+          "pattern": "drag one's kill",
+          "use": "仕留めた動物を運ぶ。",
+          "example": "The leopard dragged its kill away from the open track.",
+          "translation": "ヒョウは、仕留めた獲物を開けた道から引きずって運んだ。"
+        },
+        {
+          "pattern": "protect one's kill",
+          "use": "獲物を他の動物から守る。",
+          "example": "The lioness stayed nearby to protect her kill from scavengers.",
+          "translation": "雌ライオンは、獲物を腐肉食動物に奪われないよう近くにとどまった。"
+        }
+      ],
+      "notes": [
+        "prey は捕らえる前の獲物にも使うが、この kill は殺された後の動物。a kill が複数の動物をまとめて指す文脈もあるため、必ず動物一頭と対応するとは限らない。一般的な人間の遺体を中立的にいう語としては使わない。"
+      ],
+      "synonyms": [
+        {
+          "word": "prey",
+          "definition": "捕食者に狙われる、または捕らえられた動物。",
+          "frequency": 7,
+          "difference": "獲物という同じ軸で近い。prey はまだ生きていてもよく、通常不可算。kill は仕留めた結果を含む。",
+          "example": "The owl watched its prey from a low branch.",
+          "translation": "フクロウは低い枝から獲物を見つめた。"
+        },
+        {
+          "word": "quarry",
+          "definition": "狩猟などで追われる獲物。",
+          "frequency": 4,
+          "difference": "狩りの対象という軸で近い硬めの語。まだ捕まっていない対象にも使え、kill のように殺されたことを必要としない。",
+          "example": "The hunters lost sight of their quarry in the forest.",
+          "translation": "猟師たちは森で獲物を見失った。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 19,
+      "title": "【名詞・可算】撃墜・撃破・倒した数",
+      "frequency": 5,
+      "register": [
+        "軍事・航空史・ゲーム。日常一般の死者数を表す中立的な語とは区別する。"
+      ],
+      "definition": "軍事で敵機や車両などを破壊した一件の戦果。また、ゲームなどで敵を倒した一件や、その回数。現実の死亡者数と必ず一対一に対応する語ではない。",
+      "patterns": [
+        "a confirmed kill",
+        "be credited with a kill",
+        "record 〈数〉 kills",
+        "get a kill"
+      ],
+      "collocations": [
+        {
+          "pattern": "a confirmed kill",
+          "use": "撃破が確認された戦果。",
+          "example": "The air force reported one confirmed kill of an enemy drone.",
+          "translation": "空軍は、敵の無人機1機の撃墜を確認したと発表した。"
+        },
+        {
+          "pattern": "be credited with a kill",
+          "use": "記録上、撃破の戦果が認められる。",
+          "example": "The pilot was credited with two kills during the campaign.",
+          "translation": "その作戦で、操縦士には2機の撃墜が記録された。"
+        },
+        {
+          "pattern": "record 〈数〉 kills",
+          "use": "ゲームの戦績として倒した回数を述べる。",
+          "example": "She recorded twelve kills in the final round of the game.",
+          "translation": "彼女はゲームの最終ラウンドで12キルを記録した。"
+        }
+      ],
+      "notes": [
+        "撃墜なら人が死ななくても a kill と数える場合がある。confirmed がない claim「主張」と、確認された記録は区別する。ゲーム内の kill もそのゲームの集計単位であり、現実の殺人という評価を付けない。スポーツの攻撃得点としての名詞は語義25。"
+      ],
+      "synonyms": [
+        {
+          "word": "shootdown",
+          "definition": "航空機などを撃ち落とすこと。",
+          "frequency": 4,
+          "difference": "航空機の撃墜という限定した軸で重なる。kill は艦船・車両・ゲーム内の敵なども対象にできる。",
+          "example": "The report investigated the shootdown of the aircraft.",
+          "translation": "その報告書は、航空機の撃墜について調査していた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 20,
+      "title": "【慣用表現・形容詞的な句】dressed to kill：人目を引く装いをした",
+      "frequency": 5,
+      "register": [
+        "くだけた表現。社交・娯楽・服装の描写。"
+      ],
+      "definition": "華やかで魅力的な服装などによって、周囲に強い印象を与えるように着飾っていること。ここでの kill は文字どおり「殺す」ではなく、人を魅了するという誇張。",
+      "patterns": [
+        "be dressed to kill",
+        "arrive dressed to kill",
+        "get dressed to kill"
+      ],
+      "collocations": [
+        {
+          "pattern": "be dressed to kill",
+          "use": "装いが非常に印象的な状態をいう。",
+          "example": "Everyone at the gala was dressed to kill.",
+          "translation": "祝賀パーティーでは、皆が人目を引く装いをしていた。"
+        },
+        {
+          "pattern": "arrive dressed to kill",
+          "use": "着飾った状態で登場する。",
+          "example": "Lena arrived dressed to kill in a striking red suit.",
+          "translation": "レナは目を引く赤いスーツで、とびきり着飾って現れた。"
+        },
+        {
+          "pattern": "get dressed to kill",
+          "use": "華やかに着飾る準備・変化を表す。",
+          "example": "They got dressed to kill for their first big awards ceremony.",
+          "translation": "初めての大きな授賞式に向けて、彼らは華やかに着飾った。"
+        }
+      ],
+      "notes": [
+        "dressed は状態を表し、to kill まで含めた慣用句。dressed の後に実際の殺害の目的を付ける普通の構文とは文脈を分ける。この定型句を killing clothes のように自由に組み替えない。語義7の kill it は演技や仕事の成功で、服装だけに限らない。"
+      ],
+      "synonyms": [
+        {
+          "word": "dressed to the nines",
+          "definition": "非常に念入りに、おしゃれに着飾っている。",
+          "frequency": 5,
+          "difference": "盛装という同じ軸で近い。dressed to kill は他人を魅了する強い印象を出しやすい。",
+          "example": "The guests were dressed to the nines for the wedding.",
+          "translation": "結婚式の客たちは、とびきりおしゃれに着飾っていた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 21,
+      "title": "【慣用表現・他動詞句】kill someone with kindness：親切にしすぎてかえって害する",
+      "frequency": 4,
+      "register": [
+        "一般・会話。過保護・過剰なもてなしなどの批評。"
+      ],
+      "definition": "相手のためのつもりで世話や好意を与えすぎ、かえって困らせたり害したりする。通常、文字どおり死なせるとは限らない。",
+      "patterns": [
+        "kill someone with kindness",
+        "be killed with kindness"
+      ],
+      "collocations": [
+        {
+          "pattern": "kill someone with kindness",
+          "use": "過度に世話をすることが相手の負担になる。",
+          "example": "Her relatives killed her with kindness, visiting so often that she never had time to rest.",
+          "translation": "親戚たちは親切のつもりで頻繁に訪ねたが、彼女が休む暇もなく、かえって負担になった。"
+        },
+        {
+          "pattern": "be killed with kindness",
+          "use": "好意が過剰なため困る側を主語にする。",
+          "example": "We were almost killed with kindness by hosts who kept serving more food.",
+          "translation": "もてなす側が次々に料理を出すので、ありがたいとはいえ、私たちは困ってしまうほどだった。"
+        }
+      ],
+      "notes": [
+        "with kindness は手段を表す句。この語義では過剰な好意が逆効果になる。一方、同じ形で、敵意を示す相手にあえて親切にして相手をやりにくくする語義22もある。善意が裏目に出た結果と、親切を意図的な対応として使う場合を区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "smother",
+          "definition": "過剰な愛情や世話によって、人の自由を奪う。",
+          "frequency": 5,
+          "difference": "好意の過剰さという限定した軸で近い。smother は息苦しさ・自由のなさに重点を置き、kill with kindness はもてなし過多などにも使える。",
+          "example": "He felt smothered by the constant attention.",
+          "translation": "彼は、絶えず構われることに息苦しさを感じていた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 22,
+      "title": "【慣用表現・他動詞句】kill someone with kindness：親切に接して相手をやりにくくする",
+      "frequency": 4,
+      "register": [
+        "くだけた会話・対人関係の助言。親切が本心からか、戦略的かは文脈による。"
+      ],
+      "definition": "失礼な態度や敵意に同じ態度で応じず、あえて親切・丁寧に接することで、相手を戸惑わせたり攻撃的に振る舞いにくくしたりする。好意を対立への対応として用いる言い方。",
+      "patterns": [
+        "kill someone with kindness",
+        "try to kill someone with kindness"
+      ],
+      "collocations": [
+        {
+          "pattern": "kill someone with kindness",
+          "use": "失礼な相手にも丁寧に接し、相手の出方を変えようとする。",
+          "example": "When the customer became rude, Hana decided to kill him with kindness and calmly offered to help.",
+          "translation": "客が失礼な態度を取り始めると、ハナはあえて親切に接して相手の出方を変えようと、落ち着いて手助けを申し出た。"
+        },
+        {
+          "pattern": "try to kill someone with kindness",
+          "use": "敵意に対して親切で応じることを試みる。",
+          "example": "Instead of trading insults with her rival, she tried to kill him with kindness.",
+          "translation": "ライバルと侮辱を応酬する代わりに、彼女はあえて親切にして相手をやりにくくしようとした。"
+        }
+      ],
+      "notes": [
+        "語義21は、世話や好意を与えすぎてかえって害する意味。ここでは、相手の敵意への対応として親切を用いる点が異なる。単に「親切にする」だけでなく、相手を戸惑わせる・やりにくくする含みがあるが、その試みが必ず成功するとはいえない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 23,
+      "title": "【慣用表現・他動詞句】kill the clock：残り時間を使い切る",
+      "frequency": 4,
+      "register": [
+        "スポーツ、特に北米の球技の解説など。"
+      ],
+      "definition": "スポーツで、主にリードを守るため、ボールなどを保持して残りの試合時間を消費する。時計を壊したり、計時を止めたりするという意味ではない。",
+      "patterns": [
+        "kill the clock",
+        "try to kill the clock"
+      ],
+      "collocations": [
+        {
+          "pattern": "kill the clock",
+          "use": "試合の終盤に残り時間を消費する。",
+          "example": "With a narrow lead, the team kept possession to kill the clock.",
+          "translation": "わずかにリードしていたので、チームはボールを保持して残り時間を使った。"
+        },
+        {
+          "pattern": "try to kill the clock",
+          "use": "時間消費を意図した戦い方を述べる。",
+          "example": "Rather than attempt a risky pass, they tried to kill the clock.",
+          "translation": "危険なパスを狙わず、彼らは残り時間を使い切ろうとした。"
+        }
+      ],
+      "notes": [
+        "kill time「暇をつぶす」（語義4）と違い、勝負上の目的がある。stop the clock は「計時を止める」で、時間が進む kill the clock と向きが違う。競技ごとの詳しいルールや反則の判定は、この慣用句だけでは決まらない。"
+      ],
+      "synonyms": [
+        {
+          "word": "run out the clock",
+          "definition": "試合などの残り時間を意図的に消費する。",
+          "frequency": 5,
+          "difference": "時間消費という同じ軸で非常に近い。試合以外でも、期限切れまで時間を稼ぐ比喩に使える。",
+          "example": "The team ran out the clock with a series of safe plays.",
+          "translation": "チームは安全なプレーを重ねて、残り時間を使い切った。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 24,
+      "title": "【動詞・他動詞】飲み干す・食べ尽くす・使い切る",
+      "frequency": 4,
+      "register": [
+        "くだけた会話・俗語。特に北米で見られ、酒についての用例が多い。"
+      ],
+      "definition": "飲み物・食べ物などを全部、または残りをすっかり消費する。瓶・容器を目的語にする場合は、その中身を指す。",
+      "patterns": [
+        "kill a bottle of 〈飲み物〉",
+        "kill the rest of something",
+        "kill 〈飲み物/食べ物〉",
+        "kill off 〈飲み物〉",
+        "kill it off"
+      ],
+      "collocations": [
+        {
+          "pattern": "kill a bottle of 〈飲み物〉",
+          "use": "瓶の中身を飲み切る。",
+          "example": "The two friends killed the bottle of wine over dinner.",
+          "translation": "二人の友人は、夕食の間にそのワイン1本を飲み切った。"
+        },
+        {
+          "pattern": "kill the rest of something",
+          "use": "残っている分を全部消費する。",
+          "example": "We killed the rest of the pizza while watching the match.",
+          "translation": "試合を見ながら、残りのピザを全部食べた。"
+        },
+        {
+          "pattern": "kill it off",
+          "use": "残っている飲み物を全部飲む。",
+          "example": "There was only a little juice left, so I killed it off.",
+          "translation": "ジュースが少ししか残っていなかったので、私は全部飲んだ。"
+        }
+      ],
+      "notes": [
+        "kill a bottle は瓶を壊すことではなく、中身を飲み切る意味になり得る。off なしでも使えるほか、kill off a bottle のような形もある。代名詞なら kill it off とし、kill off it とはしない。この用法はくだけており、中立的には finish や finish off を使える。語義6の kill the engine は運転停止で、燃料を使い切ることを必ず意味しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "finish off",
+          "definition": "残りを含めて食べたり飲んだりし終える。",
+          "frequency": 7,
+          "difference": "完全に消費する軸で近い。kill より広い場面で使える。",
+          "example": "Let's finish off the soup before opening another container.",
+          "translation": "別の容器を開ける前に、このスープを食べ切ろう。"
+        },
+        {
+          "word": "polish off",
+          "definition": "食べ物・飲み物を、しばしば素早く平らげる。",
+          "frequency": 5,
+          "difference": "全部消費する軸で近い、くだけた句動詞。kill は消費の完了、polish off は気持ちよく片付けるような勢いも出やすい。",
+          "example": "They polished off the sandwiches in minutes.",
+          "translation": "彼らは数分でサンドイッチを平らげた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 25,
+      "title": "【名詞・可算／動詞・他動詞】返せない決め球・攻撃得点／決め球を打つ",
+      "frequency": 4,
+      "register": [
+        "バレーボール・バドミントン・テニスなどの競技用語。具体的な記録基準は競技によって異なる。"
+      ],
+      "definition": "名詞では、相手が返せず得点に直結する攻撃・打球。バレーボールの記録では攻撃による得点を表し、強打に限られない。動詞では、球やショットを相手が返せないように決める。",
+      "patterns": [
+        "a kill",
+        "record 〈数〉 kills",
+        "a kill shot",
+        "kill the ball",
+        "kill a 〈shot/return〉"
+      ],
+      "collocations": [
+        {
+          "pattern": "record 〈数〉 kills",
+          "use": "バレーボールで攻撃による得点を数える。",
+          "example": "The outside hitter recorded sixteen kills in the volleyball match.",
+          "translation": "そのアウトサイドヒッターは、バレーボールの試合で16本の攻撃得点を記録した。"
+        },
+        {
+          "pattern": "a kill",
+          "use": "強打でなくても、得点を生む攻撃を指す。",
+          "example": "Her soft tip over the block resulted in a kill.",
+          "translation": "彼女がブロックの上へそっと落としたフェイントが、攻撃得点になった。"
+        },
+        {
+          "pattern": "a kill shot",
+          "use": "返球できない決め球。",
+          "example": "He reached the net and finished the badminton rally with a kill shot.",
+          "translation": "彼はネット際に出て、決め球でバドミントンのラリーを終えた。"
+        },
+        {
+          "pattern": "kill a 〈shot/return〉",
+          "use": "動詞で、好機の球を決める。",
+          "example": "She killed the weak return with a sharp volley.",
+          "translation": "彼女は弱い返球を鋭いボレーで決めた。"
+        }
+      ],
+      "notes": [
+        "名詞の a kill と動詞の kill the ball は文の役割を分ける。バレーボールでは kill は必ずしも強いスパイクではなく、フェイントなども含み得る。一般的な得点すべてを kill と呼ぶわけではなく、サービスエースなどと区別する。語義28のサッカーで「球を止める」という意味とは逆に、ここでは相手の返球を不可能にする。ラグビーで球を出せなくして展開を妨げる用法は語義29。"
+      ],
+      "synonyms": [
+        {
+          "word": "winner",
+          "definition": "相手が返せず、そのまま得点となるショット。",
+          "frequency": 5,
+          "difference": "ラケット競技の決め球という限定した軸で近い。バレーボールの公式集計名として kill をそのまま winner に替えない。",
+          "example": "She ended the rally with a forehand winner.",
+          "translation": "彼女はフォアハンドの決め球でラリーを終えた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 26,
+      "title": "【形容詞・主に限定】killing：ひどく疲れさせる・過酷な",
+      "frequency": 4,
+      "register": [
+        "くだけた、または強調的な叙述。"
+      ],
+      "definition": "作業量・日程・速さなどが、極端な疲労をもたらすほど厳しいこと。現在分詞から発達した形容詞で、普通は実際に死を招くという意味ではない。",
+      "patterns": [
+        "a killing pace",
+        "a killing schedule",
+        "a killing workload"
+      ],
+      "collocations": [
+        {
+          "pattern": "a killing pace",
+          "use": "休む余裕がないほどの速度。",
+          "example": "The team could not maintain that killing pace for another month.",
+          "translation": "チームは、あの過酷なペースをもう1か月続けることはできなかった。"
+        },
+        {
+          "pattern": "a killing schedule",
+          "use": "ひどく疲れる予定の組み方。",
+          "example": "After a week on a killing schedule, she finally had a day off.",
+          "translation": "過酷な日程が1週間続いた後、彼女はようやく1日休めた。"
+        }
+      ],
+      "notes": [
+        "a killing schedule の killing は schedule を修飾する形容詞。The schedule is killing me. では is killing が動詞の進行形で、me を目的語に取る。「疲れ切った人」という受け身の意味で a killing person とはしない。killed は通常、殺された・停止されたという動詞の過去分詞で、一般的な「疲れた」の形容詞として自由に使わない。"
+      ],
+      "synonyms": [
+        {
+          "word": "exhausting",
+          "definition": "非常に疲れさせる。",
+          "frequency": 8,
+          "difference": "疲労を引き起こす同じ軸で近い一般語。killing はより強い誇張で、名詞前の定着した組み合わせが中心。",
+          "example": "The journey was exhausting but worthwhile.",
+          "translation": "旅は非常に疲れたが、行く価値があった。"
+        },
+        {
+          "word": "punishing",
+          "definition": "身体や能力に厳しい負担をかける。",
+          "frequency": 6,
+          "difference": "要求の厳しさという同じ軸で近い。punishing は訓練や条件の厳格さにも焦点を当てる。",
+          "example": "They completed a punishing training session.",
+          "translation": "彼らは厳しい練習をやり遂げた。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "undemanding",
+          "definition": "大きな労力や能力を要求しない。",
+          "frequency": 5,
+          "difference": "必要な労力の程度が反対。killing schedule の過酷さに対し、undemanding は負担が少ない側を示す。",
+          "example": "She chose an undemanding routine for the first week.",
+          "translation": "彼女は最初の1週間、負担の軽い日課を選んだ。"
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "title": "【動詞・他動詞／句動詞・分離可】kill a penalty：反則による数的不利を無失点でしのぐ",
+      "frequency": 3,
+      "register": [
+        "アイスホッケーの専門的な試合解説。"
+      ],
+      "definition": "アイスホッケーで、味方の反則により人数が少ない時間帯を、相手に得点させずに切り抜ける。kill off a penalty も使う。",
+      "patterns": [
+        "kill a penalty",
+        "kill penalties",
+        "kill off a penalty",
+        "kill a penalty off",
+        "kill it off"
+      ],
+      "collocations": [
+        {
+          "pattern": "kill a penalty",
+          "use": "一つの数的不利の時間帯をしのぐ。",
+          "example": "The home team killed the penalty without allowing a shot on goal.",
+          "translation": "ホームチームは枠内シュートを1本も許さず、数的不利の時間帯を無失点でしのいだ。"
+        },
+        {
+          "pattern": "kill penalties",
+          "use": "選手・チームの役割や能力を述べる。",
+          "example": "The coach trusts her to kill penalties late in close games.",
+          "translation": "監督は、接戦の終盤のペナルティーキリングを彼女に任せている。"
+        },
+        {
+          "pattern": "kill it off",
+          "use": "文脈に出た反則の時間を、代名詞で受ける。",
+          "example": "They took another penalty but managed to kill it off.",
+          "translation": "彼らはまた反則で人数が少なくなったが、何とか無失点でしのいだ。"
+        }
+      ],
+      "notes": [
+        "penalty を取り消すのではなく、その反則による数的不利の時間をしのぐ。kill off it とはしない。名詞 penalty kill は数的不利の際の守備・その場面・担当する部隊を文脈に応じて指す。on the penalty kill だけでは、既に無失点で終えたことまでは表さない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 28,
+      "title": "【動詞・他動詞】球の勢いを止めてコントロールする",
+      "frequency": 3,
+      "register": [
+        "主にサッカーなどの技術描写。"
+      ],
+      "definition": "サッカーなどで、来た球の勢いを吸収し、足元などで扱える状態に止める。強く打って得点する語義25とは異なる。",
+      "patterns": [
+        "kill the ball",
+        "kill a pass",
+        "kill the ball with 〈身体部位〉"
+      ],
+      "collocations": [
+        {
+          "pattern": "kill the ball with 〈身体部位〉",
+          "use": "身体で球の勢いを吸収して止める。",
+          "example": "The forward killed the ball with his chest before passing it.",
+          "translation": "フォワードは胸でボールを止めてから、パスを出した。"
+        },
+        {
+          "pattern": "kill a pass",
+          "use": "来たパスを勢いよく跳ね返さず収める。",
+          "example": "She killed the long pass with one controlled touch.",
+          "translation": "彼女は落ち着いたワンタッチで、長いパスをぴたりと収めた。"
+        }
+      ],
+      "notes": [
+        "kill the ball は競技と文脈で意味が変わる。サッカーで胸や足を使う描写なら「勢いを吸収して止める」、バドミントンなどで好機を決める描写なら「返せない球を打つ」。球を壊す意味として読まない。ラグビーで球をプレーできない状態にして展開を妨げる用法は語義29。"
+      ],
+      "synonyms": [
+        {
+          "word": "trap",
+          "definition": "サッカーなどで、球の勢いを抑えて足元などに収める。",
+          "frequency": 4,
+          "difference": "球を受け止めてコントロールする同じ軸で近い。kill は勢いをなくす側面を強く示す。",
+          "example": "He trapped the ball neatly with his left foot.",
+          "translation": "彼は左足でボールをきれいにトラップした。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 29,
+      "title": "【動詞・他動詞】ボールを出せなくして展開を妨げる",
+      "frequency": 3,
+      "register": [
+        "ラグビーの競技用語・試合解説。"
+      ],
+      "definition": "ラグビーで、ボールをプレーできない状態にし、攻撃などの展開を妨げる。特に、ラックなどで球を出させない反則行為について使われる。",
+      "patterns": [
+        "kill the ball",
+        "kill the ball at a ruck",
+        "be penalized for killing the ball"
+      ],
+      "collocations": [
+        {
+          "pattern": "kill the ball at a ruck",
+          "use": "ラックで球をプレーできなくする妨害。",
+          "example": "The referee warned the defending players not to kill the ball at the next ruck.",
+          "translation": "レフェリーは守備側の選手たちに、次のラックでボールを出させない妨害をしないよう警告した。"
+        },
+        {
+          "pattern": "be penalized for killing the ball",
+          "use": "球を出せなくしたことについて反則を取られる。",
+          "example": "The flanker was penalized for killing the ball near his own goal line.",
+          "translation": "そのフランカーは、自陣のゴールライン近くでボールを出せなくする反則を取られた。"
+        }
+      ],
+      "notes": [
+        "語義28のサッカーでは、来た球の勢いを吸収して扱える状態にする。ラグビーのこの用法は、相手が球をプレーできないようにして展開を妨げることで、同じ kill the ball でも意味が異なる。kill the ball という語だけから、特定の反則区分やイエローカードなどの処分が必ず適用されるとは決められない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 30,
+      "title": "【慣用表現・名詞的／形容詞的な句】kill or cure：大成功か完全な失敗かの荒療治",
+      "frequency": 3,
+      "register": [
+        "主に英国の慣用表現。医療に限らず、仕事や組織の問題などにも使う。"
+      ],
+      "definition": "問題を解くための方法が、うまくいけば大きく改善し、失敗すれば事態を決定的に悪くすること。思い切った手段についていう。",
+      "patterns": [
+        "be kill or cure",
+        "a kill-or-cure 〈approach/remedy〉"
+      ],
+      "collocations": [
+        {
+          "pattern": "be kill or cure",
+          "use": "大胆な策の成否に大きな幅があると述べる。",
+          "example": "Replacing the whole management team could be kill or cure for the struggling firm.",
+          "translation": "経営陣の総入れ替えは、苦境の会社を救うか、決定的に悪くするかの荒療治になりかねない。"
+        },
+        {
+          "pattern": "a kill-or-cure approach",
+          "use": "名詞の前で、一か八かの大きな対処法を示す。",
+          "example": "She opposed the kill-or-cure approach and proposed smaller changes first.",
+          "translation": "彼女はその荒療治に反対し、まず小さな変更を提案した。"
+        }
+      ],
+      "notes": [
+        "名詞の前では kill-or-cure approach のようにハイフンでつなぐ。be kill or cure の形では通常つながない。kill と cure のどちらかの実際の医療行為を勧める表現ではなく、方法の危うさと大きな効果を対比する慣用句。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 31,
+      "title": "【名詞・主に地名の一部】kill：川・水路",
+      "frequency": 2,
+      "register": [
+        "地域的・地名的な用法。オランダ語に由来する。"
+      ],
+      "definition": "米国北東部などの地名に残る、川・入り江状の水路などを表す語。生命を奪う動詞 kill とは別語源で、現代の一般的な「川」の第一選択ではない。",
+      "patterns": [
+        "〈地名〉 + Kill",
+        "Kill Van Kull"
+      ],
+      "collocations": [
+        {
+          "pattern": "Kill Van Kull",
+          "use": "kill を含む既存の水路名を読む。",
+          "example": "The chart shows the channel called Kill Van Kull.",
+          "translation": "その海図には、キル・ヴァン・カルという水路が載っている。"
+        }
+      ],
+      "notes": [
+        "固有の地名では大文字・語順をその名称どおりにする。kill を「殺害」と訳して地名の意味を誤解しない。一般の川は river、stream、creek などで表す。この地域語を自由に使って新しい地名を作ることは勧めない。"
+      ],
+      "synonyms": [
+        {
+          "word": "creek",
+          "definition": "小川、または地域によって入り江状の水路。",
+          "frequency": 6,
+          "difference": "水路という軸で重なる一般語。kill は主に特定地域の既存地名に残るため、普通の地理説明でそのまま交換しない。",
+          "example": "A narrow creek runs behind the old mill.",
+          "translation": "古い製粉所の裏を、細い小川が流れている。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
