@@ -1,0 +1,875 @@
+{
+  "word": "network",
+  "slug": "network",
+  "ipa": "米: /ˈnet.wɝːk/｜英: /ˈnet.wɜːk/",
+  "lead": "複数のコンピューター、電話、周辺機器などが接続され、情報のやり取りや資源の共有ができる仕組み。有線・無線のどちらも含み、小さな家庭内の網から広域の通信網までを指す。",
+  "updated": "2026-10-04",
+  "notion_url": "https://app.notion.com/p/network-3ef4faa9b77d81aaa56bfd5487c3c387",
+  "pronunciation": [
+    "2音節で、第1音節の /e/ に強勢がある。米英の違いは第2音節で、米音 /wɝːk/ は r 音を伴う母音、ここに示す英音 /wɜːk/ は r 音を伴わない母音である。",
+    "名詞・動詞で強勢位置は変わらない。networks の語尾は /s/、networked の語尾は /t/。networking は network に /ɪŋ/ が続く3音節で、強勢は第1音節のまま。"
+  ],
+  "etymology": [
+    "net「網」と work「作られたもの、細工」の複合語。もとは糸や線を交差させた網状の作りを指し、道路・通信線・組織・人間関係など、複数の要素が結び付く仕組みに広がった。動詞は名詞からの品詞転換で、ネットワークを作る・利用する行為を表す。",
+    "netting「網、網地」は net の語族で、物理的な網の材料を指す。",
+    "netted「網目状の、網で覆われた」も net からの形。network の「つながり」の意味を、そのまま人脈形成の動詞として置き換えられる語ではない。"
+  ],
+  "formation": [
+    {
+      "term": "networker",
+      "description": "可算名詞で「人脈作りをする人」。a skilled networker は人と関係を築くのが上手な人を指す。"
+    },
+    {
+      "term": "networked",
+      "description": "過去分詞、および「ネットワークで結ばれた」を表す分詞形容詞。networked devices のように名詞の前でも使う。単独の networked にハイフンは不要。"
+    },
+    {
+      "term": "networking",
+      "description": "動詞の現在分詞のほか、不可算名詞で「人脈形成」または「コンピューターネットワークの構築・運用」。語義7・9で区別する。"
+    },
+    {
+      "term": "network",
+      "description": "effect：利用者などが増えるにつれて、そのネットワークの価値・利便性が変わる効果。ビジネスでは価値が高まる効果を指すことが多い。"
+    }
+  ],
+  "core": [
+    {
+      "label": "複数の要素がつながり、または交差して、網状の全体を形作ること。名詞ではそのつながり・構造を、動詞や",
+      "description": "networking ではつながりを作る・活用することを表す。"
+    },
+    {
+      "label": "機器のつながりによる情報交換の仕組み",
+      "description": "→ 「通信網、コンピューターネットワーク」（語義1）"
+    },
+    {
+      "label": "経路や線状の要素のつながり・交差",
+      "description": "→ 「網状の系統・模様、路線網」（語義2）"
+    },
+    {
+      "label": "人や組織のつながりによる仕組み",
+      "description": "→ 「人脈、人的・組織的ネットワーク」（語義3）"
+    },
+    {
+      "label": "放送局のつながりによる番組供給の仕組み",
+      "description": "→ 「放送網、放送ネットワーク」（語義4）"
+    },
+    {
+      "label": "利用者のつながりを提供する仕組み",
+      "description": "→ 「交流サイト、ソーシャルネットワーク」（語義5）"
+    },
+    {
+      "label": "仕事に役立つ人のつながりを作る行為",
+      "description": "→ 「人脈を築く」（語義6）"
+    },
+    {
+      "label": "仕事に役立つ人のつながり作りという活動",
+      "description": "→ 「人脈形成、交流活動」（語義7）"
+    },
+    {
+      "label": "機器のつながりを作る行為",
+      "description": "→ 「機器をネットワーク接続する」（語義8）"
+    },
+    {
+      "label": "機器のつながりを作り運用する技術・活動",
+      "description": "→ 「ネットワークの構築・運用」（語義9）"
+    },
+    {
+      "label": "同じ背景を持つ男性のつながりによる互助",
+      "description": "→ 「同窓・身内の男性人脈」（語義10）"
+    },
+    {
+      "label": "放送局のつながりを使う番組送出",
+      "description": "→ 「系列局で同時放送する」（語義11）"
+    },
+    {
+      "label": "糸や線のつながりによる網状の作り",
+      "description": "→ 「網細工、網地」（語義12）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算】通信網、コンピューターネットワーク",
+      "frequency": 8,
+      "register": [
+        "日常、通信、情報技術。"
+      ],
+      "definition": "複数のコンピューター、電話、周辺機器などが接続され、情報のやり取りや資源の共有ができる仕組み。有線・無線のどちらも含み、小さな家庭内の網から広域の通信網までを指す。",
+      "patterns": [
+        "a 〈computer/wireless/mobile〉 network＝機器・方式を示す名詞句",
+        "a network of 〈複数の機器〉＝構成要素",
+        "on the network＝その網に接続されて",
+        "over/across a network＝網を通じて",
+        "access to the network＝網へのアクセス",
+        "a network connection＝ネットワーク接続。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a wireless network",
+          "use": "無線で接続する通信網を指す。",
+          "example": "The hotel has a separate wireless network for guests.",
+          "translation": "そのホテルには宿泊客用の独立した無線ネットワークがある。"
+        },
+        {
+          "pattern": "a mobile network",
+          "use": "携帯電話の通信網を指す。",
+          "example": "The mobile network was overloaded after the concert.",
+          "translation": "コンサートのあと、携帯電話の通信網は混雑していた。"
+        },
+        {
+          "pattern": "a network of 〈複数の機器〉",
+          "use": "どの機器でネットワークを構成しているかを示す。",
+          "example": "The laboratory uses a network of sensors to monitor temperature.",
+          "translation": "その研究所は、温度を監視するためにセンサーのネットワークを利用している。"
+        },
+        {
+          "pattern": "on the network",
+          "use": "機器がネットワークの一部として接続されていることを示す。",
+          "example": "Every printer on the network has a different name.",
+          "translation": "ネットワーク上のプリンターには、それぞれ別の名前が付いている。"
+        },
+        {
+          "pattern": "over a network",
+          "use": "データなどの移動にネットワークを利用することを示す。",
+          "example": "The files are transferred over a secure network.",
+          "translation": "ファイルは安全なネットワークを通じて転送される。"
+        },
+        {
+          "pattern": "access to the network",
+          "use": "接続できること、またはその権限を指す。",
+          "example": "Visitors do not have access to the internal network.",
+          "translation": "来訪者は内部ネットワークにアクセスできない。"
+        },
+        {
+          "pattern": "a network connection",
+          "use": "機器と通信網の接続状態・接続手段を指す。",
+          "example": "The application needs a stable network connection.",
+          "translation": "そのアプリを使うには、安定したネットワーク接続が必要だ。"
+        }
+      ],
+      "notes": [
+        "a network、several networks と数え、特定の網なら the network とする。connect to a network は「接続する」で、名詞には通常冠詞などの限定詞が必要。network と the internet は同義ではなく、外部インターネットにつながっていないネットワークもある。Wi-Fi は無線接続の方式であり、network 全体の言い換えではない。LAN は local area network、WAN は wide area network の略。"
+      ],
+      "synonyms": [
+        {
+          "word": "communications system",
+          "definition": "情報を送受信するための設備・仕組み。",
+          "frequency": 6,
+          "difference": "端末や運用全体に重点があり、必ずしも網状につながる構造を強調しない。network は要素どうしの接続に焦点がある。",
+          "example": "The storm damaged the island's communications system.",
+          "translation": "嵐で島の通信システムが損傷した。"
+        },
+        {
+          "word": "LAN",
+          "definition": "建物や施設などの比較的限られた範囲のコンピューターネットワーク。",
+          "frequency": 5,
+          "difference": "network の一種を範囲によって限定する語。広域網まで含む network 全般とは同義ではない。",
+          "example": "The new printers are connected to the office LAN.",
+          "translation": "新しいプリンターはオフィスのLANにつながっている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算】網状の系統・模様、路線網",
+      "frequency": 8,
+      "register": [
+        "一般、交通、地理、生物、科学、分析。"
+      ],
+      "definition": "道、線、管、神経などがつながる系統や、ひびなどが交差してできる網状の模様。また、そのような構造に見立てた関係・依存関係の体系。すべての要素がすべてのほかの要素に直接つながっている必要はない。",
+      "patterns": [
+        "a 〈road/rail/transport〉 network＝交通の網",
+        "a network of 〈複数の経路・要素〉＝構成要素",
+        "a network of fine cracks＝細かいひびが網状に広がる模様",
+        "an extensive network＝広範な網",
+        "through the network＝その網を通じて",
+        "a neural network＝神経の網、またはそれを模した計算モデル。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a road network",
+          "use": "道路がつながってできる体系を指す。",
+          "example": "The region's road network links even the smallest villages.",
+          "translation": "その地域の道路網は、最も小さな村々にも通じている。"
+        },
+        {
+          "pattern": "a rail network",
+          "use": "鉄道の路線全体を指す。",
+          "example": "The city is expanding its rail network into the northern suburbs.",
+          "translation": "その都市は鉄道網を北部の郊外へ拡張している。"
+        },
+        {
+          "pattern": "a network of tunnels",
+          "use": "多数のトンネルがつながる構造を指す。",
+          "example": "The old mine contains a network of narrow tunnels.",
+          "translation": "その古い鉱山には、狭い坑道が網の目のように張り巡らされている。"
+        },
+        {
+          "pattern": "a network of blood vessels",
+          "use": "血管が枝分かれしてつながる系統を指す。",
+          "example": "A dense network of blood vessels supplies the tissue with oxygen.",
+          "translation": "密な血管網が、その組織に酸素を供給している。"
+        },
+        {
+          "pattern": "a network of fine cracks",
+          "use": "ひびがつながり・交差してできた網状の模様を指す。",
+          "example": "A network of fine cracks had formed in the vase's glaze.",
+          "translation": "花瓶の釉薬には、細かいひびが網の目のように入っていた。"
+        },
+        {
+          "pattern": "a network of relationships",
+          "use": "多くの関係が相互につながる抽象的な構造を指す。",
+          "example": "The diagram shows a network of relationships between the variables.",
+          "translation": "その図は、変数間の関係が網状につながる様子を示している。"
+        },
+        {
+          "pattern": "a neural network",
+          "use": "特に情報科学では、結び付いた処理単位から成る計算モデルを指す。",
+          "example": "The researchers trained a neural network to recognize handwritten digits.",
+          "translation": "研究者たちは、手書きの数字を認識するようニューラルネットワークを学習させた。"
+        }
+      ],
+      "notes": [
+        "a network of roads の of は「網を構成する要素」を示す。a road network とほぼ同じ内容を表せる。network は複雑さを連想させることがあるが、複雑であること自体が必須条件ではない。a network of cracks のように形だけを述べることもあり、全体が何らかの機能を果たすとは限らない。数学や情報科学では点とその接続関係を network と呼ぶこともあり、必ずしも実在の道路や線ではない。人工の neural network は、単にコンピューターを通信線でつないだ語義1の網とは違う。"
+      ],
+      "synonyms": [
+        {
+          "word": "system",
+          "definition": "複数の部分が関係し合って働く体系。",
+          "frequency": 9,
+          "difference": "規則・組織・手順の体系も含む広い語。network は各部分の間の接続に重点がある。",
+          "example": "The town needs a better drainage system.",
+          "translation": "その町には、もっとよい排水システムが必要だ。"
+        },
+        {
+          "word": "grid",
+          "definition": "線が交差する格子状の構造、または送電などの接続網。",
+          "frequency": 6,
+          "difference": "格子の配置や電力網を連想しやすい。network は不規則な道路網・生物の系統にも自然に使う。",
+          "example": "The streets form a simple grid.",
+          "translation": "その街路は単純な格子状になっている。"
+        },
+        {
+          "word": "web",
+          "definition": "多数の要素が複雑に絡み合った構造・関係。",
+          "frequency": 6,
+          "difference": "複雑な絡まりや抜け出しにくさを含みやすい。network は機能的な接続を中立に述べる場合にもよく使う。",
+          "example": "The investigation revealed a web of financial links.",
+          "translation": "調査で、複雑に絡み合う資金面のつながりが明らかになった。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算】人脈、人的・組織的ネットワーク",
+      "frequency": 8,
+      "register": [
+        "日常、仕事、社会、組織。"
+      ],
+      "definition": "情報、支援、仕事などのやり取りでつながる人・組織の集まりや関係。個人の知人関係だけでなく、支援者、研究機関、販売店、拠点などの連携も指す。非公式なつながりにも、組織された仕組みにも使える。",
+      "patterns": [
+        "a network of 〈複数の人・組織〉＝構成員",
+        "a 〈support/professional/distribution〉 network＝目的・役割を示す名詞句",
+        "someone's network＝その人の人脈",
+        "in someone's network＝その人脈の中に",
+        "a network for 〈対象者〉＝特定の人々のための連携組織。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a network of contacts",
+          "use": "仕事や情報収集で連絡を取れる知人のつながりを指す。",
+          "example": "She has built a wide network of contacts in the publishing industry.",
+          "translation": "彼女は出版業界に幅広い人脈を築いてきた。"
+        },
+        {
+          "pattern": "a support network",
+          "use": "困ったときに助け合える人々のつながりを指す。",
+          "example": "Friends and neighbors became an important support network after the move.",
+          "translation": "引っ越しのあと、友人や近所の人々が大切な支えとなった。"
+        },
+        {
+          "pattern": "a distribution network",
+          "use": "商品などを各地へ届ける拠点・業者のつながりを指す。",
+          "example": "The company relies on a distribution network of local dealers.",
+          "translation": "その会社は地元の販売店から成る流通網を利用している。"
+        },
+        {
+          "pattern": "in someone's network",
+          "use": "ある人の知人・協力者の範囲に入ることを示す。",
+          "example": "Is there anyone in your network who knows about publishing contracts?",
+          "translation": "出版契約に詳しい人が、あなたの知り合いにいますか。"
+        },
+        {
+          "pattern": "a network for 〈対象者〉",
+          "use": "特定の立場の人の連携・支援を目的とする組織を指す。",
+          "example": "They set up a network for independent researchers.",
+          "translation": "彼らは独立研究者のためのネットワークを作った。"
+        },
+        {
+          "pattern": "a social network",
+          "use": "インターネットに限定せず、社会的な人間関係のつながりを指す。",
+          "example": "After retirement, his social network extended well beyond his former colleagues.",
+          "translation": "退職後、彼の交友関係は元同僚の範囲をはるかに超えて広がった。"
+        }
+      ],
+      "notes": [
+        "build a network は「人脈・連携を作る」、expand one's network は「人脈を広げる」。個々の知人は a contact であり、a network はつながりの全体を指す。an extensive network の存在は、構成員全員が互いを直接知っていることを意味しない。social network はこの人的なつながりのほか、交流サイト自体も指す（語義5）。old-boy network は身内優遇の含みがある別の定型表現（語義10）。"
+      ],
+      "synonyms": [
+        {
+          "word": "contacts",
+          "definition": "情報や仕事上の助けを得るために連絡できる知人たち。",
+          "frequency": 8,
+          "difference": "個々の人に焦点がある。network はその人々の間のつながりや全体の仕組みに焦点を置く。",
+          "example": "Her contacts helped her find a reliable translator.",
+          "translation": "彼女は知人たちの助けで、信頼できる翻訳者を見つけた。"
+        },
+        {
+          "word": "circle",
+          "definition": "共通の関心や親交で結び付いた人の集まり。",
+          "frequency": 7,
+          "difference": "友人・同好の人など、ある程度まとまった範囲を連想しやすい。network は複数の集団にまたがる広いつながりにも使う。",
+          "example": "He has a small circle of close friends.",
+          "translation": "彼には少数の親しい友人がいる。"
+        },
+        {
+          "word": "community",
+          "definition": "共通の関心・活動・所属などを持つ人々の集団。",
+          "frequency": 8,
+          "difference": "共有意識や帰属を強調しやすい。network は情報・支援の交換という接続関係を中心に述べられる。",
+          "example": "The online community welcomes new members.",
+          "translation": "そのオンラインのコミュニティーは、新しい参加者を歓迎している。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・可算】放送網、放送ネットワーク",
+      "frequency": 7,
+      "register": [
+        "放送、メディア。特に米国の放送会社・系列についてよく使う。"
+      ],
+      "definition": "複数地域の放送局へ番組を供給するテレビ・ラジオの組織・系列。また、その番組を制作・供給する放送会社。現代のメディア用語では、広域に提供されるケーブル放送のサービスなども network と呼ばれる。",
+      "patterns": [
+        "a television network、a radio network＝テレビ・ラジオの放送網",
+        "a cable network＝ケーブル放送のネットワーク",
+        "on a network＝その放送網で",
+        "a network of radio stations＝放送局の系列",
+        "network television、network news＝系列局向けのテレビ放送・ニュース。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a television network",
+          "use": "広域に番組を供給するテレビ会社・系列を指す。",
+          "example": "Several television networks bid for the rights to the series.",
+          "translation": "複数のテレビネットワークが、そのシリーズの放送権獲得に名乗りを上げた。"
+        },
+        {
+          "pattern": "a network of radio stations",
+          "use": "複数のラジオ局から成る系列を指す。",
+          "example": "The program reaches listeners through a network of local radio stations.",
+          "translation": "その番組は、地方ラジオ局のネットワークを通じてリスナーに届く。"
+        },
+        {
+          "pattern": "on a cable network",
+          "use": "ケーブル放送のサービスで番組が放送されることを示す。",
+          "example": "The film first appeared on a cable network.",
+          "translation": "その映画は最初にケーブルテレビのチャンネルで放送された。"
+        },
+        {
+          "pattern": "network television",
+          "use": "地域局独自の番組などに対し、放送ネットワークによるテレビ放送を指す。",
+          "example": "She made her first appearance on network television at nineteen.",
+          "translation": "彼女は19歳で初めてネットワークのテレビ番組に出演した。"
+        },
+        {
+          "pattern": "network news",
+          "use": "ネットワークが制作・供給するニュースを指す。",
+          "example": "The story led the evening network news.",
+          "translation": "その出来事は、夕方のネットワークニュースのトップで報じられた。"
+        }
+      ],
+      "notes": [
+        "station は個々の放送局、network は複数の局・地域をつなぐ系列や番組供給元を指す。channel は視聴者が選ぶチャンネル・番組サービスで、network と同じ事業者を指す場合もあるが、語の焦点は異なる。network television と cable television を対比する米国の文脈では、前者が主に従来型の地上波系列を指す。ただし cable network という表現も正しいので、network 自体を「地上波専用」と定義しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "broadcaster",
+          "definition": "テレビ・ラジオ番組を放送する事業者。",
+          "frequency": 7,
+          "difference": "放送主体に焦点がある。network は局の系列・番組供給の仕組みも指し、両者の範囲は完全には一致しない。",
+          "example": "The public broadcaster announced a new documentary series.",
+          "translation": "公共放送事業者が新しいドキュメンタリーシリーズを発表した。"
+        },
+        {
+          "word": "channel",
+          "definition": "番組を継続して提供する放送チャンネル・サービス。",
+          "frequency": 8,
+          "difference": "視聴者が選ぶ番組の流れやサービスに焦点がある。network はその供給元や系列を表す。",
+          "example": "This channel shows classic films all day.",
+          "translation": "このチャンネルは一日中、名作映画を放送している。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞・可算：social network】交流サイト、ソーシャルネットワーク",
+      "frequency": 7,
+      "register": [
+        "日常、インターネット、メディア。"
+      ],
+      "definition": "利用者がプロフィール、投稿、画像、メッセージなどを通じてつながり、交流するウェブサービス・アプリ。social network というまとまりでよく使い、話題が明らかなら network だけでも指す。",
+      "patterns": [
+        "a social network＝一つの交流サービス",
+        "on a social network＝そのサービス上で",
+        "a profile on a social network＝交流サイト上のプロフィール",
+        "a professional network＝仕事上の交流を目的とするサービス。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a social network",
+          "use": "人と人が交流するオンラインサービスを指す。",
+          "example": "The company launched a social network for amateur musicians.",
+          "translation": "その会社は、アマチュア音楽家向けの交流サービスを公開した。"
+        },
+        {
+          "pattern": "on a social network",
+          "use": "投稿や活動が行われるオンラインの場を示す。",
+          "example": "She posted the photographs on a social network.",
+          "translation": "彼女はその写真をSNSに投稿した。"
+        },
+        {
+          "pattern": "a profile on a professional network",
+          "use": "仕事上の交流サービスに登録したプロフィールを指す。",
+          "example": "His profile on a professional network lists his recent projects.",
+          "translation": "ビジネス向けSNSの彼のプロフィールには、最近のプロジェクトが掲載されている。"
+        }
+      ],
+      "notes": [
+        "日本語の「SNS」に近いが、英語では social network、social networking site、social media platform などを使い、SNS だけでは通じにくいことがある。語義3の my social network は「私の交友関係」、この語義の my profile on a social network は「SNS上の私のプロフィール」。同じ形でも人間関係とサービスそのものを区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "social networking site",
+          "definition": "利用者どうしがつながって交流するウェブサイト。",
+          "frequency": 6,
+          "difference": "サービスがウェブサイトであることを明示する。social network はアプリ中心のサービスにも使える。",
+          "example": "They met through a social networking site for artists.",
+          "translation": "2人は芸術家向けの交流サイトを通じて知り合った。"
+        },
+        {
+          "word": "social media platform",
+          "definition": "利用者が内容を発信・共有し、反応できるオンラインサービス。",
+          "frequency": 8,
+          "difference": "情報発信・共有に重点があり、個人的な人間関係の形成を中心としないサービスも含む。",
+          "example": "The video spread across several social media platforms.",
+          "translation": "その動画は複数のソーシャルメディアで広まった。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【動詞・自動詞】人脈を築く",
+      "frequency": 7,
+      "register": [
+        "仕事、就職、専門家の交流。一般的なビジネス語。"
+      ],
+      "definition": "特に仕事や専門活動に役立つ関係を作るため、人と会う・話す・情報交換をする。対面に限らずオンラインでも行う。意識的な関係作りを表すが、不正な便宜や相手の利用を必ず含むわけではない。",
+      "patterns": [
+        "people + network＝人が人脈作りをする",
+        "network with someone＝人と交流して関係を築く",
+        "network at 〈催し〉＝その場で人脈作りをする",
+        "副詞を伴う network online＝オンラインで交流する",
+        "network to do＝ある目的のために人脈を築く。"
+      ],
+      "collocations": [
+        {
+          "pattern": "network with someone",
+          "use": "交流してつながりを作る相手を示す。",
+          "example": "The reception gave us a chance to network with researchers from other fields.",
+          "translation": "その懇親会では、他分野の研究者と交流する機会が得られた。"
+        },
+        {
+          "pattern": "network at 〈催し〉",
+          "use": "人脈作りをする場所・機会を示す。",
+          "example": "He spent the afternoon networking at the trade fair.",
+          "translation": "彼は午後、見本市で人脈作りをして過ごした。"
+        },
+        {
+          "pattern": "network online",
+          "use": "オンラインで仕事上の関係を築くことを述べる。",
+          "example": "Freelancers often network online between projects.",
+          "translation": "フリーランスの人たちは、仕事の合間にオンラインで人脈を築くことが多い。"
+        },
+        {
+          "pattern": "network to do",
+          "use": "人脈作りによって達成したい目的を示す。",
+          "example": "She networks to find collaborators for her research.",
+          "translation": "彼女は研究の協力者を見つけるために人脈を広げている。"
+        }
+      ],
+      "notes": [
+        "この基本用法は自動詞で、「顧客と交流する」は network with clients。network clients だと、顧客を何らかのネットワークにつなぐ他動詞的な別の読みになり、同じ意味を安定して表せない。network with someone の with は前置詞なので、network them with のように並べ替えない。network to find work の to 以下は目的を表す。Networking is useful. の networking は活動名詞（語義7）、She is networking. は動詞の進行形。"
+      ],
+      "synonyms": [
+        {
+          "word": "make contacts",
+          "definition": "後で連絡・協力できる知人を作る。",
+          "frequency": 7,
+          "difference": "新たな知人を得る結果に焦点がある。network は既存の関係を深める活動も含みうる。",
+          "example": "The workshop helped her make contacts in the industry.",
+          "translation": "そのワークショップのおかげで、彼女は業界に知り合いを作れた。"
+        },
+        {
+          "word": "socialize",
+          "definition": "人と会って会話や付き合いを楽しむ。",
+          "frequency": 7,
+          "difference": "交流そのものが中心で、仕事上の目的は必要ない。network は有用な関係作りを意識した意味が強い。",
+          "example": "We usually socialize after the weekly meeting.",
+          "translation": "私たちはたいてい、毎週の会議のあとに親睦を深める。"
+        },
+        {
+          "word": "schmooze",
+          "definition": "相手の好意や便宜を得るため、くだけた会話で付き合う。",
+          "frequency": 4,
+          "difference": "くだけた表現で、愛想を振りまく・取り入るという軽い批判を帯びることがある。network 自体はそれほど評価的ではない。",
+          "example": "He spent the evening schmoozing with potential investors.",
+          "translation": "彼はその晩、出資してくれそうな人々と愛想よく話して回った。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【名詞・不可算：networking】人脈形成、交流活動",
+      "frequency": 7,
+      "register": [
+        "仕事、就職、イベント。"
+      ],
+      "definition": "仕事や専門活動のために人とつながり、関係を育てる活動。動詞 network からできた活動名詞で、行為を一つの活動分野・機会として述べる。",
+      "patterns": [
+        "professional networking＝専門・仕事上の人脈形成",
+        "a networking event＝交流のための催し",
+        "networking opportunities＝人脈作りの機会",
+        "do some networking＝人脈作りをする",
+        "networking with someone＝相手との人脈形成。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a networking event",
+          "use": "仕事上の知人・協力者を作るための催しを指す。",
+          "example": "The university hosted a networking event for recent graduates.",
+          "translation": "大学は、卒業して間もない人たちのために交流会を開いた。"
+        },
+        {
+          "pattern": "networking opportunities",
+          "use": "人脈を作れる機会を指す。",
+          "example": "The conference offers plenty of networking opportunities.",
+          "translation": "その会議では、人脈を作る機会が豊富に用意されている。"
+        },
+        {
+          "pattern": "do some networking",
+          "use": "人脈作りの活動をまとめて表す。",
+          "example": "We stayed after the talks to do some networking.",
+          "translation": "私たちは講演のあとも残り、参加者と交流した。"
+        },
+        {
+          "pattern": "professional networking",
+          "use": "仕事上の関係作りという活動分野を指す。",
+          "example": "Professional networking helped her learn about openings that were not advertised.",
+          "translation": "仕事上の人脈作りを通じて、彼女は公募されていない求人を知ることができた。"
+        }
+      ],
+      "notes": [
+        "通常は不可算で、a networking や several networkings とはしない。交流会を数えるなら a networking event、two networking events とする。network はできた関係・集まり、networking は関係作りの活動である。social networking はオンラインの交流活動にもよく使うが、必ずしも就職・商売の目的を含まない。技術分野の networking は語義9。"
+      ],
+      "synonyms": [
+        {
+          "word": "relationship building",
+          "definition": "相手との信頼・協力関係を作り育てる活動。",
+          "frequency": 6,
+          "difference": "既存の相手との関係深化にも重点を置ける。networking は接点やつながりの広がりに焦点を置きやすい。",
+          "example": "The role involves extensive relationship building with local organizations.",
+          "translation": "その仕事では、地元の組織と幅広く関係を築くことが求められる。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【動詞・他動詞】機器をネットワーク接続する",
+      "frequency": 6,
+      "register": [
+        "コンピューター、通信、設備。"
+      ],
+      "definition": "複数のコンピューターや機器を、情報・設備を共有できるようにつなぐ。ケーブルだけでなく、無線で接続する場合も含む。",
+      "patterns": [
+        "network 〈複数の機器〉＝機器を接続する",
+        "network 〈複数の機器〉 together＝機器を相互接続する",
+        "network A to B＝AをBに接続する",
+        "be networked、be networked to 〈機器〉＝接続されている",
+        "networked 〈機器・システム〉＝ネットワーク接続された機器・システム。"
+      ],
+      "collocations": [
+        {
+          "pattern": "network 〈複数の機器〉",
+          "use": "機器群をネットワークにつなぐ作業を述べる。",
+          "example": "The technician networked all the computers in the classroom.",
+          "translation": "技術者は教室内のすべてのコンピューターをネットワークにつないだ。"
+        },
+        {
+          "pattern": "network 〈複数の機器〉 together",
+          "use": "複数の機器を互いに接続することを強調する。",
+          "example": "We networked the two computers together so they could share a printer.",
+          "translation": "プリンターを共有できるよう、2台のコンピューターをネットワークでつないだ。"
+        },
+        {
+          "pattern": "be networked to 〈機器〉",
+          "use": "機器がサーバーなどに接続されている状態を示す。",
+          "example": "Each workstation is networked to a central server.",
+          "translation": "各ワークステーションは中央サーバーにネットワーク接続されている。"
+        },
+        {
+          "pattern": "networked devices",
+          "use": "接続された機器を過去分詞で前から修飾する。",
+          "example": "All networked devices must receive regular security updates.",
+          "translation": "ネットワークに接続されたすべての機器に、定期的なセキュリティー更新が必要だ。"
+        }
+      ],
+      "notes": [
+        "受動形と networked computer などの前置修飾がよく使われる。networked はここでは動詞の結果をそのまま表し、very networked のような程度評価は普通しない。become/get networked は接続される変化を表せるが、接続済みの状態は be networked が明確。人の network with clients（語義6）と、機器を目的語にする network the computers を区別する。技術的には機器を主語に自動詞的に「ネットワーク接続できる」と述べることもあるが、接続作業の基本形は他動詞。"
+      ],
+      "synonyms": [
+        {
+          "word": "connect",
+          "definition": "機器などをつないでやり取りできるようにする。",
+          "frequency": 9,
+          "difference": "単純な物理接続も含む広い語。network は複数機器による通信・共有の仕組みを作ることを示す。",
+          "example": "Connect the laptop to the router.",
+          "translation": "ノートパソコンをルーターに接続してください。"
+        },
+        {
+          "word": "link",
+          "definition": "2つ以上の機器やシステムを結び付ける。",
+          "frequency": 7,
+          "difference": "特定の相互接続に焦点があり、network のように網全体の構成を必ずしも含意しない。",
+          "example": "The software links the sensors to the control system.",
+          "translation": "そのソフトウェアがセンサーと制御システムをつなぐ。"
+        },
+        {
+          "word": "interconnect",
+          "definition": "複数の機器・システムを相互に接続する。",
+          "frequency": 5,
+          "difference": "相互接続を明示する技術的な語。network は通信・資源共有のための網を作る意味が中心。",
+          "example": "The project will interconnect the regional systems.",
+          "translation": "その事業では、地域ごとのシステムを相互に接続する。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "disconnect",
+          "definition": "機器を接続から切り離す。",
+          "frequency": 7,
+          "difference": "接続を作る network に対する、接続をなくす方向の反対。機器の電源を切ることとは同じではない。",
+          "example": "Disconnect the affected computer from the network.",
+          "translation": "問題が起きたコンピューターをネットワークから切り離してください。"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "【名詞・不可算：networking】ネットワークの構築・運用",
+      "frequency": 5,
+      "register": [
+        "情報技術。"
+      ],
+      "definition": "コンピューターなどを接続し、情報・資源を共有するための技術や活動。個々の完成した通信網ではなく、その構築・利用の分野を指す。",
+      "patterns": [
+        "computer networking＝コンピューターネットワークの技術・構築",
+        "wireless networking＝無線ネットワーク技術",
+        "networking equipment＝ネットワーク用機器",
+        "experience in networking＝ネットワーク分野の経験。"
+      ],
+      "collocations": [
+        {
+          "pattern": "computer networking",
+          "use": "学習・業務の技術分野として示す。",
+          "example": "The course introduces the basics of computer networking.",
+          "translation": "その講座では、コンピューターネットワークの基礎を学ぶ。"
+        },
+        {
+          "pattern": "networking equipment",
+          "use": "通信網の構築・運用に使う機器を指す。",
+          "example": "The school replaced its aging networking equipment.",
+          "translation": "その学校は、老朽化したネットワーク機器を交換した。"
+        },
+        {
+          "pattern": "wireless networking",
+          "use": "ケーブルを使わない機器間通信の技術を指す。",
+          "example": "Wireless networking allows staff to move between rooms without losing access.",
+          "translation": "無線ネットワークにより、職員は接続を保ったまま部屋を移動できる。"
+        }
+      ],
+      "notes": [
+        "The network is down. は「通信網が停止している」、She studies networking. は「彼女はネットワーク技術を学んでいる」。後者の networking を、仕事上の「人脈作り」（語義7）と取り違えない。技術の活動名詞なので通常不可算で、networking equipments ではなく networking equipment とする。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 10,
+      "title": "【名詞句・通常単数：the old-boy network】同窓・身内の男性人脈",
+      "frequency": 4,
+      "register": [
+        "主に英国由来のくだけた表現。雇用、組織、社会批評。しばしば批判的。"
+      ],
+      "definition": "同じ名門校の出身者など、共通の社会的背景を持つ男性たちが、仕事や地位の獲得で便宜を図り合う人脈。単なる交友関係より、外部の人が入りにくい身内優遇の仕組みを批判的に示すことが多い。",
+      "patterns": [
+        "the old-boy network＝身内の男性人脈",
+        "through the old-boy network＝その人脈を通じて",
+        "old boy network、old boys' network＝表記の異形。"
+      ],
+      "collocations": [
+        {
+          "pattern": "through the old-boy network",
+          "use": "能力だけでなく同窓・身内のつながりが採用などに働くことを述べる。",
+          "example": "Critics said the directors had been chosen through the old-boy network.",
+          "translation": "批判する人々は、取締役たちは身内の男性人脈で選ばれたのだと述べた。"
+        },
+        {
+          "pattern": "the old-boy network",
+          "use": "閉鎖的な人脈の仕組み自体を指す。",
+          "example": "The old-boy network made it difficult for outsiders to gain influence.",
+          "translation": "同窓・身内の男性人脈が、外部の人の発言力獲得を難しくしていた。"
+        }
+      ],
+      "notes": [
+        "old boy はこの表現では学校の「男子卒業生」に由来し、単に「高齢の男性」という意味ではない。一般の support network や professional network（語義3）に、身内優遇の含みが自動的に付くわけではない。the を使って社会の仕組みとして述べることが多いが、特定の組織内にある一つの人脈を an old-boy network と表すこともできる。"
+      ],
+      "synonyms": [
+        {
+          "word": "old boys' club",
+          "definition": "同じ背景を持つ有力な男性が互いを優遇する閉鎖的な集まり。",
+          "frequency": 4,
+          "difference": "network が便宜を与えるつながりに焦点を置くのに対し、club は排他的な集団・組織文化を強調しやすい。",
+          "example": "The board was criticized for operating like an old boys' club.",
+          "translation": "その取締役会は、男性の身内集団のように運営されていると批判された。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 11,
+      "title": "【動詞・他動詞】系列局で同時放送する",
+      "frequency": 3,
+      "register": [
+        "放送業界。特に英国式用法。"
+      ],
+      "definition": "テレビ・ラジオ番組を放送ネットワークに流し、複数地域の局で放送する。番組を目的語に取り、受動形で全国・広域に放送されることを述べる場合が多い。",
+      "patterns": [
+        "network 〈番組〉＝系列局へ番組を送る",
+        "be networked nationally＝全国の系列局で放送される",
+        "be networked across 〈地域〉＝地域全体でネット放送される",
+        "a nationally networked program＝全国ネットの番組。"
+      ],
+      "collocations": [
+        {
+          "pattern": "network 〈番組〉",
+          "use": "放送事業者が番組を広域の系列局に供給することを述べる。",
+          "example": "The broadcaster decided to network the debate live.",
+          "translation": "放送事業者は、その討論会を系列局で生中継することにした。"
+        },
+        {
+          "pattern": "be networked nationally",
+          "use": "地域制作の番組などが全国で放送されることを述べる。",
+          "example": "The program was produced locally but networked nationally.",
+          "translation": "その番組は地方で制作されたが、全国ネットで放送された。"
+        },
+        {
+          "pattern": "be networked across 〈地域〉",
+          "use": "番組の同時放送範囲を示す。",
+          "example": "The evening bulletin is networked across the country.",
+          "translation": "夕方のニュースは全国で同時放送されている。"
+        }
+      ],
+      "notes": [
+        "network the computers（語義8）は機器を接続し、network the program は番組を系列局で放送する。目的語が機器か番組かで意味が変わる。networked drama の networked は放送の過去分詞であり、必ずしも「インターネット配信された」という意味ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "broadcast",
+          "definition": "テレビ・ラジオなどで番組を放送する。",
+          "frequency": 8,
+          "difference": "一つの局からの放送にも使える。network は複数局・広域の放送網に番組を流すことに焦点がある。",
+          "example": "The interview will be broadcast tomorrow evening.",
+          "translation": "そのインタビューは明日の夕方に放送される。"
+        },
+        {
+          "word": "simulcast",
+          "definition": "同じ番組を複数の局・媒体などで同時に放送する。",
+          "frequency": 4,
+          "difference": "同時性と複数の送出先を強調し、テレビとラジオなど異なる媒体間にも使う。network は系列・放送網を通じた供給が中心。",
+          "example": "The concert was simulcast on television and radio.",
+          "translation": "そのコンサートはテレビとラジオで同時放送された。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 12,
+      "title": "【名詞・不可算／可算】網細工、網地",
+      "frequency": 2,
+      "register": [
+        "工芸・歴史的な記述。現代の日常語では netting や mesh の方が一般的。"
+      ],
+      "definition": "糸・ひも・針金などを交差させ、交点で結ぶなどして作った網状のもの。材料・細工全体としては不可算、個々の網状構造としては可算でも使う。",
+      "patterns": [
+        "a piece of network＝一片の網細工",
+        "fine network＝細かい網地",
+        "a network of 〈糸・線材〉＝線材から成る網状構造。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a piece of network",
+          "use": "装飾・工芸品としての網細工を指す。",
+          "example": "The museum displayed a delicate piece of network made from silk thread.",
+          "translation": "博物館には、絹糸で作られた繊細な網細工が展示されていた。"
+        },
+        {
+          "pattern": "a network of threads",
+          "use": "糸が交差してできる物理的な網状の作りを指す。",
+          "example": "The ornament consisted of a fine network of gold threads.",
+          "translation": "その装飾品は、金糸で作った細かい網細工から成っていた。"
+        }
+      ],
+      "notes": [
+        "この用法は語の歴史的な中心に当たるが、現代の日常会話で「網」を何でも network と呼ぶわけではない。物理的な網地は netting、魚を捕る網は a net が通常の選択。語義2の a network of roads は、実物の網ではなく、それに似たつながりを表す。"
+      ],
+      "synonyms": [
+        {
+          "word": "netting",
+          "definition": "網状に編んだ材料、網地。",
+          "frequency": 5,
+          "difference": "現代の材料名として一般的で、通常不可算。network は細工の構造を記述する古めかしい用法になりやすい。",
+          "example": "Fine netting protected the plants from insects.",
+          "translation": "目の細かい網が植物を虫から守っていた。"
+        },
+        {
+          "word": "mesh",
+          "definition": "糸や金属線などを交差させた網目状の材料・構造。",
+          "frequency": 6,
+          "difference": "網目の構造や材料に焦点があり、金網や布の網地にも使える。network は関係や接続の意味へ広く発達している。",
+          "example": "The opening was covered with wire mesh.",
+          "translation": "開口部は金網で覆われていた。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
