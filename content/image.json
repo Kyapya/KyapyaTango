@@ -1,0 +1,931 @@
+{
+  "word": "image",
+  "slug": "image",
+  "ipa": "米・英: /ˈɪm.ɪdʒ/",
+  "lead": "写真・絵・彫像・画面表示など、対象を目に見える形で表したもの。また、鏡・水面・レンズなどを通して見える像。静止画だけでなく動く映像にも使うが、必ずしも動画ファイル一本を意味しない。",
+  "updated": "2026-10-04",
+  "notion_url": "https://app.notion.com/p/image-3ef4faa9b77d81709824e140646259a3",
+  "pronunciation": [
+    "2音節で、第1音節に主強勢を置く。第1・第2音節の母音はいずれも短い /ɪ/ で、日本語の「イメージ」のように後半を長く伸ばさない。名詞と動詞で発音は同じ。複数形・三人称単数形 images は /ˈɪm.ɪ.dʒɪz/、過去形・過去分詞 imaged は /ˈɪm.ɪdʒd/、現在分詞 imaging は /ˈɪm.ɪ.dʒɪŋ/。"
+  ],
+  "etymology": [
+    "フランス語を経てラテン語 imago「姿、像、似せたもの」に由来する。目に見える像だけでなく、頭に思い描く像や、人について社会に伝わる印象にも広がった。ラテン語 imago に由来する imagine「想像する」、imagination「想像力」と同じ系統で、imitate「まねる」とも語源的に関係する。"
+  ],
+  "formation": [
+    {
+      "term": "imagery〈名詞・主に不可算〉一群の視覚的表現、または文学作品の感覚に訴える描写・比喩。個々の",
+      "description": "image を集合的に扱う。"
+    },
+    {
+      "term": "imaging〈名詞・不可算〉画像化、画像を作る技術・工程。medical",
+      "description": "imaging は医用画像を得ること。動詞 image の現在分詞でもある。"
+    },
+    {
+      "term": "imager〈名詞〉画像を作る装置。thermal",
+      "description": "imager は熱画像装置。"
+    },
+    {
+      "term": "self-image〈名詞〉自分について抱く像・自己認識。body",
+      "description": "image は自分の身体についての捉え方。"
+    },
+    {
+      "term": "image-based〈形容詞〉画像に基づく。image-based",
+      "description": "search は画像を利用した検索。"
+    },
+    {
+      "term": "reimage〈他動詞・情報技術〉コンピューターなどにシステムイメージを再適用する。何を再作成・再適用するかは技術的な文脈で確認する。",
+      "description": ""
+    }
+  ],
+  "core": [
+    {
+      "label": "対象そのものとは別に、目・心・表現・データなどに現れる「対応する像」。実物そっくりである必要はなく、受け取られ方や、別の形での表し方まで含む。数学でも写像による対応先という点はつながるが、集合としての厳密な意味は語義8で区別する。",
+      "description": ""
+    },
+    {
+      "label": "対象を視覚的に表した像",
+      "description": "→ 「画像、映像、像」（語義1）"
+    },
+    {
+      "label": "対象を社会が受け取る像",
+      "description": "→ 「世間の印象、対外的なイメージ」（語義2）"
+    },
+    {
+      "label": "対象を心に思い浮かべる像",
+      "description": "→ 「心に浮かぶ像、心象」（語義3）"
+    },
+    {
+      "label": "対象を別の人や物に見る像",
+      "description": "→ 「生き写し、そっくりな姿、体現」（語義4）"
+    },
+    {
+      "label": "対象を言葉で感じさせる像",
+      "description": "→ 「詩的なイメージ、感覚的・比喩的表現」（語義5）"
+    },
+    {
+      "label": "対象を保存用データにした像",
+      "description": "→ 「ディスクイメージ、システムイメージ」（語義6）"
+    },
+    {
+      "label": "対象を画像として作ること",
+      "description": "→ 「画像化する、撮像する」（語義7）"
+    },
+    {
+      "label": "対象を写像の対応先に移した像",
+      "description": "→ 「写像の像」（語義8）"
+    },
+    {
+      "label": "対象をイメージデータにすること",
+      "description": "→ 「ディスクなどのイメージを作成する」（語義9）"
+    },
+    {
+      "label": "対象を保存した像に合わせて構成すること",
+      "description": "→ 「端末にシステムイメージを適用する」（語義10）"
+    },
+    {
+      "label": "対象を言葉などで表すこと",
+      "description": "→ 「描き出す、表現する」（語義11）"
+    },
+    {
+      "label": "対象を心の中に描くこと",
+      "description": "→ 「思い描く」（語義12）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算】画像、映像、像",
+      "frequency": 8,
+      "register": [
+        "一般、写真、映像、画像技術"
+      ],
+      "definition": "写真・絵・彫像・画面表示など、対象を目に見える形で表したもの。また、鏡・水面・レンズなどを通して見える像。静止画だけでなく動く映像にも使うが、必ずしも動画ファイル一本を意味しない。",
+      "patterns": [
+        "an image of someone/something＝人・物を表す画像や像",
+        "an image on 〈a screen/a page〉＝画面・ページ上の画像",
+        "images from 〈a camera/a satellite〉＝カメラ・衛星から得た画像",
+        "a 〈digital/high-resolution〉 image＝デジタル画像・高解像度画像",
+        "capture an image＝画像を捉える",
+        "a mirror image of something＝鏡に映した像・左右が反転した像",
+        "a religious image＝宗教的な像・図像"
+      ],
+      "collocations": [
+        {
+          "pattern": "an image of something",
+          "use": "何が写っているかを述べる。",
+          "example": "The cover shows an image of a mountain at sunset.",
+          "translation": "表紙には夕日に染まる山の画像が載っている。"
+        },
+        {
+          "pattern": "an image on a screen",
+          "use": "表示される視覚情報を指す。",
+          "example": "An image of the entrance appeared on the screen.",
+          "translation": "入口の映像が画面に現れた。"
+        },
+        {
+          "pattern": "images from a satellite",
+          "use": "観測画像の出所を示す。",
+          "example": "Images from the satellite show clouds over the island.",
+          "translation": "衛星からの画像には、島を覆う雲が写っている。"
+        },
+        {
+          "pattern": "a high-resolution image",
+          "use": "画像の細かさを表す。",
+          "example": "Please send a high-resolution image for the poster.",
+          "translation": "ポスター用に高解像度の画像を送ってください。"
+        },
+        {
+          "pattern": "capture an image",
+          "use": "カメラなどが画像を記録することを述べる。",
+          "example": "The camera captured a sharp image of the bird in flight.",
+          "translation": "カメラは飛んでいる鳥を鮮明な画像に捉えた。"
+        },
+        {
+          "pattern": "a mirror image of something",
+          "use": "左右が反転した対応を示す。",
+          "example": "The printed design is a mirror image of the original.",
+          "translation": "印刷された図案は、元の図案を左右反転したものだ。"
+        },
+        {
+          "pattern": "a religious image",
+          "use": "宗教上の人物・対象の絵や像を指す。",
+          "example": "A carved religious image stood beside the altar.",
+          "translation": "祭壇の横に、彫刻された宗教像が立っていた。"
+        }
+      ],
+      "notes": [
+        "数える場合は an image / two images。image quality の image は前置修飾する名詞なので単数形が基本。写真なら photo / photograph、日常的な「絵・写真」なら picture も使う。image はこれらを広くまとめ、鏡像や医用画像にも使える。a graven image は彫られた偶像を指す宗教的・文語的表現。語義6の disk image は通常、目で見る絵そのものではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "picture",
+          "definition": "絵・写真などの視覚的な表現。",
+          "frequency": 9,
+          "difference": "日常語として広く使う。image はデジタル処理・医療・光学などでも使われ、picture より技術的に響く場合がある。",
+          "example": "There is a picture of a fox on the wall.",
+          "translation": "壁にキツネの絵が掛かっている。"
+        },
+        {
+          "word": "photograph",
+          "definition": "カメラで撮影して得た写真。",
+          "frequency": 8,
+          "difference": "撮影によって作られた画像に限定する。image は絵や合成画像にも使える。",
+          "example": "The archive contains photographs of the old bridge.",
+          "translation": "その資料庫には昔の橋の写真が収められている。"
+        },
+        {
+          "word": "reflection",
+          "definition": "鏡や水面などに映った姿。",
+          "frequency": 7,
+          "difference": "反射によってできる像に焦点を絞る。すべての image が reflection なのではない。",
+          "example": "I could see my reflection in the window.",
+          "translation": "窓に自分の姿が映っていた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算／不可算】世間の印象、対外的なイメージ",
+      "frequency": 8,
+      "register": [
+        "一般、広報、ビジネス、報道"
+      ],
+      "definition": "人・企業・商品・場所などについて、人々が抱く全体的な印象。意図的に演出されたものにも、自然に形成されたものにも使い、実態と一致するとは限らない。個別の印象は可算的、見せ方や評判を重視すること一般は不可算的に扱う。",
+      "patterns": [
+        "someone's public image＝世間から見たその人の印象",
+        "an image as 〈a leader/an expert〉＝指導者・専門家としてのイメージ",
+        "project an image of 〈confidence/stability〉＝自信・安定感のある印象を打ち出す",
+        "improve/damage someone's image＝印象を改善する・損なう",
+        "have a 〈positive/negative〉 image＝好意的・否定的な印象を持たれている",
+        "image over substance＝実質よりも見た目・印象"
+      ],
+      "collocations": [
+        {
+          "pattern": "someone's public image",
+          "use": "公に知られる人物像を指す。",
+          "example": "Her public image changed after the televised debate.",
+          "translation": "テレビ討論の後、彼女に対する世間の印象が変わった。"
+        },
+        {
+          "pattern": "an image as a leader",
+          "use": "社会的な役割についての印象を示す。",
+          "example": "He has cultivated an image as a decisive leader.",
+          "translation": "彼は決断力のある指導者というイメージを築いてきた。"
+        },
+        {
+          "pattern": "project an image of confidence",
+          "use": "相手に伝わる印象を意識して作る。",
+          "example": "The team wanted to project an image of confidence.",
+          "translation": "そのチームは自信のある印象を打ち出したいと考えていた。"
+        },
+        {
+          "pattern": "damage someone's image",
+          "use": "出来事が対外的な印象を悪くすることを述べる。",
+          "example": "The misleading advertisement damaged the company's image.",
+          "translation": "その誤解を招く広告は、会社のイメージを損なった。"
+        },
+        {
+          "pattern": "have a positive image",
+          "use": "好ましい印象を持たれていることを述べる。",
+          "example": "The charity has a positive image among local residents.",
+          "translation": "その慈善団体は地元住民から好意的に見られている。"
+        },
+        {
+          "pattern": "image over substance",
+          "use": "見せ方ばかりを重視する姿勢を批判する。",
+          "example": "The campaign put image over substance.",
+          "translation": "その選挙運動は中身よりイメージを優先した。"
+        }
+      ],
+      "notes": [
+        "an image as an expert の as は「専門家として」、an image of expertise の of は「専門性という印象」。an image of the expert は語義1なら専門家の画像、語義3ならその専門家についての心象にもなる。Image matters. の image は不可算。「イメージアップする」は improve one's image とし、image up を一般的な英語の動詞として使わない。reputation は特に過去の行動に基づく評価に重点があり、image と常に一致しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "reputation",
+          "definition": "人や組織について世間に定着した評価・評判。",
+          "frequency": 8,
+          "difference": "行動・実績を通して蓄積した評価に重点がある。image は広告や見せ方で作られた印象も強く含む。",
+          "example": "The restaurant has a reputation for friendly service.",
+          "translation": "そのレストランは親切な接客で評判がよい。"
+        },
+        {
+          "word": "impression",
+          "definition": "人や物に接して受ける印象。",
+          "frequency": 8,
+          "difference": "個人が一度の接触で得た印象にも広く使う。image は継続的・対外的な全体像を指しやすい。",
+          "example": "Her calm reply made a good impression on the panel.",
+          "translation": "彼女の落ち着いた返答は審査員たちに好印象を与えた。"
+        },
+        {
+          "word": "persona",
+          "definition": "他人に向けて見せる人物像や役柄。",
+          "frequency": 5,
+          "difference": "特に個人の公的な顔・演出された性格に重点がある。image は企業や商品にも広く使える。",
+          "example": "His cheerful stage persona concealed his shyness.",
+          "translation": "舞台での陽気な人物像の陰に、彼の内気さが隠れていた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算】心に浮かぶ像、心象",
+      "frequency": 7,
+      "register": [
+        "一般、心理、描写"
+      ],
+      "definition": "見ていない物事を頭に思い浮かべた姿や、ある人・物がどのようなものかについての心の中の像。記憶にも想像にも使い、実際の写真や正確な知識である必要はない。",
+      "patterns": [
+        "a mental image of someone/something＝人・物についての心像",
+        "an image of what someone/something is like＝どのような人・物かという像",
+        "an image of someone doing something＝その人が何かをしている姿",
+        "conjure up images of something＝あるもののイメージを呼び起こす",
+        "get an image out of one's head＝頭の中から像を追い払う"
+      ],
+      "collocations": [
+        {
+          "pattern": "a mental image of something",
+          "use": "頭の中で想像する姿を述べる。",
+          "example": "I formed a mental image of the room from her description.",
+          "translation": "彼女の説明を聞いて、その部屋の様子を頭に思い描いた。"
+        },
+        {
+          "pattern": "an image of what someone is like",
+          "use": "性格や人物像についての想像を述べる。",
+          "example": "His letters gave me an image of what he was like.",
+          "translation": "彼の手紙から、どんな人なのかが思い浮かんだ。"
+        },
+        {
+          "pattern": "an image of someone doing something",
+          "use": "記憶や想像の中の具体的な場面を述べる。",
+          "example": "I still have an image of my grandfather working in his garden.",
+          "translation": "祖父が庭仕事をしている姿が、今も私の心に残っている。"
+        },
+        {
+          "pattern": "conjure up images of something",
+          "use": "言葉や音などが情景を連想させることを述べる。",
+          "example": "The music conjures up images of a crowded summer market.",
+          "translation": "その音楽は、にぎわう夏の市場の情景を思い起こさせる。"
+        },
+        {
+          "pattern": "get an image out of one's head",
+          "use": "印象的な像が頭から離れないことなどを述べる。",
+          "example": "I couldn't get the image of the empty house out of my head.",
+          "translation": "あの空っぽの家の光景が頭から離れなかった。"
+        }
+      ],
+      "notes": [
+        "この意味は基本的に可算で、I have an image of it. とする。「頭に浮かべる」は imagine / picture / visualize を使うのが一般的で、日常会話で名詞 image をそのまま頻繁に動詞化しない。語義12の動詞 image は実在するが、文語・専門的な響きがある。self-image / body image は自己や身体についての捉え方で、単なる自撮り写真に限らない。"
+      ],
+      "synonyms": [
+        {
+          "word": "mental picture",
+          "definition": "頭の中に浮かべる人物・物・場面の姿。",
+          "frequency": 7,
+          "difference": "image と近いが、mental によって実物の写真でないことが明確になる。",
+          "example": "Try to form a mental picture of the route.",
+          "translation": "道順を頭の中に思い描いてみてください。"
+        },
+        {
+          "word": "impression",
+          "definition": "人・物について受け取った感覚的な理解や印象。",
+          "frequency": 8,
+          "difference": "はっきりした視覚的な姿でなくてもよい。image は心に表象される像を意識させやすい。",
+          "example": "I had the impression that she wanted to leave.",
+          "translation": "彼女は帰りたがっているように感じた。"
+        },
+        {
+          "word": "vision",
+          "definition": "心に鮮明に浮かぶ光景や、将来の姿。",
+          "frequency": 6,
+          "difference": "理想・未来・強い想像を含みやすい。image は日常の記憶や断片的な像にも使う。",
+          "example": "He described his vision of a greener city.",
+          "translation": "彼はもっと緑豊かな都市の構想を語った。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・主に単数】生き写し、そっくりな姿、体現",
+      "frequency": 5,
+      "register": [
+        "一般、慣用表現、文章"
+      ],
+      "definition": "ある人・物の外見によく似た人や姿、または性質・理想をはっきり体現するもの。be the image of で「～にそっくり」、in someone's image で「その人をかたどって・その人のあり方にならって」を表す。",
+      "patterns": [
+        "be the image of someone＝人にそっくりである",
+        "be the spitting image of someone＝人に瓜二つである",
+        "make something in one's own image＝自分のあり方を写すように作る",
+        "be the image of 〈health/respectability〉＝健康・品行方正そのものに見える"
+      ],
+      "collocations": [
+        {
+          "pattern": "be the image of someone",
+          "use": "外見の強い類似を述べる。",
+          "example": "In that old photograph, she is the image of her sister.",
+          "translation": "その古い写真の彼女は、姉にそっくりだ。"
+        },
+        {
+          "pattern": "be the spitting image of someone",
+          "use": "瓜二つであることを口語的に強調する。",
+          "example": "With that haircut, he is the spitting image of his father.",
+          "translation": "その髪型だと、彼は父親に瓜二つだ。"
+        },
+        {
+          "pattern": "make something in one's own image",
+          "use": "人が制度や集団に自分の性質を反映させることを述べる。",
+          "example": "The founder made the organization in her own image.",
+          "translation": "創設者は自分の考え方を色濃く反映した組織を作った。"
+        },
+        {
+          "pattern": "be the image of health",
+          "use": "健康そうな外見を際立たせる。",
+          "example": "After his holiday, he was the image of health.",
+          "translation": "休暇の後、彼はいかにも健康そのものという様子だった。"
+        }
+      ],
+      "notes": [
+        "この慣用形では the が重要で、He is image of his father. とはしない。the spitting image は「唾を吐いている写真」ではない。in the image of God は神の姿・あり方に似せてという宗教上の表現であり、必ずしも身体的な形だけに限定しない。the image of health は外見についての表現なので、検査による健康状態の断定とは別。"
+      ],
+      "synonyms": [
+        {
+          "word": "double",
+          "definition": "別の人と外見が非常によく似た人。",
+          "frequency": 5,
+          "difference": "人同士の見た目の類似に使う。image は健康など抽象的性質の体現にも使う。",
+          "example": "At first I thought I had met her double.",
+          "translation": "最初は彼女のそっくりさんに会ったのかと思った。"
+        },
+        {
+          "word": "likeness",
+          "definition": "人・物との外見上の類似、またはよく似せた表現。",
+          "frequency": 5,
+          "difference": "類似性や肖像を指すことが多く、the image of someone ほど直接「その人に瓜二つ」と言い切る形ではない。",
+          "example": "The portrait is a remarkable likeness of her.",
+          "translation": "その肖像画は彼女によく似ている。"
+        },
+        {
+          "word": "embodiment",
+          "definition": "ある性質・考えを具体的に体現する人や物。",
+          "frequency": 5,
+          "difference": "抽象的な性質の体現という部分で重なる。家族に顔が似ているだけの場合には通常使わない。",
+          "example": "For the team, she was the embodiment of patience.",
+          "translation": "チームにとって、彼女は忍耐の体現者だった。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞・可算】詩的なイメージ、感覚的・比喩的表現",
+      "frequency": 4,
+      "register": [
+        "文学、批評、文章表現"
+      ],
+      "definition": "言葉によって光景や感覚を鮮やかに思い起こさせる表現。文学では、比喩や象徴を通して物事を捉える表現にも使う。視覚だけでなく、音・匂い・触覚などに訴えるものもある。",
+      "patterns": [
+        "a poetic image＝詩的なイメージ表現",
+        "an image of something in a poem＝詩の中の感覚的な表現",
+        "use an image to do something＝イメージ表現を使って効果を出す",
+        "a recurring image＝繰り返し現れるイメージ表現"
+      ],
+      "collocations": [
+        {
+          "pattern": "a poetic image",
+          "use": "言葉が作る印象的な表現を指す。",
+          "example": "The phrase \"a river of stars\" is a striking poetic image.",
+          "translation": "「星の川」という句は、印象的な詩的表現だ。"
+        },
+        {
+          "pattern": "an image of something in a poem",
+          "use": "作品中の感覚に訴える描写を論じる。",
+          "example": "The image of sour smoke in the poem evokes both taste and smell.",
+          "translation": "その詩の酸っぱい煙という表現は、味と匂いの両方を呼び起こす。"
+        },
+        {
+          "pattern": "use an image to do something",
+          "use": "比喩的な像の働きを説明する。",
+          "example": "The poet uses the image of a locked door to suggest isolation.",
+          "translation": "詩人は、鍵の掛かった扉のイメージを用いて孤立を暗示している。"
+        },
+        {
+          "pattern": "a recurring image",
+          "use": "複数箇所に現れる象徴的な表現を述べる。",
+          "example": "A cracked mirror is a recurring image in the novel.",
+          "translation": "ひびの入った鏡は、その小説で繰り返されるイメージだ。"
+        }
+      ],
+      "notes": [
+        "一つ一つの表現は an image / images、作品全体のイメージ表現は不可算名詞 imagery でまとめる。image は必ず metaphor「隠喩」だけを意味するわけではない。語義3が読者の心に生じる像なら、この用法はそれを生む言語表現を指す。"
+      ],
+      "synonyms": [
+        {
+          "word": "metaphor",
+          "definition": "ある物事を別の物事に直接重ねて表す隠喩。",
+          "frequency": 6,
+          "difference": "image の一種となり得るが、直喩や文字どおりの感覚描写をすべて metaphor と呼ぶわけではない。",
+          "example": "The poem uses winter as a metaphor for old age.",
+          "translation": "その詩は冬を老年の隠喩として使っている。"
+        },
+        {
+          "word": "imagery",
+          "definition": "感覚に訴える描写やイメージ表現の総体。",
+          "frequency": 5,
+          "difference": "不可算で、個々の image を集合的に捉える。three imageries として個々の表現を数えない。",
+          "example": "The story is rich in imagery drawn from the sea.",
+          "translation": "その物語には、海に由来するイメージ表現が豊かに用いられている。"
+        },
+        {
+          "word": "symbol",
+          "definition": "別の考えや価値を表すもの。",
+          "frequency": 6,
+          "difference": "抽象的な意味を担うことに重点がある。image は感覚を喚起するだけで、固定した象徴的意味がない場合もある。",
+          "example": "The broken chain is a symbol of freedom.",
+          "translation": "切れた鎖は自由の象徴だ。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【名詞・可算】ディスクイメージ、システムイメージ",
+      "frequency": 4,
+      "register": [
+        "情報技術"
+      ],
+      "definition": "ディスク・ボリューム・システムなどの内容や構成を、保存・複製・配布・復元に使える形にまとめたデータ。方式により含む範囲や形式は異なり、必ず全物理セクターをそのまま複製するとは限らない。",
+      "patterns": [
+        "a disk image＝ディスクイメージ",
+        "an image of a drive＝ドライブのイメージデータ",
+        "create an image of something＝対象のイメージデータを作る",
+        "mount a disk image＝ディスクイメージを利用可能な状態に接続する",
+        "restore a system from an image＝イメージからシステムを復元する"
+      ],
+      "collocations": [
+        {
+          "pattern": "a disk image",
+          "use": "保存されたデータ形式を指す。",
+          "example": "The installer is distributed as a disk image.",
+          "translation": "そのインストーラーはディスクイメージの形で配布されている。"
+        },
+        {
+          "pattern": "create an image of a drive",
+          "use": "ドライブの内容をイメージとして保存する。",
+          "example": "Before replacing the drive, the technician created an image of it.",
+          "translation": "ドライブを交換する前に、技術者はそのイメージを作成した。"
+        },
+        {
+          "pattern": "mount a disk image",
+          "use": "仮想的なディスクとして開くことを述べる。",
+          "example": "Mount the disk image to view the files inside.",
+          "translation": "中のファイルを見るには、ディスクイメージをマウントしてください。"
+        },
+        {
+          "pattern": "restore a system from an image",
+          "use": "保存されたイメージを復元に使う。",
+          "example": "They restored the system from an image made the previous week.",
+          "translation": "彼らは前の週に作成したイメージからシステムを復元した。"
+        }
+      ],
+      "notes": [
+        "画像ファイルの image と、データ複製の image を取り違えない。a system image はシステムの状態を保存したもの、a screenshot は画面を撮った画像。バックアップのすべてが image 形式とは限らない。container image はアプリケーション実行に必要なファイルなどをまとめた配布単位で、これも写真の意味ではない。動詞としてイメージを作成する用法は語義9。"
+      ],
+      "synonyms": [
+        {
+          "word": "backup",
+          "definition": "元データの喪失などに備えて保存した予備のコピー。",
+          "frequency": 7,
+          "difference": "目的による呼び名で、個別ファイルのコピーも含む。image はデータのまとまり・形式に着目し、配布目的の場合もある。",
+          "example": "We recovered the files from a backup.",
+          "translation": "私たちはバックアップからファイルを復旧した。"
+        },
+        {
+          "word": "snapshot",
+          "definition": "特定の時点のシステムやデータの状態を記録したもの。",
+          "frequency": 5,
+          "difference": "時点を固定した状態という側面が中心。差分方式などもあり、独立した完全コピーとは限らない。",
+          "example": "The administrator took a snapshot before the update.",
+          "translation": "管理者は更新前にスナップショットを作成した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【動詞・他動詞】画像化する、撮像する",
+      "frequency": 5,
+      "register": [
+        "科学、医療、観測技術"
+      ],
+      "definition": "機器や技術を使って、物体・器官・領域などの画像を得る。カメラ撮影だけでなく、超音波や磁気共鳴などによる画像化も含む。目的語は画像を得る対象で、完成した画像そのものではない。",
+      "patterns": [
+        "image something＝対象を撮像する",
+        "image something with 〈a scanner/a microscope〉＝装置を使って撮像する",
+        "image something using 〈ultrasound/radar〉＝手法を使って撮像する",
+        "be imaged at 〈高解像度〉＝その解像度で撮像される"
+      ],
+      "collocations": [
+        {
+          "pattern": "image something",
+          "use": "画像を得る対象を目的語にする。",
+          "example": "The telescope can image distant galaxies.",
+          "translation": "その望遠鏡は遠方の銀河を撮像できる。"
+        },
+        {
+          "pattern": "image something with a microscope",
+          "use": "使用する装置を示す。",
+          "example": "The researchers imaged the surface with an electron microscope.",
+          "translation": "研究者たちは電子顕微鏡で表面を撮像した。"
+        },
+        {
+          "pattern": "image something using ultrasound",
+          "use": "画像化の方法を示す。",
+          "example": "The team imaged the heart using ultrasound.",
+          "translation": "チームは超音波を使って心臓の画像を得た。"
+        },
+        {
+          "pattern": "be imaged at high resolution",
+          "use": "受動態で撮像結果の条件を述べる。",
+          "example": "The samples were imaged at high resolution.",
+          "translation": "試料は高解像度で撮像された。"
+        }
+      ],
+      "notes": [
+        "image は規則動詞で、imaged / imaging。綴りの e は imaging で落ちる。imaged tissue「撮像された組織」の imaged は通常、動詞の過去分詞として理解でき、別の評価的形容詞ではない。日常の記念写真なら photograph / take a picture of が自然。image the disk は語義9のデータ複製にもなるため、対象と技術を読む。"
+      ],
+      "synonyms": [
+        {
+          "word": "photograph",
+          "definition": "写真を撮影する。",
+          "frequency": 7,
+          "difference": "光学的な撮影が中心。image は超音波・磁気共鳴など、通常の写真以外も含む。",
+          "example": "She photographed the specimen from several angles.",
+          "translation": "彼女は標本をいくつかの角度から撮影した。"
+        },
+        {
+          "word": "scan",
+          "definition": "装置で対象を調べ、画像やデータを得る。",
+          "frequency": 6,
+          "difference": "走査・検査という工程に重点がある。image は画像を得ることに重点を置く。",
+          "example": "The instrument scanned the sample line by line.",
+          "translation": "装置は試料を一列ずつ走査した。"
+        },
+        {
+          "word": "visualize",
+          "definition": "見えにくい構造やデータを見える形にする。",
+          "frequency": 5,
+          "difference": "既存データから図を作ることも含む。image は対象から画像を取得する場面でよく使う。",
+          "example": "The software visualizes the flow of air around the wing.",
+          "translation": "そのソフトウェアは翼の周囲の気流を可視化する。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【名詞・可算】写像の像",
+      "frequency": 3,
+      "register": [
+        "数学"
+      ],
+      "definition": "ある写像で、一つの入力に対応する出力、またはある入力集合に属する要素を写して得られる出力の集合。写像全体の image は、定義域全体から実際に得られる値の集合を指す。",
+      "patterns": [
+        "the image of 〈点〉 under 〈写像〉＝その写像による点の像",
+        "the image of 〈集合〉 under 〈写像〉＝その写像による集合の像",
+        "the image of a function＝関数の像",
+        "lie in the image of 〈写像〉＝その写像の像に属する"
+      ],
+      "collocations": [
+        {
+          "pattern": "the image of 〈点〉 under 〈写像〉",
+          "use": "一つの入力に対応する値を述べる。",
+          "example": "The image of 3 under the function f(x) = x + 1 is 4.",
+          "translation": "関数 f(x) = x + 1 による3の像は4である。"
+        },
+        {
+          "pattern": "the image of 〈集合〉 under 〈写像〉",
+          "use": "集合の全要素から得られる像を述べる。",
+          "example": "The image of the set \\{1, 2\\} under f(x) = x + 1 is \\{2, 3\\}.",
+          "translation": "関数 f(x) = x + 1 による集合 \\{1, 2\\} の像は \\{2, 3\\} である。"
+        },
+        {
+          "pattern": "the image of a function",
+          "use": "定義域全体から得られる値の集合を指す。",
+          "example": "For f(x) = x squared on the real numbers, the image is the set of nonnegative real numbers.",
+          "translation": "実数上の関数 f(x) = xの2乗では、像は非負の実数全体である。"
+        },
+        {
+          "pattern": "lie in the image of 〈写像〉",
+          "use": "実際に対応する入力が存在することを述べる。",
+          "example": "Every value in this list lies in the image of f.",
+          "translation": "この一覧の値はすべて f の像に属する。"
+        }
+      ],
+      "notes": [
+        "codomain「終域」は出力先として指定した集合で、image は実際に到達する部分なので、必ず一致するわけではない。range は image の意味で広く使うが、資料によって用語の範囲に差がある。preimage / inverse image はある値や集合へ写る入力側を指す対照概念であり、日常語の「反対の画像」ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "range",
+          "definition": "関数が実際に取る値の集合。",
+          "frequency": 4,
+          "difference": "この意味では定義域全体の image と同じ。点一つの image や、定義域の一部分だけの image とは区別する。",
+          "example": "The range of the function contains no negative numbers.",
+          "translation": "その関数の値域には負の数が含まれない。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 9,
+      "title": "【動詞・他動詞】ディスクなどのイメージを作成する",
+      "frequency": 3,
+      "register": [
+        "情報技術"
+      ],
+      "definition": "ドライブなどの内容をイメージデータとして取得・複製する。画像として写真を撮ることではなく、保存・展開・解析などのためのデータ処理を指す。",
+      "patterns": [
+        "image a drive＝ドライブのイメージを作成する",
+        "image a disk to 〈保存先〉＝保存先にディスクイメージを作成する",
+        "be imaged before something＝ある作業前にイメージを取得される"
+      ],
+      "collocations": [
+        {
+          "pattern": "image a drive",
+          "use": "内容を保存する作業を述べる。",
+          "example": "The technician imaged the old drive before removing it.",
+          "translation": "技術者は古いドライブを取り外す前に、そのイメージを作成した。"
+        },
+        {
+          "pattern": "image a disk to 〈保存先〉",
+          "use": "作成したデータの保存先を示す。",
+          "example": "We imaged the disk to an external drive.",
+          "translation": "私たちはディスクのイメージを外付けドライブに保存した。"
+        },
+        {
+          "pattern": "be imaged before something",
+          "use": "作業順序を受動態で述べる。",
+          "example": "Each drive was imaged before the analysis began.",
+          "translation": "解析が始まる前に、各ドライブのイメージが作成された。"
+        }
+      ],
+      "notes": [
+        "名詞 a disk image は語義6、動詞 image a disk はそのデータを作る行為。語義10の image a computer with a system image は既存イメージを適用する用法で、目的語が適用先になる。ここでは目的語が取得元になるため、前後の手順で向きを区別する。常に物理セクターの完全複製と決めつけない。"
+      ],
+      "synonyms": [
+        {
+          "word": "clone",
+          "definition": "データやシステムを複製する。",
+          "frequency": 5,
+          "difference": "同じ構成を別の媒体などへ再現することを強調する。image は保存用のイメージデータを作る場合にも使う。",
+          "example": "They cloned the drive onto a spare disk.",
+          "translation": "彼らは予備のディスクにドライブを複製した。"
+        },
+        {
+          "word": "back up",
+          "definition": "復旧に備えてデータの予備コピーを保存する。",
+          "frequency": 7,
+          "difference": "目的が予備保存であることを示す。個別ファイルだけの保存も含み、image より広い。",
+          "example": "Back up your files before changing the settings.",
+          "translation": "設定を変える前にファイルをバックアップしてください。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 10,
+      "title": "【動詞・他動詞】端末にシステムイメージを適用する",
+      "frequency": 4,
+      "register": [
+        "情報技術、端末の設定・展開"
+      ],
+      "definition": "既存のシステムイメージをコンピューターなどに適用し、OSやソフトウェアの構成を展開する。目的語は、イメージを取得する元ではなく、適用を受ける端末。",
+      "patterns": [
+        "image a computer＝端末へイメージを展開する",
+        "image a computer with 〈システムイメージ〉＝そのイメージを端末に適用する",
+        "image computers using 〈展開ツール〉＝そのツールで端末へイメージを展開する",
+        "be imaged with 〈システムイメージ〉＝そのイメージを適用される"
+      ],
+      "collocations": [
+        {
+          "pattern": "image a computer",
+          "use": "新しい端末に標準環境を展開することを述べる。",
+          "example": "The IT team imaged the new computers before delivering them to staff.",
+          "translation": "IT担当チームは新しいコンピューターにシステムイメージを適用してから、職員に渡した。"
+        },
+        {
+          "pattern": "image a computer with 〈システムイメージ〉",
+          "use": "適用するイメージを示す。",
+          "example": "The technicians imaged the laptops with the standard system image.",
+          "translation": "技術者たちはノートパソコンに標準のシステムイメージを適用した。"
+        },
+        {
+          "pattern": "image computers using 〈展開ツール〉",
+          "use": "展開に使うツールを示す。",
+          "example": "They imaged the classroom computers using a network deployment tool.",
+          "translation": "彼らはネットワーク展開ツールを使って教室のコンピューターにイメージを適用した。"
+        },
+        {
+          "pattern": "be imaged with 〈システムイメージ〉",
+          "use": "設定を受ける端末を受動態の主語にする。",
+          "example": "Each laptop was imaged with the approved operating-system image.",
+          "translation": "各ノートパソコンに、承認済みのOSイメージが適用された。"
+        }
+      ],
+      "notes": [
+        "語義9の image a drive to an external drive は元の内容を取得・保存する向きで、この用法の image a laptop with a system image は保存済みの構成を端末へ適用する向き。動詞だけでは区別できない場合があるので、with で示す適用内容や、capture / deploy など周辺の語を見る。reimage はイメージを再適用して構成し直すことにも使う。適用範囲や既存データへの影響はツール・設定により異なり、単なる写真撮影ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "deploy",
+          "definition": "ソフトウェアやシステム構成を、実際に使う環境へ展開する。",
+          "frequency": 6,
+          "difference": "イメージ方式以外の配布・展開も含む。image はシステムイメージを使った端末の構成を指す。",
+          "example": "The team deployed the new system to all office computers.",
+          "translation": "チームは新しいシステムを社内の全コンピューターに展開した。"
+        },
+        {
+          "word": "install",
+          "definition": "ソフトウェアを機器に組み込み、利用できる状態にする。",
+          "frequency": 8,
+          "difference": "個別アプリの導入にも使える。image は保存済みのシステム構成をまとめて適用する場合に使う。",
+          "example": "The technician installed the required software on the laptop.",
+          "translation": "技術者は必要なソフトウェアをノートパソコンにインストールした。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 11,
+      "title": "【動詞・他動詞】描き出す、表現する",
+      "frequency": 2,
+      "register": [
+        "文語、文学・批評"
+      ],
+      "definition": "言葉・絵・象徴などによって、対象の姿やあり方を鮮明に表す。現代の日常会話では一般的な動詞ではなく、文学・批評などで見られる。",
+      "patterns": [
+        "image something as something＝対象をある姿として描く",
+        "image something in 〈words/a painting〉＝言葉・絵の中に対象を描く",
+        "be imaged as something＝ある姿として表される"
+      ],
+      "collocations": [
+        {
+          "pattern": "image something as something",
+          "use": "作品中の描き方を論じる。",
+          "example": "The poem images the city as a sleeping animal.",
+          "translation": "その詩は都市を、眠る動物として描いている。"
+        },
+        {
+          "pattern": "image something in words",
+          "use": "言語による鮮明な描写を述べる。",
+          "example": "The passage images the desolate coast in spare, precise words.",
+          "translation": "その一節は、寂しい海岸を簡潔で的確な言葉で描き出している。"
+        },
+        {
+          "pattern": "be imaged as something",
+          "use": "表象される側を主語にする。",
+          "example": "In the mural, wisdom is imaged as a woman holding a lamp.",
+          "translation": "その壁画では、知恵がランプを持つ女性の姿で表されている。"
+        }
+      ],
+      "notes": [
+        "普通の説明なら depict / portray / represent が一般的。「企業の印象を良くする」という意味の image up と混同しない。image something in words は他者に示す表現、語義12の image something in one's mind は心の中で思い浮かべる行為。"
+      ],
+      "synonyms": [
+        {
+          "word": "depict",
+          "definition": "絵や言葉で人・物・場面を描写する。",
+          "frequency": 6,
+          "difference": "image より広く使われる。特に絵や描写内容を客観的に述べやすい。",
+          "example": "The mural depicts workers returning home.",
+          "translation": "その壁画は家路につく労働者たちを描いている。"
+        },
+        {
+          "word": "portray",
+          "definition": "人・物を特定の性質や姿を持つものとして描く。",
+          "frequency": 7,
+          "difference": "どのような人物像・印象を与えるかに重点がある。image はより文語的。",
+          "example": "The film portrays the mayor as indecisive.",
+          "translation": "その映画は市長を優柔不断な人物として描いている。"
+        },
+        {
+          "word": "represent",
+          "definition": "何かを別の形・記号・姿で表す。",
+          "frequency": 7,
+          "difference": "象徴や図式による対応も広く含む。image ほど鮮明な像を感じさせない場合もある。",
+          "example": "The blue line represents the river.",
+          "translation": "青い線は川を表している。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 12,
+      "title": "【動詞・他動詞】思い描く",
+      "frequency": 2,
+      "register": [
+        "文語、心理的な描写"
+      ],
+      "definition": "人・物・場面の姿を心の中に作る。image oneself as ... のように、自分をある立場・姿で想像することもある。日常的な imagine より文語的・心理学的な響きがある。",
+      "patterns": [
+        "image something in one's mind＝頭の中で思い描く",
+        "image oneself as something＝自分をある姿で思い描く",
+        "image oneself doing something＝何かをしている自分を思い描く"
+      ],
+      "collocations": [
+        {
+          "pattern": "image something in one's mind",
+          "use": "心に像を浮かべることを述べる。",
+          "example": "She closed her eyes and imaged the garden in her mind.",
+          "translation": "彼女は目を閉じ、庭の様子を心に思い描いた。"
+        },
+        {
+          "pattern": "image oneself as something",
+          "use": "自分を別の立場に置いて想像する。",
+          "example": "He imaged himself as the captain of a small ship.",
+          "translation": "彼は小さな船の船長になった自分を思い描いた。"
+        },
+        {
+          "pattern": "image oneself doing something",
+          "use": "自分が行動する場面を想像する。",
+          "example": "She imaged herself walking onto the stage.",
+          "translation": "彼女は舞台に歩み出る自分の姿を思い描いた。"
+        }
+      ],
+      "notes": [
+        "想像する主体自身を目的語にする場合は I image myself ... / She images herself ... のように再帰代名詞を使う。別の人を想像する image him as a captain では普通の代名詞になる。日常の「想像する」全体を image で置き換えず、特に I imagine that ...「たぶん～だと思う」には通常 imagine を使う。"
+      ],
+      "synonyms": [
+        {
+          "word": "imagine",
+          "definition": "現実には目の前にない人・物・状況を心に思い浮かべる。",
+          "frequency": 9,
+          "difference": "最も一般的で、視覚的な像に限らず仮定・推測にも使える。image は像を思い浮かべる用法に寄り、使用域が狭い。",
+          "example": "Imagine yourself living beside the sea.",
+          "translation": "海辺で暮らす自分を想像してみてください。"
+        },
+        {
+          "word": "picture",
+          "definition": "人・物・場面を頭に描く。",
+          "frequency": 7,
+          "difference": "日常的に使える、視覚的な想像を強調した表現。文語的な image の代わりとして自然。",
+          "example": "I pictured him waiting outside the station.",
+          "translation": "私は彼が駅の外で待っている姿を思い浮かべた。"
+        },
+        {
+          "word": "visualize",
+          "definition": "姿や手順を明確な像として心に描く。",
+          "frequency": 6,
+          "difference": "意識的に鮮明に想像することを強調する。練習・計画などにも使う。",
+          "example": "She visualized each step of the performance.",
+          "translation": "彼女は演技の一つ一つの動きを頭に思い描いた。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
