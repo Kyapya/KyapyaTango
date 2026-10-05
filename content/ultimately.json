@@ -3,7 +3,7 @@
   "slug": "ultimately",
   "ipa": "米: /ˈʌl.tə.mət.li/｜英: /ˈʌl.tɪ.mət.li/",
   "lead": "いくつかの出来事・試み・段階を経た先の結果や到達点を述べる。過去に実現した結末にも、将来の見通し・目標にも使える。長い過程を連想させやすいが、長期間、困難、成功、望ましい結果を必ず意味するわけではない。",
-  "updated": "2026-10-03",
+  "updated": "2026-10-05",
   "notion_url": "https://app.notion.com/p/ultimately-3ee4faa9b77d81fbba45e5ce002ffaed",
   "pronunciation": [
     "4音節で、第1音節 /ʌl/ に強勢がある。ここに示した米英差は第2音節の母音だけで、米は /ə/、英は /ɪ/。第3音節は両方とも /mət/、第4音節は /li/ である。",
@@ -38,7 +38,8 @@
         "Ultimately, 〈節〉＝最終的な結果を文全体として述べる",
         "〈主語〉 + ultimately + 〈一般動詞〉＝その動作・変化が最後に起こる",
         "〈主語〉 + 〈助動詞・完了の have〉 + ultimately + 〈動詞句〉＝予測・完了などの中で結果を示す",
-        "〈主語〉 + be + ultimately + 〈形容詞・過去分詞〉＝最終的な状態・結果を示す。原則として程度を持たず、very ultimately や more ultimately は通常用いない。"
+        "〈主語〉 + be + ultimately + 〈形容詞・過去分詞〉＝最終的な状態・結果を示す",
+        "an ultimately 〈形容詞〉 + 〈単数名詞〉＝名詞句の内部で形容詞を修飾し、最終的な評価・結果を示す。原則として程度を持たず、very ultimately や more ultimately は通常用いない。"
       ],
       "collocations": [
         {
@@ -70,6 +71,12 @@
           "use": "途中経過とは区別して、最終的な成否を評価する。",
           "example": "Her appeal was ultimately unsuccessful, although the first hearing seemed promising.",
           "translation": "最初の審理では見込みがありそうだったが、彼女の不服申し立ては最終的には認められなかった。"
+        },
+        {
+          "pattern": "an ultimately unsuccessful 〈attempt/campaign〉",
+          "use": "名詞句の内部で形容詞を修飾し、試みなどが最終的に失敗したと述べる。",
+          "example": "They made an ultimately unsuccessful attempt to save the historic theater.",
+          "translation": "彼らは歴史ある劇場を存続させようと試みたが、最終的には成功しなかった。"
         },
         {
           "pattern": "Ultimately, 〈節〉",
@@ -144,9 +151,9 @@
       "register": [
         "一般語。議論、説明、組織の責任関係、原因や語源の説明に多い。"
       ],
-      "definition": "途中の事情・間接的な関係・表面的な説明を越えて、最も基本的な要因、決定権、責任、起源などに焦点を当てる。「最後まで考えると」という判断や関係の深さを表し、出来事が時間の上で最後に起こるとは限らない。",
+      "definition": "最も基本的な要因、決定権、責任、起源などに焦点を当てるほか、状況や議論の中で最も重要な点を強調する。「突き詰めれば」「結局、大事なのは」という判断を示し、出来事が時間の上で最後に起こるとは限らない。深い原因分析を必ず伴うわけではない。",
       "patterns": [
-        "Ultimately, 〈節〉＝本質的な判断を示す文副詞",
+        "Ultimately, 〈節〉＝本質的な判断や最も重要な点を示す文副詞",
         "be ultimately responsible for 〈対象〉＝最終責任を負う",
         "ultimately depend on 〈要因〉＝根本的に左右される",
         "be ultimately up to someone＝最終判断はその人にある",
@@ -185,13 +192,13 @@
         },
         {
           "pattern": "Ultimately, what matters is 〈重要なもの〉",
-          "use": "周辺の論点を整理し、本質的に大事なことを述べる。",
+          "use": "その状況で最も重要な点や、議論の核心を強調する。",
           "example": "Ultimately, what matters is whether people can use the service safely.",
-          "translation": "突き詰めれば、大事なのは人々がそのサービスを安全に使えるかどうかだ。"
+          "translation": "結局のところ、大事なのは人々がそのサービスを安全に使えるかどうかだ。"
         }
       ],
       "notes": [
-        "語義1との違いは語順だけでは決まらない。She will ultimately decide. なら「最後には彼女が決める」という時間的解釈が可能だが、The decision is ultimately hers. は、現在の権限関係についても「最終的な決定権は彼女にある」と言える。",
+        "語義1との違いは語順だけでは決まらず、文脈によって二つの意味が重なることもある。She will ultimately decide. なら「最後には彼女が決める」という時間的解釈が可能だが、The decision is ultimately hers. は、現在の権限関係についても「最終的な決定権は彼女にある」と言える。",
         "ultimately from Latin は「後になってラテン語から来る」ではなく「起源をさかのぼるとラテン語」である。directly from Latin「直接ラテン語から」とは異なり、中間の言語を経由している可能性を残す。ただし ultimately 自体が特定の経由言語の存在を必ず断定するわけではない。",
         "文頭に置いて結論を導くことはできるが、because や although のような従属接続詞ではない。二つの独立した文をコンマと ultimately だけでつなぐのではなく、文を分けるなどして文構造を整える。",
         "ultimate の「最高の」から類推して、ultimately を「ものすごく」「完璧に」の意味にはしない。an ultimately useful tool で「最高に便利な道具」を表そうとせず、an extremely useful tool などを使う。ultimately useful なら通常「結果的に役立つ」という語義1の意味になる。"
@@ -227,7 +234,7 @@
           "frequency": 7,
           "difference": "この慣用義では口語的で、議論の結論を強調する。ultimately より定型的な言い回しで、文字どおり「一日の終わりに」という別の読みもある。",
           "example": "At the end of the day, we need a solution that everyone can afford.",
-          "translation": "結局のところ、誰にでも負担できる解決策が必要だ。"
+          "translation": "結局のところ、誰にとっても費用面で無理のない解決策が必要だ。"
         }
       ],
       "antonyms": []
