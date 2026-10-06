@@ -3,7 +3,7 @@
   "slug": "impose",
   "ipa": "米: /ɪmˈpoʊz/｜英: /ɪmˈpəʊz/",
   "lead": "権限を持つ人・組織などが、税・罰・規則・禁止・条件などを定め、対象となる人や物に適用する。受ける側が自由に選ぶというより、従うべきものとして与えることに焦点がある。厳しい措置に使いやすいが、不当・違法・過酷であることは必須ではない。",
-  "updated": "2026-10-03",
+  "updated": "2026-10-06",
   "notion_url": "https://app.notion.com/p/impose-3ee4faa9b77d81eba415f78ee8de90cf",
   "pronunciation": [
     "2音節で、第2音節に主強勢を置く。米英差は第2音節の二重母音で、米音では /oʊ/、英音では /əʊ/。語末は /z/ で、/s/ ではない。imposed の語尾は /zd/、imposes の語尾は /zɪz/ になる。"
@@ -26,7 +26,7 @@
     },
     {
       "term": "imposing",
-      "description": "現在分詞のほか、「堂々とした、威容のある」という形容詞にもなる。形容詞用法は語義6で扱う。"
+      "description": "現在分詞のほか、「堂々とした、威容のある」という形容詞にもなる。impose 自体の形容詞義ではなく、関連形容詞として語義6で扱う。"
     },
     {
       "term": "imposingly",
@@ -35,12 +35,12 @@
   ],
   "core": [
     {
-      "label": "相手・対象に何かを受け入れさせる、または強い印象を与える。規則・負担・考え・自分の存在を及ぼす用法、迫力によって注意を引く用法、偽りを信じ込ませる用法につながる。語義7・8は「物を所定の場所に置く」という歴史的な意味が印刷と宗教儀礼に残った専門義で、この現代の核から語彙的意味を導けないため、個別に参照する。",
-      "description": ""
+      "label": "相手・対象に何かを強く及ぼし、その存在や影響を受け止めさせる。動詞",
+      "description": "impose では規則・負担・考え・自分の存在・偽りを受け入れさせる方向、関連形容詞 imposing（語義6）では姿や規模の存在感を強く感じさせる方向に具体化するが、impose 自体を一般に「強い印象を与える」と訳すわけではない。語義7・8は「物を所定の場所に置く」という歴史的な意味が印刷と宗教儀礼に残った専門義で、この現代の核から語彙的意味を導けないため、個別に参照する。"
     },
     {
       "label": "決まりを受け入れさせる働き",
-      "description": "→ 「課す、施行する」（語義1）"
+      "description": "→ 「課す、規制・禁止などを設ける」（語義1）"
     },
     {
       "label": "負担を受け入れさせる働き",
@@ -59,11 +59,11 @@
       "description": "→ 「自分の存在を押しつける、存在感を示す」（語義5）"
     },
     {
-      "label": "強い印象を与える姿や規模",
+      "label": "強い存在感を受け止めさせる姿や規模",
       "description": "→ 「堂々とした、威容のある」（語義6）"
     },
     {
-      "label": "偽りを信じ込ませる働き",
+      "label": "偽りを事実として受け入れさせる働き",
       "description": "→ 「だます、欺く」（語義9）"
     },
     {
@@ -75,12 +75,12 @@
   "senses": [
     {
       "number": 1,
-      "title": "【動詞・他動詞】課す、施行する",
+      "title": "【動詞・他動詞】課す、規制・禁止などを設ける",
       "frequency": 8,
       "register": [
         "報道、行政、法律、仕事、学校。比較的改まった表現。"
       ],
-      "definition": "権限を持つ人・組織などが、税・罰・規則・禁止・条件などを定め、対象となる人や物に適用する。受ける側が自由に選ぶというより、従うべきものとして与えることに焦点がある。厳しい措置に使いやすいが、不当・違法・過酷であることは必須ではない。",
+      "definition": "税・罰・規則・禁止・条件・期限などを、対象となる人や物に従うべきものとして課す。権限を持つ人・組織による措置に多く使うが、自分で自分に条件や期限を課す場合も含む。受ける側が自由に選ぶというより、守るべきものとして設定・適用することに焦点がある。厳しい措置に使いやすいが、不当・違法・過酷であることは必須ではない。",
       "patterns": [
         "impose 〈a tax/a fine/a penalty/a ban〉",
         "impose 〈rules/restrictions/conditions〉 on someone/something",
@@ -377,7 +377,7 @@
           "pattern": "impose by 〈動名詞句〉",
           "use": "どのような行為で負担をかけるのかを示す。",
           "example": "I hope I am not imposing by asking you to read one more draft.",
-          "translation": "もう一度下書きを読んでいただくことで、ご負担になっていなければよいのですが。"
+          "translation": "もう一稿読んでいただくようお願いして、ご負担になっていなければよいのですが。"
         },
         {
           "pattern": "feel imposed upon",
@@ -437,7 +437,7 @@
           "pattern": "impose oneself on someone",
           "use": "招かれていないのに、一緒に過ごすことなどを相手に受け入れさせる。",
           "example": "He did not want to impose himself on the couple during their holiday.",
-          "translation": "彼は、休暇中のそのカップルに自分まで付き合わせたくなかった。"
+          "translation": "彼は、休暇中のそのカップルに、自分の相手までさせたくなかった。"
         },
         {
           "pattern": "impose one's presence on someone/something",
@@ -483,7 +483,7 @@
     },
     {
       "number": 6,
-      "title": "【形容詞・imposing・限定/叙述】堂々とした、威容のある",
+      "title": "【関連形容詞・imposing・限定/叙述】堂々とした、威容のある",
       "frequency": 6,
       "register": [
         "一般、文章での描写、建築、人物・規模・内容の評価。"
@@ -565,7 +565,7 @@
           "frequency": 3,
           "difference": "imposing の否定による外観・存在感の対立。価値や能力が低いという意味までは含まない。",
           "example": "The unimposing house contained a remarkable art collection.",
-          "translation": "その外見は地味な家に、すばらしい美術コレクションが収められていた。"
+          "translation": "外観の地味なその家には、すばらしい美術コレクションが収められていた。"
         },
         {
           "word": "unimpressive",
@@ -719,7 +719,7 @@
           "pattern": "impose 〈偽物/虚偽〉 on someone",
           "use": "偽物を本物のように受け入れさせる行為を、文章で述べる。",
           "example": "The dealer imposed worthless copies on collectors as rare originals.",
-          "translation": "その商人は、価値のない複製品を希少な原作だとして収集家たちに売りつけた。"
+          "translation": "その商人は、価値のない複製品を希少な本物の作品だと偽って収集家たちに押しつけた。"
         }
       ],
       "notes": [
