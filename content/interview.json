@@ -3,10 +3,10 @@
   "slug": "interview",
   "ipa": "米: /ˈɪn.tər.vjuː/｜英: /ˈɪn.tə.vjuː/",
   "lead": "仕事・コース・入学などの候補者に質問し、適性や経験を確かめる面談。候補者から組織に質問する機会も含み得る。",
-  "updated": "2026-10-04",
+  "updated": "2026-10-06",
   "notion_url": "https://app.notion.com/p/interview-3ef4faa9b77d815d9e7dc6885efdc4eb",
   "pronunciation": [
-    "名詞・動詞とも3音節で、第1音節に主強勢を置く。第2音節の母音は弱く、米語では /r/ を伴うが、英語では次に子音 /v/ が来るため通常 /r/ を発音しない。第3音節の /vjuː/ は /v/ と /j/ を続け、間に日本語の母音を入れない。interviewed の語末は /d/、interviews の語末は /z/ で、どちらも音節数は増えない。"
+    "名詞・動詞とも3音節で、第1音節に主強勢を置く。第2音節の母音は弱く、米語では /r/ を伴うが、イギリス英語では次に子音 /v/ が来るため通常 /r/ を発音しない。第3音節の /vjuː/ は /v/ と /j/ を続け、間に日本語の母音を入れない。interviewed の語末は /d/、interviews の語末は /z/ で、どちらも音節数は増えない。"
   ],
   "etymology": [
     "フランス語 entrevue「会見」に由来し、互いに会うことを表す s’entrevoir に関係する。もとは人が会うことを指し、英語では質問を通じて情報を得る会見や採用面接に用いられるようになった。動詞は名詞に基づく。",
@@ -20,14 +20,6 @@
     {
       "term": "interviewee〈名詞〉面接を受ける人、取材される人。語末の",
       "description": "-ee に主強勢を置き、interviewer と役割が逆になる。"
-    },
-    {
-      "term": "interviewing〈現在分詞・動名詞〉面接・取材を行うこと。interviewing",
-      "description": "skills は面接や聞き取りの技術。"
-    },
-    {
-      "term": "interviewed〈過去形・過去分詞〉面接した、取材した。the",
-      "description": "people interviewed は「面接・取材された人々」で、独立した評価の意味を持つ形容詞ではない。"
     },
     {
       "term": "re-interview",
@@ -105,7 +97,7 @@
           "pattern": "have an interview",
           "use": "面接の予定や経験を述べる。",
           "example": "I had an interview yesterday and expect to hear back next week.",
-          "translation": "昨日面接を受けたので、来週には返事が来ると思う。"
+          "translation": "昨日面接を受け、来週には返事が来ると思っている。"
         },
         {
           "pattern": "attend an interview",
@@ -128,8 +120,8 @@
         {
           "pattern": "be invited for interview",
           "use": "特にイギリス英語で、選考手続きとして面接に呼ばれることを無冠詞で表す。",
-          "example": "Shortlisted candidates will be invited for interview next month.",
-          "translation": "選考に残った候補者には、来月の面接の案内が送られる。"
+          "example": "Shortlisted candidates will be invited for interview by email.",
+          "translation": "選考に残った候補者には、メールで面接の案内が送られる。"
         },
         {
           "pattern": "at an interview",
@@ -328,7 +320,7 @@
         }
       ],
       "notes": [
-        "他動詞の interview someone では主語が質問する側、目的語が候補者。I interviewed the manager. は通常「私がその管理職を面接した」で、「管理職の面接を受けた」なら I was interviewed by the manager. とする。目的語を省いた We are interviewing next week. も採用側の意味になれる。一方、応募者主語の I’m interviewing for a job. は語義5で、目的語がないだけで常に採用側と決まるわけではない。interview someone to do で「相手に何かをするよう面接する」という補文を作らない。"
+        "他動詞の interview someone では主語が質問する側、目的語が候補者。I interviewed the manager. は通常「私がその管理職を面接した」で、「管理職の面接を受けた」なら I was interviewed by the manager. とする。目的語を省いた We are interviewing next week. も採用側の意味になれる。一方、応募者主語の I’m interviewing for a job. は語義5で、目的語がないだけで常に採用側と決まるわけではない。interview someone to do で「相手に何かをするよう面接する」という補文を作らない。interviewing は現在分詞・動名詞で、interviewing skills は面接・聞き取りの技術。応募者が主語の進行形なら「面接を受けている」となることもあり、語義5を参照。interviewed は過去形・過去分詞で、the people interviewed は過去分詞が people を後ろから修飾する「面接・取材された人々」。"
       ],
       "synonyms": [
         {
@@ -337,7 +329,7 @@
           "frequency": 8,
           "difference": "面接以外のテスト・観察も含み、質問する行為そのものは必須でない。",
           "example": "The exercise is designed to assess each candidate’s communication skills.",
-          "translation": "その課題は、各候補者の伝達力を評価するために設計されている。"
+          "translation": "その課題は、各候補者のコミュニケーション能力を評価するために設計されている。"
         },
         {
           "word": "screen",
@@ -448,7 +440,7 @@
       "title": "【動詞・自動詞】面接を受ける",
       "frequency": 6,
       "register": [
-        "採用・選考。米語で特によく見られるが、英語でも使われる。"
+        "採用・選考。米語で特によく見られるが、イギリス英語でも使われる。"
       ],
       "definition": "応募者として採用・入学などの面接に参加し、質問に答える。また、その場でどのような印象を与えるかを述べる。",
       "patterns": [
