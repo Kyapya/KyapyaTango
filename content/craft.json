@@ -3,7 +3,7 @@
   "slug": "craft",
   "ipa": "米: /kræft/｜英: /krɑːft/",
   "lead": "主に手や道具を使って物を作る、技能を要する活動・仕事を表す。織物、陶芸、木工などの職業的な技術にも、趣味の手芸や子どもの工作にも使う。個々の種類なら a craft／crafts、活動分野全体なら不可算の craft を使える。作品そのものを指す語義4とは区別する。",
-  "updated": "2026-10-03",
+  "updated": "2026-10-06",
   "notion_url": "https://app.notion.com/p/craft-3ee4faa9b77d814f96f7fa5171b1fa86",
   "pronunciation": [
     "1音節で、名詞・動詞・形容詞とも同じ発音。示した米英差は第1音節の母音で、米は /æ/、英は /ɑː/。英の表記は代表的な標準発音で、イングランド北部などでは /æ/ に近い母音を使う話者もいる。",
@@ -49,7 +49,7 @@
   ],
   "core": [
     {
-      "label": "経験や工夫を生かし、何かを巧みに作る・行う技が中心にある。技そのもの、技を使う仕事・行為、その産物へとつながり、駆け引きに用いる技にもなる。語義5は歴史的残存義で、現在の「乗り物」という語彙的意味はこの核から自然に導けないため、個別に参照する。",
+      "label": "経験や工夫を生かし、何かを巧みに作る・行う技が中心にあり、技そのもの、技を使う仕事・行為、その産物や駆け引きへとつながる。語義5は歴史的な意味変化を経た歴史的残存義で、現在も使われる「乗り物」という語彙的意味がこの核から自然に導けないため、個別に参照する。",
       "description": ""
     },
     {
@@ -57,8 +57,8 @@
       "description": "→ 「手工芸、手芸、職人仕事」（語義1）"
     },
     {
-      "label": "技を要する仕事での熟練",
-      "description": "→ 「技能、技巧、職人技」（語義2）"
+      "label": "技を要する仕事での熟練や専門的活動",
+      "description": "→ 「技能、技巧、職人技、技を要する専門的活動」（語義2）"
     },
     {
       "label": "技を生かして行う制作",
@@ -105,7 +105,7 @@
           "pattern": "learn a craft",
           "use": "技能を要する手仕事の一分野を習得することを述べる。",
           "example": "He decided to learn a craft and enrolled in a pottery course.",
-          "translation": "彼は手工芸を一つ学ぼうと決め、陶芸教室に入った。"
+          "translation": "彼は手工芸の技術を身に付けようと決め、陶芸教室に入った。"
         },
         {
           "pattern": "traditional crafts",
@@ -141,7 +141,7 @@
       "notes": [
         "この語義の複数形は crafts。Pottery is a craft.「陶芸は手工芸の一つだ」、We teach craft.「工芸を教える」のように可算・不可算を使い分ける。学校や地域によって art and craft と arts and crafts のどちらも見られる。",
         "活動には do crafts、成果物には make crafts が使える。She enjoys doing crafts. は「手芸・工作が好き」で語義1、She sells her crafts online. は「手作りの作品を売る」で語義4。作る対象を一つ示すなら make a paper flower のように作品名を言うと明確である。",
-        "craft supplies の craft は、工芸分野を示す名詞の前置修飾である。語義6の craft beer「職人の手法による小規模生産のビール」とは意味の組み合わせが違い、「工作用のビール」という意味ではない。",
+        "craft supplies の craft は、工芸分野を示す名詞の前置修飾である。語義6の craft beer では、生産規模や作り方を表す craft が beer を修飾する。",
         "craft は紙工作だけでなく、織物・陶芸・金工なども含む。craft と art の境界は重なるため、「craft は実用品だけ」「art は実用性がないものだけ」と一律に分けない。"
       ],
       "synonyms": [
@@ -167,19 +167,19 @@
           "frequency": 8,
           "difference": "創造性・表現・美的な価値に焦点を置きやすい。この限定した意味で craft と重なり、両者を完全に排他的な分類とはできない。",
           "example": "The exhibition explores the art of glassmaking.",
-          "translation": "その展覧会では、ガラス制作の芸術を取り上げている。"
+          "translation": "その展覧会では、ガラス制作の技と芸術性を取り上げている。"
         }
       ],
       "antonyms": []
     },
     {
       "number": 2,
-      "title": "【名詞・不可算／可算】技能、技巧、職人技",
+      "title": "【名詞・不可算／可算】技能、技巧、職人技、技を要する専門的活動",
       "frequency": 7,
       "register": [
         "一般語。職業・創作・技能の評価に多い。"
       ],
-      "definition": "特定の仕事や表現を巧みに行うための、経験に裏打ちされた技量・技術を表す。手仕事だけでなく、文章、演技、音楽、料理などにも使う。単なる生まれつきの才能より、身に付けて磨く技という見方が中心である。one's craft では、その人の専門的な仕事と必要な技能をひとまとまりに指す。技能を要する活動・仕事そのものを a craft と数える用法もあり、手工芸に限らない。",
+      "definition": "特定の仕事や表現を巧みに行うための、経験に裏打ちされた技量・技術、またはそうした技を要する専門的な活動・仕事を表す。手仕事だけでなく、文章、演技、音楽、料理などにも使う。単なる生まれつきの才能より、身に付けて磨く技という見方が中心である。one's craft では、その人の専門的な仕事と必要な技能をひとまとまりに指す。技能を要する活動・仕事そのものを a craft と数える用法もあり、手工芸に限らない。",
       "patterns": [
         "〈技能を要する活動〉 + be a craft＝その活動を技能的な仕事と捉える",
         "one's craft＝自分の専門の技",
@@ -229,7 +229,7 @@
       ],
       "notes": [
         "技能一般としての craft は不可算で、great craft／considerable craft とする。一方、Writing is a craft. のように活動・仕事を一つの技能的分野と捉える場合は可算であり、a craft が常に手工芸だけを指すわけではない。one's craft や the writer's craft は、特定の専門技能・仕事のまとまりを単数形で示す定着した使い方であり、「いくつの技能があるか」を数えているわけではない。",
-        "a craft「一つの工芸分野」は語義1、craft「その仕事を巧みに行う技」はこの語義。He learned the craft of weaving. では活動分野と技能が重なり得るが、The poem shows great craft. では作品に表れた技巧を評価している。",
+        "語義1は手工芸という活動分野を扱い、この語義は手工芸に限定せず、技能そのものや技能を要する専門的活動を扱う。He learned the craft of weaving. では手工芸の分野と技能が重なり得るが、The poem shows great craft. では作品に表れた技巧を評価している。",
         "この語義だけなら人を欺く意味はない。a politician's craft も政治的な手腕を指す場合があり、文脈を見ずに「悪だくみ」と決めない。意図を隠して相手を操る語義8では、欺き・ずるさの文脈が中心となる。"
       ],
       "synonyms": [
@@ -370,7 +370,7 @@
         "craft a bowl from wood は「木から器を作る」、craft wood into a bowl は「木を器に作り変える」。from/out of の後ろは素材、into の後ろは完成した形であり、同じ順序のまま前置詞だけを入れ替えない。代名詞は craft it from wood のように直接目的語の位置へ置く。",
         "受動態の be crafted と、名詞を修飾する crafted は、作られたという関係を保つ。The cabinet was crafted by a local carpenter. は作り手を伴う受動文。a well-crafted cabinet／The cabinet is well crafted. は作りのよさを評価する表現で、限定用法の well-crafted には通常ハイフンを付ける。carefully は -ly 副詞なので、a carefully crafted cabinet では通常ハイフンを使わない。",
         "craft だけで「全工程を手作業で行った」とまでは断定しない。手作りを明示するなら craft by hand／handcraft を使う。また、a badly crafted argument「組み立ての悪い議論」も可能で、craft という動詞だけで完成品の高品質が保証されるわけではない。",
-        "ゲームの craft は製作操作を指すため、プレイヤーの高度な職人技を意味しない。現実の趣味で作る物を特定せず「手芸・工作をする」と言う用法は語義7に分ける。一般的な craft に、必須の再帰代名詞や分離可能な小辞はない。"
+        "ゲームの craft は製作操作を指すため、プレイヤーの高度な職人技を意味しない。現実の趣味で作る物を特定せず「手芸・工作をする」と言う用法は語義7に分ける。"
       ],
       "synonyms": [
         {
@@ -602,7 +602,7 @@
           "pattern": "a craft brewery",
           "use": "クラフトビールを作る醸造所を指す。",
           "example": "A craft brewery opened in the former warehouse and began offering weekend tours.",
-          "translation": "以前の倉庫にクラフトビールの醸造所が開業し、週末の見学を始めた。"
+          "translation": "以前の倉庫にクラフトビールの醸造所が開業し、週末に見学客を受け入れ始めた。"
         },
         {
           "pattern": "craft spirits",
@@ -668,7 +668,8 @@
       ],
       "definition": "何を作るかを直接目的語で指定せず、手芸や工作をする活動そのものを述べる。趣味・イベントの文脈で使われ、熟練の職人であることは必要ない。他動詞の制作対象を背景に置いた活動用法で、抽象的な計画作成全般を目的語なしで表す用法ではない。",
       "patterns": [
-        "someone + craft＝手芸・工作をする",
+        "someone crafts",
+        "people craft＝手芸・工作をする",
         "craft with someone＝人と一緒に手作りをする",
         "craft with 〈素材〉＝素材を使って工作する",
         "people + craft together＝一緒に手芸・工作をする",
@@ -701,7 +702,7 @@
         }
       ],
       "notes": [
-        "I craft with paper. は「紙を使って工作する」という活動用法。I craft flowers from paper. は flowers が直接目的語で、「紙から花を作る」という語義3である。完成品を明示する場合と、活動自体を述べる場合を区別する。",
+        "I craft with paper. は「紙を使って工作する」という活動用法。I craft flowers from paper. は flowers が直接目的語で、「紙から花を作る」という語義3である。完成品を明示する場合と、活動自体を述べる場合を区別する。do crafts も活動を表すが、こちらは do が動詞で、名詞 crafts がその目的語である。",
         "この自動詞用法は現在の趣味・手芸の文脈に見られるが、学習辞書には他動詞だけが載ることもある。自動詞用法から、計画を練っている意味の We are crafting. が文脈なしでも明確だとは考えず、We are crafting a plan. のように対象を示す。"
       ],
       "synonyms": [
@@ -709,7 +710,7 @@
           "word": "do crafts",
           "definition": "手芸・工作の活動をする。",
           "frequency": 7,
-          "difference": "活動を表す名詞 crafts を do の目的語にした、より説明的な言い方。自動詞 craft と違い、文の中では do が動詞である。",
+          "difference": "意味はほぼ同じだが、craft は手作りの趣味・イベントの文脈で活動を簡潔に述べ、do crafts は手芸・工作という活動の種類を明示する。",
           "example": "They do crafts at the community center on Fridays.",
           "translation": "彼らは金曜日に公民館で手芸・工作をしている。"
         }
@@ -735,7 +736,7 @@
           "pattern": "by craft",
           "use": "正面からの力よりも、欺きの巧妙さで目的を果たすことを述べる。",
           "example": "In the tale, the fox escapes by craft, tricking the hunters into following a false trail.",
-          "translation": "その物語では、キツネは猟師たちを偽の足跡へ誘導し、策略によって逃れる。"
+          "translation": "その物語では、キツネは猟師たちに偽の手掛かりを追わせ、策略によって逃れる。"
         },
         {
           "pattern": "use craft to 〈動詞の原形〉",
