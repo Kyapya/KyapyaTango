@@ -3,7 +3,7 @@
   "slug": "derive",
   "ipa": "米・英: /dɪˈraɪv/",
   "lead": "人・組織・生物などが、ある源から利益、喜び、収入、力、情報、物質などを得ることを表す。何を得るかだけでなく、その源との関係に焦点がある。積極的に取り出す場合にも、自然に恩恵を受ける場合にも使え、努力や意図的行為を必須としない。物質については、抽出や化学的な変化によって得る場合も含む。",
-  "updated": "2026-10-03",
+  "updated": "2026-10-06",
   "notion_url": "https://app.notion.com/p/derive-3ee4faa9b77d818daa74f0b90d79e877",
   "pronunciation": [
     "2音節で、強勢は第2音節 /raɪv/ にある。第1音節の母音は短い /ɪ/、第2音節は二重母音 /aɪ/。語末は上の歯を下唇に近づける有声音 /v/ である。",
@@ -33,8 +33,8 @@
   ],
   "core": [
     {
-      "label": "もとの源・材料・根拠から、別のものを得る、または別のものが生じるという関係が核となる。何を主語にするかで、「人などが引き出す」と「結果が源に由来する」が分かれる。",
-      "description": ""
+      "label": "もとの源・材料・根拠から、別のものを得る、または別のものが生じるという関係が核となる。何を主語にするかで、「人などが引き出す」と「結果が源に由来する」が分かれる。語義6は",
+      "description": "derived という形の形容詞用法であり、derive 自体を形容詞として使うわけではない。"
     },
     {
       "label": "源から得る利益・資源",
@@ -128,9 +128,9 @@
       ],
       "notes": [
         "derive A from B では A が得られるもの、B が源である。Plants derive energy from sunlight.「植物は太陽光からエネルギーを得る」と言い、Sunlight derives energy to plants. とは言わない。源を主語にするなら Sunlight provides energy for plants. などとする。",
-        "from は前置詞なので後ろは名詞句・代名詞・動名詞になる。derive pleasure from to read ではなく derive pleasure from reading とする。また、derive happiness は「幸福を得る」だが、derive happy とはしない。",
+        "from は前置詞なので後ろは名詞句・代名詞・動名詞になる。derive pleasure from to read ではなく derive pleasure from reading とする。",
         "語義2の自動詞と対比すると、The company derives revenue from subscriptions. は「会社が収入を得る」、The revenue derives from subscriptions. は「収入が定期購読料に由来する」。Revenue is derived from subscriptions. は受動形で、得られるものを主語にしている。能動文の主語をそのまま受動形の主語にして The company is derived from subscriptions. とすると、収入の説明にはならない。",
-        "derive from を句動詞として載せる辞書もあるが、from は動かして分離する小辞ではない。代名詞なら derive it from them の語順であり、derive from them it にはしない。通常の用法に再帰代名詞は必要なく、「そこから得る」の意味で derive oneself from としない。",
+        "derive from を句動詞として載せる辞書もあるが、from は動かして分離する小辞ではない。代名詞なら derive it from them の語順になる。通常の用法に再帰代名詞は必要なく、「そこから得る」の意味で derive oneself from としない。",
         "物質についての be derived from は「由来する、得られる」という出所の説明であり、天然であること、安全であること、抽出だけで作られることを保証しない。plant-derived などが名詞の前で一つの複合修飾語になるときはハイフンを使い、ingredients derived from plants の後置修飾ではその語順のまま書く。"
       ],
       "synonyms": [
@@ -211,7 +211,7 @@
           "pattern": "derive from doing something",
           "use": "ある行為が性質や結果の源であることを説明する。",
           "example": "The savings derive from using less fuel, rather than from cutting staff.",
-          "translation": "その経費削減は、人員削減ではなく燃料の使用量を減らすことによって生じている。"
+          "translation": "その節約分は、人員削減ではなく、燃料使用量の削減によるものだ。"
         },
         {
           "pattern": "be directly derived from 〈先行する作品・モデル〉",
@@ -221,7 +221,7 @@
         }
       ],
       "notes": [
-        "The name derives from a local legend. と The name is derived from a local legend. は、どちらも名称の由来を示せる。前者は自動詞、後者は受動形であり、derived をそのまま現在形にして The name derived from ... とすると、現在形ではなく過去形になる。",
+        "The name derives from a local legend. と The name is derived from a local legend. は、どちらも名称の由来を示せる。前者は自動詞、後者は受動形である。",
         "This word derives from Latin. では word 自体が由来する。語義1の This word derives its meaning from context. では its meaning が直接目的語で、word が文脈から意味を得るという他動詞構文である。from 以下だけを見ず、直接目的語の有無を確かめる。",
         "be derived from は由来・結果の状態にも使え、常に具体的な一回の作業を報告するわけではない。ただし語義6の This is a derived trait.「これは派生形質だ」とは別で、単に from が省略された生物学的な形容詞としてすべてを解釈しない。",
         "〈名詞〉 deriving from 〈源〉 は自動詞の現在分詞による後置修飾、〈名詞〉 derived from 〈源〉 は過去分詞による後置修飾である。benefits deriving from cooperation と benefits derived from cooperation は、どちらも協力に由来する利益を述べられる。人が「利益を得ている」の進行形は She is deriving benefit from the course. となり、目的語が必要である。"
@@ -299,7 +299,7 @@
           "pattern": "derive 〈結果〉 by doing something",
           "use": "導出の具体的な操作を示す。",
           "example": "You can derive the second equation by substituting the expression for x into the first.",
-          "translation": "x の式を最初の式に代入することで、2番目の式を導ける。"
+          "translation": "x を表す式を最初の方程式に代入することで、2番目の方程式を導ける。"
         },
         {
           "pattern": "be derived using 〈方法・道具〉",
@@ -375,7 +375,7 @@
         }
       ],
       "notes": [
-        "derive X from Y は「Y から X を作る」で、X と Y を逆にしない。語義2の Kindness derives from kind. は語の側から派生関係を述べ、ここでの We derive kindness from kind. は操作を行う側を主語にしている。",
+        "derive X from Y は「Y から X を作る」で、X と Y を逆にしない。語義2の \"Kindness\" derives from \"kind\". は語の側から派生関係を述べ、ここでの We derive \"kindness\" from \"kind\". は操作を行う側を主語にしている。",
         "この用法の派生と、cats の複数語尾などの屈折は、言語学では区別される。理論によって derive がより広い形式生成を指すことはあるが、一般的な語形成の説明で「語尾が付けばすべて派生語」と理解しない。",
         "語義5の Researchers derive this ancient name from a verb meaning \"flow\". は、研究者がその名前を新しく作ったのではなく、語源をその動詞に求めるという意味である。操作の説明か、歴史的分析かを文脈で判断する。"
       ],
@@ -409,7 +409,7 @@
       "definition": "語・名前などの起源を調べ、ある古い語や言語に由来すると説明・分析する。主語は辞書、研究者、分析などで、対象語を作り出した人ではなく、由来を判断する側である。分析の内容を表すため、その語源説が正しいと保証する語ではない。",
       "patterns": [
         "〈研究者・辞書〉 + derive 〈語・名称〉 from 〈推定される語源〉＝語源を～に求める",
-        "〈語・名称〉 + be derived from 〈推定語源〉 by 〈分析者〉＝～に由来すると分析される。受動形だけでは語義2・4とも重なるため、分析者や説への言及が解釈の手掛かりになる。"
+        "〈語・名称〉 + be derived by 〈分析者〉 from 〈推定語源〉＝～に由来すると分析される。受動形だけでは語義2・4とも重なるため、分析者や説への言及が解釈の手掛かりになる。"
       ],
       "collocations": [
         {
@@ -425,10 +425,10 @@
           "translation": "一部の歴史家はその名前が「丘」を表す古い語に由来すると考えているが、証拠は確かではない。"
         },
         {
-          "pattern": "be derived from 〈語源候補〉 by 〈分析者〉",
+          "pattern": "be derived by 〈分析者〉 from 〈語源候補〉",
           "use": "どの語源説を誰が提示しているかを受動形で述べる。",
-          "example": "The place-name is derived from an ancient river-name by one group of scholars.",
-          "translation": "ある研究者のグループは、その地名の由来を古い川の名前に求めている。"
+          "example": "The place-name is derived by some scholars from an ancient river-name, although this etymology is disputed.",
+          "translation": "一部の研究者は、その地名の由来を古い川の名前に求めているが、この語源説には異論がある。"
         }
       ],
       "notes": [
@@ -449,7 +449,7 @@
     },
     {
       "number": 6,
-      "title": "【形容詞・限定／叙述】派生的な",
+      "title": "【形容詞 derived・限定／叙述】派生的な",
       "frequency": 2,
       "register": [
         "生物学・進化学・系統分類学。"
@@ -483,7 +483,7 @@
       ],
       "notes": [
         "derived は「優れた」「より高度な」という価値判断ではない。構造の獲得だけでなく喪失も、基準とする祖先状態からの変化なら派生的であり得る。また、何を祖先・比較集団とするかによって、同じ特徴の位置付けが変わる。",
-        "The compound is derived from a plant. は由来を述べる受動形で語義1・2に属する。The character is derived. はこの生物学的な形容詞用法になり得る。後者を「出所を言い忘れた受動態」と決め付けない。derived trait にはハイフンを入れない。"
+        "The compound is derived from a plant. は由来を述べる受動形で語義1・2に属する。The character is derived. はこの生物学的な形容詞用法になり得る。derived trait にはハイフンを入れない。"
       ],
       "synonyms": [
         {
