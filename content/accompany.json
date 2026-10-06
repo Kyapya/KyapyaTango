@@ -3,10 +3,10 @@
   "slug": "accompany",
   "ipa": "米・英: /əˈkʌm.pə.ni/",
   "lead": "人や移動する集団などと一緒に行く。単に行動を共にする場合も、案内・保護・付き添いをする場合もあるが、必ず相手を監督したり先導したりするとは限らない。",
-  "updated": "2026-10-03",
+  "updated": "2026-10-06",
   "notion_url": "https://app.notion.com/p/accompany-3ee4faa9b77d81d08f9bdaf47c6b3ce7",
   "pronunciation": [
-    "4音節で、第2音節に強勢を置く。第1音節と第3音節は弱い /ə/、第2音節の母音は /ʌ/、第4音節は /i/。綴りの o をそのまま /oʊ/ と読まない。accompanies は /əˈkʌm.pə.niz/、accompanied は /əˈkʌm.pə.nid/。いずれも語尾のために音節は増えない。"
+    "上記は4音節で、第2音節に強勢を置く。第1音節と第3音節の母音は弱い /ə/、第2音節の母音は /ʌ/、第4音節の母音は /i/。第3音節の /ə/ を省いた /əˈkʌmp.ni/ という3音節の発音もある。この形では第2音節が /kʌmp/、第3音節が /ni/ となり、強勢は第2音節のまま。綴りの o をそのまま /oʊ/ と読まない。accompanies は /əˈkʌm.pə.niz/、accompanied は /əˈkʌm.pə.nid/。いずれも語尾のために音節は増えない。"
   ],
   "etymology": [
     "古フランス語 acompaignier「仲間として一緒にいる」に由来する。仲間を表す語は、ラテン語の com-「共に」と panis「パン」の組合せにさかのぼり、食事を共にする仲間という意味につながる。company「仲間、同席、会社」、companion「連れ、仲間」が同系の語。現代の「同行する」「一緒に生じる」「伴奏する」も、何かと共にあるという関係で理解できる。"
@@ -39,23 +39,23 @@
       "description": ""
     },
     {
-      "label": "一緒にある人の移動や参加",
+      "label": "人と一緒に移動・参加する働き",
       "description": "→ 「同行する、付き添う」（語義1）"
     },
     {
-      "label": "一緒にある物や現象の発生",
+      "label": "物や出来事と一緒に存在・発生する関係",
       "description": "→ 「伴う、付随する、添えられる」（語義2）"
     },
     {
-      "label": "一緒にある人や添付物の性質",
+      "label": "人や物と一緒にある人・資料などの性質",
       "description": "→ 「同行する、付随する、添付の」（語義3）"
     },
     {
-      "label": "一緒にあるよう添える働き",
+      "label": "中心となるものと一緒に何かを添える働き",
       "description": "→ 「添える、付け加える」（語義4）"
     },
     {
-      "label": "一緒にある主旋律を支える演奏",
+      "label": "主な歌や旋律と一緒に行う補助的な演奏",
       "description": "→ 「伴奏する」（語義5）"
     }
   ],
@@ -81,8 +81,8 @@
         {
           "pattern": "accompany someone to 〈目的地〉",
           "use": "人と一緒に目的地へ行く。",
-          "example": "My sister accompanied me to the appointment because I did not want to go alone.",
-          "translation": "一人で行きたくなかったので、姉が予約先まで付き添ってくれた。"
+          "example": "My sister accompanied me to my dental appointment because I did not want to go alone.",
+          "translation": "一人で行きたくなかったので、予約していた歯科の診察に姉が付き添ってくれた。"
         },
         {
           "pattern": "accompany someone to 〈行事〉",
@@ -153,7 +153,7 @@
       "register": [
         "一般、説明文、報道、資料、料理。"
       ],
-      "definition": "ある物・出来事・状態と一緒に存在したり、起こったり、提供されたりする。主語が付随する側、目的語がそれに伴われる側になる。文書に添えられた図や、料理の付け合わせ、出来事に伴う反応などに使う。一緒にあることを述べるだけで、因果関係を必ず主張するわけではない。",
+      "definition": "ある物・出来事・状態と一緒に存在したり、起こったり、提供されたりする。能動態では、主語が付随する側、目的語がそれに伴われる側になる。文書に添えられた図や、料理の付け合わせ、出来事に伴う反応などに使う。一緒にあることを述べるだけで、因果関係を必ず主張するわけではない。",
       "patterns": [
         "〈付随する物/現象〉 + accompany + 〈中心となる物/出来事〉",
         "be accompanied by 〈物/現象〉",
@@ -231,7 +231,7 @@
     },
     {
       "number": 3,
-      "title": "【形容詞・主に限定】同行する、付随する、添付の",
+      "title": "【形容詞・主に限定（accompanying の形）】同行する、付随する、添付の",
       "frequency": 6,
       "register": [
         "文書、教材、報告、説明文。"
@@ -352,9 +352,9 @@
       "synonyms": [
         {
           "word": "supplement",
-          "definition": "足りない内容を補うために、別の物を加える。",
+          "definition": "内容を補ったり充実させたりするため、別の物を加える。",
           "frequency": 6,
-          "difference": "補足して充実させる目的を強調する。accompany は身ぶりを添える場合など、不足を補うとは限らない。",
+          "difference": "補足・充実させることに重点があり、元の内容が不足しているとは限らない。accompany は身ぶりを添える場合など、内容の補足・充実を必ずしも目的としない。",
           "example": "The teacher supplemented the textbook with short videos.",
           "translation": "教師は、教科書の内容を短い動画で補った。"
         },
@@ -428,7 +428,7 @@
           "pattern": "accompany a song",
           "use": "伴奏の対象となる曲を目的語にする。",
           "example": "A single guitar accompanied the song, leaving plenty of space for the singer's voice.",
-          "translation": "その歌にはギター1本だけが伴奏を付け、歌声が十分に際立っていた。"
+          "translation": "その歌にはギター1本だけが伴奏を付け、歌声のための余地を十分に残していた。"
         }
       ],
       "notes": [
