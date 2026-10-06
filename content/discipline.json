@@ -3,7 +3,7 @@
   "slug": "discipline",
   "ipa": "米・英: /ˈdɪs.ə.plɪn/",
   "lead": "人々が規則や行動の基準を守るよう指導・管理すること、また、その結果として保たれる秩序ある行動。学校・家庭・組織などで使う。違反への処罰を含む場合もあるが、処罰や厳しさそのものだけを意味するわけではない。",
-  "updated": "2026-10-03",
+  "updated": "2026-10-06",
   "notion_url": "https://app.notion.com/p/discipline-3ee4faa9b77d810a81a7c08c55276366",
   "pronunciation": [
     "3音節で、第1音節に強勢を置く。第1音節と第3音節の母音は /ɪ/、第2音節は弱い /ə/。名詞と動詞で強勢は変わらない。語尾 -line は /laɪn/ ではなく /lɪn/。disciplined の -ed は /d/ で、音節は増えない。"
@@ -43,7 +43,7 @@
   ],
   "core": [
     {
-      "label": "行動や心の働きを一定の基準に沿って整え、保つこと。外からの指導、自分を律する力、訓練された状態、規則違反への処置をつなげて理解できる。語義3は「教え・学問」に由来する歴史的残存義で、学問や競技の一分野という語彙的意味はこの核から導けないため、個別に参照する。",
+      "label": "行動や心の働きを一定の基準に沿って整え、保つことを核に、外からの指導、自分を律する力、訓練された状態、規則違反への処置をつなげて理解できる。語義3は、古い「教え・学問」の意味系統を受け継ぐ歴史的残存義として、行動を整えるという核だけから導かず個別に参照するが、学問や競技の一分野を指す用法自体は現代でも普通に使われる。",
       "description": ""
     },
     {
@@ -71,8 +71,8 @@
       "description": "→ 「懲戒、処罰」（語義7）"
     },
     {
-      "label": "基準に沿って整える日々の実践",
-      "description": "→ 「鍛錬、訓練となる習慣」（語義8）"
+      "label": "基準に沿って整える方法や実践",
+      "description": "→ 「鍛錬、訓練方法・実践」（語義8）"
     }
   ],
   "sources": [],
@@ -369,7 +369,7 @@
         {
           "pattern": "discipline a child",
           "use": "不適切な行動に対し、子どもを叱るなどして正す。",
-          "example": "When she disciplined her son for hitting his brother, she explained why the behaviour was unacceptable.",
+          "example": "When she disciplined her son for hitting his younger brother, she explained why the behaviour was unacceptable.",
           "translation": "息子が弟をたたいたため、彼女は叱ったうえで、なぜその行動がいけないのかを説明した。"
         },
         {
@@ -380,7 +380,7 @@
         }
       ],
       "notes": [
-        "discipline someone for doing の for は処分の理由を示す。discipline someone to do とすると、語義6の訓練の意味になる。They disciplined him for ignoring instructions. は指示を無視したことへの処分、They disciplined him to follow instructions carefully. は注意深く指示に従えるよう訓練したこと。discipline は殴る・解雇するなど特定の処置と同義ではない。be disciplined for misconduct は動詞の受動態で、語義5の be highly disciplined「非常に自制が利く」という形容詞用法と区別する。"
+        "discipline someone for doing の for は処分の理由を示す。They disciplined him for ignoring instructions. は指示を無視したことへの処分。語義6では discipline oneself to do「自分を律して～する」や discipline one's mind「心の働きを鍛える」を使う。for doing を to do に替えるだけで、通常の「人を～できるよう訓練する」の表現になると覚えない。その意味には train someone to do が基本となる。discipline は殴る・解雇するなど特定の処置と同義ではない。be disciplined for misconduct は動詞の受動態で、語義5の be highly disciplined「非常に自制が利く」という形容詞用法と区別する。"
       ],
       "synonyms": [
         {
@@ -412,7 +412,7 @@
     },
     {
       "number": 5,
-      "title": "【形容詞・限定/叙述】自制の利いた、規律正しい",
+      "title": "【形容詞・限定/叙述：disciplined】自制の利いた、規律正しい",
       "frequency": 6,
       "register": [
         "一般、仕事、スポーツ、学習。通常は好意的な評価。"
@@ -524,8 +524,8 @@
         "discipline oneself",
         "discipline oneself to do",
         "discipline one's mind",
-        "discipline someone to do",
-        "discipline 〈troops/a team〉"
+        "discipline someone",
+        "discipline troops"
       ],
       "collocations": [
         {
@@ -547,14 +547,14 @@
           "translation": "その練習は、彼が心を整え、一度に一つの問題に集中する助けとなった。"
         },
         {
-          "pattern": "discipline someone to do",
-          "use": "人が一定の行動をできるよう、継続的に訓練する。",
-          "example": "The training disciplined recruits to remain calm and follow instructions under pressure.",
-          "translation": "その訓練によって、新兵たちは重圧の中でも落ち着いて指示に従えるようになった。"
+          "pattern": "discipline troops",
+          "use": "兵士に規律ある行動を身につけさせる。",
+          "example": "Regular drills help discipline troops by teaching them to act together and follow orders.",
+          "translation": "定期的な教練は、兵士たちに共同で行動し、命令に従うことを教え、規律を身につけさせるのに役立つ。"
         }
       ],
       "notes": [
-        "自分を訓練する能動文では I disciplined myself to study regularly. のように再帰代名詞を目的語に置く。I disciplined to study regularly. とはしない。I was disciplined to work carefully. は他者による訓練を表す受動態で、myself を省略した能動文ではない。I am disciplined about my work. は語義5の形容詞による性質の説明。discipline oneself to do の to は不定詞の一部で、後ろは動詞の原形。語義4の discipline someone for doing は行為への処分であり、前置詞と意味役割が異なる。"
+        "自分を訓練する能動文では I disciplined myself to study regularly. のように再帰代名詞を目的語に置く。I disciplined to study regularly. とはしない。discipline someone to do も文脈によって成立するが、他人が具体的な行動をできるよう訓練する通常の表現としては train someone to do を優先する。I was trained to work carefully. は train の受動態。I am disciplined about my work. は語義5の形容詞による性質の説明で、再帰代名詞を省略した能動文ではない。discipline oneself to do の to は不定詞の一部で、後ろは動詞の原形。語義4の discipline someone for doing は行為への処分であり、前置詞と意味役割が異なる。"
       ],
       "synonyms": [
         {
@@ -658,14 +658,15 @@
     },
     {
       "number": 8,
-      "title": "【名詞・可算/不可算】鍛錬、訓練となる習慣",
+      "title": "【名詞・可算/不可算】鍛錬、訓練方法・実践",
       "frequency": 4,
       "register": [
         "学習、創作、心身の鍛錬、宗教的実践。やや改まった説明。"
       ],
-      "definition": "心身や技能を整えるために継続的に取り組む行為・習慣、また、その訓練としての働き。具体的な実践を一つのものとして捉えると可算、訓練効果や規則正しい実践を全体として捉えると不可算になる。",
+      "definition": "心身や行動を鍛え、整えるための方法・実践、また、そのような訓練を必要とする活動。継続的な習慣も含むが、それだけに限らない。ヨガなどの方法・活動や一つの習慣として捉えると可算、ある行為の訓練としての働きを全体として捉えると不可算になる。",
       "patterns": [
         "a useful discipline",
+        "a physical discipline",
         "the discipline of doing",
         "good discipline for someone",
         "spiritual disciplines"
@@ -676,6 +677,12 @@
           "use": "続けることで自分を鍛えられる習慣を指す。",
           "example": "Writing a short summary after each lecture is a useful discipline.",
           "translation": "毎回の講義の後に短い要約を書くことは、よい訓練になる習慣だ。"
+        },
+        {
+          "pattern": "a physical discipline",
+          "use": "身体を鍛え、動きを制御する方法・活動を指す。",
+          "example": "She practises yoga as a physical discipline that develops balance and control.",
+          "translation": "彼女は、バランス感覚や身体の制御を養う鍛錬法としてヨガを実践している。"
         },
         {
           "pattern": "the discipline of doing",
@@ -693,11 +700,11 @@
           "pattern": "spiritual disciplines",
           "use": "宗教的・精神的な成長のために継続する実践を指す。",
           "example": "The retreat introduces spiritual disciplines such as meditation and regular reflection.",
-          "translation": "その研修では、瞑想や定期的な内省など、精神を整える実践を紹介する。"
+          "translation": "そのリトリート（瞑想などに取り組む合宿）では、瞑想や定期的な内省など、精神を整える実践を紹介する。"
         }
       ],
       "notes": [
-        "a discipline はここでは訓練となる一つの実践。語義3の an academic discipline「学問の一分野」と区別する。the discipline of daily practice は日々の練習という鍛錬、the discipline to practise daily は語義2の毎日練習できる自制心であり、of と to の後に来る形と意味が異なる。religious disciplines は宗教上の規則・鍛錬を指し得るが、具体的な内容は伝統や文脈によって決まる。"
+        "a discipline はここでは訓練の方法・活動や一つの実践。語義3の an academic discipline「学問の一分野」と区別する。the discipline of daily practice は日々の練習という鍛錬を指し得るが、文脈によってはその実践に伴う規律・自己管理にも重点がある。of の後には名詞・動名詞を置き、of だけで語義が決まるわけではない。the discipline to practise daily は語義2の毎日練習できる自制心で、to の後には動詞の原形を置く。religious disciplines は宗教上の規則・鍛錬を指し得るが、具体的な内容は伝統や文脈によって決まる。"
       ],
       "synonyms": [
         {
