@@ -3,7 +3,7 @@
   "slug": "pleasant",
   "ipa": "米・英: /ˈplez.ənt/",
   "lead": "場所、天候、感覚、経験などが、接する人に快さや楽しさを感じさせること。a pleasant surprise では、予想外の出来事が喜ばしいという意味になる。一般に穏やかな好評価だが、必ず「まあまあ」にとどまるわけではなく、very pleasant のように強められる。",
-  "updated": "2026-10-03",
+  "updated": "2026-10-06",
   "notion_url": "https://app.notion.com/p/pleasant-3ee4faa9b77d811d9f98f7737a7706ce",
   "pronunciation": [
     "2音節で、第1音節に主強勢を置く。第1音節の母音は /e/、s は /z/、第2音節の母音は弱い /ə/。please /pliːz/ の長い /iː/ と区別する。"
@@ -26,7 +26,7 @@
     },
     {
       "term": "pleasantry",
-      "description": "名詞。複数形 pleasantries で、社交上の挨拶や軽い会話を指すことが多い。exchange pleasantries は「挨拶や世間話を交わす」。単に「楽しい物事」全般を表す名詞ではない。"
+      "description": "名詞。複数形 pleasantries で、社交上の挨拶や軽い会話を指すことが多い。exchange pleasantries は「挨拶や世間話を交わす」。単数形では「軽い冗談・おどけた発言」を指すこともある。単に「楽しい物事」全般を表す名詞ではない。"
     }
   ],
   "core": [],
@@ -45,7 +45,9 @@
         "pleasant 〈weather/surroundings〉＝心地よい天候・環境",
         "something + be/seem/feel + pleasant＝物事が心地よい・心地よく思える",
         "It is pleasant (for someone) to do＝人が～するのは楽しい",
-        "something + be pleasant to do＝それを～すると心地よい",
+        "something + be pleasant to do＝主語が不定詞内の動詞・前置詞の目的語に対応し、その対象に関わる行為が心地よい",
+        "something + be pleasant to listen to＝それを聞くと心地よい",
+        "〈場所〉 + be pleasant to work in＝そこで働くと快適だ",
         "find something pleasant＝～を心地よいと感じる",
         "be pleasant enough to do＝～できるほど心地よい"
       ],
@@ -87,6 +89,12 @@
           "translation": "彼女の声は、騒がしい部屋でも聞いていて心地よい。"
         },
         {
+          "pattern": "be pleasant to work in",
+          "use": "主語が、働く場所に当たることを示す。",
+          "example": "With plenty of natural light and fresh air, the room is pleasant to work in.",
+          "translation": "自然光がたっぷり入り、空気も新鮮なので、その部屋で働くのは快適だ。"
+        },
+        {
           "pattern": "find something pleasant",
           "use": "ある対象を快いと評価する。",
           "example": "I found the scent pleasant rather than overpowering.",
@@ -94,13 +102,13 @@
         },
         {
           "pattern": "be pleasant enough to do",
-          "use": "心地よさが、ある行動を選べる程度にあると示す。",
+          "use": "ある行為ができるほど十分に心地よいことを示す。",
           "example": "The weather was pleasant enough to sit outside until sunset.",
           "translation": "日が沈むまで外に座っていられるほど、天気は気持ちよかった。"
         }
       ],
       "notes": [
-        "「自分がうれしい」は I'm pleased、「経験が楽しい」は The experience is pleasant のように区別する。I'm pleasant は普通、語義2の「私は感じのよい人だ」で、感情の満足を表す形ではない。The music is pleasant to listen to では music が listen to の目的語に当たるので、末尾の to を残し、さらに it は足さない。「会えてうれしい」は It is pleasant to meet you も成立するが、挨拶では Nice to meet you が定型的。比較には more pleasant / most pleasant と pleasanter / pleasantest があり、前者が広く使える。pleasant but dull のように、快さと刺激・面白さを区別できる。"
+        "「自分がうれしい」は I'm pleased、「経験が楽しい」は The experience is pleasant のように区別する。I'm pleasant は普通、語義2の「私は感じのよい人だ」で、感情の満足を表す形ではない。The music is pleasant to listen to では music が前置詞 to の目的語に当たるので、末尾の to を残し、さらに it は足さない。The room is pleasant to work in でも room は前置詞 in の目的語に対応し、「その部屋で働くと快適だ」を表す。ここでも末尾の in を残し、in it とはしない。主語は必ずしも行為の直接の対象ではなく、このように行為の場所を表す場合もある。「会えてうれしい」は It is pleasant to meet you も成立するが、挨拶では Nice to meet you が定型的。比較には more pleasant / most pleasant と pleasanter / pleasantest があり、前者が広く使える。pleasant but dull のように、快さと刺激・面白さを区別できる。"
       ],
       "synonyms": [
         {
@@ -149,7 +157,7 @@
           "word": "disagreeable",
           "definition": "感覚や気分に合わず、不快である。",
           "frequency": 5,
-          "difference": "pleasant と快・不快の程度上で対立し、unpleasant よりやや改まった響きがある。",
+          "difference": "pleasant と快・不快という評価軸で反対に当たり、unpleasant よりやや改まった響きがある。",
           "example": "The medicine left a disagreeable taste in my mouth.",
           "translation": "その薬を飲むと口の中に不快な味が残った。"
         }
