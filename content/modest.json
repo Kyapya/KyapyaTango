@@ -3,7 +3,7 @@
   "slug": "modest",
   "ipa": "米: /ˈmɑː.dɪst/｜英: /ˈmɒd.ɪst/",
   "lead": "数量、金額、規模、程度などが、比較する状況に照らしてそれほど大きくないこと。小規模ながら一定の成果がある場合にも使い、必ず「不十分」「ごくわずか」を意味するわけではない。modest success は「一定の、控えめな成功」で、大成功とは区別される。",
-  "updated": "2026-10-03",
+  "updated": "2026-10-06",
   "notion_url": "https://app.notion.com/p/modest-3ee4faa9b77d8124942be3a27c5483fd",
   "pronunciation": [
     "2音節で、第1音節に主強勢を置く。示した米英差は第1音節の母音で、米音は /ɑː/、英音は /ɒ/。第2音節の母音はともに /ɪ/ で弱く発音する。語末の -est は最上級の語尾ではない。"
@@ -39,8 +39,8 @@
       "description": "→ 「謙虚な、控えめな」（語義2）"
     },
     {
-      "label": "控えめな範囲にある暮らしの装い",
-      "description": "→ 「質素な、飾り気のない」（語義3）"
+      "label": "控えめな範囲にある暮らしの豪華さ",
+      "description": "→ 「質素な、ぜいたくでない」（語義3）"
     },
     {
       "label": "控えめな範囲にある肌の露出や振る舞い",
@@ -56,12 +56,15 @@
       "register": [
         "一般文章、報道、ビジネス、日常会話。金額や実績を穏やかに評価する表現として広く使う。"
       ],
-      "definition": "数量、金額、規模、程度などが、比較する状況に照らしてそれほど大きくないこと。小規模ながら一定の成果がある場合にも使い、必ず「不十分」「ごくわずか」を意味するわけではない。modest success は「一定の、控えめな成功」で、大成功とは区別される。",
+      "definition": "数量、金額、規模、程度などが、比較する状況に照らしてそれほど大きくないこと。目標が大それていないこと、要求が過大でないこと、主張を大きく言いすぎないことにも使う。小規模ながら一定の成果がある場合にも使い、必ず「不十分」「ごくわずか」を意味するわけではない。modest success は「ささやかな成功」で、大成功とは区別される。",
       "patterns": [
         "a modest 〈increase/budget/income/fee〉＝小幅な増加・限られた予算・多くない収入・比較的安い料金",
         "a modest amount of 〈不可算名詞〉＝それほど多くない量の～",
         "a modest number of 〈複数名詞〉＝それほど多くない数の～",
         "modest 〈success/growth〉＝控えめな成功・成長",
+        "modest 〈aims/ambitions〉＝大それていない目標・願望",
+        "modest 〈requirements/demands〉＝過大ではない必要条件・要求",
+        "a modest claim＝大げさでない主張",
         "something + be/remain + modest＝量や規模が大きくない・大きくないままである",
         "be modest in 〈size/scale/scope〉＝大きさ・規模・範囲が控えめである",
         "of modest means＝収入・資産が多くない"
@@ -101,7 +104,7 @@
           "pattern": "achieve modest success",
           "use": "大成功ではないが、一定の成果を上げることをいう。",
           "example": "The campaign achieved modest success in attracting new members.",
-          "translation": "そのキャンペーンは、新しい会員を集めるうえで一定の成果を上げた。"
+          "translation": "そのキャンペーンは、新しい会員を集めるうえでささやかな成果を上げた。"
         },
         {
           "pattern": "remain modest",
@@ -113,13 +116,31 @@
           "pattern": "be modest in scale",
           "use": "規模という側面を指定して、計画などが小規模であることを述べる。",
           "example": "The project is modest in scale but ambitious in its aims.",
-          "translation": "その計画は規模は小さいが、目標は野心的だ。"
+          "translation": "その計画の規模は小さいが、目標は野心的だ。"
         },
         {
           "pattern": "of modest means",
           "use": "人や家庭が経済的に豊かではないことを穏やかに表す。",
           "example": "The scholarship is intended for students from families of modest means.",
           "translation": "その奨学金は、経済的に豊かではない家庭の学生を対象としている。"
+        },
+        {
+          "pattern": "modest aims",
+          "use": "目標が大それたものではないことを示す。",
+          "example": "Our aims are modest: we hope to recruit ten new members this year.",
+          "translation": "私たちの目標は控えめで、今年は新たに10人の会員を集めたいと考えている。"
+        },
+        {
+          "pattern": "modest requirements",
+          "use": "必要な設備や条件が過大ではないことを述べる。",
+          "example": "Our requirements are modest: a desk, a chair, and an internet connection.",
+          "translation": "私たちが必要とするものは多くなく、机と椅子とインターネット接続だけだ。"
+        },
+        {
+          "pattern": "a modest claim",
+          "use": "主張する効果や範囲を控えめに限定する。",
+          "example": "The authors make only a modest claim: the method may help in some cases.",
+          "translation": "著者たちの主張は控えめで、その方法はいくつかの場合に役立つ可能性があるというにとどまる。"
         }
       ],
       "notes": [
@@ -223,7 +244,7 @@
       "synonyms": [
         {
           "word": "humble",
-          "definition": "自分を特別に偉いとは考えず、他人に対してへりくだっている。",
+          "definition": "自分を特別に偉いとは考えず、尊大に構えない。",
           "frequency": 8,
           "difference": "modest が能力や実績を誇らない態度に焦点を置くのに対し、humble は自己の重要性についての姿勢をより広く表す。",
           "example": "Despite her influence, she was humble and willing to learn from others.",
@@ -267,12 +288,12 @@
     },
     {
       "number": 3,
-      "title": "【形容詞・限定／叙述】質素な、飾り気のない",
+      "title": "【形容詞・限定／叙述】質素な、ぜいたくでない",
       "frequency": 7,
       "register": [
         "日常会話、人物紹介、不動産、旅行記事。穏やかな描写として使い、ほめ言葉にも控えめな評価にもなる。"
       ],
-      "definition": "住まい、暮らし、設備などが豪華さやぜいたくさを前面に出さず、比較的簡素であること。小規模さと重なることもあるが、ここでは量そのものより生活ぶりや見せ方を評価する。粗悪であることや、所有者が貧しいことまでは意味しない。",
+      "definition": "住まい、暮らし、設備などが豪華さやぜいたくさを前面に出さず、つつましいこと。装飾や模様が少ないことまで必ずしも意味しない。小規模さと重なることもあるが、ここでは量そのものより生活ぶりや見せ方を評価する。粗悪であることや、所有者が貧しいことまでは意味しない。",
       "patterns": [
         "a modest 〈home/house/lifestyle〉＝質素な住まい・家・暮らし",
         "modest accommodation＝簡素な宿泊施設",
@@ -305,7 +326,7 @@
         }
       ],
       "notes": [
-        "a modest house は「小さめの家」（語義1）と「質素な家」の両方に解釈できる。広さを問題にするのか、豪華さを問題にするのかを文脈で判断する。modest furnishings は家具の飾り気のなさを、a modest number of chairs は椅子の数の少なさをいう。modest を建物に使っても、建物が人のように謙遜しているという意味ではない。"
+        "a modest house は「小さめの家」（語義1）と「質素な家」の両方に解釈できる。広さを問題にするのか、豪華さを問題にするのかを文脈で判断する。modest furnishings は家具・調度品が豪華ではなく質素なことを、a modest number of chairs は椅子の数の少なさをいう。modest を建物に使っても、建物が人のように謙遜しているという意味ではない。"
       ],
       "synonyms": [
         {
@@ -359,7 +380,7 @@
       "register": [
         "服装、ファッション、宗教・文化的慣習、人物描写。modest fashion は肌の露出などを抑える装いを指す現代の表現。"
       ],
-      "definition": "服装が肌や体の線を過度に見せず、または人や振る舞いが性的な注目を引くことを控えていると、ある文化・場面の基準から評価する表現。人については、着替えなどで体を人に見せたがらないこともいう。何を modest とするかは社会や個人で異なり、露出の多さと人の道徳的価値を客観的に結び付ける語ではない。",
+      "definition": "服装が肌や体の線を過度に見せず、または人の振る舞いや言葉遣いが慎ましいと、ある文化・場面の基準から評価する表現。性的な注目を引くことを控える意味が中心的だが、伝統的には振る舞いや話し方が礼節にかなうという広い意味にも使う。人については、着替えなどで体を人に見せたがらないこともいう。何を modest とするかは社会や個人で異なり、露出の多さと人の道徳的価値を客観的に結び付ける語ではない。",
       "patterns": [
         "modest 〈clothing/dress/behavior〉＝露出を控えた服装・慎みのある振る舞い",
         "a modest 〈outfit/swimsuit〉＝露出を控えた装い・水着",
@@ -421,7 +442,7 @@
           "frequency": 6,
           "difference": "服装の露出の程度という同じ軸上で反対になる。必ず道徳的な非難を含むわけではない。",
           "example": "The top was more revealing than he felt comfortable wearing.",
-          "translation": "そのトップスは、彼が気兼ねなく着られると思う程度より露出が多かった。"
+          "translation": "そのトップスは露出が多く、彼は着るのに抵抗を感じた。"
         },
         {
           "word": "immodest",
