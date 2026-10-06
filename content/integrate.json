@@ -1,0 +1,994 @@
+{
+  "word": "integrate",
+  "slug": "integrate",
+  "ipa": "米: /ˈɪn.t̬ə.ɡreɪt/｜英: /ˈɪn.tɪ.ɡreɪt/。3音節で、主強勢は第1音節 /ɪn/ にある。示した記号の米英差は、第2音節の子音が米では /t̬/、英では /t/、同じ第2音節の母音が米では /ə/、英では /ɪ/ である点。米音の /t̬/ は短くはじくような音を表す。第3音節の母音は両方とも /eɪ/。辞書によって弱母音や第二強勢の表記は異なる。",
+  "lead": "複数のものを結び付けてまとまりのある全体にする、または要素をある全体の一部として取り入れる。部品、機能、データ、部門、考え、日々の活動などに使う。単に並べるよりも、全体の中で結び付けて扱うことに重点がある。元の要素が識別できなくなることや、統合が完全であることは必須ではなく、partially integrate「部分的に統合する」も自然である。心理学では、",
+  "updated": "2026-10-06",
+  "notion_url": "https://app.notion.com/p/integrate-3f14faa9b77d81e6b18bc8ded8380637",
+  "pronunciation": [
+    "過去形・過去分詞 integrated は米 /ˈɪn.t̬ə.ɡreɪ.t̬ɪd/｜英 /ˈɪn.tɪ.ɡreɪ.tɪd/。-ed により第4音節が加わる。米英差は第2音節の子音・母音に加え、第4音節の子音も米 /t̬/、英 /t/ となる点で、第4音節の母音 /ɪ/ と主強勢の位置は共通する。",
+    "名詞 integration は米 /ˌɪn.t̬əˈɡreɪ.ʃən/｜英 /ˌɪn.tɪˈɡreɪ.ʃən/。主強勢が第3音節へ移り、第1音節に第二強勢が付く。示した米英差は第2音節の子音 /t̬/ と /t/、母音 /ə/ と /ɪ/ である。"
+  ],
+  "etymology": [
+    "ラテン語 integrare「全体にする、元どおりにする」の過去分詞 integratus に由来する。元になる integer は「欠けのない、完全な」の意で、否定の in- と tangere「触れる」の語根につながり、「損なわれていない」という発想をもつ。現代語の「部分を結び付けて全体にする」とのつながりはここにあるが、現代の integrate を in＋独立した英単語として分解するわけではない。",
+    "同語源語には integer「整数」、integral「不可欠な、積分の／積分」、integrity「誠実さ、完全性」がある。「全体・欠けのなさ」に関係する語族だが、integrity を integrate の通常の動作名詞として使うことはできない。動作名詞は integration である。"
+  ],
+  "formation": [
+    {
+      "term": "integrated",
+      "description": "過去形・過去分詞。形容詞としての「統合された、一体型の」や心理的なまとまりは語義2、社会的な「溶け込んだ、分け隔てなく共にいる」は語義7、契約法上の書面の最終性は語義9で扱う。"
+    },
+    {
+      "term": "integrating",
+      "description": "現在分詞・動名詞。integrating new technology「新技術を組み込んでいる／組み込むこと」。綴りは語末の e を落として -ing を付ける。"
+    },
+    {
+      "term": "integration",
+      "description": "主に不可算名詞。「統合、社会への参加、人種統合、積分」。the integration of A into B「AをBに組み込むこと」、integration with B「Bとの統合」のように使う。ITでは個々の連携機能・連携設定を指して可算の integrations も使う。契約法では、合意条項を最終的な書面に表すことやその状態を指し、complete/partial integration を区別する（語義9）。"
+    },
+    {
+      "term": "integrative",
+      "description": "形容詞。「複数の要素を結び付ける、統合を志向する」。integrative research「複数分野を結び付ける研究」など、学術・専門的な文章で使う。integrated が結び付いた構成・状態を表すのに対し、integrative は結び付ける働きや方針に焦点を置く。"
+    },
+    {
+      "term": "integrator",
+      "description": "可算名詞。統合を行う人・組織・装置。systems integrator は複数のシステムを組み合わせる事業者、数学・電子工学の integrator は積分を行う装置や計算機構を指す。"
+    },
+    {
+      "term": "integrable",
+      "description": "形容詞。数学では「積分可能な」。an integrable function「積分可能な関数」。一般の業務連携を述べるときに必ずこの専門的な語を使うわけではない。"
+    },
+    {
+      "term": "disintegrate",
+      "description": "動詞。「崩壊する、ばらばらに崩す」。単に統合しないという否定ではなく、まとまりが失われる変化を表す。"
+    }
+  ],
+  "core": [
+    {
+      "label": "「部分を結び付け、一つのまとまりとして働かせる、またはその一員にする」が中心。物や仕組みでは機能の結び付き、人では集団への参加、心理学では人格内部のまとまり、積分では部分的な量を合わせて全体を捉える計算として具体化するが、完全な均質化や違いの消滅までは意味しない。語義9は制度的専門義で、複数のものの結合自体ではなく「合意条項が書面に最終的に表現されている」ことを表し、この核から語彙的意味を導けないため、個別に参照する。",
+      "description": ""
+    },
+    {
+      "label": "部分を全体へ結び付ける働き",
+      "description": "→ 「統合する、組み込む」（語義1）"
+    },
+    {
+      "label": "部分が全体へ結び付いた構成",
+      "description": "→ 「統合された、一体型の」（語義2）"
+    },
+    {
+      "label": "部分が全体へ結び付く変化・働き",
+      "description": "→ 「統合される、連携する」（語義3）"
+    },
+    {
+      "label": "人を集団へ結び付ける働き",
+      "description": "→ 「溶け込ませる、一員にする」（語義4）"
+    },
+    {
+      "label": "人が集団へ結び付く変化",
+      "description": "→ 「溶け込む、一員になる」（語義5）"
+    },
+    {
+      "label": "隔てられた人々を共通の場へ結ぶ変化",
+      "description": "→ 「人種統合する、人種隔離を撤廃する」（語義6）"
+    },
+    {
+      "label": "人々が集団へ結び付いている状態",
+      "description": "→ 「社会に溶け込んだ、分け隔てなく共にいる」（語義7）"
+    },
+    {
+      "label": "部分的な量を全体へまとめる計算",
+      "description": "→ 「積分する」（語義8）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【他動詞】（要素・機能・組織などを）統合する、組み込む",
+      "frequency": 7,
+      "register": [
+        "ビジネス、技術、行政、教育、学術で広く使う標準語。日常生活にも使えるが、会話では combine や work something into one's routine などの言い方も多い。人格の内部の統合は心理学の専門的な文脈で、英語全体では低頻度の応用である。"
+      ],
+      "definition": "複数のものを結び付けてまとまりのある全体にする、または要素をある全体の一部として取り入れる。部品、機能、データ、部門、考え、日々の活動などに使う。単に並べるよりも、全体の中で結び付けて扱うことに重点がある。元の要素が識別できなくなることや、統合が完全であることは必須ではなく、partially integrate「部分的に統合する」も自然である。心理学では、人格を構成する特性・動機・行動傾向などを、内的にまとまりのある全体へ結び付けることにも使う。",
+      "patterns": [
+        "integrate 〈複数の要素〉＝要素を統合する",
+        "integrate 〈要素A〉 and 〈要素B〉＝AとBを一体として扱う",
+        "integrate 〈要素A〉 with 〈要素B〉＝AをBと結び付ける",
+        "integrate 〈要素〉 into 〈全体〉＝要素を全体へ組み込む",
+        "〈仕組み〉 + integrate + 〈複数の機能〉＝仕組みが複数の機能を一体化して備える",
+        "be integrated into/with 〈全体・相手〉＝全体へ組み込まれる・相手と統合される",
+        "integrate 〈different aspects of one's personality〉＝人格の異なる側面を内的に統合する（心理学）"
+      ],
+      "collocations": [
+        {
+          "pattern": "integrate 〈new features〉 into 〈an existing platform〉",
+          "use": "新しい機能を既存の仕組みへ組み込む、技術文脈の基本形。",
+          "example": "The team integrated two new payment methods into the existing checkout system.",
+          "translation": "チームは二つの新しい支払い方法を、既存の購入手続きの仕組みに組み込んだ。"
+        },
+        {
+          "pattern": "integrate 〈the inventory system〉 with 〈the online store〉",
+          "use": "二つの仕組みを結び付け、一緒に機能させる。",
+          "example": "We integrated the inventory system with our online store so that stock levels update automatically.",
+          "translation": "在庫数が自動で更新されるように、在庫管理システムをオンラインストアと連携させた。"
+        },
+        {
+          "pattern": "integrate 〈theory〉 and 〈practice〉",
+          "use": "二つの領域や観点を結び付けて扱う。",
+          "example": "The course integrates theory and practice through weekly fieldwork.",
+          "translation": "その講座は毎週の実地調査を通じて理論と実践を結び付けている。"
+        },
+        {
+          "pattern": "fully integrate 〈the two departments〉",
+          "use": "統合の程度を副詞で示す。fully のほか、partially、closely、successfully なども使う。",
+          "example": "It took two years to fully integrate the two departments after the merger.",
+          "translation": "合併後、二つの部門を完全に統合するのに2年かかった。"
+        },
+        {
+          "pattern": "integrate 〈exercise〉 into 〈one's daily routine〉",
+          "use": "活動を日々の生活の一部として取り入れる。",
+          "example": "She integrated short walks into her daily routine by walking to the station.",
+          "translation": "彼女は駅まで歩くことで、短い散歩を日課に取り入れた。"
+        },
+        {
+          "pattern": "〈a platform〉 + integrate + 〈multiple services〉",
+          "use": "人ではなく、仕組みそのものを主語にして、何を一体化して提供するかを説明する。",
+          "example": "The platform integrates messaging, video calls, and file sharing in one workspace.",
+          "translation": "そのプラットフォームはメッセージ、ビデオ通話、ファイル共有を一つの作業環境にまとめている。"
+        },
+        {
+          "pattern": "be integrated into 〈the curriculum〉",
+          "use": "受動態で、内容を教育課程などへ組み込むことを述べる。",
+          "example": "Digital skills were integrated into the revised primary school curriculum.",
+          "translation": "改訂された小学校の教育課程に、デジタル技能が組み込まれた。"
+        },
+        {
+          "pattern": "be integrated with 〈an existing system〉",
+          "use": "受動態で、別の仕組みとの統合を述べる。",
+          "example": "The new booking software was integrated with the existing payment system during the upgrade.",
+          "translation": "更新の際、新しい予約ソフトが既存の決済システムと統合された。"
+        },
+        {
+          "pattern": "integrate 〈different aspects of one's personality〉",
+          "use": "心理学で、人格を構成する特性や動機などをまとまりのある全体へ結び付けることを表す。",
+          "example": "The chapter discusses how people integrate conflicting aspects of their personality.",
+          "translation": "その章では、人が自分の人格の中の相反する側面をどう統合するかを論じている。"
+        }
+      ],
+      "notes": [
+        "into は「全体へ組み込む」、with は「相手と結び付ける」に焦点を置く。with でも規模・地位が対等とは限らず、integrate a small tool with a large platform と言える。組み込み先を表す標準的な形は integrate A into B で、× integrate A to B は避ける。integrate A in B のように in で統合の場・全体を示す用例もあるため、in を一律に誤りとはしない。into/with は前置詞で、integrate it into the system のように目的語をその前に置く。integrate はそれだけで「接続が成功した」「性能が向上した」と保証する語ではなく、目的・計画・進行中の統合にも使う。The app integrates two calendars. は他動詞で「二つのカレンダーを統合する」。The app integrates with my calendar. は語義3の自動詞で「私のカレンダーと連携する」。be integrated は受動態にも語義2の状態表現にもなり、前後の文脈で判断する。integrate aspects of one's personality は人格内部の特性などをまとめること、integrate someone into a community（語義4）は人を共同体になじませることで、目的語と統合先が異なる。"
+      ],
+      "synonyms": [
+        {
+          "word": "combine",
+          "definition": "複数のものを合わせる、一つにまとめる。",
+          "frequency": 8,
+          "difference": "組み合わせ全般に使う広い語。integrate は全体の中でのつながりや、機能するまとまりに組み込む点を意識させやすい。",
+          "example": "She combined the two reports into a single document.",
+          "translation": "彼女は二つの報告書を一つの文書にまとめた。"
+        },
+        {
+          "word": "incorporate",
+          "definition": "ある要素を全体の中へ取り入れる。",
+          "frequency": 7,
+          "difference": "要素を含めて全体の一部にする点に重点がある。integrate は取り入れた要素と他の部分との連携を強調しやすいが、両語はしばしば重なる。",
+          "example": "The final draft incorporates the reviewers' comments.",
+          "translation": "最終稿には査読者の意見が取り入れられている。"
+        },
+        {
+          "word": "merge",
+          "definition": "複数の組織・情報などを一つの単位にまとめる。",
+          "frequency": 7,
+          "difference": "合流・合併という一つの単位への変化が中心。integrate は、別々の名称や機能を保ったものを連携させる場合にも使う。merge でも元の要素の痕跡がすべて消えるとは限らない。",
+          "example": "The company merged its two research divisions last spring.",
+          "translation": "その会社は昨春、二つの研究部門を合併させた。"
+        },
+        {
+          "word": "unify",
+          "definition": "分かれているものを一つにまとめ、統一を持たせる。",
+          "frequency": 5,
+          "difference": "統一した規則・目的・体制を作る点に重点がある。integrate は異なる部分が連携する仕組みにも使い、必ずしもすべてを同じ形式にそろえない。",
+          "example": "The reform unified the country's three separate pension systems.",
+          "translation": "その改革は国内の三つの別々の年金制度を一本化した。"
+        },
+        {
+          "word": "consolidate",
+          "definition": "複数の組織・業務などを集約して、まとまった体制にする。",
+          "frequency": 5,
+          "difference": "拠点・資料・業務の集約や強化に重点がある。integrate は集約先が一か所でなくても、部分どうしを連携させることに使える。",
+          "example": "The group consolidated its five regional offices into two hubs.",
+          "translation": "そのグループは五つの地域拠点を二つの中核拠点にまとめた。"
+        },
+        {
+          "word": "blend",
+          "definition": "異なる要素を混ぜ合わせ、調和させる。",
+          "frequency": 6,
+          "difference": "味、色、音、様式などの混ざり方・調和に重点がある。integrate はシステムや業務の機能的な結び付きにもよく使う。",
+          "example": "The design blends traditional materials with modern lines.",
+          "translation": "そのデザインは伝統的な素材と現代的な線を調和させている。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "separate",
+          "definition": "一緒になっているものを分け、別々にする。",
+          "frequency": 8,
+          "difference": "結び付けるか切り離すかという方向の対立。単なる未統合の状態ではなく、分ける操作を述べる。",
+          "example": "The company separated its consumer and enterprise divisions.",
+          "translation": "その会社は消費者向け部門と法人向け部門を分割した。"
+        },
+        {
+          "word": "fragment",
+          "definition": "全体を複数の小さな部分へ分断する。",
+          "frequency": 4,
+          "difference": "全体性を作るのと逆に、全体性を失わせる方向を表す。単に二つに分ける separate より細かい分断を意識させる。",
+          "example": "The reform fragmented the service into dozens of local agencies.",
+          "translation": "その改革は、そのサービスを数十の地域機関へ分散させた。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【分詞形容詞・限定／叙述】統合された、一体型の",
+      "frequency": 6,
+      "register": [
+        "技術、経営、教育、公共サービス、製品説明でよく使う。物や仕組みを修飾する限定用法が多いが、be、become、remain、seem の後ろで状態も述べる。人格の統合を述べる応用は心理学の専門的な文脈に限られやすく、英語全体では低頻度。"
+      ],
+      "definition": "integrated が形容詞として、複数の部分・機能が結び付き、まとまった仕組みや構成になっていることを表す。構成全体についても、その中に組み込まれた部分についても使う。製品では「内蔵の、組み込み型の」と訳すこともある。心理学の an integrated personality は、人格の特性・動機・行動などが内的にまとまり、協調して機能することを表す。人が社会になじんだ状態や人種などの分離がない状態は語義7、契約法上の最終的な書面表現は語義9。",
+      "patterns": [
+        "an integrated 〈system/approach〉＝統合された仕組み・統合的な取り組み",
+        "an integrated 〈camera〉＝内蔵カメラ",
+        "be/become/remain fully integrated＝完全に統合されている・その状態になる・その状態を保つ",
+        "be integrated into 〈全体〉＝全体に組み込まれている",
+        "be closely integrated with 〈相手〉＝相手と緊密に結び付いている",
+        "a more integrated 〈approach〉＝より一体的な取り組み",
+        "a vertically integrated 〈company〉＝複数の生産・流通段階を自社で担う会社",
+        "an integrated personality＝内的にまとまりのある人格（心理学）"
+      ],
+      "collocations": [
+        {
+          "pattern": "an integrated 〈system/approach〉",
+          "use": "複数の要素を一体として扱う仕組みや方法を表す。",
+          "example": "The city needs an integrated approach to housing, transport, and employment.",
+          "translation": "その市には住宅、交通、雇用を一体として考える取り組みが必要だ。"
+        },
+        {
+          "pattern": "an integrated circuit",
+          "use": "電子工学の固定表現で「集積回路」。多数の電子素子などを一つの半導体にまとめたものを指す。",
+          "example": "The sensor and its control circuitry are on the same integrated circuit.",
+          "translation": "センサーとその制御回路は、同じ集積回路上にある。"
+        },
+        {
+          "pattern": "an integrated 〈camera〉",
+          "use": "機器の一部としてあらかじめ組み込まれた機能・部品を指す。",
+          "example": "The laptop has an integrated camera above the screen.",
+          "translation": "そのノートパソコンには画面の上に内蔵カメラがある。"
+        },
+        {
+          "pattern": "an integrated 〈dishwasher〉",
+          "use": "特に英国の住宅・家電の説明で、キッチンの収納家具に組み込むタイプの家電を指す。",
+          "example": "The kitchen has an integrated dishwasher behind a matching cabinet door.",
+          "translation": "そのキッチンには、収納家具とそろいの扉の奥に組み込み式の食器洗い機がある。"
+        },
+        {
+          "pattern": "be fully integrated",
+          "use": "複数の部分が十分に結び付いた状態を述べる。",
+          "example": "The booking and payment systems are now fully integrated.",
+          "translation": "予約システムと決済システムは今では完全に統合されている。"
+        },
+        {
+          "pattern": "be integrated into 〈the design〉",
+          "use": "機能などが構成全体の一部になっている状態を述べる。",
+          "example": "The lighting is fully integrated into the ceiling design.",
+          "translation": "照明は天井のデザインと完全に一体化している。"
+        },
+        {
+          "pattern": "be closely integrated with 〈the rest of the network〉",
+          "use": "別の部分との結び付きの強さを述べる。",
+          "example": "The local bus service remains closely integrated with the rail network.",
+          "translation": "地域のバスサービスは、引き続き鉄道網と緊密に連携している。"
+        },
+        {
+          "pattern": "a more integrated 〈approach〉",
+          "use": "比較級で、別々に扱う度合いを減らした方法を述べる。",
+          "example": "We need a more integrated approach instead of separate plans for each department.",
+          "translation": "部門ごとの個別計画ではなく、もっと一体的な取り組みが必要だ。"
+        },
+        {
+          "pattern": "a vertically integrated 〈company〉",
+          "use": "経営の文脈で、生産・流通過程の異なる段階を同じ会社が担うことを表す。",
+          "example": "The group is a vertically integrated producer that grows, roasts, and sells its own coffee.",
+          "translation": "そのグループは、コーヒーを自社で栽培、焙煎、販売する垂直統合型の生産者だ。"
+        },
+        {
+          "pattern": "an integrated personality",
+          "use": "心理学で、人格の内部にまとまりがあることを表す。社会に受け入れられているという意味とは区別する。",
+          "example": "The psychologist described an integrated personality whose motives and behavior form a coherent whole.",
+          "translation": "その心理学者は、動機と行動が一貫した全体を成す、統合された人格について説明した。"
+        }
+      ],
+      "notes": [
+        "an integrated system にはハイフンを付けない。a well-integrated system は名詞の前の複合修飾語なのでハイフンを使うのが一般的だが、The system is well integrated. では通常付けない。fully integrated、closely integrated のような -ly 副詞との組み合わせは通常ハイフンなし。状態の程度には fully、highly、tightly、more、less などを使えるが、「内蔵型」の製品分類では単純な程度差を表さない場合もある。The systems were integrated by the engineers. は行為を述べる受動態、The systems seem well integrated. は状態を述べる形容詞的用法。The systems are integrated. だけでは両者の境界がはっきりしないこともある。integral「不可欠な」とも区別する。an integrated part は「組み込まれた部分」、an integral part は「欠かせない部分」である。垂直統合は異なる事業段階を担うことで、原料から販売までのすべてを自社で行うことが常に必要なわけではない。integrated appliances は組み込み方を表す語で、複数の家電が通信連携するという意味とは限らない。an integrated personality は人格内部のまとまり、a person well integrated into society（語義7）は社会的な参加・受け入れを表す。前者を単に「社交的な人」と訳したり、特定の診断や治療効果を意味すると捉えたりしない。"
+      ],
+      "synonyms": [
+        {
+          "word": "unified",
+          "definition": "複数の部分がまとまり、統一が取れている。",
+          "frequency": 6,
+          "difference": "共通の指揮・規格・方針など、統一性に重点がある。integrated は機能が異なる部分の連携にも使う。",
+          "example": "The army operates under a unified command.",
+          "translation": "その軍は統一された指揮系統のもとで活動している。"
+        },
+        {
+          "word": "combined",
+          "definition": "複数のものが合わされている。",
+          "frequency": 7,
+          "difference": "合わせたという広い意味で、合計額などにも使う。integrated は部分が全体の中で結び付いている構成に重点がある。",
+          "example": "The exhibition is the combined work of three photographers.",
+          "translation": "その展示は3人の写真家が共同で作り上げたものだ。"
+        },
+        {
+          "word": "built-in",
+          "definition": "機器・建物などの一部としてあらかじめ組み込まれている。",
+          "frequency": 6,
+          "difference": "内蔵の部品や組み込み式家電という意味で integrated と重なる。integrated approach のような複数分野の連携を、そのまま built-in approach とは言わない。",
+          "example": "The monitor has built-in speakers.",
+          "translation": "そのモニターにはスピーカーが内蔵されている。"
+        },
+        {
+          "word": "all-in-one",
+          "definition": "複数の機能を一つの機器・製品にまとめた。",
+          "frequency": 5,
+          "difference": "一台・一製品で複数の役割を果たせる点を強調する。integrated は物理的に一台にまとまらないサービス網にも使う。",
+          "example": "The printer is an all-in-one device that also scans and copies.",
+          "translation": "そのプリンターはスキャンもコピーもできる複合機だ。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "fragmented",
+          "definition": "ばらばらに分かれ、全体のまとまりを欠いている。",
+          "frequency": 5,
+          "difference": "まとまって機能する状態に対し、分断された状態を表す。通常は連携不足を問題として捉える。",
+          "example": "Patients struggle to navigate the fragmented health system.",
+          "translation": "患者たちは、ばらばらになった医療制度の中で必要なサービスを探すのに苦労している。"
+        },
+        {
+          "word": "standalone",
+          "definition": "他の仕組みの一部にならず、単独で機能する。",
+          "frequency": 5,
+          "difference": "組み込み・一体化に対する独立性という軸で対立する。fragmented と違って、連携不足や欠陥を意味しない。",
+          "example": "The software is available as a standalone product as well as part of the suite.",
+          "translation": "そのソフトは製品群の一部としても、単独製品としても入手できる。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【自動詞】（システム・要素が）統合される、連携する",
+      "frequency": 5,
+      "register": [
+        "技術、製品紹介、ビジネスでよく使う。建物の部分や計画が一つの全体になじむことにも使う。"
+      ],
+      "definition": "複数のシステム、機器、要素などが結び付き、一つの全体の中で働く。また、他の仕組みと連携して動作する。ソフトウェアなどを主語にした現在形は、一度限りの統合作業でなく、製品の連携機能・特性を述べることが多い。日本語では「統合される」と訳せても、英語では目的語を取らない能動形である。",
+      "patterns": [
+        "〈仕組み〉 + integrate with 〈別の仕組み〉＝別の仕組みと連携する",
+        "〈要素〉 + integrate into 〈全体〉＝全体に組み込まれて働く",
+        "〈複数の要素〉 + integrate well＝要素どうしがうまく連携する",
+        "〈仕組み〉 + fail to integrate with 〈相手〉＝相手とうまく連携しない"
+      ],
+      "collocations": [
+        {
+          "pattern": "integrate with 〈existing tools〉",
+          "use": "アプリやサービスが他の製品と連携することを述べる。",
+          "example": "The scheduling app integrates with most email clients.",
+          "translation": "そのスケジュール管理アプリは、ほとんどのメールソフトと連携する。"
+        },
+        {
+          "pattern": "integrate seamlessly with 〈the control software〉",
+          "use": "連携の滑らかさを副詞で表す。",
+          "example": "The new sensors integrate seamlessly with the factory's existing control software.",
+          "translation": "新しいセンサーは、工場の既存の制御ソフトと円滑に連携する。"
+        },
+        {
+          "pattern": "integrate into 〈an existing system〉",
+          "use": "部品や機能が既存の全体へ組み込まれて働くことを表す。",
+          "example": "The new module integrates easily into the existing control system.",
+          "translation": "新しいモジュールは、既存の制御システムに容易に組み込める。"
+        },
+        {
+          "pattern": "integrate well",
+          "use": "相手や全体が文脈上明らかなとき、前置詞句なしで連携の良し悪しを述べる。",
+          "example": "The camera and the editing software integrate well, so files transfer without conversion.",
+          "translation": "そのカメラと編集ソフトはうまく連携するので、ファイルを変換せずに転送できる。"
+        },
+        {
+          "pattern": "fail to integrate with 〈an older system〉",
+          "use": "機器などが他の仕組みと連携できないことを述べる。",
+          "example": "The new module failed to integrate with the older database system.",
+          "translation": "新しいモジュールは、旧式のデータベースシステムとうまく連携しなかった。"
+        }
+      ],
+      "notes": [
+        "The app integrates with my calendar. は「アプリがカレンダーと連携する」という自動詞構文。The app integrates two calendars. は語義1の他動詞で、「アプリが二つのカレンダーを一体化する」。連携相手を直接目的語にするのではなく with で示す。with は一緒に働く相手、into は組み込まれる先に焦点を置くので、常に交換できるわけではない。be integrated with は統合の出来事を述べる受動態にも、語義2の統合された状態にもなり、行為者の存在だけで機械的に分類しない。主語が人・集団で社会参加を述べる integrate with/into は語義5である。"
+      ],
+      "synonyms": [
+        {
+          "word": "interoperate",
+          "definition": "異なる機器やシステムが互いに情報を利用し、連携して動作する。",
+          "frequency": 3,
+          "difference": "相互運用性を表す技術語。integrate は相互運用に加え、部品が全体へまとまることや業務上の統合にも使う。",
+          "example": "The two hospital systems can interoperate through a shared data standard.",
+          "translation": "その二つの病院システムは、共通のデータ規格を通じて相互に情報を利用できる。"
+        },
+        {
+          "word": "sync",
+          "definition": "機器やサービスのデータ・動作を同期させる、同期する。",
+          "frequency": 5,
+          "difference": "ここでは自動詞で、データなどを対応した状態にそろえること。integrate は同期だけでなく機能全体の連携にも使う。",
+          "example": "The fitness tracker syncs with your phone every few minutes.",
+          "translation": "その活動量計は数分ごとに携帯電話と同期する。"
+        },
+        {
+          "word": "mesh",
+          "definition": "複数のものがうまくかみ合って働く。",
+          "frequency": 4,
+          "difference": "相性やかみ合いを重視する比喩的な語で、計画・考え方にも使う。技術的な接続を必ずしも表さない。",
+          "example": "The two departments' working styles mesh well.",
+          "translation": "その二つの部門の仕事の進め方は、うまくかみ合っている。"
+        },
+        {
+          "word": "merge",
+          "definition": "別々のものが一つの単位へ合流する。",
+          "frequency": 6,
+          "difference": "ここでは自動詞。integrate with は別の製品として連携する場合にも使うが、merge は一つにまとまる変化を強く示す。",
+          "example": "The two networks will merge into a single national system.",
+          "translation": "その二つのネットワークは、一つの全国的なシステムに統合される予定だ。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【他動詞・再帰用法もある】（人・集団を）溶け込ませる、一員にする",
+      "frequency": 5,
+      "register": [
+        "教育、人事、スポーツ、移民政策、社会についてのやや改まった文章・発言で使う。単なる入会手続きより、加入後の関係や参加にも目を向ける語である。"
+      ],
+      "definition": "人や集団を、社会・組織・チームなどの構成員として受け入れ、周囲の人と関わりながら参加できるようにする。新しく来た人を既存の集団になじませる場合にも、これまで別に扱われていた人々を一緒に受け入れる場合にも使う。主語は受け入れを進める人・機関など、目的語は参加する人。integrate oneself では本人が自分自身を目的語として、集団に溶け込むことを述べる。",
+      "patterns": [
+        "integrate someone into 〈集団・社会〉＝人を集団の一員にする",
+        "integrate someone with 〈他の人々〉＝人を他の人々と一緒に受け入れる・交流できるようにする",
+        "integrate 〈集団〉＝その集団を社会などへ受け入れる（受け入れ先は文脈で補う）",
+        "integrate oneself into 〈集団〉＝自ら集団に溶け込む",
+        "be integrated into 〈集団・社会〉＝集団に受け入れられる"
+      ],
+      "collocations": [
+        {
+          "pattern": "integrate 〈new employees〉 into 〈the team〉",
+          "use": "新しい構成員を既存のチームになじませる。",
+          "example": "The manager uses joint projects to integrate new employees into the team.",
+          "translation": "その管理職は、共同作業を通じて新入社員がチームになじめるようにしている。"
+        },
+        {
+          "pattern": "integrate 〈immigrants〉 into 〈society〉",
+          "use": "社会政策で、移民が地域の一員として参加できるようにすることを表す。",
+          "example": "The program aims to integrate immigrants into local society through language classes and community activities.",
+          "translation": "その事業は、語学講座と地域活動を通じて移民が地域社会に溶け込めるようにすることを目指している。"
+        },
+        {
+          "pattern": "integrate 〈children with disabilities〉 into 〈mainstream classes〉",
+          "use": "教育の文脈で、障害のある子どもを通常学級に受け入れる。",
+          "example": "The school provides extra support to integrate children with disabilities into mainstream classes.",
+          "translation": "その学校は、障害のある子どもを通常学級に受け入れるために追加の支援を提供している。"
+        },
+        {
+          "pattern": "integrate 〈new pupils〉 with 〈the other children〉",
+          "use": "with で、一緒に過ごす相手となる人々を示す。",
+          "example": "Group activities helped integrate the new pupils with the other children.",
+          "translation": "グループ活動は、転入してきた生徒たちが他の子どもたちになじむ助けになった。"
+        },
+        {
+          "pattern": "integrate oneself into 〈a research group〉",
+          "use": "再帰代名詞を使い、自分を集団の一員にしていくことを述べる。",
+          "example": "She gradually integrated herself into the research group by joining its weekly discussions.",
+          "translation": "彼女は毎週の議論に参加しながら、少しずつ研究グループに溶け込んでいった。"
+        },
+        {
+          "pattern": "be integrated into 〈the team〉",
+          "use": "受動態で、参加する側を主語にする。",
+          "example": "The new players were gradually integrated into the team by an experienced coach.",
+          "translation": "新しい選手たちは、経験豊富なコーチのもとで徐々にチームになじんでいった。"
+        }
+      ],
+      "notes": [
+        "The coach integrated her into the team. は他動詞で「コーチが彼女をチームになじませた」。She integrated into the team. は語義5の自動詞で「彼女がチームになじんだ」。She integrated herself into the team. は再帰構文で、自分をそこへ位置付ける本人の関与を示しやすいが、強い決意・努力を必ず意味するわけではない。受動態 She was integrated into the team. は再帰代名詞の省略形ではない。into/with が代表的だが、be integrated in regular classes のような in も使われる。integrate は「元の文化を捨てる」を必須とせず、文化的な独自性を保った参加にも使える。一方で語そのものが完全な平等・幸福・差別の解消を保証するわけでもない。教育分野では integration と inclusion を、既存の教育環境への編入と、環境そのものを多様な学習者に対応させることという観点から区別する場合があるため、制度名・政策文書では同義と決め付けない。"
+      ],
+      "synonyms": [
+        {
+          "word": "assimilate",
+          "definition": "人や集団を別の社会・文化の一部にし、その習慣などになじませる。",
+          "frequency": 4,
+          "difference": "多数派の文化・慣習に似ていく「同化」を意識させやすい。integrate は独自の文化を保った参加とも両立する。ただし assimilate も常に元の文化の完全な喪失を意味するわけではない。",
+          "example": "The policy sought to assimilate minority communities into the dominant culture.",
+          "translation": "その政策は、少数派の共同体を多数派の文化へ同化させようとしていた。"
+        },
+        {
+          "word": "include",
+          "definition": "人をある集団・活動・制度の対象に含める。",
+          "frequency": 8,
+          "difference": "参加者として数え入れることに広く使う。integrate は他の構成員との結び付きにも重点があるが、教育政策の専門用語としての inclusion はこれより広い理念を表す場合がある。",
+          "example": "The new policy includes part-time staff in the bonus scheme.",
+          "translation": "新しい方針は非常勤職員を賞与制度の対象に含めている。"
+        },
+        {
+          "word": "admit",
+          "definition": "組織・学校などへの加入や入学を認める。",
+          "frequency": 6,
+          "difference": "入ることを許可する段階が中心で、加入後に周囲となじむことまでは述べない。",
+          "example": "The club now admits members from outside the university.",
+          "translation": "そのクラブは現在、大学外の人の入会も認めている。"
+        },
+        {
+          "word": "mainstream",
+          "definition": "別の枠で学んでいた生徒などを通常の教育環境に編入する。",
+          "frequency": 2,
+          "difference": "ここでは教育の他動詞で、通常学級で学ぶ配置に重点がある。integrate は教育以外の社会参加や職場への受け入れにも使う。",
+          "example": "The district mainstreamed some students who had previously attended separate classes.",
+          "translation": "その学区は、以前は別の学級で学んでいた生徒の一部を通常学級に編入した。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "segregate",
+          "definition": "人を属性などによって分け、別々に置く。",
+          "frequency": 4,
+          "difference": "一緒に参加できるようにするのと逆に、集団間に分離を設ける方向を表す。",
+          "example": "The old rules segregated students by race.",
+          "translation": "古い規則は、生徒を人種別に分けていた。"
+        },
+        {
+          "word": "exclude",
+          "definition": "人を対象から外し、参加させない。",
+          "frequency": 7,
+          "difference": "受け入れに対する排除という方向の対立。別の集団として内部に置く segregate と違い、参加の範囲から外す。",
+          "example": "The scheme excluded workers on short-term contracts.",
+          "translation": "その制度は短期契約の労働者を対象から外していた。"
+        },
+        {
+          "word": "isolate",
+          "definition": "人を周囲から切り離し、孤立させる。",
+          "frequency": 6,
+          "difference": "人間関係を作る方向に対し、それを断つ方向を表す。人種分離のような制度的な措置に限らない。",
+          "example": "Working alone at night isolated her from her colleagues.",
+          "translation": "夜間に一人で働くことが、彼女を同僚から孤立させた。"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "【自動詞】（人・集団が）溶け込む、一員になる",
+      "frequency": 5,
+      "register": [
+        "地域社会、移住、教育、職場についてのやや改まった説明に多い。日常会話の「なじむ」には fit in もよく使う。"
+      ],
+      "definition": "人や集団が、社会・組織などの中で周囲との関係を築き、その一員として参加するようになる。主語は参加する側で、目的語は取らない。社会的な受け入れや習慣への適応を伴うことが多いが、どのような適応が必要かは場面による。into は参加先、with は関わる相手を示す。",
+      "patterns": [
+        "integrate into 〈集団・社会〉＝集団・社会の一員になる",
+        "integrate with 〈周囲の人々〉＝周囲の人々になじむ",
+        "〈人・集団〉 + integrate socially＝社会的になじむ",
+        "〈人・集団〉 + integrate well/quickly＝うまく・速く溶け込む",
+        "find it hard to integrate＝溶け込むのが難しいと感じる"
+      ],
+      "collocations": [
+        {
+          "pattern": "integrate into 〈the local community〉",
+          "use": "新しく来た人や集団が地域の一員になることを述べる。",
+          "example": "The family gradually integrated into the local community while maintaining close ties with relatives abroad.",
+          "translation": "その家族は、海外の親族との緊密なつながりを保ちながら、少しずつ地域社会に溶け込んでいった。"
+        },
+        {
+          "pattern": "integrate with 〈one's new colleagues〉",
+          "use": "with で、関わる相手となる人々を示す。",
+          "example": "She has integrated well with her new colleagues.",
+          "translation": "彼女は新しい同僚たちとうまくなじんでいる。"
+        },
+        {
+          "pattern": "integrate socially",
+          "use": "仕事の技能や学業成績とは別に、人との関係の面でなじむことを述べる。",
+          "example": "He enjoys his classes but still finds it difficult to integrate socially.",
+          "translation": "彼は授業を楽しんでいるが、人付き合いの面ではまだなじむのが難しいと感じている。"
+        },
+        {
+          "pattern": "integrate quickly",
+          "use": "相手が文脈上明らかなとき、前置詞句なしでなじむ速さを述べる。",
+          "example": "The new players integrated quickly and soon felt part of the team.",
+          "translation": "新しい選手たちはすぐになじみ、ほどなくチームの一員だと感じるようになった。"
+        },
+        {
+          "pattern": "find it hard to integrate",
+          "use": "本人が集団へなじむのに苦労していることを述べる。",
+          "example": "After moving abroad, she found it hard to integrate without speaking the local language.",
+          "translation": "海外へ移った後、彼女は現地の言葉を話せないままでは社会になじみにくいと感じた。"
+        }
+      ],
+      "notes": [
+        "「彼女がチームに溶け込んだ」は She integrated into the team.。She integrated the team. と直接目的語を付けると「彼女がチームを統合した」などの他動詞の意味になる。語義4の integrate herself into the team も本人がなじむことを表すが、再帰代名詞を含む別の他動詞構文であり、自動詞の integrate into で oneself が必要なわけではない。行き先を示す学習上の基本形は into、関わる相手は with。in も社会的な環境を示して使われるため、「in は常に誤り」という規則にはしない。integrate は本人の適応だけでなく、周囲に受け入れられる過程についても使える。人の性格や能力の全般的評価と同一視しない。機械・ソフトウェアの integrate with は語義3。"
+      ],
+      "synonyms": [
+        {
+          "word": "fit in",
+          "definition": "周囲の人や環境となじみ、違和感なく過ごす。",
+          "frequency": 7,
+          "difference": "日常的で、周囲との相性・居心地に重点がある。integrate は社会の構成員としての参加を客観的に説明する場面にも多い。",
+          "example": "It took him a while to fit in at his new school.",
+          "translation": "彼は新しい学校になじむのに少し時間がかかった。"
+        },
+        {
+          "word": "settle in",
+          "definition": "新しい場所や仕事に慣れ、落ち着く。",
+          "frequency": 6,
+          "difference": "生活・仕事の環境への慣れが中心で、他の人々と社会的な関係を築くことに限定されない。",
+          "example": "She soon settled in at her new office.",
+          "translation": "彼女はすぐに新しい職場に慣れた。"
+        },
+        {
+          "word": "assimilate",
+          "definition": "社会・文化の一部となり、その習慣などになじむ。",
+          "frequency": 4,
+          "difference": "ここでは自動詞で、周囲の文化に似ていく方向を強調しやすい。integrate は独自の文化を保った社会参加にも使えるが、両語の意味は重なることもある。",
+          "example": "The newcomers assimilated gradually rather than changing their habits overnight.",
+          "translation": "新しく来た人々は一夜にして習慣を変えたのではなく、徐々に周囲の文化になじんでいった。"
+        },
+        {
+          "word": "mix",
+          "definition": "他の人々と交わり、付き合う。",
+          "frequency": 5,
+          "difference": "交際・交流の行為が中心。integrate は集団の一員としてなじむ過程まで述べる。",
+          "example": "He doesn't mix much with the other students.",
+          "translation": "彼は他の学生とあまり付き合わない。"
+        },
+        {
+          "word": "blend in",
+          "definition": "周囲と似た外見・振る舞いになり、目立たなくなる。",
+          "frequency": 5,
+          "difference": "見分けがつきにくいことに重点があり、集団に受け入れられて関係を築くことは必須ではない。",
+          "example": "He wore a suit so that he would blend in at the reception.",
+          "translation": "彼は歓迎会で周囲から浮かないようにスーツを着た。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "withdraw",
+          "definition": "人や集団との関わりから身を引く。",
+          "frequency": 5,
+          "difference": "関係へ加わる方向に対し、そこから離れる方向を表す。集団の一員になることの単純な否定ではなく、距離を置く変化を述べる。",
+          "example": "After the argument, he withdrew from the group.",
+          "translation": "言い争いの後、彼はそのグループから距離を置くようになった。"
+        },
+        {
+          "word": "keep to oneself",
+          "definition": "他人とあまり関わらず、一人で過ごす。",
+          "frequency": 5,
+          "difference": "交流を通じてなじむのに対し、交流を控える状態を表す。なじめないことや排除されたことを必ず意味するわけではない。",
+          "example": "The new tenant keeps to himself and rarely speaks to the neighbors.",
+          "translation": "新しい入居者は一人で過ごすことが多く、近所の人ともめったに話さない。"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "【他動詞・自動詞・主に米国】人種統合する、人種隔離を撤廃する",
+      "frequency": 3,
+      "register": [
+        "主に米国の社会、教育、歴史、報道。公民権運動期の記述によく現れるが、現代の学校・居住地区の人種構成を論じるときにも使う。"
+      ],
+      "definition": "学校、組織、公共施設などの人種による分離をなくし、異なる人種の人々が同じ場に参加できるようにする。また、そのような状態になる。他動詞では、統合する側が主語、学校・施設・組織などが目的語になる。自動詞では学校などが主語になり、人種統合を行う・人種統合されることを表す。人種以外の宗教・民族などによる分離の解消にも使われるが、米国の歴史記述では人種が中心。",
+      "patterns": [
+        "integrate 〈the public schools〉＝公立学校を人種統合する（他動詞）",
+        "racially integrate 〈a school system〉＝学校制度を人種的に統合する（他動詞）",
+        "〈a school〉 + integrate＝学校が人種統合される（自動詞）",
+        "be integrated under 〈a court order〉＝裁判所の命令のもとで人種統合される（受動態）"
+      ],
+      "collocations": [
+        {
+          "pattern": "integrate 〈the public schools〉",
+          "use": "学校の人種分離を解消することを述べる。",
+          "example": "The court ordered the state to integrate its public schools and end racial segregation.",
+          "translation": "裁判所は州に対し、公立学校を人種統合し、人種分離をやめるよう命じた。"
+        },
+        {
+          "pattern": "racially integrate 〈a school system〉",
+          "use": "単なる学校同士の合併ではなく、人種統合であることを明示する。",
+          "example": "The district introduced a new admissions policy to racially integrate its school system.",
+          "translation": "その学区は学校制度を人種的に統合するため、新しい入学方針を導入した。"
+        },
+        {
+          "pattern": "〈a school〉 + integrate",
+          "use": "自動詞で、学校自体を主語にして人種統合を述べる。",
+          "example": "The school integrated after years of admitting only white students.",
+          "translation": "その学校は長年白人の生徒だけを受け入れていたが、その後、人種統合された。"
+        },
+        {
+          "pattern": "be integrated under 〈a court order〉",
+          "use": "受動態で、人種統合が行われたことを述べる。",
+          "example": "The previously segregated schools were integrated under a court order.",
+          "translation": "以前は人種別に分かれていた学校が、裁判所の命令のもとで人種統合された。"
+        }
+      ],
+      "notes": [
+        "integrate two schools だけなら「二校を組織的に統合する」という語義1にもなる。人種統合を明確にするには racially、racial segregation などの文脈を添える。integrate Black students into a previously all-white school のように人を目的語にすれば語義4と重なり、制度・施設を目的語にするこの用法とは焦点が異なる。desegregate と integrate は一般には同義として使われることがある。社会政策の議論では、分離を取り除く措置と、実質的な交流・平等な参加までを区別して後者を integration と呼ぶ場合もあるが、二語に常に厳密な境界があるわけではない。単語だけから法的な手続きや、差別がすべて解消されたことを推測しない。統合された状態を示す integrated school などは語義7。"
+      ],
+      "synonyms": [
+        {
+          "word": "desegregate",
+          "definition": "学校や施設などで、人種による分離をなくす。",
+          "frequency": 3,
+          "difference": "分離をなくすことを直接表す語で、法・規則だけでなく実際の慣行の撤廃にも使う。この語義の integrate と重なるが、integrate の一般的なシステム統合には使えない。",
+          "example": "The city desegregated its swimming pools, allowing Black and white residents to use them together.",
+          "translation": "市はプールの人種分離をやめ、黒人と白人の住民が一緒に利用できるようにした。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "segregate",
+          "definition": "人種によって施設・制度などを分ける。",
+          "frequency": 3,
+          "difference": "同じ場への参加を認めるのと逆に、人種による分離を設ける方向を表す。",
+          "example": "The old laws segregated schools and public transport by race.",
+          "translation": "古い法律は、学校と公共交通を人種別に分けていた。"
+        },
+        {
+          "word": "resegregate",
+          "definition": "人種統合された学校などを、再び人種別に分かれた状態にする、またそうなる。",
+          "frequency": 2,
+          "difference": "統合から分離へ戻るという逆方向を表し、以前に統合があったことを示す。社会・教育政策の専門的な議論に多い。",
+          "example": "Some schools resegregated as residential patterns changed.",
+          "translation": "居住分布の変化に伴い、再び人種別に分かれた学校もあった。"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "【分詞形容詞・限定／叙述・社会】社会に溶け込んだ、分け隔てなく共にいる",
+      "frequency": 3,
+      "register": [
+        "社会、教育、地域政策、報道。米国の学校・居住地区については人種の統合が典型的。北アイルランドの integrated education",
+        "school は宗派などの背景を越えて共に学ぶ教育・学校を指す。"
+      ],
+      "definition": "人が社会・集団の一員として受け入れられ、関わりを持っている状態、または異なる背景の人々が同じ集団・施設・地域で一緒に活動・生活している状態を表す。個人には well integrated into society のように、集団・制度には an integrated community/school のように使う。人種統合の場合は「人種統合された」と訳す。過去に法的な分離制度があったことを常に前提にする語ではない。",
+      "patterns": [
+        "an integrated 〈community/school〉＝異なる背景の人々が共にいる地域・学校（限定用法）",
+        "a well-integrated 〈member〉＝集団になじんだ構成員（限定用法）",
+        "be well integrated into 〈the community〉＝地域になじんでいる（叙述用法）",
+        "be/become more integrated＝社会的により一体化している・していく",
+        "be racially integrated＝人種的に統合されている"
+      ],
+      "collocations": [
+        {
+          "pattern": "an integrated 〈neighborhood〉",
+          "use": "異なる人種の住民が共に暮らす地区を表す。",
+          "example": "They grew up in an integrated neighborhood where Black and white families lived side by side.",
+          "translation": "彼らは、黒人と白人の家族が隣り合って暮らす、人種的に統合された地区で育った。"
+        },
+        {
+          "pattern": "an integrated 〈school〉",
+          "use": "人種・宗派などの異なる子どもが一緒に学ぶ学校を表す。",
+          "example": "Their children attend an integrated school in Northern Ireland with pupils from Protestant, Catholic, and other backgrounds.",
+          "translation": "その子どもたちは、北アイルランドでプロテスタント、カトリック、その他の背景をもつ生徒が共に学ぶ統合学校に通っている。"
+        },
+        {
+          "pattern": "a well-integrated 〈member〉",
+          "use": "個人が集団に十分なじんでいることを、名詞の前で述べる。",
+          "example": "Within a year, she was a well-integrated member of the local community.",
+          "translation": "1年もしないうちに、彼女は地域社会によくなじんだ一員になっていた。"
+        },
+        {
+          "pattern": "be well integrated into 〈the community〉",
+          "use": "人・集団の受け入れられた状態を叙述する。",
+          "example": "The family seems well integrated into the community and takes part in many local activities.",
+          "translation": "その家族は地域社会によくなじんでいるようで、多くの地域活動に参加している。"
+        },
+        {
+          "pattern": "become more integrated",
+          "use": "集団間の交流・結び付きが深まることを、比較級で述べる。",
+          "example": "The community has become more integrated as residents from different backgrounds work together on local projects.",
+          "translation": "異なる背景の住民が地域の事業で協力するにつれ、その地域社会の一体感は増している。"
+        },
+        {
+          "pattern": "be racially integrated",
+          "use": "人種に関する統合であることを、叙述用法で明示する。",
+          "example": "The school is racially integrated, with pupils from several racial groups learning together.",
+          "translation": "その学校では複数の人種の生徒が共に学んでおり、人種統合が実現している。"
+        }
+      ],
+      "notes": [
+        "integrated は個人にも使え、He seems well integrated into the team.「彼はチームによくなじんでいるようだ」は自然。ただし an integrated personality は人格内部の特性・動機などのまとまりを表す心理学の用法（語義2）で、社会への受け入れとは別の観点である。an integrated school は異なる人々を受け入れる学校、an integrated curriculum は教科などを結び付けた教育課程（語義2）で、同じ形でも修飾先と文脈により意味が違う。well/fully integrated、more/less integrated などで程度を表せる。become/remain/seem integrated は状態を述べ、get integrated は「なじむ・受け入れられる」変化をくだけて表すこともある。well-integrated の限定用法と well integrated の叙述用法のハイフン差は語義2と同じ。北アイルランドの統合教育はカトリックとプロテスタントの児童を共に教えることが歴史的な中心だが、現在の制度は他の宗教的・文化的背景、無宗教、社会経済的背景や能力の違いも含めて捉える。単に別々の学校が協力することと、同じ学校で共に学ぶ統合教育は区別される。"
+      ],
+      "synonyms": [
+        {
+          "word": "desegregated",
+          "definition": "人種による分離が取り除かれている。",
+          "frequency": 2,
+          "difference": "人種分離の撤廃という意味で integrated と重なるが、個人が新しい職場になじんだ状態には普通使わない。政治・教育の議論では実質的な統合と対比される場合もある。",
+          "example": "The students entered newly desegregated classrooms where Black and white children could study together.",
+          "translation": "生徒たちは、人種分離が撤廃され、黒人と白人の子どもが一緒に学べるようになった教室に入った。"
+        },
+        {
+          "word": "mixed",
+          "definition": "異なる種類・背景の人々から成る。",
+          "frequency": 6,
+          "difference": "構成員の違いに重点があり、人々が実際に交流していることまでは必須ではない。integrated は共通の場への参加・結び付きを意識させる。",
+          "example": "The school serves a mixed community of long-term residents and new arrivals.",
+          "translation": "その学校には、長年の住民と新しく来た人が入り交じる地域の子どもたちが通っている。"
+        },
+        {
+          "word": "multiracial",
+          "definition": "複数の人種から成る。",
+          "frequency": 3,
+          "difference": "人種構成を直接述べる語。integrated は宗派などによる分離がない状態にも使え、社会的な結び付きに焦点がある。",
+          "example": "They grew up in a multiracial suburb outside Chicago.",
+          "translation": "彼らはシカゴ郊外の、複数の人種が暮らす住宅地で育った。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "segregated",
+          "definition": "人種などの属性によって分かれている。",
+          "frequency": 3,
+          "difference": "同じ場に参加する状態に対し、別々にされている状態を表す。法的な規則による分離にも、事実上の分離にも使う。",
+          "example": "Despite the legal changes, many neighborhoods remained racially segregated.",
+          "translation": "法律が変わっても、多くの地区は人種別に分かれたままだった。"
+        },
+        {
+          "word": "isolated",
+          "definition": "周囲とのつながりを欠き、孤立している。",
+          "frequency": 6,
+          "difference": "ここでは人の社会的な状態。集団になじんで関係を持つ状態に対し、関係が乏しい状態を表すが、制度的な分離を必ず意味しない。",
+          "example": "She felt socially isolated in the new town.",
+          "translation": "彼女は新しい町で、人とのつながりがなく孤立していると感じた。"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "【他動詞・自動詞的用法・数学】積分する",
+      "frequency": 3,
+      "register": [
+        "数学、物理、工学、数値計算の専門用語。一般的な「統合する」とは区別して覚える。目的語を取る形が基本だが、対象が明らかな場合には integrate by parts など目的語を言わない形も使う。"
+      ],
+      "definition": "関数・式の積分を求める。不定積分では原始関数を求め、定積分では区間や領域にわたる量を計算する。微積分の基本定理によって微分と結び付く操作だが、すべての積分が単純な「面積」や正の総量になるわけではない。integrate a differential equation は、微分方程式を積分して解くことにも使い、数値計算ではその解を時間などに沿って求めることを指す。",
+      "patterns": [
+        "integrate 〈a function〉＝関数を積分する",
+        "integrate 〈an expression〉 with respect to 〈x〉＝式を x について積分する",
+        "integrate 〈a function〉 from 〈a〉 to 〈b〉＝aからbまでの定積分を求める",
+        "integrate 〈a quantity〉 over 〈a region/時間区間〉＝領域・時間区間にわたって積分する",
+        "integrate by parts＝部分積分を行う（目的語なし）",
+        "integrate 〈a function〉 numerically＝関数を数値的に積分する",
+        "integrate 〈a differential equation〉＝微分方程式を積分して解く"
+      ],
+      "collocations": [
+        {
+          "pattern": "integrate 〈the expression〉 with respect to 〈x〉",
+          "use": "積分変数を明示する。",
+          "example": "Integrate the expression with respect to x, treating y as a constant.",
+          "translation": "y を定数とみなして、その式を x について積分せよ。"
+        },
+        {
+          "pattern": "integrate 〈the function〉 from 〈a〉 to 〈b〉",
+          "use": "定積分の下端と上端を示す。",
+          "example": "Integrate the function f(x) = 2x from 0 to 1 to obtain a value of 1.",
+          "translation": "関数 f(x) = 2x を0から1まで積分すると、値は1になる。"
+        },
+        {
+          "pattern": "integrate 〈the velocity〉 over 〈the time interval〉",
+          "use": "物理量を時間区間にわたって積分する。",
+          "example": "Integrate the velocity over the time interval to find the net displacement.",
+          "translation": "その時間区間にわたって速度を積分し、変位を求めよ。"
+        },
+        {
+          "pattern": "integrate 〈the density〉 over 〈the region〉",
+          "use": "空間的な積分領域を over で示す。",
+          "example": "Integrate the density over the region to calculate its total mass.",
+          "translation": "その領域にわたって密度を積分し、全質量を求めよ。"
+        },
+        {
+          "pattern": "integrate by parts",
+          "use": "目的語を省き、部分積分という計算法を指定する。",
+          "example": "To evaluate the integral of x cos x, integrate by parts with u = x.",
+          "translation": "x cos x の積分を求めるには、u = x として部分積分を行う。"
+        },
+        {
+          "pattern": "integrate 〈the function〉 numerically",
+          "use": "数値計算によって積分の近似値を求める。",
+          "example": "The program integrates the function numerically over the specified interval.",
+          "translation": "そのプログラムは、指定された区間で関数を数値積分する。"
+        },
+        {
+          "pattern": "integrate 〈the differential equation〉",
+          "use": "微分方程式の解を積分によって求める。",
+          "example": "The solver integrates the differential equation numerically from the given initial condition.",
+          "translation": "そのソルバーは、与えられた初期条件から微分方程式を数値的に解く。"
+        }
+      ],
+      "notes": [
+        "変数を示すのは with respect to x で、× integrate by x をこの意味には使わない。by parts は手法、from a to b は上下限、over a region は領域を示す。対象が明らかなら Now integrate with respect to x. のように目的語なしでもよい。受動態も可能で、The function can be integrated analytically. は「その関数は解析的に積分できる」。不定積分では積分定数を伴い、定積分では符号付きの蓄積量を扱うため、「微分を完全に元に戻す」「必ず幾何学的な面積になる」とは一律に言えない。速度の定積分が表すのは変位で、移動距離を求めるには速さ、すなわち速度の大きさを積分する。differentiate「微分する」は逆向きの関連操作として対照できるが、通常の語彙的な反意語とは異なる。integral は得られる積分、integration は積分という操作を指し、integrated function は「積分された関数」であって「積分可能な関数」ではない。後者は integrable function と言う。"
+      ],
+      "synonyms": [
+        {
+          "word": "antidifferentiate",
+          "definition": "関数の原始関数を求める。",
+          "frequency": 2,
+          "difference": "不定積分に対応する操作を明示する数学語。integrate のように、定積分の数値計算や微分方程式の数値解法全般を広く指すわけではない。",
+          "example": "Students learn to antidifferentiate simple polynomials before studying definite integrals.",
+          "translation": "学生は定積分を学ぶ前に、簡単な多項式の原始関数を求めることを学ぶ。"
+        },
+        {
+          "word": "evaluate an integral",
+          "definition": "積分を計算して、その値や式を求める。",
+          "frequency": 3,
+          "difference": "integrate a function は対象の関数を、evaluate an integral は計算する積分を目的語にする。不定積分の評価にも使えるので、数値だけを求める表現ではない。",
+          "example": "Evaluate the integral of 2x cos(x²) using the substitution u = x².",
+          "translation": "u = x² と置換して、2x cos(x²) の積分を求めよ。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 9,
+      "title": "【分詞形容詞・限定／叙述・米国契約法】（合意・書面が）契約条項の最終的な表現となっている",
+      "frequency": 2,
+      "register": [
+        "米国の契約法、判例、法律文書の専門用語。複数の契約書を単に一つにまとめたという一般義とは区別する。"
+      ],
+      "definition": "当事者が、合意した一つ以上の条項を最終的に表したものとして、書面を位置付けていることを表す。integrated agreement/writing は、その範囲で合意の最終的な表現となる書面による合意・記載を指し、合意の全条項を尽くしているとは限らない。fully/completely integrated は対象となる合意を完全かつ排他的に記載したもの、partially integrated は記載された条項については最終的だが、合意のすべては記載していないものをいう。",
+      "patterns": [
+        "an integrated agreement/writing＝合意条項の最終的な表現となる書面による合意・記載（限定用法）",
+        "a fully/completely integrated contract＝当該合意について完全かつ排他的な記載となる契約",
+        "a partially integrated agreement＝一部の条項について最終的な書面表現となる合意",
+        "〈a writing〉 + be integrated＝書面が合意条項の最終的な表現となっている（叙述用法）"
+      ],
+      "collocations": [
+        {
+          "pattern": "an integrated agreement",
+          "use": "書面が合意条項の最終的な表現であることを述べる。",
+          "example": "The parties intended the signed document to be an integrated agreement as to the payment terms.",
+          "translation": "当事者は、支払い条件について、署名した書面を合意の最終的な表現とすることを意図していた。"
+        },
+        {
+          "pattern": "a fully/completely integrated contract",
+          "use": "書面が対象となる合意をすべて記載したものかを区別する。",
+          "example": "The court found a fully integrated contract because the parties intended the writing to state their entire bargain.",
+          "translation": "当事者がその書面に合意のすべてを記載する意図をもっていたことから、裁判所は完全に統合された契約と認めた。"
+        },
+        {
+          "pattern": "a partially integrated agreement",
+          "use": "記載された条項は最終的だが、合意の全体を尽くしていない書面を指す。",
+          "example": "The court found a partially integrated agreement: the writing finalized the payment terms but did not state the whole bargain.",
+          "translation": "裁判所は部分的に統合された合意と認めた。その書面は支払い条件を最終的に定めていたが、合意全体を記載してはいなかった。"
+        },
+        {
+          "pattern": "〈a writing〉 + be integrated",
+          "use": "書面の最終性を、叙述用法で争点として示す。",
+          "example": "The dispute turned on whether the writing was integrated rather than merely a preliminary draft.",
+          "translation": "その紛争の争点は、その書面が単なる予備的な草案ではなく、合意条項の最終的な表現になっていたかどうかだった。"
+        }
+      ],
+      "notes": [
+        "ここでの integrated は「書面にまとめた」「署名した」だけでは足りず、条項の最終的な表現とする当事者の意図に関わる。partially integrated は「未完成の草案」ではなく、記載された条項については最終的である。fully/partially は確定した表現の範囲を区別する専門的な修飾である。この用語は parol evidence rule（口頭証拠排除則）と結び付き、最終的に書かれた条項に反する従前の合意等を外部証拠で持ち込むことが原則として制限されるが、外部証拠が一切使えないという意味ではない。完全な記載か部分的な記載かに加え、解釈・補充・合意の有効性など何を立証するか、適用法が何かによって扱いが変わる。integration clause や merger clause は書面が最終的・完全な合意である旨を定める条項の名称であり、この形容詞は企業合併や単なる文書結合を述べているのではない。"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "unintegrated",
+          "definition": "契約条項の最終的な書面表現として位置付けられていない。",
+          "frequency": 2,
+          "difference": "ここでは契約法の専門用法。最終的な表現として採用されているか否かという対立を表す。partially integrated は一部の条項について最終的な表現になっているため、unintegrated と同じではない。",
+          "example": "The memorandum was unintegrated because neither party intended it as a final statement of the terms.",
+          "translation": "当事者のどちらもその覚書を条項の最終的な表現とする意図がなかったため、その覚書は統合された合意には当たらなかった。"
+        }
+      ]
+    }
+  ]
+}
