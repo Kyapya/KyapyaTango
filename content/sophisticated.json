@@ -3,7 +3,7 @@
   "slug": "sophisticated",
   "ipa": "米: /səˈfɪstəkeɪtɪd/｜英: /səˈfɪstɪkeɪtɪd/",
   "lead": "機械・システム・方法・分析などが、相応の知識や工夫を必要とするほど高度にできている。単に分かりにくく複雑なだけでなく、練り上げられた構造・技術・考え方を含むことが多い。ただし、sophisticated fraud のように悪用された巧妙さにも使え、道徳的な称賛を必ず含むわけではない。",
-  "updated": "2026-10-03",
+  "updated": "2026-10-06",
   "notion_url": "https://app.notion.com/p/sophisticated-3ee4faa9b77d81b397edcd2a3501e335",
   "pronunciation": [
     "5音節で、第2音節に主強勢を置く。ここでは第3音節の母音を米語 /ə/、英語 /ɪ/ とする代表形を示した。第1音節の母音は弱い /ə/、第4音節の母音は二重母音 /eɪ/、第5音節は /tɪd/。米語では第5音節の t が軽くはじく音になることがある。-cated 全体を1音節にせず、/keɪ/ と /tɪd/ に分ける。"
@@ -27,10 +27,6 @@
     {
       "term": "sophisticating",
       "description": "sophisticate の現在分詞。sophisticated は同動詞の過去形・過去分詞でもあるが、以下の主要用法では独立した形容詞として扱う。"
-    },
-    {
-      "term": "highly",
-      "description": "sophisticated: 「高度に発達した、非常に洗練された」という組み合わせ。highly は -ly 副詞なので、通常 highly-sophisticated とハイフンを入れない。"
     }
   ],
   "core": [
@@ -126,7 +122,7 @@
         }
       ],
       "notes": [
-        "限定用法 a sophisticated device と叙述用法 The device is sophisticated. の両方で使える。very、highly、increasingly、more などで程度を表し、比較級は more sophisticated、最上級は most sophisticated。sophisticateder とはしない。be sophisticated enough to detect… の enough は形容詞の後に置く。見た目が複雑でも仕組みが高度とは限らないため、complicated と常に同じではない。また高度さは「最新」「誤りがない」「常に最善」を保証せず、sophisticated but unreliable「高度だが信頼性に欠ける」も成立する。高度なシステムを形容する場合、通常は形容詞であって、誰かに sophisticate された受動態だと毎回分析する必要はない。"
+        "限定用法 a sophisticated device と叙述用法 The device is sophisticated. の両方で使える。very、highly、increasingly、more などで程度を表し、比較級は more sophisticated、最上級は most sophisticated。sophisticateder とはしない。highly sophisticated は「非常に高度な」という副詞と形容詞の組み合わせで、highly は -ly 副詞なので、通常 highly-sophisticated とハイフンを入れない。be sophisticated enough to detect… の enough は形容詞の後に置く。見た目が複雑でも仕組みが高度とは限らないため、complicated と常に同じではない。また高度さは「最新」「誤りがない」「常に最善」を保証せず、sophisticated but unreliable「高度だが信頼性に欠ける」も成立する。高度なシステムを形容する場合、通常は形容詞であって、誰かに sophisticate された受動態だと毎回分析する必要はない。"
       ],
       "synonyms": [
         {
@@ -155,9 +151,9 @@
         },
         {
           "word": "refined",
-          "definition": "改善を重ね、精度や質が高められている。",
+          "definition": "細かな改良によって、精度や質が高められている。",
           "frequency": 6,
-          "difference": "元の方法を改良した結果に焦点がある。sophisticated は改良の過程を示さず、現状の高度さを述べられる。",
+          "difference": "細部を練った精緻さに焦点があり、sophisticated の高度さと重なる。改良の含みはあるが、必ずその過程や以前の方法との比較を話題にするわけではなく、現在の精度や質を評価する場合にも使う。",
           "example": "A more refined method produced less variable results.",
           "translation": "より精緻な方法によって、結果のばらつきが小さくなった。"
         }
@@ -185,7 +181,7 @@
           "frequency": 8,
           "difference": "機能や水準の程度上の対立。無駄がないという肯定的な評価にもなり得る。",
           "example": "We only need a basic spreadsheet for these records.",
-          "translation": "この記録には基本的な表計算ソフトだけで十分だ。"
+          "translation": "この記録を管理するには、簡単な表計算シートで十分だ。"
         }
       ]
     },
@@ -198,7 +194,7 @@
       ],
       "definition": "人が社会経験を積み、文化や流行、社交の作法などを理解していて、振る舞いが洗練されていること。単なる知能の高さではなく、世の中や社交の場に通じている面を示す。通常は好意的だが、気取っている・素朴さを失っているという批判や皮肉を帯びることもある。",
       "patterns": [
-        "a sophisticated 〈person/traveler/host〉＝世慣れた人・旅行者・もてなし手",
+        "a sophisticated 〈person/traveler/host〉＝世慣れた人・旅行者・客をもてなす人",
         "be/seem sophisticated＝世慣れている・そう見える",
         "look sophisticated＝外見や振る舞いが洗練されて見える",
         "become/get more sophisticated＝社会経験を積んで世慣れてくる",
@@ -208,9 +204,9 @@
       "collocations": [
         {
           "pattern": "a sophisticated traveler",
-          "use": "旅や異文化に慣れた人を表す。",
+          "use": "旅や異文化、社交の場に通じた人を表す。",
           "example": "A sophisticated traveler, she moved easily between formal dinners and crowded street markets.",
-          "translation": "旅慣れた彼女は、格式ある晩餐の席でも混雑した露店街でも、自然に振る舞った。"
+          "translation": "旅慣れ、異文化や社交にも通じた彼女は、格式ある晩餐の席でも混雑した露店街でも、自然に振る舞った。"
         },
         {
           "pattern": "seem sophisticated",
@@ -440,8 +436,8 @@
         {
           "pattern": "sophisticated tastes",
           "use": "文化や食などへの好みの洗練を述べる。",
-          "example": "Her sophisticated tastes in music include chamber works from several traditions.",
-          "translation": "彼女の洗練された音楽の好みには、さまざまな伝統の室内楽作品が含まれている。"
+          "example": "She has sophisticated tastes in music and enjoys comparing different interpretations of the same work.",
+          "translation": "彼女は音楽の趣味が洗練されており、同じ作品の異なる解釈を聴き比べるのを楽しんでいる。"
         },
         {
           "pattern": "look sophisticated",
