@@ -3,7 +3,7 @@
   "slug": "emerge",
   "ipa": "米: /ɪˈmɜːrdʒ/｜英: /ɪˈmɜːdʒ/",
   "lead": "内部、物陰、水中など、それまで見えなかった場所から人や物が出て、見えるようになる。単に外へ移動するだけでなく、姿が現れるところに焦点がある。",
-  "updated": "2026-10-03",
+  "updated": "2026-10-06",
   "notion_url": "https://app.notion.com/p/emerge-3ee4faa9b77d81eeaab9ee1fe7f927d8",
   "pronunciation": [
     "2音節で、第2音節に主強勢を置く。第2音節では、米語は母音に r の響きを伴い、英語は通常 r を発音しない。語末の /dʒ/ に日本語の「ジ」の母音を加えない。emerges は /ɪˈmɜːrdʒɪz/（米）で3音節、emerged は /ɪˈmɜːrdʒd/（米）で2音節。emerging は /ɪˈmɜːrdʒɪŋ/（米）で3音節になる。"
@@ -35,7 +35,7 @@
   ],
   "core": [
     {
-      "label": "「見えない・知られていない・以前の状態の内側から、表に出てくる」という核。姿や事実が見える場合、新しい存在や勢力が表に出る場合、困難な時期を抜ける場合へ広がる。",
+      "label": "「見えない・知られていない・以前の状態の内側から、表に出てくる」という核。姿や事実の出現、新しい存在や勢力の台頭から、困難を抜ける人・組織の動き（語義5）、物事が現れ、存在感を増しつつある段階（語義6）へ広がる。",
       "description": ""
     },
     {
@@ -52,14 +52,14 @@
     },
     {
       "label": "内側から表に出る地位・存在感",
-      "description": "→ 「台頭する、～として頭角を現す」（語義4）"
+      "description": "→ 「台頭する、～として頭角を現す、結果として～となる」（語義4）"
     },
     {
-      "label": "内側から表に出る困難後の状態",
+      "label": "困難の内側から表に出る人・組織など",
       "description": "→ 「困難を抜け出す、経験を経て～となる」（語義5）"
     },
     {
-      "label": "内側から表に出つつある出現・発展の段階",
+      "label": "内側から表に出つつある物事・人",
       "description": "→ 「新たに現れつつある、新興の、発展しつつある」（語義6）"
     }
   ],
@@ -223,8 +223,8 @@
           "definition": "隠れていた事実が明らかになる。",
           "frequency": 6,
           "difference": "それまで知られていなかった事実の発見を特に強く表す。",
-          "example": "The missing document came to light during the move.",
-          "translation": "引っ越しの際に、見つからなかった書類が出てきた。"
+          "example": "New facts about the missing document came to light during the investigation.",
+          "translation": "調査中に、行方不明の書類に関する新たな事実が明らかになった。"
         },
         {
           "word": "surface",
@@ -318,7 +318,7 @@
     },
     {
       "number": 4,
-      "title": "【動詞・自動詞】台頭する、～として頭角を現す",
+      "title": "【動詞・自動詞】台頭する、～として頭角を現す、結果として～となる",
       "frequency": 7,
       "register": [
         "報道、政治、ビジネス、競争の結果を述べる文章に多い。"
@@ -481,11 +481,15 @@
       ],
       "definition": "物事が新たに現れたり、知られるようになったり、発展して存在感を増したりしている段階にある。分野・技術・経済・才能だけでなく、新たな脅威や問題にも使う。emerge の現在分詞から定着した用法で、単に「今そこから出てきている」という動作だけを表さない。",
       "patterns": [
-        "emerging 〈市場・経済を表す名詞〉＝成長しつつある市場・経済",
-        "an emerging 〈分野・技術を表す単数名詞〉＝発展しつつある分野・技術",
-        "an emerging 〈人を表す単数名詞〉＝頭角を現しつつある人",
-        "newly emerging 〈複数名詞〉＝新しく台頭しつつあるもの",
-        "emerging 〈問題・脅威を表す名詞〉＝新たに現れつつある問題・脅威"
+        "emerging 〈市場・経済を表す複数名詞〉＝成長しつつある市場・経済",
+        "an emerging 〈分野・技術を表す単数可算名詞〉＝発展しつつある一つの分野・技術",
+        "emerging 〈分野・技術を表す複数名詞〉＝発展しつつある分野・技術",
+        "an emerging 〈人を表す単数名詞〉＝頭角を現しつつある一人",
+        "emerging 〈人を表す複数名詞〉＝頭角を現しつつある人々",
+        "a newly emerging 〈単数可算名詞〉＝新しく現れつつある一つのもの",
+        "newly emerging 〈複数名詞〉＝新しく現れつつあるもの",
+        "the emerging 〈名詞〉＝文脈上特定できる、現れつつあるもの",
+        "emerging 〈問題・脅威を表す複数名詞〉＝新たに現れつつある問題・脅威"
       ],
       "collocations": [
         {
@@ -520,7 +524,7 @@
         }
       ],
       "notes": [
-        "an emerging market は名詞を修飾する形容詞的用法。emerging threats のように好ましくないものにも使い、emerging 自体が有望さや好ましさを保証するわけではない。一方、New markets are emerging. は「新しい市場が生まれつつある」という動詞の進行形（語義3）として読むのが基本。The market is emerging. も自然だが、独立した叙述形容詞の典型として扱わない。very emerging や emerginger は通常使わず、still emerging や at an early stage of development のように段階を表す。emerging と名詞の間に通常ハイフンは置かない。emerging market は経済上の分類としても使われるが、どの国・市場が該当するかは分類機関などにより異なり、この形容詞だけで統一された制度上の基準が決まるわけではない。"
+        "an emerging market は名詞を修飾する形容詞的用法。上の単数・複数形は構文例であり、emerging や newly emerging が後続名詞の数・冠詞を決めるわけではない。emerging technologies、emerging artists、a newly emerging field、the emerging technology なども使える。冠詞や単複は名詞の可算性や文脈に従い、不定冠詞が emerging の直前なら an、newly emerging の直前なら a になる。emerging threats のように好ましくないものにも使い、emerging 自体が有望さや好ましさを保証するわけではない。一方、New markets are emerging. は「新しい市場が生まれつつある」という動詞の進行形（語義3）として読むのが基本。The market is emerging. も自然だが、独立した叙述形容詞の典型として扱わない。very emerging や emerginger は通常使わず、still emerging や at an early stage of development のように段階を表す。emerging と名詞の間に通常ハイフンは置かない。emerging market は経済上の分類としても使われるが、どの国・市場が該当するかは分類機関などにより異なり、この形容詞だけで統一された制度上の基準が決まるわけではない。"
       ],
       "synonyms": [
         {
@@ -543,9 +547,9 @@
           "word": "up-and-coming",
           "definition": "将来の成功が期待される、伸び盛りの。",
           "frequency": 5,
-          "difference": "人や場所の有望さを評価する語で、emerging より将来の成功への期待が強い。",
+          "difference": "人や場所の有望さを評価する語で、emerging より将来の成功への期待が強い。人に使っても、年齢が若いとは限らない。",
           "example": "She interviewed several up-and-coming musicians.",
-          "translation": "彼女は何人かの有望な若手音楽家にインタビューした。"
+          "translation": "彼女は何人かの有望な音楽家にインタビューした。"
         }
       ],
       "antonyms": [
