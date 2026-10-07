@@ -1,0 +1,396 @@
+{
+  "word": "tenable",
+  "slug": "tenable",
+  "ipa": "米・英: /ˈten.ə.bəl/。3音節で、第1音節 /ten/ に主強勢がある。第2・第3音節の母音は弱い /ə/。語尾 -able を /eɪ.bəl/ と読まない。反対語 untenable は /ʌnˈten.ə.bəl/ で、主強勢は ten の部分にある。",
+  "lead": "主張、理論、解釈、説明、意見上の立場などに、批判や反論に対して支持できる根拠がある。「筋が通る」「維持しうる」と訳す。唯一の正解である、反論が不可能である、完全に証明済みである、という意味ではない。",
+  "updated": "2026-10-07",
+  "notion_url": "https://app.notion.com/p/tenable-3f24faa9b77d810d8187dcee712a354a",
+  "pronunciation": [],
+  "etymology": [
+    "フランス語 tenable「保持できる、防衛できる」から入り、tenir「持つ、保持する」と -able「～できる」に由来する。tenir はラテン語 tenere「保持する」にさかのぼる。「持ちこたえる・保持できる」というつながりから、陣地だけでなく、主張、立場、職などにも使う。",
+    "tenant「借り手、賃借人」、tenure「保有、在職期間・地位の保障」、tenacious「粘り強い」も tenere の系統。tenable と tenured は形が似ていても、「終身在職権を持つ」という意味を共有するわけではない。"
+  ],
+  "formation": [
+    {
+      "term": "untenable",
+      "description": "は形容詞で「擁護できない、維持できない」。an untenable argument「成り立たない議論」、an untenable situation「維持できない状況」などに使い、何が持ちこたえられないのかを文脈で読む。"
+    },
+    {
+      "term": "tenability",
+      "description": "は名詞で「主張などを維持・擁護できること、その可能性」。the tenability of a theory のような学術的・論説的な表現に使う。防火・避難安全では、火災環境にさらされた人が必要な認知・運動機能を保てることもいう。tenability analysis は、その環境条件や継続可能な時間などの評価を指す。"
+    },
+    {
+      "term": "tenably",
+      "description": "は副詞で「擁護できる形で、もっともな根拠をもって」。硬く比較的まれで、can be tenably argued などの形がある。"
+    }
+  ],
+  "core": [
+    {
+      "label": "「支えられており、保持し続けることができる」。論拠によって主張を保持する、条件の下で状況や職を維持する、攻撃に対して場所を守る、火災条件下で人が活動能力を保つ、という違いがある。何を保持するかと、何に支えられているかを見分ける。",
+      "description": ""
+    },
+    {
+      "label": "保持できるものが論拠に支えられた主張",
+      "description": "→ 「擁護できる、成り立つ」（語義1）"
+    },
+    {
+      "label": "保持できるものが続行可能な状況や立場",
+      "description": "→ 「維持できる、続けられる」（語義2）"
+    },
+    {
+      "label": "保持できるものが所定条件下の職や給付",
+      "description": "→ 「所定の期間・条件で就任・保有できる」（語義3）"
+    },
+    {
+      "label": "保持できるものが攻撃に耐えうる陣地",
+      "description": "→ 「保持・防衛できる」（語義4）"
+    },
+    {
+      "label": "保持できるものが火災下の人の活動能力",
+      "description": "→ 「人が滞在・活動・避難できる」（語義5）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【形容詞】擁護できる、成り立つ",
+      "frequency": 6,
+      "register": [
+        "フォーマル。議論、研究、分析、論説、業務上の説明や判断。"
+      ],
+      "definition": "主張、理論、解釈、説明、意見上の立場などに、批判や反論に対して支持できる根拠がある。「筋が通る」「維持しうる」と訳す。唯一の正解である、反論が不可能である、完全に証明済みである、という意味ではない。",
+      "patterns": [
+        "a tenable 〈argument/theory/interpretation/position〉",
+        "〈主張・解釈〉 + be/remain/seem tenable",
+        "be no longer tenable",
+        "make 〈主張・解釈〉 + less tenable。限定・叙述の両方で使う。intellectually/logically tenable で評価の面を示し、more/less/hardly/entirely tenable で支持可能性を評価する。tenable that 節を基本形にせず、the claim that ... is tenable のように主張を表す名詞に that 節を続ける。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a tenable argument",
+          "use": "反論に耐えうる議論を評価する。",
+          "example": "She presented a tenable argument for keeping the two functions separate.",
+          "translation": "彼女は、二つの機能を分けておくことについて、十分に成り立つ議論を示した。"
+        },
+        {
+          "pattern": "a tenable interpretation",
+          "use": "資料などの解釈が根拠を持つと述べる。",
+          "example": "This is a tenable interpretation of the findings, though it is not the only one.",
+          "translation": "これは調査結果について成り立つ解釈だが、唯一の解釈ではない。"
+        },
+        {
+          "pattern": "remain tenable",
+          "use": "新しい情報や批判を受けても主張を支持できると述べる。",
+          "example": "The hypothesis remains tenable despite the new evidence.",
+          "translation": "新しい証拠が出た後も、その仮説はなお擁護できる。"
+        },
+        {
+          "pattern": "be no longer tenable",
+          "use": "新しい事実により、それまでの主張を維持できなくなったと述べる。",
+          "example": "The claim that demand would keep rising is no longer tenable.",
+          "translation": "需要が増え続けるという主張は、もはや成り立たない。"
+        },
+        {
+          "pattern": "make 〈主張・解釈〉 less tenable",
+          "use": "根拠が弱まり、主張を支持しにくくなると述べる。",
+          "example": "The missing records make that explanation less tenable.",
+          "translation": "記録が欠けているため、その説明は以前より支持しにくくなっている。"
+        },
+        {
+          "pattern": "be logically tenable",
+          "use": "主張が論理の面で維持できるかを評価する。",
+          "example": "The conclusion is logically tenable only if both assumptions are accepted.",
+          "translation": "その結論は、二つの前提をどちらも認める場合に限って論理的に成り立つ。"
+        }
+      ],
+      "notes": [
+        "a tenable position の position は、ここでは意見・議論上の立場。語義3の a position tenable for two years は、一定期間就ける職をいう。tenable はこの語義なら名詞前にも置けるので、「名詞の前では使えない」と語全体の規則にしない。論拠のない単なる可能性なら possible、実際の実行可能性なら feasible や viable が適することがある。ただし、計画や立場については「実行・維持できる」と「擁護できる」が重なる場合もあり、これらを常に排他的に分けない。誤: The evidence tenables the argument. → 正: The evidence makes the argument tenable. tenable は動詞ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "defensible",
+          "definition": "批判に対して根拠を示して擁護できる。",
+          "frequency": 6,
+          "difference": "この語義で非常に近く、批判に対する正当化を前面に出す。defensible decision は判断の正当性、tenable theory は理論を維持できることを評価しやすい。",
+          "example": "Given the information available, it was a defensible decision.",
+          "translation": "当時得られた情報からすれば、それは擁護できる判断だった。"
+        },
+        {
+          "word": "plausible",
+          "definition": "一見もっともらしく、真実である可能性が感じられる。",
+          "frequency": 7,
+          "difference": "信じられそうに見えることを表し、吟味した後も十分な根拠で支持できるとは限らない。tenable は反論に耐えて維持できるかを問う。",
+          "example": "The explanation sounds plausible, but we have not checked it.",
+          "translation": "その説明はもっともらしく聞こえるが、まだ確かめてはいない。"
+        },
+        {
+          "word": "supportable",
+          "definition": "証拠や理由によって支えられる。",
+          "frequency": 4,
+          "difference": "主張を支える根拠があることを直接示す。tenable は批判があってもその立場を保持できるという評価を表しやすい。",
+          "example": "The claim is supportable with the data we already have.",
+          "translation": "その主張は、すでにあるデータで裏付けることができる。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "untenable",
+          "definition": "主張や説明を十分な根拠で擁護・維持できない。",
+          "frequency": 6,
+          "difference": "擁護可能性という同じ軸で直接対立する。単に好ましくないのではなく、その立場を支え続けられないことを示す。",
+          "example": "The new measurements made the original theory untenable.",
+          "translation": "新しい測定値によって、当初の理論は成り立たなくなった。"
+        },
+        {
+          "word": "indefensible",
+          "definition": "根拠や正当性の面から擁護しようがない。",
+          "frequency": 5,
+          "difference": "同じ擁護可能性の軸で対立し、強い非難や倫理的評価を伴うこともある。untenable は論理や証拠の不足だけでも使える。",
+          "example": "Ignoring all contrary evidence is intellectually indefensible.",
+          "translation": "反対の証拠を全て無視することは、知的態度として擁護できない。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【形容詞】維持できる、続けられる",
+      "frequency": 5,
+      "register": [
+        "ややフォーマル。職場、経営、社会的な立場、生活条件など。not tenable や no longer tenable といった否定的な評価でも使う。"
+      ],
+      "definition": "状況、仕組み、生活・仕事上の立場などが、負担、制約、対立、圧力の下でも成り立ち、続けられる。語義1のように主張の正しさだけを論じるのではなく、現実にその状態を保てるかをいう。",
+      "patterns": [
+        "〈状況・仕組み・立場〉 + be/remain/become tenable",
+        "be tenable for 〈人・組織〉",
+        "be tenable in the long term",
+        "a tenable arrangement。限定・叙述の両方が可能。more/less tenable で維持のしやすさを比較し、financially/practically tenable で評価する面を示せる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "be tenable in the long term",
+          "use": "状況や仕組みを長期的に保てるかを述べる。",
+          "example": "Relying on unpaid overtime is not tenable in the long term.",
+          "translation": "無給の残業に頼り続けるやり方は、長期的には維持できない。"
+        },
+        {
+          "pattern": "be tenable for 〈人・組織〉",
+          "use": "特定の当事者にとって継続可能な条件かを評価する。",
+          "example": "At that rent, the arrangement is no longer tenable for a small business.",
+          "translation": "その家賃では、小規模な事業者がこの契約関係を続けることはもはや難しい。"
+        },
+        {
+          "pattern": "a tenable arrangement",
+          "use": "当事者が続けていける仕組みを指す。",
+          "example": "We need a tenable arrangement that allows both teams enough time to do their work.",
+          "translation": "両チームが十分な作業時間を確保できる、続けていける仕組みが必要だ。"
+        },
+        {
+          "pattern": "〈職務上の立場〉 + be no longer tenable",
+          "use": "信頼や支持を失うなどして、その地位にとどまれないと述べる。",
+          "example": "After the board withdrew its support, her position as director was no longer tenable.",
+          "translation": "理事会が支持を撤回したため、彼女が責任者の地位にとどまることはもはやできなくなった。"
+        }
+      ],
+      "notes": [
+        "her position is no longer tenable は、position が意見なら語義1の「その主張はもう維持できない」、職務上の立場なら「その職にとどまれない」となる。必ず解雇された、退職届を出した、という出来事までを述べる表現ではない。また、期間や場所を示して職・給付を保有できるという語義3とは異なり、この語義は現実的・社会的に続けられるかの評価。sustainable、viable と重なるが、「続けられる」理由が経済的か、組織的か、倫理的かは文脈で明らかにする。"
+      ],
+      "synonyms": [
+        {
+          "word": "sustainable",
+          "definition": "必要な資源や条件を保ちつつ、長期的に継続できる。",
+          "frequency": 7,
+          "difference": "継続可能性を特に明確に示し、環境保護だけでなく業務負荷や財政にも使う。tenable は信頼・支持や人間関係の面から持ちこたえられるかにも使う。",
+          "example": "This workload is not sustainable without additional staff.",
+          "translation": "この業務量は、人員を増やさなければ維持できない。"
+        },
+        {
+          "word": "viable",
+          "definition": "現実の条件の下で機能し、存続できる。",
+          "frequency": 7,
+          "difference": "事業や案などの実行・存続可能性を表しやすい。tenable は現状や立場を保持し続けられるかという評価を表しやすいが、両者が重なる場合もある。",
+          "example": "The business is viable only if transport costs remain low.",
+          "translation": "輸送費が低いままである場合に限り、その事業は成り立つ。"
+        },
+        {
+          "word": "workable",
+          "definition": "実際に運用して機能させられる。",
+          "frequency": 6,
+          "difference": "解決策や手順の実用性に重点がある。現状を維持できることや、社会的にその立場にとどまれることの全てを表すわけではない。",
+          "example": "The teams agreed on a workable schedule.",
+          "translation": "両チームは実行可能な日程で合意した。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "untenable",
+          "definition": "状況や立場を維持し続けられない。",
+          "frequency": 6,
+          "difference": "維持可能性という同じ軸で直接対立する。こちらは議論の根拠不足だけをいう語義1の反意語用法とは区別する。",
+          "example": "The loss of funding left the project in an untenable position.",
+          "translation": "資金を失ったことで、プロジェクトは存続できない状況に置かれた。"
+        },
+        {
+          "word": "unsustainable",
+          "definition": "負担や資源の不足などにより、長く続けられない。",
+          "frequency": 7,
+          "difference": "継続可能性という軸で対立し、特に長期的な負担や資源の維持に焦点を当てる。",
+          "example": "The current level of spending is unsustainable.",
+          "translation": "現在の支出水準は持続できない。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【形容詞・主に叙述／名詞後置】所定の期間・条件で就任・保有できる",
+      "frequency": 2,
+      "register": [
+        "大学・研究機関の公募、奨学金・研究助成の要項などの非常に硬い用法。特に英国系の学術案内で見られる。"
+      ],
+      "definition": "職、研究員の地位、奨学金・研究助成などを、指定された期間、開始日、場所などの条件で保有・利用できる。「任期が～である」「～で受給できる」などと訳す。主張を擁護できるという語義1や、負担に耐えて続けられるという語義2ではなく、職・給付の保持条件を記す用法。",
+      "patterns": [
+        "〈職・給付〉 + be tenable for 〈期間〉",
+        "be tenable from 〈開始日〉",
+        "be tenable at 〈機関〉",
+        "a fellowship tenable for 〈期間〉。この意味では通常、名詞の前に単独で置かず、be の後か名詞の後ろに条件句とともに置く。保持条件を述べるため、通常は very や more で程度比較しない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "be tenable for 〈期間〉",
+          "use": "職や研究員の任期を示す。",
+          "example": "The research fellowship is tenable for eighteen months.",
+          "translation": "そのリサーチフェロー職の任期は18か月である。"
+        },
+        {
+          "pattern": "be tenable from 〈開始日〉",
+          "use": "職・給付を保持できる開始日を示す。",
+          "example": "The appointment is tenable from 1 October.",
+          "translation": "その職の任用開始日は10月1日である。"
+        },
+        {
+          "pattern": "be tenable at 〈機関〉",
+          "use": "奨学金・研究助成などの受給先となる機関を示す。",
+          "example": "The scholarship is tenable at any of the participating universities.",
+          "translation": "その奨学金は、参加大学のいずれでも受給できる。"
+        },
+        {
+          "pattern": "a fellowship tenable for 〈期間〉",
+          "use": "名詞の後ろから保有条件を示す。",
+          "example": "The institute offers a fellowship tenable for one year, with no option for renewal.",
+          "translation": "その研究所は、更新のない1年間のフェローシップを提供している。"
+        }
+      ],
+      "notes": [
+        "a tenable argument は語義1として自然だが、「任期が2年の職」を a tenable job とだけ書いても期間は伝わらない。a post tenable for two years や a two-year appointment のように条件を明示する。tenable for two years は「その2年間ずっと批判に耐える」という意味ではなく、この文脈では保有可能な期間を示す。tenured position「在職権の保障された職」とも別で、tenable だけから恒久的な雇用や更新の保証を推測しない。for は期間、from は開始日、at は機関を示すので、互いに置き換えない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【形容詞】保持・防衛できる",
+      "frequency": 2,
+      "register": [
+        "軍事・戦史などの硬い用法。日常の tenable は主張や状況に使われることが多く、この意味を最初に当てはめない。"
+      ],
+      "definition": "陣地や拠点などを、敵の攻撃に対して保持し、守り続けられる。語義1の「議論上の立場を守る」と対応する物理的な用法。",
+      "patterns": [
+        "a tenable position",
+        "〈陣地・拠点〉 + be/remain tenable",
+        "be tenable against 〈攻撃〉。限定・叙述の両方が可能。more/less tenable で防衛のしやすさを比較できる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a tenable position",
+          "use": "攻撃に耐えて保持できる陣地を指す。",
+          "example": "The troops withdrew to a tenable position on the ridge.",
+          "translation": "部隊は、尾根の防衛可能な陣地まで後退した。"
+        },
+        {
+          "pattern": "remain tenable against 〈攻撃〉",
+          "use": "ある攻撃に対して拠点を保持できると述べる。",
+          "example": "The fort remained tenable against a small attacking force, but not against heavy artillery.",
+          "translation": "その砦は小規模な攻撃部隊には持ちこたえられたが、重砲による攻撃には耐えられなかった。"
+        }
+      ],
+      "notes": [
+        "a tenable position が意見か陣地かは、語形ではなく文脈で決まる。the troops、the ridge、the fort などがあれば、この物理的な意味が明確になる。「保持できる」は「絶対に攻略されない」ではなく、想定する攻撃や条件の下で守れるという評価。"
+      ],
+      "synonyms": [
+        {
+          "word": "defensible",
+          "definition": "攻撃に対して守ることができる。",
+          "frequency": 3,
+          "difference": "この物理的な用法で近く、防御に適した地形・構造という面も示しやすい。ここでは議論を擁護する比喩義ではない。",
+          "example": "The narrow pass offered a defensible location for the outpost.",
+          "translation": "狭い峠は、前哨基地を置くのに防御しやすい場所だった。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "untenable",
+          "definition": "攻撃に耐えてその場所を保持できない。",
+          "frequency": 2,
+          "difference": "物理的な保持・防衛可能性という同じ軸で直接対立する。",
+          "example": "Once the supply route was cut, the position became untenable.",
+          "translation": "補給路が断たれると、その陣地は保持できなくなった。"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "【形容詞・防火／避難安全】人が滞在・活動・避難できる",
+      "frequency": 2,
+      "register": [
+        "防火工学、煙制御、避難安全の専門用法。日常的な住み心地や快適さの意味ではない。"
+      ],
+      "definition": "火災時の空間や環境条件が、人が必要な認知・運動機能を保ち、滞在・活動・避難できる程度にある。熱、有毒ガス、煙による視界の悪化などに着目し、想定する人や暴露時間の下で評価する。「その環境自体を長く維持できる」という語義2でも、陣地を敵から守れるという語義4でもない。",
+      "patterns": [
+        "tenable conditions",
+        "a tenable environment",
+        "〈避難経路・空間〉 + be/remain tenable",
+        "keep 〈空間〉 + tenable。限定・叙述の両方で使い、for 〈時間〉 や long enough for someone to escape などで継続時間を示すことがある。所定の評価基準を満たすかを論じる場合は、単に very tenable とするより、対象・条件・時間を明示する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "tenable conditions",
+          "use": "火災時に、人が避難などを行える環境条件を指す。",
+          "example": "The smoke-control system was designed to maintain tenable conditions along the escape route during evacuation.",
+          "translation": "その煙制御設備は、避難中に避難経路を人が通行できる環境条件に保つよう設計されていた。"
+        },
+        {
+          "pattern": "a tenable environment",
+          "use": "人が必要な機能を保って滞在・避難できる火災時の環境を指す。",
+          "example": "The analysis assessed how long a tenable environment could be maintained in the corridor during the fire.",
+          "translation": "その解析では、火災時に廊下を人が滞在・避難できる環境にどれだけの時間保てるかを評価した。"
+        },
+        {
+          "pattern": "remain tenable",
+          "use": "避難経路などの環境が、避難できる程度に保たれていたと述べる。",
+          "example": "In the fire simulation, the stairwell remained tenable long enough for the occupants to evacuate.",
+          "translation": "火災シミュレーションでは、階段室は在館者が避難を終えられるだけの時間、避難に使える環境を保っていた。"
+        },
+        {
+          "pattern": "keep 〈空間〉 tenable",
+          "use": "設備などが、人の避難に必要な環境条件を維持すると述べる。",
+          "example": "In the fire test, the system kept the adjoining corridor tenable for the required evacuation period.",
+          "translation": "火災実験では、その設備は隣接する廊下を、必要な避難時間の間、避難に使える環境に保った。"
+        }
+      ],
+      "notes": [
+        "a tenable environment は、長期居住に快適な環境や、無期限・無条件に安全な環境を意味しない。温度だけ、煙の見た目だけで決まるものでもなく、複数の危険要因、暴露時間、人の特性、評価の目的などが関わる。語そのものに一律の温度・濃度・時間の数値基準は含まれず、tenable と書かれているだけで法令への適合や無傷での避難が保証されるわけではない。ここでの smoke-control system は煙の移動などを制御する設備を指し、排煙設備だけに限定しない。"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "untenable",
+          "definition": "火災時に、人が必要な機能を保って滞在・活動・避難できる条件を失った。",
+          "frequency": 2,
+          "difference": "評価対象となる人の活動可能性という同じ軸で直接対立する。論理的に擁護できないという語義1や、軍事的に守れないという語義4とは異なる。",
+          "example": "In the simulation, smoke made the corridor untenable before evacuation was complete.",
+          "translation": "シミュレーションでは、避難が完了する前に、煙によって廊下が避難に使えない環境になった。"
+        }
+      ]
+    }
+  ]
+}
