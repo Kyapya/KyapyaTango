@@ -1,0 +1,636 @@
+{
+  "word": "invoke",
+  "slug": "invoke",
+  "ipa": "米: /ɪnˈvoʊk/｜英: /ɪnˈvəʊk/",
+  "lead": "法律・条項・規則・権利・権限・手続きなどを、具体的な行動や保護を求める根拠として持ち出し、その適用や利用に頼る。「援用する」「権利を主張する」「権限を発動する」「所定の手続きを開始する」など、目的語に応じて訳す。単に法律の名前を紹介することより、実際の場面で使う点が中心。ただし、主張した権利が認められた、手続きが完了した、求めた効果が生じた、という結果までは",
+  "updated": "2026-10-07",
+  "notion_url": "https://app.notion.com/p/invoke-3f24faa9b77d81828419f8623191d588",
+  "pronunciation": [
+    "2音節で、第2音節に主強勢がある。米英の違いは第2音節の二重母音 /oʊ/ と /əʊ/。第1音節はどちらも /ɪn/。/v/ は上の歯と下唇を使って発音する。",
+    "活用は invokes、invoked、invoking。語末の e を取って -ing を付けるので invokeing と書かない。invoked の -ed は /t/ で、米 /ɪnˈvoʊkt/、英 /ɪnˈvəʊkt/。-ed のために音節を増やさない。"
+  ],
+  "etymology": [
+    "中英語 envoken、フランス語 invoquer を経て、ラテン語 invocare「呼びかける、助けを求める」にさかのぼる。in- と vocare「呼ぶ」から成り、語源上の核は「相手の力を求めて呼びかけること」。同じ「呼ぶ」の語根を持つ evoke「呼び起こす」、revoke「取り消す」、vocation「天職、職業」がある。現代語の意味は接頭辞の直訳だけでは決められず、invoke a rule「規則を援用する」と revoke a rule「規則を撤回する」は別の行為になる。"
+  ],
+  "formation": [
+    {
+      "term": "invocation（名詞・可算／不可算）",
+      "description": "援用、呼びかけ、祈願、プログラムなどの呼び出し。an invocation は一回の祈願・呼び出しなどを数え、the invocation of a rule は規則を援用する行為を指す。語幹の k が c になる綴りと、第3音節の /keɪ/ へ移る主強勢に注意する。"
+    },
+    {
+      "term": "invoker（名詞・可算）",
+      "description": "呼び出す人・もの。特にコンピューターで、呼び出し元を指す。日常の一般的な「依頼者」なら requester など、文脈に合う語を使う。"
+    },
+    {
+      "term": "invoked",
+      "description": "/ invoking（過去分詞／現在分詞）：通常は動詞の活用形。an invoked method「呼び出されたメソッド」、a rule frequently invoked by managers「管理者がよく援用する規則」のように修飾にも使うが、元の動詞と別の評価的な意味を持つ一般形容詞ではない。"
+    }
+  ],
+  "core": [
+    {
+      "label": "「言葉・操作・刺激などによって、ある力・働き・イメージをその場に呼び出す」が共通核。制度を実際に使う、論拠を持ち出す、心に情景を浮かばせる、神や霊に呼びかけるなどに具体化するが、実際の効果や成功まで一律に保証する語ではない。",
+      "description": ""
+    },
+    {
+      "label": "呼び出す対象としての規則・権利の効力",
+      "description": "→ 「規則・権利を援用する、発動する」（語義1）"
+    },
+    {
+      "label": "呼び出す対象としての論拠・説明原理",
+      "description": "→ 「根拠として持ち出す、援用する」（語義2）"
+    },
+    {
+      "label": "呼び出す対象としてのプログラムの働き",
+      "description": "→ 「呼び出す、起動する」（語義3）"
+    },
+    {
+      "label": "呼び出す対象としての名前・記憶の象徴性",
+      "description": "→ 「象徴として名・記憶を持ち出す」（語義4）"
+    },
+    {
+      "label": "呼び出す対象としての感情・イメージ",
+      "description": "→ 「感情・情景を呼び起こす」（語義5）"
+    },
+    {
+      "label": "呼び出す対象としての神などの助け",
+      "description": "→ 「神などに祈る、助け・加護を乞う」（語義6）"
+    },
+    {
+      "label": "呼び出す対象としての霊・超自然的存在",
+      "description": "→ 「呪文・儀式で呼び出す」（語義7）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞】規則・権利を援用する、発動する",
+      "frequency": 6,
+      "register": [
+        "フォーマル。法律・契約・政策・社内規程・労使交渉など。専門文書だけでなく、一般のニュースでも使う。"
+      ],
+      "definition": "法律・条項・規則・権利・権限・手続きなどを、具体的な行動や保護を求める根拠として持ち出し、その適用や利用に頼る。「援用する」「権利を主張する」「権限を発動する」「所定の手続きを開始する」など、目的語に応じて訳す。単に法律の名前を紹介することより、実際の場面で使う点が中心。ただし、主張した権利が認められた、手続きが完了した、求めた効果が生じた、という結果までは必ずしも含まない。",
+      "patterns": [
+        "invoke 〈a law/a rule/a clause〉＝法・規則・条項を援用する",
+        "invoke one's right to 〈動詞の原形〉＝ある行為をする権利を主張する",
+        "invoke emergency powers＝非常時の権限を発動する",
+        "invoke 〈規則・条項〉 against someone＝その人に対して規則等を適用する・援用する",
+        "invoke a procedure＝手続きを利用・開始する",
+        "〈規則・権利など〉 + be invoked by someone＝通常の受動態",
+        "invoke something to 〈動詞の原形〉＝ある目的のために援用する。最後の to 不定詞は目的を表し、invoke が直接不定詞を目的語に取る構文ではない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "invoke a clause",
+          "use": "契約の条項を根拠に、所定の措置を求めたり実行したりする。",
+          "example": "The buyer invoked the contract's cancellation clause, but the seller disputed its applicability.",
+          "translation": "買い手は契約の解約条項を援用したが、売り手はその適用可能性を争った。"
+        },
+        {
+          "pattern": "invoke one's right to 〈動詞の原形〉",
+          "use": "ある行為をする権利を、具体的な場面で主張する。",
+          "example": "Under the association's rules, she invoked her right to appeal the decision.",
+          "translation": "その団体の規則に基づき、彼女はその決定に不服を申し立てる権利を主張した。"
+        },
+        {
+          "pattern": "invoke emergency powers",
+          "use": "通常とは異なる措置を取るため、非常時の権限を使うと述べる。",
+          "example": "The government invoked emergency powers to coordinate the evacuation.",
+          "translation": "政府は避難を統括するため、非常時の権限を発動した。"
+        },
+        {
+          "pattern": "invoke 〈規則・条項〉 against someone",
+          "use": "規則などを特定の相手に適用する場面を示す。",
+          "example": "The committee invoked the conflict-of-interest rule against a member who had failed to disclose a financial interest.",
+          "translation": "委員会は、金銭的利害を申告していなかった委員に対し、利益相反に関する規則を適用した。"
+        },
+        {
+          "pattern": "invoke a procedure",
+          "use": "定められた解決手続きなどを利用することを述べる。",
+          "example": "After informal talks failed, the union invoked the dispute-resolution procedure.",
+          "translation": "非公式の協議が不調に終わった後、労組は紛争解決手続きに入った。"
+        },
+        {
+          "pattern": "be invoked by someone",
+          "use": "どの規定が、誰によって持ち出されたかを受動態で述べる。",
+          "example": "The exception has been invoked by several departments seeking additional time.",
+          "translation": "追加の時間を求める複数の部署が、その例外規定を援用している。"
+        },
+        {
+          "pattern": "invoke 〈規則など〉 to 〈動詞の原形〉",
+          "use": "規則を援用する目的を続ける。",
+          "example": "The chair invoked the time-limit rule to end the debate.",
+          "translation": "議長は討論を終えるため、時間制限の規則を適用した。"
+        }
+      ],
+      "notes": [
+        "「法律を援用する」は invoke the law と直接目的語を取り、invoke to the law や invoke on the law とはしない。invoke her right to appeal では to appeal は right の内容であり、「彼女を呼んで控訴させる」という構文ではない。invoke the cancellation clause は解約条項を使うことで、その語だけから通知方法・期限・承認の要否や解約の成立を推測しない。invoke a rule はすでにある規則を使うことで、制定する enact a rule や採用する adopt a rule とは違う。invoke a penalty は罰則を発動・適用する文脈、invoke an exception は例外の適用に頼る文脈となり、いつも「厳しく罰する」という評価を含むわけではない。受動形の the rule was invoked は普通の受動態で、再帰代名詞が省略された形ではない。米国の報道で invoke the Fifth Amendment とあれば、しばしば自己負罪を強いられない権利を主張することを指すが、具体的な保護の範囲や要件は場面による。語義2の「根拠として引用する」とは連続しており、法の一般原則を論拠として紹介するだけなら必ずしも「発動する」と訳さない。evoke a law をこの意味で使うのは避ける。revoke a permit は許可を撤回することであり、invoke の綴り違いでも、どの目的語にも通用する反意語でもない。"
+      ],
+      "synonyms": [
+        {
+          "word": "apply",
+          "definition": "法律・規則・原理などを具体的な事例に適用する。",
+          "frequency": 8,
+          "difference": "基準を事例に当てはめる行為に焦点がある。invoke は当事者が規則や権利を持ち出し、その効力に頼ることも表す。",
+          "example": "The same safety rule applies to all visitors, and staff must apply it consistently.",
+          "translation": "同じ安全規則がすべての来訪者に適用され、職員はそれを一貫して運用しなければならない。"
+        },
+        {
+          "word": "exercise",
+          "definition": "権利・権限などを実際に行使する。",
+          "frequency": 7,
+          "difference": "権利等を使う行為そのものを表す。invoke はその権利の存在を主張して、保護や手続きを求める点にも焦点を置く。",
+          "example": "Members exercised their right to vote on the proposal.",
+          "translation": "会員は、その提案に投票する権利を行使した。"
+        },
+        {
+          "word": "enforce",
+          "definition": "法律・規則などを守らせ、実効性を持たせる。",
+          "frequency": 7,
+          "difference": "遵守を確保する側の行為。invoke は規則を持ち出す側・保護を求める側にも使え、実際に相手へ遵守を強制したとは限らない。",
+          "example": "Inspectors enforce the safety regulations at construction sites.",
+          "translation": "検査官は工事現場で安全規則を守らせている。"
+        },
+        {
+          "word": "activate",
+          "definition": "制度・仕組みなどを作動する状態にする。",
+          "frequency": 6,
+          "difference": "作動開始を前に出す。invoke は法的・手続き的な根拠を持ち出す意味が強く、単に装置のスイッチを入れる場合とは異なる。",
+          "example": "The alert activated the emergency response plan.",
+          "translation": "その警報によって緊急対応計画が発動した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【動詞・他動詞】根拠として持ち出す、援用する",
+      "frequency": 6,
+      "register": [
+        "フォーマル。議論、学術、評論、政策説明、会議での主張など。"
+      ],
+      "definition": "人の権威、理論、原則、先例、経験などを、意見や行動を支える根拠、または現象を説明するための考え方として持ち出す。単なる mention「言及する」より、議論の中で役割を与える点が強い。引用した内容が正しい、十分な論拠になっている、話し手が相手を納得させた、ということまでは保証しない。",
+      "patterns": [
+        "invoke 〈a principle/a theory/a precedent〉＝原則・理論・先例を論拠として持ち出す",
+        "invoke someone＝その人の説・権威を引き合いに出す",
+        "invoke something as 〈根拠・理由を表す名詞句〉＝何として持ち出すかを示す",
+        "invoke something in support of 〈主張〉＝主張を支えるために援用する",
+        "invoke something to explain 〈現象〉＝説明原理として使う",
+        "〈理論・権威など〉 + be invoked＝受動態。通常は名詞句を直接目的語にする。"
+      ],
+      "collocations": [
+        {
+          "pattern": "invoke a principle",
+          "use": "判断や提案を支える原則を持ち出す。",
+          "example": "She invoked the principle of fairness to argue for equal access to the training.",
+          "translation": "彼女は公平性の原則を持ち出し、誰もが等しく研修を受けられるよう主張した。"
+        },
+        {
+          "pattern": "invoke a precedent",
+          "use": "過去の事例を、現在の判断の根拠として使う。",
+          "example": "The manager invoked a precedent from another branch to support the request.",
+          "translation": "その管理者は別の支店の先例を引き合いに出して、その要望を支持した。"
+        },
+        {
+          "pattern": "invoke 〈学者・思想家など〉",
+          "use": "人を直接目的語にし、その人の考えや権威を援用する。",
+          "example": "The lecturer invoked Darwin to support her account of how the trait evolved.",
+          "translation": "その講師は形質の進化についての説明を裏付けるため、ダーウィンの考えを援用した。"
+        },
+        {
+          "pattern": "invoke something as 〈根拠・理由を表す名詞句〉",
+          "use": "持ち出した事情を、どのような根拠として使うかを明示する。",
+          "example": "The company invoked commercial confidentiality as a reason for withholding the figures.",
+          "translation": "その会社は、数値を開示しない理由として営業上の秘密保持を持ち出した。"
+        },
+        {
+          "pattern": "invoke something in support of 〈主張〉",
+          "use": "議論のどの主張を支えるために使うのかを示す。",
+          "example": "Both sides invoked historical evidence in support of their positions.",
+          "translation": "双方が、それぞれの立場を裏付けるため歴史的証拠を援用した。"
+        },
+        {
+          "pattern": "invoke 〈理論・仕組み〉 to explain 〈現象〉",
+          "use": "ある現象を説明するため、理論や仕組みを導入する。",
+          "example": "The researchers invoked a feedback mechanism to explain the sudden change.",
+          "translation": "研究者たちは、その急激な変化を説明するため、フィードバック機構を持ち出した。"
+        },
+        {
+          "pattern": "be invoked",
+          "use": "論拠となる側を主語にする。",
+          "example": "The same principle was invoked in two very different arguments.",
+          "translation": "同じ原則が、まったく異なる2つの議論で援用された。"
+        }
+      ],
+      "notes": [
+        "invoke Darwin は、通常ダーウィン本人に連絡することでも、霊を呼び出すことでもなく、その思想・権威を援用すること。人を目的語に取れる理由を「人に依頼する動詞だから」と一律に説明しない。invoke a theory to explain the result は「結果を説明するため、その理論を援用する」で、to explain は目的を示す。invoke as a reason のように根拠となるものを抜かすのでなく、invoke the delay as a reason のように目的語を置く。単に「～だと述べた」なら said that ... や argued that ... を使い、invoke that ... を一般的な that 節構文として覚えない。invoke the fact that ... なら目的語は the fact that ... 全体の名詞句。invoke は逐語的な引用を要求せず、quote のように原文をそのまま示したとは限らない。原則を正当に援用する場合にも、都合よく持ち出す場合にも使え、「口実にする」という否定的評価は文脈が決める。名前を権威として援用するこの意味と、象徴として人の感情に訴える語義4、自然に情景を思い浮かばせる語義5も区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "cite",
+          "definition": "証拠・根拠・例として、資料・発言・事例などを挙げる。",
+          "frequency": 7,
+          "difference": "出典や具体的事例を示す行為に焦点がある。invoke は、明示的な出典提示がなくても理論や権威に頼ることを表せる。",
+          "example": "The report cites three studies that support the recommendation.",
+          "translation": "その報告書は、勧告を支持する3件の研究を挙げている。"
+        },
+        {
+          "word": "appeal to",
+          "definition": "原則・権威・感覚などに訴えて、主張の支えにする。",
+          "frequency": 6,
+          "difference": "「それをよりどころに訴える」側面が強く、to を必要とする。invoke は対象を直接目的語に取る。",
+          "example": "His argument appeals to common sense rather than detailed evidence.",
+          "translation": "彼の議論は、細かな証拠よりも常識に訴えている。"
+        },
+        {
+          "word": "draw on",
+          "definition": "経験・知識・資料などを利用して役立てる。",
+          "frequency": 7,
+          "difference": "資源として利用することを広く表し、相手を説得するために明示的に持ち出すとは限らない。invoke は議論や説明上の援用を前に出す。",
+          "example": "The team drew on its previous experience to design the training.",
+          "translation": "チームは以前の経験を生かして研修を設計した。"
+        },
+        {
+          "word": "quote",
+          "definition": "他者の言葉を、その表現を保って引用する。",
+          "frequency": 8,
+          "difference": "文言を再現する点に焦点がある。invoke は名前や考えを引き合いに出すだけでも成立し、直接引用を必須としない。",
+          "example": "She quoted a sentence from the original report.",
+          "translation": "彼女は元の報告書から一文を引用した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞・他動詞】呼び出す、起動する",
+      "frequency": 5,
+      "register": [
+        "コンピューター・プログラミングの専門語。技術文書では普通に使う。"
+      ],
+      "definition": "操作や別の処理から、プログラム・関数・メソッド・コマンドなどの実行を求める、または開始させる。対象が独立したプログラムなら「起動する」、関数などなら「呼び出す」が自然。呼び出しを行っても、エラーや権限不足などで目的の処理が完了するとは限らない。",
+      "patterns": [
+        "invoke 〈a function/a method/a program〉＝関数・メソッド・プログラムを呼び出す",
+        "invoke something from 〈呼び出し元〉＝どこから呼ぶかを示す",
+        "invoke something with 〈引数・オプション〉＝何を渡して呼ぶかを示す",
+        "invoke a method on 〈オブジェクト〉＝そのオブジェクト上でメソッドを呼ぶ",
+        "〈関数など〉 + be invoked by 〈処理・利用者〉＝受動態",
+        "〈再帰関数〉 + invoke itself＝その関数自身を呼び出す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "invoke a function",
+          "use": "必要な処理を担う関数を呼び出す。",
+          "example": "The application invokes a function to validate each uploaded file.",
+          "translation": "アプリケーションは、アップロードされた各ファイルを検証する関数を呼び出す。"
+        },
+        {
+          "pattern": "invoke 〈プログラム〉 from the command line",
+          "use": "起動操作を行う場所を示す。",
+          "example": "You can invoke the diagnostic program from the command line.",
+          "translation": "その診断プログラムはコマンドラインから起動できる。"
+        },
+        {
+          "pattern": "invoke 〈関数など〉 with 〈引数〉",
+          "use": "関数などに渡す値を説明する。",
+          "example": "The test invokes the function with an empty string as its argument.",
+          "translation": "そのテストは、空文字列を引数として関数を呼び出す。"
+        },
+        {
+          "pattern": "invoke a method on 〈オブジェクト〉",
+          "use": "メソッドがどのオブジェクトを対象に実行されるかを示す。",
+          "example": "The handler invokes the save method on the current document object.",
+          "translation": "ハンドラーは、現在のドキュメントオブジェクト上で save メソッドを呼び出す。"
+        },
+        {
+          "pattern": "be invoked automatically",
+          "use": "人の直接操作なしに呼び出される仕組みを説明する。",
+          "example": "The cleanup routine is invoked automatically when the connection closes.",
+          "translation": "接続が閉じると、後処理ルーチンが自動的に呼び出される。"
+        },
+        {
+          "pattern": "invoke itself",
+          "use": "再帰関数が自分自身を呼び出すことを述べる。",
+          "example": "This recursive function invokes itself once for each child node.",
+          "translation": "この再帰関数は、各子ノードにつき一度、自分自身を呼び出す。"
+        }
+      ],
+      "notes": [
+        "invoke はプログラムを新しく作る、インストールする、単に名前を見る、という意味ではない。invoke the function と直接目的語を取り、invoke to the function とはしない。from は呼び出し元、with は引数等、on はメソッドを適用する対象オブジェクトを示し、同じ前置詞を自由に交換する形ではない。invoke itself の itself は、呼び出す関数と呼ばれる関数が同じであるために必要な目的語。The function is invoked.「関数が呼び出される」という受動態は再帰形の省略ではない。invoked method は「呼び出されたメソッド」という分詞修飾であり、invoke が形容詞へ特別に意味変化したものではない。invoke と call はこの分野でほぼ同じ意味になることが多いが、特定のAPIの Invoke / call などの識別子は、その仕様に従う。自然言語で近義だからという理由でコード中の名前を交換しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "call",
+          "definition": "関数・メソッド・ルーチンなどを呼び出す。",
+          "frequency": 7,
+          "difference": "この意味では invoke と大きく重なる、より基本的な技術用語。独立したアプリの起動には run や launch を使う場合もある。",
+          "example": "The handler calls the validation function before saving the data.",
+          "translation": "ハンドラーはデータを保存する前に検証関数を呼び出す。"
+        },
+        {
+          "word": "run",
+          "definition": "プログラム・処理などを実行する。",
+          "frequency": 8,
+          "difference": "実行全体や実行中の状態も表す。invoke は呼び出す側の操作・契機に焦点を当てやすい。",
+          "example": "Run the tests before publishing the package.",
+          "translation": "パッケージを公開する前にテストを実行してください。"
+        },
+        {
+          "word": "execute",
+          "definition": "命令・コード・処理を実行する。",
+          "frequency": 6,
+          "difference": "命令や処理を実際に遂行することが中心。invoke は処理を呼び出す段階を指し、呼び出しに失敗する場合にも使える。",
+          "example": "The processor executes the next instruction.",
+          "translation": "プロセッサーは次の命令を実行する。"
+        },
+        {
+          "word": "launch",
+          "definition": "アプリケーションやプログラムを起動する。",
+          "frequency": 7,
+          "difference": "独立したアプリなどを立ち上げる場面に向き、個々のメソッドを呼ぶ意味では通常 call や invoke を使う。",
+          "example": "The shortcut launches the desktop application.",
+          "translation": "そのショートカットはデスクトップアプリを起動する。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞・他動詞】象徴として名・記憶を持ち出す",
+      "frequency": 4,
+      "register": [
+        "演説、政治・社会の論評、式典、文学など。ややフォーマル。"
+      ],
+      "definition": "人の名前・記憶・受け継がれた精神などを意識的に持ち出し、それが連想させる価値・権威・感情によって、聞き手に訴えたり行動を促したりする。語義2のような論証の根拠にも近いが、この語義では名前などの象徴性を利用する点に焦点がある。",
+      "patterns": [
+        "invoke someone's name＝その名を持ち出して訴える",
+        "invoke the memory of someone＝その人の記憶・面影を持ち出す",
+        "invoke the spirit of 〈人・時代・運動〉＝その精神を呼び起こして訴える",
+        "〈名前など〉 + be invoked as 〈象徴を示す名詞句〉＝何の象徴として持ち出されたかを示す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "invoke someone's name",
+          "use": "その人物の名前が持つ力を使って、聴衆の感情や行動に訴える。",
+          "example": "The speaker invoked the founder's name to rally the volunteers around a shared purpose.",
+          "translation": "演説者は、共通の目的の下にボランティアを結集させるため、創設者の名を持ち出した。"
+        },
+        {
+          "pattern": "invoke the memory of someone",
+          "use": "故人などの記憶を、現在の決意や行動につなげる。",
+          "example": "At the ceremony, she invoked the memory of her mentor and urged the graduates to serve their communities.",
+          "translation": "式典で彼女は恩師をしのび、その思いを込めて卒業生に地域社会へ貢献するよう呼びかけた。"
+        },
+        {
+          "pattern": "invoke the spirit of 〈人・時代・運動〉",
+          "use": "過去の精神や理念を持ち出し、現在の行動のよりどころにする。",
+          "example": "The organizers invoked the spirit of the early reformers to encourage a new generation of activists.",
+          "translation": "主催者は、新しい世代の活動家を励ますため、初期の改革者たちの精神を持ち出した。"
+        },
+        {
+          "pattern": "be invoked as 〈象徴を示す名詞句〉",
+          "use": "名前などが何を代表するものとして使われたかを述べる。",
+          "example": "Her name was invoked as a symbol of courage throughout the campaign.",
+          "translation": "その運動を通じて、彼女の名は勇気の象徴として語られた。"
+        }
+      ],
+      "notes": [
+        "invoke a person's name は、その名を声に出すだけの name や mention より、名の持つ象徴性を利用する含みがある。ただし、敬意を込めることも、威圧・正当化に利用することもあり、必ず称賛になるわけではない。invoke the spirit of the founders は理念を持ち出す比喩的用法、呪術の物語で invoke the founder's spirit として実際の霊を呼ぶ描写なら語義7。語義2の invoke a scholar は説・権威の援用、ここでは同じ名前でも人を鼓舞する象徴としての働きが中心になる。語義5の The music invoked a distant landscape. は音楽が情景を思い浮かばせることで、名前を意図的に持ち出す構造とは違う。"
+      ],
+      "synonyms": [
+        {
+          "word": "appeal to",
+          "definition": "人々の価値観・感情・共有する記憶などに訴える。",
+          "frequency": 6,
+          "difference": "聞き手の内面への訴えを直接表す。invoke は、その訴えを生む名前や記憶を持ち出す側に焦点がある。",
+          "example": "The speech appealed to the audience's sense of solidarity.",
+          "translation": "その演説は、聴衆の連帯感に訴えた。"
+        },
+        {
+          "word": "recall",
+          "definition": "人や出来事を思い出す、思い返して語る。",
+          "frequency": 8,
+          "difference": "記憶をたどることが中心で、その記憶を利用して聴衆の行動を促すとは限らない。invoke は記憶を現在の訴えに役立てることを示しやすい。",
+          "example": "At the memorial, he recalled his teacher's generosity.",
+          "translation": "追悼式で、彼は恩師の寛大さを思い返して語った。"
+        },
+        {
+          "word": "allude to",
+          "definition": "人・出来事・作品などを直接詳述せず、それとなく示す。",
+          "frequency": 5,
+          "difference": "暗示的な言及である点が中心。invoke は名前を明示してもよく、利用する象徴性や力を前に出す。",
+          "example": "The closing line alluded to the movement's founding speech.",
+          "translation": "結びの一文は、その運動の発足時の演説をそれとなく踏まえていた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【動詞・他動詞】感情・情景を呼び起こす",
+      "frequency": 4,
+      "register": [
+        "主に文章・評論。現行辞書に収録されているが、この意味では evoke を選ぶべきだとする語法上の意見もある。自分で書く場合は evoke が無難。"
+      ],
+      "definition": "音楽・文章・画像・出来事などが、人に感情や記憶を生じさせたり、ある情景を思い浮かべさせたりする。evoke と重なる現行用法。主語は刺激となる物・出来事にもなり、誰かが意識的に何かへ助けを求めることを必須とはしない。",
+      "patterns": [
+        "invoke 〈a feeling/an image/a memory〉＝感情・像・記憶を呼び起こす",
+        "invoke a sense of 〈感覚・感情〉＝ある感覚を生む",
+        "invoke something in someone＝誰の内面に生じるかを示す",
+        "〈感情・イメージ〉 + be invoked by 〈刺激〉＝受動態。"
+      ],
+      "collocations": [
+        {
+          "pattern": "invoke an image of 〈情景〉",
+          "use": "描写などが、読み手にある場面を思い浮かばせることを述べる。",
+          "example": "The novel's opening description invokes an image of a silent city at dawn.",
+          "translation": "小説の冒頭の描写は、夜明けの静かな街の情景を思い浮かばせる。"
+        },
+        {
+          "pattern": "invoke a sense of 〈感覚・感情〉",
+          "use": "芸術作品などが、ある感情や感覚を生じさせることを述べる。",
+          "example": "The slow melody invokes a sense of longing.",
+          "translation": "そのゆっくりとした旋律は、切ない憧れの感覚を呼び起こす。"
+        },
+        {
+          "pattern": "invoke something in someone",
+          "use": "刺激によって感情が生じる相手を示す。",
+          "example": "The faded family photograph invoked a feeling of nostalgia in her.",
+          "translation": "色あせた家族写真は、彼女に懐かしさを呼び起こした。"
+        },
+        {
+          "pattern": "be invoked by 〈刺激〉",
+          "use": "生じたイメージを主語にして、その原因を述べる。",
+          "example": "Images of empty streets are invoked by the poem's sparse language.",
+          "translation": "その詩のそぎ落とされた言葉遣いによって、人けのない通りの情景が呼び起こされる。"
+        }
+      ],
+      "notes": [
+        "この用法を「invoke では絶対に不可能」と断定するのは正確ではない。一方、用法に異論があるため、一般的な文章では The melody evokes a sense of longing. のように evoke とするほうが読み手に引っかかりを与えにくい。invoke は常に意図的、evoke は常に無意識という二分法もしない。invoke a memory が、演説者が過去を論拠・象徴として持ち出すことなら語義2・4、写真が思い出を自然に浮かばせることならこの語義で、目的語の綴りだけで意味は決まらない。より広く「結果・反応を引き起こす」という使い方も記録されるが、通常の文章では cause、prompt、elicit など、意図する結果に合う語を選ぶと明確になる。"
+      ],
+      "synonyms": [
+        {
+          "word": "evoke",
+          "definition": "感情・記憶・情景などを心に呼び起こす。",
+          "frequency": 6,
+          "difference": "この意味での標準的な選択。invoke と意味が重なるが、規則の援用やコンピューターの呼び出しには通常置き換えない。",
+          "example": "The scent of pine evoked memories of summer holidays.",
+          "translation": "松の香りが、夏休みの思い出を呼び起こした。"
+        },
+        {
+          "word": "conjure up",
+          "definition": "情景・記憶などを鮮やかに思い浮かべさせる、思い描く。",
+          "frequency": 6,
+          "difference": "心に像を作り出す生き生きした感じがある。invoke の制度的な意味はなく、この用法では魔術が実際に行われるという意味でもない。",
+          "example": "The name conjures up images of snowy mountains.",
+          "translation": "その名前を聞くと、雪に覆われた山々の情景が浮かぶ。"
+        },
+        {
+          "word": "arouse",
+          "definition": "感情・関心・疑念などを生じさせる。",
+          "frequency": 6,
+          "difference": "内面の反応が立ち上がる点が中心で、具体的な情景を描き出す意味は弱い。",
+          "example": "The unexplained change aroused suspicion among the staff.",
+          "translation": "説明のない変更が、職員の間に疑念を生じさせた。"
+        },
+        {
+          "word": "elicit",
+          "definition": "働きかけによって反応・返答・感情などを引き出す。",
+          "frequency": 6,
+          "difference": "相手から表れる反応に焦点を当てやすく、情景を心に浮かべることそのものとは異なる。",
+          "example": "The final scene elicited laughter from the audience.",
+          "translation": "最後の場面は、観客の笑いを誘った。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【動詞・他動詞】神などに祈る、助け・加護を乞う",
+      "frequency": 3,
+      "register": [
+        "宗教・文学・儀礼。通常の仕事上の「手伝いを頼む」には ask for help などを使う。"
+      ],
+      "definition": "神・聖人・詩神などに、助け・導き・加護を求めて呼びかける。また、助けや恵みそのものを目的語にして、それを切に願い求める。人や権威に援助を乞う文語的用法にも広がるが、日常の軽い依頼より荘重な響きがある。",
+      "patterns": [
+        "invoke 〈神・聖人など〉＝祈りを向ける相手に呼びかける",
+        "invoke someone for 〈助け・導き〉＝相手と求めるものを示す",
+        "invoke 〈help/protection/mercy〉＝求める助け・加護等を直接目的語にする",
+        "invoke God's blessing on someone＝誰かへの神の祝福を祈る",
+        "〈神・加護など〉 + be invoked＝受動態。目的語が「呼びかける相手」か「求めるもの」かを区別する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "invoke 〈神・聖人など〉",
+          "use": "儀礼・祈りの中で、神などに呼びかける。",
+          "example": "The poet begins by invoking the Muse for inspiration.",
+          "translation": "詩人はまず、着想を授けてもらおうと詩神に呼びかける。"
+        },
+        {
+          "pattern": "invoke someone for 〈助け・導き〉",
+          "use": "誰に何を願っているかを明示する。",
+          "example": "In their evening prayer, the pilgrims invoked God for guidance.",
+          "translation": "巡礼者たちは夕べの祈りで、導きを求めて神に呼びかけた。"
+        },
+        {
+          "pattern": "invoke 〈help/protection/mercy〉",
+          "use": "助けや加護そのものを目的語にして、祈願の内容を述べる。",
+          "example": "Before the voyage, the sailors invoked divine protection.",
+          "translation": "航海に出る前に、船乗りたちは神の加護を祈った。"
+        },
+        {
+          "pattern": "invoke God's blessing on someone",
+          "use": "他者に祝福が授けられるよう祈る。",
+          "example": "At the end of the service, the minister invoked God's blessing on the congregation.",
+          "translation": "礼拝の終わりに、牧師は会衆に神の祝福があるよう祈った。"
+        }
+      ],
+      "notes": [
+        "invoke God for help では God が呼びかけの相手で、help は for の後に置く。一方、invoke divine help では help が直接目的語であり、形が違っても両方とも祈願の行為を表す。call on God の on をそのまま移して invoke on God とはしない。invoke God's blessing on someone の on は祝福を受ける対象を示し、invoke on という句動詞ではない。神への祈願の場面でも、祈りがかなったと断定するわけではない。語義7の霊を姿として呼び出す描写とは異なり、単に助力を願う場面でも使える。"
+      ],
+      "synonyms": [
+        {
+          "word": "pray to",
+          "definition": "神などに祈る。",
+          "frequency": 7,
+          "difference": "宗教的な祈りを表す基本的な語。invoke は助力や加護を求めて呼びかける点が前に出る。対象には to、願う内容には for を用いる。",
+          "example": "They prayed to God for a safe journey.",
+          "translation": "彼らは安全な旅を神に祈った。"
+        },
+        {
+          "word": "call on",
+          "definition": "相手に助力・働きかけを求めて呼びかける。",
+          "frequency": 6,
+          "difference": "神だけでなく人・組織にも広く使う。invoke の祈願の意味は、より荘重・文学的な響きを持ちやすい。",
+          "example": "The worshippers called on the saint for help.",
+          "translation": "礼拝者たちは、その聖人に助けを求めた。"
+        },
+        {
+          "word": "implore",
+          "definition": "必死に、切実に頼む、乞い願う。",
+          "frequency": 4,
+          "difference": "嘆願の強さを前に出し、宗教的対象に限定されない。invoke は儀礼的で落ち着いた呼びかけにも使える。",
+          "example": "She implored the king to spare the prisoners.",
+          "translation": "彼女は捕虜たちの命を助けてほしいと王に懇願した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【動詞・他動詞】呪文・儀式で呼び出す",
+      "frequency": 2,
+      "register": [
+        "幻想文学・伝承・魔術の描写。通常の人を会議に呼ぶ意味では使わない。"
+      ],
+      "definition": "呪文や儀式によって、霊・悪魔などの超自然的な存在を現れさせようと呼び出す。物語・伝承・信仰の中でそのような行為を表し、現実に存在や効力が確認されているという意味を加えるものではない。",
+      "patterns": [
+        "invoke 〈a spirit/a demon〉＝霊・悪魔を呼び出す",
+        "invoke something by 〈呪文・儀式〉＝呼び出す手段を示す",
+        "〈霊など〉 + be invoked＝受動態。現れたと断定するか、呼びかけを試みただけかは物語の文脈で決まる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "invoke a spirit",
+          "use": "物語などで、霊を呼び出す行為を述べる。",
+          "example": "In the legend, the sorcerer invokes a spirit to guard the hidden gate.",
+          "translation": "その伝説では、魔術師が隠された門を守らせるために霊を呼び出す。"
+        },
+        {
+          "pattern": "invoke 〈霊など〉 by 〈呪文・儀式〉",
+          "use": "呼び出すための手段を描写する。",
+          "example": "The characters try to invoke the spirit by repeating an ancient chant.",
+          "translation": "登場人物たちは、古い詠唱を繰り返してその霊を呼び出そうとする。"
+        },
+        {
+          "pattern": "be invoked",
+          "use": "呼び出される超自然的な存在を主語にする。",
+          "example": "In the story, the demon can be invoked only during the eclipse.",
+          "translation": "その物語では、その悪魔は日食の間にしか呼び出せない。"
+        }
+      ],
+      "notes": [
+        "invoke the spirit of cooperation のように協力の精神を持ち出す場合は、霊の召喚ではなく語義4などの比喩的用法として読む。invoke a spirit は call someone to a meeting の一般的な「人を呼ぶ」と置き換えられない。evoke にも歴史的・文学的な「霊を呼ぶ」という意味があるため、両語の意味がどの時代・用法でも完全に排他的だとはしない。現代の学習では、制度・権威・神への呼びかけを invoke、感情・記憶の喚起を evoke としてまず整理し、語義5とこの専門的な重なりを補足するとよい。"
+      ],
+      "synonyms": [
+        {
+          "word": "summon",
+          "definition": "霊などを呼んで現れさせる。",
+          "frequency": 4,
+          "difference": "この意味では invoke と重なるが、summon は人を正式に呼び出す一般的な意味も持つ。invoke のこの語義は呪術的な手段を伴う。",
+          "example": "The wizard summoned a ghost from the ruined tower.",
+          "translation": "魔法使いは、崩れた塔から幽霊を呼び出した。"
+        },
+        {
+          "word": "conjure up",
+          "definition": "魔法・呪文によって、存在や物を呼び出す。",
+          "frequency": 3,
+          "difference": "魔法で出現させることを明確に表す。この語義では霊などの召喚を指し、語義5の「情景を思い浮かべさせる」という比喩的用法とは区別する。",
+          "example": "In the tale, the witch conjures up a spirit from the well.",
+          "translation": "その物語では、魔女が井戸から霊を呼び出す。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
