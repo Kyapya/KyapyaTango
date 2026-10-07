@@ -1,0 +1,926 @@
+{
+  "word": "warrant",
+  "slug": "warrant",
+  "ipa": "米: /ˈwɔːrənt/, /ˈwɑːrənt/｜英: /ˈwɒrənt/",
+  "lead": "状況、事実、証拠、行為などが、ある対応・判断・評価を必要または適切だと認めるだけの理由になる。目的語には検討、調査、注意、処罰、時間の投入などを置く。「～に値する」「～する必要がある」とも訳せるが、必ず唯一の選択肢だと強制するわけではない。その対応が実際に行われたことも、語だけでは示さない。硬い文章では人を目的語に取り、その人がある判断・行動をするだけの根拠",
+  "updated": "2026-10-07",
+  "notion_url": "https://app.notion.com/p/warrant-3f24faa9b77d814e87def4a52fa6294d",
+  "pronunciation": [
+    "名詞・動詞とも2音節で、第1音節に主強勢を置く。米英および米音の変種の差は、第1音節の母音 /ɔː/・/ɑː/・/ɒ/。第2音節の母音は弱い /ə/。/r/ は次の母音の前にあるので、ここでは英音でも発音する。過去形・過去分詞 warranted は語尾が /ɪd/ となり、3音節になる。"
+  ],
+  "etymology": [
+    "中英語を経て、アングロフランス語の warant、古フランス語の guarant「保護する人、保証するもの」や、動詞 guarantir「保証する」にさかのぼる。さらにゲルマン系の語に由来する。保証・保護という意味が、行為を認める根拠や権限を示す文書などにつながっている。同系に guarantee「保証する、保証」、guaranty「保証・保証契約」、warranty「品質などの保証」がある。現代の warrant と warranty は、同語源でも使い分けが必要。"
+  ],
+  "formation": [
+    {
+      "term": "warrants",
+      "description": "は名詞 warrant の複数形、または動詞の三人称単数現在形。two warrants「2通の令状」と The case warrants review.「その案件は検討に値する」を文構造で区別する。"
+    },
+    {
+      "term": "warranted",
+      "description": "は過去形・過去分詞で、形容詞的には「正当な根拠がある、もっともな」。語義3で扱う。商品について be warranted と言う場合は、語義4の「保証されている」という受動態にもなる。"
+    },
+    {
+      "term": "unwarranted",
+      "description": "は形容詞で「正当な理由のない、不当な」。unwarranted criticism は根拠や程度の点で正当化できない批判であり、単に「望まれていない」unwanted とは異なる。"
+    },
+    {
+      "term": "warranty",
+      "description": "は可算・不可算名詞で「品質などについての保証、保証書」。a two-year warranty、under warranty のように使い、通常の製品保証を a warrant とだけ呼ぶのは避ける。"
+    },
+    {
+      "term": "warrantless",
+      "description": "は形容詞で、法律の文脈では「令状なしの」。a warrantless search は令状を得ずに行う捜索であり、それだけで適法・違法の判断まで示すものではない。"
+    },
+    {
+      "term": "warrantor",
+      "description": "は可算名詞で「保証をする側」、warrantee は「保証を受ける側」。主に法律・契約の専門語で、warranty「保証」そのものとは異なる。"
+    },
+    {
+      "term": "warrant",
+      "description": "officer は軍の階級・職種を表す複合名詞で、一般に「准士官」と訳す。具体的な地位や任用制度は国・軍種によって異なり、「令状を扱う警察官」という意味ではない。"
+    }
+  ],
+  "core": [
+    {
+      "label": "行為・判断・権利について、「そうしてよい」「そうだと認められる」と支える根拠や保証が核になる。文書なら権限・権利の裏付け、動詞なら正当化・保証という働きを表し、慣用句では破滅への決定的な一歩を承認になぞらえる。",
+      "description": ""
+    },
+    {
+      "label": "根拠・保証による行為の正当化",
+      "description": "→ 「正当化する、～するだけの理由になる」（語義1）"
+    },
+    {
+      "label": "根拠・保証としての公的な権限文書",
+      "description": "→ 「令状、正式な権限を示す文書」（語義2）"
+    },
+    {
+      "label": "根拠・保証が備わった判断・行為",
+      "description": "→ 「正当な根拠がある、もっともな」（語義3）"
+    },
+    {
+      "label": "根拠・保証としての事実・品質への約束",
+      "description": "→ 「保証する、確かであると請け合う」（語義4）"
+    },
+    {
+      "label": "根拠・保証としての理由・裏付け",
+      "description": "→ 「正当な理由、判断の根拠」（語義5）"
+    },
+    {
+      "label": "根拠・保証としての金融取引の権利",
+      "description": "→ 「ワラント、株式などに関する権利証券」（語義6）"
+    },
+    {
+      "label": "根拠・保証としての支払・引渡しの証書",
+      "description": "→ 「支払指図書、支払・受取の権利証書」（語義7）"
+    },
+    {
+      "label": "根拠・保証としての推論を支える前提",
+      "description": "→ 「論拠、証拠と主張を結ぶ前提」（語義8）"
+    },
+    {
+      "label": "根拠・保証による行為の権限付与",
+      "description": "→ 「正式に認める、権限を与える」（語義9）"
+    },
+    {
+      "label": "根拠・保証に見立てた破滅への承認",
+      "description": "→ 「破滅を招く、自分の首を絞める」（語義10）"
+    },
+    {
+      "label": "根拠・保証としての確信の表明",
+      "description": "→ 「きっと～だ、請け合う」（語義11）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【他動詞】正当化する、～するだけの理由になる",
+      "frequency": 7,
+      "register": [
+        "ややフォーマル。業務上の判断、提言、研究、報道、議論。米英とも使う。"
+      ],
+      "definition": "状況、事実、証拠、行為などが、ある対応・判断・評価を必要または適切だと認めるだけの理由になる。目的語には検討、調査、注意、処罰、時間の投入などを置く。「～に値する」「～する必要がある」とも訳せるが、必ず唯一の選択肢だと強制するわけではない。その対応が実際に行われたことも、語だけでは示さない。硬い文章では人を目的語に取り、その人がある判断・行動をするだけの根拠があることも表す。",
+      "patterns": [
+        "warrant 〈対応・判断・評価を表す名詞句〉",
+        "warrant 〈動名詞句〉",
+        "warrant someone's doing something",
+        "warrant someone doing something。後二者は、動名詞節で行為者を明示する形。別に warrant someone in doing something は、人を直接目的語にして、その人の判断・行動を正当化する硬い構文。受動態は 〈対応など〉 + be warranted by 〈状況・証拠〉。程度との組み合わせは be serious enough to warrant 〈対応〉、hardly warrant 〈対応〉。as circumstances warrant、if circumstances warrant のように、前後から対象が分かる場合に目的語を省くこともある。"
+      ],
+      "collocations": [
+        {
+          "pattern": "warrant further investigation",
+          "use": "追加調査を行う十分な理由があることを示す。",
+          "example": "The discrepancy is small, but its repeated occurrence warrants further investigation.",
+          "translation": "食い違い自体は小さいが、繰り返し起きているため、さらに調べる理由がある。"
+        },
+        {
+          "pattern": "warrant a review",
+          "use": "見直し・再検討の必要性を根拠から述べる。",
+          "example": "The increase in complaints warrants a review of the delivery process.",
+          "translation": "苦情が増えていることから、配送の流れを見直す必要がある。"
+        },
+        {
+          "pattern": "warrant attention",
+          "use": "注意を向けるだけの重要性があることを述べる。",
+          "example": "Even a modest improvement in accuracy may warrant attention at this scale.",
+          "translation": "この規模では、精度のわずかな向上であっても注目に値する場合がある。"
+        },
+        {
+          "pattern": "warrant 〈動名詞句〉",
+          "use": "必要・適切と考えられる行為を動名詞で示す。",
+          "example": "The available evidence does not warrant cancelling the entire project.",
+          "translation": "現時点の証拠では、事業全体を中止するだけの理由にはならない。"
+        },
+        {
+          "pattern": "warrant someone's doing something",
+          "use": "動名詞節の行為者を所有格で明示する、硬い文章にもなじむ形。",
+          "example": "The risk warrants our taking additional precautions.",
+          "translation": "そのリスクがあるため、私たちが追加の予防措置を取るのは妥当だ。"
+        },
+        {
+          "pattern": "warrant someone doing something",
+          "use": "動名詞節の行為者を目的格で示す、実在する別の形。",
+          "example": "A single minor mistake does not warrant them being dismissed.",
+          "translation": "一度の軽微なミスで、その人たちを解雇するのは正当化できない。"
+        },
+        {
+          "pattern": "warrant someone in doing something",
+          "use": "証拠・状況などが、その人の判断・行動に根拠を与えるという硬い構文。",
+          "example": "The available evidence does not warrant us in reaching that conclusion.",
+          "translation": "現時点の証拠では、私たちがその結論に達するだけの根拠はない。"
+        },
+        {
+          "pattern": "be warranted by 〈証拠・状況〉",
+          "use": "対応や結論を主語にし、その根拠を示す。",
+          "example": "Such a strong conclusion is not warranted by the data we have.",
+          "translation": "これほど強い結論を出すことは、手元のデータからは正当化できない。"
+        },
+        {
+          "pattern": "be serious enough to warrant 〈対応〉",
+          "use": "問題の深刻さが、ある対応に見合う水準かを述べる。",
+          "example": "The fault is serious enough to warrant an immediate inspection.",
+          "translation": "その不具合は、直ちに点検を行う必要があるほど深刻だ。"
+        },
+        {
+          "pattern": "hardly warrant 〈対応・評価〉",
+          "use": "その対応に足る理由はほとんどないと抑えて述べる。",
+          "example": "A two-minute delay hardly warrants a formal complaint.",
+          "translation": "2分の遅れでは、正式に苦情を申し立てるほどの理由にはほとんどならない。"
+        },
+        {
+          "pattern": "as circumstances warrant",
+          "use": "状況に応じ、必要・適切と認められる範囲で行うことを述べる。",
+          "example": "We will adjust the staffing levels as circumstances warrant.",
+          "translation": "状況に応じて必要と判断されれば、人員数を調整する。"
+        }
+      ],
+      "notes": [
+        "基本形では、判断の根拠となるものを主語、正当化される行為・結論などを目的語にする。The evidence warrants a review. は「証拠が再検討の理由になる」であり、「証拠を保証する」ではない。語義4の The supplier warrants the accuracy of the data. は供給者がデータの正確さを保証する別の意味。ここで「変更を検討するに値する」と言うなら warrant considering a change が基本で、warrant to consider a change を通常の補文の型として使わない。ただし、語義2の a warrant to search the office は名詞を修飾する不定詞、語義4の warrant the parts to be new は保証内容を表す構文であり、warrant の後に to があればすべて誤りなのではない。warrant their being dismissed と warrant them being dismissed はどちらも認められる。their／them はこの場合、「解雇される」という動名詞節の意味上の主語。一方、warrant someone in doing something は warrant が人を直接目的語に取る形。warrant them taking action は動名詞節で「彼らが行動すること」、warrant them in taking action は「彼らが行動するだけの根拠を与える」という人目的語の構造で、意味は近くても形は異なる。後者に対応する人主語の be warranted in doing something は語義3を参照。warrant は必要性を述べる場面にも、対応として妥当だと述べる場面にも使い、must と同じ強制力を常に持たない。否定形 does not warrant は「その根拠では正当化できない」で、行為が物理的に不可能だという意味ではない。as circumstances warrant では、必要性を判断する対象が主節から分かる。warrant oneself を「自分で判断を正当化する」の定型句として使わず、justify one's decision など、何を正当化するかを示す。"
+      ],
+      "synonyms": [
+        {
+          "word": "justify",
+          "definition": "行為・判断を正当または妥当とする根拠を示す、またはその根拠になる。",
+          "frequency": 8,
+          "difference": "warrant と非常に近いが、justify は人が自分の判断について理由を説明する行為にも使う。warrant は状況・証拠が十分な理由になる構図になじむ。",
+          "example": "The expected savings do not justify the additional risk.",
+          "translation": "予想される節約額では、追加のリスクを取ることを正当化できない。"
+        },
+        {
+          "word": "call for",
+          "definition": "状況がある対応を必要とする。",
+          "frequency": 8,
+          "difference": "必要な対応を求める状況に焦点を置く。warrant は、その対応に見合う十分な理由があるかという評価を含めやすい。",
+          "example": "The sudden change in demand calls for a more flexible plan.",
+          "translation": "急な需要の変化には、より柔軟な計画が必要だ。"
+        },
+        {
+          "word": "merit",
+          "definition": "注意・検討・称賛などを受けるだけの価値がある。",
+          "frequency": 6,
+          "difference": "対象の価値や重要性に重点があり、merit consideration のように使う。warrant は、好ましくない状況が処置を必要にする場合にも広く使える。",
+          "example": "Her suggestion merits careful consideration.",
+          "translation": "彼女の提案は、慎重に検討する価値がある。"
+        },
+        {
+          "word": "deserve",
+          "definition": "行為や性質に見合う扱いを受けるに値する。",
+          "frequency": 9,
+          "difference": "人・行為に対する称賛、処罰、公平な扱いの評価になじむ。warrant は証拠や状況から必要な対応を論じる際に使いやすい。",
+          "example": "The staff deserve recognition for their work during the outage.",
+          "translation": "障害中の職員の働きは、評価されるべきだ。"
+        },
+        {
+          "word": "necessitate",
+          "definition": "ある対応を必要不可欠にする。",
+          "frequency": 5,
+          "difference": "対応の必要性をより直接的に表す硬い語。warrant は必要性だけでなく、行っても妥当だという程度の判断にも使う。",
+          "example": "The damage necessitated the closure of the bridge.",
+          "translation": "損傷のため、橋を閉鎖せざるを得なくなった。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算】令状、正式な権限を示す文書",
+      "frequency": 7,
+      "register": [
+        "法律・行政・報道。米英とも使う。royal warrant など、警察の捜査以外の権限・資格に関わる複合語もある。"
+      ],
+      "definition": "権限のある人・機関が発行し、特定の行為を行う権限を示す正式な文書。代表的には、裁判官などが発行する捜索・逮捕などの令状を指す。文書の種類、対象、認められる行為、発行者は制度によって異なる。警察の行為を扱うニュースでは、単に a warrant とあれば、文脈に応じた令状を指すことが多い。",
+      "patterns": [
+        "a search warrant",
+        "an arrest warrant",
+        "a warrant for someone's arrest",
+        "a warrant to do something",
+        "issue a warrant",
+        "obtain a warrant",
+        "execute a warrant",
+        "serve a warrant on someone",
+        "without a warrant。可算名詞なので単数には通常 a、the、所有格などを置き、複数は warrants。a warrant of arrest は硬い法的文書などで見られる形。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a search warrant",
+          "use": "捜索を認める令状を示す。",
+          "example": "The investigators applied for a search warrant for the warehouse.",
+          "translation": "捜査員たちは、その倉庫の捜索令状を申請した。"
+        },
+        {
+          "pattern": "a warrant for someone's arrest",
+          "use": "誰の逮捕についての令状かを示す。",
+          "example": "The judge issued a warrant for the suspect's arrest.",
+          "translation": "裁判官は、その容疑者の逮捕状を発付した。"
+        },
+        {
+          "pattern": "a warrant to do something",
+          "use": "令状が認める行為を不定詞で明示する。",
+          "example": "The officers had a warrant to search the office and seize the records specified in it.",
+          "translation": "警察官たちは、事務所を捜索し、令状に指定された記録を押収するための令状を持っていた。"
+        },
+        {
+          "pattern": "obtain a warrant",
+          "use": "申請などを経て令状を取得することを述べる。",
+          "example": "The investigators obtained a warrant before entering the premises.",
+          "translation": "捜査員たちは、敷地に入る前に令状を取得した。"
+        },
+        {
+          "pattern": "execute a warrant",
+          "use": "令状に基づく行為を実施することを述べる。",
+          "example": "Police executed the search warrant at the office on Tuesday morning.",
+          "translation": "警察は火曜日の朝、その事務所で捜索令状を執行した。"
+        },
+        {
+          "pattern": "serve a warrant on someone",
+          "use": "対象者に対して令状の送達・執行を行うことを述べる。",
+          "example": "The officers served the arrest warrant on him at his home.",
+          "translation": "警察官たちは彼の自宅で逮捕状を執行した。"
+        },
+        {
+          "pattern": "without a warrant",
+          "use": "令状を取得していないことを示す。",
+          "example": "The court examined whether the officers had lawfully entered without a warrant.",
+          "translation": "裁判所は、警察官たちが令状なしで適法に立ち入ったかどうかを検討した。"
+        }
+      ],
+      "notes": [
+        "issue a warrant は令状を「発付する」、apply for a warrant は「申請する」、obtain a warrant は「取得する」、execute a warrant は「執行する」。段階と主体が違うので混同しない。serve a warrant は令状の種類・法域・文脈により「送達する」「執行する」と訳し、必ず単なる紙の受け渡しだと解釈しない。a warrant to search の to search は名詞 warrant の内容・目的を示す。この形から、語義1の動詞に warrant to search という通常の目的語の型を作らない。令状の存在は有罪判決を意味せず、without a warrant だけで違法と決まるわけでもない。具体的な必要条件や例外は当該法域の制度による。bench warrant は、出廷しない場合などに裁判官が発する逮捕令状、death warrant は文字どおりには死刑執行の命令書。後者に基づく比喩は語義10を参照。royal warrant は英国などの王室の正式な認可を指し、供給業者については王室御用達の認定を指すことがある。一般的な製品保証 warranty と同じ意味ではない。名詞 warrant の意味は修飾語で大きく変わり、金融の stock warrant は逮捕・捜索とは無関係。"
+      ],
+      "synonyms": [
+        {
+          "word": "writ",
+          "definition": "裁判所などが特定の行為を命じる正式な文書。",
+          "frequency": 4,
+          "difference": "法的な命令書を広く指す語で、warrant と重なる文書もあるが、すべての writ が捜索・逮捕の権限を与えるわけではない。",
+          "example": "The court issued a writ directing the official to produce the records.",
+          "translation": "裁判所は、担当の公務員に記録の提出を命じる令状を出した。"
+        },
+        {
+          "word": "court order",
+          "definition": "裁判所が命じる決定・命令。",
+          "frequency": 7,
+          "difference": "捜索・逮捕の令状より広く、行為の禁止や履行を命じるものなども含む。warrant の具体的な種類を常に置き換えられるわけではない。",
+          "example": "The company was required to preserve the documents under a court order.",
+          "translation": "その会社は、裁判所命令によって文書を保全するよう求められていた。"
+        },
+        {
+          "word": "authorization",
+          "definition": "ある行為を行う正式な許可・権限、またはそれを示すもの。",
+          "frequency": 7,
+          "difference": "権限付与という内容を広く表し、必ず令状の形式を取るわけではない。warrant は具体的な公的文書を指す際に使う。",
+          "example": "Written authorization is required before the records can be released.",
+          "translation": "記録を開示するには、事前に書面による許可が必要だ。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【分詞形容詞・限定用法／叙述用法】正当な根拠がある、もっともな",
+      "frequency": 6,
+      "register": [
+        "ややフォーマル。判断・提言・評価。米英とも使う。"
+      ],
+      "definition": "warranted の形で、行為、心配、批判、判断などに、それを必要・適切だと認める十分な理由があることを表す。語義1の過去分詞に基づく評価的な用法。理由に支えられているという意味であり、その行為が実行済みだという意味ではない。",
+      "patterns": [
+        "a warranted 〈response/concern〉",
+        "be warranted",
+        "seem warranted",
+        "be fully warranted",
+        "be warranted under 〈状況〉。人・判断主体を主語にした be warranted in doing something は「～するだけの理由がある」という硬い構文。if warranted は if it is warranted などに対応する「必要・妥当なら」の省略形。根拠を by で示す形は語義1の受動態と連続する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a warranted concern",
+          "use": "心配には十分な理由があると評価する。",
+          "example": "Given the repeated errors, the client has a warranted concern about data quality.",
+          "translation": "誤りが繰り返されていることを考えると、顧客がデータの品質を心配するのはもっともだ。"
+        },
+        {
+          "pattern": "be fully warranted",
+          "use": "対応が十分な根拠に支えられていることを示す。",
+          "example": "A temporary suspension is fully warranted until the safety checks are complete.",
+          "translation": "安全点検が終わるまで一時停止することには、十分に正当な理由がある。"
+        },
+        {
+          "pattern": "seem warranted",
+          "use": "状況から見て対応が妥当だと思われることを述べる。",
+          "example": "A cautious response seems warranted in view of the uncertainty.",
+          "translation": "不確実性を考えると、慎重な対応が妥当と思われる。"
+        },
+        {
+          "pattern": "be warranted in doing something",
+          "use": "ある判断・行動を取る側に、その根拠があるかを述べる。",
+          "example": "On the evidence available, we are not warranted in assuming that the problem has been solved.",
+          "translation": "現時点の証拠では、問題が解決したと考えるだけの根拠はない。"
+        },
+        {
+          "pattern": "if warranted",
+          "use": "必要性や妥当性が認められた場合に限ることを示す。",
+          "example": "We will request additional testing if warranted.",
+          "translation": "必要と認められれば、追加試験を依頼する。"
+        }
+      ],
+      "notes": [
+        "The concern is warranted. は心配する正当な理由があるという評価、The product is warranted for two years. は製品が2年間保証されるという語義4の受動態。主語・補語と文脈で区別する。warranted 自体にハイフンは不要で、a warranted response、The response seems warranted. と使う。十分さを表す fully、entirely、well などを伴える。be warranted in doing は「行為に理由がある」という意味で、その人に製品保証が付いているのではない。語義1の warrant someone in doing something に対応する人主語の形で、The evidence warrants us in reaching that conclusion. と We are warranted in reaching that conclusion. の関係を押さえる。get warranted を、普通の「もっともになる」の一般的な型として覚えず、seem warranted、be warranted などを使う。unwarranted criticism は根拠や程度が不当な批判であり、批判を受ける人が単に気に入らないという意味ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "justified",
+          "definition": "十分な理由があり、正当と認められる。",
+          "frequency": 8,
+          "difference": "warranted と近く、人物の行動にも評価にも広く使う。warranted は状況に照らした必要性・妥当性の判断でやや硬く響く。",
+          "example": "Their concern about the missed deadlines is justified.",
+          "translation": "納期の遅れを彼らが心配するのはもっともだ。"
+        },
+        {
+          "word": "reasonable",
+          "definition": "状況や根拠に照らして筋が通っている。",
+          "frequency": 9,
+          "difference": "穏当さ・公平さ・常識への適合を広く評価する。warranted は、その判断や反応を支えるだけの理由があることをより直接に示す。",
+          "example": "It is reasonable to ask for a clearer explanation.",
+          "translation": "より分かりやすい説明を求めるのは、もっともなことだ。"
+        },
+        {
+          "word": "well-founded",
+          "definition": "確かな事実や理由に基づいている。",
+          "frequency": 6,
+          "difference": "心配、信念、疑いなどの土台となる根拠の確かさを強調する。warranted は対応や措置が必要・適切である場合にも使う。",
+          "example": "Her doubts about the estimate proved well-founded.",
+          "translation": "見積もりに対する彼女の疑念には、確かな根拠があったと分かった。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unwarranted",
+          "definition": "正当化できるだけの理由がない。",
+          "frequency": 6,
+          "difference": "根拠・妥当性という同一軸上で warranted を直接否定する。心配、批判、干渉などに使う。",
+          "example": "The report led to unwarranted speculation about the team's future.",
+          "translation": "その報告により、チームの将来について根拠のない憶測が広がった。"
+        },
+        {
+          "word": "unjustified",
+          "definition": "正当と認める十分な理由がない。",
+          "frequency": 7,
+          "difference": "正当性についての直接的な対立で、unwarranted と大きく重なる。判断や費用、行動の説明にも広く使う。",
+          "example": "The additional charge was unjustified because no extra work had been done.",
+          "translation": "追加作業は行われていなかったため、その上乗せ請求には正当な理由がなかった。"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "【他動詞】保証する、確かであると請け合う",
+      "frequency": 4,
+      "register": [
+        "フォーマル・専門的。製品保証、売買契約、その他の契約条項。米英とも使う。日常の軽い約束には通常 guarantee、promise などを使う。"
+      ],
+      "definition": "事実、品質、状態、権利などが説明どおりである・約束どおりになると、責任を伴う形で保証する。製造業者・売り手・契約当事者などを主語にし、製品やその品質、記述の正確さなどを対象にする。契約では法的な責任に関わる場合があるが、保証の範囲・期間・救済方法は実際の条項や適用法による。",
+      "patterns": [
+        "warrant 〈製品・品質・正確さなど〉",
+        "warrant that 〈主語＋動詞〉",
+        "warrant 〈製品など〉 to be 〈状態を表す補語〉",
+        "warrant 〈製品〉 against 〈欠陥など〉",
+        "warrant 〈製品・作業〉 for 〈保証期間〉。受動態は be warranted against 〈欠陥〉、be warranted for 〈期間〉、be warranted to be 〈状態〉。契約の定型に represent and warrant that 〈主語＋動詞〉「～と表明し保証する」がある。"
+      ],
+      "collocations": [
+        {
+          "pattern": "warrant that 〈主語＋動詞〉",
+          "use": "契約当事者が保証する内容を節で明示する。",
+          "example": "The supplier warrants that the delivered components will meet the agreed specifications.",
+          "translation": "供給者は、納入する部品が合意した仕様に適合することを保証する。"
+        },
+        {
+          "pattern": "warrant 〈製品〉 to be 〈状態〉",
+          "use": "製品がどのような状態であると保証するかを示す。",
+          "example": "The seller warrants the replacement parts to be new and unused.",
+          "translation": "売り手は、交換部品が新品で未使用であることを保証する。"
+        },
+        {
+          "pattern": "be warranted against 〈欠陥〉",
+          "use": "どの種類の欠陥が保証対象かを示す。",
+          "example": "The casing is warranted against defects in materials and workmanship.",
+          "translation": "その外装には、材料および製造上の欠陥に対する保証が付いている。"
+        },
+        {
+          "pattern": "be warranted for 〈期間〉",
+          "use": "保証期間を述べる。",
+          "example": "Under this agreement, the repair work is warranted for twelve months.",
+          "translation": "この契約では、修理作業には12か月の保証が付く。"
+        },
+        {
+          "pattern": "warrant the accuracy of 〈情報〉",
+          "use": "情報の正しさを保証の対象にする。",
+          "example": "The provider does not warrant the accuracy of information supplied by third parties.",
+          "translation": "提供者は、第三者から提供された情報の正確さを保証しない。"
+        },
+        {
+          "pattern": "represent and warrant that 〈主語＋動詞〉",
+          "use": "契約上、ある事実を表明し、その内容を保証する。",
+          "example": "The seller represents and warrants that it owns the equipment being sold.",
+          "translation": "売り手は、売却対象の機器を自らが所有していることを表明し、保証する。"
+        }
+      ],
+      "notes": [
+        "この語義の The seller warrants that the parts are new. は「売り手が新品であると保証する」。語義1の The defect warrants a replacement. は「欠陥があるため交換する理由になる」で、保証者が約束する文ではない。warrant 〈製品〉 to be 〈状態〉 は保証内容を示す正しい構文だが、それを根拠に語義1で warrant to do を一般化しない。against は保証の対象となる欠陥など、for は保証期間などを示す。be warranted against defects だけでは、必ず無償交換する・全額返金する・全損害を補償するとまでは読めない。warrant title は、権原・所有権について保証する法律上の表現で、単に文書の題名を保証する意味ではない。保証内容を表す名詞は通常 warranty で、「2年保証」は a two-year warranty。warrant と warranty を語形の違いだけとして交換しない。represent and warrant の2語は契約の定型だが、表明・保証の具体的な法的効果をあらゆる契約・法域で同じだと決めつけない。古風な I'll warrant「きっとそうだ」は語義11で区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "guarantee",
+          "definition": "内容や結果が確かであると保証する。",
+          "frequency": 9,
+          "difference": "日常の保証から製品・契約上の保証まで幅広い。warrant は製品の状態や契約上の事実を正式に保証する文脈で使われやすい。",
+          "example": "The manufacturer guarantees the motor for three years.",
+          "translation": "製造業者は、そのモーターを3年間保証する。"
+        },
+        {
+          "word": "vouch for",
+          "definition": "自分の知識や信用に基づき、正しさ・信頼性を請け合う。",
+          "frequency": 6,
+          "difference": "個人的な経験や信頼による裏付けを表しやすい。warrant は明示的な保証条項など、責任の範囲を定める文章にも使う。",
+          "example": "I can vouch for the accuracy of these figures because I checked them myself.",
+          "translation": "自分で確認したので、これらの数字が正確なことは請け合える。"
+        },
+        {
+          "word": "assure",
+          "definition": "人に対して、ある内容が確かだと伝えて安心・確信させる。",
+          "frequency": 8,
+          "difference": "通常、人を目的語にして assure someone that の形を取る。warrant は製品や保証する事実を直接対象にでき、契約上の保証にも使う。",
+          "example": "The manager assured the client that the information was correct.",
+          "translation": "管理者は、その情報が正しいと顧客に請け合った。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞・主に不可算】正当な理由、判断の根拠",
+      "frequency": 4,
+      "register": [
+        "フォーマル。一般的な「理由」の意味では硬く、やや古風に感じられる場合もある。哲学、論考、学術的な議論では現代でも使う。英国だけに限定されない。"
+      ],
+      "definition": "行動、批判、信念、推論などを正当なものとして支える理由・根拠。単に何かを思い付いた原因ではなく、その判断や行動を認めるに足る支えを指す。no warrant for の形で、十分な根拠がないと否定することが多い。",
+      "patterns": [
+        "no warrant for 〈行為・評価〉",
+        "no warrant for doing something",
+        "sufficient warrant for 〈判断〉",
+        "without warrant",
+        "provide warrant for 〈結論・信念〉。この一般的な根拠の意味では主に不可算。the warrant for 〈主張〉のように、特定の根拠を指して the を付けることもできる。論証論で個別の前提を数える可算用法は語義8で扱う。"
+      ],
+      "collocations": [
+        {
+          "pattern": "no warrant for 〈評価・対応〉",
+          "use": "批判や対応を正当化する理由がないと述べる。",
+          "example": "There is no warrant for such a sweeping criticism of the entire team.",
+          "translation": "チーム全体をこれほど一括りに批判する正当な理由はない。"
+        },
+        {
+          "pattern": "no warrant for doing something",
+          "use": "根拠のない行為を動名詞で示す。",
+          "example": "We have no warrant for assuming that every customer wants the same features.",
+          "translation": "すべての顧客が同じ機能を求めていると考える根拠はない。"
+        },
+        {
+          "pattern": "sufficient warrant for 〈結論〉",
+          "use": "結論を支えるのに足りる根拠があるかを論じる。",
+          "example": "A single interview does not provide sufficient warrant for a conclusion about the whole industry.",
+          "translation": "一度の面接調査だけでは、業界全体について結論を出す十分な根拠にはならない。"
+        },
+        {
+          "pattern": "without warrant",
+          "use": "理由・裏付けを欠いた判断を、硬い文章で批判する。",
+          "example": "The essay treats the two concepts as identical without warrant.",
+          "translation": "その論考は、根拠なく2つの概念を同一視している。"
+        }
+      ],
+      "notes": [
+        "There is no warrant for criticism. の warrant は不可算の「根拠」。There is a warrant for his arrest. の warrant は可算の「逮捕状」で、同じ for が続いていても意味と可算性が異なる。前者を「批判のための令状」と読まない。without warrant も、議論の文脈では「根拠なく」、権限を論じる文脈では「正当な権限なく」となり得る。具体的な令状を問題にする場合の without a warrant と区別する。warrant は原因一般ではないので、遅刻した理由を日常的に説明するなら the reason for being late の方が普通。根拠が不足していることは、結論が必ず偽だと証明されたこととは違う。"
+      ],
+      "synonyms": [
+        {
+          "word": "justification",
+          "definition": "行動・判断を正当とする理由や根拠。",
+          "frequency": 8,
+          "difference": "warrant より幅広く使い、説明として提示される理由にもなじむ。warrant は特に、判断を支える資格・根拠の有無を硬く述べる。",
+          "example": "The report offers no clear justification for the extra expense.",
+          "translation": "報告書には、追加支出を正当化する明確な理由が示されていない。"
+        },
+        {
+          "word": "grounds",
+          "definition": "判断や行動を支える理由・根拠。",
+          "frequency": 8,
+          "difference": "この意味では複数形を使う。grounds for concern、on the grounds that などの定着した形があり、warrant より一般的な業務文にもなじむ。",
+          "example": "We found no grounds for doubting the authenticity of the document.",
+          "translation": "その文書が本物であることを疑う根拠は見つからなかった。"
+        },
+        {
+          "word": "basis",
+          "definition": "判断・行動の土台となるもの。",
+          "frequency": 9,
+          "difference": "根拠の正当性を必ずしも評価せず、何を土台にしたかを示せる。warrant はその土台が行為・判断を認める支えになるという含みが強い。",
+          "example": "The sample is too small to provide a reliable basis for comparison.",
+          "translation": "標本が小さすぎて、比較の信頼できる土台にはならない。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【名詞・可算】ワラント、株式などに関する権利証券",
+      "frequency": 3,
+      "register": [
+        "金融・投資の専門用語。企業の資金調達、証券発行、投資商品の説明。制度や商品条件は市場ごとに異なる。"
+      ],
+      "definition": "あらかじめ定められた条件で株式などを購入する権利を表す金融商品。典型的な stock warrant／share warrant は、会社が発行し、保有者がその会社の株式を所定の価格で購入できる権利で、日本語では文脈に応じて「ワラント」「新株予約権」などと訳す。購入義務や株式そのものとは異なる。covered warrant など、他の資産や売る権利、現金決済に関わる商品もあり、名称だけで全商品の仕組みが同じとは言えない。",
+      "patterns": [
+        "a stock warrant",
+        "a share warrant",
+        "a warrant to buy 〈株式数など〉 at 〈価格〉",
+        "issue warrants",
+        "exercise a warrant",
+        "hold warrants",
+        "〈warrants〉 + expire",
+        "a covered warrant。保有・行使の対象となる可算名詞で、複数の権利なら warrants。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a warrant to buy 〈株式数〉 at 〈価格〉",
+          "use": "株式を買える数量と行使価格を示す。",
+          "example": "The investor received a warrant to buy one hundred shares at ten dollars per share.",
+          "translation": "投資家は、1株10ドルで100株を購入できるワラントを受け取った。"
+        },
+        {
+          "pattern": "issue stock warrants",
+          "use": "会社が株式購入の権利を発行することを述べる。",
+          "example": "The company issued stock warrants as part of the financing agreement.",
+          "translation": "その会社は、資金調達契約の一部として株式購入のワラントを発行した。"
+        },
+        {
+          "pattern": "exercise a warrant",
+          "use": "保有する権利を実際に行使することを述べる。",
+          "example": "The holder exercised the warrant and purchased the shares at the specified price.",
+          "translation": "保有者はワラントを行使し、定められた価格で株式を購入した。"
+        },
+        {
+          "pattern": "〈warrants〉 + expire",
+          "use": "権利の有効期間が終わることを述べる。",
+          "example": "These warrants expire at the end of June unless exercised earlier.",
+          "translation": "これらのワラントは、それまでに行使しなければ6月末で失効する。"
+        },
+        {
+          "pattern": "a covered warrant",
+          "use": "原資産や決済条件が定められた別タイプのワラントを示す。",
+          "example": "This covered warrant is cash-settled, so exercising it does not result in delivery of the underlying shares.",
+          "translation": "このカバードワラントは現金決済なので、行使しても原資産である株式は受け渡されない。"
+        }
+      ],
+      "notes": [
+        "issue は発行者側の「発行する」、exercise は保有者側の「権利を行使する」。金融文脈で execute a search warrant のような令状の「執行」と混同しない。stock warrant は株式を取得する権利で、保有しただけで対象株式を取得したとは限らない。所定の株数、価格、行使期間、失効、発行者による償還などは条件書で確認する事項であり、すべてのワラントに同じ期間・条件があるわけではない。call warrant は一般に買う権利、put warrant は売る権利に関わり、covered warrant をすべて「その企業が新株を発行する権利」と訳すのは不正確。配当の支払いに使う dividend warrant は、語義7の支払証書であり、配当株を買うオプションではない。製品保証 warranty とも区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "stock option",
+          "definition": "所定の条件・価格で株式を売買する権利。",
+          "frequency": 5,
+          "difference": "株式に関する権利という点で重なるが、企業発行ワラント、取引所のオプション、従業員向けのストックオプションは発行主体・条件・制度が同一ではない。一般の stock option には買う権利と売る権利があり、日本語の従業員向け「ストックオプション」より広い。",
+          "example": "A stock option gives its holder a right, rather than an obligation, to trade shares under specified terms.",
+          "translation": "株式オプションは、所定の条件で株式を売買する義務ではなく権利を保有者に与える。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【名詞・可算】支払指図書、支払・受取の権利証書",
+      "frequency": 3,
+      "register": [
+        "行政会計、商取引、金融の専門用語。payment warrant、dividend warrant、warehouse warrant などの複合語で見かける。地域・制度による違いが大きい。"
+      ],
+      "definition": "金銭の支払い、物品の引渡し、サービスの受領などを認めたり指示したりする文書・証書。米国の州などの会計で支払証書・給与の支払指図を指す場合や、英国の dividend warrant「配当金支払証書」などがある。何を受け取れるか、どのように支払われるかは制度と証書の種類による。",
+      "patterns": [
+        "a payment warrant",
+        "a warrant for 〈金額・支払対象〉",
+        "issue a warrant",
+        "cash a warrant",
+        "a dividend warrant",
+        "a warehouse warrant。文書・証書として可算で、複数は warrants。registered warrant は、米国の一部の公的会計で支払繰延べに関わる証書を指す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a payment warrant",
+          "use": "公的会計などで、支払いを認める証書を示す。",
+          "example": "The state agency issued a payment warrant for the approved travel expenses.",
+          "translation": "州の機関は、承認済みの出張経費について支払証書を発行した。"
+        },
+        {
+          "pattern": "cash a warrant",
+          "use": "現金化できる支払証書を換金することを述べる。",
+          "example": "The employee asked the payroll office how to cash the warrant.",
+          "translation": "その職員は、支払証書をどう換金するか給与担当部署に尋ねた。"
+        },
+        {
+          "pattern": "a dividend warrant",
+          "use": "配当金の支払いに用いる証書を示す、主に英国の用語。",
+          "example": "The shareholder contacted the registrar because the dividend warrant had not arrived.",
+          "translation": "株主は、配当金支払証書が届いていないため、株主名簿管理人に連絡した。"
+        },
+        {
+          "pattern": "a warehouse warrant",
+          "use": "倉庫に保管されている物品に関する権利を示す証書を述べる。",
+          "example": "The warehouse warrant identifies the stored goods covered by the document.",
+          "translation": "その倉庫証券には、証券の対象となる保管物品が明記されている。"
+        },
+        {
+          "pattern": "a registered warrant",
+          "use": "公的機関の支払いが繰り延べられた際などの証書を示す。",
+          "example": "In 2009, California issued registered warrants, commonly called IOUs, during a cash shortage.",
+          "translation": "2009年、カリフォルニア州は資金不足の際、一般に IOU と呼ばれる支払繰延証書を発行した。"
+        }
+      ],
+      "notes": [
+        "この意味の warrant は、警察の令状でも、語義6の株式購入権でもない。米国の会計で check に近いものを指す場合がある一方、registered warrant のように、通常の即時の支払いと異なる扱いになるものもある。「warrant は常に小切手と完全に同じ」「受け取れば必ずその場で換金できる」と一律に説明しない。dividend warrant は英国の dividend cheque に相当する用語。warehouse warrant は warehouse receipt とも呼ばれるが、単なる代金支払い済みのレシートという意味ではない。文書が示す物品・受取権などの法的な効果は、証書と制度を確認する必要がある。registered warrant の例文は2009年の事実を示すもので、現在のすべての州の支払方式を述べるものではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "voucher",
+          "definition": "金額・物品・サービスを受け取る権利や、支出の裏付けを示す証書。",
+          "frequency": 7,
+          "difference": "引換券・支出証憑など広い種類を含む。warrant と重なる受取用の文書もあるが、公的な支払指図書と常に同じではない。",
+          "example": "The passenger received a voucher for a meal at the airport.",
+          "translation": "乗客は、空港で食事ができる引換券を受け取った。"
+        },
+        {
+          "word": "cheque",
+          "definition": "指定した金額を支払うよう銀行に指示する小切手。",
+          "frequency": 7,
+          "difference": "米国では check と綴る。支払手段という点では一部の warrant と重なるが、warrant は公的支払いの承認・指図や特定の権利証書を指す場合がある。",
+          "example": "The refund was sent by cheque rather than by bank transfer.",
+          "translation": "返金は銀行振込ではなく、小切手で送られた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【名詞・可算】論拠、証拠と主張を結ぶ前提",
+      "frequency": 3,
+      "register": [
+        "専門用語。論証論、修辞学、批判的思考、学術的な文章指導。"
+      ],
+      "definition": "論証、とりわけトゥールミンの論証モデルで、提示された証拠・データから主張へ進むことを支える前提や一般的な考え方。証拠そのものではなく、「その証拠から、なぜその主張が言えるのか」をつなぐもの。明示される場合も、暗黙の場合もある。",
+      "patterns": [
+        "the warrant of an argument",
+        "the warrant for a claim",
+        "an implicit warrant",
+        "an explicit warrant",
+        "identify a warrant",
+        "challenge the warrant。個々の論拠を数えて a warrant、several warrants とする。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the warrant of an argument",
+          "use": "データと主張をつなぐ前提を取り出して説明する。",
+          "example": "The warrant of this argument is that passing the inspection is a reliable indicator of safety.",
+          "translation": "この議論の論拠は、検査に合格したことが安全性の信頼できる指標になる、という前提である。"
+        },
+        {
+          "pattern": "an implicit warrant",
+          "use": "はっきり書かれていないが、推論を支えている前提を示す。",
+          "example": "The writer relies on an implicit warrant linking customer satisfaction to repeat purchases.",
+          "translation": "書き手は、顧客満足が再購入につながるという暗黙の論拠に依拠している。"
+        },
+        {
+          "pattern": "challenge the warrant",
+          "use": "証拠の真偽とは別に、そこから結論へ進むつながりを疑う。",
+          "example": "The critic accepted the survey figures but challenged the warrant connecting them to the proposed policy.",
+          "translation": "批評者は調査の数値は認めたが、それらを提案された政策に結び付ける論拠に疑問を呈した。"
+        }
+      ],
+      "notes": [
+        "語義5の no warrant for criticism は一般的な正当化の根拠で主に不可算。ここでの a warrant は、論証の構成要素として取り出した前提を指す可算名詞。トゥールミンのモデルでは、grounds／data は証拠、claim は主張、warrant は両者を結ぶ前提であり、3つを同じ「根拠」とだけ訳すと構造が分からなくなる。warrant と名付けられた前提が、必ず真である・例外なく成り立つとは限らない。前提の妥当性も検討の対象になる。法律の令状とは無関係で、一般会話で意見の理由を言うたびにこの専門語を使う必要はない。"
+      ],
+      "synonyms": [
+        {
+          "word": "premise",
+          "definition": "推論や議論を組み立てる出発点となる命題・前提。",
+          "frequency": 6,
+          "difference": "議論の前提を広く指す。warrant はこのモデルでは、そのうち証拠から主張へつなぐ役割に特化する。",
+          "example": "The argument rests on the premise that demand will remain stable.",
+          "translation": "その議論は、需要が安定したまま続くという前提に立っている。"
+        },
+        {
+          "word": "assumption",
+          "definition": "議論のために成立すると置いている考え・前提。",
+          "frequency": 8,
+          "difference": "暗黙・明示の仮定を広く指し、すべてがデータと主張を結ぶ役割を持つわけではない。warrant は論証内の機能を示す専門的な呼び方。",
+          "example": "We should make the underlying assumption explicit before assessing the conclusion.",
+          "translation": "結論を評価する前に、その基にある仮定を明示するべきだ。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 9,
+      "title": "【他動詞】正式に認める、権限を与える",
+      "frequency": 2,
+      "register": [
+        "硬い法律・行政の文章。日常の許可には authorize、permit などの方が一般的。"
+      ],
+      "definition": "法律、正式な命令、権限などにより、ある行為を行ってよいと認める。語義1の「状況から見て十分な理由がある」と関連するが、ここでは正式な権限・認可という面を前面に出す。",
+      "patterns": [
+        "warrant 〈正式に認められる手続き・行為〉。主語は法律・命令・権限など。受動態は 〈行為〉 + be warranted by law、be warranted by 〈正式な命令など〉。一般的な実務文で人に権限を与えると明確に言うなら authorize someone to do something を用いる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "warrant 〈正式な手続き・行為〉",
+          "use": "法律・規定が特定の行為を認めるかを述べる。",
+          "example": "The court held that the statute did not warrant entry onto private land without the owner's consent.",
+          "translation": "裁判所は、その法律は所有者の同意なしに私有地へ立ち入る権限を与えていないと判断した。"
+        },
+        {
+          "pattern": "be warranted by law",
+          "use": "行為が法的に認められていることを述べる。",
+          "example": "The officials argued that the seizure was warranted by law, not merely advisable as a precaution.",
+          "translation": "当局者らは、その押収は単に予防措置として望ましいだけでなく、法律によって認められていると主張した。"
+        }
+      ],
+      "notes": [
+        "be warranted by the evidence は証拠による正当化、be warranted by law は文脈によって法律上の権限付与を表す。by law があれば必ず別語義になるという機械的な区別ではなく、実際に「正式な権限」を述べているかを見る。動詞 warrant だけで、特定の令状が現実に発付されたと決まるわけではない。The court issued a warrant. は令状を発付したことを明示する名詞構文である。"
+      ],
+      "synonyms": [
+        {
+          "word": "authorize",
+          "definition": "正式な許可・権限を与える。",
+          "frequency": 8,
+          "difference": "この意味を最も直接的に表す。authorize someone to do something のように、権限を与えられる人も明示しやすい。",
+          "example": "The order authorizes the officers to inspect the specified records.",
+          "translation": "その命令は、指定された記録を調べる権限を担当官に与える。"
+        },
+        {
+          "word": "permit",
+          "definition": "行為を許可する、規則上認める。",
+          "frequency": 9,
+          "difference": "正式な許可から日常の許可まで幅広い。warrant は権限による承認を示す硬い文章になじむ。",
+          "example": "The regulations permit access only for authorized personnel.",
+          "translation": "規則では、権限を与えられた者だけに立入りを認めている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 10,
+      "title": "【動詞慣用句】破滅を招く、自分の首を絞める",
+      "frequency": 4,
+      "register": [
+        "慣用的・比喩的。会話、評論、報道。強い表現で、日常の小さな不便には大げさに響く。"
+      ],
+      "definition": "sign someone's death warrant／sign one's own death warrant の形で、人・組織・計画などの立場や存続を決定的に損なう行為をする。文字どおりの「死刑執行命令書に署名する」を比喩にした表現。own を使えば、自分自身の失敗・破滅を招くという意味になる。実際の死を意味せず、職業上・政治上・事業上の致命的な失敗を大げさに表す場合もある。",
+      "patterns": [
+        "sign one's own death warrant",
+        "sign someone's death warrant",
+        "sign the death warrant of 〈組織・計画〉。sign は時制・人称に応じて signs、signed などに変える。原因となる行為は by doing something で示せる。受動態の someone's death warrant + be signed も使うが、比喩か字義かを文脈で区別する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "sign one's own death warrant",
+          "use": "自分の行為で、自分の立場や事業を決定的に悪くする。",
+          "example": "By repeatedly ignoring its biggest customer's complaints, the company was signing its own death warrant.",
+          "translation": "最大の顧客の苦情を繰り返し無視することで、その会社は自らの破滅を招いていた。"
+        },
+        {
+          "pattern": "sign the death warrant of 〈計画・組織〉",
+          "use": "ある決定が、別の計画などを存続できなくすることを表す。",
+          "example": "The withdrawal of funding effectively signed the death warrant of the expansion project.",
+          "translation": "資金提供の撤回によって、その拡張計画は事実上息の根を止められた。"
+        },
+        {
+          "pattern": "someone's death warrant + be signed",
+          "use": "比喩的な破滅への道が決まったと受動態で述べる。",
+          "example": "The firm's commercial death warrant was signed when its only major customer switched suppliers.",
+          "translation": "唯一の大口顧客が仕入れ先を変えた時、その会社の事業継続の望みは絶たれた。"
+        }
+      ],
+      "notes": [
+        "ここで warrant は sign の目的語となる名詞句 death warrant の一部で、動詞 warrant の活用ではない。sign my own death warrant、sign their own death warrant のように、own の前の所有格を主体に合わせる。相手や別の組織の破滅を招く場合は own を使わず、sign the company's death warrant のようにする。文字どおりの死刑執行命令書への署名は語義2の法的文書の用法。比喩では、書面への署名が本当に行われる必要はない。死や危害を連想させる強い表現なので、相手への直接の警告では威圧的に響くことがある。"
+      ],
+      "synonyms": [
+        {
+          "word": "dig one's own grave",
+          "definition": "自分の行為で、自分の失敗や破滅を招く。",
+          "frequency": 5,
+          "difference": "自滅という点で近い慣用句。sign one's own death warrant は決定的な行為、dig one's own grave は失敗に向けて悪い行為を積み重ねる様子にもなじむ。",
+          "example": "He is digging his own grave by refusing to acknowledge the repeated mistakes.",
+          "translation": "度重なるミスを認めようとせず、彼は自分の首を絞めている。"
+        },
+        {
+          "word": "seal someone's fate",
+          "definition": "人・物事の行く末を、取り返しのつかない形で決定する。",
+          "frequency": 6,
+          "difference": "不利な結末になる場合が多いが、自分で原因を作るとは限らない。sign someone's death warrant は特に破滅的な帰結を強く示す。",
+          "example": "Losing the final contract sealed the factory's fate.",
+          "translation": "最後の契約を失ったことで、その工場の運命は決まった。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 11,
+      "title": "【定型表現・確信の表明】きっと～だ、請け合う",
+      "frequency": 2,
+      "register": [
+        "古風。文学の会話や意図的に昔風の口調で見られる。現代の日常会話の中立的な定型ではない。"
+      ],
+      "definition": "I warrant／I'll warrant／I'll warrant you などの形で、あることは確かだと話し手が強く言う。相手に安心や確信を与えたり、自分の推測を強く述べたりする。製品の修理・交換を約束する正式な保証条項とは区別する。",
+      "patterns": [
+        "I warrant that 〈主語＋動詞〉",
+        "I'll warrant 〈主語＋動詞〉",
+        "I'll warrant you that 〈主語＋動詞〉。that や you を伴わない形もある。文末に I'll warrant、I'll warrant you を添えることもできる。will は、ここでは将来の保証行為を予定するというより、確信を強く表す定型の一部。"
+      ],
+      "collocations": [
+        {
+          "pattern": "I'll warrant 〈主語＋動詞〉",
+          "use": "古風な口調で、自分の見立てに自信があると述べる。",
+          "example": "I'll warrant he has already heard the news.",
+          "translation": "あの人なら、もうその知らせを聞いているに違いない。"
+        },
+        {
+          "pattern": "I'll warrant you that 〈主語＋動詞〉",
+          "use": "相手に向け、確かだと請け合う古風な表現。",
+          "example": "I'll warrant you that she has not forgotten her promise.",
+          "translation": "彼女が約束を忘れていないことは、請け合うよ。"
+        },
+        {
+          "pattern": "〈文〉, I'll warrant",
+          "use": "先に述べた内容への確信を文末に添える。",
+          "example": "They will be back before supper, I'll warrant.",
+          "translation": "あの人たちは夕食前には戻るだろう、きっとね。"
+        }
+      ],
+      "notes": [
+        "この定型の you は請け合う相手であり、後続節の主語と混同しない。I'll warrant he knows. と I'll warrant you he knows. はどちらも「彼は知っているに違いない」という確信を示し、you が何かを知っているという文ではない。単独の I'll warrant. は前後の内容への断言として使えるが、古風な響きは残る。通常の現代会話なら I'm sure や I bet の方がなじみやすい。語義4の The seller warrants that... は契約における保証であり、古風な会話表現だからと一括して扱わない。"
+      ],
+      "synonyms": [
+        {
+          "word": "I'm sure",
+          "definition": "ある内容が確かだと自分は思う、と述べる。",
+          "frequency": 10,
+          "difference": "現代の中立的な確信表現。I'll warrant の古風さや芝居がかった響きを伴わない。",
+          "example": "I'm sure she remembers the agreement.",
+          "translation": "彼女はその取り決めを覚えているはずだ。"
+        },
+        {
+          "word": "I bet",
+          "definition": "きっとそうだと思う、と強い推測を述べる。",
+          "frequency": 9,
+          "difference": "口語的で現代的。ここでは実際に金を賭けるという意味ではなく、推測への自信を示す。",
+          "example": "I bet they've already finished the work.",
+          "translation": "あの人たちは、きっともう仕事を終えているよ。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
