@@ -1,0 +1,416 @@
+{
+  "word": "coherent",
+  "slug": "coherent",
+  "ipa": "米: /koʊˈhɪrənt/｜英: /kəʊˈhɪərənt/。3音節で、主強勢は第2音節。第1音節の母音は米 /oʊ/・英 /əʊ/、第2音節は米 /ɪ/ に /r/ が続き、英 /ɪə/ に次の音節へつながる /r/ が続く。第3音節の母音はともに /ə/。coherent の h は発音する。",
+  "lead": "説明・主張・考え・計画などの各部分が自然につながり、全体として理解できること。単に文法が正しい、内容が簡単、前後で同じことを言っているというだけでなく、考えの関係が追えることを表す。通常は整理のよさを評価する語だが、結論が真実であることや、相手を説得できることまでは保証しない。",
+  "updated": "2026-10-07",
+  "notion_url": "https://app.notion.com/p/coherent-3f24faa9b77d810e915dc000c0ddbefe",
+  "pronunciation": [],
+  "etymology": [
+    "ラテン語 cohaerere「一緒にくっつく」の現在分詞 cohaerent- に由来する。co-「一緒に」＋ haerere「くっつく」で、要素の結びつきが、内容のまとまりや筋の通り方を表す用法につながっている。同じ語根を持つ語には cohere「まとまる」、adhere「付着する・固く守る」、inherent「本来備わった」がある。"
+  ],
+  "formation": [
+    {
+      "term": "coherence（不可算名詞）＝話・考え・全体のまとまり、一貫性。物理ではコヒーレンス。形容詞",
+      "description": "coherent に対応する名詞。"
+    },
+    {
+      "term": "coherently（副詞）＝筋道立てて、理解できるように。speak",
+      "description": "coherently など、話し方を修飾する。"
+    },
+    {
+      "term": "incoherent（形容詞）＝支離滅裂な、話が通じない、まとまりのない。物理では位相関係が安定しないことを表す。",
+      "description": ""
+    },
+    {
+      "term": "cohere（自動詞）＝要素がまとまる、結びつく。coherent",
+      "description": "と同じ語族だが、日常的な説明では form a coherent whole のような形が使いやすい。"
+    }
+  ],
+  "core": [
+    {
+      "label": "要素がばらばらでなく、互いのつながりを保ってまとまっている。話では考えのつながり、人ではそのように話せる状態、集団や物では構成要素の結びつきに注目する。専門用法では、波の位相や単位同士の関係について、何が「つながっている」のかが定められている。",
+      "description": ""
+    },
+    {
+      "label": "要素のつながりが通った話や考え",
+      "description": "→ 「筋の通った、首尾一貫した」（語義1）"
+    },
+    {
+      "label": "要素のつながりが通った話のできる人",
+      "description": "→ 「筋道立てて話せる、話が通じる」（語義2）"
+    },
+    {
+      "label": "要素のつながりが保たれた集団や物",
+      "description": "→ 「まとまりのある、一体となった」（語義3）"
+    },
+    {
+      "label": "要素のつながりが安定した波の位相",
+      "description": "→ 「コヒーレントな、可干渉性のある」（語義4）"
+    },
+    {
+      "label": "要素のつながりが比例係数1で保たれた単位",
+      "description": "→ 「一貫性のある、整合した」（語義5）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【形容詞：限定・叙述】筋の通った、首尾一貫した",
+      "frequency": 7,
+      "register": [
+        "一般、文章・議論・企画の評価。やや改まった表現だが会話でも使う。"
+      ],
+      "definition": "説明・主張・考え・計画などの各部分が自然につながり、全体として理解できること。単に文法が正しい、内容が簡単、前後で同じことを言っているというだけでなく、考えの関係が追えることを表す。通常は整理のよさを評価する語だが、結論が真実であることや、相手を説得できることまでは保証しない。",
+      "patterns": [
+        "a coherent 〈argument/explanation/plan〉＝筋の通った主張・説明・計画",
+        "〈説明・考え〉 + be/seem/become coherent＝内容に筋が通っている・通って見える・通るようになる",
+        "make something coherent＝内容を筋の通るものにする",
+        "a more coherent 〈account/strategy〉＝よりまとまった説明・戦略。very、perfectly、internally、logically などで程度や評価の観点を示せる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a coherent explanation of something",
+          "use": "ばらばらの事実をつなぎ、理由や経緯が理解できる説明。",
+          "example": "We still need a coherent explanation of why the costs increased.",
+          "translation": "費用が増えた理由について、まだ筋の通った説明が必要だ。"
+        },
+        {
+          "pattern": "a coherent argument for something",
+          "use": "結論を支える論点がつながっていることを評価する。",
+          "example": "The report presents a coherent argument for changing the schedule.",
+          "translation": "その報告書は、日程を変更すべきだという筋の通った主張を示している。"
+        },
+        {
+          "pattern": "a coherent plan for something",
+          "use": "各施策の関係や全体の方針が整理された計画。",
+          "example": "We need a coherent plan for expanding into new markets.",
+          "translation": "新しい市場への進出について、筋の通った計画が必要だ。"
+        },
+        {
+          "pattern": "be internally coherent",
+          "use": "主張や理論の内部で考えのつながりが保たれていること。",
+          "example": "The theory is internally coherent, but its assumptions need testing.",
+          "translation": "その理論は内部的には首尾一貫しているが、前提は検証する必要がある。"
+        },
+        {
+          "pattern": "make something more coherent",
+          "use": "構成や論点を整理して、説明を理解しやすくする。",
+          "example": "Moving this paragraph would make your account more coherent.",
+          "translation": "この段落を移せば、あなたの説明はもっと筋の通ったものになるだろう。"
+        }
+      ],
+      "notes": [
+        "coherent は形容詞なので、話し方なら She explained it coherently.「彼女は筋道立てて説明した」と副詞を使う。coherent with が整合関係を表す文章もあるが、一般的な「証拠と一致する」は consistent with the evidence を基本にする。coherent argument は筋を追える主張、cogent argument は理由が明確で説得力のある主張で、coherent だけから説得力や事実の正しさを読み込まない。a coherent plan to reduce costs の to 不定詞は plan の内容であり、coherent が直接 to reduce を要求しているわけではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "consistent",
+          "definition": "内容や立場の間に矛盾がなく、整合している。",
+          "frequency": 8,
+          "difference": "矛盾しないことに重点がある。coherent は、それに加えて全体のつながりや理解できる構成を問題にする。",
+          "example": "Her account is consistent with the written records.",
+          "translation": "彼女の説明は文書の記録と一致している。"
+        },
+        {
+          "word": "logical",
+          "definition": "考えの進め方が論理にかなっている。",
+          "frequency": 8,
+          "difference": "推論や理由づけの筋を評価する。coherent は物語や計画の構成にも使え、形式的な推論だけを問題にしない。",
+          "example": "That is a logical conclusion from the available evidence.",
+          "translation": "それは入手できる証拠から導かれる論理的な結論だ。"
+        },
+        {
+          "word": "cogent",
+          "definition": "主張や理由が明確で、説得力がある。",
+          "frequency": 4,
+          "difference": "読み手を納得させる力を積極的に評価する。coherent は話の筋が通ることを述べるため、説得力の評価とは区別できる。",
+          "example": "She gave a cogent reason for rejecting the proposal.",
+          "translation": "彼女はその提案を退ける説得力のある理由を述べた。"
+        },
+        {
+          "word": "lucid",
+          "definition": "説明や文章が明快で、理解しやすい。",
+          "frequency": 5,
+          "difference": "表現の明快さを前面に出す。coherent は各部分がどうつながっているかに重点を置く。",
+          "example": "The guide offers a lucid explanation of the process.",
+          "translation": "その手引きは、手順を明快に説明している。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "incoherent",
+          "definition": "話や考えがつながらず、全体の意味を理解しにくい。",
+          "frequency": 6,
+          "difference": "内容のまとまりという同じ軸での直接的な反対語。単なる事実誤認を意味するのではない。",
+          "example": "The draft is a collection of incoherent claims.",
+          "translation": "その草稿は、筋のつながらない主張の寄せ集めだ。"
+        },
+        {
+          "word": "disjointed",
+          "definition": "話や文章の部分同士のつながりが悪く、断片的である。",
+          "frequency": 5,
+          "difference": "構成の連続性という軸での反対。個々の文は理解できても、全体が飛び飛びになっている場合に使える。",
+          "example": "The presentation was disjointed and difficult to follow.",
+          "translation": "その発表は話があちこちに飛び、理解しにくかった。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【形容詞：限定・叙述】筋道立てて話せる、話が通じる",
+      "frequency": 6,
+      "register": [
+        "一般。会話、人物描写、体調・意識状態の説明。"
+      ],
+      "definition": "人が、他人に理解できるように自分の考えを話せること。話す能力全般にも、一時的に混乱や眠気から抜けて話が通じる状態にも使う。落ち着きや意識の明瞭さが背景になることはあるが、雄弁であることや、緊張していないことが必須ではない。",
+      "patterns": [
+        "someone + be/seem/become coherent＝人が話せる状態である・そう見える・その状態になる",
+        "a coherent speaker＝筋道立てて話せる話し手",
+        "be coherent enough to do＝ある発話行為ができる程度に話が通じる",
+        "be barely coherent＝ほとんど話が通じない。more coherent、very coherent などの程度表現が可能。"
+      ],
+      "collocations": [
+        {
+          "pattern": "be barely coherent",
+          "use": "疲労や混乱などで、話の意味がほとんど取れない状態。",
+          "example": "After the overnight flight, I was barely coherent during the meeting.",
+          "translation": "夜通しのフライトのあと、会議中の私はほとんどまともに話せなかった。"
+        },
+        {
+          "pattern": "become coherent",
+          "use": "それまで話が通じなかった人の状態が変わること。",
+          "example": "As the shock wore off, he became more coherent.",
+          "translation": "ショックが薄れるにつれて、彼の話は次第に筋が通るようになった。"
+        },
+        {
+          "pattern": "be coherent enough to answer questions",
+          "use": "質問への応答ができる程度に、考えを言葉にできること。",
+          "example": "She was tired but coherent enough to answer our questions.",
+          "translation": "彼女は疲れていたが、私たちの質問には筋道立てて答えられた。"
+        },
+        {
+          "pattern": "a coherent speaker",
+          "use": "話す内容を整理して伝えられる人。",
+          "example": "Even under pressure, he is a coherent speaker.",
+          "translation": "プレッシャーの下でも、彼は筋道立てて話せる人だ。"
+        }
+      ],
+      "notes": [
+        "She is coherent. は「彼女の話が理解できる」、Her explanation is coherent. は語義1の「彼女の説明に筋が通っている」。人主語だから必ず医療上の状態を意味するわけではない。be coherent enough to answer の to 不定詞は enough の程度・可能な行為を示し、単独の coherent to answer という基本構文ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "articulate",
+          "definition": "考えを明確かつ的確に言葉で表現できる。",
+          "frequency": 6,
+          "difference": "通常は表現能力の高さを評価する。coherent は「少なくとも理解可能な話ができる」という状態にも使える。",
+          "example": "The candidate is articulate and responds precisely to questions.",
+          "translation": "その候補者は考えを明確に表現でき、質問にも的確に答える。"
+        },
+        {
+          "word": "lucid",
+          "definition": "意識や思考が明瞭である。",
+          "frequency": 5,
+          "difference": "精神状態の明瞭さが中心。coherent は、その人の発話を理解できることに焦点を当てる。",
+          "example": "She remained lucid throughout the interview.",
+          "translation": "彼女は面談の間ずっと意識が明瞭だった。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "incoherent",
+          "definition": "考えを理解できる形で話せず、話が支離滅裂である。",
+          "frequency": 6,
+          "difference": "人の発話の明瞭さという同じ軸での反対。原因が疲労・興奮・病気のどれかは、この語だけでは決まらない。",
+          "example": "He was so upset that he was almost incoherent.",
+          "translation": "彼はひどく動揺していて、ほとんど話が通じなかった。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【形容詞：限定・叙述】まとまりのある、一体となった",
+      "frequency": 5,
+      "register": [
+        "一般のやや改まった記述。組織・構成の説明。物理的な塊への使用は少なめ。"
+      ],
+      "definition": "集団・構成要素・材料などが結びつき、一つの全体としてまとまっていること。集団なら行動や役割がかみ合うこと、物なら部分が結合していることを表す。親密な人間関係や、全員の意見が完全に同じであることまでは含まない。",
+      "patterns": [
+        "a coherent 〈team/group/whole〉＝まとまりのあるチーム・集団・全体",
+        "form a coherent whole＝各要素が一つの全体を成す",
+        "something + remain coherent＝一体性を保つ",
+        "a coherent mass＝結合した一塊。集団などのまとまりには highly、more などの程度修飾も使える。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a coherent team",
+          "use": "メンバーの仕事がかみ合い、チームとして機能すること。",
+          "example": "The new manager turned a set of specialists into a coherent team.",
+          "translation": "新しい管理者は、専門家の集まりをまとまりのあるチームに変えた。"
+        },
+        {
+          "pattern": "form a coherent whole",
+          "use": "個別の部品や要素が統合され、一つの全体を成すこと。",
+          "example": "The separate modules now form a coherent whole.",
+          "translation": "別々だったモジュールは、今ではまとまりのある全体を成している。"
+        },
+        {
+          "pattern": "remain coherent",
+          "use": "集団や組織が、一体性を失わずにいること。",
+          "example": "The coalition remained coherent despite disagreements over funding.",
+          "translation": "資金をめぐる意見の違いはあったが、その連合はまとまりを保った。"
+        },
+        {
+          "pattern": "a coherent mass",
+          "use": "材料がばらばらでなく、一塊に結合しているという記述。",
+          "example": "The binder holds the particles together in a coherent mass.",
+          "translation": "結合剤によって、粒子は一つのまとまった塊になっている。"
+        }
+      ],
+      "notes": [
+        "coherent は議論だけに使う語ではなく、team や group にも使える。cohesive team と意味が重なるが、cohesive はメンバーを結びつける結束、coherent は全体としてのまとまりや協調を捉えやすい。語義1の a coherent argument は論点のつながり、ここでの a coherent team は集団のまとまりであり、チーム全員が話し上手だという意味ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "cohesive",
+          "definition": "部分やメンバー同士が強く結びついている。",
+          "frequency": 6,
+          "difference": "結合・結束の強さを強調する。coherent は全体としてうまくまとまっていることを表す。",
+          "example": "Shared training helped create a cohesive team.",
+          "translation": "共通の研修が、結束の強いチーム作りに役立った。"
+        },
+        {
+          "word": "integrated",
+          "definition": "別々の部分が結びつけられ、一つの仕組みとして機能する。",
+          "frequency": 7,
+          "difference": "部分を組み合わせた構造に重点がある。coherent は、できた全体にまとまりがあるかを評価する。",
+          "example": "The company introduced an integrated system for sales and inventory.",
+          "translation": "会社は販売と在庫を一体化したシステムを導入した。"
+        },
+        {
+          "word": "unified",
+          "definition": "複数の部分が一つにまとめられている。",
+          "frequency": 6,
+          "difference": "分かれていたものの統一を前面に出す。coherent は、統一の経緯を含まずにまとまりを述べられる。",
+          "example": "The departments now operate under a unified structure.",
+          "translation": "各部門は今では統一された組織体制の下で運営されている。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "fragmented",
+          "definition": "全体として結びつかず、いくつもの部分に分断されている。",
+          "frequency": 6,
+          "difference": "全体の統合・分断という同じ軸での反対。単に専門分野が分かれていることではなく、連携の弱さを述べる際に対立する。",
+          "example": "Support services are fragmented across several agencies.",
+          "translation": "支援サービスは複数の機関に分断されている。"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "【形容詞：限定・叙述】コヒーレントな、可干渉性のある",
+      "frequency": 3,
+      "register": [
+        "物理・光学。"
+      ],
+      "definition": "光などの波について、比較する波や、異なる場所・時刻での波の振動の間に、安定した位相関係があること。物理・光学の専門義で、位相は波の振動が周期のどの位置にあるかを表す。「位相差が安定している」ことが重要で、位相差が必ずゼロという意味ではない。また、このような光を発する光源を修飾する用法もある。",
+      "patterns": [
+        "coherent 〈light/waves/radiation〉＝コヒーレントな光・波・放射",
+        "a coherent light source＝コヒーレントな光を発する光源",
+        "〈複数の波〉 + be mutually coherent＝波同士に安定した位相関係がある",
+        "spatially/temporally coherent＝空間的に・時間的にコヒーレントな。partially coherent など、コヒーレンスの程度を示す表現もある。"
+      ],
+      "collocations": [
+        {
+          "pattern": "coherent light",
+          "use": "光の位相関係が安定していることを述べる。",
+          "example": "The experiment uses coherent light from a laser.",
+          "translation": "その実験はレーザーからのコヒーレントな光を用いる。"
+        },
+        {
+          "pattern": "a coherent light source",
+          "use": "コヒーレントな光を発する光源を指す。",
+          "example": "The experiment uses a laser as a coherent light source.",
+          "translation": "その実験では、コヒーレントな光を発する光源としてレーザーを使う。"
+        },
+        {
+          "pattern": "be mutually coherent",
+          "use": "二つ以上の波や光束の間の位相関係を述べる。",
+          "example": "The two beams must be mutually coherent to produce stable interference fringes.",
+          "translation": "安定した干渉縞を作るには、二つの光束に相互コヒーレンスが必要だ。"
+        },
+        {
+          "pattern": "spatially coherent light",
+          "use": "異なる空間位置における位相の関係を表す。",
+          "example": "The optical system produces spatially coherent light.",
+          "translation": "その光学系は空間的にコヒーレントな光を作り出す。"
+        },
+        {
+          "pattern": "temporally coherent light",
+          "use": "異なる時刻における位相の関係を表す。",
+          "example": "The measurement requires light that remains temporally coherent over the relevant delay.",
+          "translation": "その測定には、対象となる遅延時間にわたって時間的コヒーレンスを保つ光が必要だ。"
+        }
+      ],
+      "notes": [
+        "単に「波の山がすべて一致している」と覚えると、一定の位相差を持つ波を除外してしまう。monochromatic「単色の」は周波数の性質、collimated「平行光束になった」は進行方向の性質で、coherent とそのまま同義ではない。語義1の「説明が筋の通った」という評価とも区別する。"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "incoherent",
+          "definition": "比較する波の間に安定した位相関係がない。",
+          "frequency": 3,
+          "difference": "波の位相関係という同じ軸での反対語。実際には部分的なコヒーレンスもあり、常に二者択一とは限らない。",
+          "example": "The model treats radiation from the separate sources as incoherent.",
+          "translation": "そのモデルでは、別々の光源からの放射を互いにインコヒーレントなものとして扱う。"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "【形容詞：限定・叙述】一貫性のある、整合した",
+      "frequency": 2,
+      "register": [
+        "計量学・単位系の専門用語。"
+      ],
+      "definition": "計量学で、指定された量体系と基本単位に対して、組立単位が基本単位のべきの積として、1以外の比例係数なしに表されること。また、そのような単位から成る単位系の性質。「コヒーレントな」とも訳す。",
+      "patterns": [
+        "a coherent derived unit＝一貫性のある組立単位",
+        "a coherent system of units＝一貫性のある単位系",
+        "〈単位〉 + be coherent within 〈単位系〉＝その単位系の中で一貫性がある。日常的な「とても筋が通った」という程度評価ではなく、特定の単位体系に対する性質を示す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a coherent derived unit",
+          "use": "基本単位との組合せに追加の比例係数が入らない組立単位。",
+          "example": "The metre per second is the coherent derived unit of speed in the SI.",
+          "translation": "メートル毎秒は、国際単位系で速さを表す一貫性のある組立単位だ。"
+        },
+        {
+          "pattern": "a coherent system of units",
+          "use": "組立単位と基本単位の関係に一貫性がある単位系。",
+          "example": "The calculation uses a coherent system of units throughout.",
+          "translation": "その計算では、一貫性のある単位系を全体を通して用いている。"
+        }
+      ],
+      "notes": [
+        "この性質は、どの量体系・基本単位を選ぶかに依存する。センチメートル毎秒はCGS単位系では一貫性のある速さの単位だが、SIではそうではない。「SIで使える単位」と「SIで一貫性のある単位」は同じ範囲ではない。"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "non-coherent",
+          "definition": "指定された単位体系において、基本単位との組合せに1以外の比例係数を必要とする。",
+          "frequency": 2,
+          "difference": "その単位系に対する一貫性の有無という同じ軸での反対。別の単位体系なら評価が変わり得る。",
+          "example": "The kilometre per hour is a non-coherent unit of speed in the SI.",
+          "translation": "キロメートル毎時は、SIでは一貫性のない速さの単位だ。"
+        }
+      ]
+    }
+  ]
+}
