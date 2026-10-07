@@ -1,0 +1,420 @@
+{
+  "word": "appraise",
+  "slug": "appraise",
+  "ipa": "米・英: /əˈpreɪz/。2音節で、第2音節に主強勢がある。第1音節の母音は弱い /ə/、第2音節の母音は二重母音 /eɪ/。語末は無声音 /s/ ではなく有声音 /z/ である。",
+  "lead": "人・物・状況・成果などを検討または観察し、その質・重要性・出来・必要性について判断する。慎重な吟味や専門的な判断を連想させやすいが、専門資格、数値評価、長時間の検討は必須ではなく、一目で人を見定める場合にも使う。評価の良し悪し自体は指定しない。",
+  "updated": "2026-10-07",
+  "notion_url": "https://app.notion.com/p/appraise-3f24faa9b77d81668bfaf39ee5c2688f",
+  "pronunciation": [
+    "appraises /əˈpreɪzɪz/、appraised /əˈpreɪzd/、appraising /əˈpreɪzɪŋ/。appraised の -ed は /d/ で、音節を増やさない。apprise「知らせる」/əˈpraɪz/ とは、第2音節の母音 /eɪ/ と /aɪ/ が異なる。"
+  ],
+  "etymology": [
+    "中英語の「値をつける」を意味する形から発達し、古フランス語の「評価する、値をつける」にさかのぼる。さらにラテン語 pretium「価格、価値」とつながる。現在の綴りには praise の影響がある。「価値を判断する」というつながりは現代の査定・評価にも残るが、「褒める」が現代の必須の意味ではない。",
+    "同語源の学習語には price「価格」、prize「賞品／大切にする」、praise「褒める」がある。appraise と apprise は綴りが似ているが、同じ動詞の変形ではない。"
+  ],
+  "formation": [
+    {
+      "term": "appraisal",
+      "description": "名詞「評価、査定、査定額、人事評価面談」。行為を総称するときは不可算、個々の評価・面談・査定結果は可算で使う。"
+    },
+    {
+      "term": "appraiser",
+      "description": "可算名詞「査定人、評価者」。不動産・美術品などの価値を見積もる人によく使う。"
+    },
+    {
+      "term": "appraisee",
+      "description": "可算名詞「被評価者」。特に人事評価を受ける従業員を指す業務用語。"
+    },
+    {
+      "term": "reappraise",
+      "description": "他動詞「再評価する」。新たな材料や観点から判断を見直す。名詞は reappraisal。"
+    },
+    {
+      "term": "appraising",
+      "description": "現在分詞、および「品定めするような」という形容詞。形容詞としての視線・態度は語義4で扱う。"
+    },
+    {
+      "term": "appraisingly",
+      "description": "副詞「品定めするように」。look at someone appraisingly のように使う、やや描写的な語。"
+    }
+  ],
+  "core": [
+    {
+      "label": "対象を見て、その価値・質・状態を見定めることが中心にある。高く評価することに限らず、問題点や低い価値を認める場合にも使える。",
+      "description": ""
+    },
+    {
+      "label": "価値や質を見定める判断",
+      "description": "→ 「吟味して評価する」（語義1）"
+    },
+    {
+      "label": "価値や質を見定める金銭的査定",
+      "description": "→ 「金銭的価値を査定する」（語義2）"
+    },
+    {
+      "label": "価値や質を見定める人事上の評価",
+      "description": "→ 「従業員の業績を正式に評価する」（語義3）"
+    },
+    {
+      "label": "価値や質を見定める視線や態度",
+      "description": "→ 「品定めするような」（語義4）"
+    },
+    {
+      "label": "価値や質を見定める査定の結果",
+      "description": "→ 「〜の査定額がつく」（語義5）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞】吟味して評価する",
+      "frequency": 6,
+      "register": [
+        "やや改まった語。仕事・研究・批評のほか、人や物を見る様子を描く文章にも使う。日常会話では assess、judge、look at などを文脈に応じて使うことが多い。"
+      ],
+      "definition": "人・物・状況・成果などを検討または観察し、その質・重要性・出来・必要性について判断する。慎重な吟味や専門的な判断を連想させやすいが、専門資格、数値評価、長時間の検討は必須ではなく、一目で人を見定める場合にも使う。評価の良し悪し自体は指定しない。",
+      "patterns": [
+        "appraise someone/something＝人・物を評価する",
+        "appraise the quality of something＝〜の質を評価する",
+        "appraise something critically/objectively＝批判的に吟味して評価する、または客観的に評価する",
+        "appraise oneself＝自分自身を評価する",
+        "be appraised by someone＝人によって評価される。評価対象が直接目的語であり、対象を導く about は不要。"
+      ],
+      "collocations": [
+        {
+          "pattern": "appraise the situation",
+          "use": "対応を決める前に、現在の状況を見定める。",
+          "example": "We need to appraise the situation before committing more resources.",
+          "translation": "追加の資金や人員を投入する前に、状況を見極める必要がある。"
+        },
+        {
+          "pattern": "appraise the quality of something",
+          "use": "制作物・サービス・研究などの質を評価する。",
+          "example": "The panel appraised the quality of the proposals, not just their cost.",
+          "translation": "審査委員会は費用だけでなく、提案の質も評価した。"
+        },
+        {
+          "pattern": "critically appraise something",
+          "use": "根拠や方法の長所・限界を検討する。単に悪く言う意味ではない。",
+          "example": "Participants learned to critically appraise the evidence behind a claim.",
+          "translation": "参加者は、主張の裏づけとなる証拠を批判的に吟味する方法を学んだ。"
+        },
+        {
+          "pattern": "appraise someone",
+          "use": "観察によって人の力量や様子を見定める。",
+          "example": "The coach silently appraised the new player as she warmed up.",
+          "translation": "コーチは、新しい選手が準備運動をする様子を黙って見定めた。"
+        },
+        {
+          "pattern": "appraise oneself objectively",
+          "use": "自分の長所や限界について客観的に判断する。",
+          "example": "It can be difficult to appraise oneself objectively after a major setback.",
+          "translation": "大きな挫折の後は、自分自身を客観的に評価するのが難しいことがある。"
+        },
+        {
+          "pattern": "be appraised by someone",
+          "use": "受動態で、誰が評価を行うかを示す。",
+          "example": "Each design will be appraised by an independent panel.",
+          "translation": "各設計案は独立した審査委員会によって評価される。"
+        }
+      ],
+      "notes": [
+        "appraise the proposal が基本で、「提案について評価する」をそのまま appraise about the proposal とはしない。appraise oneself は通常の再帰目的語であり、「知らせを受ける」という慣用義にはならない。appraise the team は「チームを評価する」、apprise the team of the changes は「チームに変更を知らせる」で、動詞・目的語の役割・前置詞が違う。誤: We appraised them of the delay. → 正: We apprised them of the delay.／We informed them of the delay. また appraise は評価をする動作、praise は褒める行為であり、同義ではない。is appraising the proposal は動詞の進行形だが、an appraising look は語義4の形容詞用法である。"
+      ],
+      "synonyms": [
+        {
+          "word": "assess",
+          "definition": "状態・能力・重要性・危険性などを調べて評価する。",
+          "frequency": 8,
+          "difference": "評価対象の範囲が広く、リスクや必要性の判断にもよく使う。appraise は価値・質を見定める吟味の響きが出やすいが、両語は広く重なる。",
+          "example": "We assessed the risks before changing suppliers.",
+          "translation": "仕入れ先を変更する前に、リスクを評価した。"
+        },
+        {
+          "word": "evaluate",
+          "definition": "基準や検討材料に照らして、価値・効果・出来を判断する。",
+          "frequency": 8,
+          "difference": "方法・効果・成果を体系的に検討する場面に強い。appraise にある、人を見て品定めする描写には通常そのまま置き換えない。",
+          "example": "The team evaluated the effectiveness of the training.",
+          "translation": "チームは研修の効果を評価した。"
+        },
+        {
+          "word": "judge",
+          "definition": "人・物事の性質や価値について判断する。",
+          "frequency": 9,
+          "difference": "一般的で広い語。慎重な吟味を含意せず、印象や限られた情報による判断にも使える。",
+          "example": "It is too early to judge the results.",
+          "translation": "結果を判断するにはまだ早すぎる。"
+        },
+        {
+          "word": "size up",
+          "definition": "人や状況を見て、手早く力量・性質などを見定める。",
+          "frequency": 6,
+          "difference": "口語的で、短時間の観察が前面に出る。appraise の改まった評価や詳しい査定よりくだけた表現。",
+          "example": "She quickly sized up the room and chose a seat near the exit.",
+          "translation": "彼女は部屋の様子を素早く見て取り、出口に近い席を選んだ。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【動詞・他動詞】金銭的価値を査定する",
+      "frequency": 6,
+      "register": [
+        "不動産・資産評価・取引。特に米語で一般的で、英国英語では value もよく使う。appraise が英国で使えないという意味ではない。"
+      ],
+      "definition": "不動産・宝飾品・美術品などを調べ、金銭的にいくらの価値があるかを見積もる。専門家による正式な査定によく使うが、この動詞だけでは査定基準・資格・法的効力までは指定しない。査定額が実際の売却額になることも保証しない。",
+      "patterns": [
+        "appraise something＝物の価値を査定する",
+        "appraise something at 〈金額〉＝物をその金額と査定する",
+        "be appraised at 〈金額〉＝その金額と査定される",
+        "have/get something appraised＝物を査定してもらう",
+        "appraise something for 〈目的〉＝その目的で査定する。appraise something for 〈金額〉も使われるが、査定額を明示する基本形には at が分かりやすい。"
+      ],
+      "collocations": [
+        {
+          "pattern": "appraise a property",
+          "use": "不動産の金銭的価値を見積もる。",
+          "example": "An independent specialist appraised the property before it was put on the market.",
+          "translation": "売りに出される前に、独立した専門家がその不動産を査定した。"
+        },
+        {
+          "pattern": "appraise something at 〈金額〉",
+          "use": "能動態で査定対象と評価額を示す。",
+          "example": "The dealer appraised the collection at \\$18,000.",
+          "translation": "業者はそのコレクションを1万8,000ドルと査定した。"
+        },
+        {
+          "pattern": "be appraised at 〈金額〉",
+          "use": "査定結果を対象物中心に報告する。",
+          "example": "The necklace was appraised at £2,500.",
+          "translation": "そのネックレスは2,500ポンドと査定された。"
+        },
+        {
+          "pattern": "have/get something appraised",
+          "use": "自分で査定せず、専門家などに依頼する。",
+          "example": "We had the painting appraised before deciding whether to sell it.",
+          "translation": "売るかどうかを決める前に、その絵を査定してもらった。"
+        },
+        {
+          "pattern": "appraise something for insurance purposes",
+          "use": "保険のためなど、査定を行う目的を示す。",
+          "example": "The jeweler appraised the ring for insurance purposes.",
+          "translation": "宝石商は保険のためにその指輪を査定した。"
+        },
+        {
+          "pattern": "be appraised for 〈金額〉",
+          "use": "for を使って査定額を述べる用法を理解する。",
+          "example": "The sculpture was appraised for \\$9,000, but no buyer offered that much.",
+          "translation": "その彫刻は9,000ドルと査定されたが、その額を提示する買い手はいなかった。"
+        }
+      ],
+      "notes": [
+        "誤: They appraised the vase as \\$600. → 正: They appraised the vase at \\$600. 査定額の at と、査定者の by、目的の for を区別する。for は金額を導く実例もあるため、一律に「金額には使えない」とはしない。The house was appraised. は査定という行為を述べる受動態。the appraised value は「査定された価値」という過去分詞の限定用法で、ハイフンは不要。appraised は通常「査定済み」という動詞から予測できる意味で、seems appraised のような独立した性質の形容詞としては使いにくい。appraise は鑑定して真贋を確定することや、売買価格を合意することをそれ自体では意味しない。米国の不動産文脈では The house appraised for \\$300,000. のような物件主語の自動詞用法もあるが、査定者が目的語の物件を評価するこの他動詞とは構造が違う（語義5）。"
+      ],
+      "synonyms": [
+        {
+          "word": "value",
+          "definition": "物や資産の金銭的価値を見積もる。",
+          "frequency": 7,
+          "difference": "この語義では appraise と近く、特に英国英語でよく使う。別義の「大切にする」とは文脈で区別する。",
+          "example": "The surveyor valued the house at £320,000.",
+          "translation": "査定士はその家を32万ポンドと評価した。"
+        },
+        {
+          "word": "assess",
+          "definition": "財産・損害などの額や価値を算定・評価する。",
+          "frequency": 7,
+          "difference": "金銭評価に使えるが、税額・損失・費用などの算定にも広がる。appraise は対象物の価値を見積もる場面に焦点がある。",
+          "example": "The insurer sent someone to assess the value of the damaged equipment.",
+          "translation": "保険会社は、損傷した機器の価値を評価するために担当者を派遣した。"
+        },
+        {
+          "word": "estimate",
+          "definition": "金額・数量などのおおよその値を見積もる。",
+          "frequency": 8,
+          "difference": "正式な現物査定を必須とせず、概算にも使う。appraise と違って estimate the cost のように費用の予測にも広く使う。",
+          "example": "They estimated the collection's value at around \\$20,000.",
+          "translation": "彼らはそのコレクションの価値を約2万ドルと見積もった。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞・他動詞】従業員の業績を正式に評価する",
+      "frequency": 4,
+      "register": [
+        "人事・管理。特に英国英語の人事評価の文脈で定着している。米語を含む国際的な業務文書にも現れるが、evaluate employees、review someone's performance なども広く使う。"
+      ],
+      "definition": "上司・評価者などが、従業員の仕事の成果・進歩・目標・育成上の課題について正式に評価する。本人との面談を伴うことが多い。人そのものの金銭的価値を決める意味ではなく、人を目的語にして仕事ぶりを評価する用法である。",
+      "patterns": [
+        "appraise someone＝従業員を人事評価する",
+        "appraise someone's performance＝人の業績を評価する",
+        "appraise someone against 〈基準〉＝基準に照らして評価する",
+        "be appraised by 〈上司・評価者〉＝人事評価を受ける。annually などで実施頻度を示せる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "appraise staff annually",
+          "use": "定期的な人事評価の実施を述べる。",
+          "example": "Department heads appraise staff annually and agree on goals for the following year.",
+          "translation": "部門長は毎年職員を評価し、翌年の目標を話し合って決める。"
+        },
+        {
+          "pattern": "appraise someone's performance",
+          "use": "人事評価で仕事の成果・出来に焦点を当てる。",
+          "example": "During the annual review, her manager appraised her performance over the past twelve months.",
+          "translation": "年次面談で、上司は過去12か月間の彼女の業績を評価した。"
+        },
+        {
+          "pattern": "appraise someone against 〈基準〉",
+          "use": "人事評価の物差しを明示する。",
+          "example": "Employees are appraised against the objectives agreed at the start of the year.",
+          "translation": "従業員は年初に合意した目標に照らして評価される。"
+        },
+        {
+          "pattern": "be appraised by one's line manager",
+          "use": "評価を担当する直属の上司を示す。",
+          "example": "New employees are appraised by their line managers at the end of the probationary period.",
+          "translation": "新入社員は試用期間の終了時に直属の上司による評価を受ける。"
+        }
+      ],
+      "notes": [
+        "appraise an employee は人を直接目的語に取る。appraise an employee's performance では performance が目的語で、業績に焦点を絞る。日常の観察で人を見定める語義1とは、定期面談・目標・評価制度などの文脈で区別する。評価結果が昇給・昇進・解雇につながるかは制度次第で、この動詞だけからは決まらない。appraise は評価行為、give feedback は評価を含む意見を伝える行為であり、必ず同じではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "evaluate",
+          "definition": "従業員の仕事ぶりや業績を評価する。",
+          "frequency": 7,
+          "difference": "地域を問わず広く使え、正式な面談を伴うとは限らない。appraise は人事評価の手続きや面談を連想させやすい。",
+          "example": "Supervisors evaluate each employee's performance at the end of the year.",
+          "translation": "監督者は年末に各従業員の業績を評価する。"
+        },
+        {
+          "word": "assess",
+          "definition": "従業員の能力・達成度などを判断する。",
+          "frequency": 7,
+          "difference": "能力・適性・研修の必要性なども対象にし、正式な年次評価だけに限らない。",
+          "example": "The manager assessed his team's progress against the agreed targets.",
+          "translation": "管理者は合意された目標に照らしてチームの進捗を評価した。"
+        },
+        {
+          "word": "review",
+          "definition": "過去の仕事・成果を振り返って検討・評価する。",
+          "frequency": 7,
+          "difference": "振り返って確認する過程が中心で、等級づけや価値判断を必ず含むわけではない。人より performance、progress などを目的語にすると意図が明確。",
+          "example": "We review each employee's progress every six months.",
+          "translation": "私たちは半年ごとに各従業員の進捗を振り返って確認する。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【形容詞・現在分詞由来・主に限定用法】品定めするような",
+      "frequency": 3,
+      "register": [
+        "やや文語的・描写的。人物の視線や反応を描く文章に多い。"
+      ],
+      "definition": "appraising の形で、視線・目つき・態度が、人や物の質・価値・状態を見定めようとしていることを表す。観察して判断する含みがあるが、必ず非難・軽蔑・性的関心を示すわけではない。",
+      "patterns": [
+        "an appraising look/glance＝品定めするような視線",
+        "an appraising eye＝見定める目つき",
+        "give someone an appraising look＝人に品定めするような視線を向ける。主に名詞の前で使い、叙述でも His gaze was appraising. のように視線の性質を表せる。程度比較は意味上可能だが、very appraising などを基本表現として多用しない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an appraising look（appraise の形容詞形）",
+          "use": "人や物を見て力量や質を判断する視線を描く。",
+          "example": "The tailor gave the jacket an appraising look before checking the seams.",
+          "translation": "仕立て屋は縫い目を調べる前に、ジャケットに品定めするような目を向けた。"
+        },
+        {
+          "pattern": "an appraising glance（appraise の形容詞形）",
+          "use": "短い視線にも評価・判断の意図があることを示す。",
+          "example": "She cast an appraising glance at the display before suggesting a new layout.",
+          "translation": "彼女は陳列に品定めするような視線を向けてから、新しい配置を提案した。"
+        },
+        {
+          "pattern": "with an appraising eye（appraise の形容詞形）",
+          "use": "見定めようとする観察の仕方を描写する。",
+          "example": "He examined the handmade chair with an appraising eye.",
+          "translation": "彼は手作りの椅子を品定めするような目で調べた。"
+        }
+      ],
+      "notes": [
+        "an appraising look の appraising は look を修飾する形容詞で、現在進行中の動作をそのまま述べる is appraising the chair とは構造が違う。His gaze was appraising. では視線の性質、He was appraising the chair. では人による評価動作を表す。appraising の前後にハイフンは不要。an appraised look とすると「査定された視線」のようになり、同じ意味にはならない。approving look「賛同・好意を示す視線」は評価が肯定的だが、appraising look は結論の良し悪しを指定しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "assessing",
+          "definition": "人や物を評価・判断するような。",
+          "frequency": 3,
+          "difference": "視線や態度について使うと appraising に近い。価値の品定めより、状況や力量の把握に焦点を置きやすい。",
+          "example": "She gave the team an assessing look before assigning the roles.",
+          "translation": "彼女は役割を割り振る前に、チームを見定めるように見た。"
+        },
+        {
+          "word": "scrutinizing",
+          "definition": "細部を注意深く調べるような。",
+          "frequency": 3,
+          "difference": "綿密な観察が中心で、価値判断まで行うとは限らない。",
+          "example": "He studied the photograph with a scrutinizing gaze.",
+          "translation": "彼は細部を探るような目でその写真をじっと見た。"
+        },
+        {
+          "word": "critical",
+          "definition": "良し悪しや欠点を見極めようとする。",
+          "frequency": 6,
+          "difference": "a critical eye のような用法では評価的観察を表す。appraising より欠点を探す含みが出やすいが、必ず否定的とは限らない。",
+          "example": "She examined the draft with a critical eye.",
+          "translation": "彼女は草稿を批判的に吟味する目で検討した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【動詞・自動詞】〜の査定額がつく",
+      "frequency": 3,
+      "register": [
+        "特に米国の不動産・住宅ローンの実務説明。一般学習辞書では他動詞だけが示されることも多く、あらゆる評価対象に広げて使う形ではない。"
+      ],
+      "definition": "住宅などの物件が査定の結果、ある金額の価値があると評価される。物件を主語とする能動形で、物件自体が査定を行う意味ではない。売買価格との比較を述べる場合にも使う。",
+      "patterns": [
+        "〈物件〉 + appraise for 〈金額〉＝物件にその査定額がつく",
+        "〈物件〉 + appraise for less/more than 〈比較額〉＝比較額を下回る、または上回る査定額がつく。appraise は時制・主語に応じて appraises、appraised などに変化する。金額や比較の補足が普通で、直接目的語は置かない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a home + appraise for 〈金額〉",
+          "use": "物件を主語にして、査定でついた金額を述べる。",
+          "example": "The home appraised for \\$300,000.",
+          "translation": "その住宅には30万ドルの査定額がついた。"
+        },
+        {
+          "pattern": "a property + appraise for less than 〈比較額〉",
+          "use": "査定額が売買価格などを下回ることを述べる。",
+          "example": "The property appraised for less than the agreed purchase price.",
+          "translation": "その物件の査定額は、合意された購入価格を下回った。"
+        },
+        {
+          "pattern": "a home + appraise for more than 〈比較額〉",
+          "use": "査定額が比較対象の価格を上回ることを述べる。",
+          "example": "The home appraised for more than the asking price.",
+          "translation": "その住宅の査定額は売り出し価格を上回った。"
+        }
+      ],
+      "notes": [
+        "The specialist appraised the home at \\$300,000. は査定者主語の他動詞、The home was appraised at \\$300,000. は受動態、The home appraised for \\$300,000. は物件主語の自動詞である。最後の形を、単に受動態の was が自由に省略できる規則として覚えない。人の仕事ぶりについて同様に My performance appraised well. などと一般化せず、My performance was rated highly. などを使う。",
+        "査定額が売買価格と異なること自体は、この語の構文上も問題ない。融資や契約に及ぼす具体的な効果は条件によって異なり、appraise for の意味には含まれない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}
