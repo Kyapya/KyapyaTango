@@ -1,0 +1,131 @@
+{
+  "word": "conversely",
+  "slug": "conversely",
+  "ipa": "米: /ˈkɑːn.vɝːs.li/｜英: /ˈkɒn.vɜːs.li/。3音節で、ここに示した形は第1音節に主強勢がある。米英の違いは、第1音節の母音が /ɑː/ と /ɒ/、第2音節の母音が r 音を伴う /ɝː/ と伴わない /ɜː/ である点。第2音節に主強勢を置く米 /kənˈvɝːs.li/、英 /kənˈvɜːs.li/ という形もあり、その場合は第1音節の母音が弱い /ə/ になる。どちらの強勢でも、第2音節の末尾は /s/、第3音節は /li/。",
+  "lead": "前に述べた内容と、方向、関係、状況、評価などが逆になる内容を示す。二つの要素を入れ替える場合だけでなく、対照的な結果や反対側の見方を導く場合にも使う。先の内容を誤りとして取り消す必要はなく、対比する二つの事柄が両方とも真であってよい。",
+  "updated": "2026-10-07",
+  "notion_url": "https://app.notion.com/p/conversely-3f24faa9b77d818e821dfbf2c3ae5546",
+  "pronunciation": [],
+  "etymology": [
+    "形容詞 converse「逆の、関係を入れ替えた」に、副詞を作る -ly が付いた形。converse はラテン語 convertere「向きを変える」の過去分詞 conversus に由来する。con- と vertere「向きを変える」の系統で、convert「転換する」、reverse「逆にする」もこの「向きを変える」という語源的なつながりを持つ。",
+    "converse には「会話する」という動詞もあり、さらにさかのぼれば関連するが、conversely を「会話するように」という意味で理解しない。現代の直接の対応は「逆の」と「逆に」である。"
+  ],
+  "formation": [
+    {
+      "term": "converse",
+      "description": "は形容詞で「逆の」、名詞で「逆の事柄・関係」。the converse relationship「逆の関係」、the converse is also true「逆もまた真である」のように使う。論理・数学では命題の条件と結論を入れ替えた「逆」を指す。"
+    },
+    {
+      "term": "conversation「会話」や",
+      "description": "conversational「会話の」は、converse「会話する」の系統の語であり、conversely の「逆に」という意味の名詞形・形容詞形ではない。"
+    }
+  ],
+  "core": [],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【副詞・文／節をつなぐ副詞】逆に、反対に、反対の面から見ると",
+      "frequency": 6,
+      "register": [
+        "フォーマル。分析、比較、論説、報告、学術的な説明など。数学・論理でも使うが、その分野だけの語ではない。"
+      ],
+      "definition": "前に述べた内容と、方向、関係、状況、評価などが逆になる内容を示す。二つの要素を入れ替える場合だけでなく、対照的な結果や反対側の見方を導く場合にも使う。先の内容を誤りとして取り消す必要はなく、対比する二つの事柄が両方とも真であってよい。",
+      "patterns": [
+        "Conversely, 〈主語＋動詞〉",
+        "〈独立節〉; conversely, 〈独立節〉",
+        "〈主語〉, conversely, 〈述語〉",
+        "or, conversely, 〈対照的な内容〉",
+        "and conversely",
+        "but not conversely。節の初め、文中の挿入位置、and/or/but の後などに置く。文中でも普通は単独の名詞の性質ではなく、節・命題の関係を示す。程度を述べる副詞ではなく、通常は very conversely や more conversely としない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "Conversely, 〈主語＋動詞〉",
+          "use": "前文と逆方向の状況や効果を導く。",
+          "example": "A lower price may increase demand. Conversely, a higher price may reduce it.",
+          "translation": "価格を下げると需要が増える可能性がある。逆に、価格を上げると需要が減る可能性がある。"
+        },
+        {
+          "pattern": "〈独立節〉; conversely, 〈独立節〉",
+          "use": "関係の向きが逆になる二つの内容を一文で対応させる。",
+          "example": "Managers can learn from junior staff; conversely, junior staff can learn from managers.",
+          "translation": "管理職は若手社員から学べるし、逆に若手社員も管理職から学べる。"
+        },
+        {
+          "pattern": "〈主語〉, conversely, 〈述語〉",
+          "use": "文中に置いて、別の対象の反対の傾向を示す。",
+          "example": "The inland towns grew rapidly. The coastal villages, conversely, lost residents.",
+          "translation": "内陸の町々は急速に発展した。反対に、沿岸の村々では住民が減った。"
+        },
+        {
+          "pattern": "or, conversely, 〈対照的な内容〉",
+          "use": "方向や考え方を反転させた選択肢を示す。",
+          "example": "You can adapt the workflow to the software or, conversely, adapt the software to the workflow.",
+          "translation": "業務の流れをソフトウェアに合わせることも、逆にソフトウェアを業務の流れに合わせることもできる。"
+        },
+        {
+          "pattern": "Conversely, if 〈条件節〉, 〈帰結節〉",
+          "use": "数学などで、条件と結論を入れ替えた方向を明示する。",
+          "example": "If an integer is even, its square is even. Conversely, if its square is even, the integer is even.",
+          "translation": "整数が偶数なら、その2乗も偶数である。逆に、その2乗が偶数なら、元の整数も偶数である。"
+        },
+        {
+          "pattern": "and conversely",
+          "use": "反対向きの関係も成り立つことを、繰り返しを省いて示す。",
+          "example": "In this code, each letter corresponds to exactly one symbol, and conversely.",
+          "translation": "この符号では、各文字がちょうど一つの記号に対応し、逆に各記号もちょうど一つの文字に対応する。"
+        },
+        {
+          "pattern": "but not conversely",
+          "use": "先の関係は成り立つが、逆向きには成り立たないと述べる。",
+          "example": "Every square is a rectangle, but not conversely.",
+          "translation": "全ての正方形は長方形だが、逆に全ての長方形が正方形であるわけではない。"
+        }
+      ],
+      "notes": [
+        "conversely は副詞で、but のように、それ自体が二つの独立節を文法的につなぐ等位接続詞ではない。標準的な文章では、独立節の境界にピリオドやセミコロンを置くか、and/or などを用いる。誤: Prices rose, conversely, demand fell. → 正: Prices rose; conversely, demand fell. ただし価格と需要の例のような文では、対比を述べているのか、因果関係を述べたいのかも確かめる。結果を意味するなら consequently や as a result を選ぶ。文頭の Conversely, と挿入的な , conversely, はコンマで区切ることが多いが、and conversely のような短い結合で常に両側のコンマが必要なわけではない。",
+        "「逆に」の内容を明確にする。関係の入れ替えだけでなく、増加と減少、賛成側と反対側などの対照にも使える。「必ず論理式の前件と後件を入れ替える」と限定しない。一方、単に次の話題へ移るだけなら conversely を足しても対比は生まれない。",
+        "however は期待に反する事実や留保を広く導く。例えば The plan is expensive. However, we may still approve it.「その案は高額だが、それでも承認するかもしれない」は、費用と承認の間の譲歩であり、関係を反転させる conversely を機械的に入れる場面ではない。ただし、実際に反対の状況を対比する文脈では両方を使える場合もある。",
+        "on the contrary は先の主張や含みを否定して「実際はその逆だ」と訂正する使い方が中心。The task was not easy. On the contrary, it took weeks.「簡単な作業ではなかった。それどころか何週間もかかった」では、簡単だという見方を退ける。conversely は先の内容を真としたまま別の反対面を示せるので、両者を同じ接続表現とみなさない。",
+        "論理・数学で「AならB」から「BならA」が自動的に従うわけではない。conversely は逆向きの主張を導くだけで、その正しさを証明しない。not conversely は「逆方向には成り立たない」であって、前の主張全体を否定するわけではない。",
+        "対照表現として similarly / likewise「同様に」がある。これらは前後の類似した関係を示すが、conversely を置き換えるだけで文の真偽が反転するものではない。何が同じか、何が逆かを内容から判断する。"
+      ],
+      "synonyms": [
+        {
+          "word": "vice versa",
+          "definition": "先に述べた二つの要素・役割・関係を入れ替えても同じことが成り立つ。",
+          "frequency": 7,
+          "difference": "and vice versa のように、逆向きの内容を繰り返さず省略する形によく使う。conversely は後ろに完全な文を置き、反対の状況を詳しく述べられる。単なる別の対照的観点より、入れ替えの関係がはっきりしている。",
+          "example": "The editor can suggest changes to the writer, and vice versa.",
+          "translation": "編集者は書き手に変更を提案でき、逆に書き手も編集者に変更を提案できる。"
+        },
+        {
+          "word": "in contrast",
+          "definition": "他の事柄と比べて違いが際立つ形で。",
+          "frequency": 7,
+          "difference": "差異を示す範囲が広く、関係・方向が逆である必要はない。conversely と重なる対比もあるが、単なる違いまで全て「逆」として扱わない。",
+          "example": "The first design uses bright colours. In contrast, the second uses muted tones.",
+          "translation": "最初のデザインは鮮やかな色を使っている。対照的に、二つ目は落ち着いた色調を使っている。"
+        },
+        {
+          "word": "on the other hand",
+          "definition": "別の側面や対照的な見方を提示して。",
+          "frequency": 8,
+          "difference": "利点と欠点などを両面から考えるのにも使い、厳密な逆関係を要求しない。conversely より会話でも使いやすく、先の見方を否定せずに別の面を加えられる。",
+          "example": "The smaller office is cheaper. On the other hand, it leaves no room for expansion.",
+          "translation": "小さい方の事務所は安い。一方で、事業拡大に使える余地がない。"
+        },
+        {
+          "word": "contrariwise",
+          "definition": "反対の方向・仕方で、逆に。",
+          "frequency": 2,
+          "difference": "「逆に」という意味で重なるが、文語的で現代の普通の業務文ではまれ。文脈によって「反対に行動して」という動作の仕方も表す。",
+          "example": "Some welcomed the change; contrariwise, others saw it as a threat.",
+          "translation": "その変更を歓迎した人もいたが、反対に脅威と捉えた人もいた。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
