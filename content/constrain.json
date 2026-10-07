@@ -1,0 +1,333 @@
+{
+  "word": "constrain",
+  "slug": "constrain",
+  "ipa": "米・英: /kənˈstreɪn/",
+  "lead": "人の裁量・選択肢、活動の規模や発展などを、限られた範囲にとどめる。予算・時間・制度・物理的条件などが主語になりやすいが、人が意図的に制限する場合にも使う。全面的な禁止や停止は必須ではなく、可能な量・方向・範囲を狭めることが中心。",
+  "updated": "2026-10-07",
+  "notion_url": "https://app.notion.com/p/constrain-3f24faa9b77d81f3971fcdf8947904f2",
+  "pronunciation": [
+    "2音節で、第2音節に主強勢がある。過去形・過去分詞 constrained は /kənˈstreɪnd/ で、語尾を独立した音節にしない。"
+  ],
+  "etymology": [
+    "古フランス語 constraindre を経て、ラテン語 constringere「強く結び合わせる、締めつける」に由来する。con-「共に」と stringere「きつく締める」が基になり、自由な動きを狭める意味につながる。restrain「抑制する」と constrict「締めつける」も stringere にさかのぼる同語源語。"
+  ],
+  "formation": [
+    {
+      "term": "constraint",
+      "description": "は名詞で、可算では「制約・制約条件」、不可算では「行動を縛ること・気兼ね」。budget constraints「予算上の制約」のように用いる。"
+    },
+    {
+      "term": "constrained",
+      "description": "は過去形・過去分詞のほか、「制約された」「ぎこちない」という形容詞にもなる。後者は語義3を参照。"
+    },
+    {
+      "term": "unconstrained",
+      "description": "は形容詞で「制約されていない、自由な」。unconstrained creativity のように使う。"
+    },
+    {
+      "term": "constraining",
+      "description": "は現在分詞で、a constraining factor のように「制約を与える」という修飾にも用いる。"
+    }
+  ],
+  "core": [
+    {
+      "label": "力・事情・気兼ねによって、自由に動ける余地が狭くなること。行動の選択肢だけでなく、自然な振る舞いの自由さにも及ぶ。",
+      "description": ""
+    },
+    {
+      "label": "自由な余地を狭め、行動や範囲を抑制",
+      "description": "→ 「制約する、制限する」（語義1）"
+    },
+    {
+      "label": "自由な余地を狭め、特定の行動を強制",
+      "description": "→ 「余儀なくさせる、せざるを得なくする」（語義2）"
+    },
+    {
+      "label": "自由な余地を狭め、振る舞いに生じるぎこちなさ",
+      "description": "→ 「ぎこちない、無理のある」（語義3）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞】制約する、制限する",
+      "frequency": 6,
+      "register": [
+        "やや硬い。ビジネス、政策、研究、技術文書でよく使う。"
+      ],
+      "definition": "人の裁量・選択肢、活動の規模や発展などを、限られた範囲にとどめる。予算・時間・制度・物理的条件などが主語になりやすいが、人が意図的に制限する場合にも使う。全面的な禁止や停止は必須ではなく、可能な量・方向・範囲を狭めることが中心。",
+      "patterns": [
+        "constrain someone/something＝人・活動・能力などを制約する",
+        "be constrained by 〈要因〉＝要因によって制約される",
+        "constrain something to 〈範囲〉＝対象をその範囲に限定する",
+        "constrain something to do something、constrain something to be + 〈補語〉＝対象の動作・状態などが一定の条件を満たすよう制約する（研究・技術）",
+        "be constrained in 〈活動を表す名詞・動名詞〉＝その活動の自由度が制約される",
+        "constrain someone from doing something、be/feel constrained from doing something＝その行動を抑える・制約されてできない。受動が多い。constrained resources のような過去分詞由来の限定修飾は「制約のある資源」。"
+      ],
+      "collocations": [
+        {
+          "pattern": "constrain growth",
+          "use": "成長の速度や規模を制限する要因を示す。",
+          "example": "A shortage of skilled workers is constraining the company's growth.",
+          "translation": "熟練労働者の不足が、その会社の成長を制約している。"
+        },
+        {
+          "pattern": "constrain someone's ability to do something",
+          "use": "人や組織にできることが限られると説明する。",
+          "example": "The lease constrains our ability to alter the building.",
+          "translation": "賃貸借契約により、私たちが建物を改修できる範囲は限られている。"
+        },
+        {
+          "pattern": "be constrained by 〈要因〉",
+          "use": "予算や時間などの制約を受ける側を主語にする。",
+          "example": "The research team is constrained by a limited budget.",
+          "translation": "研究チームは限られた予算に制約されている。"
+        },
+        {
+          "pattern": "constrain something to 〈範囲〉",
+          "use": "対象が取り得る範囲や動きを限定する。",
+          "example": "The guide rails constrain the platform's movement to a single direction.",
+          "translation": "ガイドレールは、台の動きを一方向に制限する。"
+        },
+        {
+          "pattern": "constrain something to be 〈補語〉",
+          "use": "研究・技術文書で、変数などが満たす条件を指定する。",
+          "example": "We constrained the parameter to be nonnegative.",
+          "translation": "そのパラメーターが負の値を取らないように制約を設けた。"
+        },
+        {
+          "pattern": "be constrained in doing something",
+          "use": "特定の活動に関する裁量が狭いと述べる。",
+          "example": "Local managers are constrained in setting prices by company policy.",
+          "translation": "現地の管理者は、会社の方針によって価格設定の裁量を制限されている。"
+        },
+        {
+          "pattern": "feel constrained from doing something",
+          "use": "圧力や事情のために行動を控えざるを得ないと述べる。",
+          "example": "Employees may feel constrained from reporting mistakes if they fear punishment.",
+          "translation": "罰を恐れると、従業員は間違いを報告しにくいと感じる場合がある。"
+        },
+        {
+          "pattern": "constrain one's anger",
+          "use": "感情の表出を抑えることを、硬い文章で述べる。",
+          "example": "She struggled to constrain her anger as the meeting continued.",
+          "translation": "会議が続く中、彼女は怒りを抑えようと懸命だった。"
+        }
+      ],
+      "notes": [
+        "constrain growth は他動詞＋目的語で、constrain on growth とはしない。「成長への制約」という名詞句なら constraints on growth。to の後が名詞句の constrained to a narrow range は「狭い範囲に限定された」で、語義2の constrained to accept は to不定詞を伴い「受け入れざるを得ない」。ただし、研究・技術文書では constrained to be nonnegative のように to不定詞も条件・範囲の制限を表すため、to の後の形だけで語義を決めない。また constrained from speaking は発言を妨げられる側、constrained to speak は発言を余儀なくされる側で、向きが異なる。from 構文は実在するが、一般には prevented from、restricted from の方が意味を伝えやすい場面も多い。自分の行動を範囲内に収める constrain oneself to 〈範囲〉も可能だが、単に「自分から控える」なら refrain from doing something が明確。感情には restrain や contain もよく使う。制約された状態の constrained resources と、振る舞いがぎこちない a constrained smile（語義3）は区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "limit",
+          "definition": "量・程度・範囲に限度を設ける。",
+          "frequency": 9,
+          "difference": "最も広く使える一般語で、constrain ほど「事情に縛られて選択の自由が狭い」という含みを出さずに使える。",
+          "example": "We need to limit the number of participants.",
+          "translation": "参加者の数を制限する必要がある。"
+        },
+        {
+          "word": "restrict",
+          "definition": "行動・利用・範囲などを制限する。",
+          "frequency": 8,
+          "difference": "規則や措置による制限を明示する文脈と相性がよい。constrain は資源不足などの事情にも焦点を当てるが、両語の対象は大きく重なる。",
+          "example": "The policy restricts access to confidential files.",
+          "translation": "その方針は機密ファイルへのアクセスを制限している。"
+        },
+        {
+          "word": "restrain",
+          "definition": "人の動きや感情・行動を抑える。",
+          "frequency": 6,
+          "difference": "身体を押さえることや、衝動・感情の表出を抑えることに使いやすい。constrain は可能な行動範囲・条件の制約を前景化しやすい。",
+          "example": "He could barely restrain his excitement.",
+          "translation": "彼は興奮を抑えるのがやっとだった。"
+        },
+        {
+          "word": "confine",
+          "definition": "人・物・活動を一定の場所や範囲内にとどめる。",
+          "frequency": 6,
+          "difference": "境界の内側に限る点を強く示す。constrain は自由度や発展の程度を狭めるだけでもよい。",
+          "example": "Please confine your comments to the proposal.",
+          "translation": "コメントは提案の内容に限定してください。"
+        },
+        {
+          "word": "inhibit",
+          "definition": "活動や進行を抑制・阻害する。",
+          "frequency": 6,
+          "difference": "起こるはずの働きや発展を弱めることが中心。constrain は選べる範囲や許される条件を絞ることに重点を置ける。",
+          "example": "Excessive paperwork can inhibit innovation.",
+          "translation": "過度な書類仕事は革新を妨げることがある。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "free",
+          "definition": "人や活動を束縛・制約から解放する。",
+          "frequency": 7,
+          "difference": "制約を課すことに対し、既存の制約を取り除くという方向の反対。あらゆる constrain の目的語に機械的に置換できるわけではない。",
+          "example": "The new arrangement frees staff from unnecessary reporting requirements.",
+          "translation": "新しい取り決めにより、職員は不要な報告義務から解放される。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【動詞・他動詞・主に受動形】余儀なくさせる、せざるを得なくする",
+      "frequency": 4,
+      "register": [
+        "硬い。正式な説明、論説、書き言葉。"
+      ],
+      "definition": "圧力・事情・義務感などによって、人や組織にある行動を取らせる。自由に選んだというより、ほかの選択が難しいと捉える表現。feel constrained to は「そうすべきだと感じる、そうせざるを得ないと感じる」であり、実際に外部から命令されたとは限らない。",
+      "patterns": [
+        "constrain someone to do something＝人に行動を余儀なくさせる",
+        "be constrained to do something＝行動せざるを得ない",
+        "feel constrained to do something＝行動せざるを得ないと感じる",
+        "be constrained by 〈事情〉 to do something＝その事情によって行動を余儀なくされる。to不定詞の行為者は目的語、受動では主語。能動も可能だが、be/feel constrained to が特に重要。"
+      ],
+      "collocations": [
+        {
+          "pattern": "be constrained to do something",
+          "use": "事情によって取らざるを得なかった行動を説明する。",
+          "example": "Faced with rising costs, the company was constrained to reduce its opening hours.",
+          "translation": "費用の増加に直面し、その会社は営業時間を短縮せざるを得なかった。"
+        },
+        {
+          "pattern": "feel constrained to object",
+          "use": "異議を述べる必要があると、改まって表明する。",
+          "example": "I feel constrained to object because the report omits important evidence.",
+          "translation": "報告書に重要な証拠が抜けているため、異議を述べざるを得ません。"
+        },
+        {
+          "pattern": "not feel constrained to do something",
+          "use": "義務感や圧力を感じる必要がないことを述べる。",
+          "example": "You should not feel constrained to agree with the chair.",
+          "translation": "議長に同意しなければならないと思う必要はありません。"
+        },
+        {
+          "pattern": "be constrained by 〈事情〉 to do something",
+          "use": "行動を強いる具体的な事情を添える。",
+          "example": "The council was constrained by falling revenues to postpone the project.",
+          "translation": "議会は収入減少のため、その事業を延期せざるを得なかった。"
+        }
+      ],
+      "notes": [
+        "constrained to do は「することを禁じられた」ではない。We were constrained to speak. は「発言せざるを得なかった」、We were constrained from speaking. は「発言を抑えられていた」という対照になる。feel constrained to は義務感を示しても、実際にその行動をしたことまでは保証しない。人為的な脅迫が必須ではなく、良心や経済状況も原因になれる。constrain someone doing something のように to を落として、この強制の意味にはしない。"
+      ],
+      "synonyms": [
+        {
+          "word": "compel",
+          "definition": "強い力や必要性により、人に行動を取らせる。",
+          "frequency": 6,
+          "difference": "抗いにくい力や必然性を強く示しやすい。constrain は選択の余地を狭める事情に焦点を置く。",
+          "example": "The findings compelled the researchers to revise their theory.",
+          "translation": "その結果により、研究者たちは理論を修正せざるを得なくなった。"
+        },
+        {
+          "word": "force",
+          "definition": "人に行動を強いる。",
+          "frequency": 8,
+          "difference": "より一般的で直接的。物理的強制にも状況による強制にも使え、constrain より日常的。",
+          "example": "The closure forced us to find another supplier.",
+          "translation": "その閉鎖により、私たちは別の供給業者を探さざるを得なくなった。"
+        },
+        {
+          "word": "oblige",
+          "definition": "必要・規則・義務などによって、ある行動を求める。",
+          "frequency": 6,
+          "difference": "義務・必要性の側面を示しやすい。feel obliged to と feel constrained to は重なるが、後者は選択の自由がないという硬い響きを持つ。",
+          "example": "The agreement obliges both parties to share relevant information.",
+          "translation": "その合意は、双方に関連情報の共有を義務づけている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【形容詞・constrained・限定／叙述】ぎこちない、無理のある",
+      "frequency": 3,
+      "register": [
+        "やや硬い人物描写・文学的な文章。"
+      ],
+      "definition": "表情・声・態度などが、気兼ねや緊張のために自然に出ておらず、どこか無理に作られたように感じられること。「礼儀正しい」「控えめ」だけではなく、自然さが失われている点が中心で、必ずしも意図的な偽装ではない。",
+      "patterns": [
+        "a constrained 〈表情・声・態度を表す名詞〉＝ぎこちない表情など",
+        "〈態度など〉 + be/seem/become constrained＝ぎこちなく見える・なる",
+        "feel constrained＝人が気兼ねして自由に振る舞えないと感じる。rather、somewhat、more などで程度・比較を表せる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a constrained smile",
+          "use": "自然な喜びの表情ではない笑顔を描く。",
+          "example": "She gave a constrained smile when her former manager entered the room.",
+          "translation": "元の上司が部屋に入ってくると、彼女はぎこちなくほほ笑んだ。"
+        },
+        {
+          "pattern": "a constrained manner",
+          "use": "気兼ねが感じられる振る舞いを述べる。",
+          "example": "His constrained manner made the conversation feel unusually formal.",
+          "translation": "彼のぎこちない態度のせいで、会話はいつになく堅苦しく感じられた。"
+        },
+        {
+          "pattern": "seem constrained",
+          "use": "声や表情に自然さがないという印象を述べる。",
+          "example": "Her voice seemed constrained, as though she were choosing every word with care.",
+          "translation": "一語一語を慎重に選んでいるかのように、彼女の声はぎこちなく聞こえた。"
+        },
+        {
+          "pattern": "feel constrained",
+          "use": "対人場面でくつろいで振る舞えない感覚を表す。",
+          "example": "I felt constrained in their company and found it hard to joke.",
+          "translation": "彼らと一緒にいると気詰まりで、冗談を言いにくかった。"
+        }
+      ],
+      "notes": [
+        "この形容詞は constrained であり、constraining smile とすると「相手を制約する笑顔」のような別の関係になる。a constrained smile と the smile seemed constrained の両方が可能で、単独の constrained にハイフンは不要。語義1の a constrained budget は「制約された予算」であり、「ぎこちない予算」ではない。feel constrained は文脈だけなら気兼ね・束縛感の両方があり得るが、feel constrained to apologize のように to不定詞が続けば語義2の「謝らざるを得ないと感じる」。"
+      ],
+      "synonyms": [
+        {
+          "word": "strained",
+          "definition": "緊張や無理が表れ、自然さを欠いた。",
+          "frequency": 5,
+          "difference": "声・笑顔・会話などについて広く使え、緊張や努力がにじむことに重点がある。constrained は自由に振る舞えない気兼ねを感じさせやすい。",
+          "example": "Their conversation remained strained throughout dinner.",
+          "translation": "食事の間、二人の会話はずっとぎこちなかった。"
+        },
+        {
+          "word": "forced",
+          "definition": "感情や表情が自然に生じず、無理に作られた。",
+          "frequency": 6,
+          "difference": "笑顔・笑いなどを意識して作る点を前景化しやすい。constrained は気詰まりによる不自然さでもよい。",
+          "example": "His laugh sounded forced.",
+          "translation": "彼の笑いは無理に作ったものに聞こえた。"
+        },
+        {
+          "word": "inhibited",
+          "definition": "気後れや不安のため、自由に自己表現できない。",
+          "frequency": 4,
+          "difference": "人の心理や性向に焦点を当てる。constrained はその結果として表れる表情・態度のぎこちなさにも使う。",
+          "example": "She became less inhibited as she got to know the group.",
+          "translation": "グループの人たちと親しくなるにつれ、彼女の気後れは薄れていった。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unselfconscious",
+          "definition": "人目を気にせず、自然に振る舞う。",
+          "frequency": 3,
+          "difference": "気兼ねで不自然になった状態に対し、自意識に邪魔されない状態の反対。",
+          "example": "There was an unselfconscious warmth in her greeting.",
+          "translation": "彼女の挨拶には、飾らない温かさがあった。"
+        },
+        {
+          "word": "relaxed",
+          "definition": "緊張がなく、くつろいだ。",
+          "frequency": 8,
+          "difference": "態度の緊張・ぎこちなさに対する程度上の反対。無理に作られた表情という含みまでは必ずしも対比しない。",
+          "example": "His manner became more relaxed after the interview.",
+          "translation": "面接が終わると、彼の態度はよりくつろいだものになった。"
+        }
+      ]
+    }
+  ]
+}
