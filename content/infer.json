@@ -1,0 +1,274 @@
+{
+  "word": "infer",
+  "slug": "infer",
+  "ipa": "米: /ɪnˈfɜːr/｜英: /ɪnˈfɜː/。2音節で、第2音節に主強勢がある。ここで示した米英差は、第2音節の末尾に米音では /r/ があり、英音では単独発音時にないこと。標準的な英音でも、次の語が母音で始まる場合には語末の r が連結して発音され得る。",
+  "lead": "発言・文章・数値・行動・観察結果などを手掛かりに、それ自体には直接示されていない結論や判断を導くこと。主語は判断する人・集団が中心で、推論処理をするシステムにも使う。証拠に基づくという関係を表すが、結論が必ず正しい、根拠が十分である、論理的に唯一の結論である、とは限らない。",
+  "updated": "2026-10-07",
+  "notion_url": "https://app.notion.com/p/infer-3f24faa9b77d81acbc86cba8f5f82dd6",
+  "pronunciation": [
+    "inferred は米 /ɪnˈfɜːrd/・英 /ɪnˈfɜːd/ で、違いは第2音節の /d/ の前の /r/。inferring は米・英 /ɪnˈfɜːrɪŋ/。過去形・過去分詞・-ing 形では r を重ね、inferred、inferring とつづる。名詞 inference は第1音節に強勢が移り、r は1つになる。"
+  ],
+  "etymology": [
+    "ラテン語 inferre「中へ運ぶ、持ち込む」に由来し、in-「中へ」と ferre「運ぶ」から成る。中世ラテン語には「推論する」という用法があり、現代の中心義は、与えられた材料から結論を導くことにある。現在の意味を、接頭辞の直訳だけで「内側に意味を込める」と覚えると imply と混同しやすい。",
+    "同じ ferre に由来する語に transfer「移す」と refer「参照する、言及する」がある。これらは語源上の仲間であり、infer の派生語ではない。"
+  ],
+  "formation": [
+    {
+      "term": "inference",
+      "description": "名詞「推論、推測、導かれた結論」。推論という過程は不可算、個々の結論は可算で、draw an inference from 〈情報〉 の形を取る。"
+    },
+    {
+      "term": "inferential",
+      "description": "形容詞「推論による、推論に関する」。inferential statistics は標本などから母集団について推論する「推測統計」を指す。"
+    },
+    {
+      "term": "inferable",
+      "description": "形容詞「推論できる」。be inferable from 〈根拠〉 のように使う硬い語。inferrable というつづりもある。"
+    },
+    {
+      "term": "inferred",
+      "description": "過去分詞を使った修飾形「推定された」。inferred meaning「推論によって読み取られた意味」などで、直接明示・観測されたものと区別する。動詞の意味を保った用法である。"
+    }
+  ],
+  "core": [
+    {
+      "label": "明示されていない結論と、その結論を導く手掛かりとのつながりが核にある。主語が推論する側か、手掛かりを示す側かで意味の向きが変わる。",
+      "description": ""
+    },
+    {
+      "label": "手掛かりから結論を導く主体の働き",
+      "description": "→ 「推論する、根拠から推し量る」（語義1）"
+    },
+    {
+      "label": "手掛かりとして内容を示す発信の働き",
+      "description": "→ 「ほのめかす、暗に示す」（語義2）"
+    },
+    {
+      "label": "手掛かりとして結論を支える根拠の働き",
+      "description": "→ 「結論を示す、論理的に含意する」（語義3）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞／自動詞】推論する、根拠から推し量る",
+      "frequency": 6,
+      "register": [
+        "やや硬い語。論証、分析、研究、読解などで使う。日常会話では gather や work out などで表すことも多い。"
+      ],
+      "definition": "発言・文章・数値・行動・観察結果などを手掛かりに、それ自体には直接示されていない結論や判断を導くこと。主語は判断する人・集団が中心で、推論処理をするシステムにも使う。証拠に基づくという関係を表すが、結論が必ず正しい、根拠が十分である、論理的に唯一の結論である、とは限らない。",
+      "patterns": [
+        "infer something from something＝情報から結論・性質などを推論する",
+        "infer that 〈節〉＝～だと推論する",
+        "infer from 〈根拠〉 that 〈節〉＝根拠を先に置いて推論内容を述べる",
+        "infer 〈wh節〉 from 〈根拠〉＝何が・どのように、などを推測する",
+        "〈結論・性質〉 + be inferred from 〈根拠〉＝根拠から推定される",
+        "it can be inferred from 〈根拠〉 that 〈節〉＝～と推論できる",
+        "〈対象〉 + be inferred to be 〈補語〉＝～であると推定される、という学術的な受動構文。目的語を置かない自動詞 infer は、推論する行為自体を指す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "infer something from 〈根拠〉",
+          "use": "結論と、それを導く材料を明確に分ける。",
+          "example": "We cannot infer customer satisfaction from sales figures alone.",
+          "translation": "売上の数字だけから顧客満足度を推測することはできない。"
+        },
+        {
+          "pattern": "infer that 〈節〉",
+          "use": "文の形で推論の内容を示す。",
+          "example": "The analyst inferred that demand would remain weak.",
+          "translation": "そのアナリストは、需要の弱さが続くだろうと推論した。"
+        },
+        {
+          "pattern": "infer from 〈根拠〉 that 〈節〉",
+          "use": "何を手掛かりに判断したかを先に示す。",
+          "example": "We inferred from the repeated delays that the supplier was short of staff.",
+          "translation": "度重なる遅延から、私たちはその納入業者が人手不足なのだと推測した。"
+        },
+        {
+          "pattern": "infer 〈wh節〉 from 〈根拠〉",
+          "use": "未知の理由・方法・内容などを間接的に読み取る。",
+          "example": "Can you infer what the client values most from these comments?",
+          "translation": "これらのコメントから、顧客が何を最も重視しているか推測できますか。"
+        },
+        {
+          "pattern": "be inferred from 〈根拠〉",
+          "use": "推論者より、推定される内容と根拠に焦点を当てる。",
+          "example": "The sequence of events was inferred from the timestamps.",
+          "translation": "出来事の順序は、記録された時刻から推定された。"
+        },
+        {
+          "pattern": "it can be inferred from 〈根拠〉 that 〈節〉",
+          "use": "分析文で推論を非人称の受動態として述べる。",
+          "example": "It can be inferred from the audit trail that the file was changed twice.",
+          "translation": "監査証跡から、そのファイルが2回変更されたと推定できる。"
+        },
+        {
+          "pattern": "be inferred to be 〈補語〉",
+          "use": "学術的な文章で、対象がどのような状態・性質だと推定されるか示す。",
+          "example": "The planet was inferred to be larger than Earth from its effect on the star's light.",
+          "translation": "恒星の光への影響から、その惑星は地球より大きいと推定された。"
+        },
+        {
+          "pattern": "observe and infer",
+          "use": "目的語を置かず、観察と推論を行為の種類として対比する。",
+          "example": "Scientists observe and infer, but they also test their conclusions.",
+          "translation": "科学者は観察し、推論するが、導いた結論を検証することもする。"
+        }
+      ],
+      "notes": [
+        "基本の役割分担は The email implies urgency.「そのメールは緊急性を示唆する」と I infer urgency from the email.「私はそのメールから緊急性を読み取る」。imply の主語は意味を示す側、infer の主語は結論を導く側である。話し手と聞き手だけに限定されず、同じ人が資料から infer し、その後の説明で imply することもある。分析システムなどが推論主体になる場合も、単に証拠が何かを示す語義3とは区別する。語義2には imply に重なる用法があるが、明確に書くときはこの区別を保つ。 根拠は from、推論内容は直接目的語または節で示す。推論内容を節で述べるなら We inferred (that) the market was shrinking.。根拠を加えるなら We inferred from the data that the market was shrinking.。from that の that が「そのこと」という指示代名詞なら、We inferred from that that the market was shrinking.「そのことから、市場が縮小していると推論した」も成立し、後ろの接続詞 that は省略できる。infer about the client だけで済ませず、infer something about the client のように何を推論するかを示すと明確になる。 infer は「証拠から導く」、assume は「正しいと仮に置く」という違いがある。We assumed the figures were accurate. は前提の設定で、その正しさを推論して確かめたとは限らない。また infer incorrectly、reasonably infer、tentatively infer のように推論の正確さ・妥当性・暫定性を修飾できる。inferred は an inferred value、the value inferred from the data のように前後から名詞を修飾するが、very inferred のような程度表現は普通使わない。"
+      ],
+      "synonyms": [
+        {
+          "word": "deduce",
+          "definition": "根拠や前提から、筋道を立てて結論を引き出す。",
+          "frequency": 6,
+          "difference": "infer より論理的な導出を前面に出しやすい。厳密な論理学では演繹を指すが、日常の用法がすべて形式的な演繹に限られるわけではない。",
+          "example": "From the delivery records, we deduced that one package had gone to the wrong office.",
+          "translation": "配達記録から、荷物1つが別の事務所に届いたと判断した。"
+        },
+        {
+          "word": "conclude",
+          "definition": "検討や推論の結果として、ある判断に至る。",
+          "frequency": 8,
+          "difference": "infer が根拠から内容を引き出す過程に焦点を置くのに対し、conclude は到達した結論を強調する。",
+          "example": "The team concluded that the plan was too expensive.",
+          "translation": "チームは、その計画は費用がかかりすぎると結論づけた。"
+        },
+        {
+          "word": "gather",
+          "definition": "聞いたことや状況から、事情を理解する・察する。",
+          "frequency": 7,
+          "difference": "この語義では infer より会話的。I gather that ... は、得た情報からの理解を控えめに述べるときにも使う。",
+          "example": "I gather that you have already spoken to the manager.",
+          "translation": "すでに責任者と話されたのですね。"
+        },
+        {
+          "word": "surmise",
+          "definition": "十分には確かめられていない材料から、そうだろうと推し量る。",
+          "frequency": 4,
+          "difference": "infer より根拠の不十分さや推測の性質を前面に出す、硬い語。",
+          "example": "She surmised that the silence meant the proposal had been rejected.",
+          "translation": "彼女は、返事がないのは提案が却下されたということだろうと推し量った。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【動詞・他動詞】ほのめかす、暗に示す",
+      "frequency": 3,
+      "register": [
+        "容認度に議論がある用法。会話などで遭遇する。自分で正式な文書を書くときは imply、suggest などが明確。"
+      ],
+      "definition": "話し手・文章などが、ある内容を直接には言わずに示すこと。imply に重なる用法で、語義1の「受け手が結論を導く」とは意味の向きが異なる。実際の発話や文章には現れるが、非標準または避けるべき用法とする辞書・編集方針がある。",
+      "patterns": [
+        "infer that 〈節〉＝～だと暗に示す",
+        "infer something＝ある内容をほのめかす。発信する側を主語とする。一般の他動詞として受動態も解釈可能だが、語義1の「推定される」と紛らわしくなるため、運用上は implied などで明示する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "infer that 〈節〉",
+          "use": "発信者が暗に言っている内容を表す実例を理解する。容認度に注意する。",
+          "example": "In his reply, he inferred that our team lacked experience, without saying so directly.",
+          "translation": "彼は返答の中で、はっきりそう言わずに、私たちのチームは経験不足だとほのめかした。"
+        },
+        {
+          "pattern": "infer 〈ほのめかす内容〉",
+          "use": "文脈によって imply の意味で使われていることを読み取る。",
+          "example": "The advertisement inferred a guarantee of success that the company never explicitly offered.",
+          "translation": "その広告は、会社が明示的には提示していない成功の保証をにおわせていた。"
+        }
+      ],
+      "notes": [
+        "上の例の inferred は、推論者の判断ではなく発信側の示唆を表す。語義1と分けて理解するための例であり、正式な文章でこの用法を積極的に選ぶことを勧めるものではない。明確に直すなら he implied that ...、The advertisement implied a guarantee ... とする。Are you inferring that ...? は、文脈によって「そう推論しているのですか」と「そうほのめかしているのですか」の両方に読めるため、疑問形だけで語義を決めない。事実や前提が結論を示す語義3は、話し手のほのめかしを必須としない別の用法である。"
+      ],
+      "synonyms": [
+        {
+          "word": "imply",
+          "definition": "直接には述べず、内容や状況からある意味を伝える。",
+          "frequency": 8,
+          "difference": "「暗に示す」の標準的な選択。infer の中心義にある推論する側とは役割が異なる。",
+          "example": "Her reply implied that the deadline was flexible.",
+          "translation": "彼女の返答は、期限を調整できることを暗に示していた。"
+        },
+        {
+          "word": "suggest",
+          "definition": "発言・表現・証拠などが、ある考えや可能性を示す。",
+          "frequency": 8,
+          "difference": "意図的なほのめかしに限らず、証拠がある見方を支持する場合にも使う。断定より弱い示し方になることが多い。",
+          "example": "The wording suggests that further changes are possible.",
+          "translation": "その言い回しからは、さらに変更される可能性がうかがえる。"
+        },
+        {
+          "word": "hint",
+          "definition": "はっきり言わず、わずかな手掛かりを与える。",
+          "frequency": 7,
+          "difference": "言いたいことを控えめににおわせる点が強い。hint at 〈名詞〉、hint that 〈節〉 の形を取る。",
+          "example": "The director hinted at a possible expansion next year.",
+          "translation": "取締役は、来年事業を拡大する可能性をほのめかした。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞・他動詞】結論を示す、論理的に含意する",
+      "frequency": 2,
+      "register": [
+        "低頻度の書き言葉・論述など。複数の一般辞書に収録されているが、infer と imply を厳密に区別する編集方針ではこの用法も避けられる。"
+      ],
+      "definition": "事実・状況・前提などが、ある結論を導く根拠となる、またはその結論を論理的に伴うこと。主語は推論する人ではなく、根拠として働く事実などである。間接的な指示を表す場合と、必然的な帰結を表す場合があり、文脈によって強さが異なる。",
+      "patterns": [
+        "〈根拠・前提〉 + infer 〈結論を表す名詞句〉＝その根拠が結論を示す・伴う",
+        "〈根拠・前提〉 + infer that 〈節〉＝その根拠が～であることを示す。人主語の infer something from 〈根拠〉 とは、根拠の位置と主語の役割が異なる。受動形にすると語義1の「推論される」と区別しにくいため、読解では能動形の主語の意味を確かめる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "〈根拠〉 + infer 〈結論を表す名詞句〉",
+          "use": "根拠自体が結論を示す、低頻度の書き言葉の用法を理解する。",
+          "example": "The presence of tool marks infers human intervention.",
+          "translation": "工具の痕跡があることは、人の手が加わったことを示している。"
+        },
+        {
+          "pattern": "〈前提〉 + infer that 〈節〉",
+          "use": "前提から帰結が導かれるという、論述上の意味を読み取る。",
+          "example": "This premise infers that every member of the group has the same rights.",
+          "translation": "この前提からは、その集団の全員が同じ権利を持つという帰結が導かれる。"
+        }
+      ],
+      "notes": [
+        "語義1の We infer human intervention from the marks. では、we が推論し、the marks が根拠になる。この語義では The marks infer human intervention. のように根拠を主語にするが、痕跡そのものが考えるという意味ではない。語義2が発言・文章などの間接的な示唆を表すのに対し、この語義は根拠と結論の関係を表す。現代の明確な作文では、単に示すなら indicate、含意するなら imply、論理的に必然の帰結なら entail を選ぶと読み違いを避けやすい。この用法を高頻度の一般表現や、論理学で必ず用いる標準用語として覚える必要はない。"
+      ],
+      "synonyms": [
+        {
+          "word": "indicate",
+          "definition": "証拠・事実などが、ある状態や結論を示す。",
+          "frequency": 8,
+          "difference": "必然的な論理的帰結までは要求せず、根拠がある方向を示す場合に広く使う。",
+          "example": "The results indicate that the new process is more efficient.",
+          "translation": "その結果は、新しい工程の方が効率的であることを示している。"
+        },
+        {
+          "word": "imply",
+          "definition": "ある事実や命題が、別の内容を含意する。",
+          "frequency": 7,
+          "difference": "この用法では人がほのめかす必要はなく、事実・命題どうしの関係を表す。語義2の発信者の示唆とは区別する。",
+          "example": "A rise in revenue does not necessarily imply a rise in profit.",
+          "translation": "売上高の増加は、必ずしも利益の増加を意味しない。"
+        },
+        {
+          "word": "entail",
+          "definition": "前提や命題が、別の内容を必然的な帰結として伴う。",
+          "frequency": 4,
+          "difference": "論理上の必然性を明示する。弱い証拠から推測されるだけなら、entail と言い換えると強すぎる。",
+          "example": "The statement that every applicant passed entails that no applicant failed.",
+          "translation": "全応募者が合格したという記述からは、不合格の応募者がいなかったことが論理的に導かれる。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
