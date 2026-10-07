@@ -1,0 +1,399 @@
+{
+  "word": "liable",
+  "slug": "liable",
+  "ipa": "米・英: /ˈlaɪ.ə.bəl/。基本形は3音節で、第1音節 /laɪ/ に主強勢がある。第2音節の母音と第3音節の母音は弱い /ə/。速い発話では第2音節が縮まり、/ˈlaɪ.bəl/ のように2音節で発音されることもあり、特に「〜しそうな」の意味で聞かれる。libel「文書などによる名誉毀損」は通常 /ˈlaɪ.bəl/ で、縮まった liable と音が重なり得るが別の語。",
+  "lead": "損害、債務、費用、行為などについて、法や契約に基づく責任・義務を負っている。主語は人・企業・団体などが中心で、課税対象の財産・所得にも使う。誰が日常業務を担当するかという一般的な責任より、賠償・支払などを求められる立場に焦点がある。liable という語だけで、すでに裁判の確定判決が出ているとは限らない。",
+  "updated": "2026-10-07",
+  "notion_url": "https://app.notion.com/p/liable-3f24faa9b77d814d80dcee47a0f6b4b5",
+  "pronunciation": [],
+  "etymology": [
+    "中英語の形にさかのぼり、古フランス語 lier「縛る」との関係が考えられている。その先はラテン語 ligare「結ぶ、縛る」。「法的な責任に縛られる」という意味が歴史的な中心にある。ligament「靱帯」、ligature「結ぶもの、合字」、obligation「義務」も ligare の系統。現代の liable は「責任がある」だけでなく、悪い結果などを被りやすいことにも使う。"
+  ],
+  "formation": [
+    {
+      "term": "liability",
+      "description": "は名詞で「法的責任、支払義務」。liability for damage「損害への責任」、limited liability「有限責任」、liability insurance「賠償責任保険」などに使う。"
+    },
+    {
+      "term": "liabilities",
+      "description": "は会計・財務で「負債、債務」。また a liability は「不利益をもたらす人・物、足手まとい」という可算名詞にもなる。a liability to the team「チームのお荷物」は、形容詞 liable to do something と別の構造。"
+    },
+    {
+      "term": "non-liable",
+      "description": "/ nonliable は「責任を負わない」の形容詞で、主に専門的な文章に現れる。一般的な説明では not liable と述べる方が分かりやすい。"
+    }
+  ],
+  "core": [
+    {
+      "label": "ある責任・負担や出来事が、その主体に及ぶ立場・状態にある。法的な義務がある場合と、出来事が起こりやすいだけの場合を区別し、「toがあるから必ず可能性」と決めつけない。",
+      "description": ""
+    },
+    {
+      "label": "法的な責任・義務が及ぶ立場",
+      "description": "→ 「法的責任・支払義務などを負う」（語義1）"
+    },
+    {
+      "label": "ある出来事が及びやすい状態",
+      "description": "→ 「〜しがちだ、〜するおそれがある」（語義2）"
+    },
+    {
+      "label": "不都合が生じ、作用が及びやすい状態",
+      "description": "→ 「〜を被りやすい、〜の影響を受けやすい」（語義3）"
+    },
+    {
+      "label": "法的な制裁・手続きが及び得る立場",
+      "description": "→ 「制裁・法的措置の対象となり得る」（語義4）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【形容詞・主に叙述用法】法的責任・支払義務などを負う",
+      "frequency": 6,
+      "register": [
+        "法律、契約、保険、税務。一般の説明でも使うが、法的・金銭的責任の響きが強い。"
+      ],
+      "definition": "損害、債務、費用、行為などについて、法や契約に基づく責任・義務を負っている。主語は人・企業・団体などが中心で、課税対象の財産・所得にも使う。誰が日常業務を担当するかという一般的な責任より、賠償・支払などを求められる立場に焦点がある。liable という語だけで、すでに裁判の確定判決が出ているとは限らない。",
+      "patterns": [
+        "be / become / remain liable for 〈損害・債務・費用〉＝責任・支払義務を負う",
+        "be liable for doing something＝行為について責任を負う、またはその行為をする義務を負う",
+        "be liable to someone for something＝相手に対してその件の責任を負う",
+        "be liable to do something＝法律・契約上その行為をする義務がある",
+        "be liable to tax＝課税対象である",
+        "hold / find someone liable＝人に責任があるとする・認定する。法律・行政文書では the liable party のような限定用法もある。"
+      ],
+      "collocations": [
+        {
+          "pattern": "be liable for 〈損害・費用〉",
+          "use": "誰が損害や費用を負担するかを説明する。",
+          "example": "Under this contract, the carrier is liable for damage caused by improper handling.",
+          "translation": "この契約では、不適切な取扱いによって生じた損害について、運送業者が責任を負う。"
+        },
+        {
+          "pattern": "be liable for doing something",
+          "use": "動名詞で責任の対象や履行すべき行為を示す。",
+          "example": "The guarantor remains liable for repaying the loan if the borrower defaults.",
+          "translation": "借り手が債務不履行となった場合、保証人は引き続きローンを返済する責任を負う。"
+        },
+        {
+          "pattern": "be liable to someone for something",
+          "use": "責任を負う相手と対象を両方示す。",
+          "example": "The supplier may be liable to the customer for losses caused by the breach.",
+          "translation": "仕入先は、その契約違反によって生じた損失について、顧客に対して責任を負う可能性がある。"
+        },
+        {
+          "pattern": "be liable to pay 〈金銭〉",
+          "use": "支払う可能性ではなく、支払義務があることを述べる。",
+          "example": "The notice explains who is liable to pay the local tax.",
+          "translation": "その通知は、誰がその地方税の納税義務を負うかを説明している。"
+        },
+        {
+          "pattern": "be liable to tax",
+          "use": "人・所得などが課税の対象になることを示す。",
+          "example": "The guidance explains when income from overseas is liable to tax.",
+          "translation": "その案内は、国外からの所得がどのような場合に課税対象になるかを説明している。"
+        },
+        {
+          "pattern": "hold someone liable for something",
+          "use": "人や企業に責任があるとする。",
+          "example": "The court held the contractor liable for the repair costs.",
+          "translation": "裁判所は、修理費用について請負業者に責任があると判断した。"
+        },
+        {
+          "pattern": "be found liable",
+          "use": "審理などで責任が認定された結果を述べる。",
+          "example": "The manufacturer was found liable for the defective product.",
+          "translation": "製造業者は、その欠陥製品について責任があると認定された。"
+        },
+        {
+          "pattern": "be jointly and severally liable",
+          "use": "複数の当事者が連帯して責任を負うことを示す。",
+          "example": "The agreement states that both borrowers are jointly and severally liable for the debt.",
+          "translation": "その合意書には、両方の借り手がその債務について連帯責任を負うと記されている。"
+        }
+      ],
+      "notes": [
+        "liable for damage は「損害への責任がある」、liable to damage は通常、語義3の「損傷を受けやすい」。ただしfor＝責任、to＝可能性という二分法は不正確で、liable to pay tax は「税を払う義務がある」、liable to the customer は「顧客に対して責任がある」。hold someone liable の liable は目的語の状態を表す補語で、受動形は someone is held liable。法律文書では liable party なども使うため、「絶対に名詞の前に置けない」としない。通常は very liable より fully / partly / personally / legally liable のように責任の範囲・性質を示す。jointly and severally liable は、一般に各当事者が対象債務・損害の全体について請求を受け得る連帯責任を表し、単に均等に分割して負担する意味ではない。適用条件や当事者間の負担調整は法域・契約による。liable は guilty「有罪の」と同義ではなく、民事責任にも用いる。"
+      ],
+      "synonyms": [
+        {
+          "word": "responsible",
+          "definition": "行為・結果・仕事などについて責任がある。",
+          "frequency": 9,
+          "difference": "liable より広く、業務上の担当、道義的責任、原因となったことも表せる。responsible for scheduling だけでは賠償義務などを意味しない。",
+          "example": "The coordinator is responsible for arranging the interviews.",
+          "translation": "調整担当者が面接の手配を担当している。"
+        },
+        {
+          "word": "accountable",
+          "definition": "自分の行為・判断について説明し、責任を問われる立場にある。",
+          "frequency": 7,
+          "difference": "説明責任や監督関係に焦点がある。liable が示す法的な賠償・支払義務と必ず一致するわけではない。",
+          "example": "The director is accountable to the board for the use of public funds.",
+          "translation": "責任者は、公的資金の使途について理事会に説明責任を負う。"
+        },
+        {
+          "word": "answerable",
+          "definition": "ある相手に対して、行為や結果の責任を負う。",
+          "frequency": 5,
+          "difference": "answerable to someone for something と、誰に説明・責任を求められるかを表しやすい。法的責任に限らない。",
+          "example": "Every manager is answerable for the decisions made by their department.",
+          "translation": "各管理者は、自分の部門が下した判断について責任を負う。"
+        },
+        {
+          "word": "obliged",
+          "definition": "法・約束・事情などによって、何かをしなければならない。",
+          "frequency": 7,
+          "difference": "be obliged to do は行為の必要・義務を直接示す。liable は義務に加えて、損害などへの責任や負担の帰属にも使う。",
+          "example": "The employer is obliged to provide the agreed training.",
+          "translation": "雇用主は、合意された研修を提供する義務がある。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "exempt",
+          "definition": "ある義務・税などの適用を免れている。",
+          "frequency": 6,
+          "difference": "特定の支払義務などを負う状態に対する、適用除外という状態の対立。あらゆる責任の不存在を意味しない。",
+          "example": "These purchases are exempt from the local sales tax.",
+          "translation": "これらの購入品は、その地域の売上税が免除されている。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【形容詞・叙述用法】〜しがちだ、〜するおそれがある",
+      "frequency": 6,
+      "register": [
+        "一般語。会話、注意喚起、業務上の予測で使う。"
+      ],
+      "definition": "状況や性質から、ある行為・出来事が起こりやすい、起こるおそれがあることを表す。be liable to do の形を取り、主語は人にも物にもなる。失敗・故障・不都合など好ましくない結果が典型的だが、否定的な結果だけに使えるという絶対的な文法規則ではない。確実に起こるとは断言しない。",
+      "patterns": [
+        "be liable to do something＝〜しがちだ・〜するおそれがある",
+        "be liable to be 〈状態・過去分詞〉＝その状態になりやすい・そう扱われるおそれがある",
+        "be more / less liable to do something＝起こりやすさを比較する。天候を表す非人称のitを主語にした It is liable to rain. は可能だが、後続の内容節を受ける It is likely that ... 型の構文とは区別する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "be liable to make mistakes",
+          "use": "条件によって失敗しやすくなることを述べる。",
+          "example": "Staff are liable to make mistakes when instructions change without notice.",
+          "translation": "予告なく指示が変わると、職員はミスをしがちだ。"
+        },
+        {
+          "pattern": "be liable to fail",
+          "use": "設備・計画などが機能しなくなるおそれを示す。",
+          "example": "This old pump is liable to fail if it runs continuously.",
+          "translation": "この古いポンプは、連続運転すると故障するおそれがある。"
+        },
+        {
+          "pattern": "be liable to be misunderstood",
+          "use": "受け身の不定詞で、望ましくない受け取られ方を示す。",
+          "example": "A brief reply without context is liable to be misunderstood.",
+          "translation": "背景の説明がない短い返事は、誤解されるおそれがある。"
+        },
+        {
+          "pattern": "be more liable to do something",
+          "use": "ある条件下で結果が生じやすくなることを比較する。",
+          "example": "People are more liable to overlook details when they are rushing.",
+          "translation": "人は急いでいると、細かい点を見落としやすくなる。"
+        },
+        {
+          "pattern": "be liable to change",
+          "use": "予定・状況が変わる可能性を示す。",
+          "example": "Delivery times are liable to change during severe weather.",
+          "translation": "悪天候時には、配達時刻が変わる可能性がある。"
+        }
+      ],
+      "notes": [
+        "toは不定詞のtoなので、liable to fail が基本で、× liable to failing をこの構文の置換として使わない。形容詞 likely は It is likely that the system will fail. と言えるが、同じ意味で × It is liable that the system will fail. としない。liable to pay は文脈により語義1の支払義務を表すため、to不定詞を見ただけでこの語義に決めない。好ましい・中立的な結果にも liable が使われることはあるが、誤解の少ない中立的予測には likely が向く。主語自体が被害を受けることは必須ではなく、A confusing notice is liable to cause complaints. のように、主語が不都合の原因となる文も自然。比較の more liable は可能性・傾向の程度を表し、語義1の責任範囲とは別である。"
+      ],
+      "synonyms": [
+        {
+          "word": "likely",
+          "definition": "ある出来事が起こる見込みがある。",
+          "frequency": 9,
+          "difference": "結果の好ましさや主体の弱点を含まず、中立的に予測する。be likely to do と It is likely that ... の両方を使える。",
+          "example": "The revised proposal is likely to receive approval.",
+          "translation": "修正された提案は、承認される見込みだ。"
+        },
+        {
+          "word": "apt",
+          "definition": "性質や習慣から、ある行動・結果になりやすい。",
+          "frequency": 5,
+          "difference": "apt to do は主体の性質・習慣による傾向を前面に出しやすい。liable はその場の事情による危険にも使える。",
+          "example": "He is apt to interrupt when he gets excited.",
+          "translation": "彼は興奮すると、人の話を遮りがちだ。"
+        },
+        {
+          "word": "prone",
+          "definition": "特に好ましくない行動・状態に陥りやすい。",
+          "frequency": 6,
+          "difference": "liable より、繰り返し生じる弱点・傾向を強く示しやすい。prone to error / prone to making errors の形も取る。",
+          "example": "The team is prone to losing focus near the end of long meetings.",
+          "translation": "そのチームは、長い会議の終盤になると集中力を失いがちだ。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unlikely",
+          "definition": "ある出来事が起こる見込みが低い。",
+          "frequency": 8,
+          "difference": "起こりやすさという程度の軸で反対になる。絶対に起こらないと断言する語ではない。",
+          "example": "The updated system is unlikely to fail under normal conditions.",
+          "translation": "更新後のシステムは、通常の条件では故障する可能性が低い。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【形容詞・叙述用法】〜を被りやすい、〜の影響を受けやすい",
+      "frequency": 5,
+      "register": [
+        "やや硬い一般語。製品の性質、安全性、地理的条件、分析上の弱点などに使う。"
+      ],
+      "definition": "人・物・場所などに、その性質や置かれた状況のため、損傷・病気・誤りなどの不都合が生じやすい、または特定の作用・影響を受けやすい。liable to 〈名詞〉の形で、toの後ろは生じ得る不利益・影響。語義2と近いが、この構文では生じやすい問題や受けやすい作用を名詞で示す。",
+      "patterns": [
+        "be liable to 〈損傷・災害・影響〉＝それを受けやすい",
+        "be particularly / more / less liable to something＝受けやすさを程度・比較で表す。ここでのtoは前置詞。名詞の後ろに materials liable to corrosion のように説明を置くこともできる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "be liable to damage",
+          "use": "物が損傷を受けやすいことを説明する。",
+          "example": "The surface is liable to damage from abrasive cleaners.",
+          "translation": "その表面は、研磨剤入りの洗浄剤で傷みやすい。"
+        },
+        {
+          "pattern": "be liable to flooding",
+          "use": "場所が浸水しやすいことを述べる。",
+          "example": "The lower part of the site is liable to flooding after heavy rain.",
+          "translation": "敷地の低い部分は、大雨の後に浸水しやすい。"
+        },
+        {
+          "pattern": "be liable to error",
+          "use": "方法・判断に誤りが入りやすいことを指摘する。",
+          "example": "Estimates based on such a small sample are liable to error.",
+          "translation": "それほど小さい標本に基づく推定には、誤りが生じやすい。"
+        },
+        {
+          "pattern": "be particularly liable to 〈影響〉",
+          "use": "ある種類の物が特に影響を受けやすいと述べる。",
+          "example": "Thin metal panels are particularly liable to distortion during transport.",
+          "translation": "薄い金属板は、輸送中に特に変形しやすい。"
+        }
+      ],
+      "notes": [
+        "liable to flooding の flooding は「洪水・浸水」を表す名詞で、語義2のto不定詞ではない。The package is liable to damage. は「荷物が傷みやすい」、The carrier is liable for damage. は「運送業者が損害に責任を負う」。この最小対立では、主語も被害を受ける物と責任を負う主体で異なる。名詞を前から修飾する一般的な「傷みやすい製品」には a vulnerable product などを使うか、products liable to damage と後ろに説明を置く。法的処罰の liable to a fine は、物理的・一般的な弱さではなく語義4。"
+      ],
+      "synonyms": [
+        {
+          "word": "susceptible",
+          "definition": "特定の作用・病気・影響を受けやすい。",
+          "frequency": 6,
+          "difference": "susceptible to は、物の性質や人の体質・心理などが影響を受けやすくしている点を強調しやすい。",
+          "example": "This fabric is susceptible to fading in direct sunlight.",
+          "translation": "この生地は、直射日光で色あせしやすい。"
+        },
+        {
+          "word": "vulnerable",
+          "definition": "攻撃・損傷・不利益などを防ぎにくい状態にある。",
+          "frequency": 7,
+          "difference": "保護や抵抗力が十分でないことに焦点がある。liable は、作用を受けやすいという傾向を述べるだけでも使える。",
+          "example": "Unpatched servers are vulnerable to attack.",
+          "translation": "修正プログラムが適用されていないサーバーは、攻撃に弱い。"
+        },
+        {
+          "word": "prone",
+          "definition": "不都合な状態や問題が生じやすい。",
+          "frequency": 6,
+          "difference": "prone to flooding のように同じ名詞を取れるが、繰り返す傾向・性質を強く表しやすい。",
+          "example": "The area is prone to landslides after prolonged rain.",
+          "translation": "その地域は、長雨の後に土砂崩れが起きやすい。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "resistant",
+          "definition": "ある作用・損傷などに抵抗でき、影響を受けにくい。",
+          "frequency": 7,
+          "difference": "同じ作用に対する受けやすさと受けにくさという程度の対立。resistant to corrosion でも、絶対に腐食しないとは限らない。",
+          "example": "The new coating is resistant to corrosion.",
+          "translation": "新しい塗膜は、腐食に強い。"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "【形容詞・叙述用法】制裁・法的措置の対象となり得る",
+      "frequency": 4,
+      "register": [
+        "法律・行政上の注意書き、規則の説明。特にイギリス英語の法令文などでよく見られる。"
+      ],
+      "definition": "法令上、制裁・訴追・没収などの措置の対象となり得る。人・企業のほか、没収などの対象となる物品・財産も主語になる。liable toの後ろに罰金・拘禁・訴追・没収などを置く。制裁・法的措置の適用対象となり得ることを示し、実際の処分が確定したことや、必ず上限額・上限期間が科されることまでは意味しない。",
+      "patterns": [
+        "be liable to a fine / imprisonment / prosecution＝罰金・拘禁・訴追の対象となり得る",
+        "render someone liable to 〈制裁・手続き〉＝人をその対象となる立場に置く",
+        "〈物品・財産〉 + be liable to forfeiture＝没収の対象となり得る。ここでのtoは前置詞。a fine は可算名詞、imprisonment / prosecution はこれらの結合では通常無冠詞。"
+      ],
+      "collocations": [
+        {
+          "pattern": "be liable to a fine",
+          "use": "違反に対して罰金が科され得ることを示す。",
+          "example": "The notice states that anyone who damages the equipment is liable to a fine.",
+          "translation": "その掲示には、設備を損傷させた者は罰金の対象となり得ると書かれている。"
+        },
+        {
+          "pattern": "be liable to prosecution",
+          "use": "行為が訴追の対象となり得ることを警告する。",
+          "example": "The guidance warns that anyone who knowingly submits false information may be liable to prosecution.",
+          "translation": "その案内は、虚偽と知りながら情報を提出した者が訴追の対象となり得ると警告している。"
+        },
+        {
+          "pattern": "render someone liable to 〈制裁・手続き〉",
+          "use": "違反行為などが、法的な不利益の対象となる原因を作ると述べる。",
+          "example": "The rule states that deliberate concealment may render an applicant liable to prosecution.",
+          "translation": "その規則には、意図的な隠蔽により、申請者が訴追の対象となり得ると記されている。"
+        },
+        {
+          "pattern": "be liable to forfeiture",
+          "use": "物品・財産が法的な没収措置の対象となり得ることを示す。",
+          "example": "The notice states that the goods are liable to forfeiture.",
+          "translation": "その通知には、その物品が没収の対象となり得ると記されている。"
+        }
+      ],
+      "notes": [
+        "liable to a fine は「罰金の対象となり得る」、has been fined は「実際に罰金を科された」。この違いを消さない。liable to imprisonment for up to five years なら上限5年の拘禁の対象となり得るという意味で、すでに5年の刑が決まったとは限らない。liable for the fine は語義1の「その罰金を支払う責任がある」で、forとtoの意味役割が異なる。語義2・3と違い、この語義の「受けやすさ」は性格・材質などの弱点ではなく、法的な対象性に基づく。goods liable to forfeiture は物品が没収の対象となり得る意味であり、すでに没収されたと断定する表現ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "subject to",
+          "definition": "規則・制裁・手続きなどの適用を受ける立場にある。",
+          "frequency": 7,
+          "difference": "subject to a fine は近いが、subject to は review / approval など不利益でない手続きにも広く使う。",
+          "example": "Violations are subject to administrative penalties.",
+          "translation": "違反行為には、行政上の制裁が適用される。"
+        },
+        {
+          "word": "punishable",
+          "definition": "ある行為が、特定の刑罰を科し得るものとされている。",
+          "frequency": 4,
+          "difference": "通常は違反・犯罪を主語にし、punishable by / with 〈刑罰〉とする。人を主語にする liable to a fine と主語・前置詞が異なる。",
+          "example": "The offence is punishable by a fine.",
+          "translation": "その違反には、罰金が科され得る。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "immune",
+          "definition": "特定の訴追・責任などを免れる法的な保護を受けている。",
+          "frequency": 4,
+          "difference": "法的手続きの対象となり得る立場に対する、免責・免除による対象外という対立。誰に何の免責があるかは制度ごとに異なる。",
+          "example": "The ruling did not make the company immune from prosecution.",
+          "translation": "その判断によって、その会社が訴追を免れる立場になったわけではない。"
+        }
+      ]
+    }
+  ]
+}
