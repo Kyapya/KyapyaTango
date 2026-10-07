@@ -1,0 +1,668 @@
+{
+  "word": "complement",
+  "slug": "complement",
+  "ipa": "名詞：米: /ˈkɑːmplɪmənt/｜英: /ˈkɒmplɪmənt/",
+  "lead": "人・能力・製品・方法・色・味などが、別のものと組み合わさることで、その機能や魅力を高めたり、足りない面を補ったりする。単に「同じ」「似ている」ではなく、組み合わせとして役立つ点に焦点がある。能力が違う2人にも、よく調和する色にも使える。「元のものは単独では役に立たない」「全欠点がなくなる」という強い前提はない。人を主語にして、既存のものに役立つ要素を加える行",
+  "updated": "2026-10-07",
+  "notion_url": "https://app.notion.com/p/complement-3f24faa9b77d81fdb359ffa62a319c39",
+  "pronunciation": [
+    "動詞：米: /ˈkɑːmplɪment/｜英: /ˈkɒmplɪment/",
+    "いずれも3音節で、第1音節に主強勢がある。ここに示した米英の違いは第1音節の母音 /ɑː/ と /ɒ/。名詞と動詞の違いは第3音節の母音 /ə/ と /e/ であり、動詞でも主強勢を語末へ移さない。第2音節の母音を /ə/ とする発音・表記もある。compliment「ほめる、ほめ言葉」とは同音になることがあり、音だけで綴りを決めない。",
+    "活用は complements、complemented、complementing。complements の語尾は /s/、complemented の -ed は /ɪd/ となる。"
+  ],
+  "etymology": [
+    "中英語に入り、フランス語系の形とラテン語 complementum「満たすもの、完成させるもの」にさかのぼる。基になる complere は「満たす、完成させる」で、語源上の核は「足りないところを満たして全体を整えること」。complete「完成させる」、completion「完成」と同系で、compliment「ほめ言葉」も歴史的には同じラテン語に関係するが、現代の標準的な意味と綴りは区別する。英語の動詞は名詞からできたもの。"
+  ],
+  "formation": [
+    {
+      "term": "complementary（形容詞）",
+      "description": "補い合う、相補的な。complementary skills は「互いの持ち味を補う能力」。complimentary「ほめる、無料の」とは別語で、complimentary tickets は無料券、complementary services は組み合わせて役立つサービス。"
+    },
+    {
+      "term": "complementarity（名詞・不可算）",
+      "description": "相補性、補完関係。研究・経済・政策などの論述で使う、やや専門的な名詞。"
+    },
+    {
+      "term": "complementation（名詞・不可算）",
+      "description": "補完、文法上の補部の取り方、数学などで補を取る操作。分野ごとの専門的な意味があり、通常の「良い組み合わせ」を言うたびにこの名詞を使うわけではない。"
+    },
+    {
+      "term": "complementizer",
+      "description": "/ complementiser（名詞・可算）：補文標識。言語学で、一定の従属節を導く that などを指す。-izer は主に米式、-iser は英式で使われる綴り。"
+    }
+  ],
+  "core": [
+    {
+      "label": "「何かを補って全体を整えること、その補う部分、またはそろった全体」が共通核。組み合わせの良さから、定員・文構造・数学上の基準となる全体へ具体化する。語義9は制度的専門義で、特定の免疫タンパク質群を指す語彙的意味がこの核だけからは導けないため、個別に参照する。",
+      "description": ""
+    },
+    {
+      "label": "全体を整える組み合わせの働き",
+      "description": "→ 「補完する、引き立てる」（語義1）"
+    },
+    {
+      "label": "全体を整える組み合わせの一方",
+      "description": "→ 「補完するもの、引き立てるもの」（語義2）"
+    },
+    {
+      "label": "全体を整えるためにそろう人数・数量",
+      "description": "→ 「定員、総員、一式」（語義3）"
+    },
+    {
+      "label": "全体を整える文構造上の要素",
+      "description": "→ 「補語、補部」（語義4）"
+    },
+    {
+      "label": "全体を整える色の成分の補い合い",
+      "description": "→ 「補色」（語義5）"
+    },
+    {
+      "label": "全体を整える集合の残りの要素",
+      "description": "→ 「補集合、補事象」（語義6）"
+    },
+    {
+      "label": "全体を整える直角までの角度",
+      "description": "→ 「余角」（語義7）"
+    },
+    {
+      "label": "全体を整える基準数までの数値",
+      "description": "→ 「補数」（語義8）"
+    },
+    {
+      "label": "全体を整える各桁の補数化の操作",
+      "description": "→ 「ビットを反転する」（語義10）"
+    },
+    {
+      "label": "全体を整えるオクターブまでの音程",
+      "description": "→ 「補音程」（語義11）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞】補完する、引き立てる",
+      "frequency": 7,
+      "register": [
+        "標準的。職場の能力・役割分担、製品やサービスの組み合わせ、教育、服装、食事など。日常会話では go well with や work well together とも言う。"
+      ],
+      "definition": "人・能力・製品・方法・色・味などが、別のものと組み合わさることで、その機能や魅力を高めたり、足りない面を補ったりする。単に「同じ」「似ている」ではなく、組み合わせとして役立つ点に焦点がある。能力が違う2人にも、よく調和する色にも使える。「元のものは単独では役に立たない」「全欠点がなくなる」という強い前提はない。人を主語にして、既存のものに役立つ要素を加える行為も表す。",
+      "patterns": [
+        "〈人・能力・物〉 + complement + 〈人・能力・物〉＝主語が目的語を補う",
+        "〈複数の人・物〉 + complement each other＝互いに補い合う",
+        "complement 〈既存のもの〉 with 〈加えるもの〉＝後者を加えて前者を補完する",
+        "〈補われるもの〉 + be complemented by 〈補うもの〉＝通常の受動態",
+        "〈補われるもの〉 + be complemented with 〈加えられるもの〉＝加える内容に焦点を置く受動態",
+        "complement something well / perfectly＝組み合わせの良さを程度で表す。通常、目的語を直接取り、同じ意味で complement to something とはしない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "complement someone's skills",
+          "use": "ある人の能力に別の得意分野が加わることを述べる。",
+          "example": "Her experience in logistics complements my technical skills.",
+          "translation": "物流分野での彼女の経験は、私の技術的な能力を補ってくれる。"
+        },
+        {
+          "pattern": "complement each other",
+          "use": "役割や持ち味の異なる人・物が、互いに役立つ関係を表す。",
+          "example": "The two analysts complement each other: one spots patterns, while the other checks every detail.",
+          "translation": "その2人の分析担当者は、一方が傾向を見つけ、もう一方が細部を点検するという形で互いを補っている。"
+        },
+        {
+          "pattern": "complement existing services",
+          "use": "新しい事業を、既存サービスと組み合わせて役立てると説明する。",
+          "example": "The evening helpline will complement our existing daytime support services.",
+          "translation": "夜間の相談窓口は、既存の日中の支援サービスを補完することになる。"
+        },
+        {
+          "pattern": "complement 〈既存のもの〉 with 〈加えるもの〉",
+          "use": "人や組織が、補う要素を意図的に追加することを述べる。",
+          "example": "We complemented the written guide with short demonstration videos.",
+          "translation": "私たちは、文章の手引きに短い実演動画を加えて内容を補った。"
+        },
+        {
+          "pattern": "be complemented by 〈補うもの〉",
+          "use": "補われる側を主語にした受動態で、組み合わせを紹介する。",
+          "example": "The survey results are complemented by interviews with ten customers.",
+          "translation": "その調査結果は、顧客10人への聞き取りによって補完されている。"
+        },
+        {
+          "pattern": "be complemented with 〈加えられるもの〉",
+          "use": "既存のものに何が添えられたかを述べる。",
+          "example": "The main course was complemented with a selection of seasonal vegetables.",
+          "translation": "メイン料理には旬の野菜の盛り合わせが添えられ、料理を引き立てていた。"
+        },
+        {
+          "pattern": "complement 〈服・色・料理〉 perfectly",
+          "use": "色や味などの組み合わせがとてもよく合うと評価する。",
+          "example": "The sharp lemon dressing complements the rich fish perfectly.",
+          "translation": "酸味の効いたレモンドレッシングが、こくのある魚の味を絶妙に引き立てる。"
+        },
+        {
+          "pattern": "complement someone",
+          "use": "人の性格や仕事上の持ち味が、別の人の良さを生かすと述べる。",
+          "example": "As a co-leader, Maya complements Ben by turning his broad ideas into practical plans.",
+          "translation": "共同責任者として、マヤはベンの大まかな発想を具体的な計画に変えることで、彼の持ち味を補っている。"
+        }
+      ],
+      "notes": [
+        "「彼女の能力は私の能力を補う」は Her skills complement mine. とし、Her skills complement to mine. とはしない。一方、名詞なら Her skills are a complement to mine. となるので、to の有無は品詞で区別する（語義2）。complement each other の each other は相互関係を示し、再帰形 complement themselves に置き換えない。「彼をほめる」は compliment him、「仕事ぶりをほめる」は compliment him on his work。「彼の持ち味を補う」は complement him で、ほめ言葉を言ったという意味にはならない。complement と supplement はどちらも補うことを表せるが、前者は組み合わせや相補性、後者は追加・不足分の補充を前に出す。The handbook complements the training. は両者が役立ち合うという説明で、The handbook completes the training. なら研修を完成させるという別の主張になる。with の前後も区別し、We complemented the course with workshops. では workshops が追加要素、Workshops complemented the course. では同じ workshops が主語。be complemented by と be complemented with は受動構文であり、「補完された」を表す complemented を別の評価的な形容詞義と考える必要はない。限定用法の a well-complemented collection は文脈に応じた分詞表現で、通常の形容詞「相補的な」は complementary。complementing は通常の -ing 形で、句動詞を作る小辞はない。色彩用語の名詞「補色」は語義5、コンピューターの動詞「ビットを反転する」は語義10で、この一般義と区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "supplement",
+          "definition": "既存の量・内容に、追加分を加えて補う。",
+          "frequency": 7,
+          "difference": "足りない量や内容を追加する点が中心。complement のように、2つの持ち味がよく組み合わさることを特に強調しない。",
+          "example": "We supplemented the report with updated sales figures.",
+          "translation": "私たちは最新の売上数値を加えて報告書を補足した。"
+        },
+        {
+          "word": "enhance",
+          "definition": "質・価値・魅力などを高める。",
+          "frequency": 7,
+          "difference": "改善・向上の結果に焦点があり、別のものとの相補的な組み合わせでなくても使える。",
+          "example": "Better lighting enhanced the appearance of the display.",
+          "translation": "照明を改善したことで展示の見栄えが良くなった。"
+        },
+        {
+          "word": "complete",
+          "definition": "足りない部分を満たして、全体を完成させる。",
+          "frequency": 9,
+          "difference": "「完成する」という到達点を表す。complement は何かを良く補っても、完全な完成に至ったとは限らない。",
+          "example": "The final signature completed the application.",
+          "translation": "最後の署名で申請書が完成した。"
+        },
+        {
+          "word": "go well with",
+          "definition": "別のものと組み合わせたときに、よく合う。",
+          "frequency": 8,
+          "difference": "味・服装・色などについて使う会話的な表現。組織や能力の補完関係を論じるときは complement のほうが意味を明確に示せる。",
+          "example": "This pale green goes well with the wooden furniture.",
+          "translation": "この淡い緑は木製の家具によく合う。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算】補完するもの、引き立てるもの",
+      "frequency": 6,
+      "register": [
+        "標準的だが、説明文・商品紹介・提案書などで特に使う。経済分野で組み合わせて利用される財を complements「補完財」と呼ぶ用法もある。"
+      ],
+      "definition": "別の人・物・活動と組み合わせることで、全体の機能や魅力を高めるもの。また、互いに補い合う2つの要素の一方。日常的には付け合わせや装飾、職場では能力・資料・サービスなどについて使う。a perfect complement の perfect は組み合わせの良さを強める修飾で、complement 自体が必ず完全無欠を意味するわけではない。",
+      "patterns": [
+        "a complement to 〈人・物・活動〉＝それを補うもの",
+        "a perfect / useful / natural complement to something＝組み合わせの評価を加える",
+        "as a complement to something＝補完するものとして",
+        "a complement to each other＝互いを補うもの",
+        "complements＝複数の補完要素、経済では補完財。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a useful complement to 〈資料・方法〉",
+          "use": "既存の資料や方法と組み合わせる価値を説明する。",
+          "example": "The dashboard is a useful complement to the monthly written report.",
+          "translation": "そのダッシュボードは、月次の文章による報告書を補う有用な手段だ。"
+        },
+        {
+          "pattern": "a perfect complement to 〈物・料理〉",
+          "use": "ある物が別の物をよく引き立てると紹介する。",
+          "example": "The crisp salad was a perfect complement to the creamy pasta.",
+          "translation": "シャキシャキしたサラダは、クリーミーなパスタを引き立てる絶好の組み合わせだった。"
+        },
+        {
+          "pattern": "as a complement to 〈活動〉",
+          "use": "主要な活動に加えて行うものの位置付けを示す。",
+          "example": "We offer practice sessions as a complement to the lectures.",
+          "translation": "私たちは講義を補完するものとして、演習を用意している。"
+        },
+        {
+          "pattern": "a complement to each other",
+          "use": "2人などが、互いに足りない持ち味を補う関係を述べる。",
+          "example": "The two project leaders are a complement to each other, combining technical depth with clear communication.",
+          "translation": "その2人のプロジェクト責任者は、深い技術知識とわかりやすい意思伝達を組み合わせ、互いを補う関係にある。"
+        }
+      ],
+      "notes": [
+        "通常は可算で、単数なら a complement や the complement のように限定する。This tool is complement to our system. は This tool is a complement to our system. とする。a complement to the meal の to は「何を引き立てるか」を示す。語義3の a full complement of staff の of は「一式を構成するのは何か」を示すため、前置詞だけを取り替えない。動詞 This sauce complements the meal. と名詞 This sauce is a complement to the meal. は同じ関係を違う構造で表している。a compliment は「ほめ言葉」であり、I took it as a compliment.「ほめ言葉だと受け取った」では i を使う。経済で complements と substitutes「代替財」を対比するのは利用・需要上の関係であり、一般の補完要素すべてに substitute が反意語となるわけではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "supplement",
+          "definition": "既存のものを補う追加物・追加分。",
+          "frequency": 7,
+          "difference": "追加される位置付けを表す。complement は、元のものと組み合わせたときの相性や相補性を強く示せる。",
+          "example": "The booklet is a supplement to the main textbook.",
+          "translation": "その小冊子は主教材を補う追加教材だ。"
+        },
+        {
+          "word": "accompaniment",
+          "definition": "主なものに添えるもの、特に料理の付け合わせなど。",
+          "frequency": 5,
+          "difference": "付随して出される関係に焦点がある。complement は、添えることで全体が良くなる点を表す。",
+          "example": "Roasted potatoes make a good accompaniment to the chicken.",
+          "translation": "ローストポテトは、その鶏肉料理によく合う付け合わせになる。"
+        },
+        {
+          "word": "adjunct",
+          "definition": "主なものに加えて役立てる補助的なもの。",
+          "frequency": 4,
+          "difference": "主に文章で使い、補助的・付加的な位置付けを前に出す。complement は2つの要素をより対等な組み合わせとしても扱える。文法用語としての adjunct は語義4との対照で別に考える。",
+          "example": "The app is an adjunct to classroom teaching.",
+          "translation": "そのアプリは教室での授業を支える補助的な教材だ。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算】定員、総員、一式",
+      "frequency": 4,
+      "register": [
+        "ややフォーマル。人員配置、船舶・軍事、設備や装備の説明。生物学の a full complement of chromosomes「染色体の完全な一組」も、一式という同じ意味の応用。"
+      ],
+      "definition": "ある組織・船・活動などに必要な、予定された、または備わっている人数・数量・構成一式。人員については「定員」「配置人員」「総員」、物については「装備一式」などと訳す。a full complement は必要な人数・種類がそろっていることを明示する一方、a reduced complement は通常より少ない配置を表す。",
+      "patterns": [
+        "a full complement of 〈人員・装備〉＝必要な全員・一式",
+        "the normal / usual complement of 〈人員〉＝通常の配置人数",
+        "a reduced complement of 〈人員〉＝削減された配置人数",
+        "a complement of 〈人数〉＝その人数の人員構成",
+        "a ship's complement＝船の総員",
+        "complements of 〈人員・装備〉＝複数の集団や一式。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a full complement of staff",
+          "use": "業務に必要な人員がそろっていると説明する。",
+          "example": "The branch will reopen once it has a full complement of staff.",
+          "translation": "その支店は必要な人員がそろい次第、営業を再開する。"
+        },
+        {
+          "pattern": "a reduced complement of 〈人員〉",
+          "use": "通常より少ない人数で活動していると述べる。",
+          "example": "The vessel sailed with a reduced complement of crew members.",
+          "translation": "その船は通常より少ない乗組員で出航した。"
+        },
+        {
+          "pattern": "a complement of 〈人数〉",
+          "use": "配置された、または予定された人員の数を具体的に示す。",
+          "example": "The research station has a winter complement of twelve people.",
+          "translation": "その研究基地の越冬要員は12人だ。"
+        },
+        {
+          "pattern": "a full complement of 〈装備〉",
+          "use": "必要な道具や装備が一式そろっていると述べる。",
+          "example": "Each response vehicle carries a full complement of rescue equipment.",
+          "translation": "各出動車両には救助機材が一式積まれている。"
+        },
+        {
+          "pattern": "a ship's complement",
+          "use": "船に属する士官・船員を含めた総員を表す。",
+          "example": "The ship's complement assembled on deck for the safety briefing.",
+          "translation": "その船の総員が、安全説明を受けるため甲板に集まった。"
+        }
+      ],
+      "notes": [
+        "complement は「1人の補助者」を表す語ではない。a complement of twenty は20人からなる人員構成で、complement 自体を20人分の複数形にするわけではない。複数の船の人員構成なら their complements のように複数形になり得る。a full complement of staff の full は「必要な人員が全部いる」と明示するので冗長として削らない。reduced や partial が付けば、不足や縮小を表すため、「complement は常に充足済み」とも説明しない。a complement to the team は語義2の「チームを補う存在」、the team's complement はこの語義の「チームの人員構成」である。"
+      ],
+      "synonyms": [
+        {
+          "word": "contingent",
+          "definition": "ある目的で参加・派遣される一団。",
+          "frequency": 5,
+          "difference": "集団の人数を指す文脈で近いが、より大きな組織から来る参加団・派遣団という位置付けを表す。必要人数の全員がそろうとは限らない。",
+          "example": "A contingent of engineers arrived to support the local team.",
+          "translation": "現地チームを支援するため、技術者の一団が到着した。"
+        },
+        {
+          "word": "quota",
+          "definition": "割り当てられた人数・数量、受け入れの枠。",
+          "frequency": 5,
+          "difference": "許容・割当数という意味で近い。complement は実際の構成人員や装備一式も指せるが、quota は定められた枠に重点を置く。",
+          "example": "The program has filled its quota of trainees.",
+          "translation": "その研修プログラムは、受け入れ人数の枠が埋まった。"
+        },
+        {
+          "word": "set",
+          "definition": "一緒に用いる、またはひとまとまりになる物の一組。",
+          "frequency": 9,
+          "difference": "装備などの一式という意味で近い一般語。complement のような必要数・配置人数の含みは必ずしもない。",
+          "example": "Each technician received a complete set of tools.",
+          "translation": "各技術者に工具一式が支給された。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・可算】補語、補部",
+      "frequency": 4,
+      "register": [
+        "文法・言語学の専門語。日常の「補完資料」という意味とは区別する。"
+      ],
+      "definition": "文法で、主語や目的語の状態・身分などを述べる「補語」、または動詞・形容詞・前置詞などの主要部が取る「補部」。伝統的な文型の C と、言語学で広く使う complement は範囲が必ずしも同じではない。前者には subject complement「主格補語」、object complement「目的格補語」があり、後者には目的語や節、前置詞の後の名詞句などを含む分析もある。",
+      "patterns": [
+        "a subject complement＝主格補語",
+        "an object complement＝目的格補語",
+        "a complement of 〈動詞・前置詞など〉＝その主要部に支配・選択される補部",
+        "a complement clause＝補部として働く節",
+        "complements and adjuncts＝補部と付加部の対比。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a subject complement",
+          "use": "主語について性質や身分を述べる成分を指す。",
+          "example": "In \"The soup tastes salty,\" \"salty\" is a subject complement.",
+          "translation": "「そのスープは塩辛い味がする」という文の salty は主格補語だ。"
+        },
+        {
+          "pattern": "an object complement",
+          "use": "目的語について状態などを述べる成分を指す。",
+          "example": "In \"They painted the door blue,\" \"blue\" is an object complement.",
+          "translation": "「彼らはドアを青く塗った」という文の blue は目的格補語だ。"
+        },
+        {
+          "pattern": "a complement of 〈前置詞〉",
+          "use": "広い意味の補部として、前置詞が取る要素を説明する。",
+          "example": "In \"under the bridge,\" \"the bridge\" is a complement of the preposition \"under.\"",
+          "translation": "under the bridge では、the bridge は前置詞 under の補部だ。"
+        },
+        {
+          "pattern": "a complement clause",
+          "use": "動詞などの内容を補う節を指す。",
+          "example": "In \"We know that the office is closed,\" the that-clause is a complement clause.",
+          "translation": "「私たちはその事務所が閉まっていると知っている」という文の that 節は補部として働く節だ。"
+        }
+      ],
+      "notes": [
+        "「補語はすべて形容詞」「動詞の後なら何でも補語」と覚えない。伝統文法の subject complement は名詞句にもなり、広い complement には節などもある。広い意味での complement と adjunct「付加部」の区別は、主要部がその要素を選ぶかなどに基づく。必須か任意かは重要な手掛かりだが、文脈で省略できる補部もあるため、「消せれば必ず adjunct」とは断定できない。subject と object は何について述べる補語かを示す語であり、complement 自体の単複は one complement / two complements と通常どおり変わる。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞・可算】補色",
+      "frequency": 3,
+      "register": [
+        "色彩論・美術・デザイン・画像処理の専門語。"
+      ],
+      "definition": "ある色に対し、採用する色のモデルで補い合う関係にある色。色相環では向かい合う位置に置かれる。RGBの加法混色では、赤とシアン、緑とマゼンタ、青と黄が対応し、適切な強さで光を組み合わせると白色になる。単に「配色として似合う色」という美的評価を指すものではない。",
+      "patterns": [
+        "the complement of 〈色〉＝その色の補色",
+        "a color and its complement＝ある色とその補色。color は米式、colour は英式の綴り。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the complement of 〈色〉",
+          "use": "色のモデルを明示して、ある色の補色を述べる。",
+          "example": "In the RGB color model, cyan is the complement of red.",
+          "translation": "RGBカラーモデルでは、シアンは赤の補色だ。"
+        },
+        {
+          "pattern": "a color and its complement",
+          "use": "色相環上で対になる色の関係を説明する。",
+          "example": "On this RGB color wheel, a color and its complement lie directly opposite each other.",
+          "translation": "このRGBの色相環では、ある色とその補色は正反対に位置している。"
+        }
+      ],
+      "notes": [
+        "補色の組は、採用する色のモデル・色相環によって異なる。光のRGBと、絵画などで用いる伝統的な赤・黄・青の色相環を混同せず、どのモデルでも赤の相手が同じになるとは考えない。光を加える場合と絵の具を混ぜる場合では結果も異なり、「補色は混ぜると必ず白になる」と一般化しない。The blue trim complements the orange wall. のような一般動詞は、語義1の「引き立てる」を表すだけでも成立し、2色が特定モデルで厳密に補色であることを必須としない。"
+      ],
+      "synonyms": [
+        {
+          "word": "complementary color",
+          "definition": "指定された色と補色関係にある色。",
+          "frequency": 4,
+          "difference": "色彩の意味を明示した名詞句で、この専門義の complement と対応する。単独の complement にある文法・人員などの別義との曖昧さを避けられる。英式では complementary colour。",
+          "example": "Cyan is the complementary color of red in the RGB model.",
+          "translation": "RGBモデルでは、シアンは赤の補色だ。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【名詞・可算】補集合、補事象",
+      "frequency": 3,
+      "register": [
+        "集合論・確率の専門語。"
+      ],
+      "definition": "指定された全体集合のうち、ある集合に含まれない要素を集めた集合。確率では、ある事象が起こらない場合を集めた事象を指す。何に対する「残り全部」かを決める全体集合・標本空間が必要になる。",
+      "patterns": [
+        "the complement of 〈集合・事象〉＝その補集合・補事象",
+        "the complement of 〈集合〉 in 〈全体集合〉＝全体を明示した補集合",
+        "the relative complement of 〈集合A〉 in 〈集合B〉＝Bに属してAに属さない要素の集合。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the complement of 〈集合〉 in 〈全体集合〉",
+          "use": "どの全体の中で補集合を取るかを明示する。",
+          "example": "The complement of \\{1, 3\\} in \\{1, 2, 3, 4\\} is \\{2, 4\\}.",
+          "translation": "全体集合を \\{1, 2, 3, 4\\} としたとき、\\{1, 3\\} の補集合は \\{2, 4\\} だ。"
+        },
+        {
+          "pattern": "the complement of 〈事象〉",
+          "use": "ある事象が起こらない場合を確率で扱う。",
+          "example": "For one roll of a die, the complement of rolling a six is rolling any other number.",
+          "translation": "サイコロを1回振るとき、6が出るという事象の補事象は、それ以外の目が出ることだ。"
+        },
+        {
+          "pattern": "the relative complement of 〈集合A〉 in 〈集合B〉",
+          "use": "2つの集合の差を、基準となる集合との関係で述べる。",
+          "example": "The relative complement of A in B contains the elements of B that are not in A.",
+          "translation": "BにおけるAの相対補集合は、Bの要素のうちAには属さないものからなる。"
+        }
+      ],
+      "notes": [
+        "集合Aの補集合は、全体集合を変えると変わり得る。単なる「正反対の集まり」ではなく、指定された全体内での非所属によって決まる。確率で the complement of an event と言うときも、別の任意の事象ではない。記号には Aᶜ などを使うが、記法は資料によって異なる。relative complement は差集合の呼び方の一つであり、set difference と対応する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【名詞・可算】余角",
+      "frequency": 3,
+      "register": [
+        "幾何学の専門語。"
+      ],
+      "definition": "ある角と足すと90度、すなわち直角になる角。たとえば30度の角に対する余角は60度。",
+      "patterns": [
+        "the complement of 〈角〉＝その角の余角",
+        "an angle and its complement＝ある角とその余角。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the complement of 〈角〉",
+          "use": "指定された角に対して、90度までの残りを述べる。",
+          "example": "The complement of a 35-degree angle is a 55-degree angle.",
+          "translation": "35度の角の余角は55度の角だ。"
+        },
+        {
+          "pattern": "an angle and its complement",
+          "use": "2つの角の和が直角になる関係を説明する。",
+          "example": "An angle and its complement add up to 90 degrees.",
+          "translation": "ある角とその余角を足すと90度になる。"
+        }
+      ],
+      "notes": [
+        "日本語の「補角」は supplement で、和が180度になる角をいう。したがって complement を綴りにつられて「補角」と訳さない。形容詞の complementary angles は「互いに余角の関係にある角」、supplementary angles は「互いに補角の関係にある角」。両者は別の基準角を使う専門用語で、一般語としての反意語ではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【名詞・可算】補数",
+      "frequency": 3,
+      "register": [
+        "算術・コンピューターの専門語。"
+      ],
+      "definition": "数の表現で、ある数と組み合わせて所定の基準数を作る数。コンピューターでは、決められた桁数でビットを反転した ones' complement「1の補数」や、それに1を加えた two's complement「2の補数」が重要。何を基準に、何桁で取る補数かによって値が変わる。",
+      "patterns": [
+        "the ones' complement of 〈ビット列〉＝1の補数",
+        "the two's complement of 〈ビット列〉＝2の補数",
+        "the bitwise complement of 〈ビット列・整数〉＝各ビットを反転した結果",
+        "two's complement representation＝2の補数表現。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the ones' complement of 〈ビット列〉",
+          "use": "固定した桁数で、0と1を入れ替えた結果を示す。",
+          "example": "The ones' complement of the four-bit pattern 0011 is 1100.",
+          "translation": "4ビットのパターン0011の1の補数は1100だ。"
+        },
+        {
+          "pattern": "the two's complement of 〈ビット列〉",
+          "use": "ビット反転に1を加え、固定桁数で補数を求める。",
+          "example": "The two's complement of the four-bit pattern 0011 is 1101.",
+          "translation": "4ビットのパターン0011の2の補数は1101だ。"
+        },
+        {
+          "pattern": "the bitwise complement of 〈ビット列〉",
+          "use": "ビット単位の反転という操作の結果を述べる。",
+          "example": "The bitwise complement of the eight-bit pattern 00001111 is 11110000.",
+          "translation": "8ビットのパターン00001111をビット単位で反転すると11110000になる。"
+        }
+      ],
+      "notes": [
+        "1の補数と2の補数は同じではない。nビットなら、1の補数は各ビットを反転し、2の補数はさらに1を加えてnビットに収める。ビット列を符号付き整数としてどう読むかと、単にビットを反転する操作は区別する。言語や整数型によって桁幅・符号の扱いが違うので、「\\~ はどの言語でも指定した8ビットだけを反転する」と一般化しない。ones' complement と two's complement ではアポストロフィの位置も異なる表記が定着している。名詞前では two's-complement representation のようにハイフンを用いることもある。ビットを反転する操作を表す他動詞は語義10を参照する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 9,
+      "title": "【名詞・不可算】補体",
+      "frequency": 3,
+      "register": [
+        "免疫学・医学の専門語。"
+      ],
+      "definition": "免疫に関わり、相互に働いて感染防御や異物・細胞の除去などを助けるタンパク質群。血漿中や細胞表面にある成分を含む補体系の専門名称であり、一般的な「栄養補助物」や抗体そのものを指すわけではない。",
+      "patterns": [
+        "complement activation＝補体の活性化",
+        "complement proteins＝補体タンパク質",
+        "the complement system＝補体系",
+        "complement levels＝補体の測定値・量",
+        "complement deficiency＝補体欠損。"
+      ],
+      "collocations": [
+        {
+          "pattern": "complement activation",
+          "use": "補体系の反応が作動することを述べる。",
+          "example": "The experiment measured complement activation in the blood samples.",
+          "translation": "その実験では、血液試料中の補体の活性化を測定した。"
+        },
+        {
+          "pattern": "the complement system",
+          "use": "免疫機能を担う一連のタンパク質の仕組みを指す。",
+          "example": "The complement system helps the body remove microbes and damaged cells.",
+          "translation": "補体系は、体が微生物や傷んだ細胞を取り除くのを助ける。"
+        },
+        {
+          "pattern": "complement proteins",
+          "use": "補体系を構成する個々のタンパク質について述べる。",
+          "example": "The laboratory measured two complement proteins, C3 and C4.",
+          "translation": "その検査室では、C3とC4という2種類の補体タンパク質を測定した。"
+        }
+      ],
+      "notes": [
+        "この意味の complement は通常、物質・系をまとめた不可算名詞として扱う。個々の成分を数えるなら two complement proteins のようにする。the complement system の中心名詞は system であり、complement が可算になったのではない。補体と抗体は別のものなので、complement proteins を antibodies と機械的に言い換えない。また、補体の活性化が常に抗体を必要とするとは限らない。検査値の意味は検査項目や状況によるため、complement levels という語だけから病気の有無を判断することはできない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 10,
+      "title": "【動詞・他動詞】ビットを反転する",
+      "frequency": 2,
+      "register": [
+        "コンピューター・デジタル回路の専門語。機能や魅力を高める一般動詞義とは区別する。"
+      ],
+      "definition": "ビットの0を1に、1を0に入れ替える。ビット列を目的語にする場合は、その各ビットを反転する操作を指す。各桁で元の値に足すと1になる相手の値を作る関係で、結果は語義8の1の補数に対応する。",
+      "patterns": [
+        "complement 〈ビット・ビット列〉＝ビットを反転する",
+        "complement each bit＝各ビットを反転する",
+        "〈ビット・ビット列〉 + be complemented＝反転されるという受動態。"
+      ],
+      "collocations": [
+        {
+          "pattern": "complement each bit",
+          "use": "ビット列の各桁について、0と1を入れ替える操作を述べる。",
+          "example": "The circuit complements each input bit, changing 0 to 1 and 1 to 0.",
+          "translation": "その回路は各入力ビットを反転し、0を1に、1を0に変える。"
+        },
+        {
+          "pattern": "complement 〈ビット列〉",
+          "use": "処理の対象となるビット列を指定する。",
+          "example": "Complement the four-bit pattern 0101 to obtain 1010.",
+          "translation": "4ビットのパターン0101を反転して1010を得てください。"
+        },
+        {
+          "pattern": "be complemented",
+          "use": "反転される値やビットを主語にして処理を説明する。",
+          "example": "Each bit is complemented before one is added to form the two's complement.",
+          "translation": "2の補数を作るために1を加える前に、各ビットを反転する。"
+        }
+      ],
+      "notes": [
+        "complement the bits はビットを「補完して性能を高める」という語義1ではない。また、ビット反転だけで2の補数を求め終えたことにはならず、固定桁数の2の補数では、反転後に1を加えてその桁数に収める。名詞の the complement of a bit pattern は結果、動詞 complement a bit pattern は操作を表す（語義8）。be complemented は通常の受動態で、独立した状態形容詞として新しい意味を持つわけではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "invert",
+          "definition": "ビットの0と1を反転する。",
+          "frequency": 4,
+          "difference": "この技術的な意味では complement とほぼ同じ。invert は配置・順序・数値関係を逆にする別の意味もあるので、ビット反転の対象と文脈を明示する。",
+          "example": "The NOT operation inverts every bit in the input pattern.",
+          "translation": "NOT演算は入力パターンのすべてのビットを反転する。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 11,
+      "title": "【名詞・可算】補音程",
+      "frequency": 2,
+      "register": [
+        "音楽理論の専門語。一般的な「伴奏」の意味ではない。"
+      ],
+      "definition": "ある音程と組み合わせて1オクターブを満たす音程。単音程を転回したときの音程に対応し、たとえば長3度に対する短6度がこれに当たる。",
+      "patterns": [
+        "the complement of 〈音程〉＝その補音程",
+        "an interval and its complement＝ある音程とその補音程。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the complement of 〈音程〉",
+          "use": "オクターブを満たすための残りの音程を示す。",
+          "example": "A minor sixth is the complement of a major third.",
+          "translation": "短6度は長3度の補音程だ。"
+        },
+        {
+          "pattern": "an interval and its complement",
+          "use": "音程と転回で得られる音程の関係を説明する。",
+          "example": "An interval and its complement together span an octave.",
+          "translation": "ある音程とその補音程を合わせると1オクターブになる。"
+        }
+      ],
+      "notes": [
+        "音程の度数は両端を数えるので、3度と6度で8度に達する。数字だけを通常の足し算として「3＋6＝9度」と扱わない。長・短の区別も必要で、長3度の補音程は短6度。音楽の文でも、The piano complements her voice. なら語義1の「ピアノが声を引き立てる」であり、専門語の補音程ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "inversion",
+          "definition": "音程を転回すること、またはその転回で得られる音程。",
+          "frequency": 2,
+          "difference": "ここでは単音程の転回によって得られる音程を指す意味で近い。complement は元の音程と合わせてオクターブを満たす関係を表し、inversion は転回の操作にも焦点を置く。和音の転回など、別の音楽用法すべてが同義になるわけではない。",
+          "example": "The inversion of a major third is a minor sixth.",
+          "translation": "長3度を転回すると短6度になる。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
