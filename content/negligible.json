@@ -1,0 +1,190 @@
+{
+  "word": "negligible",
+  "slug": "negligible",
+  "ipa": "米: /ˈneɡ.lə.dʒə.bəl/｜英: /ˈneɡ.lɪ.dʒə.bəl/。いずれも4音節で、第1音節 /neɡ/ に主強勢がある。ここに示した米英形の違いは第2音節の母音で、米は /ə/、英は /ɪ/。米でも第2音節を /ɪ/ とする発音がある。第3音節は /dʒə/ で始まり、第1音節末の硬い /ɡ/ とは子音が異なる。第4音節の母音は弱い /ə/。negligent は通常3音節で、語尾も異なる。",
+  "lead": "量・差・影響・重要性などが、その目的や比較対象に照らして、ほとんど考慮しなくてよいほど小さいこと。単に small「小さい」と述べるだけでなく、実際の判断への影響も小さいと評価する。ゼロであることや、どんな条件でも問題にならないことまでは意味しない。negligible loss は好都合になりやすく、negligible improvement は期待外れ",
+  "updated": "2026-10-07",
+  "notion_url": "https://app.notion.com/p/negligible-3f24faa9b77d8149b094e2d8e30ef44a",
+  "pronunciation": [],
+  "etymology": [
+    "ラテン語 neglegere / negligere「顧みない、放置する」の系統の語幹と、可能性を表す -ible に結び付く語。「顧みなくてよいほど小さい」という意味核を持つが、現代語では「注意を怠っている」ではなく、対象の大きさ・重要性がごく小さいことを表す。",
+    "neglect「放置する、怠る」、negligent「不注意な、怠慢な」、negligence「不注意、過失」も同じ系統。語源は共有していても、negligible は対象の重要性、negligent は行為者の注意の不足を述べるため、意味は取り違えない。"
+  ],
+  "formation": [
+    {
+      "term": "negligibly",
+      "description": "は副詞で「無視できるほどわずかに」。negligibly small differences「無視できるほど小さな差」、differ negligibly「違いがごくわずかである」のように使う。"
+    },
+    {
+      "term": "non-negligible",
+      "description": "/ nonnegligible は形容詞で「無視できない」。考慮する必要があることを表し、必ずしも「大きい」「重大だ」とまではいわない。"
+    },
+    {
+      "term": "negligibility",
+      "description": "は名詞で「無視できるほど小さいこと」。主に技術的・学術的な文章で使い、一般的な報告では the effect is negligible のように形容詞で述べることが多い。"
+    }
+  ],
+  "core": [],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【形容詞】無視できるほど小さい、ごくわずかな、取るに足らない",
+      "frequency": 7,
+      "register": [
+        "中立～やや改まった表現。業務報告、費用比較、分析、技術的な説明など。何を基準に無視できるかを明示すると正確に伝わる。"
+      ],
+      "definition": "量・差・影響・重要性などが、その目的や比較対象に照らして、ほとんど考慮しなくてよいほど小さいこと。単に small「小さい」と述べるだけでなく、実際の判断への影響も小さいと評価する。ゼロであることや、どんな条件でも問題にならないことまでは意味しない。negligible loss は好都合になりやすく、negligible improvement は期待外れになりやすいなど、望ましさは修飾する対象と文脈で決まる。",
+      "patterns": [
+        "a negligible 〈amount / difference / effect〉、negligible 〈costs / benefits〉＝無視できるほど小さい量・差・影響・費用・利点",
+        "something + be / seem / remain / become negligible＝無視できるほど小さい状態を述べる",
+        "have a negligible effect on something＝対象にほとんど影響しない",
+        "a negligible difference between A and B＝二者間の差がごく小さい",
+        "be negligible compared with / to something＝比較対象に比べて無視できるほど小さい",
+        "a negligible proportion of something＝全体に対してごく小さい割合",
+        "be far from / by no means negligible＝決して無視できない。限定・叙述の両方で使い、主語・被修飾語は通常、量・費用・変化・役割など。virtually / almost negligible などの程度修飾も可能。通常の比較では smaller / less important などを使うことが多いが、more negligible という文脈上の比較もあり、比較不能と断定しない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a negligible amount of something",
+          "use": "量が判断上ほぼ問題にならないほど小さいことを示す。",
+          "example": "The update uses a negligible amount of additional storage.",
+          "translation": "その更新で追加使用する保存容量は、ごくわずかだ。"
+        },
+        {
+          "pattern": "have a negligible effect on something",
+          "use": "変更などが結果に与える影響がほとんどないと述べる。",
+          "example": "The change in packaging had a negligible effect on total sales.",
+          "translation": "包装の変更が総売上に与えた影響は、ごくわずかだった。"
+        },
+        {
+          "pattern": "a negligible difference between A and B",
+          "use": "比較している二つの対象に、実用上大きな差がないと述べる。",
+          "example": "There was a negligible difference between the two methods in processing time.",
+          "translation": "二つの方法の処理時間には、無視できるほどの差しかなかった。"
+        },
+        {
+          "pattern": "be negligible compared with something",
+          "use": "絶対額だけでなく、比較対象との関係で小ささを評価する。",
+          "example": "The printing cost is negligible compared with the total training budget.",
+          "translation": "印刷費は、研修予算の総額と比べれば無視できるほど小さい。"
+        },
+        {
+          "pattern": "a negligible proportion of something",
+          "use": "全体に占める割合がごく小さいことを示す。",
+          "example": "Paper forms now account for a negligible proportion of all submissions.",
+          "translation": "現在、提出全体に占める紙の申請書の割合はごくわずかだ。"
+        },
+        {
+          "pattern": "negligible growth",
+          "use": "成長はあっても、実質的にほとんど伸びていないと述べる。",
+          "example": "Despite the campaign, the number of subscribers showed negligible growth.",
+          "translation": "キャンペーンを実施したにもかかわらず、登録者数の増加はごくわずかだった。"
+        },
+        {
+          "pattern": "become negligible",
+          "use": "規模や条件の変化によって、影響が考慮するほどではなくなることを示す。",
+          "example": "As the number of orders increases, the setup cost per order becomes negligible.",
+          "translation": "注文件数が増えるにつれて、一件当たりの準備費用は無視できるほど小さくなる。"
+        },
+        {
+          "pattern": "a negligible risk of something",
+          "use": "明示された評価や条件のもとで、リスクが非常に小さいと述べる。",
+          "example": "Under the test conditions, the engineers judged the risk of data loss to be negligible.",
+          "translation": "その試験条件のもとでは、技術者たちはデータ損失のリスクを無視できるほど小さいと判断した。"
+        },
+        {
+          "pattern": "be by no means negligible",
+          "use": "小さく見えても考慮から外せないことを強調する。",
+          "example": "The extra time required for manual checks is by no means negligible.",
+          "translation": "手作業の確認に追加で必要となる時間は、決して無視できない。"
+        },
+        {
+          "pattern": "a negligible role in something",
+          "use": "数量だけでなく、役割や寄与の小ささを述べる。",
+          "example": "Advertising played a negligible role in the product's success; most buyers came through recommendations.",
+          "translation": "購入者の大半は紹介を通じて来ており、製品の成功に広告が果たした役割はごく小さかった。"
+        }
+      ],
+      "notes": [
+        "negligible は「ゼロ」ではなく「この判断では無視できるほど小さい」という評価。The error is negligible. は「誤差が無視できるほど小さい」であり、「誤差が存在しない」とは限らない。a negligible risk も「発生は不可能」「対策は不要」という保証にはならない。negligible と negligent を区別し、The cost was negligible.「費用はごくわずかだった」に対して、The clerk was negligent in checking the records. は「担当者は記録の確認を怠った」。人について negligent を使うべき場面で negligible とすると、その人の存在や重要性が取るに足らないという侮蔑的な読みになりうる。副詞が必要な negligibly small を negligible small としない。negligible は数量・影響に対する実用上の判断であり、statistically insignificant「統計的に有意ではない」と自動的に同義にはならない。ごく小さい効果でも統計的に有意な場合はあり、有意でない結果だけから効果がごく小さいとも結論できない。not negligible / non-negligible は「無視できない」までを表し、「非常に大きい」まで強めない。negligible に very などの程度修飾が付く用例もあるが、基準や数値を示せる場面では almost / practically negligible、small enough to ignore なども含め、意図した程度を明確にする。比較・範囲を示す句は省略可能で、negligible 自体が特定の前置詞や to 不定詞を必須補語として要求するわけではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "insignificant",
+          "definition": "重要性や大きさが乏しく、目立った意味を持たない。",
+          "frequency": 7,
+          "difference": "negligible に近いが、地位・人物・出来事の重要性など、数えにくい評価にも広く使う。統計分野の insignificant は専門的な意味なので別途判断する。",
+          "example": "The difference in price was insignificant in relation to the overall cost.",
+          "translation": "全体の費用から見れば、価格差は取るに足らないものだった。"
+        },
+        {
+          "word": "trivial",
+          "definition": "重要でなく、取り上げる価値が小さい。",
+          "frequency": 7,
+          "difference": "問題・細部などを「つまらない、些細な」と低く評価しやすい。negligible は量や影響を分析的に小さいと述べる場合にも使う。",
+          "example": "We should not delay the launch over a trivial formatting issue.",
+          "translation": "些細な書式上の問題で、公開を遅らせるべきではない。"
+        },
+        {
+          "word": "minimal",
+          "definition": "ごく少ない、または必要・可能な最小限の。",
+          "frequency": 8,
+          "difference": "量や程度の小ささに焦点があり、最小限でも重要なものはある。negligible は考慮しなくてよいほど小さいという判断まで含みやすい。",
+          "example": "The software requires minimal setup before use.",
+          "translation": "そのソフトウェアは、使用前に最小限の設定をするだけでよい。"
+        },
+        {
+          "word": "slight",
+          "definition": "程度・大きさがわずかな。",
+          "frequency": 8,
+          "difference": "小さいという程度だけを述べ、無視してよいとは限らない。a slight error が用途によって重要な誤りになることもある。",
+          "example": "There was a slight increase in the response time.",
+          "translation": "応答時間がわずかに長くなった。"
+        },
+        {
+          "word": "marginal",
+          "definition": "変化・差・利益などが小さい。",
+          "frequency": 6,
+          "difference": "marginal improvement などではわずかな程度を表し、negligible と近い。ただし小さい改善に価値を認めることもできる。周辺的な、限界の、といった別義も持つ。",
+          "example": "The new design offered only a marginal improvement in battery life.",
+          "translation": "新しい設計による電池持ちの改善は、わずかなものにとどまった。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "significant",
+          "definition": "考慮すべき大きさ・重要性を持つ。",
+          "frequency": 9,
+          "difference": "大きさ・重要性の程度の軸での反対。ここでは一般的な「重要な、かなりの」であり、統計的有意性という専門義に限定しない。",
+          "example": "The delay had a significant effect on our costs.",
+          "translation": "その遅れは、私たちの費用に大きな影響を与えた。"
+        },
+        {
+          "word": "substantial",
+          "definition": "量・程度がかなり大きい。",
+          "frequency": 8,
+          "difference": "量や規模の軸での反対で、negligible よりかなり大きな程度を表す。無視できる水準を少し上回るだけなら、必ず substantial と呼べるわけではない。",
+          "example": "The revised schedule produced substantial savings.",
+          "translation": "改訂した日程によって、大幅な節約が実現した。"
+        },
+        {
+          "word": "appreciable",
+          "definition": "はっきり認められるほどの量・程度がある。",
+          "frequency": 5,
+          "difference": "無視できない程度の大きさという軸での反対。substantial ほど大幅である必要はなく、気付く・考慮するに足る大きさを表す。",
+          "example": "The upgrade made an appreciable difference to performance.",
+          "translation": "その更新で、性能にはっきり分かる改善があった。"
+        },
+        {
+          "word": "non-negligible",
+          "definition": "無視できるほど小さいとはいえない。",
+          "frequency": 4,
+          "difference": "同じ文脈・基準での無視可能性を否定する補完的な対立。「非常に大きい」と強く評価する語ではない。",
+          "example": "Even a short outage can impose a non-negligible cost on a busy retailer.",
+          "translation": "繁忙な小売店では、短いサービス停止でも無視できない費用が発生しうる。"
+        }
+      ]
+    }
+  ]
+}
