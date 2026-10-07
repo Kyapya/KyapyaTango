@@ -1,0 +1,746 @@
+{
+  "word": "provision",
+  "slug": "provision",
+  "ipa": "米・英: /prəˈvɪʒən/。3音節で、主強勢は第2音節。第1音節と第3音節の母音は弱い /ə/、第2音節は /ɪ/。綴りの s は /ʒ/ で、/s/ や /ʃ/ ではない。名詞と動詞で強勢は変わらない。provisions は /prəˈvɪʒənz/、provisioned は /prəˈvɪʒənd/ で、語尾の -s、-ed は新しい音節を増やさない。",
+  "lead": "必要な物、サービス、設備などを供給したり、利用できる状態にしたりすること。また、そうして利用可能になっているサービスや供給の体制・量を指す。公共サービスにも企業のサービスにも使え、無償であることや十分な量があることまでは意味しない。",
+  "updated": "2026-10-07",
+  "notion_url": "https://app.notion.com/p/provision-3f24faa9b77d81368565d8c79b8481f4",
+  "pronunciation": [],
+  "etymology": [
+    "フランス語を経て、ラテン語 provisio「先を見通すこと、備え」に由来する。基となる providere は pro-「前もって」と videre「見る」から成り、「必要を先に見越して手当てする」という発想を持つ。名詞から、必要な物資などを与える動詞の用法も生まれた。",
+    "provide「提供する、備える」と同じ系統で、vision「視覚、展望」と evidence「証拠」も videre にさかのぼる。語源は理解の手掛かりだが、現代の条項・会計・ITの意味を語源だけから決めない。"
+  ],
+  "formation": [
+    {
+      "term": "provide",
+      "description": "動詞「提供する、備える」。provide something to/for someone、provide someone with something が基本。名詞 provision と関係するが、動詞 provision と目的語の置き方が常に同じではない。"
+    },
+    {
+      "term": "provisions",
+      "description": "名詞の複数形。「食料・補給品」の定着した用法のほか、「条項」「備え」「引当額」などの複数にもなる。"
+    },
+    {
+      "term": "provisioned",
+      "description": "動詞の過去形・過去分詞。分野により「物資を補給した・された」「利用可能に設定した・された」「引き当てた・られた」。"
+    },
+    {
+      "term": "provisioning",
+      "description": "現在分詞・動名詞。物資の補給のほか、ITではリソース・アカウントの作成や利用準備、会計では引当処理を指す名詞的用法がある。"
+    },
+    {
+      "term": "provisional",
+      "description": "形容詞「暫定的な、仮の、後で変更され得る」。a provisional agreement「暫定合意」であって、単に「提供された」「条項に関する」という形容詞ではない。"
+    },
+    {
+      "term": "provisionally",
+      "description": "副詞「暫定的に、仮に」。provisionally approved「暫定的に承認された」のように使う。"
+    },
+    {
+      "term": "deprovision",
+      "description": "主にITの動詞「リソースやアカウントの利用設定を解除する、割り当てを取り消す」。常にデータを完全消去するとは限らず、具体的な操作はサービスによる。"
+    }
+  ],
+  "core": [
+    {
+      "label": "必要を満たしたり、事態に対応したりできるように、物・仕組み・取り決めを用意しておく。会計の用法での「備え」は帳簿上の処理であり、現金を実際に別置きすることを共通条件としない。",
+      "description": ""
+    },
+    {
+      "label": "必要への手当てとしての物・サービスの供給",
+      "description": "→ 「提供、供給、提供体制」（語義1）"
+    },
+    {
+      "label": "必要への手当てとしての事前の準備",
+      "description": "→ 「備え、準備、配慮」（語義2）"
+    },
+    {
+      "label": "必要への手当てとしての文書上の取り決め",
+      "description": "→ 「条項、規定、取り決め」（語義3）"
+    },
+    {
+      "label": "必要への手当てとして用意した食料や物資",
+      "description": "→ 「食料、補給品」（語義4）"
+    },
+    {
+      "label": "必要への手当てとしての会計上の費用等の計上",
+      "description": "→ 「引当、引当金、費用計上額」（語義5）"
+    },
+    {
+      "label": "必要への手当てとして行う物資の供給",
+      "description": "→ 「食料・物資を補給する」（語義6）"
+    },
+    {
+      "label": "必要への手当てとして行うITの利用準備",
+      "description": "→ 「利用できるように準備・設定する」（語義7）"
+    },
+    {
+      "label": "必要への手当てとして行う引当処理",
+      "description": "→ 「損失などに備えて引当処理を行う」（語義8）"
+    },
+    {
+      "label": "必要への手当てとして行う金額の計上",
+      "description": "→ 「金額を引き当てる、引当計上する」（語義9）"
+    },
+    {
+      "label": "必要への手当てとして行う債権への引当処理",
+      "description": "→ 「債権・融資に引当処理を行う」（語義10）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・主に不可算】提供、供給、提供体制",
+      "frequency": 7,
+      "register": [
+        "やや改まった一般語。業務報告、行政、教育、福祉、施設・サービスの説明で使う。とくに英式の行政・教育文書で、提供体制を指す単独の provision や複合名詞をよく見る。"
+      ],
+      "definition": "必要な物、サービス、設備などを供給したり、利用できる状態にしたりすること。また、そうして利用可能になっているサービスや供給の体制・量を指す。公共サービスにも企業のサービスにも使え、無償であることや十分な量があることまでは意味しない。",
+      "patterns": [
+        "the provision of 〈物・サービス〉＝何を供給するか、the provision of 〈物・サービス〉 to/for 〈利用者〉＝供給対象を加える。service/healthcare/housing provision のような複合名詞もある。adequate/improved/limited provision、provision for 〈利用者・必要〉 として体制の充足や対象を表す。行為全般は主に不可算で、一つの具体的な提供・設備として捉えた場合には可算の用法もある。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the provision of 〈サービス〉",
+          "use": "何の提供を担当するかを説明する。",
+          "example": "The department is responsible for the provision of technical support.",
+          "translation": "その部署は、技術サポートの提供を担当している。"
+        },
+        {
+          "pattern": "the provision of 〈物・サービス〉 to 〈利用者〉",
+          "use": "提供されるものと受け手を区別して示す。",
+          "example": "The agreement covers the provision of training to new employees.",
+          "translation": "その契約は、新入社員への研修の提供を対象としている。"
+        },
+        {
+          "pattern": "service provision",
+          "use": "個々のサービスではなく、提供全体の仕組みや質を評価する。",
+          "example": "The review identified gaps in service provision across the region.",
+          "translation": "その調査によって、地域全体のサービス提供体制に不足があることが分かった。"
+        },
+        {
+          "pattern": "childcare provision",
+          "use": "保育サービスが利用できる体制を述べる。",
+          "example": "Better childcare provision would help more parents return to work.",
+          "translation": "保育サービスの提供体制が充実すれば、より多くの親の職場復帰を後押しできるだろう。"
+        },
+        {
+          "pattern": "adequate provision for 〈利用者〉",
+          "use": "特定の人々が必要な支援を受けられるかを評価する。",
+          "example": "The facility offers adequate provision for visitors with mobility difficulties, including ramps and accessible toilets.",
+          "translation": "その施設は、スロープや利用しやすいトイレなど、移動に不自由のある来場者への設備・対応を十分に備えている。"
+        }
+      ],
+      "notes": [
+        "of は提供内容、to/for は受け手・目的を示すことが多い。the provision of training は「研修の提供」、provision for training は文脈によって「研修に備えた手配・予算」になり、語義2に近づく。動詞 provide を名詞の位置に置かず、誤: the provide of services → 正: the provision of services。行為全般を指すなら通常 some provision / the provision of ... とし、何を一つと数えるか不明なまま a provision を付けない。ただし具体的な提供物や手配を数える用法があるため、「この語は絶対に不可算」とはしない。provision of services は名詞句であり、語義7などの動詞 provision と同じ語順だと誤解しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "supply",
+          "definition": "必要な物やサービスを供給すること、または供給される量。",
+          "frequency": 8,
+          "difference": "provision と重なるが、物資・エネルギーなどの流れや量にも焦点を当てる。provision はサービスを利用できるようにする体制全体にも使いやすい。",
+          "example": "The storm disrupted the supply of electricity to the town.",
+          "translation": "嵐によって、その町への電力供給が途絶えた。"
+        },
+        {
+          "word": "delivery",
+          "definition": "サービスを実際に利用者へ届け、実施すること。",
+          "frequency": 7,
+          "difference": "この用法では service delivery として、提供の実行や届き方を強調する。provision は供給責任や利用可能な体制を含めて広く捉えられる。",
+          "example": "The project aims to improve the delivery of online support.",
+          "translation": "その事業は、オンライン支援の提供方法の改善を目指している。"
+        },
+        {
+          "word": "furnishing",
+          "definition": "必要な物や情報を与えること。",
+          "frequency": 4,
+          "difference": "改まった名詞的用法で、the furnishing of information のように具体的な情報・物の提供を表す。公共サービスの供給体制全体を指す provision と常に置き換えられるわけではない。",
+          "example": "The fee covers the furnishing of all necessary documents.",
+          "translation": "その料金には、必要な書類すべての提供が含まれる。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・不可算／可算】備え、準備、配慮",
+      "frequency": 7,
+      "register": [
+        "一般語だがやや改まった表現。業務計画、施設設計、将来の生活、リスクへの備えなどで使う。"
+      ],
+      "definition": "今後必要になるもの、起こり得る事態、人の生活などに対応できるように、前もって手配・計画・資金などを整えること。また、その具体的な手配。お金に関する備えが多いが、予算だけに限らず、設計上の余地や代替手順を用意することも含む。",
+      "patterns": [
+        "make provision for something/someone、make provision for 〈動名詞〉 が中心。make provisions for ... と複数形にもでき、具体的な手配をいくつか捉える。make adequate/sufficient/no provision for ...、include provision for ...、make provision against 〈好ましくない事態〉 も使う。make provision for someone to do something は「人が行動できるような手配」、make provisions to do something は「行動するための準備」を表す。for 以下が文脈上明らかなら省ける。"
+      ],
+      "collocations": [
+        {
+          "pattern": "make provision for 〈将来の必要・事態〉",
+          "use": "計画の段階で必要な余地や資源を確保する。",
+          "example": "The design makes provision for future expansion of the warehouse.",
+          "translation": "その設計は、倉庫の将来の拡張に備えたものになっている。"
+        },
+        {
+          "pattern": "make provision for 〈動名詞〉",
+          "use": "今後必要になる行動への備えを述べる。",
+          "example": "We must make provision for replacing equipment as it reaches the end of its useful life.",
+          "translation": "私たちは、設備が耐用期間の終わりを迎える際に交換できるよう、備えておかなければならない。"
+        },
+        {
+          "pattern": "make provision for someone",
+          "use": "人の将来の生活や必要を支える手配を示す。",
+          "example": "He made provision for his family before leaving his salaried job.",
+          "translation": "彼は勤めを辞める前に、家族の生活を支えるための備えをした。"
+        },
+        {
+          "pattern": "make provisions for 〈事態〉",
+          "use": "具体的な手配を複数形で述べる。",
+          "example": "The organizers made provisions for bad weather, including an indoor venue and covered walkways.",
+          "translation": "主催者は、屋内会場や屋根付き通路など、悪天候に備えた手配をした。"
+        },
+        {
+          "pattern": "make no provision for 〈必要〉",
+          "use": "計画がある必要を考慮していないと指摘する。",
+          "example": "The original budget made no provision for staff training.",
+          "translation": "当初の予算には、職員研修への備えが盛り込まれていなかった。"
+        },
+        {
+          "pattern": "make provision against 〈好ましくない事態〉",
+          "use": "損害や混乱をもたらす事態への防備を示す。",
+          "example": "The emergency plan makes provision against prolonged power failures.",
+          "translation": "その緊急計画は、長時間の停電に備えた対策を盛り込んでいる。"
+        },
+        {
+          "pattern": "make provision for someone to do something",
+          "use": "誰が何をできるように手配するのかを明示する。",
+          "example": "The plan makes provision for employees to work remotely during the renovation.",
+          "translation": "その計画は、改装中に従業員が在宅勤務できるように手配している。"
+        },
+        {
+          "pattern": "make provisions to do something",
+          "use": "実施予定の行動に向けて準備をすることを述べる。",
+          "example": "The company made provisions to continue essential services during the move.",
+          "translation": "会社は、移転中も必要不可欠なサービスを継続するための準備を整えた。"
+        }
+      ],
+      "notes": [
+        "make provision for は通常、冠詞なしの不可算形で覚えるとよいが、make provisions for も正しい。複数形だから必ず語義4の食料を指すわけではない。for は前置詞なので、誤: make provision for replace the equipment → 正: make provision for replacing the equipment。ただし別の成立する型として make provisions to replace the equipment があり、to 不定詞すべてを誤りとしない。take provisions は物資を持っていく意味に読まれやすく、「備えをする」の基本は make provision(s)。「損失への備え」は一般的な準備を指す場合と、語義5の具体的な会計処理を指す場合がある。単に budget、money という語があるだけで引当金の計上と決め付けない。make provision for the unexpected は想定外への備えをすることで、あらゆる事態に十分対応できるという保証ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "arrangement",
+          "definition": "物事を実行できるようにする手配・取り決め。",
+          "frequency": 8,
+          "difference": "複数の arrangements で具体的な実施方法を述べることが多い。provision は必要や不測の事態を見越した手当てに焦点を当てやすい。",
+          "example": "We have made arrangements for temporary office space.",
+          "translation": "私たちは、仮のオフィスの手配を済ませた。"
+        },
+        {
+          "word": "preparation",
+          "definition": "行動や出来事に向けて準備すること、またはその作業。",
+          "frequency": 8,
+          "difference": "練習や資料作成なども広く含む。provision は何かが必要になったときに使える手段や資源を確保する点が中心になりやすい。",
+          "example": "Careful preparation helped the team handle the inspection smoothly.",
+          "translation": "入念な準備のおかげで、チームは検査に円滑に対応できた。"
+        },
+        {
+          "word": "allowance",
+          "definition": "計画・見積もりで、ある事情を考慮して設ける余裕や調整。",
+          "frequency": 6,
+          "difference": "make allowance for delays のように、遅れなどを計算に入れる意味で重なる。provision は追加設備や具体的な対策を用意することも含む。",
+          "example": "The schedule includes an allowance for unexpected delays.",
+          "translation": "その日程には、予期しない遅れに備えた余裕が設けられている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算】条項、規定、取り決め",
+      "frequency": 7,
+      "register": [
+        "法律・契約・規則・正式な取り決め。仕事上の合意条件にも使う。具体的な法的効果は該当文書と適用される制度によって決まる。"
+      ],
+      "definition": "法律、契約、規則、合意などに盛り込まれた個々の定め。義務だけでなく、権利、許可、例外、手続き、条件なども内容になり得る。何かが起こる前に満たす必要のある条件を指すことはあるが、すべての provision がそのような前提条件であるわけではない。",
+      "patterns": [
+        "a provision in/of 〈契約・法律など〉、the provisions of 〈文書〉。include/contain/insert a provision、under the provisions of ... が典型。a provision for 〈手続き・対応〉、a provision on 〈主題〉 と内容を示せる。a provision that 〈完全な節〉 は規定内容を述べ、a provision that allows/requires ... の that は provision を先行詞とする関係代名詞。with the provision that 〈条件の節〉 は、合意に付く条件を示す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "include a provision for 〈手続き・対応〉",
+          "use": "契約などに何に関する定めがあるかを示す。",
+          "example": "The contract includes a provision for early termination by either party.",
+          "translation": "その契約には、どちらの当事者からでも中途解約できる旨の条項が含まれている。"
+        },
+        {
+          "pattern": "under the provisions of 〈文書〉",
+          "use": "文書の定めを根拠として説明する。",
+          "example": "Under the provisions of the lease, the tenant must obtain written permission before making alterations.",
+          "translation": "その賃貸借契約の規定により、借主は改装を行う前に書面の許可を得なければならない。"
+        },
+        {
+          "pattern": "a provision that 〈規定内容の節〉",
+          "use": "条項の内容を、that 以下の完全な文で明示する。",
+          "example": "The agreement contains a provision that all notices must be sent in writing.",
+          "translation": "その合意書には、すべての通知を書面で送らなければならないという規定がある。"
+        },
+        {
+          "pattern": "a provision that allows someone to do something",
+          "use": "条項が認める権利や選択肢を述べる。",
+          "example": "The policy includes a provision that allows employees to appeal a disciplinary decision.",
+          "translation": "その規程には、従業員が懲戒処分の決定に異議を申し立てられる規定が含まれている。"
+        },
+        {
+          "pattern": "with the provision that 〈条件の節〉",
+          "use": "合意する際に設けられた条件を述べる。",
+          "example": "The parties agreed to renew the contract with the provision that fees would remain unchanged for one year.",
+          "translation": "当事者は、料金を1年間据え置くという条件で契約を更新することに合意した。"
+        },
+        {
+          "pattern": "a provision on 〈主題〉",
+          "use": "条項が扱うテーマを示す。",
+          "example": "Please review the provision on ownership of work created during the project.",
+          "translation": "プロジェクト中に作成した成果物の所有権に関する条項を確認してください。"
+        },
+        {
+          "pattern": "〈法律・契約〉 + contain provisions",
+          "use": "複数の定めが文書に含まれると述べる。",
+          "example": "The agreement contains provisions protecting confidential information after the partnership ends.",
+          "translation": "その契約には、提携終了後も秘密情報を保護する規定が含まれている。"
+        }
+      ],
+      "notes": [
+        "この意味では a provision、several provisions のように数えるのが基本。under the provisions of the agreement は「契約の規定に基づいて」であり、「契約の食料の下で」ではない。a provision that all invoices must be checked の that 節は規定内容で、a provision that requires invoices to be checked の that は関係代名詞。語順が似ていても働きが違う。provision は内容としての定めを指し、番号付きの section や paragraph と必ず一対一になるわけではない。with the provision that ... は条件を明示するが、単独の provision 全体を「前提条件」と限定しない。条件を表す provided that / providing that「〜という条件で」と語形を混同せず、誤: We agree provision that the price is fixed. → 正: We agree provided that the price is fixed.。provisional contract は「暫定契約」で、provision を含む契約という意味ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "clause",
+          "definition": "契約・法律などを構成する、ある内容を定めた条項。",
+          "frequency": 7,
+          "difference": "文書を構成する一つのまとまり・区分に焦点を当てる。provision はその中に置かれた定めの内容を指しやすいが、実際の用法では大きく重なる。",
+          "example": "The contract has a clause limiting the supplier's liability.",
+          "translation": "その契約には、供給者の責任を制限する条項がある。"
+        },
+        {
+          "word": "stipulation",
+          "definition": "合意や実施に際して明示的に定める条件。",
+          "frequency": 5,
+          "difference": "provision より、当事者が条件として要求・指定した点を強調する。権利や手続きの定めすべてを同じように言い換える語ではない。",
+          "example": "We accepted the offer with the stipulation that delivery would be completed by Friday.",
+          "translation": "私たちは、金曜日までに納品を完了するという条件でその申し出を受け入れた。"
+        },
+        {
+          "word": "term",
+          "definition": "契約や合意の内容を構成する条件・定め。",
+          "frequency": 8,
+          "difference": "複数の terms で合意条件全体を指すことが多い。provision は特定の規定を一つずつ指摘する際に使いやすい。",
+          "example": "Both parties agreed to the revised payment terms.",
+          "translation": "両当事者は、改訂された支払い条件に合意した。"
+        },
+        {
+          "word": "proviso",
+          "definition": "取り決めに付け加える条件や留保。",
+          "frequency": 4,
+          "difference": "with the proviso that ... のように、認める範囲を条件付きにする点を強調する。provision の一般的な「規定」より狭い。",
+          "example": "The proposal was accepted with the proviso that costs would be reviewed monthly.",
+          "translation": "費用を毎月見直すという条件付きで、その提案は受け入れられた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・通常複数形】食料、補給品",
+      "frequency": 5,
+      "register": [
+        "一般語。旅行、遠征、災害対応、航海の記述に多く、日常の買い物では food、supplies、groceries のほうが直接的な場合もある。"
+      ],
+      "definition": "旅行、航海、遠征、非常時などに備えて用意した食べ物・飲み物や、その他の必要物資。食料が中心になることが多いが、食料だけに意味を限定するわけではない。",
+      "patterns": [
+        "provisions を複数形として使い、動詞の一致は複数。provisions for 〈旅行・期間・人数など〉、enough provisions to do something、buy/carry/deliver provisions、stock up on provisions、run out of provisions が典型。"
+      ],
+      "collocations": [
+        {
+          "pattern": "provisions for 〈旅行・遠征〉",
+          "use": "ある移動や活動に必要な食料・物資を指す。",
+          "example": "We loaded provisions for the three-day voyage before leaving port.",
+          "translation": "私たちは出港前に、3日間の航海に必要な食料や物資を積み込んだ。"
+        },
+        {
+          "pattern": "stock up on provisions",
+          "use": "しばらく補給できないことを考えて物資を買い込む。",
+          "example": "The team stopped in the village to stock up on provisions.",
+          "translation": "一行は食料などを買い込むため、村に立ち寄った。"
+        },
+        {
+          "pattern": "enough provisions to last 〈期間〉",
+          "use": "物資がどれくらいの期間もつかを示す。",
+          "example": "The shelter has enough provisions to last a week.",
+          "translation": "その避難施設には、1週間もつだけの食料や必需品がある。"
+        },
+        {
+          "pattern": "run out of provisions",
+          "use": "用意した食料・物資を使い切ったと述べる。",
+          "example": "The hikers returned early because they were running out of provisions.",
+          "translation": "ハイカーたちは食料などが底を突きかけていたため、早めに戻った。"
+        }
+      ],
+      "notes": [
+        "この意味の通常形は provisions で、誤: The provisions is running low. → 正: The provisions are running low.。「食料品を一つ」を a provision と数えるのは日常の基本用法ではなく、an item of food などを使う。ただし provisions が出たら必ず食料とは限らず、the provisions of a contract は語義3。make provisions for a trip は「旅行に備えた手配」、buy provisions for a trip は「旅行用の食料・物資を買う」で、周囲の動詞も意味を判断する手掛かりになる。"
+      ],
+      "synonyms": [
+        {
+          "word": "supplies",
+          "definition": "活動や生活に必要な、蓄えたり供給したりする物資。",
+          "frequency": 8,
+          "difference": "provisions より対象が広く、office supplies のような事務用品にも普通に使う。provisions は食料や旅・遠征の必需品を連想させやすい。",
+          "example": "The volunteers delivered emergency supplies to the village.",
+          "translation": "ボランティアたちは、村に緊急物資を届けた。"
+        },
+        {
+          "word": "rations",
+          "definition": "一人分や一定期間分として割り当てられる食料。",
+          "frequency": 5,
+          "difference": "食料の量や配分単位に焦点があり、軍隊・遠征・不足時に多い。provisions は必ずしも定量に配給されるものではない。",
+          "example": "Each team member carried three days' rations.",
+          "translation": "各隊員は、3日分の食料を携行した。"
+        },
+        {
+          "word": "stores",
+          "definition": "使用に備えて蓄えた食料や物資。",
+          "frequency": 5,
+          "difference": "とくに船・軍隊・施設などの貯蔵物資に使う。provisions と重なるが、stores は保管されている蓄えという側面を強調しやすい。",
+          "example": "The ship replenished its stores at the next port.",
+          "translation": "その船は、次の港で貯蔵物資を補充した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞・可算／不可算】引当、引当金、費用計上額",
+      "frequency": 5,
+      "register": [
+        "会計・財務の専門語。財務諸表、決算説明、企業報道で使う。日常的な貯金・生活資金の準備そのものとは区別する。"
+      ],
+      "definition": "会計・財務で、支出・損失・債務・税金などを見積もって帳簿に反映する処理や、その計上額を指す。具体的に負債の残高を指すか、引当費用や税金費用などの当期の費用計上額を指すかは、会計基準・勘定名・文脈による。とくに米国企業の財務諸表にある provision for income taxes は、法人所得税に関する税金費用を表し、当期税金費用と繰延税金費用を含み得る。IAS 37でいう provision は、決済の時期または金額が不確実な負債。一般的な財務英語の provision を、すべてこの一つの制度上の分類と同一視しない。",
+      "patterns": [
+        "a provision for 〈債務・損失など〉、a provision against 〈損失・請求など〉、a provision of 〈金額〉、provisions for ...。provision for income taxes / income tax provision は財務諸表の勘定名として使われ、a provision for income taxes of 〈金額〉 と金額を示せる。make/recognize/record a provision として計上を、increase/release/reverse a provision として増額・戻入れなどを表す。個別の計上や金額は可算、処理や備え全般は不可算にもなる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "recognize a provision for 〈債務・費用〉",
+          "use": "将来の決済を伴う見積額を会計上認識することを述べる。",
+          "example": "The manufacturer recognized a provision for warranty obligations on products already sold.",
+          "translation": "そのメーカーは、販売済み製品の保証義務について引当金を認識した。"
+        },
+        {
+          "pattern": "a provision of 〈金額〉 for 〈対象〉",
+          "use": "決算で示された具体的な引当額と用途を述べる。",
+          "example": "The accounts include a provision of two million euros for the estimated cost of settling the claim.",
+          "translation": "その決算には、請求の解決にかかる見積費用として200万ユーロの引当金が含まれている。"
+        },
+        {
+          "pattern": "make a provision against 〈損失・請求〉",
+          "use": "見込まれる負担への引当処理を説明する。",
+          "example": "The company made a provision against expected compensation claims in its year-end accounts.",
+          "translation": "会社は、見込まれる補償請求に対する引当金を年度末の決算に計上した。"
+        },
+        {
+          "pattern": "increase the provision for 〈対象〉",
+          "use": "新たな情報に基づく引当額の見直しを述べる。",
+          "example": "The company increased the provision for warranty claims after revising its repair-cost estimates.",
+          "translation": "会社は修理費の見積もりを修正した後、製品保証請求に対する引当金を増額した。"
+        },
+        {
+          "pattern": "release a provision",
+          "use": "必要性の低下などに伴う引当金の戻入れを述べる。",
+          "example": "Part of the provision was released after the estimated obligation decreased.",
+          "translation": "見積債務が減少したため、引当金の一部が戻し入れられた。"
+        },
+        {
+          "pattern": "provision for credit losses",
+          "use": "金融機関の決算で、信用損失に関する引当費用を読む。",
+          "example": "The bank's quarterly income statement showed a higher provision for credit losses.",
+          "translation": "その銀行の四半期損益計算書では、信用損失に対する引当費用が増えていた。"
+        },
+        {
+          "pattern": "provision for income taxes",
+          "use": "企業の損益計算書にある税金費用の計上額を読む。",
+          "example": "The income statement reports a provision for income taxes of twenty million dollars.",
+          "translation": "その損益計算書には、法人所得税費用2,000万ドルが計上されている。"
+        }
+      ],
+      "notes": [
+        "会計上の provision は、現金を別の銀行口座へ移して保管したことを必ずしも意味しない。set aside と説明されていても、帳簿上の計上を比喩的に述べている場合がある。IAS 37の引当金は不確実な負債であり、単に「いつか損をするかもしれない」だけで任意に計上できるという意味ではない。既存の義務、経済的資源の流出見込み、見積可能性など、適用される認識要件を別途確認する。loan-loss provision / provision for credit losses は、制度や文書によって引当費用を表し、期末時点の allowance「損失引当額」と区別される。すべてをIAS 37上の負債としたり、すべてを積立現金としたりしない。provision for income taxes の税金費用は、IAS 37の引当負債や実際の納税額と同一ではなく、不確実な税務債務だけを指すわけでもない。一方、税法の条文を指す tax provision は語義3の「税に関する規定」である。reserve も文脈により準備・積立を指すが、会計区分が同一とは限らないため機械的に置き換えない。make provision for retirement のような一般的な生活上の備えは、必ずしもこの会計義ではない。名詞の make a provision for ... と、語義8〜10の動詞 provision を区別する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【動詞・他動詞】食料・物資を補給する",
+      "frequency": 4,
+      "register": [
+        "改まった語。物流、航海、遠征、拠点運営など。日常の食事の用意なら provide food や supply などが分かりやすいことも多い。"
+      ],
+      "definition": "船、拠点、遠征隊、人々などに、活動や生活に必要な食料・飲み物・物資を用意して与える。主に補給を受ける側を直接目的語にする。旅や長期の活動への備えを伴うことが多いが、その場で必要な補給にも使う。",
+      "patterns": [
+        "provision 〈船・拠点・人・隊など〉、provision someone/something with 〈物資〉、provision someone/something for 〈旅行・期間〉。目的語を省く自動詞用法を基本にしない。受動は be provisioned with ...、be adequately/fully provisioned。for は目的・期間、with は供給する物資を示す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "provision a ship",
+          "use": "航海に必要な食料や物資を船に積み込むと述べる。",
+          "example": "The crew provisioned the ship before the long voyage.",
+          "translation": "乗組員は長い航海に出る前に、船に食料や物資を補給した。"
+        },
+        {
+          "pattern": "provision 〈拠点〉 with 〈物資〉",
+          "use": "補給先と届ける物を区別する。",
+          "example": "The support team provisioned the remote camp with food and drinking water.",
+          "translation": "支援チームは、遠隔地のキャンプに食料と飲料水を補給した。"
+        },
+        {
+          "pattern": "provision 〈人・隊〉 for 〈期間・活動〉",
+          "use": "どれほどの期間・何の活動に備える補給かを述べる。",
+          "example": "They provisioned the expedition for six weeks in the field.",
+          "translation": "彼らは、現地での6週間の活動に備えて遠征隊に物資を用意した。"
+        },
+        {
+          "pattern": "be fully provisioned",
+          "use": "受け手を主語にして、必要な物資が揃った状態を表す。",
+          "example": "By dawn, the vessel was fully provisioned and ready to sail.",
+          "translation": "夜明けまでに、その船は必要な物資の補給をすべて終え、出航の準備が整っていた。"
+        }
+      ],
+      "notes": [
+        "この意味の基本は provision the ship with food で、船が直接目的語、食料が with の後。provide food to the crew「乗組員に食料を提供する」をそのまま provision food to the crew と置き換えない。provide は提供物を直接目的語にする型が広いが、補給の provision では受け手の船・隊・施設などを目的語にする型が中心。provisioned は普通の過去分詞で、a well-provisioned camp「補給が行き届いたキャンプ」のように well と一体で名詞前を修飾するとハイフンを使う。The camp is well provisioned. の叙述では通常ハイフンを付けない。物資が十分かを表す fully/adequately provisioned は使えるが、基本義から離れた独立の評価形容詞ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "supply",
+          "definition": "人や場所に必要な物を供給する。",
+          "frequency": 8,
+          "difference": "provision より一般的で、継続的な供給や電力・情報などにも広く使う。supply someone with something と supply something to someone の両方が使える。",
+          "example": "The trucks supplied the village with clean water.",
+          "translation": "そのトラックは、村に清潔な水を供給した。"
+        },
+        {
+          "word": "stock",
+          "definition": "店・施設・容器などに、使ったり売ったりする品物を揃える。",
+          "frequency": 7,
+          "difference": "stock the shelves、stock the kitchen with food のように、在庫や保管場所を満たすことに焦点がある。provision は人や隊への活動上の補給にも使う。",
+          "example": "We stocked the emergency shelter with blankets and canned food.",
+          "translation": "私たちは、緊急避難施設に毛布と缶詰を備えた。"
+        },
+        {
+          "word": "equip",
+          "definition": "人や組織に、活動に必要な道具・装備を持たせる。",
+          "frequency": 7,
+          "difference": "装備や機材に焦点を当て、食料を中心とする provision と重なる範囲は限定される。道具や物資を整える文脈で使い分ける。",
+          "example": "The team was equipped with radios and protective clothing.",
+          "translation": "そのチームには、無線機と防護服が装備された。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【動詞・他動詞】利用できるように準備・設定する",
+      "frequency": 4,
+      "register": [
+        "IT、クラウド、システム管理の専門語。日常的な「誰かにサービスを提供する」のすべてをこの動詞で表すわけではない。"
+      ],
+      "definition": "ITで、サーバー、アカウント、ストレージ、ネットワーク資源などを作成・割り当て・設定し、必要な用途に使える状態にする。単なる物品の配送ではなく、利用に必要な構成を整えることが中心。含まれる具体的な処理は、資源の種類やサービスによって異なる。",
+      "patterns": [
+        "provision 〈サーバー・アカウント・資源〉、provision 〈資源〉 for 〈利用者・用途〉、provision 〈システム〉 with 〈構成要素〉。automatically provision ... と自動化を示せる。受動は be provisioned、be being provisioned。provisioned resources の過去分詞修飾は「作成・割り当てなどが済んだ資源」。主語は管理者・システム・スクリプトなど。"
+      ],
+      "collocations": [
+        {
+          "pattern": "provision user accounts",
+          "use": "利用者がアクセスできるアカウントの作成・設定を説明する。",
+          "example": "The identity platform automatically provisions user accounts when new employees join.",
+          "translation": "そのID管理基盤は、新入社員が入社すると利用者アカウントを自動的に作成・設定する。"
+        },
+        {
+          "pattern": "provision 〈資源〉 for 〈用途〉",
+          "use": "必要な処理能力や環境を用途に応じて用意する。",
+          "example": "The team provisioned three virtual servers for the test environment.",
+          "translation": "チームは、テスト環境向けに仮想サーバーを3台用意した。"
+        },
+        {
+          "pattern": "provision 〈システム〉 with 〈構成要素〉",
+          "use": "利用に必要な設定やソフトウェアを備えさせる。",
+          "example": "The script provisions each server with the required operating system and monitoring tools.",
+          "translation": "そのスクリプトは、各サーバーに必要なOSと監視ツールを導入して利用可能な状態にする。"
+        },
+        {
+          "pattern": "provision additional storage",
+          "use": "保存容量などを追加で割り当てると述べる。",
+          "example": "We can provision additional storage as the database grows.",
+          "translation": "データベースが大きくなるのに合わせて、追加のストレージを割り当てられる。"
+        },
+        {
+          "pattern": "be being provisioned",
+          "use": "利用準備が進行中で、まだ完了していないことを示す。",
+          "example": "The account is being provisioned and will be available once setup is complete.",
+          "translation": "そのアカウントは利用準備中で、設定が完了すると使えるようになる。"
+        }
+      ],
+      "notes": [
+        "provision an account はアカウントの利用準備をすることだが、製品によって新規作成、権限の割り当て、設定の適用などの範囲が異なる。provisioned という表示だけで、すべての業務設定や利用確認まで済んだと一般化しない。provision resources は利用に必要な資源を確保・構成することで、deploy an application「アプリケーションを配備する」と関連はするが完全な同義ではない。物資補給の語義6と違い、ここでは提供する資源そのものを直接目的語にして provision storage のようにも言う。受け手と資源のどちらを目的語にするかは、用法と対象を合わせて覚える。"
+      ],
+      "synonyms": [
+        {
+          "word": "set up",
+          "definition": "システムやアカウントを準備し、使える状態にする。",
+          "frequency": 8,
+          "difference": "provision より一般的で、IT以外の準備にも使う。技術文書の provision は、資源の作成・割り当てを含む定まった工程を指すことがある。",
+          "example": "The administrator set up a test account for the new application.",
+          "translation": "管理者は、新しいアプリケーション用のテストアカウントを設定した。"
+        },
+        {
+          "word": "configure",
+          "definition": "システムや機器の設定・構成を用途に合わせて整える。",
+          "frequency": 6,
+          "difference": "設定内容の調整に焦点があり、provision に含まれ得る資源の新規作成や容量確保すべてを意味するわけではない。",
+          "example": "We configured the server to accept connections only from the internal network.",
+          "translation": "社内ネットワークからの接続だけを受け付けるよう、サーバーを設定した。"
+        },
+        {
+          "word": "allocate",
+          "definition": "利用者や処理に資源を割り当てる。",
+          "frequency": 7,
+          "difference": "provision storage などの資源確保と重なるが、割り当て後のソフトウェア導入や設定まで必ず行うわけではない。",
+          "example": "The system allocates more memory to the application when demand increases.",
+          "translation": "需要が増えると、システムはそのアプリケーションにより多くのメモリーを割り当てる。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "deprovision",
+          "definition": "利用可能にしていたアカウントや資源の割り当て・利用設定を解除する。",
+          "frequency": 3,
+          "difference": "「利用できるように整える／利用できる状態を解除する」という方向の反対。実際に無効化・回収・削除のどれを行うかはサービスによって異なり、完全消去を必須としない。",
+          "example": "The system deprovisions the account when the employee leaves the company.",
+          "translation": "そのシステムは、従業員が退社するとアカウントの利用設定を解除する。"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "【動詞・自動詞】損失などに備えて引当処理を行う",
+      "frequency": 3,
+      "register": [
+        "会計・財務の専門用法。一般的な「準備する」の場面では make provision for や prepare for のほうが広く使える。"
+      ],
+      "definition": "会計・財務で、見込まれる損失や債務について引当処理をする。主語は企業・金融機関などで、引当の対象を前置詞 for または against の後に置く。金額を直接目的語にする語義9、債権・融資を直接目的語にする語義10と区別する。",
+      "patterns": [
+        "provision for 〈損失・債務〉、provision against 〈損失・リスク〉。文脈上対象が分かれば、for/against 以下を省いて provision adequately のようにも使う。直接目的語を持たない型であり、for/against の後の名詞をそのまま他動詞の目的語と解釈しない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "provision for 〈損失〉",
+          "use": "損失に備えた会計処理を行うと述べる。",
+          "example": "The bank must provision for expected credit losses in its accounts.",
+          "translation": "その銀行は、予想される信用損失について帳簿上の引当処理をしなければならない。"
+        },
+        {
+          "pattern": "provision against 〈損失〉",
+          "use": "想定される損失を対象にした引当処理を示す。",
+          "example": "The lender provisioned against losses on loans that were unlikely to be repaid in full.",
+          "translation": "その貸し手は、全額返済される見込みが低い融資の損失に対して引当処理を行った。"
+        },
+        {
+          "pattern": "provision adequately",
+          "use": "引当の十分さを評価し、対象は文脈から補う。",
+          "example": "The bank's loan portfolio was deteriorating, but it had not provisioned adequately.",
+          "translation": "銀行の融資債権の状態は悪化していたが、銀行は十分な引当処理をしていなかった。"
+        }
+      ],
+      "notes": [
+        "Banks provision for losses. の provision は動詞で、「銀行の損失引当」という名詞句ではない。make a provision for losses では provision が名詞になる。for を伴うこの型と、語義9の provision two million euros for losses のような金額目的語の型、さらに語義10の provision the loans という債権目的語の型を区別する。この語義でも、別口座への現金移動をしたという意味とは限らない。引当処理の要件・金額・表示方法は適用される会計基準によって確認し、この動詞から推測しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "provide for",
+          "definition": "会計で、損失や負担を見込んで引当処理をする。",
+          "frequency": 4,
+          "difference": "この専門用法では provision for と近い。provide for はほかに生活を支える、事態に備える、文書が規定するという一般用法も持つため、会計の文脈が必要。",
+          "example": "The accounts provide for the estimated warranty costs.",
+          "translation": "その決算では、見積もられた製品保証費用について引当処理をしている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 9,
+      "title": "【動詞・他動詞】金額を引き当てる、引当計上する",
+      "frequency": 3,
+      "register": [
+        "会計・財務の専門用法。決算報告や企業報道で使う。"
+      ],
+      "definition": "会計・財務で、特定の金額を損失・債務などのための引当額として計上する。主語は企業など、直接目的語は金額で、何に対する引当かを for などで示す。",
+      "patterns": [
+        "provision 〈金額〉 for 〈損失・債務など〉。受動は 〈金額〉 + be provisioned for 〈対象〉。provision for 〈損失〉 という自動詞型と違い、この型では金額を直接目的語として置く。"
+      ],
+      "collocations": [
+        {
+          "pattern": "provision 〈金額〉 for 〈対象〉",
+          "use": "引当計上した額と、その対象を一緒に示す。",
+          "example": "The company provisioned three million euros for estimated warranty claims.",
+          "translation": "会社は、見積もられた製品保証請求に対して300万ユーロを引当計上した。"
+        },
+        {
+          "pattern": "〈金額〉 + be provisioned for 〈対象〉",
+          "use": "計上額を主語にして、会計報告の内容を説明する。",
+          "example": "A further one million euros was provisioned for the outstanding compensation claims.",
+          "translation": "未解決の補償請求に対して、さらに100万ユーロが引当計上された。"
+        }
+      ],
+      "notes": [
+        "provision three million euros for claims では three million euros が直接目的語で、for claims は対象を表す。これを provision claims with three million euros と、物資補給の型に機械的に変えない。「300万ユーロを計上した」と「300万ユーロを支払った」は別で、provisioned だけでは支払い完了を意味しない。より一般の読者に説明するなら made a provision of three million euros for ... と名詞構文でも表せる。ここでの金額目的語は一つの型であり、会計の他動詞 provision 全体の目的語を金額だけに限定するものではない。債権を直接対象にする型は語義10。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 10,
+      "title": "【動詞・他動詞】債権・融資に引当処理を行う",
+      "frequency": 3,
+      "register": [
+        "銀行会計、信用リスク管理の専門用法。不良債権などの引当状況についての文書で使う。"
+      ],
+      "definition": "会計・金融で、融資債権などについて損失を見積もり、引当処理を行う。主語は銀行などで、直接目的語は計上する金額ではなく、引当ての対象となる債権。融資を新たに実行することや、借り手が返済することではない。",
+      "patterns": [
+        "provision 〈融資債権・不良債権〉、fully/adequately provision 〈債権〉。受動は 〈債権〉 + be fully/adequately provisioned。過去分詞修飾の fully provisioned loans、well-provisioned loans も使う。語義9の金額目的語型とは、目的語の意味役割が異なる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "fully provision 〈不良債権〉",
+          "use": "特定の債権について全額の引当処理を行ったと述べる。",
+          "example": "The bank has fully provisioned these non-performing loans.",
+          "translation": "その銀行は、これらの不良債権について全額引当済みである。"
+        },
+        {
+          "pattern": "〈融資債権〉 + be adequately provisioned",
+          "use": "融資債権を主語にして、引当ての十分さを評価する。",
+          "example": "The review confirmed that the impaired loans were adequately provisioned.",
+          "translation": "その調査では、減損した融資債権について十分な引当処理が行われていることが確認された。"
+        },
+        {
+          "pattern": "fully provisioned loans",
+          "use": "全額引当済みの債権を、未処理の債権などと区別して述べる。",
+          "example": "The fully provisioned loans remained on the books pending a decision on write-off.",
+          "translation": "全額引当済みの融資債権は、償却の判断が出るまで帳簿上に残っていた。"
+        }
+      ],
+      "notes": [
+        "provision the loans の loans は、引当処理の対象となる債権であって、用意して相手に渡すお金ではない。語義9の provision three million euros では金額が目的語なので、同じ他動詞でも役割が違う。fully provisioned は全額引当済み、adequately provisioned は引当てが十分ということで、融資実行済み、返済済み、償却済み、あるいは現金の別置きが済んだという意味にはならない。引当額の算定基準は適用される会計・監督制度に従う。名詞前の well-provisioned loans は通常ハイフンを付けるが、-ly 副詞を使う fully provisioned loans には通常付けない。fully provisioned の同じ形でも、船なら語義6の物資補給、サーバーなら語義7の利用準備になるため、修飾対象を確認する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}
