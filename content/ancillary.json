@@ -1,0 +1,371 @@
+{
+  "word": "ancillary",
+  "slug": "ancillary",
+  "ipa": "米: /ˈæn.sə.ler.i/｜英: /ænˈsɪl.ər.i/。代表的な発音では、米音は第1音節、英音は第2音節に強勢がある。いずれも4音節。第2音節は米 /sə/ と英 /sɪl/、第3音節は米 /ler/ と英 /ər/ で、母音だけでなく /l/ の音節への分け方も異なる。第1音節 /æn/ と第4音節 /i/ は共通する。形容詞と名詞で発音は変わらない。",
+  "lead": "組織の主要業務、活動、設備などを支える役割にあること。職員、サービス、設備、作業、役割などに使う。「本体を補助する」という機能上の位置付けであって、その仕事を省いても支障がないという意味ではない。",
+  "updated": "2026-10-08",
+  "notion_url": "https://app.notion.com/p/ancillary-3f34faa9b77d8183a8f1fa9c3acde93f",
+  "pronunciation": [],
+  "etymology": [
+    "ラテン語 ancillaris「女の召使いに関する」、さらに ancilla「女の召使い」に由来する。「主となるものに仕えて支える」という関係が、現在の「補助的な・付随する」につながる。",
+    "同語源の英語 ancilla は「補助手段」を表すまれな名詞で、専門文献に現れる。語源上の身分や性別が、現代の ancillary staff の意味にそのまま含まれるわけではない。"
+  ],
+  "formation": [
+    {
+      "term": "ancillaries",
+      "description": "名詞 ancillary の複数形。「付帯設備・付加サービス」または「補助職員」。語尾の y を ies に変える。"
+    },
+    {
+      "term": "ancillary",
+      "description": "services：形容詞と名詞の組み合わせで「補助サービス・付帯サービス」。ancillaries という名詞とは構造が異なる。"
+    }
+  ],
+  "core": [
+    {
+      "label": "「主となるものに付いて、その働きを支えたり、付加的なものを添えたりする」というイメージ。二次的な位置付けを示すが、不要・無価値とは限らない。",
+      "description": ""
+    },
+    {
+      "label": "主たる活動に付く支援の役割",
+      "description": "→ 「補助的な・支援する」（語義1）"
+    },
+    {
+      "label": "主たる内容に付く追加の位置付け",
+      "description": "→ 「付随する・付加的な」（語義2）"
+    },
+    {
+      "label": "主たる製品やサービスに付く追加物",
+      "description": "→ 「付属品・付加サービス」（語義3）"
+    },
+    {
+      "label": "主たる業務に付く補助担当者",
+      "description": "→ 「補助職員」（語義4）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【形容詞・限定／叙述】補助的な・支援する",
+      "frequency": 5,
+      "register": [
+        "フォーマル。業務・組織運営、医療、技術。職員についての用法は特に英国の制度・職場の説明で見られる。"
+      ],
+      "definition": "組織の主要業務、活動、設備などを支える役割にあること。職員、サービス、設備、作業、役割などに使う。「本体を補助する」という機能上の位置付けであって、その仕事を省いても支障がないという意味ではない。",
+      "patterns": [
+        "ancillary 〈staff/services/equipment〉＝主要業務を支える職員・サービス・設備",
+        "an ancillary role＝補助的な役割",
+        "〈業務・設備〉 + be ancillary to 〈主たる活動・設備〉＝主たるものを補助する",
+        "〈名詞〉 + ancillary to 〈主たる活動〉＝その活動に付随して支えるもの。to は前置詞で、名詞・動名詞が続く。機能を分類する用法では通常、程度よりも本体との関係を示す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "ancillary staff",
+          "use": "主たる専門業務を支える職員をまとめて指す。",
+          "example": "The hospital's ancillary staff keep the kitchens and laundry running.",
+          "translation": "病院の補助職員は、厨房と洗濯部門の運営を支えている。"
+        },
+        {
+          "pattern": "ancillary services",
+          "use": "本来の事業を支える周辺サービスを説明する。",
+          "example": "The laboratory relies on ancillary services such as equipment maintenance.",
+          "translation": "その研究所は、機器保守などの補助サービスに支えられている。"
+        },
+        {
+          "pattern": "ancillary equipment",
+          "use": "主要装置を補助する機器を指す。",
+          "example": "The installation requires ancillary equipment for cooling and ventilation.",
+          "translation": "その設備を設置するには、冷却と換気のための補助機器が必要だ。"
+        },
+        {
+          "pattern": "an ancillary role",
+          "use": "主役を支える役割を述べる。",
+          "example": "The regional office plays an ancillary role in product development.",
+          "translation": "地方事務所は、製品開発で補助的な役割を担っている。"
+        },
+        {
+          "pattern": "be ancillary to 〈主たる活動〉",
+          "use": "何を支える仕事なのかを明示する。",
+          "example": "Data entry is ancillary to the team's main task of assessing applications.",
+          "translation": "データ入力は、申請の審査というチームの主要業務を支える仕事だ。"
+        },
+        {
+          "pattern": "〈名詞〉 ancillary to 〈主たる活動〉",
+          "use": "名詞の後ろから、その活動に付随する関係を説明する。",
+          "example": "The grant covers services ancillary to the research, including translation.",
+          "translation": "その助成金は、翻訳を含む研究支援サービスの費用を賄う。"
+        }
+      ],
+      "notes": [
+        "ancillary to research の to は不定詞の to ではない。「研究を行うことを補助する」なら ancillary to conducting research とできるが、何が本体なのかを名詞で示す ancillary to the research の方が簡潔な場合が多い。補助関係を表す標準形は ancillary to で、同じ意味で一律に ancillary with としない。ancillary staff の ancillary は形容詞、the ancillaries の ancillaries は語義4の名詞。医療の ancillary services は、施設・制度によって検査や治療関連のサービスを含むこともあり、常に清掃・給食だけを指すわけではない。more ancillary のような比較は役割の中心性を比べる文脈なら可能だが、機器の分類に very ancillary を機械的に加えない。"
+      ],
+      "synonyms": [
+        {
+          "word": "auxiliary",
+          "definition": "主となる人・設備・活動を補助する。",
+          "frequency": 6,
+          "difference": "補助機能が中心で、補助機関・予備電源などにも使う。ancillary は組織や本体に付随する支援という位置付けを示しやすい。",
+          "example": "An auxiliary pump provides water during maintenance.",
+          "translation": "保守作業中は、補助ポンプが水を供給する。"
+        },
+        {
+          "word": "supporting",
+          "definition": "主たる活動や人を支える役割を持つ。",
+          "frequency": 7,
+          "difference": "より平易で広い語。ancillary は業務区分や機能をフォーマルに説明するときに使われる。",
+          "example": "Each department has a supporting role in the project.",
+          "translation": "各部署は、その計画を支える役割を持っている。"
+        },
+        {
+          "word": "subsidiary",
+          "definition": "主たるものに従属する、二次的な位置にある。",
+          "frequency": 4,
+          "difference": "従属関係・重要度の低さに重点がある。ancillary は主たるものを支える機能が前面に出やすい。ここでの subsidiary は形容詞で、「子会社」という名詞義とは区別する。",
+          "example": "Documentation is a subsidiary task in this assignment.",
+          "translation": "この業務では、文書化は二次的な作業だ。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "primary",
+          "definition": "役割や重要度が第一である。",
+          "frequency": 8,
+          "difference": "主たる役割か補助的な役割かという位置付けの反対。",
+          "example": "Patient care is the team's primary responsibility.",
+          "translation": "患者のケアが、そのチームの第一の責務だ。"
+        },
+        {
+          "word": "principal",
+          "definition": "最も主要な、中心となる。",
+          "frequency": 7,
+          "difference": "役割・機能の中心性で対立する。ancillary の活動も必要不可欠であり得るため、essential はこの意味の一律な反意語にはならない。",
+          "example": "The plant's principal function is to treat wastewater.",
+          "translation": "その施設の主要な機能は、排水を処理することだ。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【形容詞・限定／叙述】付随する・付加的な",
+      "frequency": 5,
+      "register": [
+        "フォーマル。契約、旅行、料金説明、事業・収益の分析。"
+      ],
+      "definition": "中心となる商品、料金、事業、効果などに加わる、二次的な項目であること。費用・収入・利点・資料などに使い、直接本体を助ける機能より「本体に伴う追加」の位置付けを表す。無料・任意・少額であることや、偶然生じたことは必須ではない。",
+      "patterns": [
+        "ancillary 〈costs/fees/benefits〉＝付帯費用・追加料金・付随する利点",
+        "ancillary revenue＝付帯サービスなどからの収入",
+        "ancillary 〈products/documents〉＝関連する追加商品・補足書類",
+        "〈項目〉 + be ancillary to 〈中心となるもの〉＝中心となるものに付随する。限定用法が多いが、叙述用法・後置修飾も可能。"
+      ],
+      "collocations": [
+        {
+          "pattern": "ancillary costs",
+          "use": "本体価格以外にも伴う費用を指す。",
+          "example": "The budget includes the purchase price and ancillary costs such as installation.",
+          "translation": "予算には購入価格と、設置費などの付帯費用が含まれている。"
+        },
+        {
+          "pattern": "ancillary fees",
+          "use": "基本料金に付随する料金を示す。",
+          "example": "Check the ancillary fees before comparing the two fares.",
+          "translation": "二つの運賃を比較する前に、付加料金を確認してください。"
+        },
+        {
+          "pattern": "ancillary revenue",
+          "use": "主たる販売に付随する収益を説明する。",
+          "example": "The airline earns ancillary revenue from seat selection and checked baggage.",
+          "translation": "その航空会社は、座席指定と預け入れ手荷物から付帯収入を得ている。"
+        },
+        {
+          "pattern": "ancillary benefits",
+          "use": "主目的の効果に加えて得られる利点を述べる。",
+          "example": "Reduced noise was an ancillary benefit of replacing the old machines.",
+          "translation": "騒音の減少は、古い機械を交換したことで得られた付随的な利点だった。"
+        },
+        {
+          "pattern": "ancillary documents",
+          "use": "主となる文書に添える書類を指す。",
+          "example": "Please submit the main agreement and all ancillary documents together.",
+          "translation": "主契約書とすべての付随書類を一緒に提出してください。"
+        },
+        {
+          "pattern": "be ancillary to 〈中心となるもの〉",
+          "use": "ある効果などが主目的に付随する位置付けだと述べる。",
+          "example": "The publicity benefits are ancillary to the project's educational purpose.",
+          "translation": "宣伝上の利点は、その事業の教育目的に付随するものだ。"
+        }
+      ],
+      "notes": [
+        "ancillary costs は「諸経費」「付帯費用」と訳せるが、契約上必ず別払いという意味ではない。料金に含まれるかは文書を確認する。ancillary benefits も、意図して得る追加効果と結果として生じる利点の両方に使え、incidental「偶発的な」と常に同義ではない。法律文書の ancillary agreement や ancillary proceedings は、本体の契約・手続きに付随・関連するものを指すが、具体的な権利や手続きは制度と文脈で決まり、この単語だけから法的効果を推測しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "additional",
+          "definition": "すでにあるものに加わる。",
+          "frequency": 9,
+          "difference": "最も広く中立的な「追加の」。ancillary は追加項目が主たるものに付随するという関係も示す。",
+          "example": "Additional charges apply for weekend delivery.",
+          "translation": "週末の配達には追加料金がかかる。"
+        },
+        {
+          "word": "supplementary",
+          "definition": "既存の内容を補い、充実させるために加える。",
+          "frequency": 6,
+          "difference": "不足を補う働きに重点がある。ancillary は費用や収入にも使い、補強・充実が目的とは限らない。",
+          "example": "The report includes supplementary data in an appendix.",
+          "translation": "報告書には、付録として補足データが含まれている。"
+        },
+        {
+          "word": "incidental",
+          "definition": "主な活動に伴って二次的に生じる。",
+          "frequency": 5,
+          "difference": "本筋ではない、付随的に発生するという意味が重なるが、意図しない発生を示す場合もある。ancillary は計画された追加項目にも普通に使う。",
+          "example": "The allowance covers meals and incidental expenses.",
+          "translation": "その手当は、食事代と付随的な雑費を賄う。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "core",
+          "definition": "活動・内容の中心にある。",
+          "frequency": 7,
+          "difference": "中核と付随部分という位置付けの反対。価格に含まれるかどうかの反対ではない。",
+          "example": "Software licensing remains the company's core business.",
+          "translation": "ソフトウェアのライセンス販売が、引き続き同社の中核事業だ。"
+        },
+        {
+          "word": "main",
+          "definition": "複数のもののうち中心となる。",
+          "frequency": 10,
+          "difference": "主と付随という関係で対立する平易な語。",
+          "example": "The main fee covers tuition only.",
+          "translation": "基本となる料金に含まれるのは、授業料だけだ。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算、複数形が多い】付属品・付加サービス",
+      "frequency": 3,
+      "register": [
+        "業務・技術・旅行・医療などの分野別の用語。一般会話では accessories、extras や具体的な品名を使う方が明確なことが多い。"
+      ],
+      "definition": "主となる装置、商品、サービスなどに付け加える補助的な物・機能・サービス。複数形 ancillaries でまとめて指すことが多い。何が含まれるかは分野や商品によって異なり、「付属品」「付帯サービス」「追加項目」などと訳す。",
+      "patterns": [
+        "an ancillary＝一つの付属物・追加項目",
+        "the ancillaries＝文脈上特定される付属品・付加サービス",
+        "ancillaries such as 〈具体例〉＝具体例で範囲を示す追加項目",
+        "ancillaries for 〈装置・活動〉＝その装置・活動の補助品。単数には通常、冠詞などが必要。"
+      ],
+      "collocations": [
+        {
+          "pattern": "ancillaries such as 〈具体例〉（ancillary の複数形）",
+          "use": "どの追加サービスを含むのかを明示する。",
+          "example": "Passengers can purchase ancillaries such as extra baggage allowance and priority boarding.",
+          "translation": "乗客は、手荷物許容量の追加や優先搭乗などの付加サービスを購入できる。"
+        },
+        {
+          "pattern": "ancillaries for 〈装置〉（ancillary の複数形）",
+          "use": "装置に使う補助品をまとめて指す。",
+          "example": "The supplier also stocks ancillaries for the pumps, including hoses and mounting brackets.",
+          "translation": "その供給業者は、ホースや取付金具など、ポンプの付属品も在庫として扱っている。"
+        },
+        {
+          "pattern": "the cost of ancillaries（ancillary の複数形）",
+          "use": "付属品・追加サービスの費用を述べる。",
+          "example": "The cost of ancillaries is listed separately from the price of the main unit.",
+          "translation": "付属品の費用は、本体価格とは別に記載されている。"
+        }
+      ],
+      "notes": [
+        "The ancillaries are included. の ancillaries は複数名詞なので are を使う。一方、ancillary equipment の ancillary は形容詞で、数や動詞の一致は通常不可算の equipment に従い The ancillary equipment is included. となる。名詞義は必ず「物品」に限られず、医療などでは補助的な検査・治療サービスを指す。追加料金そのものなのか、追加サービスなのかは周辺の説明で確認する。"
+      ],
+      "synonyms": [
+        {
+          "word": "accessory",
+          "definition": "主要な製品に付けて使用する付属品。",
+          "frequency": 7,
+          "difference": "物としての付属品に適する。ancillary はサービスや費用に関係する追加項目まで含み得る。",
+          "example": "The camera comes with several useful accessories.",
+          "translation": "そのカメラには、便利な付属品がいくつか付いている。"
+        },
+        {
+          "word": "extra",
+          "definition": "基本内容に加わる物やサービス。",
+          "frequency": 8,
+          "difference": "より平易で、追加料金を要するオプションにもよく使う。ancillary は業務上の項目区分として硬い響きがある。",
+          "example": "Breakfast is an optional extra.",
+          "translation": "朝食は任意の追加サービスだ。"
+        },
+        {
+          "word": "adjunct",
+          "definition": "主たるものに加えて、その働きを補う物や手段。",
+          "frequency": 4,
+          "difference": "補助する手段としての関係に重点があり、adjunct to something の形が多い。ancillary は具体的な付属品・サービスの総称にもなる。",
+          "example": "The workbook is a useful adjunct to the course.",
+          "translation": "そのワークブックは、講座を補う有用な教材だ。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・可算】補助職員",
+      "frequency": 2,
+      "register": [
+        "主に英国。学校・医療機関などの職場や職員区分の説明。"
+      ],
+      "definition": "学校、病院などで主要な業務を支える補助的な仕事をする人。複数形 ancillaries で職員の集団を指すことが多い。具体的な職務や資格の有無は、この語だけでは決まらない。",
+      "patterns": [
+        "an ancillary＝補助職員一人",
+        "〈数詞〉 + ancillaries＝その人数の補助職員",
+        "school/hospital ancillaries＝学校・病院の補助職員。名詞なので複数形を取り、形容詞 ancillary staff と区別する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "school ancillaries（ancillary の複数形）",
+          "use": "学校の補助職員をまとめて指す。",
+          "example": "The school ancillaries supervise pupils in the playground at lunchtime.",
+          "translation": "学校の補助職員は、昼休みに校庭で児童を見守っている。"
+        },
+        {
+          "pattern": "〈数詞〉 ancillaries（ancillary の複数形）",
+          "use": "補助職員の人数を示す。",
+          "example": "The clinic employed two ancillaries to help with routine administrative work.",
+          "translation": "その診療所は、日常の事務作業を補助する職員を二人雇っていた。"
+        }
+      ],
+      "notes": [
+        "人を表す名詞用法は、国際的な業務説明では ancillary staff や support staff とした方が意図が伝わりやすいことがある。人が補助的な職務を担うという区分であり、能力や人間としての価値が低いという意味ではない。a staff を一人の職員という意味で機械的に使わず、an ancillary、a member of the ancillary staff などとする。"
+      ],
+      "synonyms": [
+        {
+          "word": "assistant",
+          "definition": "他の人や担当者の仕事を手伝う人。",
+          "frequency": 9,
+          "difference": "幅広く使え、特定個人の補佐役にもなる。ancillary は組織の主要業務を支える職員区分として使われやすい。",
+          "example": "An assistant prepared the materials for the lesson.",
+          "translation": "補助員が授業用の教材を準備した。"
+        },
+        {
+          "word": "auxiliary",
+          "definition": "正規の中心的な担当者を補助する人。",
+          "frequency": 3,
+          "difference": "補助要員という意味で近いが、軍事・医療など特定の組織の区分にも使われる。ancillary は英国の学校・病院などの補助職員に見られる。",
+          "example": "The nurses worked with trained auxiliaries.",
+          "translation": "看護師たちは、訓練を受けた補助要員とともに働いた。"
+        },
+        {
+          "word": "helper",
+          "definition": "作業を手伝う人。",
+          "frequency": 7,
+          "difference": "日常的で、雇用された職員とは限らない。ancillary は制度的・業務上の役割を表す硬い語。",
+          "example": "We need two helpers to set up the room.",
+          "translation": "会場を設営するために、手伝いの人が二人必要だ。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
