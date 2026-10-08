@@ -1,0 +1,275 @@
+{
+  "word": "concur",
+  "slug": "concur",
+  "ipa": "米: /kənˈkɜːr/｜英: /kənˈkɜː/。2音節で、第2音節に主強勢がある。第1音節の母音は弱い /ə/。第2音節では米音の /r/ を伴う母音と、標準的な英音の /r/ を伴わない母音が異なる。英音でも、次に母音が続く場合は語末の r が発音されることがある。",
+  "lead": "他の人、既に示された意見・判断と同じ見解を持つ、またはそれに賛同する。自分で独立に同じ結論へ至った場合にも、相手の見解を聞いて賛成した場合にも使い、独立に考えたことを必須条件にはしない。報告書や調査結果を主語にして「判断・内容が一致する」とも言える。司法では裁判官が裁判所の判断に同意することを表すが、同意の対象と範囲を読む必要がある。",
+  "updated": "2026-10-08",
+  "notion_url": "https://app.notion.com/p/concur-3f34faa9b77d8186a363fa56a000c22f",
+  "pronunciation": [
+    "concurred は r を重ね、米 /kənˈkɜːrd/・英 /kənˈkɜːd/。-ed は /d/ で、音節は増えない。concurring /kənˈkɜːrɪŋ/ も r を重ね、英音でも母音間の /r/ を発音する。"
+  ],
+  "etymology": [
+    "ラテン語 concurrere「一緒に走る、集まる」に由来する。con-「共に」と currere「走る」の組み合わせ。意見の一致、複数要因の共同作用、出来事の同時発生という意味につながっている。",
+    "currere を共有する語には occur「起こる」、recur「再発する」、current「流れ／現在の」がある。語源が近くても、concur の「同意する」と occur の「発生する」をそのまま交換しない。"
+  ],
+  "formation": [
+    {
+      "term": "concurrence",
+      "description": "名詞。「同意・賛同」、また「同時発生」。司法では同意意見を指すこともある。with someone's concurrence は「その人の同意を得て」。"
+    },
+    {
+      "term": "concurrent",
+      "description": "形容詞「同時に起こる、並行する、共同の」。concurrent events は「同時に起こる出来事」。人の同意を述べる I concur. を I am concurrent. にしない。"
+    },
+    {
+      "term": "concurrency",
+      "description": "名詞「同時性、並行性」。特に計算機の処理などの専門文脈で使い、人の賛同を表す日常の concurrence と区別する。"
+    },
+    {
+      "term": "concurring",
+      "description": "現在分詞。a concurring judge「同意する裁判官」、a concurring opinion「同意意見」のように限定修飾にも使う。concurred は過去形・過去分詞だが、「賛成した裁判官」を a concurred judge とは普通言わない。"
+    }
+  ],
+  "core": [
+    {
+      "label": "別々の人・物事が、同じ判断・結果・時点へ重なり合う。主語が人なのか、要因なのか、出来事なのかによって、何が重なるのかを区別する。",
+      "description": ""
+    },
+    {
+      "label": "別々の意見が同じ判断に重なること",
+      "description": "→ 「同意する、意見・判断が一致する」（語義1）"
+    },
+    {
+      "label": "別々の要因が同じ結果に重なること",
+      "description": "→ 「共同して働く、一緒に結果を生む」（語義2）"
+    },
+    {
+      "label": "別々の出来事が同じ時点に重なること",
+      "description": "→ 「同時に起こる、時期が重なる」（語義3）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞：自動詞・that節を伴う用法】同意する、意見・判断が一致する",
+      "frequency": 5,
+      "register": [
+        "フォーマル。会議、論説、研究、司法文書。日常会話の I concur. は、意図的に堅く言う調子やユーモアを帯びることもある。"
+      ],
+      "definition": "他の人、既に示された意見・判断と同じ見解を持つ、またはそれに賛同する。自分で独立に同じ結論へ至った場合にも、相手の見解を聞いて賛成した場合にも使い、独立に考えたことを必須条件にはしない。報告書や調査結果を主語にして「判断・内容が一致する」とも言える。司法では裁判官が裁判所の判断に同意することを表すが、同意の対象と範囲を読む必要がある。",
+      "patterns": [
+        "concur＝同意する",
+        "concur with someone＝人と同意見である",
+        "concur with 〈意見・評価・結果〉＝その内容に同意・一致する",
+        "concur in 〈意見・判断〉＝その見解に同意する",
+        "concur with someone in 〈意見・判断〉＝その点でその人と同意見である",
+        "concur (that)節＝～だという点で一致する。引用発話のあとに someone + concur を置き「～と同意して言う」と報告する型もある。論点は concur on 〈点・問題〉 とも表せる。司法では concur in the judgment、concur in part、concur in the result など。通常、単純な名詞目的語を直接続ける他動詞型にはせず、普通の受動態も作らない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "I concur.",
+          "use": "直前に述べられた意見への同意を簡潔に表す。",
+          "example": "\"We need an independent review.\" \"I concur.\"",
+          "translation": "「独立した点検が必要です」「私も同意します」"
+        },
+        {
+          "pattern": "〈引用発話〉, someone + concur",
+          "use": "相手への賛同を表す発言を、話者の言葉として報告する。",
+          "example": "\"That would be the safest option,\" she concurred.",
+          "translation": "「それが最も安全な選択でしょうね」と彼女も同意した。"
+        },
+        {
+          "pattern": "concur with someone",
+          "use": "誰と同じ意見なのかを示す。",
+          "example": "On this point, I concur with the project manager.",
+          "translation": "この点では、私はプロジェクト責任者と同意見です。"
+        },
+        {
+          "pattern": "concur with 〈意見・評価〉",
+          "use": "人ではなく、判断内容への賛同を述べる。",
+          "example": "The committee concurred with the auditor's assessment.",
+          "translation": "委員会は監査担当者の評価に同意した。"
+        },
+        {
+          "pattern": "concur in 〈意見・判断〉",
+          "use": "共有する見解や判断を示す。",
+          "example": "Both advisers concurred in the view that expansion would be premature.",
+          "translation": "両顧問は、事業拡大は時期尚早だという見解で一致した。"
+        },
+        {
+          "pattern": "concur with someone in 〈意見・判断〉",
+          "use": "相手と同意内容を同時に明示する。",
+          "example": "I concur with you in your conclusion, but not in your reasoning.",
+          "translation": "結論にはあなたと同意見ですが、その理由づけには賛成しません。"
+        },
+        {
+          "pattern": "concur (that)節",
+          "use": "何について同意したかを文で述べる。",
+          "example": "The panel concurred that the proposal needed further revision.",
+          "translation": "委員会は、その提案にはさらに修正が必要だという点で一致した。"
+        },
+        {
+          "pattern": "〈報告・結果〉 + concur with 〈別の結果・見解〉",
+          "use": "複数の調査・記述の内容が一致することを述べる。",
+          "example": "The latest report concurs with the findings of the earlier review.",
+          "translation": "最新の報告書は、以前の調査結果と一致している。"
+        },
+        {
+          "pattern": "concur on 〈点・問題〉",
+          "use": "同意の対象となる論点を示す。",
+          "example": "The two experts concur on the need for additional testing.",
+          "translation": "2人の専門家は、追加試験が必要だという点で一致している。"
+        },
+        {
+          "pattern": "concur in the judgment",
+          "use": "裁判所の判決の結論に同意することを示す。",
+          "example": "The judge concurred in the judgment but rejected part of the majority's reasoning.",
+          "translation": "その裁判官は判決の結論に同意したが、多数意見の理由づけの一部には反対した。"
+        },
+        {
+          "pattern": "concur in part and dissent in part",
+          "use": "司法文書で、同意する部分と反対する部分があることを示す。",
+          "example": "She concurred in part and dissented in part, supporting the ruling on liability but not on damages.",
+          "translation": "彼女は、責任に関する判断を支持し、損害賠償額に関する判断には反対して、一部同意・一部反対の立場を取った。"
+        }
+      ],
+      "notes": [
+        "with は人専用ではなく、concur with the decision／with the assessment も成立する。in は共有する意見・判断を示す型で、concur in this view と言える。「人なら with、内容なら必ず in」という固定規則にはしない。",
+        "concur with the proposal／concur in the decision とし、通常の作文では concur the proposal と名詞を直接続けない。一方、concur that the plan is feasible の that節は認められた型。辞書によって自他の分類は異なるが、「自動詞だから that節を続けられない」と判断しない。",
+        "agree to do something「～することを承諾・約束する」を、一般に concur to do something へ置き換えない。依頼を引き受けるなら She agreed to lead the team.。判断への賛同なら She concurred that the team needed a new leader.。語義2の factors concur to produce a result は、要因が共同して作用する別の構文である。",
+        "完全な一致は必須ではない。concur fully「全面的に同意する」、concur in part「一部で同意する」、concur with the conclusion but not the reasoning「結論には同意するが理由には同意しない」のように範囲を示せる。We do not concur. は「私たちは同意しない」で、have not concurred はこれまで同意に至っていないことを示す。",
+        "司法の concur in the judgment は、その判決の結論に同意するという意味で、必ず多数意見の理由全体を採用するとは限らない。米国連邦最高裁では、結論に同意しながら別の理由を述べる意見がある。concurring opinion の名称だけから、どの理由にどこまで同意したかは決めず、本文と参加範囲を読む。dissent は反対を示すが、in part を伴う場合は部分ごとの賛否を確認する。",
+        "議会で、一方の院が他方の院の修正などに同意する場合にも使う。これは同意という基本義の制度的使用で、concur という一語だけから法案の最終成立、署名、発効まで読み込まない。",
+        "主語が報告書・結果でも、concur with previous findings なら通常は「内容が一致する」というこの語義。出来事が同じ時期に起こっただけなら語義3。通常の過去形は concurred と r を重ねる。I am concur. ではなく I concur. とする。"
+      ],
+      "synonyms": [
+        {
+          "word": "agree",
+          "definition": "同じ意見を持つ、相手の考えに賛成する。",
+          "frequency": 10,
+          "difference": "concur より日常的で広く使う。agree with someone、agree that節 が対応するが、agree to do の承諾・約束まで concur がそのまま引き継ぐわけではない。",
+          "example": "I agree with your main conclusion.",
+          "translation": "あなたの主な結論に同意します。"
+        },
+        {
+          "word": "assent",
+          "definition": "提示された意見・提案などに賛同の意思を示す。",
+          "frequency": 4,
+          "difference": "assent to something が基本の硬い語。concur は同じ判断を持つことに焦点を置きやすく、assent は賛同を表明する行為を表す。",
+          "example": "The members assented to the proposal.",
+          "translation": "メンバーはその提案に賛同した。"
+        },
+        {
+          "word": "coincide",
+          "definition": "意見・考えなどが一致する。",
+          "frequency": 5,
+          "difference": "この意味では物事・意見を主語にしやすい。Our views coincide. は見解の一致、I concur. は話者の賛同。coincide の時間的一致は語義3で扱う。",
+          "example": "Their views on the issue coincide with ours.",
+          "translation": "その問題についての彼らの見解は、私たちの見解と一致している。"
+        },
+        {
+          "word": "see eye to eye",
+          "definition": "ある問題について意見が一致する。",
+          "frequency": 6,
+          "difference": "concur より会話的な定着した表現。see eye to eye with someone on something と言い、必ずすべての問題で同意しているわけではない。",
+          "example": "We see eye to eye on the need for a simpler process.",
+          "translation": "私たちは、手続きを簡素化する必要があるという点で意見が一致している。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "disagree",
+          "definition": "相手と意見が異なる、賛成しない。",
+          "frequency": 9,
+          "difference": "意見の一致と不一致という同じ軸での対立。日常的に使え、disagree with someone、disagree on something などを取る。",
+          "example": "I disagree with that assessment.",
+          "translation": "その評価には同意しません。"
+        },
+        {
+          "word": "dissent",
+          "definition": "多数意見や正式な判断に対して異論を唱える。",
+          "frequency": 5,
+          "difference": "賛同と反対表明の方向が対立する硬い語。司法では concur と対になるが、一部同意・一部反対も可能なので、人全体を単純な二者択一にしない。",
+          "example": "Two judges dissented from the decision.",
+          "translation": "2人の裁判官が、その判断に反対した。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【動詞：自動詞】共同して働く、一緒に結果を生む",
+      "frequency": 2,
+      "register": [
+        "低頻度の硬い文章語。学術的な説明や文学的記述。現代の研究論文にも見られるが、一般的な説明では combine、contribute などの方が分かりやすい。"
+      ],
+      "definition": "複数の要因や事情が一緒に作用して、ある結果をもたらす。要因同士が「意見を述べて同意する」のではなく、作用が重なり合うことを表す。",
+      "patterns": [
+        "〈複数の要因〉 + concur to do something＝共に作用して～を生じさせる。to 不定詞はもたらされる結果を示す。目的語を直接取らず、この形の普通の受動態は作らない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "〈複数の要因〉 + concur to produce 〈結果〉",
+          "use": "複数の原因が一つの結果へ共同して作用することを硬く述べる。",
+          "example": "Several independent factors concurred to produce the observed pattern.",
+          "translation": "複数の独立した要因が共同して作用し、観察されたパターンを生み出した。"
+        }
+      ],
+      "notes": [
+        "この concur to do は、語義1で人が「～することを承諾する」という意味の一般的な型ではない。Several factors concurred to cause the delay. は「複数の要因が重なって遅延を招いた」。同意・承諾を述べたい人主語の We agreed to delay the launch.「私たちは発売を延期することに同意した」と構造・意味を分ける。低頻度なので、読解で意味を認識することを優先する。"
+      ],
+      "synonyms": [
+        {
+          "word": "combine",
+          "definition": "複数の要因が合わさって作用する。",
+          "frequency": 7,
+          "difference": "この用法では combine to do が対応し、concur より一般的。意見の一致を表す語義1の concur の代わりにはならない。",
+          "example": "High demand and limited supply combined to raise prices.",
+          "translation": "高い需要と限られた供給が重なって、価格が上昇した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞：自動詞】同時に起こる、時期が重なる",
+      "frequency": 2,
+      "register": [
+        "低頻度の硬い文章語。歴史叙述や学術的記述。一般的には coincide が中心。"
+      ],
+      "definition": "二つ以上の出来事・状態が同じ時に起こる、または時間的に重なる。内容への賛成や共同の意図を必要とせず、同時であること自体を述べる。",
+      "patterns": [
+        "〈複数の出来事〉 + concur＝同時に起こる",
+        "〈出来事〉 + concur with 〈別の出来事〉＝別の出来事と時期が重なる。with は比較する出来事を導く。単純な他動詞型・普通の受動態にはしない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "〈複数の出来事〉 + concur",
+          "use": "二つ以上の出来事の同時発生を硬く述べる。",
+          "example": "The two events concurred in the same year.",
+          "translation": "その二つの出来事は、同じ年に起こった。"
+        },
+        {
+          "pattern": "〈出来事〉 + concur with 〈別の出来事〉",
+          "use": "ある出来事の発生時期を別の出来事に結びつける。",
+          "example": "The rise in trade concurred with a period of political stability.",
+          "translation": "貿易の増加は、政治が安定していた時期と重なっていた。"
+        }
+      ],
+      "notes": [
+        "The report concurs with earlier findings. は通常、内容が一致する語義1。The increase concurred with a change in policy. は、増加と政策変更の時期が重なるこの語義である。後者だけで、政策変更が増加を引き起こしたとは言えない。語義2の「共同して結果を生む」と、時間的に重なるだけのこの語義を分ける。"
+      ],
+      "synonyms": [
+        {
+          "word": "coincide",
+          "definition": "出来事が同時に起こる、期間が重なる。",
+          "frequency": 7,
+          "difference": "時間的一致を表す一般的な語で、concur より広い場面で使う。偶然の一致も計画された一致も可能で、因果関係はそれだけでは示さない。",
+          "example": "The launch coincided with the start of the holiday season.",
+          "translation": "発売は、休暇シーズンの始まりと重なった。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
