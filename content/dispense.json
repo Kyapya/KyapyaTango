@@ -1,0 +1,518 @@
+{
+  "word": "dispense",
+  "slug": "dispense",
+  "ipa": "米・英: /dɪˈspens/。2音節で、第2音節に主強勢がある。第1音節の母音は /ɪ/、第2音節の母音は /e/。語末は /ns/ で、dispensed は /dɪˈspenst/、dispenses は /dɪˈspensɪz/ となる。dispensed の語尾では音節を増やさず、dispenses では /ɪz/ の1音節が加わる。",
+  "lead": "物品・金銭・液体などを、受け手や使用先へ出して供給する。人・組織が配る場合にも、機械や容器が中身を出す場合にも使う。必要量や一定量ずつの供給を述べることが多いが、少量・等分・無料・手渡しであることは必須ではない。",
+  "updated": "2026-10-08",
+  "notion_url": "https://app.notion.com/p/dispense-3f34faa9b77d814f9d09d1a159ec9656",
+  "pronunciation": [],
+  "etymology": [
+    "古フランス語を経て、ラテン語 dispensare「量って配る、支出・管理する」に由来する。さらに dispendere、pendere「量る」にさかのぼる。物や金銭を必要に応じて配る意味とのつながりが見える。同じ「量る」の語根を持つ語には expend「費やす」、compensate「埋め合わせる」がある。現代の dispense with「なしで済ます」は句全体で覚え、「with があるので一緒に配る」と解釈しない。"
+  ],
+  "formation": [
+    {
+      "term": "dispenser（可算名詞）＝物を出す装置、または配る人。soap",
+      "description": "dispenser は石けんの供給器、cash dispenser は現金自動支払機。医薬分野では調剤・交付を行う人や事業者を指す。"
+    },
+    {
+      "term": "dispensary（可算名詞）＝薬を調製・交付する場所。施設内の調剤室や、地域によっては薬を提供する診療施設などを指す。具体的な施設の種類は地域・文脈で確認する。",
+      "description": ""
+    },
+    {
+      "term": "dispensation（名詞）＝特別な免除・許可、分配・施行。特別な許可1件は可算、免除の付与や分配という行為は不可算としても使う。宗教・歴史では統治の仕組み・時代区分なども表し、常に「調剤」と訳せる語ではない。",
+      "description": ""
+    },
+    {
+      "term": "dispensable（形容詞）＝なくても済む、必要不可欠ではない。indispensable",
+      "description": "は「不可欠な」。dispense with の意味と結び付ける。"
+    },
+    {
+      "term": "dispensed（過去形・過去分詞）＝配った・交付した、配られた・交付された。dispensed",
+      "description": "medication「調剤・交付された薬」のような名詞修飾や、was dispensed の受動態は、各動詞義から理解できる。"
+    },
+    {
+      "term": "dispensing（現在分詞・動名詞）＝配ること、調剤すること。語末の",
+      "description": "e を落とす。英国の dispensing chemist は調剤を行う薬剤師・薬局を指す定着表現で、dispensing は名詞の前で機能・業務を示す。"
+    }
+  ],
+  "core": [],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞：他動詞】配る、分配する、装置から出す",
+      "frequency": 6,
+      "register": [
+        "一般にはやや硬い。機器の説明、商品・サービス案内、配給・資金配分の説明で使う。"
+      ],
+      "definition": "物品・金銭・液体などを、受け手や使用先へ出して供給する。人・組織が配る場合にも、機械や容器が中身を出す場合にも使う。必要量や一定量ずつの供給を述べることが多いが、少量・等分・無料・手渡しであることは必須ではない。",
+      "patterns": [
+        "dispense 〈物品・金銭・液体〉＝物などを出す・配る",
+        "dispense something to someone＝人に配る",
+        "dispense something among 〈集団〉＝集団内に分配する",
+        "〈機械・容器〉 + dispense 〈中身〉＝装置などが中身を出す",
+        "〈配布物〉 + be dispensed to someone＝人に配られる。to 以下は受け手が明らかなら省略できる。直接目的語は配るもの。"
+      ],
+      "collocations": [
+        {
+          "pattern": "dispense cash",
+          "use": "ATMなどが現金を出すこと。",
+          "example": "This ATM dispenses cash in several denominations.",
+          "translation": "このATMでは、複数の額面の紙幣を引き出せる。"
+        },
+        {
+          "pattern": "dispense 〈drinks/snacks〉",
+          "use": "自動販売機などから商品を供給すること。",
+          "example": "The machine dispenses hot drinks as well as cold ones.",
+          "translation": "その機械は、冷たい飲み物だけでなく温かい飲み物も出す。"
+        },
+        {
+          "pattern": "dispense something to someone",
+          "use": "物品の配布先を to で示す。",
+          "example": "Staff dispensed emergency supplies to residents at the shelter.",
+          "translation": "職員は避難所で、住民に緊急支援物資を配った。"
+        },
+        {
+          "pattern": "dispense something among 〈集団〉",
+          "use": "集団の構成員に物資などを分けて配る。",
+          "example": "Volunteers dispensed food among the families waiting outside.",
+          "translation": "ボランティアは、外で待つ家族たちに食料を配った。"
+        },
+        {
+          "pattern": "dispense a measured amount of 〈液体〉",
+          "use": "ポンプや機器が一定の量を出す機能を述べる。",
+          "example": "Each press of the pump dispenses a measured amount of soap.",
+          "translation": "ポンプを1回押すたびに、一定量の石けんが出る。"
+        },
+        {
+          "pattern": "be dispensed to someone",
+          "use": "配られるものを主語にする受動態。",
+          "example": "Relief funds were dispensed to households affected by the flood.",
+          "translation": "洪水の被害を受けた世帯に救援資金が支給された。"
+        }
+      ],
+      "notes": [
+        "基本形は dispense supplies to residents。受け手を明示するなら to を使い、dispense residents supplies を標準の二重目的語構文として覚えない。機械が主語でも「処分する」ではなく、利用できるように出すことを表す。dispose of the supplies は「物資を処分する」で別表現。dispense something と語義3の dispense with something は方向が大きく異なり、The machine dispenses tickets. は「機械が切符を発行する」、We can dispense with paper tickets. は「紙の切符なしで済ませられる」となる。"
+      ],
+      "synonyms": [
+        {
+          "word": "distribute",
+          "definition": "物や金銭などを複数の受け手・場所に配る。",
+          "frequency": 8,
+          "difference": "配布先への広がりや分配を広く表す。dispense は供給元から必要なものを出す動作にも使え、装置による供給との結び付きが強い。",
+          "example": "The charity distributed blankets to several shelters.",
+          "translation": "その慈善団体は、複数の避難所に毛布を配った。"
+        },
+        {
+          "word": "give out",
+          "definition": "物などを人々に配る。",
+          "frequency": 8,
+          "difference": "日常的な言い方で、dispense ほど事務的・技術的に響かない。代名詞なら give them out の語順になる。",
+          "example": "They gave out free samples near the entrance.",
+          "translation": "彼らは入口近くで無料の試供品を配った。"
+        },
+        {
+          "word": "issue",
+          "definition": "権限のある組織などが、書類・備品を正式に発行・支給する。",
+          "frequency": 7,
+          "difference": "正式な発行・支給に重点がある。飲み物や液体を装置から出す一般的な動作には通常 dispense を使う。",
+          "example": "The office issued temporary access cards to the visitors.",
+          "translation": "事務所は訪問者に一時入館証を発行した。"
+        },
+        {
+          "word": "disburse",
+          "definition": "基金などから金銭を支払う・支給する。",
+          "frequency": 4,
+          "difference": "金銭に限定される硬い財務用語。dispense は金銭以外の物品や液体にも使える。",
+          "example": "The agency will disburse the grant in three installments.",
+          "translation": "その機関は、助成金を3回に分けて支給する。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【動詞：他動詞・自動詞】薬を調剤・交付する、調剤業務を行う",
+      "frequency": 6,
+      "register": [
+        "医療・薬局。専門業務を表すが、患者向けの説明にも使う。"
+      ],
+      "definition": "薬を患者に渡せるように調製・用意し、交付する。処方に基づく薬の調剤・供給でよく使う。他動詞の目的語は薬や prescription、自動詞では薬を目的語に出さず「調剤を行う」と述べる。治療として薬を選んで指示することや、患者の身体に投与することとは区別する。",
+      "patterns": [
+        "dispense 〈medicine/medication/drugs〉＝薬を調剤・交付する",
+        "dispense something to someone＝人に薬を交付する",
+        "dispense a prescription＝処方箋に従って薬を調剤・交付する",
+        "〈薬・処方箋〉 + be dispensed＝調剤・交付される",
+        "〈調剤を行う人・施設〉 + dispense＝調剤業務を行う〔目的語なし〕。"
+      ],
+      "collocations": [
+        {
+          "pattern": "dispense medication",
+          "use": "薬を調剤・交付する業務を述べる。",
+          "example": "The pharmacy dispenses medication for both inpatients and outpatients.",
+          "translation": "その薬局は、入院患者と外来患者の両方に向けて薬を調剤・交付している。"
+        },
+        {
+          "pattern": "dispense medicine to someone",
+          "use": "薬を受け取る患者を to で示す。",
+          "example": "The pharmacist dispensed the medicine to the patient and explained the label.",
+          "translation": "薬剤師は患者に薬を交付し、ラベルの内容を説明した。"
+        },
+        {
+          "pattern": "dispense a prescription",
+          "use": "処方箋に記された薬を用意し、交付すること。",
+          "example": "The pharmacy could not dispense my prescription until the missing details were confirmed.",
+          "translation": "不足していた情報が確認されるまで、薬局は私の処方箋の薬を調剤・交付できなかった。"
+        },
+        {
+          "pattern": "be dispensed by 〈薬局・調剤担当者〉",
+          "use": "薬の調剤・交付元を受動態で示す。",
+          "example": "The medication was dispensed by the hospital pharmacy.",
+          "translation": "その薬は病院の薬局で調剤・交付された。"
+        },
+        {
+          "pattern": "〈薬局職員〉 + dispense",
+          "use": "具体的な薬名を目的語に出さず、調剤業務に従事すると述べる。",
+          "example": "Some members of the pharmacy team dispense, while others manage stock.",
+          "translation": "薬局チームでは、調剤を担当する職員もいれば、在庫管理を担当する職員もいる。"
+        }
+      ],
+      "notes": [
+        "prescribe a medicine は「薬を処方する」、dispense a medicine は「薬を調剤・交付する」、administer a medicine は「薬を投与する」。同じ薬について連続して起こり得るが、同じ行為ではない。dispense a prescription の prescription は処方内容を介して薬の用意・交付を指すので、「処方箋を作成する」とは訳さない。誰が処方・調剤できるかは資格と地域の制度によるため、「医師だけが prescribe、薬剤師だけが dispense」という世界共通の規則にはしない。調剤には既製の錠剤などを確認・用意する場合も含まれ、必ず原料を混ぜて薬を作るわけではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "fill",
+          "definition": "処方箋に従って薬を用意し、渡せるようにする。",
+          "frequency": 6,
+          "difference": "とくに米語の fill a prescription が定着している。目的語に prescription を取り、単なる「空所を埋める」ではない。",
+          "example": "Can this pharmacy fill the prescription today?",
+          "translation": "この薬局で、今日この処方箋の薬を用意してもらえますか。"
+        },
+        {
+          "word": "supply",
+          "definition": "必要な薬を人・施設に供給する。",
+          "frequency": 6,
+          "difference": "供給・引渡しを広く表し、dispense のように患者向けの調剤業務を特定しない。卸から医療施設への供給にも使う。",
+          "example": "The company supplies medicines to clinics across the region.",
+          "translation": "その会社は、地域全体の診療所に医薬品を供給している。"
+        },
+        {
+          "word": "compound",
+          "definition": "薬の成分を組み合わせ、必要な製剤を調製する。",
+          "frequency": 3,
+          "difference": "調製の部分で重なる専門語。dispense は既製薬の交付にも使え、compound だけでは患者への交付を表さない。",
+          "example": "The pharmacist compounded a liquid preparation for the patient.",
+          "translation": "薬剤師は、その患者のために液剤を調製した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【前置詞動詞：dispense with something】なしで済ます、省く",
+      "frequency": 6,
+      "register": [
+        "やや硬い。業務の簡素化、議論、説明文。Let's dispense with... は会話でも使う。"
+      ],
+      "definition": "物・手順・形式などを、使わずに済ませる、または必要ないとして省く。不要になったものをやめる場合にも、今回だけ省略する場合にも使う。単に物を持っていない状態ではなく、それを用いずに進めるという判断・可能性に重点がある。",
+      "patterns": [
+        "dispense with something＝物・手順を省く",
+        "dispense with 〈動名詞句〉＝ある行為をせずに済ます",
+        "dispense with the need for something＝何かの必要性をなくす",
+        "can/cannot dispense with something＝省ける・省けない",
+        "〈省かれるもの〉 + be dispensed with＝省略される。with の目的語を dispense の直後へ移せない非分離型。"
+      ],
+      "collocations": [
+        {
+          "pattern": "dispense with the formalities",
+          "use": "儀礼的な挨拶や形式的な手順を省いて進める。",
+          "example": "Let's dispense with the formalities and begin the discussion.",
+          "translation": "形式的な挨拶は省いて、話し合いを始めましょう。"
+        },
+        {
+          "pattern": "dispense with something",
+          "use": "使っていた物を不要として使わなくする。",
+          "example": "With the new digital system, we can dispense with paper receipts.",
+          "translation": "新しいデジタルシステムがあれば、紙の領収書なしで済ませられる。"
+        },
+        {
+          "pattern": "dispense with 〈動名詞句〉",
+          "use": "with の後ろに行為を置き、その行為を省く。",
+          "example": "The online form lets us dispense with entering the same details twice.",
+          "translation": "そのオンラインフォームを使えば、同じ情報を2回入力せずに済む。"
+        },
+        {
+          "pattern": "dispense with the need for something",
+          "use": "仕組みなどが、あるものを必要としなくすること。",
+          "example": "The update dispenses with the need for a separate login.",
+          "translation": "この更新により、別途ログインする必要がなくなる。"
+        },
+        {
+          "pattern": "dispense with it",
+          "use": "すでに述べた物・手順を代名詞で受ける。",
+          "example": "The extra approval adds no value, so we should dispense with it.",
+          "translation": "追加の承認は何の役にも立たないので、省くべきだ。"
+        },
+        {
+          "pattern": "cannot be dispensed with",
+          "use": "ある手順や要素を省略できないと述べる。",
+          "example": "The final safety check cannot be dispensed with.",
+          "translation": "最後の安全確認は省略できない。"
+        }
+      ],
+      "notes": [
+        "「それを省く」は dispense with it で、dispense it with ではない。with はこの意味を作る必須要素。dispense information「情報を提供する」は語義4、dispense with that information「その情報なしで済ます」はこの語義である。dispense with doing は可能だが、dispense to do を「～せずに済ます」の形にはしない。dispense with the need for... は obviate the need for... に近いが、obviate は原因・対策が必要性をなくすことに重点があり、単に「自分は使わないことにする」とは限らない。語義5では with の目的語が人やそのサービスになり、利用・雇用の終了を表す。"
+      ],
+      "synonyms": [
+        {
+          "word": "do without",
+          "definition": "あるものを持たず・使わずに済ませる。",
+          "frequency": 8,
+          "difference": "日常的な表現で、不足を我慢して乗り切る場合にも使う。dispense with は不要として省く判断に使いやすい。",
+          "example": "We can do without a printer for a few days.",
+          "translation": "数日なら、プリンターなしで何とかなる。"
+        },
+        {
+          "word": "forgo",
+          "definition": "得られるものや行えることを、自分の意思で断念する。",
+          "frequency": 5,
+          "difference": "利益・楽しみ・機会などをあえて手放す点に重点がある。dispense with は手順や装置の合理的な省略にも使う。",
+          "example": "She chose to forgo the bonus in exchange for extra leave.",
+          "translation": "彼女は追加の休暇と引き換えに、賞与を受け取らないことにした。"
+        },
+        {
+          "word": "omit",
+          "definition": "全体の一部となる項目・工程などを省く。",
+          "frequency": 7,
+          "difference": "意図的な省略にも、うっかりした脱落にも使う。dispense with は通常、不要として使わない・行わないという意味になる。",
+          "example": "You can omit the introductory section from this version.",
+          "translation": "この版では、導入部分を省いて構わない。"
+        },
+        {
+          "word": "do away with",
+          "definition": "制度・慣習・道具などを廃止し、なくす。",
+          "frequency": 6,
+          "difference": "仕組みそのものを撤廃する意味が強い。dispense with は一度の会議で形式を省くなど、限定的な不使用にも使える。",
+          "example": "The company did away with the old paper-based system.",
+          "translation": "その会社は、古い紙ベースの仕組みを廃止した。"
+        },
+        {
+          "word": "waive",
+          "definition": "権限のある側が、要件の適用や請求などを免除・放棄する。",
+          "frequency": 6,
+          "difference": "要件・料金を省く場面で重なるが、権利や要件を適用しないという立場が重要。dispense with a printer のような単なる不使用には使わない。",
+          "example": "The organizer waived the registration fee for volunteers.",
+          "translation": "主催者は、ボランティアの参加登録料を免除した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞：他動詞】助言・サービスを与える、司法を執り行う",
+      "frequency": 5,
+      "register": [
+        "硬めの文章・報道。dispense advice や dispense wisdom は、助言をする人物の役割を描写するほか、文脈によっては上から教える態度を皮肉ることもある。"
+      ],
+      "definition": "助言・情報・サービスなどを人に提供する。物を配る語義1に近いが、対象が抽象的な内容・働きになる。dispense justice は裁判・裁定などを通じて正義を実現する、司法を執り行うことを指し、単に justice という情報を伝える意味ではない。",
+      "patterns": [
+        "dispense 〈advice/information/wisdom〉＝助言・情報・知恵を与える",
+        "dispense something to someone＝人に助言・サービスなどを提供する",
+        "dispense advice on 〈話題〉＝その話題について助言する",
+        "dispense justice＝司法を執り行う・公正な裁きを行う",
+        "〈提供内容〉 + be dispensed＝提供される。"
+      ],
+      "collocations": [
+        {
+          "pattern": "dispense advice on 〈話題〉",
+          "use": "特定分野に関する助言を与えること。",
+          "example": "Her weekly column dispenses advice on managing workplace conflict.",
+          "translation": "彼女の週刊コラムでは、職場の対立への対処について助言している。"
+        },
+        {
+          "pattern": "dispense information to someone",
+          "use": "人々に情報を提供する役割を述べる。",
+          "example": "The help desk dispenses information to visitors throughout the day.",
+          "translation": "案内窓口では、一日を通して来訪者に情報を提供している。"
+        },
+        {
+          "pattern": "dispense wisdom",
+          "use": "知恵・教訓を語る人物を描写する。",
+          "example": "He spent the evening dispensing wisdom to anyone who would listen.",
+          "translation": "彼はその晩、耳を傾ける人には誰彼かまわず教訓を語っていた。"
+        },
+        {
+          "pattern": "dispense healthcare",
+          "use": "医療サービスを提供することを硬めに表す。",
+          "example": "The mobile clinic dispenses basic healthcare in remote villages.",
+          "translation": "その移動診療所は、遠隔地の村々で基本的な医療を提供している。"
+        },
+        {
+          "pattern": "dispense justice",
+          "use": "裁判所などが司法・裁きを担うこと。",
+          "example": "Courts must dispense justice without favoring the wealthy.",
+          "translation": "裁判所は、富裕層を優遇せずに公正な裁きを行わなければならない。"
+        }
+      ],
+      "notes": [
+        "advice・information・wisdom はこの用法では通常不可算で、dispense an advice ではなく dispense advice。皮肉っぽさは必須の意味ではなく、誰がどう語ったかという文脈から生じる。語義3の dispense with advice は「助言なしで済ます」で、助言を与えることではない。administer は dispense justice と近い用法を持つが、薬についての administer medication は「投与する」であり、語義2の調剤・交付とは異なる。"
+      ],
+      "synonyms": [
+        {
+          "word": "provide",
+          "definition": "必要な情報・サービスなどを利用できるように供給する。",
+          "frequency": 9,
+          "difference": "広く中立的に使える。dispense は、助言などを次々に与える人物やサービスの提供主体を描くときに、より硬く響く。",
+          "example": "The center provides practical advice for new business owners.",
+          "translation": "そのセンターは、新しく事業を始めた人に実践的な助言を提供する。"
+        },
+        {
+          "word": "offer",
+          "definition": "助言・支援などを相手に差し出す・申し出る。",
+          "frequency": 9,
+          "difference": "相手に受け入れる選択肢を示す意味がある。dispense は提供する動作に重点があるが、どちらも相手が助言に従うことまでは意味しない。",
+          "example": "She offered advice when I asked for help.",
+          "translation": "私が助けを求めると、彼女は助言してくれた。"
+        },
+        {
+          "word": "administer",
+          "definition": "司法などの制度を運用・執行する。",
+          "frequency": 5,
+          "difference": "administer justice の意味で重なる。制度を責任を持って運用する点が中心で、助言を述べること全般の言い換えではない。",
+          "example": "The courts administer justice on behalf of the state.",
+          "translation": "裁判所は国家を代表して司法を執り行う。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【前置詞動詞：dispense with someone / someone's services】人の利用・雇用をやめる",
+      "frequency": 3,
+      "register": [
+        "硬い。雇用・契約の説明。人を不要物のように扱う冷たい響きが出ることがある。"
+      ],
+      "definition": "人の手助け・仕事を不要として、その人のサービスを使うのをやめる。雇用関係では「解雇する」、業務委託などでは「契約・依頼を打ち切る」となることがある。物・手順を省く語義3から人に対象が移り、事務的で距離のある言い方になる。",
+      "patterns": [
+        "dispense with someone＝その人を使わずに済ませる・利用をやめる",
+        "dispense with someone's services＝人の仕事・サービスを利用しなくなる",
+        "〈人・サービス〉 + be dispensed with＝利用・雇用を打ち切られる。with は目的語の前に残し、dispense with them とする。"
+      ],
+      "collocations": [
+        {
+          "pattern": "dispense with someone's services",
+          "use": "雇用や専門サービスの利用を終了すると硬く述べる。",
+          "example": "The company decided to dispense with the consultant's services after the review.",
+          "translation": "見直しの結果、その会社はコンサルタントへの依頼を打ち切ることにした。"
+        },
+        {
+          "pattern": "dispense with someone",
+          "use": "人に頼らず仕事を進める、またはその人の利用をやめる。",
+          "example": "Once the route was clearly marked, the group dispensed with its guide.",
+          "translation": "道筋がはっきり示されると、その一行はガイドを頼まなくなった。"
+        },
+        {
+          "pattern": "be dispensed with",
+          "use": "利用されなくなるサービスを主語にする。",
+          "example": "The contractor's services were dispensed with when the project ended.",
+          "translation": "プロジェクトが終わると、その請負業者のサービスは使われなくなった。"
+        }
+      ],
+      "notes": [
+        "dispense with a consultant は「コンサルタントを利用しなくなる」で、語義4の dispense advice「助言を与える」と取り違えない。人を目的語にしても dispense someone with にはしない。必ず正社員の解雇になるわけではなく、相手との雇用・委託・案内などの関係から訳を選ぶ。人から義務を取り除く「免除する」は語義6の dispense someone from something で、語順と前置詞が異なる。"
+      ],
+      "synonyms": [
+        {
+          "word": "dismiss",
+          "definition": "雇用されている人を職から離れさせる。",
+          "frequency": 7,
+          "difference": "この意味では解雇を直接表す。dispense with someone's services は、雇用以外のサービス契約の終了にも使える。",
+          "example": "The firm dismissed the manager after an internal investigation.",
+          "translation": "その会社は、内部調査のあと、その管理職を解雇した。"
+        },
+        {
+          "word": "let go",
+          "definition": "従業員を辞めさせる。",
+          "frequency": 7,
+          "difference": "雇用終了をやわらかく述べる日常的な言い方。dispense with は硬く、相手が不要になったという印象を与えやすい。",
+          "example": "The company let several employees go during the restructuring.",
+          "translation": "その会社は、組織再編の際に従業員を数名解雇した。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "retain",
+          "definition": "雇用やサービスの利用を継続する。",
+          "frequency": 6,
+          "difference": "同じ人との業務関係を終えるか、保つかという継続・終了の対立。retain には新たに専門家を雇う意味もあるが、ここでは継続義。",
+          "example": "The company retained the consultant for another year.",
+          "translation": "その会社は、そのコンサルタントとの契約をさらに1年間継続した。"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "【動詞：他動詞・自動詞】義務から免除する、免除を認める",
+      "frequency": 2,
+      "register": [
+        "硬い・低頻度。とくに宗教・教会法。一般の事務的な免除には exempt や excuse の方が広く使われる。"
+      ],
+      "definition": "権限を持つ者が、人を規則・義務などから特別に免除する。現代の一般英語ではまれで、宗教・教会法などの専門文脈に残る。免除対象の規則自体を廃止することではなく、個別の場合にその適用を緩めることを述べる。",
+      "patterns": [
+        "dispense someone from 〈義務・規則〉＝人を義務などから免除する",
+        "be dispensed from 〈義務・規則〉＝免除される",
+        "〈免除権者〉 + dispense from 〈義務・規則〉＝その義務・規則について免除を認める〔人の直接目的語なし〕",
+        "have the power to dispense＝免除を認める権限がある〔専門文脈での目的語なしの用法〕。"
+      ],
+      "collocations": [
+        {
+          "pattern": "dispense someone from an obligation",
+          "use": "宗教上の義務を個別に免除すること。",
+          "example": "The bishop dispensed the parishioners from the obligation to attend Mass that Sunday.",
+          "translation": "司教は、その日曜日にミサへ出席する義務を教区民に対して免除した。"
+        },
+        {
+          "pattern": "be dispensed from 〈義務〉",
+          "use": "義務を免除された側を主語にする。",
+          "example": "The faithful had been dispensed from the obligation to fast on that day.",
+          "translation": "信徒たちは、その日に断食する義務を免除されていた。"
+        },
+        {
+          "pattern": "〈免除権者〉 + dispense from 〈義務・規則〉",
+          "use": "免除を認める側を主語にし、人の直接目的語を置かずに免除対象を示す。",
+          "example": "The diocesan decree specifies who may dispense from this obligation.",
+          "translation": "その教区の教令は、誰がこの義務の免除を認められるかを定めている。"
+        },
+        {
+          "pattern": "have the power to dispense",
+          "use": "教会法などで、免除を与える権限に言及する。",
+          "example": "Canon law specifies who has the power to dispense in such cases.",
+          "translation": "教会法は、そうした場合に誰が免除を認める権限を持つかを定めている。"
+        }
+      ],
+      "notes": [
+        "dispense someone from an obligation は「その人の義務を免除する」、語義5の dispense with someone は「その人の利用をやめる」。受動態の They were dispensed from the obligation. は、能動態の人目的語が主語になった形であり、with の省略ではない。一方、The bishop may dispense from this obligation. は司教が免除を認める側であり、人の直接目的語を置かない能動形。The faithful may be dispensed from this obligation. は信徒が免除を受ける側になる受動形で、主語の役割が反対になる。カトリック教会法の dispensation は、個別の場合に教会法上の規定の適用を緩める制度で、誰でも何でも免除できるわけではない。具体的な権限・対象は該当制度で確認する。一般辞書で古風とされる目的語なしの免除義も、power to dispense のような現行の教会法文書には現れる。"
+      ],
+      "synonyms": [
+        {
+          "word": "exempt",
+          "definition": "人や団体を、義務・規則などの適用対象から外す。",
+          "frequency": 6,
+          "difference": "税・研修・各種要件などに広く使える。dispense someone from は硬く、現代では宗教などの文脈が中心。",
+          "example": "The policy exempts temporary staff from this training requirement.",
+          "translation": "その方針では、臨時職員にこの研修要件を適用しない。"
+        },
+        {
+          "word": "excuse",
+          "definition": "人に課されている出席・参加などの義務を免除する。",
+          "frequency": 6,
+          "difference": "個別の事情を認めて「しなくてよい」とする一般的な言い方。dispense より日常的で、宗教上の権限を含意しない。",
+          "example": "The supervisor excused her from the afternoon meeting.",
+          "translation": "上司は、彼女が午後の会議に出席しなくてもよいことにした。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
