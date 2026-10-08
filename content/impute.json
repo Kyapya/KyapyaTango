@@ -1,0 +1,392 @@
+{
+  "word": "impute",
+  "slug": "impute",
+  "ipa": "米・英: /ɪmˈpjuːt/。2音節で、第2音節 /pjuːt/ に主強勢を置く。/p/ の後の /j/ を含み、「プート」ではなく「ピュート」に近い。imputed は /ɪmˈpjuːtɪd/ で、語末に /ɪd/ が加わる。imputation は /ˌɪmpjuˈteɪʃn/ で、主強勢が第3音節 /teɪ/ に移り、第1音節に第二強勢がある。",
+  "lead": "行為、動機、性質、原因、責任などを、ある人や物事に結び付けて、その人のもの・その事柄によるものだとする。悪い動機や責任を不当に帰す文脈が多いが、非難、虚偽、不公平さが必ず含まれるわけではない。",
+  "updated": "2026-10-08",
+  "notion_url": "https://app.notion.com/p/impute-3f34faa9b77d81579460e8cb0f24bc7b",
+  "pronunciation": [],
+  "etymology": [
+    "ラテン語 imputare「勘定に入れる・帰する」に由来し、in- と putare「考える・計算する」からなる。「ある対象の勘定として考える」という語源上のつながりがある。",
+    "compute「計算する」、repute「～と考える・評する」も putare に由来する同系語。input「入力する・入力」は別語で、綴りの似方から同一視しない。"
+  ],
+  "formation": [
+    {
+      "term": "imputes",
+      "description": "/ imputed / imputing：三人称単数現在形／過去形・過去分詞／現在分詞。-ing では語末の e を落とす。"
+    },
+    {
+      "term": "imputation",
+      "description": "名詞「帰属・非難」、統計では「欠測値の補完」、経済では「帰属計算」、キリスト教神学では義・罪責などの「帰算」。imputation of 〈帰属・補完されるもの〉 のように対象を示す。"
+    },
+    {
+      "term": "imputable",
+      "description": "形容詞「～に帰すべき・帰することのできる」。imputable to someone/something の型を取り、フォーマル・専門的。"
+    },
+    {
+      "term": "imputability",
+      "description": "名詞「帰責可能性・責任を帰せること」。主に法律・倫理などの専門的な議論で使う。"
+    },
+    {
+      "term": "imputed",
+      "description": "過去分詞から定着した形容詞用法があり、推定・補完された値や帰属計算上の価値を指す。語義4を参照。"
+    }
+  ],
+  "core": [
+    {
+      "label": "ある事柄・性質・値を、判断や計算によって対象に割り当てて扱う。動機や責任の帰属では誰に結び付けるか、統計・経済ではどの値を与えるかが中心になる。必ずしも根拠がないことや、悪い内容であることを意味しない。",
+      "description": ""
+    },
+    {
+      "label": "判断して性質や原因を割り当てること",
+      "description": "→ 「～に帰する・～のせいにする」（語義1）"
+    },
+    {
+      "label": "推定して欠測箇所に値を割り当てること",
+      "description": "→ 「欠測値などを推定して補う」（語義2）"
+    },
+    {
+      "label": "計算して非現金の価値などを割り当てること",
+      "description": "→ 「価値を帰属計算する」（語義3）"
+    },
+    {
+      "label": "推定値や計算上の価値を割り当てた状態",
+      "description": "→ 「推定・補完された・帰属計算上の」（語義4）"
+    },
+    {
+      "label": "法的な扱いとして責任などを割り当てること",
+      "description": "→ 「法的に帰属させる」（語義5）"
+    },
+    {
+      "label": "神学的な扱いとして義や罪責を割り当てること",
+      "description": "→ 「義・罪責を帰算する」（語義6）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞：他動詞】～に帰する・～のせいにする",
+      "frequency": 4,
+      "register": [
+        "フォーマル・書き言葉。論説、批評、心理・哲学的な説明など。日常の「～のせいにする」には blame や attribute が使われやすい。"
+      ],
+      "definition": "行為、動機、性質、原因、責任などを、ある人や物事に結び付けて、その人のもの・その事柄によるものだとする。悪い動機や責任を不当に帰す文脈が多いが、非難、虚偽、不公平さが必ず含まれるわけではない。",
+      "patterns": [
+        "impute something to someone/something＝ある事柄を人・原因などに帰する",
+        "impute 〈動機・性質〉 to someone＝人にその動機・性質があると考える",
+        "impute something to oneself＝ある事柄を自分に帰する",
+        "something is imputed to someone/something＝事柄がその対象に帰せられる。to は帰属先を導く前置詞で、不定詞の to ではない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "impute motives to someone",
+          "use": "相手の行動の背後に動機があるとする。",
+          "example": "We should not impute selfish motives to her without evidence.",
+          "translation": "証拠もなく、彼女に利己的な動機があると決めつけるべきではない。"
+        },
+        {
+          "pattern": "impute something to someone's actions",
+          "use": "行為そのものに動機や性質を読み込む。",
+          "example": "The article imputes malice to actions that may simply reflect confusion.",
+          "translation": "その記事は、単に混乱から出たのかもしれない行動に悪意を読み込んでいる。"
+        },
+        {
+          "pattern": "impute 〈結果・行動〉 to 〈原因〉",
+          "use": "出来事を特定の原因によるものと説明する。",
+          "example": "They imputed his silence to embarrassment rather than hostility.",
+          "translation": "彼らは、彼の沈黙を敵意ではなく気まずさのせいだと考えた。"
+        },
+        {
+          "pattern": "impute 〈性質〉 to something",
+          "use": "非難とは限らない性質の帰属を述べる。",
+          "example": "The study examines why people impute human intentions to simple machines.",
+          "translation": "その研究は、人が単純な機械に人間のような意図を見いだす理由を調べている。"
+        },
+        {
+          "pattern": "be imputed to someone",
+          "use": "帰属させられる事柄を主語にする。",
+          "example": "Selfish motives were imputed to the researcher without any supporting evidence.",
+          "translation": "裏付けとなる証拠もなく、その研究者には利己的な動機があるとされた。"
+        }
+      ],
+      "notes": [
+        "impute dishonesty to him は「不正直さを彼に帰する」で、直接目的語は帰属させる内容。blame him for the failure は「失敗の責任を彼に負わせる」で、直接目的語は人。この形を混ぜて impute him for the failure という誤った形にしない。to の前後を自由に入れ替える型ではなく、代名詞でも impute it to him。impute A to B という前置詞補語を伴う他動詞構文で、分離可能な小辞型の句動詞ではない。悪いことに偏る傾向はあるが、impute intelligence to a machine のような帰属まで誤用としない。再帰目的語を後ろに置く impute success to oneself も文法的には可能だが、reproach oneself「自分を責める」のような独立した心理義ではない。功績を自然にたたえる場面では credit が使われやすい。"
+      ],
+      "synonyms": [
+        {
+          "word": "attribute",
+          "definition": "結果・性質・作品などを特定の原因・人に帰する。",
+          "frequency": 7,
+          "difference": "attribute A to B が基本で、良い結果・悪い結果のどちらにも広く使う。impute に出やすい不当な動機帰属の響きが弱い。",
+          "example": "She attributed the improvement to better training.",
+          "translation": "彼女は、改善は研修がよくなったためだと考えた。"
+        },
+        {
+          "word": "ascribe",
+          "definition": "結果・作品・性質などを、ある原因・作者・対象に帰する。",
+          "frequency": 4,
+          "difference": "ascribe A to B を使うフォーマルな語で、解釈や原因の推定に向く。impute ほど非難の方向へ偏らない。",
+          "example": "The historian ascribed the change to a shift in public opinion.",
+          "translation": "その歴史家は、変化の原因を世論の変化に求めた。"
+        },
+        {
+          "word": "credit",
+          "definition": "功績や結果の源として人・物を評価する。",
+          "frequency": 7,
+          "difference": "好ましい成果の帰属が中心。credit someone with something、credit something to someone の型があり、impute と目的語の置き方を混同しない。",
+          "example": "The team credited the engineer with solving the problem.",
+          "translation": "チームは、その問題を解決した功績はその技術者にあると認めた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【動詞：他動詞】欠測値などを推定して補う",
+      "frequency": 3,
+      "register": [
+        "統計・調査・データ分析。専門領域ではよく使うが、英語全体では低頻度。"
+      ],
+      "definition": "統計・データ処理で、観測されていない値や利用できない値などに対し、既知の情報や決められた方法から値を推定し、分析に使うデータを補う。不適切な値を修正する処理と組み合わせて使うこともある。",
+      "patterns": [
+        "impute missing values/data＝欠測値・欠測データを補完する",
+        "impute a value for 〈欠測している項目〉＝欠けている項目の値を推定して補う",
+        "impute missing values using 〈方法・情報〉＝方法・情報を用いて補完する",
+        "missing values are imputed＝欠測値が補完される。"
+      ],
+      "collocations": [
+        {
+          "pattern": "impute missing values",
+          "use": "データ分析における欠測値の補完を述べる。",
+          "example": "The analysts imputed missing values before fitting the model.",
+          "translation": "分析担当者たちは、モデルを当てはめる前に欠測値を補完した。"
+        },
+        {
+          "pattern": "impute a value for 〈欠測項目〉",
+          "use": "値を補う対象を for で明示する。",
+          "example": "The program imputes a value for each missing response.",
+          "translation": "そのプログラムは、欠けている回答のそれぞれについて値を推定して補う。"
+        },
+        {
+          "pattern": "impute missing values using 〈方法〉",
+          "use": "補完の方法を示す。",
+          "example": "We imputed the missing ages using a model based on the other recorded variables.",
+          "translation": "私たちは、記録されているほかの変数に基づくモデルを使って、欠けている年齢の値を補完した。"
+        },
+        {
+          "pattern": "be imputed from 〈既知の情報〉",
+          "use": "補完値を得るために使った情報を述べる。",
+          "example": "Missing expenditure figures were imputed from records of similar households.",
+          "translation": "欠けている支出額は、類似する世帯の記録から推定して補われた。"
+        }
+      ],
+      "notes": [
+        "この用法では impute missing values のように、帰属先の to 句なしで完結する。impute は「実際の値を観測する」「データを入力する」と同じではなく、補った値には推定・処理が入っている。入力する input と取り違えない。補完の方法は平均値による代入、ほかの観測例の利用、モデルによる方法などさまざまで、impute だけでは特定の方法や正確さは分からない。interpolate は既知の点の間を補間する方法で、imputation 全体の言い換えではない。be imputed from ... の from は推定の情報源、語義1の be imputed to ... の to は帰属先を表す。"
+      ],
+      "synonyms": [
+        {
+          "word": "estimate",
+          "definition": "不明な量や値を、利用できる情報から推し量る。",
+          "frequency": 8,
+          "difference": "推定全般を表し、データの欠測箇所へ値を補うことに限らない。impute は補完処理として値を与える点が中心。",
+          "example": "The model estimates demand from historical sales data.",
+          "translation": "そのモデルは、過去の売上データから需要を推定する。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞：他動詞】価値を帰属計算する",
+      "frequency": 2,
+      "register": [
+        "経済学・国民経済計算・会計など。具体的な計算法や税務上の扱いは、それぞれの制度で決まる。"
+      ],
+      "definition": "経済・会計などで、直接観測できない、実際の現金取引になっていない、または金額が不明な財・サービス・便益などに、計算上の金銭価値を与える。単に請求書の金額を入力することではない。",
+      "patterns": [
+        "impute a value to something＝物・サービスなどに計算上の価値を与える",
+        "impute 〈家賃・所得・費用など〉＝実際の支払いや受取りとは別に金額を算定する",
+        "a value is imputed to something＝計算上の価値が与えられる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "impute a value to 〈非現金の便益〉",
+          "use": "現金で受け取らない便益を金額で評価する。",
+          "example": "The analysis imputes a monetary value to the use of the company apartment.",
+          "translation": "その分析は、会社の住居を利用する便益に金銭的な価値を算定している。"
+        },
+        {
+          "pattern": "impute rental income",
+          "use": "実際の家賃収入がなくても、住宅サービスの価値を計算に入れる。",
+          "example": "In the economic accounts, rental income is imputed for owner-occupied housing.",
+          "translation": "その経済計算では、持家について帰属家賃収入が算定されている。"
+        },
+        {
+          "pattern": "impute a cost",
+          "use": "現金支出に表れない費用を計算上で考慮する。",
+          "example": "The model imputes a cost for the owner's unpaid work.",
+          "translation": "そのモデルは、所有者の無給の労働について費用を帰属計算している。"
+        }
+      ],
+      "notes": [
+        "impute a value to a service は語義1と同じ A to B の形でも、「サービスが価値の原因だと責める」ではなく、サービスに金額を割り当てる。語義2は欠けたデータを補うこと、語義3は取引に直接現れない価値などを計算上で認識することに重心があり、両者は関連するが同一ではない。持家の imputed rent は、持家に住む人が誰かに実際に払った家賃という意味ではない。経済計算で値を付けたからといって、それだけでその国の税法上の課税所得になるとは限らない。"
+      ],
+      "synonyms": [
+        {
+          "word": "value",
+          "definition": "物・資産・サービスなどの金銭的価値を評価する。",
+          "frequency": 6,
+          "difference": "value something at 〈金額〉 などを使い、売却する資産の査定にも広く使う。impute は直接の取引価格などがない対象への計算上の価値付与を強調する。",
+          "example": "The survey valued unpaid care at the cost of equivalent paid services.",
+          "translation": "その調査は、無償のケアを同等の有償サービスにかかる費用で評価した。"
+        },
+        {
+          "word": "estimate",
+          "definition": "金銭的な量や価値を、情報に基づいて推定する。",
+          "frequency": 8,
+          "difference": "金額を推定する広い語で、帰属計算として記録・認識することまでは示さない。",
+          "example": "The researchers estimated the annual value of volunteer work.",
+          "translation": "研究者たちは、ボランティア活動の年間の価値を推定した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【形容詞：imputed・限定用法中心】推定・補完された・帰属計算上の",
+      "frequency": 3,
+      "register": [
+        "統計・経済・会計。imputed values、imputed income、imputed rent などの連語が重要。"
+      ],
+      "definition": "直接得られない値をほかの情報から推定して補った、または財・サービスなどの価値を計算上で算定した。動詞 impute の過去分詞からできた専門的な形容詞で、データや金額の性質を分類する。",
+      "patterns": [
+        "imputed 〈values/data〉＝推定して補完された値・データ",
+        "imputed 〈income/rent/costs〉＝帰属計算による所得・家賃・費用",
+        "the values are imputed＝値が補完されたものである、または補完される。叙述形では文脈により形容詞的な分類と動詞の受動が重なる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "imputed values",
+          "use": "実際の観測値と、補完による値を区別する。",
+          "example": "Imputed values are marked separately from observed values in the dataset.",
+          "translation": "そのデータセットでは、補完値には観測値と区別できる印が付いている。"
+        },
+        {
+          "pattern": "imputed income",
+          "use": "現金の受取りに限らない、計算上の所得を指す。",
+          "example": "The report presents cash earnings and imputed income from housing services in separate columns.",
+          "translation": "その報告書は、現金収入と住宅サービスからの帰属所得を別の列で示している。"
+        },
+        {
+          "pattern": "imputed rent",
+          "use": "とくに持家から得られる住宅サービスの計算上の価値を述べる。",
+          "example": "The estimate of imputed rent reflects the housing services owners receive from their own homes.",
+          "translation": "帰属家賃の推計は、所有者が自宅から受ける住宅サービスを反映している。"
+        },
+        {
+          "pattern": "imputed costs",
+          "use": "現金支出には出ない計算上の費用を指す。",
+          "example": "The comparison includes imputed costs for land owned by the business.",
+          "translation": "その比較には、事業者が所有する土地についての帰属費用も含まれる。"
+        }
+      ],
+      "notes": [
+        "an imputed value の imputed は名詞前の分類的な形容詞で、ハイフンは不要。The value was imputed by the analyst. なら、by で行為者を示す受動が明確。The values are imputed, not observed. なら値の種類の対比になる。通常の「とても推定された」という程度にはしないため、very imputed や more imputed を品質の程度比較として使うのは誤り。more imputed values なら more は値の個数を増やす。imputed rent/income の具体的な算定範囲は文書や制度に依存し、「架空の金額」「不正確な値」と決めつけない。"
+      ],
+      "synonyms": [
+        {
+          "word": "estimated",
+          "definition": "直接の確定値ではなく、情報をもとに推定された。",
+          "frequency": 7,
+          "difference": "推定された数値全般に使い、欠測補完や帰属計算であることまでは限定しない。imputed の説明を単に estimated と置き換えると、値を与えた目的が消える。",
+          "example": "The estimated cost includes materials and labour.",
+          "translation": "その推定費用には、材料費と人件費が含まれる。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【動詞：他動詞】法的に帰属させる",
+      "frequency": 2,
+      "register": [
+        "法律。代理関係・組織の責任などを論じる専門用法。成立条件は法域・法分野・具体的な関係によって異なる。"
+      ],
+      "definition": "法律上の判断で、ある人の知識・行為・責任などを、別の当事者に帰属するものとして扱う。本人が実際に知っていた・直接行ったという事実の認定と、法的にそのように扱うことは区別される。",
+      "patterns": [
+        "impute 〈知識・行為・責任〉 to 〈当事者〉＝知識などを法的に当事者に帰属させる",
+        "〈知識など〉 is imputed to 〈当事者〉＝知識などがその当事者に帰属すると扱われる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "impute knowledge to 〈当事者〉",
+          "use": "実際の知識と法的な帰属を区別して論じる。",
+          "example": "The dispute concerned whether the agent's knowledge could be imputed to the company.",
+          "translation": "その争いの論点は、代理人の知識を会社に帰属させることができるかどうかだった。"
+        },
+        {
+          "pattern": "be imputed to 〈当事者〉",
+          "use": "他者の行為などを当事者に帰属させる法的問題を述べる。",
+          "example": "The judgment explained why the employee's conduct was imputed to the employer in that case.",
+          "translation": "その判決は、その事案で従業員の行為が雇用主に帰属するとされた理由を説明していた。"
+        }
+      ],
+      "notes": [
+        "一般義の「悪い動機を決めつける」と違い、この法的用法では一定の法的根拠に基づく帰属を指す。語自体が「従業員の行為はすべて会社の責任になる」という一律の規則を表すわけではない。imputed knowledge/liability は、この動詞の意味を引き継ぐ「帰属させられた知識・責任」であり、語義4の欠測補完・金額算定の形容詞とは対象領域を区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "attribute",
+          "definition": "行為・知識などを、法的な判断上、ある当事者に帰属させる。",
+          "frequency": 3,
+          "difference": "法律文書でも広く使う帰属の語。impute は本人が直接知った・行った事実と区別して法的に帰属させる場面に向くが、具体的な法的効果はどちらの語だけでも決まらない。",
+          "example": "The court considered whether the manager's acts should be attributed to the company.",
+          "translation": "裁判所は、管理者の行為を会社に帰属させるべきかどうかを検討した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【動詞：他動詞】義・罪責を帰算する",
+      "frequency": 2,
+      "register": [
+        "キリスト教神学。とくに改革派などで、キリストの義や原罪について論じる文脈に見られる。具体的な教義上の立場は教派によって異なる。"
+      ],
+      "definition": "キリスト教神学で、ある者に由来する義や罪責を別の者のものとして算入し、帰属させて扱う。単にその人自身の性格や実際の行為を観察して評価することとは異なる専門用法。",
+      "patterns": [
+        "impute 〈義・罪責〉 to someone＝義・罪責をその人のものとして帰算する",
+        "〈義・罪責〉 is imputed to someone＝その人に義・罪責が帰算される。to の前が帰算される内容、後ろが帰算先であり、一般義と同じ語順を取る。"
+      ],
+      "collocations": [
+        {
+          "pattern": "impute Christ's righteousness to believers",
+          "use": "改革派神学における、キリストの義の帰算を説明する。",
+          "example": "Reformed theology teaches that God imputes Christ's righteousness to believers.",
+          "translation": "改革派神学は、神がキリストの義を信者に帰算すると教えている。"
+        },
+        {
+          "pattern": "be imputed to someone",
+          "use": "罪責の帰算という教義上の扱いを、受動形で述べる。",
+          "example": "The confession teaches that the guilt of Adam's sin is imputed to his descendants.",
+          "translation": "その信仰告白は、アダムの罪の責めがその子孫に帰算されると教えている。"
+        }
+      ],
+      "notes": [
+        "ここでの righteousness は神学上の「義」で、単に本人の人当たりがよいことではない。imputed righteousness は、この動詞の過去分詞を用いて「帰算された義」を表す名詞修飾で、語義4の統計上の推定値や経済上の金額ではない。語の中心は他者に由来するものをその人のものとして扱うことであり、本人の倫理的性質が実際に変化すること自体を意味しない。「帰算」をどのように位置づけるかまで、キリスト教全体の共通見解として一般化しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "credit",
+          "definition": "義などを、ある人のものとして認め、その人に帰する。",
+          "frequency": 2,
+          "difference": "神学のこの用法では credit something to someone が impute に近い。credit には一般の功績評価や会計記入などの用法もあるが、impute は帰算という教義上の議論の専門語として用いられる。",
+          "example": "The sermon explains the belief that Christ's righteousness is credited to believers.",
+          "translation": "その説教は、キリストの義が信者に帰せられるという信仰上の考えを説明している。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
