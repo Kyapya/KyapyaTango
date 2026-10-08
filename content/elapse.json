@@ -1,0 +1,261 @@
+{
+  "word": "elapse",
+  "slug": "elapse",
+  "ipa": "米・英: /ɪˈlæps/。2音節で、第2音節に主強勢がある。第1音節の母音は /ɪ/、第2音節の母音は /æ/。語末の /ps/ の間に母音を入れない。elapses は /ɪˈlæpsɪz/、elapsed は /ɪˈlæpst/、elapsing は /ɪˈlæpsɪŋ/。elapsed の -ed は /t/ で、音節を増やさない。",
+  "lead": "一定の時間・期間が過ぎる。主語は時間そのもの、または minutes、days、years などで表した期間であり、人が何かに時間を使うことを直接表す動詞ではない。出来事の前後関係や、起点から何時間・何年たったかを客観的に述べる文章に適する。長い時間が必要なわけでも、期限を過ぎている必要があるわけでもない。",
+  "updated": "2026-10-08",
+  "notion_url": "https://app.notion.com/p/elapse-3f34faa9b77d813d95fddfb36e048c09",
+  "pronunciation": [],
+  "etymology": [
+    "ラテン語 elabi「滑り去る」の過去分詞 elapsus に由来する。e- は ex-「外へ、離れて」の異形で、labi は「滑る」を表す。時間が過ぎ去るという現在の意味につながる。",
+    "同じ labi の系統には lapse「経過、中断、失効」と relapse「再発する、元の悪い状態に戻る」がある。いずれも現代の用法は独自に発達しており、elapse をそのまま置き換えられるわけではない。"
+  ],
+  "formation": [
+    {
+      "term": "elapsed",
+      "description": "は過去形・過去分詞で、elapsed time「経過時間」のように名詞を修飾する。時間がすでに過ぎたことを示す用法で、誰かによる受動的な働きかけを意味しない。"
+    },
+    {
+      "term": "elapsing",
+      "description": "は現在分詞で、経過していることを表す。通常の文章では、時間経過の事実を単純形・完了形で述べることが多い。"
+    },
+    {
+      "term": "elapsed",
+      "description": "time は定着した名詞句。計測や工程管理で使われ、競走での実際の所要時間にも用いる。語義2で可算用法も扱う。"
+    }
+  ],
+  "core": [
+    {
+      "label": "ある起点から時間が過ぎていくことを表し、その経過を動詞として述べたり、時間の量・経過そのものとして名詞句や名詞で捉えたりする。",
+      "description": ""
+    },
+    {
+      "label": "時間の経過を出来事として捉えること",
+      "description": "→ 「時間が経過する」（語義1）"
+    },
+    {
+      "label": "時間の経過を測定する量として捉えること",
+      "description": "→ 「経過時間、実際の所要時間」（語義2）"
+    },
+    {
+      "label": "時間の経過を一つのまとまりとして捉えること",
+      "description": "→ 「時間の経過」（語義3）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・自動詞】時間が経過する",
+      "frequency": 6,
+      "register": [
+        "やや硬い。業務報告、説明文、研究、時間の計測。日常会話では pass や go by のほうが一般的。"
+      ],
+      "definition": "一定の時間・期間が過ぎる。主語は時間そのもの、または minutes、days、years などで表した期間であり、人が何かに時間を使うことを直接表す動詞ではない。出来事の前後関係や、起点から何時間・何年たったかを客観的に述べる文章に適する。長い時間が必要なわけでも、期限を過ぎている必要があるわけでもない。",
+      "patterns": [
+        "〈期間〉 + elapse＝期間が経過する",
+        "〈期間〉 + have/has elapsed since 〈起点〉＝起点から現在までに期間が経過している",
+        "〈期間〉 + had elapsed before 〈節〉＝過去の出来事が起きる前に期間が経過していた",
+        "〈期間〉 + elapse between 〈出来事A〉 and 〈出来事B〉、〈期間〉 + elapse from 〈起点〉 to 〈終点〉＝二つの時点の間に期間が経過する",
+        "allow 〈期間〉 to elapse＝一定期間が経過するのを待つ。elapse 自体は目的語を取らず、通常の受動態にしない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "〈期間〉 + elapse",
+          "use": "ごく短い時間を含め、一定時間が経過した事実を述べる。",
+          "example": "Only a few seconds elapsed before the screen went dark.",
+          "translation": "ほんの数秒後に画面が暗くなった。"
+        },
+        {
+          "pattern": "〈期間〉 + have/has elapsed since 〈起点〉",
+          "use": "過去の起点から現在までの経過時間を報告する。",
+          "example": "Three weeks have elapsed since we submitted the revised proposal.",
+          "translation": "修正版の提案書を提出してから3週間がたっている。"
+        },
+        {
+          "pattern": "〈期間〉 + had elapsed before 〈節〉",
+          "use": "過去のある出来事までに過ぎた時間を述べる。",
+          "example": "Nearly an hour had elapsed before the maintenance team arrived.",
+          "translation": "保守担当のチームが到着するまでに、ほぼ1時間が経過していた。"
+        },
+        {
+          "pattern": "〈期間〉 + elapse between 〈出来事A〉 and 〈出来事B〉",
+          "use": "二つの出来事を両端とする時間の隔たりを示す。",
+          "example": "Twelve days elapsed between the inspection and the release of the report.",
+          "translation": "検査から報告書の公表までに12日かかった。"
+        },
+        {
+          "pattern": "〈期間〉 + elapse from 〈起点〉 to 〈終点〉",
+          "use": "計測する期間の始まりと終わりを明示する。",
+          "example": "Less than a minute elapsed from the first alert to the start of the evacuation.",
+          "translation": "最初の警報から避難開始まで、1分もかからなかった。"
+        },
+        {
+          "pattern": "allow 〈期間〉 to elapse",
+          "use": "次の処置に進む前に時間を置く。",
+          "example": "Allow at least ten minutes to elapse before restarting the device.",
+          "translation": "装置を再起動する前に、少なくとも10分は待ってください。"
+        }
+      ],
+      "notes": [
+        "時間が主語になる点が重要。誤: I elapsed two hours on the report.／正: I spent two hours on the report.「報告書に2時間かけた」。Two hours elapsed.「2時間がたった」とでは、行為者と時間の文中の役割が異なる。誤: Three days have been elapsed.／正: Three days have elapsed.。過去分詞があるからといって受動態を作らない。通常は進行形より単純形・完了形を使うが、経過中であることを特に描く進行形まで一律に不可能とはしない。since は起点、before は後に起きる出来事、between A and B は二つの端点を示し、いずれも elapse の直接目的語ではない。The time allowed for questions has elapsed. は質問に割り当てた時間が過ぎたことを述べるが、The offer has expired. は申込み・提案の有効期間が終わったことを述べる。期限・資格・契約そのものを主語にして失効を言うときは、expire や lapse と使い分ける。"
+      ],
+      "synonyms": [
+        {
+          "word": "pass",
+          "definition": "時間が過ぎる。",
+          "frequency": 9,
+          "difference": "時間主語の自動詞として elapse より日常的。pass the time「時間をつぶす」という他動詞用法もあるが、その型を elapse に移すことはできない。",
+          "example": "Two months passed without any further news.",
+          "translation": "その後の知らせがないまま2か月が過ぎた。"
+        },
+        {
+          "word": "go by",
+          "definition": "時間・年月が過ぎていく。",
+          "frequency": 8,
+          "difference": "会話でも使う平易な句動詞。elapse のように計測値を客観的に報告するだけでなく、時の流れを振り返る場面にもよく合う。",
+          "example": "The years went by, but she kept every letter.",
+          "translation": "年月は過ぎたが、彼女は手紙をすべて取っておいた。"
+        },
+        {
+          "word": "lapse",
+          "definition": "時間が経過する。",
+          "frequency": 4,
+          "difference": "時間経過の意味では elapse に近いが、lapse には契約などが失効する、活動・注意が途切れるという別義もある。単に何日たったかを明確に述べるなら elapse が適する。",
+          "example": "Several weeks lapsed before the two sides resumed talks.",
+          "translation": "双方が協議を再開するまでに数週間が経過した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞句・不可算／可算】経過時間、実際の所要時間",
+      "frequency": 5,
+      "register": [
+        "計測、工程管理、コンピューター、競走など。一般的な説明でも使えるが、日常会話の「どれくらいかかったか」より計測を意識した表現。"
+      ],
+      "definition": "elapsed time の形で、ある始点から終点または現在までに実際に過ぎた時間の量。計測、工程、コンピューター処理などで、実際に作業や計算をしていた時間と区別して用いることがある。競走では、車・船などが対象の距離を進むのに実際に要した時間を指す。これらに共通するのは、指定した二時点間の経過を測った値という意味である。",
+      "patterns": [
+        "elapsed time＝経過時間という量・項目",
+        "the elapsed time between 〈始点〉 and 〈終点〉＝二時点間の経過時間",
+        "the elapsed time since 〈起点〉＝起点からの経過時間",
+        "an elapsed time of 〈時間の長さ〉＝一回の測定で得た経過時間",
+        "elapsed times＝複数回・複数対象の測定値。elapsed は time を修飾する過去分詞で、time が名詞句の中心になる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "measure elapsed time",
+          "use": "計測する量を示す。",
+          "example": "The software measures elapsed time, including periods when it is waiting for a response.",
+          "translation": "このソフトウェアは、応答を待っている間も含めて経過時間を計測する。"
+        },
+        {
+          "pattern": "the elapsed time between 〈始点〉 and 〈終点〉",
+          "use": "計測値の両端を明らかにする。",
+          "example": "The elapsed time between the request and the confirmation was 18 seconds.",
+          "translation": "リクエストから確認応答までの経過時間は18秒だった。"
+        },
+        {
+          "pattern": "the elapsed time since 〈起点〉",
+          "use": "ある出来事から現在までに過ぎた時間を表示・記録する。",
+          "example": "The display shows the elapsed time since the test began.",
+          "translation": "画面には試験開始からの経過時間が表示される。"
+        },
+        {
+          "pattern": "an elapsed time of 〈時間の長さ〉",
+          "use": "一回の競走・測定で得た所要時間を数値付きで述べる。",
+          "example": "The car completed the course with an elapsed time of 92.4 seconds.",
+          "translation": "その車は92.4秒でコースを走り終えた。"
+        },
+        {
+          "pattern": "compare elapsed times",
+          "use": "複数の測定値を比較する。",
+          "example": "We compared the elapsed times for five identical test runs.",
+          "translation": "同じ条件で5回行った試験の経過時間を比較した。"
+        }
+      ],
+      "notes": [
+        "時間という量は不可算で扱うが、一つの測定値として an elapsed time of ...、複数の記録として elapsed times も使えるため、常に不可算とはしない。elapsed time と the time elapsed since the start は、どちらも経過した時間を表す。後者の elapsed は後ろから time を修飾しており、誰かに「経過させられた」という受動の意味ではない。現在までの経過を文で言うなら The time has elapsed. のように have/has を用いる。工程での経過時間と実作業時間、コンピューターでの経過時間と CPU time は別の量になり得る。たとえば処理が応答待ちで止まっていても、外部の時計で測る時間は進む。どの区間・休止を含めるかは実際の計測方法を確認する。競走の corrected time はハンディキャップなどによる補正後の時間で、elapsed time と同じ値とは限らない。対照表現の remaining time「残り時間」は終点までの未経過部分であり、同じ経過時間の別名ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "duration",
+          "definition": "出来事・活動などが続く時間の長さ。",
+          "frequency": 7,
+          "difference": "長さに焦点を置く一般的な語で、予定された長さにも使える。elapsed time は指定した起点から実際にどれだけ過ぎたかに焦点を置く。",
+          "example": "The planned duration of the workshop is three hours.",
+          "translation": "研修会の予定時間は3時間だ。"
+        },
+        {
+          "word": "time interval",
+          "definition": "二つの時点・出来事の間の時間。",
+          "frequency": 6,
+          "difference": "始点と終点の隔たりを表す点で近い。elapsed time が過ぎた時間の計測値に焦点を置くのに対し、time interval は繰り返し動作の間隔や、これから設ける間隔にも使う。",
+          "example": "Set a time interval of ten seconds between recordings.",
+          "translation": "記録と記録の間隔を10秒に設定してください。"
+        },
+        {
+          "word": "wall-clock time",
+          "definition": "コンピューター処理などについて、実際の時計の進み方で測った経過時間。",
+          "frequency": 3,
+          "difference": "計算機分野で elapsed time と近く、CPU が実行に使った時間ではなく、待ち時間を含む外部からの計測時間であることを強調する。競走や一般的な工程全般の言い換えにはしない。",
+          "example": "Waiting for the remote server accounted for most of the wall-clock time.",
+          "translation": "実際の経過時間の大半は、外部サーバーからの応答待ちに費やされていた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算、主に単数】時間の経過",
+      "frequency": 2,
+      "register": [
+        "硬い文章の周辺的用法。通常の業務メールで積極的に使う優先度は低い。"
+      ],
+      "definition": "ある期間が過ぎること。an elapse of ... の形で、まとまった期間の経過を表す。動詞よりかなりまれで、一般的な報告では the passage of time、a lapse of ...、または動詞 elapse による文が使われる。",
+      "patterns": [
+        "an elapse of 〈期間〉＝一定期間の経過",
+        "after an elapse of 〈期間〉＝一定期間が経過した後に。"
+      ],
+      "collocations": [
+        {
+          "pattern": "after an elapse of 〈期間〉",
+          "use": "硬い記述で、相当の時間が過ぎた後の出来事を述べる。",
+          "example": "The correspondence resumed after an elapse of seven years.",
+          "translation": "7年の歳月を経て、文通が再開された。"
+        }
+      ],
+      "notes": [
+        "名詞 elapse の実例はあるが、動詞と同じ頻度ではない。an elapse of seven years は名詞句、seven years elapsed は時間を主語とする動詞の文であり、同じ構造ではない。語義2の elapsed time も elapse という名詞を含むわけではなく、elapsed が名詞 time を修飾した形。文章を自分で書く際は、Seven years elapsed before the correspondence resumed. などが使いやすい。"
+      ],
+      "synonyms": [
+        {
+          "word": "passage",
+          "definition": "時間が過ぎること。",
+          "frequency": 6,
+          "difference": "the passage of time の形がよく使われ、名詞 elapse より一般的。個々の間隔の計測より、時間が流れること自体に焦点を置きやすい。",
+          "example": "The passage of time had softened their disagreement.",
+          "translation": "時間がたつにつれ、二人の対立は和らいでいた。"
+        },
+        {
+          "word": "lapse",
+          "definition": "二つの出来事の間にある時間の隔たり・経過。",
+          "frequency": 5,
+          "difference": "a lapse of ...、a lapse of time の形で、名詞 elapse よりなじみのある表現。lapse 単独には不注意による失敗などの別義もある。",
+          "example": "There was a lapse of several months between the two interviews.",
+          "translation": "2回の面接の間には数か月の間が空いていた。"
+        },
+        {
+          "word": "interval",
+          "definition": "二つの出来事・時点の間の期間。",
+          "frequency": 7,
+          "difference": "時間が経過するという動きより、間にある期間そのものを指す。休憩や定期的な間隔にも使い、経過を表すまれな名詞 elapse より用途が広い。",
+          "example": "The machine was checked at regular intervals.",
+          "translation": "その機械は一定の間隔で点検された。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
