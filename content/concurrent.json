@@ -1,0 +1,532 @@
+{
+  "word": "concurrent",
+  "slug": "concurrent",
+  "ipa": "米: /kənˈkɜːr.ənt/｜英: /kənˈkʌr.ənt/。3音節で、第2音節に主強勢を置く。示した米英差は第2音節の母音で、米音では /ɜːr/、英音では /ʌr/。英音でも r の後に第3音節の母音が続くため、この位置の r は発音する。第1・第3音節の母音はどちらも /ə/。",
+  "lead": "複数の出来事・活動・状態が、同じ時に存在する、または進行期間を重ねている。開始と終了が完全に一致することまでは必要としない。同時進行していること自体を述べ、因果関係や相互協力を必ずしも意味しない。",
+  "updated": "2026-10-08",
+  "notion_url": "https://app.notion.com/p/concurrent-3f34faa9b77d818888ecf5692f33ba12",
+  "pronunciation": [],
+  "etymology": [
+    "ラテン語 concurrere「一緒に走る・集まる・同時に存在する」の現在分詞 concurrens に由来する。con-「一緒に」と currere「走る」がもとになっている。",
+    "concur「意見が一致する・同時に起こる」は同じ語族。current「流れ・現在の」と course「進路」も、歴史的に currere とつながる。ただし concurrent は current に con- を付けて「現在の何か」と機械的に訳す語ではない。"
+  ],
+  "formation": [
+    {
+      "term": "concurrently",
+      "description": "副詞「同時に・並行して」。The two projects run concurrently.「二つの事業は同時期に進む」のように動詞を修飾する。concurrently with another project で並行する相手を示す。"
+    },
+    {
+      "term": "concurrency",
+      "description": "名詞「同時性・並行性」。特に情報技術で、複数の処理を並行して進める性質を表す。並列実行だけを意味するとは限らない。"
+    },
+    {
+      "term": "concurrence",
+      "description": "名詞「意見の一致・同意」、または「同時発生」。法務での同意・一致などにも使う。concurrency と語族は共通するが、現代の定型的な使い道は同一でない。"
+    },
+    {
+      "term": "concur",
+      "description": "動詞「同意する・意見が一致する」。I concur with your assessment.「あなたの評価に同意する」のように使う。通常の人物主語で I am concurrent with you. と置き換えない。"
+    }
+  ],
+  "core": [
+    {
+      "label": "「複数のものが、共通する時間・対象・方向・地点で一緒になる」というイメージ。時間が重なるのか、権限の範囲や判断が重なるのか、線が一点で交わるのかを、修飾する名詞から読み分ける。",
+      "description": ""
+    },
+    {
+      "label": "一緒になる範囲が、出来事の進行期間",
+      "description": "→ 「同時に起こる・同じ時期に進む」（語義1）"
+    },
+    {
+      "label": "一緒になる範囲が、複数処理の進行期間",
+      "description": "→ 「並行して進行する」（語義2）"
+    },
+    {
+      "label": "一緒になる範囲が、複数機関の権限対象",
+      "description": "→ 「管轄・権限が競合・併存する」（語義3）"
+    },
+    {
+      "label": "一緒になる範囲が、結果へ向かう作用",
+      "description": "→ 「共同して作用する」（語義4）"
+    },
+    {
+      "label": "一緒になる範囲が、判断や意見の内容",
+      "description": "→ 「判断・意見などが一致する」（語義5）"
+    },
+    {
+      "label": "一緒になる範囲が、直線の通る一点",
+      "description": "→ 「共通の一点で交わる」（語義6）"
+    },
+    {
+      "label": "一緒になる範囲が、保険契約の補償対象",
+      "description": "→ 「同じ対象・リスクに補償が重なる」（語義7）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【形容詞・限定／叙述】同時に起こる・同じ時期に進む",
+      "frequency": 6,
+      "register": [
+        "ややフォーマル。業務、日程、報道、法律。会話では at the same time もよく使う。"
+      ],
+      "definition": "複数の出来事・活動・状態が、同じ時に存在する、または進行期間を重ねている。開始と終了が完全に一致することまでは必要としない。同時進行していること自体を述べ、因果関係や相互協力を必ずしも意味しない。",
+      "patterns": [
+        "concurrent 〈projects/events/sessions〉＝同時期に進む事業・行事・セッション",
+        "A + be concurrent with B＝AがBと同時期にある",
+        "concurrent with 〈出来事〉＝その出来事と並行して",
+        "concurrent sentences / terms＝同時に服する複数の刑期。"
+      ],
+      "collocations": [
+        {
+          "pattern": "concurrent projects",
+          "use": "複数の事業が同じ期間に進んでいることを述べる。",
+          "example": "She is responsible for three concurrent projects with different deadlines.",
+          "translation": "彼女は、締め切りの異なる三つの事業を同時に担当している。"
+        },
+        {
+          "pattern": "concurrent sessions",
+          "use": "会議の複数のセッションが同時に行われることを示す。",
+          "example": "The conference offers four concurrent sessions each afternoon.",
+          "translation": "その学会では、毎日午後に四つのセッションが同時に行われる。"
+        },
+        {
+          "pattern": "be concurrent with something",
+          "use": "同時期に進む相手を with で示す。",
+          "example": "The staff training will be concurrent with the system upgrade.",
+          "translation": "スタッフ研修は、システム更新と並行して行われる。"
+        },
+        {
+          "pattern": "concurrent with 〈出来事〉",
+          "use": "文頭の形容詞句で、時期の重なりを説明する。",
+          "example": "Concurrent with the exhibition, a series of public lectures will take place.",
+          "translation": "展示会と並行して、連続公開講座が開催される。"
+        },
+        {
+          "pattern": "concurrent sentences",
+          "use": "複数の自由刑を同時に服することを表す法律用語。",
+          "example": "The judge imposed concurrent sentences of five years and three years.",
+          "translation": "裁判官は、同時に服する5年と3年の刑を言い渡した。"
+        }
+      ],
+      "notes": [
+        "concurrent は形容詞で、The projects are concurrent. または concurrent projects とする。動詞 run を副詞で修飾するなら The projects run concurrently. が基本。run concurrent も文脈によって補語として現れるが、単純な副詞のつもりで -ly を落とさない。with は並行する相手を示し、be concurrent with the audit とする。very concurrent は通常の程度表現として使わず、期間の重なりを強調するなら fully concurrent、partly concurrent などで関係を明示する。more concurrent projects は通常「同時進行する事業の数がより多い」で、個々の事業が「より同時」であるという意味ではない。consecutive「一つの後に次が続く」、continuous「途切れず続く」とは別の軸。concurrent sentences は刑期を単純に足す制度用語ではない。同時に始まる5年と3年の刑なら、通常は長い5年が基準となるが、実際の収容期間・開始日・控除などは判決と適用法による。"
+      ],
+      "synonyms": [
+        {
+          "word": "simultaneous",
+          "definition": "同じ時に起こる、または存在する。",
+          "frequency": 6,
+          "difference": "同一時点で起きることを強調しやすい。concurrent は期間の重なる業務や過程にもよく使い、開始・終了の一致を必要としない。simultaneous も文脈によって一定の期間を扱う。",
+          "example": "The audience heard simultaneous translations in three languages.",
+          "translation": "聴衆には3言語の同時通訳が提供された。"
+        },
+        {
+          "word": "parallel",
+          "definition": "別々の活動が並行して進む。",
+          "frequency": 6,
+          "difference": "時期の重なりに加え、活動が別立て・対応関係にあることを示しやすい。物理的な平行という意味とは区別する。",
+          "example": "The two agencies conducted parallel investigations.",
+          "translation": "二つの機関が並行して別々の調査を行った。"
+        },
+        {
+          "word": "contemporaneous",
+          "definition": "同じ時期に存在・発生する。",
+          "frequency": 3,
+          "difference": "歴史的な出来事や記録の時期を比較するフォーマルな語。concurrent より、現在進行中の複数業務を管理する文脈には使いにくい。",
+          "example": "The archive contains several contemporaneous accounts of the fire.",
+          "translation": "その記録保管所には、火災と同じ時期に書かれた記録がいくつもある。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "consecutive",
+          "definition": "途中に別のものを挟まず、順に続く。",
+          "frequency": 6,
+          "difference": "活動や刑期を同時に進めるか、一つの後に次を置くかという時間配置の対立。",
+          "example": "The workshops were held on three consecutive days.",
+          "translation": "研修会は3日間連続で開催された。"
+        },
+        {
+          "word": "sequential",
+          "definition": "一定の順序に従って、一つずつ続く。",
+          "frequency": 4,
+          "difference": "同時進行か順次進行かの対立。consecutive より、工程や処理の順序に焦点を置きやすい。",
+          "example": "The plan divides the work into sequential stages.",
+          "translation": "その計画は、作業を順に進む段階に分けている。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【形容詞・限定／叙述】並行して進行する",
+      "frequency": 5,
+      "register": [
+        "情報技術、システム仕様、ソフトウェアライセンス。一般の時間的同時性を、処理・利用の観点で区別する専門用法。"
+      ],
+      "definition": "コンピューターで、複数の処理・要求などが、ある期間内に並行して進行していることを表す。各処理を短い間隔で切り替えて進める場合も含み、常に同じ瞬間に複数の命令を実行しているとは限らない。利用者・接続数については、同時に利用中・接続中であることを指す。",
+      "patterns": [
+        "concurrent execution / processing＝並行実行・並行処理",
+        "concurrent tasks / requests＝並行して進むタスク・要求",
+        "concurrent users / connections＝同時利用者・同時接続",
+        "〈処理〉 + be concurrent＝処理が並行している。"
+      ],
+      "collocations": [
+        {
+          "pattern": "concurrent execution",
+          "use": "実行を切り替えながら複数処理を進める場合も含むことを示す。",
+          "example": "Concurrent execution is possible on a single processor by switching between tasks.",
+          "translation": "タスクを切り替えることで、単一のプロセッサーでも並行実行が可能である。"
+        },
+        {
+          "pattern": "concurrent requests",
+          "use": "システムが同じ期間に処理する要求を数える。",
+          "example": "The server limits the number of concurrent requests to prevent overload.",
+          "translation": "サーバーは過負荷を防ぐため、同時処理する要求の数を制限している。"
+        },
+        {
+          "pattern": "concurrent users",
+          "use": "登録者総数ではなく、同時に使う人数を示す。",
+          "example": "The license allows up to fifty concurrent users.",
+          "translation": "そのライセンスでは、最大50人まで同時に利用できる。"
+        },
+        {
+          "pattern": "concurrent connections",
+          "use": "同時に有効な接続数を示す。",
+          "example": "The dashboard displays the current number of concurrent connections.",
+          "translation": "ダッシュボードには、現在の同時接続数が表示される。"
+        },
+        {
+          "pattern": "be concurrent",
+          "use": "複数処理の関係を叙述する。",
+          "example": "The two operations are concurrent, so their shared data requires careful coordination.",
+          "translation": "二つの処理は並行して進むため、共有データを慎重に調整する必要がある。"
+        }
+      ],
+      "notes": [
+        "一般的な区別では concurrent は複数処理が進行中であること、parallel は複数の処理資源で同じ瞬間に実行することに焦点がある。並列実行は並行実行の一形態になり得るが、単一プロセッサーでの切り替え実行まで parallel と断定しない。分野・製品が独自に定義する場合はその説明に従う。concurrent users は利用時間が重なる人の数であり、登録済みユーザー総数やCPUが同一瞬間に実行する命令数ではない。asynchronous「非同期」は待ち合わせ・応答の扱いに関する別の性質で、concurrent の単純な同義語・反意語ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "parallel",
+          "definition": "複数の処理を異なる処理資源で同時に実行する。",
+          "frequency": 5,
+          "difference": "concurrent と重なるが、一般的な専門上の区別では実際の同時実行を表す点で狭い。すべての並行処理を parallel と言い換えない。",
+          "example": "The calculation uses parallel processing across four cores.",
+          "translation": "その計算は、4コアにわたる並列処理を利用している。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "sequential",
+          "definition": "一つの処理を終えてから次へ進む。",
+          "frequency": 4,
+          "difference": "複数の処理を並行して進めるか、順に進めるかという実行方式の対立。",
+          "example": "Sequential execution made it easier to reproduce the error.",
+          "translation": "順次実行にすると、エラーを再現しやすくなった。"
+        },
+        {
+          "word": "serial",
+          "definition": "処理を一つずつ順に行う。",
+          "frequency": 4,
+          "difference": "この処理方式の意味では concurrent と対立する。ただし serial port など、データ伝送方式の用語まで同じ対立として扱わない。",
+          "example": "The tasks use serial execution because each depends on the previous result.",
+          "translation": "各タスクは前の結果に依存するため、順次実行される。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【形容詞・主に限定用法】管轄・権限が競合・併存する",
+      "frequency": 3,
+      "register": [
+        "法律、行政、政治制度。"
+      ],
+      "definition": "同じ種類の事件・事項・地域について、複数の裁判所や公的機関などが権限を持っていることを表す。権限の範囲が重なることが中心で、実際に二つの機関が同時に同じ事件を処理していることまでは意味しない。",
+      "patterns": [
+        "concurrent jurisdiction over 〈事件・事項〉＝その対象への競合的管轄権",
+        "have concurrent jurisdiction with 〈別の裁判所〉＝別の裁判所と管轄権を共有する",
+        "concurrent powers＝複数の政府・機関が併存して持つ権限。"
+      ],
+      "collocations": [
+        {
+          "pattern": "concurrent jurisdiction over something",
+          "use": "管轄の重なる対象を示す。",
+          "example": "The statute gives both courts concurrent jurisdiction over this category of claims.",
+          "translation": "その法律は、この種の請求について両裁判所に競合的な管轄権を与えている。"
+        },
+        {
+          "pattern": "have concurrent jurisdiction with 〈裁判所〉",
+          "use": "権限が重なる別の裁判所を with で示す。",
+          "example": "For these claims, the local court has concurrent jurisdiction with the specialist tribunal.",
+          "translation": "これらの請求については、地方裁判所は専門審判機関と管轄権を共有している。"
+        },
+        {
+          "pattern": "concurrent powers",
+          "use": "複数の政府などに共通して認められる権限を表す。",
+          "example": "The chapter compares the exclusive and concurrent powers of the two levels of government.",
+          "translation": "その章は、二つの政府レベルの専属的権限と併存する権限を比較している。"
+        }
+      ],
+      "notes": [
+        "concurrent jurisdiction は「同時に開廷している裁判所」ではなく、判断する権限の重なりを表す。対象は over、権限を共有する相手は with で示す。have concurrent jurisdiction with another court と be concurrent with another event「別の行事と時期が重なる」は構造・意味が異なる。制度上、どちらへ提訴できるか、移送や優先順位がどうなるかは適用法による。「二つが共同で一つの判決を出さなければならない」とも限らない。叙述形として Their jurisdiction is concurrent. も可能だが、通常は jurisdiction / powers などの前で使い、程度比較はしない。"
+      ],
+      "synonyms": [
+        {
+          "word": "shared",
+          "definition": "権限・責任などが複数の主体に共通して属する。",
+          "frequency": 6,
+          "difference": "一般語で、法的な管轄の競合や独立の行使可能性まで精密に規定する語ではない。文脈を補えば concurrent の概念を説明できる。",
+          "example": "The agreement establishes shared responsibility for inspections.",
+          "translation": "その合意は、検査に関する責任を共同で負うと定めている。"
+        },
+        {
+          "word": "overlapping",
+          "definition": "権限や担当範囲の一部が重なっている。",
+          "frequency": 4,
+          "difference": "重なりの存在を一般的に述べ、正式な法的分類名ではない。重なりが全面的か部分的かも文脈による。",
+          "example": "The agencies have overlapping responsibilities for environmental monitoring.",
+          "translation": "各機関の環境監視に関する担当範囲は、一部重なっている。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "exclusive",
+          "definition": "ある権限・管轄が一つの機関などだけに属する。",
+          "frequency": 4,
+          "difference": "同じ対象について権限を複数主体が持つか、一主体だけが持つかという配分の対立。",
+          "example": "The law grants that court exclusive jurisdiction over these disputes.",
+          "translation": "その法律は、これらの紛争について当該裁判所に専属的な管轄権を与えている。"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "【形容詞・主に限定用法】共同して作用する",
+      "frequency": 2,
+      "register": [
+        "フォーマル。論説、因果関係の分析、法律。"
+      ],
+      "definition": "複数の力、原因、活動などが一緒に働いて、一つの結果や目的に関わる。人が意図的に協力する場合にも、複数の原因が合わさる場合にも使う。",
+      "patterns": [
+        "the concurrent efforts of 〈複数の主体〉＝複数主体の共同の取り組み",
+        "concurrent causes of something＝ある結果に共同して作用した原因。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the concurrent efforts of 〈複数の主体〉",
+          "use": "複数の主体の働きが合わさることを表す。",
+          "example": "The rescue depended on the concurrent efforts of local crews and outside specialists.",
+          "translation": "救助は、地元の隊員と外部の専門家が力を合わせて初めて成り立った。"
+        },
+        {
+          "pattern": "concurrent causes of something",
+          "use": "複数の要因が同じ結果に寄与することを示す。",
+          "example": "The report identified corrosion and excessive load as concurrent causes of the collapse.",
+          "translation": "その報告書は、腐食と過大な荷重がともに崩壊の原因となったと指摘した。"
+        }
+      ],
+      "notes": [
+        "この用法では、同時刻に存在するというだけでなく、働きや効果が合わさることに焦点がある。concurrent causes は法務・保険にも現れるが、各原因が単独で結果を生む必要があるか、損害の補償対象になるかなどは、適用される法や契約を確認する。語だけから一律に決めない。原因には意思がないため、「共同して作用する」を必ず「協力しようとする」と読み替えない。通常は名詞の前で使い、very concurrent のような程度評価には向かない。"
+      ],
+      "synonyms": [
+        {
+          "word": "joint",
+          "definition": "複数の主体が共同で行う、または共同で関わる。",
+          "frequency": 6,
+          "difference": "共同の行為・責任・成果に広く使う。concurrent はそれぞれの作用が合わさることに焦点を置ける。",
+          "example": "The two organizations launched a joint effort to restore the river.",
+          "translation": "二つの団体は、川の再生に向けて共同の取り組みを始めた。"
+        },
+        {
+          "word": "combined",
+          "definition": "複数の要素や働きを合わせた。",
+          "frequency": 6,
+          "difference": "合わさった総体・効果に焦点を置く。concurrent のように同時性やそれぞれの並存を前面に出すとは限らない。",
+          "example": "The combined effects of heat and pressure damaged the seal.",
+          "translation": "熱と圧力が重なって作用し、密閉部を傷めた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【形容詞・主に限定用法】判断・意見などが一致する",
+      "frequency": 2,
+      "register": [
+        "フォーマル、法律、文語的な論述。日常なら agreeing や consistent などで説明することが多い。"
+      ],
+      "definition": "複数の判断、意見、証言などが、内容や結論の点で一致している。同じ時刻に出されたという意味ではない。",
+      "patterns": [
+        "concurrent findings of 〈複数の裁判所など〉＝複数の判断主体による一致した認定",
+        "concurrent testimony＝内容の一致する証言",
+        "a concurrent resolution＝米国議会などで両院の合意を要する決議。"
+      ],
+      "collocations": [
+        {
+          "pattern": "concurrent findings of fact",
+          "use": "異なる裁判所の事実認定が一致していることを述べる。",
+          "example": "The appeal challenged the concurrent findings of fact made by the two lower courts.",
+          "translation": "その上訴は、二つの下級裁判所による一致した事実認定に異議を唱えた。"
+        },
+        {
+          "pattern": "concurrent testimony",
+          "use": "別々の証言の内容が一致することを述べる。",
+          "example": "The witnesses' concurrent testimony placed the vehicle outside the warehouse before dawn.",
+          "translation": "証人たちの一致した証言によれば、その車両は夜明け前に倉庫の外にあった。"
+        },
+        {
+          "pattern": "a concurrent resolution",
+          "use": "米国議会の決議形式の一つを示す。",
+          "example": "Both chambers adopted a concurrent resolution setting the congressional budget framework.",
+          "translation": "両院は、議会の予算枠組みを定める両院一致決議を採択した。"
+        }
+      ],
+      "notes": [
+        "concurrent findings は内容の一致であり、二つの裁判所が同時に審理していることを示さない。concurrent jurisdiction（語義3）は権限の重なりで、判断内容の一致を保証しない。米国議会の concurrent resolution は両院で同一の形で可決する形式で、大統領の署名に付さず、法律としての効力を持つものではない。ただし予算枠組みや議会内部の運営などに使われるため、「何の実務的効果もない」とは言えない。joint resolution は別の形式なので、joint が類義的でも用語をそのまま置換しない。人の同意なら I concur. / I agree. が普通で、I am concurrent. を基本表現にはしない。"
+      ],
+      "synonyms": [
+        {
+          "word": "consistent",
+          "definition": "複数の説明・判断などが互いに矛盾しない。",
+          "frequency": 6,
+          "difference": "concurrent の一致より弱く、細部まで同じでなくても矛盾しなければ consistent と言える。",
+          "example": "The witnesses gave consistent accounts of the sequence of events.",
+          "translation": "証人たちは出来事の順序について、互いに矛盾しない説明をした。"
+        },
+        {
+          "word": "concordant",
+          "definition": "内容・結果・見解などが一致している。",
+          "frequency": 2,
+          "difference": "学術的・専門的で、研究結果や検査結果の一致にも使う。concurrent の時間的な同時性の意味は通常含まない。",
+          "example": "The two independent analyses produced concordant results.",
+          "translation": "二つの独立した分析は、一致する結果を示した。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "conflicting",
+          "definition": "内容・結論などが互いに食い違う。",
+          "frequency": 6,
+          "difference": "判断や証言の一致・不一致という同じ意味軸上で対立する。",
+          "example": "The inquiry received conflicting accounts of the incident.",
+          "translation": "調査には、その出来事について食い違う説明が寄せられた。"
+        },
+        {
+          "word": "contradictory",
+          "definition": "互いに両立せず、一方が他方を否定する。",
+          "frequency": 4,
+          "difference": "単なる差より強い論理的な矛盾を表す。一致する concurrent と、内容の整合性という軸で反対。",
+          "example": "The report contains contradictory conclusions about the cause.",
+          "translation": "その報告書には、原因について互いに矛盾する結論が含まれている。"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "【形容詞・限定／叙述】共通の一点で交わる",
+      "frequency": 2,
+      "register": [
+        "数学・幾何。力学では、作用線が一点に集まる concurrent forces にも使う。"
+      ],
+      "definition": "幾何で、複数の直線などが一つの共通点を通ることを表す。特に3本以上の直線に共通の交点があることを述べるときに学習価値が高い。時間的な「同時」ではない。",
+      "patterns": [
+        "concurrent lines＝一点で交わる直線",
+        "〈複数の直線〉 + be concurrent at 〈点〉＝その点で交わる",
+        "concurrent forces＝作用線が共通の一点を通る力。"
+      ],
+      "collocations": [
+        {
+          "pattern": "concurrent lines",
+          "use": "共通の交点を持つ複数の直線を表す。",
+          "example": "Draw three concurrent lines through point P.",
+          "translation": "点Pを共通の交点とする3本の直線を引きなさい。"
+        },
+        {
+          "pattern": "be concurrent at 〈点〉",
+          "use": "共通の交点を at で示す。",
+          "example": "The three medians of a triangle are concurrent at its centroid.",
+          "translation": "三角形の3本の中線は、その重心で交わる。"
+        },
+        {
+          "pattern": "concurrent forces",
+          "use": "力の作用線が一点で交わる関係を表す。",
+          "example": "In the diagram, the three concurrent forces have lines of action passing through point O.",
+          "translation": "図では、3つの力の作用線が点Oを通っている。"
+        }
+      ],
+      "notes": [
+        "3本の直線が二つずつ交わるだけでは concurrent とは限らない。3本すべてが同じ一点で交わる必要がある。at point P が交点を示し、concurrent with an event の with が示す時間的な比較とは異なる。parallel「平行」は共通の交点を持たない関係だが、3本以上では「平行でない」だけで concurrent になるわけではないため、単純な二者択一として覚えない。concurrent はこの用法では通常、程度比較しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "intersecting",
+          "definition": "互いに交わっている。",
+          "frequency": 3,
+          "difference": "concurrent より条件が緩く、複数の交点で交わる場合にも使う。3本以上で一つの共通点があることを述べるには concurrent が正確。",
+          "example": "Three intersecting lines can form a triangle.",
+          "translation": "3本の交わる直線は、三角形を作ることがある。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【形容詞・限定／叙述】同じ対象・リスクに補償が重なる",
+      "frequency": 2,
+      "register": [
+        "保険契約、リスク管理、損害査定。"
+      ],
+      "definition": "保険で、複数の契約が同じ財産・リスクを補償し、対象や条件が所定の基準で一致・対応していることを表す。何が一致していれば concurrent と呼ぶかは保険分野・資料によって異なり、同じ時期に有効であることだけで決まる語ではない。",
+      "patterns": [
+        "concurrent policies＝補償対象・条件が対応する複数の保険契約",
+        "concurrent insurance＝同じ対象・リスクに重なる保険",
+        "〈複数の保険契約〉 + be concurrent＝その基準で対象・条件が対応している。"
+      ],
+      "collocations": [
+        {
+          "pattern": "concurrent fire policies",
+          "use": "同じ財産・危険を補償する契約の関係を示す。",
+          "example": "The broker confirmed that the concurrent fire policies covered the same factory against the same perils for the same period.",
+          "translation": "仲介業者は、それらの火災保険契約が、同じ期間に同じ工場の同じ危険を補償していると確認した。"
+        },
+        {
+          "pattern": "concurrent insurance",
+          "use": "複数の契約の補償内容・期間などを整合させる文脈を示す。",
+          "example": "The review checked whether the primary and excess policies provided concurrent insurance.",
+          "translation": "その見直しでは、第一次保険と超過損害を補償する保険の対象・期間などが整合しているかを確認した。"
+        },
+        {
+          "pattern": "the policies + be concurrent",
+          "use": "契約同士の関係を叙述する。",
+          "example": "For the contribution calculation, the policies were treated as concurrent because they insured exactly the same property.",
+          "translation": "保険者間の負担額の計算では、まったく同じ財産を補償していたため、それらの契約は補償対象が一致するものとして扱われた。"
+        }
+      ],
+      "notes": [
+        "policy はここでは方針ではなく「保険契約」。保険金の分担を論じる資料には、対象財産が同一なら concurrent、一部だけが共通なら non-concurrent と区別するものがある。一方、リスク管理の用語では、同じリスク、保険期間、補償が発動する契機の種類が一致することを重視する説明もある。したがって「すべての条件が必ず完全一致」「期間が少しでも重なればよい」のどちらにも一律に固定しない。保険金の分担割合、優先順位、受取額が倍になるかどうかは、この形容詞だけでは決まらず、契約と適用法を確認する。通常は分類・対応関係として使うため、very concurrent のような程度評価はしない。"
+      ],
+      "synonyms": [
+        {
+          "word": "overlapping",
+          "definition": "補償範囲などが互いに重なっている。",
+          "frequency": 3,
+          "difference": "一部の重なりにも使う一般的な表現。concurrent が同一対象・同一条件などの一致を要求する用語法では、overlapping と無条件に置き換えられない。",
+          "example": "The adviser identified overlapping coverage in the two policies.",
+          "translation": "助言担当者は、二つの保険契約で補償が重なっている部分を指摘した。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "non-concurrent",
+          "definition": "保険契約の対象・条件が、所定の基準では一致していない。",
+          "frequency": 1,
+          "difference": "同じ分類基準における一致・不一致の対立。補償期間が別々であるという意味だけに限らない。",
+          "example": "The manual classifies policies covering only partly identical property as non-concurrent.",
+          "translation": "その手引きは、補償対象の財産が一部しか共通しない契約を、補償対象が一致しない契約に分類している。"
+        }
+      ]
+    }
+  ]
+}
