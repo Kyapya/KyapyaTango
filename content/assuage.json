@@ -1,0 +1,347 @@
+{
+  "word": "assuage",
+  "slug": "assuage",
+  "ipa": "米・英: /əˈsweɪdʒ/。2音節で、第2音節 /sweɪdʒ/ に強勢を置く。第1音節の母音は弱い /ə/。語末は /dʒ/ で、assuaged は /əˈsweɪdʒd/、assuaging は /əˈsweɪdʒɪŋ/ となる。",
+  "lead": "恐れ、懸念、罪悪感、怒り、悲しみ、痛みなど、つらい感情や感覚を弱める。説明・謝罪・具体的な対応・慰めなどが、その感情を収める方向に働くことを表す。単に数量を減らす一般的な動詞ではなく、感じられている不快さに焦点がある。どの程度収まるかは文脈次第で、必ず一時的・部分的とも、必ず完全になくなるとも限らない。",
+  "updated": "2026-10-08",
+  "notion_url": "https://app.notion.com/p/assuage-3f34faa9b77d81918ab0c51c3191e223",
+  "pronunciation": [],
+  "etymology": [
+    "古フランス語 asouagier などを経て、中英語に入った語。ラテン語 ad-「～へ」と suavis「甘い・快い」にさかのぼり、語源的には「快い状態にする」という方向を持つ。現在の「つらさを和らげる・気持ちを収める」と結び付けて覚えられる。",
+    "suave「物腰が柔らかく洗練された」も suavis に由来する。sweet「甘い」は、さらに古い語根を共有する遠い同語源語であり、assuage から派生した語ではない。"
+  ],
+  "formation": [
+    {
+      "term": "assuages",
+      "description": "/ assuaged / assuaging：三人称単数現在形／過去形・過去分詞／現在分詞。-ing を付ける際は語末の e を落とす。"
+    },
+    {
+      "term": "assuagement",
+      "description": "名詞「緩和・鎮静・欲求の充足」。硬く使用の少ない語で、通常の文章では relief などで表すことも多い。"
+    },
+    {
+      "term": "unassuaged",
+      "description": "形容詞「和らいでいない・満たされていない」。unassuaged grief「癒えない悲しみ」、unassuaged hunger「満たされない空腹」のような文語的表現に使う。"
+    }
+  ],
+  "core": [
+    {
+      "label": "「強く感じられる苦痛・欲求・動揺を、収まる方向へ動かす」というイメージ。何を直接目的語にするかによって、不快感の緩和、欲求の充足、人の鎮静を表す。",
+      "description": ""
+    },
+    {
+      "label": "強い状態を収める、不安や苦痛への働きかけ",
+      "description": "→ 「不安・苦痛などを和らげる」（語義1）"
+    },
+    {
+      "label": "強い状態を収める、空腹や欲求への働きかけ",
+      "description": "→ 「空腹・渇き・欲求を満たして収める」（語義2）"
+    },
+    {
+      "label": "強い状態を収める、動揺した人への働きかけ",
+      "description": "→ 「人・集団をなだめる」（語義3）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞】不安・苦痛などを和らげる",
+      "frequency": 5,
+      "register": [
+        "フォーマル・書き言葉寄り。報道、広報、組織の説明、評論、文学など。日常会話では ease、calm、relieve などが使われやすい。"
+      ],
+      "definition": "恐れ、懸念、罪悪感、怒り、悲しみ、痛みなど、つらい感情や感覚を弱める。説明・謝罪・具体的な対応・慰めなどが、その感情を収める方向に働くことを表す。単に数量を減らす一般的な動詞ではなく、感じられている不快さに焦点がある。どの程度収まるかは文脈次第で、必ず一時的・部分的とも、必ず完全になくなるとも限らない。",
+      "patterns": [
+        "assuage 〈不安・苦痛など〉＝その感情・感覚を和らげる",
+        "assuage someone's 〈fears/concerns/guilt/anger〉＝人の恐れ・懸念・罪悪感・怒りを和らげる",
+        "assuage concerns about something＝ある事柄への懸念を和らげる",
+        "assuage fears that 〈節〉＝ある事態を恐れる気持ちを和らげる",
+        "〈不安・苦痛など〉 + be assuaged by something＝何かによって和らぐ。目的語は前置詞を挟まず直接置く。"
+      ],
+      "collocations": [
+        {
+          "pattern": "assuage concerns about something",
+          "use": "計画や変更に対する懸念に応える。",
+          "example": "The director held an open meeting to assuage concerns about the reorganization.",
+          "translation": "部長は組織再編への懸念を和らげるため、誰でも参加できる説明会を開いた。"
+        },
+        {
+          "pattern": "assuage fears that 〈節〉",
+          "use": "何が起きることを恐れているのか、that 節で具体化する。",
+          "example": "The written guarantee assuaged her fears that the price might rise after she signed.",
+          "translation": "書面での保証により、契約後に価格が上がるかもしれないという彼女の不安は和らいだ。"
+        },
+        {
+          "pattern": "assuage someone's guilt",
+          "use": "罪悪感や後ろめたさを弱める。",
+          "example": "Sending a gift did little to assuage his guilt over missing the ceremony.",
+          "translation": "贈り物を送っても、式典に出席しなかったことへの彼の後ろめたさはほとんど薄れなかった。"
+        },
+        {
+          "pattern": "assuage someone's anger",
+          "use": "怒りという感情を収める。",
+          "example": "A prompt refund helped assuage the customer's anger.",
+          "translation": "すぐに返金したことが、顧客の怒りを和らげる助けになった。"
+        },
+        {
+          "pattern": "assuage someone's grief",
+          "use": "悲しみや悲嘆を和らげる。完全に消すという約束にはならない。",
+          "example": "Regular visits from her friends helped assuage her grief.",
+          "translation": "友人たちが定期的に訪ねてくれたことが、彼女の悲しみを和らげる助けになった。"
+        },
+        {
+          "pattern": "assuage the pain",
+          "use": "身体的・心理的な痛みを和らげる。身体的な痛みでは relieve the pain の方が日常的。",
+          "example": "He pressed a cool cloth to his forehead to assuage the pain.",
+          "translation": "彼は痛みを和らげようと、冷たい布を額に当てた。"
+        },
+        {
+          "pattern": "be assuaged by 〈説明・対応など〉",
+          "use": "和らげられる懸念や不安を主語にする。",
+          "example": "Their concerns were only partly assuaged by the revised safety plan.",
+          "translation": "改訂された安全計画によっても、彼らの懸念は一部しか和らがなかった。"
+        }
+      ],
+      "notes": [
+        "「彼女の不安を和らげる」は assuage her fears。「彼女を安心させる」という人中心の言い方なら reassure her が基本で、reassure her that everything is ready「すべて準備できていると伝えて安心させる」のように使う。assuage her fears と同じつもりで ×assuage her that everything is ready とはしない。人を直接目的語にする assuage her も成立するが、それは語義3の「なだめる」であり、that 節を直接続ける型ではない。",
+        "×assuage about their concerns → assuage their concerns。about は concerns about the cost「費用への懸念」のように、懸念の内容を示す名詞側の結合として使える。",
+        "assuage one's conscience / a guilty conscience は「良心そのものを弱くする」というより、良心のとがめ・後ろめたさを静めること。実際に責任を果たしたとは限らない。",
+        "assuage concerns は懸念を弱めること、address concerns は懸念を取り上げて対応すること。対応しても不安が収まらなければ、addressed the concerns but failed to assuage them と言える。",
+        "assuaged は通常、動詞の受動・完了の分詞として理解できる。His fears were assuaged by her explanation. は「彼女の説明によって彼の不安は和らいだ」で、感情を主語にした受動文。人を主語にした He was assuaged by her explanation.「彼は彼女の説明によってなだめられた」は、語義3の人目的語に対応する受動文である。自分を落ち着かせたい場合も assuage one's own fears のように、和らげる感情を明示すると分かりやすい。"
+      ],
+      "synonyms": [
+        {
+          "word": "allay",
+          "definition": "恐れ・不安・疑念などを静める。",
+          "frequency": 5,
+          "difference": "allay fears / concerns は assuage と非常に近い。allay は不安・警戒・疑念の解消に使われやすく、assuage は罪悪感・悲しみ・苦痛にもよく結び付くが、排他的な使い分けではない。",
+          "example": "The inspection report allayed residents' fears about the bridge.",
+          "translation": "検査報告書によって、住民の橋に対する不安は静まった。"
+        },
+        {
+          "word": "alleviate",
+          "definition": "苦痛・負担・困難などを軽減する。",
+          "frequency": 6,
+          "difference": "感情にも使えるが、貧困、混雑、負担など、状況としての問題の軽減にも広い。assuage は人が感じる不安やつらさに焦点を当てやすい。",
+          "example": "The additional staff helped alleviate the pressure on the support team.",
+          "translation": "増員はサポートチームの負担を軽くする助けになった。"
+        },
+        {
+          "word": "mitigate",
+          "definition": "悪影響・深刻さ・厳しさを弱める。",
+          "frequency": 6,
+          "difference": "リスク、損害、影響の程度を抑えるという客観的な評価に使われやすい。assuage concerns は懸念を和らげることだが、mitigate the risk は危険そのものを小さくすることを表す。",
+          "example": "The backup system mitigates the impact of a server failure.",
+          "translation": "バックアップシステムは、サーバー障害の影響を軽減する。"
+        },
+        {
+          "word": "ease",
+          "definition": "痛み・緊張・負担などを軽くする。",
+          "frequency": 8,
+          "difference": "より日常的で対象が広い。assuage と違い、自動詞で The pain eased.「痛みが和らいだ」とも言える。",
+          "example": "A short walk eased the tension in her shoulders.",
+          "translation": "少し歩くと、彼女の肩の緊張が和らいだ。"
+        },
+        {
+          "word": "relieve",
+          "definition": "苦痛・不快感・負担を取り除く、または軽減する。",
+          "frequency": 8,
+          "difference": "痛みや症状の軽減で特によく使う。relieve someone of a burden のような「人から負担を取り除く」型もあるが、その of の型を assuage に移せない。",
+          "example": "The warm water relieved the soreness in his feet.",
+          "translation": "温かい湯で、彼の足の痛みが和らいだ。"
+        },
+        {
+          "word": "soothe",
+          "definition": "痛み・不快感・動揺を穏やかに鎮める。",
+          "frequency": 6,
+          "difference": "柔らかな声、穏やかな刺激、心地よい手当てなどの鎮静作用を表しやすい。assuage は説明や措置による不安の緩和にもよく使う。",
+          "example": "Her calm voice soothed his anxiety.",
+          "translation": "彼女の落ち着いた声が、彼の不安を鎮めた。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "intensify",
+          "definition": "感情・感覚などの強さを増す。",
+          "frequency": 6,
+          "difference": "不安や痛みの強度を弱める assuage と、強める intensify は程度・方向の対立であり、完全な二者択一ではない。",
+          "example": "The lack of information intensified their anxiety.",
+          "translation": "情報がないことで、彼らの不安はいっそう強まった。"
+        },
+        {
+          "word": "aggravate",
+          "definition": "不快な状態や症状を悪化させる。",
+          "frequency": 6,
+          "difference": "苦痛を和らげる方向に対し、悪くする方向を表す。単に新しい問題を生じさせることより、ある問題をさらに悪くすることに重点がある。",
+          "example": "The loud music aggravated her headache.",
+          "translation": "大音量の音楽で、彼女の頭痛はひどくなった。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【動詞・他動詞】空腹・渇き・欲求を満たして収める",
+      "frequency": 3,
+      "register": [
+        "文語的。食事・欲求の描写、文学、評論。普段の表現では satisfy one's hunger、quench one's thirst などが中心。"
+      ],
+      "definition": "空腹、渇き、欲望、好奇心などに必要なものを与え、その切実さを収める。「苦痛を弱める」という語義1と重なるが、この用法は食べる・飲む・知るなどによる充足に焦点がある。欲求を十分に満たす場合にも、一時的・部分的に収める場合にも使える。",
+      "patterns": [
+        "assuage one's 〈hunger/thirst/appetite/curiosity〉＝空腹・渇き・食欲・好奇心を満たす",
+        "assuage one's hunger with something＝何かを食べて空腹を収める",
+        "assuage a desire for something＝何かへの欲求を満たす",
+        "〈欲求〉 + be assuaged＝欲求が満たされる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "assuage one's hunger with something",
+          "use": "食べ物を補って空腹を収める。",
+          "example": "She assuaged her hunger with a bowl of soup before returning to work.",
+          "translation": "彼女は仕事に戻る前に、スープを一杯飲んで空腹を満たした。"
+        },
+        {
+          "pattern": "assuage one's thirst",
+          "use": "飲み物で喉の渇きを癒やす。",
+          "example": "A glass of cold water assuaged his thirst after the climb.",
+          "translation": "登ったあと、冷たい水を一杯飲むと彼の喉の渇きは癒えた。"
+        },
+        {
+          "pattern": "assuage one's curiosity",
+          "use": "知りたいという欲求に答えを与える。",
+          "example": "The brief explanation did not assuage her curiosity about the locked room.",
+          "translation": "その短い説明では、鍵のかかった部屋についての彼女の好奇心は満たされなかった。"
+        },
+        {
+          "pattern": "assuage a desire for something",
+          "use": "特定のものを求める気持ちを満たす。",
+          "example": "Weekend hiking trips assuaged his desire for adventure.",
+          "translation": "週末のハイキングが、彼の冒険への欲求を満たした。"
+        }
+      ],
+      "notes": [
+        "assuage thirst は「渇きをさらに強くする」ではなく「渇きを癒やす」。語義1の「軽減」から、必ず不十分にしか満たさないと解釈しない。fully assuage と partly assuage のどちらも可能で、程度は修飾語や文脈で決まる。",
+        "食べ物などの手段は with、欲求の対象は a desire for freedom のように for で示せる。「水を求める」は want water、「水で渇きを癒やす」は assuage one's thirst with water で、assuage water とはしない。",
+        "assuage someone's curiosity は成立するが、日常的には satisfy someone's curiosity が使いやすい。好奇心は必ずしも不快な感情ではないため、すべてを語義1の「苦痛」に押し込まない。"
+      ],
+      "synonyms": [
+        {
+          "word": "satisfy",
+          "definition": "欲求・必要・好奇心などに十分応える。",
+          "frequency": 8,
+          "difference": "この意味の最も一般的な語。assuage は強い欲求が収まる面を描写しやすく、satisfy は求められているものが得られる面を広く表す。",
+          "example": "The tour satisfied her curiosity about how the factory worked.",
+          "translation": "工場見学で、工場の仕組みを知りたいという彼女の好奇心は満たされた。"
+        },
+        {
+          "word": "quench",
+          "definition": "喉の渇きなどを満たして鎮める。",
+          "frequency": 5,
+          "difference": "quench one's thirst が代表的で、渇きに対しては assuage より日常的。空腹全般の標準的な言い換えにはしない。",
+          "example": "Nothing quenched his thirst like plain water.",
+          "translation": "普通の水ほど、彼の喉の渇きを癒やすものはなかった。"
+        },
+        {
+          "word": "slake",
+          "definition": "喉の渇きや強い欲求を満たす。",
+          "frequency": 2,
+          "difference": "slake one's thirst が中心の、さらに文語的な語。assuage と重なるが、日常的な必要条件や業務要件を満たす意味には使わない。",
+          "example": "They stopped beside the spring to slake their thirst.",
+          "translation": "彼らは渇きを癒やすため、泉のそばで足を止めた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞・他動詞】人・集団をなだめる",
+      "frequency": 3,
+      "register": [
+        "フォーマル。報道・政治・組織運営。感情名詞を目的語にする語義1より使用が限られる。"
+      ],
+      "definition": "怒り、不安、不満などを抱いている人や集団を落ち着かせる。人の感情を直接目的語にする語義1と異なり、ここではその人自身を目的語にする。批判者や反対者を、説明・譲歩・対応によって静める文脈に多い。相手の要求を全面的に受け入れたことまでは意味しない。",
+      "patterns": [
+        "assuage someone＝人をなだめる",
+        "assuage 〈critics/opponents〉＝批判者・反対者を落ち着かせる",
+        "someone + be assuaged by something＝人が何かによってなだめられる。直接目的語の人を「説明の聞き手」と取り違えない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "assuage the critics",
+          "use": "不満や批判を持つ人たちを対応によってなだめる。",
+          "example": "The revised proposal failed to assuage the critics of the development.",
+          "translation": "修正案でも、その開発計画を批判する人々をなだめることはできなかった。"
+        },
+        {
+          "pattern": "assuage worried investors",
+          "use": "不安を抱く投資家たちを落ち着かせる。",
+          "example": "The company released additional figures in an attempt to assuage worried investors.",
+          "translation": "会社は不安を抱く投資家たちを落ち着かせようと、追加の数値を公表した。"
+        },
+        {
+          "pattern": "be assuaged by 〈対応など〉",
+          "use": "なだめられる人・集団を主語にする。",
+          "example": "The protesters were not assuaged by the promise of another consultation.",
+          "translation": "もう一度協議すると約束しても、抗議する人々は収まらなかった。"
+        }
+      ],
+      "notes": [
+        "assuage the critics「批判者たちをなだめる」と assuage their concerns「彼らの懸念を和らげる」はともに可能で、目的語の意味役割が異なる。「assuage の目的語は感情だけ」という規則にはしない。一方、人目的語が可能だからといって、×assuage someone of their fears とはせず、assuage someone's fears とする。",
+        "assuage someone は「説得して何かをさせる」型ではない。×assuage them to accept the plan → persuade them to accept the plan。「計画を受け入れるよう説得する」ことと「不満を静める」ことを区別する。",
+        "受動形の They were assuaged. はこの人目的語の用法に対応する。They were reassured.「安心した」と重なる場面はあるが、assuage は怒りや不満をなだめる場合にも使う。"
+      ],
+      "synonyms": [
+        {
+          "word": "mollify",
+          "definition": "怒っている人や不満を抱く人をなだめる。",
+          "frequency": 4,
+          "difference": "不快感・怒りが和らぐことを強く前面に出す。assuage someone は不安を抱く人にも使える。",
+          "example": "The apology did little to mollify the disappointed customers.",
+          "translation": "謝罪しても、失望した顧客たちをなだめる効果はほとんどなかった。"
+        },
+        {
+          "word": "appease",
+          "definition": "要求に応じるなどして、怒りや反対を静める。",
+          "frequency": 5,
+          "difference": "譲歩によって相手を満足させる含みが出やすく、過度な迎合を批判する文脈にも多い。assuage は譲歩を必須としない。",
+          "example": "The board offered concessions to appease the shareholders.",
+          "translation": "取締役会は株主たちをなだめるため、譲歩案を示した。"
+        },
+        {
+          "word": "pacify",
+          "definition": "怒り・興奮・動揺のある人を静める。",
+          "frequency": 5,
+          "difference": "騒いでいたり動揺していたりする相手が落ち着く面を表しやすい。assuage は表面上静かな批判者や懸念を抱く人にも使う。",
+          "example": "The parent tried to pacify the crying child.",
+          "translation": "親は泣いている子どもをなだめようとした。"
+        },
+        {
+          "word": "reassure",
+          "definition": "不安や疑いを抱く人を安心させる。",
+          "frequency": 7,
+          "difference": "安心・自信を与えることが中心で、怒りを静める意味とは常に一致しない。reassure someone that 〈節〉という内容提示ができる。",
+          "example": "The technician reassured us that our files were safe.",
+          "translation": "技術者はファイルが無事だと伝えて、私たちを安心させた。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "agitate",
+          "definition": "人を不安・動揺・興奮した状態にする。",
+          "frequency": 4,
+          "difference": "人を落ち着かせる assuage に対し、動揺を強めるという状態・方向の反対。政治運動をするという別義はここでは含めない。",
+          "example": "The repeated alarms agitated the waiting passengers.",
+          "translation": "警報が繰り返し鳴り、待っていた乗客たちは動揺した。"
+        },
+        {
+          "word": "incense",
+          "definition": "人を激怒させる。",
+          "frequency": 4,
+          "difference": "怒った人をなだめる場合の assuage に対し、怒りを引き起こす・強める方向の対立。単なる不安には使わない。",
+          "example": "The dismissive response incensed the residents.",
+          "translation": "取り合おうとしない返答に、住民たちは激怒した。"
+        }
+      ]
+    }
+  ]
+}
