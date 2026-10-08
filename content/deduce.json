@@ -1,0 +1,234 @@
+{
+  "word": "deduce",
+  "slug": "deduce",
+  "ipa": "米: /dɪˈduːs/｜英: /dɪˈdjuːs/。2音節で、第2音節に主強勢がある。ここに示した米英差は、第2音節の /d/ と /uː/ の間に英音では /j/ が入る点。第1音節の母音は両方とも /ɪ/、第2音節の母音は長い /uː/。deduces は米 /dɪˈduːsɪz/・英 /dɪˈdjuːsɪz/、deduced は米 /dɪˈduːst/・英 /dɪˈdjuːst/、deducing は米 /dɪˈduːsɪŋ/・英 /dɪˈdjuːsɪŋ/。各活用形も第2音節の /j/ の有無がここで示した米英差となる。deduced の -ed は /t/ で、音節は増えない。",
+  "lead": "得られた情報・証拠・前提を基に考え、結論や答えを導き出す。人が主語になることが多く、直接目的語や that節・疑問詞節は「導かれた内容」、from の後ろは「根拠」を表す。筋道のある判断として提示する語だが、日常の手がかりからの推理にも使われ、結論の正しさを語そのものが保証するわけではない。論理学・数学では、前提や原理から結論を演繹的に導くという限定された使",
+  "updated": "2026-10-08",
+  "notion_url": "https://app.notion.com/p/deduce-3f34faa9b77d8196b834e8f1b230338d",
+  "pronunciation": [],
+  "etymology": [
+    "ラテン語 deducere「下へ導く、導き出す」にさかのぼり、de-「下へ、離して」と ducere「導く」から成る。現代の推論の意味は、根拠から結論を「導き出す」と捉えると覚えやすい。ただし、現代の全用例が論理学の厳密な演繹を表すわけではない。",
+    "同じ ducere の系統に induce「引き起こす、誘導する」、reduce「減らす」があり、deduct「差し引く」も deducere と歴史的につながる。現代の deduce と deduct は意味も語形も区別する。derive「導出する」は意味が近くても同じ語根ではない。"
+  ],
+  "formation": [
+    {
+      "term": "deduction",
+      "description": "/dɪˈdʌkʃən/ は名詞で「推論、推論による結論」。過程は不可算、個々の推論・結論は可算になり、by deduction「推論によって」、make a deduction「一つの推論をする」と使う。同じ名詞には deduct に対応する「差引き、控除、控除額」の意味もある。"
+    },
+    {
+      "term": "deductive",
+      "description": "は形容詞で「演繹的な、推論による」、deductively は副詞で「演繹的に」。deductive reasoning「演繹的推論」は方法を表し、deducible「推論できる」とは意味が異なる。"
+    },
+    {
+      "term": "deducible",
+      "description": "は形容詞で「推論できる、導き出せる」。The date is deducible from the records.「その日付は記録から割り出せる」のように、結論となる物事を主語にし、from で根拠を示す。deductible「控除できる、差し引ける」と混同しない。"
+    },
+    {
+      "term": "deduced",
+      "description": "は過去形・過去分詞。a deduced value「推論・計算によって導かれた値」や the value deduced from the data「データから導かれた値」は元の動詞に基づく修飾。deducing は末尾の e を落として作る。"
+    },
+    {
+      "term": "deducing",
+      "description": "title は、不動産実務で「権原の立証」という過程を表す名詞句としても使われる。一般的な推論とは訳し分ける（語義2）。"
+    }
+  ],
+  "core": [],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞】推論する、推理して分かる、導き出す",
+      "frequency": 6,
+      "register": [
+        "やや改まった表現。分析・調査・論説・学術文、推理小説などに適する。身近な出来事にも使えるが、会話で単に「考えて分かった」と言うなら work out や figure out が合う場合もある。主要な語義・構文は米英に共通する。"
+      ],
+      "definition": "得られた情報・証拠・前提を基に考え、結論や答えを導き出す。人が主語になることが多く、直接目的語や that節・疑問詞節は「導かれた内容」、from の後ろは「根拠」を表す。筋道のある判断として提示する語だが、日常の手がかりからの推理にも使われ、結論の正しさを語そのものが保証するわけではない。論理学・数学では、前提や原理から結論を演繹的に導くという限定された使い方もする。",
+      "patterns": [
+        "deduce something＝結論・理由・値などを推論する",
+        "deduce something from something＝根拠から結論を導く",
+        "deduce that 〈平叙節〉・deduce from something that 〈平叙節〉＝結論を節で示す。後者は根拠を先に述べて結論につなぐ",
+        "deduce 〈what/how/why/who などで始まる節〉＝何が・どう・なぜ・誰がという答えを推理する",
+        "deduce something about someone/something from 〈証拠〉＝証拠から人・物事について分かる",
+        "be deduced from something＝結論・値などが根拠から導かれる",
+        "It can be deduced that 〈平叙節〉＝…と推論できる。it は後続する節の内容を受ける形式主語で、推論する人ではない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "deduce something from something",
+          "use": "根拠と、そこから導いた答えを明示する。",
+          "example": "The engineer deduced the cause of the fault from the pattern of error messages.",
+          "translation": "技術者はエラーメッセージの出方から、不具合の原因を突き止めた。"
+        },
+        {
+          "pattern": "deduce that 〈平叙節〉",
+          "use": "結論を主語・動詞のそろった節で述べる。",
+          "example": "When no one answered either phone, I deduced that the office was already closed.",
+          "translation": "どちらの電話にも誰も出なかったので、事務所はもう閉まっているのだと判断した。"
+        },
+        {
+          "pattern": "deduce from something that 〈平叙節〉",
+          "use": "長い結論の前に、推論の根拠を置く。",
+          "example": "She deduced from the repeated references to the old address that the form had not been updated.",
+          "translation": "旧住所が何度も出てくることから、彼女はその書式が更新されていないと判断した。"
+        },
+        {
+          "pattern": "deduce what 〈平叙語順の節〉",
+          "use": "未知の出来事や内容を推理する。",
+          "example": "By comparing the two versions, we deduced what had been removed from the report.",
+          "translation": "二つの版を比較して、報告書から何が削除されたのかを割り出した。"
+        },
+        {
+          "pattern": "deduce how 〈平叙語順の節〉",
+          "use": "仕組みや経過についての答えを推理する。",
+          "example": "The team used the timestamps to deduce how the error had spread across the system.",
+          "translation": "チームは時刻の記録を使い、エラーがシステム全体にどう広がったのかを推理した。"
+        },
+        {
+          "pattern": "deduce something about someone/something",
+          "use": "分かった内容を詳述せず、対象についてどの程度分かるかを述べる。",
+          "example": "You can deduce very little about a candidate's judgment from a list of qualifications alone.",
+          "translation": "資格の一覧だけでは、応募者の判断力について分かることはほとんどない。"
+        },
+        {
+          "pattern": "be deduced from 〈証拠・データ〉",
+          "use": "推論によって得られた値や情報を主語にする。",
+          "example": "The approximate date of the photograph was deduced from the advertisements visible in the background.",
+          "translation": "写真のおおよその撮影時期は、背景に写っている広告から割り出された。"
+        },
+        {
+          "pattern": "It can be deduced that 〈平叙節〉",
+          "use": "推論の主体を特定せず、導ける結論を示す。",
+          "example": "All three copies contain the same unusual error, so it can be deduced that they share a common source.",
+          "translation": "三つの写しすべてに同じ珍しい誤りがあるので、共通の原本に由来すると推測できる。"
+        },
+        {
+          "pattern": "deduce a result from 〈前提・原理〉",
+          "use": "数学や論理の文脈で、前提から結果を導く。",
+          "example": "We can deduce this result from the two assumptions stated at the beginning of the proof.",
+          "translation": "この結果は、証明の冒頭で述べた二つの仮定から導ける。"
+        }
+      ],
+      "notes": [
+        "deduce では「根拠から結論へ」の向きを保つ。deduce the cause from the evidence は「証拠から原因を推論する」であり、from の後ろを結論として読むわけではない。I deduced that ... の that は省略できるが、長い節では残すと構造が明瞭になる。疑問詞節は疑問文の倒置をしない。誤: We deduced why did the server stop. 正: We deduced why the server stopped. 自分がこれからする行為を deduce to do で表す標準的な型はない。「彼が辞任すると推測した」は I deduced that he would resign. のように節で示す。",
+        "一般英語の deduce を「一般原理から個別の結論を出す場合にしか使えない」と狭く限定しない。人の行動、写真、記録などから事情を推理する使い方も普通にある。一方で、論理学の説明では deduction「演繹」と induction「帰納」を区別する。一般語として deduce と infer が重なることと、専門用語の区別は両立する。incorrectly deduce that ...「誤って…だと推論する」も成立し、話者が筋道を立てたつもりでも結論が誤っていることはある。",
+        "deduce と deduct は、どちらも from を伴えるが役割が違う。deduce the total from the invoices は「請求書から合計を割り出す」、deduct the fee from the total は「合計から手数料を差し引く」。推論なら deduce、差引きなら deduct を選び、名詞 deduction が両方の意味を持つことに引きずられない。また、資料が何かをほのめかすなら The evidence implies that ...、読み手が結論を導くなら We deduce from the evidence that ... と役割を区別する。elicit information from someone は「働きかけて情報を引き出す」で、情報を材料に自分で推理することとは異なる。"
+      ],
+      "synonyms": [
+        {
+          "word": "infer",
+          "definition": "証拠や手がかりから、明示されていないことを推察する。",
+          "frequency": 7,
+          "difference": "deduce と広く重なる。deduce は筋道立てた導出を前面に出しやすいが、一般語で両者を「必ず正しい推論／不確かな推測」に二分することはできない。",
+          "example": "From the wording of the reply, I inferred that they were open to negotiation.",
+          "translation": "返信の言い回しから、相手には交渉の余地があると推察した。"
+        },
+        {
+          "word": "conclude",
+          "definition": "検討や推論の結果、ある判断に至る。",
+          "frequency": 8,
+          "difference": "判断に到達したという到達点を強調する。deduce は根拠から結論を導き出す働きが前面に出る。conclude には別に「終える」の意味もあるが、ここでは判断の意味。",
+          "example": "After reviewing the figures, we concluded that the proposal was too expensive.",
+          "translation": "数字を検討した結果、その提案は費用がかかりすぎると結論づけた。"
+        },
+        {
+          "word": "derive",
+          "definition": "既存の原理・式・情報などから、結果や値を導出する。",
+          "frequency": 6,
+          "difference": "数式や計算結果を導く場合に特に重なる。derive something from something が基本で、節として結論を直接述べる標準的な学習型は deduce that ... や infer that ...。derive には「起源を持つ」「得る」など、推理ではない意味もある。",
+          "example": "The researchers derived a new equation from the original model.",
+          "translation": "研究者たちは元のモデルから新しい方程式を導いた。"
+        },
+        {
+          "word": "work out",
+          "definition": "考えたり計算したりして、答え・理由・方法などを理解する。",
+          "frequency": 8,
+          "difference": "deduce より日常的で、試行錯誤や計算で問題を解くことも広く含む。証拠からの推論だけに限られない。",
+          "example": "We finally worked out why the totals did not match.",
+          "translation": "合計が一致しなかった理由がようやく分かった。"
+        },
+        {
+          "word": "gather",
+          "definition": "聞いたことや状況から、それとなく事情を理解する。",
+          "frequency": 7,
+          "difference": "I gather that ... の形では、情報を受け取って察したという含みが出やすい。deduce ほど意識的な推論の手順を強調しない。",
+          "example": "I gather from your email that the deadline has changed.",
+          "translation": "あなたのメールからすると、締め切りが変わったようですね。"
+        },
+        {
+          "word": "guess",
+          "definition": "十分に分かっていないことについて、答えや見当をつける。",
+          "frequency": 9,
+          "difference": "根拠の乏しい当て推量にも使える。deduce は何らかの情報や前提から推論したことを示すが、guess も手がかりを使う場合があるため、証拠の有無だけで完全に二分はできない。",
+          "example": "I guessed her age from the photograph, but I was several years off.",
+          "translation": "写真から彼女の年齢を推測したが、数歳外れていた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【動詞・他動詞／法律】権原を立証する",
+      "frequency": 2,
+      "register": [
+        "主に英国の不動産取引・法律実務の専門表現。イングランド・ウェールズの売買や土地登記に関する現行の実務文書で見られる。日常の「推論する」の代わりに広く使う意味ではない。"
+      ],
+      "definition": "不動産について、誰がどのような権原を持つかを証書や関連資料によって示す・立証する。deduce title という専門的な結合で用いられ、売主や登記申請者、その代理人などが主語になる。title はここでは権原、すなわち所有権などの権利の根拠を指す。人の持ち物を手がかりから推理するだけの意味ではなく、権利関係を資料で示すことが中心。",
+      "patterns": [
+        "deduce title＝権原を立証する",
+        "deduce title to land/property・deduce someone's title to land/property＝土地・不動産に対する権原を立証する。to 以下は title がどの財産に対するものかを示す",
+        "deduce title from 〈証書・根拠資料〉＝資料に基づいて権原を立証する",
+        "title is deduced from 〈証書・根拠資料〉＝資料に基づいて権原が立証される。deducing title はこの行為・過程を指す名詞句にもなる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "deduce title to land",
+          "use": "どの土地についての権原を示すのかを明確にする。",
+          "example": "The buyer asked the seller's solicitor to deduce title to the strip of land behind the house.",
+          "translation": "買主は、家の裏手の細長い土地について権原を立証するよう、売主側の弁護士に求めた。"
+        },
+        {
+          "pattern": "deduce someone's title from 〈根拠資料〉",
+          "use": "権原の持ち主と、立証の根拠となる資料を示す。",
+          "example": "The solicitor sought to deduce the seller's title from the surviving deeds.",
+          "translation": "弁護士は、現存する証書から売主の権原を立証しようとした。"
+        },
+        {
+          "pattern": "title is deduced from 〈根拠資料〉",
+          "use": "権原を主語にして、どの資料によって示すのかを述べる。",
+          "example": "The contract identified the deed from which title was to be deduced.",
+          "translation": "その契約書は、権原立証の起点となる証書を特定していた。"
+        }
+      ],
+      "notes": [
+        "deduce title の title は「表題」でも単なる「名義」でもない。deduce title to the property は「その不動産に対する権原を立証する」であり、to the property は title に結び付く。語義1の deduce the owner's identity from the records「記録から所有者が誰かを推理する」と区別する。deduce title は資料を示して権利関係を立証する過程を述べ、権利の移転、登記申請、登記の完了それ自体と同義ではない。必要な資料や立証方法は、その土地の登記状況や具体的な手続きで異なるため、単語の意味から一律の必要書類や年数を決めない。"
+      ],
+      "synonyms": [
+        {
+          "word": "prove title",
+          "definition": "不動産などについて権原を証拠により立証する。",
+          "frequency": 3,
+          "difference": "立証するという意味を直接的に述べる表現。deduce title は特に不動産実務で、権利関係を資料により示す定着した言い方として使われる。",
+          "example": "The missing deed made it harder for the seller to prove title to the land.",
+          "translation": "証書が見つからないため、売主がその土地に対する権原を立証することは難しくなった。"
+        },
+        {
+          "word": "show title",
+          "definition": "権原があることを、資料などによって相手に示す。",
+          "frequency": 2,
+          "difference": "売買などで権原を相手に示すことを表し、deduce title と重なる。show という動詞自体は日常的でも、この title との結合は法律実務の意味で読む。",
+          "example": "The buyer requested further documents to show title to the access road.",
+          "translation": "買主は、進入路に対する権原を示す追加の資料を求めた。"
+        },
+        {
+          "word": "establish title",
+          "definition": "証拠などを通じて、権原があることを確かなものとして示す。",
+          "frequency": 3,
+          "difference": "権原の存在を確かにする点を強調し、争いのある権利の立証にも使う。deduce title と重なるのは証拠により権原を示す意味であり、新たに権利を取得するという別の含みまで同一視しない。",
+          "example": "The claimant produced additional evidence to establish title to the disputed land.",
+          "translation": "請求者は、係争中の土地に対する権原を立証するため、追加の証拠を提出した。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
