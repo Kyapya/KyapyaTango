@@ -1,0 +1,686 @@
+{
+  "word": "subscribe",
+  "slug": "subscribe",
+  "ipa": "米・英: /səbˈskraɪb/。2音節で、第2音節に主強勢がある。第1音節の母音は弱い /ə/、第2音節は二重母音 /aɪ/。/s/・/k/・/r/ の間に日本語の母音を足して「スクライブ」と細かく区切らない。",
+  "lead": "料金を払う契約・取決めにより、新聞や雑誌を定期的に受け取ったり、サービスを継続して利用したりする。申し込む行為にも、すでに利用している関係にも使う。毎月払いだけでなく、一定期間分を前払いする場合も含む。単品を一度だけ買うこととは区別する。",
+  "updated": "2026-10-08",
+  "notion_url": "https://app.notion.com/p/subscribe-3f34faa9b77d81509602c7c2fb2528ea",
+  "pronunciation": [
+    "活用は subscribes /səbˈskraɪbz/、subscribed /səbˈskraɪbd/、subscribing /səbˈskraɪbɪŋ/。subscribed の -ed は /d/ で、音節を増やさない。subscription /səbˈskrɪpʃən/ は3音節で、第2音節に主強勢がある。subscribe の第2音節の /aɪ/ が /ɪ/ に変わり、語幹末の /b/ に対応する部分は /pʃ/ になる。"
+  ],
+  "etymology": [
+    "ラテン語 subscribere「下に書く、署名する」に由来し、sub-「下に」と scribere「書く」から成る。文書の下に名前を書くことが、同意や金銭を出す約束を示すことにつながった。現在の購読・登録では、実際に手書きで署名する必要はない。",
+    "scribe「書記」、describe「描写する」、transcribe「書き写す」は scribere の系統を共有する。現代の subscribe を単に「下へ書く」と訳さず、後ろに来る対象と前置詞から、購読・賛同・拠出・株式申込みを見分ける。"
+  ],
+  "formation": [
+    {
+      "term": "subscriber",
+      "description": "は可算名詞で「購読者、登録者、加入者」。a subscriber to the newsletter のように対象を示す。オンラインでは無料登録者も subscriber であり、有料会員だけを指す語ではない。"
+    },
+    {
+      "term": "subscription",
+      "description": "は「購読・利用契約、配信登録、購読料・会費」などを表す名詞。take out a subscription は契約を申し込む、renew a subscription は更新する、cancel a subscription は解約する。動詞の subscribe to に対して、名詞では a subscription to/for という形がある。"
+    },
+    {
+      "term": "subscribed",
+      "description": "は過去形・過去分詞。be subscribed to a channel は「チャンネルに登録している」。人を登録する他動詞の受動なら「登録される」にもなる。a fully subscribed course は「申込枠が埋まった講座」で、主語・修飾先の役割が異なる。"
+    },
+    {
+      "term": "unsubscribe",
+      "description": "は「購読・配信登録を解除する」で、unsubscribe from a mailing list のように from を使う。resubscribe は「再登録する、再び購読する」で、resubscribe to a service とする。"
+    },
+    {
+      "term": "oversubscribed",
+      "description": "は「募集枠を超える申込みがある」という形容詞。undersubscribed は反対に「募集枠に申込みが達していない」。単に登録者数が多い・少ないという絶対数ではない。"
+    }
+  ],
+  "core": [
+    {
+      "label": "「ある対象に参加・賛同する側として加わる、またはその関係に加える」。受け取る側、考えを支持する側、資金を出す側になるという関係を押さえると、現代の主要義がつながる。配信管理の他動詞用法では、人を受信する側に加える。募集側を主語にすると、どれだけその側へ加わる申込みがあるかを表す。語義9は歴史的残存義で、文書に名前を書くという物理的動作そのものはこの核から導けないため、個別に参照する。",
+      "description": ""
+    },
+    {
+      "label": "加わる関係が有料の継続利用であること",
+      "description": "→ 「定期購読する、継続利用を契約する」（語義1）"
+    },
+    {
+      "label": "加わる関係が情報の継続受信であること",
+      "description": "→ 「配信・チャンネルに登録する」（語義2）"
+    },
+    {
+      "label": "加わる関係を配信の受信者に設定すること",
+      "description": "→ 「人を配信先として登録する」（語義3）"
+    },
+    {
+      "label": "加わる関係が見解への支持であること",
+      "description": "→ 「賛同する、支持する」（語義4）"
+    },
+    {
+      "label": "加わる関係が活動への資金拠出であること",
+      "description": "→ 「寄付する、金銭の拠出を約束する」（語義5）"
+    },
+    {
+      "label": "加わる関係が募集証券の購入であること",
+      "description": "→ 「株式などの購入を申し込む」（語義6）"
+    },
+    {
+      "label": "加わる申込みを募集側から捉えた状態",
+      "description": "→ 「参加枠・募集額に申込みがある」（語義7）"
+    },
+    {
+      "label": "加わる申込みが募集枠を超えた状態",
+      "description": "→ 「定員・募集枠を超える申込みがある」（語義8）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・自動詞】定期購読する、継続利用を契約する",
+      "frequency": 8,
+      "register": [
+        "一般語。出版、動画・音楽配信、ソフトウェア、各種会員サービス。"
+      ],
+      "definition": "料金を払う契約・取決めにより、新聞や雑誌を定期的に受け取ったり、サービスを継続して利用したりする。申し込む行為にも、すでに利用している関係にも使う。毎月払いだけでなく、一定期間分を前払いする場合も含む。単品を一度だけ買うこととは区別する。",
+      "patterns": [
+        "subscribe to 〈雑誌・新聞・サービスなど〉",
+        "subscribe＝対象が明らかな場合の単独使用",
+        "subscribe for 〈期間〉＝契約・購読する期間",
+        "subscribe to something at 〈料金〉＝利用料金を示す。to は前置詞で、後ろは契約対象。現在形は利用関係、過去形は申込みの出来事、現在完了形は継続や経験を表せる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "subscribe to a magazine",
+          "use": "定期的に雑誌を受け取る契約を述べる。",
+          "example": "I subscribe to a monthly science magazine, but I buy other magazines only occasionally.",
+          "translation": "月刊の科学雑誌は定期購読しているが、ほかの雑誌はたまに買うだけだ。"
+        },
+        {
+          "pattern": "subscribe to an online service",
+          "use": "料金を払ってオンラインサービスを継続利用する。",
+          "example": "Our firm subscribes to an online database of industry reports.",
+          "translation": "当社は、業界レポートのオンラインデータベースを契約して利用している。"
+        },
+        {
+          "pattern": "subscribe for 〈期間〉",
+          "use": "購読・利用を申し込む期間を示す。",
+          "example": "You can subscribe for six months and renew later if you wish.",
+          "translation": "6か月間の購読を申し込み、希望すれば後で更新できます。"
+        },
+        {
+          "pattern": "subscribe to something at 〈料金〉",
+          "use": "契約対象と料金を併せて説明する。",
+          "example": "New customers can subscribe to the service at a reduced annual rate.",
+          "translation": "新規顧客は、割引された年額料金でそのサービスを契約できます。"
+        },
+        {
+          "pattern": "have subscribed to something for 〈期間〉",
+          "use": "ある時点から続いている購読・契約を述べる。",
+          "example": "The library has subscribed to this journal for more than twenty years.",
+          "translation": "その図書館は、この学術誌を20年以上定期購読している。"
+        },
+        {
+          "pattern": "subscribe now",
+          "use": "広告や申込画面で、対象を繰り返さずに購読を促す。",
+          "example": "Subscribe now to receive the next issue by post.",
+          "translation": "次号を郵送で受け取るには、今お申し込みください。"
+        }
+      ],
+      "notes": [
+        "購読の基本形は subscribe to the magazine で、subscribe the magazine と直接目的語にしない。I subscribe to it. のように代名詞も to の後ろに置き、to を分離する句動詞ではない。subscribe for a year の for は期間を示し、語義6の subscribe for shares では購入申込対象を示す。同じ for でも後ろの名詞の役割が異なる。利用者が subscribe し、提供者は sell subscriptions、provide the service などと表現する。「サブスク」の印象から subscribe のすべてを有料と決めず、無料の配信登録は語義2を参照。自動更新、解約条件、料金の支払時期は個別の契約によるもので、動詞だけからは決まらない。"
+      ],
+      "synonyms": [
+        {
+          "word": "take out a subscription",
+          "definition": "定期購読・継続利用の契約を申し込む。",
+          "frequency": 6,
+          "difference": "契約を始める行為が明確。subscribe は申込行為だけでなく、I subscribe to ... と現在の利用関係も表す。",
+          "example": "We took out a subscription to the digital edition last week.",
+          "translation": "私たちは先週、電子版の購読を申し込んだ。"
+        },
+        {
+          "word": "sign up for",
+          "definition": "サービスの利用や活動への参加を申し込む。",
+          "frequency": 9,
+          "difference": "より会話的で、単発の講座などにも使う。subscribe は定期的な受取りや継続的な利用に結び付く。",
+          "example": "I signed up for a three-month trial of the software.",
+          "translation": "そのソフトウェアの3か月体験利用に申し込んだ。"
+        },
+        {
+          "word": "buy",
+          "definition": "代金を払って商品・サービスを買う。",
+          "frequency": 10,
+          "difference": "一回の購入にも使う広い語。buy a magazine だけでは定期購読を表さない。",
+          "example": "She bought a newspaper at the station.",
+          "translation": "彼女は駅で新聞を買った。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【動詞・自動詞／subscribed の状態表現】配信・チャンネルに登録する",
+      "frequency": 9,
+      "register": [
+        "一般語。ウェブサイト、メール配信、動画・音声サービス。Subscribe は登録ボタンの表示にもなる。"
+      ],
+      "definition": "ニュースレター、動画チャンネル、ポッドキャストなどに登録して、継続的な配信や更新情報を受け取れるようにする。無料登録にも使い、支払いの有無は語自体からは決まらない。subscribed は、すでにその登録関係にある状態を表す。",
+      "patterns": [
+        "subscribe to 〈ニュースレター・チャンネルなど〉",
+        "subscribe＝対象が明らかな登録操作",
+        "someone + be subscribed to something＝登録済みの状態",
+        "stay subscribed to something＝登録状態を保つ。能動の subscribe の主語と be subscribed の主語はいずれも受信・視聴する利用者になれる。管理者などが人を登録する他動詞とその受動は語義3で扱う。"
+      ],
+      "collocations": [
+        {
+          "pattern": "subscribe to a newsletter",
+          "use": "定期的なメール配信に登録する。",
+          "example": "Subscribe to our free newsletter for a weekly summary of local events.",
+          "translation": "地域の催しの情報を毎週まとめて受け取るには、無料ニュースレターにご登録ください。"
+        },
+        {
+          "pattern": "subscribe to a channel",
+          "use": "動画チャンネルの更新を継続して追うために登録する。",
+          "example": "I subscribed to the channel after watching its tutorial on bicycle repairs.",
+          "translation": "自転車の修理方法の解説動画を見て、そのチャンネルに登録した。"
+        },
+        {
+          "pattern": "subscribe to a podcast",
+          "use": "ポッドキャストの新しい回を追うために登録する。",
+          "example": "You can subscribe to the podcast through your usual listening app.",
+          "translation": "普段使っている音声アプリで、そのポッドキャストを登録できます。"
+        },
+        {
+          "pattern": "be subscribed to something",
+          "use": "登録がすでに済んでいることを確認する。",
+          "example": "I'm already subscribed to the newsletter, so I don't need to enter my email again.",
+          "translation": "そのニュースレターにはもう登録しているので、メールアドレスを再入力する必要はない。"
+        },
+        {
+          "pattern": "stay subscribed to something",
+          "use": "登録を解除せず続けることを述べる。",
+          "example": "You can stay subscribed to the channel while turning off its notifications.",
+          "translation": "チャンネル登録を続けたまま、通知をオフにできます。"
+        }
+      ],
+      "notes": [
+        "subscribe to a channel の to は前置詞で、subscribe a channel、subscribe it to にはしない。一方、I'm subscribed to the channel. は実際に使われる登録状態の表現であり、「subscribe は自動詞だから be subscribed は必ず誤り」とは言えない。I subscribed yesterday. は自動詞で自分が登録した出来事、I'm subscribed. は現在の登録状態。他動詞の The administrator subscribed me to the list. は管理者が私を登録したことを表し、I was subscribed to the list by the administrator. はその受動である（語義3）。自分を目的語にした I subscribed myself to the list. も使えるが、普通に自分の登録を述べるときに myself は必須ではない。購読管理の画面などに出る subscribed contact は、登録済みの連絡先を指す分詞表現である。登録すること、全件の通知を受けること、課金されることは別で、どこまで行われるかはサービスの機能・設定による。Subscribe の表示は通常、命令形の動詞。「登録」という普通の名詞は subscription、登録者は subscriber とする。"
+      ],
+      "synonyms": [
+        {
+          "word": "sign up for",
+          "definition": "名簿やサービスに登録する。",
+          "frequency": 9,
+          "difference": "登録を始める手続きに焦点があり、継続配信以外にも広く使う。subscribe to は定期的な受信・アクセスの関係を示す。",
+          "example": "Sign up for email updates using the form below.",
+          "translation": "下のフォームからメールによる更新情報の受取りに登録してください。"
+        },
+        {
+          "word": "follow",
+          "definition": "アカウントなどの投稿・活動を継続して追う。",
+          "frequency": 9,
+          "difference": "SNSで近い登録機能を表すが、各サービスの Follow と Subscribe が同じ機能とは限らない。follow は登録操作をせず活動を追う意味にもなる。",
+          "example": "I follow the museum on social media to hear about new exhibitions.",
+          "translation": "新しい展覧会の情報を得るため、SNSでその美術館をフォローしている。"
+        },
+        {
+          "word": "register for",
+          "definition": "サービスや活動の利用者・参加者として登録する。",
+          "frequency": 8,
+          "difference": "フォームなどによる正式な登録を広く表す。subscribe と違い、一度だけの参加にも使う。",
+          "example": "You need to register for the webinar before Friday.",
+          "translation": "金曜日までに、そのオンラインセミナーに登録する必要がある。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unsubscribe",
+          "definition": "購読・配信登録を解除する。",
+          "frequency": 8,
+          "difference": "登録関係に入る subscribe に対し、その関係から外れるという方向の反対。unsubscribe from something とする。",
+          "example": "I unsubscribed from the mailing list when I changed jobs.",
+          "translation": "転職したとき、そのメーリングリストの登録を解除した。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【動詞・他動詞／再帰形】人を配信先として登録する",
+      "frequency": 5,
+      "register": [
+        "配信管理、メーリングリスト、サービスの操作案内。語義2の利用者自身が登録する自動詞と比べ、誰を登録対象にするかを明示する用法。"
+      ],
+      "definition": "人をメーリングリストなどの受信者として登録し、配信を受ける関係に入れる。主語は登録操作を行う管理者など、直接目的語は登録される人。自分自身を目的語にすれば、自分を受信者として登録することを表す。受動態では、登録される人が主語になる。",
+      "patterns": [
+        "subscribe someone to a mailing list＝人をリストに登録する",
+        "subscribe oneself to a mailing list＝自分を登録対象にする",
+        "someone + be subscribed to a mailing list by someone＝誰かによって登録される。to の後ろは登録先で、直接目的語は subscribe の直後。対象や登録先が文脈上明らかな場合には、その部分を繰り返さずに使える。"
+      ],
+      "collocations": [
+        {
+          "pattern": "subscribe someone to a mailing list",
+          "use": "管理者などが、指定した人を配信の受信者に加える。",
+          "example": "At my request, the coordinator subscribed me to the project mailing list.",
+          "translation": "私の依頼を受け、担当者が私をプロジェクトのメーリングリストに登録した。"
+        },
+        {
+          "pattern": "subscribe oneself to a mailing list",
+          "use": "登録を行う人と、登録される人が同一であることを明示する。",
+          "example": "You can subscribe yourself to the mailing list through the registration page.",
+          "translation": "登録ページから、自分をメーリングリストに登録できます。"
+        },
+        {
+          "pattern": "be subscribed to a mailing list by someone",
+          "use": "登録された人を主語にし、登録を行った人を示す。",
+          "example": "With her agreement, Maya was subscribed to the department mailing list by the administrator.",
+          "translation": "本人の同意を得て、マヤは管理者によって部門のメーリングリストに登録された。"
+        }
+      ],
+      "notes": [
+        "I subscribe to the list. は自動詞で「私がそのリストに登録する」（語義2）。I subscribe myself to the list. は他動詞＋再帰目的語で「私が自分をそのリストに登録する」。同じ登録を別の構造で述べられ、再帰形だけが正しいわけではない。主語と登録対象が別なら The administrator subscribed me to the list. のように人を目的語にする。代名詞も subscribe me to it の順で、subscribe to me it や subscribe the list to me とはしない。subscribe a channel を一般的な「チャンネル登録する」の形にしないという語義2の注意と矛盾しない。I was subscribed to the list by the administrator. は登録操作の受動、I'm still subscribed to the list. は現在も登録中という状態を示す。後者だけでは誰が登録したかは分からない。登録に本人の確認や管理者の承認が必要かはサービスによって異なり、subscribe という動詞だけから手続きの条件までは決まらない。"
+      ],
+      "synonyms": [
+        {
+          "word": "sign someone up",
+          "definition": "人を活動・サービスなどの利用者として登録する。",
+          "frequency": 7,
+          "difference": "口語的で、講座や行事など配信以外の登録にも広く使う。subscribe someone to a list は継続的な配信の受信者に加えることを表す。",
+          "example": "With his permission, I signed him up for the introductory workshop.",
+          "translation": "本人の許可を得て、私は彼を入門ワークショップに申し込んだ。"
+        },
+        {
+          "word": "register",
+          "definition": "人や情報を正式な利用者・参加者の記録に登録する。",
+          "frequency": 8,
+          "difference": "登録全般を表し、配信を受ける関係に限らない。register someone for something など、登録対象に応じた構文を使う。",
+          "example": "The assistant registered the new employees for the training session.",
+          "translation": "アシスタントは、新入社員を研修の参加者として登録した。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unsubscribe",
+          "definition": "人の購読・配信登録を解除する。",
+          "frequency": 5,
+          "difference": "subscribe someone to a list に対し、unsubscribe someone from a list は、その人を登録関係から外すという方向の反対。自分が解除する自動詞の unsubscribe from とは目的語の有無が異なる。",
+          "example": "At her request, the administrator unsubscribed her from the mailing list.",
+          "translation": "本人の依頼を受け、管理者は彼女のメーリングリスト登録を解除した。"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "【動詞・自動詞＋前置詞 to】賛同する、支持する",
+      "frequency": 6,
+      "register": [
+        "フォーマル。論説、会議、議論、価値観の説明。I don't subscribe to ... と意見に距離を置く形も多い。"
+      ],
+      "definition": "ある見解・理論・理念などを妥当なものとして受け入れ、自分もそれを支持する。単に相手の発言を聞き流すことではなく、その考えを自分の立場として認めることを表す。ただし、熱烈な支持や具体的な支援行動まで常に伴うわけではない。",
+      "patterns": [
+        "subscribe to 〈意見・理論・理念の名詞句〉",
+        "subscribe to the view that 〈節〉",
+        "subscribe to the idea of 〈動名詞句〉",
+        "subscribe to something wholeheartedly。fully も賛同の程度を表す。to は前置詞で分離しない。that 節は view/idea/belief などの名詞の内容を説明する。受動よりも、支持する人・組織を主語にした能動が基本。"
+      ],
+      "collocations": [
+        {
+          "pattern": "subscribe to the view that 〈節〉",
+          "use": "支持する見解の具体的な内容を示す。",
+          "example": "I subscribe to the view that employees should help shape the policies that affect them.",
+          "translation": "従業員は自分たちに影響する方針の形成に関わるべきだという考えに、私は賛同する。"
+        },
+        {
+          "pattern": "not subscribe to a theory",
+          "use": "理論や説明を受け入れないことを述べる。",
+          "example": "We do not subscribe to the theory that lower prices always lead to greater loyalty.",
+          "translation": "価格を下げれば必ず顧客の忠誠度が高まるという説を、私たちは支持していない。"
+        },
+        {
+          "pattern": "subscribe to the idea of 〈動名詞句〉",
+          "use": "行動方針や提案の考え方を支持する。",
+          "example": "Most managers subscribe to the idea of sharing information across departments.",
+          "translation": "部門を超えて情報を共有するという考えには、ほとんどの管理職が賛同している。"
+        },
+        {
+          "pattern": "subscribe wholeheartedly to something",
+          "use": "賛同の強さを明示する。",
+          "example": "She subscribes wholeheartedly to the principle of equal access to education.",
+          "translation": "彼女は、教育を受ける機会は平等であるべきだという原則を心から支持している。"
+        }
+      ],
+      "notes": [
+        "I subscribe to the journal. は購読（語義1）、I subscribe to its editorial principles. は編集方針への賛同。前置詞だけで意味を決めず、対象を見る。subscribe that everyone should agree とは直接つなげず、subscribe to the view that ... とする。subscribe to improve the service の to improve は、この賛同義の前置詞構文ではなく、別の文脈では「サービスを改善するために購読・加入する」という目的の不定詞になりうる。agree with you は「あなたに同意する」だが、subscribe to you を人への賛成の一般形として使わず、subscribe to your view と考えを示す。否定の don't subscribe to は賛同しないことを述べるだけで、猛烈に反対しているとは限らない。"
+      ],
+      "synonyms": [
+        {
+          "word": "agree with",
+          "definition": "人や意見と同じ考えを持つ。",
+          "frequency": 10,
+          "difference": "会話を含めた一般的な同意に使い、人も目的語にできる。subscribe to は見解・原則への支持を示す硬めの表現。",
+          "example": "I agree with your assessment of the risks.",
+          "translation": "リスクについてのあなたの評価に同意します。"
+        },
+        {
+          "word": "endorse",
+          "definition": "意見・提案などへの支持を表明する。",
+          "frequency": 7,
+          "difference": "公に支持する、権威をもって推すという面が強い。subscribe to は本人がその考えを受け入れている立場を表し、公表を必須としない。",
+          "example": "The committee endorsed the proposal after a lengthy discussion.",
+          "translation": "長い議論の末、委員会はその提案を支持した。"
+        },
+        {
+          "word": "believe in",
+          "definition": "考え方や価値の正しさ・有効性を信じる。",
+          "frequency": 8,
+          "difference": "信念や価値観として信じる面を示す。subscribe to は特定の説・見解を自分の立場として支持する説明に向く。",
+          "example": "She believes in giving staff the freedom to make decisions.",
+          "translation": "彼女は、職員に判断の自由を与えることが大切だと考えている。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "reject",
+          "definition": "見解や理論を受け入れないと明確に示す。",
+          "frequency": 8,
+          "difference": "考えを受け入れる subscribe to に対し、受入れを退けるという立場の反対。単なる未賛同より強い拒絶を表しうる。",
+          "example": "The researchers rejected the theory after examining the new data.",
+          "translation": "研究者たちは新しいデータを検討し、その説を退けた。"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "【動詞・自動詞／金額を目的語にする他動詞】寄付する、金銭の拠出を約束する",
+      "frequency": 4,
+      "register": [
+        "ややフォーマル。慈善、会費、募金、団体への資金援助。日常の寄付の説明では donate や contribute も広く使う。"
+      ],
+      "definition": "団体や活動を支えるためにお金を出す、または一定額を出すと約束する。定期的な寄付・会費に使うほか、募金への拠出約束にも使う。自動詞では支援先を to の後ろに置き、他動詞では出す金額を直接目的語にする。サービスの対価を払う語義1とは、活動を資金面で支える目的に焦点がある点が異なる。",
+      "patterns": [
+        "subscribe to 〈団体・基金など〉",
+        "subscribe regularly to something",
+        "subscribe 〈金額〉 to 〈団体・基金など〉",
+        "〈金額〉 + be subscribed to 〈基金など〉。定期拠出には a month、annually などを加える。金額を取る他動詞用法もあるので、subscribe 全体を常に自動詞と分類しない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "subscribe to a charity",
+          "use": "慈善団体へ継続的に金銭援助をする。",
+          "example": "My grandparents subscribe to a charity that provides meals for older people.",
+          "translation": "私の祖父母は、高齢者に食事を届ける慈善団体へ定期的に寄付している。"
+        },
+        {
+          "pattern": "subscribe regularly to a fund",
+          "use": "基金を継続して支える。",
+          "example": "Many former students subscribe regularly to the university's scholarship fund.",
+          "translation": "多くの卒業生が、大学の奨学基金へ定期的に寄付している。"
+        },
+        {
+          "pattern": "subscribe 〈金額〉 to something",
+          "use": "拠出する金額と支援先を明示する。",
+          "example": "Each member agreed to subscribe twenty pounds a month to the restoration fund.",
+          "translation": "各会員は、修復基金に毎月20ポンドを拠出することに同意した。"
+        },
+        {
+          "pattern": "〈金額〉 + be subscribed to a fund",
+          "use": "募金に寄せられた拠出額・拠出約束額を述べる。",
+          "example": "By the end of the meeting, five thousand pounds had been subscribed to the relief fund.",
+          "translation": "会合の終わりまでに、救援基金へ5,000ポンドの拠出が約束されていた。"
+        }
+      ],
+      "notes": [
+        "subscribe to a charity では団体は to の目的語、subscribe twenty pounds to a charity では金額が直接目的語。金額を取る型を、そのまま subscribe a charity という一般的な「寄付する」の型へ広げない。to の後ろが慈善団体だから常に寄付とは限らず、subscribe to the charity's newsletter なら登録対象はニュースレターなので語義2である。拠出の約束を表す用例では、すでに送金済みとは限らない。会計上の受領を言いたいときは、received や paid などで明確にする。"
+      ],
+      "synonyms": [
+        {
+          "word": "donate",
+          "definition": "慈善活動などのために金銭・物品を寄付する。",
+          "frequency": 8,
+          "difference": "一度きりの寄付や物品にも広く使う。subscribe のこの意味は金銭の継続拠出・拠出約束に結び付く。",
+          "example": "Local shops donated food to the shelter.",
+          "translation": "地元の店が、避難施設に食料を寄付した。"
+        },
+        {
+          "word": "contribute",
+          "definition": "共同の目的のために金銭などを出す。",
+          "frequency": 8,
+          "difference": "資金以外に時間・労力なども対象にできる。subscribe はこの語義では金銭による支援を表す。",
+          "example": "Employees contributed a portion of the proceeds to the community fund.",
+          "translation": "従業員たちは、収益の一部を地域基金に拠出した。"
+        },
+        {
+          "word": "pledge",
+          "definition": "金銭の提供などを正式に約束する。",
+          "frequency": 6,
+          "difference": "約束する時点に焦点があり、支払い済みかどうかを区別しやすい。subscribe は文脈により拠出約束にも実際の拠出にもなる。",
+          "example": "The foundation pledged additional support for the project.",
+          "translation": "財団は、その事業への追加支援を約束した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【動詞・主に自動詞＋前置詞 for】株式などの購入を申し込む",
+      "frequency": 4,
+      "register": [
+        "金融・企業財務。一般の買物で「商品を注文する」という意味に広く使う語ではない。"
+      ],
+      "definition": "募集されている株式などの証券について、購入して代金を払う申込み・約束をする。典型的には、新規発行される株式を投資家が引き受ける場面で使う。主語は購入を申し込む投資家などであり、証券を発行する会社そのものの動作とは区別する。",
+      "patterns": [
+        "subscribe for 〈株式・債券など〉",
+        "subscribe for 〈数量〉 shares in 〈会社〉",
+        "subscribe to 〈株式・証券発行など〉という型もある。対象が明らかなら subscribe だけでもよい。for を残した受動は 〈証券〉 + be subscribed for by 〈申込者〉。証券・発行額を主語にした fully subscribed は語義7を参照。"
+      ],
+      "collocations": [
+        {
+          "pattern": "subscribe for shares",
+          "use": "株式の募集に購入を申し込む。",
+          "example": "Existing investors have been invited to subscribe for shares in the new company.",
+          "translation": "既存の投資家は、新会社の株式の購入申込みを案内されている。"
+        },
+        {
+          "pattern": "subscribe for 〈数量〉 shares",
+          "use": "申し込む株数を具体的に示す。",
+          "example": "She subscribed for two hundred shares but was allocated only eighty.",
+          "translation": "彼女は200株を申し込んだが、割り当てられたのは80株だけだった。"
+        },
+        {
+          "pattern": "subscribe to a new share issue",
+          "use": "新株発行への購入参加を、to を使う型で表す。",
+          "example": "Several pension funds agreed to subscribe to the new share issue.",
+          "translation": "複数の年金基金が、その新株発行に応じて株式を引き受けることに同意した。"
+        },
+        {
+          "pattern": "be subscribed for by 〈申込者〉",
+          "use": "証券を主語にし、誰が購入を申し込んだかを示す。",
+          "example": "Half of the new shares were subscribed for by existing shareholders.",
+          "translation": "新株の半分は、既存株主によって購入が申し込まれた。"
+        }
+      ],
+      "notes": [
+        "The investor subscribed for shares. は投資家が申込者、The company issued shares. は会社が発行者である。「引き受ける」という日本語だけから、売れ残りを引き受ける証券会社の underwriting と同じ行為だと決め付けない。subscribe for shares は募集への申込み・購入約束を表せるが、希望する全株数が割り当てられたことや、すでに支払いが完了したことまでは、この表現だけで確定しない。金融文書では subscribe to shares や前置詞のない subscribe shares も見られるため、for 以外を一律に誤りとしない。まず購入する側の subscribe for と、募集対象側の be fully subscribed を分けて読む。制度ごとの適格要件や払込条件を、一般英語の subscribe の定義へ持ち込まない。"
+      ],
+      "synonyms": [
+        {
+          "word": "apply for",
+          "definition": "割当てや購入などを申し込む。",
+          "frequency": 8,
+          "difference": "申請・申込み全般に使う広い表現。subscribe for は証券の購入と支払いを引き受ける申込みに焦点を置く。",
+          "example": "Employees may apply for up to five hundred shares each.",
+          "translation": "従業員は、1人につき最大500株まで申し込める。"
+        },
+        {
+          "word": "take up",
+          "definition": "提示された株式などを引き受ける。",
+          "frequency": 4,
+          "difference": "提供された購入機会・権利を利用する面を示す。subscribe for は募集に購入を申し込む側の動作を表す。",
+          "example": "Several shareholders chose not to take up the shares offered to them.",
+          "translation": "数人の株主は、提示された株式を引き受けないことにした。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【動詞・他動詞・通常は受動態】参加枠・募集額に申込みがある",
+      "frequency": 4,
+      "register": [
+        "講座・ツアーなどの募集案内、金融、ややフォーマルな申込状況の説明。"
+      ],
+      "definition": "活動・サービス・株式募集などが、参加や購入の申込みを受けていることを表す。特に fully subscribed は、用意した定員・募集枠・募集額が申込みで埋まった状態。登録する個人を主語にする用法と異なり、ここでは募集対象そのものが主語になる。",
+      "patterns": [
+        "〈活動・サービス・証券募集〉 + be fully subscribed",
+        "a fully subscribed 〈講座・ツアー・発行など〉。定着した受動・過去分詞の形を中心に使う。fully は副詞なので、名詞前でも fully-subscribed とハイフンでつなぐ必要はない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "be fully subscribed",
+          "use": "活動の申込枠が埋まったと知らせる。",
+          "example": "The morning tour is fully subscribed, but there are still places on the afternoon tour.",
+          "translation": "午前のツアーは定員に達しましたが、午後のツアーにはまだ空きがあります。"
+        },
+        {
+          "pattern": "a fully subscribed course",
+          "use": "名詞の前から、講座が定員に達していると説明する。",
+          "example": "We have opened a waiting list for the fully subscribed course.",
+          "translation": "定員に達した講座について、キャンセル待ちの受付を始めました。"
+        },
+        {
+          "pattern": "〈株式発行・募集〉 + be fully subscribed",
+          "use": "証券の募集枠が申込みで満たされたことを述べる。",
+          "example": "The share issue was fully subscribed before the deadline.",
+          "translation": "その株式発行は、期限前に募集枠全体への申込みが集まった。"
+        }
+      ],
+      "notes": [
+        "I'm subscribed to the course newsletter. は自分が配信の登録者である状態（語義2）、The course is fully subscribed. は講座の申込枠が埋まった状態。両者を同じ意味の受動態として処理しない。fully subscribed は募集枠が満たされていること、oversubscribed（語義8）は募集枠を超える申込みがあること。fully だけでは超過を断定できない。申込みが埋まることは、すべての参加者が料金を支払い終えた、あるいは実際に参加したこととも別である。普通に「私はツアーを申し込んだ」と言うなら I booked a place on the tour. や I signed up for the tour. を使い、この受動の慣用から I subscribe the tour. を一般的な申込表現として作らない。"
+      ],
+      "synonyms": [
+        {
+          "word": "fully booked",
+          "definition": "予約によって空きがなくなっている。",
+          "frequency": 7,
+          "difference": "宿泊・座席・予定など、予約枠が埋まったことをいう。fully subscribed は参加・購入の申込みによって募集枠が満たされたことを表す。",
+          "example": "The evening workshop is fully booked.",
+          "translation": "夜のワークショップは予約で満席だ。"
+        },
+        {
+          "word": "full",
+          "definition": "定員・収容可能数に達している。",
+          "frequency": 9,
+          "difference": "定員に達していることを広く表し、申込みの仕組みには触れない。fully subscribed は申込状況を具体的に示す。",
+          "example": "The class is full, so new applicants will have to wait.",
+          "translation": "そのクラスは定員に達しているので、新たな申込者は待つ必要がある。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【形容詞・oversubscribed】定員・募集枠を超える申込みがある",
+      "frequency": 5,
+      "register": [
+        "募集、教育、イベント、金融。限定・叙述の両方で使う。"
+      ],
+      "definition": "学校・講座・サービス・証券募集などに対する需要や申込数が、提供できる枠・数量・額を上回っている。対象が人気であることは多いが、語が直接表すのは供給枠に対する申込みの超過であり、品質の高さや利用者の満足度ではない。",
+      "patterns": [
+        "an oversubscribed 〈学校・講座など〉",
+        "〈募集対象〉 + be/become oversubscribed",
+        "be heavily oversubscribed",
+        "〈株式・債券募集〉 + be 〈倍率〉 times oversubscribed。比較する場合は more/less oversubscribed とし、oversubscribed は通常一語で書く。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an oversubscribed school",
+          "use": "入学希望者が受入れ枠を超える学校を指す。",
+          "example": "Several families applied to other schools after learning that their first choice was an oversubscribed school.",
+          "translation": "第一希望が定員を超える応募のある学校だと知り、数家族はほかの学校にも出願した。"
+        },
+        {
+          "pattern": "become oversubscribed",
+          "use": "募集枠を超える申込みが集まった変化を述べる。",
+          "example": "The workshop became oversubscribed within a day of registration opening.",
+          "translation": "そのワークショップは、受付開始から1日もたたずに申込数が定員を超えた。"
+        },
+        {
+          "pattern": "be heavily oversubscribed",
+          "use": "申込みの超過が大きいことを示す。",
+          "example": "The training programme was heavily oversubscribed, so an additional session was arranged.",
+          "translation": "研修には定員を大幅に超える申込みがあったため、追加の回が設けられた。"
+        },
+        {
+          "pattern": "be 〈倍率〉 times oversubscribed",
+          "use": "特に証券募集で、申込みの規模を募集額との倍率で述べる。",
+          "example": "The bond issue was three times oversubscribed, with orders totalling 300 million euros for 100 million euros of bonds.",
+          "translation": "1億ユーロの債券募集に3億ユーロの注文が入り、申込倍率は3倍だった。"
+        }
+      ],
+      "notes": [
+        "ここで多いのは申込みであり、すでに受け入れた参加者が定員を超えているとは限らない。overbooked は予約を受け付けすぎた状態なので、区別する。fully subscribed（語義7）は募集枠が満たされた状態、oversubscribed はそれを超える需要がある状態。単に「登録者が大勢いるチャンネル」を an oversubscribed channel と呼ぶのは、登録可能枠を超えるという意味でない限り不適切。金融で three times oversubscribed は通常、申込額が募集額の3倍という用法で、募集額にさらに3倍を足した4倍とはしない。数値の解釈が重要な文書では、元の募集額と申込額も確認する。"
+      ],
+      "synonyms": [
+        {
+          "word": "overbooked",
+          "definition": "提供できる枠を超えて予約を受け付けている。",
+          "frequency": 5,
+          "difference": "実際に受け付けた予約数の超過を表す。oversubscribed は希望・申込みが多すぎることであり、全件を予約として受け入れたとは限らない。",
+          "example": "The hotel was overbooked and had to find rooms elsewhere for several guests.",
+          "translation": "ホテルは予約を受け付けすぎており、数人の客のために別の宿泊先を探す必要があった。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "undersubscribed",
+          "definition": "申込数・申込額が募集枠に達していない。",
+          "frequency": 3,
+          "difference": "同じ募集枠との比較で、oversubscribed の超過に対して不足を表す。両者の間には、ちょうど枠が満たされた状態もある。",
+          "example": "The course was undersubscribed, with only six applications for twenty places.",
+          "translation": "定員20人の講座に申込みは6件しかなく、定員割れだった。"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "【動詞・他動詞／自動詞】署名する、名前を書き添える",
+      "frequency": 2,
+      "register": [
+        "法律・正式文書、古風な文語。購読・配信登録の意味とは区別する。"
+      ],
+      "definition": "文書の末尾などに自分の名前を書き、署名する。同意・義務の引受け・証明を示すための署名に使われるが、具体的な法的効力は文書や制度による。現代の普通の署名依頼では sign が一般的で、subscribe は硬い文書や古い文章の読解で知っておく用法。",
+      "patterns": [
+        "subscribe one's name to 〈文書〉＝自分の名を文書に書き添える",
+        "subscribe 〈文書〉＝文書に署名する",
+        "subscribe＝署名対象が明らかな自動詞。受動では a document subscribed by 〈署名者〉のように署名者を示せる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "subscribe one's name to a document",
+          "use": "文書に氏名を書いて署名する動作を表す。",
+          "example": "The witnesses subscribed their names to the declaration.",
+          "translation": "証人たちは、その宣言書に署名した。"
+        },
+        {
+          "pattern": "a document subscribed by 〈署名者〉",
+          "use": "正式な文体で、誰の署名がある文書かを示す。",
+          "example": "The archive contains a declaration subscribed by all six members of the committee.",
+          "translation": "その文書館には、委員6人全員が署名した宣言書が所蔵されている。"
+        }
+      ],
+      "notes": [
+        "subscribe one's name の目的語は書く名前、subscribe a document の目的語は署名する文書で、いずれも署名行為を表す。subscribe to an agreement は文脈によって同意・支持に重点が置かれることもあるので、実際に署名したかを明確にしたい場合は sign the agreement とする。署名するという語義だけから、その署名が本人確認、証人資格、契約成立などの要件をすべて満たすとは推測しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "sign",
+          "definition": "文書に署名する、自分の名前を書く。",
+          "frequency": 9,
+          "difference": "現代の一般的な署名の動詞。subscribe の署名義は硬い文書・古い用法に限られやすい。",
+          "example": "Please sign the form at the bottom of the last page.",
+          "translation": "最後のページの下部に署名してください。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
