@@ -1,0 +1,397 @@
+{
+  "word": "prevail",
+  "slug": "prevail",
+  "ipa": "米・英: /prɪˈveɪl/。2音節で、第2音節に主強勢がある。第1音節は /prɪ/、第2音節の母音は二重母音 /eɪ/。prevailed /prɪˈveɪld/ の -ed は /d/ で音節を増やさず、prevailing /prɪˈveɪlɪŋ/ は3音節になる。",
+  "lead": "人・チーム・勢力が相手に勝つ、または意見・理性・方針などが対立するものより優勢になり、強い影響力を持つ。議論などで、ある考えが受け入れられることも表す。困難や抵抗を経た勝利に使われやすいが、長い苦闘が必須というわけではない。正しい側が勝つという道徳的評価も語自体の条件ではない。",
+  "updated": "2026-10-08",
+  "notion_url": "https://app.notion.com/p/prevail-3f34faa9b77d81108869e43786800022",
+  "pronunciation": [],
+  "etymology": [
+    "ラテン語 praevalere「より大きな力を持つ」に由来し、prae-「前に」と valere「力がある」の組み合わせ。「力が勝って通る」という意味のつながりがある。",
+    "同じ valere 系には valid「有効な」、value「価値」、avail「役立つ」がある。ただし、これらを現代英語で同じ動詞の派生形として使うことはできない。"
+  ],
+  "formation": [
+    {
+      "term": "prevailing",
+      "description": "現在分詞のほか、「その時点で一般的な・主流の」「最もよく吹く」という形容詞にもなる。語義4・5で扱う。"
+    },
+    {
+      "term": "prevalent",
+      "description": "形容詞。「広く見られる、普及している」。prevail の -ing 形ではなく、語源を共有する関連形。第1音節に強勢があり、prevail とは強勢位置も異なる。"
+    },
+    {
+      "term": "prevalence",
+      "description": "名詞。「広く存在すること、普及度」。疫学では有病割合などを表す専門用法がある。「勝利」の一般的な名詞形としては使わない。"
+    }
+  ],
+  "core": [
+    {
+      "label": "「ある場面で力を持ち、通用する／広く行き渡っている」という核で捉えるとよい。争いに勝つことだけでなく、ある状態がその場を特徴付けることや、働きかけが相手に通ることにもつながる。",
+      "description": ""
+    },
+    {
+      "label": "その場で力を持つ側の勝利",
+      "description": "→ 「勝る、勝つ、通る」（語義1）"
+    },
+    {
+      "label": "その場で力を持つ状態の広がり",
+      "description": "→ 「広く見られる、行われている」（語義2）"
+    },
+    {
+      "label": "その場で力を持つ働きかけの成功",
+      "description": "→ 「説得して～してもらう」（語義3）"
+    },
+    {
+      "label": "その場で力を持つ傾向の形容",
+      "description": "→ 「その時点で一般的な、主流の」（語義4）"
+    },
+    {
+      "label": "その場で力を持つ風向の頻繁な出現",
+      "description": "→ 「最もよく吹く」（語義5）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【自動詞】勝る、勝つ、通る",
+      "frequency": 6,
+      "register": [
+        "やや改まった表現。ニュース、論説、スポーツ報道、交渉・裁判など。"
+      ],
+      "definition": "人・チーム・勢力が相手に勝つ、または意見・理性・方針などが対立するものより優勢になり、強い影響力を持つ。議論などで、ある考えが受け入れられることも表す。困難や抵抗を経た勝利に使われやすいが、長い苦闘が必須というわけではない。正しい側が勝つという道徳的評価も語自体の条件ではない。",
+      "patterns": [
+        "someone/something + prevail＝その側・考えが勝つ、通る。prevail over/against someone/something＝相手・反対勢力に勝る。prevail in 〈争い・選挙・訴訟〉＝その場で勝つ。相手は直接目的語にせず、over または against で示す。通常の自動詞用法を be prevailed の形で受動態にはしない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "common sense + prevail",
+          "use": "議論や対立の末に常識的な判断が通ることを述べる。",
+          "example": "After hours of argument, common sense prevailed and we postponed the launch.",
+          "translation": "何時間もの議論の末に常識的な判断が通り、私たちは発売を延期した。"
+        },
+        {
+          "pattern": "prevail over 〈相手・対立する力〉",
+          "use": "人や考えが別の側より優勢になることを述べる。",
+          "example": "In the final vote, commercial interests prevailed over environmental concerns.",
+          "translation": "最終投票では、商業上の利益が環境への懸念を上回った。"
+        },
+        {
+          "pattern": "prevail against 〈対戦相手〉",
+          "use": "競技などで相手に勝つことを表す。",
+          "example": "The visiting team prevailed against the defending champions.",
+          "translation": "遠征してきたチームが前回王者に勝った。"
+        },
+        {
+          "pattern": "prevail in 〈選挙・訴訟〉",
+          "use": "勝敗が決まる場面を in で示す。",
+          "example": "Neither candidate is certain to prevail in the election.",
+          "translation": "どちらの候補も、その選挙で確実に勝てるとは言えない。"
+        },
+        {
+          "pattern": "ultimately prevail",
+          "use": "途中で困難があっても最終的に勝つ・通ることを述べる。",
+          "example": "We lost the first two rounds but ultimately prevailed.",
+          "translation": "私たちは最初の2ラウンドを落としたが、最終的には勝った。"
+        }
+      ],
+      "notes": [
+        "prevail the opponent ではなく prevail over the opponent または defeat the opponent とする。prevail over someone は「相手に勝つ」だが、語義3の prevail on/upon someone to do は「相手を説得して行動してもらう」。The client prevailed in court. は依頼人側が裁判で勝ったことを述べる一般的な表現であり、その一文だけで請求の全項目が認められたことや費用負担の条件までは決まらない。prevailing party も訴訟上の「勝訴当事者」を表すが、制度上の資格や効果は該当する法令・判断による。"
+      ],
+      "synonyms": [
+        {
+          "word": "win",
+          "definition": "競争や争いで勝利する。",
+          "frequency": 10,
+          "difference": "日常的で幅広く、自動詞でも win a match のような他動詞でも使う。prevail は相手や抵抗に打ち勝つことを改まって述べる。",
+          "example": "Our team won by a single point.",
+          "translation": "私たちのチームは1点差で勝った。"
+        },
+        {
+          "word": "triumph",
+          "definition": "困難や対立を乗り越えて大きな成功・勝利を収める。",
+          "frequency": 5,
+          "difference": "prevail より勝利を強く印象付け、誇らしさや劇的な成功を伴いやすい。triumph over something の形を取る。",
+          "example": "The campaign eventually triumphed over years of opposition.",
+          "translation": "その運動は、何年もの反対を乗り越えてついに成功した。"
+        },
+        {
+          "word": "defeat",
+          "definition": "相手を負かす。",
+          "frequency": 8,
+          "difference": "他動詞で相手を直接目的語に取る。prevail over someone と意味は重なるが、over を付けたまま置き換えない。",
+          "example": "The challenger defeated the champion in straight sets.",
+          "translation": "挑戦者は王者をストレートで破った。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "lose",
+          "definition": "競争や争いで負ける。",
+          "frequency": 10,
+          "difference": "勝敗の軸で反対になる。相手は lose to someone と示し、prevail over の over は用いない。",
+          "example": "They lost to a more experienced team.",
+          "translation": "彼らはより経験豊富なチームに負けた。"
+        },
+        {
+          "word": "succumb",
+          "definition": "抵抗した末に、相手の力や圧力に屈する。",
+          "frequency": 4,
+          "difference": "対立する力に勝つか屈するかという方向で反対になる。病気で死ぬ意味もあるため、対照する際は succumb to pressure などの圧力に屈する用法に限る。",
+          "example": "The board succumbed to pressure from major investors.",
+          "translation": "取締役会は主要投資家からの圧力に屈した。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【自動詞】広く見られる、行われている",
+      "frequency": 5,
+      "register": [
+        "改まった表現。社会状況、歴史、経済、組織文化の説明など。"
+      ],
+      "definition": "ある状態・考え・慣習などが、特定の時期や場所で一般的に存在する、または引き続き通用している。主語は雰囲気、態度、状況、習慣、制度など。必ず「新たに広がる」という変化を表すわけではない。",
+      "patterns": [
+        "〈状態・慣習〉 + prevail in 〈場所・時代・領域〉＝その範囲で一般的に存在する。〈考え・雰囲気〉 + prevail among 〈人々〉＝その集団に広く見られる。still prevail＝今も行われている。場所や時期が明らかなら補足の句を伴わずにも使う。prevailing in 〈場所〉は動詞の現在分詞として、名詞の後ろからその場に存在する状態を説明できる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "〈態度・慣習〉 + prevail in 〈場所〉",
+          "use": "特定の地域などで考え方や慣行が続いていることを述べる。",
+          "example": "This custom still prevails in some rural communities.",
+          "translation": "この慣習は、一部の農村共同体では今も行われている。"
+        },
+        {
+          "pattern": "〈感情・雰囲気〉 + prevail among 〈人々〉",
+          "use": "集団に共通する気分や態度を示す。",
+          "example": "A sense of uncertainty prevailed among the staff after the announcement.",
+          "translation": "発表後、職員の間には先行きへの不安が広がっていた。"
+        },
+        {
+          "pattern": "〈状態〉 + prevail at the time",
+          "use": "過去のある時点の状況を説明する。",
+          "example": "Food shortages prevailed at the time, so the festival was modest.",
+          "translation": "当時は食糧不足が広く見られたため、祭りはささやかなものだった。"
+        },
+        {
+          "pattern": "〈制度・慣行〉 + still prevail",
+          "use": "ある仕組みが存続・通用していることを述べる。",
+          "example": "The old system of seniority still prevails in the organization.",
+          "translation": "その組織では、従来の年功序列制度が今も通用している。"
+        },
+        {
+          "pattern": "conditions prevailing in 〈場所・領域〉",
+          "use": "名詞の後ろに現在分詞を置き、存在している状況を限定する。",
+          "example": "The report describes the conditions prevailing in the local housing market.",
+          "translation": "報告書は、地元の住宅市場で見られる状況を説明している。"
+        }
+      ],
+      "notes": [
+        "この語義の prevail は、病気の流行に限られない。「広まっていく」という変化なら spread、すでに一般的に存在するなら prevail という違いがある。A tense atmosphere prevailed. は「張り詰めた空気が漂っていた」で、誰かが試合に勝ったという語義1ではない。The rule still prevails. のように、規則が今なお通用することも表せるが、法的効力の成立条件はその規則の根拠や適用範囲から判断する。語義4の prevailing conditions は名詞前の形容詞、conditions prevailing in the region は動詞に基づく後置の分詞句である。"
+      ],
+      "synonyms": [
+        {
+          "word": "predominate",
+          "definition": "あるものが数・量・影響などで優勢を占める。",
+          "frequency": 4,
+          "difference": "他のものとの割合や優勢さを強調する。prevail はその場に一般的に存在する状態を述べるだけの場合もある。",
+          "example": "Small family businesses predominate in this sector.",
+          "translation": "この分野では小規模な家族経営の企業が多数を占める。"
+        },
+        {
+          "word": "persist",
+          "definition": "状態などが続き、なくならずに残る。",
+          "frequency": 6,
+          "difference": "広い分布より時間的な持続が中心。prevail の still を伴う用法と重なるが、少数の事例が残ることにも使える。",
+          "example": "Doubts about the figures persisted after the briefing.",
+          "translation": "説明会の後も、その数値への疑念は残った。"
+        },
+        {
+          "word": "obtain",
+          "definition": "状況・制度などが存在する、通用している。",
+          "frequency": 2,
+          "difference": "自動詞の非常に改まった用法に限って近い。「入手する」という一般的な他動詞義とは異なり、prevail よりも書き言葉に偏る。",
+          "example": "Different rules obtain in different jurisdictions.",
+          "translation": "法域によって、適用される規則は異なる。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【前置詞動詞・prevail on/upon】説得して～してもらう",
+      "frequency": 3,
+      "register": [
+        "改まった表現。丁寧な依頼、回想、交渉の説明など。"
+      ],
+      "definition": "相手に働きかけて、ある行動をするよう承知させる。肯定の完了した出来事として使えば、働きかけが成功したことを表す。相手が初めは消極的だった場面で使われやすいが、強制や長時間の説得までは必要条件ではない。",
+      "patterns": [
+        "prevail on/upon someone to do something＝人を説得して行動してもらう。someone + be prevailed on/upon to do something＝説得されて行動する。on/upon の後ろが働きかけの相手、to不定詞が相手にしてもらうこと。前置詞と相手の語順は固定し、prevail someone upon のようには分離しない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "prevail on someone to do something",
+          "use": "働きかけにより相手の承諾を得たことを述べる。",
+          "example": "We prevailed on the manager to extend the deadline by two days.",
+          "translation": "私たちは部長を説得し、締め切りを2日延ばしてもらった。"
+        },
+        {
+          "pattern": "prevail upon someone to do something",
+          "use": "on と同じ意味を、より改まった響きの upon で表す。",
+          "example": "She prevailed upon her colleague to chair the final session.",
+          "translation": "彼女は同僚を説得し、最後のセッションの司会を引き受けてもらった。"
+        },
+        {
+          "pattern": "be prevailed upon to do something",
+          "use": "説得を受ける側を主語にする。",
+          "example": "The retired director was prevailed upon to return as an adviser.",
+          "translation": "退職した取締役は説得を受け、顧問として戻ることになった。"
+        },
+        {
+          "pattern": "could not prevail on someone to do something",
+          "use": "説得しても承諾を得られなかったことを表す。",
+          "example": "I could not prevail on him to explain his decision.",
+          "translation": "私が働きかけても、彼は決定の理由を説明してくれなかった。"
+        }
+      ],
+      "notes": [
+        "prevail on her to stay は「彼女を説得して残ってもらう」。prevail over her は「彼女に勝つ」で、前置詞が違えば役割も意味も変わる。prevail her to stay とはせず、on/upon を残す。通常の prevail は自動詞だが、この構文には She was prevailed upon to stay. という前置詞を残した受動態があるため、「prevail は一切受動にできない」とはしない。tried to prevail on は試みを述べるだけで、成功したとは限らない。Can I prevail on you to ...? は承諾を求める依頼であり、成功をまだ主張していない。could not prevail on は、通常「働きかけたが承諾を得られなかった」という過去の失敗を表す。"
+      ],
+      "synonyms": [
+        {
+          "word": "persuade",
+          "definition": "相手を説得して、何かをする気にさせる。",
+          "frequency": 8,
+          "difference": "より一般的で、persuade someone to do と人を直接目的語に取る。prevail on/upon は働きかけが通ったことを改まって表す。",
+          "example": "I persuaded her to submit the application.",
+          "translation": "私は彼女を説得し、申請書を提出してもらった。"
+        },
+        {
+          "word": "induce",
+          "definition": "働きかけや誘因によって、人にある行動を取らせる。",
+          "frequency": 4,
+          "difference": "induce someone to do は説得のほか報酬などの誘因も含み、話し合いだけに限定されない。prevail on/upon は相手への働きかけ・説得を中心にする。",
+          "example": "The discount induced several customers to renew early.",
+          "translation": "その割引により、何人かの顧客が早めに契約を更新した。"
+        },
+        {
+          "word": "talk into",
+          "definition": "話して説得し、ある行動をする気にさせる。",
+          "frequency": 7,
+          "difference": "口語的な talk someone into doing something で、to不定詞ではなく動名詞を取る。prevail on/upon より会話に向く。",
+          "example": "They talked me into joining the committee.",
+          "translation": "彼らに説得されて、私は委員会に加わることにした。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【形容詞・prevailing・主に限定】その時点で一般的な、主流の",
+      "frequency": 6,
+      "register": [
+        "報道、ビジネス、経済、社会状況の説明。"
+      ],
+      "definition": "ある時点や場所で存在し、一般的に見られる、または支配的である。状況、見解、慣行、相場などを修飾する。常に現在を指すのではなく、話題になっている過去の時点にも使える。",
+      "patterns": [
+        "prevailing 〈状況・傾向・見解〉のように名詞の前に置く。the prevailing view is that ...＝一般的な見方は～というものだ。at the prevailing rate＝その時点の相場・適用水準で。形容詞としては限定用法が中心で、The view is prevailing. を単純な状態説明の基本形にはしない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "prevailing conditions",
+          "use": "判断の前提になる、その時点の状況を示す。",
+          "example": "The schedule may change depending on prevailing weather conditions.",
+          "translation": "その時々の気象状況によって、日程が変更されることがある。"
+        },
+        {
+          "pattern": "the prevailing view",
+          "use": "広く受け入れられている見解を示す。",
+          "example": "The prevailing view was that the market would recover gradually.",
+          "translation": "当時の一般的な見方は、市場は徐々に回復するだろうというものだった。"
+        },
+        {
+          "pattern": "at the prevailing rate",
+          "use": "取引時などの相場・適用水準を説明する。",
+          "example": "The amount will be converted into euros at the prevailing exchange rate.",
+          "translation": "その金額は、その時点の為替レートでユーロに換算される。"
+        },
+        {
+          "pattern": "prevailing practices",
+          "use": "現に一般的となっている慣行を示す。",
+          "example": "The study compares prevailing hiring practices across three industries.",
+          "translation": "この研究は、3つの業界で一般的に行われている採用慣行を比較している。"
+        }
+      ],
+      "notes": [
+        "prevailing は、その場・その時点の状況や主流を表す。prevalent は広い存在・普及に重点があり、a prevalent disease は広く見られる病気だが、prevailing disease をそのまま同じ定型表現として覚えない。The view prevailed. は動詞の過去形、the prevailing view は形容詞による名詞修飾。conditions prevailing at the time の後置部分は動詞に基づく分詞句であり、形容詞の名詞前という基本位置と区別する。prevailing wage は米国の労働・公共契約などでは制度用語にもなり、対象職種・地域・適用制度に応じて定められる賃金水準を指す。一般語の「通常の賃金」だけで必要な支払額を判断せず、またすべての制度で単純平均を意味すると考えない。"
+      ],
+      "synonyms": [
+        {
+          "word": "current",
+          "definition": "現在、または基準となる時点で存在・通用している。",
+          "frequency": 9,
+          "difference": "時間的位置が中心で、広く支持されていることまでは含まない。prevailing view は主流の見解、current view は現時点の見解に重点がある。",
+          "example": "Please check the current exchange rate before making the transfer.",
+          "translation": "送金する前に現在の為替レートを確認してください。"
+        },
+        {
+          "word": "predominant",
+          "definition": "数・量・影響などで他より優勢である。",
+          "frequency": 5,
+          "difference": "優勢さが中心で、特定時点の状況全般を表す prevailing より比較の意味が明確になる。",
+          "example": "Cost was the predominant concern during the negotiations.",
+          "translation": "交渉中の最大の関心事は費用だった。"
+        },
+        {
+          "word": "prevalent",
+          "definition": "ある地域や集団などで広く見られる。",
+          "frequency": 5,
+          "difference": "分布・普及の広さを強調する。prevailing rate のようなその時点の相場を示す結び付きとは、自由には交換できない。",
+          "example": "This misconception is prevalent among first-time buyers.",
+          "translation": "この誤解は初めて購入する人の間に広く見られる。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【形容詞・prevailing・限定・風について】最もよく吹く",
+      "frequency": 4,
+      "register": [
+        "気象、地理、建築、航海など。"
+      ],
+      "definition": "ある地域で、対象とする期間に最も頻繁に吹く方向の風を表す。「卓越風」の prevailing wind。最も強い風や、常に吹き続ける風という意味ではない。",
+      "patterns": [
+        "the prevailing wind / prevailing winds＝その地域でよく吹く方向の風。the direction of the prevailing wind＝卓越風の方向。prevailing は wind/winds の前に置く。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the prevailing wind",
+          "use": "ある地域で最も一般的な風向の風を述べる。",
+          "example": "The prevailing wind along this coast comes from the west.",
+          "translation": "この海岸では、西からの風が最もよく吹く。"
+        },
+        {
+          "pattern": "the direction of the prevailing wind",
+          "use": "配置や設計で考慮する、よく吹く風の方向を示す。",
+          "example": "The architect considered the direction of the prevailing wind when positioning the windows.",
+          "translation": "建築家は窓の配置を決める際、卓越風の方向を考慮した。"
+        }
+      ],
+      "notes": [
+        "The prevailing wind is from the north. は、形容詞 prevailing が名詞 wind を修飾しており、prevailing 自体が be の後ろに置かれた叙述形容詞ではない。north wind は北から吹く風を指す。語義4の「一般的な」という意味を風向に特化した表現であり、風速が最大であることや、一日中同じ向きであることを含めない。"
+      ],
+      "synonyms": [
+        {
+          "word": "predominant",
+          "definition": "風向などが他より頻繁で、主要である。",
+          "frequency": 3,
+          "difference": "predominant wind direction では頻度上優勢な方向を示し、prevailing wind の内容と近い。風以外にも使える広い形容詞である。",
+          "example": "The predominant wind direction changes with the season.",
+          "translation": "主な風向は季節によって変わる。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
