@@ -1,0 +1,403 @@
+{
+  "word": "acquaint",
+  "slug": "acquaint",
+  "ipa": "米・英: /əˈkweɪnt/。2音節で、第2音節 /kweɪnt/ に主強勢がある。第1音節の母音は弱い /ə/。acquaints /əˈkweɪnts/、acquainted /əˈkweɪntɪd/、acquainting /əˈkweɪntɪŋ/。過去形・過去分詞と形容詞の acquainted は3音節で、いずれも第2音節に主強勢がある。語末が /t/ なので、-ed は /ɪd/ と1音節を加える。",
+  "lead": "人に説明・情報・経験を与え、物事を知っている状態にする。直接目的語は知る側の人、with の後ろは知ってもらう事実・制度・仕事・作品など。acquaint oneself with ... は、自分で調べたり接したりして知識を得ることを表す。「熟知させる」と訳せる場合もあるが、専門家になるほど深い理解や習熟を必ず達成するという意味ではない。",
+  "updated": "2026-10-08",
+  "notion_url": "https://app.notion.com/p/acquaint-3f34faa9b77d8126a994ef09d3345841",
+  "pronunciation": [],
+  "etymology": [
+    "古フランス語 acointier「知らせる、なじませる」を経て、ラテン語 accognoscere「知るようになる、認める」の系統にさかのぼる。ad- と cognoscere「知るようになる」が背景にあり、「知らない状態から、知っている状態へ」というつながりが現代の意味にも残る。現代英語の quaint「趣のある」に ac- を付けて作る動詞ではない。",
+    "同じ cognoscere の系統には cognition「認知」、recognize「見覚えがあると分かる、認める」がある。語源が共通でも、acquaint は人に知識や面識を持たせること、recognize は既知のものだと分かることなどを表し、同義ではない。"
+  ],
+  "formation": [
+    {
+      "term": "acquainted",
+      "description": "は過去形・過去分詞に加え、「通じている」「面識がある」という形容詞として定着している。動詞の受動態と状態形容詞を語義1〜3で区別する。"
+    },
+    {
+      "term": "acquaintance",
+      "description": "は名詞。an acquaintance「知人」は可算。acquaintance with something「物事についての知識・なじみ」、acquaintance with someone「面識・知り合いの関係」は抽象的な名詞用法で、a passing acquaintance with ...「…をわずかに知っていること」のように冠詞を伴う形もある。make someone's acquaintance「その人と知り合う」はやや改まった表現。"
+    },
+    {
+      "term": "acquaintanceship",
+      "description": "は知り合いである関係を表す名詞。acquaintance より使用が限られ、一般に親しい友情そのものを意味しない。"
+    },
+    {
+      "term": "unacquainted",
+      "description": "は形容詞で「面識がない、事情を知らない」。unacquainted with someone/something と使う。動詞として unacquaint を日常的な反対語にするわけではない。"
+    },
+    {
+      "term": "reacquaint",
+      "description": "は他動詞で「再びなじませる、改めて知ってもらう」。reacquaint oneself with something は、以前知っていたことを改めて確かめ、なじみ直すことを表す。"
+    }
+  ],
+  "core": [
+    {
+      "label": "「接触や説明を通じて、相手や物事を知っている状態につなぐ」。動詞ではその状態を作る働き、acquainted",
+      "description": "では知識や面識がある状態を表す。知っている深さは一定ではなく、well、fully、slightly などや、物事と人のどちらを指すかで変わる。"
+    },
+    {
+      "label": "物事を知っている状態へ導く働き",
+      "description": "→ 「物事を知らせる、なじませる」（語義1）"
+    },
+    {
+      "label": "物事を知っている状態の成立",
+      "description": "→ 「物事に通じている、なじみがある」（語義2）"
+    },
+    {
+      "label": "相手を知っている状態の成立",
+      "description": "→ 「面識がある、知り合いである」（語義3）"
+    },
+    {
+      "label": "相手を知っている状態へ導く働き",
+      "description": "→ 「人を紹介する、知り合わせる」（語義4）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【他動詞】物事を知らせる、なじませる",
+      "frequency": 5,
+      "register": [
+        "フォーマル。業務説明、研修、案内、学習・研究など。会話では tell、show、familiarize などを内容に合わせて使うことも多い。"
+      ],
+      "definition": "人に説明・情報・経験を与え、物事を知っている状態にする。直接目的語は知る側の人、with の後ろは知ってもらう事実・制度・仕事・作品など。acquaint oneself with ... は、自分で調べたり接したりして知識を得ることを表す。「熟知させる」と訳せる場合もあるが、専門家になるほど深い理解や習熟を必ず達成するという意味ではない。",
+      "patterns": [
+        "acquaint someone with something＝人に物事を知らせ、なじませる",
+        "acquaint oneself with something＝自分で物事を知る",
+        "be acquainted with something by someone＝人によって物事を知らされるという受動態。主語は説明する人だけでなく、案内文・講座などでもよい。acquaint someone with the fact that ... は、with の目的語となる the fact を that 節で説明する型で、acquaint someone that ... という直接の that 節ではない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "acquaint someone with the procedures",
+          "use": "新しい担当者などに、仕事の手順を説明する。",
+          "example": "The supervisor will acquaint new staff with the reporting procedures.",
+          "translation": "上司が新しい職員に報告の手順を説明する。"
+        },
+        {
+          "pattern": "acquaint someone with the facts",
+          "use": "判断に必要な事実を相手に知らせる。",
+          "example": "Before the vote, the chair acquainted the committee with the latest facts.",
+          "translation": "採決の前に、議長は委員会に最新の事実を説明した。"
+        },
+        {
+          "pattern": "acquaint oneself with something",
+          "use": "文書を読む、実物に触れるなどして、自分で対象を知る。",
+          "example": "Take a few minutes to acquaint yourself with the dashboard before entering any data.",
+          "translation": "データを入力する前に、数分かけてダッシュボードを確認し、使い方を把握してください。"
+        },
+        {
+          "pattern": "acquaint readers with something",
+          "use": "書籍や案内文が読み手に新しい分野を紹介する。",
+          "example": "The opening chapter acquaints readers with the region's political history.",
+          "translation": "冒頭の章では、その地域の政治史を読者に紹介している。"
+        },
+        {
+          "pattern": "be acquainted with something by someone",
+          "use": "説明を受ける人を主語にして、誰が知らせたかを示す。",
+          "example": "On her first morning, Hana was acquainted with the security rules by the office manager.",
+          "translation": "初日の午前中に、ハナは事務責任者からセキュリティ規則の説明を受けた。"
+        },
+        {
+          "pattern": "acquaint someone with the fact that ...",
+          "use": "一つの事実を、名詞 the fact と that 節で明示する。",
+          "example": "Please acquaint the applicants with the fact that interviews will be recorded.",
+          "translation": "面接が録画されることを応募者に知らせてください。"
+        }
+      ],
+      "notes": [
+        "acquaint は他動詞なので、能動態で「自分が知る」と言うには通常、再帰目的語を置く。誤: I need to acquaint with the system. 正: I need to acquaint myself with the system. 一方、I am acquainted with the system. は語義2の状態を表す別構文であり、myself を省略した能動態ではない。",
+        "「誰に」と「何を」の順序を逆にしない。acquaint me with the changes の me が知る側、the changes が内容である。with は前置詞であり、acquaint the changes with me とはしない。情報を一つ伝えるだけなら inform someone of/about something や tell someone that ... が普通で、acquaint は対象への知識やなじみを与える面を意識させる。",
+        "with の代わりに of を用いる形も文語的な用例・辞書にはあるが、現代の一般的な作文では acquaint someone with ... を標準にする。自分で学ぶ再帰形や状態形容詞まで一律に of へ置き換えない。人同士を会わせる用法は語義4、すでに知り合いである状態は語義3を参照。"
+      ],
+      "synonyms": [
+        {
+          "word": "familiarize",
+          "definition": "人に対象の仕組みや内容を知ってもらい、なじませる。",
+          "frequency": 6,
+          "difference": "familiarize someone with something は同じ目的語配置。装置や作業の理解・慣れを強調しやすく、acquaint は事実を知らせるだけの場面にも使う。英国では familiarise ともつづる。",
+          "example": "The demonstration will familiarize users with the new controls.",
+          "translation": "実演を通じて、利用者に新しい操作部の使い方を知ってもらう。"
+        },
+        {
+          "word": "inform",
+          "definition": "人に事実や情報を知らせる。",
+          "frequency": 8,
+          "difference": "inform someone of/about something、inform someone that ... と使う。acquaint のように対象になじませることまでは含まず、通知する情報そのものに焦点を置ける。",
+          "example": "We informed customers that the delivery date had changed.",
+          "translation": "配達日が変更されたことを顧客に知らせた。"
+        },
+        {
+          "word": "apprise",
+          "definition": "人に重要な事情や進展を知らせる。",
+          "frequency": 4,
+          "difference": "フォーマルで、apprise someone of something が中心。acquaint が初めて対象を知る場面にも広く使えるのに対し、関係者へ状況を伝える文脈に向く。",
+          "example": "Please keep the project lead apprised of any delays.",
+          "translation": "遅延があれば、プロジェクト責任者に随時知らせてください。"
+        },
+        {
+          "word": "introduce",
+          "definition": "人が新しい物事に接するきっかけを作る。",
+          "frequency": 7,
+          "difference": "この意味では introduce someone to something。acquaint someone with something と前置詞が異なり、詳細を理解させることより、最初の接触・導入に焦点を置く。",
+          "example": "The workshop introduces students to basic woodworking techniques.",
+          "translation": "この講習では、学生が木工の基本技法に触れる機会を設けている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【形容詞・acquainted】物事に通じている、なじみがある",
+      "frequency": 5,
+      "register": [
+        "ややフォーマル。業務上の知識、規則、学問、文学、経験の説明など。特定地域だけの用法ではない。"
+      ],
+      "definition": "読んだり見たり経験したりしたために、物事について知識やなじみがある。単なる情報の伝達行為ではなく、知っている状態を表す。知識の深さは限定されず、slightly acquainted なら多少知っている、well/fully acquainted ならよく知っていることを表す。",
+      "patterns": [
+        "be acquainted with something＝物事を知っている",
+        "become/get acquainted with something＝物事を知るようになる",
+        "be well/fully/intimately acquainted with something＝よく・十分に・詳しく知っている",
+        "be better acquainted with something＝以前よりよく知っている",
+        "someone acquainted with something＝物事を知る人という名詞後置の修飾",
+        "get someone acquainted with something＝人が物事を知る状態にする。基本は叙述用法で、通常、acquainted を単独で名詞の前に置かない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "be acquainted with something",
+          "use": "対象について、すでに知識や経験があることを述べる。",
+          "example": "Our editor is acquainted with both publishing systems.",
+          "translation": "編集者は、どちらの出版システムについても知識がある。"
+        },
+        {
+          "pattern": "be fully acquainted with something",
+          "use": "重要な条件・規則などを十分に理解していることを示す。",
+          "example": "Make sure you are fully acquainted with the terms before signing.",
+          "translation": "署名する前に、条件を十分に把握しておいてください。"
+        },
+        {
+          "pattern": "become acquainted with something",
+          "use": "知識を得て、対象になじむ過程を述べる。",
+          "example": "During the placement, she became acquainted with the difficulties facing small farms.",
+          "translation": "実習の間に、彼女は小規模農家が抱える困難を知るようになった。"
+        },
+        {
+          "pattern": "be better acquainted with something",
+          "use": "知識や理解が以前より深まったことを比較する。",
+          "example": "After reviewing the files, we were better acquainted with the client's needs.",
+          "translation": "資料を確認して、私たちは顧客の要望を以前よりよく理解できた。"
+        },
+        {
+          "pattern": "someone acquainted with something",
+          "use": "必要な知識を持つ人を、後ろから限定する。",
+          "example": "We need an engineer acquainted with older control systems.",
+          "translation": "古い制御システムに通じた技術者が必要だ。"
+        },
+        {
+          "pattern": "get someone acquainted with something",
+          "use": "物事を知る状態へ導くことを get の目的語補語で表す。",
+          "example": "A short practice session will get everyone acquainted with the software.",
+          "translation": "短い練習時間を設ければ、全員がそのソフトウェアの使い方を把握できる。"
+        }
+      ],
+      "notes": [
+        "知っている人を主語にし、対象を with で示す。She is acquainted with the procedure. は「彼女は手順を知っている」。手順の側を主語にした The procedure is familiar to her. は同じ状況を表せるが、The procedure is acquainted to her. とはしない。",
+        "be acquainted with ... だけでは、誰かが説明したという受動の出来事を必ず表すわけではない。語義1の She was acquainted with the rules by the manager. では説明者を by で示すが、この語義の She is well acquainted with the rules. は知識の状態に焦点がある。get/become acquainted も、自分で学んだのか誰かに教わったのかを単独では決めない。",
+        "「通じた技術者」なら an engineer acquainted with the system のように後置する。an acquainted engineer を基本形として覚えない。well-acquainted のような複合的な前置修飾は見られるが、with 句を伴う場合は後置が明快。叙述形の well acquainted with ... には通常ハイフンを要しない。比較は better acquainted や more fully acquainted が自然で、acquainteder とはしない。人との面識を言う語義3とは区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "familiar",
+          "definition": "経験や学習によって対象をよく知っている。",
+          "frequency": 8,
+          "difference": "be familiar with ... は acquainted with ... より日常的。物を主語にした be familiar to someone「人にとって見慣れている・聞き覚えがある」も使える。",
+          "example": "Are you familiar with the booking software?",
+          "translation": "予約用ソフトウェアの使い方をご存じですか。"
+        },
+        {
+          "word": "conversant",
+          "definition": "ある分野や事項について十分な知識を持ち、通じている。",
+          "frequency": 4,
+          "difference": "be conversant with ... と使うフォーマルな語。acquainted より、話題・実務に対応できる知識を意識させやすい。人と顔見知りだという意味にはしない。",
+          "example": "Applicants should be conversant with local planning rules.",
+          "translation": "応募者は、地域の都市計画規則に通じていることが望ましい。"
+        },
+        {
+          "word": "aware",
+          "definition": "事実・状況の存在を認識している。",
+          "frequency": 8,
+          "difference": "be aware of ...／be aware that ...。acquainted と違い、内容になじんでいる必要はなく、存在や事情を知っているだけでも使える。",
+          "example": "I was aware of the policy but had never read the full document.",
+          "translation": "その方針の存在は知っていたが、文書の全文を読んだことはなかった。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unacquainted",
+          "definition": "対象について知識や経験がない。",
+          "frequency": 3,
+          "difference": "知識・なじみの有無という同じ軸上で acquainted と反対になる。unacquainted with ... と使い、やや改まった語。",
+          "example": "New volunteers may be unacquainted with the reporting process.",
+          "translation": "新しいボランティアは、報告の流れをまだ知らないかもしれない。"
+        },
+        {
+          "word": "unfamiliar",
+          "definition": "対象について経験や知識がなく、なじんでいない。",
+          "frequency": 7,
+          "difference": "なじみの程度という軸上の反対で、unacquainted より一般的。be unfamiliar with ... は人の知識不足、be unfamiliar to someone は物がその人になじみのない状態を表す。",
+          "example": "I am unfamiliar with this type of equipment.",
+          "translation": "この種の機器にはなじみがない。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【形容詞・acquainted】面識がある、知り合いである",
+      "frequency": 6,
+      "register": [
+        "日常の紹介、交流、人物関係の説明。know someone よりやや改まった響きがあるが、get acquainted は交流の場などでも使われる。"
+      ],
+      "definition": "相手に会ったり交流したりして、その人を個人的に知っている。名前や評判を聞いたことがあるだけとは区別する。通常は知人としての関係を表し、親しい友人関係までは含まない。well acquainted なら相手をよく知っていることを表せるが、それだけで親友という意味にはならない。",
+      "patterns": [
+        "be acquainted with someone＝その人と面識がある",
+        "be/get/become acquainted＝複数主語などで相互の面識・知り合うことを表す",
+        "get/become acquainted with someone＝人と知り合う",
+        "be personally/well acquainted with someone＝直接の面識がある・相手をよく知っている",
+        "get people acquainted＝人々が互いに知り合う状態にする",
+        "people acquainted with someone＝その人と面識のある人々。基本は叙述または名詞後置。人が文脈から分かる場合や相互関係では、with 句を省ける。"
+      ],
+      "collocations": [
+        {
+          "pattern": "be acquainted with someone",
+          "use": "特定の人と個人的に面識があると述べる。",
+          "example": "I am acquainted with the new director through a mutual colleague.",
+          "translation": "共通の同僚を通じて、新しい部長とは面識がある。"
+        },
+        {
+          "pattern": "be personally acquainted with someone",
+          "use": "名前や業績を知るだけでなく、本人を知っているかを区別する。",
+          "example": "I have read her books, but I am not personally acquainted with her.",
+          "translation": "彼女の本は読んだことがあるが、本人との面識はない。"
+        },
+        {
+          "pattern": "get acquainted with someone",
+          "use": "初対面から交流を始め、知り合いになる。",
+          "example": "The welcome lunch gave us time to get acquainted with our new teammates.",
+          "translation": "歓迎の昼食会では、新しいチームメンバーと知り合う時間が持てた。"
+        },
+        {
+          "pattern": "be already acquainted",
+          "use": "二人以上がすでに知り合いで、紹介が不要だと伝える。",
+          "example": "There is no need to introduce us; we are already acquainted.",
+          "translation": "私たちはすでに知り合いなので、紹介していただく必要はありません。"
+        },
+        {
+          "pattern": "become better acquainted",
+          "use": "すでに会った人同士が、交流を通じて理解を深める。",
+          "example": "Working on the exhibition helped the two designers become better acquainted.",
+          "translation": "展覧会の仕事を一緒にすることで、二人のデザイナーは互いをよりよく知るようになった。"
+        },
+        {
+          "pattern": "get people acquainted",
+          "use": "集まりの参加者などが互いに知り合う機会を作る。",
+          "example": "We started with a simple game to get everyone acquainted.",
+          "translation": "全員が知り合えるように、まず簡単なゲームをした。"
+        }
+      ],
+      "notes": [
+        "acquainted with someone は状態、get acquainted with someone は知り合う変化。I have been acquainted with her for years. は長年の面識を述べ、I got acquainted with her last spring. は知り合った時を述べる。with の後ろが her work なら語義2の「彼女の作品を知っている」で、本人との面識は必要ない。",
+        "相互関係を示す We are acquainted.／We got acquainted. は成立するので、「with はどんな場合も必須」と覚えない。get acquainted は get と形容詞補語であり、自動詞 acquaint の過去形ではない。誤: We acquainted at the seminar. 正: We got acquainted at the seminar. 人を紹介して知り合わせる他動詞は語義4だが、普通の紹介なら introduce someone to someone、知り合う側なら get acquainted が使いやすい。",
+        "限定修飾には people acquainted with both families のような後置を使う。「知人一人」は an acquaintance であり、an acquainted と形容詞だけを名詞化しない。面識があることを表すだけのときに very acquainted より、well acquainted、slightly acquainted、better acquainted などで知り合い方の程度を具体的にする。"
+      ],
+      "synonyms": [
+        {
+          "word": "know",
+          "definition": "相手を個人的に知っている、面識がある。",
+          "frequency": 9,
+          "difference": "know someone は日常的で、浅い面識から親しい関係まで広い。know of someone は存在や評判を知ることで、be acquainted with someone のような面識を必ず表さない。",
+          "example": "Do you know the architect who designed this building?",
+          "translation": "この建物を設計した建築家とはお知り合いですか。"
+        },
+        {
+          "word": "get to know",
+          "definition": "交流を通じて人を知るようになる。",
+          "frequency": 8,
+          "difference": "get acquainted と重なるが、相手の性格や考え方を時間をかけて理解する過程にも自然に使え、より日常的。",
+          "example": "We got to know each other while sharing an office.",
+          "translation": "同じオフィスで働くうちに、私たちは互いを知るようになった。"
+        },
+        {
+          "word": "meet",
+          "definition": "初めて人に会い、相手を知るきっかけを持つ。",
+          "frequency": 9,
+          "difference": "この意味の meet は出会いの出来事に焦点を置く。get acquainted は会った後に話すなどして知り合う面も含み、be acquainted はすでに成立している関係を表す。",
+          "example": "I first met our accountant at the annual dinner.",
+          "translation": "年次会食で、私たちの会計士に初めて会った。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unacquainted",
+          "definition": "相手と面識がない。",
+          "frequency": 3,
+          "difference": "個人的な面識の有無という同じ軸上の反対。be unacquainted with someone はフォーマルで、会話では not know someone もよく使う。",
+          "example": "I was unacquainted with most of the guests.",
+          "translation": "出席者の大半とは面識がなかった。"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "【他動詞】人を紹介する、知り合わせる",
+      "frequency": 2,
+      "register": [
+        "主に米国の改まった表現。一般の紹介では introduce を使うほうが普通。語義3の be",
+        "get acquainted は、この他動詞の能動用法ほど地域・使用場面が限られない。"
+      ],
+      "definition": "一人の人を別の人に引き合わせ、面識ができるようにする。直接目的語は紹介される人、with の後ろは知り合う相手。物事を知らせる語義1と同じ表面上の型だが、ここでは人間関係を作る。",
+      "patterns": [
+        "acquaint someone with someone＝人を別の人に紹介する",
+        "be acquainted with someone by someone＝ある人の紹介によって相手と知り合う。with 句が人を指していても、著作や業績について知らせる文脈なら、面識ではなく語義1から解釈されることがある。"
+      ],
+      "collocations": [
+        {
+          "pattern": "acquaint someone with someone",
+          "use": "仲介者が二人を直接引き合わせることを、改まった文で述べる。",
+          "example": "At the reception, the host acquainted me with two local artists, and we talked over dinner.",
+          "translation": "レセプションで主催者が地元の芸術家二人を紹介してくれ、私たちは夕食を取りながら話した。"
+        },
+        {
+          "pattern": "be acquainted with someone by someone",
+          "use": "誰の仲介で知り合ったのかを受動態で示す。",
+          "example": "I was first acquainted with Professor Lee by a mutual friend at a small dinner party.",
+          "translation": "小さな夕食会で、共通の友人に紹介されて初めてリー教授と知り合った。"
+        }
+      ],
+      "notes": [
+        "物事を知らせる語義1と、人に会わせるこの語義を、目的語の指すものと場面で区別する。acquaint the audience with a novelist のような表現は、本人を会場で紹介する場合と、作家について説明する場合の両方があり得る。本人同士の面識を明確にしたい場合は introduce someone to someone が分かりやすい。",
+        "紹介の行為が be acquainted という状態の語源的・意味的な背景にあっても、We are acquainted. を常に「私たちは誰かに紹介された」という受動の出来事に訳さない。状態とその成立を表す語義3を参照。"
+      ],
+      "synonyms": [
+        {
+          "word": "introduce",
+          "definition": "それまで面識のない人同士を引き合わせる。",
+          "frequency": 8,
+          "difference": "introduce someone to someone が日常的な標準形。この語義の acquaint someone with someone より一般的で、会話の紹介にも自然。",
+          "example": "Could you introduce me to your colleague?",
+          "translation": "同僚の方を紹介していただけますか。"
+        },
+        {
+          "word": "bring together",
+          "definition": "人々を引き合わせ、出会いや交流の機会を作る。",
+          "frequency": 6,
+          "difference": "acquaint は面識を持たせることに焦点がある。bring together は会わせるだけでなく、協力や共同活動のために集める場面にも使う。代名詞では bring them together。",
+          "example": "The program brings together artists who have never worked with one another.",
+          "translation": "この事業は、それまで一緒に仕事をしたことのない芸術家たちを引き合わせる。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
