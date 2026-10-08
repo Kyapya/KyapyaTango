@@ -1,0 +1,433 @@
+{
+  "word": "construe",
+  "slug": "construe",
+  "ipa": "動詞は米・英: /kənˈstruː/。2音節で、第1音節の母音は弱い /ə/、第2音節 /struː/ に主強勢がある。construes /kənˈstruːz/、construed /kənˈstruːd/、construing /kənˈstruːɪŋ/。過去形・過去分詞の -ed は /d/ で、音節は増えない。construing は通常3音節となる。",
+  "lead": "発言、行動、出来事、規則などの意味・意図・性質を、ある見方に基づいて理解したり説明したりする。単に内容がわかるだけでなく、「それを何を意味するものとして受け取るか」に焦点がある。目的語は発言・行動・文言などが典型的だが、人や概念をある役割・位置付けで捉える場合にも使う。解釈は正しい場合も誤っている場合もあり、construe だけでは正誤も好悪も決まらない。",
+  "updated": "2026-10-08",
+  "notion_url": "https://app.notion.com/p/construe-3f34faa9b77d8189a38fe0c4f97f9ac5",
+  "pronunciation": [
+    "まれな名詞は米: /ˈkɑːnstruː/｜英: /ˈkɒnstruː/。主強勢は第1音節にあり、米英の違いは第1音節の母音 /ɑː/ と /ɒ/。米語の名詞を /ˈkɑːnˌstruː/ と、第2音節の第二強勢も示す辞書がある。古い英国の動詞用法には第1音節に主強勢を置く発音もあるため、強勢だけで品詞を常に判別できるわけではない。現代の動詞は第2音節に主強勢を置いて覚える。"
+  ],
+  "etymology": [
+    "中英語 construen を経て、後期ラテン語 construere「文法上の関係を説明する」に由来する。その基になるラテン語 construere は、con-「一緒に」と struere「積み重ねる、組み立てる」から成る。「語をどう組み合わせて読むか」という文法的な用法が、現在の「言葉や行動をどう解釈するか」に通じている。",
+    "同じ construere に由来する construct「組み立てる、構築する」、construction「建設、構造、解釈」があり、structure「構造」も struere と同じ語源要素を持つ。construction は strict construction of a statute「法令の厳格な解釈」のようにも使う。ただし、現代の construe を「建設する」の意味で construct と交換することはできない。"
+  ],
+  "formation": [
+    {
+      "term": "construes",
+      "description": "/ construed / construing は動詞の活用形。construing では語末の e を落とす。construeing とは書かない。"
+    },
+    {
+      "term": "misconstrue",
+      "description": "は mis-「誤って」を付けた他動詞で「誤解する、曲解する」。construe 自体には「誤った解釈」という意味は含まれない。"
+    },
+    {
+      "term": "construal",
+      "description": "は「解釈、捉え方」を表す名詞。a construal of an event「出来事の一つの捉え方」のように使い、言語学・心理学・哲学などでよく見られる学術寄りの語。個別の解釈は可算、解釈する働きを総称するときは不可算で使う。"
+    },
+    {
+      "term": "construable",
+      "description": "は「解釈できる、ある意味に取れる」を表す低頻度の形容詞。be construable as something のように使う。日常的には can be interpreted as something などの方が伝わりやすい。"
+    },
+    {
+      "term": "construed",
+      "description": "/ construing は基本的に動詞の分詞。be construed as は通常、解釈されるという受動構文であり、独立した感情・状態を表す形容詞ではない。a narrowly construed exception「狭く解釈される例外」のような名詞修飾もできる。narrowly のような -ly 副詞と過去分詞の間には通常ハイフンを入れない。"
+    }
+  ],
+  "core": [
+    {
+      "label": "言葉や出来事について、意味や文法上の関係を捉え、「どのように読めるか」を定める。現代の中心は意味の解釈で、文法・訳読の用法では語の結び付きや読み解く作業に焦点が移る。",
+      "description": ""
+    },
+    {
+      "label": "読み方として定める対象の意味",
+      "description": "→ 「解釈する、～と捉える」（語義1）"
+    },
+    {
+      "label": "読み方を示す文法分析・訳出",
+      "description": "→ 「文法的に分析する、逐語訳する」（語義2）"
+    },
+    {
+      "label": "読み方を定める語句の結び付き",
+      "description": "→ 「文法上結び付ける、～として扱う」（語義3）"
+    },
+    {
+      "label": "読み方が文法上成立する可能性",
+      "description": "→ 「文法的に解釈できる」（語義4）"
+    },
+    {
+      "label": "読み方を示した訳読の作業・成果",
+      "description": "→ 「逐語訳、文法解釈」（語義5）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【他動詞】解釈する、～と捉える",
+      "frequency": 6,
+      "register": [
+        "フォーマル。報道、批評、学術文、業務上の注意書き、契約・法律の解釈で使う。日常会話では interpret、take、read、see などが選ばれやすい。米英ともに使い、特に be construed as の受動形が目立つ。以下の from による推論や、直接 that 節を取る型は、中心的な as 構文より低頻度。"
+      ],
+      "definition": "発言、行動、出来事、規則などの意味・意図・性質を、ある見方に基づいて理解したり説明したりする。単に内容がわかるだけでなく、「それを何を意味するものとして受け取るか」に焦点がある。目的語は発言・行動・文言などが典型的だが、人や概念をある役割・位置付けで捉える場合にも使う。解釈は正しい場合も誤っている場合もあり、construe だけでは正誤も好悪も決まらない。根拠から意図や意味を読み取る、推論寄りの用法もある。",
+      "patterns": [
+        "construe something＝その意味を解釈する",
+        "construe something as 〈名詞句〉＝それを～と捉える",
+        "construe something as 〈形容詞〉＝それを～なものと捉える",
+        "construe something as doing＝それが～している・～するものだと解釈する",
+        "be construed as 〈名詞句〉＝～と解釈される",
+        "be construed as 〈形容詞〉＝～なものと解釈される",
+        "be construed as doing＝～している・～するものと解釈される",
+        "construe something to mean 〈名詞句〉＝それを～という意味に解する",
+        "construe something to mean that 〈節〉＝それを～だという意味に解する",
+        "be construed to do＝～するものだと解釈される。特に imply、include、require、permit などと結び付く",
+        "construe something broadly、construe something narrowly＝意味・適用範囲を広く、狭く解釈する",
+        "construe something in a particular way＝ある仕方で解釈する",
+        "construe 〈条項など〉 against someone＝その人に不利になるよう解釈する",
+        "construe oneself as 〈名詞句〉＝自分を～と捉える",
+        "construe 〈意図など〉 from 〈根拠〉＝根拠から意図などを読み取る",
+        "construe that 〈節〉＝～だと推し量る。最後の2型は低頻度で、一般的な推論には infer が明確。"
+      ],
+      "collocations": [
+        {
+          "pattern": "construe something as a sign of 〈名詞〉",
+          "use": "相手の行動や出来事に、どのような意味を読み取るかを示す。",
+          "example": "Several investors construed the founder's return as a sign of confidence in the company.",
+          "translation": "複数の投資家は、創業者の復帰を、創業者が会社の先行きに自信を持っている表れだと受け取った。"
+        },
+        {
+          "pattern": "be construed as approval",
+          "use": "明示していない承認の意味を受け取られる可能性に注意を促す。",
+          "example": "Please reply explicitly, since silence could be construed as approval of the revised schedule.",
+          "translation": "返事がないと改訂後の日程を承認したと受け取られる可能性があるため、明確に返信してください。"
+        },
+        {
+          "pattern": "construe something as 〈形容詞〉",
+          "use": "発言などを、ある性質を持つものと判断する。",
+          "example": "The panel construed his repeated questions as hostile rather than merely persistent.",
+          "translation": "委員会は、彼が繰り返し質問したことを、単に粘り強いのではなく敵対的なものだと捉えた。"
+        },
+        {
+          "pattern": "be construed as doing",
+          "use": "ある発言・対応に、本人の意図とは別の行為や立場を読み取られることを述べる。",
+          "example": "Refusing to discuss the figures might be construed as concealing a problem.",
+          "translation": "数値についての話し合いを拒むと、問題を隠していると受け取られかねない。"
+        },
+        {
+          "pattern": "construe something to mean that 〈節〉",
+          "use": "語句や返答をどう理解したか、その具体的な内容を節で示す。",
+          "example": "We construed the phrase “up to ten working days” to mean that delivery could take two full weeks.",
+          "translation": "私たちは「最長10営業日」という表現を、配達まで丸2週間かかる可能性があるという意味に解釈した。"
+        },
+        {
+          "pattern": "be construed to imply 〈名詞句〉",
+          "use": "注意書きなどで、文書が特定の約束を意味するという読み方を排除する。",
+          "example": "Nothing in this product guide should be construed to imply a guarantee of uninterrupted service.",
+          "translation": "この製品ガイドのいかなる記述も、サービスが中断しないことを保証するものと解釈されるべきではない。"
+        },
+        {
+          "pattern": "construe 〈規定〉 broadly / construe 〈規定〉 narrowly",
+          "use": "規定に含まれる事柄の範囲を広く取るか、限定的に取るかを述べる。",
+          "example": "The majority construed the reporting requirement broadly, while the dissent argued for a narrower reading.",
+          "translation": "多数意見は報告義務の範囲を広く解釈した一方、反対意見はより限定的な解釈を主張した。"
+        },
+        {
+          "pattern": "construe something in different ways",
+          "use": "as 以下で結論を示さず、解釈が複数あることを述べる。",
+          "example": "The two departments construed the same instruction in different ways.",
+          "translation": "二つの部署は、同じ指示を異なる意味に解釈した。"
+        },
+        {
+          "pattern": "construe 〈条項〉 against someone",
+          "use": "法的文脈で、条項の解釈がどちらの当事者に不利になるかを示す。",
+          "example": "In that case, the court construed the ambiguous clause against the party that had drafted it.",
+          "translation": "その事件では、裁判所は曖昧な条項を、それを起草した当事者に不利に解釈した。"
+        },
+        {
+          "pattern": "construe oneself as 〈名詞句〉",
+          "use": "学術的・分析的な文脈で、自分の役割や立場の捉え方を述べる。",
+          "example": "She construes herself as an outsider, even after years on the team.",
+          "translation": "そのチームに何年も所属した後でも、彼女は自分を部外者だと捉えている。"
+        },
+        {
+          "pattern": "construe someone's intentions from 〈根拠〉",
+          "use": "低頻度の文章語で、言動などから相手の意図を読み取る。",
+          "example": "The biographer tried to construe the author's intentions from the changes he had made to the manuscript.",
+          "translation": "伝記作家は、その作家が原稿に加えた変更から、彼の意図を読み取ろうとした。"
+        },
+        {
+          "pattern": "construe that 〈節〉",
+          "use": "低頻度の文章語で、読み取った結論を直接 that 節で示す。",
+          "example": "From the wording of the invitation, she construed that attendance was optional.",
+          "translation": "招待状の文面から、彼女は出席は任意だと推し量った。"
+        }
+      ],
+      "notes": [
+        "基本の語順は「解釈する人・組織＋construe＋解釈対象＋as＋解釈の内容」。as は小辞ではなく、後ろに解釈の内容を導く。construe as を分離可能な句動詞として扱わず、代名詞なら construe it as a promise とする。誤: construe as a promise it／正: construe it as a promise。as の後ろに節を置きたいときは、通常 as meaning that ...、または目的語の後ろを to mean that ... とする。誤: We construed his reply as that he agreed.／正: We construed his reply to mean that he agreed. 低頻度の construe that ... が存在することと、as that ... が使えることは別。",
+        "as には名詞句だけでなく形容詞も続くため、construe a remark as rude は成立する。動作・状態を表すなら as admitting liability「責任を認めていると」、as being optional「任意であると」のように -ing 形を用いる。to mean の to は不定詞であり、「意味するために」という目的ではない。construe something to mean ... の something は mean の意味上の主語で、解釈する人が mean の主語になるわけではない。",
+        "能動態と受動態はどちらも使える。We construed the reply as a refusal.「私たちは返答を拒否と解した」に対し、The reply was construed as a refusal.「返答は拒否と解された」では、解釈対象が主語になる。解釈者は by the committee などで示せるが、省略されることも多い。oneself は自分自身を解釈対象にした通常の再帰代名詞で、別の慣用的な意味を作るわけではない。",
+        "should not be construed as ... は「～という意味に取るべきではない」という注意であり、「実際に誰もそう解釈しない」という事実の否定ではない。could be construed as ... も、そう受け取られる可能性を示すだけで、その解釈が正しいとは述べていない。誤解を懸念する場面でよく使うため misconstrue と混同しやすいが、misconstrue は話し手が誤解・曲解だと評価する語。construe をすべて「誤解する」と訳したり、misconstrue を単純な反意語として覚えたりしない。",
+        "法律で construe a statute / construe a clause と言えば、法令・条項の意味や適用範囲を解釈すること。construe 自体に「改正する」「無効にする」「承認する」という手続き上の意味はない。narrowly は狭い範囲に読むこと、strictly は厳格に読むことで、単に「正確に理解する」という意味ではない。against は「その当事者に不利に」であり、反対意見を述べるという意味ではない。どの条項を誰に不利に読むかは、法域・契約・適用される原則などによって異なり、construe という語だけから決まらない。",
+        "construe の「推し量る」という用法は、言動や文面の解釈と接する部分で理解するとよい。一般に、証拠から結論を導くことを明示したければ infer a conclusion from the evidence / infer that ... を用いる。一方、ある文言の意味を示すなら construe the wording to mean that ... が明確。construe that ... は存在するが、現代の基本構文として as や to mean の型に優先して覚える必要はない。"
+      ],
+      "synonyms": [
+        {
+          "word": "interpret",
+          "definition": "言葉・行動・資料などの意味を解釈する。",
+          "frequency": 8,
+          "difference": "対象や場面の幅が広く、construe より日常的な説明にも使える。construe は特定の意味・意図を与える読み方に焦点があり、注意書きや法的解釈で特に目立つ。",
+          "example": "Different readers may interpret the final paragraph differently.",
+          "translation": "読者によって、最後の段落を異なる意味に解釈するかもしれない。"
+        },
+        {
+          "word": "read",
+          "definition": "表情・言動・状況などから意味や意図を読み取る。",
+          "frequency": 7,
+          "difference": "read something as ... は construe ... as ... より会話的で、手掛かりの受け取り方を自然に述べられる。ここでは文字を音読する意味ではない。",
+          "example": "I read her quick response as a sign that she wanted to help.",
+          "translation": "私は彼女の素早い返答を、力になりたいという気持ちの表れだと受け取った。"
+        },
+        {
+          "word": "take",
+          "definition": "言葉・行動などを、ある意味に受け取る。",
+          "frequency": 8,
+          "difference": "take something as ... は受け手の反応を述べる日常的な表現。construe より分析的・公的な響きが弱い。take something to mean ... も使える。",
+          "example": "Please don't take my request for details as a lack of trust.",
+          "translation": "詳細を尋ねたからといって、信用していないという意味には受け取らないでください。"
+        },
+        {
+          "word": "understand",
+          "definition": "言葉や説明の意味を理解する、ある意味だと受け取る。",
+          "frequency": 9,
+          "difference": "意味がわかることを広く表す基本語。understand something to mean ... では construe に近いが、understand だけなら特定の見方を与えるという焦点は必須ではない。",
+          "example": "I understood the deadline to mean that the documents had to arrive by noon.",
+          "translation": "私はその締め切りを、正午までに書類が届いていなければならないという意味に理解した。"
+        },
+        {
+          "word": "regard",
+          "definition": "人・物・行動を、ある種類・性質のものと見なす。",
+          "frequency": 7,
+          "difference": "regard something as ... は対象への評価・位置付けを述べる。construe は言葉や行為から意味を読み取る側面が強いが、regard にはその読み取り作業は必須でない。",
+          "example": "The team regards the pilot project as a useful learning opportunity.",
+          "translation": "チームは試験プロジェクトを、有益な学習の機会と見なしている。"
+        },
+        {
+          "word": "infer",
+          "definition": "証拠・言動・状況から、明示されていない結論を導く。",
+          "frequency": 6,
+          "difference": "construe の推論寄りの用法に近い語。construe が対象の意味・読み方に焦点を置くのに対し、infer は根拠から結論へ進むことを明示する。infer that ... / infer something from ... が基本。",
+          "example": "We inferred from the repeated delays that the supplier was short of staff.",
+          "translation": "度重なる遅延から、私たちは供給業者が人手不足なのだと推測した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【他動詞・自動詞】文法的に分析する、逐語訳する",
+      "frequency": 2,
+      "register": [
+        "伝統的な文法教育・古典語学習。特に逐語訳・口頭訳の意味は古風。現代の一般的な翻訳業務では通常 translate を使う。"
+      ],
+      "definition": "文中の語形や語同士の関係を解きほぐして意味を説明する。特に古典語の学習では、ラテン語・古代ギリシャ語などを文法に沿って読み、語句を追いながら訳すことを指す。分析そのものを指す場合と、そこから口頭などで訳出する場合があり、すべての用例で翻訳まで行うとは限らない。自動詞用法では、分析・訳読する人が主語になる。",
+      "patterns": [
+        "construe 〈文・節・文章〉＝文法構造を分析して意味を示す",
+        "construe Latin＝ラテン語を分析して訳読する",
+        "construe 〈文章〉 into 〈言語名〉＝その言語に逐語訳する",
+        "someone + construe＝人が文法分析・訳読をする。対象が明らかな場合に目的語を置かない",
+        "be construed＝文・文章が分析・訳読されるという他動詞用法の受動態。"
+      ],
+      "collocations": [
+        {
+          "pattern": "construe a Latin sentence",
+          "use": "語形や主語・述語の関係を調べ、古典語の文を読み解く。",
+          "example": "Before translating, the tutor asked us to construe the Latin sentence and identify its main verb.",
+          "translation": "翻訳する前に、指導教員はそのラテン語の文を文法的に分析し、主となる動詞を特定するよう私たちに求めた。"
+        },
+        {
+          "pattern": "construe Latin",
+          "use": "古典教育の文脈で、ラテン語を訳読する力や活動を述べる。",
+          "example": "At the old school, every senior pupil was expected to construe Latin without a written translation.",
+          "translation": "その昔の学校では、上級生は全員、訳文を見ずにラテン語を訳読できることが求められた。"
+        },
+        {
+          "pattern": "construe a passage into English",
+          "use": "文法をたどりながら、原文を英語に訳す。",
+          "example": "The pupil construed the Greek passage into English, pausing to explain each participle.",
+          "translation": "生徒は各分詞を説明しながら、そのギリシャ語の一節を英語に逐語訳した。"
+        },
+        {
+          "pattern": "construe aloud",
+          "use": "人を主語にした自動詞で、授業中の口頭訳読を述べる。",
+          "example": "In the nineteenth-century classroom described in the memoir, pupils stood to construe aloud.",
+          "translation": "その回想録に描かれた19世紀の教室では、生徒は立って口頭で訳読した。"
+        }
+      ],
+      "notes": [
+        "語義1の construe a statement は「発言の意味を解釈する」、この語義の construe a Latin sentence は「文法上の組み立てを分析して読む」。原文の語順をそのまま保った不自然な訳に限るわけではなく、語形・語句の関係を確かめながら意味を示すことが中心。訳出先は into English のように示す。The pupil is construing.「生徒が訳読している」では人が作業者であり、語義4の The sentence will not construe.「その文は文法的に読めない」とは主語の役割が違う。"
+      ],
+      "synonyms": [
+        {
+          "word": "parse",
+          "definition": "文・句の文法構造や語の文法的な働きを分析する。",
+          "frequency": 4,
+          "difference": "文法分析そのものを明示し、翻訳は必須でない。construe は古典語を読み解いて訳す授業上の活動まで指すことがある。",
+          "example": "We parsed the sentence before discussing its meaning.",
+          "translation": "私たちは意味を話し合う前に、その文の文法構造を分析した。"
+        },
+        {
+          "word": "translate",
+          "definition": "ある言語の表現を別の言語で表す。",
+          "frequency": 8,
+          "difference": "翻訳全般の普通の語で、逐語的な分析にも口頭での練習にも限定されない。construe の訳読用法には伝統的な学習場面の響きがある。",
+          "example": "She translated the letter from German into Japanese.",
+          "translation": "彼女はその手紙をドイツ語から日本語に訳した。"
+        },
+        {
+          "word": "render",
+          "definition": "文章・表現を別の言語や表現形式に移す。",
+          "frequency": 4,
+          "difference": "翻訳の仕方や出来上がった表現に焦点を置く硬めの語。construe のように文法分析をたどる作業を前面には出さない。",
+          "example": "The translator rendered the opening lines in plain modern English.",
+          "translation": "翻訳者は冒頭の数行を、平易な現代英語で表した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【他動詞・自動詞】文法上結び付ける、～として扱う",
+      "frequency": 2,
+      "register": [
+        "専門的な文法記述、特に古典語の文法書・注釈。現代にも専門用例はあるが、一般会話で「組み合わせる」を表す普通の語ではない。"
+      ],
+      "definition": "語句を別の語句・格などと統語的に結び付けたり、単数・複数など一定の文法的な扱いをしたりする。人が語句をそのように扱う他動詞用法と、語自体がある要素と結び付くことを述べる自動詞用法がある。",
+      "patterns": [
+        "construe 〈語句〉 with 〈別の語句〉＝語句を文法上結び付けて扱う",
+        "〈語句〉 + be construed with 〈別の語句・格を表す名詞句〉＝～と結び付けられる、～を取る",
+        "〈名詞〉 + be construed as singular / 〈名詞〉 + be construed as plural＝単数・複数として扱われる",
+        "〈語〉 + construe with 〈格などを表す名詞句〉＝その語が～と文法的に結び付く。最後の自動詞型は特に専門的。"
+      ],
+      "collocations": [
+        {
+          "pattern": "construe 〈語句〉 with the main verb",
+          "use": "注釈で、修飾語などをどの動詞に結び付けて読むかを指定する。",
+          "example": "The commentator construes the adverb with the main verb rather than with the participle.",
+          "translation": "その注釈者は、その副詞を分詞ではなく主動詞に結び付けて読んでいる。"
+        },
+        {
+          "pattern": "be construed as singular",
+          "use": "名詞を単数として扱い、それに応じた一致をさせることを述べる。",
+          "example": "In this sentence, the collective noun is construed as singular and takes a singular verb.",
+          "translation": "この文では、その集合名詞は単数扱いされ、単数形の動詞を取っている。"
+        },
+        {
+          "pattern": "〈語〉 + construe with the dative",
+          "use": "専門的な自動詞用法で、語が与格の要素と結び付くことを示す。",
+          "example": "The grammar notes that, in this use, the Greek preposition construes with the dative.",
+          "translation": "その文法書は、この用法ではそのギリシャ語の前置詞が与格と結び付くと説明している。"
+        }
+      ],
+      "notes": [
+        "construe an adverb with a verb は文法上の結び付きを指定する他動詞構文で、with は単なる「～と一緒に」ではない。The preposition is construed with the dative. は受動形、The preposition construes with the dative. は自動詞形だが、どちらもその前置詞が取る格を述べる。語義4の「文全体が文法的に解釈できる」とも区別する。ここでの as singular は文法上の扱いで、語義1の as unusual「珍しいものとして」のような一般的評価ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "take",
+          "definition": "語が一定の格・補語・文法形式を取る。",
+          "frequency": 5,
+          "difference": "この語義の construe with / be construed with を、より普通の文法用語で述べられる。take the dative のように目的語を直接置き、with は不要。",
+          "example": "This preposition takes the accusative in expressions of motion towards a place.",
+          "translation": "この前置詞は、ある場所へ向かう移動を表すときには対格を取る。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【自動詞】文法的に解釈できる",
+      "frequency": 1,
+      "register": [
+        "まれな伝統的文法用法。古い文献や古典語の批評・注釈での読解用に知っておくとよい。現代の一般的な文章では can be parsed",
+        "can be interpreted grammatically などで言い換える。"
+      ],
+      "definition": "文や語の並びが、文法的に筋の通るものとして分析・理解できる。主語は解釈する人ではなく、解釈される文・文言。「分析する」という行為ではなく、「分析して意味を取れる」という性質を述べる。",
+      "patterns": [
+        "〈文・語の並び〉 + construe＝文法的に解釈できる",
+        "〈文・語の並び〉 + will not construe＝文法的な読みが成り立たない。能動形だが受け身に近い意味を持つ自動詞用法で、目的語を取らない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "〈文〉 + will not construe",
+          "use": "伝統的な文法・本文批評で、その語の並びのままでは文として読み解けないことを述べる。",
+          "example": "With that word omitted, the Latin sentence will not construe.",
+          "translation": "その語を省くと、そのラテン語の文は文法的に意味が取れない。"
+        }
+      ],
+      "notes": [
+        "The pupil cannot construe the sentence. は「生徒がその文を分析・訳読できない」という他動詞用法で、生徒の能力などに焦点がある。The sentence will not construe. はこの語義の自動詞用法で、文そのものの読みにくさ・構造上の不成立に焦点がある。文が自分で解釈をするという意味ではない。語義1の受動態 The sentence can be construed in two ways.「その文は二通りに解釈できる」とは、形も中心となる説明も異なる。"
+      ],
+      "synonyms": [
+        {
+          "word": "make sense",
+          "definition": "文や説明が、理解できる意味を成す。",
+          "frequency": 9,
+          "difference": "日常的で広い表現。construe のこの用法は文法的な分析可能性に焦点を絞るが、make sense は内容が合理的・理解可能かを述べる場合にも使う。",
+          "example": "The sentence makes sense once the missing word is restored.",
+          "translation": "抜けた語を補えば、その文は意味が通る。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【可算名詞】逐語訳、文法解釈",
+      "frequency": 1,
+      "register": [
+        "古風でまれ。伝統的な学校教育を扱う文章・文学などで見られる。一般的な「解釈」を言うための現代的な基本名詞ではない。"
+      ],
+      "definition": "文章を文法に沿って読み解いて訳す作業の一回分、またはその訳・解釈。特に古典語学習での訳読や、語句を追って示した訳を指す。",
+      "patterns": [
+        "a construe of 〈文章〉＝その文章の逐語訳・文法解釈",
+        "give a construe of 〈文章〉＝その文章を訳読して示す",
+        "construes＝複数の訳・訳読。"
+      ],
+      "collocations": [
+        {
+          "pattern": "give a construe of a passage",
+          "use": "古い学校教育の場面で、生徒が文章の訳読を披露する。",
+          "example": "The schoolmaster called on the youngest pupil to give a construe of the Latin passage.",
+          "translation": "教師は、そのラテン語の一節を訳読するよう、いちばん年少の生徒を指名した。"
+        },
+        {
+          "pattern": "construes of 〈文章〉",
+          "use": "複数の文章の訳、または複数の訳し方を指す。",
+          "example": "The old exercise book contained construes of several passages from Homer.",
+          "translation": "その古い練習帳には、ホメロスの作品から取ったいくつかの一節の逐語訳が載っていた。"
+        }
+      ],
+      "notes": [
+        "動詞 construe a passage「文章を訳読する」に対し、a construe of a passage は冠詞と of を伴う名詞句。複数形 construes は、綴りが動詞の三人称単数形と同じでも、文中の働きが異なる。名詞では通常、第1音節に主強勢を置く。現代の業務文書で「この条項の私の解釈」を言うなら my interpretation of this clause が普通で、my construe を基本表現として使わない。学術的な「捉え方」には construal もある。"
+      ],
+      "synonyms": [
+        {
+          "word": "translation",
+          "definition": "別の言語に訳された文章・表現。",
+          "frequency": 8,
+          "difference": "現代の一般的な語で、逐語訳、意訳、出版された訳などを広く含む。construe には、文法を確認しながら行う古い学習上の訳読という響きがある。",
+          "example": "We compared two English translations of the same poem.",
+          "translation": "私たちは同じ詩の二つの英訳を比較した。"
+        },
+        {
+          "word": "rendering",
+          "definition": "原文をある言い方に移した訳・表現。",
+          "frequency": 4,
+          "difference": "具体的な訳し方や表現上の選択を意識させる。construe のように古典語の授業や文法分析を前提にしない。",
+          "example": "Her rendering of the final line preserves the original ambiguity.",
+          "translation": "最終行の彼女の訳は、原文の曖昧さを残している。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
