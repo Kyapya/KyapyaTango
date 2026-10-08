@@ -1,0 +1,242 @@
+{
+  "word": "extrapolate",
+  "slug": "extrapolate",
+  "ipa": "米・英: /ɪkˈstræp.ə.leɪt/。4音節で、第2音節 /stræp/ に主強勢を置く。第3音節は弱い /ə/、第4音節は /leɪt/。-late を「ラテ」のように二つに分けない。過去形・過去分詞 extrapolated の -ed は /ɪd/ で、音節が一つ増える。",
+  "lead": "既知の事実、観察、経験、傾向などを基に、直接には分かっていない状況を推測したり、別の集団・時点・条件にも当てはまるとして推し広げたりする。未来の予測に多いが、別地域の現状や過去の状態も対象になる。一定の根拠を出発点とするが、結論の正しさや厳密な論理的必然性までは保証しない。",
+  "updated": "2026-10-08",
+  "notion_url": "https://app.notion.com/p/extrapolate-3f34faa9b77d813d85e2fd5787225020",
+  "pronunciation": [],
+  "etymology": [
+    "ラテン語 extra「外に」と、英語 interpolate の後半 -polate を組み合わせた語。interpolate「間に入れる・補間する」を手本に、「既知の範囲の外まで推し広げる」ことを表す。-polate を現代英語で独立した動詞として使うわけではない。",
+    "interpolate はさらにラテン語 interpolare にさかのぼり、その形成には polire「磨く」が関係する。polish「磨く」も polire に由来する語だが、現代の extrapolate の意味を「外を磨く」と組み立てて理解するのは適切でない。"
+  ],
+  "formation": [
+    {
+      "term": "extrapolates",
+      "description": "/ extrapolated / extrapolating：三人称単数現在／過去形・過去分詞／現在分詞。-ing を付けるときは語末の e を落とす。"
+    },
+    {
+      "term": "extrapolation",
+      "description": "名詞「推論・推計・外挿」。行為一般では不可算、個々の推計や推論では an extrapolation・extrapolations と数えられる。主強勢は -la- の部分に移る。"
+    },
+    {
+      "term": "extrapolative",
+      "description": "形容詞「外挿による・既知の情報を拡張して推論する」。学術・技術寄りの語。"
+    },
+    {
+      "term": "extrapolated",
+      "description": "過去分詞として名詞を修飾し、extrapolated values「外挿された値」などを作る。通常、元の動詞から離れた独自の評価義はない。"
+    }
+  ],
+  "core": [],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞／自動詞】既知の情報を広げて推論・推計する",
+      "frequency": 5,
+      "register": [
+        "フォーマル。分析、調査、研究、経済・事業計画、議論。日常的な「たぶんそうだと思う」には硬く聞こえることがある。"
+      ],
+      "definition": "既知の事実、観察、経験、傾向などを基に、直接には分かっていない状況を推測したり、別の集団・時点・条件にも当てはまるとして推し広げたりする。未来の予測に多いが、別地域の現状や過去の状態も対象になる。一定の根拠を出発点とするが、結論の正しさや厳密な論理的必然性までは保証しない。",
+      "patterns": [
+        "extrapolate from 〈既知の情報〉＝その情報から推し量る〈自動詞〉",
+        "extrapolate 〈推計結果・傾向〉 from 〈根拠〉＝根拠から未知の結果を推計する〈他動詞〉",
+        "extrapolate 〈既知の結果・傾向〉 to/across 〈新たな適用範囲〉＝結果を別の範囲へ拡張する〈他動詞〉",
+        "extrapolate from 〈出発点〉 to 〈適用先〉＝出発点から別の範囲へ推論を広げる〈自動詞〉",
+        "extrapolate that 〈節〉・extrapolate 〈wh節〉＝推論する内容を節で述べる〈他動詞〉",
+        "〈推計値・結果〉 + be extrapolated from/to 〈根拠・適用先〉＝受動態。目的語や前置詞句は、文脈から明らかなら付けない場合もある。"
+      ],
+      "collocations": [
+        {
+          "pattern": "extrapolate from 〈既知の情報〉",
+          "use": "推論の根拠を示し、推計結果自体は目的語にしない。",
+          "example": "We should not extrapolate from one successful product launch.",
+          "translation": "一度の製品発売の成功だけから、ほかの場合も同じだと推測すべきではない。"
+        },
+        {
+          "pattern": "extrapolate 〈推計結果〉 from 〈根拠〉",
+          "use": "根拠から導く未知の数量や傾向を目的語にする。",
+          "example": "The analysts extrapolated national demand from sales in three test markets.",
+          "translation": "分析担当者は、三つの試験市場の売上から全国の需要を推計した。"
+        },
+        {
+          "pattern": "extrapolate 〈既知の結果〉 to 〈別の集団〉",
+          "use": "ある集団で得た結果を、別の集団にも当てはめて考える。",
+          "example": "We cannot automatically extrapolate these findings to first-time customers.",
+          "translation": "これらの調査結果を、そのまま新規顧客にも当てはめて考えることはできない。"
+        },
+        {
+          "pattern": "extrapolate 〈既知の傾向〉 into the future",
+          "use": "現在までの傾向を将来へ延ばす。",
+          "example": "The plan simply extrapolates recent growth into the future without allowing for new competitors.",
+          "translation": "その計画は、新たな競合企業の参入を考慮せず、最近の成長傾向をそのまま将来に延ばしている。"
+        },
+        {
+          "pattern": "extrapolate from 〈出発点〉 to 〈適用先〉",
+          "use": "どこからどこへ推論を広げるかを明示する。",
+          "example": "It is risky to extrapolate from a small pilot project to a nationwide operation.",
+          "translation": "小規模な試験事業から、全国規模の運営でも同じ結果になると推測するのは危険だ。"
+        },
+        {
+          "pattern": "extrapolate 〈数値〉 across 〈範囲〉",
+          "use": "一部で得た数値を、広い地域や組織全体に展開する。",
+          "example": "The report extrapolates the survey figures across the entire industry.",
+          "translation": "その報告書は、調査で得た数値を業界全体に広げて推計している。"
+        },
+        {
+          "pattern": "extrapolate that 〈節〉",
+          "use": "既知の傾向から推測した内容を文の形で示す。",
+          "example": "From the first month's figures, we can tentatively extrapolate that annual demand will exceed capacity.",
+          "translation": "最初の1か月の数値から、年間需要が供給能力を上回るだろうと暫定的に推計できる。"
+        },
+        {
+          "pattern": "extrapolate 〈wh節〉 from 〈根拠〉",
+          "use": "何が起きるか・どれほど必要かなどを、既知の情報から推測する。",
+          "example": "We can extrapolate how much storage we will need from the current rate of data growth.",
+          "translation": "現在のデータ増加率から、どれほどの保存容量が必要になるかを推計できる。"
+        },
+        {
+          "pattern": "be extrapolated from 〈根拠〉",
+          "use": "推計結果を主語にして、根拠を説明する。",
+          "example": "The estimate was extrapolated from a survey of existing subscribers.",
+          "translation": "その推計値は、既存の定期利用者への調査から導かれた。"
+        },
+        {
+          "pattern": "be extrapolated to 〈適用先〉",
+          "use": "調査結果をほかの範囲へ適用できるかを論じる。",
+          "example": "Results from the urban stores should not be extrapolated to rural outlets without further research.",
+          "translation": "都市部の店舗の結果を、追加調査なしに地方の店舗へ当てはめて考えるべきではない。"
+        },
+        {
+          "pattern": "extrapolate cautiously",
+          "use": "目的語を示さず、推論の行い方を述べる。",
+          "example": "The sample is small, so we need to extrapolate cautiously.",
+          "translation": "標本が小さいため、慎重に推計する必要がある。"
+        }
+      ],
+      "notes": [
+        "from は根拠・出発点、to は適用先。extrapolate demand from sales では demand が「推計する未知の結果」、extrapolate these findings to other markets では these findings が「推し広げる既知の結果」になる。目的語は常に元データ、または常に推計値と決めつけない。from は小辞ではなく前置詞なので、代名詞なら extrapolate from it、結果を代名詞にすれば extrapolate it from the data とする。extrapolate to predict demand の to predict は目的を表す不定詞であり、to other markets の to と構造が異なる。extract information from a report は「報告書から情報を取り出す」で、extrapolate は既知の内容を越える推論を含む。単に詳しく説明する「敷衍する・話を膨らませる」なら elaborate on an idea などを使い、extrapolate と無条件に交換しない。predict は未来を予想する語だが、extrapolate は過去や別集団にも使える。be extrapolated は通常受動態で、an extrapolated estimate は過去分詞による名詞修飾。再帰代名詞を伴う特別な定型構文として覚える必要はない。"
+      ],
+      "synonyms": [
+        {
+          "word": "infer",
+          "definition": "得られた情報や証拠から、明示されていないことを推測する。",
+          "frequency": 6,
+          "difference": "推論全般に使える。extrapolate は、既知の傾向・関係を別の範囲へ延ばす点をより明確にする。",
+          "example": "We inferred from the repeated complaints that the instructions were unclear.",
+          "translation": "苦情が繰り返されたことから、説明が分かりにくいのだと推測した。"
+        },
+        {
+          "word": "project",
+          "definition": "既知の数値や傾向を基に、将来の数量・状態を推計する。",
+          "frequency": 6,
+          "difference": "事業計画などの将来予測に特に使いやすい。extrapolate は、時間以外の集団や条件の違いを越えて推論する場合にも使う。",
+          "example": "The company projects a modest increase in revenue next year.",
+          "translation": "その会社は、来年の収益が緩やかに増えると予測している。"
+        },
+        {
+          "word": "predict",
+          "definition": "将来起こることを予想して述べる。",
+          "frequency": 8,
+          "difference": "予想する行為を広く表し、必ずしも既知データの拡張を意味しない。extrapolate は推論の進め方に重点がある。",
+          "example": "Nobody predicted such a rapid change in customer behavior.",
+          "translation": "顧客行動がそれほど急速に変化するとは、誰も予想しなかった。"
+        },
+        {
+          "word": "estimate",
+          "definition": "数量、費用、規模などのおおよその値を判断する。",
+          "frequency": 8,
+          "difference": "概算する方法を限定しない。extrapolate は、既知の情報を未知の範囲へ広げることを特に示す。",
+          "example": "The contractor estimated the repair cost at two thousand dollars.",
+          "translation": "請負業者は、修理費を2,000ドルと見積もった。"
+        },
+        {
+          "word": "generalize",
+          "definition": "個別の観察や事例を基に、広い範囲について述べる。",
+          "frequency": 5,
+          "difference": "個別から一般へ広げる点で近いが、数値の延長や将来推計を必ずしも含まない。extrapolate は具体的な別条件への適用にも使える。",
+          "example": "It is difficult to generalize from interviews with only five people.",
+          "translation": "わずか5人への聞き取りから一般的なことを述べるのは難しい。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【動詞・他動詞／自動詞】外挿する",
+      "frequency": 3,
+      "register": [
+        "数学、統計、科学技術、データ分析。語義1の推論のうち、「観測範囲の外」という区別が技術的に重要な用法。"
+      ],
+      "definition": "数学・統計で、観測された範囲の値や関係を基に、その範囲の外にある点での値を推定すること。直線や曲線などのモデルを範囲外へ延ばす。既知の点と点の間を推定する「補間」と区別する。",
+      "patterns": [
+        "extrapolate 〈未知の値〉 from 〈観測値〉＝観測値から範囲外の値を推定する〈他動詞〉",
+        "extrapolate 〈曲線・傾向〉 beyond 〈観測範囲〉＝曲線などを範囲外へ延ばす〈他動詞〉",
+        "extrapolate to 〈未観測の時点・条件〉＝その点まで外挿する〈自動詞〉",
+        "extrapolate linearly＝直線関係を仮定して外挿する〈自動詞〉",
+        "〈値〉 + be extrapolated from 〈測定値〉＝外挿によって求められる。back to は以前の時点・基準点へさかのぼる方向を示す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "extrapolate 〈未知の値〉 from 〈観測値〉",
+          "use": "測定範囲外での値を、得られた測定値から推定する。",
+          "example": "The researchers extrapolated the pressure at 120°C from measurements taken between 20°C and 80°C.",
+          "translation": "研究者は、20～80℃で行った測定から、120℃での圧力を外挿した。"
+        },
+        {
+          "pattern": "extrapolate 〈曲線〉 beyond 〈観測範囲〉",
+          "use": "当てはめた曲線を、データが得られている範囲の外へ延ばす。",
+          "example": "Extrapolating the fitted curve beyond the measured range may produce unreliable estimates.",
+          "translation": "当てはめた曲線を測定範囲の外へ延ばすと、信頼できない推定値になることがある。"
+        },
+        {
+          "pattern": "extrapolate to 〈未観測の時点〉",
+          "use": "観測期間より先の時点での値を求める。",
+          "example": "The model uses five years of observations to extrapolate to year ten.",
+          "translation": "そのモデルは、5年間の観測結果を使って10年目まで外挿する。"
+        },
+        {
+          "pattern": "extrapolate linearly",
+          "use": "直線的な関係が続くという仮定で外挿する。",
+          "example": "If we extrapolate linearly from these three points, the predicted value at x = 10 is 24.",
+          "translation": "この3点から直線的に外挿すると、x = 10 での予測値は24になる。"
+        },
+        {
+          "pattern": "extrapolate back to 〈以前の時点〉",
+          "use": "測定開始より前の値を、観測された変化から推定する。",
+          "example": "We extrapolated back to the start of the experiment to estimate the initial concentration.",
+          "translation": "初期濃度を推定するため、実験開始時点までさかのぼって外挿した。"
+        },
+        {
+          "pattern": "be extrapolated from 〈測定値〉",
+          "use": "値が直接測られたのではなく、範囲外への推定で得られたことを示す。",
+          "example": "The value at zero pressure was extrapolated from measurements made at positive pressures.",
+          "translation": "圧力ゼロでの値は、正の圧力で行った測定から外挿された。"
+        }
+      ],
+      "notes": [
+        "10℃と20℃の測定値を基に15℃の値を求めるのは interpolate「補間する」、同じ資料から30℃の値を求めるのは extrapolate「外挿する」。両者は推定対象が既知範囲の内か外かという対照であり、一方が他方を取り消す動作ではない。外挿は未来方向に限らず、下限より小さい値や、測定開始以前の時点にも行える。直線外挿は一つの方法であって、extrapolate 自体が直線性を意味するわけではない。実際にその範囲で観測・検証したことを表す語でもなく、前提とする関係が範囲外でも続くかは別に確認する必要がある。"
+      ],
+      "synonyms": [
+        {
+          "word": "estimate",
+          "definition": "観測資料やモデルを基に、未知の数量・値を推定する。",
+          "frequency": 6,
+          "difference": "推定対象が観測範囲の内か外かを限定しない上位概念。extrapolate は範囲外への推定方法を明示する。",
+          "example": "We estimated the parameter using all the available measurements.",
+          "translation": "利用できるすべての測定値を使って、そのパラメーターを推定した。"
+        },
+        {
+          "word": "project",
+          "definition": "現在のデータやモデルを延長して、先の値を推計する。",
+          "frequency": 4,
+          "difference": "時間を先へ延ばす推計で重なるが、数学の「既知範囲外」という定義を常に厳密に示すわけではない。",
+          "example": "The model projects the concentration at later times under the same conditions.",
+          "translation": "そのモデルは、同じ条件下での後の時点の濃度を推計する。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
