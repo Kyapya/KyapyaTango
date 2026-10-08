@@ -1,0 +1,409 @@
+{
+  "word": "contrive",
+  "slug": "contrive",
+  "ipa": "米・英: /kənˈtraɪv/。2音節で、第2音節 /traɪv/ に主強勢を置く。第1音節の母音は弱い /ə/。",
+  "lead": "難しい条件の中で工夫したり、うまく手配したりして、後続の行為を実現する。通常は「どうにか～することに成功する」。失敗・紛失などを後ろに置くと、「よりによって～してしまう」「どういうわけか～する」という皮肉や非難にもなる。実現した結果が常に望ましいとは限らない。",
+  "updated": "2026-10-08",
+  "notion_url": "https://app.notion.com/p/contrive-3f34faa9b77d8183b18ceb0563f1411e",
+  "pronunciation": [
+    "contrives /kənˈtraɪvz/、contrived /kənˈtraɪvd/、contriving /kənˈtraɪvɪŋ/。contrived の -ed は /d/ で、音節を増やさない。形容詞 contrived も同じ発音。"
+  ],
+  "etymology": [
+    "古フランス語 controver「考え出す・発明する」の語形を経て、中世ラテン語 contropare にさかのぼる。「比較する」などの意味を持った語で、現代の「工夫して考え出す・仕組む」につながる。",
+    "直接同じ語族に属する contrivance「工夫・仕掛け」と contrived「作為的な」を結び付けて覚える。現代英語の thrive「繁栄する」に接頭辞を付けた語ではない。"
+  ],
+  "formation": [
+    {
+      "term": "contrives",
+      "description": "/ contrived / contriving：三人称単数現在形／過去形・過去分詞／現在分詞。We contrived a solution. の contrived は過去形、The device was contrived by an engineer. では過去分詞。"
+    },
+    {
+      "term": "contrived",
+      "description": "独立した形容詞では「作為的な・不自然に仕組まれた」という批判的な評価を持つ。通常の受動態がすべてこの低評価になるわけではない。語義2で扱う。"
+    },
+    {
+      "term": "contrivance",
+      "description": "不可算では「工夫・作為」、可算では「工夫した装置・仕掛け・策」。a plot contrivance は、物語を都合よく進めるための仕掛けを指し、批判的に使われることがある。"
+    },
+    {
+      "term": "uncontrived",
+      "description": "形容詞「わざとらしさのない・自然な」。頻度は低めで、文学・芸術・振る舞いの評価などに使う。"
+    }
+  ],
+  "core": [
+    {
+      "label": "工夫や作為によって、物事を組み立てたり実現へ持っていったりすること。動詞では工夫を評価する場合も、策略を批判する場合もあり、形容詞",
+      "description": "contrived では「作為が見えて不自然」という評価が前面に出る。"
+    },
+    {
+      "label": "工夫や作為による行為の実現",
+      "description": "→ 「何とか～する・巧みに～する」（語義1）"
+    },
+    {
+      "label": "工夫や作為の見えすぎる結果",
+      "description": "→ 「作為的な・わざとらしい」（語義2）"
+    },
+    {
+      "label": "工夫や作為による案や物の創出",
+      "description": "→ 「考案する・工夫して作る」（語義3）"
+    },
+    {
+      "label": "工夫や作為による状況の実現",
+      "description": "→ 「仕組む・巧みに実現させる」（語義4）"
+    },
+    {
+      "label": "工夫や作為をめぐらせる行為",
+      "description": "→ 「策をめぐらす」（語義5）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・to不定詞を伴う構文】何とか～する・巧みに～する",
+      "frequency": 5,
+      "register": [
+        "改まった文章や叙述に多い。日常的な達成なら manage to が広く使われる。"
+      ],
+      "definition": "難しい条件の中で工夫したり、うまく手配したりして、後続の行為を実現する。通常は「どうにか～することに成功する」。失敗・紛失などを後ろに置くと、「よりによって～してしまう」「どういうわけか～する」という皮肉や非難にもなる。実現した結果が常に望ましいとは限らない。",
+      "patterns": [
+        "someone/something + contrive to do something。基本的には人・集団が主語で、to 不定詞は実現する行為を示す。皮肉では実際に工夫・手配したとは限らず、作品などを主語にして、予想外の性質や結果を表す場合もある。contrive to be 〈形容詞〉 はその性質を述べる型。過去の肯定文 contrived to do は通常その実現を述べる。contrive not to do は「うまく～せずに済ませる」。to 不定詞を補部に取る型で、名詞の直接目的語を取る語義3・4と区別する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "contrive to do something",
+          "use": "制約のある中で行為を実現する。",
+          "example": "Despite the rail strike, she contrived to reach the conference before the opening session.",
+          "translation": "鉄道のストライキにもかかわらず、彼女は何とか開会セッションの前に会場に着きました。"
+        },
+        {
+          "pattern": "somehow contrive to do something",
+          "use": "方法は詳述せず、困難を越えて達成したことを述べる。",
+          "example": "With only two volunteers, they somehow contrived to keep the library open all week.",
+          "translation": "ボランティアが2人しかいない中、彼らは何とか図書館を1週間ずっと開け続けました。"
+        },
+        {
+          "pattern": "contrive not to do something",
+          "use": "不都合な行為を避けるよう巧みに振る舞う。",
+          "example": "During the interview, he contrived not to reveal the client's name.",
+          "translation": "インタビューの間、彼は依頼主の名前を明かさずにうまく切り抜けました。"
+        },
+        {
+          "pattern": "contrive to lose something",
+          "use": "望ましくない結果を、皮肉や非難を込めて述べる。",
+          "example": "We gave him two copies of the key, and he contrived to lose both before lunch.",
+          "translation": "鍵を2本渡したのに、彼は昼までに両方なくしてしまいました。"
+        },
+        {
+          "pattern": "contrive to be 〈形容詞〉",
+          "use": "作品などを主語にし、意外な性質を皮肉も交えて評価する。",
+          "example": "The film somehow contrives to be both slow and confusing.",
+          "translation": "その映画は、どういうわけか展開が遅いうえに分かりにくくもなっています。"
+        }
+      ],
+      "notes": [
+        "後ろは to do。誤: She contrived finishing the work.／正: She contrived to finish the work. 「他人に何かをさせる」を表すために contrive someone to do とするのも基本型ではない。She contrived to get everyone into the same room.「全員を同じ部屋に集めることにうまく成功した」のように、to 以下の動詞で人の役割を表す。肯定の contrived to do は、単に試みた tried to do より実現を強く示す。ただし否定・未来・条件・疑問では、実現済みという意味を機械的に付けない。contrived not to leave は「うまく残った」、did not contrive to leave は「立ち去ることを実現できなかった」で、否定の位置が違う。悪い結果に使う場合は、実際の悪意を疑う用法も、単なる不手際を皮肉る用法もある。contrive to が常に計画的な不正、あるいは常に偶然の失敗を意味するとは言えない。"
+      ],
+      "synonyms": [
+        {
+          "word": "manage",
+          "definition": "困難があっても何とか達成する。",
+          "frequency": 8,
+          "difference": "manage to do の形で、達成の基本表現。contrive より日常的で、巧妙な手配や策略を特に示す必要がない。",
+          "example": "We managed to finish the repairs before the guests arrived.",
+          "translation": "客が来る前に、何とか修理を終えました。"
+        },
+        {
+          "word": "succeed",
+          "definition": "試みや目標を実現することに成功する。",
+          "frequency": 8,
+          "difference": "succeed in doing とし、in の後ろは動名詞。成功の結果を明示し、contrive のような工夫・作為の印象は必須でない。",
+          "example": "The team succeeded in reducing the error rate.",
+          "translation": "チームは誤りの発生率を下げることに成功しました。"
+        },
+        {
+          "word": "pull off",
+          "definition": "難しいことや意外な成果をやってのける。",
+          "frequency": 6,
+          "difference": "会話的で、見事な達成への驚きが出やすい。pull off a victory・pull it off のように名詞や代名詞を目的語に取り、contrive to do と同じ後続形ではない。",
+          "example": "No one expected the small team to pull off such a complex launch.",
+          "translation": "あの小さなチームが、これほど複雑な発売作業をやり遂げるとは誰も思っていませんでした。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【形容詞 contrived・限定／叙述】作為的な・わざとらしい",
+      "frequency": 5,
+      "register": [
+        "作品評、報道、日常の評価。原則として否定的な評価を表すが、否定や比較でその程度を打ち消すことはできる。"
+      ],
+      "definition": "状況、筋書き、説明、振る舞いなどが、意図的に作られたことを感じさせ、自然さ・もっともらしさに欠ける。単に「計画された」ではなく、「都合よく仕組まれた感じがする」という批判的評価が中心。",
+      "patterns": [
+        "a contrived 〈筋書き・場面・口実など〉",
+        "something is・seems・sounds contrived",
+        "find something contrived",
+        "very・too・rather contrived",
+        "more・less contrived。名詞の前にも補語にも使え、比較は通常 more・less を用いる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a contrived ending",
+          "use": "物語の結末が不自然な都合で作られていると評する。",
+          "example": "The novel loses its force with a contrived ending in which every problem disappears overnight.",
+          "translation": "すべての問題が一晩で消えるという作為的な結末のせいで、その小説は迫力を失っています。"
+        },
+        {
+          "pattern": "a contrived excuse",
+          "use": "口実がその場しのぎに作られたように感じられる。",
+          "example": "His explanation about a broken clock sounded like a contrived excuse for being late.",
+          "translation": "時計が壊れたという彼の説明は、遅刻を取り繕うためのわざとらしい口実のように聞こえました。"
+        },
+        {
+          "pattern": "seem contrived",
+          "use": "作品や状況の不自然さを評価として述べる。",
+          "example": "The chance meeting seemed contrived because the two characters had no reason to be there.",
+          "translation": "その2人の登場人物がそこにいる理由がなかったので、偶然の出会いは不自然に仕組まれた感じがしました。"
+        },
+        {
+          "pattern": "find something too contrived",
+          "use": "受け手が作為を感じすぎて受け入れにくいと述べる。",
+          "example": "Test audiences found the final twist too contrived to believe.",
+          "translation": "試写の観客は、最後のどんでん返しが作為的すぎて信じられないと感じました。"
+        },
+        {
+          "pattern": "less contrived",
+          "use": "修正によって自然さが増したことを比較する。",
+          "example": "Without the explanatory speech, the reconciliation feels less contrived.",
+          "translation": "説明的なせりふがないほうが、その和解はわざとらしく感じられません。"
+        }
+      ],
+      "notes": [
+        "The scene was carefully contrived by the director. は「監督が注意深く仕組んだ」という受動の読みができ、必ずしも失敗作という意味ではない。一方、The scene seemed contrived. は形容詞による「不自然だった」という評価。carefully の有無だけで決まるのではなく、出来事の制作を述べる文脈か、出来栄えを評価する文脈かを読む。動詞 contrive の「工夫して成功する」という好意的な用例から、形容詞を単に「巧妙な」と訳すと批判を落としてしまう。a contrived scene の contrived 自体にハイフンは要らず、単語として綴る。contriving は現在分詞で、形容詞 contrived の「わざとらしい」と自由に交換しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "forced",
+          "definition": "自然に生じず、無理に作ったように感じられる。",
+          "frequency": 6,
+          "difference": "笑顔・笑い・会話などが無理に出された印象を表しやすい。contrived は筋書きや状況の仕組みの不自然さにもよく使う。",
+          "example": "His laugh sounded forced, and the conversation soon stopped.",
+          "translation": "彼の笑いは無理に出したように聞こえ、会話はすぐ途切れました。"
+        },
+        {
+          "word": "artificial",
+          "definition": "振る舞いや状況が自然さ・本物らしさに欠ける。",
+          "frequency": 6,
+          "difference": "この評価義では近いが、artificial には「人工の」という中立的な物質・製品の意味もある。contrived は人の作為が見えるという批判が中心。",
+          "example": "The scripted conversation created an artificial sense of intimacy.",
+          "translation": "台本どおりの会話は、不自然な親密さを生んでいました。"
+        },
+        {
+          "word": "unnatural",
+          "definition": "通常の自然なあり方から外れている。",
+          "frequency": 7,
+          "difference": "原因が人の意図的な仕組みであるとは限らず、動作・姿勢・色などにも広い。contrived は計画・作為が感じられる点に焦点がある。",
+          "example": "The actors' unnaturally slow exchanges made the dialogue feel unnatural.",
+          "translation": "俳優たちのやり取りが不自然なほど遅く、会話がぎこちなく感じられました。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "natural",
+          "definition": "振る舞いや展開が無理なく、本来の流れに見える。",
+          "frequency": 8,
+          "difference": "作為が目立つか、自然に感じられるかという評価上の反対。十分に練習・計画されていても natural に見えることはある。",
+          "example": "Their conversation felt natural even though every line had been rehearsed.",
+          "translation": "せりふはすべて練習済みでしたが、2人の会話は自然に感じられました。"
+        },
+        {
+          "word": "uncontrived",
+          "definition": "作為やわざとらしさを感じさせない。",
+          "frequency": 3,
+          "difference": "contrived を直接否定する評価。natural より改まった、作品や表現への評で使われやすい語。",
+          "example": "The photographs have an uncontrived warmth that suits the subject.",
+          "translation": "その写真には、被写体に合った、飾り気のない温かさがあります。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【動詞・他動詞】考案する・工夫して作る",
+      "frequency": 4,
+      "register": [
+        "改まった叙述・説明。巧妙さを感じさせるが、悪意や不正は必須ではない。"
+      ],
+      "definition": "方法、計画、仕掛け、装置などを、知恵を働かせて考え出したり作ったりする。限られた材料や条件を工夫する場合にも使う。目的語が計画なら、その計画を実施済みだとは限らず、装置なら実際に工夫して製作するところまで含むことがある。",
+      "patterns": [
+        "contrive 〈計画・方法・装置〉",
+        "contrive a way to do something",
+        "contrive something from 〈材料〉",
+        "something is contrived by someone・for 〈目的〉。名詞目的語の後ろの to do は、way・device などの内容や用途を説明するもので、語義1の contrive to do とは構造が違う。"
+      ],
+      "collocations": [
+        {
+          "pattern": "contrive a plan",
+          "use": "工夫を凝らして計画を立てる。",
+          "example": "They contrived a plan to keep the clinic running during the renovation.",
+          "translation": "彼らは、改装中も診療所の運営を続けられるように計画を工夫しました。"
+        },
+        {
+          "pattern": "contrive a way to do something",
+          "use": "困難を解決する方法を考え出す。",
+          "example": "The engineers contrived a way to replace the valve without shutting down the entire system.",
+          "translation": "技術者たちは、システム全体を止めずに弁を交換する方法を考え出しました。"
+        },
+        {
+          "pattern": "contrive something from something",
+          "use": "手元の材料から工夫して物を作る。",
+          "example": "She contrived a drying rack from spare wooden rails.",
+          "translation": "彼女は、余った木の棒を使って乾燥用のラックを工夫して作りました。"
+        },
+        {
+          "pattern": "be contrived for 〈目的〉",
+          "use": "工夫して作られた物と、その用途を説明する。",
+          "example": "The compact lifting device was contrived for use in narrow maintenance shafts.",
+          "translation": "その小型の持ち上げ装置は、狭い保守用の縦穴で使うために考案されました。"
+        }
+      ],
+      "notes": [
+        "contrive a plan は「計画を考え出す」、contrive to carry out the plan は「計画を何とか実行する」。考案と実行を混同しない。devise a way と構文は近いが、contrive は工夫して何とか形にした感じや、文脈次第で策略の印象が出やすい。contrive a device は新規発明だけでなく、既存の物を工夫して組み立てることにも使う。語義2の形容詞とは別に、was skilfully contrived「巧みに考案された」は好意的にも使える。connive は「不正を共謀する・見て見ぬふりをする」という対照語で、単なる計画・装置の考案を表す contrive と交換しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "devise",
+          "definition": "方法・計画・仕組みを考案する。",
+          "frequency": 7,
+          "difference": "考案そのものに焦点がある。contrive に伴いやすい苦労、巧妙な手配、不自然さの含みは必須ではない。",
+          "example": "The team devised a simpler method for tracking deliveries.",
+          "translation": "チームは、配送を追跡するより簡単な方法を考案しました。"
+        },
+        {
+          "word": "invent",
+          "definition": "それまでなかった物・方法などを作り出す。",
+          "frequency": 7,
+          "difference": "新規性に焦点がある。contrive は、既存の物を工夫してその場に必要な装置を作る場合にも使う。",
+          "example": "The researchers invented a sensor that works without a battery.",
+          "translation": "研究者たちは、電池なしで動くセンサーを発明しました。"
+        },
+        {
+          "word": "improvise",
+          "definition": "十分な準備や専用の物がない中で、即席に考えたり作ったりする。",
+          "frequency": 6,
+          "difference": "その場の対応・あり合わせの材料が中心。contrive には、長く計画して巧みに考案する場合もある。",
+          "example": "We improvised a stand from two boxes and a plank.",
+          "translation": "箱二つと板一枚で、即席の台を作りました。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞・他動詞】仕組む・巧みに実現させる",
+      "frequency": 4,
+      "register": [
+        "改まった叙述。対人関係、政治、物語などで、出来事の裏にある手配を述べる。"
+      ],
+      "definition": "出会い、出来事、状況などが起こるように、巧みに手配する。偶然に見せかけたり、裏で筋道を作ったりする含みが出ることもあるが、悪意のある欺きに限らない。",
+      "patterns": [
+        "contrive 〈出来事・状況〉",
+        "contrive a meeting between 〈人〉 and 〈人〉",
+        "contrive an opportunity to do something",
+        "something is contrived by someone。直接目的語は、考案物ではなく実現させる出来事・状況。"
+      ],
+      "collocations": [
+        {
+          "pattern": "contrive a meeting between 〈人〉 and 〈人〉",
+          "use": "当事者が会うように巧みに手配する。",
+          "example": "Their mutual friend contrived a meeting between the two rivals at a small dinner party.",
+          "translation": "共通の友人が小さな夕食会を利用し、ライバル同士の2人をうまく引き合わせました。"
+        },
+        {
+          "pattern": "contrive an opportunity to do something",
+          "use": "望む行為ができる機会を作り出す。",
+          "example": "She contrived an opportunity to speak to the director without the whole committee present.",
+          "translation": "彼女は、委員全員がいる場を避けて、責任者と話す機会をうまく作りました。"
+        },
+        {
+          "pattern": "be contrived by someone",
+          "use": "自然に起きたと思われた出来事の仕掛け人を示す。",
+          "example": "The apparently accidental encounter had been contrived by their families.",
+          "translation": "偶然に見えたその出会いは、双方の家族が仕組んだものでした。"
+        }
+      ],
+      "notes": [
+        "語義3の contrive a plan は計画そのものを作ること、ここでの contrive a meeting は会う状況を作り出すこと。contrive a meeting to discuss the project の to discuss は会合の目的、contrive to meet someone の to meet は contrive に続く実現行為で、同じ並びとして処理しない。a contrived meeting は「仕組まれた会合」という受動的な修飾にも、「わざとらしい会合」という語義2の評価にもなり得るので、前後の説明を確認する。意図的に手配したというだけで、不正行為と断定しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "arrange",
+          "definition": "出来事が実現するように手配する。",
+          "frequency": 8,
+          "difference": "中立で一般的。arrange a meeting は通常の会合の手配にも使い、contrive の巧妙さや裏の作為を必要としない。",
+          "example": "I arranged a meeting with the supplier for Friday.",
+          "translation": "金曜日に仕入れ先と会合をする手配をしました。"
+        },
+        {
+          "word": "engineer",
+          "definition": "望む状況や結果を、計画的・巧妙に実現させる。",
+          "frequency": 5,
+          "difference": "政治的な変化、取引、成功など大きな結果にも使い、意図的な操作を強く感じさせる。ここでは技術者として設計する意味ではない。",
+          "example": "The negotiators engineered a compromise that both sides could accept.",
+          "translation": "交渉担当者たちは、双方が受け入れられる妥協案を巧みにまとめました。"
+        },
+        {
+          "word": "orchestrate",
+          "definition": "複数の人や要素を組み合わせ、出来事や活動を計画的に進める。",
+          "frequency": 5,
+          "difference": "全体を指揮・調整する点が中心。contrive は、一つの機会や出会いを工夫して作る場合にも使える。",
+          "example": "The campaign team orchestrated a series of public appearances.",
+          "translation": "選挙運動のチームは、一連の公の場への登場を綿密に手配しました。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【動詞・自動詞・低頻度】策をめぐらす",
+      "frequency": 2,
+      "register": [
+        "文語的・文学的で、現代の普通の会話ではまれ。まず contrive to do と名詞目的語の型を優先する。"
+      ],
+      "definition": "具体的な計画や実現行為を目的語・補部として示さず、計画を練る、策略を考えるという活動を述べる。企みの文脈で使われやすいが、計画する活動という広い意味でも辞書に収録されている。",
+      "patterns": [
+        "someone + contrive。直接目的語・to 不定詞なしで活動を述べ、時間や様子を副詞句で加えられる。この自動詞型そのものには受動態を作らない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "someone + contrive",
+          "use": "文学的な叙述で、人物が裏で策を練る活動を述べる。",
+          "example": "While the council argued in public, the minister contrived in private.",
+          "translation": "評議会が公の場で議論する一方、大臣は裏で策をめぐらせていた。"
+        }
+      ],
+      "notes": [
+        "目的語なしで使えるからといって、現代のあらゆる plan の代わりに contrive を勧めるわけではない。I am planning for next week. のような普通の予定作りには plan が適する。contrive to do の補部を省いた形として毎回「何とか成功する」と訳すのではなく、この用法では計画・策略を練る活動を読む。"
+      ],
+      "synonyms": [
+        {
+          "word": "scheme",
+          "definition": "自分に都合のよい結果を得るため、ひそかに策をめぐらす。",
+          "frequency": 5,
+          "difference": "動詞では秘密の企みや不正の印象が出やすい。単独自動詞 contrive より、現代の策略の描写で使いやすい。",
+          "example": "The rivals continued to scheme behind the chairman's back.",
+          "translation": "ライバルたちは、議長の知らないところで策をめぐらせ続けました。"
+        },
+        {
+          "word": "plot",
+          "definition": "ひそかに計画を立てる・企む。",
+          "frequency": 6,
+          "difference": "害を与える計画や権力争いなどを示しやすい。plot against someone とすると、企みの標的を明示できる。",
+          "example": "Several officials were plotting against the governor.",
+          "translation": "複数の役人が、知事に対する陰謀を企てていました。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
