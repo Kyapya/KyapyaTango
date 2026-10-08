@@ -1,0 +1,338 @@
+{
+  "word": "implicate",
+  "slug": "implicate",
+  "ipa": "米・英: /ˈɪmplɪkeɪt/。3音節で、第1音節に主強勢がある。第2音節の母音は /ɪ/、第3音節は /eɪ/。米音では第2音節を /ə/ とする発音もある。",
+  "lead": "人や組織が犯罪、不正、好ましくない出来事に関係していることを示す、またはその疑いを向ける。証拠・発言・供述が主語になり、人が発言などによって別の人の関与を示すこともある。関与を示す強さは文脈によって異なり、疑いの段階から明確な証拠のある場合まで含む。有罪判決を下すこととは異なる。",
+  "updated": "2026-10-08",
+  "notion_url": "https://app.notion.com/p/implicate-3f34faa9b77d819b9ec1e36a523463cb",
+  "pronunciation": [
+    "implicated /ˈɪmplɪkeɪtɪd/、implicating /ˈɪmplɪkeɪtɪŋ/。implicated は -ed が /ɪd/ となり、1音節増える。名詞 implication /ˌɪmplɪˈkeɪʃn/ では主強勢が第3音節へ移る。"
+  ],
+  "etymology": [
+    "ラテン語 implicare「折り込む、絡ませる」の過去分詞 implicatus に由来し、in-「中に」と plicare「折る」が組み合わさった語。ある物事との関係に組み込むというつながりがある。",
+    "imply「ほのめかす」、employ「雇う、用いる」も歴史的に implicare につながる。ただし現代英語では、imply と implicate の目的語や意味をそのまま交換できない。「物を絡み合わせる」という古風な物理義は、現代の主要な使用ではない。"
+  ],
+  "formation": [
+    {
+      "term": "implication",
+      "description": "名詞。「暗に示される意味」「予想される影響・結果」「不正などへの関与」を表す。複数形 implications の「影響」を、動詞 implicate のすべての用法へ逆に当てはめない。"
+    },
+    {
+      "term": "implicature",
+      "description": "名詞。言語学・語用論の「含意」。発話の明示内容とは区別される伝達内容を指し、語義4と結びつく。"
+    },
+    {
+      "term": "implicated",
+      "description": "過去形・過去分詞。the officials implicated in the scandal のような後置修飾、the implicated officials のような前置修飾にも使う。関与が問題とされることを表し、それだけで有罪確定を意味しない。"
+    },
+    {
+      "term": "implicating",
+      "description": "現在分詞・動名詞。evidence implicating someone のように、誰の関与を示す証拠かを説明できる。"
+    }
+  ],
+  "core": [
+    {
+      "label": "ある事柄と、そこに関わる人・物・権利・意味の結びつきを示す。誰・何がどのような関係に置かれるかを、目的語と後続内容から読む。",
+      "description": ""
+    },
+    {
+      "label": "人を不正との関係に結びつけること",
+      "description": "→ 「不正・事件への関与を示す、巻き込む」（語義1）"
+    },
+    {
+      "label": "要因を作用との関係に結びつけること",
+      "description": "→ 「原因・過程への関与を示す」（語義2）"
+    },
+    {
+      "label": "権利を問題との関係に結びつけること",
+      "description": "→ 「権利・原則などに関わる、それらを問題にする」（語義3）"
+    },
+    {
+      "label": "発話を含意内容との関係に結びつけること",
+      "description": "→ 「発話によって含意を伝える」（語義4）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞：他動詞】不正・事件への関与を示す、巻き込む",
+      "frequency": 6,
+      "register": [
+        "ニュース、捜査・不祥事報道、法務、硬めの一般文。犯罪に限らず、不正な取引や組織の失態などにも使う。"
+      ],
+      "definition": "人や組織が犯罪、不正、好ましくない出来事に関係していることを示す、またはその疑いを向ける。証拠・発言・供述が主語になり、人が発言などによって別の人の関与を示すこともある。関与を示す強さは文脈によって異なり、疑いの段階から明確な証拠のある場合まで含む。有罪判決を下すこととは異なる。",
+      "patterns": [
+        "implicate someone (in 〈事件・不正〉)＝人の関与を示す",
+        "implicate someone as 〈関与した役割を表す名詞句〉＝ある役割の人物として関与を示す",
+        "implicate oneself (in 〈事件・不正〉)＝自分の関与を示してしまう。受動は someone + be implicated (in 〈事件・不正〉)、be implicated by 〈証拠・供述など〉。in は何への関与か、by は何がその関与を示すかを表す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "implicate someone in 〈事件・不正〉",
+          "use": "証拠・供述などが、誰をどの事件と結びつけるかを示す。",
+          "example": "The emails implicated two managers in the bid-rigging scheme.",
+          "translation": "そのメールから、2人の管理職が入札談合に関わっていたことが示された。"
+        },
+        {
+          "pattern": "implicate someone",
+          "use": "事件が既に分かっているとき、関与を示された人に焦点を当てる。",
+          "example": "Asked about the missing funds, the accountant refused to say anything that might implicate her colleagues.",
+          "translation": "行方不明の資金について尋ねられた会計担当者は、同僚に疑いが及びかねない発言を拒んだ。"
+        },
+        {
+          "pattern": "be implicated in a scandal",
+          "use": "不祥事への関与が明らかになる、または疑われていることを述べる。",
+          "example": "Several senior officials were implicated in the bribery scandal.",
+          "translation": "複数の高官に、その贈収賄事件への関与の疑いがかかった。"
+        },
+        {
+          "pattern": "implicate oneself in 〈不正〉",
+          "use": "自分の発言や行動によって、自分自身の関与を示す。",
+          "example": "By describing how the invoices had been altered, he implicated himself in the fraud.",
+          "translation": "請求書をどのように改ざんしたか説明したことで、彼は自ら詐欺への関与を明らかにした。"
+        },
+        {
+          "pattern": "implicate someone as 〈関与した役割を表す名詞句〉",
+          "use": "事件への関与だけでなく、その中で担った役割を示す。",
+          "example": "The witness's account implicated her as the organizer of the scheme.",
+          "translation": "目撃者の話によって、彼女がその不正計画の取りまとめ役だった疑いが浮かんだ。"
+        }
+      ],
+      "notes": [
+        "基本は implicate someone in something。accuse someone of something「～のことで人を非難・告発する」の of を持ち込んで implicate someone of fraud とはしない。as の後ろは the organizer のような役割で、in the scheme は関与した出来事を表す。",
+        "「巻き込む」と訳しても、必ず本人を勧誘して実際に犯罪へ参加させる意味ではない。A witness implicated him. は普通「証人が彼の関与を示す証言をした」という意味。The manager involved him in the project.「管理者が彼をプロジェクトに参加させた」の中立的な involve を、implicate へ機械的に置き換えない。",
+        "implicate himself は主語と目的語が同じ人である能動の再帰構文。He was implicated in the fraud. は「彼の関与が示された」という受動・結果の表現で、himself を省略した形ではない。分詞修飾の implicated も通常この関与の意味を保ち、独立した心理状態を表す形容詞として覚える必要はない。",
+        "falsely implicate someone「人に誤った嫌疑をかける」も成立するため、implicate が出た時点で実際の責任・有罪が確定したとは限らない。逆に「常に根拠の薄い疑いだけ」という意味でもなく、証拠の内容を読む。"
+      ],
+      "synonyms": [
+        {
+          "word": "incriminate",
+          "definition": "人の有罪や不正を示す証拠となる、人を犯罪と結びつける。",
+          "frequency": 4,
+          "difference": "implicate とよく重なるが、incriminate は犯罪上の責任を示すことに焦点を置きやすい。incriminate oneself は自分に不利な証拠・発言を提供すること。",
+          "example": "The recording could incriminate the suspect.",
+          "translation": "その録音は、容疑者の犯行を示す証拠となり得る。"
+        },
+        {
+          "word": "involve",
+          "definition": "人を物事に関係・参加させる。",
+          "frequency": 9,
+          "difference": "involve は良い活動や中立的な参加にも使える。implicate のこの語義は不正などとの結びつきに重点があり、証拠によって関与を示す場合が多い。",
+          "example": "He involved his assistant in the cover-up.",
+          "translation": "彼は隠蔽工作に助手を巻き込んだ。"
+        },
+        {
+          "word": "link",
+          "definition": "人と出来事とのつながりを示す、結びつける。",
+          "frequency": 7,
+          "difference": "link someone to something が基本で、つながり自体は犯罪・責任に限らない。implicate someone in something の方が、不正への関与を示すことが明確。",
+          "example": "The documents linked him to the illegal payments.",
+          "translation": "その文書から、彼と違法な支払いとのつながりが示された。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "exonerate",
+          "definition": "人に責任や罪がないと認める、疑いを晴らす。",
+          "frequency": 4,
+          "difference": "責任との結びつきを示す implicate に対し、その結びつきを否定して人を免責する方向の対立。implicate されなかっただけで、exonerate されたことにはならない。",
+          "example": "The independent inquiry exonerated the director.",
+          "translation": "独立調査は、その責任者に責任がないと結論づけた。"
+        },
+        {
+          "word": "clear",
+          "definition": "人にかけられた嫌疑や非難を晴らす。",
+          "frequency": 6,
+          "difference": "clear someone of something が基本。責任を疑わせる方向と、疑いを取り除く方向が対立し、形式的な論理上の完全な補集合ではない。",
+          "example": "The new evidence cleared her of wrongdoing.",
+          "translation": "新しい証拠によって、彼女の不正行為の疑いが晴れた。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【動詞：他動詞】原因・過程への関与を示す",
+      "frequency": 5,
+      "register": [
+        "科学・医学の研究記述、技術調査、原因分析。一般の「物が関係する」より、証拠にもとづいて関与を指摘する硬い言い方。"
+      ],
+      "definition": "証拠・研究結果などが、物質、要因、仕組み、部位などの、ある結果・作用・過程への関与を示す。事故や疾病など悪い結果の原因を指摘する用法が目立つが、科学文献では通常の学習・記憶などへの関与にも使う。単なる同時発生より踏み込んだ役割を示唆し得るが、この語だけで因果関係の確証や唯一の原因であることは保証しない。",
+      "patterns": [
+        "implicate something in 〈結果・過程〉＝その結果・過程への関与を示す",
+        "implicate something as 〈原因・役割を表す名詞句〉＝そのような原因・役割を持つものとして指摘する。受動は something + be implicated in 〈結果・過程〉、be implicated as 〈原因・役割を表す名詞句〉。人を不正に結びつける語義1と同じ形でも、目的語・主語と後続内容が異なる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "implicate something in 〈結果・過程〉",
+          "use": "証拠が、特定の要因の関与を示す。",
+          "example": "The test results implicated a faulty sensor in the equipment failure.",
+          "translation": "試験結果から、装置の故障にセンサーの不具合が関わっていたことが示された。"
+        },
+        {
+          "pattern": "implicate something as a cause of 〈結果〉",
+          "use": "ある要因を原因の一つとして位置づける。",
+          "example": "The investigation implicated poor maintenance as a cause of the breakdown.",
+          "translation": "調査は、保守管理の不備を故障の原因の一つとして指摘した。"
+        },
+        {
+          "pattern": "be implicated in 〈生理・認知などの過程〉",
+          "use": "ある部位や仕組みが、通常の働きに関わるとする研究記述。",
+          "example": "Several brain regions have been implicated in memory formation.",
+          "translation": "複数の脳領域が、記憶の形成に関わることが示されている。"
+        },
+        {
+          "pattern": "be implicated as a contributing factor",
+          "use": "唯一の原因ではなく、結果に寄与する一因とする。",
+          "example": "Inadequate ventilation was implicated as a contributing factor in the overheating.",
+          "translation": "換気不足が、過熱を招いた一因として指摘された。"
+        }
+      ],
+      "notes": [
+        "in の後ろは関与先の出来事・過程で、as の後ろは要因に与える役割。implicate a defect in the failure「欠陥と故障との関係を示す」と implicate a defect as a cause「欠陥を原因として指摘する」を対応させる。in と as を同じ役割の前置詞として丸暗記しない。",
+        "be implicated in memory formation の implicated を「犯罪に加担している」と読まない。語義1の否定的な傾向を、あらゆる科学用例の必須条件にしない。一方、研究対象、証拠、測定条件が分からなければ、どの程度の関与・因果が分かったかまでは判断できない。",
+        "imply は「言外に示す・含意する」。The findings imply that further testing is needed.「結果は、追加試験が必要だということを示唆する」と、The findings implicate a faulty sensor.「結果は、センサーの不具合の関与を示す」では、節で結論を示す形と、関与する要因を目的語にする形が異なる。言語学・語用論の implicate that節 は語義4で扱う。この専門的な「含意する」用法があることと、日常的な imply のあらゆる that節を自由に置き換えられることは別である。"
+      ],
+      "synonyms": [
+        {
+          "word": "link",
+          "definition": "物事の間に関連を認める、関連づける。",
+          "frequency": 7,
+          "difference": "link A to B は関連を広く示し、因果的な役割まで特定するとは限らない。implicate は A が B にどう関与するかを問題にする文脈で使う。",
+          "example": "The analysis linked the failures to changes in temperature.",
+          "translation": "その分析は、故障と温度変化との関連を示した。"
+        },
+        {
+          "word": "associate",
+          "definition": "二つの物事の関連を認める、結びつける。",
+          "frequency": 7,
+          "difference": "associate A with B が基本で、特に研究では相関・関連を表す。implicate と同じく、語だけで確実な因果を示すわけではない。",
+          "example": "The study associated longer delays with lower customer satisfaction.",
+          "translation": "その研究は、遅延時間の長さと顧客満足度の低さとの関連を示した。"
+        },
+        {
+          "word": "involve",
+          "definition": "ある活動・過程の一部として、物や仕組みを含む。",
+          "frequency": 8,
+          "difference": "involve は過程の構成そのものを述べる。implicate は調査や証拠が対象の関与を示すことに焦点を置くため、同じ主語で置き換えると意味が変わり得る。",
+          "example": "The repair process involves several separate tests.",
+          "translation": "修理工程には、複数の独立した試験が含まれる。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞：他動詞】権利・原則などに関わる、それらを問題にする",
+      "frequency": 3,
+      "register": [
+        "主に米国の法律文書・司法上の議論。原則や利益を論じる学術・政策文書にも見られる硬い用法。"
+      ],
+      "definition": "ある行為、規制、争点などが、権利・法規・原則の適用や保護に関係し、その検討を必要とする。人を犯罪に結びつける意味ではなく、ある問題がどの規範や利益に関わるかを示す。権利が関係することと、権利侵害が成立することは別である。",
+      "patterns": [
+        "〈措置・行為・争点〉 + implicate + 〈権利・法規・原則〉。受動は 〈権利・原則〉 + be implicated by 〈措置など〉、be implicated in 〈問題など〉。この型では、直接目的語が不正を行った主体ではなく、関係する規範や利益である。"
+      ],
+      "collocations": [
+        {
+          "pattern": "implicate constitutional rights",
+          "use": "米国の法的議論で、ある措置が憲法上の権利に関わることを述べる。",
+          "example": "The court considered whether the restriction implicated constitutional rights.",
+          "translation": "裁判所は、その制限が憲法上の権利に関わるかどうかを検討した。"
+        },
+        {
+          "pattern": "implicate the First Amendment",
+          "use": "米国憲法修正第1条との関係が論点になることを示す。",
+          "example": "The parties disputed whether the regulation implicated the First Amendment.",
+          "translation": "当事者は、その規制が米国憲法修正第1条に関わるかどうかを争った。"
+        },
+        {
+          "pattern": "〈権利〉 + be implicated by 〈措置〉",
+          "use": "行為よりも、影響を受け得る権利に焦点を置く。",
+          "example": "The brief explained which privacy rights were implicated by the proposed search.",
+          "translation": "その準備書面は、予定されている捜索がどのプライバシー上の権利に関わるのかを説明した。"
+        }
+      ],
+      "notes": [
+        "implicate a right は、その権利を「犯罪に巻き込む」ことでも、その権利が「犯罪を起こす」ことでもない。infringe／violate a right「権利を侵害する」より前の、どの権利が問題となるかという段階を表せる。米国連邦最高裁の TikTok Inc. v. Garland（2025年）でも、修正第1条が関係するかという論点と、その権利に違反するかという論点は分けられている。この区別を、別の法域での具体的な適用要件や救済の成立まで一般化しない。",
+        "目的語が rights、the First Amendment、principles などならこの読みを検討する。人物が主語の She implicated the official. と、規制が主語の The rule implicates privacy rights. では、同じ他動詞でも意味役割が違う。一般的な「この決定には影響がある」は This decision has implications. と表し、implication の「影響」を使って This decision implicates. と目的語なしにしない。"
+      ],
+      "synonyms": [
+        {
+          "word": "involve",
+          "definition": "問題の中に権利・原則・争点などを含む、それらに関わる。",
+          "frequency": 7,
+          "difference": "involve は領域を問わず広く使う。implicate は、特に権利・規範が検討対象となる関係を示す法律文体で使われやすい。",
+          "example": "The case involves fundamental questions of fairness.",
+          "translation": "その事件には、公平性に関する根本的な問題が関わっている。"
+        },
+        {
+          "word": "concern",
+          "definition": "問題や議論の対象として、ある事柄に関係する。",
+          "frequency": 8,
+          "difference": "concern は何についての問題かを中立的に示す。implicate は、その権利や原則の適用・保護が問題に関わってくる点に重点がある。",
+          "example": "The appeal concerns the scope of the right to privacy.",
+          "translation": "その上訴は、プライバシー権の範囲に関するものである。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞：他動詞】発話によって含意を伝える",
+      "frequency": 2,
+      "register": [
+        "言語学、語用論、言語哲学の専門語。一般会話では imply の方が広く使われる。"
+      ],
+      "definition": "言語学・語用論で、発話の明示内容とは別の意味を、その発話を通じて伝える。話者が何を言ったかと、そこからどのような内容を伝えたかを区別するときに使う。会話的含意では文脈と推論が重要で、明示された文が論理的にその内容を必ず意味するとは限らない。",
+      "patterns": [
+        "〈話者〉 + implicate that節＝発話を通じて～という含意を伝える",
+        "〈話者・発話〉 + implicate 〈含意内容を表す名詞句〉＝その内容を含意する",
+        "conversationally implicate that節＝会話的に～を含意する。受動は 〈含意内容〉 + be implicated (by 〈発話〉)。話者が特定の場面で伝える意味と、文・表現に帰される含意は、分析上区別される。"
+      ],
+      "collocations": [
+        {
+          "pattern": "〈話者〉 + implicate that節",
+          "use": "明示された内容と、語用論上の含意を区別する。",
+          "example": "By saying \"Some of the files are ready,\" the speaker may implicate that not all of them are ready.",
+          "translation": "「ファイルの一部は用意できている」と言うことで、話者は、全部が用意できているわけではないという含意を伝えることがある。"
+        },
+        {
+          "pattern": "conversationally implicate 〈含意内容〉",
+          "use": "文脈を通じて伝わる内容を、名詞句で示す。",
+          "example": "Said by a guest at midnight, \"It's getting late\" may conversationally implicate a wish to leave.",
+          "translation": "客が真夜中に「遅くなってきましたね」と言えば、帰りたいという意向を会話的に含意することがある。"
+        },
+        {
+          "pattern": "be implicated rather than explicitly stated",
+          "use": "ある内容が明言されたのか、含意として伝わったのかを区別する。",
+          "example": "In that exchange, the refusal was implicated rather than explicitly stated.",
+          "translation": "そのやり取りでは、拒否は明言されたのではなく、含意として伝えられていた。"
+        }
+      ],
+      "notes": [
+        "この領域では implicate that節 が成立する。語義2の「関与する要因を目的語にする」型だけが implicate の全用法ではない。conversationally implicate that not all the files are ready は、ファイルを事件に巻き込む意味ではなく、「全部ではない」という意味内容を伝える専門的記述である。",
+        "「一部は用意できている」と言った後で「実は全部用意できている」と続ければ、「全部ではない」という会話的含意を取り消すことができる。会話的含意と、entail「論理的に必然の帰結として含む」を同一視しない。ただし implicature には conventional implicature「慣習的含意」など別の分類もあるため、あらゆる含意が同じ仕方で取り消せると一般化しない。",
+        "話者が implicate するのは、発話を通じて伝える側の働き。聞き手が意味を推測することは infer。The speaker implicated that she wanted to leave.「話者は帰りたいと含意した」と、The listener inferred that she wanted to leave.「聞き手は彼女が帰りたいのだと推測した」を分ける。"
+      ],
+      "synonyms": [
+        {
+          "word": "imply",
+          "definition": "内容を明言せずに示す、暗に伝える。",
+          "frequency": 8,
+          "difference": "一般的な文章・会話でも広く使う。implicate はこの意味では主に含意を分析する専門語で、すべての日常的な imply を置き換えるものではない。",
+          "example": "Her reply implied that she preferred the earlier plan.",
+          "translation": "彼女の返答からは、以前の計画の方がよいと考えていることがうかがえた。"
+        },
+        {
+          "word": "suggest",
+          "definition": "内容を直接断言せず、そうだと考えさせる。",
+          "frequency": 8,
+          "difference": "広い語で、発話だけでなく状況・証拠を主語にもできる。専門的な implicate のように、明示内容と含意の理論上の区別を特定しない。",
+          "example": "His hesitation suggested that he was not convinced.",
+          "translation": "彼のためらいからは、納得していないことがうかがえた。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
