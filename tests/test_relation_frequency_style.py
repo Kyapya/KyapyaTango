@@ -13,7 +13,7 @@ from build_site import relation_cards
 class RelationFrequencyStyleTests(unittest.TestCase):
     def test_frequency_uses_the_same_muted_size_as_card_labels(self) -> None:
         css = (ROOT / "assets/site.css").read_text(encoding="utf-8")
-        frequency = re.search(r"\.relation-card>h4\+p:not\(\.ja\)\{([^}]+)\}", css).group(1)
+        frequency = re.search(r"\.relation-card>h4\+p:not\(\.ja\):not\(\.relation-definition\)\{([^}]+)\}", css).group(1)
         labels = re.search(r"\.collocation p b,\.relation-card p b\{([^}]+)\}", css).group(1)
         for declaration in ("color:var(--muted)", "font-size:11px"):
             self.assertIn(declaration, frequency)
