@@ -3,7 +3,7 @@
   "slug": "attribute",
   "ipa": "動詞は米・英: /əˈtrɪbjuːt/、名詞は米・英: /ˈætrɪbjuːt/。いずれも3音節だが、動詞は第2音節、名詞は第1音節に主強勢がある。第1音節の母音も、動詞では弱い /ə/、名詞では /æ/ に変わる。第2音節の母音は /ɪ/、第3音節の母音は /uː/。",
   "lead": "ある結果・出来事を、特定の原因や人の働きによって生じたものと判断・説明すること。直接目的語が結果、to の後ろが原因である。成功にも失敗にも使え、それ自体は賞賛・非難を意味しない。原因の帰属を述べる語であり、その因果関係が客観的に証明済みだとは限らない。",
-  "updated": "2026-10-07",
+  "updated": "2026-10-09",
   "notion_url": "https://app.notion.com/p/attribute-3f24faa9b77d81f3b44dc80fd4117c0f",
   "pronunciation": [
     "動詞の attributed は /əˈtrɪbjuːtɪd/ で、-ed が /ɪd/ という第4音節を加える。attributing も語末の e を落とし、/əˈtrɪbjuːtɪŋ/ と発音する。名詞の複数形と動詞の三人称単数形はともに attributes だが、名詞は /ˈætrɪbjuːts/、動詞は /əˈtrɪbjuːts/ と強勢が異なる。"
@@ -36,23 +36,23 @@
   ],
   "core": [
     {
-      "label": "ある対象に、原因・出所・性質として何を結び付けて認識するか、という関係が中心にある。動詞は帰属先を判断すること、名詞は対象を特徴付ける性質やしるしを指す。",
-      "description": ""
+      "label": "ある事柄をその原因・出所・持ち主に結び付けて認識する関係が中心にあり、名詞は対象を特徴付ける性質やしるしを指す。動詞",
+      "description": "attribute A to B では、Aが結果・作品や発言・性質や意図、Bがそれぞれ原因・作者や出所・持ち主に当たる。"
     },
     {
-      "label": "対象に原因を結び付ける判断",
-      "description": "→ 「～を…に起因すると考える」（語義1）"
+      "label": "結果Aを原因Bによるものと見る判断",
+      "description": "→ 「～を…に起因するものと考える」（語義1）"
     },
     {
       "label": "対象に性質として結び付く特徴",
       "description": "→ 「特性、資質」（語義2）"
     },
     {
-      "label": "対象に作者・出所を結び付ける判断",
+      "label": "作品・発言AをBに由来するものと見る判断",
       "description": "→ 「～を…の作・発言とする」（語義3）"
     },
     {
-      "label": "対象に性質・意図を結び付ける判断",
+      "label": "性質・意図AをBの持つものと見る判断",
       "description": "→ 「～という性質・意図を…に帰する」（語義4）"
     },
     {
@@ -72,7 +72,7 @@
   "senses": [
     {
       "number": 1,
-      "title": "【動詞・他動詞】～を…に起因すると考える",
+      "title": "【動詞・他動詞】～を…に起因するものと考える",
       "frequency": 7,
       "register": [
         "分析、報道、研究、ビジネスの説明など。やや硬い。"
@@ -191,7 +191,7 @@
         }
       ],
       "notes": [
-        "attribute of the product の of は名詞の「製品の特性」を示す。一方、attribute the defect to the design は動詞で「欠陥を設計に起因すると考える」。名詞は第1音節、動詞は第2音節に強勢がある。誤: Flexibility is important attribute. → 正: Flexibility is an important attribute.。positive attributes、negative attributes のどちらも使え、attribute を「長所」に限定しない。哲学などで essential attribute「本質的属性」と使うことはあるが、日常の attribute 自体が常に本質的・不可欠だとは限らない。情報技術で値として扱う属性は語義5、具体的な象徴物は語義6と区別する。"
+        "attribute of the product の of は名詞の「製品の特性」を示す。一方、attribute the defect to the design は動詞で「欠陥を設計に起因するものと考える」。名詞は第1音節、動詞は第2音節に強勢がある。誤: Flexibility is important attribute. → 正: Flexibility is an important attribute.。positive attributes、negative attributes のどちらも使え、attribute を「長所」に限定しない。哲学などで essential attribute「本質的属性」と使うことはあるが、日常の attribute 自体が常に本質的・不可欠だとは限らない。情報技術で値として扱う属性は語義5、具体的な象徴物は語義6と区別する。"
       ],
       "synonyms": [
         {
@@ -409,7 +409,7 @@
         }
       ],
       "notes": [
-        "この語義は「～に起因すると考える」という動詞ではない。set an attribute は、名詞 attribute を目的語に取る set の構文である。HTMLの attribute と、対応するオブジェクトの property は関係していても常に同一とは限らない。すべてのコンピューター用語を一律に「プロパティ」と置き換えず、その言語・形式での用語を確認する。名詞 attribute は「値」そのものに限定されず、attribute name と attribute value を区別する。"
+        "この語義は「～を…に起因するものと考える」という動詞ではない。set an attribute は、名詞 attribute を目的語に取る set の構文である。HTMLの attribute と、対応するオブジェクトの property は関係していても常に同一とは限らない。すべてのコンピューター用語を一律に「プロパティ」と置き換えず、その言語・形式での用語を確認する。名詞 attribute は「値」そのものに限定されず、attribute name と attribute value を区別する。"
       ],
       "synonyms": [
         {
@@ -430,7 +430,7 @@
       "register": [
         "美術史、図像学、宗教美術、文学の解説。"
       ],
-      "definition": "美術・図像・文学などで、人物・神・聖人・身分などを見分けるために結び付けられる物やしるし。「持物」は「じもつ」と読み、描かれた人物の同定に役立つ象徴物を指す。語義2の内面的な性質とは異なり、具体的な物であることが多い。",
+      "definition": "美術・図像・文学などで、人物・神・聖人・身分などを見分けるために結び付けられる物やしるし。「持物」は「じもつ」と読み、描かれた人物の同定に役立つ象徴物を指す。語義2の性質・特徴とは異なり、人物などの同定に使われる具体的な物やしるしを指す。",
       "patterns": [
         "an attribute of 〈人物・神・身分〉＝その対象に結び付く象徴物",
         "someone's traditional attributes＝その人物を表す伝統的な持物。可算名詞である。"

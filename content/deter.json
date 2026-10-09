@@ -3,7 +3,7 @@
   "slug": "deter",
   "ipa": "米: /dɪˈtɜːr/｜英: /dɪˈtɜː/。2音節で、第2音節に主強勢がある。違いは第2音節で、米語では母音に /r/ の響きが伴い、標準的な英語の非R音性発音では語末の /r/ を発音しない。英語でも直後に母音が続くと、deter an attacker のように /r/ が連結することがある。第1音節の母音は米英ともここでは /ɪ/ を示している。",
   "lead": "危険、不利益、負担、障害などによって、人や動物がある行動を控えるようにする。人を目的語に取る場合と、crime、investment など抑える行動・活動を目的語に取る場合がある。目的語を明示せず「抑止効果を持つ」と述べる自動詞用法もある。主語は警告・制度など意図的に設けたものに限らず、高い料金、悪天候、失敗への不安などでもよい。",
-  "updated": "2026-10-07",
+  "updated": "2026-10-09",
   "notion_url": "https://app.notion.com/p/deter-3f24faa9b77d810d963de6f3507137b4",
   "pronunciation": [
     "deters は米 /dɪˈtɜːrz/・英 /dɪˈtɜːz/、deterred は米 /dɪˈtɜːrd/・英 /dɪˈtɜːd/。これらも第2音節の /r/ の有無が異なる。deterring /dɪˈtɜːrɪŋ/ では、米英とも第2音節の後に /r/ が現れ、3音節になる。綴りは deterred / deterring のように r を重ねる。"
@@ -27,7 +27,7 @@
     },
     {
       "term": "deterred",
-      "description": "/ deterring は基本的に動詞の過去分詞・現在分詞。deterred applicants は「応募を思いとどまった応募者たち」のように文脈で成立するが、単なる「落胆した人」を指す一般形容詞として広げない。抑止効果のあるものを形容する通常の形は deterrent。"
+      "description": "/ deterring は基本的に動詞の過去分詞・現在分詞。deterred potential applicants は「応募を考えていたが思いとどまった人たち」のように文脈で成立するが、単なる「落胆した人」を指す一般形容詞として広げない。抑止効果のあるものを形容する通常の形は deterrent。"
     }
   ],
   "core": [],
@@ -90,8 +90,8 @@
         {
           "pattern": "be deterred by 〈要因〉（deter の受動態）",
           "use": "行動を控える側を主語にし、その理由を by で示す。",
-          "example": "Several applicants were deterred by the lengthy selection process.",
-          "translation": "選考過程が長いため、応募を思いとどまった人が何人もいた。"
+          "example": "Several potential applicants were deterred by the lengthy selection process.",
+          "translation": "応募を考えていたが、選考過程が長いため思いとどまった人が何人もいた。"
         },
         {
           "pattern": "be deterred from doing（deter someone from doing の受動態）",
@@ -115,7 +115,7 @@
       "notes": [
         "基本は deter someone from doing で、deter someone to do とはしない。The fee deterred me from applying.「料金のため応募を見送った」と、The fee prevented me from applying.「料金のため応募できなかった」を比べると、前者は判断・意欲への作用、後者は行動が阻まれた結果に重点がある。ただし現実には、費用負担が意欲と実行可能性の両方に関わることもある。",
         "人の目的語を必須と考えない。deter theft「盗難を抑止する」、deter investment「投資を抑える」のように行動名詞も置ける。また、Penalties should deter.「罰則は抑止効果を持つべきだ」のように、対象が共有されていると自動詞として使える。一方、I deter. だけで「私は思いとどまる」とは通常言わない。自分が抑止される側なら I am deterred、単に考えを変えるなら I decide against it などとする。",
-        "from 以下と by 以下は役割が違う。Applicants were deterred from applying by the fee. では、from applying が控える行動、by the fee が原因。過去分詞 deterred は受動や結果状態を表し、seem deterred のような状態描写もできるが、「悲しい、がっかりした」一般なら disappointed / discouraged を使う。",
+        "from 以下と by 以下は役割が違う。Potential applicants were deterred from applying by the fee. では、from applying が控える行動、by the fee が原因。過去分詞 deterred は受動や結果状態を表し、seem deterred のような状態描写もできるが、「悲しい、がっかりした」一般なら disappointed / discouraged を使う。",
         "肯定の具体的な過去文 The warning deterred him from entering. は、普通は警告のため入るのをやめたと述べる。一方、deter crime のような総称的な表現や help / aim / try / may を伴う文は、犯罪が必ずゼロになったことを意味しない。抑止を試みたこと、一定の効果があること、全対象への完全な成功を区別する。",
         "dissuade は通常、理由を述べて人を説得し、行動をやめさせる。deter は直接の説得なしでも、料金や危険が作用すれば使える。preclude は条件が実行を不可能にする意味で、deter のように「できるが、割に合わないので控える」とも読める語とは区別する。外交・刑事政策でも、deter は将来の行為への抑止、punish は通常すでに行った行為への処罰であり、両者を同義にしない。"
       ],
@@ -203,7 +203,7 @@
           "pattern": "help deter corrosion",
           "use": "腐食を完全に止めると断定せず、抑制への寄与を述べる。",
           "example": "The report recommends a coating to help deter corrosion during storage.",
-          "translation": "報告書は、保管中の腐食を抑えるため、塗装を施すことを勧めている。"
+          "translation": "報告書は、保管中の腐食を抑えるのに役立つ塗装を施すことを勧めている。"
         }
       ],
       "notes": [
