@@ -42,10 +42,16 @@ def relation_cards(items: list[dict]) -> str:
         frequency = ""
         if type(score) is int and 1 <= score <= 10:
             frequency = f'<p>頻度 {score}/10</p>'
+        definition = item.get("definition", "")
+        definition_html = (
+            f'<p class="relation-definition"><b>定義</b>{escape(definition)}</p>'
+            if definition.strip() else ""
+        )
         cards.append(
             f'''<article class="relation-card searchable">
           <h4>{escape(item['word'])}</h4>
           {frequency}
+          {definition_html}
           <p class="ja"><b>違い</b>{escape(item['difference'])}</p>
           <p><b>例</b>{escape(item['example'])}</p>
           <p class="ja"><b>訳</b>{escape(item['translation'])}</p>
@@ -104,6 +110,40 @@ def overview_panel(title: str, inner: str, ident: str) -> str:
     return f'<section class="overview-card searchable" id="{ident}"><h2>{escape(title)}</h2>{inner}</section>'
 
 
+def core_html(items: list[dict]) -> str:
+    """Render typed source blocks; never guess lost separators in legacy JSON."""
+    if items and all("type" not in item for item in items):
+        return '<div class="core-grid">' + "".join(
+            f'<div class="core-item"><b>{escape(item["label"])}</b>'
+            f'<span class="ja">{escape(item["description"])}</span></div>'
+            for item in items
+        ) + "</div>"
+    parts = []
+    in_list = False
+    for item in items:
+        if item.get("type") == "paragraph":
+            if in_list:
+                parts.append("</ul>")
+                in_list = False
+            parts.append(f'<p class="core-paragraph">{escape(item["text"])}</p>')
+        elif item.get("type") == "item":
+            if not in_list:
+                parts.append('<ul class="core-grid core-branches">')
+                in_list = True
+            parts.append(f'<li class="core-item">{escape(item["text"])}</li>')
+        else:
+            if in_list:
+                parts.append("</ul>")
+                in_list = False
+            parts.append(
+                f'<div class="core-item"><b>{escape(item["label"])}</b>'
+                f'<span class="ja">{escape(item["description"])}</span></div>'
+            )
+    if in_list:
+        parts.append("</ul>")
+    return "".join(parts)
+
+
 def word_page(word: dict, all_words: list[dict]) -> str:
     idx = [w["slug"] for w in all_words].index(word["slug"])
     prev_word = all_words[idx - 1] if idx > 0 else None
@@ -117,15 +157,13 @@ def word_page(word: dict, all_words: list[dict]) -> str:
         f'<div class="formation-row"><b>{escape(x["term"])}</b><span class="ja">{escape(x["description"])}</span></div>'
         for x in word.get("formation", [])
     )
+    formation_nav = '<a href="#formation">語形成</a>' if formation else ""
     core_items = word.get("core", [])
-    core = "".join(
-        f'<div class="core-item"><b>{escape(x["label"])}</b><span class="ja">{escape(x["description"])}</span></div>'
-        for x in core_items
-    )
+    core = core_html(core_items)
     core_nav = '<a href="#core">コアイメージ</a>' if core_items else ""
     core_panel = (
         "\n    "
-        + overview_panel('コアイメージ', f'<div class="core-grid">{core}</div>', 'core')
+        + overview_panel('コアイメージ', core, 'core')
         if core_items
         else ""
     )
@@ -133,6 +171,7 @@ def word_page(word: dict, all_words: list[dict]) -> str:
         f'<a href="{escape(x["url"], quote=True)}" target="_blank" rel="noopener">{escape(x["name"])}</a>'
         for x in word.get("sources", [])
     )
+    sources_html = f"<p><b>参照:</b> {sources}</p>" if sources else ""
     prev_link = f'<a class="pager-link" href="{prev_word["slug"]}.html">← {escape(prev_word["word"])}</a>' if prev_word else '<span></span>'
     next_link = f'<a class="pager-link" href="{next_word["slug"]}.html">{escape(next_word["word"])} →</a>' if next_word else '<span></span>'
     page = f'''<!doctype html>
@@ -157,7 +196,7 @@ def word_page(word: dict, all_words: list[dict]) -> str:
 <aside class="word-sidebar">
   <div class="side-word"><h1>{escape(word['word'])}</h1><p>{escape(word['ipa'])}</p><div class="progress"><i id="progressFill"></i></div><small id="progressText">習得 0 / {len(word['senses'])}</small></div>
   <p class="side-label">概要</p>
-  <nav class="side-nav"><a href="#pronunciation">発音</a><a href="#etymology">語源</a><a href="#formation">語形成</a>{core_nav}</nav>
+  <nav class="side-nav"><a href="#pronunciation">発音</a><a href="#etymology">語源</a>{formation_nav}{core_nav}</nav>
   <p class="side-label">語義</p><nav class="side-nav sense-nav">{nav}</nav>
 </aside>
 <main class="word-main">
@@ -165,12 +204,12 @@ def word_page(word: dict, all_words: list[dict]) -> str:
   <div class="overview-grid">
     {overview_panel('発音記号', f'<p class="big-ipa">{escape(word["ipa"])}</p>{list_html(word.get("pronunciation", []), "ja")}', 'pronunciation')}{core_panel}
     {overview_panel('語源', list_html(word.get('etymology', []), 'ja'), 'etymology')}
-    {overview_panel('語形成', f'<div class="formation-list">{formation}</div>', 'formation')}
+    {overview_panel('語形成', f'<div class="formation-list">{formation}</div>', 'formation') if formation else ''}
   </div>
   <div class="section-title"><div><p>MEANINGS & USAGE</p><h2>意味・構文・用法</h2></div><small>検索・頻度フィルター・習得管理に対応</small></div>
   <div id="senseContainer">{senses}</div><div id="noResults" class="empty-state">該当する語義・用例がありません。</div>
   <div class="page-pager">{prev_link}{next_link}</div>
-  <footer class="source-box"><p><b>参照:</b> {sources}</p><p><a href="{escape(word['notion_url'], quote=True)}" target="_blank" rel="noopener">Notionの原本を開く</a></p></footer>
+  <footer class="source-box">{sources_html}<p><a href="{escape(word['notion_url'], quote=True)}" target="_blank" rel="noopener">Notionの原本を開く</a></p></footer>
 </main>
 </div>
 <button class="backtop" onclick="window.scrollTo({{top:0,behavior:'smooth'}})" aria-label="上部へ戻る">↑</button>

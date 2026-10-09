@@ -165,16 +165,35 @@ def _parse_formation(lines: list[str]) -> list[dict[str, str]]:
 
 
 def _parse_core(lines: list[str]) -> list[dict[str, str]]:
+    # Keep source paragraph/list boundaries and punctuation, including arrows,
+    # colons and spaces. Old label/description JSON remains a renderer concern.
     result = []
-    for item in _simple_items(lines):
-        match = LABEL_RE.match(item)
-        if match:
-            label, description = match.group(1), match.group(2)
+    current: list[str] = []
+    kind = "paragraph"
+
+    def flush() -> None:
+        if current:
+            result.append({"type": kind, "text": "\n".join(current)})
+            current.clear()
+
+    for raw in lines:
+        if not raw.strip():
+            flush()
+            kind = "paragraph"
+            continue
+        bullet = re.match(r"^\s*(?:[-*+]\s+|[・●▪︎◦]\s*|\d+[.．]\s+)", raw)
+        if bullet:
+            flush()
+            kind = "item"
+            text = _clean_inline(raw[bullet.end():])
         else:
-            words = item.split(maxsplit=1)
-            label = words[0]
-            description = words[1] if len(words) > 1 else ""
-        result.append({"label": label.strip(), "description": description.strip()})
+            if kind == "item" and not raw[:1].isspace():
+                flush()
+                kind = "paragraph"
+            text = _clean_inline(raw)
+        if text:
+            current.append(text)
+    flush()
     return result
 
 
