@@ -49,40 +49,40 @@
   ],
   "core": [
     {
-      "label": "物を受け手や場所へ配ること、または人為的な配分を伴わずに物・生物・数値などが広がっていることを、行為・状態・仕組み・取り分・配布単位として捉える語。数学解析の用法も、質量・電荷などの分布を通常の関数より広く表すものとして理解できるが、厳密な定義は語義7で示す。",
-      "description": ""
+      "type": "paragraph",
+      "text": "物を受け手や場所へ配ること、または人為的な配分を伴わずに物・生物・数値などが広がっていることを、行為・状態・仕組み・取り分・配布単位として捉える語。数学解析の用法も、質量・電荷などの分布を通常の関数より広く表すものとして理解できるが、厳密な定義は語義7で示す。"
     },
     {
-      "label": "複数の受け手へ割り振る行為",
-      "description": "→ 「分配、配布、配給」（語義1）"
+      "type": "item",
+      "text": "複数の受け手へ割り振る行為 → 「分配、配布、配給」（語義1）"
     },
     {
-      "label": "複数の場所・集団・値に広がった状態",
-      "description": "→ 「分布、配置、分配のあり方」（語義2）"
+      "type": "item",
+      "text": "複数の場所・集団・値に広がった状態 → 「分布、配置、分配のあり方」（語義2）"
     },
     {
-      "label": "複数の販売地点・利用者へ届ける仕組み・過程",
-      "description": "→ 「流通、供給、配給・配電・配水」（語義3）"
+      "type": "item",
+      "text": "複数の販売地点・利用者へ届ける仕組み・過程 → 「流通、供給、配給・配電・配水」（語義3）"
     },
     {
-      "label": "受取人へ割り振られた金銭・資産の取り分",
-      "description": "→ 「金融・法律上の分配、分配金」（語義4）"
+      "type": "item",
+      "text": "受取人へ割り振られた金銭・資産の取り分 → 「金融・法律上の分配、分配金」（語義4）"
     },
     {
-      "label": "ソフトウェア群を一まとまりとして利用者へ配る単位",
-      "description": "→ 「ソフトウェア・ディストリビューション」（語義5）"
+      "type": "item",
+      "text": "ソフトウェア群を一まとまりとして利用者へ配る単位 → 「ソフトウェア・ディストリビューション」（語義5）"
     },
     {
-      "label": "Pythonプロジェクトの配布・インストール単位",
-      "description": "→ 「Python packagingにおける配布パッケージ」（語義6）"
+      "type": "item",
+      "text": "Pythonプロジェクトの配布・インストール単位 → 「Python packagingにおける配布パッケージ」（語義6）"
     },
     {
-      "label": "質量・電荷などの分布を一般化した対象",
-      "description": "→ 「数学解析の超関数（一般化関数の一種）」（語義7）"
+      "type": "item",
+      "text": "質量・電荷などの分布を一般化した対象 → 「数学解析の超関数（一般化関数の一種）」（語義7）"
     },
     {
-      "label": "語義1〜3は固定的に切り分けられるとは限らない。distribution",
-      "description": "of resources/products/information は、配る行為、配分された状態、流通の仕組みのいずれにも読める。たとえば distribution of food to villages は配給・配布の行為、distribution of products through wholesalers は流通経路・仕組み、geographical distribution of products は配置・分布に焦点がある。対象・動詞・前置詞・ビジネス文脈のどこに焦点があるかで、最も自然な語義が決まる。"
+      "type": "paragraph",
+      "text": "語義1〜3は固定的に切り分けられるとは限らない。distribution of resources/products/information は、配る行為、配分された状態、流通の仕組みのいずれにも読める。たとえば distribution of food to villages は配給・配布の行為、distribution of products through wholesalers は流通経路・仕組み、geographical distribution of products は配置・分布に焦点がある。対象・動詞・前置詞・ビジネス文脈のどこに焦点があるかで、最も自然な語義が決まる。"
     }
   ],
   "sources": [],
