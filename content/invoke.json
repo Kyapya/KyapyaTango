@@ -3,7 +3,7 @@
   "slug": "invoke",
   "ipa": "米: /ɪnˈvoʊk/｜英: /ɪnˈvəʊk/",
   "lead": "法律・条項・規則・権利・権限・手続きなどを、具体的な行動や保護を求める根拠として持ち出し、その適用や利用に頼る。「援用する」「権利を主張する」「権限を発動する」「所定の手続きを開始する」など、目的語に応じて訳す。単に法律の名前を紹介することより、実際の場面で使う点が中心。ただし、主張した権利が認められた、手続きが完了した、求めた効果が生じた、という結果までは",
-  "updated": "2026-10-07",
+  "updated": "2026-10-09",
   "notion_url": "https://app.notion.com/p/invoke-3f24faa9b77d81828419f8623191d588",
   "pronunciation": [
     "2音節で、第2音節に主強勢がある。米英の違いは第2音節の二重母音 /oʊ/ と /əʊ/。第1音節はどちらも /ɪn/。/v/ は上の歯と下唇を使って発音する。",
@@ -22,8 +22,8 @@
       "description": "呼び出す人・もの。特にコンピューターで、呼び出し元を指す。日常の一般的な「依頼者」なら requester など、文脈に合う語を使う。"
     },
     {
-      "term": "invoked",
-      "description": "/ invoking（過去分詞／現在分詞）：通常は動詞の活用形。an invoked method「呼び出されたメソッド」、a rule frequently invoked by managers「管理者がよく援用する規則」のように修飾にも使うが、元の動詞と別の評価的な意味を持つ一般形容詞ではない。"
+      "term": "invoked/invoking（過去分詞／現在分詞）",
+      "description": "通常は動詞の活用形。an invoked method「呼び出されたメソッド」、a rule frequently invoked by managers「管理者がよく援用する規則」のように修飾にも使うが、元の動詞と別の評価的な意味を持つ一般形容詞ではない。"
     }
   ],
   "core": [
@@ -605,7 +605,7 @@
         {
           "pattern": "be invoked",
           "use": "呼び出される超自然的な存在を主語にする。",
-          "example": "In the story, the demon can be invoked only during the eclipse.",
+          "example": "In the story, the demon can be invoked only during the solar eclipse.",
           "translation": "その物語では、その悪魔は日食の間にしか呼び出せない。"
         }
       ],

@@ -3,7 +3,7 @@
   "slug": "discrete",
   "ipa": "米・英: /dɪˈskriːt/",
   "lead": "物・活動・段階・分類などが、ひと続きの区別のない全体ではなく、一つずつ境界や独自のまとまりを持つことを表す。物理的に分かれている場合にも、分析や運営の上で別単位として扱う場合にも使える。別個であっても相互に連携・依存してよく、「互いに無関係」「完全に独立」とまでは必ずしも意味しない。",
-  "updated": "2026-10-07",
+  "updated": "2026-10-09",
   "notion_url": "https://app.notion.com/p/discrete-3f24faa9b77d816b8c04ded3fe6d93c5",
   "pronunciation": [
     "2音節で、第2音節 /skriːt/ に主強勢がある。第1音節の母音は /ɪ/。discreet「慎重な、口の堅い」と発音は同じで、音だけでは区別できない。"
@@ -21,12 +21,12 @@
       "description": "別個であること、離散性。discreetness「慎重さ、控えめであること」とは異なる。"
     },
     {
-      "term": "discretize",
-      "description": "/ discretise（他動詞）：数学・数値計算で、連続的な対象を離散的な形にする、離散化する。-ize は米国式で一般的、-ise は英国式で使われる形で、英国でも -ize を使う。"
+      "term": "discretize/discretise（他動詞）",
+      "description": "数学・数値計算で、連続的な対象を離散的な形にする、離散化する。-ize は米国式で一般的、-ise は英国式で使われる形で、英国でも -ize を使う。"
     },
     {
-      "term": "discretization",
-      "description": "/ discretisation（名詞）：離散化。連続的な時間や空間を計算用の点・区間などで表す操作に使う。"
+      "term": "discretization/discretisation（名詞）",
+      "description": "離散化。連続的な時間や空間を計算用の点・区間などで表す操作に使う。"
     }
   ],
   "core": [],
@@ -48,7 +48,7 @@
         "〈複数の部分・段階など〉 + be/remain + discrete＝別個である・あり続ける",
         "〈対象〉 + be + discrete from 〈別の対象〉＝別の対象と区別されている",
         "discrete components＝個別部品",
-        "a discrete GPU＝独立型GPU。限定・叙述の両方で使う。通常は程度を付けないが、分離の程度を比べる文脈では relatively/more discrete もあり得る。"
+        "a discrete GPU＝独立型GPU。形容詞 discrete は限定・叙述の両方で使う。通常は程度を付けないが、分離の程度を比べる文脈では relatively/more discrete もあり得る。"
       ],
       "collocations": [
         {
@@ -110,7 +110,7 @@
           "frequency": 9,
           "difference": "日常語として広く使い、位置・管理・所有などの分離を表す。discrete は、個々のまとまりとして区別される点を改まって述べやすい。",
           "example": "Each department keeps separate records.",
-          "translation": "各部門は別々に記録を保管している。"
+          "translation": "各部門は、それぞれ別の記録を保管している。"
         },
         {
           "word": "distinct",
@@ -156,7 +156,7 @@
         "〈変数・量など〉 + be + discrete＝離散的である",
         "at discrete time points＝離散的な時点で",
         "a discrete-time signal＝離散時間信号",
-        "discrete mathematics＝離散数学。限定・叙述の両方で使い、専門的な分類として述べる場合は通常 very/more で程度を付けない。"
+        "discrete mathematics＝離散数学。形容詞 discrete は限定・叙述の両方で使い、専門的な分類として述べる場合は通常 very/more で程度を付けない。"
       ],
       "collocations": [
         {

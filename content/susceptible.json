@@ -3,7 +3,7 @@
   "slug": "susceptible",
   "ipa": "米・英: /səˈseptəbəl/。4音節で、第2音節に主強勢がある。第1音節は /sə/、第2音節は /sep/、第3音節は /tə/、第4音節は /bəl/。綴りの sc を /sk/ と読まず、第2音節の先頭は /s/。p と t の間に日本語の「プ」のような母音を挟まない。",
   "lead": "人・生物・素材・組織・システムなどが、特定の影響・感染・損傷・誘導などを受けやすい。生来の性質だけでなく、置かれた状況による受けやすさも含む。悪影響との組み合わせが多いが、flattery「お世辞」や persuasion「説得」なども対象となり、物理的な被害だけに限定されない。実際に影響を受けたことや、必ずそうなることは意味しない。",
-  "updated": "2026-10-07",
+  "updated": "2026-10-09",
   "notion_url": "https://app.notion.com/p/susceptible-3f24faa9b77d81afbef8cf1d50a4adde",
   "pronunciation": [
     "第3音節の母音を /ɪ/ とする発音・辞書表記もある。語末の /əl/ は、音節を担う l に近く発音されることもある。名詞 susceptibility では、主強勢が -bil- の音節に移る。"
@@ -118,7 +118,7 @@
         },
         {
           "pattern": "be less susceptible to something",
-          "use": "比較して影響が小さいことを述べ、完全な耐性とは区別する。",
+          "use": "比較して影響を受けにくいことを述べ、完全な耐性とは区別する。",
           "example": "The new design is less susceptible to vibration, although it is not completely immune to it.",
           "translation": "新設計は振動の影響を受けにくいが、まったく影響を受けないわけではない。"
         }
@@ -205,7 +205,7 @@
           "pattern": "a susceptible nature",
           "use": "人の感じやすい性質を描写する。",
           "example": "Beneath his confident manner was a surprisingly susceptible nature.",
-          "translation": "自信に満ちた態度の下には、意外なほど感じやすい性質があった。"
+          "translation": "自信に満ちた態度の裏には、意外なほど感情に左右されやすい一面があった。"
         },
         {
           "pattern": "a susceptible mind",
@@ -217,7 +217,7 @@
           "pattern": "be susceptible to someone's charm",
           "use": "相手の魅力に心が動きやすいことを述べる。",
           "example": "She was less susceptible to his charm than he had expected.",
-          "translation": "彼の予想に反して、彼女は彼の魅力にはあまり心を動かされなかった。"
+          "translation": "彼女は、彼が予想していたほど彼の魅力に弱くはなかった。"
         },
         {
           "pattern": "be susceptible（感情的に影響されやすい）",
@@ -395,8 +395,7 @@
       "title": "【名詞・可算・主に複数形】感受性者、感染しうる個体",
       "frequency": 2,
       "register": [
-        "この意味では、疫学・感染症の数理モデルなどで用いる専門的な名詞用法。一般向けの文章では susceptible people",
-        "individuals と名詞を補うほうが明確。"
+        "この意味では、疫学・感染症の数理モデルなどで用いる専門的な名詞用法。一般向けの文章では susceptible people や susceptible individuals と名詞を補うほうが明確。"
       ],
       "definition": "感染症の疫学・数理モデルなどで、ある感染の対象となりうる人・個体を指す。複数形 susceptibles で、感受性を持つ集団・区分の構成員を表すことが多い。すでに感染している人を意味する infected individuals とは区別する。",
       "patterns": [

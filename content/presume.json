@@ -3,7 +3,7 @@
   "slug": "presume",
   "ipa": "米: /prɪˈzuːm/｜英: /prɪˈzjuːm/。2音節で、第2音節に主強勢がある。第1音節の母音は弱い /ɪ/。示した米英差は第2音節の /z/ と /uː/ の間に /j/ があるかどうかで、米語では通常 /j/ がない。どちらも s は有声音 /z/ で、語末は /m/。",
   "lead": "確かな証明や確認はないが、状況・知識・期待などから、ある事柄がそうだと考える。ある程度当然視した見込みを示すことが多いが、判断の根拠が十分であることや、推定が正しいことは保証しない。I presume は確認を求める言い方にもなる。",
-  "updated": "2026-10-07",
+  "updated": "2026-10-09",
   "notion_url": "https://app.notion.com/p/presume-3f24faa9b77d811f8889edca8de35ec0",
   "pronunciation": [
     "presumes は語末に /z/、presumed は /d/ が加わり、どちらも音節数は増えない。presuming は語末の e を落として -ing を付ける。presumption「推定・厚かましさ」では語幹が presumpt- に変わる。"
@@ -82,8 +82,8 @@
         "be presumed to do/be/have done something＝〜する・である・したと推定される",
         "be presumed dead＝死亡したと推定される",
         "it is presumed that 〈節〉＝〜と推定される",
-        "I presume so/not＝そうだ",
-        "そうではないと思う",
+        "I presume so＝そうだと思う",
+        "I presume not＝そうではないと思う",
         "〈文〉, I presume?＝〜ですよね、と思いますが。"
       ],
       "collocations": [
@@ -103,12 +103,12 @@
           "pattern": "presume someone to have done something",
           "use": "推定の時点より前の行為について述べる。",
           "example": "We presumed the visitors to have left before the alarm sounded.",
-          "translation": "私たちは、警報が鳴る前に来訪者たちは帰ったものと思っていた。"
+          "translation": "私たちは、来訪者たちが警報の鳴る前に帰ったものと思っていた。"
         },
         {
           "pattern": "be presumed to do something",
           "use": "人・物を主語にした受動態で、推定内容を示す。",
-          "example": "The software is presumed to work on older devices, but we have not tested them yet.",
+          "example": "The software is presumed to work on older devices, but we have not tested it on those devices yet.",
           "translation": "そのソフトは古い端末でも動くと考えられているが、まだ実機で検証していない。"
         },
         {
@@ -121,7 +121,7 @@
           "pattern": "presume someone + 〈形容詞〉",
           "use": "to be を置かず、推定される状態を補語で示す。",
           "example": "The rescue team presumed the climbers safe after receiving their message.",
-          "translation": "連絡を受けて、救助隊は登山者たちは無事だと考えた。"
+          "translation": "連絡を受けて、救助隊は登山者たちが無事だと考えた。"
         },
         {
           "pattern": "it is presumed that 〈節〉",
@@ -346,7 +346,7 @@
           "pattern": "presume to speak for someone",
           "use": "代表する権限がないのに他人の意見を代弁することを批判する。",
           "example": "He presumed to speak for the whole team without consulting anyone.",
-          "translation": "彼は誰にも相談せず、出過ぎてチーム全体を代弁した。"
+          "translation": "彼は誰にも相談せず、チーム全体を代弁するという出過ぎたことをした。"
         },
         {
           "pattern": "presume to know something",
@@ -416,7 +416,7 @@
           "pattern": "presume upon someone's good nature",
           "use": "相手が寛容なことを当てにする行為を批判する。",
           "example": "He kept arriving late, presuming upon his host's good nature.",
-          "translation": "彼は招待主の人のよさに甘え、何度も遅れて来た。"
+          "translation": "彼は招待してくれた人の厚意に甘え、何度も遅れて来た。"
         },
         {
           "pattern": "presume on a friendship",

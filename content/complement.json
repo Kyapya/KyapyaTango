@@ -3,7 +3,7 @@
   "slug": "complement",
   "ipa": "名詞：米: /ˈkɑːmplɪmənt/｜英: /ˈkɒmplɪmənt/",
   "lead": "人・能力・製品・方法・色・味などが、別のものと組み合わさることで、その機能や魅力を高めたり、足りない面を補ったりする。単に「同じ」「似ている」ではなく、組み合わせとして役立つ点に焦点がある。能力が違う2人にも、よく調和する色にも使える。「元のものは単独では役に立たない」「全欠点がなくなる」という強い前提はない。人を主語にして、既存のものに役立つ要素を加える行",
-  "updated": "2026-10-07",
+  "updated": "2026-10-09",
   "notion_url": "https://app.notion.com/p/complement-3f24faa9b77d81fdb359ffa62a319c39",
   "pronunciation": [
     "動詞：米: /ˈkɑːmplɪment/｜英: /ˈkɒmplɪment/",
@@ -27,8 +27,8 @@
       "description": "補完、文法上の補部の取り方、数学などで補を取る操作。分野ごとの専門的な意味があり、通常の「良い組み合わせ」を言うたびにこの名詞を使うわけではない。"
     },
     {
-      "term": "complementizer",
-      "description": "/ complementiser（名詞・可算）：補文標識。言語学で、一定の従属節を導く that などを指す。-izer は主に米式、-iser は英式で使われる綴り。"
+      "term": "complementizer/complementiser（名詞・可算）",
+      "description": "補文標識。言語学で、一定の従属節を導く that などを指す。-izer は主に米式、-iser は英式で使われる綴り。"
     }
   ],
   "core": [
@@ -146,7 +146,7 @@
         }
       ],
       "notes": [
-        "「彼女の能力は私の能力を補う」は Her skills complement mine. とし、Her skills complement to mine. とはしない。一方、名詞なら Her skills are a complement to mine. となるので、to の有無は品詞で区別する（語義2）。complement each other の each other は相互関係を示し、再帰形 complement themselves に置き換えない。「彼をほめる」は compliment him、「仕事ぶりをほめる」は compliment him on his work。「彼の持ち味を補う」は complement him で、ほめ言葉を言ったという意味にはならない。complement と supplement はどちらも補うことを表せるが、前者は組み合わせや相補性、後者は追加・不足分の補充を前に出す。The handbook complements the training. は両者が役立ち合うという説明で、The handbook completes the training. なら研修を完成させるという別の主張になる。with の前後も区別し、We complemented the course with workshops. では workshops が追加要素、Workshops complemented the course. では同じ workshops が主語。be complemented by と be complemented with は受動構文であり、「補完された」を表す complemented を別の評価的な形容詞義と考える必要はない。限定用法の a well-complemented collection は文脈に応じた分詞表現で、通常の形容詞「相補的な」は complementary。complementing は通常の -ing 形で、句動詞を作る小辞はない。色彩用語の名詞「補色」は語義5、コンピューターの動詞「ビットを反転する」は語義10で、この一般義と区別する。"
+        "「彼女の能力は私の能力を補う」は Her skills complement mine. とし、Her skills complement to mine. とはしない。一方、名詞なら Her skills are a complement to mine. となるので、to の有無は品詞で区別する（語義2）。complement each other の each other は相互関係を示し、再帰形 complement themselves に置き換えない。「彼をほめる」は compliment him、「仕事ぶりをほめる」は compliment him on his work。「彼の持ち味を補う」は complement him で、ほめ言葉を言ったという意味にはならない。complement と supplement はどちらも補うことを表せるが、前者は組み合わせや相補性、後者は追加・不足分の補充を前に出す。The handbook complements the training. は手引きが研修を補って役立つという説明で、The handbook completes the training. なら研修を完成させるという別の主張になる。with の前後も区別し、We complemented the course with workshops. では workshops が追加要素、Workshops complemented the course. では同じ workshops が主語。be complemented by と be complemented with は受動構文であり、「補完された」を表す complemented を別の評価的な形容詞義と考える必要はない。限定用法の a well-complemented collection は文脈に応じた分詞表現で、通常の形容詞「相補的な」は complementary。complementing は通常の -ing 形で、句動詞を作る小辞はない。色彩用語の名詞「補色」は語義5、コンピューターの動詞「ビットを反転する」は語義10で、この一般義と区別する。"
       ],
       "synonyms": [
         {
@@ -196,7 +196,7 @@
         "a complement to 〈人・物・活動〉＝それを補うもの",
         "a perfect / useful / natural complement to something＝組み合わせの評価を加える",
         "as a complement to something＝補完するものとして",
-        "a complement to each other＝互いを補うもの",
+        "complements to each other＝互いを補うもの",
         "complements＝複数の補完要素、経済では補完財。"
       ],
       "collocations": [
@@ -210,7 +210,7 @@
           "pattern": "a perfect complement to 〈物・料理〉",
           "use": "ある物が別の物をよく引き立てると紹介する。",
           "example": "The crisp salad was a perfect complement to the creamy pasta.",
-          "translation": "シャキシャキしたサラダは、クリーミーなパスタを引き立てる絶好の組み合わせだった。"
+          "translation": "シャキシャキしたサラダは、クリーミーなパスタを引き立てる絶好の付け合わせだった。"
         },
         {
           "pattern": "as a complement to 〈活動〉",
@@ -219,9 +219,9 @@
           "translation": "私たちは講義を補完するものとして、演習を用意している。"
         },
         {
-          "pattern": "a complement to each other",
+          "pattern": "complements to each other",
           "use": "2人などが、互いに足りない持ち味を補う関係を述べる。",
-          "example": "The two project leaders are a complement to each other, combining technical depth with clear communication.",
+          "example": "The two project leaders are complements to each other, combining technical depth with clear communication.",
           "translation": "その2人のプロジェクト責任者は、深い技術知識とわかりやすい意思伝達を組み合わせ、互いを補う関係にある。"
         }
       ],

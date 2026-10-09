@@ -3,7 +3,7 @@
   "slug": "consecutive",
   "ipa": "米・英: /kənˈsekjətɪv/",
   "lead": "日・月・回・試合・番号などが、問題にしている順序や系列の中で間を飛ばさず、一つの次にもう一つと続くことを表す。three consecutive wins は、対象となる試合の並びで途中に敗戦や引き分けを挟まない3連勝。試合間の休養日まで否定するわけではない。「何が連続しているか」は、修飾する名詞と文脈で決まる。文語的には、叙述や推論の内部が時系列・論理的な",
-  "updated": "2026-10-07",
+  "updated": "2026-10-09",
   "notion_url": "https://app.notion.com/p/consecutive-3f24faa9b77d811ab5dfd2d14ea8cd16",
   "pronunciation": [
     "4音節で、第2音節 /sek/ に主強勢がある。第1音節の母音は /ə/、第3音節は /jə/、第4音節は /tɪv/。綴りの -cut- を /kʌt/ と読まない。"
@@ -17,8 +17,8 @@
       "description": "連続して、順番に。number the pages consecutively は「ページに連続した番号を付ける」。"
     },
     {
-      "term": "nonconsecutive",
-      "description": "/ non-consecutive（形容詞）：連続しない、間を置いた。nonconsecutive days は、対象の日が毎日続くわけではないことを表す。"
+      "term": "nonconsecutive/non-consecutive（形容詞）",
+      "description": "連続しない、間を置いた。nonconsecutive days は、対象の日が毎日続くわけではないことを表す。"
     }
   ],
   "core": [],
@@ -79,14 +79,14 @@
         {
           "pattern": "be consecutive",
           "use": "複数の番号や日付が連続していることを、述語として説明する。",
-          "example": "The page numbers are consecutive, but two pages have been printed twice.",
-          "translation": "ページ番号は連続しているが、2ページが重複して印刷されている。"
+          "example": "The page numbers are consecutive, with none missing.",
+          "translation": "ページ番号は連続していて、抜けがない。"
         },
         {
           "pattern": "consecutive sentences",
           "use": "法律の文脈で、複数の刑を一つずつ順に執行することを表す。",
           "example": "The court imposed two consecutive prison sentences.",
-          "translation": "裁判所は、順次服役する2つの拘禁刑を科した。"
+          "translation": "裁判所は、順次執行される2つの拘禁刑を科した。"
         },
         {
           "pattern": "be consecutive to 〈別の刑〉",
