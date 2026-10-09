@@ -1,0 +1,507 @@
+{
+  "word": "divest",
+  "slug": "divest",
+  "ipa": "米・英: /daɪˈvest/",
+  "lead": "個人・企業・基金などが、保有する資産、株式、事業、子会社などを処分して、所有・投資関係を手放す。通常は売却だが、無償で譲る場合も含み得る。対象資産を直接目的語にする型と、保有者自身を再帰目的語にして資産を of 以下に置く型がある。倒産・損失・政府命令・全資産の清算を必須条件とはしない。",
+  "updated": "2026-10-09",
+  "notion_url": "https://app.notion.com/p/divest-3f44faa9b77d81af9cfbc164731df246",
+  "pronunciation": [
+    "2音節 /daɪ.vest/ で、第2音節 /vest/ に主強勢を置く。米語では第1音節を /dɪ/ または /də/ とする /dɪˈvest/、/dəˈvest/ もある。変わるのは第1音節の母音だけで、第2音節と主強勢の位置は同じ。/daɪ-/ を英語専用、/dɪ-/ を米語専用と厳密に分けない。",
+    "divested は /daɪˈvestɪd/、divesting は /daɪˈvestɪŋ/ で3音節。-ed は /t/ の後なので /ɪd/。第1音節には原形と同じ発音の変異がある。"
+  ],
+  "etymology": [
+    "古い形 devest が変化した語。devest は古フランス語 desvestir にさかのぼり、除去を表す des- と「衣服を着せる」を表す語要素から成る。後者の基はラテン語 vestire「着せる」、さらに vestis「衣服」。衣服・装備を取り去る意味が語源と直接つながっているが、現代の中心は資産や権利などを手放す・取り去る用法である。",
+    "vest「ベスト・チョッキ」、vestment「祭服」、invest「投資する・権限を与える」も vestis / vestire の系統。現代の divest を単純に「invest に否定の接頭辞を付けた語」と分析するのではなく、共通する衣服の語根と、それぞれの現在の構文を区別する。"
+  ],
+  "formation": [
+    {
+      "term": "divests",
+      "description": "/ divested / divesting：規則活用。t は重ねない。divested assets「売却・譲渡された資産」、a person divested of authority「権限を奪われた人」の divested は、対応する動詞の過去分詞による修飾。独立した別の評価義を表すわけではない。"
+    },
+    {
+      "term": "divestment",
+      "description": "名詞。資産売却・投資撤退。過程を表す不可算用法と、個別の売却を数える可算用法がある。divestment from fossil fuels「化石燃料関連事業からの投資撤退」、the divestment of a subsidiary「子会社の売却」など。"
+    },
+    {
+      "term": "divestiture",
+      "description": "名詞。資産・事業などの売却・分離、権利の剝奪。資産売却の意味では divestment と重なり、可算・不可算の両方がある。企業再編や競争政策の文書で使われるが、この語だけで政府による強制を意味するわけではない。"
+    }
+  ],
+  "core": [
+    {
+      "label": "共通するのは「人・組織・物が保有しているもの、身に付けているものを切り離すこと」。何を直接目的語にするかによって、切り離す対象そのもの（資産・法律上の権原など）を示す型と、それを失う側を示す型がある。失うものは財産、権限、性質、衣服などで、自発的に手放す場合にも外から奪われる場合にも使う。",
+      "description": ""
+    },
+    {
+      "label": "保有する資産を売却・譲渡で切り離す行為",
+      "description": "→ 「資産・事業を売却・譲渡する」（語義1）"
+    },
+    {
+      "label": "保有する投資との関係を切り離す行為",
+      "description": "→ 「投資を引き揚げる・資産売却を行う」（語義2）"
+    },
+    {
+      "label": "保有する権利・権限などを切り離す行為",
+      "description": "→ 「権利・権限などを取り去る・手放す」（語義3）"
+    },
+    {
+      "label": "付随する性質・思い込みなどを切り離す行為",
+      "description": "→ 「性質・思い込み・付随要素を取り除く」（語義4）"
+    },
+    {
+      "label": "身に付けた衣服・装備などを切り離す行為",
+      "description": "→ 「衣服・装備などを取り去る・脱ぐ」（語義5）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【他動詞・資産目的語／再帰用法】資産・事業を売却・譲渡する",
+      "frequency": 5,
+      "register": [
+        "ビジネス・金融・経済報道の硬めの語。売却義を特に米語として示す辞書もあるが、英語圏の企業・金融文書で広く使われる。"
+      ],
+      "definition": "個人・企業・基金などが、保有する資産、株式、事業、子会社などを処分して、所有・投資関係を手放す。通常は売却だが、無償で譲る場合も含み得る。対象資産を直接目的語にする型と、保有者自身を再帰目的語にして資産を of 以下に置く型がある。倒産・損失・政府命令・全資産の清算を必須条件とはしない。",
+      "patterns": [
+        "divest something＝手放す資産・株式・子会社を直接目的語にする。",
+        "divest oneself of something＝保有者自身を目的語とし、手放す対象を of 以下に置く。",
+        "divest something to someone＝譲渡する資産・事業を目的語、譲渡先を to 以下に示す。",
+        "divest 〈investments/funds〉 from 〈投資先の企業・業種〉＝その業種・企業に投じた投資・資金を引き揚げる。",
+        "be divested＝資産・事業を主語にした受動態。直接目的語を取らない divest from は語義2。"
+      ],
+      "collocations": [
+        {
+          "pattern": "divest non-core assets",
+          "use": "本業との関係が薄い資産を売却・譲渡する。",
+          "example": "The group plans to divest non-core assets and concentrate on medical equipment.",
+          "translation": "その企業グループは非中核資産を売却し、医療機器に集中する計画だ。"
+        },
+        {
+          "pattern": "divest a subsidiary",
+          "use": "保有していた子会社を手放す。",
+          "example": "The manufacturer divested its packaging subsidiary last year.",
+          "translation": "そのメーカーは昨年、包装事業の子会社を売却した。"
+        },
+        {
+          "pattern": "divest oneself of shares",
+          "use": "保有者自身を目的語にして、株式を手放す。",
+          "example": "She divested herself of her shares before joining the board of a rival company.",
+          "translation": "彼女は競合企業の取締役に就く前に、保有株式を手放した。"
+        },
+        {
+          "pattern": "divest oneself of a business",
+          "use": "会社が保有事業から手を引く。",
+          "example": "The bank is divesting itself of its insurance business through a sale to another group.",
+          "translation": "その銀行は別の企業グループへの売却を通じて、保険事業を手放しつつある。"
+        },
+        {
+          "pattern": "divest assets to a buyer",
+          "use": "売却・譲渡先を to で明示する。",
+          "example": "The company agreed to divest the two factories to an independent buyer.",
+          "translation": "その会社は、二つの工場を独立した買い手に売却することで合意した。"
+        },
+        {
+          "pattern": "divest investments from an industry",
+          "use": "引き揚げる投資と、投資先だった業種を両方示す。",
+          "example": "The fund will divest its remaining investments from the tobacco industry.",
+          "translation": "その基金は、たばこ産業への残りの投資を引き揚げる予定だ。"
+        },
+        {
+          "pattern": "be divested",
+          "use": "売却・譲渡される資産や事業を受動文の主語にする。",
+          "example": "Three regional businesses were divested as part of the restructuring.",
+          "translation": "再編の一環として、三つの地域事業が売却された。"
+        }
+      ],
+      "notes": [
+        "The company divested its shares. と The company divested itself of its shares. は、どちらも会社が株式を手放す。前者の直接目的語は shares、後者は itself である。作文ではこの二つを基本形とし、後者の再帰構文では保有者を示す itself を置く。金融・企業文書には divest of assets の型もあるため、divest of を一律に誤りとはしない（語義2）。ただし、再帰代名詞をどの語義でも自由に省略できるという規則にはしない。 divest の後に常に of が必要なわけではない。資産を代名詞にすれば divest them、再帰型なら divest itself of them となる。of は前置詞で、分離できる小辞ではない。divest them of the company と語順を逆にしない。The fund divested from tobacco. は直接目的語のない投資撤退型（語義2）。divest a company of its assets は、会社を「資産を失う側」とする剝奪型（語義3）であり、会社自体を売る divest a company とは違う。divest は通常の商品販売全般に使う sell より、保有資産・事業からの撤退を意識した語。divested assets は売却された資産という過去分詞修飾で、divested に別の形容詞語義を想定する必要はない。"
+      ],
+      "synonyms": [
+        {
+          "word": "sell off",
+          "definition": "保有する資産・物品などを売って処分する。",
+          "frequency": 6,
+          "difference": "売却という方法を明示する。divest は企業再編や保有関係の解消に焦点があり、譲渡も含み得る。",
+          "example": "The company sold off its unused warehouses.",
+          "translation": "その会社は使っていない倉庫を売却した。"
+        },
+        {
+          "word": "dispose of",
+          "definition": "所有する物・資産を処分して手放す。",
+          "frequency": 6,
+          "difference": "資産処分では重なるが、一般には不要物の廃棄にも使える。divest assets に相当する型は dispose of assets で、of が必要。",
+          "example": "The trust disposed of its remaining shares in the business.",
+          "translation": "その信託は、その事業に持っていた残りの株式を処分した。"
+        },
+        {
+          "word": "liquidate",
+          "definition": "資産を売却して現金化する。",
+          "frequency": 4,
+          "difference": "現金に換える点が中心。会社の清算という別の関連用法もあるが、divest は現金化や会社全体の解散を必ずしも意味しない。",
+          "example": "They liquidated part of the portfolio to meet the payment.",
+          "translation": "彼らは支払いに充てるため、保有資産の一部を現金化した。"
+        },
+        {
+          "word": "offload",
+          "definition": "負担と見なす資産・事業などを売るか譲るかして手放す。",
+          "frequency": 4,
+          "difference": "厄介なものを手放すという含みが出やすい。divest は利益の出ている事業の戦略的売却にも使う。",
+          "example": "The group offloaded its loss-making hotel chain.",
+          "translation": "その企業グループは赤字のホテルチェーンを手放した。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "acquire",
+          "definition": "資産・企業などを買収その他の方法で取得する。",
+          "frequency": 7,
+          "difference": "保有に加えることと、保有から切り離すことの方向の反対。必ず売買の同じ一取引の両側を指すわけではない。",
+          "example": "The group acquired a small software company.",
+          "translation": "その企業グループは小規模なソフトウエア会社を買収した。"
+        },
+        {
+          "word": "retain",
+          "definition": "保有する資産・権益などを手放さず維持する。",
+          "frequency": 6,
+          "difference": "保有を終えるか続けるかという状態維持の対立。新たに取得する acquire とは異なる。",
+          "example": "The family retained a minority stake in the company.",
+          "translation": "その一族は会社の少数持分を引き続き保有した。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【自動詞】投資を引き揚げる・資産売却を行う",
+      "frequency": 4,
+      "register": [
+        "金融・企業活動・社会運動の報道。一般の会話より分野を限定した用法。"
+      ],
+      "definition": "投資家・基金・組織などが、投資先との経済的な結び付きを解くために資産を売却・処分する。直接目的語を取らず、from 句で投資を引き揚げる業種・企業を示す。金融・企業文書には、of 句で手放す保有資産や保有先企業を示す型もある。倫理・環境上の理由による投資撤退運動で目立つが、動機はそれに限らない。",
+      "patterns": [
+        "A＝divest from 〈投資先の企業・業種〉：指定した分野・企業などから投資を引き揚げる。",
+        "B＝divest：投資先や資産が文脈で分かるとき、目的語も前置詞句も置かず、売却・撤退を行うと述べる。",
+        "C＝divest of 〈手放す保有資産・保有先企業〉：金融・企業文書で、保有資産や保有先への投資を処分する。from は投資の引き揚げ元、of は手放す対象に焦点を置く。いずれも直接目的語のない型で、通常の目的語を主語にする受動態は作らない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "divest from fossil fuels",
+          "use": "化石燃料関連の投資から撤退する。",
+          "example": "Students urged the university to divest from fossil fuels.",
+          "translation": "学生たちは大学に、化石燃料関連事業から投資を引き揚げるよう求めた。"
+        },
+        {
+          "pattern": "divest from a company",
+          "use": "特定企業への投資関係を解消する。",
+          "example": "Several pension funds decided to divest from the company after reviewing its labour practices.",
+          "translation": "複数の年金基金は、その会社の労働慣行を検討した後、投資を引き揚げることを決めた。"
+        },
+        {
+          "pattern": "decide to divest",
+          "use": "すでに話題になっている保有資産について、売却・投資撤退を決める。",
+          "example": "The fund held shares in three mining companies and eventually decided to divest.",
+          "translation": "その基金は三つの鉱山会社の株式を保有していたが、最終的に売却することを決めた。"
+        },
+        {
+          "pattern": "divest of assets",
+          "use": "金融・企業文書に見られる、処分する保有資産を of で示す型。",
+          "example": "The group plans to divest of its overseas assets as part of the restructuring.",
+          "translation": "その企業グループは再編の一環として、海外資産を売却する計画だ。"
+        }
+      ],
+      "notes": [
+        "The fund divested from the company. では the company は from の目的語で、投資の引き揚げ元。The group plans to divest of its overseas assets. では its overseas assets は of の目的語で、手放す対象を表す。The fund divested its shares. では its shares が動詞の直接目的語（語義1）。作文では、撤退する投資先は divest from、手放す資産は divest its shares または divest itself of its shares を基本とする。金融・企業文書にある divest of の型を読むときも、再帰代名詞が全語義で自由に省略できるとも、from と of が常に交換できるとも考えない。divest from fossil fuels は燃料を物理的に体から取り除く意味ではなく、関連企業・事業への投資を引き揚げる表現。新規投資をしないだけなら「すでにある投資を divest した」とは限らず、撤退範囲も文脈で確認する。from は撤退元、語義1の divest assets to a buyer の to は譲渡先を示す。"
+      ],
+      "synonyms": [
+        {
+          "word": "disinvest",
+          "definition": "投じた資本を引き揚げる。",
+          "frequency": 2,
+          "difference": "経済・金融に限定される低頻度の語で、disinvest from の型も使う。divest の権限剝奪や脱衣の意味は持たない。",
+          "example": "Some investors chose to disinvest from the sector.",
+          "translation": "一部の投資家は、その業種から資本を引き揚げることを選んだ。"
+        },
+        {
+          "word": "pull out",
+          "definition": "投資・事業への参加をやめて撤退する。",
+          "frequency": 6,
+          "difference": "pull out of の型。くだけた広い撤退表現で、資産売却以外にも、事業や交渉から手を引く場合に使う。",
+          "example": "The investor pulled out of the venture before it expanded overseas.",
+          "translation": "その投資家は、その事業が海外展開する前に撤退した。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "invest",
+          "definition": "利益などを見込んで資金を投じる。",
+          "frequency": 8,
+          "difference": "投資先との関係を作る・増やすか、引き揚げるかという方向の反対。投資先の前置詞は in で、divest from と対照になる。",
+          "example": "The fund invests in companies developing clean energy.",
+          "translation": "その基金はクリーンエネルギーを開発する企業に投資している。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【他動詞・剝奪／再帰用法】権利・権限などを取り去る・手放す",
+      "frequency": 4,
+      "register": [
+        "硬い一般語。組織運営、政治、法律・財産関係の文書など。法律では財産権・権益を失わせる語彙としても使う。"
+      ],
+      "definition": "人・組織などが持つ権限、権利、財産上の権益、責任などを取り去り、それを持たない状態にする。divest someone/something of something の型では、直接目的語は失う側、of 以下は失うもの。oneself を使えば、自分の権限や責任を手放す意味になる。法律では、失わせる権原そのものを直接目的語にする型もある。責任を軽くする場合にも使い、必ず処罰や不当な略奪を意味するわけではない。",
+      "patterns": [
+        "divest someone/something of 〈authority/power/rights/responsibility〉＝人・組織から権限・権利などを取り去る。",
+        "divest oneself of 〈authority/responsibility〉＝自分がその権限・責任を手放す。",
+        "be divested of 〈authority/rights〉＝人・組織を主語にした受動態。「権限を奪われた人」は someone divested of authority と、of 句を伴う過去分詞を名詞・代名詞の後に置ける。",
+        "divest someone's title to something＝法律の用法で、人がその財産について持つ権原を失わせる。目的語は title で、資産を売却する語義1とは区別する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "divest someone of authority",
+          "use": "人に与えられていた権限を取り去る。",
+          "example": "The board divested the director of authority over hiring.",
+          "translation": "取締役会は、その取締役から採用に関する権限を取り上げた。"
+        },
+        {
+          "pattern": "be divested of power",
+          "use": "組織や役職者が権力・権限を失うことを受動形で述べる。",
+          "example": "Under the reorganisation, the regional offices were divested of their power to approve major contracts.",
+          "translation": "再編によって、地域事務所は重要契約を承認する権限を失った。"
+        },
+        {
+          "pattern": "divest oneself of responsibility",
+          "use": "自分の担当・責任を手放す。",
+          "example": "The founder gradually divested herself of responsibility for day-to-day operations.",
+          "translation": "創業者は、日常業務の運営責任を徐々に手放した。"
+        },
+        {
+          "pattern": "divest a company of its assets",
+          "use": "会社を、保有資産を失う側として示す。",
+          "example": "The scheme divested the company of its most valuable assets while leaving its debts in place.",
+          "translation": "その計画は会社から最も価値のある資産を取り去り、一方で負債は残した。"
+        },
+        {
+          "pattern": "divest someone of their interest in property",
+          "use": "法律・財産関係の文章で、特定の財産権益を失わせることを述べる。",
+          "example": "The court's order divested him of his interest in the property.",
+          "translation": "その裁判所の命令により、彼はその不動産について持っていた権益を失った。"
+        },
+        {
+          "pattern": "divest someone's title to something",
+          "use": "法律の文章で、失わせる権原そのものを直接目的語にする。",
+          "example": "The judgment divested the defendant's title to the land.",
+          "translation": "その判決により、被告はその土地に対する権原を失った。"
+        }
+      ],
+      "notes": [
+        "divest someone of something の of は「失われるもの」を導く。誤: The board divested him from his authority. → 正: The board divested him of his authority. 自動詞の divest from「投資を引き揚げる」（語義2）をこの型に持ち込まない。divest the company of its assets は「会社から資産を取り去る」、divest the company's assets は「会社の資産を売却・譲渡する」（語義1）で、直接目的語の役割が違う。divest oneself of responsibility は自分が手放す能動再帰文で、be divested of responsibility は責任を取り去られる受動文。いずれも、当人の希望や同意の有無は具体的な文脈による。divest the defendant of title と divest the defendant's title は、どちらも法律上の権原を失わせる表現だが、前者は人、後者は権原が直接目的語。「人以外が目的語なら必ず売却」とはならない。財産法の title は財産についての権原、interest は財産上の権益であり、それぞれ「題名」「関心・利息」ではない。権利の喪失方法、命令の効力、移転先などは各文書・制度が決めるので、divest の一語から特定の法的手続を補わない。"
+      ],
+      "synonyms": [
+        {
+          "word": "deprive",
+          "definition": "人などが持つ、または必要とするものを奪う。",
+          "frequency": 6,
+          "difference": "deprive someone of something の型で、睡眠・機会など対象が広い。divest は権限や財産などを形式的に取り去る文脈で目立つ。",
+          "example": "The new rule deprived members of their right to vote.",
+          "translation": "新しい規則は会員たちから投票権を奪った。"
+        },
+        {
+          "word": "strip",
+          "definition": "人から地位・権限などを剝ぎ取るように奪う。",
+          "frequency": 5,
+          "difference": "strip someone of something の型。強制的・徹底的な除去を強く感じさせ、divest より直接的な表現。",
+          "example": "The committee stripped him of his title.",
+          "translation": "委員会は彼の称号を剝奪した。"
+        },
+        {
+          "word": "relieve",
+          "definition": "人が担っている任務・責任を取り除く。",
+          "frequency": 5,
+          "difference": "relieve someone of duties のように役務から解くことに重点がある。負担軽減にも解任にもなり、divest の財産・権利全般を代用しない。",
+          "example": "She was relieved of administrative duties so that she could focus on research.",
+          "translation": "研究に専念できるよう、彼女は管理業務を免除された。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "vest",
+          "definition": "人・機関に権利や権限を与える。",
+          "frequency": 3,
+          "difference": "権限の付与と除去という方向の反対。vest someone with authority / vest authority in someone の型を使い、divest someone of authority と前置詞・目的語の役割が違う。",
+          "example": "The charter vests the council with authority over local planning.",
+          "translation": "その憲章は評議会に地域計画に関する権限を与えている。"
+        },
+        {
+          "word": "confer",
+          "definition": "権利・資格・栄誉などを正式に授ける。",
+          "frequency": 5,
+          "difference": "権利などを授与する方向で divest と対立する。confer rights on someone では、与える権利が直接目的語。",
+          "example": "Membership confers voting rights on each participant.",
+          "translation": "会員資格は各参加者に投票権を与える。"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "【他動詞・比喩／再帰用法】性質・思い込み・付随要素を取り除く",
+      "frequency": 3,
+      "register": [
+        "硬い書き言葉・評論・文学。物理的な脱衣ではない比喩。"
+      ],
+      "definition": "物事に伴う意味・雰囲気・装飾的要素や、人が抱く思い込みなどを取り除く。直接目的語は、それらを備えていた人・物事。価値を奪う否定的な変化にも、不要な思い込みから解放する変化にも使える。",
+      "patterns": [
+        "divest something of 〈its mystery/its meaning〉＝物事から神秘性・意味などを取り除く。",
+        "divest someone of something＝人の信念・思い込みを取り除く。",
+        "divest oneself of 〈prejudices/illusions〉＝自分の偏見・幻想を捨て去る。",
+        "be divested of something＝人・物事を主語にした受動態で、性質などが取り去られる。divested of something は後置修飾・分詞構文にも使える。"
+      ],
+      "collocations": [
+        {
+          "pattern": "divest something of its mystery",
+          "use": "物事の神秘性や謎めいた雰囲気を取り去る。",
+          "example": "The documentary divests the old legend of its mystery by tracing every detail to a known event.",
+          "translation": "そのドキュメンタリーは細部の一つ一つを既知の出来事に結び付け、古い伝説から神秘性を取り去っている。"
+        },
+        {
+          "pattern": "divest someone of an illusion",
+          "use": "人の幻想・思い込みを取り払う。",
+          "example": "The report divested him of the illusion that the process was entirely fair.",
+          "translation": "その報告書によって、手続きが完全に公平だという彼の思い込みは崩れた。"
+        },
+        {
+          "pattern": "divest oneself of prejudices",
+          "use": "自分の偏見を捨て去ることを硬い表現で述べる。",
+          "example": "To understand the unfamiliar tradition, we must first divest ourselves of our prejudices.",
+          "translation": "なじみのないその伝統を理解するには、まず自分たちの偏見を捨て去らなければならない。"
+        },
+        {
+          "pattern": "be divested of meaning",
+          "use": "行為・表現などが持っていた意味を失うことを述べる。",
+          "example": "Repeated as a marketing slogan, the phrase was divested of its original meaning.",
+          "translation": "宣伝文句として繰り返されるうち、その言葉は本来の意味を失った。"
+        }
+      ],
+      "notes": [
+        "衣服を脱ぐ divest oneself of a coat（語義5）と同じ of 型だが、この語義で取り除くのは抽象的な内容。The explanation divested the story of its mystery. は「物語から神秘性を取り去った」であり、「神秘性を説明した」だけではない。抽象物を直接目的語にして除くものを示すのではなく、この型では divest the story of its mystery と、性質を失う側を先に置く。否定的な性質だけに限定せず、meaning や charm のように失うと困る性質にも使う。be divested of は受動・結果状態を表し、divested が独立して「魅力のない」を意味する形容詞になったわけではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "strip",
+          "definition": "物事から性質・意味・付随要素を剝ぎ取る。",
+          "frequency": 5,
+          "difference": "strip something of something は同じ構造で、除去の強さやむき出しになる感じを出しやすい。divest はより硬い。",
+          "example": "The adaptation stripped the story of its political context.",
+          "translation": "その翻案は物語から政治的背景を取り去っていた。"
+        },
+        {
+          "word": "rid",
+          "definition": "人や物事から不要・有害なものを取り除く。",
+          "frequency": 5,
+          "difference": "rid someone/something of something の型。通常は取り除くものを望ましくないと見なすが、divest は価値ある意味・魅力の除去にも使える。",
+          "example": "She tried to rid herself of the belief that every mistake was a disaster.",
+          "translation": "彼女は、間違いを一つするたびに大惨事だと考える癖を捨てようとした。"
+        },
+        {
+          "word": "shed",
+          "definition": "以前持っていた態度・習慣・イメージなどを捨て去る。",
+          "frequency": 5,
+          "difference": "取り除く内容を直接目的語にする。shed one's prejudices が divest oneself of one's prejudices に対応し、of を要しない。",
+          "example": "The organisation is trying to shed its secretive image.",
+          "translation": "その組織は秘密主義的なイメージを払拭しようとしている。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "invest with",
+          "definition": "人や物に特定の性質・意味を与える。",
+          "frequency": 3,
+          "difference": "性質の付与と除去という方向の反対。invest something with meaning と divest something of meaning が対応する。金銭を投資する invest in とは別の用法。",
+          "example": "The ceremony invested the ordinary object with special meaning.",
+          "translation": "その儀式は、ありふれたその物に特別な意味を与えた。"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "【他動詞・物理的除去／再帰用法】衣服・装備などを取り去る・脱ぐ",
+      "frequency": 2,
+      "register": [
+        "硬い・文学的。とくに人の衣服を脱がせる用法は古風で、現代では冗談めいた大げさな言い方にもなる。"
+      ],
+      "definition": "人が着たり身に付けたりしている衣服・装備を取り去る。自分自身が目的語なら「脱ぐ・外す」。物を覆うものや部屋の備品などを取り除く、硬い物理的描写にも広がる。どの程度取り去るかは of 以下の対象で決まり、必ず全裸にするとは限らない。",
+      "patterns": [
+        "divest someone of 〈a coat/a helmet〉＝人から着衣・装備を取り去る。",
+        "divest oneself of 〈one's coat/one's boots〉＝自分の衣服・装備を脱ぐ・外す。",
+        "divest something of something＝場所・物から備品や覆いなどを取り去る。",
+        "be divested of something＝身に付けたもの・備えたものを取り去られる。of 以下を示さない divest someone「脱がせる」もあるが、通常の学習では対象を明示する型が分かりやすい。"
+      ],
+      "collocations": [
+        {
+          "pattern": "divest oneself of one's coat",
+          "use": "「コートを脱ぐ」を硬い語り口で表す。",
+          "example": "Once inside the warm hall, he divested himself of his heavy coat.",
+          "translation": "暖かな広間に入ると、彼は重いコートを脱いだ。"
+        },
+        {
+          "pattern": "divest someone of a garment",
+          "use": "別の人の衣服を取り去ることを文学的に描く。",
+          "example": "The attendant divested the traveller of his rain-soaked cloak.",
+          "translation": "付き添いの者は、旅人の雨にぬれた外套を脱がせた。"
+        },
+        {
+          "pattern": "be divested of furnishings",
+          "use": "部屋の備品などが取り除かれた状態を硬い表現で描く。",
+          "example": "The grand room had been divested of its furnishings and looked unexpectedly small.",
+          "translation": "調度品を取り払うと、その立派な部屋は意外に小さく見えた。"
+        }
+      ],
+      "notes": [
+        "日常の「上着を脱ぐ」は take off one's jacket のほうが普通。divest oneself of a jacket には、意識して硬く述べる響きがある。再帰代名詞を人称に合わせ、I divested myself of my coat. とする。語義1の divest assets から類推して divest a coat を通常の「コートを脱ぐ」の基本構文にしない。資産を手放す divest oneself of shares と、衣服を脱ぐ divest oneself of a coat は同じ再帰・of 型でも意味領域が異なる。be divested of one's coat は「コートを脱がされる」という受動形で、自分で脱ぐ再帰形の代わりではない。過去分詞を用いた a room divested of its furnishings は名詞の後の修飾で、ハイフンは付けない。"
+      ],
+      "synonyms": [
+        {
+          "word": "take off",
+          "definition": "身に付けた衣服・装備を外す。",
+          "frequency": 9,
+          "difference": "日常的な表現。衣服が目的語で、take off a coat / take a coat off、代名詞なら take it off の語順。",
+          "example": "She took off her boots at the door.",
+          "translation": "彼女は入り口でブーツを脱いだ。"
+        },
+        {
+          "word": "undress",
+          "definition": "衣服を脱ぐ、または人の衣服を脱がせる。",
+          "frequency": 6,
+          "difference": "着替えや就寝に向けて衣服を脱ぐことを一般的に表す。divest oneself of は、コートなど特定の一品だけを外す場合にも明示的に使える。",
+          "example": "He undressed and put on his pyjamas.",
+          "translation": "彼は服を脱いでパジャマに着替えた。"
+        },
+        {
+          "word": "strip",
+          "definition": "人・物から衣服・覆いなどを剝ぎ取る。",
+          "frequency": 6,
+          "difference": "強く剝ぎ取る感じを出せる。人について目的語や補足なしに使うと、衣服をすべて、または大部分脱ぐ意味になりやすい。",
+          "example": "The workers stripped the walls of their old coverings.",
+          "translation": "作業員たちは壁から古い表面材を剝がした。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "dress",
+          "definition": "衣服を着る、または人に着せる。",
+          "frequency": 8,
+          "difference": "人の着衣と脱衣という方向の反対。dress someone in something では人が目的語、衣服は in 以下に置く。",
+          "example": "The attendants dressed the actor in a long ceremonial robe.",
+          "translation": "係の者たちは俳優に長い儀式用の衣を着せた。"
+        },
+        {
+          "word": "put on",
+          "definition": "衣服・装備を身に付ける。",
+          "frequency": 9,
+          "difference": "特定の衣服・装備の着用と取り外しという方向の反対。put on one's coat の目的語は衣服で、divest oneself of one's coat の oneself とは役割が違う。",
+          "example": "He put on his coat before stepping outside.",
+          "translation": "彼は外に出る前にコートを着た。"
+        }
+      ]
+    }
+  ]
+}
