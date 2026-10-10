@@ -1,0 +1,547 @@
+{
+  "word": "incidental",
+  "slug": "incidental",
+  "ipa": "米・英: /ˌɪnsɪˈdentl/",
+  "lead": "主な目的・活動に関連して生じるが、その中心ではない。重要性が低い場合と、本来の目的として意図されていない場合があり、両方が同時に成り立つ必要はない。費用・利益・細部・発見などを修飾する。",
+  "updated": "2026-10-10",
+  "notion_url": "https://app.notion.com/p/incidental-3f54faa9b77d81e99c00efff6d22535b",
+  "pronunciation": [
+    "第3音節の /den/ に主強勢、第1音節の /ɪn/ に第二強勢を置く。語尾の /tl/ は、最後の /l/ を音節の核として発音する形を表す。incidentally は /ˌɪnsɪˈdentli/ で、主強勢の位置は変わらない。名詞の複数形 incidentals の語末は /tlz/。"
+  ],
+  "etymology": [
+    "中世ラテン語 incidentalis に由来し、ラテン語 incidere「降りかかる、起こる」の系列に属する。incidere は in-「上に」と cadere「落ちる」から成り、この in- は否定の接頭辞ではない。同じ系列に incident「出来事、事件」と incidence「発生・発生率」がある。現代の incidental は「事件の、事故の」と機械的に訳す語ではなく、主な事柄との付随関係や、意図しない発生を表す。"
+  ],
+  "formation": [
+    {
+      "term": "incidentally",
+      "description": "incidental に -ly を付けた副詞。「ちなみに、ところで」という談話用法と、「付随的に、たまたま」という動作・出来事の修飾を区別する。語義6・7を参照。"
+    },
+    {
+      "term": "incidentals",
+      "description": "名詞 incidental の通常の複数形。「付随する細かな品目・事項、雑費」。形容詞そのものが複数化した形ではない。"
+    },
+    {
+      "term": "incidental",
+      "description": "music：形容詞 incidental と不可算名詞 music の定着した結合。「劇付随音楽、劇伴」。語義5を参照。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "主な目的・計画そのものを中心に置くのではなく、その傍らに生じるもの・添わるものとして捉える。「副次的」「自然に伴う」「意図せず生じる」のどこに焦点を置くかで訳が変わり、常に小さく無害なことや、常に偶然であることを意味しない。"
+    },
+    {
+      "type": "item",
+      "text": "主な事柄の傍らの副次的要素 → 「副次的な、付随的な」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "主な事柄の傍らに自然に生じる要素 → 「～に伴って生じる」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "主な事柄の傍らの意図せぬ出会い・一致 → 「偶然の、意図しない」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "主な事柄の傍らの細かな費用・品目 → 「雑費、付随する細かな事項・品目」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "主な事柄の傍らで場面を支える音楽 → 「劇付随音楽、劇伴」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "主な事柄の傍らに添える発言 → 「ちなみに、ところで」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "主な事柄の傍らで生じる発見など → 「付随的に、たまたま」（語義7）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【形容詞・限定用法／叙述用法】副次的な、付随的な",
+      "frequency": 7,
+      "register": [
+        "やや硬い表現。実務、論説、学術。"
+      ],
+      "definition": "主な目的・活動に関連して生じるが、その中心ではない。重要性が低い場合と、本来の目的として意図されていない場合があり、両方が同時に成り立つ必要はない。費用・利益・細部・発見などを修飾する。",
+      "patterns": [
+        "incidental + 〈費用・利益・細部などの名詞〉＝付随する費用など",
+        "be/seem incidental to something＝その事柄に比べて副次的である・そう見える",
+        "be merely/purely incidental＝付随的なものにすぎない。比較は more/less incidental。程度より位置づけを表すため、merely・purely・entirely などがよく使われる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "incidental expenses",
+          "use": "主な支出に伴う細かな経費。",
+          "example": "The budget includes a small allowance for incidental expenses during the trip.",
+          "translation": "予算には、旅行中の雑費に充てる少額の手当が含まれている。"
+        },
+        {
+          "pattern": "incidental benefits",
+          "use": "本来の目的とは別に得られる利点。",
+          "example": "The project improved our filing system, an incidental benefit we had not anticipated.",
+          "translation": "その事業によって文書の管理方法も改善され、これは予想していなかった副次的な利点だった。"
+        },
+        {
+          "pattern": "an incidental detail",
+          "use": "中心ではない細部として扱う場合。",
+          "example": "The colour of the folder is an incidental detail; the contents matter more.",
+          "translation": "フォルダーの色は些細なことだ。中身のほうが重要である。"
+        },
+        {
+          "pattern": "be incidental to the main purpose",
+          "use": "中心の目的との関係を to で示す。",
+          "example": "Any publicity is incidental to the main purpose of raising funds for the library.",
+          "translation": "どのような宣伝効果も、図書館の資金を集めるという主目的に付随するものだ。"
+        },
+        {
+          "pattern": "be more than incidental",
+          "use": "単に副次的だという評価を否定する。",
+          "example": "Her contribution was more than incidental; she designed the entire programme.",
+          "translation": "彼女の貢献は付随的なものにとどまらなかった。プログラム全体を設計したのは彼女だった。"
+        },
+        {
+          "pattern": "an incidental finding",
+          "use": "検査の本来の目的とは別に見つかった所見。",
+          "example": "The scan revealed an incidental finding unrelated to the symptom being investigated.",
+          "translation": "その画像検査では、調べていた症状とは関係のない所見が偶然見つかった。"
+        }
+      ],
+      "notes": [
+        "incidental expenses は「事故による費用」ではない。主目的に付随する費用で、あらかじめ予算化されていても使える。be incidental to の to は前置詞なので、後ろは名詞句や動名詞。正: costs incidental to running the office、誤: costs incidental to run the office。人の恒常的な性格を表す形容詞ではなく、役割や関与が副次的であることを述べる。not merely incidental は「些細ではない」と重要性を強調する。医療の incidental finding は発見と検査目的の関係を示す語で、良性・軽症・治療不要と判断する語ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "secondary",
+          "definition": "主たるものに次ぐ、重要性が二次的な。",
+          "frequency": 8,
+          "difference": "順位・優先度の低さが中心。主な活動から偶然生じたとは限らない。",
+          "example": "Cost is a secondary consideration at this stage.",
+          "translation": "この段階では、費用は二の次の検討事項である。"
+        },
+        {
+          "word": "minor",
+          "definition": "程度・規模・重要性が小さい。",
+          "frequency": 9,
+          "difference": "小ささそのものを表し、別の主な事柄に伴う関係は必要ない。",
+          "example": "The report contains a few minor errors.",
+          "translation": "報告書には小さな誤りがいくつかある。"
+        },
+        {
+          "word": "ancillary",
+          "definition": "主な機能を補助する、付随する。",
+          "frequency": 5,
+          "difference": "中心の活動を支える役割を強調する。incidental は意図せず生じるものにも使う。",
+          "example": "The centre offers ancillary services such as equipment rental.",
+          "translation": "そのセンターは機器の貸し出しなどの補助的なサービスを提供している。"
+        },
+        {
+          "word": "peripheral",
+          "definition": "中心から外れていて重要性が低い、周辺的な。",
+          "frequency": 6,
+          "difference": "中心との距離・関連の薄さに焦点がある。incidental は主活動に自然に伴う場合もある。",
+          "example": "The discussion became focused on peripheral issues.",
+          "translation": "議論は周辺的な問題に集中するようになった。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "central",
+          "definition": "重要性・位置づけが中心的な。",
+          "frequency": 8,
+          "difference": "中心か付随的かという位置づけの対立。すべての incidental が無価値という意味ではない。",
+          "example": "Trust is central to the partnership.",
+          "translation": "信頼は、その協力関係の中核にある。"
+        },
+        {
+          "word": "primary",
+          "definition": "第一の、主たる。",
+          "frequency": 8,
+          "difference": "優先度・目的の順位で対立する。主なものと付随するものは同時に存在できる。",
+          "example": "Our primary aim is to improve access.",
+          "translation": "私たちの主な目標は、利用しやすさを改善することだ。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【形容詞・主に叙述用法／後置修飾】～に伴って生じる",
+      "frequency": 5,
+      "register": [
+        "硬い表現。業務、規程、専門文書。"
+      ],
+      "definition": "ある仕事・活動・立場に、結果や付随事項として自然に伴う。「その事柄に伴う」という関係に重点があり、結果の重大さが小さいとは限らない。",
+      "patterns": [
+        "be incidental to 〈活動・立場〉＝その活動・立場に伴って生じる",
+        "〈risks/duties/expenses〉 incidental to something＝それに伴う危険・職務・費用。to 句を伴う形容詞句は、名詞の後ろにも置く。"
+      ],
+      "collocations": [
+        {
+          "pattern": "risks incidental to the work",
+          "use": "仕事に伴うリスクを後置修飾で表す。",
+          "example": "The training covers the serious risks incidental to working at great heights.",
+          "translation": "その研修では、高所作業に伴う重大なリスクを扱う。"
+        },
+        {
+          "pattern": "duties incidental to a role",
+          "use": "役職に伴う付随業務を表す。",
+          "example": "The handbook lists administrative duties incidental to the role.",
+          "translation": "手引きには、その役職に伴う事務上の職務が記載されている。"
+        },
+        {
+          "pattern": "be incidental to an activity",
+          "use": "活動と付随事項との関係を叙述する。",
+          "example": "These additional inspections are incidental to operating the equipment overseas.",
+          "translation": "これらの追加検査は、その機器を海外で運用することに伴うものである。"
+        }
+      ],
+      "notes": [
+        "この incidental to は「無関係に、たまたま」とは限らず、予測される付随事項にも使う。語義1の「中心に比べて副次的」と重なる場合はあるが、serious risks incidental to the work のように重大な対象も取れる。to の後に動作を置く場合は operating などの動名詞にする。法律や契約で使われても、負担義務・免責・補償範囲がこの形容詞だけで決まるわけではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "attendant",
+          "definition": "ある出来事・状態に伴って生じる。",
+          "frequency": 5,
+          "difference": "attendant risks のように伴う状況を表す硬い語。偶然性より随伴関係が中心。",
+          "example": "They discussed the expansion and its attendant risks.",
+          "translation": "彼らは事業拡大とそれに伴うリスクについて話し合った。"
+        },
+        {
+          "word": "concomitant",
+          "definition": "別の事柄と同時に伴って生じる。",
+          "frequency": 4,
+          "difference": "特に専門的な文章で、同時性・随伴性に焦点を置く。",
+          "example": "The report describes the reforms and their concomitant costs.",
+          "translation": "その報告書は、改革とそれに伴う費用を説明している。"
+        },
+        {
+          "word": "inherent",
+          "definition": "性質上、もともと内在する。",
+          "frequency": 7,
+          "difference": "対象の本質から切り離しにくいことを強調する。incidental は付随関係を示すだけで、常に本質的・不可避とは限らない。",
+          "example": "There are risks inherent in any major investment.",
+          "translation": "大規模な投資には、どれにも内在するリスクがある。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【形容詞・限定用法／叙述用法】偶然の、意図しない",
+      "frequency": 4,
+      "register": [
+        "やや硬い表現。一般文、説明、文学。"
+      ],
+      "definition": "計画・意図・計算によらず生じる。「副次的で小さい」という評価より、偶然に生じたことを前面に出す用法。",
+      "patterns": [
+        "an incidental 〈encounter/resemblance〉＝偶然の出会い・類似",
+        "be purely incidental＝まったく偶然である。名詞前にも補語にも使う。比較の more incidental より、purely・entirely などで偶然性を明示することが多い。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an incidental encounter",
+          "use": "計画されていなかった出会い。",
+          "example": "An incidental encounter on the train led them to discover that they had attended the same school.",
+          "translation": "電車でたまたま出会ったことから、2人は同じ学校に通っていたと分かった。"
+        },
+        {
+          "pattern": "a purely incidental resemblance",
+          "use": "似せる意図がなかったことを述べる。",
+          "example": "The resemblance between the two logos is purely incidental; the designers never saw each other's work.",
+          "translation": "2つのロゴが似ているのはまったくの偶然で、デザイナーたちは互いの作品を見たことがなかった。"
+        }
+      ],
+      "notes": [
+        "この語義では accidental と意味が重なる。ただし incidental の現代の中心用法は付随性・副次性であり、すべての incidental expenses を accidental expenses に置き換えられるわけではない。an incidental encounter は文脈で「些細な出会い」とも読めるため、偶然であることを明確に言いたければ a chance encounter が分かりやすい。偶然起きたことでも、結果が重大になる場合はある。"
+      ],
+      "synonyms": [
+        {
+          "word": "accidental",
+          "definition": "意図せず、または偶然に起きた。",
+          "frequency": 7,
+          "difference": "意図・計画がなかったことを明確に示す。副次的であることは必須でない。",
+          "example": "The deletion was accidental.",
+          "translation": "削除は意図したものではなかった。"
+        },
+        {
+          "word": "chance",
+          "definition": "偶然の。",
+          "frequency": 6,
+          "difference": "形容詞として名詞前で使い、a chance meeting のように偶然性を直接示す。",
+          "example": "A chance meeting changed their plans.",
+          "translation": "偶然の出会いが、彼らの計画を変えた。"
+        },
+        {
+          "word": "fortuitous",
+          "definition": "偶然に生じた。",
+          "frequency": 5,
+          "difference": "偶然性に加え、幸運な結果という含みで使われることが多い。",
+          "example": "The timing of her arrival was fortuitous.",
+          "translation": "彼女が到着したタイミングは偶然ながら好都合だった。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "deliberate",
+          "definition": "意図して行った、故意の。",
+          "frequency": 8,
+          "difference": "意図性の有無で対立する。incidental の「副次的」という全用法の反対語ではない。",
+          "example": "The similarity was deliberate.",
+          "translation": "その類似は意図的なものだった。"
+        },
+        {
+          "word": "planned",
+          "definition": "あらかじめ計画された。",
+          "frequency": 8,
+          "difference": "計画の有無で対立する。計画されていても、全体に対して副次的であることは可能。",
+          "example": "It was a planned meeting, not a chance encounter.",
+          "translation": "それは偶然の出会いではなく、予定された面会だった。"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "【名詞・可算、通常複数形 incidentals】雑費、付随する細かな事項・品目",
+      "frequency": 6,
+      "register": [
+        "旅行、出張、宿泊、予算・経費。"
+      ],
+      "definition": "主な費用・活動に伴う細かな出費や品目・事項。特に、個別に大きな費目として取り上げない経費をまとめて incidentals という。",
+      "patterns": [
+        "money for incidentals＝雑費に充てるお金",
+        "an allowance for incidentals＝雑費用の手当",
+        "cover/pay for incidentals＝雑費を賄う",
+        "incidentals are included/excluded＝雑費が含まれる・含まれない。通常複数扱い。"
+      ],
+      "collocations": [
+        {
+          "pattern": "money for incidentals",
+          "use": "主な費用とは別の予備的な支出枠。",
+          "example": "Keep some money aside for incidentals during the conference.",
+          "translation": "会議の期間中にかかる雑費のために、いくらかお金を取っておいてください。"
+        },
+        {
+          "pattern": "an allowance for incidentals",
+          "use": "細かな付随費用を賄う手当。",
+          "example": "The company provides an allowance for incidentals on business trips.",
+          "translation": "その会社は出張時に雑費の手当を支給している。"
+        },
+        {
+          "pattern": "incidentals are included",
+          "use": "料金に含まれるかを複数名詞で述べる。",
+          "example": "Meals are covered, but incidentals are not included in the package.",
+          "translation": "食事代は含まれているが、雑費はそのパッケージに含まれていない。"
+        },
+        {
+          "pattern": "stationery and other incidentals",
+          "use": "経費だけでなく細かな付随品も指す。",
+          "example": "We packed the teaching materials, stationery, and other incidentals.",
+          "translation": "私たちは教材、文房具、その他の細かな備品を荷造りした。"
+        }
+      ],
+      "notes": [
+        "incidental expenses は「形容詞＋複数名詞」、incidentals はそれ自体が複数名詞。正: incidental expenses、正: incidentals、誤: incidentals expenses。通常は複数で使うが、単数形 an incidental が絶対に存在しないわけではない。ホテルや旅費規程で何を incidentals に含めるかは施設・規程によって異なるため、特定の品目を普遍的な定義にしない。incidentals があるというだけで、追加請求額や返金条件までは分からない。"
+      ],
+      "synonyms": [
+        {
+          "word": "expenses",
+          "definition": "仕事・旅行・生活などにかかる費用。",
+          "frequency": 9,
+          "difference": "主な支出も含める広い語。incidentals は付随する細かな費用に焦点を置く。",
+          "example": "Travel expenses are reimbursed monthly.",
+          "translation": "旅費は毎月払い戻される。"
+        },
+        {
+          "word": "sundries",
+          "definition": "分類をまとめた細かな品目・雑費。",
+          "frequency": 4,
+          "difference": "特に会計や商品分類で、雑多なものをひとまとめにする硬い語。",
+          "example": "The shop sells stationery and sundries.",
+          "translation": "その店は文房具や雑貨を売っている。"
+        },
+        {
+          "word": "extras",
+          "definition": "基本の内容に追加される物・サービス・料金。",
+          "frequency": 7,
+          "difference": "基本料金から外れた追加分に重点があり、小額とは限らない。",
+          "example": "Breakfast and parking are charged as extras.",
+          "translation": "朝食と駐車場は追加料金となる。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞句・不可算：incidental music】劇付随音楽、劇伴",
+      "frequency": 4,
+      "register": [
+        "演劇、映画、音楽。"
+      ],
+      "definition": "劇・映画などに添えられ、場面の雰囲気や展開を支える音楽。台詞の背景や場面転換などに使われる。",
+      "patterns": [
+        "incidental music for 〈a play/a film〉＝劇・映画に添える音楽",
+        "compose/write incidental music＝劇付随音楽を作曲する",
+        "a piece of incidental music＝劇付随音楽の1曲。句の中心語 music は不可算。"
+      ],
+      "collocations": [
+        {
+          "pattern": "incidental music for a play",
+          "use": "どの作品に付随する音楽かを示す。",
+          "example": "She composed the incidental music for a new production of the play.",
+          "translation": "彼女は、その劇の新たな上演のために劇付随音楽を作曲した。"
+        },
+        {
+          "pattern": "a piece of incidental music",
+          "use": "個々の曲を数える。",
+          "example": "A short piece of incidental music accompanies the change of scene.",
+          "translation": "場面転換に合わせて、短い劇付随音楽が流れる。"
+        }
+      ],
+      "notes": [
+        "incidental music は定着した結合で、「偶然鳴った音楽」「重要でない音楽」ではない。劇に合わせて意図的に作曲されることもあり、芸術的価値の低さを表さない。正: some incidental music、正: two pieces of incidental music。通常の曲数を表すために musics としない。映画の音楽全般・音源集を指す soundtrack と常に同じ範囲ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "background music",
+          "definition": "場面・会話・活動の背景に流れる音楽。",
+          "frequency": 7,
+          "difference": "劇や映画以外に、店内や作業中の音楽も含む。incidental music は劇的な作品への付随が中心。",
+          "example": "Soft background music played in the café.",
+          "translation": "カフェでは穏やかなBGMが流れていた。"
+        },
+        {
+          "word": "score",
+          "definition": "映画・劇などのために書かれた音楽。",
+          "frequency": 6,
+          "difference": "作品の音楽全体を指すことがあり、可算名詞。場面を支えるという役割だけを表す語ではない。",
+          "example": "The film has an original orchestral score.",
+          "translation": "その映画にはオリジナルの管弦楽曲が使われている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【副詞：incidentally・文修飾】ちなみに、ところで",
+      "frequency": 7,
+      "register": [
+        "会話、メール、一般文。by the way よりやや改まった響きになることがある。"
+      ],
+      "definition": "話している内容に関連する情報を添えたり、思い出した別の話題・質問を持ち出したりする。後続する発言が偶然起きたという意味ではない。",
+      "patterns": [
+        "Incidentally, 〈文〉＝ちなみに・ところで、…",
+        "〈主語〉, incidentally, + 〈述語〉＝文中で情報を添える。文頭・文中・文末に置け、挿入として使うときは通常コンマで区切る。"
+      ],
+      "collocations": [
+        {
+          "pattern": "Incidentally, 〈平叙文〉",
+          "use": "関連情報を付け足す。",
+          "example": "Incidentally, the same ticket is valid for the evening session.",
+          "translation": "ちなみに、同じチケットで夜の部にも入れます。"
+        },
+        {
+          "pattern": "Incidentally, 〈疑問文〉",
+          "use": "思い出した質問を持ち出す。",
+          "example": "Incidentally, have you booked a room for the workshop?",
+          "translation": "ところで、ワークショップの部屋は予約しましたか。"
+        },
+        {
+          "pattern": "〈主語〉, incidentally, 〈述語〉",
+          "use": "主語と述語の間に挿入する。",
+          "example": "The speaker, incidentally, used to work at our company.",
+          "translation": "ちなみに、その講演者は以前うちの会社に勤めていました。"
+        },
+        {
+          "pattern": "〈文〉, incidentally",
+          "use": "文末で補足情報という位置づけを示す。",
+          "example": "The exhibition closes tomorrow, incidentally.",
+          "translation": "ちなみに、その展覧会は明日で終わります。"
+        }
+      ],
+      "notes": [
+        "incidentally は副詞、incidental は形容詞。正: Incidentally, the meeting starts at ten.、誤: Incidental, the meeting starts at ten.。この談話用法を accidentally に置き換えると「誤って・偶然に」という別の意味になる。補足として導入していても、内容が重要でないとは限らない。語義7の discovered incidentally は発見の仕方を修飾するため、文全体への「ちなみに」と区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "by the way",
+          "definition": "ちなみに、ところで。",
+          "frequency": 9,
+          "difference": "話題を添える一般的で会話的な表現。incidentally よりくだけた場面でも広く使う。",
+          "example": "By the way, your book is on the desk.",
+          "translation": "ところで、あなたの本は机の上にあります。"
+        },
+        {
+          "word": "as an aside",
+          "definition": "余談として、付け加えると。",
+          "frequency": 5,
+          "difference": "本筋から外れることを明示して補足する。incidentally は新しい質問を導く場合にも使う。",
+          "example": "As an aside, the building was once a cinema.",
+          "translation": "余談ですが、その建物はかつて映画館でした。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【副詞：incidentally・動作／出来事の修飾】付随的に、たまたま",
+      "frequency": 5,
+      "register": [
+        "やや硬い表現。説明、研究、一般文。"
+      ],
+      "definition": "別の活動の過程で、本来の目的として狙わずに起こることを表す。また、話題・問題を中心的にではなく付随的に扱う場合にも使う。",
+      "patterns": [
+        "discover/learn something incidentally＝別の活動に伴って偶然知る",
+        "be discovered incidentally＝主目的とは別に見つかる",
+        "mention something only incidentally＝付随的にだけ言及する。動詞の近くや文末に置き、文修飾の挿入と区別する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "discover something incidentally",
+          "use": "別の調査中に情報が見つかる場合。",
+          "example": "We discovered the missing letter incidentally while cataloguing the archive.",
+          "translation": "資料を目録に整理している途中で、私たちは行方不明になっていた手紙をたまたま見つけた。"
+        },
+        {
+          "pattern": "learn something incidentally",
+          "use": "主目的の活動の副産物として学ぶ場合。",
+          "example": "Children can learn new words incidentally while listening to stories.",
+          "translation": "子どもは物語を聞いているうちに、新しい単語を自然に覚えることがある。"
+        },
+        {
+          "pattern": "mention something only incidentally",
+          "use": "中心の論点としてではなく触れる場合。",
+          "example": "The report mentions the cost only incidentally, in a note on the final page.",
+          "translation": "報告書は最終ページの注記で、費用に付随的に触れているだけだ。"
+        }
+      ],
+      "notes": [
+        "Incidentally, we found the letter. は「ちなみに、手紙が見つかった」で、その発見が偶然かどうかは述べていない。We found the letter incidentally while sorting the files. は「書類整理中にたまたま見つけた」で、発見の経緯を表す。コンマの有無だけで機械的に判定せず、修飾範囲と文脈を見る。incidentally discovered という形も自然で、-ly 副詞と分詞の間には通常ハイフンを置かない。mention only incidentally では、話し手が意図して言及していても「副次的に」の意味で使える。"
+      ],
+      "synonyms": [
+        {
+          "word": "accidentally",
+          "definition": "偶然に、意図せず、誤って。",
+          "frequency": 8,
+          "difference": "意図しない出来事を広く表す。別の主活動に付随することは必須でない。",
+          "example": "She accidentally deleted the message.",
+          "translation": "彼女は誤ってそのメッセージを削除した。"
+        },
+        {
+          "word": "in passing",
+          "definition": "ついでに、さらりと。",
+          "frequency": 6,
+          "difference": "主に発言・言及を短く付け足す場合で、偶然の発見そのものには使わない。",
+          "example": "He mentioned the change in passing.",
+          "translation": "彼はその変更にさらりと触れた。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
