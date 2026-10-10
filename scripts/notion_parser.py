@@ -148,20 +148,62 @@ def _simple_items(lines: list[str]) -> list[str]:
     return items
 
 
-def _parse_formation(lines: list[str]) -> list[dict[str, str]]:
-    result = []
-    for item in _simple_items(lines):
-        match = re.match(
-            r"^([^\s:：]+(?:\s+office|\s+hall|\s+kit|\s+tin)?)\s+(.*)$",
-            item,
+FORMATION_POS = (
+    r"(?:不可算名詞|可算名詞|複合名詞|名詞|複合形容詞|分詞形容詞|形容詞|"
+    r"他動詞|自動詞|動詞|副詞|過去形|過去分詞|現在分詞|動名詞|分詞|"
+    r"比較級|最上級|可算|不可算)"
+)
+FORMATION_POS_RE = re.compile(rf"{FORMATION_POS}(?:[・/／、]{FORMATION_POS})*")
+
+
+def _formation_heading(text: str) -> bool:
+    """Accept English forms/formulas and explicit POS labels, never translations."""
+    for opening, closing in (
+        ("（", "）"), ("(", ")"), ("【", "】"), ("［", "］"), ("[", "]"), ("〈", "〉"),
+    ):
+        text = re.sub(
+            re.escape(opening) + r"([^" + re.escape(closing) + r"]*)" + re.escape(closing),
+            lambda m: "" if FORMATION_POS_RE.fullmatch(m[1]) else m[0],
+            text,
         )
-        if match:
-            term, description = match.group(1), match.group(2)
-        else:
-            parts = re.split(r"[:：]", item, maxsplit=1)
-            term, description = (parts + [""])[:2]
-        result.append({"term": term.strip(), "description": description.strip()})
-    return result
+    return bool(re.search(r"[A-Za-z]", text) and re.fullmatch(
+        r"[A-Za-z0-9\s'’.,、/／+→=–\-]+", text
+    ))
+
+
+def _split_formation_item(item: str) -> tuple[str, str]:
+    # A colon is a boundary only when everything before it is a heading.
+    # In particular, a later colon inside a Japanese explanation is not one.
+    parts = re.split(r"[:：]", item, maxsplit=1)
+    if len(parts) == 2 and _formation_heading(parts[0]):
+        return parts[0], parts[1]
+    if _formation_heading(item) and (
+        not re.search(r"\s", item) or re.search(r"[→/+=]", item)
+    ):
+        return item, ""
+
+    # Without a heading colon, a Japanese label/explanation or quote supplies
+    # the boundary. Keep compounds, slash alternatives and formulas together.
+    # The last valid prefix permits POS labels inside formulas, e.g. a【名詞】→ b.
+    boundaries = [m.start() for m in re.finditer(
+        r"[\u3000-\u30ff\u3400-\u9fff\uff00-\uffef(\"“]", item
+    )]
+    for boundary in reversed(boundaries):
+        if _formation_heading(item[:boundary]):
+            return item[:boundary], item[boundary:]
+    # Ambiguous legacy prose keeps its existing first-space convention. There
+    # are no word-specific compound exceptions. Retain colons in the prose.
+    parts = item.split(maxsplit=1)
+    if re.search(r"[\u3040-\u30ff\u3400-\u9fff]", parts[0]):
+        return "", item
+    return (parts + [""])[:2]
+
+
+def _parse_formation(lines: list[str]) -> list[dict[str, str]]:
+    return [
+        {"term": term.strip(), "description": description.strip()}
+        for term, description in map(_split_formation_item, _simple_items(lines))
+    ]
 
 
 def _parse_core(lines: list[str]) -> list[dict[str, str]]:
