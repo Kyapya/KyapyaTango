@@ -1,0 +1,562 @@
+{
+  "word": "overlook",
+  "slug": "overlook",
+  "ipa": "米: /ˌoʊvərˈlʊk/｜英: /ˌəʊvəˈlʊk/",
+  "lead": "存在する事実・誤り・可能性などに気づかず、注意や検討の対象に入れ損なう。実際に目で見る場面に限らず、重要性を十分認識しない場合にも使う。ここでは意図的に許すのではなく、認識や検討の抜けを表す。",
+  "updated": "2026-10-10",
+  "notion_url": "https://app.notion.com/p/overlook-3f54faa9b77d81078c62d158c05a9eea",
+  "pronunciation": [
+    "上は動詞の発音。3音節で、第3音節に主強勢、第1音節に第二強勢を置く。米英差は、第1音節の母音が米 /oʊ/・英 /əʊ/ であることと、第2音節末の /r/ を上の米語表記では発音し、英語表記では発音しないこと。第3音節の母音はどちらも /ʊ/。米語の名詞「展望地点」は /ˈoʊvərˌlʊk/ で、第1音節に主強勢、第3音節に第二強勢がある。動詞の過去形・過去分詞 overlooked の -ed は /t/ で、音節を増やさない。"
+  ],
+  "etymology": [
+    "over と look の結合による語で、中英語から用いられている。高い所から見ること、目を通すこと、視線が対象を通り越して気づかないことなどに関係する意味を持つ。ただし「上から見る」という一つの訳から、現代のすべての意味が自動的に決まるわけではない。同じ look を含む語には outlook「見通し、見解」と lookout「見張り、見晴らしのよい場所」があるが、overlook の単なる名詞形として相互に置き換えない。"
+  ],
+  "formation": [
+    {
+      "term": "overlooked",
+      "description": "過去形・過去分詞。「見落とされた、十分に評価されていない」という状態を表す修飾語にもなる。an overlooked detail、a frequently overlooked writer のように使い、be overlooked や get overlooked とも結び付く。場所が主語なら「外から見下ろされる」という受動の意味にもなる。"
+    },
+    {
+      "term": "overlooking",
+      "description": "現在分詞。a balcony overlooking the river のように、場所の位置や眺めを後ろから説明できる。「現在ちょうど見落としている」という意味に固定しない。"
+    },
+    {
+      "term": "overlooker",
+      "description": "可算名詞。特に英国の古い工場などの文脈では「職長、監督者」。現代一般の役職名としては supervisor などのほうが普通で、語義6の監督義と関係する。"
+    }
+  ],
+  "core": [],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞】見落とす、気づかない、考慮から漏らす",
+      "frequency": 8,
+      "register": [
+        "一般、ビジネス、学術、報道。"
+      ],
+      "definition": "存在する事実・誤り・可能性などに気づかず、注意や検討の対象に入れ損なう。実際に目で見る場面に限らず、重要性を十分認識しない場合にも使う。ここでは意図的に許すのではなく、認識や検討の抜けを表す。",
+      "patterns": [
+        "overlook something",
+        "overlook the importance of something",
+        "overlook the fact that 〈節〉。something is overlooked",
+        "something gets overlooked は受動態。an overlooked 〈detail/factor〉、an often-overlooked 〈problem/aspect〉 は過去分詞による前置修飾。cannot afford to overlook something は見落とした場合の不利益を強調する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "overlook an error",
+          "use": "誤りに気づかなかったことを述べる。",
+          "example": "I overlooked an error in the total and noticed it only after sending the invoice.",
+          "translation": "私は合計額の誤りを見落とし、請求書を送った後になってようやく気づいた。"
+        },
+        {
+          "pattern": "overlook the fact that 〈節〉",
+          "use": "事実を検討に入れ損なう。",
+          "example": "The estimate overlooked the fact that the building would remain open during the repairs.",
+          "translation": "その見積もりでは、修理中も建物を利用し続けるという事実が考慮されていなかった。"
+        },
+        {
+          "pattern": "overlook the significance of something",
+          "use": "存在には気づいていても、その重要性を捉え損なう。",
+          "example": "We recorded the change but initially overlooked its significance.",
+          "translation": "私たちはその変化を記録したが、当初はその重要性を見落としていた。"
+        },
+        {
+          "pattern": "be easily overlooked",
+          "use": "目立たず見落としやすいものを述べる。",
+          "example": "The renewal clause is easily overlooked because it appears in a footnote.",
+          "translation": "更新条項は脚注に記されているため、見落としやすい。"
+        },
+        {
+          "pattern": "get overlooked",
+          "use": "情報や対象が注意・検討から抜けてしまうことを述べる。",
+          "example": "Small accessibility issues sometimes get overlooked during a rushed design review.",
+          "translation": "急いで設計を見直すと、利用しやすさに関する小さな問題が見落とされることがある。"
+        },
+        {
+          "pattern": "an often-overlooked factor",
+          "use": "よく見落とされる要因を名詞の前で説明する。",
+          "example": "Maintenance time is an often-overlooked factor in equipment costs.",
+          "translation": "保守にかかる時間は、設備費を考える際によく見落とされる要因だ。"
+        },
+        {
+          "pattern": "cannot afford to overlook something",
+          "use": "見落としては支障が出る点を強調する。",
+          "example": "We cannot afford to overlook the needs of users with older devices.",
+          "translation": "古い機器を使う利用者のニーズを、私たちは見落とすわけにはいかない。"
+        }
+      ],
+      "notes": [
+        "この語義の overlook an error「誤りに気づかない」と、語義2の knowingly overlook an error「承知のうえで誤りを大目に見る」を区別する。目的語が同じでも、in my haste・only later noticed などは見落とし、decided to・this once などは容認の判断を示しやすい。正: I overlooked the detail.／誤: I overlooked at the detail. 一語の他動詞なので at は不要。overlooked は限定・叙述で使えるが、この状態を「見落としている人」の性質と取り違えない。単独の overlooked にハイフンは付けない。often-overlooked は名詞前でハイフンを使うことがあり、frequently overlooked のような -ly 副詞との結合には通常付けない。"
+      ],
+      "synonyms": [
+        {
+          "word": "miss",
+          "definition": "何かを見つけたり気づいたりし損なう。",
+          "frequency": 9,
+          "difference": "日常的で広く使う。overlook は、検討すべき細部・意味・要因が注意から抜けた場合に特に合う。",
+          "example": "I missed the warning in the first paragraph.",
+          "translation": "私は最初の段落の注意書きを見落とした。"
+        },
+        {
+          "word": "neglect",
+          "definition": "必要な注意や配慮を十分に払わない。",
+          "frequency": 7,
+          "difference": "気づいたかどうかより、注意・対応が不足している点が中心。責任を怠る含みを帯びやすい。",
+          "example": "The plan neglects the needs of people who work at night.",
+          "translation": "その計画では、夜に働く人たちのニーズへの配慮が足りない。"
+        },
+        {
+          "word": "omit",
+          "definition": "含めるべき内容を抜かす、省く。",
+          "frequency": 7,
+          "difference": "文書や一覧から内容が欠けることが中心で、意図的な省略にも使う。認識の抜けそのものとは限らない。",
+          "example": "The summary omitted a key qualification in the original report.",
+          "translation": "要約では、元の報告書にあった重要な留保条件が抜けていた。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "notice",
+          "definition": "何かの存在や変化に気づく。",
+          "frequency": 9,
+          "difference": "気づき損なうことに対する、認識の成立を表す。",
+          "example": "The reviewer noticed the incorrect date immediately.",
+          "translation": "査読者は日付の誤りにすぐ気づいた。"
+        },
+        {
+          "word": "spot",
+          "definition": "見つけにくいものや特定の対象を見つける。",
+          "frequency": 8,
+          "difference": "見落としに対する発見を表し、誤りや細部を見つけた瞬間に焦点がある。",
+          "example": "A colleague spotted the missing decimal point.",
+          "translation": "同僚が小数点の抜けを見つけた。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【動詞・他動詞】大目に見る、不問に付す、見て見ぬふりをする",
+      "frequency": 7,
+      "register": [
+        "一般、人間関係、職場、規則違反への対応。"
+      ],
+      "definition": "欠点・違反・失礼な言動などに気づきながら、それを問題にしたり責めたりしないと判断する。寛大に許す場合と、問題を意図的に放置する場合があり、評価は対象や理由で変わる。",
+      "patterns": [
+        "overlook someone's faults",
+        "overlook an offence",
+        "overlook a mistake。be willing to overlook something",
+        "decide to overlook something。something is overlooked は不問に付されるという受動態。this time",
+        "this once が今回に限る許容を表せる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "overlook someone's faults",
+          "use": "相手の欠点を知ったうえで責めない。",
+          "example": "Her colleagues knew she was impatient but chose to overlook that fault because she always helped in a crisis.",
+          "translation": "同僚たちは彼女がせっかちだと知っていたが、いざというときはいつも助けてくれるので、その欠点を大目に見ることにした。"
+        },
+        {
+          "pattern": "overlook a mistake this time",
+          "use": "今回の失敗に限って容認する。",
+          "example": "I have seen the mistake, and I will overlook it this time if you correct the record.",
+          "translation": "間違いは確認しました。記録を訂正するなら、今回は大目に見ます。"
+        },
+        {
+          "pattern": "refuse to overlook misconduct",
+          "use": "問題を把握したうえで黙認を拒む。",
+          "example": "The board refused to overlook the misconduct after reviewing the evidence.",
+          "translation": "理事会は証拠を検討した後、その不正行為を不問に付すことを拒んだ。"
+        },
+        {
+          "pattern": "be willing to overlook a minor offence",
+          "use": "軽微な違反を許容する姿勢を示す。",
+          "example": "The organizer was willing to overlook the minor offence because the rule had not been explained clearly.",
+          "translation": "規則が明確に説明されていなかったため、主催者はその軽微な違反を大目に見るつもりだった。"
+        },
+        {
+          "pattern": "be deliberately overlooked",
+          "use": "問題を意識的に不問に付す受動表現。",
+          "example": "The repeated violations were deliberately overlooked by supervisors who knew about them.",
+          "translation": "繰り返される違反は、それを知っていた監督者たちによって意図的に黙認されていた。"
+        }
+      ],
+      "notes": [
+        "語義1と違い、問題を認識している。overlook the mistake だけならどちらにも読めるので、意図や事情を補う。overlook someone と人だけを目的語にすると、通常はその人を見落とす・選考から外す意味になりやすく、「その人を許す」の一般的な言い換えではない。許す内容を示して overlook his rudeness とするか、人を許すなら forgive him を使う。condone は不正を容認するという非難の文脈に特に多いが、overlook は今回だけ寛大に扱う場合にも使える。"
+      ],
+      "synonyms": [
+        {
+          "word": "excuse",
+          "definition": "失敗・失礼・欠点などを、事情を考慮して許す。",
+          "frequency": 8,
+          "difference": "理由を認めて責任を軽く見る含みがあり、単に問題にしない overlook と重なるが同一ではない。",
+          "example": "The manager excused the delay because the train service had stopped.",
+          "translation": "電車が止まっていたため、上司は遅刻を許した。"
+        },
+        {
+          "word": "forgive",
+          "definition": "過ちや害を与えた人への怒り・恨みを手放し、許す。",
+          "frequency": 8,
+          "difference": "心情として許すことが中心。overlook は、処罰・指摘をしないという対応だけでも成立する。",
+          "example": "She forgave him for the thoughtless remark.",
+          "translation": "彼女は、軽率な発言をした彼を許した。"
+        },
+        {
+          "word": "condone",
+          "definition": "悪いとされる行為を容認する、黙認する。",
+          "frequency": 6,
+          "difference": "行為の不適切さを前提とし、容認する側への批判を伴いやすい。小さな欠点を寛大に扱う場面とは語調が違う。",
+          "example": "The organization does not condone intimidation of staff.",
+          "translation": "その組織は、職員への威圧行為を容認しない。"
+        },
+        {
+          "word": "turn a blind eye",
+          "definition": "問題を知りながら見て見ぬふりをする。",
+          "frequency": 6,
+          "difference": "意図的な不介入を強調する慣用句。対象は turn a blind eye to something と to で示す。",
+          "example": "The officials turned a blind eye to the repeated violations.",
+          "translation": "当局者たちは繰り返される違反を見て見ぬふりをした。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞・他動詞】見渡せる位置にある、見下ろす",
+      "frequency": 7,
+      "register": [
+        "一般、旅行、宿泊施設、不動産、景観描写。"
+      ],
+      "definition": "建物・窓・高台などから、ある場所を見渡せること。また、人が高い位置から下の場所を眺めること。主語は見る側の場所または人、目的語は視野に入る場所になる。建物が周囲より高くそびえ、下の場所を見下ろす位置にある場合にも使う。",
+      "patterns": [
+        "〈建物・部屋・高台〉 + overlook + 〈場所〉",
+        "someone overlooks 〈場所〉 from 〈高い位置〉。a room overlooking 〈場所〉 は能動の現在分詞による後置修飾。〈見られる場所〉 + be overlooked by 〈建物など〉 は受動態。be overlooked は外から見通せる状態も表す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a room overlooking the garden",
+          "use": "部屋から見える景色を示す。",
+          "example": "We booked a quiet room overlooking the garden at the back of the hotel.",
+          "translation": "私たちは、ホテルの裏庭を見渡せる静かな部屋を予約した。"
+        },
+        {
+          "pattern": "overlook the harbour",
+          "use": "建物が港を見渡せる位置にあることを述べる。",
+          "example": "The restaurant overlooks the harbour, so diners can watch the boats arrive.",
+          "translation": "そのレストランからは港が見渡せるので、食事をしながら船が入ってくるのを眺められる。"
+        },
+        {
+          "pattern": "be overlooked by neighbouring houses",
+          "use": "庭などが周囲の家から見通されることを述べる。",
+          "example": "The patio is overlooked by neighbouring houses, so the owners planted a tall hedge.",
+          "translation": "テラスは近隣の家から見通せるため、所有者は背の高い生け垣を植えた。"
+        },
+        {
+          "pattern": "overlook the valley from a ridge",
+          "use": "人が高い場所から下方の景色を眺める。",
+          "example": "From the ridge, we overlooked the valley and watched the mist lift.",
+          "translation": "私たちは尾根から谷を見下ろし、霧が晴れていくのを眺めた。"
+        },
+        {
+          "pattern": "a hill overlooking the town",
+          "use": "町の上方に位置する場所を説明する。",
+          "example": "The castle stands on a hill overlooking the town.",
+          "translation": "その城は、町を見下ろす丘の上に立っている。"
+        }
+      ],
+      "notes": [
+        "正: The room overlooks the lake.／誤: The room overlooks at the lake. overlook 自体が目的語を取り、at・over を足さない。The balcony overlooks the garden.「バルコニーから庭が見える」と The garden is overlooked by the balcony.「庭はバルコニーから見下ろされる」では主語と視線の方向が逆。Our garden is overlooked. は、外から見通されるというプライバシー上の含みを持つことがあり、「庭からの景色がよい」とは限らない。主語は建物だけに限定されないが、人の一時的な動作には look down at／look out over もよく使う。"
+      ],
+      "synonyms": [
+        {
+          "word": "look out over",
+          "definition": "ある場所の向こうまで広く眺める、見渡す。",
+          "frequency": 6,
+          "difference": "視線を外へ向けることを明確に表す。overlook より語の構造が透明で、人の動作にも使いやすい。",
+          "example": "We looked out over the fields from the balcony.",
+          "translation": "私たちはバルコニーから畑を見渡した。"
+        },
+        {
+          "word": "look down on",
+          "definition": "高い位置から下のものを見る。",
+          "frequency": 6,
+          "difference": "物理的な上下関係を明示する。比喩的には「見下す」にもなるので、人物への態度と混同しない。",
+          "example": "From the observation deck, visitors can look down on the old railway station.",
+          "translation": "展望デッキから、来場者は古い鉄道駅を見下ろせる。"
+        },
+        {
+          "word": "face",
+          "definition": "建物や窓がある方向・対象に向いている。",
+          "frequency": 8,
+          "difference": "向きを表し、実際に広い眺めが得られることや高い位置にあることは保証しない。",
+          "example": "The bedroom windows face the courtyard.",
+          "translation": "寝室の窓は中庭に面している。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞・他動詞】選考から外す、適任者として取り上げない",
+      "frequency": 6,
+      "register": [
+        "一般、職場、採用、スポーツ、表彰。"
+      ],
+      "definition": "能力や資格があるかもしれない人を、採用・昇進・表彰などの候補として十分に取り上げない、または選ばずに通り過ぎる。不注意で気づかなかった場合だけでなく、意識的に別の人を選ぶ場合にも使う。本人が当然選ばれるべきだったと客観的に証明する語ではないが、不当に扱われたという含みを帯びやすい。",
+      "patterns": [
+        "overlook someone for 〈a position/a role/an award〉",
+        "overlook someone for promotion。someone is overlooked for something",
+        "someone is overlooked in favour of someone else。人を修飾する an overlooked candidate なども使う。for の後ろの promotion は昇進一般なら通常無冠詞。"
+      ],
+      "collocations": [
+        {
+          "pattern": "be overlooked for promotion",
+          "use": "昇進で取り上げてもらえなかったことを述べる。",
+          "example": "Despite her strong performance, she was overlooked for promotion again.",
+          "translation": "優れた実績があるにもかかわらず、彼女はまた昇進を見送られた。"
+        },
+        {
+          "pattern": "overlook someone for a position",
+          "use": "選考する側を主語にする。",
+          "example": "The panel overlooked an experienced internal applicant for the position.",
+          "translation": "選考委員会は、その職について経験豊かな社内応募者を選ばなかった。"
+        },
+        {
+          "pattern": "be overlooked in favour of someone else",
+          "use": "代わりに誰が選ばれたかを示す。",
+          "example": "He was overlooked in favour of a candidate with international experience.",
+          "translation": "彼は選ばれず、代わりに国際的な経験を持つ候補者が選ばれた。"
+        },
+        {
+          "pattern": "an overlooked candidate",
+          "use": "選考で十分に検討されなかった候補者を表す。",
+          "example": "The second review brought an overlooked candidate back into consideration.",
+          "translation": "2回目の検討によって、取り上げられていなかった候補者が再び選考対象に入った。"
+        }
+      ],
+      "notes": [
+        "be overlooked for promotion は「昇進を見渡す」という景観の受動態ではない。for は選考の対象、by は選考する側を表し、She was overlooked for promotion by the committee. のように両方置ける。「見落とされた人」は過去分詞 overlooked で、overlooking candidate では候補者自身が何かを見落とすなどの能動側になる。一般の ignore someone「相手に注意を払わない」と違い、この語義では機会・役職・評価の選考が焦点。"
+      ],
+      "synonyms": [
+        {
+          "word": "pass over",
+          "definition": "選べる人を選ばずに飛ばす。",
+          "frequency": 6,
+          "difference": "選考で人を通り過ぎることを明確に表す句動詞。pass someone over／pass over a candidate と分離でき、代名詞は pass him over。",
+          "example": "The company passed her over for the regional manager role.",
+          "translation": "会社は地域統括責任者の役職に彼女を選ばなかった。"
+        },
+        {
+          "word": "reject",
+          "definition": "応募者や提案を受け入れず、退ける。",
+          "frequency": 8,
+          "difference": "不採用・拒否という判断が明確。overlook は十分に注目・検討しなかったことを含めて表せる。",
+          "example": "The panel rejected the candidate after the final interview.",
+          "translation": "選考委員会は最終面接の後、その候補者を不採用にした。"
+        },
+        {
+          "word": "disregard",
+          "definition": "対象を重要と見なさず、考慮しない。",
+          "frequency": 7,
+          "difference": "人以外の証拠・条件にも広く使え、選考の結果に限定されない。意識的に重視しない含みがある。",
+          "example": "The selectors disregarded applicants who lacked the required certification.",
+          "translation": "選考担当者は、必要な資格を持たない応募者を考慮に入れなかった。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "select",
+          "definition": "候補の中から人や物を選ぶ。",
+          "frequency": 8,
+          "difference": "候補者を選ばずに過ぎることに対し、選ぶという選考上の方向で対立する。",
+          "example": "The committee selected her for the fellowship.",
+          "translation": "委員会は彼女を研究奨励金の受給者に選んだ。"
+        },
+        {
+          "word": "choose",
+          "definition": "複数の可能性の中から選ぶ。",
+          "frequency": 9,
+          "difference": "より日常的で広い語。choose someone for a role なら、役職に取り上げないことと対照になる。",
+          "example": "They chose him for the lead role.",
+          "translation": "彼らは彼を主役に選んだ。"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "【名詞・可算】展望地点、見晴らしのよい場所",
+      "frequency": 4,
+      "register": [
+        "主に米、旅行、道路・公園の案内。"
+      ],
+      "definition": "周囲や下方の景色を見渡せる場所。道路沿いや遊歩道にある展望地点などを指し、必ずしも建物・塔・専用の台があるとは限らない。",
+      "patterns": [
+        "a scenic overlook",
+        "an overlook above 〈場所〉",
+        "the view from an overlook",
+        "stop at an overlook。可算なので単数なら通常 a・the などを伴い、複数は overlooks。動詞とは主強勢の位置が異なる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "stop at a scenic overlook",
+          "use": "ドライブなどで展望地点に立ち寄る。",
+          "example": "We stopped at a scenic overlook to photograph the valley.",
+          "translation": "私たちは谷の写真を撮るため、見晴らしのよい展望地点に立ち寄った。"
+        },
+        {
+          "pattern": "the view from the overlook",
+          "use": "その場所から得られる眺めを述べる。",
+          "example": "The view from the overlook includes the river and the distant mountain range.",
+          "translation": "その展望地点からは、川と遠くの山並みが見える。"
+        },
+        {
+          "pattern": "an overlook above the canyon",
+          "use": "展望地点の位置を示す。",
+          "example": "A short trail leads to an overlook above the canyon.",
+          "translation": "短い遊歩道を進むと、峡谷を見下ろす展望地点に着く。"
+        },
+        {
+          "pattern": "several overlooks",
+          "use": "複数の展望地点を可算名詞で表す。",
+          "example": "The park road passes several overlooks before reaching the visitor center.",
+          "translation": "公園内の道路は、いくつかの展望地点を通ってビジターセンターに至る。"
+        }
+      ],
+      "notes": [
+        "この名詞は第1音節に主強勢を置き、動詞の第3音節の主強勢と区別する。「見落とし」という日常的な名詞には oversight が普通で、I made an overlook. を基本表現として覚えない。地図の Scenic Overlook は展望地点の案内で、見落としへの警告ではない。主に米語で、英国などでは viewpoint が広く使われる。"
+      ],
+      "synonyms": [
+        {
+          "word": "viewpoint",
+          "definition": "景色を眺めるのに適した場所。",
+          "frequency": 5,
+          "difference": "展望地点の意味では overlook より地域を問わず使いやすい。別義の「観点」とは文脈で分ける。",
+          "example": "The path climbs to a viewpoint above the beach.",
+          "translation": "その道を登ると、浜辺を見下ろす展望地点に着く。"
+        },
+        {
+          "word": "lookout",
+          "definition": "広い範囲を見渡すための場所。",
+          "frequency": 5,
+          "difference": "景観を見る場所だけでなく、監視・警戒のための見張り場にも使える。",
+          "example": "A wooden platform marks the lookout at the top of the hill.",
+          "translation": "丘の頂上にある見晴らし台には、木製の足場が設けられている。"
+        },
+        {
+          "word": "vantage point",
+          "definition": "物事をよく見られる有利な位置。",
+          "frequency": 6,
+          "difference": "観光用に指定された地点に限らず、何かを観察するのに適した位置を広く指す。",
+          "example": "The bridge offered a good vantage point for watching the race.",
+          "translation": "その橋は、レースを見るのに適した場所だった。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【動詞・他動詞】監督する、見て管理する",
+      "frequency": 2,
+      "register": [
+        "低頻度。古い職務・工場の記述などに見られ、現代にも用例がある。"
+      ],
+      "definition": "作業や人の活動に目を配り、適切に進むよう管理する。語義1とは反対に、対象に注意を向ける意味。現存する用法だが、現在の一般的な実務文書では「見落とす」と誤解されやすい。",
+      "patterns": [
+        "overlook 〈work/operations〉",
+        "overlook 〈workers/apprentices〉。人が主語で、作業または監督される人が直接目的語。受動態も可能だが、見落とす用法との識別が必要。"
+      ],
+      "collocations": [
+        {
+          "pattern": "overlook the work",
+          "use": "古い工場などの描写で、作業を監督することを表す。",
+          "example": "The foreman overlooked the work, moving from loom to loom to check the weavers' progress.",
+          "translation": "職長は織機から織機へと移動して織工たちの進み具合を確認しながら、作業を監督した。"
+        },
+        {
+          "pattern": "overlook the apprentices",
+          "use": "見習いの作業に目を配るという低頻度の用法。",
+          "example": "The master overlooked the apprentices, correcting their technique as they worked.",
+          "translation": "親方は、作業中の技術を直してやりながら見習いたちを監督した。"
+        }
+      ],
+      "notes": [
+        "overlook には「監督する」という意味がない、と断言するのは不正確。ただし、通常の業務説明で I overlook the team. と書くと「チームを見落とす・ないがしろにする」と受け取られかねない。明確に伝えるには I oversee the team. または I supervise the team. とする。overlooker「職長」はこの意味と関係する。oversee は過去形 oversaw、過去分詞 overseen で、規則変化の overlooked とも異なる。"
+      ],
+      "synonyms": [
+        {
+          "word": "oversee",
+          "definition": "作業・事業・組織を監督する。",
+          "frequency": 7,
+          "difference": "現代の監督義として一般的で、overlook の「見落とす」との曖昧さを避けられる。",
+          "example": "She oversees operations at three distribution centers.",
+          "translation": "彼女は三つの配送センターの業務を監督している。"
+        },
+        {
+          "word": "supervise",
+          "definition": "人や作業を見守り、指示・確認を行う。",
+          "frequency": 7,
+          "difference": "実際の人員や作業への監督を明確に表し、日常の職務説明で使いやすい。",
+          "example": "A senior technician supervised the installation.",
+          "translation": "上級技術者が設置作業を監督した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【動詞・他動詞】目を通して調べる、検分する",
+      "frequency": 1,
+      "register": [
+        "まれ、古い文章・文学的な記述。一般的な現在の依頼には look over、inspect、examine を勧める。"
+      ],
+      "definition": "文書・品物などを見て、その内容や状態を調べる。注意を払わず見落とす語義1とは別の意味で、現代ではまれ。古い文章や文学的な文脈の読解で区別する価値がある。",
+      "patterns": [
+        "overlook 〈a document/a map/an object〉。調べる人が主語、検分する対象が直接目的語。受動態も作れるが、現代の無標の文脈では「見落とされた」と読まれやすい。"
+      ],
+      "collocations": [
+        {
+          "pattern": "overlook a manuscript",
+          "use": "古い文体で、原稿に目を通して検討することを表す。",
+          "example": "He overlooked the manuscript, examining each correction before returning it to the author.",
+          "translation": "彼は原稿に目を通し、修正箇所を一つずつ確認してから著者に返した。"
+        },
+        {
+          "pattern": "overlook the tools",
+          "use": "道具を一つずつ検分するというまれな用法。",
+          "example": "The visitor overlooked the tools, lifting each one to examine its worn handle.",
+          "translation": "訪問者は道具を検分し、一つずつ持ち上げて、使い込まれた柄を調べた。"
+        }
+      ],
+      "notes": [
+        "一語の overlook と二語の look over は、現在の通常の使い分けでは区別する。I overlooked the report. は多くの場合「報告書を見落とした」、I looked over the report. は「報告書に目を通した」。ただし、この低頻度の検分義があるため、両語の意味が絶対に重ならないとも言えない。look over は look the report over ともでき、代名詞なら look it over。overlook は一語なので分離しない。さらに古い用法には overlook someone「邪視で呪う」もあるが、現代の一般的な人目的語の意味にはしない。"
+      ],
+      "synonyms": [
+        {
+          "word": "look over",
+          "definition": "文書・物などを見て確かめる、ざっと目を通す。",
+          "frequency": 8,
+          "difference": "現代の一般的な表現で、検分義の overlook より誤解されにくい。綿密さは文脈による。",
+          "example": "Could you look over the revised schedule before I send it?",
+          "translation": "送る前に、修正した日程表に目を通してもらえますか。"
+        },
+        {
+          "word": "inspect",
+          "definition": "状態や問題の有無を確かめるため、詳しく調べる。",
+          "frequency": 7,
+          "difference": "系統的な点検・検査を明示し、単に読み通すだけの場面より確認の目的が強い。",
+          "example": "The engineer inspected the damaged valve.",
+          "translation": "技師は損傷した弁を詳しく調べた。"
+        },
+        {
+          "word": "examine",
+          "definition": "内容・状態・性質を詳しく調べる。",
+          "frequency": 8,
+          "difference": "調査・検討を広く表す通常語で、文書にも物にも使える。",
+          "example": "The curator examined the signature under a magnifying glass.",
+          "translation": "学芸員は拡大鏡で署名を詳しく調べた。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
