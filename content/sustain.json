@@ -1,0 +1,797 @@
+{
+  "word": "sustain",
+  "slug": "sustain",
+  "ipa": "米・英: /səˈsteɪn/",
+  "lead": "活動・状態・水準・関心・音などを、弱まったり途絶えたりしないよう、ある期間保つ。「既にあるものを続ける」ことに焦点があり、それを新しく生み出す、必ず増やす、永久に続けるという意味ではない。人の努力だけでなく、条件・資金・仕組みなども主語になる。",
+  "updated": "2026-10-10",
+  "notion_url": "https://app.notion.com/p/sustain-3f54faa9b77d81819feef72105512284",
+  "pronunciation": [
+    "2音節で、第2音節 /steɪn/ に主強勢がある。第1音節の母音は弱い /ə/。sustained は /səˈsteɪnd/ で、語末の -ed は /d/ と発音し、音節を増やさない。sustaining は /səˈsteɪnɪŋ/。音楽の名詞 sustain も動詞と同じ発音。"
+  ],
+  "etymology": [
+    "古フランス語を経て、ラテン語 sustinere「下から支える、持ちこたえる」に由来する。sub-「下から」の変化形と tenere「持つ」が要素。「支えて保つ」と「負担を負う」の両面があり、現代語でも目的語によって継続・支援・受傷などに分かれる。",
+    "同じ tenere「持つ」の系統に retain「保持する」と contain「中に含む」がある。sustenance「生命・生活を支えるもの」も同じ語族。語源の「支える」だけで、sustain an injury を「けがを治らないように保つ」と解釈しない。"
+  ],
+  "formation": [
+    {
+      "term": "sustains／sustained／sustaining",
+      "description": "三人称単数現在形／過去形・過去分詞／-ing 形。綴りの n は重ねない。sustained には「衰えず続く」という形容詞用法もあり、語義4で扱う。"
+    },
+    {
+      "term": "sustaining",
+      "description": "分詞のほか、「生命・気力などを支える」という形容詞的な用法。a sustaining meal「力のつく食事」、the sustaining power of friendship「友情の支える力」。sustained「継続している」と、支えを与える側を表す sustaining を区別する。"
+    },
+    {
+      "term": "sustainable",
+      "description": "形容詞「長期的に維持できる」。a sustainable pace「無理なく続けられるペース」。資源・環境の文脈では、環境への負荷や資源の消耗を抑えて続けられることを表す。sustain + -able で、常に環境問題の意味とは限らない。"
+    },
+    {
+      "term": "sustainability／sustainably／unsustainable",
+      "description": "名詞「持続可能性」、副詞「持続可能なやり方で」、形容詞「維持できない」。sustained growth は続く成長、sustainable growth は続けられる成長で、継続の性質と可能性を区別する。"
+    },
+    {
+      "term": "self-sustaining",
+      "description": "形容詞「外部の支援に頼らず存続できる」。a self-sustaining business／The business is self-sustaining. と限定・叙述の両方で使い、ハイフンを保つ。sustain oneself という動詞の再帰構文を、ハイフンでつないだ形ではない。"
+    },
+    {
+      "term": "sustenance",
+      "description": "主に不可算名詞「栄養、食べ物、生活を支えるもの」。physical and emotional sustenance「身体と心の糧」。動詞 sustain の綴りへ単純に -ance を足さない。"
+    },
+    {
+      "term": "sustainment",
+      "description": "名詞「維持、継続を支えること」。設備・組織の維持など、専門的・組織的な文脈で使う。普通の「支援」は support、「持続可能性」は sustainability と区別する。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "中心は「何かを担い、支え持つこと」。対象の存在・勢い・妥当性を保つ側面と、重さ・負担を身に受ける側面があり、後者の損害義では、無事に耐え抜くことや長く続くことまで意味しない。"
+    },
+    {
+      "type": "item",
+      "text": "担い支える対象が活動や勢い → 「維持する・持続させる」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "担い支える対象が生命や生活や気力 → 「生命・生活・気力を支える」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "担い受ける負担が損傷や損失 → 「損傷・損失などを被る」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "担い支えることで保たれる継続状態 → 「継続的な・衰えず続く」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "担い受ける負荷が重さや圧力 → 「重さを支える・負荷に耐える」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "担い支える対象が証拠に基づく主張 → 「証拠で裏付ける」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "担い支える対象が主張や判断の妥当性 → 「正当と認める・判断を維持する」（語義7）"
+    },
+    {
+      "type": "item",
+      "text": "担い支えることで保たれる音の響き → 「音の持続・持続効果」（語義8）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞】維持する・持続させる",
+      "frequency": 7,
+      "register": [
+        "一般・やや改まった表現。ビジネス、経済、活動の評価、音楽など。"
+      ],
+      "definition": "活動・状態・水準・関心・音などを、弱まったり途絶えたりしないよう、ある期間保つ。「既にあるものを続ける」ことに焦点があり、それを新しく生み出す、必ず増やす、永久に続けるという意味ではない。人の努力だけでなく、条件・資金・仕組みなども主語になる。",
+      "patterns": [
+        "sustain something＝活動・水準などを直接目的語に取る。sustain something for 〈期間〉",
+        "sustain something over 〈期間〉＝持続期間を添える。sustain someone's interest in something＝人のある対象への関心を保つ。be sustained by something＝ある要因によって継続が保たれる。sustain something at 〈水準〉＝一定の水準で保つ。sustain a note＝音を伸ばす。継続そのものを自動詞で述べる通常の文では continue/last を使う。"
+      ],
+      "collocations": [
+        {
+          "pattern": "sustain economic growth",
+          "use": "経済や事業の成長が続くようにする。",
+          "example": "The company needs repeat customers to sustain growth after the initial launch.",
+          "translation": "その会社が発売直後の時期を過ぎても成長を続けるには、リピーターが必要だ。"
+        },
+        {
+          "pattern": "sustain someone's interest in something",
+          "use": "関心が薄れないよう保つ。",
+          "example": "Practical projects helped sustain the students' interest in engineering throughout the course.",
+          "translation": "実践的な課題は、受講期間を通じて学生たちの工学への関心を保つのに役立った。"
+        },
+        {
+          "pattern": "sustain a high level of something",
+          "use": "成果や質を高い水準で保ち続ける。",
+          "example": "The team sustained a high level of accuracy even during the busiest week.",
+          "translation": "最も忙しい週でも、そのチームは高い正確性を維持した。"
+        },
+        {
+          "pattern": "sustain a conversation",
+          "use": "話が途切れずに続くようにする。",
+          "example": "It was difficult to sustain a conversation over the noise of the machinery.",
+          "translation": "機械の騒音の中では、会話を続けるのが難しかった。"
+        },
+        {
+          "pattern": "sustain a pace for 〈期間〉",
+          "use": "一定の速度や活動量を、どれだけの間保てるか述べる。",
+          "example": "She could sustain that pace for twenty minutes, but not for an hour.",
+          "translation": "彼女はそのペースを20分間なら保てたが、1時間は無理だった。"
+        },
+        {
+          "pattern": "be sustained by something",
+          "use": "継続を可能にする要因を受動態で示す。",
+          "example": "Demand was sustained by a steady flow of orders from existing clients.",
+          "translation": "既存顧客からの継続的な受注が、需要を支えていた。"
+        },
+        {
+          "pattern": "sustain something at 〈水準〉",
+          "use": "継続する水準を明示する。",
+          "example": "We cannot sustain output at this level without additional staff.",
+          "translation": "人員を増やさなければ、この水準の生産量は維持できない。"
+        },
+        {
+          "pattern": "sustain a note",
+          "use": "歌や演奏で一つの音を伸ばす。",
+          "example": "The singer sustained the final note until the piano fell silent.",
+          "translation": "歌手は、ピアノの音が消えるまで最後の音を伸ばした。"
+        }
+      ],
+      "notes": [
+        "日本語の「持続する」に引かれて、一般的な文で Growth sustained for years. としない。正: Growth continued for years.「成長が何年も続いた」／The company sustained growth for years.「会社は何年も成長を維持した」。sustain はここでは目的語を取る。「働き続ける」を誤って sustain to work とせず、continue working／keep working とする。sustain growth は成長の継続で、成長率が上がるという意味ではない。sustain pressure on a supplier は供給業者への圧力を「かけ続ける」この語義だが、a structure can sustain pressure は圧力に「耐える」語義5。sustain a note は動詞＋目的語、long sustain は語義8の名詞である。"
+      ],
+      "synonyms": [
+        {
+          "word": "maintain",
+          "definition": "状態・水準・機能を保つ。",
+          "frequency": 9,
+          "difference": "状態を変えず保つこと全般に広い。sustain は時間を通じた継続や、それを保つための支えを意識させやすい。",
+          "example": "The company maintained the same price throughout the year.",
+          "translation": "その会社は一年を通じて同じ価格を維持した。"
+        },
+        {
+          "word": "keep up",
+          "definition": "活動・水準・努力などを落とさず続ける。",
+          "frequency": 8,
+          "difference": "sustain より会話的。目的語が代名詞なら keep it up のように間に置く。",
+          "example": "You have made a good start; keep it up.",
+          "translation": "いい滑り出しだ。その調子を続けて。"
+        },
+        {
+          "word": "continue",
+          "definition": "すでに行われていることを続ける、または続く。",
+          "frequency": 10,
+          "difference": "自動詞・他動詞で使え、continue to do/doing も取る。sustain のように水準や勢いを保つことは必須ではない。",
+          "example": "They continued discussing the proposal after lunch.",
+          "translation": "彼らは昼食後も提案の検討を続けた。"
+        },
+        {
+          "word": "prolong",
+          "definition": "続く時間を長くする。",
+          "frequency": 7,
+          "difference": "長さを延ばすことに焦点があり、予定外に長引かせる場合にも使う。sustain は一定期間続くように保つことが中心。",
+          "example": "The additional questions prolonged the meeting.",
+          "translation": "追加の質問によって、会議が長引いた。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "discontinue",
+          "definition": "続けていた活動・提供などをやめる。",
+          "frequency": 7,
+          "difference": "継続か停止かという方向で反対になる。意図的な終了を表しやすい。",
+          "example": "The company discontinued the service in June.",
+          "translation": "その会社は6月にそのサービスを終了した。"
+        },
+        {
+          "word": "interrupt",
+          "definition": "続いている過程や活動を途中で遮る。",
+          "frequency": 8,
+          "difference": "途切れず続けることとの対立で、一時的な中断も含む。完全な終了とは限らない。",
+          "example": "A power failure interrupted production for two hours.",
+          "translation": "停電により、生産が2時間中断した。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【動詞・他動詞】生命・生活・気力を支える",
+      "frequency": 7,
+      "register": [
+        "一般・改まった表現。生活、環境、資金援助、心の支え。"
+      ],
+      "definition": "人・生物・組織などが生きる、存続する、困難の中で進み続けるために必要なものを与える。食物・収入・資金による支えにも、希望・友情などによる精神的な支えにも使う。「助ける」一般よりも、その存在や力を保つ働きに焦点がある。",
+      "patterns": [
+        "sustain someone/something＝支えとなるもの・人を主語に、支えられる人・生命・組織を目的語にする。sustain someone through/during 〈困難な時期〉＝その時期を生き抜く支えになる。be sustained by something＝人などが支えられる受動態。sustain oneself with something＝自分を食物・収入・支えとなるもので養う・保つ。sustain oneself on something＝ある食物や収入で生きていく。"
+      ],
+      "collocations": [
+        {
+          "pattern": "sustain life",
+          "use": "生命が存在し続けられる条件を表す。",
+          "example": "The researchers asked whether the underground lake could sustain life.",
+          "translation": "研究者たちは、その地下湖が生命を支えられるかを検討した。"
+        },
+        {
+          "pattern": "sustain a family",
+          "use": "家族の生活を経済的に支える。",
+          "example": "Her income from translation was enough to sustain the family through the winter.",
+          "translation": "翻訳の仕事による彼女の収入は、一家が冬を越す生活を支えるのに十分だった。"
+        },
+        {
+          "pattern": "sustain an organization",
+          "use": "資金や支援によって組織の存続を支える。",
+          "example": "Small monthly donations sustain the community theatre.",
+          "translation": "毎月の少額の寄付が、その地域劇場の存続を支えている。"
+        },
+        {
+          "pattern": "sustain someone through 〈困難な時期〉",
+          "use": "気力が折れないよう支える。",
+          "example": "Their friendship sustained her through months of uncertainty.",
+          "translation": "先の見えない数か月の間、その友情が彼女の心の支えになった。"
+        },
+        {
+          "pattern": "be sustained by hope",
+          "use": "希望が生きていく気力を支えていると述べる。",
+          "example": "The stranded travellers were sustained by the hope that help was on its way.",
+          "translation": "足止めされた旅行者たちは、救助が向かっているという希望に支えられていた。"
+        },
+        {
+          "pattern": "sustain oneself with something",
+          "use": "再帰構文で、食物などによって自分の力を保つ。",
+          "example": "During the long walk, she sustained herself with bread, cheese, and water.",
+          "translation": "長い徒歩移動の間、彼女はパンとチーズと水で体力を保った。"
+        },
+        {
+          "pattern": "sustain oneself on something",
+          "use": "生活や生存のよりどころとなる収入・食物を示す。",
+          "example": "He sustained himself on a modest income from occasional teaching.",
+          "translation": "彼は、ときどき教える仕事で得るささやかな収入で生活を支えていた。"
+        }
+      ],
+      "notes": [
+        "Hope sustained her. では hope が支えるもの、her が支えられる人。She was sustained by hope. は同じ関係の受動態である。She sustained herself with small meals. は、主語と目的語が同じ人なので herself を置く能動の再帰構文で、受動態の再帰代名詞が省略されたものではない。再帰形を「外部の助けが全くない」と解釈しない。食物や収入などの助けを明示できる。sustain someone はここではその人を「支える」が、someone sustains an injury は語義3の「その人がけがをする」。sustainability「持続可能性」と、生命や心の糧をいう sustenance も区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "support",
+          "definition": "人や組織に必要な援助・資金・支えを与える。",
+          "frequency": 9,
+          "difference": "経済的・実務的・精神的な援助を幅広く表す。sustain は存続や気力を保つ働きをより強く意識させる。",
+          "example": "The grant supports several local arts organizations.",
+          "translation": "その助成金は、地域の複数の芸術団体を支援している。"
+        },
+        {
+          "word": "nourish",
+          "definition": "栄養を与え、成長や健康を支える。",
+          "frequency": 6,
+          "difference": "食物による滋養が中心で、心・才能を育む比喩にも使う。sustain は成長より生命・力を保つことに重点がある。",
+          "example": "A balanced diet nourishes the body.",
+          "translation": "バランスのよい食事は、体に必要な栄養を与える。"
+        },
+        {
+          "word": "feed",
+          "definition": "食物を与えて養う。",
+          "frequency": 9,
+          "difference": "食べさせる行為を直接表す日常語。sustain は食物以外の収入・希望などにも広く使う。",
+          "example": "The kitchen feeds hundreds of people each evening.",
+          "translation": "その炊き出しでは、毎晩何百人もの人に食事を提供している。"
+        },
+        {
+          "word": "buoy up",
+          "definition": "人の気持ちを支え、元気づける。",
+          "frequency": 5,
+          "difference": "精神面に限って近く、気分や希望を持ち上げることに重点がある。食物や資金で養う意味の全体はカバーしない。",
+          "example": "Her friends' messages buoyed her up during the difficult week.",
+          "translation": "大変な一週間、友人たちからのメッセージが彼女を元気づけた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞・他動詞】損傷・損失などを被る",
+      "frequency": 7,
+      "register": [
+        "改まった表現。報道、事故報告、業績・損害の記述。日常会話では get hurt、suffer なども使う。"
+      ],
+      "definition": "人・物・組織が、けが、損傷、損失、敗北などの好ましくない出来事・結果を経験する。主語は被害を受ける側、目的語は受けた不利益。能動形でも「損害を与える側」ではない。被害が長く続く、主語が無事に耐えた、本人に責任がある、という意味は含まない。",
+      "patterns": [
+        "someone sustains an injury",
+        "someone sustains injuries＝人がけがをする。something sustains damage＝物が損傷を受ける。a company sustains a loss",
+        "a company sustains losses＝企業が損失を被る。sustain a defeat＝敗北を喫する。injuries/damage sustained in/during 〈出来事〉＝受けたけが・損傷を過去分詞で後置修飾する。受動態は Injuries were sustained by ... のように成立するが、主語を人にした通常の能動文が分かりやすい。"
+      ],
+      "collocations": [
+        {
+          "pattern": "sustain an injury",
+          "use": "事故や運動でけがをしたと改まって述べる。",
+          "example": "The driver sustained a shoulder injury in the collision.",
+          "translation": "運転手は、その衝突で肩にけがをした。"
+        },
+        {
+          "pattern": "sustain damage",
+          "use": "物が損傷を受けたことを報告する。",
+          "example": "The warehouse sustained extensive damage during the storm.",
+          "translation": "その倉庫は、嵐で広範囲に損傷を受けた。"
+        },
+        {
+          "pattern": "sustain heavy losses",
+          "use": "企業・事業などが大きな損失を被ったことを述べる。",
+          "example": "The retailer sustained heavy losses after several stores were forced to close.",
+          "translation": "複数店舗の閉鎖を余儀なくされた後、その小売業者は大きな損失を被った。"
+        },
+        {
+          "pattern": "sustain a defeat",
+          "use": "チームなどの敗北を改まって述べる。",
+          "example": "The team sustained its first defeat of the season on Saturday.",
+          "translation": "そのチームは土曜日、シーズン初の敗北を喫した。"
+        },
+        {
+          "pattern": "injuries sustained in 〈出来事〉",
+          "use": "けがをした出来事を、名詞の後ろから説明する。",
+          "example": "She is recovering from injuries sustained in a cycling accident.",
+          "translation": "彼女は、自転車事故で負ったけがから回復しつつある。"
+        },
+        {
+          "pattern": "damage sustained by something",
+          "use": "損傷を受けた物を by で示す後置修飾。",
+          "example": "The report lists the damage sustained by each building.",
+          "translation": "その報告書は、各建物が受けた損傷を列挙している。"
+        }
+      ],
+      "notes": [
+        "sustain damage は「損傷を受ける」、cause/inflict damage は「損傷を与える」。The vehicle sustained damage. の vehicle は被害を受けた車両である。damage はこの意味では不可算なので、誤: sustained a damage／正: sustained damage。個々のけがは sustain an injury、複数なら sustain injuries。injuries sustained in the accident は injuries that were sustained in the accident に対応し、sustained economic growth の形容詞「継続的な」（語義4）とは意味が違う。He sustained injuries. は主語＋動詞＋目的語で、「彼は持続的なけがだった」ではない。sustain an injury と incur expenses は典型的な組み合わせだが、incur an injury という改まった用法も実在し、文法的に全面禁止する必要はない。sustain には損害から生き延びたという保証はなく、fatal injuries を目的語にできる。"
+      ],
+      "synonyms": [
+        {
+          "word": "suffer",
+          "definition": "痛み・損害・不利益を経験する。",
+          "frequency": 9,
+          "difference": "身体的・精神的な苦しみを含めて広く使う。sustain は injury/damage/loss の発生を比較的客観的・改まって述べやすい。",
+          "example": "The company suffered serious financial losses.",
+          "translation": "その会社は、深刻な金銭的損失を被った。"
+        },
+        {
+          "word": "incur",
+          "definition": "費用・債務・損失などを負うことになる。",
+          "frequency": 7,
+          "difference": "支出・負担の発生と結び付きやすい。受傷にも使えるが、事故のけがには sustain an injury が典型的。",
+          "example": "The delay caused us to incur additional storage costs.",
+          "translation": "その遅れにより、私たちは追加の保管費用を負担することになった。"
+        },
+        {
+          "word": "experience",
+          "definition": "出来事や状態を身をもって経験する。",
+          "frequency": 9,
+          "difference": "良い経験にも悪い経験にも使う中立語。sustain のこの語義は損傷・損失などの不利益に向く。",
+          "example": "Several branches experienced a sharp fall in sales.",
+          "translation": "複数の支店で、売上が急激に落ち込んだ。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【形容詞・sustained】継続的な・衰えず続く",
+      "frequency": 7,
+      "register": [
+        "一般・改まった文章。業務、経済、研究、報道。"
+      ],
+      "definition": "活動・勢い・程度などが一定期間保たれ、簡単には途切れたり弱まったりしない。effort では粘り強く続ける性質も表す。長さの基準は対象によって違い、数十秒の拍手にも数年の成長にも使う。良いことだけでなく、攻撃や圧力などの継続にも使う。",
+      "patterns": [
+        "a sustained effort/campaign/attack＝名詞を前から修飾する。sustained growth/attention/applause＝不可算名詞などを修飾する。a sustained effort to do something＝目的を表す不定詞は effort に続く。on a sustained basis＝一定期間続けて。be sustained は状態描写も可能だが、何かに維持される受動態にもなるので文脈で区別する。more sustained effort のような比較は自然で、通常は very sustained より持続期間・一貫性を具体化する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a sustained effort to do something",
+          "use": "一度きりで終わらない継続的な努力を表す。",
+          "example": "Reducing the backlog will require a sustained effort to improve the workflow.",
+          "translation": "滞留している仕事を減らすには、業務の流れを改善する継続的な努力が必要だ。"
+        },
+        {
+          "pattern": "sustained economic growth",
+          "use": "一時的な増加にとどまらず続く成長を表す。",
+          "example": "The region experienced sustained economic growth over the following five years.",
+          "translation": "その地域では、その後5年間にわたって経済成長が続いた。"
+        },
+        {
+          "pattern": "sustained attention",
+          "use": "注意を一定期間保つことを表す。",
+          "example": "The task demands sustained attention for long periods.",
+          "translation": "その作業には、長い時間注意を保ち続けることが求められる。"
+        },
+        {
+          "pattern": "sustained applause",
+          "use": "すぐには止まない拍手を表す。",
+          "example": "The audience responded with sustained applause after the final scene.",
+          "translation": "最後の場面が終わると、観客から長く続く拍手が起こった。"
+        },
+        {
+          "pattern": "a sustained attack on something",
+          "use": "批判などが一時的でなく続くことを表す。",
+          "example": "The editorial mounted a sustained attack on the government's housing policy.",
+          "translation": "その社説は、政府の住宅政策を一貫して厳しく批判した。"
+        },
+        {
+          "pattern": "on a sustained basis",
+          "use": "単発の措置ではなく、継続する形で行うことを表す。",
+          "example": "The programme needs funding on a sustained basis rather than occasional grants.",
+          "translation": "その事業には、ときどきの助成金ではなく、継続的な資金提供が必要だ。"
+        }
+      ],
+      "notes": [
+        "sustained growth は継続している、または継続する性質の成長。sustainable growth は無理なく長期的に継続できる成長。前者は継続の性質、後者は可能性を表す。a need for sustained growth のように目標を述べることもあるので、sustained が常に過去の実績を表すとは限らない。Funding sustained the project. は動詞の過去形、The project was sustained by donations. は語義2の受動態、a sustained campaign はこの語義の形容詞。injuries sustained in a fall は語義3の「転倒で負ったけが」で、継続義に読み替えない。The pressure was sustained by repeated warnings. のように行為・原因が明示されると受動の解釈が強い。単語一つの sustained にはハイフンを付けず、self-sustaining のような複合語と区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "continuous",
+          "definition": "間を空けずに続く。",
+          "frequency": 8,
+          "difference": "中断のなさが中心。sustained は勢い・程度を保った継続にも焦点があり、日々の努力なら休憩を全く取らない意味ではない。",
+          "example": "The recording captured a continuous humming sound.",
+          "translation": "録音には、途切れない低い音が入っていた。"
+        },
+        {
+          "word": "persistent",
+          "definition": "簡単にはやまず、繰り返し、または粘り強く続く。",
+          "frequency": 7,
+          "difference": "抵抗しても残ることや粘り強さを強調する。必ずしも同じ水準で途切れなく続くわけではない。",
+          "example": "Persistent complaints finally led to a review of the service.",
+          "translation": "苦情が繰り返し寄せられ、ついにサービスの見直しにつながった。"
+        },
+        {
+          "word": "prolonged",
+          "definition": "通常より長く続く、長引いた。",
+          "frequency": 7,
+          "difference": "時間の長さが中心で、勢いや努力の一貫性までは表さない。望ましくない長期化にもよく使う。",
+          "example": "The region suffered a prolonged drought.",
+          "translation": "その地域は長引く干ばつに苦しんだ。"
+        },
+        {
+          "word": "steady",
+          "definition": "大きく揺れ動かず、安定して続く。",
+          "frequency": 8,
+          "difference": "変動の小ささや一定のペースに重点がある。sustained は期間を通じて途絶えず保たれることが中心。",
+          "example": "Sales showed a steady increase throughout the quarter.",
+          "translation": "売上は四半期を通じて着実に増加した。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "intermittent",
+          "definition": "続いたり止まったりして、断続的な。",
+          "frequency": 6,
+          "difference": "継続性の軸で対立する。全体の期間は長くても、途中に途切れがある。",
+          "example": "Intermittent funding made long-term planning difficult.",
+          "translation": "資金提供が断続的だったため、長期計画が難しくなった。"
+        },
+        {
+          "word": "short-lived",
+          "definition": "短期間で終わる。",
+          "frequency": 6,
+          "difference": "持続期間の軸で反対になる。一時的には勢いが強くてもよい。",
+          "example": "The increase in demand was short-lived.",
+          "translation": "需要の増加は長くは続かなかった。"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "【動詞・他動詞】重さを支える・負荷に耐える",
+      "frequency": 4,
+      "register": [
+        "改まった表現。物理的な支持・耐久の記述。人の苦難への用法は文章的。"
+      ],
+      "definition": "物体・構造物が重さを支えたり、圧力を受けても持ちこたえたりする。また、改まった文では人が重い負担・挑発などに耐えることにも使う。sustain damage「損傷を受ける」と違い、こちらは負荷を受け止める能力・耐久に焦点がある。",
+      "patterns": [
+        "something sustains a weight/load＝物が重さ・荷重を支える。sustain the weight of something＝何の重さかを示す。sustain pressure＝圧力を受けても持ちこたえる。someone can/cannot sustain 〈負担・挑発〉＝人がそれに耐えられる・耐えられない。支えられる荷重を主語にした受動態 a load is sustained by something も可能。"
+      ],
+      "collocations": [
+        {
+          "pattern": "sustain the weight of something",
+          "use": "構造物が上にかかる重さを支えられるか述べる。",
+          "example": "The old beams could no longer sustain the weight of the roof.",
+          "translation": "古い梁は、もはや屋根の重さを支えられなかった。"
+        },
+        {
+          "pattern": "sustain a load",
+          "use": "荷重を受け止めることを表す。",
+          "example": "The test checked whether the frame could sustain the full load without bending.",
+          "translation": "その試験では、枠が曲がらずに全荷重を支えられるかを確認した。"
+        },
+        {
+          "pattern": "sustain pressure",
+          "use": "外から加わる圧力への耐性を述べる。",
+          "example": "The casing must be strong enough to sustain the pressure from outside.",
+          "translation": "その外装は、外側からの圧力に耐えるだけの強度が必要だ。"
+        },
+        {
+          "pattern": "sustain great provocation",
+          "use": "改まった文章で、強い挑発に耐えることを表す。",
+          "example": "Few people could sustain such provocation without losing their temper.",
+          "translation": "そのような挑発を受けても怒らずに耐えられる人は、ほとんどいないだろう。"
+        }
+      ],
+      "notes": [
+        "sustain a heavy load は「大きな荷重を支える」で、sustain heavy damage「ひどい損傷を受ける」とは意味が違う。sustain pressure は主語と文脈で判断する。The tank can sustain high pressure. はタンクが圧力に耐えるこの語義、The campaign sustained pressure on the company. は運動が会社への圧力をかけ続ける語義1。負荷に耐える意味では withstand がより直接的な言い換えになる。can sustain a load という文だけから、具体的な安全荷重や試験条件まで読み取らない。"
+      ],
+      "synonyms": [
+        {
+          "word": "bear",
+          "definition": "重さや負担を支える、耐える。",
+          "frequency": 7,
+          "difference": "物理的な荷重にも人の苦痛にも使う。sustain と近いが、bear the weight がより直接的で広い。",
+          "example": "This shelf cannot bear the weight of all those books.",
+          "translation": "この棚は、それだけの本の重さには耐えられない。"
+        },
+        {
+          "word": "support",
+          "definition": "物を下などから支え、落下や崩壊を防ぐ。",
+          "frequency": 8,
+          "difference": "支えとなる構造や働きを広く表す。sustain は負荷を受けて持ちこたえる点を意識させる。",
+          "example": "Four columns support the central platform.",
+          "translation": "4本の柱が、中央の台を支えている。"
+        },
+        {
+          "word": "withstand",
+          "definition": "力・圧力・攻撃などを受けても持ちこたえる。",
+          "frequency": 7,
+          "difference": "外からの力に負けないことを明示する。sustain damage のような「被る」意味にはならない。",
+          "example": "The material can withstand repeated impacts.",
+          "translation": "その材料は、繰り返しの衝撃に耐えられる。"
+        },
+        {
+          "word": "endure",
+          "definition": "苦痛や困難を受けながら耐える。",
+          "frequency": 7,
+          "difference": "人が苦難を長く我慢する場面に向く。構造物が重量を支えるという物理的な支持は中心義ではない。",
+          "example": "The residents endured months of disruption.",
+          "translation": "住民たちは、生活が混乱した数か月を耐えた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【動詞・他動詞】証拠で裏付ける",
+      "frequency": 5,
+      "register": [
+        "改まった一般文、研究、分析、論証。"
+      ],
+      "definition": "証拠・事実・説明などが、主張・理論・判断を成り立たせる根拠になる。また、人が十分な根拠を示して自分の主張を支える。「気持ちを励ます」意味ではなく、正しいと考えるだけの根拠を与える意味で、必ず争いの余地なく証明し終えたことを表すわけではない。",
+      "patterns": [
+        "evidence/facts + sustain + 〈主張・理論〉＝証拠・事実が主張を支える。sustain an argument/claim＝人が論拠によって主張を成り立たせる。be sufficient to sustain something＝裏付けるに足る。a claim is sustained by evidence＝主張を主語にした受動態。主語が裁判所で法的な認容をする語義7とは区別する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "sustain an argument",
+          "use": "根拠が論旨を支えると述べる。",
+          "example": "The figures are too incomplete to sustain the report's central argument.",
+          "translation": "その数字は不完全すぎて、報告書の中心的な主張を裏付けられない。"
+        },
+        {
+          "pattern": "sustain a theory",
+          "use": "研究結果が理論の妥当性を支えると述べる。",
+          "example": "The new observations sustain the theory, although further testing is needed.",
+          "translation": "新しい観測結果はその理論を裏付けるが、さらなる検証が必要だ。"
+        },
+        {
+          "pattern": "sustain a claim with evidence",
+          "use": "主張をする人が、証拠を使って裏付ける。",
+          "example": "The authors could not sustain their claim with the evidence presented.",
+          "translation": "著者たちは、提示した証拠で自らの主張を裏付けることができなかった。"
+        },
+        {
+          "pattern": "be sufficient to sustain something",
+          "use": "証拠が主張を支えるのに十分か評価する。",
+          "example": "A single interview is not sufficient to sustain such a broad conclusion.",
+          "translation": "一件のインタビューだけでは、そのような広い結論を裏付けるには足りない。"
+        },
+        {
+          "pattern": "be sustained by evidence",
+          "use": "主張と根拠の関係を受動態で述べる。",
+          "example": "The hypothesis is sustained by evidence from three independent studies.",
+          "translation": "その仮説は、三つの独立した研究による証拠に裏付けられている。"
+        }
+      ],
+      "notes": [
+        "sustain an argument の argument は口論ではなく論旨・主張。目的語には支えられる内容を置き、通常、that節をそのまま取って sustain that ...「～と主張する」とはしない。正: maintain that ...「～だと主張する」／sustain the claim that ...「～という主張を裏付ける」。Evidence sustained the claim. は証拠が根拠になったという意味で、The court sustained the claim. のような語義7の認容判断とは異なる。主語と判断を行う場面を確認する。"
+      ],
+      "synonyms": [
+        {
+          "word": "support",
+          "definition": "主張を正しいと考える根拠を与える。",
+          "frequency": 9,
+          "difference": "論拠による支持を表す最も一般的な語。sustain は、その主張を成り立たせ続けるだけの支えという響きがある。",
+          "example": "The survey results support our interpretation.",
+          "translation": "その調査結果は、私たちの解釈を裏付けている。"
+        },
+        {
+          "word": "substantiate",
+          "definition": "具体的な証拠を示して主張を裏付ける。",
+          "frequency": 6,
+          "difference": "実証的な根拠を提示することを明確に表す。sustain より、裏付けの提示そのものに焦点がある。",
+          "example": "The company supplied records to substantiate its claim.",
+          "translation": "その会社は、主張を裏付けるために記録を提出した。"
+        },
+        {
+          "word": "corroborate",
+          "definition": "別の証拠や証言によって、既存の説明を裏付ける。",
+          "frequency": 6,
+          "difference": "他の情報源と一致して信頼性を高める点が中心。sustain は根拠が別系統かどうかを必須にしない。",
+          "example": "Security footage corroborated the witness's account.",
+          "translation": "防犯カメラの映像は、証人の説明を裏付けた。"
+        },
+        {
+          "word": "confirm",
+          "definition": "正しいことや確かであることを確認する。",
+          "frequency": 8,
+          "difference": "不確かさが解消される結果に焦点がある。sustain は十分な支持を与えても、最終確定までは意味しないことがある。",
+          "example": "The second test confirmed the initial result.",
+          "translation": "二回目の検査で、最初の結果が確認された。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "undermine",
+          "definition": "根拠や信頼性を弱める。",
+          "frequency": 7,
+          "difference": "主張を支える力を強めるか弱めるかという方向の対立。完全な反証に至らなくても使う。",
+          "example": "The missing records undermine the credibility of the report.",
+          "translation": "記録の欠落が、その報告書の信頼性を損なっている。"
+        },
+        {
+          "word": "refute",
+          "definition": "証拠・論拠によって主張が誤りであると示す。",
+          "frequency": 6,
+          "difference": "妥当性を支える方向とは反対に、誤りを立証する。単に同意しないことより強い。",
+          "example": "The experiment refuted the earlier explanation.",
+          "translation": "その実験は、以前の説明が誤りであると示した。"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "【動詞・他動詞】正当と認める・判断を維持する",
+      "frequency": 4,
+      "register": [
+        "法律。英語圏の判決・裁判報道・法廷表現。具体的な手続きや効果は法域と対象による。"
+      ],
+      "definition": "裁判所・裁判官などが、主張・異議・申立てを有効または正当と認めたり、既になされた判断を妥当として維持したりする。法廷で sustain an objection は「異議を認める」。異議の対象となった質問・証拠などについての判断であり、その語だけで事件全体の勝敗・有罪・無罪を決めるものではない。",
+      "patterns": [
+        "a judge/court + sustain + 〈異議・主張・申立て〉＝判断する主体を主語にする。sustain an objection",
+        "sustain a claim",
+        "sustain a motion。sustain a decision/verdict＝既存の判断を維持する。an objection is sustained＝異議を主語にした受動態。Objection sustained.",
+        "Sustained. は裁判官の短い応答として使う。"
+      ],
+      "collocations": [
+        {
+          "pattern": "sustain an objection",
+          "use": "法廷で提出された異議を裁判官が認める。",
+          "example": "The judge sustained the objection to the question, and the lawyer moved to another topic.",
+          "translation": "裁判官はその質問に対する異議を認め、弁護士は別の話題へ移った。"
+        },
+        {
+          "pattern": "Objection sustained.",
+          "use": "法廷で異議を認める短い定型の応答。",
+          "example": "\"Objection sustained,\" the judge said when the lawyer challenged the question.",
+          "translation": "弁護士がその質問に異議を述べると、裁判官は「異議を認めます」と言った。"
+        },
+        {
+          "pattern": "sustain a claim",
+          "use": "裁判所が主張を正当と認めたことを述べる。",
+          "example": "The court sustained her claim that the restriction was unlawful.",
+          "translation": "裁判所は、その制限が違法だという彼女の主張を認めた。"
+        },
+        {
+          "pattern": "sustain a motion",
+          "use": "法的な申立てを裁判所が認めることを述べる。",
+          "example": "The court sustained the motion to exclude the disputed evidence.",
+          "translation": "裁判所は、問題となっていた証拠を排除する申立てを認めた。"
+        },
+        {
+          "pattern": "sustain a decision",
+          "use": "既になされた判断を有効なものとして維持する。",
+          "example": "The higher court sustained the lower court's decision.",
+          "translation": "上級裁判所は、下級裁判所の判断を維持した。"
+        }
+      ],
+      "notes": [
+        "sustain an objection は「異議を却下する」ではない。The objection was sustained.「異議は認められた」と The objection was overruled.「異議は退けられた」が対になる。米国の法廷で、質問・証拠への異議が認められると、その質問を許さない・その証拠を採用しないという判断につながるが、既に出た発言の扱いなどをこの語一つから推測しない。Sustained. は文脈で目的語が分かる短い法廷応答で、一般に sustain が「認める」という自動詞になる証拠ではない。語義6の evidence sustains a claim は証拠による裏付け、この語義の the court sustains a claim は裁判所による判断である。motion はここでは「動作」でなく裁判所への申立て。sustain a conviction などの具体的な目的語がある場合と、単に異議を認める場合とを分けて読む。"
+      ],
+      "synonyms": [
+        {
+          "word": "uphold",
+          "definition": "判断・請求などを妥当として認め、維持する。",
+          "frequency": 6,
+          "difference": "法的判断を維持する意味で近い。uphold a decision は広く使われるが、法廷の一語応答 Sustained. を機械的に置き換えない。",
+          "example": "The appeal court upheld the original decision.",
+          "translation": "控訴裁判所は、元の判断を維持した。"
+        },
+        {
+          "word": "allow",
+          "definition": "異議・申立てなどを認める。",
+          "frequency": 6,
+          "difference": "法的に認める意味では近いが、既存の判断を維持する意味全体を表すわけではない。allow a question は質問を許すので、sustain an objection to the question と対象が異なる。",
+          "example": "The judge allowed the objection.",
+          "translation": "裁判官は、その異議を認めた。"
+        },
+        {
+          "word": "affirm",
+          "definition": "既になされた判断を正当として確認し、維持する。",
+          "frequency": 5,
+          "difference": "特に上級裁判所が原判断を維持する文脈に向く。目の前の異議を認める定型応答の一般的な代わりではない。",
+          "example": "The court affirmed the judgment on appeal.",
+          "translation": "裁判所は、上訴審でその判決を維持した。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "overrule",
+          "definition": "異議などを認めず、退ける。",
+          "frequency": 6,
+          "difference": "異議を受け入れるか退けるかという判断で直接対立する。overrule an objection は異議の対象となった質問などへの禁止を、その異議に基づいては認めない。",
+          "example": "The judge overruled the objection and allowed the question.",
+          "translation": "裁判官は異議を退け、その質問を認めた。"
+        },
+        {
+          "word": "reverse",
+          "definition": "それまでの法的判断を覆す。",
+          "frequency": 6,
+          "difference": "既存の判断を維持する sustain に対して、その結論を覆すという方向で反対になる。",
+          "example": "The appeal court reversed the lower court's decision.",
+          "translation": "控訴裁判所は、下級裁判所の判断を覆した。"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "【名詞・通常不可算】音の持続・持続効果",
+      "frequency": 3,
+      "register": [
+        "音楽・楽器の評価。「サステイン」とも呼ぶ。"
+      ],
+      "definition": "演奏した音の響きが保たれること、またはその響きを長く保つ音楽上の効果。楽器の性質、演奏の仕方、音響処理などによる音の伸びをいう。単に音が大きいことや、遅れて同じ音が繰り返されるエコーとは別の概念。",
+      "patterns": [
+        "long/natural sustain＝音の持続の長さ・性質を修飾する。a guitar with good sustain＝音がよく伸びるギター。add/increase/reduce sustain＝持続効果を加える・増減する。sustain pedal＝音を持続させるためのペダルという複合語。一般的な記述では不可算として扱う。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a guitar with good sustain",
+          "use": "楽器の音の伸びを評価する。",
+          "example": "She wanted a guitar with good sustain for slow melodic solos.",
+          "translation": "彼女は、ゆったりした旋律的なソロのために、音がよく伸びるギターを求めていた。"
+        },
+        {
+          "pattern": "long sustain",
+          "use": "音の響きが長く続く性質を表す。",
+          "example": "The instrument's long sustain gives each chord time to blend with the next.",
+          "translation": "その楽器は音が長く伸びるので、各和音が次の和音と重なる時間が生まれる。"
+        },
+        {
+          "pattern": "add sustain",
+          "use": "演奏・音作りで音の持続を増すことを述べる。",
+          "example": "The effect adds sustain without making the part noticeably louder.",
+          "translation": "そのエフェクトは、パートの音量を目立って上げずに音の持続を加える。"
+        },
+        {
+          "pattern": "a sustain pedal",
+          "use": "音を持続させるための装置を指す。",
+          "example": "The keyboard is sold with a sustain pedal.",
+          "translation": "そのキーボードは、サステインペダル付きで販売されている。"
+        }
+      ],
+      "notes": [
+        "sustain a note は語義1の他動詞＋目的語、The guitar has long sustain. は名詞で、同じ意味領域でも構造が違う。通常の音の伸びをいうときは good sustain／more sustain とし、複数の音を弾いたからといって機械的に sustains にしない。持続時間の長さは音量や残響の性質と関係し得るが、sustain 自体を「エコー」と同義にしない。sustained note は「伸ばされた音」、sustaining pedal は音を持続させる働きを表す分詞修飾で、sustain pedal も定着した名称。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}
