@@ -3,7 +3,7 @@
   "slug": "predicate",
   "ipa": "動詞は米・英: /ˈpred.ɪ.keɪt/。名詞・形容詞は米・英: /ˈpred.ɪ.kət/。いずれも3音節で、第1音節に強勢がある。品詞による違いは第3音節で、動詞は /keɪt/、名詞・形容詞は /kət/。名詞・形容詞の語尾を動詞と同じように強く「ケイト」と読まない。",
   "lead": "計画、予測、判断、行動などを、ある事実・原則・想定を土台として成り立たせる。能動文では人・組織などが計画を何かに基づかせ、受動文では計画などが主語になる。根拠が実証済みの事実であるとは限らず、仮定や誤った前提も置ける。文脈によって、その前提が崩れると計画・主張も成り立たないという依存関係を示す。",
-  "updated": "2026-10-08",
+  "updated": "2026-10-10",
   "notion_url": "https://app.notion.com/p/predicate-3f34faa9b77d81ecb715ebc33489e736",
   "pronunciation": [
     "predicated の -ed は /ɪd/ で、全体は4音節。predict /prɪˈdɪkt/「予測する」とは、綴り・音節数・強勢位置・意味が異なる。"
@@ -15,7 +15,7 @@
   "formation": [
     {
       "term": "predicates / predicated / predicating",
-      "description": "動詞の規則活用。predicating は末尾の e を落とす。名詞の複数形も predicates だが、語尾の発音は名詞の /kət/ を保つ。"
+      "description": "動詞の規則活用。predicating は末尾の e を落とす。名詞の複数形も predicates で、-cate の /kət/ を保ち、複数語尾 /s/ が付く。"
     },
     {
       "term": "predication",
@@ -39,7 +39,7 @@
   "senses": [
     {
       "number": 1,
-      "title": "【動詞・他動詞、受動態が多い】根拠に置く・前提に基づかせる",
+      "title": "【動詞・他動詞、受動態が多い】根拠を置く・前提に基づかせる",
       "frequency": 5,
       "register": [
         "フォーマル。計画、事業予測、論説、研究、法的議論。"
@@ -277,7 +277,7 @@
           "frequency": 6,
           "difference": "attribute a quality to someone の形で、to が対象を示す。predicate a quality of someone は、その属性を述べるという論理・言語上の関係を強調する。",
           "example": "The study attributes different priorities to different age groups.",
-          "translation": "その研究は、年代ごとに異なる優先事項を持つと見ている。"
+          "translation": "その研究は、年代層ごとに優先事項が異なると見ている。"
         },
         {
           "word": "ascribe",
@@ -285,7 +285,7 @@
           "frequency": 4,
           "difference": "attribute に近い硬い語で、ascribe something to someone/something。predicate のように述語表現を主題に結び付ける専門操作を必ずしも指さない。",
           "example": "The writer ascribes remarkable patience to the character.",
-          "translation": "作家は、その登場人物に並外れた忍耐力を持たせている。"
+          "translation": "作家は、その登場人物に並外れた忍耐力があると述べている。"
         }
       ],
       "antonyms": []
