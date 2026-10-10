@@ -3,7 +3,7 @@
   "slug": "propensity",
   "ipa": "米: /prəˈpen.sə.t̬i/｜英: /prəˈpen.sə.ti/。4音節で、第2音節 /pen/ に強勢を置く。この表記の米英差は、第4音節の頭の子音が米音では /t̬/、英音では /t/ となる点。米音の /t̬/ は舌先ではじく音で、日本語のラ行に近く聞こえることがある。第1・第3音節の母音はいずれも弱い /ə/。",
   "lead": "人や集団が特定の行動をしがちであること、ある物事を好む性向。また、物や仕組みにある、特定の現象を起こしやすい性質。本人の性格や習慣に根差す傾向を述べることが多いが、生まれつき・不変・抵抗不能であることは必須ではない。望ましくない癖や行動に使われやすい一方、旅行・投資・協力などを中立的に分析するときにも使う。",
-  "updated": "2026-10-08",
+  "updated": "2026-10-10",
   "notion_url": "https://app.notion.com/p/propensity-3f34faa9b77d818d8eb2da23151373e9",
   "pronunciation": [],
   "etymology": [
@@ -55,8 +55,7 @@
         "a propensity for someone/something to do something＝その人・物が～する傾向",
         "someone's propensity to do something＝その人の～しやすさ",
         "the propensity of someone/something to do something＝人・物の～しやすさ",
-        "a greater/lower propensity to do something＝より強い",
-        "弱い傾向。複数の性向を指す場合は propensities とする。"
+        "a greater propensity to do something＝より強い傾向、a lower propensity to do something＝より弱い傾向。複数の性向を指す場合は propensities とする。"
       ],
       "collocations": [
         {
@@ -75,7 +74,7 @@
           "pattern": "a propensity for doing something",
           "use": "前置詞 for の後ろに動名詞を置き、傾向の内容を示す。",
           "example": "Her propensity for spotting inconsistencies made her an effective editor.",
-          "translation": "矛盾に気づきやすいという彼女の特性が、編集者として役立った。"
+          "translation": "矛盾に気づきやすいという特性のおかげで、彼女は編集者として力を発揮した。"
         },
         {
           "pattern": "a propensity for someone to do something",
@@ -93,7 +92,7 @@
           "pattern": "a higher propensity to do something",
           "use": "集団間で行動の起こりやすさを比較する。",
           "example": "Repeat customers had a higher propensity to choose the annual plan.",
-          "translation": "リピーターには、年間プランを選びやすい傾向があった。"
+          "translation": "リピーターには、年間プランを選ぶ傾向がより強く見られた。"
         },
         {
           "pattern": "a low propensity for something",
@@ -224,8 +223,7 @@
       "title": "【名詞・統計学の複合表現 propensity score】傾向スコア",
       "frequency": 2,
       "register": [
-        "統計学・因果推論・疫学・社会科学。ここでは処置が二値、すなわち「受ける",
-        "受けない」である基本的な用法を扱う。"
+        "統計学・因果推論・疫学・社会科学。ここでは処置が二値、すなわち「受けるか受けないか」である基本的な用法を扱う。"
       ],
       "definition": "観測された背景変数（共変量）を条件として、ある処置・介入を受ける確率。たとえば研修プログラムの効果を調べる研究で、介入前の特性から、その人が研修を受ける確率を考える。単なる「好みの点数」でも、処置によって望ましい結果が出る確率でもない。propensity score という複合語全体の専門的な意味である。",
       "patterns": [
