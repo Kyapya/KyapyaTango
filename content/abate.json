@@ -3,7 +3,7 @@
   "slug": "abate",
   "ipa": "米・英: /əˈbeɪt/。2音節で、第2音節 /beɪt/ に主強勢を置く。過去形・過去分詞 abated は /əˈbeɪ.tɪd/ で、語尾に /ɪd/ が加わる。",
   "lead": "嵐、痛み、怒り、圧力、危機などの強さ・勢いが小さくなる。量や程度の減少にも使う。好ましくない現象が落ち着く場面が典型的だが、関心や熱意などにも使えるため、「悪いもの」に限定されない。完全に消えることまでは通常言わない。",
-  "updated": "2026-10-08",
+  "updated": "2026-10-10",
   "notion_url": "https://app.notion.com/p/abate-3f34faa9b77d8123ac22ce704647d4e6",
   "pronunciation": [],
   "etymology": [
@@ -103,7 +103,7 @@
         }
       ],
       "notes": [
-        "この語義では弱まる現象が主語であり、The pressure abated.「圧力が弱まった」とする。The measures abated the pressure.「対策が圧力を弱めた」は他動詞の語義2。自動詞用法を The pressure was abated. と受動形にすると、外から弱められたという構造に変わる。abate は徐々に落ち着く場面でよく使うが、suddenly abated なども可能で、「必ずゆっくり」が語義の条件ではない。inflation abates は物価上昇率の低下を表し得るので、「物価が下がる」とは限らない。"
+        "この語義では弱まる現象が主語であり、The pressure abated.「圧力が弱まった」とする。The measures abated the pressure.「対策が圧力を弱めた」は他動詞の語義2。The pressure was abated. は他動詞の語義2の受動態で、圧力が外から弱められたことを表す。abate は徐々に落ち着く場面でよく使うが、suddenly abated なども可能で、「必ずゆっくり」が語義の条件ではない。inflation abates は物価上昇率の低下を表し得るので、「物価が下がる」とは限らない。"
       ],
       "synonyms": [
         {
@@ -254,7 +254,7 @@
           "frequency": 5,
           "difference": "有害な現象を軽減するか悪化させるかという方向の対立。",
           "example": "Heavy traffic aggravated the air pollution.",
-          "translation": "激しい交通量が大気汚染を悪化させた。"
+          "translation": "交通量の多さが大気汚染を悪化させた。"
         },
         {
           "word": "intensify",
@@ -303,7 +303,7 @@
         {
           "pattern": "rent + abate",
           "use": "契約による減免を賃料主語の自動詞で表す。",
-          "example": "Under this lease, rent abates for any full day when the entire office is unusable.",
+          "example": "Under this lease, rent abates in full for any full day when the entire office is unusable.",
           "translation": "この賃貸借契約では、事務所全体が終日使えない日は賃料が免除される。"
         }
       ],
@@ -347,9 +347,12 @@
       ],
       "definition": "訴訟・手続きなどが進行できなくなる、または裁判所などがその進行・効力を止める。文脈によって一時停止、終了、失効を指すため、日本語訳は手続き上の効果を確認して選ぶ。単に訴訟の勢いが弱まるという比喩ではない。",
       "patterns": [
-        "〈action/proceedings〉 + abate＝訴訟・手続きが停止・失効する",
-        "abate an action / proceedings＝訴訟・手続きを停止・失効させる",
-        "〈action/proceedings〉 + be abated＝停止・失効させられる。"
+        "an action + abate＝訴訟が停止・失効する",
+        "proceedings + abate＝手続きが停止・失効する",
+        "abate an action＝訴訟を停止・失効させる",
+        "abate proceedings＝手続きを停止・失効させる",
+        "an action + be abated＝訴訟が停止・失効させられる",
+        "proceedings + be abated＝手続きが停止・失効させられる。"
       ],
       "collocations": [
         {
