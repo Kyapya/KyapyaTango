@@ -1,0 +1,399 @@
+{
+  "word": "intractable",
+  "slug": "intractable",
+  "ipa": "米・英: /ɪnˈtræktəbl/",
+  "lead": "問題・対立・状況などが容易に解決や改善へ向かわず、対処するのが非常に難しい。単に手間がかかる difficult より、働きかけても進展しにくいことを強く示す。長期化した課題に使われやすいが、長年続いていることは必須条件ではない。",
+  "updated": "2026-10-10",
+  "notion_url": "https://app.notion.com/p/intractable-3f54faa9b77d81fb8105d97d3db655b4",
+  "pronunciation": [
+    "主強勢は第2音節 /træk/。第1音節は /ɪn/、語末の -able は弱い /əbl/ で、単独の able /ˈeɪbl/ のようには読まない。"
+  ],
+  "etymology": [
+    "ラテン語 intractabilis に由来し、否定の in- と tractabilis「扱いやすい」からなる。後者は tractare「扱う」に基づく。現代の tractable「扱いやすい、解決しやすい」と対にして覚えられ、同じ tractare の系統には treat「扱う、治療する」もある。語頭を intra-「内部の」と区切らない。"
+  ],
+  "formation": [
+    {
+      "term": "intractability（名詞、主に不可算）＝扱いにくさ、解決の困難さ。the",
+      "description": "intractability of the dispute のように対象を of で示す。"
+    },
+    {
+      "term": "intractably（副詞）＝手に負えないほど、容易に変わらず。intractably",
+      "description": "opposed to the proposal は、提案への反対が容易には変わらないことを表す。"
+    },
+    {
+      "term": "tractable（形容詞）＝扱いやすい、従順な、解決可能な。人・問題・計算で、何を容易に扱えるのかが変わる。",
+      "description": ""
+    },
+    {
+      "term": "tractability（名詞、主に不可算）＝扱いやすさ、解決可能性。computational",
+      "description": "tractability は計算によって効率よく扱えることを指す。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "中心は「働きかけても、容易には扱いきれない」という性質であり、一般用法では絶対に不可能だとまでは限らない。人・症状・計算・材料では何への抵抗や困難をいうかが変わり、医療上の判定や計算量上の厳密な条件は各語義で区別する。"
+    },
+    {
+      "type": "item",
+      "text": "扱いきれない問題の解決・状況の改善 → 「解決・対処が非常に難しい」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "扱いきれない人への指導・説得 → 「頑固で手に負えない」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "扱いきれない病気・症状の治療 → 「治療・緩和が難しい」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "扱いきれない計算に必要な時間・資源 → 「計算上扱いきれない」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "扱いきれない材料の加工・成形 → 「加工・成形しにくい」（語義5）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【形容詞】解決・対処が非常に難しい",
+      "frequency": 5,
+      "register": [
+        "フォーマル。報道、政策、交渉、業務上の分析。"
+      ],
+      "definition": "問題・対立・状況などが容易に解決や改善へ向かわず、対処するのが非常に難しい。単に手間がかかる difficult より、働きかけても進展しにくいことを強く示す。長期化した課題に使われやすいが、長年続いていることは必須条件ではない。",
+      "patterns": [
+        "an intractable 〈problem/issue/dispute〉＝難しい課題・紛争を名詞の前から修飾する",
+        "〈問題・状況〉 + be/remain/prove intractable＝解決困難である・そのままである・そう判明する",
+        "a seemingly intractable problem＝解決困難に見える問題。限定・叙述の両方が可能で、more/less intractable、particularly intractable のような程度表現も使える。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an intractable problem",
+          "use": "通常の対応では容易に解決できない課題を示す。",
+          "example": "Persistent staff shortages have become an intractable problem for the company.",
+          "translation": "慢性的な人手不足が、その会社にとって解決の非常に難しい問題になっている。"
+        },
+        {
+          "pattern": "an intractable dispute",
+          "use": "調整しても決着しにくい対立を述べる。",
+          "example": "The mediator inherited an intractable dispute over access to the water supply.",
+          "translation": "調停者は、水の供給を利用する権利をめぐる難航した紛争を引き継いだ。"
+        },
+        {
+          "pattern": "remain intractable",
+          "use": "努力の後も問題の解決が難しいままだと述べる。",
+          "example": "The funding problem remained intractable despite months of negotiations.",
+          "translation": "数か月の交渉にもかかわらず、資金の問題は解決の難しいままだった。"
+        },
+        {
+          "pattern": "prove intractable",
+          "use": "実際に取り組んだ結果、手ごわさが明らかになる場合に使う。",
+          "example": "What looked like a minor scheduling issue proved intractable.",
+          "translation": "小さな日程調整の問題に見えたものが、実際には非常に解決しにくいと分かった。"
+        },
+        {
+          "pattern": "a seemingly intractable problem",
+          "use": "解決不能に近く見えても、それが外見上の判断だと限定する。",
+          "example": "The new agreement resolved a seemingly intractable problem.",
+          "translation": "新たな合意によって、一見解決の見込みがなかった問題が解決した。"
+        },
+        {
+          "pattern": "become more intractable",
+          "use": "時間の経過や事情の変化によって解決がさらに難しくなることを示す。",
+          "example": "The dispute became more intractable after the two sides stopped talking.",
+          "translation": "双方が話し合いをやめてから、紛争はさらに解決しにくくなった。"
+        }
+      ],
+      "notes": [
+        "intractable を常に「絶対に解決不能」と訳すと強すぎる。solve an intractable problem は矛盾ではなく、非常に難しい問題を解いたという意味で成立する。形容詞なので、誤: The problem intractables us.／正: The problem is intractable. とする。intricate は構造が入り組んでいることを表し、解決の困難さを必ずしも意味しない。an intricate design は「複雑で精巧な意匠」、an intractable problem は「非常に解決しにくい問題」。語義2と異なり、問題自体に故意の抵抗や反抗心を読み込まない。"
+      ],
+      "synonyms": [
+        {
+          "word": "difficult",
+          "definition": "対処・達成・理解などが容易でない。",
+          "frequency": 10,
+          "difference": "難しさ全般に使う広い語。intractable は対処しても思うように進まない度合いが強い。",
+          "example": "This is a difficult question, but the data should help us answer it.",
+          "translation": "難しい問いだが、そのデータが答えを出す助けになるはずだ。"
+        },
+        {
+          "word": "thorny",
+          "definition": "複雑な問題や対立を含み、扱うのが難しい。",
+          "frequency": 6,
+          "difference": "問題に面倒な論点が絡むことを強調する。intractable ほど解決への抵抗の強さを必ずしも示さない。",
+          "example": "The report raises thorny questions about ownership of the data.",
+          "translation": "その報告書は、データの所有権に関する厄介な問題を提起している。"
+        },
+        {
+          "word": "unmanageable",
+          "definition": "制御・処理・管理することができない、または非常に難しい。",
+          "frequency": 6,
+          "difference": "作業量や規模が管理能力を超える場合にも使う。intractable は課題そのものを解決しにくい性質に焦点がある。",
+          "example": "The number of support requests became unmanageable.",
+          "translation": "サポート依頼の件数が、処理しきれないほどになった。"
+        },
+        {
+          "word": "insoluble",
+          "definition": "問題に解決策がない、解くことができない。",
+          "frequency": 4,
+          "difference": "問題については解決不能という判断が intractable より明確。物質が溶けないという別義とは区別する。",
+          "example": "Under these contradictory conditions, the problem is insoluble.",
+          "translation": "これらの矛盾した条件の下では、その問題は解決不能だ。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "tractable",
+          "definition": "問題や状況に対処でき、解決へ向けて扱いやすい。",
+          "frequency": 4,
+          "difference": "対処・解決の容易さという同じ軸で反対になる。intractable と同様に程度差を表せる。",
+          "example": "Breaking the task into smaller parts made it more tractable.",
+          "translation": "作業を小さな部分に分けると、より取り組みやすくなった。"
+        },
+        {
+          "word": "manageable",
+          "definition": "必要な処理や対応を無理なく行える。",
+          "frequency": 7,
+          "difference": "扱える程度に収まっているという状態の反対を表す。完全に解決済みであることは意味しない。",
+          "example": "The revised schedule made the workload manageable.",
+          "translation": "日程を見直したことで、仕事量は対応できる範囲に収まった。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【形容詞】頑固で手に負えない",
+      "frequency": 4,
+      "register": [
+        "フォーマル。人物描写、交渉、批判的な評価。"
+      ],
+      "definition": "人・動物やその気質が、指導・制御・説得に容易に応じず、扱いにくい。相手を動かそうとする側からの否定的な評価を伴いやすく、能力や知性が低いという意味ではない。",
+      "patterns": [
+        "an intractable 〈opponent/child〉＝説得・指導が難しい相手",
+        "an intractable disposition＝容易に曲がらない気質",
+        "someone + be/remain/become intractable＝人が手に負えない・そのままである・そうなる。限定・叙述の両方が可能。particularly/more intractable などで程度を示せる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an intractable opponent",
+          "use": "説得や働きかけに容易に応じない反対者を描く。",
+          "example": "Even after the design changed, she remained an intractable opponent of the project.",
+          "translation": "設計が変更されても、彼女はその事業に対する頑として動かない反対者のままだった。"
+        },
+        {
+          "pattern": "an intractable child",
+          "use": "指導に従わない子どもを、改まった批判的な文体で述べる。",
+          "example": "The narrator describes an intractable child who rejects every instruction.",
+          "translation": "語り手は、どんな指示も拒む手に負えない子どもを描いている。"
+        },
+        {
+          "pattern": "an intractable disposition",
+          "use": "一時的な行動より、その人の扱いにくい気質に焦点を当てる。",
+          "example": "His intractable disposition made compromise difficult.",
+          "translation": "彼の頑固な気質のために、妥協が難しかった。"
+        },
+        {
+          "pattern": "remain intractable",
+          "use": "相手が譲歩や説得を受けても態度を変えないことを示す。",
+          "example": "We offered several concessions, but the negotiator remained intractable.",
+          "translation": "こちらはいくつか譲歩したが、その交渉担当者は頑として応じなかった。"
+        }
+      ],
+      "notes": [
+        "an intractable opponent は「扱いにくい反対者」であり、勝負が強いだけの相手ではない。intransigent は特に妥協や立場の変更を拒む態度、intractable は指導・制御・説得の難しさを広く表す。人についての intractable は厳しい評価になり得る。語義3の「治療しにくい病状」を表したいときは、an intractable patient だけでは非協力的な患者とも読めるため、a patient with intractable pain のように症状を明示する。"
+      ],
+      "synonyms": [
+        {
+          "word": "stubborn",
+          "definition": "自分の意見や行動をなかなか変えない、頑固な。",
+          "frequency": 8,
+          "difference": "日常的な語で、粘り強さとして好意的に使うこともある。intractable は他者が扱う難しさを強く表す。",
+          "example": "He was too stubborn to admit that the plan had failed.",
+          "translation": "彼は頑固すぎて、計画が失敗したと認めなかった。"
+        },
+        {
+          "word": "recalcitrant",
+          "definition": "権威や指示に従おうとせず、反抗的な。",
+          "frequency": 4,
+          "difference": "指示や支配への意識的な抵抗が前面に出る。intractable は説得が難しい相手にも広く使う。",
+          "example": "The manager struggled to persuade a recalcitrant employee to follow the new procedure.",
+          "translation": "管理職は、反抗的な従業員に新しい手順を守るよう説得するのに苦労した。"
+        },
+        {
+          "word": "intransigent",
+          "definition": "意見・要求・方針について妥協を拒む。",
+          "frequency": 4,
+          "difference": "交渉上の立場を曲げないことに焦点がある。intractable はしつけや行動の制御にも使える。",
+          "example": "Both sides remained intransigent on the question of ownership.",
+          "translation": "所有権の問題について、双方とも妥協を拒み続けた。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "tractable",
+          "definition": "指導や制御を受け入れやすい、扱いやすい。",
+          "frequency": 3,
+          "difference": "他者の働きかけへの応じやすさという同じ軸で反対になる。人に使うと上から扱う評価にも響く。",
+          "example": "The trainer found the young horse surprisingly tractable.",
+          "translation": "調教師には、その若い馬が意外なほど扱いやすいと分かった。"
+        },
+        {
+          "word": "amenable",
+          "definition": "提案や働きかけを受け入れ、協力する用意がある。",
+          "frequency": 5,
+          "difference": "相手の意見への応じやすさという態度の反対。amenable to something と対象を示せる。",
+          "example": "The new chair is amenable to suggestions from junior staff.",
+          "translation": "新しい議長は、若手職員からの提案にも耳を傾ける。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【形容詞】治療・緩和が難しい",
+      "frequency": 4,
+      "register": [
+        "医療、医学文献、病状の説明。"
+      ],
+      "definition": "病気・症状・痛みなどが治療や管理によって容易には改善・軽減しない。治療への抵抗性を表す用法であり、将来にわたってどんな方法でも治せないという断定ではない。",
+      "patterns": [
+        "intractable 〈pain/epilepsy〉＝治療・管理が難しい痛み・てんかん",
+        "〈症状〉 + be/remain intractable＝症状が緩和しにくい・しにくいままである",
+        "a patient with intractable 〈pain/epilepsy〉＝該当する症状・病気のある患者。限定・叙述とも可能だが、名詞の前に置く形がよく使われる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "intractable pain",
+          "use": "治療で抑えにくい痛みを述べる。",
+          "example": "The case report describes intractable pain that persisted despite treatment.",
+          "translation": "その症例報告では、治療を行っても続いた難治性の痛みが記述されている。"
+        },
+        {
+          "pattern": "intractable epilepsy",
+          "use": "発作の管理が難しいてんかんを扱う医学的文脈で使う。",
+          "example": "The review focuses on treatment outcomes in adults with intractable epilepsy.",
+          "translation": "その総説は、難治性てんかんの成人における治療成績に焦点を当てている。"
+        },
+        {
+          "pattern": "a patient with intractable pain",
+          "use": "治療の難しさが患者の性格ではなく症状にあることを明示する。",
+          "example": "The study included patients with intractable pain following surgery.",
+          "translation": "その研究には、手術後に難治性の痛みが生じた患者が含まれていた。"
+        },
+        {
+          "pattern": "remain intractable",
+          "use": "症状を主語にして、治療後も改善しにくい状態を示す。",
+          "example": "Her pain remained intractable despite several changes in treatment.",
+          "translation": "治療が何度か変更されても、彼女の痛みは抑えにくいままだった。"
+        }
+      ],
+      "notes": [
+        "chronic は長く続くこと、severe は強い・重いこと、intractable は治療や緩和の難しさであり、互いに同義ではない。intractable pain を単に「激痛」とすると、治療に反応しにくいという情報が落ちる。病名ごとの具体的な判定基準や、医療制度で使う「難病」の指定は、この形容詞だけからは決まらない。人を直接修飾する場合は語義2の性格評価と混同しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "refractory",
+          "definition": "病気や症状が治療に反応しにくい、治療抵抗性の。",
+          "frequency": 4,
+          "difference": "医療では intractable と近く、特定の治療への抵抗性を refractory to treatment のように示せる。すべての病名で診断上の範囲が一致するとは限らない。",
+          "example": "The report concerns pain that is refractory to standard treatment.",
+          "translation": "その報告は、標準的な治療に反応しにくい痛みを扱っている。"
+        },
+        {
+          "word": "treatment-resistant",
+          "definition": "病気や症状が治療によって改善しにくい。",
+          "frequency": 4,
+          "difference": "治療への抵抗性を明示する複合形容詞。intractable の一般的な「扱いにくい」という人物評価を含まない。",
+          "example": "The article reviews research on treatment-resistant depression.",
+          "translation": "その論文は、治療抵抗性うつ病に関する研究を概観している。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【形容詞】計算上扱いきれない",
+      "frequency": 3,
+      "register": [
+        "計算機科学、数理的分析、技術文書。"
+      ],
+      "definition": "問題や計算が、必要とする時間・メモリなどのために効率よく扱えない。実務上は利用できる資源や入力規模に対する困難さをいい、計算量理論では多項式時間で解けないことを基準とする用法がある。どの意味かは、文書が採用する定義や前提による。",
+      "patterns": [
+        "a computationally intractable problem＝計算上扱いきれない問題",
+        "〈計算・問題〉 + be/become computationally intractable＝計算上の処理が困難である・困難になる。名詞前と補語位置の双方で用いる。実務的な評価では intractable for large inputs のように入力規模を限定できる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a computationally intractable problem",
+          "use": "計算時間・資源の観点から問題の難しさを説明する。",
+          "example": "The paper distinguishes computationally intractable problems from problems that have no algorithmic solution at all.",
+          "translation": "その論文は、計算上扱いきれない問題と、そもそもアルゴリズムによる解法が存在しない問題を区別している。"
+        },
+        {
+          "pattern": "become computationally intractable",
+          "use": "入力規模の拡大によって計算が現実的でなくなることを述べる。",
+          "example": "An exhaustive search becomes computationally intractable as the number of variables grows.",
+          "translation": "変数の数が増えると、全探索は計算量の面で実行が困難になる。"
+        }
+      ],
+      "notes": [
+        "computationally intractable を一律に「計算不可能」とすると、十分な時間があれば解ける問題と、解くアルゴリズム自体が存在しない問題を混同する。NP-hard、NP-complete はそれぞれ計算量上の分類であり、この形容詞の単純な同義語ではない。NP-complete な問題について「多項式時間では解けない」と断定するには前提の確認が必要で、P と NP が異なることは未証明である。問題全体の最悪時の難しさから、個々の小さな入力や制約付きの事例もすべて実用的に解けないとはいえない。"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "tractable",
+          "definition": "問題を計算によって効率よく扱える。",
+          "frequency": 3,
+          "difference": "計算上の処理可能性という同じ軸で反対になる。理論上の多項式時間と、実務上十分速いことのどちらを指すかは文脈で確認する。",
+          "example": "With the number of variables fixed, the calculation becomes tractable.",
+          "translation": "変数の数を固定すると、その計算は扱えるようになる。"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "【形容詞】加工・成形しにくい",
+      "frequency": 2,
+      "register": [
+        "低頻度。材料や制作工程についての記述。"
+      ],
+      "definition": "金属などの材料が、手や道具によって容易には加工・成形できない。問題の解決ではなく、物を物理的に扱う難しさをいう。",
+      "patterns": [
+        "an intractable 〈material/metal〉＝加工しにくい材料・金属",
+        "〈材料〉 + be/prove intractable＝材料が加工しにくい・しにくいと分かる。限定・叙述の双方で使え、比較する場合は more/less intractable とする。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an intractable metal",
+          "use": "金属を意図した形に加工する難しさを示す。",
+          "example": "The sculptor struggled to bend the intractable metal into a smooth curve.",
+          "translation": "彫刻家は、加工しにくいその金属を滑らかな曲線に曲げようと苦労した。"
+        },
+        {
+          "pattern": "prove intractable",
+          "use": "制作時に材料の扱いにくさが分かる場面で使う。",
+          "example": "The material proved intractable under the sculptor's tools.",
+          "translation": "その材料は、彫刻家の道具を使っても加工しにくいと分かった。"
+        }
+      ],
+      "notes": [
+        "硬さだけを表す hard と同義ではない。形を作りにくい、加工しにくいという作業上の性質を述べる。技術上の特定の材質分類や、「高温に耐える」という意味をこの語自体から推定しない。"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "malleable",
+          "definition": "金属などをたたいたり圧力を加えたりして、壊さずに形を変えやすい。",
+          "frequency": 4,
+          "difference": "形の変えやすさという同じ軸での反対。intractable が表す加工全般の難しさのうち、特に変形のしやすさに対応する。",
+          "example": "The malleable metal could be hammered into a thin sheet.",
+          "translation": "その展性のある金属は、たたいて薄い板にすることができた。"
+        }
+      ]
+    }
+  ]
+}
