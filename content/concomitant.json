@@ -1,0 +1,182 @@
+{
+  "word": "concomitant",
+  "slug": "concomitant",
+  "ipa": "米: /kənˈkɑːmɪtənt/｜英: /kənˈkɒmɪtənt/",
+  "lead": "ある事柄と同じ時期に起こる・存在する、またはそれに伴って現れる。一般の分析文では事柄同士の関連にも焦点を当てるが、一方が他方を引き起こしたと証明する語ではない。医療では、併存する病状や同じ時期に使う薬・治療を指すことがあり、それらに共通の原因があることは必須ではない。",
+  "updated": "2026-10-10",
+  "notion_url": "https://app.notion.com/p/concomitant-3f54faa9b77d81e79a04f63f0ab1c297",
+  "pronunciation": [
+    "形容詞・名詞とも主強勢は第2音節。ここで示した米英差は第2音節の母音だけで、米は /ɑː/、英は /ɒ/。第1音節は /kən/、第3音節の母音は /ɪ/、第4音節の母音は /ə/ で、いずれも強勢を置かない。"
+  ],
+  "etymology": [
+    "後期ラテン語 concomitant-「伴う」に由来し、動詞 concomitari「同行する、伴う」の分詞語幹から来ている。con-「共に」と comitari「同行する」に分かれ、さらに comes「仲間、同行者」にさかのぼる。現在の「別のものと一緒に存在・発生する」という意味につながる。同じ語族には concomitantly「伴って、同時に」と concomitance「随伴、同時に存在すること」がある。"
+  ],
+  "formation": [
+    {
+      "term": "concomitantly（副詞）＝別の事柄に伴って、同じ時期に。Costs",
+      "description": "rose concomitantly with output. は「生産量とともに費用も増えた」。consequently「その結果」と違い、副詞そのものが因果関係を断定するわけではない。"
+    },
+    {
+      "term": "concomitance（名詞、不可算）＝随伴、共存。フォーマルで低頻度。個々の「伴う事柄」を数える名詞",
+      "description": "concomitant と、伴って存在する関係をいうこの抽象名詞を区別する。"
+    }
+  ],
+  "core": [],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【形容詞】同時に伴う、随伴する",
+      "frequency": 4,
+      "register": [
+        "フォーマル。研究、政策・業務の報告、医療・臨床試験。"
+      ],
+      "definition": "ある事柄と同じ時期に起こる・存在する、またはそれに伴って現れる。一般の分析文では事柄同士の関連にも焦点を当てるが、一方が他方を引き起こしたと証明する語ではない。医療では、併存する病状や同じ時期に使う薬・治療を指すことがあり、それらに共通の原因があることは必須ではない。",
+      "patterns": [
+        "a concomitant 〈increase/decrease/change〉 in something＝何かに伴う増加・減少・変化",
+        "with a concomitant 〈increase/reduction〉 in something＝同時に別の増加・減少を伴って",
+        "something + be concomitant with something＝ある事柄が別の事柄に伴っている",
+        "〈変化・現象〉 + concomitant with something＝後ろから名詞を修飾する形",
+        "concomitant 〈medications/conditions〉＝併用薬・併存する病状",
+        "concomitant use of 〈薬剤名〉 and 〈薬剤名〉＝2つの薬の同時期の使用。限定・叙述の両方が可能で、主に事柄や状態に用いる。通常は関連・同時性を分類するために使い、very や最上級で強さを表す形は基本形ではない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a concomitant increase in costs",
+          "use": "一つの変化に費用増加が伴うことを示す。",
+          "example": "The expansion brought a concomitant increase in maintenance costs.",
+          "translation": "事業の拡大に伴って、維持費も増えた。"
+        },
+        {
+          "pattern": "with a concomitant reduction in something",
+          "use": "ある変化とともに生じる減少を付け加える。",
+          "example": "The factory used less material, with a concomitant reduction in waste.",
+          "translation": "工場で使用する材料が減り、それに伴って廃棄物も減った。"
+        },
+        {
+          "pattern": "be concomitant with something",
+          "use": "主語にした現象と、もう一方の現象との随伴関係を述べる。",
+          "example": "In the study, improved accuracy was concomitant with longer response times.",
+          "translation": "その研究では、正確さの向上とともに応答時間も長くなっていた。"
+        },
+        {
+          "pattern": "changes concomitant with something",
+          "use": "何に伴う変化かを、名詞の後ろから限定する。",
+          "example": "The report examines organizational changes concomitant with the merger.",
+          "translation": "その報告書は、合併に伴う組織の変化を検討している。"
+        },
+        {
+          "pattern": "concomitant medications",
+          "use": "臨床試験などで、対象の治療と同じ時期に使用される別の薬を指す。",
+          "example": "The trial report lists the participants' concomitant medications separately from the study drug.",
+          "translation": "その臨床試験報告書では、参加者の併用薬が試験薬とは別に記載されている。"
+        },
+        {
+          "pattern": "concomitant conditions",
+          "use": "主に扱う疾患などと併存する病状を指す。",
+          "example": "The researchers recorded diabetes and other concomitant conditions.",
+          "translation": "研究者らは、糖尿病などの併存疾患を記録した。"
+        },
+        {
+          "pattern": "concomitant use of something and something",
+          "use": "医学的な記述で2つの薬などの併用を表す。",
+          "example": "The study examined concomitant use of the two medications.",
+          "translation": "その研究は、その2種類の薬の併用を検討した。"
+        }
+      ],
+      "notes": [
+        "be concomitant with は形容詞、a concomitant of は語義2の可算名詞。The increase was concomitant with the expansion. は「その増加は拡大に伴っていた」、The increase was a concomitant of the expansion. は「その増加は拡大に伴う現象の一つだった」。名詞の形で書くなら、誤: It was concomitant of the expansion.／正: It was a concomitant of the expansion. と冠詞を置く。concomitant を接続詞のように使って節を直接続けず、with the expansion や with an increase in demand のように名詞句と結ぶ。  consequent/resulting は結果として生じることを前面に出す。concomitant は結果を述べる文脈にも使えるが、同時性・随伴だけから因果関係が確定するわけではない。また、incidental と異なり、些細なもの・偶然のものとは限らない。concomitant benefits なら「付随する利益」、concomitant risks なら「伴うリスク」で、悪い副作用だけに使う語でもない。医療の concomitant medications は、主たる薬のせいで生じた薬という意味ではなく、必ず相互作用があることや併用が安全であることも示さない。臨床試験で記録対象となる薬や期間の範囲は、個別の試験の定義による。"
+      ],
+      "synonyms": [
+        {
+          "word": "accompanying",
+          "definition": "別のものと一緒に現れる、付いている。",
+          "frequency": 7,
+          "difference": "concomitant より広く、書類に付く図や同封物などにも使える。concomitant は出来事・変化・状態の随伴を述べる改まった語。",
+          "example": "The report explains the rise in output and the accompanying rise in energy use.",
+          "translation": "その報告書は、生産量の増加と、それに伴うエネルギー使用量の増加を説明している。"
+        },
+        {
+          "word": "attendant",
+          "definition": "ある状況に伴って生じる、付随する。",
+          "frequency": 5,
+          "difference": "フォーマルな近義語で、状況に付き物の負担・危険・利益などを表しやすい。attendant on/upon something という結び付きがあり、concomitant with と前置詞を区別する。",
+          "example": "The board discussed the expansion and its attendant risks.",
+          "translation": "取締役会は、事業拡大とそれに伴うリスクについて話し合った。"
+        },
+        {
+          "word": "concurrent",
+          "definition": "別の出来事や活動と同じ時期に起こる・進行する。",
+          "frequency": 6,
+          "difference": "時間的な並行が中心で、相互の関連は必須ではない。concomitant は一般の分析文で、ある事柄に伴うという結び付きを表しやすい。",
+          "example": "The company is running three concurrent pilot projects.",
+          "translation": "その会社は、3つの試験事業を同時並行で進めている。"
+        },
+        {
+          "word": "associated",
+          "definition": "別のものと結び付いている、関連する。",
+          "frequency": 8,
+          "difference": "関連性が中心で、同じ時期に存在するとは限らない。associated with は concomitant with より広い関係に使える。",
+          "example": "The report identifies costs associated with long-term maintenance.",
+          "translation": "その報告書は、長期的な維持管理に関連する費用を特定している。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算】伴うもの、随伴する事柄",
+      "frequency": 3,
+      "register": [
+        "フォーマル。評論、社会科学、学術的な記述。"
+      ],
+      "definition": "別の出来事・状態とともに存在する、またはそれに伴って起こる事柄。「随伴現象」「付随するもの」などと訳す。関連する現象・状況を一つずつ数えられ、複数形は concomitants。常に不可避の結果であるわけでも、必ず悪いものであるわけでもない。",
+      "patterns": [
+        "a concomitant of something＝ある事柄に伴うものの一つ",
+        "an inevitable concomitant of something＝必然的に伴うもの",
+        "the concomitants of something＝ある事柄に伴う複数の現象",
+        "something and its concomitants＝ある事柄とそれに付随するもの。単数なら a/an、the、所有格などを伴い、of の後ろに何に伴うかを示す。動詞 be の後ろでも名詞なので冠詞等が必要。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a concomitant of something",
+          "use": "観察された随伴現象の一つとして位置付ける。",
+          "example": "Public debate is often a concomitant of major institutional change.",
+          "translation": "大規模な制度変更には、しばしば公の議論が伴う。"
+        },
+        {
+          "pattern": "an inevitable concomitant of something",
+          "use": "単なる随伴に加えて、避けられないという書き手の判断を示す。",
+          "example": "The author questions whether congestion is an inevitable concomitant of urban growth.",
+          "translation": "著者は、都市の成長には渋滞が必然的に伴うのかと疑問を呈している。"
+        },
+        {
+          "pattern": "the concomitants of something",
+          "use": "ある変化や状態に伴う現象を複数まとめて論じる。",
+          "example": "The study examines the psychological concomitants of prolonged uncertainty.",
+          "translation": "その研究は、不確実な状況が長く続くことに伴う心理的な現象を検討している。"
+        },
+        {
+          "pattern": "something and its concomitants",
+          "use": "中心となる現象と、その周りで一緒に生じる事柄をまとめて扱う。",
+          "example": "The chapter explores rapid industrialization and its social concomitants.",
+          "translation": "その章は、急速な工業化と、それに伴う社会的な現象を探究している。"
+        }
+      ],
+      "notes": [
+        "形容詞の concomitant changes は「伴って起こる変化」、名詞の concomitants of change は「変化に伴う諸現象」であり、後者では concomitants 自体が名詞の中心になる。複数では、誤: several concomitant of growth／正: several concomitants of growth。a concomitant の前の natural は「自然な」、inevitable は「不可避の」という意味を加える。necessary concomitant は「必然的に伴うもの」を表し、文脈によっては「必要不可欠な付随要素」を指す。これらの含意を名詞そのものの必須条件にしない。consequence は原因から生じた結果、corollary は自然に導かれる結果・帰結を表す対照語で、concomitant を使っただけではその因果関係や論理的な導出まで主張しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "accompaniment",
+          "definition": "別のものと一緒に存在する、またはそれに伴うもの。",
+          "frequency": 5,
+          "difference": "ここでは音楽の「伴奏」ではなく、随伴する事柄という語義。concomitant より平明だが、食べ物に添えるものなど具体物にも広く使える。",
+          "example": "Anxiety can be an accompaniment to a major life change.",
+          "translation": "人生の大きな変化には、不安が伴うことがある。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
