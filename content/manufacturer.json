@@ -1,0 +1,141 @@
+{
+  "word": "manufacturer",
+  "slug": "manufacturer",
+  "ipa": "米: /ˌmæn.juˈfæk.tʃər.ər/｜英: /ˌmæn.juˈfæk.tʃə.rə/。ここに示した形は5音節で、第3音節に主強勢、第1音節に副強勢がある。米英差は、第4音節が米 /tʃər/・英 /tʃə/、第5音節が米 /ər/・英 /rə/ となる点。米では第4音節末と語末の r を発音し、英の非 r 音方言では母音間の r を発音する。第2音節を /jə/ と弱める発音もある。複数形 manufacturers の語尾は /z/。",
+  "lead": "商品・部品・材料などを製造する人や会社などの主体。事業として工業製品を作る会社を指すことが多く、通常はまとまった規模の製造を連想する。製造業を営む人にも使い、経済記事では製造主体として国全体を指すこともある。製品そのものや、単に売るだけの店を意味する語ではない。",
+  "updated": "2026-10-11",
+  "notion_url": "https://app.notion.com/p/manufacturer-3f64faa9b77d8162b8aedc5f894f5711",
+  "pronunciation": [],
+  "etymology": [
+    "manufacture「製造する」に、行為の主体を表す -er が付いた語。manufacture はフランス語などを経て、ラテン語の manus「手」と facere「作る」にさかのぼる。語源上は「手で作る」だが、現代の manufacturer は機械を使う製造会社にも広く使う。同じ語源要素を持つ manual「手の・手作業の」と factory「工場」も関連づけて覚えられる。"
+  ],
+  "formation": [
+    {
+      "term": "manufacturers",
+      "description": "複数形。製造業者が複数であることを表す。"
+    },
+    {
+      "term": "manufacture",
+      "description": "他動詞「製造する」、名詞「製造」。製造する主体を表す manufacturer と区別する。"
+    },
+    {
+      "term": "manufacturing",
+      "description": "名詞「製造業・製造活動」。manufacturing company は製造会社で、manufacturer と指す対象が重なる。"
+    },
+    {
+      "term": "original equipment manufacturer",
+      "description": "OEM と略す製造業の表現。完成品や、それに組み込まれる部品の元の製造主体を指し、業界によって用いる範囲が異なる。"
+    }
+  ],
+  "core": [],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算】製造業者・製造会社・メーカー",
+      "frequency": 8,
+      "register": [
+        "一般、ビジネス、製造、商品説明、取扱説明書。"
+      ],
+      "definition": "商品・部品・材料などを製造する人や会社などの主体。事業として工業製品を作る会社を指すことが多く、通常はまとまった規模の製造を連想する。製造業を営む人にも使い、経済記事では製造主体として国全体を指すこともある。製品そのものや、単に売るだけの店を意味する語ではない。",
+      "patterns": [
+        "a manufacturer of 〈製品〉＝その製品の製造業者",
+        "a car manufacturer＝自動車メーカー",
+        "an automobile manufacturer＝自動車メーカー",
+        "a leading manufacturer＝大手の製造業者",
+        "the manufacturer's instructions＝そのメーカーの指示",
+        "buy something directly from the manufacturer＝その品をメーカーから直接買う",
+        "the manufacturer's warranty＝そのメーカーの保証",
+        "manufacturers of 〈製品〉＝その製品を作る複数の業者。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a manufacturer of 〈製品〉",
+          "use": "of の後ろに何を製造するかを示す。",
+          "example": "The company is a manufacturer of laboratory equipment.",
+          "translation": "その会社は実験室用機器の製造業者だ。"
+        },
+        {
+          "pattern": "a car manufacturer",
+          "use": "製品を表す名詞を前に置いて製造業者の種類を示す。",
+          "example": "A car manufacturer has opened a new factory near the port.",
+          "translation": "ある自動車メーカーが港の近くに新しい工場を開設した。"
+        },
+        {
+          "pattern": "an automobile manufacturer",
+          "use": "automobile を使う場合の冠詞と名詞の組を示す。",
+          "example": "She works as a designer for an automobile manufacturer.",
+          "translation": "彼女は自動車メーカーでデザイナーとして働いている。"
+        },
+        {
+          "pattern": "a leading manufacturer",
+          "use": "業界の主要な製造企業であることを示す。",
+          "example": "The firm is a leading manufacturer of industrial pumps.",
+          "translation": "その会社は産業用ポンプの大手メーカーだ。"
+        },
+        {
+          "pattern": "the manufacturer's instructions",
+          "use": "使用・設置・保守に関する製造元の指示を指す。",
+          "example": "Read the manufacturer's instructions before installing the heater.",
+          "translation": "ヒーターを設置する前に、メーカーの指示を読んでください。"
+        },
+        {
+          "pattern": "buy something directly from the manufacturer",
+          "use": "購入先が製造元であることを示す。",
+          "example": "We bought the replacement parts directly from the manufacturer.",
+          "translation": "私たちは交換部品をメーカーから直接購入した。"
+        },
+        {
+          "pattern": "the manufacturer's warranty",
+          "use": "販売店などの保証と区別して、製造元が提供する保証を指す。",
+          "example": "Check whether the manufacturer's warranty covers the repair.",
+          "translation": "その修理がメーカーの保証の対象になるか確認してください。"
+        },
+        {
+          "pattern": "manufacturers of 〈製品〉",
+          "use": "同種の製品を作る複数の業者をまとめて述べる。",
+          "example": "Several manufacturers of office furniture submitted proposals.",
+          "translation": "複数のオフィス家具メーカーが提案書を提出した。"
+        }
+      ],
+      "notes": [
+        "単数は a manufacturer、the manufacturer などとし、複数は manufacturers。製造する物には of を使う。a manufacturer of medical devices と a medical device manufacturer はどちらも「医療機器メーカー」で、後者では修飾する名詞 device は通常単数形になる。manufacturer's は単数の所有格、manufacturers' は複数の所有格で、the manufacturer's instructions は通常ひとつの製造元の指示を表す。日本語の「メーカー」はここでは自然な訳だが、英語の maker は対象範囲がさらに広い。supplier は供給元、retailer は小売業者であり、自分で製造しない場合もある。同じ会社が複数の役割を兼ねることもあるため、これらを互いに排他的な会社の種類と考えない。manufacturer は会社の工場施設を指す factory とも異なり、ひとつのメーカーが複数の工場を持つことがある。保証例は語法を示すもので、保証範囲を一律に決めるものではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "maker",
+          "definition": "物を作る人・会社。",
+          "frequency": 8,
+          "difference": "car maker などでは manufacturer とほぼ同義。手工芸品を作る個人や、物以外を生み出す主体にも使え、工業的な製造という限定が弱い。",
+          "example": "The shop sells guitars from a local maker.",
+          "translation": "その店は地元の製作者が作ったギターを売っている。"
+        },
+        {
+          "word": "producer",
+          "definition": "商品・原材料などを生産する主体。",
+          "frequency": 8,
+          "difference": "工業製品だけでなく農産物・石油・電力などの生産者にも使う。manufacturer は加工して製品を製造する主体に重点がある。",
+          "example": "The cooperative is a major producer of olive oil.",
+          "translation": "その協同組合はオリーブ油の主要な生産者だ。"
+        },
+        {
+          "word": "fabricator",
+          "definition": "材料を加工したり部材を組み合わせたりして製品を作る業者。",
+          "frequency": 4,
+          "difference": "金属部材などの加工・製作という工程に焦点がある。manufacturer は特定の加工法を指定しない。ここでは製造業の意味で、話のでっち上げをする人という別義は含めない。",
+          "example": "A local steel fabricator supplied the staircase.",
+          "translation": "地元の鉄鋼加工業者がその階段を納入した。"
+        },
+        {
+          "word": "builder",
+          "definition": "建物・船・車両などを建造・製作する人や会社。",
+          "frequency": 7,
+          "difference": "shipbuilder や aircraft builder のように、大きな構造物や機体を作る主体について重なる。一般には建築業者を指すことも多く、あらゆる商品の manufacturer の代わりにはならない。",
+          "example": "The boat builder specializes in wooden fishing boats.",
+          "translation": "その造船業者は木造の漁船を専門としている。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

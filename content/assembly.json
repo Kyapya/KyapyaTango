@@ -1,0 +1,664 @@
+{
+  "word": "assembly",
+  "slug": "assembly",
+  "ipa": "米・英: /əˈsem.bli/。3音節で、第2音節に主強勢がある。第1音節は弱い /ə/、第2音節は /e/、第3音節は /i/。複数形 assemblies は /əˈsem.bliz/ で、語尾は /z/ となり音節は増えない。assemble /əˈsem.bəl/ と異なり、最後は /bli/ になる。",
+  "lead": "部品をつなぎ合わせ、機械・家具・構造などを作る工程。製造全体の一段階であることが多いが、家庭での家具の組立などにも使う。部品自体を作ることとは区別する。",
+  "updated": "2026-10-11",
+  "notion_url": "https://app.notion.com/p/assembly-3f64faa9b77d81eaa678ca27780849d4",
+  "pronunciation": [],
+  "etymology": [
+    "中英語から、フランス語の assemblee「集まったもの・集会」の系統にさかのぼる。これは assembler「集める」に関連する名詞で、その先にはラテン語 simul「一緒に」がある。同じ系統の assemble「集める・組み立てる」、ensemble「合奏団・まとまり」、simultaneous「同時の」と関連づけられる。現代の assembly の語尾を副詞の -ly と解釈しない。"
+  ],
+  "formation": [
+    {
+      "term": "assemblies",
+      "description": "可算用法の複数形。y を i に変えて -es を付ける。"
+    },
+    {
+      "term": "assemble",
+      "description": "集める・集まる・組み立てる動詞。"
+    },
+    {
+      "term": "assembler",
+      "description": "組立工、またはアセンブリ言語を変換するプログラム。"
+    },
+    {
+      "term": "reassembly",
+      "description": "再組立・再集合を表す名詞。"
+    },
+    {
+      "term": "disassembly",
+      "description": "分解、または情報処理での逆アセンブル。"
+    },
+    {
+      "term": "subassembly",
+      "description": "より大きな製品に組み込む部分組立品。可算名詞。"
+    },
+    {
+      "term": "assembly line",
+      "description": "作業を段階ごとに進める組立ライン。"
+    },
+    {
+      "term": "self-assembly",
+      "description": "自分で組み立てること、または分子などの自己組織的な組立。"
+    },
+    {
+      "term": "assemblyman",
+      "description": "Assembly と呼ばれる議会の男性議員。米国の州議会などで使う。性別を限定しない assembly member も使える。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "核は「要素が集まり、ひとまとまりになること、またはそのまとまり」。部品・人・プログラム上の要素が何を構成するかを区別する。集合を促す合図や、アセンブルに使う言語にも関連して広がる。"
+    },
+    {
+      "type": "item",
+      "text": "部品が集まって製品になる工程 → 「組立・組立作業」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "部品が集まってできたユニット → 「組立品・ユニット」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "人が集まる行為や会合 → 「集会・集合」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "人が集まってできた集団 → 「集まった人々・会衆」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "人が集まって構成する議決機関 → 「議会・総会」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "記号的命令を機械向けにまとめる処理 → 「アセンブル処理」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "命令をまとめて記述する低水準言語 → 「アセンブリ言語・アセンブリ言語の」（語義7）"
+    },
+    {
+      "type": "item",
+      "text": "コードと資源をまとめた配布単位 → 「.NETのアセンブリ」（語義8）"
+    },
+    {
+      "type": "item",
+      "text": "人が集まるように促す合図 → 「集合の合図・集合ラッパ」（語義9）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・不可算】組立・組立作業",
+      "frequency": 8,
+      "register": [
+        "一般・製造・製品説明"
+      ],
+      "definition": "部品をつなぎ合わせ、機械・家具・構造などを作る工程。製造全体の一段階であることが多いが、家庭での家具の組立などにも使う。部品自体を作ることとは区別する。",
+      "patterns": [
+        "the assembly of 〈製品〉＝その製品の組立",
+        "for assembly＝組立用に・組立のために",
+        "require assembly＝組立を必要とする",
+        "assembly instructions＝組立説明書",
+        "an assembly line＝組立ライン",
+        "final assembly＝最終組立"
+      ],
+      "collocations": [
+        {
+          "pattern": "the assembly of 〈製品〉",
+          "use": "何を組み立てる工程かを示す。",
+          "example": "The assembly of each bicycle takes about an hour.",
+          "translation": "自転車1台の組立には約1時間かかる。"
+        },
+        {
+          "pattern": "for assembly",
+          "use": "部品の用途や次の工程を示す。",
+          "example": "The components are shipped to another factory for assembly.",
+          "translation": "その部品は、組立のために別の工場へ出荷される。"
+        },
+        {
+          "pattern": "require assembly",
+          "use": "購入後などに組立が必要であると述べる。",
+          "example": "The desk requires assembly.",
+          "translation": "その机は組立が必要である。"
+        },
+        {
+          "pattern": "assembly instructions",
+          "use": "組立方法を説明する文書を指す。",
+          "example": "Read the assembly instructions before opening the bags of screws.",
+          "translation": "ねじの袋を開ける前に、組立説明書を読んでください。"
+        },
+        {
+          "pattern": "an assembly line",
+          "use": "組立工程が順に並ぶ設備・作業ラインを示す。",
+          "example": "The plant added a second assembly line.",
+          "translation": "その工場は、2本目の組立ラインを増設した。"
+        },
+        {
+          "pattern": "final assembly",
+          "use": "完成前の最終的な組付けを述べる。",
+          "example": "The units undergo final assembly at this site.",
+          "translation": "ユニットの最終組立は、この拠点で行われる。"
+        }
+      ],
+      "notes": [
+        "工程の意味では通常不可算で、Assembly is included in the price.「組立は価格に含まれる」とする。an assembly は通常、語義2の組立品か、人の集会などを指す。assembly line、assembly instructions の assembly は名詞を前から修飾する用法で、動詞ではない。some assembly required は製品表示で「組立作業が必要」の意味。assembly 自体は、組立が完了したことを常に表すわけではなく、during assembly なら進行中の工程である。"
+      ],
+      "synonyms": [
+        {
+          "word": "construction",
+          "definition": "構造物・製品などを作り上げること。",
+          "frequency": 8,
+          "difference": "assembly は部品の接合に焦点がある。construction は製作・建設全体にも使える。",
+          "example": "Construction of the platform took two weeks.",
+          "translation": "その台の製作には2週間かかった。"
+        },
+        {
+          "word": "fabrication",
+          "definition": "材料を加工して製品や部品を作ること。",
+          "frequency": 6,
+          "difference": "assembly は部品を組み合わせる工程。fabrication は切断・成形なども含め、材料から作る工程に焦点を置く。",
+          "example": "The company specializes in metal fabrication.",
+          "translation": "その会社は金属加工を専門としている。"
+        },
+        {
+          "word": "manufacturing",
+          "definition": "原材料・部品などから製品を製造する活動。",
+          "frequency": 8,
+          "difference": "assembly より広く、部品の製作や加工を含み得る。",
+          "example": "Manufacturing and distribution are handled by separate teams.",
+          "translation": "製造と流通は別々のチームが担当している。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "disassembly",
+          "definition": "組み合わされた物を部品に分けること。",
+          "frequency": 5,
+          "difference": "assembly と、部品をまとめる・分けるという工程の方向が反対。",
+          "example": "Disassembly is necessary before cleaning the internal parts.",
+          "translation": "内部の部品を清掃する前に、分解が必要である。"
+        },
+        {
+          "word": "dismantling",
+          "definition": "設備・構造などを取り外し、ばらすこと。",
+          "frequency": 6,
+          "difference": "assembly に対する逆方向の作業。dismantling は機器だけでなく大きな構造物にも使う。",
+          "example": "Dismantling the old equipment will take two days.",
+          "translation": "古い設備を解体するには2日かかる。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算】組立品・ユニット",
+      "frequency": 6,
+      "register": [
+        "機械・工学・部品調達"
+      ],
+      "definition": "複数の部品が組み合わさって1つの機能や構造を成すまとまり。エンジン・車輪・弁などのユニットを指し、より大きな機械の一部にもなる。工学文書では、組み合わせる部品一式を組付け前から指すこともある。",
+      "patterns": [
+        "an engine assembly＝エンジンの組立品",
+        "a valve assembly＝弁のユニット",
+        "replace the entire assembly＝ユニット全体を交換する",
+        "an assembly of 〈部品〉＝その部品からなる組立品"
+      ],
+      "collocations": [
+        {
+          "pattern": "an engine assembly",
+          "use": "エンジンを部品のまとまりとして扱う。",
+          "example": "The crane lowered the engine assembly into the frame.",
+          "translation": "クレーンがエンジンの組立品をフレーム内へ降ろした。"
+        },
+        {
+          "pattern": "a valve assembly",
+          "use": "機能単位としての部品群を示す。",
+          "example": "Two valve assemblies need replacement.",
+          "translation": "弁のユニット2個を交換する必要がある。"
+        },
+        {
+          "pattern": "replace the entire assembly",
+          "use": "個々の部品ではなく全体を交換する。",
+          "example": "It is cheaper to replace the entire assembly.",
+          "translation": "ユニット全体を交換する方が安く済む。"
+        },
+        {
+          "pattern": "an assembly of 〈部品〉",
+          "use": "ユニットの構成部品を説明する。",
+          "example": "The mechanism is an assembly of gears and shafts.",
+          "translation": "その機構は、歯車と軸を組み合わせたものである。"
+        }
+      ],
+      "notes": [
+        "こちらは an assembly、two assemblies と数えられる。assembly of the engine が「エンジンを組み立てる工程」を指すのに対し、an engine assembly は「部品のまとまりとしてのエンジン」。同じ of を使っても、an assembly of gears のように何からできているかを示す可算用法がある。unit と同様、完成機械の全体であることは必要なく、交換できる一部分も指す。"
+      ],
+      "synonyms": [
+        {
+          "word": "unit",
+          "definition": "機能上1つとして扱う装置や部分。",
+          "frequency": 8,
+          "difference": "assembly は複数部品を組み合わせた構造に焦点がある。unit は機能・管理上の1まとまりを広く指す。",
+          "example": "The cooling unit can be removed separately.",
+          "translation": "冷却ユニットは単独で取り外せる。"
+        },
+        {
+          "word": "module",
+          "definition": "大きなシステムに組み込む独立した機能単位。",
+          "frequency": 7,
+          "difference": "assembly は物理的な部品構成に焦点がある。module は交換・組合せができる機能上のまとまりを強調する。",
+          "example": "The control module is mounted behind the panel.",
+          "translation": "制御モジュールはパネルの裏に取り付けられている。"
+        },
+        {
+          "word": "subassembly",
+          "definition": "より大きな組立品に組み込む部分組立品。",
+          "frequency": 4,
+          "difference": "assembly の一種であり、全体に対する下位のまとまりであることを明示する。",
+          "example": "Each subassembly is tested before installation.",
+          "translation": "各部分組立品は、取付け前に試験される。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算、集合という活動は不可算】集会・集合",
+      "frequency": 7,
+      "register": [
+        "一般・学校・社会活動"
+      ],
+      "definition": "人々が目的をもって集まる会合、または集まる行為・状態。学校の全体集会・朝礼、社会的な集会などに使う。学校集会は個々の開催を数える場合と、学校の日課として不可算で捉える場合がある。",
+      "patterns": [
+        "hold an assembly＝集会を開く",
+        "attend assembly＝学校の集会に出席する",
+        "at an assembly＝ある集会で",
+        "freedom of assembly＝集会の自由",
+        "the right of assembly＝集会を行う権利"
+      ],
+      "collocations": [
+        {
+          "pattern": "hold an assembly",
+          "use": "開催される会合として数える。",
+          "example": "The school held an assembly to welcome the new students.",
+          "translation": "その学校は、新入生を歓迎するために集会を開いた。"
+        },
+        {
+          "pattern": "attend assembly",
+          "use": "学校の日課として冠詞なしで述べる。",
+          "example": "All pupils are expected to attend assembly.",
+          "translation": "児童・生徒は全員、集会に出席することが求められている。"
+        },
+        {
+          "pattern": "at an assembly",
+          "use": "特定の集会の場面を示す。",
+          "example": "The head teacher announced the result at an assembly.",
+          "translation": "校長は集会で結果を発表した。"
+        },
+        {
+          "pattern": "freedom of assembly",
+          "use": "集まる活動の自由を表す定着表現。",
+          "example": "The article discusses freedom of assembly.",
+          "translation": "その記事は集会の自由を論じている。"
+        },
+        {
+          "pattern": "the right of assembly",
+          "use": "権利の対象としての集合を表す。",
+          "example": "The court considered a restriction on the right of assembly.",
+          "translation": "裁判所は、集会の権利に対する制限を検討した。"
+        }
+      ],
+      "notes": [
+        "a school assembly、school assemblies は開催ごとに数える形で、go to assembly、in assembly は学校の日課としての用法。freedom of assembly の assembly は人々が集まる活動を表し、特定の会合1回ではない。unlawful assembly「違法な集会」という法律用語の成立要件は法域によって異なり、人数や目的の条件をこの語だけから決めない。式典・会合の意味で assemble という動詞と混同し、We will assembly. とはしない。We will assemble. が正しい。"
+      ],
+      "synonyms": [
+        {
+          "word": "meeting",
+          "definition": "人々が集まって話合いなどを行う会合。",
+          "frequency": 10,
+          "difference": "assembly より一般的で、少人数の業務打合せにも使う。",
+          "example": "The meeting will begin at ten.",
+          "translation": "会議は10時に始まる。"
+        },
+        {
+          "word": "gathering",
+          "definition": "人々が集まる会や集まり。",
+          "frequency": 8,
+          "difference": "assembly より柔らかく、私的・社交的な集まりにも広く使う。",
+          "example": "We organized a small gathering for the volunteers.",
+          "translation": "私たちは、ボランティアのために小さな集まりを開いた。"
+        },
+        {
+          "word": "convention",
+          "definition": "特定の団体・職業・関心などを共有する人々の大会。",
+          "frequency": 7,
+          "difference": "assembly は学校集会や一般の集合にも使う。convention は大きな組織的大会を指しやすい。",
+          "example": "The annual convention attracts engineers from around the world.",
+          "translation": "その年次大会には、世界中から技術者が集まる。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・可算】集まった人々・会衆",
+      "frequency": 5,
+      "register": [
+        "形式的・式典・報道"
+      ],
+      "definition": "会合・儀式などに集まっている人々をひとまとまりの集団としていう。開催という出来事ではなく、その場にいる人々に焦点を置く。特定の議会組織とは限らない。",
+      "patterns": [
+        "an assembly of 〈人々〉＝その人々の集団",
+        "address the assembly＝集まった人々に話しかける・演説する",
+        "the whole assembly＝集まった人々全体"
+      ],
+      "collocations": [
+        {
+          "pattern": "an assembly of 〈人々〉",
+          "use": "集団の構成員を示す。",
+          "example": "An assembly of local leaders welcomed the visitors.",
+          "translation": "集まった地元の指導者たちが訪問者を歓迎した。"
+        },
+        {
+          "pattern": "address the assembly",
+          "use": "会衆を話しかける相手として示す。",
+          "example": "She rose to address the assembly.",
+          "translation": "彼女は、集まった人々に話すために立ち上がった。"
+        },
+        {
+          "pattern": "the whole assembly",
+          "use": "集まった人全体の反応を述べる。",
+          "example": "The whole assembly applauded the speaker.",
+          "translation": "集まった人々全員が講演者に拍手を送った。"
+        }
+      ],
+      "notes": [
+        "The assembly lasted an hour. は語義3の会合という出来事、The assembly applauded. はこの語義の人々を指す。集合名詞として全体を1つと見れば単数扱いが基本。英国英語では構成員に焦点を当てて複数扱いにすることもあるが、「複数の人を含むから常に複数形の動詞」とはしない。"
+      ],
+      "synonyms": [
+        {
+          "word": "audience",
+          "definition": "講演・公演などを見聞きする人々。",
+          "frequency": 8,
+          "difference": "assembly は集まった目的を広く取る。audience は見聞きする側の集団を表す。",
+          "example": "The audience listened in silence.",
+          "translation": "聴衆は静かに耳を傾けた。"
+        },
+        {
+          "word": "congregation",
+          "definition": "特に礼拝に集まる人々。",
+          "frequency": 6,
+          "difference": "assembly は宗教に限らない。congregation は教会などの会衆を表すことが多い。",
+          "example": "The congregation joined in the hymn.",
+          "translation": "会衆は賛美歌の斉唱に加わった。"
+        },
+        {
+          "word": "assemblage",
+          "definition": "集まった人や物のまとまり。",
+          "frequency": 4,
+          "difference": "assembly と近い形式的な語だが、assemblage は物の集合にも使える。",
+          "example": "A varied assemblage of guests filled the hall.",
+          "translation": "さまざまな客が集まり、会場を埋め尽くしていた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞・可算】議会・総会",
+      "frequency": 7,
+      "register": [
+        "政治・行政・組織運営"
+      ],
+      "definition": "法や方針を審議・決定するために設けられた代表者などの組織。国・地域の議会や団体の総会を指す。米国の一部の州では Assembly が州議会の一方の院、特に下院の名称になる。",
+      "patterns": [
+        "a legislative assembly＝立法議会",
+        "an elected assembly＝選挙で選ばれた議会",
+        "a member of the assembly＝その議会・総会の構成員",
+        "the General Assembly＝名称としての総会",
+        "the assembly + pass 〈議案〉＝議会が議案を可決する"
+      ],
+      "collocations": [
+        {
+          "pattern": "a legislative assembly",
+          "use": "立法を担う組織を示す。",
+          "example": "The legislative assembly debated the proposal.",
+          "translation": "立法議会は、その提案を審議した。"
+        },
+        {
+          "pattern": "an elected assembly",
+          "use": "構成員の選ばれ方を示す。",
+          "example": "The constitution provides for an elected assembly.",
+          "translation": "その憲法は、選挙で選ばれる議会を設けると定めている。"
+        },
+        {
+          "pattern": "a member of the assembly",
+          "use": "組織の構成員を表す。",
+          "example": "Every member of the assembly received a copy of the report.",
+          "translation": "その議会のすべての議員に、報告書が1部ずつ配られた。"
+        },
+        {
+          "pattern": "the General Assembly",
+          "use": "固有の機関名として使う。",
+          "example": "The United Nations General Assembly meets in New York.",
+          "translation": "国連総会はニューヨークで開かれる。"
+        },
+        {
+          "pattern": "the assembly + pass 〈議案〉",
+          "use": "議会を意思決定主体として述べる。",
+          "example": "The assembly passed the bill after a lengthy debate.",
+          "translation": "議会は長い審議の末、その法案を可決した。"
+        }
+      ],
+      "notes": [
+        "一般名詞では an assembly、regional assemblies と小文字にする。the United Nations General Assembly、the New York State Assembly のような正式名称では大文字を使う。assembly が常に「国会」や「下院」を意味するわけではなく、国・地域・組織の制度と正式名称に合わせて訳す。語義3の単発の会合と違い、議会という継続的な組織を指せる。"
+      ],
+      "synonyms": [
+        {
+          "word": "legislature",
+          "definition": "法律を制定する議会・立法機関。",
+          "frequency": 7,
+          "difference": "assembly は団体の総会も指せる。legislature は立法機能を明示し、二院全体を表すこともある。",
+          "example": "The legislature approved the budget.",
+          "translation": "議会は予算を承認した。"
+        },
+        {
+          "word": "council",
+          "definition": "自治体や団体の審議・運営を担う評議会。",
+          "frequency": 8,
+          "difference": "assembly より規模が小さい評議機関にも使う。正式名称によって指す組織が決まる。",
+          "example": "The city council discussed the transport plan.",
+          "translation": "市議会は交通計画を話し合った。"
+        },
+        {
+          "word": "parliament",
+          "definition": "国などの立法を担う議会。",
+          "frequency": 8,
+          "difference": "assembly より国家の議会制度を指すことが多いが、名称は国による。assembly をすべて parliament と言い換えられるわけではない。",
+          "example": "Parliament will debate the bill next week.",
+          "translation": "議会は来週、その法案を審議する。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【名詞・不可算】アセンブル処理",
+      "frequency": 3,
+      "register": [
+        "情報処理・プログラミング"
+      ],
+      "definition": "アセンブリ言語のソースコードを、アセンブラーによって機械語側のコードへ変換する処理。一般の部品組立ではなく、情報処理の専門的な工程を指す。",
+      "patterns": [
+        "the assembly of 〈ソースコード〉＝そのソースコードのアセンブル",
+        "during assembly＝アセンブル中に",
+        "assembly and linking＝アセンブルとリンク"
+      ],
+      "collocations": [
+        {
+          "pattern": "the assembly of 〈ソースコード〉",
+          "use": "変換工程の対象を示す。",
+          "example": "The assembly of the source code produced an object file.",
+          "translation": "そのソースコードのアセンブルによって、オブジェクトファイルが生成された。"
+        },
+        {
+          "pattern": "during assembly",
+          "use": "変換中に起きたことを述べる。",
+          "example": "The undefined symbol was detected during assembly.",
+          "translation": "その未定義のシンボルは、アセンブル中に検出された。"
+        },
+        {
+          "pattern": "assembly and linking",
+          "use": "別々の工程を並べて表す。",
+          "example": "The build script performs assembly and linking separately.",
+          "translation": "そのビルドスクリプトは、アセンブルとリンクを別々に行う。"
+        }
+      ],
+      "notes": [
+        "assembly はこの語義では工程名なので、an assembly「.NETのアセンブリ」という語義8とは違う。assembly language は変換の入力側の言語、assembler は変換するプログラム。assembly が終わっても、リンクや実行まで終わったとは限らない。"
+      ],
+      "synonyms": [
+        {
+          "word": "translation",
+          "definition": "プログラムを別の言語・表現へ変換する処理。",
+          "frequency": 5,
+          "difference": "assembly はアセンブリ言語を入力とする特定の翻訳工程で、translation の方が広い。",
+          "example": "Translation of the source program is part of the build process.",
+          "translation": "ソースプログラムの翻訳は、ビルド工程の一部である。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "disassembly",
+          "definition": "機械語側のコードをアセンブリ言語の表現に戻すこと。",
+          "frequency": 3,
+          "difference": "コード変換の方向が反対で、元のソース全体の完全復元を意味しない。",
+          "example": "Disassembly revealed the sequence of machine instructions.",
+          "translation": "逆アセンブルによって、機械命令の並びが明らかになった。"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "【名詞・不可算、名詞前の形容詞的用法もある】アセンブリ言語・アセンブリ言語の",
+      "frequency": 4,
+      "register": [
+        "情報処理・プログラミング"
+      ],
+      "definition": "プロセッサーの命令などを記号で表す低水準言語を、assembly language の短い形でいう。assembly code など、名詞の前でその言語に関することを示す用法もある。",
+      "patterns": [
+        "write 〈コード〉 in assembly＝コードをアセンブリ言語で書く",
+        "assembly code＝アセンブリ言語のコード",
+        "inline assembly＝他の言語のコード内に埋め込むアセンブリ言語"
+      ],
+      "collocations": [
+        {
+          "pattern": "write 〈コード〉 in assembly",
+          "use": "言語を in で示す名詞用法。",
+          "example": "The developer wrote the startup routine in assembly.",
+          "translation": "その開発者は、起動ルーチンをアセンブリ言語で書いた。"
+        },
+        {
+          "pattern": "assembly code",
+          "use": "名詞の前で言語を特定する。",
+          "example": "The compiler generated assembly code for inspection.",
+          "translation": "そのコンパイラーは、確認用にアセンブリ言語のコードを生成した。"
+        },
+        {
+          "pattern": "inline assembly",
+          "use": "他の言語のソース内への埋込みを表す。",
+          "example": "This C function contains a short block of inline assembly.",
+          "translation": "このC言語の関数には、短いインラインアセンブリのブロックが含まれている。"
+        }
+      ],
+      "notes": [
+        "in assembly の assembly は言語名としての名詞。assembly code、assembly language の前置修飾は辞書により名詞修飾または形容詞と整理されるが、通常 very assembly のように程度を付けたり、The language is assembly. を一般的な形容詞の叙述構文として扱ったりしない。機械語そのものとは違い、人が命令を読み書きしやすい記号を使う。命令体系は対象のプロセッサーなどに依存する。"
+      ],
+      "synonyms": [
+        {
+          "word": "assembly language",
+          "definition": "機械命令に近い低水準の記号的なプログラミング言語。",
+          "frequency": 5,
+          "difference": "assembly の短い呼び方に対する正式な複合語。一般の組立や.NETの用語との混同を避けられる。",
+          "example": "The course introduces assembly language for a simple processor.",
+          "translation": "その講座では、簡単なプロセッサーのアセンブリ言語を紹介する。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【名詞・可算】.NETのアセンブリ",
+      "frequency": 3,
+      "register": [
+        "ソフトウェア開発・.NET"
+      ],
+      "definition": ".NETで、型やコード・リソースなどを論理的な機能の単位としてまとめたもの。配布・バージョン管理などの基本単位となる。アセンブリ言語で書かれているという意味ではない。",
+      "patterns": [
+        "a .NET assembly＝.NETのアセンブリ",
+        "load an assembly＝アセンブリを読み込む",
+        "reference an assembly＝アセンブリを参照する"
+      ],
+      "collocations": [
+        {
+          "pattern": "a .NET assembly",
+          "use": "特定の実行基盤の用語であると明示する。",
+          "example": "The library is distributed as a .NET assembly.",
+          "translation": "そのライブラリは、.NETのアセンブリとして配布される。"
+        },
+        {
+          "pattern": "load an assembly",
+          "use": "実行時などに機能単位を読み込む。",
+          "example": "The application loads the assembly when the feature is needed.",
+          "translation": "そのアプリケーションは、その機能が必要になるとアセンブリを読み込む。"
+        },
+        {
+          "pattern": "reference an assembly",
+          "use": "別の機能単位を利用する参照関係を示す。",
+          "example": "The project references an assembly that contains the shared types.",
+          "translation": "そのプロジェクトは、共通の型が含まれるアセンブリを参照している。"
+        }
+      ],
+      "notes": [
+        "a .NET assembly、several assemblies と数える。ファイルとして配布される場合は .dll や .exe の形があるが、拡張子だけでどのファイルも.NETアセンブリと判断するわけではない。assembly language は言語、assembly「アセンブル処理」は工程、この語義の assembly はコード・資源をまとめた単位である。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 9,
+      "title": "【名詞・不可算的に用いる】集合の合図・集合ラッパ",
+      "frequency": 2,
+      "register": [
+        "軍事・儀礼・歴史的描写"
+      ],
+      "definition": "兵士などに集合を知らせるラッパ・太鼓などの合図。集まる行為そのものから、集合を促す決まった信号へ広がった用法。",
+      "patterns": [
+        "sound assembly＝集合の合図を鳴らす",
+        "blow assembly＝ラッパで集合を知らせる"
+      ],
+      "collocations": [
+        {
+          "pattern": "sound assembly",
+          "use": "合図の演奏を述べる。",
+          "example": "The bugler sounded assembly at dawn.",
+          "translation": "ラッパ手は夜明けに集合の合図を鳴らした。"
+        },
+        {
+          "pattern": "blow assembly",
+          "use": "ラッパによる集合信号を表す。",
+          "example": "A soldier blew assembly outside the barracks.",
+          "translation": "1人の兵士が、兵舎の外で集合ラッパを吹いた。"
+        }
+      ],
+      "notes": [
+        "sound assembly の assembly は集合を命じる信号。assembly area「集合区域」は人々が集まる場所を表し、音の合図そのものではない。日常の学校集会を「ラッパ」と読む用法ではなく、軍事・儀礼の文脈で判断する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}
