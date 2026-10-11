@@ -59,15 +59,14 @@
       ],
       "definition": "売り手・サービス提供者が、提供した商品や業務、その金額などを明細として示す書類。一般には買い手への支払請求に使い、売買取引の記録にもなる。貿易では発送商品の明細・価格を示す「送り状」と訳される。紙に限らず電子形式も含む。",
       "patterns": [
-        "an invoice for 〈商品・作業・金額〉＝何について",
-        "いくらの請求書か",
+        "an invoice for 〈商品・作業・金額〉＝何について、またはいくらの請求書か",
         "an invoice from 〈売り手〉＝売り手からの請求書",
         "an invoice to 〈買い手〉＝買い手宛ての請求書",
         "issue/send/submit an invoice＝発行・送付・提出する",
         "raise/generate an invoice＝請求書を作成・起票する",
         "pay/settle an invoice＝請求額を支払う",
-        "an outstanding/overdue invoice＝未払い",
-        "支払期限超過の請求書",
+        "an outstanding invoice＝未払いの請求書",
+        "an overdue invoice＝支払期限を過ぎた未払いの請求書",
         "〈金額・項目〉 on an invoice＝請求書に記載された金額・項目。"
       ],
       "collocations": [
@@ -99,7 +98,7 @@
           "pattern": "pay an invoice",
           "use": "書類に記載された請求額を支払う。",
           "example": "The customer paid the invoice within the agreed thirty-day period.",
-          "translation": "顧客は合意した30日間の期間内に請求額を支払った。"
+          "translation": "顧客は合意した30日間の期限内に請求額を支払った。"
         },
         {
           "pattern": "an invoice for 〈金額〉",
