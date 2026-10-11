@@ -1,0 +1,645 @@
+{
+  "word": "schedule",
+  "slug": "schedule",
+  "ipa": "米: /ˈskedʒ.uːl/｜英: /ˈʃedʒ.uːl/",
+  "lead": "何をいつ行うか、どの順序で進めるかを示す計画。個人の予定、勤務計画、工事などの工程表にも使う。通常は可算だが、on schedule などでは冠詞のない形で「予定された進行・時点」を表す。",
+  "updated": "2026-10-11",
+  "notion_url": "https://app.notion.com/p/schedule-3f64faa9b77d81f09fecfcdc974e1059",
+  "pronunciation": [
+    "名詞・動詞とも2音節で、第1音節に主強勢を置く。示した米英形の差は、第1音節の語頭子音 /sk/ と /ʃ/。この表記では両方とも第1音節末が /dʒ/、第2音節が /uːl/。英音には /ˈʃed.juːl/ もあり、その形では第1音節末の /d/ と第2音節初めの /j/ を分けて示す。scheduled の -ed は /d/、schedules の語末は /lz/。scheduling は e を落とす。"
+  ],
+  "etymology": [
+    "中英語・古フランス語の形を経て、ラテン語系の schedula「小さな紙片」にさかのぼる。元来の紙片・補足書面という意味から、項目を記す一覧や、時刻を添えた予定表の意味が発達した。動詞は名詞から作られたもので、予定に入れる意味と、正式な一覧に記載する意味がある。"
+  ],
+  "formation": [
+    {
+      "term": "scheduled",
+      "description": "過去形・過去分詞と形容詞。予定済みの用法は語義4、交通の「定期便の」は語義5。"
+    },
+    {
+      "term": "scheduling",
+      "description": "動詞の現在分詞、または不可算名詞「日程作成、時間割り当て」。scheduling conflicts は予定の衝突。"
+    },
+    {
+      "term": "scheduler",
+      "description": "可算名詞「日程を組む人、処理を予定・割り当てする機能」。コンピューターではタスクなどの実行順・時間を管理する機能を指す。"
+    },
+    {
+      "term": "reschedule",
+      "description": "他動詞「日程を変更する」。後ろへ延ばす場合にも前倒しにも使え、postpone と同義ではない。"
+    },
+    {
+      "term": "unscheduled",
+      "description": "形容詞「予定にない、不定期の」。an unscheduled stop は予定外の立ち寄り・停車。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "「物事を定められた一覧・計画に位置づける」が核。時間を伴う計画が最も一般的だが、法令・契約などの一覧では日時を示さないこともある。"
+    },
+    {
+      "type": "item",
+      "text": "計画に位置づけた活動の全体 → 「予定、日程、工程表」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "計画に活動の時刻を位置づけること → 「予定を組む、日程に入れる」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "計画に位置づけた時刻の一覧 → 「時刻表、時間割、番組表」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "計画に位置づけられた実施の状態 → 「予定された」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "計画に位置づけられた定期運行の状態 → 「定期便の、定期運行の」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "一覧に位置づけた項目の全体 → 「一覧表、明細表、別表」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "一覧に対象を正式に位置づけること → 「一覧に記載する、指定する」（語義7）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算／慣用句では不可算】予定、日程、工程表",
+      "frequency": 9,
+      "register": [
+        "一般、仕事、学習、旅行、工程管理。"
+      ],
+      "definition": "何をいつ行うか、どの順序で進めるかを示す計画。個人の予定、勤務計画、工事などの工程表にも使う。通常は可算だが、on schedule などでは冠詞のない形で「予定された進行・時点」を表す。",
+      "patterns": [
+        "a busy/tight schedule＝忙しい・余裕のない日程",
+        "a schedule for 〈期間・計画〉＝～の予定",
+        "a schedule of 〈行事・活動〉＝～を列挙した日程",
+        "on schedule＝予定どおり",
+        "ahead of schedule＝予定より早く",
+        "behind schedule＝予定より遅れて",
+        "according to schedule＝予定どおりに",
+        "fit something into one’s schedule＝自分の予定に組み込む",
+        "keep to a schedule＝予定を守る"
+      ],
+      "collocations": [
+        {
+          "pattern": "a tight schedule",
+          "use": "時間に余裕のない日程を表す。",
+          "example": "We are working to a tight schedule, so prompt feedback is essential.",
+          "translation": "日程に余裕がないため、迅速なフィードバックが不可欠だ。"
+        },
+        {
+          "pattern": "a schedule for 〈期間〉",
+          "use": "対象期間の予定を示す。",
+          "example": "Could you send me your schedule for next week?",
+          "translation": "来週の予定を送っていただけますか。"
+        },
+        {
+          "pattern": "a schedule of events",
+          "use": "催しと実施日時をまとめた予定表を指す。",
+          "example": "A schedule of events is included in the welcome pack.",
+          "translation": "案内一式には、催しの予定表が入っている。"
+        },
+        {
+          "pattern": "on schedule",
+          "use": "予定された時期・進度に合っていると述べる。",
+          "example": "The renovation is on schedule and should finish in June.",
+          "translation": "改修は予定どおりに進んでおり、6月には終わる見込みだ。"
+        },
+        {
+          "pattern": "ahead of schedule",
+          "use": "計画より早い進行・完了を表す。",
+          "example": "The installation was completed two days ahead of schedule.",
+          "translation": "設置は、予定より2日早く完了した。"
+        },
+        {
+          "pattern": "behind schedule",
+          "use": "計画より遅れていると述べる。",
+          "example": "The project is running three weeks behind schedule.",
+          "translation": "その事業は、予定より3週間遅れて進んでいる。"
+        },
+        {
+          "pattern": "according to schedule",
+          "use": "決めた日程に沿っていることを示す。",
+          "example": "If everything goes according to schedule, testing will begin on Monday.",
+          "translation": "すべて予定どおりに進めば、試験は月曜日に始まる。"
+        },
+        {
+          "pattern": "fit something into one’s schedule",
+          "use": "既存の予定の中に活動を入れる。",
+          "example": "I can fit a short call into my schedule tomorrow morning.",
+          "translation": "明日の午前なら、短い通話を予定に組み込める。"
+        },
+        {
+          "pattern": "keep to a schedule",
+          "use": "決めた日程を守る。",
+          "example": "The crew managed to keep to the schedule despite the rain.",
+          "translation": "雨にもかかわらず、作業員たちは何とか予定を守った。"
+        }
+      ],
+      "notes": [
+        "一般的な日程は a schedule / my schedule / the schedule とする。on schedule、ahead of schedule、behind schedule、according to schedule は冠詞なしの定型形。on the schedule は「予定表に載っている」で、on schedule「予定どおり」と同じではない。The interview is on my schedule. は予定表への記載を述べ、実施が遅れていないことまでは言わない。a tight schedule は時間の余裕が少ないこと、a busy schedule は用事の多さに焦点がある。ahead/behind の前の two days などは予定との差であり、日付そのものではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "timetable",
+          "definition": "活動の実施時刻・期間を示す計画。",
+          "frequency": 7,
+          "difference": "時間配分を明示する響きが強い。schedule は個人の予定の詰まり具合にも広く使う。",
+          "example": "The team agreed on a timetable for completing the work.",
+          "translation": "チームは、仕事を完了するまでの工程表に合意した。"
+        },
+        {
+          "word": "calendar",
+          "definition": "日付に沿って予定をまとめたもの。",
+          "frequency": 8,
+          "difference": "暦上の日付・予定の一覧に焦点がある。schedule は作業の順序や所要時間も含む。",
+          "example": "The conference dates are already on my calendar.",
+          "translation": "学会の日程は、すでに私の予定表に入っている。"
+        },
+        {
+          "word": "plan",
+          "definition": "目標や行動の方法をあらかじめ決めたもの。",
+          "frequency": 9,
+          "difference": "日時の割り当てを含まなくてもよい。schedule は何をいつするかを中心に示す。",
+          "example": "The plan includes a review of the existing equipment.",
+          "translation": "その計画には、既存設備の見直しが含まれている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【動詞・他動詞】予定を組む、日程に入れる",
+      "frequency": 9,
+      "register": [
+        "一般、ビジネス、交通、放送、業務システム。"
+      ],
+      "definition": "会合、作業、人の出演・勤務などについて、実施する日時を決めて予定に入れる。受動態 be scheduled to do / for something が非常によく使われる。予定されていることを表し、その実現を保証する語ではない。",
+      "patterns": [
+        "schedule something＝予定に入れる",
+        "schedule something for 〈日時〉＝～の日時に予定する",
+        "schedule someone/something to do something＝～が実行する予定を組む",
+        "be scheduled to do something＝～する予定である",
+        "be scheduled for 〈日時・行為〉＝～に予定されている",
+        "schedule someone/something in＝予定の中に組み込む",
+        "他動詞＋小辞: schedule in 〈名詞目的語〉＝同じ意味、代名詞は schedule it/them in"
+      ],
+      "collocations": [
+        {
+          "pattern": "schedule a meeting for 〈日時〉",
+          "use": "会議の実施日時を決める。",
+          "example": "We scheduled the meeting for 2 p.m. on Wednesday.",
+          "translation": "私たちは、会議を水曜日の午後2時に設定した。"
+        },
+        {
+          "pattern": "schedule an appointment",
+          "use": "面会・診療などの日時を決める。",
+          "example": "Please call the office to schedule an appointment.",
+          "translation": "予約の日時を決めるには、事務所にお電話ください。"
+        },
+        {
+          "pattern": "schedule someone to do something",
+          "use": "人の担当行動を予定に入れる。",
+          "example": "The organizer scheduled her to speak after the lunch break.",
+          "translation": "主催者は、彼女の講演を昼休みの後に予定した。"
+        },
+        {
+          "pattern": "be scheduled to do something",
+          "use": "人・物の予定された行動を表す。",
+          "example": "The train is scheduled to arrive at 6:40.",
+          "translation": "列車は、6時40分に到着する予定だ。"
+        },
+        {
+          "pattern": "be scheduled for 〈日時〉",
+          "use": "名詞で日時を示す。",
+          "example": "The software update is scheduled for next Tuesday.",
+          "translation": "ソフトウェアの更新は、来週火曜日に予定されている。"
+        },
+        {
+          "pattern": "be scheduled for release",
+          "use": "公開・発売の予定を示す。",
+          "example": "The report is scheduled for release later this month.",
+          "translation": "報告書は、今月中に公開される予定だ。"
+        },
+        {
+          "pattern": "schedule someone in",
+          "use": "人の面談などを既存の日程に組み込む。",
+          "example": "We are busy this week, but I can schedule you in for Friday morning.",
+          "translation": "今週は忙しいのですが、金曜日の午前なら予定に入れられます。"
+        },
+        {
+          "pattern": "schedule in 〈名詞目的語〉",
+          "use": "活動を予定に組み込む。",
+          "example": "Remember to schedule in a short break between the two sessions.",
+          "translation": "二つのセッションの間に短い休憩を組み込むのを忘れないでください。"
+        }
+      ],
+      "notes": [
+        "be scheduled for Friday の for の後は日時などの名詞句、be scheduled to start の to の後は動詞の原形。be scheduled on Friday は「金曜日に予定を組む／組まれる」とも解釈できるので、実施日を明確にするなら for Friday が便利。人には schedule someone to do と言えるが、arrange は通常 arrange for someone to do。schedule in は分離可能で、schedule a break in / schedule in a break、代名詞なら schedule it in とする。scheduled to arrive とだけ書かれていても、定刻到着や到着完了は保証されない。"
+      ],
+      "synonyms": [
+        {
+          "word": "arrange",
+          "definition": "実現に必要な準備・取り決めをする。",
+          "frequency": 9,
+          "difference": "時間設定以外の手配も含む。schedule は日時の割り当てを明確にする。",
+          "example": "The assistant arranged transportation for the visitors.",
+          "translation": "アシスタントは、訪問者の移動手段を手配した。"
+        },
+        {
+          "word": "book",
+          "definition": "部屋・席・サービスなどの利用を予約する。",
+          "frequency": 9,
+          "difference": "利用枠を確保することが中心。schedule は自分の作業など、予約先のない予定にも使う。",
+          "example": "I booked a consultation for next week.",
+          "translation": "私は、来週の相談を予約した。"
+        },
+        {
+          "word": "plan",
+          "definition": "将来の行動を考えて決める。",
+          "frequency": 9,
+          "difference": "具体的な日時を決めずに使える。schedule は時間枠への割り当てが中心。",
+          "example": "We plan to review the policy later this year.",
+          "translation": "私たちは、今年中にその方針を見直す計画だ。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算】時刻表、時間割、番組表",
+      "frequency": 8,
+      "register": [
+        "一般。交通・授業の意味では特に北米英語でよく使い、イギリス英語は timetable が一般的。放送の schedule は米英とも使う。"
+      ],
+      "definition": "交通機関の発着、授業、放送番組などがいつ行われるかを示す一覧。個人の段取り全体より、決められた実施時刻を参照する表に焦点がある。",
+      "patterns": [
+        "a bus/train/flight schedule＝バス・列車・航空便の時刻表",
+        "a class schedule＝授業時間割",
+        "the television schedule＝テレビ番組表",
+        "check the schedule＝時刻表・番組表を確認する",
+        "on the schedule＝一覧に載っている"
+      ],
+      "collocations": [
+        {
+          "pattern": "a bus schedule",
+          "use": "バスの発着時刻を示す表を指す。",
+          "example": "Check the weekend bus schedule before leaving home.",
+          "translation": "家を出る前に、週末のバスの時刻表を確認してください。"
+        },
+        {
+          "pattern": "a flight schedule",
+          "use": "航空便の予定された発着を示す。",
+          "example": "The airline has published its winter flight schedule.",
+          "translation": "航空会社は、冬季の運航時刻表を公表した。"
+        },
+        {
+          "pattern": "a class schedule",
+          "use": "履修科目と授業時間の一覧を指す。",
+          "example": "My class schedule leaves Friday afternoons free.",
+          "translation": "私の授業時間割では、金曜日の午後は空いている。"
+        },
+        {
+          "pattern": "the television schedule",
+          "use": "放送される番組と時刻の一覧を指す。",
+          "example": "The documentary is missing from tonight’s television schedule.",
+          "translation": "そのドキュメンタリーは、今夜のテレビ番組表に載っていない。"
+        },
+        {
+          "pattern": "on the schedule",
+          "use": "予定表上の時刻・項目を参照する。",
+          "example": "There are only two evening departures on the schedule.",
+          "translation": "時刻表には、夕方以降の出発便が二つしか載っていない。"
+        }
+      ],
+      "notes": [
+        "時刻表という物・一覧は可算で、a schedule / the schedules とする。on the schedule「表に載っている」と語義1の on schedule「定刻・予定どおり」は別。米英差は絶対的な禁止ではなく用語選択の傾向で、イギリス英語でも flight schedules などは見られる。class schedule は単なる受講科目の目録とは違い、通常はいつ授業があるかを示す。"
+      ],
+      "synonyms": [
+        {
+          "word": "timetable",
+          "definition": "交通・授業などの時刻を示す表。",
+          "frequency": 8,
+          "difference": "この意味で schedule と近く、イギリス英語で特に一般的。",
+          "example": "The new train timetable takes effect on Sunday.",
+          "translation": "新しい列車の時刻表は、日曜日から適用される。"
+        },
+        {
+          "word": "listings",
+          "definition": "新聞・ウェブなどの催しや番組の案内欄。",
+          "frequency": 6,
+          "difference": "番組の内容紹介も含みやすく、放送時刻表としての schedule と一部が重なる。通常この意味は複数形。",
+          "example": "The TV listings show a film starting at nine.",
+          "translation": "テレビ番組欄には、9時から映画が始まると出ている。"
+        },
+        {
+          "word": "programme",
+          "definition": "催し・放送などの内容と順序を示す予定。",
+          "frequency": 7,
+          "difference": "内容や順序に重点があり、必ずしも細かい時刻表ではない。米綴りは通常 program。",
+          "example": "The festival programme lists the performances for each day.",
+          "translation": "祭りのプログラムには、日ごとの公演が載っている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【形容詞・scheduled】予定された",
+      "frequency": 7,
+      "register": [
+        "一般、業務、交通、報道。"
+      ],
+      "definition": "特定の日時に行われる予定になっている、あらかじめ日程に入っていることを表す。schedule の過去分詞からの形容詞用法で、時刻、会合、作業などを修飾する。",
+      "patterns": [
+        "a scheduled 〈行事・作業〉＝予定された～",
+        "the scheduled time/date＝予定の時刻・日付",
+        "as scheduled＝予定されたとおりに",
+        "later/earlier than scheduled＝予定より遅く・早く"
+      ],
+      "collocations": [
+        {
+          "pattern": "the scheduled departure time",
+          "use": "実際の時刻と対比される出発予定時刻を示す。",
+          "example": "The scheduled departure time is 8:15, but boarding has not started.",
+          "translation": "出発予定時刻は8時15分だが、搭乗はまだ始まっていない。"
+        },
+        {
+          "pattern": "scheduled maintenance",
+          "use": "計画的に日程へ入れた保守作業を指す。",
+          "example": "The website will be unavailable during scheduled maintenance.",
+          "translation": "予定された保守作業の間、ウェブサイトは利用できなくなる。"
+        },
+        {
+          "pattern": "a scheduled visit",
+          "use": "前から予定していた訪問を指す。",
+          "example": "The minister’s scheduled visit was cancelled because of the storm.",
+          "translation": "大臣の予定されていた訪問は、嵐のため中止された。"
+        },
+        {
+          "pattern": "as scheduled",
+          "use": "予定されたとおりの実施を述べる。",
+          "example": "The presentation began as scheduled at ten.",
+          "translation": "発表は、予定どおり10時に始まった。"
+        },
+        {
+          "pattern": "later than scheduled",
+          "use": "実際の時刻が予定より遅いことを示す。",
+          "example": "The repairs finished a week later than scheduled.",
+          "translation": "修理は、予定より1週間遅く終わった。"
+        }
+      ],
+      "notes": [
+        "名詞前の限定用法が典型。The meeting is scheduled for Friday. のような形は、予定状態を表す一方で動詞 schedule の受動態とも連続する。very scheduled や通常の比較級ではなく、previously scheduled / regularly scheduled といった時間・頻度の修飾を使う。later than scheduled は scheduled 自体の比較級ではなく、実施時期の比較。as scheduled は「予定どおり」で、予定済みというだけの scheduled と区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "planned",
+          "definition": "あらかじめ意図・計画された。",
+          "frequency": 8,
+          "difference": "日時が具体的に決まっていなくても使える。scheduled は時間上の予定への組み込みを表す。",
+          "example": "The planned expansion will require additional funding.",
+          "translation": "計画中の拡張には、追加資金が必要になる。"
+        },
+        {
+          "word": "prearranged",
+          "definition": "前もって取り決められた。",
+          "frequency": 6,
+          "difference": "事前の合意・手配を強調する。scheduled は予定表上の日時に焦点がある。",
+          "example": "They met at a prearranged location.",
+          "translation": "彼らは、事前に決めた場所で会った。"
+        },
+        {
+          "word": "expected",
+          "definition": "来る・起こると見込まれる。",
+          "frequency": 8,
+          "difference": "予測であって正式な予定とは限らない。scheduled より確約や時間枠の意味が弱い。",
+          "example": "The expected arrival time is just after noon.",
+          "translation": "到着見込み時刻は、正午を少し過ぎた頃だ。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unscheduled",
+          "definition": "予定に入っていない。",
+          "frequency": 6,
+          "difference": "予定済みか予定外かという状態の直接的な対立。中止されたこととは違う。",
+          "example": "The team made an unscheduled stop to inspect the bridge.",
+          "translation": "チームは、橋を点検するため予定外の立ち寄りをした。"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "【形容詞・scheduled】定期便の、定期運行の",
+      "frequency": 5,
+      "register": [
+        "交通、旅行、航空。主に名詞の前。"
+      ],
+      "definition": "交通機関が公表された通常の時刻表に従って、定期的に運行する種類のサービスであることを表す。単に一度の出発日時が決まっているだけでなく、運行形態としての「定期」をいう。",
+      "patterns": [
+        "a scheduled flight＝定期航空便",
+        "a scheduled service＝定期便・定期運行サービス",
+        "scheduled flights between 〈場所〉 and 〈場所〉＝二地点間の定期航空便"
+      ],
+      "collocations": [
+        {
+          "pattern": "a scheduled flight",
+          "use": "臨時・貸切などと区別した定期便を指す。",
+          "example": "The island can be reached by a scheduled flight from the mainland.",
+          "translation": "その島には、本土からの定期便で行ける。"
+        },
+        {
+          "pattern": "a scheduled service",
+          "use": "定期運行される交通サービスを表す。",
+          "example": "The operator provides a scheduled ferry service between the two ports.",
+          "translation": "その運航会社は、二つの港の間に定期フェリー便を運航している。"
+        },
+        {
+          "pattern": "scheduled flights between 〈場所〉 and 〈場所〉",
+          "use": "定期路線の二地点を示す。",
+          "example": "There are daily scheduled flights between the two cities.",
+          "translation": "その2都市間には、毎日定期便がある。"
+        }
+      ],
+      "notes": [
+        "a scheduled flight は「定期便」、a flight scheduled for noon は「正午に予定されている便」。後者は貸切便などにも使える。定期便でも欠航・遅延はあるため、「必ず時刻どおりに飛ぶ便」と訳さない。charter flight「貸切便」は運行形態上の重要な対照表現だが、予定が存在しない便という意味ではない。これは種類の区別なので、very scheduled / more scheduled といった程度比較は通常行わない。"
+      ],
+      "synonyms": [
+        {
+          "word": "regular",
+          "definition": "決まった間隔・通常の時刻で運行する。",
+          "frequency": 6,
+          "difference": "交通の文脈では scheduled と近い。regular は他の分野の反復行動にも広く使う。",
+          "example": "There is a regular bus service to the airport.",
+          "translation": "空港への定期バス便がある。"
+        },
+        {
+          "word": "timetabled",
+          "definition": "時刻表に定められた。",
+          "frequency": 4,
+          "difference": "特にイギリス英語で、所定の時刻表に載ることを明示する。定期的なサービスという読みは対象と文脈による。",
+          "example": "The railway restored its full timetabled service in April.",
+          "translation": "鉄道は、4月に時刻表どおりの全便運行を再開した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【名詞・可算】一覧表、明細表、別表",
+      "frequency": 5,
+      "register": [
+        "ビジネス、会計、契約、保険、法律など。"
+      ],
+      "definition": "料金、財産、条件、対象物などを項目ごとに記載した正式な一覧。契約・法令などに付された別表や明細にも使う。この意味では日時の予定表である必要はない。",
+      "patterns": [
+        "a schedule of 〈料金・資産・条件など〉＝～の一覧・明細",
+        "a schedule to 〈契約・法令〉＝～に付属する別表",
+        "an insurance schedule＝保険契約の対象・条件などを示す明細",
+        "Schedule 〈番号〉＝番号付きの別表・区分"
+      ],
+      "collocations": [
+        {
+          "pattern": "a schedule of fees",
+          "use": "料金を項目別に示した一覧を指す。",
+          "example": "The firm sent us a detailed schedule of fees for the proposed services.",
+          "translation": "その会社は、提案されたサービスの詳しい料金表を送ってきた。"
+        },
+        {
+          "pattern": "a schedule of assets",
+          "use": "資産の明細一覧を指す。",
+          "example": "The accountant prepared a schedule of assets owned by the business.",
+          "translation": "会計士は、その事業が所有する資産の明細表を作成した。"
+        },
+        {
+          "pattern": "a schedule to an agreement",
+          "use": "契約に付属する別表を指す。",
+          "example": "The equipment is listed in a schedule to the agreement.",
+          "translation": "その設備は、契約書の別表に記載されている。"
+        },
+        {
+          "pattern": "an insurance schedule",
+          "use": "保険契約の明細を指す。",
+          "example": "Check that the address is correct on the insurance schedule.",
+          "translation": "保険契約の明細書に記載された住所が正しいことを確認してください。"
+        },
+        {
+          "pattern": "Schedule 〈番号〉",
+          "use": "文書内の番号付き別表を指す。",
+          "example": "The delivery charges are set out in Schedule 2 to the contract.",
+          "translation": "配送料は、契約書の別表2に定められている。"
+        }
+      ],
+      "notes": [
+        "a schedule of fees は通常「料金表」で、料金を支払う日程とは限らない。payment schedule は文脈により支払日程・分割払いの予定をいう。別表の番号を固有の見出しとして指すと Schedule 2 のように大文字にする。米国の規制薬物の Schedule I～V も法的な一覧・区分を指し、投薬時刻表とは別。個々の薬物の分類や規制内容は現行制度で確認する必要がある。保険の schedule の具体的な記載事項や効力は契約によるので、語だけから補償の成立を判断しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "list",
+          "definition": "項目を順に並べて示したもの。",
+          "frequency": 10,
+          "difference": "最も一般的で、正式な文書の一部でなくてもよい。schedule は業務・法的文書の体系的な一覧に使いやすい。",
+          "example": "The list includes all equipment supplied under the agreement.",
+          "translation": "その一覧には、契約に基づいて提供される設備がすべて含まれている。"
+        },
+        {
+          "word": "table",
+          "definition": "情報を行・列に整理した表。",
+          "frequency": 8,
+          "difference": "配置形式を表す。schedule は必ずしも行列形式でなく、別表としての役割に重点がある。",
+          "example": "The table shows the charges for each service.",
+          "translation": "その表は、各サービスの料金を示している。"
+        },
+        {
+          "word": "appendix",
+          "definition": "文書の末尾に付けた補足資料。",
+          "frequency": 6,
+          "difference": "表以外の文章・図なども含む。schedule は項目別の明細・一覧として付くことが多い。",
+          "example": "Technical details are provided in an appendix.",
+          "translation": "技術的な詳細は、付録に記載されている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【動詞・他動詞】一覧に記載する、指定する",
+      "frequency": 3,
+      "register": [
+        "正式文書、法律、保険、文化財保護など。"
+      ],
+      "definition": "対象を正式な一覧・明細に載せる。特に法令上の区分に指定したり、保護・規制の対象一覧に含めたりする用法がある。日時を決める語義2とは異なり、記載・分類が中心。",
+      "patterns": [
+        "schedule something＝対象を一覧に記載する",
+        "schedule something as 〈区分〉＝～として正式に指定する",
+        "be scheduled under 〈法令〉＝～に基づく一覧の対象となる",
+        "be scheduled as a monument＝遺跡・記念物として保護指定される"
+      ],
+      "collocations": [
+        {
+          "pattern": "schedule 〈資産・項目〉",
+          "use": "正式な明細に対象を列挙する。",
+          "example": "The document schedules each asset separately rather than giving only a total value.",
+          "translation": "その文書は、総額だけを示すのではなく、各資産を個別に明細に記載している。"
+        },
+        {
+          "pattern": "schedule something as 〈区分〉",
+          "use": "規制上などの分類に載せる。",
+          "example": "The regulation schedules the substance as a controlled chemical.",
+          "translation": "その規則は、その物質を規制対象の化学物質として指定している。"
+        },
+        {
+          "pattern": "be scheduled as a monument",
+          "use": "遺跡・記念物として保護対象に指定される。",
+          "example": "The ruins were scheduled as a monument after a formal assessment.",
+          "translation": "その遺跡は、正式な評価を経て保護対象の記念物に指定された。"
+        },
+        {
+          "pattern": "be scheduled under 〈法令〉",
+          "use": "正式な指定の根拠を示す。",
+          "example": "The site was scheduled under the relevant heritage legislation.",
+          "translation": "その遺跡は、該当する文化遺産保護法令に基づいて保護対象に指定された。"
+        }
+      ],
+      "notes": [
+        "be scheduled as a controlled substance は規制対象への指定、be scheduled for inspection は検査日時の予定である。scheduled monument はイギリスの文化財保護の語として現れ、見学予定の記念碑という意味ではない。イングランドでは重要な遺跡等を法的保護の対象一覧に加える制度に対応するが、建物の listed status などと手続きまで同一視しない。ここでの scheduled は「指定された」という他動詞の過去分詞で、語義5の「定期便の」とは別。"
+      ],
+      "synonyms": [
+        {
+          "word": "list",
+          "definition": "対象を一覧に載せる。",
+          "frequency": 8,
+          "difference": "一般的な記載にも公的な登録にも使える。schedule は正式な区分・明細への記載を表しやすい。",
+          "example": "The agreement lists all excluded items.",
+          "translation": "契約書は、対象外の品目をすべて列挙している。"
+        },
+        {
+          "word": "register",
+          "definition": "正式な記録・台帳へ登録する。",
+          "frequency": 7,
+          "difference": "台帳への記録を強調する。schedule と制度上の効果が同じだとは限らない。",
+          "example": "The office registered the property in the owner’s name.",
+          "translation": "その事務所は、所有者名義でその不動産を登録した。"
+        },
+        {
+          "word": "designate",
+          "definition": "特定の区分・目的に正式に定める。",
+          "frequency": 6,
+          "difference": "指定そのものを表し、一覧への記載は必須でない。",
+          "example": "The authority designated the area as a conservation zone.",
+          "translation": "当局は、その区域を保全地区に指定した。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

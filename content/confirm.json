@@ -1,0 +1,632 @@
+{
+  "word": "confirm",
+  "slug": "confirm",
+  "ipa": "米: /kənˈfɝːm/｜英: /kənˈfɜːm/",
+  "lead": "情報、主張、推測などが正しいと確かめる、または正しいと伝える。人が確認して述べる場合と、検査結果・資料・出来事が裏付けになる場合がある。以前から何らかの情報や疑いがある場面が多いが、必ず二度目の確認というわけではない。",
+  "updated": "2026-10-11",
+  "notion_url": "https://app.notion.com/p/confirm-3f64faa9b77d818e917bd03cc5055a95",
+  "pronunciation": [
+    "2音節で、第2音節に主強勢を置く。示した米英形の差は第2音節の母音で、米音は r の響きを含む /ɝː/、英音は /ɜː/。第1音節はどちらも /kən/。confirmed の -ed は /d/ で音節を増やさず、confirms の語末は /mz/。"
+  ],
+  "etymology": [
+    "古フランス語 confermer などを経て、ラテン語 confirmare「強固にする」に由来する。con- と firmare「固くする」の結合で、firmare は firmus「固い」に基づく。firm「しっかりした」と affirm「断言する」もこの系列。現在の「確認する」は、単に見直す行為より、真偽・予定・立場などを確かなものにする点につながる。"
+  ],
+  "formation": [
+    {
+      "term": "confirmation",
+      "description": "名詞「確認、裏付け、正式承認、堅信礼など」。行為・裏付けは不可算、個々の確認通知などは可算にもなる。"
+    },
+    {
+      "term": "confirmed",
+      "description": "過去形・過去分詞。「確認済みの」という状態は語義5、「根っからの」という独立した形容詞義は語義6。"
+    },
+    {
+      "term": "unconfirmed",
+      "description": "形容詞「未確認の」。否定された、誤りと判明したという意味ではない。"
+    },
+    {
+      "term": "reconfirm",
+      "description": "他動詞「再確認する」。既にある予約・予定・事実などを改めて確かめる。"
+    },
+    {
+      "term": "confirmatory",
+      "description": "形容詞「確認・裏付けとなる」。confirmatory evidence のように、研究や専門的文章で使う。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "「物事を確かなものとして固める」が核。情報の確かさ、予定の確定、正式な地位、心の確信、習慣の定着などへ広がる。宗教用法では信仰上の立場を確かめる儀式を指し、儀式の内容は伝統ごとに異なる。"
+    },
+    {
+      "type": "item",
+      "text": "確かさを情報や判断に与えること → 「確認する、裏付ける」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "確かさを予定や参加に与えること → 「確定する、確約する」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "確かさを人事や決定に正式に与えること → 「正式に承認する、地位を確定する」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "確かさを心の信念や決意に加えること → 「確信を強める、強固にする」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "確かさが情報や予定に与えられた状態 → 「確認済みの、確定した」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "確かさが習慣や性向に定着した状態 → 「根っからの、筋金入りの」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "確かさを信仰上の立場に儀式で与えること → 「堅信礼などを施す」（語義7）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞】確認する、裏付ける",
+      "frequency": 9,
+      "register": [
+        "一般、ビジネス、報道、研究。"
+      ],
+      "definition": "情報、主張、推測などが正しいと確かめる、または正しいと伝える。人が確認して述べる場合と、検査結果・資料・出来事が裏付けになる場合がある。以前から何らかの情報や疑いがある場面が多いが、必ず二度目の確認というわけではない。",
+      "patterns": [
+        "confirm something＝内容を確認する・裏付ける",
+        "confirm (that) 〈平叙文〉＝～だと確認する",
+        "confirm (to someone) that 〈平叙文〉＝人に～だと伝えて確認する",
+        "confirm 〈wh節〉＝何・いつ・どちらかなどを確認する",
+        "confirm whether 〈平叙文〉＝～かどうか確認する",
+        "confirm receipt of something＝受領を確認して知らせる",
+        "be confirmed by 〈資料・検査など〉＝～によって裏付けられる"
+      ],
+      "collocations": [
+        {
+          "pattern": "confirm the details",
+          "use": "詳細が正しいか確認する。",
+          "example": "Could you confirm the delivery address before we dispatch the order?",
+          "translation": "注文品を発送する前に、配送先住所を確認していただけますか。"
+        },
+        {
+          "pattern": "confirm that 〈平叙文〉",
+          "use": "確認した事実を節で示す。",
+          "example": "The supplier confirmed that all five boxes had been shipped.",
+          "translation": "供給業者は、5箱すべてを発送済みであることを確認した。"
+        },
+        {
+          "pattern": "confirm to someone that 〈平叙文〉",
+          "use": "確認内容の伝達先を明示する。",
+          "example": "The organizer confirmed to us that the venue had changed.",
+          "translation": "主催者は、会場が変更されたことを私たちに確認して伝えた。"
+        },
+        {
+          "pattern": "confirm 〈wh節〉",
+          "use": "確かめる情報を間接疑問で表す。",
+          "example": "Please confirm when the replacement parts will arrive.",
+          "translation": "交換部品がいつ到着するのか確認してください。"
+        },
+        {
+          "pattern": "confirm whether 〈平叙文〉",
+          "use": "どちらの可能性が正しいか確認を求める。",
+          "example": "Can you confirm whether the price includes delivery?",
+          "translation": "その価格に配送料が含まれるかどうか確認していただけますか。"
+        },
+        {
+          "pattern": "confirm receipt of something",
+          "use": "受け取ったことを知らせる。",
+          "example": "Please confirm receipt of the signed agreement by email.",
+          "translation": "署名済みの契約書を受領したことをメールでお知らせください。"
+        },
+        {
+          "pattern": "confirm a suspicion",
+          "use": "疑っていたことが正しいと裏付ける。",
+          "example": "The audit confirmed our suspicion that some payments had been duplicated.",
+          "translation": "監査により、一部の支払いが重複していたのではないかという私たちの疑いが裏付けられた。"
+        },
+        {
+          "pattern": "be confirmed by 〈証拠・調査〉",
+          "use": "客観的な裏付けを受動態で示す。",
+          "example": "The initial findings were confirmed by a second independent study.",
+          "translation": "当初の調査結果は、別の独立した研究によって裏付けられた。"
+        }
+      ],
+      "notes": [
+        "日本語の「確認する」すべてを confirm にしない。まだ正しいか分からず点検する過程には check、照合して真偽を確かめるには verify が合う場合がある。confirm は正しいという結果・確かな通知に焦点がある。confirm whether は確認を求める疑問・依頼でも使え、that節のように肯定内容を前提にしない。Please confirm me the date. ではなく Please confirm the date to me. / Please confirm the date. とする。confirm what happened の語順は間接疑問なので confirm what did happen を通常の疑問語順のつもりで使わない。cannot confirm は未確認であり、否定されたという意味ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "verify",
+          "definition": "事実や資料との照合で真偽・正確さを確かめる。",
+          "frequency": 7,
+          "difference": "調べて正しいと確かめる作業に焦点がある。confirm は既存情報を確かと認める通知や証拠にも使う。",
+          "example": "We verified the figures against the original records.",
+          "translation": "私たちは、数値を元の記録と照合して確認した。"
+        },
+        {
+          "word": "corroborate",
+          "definition": "別の証拠や証言で主張を裏付ける。",
+          "frequency": 5,
+          "difference": "独立した裏付けが重なることを強調する。confirm は本人の確認発言にも使える。",
+          "example": "Two witnesses corroborated her account of the incident.",
+          "translation": "2人の証人が、事件についての彼女の説明を裏付けた。"
+        },
+        {
+          "word": "substantiate",
+          "definition": "証拠を示して主張に根拠を与える。",
+          "frequency": 5,
+          "difference": "証拠による立証に焦点があり、予約や参加を確定する意味には使わない。",
+          "example": "The company could not substantiate its advertising claims.",
+          "translation": "会社は、広告でうたった内容を立証できなかった。"
+        },
+        {
+          "word": "check",
+          "definition": "正しいか、問題がないかを調べる。",
+          "frequency": 10,
+          "difference": "確認作業を表し、調べた結果が肯定的であるとは限らない。confirm は正しさを確かなものにする面が強い。",
+          "example": "Please check the figures for typing errors.",
+          "translation": "数値に入力ミスがないか調べてください。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "disprove",
+          "definition": "証拠によって誤りだと示す。",
+          "frequency": 5,
+          "difference": "真実性を裏付けることと、誤りを証明することの対立。未確認であることより強い。",
+          "example": "The experiment disproved the original hypothesis.",
+          "translation": "その実験は、元の仮説が誤りであることを示した。"
+        },
+        {
+          "word": "refute",
+          "definition": "主張・論説が誤りだと論拠で示す。",
+          "frequency": 6,
+          "difference": "正しいと裏付ける方向と、誤りだと論証する方向の対立。単なる否認とは区別する。",
+          "example": "The researchers refuted the claim with new data.",
+          "translation": "研究者たちは、新しいデータでその主張を論駁した。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【動詞・他動詞（目的語省略もある）】確定する、確約する",
+      "frequency": 8,
+      "register": [
+        "一般、旅行、予約、ビジネス。"
+      ],
+      "definition": "予約、注文、日程、出席などが確かなものだと確認し、関係者に明らかにする。仮の予定を正式に固める場合と、既に決めた予定が有効だと再確認する場合の両方がある。",
+      "patterns": [
+        "confirm 〈予約・注文・予定〉＝～を確定する",
+        "confirm attendance＝出席を確約する",
+        "confirm (that) someone is coming＝来ることを確約する",
+        "confirm something in writing＝書面で確認・確約する",
+        "confirm＝文脈上明らかな予約・参加を確定する",
+        "to be confirmed＝後日確定、未確定"
+      ],
+      "collocations": [
+        {
+          "pattern": "confirm a reservation",
+          "use": "予約が有効であることを確かめて固める。",
+          "example": "The hotel emailed to confirm our reservation for three nights.",
+          "translation": "ホテルは、私たちの3泊の予約を確認するメールを送ってきた。"
+        },
+        {
+          "pattern": "confirm an order",
+          "use": "注文内容・受付を確定して伝える。",
+          "example": "We will confirm your order once stock availability has been checked.",
+          "translation": "在庫状況を確認した後、ご注文を確定してお知らせします。"
+        },
+        {
+          "pattern": "confirm attendance",
+          "use": "出席することを確約する。",
+          "example": "Please confirm your attendance by the end of the week.",
+          "translation": "今週末までに、出席することをご連絡ください。"
+        },
+        {
+          "pattern": "confirm that someone is coming",
+          "use": "参加予定を節で表す。",
+          "example": "All three speakers have confirmed that they are coming.",
+          "translation": "講演者3人全員が、来ることを確約している。"
+        },
+        {
+          "pattern": "confirm something in writing",
+          "use": "後から参照できる書面で予定を確約する。",
+          "example": "The venue manager confirmed the booking in writing.",
+          "translation": "会場責任者は、予約を書面で確認した。"
+        },
+        {
+          "pattern": "call to confirm",
+          "use": "対象が明白な予約などを電話で再確認する。",
+          "example": "We booked a table online and called the next day to confirm.",
+          "translation": "私たちはオンラインで席を予約し、翌日、確認のために電話した。"
+        },
+        {
+          "pattern": "to be confirmed",
+          "use": "日時・会場などが未確定であると表示する。",
+          "example": "The timetable lists the venue as \"to be confirmed.\"",
+          "translation": "予定表では、会場は「未確定」と記載されている。"
+        }
+      ],
+      "notes": [
+        "confirm は通常、既に話題に上がっている予約・予定を固める語。何も決まっていない段階で日時を組むなら arrange / schedule、新規予約そのものなら book / reserve を使う。confirm to attend ではなく confirm attendance / confirm that you will attend が基本。confirm a booking は支払い済みを必ず意味しない。in writing は「書面で」で、メールも文脈上含み得る。TBC は to be confirmed の略として予定表などに出る。"
+      ],
+      "synonyms": [
+        {
+          "word": "finalize",
+          "definition": "残った細部を決め、最終形にする。",
+          "frequency": 7,
+          "difference": "最終調整を終えることを強調する。confirm は既に固まった予定が有効だと伝えるだけの場合もある。",
+          "example": "We finalized the programme after speaking to all the presenters.",
+          "translation": "すべての発表者と話した後、私たちはプログラムを確定した。"
+        },
+        {
+          "word": "firm up",
+          "definition": "まだ曖昧な予定・合意を固める。",
+          "frequency": 6,
+          "difference": "会話的で、暫定状態をより具体的・確実にする過程が中心。",
+          "example": "Let us firm up the dates before booking the rooms.",
+          "translation": "部屋を予約する前に日程を固めましょう。"
+        },
+        {
+          "word": "reaffirm",
+          "definition": "既に示した約束・立場を改めて確かだと述べる。",
+          "frequency": 6,
+          "difference": "再度の表明を明示する。confirm は初めての確約にも使える。",
+          "example": "The supplier reaffirmed its commitment to the agreed delivery date.",
+          "translation": "供給業者は、合意した納期を守るという約束を改めて表明した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞・他動詞】正式に承認する、地位を確定する",
+      "frequency": 6,
+      "register": [
+        "人事、政治、行政、組織運営、評価。"
+      ],
+      "definition": "任命、人事、合意、決定などを正式に承認し、その地位や効力を確かなものにする。また、業績などが人の評価・地位を確立する場合にも使う。承認を行う主体と手続きは制度・組織による。",
+      "patterns": [
+        "confirm 〈任命・合意〉＝正式承認する",
+        "confirm someone as 〈役職〉＝～として正式に認める",
+        "confirm someone in 〈職・地位〉＝その職に正式に認める・引き続き認める",
+        "confirm someone’s status as 〈立場〉＝～としての地位を確かなものにする"
+      ],
+      "collocations": [
+        {
+          "pattern": "confirm an appointment",
+          "use": "任命を正式承認する。",
+          "example": "The committee confirmed her appointment as director.",
+          "translation": "委員会は、彼女の責任者への任命を正式に承認した。"
+        },
+        {
+          "pattern": "confirm someone as 〈役職〉",
+          "use": "人を特定の役職に正式に認める。",
+          "example": "The board confirmed him as the new chief executive.",
+          "translation": "取締役会は、彼を新しい最高経営責任者として正式に承認した。"
+        },
+        {
+          "pattern": "confirm someone in their post",
+          "use": "その職への正式就任・継続を確定する。",
+          "example": "After the probationary period, she was confirmed in her post.",
+          "translation": "試用期間の後、彼女はその職に正式に任用された。"
+        },
+        {
+          "pattern": "confirm someone’s status as 〈立場〉",
+          "use": "出来事が評判や地位を確立する。",
+          "example": "The award confirmed his status as a leading designer.",
+          "translation": "その賞によって、彼が第一線のデザイナーであることが確かなものになった。"
+        }
+      ],
+      "notes": [
+        "confirm her appointment は面会予約の確認にも任命承認にもなり得るので、as director などの文脈で区別する。confirm someone in a post は地位を正式に認める構文、語義4の confirm someone in a belief はその人の確信を強める構文。confirm a nominee のような政治用法でも、語だけからすべての任命権や審査手続きが同一だと考えない。status as a leading designer の例では公的な任命はなく、評価の確立を表す。"
+      ],
+      "synonyms": [
+        {
+          "word": "ratify",
+          "definition": "合意・決定などを正式に承認して確定する。",
+          "frequency": 5,
+          "difference": "条約や組織の決定への正式手続きでよく使い、人の評判を確立する意味には使わない。",
+          "example": "The assembly ratified the committee’s decision.",
+          "translation": "総会は、委員会の決定を正式に承認した。"
+        },
+        {
+          "word": "approve",
+          "definition": "案・人事などを受け入れ、認める。",
+          "frequency": 8,
+          "difference": "承認を広く表す。confirm は既に提案された任命や地位を確かなものにする点を強調する。",
+          "example": "The board approved her appointment.",
+          "translation": "取締役会は、彼女の任命を承認した。"
+        },
+        {
+          "word": "establish",
+          "definition": "立場・評判などを確立する。",
+          "frequency": 7,
+          "difference": "公式な追認を必要とせず、初めて地位を築くことにも使う。",
+          "example": "The exhibition established her reputation as a sculptor.",
+          "translation": "その展覧会によって、彼女は彫刻家としての名声を確立した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞・他動詞】確信を強める、強固にする",
+      "frequency": 6,
+      "register": [
+        "一般の文章、論評、やや改まった会話。"
+      ],
+      "definition": "信念、意見、決意、感情などを、それまでより強くする。人を目的語にする confirm someone in something は、その人が持つ信念などをいっそう確かにすること。信念の強さが増すのであって、内容が客観的に真実だと証明されるとは限らない。",
+      "patterns": [
+        "confirm 〈信念・決意〉＝～を強める",
+        "confirm someone in their belief that 〈平叙文〉＝～というその人の確信を強める",
+        "be confirmed in one’s belief＝信念をいっそう強く持つようになる"
+      ],
+      "collocations": [
+        {
+          "pattern": "confirm someone’s belief",
+          "use": "人の信念をいっそう強くする。",
+          "example": "The successful trial confirmed her belief in the new method.",
+          "translation": "試験の成功により、彼女はその新しい方法をいっそう信頼するようになった。"
+        },
+        {
+          "pattern": "confirm someone in their belief that 〈平叙文〉",
+          "use": "人を目的語にして確信の強まりを述べる。",
+          "example": "The delay confirmed him in his belief that the system needed reform.",
+          "translation": "その遅れにより、彼はその制度には改革が必要だという確信をさらに強めた。"
+        },
+        {
+          "pattern": "confirm someone’s resolve",
+          "use": "決意を固くする。",
+          "example": "The criticism only confirmed her resolve to continue the project.",
+          "translation": "批判によって、彼女はかえって事業を続ける決意を固くした。"
+        },
+        {
+          "pattern": "be confirmed in one’s view",
+          "use": "既存の見方がさらに強まる。",
+          "example": "After the discussion, I was confirmed in my view that a slower approach was wiser.",
+          "translation": "話し合いの後、私は、よりゆっくり進めるほうが賢明だという考えをさらに強く持った。"
+        }
+      ],
+      "notes": [
+        "confirm my belief は語義1の「その考えが正しいと裏付ける」と重なることがある。この語義では人の心理的な確信・決意が強まる面を扱う。confirm him in his belief の in を of に置き換えない。convince him of something は「人に納得させる」であり、以前からの信念の強化とは限らない。confirm oneself in a belief のような再帰目的語も文脈上作れるが、独立した決まり文句として必須の形ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "reinforce",
+          "definition": "既にある信念・態度などをさらに強める。",
+          "frequency": 7,
+          "difference": "既存の考えへの補強を広く表し、confirm のような正しさの確認に限定されない。",
+          "example": "Repeated success reinforced the team’s confidence.",
+          "translation": "成功が続いたことで、チームの自信が強まった。"
+        },
+        {
+          "word": "strengthen",
+          "definition": "感情・立場・決意などを強くする。",
+          "frequency": 8,
+          "difference": "最も一般的で、情報の確認という含みを持たない。",
+          "example": "The support strengthened his determination to continue.",
+          "translation": "その支援によって、彼は続ける決意を強めた。"
+        },
+        {
+          "word": "deepen",
+          "definition": "感情・理解などを深くする。",
+          "frequency": 7,
+          "difference": "強さや深さの増大を表す。正しさ・妥当性を確かめる意味は含まない。",
+          "example": "The experience deepened her commitment to the work.",
+          "translation": "その経験により、彼女は仕事にいっそう力を注ぐようになった。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "undermine",
+          "definition": "確信・信頼・決意などを弱める。",
+          "frequency": 7,
+          "difference": "強固にすることと、その基盤を損なうことの方向上の対立。",
+          "example": "The conflicting reports undermined their confidence.",
+          "translation": "食い違う報告によって、彼らの自信が揺らいだ。"
+        },
+        {
+          "word": "weaken",
+          "definition": "力・決意・信念などを弱くする。",
+          "frequency": 8,
+          "difference": "強さの増減という直接的な対立で、弱める仕組みは指定しない。",
+          "example": "The setback did not weaken her resolve.",
+          "translation": "その挫折によっても、彼女の決意は弱まらなかった。"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "【形容詞・confirmed】確認済みの、確定した",
+      "frequency": 7,
+      "register": [
+        "一般、報道、予約、業務。"
+      ],
+      "definition": "情報が正しいと確認されている、または予約・予定が確定している状態を表す。confirm の過去分詞と連続する用法で、確認・確定の結果に焦点がある。",
+      "patterns": [
+        "a confirmed 〈予約・報告など〉＝確認・確定済みの～",
+        "confirmed 〈複数名詞〉＝確認済みの～",
+        "be/remain confirmed＝確定している・確定状態が続く"
+      ],
+      "collocations": [
+        {
+          "pattern": "a confirmed reservation",
+          "use": "予約の確定状態を表す。",
+          "example": "You need a confirmed reservation to use this lounge.",
+          "translation": "このラウンジを使うには、確定した予約が必要です。"
+        },
+        {
+          "pattern": "confirmed reports",
+          "use": "事実確認の済んだ報告を指す。",
+          "example": "The article distinguishes confirmed reports from unverified rumours.",
+          "translation": "その記事は、確認済みの報告と未確認のうわさを区別している。"
+        },
+        {
+          "pattern": "a confirmed sighting",
+          "use": "目撃情報の確認済み状態を示す。",
+          "example": "This is the first confirmed sighting of the bird in the area this year.",
+          "translation": "これは、今年その地域で初めて確認された、その鳥の目撃例だ。"
+        },
+        {
+          "pattern": "remain confirmed",
+          "use": "予定が引き続き確定状態にあると述べる。",
+          "example": "Your reservation remains confirmed despite the change in arrival time.",
+          "translation": "到着時刻が変更されても、ご予約は引き続き確定しています。"
+        }
+      ],
+      "notes": [
+        "通常は程度の大小より確認済みかどうかを表すので、very confirmed や単純な比較級を基本形にしない。The booking is confirmed. は状態の説明、The booking was confirmed yesterday. は確認行為の受動態に読みやすい。get confirmed は確定に至る変化を表す。語義6の a confirmed pessimist は「悲観主義者だと確認された人」ではなく「根っからの悲観主義者」。"
+      ],
+      "synonyms": [
+        {
+          "word": "verified",
+          "definition": "照合・調査で正しいと確認された。",
+          "frequency": 6,
+          "difference": "情報の正確さを確かめた状態を強調し、予約の確約には普通用いない。",
+          "example": "The report uses only verified figures.",
+          "translation": "その報告書は、検証済みの数値だけを使っている。"
+        },
+        {
+          "word": "definite",
+          "definition": "未定でなく、はっきり決まった。",
+          "frequency": 8,
+          "difference": "日程などの確定性を表す。誰かの確認行為を前提としない。",
+          "example": "We finally have a definite date for the launch.",
+          "translation": "ようやく発売日が確定した。"
+        },
+        {
+          "word": "established",
+          "definition": "事実などとして確かなものになっている。",
+          "frequency": 7,
+          "difference": "広く受け入れられた事実・状態を表し、個々の通知・予約の確認より範囲が広い。",
+          "example": "The article separates established facts from speculation.",
+          "translation": "その記事は、確立した事実と推測を区別している。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unconfirmed",
+          "definition": "真偽や予定がまだ確認されていない。",
+          "frequency": 6,
+          "difference": "確認済みか未確認かの状態の対立。誤情報や中止決定を意味するわけではない。",
+          "example": "The departure date is still unconfirmed.",
+          "translation": "出発日は、まだ確定していない。"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "【形容詞・confirmed・主に限定用法】根っからの、筋金入りの",
+      "frequency": 4,
+      "register": [
+        "一般の文章、人物描写。やや改まった、または軽い誇張を含むことがある。"
+      ],
+      "definition": "人の習慣、性向、生き方などが長く定着しており、簡単には変わりそうにないことを表す。a confirmed bachelor / pessimist など、人を表す名詞の前で使う。悪い性質に限らず、愛好や主義についても使える。",
+      "patterns": [
+        "a confirmed 〈人を表す名詞〉＝根っからの～",
+        "become/remain a confirmed 〈人を表す名詞〉＝筋金入りの～になる・であり続ける"
+      ],
+      "collocations": [
+        {
+          "pattern": "a confirmed bachelor",
+          "use": "独身生活を続ける志向が定着した男性をいう。",
+          "example": "He describes himself as a confirmed bachelor with no plans to marry.",
+          "translation": "彼は、結婚するつもりのない独身主義者だと自分を説明している。"
+        },
+        {
+          "pattern": "a confirmed pessimist",
+          "use": "悲観的な考え方が定着した人をいう。",
+          "example": "Even a confirmed pessimist might be encouraged by these results.",
+          "translation": "筋金入りの悲観主義者でさえ、この結果には勇気づけられるかもしれない。"
+        },
+        {
+          "pattern": "a confirmed coffee drinker",
+          "use": "長年変わらない飲み物の好みを述べる。",
+          "example": "As a confirmed coffee drinker, she rarely chooses tea.",
+          "translation": "根っからのコーヒー党なので、彼女が紅茶を選ぶことはめったにない。"
+        },
+        {
+          "pattern": "remain a confirmed optimist",
+          "use": "性向が変わらないことを述べる。",
+          "example": "Despite several setbacks, he remains a confirmed optimist.",
+          "translation": "何度か挫折しても、彼は根っからの楽観主義者のままだ。"
+        }
+      ],
+      "notes": [
+        "この意味の confirmed は人を表す名詞の前で使うのが基本。He is confirmed. だけでは「筋金入りだ」という意味にならず、確認された・堅信礼を受けたなど別の読みになる。He is a confirmed optimist. の confirmed は名詞句内の限定修飾である。定着した性向をいうので、very confirmed を通常の程度表現として覚えない。a confirmed bachelor は古い文脈では同性愛を遠回しに示すこともあるが、現代の一例だけからその人の性的指向を推測しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "inveterate",
+          "definition": "習慣などが長年定着している。",
+          "frequency": 4,
+          "difference": "特に変えにくい習慣を強調し、悪習について使うことが多い。confirmed は中立的な好みにも使える。",
+          "example": "An inveterate traveller, she always has another trip in mind.",
+          "translation": "根っからの旅行好きである彼女は、いつも次の旅を考えている。"
+        },
+        {
+          "word": "diehard",
+          "definition": "信念・支持を容易に変えない。",
+          "frequency": 5,
+          "difference": "強固な忠誠・支持に焦点があり、単なる生活習慣より立場を守る響きが強い。",
+          "example": "Even diehard fans were disappointed by the performance.",
+          "translation": "熱烈なファンでさえ、その演技には失望した。"
+        },
+        {
+          "word": "habitual",
+          "definition": "習慣として繰り返す、常習的な。",
+          "frequency": 5,
+          "difference": "反復習慣を表し、今後も変わりそうにないという confirmed の含みは必須ではない。",
+          "example": "He is a habitual early riser.",
+          "translation": "彼は、いつも早起きする人だ。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【動詞・他動詞・通常受動態】堅信礼などを施す",
+      "frequency": 3,
+      "register": [
+        "宗教。具体的な儀式の意味・時期・施行者は教派や伝統による。"
+      ],
+      "definition": "キリスト教の堅信礼・堅信式など、confirmation と呼ばれる信仰上の儀式を人に施す。一部のユダヤ教でも confirmation の儀式に用いる。受ける人を主語にした be confirmed が一般的。",
+      "patterns": [
+        "confirm someone＝人に堅信礼などを施す",
+        "be confirmed＝堅信礼などを受ける",
+        "be confirmed by 〈施行者〉＝～から堅信礼などを受ける"
+      ],
+      "collocations": [
+        {
+          "pattern": "be confirmed",
+          "use": "受ける側から宗教儀式を述べる。",
+          "example": "She was baptized as an infant and confirmed as a teenager.",
+          "translation": "彼女は乳児のときに洗礼を受け、10代のときに堅信礼を受けた。"
+        },
+        {
+          "pattern": "confirm 〈受礼者〉",
+          "use": "施行者を主語にして儀式を述べる。",
+          "example": "The bishop confirmed twelve candidates during the service.",
+          "translation": "主教は、その礼拝中に12人の受礼希望者へ堅信礼を施した。"
+        },
+        {
+          "pattern": "be confirmed by 〈施行者〉",
+          "use": "儀式を施す人を明示する。",
+          "example": "He was confirmed by the bishop at the cathedral.",
+          "translation": "彼は、大聖堂で主教から堅信礼を受けた。"
+        }
+      ],
+      "notes": [
+        "「確認する」という業務上の意味とは異なる。be confirmed はここでは儀式を受ける受動態で、語義6の「習慣が定着した」という形容詞ではない。baptize「洗礼を授ける」、ordain「聖職者に任ずる」と同一の儀式ではないため、類義語として置き換えない。主教の例は主教が施行する教派の文脈であり、すべての宗派に共通の条件だと一般化しない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}

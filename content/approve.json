@@ -1,0 +1,504 @@
+{
+  "word": "approve",
+  "slug": "approve",
+  "ipa": "米・英: /əˈpruːv/",
+  "lead": "計画、申請、予算、支出、決定などを受け入れ、進めてよいと認める。権限のある人や組織が正式に決める場面でよく使うが、必ず投票を行うとは限らない。承認と実行完了は別である。",
+  "updated": "2026-10-11",
+  "notion_url": "https://app.notion.com/p/approve-3f64faa9b77d8104905ac8af0c5e4ca2",
+  "pronunciation": [
+    "2音節で、第2音節に主強勢を置く。第1音節の母音は弱い /ə/、第2音節の母音は /uː/。語末は /v/ で、/f/ ではない。approved /əˈpruːvd/ の -ed は /d/、approves の末尾は /vz/。approving /əˈpruːvɪŋ/ では綴りの e を落とす。"
+  ],
+  "etymology": [
+    "古フランス語 aprover などを経て、ラテン語 approbare「よいと認める、証明する」に由来する。ad- と probare「試す、確かめる」の結合で、p の前で接頭辞の音が同化した形。prove「証明する」と probe「調べる」も probare の系列に属する。現代の approve は、真偽を証明する prove と違い、適切だと認める評価・承認が中心。"
+  ],
+  "formation": [
+    {
+      "term": "approval",
+      "description": "名詞「賛成、承認」。通常は不可算だが、個別の許認可なら approvals と数える。approval of a plan と approval for a project では何を認めるかと何のための許可かが異なる。"
+    },
+    {
+      "term": "disapprove / disapproval",
+      "description": "動詞「よくないと思う、承認しない」と名詞「不賛成、不承認」。個人的な不賛成は disapprove of が基本。"
+    },
+    {
+      "term": "approved",
+      "description": "過去形・過去分詞のほか、形容詞「認可された、認められた」。語義4。"
+    },
+    {
+      "term": "approving / approvingly",
+      "description": "形容詞「賛意を示す」と副詞「賛成・称賛の気持ちを示して」。形容詞は語義5。"
+    },
+    {
+      "term": "preapprove / pre-approve",
+      "description": "他動詞「事前承認する」。事前審査済みという表示の具体的な効力は手続き次第で、最終承認と同一とは限らない。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "「よい・適切だという判断を与える」が核。正式な決定、個人の意見、適格性の認定、認められた状態、賛意を示す様子を区別する。"
+    },
+    {
+      "type": "item",
+      "text": "よいという判断を計画に正式に与えること → 「承認する、可決する」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "よいという判断を個人の意見として持つこと → 「よいと思う、賛成する」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "適切という判断を資格・用途に与えること → 「適格と認める、認定する」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "よい・適切という判断を得た状態 → 「認可された、認められた」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "よいという判断を態度に示すこと → 「賛意を示す、好意的な」（語義5）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞】承認する、可決する",
+      "frequency": 9,
+      "register": [
+        "一般、ビジネス、行政、議会。"
+      ],
+      "definition": "計画、申請、予算、支出、決定などを受け入れ、進めてよいと認める。権限のある人や組織が正式に決める場面でよく使うが、必ず投票を行うとは限らない。承認と実行完了は別である。",
+      "patterns": [
+        "approve 〈案・申請・予算〉＝～を承認する",
+        "approve 〈動名詞句〉＝～することを承認する",
+        "be approved by 〈承認者〉＝～に承認される",
+        "approve something unanimously＝満場一致で承認する"
+      ],
+      "collocations": [
+        {
+          "pattern": "approve a proposal",
+          "use": "提案を正式に採用する。",
+          "example": "The board approved the proposal after a brief discussion.",
+          "translation": "取締役会は、短い議論の後にその提案を承認した。"
+        },
+        {
+          "pattern": "approve an application",
+          "use": "申請を審査して認める。",
+          "example": "The manager approved my application for unpaid leave.",
+          "translation": "上司は、私の無給休暇の申請を承認した。"
+        },
+        {
+          "pattern": "approve additional spending",
+          "use": "追加の支出を承認する。",
+          "example": "The committee has not yet approved the additional spending.",
+          "translation": "委員会は、追加支出をまだ承認していない。"
+        },
+        {
+          "pattern": "approve 〈動名詞句〉",
+          "use": "行為を動名詞句で目的語にする。",
+          "example": "The directors approved opening a second branch.",
+          "translation": "取締役たちは、2店目の支店を開くことを承認した。"
+        },
+        {
+          "pattern": "be approved by 〈承認者〉",
+          "use": "承認を受ける側を主語にする。",
+          "example": "The revised policy must be approved by the executive team.",
+          "translation": "修正された方針は、経営陣の承認を受けなければならない。"
+        },
+        {
+          "pattern": "approve something unanimously",
+          "use": "全員の賛成による承認を表す。",
+          "example": "The council unanimously approved the new budget.",
+          "translation": "議会は、新しい予算を満場一致で承認した。"
+        }
+      ],
+      "notes": [
+        "approve the plan は計画の承認、語義2の approve of the plan は計画をよいと思うこと。正式な承認を求める場面で of を足すと、個人的な評価へ意味が変わり得る。approve to open a branch ではなく approve opening a branch / approve a plan to open a branch とする。人への行為許可を明確にするなら authorize someone to do が便利で、approve someone to do を何にでも使える基本構文として一般化しない。approve の否定は承認がないことを示し、必ずしも積極的な却下を意味しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "authorize",
+          "definition": "行為・支出などを正式に許可する。",
+          "frequency": 8,
+          "difference": "実行権限を与える点が強い。approve は案・申請を適切として受け入れる判断に焦点がある。",
+          "example": "The director authorized the release of the report.",
+          "translation": "責任者は、報告書の公開を許可した。"
+        },
+        {
+          "word": "ratify",
+          "definition": "条約・合意などを正式な手続きで最終承認する。",
+          "frequency": 5,
+          "difference": "既に取り決められた内容への正式な承認に使う。日常の申請承認まで広く指す approve より範囲が狭い。",
+          "example": "The members voted to ratify the agreement.",
+          "translation": "会員たちは、その合意の正式承認に賛成票を投じた。"
+        },
+        {
+          "word": "accept",
+          "definition": "提案・申し出などを受け入れる。",
+          "frequency": 9,
+          "difference": "公式な権限による承認でなくても使える。approve は受け入れてよいという評価・決定を表しやすい。",
+          "example": "The client accepted our revised offer.",
+          "translation": "顧客は、私たちの修正した提案を受け入れた。"
+        },
+        {
+          "word": "endorse",
+          "definition": "案や人への支持・承認を明示する。",
+          "frequency": 6,
+          "difference": "支持を表明することが中心で、必ずしも実施を許可する決定権を伴わない。",
+          "example": "Several industry groups endorsed the proposal.",
+          "translation": "複数の業界団体が、その提案への支持を表明した。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "reject",
+          "definition": "提案・申請などを退ける。",
+          "frequency": 8,
+          "difference": "承認と却下という決定の方向上の対立。未審査で承認していないだけの場合とは異なる。",
+          "example": "The panel rejected the application because key documents were missing.",
+          "translation": "審査団は、重要書類が不足していたため申請を却下した。"
+        },
+        {
+          "word": "turn down",
+          "definition": "申し出・依頼などを断る。",
+          "frequency": 8,
+          "difference": "受け入れるか断るかという方向上の対立。reject より会話的。",
+          "example": "The manager turned down the request for extra staff.",
+          "translation": "上司は、増員の要請を断った。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【動詞・自動詞】よいと思う、賛成する",
+      "frequency": 8,
+      "register": [
+        "一般。家庭、対人評価、方針や行為への賛否。"
+      ],
+      "definition": "人、行動、考え方などを、よい・正しい・適切だと評価する。普通は approve of の形を取る。個人的・道徳的な賛意であり、許可を出す権限や、本人への同意の通知は必須ではない。",
+      "patterns": [
+        "自動詞の単独用法: approve＝賛成する",
+        "自動詞＋前置詞: approve of someone/something＝人・物事をよいと思う",
+        "自動詞＋前置詞: approve of doing something＝～することに賛成する",
+        "自動詞＋前置詞: approve of someone doing something＝人が～することをよいと思う",
+        "自動詞＋前置詞: approve of someone’s doing something＝同じ内容を所有格で示す、やや改まった形"
+      ],
+      "collocations": [
+        {
+          "pattern": "approve of an idea",
+          "use": "考えをよいと評価する。",
+          "example": "I approve of the idea, but I cannot authorize the expense.",
+          "translation": "その考えには賛成だが、私にはその費用を承認する権限がない。"
+        },
+        {
+          "pattern": "approve of someone",
+          "use": "人をふさわしい、好ましいと評価する。",
+          "example": "Her parents did not approve of her new boyfriend.",
+          "translation": "彼女の両親は、新しい恋人をよく思っていなかった。"
+        },
+        {
+          "pattern": "approve of doing something",
+          "use": "行為について賛否を述べる。",
+          "example": "They do not approve of discussing salaries in public.",
+          "translation": "彼らは、公の場で給与の話をすることをよいとは思っていない。"
+        },
+        {
+          "pattern": "approve of someone doing something",
+          "use": "行為者を目的格などで示す。",
+          "example": "The team approved of me taking a few days off.",
+          "translation": "チームは、私が数日休むことに賛成してくれた。"
+        },
+        {
+          "pattern": "approve of someone’s doing something",
+          "use": "動名詞の意味上の主語を所有格にする。",
+          "example": "She approved of our giving the surplus food to a local charity.",
+          "translation": "彼女は、私たちが余った食料を地元の慈善団体に渡すことに賛成した。"
+        },
+        {
+          "pattern": "not approve",
+          "use": "何への賛意かが明らかな場合に単独で使う。",
+          "example": "I explained the arrangement, but he clearly did not approve.",
+          "translation": "私はその取り決めを説明したが、彼は明らかに賛成していなかった。"
+        }
+      ],
+      "notes": [
+        "of は前置詞なので、approve of working が正しく、approve of to work とはしない。人の行為には approve of me working / approve of my working の両方があり、後者がより改まった形。approve of him は人物への評価、approve him as a supplier は語義3の業者としての適格認定である。of を伴わない他動詞にも、改まった文体で「よいと思う」があるため、「of がなければ必ず公的承認」とは断定しない。ただし現代の学習上は、賛意には approve of、正式承認には approve something の対比を基本にする。"
+      ],
+      "synonyms": [
+        {
+          "word": "agree with",
+          "definition": "人の意見・考えに同意する。",
+          "frequency": 9,
+          "difference": "意見の一致が中心。approve of は行為や人物を好ましいと評価する場合も含む。",
+          "example": "I agree with your suggestion about the deadline.",
+          "translation": "締め切りについてのあなたの提案に賛成です。"
+        },
+        {
+          "word": "support",
+          "definition": "人・案・行動を支持する。",
+          "frequency": 9,
+          "difference": "好ましく思うだけでなく、援助や公的支持を伴うこともある。approve of だけでは具体的な支援を示さない。",
+          "example": "Most employees support the new training scheme.",
+          "translation": "従業員の大半は、新しい研修制度を支持している。"
+        },
+        {
+          "word": "condone",
+          "definition": "よくないとされる行動を容認する。",
+          "frequency": 5,
+          "difference": "不適切な行為を大目に見ることに限定されやすい。approve of は肯定的に評価すること。",
+          "example": "The organization does not condone harassment.",
+          "translation": "その組織は、嫌がらせを容認しない。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "disapprove of",
+          "definition": "人・行動などをよくないと評価する。",
+          "frequency": 7,
+          "difference": "よいと思うか、よくないと思うかという評価上の直接的な対立。禁止する権限は必要ない。",
+          "example": "He disapproves of personal calls during meetings.",
+          "translation": "彼は、会議中に私用電話をすることをよく思っていない。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【動詞・他動詞】適格と認める、認定する",
+      "frequency": 7,
+      "register": [
+        "品質管理、購買、認証、教育、行政など。"
+      ],
+      "definition": "製品、方法、人、機関などが、基準・資格・用途に照らして受け入れられると認める。目的語は認定される対象で、for は認められる用途、as は認められる資格・役割を示す。ある用途への認定が、あらゆる用途や結果を保証するわけではない。",
+      "patterns": [
+        "approve something for 〈用途〉＝～の用途に認める",
+        "approve someone/something as 〈役割・区分〉＝～として認定する",
+        "be approved for use in 〈場所・条件〉＝～での使用が認められる",
+        "be approved by 〈認定者〉＝～に認定される"
+      ],
+      "collocations": [
+        {
+          "pattern": "approve something for use",
+          "use": "使用目的に照らして製品などを認める。",
+          "example": "The safety team approved the equipment for indoor use.",
+          "translation": "安全担当チームは、その装置の屋内での使用を認めた。"
+        },
+        {
+          "pattern": "approve someone as a supplier",
+          "use": "供給業者として適格と認める。",
+          "example": "The company approved the manufacturer as a supplier of replacement parts.",
+          "translation": "会社は、その製造業者を交換部品の供給業者として認定した。"
+        },
+        {
+          "pattern": "be approved for 〈用途〉",
+          "use": "認定の範囲を用途で限定する。",
+          "example": "This adhesive is approved for contact with drinking water.",
+          "translation": "この接着剤は、飲料水に接触する用途での使用が認められている。"
+        },
+        {
+          "pattern": "be approved by 〈認定者〉",
+          "use": "基準への適合を認めた主体を示す。",
+          "example": "The training course was approved by the professional association.",
+          "translation": "その研修課程は、専門職団体に認定された。"
+        }
+      ],
+      "notes": [
+        "approve a supplier は供給業者を認めること、approve of a supplier はその業者を好ましく思うこと。approved for outdoor use は屋外使用への認定であり、屋外使用を予定しているという意味ではない。認定機関・対象・条件は文脈で確認し、approved の一語から国の認可、安全性の絶対保証、法的資格の付与まで推測しない。語義1との境界は重なるが、ここでは行動計画の可否より対象の適格性に焦点を置く。"
+      ],
+      "synonyms": [
+        {
+          "word": "certify",
+          "definition": "基準への適合や資格を正式に証明する。",
+          "frequency": 6,
+          "difference": "証明・認証の手続きを前面に出す。approve は適切として受け入れる判断を広く表す。",
+          "example": "An independent body certified the system to the required standard.",
+          "translation": "独立機関が、そのシステムは要求された基準に適合すると認証した。"
+        },
+        {
+          "word": "accredit",
+          "definition": "機関・課程などに正式な適格認定を与える。",
+          "frequency": 5,
+          "difference": "教育機関や検査機関などへの正式な認定で使う。approve は物や方法にも広い。",
+          "example": "The council accredited the laboratory after an inspection.",
+          "translation": "評議会は、検査後にその研究所を認定した。"
+        },
+        {
+          "word": "qualify",
+          "definition": "人や業者などが必要条件を満たすと認定する。",
+          "frequency": 5,
+          "difference": "この他動詞用法では適格性の審査を強調する。qualify for の自動詞用法とは構造が異なる。",
+          "example": "The buyer qualified two new suppliers after site visits.",
+          "translation": "購買担当者は、現地訪問の後、新たな供給業者2社を適格と認定した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【形容詞・approved】認可された、認められた",
+      "frequency": 7,
+      "register": [
+        "一般、ビジネス、手順書。"
+      ],
+      "definition": "正式に認可を得ている、または一般に適切と認められている状態を表す。approve の過去分詞からの形容詞。approved suppliers のような名詞前の用法が多い。",
+      "patterns": [
+        "an approved 〈単数名詞〉＝認可された～",
+        "approved 〈複数名詞〉＝認められた～",
+        "the approved way of doing something＝適切と認められたやり方",
+        "be approved for 〈用途〉＝～に認可された状態にある"
+      ],
+      "collocations": [
+        {
+          "pattern": "an approved supplier",
+          "use": "購入先として認められた業者を指す。",
+          "example": "Orders must be placed with an approved supplier.",
+          "translation": "注文は、認定供給業者に行わなければならない。"
+        },
+        {
+          "pattern": "approved methods",
+          "use": "認められた方法を指す。",
+          "example": "The manual describes three approved methods for cleaning the surface.",
+          "translation": "手引きには、その表面を清掃するための認められた方法が三つ記載されている。"
+        },
+        {
+          "pattern": "the approved way of doing something",
+          "use": "慣行として適切なやり方を表す。",
+          "example": "This is the approved way of reporting a safety concern.",
+          "translation": "これが、安全上の懸念を報告するための認められた方法です。"
+        },
+        {
+          "pattern": "be approved for 〈用途〉",
+          "use": "認可済みの状態を述べる。",
+          "example": "The device is approved for commercial use.",
+          "translation": "その装置は、商業用途での使用が認可されている。"
+        }
+      ],
+      "notes": [
+        "approved は認められる側の状態で、語義5の approving は賛意を示す側の様子。an approved plan「承認された計画」と an approving smile「賛意を示す笑み」は役割が逆。be approved は形容詞的な状態とも受動態とも取れ、was approved yesterday は承認行為を示しやすい。get approved は承認を得る変化で、「とても認可された」という very approved や通常の比較級は使わない。widely approved「広く認められた」のように、認める範囲を表す修飾は可能。"
+      ],
+      "synonyms": [
+        {
+          "word": "authorized",
+          "definition": "正式な許可・権限のある。",
+          "frequency": 7,
+          "difference": "行為をしてよいという許可に焦点がある。approved には一般的に適切と認められたという意味もある。",
+          "example": "Only authorized personnel may enter the room.",
+          "translation": "権限のある職員だけが、その部屋に入れる。"
+        },
+        {
+          "word": "certified",
+          "definition": "基準・資格を満たすと正式に証明された。",
+          "frequency": 6,
+          "difference": "認証・証明済みである点を明示する。approved は必ずしも証明書の発行を伴わない。",
+          "example": "We use certified components in the control system.",
+          "translation": "私たちは、制御システムに認証済みの部品を使っている。"
+        },
+        {
+          "word": "accepted",
+          "definition": "適切・正当として受け入れられた。",
+          "frequency": 7,
+          "difference": "慣行や見解について広く使い、公式な審査があるとは限らない。",
+          "example": "The procedure follows accepted industry practice.",
+          "translation": "その手順は、業界で認められた慣行に従っている。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unapproved",
+          "definition": "承認・認可を受けていない。",
+          "frequency": 4,
+          "difference": "承認済みか未承認かという状態の対立。却下済みや違法だという意味までは含まない。",
+          "example": "Do not install unapproved software on these computers.",
+          "translation": "これらのコンピューターに未承認のソフトウェアをインストールしないでください。"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "【形容詞・approving】賛意を示す、好意的な",
+      "frequency": 6,
+      "register": [
+        "一般、人物描写。"
+      ],
+      "definition": "表情、言葉、態度などが、相手や物事をよいと思っていることを示す。approve の現在分詞と同形だが、an approving nod などでは「承認の作業中」ではなく賛成・称賛を示す様子を表す。",
+      "patterns": [
+        "an approving 〈表情・しぐさ〉＝賛意を示す～",
+        "approving comments＝好意的な意見",
+        "look/sound approving＝賛意を示しているように見える・聞こえる",
+        "be approving of someone/something＝～に好意的な態度である",
+        "more approving＝より好意的な"
+      ],
+      "collocations": [
+        {
+          "pattern": "an approving nod（approve の分詞形容詞）",
+          "use": "うなずきで賛意を示す。",
+          "example": "Her supervisor gave an approving nod after hearing the suggestion.",
+          "translation": "彼女の上司は、提案を聞くと賛意を示してうなずいた。"
+        },
+        {
+          "pattern": "an approving smile（approve の分詞形容詞）",
+          "use": "笑みで好意的な評価を表す。",
+          "example": "He greeted the finished display with an approving smile.",
+          "translation": "彼は、完成した展示を見て満足げにほほ笑んだ。"
+        },
+        {
+          "pattern": "approving comments（approve の分詞形容詞）",
+          "use": "好意的な評価の言葉を指す。",
+          "example": "The proposal attracted several approving comments from colleagues.",
+          "translation": "その提案には、同僚たちから好意的な意見がいくつか寄せられた。"
+        },
+        {
+          "pattern": "sound approving（approve の分詞形容詞）",
+          "use": "声や言葉の調子が賛成を示す。",
+          "example": "She sounded approving when I described the changes.",
+          "translation": "私が変更点を説明すると、彼女の声は賛意を示しているように聞こえた。"
+        },
+        {
+          "pattern": "be more approving of something（approve の分詞形容詞）",
+          "use": "賛意の程度を比較する。",
+          "example": "They were more approving of the revised design than of the original.",
+          "translation": "彼らは、元のデザインよりも修正版に好意的だった。"
+        }
+      ],
+      "notes": [
+        "名詞前の限定用法が典型だが、look approving / sound approving のような叙述用法もある。人や表情の賛意に程度差があるので very approving / more approving が可能。She is approving the request. は目的語を伴う動詞 approve の進行形で「申請を承認している」。She looks approving. は形容詞で「賛意を示す様子だ」。approved と approving を取り違えない。"
+      ],
+      "synonyms": [
+        {
+          "word": "favourable",
+          "definition": "賛成・支持を示す、好意的な。",
+          "frequency": 7,
+          "difference": "評価・反応を広く修飾する。approving はよいと思う気持ちが表に出る様子を表しやすい。米綴りは favorable。",
+          "example": "The plan received a favourable response from residents.",
+          "translation": "その計画には、住民から好意的な反応があった。"
+        },
+        {
+          "word": "supportive",
+          "definition": "人や考えを支える姿勢を示す。",
+          "frequency": 7,
+          "difference": "励ましや援助を含むことが多い。approving は評価の肯定性が中心。",
+          "example": "Her colleagues were supportive of the proposal.",
+          "translation": "同僚たちは、その提案を支持していた。"
+        },
+        {
+          "word": "admiring",
+          "definition": "感心・称賛を示す。",
+          "frequency": 6,
+          "difference": "優れた点への感嘆が中心で、適切だと認める approving より称賛が強く出やすい。",
+          "example": "The intricate design drew admiring glances.",
+          "translation": "精巧なデザインは、感嘆のまなざしを集めた。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "disapproving",
+          "definition": "よくないと思う気持ちを示す。",
+          "frequency": 6,
+          "difference": "好意的評価と否定的評価が態度に出るという、直接的な対立。",
+          "example": "The receptionist gave him a disapproving look.",
+          "translation": "受付係は、彼に非難するような目を向けた。"
+        }
+      ]
+    }
+  ]
+}

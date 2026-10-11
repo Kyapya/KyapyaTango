@@ -1,0 +1,486 @@
+{
+  "word": "submit",
+  "slug": "submit",
+  "ipa": "米・英: /səbˈmɪt/",
+  "lead": "書類、作品、案、データ、案件などを、受理・審査・判断してもらうために相手へ正式に差し出す。電子送信にも、裁判所などの判断に案件を委ねる場合にも使う。物理的な紙を渡すこと、採用されること、最終承認を得ることは必須ではない。",
+  "updated": "2026-10-11",
+  "notion_url": "https://app.notion.com/p/submit-3f64faa9b77d810d903acb6bbd9867c1",
+  "pronunciation": [
+    "2音節で、第2音節に主強勢を置く。第1音節の母音は弱い /ə/、第2音節は短い /ɪ/。過去形・過去分詞 submitted /səbˈmɪtɪd/、現在分詞 submitting /səbˈmɪtɪŋ/ では t を重ねる。submitted の -ed は /ɪd/ で1音節を加える。三人称単数 submits の末尾は /ts/。"
+  ],
+  "etymology": [
+    "ラテン語 submittere「下に置く、従わせる」に由来し、sub-「下に」と mittere「送る、置く」から成る。判断を受けるために差し出すことと、権限・処置に身を委ねることが現在の主要義。同じ mittere の系列には transmit「送信する」と permit「許す」がある。"
+  ],
+  "formation": [
+    {
+      "term": "submission",
+      "description": "名詞「提出、提出物、服従」。提出・服従という行為は不可算、個々の提出物や意見書は可算。格闘技では「降参、一本勝ちをもたらす技」の文脈でも使う。"
+    },
+    {
+      "term": "submissive",
+      "description": "形容詞「従順な、言いなりの」。提出済みという意味にはならず、人の態度や性格を表す。"
+    },
+    {
+      "term": "resubmit",
+      "description": "他動詞「再提出する」。resubmitted / resubmitting と t を重ねる。"
+    },
+    {
+      "term": "submitter",
+      "description": "可算名詞「提出者、投稿者」。フォームや審査手続きで使う。"
+    },
+    {
+      "term": "submitted / submitting",
+      "description": "基本的には過去分詞・現在分詞。submitted documents は提出された書類で、submissive と区別する。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "「対象を、判断・支配・処置のもとに置く、または自分がそのもとに入る」が学習上の核。提出しただけで承認されたことにはならず、従うことも必ずしも心から賛成することではない。"
+    },
+    {
+      "type": "item",
+      "text": "判断のもとに書類や案件を置くこと → 「提出する、審議に付す」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "支配のもとに自分が入ること → 「従う、屈する」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "処置のもとに自分が入ること → 「検査・処置などを受け入れる」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "判断のもとに自分の主張を置くこと → 「申し述べる、主張する」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "処置のもとに対象を置くこと → 「検査・処理などにかける」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "支配のもとに試合相手を置くこと → 「相手にサブミッションで勝つ」（語義6）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞】提出する、審議に付す",
+      "frequency": 9,
+      "register": [
+        "一般、ビジネス、学校、出版、行政。send より正式な提出という目的が明確。"
+      ],
+      "definition": "書類、作品、案、データ、案件などを、受理・審査・判断してもらうために相手へ正式に差し出す。電子送信にも、裁判所などの判断に案件を委ねる場合にも使う。物理的な紙を渡すこと、採用されること、最終承認を得ることは必須ではない。",
+      "patterns": [
+        "submit something＝～を提出する",
+        "submit something to 〈提出先〉＝～へ提出する",
+        "submit something for 〈審査・承認など〉＝～を受けるために提出する",
+        "submit something as 〈証拠など〉＝～として提出する",
+        "submit 〈案件〉 to 〈判断機関・手続き〉＝判断に委ねる",
+        "be submitted by 〈期限〉＝～までに提出される"
+      ],
+      "collocations": [
+        {
+          "pattern": "submit an application to 〈提出先〉",
+          "use": "申請書の提出先を示す。",
+          "example": "Please submit your application to the recruitment team by Friday.",
+          "translation": "金曜日までに採用チームへ申請書を提出してください。"
+        },
+        {
+          "pattern": "submit something for approval",
+          "use": "承認を受けるために案などを提出する。",
+          "example": "We submitted the revised budget for approval yesterday.",
+          "translation": "昨日、承認を受けるために修正予算を提出した。"
+        },
+        {
+          "pattern": "submit something as evidence",
+          "use": "資料を証拠として提出する。",
+          "example": "The tenant submitted the dated photographs as evidence of the damage.",
+          "translation": "借主は、損傷の証拠として日付入りの写真を提出した。"
+        },
+        {
+          "pattern": "submit a claim",
+          "use": "費用の請求などを所定の手続きに出す。",
+          "example": "Employees can submit travel expense claims through the portal.",
+          "translation": "従業員は、ポータルから出張費の精算申請を提出できる。"
+        },
+        {
+          "pattern": "submit a dispute to arbitration",
+          "use": "紛争を仲裁で判断してもらう。",
+          "example": "The two companies agreed to submit their dispute to arbitration.",
+          "translation": "両社は、紛争を仲裁に付すことに合意した。"
+        },
+        {
+          "pattern": "submit your resignation",
+          "use": "辞職の意思を正式に申し出る。",
+          "example": "She submitted her resignation to the chair of the board.",
+          "translation": "彼女は、取締役会の議長に辞表を提出した。"
+        },
+        {
+          "pattern": "be submitted electronically",
+          "use": "提出方式を受動態で説明する。",
+          "example": "All entries must be submitted electronically by noon.",
+          "translation": "応募作品はすべて、正午までに電子形式で提出しなければならない。"
+        }
+      ],
+      "notes": [
+        "提出物を直接目的語に置く。submit the report to her / submit it to her が基本で、「彼女に報告書を提出する」を submit her the report とは通常言わない。to は提出先、for は目的を表し、submit the plan to the board for approval と併用できる。by Friday は金曜日を期限とし、until Friday は同じ意味にならない。Click Submit. の Submit は画面のボタン名で、通常の名詞「提出」は submission。文脈が明白なら Please submit by Friday. のような目的語省略もあるが、他動詞用法の省略であり語義2の服従とは別。"
+      ],
+      "synonyms": [
+        {
+          "word": "hand in",
+          "definition": "課題・書類などを提出する。",
+          "frequency": 8,
+          "difference": "日常的で、学校や職場で指定された相手へ出す場面に広い。submit は審査・正式手続きにも適する。",
+          "example": "I handed in the completed form at reception.",
+          "translation": "私は、記入済みの用紙を受付に提出した。"
+        },
+        {
+          "word": "file",
+          "definition": "申請・届出などを正式に提出し、記録に載せる。",
+          "frequency": 7,
+          "difference": "裁判所や行政などの制度的な提出に使いやすい。submit は作品や提案の提出にも使える。",
+          "example": "The company filed its annual report on time.",
+          "translation": "会社は、年次報告書を期限どおりに提出した。"
+        },
+        {
+          "word": "present",
+          "definition": "人が検討できるように案・資料などを示す。",
+          "frequency": 8,
+          "difference": "口頭の説明やその場での提示も含む。submit は相手に受理・判断してもらうために差し出す点が中心。",
+          "example": "The engineer presented three options to the client.",
+          "translation": "技術者は、顧客に三つの案を提示した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【動詞・自動詞／他動詞の再帰形】従う、屈する",
+      "frequency": 6,
+      "register": [
+        "やや改まった一般語。政治、権限関係、宗教、対立の描写。"
+      ],
+      "definition": "他者の権限、意志、要求、優位な力などを受け入れ、その支配に従う。抵抗をやめる含みが出やすいが、進んで従う場合にも使える。自動詞 submit と、他動詞の目的語に oneself を置く submit oneself の両形がある。",
+      "patterns": [
+        "submit＝屈する",
+        "submit to someone/something＝～に従う",
+        "submit oneself to 〈権限・支配など〉＝自ら～に従う",
+        "refuse to submit to 〈要求など〉＝～に屈することを拒む"
+      ],
+      "collocations": [
+        {
+          "pattern": "submit to authority",
+          "use": "権限を持つ側に従う。",
+          "example": "The members agreed to submit to the authority of the elected council.",
+          "translation": "会員たちは、選挙で選ばれた評議会の権限に従うことに同意した。"
+        },
+        {
+          "pattern": "refuse to submit to pressure",
+          "use": "圧力に屈しない姿勢を示す。",
+          "example": "The editor refused to submit to pressure from advertisers.",
+          "translation": "編集者は、広告主からの圧力に屈することを拒んだ。"
+        },
+        {
+          "pattern": "submit oneself to 〈規律・権限〉",
+          "use": "従う本人を再帰代名詞で明示する。",
+          "example": "Each participant submits themselves to the authority of the referee.",
+          "translation": "各参加者は、審判の権限に従う。"
+        },
+        {
+          "pattern": "be forced to submit",
+          "use": "屈することを強いられる。",
+          "example": "After months of resistance, the rebels were forced to submit.",
+          "translation": "数か月にわたる抵抗の末、反乱勢力は屈服を余儀なくされた。"
+        }
+      ],
+      "notes": [
+        "submit to の to は前置詞。代名詞なら submit to them とする。submit themselves to the rules と submit to the rules は、再帰目的語を取る他動詞構文と自動詞構文の対応であり、再帰代名詞が常に必要なわけではない。submit the rules は語義1なら「規則を提出する」で、従う意味にはならない。be forced to submit は force の受動態で、submit 自体を受動にしたものではない。格闘技で選手が submit するのは降参することで、語義6の submit an opponent とは主語の勝敗が逆になる。"
+      ],
+      "synonyms": [
+        {
+          "word": "yield",
+          "definition": "圧力・要求などに抗うのをやめて譲る。",
+          "frequency": 7,
+          "difference": "部分的な譲歩にも使える。submit は相手の権限・支配を受け入れる点を強く示す。",
+          "example": "The negotiators eventually yielded to public pressure.",
+          "translation": "交渉担当者たちは、最終的に世論の圧力に屈した。"
+        },
+        {
+          "word": "give in",
+          "definition": "抵抗や拒否をやめ、要求を受け入れる。",
+          "frequency": 8,
+          "difference": "会話的な表現。権威への服従よりも、押し切られて折れる過程に焦点がある。",
+          "example": "At first he refused, but he finally gave in.",
+          "translation": "初めは拒んでいたが、彼は最後には折れた。"
+        },
+        {
+          "word": "obey",
+          "definition": "命令・規則・権限を持つ人に従う。",
+          "frequency": 8,
+          "difference": "具体的な指示どおりに行動すること。submit は支配関係を受け入れることを表しやすい。",
+          "example": "All players must obey the referee.",
+          "translation": "すべての選手は審判に従わなければならない。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "resist",
+          "definition": "力・圧力などに抗う。",
+          "frequency": 8,
+          "difference": "圧力に屈することと抵抗することの方向上の対立。抵抗が最終的に成功したかは示さない。",
+          "example": "Residents continued to resist the imposed restrictions.",
+          "translation": "住民たちは、課された制限に抵抗し続けた。"
+        },
+        {
+          "word": "defy",
+          "definition": "権威や命令に公然と従わない。",
+          "frequency": 6,
+          "difference": "服従と反抗の対立。単に従えないのではなく、あえて背く含みが強い。",
+          "example": "The protesters openly defied the ban.",
+          "translation": "抗議者たちは、公然と禁止令に背いた。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【動詞・自動詞／他動詞の再帰形】検査・処置などを受け入れる",
+      "frequency": 5,
+      "register": [
+        "改まった文章、手続きや検査の説明。"
+      ],
+      "definition": "自分が検査、尋問、捜索、処置などの対象になることを受け入れる。進んで受ける場合にも、不本意ながら従う場合にも使う。単にある体験が起きることではなく、それを拒まずに身を委ねるという面がある。",
+      "patterns": [
+        "submit to 〈検査・処置〉＝～を受け入れる",
+        "submit to being 〈過去分詞〉＝～されることを受け入れる",
+        "submit oneself to 〈検査・処置〉＝自ら～を受けることにする"
+      ],
+      "collocations": [
+        {
+          "pattern": "submit to a search",
+          "use": "身体や所持品の捜索を受け入れる。",
+          "example": "He agreed to submit to a search of his bag.",
+          "translation": "彼は、自分のかばんの捜索を受け入れることに同意した。"
+        },
+        {
+          "pattern": "submit to testing",
+          "use": "検査を受けることを受け入れる。",
+          "example": "The athlete voluntarily submitted to additional testing.",
+          "translation": "その選手は、自発的に追加検査を受けた。"
+        },
+        {
+          "pattern": "submit to being questioned",
+          "use": "受動の動名詞を to の後に置く。",
+          "example": "The witness reluctantly submitted to being questioned again.",
+          "translation": "証人は、再び質問を受けることをしぶしぶ受け入れた。"
+        },
+        {
+          "pattern": "submit oneself to examination",
+          "use": "再帰形で審査・診察を受けることを示す。",
+          "example": "She submitted herself to examination by an independent doctor.",
+          "translation": "彼女は、独立した医師による診察を受けることを受け入れた。"
+        }
+      ],
+      "notes": [
+        "to の後は名詞・動名詞で、submit to be questioned ではなく submit to being questioned。普通に「検査を受ける」なら undergo a test / have a test のほうが中立的なことが多い。submit a sample to the laboratory は語義1の試料提出、submit to a test は本人が検査を受けること。submit oneself to examination は本人の行為であり、be submitted to examination は他者によって検査にかけられる受動構文なので、再帰代名詞の省略形と説明しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "undergo",
+          "definition": "検査・処置・変化などを受ける、経験する。",
+          "frequency": 7,
+          "difference": "受ける本人の同意や抵抗の有無を示さない。submit to は受け入れる姿勢を伴う。",
+          "example": "The equipment underwent a series of safety tests.",
+          "translation": "その装置は、一連の安全性試験を受けた。"
+        },
+        {
+          "word": "consent to",
+          "definition": "提案された行為・処置に同意する。",
+          "frequency": 6,
+          "difference": "受け入れる意思に焦点があり、実際に処置を受けたことまでは示さない。submit to は身を委ねる行為にも焦点がある。",
+          "example": "The participant consented to the interview being recorded.",
+          "translation": "参加者は、面接の録音に同意した。"
+        },
+        {
+          "word": "accept",
+          "definition": "課された条件・事態などを受け入れる。",
+          "frequency": 8,
+          "difference": "対象が広く、検査を実際に受けるという意味は目的語と文脈で補う。",
+          "example": "She accepted the need for a further examination.",
+          "translation": "彼女は、追加の検査が必要であることを受け入れた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞・他動詞】申し述べる、主張する",
+      "frequency": 4,
+      "register": [
+        "フォーマル、法律、論証、改まった演説。"
+      ],
+      "definition": "相手の検討に供する形で、ある意見・論点が正しいと改まって述べる。特に submit that の形で用いる。丁重な言い方にも、裁判での論旨の提示にもなり、主張内容が事実だと証明されたことを意味しない。",
+      "patterns": [
+        "submit that 〈平叙文〉＝～だと申し述べる",
+        "submit (to someone) that 〈平叙文〉＝必要に応じて相手を明示し、～と申し述べる",
+        "it is submitted that 〈平叙文〉＝～だとの主張が示される"
+      ],
+      "collocations": [
+        {
+          "pattern": "submit that 〈平叙文〉",
+          "use": "論点を検討してもらう形で提示する。",
+          "example": "I submit that the figures do not support that conclusion.",
+          "translation": "私は、その数値はその結論を裏付けないと申し上げる。"
+        },
+        {
+          "pattern": "respectfully submit that 〈平叙文〉",
+          "use": "丁重に異論や論点を述べる。",
+          "example": "We respectfully submit that further consultation is necessary.",
+          "translation": "私たちは、さらなる協議が必要であると謹んで申し述べる。"
+        },
+        {
+          "pattern": "submit to someone that 〈平叙文〉",
+          "use": "主張を向ける相手を明示する。",
+          "example": "Counsel submitted to the judge that the claim was time-barred.",
+          "translation": "弁護士は、その請求は時効により認められないと裁判官に主張した。"
+        },
+        {
+          "pattern": "it is submitted that 〈平叙文〉",
+          "use": "法律文書などで非人称的に主張を書く。",
+          "example": "It is submitted that the agreement does not cover these services.",
+          "translation": "その契約はこれらのサービスを対象としていないと主張する。"
+        }
+      ],
+      "notes": [
+        "that節は主張の内容であり、提出する書類ではない。I submit that the estimate is too low. は「見積もりが低すぎると主張する」、I submit the estimate. は語義1の「見積書を提出する」。日常の軽い提案には suggest や think を使うほうが自然で、submit は大げさに響くことがある。respectfully がなくても正式な主張として成立し、常に控えめな確信を表すわけではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "contend",
+          "definition": "ある立場が正しいと主張する。",
+          "frequency": 5,
+          "difference": "議論で立場を維持する響きがあり、submit のような相手への丁重な提示は必須ではない。",
+          "example": "The authors contend that the policy increased costs.",
+          "translation": "著者たちは、その政策が費用を増加させたと主張している。"
+        },
+        {
+          "word": "argue",
+          "definition": "理由を挙げて意見を主張する。",
+          "frequency": 8,
+          "difference": "根拠を伴う論証を広く表す。submit は意見を正式に提示する言い方。",
+          "example": "The report argues that investment should be increased.",
+          "translation": "報告書は、投資を増やすべきだと論じている。"
+        },
+        {
+          "word": "maintain",
+          "definition": "ある主張が正しいと言い続ける。",
+          "frequency": 6,
+          "difference": "反論されても立場を保つ含みが出やすい。submit にはその持続性は必須ではない。",
+          "example": "The supplier maintained that the goods had arrived on time.",
+          "translation": "供給業者は、商品は期限どおりに到着していたと主張した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【動詞・他動詞】検査・処理などにかける",
+      "frequency": 3,
+      "register": [
+        "専門的・改まった技術文書。一般の提出義より低頻度。"
+      ],
+      "definition": "物・人などを、検査、分析、処理といった過程の対象にする。submit something to a process の形で、対象を送り届けることより処置にかけることに焦点がある。現代では subject something to のほうが明瞭な場合が多い。",
+      "patterns": [
+        "submit something to 〈検査・処理〉＝対象を～にかける",
+        "be submitted to 〈検査・処理〉＝～にかけられる"
+      ],
+      "collocations": [
+        {
+          "pattern": "submit a material to analysis",
+          "use": "物質そのものを分析の対象にする。",
+          "example": "The laboratory submitted the recovered material to chemical analysis.",
+          "translation": "研究所は、回収した物質を化学分析にかけた。"
+        },
+        {
+          "pattern": "be submitted to 〈試験・処理〉",
+          "use": "処理される対象を受動態の主語にする。",
+          "example": "The metal samples were submitted to repeated stress tests.",
+          "translation": "金属試料は、繰り返し応力試験にかけられた。"
+        }
+      ],
+      "notes": [
+        "submit the sample to the laboratory は提出先への送付、submit the sample to analysis は分析過程にかけること。同じ to でも後続名詞の役割が異なる。語義3の submit oneself to a test は本人が受け入れることだが、この他動詞用法は対象の同意を表さない。submitted specimens「提出された標本」だけではこの語義の実例とは限らない。"
+      ],
+      "synonyms": [
+        {
+          "word": "subject",
+          "definition": "人や物をある処置・作用の対象にする。",
+          "frequency": 6,
+          "difference": "この意味では subject something to a test が一般的。負担となる扱いにも広く使える。",
+          "example": "The team subjected every component to vibration testing.",
+          "translation": "チームは、すべての部品を振動試験にかけた。"
+        },
+        {
+          "word": "put through",
+          "definition": "人や物に検査・過程などを経験させる。",
+          "frequency": 6,
+          "difference": "submit より日常的で、過程を経させることに焦点がある。",
+          "example": "We put the prototype through several endurance tests.",
+          "translation": "私たちは、試作品にいくつかの耐久試験を行った。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【動詞・他動詞】相手にサブミッションで勝つ",
+      "frequency": 3,
+      "register": [
+        "格闘技・スポーツ報道。"
+      ],
+      "definition": "総合格闘技などで、関節技・絞め技などによるサブミッションで相手に勝つ。目的語は敗れる相手。相手の降参による勝利が典型だが、技による失神などのため試合が止められる場合を含むこともある。",
+      "patterns": [
+        "submit 〈対戦相手〉＝相手にサブミッションで勝つ",
+        "be submitted by 〈対戦相手〉＝相手にサブミッションで負ける"
+      ],
+      "collocations": [
+        {
+          "pattern": "submit an opponent",
+          "use": "サブミッション勝利を相手目的語で示す。",
+          "example": "She submitted her opponent in the second round.",
+          "translation": "彼女は、第2ラウンドで相手に一本勝ちした。"
+        },
+        {
+          "pattern": "be submitted by 〈対戦相手〉",
+          "use": "サブミッションで敗れた側を主語にする。",
+          "example": "The defending champion was submitted by the challenger.",
+          "translation": "前回王者は、挑戦者に一本負けした。"
+        }
+      ],
+      "notes": [
+        "The fighter submitted. は自動詞で「その選手が降参した」。The fighter submitted his opponent. は他動詞で「その選手が相手にサブミッションで勝った」。人を直接目的語にするこの競技用法を、通常の「書類を提出する」の人目的語版だと解釈しない。勝敗の判定や技の扱いは競技規則による。"
+      ],
+      "synonyms": [
+        {
+          "word": "defeat",
+          "definition": "試合・競争で相手に勝つ。",
+          "frequency": 8,
+          "difference": "勝ち方を限定しない。submit はサブミッションによる勝利を特定する。",
+          "example": "The challenger defeated the champion on points.",
+          "translation": "挑戦者は、得点で王者を破った。"
+        },
+        {
+          "word": "beat",
+          "definition": "試合などで相手を負かす。",
+          "frequency": 9,
+          "difference": "defeat より会話的で、勝ち方は指定しない。",
+          "example": "She beat a higher-ranked opponent in the final.",
+          "translation": "彼女は、決勝で自分より順位の高い相手に勝った。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
