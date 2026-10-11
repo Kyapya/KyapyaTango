@@ -3,7 +3,7 @@
   "slug": "overlook",
   "ipa": "米: /ˌoʊvərˈlʊk/｜英: /ˌəʊvəˈlʊk/",
   "lead": "存在する事実・誤り・可能性などに気づかず、注意や検討の対象に入れ損なう。実際に目で見る場面に限らず、重要性を十分認識しない場合にも使う。ここでは意図的に許すのではなく、認識や検討の抜けを表す。",
-  "updated": "2026-10-10",
+  "updated": "2026-10-11",
   "notion_url": "https://app.notion.com/p/overlook-3f54faa9b77d81078c62d158c05a9eea",
   "pronunciation": [
     "上は動詞の発音。3音節で、第3音節に主強勢、第1音節に第二強勢を置く。米英差は、第1音節の母音が米 /oʊ/・英 /əʊ/ であることと、第2音節末の /r/ を上の米語表記では発音し、英語表記では発音しないこと。第3音節の母音はどちらも /ʊ/。米語の名詞「展望地点」は /ˈoʊvərˌlʊk/ で、第1音節に主強勢、第3音節に第二強勢がある。動詞の過去形・過去分詞 overlooked の -ed は /t/ で、音節を増やさない。"
@@ -265,7 +265,7 @@
         }
       ],
       "notes": [
-        "正: The room overlooks the lake.／誤: The room overlooks at the lake. overlook 自体が目的語を取り、at・over を足さない。The balcony overlooks the garden.「バルコニーから庭が見える」と The garden is overlooked by the balcony.「庭はバルコニーから見下ろされる」では主語と視線の方向が逆。Our garden is overlooked. は、外から見通されるというプライバシー上の含みを持つことがあり、「庭からの景色がよい」とは限らない。主語は建物だけに限定されないが、人の一時的な動作には look down at／look out over もよく使う。"
+        "正: The room overlooks the lake.／誤: The room overlooks at the lake. overlook 自体が目的語を取り、at・over を足さない。The balcony overlooks the garden.「バルコニーから庭が見える」と The garden is overlooked by the balcony.「庭はバルコニーから見下ろされる」では主語が異なるが、視線の方向はどちらもバルコニーから庭へ向かう。能動文は見る側の場所、受動文は見られる場所を主語にする。Our garden is overlooked. は、外から見通されるというプライバシー上の含みを持つことがあり、「庭からの景色がよい」とは限らない。主語は建物だけに限定されないが、人の一時的な動作には look down at／look out over もよく使う。"
       ],
       "synonyms": [
         {
@@ -319,7 +319,7 @@
           "pattern": "overlook someone for a position",
           "use": "選考する側を主語にする。",
           "example": "The panel overlooked an experienced internal applicant for the position.",
-          "translation": "選考委員会は、その職について経験豊かな社内応募者を選ばなかった。"
+          "translation": "選考委員会は、その職の選考で、経験豊かな社内応募者を選ばなかった。"
         },
         {
           "pattern": "be overlooked in favour of someone else",
@@ -440,7 +440,7 @@
           "frequency": 5,
           "difference": "景観を見る場所だけでなく、監視・警戒のための見張り場にも使える。",
           "example": "A wooden platform marks the lookout at the top of the hill.",
-          "translation": "丘の頂上にある見晴らし台には、木製の足場が設けられている。"
+          "translation": "丘の頂上の展望地点には、目印となる木製の台がある。"
         },
         {
           "word": "vantage point",
