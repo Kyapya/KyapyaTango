@@ -12,11 +12,15 @@
   "formation": [
     {
       "term": "wages",
-      "description": "名詞では「賃金」の複数形として定着し、通常は複数の動詞と結び付く。動詞 wage の三人称単数現在形でもある。"
+      "description": "名詞では「賃金」の複数形として定着し、主語になる場合は通常複数扱いにして are・were などを用いる。動詞 wage の三人称単数現在形でもある。"
     },
     {
       "term": "waged",
-      "description": "・waging：動詞の活用形。waging は語末の e を落とす。a war waged overseas「海外で行われた戦争」の waged は動詞の過去分詞で、「賃金をもらう戦争」ではない。waged には「有給の」という別の形容詞用法もあり、語義3・4で扱う。"
+      "description": "動詞の過去形・過去分詞。a war waged overseas「海外で行われた戦争」の waged は動詞の過去分詞で、「賃金をもらう戦争」ではない。waged には「有給の」という別の形容詞用法もあり、語義3・4で扱う。"
+    },
+    {
+      "term": "waging",
+      "description": "動詞の現在分詞。語末の e を落として -ing を付ける。"
     },
     {
       "term": "wage earner",
@@ -24,7 +28,11 @@
     },
     {
       "term": "low-wage",
-      "description": "・high-wage：名詞前の複合形容詞。「低賃金の」「高賃金の」。a low-wage job「低賃金の仕事」。"
+      "description": "名詞前の複合形容詞。「低賃金の」。a low-wage job「低賃金の仕事」。"
+    },
+    {
+      "term": "high-wage",
+      "description": "名詞前の複合形容詞。「高賃金の」。"
     },
     {
       "term": "wage bill",
@@ -238,7 +246,7 @@
         }
       ],
       "notes": [
-        "名詞 wage「賃金」と混同し、wage workers で「労働者に賃金を払う」としない。現代の通常の言い方は pay workers their wages。wage war は無冠詞の war、wage a war は特定の戦争を1つのものとして捉える表現。a campaign・a battle には単数の冠詞が必要。対象は on または against、支持する目標は for、実現したい行動は to 不定詞で示せる。declare war「宣戦する」と wage war「戦争を行う」は同じ行為ではない。wage a project のように一般的な業務すべてへ機械的に広げず、carry out a project などを使う。"
+        "名詞 wage「賃金」と混同し、wage workers で「労働者に賃金を払う」としない。現代の通常の言い方は pay workers their wages。wage war は無冠詞の war、wage a war は特定の戦争を1つのものとして捉える表現。単数の campaign・battle には、通常 a・the・所有格などの限定詞が必要。対象は on または against、支持する目標は for、実現したい行動は to 不定詞で示せる。declare war「宣戦する」と wage war「戦争を行う」は同じ行為ではない。wage a project のように一般的な業務すべてへ機械的に広げず、carry out a project などを使う。"
       ],
       "synonyms": [
         {
@@ -293,7 +301,7 @@
           "pattern": "waged employment",
           "use": "無給活動などと区別して有給の仕事を述べる。",
           "example": "She returned to waged employment after several years of unpaid caregiving.",
-          "translation": "彼女は数年間無給で家族の介護をした後、有給の仕事に復帰した。"
+          "translation": "彼女は数年間、無給で介護などのケアを担った後、有給の仕事に復帰した。"
         },
         {
           "pattern": "waged work",
@@ -376,7 +384,7 @@
         }
       ],
       "notes": [
-        "the waged は複数扱いで、waged に -s を加えない。1人なら a waged worker とし、a waged を「有給労働者1人」という意味では使わない。the waged are ... のように複数の動詞を使う。料金制度で対象者をどう定めるかは個別規定による。"
+        "the waged は複数扱いで、waged に -s を加えない。1人なら a waged worker とし、a waged を「有給労働者1人」という意味では使わない。主語になる場合は複数扱いにし、the waged are ... のように言う。料金制度で対象者をどう定めるかは個別規定による。"
       ],
       "synonyms": [],
       "antonyms": [
