@@ -3,7 +3,7 @@
   "slug": "arbitrary",
   "ipa": "米: /ˈɑːrbɪtreri/｜英: /ˈɑːbɪtrəri/",
   "lead": "決定・規則・区分などが、納得できる理由や一貫した原則に基づかず、個人の好みやその場の都合で決まっている、またはそう見えること。通常は批判的で、不公平・予測困難という含みを伴いやすい。ただし、不公平な結果が必ず出たことまで語そのものが断定するわけではない。",
-  "updated": "2026-10-10",
+  "updated": "2026-10-11",
   "notion_url": "https://app.notion.com/p/arbitrary-3f54faa9b77d81fbab37e3105e0e4d33",
   "pronunciation": [
     "ここに示した形はともに4音節で、第1音節に主強勢がある。米英差は、第1音節末の /r/ が米音にはあり英音にはないことと、第3音節の母音が米音では /e/、英音では /ə/ となること。英音には第3音節の弱い /ə/ を省いた3音節の /ˈɑːbɪtri/ もある。arbitrarily の代表的な形は米 /ˌɑːrbɪˈtrerəli/・英 /ˌɑːbɪˈtrerəli/ で、ともに5音節、第1音節に第二強勢、第3音節に主強勢を置く。この副詞の2表記の差は第1音節末の /r/ の有無。英音には4音節で第1音節に主強勢を置く /ˈɑːbɪtrəli/ もあり、形容詞に機械的に -ly の音を足すだけとは限らない。"
@@ -256,7 +256,7 @@
         }
       ],
       "notes": [
-        "arbitrary は random「無作為な」と同じではない。Choose an arbitrary integer. は「整数を任意に一つ選ぶ」で、Choose a random integer. は確率的な選び方を意図する。任意に取った定数も、同じ議論の途中で値を自由に変更する変数にはならない。副詞の arbitrarily large/small は「必要に応じていくらでも大きい／小さい」という重要表現で、There are arbitrarily large prime numbers. は「どんな大きさの上限を置いても、それを超える素数がある」という意味。誤 arbitrary large numbers に対し、正 arbitrarily large numbers とする。an arbitrary large number なら arbitrary と large がともに number を修飾する別構造で、「大きい数を任意に一つ」という読みが可能。arbitrary code は「でたらめなコード」ではなく、実行側が選んだコード。実行に必要な条件や得られる権限は、arbitrary という語だけからは決まらない。"
+        "arbitrary は random「無作為な」と同じではない。Choose an arbitrary integer. は「整数を任意に一つ選ぶ」で、Choose a random integer. は確率的な選び方を意図する。任意に取った定数も、同じ議論の途中で値を自由に変更する変数にはならない。副詞の arbitrarily large/small は「必要に応じていくらでも大きい／小さい」という重要表現で、There are arbitrarily large prime numbers. は「どんな大きさの上限を置いても、それを超える素数がある」という意味。「いくらでも大きい数」を表す場合は、arbitrary large numbers ではなく arbitrarily large numbers とする。an arbitrary large number なら arbitrary と large がともに number を修飾する別構造で、「大きい数を任意に一つ」という読みが可能。arbitrary code は「でたらめなコード」ではなく、実行側が選んだコード。実行に必要な条件や得られる権限は、arbitrary という語だけからは決まらない。"
       ],
       "synonyms": [
         {
@@ -265,7 +265,7 @@
           "frequency": 6,
           "difference": "arbitrary は選択の一般性を表せるが、unspecified は単に指定・開示がないこと。値が不明でも、任意の値で成立するとは限らない。",
           "example": "The program waits for an unspecified number of seconds.",
-          "translation": "そのプログラムは、秒数が指定されていない時間だけ待機する。"
+          "translation": "そのプログラムは何秒間か待機するが、具体的な秒数は明示されていない。"
         },
         {
           "word": "any",
