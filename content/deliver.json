@@ -40,7 +40,7 @@
     },
     {
       "term": "redeliver",
-      "description": "再配達する。語頭の re- に「再び」を加える。"
+      "description": "再配達する。語頭に re- を付け、「再び」の意味を加える。"
     }
   ],
   "core": [
@@ -197,7 +197,7 @@
       "register": [
         "ビジネス、行政、教育、医療、IT。一般の「与える」より業務的な響きがある。"
       ],
-      "definition": "医療・教育・支援・情報・エネルギーなどを、利用者が受けられる形で提供する。計画や準備だけでなく、提供活動そのものに焦点を置く。商品を製造して顧客へ納めることにも使う。",
+      "definition": "医療・教育・支援・情報・エネルギーなどを、利用者が受けられる形で提供する。計画や準備だけでなく、提供活動そのものに焦点を置く。製品を顧客へ納入することにも使う。",
       "patterns": [
         "deliver services to someone＝人にサービスを提供する",
         "deliver training＝研修を実施する",
@@ -232,13 +232,13 @@
         },
         {
           "pattern": "deliver a product to a customer",
-          "use": "製品の完成から顧客への納入までを業務上の結果として述べる。",
+          "use": "顧客への製品納入を業務上の実績として述べる。",
           "example": "The manufacturer delivered its first electric bus to a customer last month.",
           "translation": "その製造会社は先月、同社初の電気バスを顧客に納入した。"
         }
       ],
       "notes": [
-        "deliver training は「研修の資料を配達する」とは限らず、研修を実施すること。deliver a service は可算の個別サービスを、deliver services は複数種類や継続的な業務を表せる。deliver quality service の service は不可算でもよい。商品では語義1の物理的配達と重なるが、製造業の納入実績を述べる場合には製品を完成させ顧客へ渡す業務全体が焦点になる。能力や予定を述べる can deliver、will deliver は提供完了を保証する表現ではない。"
+        "deliver training は「研修の資料を配達する」とは限らず、研修を実施すること。deliver a service は可算の個別サービスを、deliver services は複数種類や継続的な業務を表せる。deliver quality service の service は不可算でもよい。商品では語義1の物理的配達と重なる。製造業では完成品の納入実績を述べることにも使うが、deliver 自体が製造工程まで意味するわけではない。能力や予定を述べる can deliver、will deliver は提供完了を保証する表現ではない。"
       ],
       "synonyms": [
         {
@@ -434,7 +434,7 @@
       "definition": "演説・講義・説教などを聞き手に向けて行う。また、評決・判断・警告・台詞などを、言葉として相手に伝える。内容を考えるだけでなく、実際に発する・提示することを表す。",
       "patterns": [
         "deliver a speech＝演説する",
-        "deliver a lecture on something＝ある 主題について講義する",
+        "deliver a lecture on something＝ある主題について講義する",
         "deliver a sermon＝説教する",
         "deliver a verdict＝評決を言い渡す",
         "deliver a warning＝警告を発する",
@@ -1004,9 +1004,9 @@
       "synonyms": [
         {
           "word": "hold forth",
-          "definition": "ある 主題について長々と話す。",
+          "definition": "ある主題について長々と話す。",
           "frequency": 4,
-          "difference": "長い一方的な話という点で重なり、on で 主題を示せる。deliver oneself of は自分の意見・演説という発言内容を of の後ろに置く。",
+          "difference": "長い一方的な話という点で重なり、on で主題を示せる。deliver oneself of は自分の意見・演説という発言内容を of の後ろに置く。",
           "example": "He held forth on the failings of modern architecture.",
           "translation": "彼は現代建築の欠点について長々と論じた。"
         },

@@ -16,7 +16,7 @@
     },
     {
       "term": "supply",
-      "description": "動詞「供給する」、名詞「供給・供給量」。人の supplier と行為・量の supply を区別する。"
+      "description": "動詞「供給する」、名詞「供給・供給量」。供給主体を表す supplier と行為・量の supply を区別する。"
     },
     {
       "term": "supplier base",
@@ -95,7 +95,7 @@
           "pattern": "a sole supplier",
           "use": "特定の調達範囲において供給元がひとつだけであることを示す。",
           "example": "Relying on a sole supplier for this component could delay production if its factory closes.",
-          "translation": "この部品を唯一の供給業者に依存すると、その工場が閉鎖された場合に生産が遅れるおそれがある。"
+          "translation": "この部品の調達で唯一の供給業者に依存すると、その工場が閉鎖された場合に生産が遅れるおそれがある。"
         }
       ],
       "notes": [
@@ -124,7 +124,7 @@
           "frequency": 7,
           "difference": "流通段階で再販売・配送を担う役割を示す。supplier は流通段階を指定せず、製造者自身でもよい。",
           "example": "The manufacturer appointed a distributor for the region.",
-          "translation": "その製造会社はその地域の販売代理店を指定した。"
+          "translation": "その製造会社はその地域の販売業者を指定した。"
         },
         {
           "word": "purveyor",
