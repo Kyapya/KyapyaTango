@@ -3,7 +3,7 @@
   "slug": "sustain",
   "ipa": "米・英: /səˈsteɪn/",
   "lead": "活動・状態・水準・関心・音などを、弱まったり途絶えたりしないよう、ある期間保つ。「既にあるものを続ける」ことに焦点があり、それを新しく生み出す、必ず増やす、永久に続けるという意味ではない。人の努力だけでなく、条件・資金・仕組みなども主語になる。",
-  "updated": "2026-10-10",
+  "updated": "2026-10-11",
   "notion_url": "https://app.notion.com/p/sustain-3f54faa9b77d81819feef72105512284",
   "pronunciation": [
     "2音節で、第2音節 /steɪn/ に主強勢がある。第1音節の母音は弱い /ə/。sustained は /səˈsteɪnd/ で、語末の -ed は /d/ と発音し、音節を増やさない。sustaining は /səˈsteɪnɪŋ/。音楽の名詞 sustain も動詞と同じ発音。"
@@ -19,7 +19,7 @@
     },
     {
       "term": "sustaining",
-      "description": "分詞のほか、「生命・気力などを支える」という形容詞的な用法。a sustaining meal「力のつく食事」、the sustaining power of friendship「友情の支える力」。sustained「継続している」と、支えを与える側を表す sustaining を区別する。"
+      "description": "分詞のほか、「生命・気力などを支える」という形容詞的な用法。a sustaining meal「力のつく食事」、the sustaining power of friendship「友情が心を支える力」。sustained「継続している」と、支えを与える側を表す sustaining を区別する。"
     },
     {
       "term": "sustainable",
@@ -91,12 +91,11 @@
       ],
       "definition": "活動・状態・水準・関心・音などを、弱まったり途絶えたりしないよう、ある期間保つ。「既にあるものを続ける」ことに焦点があり、それを新しく生み出す、必ず増やす、永久に続けるという意味ではない。人の努力だけでなく、条件・資金・仕組みなども主語になる。",
       "patterns": [
-        "sustain something＝活動・水準などを直接目的語に取る。sustain something for 〈期間〉",
-        "sustain something over 〈期間〉＝持続期間を添える。sustain someone's interest in something＝人のある対象への関心を保つ。be sustained by something＝ある要因によって継続が保たれる。sustain something at 〈水準〉＝一定の水準で保つ。sustain a note＝音を伸ばす。継続そのものを自動詞で述べる通常の文では continue/last を使う。"
+        "sustain something＝活動・水準などを直接目的語に取る。sustain something for 〈期間〉＝どのくらい持続させるかを示す。sustain something over 〈期間〉＝どの期間にわたって持続させるかを示す。sustain someone's interest in something＝人のある対象への関心を保つ。be sustained by something＝ある要因によって継続が保たれる。sustain something at 〈水準〉＝一定の水準で保つ。sustain a note＝音を伸ばす。継続そのものを自動詞で述べる通常の文では continue/last を使う。"
       ],
       "collocations": [
         {
-          "pattern": "sustain economic growth",
+          "pattern": "sustain growth",
           "use": "経済や事業の成長が続くようにする。",
           "example": "The company needs repeat customers to sustain growth after the initial launch.",
           "translation": "その会社が発売直後の時期を過ぎても成長を続けるには、リピーターが必要だ。"
@@ -303,9 +302,7 @@
       ],
       "definition": "人・物・組織が、けが、損傷、損失、敗北などの好ましくない出来事・結果を経験する。主語は被害を受ける側、目的語は受けた不利益。能動形でも「損害を与える側」ではない。被害が長く続く、主語が無事に耐えた、本人に責任がある、という意味は含まない。",
       "patterns": [
-        "someone sustains an injury",
-        "someone sustains injuries＝人がけがをする。something sustains damage＝物が損傷を受ける。a company sustains a loss",
-        "a company sustains losses＝企業が損失を被る。sustain a defeat＝敗北を喫する。injuries/damage sustained in/during 〈出来事〉＝受けたけが・損傷を過去分詞で後置修飾する。受動態は Injuries were sustained by ... のように成立するが、主語を人にした通常の能動文が分かりやすい。"
+        "someone sustains an injury＝人が一つのけがをする。someone sustains injuries＝人が複数のけがをする。something sustains damage＝物が損傷を受ける。a company sustains a loss＝企業が損失を被る。a company sustains losses＝企業が損失を被る（loss の複数形。損失額や被害をまとめて表すこともある）。sustain a defeat＝敗北を喫する。injuries/damage sustained in/during 〈出来事〉＝受けたけが・損傷を過去分詞で後置修飾する。受動態は Injuries were sustained by ... のように成立するが、主語を人にした通常の能動文が分かりやすい。"
       ],
       "collocations": [
         {
@@ -552,7 +549,7 @@
           "frequency": 7,
           "difference": "人が苦難を長く我慢する場面に向く。構造物が重量を支えるという物理的な支持は中心義ではない。",
           "example": "The residents endured months of disruption.",
-          "translation": "住民たちは、生活が混乱した数か月を耐えた。"
+          "translation": "住民たちは、数か月にわたる生活の混乱に耐えた。"
         }
       ],
       "antonyms": []
@@ -665,10 +662,7 @@
       ],
       "definition": "裁判所・裁判官などが、主張・異議・申立てを有効または正当と認めたり、既になされた判断を妥当として維持したりする。法廷で sustain an objection は「異議を認める」。異議の対象となった質問・証拠などについての判断であり、その語だけで事件全体の勝敗・有罪・無罪を決めるものではない。",
       "patterns": [
-        "a judge/court + sustain + 〈異議・主張・申立て〉＝判断する主体を主語にする。sustain an objection",
-        "sustain a claim",
-        "sustain a motion。sustain a decision/verdict＝既存の判断を維持する。an objection is sustained＝異議を主語にした受動態。Objection sustained.",
-        "Sustained. は裁判官の短い応答として使う。"
+        "a judge/court + sustain + 〈異議・主張・申立て〉＝判断する主体を主語にする。sustain an objection＝異議を認める。sustain a claim＝主張を認める。sustain a motion＝申立てを認める。sustain a decision/verdict＝既存の判断を維持する。an objection is sustained＝異議を主語にした受動態。Objection sustained.＝「異議を認めます」という裁判官の短い応答。Sustained.＝同じ応答を一語で表す。"
       ],
       "collocations": [
         {
