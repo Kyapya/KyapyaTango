@@ -1,0 +1,862 @@
+{
+  "word": "supply",
+  "slug": "supply",
+  "ipa": "通常の名詞・動詞と「代用の」の用法は、米・英: /səˈplaɪ/。2音節で第2音節に主強勢があり、第1音節の母音は弱い /ə/。supplies は /səˈplaɪz/、supplied は /səˈplaɪd/ で、語尾を付けても音節は増えない。supplying は /səˈplaɪ.ɪŋ/。",
+  "lead": "人・組織・場所などが必要とする物や情報・サービスを、使えるように提供する。大量・継続的な供給に使われやすいが、一度の提供にも使える。有償の販売、物理的な輸送、人間の意図的行為に限定されず、川・電源・食品なども主語になる。",
+  "updated": "2026-10-11",
+  "notion_url": "https://app.notion.com/p/supply-3f64faa9b77d81f88c08ff3899610096",
+  "pronunciation": [
+    "語義12の別系統の副詞は、米・英: /ˈsʌp.li/。こちらも2音節だが、第1音節が強く、その母音は /ʌ/、第2音節の母音は /i/。「供給する」の /səˈplaɪ/ と強勢・母音の両方が異なる。"
+  ],
+  "etymology": [
+    "通常の supply は中英語、フランス語の系統を経て、ラテン語 supplere「満たす・足りないところを補う」にさかのぼる。sub- と plere「満たす」が背景にあり、supplement「補足・補うもの」、complete「完全な」も「満たす」の語根を共有する。名詞は動詞に関連して発達した。",
+    "語義12の supply は supple「しなやかな」に副詞の -ly が付いた別系統で、supplely の異形。supple はフランス語を経てラテン語 supplex「懇願する・従順な」にさかのぼり、「供給」の語源と同一視しない。"
+  ],
+  "formation": [
+    {
+      "term": "supplies",
+      "description": "動詞の三人称単数現在、または名詞の複数形。語義3では複数形で「必需品・備品」を表す。"
+    },
+    {
+      "term": "supplied",
+      "description": "過去形・過去分詞。supplied information「提供された情報」のような修飾にも使うが、独立した評価的意味は加わらない。"
+    },
+    {
+      "term": "supplying",
+      "description": "現在分詞・動名詞。y を i に変えずに -ing を付ける。"
+    },
+    {
+      "term": "supplier",
+      "description": "供給者・納入業者。人・会社・国など供給する側を表す可算名詞。"
+    },
+    {
+      "term": "resupply",
+      "description": "再補給する、または再補給。特に軍事・救援・遠征などで使う。"
+    },
+    {
+      "term": "oversupply",
+      "description": "過剰供給、または過剰に供給すること。"
+    },
+    {
+      "term": "supply chain",
+      "description": "原材料調達から生産・流通へ連なる供給網。単なる配達経路だけを意味しない。"
+    },
+    {
+      "term": "supply-side",
+      "description": "経済の供給側に関する。名詞の前で使う複合形容詞。"
+    },
+    {
+      "term": "supplely",
+      "description": "語義12の副詞と同じ「しなやかに」。通常の「供給する」の派生語ではない。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "語義1〜11の核は「必要なところへ、使うものや働き手を補い入れる」。補う行為、利用可能な量、補う品や仕組み、人の代わりを区別すると広がりを捉えやすい。語義12は同綴異義で、「しなやかに」という語彙的意味がこの核から導けないため、個別に参照する。"
+    },
+    {
+      "type": "item",
+      "text": "必要なものを補い入れる行為 → 「供給する・提供する」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "必要なものを補い入れられる量 → 「供給量・蓄え」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "必要なものとして補い入れる品 → 「必需品・備品・物資」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "必要なものを補い入れる活動 → 「供給・補給」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "必要なものを補い入れる仕組み → 「供給系統・供給源・電源装置」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "必要な内容を補い入れる行為 → 「欠けた語・情報を補う」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "必要な働きを器官に補い入れる役割 → 「血液を供給する・神経支配する」（語義7）"
+    },
+    {
+      "type": "item",
+      "text": "必要な人の代わりを補い入れる性質 → 「代用の・臨時の」（語義8）"
+    },
+    {
+      "type": "item",
+      "text": "必要な人の代わりを補い入れる人や勤務 → 「代役・代講」（語義9）"
+    },
+    {
+      "type": "item",
+      "text": "必要な人の代わりを補い入れる務め → 「一時的に代役を務める」（語義10）"
+    },
+    {
+      "type": "item",
+      "text": "必要な公費を補い入れる議会の措置 → 「政府支出のための資金・歳出承認」（語義11）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞】供給する・提供する",
+      "frequency": 9,
+      "register": [
+        "一般、ビジネス、製造、公共サービス、科学。"
+      ],
+      "definition": "人・組織・場所などが必要とする物や情報・サービスを、使えるように提供する。大量・継続的な供給に使われやすいが、一度の提供にも使える。有償の販売、物理的な輸送、人間の意図的行為に限定されず、川・電源・食品なども主語になる。",
+      "patterns": [
+        "supply something＝物・情報を提供する",
+        "supply someone with something＝人にその物を供給する",
+        "supply something to someone＝その物を人に供給する",
+        "supply something for 〈目的〉＝その目的のために物を用意する",
+        "supply 〈場所・組織〉＝その場所・組織に必要なものを供給する",
+        "be supplied with something＝物を供給される・物が付属する",
+        "be supplied by 〈供給元〉＝その供給元から供給される",
+        "supply someone's needs＝人の必要を満たす。"
+      ],
+      "collocations": [
+        {
+          "pattern": "supply someone with something",
+          "use": "受け手を目的語、供給物を with の後ろに置く。",
+          "example": "The hotel supplies guests with clean towels every day.",
+          "translation": "そのホテルは毎日、宿泊客に清潔なタオルを提供する。"
+        },
+        {
+          "pattern": "supply something to someone",
+          "use": "供給物を目的語、受け手を to の後ろに置く。",
+          "example": "This company supplies packaging materials to local bakeries.",
+          "translation": "この会社は地元のパン屋に包装資材を供給している。"
+        },
+        {
+          "pattern": "supply information",
+          "use": "物品以外の情報を提供する。",
+          "example": "Applicants must supply accurate information about their previous employment.",
+          "translation": "応募者は過去の職歴について正確な情報を提供しなければならない。"
+        },
+        {
+          "pattern": "supply something for 〈目的〉",
+          "use": "供給の用途を示す。",
+          "example": "The charity supplied blankets for the emergency shelter.",
+          "translation": "その慈善団体は緊急避難所用に毛布を提供した。"
+        },
+        {
+          "pattern": "supply 〈場所〉",
+          "use": "供給内容が文脈で明らかな場合、場所を直接目的語にする。",
+          "example": "The reservoir supplies three nearby towns with drinking water.",
+          "translation": "その貯水池は近隣の3つの町に飲料水を供給している。"
+        },
+        {
+          "pattern": "be supplied with something（supply の受動態）",
+          "use": "必要品の支給や製品への付属品を説明する。",
+          "example": "Each microphone is supplied with a protective case.",
+          "translation": "マイクには1本ずつ保護ケースが付属する。"
+        },
+        {
+          "pattern": "be supplied by 〈供給元〉（supply の受動態）",
+          "use": "供給者・供給源を受動態で示す。",
+          "example": "Most of the electricity is supplied by the wind farm.",
+          "translation": "電力の大部分はその風力発電所から供給されている。"
+        },
+        {
+          "pattern": "supply someone's needs",
+          "use": "必要とされるものを十分に提供するという、やや改まった用法。",
+          "example": "The small garden supplies all the family's vegetable needs in summer.",
+          "translation": "その小さな菜園は夏の間、家族が必要とする野菜をすべてまかなう。"
+        }
+      ],
+      "notes": [
+        "学習上の基本形は supply people with goods と supply goods to people。受け手と物を逆にした supply goods with people は意図した意味にならない。supply someone something も辞書に載るが、二重目的語形を基本形として広げるより with または to の形が確実。be supplied with では主語が受け手、with の後ろが供給物を示す。be supplied by の by の後ろは供給元を示す。The office is supplied with paper. は紙が供給されること、The office is supplied by a local firm. は地元業者が供給することを表す。supply は提供・供給の役割に焦点があり、具体的な配達の完了だけを指す deliver とは範囲が異なる。"
+      ],
+      "synonyms": [
+        {
+          "word": "provide",
+          "definition": "必要なものを利用できるように与える・用意する。",
+          "frequency": 10,
+          "difference": "物・情報・機会など対象が広い。supply は一定の需要や継続的な使用に応じて供給する関係を連想させやすい。",
+          "example": "The website provides information about local buses.",
+          "translation": "そのウェブサイトは地域のバスに関する情報を提供している。"
+        },
+        {
+          "word": "furnish",
+          "definition": "必要な物や情報を与える・備え付ける。",
+          "frequency": 6,
+          "difference": "供給義では supply より改まった語で、証拠や必要情報の提出にも使う。家具を備え付ける別義もある。",
+          "example": "The applicant furnished the committee with supporting documents.",
+          "translation": "応募者は委員会に裏付け資料を提出した。"
+        },
+        {
+          "word": "equip",
+          "definition": "必要な道具・設備・技能などを備えさせる。",
+          "frequency": 8,
+          "difference": "使える状態・活動できる状態に整える点が中心。supply は消耗品などを繰り返し渡す行為にも広く使う。",
+          "example": "The laboratory is equipped with new microscopes.",
+          "translation": "その実験室には新しい顕微鏡が備え付けられている。"
+        },
+        {
+          "word": "provision",
+          "definition": "食料などの必要物資を備え付ける・補給する。",
+          "frequency": 4,
+          "difference": "旅・船・軍隊などへのまとまった準備に使われやすい。supply のように一般の情報提供全般には使わない。",
+          "example": "The ship was provisioned for a six-week voyage.",
+          "translation": "その船には6週間の航海に必要な物資が積み込まれた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算・不可算】供給量・蓄え",
+      "frequency": 9,
+      "register": [
+        "一般、ビジネス、経済。人材・資金・時間・忍耐などにも広がる。"
+      ],
+      "definition": "利用できる、または提供される物・人材などの量。a supply of ではひとまとまりの量・備えとして捉え、供給全体を論じる supply は不可算にもなる。経済では、市場で販売に回される財・サービスの量や供給の側を指し、倉庫にある在庫だけとは限らない。",
+      "patterns": [
+        "a supply of something＝ひとまとまりの蓄え・供給量",
+        "a limited supply of something＝限られた量の蓄え",
+        "a month's supply of something＝1か月分の蓄え",
+        "be in short supply＝供給が乏しい・不足している",
+        "be in plentiful supply＝豊富に手に入る",
+        "supply and demand＝供給と需要",
+        "the money supply＝通貨供給量",
+        "supplies of something＝複数の供給量・蓄え。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a supply of 〈物〉",
+          "use": "利用できる物のまとまりを示す。",
+          "example": "Keep a supply of spare batteries in the drawer.",
+          "translation": "引き出しに予備の電池を用意しておいてください。"
+        },
+        {
+          "pattern": "a limited supply of something",
+          "use": "手に入る量に限りがあることを示す。",
+          "example": "We have only a limited supply of replacement parts.",
+          "translation": "私たちには交換部品の在庫が限られた量しかない。"
+        },
+        {
+          "pattern": "a month's supply of something",
+          "use": "使用期間で量を表す。",
+          "example": "The package contains a month's supply of coffee for one person.",
+          "translation": "そのパッケージには1人で1か月飲む分のコーヒーが入っている。"
+        },
+        {
+          "pattern": "be in short supply",
+          "use": "必要に対して不足していることを表す定型句。",
+          "example": "Experienced technicians are in short supply in this region.",
+          "translation": "この地域では経験豊富な技術者が不足している。"
+        },
+        {
+          "pattern": "be in plentiful supply",
+          "use": "十分な量を入手できることを示す。",
+          "example": "Fresh fruit is in plentiful supply at this time of year.",
+          "translation": "この時期は新鮮な果物が豊富に手に入る。"
+        },
+        {
+          "pattern": "supply and demand",
+          "use": "市場の供給側と需要側を併せて述べる。",
+          "example": "The report examines how supply and demand affect rental prices.",
+          "translation": "その報告書は、供給と需要が賃貸料にどう影響するかを検討している。"
+        },
+        {
+          "pattern": "the money supply",
+          "use": "経済で流通する通貨の量を表す。",
+          "example": "The article compares changes in the money supply with changes in consumer prices.",
+          "translation": "その記事は通貨供給量の変化と消費者物価の変化を比較している。"
+        },
+        {
+          "pattern": "supplies of something（supply の複数形）",
+          "use": "地域や種類などに分かれる蓄え・供給量を複数形で扱う。",
+          "example": "Supplies of fresh water are shrinking in several parts of the country.",
+          "translation": "国内の複数の地域で淡水の供給量が減っている。"
+        }
+      ],
+      "notes": [
+        "in short supply には通常 a を入れず、in a short supply ではなく in short supply。a two-week supply と two weeks' supply はともに「2週間分」で、前者では week は単数、後者では複数の weeks の後ろにアポストロフィを置く。supplies of water の supplies は量の複数形であり、複数形ならすべて語義3の「備品」になるわけではない。経済の supply は特定の価格・期間で提供可能な量という条件付きで使われることがあるが、一般の「蓄え」の用法にその条件を持ち込まない。demand「需要」は市場で対になる概念であり、supply がない状態を意味する反意語ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "stock",
+          "definition": "使用・販売に備えて手元に置いてある物の量。",
+          "frequency": 8,
+          "difference": "現在保有する在庫・蓄えに焦点がある。supply は継続して入ってくる量や市場で入手可能な量まで含められる。",
+          "example": "We keep a small stock of spare keys.",
+          "translation": "私たちは少量の予備の鍵を保管している。"
+        },
+        {
+          "word": "reserve",
+          "definition": "将来や不足時のために残してある蓄え。",
+          "frequency": 8,
+          "difference": "すぐ使わず取っておく目的を強く示す。supply は日常的に使う分も含む。",
+          "example": "The town maintains an emergency reserve of drinking water.",
+          "translation": "その町は緊急用の飲料水を備蓄している。"
+        },
+        {
+          "word": "store",
+          "definition": "あとで使えるようにためてある物や知識など。",
+          "frequency": 6,
+          "difference": "蓄積されているまとまりに焦点がある。supply には外から供給され続ける量という捉え方もある。",
+          "example": "She has a remarkable store of knowledge about local history.",
+          "translation": "彼女には地域の歴史について驚くほど豊富な知識の蓄積がある。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・複数形】必需品・備品・物資",
+      "frequency": 8,
+      "register": [
+        "一般、業務、旅行、医療、救援、軍事。"
+      ],
+      "definition": "supplies の形で、仕事・生活・旅行・救援などに必要な食料、消耗品、資材、道具などをまとめて指す。用途によって「事務用品」「医療物資」「補給品」などと訳す。",
+      "patterns": [
+        "office supplies＝事務用品",
+        "medical supplies＝医療用品・医療物資",
+        "school supplies＝学用品",
+        "emergency supplies＝非常用物資",
+        "run out of supplies＝必要物資を使い果たす",
+        "stock up on supplies＝必要物資を買い込む・蓄える。"
+      ],
+      "collocations": [
+        {
+          "pattern": "office supplies（supply の複数形）",
+          "use": "紙やペンなど事務に使う用品をまとめる。",
+          "example": "Please order more envelopes with the next batch of office supplies.",
+          "translation": "次の事務用品の発注時に、封筒を追加で注文してください。"
+        },
+        {
+          "pattern": "medical supplies（supply の複数形）",
+          "use": "医療に必要な物品をまとめて指す。",
+          "example": "Volunteers sorted bandages and other medical supplies into boxes.",
+          "translation": "ボランティアたちは包帯やその他の医療用品を仕分けして箱に入れた。"
+        },
+        {
+          "pattern": "school supplies（supply の複数形）",
+          "use": "ノートや筆記具などの学用品を指す。",
+          "example": "The store sells school supplies throughout the year.",
+          "translation": "その店は年間を通じて学用品を販売している。"
+        },
+        {
+          "pattern": "emergency supplies（supply の複数形）",
+          "use": "災害などに備える物資を指す。",
+          "example": "The building has a locked cabinet for emergency supplies.",
+          "translation": "その建物には非常用物資を保管する施錠式の戸棚がある。"
+        },
+        {
+          "pattern": "run out of supplies（supply の複数形）",
+          "use": "必要物資が尽きることを表す。",
+          "example": "The hikers turned back before they ran out of supplies.",
+          "translation": "ハイカーたちは物資が尽きる前に引き返した。"
+        },
+        {
+          "pattern": "stock up on supplies（supply の複数形）",
+          "use": "使う予定の物資をまとめて用意する。",
+          "example": "We stocked up on supplies before the research trip.",
+          "translation": "私たちは調査旅行の前に必要物資を買いそろえた。"
+        }
+      ],
+      "notes": [
+        "この意味では複数の supplies を使い、Our supplies are running low. のように主語も複数扱いにする。備品1点を一般的に a supply と数えるのではなく、an item of equipment、a pen など物に合う表現を使う。a supply of paper は語義2の「ひとまとまりの紙の蓄え」。supplies は消耗品が多いが、必ず使い捨て品だけというわけではなく、領域により道具なども含む。"
+      ],
+      "synonyms": [
+        {
+          "word": "provisions",
+          "definition": "旅行や活動のために用意する食料などの必需品。",
+          "frequency": 5,
+          "difference": "食料を特に強く連想させる。supplies は紙・工具・医療器材など食料以外にも広い。",
+          "example": "They loaded enough provisions for the entire voyage.",
+          "translation": "彼らは航海全体に十分な食料などを積み込んだ。"
+        },
+        {
+          "word": "equipment",
+          "definition": "活動に必要な器具・機械・装備。",
+          "frequency": 9,
+          "difference": "道具・設備に焦点があり、通常は不可算。supplies は補給する消耗品や食料も含む複数名詞。",
+          "example": "All climbing equipment must be checked before use.",
+          "translation": "登山用具はすべて使用前に点検しなければならない。"
+        },
+        {
+          "word": "materials",
+          "definition": "物を作ることや活動に用いる材料・資材。",
+          "frequency": 8,
+          "difference": "作業で使用・加工するものに焦点がある。supplies はその活動に必要な道具や食料まで含められる。",
+          "example": "The workshop provides all the art materials.",
+          "translation": "その講習会では画材をすべて用意している。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・不可算】供給・補給",
+      "frequency": 8,
+      "register": [
+        "一般、契約、調達、公共サービス、軍事。"
+      ],
+      "definition": "必要な物・サービスを提供する行為や継続的な活動。語義2の「どのくらいあるか」より、供給する仕組みの運用や、相手に渡し続けることに焦点がある。軍事では食料・装備などの補給業務にも使う。",
+      "patterns": [
+        "the supply of something＝その物を供給すること",
+        "the supply of something to someone＝人への物の供給",
+        "a contract for the supply of something＝その物の供給契約",
+        "interrupt the supply of something＝供給を中断する",
+        "supply routes＝補給路。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the supply of goods and services",
+          "use": "商品・サービスを提供する活動全体を示す。",
+          "example": "The agreement covers the supply of goods and services to the hospital.",
+          "translation": "その契約は病院への物品とサービスの供給を対象とする。"
+        },
+        {
+          "pattern": "a contract for the supply of something",
+          "use": "供給することを契約の対象として示す。",
+          "example": "The firm won a contract for the supply of uniforms to the railway company.",
+          "translation": "その会社は鉄道会社への制服供給契約を獲得した。"
+        },
+        {
+          "pattern": "interrupt the supply of something",
+          "use": "継続的な提供が途切れることを示す。",
+          "example": "The strike interrupted the supply of raw materials to the factory.",
+          "translation": "ストライキにより、工場への原材料の供給が中断した。"
+        },
+        {
+          "pattern": "supply routes",
+          "use": "物資を送り続ける経路、特に軍事・救援の補給路を示す。",
+          "example": "The army reopened the supply routes to the isolated base.",
+          "translation": "軍は孤立した基地への補給路を再び開いた。"
+        }
+      ],
+      "notes": [
+        "行為を一般的に述べる場合は不可算。a supply of fuel は燃料のまとまった量を指すことが多く、a contract for the supply of fuel は供給する行為を契約対象として述べる。supply chain や supply route の supply は名詞の前で供給との関係を示す用法で、語義8の「臨時の」とは異なる。"
+      ],
+      "synonyms": [
+        {
+          "word": "provision",
+          "definition": "必要なものやサービスを利用できるように用意・提供すること。",
+          "frequency": 7,
+          "difference": "supply より準備・確保まで含めて述べやすく、教育・医療などのサービスにもよく使う。",
+          "example": "The report calls for better provision of public transport.",
+          "translation": "その報告書は公共交通の提供体制の改善を求めている。"
+        },
+        {
+          "word": "distribution",
+          "definition": "物を複数の場所や人へ配ること。",
+          "frequency": 8,
+          "difference": "配分・流通の過程に焦点がある。supply は供給先がひとつでもよく、必要な物を提供する関係を表す。",
+          "example": "The organization coordinates the distribution of emergency food.",
+          "translation": "その団体は緊急食料の配布を調整している。"
+        },
+        {
+          "word": "replenishment",
+          "definition": "減った在庫・物資などを補充すること。",
+          "frequency": 5,
+          "difference": "減少した分を補うことが前提。supply は最初の提供から継続供給まで含める。",
+          "example": "Automatic replenishment keeps the shelves stocked.",
+          "translation": "自動補充によって、棚の在庫が保たれている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞・可算・不可算】供給系統・供給源・電源装置",
+      "frequency": 7,
+      "register": [
+        "一般、住宅、設備、電気・電子機器。"
+      ],
+      "definition": "電気・水・ガスなどを使えるようにする供給系統や供給源。power supply は電力の供給そのものに加え、機器に必要な電力を与える電源装置も表す。系統をひとつのものとして指す場合や、装置を数える場合は可算になる。",
+      "patterns": [
+        "the water supply＝給水系統・水の供給",
+        "the electricity supply＝電力供給・電気の供給系統",
+        "a power supply＝電源装置・電源",
+        "disconnect something from the supply＝機器などを供給系統から切り離す",
+        "restore the supply＝供給を復旧させる",
+        "an uninterruptible power supply＝無停電電源装置。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the water supply",
+          "use": "住居などにつながる給水系統を指す。",
+          "example": "Turn off the water supply before replacing the tap.",
+          "translation": "蛇口を交換する前に給水を止めてください。"
+        },
+        {
+          "pattern": "disconnect something from the supply",
+          "use": "機器を電力などの供給源から切り離す。",
+          "example": "The technician disconnected the heater from the electricity supply.",
+          "translation": "技術者はヒーターを電源から切り離した。"
+        },
+        {
+          "pattern": "restore the supply",
+          "use": "途絶えていた供給系統の機能を戻す。",
+          "example": "Engineers worked through the night to restore the gas supply.",
+          "translation": "技術者たちはガス供給を復旧させるため、夜通し作業した。"
+        },
+        {
+          "pattern": "a power supply",
+          "use": "電気機器の電源装置を数える。",
+          "example": "The computer needs a new power supply because the old unit has failed.",
+          "translation": "古い装置が故障したため、そのコンピューターには新しい電源装置が必要だ。"
+        },
+        {
+          "pattern": "an uninterruptible power supply",
+          "use": "停電などの際にも機器への給電を継続する装置を指す。",
+          "example": "An uninterruptible power supply kept the server running during the brief outage.",
+          "translation": "短時間の停電中、無停電電源装置がサーバーの稼働を維持した。"
+        }
+      ],
+      "notes": [
+        "a power supply は装置1台を指せるが、power supplies がすべて語義3の「消耗品」を意味するわけではない。water supply は文脈により「供給水の量」（語義2）、「供給する行為」（語義4）、「供給系統」（本義）に焦点が移る。the supply を cut off する文だけで、必ず装置を物理的に切断したと訳さない。"
+      ],
+      "synonyms": [
+        {
+          "word": "source",
+          "definition": "電力・水などが得られる源。",
+          "frequency": 8,
+          "difference": "元の出所を表し、配管・配電を含む供給系統全体とは限らない。supply は利用者につながる系統や電源装置を指せる。",
+          "example": "The village depends on a single source of fresh water.",
+          "translation": "その村は淡水の供給源をひとつだけに頼っている。"
+        },
+        {
+          "word": "power unit",
+          "definition": "機器を作動させる動力・電力を供給する装置。",
+          "frequency": 4,
+          "difference": "power supply が指す電源装置と重なるが、power unit はエンジンなど機械的な動力装置にも使われる。",
+          "example": "The emergency power unit started automatically.",
+          "translation": "非常用動力装置が自動的に始動した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【動詞・他動詞】欠けた語・情報を補う",
+      "frequency": 6,
+      "register": [
+        "一般、学習問題、文章作成、説明。"
+      ],
+      "definition": "文・説明・推論などで欠けている語や情報を、言ったり書いたりして補う。語義1の情報提供に近いが、すでにある内容の空所・不足を埋めることに焦点がある。",
+      "patterns": [
+        "supply the missing word＝欠けている語を補う",
+        "supply the missing details＝不足する詳細を補う",
+        "supply a name＝思い出せない名前などを補って言う。"
+      ],
+      "collocations": [
+        {
+          "pattern": "supply the missing word",
+          "use": "空所補充問題で適切な語を書く。",
+          "example": "Supply the missing word in each sentence.",
+          "translation": "各文の空所に入る語を補ってください。"
+        },
+        {
+          "pattern": "supply the missing details",
+          "use": "不完全な説明を必要情報で補う。",
+          "example": "The second witness supplied the missing details of the incident.",
+          "translation": "2人目の目撃者が、その出来事について欠けていた詳細を補った。"
+        },
+        {
+          "pattern": "supply a name",
+          "use": "他人が思い出せない名前などを代わりに示す。",
+          "example": "When I forgot the designer's name, my colleague supplied it.",
+          "translation": "私がそのデザイナーの名前を忘れてしまったとき、同僚が代わりに教えてくれた。"
+        }
+      ],
+      "notes": [
+        "Supply the missing words. は「不足する単語を納品せよ」ではなく「空所を補え」。目的語は補って入れる内容で、fill in the blanks の blanks は空所そのものを指す。語義1との境界は近いが、この用法では何が不足しているかという文脈が必要になる。"
+      ],
+      "synonyms": [
+        {
+          "word": "fill in",
+          "definition": "文書などの空所に必要な内容を書き込む。",
+          "frequency": 8,
+          "difference": "fill in the blanks や fill in a form は空所・用紙を目的語にして記入を表す。fill in the details のように内容も目的語にできる。supply は欠けている語・情報そのものを補うことに焦点を置く。",
+          "example": "Fill in the blanks with the correct prepositions.",
+          "translation": "正しい前置詞で空所を埋めてください。"
+        },
+        {
+          "word": "insert",
+          "definition": "既存の文章などの中へ内容を挿入する。",
+          "frequency": 7,
+          "difference": "中へ入れる位置に焦点があり、欠落を補うとは限らない。supply は必要な内容が不足している場面に使う。",
+          "example": "Insert a comma after the introductory phrase.",
+          "translation": "導入句の後ろにコンマを入れてください。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【動詞・他動詞】血液を供給する・神経支配する",
+      "frequency": 4,
+      "register": [
+        "医学、解剖学。血液の供給は一般の説明にも使うが、神経を主語にする用法は専門的。"
+      ],
+      "definition": "血管が器官・組織へ血液を送り、または神経がそこへ分布して機能を担う。解剖学の supply an organ では、主語が血管か神経かにより「栄養する・血液を供給する」「神経支配する」と訳し分ける。",
+      "patterns": [
+        "an artery + supply + an organ＝動脈が器官に血液を供給する",
+        "a nerve + supply + a muscle＝神経が筋を支配する",
+        "an organ + be supplied by + an artery＝器官がその動脈から血液供給を受ける",
+        "a muscle + be supplied by + a nerve＝筋がその神経の支配を受ける。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an artery + supply + an organ",
+          "use": "血管が血液を送る対象を説明する。",
+          "example": "The diagram shows the arteries that supply the organ.",
+          "translation": "その図は、その器官に血液を供給する動脈を示している。"
+        },
+        {
+          "pattern": "a nerve + supply + a muscle",
+          "use": "神経がどの筋に分布し機能を担うかを説明する。",
+          "example": "The anatomy textbook identifies the nerve that supplies this muscle.",
+          "translation": "その解剖学の教科書には、この筋を支配する神経が示されている。"
+        },
+        {
+          "pattern": "a muscle + be supplied by + a nerve（supply の受動態）",
+          "use": "筋を主語にして神経支配を説明する。",
+          "example": "The examination asks which nerve the muscle is supplied by.",
+          "translation": "その試験では、その筋がどの神経の支配を受けるかを問うている。"
+        }
+      ],
+      "notes": [
+        "a nerve supplies a muscle の供給対象を勝手に血液と解釈しない。血管なら血液供給、神経なら神経分布・支配である。一般の supply blood to an organ は血液を目的語にする語義1の構文で、ここでは器官・筋自体を直接目的語にする専門用法を扱う。"
+      ],
+      "synonyms": [
+        {
+          "word": "innervate",
+          "definition": "神経が器官・筋などに分布して支配する。",
+          "frequency": 3,
+          "difference": "神経支配を明示する専門動詞。supply は血管にも神経にも使えるため、主語による読み分けが必要。",
+          "example": "The figure shows which nerves innervate the muscles of the hand.",
+          "translation": "その図は、手の筋をどの神経が支配するかを示している。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【形容詞・限定用法】代用の・臨時の",
+      "frequency": 4,
+      "register": [
+        "主に英国の教育。聖職者については教会関係の限定的な用法。"
+      ],
+      "definition": "本来の担当者が不在のときなどに、一時的にその人に代わって仕事をする。主に supply teacher「代講教員」で使い、supply minister など聖職者の臨時の代役にも使う。",
+      "patterns": [
+        "a supply teacher＝代講教員",
+        "supply teaching＝代講として教える仕事",
+        "a supply minister＝臨時に代役を務める牧師。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a supply teacher",
+          "use": "不在の教員に代わって授業をする人を指す。",
+          "example": "A supply teacher will cover the class while Ms Harris is away.",
+          "translation": "ハリス先生が不在の間は、代講教員がそのクラスを担当する。"
+        },
+        {
+          "pattern": "supply teaching",
+          "use": "代講教員として働く仕事を表す。",
+          "example": "She returned to education through supply teaching.",
+          "translation": "彼女は代講教員の仕事を通じて教育の現場に戻った。"
+        },
+        {
+          "pattern": "a supply minister",
+          "use": "教会で一時的に代役を務める聖職者を指す。",
+          "example": "A supply minister led the service while the regular pastor was on leave.",
+          "translation": "常任の牧師が休暇中の間、代役の牧師が礼拝を執り行った。"
+        }
+      ],
+      "notes": [
+        "通常は名詞の前で使い、She is supply. を「彼女は代講だ」の基本形にしない。She is a supply teacher. または語義9の She is on supply. と言う。米語の学校では substitute teacher が一般的。supply chain の supply は「供給に関する」という名詞修飾であり、この「代用の」と混同しない。辞書によっては本用法も名詞の前置修飾として整理する。"
+      ],
+      "synonyms": [
+        {
+          "word": "substitute",
+          "definition": "本来の人・物の代わりになる。",
+          "frequency": 6,
+          "difference": "人にも物にも広く使え、substitute teacher は特に米語で一般的。supply の代用義は職務の一時的な代役に限られやすい。",
+          "example": "A substitute teacher took our history lesson.",
+          "translation": "代講の先生が私たちの歴史の授業を担当した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 9,
+      "title": "【名詞・可算・不可算】代役・代講",
+      "frequency": 3,
+      "register": [
+        "主に英国の教育、教会。人を表す単独の a supply は限定的で、一般には a supply teacher などが明確。"
+      ],
+      "definition": "一時的に不在の人に代わる教員・聖職者などを指す可算名詞。英国の教育では、on supply の形で代講として勤務する状態・働き方も表す。",
+      "patterns": [
+        "a supply＝臨時の代役",
+        "be on supply＝代講として働いている",
+        "teach on supply＝代講教員として教える。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a supply",
+          "use": "教会の文脈で、臨時に代役を務める聖職者を指す。",
+          "example": "The church arranged for a supply to lead Sunday's service.",
+          "translation": "その教会は、日曜の礼拝を執り行う代役の聖職者を手配した。"
+        },
+        {
+          "pattern": "be on supply",
+          "use": "英国で代講教員として勤務している状態を述べる。",
+          "example": "She is on supply at a primary school this week.",
+          "translation": "彼女は今週、小学校で代講教員として働いている。"
+        },
+        {
+          "pattern": "teach on supply",
+          "use": "代講という働き方を示す。",
+          "example": "He taught on supply for a year before finding a permanent post.",
+          "translation": "彼は常勤の職を見つけるまで、1年間代講教員として教えた。"
+        }
+      ],
+      "notes": [
+        "on supply では通常冠詞を入れない。a supply なら代役の人、on supply なら代講勤務の状態であり、可算性と役割が異なる。語義8の supply teacher は人の名称で、supply が後ろの teacher を修飾する構造。"
+      ],
+      "synonyms": [
+        {
+          "word": "substitute",
+          "definition": "本来の人・物に代わる人・物。",
+          "frequency": 7,
+          "difference": "教員に限らず幅広い代役・代用品を指す。supply の名詞の代役義は教育・教会という文脈への依存が強い。",
+          "example": "The school called a substitute when the teacher became ill.",
+          "translation": "教員が病気になったため、その学校は代講教員を呼んだ。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 10,
+      "title": "【動詞・他動詞・自動詞】一時的に代役を務める",
+      "frequency": 2,
+      "register": [
+        "教会関係、古風または限定的な文章。"
+      ],
+      "definition": "本来の担当者に代わって、一時的に職務を務める。現代の一般会話ではまれで、特に教会の説教・牧会を代行する文脈に残る。",
+      "patterns": [
+        "supply the pulpit＝代わりに説教を担当する",
+        "supply at a church＝教会で臨時の代役を務める。"
+      ],
+      "collocations": [
+        {
+          "pattern": "supply the pulpit",
+          "use": "他動詞で、不在の聖職者に代わり説教を担当する。",
+          "example": "A retired minister agreed to supply the pulpit during the pastor's absence.",
+          "translation": "引退した牧師が、担当牧師の不在中に代わって説教をすることを引き受けた。"
+        },
+        {
+          "pattern": "supply at a church",
+          "use": "自動詞で、教会における臨時の代役を表す。",
+          "example": "He supplied at a small church during the summer.",
+          "translation": "彼は夏の間、小さな教会で臨時の牧師を務めた。"
+        }
+      ],
+      "notes": [
+        "supply the pulpit の pulpit は説教壇そのものを納入する意味にもなり得るため、聖職者が主語で不在者の代行を示す文脈が重要。日常の「同僚の代わりを務める」は fill in for a colleague や cover for a colleague を使うほうが一般的。"
+      ],
+      "synonyms": [
+        {
+          "word": "fill in",
+          "definition": "不在の人に代わって一時的に仕事をする。",
+          "frequency": 7,
+          "difference": "現代の一般会話で広く使い、代わられる人を for で示せる。supply のこの用法は教会などに限られやすい。",
+          "example": "Another minister filled in for her on Sunday.",
+          "translation": "日曜日には別の牧師が彼女の代役を務めた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 11,
+      "title": "【名詞・不可算、複数形もある】政府支出のための資金・歳出承認",
+      "frequency": 3,
+      "register": [
+        "英国および関連する議会制度の政治・財政報道。具体的な承認手続きは国・制度によって異なる。"
+      ],
+      "definition": "議会が政府の支出のために認める資金、またはその支出を認める議会の措置。英国などの議会政治で使い、一般の商品の供給とは区別する。",
+      "patterns": [
+        "vote supply＝政府支出のための資金を議決する",
+        "refuse supply＝政府への歳出承認を拒む",
+        "a confidence-and-supply agreement＝信任・予算関連の採決で政府を支える合意。"
+      ],
+      "collocations": [
+        {
+          "pattern": "vote supply",
+          "use": "議会が政府の支出に必要な承認を与えることを述べる。",
+          "example": "Parliament voted supply for the coming financial year.",
+          "translation": "議会は次の会計年度の政府支出のための資金を議決した。"
+        },
+        {
+          "pattern": "refuse supply",
+          "use": "議会が政府の支出承認を拒むという政治的な行為を示す。",
+          "example": "The opposition threatened to refuse supply to the minority government.",
+          "translation": "野党は少数与党政権への歳出承認を拒むと警告した。"
+        },
+        {
+          "pattern": "a confidence-and-supply agreement",
+          "use": "他党が信任や財政関連の採決で政府を支える取決めを指す。",
+          "example": "The two parties negotiated a confidence-and-supply agreement rather than forming a coalition.",
+          "translation": "2つの党は連立を組むのではなく、信任・予算関連の採決で協力する合意を交渉した。"
+        }
+      ],
+      "notes": [
+        "ここでの supply は物資の納入ではない。歴史的・制度的な文書には supplies という複数形もある。confidence-and-supply agreement は連立内閣を作ることと同じではなく、どの採決まで協力するかは合意内容による。supply bill など制度上の名称を、すべての国で同一の手続きだと一般化しない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 12,
+      "title": "【副詞・別系統・まれ】しなやかに",
+      "frequency": 1,
+      "register": [
+        "まれな文章語。現代の日常的な作文では supplely や状況に応じた別表現を使うほうが明確。"
+      ],
+      "definition": "supplely の異形で、身体や動きなどが柔らかく、しなやかに動くさま。発音は /ˈsʌp.li/ で、「供給する」の supply とは別語。",
+      "patterns": [
+        "move supply＝しなやかに動く",
+        "bend supply＝しなやかに曲がる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "move supply",
+          "use": "まれな文章語として、柔軟な動きを描写する。",
+          "example": "The dancer moved supply through the sequence of turns.",
+          "translation": "踊り手は一連の回転動作をしなやかにこなした。"
+        },
+        {
+          "pattern": "bend supply",
+          "use": "柔らかく曲がるさまを描写する。",
+          "example": "The slender branches bent supply in the breeze.",
+          "translation": "細い枝がそよ風にしなやかにたわんだ。"
+        }
+      ],
+      "notes": [
+        "この副詞を /səˈplaɪ/ と読まない。語義1の動詞を副詞として使っているのではなく、形容詞 supple からの別の形成。まれな綴りであるため、能動的に多用するより、読解時の混同を避けるために知っておく。"
+      ],
+      "synonyms": [
+        {
+          "word": "supplely",
+          "definition": "硬さやぎこちなさがなく、しなやかに。",
+          "frequency": 2,
+          "difference": "本義の supply と意味は同じで、綴りが異なる。supple との関係を明示し、供給の supply との綴り上の衝突を避けられる。",
+          "example": "The gymnast bent supplely at the waist.",
+          "translation": "体操選手は腰からしなやかに体を曲げた。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

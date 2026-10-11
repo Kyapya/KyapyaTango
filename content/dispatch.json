@@ -1,0 +1,862 @@
+{
+  "word": "dispatch",
+  "slug": "dispatch",
+  "ipa": "米・英: /dɪˈspætʃ/。2音節で、第2音節に主強勢。第1音節の母音は /ɪ/、第2音節は /æ/。米国の名詞では /ˈdɪsˌpætʃ/ もあり、この形は第1音節に主強勢、第2音節に第二強勢がある。基本形の発音には名詞・動詞の必須の区別はない。",
+  "lead": "商品・荷物・文書・連絡などを、特定の相手や場所へ送り出す。業務上の手配や目的を伴うことが多く、迅速な対応を思わせる場合もあるが、必ず即時であるとは限らない。送り出す側の動作であり、相手への到着完了までは意味しない。",
+  "updated": "2026-10-11",
+  "notion_url": "https://app.notion.com/p/dispatch-3f64faa9b77d815e992cd1468fe546f2",
+  "pronunciation": [
+    "dispatches は /dɪˈspætʃ.ɪz/、dispatched は /dɪˈspætʃt/、dispatching は /dɪˈspætʃ.ɪŋ/。dispatched の -ed は /t/ で、音節を追加しない。英国の異綴り despatch も /dɪˈspætʃ/。"
+  ],
+  "etymology": [
+    "イタリア語 dispacciare またはスペイン語 despachar「手早く処理する、送り出す」に由来し、その背景には「妨げを取り除く」という意味がある。古フランス語の「解き放つ」に関わる系統を通じ、impeach「弾劾する」とも歴史的に関連する。現代では「送り出す」と「手早く片付ける」の両方があり、発送義だけから食べ終える義や殺す義を機械的に推測しない。"
+  ],
+  "formation": [
+    {
+      "term": "dispatches",
+      "description": "名詞の複数形、または動詞の三人称単数現在形。前者は「複数の通信・報告」、後者は「発送する・派遣する」など。"
+    },
+    {
+      "term": "dispatched",
+      "description": "過去形・過去分詞。dispatched goods は発送された品物で、通常は動詞の受動的な意味を保つ。"
+    },
+    {
+      "term": "dispatching",
+      "description": "現在分詞、または発送・配車などの業務を表す動名詞。"
+    },
+    {
+      "term": "dispatcher",
+      "description": "可算名詞。「配車担当者、運行指令員、緊急通報の指令担当者」。必要な人員や車両を適切な場所へ送る手配をする。"
+    },
+    {
+      "term": "despatch",
+      "description": "英国で用いる名詞・動詞の異綴り。意味が別になるわけではない。dispatch は米英ともに使える。"
+    },
+    {
+      "term": "dispatch rider",
+      "description": "可算名詞。「伝令用のオートバイなどで公文書を運ぶ人」。主に英国。"
+    },
+    {
+      "term": "dispatchable",
+      "description": "形容詞。「指令に応じて稼働・供給できる」。特に dispatchable generation「出力を調整して供給できる発電」で使う。"
+    }
+  ],
+  "core": [],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞】発送する、送信する",
+      "frequency": 6,
+      "register": [
+        "やや硬い。物流、通販、業務連絡。日常の send より事務的。"
+      ],
+      "definition": "商品・荷物・文書・連絡などを、特定の相手や場所へ送り出す。業務上の手配や目的を伴うことが多く、迅速な対応を思わせる場合もあるが、必ず即時であるとは限らない。送り出す側の動作であり、相手への到着完了までは意味しない。",
+      "patterns": [
+        "dispatch something to someone＝何かを相手へ発送・送信する",
+        "dispatch 〈品物〉 from 〈場所〉＝その場所から品物を発送する",
+        "dispatch an order＝注文品を発送する",
+        "dispatch something by courier＝何かを配送業者便で送る",
+        "be dispatched within 〈期間〉＝その期間内に発送される"
+      ],
+      "collocations": [
+        {
+          "pattern": "dispatch something to someone",
+          "use": "荷物や連絡の宛先を示す。",
+          "example": "We dispatched the replacement charger to the customer this morning.",
+          "translation": "今朝、その顧客へ交換用の充電器を発送しました。"
+        },
+        {
+          "pattern": "dispatch 〈品物〉 from 〈場所〉",
+          "use": "発送元を明示する。",
+          "example": "All orders are dispatched from our central warehouse.",
+          "translation": "すべての注文品は当社の中央倉庫から発送されます。"
+        },
+        {
+          "pattern": "dispatch an order",
+          "use": "注文の受注処理と商品の発送を区別する。",
+          "example": "We cannot dispatch your order until payment has been confirmed.",
+          "translation": "お支払いを確認するまでは、ご注文品を発送できません。"
+        },
+        {
+          "pattern": "dispatch something by courier",
+          "use": "送り方を指定する。",
+          "example": "The signed contract was dispatched by courier.",
+          "translation": "署名済みの契約書は配送業者便で送られました。"
+        },
+        {
+          "pattern": "be dispatched within 〈期間〉",
+          "use": "発送までの所要時間を案内する。",
+          "example": "In-stock items are dispatched within two working days.",
+          "translation": "在庫のある商品は2営業日以内に発送されます。"
+        }
+      ],
+      "notes": [
+        "直接目的語が必要で、dispatch the parcel、dispatch it とする。送り先は to で示し、通常 dispatch someone something の二重目的語形は避ける。Your order has been dispatched. は「注文品は発送済み」で、has been delivered「配達済み」とは異なる。dispatch an order の order は注文内容ではなく注文された品物を指すことが多い。英国の despatch と混在させる必要はなく、一つの文書では綴りをそろえる。"
+      ],
+      "synonyms": [
+        {
+          "word": "send",
+          "definition": "人や物・情報を別の場所や相手へ送る。",
+          "frequency": 10,
+          "difference": "最も広く中立的。dispatch にある業務的な手配や迅速さの響きは必須ではない。",
+          "example": "Please send the details by email.",
+          "translation": "詳細をメールで送ってください。"
+        },
+        {
+          "word": "ship",
+          "definition": "品物を発送・輸送する。",
+          "frequency": 8,
+          "difference": "特に商品や貨物に使う。dispatch は文書・連絡や人員にも使え、送り出す段階を強調しやすい。",
+          "example": "The company ships furniture nationwide.",
+          "translation": "その会社は家具を全国に発送しています。"
+        },
+        {
+          "word": "forward",
+          "definition": "受け取った物や情報を別の宛先へ転送する。",
+          "frequency": 7,
+          "difference": "すでに来たものを先へ回すという方向があり、最初の発送も表せる dispatch より限定的。",
+          "example": "She forwarded the message to the accounts team.",
+          "translation": "彼女はそのメッセージを経理チームに転送しました。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【動詞・他動詞】派遣する、出動させる",
+      "frequency": 6,
+      "register": [
+        "やや硬い。緊急対応、軍事、業務上の派遣・配車。"
+      ],
+      "definition": "人員・部隊・救急車などを、任務や用事のため特定の場所へ向かわせる。指令や手配を行う組織・担当者が主語になりやすい。単に本人が移動したのではなく、送り出す側の働きかけを表す。",
+      "patterns": [
+        "dispatch someone to 〈場所〉＝人をその場所へ派遣する",
+        "dispatch someone to do something＝人を何かをするために派遣する",
+        "dispatch an ambulance＝救急車を出動させる",
+        "dispatch a team of 〈人々〉＝その人々からなるチームを派遣する"
+      ],
+      "collocations": [
+        {
+          "pattern": "dispatch someone to 〈場所〉",
+          "use": "派遣先を示す。",
+          "example": "The manager dispatched a technician to the branch office.",
+          "translation": "管理者は支店に技術者を派遣しました。"
+        },
+        {
+          "pattern": "dispatch someone to do something",
+          "use": "任務・目的を示す。",
+          "example": "Two officers were dispatched to investigate the alarm.",
+          "translation": "警報の原因を調べるため、警察官2人が派遣されました。"
+        },
+        {
+          "pattern": "dispatch an ambulance",
+          "use": "緊急車両を現場へ向かわせる。",
+          "example": "The control room dispatched an ambulance to the station.",
+          "translation": "指令室は駅へ救急車を出動させました。"
+        },
+        {
+          "pattern": "dispatch a team of 〈人々〉",
+          "use": "専門家などをチーム単位で送る。",
+          "example": "The agency dispatched a team of engineers to inspect the bridge.",
+          "translation": "その機関は橋を点検するため、技術者チームを派遣しました。"
+        }
+      ],
+      "notes": [
+        "to the site は行き先、to inspect the site は派遣の目的である。dispatch someone to do は「その人を送り出して仕事をさせる」で、send に近く、単なる口頭の命令一般ではない。An ambulance was dispatched. は出動の手配・開始を述べ、現場に到着したかは arrived などで別に示す。人を目的語にした dispatch は、戦闘などの文脈では語義15の「殺す」にもなるので、行き先・目的や周辺語で判断する。"
+      ],
+      "synonyms": [
+        {
+          "word": "send",
+          "definition": "人を用事や目的のため別の場所へ行かせる。",
+          "frequency": 9,
+          "difference": "日常的な使い走りにも使える広い語。dispatch は組織的・業務的な派遣に合う。",
+          "example": "We sent someone to collect the keys.",
+          "translation": "私たちは鍵を受け取るために人を送りました。"
+        },
+        {
+          "word": "deploy",
+          "definition": "人員・部隊・資源を目的に応じて配置し、活動させる。",
+          "frequency": 6,
+          "difference": "出発させることより、現場で有効に配置・運用することに焦点がある。",
+          "example": "Additional staff were deployed at the busiest entrances.",
+          "translation": "最も混雑する出入口に追加の職員が配置されました。"
+        },
+        {
+          "word": "send out",
+          "definition": "人員や車両などを外へ送り出す。",
+          "frequency": 7,
+          "difference": "dispatch より日常的。分離可能で send the team out、send it out ともいう。",
+          "example": "They sent out a repair crew before dawn.",
+          "translation": "彼らは夜明け前に修理班を送り出しました。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・通常不可算】発送、送信、派遣",
+      "frequency": 6,
+      "register": [
+        "業務的。物流、注文案内、救急・軍事などの派遣手配。"
+      ],
+      "definition": "物・連絡・人員などを目的地へ送り出すこと。商品なら発送、人員なら派遣・出動と訳す。発送された貨物そのものを数える語義とは区別する。",
+      "patterns": [
+        "the dispatch of 〈物・人員〉＝物の発送・人員の派遣",
+        "ready for dispatch＝発送できる状態で",
+        "on dispatch＝発送時に",
+        "a dispatch date＝発送日",
+        "dispatch confirmation＝発送確認"
+      ],
+      "collocations": [
+        {
+          "pattern": "the dispatch of 〈物・人員〉",
+          "use": "何を送り出すかを名詞で述べる。",
+          "example": "The storm delayed the dispatch of emergency supplies.",
+          "translation": "嵐によって救援物資の発送が遅れました。"
+        },
+        {
+          "pattern": "ready for dispatch",
+          "use": "発送準備が整った状態を示す。",
+          "example": "The boxes are labelled and ready for dispatch.",
+          "translation": "箱にはラベルが貼られ、発送できる状態になっています。"
+        },
+        {
+          "pattern": "on dispatch",
+          "use": "発送時点で生じる処理を示す。",
+          "example": "Your card will be charged on dispatch.",
+          "translation": "発送時にカードへ請求されます。"
+        },
+        {
+          "pattern": "a dispatch date",
+          "use": "配達日とは別に発送日を指定する。",
+          "example": "The dispatch date is Monday, but delivery is expected on Wednesday.",
+          "translation": "発送日は月曜日ですが、配達は水曜日の予定です。"
+        },
+        {
+          "pattern": "dispatch confirmation",
+          "use": "発送したという連絡を指す。",
+          "example": "Please retain the dispatch confirmation until the parcel arrives.",
+          "translation": "荷物が届くまで発送確認の連絡を保管してください。"
+        }
+      ],
+      "notes": [
+        "通常は不可算で、ready for dispatch のように無冠詞。特定の発送なら the dispatch of the goods とする。two dispatches は語義4の「2通の報告」と解釈されやすいので、2口の貨物なら two shipments が明確。dispatch と delivery は対照されるが、発送と配達は同一軸の正反対ではなく、通常は物流の異なる段階。名詞の dispatch は米国の運行・緊急対応で指令部門を指すこともあり、contact dispatch は「指令担当へ連絡する」という業務上の言い方。"
+      ],
+      "synonyms": [
+        {
+          "word": "shipment",
+          "definition": "品物の発送・輸送という行為。",
+          "frequency": 6,
+          "difference": "品物に用い、人員派遣には普通使わない。可算では貨物そのものも指す。",
+          "example": "The products are inspected before shipment.",
+          "translation": "製品は出荷前に検査されます。"
+        },
+        {
+          "word": "shipping",
+          "definition": "商品などを発送・配送すること。",
+          "frequency": 8,
+          "difference": "商品の輸送方法・サービス全体を表しやすい。dispatch は送り出す段階を捉えやすい。",
+          "example": "Shipping is available to all mainland addresses.",
+          "translation": "本土のすべての住所へ配送できます。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・可算】現地通信、公式の報告・伝達文書",
+      "frequency": 5,
+      "register": [
+        "報道、外交、軍事、やや硬い書き言葉。"
+      ],
+      "definition": "記者が現地から送る報道、または軍人・外交官などが送る公式の報告・通信。戦地や外国からの報告が典型的だが、戦争の報道だけに限定されない。",
+      "patterns": [
+        "a dispatch from 〈場所・記者〉＝その場所・記者からの現地通信",
+        "send a dispatch to 〈宛先〉＝宛先へ報告を送る",
+        "file a dispatch＝報道機関へ現地報告を送稿する",
+        "a diplomatic dispatch＝外交上の公式報告",
+        "be mentioned in dispatches＝軍の公式報告で功績をたたえられる"
+      ],
+      "collocations": [
+        {
+          "pattern": "a dispatch from 〈場所〉",
+          "use": "現地から届いた報道を指す。",
+          "example": "Her latest dispatch from the capital describes the impact of the flooding.",
+          "translation": "首都からの彼女の最新の現地報告は、洪水の影響を伝えています。"
+        },
+        {
+          "pattern": "send a dispatch to 〈宛先〉",
+          "use": "指揮系統などを通じて公式の報告を送る。",
+          "example": "The commander sent a dispatch to headquarters requesting reinforcements.",
+          "translation": "指揮官は増援を求める報告を司令部に送りました。"
+        },
+        {
+          "pattern": "file a dispatch",
+          "use": "記者が原稿を送稿する。",
+          "example": "The correspondent filed a dispatch before leaving the region.",
+          "translation": "その特派員はその地域を離れる前に現地報告を送稿しました。"
+        },
+        {
+          "pattern": "a diplomatic dispatch",
+          "use": "外交官などによる正式な通信を指す。",
+          "example": "The archive contains diplomatic dispatches from the nineteenth century.",
+          "translation": "その公文書館には19世紀の外交上の報告文書が所蔵されています。"
+        },
+        {
+          "pattern": "be mentioned in dispatches",
+          "use": "主に英国で、軍の報告に功績が記されることを示す。",
+          "example": "The sergeant was mentioned in dispatches for rescuing wounded soldiers.",
+          "translation": "その軍曹は負傷兵を救出した功績を軍の公式報告でたたえられました。"
+        }
+      ],
+      "notes": [
+        "a dispatch、several dispatches と数える。be mentioned in dispatches は単に名前が文書に出たという直訳だけでは、軍務上の称賛という慣用的な意味を捉えきれない。英式の be mentioned in despatches も同じ表現。比喩的に功績を認められたという意味でも使う。動詞 dispatch a report は「報告を送る」、名詞 a dispatch は「送られた報告そのもの」で、送り出す行為を表す語義3とは異なる。"
+      ],
+      "synonyms": [
+        {
+          "word": "report",
+          "definition": "調査や出来事の内容を伝える報告・記事。",
+          "frequency": 9,
+          "difference": "現地から送られる必要はなく、口頭報告や分析資料も含む。dispatch は送られた通信としての性格が強い。",
+          "example": "The report describes conditions in the affected villages.",
+          "translation": "その報告は被災した村々の状況を述べています。"
+        },
+        {
+          "word": "message",
+          "definition": "相手へ伝える連絡・情報。",
+          "frequency": 10,
+          "difference": "私的で短い連絡にも使う広い語。dispatch のような報道・公務上の性格を必ずしも持たない。",
+          "example": "A message from the embassy arrived this morning.",
+          "translation": "今朝、大使館から連絡が届きました。"
+        },
+        {
+          "word": "communiqué",
+          "definition": "政府・組織などが発表する公式声明。",
+          "frequency": 3,
+          "difference": "公に発表する声明という性格が強く、個別の上司や本国へ送る dispatch とは公開範囲が異なる。",
+          "example": "The ministers issued a joint communiqué after the talks.",
+          "translation": "閣僚たちは会談後、共同声明を発表しました。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【動詞・他動詞】手早く処理する、片付ける",
+      "frequency": 4,
+      "register": [
+        "硬め、または文語的。仕事の能率を述べる文章。"
+      ],
+      "definition": "仕事・案件・用事などを迅速かつ十分に処理し、終えること。単に取りかかるのではなく、片付けるという完了の方向を持つ。ただし進行形などでは完了に至ったとは限らない。",
+      "patterns": [
+        "dispatch a task＝仕事を手早く片付ける",
+        "dispatch business＝用件を迅速に処理する",
+        "dispatch a matter＝案件を速やかに処理する",
+        "dispatch something in 〈所要時間〉＝その時間で何かを片付ける"
+      ],
+      "collocations": [
+        {
+          "pattern": "dispatch a task",
+          "use": "仕事を手際よく終えることを述べる。",
+          "example": "She dispatched the routine tasks before the meeting began.",
+          "translation": "彼女は会議が始まる前に定型業務を手早く片付けました。"
+        },
+        {
+          "pattern": "dispatch business",
+          "use": "会議などで用件を処理する。",
+          "example": "The committee dispatched its remaining business in half an hour.",
+          "translation": "委員会は残りの用件を30分で手早く処理しました。"
+        },
+        {
+          "pattern": "dispatch a matter",
+          "use": "個別の案件を済ませる。",
+          "example": "The clerk dispatched the matter efficiently and moved on to the next case.",
+          "translation": "その事務員はその件を効率よく片付け、次の案件に移りました。"
+        },
+        {
+          "pattern": "dispatch something in 〈所要時間〉",
+          "use": "完了までの短い時間を述べる。",
+          "example": "The team dispatched the paperwork in less than an hour.",
+          "translation": "そのチームは1時間もかからずに書類仕事を片付けました。"
+        }
+      ],
+      "notes": [
+        "dispatch the paperwork は、事務処理の文脈なら「書類仕事を片付ける」、郵送の文脈なら「書類を送る」になり得る。業務の完了を示す routine tasks、remaining business などで判断する。dispatch は基本的に直接目的語を取るので、deal with the task と混ぜて dispatch with the task とはしない。一般的な会話では finish、deal with などが使われる。"
+      ],
+      "synonyms": [
+        {
+          "word": "finish",
+          "definition": "仕事などを終える。",
+          "frequency": 9,
+          "difference": "完了を表すが、dispatch のような速さ・手際よさは含意しない。",
+          "example": "I finished the report after lunch.",
+          "translation": "私は昼食後に報告書を仕上げました。"
+        },
+        {
+          "word": "deal with",
+          "definition": "問題・案件を扱い、対応する。",
+          "frequency": 8,
+          "difference": "対応中にも使え、処理を終えることまでは必ずしも意味しない。",
+          "example": "The support team is dealing with your request.",
+          "translation": "サポートチームがお申し出に対応しています。"
+        },
+        {
+          "word": "dispose of",
+          "definition": "案件や用件を処理して済ませる。",
+          "frequency": 4,
+          "difference": "この硬い用法では近いが、不要物を捨てる別義もある。dispatch は迅速さを含みやすい。",
+          "example": "The board disposed of the minor agenda items first.",
+          "translation": "理事会は先に軽微な議題を処理しました。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【動詞・他動詞】対戦相手を破る、倒す",
+      "frequency": 4,
+      "register": [
+        "主にスポーツ報道。やや勢いのある表現。"
+      ],
+      "definition": "競技などで相手に勝ち、決着をつける。すばやい勝利や手際のよい勝ち方を思わせやすいが、すべての例が圧勝を意味するわけではない。",
+      "patterns": [
+        "dispatch an opponent＝対戦相手を破る",
+        "dispatch 〈チーム〉＝そのチームを破る",
+        "dispatch someone in straight sets＝相手にストレート勝ちする"
+      ],
+      "collocations": [
+        {
+          "pattern": "dispatch an opponent",
+          "use": "試合で相手を破ったことを述べる。",
+          "example": "The champion dispatched her first opponent in under an hour.",
+          "translation": "その王者は最初の対戦相手を1時間足らずで破りました。"
+        },
+        {
+          "pattern": "dispatch 〈チーム〉",
+          "use": "チーム間の勝利を報じる。",
+          "example": "The hosts dispatched the visitors 3–0 in the semifinal.",
+          "translation": "準決勝でホームチームはアウェーチームを3対0で破りました。"
+        },
+        {
+          "pattern": "dispatch someone in straight sets",
+          "use": "セットを落とさずに勝つ。",
+          "example": "He dispatched the second seed in straight sets.",
+          "translation": "彼は第2シードの選手にストレート勝ちしました。"
+        }
+      ],
+      "notes": [
+        "目的語は勝利ではなく相手なので、dispatch an opponent に対し、win a match とする。スポーツ文脈の dispatch someone は派遣や殺害ではない。相手・スコア・試合段階から語義を読み分ける。単に戦っているだけを意味せず、通常は勝った結果を述べる。"
+      ],
+      "synonyms": [
+        {
+          "word": "defeat",
+          "definition": "競技や争いで相手に勝つ。",
+          "frequency": 7,
+          "difference": "勝利を中立的に述べ、dispatch ほど素早く片付ける印象を伴わない。",
+          "example": "The underdogs defeated the defending champions.",
+          "translation": "下馬評で不利とされたチームが前回の優勝チームを破りました。"
+        },
+        {
+          "word": "beat",
+          "definition": "試合・競争で相手に勝つ。",
+          "frequency": 9,
+          "difference": "日常的で広く使う。dispatch より報道的な勢いが弱い。",
+          "example": "We beat them by a single point.",
+          "translation": "私たちは彼らに1点差で勝ちました。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【動詞・他動詞・情報技術】イベント・要求を処理先へ送出する",
+      "frequency": 4,
+      "register": [
+        "専門。プログラミング、イベント処理、要求の振り分け。"
+      ],
+      "definition": "イベントや要求などを適切な処理先へ渡すこと。送出するイベント・要求を直接目的語にし、必要に応じて to で処理先を示す。",
+      "patterns": [
+        "dispatch an event＝イベントを送出する",
+        "dispatch a request to 〈処理先〉＝要求をその処理先へ渡す"
+      ],
+      "collocations": [
+        {
+          "pattern": "dispatch an event",
+          "use": "イベントを対象へ送って対応する処理を呼び起こす。",
+          "example": "The component dispatches an event when the user changes the selection.",
+          "translation": "利用者が選択内容を変えると、そのコンポーネントはイベントを送出します。"
+        },
+        {
+          "pattern": "dispatch a request to 〈処理先〉",
+          "use": "要求を担当の処理系へ渡す。",
+          "example": "The router dispatches each request to the appropriate handler.",
+          "translation": "ルーターは各要求を適切なハンドラーに振り分けます。"
+        }
+      ],
+      "notes": [
+        "dispatch a request の request は送出対象である直接目的語。語義8の dispatch on type は型を基準に実装を選ぶ自動詞構文で、中心意味と on の役割が異なる。イベントの送出が、必ず非同期処理や別コンピューターへの送信になるわけではない。たとえばブラウザーの dispatchEvent は対応するリスナーを同期的に呼び出す。一般義の発送とは仕組みが異なり、具体的な完了条件はAPIや言語による。名詞の event dispatch は語義9。"
+      ],
+      "synonyms": [
+        {
+          "word": "route",
+          "definition": "要求やメッセージを所定の処理先へ振り向ける。",
+          "frequency": 4,
+          "difference": "経路・宛先の選択が中心で、型に応じた関数の実装選択まで常に表すわけではない。",
+          "example": "The server routes the message to the correct queue.",
+          "translation": "サーバーはそのメッセージを正しいキューへ振り分けます。"
+        },
+        {
+          "word": "emit",
+          "definition": "プログラムからイベントや信号を発する。",
+          "frequency": 4,
+          "difference": "出力する側に焦点を置く。dispatch と近く使うAPIもあるが、宛先選択や処理実行の規則が同じとは限らない。",
+          "example": "The object emits a signal when the task finishes.",
+          "translation": "そのオブジェクトはタスクが終わると信号を発します。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【動詞・自動詞・dispatch on・情報技術】条件に応じて呼び出す実装を選ぶ",
+      "frequency": 3,
+      "register": [
+        "専門。プログラミング言語、総称関数、メソッドの選択。"
+      ],
+      "definition": "関数などが、引数の型などを基準に、どの実装を呼び出すかを選び分けること。on の後は送り先ではなく選択の基準。",
+      "patterns": [
+        "dispatch on 〈型などの基準〉＝その基準に応じて呼び出す実装を選ぶ"
+      ],
+      "collocations": [
+        {
+          "pattern": "dispatch on 〈型などの基準〉",
+          "use": "実行する処理を選ぶ基準を示す。",
+          "example": "This generic function dispatches on the type of its first argument.",
+          "translation": "この総称関数は第1引数の型に応じて実行する処理を選び分けます。"
+        }
+      ],
+      "notes": [
+        "a function dispatches on type では、関数が主語、型が選択の基準で、直接目的語を取らない。語義7の dispatch an event はイベントを送出する他動詞であり、on を付けて同じ意味にはできない。どの引数や条件を選択に使うかは言語・仕組みによる。名詞で実装選択を指す dispatch は語義10。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 9,
+      "title": "【名詞・不可算・情報技術】イベントの送出、処理への引渡し",
+      "frequency": 4,
+      "register": [
+        "専門。プログラミング、イベント処理。"
+      ],
+      "definition": "イベントなどを対象・処理系へ渡す過程。event dispatch のように送出対象を前から示す。",
+      "patterns": [
+        "event dispatch＝イベントの送出・処理への引渡し"
+      ],
+      "collocations": [
+        {
+          "pattern": "event dispatch",
+          "use": "イベントを処理系へ渡す過程を名詞で述べる。",
+          "example": "The test measures the time spent on event dispatch.",
+          "translation": "そのテストはイベントの送出処理にかかった時間を測定します。"
+        }
+      ],
+      "notes": [
+        "通常は不可算の過程を表す名詞で、語義7の他動詞 dispatch an event に対応する。語義10の method dispatch は呼び出す実装の選択を指すため、同じ語でも対象・中心意味が異なる。event dispatch というだけでは、非同期実行やネットワーク送信を意味しない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 10,
+      "title": "【名詞・不可算・情報技術】呼び出す実装の選択",
+      "frequency": 4,
+      "register": [
+        "専門。プログラミング言語、ソフトウェア設計。"
+      ],
+      "definition": "関数・メソッドのどの実装を呼び出すかを決める仕組み。dynamic dispatch は実行時の情報に応じた選択を指し、multiple dispatch は複数の引数の型に基づく選択を指す。",
+      "patterns": [
+        "dynamic dispatch＝動的ディスパッチ",
+        "multiple dispatch＝複数の引数の型に基づく呼び出し先の選択"
+      ],
+      "collocations": [
+        {
+          "pattern": "dynamic dispatch",
+          "use": "実行時に呼び出し先を選ぶ仕組みを指す。",
+          "example": "Dynamic dispatch selects the method implementation at runtime.",
+          "translation": "動的ディスパッチは実行時にメソッドの実装を選択します。"
+        },
+        {
+          "pattern": "multiple dispatch",
+          "use": "複数引数の型で処理を選ぶ方式を述べる。",
+          "example": "Multiple dispatch can select a method based on the types of both arguments.",
+          "translation": "多重ディスパッチでは、両方の引数の型に基づいてメソッドを選択できます。"
+        }
+      ],
+      "notes": [
+        "通常は不可算の仕組みを表す名詞。dynamic は「高速な」という意味ではなく、実行時の情報による選択を表す。multiple は複数回の送信という意味ではなく、複数の引数の型を選択に使う方式を指す。イベントの送出は語義9、型に応じて選ぶ自動詞 dispatch on は語義8。修飾語や構文から、送出と実装選択を読み分ける。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 11,
+      "title": "【名詞・不可算・with dispatch など】迅速な処理、手際よさ",
+      "frequency": 3,
+      "register": [
+        "硬い、やや古風な書き言葉。公的な依頼や文学的な叙述。"
+      ],
+      "definition": "仕事・用件などをすばやく効率よく処理すること、またはその迅速さ。特に with dispatch で「迅速かつ手際よく」という副詞句になる。",
+      "patterns": [
+        "with dispatch＝迅速かつ手際よく",
+        "with all possible dispatch＝できる限り迅速に",
+        "the dispatch of business＝用件の迅速な処理"
+      ],
+      "collocations": [
+        {
+          "pattern": "with dispatch",
+          "use": "対応のすばやさと能率を示す。",
+          "example": "The staff dealt with the applications with dispatch.",
+          "translation": "職員たちは申請を迅速かつ手際よく処理しました。"
+        },
+        {
+          "pattern": "with all possible dispatch",
+          "use": "可能な限り早い対応を硬く求める。",
+          "example": "The letter asked the officials to act with all possible dispatch.",
+          "translation": "その手紙は、当局者たちにできる限り迅速に行動するよう求めていました。"
+        },
+        {
+          "pattern": "the dispatch of business",
+          "use": "会議などでの用件の速やかな処理を述べる。",
+          "example": "A clear agenda helped with the efficient dispatch of business.",
+          "translation": "明確な議題一覧が、用件の効率的で迅速な処理に役立ちました。"
+        }
+      ],
+      "notes": [
+        "with dispatch は発送に伴うという意味ではなく、処理のしかたを表す定型。dispatch は不可算なので with a dispatch にすると通常、別の意味になる。with all possible dispatch の all possible は「可能な限り」を表す。現代の通常の業務メールなら promptly や efficiently も使える。"
+      ],
+      "synonyms": [
+        {
+          "word": "promptness",
+          "definition": "遅れずに対応する迅速さ。",
+          "frequency": 4,
+          "difference": "着手・対応の遅れがない点に重点があり、dispatch は仕事を手際よく片付ける側面も含む。",
+          "example": "We appreciated the promptness of her response.",
+          "translation": "私たちは彼女の返答の早さをありがたく思いました。"
+        },
+        {
+          "word": "efficiency",
+          "definition": "時間や労力を無駄にせず仕事を行う能率。",
+          "frequency": 7,
+          "difference": "速さだけでなく資源の使い方も含み、dispatch より広い概念。",
+          "example": "The new procedure improved the team's efficiency.",
+          "translation": "新しい手順によってチームの作業効率が向上しました。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 12,
+      "title": "【動詞・他動詞・電力】運転・出力を指令する",
+      "frequency": 2,
+      "register": [
+        "専門。電力系統の運用、発電・電力市場の説明。"
+      ],
+      "definition": "電力系統の運用者などが、需要や設備の制約に応じ、発電機などを運転させたり出力を割り当てたりする。一般の派遣に似た「必要な資源を稼働させる」用法だが、発電設備自体を別の場所へ移送するわけではない。",
+      "patterns": [
+        "dispatch a generator＝発電機に運転・出力を指令する",
+        "dispatch generation to meet demand＝需要を満たすよう発電出力を割り当てる"
+      ],
+      "collocations": [
+        {
+          "pattern": "dispatch a generator",
+          "use": "発電機を供給のため稼働させる判断を述べる。",
+          "example": "The system operator dispatched additional generators as demand rose.",
+          "translation": "需要が増えると、系統運用者は追加の発電機に運転を指令しました。"
+        },
+        {
+          "pattern": "dispatch generation to meet demand",
+          "use": "需要に対応した発電の割当てを説明する。",
+          "example": "The control centre dispatches generation to meet demand while respecting network limits.",
+          "translation": "制御センターは送電網の制約を守りながら、需要を満たすよう発電出力を割り当てます。"
+        }
+      ],
+      "notes": [
+        "dispatch a generator は輸送文脈なら「発電機を発送する」だが、system operator、demand、output などがあればこの専門義になり得る。常に最も安い設備から順に稼働させると断定せず、設備・系統の制約も関わる。語だけで各国の市場規則や個別の指令手続きを意味するわけではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 13,
+      "title": "【名詞・不可算・電力】給電指令、発電出力の割当て",
+      "frequency": 2,
+      "register": [
+        "専門。電力系統運用、エネルギー分析。"
+      ],
+      "definition": "需要を満たし、設備や系統の制約に対応するように、発電機などの運転・出力を決めて割り当てること。economic dispatch は、必要な制約を満たしつつ運転費用を抑えるよう出力を配分する考え方を指す。",
+      "patterns": [
+        "the dispatch of generators＝発電機の運転・出力の割当て",
+        "economic dispatch＝経済性を考慮した発電出力の配分"
+      ],
+      "collocations": [
+        {
+          "pattern": "the dispatch of generators",
+          "use": "運転・出力配分の過程を名詞で示す。",
+          "example": "The model simulates the dispatch of generators under changing demand.",
+          "translation": "そのモデルは変化する需要の下での発電機の運転・出力配分を模擬します。"
+        },
+        {
+          "pattern": "economic dispatch",
+          "use": "費用を考慮した出力配分を指す。",
+          "example": "Economic dispatch takes account of operating costs and system constraints.",
+          "translation": "経済負荷配分では、運転費用と系統の制約を考慮します。"
+        }
+      ],
+      "notes": [
+        "ここでの dispatch は郵送でも、一般的な電力の配達でもなく、設備の稼働・出力を決める運用上の行為。発電計画や売買契約と関連するが、それらすべての同義語ではない。名詞 dispatch と他動詞 dispatch generators は語義13と語義12の関係。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 14,
+      "title": "【動詞・他動詞・くだけた表現】さっと食べてしまう",
+      "frequency": 3,
+      "register": [
+        "くだけた、やや描写的な表現。日常的な食事の叙述。"
+      ],
+      "definition": "食事・食べ物を手早く食べ終える。食べ物を用事のように片付けるという軽い、時にユーモラスな言い方。",
+      "patterns": [
+        "dispatch a meal＝食事をさっと済ませる",
+        "dispatch 〈食べ物〉＝食べ物を手早く食べてしまう"
+      ],
+      "collocations": [
+        {
+          "pattern": "dispatch a meal",
+          "use": "食事を短時間で済ませる様子を描く。",
+          "example": "He dispatched his lunch and hurried back to work.",
+          "translation": "彼は昼食をさっと平らげ、急いで仕事に戻りました。"
+        },
+        {
+          "pattern": "dispatch 〈食べ物〉",
+          "use": "特定の食べ物をすぐ食べ終える。",
+          "example": "The children dispatched the sandwiches in minutes.",
+          "translation": "子どもたちは数分でサンドイッチを平らげました。"
+        }
+      ],
+      "notes": [
+        "目的語が食事や食品ならこの義になり得るが、物流の文脈で dispatch sandwiches to a shop と言えば「店へサンドイッチを発送する」。ここでは食べ終える結果を持ち、少し味見するだけのことには使わない。"
+      ],
+      "synonyms": [
+        {
+          "word": "polish off",
+          "definition": "食べ物などを残さず平らげる。",
+          "frequency": 5,
+          "difference": "くだけた表現で、最後まで食べる点を特に強調する。名詞は polish off the cake、代名詞は polish it off。",
+          "example": "They polished off the whole cake.",
+          "translation": "彼らはケーキを丸ごと平らげました。"
+        },
+        {
+          "word": "devour",
+          "definition": "勢いよくむさぼるように食べる。",
+          "frequency": 5,
+          "difference": "空腹や貪欲な食べ方を感じさせる。dispatch は手早く片付けたことに重点がある。",
+          "example": "The hungry hikers devoured their dinner.",
+          "translation": "空腹のハイカーたちは夕食をむさぼるように食べました。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 15,
+      "title": "【動詞・他動詞・文語的・専門的】殺す、命を絶つ",
+      "frequency": 2,
+      "register": [
+        "人の殺害には文語的・古風。動物の処分では専門的な行政・管理文書にも現れる。"
+      ],
+      "definition": "人や動物を殺すこと。すばやく確実に片付けるような響きを伴うことがあり、人については冷淡・文語的に感じられやすい。動物管理では humanely dispatch のような形でも用いる。",
+      "patterns": [
+        "dispatch someone＝人を殺す",
+        "dispatch an animal humanely＝動物をできる限り苦痛を与えない方法で死なせる"
+      ],
+      "collocations": [
+        {
+          "pattern": "dispatch someone",
+          "use": "物語で殺害を文語的に述べる。",
+          "example": "In the novel, the assassin dispatches the guard before entering the palace.",
+          "translation": "その小説では、暗殺者は宮殿に入る前に衛兵を殺します。"
+        },
+        {
+          "pattern": "dispatch an animal humanely",
+          "use": "動物の処分を扱う文章の表現を示す。",
+          "example": "The report states that the injured animal was humanely dispatched.",
+          "translation": "その報告書には、負傷した動物が苦痛をできる限り抑えた方法で殺処分されたと記されています。"
+        }
+      ],
+      "notes": [
+        "目的語が人だけでは「派遣」か「殺害」か決まらない。dispatch a guard to the gate は「衛兵を門へ派遣する」で、殺害の文脈とは異なる。競技の dispatch an opponent は語義6の「相手を破る」。humanely は方法についての限定を加える語で、dispatch 自体が必ず苦痛の少ない処置を意味するわけではない。動物の扱いに関する個別の法的要件・手順は、この語の意味だけでは決まらない。"
+      ],
+      "synonyms": [
+        {
+          "word": "kill",
+          "definition": "人・動物などを死なせる。",
+          "frequency": 8,
+          "difference": "もっとも一般的で、意図的・偶発的な原因のどちらにも使える。dispatch は意図して手早く命を絶つ響きが強い。",
+          "example": "The accident killed two horses.",
+          "translation": "その事故で馬が2頭死にました。"
+        },
+        {
+          "word": "slay",
+          "definition": "人や動物を殺す。",
+          "frequency": 3,
+          "difference": "主に文学的で、暴力的・英雄譚的な叙述に用いる。dispatch には手際よく片付けるような冷たさが出やすい。",
+          "example": "The legend tells of a knight who slew a dragon.",
+          "translation": "その伝説は竜を倒した騎士の物語です。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 16,
+      "title": "【名詞・通常不可算・文語的・専門的】殺害、殺処分",
+      "frequency": 2,
+      "register": [
+        "文語、動物管理・福祉に関わる専門文書。"
+      ],
+      "definition": "人や動物の命を絶つ行為。人の殺害については文語的な用法で、現代の専門文書では特に動物について humane dispatch という形に出会う。",
+      "patterns": [
+        "the dispatch of 〈人・動物〉＝その人・動物の殺害・殺処分",
+        "humane dispatch＝苦痛をできる限り抑えた殺処分"
+      ],
+      "collocations": [
+        {
+          "pattern": "the dispatch of 〈人・動物〉",
+          "use": "文学的な文章で命を絶つ行為を名詞で述べる。",
+          "example": "The chapter describes the secret dispatch of the captured spy.",
+          "translation": "その章は、捕らえられたスパイがひそかに殺害されることを描いています。"
+        },
+        {
+          "pattern": "humane dispatch",
+          "use": "動物管理上の表現を理解する。",
+          "example": "The guidance includes a section on the humane dispatch of injured animals.",
+          "translation": "その指針には、負傷した動物をできる限り苦痛を与えずに殺処分することについての項目が含まれています。"
+        }
+      ],
+      "notes": [
+        "発送を表す the dispatch of the goods と同じ of 構文でも、動物管理や物語上の殺害文脈では意味が異なる。humane dispatch を単なる「人道的な発送」と訳さない。humane は処置の性質を説明する限定語で、dispatch だけから合法性や動物福祉上の適切さを推測しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "killing",
+          "definition": "人・動物などを殺す行為。",
+          "frequency": 7,
+          "difference": "一般的で意味が直接的。dispatch は文語的、または動物処分の業務的な響きを持つ。",
+          "example": "The investigation focused on the killing of protected animals.",
+          "translation": "その調査は保護対象の動物が殺されたことに焦点を当てました。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

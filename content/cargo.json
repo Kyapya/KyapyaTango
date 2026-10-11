@@ -1,0 +1,208 @@
+{
+  "word": "cargo",
+  "slug": "cargo",
+  "ipa": "米: /ˈkɑːr.ɡoʊ/｜英: /ˈkɑː.ɡəʊ/。2音節で、第1音節に主強勢。第1音節は米では母音の後に /r/ を発音し、ここに示した英の発音では発音しない。第2音節の母音は米 /oʊ/、英 /əʊ/。複数形 cargoes と cargos は同じ発音で、米 /ˈkɑːr.ɡoʊz/、英 /ˈkɑː.ɡəʊz/。",
+  "lead": "船・航空機・トラックなどで運ぶ物品。商品だけでなく、支援物資や機材なども含む。貨物をまとめて捉えると不可算、一つの輸送で運ぶひとまとまりの積荷として捉えると可算になる。船・航空機の文脈で特に多いが、それらだけに限定されない。",
+  "updated": "2026-10-11",
+  "notion_url": "https://app.notion.com/p/cargo-3f64faa9b77d816f8cc1f7d0932650e5",
+  "pronunciation": [],
+  "etymology": [
+    "スペイン語 cargo「荷、負担」から入り、cargar「荷を積む」、後期ラテン語 carricare「車に積む」にさかのぼる。同系統の charge「負担を課す、請求する」、car「車」と、「積んで運ぶ」という背景を共有する。英語の car と go を組み合わせた語ではない。"
+  ],
+  "formation": [
+    {
+      "term": "cargoes",
+      "description": "cargo の複数形。一まとまりの積荷や複数種類の輸送対象を数える。"
+    },
+    {
+      "term": "cargos",
+      "description": "cargoes と並ぶ正しい複数綴り。発音上の違いはない。"
+    },
+    {
+      "term": "cargo ship",
+      "description": "可算名詞。「貨物船」。ここで cargo は名詞を前から修飾する。"
+    },
+    {
+      "term": "cargo hold",
+      "description": "可算名詞。「貨物室、船倉」。乗員や乗客の居住区ではなく、貨物を積む区画。"
+    },
+    {
+      "term": "cargo pants",
+      "description": "複数扱いの名詞。「カーゴパンツ」。脚の側面などに大きなポケットの付いたズボンで、貨物そのものを指す表現ではない。"
+    }
+  ],
+  "core": [],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算・不可算】貨物、積荷",
+      "frequency": 7,
+      "register": [
+        "中立。物流、海運、航空、輸送事故の報道など。"
+      ],
+      "definition": "船・航空機・トラックなどで運ぶ物品。商品だけでなく、支援物資や機材なども含む。貨物をまとめて捉えると不可算、一つの輸送で運ぶひとまとまりの積荷として捉えると可算になる。船・航空機の文脈で特に多いが、それらだけに限定されない。",
+      "patterns": [
+        "a cargo of 〈物品〉＝その物品から成るひとまとまりの積荷",
+        "carry cargo＝貨物を運ぶ",
+        "load cargo onto 〈輸送手段〉＝輸送手段に貨物を積む",
+        "unload cargo from 〈輸送手段〉＝輸送手段から貨物を降ろす",
+        "air cargo＝航空貨物",
+        "bulk cargo＝ばら積み貨物",
+        "cargo space＝貨物用の空間",
+        "a cargo ship＝貨物船"
+      ],
+      "collocations": [
+        {
+          "pattern": "a cargo of 〈物品〉",
+          "use": "一まとまりの積荷の内容を指定する。",
+          "example": "The vessel arrived with a cargo of grain from Argentina.",
+          "translation": "その船はアルゼンチンからの穀物を積んで到着しました。"
+        },
+        {
+          "pattern": "carry cargo",
+          "use": "乗客とは別に貨物を運ぶことを述べる。",
+          "example": "Passenger aircraft also carry cargo in their lower holds.",
+          "translation": "旅客機も機体下部の貨物室で貨物を運びます。"
+        },
+        {
+          "pattern": "load cargo onto 〈輸送手段〉",
+          "use": "積み込む物と積み込み先を示す。",
+          "example": "Workers loaded the cargo onto three trucks.",
+          "translation": "作業員たちはその貨物を3台のトラックに積み込みました。"
+        },
+        {
+          "pattern": "unload cargo from 〈輸送手段〉",
+          "use": "荷降ろしの作業を述べる。",
+          "example": "The crew could not unload the cargo from the ship during the storm.",
+          "translation": "嵐の間、乗組員たちは船から積荷を降ろすことができませんでした。"
+        },
+        {
+          "pattern": "air cargo",
+          "use": "航空便で運ぶ貨物を指す。",
+          "example": "Fresh flowers account for much of the airport's air cargo.",
+          "translation": "生花がその空港の航空貨物の大きな部分を占めています。"
+        },
+        {
+          "pattern": "bulk cargo",
+          "use": "個別包装せず、大量にばら積みする貨物を指す。",
+          "example": "The terminal handles bulk cargo such as grain and coal.",
+          "translation": "そのターミナルは穀物や石炭などのばら積み貨物を扱っています。"
+        },
+        {
+          "pattern": "cargo space",
+          "use": "積載できる空間を表す。",
+          "example": "The new aircraft has more cargo space than the older model.",
+          "translation": "新型の航空機は旧型機より貨物用の空間が広くなっています。"
+        },
+        {
+          "pattern": "a cargo ship",
+          "use": "貨物を運ぶための船を指す。",
+          "example": "A cargo ship is waiting outside the harbour.",
+          "translation": "貨物船が1隻、港の外で待機しています。"
+        }
+      ],
+      "notes": [
+        "不可算の Cargo is inspected here.「ここで貨物を検査する」と、可算の Two cargoes were unloaded.「二つの積荷が降ろされた」を区別する。cargoes と cargos はどちらも正しく、複数形を一方に限定しない。cargo ship では名詞の前置修飾であり、「貨物の」という形容詞専用の語ではない。freight と意味が重なるが、cargo は基本的に運ばれる物で、運賃や輸送サービスそのものではない。「cargo は船、freight は鉄道」と輸送手段で二分するのは誤り。旅客の荷物は普通 baggage や luggage と呼ぶ。人々を cargo と呼ぶ比喩もあるが、積荷のように扱う印象が生じ得るので、中立的な passengers「乗客」の代わりにはしない。"
+      ],
+      "synonyms": [
+        {
+          "word": "freight",
+          "definition": "輸送される貨物。",
+          "frequency": 7,
+          "difference": "この意味では cargo と大きく重なる。通常不可算で、ほかに貨物輸送や運賃の意味も持つ。",
+          "example": "Most of the freight travels by rail.",
+          "translation": "貨物の大部分は鉄道で運ばれます。"
+        },
+        {
+          "word": "shipment",
+          "definition": "まとめて発送する一口分の品物。",
+          "frequency": 7,
+          "difference": "輸送手段の積荷という視点より、発送される一つの単位を示す。",
+          "example": "The shipment consists of twelve sealed boxes.",
+          "translation": "その発送貨物は密封された箱12個で構成されています。"
+        },
+        {
+          "word": "load",
+          "definition": "一度に積む物、またはその量。",
+          "frequency": 7,
+          "difference": "cargo より対象が広く、人が背負う荷物や洗濯機に一度に入れる量にも使う。",
+          "example": "The driver checked that the load was secure.",
+          "translation": "運転手は積荷がしっかり固定されていることを確認しました。"
+        },
+        {
+          "word": "payload",
+          "definition": "輸送機やロケットなどが運ぶ有用な荷物、またはその重量。",
+          "frequency": 5,
+          "difference": "運用に必要な機体自体や燃料などと区別して、目的のために運ぶ部分・積載能力を捉える。乗客や観測装置を含む文脈もある。",
+          "example": "The rocket's payload includes two research satellites.",
+          "translation": "そのロケットのペイロードには研究用衛星が2基含まれています。"
+        },
+        {
+          "word": "consignment",
+          "definition": "特定の相手へ送る一まとまりの貨物。",
+          "frequency": 5,
+          "difference": "cargo より荷送人・荷受人間の商取引上の発送単位を強調する。",
+          "example": "The final consignment will leave the factory tomorrow.",
+          "translation": "最後の発送分は明日工場を出ます。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算・不可算・生物学】細胞内外で輸送される物質・構造体、カーゴ",
+      "frequency": 3,
+      "register": [
+        "専門。細胞生物学、分子生物学、薬物送達の研究。一般の商業貨物を表す語義1からの比喩的な専門用法。"
+      ],
+      "definition": "細胞内や細胞間の輸送で、運ばれる側の物質や構造体。タンパク質・核酸などの分子に加え、モータータンパク質が運ぶ小胞やミトコンドリアなども含む。運ばれる対象を積荷に見立てた呼び方で、小胞も、中身を運ぶ役割に注目すれば担体、小胞自体が運ばれる役割に注目すれば cargo になり得る。何が cargo に当たるかは対象の輸送系によって決まり、特定の物質名ではない。",
+      "patterns": [
+        "cargo molecules＝輸送される分子",
+        "transport cargo＝カーゴを輸送する",
+        "load cargo into 〈担体〉＝担体に輸送対象物質を取り込ませる",
+        "release cargo＝担体などからカーゴを放出する"
+      ],
+      "collocations": [
+        {
+          "pattern": "cargo molecules",
+          "use": "運ばれる分子を、輸送を担う側の分子と区別する。",
+          "example": "The researchers identified several cargo molecules inside the vesicles.",
+          "translation": "研究者たちは小胞の内部にある複数のカーゴ分子を特定しました。"
+        },
+        {
+          "pattern": "transport cargo",
+          "use": "細胞の輸送機構が積荷を運ぶことを述べる。",
+          "example": "Motor proteins transport cargo along tracks inside the cell.",
+          "translation": "モータータンパク質は細胞内の軌道に沿ってカーゴを輸送します。"
+        },
+        {
+          "pattern": "load cargo into 〈担体〉",
+          "use": "研究で担体に物質を取り込ませる操作を示す。",
+          "example": "The team tested a new method for loading RNA cargo into vesicles.",
+          "translation": "そのチームはRNAをカーゴとして小胞に取り込ませる新しい方法を試験しました。"
+        },
+        {
+          "pattern": "release cargo",
+          "use": "運ばれた物質が担体から放出されることを示す。",
+          "example": "The experiment measured how much cargo the vesicles released.",
+          "translation": "その実験では、小胞がどれだけのカーゴを放出したかを測定しました。"
+        }
+      ],
+      "notes": [
+        "cargo を輸送対象のまとまりとして扱えば不可算、個別の種類や輸送対象として区別すれば a cargo、different cargoes も使う。cargo protein は通常「輸送されるタンパク質」で、輸送を担う motor protein とは役割が異なる。carrier は運び手、cargo は運ばれる対象であり、両者を逆に訳さない。薬物送達研究の cargo が必ず承認済みの治療薬であるとは限らない。"
+      ],
+      "synonyms": [
+        {
+          "word": "payload",
+          "definition": "担体によって届けられる薬物や核酸などの搭載物。",
+          "frequency": 3,
+          "difference": "この専門用法では cargo に近いが、設計された薬物送達系で、機能を発揮させるために載せる中身という捉え方が強い。",
+          "example": "The nanoparticles released their RNA payload inside the cells.",
+          "translation": "そのナノ粒子は細胞内で搭載していたRNAを放出しました。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "word": "vendor",
+  "slug": "vendor",
+  "ipa": "米: /ˈven.dɚ/｜英: /ˈven.də/。2音節で、第1音節に主強勢がある。第2音節は米では r 音を含む /ɚ/、英の非 r 音方言では /ə/。英の発音として /ˈven.dɔː/ も載るが、辞書や話者による変異があり、「英は必ず /ɔː/、米は必ず /ɚ/」と二分しない。英でも母音が後続すると語末の r が発音されることがある。",
+  "lead": "商品やサービスを売る人・会社。露店で食べ物を売る人から、業務用ソフトウェアを提供する企業まで指す。法律・不動産の文脈では、土地・家などを売却する当事者である「売主」を指し、売却を仲介する人と区別する。",
+  "updated": "2026-10-11",
+  "notion_url": "https://app.notion.com/p/vendor-3f64faa9b77d814ab4a0f8bbfd237ef7",
+  "pronunciation": [],
+  "etymology": [
+    "アングロ・ノルマン語 vendour の系統から入り、フランス語 vendre「売る」、ラテン語 vendere「売る」にさかのぼる。vendere には venum「売り物」と dare「与える」の要素がある。同じ「売る」の系統には vend「販売する」と vending「自動販売・販売」がある。現代語では vendor を販売主体の名詞として覚える。"
+  ],
+  "formation": [
+    {
+      "term": "vendors",
+      "description": "複数形。語末は /z/。"
+    },
+    {
+      "term": "vender",
+      "description": "vendor の異綴り。特に米語で見られるが、一般的な表記は vendor。"
+    },
+    {
+      "term": "vend",
+      "description": "物を売る。他動詞で、日常会話では sell のほうが広く使われる。"
+    },
+    {
+      "term": "vending machine",
+      "description": "自動販売機。通常、機械を指すときはこちらを使う。"
+    },
+    {
+      "term": "vendor-neutral",
+      "description": "特定の販売会社・製品系列に依存しない。名詞の前ではハイフンを付ける複合形容詞。"
+    },
+    {
+      "term": "vendor lock-in",
+      "description": "他社製品への移行費用や互換性などのため、特定の販売会社から離れにくくなる状態。必ずしも契約で移行を禁じられているとは限らない。"
+    }
+  ],
+  "core": [],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算】販売者・販売業者・売主",
+      "frequency": 7,
+      "register": [
+        "一般、商業、調達、IT。企業の売り手や不動産の売主にはやや改まった響きがある。street vendor は屋外で物を売る人を表す一般的な結合。"
+      ],
+      "definition": "商品やサービスを売る人・会社。露店で食べ物を売る人から、業務用ソフトウェアを提供する企業まで指す。法律・不動産の文脈では、土地・家などを売却する当事者である「売主」を指し、売却を仲介する人と区別する。",
+      "patterns": [
+        "a vendor of something＝その物の販売業者",
+        "a street vendor＝露店商・路上販売者",
+        "a software vendor＝ソフトウェア販売企業",
+        "buy something from a vendor＝販売者から物を買う",
+        "select a vendor＝取引する販売業者を選ぶ",
+        "the vendor and the purchaser＝売主と買主",
+        "a third-party vendor＝第三者の販売業者・外部ベンダー。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a vendor of 〈商品〉",
+          "use": "何を売る業者かを示す。",
+          "example": "The website lists vendors of refurbished office furniture.",
+          "translation": "そのウェブサイトには再生オフィス家具の販売業者が掲載されている。"
+        },
+        {
+          "pattern": "a street vendor",
+          "use": "路上や露店で商品を売る人を指す。",
+          "example": "A street vendor was selling roasted chestnuts outside the station.",
+          "translation": "露店商が駅の外で焼き栗を売っていた。"
+        },
+        {
+          "pattern": "a software vendor",
+          "use": "ソフトウェア製品の売り手・提供企業を指す。",
+          "example": "Ask the software vendor whether technical support is included.",
+          "translation": "技術サポートが含まれているか、ソフトウェア販売企業に尋ねてください。"
+        },
+        {
+          "pattern": "buy something from a vendor",
+          "use": "販売者を from で示す。",
+          "example": "We bought the replacement batteries from an authorized vendor.",
+          "translation": "私たちは正規販売業者から交換用バッテリーを購入した。"
+        },
+        {
+          "pattern": "select a vendor",
+          "use": "比較や審査を経て調達先を決める。",
+          "example": "The team selected a vendor after testing all three systems.",
+          "translation": "チームは3つのシステムをすべて試した後、販売業者を選定した。"
+        },
+        {
+          "pattern": "the vendor and the purchaser",
+          "use": "売買文書で売主と買主という当事者の役割を示す。",
+          "example": "The draft contract identifies the vendor and the purchaser of the property.",
+          "translation": "契約書案には、その不動産の売主と買主が記載されている。"
+        },
+        {
+          "pattern": "a third-party vendor",
+          "use": "自社や主要な当事者以外の外部業者を指す。",
+          "example": "A third-party vendor supplies the payment software used by the store.",
+          "translation": "外部ベンダーが、その店で使う決済ソフトウェアを供給している。"
+        }
+      ],
+      "notes": [
+        "可算名詞なので、単数は a vendor、the vendor などとする。vendor は露店商だけでも企業だけでもない。vendor と supplier は重なるが、前者は販売者としての立場、後者は供給元としての役割を強調する。ソフトウェア業界で vendor は開発元であることも多いが、「必ず自社開発の製品を売る企業」という制約はない。不動産の vendor は売主であり、estate agent や real estate agent「不動産仲介業者」と同一とは限らない。purchaser は売買上の対照役を表し、語義全体の反意語として扱わない。動詞「販売する」は vend または sell であり、通常の英文で vendor をその代わりに使わない。"
+      ],
+      "synonyms": [
+        {
+          "word": "seller",
+          "definition": "商品・財産・権利などを売る人・組織。",
+          "frequency": 9,
+          "difference": "売り手全般に使う最も広い語。vendor は企業調達・露店・法律文書などでよく用いられ、文脈によって改まった響きになる。",
+          "example": "The seller lowered the asking price of the house.",
+          "translation": "売主はその家の売り出し価格を下げた。"
+        },
+        {
+          "word": "supplier",
+          "definition": "必要な物やサービスを供給する人・組織。",
+          "frequency": 8,
+          "difference": "売る行為より供給関係を前面に出す。vendor と同じ業者を指すことも多く、小売と卸売の違いで機械的に分けることはできない。",
+          "example": "The hotel changed its linen supplier last year.",
+          "translation": "そのホテルは昨年、リネンの供給業者を変えた。"
+        },
+        {
+          "word": "retailer",
+          "definition": "商品を最終消費者に小売りする人・企業。",
+          "frequency": 8,
+          "difference": "流通上の小売段階を明示する。vendor は企業向け販売者や卸売業者にも使える。",
+          "example": "The retailer offers discounts to customers who order online.",
+          "translation": "その小売業者はオンラインで注文する客に割引を提供している。"
+        },
+        {
+          "word": "dealer",
+          "definition": "特定種類の商品を売買する業者。",
+          "frequency": 8,
+          "difference": "自動車・美術品・中古品など、特定分野で商品を扱う業者を連想させやすい。vendor は販売する品目や仕入方法を指定しない。",
+          "example": "An antiques dealer offered to buy the clock.",
+          "translation": "骨董品商がその時計を買い取ると申し出た。"
+        },
+        {
+          "word": "hawker",
+          "definition": "街頭などで品物を売り歩く人。",
+          "frequency": 4,
+          "difference": "路上販売者という範囲で vendor と重なるが、売り歩く・呼び売りする形を強く連想させる。ソフトウェア企業や不動産の売主には使わない。",
+          "example": "Hawkers moved through the crowd selling bottled water.",
+          "translation": "売り子たちは瓶入りの水を売りながら群衆の中を歩いていた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算】自動販売機",
+      "frequency": 2,
+      "register": [
+        "自動販売機業界、機器の仕様・保守。一般向けには vending machine が明確。"
+      ],
+      "definition": "商品を自動的に販売する機械。人・企業を指す語義1とは別に、機械自体を指す専門的な用法。",
+      "patterns": [
+        "an automatic vendor＝自動販売機",
+        "a beverage vendor＝飲料自動販売機",
+        "a coin-operated vendor＝硬貨式自動販売機。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an automatic vendor",
+          "use": "業界文書で自動販売機本体を指す。",
+          "example": "The maintenance guide explains how to clear a jam in the automatic vendor.",
+          "translation": "保守ガイドには、その自動販売機の詰まりを取り除く方法が説明されている。"
+        },
+        {
+          "pattern": "a coin-operated vendor",
+          "use": "硬貨を投入して使う機械であることを明示する。",
+          "example": "This coin-operated vendor dispenses a ticket when the button is pressed.",
+          "translation": "この硬貨式自動販売機は、ボタンを押すと切符を発行する。"
+        },
+        {
+          "pattern": "a beverage vendor",
+          "use": "機械の仕様説明で、飲料を販売する機器を指す。",
+          "example": "The beverage vendor has a refrigerated compartment and an electronic coin mechanism.",
+          "translation": "その飲料自動販売機には冷蔵室と電子式硬貨処理機構がある。"
+        }
+      ],
+      "notes": [
+        "a beverage vendor だけでは「飲料を売る業者」とも解釈できる。機械の構造・操作などの文脈がなければ、a beverage vending machine と明示するほうが誤解を避けられる。vendor 全般が機械を意味するわけではなく、software vendor は通常、ソフトウェア企業を指す。"
+      ],
+      "synonyms": [
+        {
+          "word": "vending machine",
+          "definition": "料金の支払いに応じて商品などを自動的に出す機械。",
+          "frequency": 7,
+          "difference": "機械を指す一般的で明確な名称。vendor の機械義は領域が限られ、単独では販売者との曖昧さがある。",
+          "example": "There is a vending machine beside the elevators.",
+          "translation": "エレベーターの横に自動販売機がある。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
