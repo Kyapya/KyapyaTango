@@ -3,7 +3,7 @@
   "slug": "forfeit",
   "ipa": "米: /ˈfɔːrfɪt/｜英: /ˈfɔːfɪt/。2音節で、主強勢は第1音節。示した米英差は第1音節末の /r/ の有無。動詞・名詞・形容詞で主強勢は変わらない。",
   "lead": "規則違反、義務の不履行、取り消し、自分の言動などの結果、金銭・権利・機会・他者からの信頼を失う、または手放さなければならなくなる。主語は通常それを失う人・組織。犯罪への処罰に限らず、予約条件に伴う損失や、信頼を損なう比喩にも使う。",
-  "updated": "2026-10-09",
+  "updated": "2026-10-10",
   "notion_url": "https://app.notion.com/p/forfeit-3f44faa9b77d811fab5eee0541c39eef",
   "pronunciation": [
     "名詞・形容詞では、米語の第2音節の母音を /ə/ とする発音もある。上の基本形では第2音節は /ɪ/。forfeited の -ed は /ɪd/ で1音節増え、forfeits の末尾は /ts/。"
@@ -84,7 +84,7 @@
       "definition": "規則違反、義務の不履行、取り消し、自分の言動などの結果、金銭・権利・機会・他者からの信頼を失う、または手放さなければならなくなる。主語は通常それを失う人・組織。犯罪への処罰に限らず、予約条件に伴う損失や、信頼を損なう比喩にも使う。",
       "patterns": [
         "forfeit something＝主語が金銭・権利などを失う",
-        "forfeit something to someone＝相手にその金銭・財産を失う",
+        "forfeit something to someone＝金銭・財産を失い、それが相手に帰属する",
         "forfeit something by doing＝ある行為によって失う",
         "forfeit something for 〈違反・不履行〉＝その理由で失う",
         "forfeit the right to do something＝その行為をする権利を失う",
@@ -224,7 +224,7 @@
         }
       ],
       "notes": [
-        "They forfeited the match. は他動詞、They forfeited. は自動詞で、後者を目的語の欠落として誤りにしない。lose a match は普通に戦って負けた場合も含むが、forfeit は放棄・規則による負けという違いを示す。試合開始前だけに限定されず、試合後に違反が判明した場合もある。forfeit an innings は試合全体の敗北とは限らない。具体的な記録・点数・成立条件は競技規則で決まる。win by forfeit の forfeit は語義5の名詞で、勝つ側が forfeit するという意味ではない。"
+        "They forfeited the match. は他動詞、They forfeited. は自動詞で、後者を目的語の欠落として誤りにしない。lose a match は普通に戦って負けた場合も含むが、forfeit は放棄・規則による負けという違いを示す。試合開始前だけに限定されず、試合後に違反が判明した場合もある。forfeit an innings は試合全体の敗北とは限らず、そのイニングの開始前に放棄することを指す。MCCの2026年版競技規則では試合の最終イニングは対象外。開始後の打ち切りを表す declare an innings closed とは区別する。具体的な記録・点数・成立条件は競技規則で決まる。win by forfeit の forfeit は語義5の名詞で、勝つ側が forfeit するという意味ではない。"
       ],
       "synonyms": [
         {
@@ -333,7 +333,8 @@
       ],
       "definition": "規則違反や失敗などのために差し出す金銭・物、またはゲームで課される行為などの罰。失う行為そのものではなく、何を差し出すか・何をしなければならないかを表す。",
       "patterns": [
-        "a forfeit / forfeits＝1つの罰・没収物",
+        "a forfeit＝1つの罰・没収物",
+        "forfeits＝複数の罰・没収物",
         "pay a forfeit＝罰金や代償を払う・ゲームの罰を受ける",
         "a forfeit for 〈違反・失敗〉＝その行為への罰",
         "a forfeit of 〈金額〉＝その金額の罰金",
@@ -405,12 +406,10 @@
       ],
       "definition": "規則違反・不履行などによって権利や何かを失うこと。特に競技では、放棄・不出場・規則違反などを理由に負けとして扱うことを指す。by forfeit は勝敗が通常のプレーの結果ではなく、この扱いによって決まったことを示す。",
       "patterns": [
-        "win/lose by forfeit＝不戦勝・不戦敗などの扱いで勝つ",
-        "負ける",
+        "win/lose by forfeit＝不戦勝・不戦敗などの扱いで勝つ、または負ける",
         "a forfeit＝個別の試合放棄・失格負け",
         "the forfeit of 〈試合・権利〉＝その喪失",
-        "a forfeit win/loss＝放棄・違反による勝ち",
-        "負けという競技上の複合表現。"
+        "a forfeit win/loss＝放棄・違反による勝ち、または負けを表す競技上の複合表現。"
       ],
       "collocations": [
         {
@@ -476,8 +475,7 @@
       ],
       "definition": "違反・不履行・ある行為の結果として、金銭・財産・権利などが没収される、または失われる状態にある。既に失われた状態にも、条件が成立したため差し出すことになる状態にも使う。",
       "patterns": [
-        "something + be/become forfeit＝財産・権利などが失われる状態にある",
-        "なる",
+        "something + be/become forfeit＝財産・権利などが失われる状態にある、またはその状態になる",
         "something + be forfeit to someone＝相手に没収される・差し出すべき状態にある。通常は名詞の前に置かず、程度比較より権利・所有の状態を示す。"
       ],
       "collocations": [
