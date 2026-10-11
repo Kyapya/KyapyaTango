@@ -23,7 +23,7 @@
     },
     {
       "term": "guaranteeing",
-      "description": "現在分詞。guaranteing と e を落とさない。"
+      "description": "現在分詞。末尾の ee を残して -ing を付ける。"
     },
     {
       "term": "guarantor",
@@ -273,7 +273,7 @@
           "pattern": "you can guarantee that 〈節〉",
           "use": "経験などに基づく予測を述べる。",
           "example": "You can guarantee that someone will ask about the missing chart.",
-          "translation": "あの図がないことは、きっと誰かが尋ねるだろう。"
+          "translation": "あの図が見当たらないことについては、きっと誰かが尋ねるだろう。"
         }
       ],
       "notes": [
@@ -812,8 +812,8 @@
           "definition": "融資などに財務的な保証や裏付けを与える。",
           "frequency": 5,
           "difference": "金融の支援という点で重なるが、証券の引受けや保険の引受けなど独自の用法があり、guarantee と一律に同一ではない。",
-          "example": "A public agency agreed to underwrite the loan.",
-          "translation": "公的機関がその融資の返済保証を引き受けることに同意した。"
+          "example": "A public agency agreed to underwrite the loan by covering any repayments the borrower failed to make.",
+          "translation": "公的機関は、借り手が返済しなかった分を支払うことで、その融資の返済を保証することに同意した。"
         },
         {
           "word": "back",
