@@ -1,0 +1,404 @@
+{
+  "word": "compatible",
+  "slug": "compatible",
+  "ipa": "米: /kəmˈpæt̬.ə.bəl/｜英: /kəmˈpæt.ə.bəl/",
+  "lead": "機器・ソフトウェア・部品・形式などが、特定の別のものと組み合わせて使えること。元の製品と完全に同じ仕様・品質であることや、あらゆる機能が無制限に使えることまでは表さない。",
+  "updated": "2026-10-11",
+  "notion_url": "https://app.notion.com/p/compatible-3f64faa9b77d8103af32fb63f540c143",
+  "pronunciation": [
+    "4音節で、第2音節 /pæt̬/ または /pæt/ に主強勢がある。示した米英差は第2音節末の /t̬/ と /t/。米の /t̬/ は舌先を軽くはじく音を表す。第1・第3・第4音節の母音はいずれも弱い /ə/。comparable の代表形は第1音節に主強勢があり、compatible とは綴りも意味も異なる。"
+  ],
+  "etymology": [
+    "フランス語を経て、中世ラテン語 compatibilis に由来する。もとは compati「ともに苦しむ」に関係し、com-「ともに」と pati「苦しむ、耐える」にさかのぼる。同じ系統に compassion「思いやり」、patient「我慢強い、患者」がある。現代の compatible の中心は「一緒に存在・機能できる」であり、苦しむことは意味の条件ではない。"
+  ],
+  "formation": [
+    {
+      "term": "compatibility",
+      "description": "（主に不可算名詞）＝互換性、両立性、相性。compatibility with something の形で相手を示す。"
+    },
+    {
+      "term": "incompatible（形容詞）",
+      "description": "＝互換性がない、両立しない、気が合わない。反対を表す接頭辞は in-。"
+    },
+    {
+      "term": "incompatibility（名詞）",
+      "description": "＝不適合、不一致。一般的な性質なら不可算、個々の不一致を数える場合は可算にもなる。"
+    },
+    {
+      "term": "compatibly（副詞）",
+      "description": "＝支障なく一緒に、両立する形で。形容詞・名詞に比べて使用範囲は狭い。"
+    },
+    {
+      "term": "backward-compatible／backwards-compatible（複合形容詞）",
+      "description": "＝旧版・旧機器との互換性がある。語義1参照。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "共通するのは「二つのものがぶつからず、一緒に成り立つこと」。似ているかどうかよりも、組み合わせや関係が成立するかに焦点がある。医学での適合や製品の互換性も、この核に具体的な分野の条件が加わったもの。"
+    },
+    {
+      "type": "item",
+      "text": "一緒に成り立つ機器・製品の働き → 「互換性のある、対応している」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "一緒に成り立つ方針・条件の関係 → 「両立する、矛盾しない」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "一緒に成り立つ人どうしの関係 → 「相性がよい、気が合う」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "一緒に成り立つ身体・物質の組合せ → 「適合する、相容性のある」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "一緒に成り立つよう作られた製品 → 「互換機、互換品」（語義5）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【形容詞・限定／叙述】互換性のある、対応している",
+      "frequency": 7,
+      "register": [
+        "IT、製品説明、事務機器、日常の買い物。コンピューター以外の電池・消耗品・周辺機器にも使う。"
+      ],
+      "definition": "機器・ソフトウェア・部品・形式などが、特定の別のものと組み合わせて使えること。元の製品と完全に同じ仕様・品質であることや、あらゆる機能が無制限に使えることまでは表さない。",
+      "patterns": [
+        "be compatible with something",
+        "a compatible + 〈device/cartridge〉",
+        "compatible software",
+        "make something compatible with something",
+        "fully/partly compatible",
+        "backward-compatible with 〈旧版・旧規格〉。相手を示す標準的な前置詞は with。"
+      ],
+      "collocations": [
+        {
+          "pattern": "be compatible with an operating system",
+          "use": "ソフトウェアが特定のOSで使えることを述べる。",
+          "example": "This accounting software is compatible with the operating system on all our office computers.",
+          "translation": "この会計ソフトは、社内のすべてのパソコンに入っているOSに対応しています。"
+        },
+        {
+          "pattern": "compatible ink cartridges",
+          "use": "特定のプリンターで使えるカートリッジを指す。",
+          "example": "The supplier sells compatible ink cartridges for several older printer models.",
+          "translation": "その供給業者は、いくつかの旧型プリンター向けの互換インクカートリッジを販売している。"
+        },
+        {
+          "pattern": "make something compatible with something",
+          "use": "他の機器・形式に対応するように変更する。",
+          "example": "The update makes the app compatible with the new file format.",
+          "translation": "その更新によって、アプリが新しいファイル形式に対応するようになる。"
+        },
+        {
+          "pattern": "be fully compatible with something",
+          "use": "対応関係を強調する。何に対応するかを具体化する。",
+          "example": "The new reader is fully compatible with the cards we already use.",
+          "translation": "新しい読み取り機は、現在使っているカードに完全対応している。"
+        },
+        {
+          "pattern": "be backward-compatible with something",
+          "use": "新しいものが以前の版や規格にも対応すると述べる。",
+          "example": "The new console is backward-compatible with games made for the previous model.",
+          "translation": "新しいゲーム機は、前の機種向けに作られたゲームにも対応している。"
+        }
+      ],
+      "notes": [
+        "The software is compatible with this system. が標準形で、compatible to と機械的に置き換えない。comparable は「比較できる・同程度の」、compatible は「組み合わせて使える」。同価格の製品でも互換性がないことはある。compatible と interchangeable も違い、前者は一緒に使えること、後者は互いに代わりとして使えることが中心。backward-compatible は新しい側が古いものを扱える関係であり、古い側が新しい全機能を扱えることまでは意味しない。複合形容詞は a backward-compatible device のようにハイフンでつなぐ。互換性の範囲は製品・版・機能によって限定され得る。"
+      ],
+      "synonyms": [
+        {
+          "word": "interoperable",
+          "definition": "異なるシステムなどが情報をやり取りして連携できる。",
+          "frequency": 4,
+          "difference": "compatible より専門的で、システム間の連携・情報交換に焦点を当てる。単に部品が装着できることとは区別する。",
+          "example": "The hospitals need interoperable systems to exchange records securely.",
+          "translation": "各病院は、記録を安全にやり取りできる相互運用可能なシステムを必要としている。"
+        },
+        {
+          "word": "interchangeable",
+          "definition": "一方を他方の代わりに使える。",
+          "frequency": 5,
+          "difference": "compatible が組合せの成立を表すのに対し、こちらは置換可能性を表す。電池とカメラは対応していても互いに代用はできない。",
+          "example": "The batteries for these two models are interchangeable.",
+          "translation": "この2機種の電池は、相互に入れ替えて使える。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "incompatible",
+          "definition": "組み合わせて正常に使えない。",
+          "frequency": 6,
+          "difference": "特定の製品・版どうしの対応の可否という同じ軸で対立する。",
+          "example": "The plug is incompatible with the sockets in this building.",
+          "translation": "そのプラグは、この建物のコンセントに合わない。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【形容詞・限定／叙述】両立する、矛盾しない",
+      "frequency": 7,
+      "register": [
+        "一般、仕事、方針説明、学術的議論。価値観や生活との両立にも使う。"
+      ],
+      "definition": "考え・方針・目標・条件などが互いを排除せず、同時に成立したり実行できたりすること。一方が他方と完全に同じ、あるいは一方が他方を証明するという意味ではない。",
+      "patterns": [
+        "be compatible with 〈方針・事実・条件〉",
+        "be compatible with doing＝ある行為と両立する",
+        "mutually compatible + 〈goals/requirements〉",
+        "compatible + 〈aims/values〉。with は前置詞なので、動詞を直接続ける場合は -ing 形にする。entirely、perfectly、broadly、more などで両立の程度を示せる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "be compatible with a policy",
+          "use": "計画や行動が方針に反しないと述べる。",
+          "example": "The proposed changes are compatible with our policy of reducing waste.",
+          "translation": "提案された変更は、廃棄物を減らすという当社の方針に沿っています。"
+        },
+        {
+          "pattern": "be compatible with doing",
+          "use": "二つの行動・目的を両立できるか述べる。",
+          "example": "Reducing costs is compatible with maintaining quality if we eliminate unnecessary work.",
+          "translation": "不要な作業をなくせば、費用の削減と品質の維持は両立できる。"
+        },
+        {
+          "pattern": "be compatible with the evidence",
+          "use": "説明が確認された事実と矛盾しないことを述べる。",
+          "example": "Her account is compatible with the evidence collected so far.",
+          "translation": "彼女の説明は、これまでに集まった証拠と矛盾しない。"
+        },
+        {
+          "pattern": "mutually compatible goals",
+          "use": "複数の目標を同時に追求できると述べる。",
+          "example": "The team needs to agree on mutually compatible goals before work begins.",
+          "translation": "作業を始める前に、チームは互いに両立できる目標に合意する必要がある。"
+        },
+        {
+          "pattern": "be compatible with family life",
+          "use": "勤務形態などが家庭生活と両立するか述べる。",
+          "example": "The new schedule is more compatible with family life than the previous one.",
+          "translation": "新しい勤務日程は、以前のものより家庭生活と両立しやすい。"
+        }
+      ],
+      "notes": [
+        "compatible with the evidence は「証拠と矛盾しない」で、「証拠によって正しいと証明された」ではない。comply with は「規則などに従う」という動詞で、The plan is compatible with the rules. と The company complies with the rules. は構文が異なる。with の後ろに節を置くなら compatible with the fact that ... のように名詞句で受けられるが、compatible that ... を標準的な補文として使わない。compatible goals は同時に成り立つ目標であり、comparable goals の「比較できる／同程度の目標」とは違う。"
+      ],
+      "synonyms": [
+        {
+          "word": "consistent with",
+          "definition": "ある事実・原則などと食い違わない。",
+          "frequency": 7,
+          "difference": "整合性に重点がある。compatible with は、二つを一緒に成立させられることにも広く使う。",
+          "example": "The results are consistent with our earlier findings.",
+          "translation": "その結果は、以前の調査結果と整合している。"
+        },
+        {
+          "word": "reconcilable",
+          "definition": "違いを調整して両立させられる。",
+          "frequency": 3,
+          "difference": "初めは対立して見えるものを調整できる点に重点があり、compatible より改まった語。",
+          "example": "Their competing demands may still be reconcilable.",
+          "translation": "対立している両者の要求も、まだ両立させられるかもしれない。"
+        },
+        {
+          "word": "in line with",
+          "definition": "方針・予測・基準などに合って。",
+          "frequency": 7,
+          "difference": "基準との一致や方向性の合致をいう。単に二つが互いを妨げないという意味より狭い場合がある。",
+          "example": "The proposal is in line with the council's long-term plan.",
+          "translation": "その提案は、自治体の長期計画に沿っている。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "incompatible",
+          "definition": "同時には成立しない、両立しない。",
+          "frequency": 7,
+          "difference": "両立可能性という同じ軸で対立する。単なる細部の違いより強い不一致を表す。",
+          "example": "Those two requirements are incompatible.",
+          "translation": "その2つの要件は両立しない。"
+        },
+        {
+          "word": "contradictory",
+          "definition": "内容が互いに矛盾する。",
+          "frequency": 6,
+          "difference": "主張・説明・指示などの内容上の対立を明示する。両立しない原因が時間や資源不足の場合には必ずしも使えない。",
+          "example": "The two witnesses gave contradictory accounts.",
+          "translation": "2人の証人は、互いに矛盾する説明をした。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【形容詞・限定／叙述】相性がよい、気が合う",
+      "frequency": 6,
+      "register": [
+        "一般、人間関係、恋愛、共同生活。感情的な好意そのものより関係の成り立ちやすさを述べる。"
+      ],
+      "definition": "二人以上の人が、性格・価値観・関心・生活習慣などの点で、よい関係を築いたり一緒に過ごしたりできること。恋愛関係だけでなく、同僚や同居人などにも使う。すべての好みや考えが同じである必要はない。",
+      "patterns": [
+        "people + be compatible",
+        "be compatible with someone",
+        "a compatible + 〈partner/roommate〉",
+        "compatible personalities",
+        "highly/sexually compatible。become、seem、more などとも使える。"
+      ],
+      "collocations": [
+        {
+          "pattern": "be compatible with someone",
+          "use": "特定の相手と気が合うと述べる。",
+          "example": "I enjoy working with her, but I don't think we'd be compatible as roommates.",
+          "translation": "彼女と一緒に働くのは楽しいけれど、同居人としては相性がよくないと思う。"
+        },
+        {
+          "pattern": "a compatible partner",
+          "use": "性格や暮らし方が合う相手を述べる。",
+          "example": "Finding a compatible partner matters more to him than having identical hobbies.",
+          "translation": "彼にとっては、趣味が完全に同じであることより、相性のよい相手を見つけることが大切だ。"
+        },
+        {
+          "pattern": "compatible personalities",
+          "use": "人の性格どうしがうまく合うことを述べる。",
+          "example": "Their compatible personalities make it easy for them to share an office.",
+          "translation": "二人は性格の相性がよいので、同じオフィスでも気持ちよく過ごせる。"
+        },
+        {
+          "pattern": "be sexually compatible",
+          "use": "親密な関係で性的な好み・希望などが合うと述べる。",
+          "example": "They care about each other but are not sexually compatible.",
+          "translation": "二人は互いを大切に思っているが、性的な相性は合わない。"
+        }
+      ],
+      "notes": [
+        "誰に対しても感じがよいという性質ではなく、相手との組合せを評価する語。friendly は人当たりのよさ、compatible は二人の相性であり、friendly でも互いの生活習慣が合わない場合は compatible とは限らない。We're compatible. だけでも成立し、with each other を常に付ける必要はない。恋愛について「お似合い」と訳せることはあるが、見た目が釣り合うという意味に限定しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "well-matched",
+          "definition": "性格・条件などがうまく釣り合った。",
+          "frequency": 5,
+          "difference": "二人の組合せのよさを示す。能力が互角の対戦相手にも使えるため、文脈が重要。",
+          "example": "They are a well-matched couple with similar priorities.",
+          "translation": "二人は大切にすることが似ている、相性のよいカップルだ。"
+        },
+        {
+          "word": "congenial",
+          "definition": "気が合い、一緒にいて心地よい。",
+          "frequency": 4,
+          "difference": "やや改まった語で、相手と過ごす快さに重点がある。compatible は長期的な暮らし方の適合も表せる。",
+          "example": "She found a congenial colleague who shared her interest in local history.",
+          "translation": "彼女は、郷土史という共通の関心を持つ気の合う同僚を見つけた。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "incompatible",
+          "definition": "性格・価値観・暮らし方などが合わない。",
+          "frequency": 6,
+          "difference": "相性という同じ軸での反対。互いを嫌っていることまでは必須でない。",
+          "example": "They remained friends but realised they were incompatible as partners.",
+          "translation": "二人は友人関係を保ったが、パートナーとしては相性が合わないと気付いた。"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "【形容詞・限定／叙述】適合する、相容性のある",
+      "frequency": 4,
+      "register": [
+        "医療、生物、化学、材料。日常的な「気が合う」とは区別する。"
+      ],
+      "definition": "血液・組織などが受け手に適合する、または物質などが有害な反応や分離を起こさず組み合わせられること。生物・化学上の適合性を表す専門的な用法で、具体的な条件は分野と対象によって異なる。",
+      "patterns": [
+        "compatible + 〈blood/materials〉",
+        "a compatible donor",
+        "be compatible with 〈受け手・組合せる物質〉",
+        "chemically compatible。医学では、誰に対して何が適合するかを文脈で特定する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "compatible blood",
+          "use": "輸血用の血液の適合性を述べる。",
+          "example": "The laboratory tested the samples to find compatible blood for the patient.",
+          "translation": "検査室は、その患者に適合する血液を見つけるために試料を検査した。"
+        },
+        {
+          "pattern": "a compatible donor",
+          "use": "移植を受ける人に適合する提供者を指す。",
+          "example": "The transplant team is still searching for a compatible donor.",
+          "translation": "移植チームは、今も適合するドナーを探している。"
+        },
+        {
+          "pattern": "be chemically compatible",
+          "use": "化学物質や材料を組み合わせられるか述べる。",
+          "example": "The two components must be chemically compatible before they can be used in the same coating.",
+          "translation": "二つの成分を同じ塗料に使うには、化学的に相容性がなければならない。"
+        }
+      ],
+      "notes": [
+        "医学で compatible とされることは、手術や治療の成功を無条件に保証するという意味ではない。血液型・組織型など、何の適合性を論じているかを確認する。compatible と identical「同一の」を同義にしない。植物については交配や接ぎ木が成立する適合性にも使われる。いずれも「互いの性質が似ている」だけでは足りず、その組合せが当該の目的で成り立つことが中心。"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "incompatible",
+          "definition": "生物・化学上の条件が合わず、組合せに支障がある。",
+          "frequency": 4,
+          "difference": "この分野での適合性の有無という同じ軸で対立する。",
+          "example": "The safety sheet warns that these chemicals are incompatible.",
+          "translation": "安全データシートは、これらの化学物質には相容性がないと警告している。"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "【名詞・可算】互換機、互換品",
+      "frequency": 3,
+      "register": [
+        "IT史、コンピューター販売、プリンター消耗品。コンピューターについては IBM compatibles などの歴史的な製品分類で特に見る。"
+      ],
+      "definition": "ほかの機器・システムと同じソフトウェアなどを使えるコンピューター、またはメーカー純正品の代わりに使える部品・消耗品。形容詞 compatible が製品を指す名詞になった用法。",
+      "patterns": [
+        "a compatible",
+        "compatibles",
+        "IBM compatibles",
+        "originals and compatibles。形容詞としての compatible cartridges とは区別し、名詞では複数形に -s が付く。"
+      ],
+      "collocations": [
+        {
+          "pattern": "IBM compatibles",
+          "use": "IBM PCと互換性のある他社製コンピューターを指す。",
+          "example": "The exhibition includes several IBM compatibles from the 1980s.",
+          "translation": "その展示には、1980年代のIBM PC互換機が数台含まれている。"
+        },
+        {
+          "pattern": "originals and compatibles",
+          "use": "純正品と互換品を区別して述べる。",
+          "example": "The cartridge catalogue lists both originals and compatibles.",
+          "translation": "そのカートリッジのカタログには、純正品と互換品の両方が載っている。"
+        }
+      ],
+      "notes": [
+        "人について a compatible と言って「相性のよい人」を一般的に表す用法ではない。compatible cartridges は「互換カートリッジ」で形容詞、compatibles は製品を指す名詞。「互換品」は「偽造品」と同義ではなく、また純正品と完全に同じ品質であるとも限らない。一般の読み手には compatible products や compatible cartridges と対象名詞を添えたほうが明確。"
+      ],
+      "synonyms": [
+        {
+          "word": "clone",
+          "definition": "別のコンピューターなどを模して作られた互換機。",
+          "frequency": 3,
+          "difference": "この意味では原型との模倣関係を強調する。compatible は利用上の互換性に重点がある。",
+          "example": "The company began by selling inexpensive PC clones.",
+          "translation": "その会社は、安価なPC互換機の販売から事業を始めた。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

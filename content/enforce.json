@@ -1,0 +1,298 @@
+{
+  "word": "enforce",
+  "slug": "enforce",
+  "ipa": "米: /ɪnˈfɔːrs/｜英: /ɪnˈfɔːs/",
+  "lead": "法律・規則・禁止・合意などを、単に存在させるだけでなく、実際に守らせたり実効性を持たせたりすること。法律の文脈では、権利や契約上の義務について実現・履行を求めることにも使う。監視や罰則を伴うことは多いが、物理的な力や処罰が常に必要なわけではない。",
+  "updated": "2026-10-11",
+  "notion_url": "https://app.notion.com/p/enforce-3f64faa9b77d819cbd83d2d97c49360d",
+  "pronunciation": [
+    "2音節で、第2音節に主強勢がある。示した米英差は、第2音節で米は母音の後に /r/ を発音する点。語末は /s/ で、/z/ ではない。過去形・過去分詞 enforced は米 /ɪnˈfɔːrst/、英 /ɪnˈfɔːst/ で、-ed は /t/。三人称単数 enforces は米 /ɪnˈfɔːr.sɪz/、英 /ɪnˈfɔː.sɪz/ となり、語尾に /ɪz/ が加わる。"
+  ],
+  "etymology": [
+    "古フランス語 enforcir、enforcier などの形に由来し、force「力」と同じ系統にある。さらにラテン語 fortis「強い」にさかのぼる。force「力、強制する」、fortify「強化する、防備を固める」は関連語。古くは力を与える・力で動かす意味を持ち、現代の主要用法では規則や決定を実際に守らせることを表す。"
+  ],
+  "formation": [
+    {
+      "term": "enforcement（不可算名詞）",
+      "description": "＝執行、施行、履行の確保。law enforcement は「法の執行・取締り」。"
+    },
+    {
+      "term": "enforceable（形容詞）",
+      "description": "＝法的に執行できる、守らせることができる。単に現時点で守られているという意味ではない。"
+    },
+    {
+      "term": "unenforceable（形容詞）",
+      "description": "＝執行できない、実効的に守らせられない。違法であるという意味と同一ではない。"
+    },
+    {
+      "term": "enforcer（可算名詞）",
+      "description": "＝規則・要求などを実行させる人。文脈によって取締り担当者、組織の強制役など。"
+    },
+    {
+      "term": "enforced（過去分詞・形容詞）",
+      "description": "＝執行された／強いられた。形容詞としての語義3も参照。"
+    },
+    {
+      "term": "reinforce（動詞）",
+      "description": "＝補強する、強める。現代語では enforce と使い分ける。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "中心にあるのは「力や権限を働かせて、ある行動や状態を成立させること」。法令の遵守、協力や沈黙の強制、外的事情によって強いられた状態につながる。力は物理的暴力とは限らず、規則・権限・仕組みや、本人には変えられない事情でもよい。"
+    },
+    {
+      "type": "item",
+      "text": "力や権限で規則の遵守を成立させること → 「守らせる、執行する、履行させる」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "力や権限で特定の行動を成立させること → 「強制する、強いて実現させる」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "外からの力で状態が成立したこと → 「強いられた、やむを得ない」（語義3）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞】守らせる、執行する、履行させる",
+      "frequency": 8,
+      "register": [
+        "法律、規則、行政、職場、学校、ITなど。公的な取締りに限らず、組織内のルールにも使う。"
+      ],
+      "definition": "法律・規則・禁止・合意などを、単に存在させるだけでなく、実際に守らせたり実効性を持たせたりすること。法律の文脈では、権利や契約上の義務について実現・履行を求めることにも使う。監視や罰則を伴うことは多いが、物理的な力や処罰が常に必要なわけではない。",
+      "patterns": [
+        "enforce a 〈law/rule/ban〉",
+        "enforce an agreement",
+        "enforce compliance with 〈規則〉",
+        "enforce a contract",
+        "enforce one's rights",
+        "enforce something against/on someone＝対象者などに対して執行する。受動は 〈規則など〉 + be enforced。厳密さを strictly、rigorously、consistently などで示す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "enforce the law",
+          "use": "法律を実際に守らせる活動を述べる。",
+          "example": "The agency needs more inspectors to enforce the law effectively.",
+          "translation": "その機関が法律を実効的に執行するには、さらに多くの検査官が必要だ。"
+        },
+        {
+          "pattern": "enforce a rule",
+          "use": "職場や学校などで決まりの遵守を徹底する。",
+          "example": "Managers must enforce the same rules for permanent and temporary staff.",
+          "translation": "管理職は、恒常的に雇用している職員にも臨時職員にも、同じ規則を守らせなければならない。"
+        },
+        {
+          "pattern": "enforce a ban on something",
+          "use": "すでに定めた禁止を実際に守らせる。",
+          "example": "Security staff enforce the ban on smoking inside the building.",
+          "translation": "警備員は、建物内の禁煙を徹底している。"
+        },
+        {
+          "pattern": "enforce compliance with something",
+          "use": "規則や基準への従属・遵守を確保する。",
+          "example": "Regular inspections help enforce compliance with safety standards.",
+          "translation": "定期的な検査は、安全基準の遵守を徹底するのに役立つ。"
+        },
+        {
+          "pattern": "enforce a contract",
+          "use": "契約で定めた義務を実際に果たさせることを述べる。",
+          "example": "The company sought legal advice on how to enforce the contract.",
+          "translation": "その会社は、契約の履行を求める方法について法律上の助言を求めた。"
+        },
+        {
+          "pattern": "enforce one's rights",
+          "use": "権利を実際に実現させるために行動する。",
+          "example": "The employees joined together to enforce their contractual rights.",
+          "translation": "従業員たちは、契約上の権利を実現するために団結した。"
+        },
+        {
+          "pattern": "enforce a rule against someone",
+          "use": "誰に対して規則を適用・執行するかを示す。",
+          "example": "The rule must be enforced against every supplier, not just smaller firms.",
+          "translation": "その規則は、小規模企業だけでなく、すべての供給業者に対して適用しなければならない。"
+        },
+        {
+          "pattern": "be strictly enforced",
+          "use": "規則を主語にし、厳格な執行を述べる。",
+          "example": "The parking restrictions are strictly enforced during business hours.",
+          "translation": "営業時間中は、駐車規制が厳格に実施されている。"
+        }
+      ],
+      "notes": [
+        "enact a law は「法律を制定する」、enforce a law は「法律を実際に守らせる」。a law comes into force は「法律が施行される・効力を生じる」で、個々の遵守を確保する行為とは区別する。implement は計画や制度を実施に移す広い語で、enforce は守らせる側面が強い。「人に規則を守らせる」は enforce the rules または make/force people to follow the rules とし、enforce people to follow the rules を標準的な形として覚えない。法律の場面で enforce a right/contract とあっても、語だけから裁判手続き・回収方法・当事者の権限までは決まらない。against は相手方を示し得るが、罰すること自体を常に意味するわけではない。be enforced は「執行される」で、be enforceable「執行できる」と異なる。"
+      ],
+      "synonyms": [
+        {
+          "word": "implement",
+          "definition": "計画・制度・決定などを実施に移す。",
+          "frequency": 8,
+          "difference": "実行全般に使う。enforce は、ルールなどに従わせて実効性を持たせることが中心。",
+          "example": "The company will implement the new training programme next month.",
+          "translation": "その会社は、来月から新しい研修制度を実施する。"
+        },
+        {
+          "word": "apply",
+          "definition": "規則・方法などを特定の対象に適用する。",
+          "frequency": 8,
+          "difference": "対象に当てはめることをいう。遵守を監督・確保するという enforce の含みは必須でない。",
+          "example": "The same criteria should be applied to every application.",
+          "translation": "すべての申請に同じ基準を適用すべきだ。"
+        },
+        {
+          "word": "police",
+          "definition": "活動や場所を監視し、規則違反などを取り締まる。",
+          "frequency": 5,
+          "difference": "動詞では監視・統制の活動に焦点がある。enforce は守らせる規則や義務を直接目的語にすることが多い。",
+          "example": "The organisation has difficulty policing its own members.",
+          "translation": "その組織は、自分たちの会員の行動を監督するのに苦労している。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【動詞・他動詞】強制する、強いて実現させる",
+      "frequency": 6,
+      "register": [
+        "やや改まった文章、組織・教育・政治・社会の説明。日常の「人に～させる」には force や make が広く使われる。"
+      ],
+      "definition": "協力・沈黙・服従などの行動や状態を、権限・圧力・仕組みなどによって実現させること。既存の法令を守らせる語義1と重なる場合もあるが、この語義では、望む状態を相手に受け入れさせることに焦点がある。",
+      "patterns": [
+        "enforce + 〈silence/cooperation/obedience〉",
+        "enforce something on someone＝行動や状態などを人に強いる。目的語は主に強制される行動・状態で、通常の force someone to do と構文が異なる。受動も可能だが、外的事情による状態の形容詞 enforced は語義3を参照。"
+      ],
+      "collocations": [
+        {
+          "pattern": "enforce silence",
+          "use": "人々が静かにしている状態を強制する。",
+          "example": "The supervisor tried to enforce silence throughout the examination.",
+          "translation": "監督者は、試験中ずっと静かにするよう徹底させようとした。"
+        },
+        {
+          "pattern": "enforce cooperation",
+          "use": "自発的とは限らない協力を強いて実現させる。",
+          "example": "A manager can enforce cooperation on a task, but cannot create genuine trust by order.",
+          "translation": "管理職は業務上の協力を強いることはできても、命令で本当の信頼を生み出すことはできない。"
+        },
+        {
+          "pattern": "enforce obedience",
+          "use": "指示への服従を圧力などによって確保する。",
+          "example": "The regime relied on fear to enforce obedience.",
+          "translation": "その政権は、服従を強いるために恐怖に頼っていた。"
+        },
+        {
+          "pattern": "enforce one's will on someone",
+          "use": "自分の意向を相手に押し付け、従わせる。",
+          "example": "He tried to enforce his will on the committee instead of seeking agreement.",
+          "translation": "彼は合意を求める代わりに、委員会に自分の意向を押し通そうとした。"
+        }
+      ],
+      "notes": [
+        "force someone to cooperate は「人」を直接目的語にする。enforce cooperation は「協力という行動」を直接目的語にする。impose a requirement は要件を課すこと、enforce a requirement はその要件を実際に守らせることであり、課す段階と遵守を確保する段階を区別する。enforce 自体は、物理的暴力を使ったという断定ではない。古い・硬い文章には「主張などを力強く述べる、補強する」という用法もあるが、現代の通常の作文では reinforce an argument や strengthen an argument のほうが明確。"
+      ],
+      "synonyms": [
+        {
+          "word": "force",
+          "definition": "人などに、望まない行為や状態を強いる。",
+          "frequency": 9,
+          "difference": "force someone to do の構文で人を直接示せる。enforce は規則・行動・状態を目的語にすることが多い。",
+          "example": "The deadline forced us to make a decision.",
+          "translation": "締切が迫っていたため、私たちは決断せざるを得なかった。"
+        },
+        {
+          "word": "compel",
+          "definition": "強い圧力や必要性によって行動させる。",
+          "frequency": 6,
+          "difference": "force より改まっており、compel someone to do が基本。規則を守らせる enforce の直接の置換にはならない。",
+          "example": "The evidence compelled the board to reconsider its decision.",
+          "translation": "その証拠を受け、取締役会は決定を再検討せざるを得なかった。"
+        },
+        {
+          "word": "impose",
+          "definition": "義務・負担・意向などを相手に課す。",
+          "frequency": 7,
+          "difference": "imposed something では課したことが中心で、実際に守らせたかまでは必ずしも示さない。",
+          "example": "The company imposed strict limits on overtime.",
+          "translation": "その会社は、時間外労働に厳しい制限を課した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【形容詞・主に限定・enforced】強いられた、やむを得ない",
+      "frequency": 5,
+      "register": [
+        "やや改まった文章、報道、スポーツ、生活・仕事の説明。"
+      ],
+      "definition": "本人の自由な選択ではなく、命令や外的事情によって生じた休止・欠席・離別などの状態。人による強制だけでなく、病気・故障など本人には避けられない事情によるものも含む。",
+      "patterns": [
+        "an enforced + 〈absence/break/stay〉",
+        "enforced + 〈inactivity/isolation〉",
+        "a period of enforced + 〈inactivity/absence〉。名詞の前で使うことが多い。The break was enforced rather than voluntary. のような叙述用法も可能だが、The rule was enforced. は普通、語義1の動詞の受動と解釈する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an enforced absence",
+          "use": "やむを得ない理由で参加・出勤できない期間を示す。",
+          "example": "She returned to work after an enforced absence caused by illness.",
+          "translation": "彼女は、病気でやむなく休んだあと、職場に復帰した。"
+        },
+        {
+          "pattern": "a period of enforced inactivity",
+          "use": "自分の意思ではない活動停止を述べる。",
+          "example": "The athlete used a period of enforced inactivity to study coaching.",
+          "translation": "その選手は、やむなく競技を休んでいた期間を使って、指導法を学んだ。"
+        },
+        {
+          "pattern": "an enforced stay",
+          "use": "交通の混乱などで、予定外に滞在せざるを得なくなったことを述べる。",
+          "example": "The cancelled flights resulted in an enforced stay of two extra nights.",
+          "translation": "欠航のため、予定より2泊長く滞在せざるを得なくなった。"
+        },
+        {
+          "pattern": "enforced isolation",
+          "use": "外的な制約によって孤立・隔離した状態を述べる。",
+          "example": "During his enforced isolation, he stayed in touch with colleagues by video call.",
+          "translation": "やむなく隔離されていた間も、彼はビデオ通話で同僚と連絡を取り合った。"
+        }
+      ],
+      "notes": [
+        "an enforced break は「休憩の規則が厳しく執行された」という意味に限らず、故障やけがなどで「中断を余儀なくされた」場合にも使う。enforced regulations なら「執行されている規則」という受動的な修飾で、enforced absence の「本人の意思によらない欠席」とは対象・意味が違う。人を主語にした I was enforced to stay. は通常使わず、I was forced to stay. とする。この形容詞にハイフンは不要。enforced は「義務化されている」という制度上の属性を必ず表すわけではなく、compulsory とも完全な同義ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "involuntary",
+          "definition": "本人の意思によらない。",
+          "frequency": 6,
+          "difference": "enforced より広く、反射的な身体の動きにも使う。必ずしも外的な命令や事情を前面に出さない。",
+          "example": "The company recorded several involuntary departures that year.",
+          "translation": "その会社では、その年に本人の希望によらない退職が何件かあった。"
+        },
+        {
+          "word": "forced",
+          "definition": "強いられた、選択の余地のない。",
+          "frequency": 7,
+          "difference": "enforced と近いが、forced evacuation など、強制的な行動にも幅広く使う。forced smile「作り笑い」は別の意味。",
+          "example": "They faced a forced move when the building was sold.",
+          "translation": "建物が売却され、彼らは移転を余儀なくされた。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "voluntary",
+          "definition": "本人の自由な意思による。",
+          "frequency": 7,
+          "difference": "外的事情に強いられたか、自ら選んだかという同じ軸で対立する。",
+          "example": "Her departure was voluntary, not the result of pressure from management.",
+          "translation": "彼女の退職は自発的なもので、経営側から圧力を受けた結果ではなかった。"
+        }
+      ]
+    }
+  ]
+}
