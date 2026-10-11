@@ -1,0 +1,558 @@
+{
+  "word": "employ",
+  "slug": "employ",
+  "ipa": "米・英: /ɪmˈplɔɪ/。2音節で、第2音節に主強勢がある。動詞と、in someone’s employ の名詞はこの発音を共有する。米語では第1音節の母音を /e/ とする発音もある。employed は /ɪmˈplɔɪd/、employs は /ɪmˈplɔɪz/。employing は /ɪmˈplɔɪɪŋ/ で、語幹の /ɔɪ/ の後に -ing が続く。",
+  "lead": "人に報酬を払って仕事をしてもらう。従業員を雇っている状態にも、新たに採用する行為にも使い、外部の専門家に仕事を依頼する場合も含む。",
+  "updated": "2026-10-11",
+  "notion_url": "https://app.notion.com/p/employ-3f64faa9b77d81ca8e11dd93de0b1e87",
+  "pronunciation": [],
+  "etymology": [
+    "古フランス語 emploier「用いる・従事させる」を経て、ラテン語 implicare「巻き込む・関わらせる」にさかのぼる。人の働きや手段を目的に使うという意味につながる。同じ implicare の系統に imply「暗に示す」、implicate「関与を示す・巻き込む」がある。現代の employ を em と独立した ploy「策略」の足し算で説明しない。"
+  ],
+  "formation": [
+    {
+      "term": "employs / employed / employing",
+      "description": "三人称単数現在・過去形と過去分詞・現在分詞。母音＋y なので employed とし、y を i に変えない。"
+    },
+    {
+      "term": "employer",
+      "description": "雇用主。employee：従業員。どちらも可算名詞で、雇う側と雇われる側を区別する。"
+    },
+    {
+      "term": "employment",
+      "description": "雇用・仕事・使用。unemployment：失業。どちらも通常不可算。"
+    },
+    {
+      "term": "employable",
+      "description": "雇用に必要な能力などを備えた。employability：雇用される可能性・就業能力。実際に雇われている employed とは別。"
+    },
+    {
+      "term": "employed / unemployed",
+      "description": "職に就いている・失業している、という対になる形容詞。the employed、the unemployed では人々を集合的に指す。"
+    },
+    {
+      "term": "self-employed",
+      "description": "自営業の。re-employ または reemploy：再び雇用する。他動詞。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "核は「人の働き・時間・手段を、目的のために働かせる」。行為を表す動詞、働いている状態、人々の集合、雇用関係を表す名詞を分ける。"
+    },
+    {
+      "type": "item",
+      "text": "人の働きを報酬を払って用いる行為 → 「雇う・雇用する」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "物や能力の働きを目的に用いる行為 → 「用いる・活用する」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "人の働きが有給の仕事に向いている状態 → 「職に就いている」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "人の時間や注意を作業に向ける行為 → 「時間を費やす・作業に従事させる」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "人の働きを報酬と結び付ける関係 → 「雇用・雇われている状態」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "人の働きが有給の仕事に向いている集団 → 「職に就いている人々」（語義6）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞】雇う・雇用する",
+      "frequency": 8,
+      "register": [
+        "一般、ビジネス、人事。"
+      ],
+      "definition": "人に報酬を払って仕事をしてもらう。従業員を雇っている状態にも、新たに採用する行為にも使い、外部の専門家に仕事を依頼する場合も含む。",
+      "patterns": [
+        "employ someone＝人を雇う",
+        "employ someone as 〈職種〉＝その職種で人を雇う",
+        "employ someone to do something＝その仕事をさせるために人を雇う",
+        "be employed by 〈雇用主〉＝その雇用主に雇われている",
+        "be employed in 〈産業・部門〉＝その産業・部門で働いている",
+        "employ someone on 〈業務〉＝その業務のために人を雇う。"
+      ],
+      "collocations": [
+        {
+          "pattern": "employ staff",
+          "use": "組織が職員を雇用することを表す。",
+          "example": "The company employs more than five hundred staff.",
+          "translation": "その会社は500人以上の職員を雇用している。"
+        },
+        {
+          "pattern": "employ someone as 〈職種〉",
+          "use": "どんな仕事をさせるかを示す。",
+          "example": "The library employs her as a part-time assistant.",
+          "translation": "その図書館は彼女をパートタイムの助手として雇っている。"
+        },
+        {
+          "pattern": "employ someone to do something",
+          "use": "雇用・依頼の目的となる作業を示す。",
+          "example": "We employed a specialist to assess the structural damage.",
+          "translation": "私たちは構造部分の損傷を調べてもらうため、専門家に仕事を依頼した。"
+        },
+        {
+          "pattern": "be employed by 〈雇用主〉",
+          "use": "雇用主を by で示す。",
+          "example": "He has been employed by the airline for eight years.",
+          "translation": "彼はその航空会社で8年間働いている。"
+        },
+        {
+          "pattern": "be employed in 〈産業・部門〉",
+          "use": "産業や仕事の分野を in で示す。",
+          "example": "Many residents are employed in tourism.",
+          "translation": "多くの住民が観光業で働いている。"
+        },
+        {
+          "pattern": "employ someone on 〈業務〉",
+          "use": "従事させるプロジェクトなどを on で示す。",
+          "example": "The contractor employed additional workers on the bridge repairs.",
+          "translation": "請負業者は橋の修理に従事する作業員を追加で雇った。"
+        }
+      ],
+      "notes": [
+        "employ someone は雇用主が主語、someone is employed by the company は働く人が主語。誤: I employ by the company／正: I am employed by the company。by は雇用主、as は職種、in は分野や所属部門、on は従事する業務などを示す。hire は採用する局面を強調しやすいが、employ を既存の雇用状態だけに限定しない。employ someone to do の to は不定詞で、後ろは動詞の原形。I am employed. が単に有職かどうかを述べる場合は、形容詞的な語義3との境界が重なる。"
+      ],
+      "synonyms": [
+        {
+          "word": "hire",
+          "definition": "報酬を払って人を雇う・仕事を依頼する。",
+          "frequency": 9,
+          "difference": "雇い入れる時点に焦点を置きやすい。employ は継続的な雇用関係や人数の説明にもよく使う。",
+          "example": "The company hired two analysts last month.",
+          "translation": "その会社は先月、分析担当者を2人採用した。"
+        },
+        {
+          "word": "engage",
+          "definition": "人の専門的なサービスを有償で依頼する。",
+          "frequency": 6,
+          "difference": "フォーマルで、弁護士やコンサルタントなどに仕事を頼む場面に向く。employ は一般従業員にも広く使う。",
+          "example": "They engaged an architect to redesign the entrance.",
+          "translation": "彼らは入口を設計し直すため、建築家に仕事を依頼した。"
+        },
+        {
+          "word": "retain",
+          "definition": "報酬を払って専門家のサービスを確保する。",
+          "frequency": 6,
+          "difference": "特に専門家に継続して対応してもらう関係を強調する。employ ほど広い雇用一般の語ではない。",
+          "example": "The association retained a lawyer to advise its members.",
+          "translation": "その協会は会員への助言を頼むため、弁護士と契約した。"
+        },
+        {
+          "word": "take on",
+          "definition": "人を新しく雇い入れる。",
+          "frequency": 7,
+          "difference": "比較的会話的で、新規に人員を迎える局面に重点がある。",
+          "example": "The firm took on ten apprentices.",
+          "translation": "その会社は見習いを10人雇い入れた。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "dismiss",
+          "definition": "人を解雇する。",
+          "frequency": 7,
+          "difference": "雇用することに対して、雇用主が雇用関係を終わらせる方向の反対。",
+          "example": "The company dismissed two managers.",
+          "translation": "会社はマネージャーを2人解雇した。"
+        },
+        {
+          "word": "lay off",
+          "definition": "仕事の減少などを理由に従業員を解雇・一時帰休させる。",
+          "frequency": 7,
+          "difference": "雇用を与えることに対して、仕事を提供しなくなる方向の対立。本人の非行を理由としない場合が多い。",
+          "example": "The factory laid off workers when demand fell.",
+          "translation": "需要が落ち込むと、その工場は従業員を解雇した。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【動詞・他動詞】用いる・活用する",
+      "frequency": 7,
+      "register": [
+        "フォーマル寄り。論文、説明文、業務文書。"
+      ],
+      "definition": "方法・道具・材料・言葉・能力などを、ある目的のために使う。意図的な選択や手段としての利用に焦点があるが、必ず有効・適切に使ったという評価は含まない。",
+      "patterns": [
+        "employ something＝方法・手段などを用いる",
+        "employ something to do something＝そのことをするために手段を用いる",
+        "employ something as 〈用途・役割〉＝その用途・役割で使う",
+        "employ something in doing something＝その活動に何かを用いる",
+        "be employed for 〈目的〉＝その目的に用いられる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "employ a method",
+          "use": "採用する方法を示す。",
+          "example": "The researchers employed a different method to check the results.",
+          "translation": "研究者たちは結果を確認するため、別の方法を用いた。"
+        },
+        {
+          "pattern": "employ something to do something",
+          "use": "利用の目的を不定詞で示す。",
+          "example": "The factory employs robots to handle repetitive tasks.",
+          "translation": "その工場は反復作業を処理するためにロボットを使っている。"
+        },
+        {
+          "pattern": "employ something as 〈用途・役割〉",
+          "use": "物などをどう位置付けて使うかを示す。",
+          "example": "The designer employed fabric as a temporary room divider.",
+          "translation": "デザイナーは布を一時的な間仕切りとして使った。"
+        },
+        {
+          "pattern": "employ something in doing something",
+          "use": "技術・能力が使われる活動を示す。",
+          "example": "She employed her language skills in negotiating with overseas suppliers.",
+          "translation": "彼女は海外の仕入先との交渉に語学力を活用した。"
+        },
+        {
+          "pattern": "be employed for 〈目的〉",
+          "use": "使われる物を主語にして目的を示す。",
+          "example": "This software is employed for quality control.",
+          "translation": "このソフトウェアは品質管理に用いられている。"
+        },
+        {
+          "pattern": "employ a term",
+          "use": "特定の用語を使うことを述べる。",
+          "example": "The report employs the term “household” in a broad sense.",
+          "translation": "その報告書は「世帯」という用語を広い意味で使っている。"
+        }
+      ],
+      "notes": [
+        "目的語は人だけではない。employ a technique を「技法を雇う」と訳さない。use より書き言葉的だが、特殊な道具や高度な方法に限らない。a poorly employed strategy のように、使い方が悪いことも表せるため「有効利用する」を必須の意味にしない。robots のように働きをする物も、雇用契約の相手としてではなく利用する手段として解釈できる。資金を運用に用いる文脈の capital employed は「投下資本」などと訳されるが、具体的な計算上の範囲は資料ごとに確認する。"
+      ],
+      "synonyms": [
+        {
+          "word": "use",
+          "definition": "道具・方法・資源などを使う。",
+          "frequency": 10,
+          "difference": "最も一般的で会話でも自然。employ は手段の選択・実施を説明する文章で使われやすい。",
+          "example": "We use recycled paper for our brochures.",
+          "translation": "私たちはパンフレットに再生紙を使っている。"
+        },
+        {
+          "word": "utilize",
+          "definition": "利用可能な物・能力などを目的に役立てる。",
+          "frequency": 7,
+          "difference": "employ と同じくフォーマル。資源や能力の活用を強調しやすいが、必ず効率的だと断定する語ではない。",
+          "example": "The system utilizes waste heat to warm the building.",
+          "translation": "そのシステムは排熱を建物の暖房に利用している。"
+        },
+        {
+          "word": "apply",
+          "definition": "方法・知識などを特定の対象に適用する。",
+          "frequency": 8,
+          "difference": "対象へ当てはめる方向を示し、apply a method to a problem の形が典型的。employ は利用する手段自体に焦点を置く。",
+          "example": "She applied the same technique to a new dataset.",
+          "translation": "彼女は新しいデータセットに同じ手法を適用した。"
+        },
+        {
+          "word": "deploy",
+          "definition": "人員・資源・技術などを目的のために配置・投入する。",
+          "frequency": 7,
+          "difference": "必要な場所や局面に戦略的に投入する含みがある。employ はもっと広く使うことを表す。",
+          "example": "The team deployed additional servers during the sale.",
+          "translation": "チームはセール期間中、追加のサーバーを投入した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【分詞形容詞・限定用法と叙述用法】職に就いている",
+      "frequency": 7,
+      "register": [
+        "一般、雇用状況、統計・社会問題。"
+      ],
+      "definition": "employed の形で、有給の仕事を持っている状態を表す。採用されたという出来事より、現在などの時点で仕事があるかどうかに焦点がある。",
+      "patterns": [
+        "be employed＝職に就いている",
+        "remain employed＝働き続けている",
+        "employed people＝職のある人々",
+        "gainfully employed＝収入を得る仕事に就いている",
+        "be employed full-time＝フルタイムで働いている。"
+      ],
+      "collocations": [
+        {
+          "pattern": "be employed",
+          "use": "仕事を持っているかを述べる。",
+          "example": "Are you currently employed?",
+          "translation": "現在、お仕事に就いていますか。"
+        },
+        {
+          "pattern": "remain employed",
+          "use": "雇用されている状態の継続を述べる。",
+          "example": "She remained employed throughout the restructuring.",
+          "translation": "彼女は組織再編の間も職を失わずに働き続けた。"
+        },
+        {
+          "pattern": "employed people",
+          "use": "名詞の前で就業状態を示す。",
+          "example": "The survey asked employed people how long they spent commuting.",
+          "translation": "その調査では、働いている人々に通勤時間を尋ねた。"
+        },
+        {
+          "pattern": "gainfully employed",
+          "use": "収入の得られる仕事に就いていることを示す。",
+          "example": "He was gainfully employed within a month of leaving college.",
+          "translation": "彼は大学を離れてから1か月以内に、収入を得られる仕事に就いた。"
+        },
+        {
+          "pattern": "be employed full-time",
+          "use": "勤務の時間形態を示す。",
+          "example": "Both parents are employed full-time.",
+          "translation": "両親ともフルタイムで働いている。"
+        }
+      ],
+      "notes": [
+        "employed people のような限定用法と be/remain employed のような叙述用法がある。通常は職の有無を表すため very employed や more employed で単純な程度を示さない。get employed は雇用への移行を表せるが、採用という出来事には get hired がよく使われる。employed by a firm では受動態の読みとも重なる。self-employed は「自営業の」で、誰かに雇われているという意味とは異なる。統計における employed の集計範囲は定義によるので、すべての制度で自営業者を含む・含まないと決めつけない。"
+      ],
+      "synonyms": [
+        {
+          "word": "working",
+          "definition": "有給の仕事を持って働いている。",
+          "frequency": 9,
+          "difference": "working parents などで一般的。working は別の文脈では「作動中の」なども表し、employed のように雇用状態だけを示す語ではない。",
+          "example": "Working parents often need flexible schedules.",
+          "translation": "働く親には柔軟な勤務時間が必要なことが多い。"
+        },
+        {
+          "word": "in work",
+          "definition": "職に就いている。",
+          "frequency": 6,
+          "difference": "主に英国英語での句。employed と近いが、通常は be in work のように叙述的に使う。",
+          "example": "She is back in work after a long break.",
+          "translation": "彼女は長く仕事を離れた後、再び仕事に就いている。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unemployed",
+          "definition": "職がない・失業している。",
+          "frequency": 8,
+          "difference": "雇用の有無という同じ状態軸上の対立。正式な統計上の失業者の範囲は別途定義される。",
+          "example": "He has been unemployed since the factory closed.",
+          "translation": "彼は工場が閉鎖されて以来、失業している。"
+        },
+        {
+          "word": "jobless",
+          "definition": "仕事がない。",
+          "frequency": 7,
+          "difference": "同じ状態軸上の反対で、報道などで使われやすい。職がない状態を直接示す。",
+          "example": "The closure left hundreds of workers jobless.",
+          "translation": "その閉鎖で何百人もの労働者が職を失った。"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "【動詞・他動詞・再帰用法と受動構文／分詞形容詞・叙述的補語】時間を費やす・作業に従事させる",
+      "frequency": 4,
+      "register": [
+        "フォーマル、書き言葉。再帰形は特に堅い表現。"
+      ],
+      "definition": "人の時間・注意・労力をある活動に向ける。employ oneself in doing は自分からその作業に取り組むこと、be employed (in) doing はその作業をして時間を過ごすことを表し、有給の雇用とは限らない。分詞形容詞 employed は、作業に取り組んでいる状態を表す。",
+      "patterns": [
+        "employ one’s time in doing something＝時間をそのことに費やす",
+        "employ oneself in doing something＝その作業に取り組む",
+        "be employed in doing something＝その作業に従事している",
+        "be employed doing something＝その作業に時間を使っている",
+        "keep someone employed＝人を作業に従事させておく。"
+      ],
+      "collocations": [
+        {
+          "pattern": "employ one’s time in doing something",
+          "use": "時間を何に使うかを述べる。",
+          "example": "She employed her spare time in cataloguing the family photographs.",
+          "translation": "彼女は余暇を家族の写真の整理に費やした。"
+        },
+        {
+          "pattern": "employ oneself in doing something",
+          "use": "自分で作業に取り組むことを述べる。",
+          "example": "He employed himself in repairing the garden fence.",
+          "translation": "彼は庭の柵を修理する作業に取り組んだ。"
+        },
+        {
+          "pattern": "be employed in doing something",
+          "use": "作業に時間を使っている状態を述べる。",
+          "example": "When I arrived, they were busily employed in packing boxes for the move.",
+          "translation": "私が到着したとき、彼らは引っ越し用の箱詰めにせっせと取り組んでいた。"
+        },
+        {
+          "pattern": "be better employed doing something",
+          "use": "in を伴わず、時間をもっと有益な作業に使うと述べる。",
+          "example": "Our time would be better employed checking the original records.",
+          "translation": "私たちは元の記録の確認に時間を使うほうが有益だ。"
+        },
+        {
+          "pattern": "keep someone employed",
+          "use": "仕事・作業を与えて時間を埋める。",
+          "example": "Sorting the old buttons kept the children happily employed for an hour.",
+          "translation": "古いボタンを仕分ける作業で、子どもたちは1時間、楽しそうに過ごした。"
+        }
+      ],
+      "notes": [
+        "in の後で行為を示すときは動名詞を使う。誤: be employed in sort the papers／正: be employed in sorting the papers。employ oneself in は能動再帰で主語自身が作業に取り組む形、be employed in は受動形の定着した構文であり、oneself が脱落した形ではない。be employed in banking「銀行業で働く」は語義1、be employed in sorting old photographs「古い写真の整理をする」はこの語義で、報酬は不要。be employed doing のように、この受動形の定着構文では in を省くこともあり、be better employed doing がよく使われる。能動再帰形 employ oneself in doing まで無条件に in を省けるという規則ではない。keep someone employed の employed は、作業に取り組んでいる状態を表す分詞形容詞で、keep の目的語 someone を説明する補語。文脈によって雇用を維持する意味にもなるので、ここでは一時的な作業を明示する。"
+      ],
+      "synonyms": [
+        {
+          "word": "occupy",
+          "definition": "人の注意や時間を占める・作業で忙しくさせる。",
+          "frequency": 7,
+          "difference": "occupy someone、occupy oneself with などで重なる。employ は時間や力を特定の作業に向ける使い方がやや文語的。",
+          "example": "The puzzle occupied her for most of the afternoon.",
+          "translation": "そのパズルで彼女は午後の大半を過ごした。"
+        },
+        {
+          "word": "busy oneself",
+          "definition": "自分からある作業に取り組んで忙しくする。",
+          "frequency": 5,
+          "difference": "作業をして動き回る様子を表しやすい。employ oneself はより改まった表現。",
+          "example": "He busied himself with preparations for the guests.",
+          "translation": "彼は客を迎える準備にいそしんだ。"
+        },
+        {
+          "word": "spend",
+          "definition": "時間をある活動に使う。",
+          "frequency": 10,
+          "difference": "日常的な表現で spend time doing とする。employ one’s time in doing より広く会話で使う。",
+          "example": "She spent the morning arranging the flowers.",
+          "translation": "彼女は午前中、花を生けて過ごした。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞・不可算】雇用・雇われている状態",
+      "frequency": 4,
+      "register": [
+        "フォーマル、やや古風な書き言葉。"
+      ],
+      "definition": "人や組織に雇われて働く関係。現代では主に in someone’s employ、in the employ of someone の定型句で使う。",
+      "patterns": [
+        "in someone’s employ＝その人・組織に雇われて",
+        "in the employ of someone＝その人・組織に雇われて",
+        "enter someone’s employ＝その人・組織に雇われて働き始める",
+        "leave someone’s employ＝その人・組織の下で働くのをやめる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "in someone’s employ",
+          "use": "所有格で雇用主を示す。",
+          "example": "She had been in the company’s employ for twenty years.",
+          "translation": "彼女はその会社に20年間勤めていた。"
+        },
+        {
+          "pattern": "in the employ of someone",
+          "use": "of の後に雇用主を示す。",
+          "example": "The report identified him as being in the employ of a private security firm.",
+          "translation": "その報告書では、彼は民間警備会社に雇われているとされていた。"
+        },
+        {
+          "pattern": "enter someone’s employ",
+          "use": "改まった文章で働き始めたことを述べる。",
+          "example": "He entered the publisher’s employ as a junior clerk.",
+          "translation": "彼は下級事務員としてその出版社に勤め始めた。"
+        },
+        {
+          "pattern": "leave someone’s employ",
+          "use": "特定の雇用主との関係を終えることを述べる。",
+          "example": "She left the firm’s employ at the end of the year.",
+          "translation": "彼女は年末にその会社を辞めた。"
+        }
+      ],
+      "notes": [
+        "名詞なので in my employ と言い、誤: in my employed とはしない。in someone’s employ と in the employ of someone は対応するが、誤: in employ of someone／正: in the employ of someone。一般的な名詞「雇用」は employment が広く使われ、通常「仕事を探す」を look for an employ とは言わず look for a job とする。"
+      ],
+      "synonyms": [
+        {
+          "word": "employment",
+          "definition": "雇用・雇用されている状態。",
+          "frequency": 8,
+          "difference": "現代英語の一般的な名詞で、条件・期間・機会など多くの組合せで使える。employ は定型句に偏る。",
+          "example": "Her employment with the agency ended in June.",
+          "translation": "彼女のその代理店での雇用は6月に終了した。"
+        },
+        {
+          "word": "service",
+          "definition": "人や組織に仕えて働くこと。",
+          "frequency": 5,
+          "difference": "in someone’s service のように使い、雇用だけでなく奉仕の関係も含み得る。employ は雇われている関係を明確にする。",
+          "example": "He spent many years in the ambassador’s service.",
+          "translation": "彼は長年、大使に仕えて働いた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【名詞的用法・複数扱い】職に就いている人々",
+      "frequency": 4,
+      "register": [
+        "フォーマル、労働・社会問題、統計。"
+      ],
+      "definition": "the employed の形で、職を持って働く人々をひとまとまりに指す。雇用状況を比較する統計や議論で用いる。",
+      "patterns": [
+        "the employed＝職に就いている人々",
+        "among the employed＝就業者の間で",
+        "the employed and the unemployed＝就業者と失業者。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the employed",
+          "use": "人々を集合的に指し、複数の動詞と結び付ける。",
+          "example": "The employed were asked about their working hours.",
+          "translation": "就業者には労働時間について質問が行われた。"
+        },
+        {
+          "pattern": "among the employed",
+          "use": "就業者集団内の傾向を示す。",
+          "example": "Among the employed, part-time work was more common than expected.",
+          "translation": "就業者の間では、予想以上にパートタイム勤務が多かった。"
+        },
+        {
+          "pattern": "the employed and the unemployed",
+          "use": "就業状態の異なる集団を対比する。",
+          "example": "The survey compared the views of the employed and the unemployed.",
+          "translation": "その調査は就業者と失業者の意見を比較した。"
+        }
+      ],
+      "notes": [
+        "形容詞を the と組み合わせて人々を表す名詞的用法。the employed are のように複数扱いで、個人を an employed と数えず an employed person とする。employed people では employed は名詞を修飾する形容詞（語義3）。個別統計が自営業者を別に分類しているかは、その統計の定義に従う。"
+      ],
+      "synonyms": [
+        {
+          "word": "workers",
+          "definition": "仕事に従事する人々。",
+          "frequency": 9,
+          "difference": "仕事の種類や文脈によって無償の活動者を含むこともある。the employed は就業の有無という分類に焦点がある。",
+          "example": "The study interviewed workers from several industries.",
+          "translation": "その研究では、複数の産業の労働者に聞き取りを行った。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "the unemployed",
+          "definition": "職のない人々・失業者たち。",
+          "frequency": 7,
+          "difference": "就業状態という同じ軸で対立する集合表現。複数扱いで使う。",
+          "example": "The programme offers training for the unemployed.",
+          "translation": "その事業は失業者に研修を提供している。"
+        }
+      ]
+    }
+  ]
+}
