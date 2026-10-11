@@ -1,0 +1,498 @@
+{
+  "word": "assure",
+  "slug": "assure",
+  "ipa": "米: /əˈʃʊr/｜英: /əˈʃʊə/、/əˈʃɔː/",
+  "lead": "相手に対し、あることが本当である、または実現すると自信を持って伝えること。疑いや心配を取り除くために使うことが多いが、相手を慰める場面に限らず、自分の説明が確かだと強調する場合にも使う。話し手が確かだと述べる行為であり、発言内容が実際に真実であることや、相手が必ず安心することまでは保証しない。",
+  "updated": "2026-10-11",
+  "notion_url": "https://app.notion.com/p/assure-3f64faa9b77d81a19f5ed05a035b6ee2",
+  "pronunciation": [
+    "2音節で、第2音節に主強勢がある。第1音節は米英とも弱い /ə/。第2音節は、ここで示した米音では /ʊ/ に /r/ が続き、英音では /ʊə/ または /ɔː/ となり、単独発音の語末に /r/ を出さない。綴りの ss は /s/ ではなく /ʃ/。過去形・過去分詞 assured の語尾は /d/ で、独立した音節を増やさない。"
+  ],
+  "etymology": [
+    "古フランス語 assurer などを経て、ラテン語 ad- と securus「安全な、心配のない」に由来する形につながる。「確かにする、安全にする」という歴史的な意味が、人に確信を与えることと、結果を確実にすることの両方に残る。同語源語には sure「確信している」、secure「安全な、確保する」がある。現代英語の assure を単純に a と sure に分けるだけでは、借用・変化の過程までは説明できない。"
+  ],
+  "formation": [
+    {
+      "term": "assurance（名詞）",
+      "description": "＝確約、保証する言葉／自信／保険上の保障。give someone an assurance は確約を与えること、with assurance は自信を持ってという意味。"
+    },
+    {
+      "term": "reassure（他動詞）",
+      "description": "＝不安な人を安心させる。現代では単に「もう一度 assure する」とは限らず、不安を和らげることが中心。"
+    },
+    {
+      "term": "assured（過去分詞・形容詞）",
+      "description": "＝確実な／自信に満ちた。動詞の受動形と、語義4・5の形容詞用法を区別する。"
+    },
+    {
+      "term": "self-assured（形容詞）",
+      "description": "＝自分に自信がある。限定・叙述のどちらでも使い、self-assured のハイフンを保つ。"
+    },
+    {
+      "term": "assuredly（副詞）",
+      "description": "＝確かに、間違いなく。やや改まった強調で、most assuredly も使う。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "人の認識や、結果・保障を「確かなものにする」こと。言葉で確信を与える場合と、実際に結果や保障を確保する場合を区別すると、目的語の違いを整理しやすい。"
+    },
+    {
+      "type": "item",
+      "text": "相手の認識を確かなものにする言葉 → 「確かだと言って安心させる、断言する」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "望む結果を確かなものにする働き → 「確実にする、保証する」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "自分の認識を確かなものにする確認 → 「自分で確かめる、確信を得る」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "自分への確信が言動に表れる性質 → 「自信に満ちた、落ち着いて確かな」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "結果や獲得が確かなものになった状態 → 「確実な、保証されている」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "保険による保障を確かなものにする契約 → 「保険をかける」（語義6）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞：他動詞】確かだと言って安心させる、断言する",
+      "frequency": 8,
+      "register": [
+        "会話・文章ともに標準的。ビジネス、顧客対応、説明、約束など。"
+      ],
+      "definition": "相手に対し、あることが本当である、または実現すると自信を持って伝えること。疑いや心配を取り除くために使うことが多いが、相手を慰める場面に限らず、自分の説明が確かだと強調する場合にも使う。話し手が確かだと述べる行為であり、発言内容が実際に真実であることや、相手が必ず安心することまでは保証しない。",
+      "patterns": [
+        "assure someone (that) 〈節〉＝人に～だと請け合う",
+        "assure someone of something＝内容を人に確約する",
+        "assure someone＝文脈で分かる内容について人に確信を与える",
+        "“〈発言〉,” someone + assure + someone＝直接話法で確かだと述べる",
+        "someone + be assured that 〈節〉＝～だと請け合われる",
+        "someone + be assured of something＝内容を確かだと言われる。assure と that 節の間に、話を向ける相手を置くのがこの語義の基本。"
+      ],
+      "collocations": [
+        {
+          "pattern": "assure someone that 〈節〉",
+          "use": "心配している相手に、状況を確かなこととして伝える。",
+          "example": "The technician assured us that the backup files were intact.",
+          "translation": "技術者は、バックアップファイルは無事だと私たちに請け合った。"
+        },
+        {
+          "pattern": "assure someone of something",
+          "use": "支援や誠意などを名詞句で伝える。",
+          "example": "In her reply, the director assured the staff of her continued support.",
+          "translation": "理事長は返答の中で、引き続き支援すると職員に確約した。"
+        },
+        {
+          "pattern": "I can assure you",
+          "use": "相手に向かって、発言の確かさを強調する。",
+          "example": "The decision was not made lightly, I can assure you.",
+          "translation": "その決定が軽々しくなされたものではないことは、はっきり申し上げられます。"
+        },
+        {
+          "pattern": "let me assure you that 〈節〉",
+          "use": "改まった説明の中で、疑念を取り除くために強く述べる。",
+          "example": "Let me assure you that every application will receive careful consideration.",
+          "translation": "すべての応募書類を慎重に検討することを、ここでお約束します。"
+        },
+        {
+          "pattern": "be assured that 〈節〉",
+          "use": "説明を受けた人を主語にする受動形。",
+          "example": "We were assured that no additional fee would be charged.",
+          "translation": "追加料金はかからないと、私たちは説明を受けた。"
+        },
+        {
+          "pattern": "“〈発言〉,” someone + assure + someone",
+          "use": "確信を与える発言を、そのまま引用する形を示す。",
+          "example": "“Your reservation is still valid,” the receptionist assured him.",
+          "translation": "「ご予約は引き続き有効です」と、受付係は彼に請け合った。"
+        }
+      ],
+      "notes": [
+        "この伝達義では I assure you that it is safe. が基本で、I assure that it is safe. と相手を抜くと通常の学習用構文から外れる。「安全を確保する」なら I will ensure that it is safe.、または語義2の assure its safety とする。ただし「assure の目的語は必ず人」という一般化は誤りで、語義2では物・結果を直接目的語に取る。assure someone of something の of は、内容を名詞で示す形。assure someone to do something を「人に～すると請け合う」の基本構文にせず、assure someone that 〈主語＋動詞〉を使う。I assure you は誠実な保証にも、強い反論・皮肉にもなり得るため、常に柔らかい表現とは限らない。"
+      ],
+      "synonyms": [
+        {
+          "word": "reassure",
+          "definition": "不安や疑いを和らげ、安心させる。",
+          "frequency": 7,
+          "difference": "不安を取り除く働きが中心。assure は、相手が不安でなくても内容を強く断言できる。",
+          "example": "The detailed explanation reassured the worried passengers.",
+          "translation": "詳しい説明を受け、不安を感じていた乗客たちは安心した。"
+        },
+        {
+          "word": "convince",
+          "definition": "人に、あることが真実だと納得させる。",
+          "frequency": 8,
+          "difference": "信じる・納得するに至らせることに重点がある。assure は確かだと伝えても、相手が信じない場合がある。",
+          "example": "The test results convinced us that the repair had worked.",
+          "translation": "試験結果を見て、私たちは修理が成功したと納得した。"
+        },
+        {
+          "word": "promise",
+          "definition": "ある行為をする、または結果を実現すると約束する。",
+          "frequency": 9,
+          "difference": "将来に向けた約束が中心。assure は、すでに起きた事実や現在の状態が確かだと述べる場合にも使う。",
+          "example": "She promised to send the revised contract by noon.",
+          "translation": "彼女は正午までに修正した契約書を送ると約束した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【動詞：他動詞】確実にする、保証する",
+      "frequency": 6,
+      "register": [
+        "やや改まった標準語。事業、資金、品質、スポーツなど。"
+      ],
+      "definition": "ある結果の実現や、利益・地位・安全などの確保を確実にすること。言葉で人を安心させる語義1とは異なり、行動・制度・実績などが結果をもたらす関係を表す。主語は人・組織だけでなく、資金や勝利なども取る。程度表現や否定によって「ほぼ確実にする」「確実にはしない」とも述べられる。",
+      "patterns": [
+        "assure 〈success/safety/continuity〉＝成功・安全・継続を確実にする",
+        "assure someone's future＝人や組織の将来を安定したものにする",
+        "assure someone something＝人に結果・利益を確保する",
+        "assure someone of something＝人が結果・利益を得られることを確実にする",
+        "something + be assured by something＝結果が何かによって確保される。"
+      ],
+      "collocations": [
+        {
+          "pattern": "assure the future of something",
+          "use": "事業・組織が今後も存続できる見通しを確保する。",
+          "example": "The five-year funding agreement will assure the future of the research centre.",
+          "translation": "5年間の資金提供契約によって、その研究センターの将来は安定する。"
+        },
+        {
+          "pattern": "assure quality",
+          "use": "工程や体制によって品質を確かなものにする。",
+          "example": "Independent inspections help assure quality across all production sites.",
+          "translation": "独立した検査は、すべての生産拠点で品質を確保するのに役立つ。"
+        },
+        {
+          "pattern": "assure someone a place",
+          "use": "人やチームに一定の地位・参加枠を確保する二重目的語構文。",
+          "example": "One more victory would assure the team a place in the final.",
+          "translation": "あと1勝すれば、そのチームの決勝進出が確実になる。"
+        },
+        {
+          "pattern": "assure someone of something",
+          "use": "言葉で説明するのではなく、条件・実績によって結果を確定させる。",
+          "example": "The extra funding assured the project of another year of operation.",
+          "translation": "追加資金によって、そのプロジェクトはさらに1年間運営を続けられることになった。"
+        },
+        {
+          "pattern": "be assured by something",
+          "use": "結果の確実さを支える要因を示す。",
+          "example": "Continuity of supply is assured by contracts with three independent manufacturers.",
+          "translation": "独立した3社のメーカーとの契約によって、供給の継続性が確保されている。"
+        }
+      ],
+      "notes": [
+        "The manager assured us of support. は、語義1なら「支援すると請け合った」。The grant assured us of funding. は、語義2で「助成金により資金が確保された」。同じ assure someone of something でも、伝達行為か実際の確保かを主語と文脈から判断する。assure success / assure safety は正しい用法であり、物目的語を理由に誤りとしない。ensure は「確実にする」の一般的な選択肢、insure は保険の意味で使うことが多いが、三語の意味には重なりがあり、綴りだけで機械的に区分できない。"
+      ],
+      "synonyms": [
+        {
+          "word": "ensure",
+          "definition": "必要な手段を講じて、ある状態・結果を確実にする。",
+          "frequency": 8,
+          "difference": "この語義の assure と広く重なる。ensure that 〈節〉が使いやすく、人に話しかける意味は通常ない。",
+          "example": "The extra check ensures that no page is missing.",
+          "translation": "追加確認により、ページの欠落がないことを確実にする。"
+        },
+        {
+          "word": "guarantee",
+          "definition": "結果が必ず得られることを保証する。",
+          "frequency": 8,
+          "difference": "確約にも、結果を必然にする条件にも使う。契約上の保証に使われることもあるが、その効力は文脈による。",
+          "example": "A large budget does not guarantee a successful launch.",
+          "translation": "予算が大きいからといって、発売が成功するとは限らない。"
+        },
+        {
+          "word": "secure",
+          "definition": "必要なものを手に入れ、失われないよう確保する。",
+          "frequency": 7,
+          "difference": "資金・契約・地位などを得る行為に焦点がある。assure はそれによって結果が確実になる関係を示す。",
+          "example": "The company secured a long-term supply agreement.",
+          "translation": "その会社は長期供給契約を獲得した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞：他動詞・再帰構文】自分で確かめる、確信を得る",
+      "frequency": 4,
+      "register": [
+        "改まった文章語。説明文、報告、物語など。日常会話では make sure が一般的。"
+      ],
+      "definition": "状況を調べたり確認したりして、自分自身が確かだと思えるようにすること。単に根拠なく「大丈夫だ」と自分に言い聞かせる意味に限定しない。",
+      "patterns": [
+        "assure oneself that 〈節〉＝～であることを自分で確かめる",
+        "assure oneself of something＝状態・事実を確認して確信する。oneself は主語に合わせ myself/yourself/himself/herself/ourselves/themselves などにする。"
+      ],
+      "collocations": [
+        {
+          "pattern": "assure oneself that 〈節〉",
+          "use": "実際に確認して、自分の疑いを取り除く。",
+          "example": "Before leaving, she checked the panel to assure herself that every alarm was active.",
+          "translation": "立ち去る前に、彼女はパネルを確認し、すべての警報装置が作動状態にあることを確かめた。"
+        },
+        {
+          "pattern": "assure oneself of the accuracy of something",
+          "use": "情報の正しさを自分で検証する。",
+          "example": "The editor checked the original records to assure himself of the accuracy of the dates.",
+          "translation": "編集者は元の記録を調べ、日付が正確であることを自ら確認した。"
+        }
+      ],
+      "notes": [
+        "この能動の再帰構文では、確認する本人を目的語として明示する。She assured herself that the door was locked. は「本人が確かめた」、She was assured that the door was locked. は語義1の受動で「他者からそうだと請け合われた」。後者を再帰代名詞を省略した形と考えない。assure oneself of a place は、文脈によっては語義2の「自分の出場枠を確保する」にもなるため、確認行為なのか実際の獲得なのかを読み分ける。"
+      ],
+      "synonyms": [
+        {
+          "word": "make sure",
+          "definition": "あることが本当であるか、適切に済んでいるかを確かめる。",
+          "frequency": 9,
+          "difference": "日常的で幅広く使える。assure oneself より硬さがなく、再帰代名詞を必要としない。",
+          "example": "Please make sure that all attachments are included.",
+          "translation": "添付ファイルがすべて含まれているか確認してください。"
+        },
+        {
+          "word": "satisfy oneself",
+          "definition": "調べたり考えたりして、自分なりに納得する。",
+          "frequency": 4,
+          "difference": "十分な根拠を得て納得する過程に焦点があり、同じく改まった表現。",
+          "example": "We inspected the sample to satisfy ourselves that it met the specification.",
+          "translation": "私たちはサンプルを調べ、仕様を満たしていることを自分たちで確かめた。"
+        },
+        {
+          "word": "verify",
+          "definition": "証拠や照合によって、正しさを確認する。",
+          "frequency": 7,
+          "difference": "客観的な検証行為を表し、確認する本人の確信を明示する必要はない。",
+          "example": "The clerk verified the booking number against the database.",
+          "translation": "係員は予約番号をデータベースと照合して確認した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【形容詞：assured、限定・叙述】自信に満ちた、落ち着いて確かな",
+      "frequency": 5,
+      "register": [
+        "標準的な文章語。人物、発表、演技・演奏などの評価。"
+      ],
+      "definition": "人の態度・話し方・演技・技能などに、自信や落ち着きが感じられること。誰かから保証の言葉を受けたという意味ではなく、assured が独立した形容詞として使われている。肯定的な評価が多いが、その人の判断が必ず正しいと保証する語ではない。",
+      "patterns": [
+        "an assured 〈manner/performance/voice〉＝自信ある態度・堂々とした演技・落ち着いた声",
+        "someone + be/look/seem assured＝自信がある・そう見える",
+        "become more assured＝自信を増す。very/more assured と程度を表せる。self-assured でも近い意味になる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an assured manner",
+          "use": "人の落ち着いた、自信ある振る舞いを評価する。",
+          "example": "Her assured manner helped the new employees feel at ease.",
+          "translation": "彼女の落ち着いた自信ある態度のおかげで、新入社員たちは安心できた。"
+        },
+        {
+          "pattern": "an assured performance",
+          "use": "技術や表現に迷いのない演技・演奏を表す。",
+          "example": "The young violinist gave an assured performance of a demanding piece.",
+          "translation": "若いバイオリニストは、難曲を堂々と演奏した。"
+        },
+        {
+          "pattern": "look assured",
+          "use": "外から見た自信や落ち着きを述べる。",
+          "example": "He looked assured as he answered the panel's questions.",
+          "translation": "審査員たちの質問に答える彼は、自信があるように見えた。"
+        },
+        {
+          "pattern": "become more assured",
+          "use": "経験を重ねて自信や安定感が増すことを表す。",
+          "example": "Her presentations became more assured with practice.",
+          "translation": "練習を重ねるにつれ、彼女のプレゼンには自信と安定感が出てきた。"
+        }
+      ],
+      "notes": [
+        "an assured speaker は自信ある話し手、an assuring message は相手に確信を与えるメッセージ。自信という本人の性質を表すときは assured/self-assured を使う。assured の前に an を置くのは、語頭が母音 /ə/ だから。assured 自体にハイフンは不要だが、self-assured はハイフンを保つ。"
+      ],
+      "synonyms": [
+        {
+          "word": "confident",
+          "definition": "自分の能力や判断を信頼している。",
+          "frequency": 8,
+          "difference": "最も広く使える基本語。assured はその自信が声や振る舞いの落ち着きに表れる場面でよく使う。",
+          "example": "She became more confident after leading the project.",
+          "translation": "彼女はプロジェクトを率いた後、自信を増した。"
+        },
+        {
+          "word": "poised",
+          "definition": "落ち着いていて、取り乱さずに振る舞える。",
+          "frequency": 5,
+          "difference": "人前での平静さや洗練された身のこなしに重点がある。",
+          "example": "He remained poised during the difficult interview.",
+          "translation": "難しい面接の間も、彼は落ち着きを保った。"
+        },
+        {
+          "word": "self-assured",
+          "definition": "自分自身や自分の能力への確信がある。",
+          "frequency": 5,
+          "difference": "自分への自信を明示する。assured が演奏などにも直接使えるのに対し、人の性質・態度が中心。",
+          "example": "The new manager is calm and self-assured.",
+          "translation": "新しい管理職は、落ち着きがあり自信に満ちている。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "diffident",
+          "definition": "自信がなく、控えめでためらいがちである。",
+          "frequency": 4,
+          "difference": "自信の有無という軸で対立する、やや改まった語。",
+          "example": "He sounded diffident when offering his suggestion.",
+          "translation": "彼は提案を述べるとき、自信がなさそうだった。"
+        },
+        {
+          "word": "hesitant",
+          "definition": "迷いや不安があり、行動や発言をためらう。",
+          "frequency": 6,
+          "difference": "態度・行動のためらいという軸で対立する。恒常的に自信がない性格とは限らない。",
+          "example": "Her first answer was hesitant, but she soon relaxed.",
+          "translation": "最初の返答にはためらいがあったが、彼女はすぐに緊張を解いた。"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "【形容詞：assured、限定・叙述】確実な、保証されている",
+      "frequency": 6,
+      "register": [
+        "標準的な文章語。ビジネス、スポーツ、説明・保証の言葉。"
+      ],
+      "definition": "結果が起こることや、人が何かを得られることが確実とされている状態。成功・将来・供給などにも、その受け手である人にも使う。virtually/almost assured は「ほぼ確実」であり、表現上なお余地を残す。rest assured は、相手に「確かだと思ってよい」と伝える定型表現。",
+      "patterns": [
+        "an assured 〈income/future/supply〉＝保証された収入・安定した将来・確実な供給",
+        "〈結果〉 + be/seem assured＝結果が確実である・そう見える",
+        "someone + be assured of something＝人が何かを得られることが確実である",
+        "rest assured (that) 〈節〉＝～だと安心してよい",
+        "You can/may rest assured (that) 〈節〉＝～だとご安心いただける。結果の確実さでは virtually/almost assured が自然で、語義4のような very assured とは使い分ける。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an assured income",
+          "use": "継続して得られることが保証された収入を表す。",
+          "example": "The long-term contract gave the workshop an assured income.",
+          "translation": "その長期契約により、工房は安定した収入を得られるようになった。"
+        },
+        {
+          "pattern": "seem assured",
+          "use": "成功などが確実に見える状態を述べる。",
+          "example": "With every major distributor on board, the product's success seemed assured.",
+          "translation": "主要な販売会社がすべて参加し、その商品の成功は確実に思えた。"
+        },
+        {
+          "pattern": "be assured of a place",
+          "use": "人やチームが出場枠などを確保している状態を表す。",
+          "example": "After today's results, the team is assured of a place in the semifinals.",
+          "translation": "今日の結果により、そのチームの準決勝進出が確定した。"
+        },
+        {
+          "pattern": "rest assured that 〈節〉",
+          "use": "相手の懸念を取り除くため、確かな対応を約束する。",
+          "example": "Rest assured that we will contact you as soon as the replacement arrives.",
+          "translation": "交換品が届き次第、必ずご連絡しますのでご安心ください。"
+        }
+      ],
+      "notes": [
+        "be assured of a place は、文脈により「出場できると説明を受けた」という語義1の受動にもなり得る。試合結果などで枠が確定した文脈なら、この状態義になる。rest assured の rest は「休息する」という指示ではなく、「確信した状態でいてよい」という定着した表現。Please rest assure は誤りで、Rest assured. または Rest assured that 〈節〉とする。You can rest assured of that.「その点は安心してよい」も自然。You can rest assured that... も自然で、受動文の be を追加して You can be rest assured としない。"
+      ],
+      "synonyms": [
+        {
+          "word": "guaranteed",
+          "definition": "実現や提供が保証されている。",
+          "frequency": 7,
+          "difference": "保証という関係を直接示す。assured は結果が確実な見通しになった場合にも使う。",
+          "example": "The programme offers a guaranteed place to applicants who meet all the conditions.",
+          "translation": "そのプログラムでは、すべての条件を満たす応募者の参加が保証される。"
+        },
+        {
+          "word": "certain",
+          "definition": "起こることが確実である。",
+          "frequency": 8,
+          "difference": "より基本的で広い語。certain to happen の形が使えるが、assured で同じ不定詞構文を機械的に作らない。",
+          "example": "Further delays now seem certain.",
+          "translation": "今や、さらなる遅延は避けられないように見える。"
+        },
+        {
+          "word": "secure",
+          "definition": "失う危険が小さく、安定している。",
+          "frequency": 7,
+          "difference": "将来・地位・収入の安定という点で近い。特定の出来事が必ず起こることとは焦点が違う。",
+          "example": "Her position in the organization is now secure.",
+          "translation": "組織内での彼女の立場は、今では安定している。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "uncertain",
+          "definition": "実現するかどうか、まだ確かでない。",
+          "frequency": 8,
+          "difference": "結果・将来の確実さという軸で assured に対立する。",
+          "example": "The future of the scheme remains uncertain.",
+          "translation": "その制度が今後どうなるかは、依然として不透明だ。"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "【動詞：他動詞】保険をかける",
+      "frequency": 2,
+      "register": [
+        "主にイギリス英語・保険。日常一般では insure の方が広く通じる。"
+      ],
+      "definition": "保険による保障を設けること。特に生命保険に関係するイギリス英語の用法で、assure someone's life や過去分詞形を含む sum assured に見られる。個々の契約の支払条件まで、動詞そのものが規定するわけではない。",
+      "patterns": [
+        "assure someone's life＝人の生命に保険をかける",
+        "someone's life + be assured for 〈金額〉＝ある金額の保障を付けて生命保険が掛けられている。sum assured は「保険金額」を表す定着した名詞句で、assured は assure の過去分詞に由来する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "assure one's life",
+          "use": "生命保険の保障を設けることを、英国の保険用語で述べる。",
+          "example": "He decided to assure his life for the benefit of his family.",
+          "translation": "彼は家族のために生命保険をかけることにした。"
+        },
+        {
+          "pattern": "someone's life + be assured for 〈金額〉",
+          "use": "生命保険の保障額を述べる。",
+          "example": "Under the policy, her life is assured for £200,000.",
+          "translation": "その保険契約では、彼女の生命に20万ポンドの保障が付いている。"
+        }
+      ],
+      "notes": [
+        "life assurance、the life assured「被保険者」、sum assured「保険金額」などの定着表現として読む機会がある。assurance と insurance の区別は地域・業界・商品名によっても異なり、「assure は必ず起きる出来事、insure は起きないかもしれない出来事」という説明だけで、すべての名称や契約を判定しない。この語義を、語義1の「人に請け合う」や語義2の一般的な「確実にする」と混同しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "insure",
+          "definition": "保険による保障を設ける。",
+          "frequency": 7,
+          "difference": "英米で広く使い、生命以外の財産・事故などにも使える。assure の保険義は主に英国で、生命保険に結びつくことが多い。",
+          "example": "She insured her camera against accidental damage.",
+          "translation": "彼女は、カメラの偶発的な損傷に備えて保険をかけた。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
