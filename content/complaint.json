@@ -1,0 +1,374 @@
+{
+  "word": "complaint",
+  "slug": "complaint",
+  "ipa": "米・英: /kəmˈpleɪnt/",
+  "lead": "何かが悪い、不十分だ、不当だとする個別の申し出、または不満の対象となる点。店舗への正式な苦情に限らず、身近な不満にも使う。苦情の内容が客観的に正しいことを語自体は保証しない。",
+  "updated": "2026-10-11",
+  "notion_url": "https://app.notion.com/p/complaint-3f64faa9b77d81a093caddeb002fcceb",
+  "pronunciation": [
+    "2音節で、第2音節に主強勢を置く。第1音節の母音は弱い /ə/。語末は /nt/ で、複数形 complaints は /kəmˈpleɪnts/。動詞 complain /kəmˈpleɪn/ には末尾の /t/ がない。"
+  ],
+  "etymology": [
+    "中英語・古いフランス語の complainte に由来し、「嘆く」を表す complaindre の系統につながる。さらにラテン語の com- による強調と plangere「嘆く」に関係する。現代では悲しみの表明だけでなく、不満や問題の申し出に使う。",
+    "同系語には complain「不平を言う」、plaint「嘆き、訴え」、plaintiff「原告」がある。見た目の近い compliant「従順な、規則に適合した」は別系統の語。"
+  ],
+  "formation": [
+    {
+      "term": "complain",
+      "description": "動詞。「苦情を言う、不調を訴える」。complaint は名詞であり、主語の後へそのまま動詞として置かない。"
+    },
+    {
+      "term": "complainant",
+      "description": "可算名詞。「申立人、苦情の申し立てをする人」。公式な手続きや報告で使う中立的な名称。"
+    },
+    {
+      "term": "complainer",
+      "description": "可算名詞。「不平を言う人」。文脈によって、文句が多いという否定的な評価を伴う。"
+    },
+    {
+      "term": "complaints department",
+      "description": "複合名詞。「苦情対応部門」。英語では複数形 complaints を名詞前に置く表現が定着している。"
+    },
+    {
+      "term": "complaint form",
+      "description": "複合名詞。「苦情申立書、苦情記入用紙」。記入用紙自体であり、内容の正当性が認められたことを意味しない。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "問題・不満・不調として訴えられることが中心。個々の訴え、その表明行為、訴えの対象となる身体の問題、正式な手続き上の訴えへと整理できる。"
+    },
+    {
+      "type": "item",
+      "text": "問題として訴える内容 → 「苦情、不満点」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "問題として訴える行為 → 「不平を言うこと、不満の表明」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "身体の問題として訴える内容 → 「不調、病気、症状」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "正式な手続きで問題を訴える内容 → 「法的な申立て、訴状」（語義4）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算】苦情、不満点",
+      "frequency": 9,
+      "register": [
+        "日常・顧客対応・職場"
+      ],
+      "definition": "何かが悪い、不十分だ、不当だとする個別の申し出、または不満の対象となる点。店舗への正式な苦情に限らず、身近な不満にも使う。苦情の内容が客観的に正しいことを語自体は保証しない。",
+      "patterns": [
+        "make a complaint to someone about something＝人に何かについて苦情を言う",
+        "a complaint from someone＝人からの苦情",
+        "a complaint against someone＝人に対する苦情",
+        "a complaint that 〈節〉＝その内容を訴える苦情",
+        "handle complaints＝苦情に対応する",
+        "have no complaints about something＝何かに不満がない",
+        "my only complaint is that 〈節〉＝唯一の不満点はそのことである"
+      ],
+      "collocations": [
+        {
+          "pattern": "make a complaint to someone about something",
+          "use": "相手と苦情の対象を区別する。",
+          "example": "I made a complaint to the hotel manager about the noise from the renovation.",
+          "translation": "私は改装工事の騒音についてホテルの支配人に苦情を言った。"
+        },
+        {
+          "pattern": "a complaint from someone",
+          "use": "苦情を申し出た側を示す。",
+          "example": "We received a complaint from a customer who had been charged twice.",
+          "translation": "二重に請求された顧客から苦情を受けた。"
+        },
+        {
+          "pattern": "a complaint against someone",
+          "use": "苦情の対象となる人物を示す。",
+          "example": "The supervisor investigated a complaint against a member of the sales team.",
+          "translation": "上司は営業チームの一員に対する苦情を調べた。"
+        },
+        {
+          "pattern": "a complaint that 〈節〉",
+          "use": "苦情の具体的な内容を示す。",
+          "example": "There have been several complaints that the website is difficult to use.",
+          "translation": "ウェブサイトが使いにくいという苦情が何件か寄せられている。"
+        },
+        {
+          "pattern": "handle complaints",
+          "use": "対応業務を述べる。",
+          "example": "The new team handles complaints about delayed deliveries.",
+          "translation": "新しいチームは配達の遅れに関する苦情に対応している。"
+        },
+        {
+          "pattern": "have no complaints about something",
+          "use": "特に不満がないことを述べる。",
+          "example": "I have no complaints about the quality of the work.",
+          "translation": "仕事の質には不満がありません。"
+        },
+        {
+          "pattern": "my only complaint is that 〈節〉",
+          "use": "不満の対象を特定する。",
+          "example": "My only complaint is that the room has no desk.",
+          "translation": "唯一の不満は、部屋に机がないことです。"
+        }
+      ],
+      "notes": [
+        "to は苦情を伝える相手、about は内容、against は対象となる人・組織、from は申し出た側。make a complaint が基本で、do a complaint とは通常言わない。名詞の I have a complaint. と動詞の I want to complain. を区別する。lodge a complaint は正式な申し出だが、必ず裁判上の訴状とは限らない。「クレーム」を claim に一律に置き換えると、権利や支払いの請求という別の意味になり得る。No complaints. は「文句なし」「特に問題ない」という短い応答にも使う。"
+      ],
+      "synonyms": [
+        {
+          "word": "grievance",
+          "definition": "不公平な扱いなどに対する不満、苦情。",
+          "frequency": 7,
+          "difference": "complaint より不当さや権利侵害への不満が前面に出やすく、職場の正式な申立てにも用いる。",
+          "example": "The employee raised a grievance about unequal treatment.",
+          "translation": "従業員は不平等な扱いについて苦情を申し立てた。"
+        },
+        {
+          "word": "objection",
+          "definition": "案や行為に反対する理由・意見。",
+          "frequency": 8,
+          "difference": "complaint がすでに受けたサービスなどへの不満にも使うのに対し、objection は提案の実施前の反対にも使う。",
+          "example": "Her main objection was the lack of a clear budget.",
+          "translation": "彼女の主な反対理由は明確な予算がないことだった。"
+        },
+        {
+          "word": "gripe",
+          "definition": "気に入らないことについての不平。",
+          "frequency": 5,
+          "difference": "口語的で、complaint より小さな不満や愚痴の響きが出やすい。",
+          "example": "My biggest gripe is the long wait for technical support.",
+          "translation": "一番の不満は、技術サポートを長く待たされることだ。"
+        },
+        {
+          "word": "protest",
+          "definition": "行為や状況に対する強い抗議。",
+          "frequency": 8,
+          "difference": "complaint より公然とした反対や強さを示しやすい。必ず集会やデモを指すわけではない。",
+          "example": "The residents sent a formal protest to the council.",
+          "translation": "住民たちは議会に正式な抗議を送った。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・不可算】不平を言うこと、不満の表明",
+      "frequency": 7,
+      "register": [
+        "一般・やや改まった記述"
+      ],
+      "definition": "個々の苦情を数えるのではなく、苦痛・不満などを訴える行為や、その表明をひとまとまりとして捉える。without complaint、grounds for complaint、a letter of complaint などの形が重要。",
+      "patterns": [
+        "without complaint＝不平を言わずに",
+        "grounds for complaint＝苦情を言う根拠",
+        "cause for complaint＝不満を述べる理由",
+        "a letter of complaint＝苦情の手紙"
+      ],
+      "collocations": [
+        {
+          "pattern": "without complaint",
+          "use": "不満を口にせずに行うことを示す。",
+          "example": "She took on the extra work without complaint.",
+          "translation": "彼女は不平を言わずに追加の仕事を引き受けた。"
+        },
+        {
+          "pattern": "grounds for complaint",
+          "use": "苦情を正当化する根拠を述べる。",
+          "example": "The repeated billing errors gave customers grounds for complaint.",
+          "translation": "繰り返される請求ミスは、顧客が苦情を言う根拠になった。"
+        },
+        {
+          "pattern": "cause for complaint",
+          "use": "不満を述べる理由があるかを表す。",
+          "example": "The service was prompt, and we found no cause for complaint.",
+          "translation": "サービスは迅速で、不満を言うような点は見当たらなかった。"
+        },
+        {
+          "pattern": "a letter of complaint",
+          "use": "手紙の種類・目的を示す。",
+          "example": "He wrote a letter of complaint after the airline lost his luggage.",
+          "translation": "航空会社が荷物を紛失した後、彼は苦情の手紙を書いた。"
+        }
+      ],
+      "notes": [
+        "without complaint は苦情という行為を不可算で示す。without a complaint は個別の一件もなかったことに焦点がある。a letter of complaint の a は letter に付く冠詞で、complaint を可算にしているわけではない。不満を心の中で感じることだけなら dissatisfaction などを使い、complaint は表明との結び付きが強い。"
+      ],
+      "synonyms": [
+        {
+          "word": "grumbling",
+          "definition": "小声や繰り返しの不平。",
+          "frequency": 6,
+          "difference": "complaint より不満の言い方を具体的に示し、話者が好ましくないと捉える響きが出やすい。",
+          "example": "There was some grumbling about the longer hours.",
+          "translation": "長くなった勤務時間について、多少の不平が出た。"
+        },
+        {
+          "word": "protest",
+          "definition": "抗議すること。",
+          "frequency": 7,
+          "difference": "この不可算用法は反対の表明を指す。complaint より強い抵抗の響きがある。",
+          "example": "They accepted the decision without protest.",
+          "translation": "彼らは抗議せずにその決定を受け入れた。"
+        },
+        {
+          "word": "lamentation",
+          "definition": "悲しみや喪失を嘆くこと。",
+          "frequency": 3,
+          "difference": "complaint の嘆き・苦痛の表明に近いが、日常的なサービスへの苦情には大げさで、文学的・改まった語。",
+          "example": "The announcement was followed by public lamentation over the loss of the old theater.",
+          "translation": "その発表の後、古い劇場が失われることを人々が嘆いた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算】不調、病気、症状",
+      "frequency": 5,
+      "register": [
+        "健康の記述・医学。一般の病名表現としてはやや改まっている"
+      ],
+      "definition": "身体の不調や病気、または患者が訴える症状。日常の illness よりやや改まった響きがあり、特定の部位の比較的軽い不調に使うことが多いが、軽症に限定されない。医療記録では患者の訴えを指すこともあり、確定した診断名とは限らない。",
+      "patterns": [
+        "a skin complaint＝皮膚の不調や病気",
+        "suffer from a complaint＝不調を抱える",
+        "a common complaint＝よくある不調",
+        "someone’s chief complaint＝患者の主訴"
+      ],
+      "collocations": [
+        {
+          "pattern": "a skin complaint",
+          "use": "症状のある部位を名詞前で示す。",
+          "example": "She consulted a doctor about a persistent skin complaint.",
+          "translation": "彼女は長引く皮膚の不調について医師に相談した。"
+        },
+        {
+          "pattern": "suffer from a complaint",
+          "use": "続いている身体的な問題を述べる。",
+          "example": "He has suffered from the same stomach complaint for several months.",
+          "translation": "彼は数か月にわたって同じ胃の不調を抱えている。"
+        },
+        {
+          "pattern": "a common complaint",
+          "use": "患者などに多い不調を述べる。",
+          "example": "Headache was a common complaint among patients in the study.",
+          "translation": "その研究の患者には頭痛の訴えが多かった。"
+        },
+        {
+          "pattern": "someone’s chief complaint",
+          "use": "受診時の中心的な訴えを示す。",
+          "example": "The patient’s chief complaint was dizziness when standing up.",
+          "translation": "患者の主訴は、立ち上がるときのめまいだった。"
+        }
+      ],
+      "notes": [
+        "chief complaint は診療上の「主訴」であり、「医療への一番大きな苦情」ではない。a complaint about the doctor は医師への苦情、a stomach complaint は胃の不調というように構造と対象が異なる。患者が訴える不調という意味を持つが、complaint という語自体が仮病や根拠のない訴えを意味するわけではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "ailment",
+          "definition": "比較的軽い病気や不調。",
+          "frequency": 6,
+          "difference": "一般的な身体の不調では complaint と近い。患者が何を訴えたかという医療記録上の焦点は必須でない。",
+          "example": "The clinic treats a range of common ailments.",
+          "translation": "その診療所はさまざまな一般的な病気を診療している。"
+        },
+        {
+          "word": "symptom",
+          "definition": "本人が感じる、または病気に伴って現れる症状。",
+          "frequency": 8,
+          "difference": "complaint が不調全体や患者の訴えを指すのに対し、symptom は病気などに伴う個々の現れに焦点を置く。",
+          "example": "The doctor asked when the symptoms had started.",
+          "translation": "医師は症状がいつ始まったかを尋ねた。"
+        },
+        {
+          "word": "disorder",
+          "definition": "身体や精神の機能に生じた障害。",
+          "frequency": 7,
+          "difference": "complaint より疾患・機能の乱れとしての分類に焦点があり、患者の主観的な訴えだけとは区別する。",
+          "example": "The report focuses on common digestive disorders.",
+          "translation": "その報告書は一般的な消化器の障害を扱っている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・可算】法的な申立て、訴状",
+      "frequency": 6,
+      "register": [
+        "法律・行政・報道。具体的な制度は法域により異なる"
+      ],
+      "definition": "裁判所や行政機関などに対して、違法・不当な行為を正式に申し立てること、またはその文書。米国の民事手続きでは訴えを始める訴状を指す。criminal complaint は犯罪の疑いを示す別種の文書で、民事の訴状と同一の手続きではない。",
+      "patterns": [
+        "file a complaint with 〈機関〉＝機関に正式な申立てをする",
+        "a civil complaint＝民事の訴状",
+        "a criminal complaint＝犯罪の疑いを記載した正式な申立書",
+        "a complaint alleging 〈違反行為〉＝違反を主張する申立書",
+        "dismiss a complaint＝申立てや訴状を退ける"
+      ],
+      "collocations": [
+        {
+          "pattern": "file a complaint with 〈機関〉",
+          "use": "正式な申立ての提出先を示す。",
+          "example": "The workers filed a complaint with the labor agency over unpaid wages.",
+          "translation": "労働者たちは賃金未払いについて労働関係の行政機関に正式な申立てをした。"
+        },
+        {
+          "pattern": "a civil complaint",
+          "use": "米国の民事訴状を明示する。",
+          "example": "The company filed a civil complaint in federal court seeking damages.",
+          "translation": "その会社は損害賠償を求め、連邦裁判所に民事訴訟の訴状を提出した。"
+        },
+        {
+          "pattern": "a criminal complaint",
+          "use": "刑事の文書として区別する。",
+          "example": "The federal criminal complaint sets out the alleged offense in writing.",
+          "translation": "その連邦刑事手続きの申立書は、犯罪の疑いの内容を文書で示している。"
+        },
+        {
+          "pattern": "a complaint alleging 〈違反行為〉",
+          "use": "文書が主張する内容を述べる。",
+          "example": "The agency received a complaint alleging unlawful discrimination.",
+          "translation": "行政機関は違法な差別があったとする申立書を受け取った。"
+        },
+        {
+          "pattern": "dismiss a complaint",
+          "use": "裁判所が訴状を退ける場面を示す。",
+          "example": "The court dismissed the complaint for lack of jurisdiction.",
+          "translation": "裁判所は管轄権がないとしてその訴えを退けた。"
+        }
+      ],
+      "notes": [
+        "complaint は主張や申立てであり、違法性・有罪がすでに認定されたことではない。米国連邦の civil complaint は民事訴訟の開始に用いられ、criminal complaint は犯罪を構成するとされる基本的事実を記す文書である。criminal complaint を常に indictment「大陪審による起訴状」と同一視しない。file with は提出先、complaint against は相手を示す。普通の顧客苦情を filed と言っても、それだけで訴訟になったとは限らない。"
+      ],
+      "synonyms": [
+        {
+          "word": "petition",
+          "definition": "裁判所や公的機関に対応を求める正式な申立て。",
+          "frequency": 6,
+          "difference": "complaint と一部の制度で重なるが、救済や許可を求める多様な手続きに使い、文書名は自由に交換できない。",
+          "example": "The lawyer filed a petition asking the court to review the decision.",
+          "translation": "弁護士は決定の再審査を裁判所に求める申立書を提出した。"
+        },
+        {
+          "word": "grievance",
+          "definition": "正式な手続きに従って申し立てる不当な扱いへの苦情。",
+          "frequency": 6,
+          "difference": "特に労使関係などで使う。必ず裁判所へ出す訴状であるとは限らない。",
+          "example": "The union filed a grievance under the collective agreement.",
+          "translation": "労働組合は労働協約に基づいて苦情を申し立てた。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

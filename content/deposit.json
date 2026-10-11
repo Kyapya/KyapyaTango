@@ -1,0 +1,748 @@
+{
+  "word": "deposit",
+  "slug": "deposit",
+  "ipa": "米: /dɪˈpɑː.zɪt/｜英: /dɪˈpɒz.ɪt/",
+  "lead": "銀行などの口座へ入れた金銭、または一回の入金。個々の入金は a deposit、複数は deposits。預けてある状態は on deposit と表す。口座残高全体と一回ごとの入金額は区別する。",
+  "updated": "2026-10-11",
+  "notion_url": "https://app.notion.com/p/deposit-3f64faa9b77d81aebb85d89892276e50",
+  "pronunciation": [
+    "名詞・動詞とも3音節で、第2音節に主強勢を置く。主な米英差は第2音節の母音で、米 /ɑː/、英 /ɒ/。第3音節の母音はここでは /ɪ/ とし、米語には /ə/ とする辞書表記もある。deposited の語尾は /ɪd/、deposits の語尾は /s/。"
+  ],
+  "etymology": [
+    "ラテン語 deponere「下に置く、預ける」の過去分詞 depositus に由来する名詞・動詞の系統。de-「下へ」と ponere「置く」が背景にあり、金銭を預ける意味と物質が置き残される意味の両方につながる。",
+    "同系語には depose「退位させる、証言する」、position「位置」、opponent「対抗者」がある。これらの現代的意味がすべて deposit の用法になるわけではない。"
+  ],
+  "formation": [
+    {
+      "term": "depositor",
+      "description": "可算名詞。「預金者、寄託者」。預ける側を表す。"
+    },
+    {
+      "term": "depository",
+      "description": "可算名詞。「保管所、預託機関」。人を表す depositor と区別する。"
+    },
+    {
+      "term": "deposition",
+      "description": "名詞。「堆積、析出」のほか、法律では「宣誓証言」、政治では「退位させること」。銀行への日常的な入金には通常 deposit を使う。"
+    },
+    {
+      "term": "deposit account",
+      "description": "複合名詞。「預金口座」。口座の具体的種類や引出し条件は商品ごとに異なる。"
+    },
+    {
+      "term": "direct deposit",
+      "description": "複合名詞。給与などの「口座への直接振込」。直接窓口で現金を渡すことではない。"
+    },
+    {
+      "term": "deposited",
+      "description": "過去形・過去分詞。deposited funds「預け入れられた資金」などは元の動詞から理解できる限定用法で、通常ハイフンを付けない。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "金銭・物・物質をある場所や相手のもとに置き、そこで保管・保持・蓄積されることが中心。返してもらえるか、代金に充当されるか、自然に積もるかは、対象と場面によって分かれる。"
+    },
+    {
+      "type": "item",
+      "text": "金銭が銀行に置かれたもの → 「預金、入金」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "購入代金の一部を先に置くもの → 「頭金、予約金」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "履行の担保として金銭を置くもの → 「保証金、預り金」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "金銭を銀行に置く行為 → 「預け入れる、入金する」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "約束に伴って金銭を先に置く行為 → 「頭金や保証金を支払う」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "物や人を特定の場所に置く行為 → 「置く、預ける、降ろす」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "物質が置き残されてたまったもの → 「堆積物、沈殿物、付着物」（語義7）"
+    },
+    {
+      "type": "item",
+      "text": "資源が地中に集まっているもの → 「鉱床、埋蔵層」（語義8）"
+    },
+    {
+      "type": "item",
+      "text": "物質を置き残してためる作用 → 「堆積させる、析出させる」（語義9）"
+    },
+    {
+      "type": "item",
+      "text": "物質が置き残されてたまる変化 → 「堆積する、析出する」（語義10）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算。on deposit では無冠詞】預金、入金",
+      "frequency": 8,
+      "register": [
+        "日常・銀行・会計"
+      ],
+      "definition": "銀行などの口座へ入れた金銭、または一回の入金。個々の入金は a deposit、複数は deposits。預けてある状態は on deposit と表す。口座残高全体と一回ごとの入金額は区別する。",
+      "patterns": [
+        "make a deposit into 〈口座〉＝口座に入金する",
+        "a deposit of 〈金額〉＝その金額の入金",
+        "bank deposits＝銀行預金",
+        "money on deposit＝預けてある金銭",
+        "a direct deposit＝口座への直接振込"
+      ],
+      "collocations": [
+        {
+          "pattern": "make a deposit into 〈口座〉",
+          "use": "入金先の口座を示す。",
+          "example": "I made a deposit into my savings account before lunch.",
+          "translation": "昼食前に自分の貯蓄口座へ入金した。"
+        },
+        {
+          "pattern": "a deposit of 〈金額〉",
+          "use": "一回の入金額を示す。",
+          "example": "A deposit of 300 dollars appeared on the statement.",
+          "translation": "明細に300ドルの入金が記載されていた。"
+        },
+        {
+          "pattern": "bank deposits",
+          "use": "銀行に預けられている資金をまとめて述べる。",
+          "example": "The report shows an increase in customer bank deposits.",
+          "translation": "その報告書は顧客の銀行預金が増えたことを示している。"
+        },
+        {
+          "pattern": "money on deposit",
+          "use": "資金が預金として保持されている状態を述べる。",
+          "example": "She keeps enough money on deposit to cover three months of expenses.",
+          "translation": "彼女は3か月分の支出をまかなえるだけのお金を預けている。"
+        },
+        {
+          "pattern": "a direct deposit",
+          "use": "給与などが口座に直接入ることを表す。",
+          "example": "My first salary payment arrived as a direct deposit.",
+          "translation": "初めての給与は口座への直接振込で支払われた。"
+        }
+      ],
+      "notes": [
+        "「入金する」は make a deposit または動詞 deposit を使う。名詞 a deposit の of は金額、into は入金先を示す。on deposit は「預金として置かれて」であり、on the deposit とすると特定の預金についての別の構造になる。預金商品としての time deposit や term deposit は「定期預金」だが、期間や引出し条件は名称だけでは確定しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "payment",
+          "definition": "金銭を支払うこと、またはその金額。",
+          "frequency": 9,
+          "difference": "deposit より広く、銀行への入金以外の代金支払いも含む。口座への入金には payment into an account と入金先を示せる。",
+          "example": "The payment into the account was delayed.",
+          "translation": "口座への入金が遅れた。"
+        },
+        {
+          "word": "credit",
+          "definition": "口座に資金が加わったことを示す記帳額。",
+          "frequency": 6,
+          "difference": "deposit が預け入れる行為や預金を指すのに対し、credit は入金側の記録を指し、返金なども含む。",
+          "example": "The statement includes a credit of 40 dollars from the retailer.",
+          "translation": "その明細には小売店からの40ドルの返金入金が含まれている。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "withdrawal",
+          "definition": "口座から金銭を引き出すこと、またはその金額。",
+          "frequency": 7,
+          "difference": "口座に入れる deposit と、口座から出す withdrawal の方向上の対立。",
+          "example": "The bank recorded two withdrawals that morning.",
+          "translation": "銀行はその朝、2件の引出しを記録した。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算】頭金、予約金",
+      "frequency": 8,
+      "register": [
+        "日常・買い物・不動産・旅行"
+      ],
+      "definition": "購入や予約を確保するために総額の一部として先に支払う金銭。残額を後で払う文脈で用いる。取り消した際に返金されるかどうかは、この名詞だけでは決まらない。",
+      "patterns": [
+        "pay a deposit on something＝何かの頭金を払う",
+        "put down a deposit＝頭金を入れる",
+        "a deposit of 〈金額・割合〉＝その金額または割合の頭金",
+        "a non-refundable deposit＝返金されない予約金"
+      ],
+      "collocations": [
+        {
+          "pattern": "pay a deposit on something",
+          "use": "購入対象を on で示す。",
+          "example": "We paid a deposit on a new sofa and will pay the balance on delivery.",
+          "translation": "私たちは新しいソファの頭金を払い、残額は配達時に払う。"
+        },
+        {
+          "pattern": "put down a deposit",
+          "use": "頭金を入れて購入や予約を確保する。",
+          "example": "They put down a deposit to reserve the wedding venue.",
+          "translation": "彼らは結婚式場を押さえるために予約金を入れた。"
+        },
+        {
+          "pattern": "a deposit of 〈割合〉",
+          "use": "総額のうち先払いする割合を述べる。",
+          "example": "The tour requires a deposit of twenty percent at the time of booking.",
+          "translation": "そのツアーは予約時に20パーセントの予約金が必要だ。"
+        },
+        {
+          "pattern": "a non-refundable deposit",
+          "use": "取り消しても戻らない金銭であることを明示する。",
+          "example": "The booking form clearly states that the deposit is non-refundable.",
+          "translation": "予約用紙には、予約金は返金されないと明記されている。"
+        }
+      ],
+      "notes": [
+        "日本語の「手付金」に相当する場面もあるが、特定の法的効果まで英語 deposit 一語に読み込まない。a deposit on a house は購入の頭金にも賃貸の保証金にもなり得るため、purchase、rent、balance など周辺情報で判断する。返還を想定する語義3とも重なる場合がある。"
+      ],
+      "synonyms": [
+        {
+          "word": "down payment",
+          "definition": "高額な買い物などで最初に支払う代金の一部。",
+          "frequency": 7,
+          "difference": "deposit と重なるが、特に住宅・自動車などの購入代金の初回支払いが中心。賃貸物件の損傷に備える保証金には通常使わない。",
+          "example": "They saved for a down payment on their first home.",
+          "translation": "彼らは初めての住宅の頭金のために貯金した。"
+        },
+        {
+          "word": "advance",
+          "definition": "通常の支払時期より前に渡す金銭。",
+          "frequency": 6,
+          "difference": "deposit が購入や予約の確保に結び付くのに対し、advance は給与・原稿料などの前払いにも使う。",
+          "example": "The publisher paid the author an advance.",
+          "translation": "出版社は著者に前払金を支払った。"
+        },
+        {
+          "word": "part payment",
+          "definition": "代金などの一部の支払い。",
+          "frequency": 5,
+          "difference": "最初の支払いや予約確保であることを必ずしも含まない。deposit は先払いの段階を表しやすい。",
+          "example": "The client made a part payment and promised to settle the rest next week.",
+          "translation": "依頼主は一部を支払い、残りは翌週に精算すると約束した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算】保証金、預り金",
+      "frequency": 7,
+      "register": [
+        "日常・賃貸・レンタル・容器回収"
+      ],
+      "definition": "借りた物の返却、損傷への備え、容器の回収などのため、あらかじめ差し入れる金銭。合意した条件を満たせば戻ることが多いが、返還の条件や控除の有無は別に確認する。",
+      "patterns": [
+        "a security deposit＝損傷や不履行に備える保証金",
+        "a refundable deposit＝返金可能な保証金",
+        "a deposit on 〈容器〉＝容器の返却を促す預り金",
+        "get a deposit back＝保証金を返してもらう"
+      ],
+      "collocations": [
+        {
+          "pattern": "a security deposit",
+          "use": "賃貸物件などの損傷に備える。",
+          "example": "The landlord returned the security deposit after inspecting the apartment.",
+          "translation": "家主はアパートを確認した後、保証金を返した。"
+        },
+        {
+          "pattern": "a refundable deposit",
+          "use": "返還可能であることを明示する。",
+          "example": "Bike rental requires a refundable deposit in addition to the daily fee.",
+          "translation": "自転車のレンタルには日額料金に加えて、返金可能な保証金が必要だ。"
+        },
+        {
+          "pattern": "a deposit on 〈容器〉",
+          "use": "容器回収の仕組みを述べる。",
+          "example": "There is a small deposit on each glass bottle, refunded when you return it.",
+          "translation": "ガラス瓶には1本ごとに少額の預り金がかかり、返すと戻ってくる。"
+        },
+        {
+          "pattern": "get a deposit back",
+          "use": "預けた金銭の返還を述べる。",
+          "example": "Will I get my deposit back if I return the equipment today?",
+          "translation": "今日機材を返したら、保証金は戻ってきますか。"
+        }
+      ],
+      "notes": [
+        "代金の一部を先払いする語義2と区別する。返金される保証金を「値引き」と訳さず、必ず戻るとも決めつけない。deposit for damage は「損害に備える保証金」の文脈になり得るが、deposit for a room だけでは宿泊予約金か保証金か確定しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "security",
+          "definition": "債務などの履行を確保するために差し入れる金銭や財産。",
+          "frequency": 5,
+          "difference": "deposit より広く、現金の預り金以外の担保も含む。この意味では通常不可算。",
+          "example": "The lender requested additional security for the loan.",
+          "translation": "貸し手は融資に追加の担保を求めた。"
+        },
+        {
+          "word": "bond",
+          "definition": "所定の条件を守るために差し入れる保証金。",
+          "frequency": 4,
+          "difference": "オーストラリアやニュージーランドなどの賃貸文脈では rental bond が使われる。deposit 全般の置換語ではない。",
+          "example": "The tenant paid a rental bond before moving in.",
+          "translation": "借主は入居前に賃貸保証金を支払った。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞・他動詞】預け入れる、入金する",
+      "frequency": 8,
+      "register": [
+        "日常・銀行・経理"
+      ],
+      "definition": "金銭・小切手などを銀行口座へ入れる。主語は預ける人や資金を振り込む組織、目的語は資金や小切手。現金を窓口に持参する場合に限らない。",
+      "patterns": [
+        "deposit money in 〈口座〉＝口座にお金を預け入れる",
+        "deposit funds into 〈口座〉＝口座へ資金を入れる",
+        "deposit a check＝小切手を入金する",
+        "have something deposited into 〈口座〉＝何かを口座へ入金してもらう"
+      ],
+      "collocations": [
+        {
+          "pattern": "deposit money in 〈口座〉",
+          "use": "預け入れる口座を示す。",
+          "example": "She deposits part of her income in a savings account each month.",
+          "translation": "彼女は毎月、収入の一部を貯蓄口座に預け入れる。"
+        },
+        {
+          "pattern": "deposit funds into 〈口座〉",
+          "use": "資金の移動先を強調する。",
+          "example": "The association deposited the funds into its operating account.",
+          "translation": "協会はその資金を運営用の口座に入金した。"
+        },
+        {
+          "pattern": "deposit a check",
+          "use": "小切手を口座への入金に用いる。",
+          "example": "You can deposit the check using the bank app.",
+          "translation": "銀行のアプリでその小切手を入金できます。"
+        },
+        {
+          "pattern": "have something deposited into 〈口座〉",
+          "use": "給与などを入金してもらう手配を述べる。",
+          "example": "He has his salary deposited into the same account every month.",
+          "translation": "彼は毎月、給与を同じ口座へ振り込んでもらっている。"
+        }
+      ],
+      "notes": [
+        "口座は deposit の直接目的語ではなく、in や into の後に置く。「口座に入金する」は deposit money into the account であり、deposit the account ではない。deposit someone money ではなく、deposit money into someone’s account とする。check は米綴り、cheque は英綴り。目的語が文脈上明らかなときには省かれることもある。"
+      ],
+      "synonyms": [
+        {
+          "word": "pay in",
+          "definition": "金銭を銀行口座に払い込む。",
+          "frequency": 6,
+          "difference": "特にイギリス英語の銀行文脈で使う句動詞。pay the money in、pay it in のように目的語の位置に注意する。",
+          "example": "Please pay the cash in before the branch closes.",
+          "translation": "支店が閉まる前に、その現金を入金してください。"
+        },
+        {
+          "word": "bank",
+          "definition": "金銭を銀行に預ける。",
+          "frequency": 6,
+          "difference": "deposit と近いが、bank the takings のように売上金の預入れにもよく使う。",
+          "example": "The manager banks the cash takings every afternoon.",
+          "translation": "店長は毎日午後に現金売上を銀行に預ける。"
+        },
+        {
+          "word": "credit",
+          "definition": "口座に入金額を記帳する。",
+          "frequency": 6,
+          "difference": "credit an account with money と口座を目的語にする。deposit money into an account との構文差が重要。",
+          "example": "The bank credited my account with the refund.",
+          "translation": "銀行は返金額を私の口座に入金記帳した。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "withdraw",
+          "definition": "口座から金銭を引き出す。",
+          "frequency": 7,
+          "difference": "資金を口座に入れる deposit に対する、移動方向の反対。withdraw money from an account とする。",
+          "example": "I withdrew enough cash for the weekend.",
+          "translation": "週末に必要な分の現金を引き出した。"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "【動詞・他動詞】頭金や保証金を支払う",
+      "frequency": 6,
+      "register": [
+        "商取引・賃貸"
+      ],
+      "definition": "購入・予約・賃貸などの合意に伴い、代金の一部や担保となる金銭を先に差し入れる。目的語は金額や金銭。銀行への通常の預入れとは目的が異なる。",
+      "patterns": [
+        "deposit 〈金額・割合〉＝所定額を先に支払う",
+        "deposit 〈金額〉 with someone＝人に金銭を預ける",
+        "deposit 〈金額〉 as security＝保証金として金銭を差し入れる",
+        "deposit 〈金額〉 on something＝購入対象の頭金を入れる"
+      ],
+      "collocations": [
+        {
+          "pattern": "deposit 〈割合〉",
+          "use": "購入代金を段階的に支払う。",
+          "example": "Customers deposit ten percent when ordering and pay the remainder on collection.",
+          "translation": "顧客は注文時に10パーセントを支払い、受取時に残額を払う。"
+        },
+        {
+          "pattern": "deposit 〈金額〉 with someone",
+          "use": "金銭を預かる相手を示す。",
+          "example": "We deposited 500 dollars with the rental company as security for the equipment.",
+          "translation": "私たちは機材の保証金としてレンタル会社に500ドルを預けた。"
+        },
+        {
+          "pattern": "deposit 〈金額〉 as security",
+          "use": "差し入れる金銭の役割を明示する。",
+          "example": "Each renter must deposit 100 dollars as security before taking a boat.",
+          "translation": "借りる人はそれぞれ、ボートを受け取る前に保証金として100ドルを預けなければならない。"
+        },
+        {
+          "pattern": "deposit 〈金額〉 on something",
+          "use": "購入の頭金であることを示す。",
+          "example": "She deposited 200 dollars on a custom-made sofa and paid the balance a week later.",
+          "translation": "彼女は特注ソファの頭金として200ドルを払い、1週間後に残額を払った。"
+        }
+      ],
+      "notes": [
+        "名詞を使う pay a deposit、put down a deposit も一般的。deposit の目的語は通常 the money、200 dollars などで、「店に預ける」は with the store などで受取人を示す。返還可能かどうかは refundable や契約条件で明示する。"
+      ],
+      "synonyms": [
+        {
+          "word": "put down",
+          "definition": "購入時に頭金として金銭を払う。",
+          "frequency": 6,
+          "difference": "この金銭義では put down 200 dollars、put 200 dollars down が可能。物を下に置く別義もある。",
+          "example": "They put down 1,000 dollars on a used car.",
+          "translation": "彼らは中古車の頭金として1,000ドルを払った。"
+        },
+        {
+          "word": "advance",
+          "definition": "代金などを通常より早く支払う。",
+          "frequency": 5,
+          "difference": "頭金や保証金以外の給与前払いなどにも使う。返還条件を含まない。",
+          "example": "The company advanced the contractor part of the fee.",
+          "translation": "会社は請負業者に報酬の一部を前払いした。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【動詞・他動詞。通常、場所を伴う】置く、預ける、降ろす",
+      "frequency": 6,
+      "register": [
+        "一般・描写・事務。人を降ろす用法はやや描写的"
+      ],
+      "definition": "物を特定の場所に置く、物を人や機関に預ける、または乗り物などが人をある場所へ運んで降ろす。put より改まった、または描写的な響きがある。人を降ろす用法には、そこに置いて去るような含みが出ることもある。",
+      "patterns": [
+        "deposit something on 〈場所〉＝何かをその場所に置く",
+        "deposit something with someone＝誰かに何かを預ける",
+        "deposit someone at 〈場所〉＝人をその場所で降ろす",
+        "deposit oneself in 〈座席〉＝そこに身を落ち着ける"
+      ],
+      "collocations": [
+        {
+          "pattern": "deposit something on 〈場所〉",
+          "use": "物を置く場所を示す。",
+          "example": "He deposited the heavy box on the kitchen floor.",
+          "translation": "彼は重い箱を台所の床に置いた。"
+        },
+        {
+          "pattern": "deposit something with someone",
+          "use": "保管を委ねる相手を示す。",
+          "example": "The owners deposited the original documents with their lawyer for safekeeping.",
+          "translation": "所有者たちは原本を保管のため弁護士に預けた。"
+        },
+        {
+          "pattern": "deposit someone at 〈場所〉",
+          "use": "乗り物が人を運んで降ろす場面を描く。",
+          "example": "The shuttle deposited us at the entrance to the conference center.",
+          "translation": "シャトルバスは私たちを会議場の入口で降ろした。"
+        },
+        {
+          "pattern": "deposit oneself in 〈座席〉",
+          "use": "自分の体を座席に落ち着かせる様子を描く。",
+          "example": "After the long walk, he deposited himself in the nearest armchair.",
+          "translation": "長い散歩の後、彼は一番近い肘掛け椅子にどさりと腰を下ろした。"
+        }
+      ],
+      "notes": [
+        "deposit oneself は同じ人が主語と目的語を兼ねる再帰構文で、自然な文脈では座る動作を描写する。He deposited himself in a chair. は「彼が椅子に腰を下ろした」、He was deposited at the station. は「彼が駅で降ろされた」であり、後者を再帰代名詞の省略とは捉えない。物を預けるこの語義でも、必ず所有権が移るとは限らない。"
+      ],
+      "synonyms": [
+        {
+          "word": "put",
+          "definition": "人や物をある場所に置く。",
+          "frequency": 10,
+          "difference": "最も一般的で、中立的。deposit に出やすい保管や置いて去る含みは必須でない。",
+          "example": "Put your bag beside the desk.",
+          "translation": "かばんを机の横に置いて。"
+        },
+        {
+          "word": "place",
+          "definition": "物を所定の位置に置く。",
+          "frequency": 8,
+          "difference": "位置を選んで置くことを表しやすい。deposit は重い物を下ろす場合にも使える。",
+          "example": "She placed the vase in the center of the table.",
+          "translation": "彼女は花瓶をテーブルの中央に置いた。"
+        },
+        {
+          "word": "drop off",
+          "definition": "人や物を目的地に運んで降ろす、届ける。",
+          "frequency": 8,
+          "difference": "人を降ろす deposit より日常的。drop someone off、drop them off とする。",
+          "example": "Could you drop me off outside the library?",
+          "translation": "図書館の前で降ろしてもらえますか。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【名詞・可算または不可算】堆積物、沈殿物、付着物",
+      "frequency": 6,
+      "register": [
+        "一般・地学・化学・医学"
+      ],
+      "definition": "水・空気などから分離して表面や底にたまった物質や層。泥、鉱物成分、脂肪などに用い、見える汚れだけを指すわけではない。ひとかたまりや種類を数える場合は可算、物質として捉える場合は不可算。",
+      "patterns": [
+        "a deposit of 〈物質〉＝その物質の堆積物",
+        "deposits on 〈表面〉＝表面の付着物",
+        "calcium deposits＝カルシウム沈着物",
+        "a buildup of deposits＝堆積物の蓄積"
+      ],
+      "collocations": [
+        {
+          "pattern": "a deposit of 〈物質〉",
+          "use": "何がたまっているかを示す。",
+          "example": "The flood left a deposit of fine sand across the road.",
+          "translation": "洪水の後、道路一面に細かな砂が堆積していた。"
+        },
+        {
+          "pattern": "deposits on 〈表面〉",
+          "use": "付着場所を示す。",
+          "example": "White deposits had formed on the inside of the kettle.",
+          "translation": "やかんの内側に白い付着物ができていた。"
+        },
+        {
+          "pattern": "calcium deposits",
+          "use": "医学的な沈着物を記述する。",
+          "example": "The scan revealed calcium deposits in the tendon.",
+          "translation": "検査画像で腱のカルシウム沈着が認められた。"
+        },
+        {
+          "pattern": "a buildup of deposits",
+          "use": "物質が次第に蓄積することを表す。",
+          "example": "A buildup of deposits had narrowed the pipe.",
+          "translation": "付着物の蓄積で管の内径が狭くなっていた。"
+        }
+      ],
+      "notes": [
+        "医学の fatty deposits は「脂肪の沈着物」で、銀行預金ではない。地中資源のまとまりを指す語義8と関連するが、この語義では付着や堆積そのものに焦点を置く。単数 a deposit は層・集まりを一つと数えるので、物質名 sand が不可算でも矛盾しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "sediment",
+          "definition": "液体中の粒子が沈んでできる沈殿物や堆積物。",
+          "frequency": 6,
+          "difference": "deposit より沈降した粒子に焦点があり、医学の脂肪沈着などにはそのまま使えない。",
+          "example": "A layer of sediment covered the bottom of the jar.",
+          "translation": "瓶の底を沈殿物の層が覆っていた。"
+        },
+        {
+          "word": "residue",
+          "definition": "処理や変化の後に残る物質。",
+          "frequency": 6,
+          "difference": "deposit は付着・堆積、residue は取り除いた後にも残るものという観点。",
+          "example": "Rinse the container to remove the soap residue.",
+          "translation": "石けんの残留物を除くため、容器をすすいでください。"
+        },
+        {
+          "word": "scale",
+          "definition": "硬水などから器具の内側に付着する硬い鉱物層。",
+          "frequency": 5,
+          "difference": "deposit の一種に当たり、特に湯沸かし器や配管の硬い付着物を指す。",
+          "example": "Scale had built up around the heating element.",
+          "translation": "発熱体の周りに水あかがたまっていた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【名詞・可算】鉱床、埋蔵層",
+      "frequency": 5,
+      "register": [
+        "地質・資源・経済報道"
+      ],
+      "definition": "鉱石・石炭・石油・天然ガスなど、地中に自然に集まった資源のまとまり。すべてが現在の技術や価格で採掘可能であることまでは含まない。",
+      "patterns": [
+        "a deposit of 〈資源〉＝資源の鉱床や埋蔵層",
+        "mineral deposits＝鉱物資源の鉱床",
+        "oil deposits＝石油の埋蔵層",
+        "discover a deposit＝鉱床を発見する"
+      ],
+      "collocations": [
+        {
+          "pattern": "a deposit of 〈資源〉",
+          "use": "資源の種類を示す。",
+          "example": "Geologists identified a large deposit of copper beneath the ridge.",
+          "translation": "地質学者たちは尾根の下に大規模な銅鉱床を確認した。"
+        },
+        {
+          "pattern": "mineral deposits",
+          "use": "複数の鉱床をまとめて述べる。",
+          "example": "The survey mapped mineral deposits across the region.",
+          "translation": "その調査は地域全体の鉱床を地図に示した。"
+        },
+        {
+          "pattern": "oil deposits",
+          "use": "石油が集まる地下の場所を述べる。",
+          "example": "The company is exploring oil deposits beneath the seabed.",
+          "translation": "その会社は海底下の石油埋蔵層を探査している。"
+        },
+        {
+          "pattern": "discover a deposit",
+          "use": "資源の存在を新たに見つける。",
+          "example": "The team discovered a lithium deposit during the survey.",
+          "translation": "調査中にチームはリチウム鉱床を発見した。"
+        }
+      ],
+      "notes": [
+        "reserves「埋蔵量」と常に同一視しない。deposit は資源の集積そのものを指し、reserves は資源評価で技術的な範囲を持つことがある。deposit を単に「地層」と訳すと資源という焦点が失われる場合がある。"
+      ],
+      "synonyms": [
+        {
+          "word": "seam",
+          "definition": "石炭などの鉱物が層状に挟まったもの。",
+          "frequency": 4,
+          "difference": "deposit より形状が限定され、特に coal seam で用いる。",
+          "example": "The mine follows a narrow coal seam.",
+          "translation": "その鉱山では細い炭層に沿って採掘している。"
+        },
+        {
+          "word": "lode",
+          "definition": "岩石中の鉱石の鉱脈・鉱床。",
+          "frequency": 3,
+          "difference": "鉱業の専門語で、石油やガスを含める deposit より対象が狭い。",
+          "example": "The miners located a rich lode of silver ore.",
+          "translation": "鉱山労働者たちは豊かな銀鉱石の鉱脈を見つけた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 9,
+      "title": "【動詞・他動詞】堆積させる、析出させる",
+      "frequency": 5,
+      "register": [
+        "地学・化学・材料・生物"
+      ],
+      "definition": "水・風・生物・工業的な処理などが物質を運んだり分離したりして、ある表面や場所に蓄積させる。主語は作用を及ぼすもの、目的語は積もる物質。",
+      "patterns": [
+        "deposit 〈物質〉 on 〈表面〉＝物質を表面に堆積させる",
+        "deposit 〈物質〉 in 〈場所〉＝物質を場所に堆積させる",
+        "be deposited by 〈作用因〉＝その作用で堆積する"
+      ],
+      "collocations": [
+        {
+          "pattern": "deposit 〈物質〉 on 〈表面〉",
+          "use": "作用因が物質を表面に残す。",
+          "example": "The wind deposited a thin layer of dust on the windowsills.",
+          "translation": "風が窓台に薄いほこりの層を積もらせた。"
+        },
+        {
+          "pattern": "deposit 〈物質〉 in 〈場所〉",
+          "use": "物質が運ばれてたまる場所を示す。",
+          "example": "The river deposits sediment in the delta.",
+          "translation": "川は三角州に土砂を堆積させる。"
+        },
+        {
+          "pattern": "be deposited by 〈作用因〉",
+          "use": "受動態で堆積物の由来を述べる。",
+          "example": "These rocks were deposited by a glacier.",
+          "translation": "これらの岩石は氷河によって運ばれて堆積した。"
+        }
+      ],
+      "notes": [
+        "受動態の The silt was deposited by the river. は「川がシルトを堆積させた」の受動形。物質自体を主語にする自動詞は語義10。工業の deposit a thin film on a surface は「表面に薄膜を形成する」で、金銭の意味ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "lay down",
+          "definition": "物質を層として堆積させる。",
+          "frequency": 5,
+          "difference": "地学では deposit に近い句動詞。一般には物を置く意味などもある。",
+          "example": "The river laid down layers of clay over many years.",
+          "translation": "川は長年にわたって粘土の層を堆積させた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 10,
+      "title": "【動詞・自動詞】堆積する、析出する",
+      "frequency": 3,
+      "register": [
+        "専門的。化学・地学・材料"
+      ],
+      "definition": "物質が液体などから分離して、表面や底にたまる。蓄積する物質そのものを主語にする専門的用法。日常的な説明では settle や受動態 be deposited もよく使う。",
+      "patterns": [
+        "〈物質〉 + deposit on 〈表面〉＝物質が表面に析出する",
+        "〈物質〉 + deposit at 〈場所〉＝物質がその場所に堆積する"
+      ],
+      "collocations": [
+        {
+          "pattern": "〈物質〉 + deposit on 〈表面〉",
+          "use": "物質自身の析出を述べる。",
+          "example": "Calcium carbonate can deposit on the inner walls of the pipe.",
+          "translation": "炭酸カルシウムは管の内壁に析出することがある。"
+        },
+        {
+          "pattern": "〈物質〉 + deposit at 〈場所〉",
+          "use": "物質が沈んでたまる場所を示す。",
+          "example": "Fine particles deposit at the bottom of the tank as the water slows.",
+          "translation": "水の流れが遅くなるにつれ、細かな粒子がタンクの底に堆積する。"
+        }
+      ],
+      "notes": [
+        "語義9の The river deposits silt. では silt が目的語、この語義の Silt deposits at the bottom. では silt が主語。銀行で「私は預金する」という目的語省略とは別の自動詞義である。一般向けの文章では Silt settles at the bottom. とすると理解されやすい。"
+      ],
+      "synonyms": [
+        {
+          "word": "settle",
+          "definition": "粒子などが沈んで底にたまる。",
+          "frequency": 6,
+          "difference": "deposit の専門的な析出一般より、重力などで沈んで落ち着く動きを表しやすい。",
+          "example": "The heavier particles settled at the bottom of the container.",
+          "translation": "重い粒子は容器の底に沈んだ。"
+        },
+        {
+          "word": "precipitate",
+          "definition": "溶液中から固体として析出する。",
+          "frequency": 3,
+          "difference": "化学的な固体の分離に限定され、風で砂が積もる場合などには使わない。",
+          "example": "Crystals precipitated from the cooling solution.",
+          "translation": "冷えていく溶液から結晶が析出した。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

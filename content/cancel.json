@@ -1,0 +1,843 @@
+{
+  "word": "cancel",
+  "slug": "cancel",
+  "ipa": "米・英: /ˈkæn.səl/",
+  "lead": "予定していた行事・約束・注文・予約などを実施しないことにする。継続中の購読・番組・処理などを、これ以上続けないことにも使う。通常、後日の実施を同時には約束しないが、後で改めて予定し直すことはあり得る。",
+  "updated": "2026-10-11",
+  "notion_url": "https://app.notion.com/p/cancel-3f64faa9b77d819195b3e030a83a5322",
+  "pronunciation": [
+    "2音節で、第1音節に主強勢を置く。第2音節の母音は弱い /ə/。過去形 canceled・cancelled の語尾は /d/ で、通常それによって音節は増えない。名詞 cancellation /ˌkæn.səˈleɪ.ʃən/ は4音節で、第3音節に主強勢、第1音節に第二強勢を置く。"
+  ],
+  "etymology": [
+    "中英語・古いフランス語の形を経て、ラテン語 cancellare「格子状にする」、後期ラテン語の「線を引いて消す」につながる。文字に線を引いて効力を消すことが、予定や約束を取り消す意味の背景にある。",
+    "同系語には chancel「教会の内陣」、chancellor「大臣、大学の長など」がある。いずれも格子・仕切りに関わる歴史を持つが、現代の「取り消す」から意味を推測する派生語ではない。"
+  ],
+  "formation": [
+    {
+      "term": "canceled / canceling",
+      "description": "米語で通常使う過去形・過去分詞と現在分詞。"
+    },
+    {
+      "term": "cancelled / cancelling",
+      "description": "イギリス英語で通常使う形。米語でも認められ、ll 形が米語では誤りということではない。記事内では米語の l 形を基本とする。"
+    },
+    {
+      "term": "cancellation",
+      "description": "名詞。「取消し、中止」のほか、予約取消しで生じた空きも表す。米英とも ll 形が一般的で、米語には cancelation もある。"
+    },
+    {
+      "term": "cancellable / cancelable",
+      "description": "形容詞。「取消し可能な」。どの条件で取り消せるかは、語そのものでは決まらない。"
+    },
+    {
+      "term": "noise-canceling / noise-cancelling",
+      "description": "名詞前の複合形容詞。「騒音を打ち消す」。語義4の効果の相殺につながる。"
+    },
+    {
+      "term": "cancel culture",
+      "description": "複合名詞。「キャンセル・カルチャー」。問題視された言動などを理由に人・組織への支持を公に撤回する動向を指し、語義6に関係する。"
+    },
+    {
+      "term": "canceled / cancelled",
+      "description": "の限定用法：a canceled flight「欠航便」、a canceled check「支払済み小切手」など。通常ハイフンは不要で、どの意味かは修飾される名詞から判断する。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "予定・効力・作用・支持などを取り去り、それまでの形で先へ進めないことが中心。相殺では反対方向の作用により、全体として効果が残らなくなる。語義13は歴史的残存義で、差し替えて入れる紙葉そのものの意味はこの取消しの核から導けないため、個別に参照する。"
+    },
+    {
+      "type": "item",
+      "text": "予定していた行為を取り去ること → 「中止する、取り消す」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "自分の参加や利用予定を取り去ること → 「予定を取りやめる、解約する」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "契約などの効力を取り去ること → 「無効にする、債務を免除する」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "反対の作用で効果を取り去ること → 「相殺する、打ち消す」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "反対の作用で効果が消えること → 「相殺し合う」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "人や組織への支持を取り去ること → 「支持を撤回する、社会的に排斥する」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "使用済みとして効力を取り去ること → 「消印を押す、使用済みとする」（語義7）"
+    },
+    {
+      "type": "item",
+      "text": "同じ因数などを式から取り去ること → 「約分する、消去する」（語義8）"
+    },
+    {
+      "type": "item",
+      "text": "同じ因数などが式から消えること → 「約分できる、消去される」（語義9）"
+    },
+    {
+      "type": "item",
+      "text": "不要な記載を取り去ること → 「線を引いて消す、削除する」（語義10）"
+    },
+    {
+      "type": "item",
+      "text": "予定や処理を取り消す行為 → 「取消し、中止」（語義11）"
+    },
+    {
+      "type": "item",
+      "text": "使用済みとして効力を消す印 → 「消印、抹消印」（語義12）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞】中止する、取り消す",
+      "frequency": 9,
+      "register": [
+        "日常・ビジネス・交通・コンピューター"
+      ],
+      "definition": "予定していた行事・約束・注文・予約などを実施しないことにする。継続中の購読・番組・処理などを、これ以上続けないことにも使う。通常、後日の実施を同時には約束しないが、後で改めて予定し直すことはあり得る。",
+      "patterns": [
+        "cancel a meeting＝会議を中止する",
+        "cancel an appointment＝面会や受診の予約を取り消す",
+        "cancel an order＝注文を取り消す",
+        "cancel a reservation＝予約を取り消す",
+        "cancel a subscription＝定期購読などを解約する",
+        "cancel a show＝番組などを打ち切る",
+        "cancel an operation＝処理を中止する",
+        "be canceled due to something＝何かが原因で中止になる"
+      ],
+      "collocations": [
+        {
+          "pattern": "cancel a meeting",
+          "use": "予定した会議を開かないことにする。",
+          "example": "We canceled the meeting because the key documents were not ready.",
+          "translation": "重要書類が準備できていなかったため、私たちは会議を中止した。"
+        },
+        {
+          "pattern": "cancel an appointment",
+          "use": "面会・受診などの予約を取り消す。",
+          "example": "Please call the clinic if you need to cancel your appointment.",
+          "translation": "受診予約を取り消す必要がある場合は、診療所へ電話してください。"
+        },
+        {
+          "pattern": "cancel an order",
+          "use": "商品の注文を取り消す。",
+          "example": "The customer canceled the order before it was shipped.",
+          "translation": "顧客は出荷前に注文を取り消した。"
+        },
+        {
+          "pattern": "cancel a reservation",
+          "use": "席や部屋などの予約を取り消す。",
+          "example": "I need to cancel my reservation for Friday night.",
+          "translation": "金曜日の夜の予約を取り消したいのですが。"
+        },
+        {
+          "pattern": "cancel a subscription",
+          "use": "継続するサービスの利用をやめる。",
+          "example": "She canceled her magazine subscription after moving abroad.",
+          "translation": "彼女は海外へ引っ越した後、雑誌の定期購読をやめた。"
+        },
+        {
+          "pattern": "cancel a show",
+          "use": "継続する番組を打ち切る。",
+          "example": "The network canceled the show after its second season.",
+          "translation": "放送局は第2シーズンをもってその番組を打ち切った。"
+        },
+        {
+          "pattern": "cancel an operation",
+          "use": "進行中・予定中の処理を止める。",
+          "example": "Press this button to cancel the upload operation.",
+          "translation": "アップロード処理を中止するには、このボタンを押してください。"
+        },
+        {
+          "pattern": "be canceled due to something",
+          "use": "中止の理由を受動態で述べる。",
+          "example": "The flight was canceled due to heavy snow.",
+          "translation": "大雪のため、その便は欠航になった。"
+        }
+      ],
+      "notes": [
+        "目的語は予定や注文そのものなので cancel the meeting とする。cancel to meet を「会う約束を取り消す」の基本構文にしない。postpone は後へ延ばすこと、cancel は予定を取り消すこと。canceled flight は通常「欠航便」で、delayed flight「遅延便」と区別する。画面の Cancel は「取消し」の操作名だが、過去の変更や決済が必ず元に戻ることまで意味しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "call off",
+          "definition": "予定された行事・活動を中止する。",
+          "frequency": 8,
+          "difference": "cancel に近い句動詞で、会議や試合などに多い。call it off のように代名詞は間に置く。",
+          "example": "The organizers called off the outdoor concert.",
+          "translation": "主催者は屋外コンサートを中止した。"
+        },
+        {
+          "word": "scrap",
+          "definition": "計画などを実施せず捨てる。",
+          "frequency": 7,
+          "difference": "cancel より計画を廃棄する響きが強く、単なる予約取消しには合わないことがある。",
+          "example": "The board scrapped the expansion plan.",
+          "translation": "取締役会は拡張計画を撤回した。"
+        },
+        {
+          "word": "abandon",
+          "definition": "計画・試みを続けずに断念する。",
+          "frequency": 8,
+          "difference": "cancel が予定・予約の取り消しを表すのに対し、abandon は進行中の努力を途中でやめることにも使う。",
+          "example": "They abandoned the project after funding ran out.",
+          "translation": "資金が尽きた後、彼らはその事業を断念した。"
+        },
+        {
+          "word": "terminate",
+          "definition": "契約・サービスなどを終了させる。",
+          "frequency": 7,
+          "difference": "cancel より正式で、すでに続いている関係やサービスの終了を強調する。",
+          "example": "The customer terminated the service at the end of the month.",
+          "translation": "顧客は月末でそのサービスの利用を終了した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【動詞・自動詞】予定を取りやめる、解約する",
+      "frequency": 8,
+      "register": [
+        "日常・サービス案内。cancel on someone は口語"
+      ],
+      "definition": "文脈上明らかな約束への参加や予約・サービス利用を取りやめる。直接目的語を出さず、いつ取り消すかなどを続ける。cancel on someone は、約束していた相手に対して取りやめをする口語的な形。",
+      "patterns": [
+        "have to cancel＝予定を取りやめなければならない",
+        "cancel at the last minute＝直前に取りやめる",
+        "cancel at any time＝いつでも解約する",
+        "cancel on someone＝人との約束を取りやめる"
+      ],
+      "collocations": [
+        {
+          "pattern": "have to cancel",
+          "use": "何を取り消すかが明らかな場面で述べる。",
+          "example": "I was looking forward to dinner, but I have to cancel.",
+          "translation": "夕食を楽しみにしていたのですが、行けなくなりました。"
+        },
+        {
+          "pattern": "cancel at the last minute",
+          "use": "直前の取りやめを表す。",
+          "example": "One of the speakers canceled at the last minute.",
+          "translation": "講演者の一人が直前に出演を取りやめた。"
+        },
+        {
+          "pattern": "cancel at any time",
+          "use": "サービスをやめられる時期を示す。",
+          "example": "With this monthly plan, you can cancel at any time.",
+          "translation": "この月額プランはいつでも解約できます。"
+        },
+        {
+          "pattern": "cancel on someone",
+          "use": "取りやめで影響を受ける相手を示す。",
+          "example": "I hate to cancel on you, but I cannot make it to lunch tomorrow.",
+          "translation": "約束を取りやめるのは心苦しいのですが、明日の昼食には行けません。"
+        }
+      ],
+      "notes": [
+        "cancel on someone の on は影響を受ける相手を導く。必ず直前とは限らず、ドタキャンなら at the last minute などで時期を明示する。cancel on her「彼女との約束を取りやめる」と cancel her「彼女への支持を撤回する」（語義6）は構造も意味も違う。単なる I canceled. も成立し、常に目的語が必要なわけではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "pull out",
+          "definition": "参加予定の活動から手を引く。",
+          "frequency": 7,
+          "difference": "cancel は約束の取りやめやサービス解約にも使う。pull out of an event は参加者側の撤退を明示する。",
+          "example": "Two exhibitors pulled out of the trade fair.",
+          "translation": "出展予定者のうち2者が見本市への参加を取りやめた。"
+        },
+        {
+          "word": "back out",
+          "definition": "いったん引き受けた約束などから身を引く。",
+          "frequency": 7,
+          "difference": "cancel より約束から後退する響きがあり、相手の期待を裏切ると評価されることもある。",
+          "example": "He backed out of the agreement before signing.",
+          "translation": "彼は署名する前に合意から手を引いた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞・他動詞】無効にする、債務を免除する",
+      "frequency": 7,
+      "register": [
+        "法律・金融・契約・一般の手続き"
+      ],
+      "definition": "契約・許可・カードなどの効力をなくす、または債務の支払義務をなくす。単に次の予定を取りやめるだけでなく、すでにある効力・義務を終了させることに焦点を置く。",
+      "patterns": [
+        "cancel a contract＝契約を取り消す",
+        "cancel a debt＝債務を免除する",
+        "cancel a credit card＝クレジットカードを無効にする",
+        "cancel an insurance policy＝保険契約を解約する"
+      ],
+      "collocations": [
+        {
+          "pattern": "cancel a contract",
+          "use": "契約を終了させる。",
+          "example": "The buyer asked whether the contract could be canceled before delivery.",
+          "translation": "買主は納品前に契約を取り消せるか尋ねた。"
+        },
+        {
+          "pattern": "cancel a debt",
+          "use": "支払義務を免除する。",
+          "example": "The lender agreed to cancel the remaining debt.",
+          "translation": "貸し手は残った債務を免除することに同意した。"
+        },
+        {
+          "pattern": "cancel a credit card",
+          "use": "カードを無効にする。",
+          "example": "The bank canceled the stolen credit card and issued a replacement.",
+          "translation": "銀行は盗まれたクレジットカードを無効にし、代わりのカードを発行した。"
+        },
+        {
+          "pattern": "cancel an insurance policy",
+          "use": "保険契約を終了させる。",
+          "example": "She contacted the insurer to cancel the policy after selling the car.",
+          "translation": "彼女は車を売った後、保険契約を解約するために保険会社へ連絡した。"
+        }
+      ],
+      "notes": [
+        "cancel a debt は単に返済を先延ばしにすることではなく、債務の免除。cancel a card はカードの無効化で、既存の債務がすべて消えるという意味ではない。契約法上の rescind、terminate、revoke などと重なる場面はあるが、解除の時点や効果を cancel 一語から一律に決めない。"
+      ],
+      "synonyms": [
+        {
+          "word": "revoke",
+          "definition": "権限者が許可や権利などを取り消す。",
+          "frequency": 6,
+          "difference": "license や permission との結び付きが強く、一般の会食予約には通常 cancel を使う。",
+          "example": "The authority revoked the operator’s license.",
+          "translation": "当局はその事業者の免許を取り消した。"
+        },
+        {
+          "word": "rescind",
+          "definition": "契約・決定・命令などを正式に撤回する。",
+          "frequency": 6,
+          "difference": "cancel より改まった語。契約での法的効果は制度に依存し、常に単純な同義語ではない。",
+          "example": "The board voted to rescind its earlier decision.",
+          "translation": "取締役会は先の決定を撤回することを決議した。"
+        },
+        {
+          "word": "forgive",
+          "definition": "債務の返済を免除する。",
+          "frequency": 6,
+          "difference": "金銭の意味で cancel a debt に近い。人の過ちを許す別義もある。",
+          "example": "The lender forgave part of the loan.",
+          "translation": "貸し手は借入金の一部の返済を免除した。"
+        },
+        {
+          "word": "annul",
+          "definition": "正式に無効とする。",
+          "frequency": 5,
+          "difference": "cancel より法律的で、決定・契約などの有効性に焦点がある。予定をやめる日常表現には硬い。",
+          "example": "The court annulled the disputed decision.",
+          "translation": "裁判所は争われていた決定を無効とした。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【句動詞・他動詞。分離可能】相殺する、打ち消す",
+      "frequency": 7,
+      "register": [
+        "一般・ビジネス・科学"
+      ],
+      "definition": "cancel out で、ある効果・利点・利益などを反対方向の作用によってなくす。予定そのものを取り消すのではなく、その働きや差し引きの結果をゼロに近づける。程度を示す語があれば部分的な相殺にもなる。",
+      "patterns": [
+        "cancel out something＝何かを打ち消す",
+        "cancel something out＝何かを打ち消す",
+        "cancel it out＝それを打ち消す",
+        "cancel each other out＝互いの効果を打ち消す",
+        "partly cancel out something＝何かを部分的に相殺する"
+      ],
+      "collocations": [
+        {
+          "pattern": "cancel out something",
+          "use": "効果を目的語にして述べる。",
+          "example": "The higher shipping cost canceled out the discount.",
+          "translation": "高い送料で値引き分が帳消しになった。"
+        },
+        {
+          "pattern": "cancel something out",
+          "use": "名詞目的語を動詞と小辞の間に置く。",
+          "example": "The extra fee canceled the small saving out.",
+          "translation": "追加手数料によって、わずかな節約分が帳消しになった。"
+        },
+        {
+          "pattern": "cancel it out",
+          "use": "代名詞目的語の位置を示す。",
+          "example": "The pay rise looked generous, but higher rent canceled it out.",
+          "translation": "昇給額は大きく見えたが、家賃の上昇で帳消しになった。"
+        },
+        {
+          "pattern": "cancel each other out",
+          "use": "相反する作用の相互関係を示す。",
+          "example": "The two accounting adjustments canceled each other out.",
+          "translation": "その2件の会計上の調整は互いに相殺し合った。"
+        },
+        {
+          "pattern": "partly cancel out something",
+          "use": "部分的な相殺を示す。",
+          "example": "The tax reduction partly canceled out the increase in energy costs.",
+          "translation": "減税はエネルギー費の上昇を部分的に相殺した。"
+        }
+      ],
+      "notes": [
+        "cancel out the effect と cancel the effect out は可能だが、通常の代名詞は cancel it out であり、cancel out it とはしない。each other も目的語なので cancel each other out。語義5の The effects cancel out. は目的語を持たない自動詞構文。out を使わない cancel にも相殺義があるが、学習上は cancel out が明確。"
+      ],
+      "synonyms": [
+        {
+          "word": "offset",
+          "definition": "反対方向の効果で埋め合わせる、相殺する。",
+          "frequency": 8,
+          "difference": "cancel out が全体の効果をなくすことを表しやすいのに対し、offset は部分的な埋め合わせにも広く使う。",
+          "example": "Lower fuel costs offset some of the increase in wages.",
+          "translation": "燃料費の低下が賃金上昇分の一部を相殺した。"
+        },
+        {
+          "word": "neutralize",
+          "definition": "作用・影響を無力にする。",
+          "frequency": 6,
+          "difference": "cancel out は反対の作用の釣合いを示しやすく、neutralize は化学的作用や脅威などを無力化することにも使う。",
+          "example": "The coating neutralizes odors on the surface.",
+          "translation": "そのコーティングは表面の臭いを中和する。"
+        },
+        {
+          "word": "counteract",
+          "definition": "好ましくない作用に対抗して弱める。",
+          "frequency": 6,
+          "difference": "cancel out のように完全に相殺された結果を必ずしも含まない。",
+          "example": "The new measures are intended to counteract the rise in costs.",
+          "translation": "新しい対策は費用の上昇を抑えることを目的としている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【句動詞・自動詞】相殺し合う",
+      "frequency": 6,
+      "register": [
+        "一般・経済・科学"
+      ],
+      "definition": "cancel out で、複数の力・影響・増減などが反対方向に働き、全体の効果を残さなくする。相殺する対象を目的語に置かず、相反するもの全体を主語にする。",
+      "patterns": [
+        "〈相反する複数の効果〉 + cancel out＝それらが相殺し合う",
+        "〈損益など〉 + largely cancel out＝それらがほぼ相殺し合う"
+      ],
+      "collocations": [
+        {
+          "pattern": "〈相反する複数の効果〉 + cancel out",
+          "use": "目的語なしで釣合いを述べる。",
+          "example": "In this calculation, the opposing effects cancel out.",
+          "translation": "この計算では、反対方向の効果が相殺し合う。"
+        },
+        {
+          "pattern": "〈損益など〉 + largely cancel out",
+          "use": "完全ではない相殺を示す。",
+          "example": "Across the two divisions, the gains and losses largely canceled out.",
+          "translation": "2つの部門を合わせると、利益と損失はほぼ相殺された。"
+        }
+      ],
+      "notes": [
+        "The changes cancel out. は自動詞。The changes cancel each other out. は each other を目的語に取る他動詞構文（語義4）。意味は近いが、目的語を省略した受動態ではない。物や人が単に予約を取り消す cancel と、相反する作用が釣り合う cancel out を区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "balance out",
+          "definition": "差や反対方向の動きが釣り合う。",
+          "frequency": 6,
+          "difference": "cancel out は正味の効果が消えること、balance out は全体の均衡に焦点があり、厳密なゼロとは限らない。",
+          "example": "Over a full year, the seasonal differences tend to balance out.",
+          "translation": "1年を通すと、季節による差は釣り合う傾向がある。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【動詞・他動詞】支持を撤回する、社会的に排斥する",
+      "frequency": 6,
+      "register": [
+        "口語・SNS・文化的議論。評価が分かれやすい語"
+      ],
+      "definition": "問題視した言動などを理由に、人・組織・作品への支持を公に撤回したり、周囲にも関わらないよう促したりする。SNSなどで使われる現代の口語的用法。批判の妥当性や実際に受けた損害を語自体が証明するわけではない。",
+      "patterns": [
+        "cancel someone＝人への支持を撤回する",
+        "cancel a brand＝ブランドへの支持を撤回する",
+        "get canceled＝支持撤回や排斥の対象になる"
+      ],
+      "collocations": [
+        {
+          "pattern": "cancel someone",
+          "use": "人物への支持を取りやめることを述べる。",
+          "example": "Some fans tried to cancel the singer after the offensive remarks.",
+          "translation": "不快な発言を受け、一部のファンはその歌手への支持を撤回するよう呼びかけた。"
+        },
+        {
+          "pattern": "cancel a brand",
+          "use": "企業やブランドを対象にする。",
+          "example": "The campaign urged customers to cancel the brand over its advertising.",
+          "translation": "その運動は広告を問題視し、そのブランドへの支持をやめるよう顧客に呼びかけた。"
+        },
+        {
+          "pattern": "get canceled",
+          "use": "受動的に支持撤回の対象になることを述べる。",
+          "example": "The comedian said he was afraid of getting canceled for a joke.",
+          "translation": "そのコメディアンは、冗談を理由に排斥されるのが怖いと語った。"
+        }
+      ],
+      "notes": [
+        "cancel someone は人物への支持撤回、cancel on someone は相手との約束の取りやめ（語義2）。たとえば Fans canceled him. は「ファンが彼を支持しなくなった」、He canceled on his friend. は「彼が友人との約束を取りやめた」。この社会的用法の canceled は受動・結果状態を表すが、常に失職・発禁・永久追放が実現したことまでは含まない。"
+      ],
+      "synonyms": [
+        {
+          "word": "boycott",
+          "definition": "抗議として商品購入や活動参加などを拒む。",
+          "frequency": 7,
+          "difference": "cancel と重なるが、boycott は購入・利用拒否という具体的な行動を示し、SNSに限定されない。",
+          "example": "Consumers boycotted the company’s products after the scandal.",
+          "translation": "不祥事の後、消費者はその会社の商品を不買した。"
+        },
+        {
+          "word": "ostracize",
+          "definition": "人を集団から締め出し、付き合いを断つ。",
+          "frequency": 5,
+          "difference": "cancel より集団内の対人排除に焦点がある。著名人への公的な支持撤回とは範囲が異なる。",
+          "example": "The group ostracized members who criticized its leaders.",
+          "translation": "その集団は指導者を批判したメンバーを仲間外れにした。"
+        },
+        {
+          "word": "shun",
+          "definition": "人や物を意識的に避ける。",
+          "frequency": 6,
+          "difference": "cancel のような公の批判や支持撤回を必ずしも伴わず、静かに関わらないことにも使う。",
+          "example": "Several sponsors shunned the event after the controversy.",
+          "translation": "論争の後、複数のスポンサーがその行事への関与を避けた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【動詞・他動詞】消印を押す、使用済みとする",
+      "frequency": 5,
+      "register": [
+        "郵便・銀行・収集"
+      ],
+      "definition": "切手・券・小切手などに印や処理を施し、使用済みで再使用できないことを示す。郵便では「消印を押す」、銀行の canceled check では通常「支払済み小切手」と訳す。",
+      "patterns": [
+        "cancel a stamp＝切手に消印を押す",
+        "cancel a check＝小切手を支払済みとして処理する",
+        "a canceled check＝支払済み小切手"
+      ],
+      "collocations": [
+        {
+          "pattern": "cancel a stamp",
+          "use": "郵便物の切手を再使用できなくする。",
+          "example": "The clerk canceled the stamp with a handstamp.",
+          "translation": "係員は手押しの印でその切手に消印を押した。"
+        },
+        {
+          "pattern": "cancel a check",
+          "use": "使用済みの小切手として処理する。",
+          "example": "The bank canceled the check after the payment had been processed.",
+          "translation": "銀行は支払いの処理後、その小切手を支払済みとして処理した。"
+        },
+        {
+          "pattern": "a canceled check",
+          "use": "支払いの記録となる過去分詞の限定用法を示す。",
+          "example": "She requested a copy of the canceled check as proof of payment.",
+          "translation": "彼女は支払証明として、支払済み小切手の写しを求めた。"
+        }
+      ],
+      "notes": [
+        "check は米綴り、cheque は英綴り。canceled check は通常、支払いが処理された小切手であり、「不渡り小切手」ではない。発行前などに無効とする voided check や、支払停止の依頼とも区別する。postmark は差出地・日付などを示す郵便印で、切手の再使用を防ぐ cancel と役割が重なることはあるが、概念は完全には同一でない。"
+      ],
+      "synonyms": [
+        {
+          "word": "postmark",
+          "definition": "郵便物に郵便局・日付などを示す印を押す。",
+          "frequency": 4,
+          "difference": "郵便物への押印という範囲で重なるが、cancel は切手の再使用防止に焦点を置く。小切手には postmark を使わない。",
+          "example": "The envelope was postmarked in Bristol.",
+          "translation": "封筒にはブリストルの郵便印が押されていた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【動詞・他動詞。out を伴うこともある】約分する、消去する",
+      "frequency": 5,
+      "register": [
+        "数学・計算"
+      ],
+      "definition": "分数の分子・分母に共通する因数を取り除く、または等式の両辺から同じ項を取り除く。見た目の同じ文字を無条件で消すという意味ではなく、式の値や等価性を保つ操作を表す。",
+      "patterns": [
+        "cancel a common factor＝共通因数を約分で取り除く",
+        "cancel the same term from both sides＝両辺から同じ項を消去する",
+        "cancel out 〈同じ項〉＝同じ項を消去する"
+      ],
+      "collocations": [
+        {
+          "pattern": "cancel a common factor",
+          "use": "分子・分母の共通因数を除く。",
+          "example": "Cancel the common factor of three to simplify the fraction six ninths.",
+          "translation": "9分の6を簡単にするため、共通因数の3で約分しなさい。"
+        },
+        {
+          "pattern": "cancel the same term from both sides",
+          "use": "等式の両辺から同じ項を除く。",
+          "example": "We can cancel the same constant term from both sides of the equation.",
+          "translation": "その方程式の両辺から同じ定数項を消去できる。"
+        },
+        {
+          "pattern": "cancel out 〈同じ項〉",
+          "use": "相殺される項を目的語にする。",
+          "example": "Cancel out the matching terms before collecting the remaining ones.",
+          "translation": "残りの項をまとめる前に、対応する同じ項を消去しなさい。"
+        }
+      ],
+      "notes": [
+        "分数では共通する「因数」、等式では両辺の同じ「項」を区別する。加算の中に同じ数字が見えるという理由だけで約分はできない。cancel the factor は操作する人が主語、The factors cancel. は語義9の自動詞。"
+      ],
+      "synonyms": [
+        {
+          "word": "reduce",
+          "definition": "分数などをより簡単な同値の形にする。",
+          "frequency": 5,
+          "difference": "reduce a fraction は式全体を簡約すること。cancel a factor は共通因数を除く操作に焦点がある。",
+          "example": "Reduce the fraction to its simplest form.",
+          "translation": "その分数を最も簡単な形に約分しなさい。"
+        },
+        {
+          "word": "eliminate",
+          "definition": "計算によって変数や項を消去する。",
+          "frequency": 5,
+          "difference": "cancel より広く、式を組み合わせて未知数を消す操作などにも用いる。",
+          "example": "Eliminate the second variable by subtracting the equations.",
+          "translation": "式を引き算して2つ目の変数を消去しなさい。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 9,
+      "title": "【動詞・自動詞。out を伴うこともある】約分できる、消去される",
+      "frequency": 4,
+      "register": [
+        "数学・計算"
+      ],
+      "definition": "因数や項などが、相手側の同じ因数・項との関係で取り除ける。計算をする人ではなく、式の構成要素を主語にする。",
+      "patterns": [
+        "〈共通因数〉 + cancel＝共通因数が約分で消える",
+        "〈同じ項〉 + cancel out＝同じ項が相殺される"
+      ],
+      "collocations": [
+        {
+          "pattern": "〈共通因数〉 + cancel",
+          "use": "因数を主語にして約分の結果を述べる。",
+          "example": "The common factors cancel, leaving a fraction of two thirds.",
+          "translation": "共通因数が約分で消え、3分の2が残る。"
+        },
+        {
+          "pattern": "〈同じ項〉 + cancel out",
+          "use": "計算上消える項を主語にする。",
+          "example": "The identical terms on opposite sides of the equation cancel out.",
+          "translation": "方程式の両辺にある同じ項は消去される。"
+        }
+      ],
+      "notes": [
+        "The factors cancel. は自動詞で、The factors are canceled. は他動詞 cancel の受動態。意味は近くても構造が違う。一般的な損益の相殺は語義5、式の同値変形に関する用法はこの語義である。"
+      ],
+      "synonyms": [
+        {
+          "word": "drop out",
+          "definition": "計算や変形の結果、式から項などが消える。",
+          "frequency": 3,
+          "difference": "数式の記述で近いが、cancel は共通因数や等しい項の消去という操作を特に示す。",
+          "example": "The constant drops out when we differentiate the expression.",
+          "translation": "式を微分すると、その定数は消える。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 10,
+      "title": "【動詞・他動詞】線を引いて消す、削除する",
+      "frequency": 4,
+      "register": [
+        "書き言葉・編集。やや改まった用法"
+      ],
+      "definition": "書かれた語・数字・文章などを、線を引くなどして削除・不採用にする。現代の一般的な文章編集では cross out や delete がよりよく使われ、cancel はやや改まった記述に見られる。",
+      "patterns": [
+        "cancel a word＝語を線で消す",
+        "cancel a passage＝文章の一節を削除する"
+      ],
+      "collocations": [
+        {
+          "pattern": "cancel a word",
+          "use": "訂正として文字を抹消する。",
+          "example": "The editor canceled the incorrect word with a single line.",
+          "translation": "編集者は誤った語を一本の線で消した。"
+        },
+        {
+          "pattern": "cancel a passage",
+          "use": "文章の一部を採用しない。",
+          "example": "The author canceled the final passage in the proof.",
+          "translation": "著者は校正刷りの最後の一節を削除した。"
+        }
+      ],
+      "notes": [
+        "意味の中心は記載の抹消であり、行事を中止する語義1とは目的語が違う。紙から完全に跡を消す必要はない。cancel a paragraph と書けば削除だが、一般的な編集指示には delete the paragraph が明確。"
+      ],
+      "synonyms": [
+        {
+          "word": "cross out",
+          "definition": "線を引いて記載を消す。",
+          "frequency": 7,
+          "difference": "cancel より日常的で、紙上の抹消の動作が明確。cross it out とする。",
+          "example": "Cross out the old address and write the new one below.",
+          "translation": "古い住所に線を引いて消し、その下に新しい住所を書いてください。"
+        },
+        {
+          "word": "delete",
+          "definition": "文字やデータを削除する。",
+          "frequency": 8,
+          "difference": "cancel より電子文書やデータの削除にも広く使い、線を引く動作を含まない。",
+          "example": "Delete the repeated sentence from the draft.",
+          "translation": "草稿から重複した文を削除してください。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 11,
+      "title": "【名詞・可算】取消し、中止",
+      "frequency": 3,
+      "register": [
+        "システム・取引などの限定的用法"
+      ],
+      "definition": "取消しという一回の操作・通知・出来事。cancellation より使用範囲が狭く、システム処理や取引などの専門的・実務的な略した表現に見られる。一般の予約取消しの名詞には cancellation を使う方が標準的。",
+      "patterns": [
+        "a cancel request＝取消し要求",
+        "send a cancel＝取消しの指示を送る"
+      ],
+      "collocations": [
+        {
+          "pattern": "a cancel request",
+          "use": "システムに対する取消し要求を述べる。",
+          "example": "The server logged a cancel request for the pending job.",
+          "translation": "サーバーは待機中のジョブに対する取消し要求を記録した。"
+        },
+        {
+          "pattern": "send a cancel",
+          "use": "取引などの取消し通知を送る。",
+          "example": "The trader sent a cancel before the order was executed.",
+          "translation": "トレーダーは注文が約定する前に取消しの指示を送った。"
+        }
+      ],
+      "notes": [
+        "一般の英作文で「予約の取消し」は cancellation of a reservation が基本で、すべて cancel に短縮しない。画面上の Cancel は命令形を操作名にしたものとして読むこともでき、表示があるだけで通常の可算名詞用法と決まるわけではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "cancellation",
+          "definition": "予定・注文・処理などの取消し。",
+          "frequency": 8,
+          "difference": "cancel より広く使う標準的な名詞。不可算の行為と可算の個別事例の両方がある。",
+          "example": "The airline notified passengers of the cancellation.",
+          "translation": "航空会社は乗客に欠航を通知した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 12,
+      "title": "【名詞・可算】消印、抹消印",
+      "frequency": 3,
+      "register": [
+        "郵便・切手収集の専門語"
+      ],
+      "definition": "切手などに押して再使用できなくした印。切手収集や郵便の文脈で cancellation の短い形として使う。日付・場所を表す郵便印と機能が重なる場合がある。",
+      "patterns": [
+        "a cancel on a stamp＝切手上の消印",
+        "a machine cancel＝機械による消印"
+      ],
+      "collocations": [
+        {
+          "pattern": "a cancel on a stamp",
+          "use": "切手に残る印を観察する。",
+          "example": "The collector examined the unusual cancel on the stamp.",
+          "translation": "収集家はその切手の珍しい消印を調べた。"
+        },
+        {
+          "pattern": "a machine cancel",
+          "use": "消印の方式を示す。",
+          "example": "The envelope bears a machine cancel with wavy lines.",
+          "translation": "その封筒には波線の機械消印が付いている。"
+        }
+      ],
+      "notes": [
+        "動詞 cancel a stamp は押印する行為、名詞 a cancel は残った印。postmark は差出地や日付を示す役割を指し、cancel は切手を使用済みとする役割に焦点がある。"
+      ],
+      "synonyms": [
+        {
+          "word": "cancellation",
+          "definition": "切手などを使用済みとする印。",
+          "frequency": 3,
+          "difference": "この専門義では cancel と重なる。一般義の「取消し」だけで読まない。",
+          "example": "The stamp has a clear circular cancellation.",
+          "translation": "その切手には鮮明な円形の消印がある。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 13,
+      "title": "【名詞・可算】差替え葉",
+      "frequency": 2,
+      "register": [
+        "印刷・製本・書誌学"
+      ],
+      "definition": "印刷済みの本で、誤りなどのある紙葉を取り除き、その代わりに入れる紙葉。主に印刷史・書誌学で使う低頻度の専門語。辞書では取り除かれた部分を指す説明もあるので、実際の文献がどちらを扱っているか確認する。",
+      "patterns": [
+        "insert a cancel＝差替え葉を入れる",
+        "a cancel leaf＝差替えの紙葉"
+      ],
+      "collocations": [
+        {
+          "pattern": "insert a cancel",
+          "use": "製本上の差替えを述べる。",
+          "example": "The printer inserted a cancel to replace the misprinted title page.",
+          "translation": "印刷業者は誤植のある標題紙を置き換えるため、差替え葉を入れた。"
+        },
+        {
+          "pattern": "a cancel leaf",
+          "use": "書誌上の紙葉の性質を示す。",
+          "example": "The catalog notes that this copy contains a cancel leaf.",
+          "translation": "目録には、この個体に差替え葉があると記されている。"
+        }
+      ],
+      "notes": [
+        "leaf は本の紙1枚で、通常その表裏に2ページがある。",
+        "誤りを別紙で知らせる errata slip「正誤表」とは違い、ここでは元の紙葉を置き換える。日常の「予約取消し」の名詞としてこの専門義を流用しない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}
