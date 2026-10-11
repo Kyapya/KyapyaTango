@@ -112,7 +112,7 @@
           "pattern": "eligible purchases",
           "use": "特典の計算などに含まれる購入を、対象外の購入と区別する。",
           "example": "The promotion gives customers points on eligible purchases made during the event.",
-          "translation": "このキャンペーンでは、期間中の対象商品の購入に応じて客にポイントが付く。"
+          "translation": "このキャンペーンでは、期間中の条件を満たす購入に応じて客にポイントが付く。"
         },
         {
           "pattern": "be eligible under the rules",
@@ -176,7 +176,7 @@
       "register": [
         "人物紹介、芸能記事、小説、結婚の話題。やや昔風・社交界風に響くことがあり、人を条件で評価する含みもある。"
       ],
-      "definition": "未婚で、経済力、社会的立場、魅力などの点から、結婚相手として望ましいと見られていること。単に法的に結婚できる年齢であるという意味ではない。何を好条件と見るかは話者や文脈による。",
+      "definition": "独身で、経済力、社会的立場、魅力などの点から、結婚相手として望ましいと見られていること。単に法的に結婚できる年齢であるという意味ではない。何を好条件と見るかは話者や文脈による。",
       "patterns": [
         "an eligible bachelor＝結婚相手として好条件の独身男性",
         "an eligible young man/woman＝結婚相手として望ましい若い男性・女性",
@@ -197,14 +197,14 @@
         }
       ],
       "notes": [
-        "eligible bachelor は定着した組み合わせだが、eligible そのものが男性だけを指すわけではない。語義1の eligible to marry は「結婚する資格・条件を満たす」と読むことができ、ここでの「魅力的な結婚相手」と同じではない。また eligible applicant は普通、魅力的な未婚者ではなく「応募条件を満たす人」。この結婚用法を職場の能力評価へ無条件に広げない。"
+        "eligible bachelor は定着した組み合わせだが、eligible そのものが男性だけを指すわけではない。語義1の eligible to marry は「結婚する資格・条件を満たす」と読むことができ、ここでの「魅力的な結婚相手」と同じではない。また eligible applicant は普通、魅力的な独身者ではなく「応募条件を満たす人」。この結婚用法を職場の能力評価へ無条件に広げない。"
       ],
       "synonyms": [
         {
           "word": "desirable",
           "definition": "得たい、選びたいと思わせる魅力がある。",
           "frequency": 6,
-          "difference": "a desirable partner なら結婚相手としての魅力が重なるが、未婚であることは語自体に含まない。eligible のこの用法は、未婚の結婚候補という文脈に結びつく。",
+          "difference": "a desirable partner なら結婚相手としての魅力が重なるが、独身であることは語自体に含まない。eligible のこの用法は、独身の結婚候補という文脈に結びつく。",
           "example": "Kindness and reliability can make someone a desirable partner.",
           "translation": "優しさと信頼できる人柄は、結婚相手としての魅力になり得る。"
         }
