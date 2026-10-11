@@ -3,7 +3,7 @@
   "slug": "furnish",
   "ipa": "米: /ˈfɜːrnɪʃ/｜英: /ˈfɜːnɪʃ/",
   "lead": "家・部屋・事務所などに、椅子・机・ベッドなどの家具や室内用品を入れて、使えるように整える。直接目的語は家具を入れる場所。家具の購入だけに限定されず、手持ちの物や借りた物を配置する場合にも使える。改築や壁の塗り替えを必ず伴うわけではない。",
-  "updated": "2026-10-10",
+  "updated": "2026-10-11",
   "notion_url": "https://app.notion.com/p/furnish-3f54faa9b77d8140bda9fdc9ae808b4c",
   "pronunciation": [
     "2音節で、第1音節に主強勢がある。上の米英表記の違いは、第1音節の母音 /ɜː/ の後に米では /r/ があり、英ではない点。第2音節はともに /nɪʃ/。",
@@ -42,7 +42,7 @@
   "core": [
     {
       "type": "paragraph",
-      "text": "共通するのは「ある場所や人の用に足りるものを備える・供給する」という関係。動詞は備える行為、furnished は家具が備わる状態、furnishings は室内や身の回りに備える品々を表す。"
+      "text": "共通するのは「ある場所や人の用途に必要なものを備える・供給する」という関係。動詞は備える行為、furnished は家具が備わる状態、furnishings は室内や身の回りに備える品々を表す。"
     },
     {
       "type": "item",
@@ -63,6 +63,10 @@
     {
       "type": "item",
       "text": "必要なものを身支度のために備える品々 → 「衣料品・服飾小物」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "製紙に必要なものとして供給する原料 → 「抄紙原料・紙料」（語義6）"
     }
   ],
   "sources": [],
@@ -372,8 +376,8 @@
         {
           "pattern": "soft furnishings",
           "use": "布製の室内装飾・生活用品をまとめて指す。",
-          "example": "New curtains and cushions gave the room a fresh look without replacing any other soft furnishings.",
-          "translation": "新しいカーテンとクッションのおかげで、ほかの布製の室内用品を取り替えずに部屋の雰囲気が一新した。"
+          "example": "New curtains and cushions gave the room a fresh look while the other soft furnishings remained unchanged.",
+          "translation": "新しいカーテンとクッションのおかげで、ほかの布製の室内用品はそのままでも、部屋の雰囲気が一新した。"
         },
         {
           "pattern": "period furnishings",
@@ -467,6 +471,61 @@
           "difference": "この比較は北米のやや古風な商品名としての用法に限る。英国では針・糸・ボタンなどの裁縫用品を指すので、furnishings と一律には交換できない。",
           "example": "The old American catalog advertised haberdashery, including shirts and neckties.",
           "translation": "その古い米国のカタログには、シャツやネクタイなどの紳士用品の広告が載っていた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【名詞：通常不可算】抄紙原料・紙料",
+      "frequency": 2,
+      "register": [
+        "製紙工業の専門用語。日常語の家具・調度品を表す furnishings とは別の名詞用法。"
+      ],
+      "definition": "製紙で、紙を作るために用意する繊維原料と水、必要に応じて加える填料などからなる混合物。完成した紙や家具ではなく、抄紙機に供給する原料を指す。原料の配合や種類を区別するときには可算扱いにもなる。",
+      "patterns": [
+        "papermaking furnish＝製紙用の原料",
+        "add 〈添加物〉 to the furnish＝紙料に添加物を加える",
+        "the composition of the furnish＝紙料の配合",
+        "different furnishes＝配合などが異なる複数種類の紙料。量として述べる場合は不可算、種類として区別する場合は a furnish や furnishes を用いる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "papermaking furnish",
+          "use": "製紙に使う混合原料そのものを指す。",
+          "example": "The papermaking furnish contains recycled fibers and water.",
+          "translation": "この抄紙原料には再生繊維と水が含まれている。"
+        },
+        {
+          "pattern": "add 〈添加物〉 to the furnish",
+          "use": "紙料に薬品や填料などを加える工程を述べる。",
+          "example": "The mill adds a small amount of starch to the furnish.",
+          "translation": "その工場では紙料に少量のでんぷんを加える。"
+        },
+        {
+          "pattern": "the composition of the furnish",
+          "use": "原料の組成や配合について述べる。",
+          "example": "The composition of the furnish affects the properties of the finished paper.",
+          "translation": "紙料の配合は、出来上がる紙の性質に影響する。"
+        },
+        {
+          "pattern": "different furnishes",
+          "use": "配合の異なる紙料を種類として比較する。",
+          "example": "The researchers tested two different furnishes, one with filler and one without.",
+          "translation": "研究者たちは、填料を含むものと含まないものの2種類の紙料を試験した。"
+        }
+      ],
+      "notes": [
+        "この furnish は物質を指す名詞で、動詞 furnish の目的語を省略した形ではない。名詞 furnish の複数形は furnishes であり、furnishings ではない。furnishes は動詞の三人称単数現在形と同じ綴りなので、文中の働きから判断する。原料を供給するという一般義とのつながりはあるが、製紙以外の材料全般を日常的に furnish と呼ぶわけではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "stock",
+          "definition": "製紙工程で扱う、繊維を水に分散させた紙料。",
+          "frequency": 2,
+          "difference": "この専門義で furnish と重なるが、stock は工程中の懸濁液や濃度に着目した表現にも多く、furnish は用いる原料の組合せ・配合にも焦点を置く。一般語の「在庫」とは区別する。",
+          "example": "The stock is diluted before it reaches the headbox of the paper machine.",
+          "translation": "紙料は抄紙機のヘッドボックスに達する前に希釈される。"
         }
       ],
       "antonyms": []
