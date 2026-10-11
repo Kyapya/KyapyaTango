@@ -1,0 +1,518 @@
+{
+  "word": "inventory",
+  "slug": "inventory",
+  "ipa": "米: /ˈɪn.vən.tɔːr.i/｜英: /ˈɪn.vən.tər.i/",
+  "lead": "店舗や企業などが、販売・生産のために保有する商品・材料のまとまり、またはその数量・価額。在庫という物の集合を指す場合と、帳簿や報告で示す在庫額を指す場合がある。製造業では完成品だけでなく、原材料・仕掛品なども対象になる。",
+  "updated": "2026-10-11",
+  "notion_url": "https://app.notion.com/p/inventory-3f64faa9b77d8187b144d6329ee8e4b9",
+  "pronunciation": [
+    "ここに示す形は4音節で、第1音節 /ɪn/ に主強勢がある。第2音節 /vən/ と第4音節 /i/ は共通で、第3音節の母音が米音 /ɔː/、英音 /ə/。英語には第3音節の弱い母音を省いて /ˈɪn.vən.tri/ とする3音節形もある。名詞と動詞で基本的な強勢位置は変わらない。",
+    "複数形・三人称単数 inventories の語尾は /z/。動詞の過去形・過去分詞は inventoried で、-ed は /d/。-ing 形は inventorying で、語末の y を残す。"
+  ],
+  "etymology": [
+    "中英語 inventarie / inventorie は、アングロフランス語 inventaire などを経て、ラテン語 inventarium「見いだされた物の一覧」にさかのぼる。基礎にある inventum は invenire「見いだす」の過去分詞に関係する語で、「そこにあるものを確かめて一覧にする」というつながりがある。",
+    "同じ invenire 系には invent「発明する」、invention「発明」がある。現代の inventory は「発明品」や「発明者」の意味ではなく、inventor「発明者」と区別する。"
+  ],
+  "formation": [
+    {
+      "term": "inventories",
+      "description": "名詞の複数形、または動詞の三人称単数現在形。名詞では一覧表・複数の在庫など、動詞では「一覧にする」を表す。"
+    },
+    {
+      "term": "inventoried",
+      "description": "動詞の過去形・過去分詞。y が i に変わる。inventoried items は「一覧に記録された品目」で、新しい独立語義を持つ形容詞ではない。"
+    },
+    {
+      "term": "inventorying",
+      "description": "動名詞・現在分詞。「棚卸しすること、一覧を作成している」。inventoring とは書かない。"
+    },
+    {
+      "term": "inventory control / inventory management",
+      "description": "複合名詞。「在庫管理」。inventory は名詞として後続名詞を修飾する。"
+    },
+    {
+      "term": "inventory turnover",
+      "description": "複合名詞。「在庫回転」。在庫が販売・補充される速さに関する指標で、従業員の離職や売上高という turnover の別義と混同しない。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "核は、ある範囲に何がどれだけあるかを、項目ごとに捉えること。実物のまとまり、記録、確認作業、動作に広がる。質問票の専門義も、特性を項目ごとに調べて把握するというつながりを持つが、測定の妥当性や診断の可否はこの核だけでは決まらない。"
+    },
+    {
+      "type": "item",
+      "text": "品目ごとに捉えた手持ちの商品・材料 → 「在庫、在庫量、在庫額」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "品目ごとに捉えた内容の記録 → 「一覧表、目録」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "品目ごとに捉える数量・状態の確認 → 「棚卸し、現状の点検」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "品目ごとに捉えて記録する作業 → 「一覧にする、棚卸しする」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "項目ごとに捉えた構成要素の全体 → 「要素の集合、持ち物一式」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "特性を項目ごとに捉える測定用の質問 → 「質問票、質問紙式の検査」（語義6）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算／不可算】在庫、在庫量、在庫額",
+      "frequency": 7,
+      "register": [
+        "商業・物流・製造・会計。一般の店舗在庫という意味は特に米国英語で多く、英国の日常語では stock がよく使われる。国際的な会計・業務でも inventory は広く使う。"
+      ],
+      "definition": "店舗や企業などが、販売・生産のために保有する商品・材料のまとまり、またはその数量・価額。在庫という物の集合を指す場合と、帳簿や報告で示す在庫額を指す場合がある。製造業では完成品だけでなく、原材料・仕掛品なども対象になる。",
+      "patterns": [
+        "inventory of 〈商品・材料〉＝その商品の在庫",
+        "have/keep/carry inventory＝在庫を持つ",
+        "reduce inventory＝在庫を減らす",
+        "in inventory＝在庫として",
+        "inventory levels＝在庫水準",
+        "an inventory of 〈数量・価額・商品〉＝一定のまとまりとしての在庫",
+        "inventories of 〈商品〉＝複数拠点・種類などの在庫。"
+      ],
+      "collocations": [
+        {
+          "pattern": "carry inventory",
+          "use": "販売や供給に備えて在庫を保有する。",
+          "example": "The retailer carries less inventory during the quiet season.",
+          "translation": "その小売店は、閑散期には保有する在庫を減らしている。"
+        },
+        {
+          "pattern": "reduce inventory",
+          "use": "在庫の数量や規模を減らす。",
+          "example": "Better demand forecasts helped us reduce inventory without delaying orders.",
+          "translation": "需要予測の改善によって、注文への対応を遅らせずに在庫を減らすことができた。"
+        },
+        {
+          "pattern": "inventory levels",
+          "use": "在庫の多さや適正量を管理する。",
+          "example": "We review inventory levels at the end of each week.",
+          "translation": "私たちは毎週末に在庫水準を確認する。"
+        },
+        {
+          "pattern": "in inventory",
+          "use": "商品を在庫として持っていることを示す。",
+          "example": "We still have forty units of that model in inventory.",
+          "translation": "その型の製品は、まだ40台在庫がある。"
+        },
+        {
+          "pattern": "an inventory of 〈商品〉",
+          "use": "まとまった品ぞろえ・在庫を示す。",
+          "example": "The dealer has an extensive inventory of used office furniture.",
+          "translation": "その販売店は、中古のオフィス家具を豊富に取りそろえている。"
+        },
+        {
+          "pattern": "raw material inventory",
+          "use": "製造に使う原材料の在庫を指す。",
+          "example": "The factory increased its raw material inventory before the holiday shutdown.",
+          "translation": "工場は休暇中の操業停止に先立ち、原材料の在庫を増やした。"
+        },
+        {
+          "pattern": "the value of inventory",
+          "use": "数量ではなく在庫額を述べる。",
+          "example": "The value of inventory fell even though the number of units remained unchanged.",
+          "translation": "個数は変わらなかったが、在庫の価額は下がった。"
+        }
+      ],
+      "notes": [
+        "全体の在庫量なら much inventory / less inventory が使える。an inventory of used cars のように、あるまとまりとして数えることもでき、inventories は複数拠点の在庫や集計された在庫を指せる。1個の商品を常に one inventory と呼ぶのではなく、one item / one unit とする。米語の in inventory に対し、米英とも在庫の有無には in stock / out of stock が普通に使える。inventory は会社のすべての資産を自動的に含む語ではなく、会計上の在庫と業務用建物・機械などは区別する。数量が同じでも評価額は変わり得るので、inventory rose が何の増加かは文脈で確認する。"
+      ],
+      "synonyms": [
+        {
+          "word": "stock",
+          "definition": "販売や使用のために手元に置く商品・材料。",
+          "frequency": 9,
+          "difference": "この意味では inventory に近く、英国の日常語で特に一般的。stock は他にも株式などの意味があるので、在庫義に限って比較する。",
+          "example": "The shop is waiting for new stock to arrive.",
+          "translation": "その店は、新しい商品の入荷を待っている。"
+        },
+        {
+          "word": "supplies",
+          "definition": "作業や生活のために備えてある用品・物資。",
+          "frequency": 8,
+          "difference": "inventory が販売品やその価額も広く表すのに対し、supplies は使うための物資という性格が強い。複数形で使う。",
+          "example": "The office keeps extra supplies in the basement.",
+          "translation": "事務所は、予備の用品を地下室に保管している。"
+        },
+        {
+          "word": "merchandise",
+          "definition": "販売するための商品。",
+          "frequency": 7,
+          "difference": "inventory と販売品という点で重なるが、merchandise は商品の性質に焦点があり、数量・在庫額・原材料一般を表す語ではない。不可算。",
+          "example": "Damaged merchandise was removed from the shelves.",
+          "translation": "傷んだ商品が棚から取り除かれた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算】一覧表、目録",
+      "frequency": 7,
+      "register": [
+        "一般・業務・財産管理・図書館・情報技術。"
+      ],
+      "definition": "ある場所にある物、ある人や組織が持つ資産などを、項目ごとに詳しく記した一覧。数量・状態・価額を記載することもあるが、これらすべてが常に必要という意味ではない。物品だけでなく、データ・技能・資源などを記録した一覧にも使う。",
+      "patterns": [
+        "an inventory of something＝何かの一覧表",
+        "make/draw up an inventory＝一覧表を作る",
+        "include something in an inventory＝一覧に載せる",
+        "be on the inventory＝一覧に記載されている",
+        "update the inventory＝一覧を更新する。複数形は inventories。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an inventory of something",
+          "use": "何を記録した一覧かを示す。",
+          "example": "The landlord gave us an inventory of the furniture in the apartment.",
+          "translation": "大家は、アパートの家具の一覧表を私たちに渡した。"
+        },
+        {
+          "pattern": "draw up an inventory",
+          "use": "詳細な一覧表を作成する。",
+          "example": "The curator drew up an inventory of all the donated objects.",
+          "translation": "学芸員は、寄贈されたすべての物品の目録を作成した。"
+        },
+        {
+          "pattern": "include something in an inventory",
+          "use": "特定の項目を一覧に加える。",
+          "example": "Please include the spare monitors in the inventory.",
+          "translation": "予備のモニターも一覧表に含めてください。"
+        },
+        {
+          "pattern": "be on the inventory",
+          "use": "物品が一覧に記載されていることを示す。",
+          "example": "The antique lamp is on the inventory, but no value is recorded.",
+          "translation": "そのアンティークのランプは目録に載っているが、価額は記録されていない。"
+        },
+        {
+          "pattern": "update the inventory",
+          "use": "一覧表を最新の状態にする。",
+          "example": "Update the inventory whenever equipment is moved to another office.",
+          "translation": "機器を別の事務所に移すたびに、一覧表を更新してください。"
+        }
+      ],
+      "notes": [
+        "a detailed inventory のように冠詞を付け、複数の一覧表なら inventories とする。an inventory of equipment は「機器の一覧表」で、equipment 自体は不可算。物が on the inventory なら「一覧に載っている」、in inventory なら通常は語義1の「在庫としてある」。一覧に記載されていても、実物の所在や状態が正しいとは限らない。ソフトウェアや機器の inventory も、必ずしも販売用在庫ではなく、管理対象の一覧を指し得る。"
+      ],
+      "synonyms": [
+        {
+          "word": "list",
+          "definition": "項目を並べて記したもの。",
+          "frequency": 10,
+          "difference": "inventory より広く一般的で、網羅性や詳細な物品管理を特に含意しない。",
+          "example": "I made a list of things to take on the trip.",
+          "translation": "旅行に持っていく物のリストを作った。"
+        },
+        {
+          "word": "catalogue",
+          "definition": "物品・作品などを体系的に整理した一覧。",
+          "frequency": 7,
+          "difference": "inventory が現にある物の把握に重点を置くのに対し、catalogue は分類・説明・検索などに役立つ体系的な記録を意識させる。米綴りは catalog。",
+          "example": "The library's catalogue can be searched online.",
+          "translation": "その図書館の目録はオンラインで検索できる。"
+        },
+        {
+          "word": "register",
+          "definition": "人・物・出来事などを正式に記録する名簿・台帳。",
+          "frequency": 7,
+          "difference": "inventory より登録・公的な記録の性格が強く、在庫だけでなく人や権利などにも使う。",
+          "example": "Every donated item was entered in the register.",
+          "translation": "寄贈された品はすべて台帳に記入された。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算／不可算】棚卸し、現状の点検",
+      "frequency": 6,
+      "register": [
+        "商業・物品管理。棚卸しの意味は米国英語で特に一般的で、英国英語では stocktaking ともいう。比喩用法は一般の文章にもある。"
+      ],
+      "definition": "手元にある商品・材料・物品などを数え、一覧や帳簿と照らして確認する作業。比喩的に、自分の技能・資源・状況をひととおり確認し、現状を把握することにも使う。単に既存の一覧表を読むこととは限らない。",
+      "patterns": [
+        "take/do inventory＝棚卸しする",
+        "take/do an inventory of something＝対象をひととおり調べる",
+        "conduct a physical inventory＝実地棚卸しを行う",
+        "be closed for inventory＝棚卸しのため休業している",
+        "take inventory of 〈技能・状況など〉＝現状を点検する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "take inventory",
+          "use": "在庫や物品を数えて確認する作業を述べる。",
+          "example": "We take inventory after the store closes on the last day of each month.",
+          "translation": "私たちは毎月の最終日に、閉店後に棚卸しを行う。"
+        },
+        {
+          "pattern": "do an inventory of something",
+          "use": "特定の対象をひととおり調べる。",
+          "example": "The team did an inventory of the laboratory supplies before placing an order.",
+          "translation": "チームは発注前に、実験室の用品の棚卸しをした。"
+        },
+        {
+          "pattern": "conduct a physical inventory",
+          "use": "帳簿上だけでなく、実際の物を確認する棚卸しを述べる。",
+          "example": "The warehouse conducts a physical inventory twice a year.",
+          "translation": "その倉庫では、年に2回、実地棚卸しを行う。"
+        },
+        {
+          "pattern": "be closed for inventory",
+          "use": "棚卸しを理由とした休業を案内する。",
+          "example": "The showroom will be closed for inventory on Monday.",
+          "translation": "ショールームは月曜日、棚卸しのため休業します。"
+        },
+        {
+          "pattern": "take inventory of 〈技能・状況など〉",
+          "use": "比喩的に、自分の持つ能力や置かれた状況を確認する。",
+          "example": "Before changing careers, she took inventory of her skills and experience.",
+          "translation": "職種を変える前に、彼女は自分の技能と経験をひととおり見直した。"
+        }
+      ],
+      "notes": [
+        "take inventory と take an inventory はどちらも使え、不可算形は作業一般、可算形は1回の点検を捉えやすい。語義2の make an inventory は結果としての一覧作成に、ここでの take inventory は確認作業に焦点があるが、実際には両方を行うため重なる。take inventory of your skills の of 以下は調べる対象で、「技能を在庫として販売する」意味ではない。take an inventory を動詞 inventory と言い換えられる場合もあるが、ここでの inventory 自体の品詞は名詞。"
+      ],
+      "synonyms": [
+        {
+          "word": "stocktaking",
+          "definition": "店舗や企業の在庫を数えて確認すること。",
+          "frequency": 5,
+          "difference": "この inventory に近く、特に英国英語で一般的。比喩的に現状の総点検を指す場合もある。",
+          "example": "The shop is closed today for stocktaking.",
+          "translation": "その店は今日、棚卸しのため休業している。"
+        },
+        {
+          "word": "stock check",
+          "definition": "在庫の数量や状態を確認する作業。",
+          "frequency": 5,
+          "difference": "inventory と重なるが、stock check は特定の商品の簡単な確認にも使え、全面的な一覧作成を必ずしも含まない。",
+          "example": "A stock check showed that several boxes were missing.",
+          "translation": "在庫確認の結果、数箱がなくなっていることが分かった。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【他動詞】一覧にする、棚卸しする",
+      "frequency": 5,
+      "register": [
+        "業務・管理・調査・情報技術。日常会話では make a list of などが分かりやすい。"
+      ],
+      "definition": "物品・資産・資源などを調べ、項目ごとの記録を作る。また、ある物をそのような一覧に記録する。名詞 inventory の一覧・点検の意味から使われる動詞で、商品を補充したり購入したりすることではない。",
+      "patterns": [
+        "inventory 〈物品・資産・資源〉＝対象を一覧にする",
+        "inventory everything in 〈場所〉＝場所にあるものをすべて調べて記録する",
+        "〈対象〉 be inventoried＝一覧に記録される",
+        "inventory something before doing＝ある行動の前に対象を調べて記録する。主語は担当者・組織・自動化したシステムなど。"
+      ],
+      "collocations": [
+        {
+          "pattern": "inventory the equipment",
+          "use": "機器を調べて一覧に記録する。",
+          "example": "Staff inventoried the equipment before the office move.",
+          "translation": "職員は事務所の移転前に、機器を調べて一覧に記録した。"
+        },
+        {
+          "pattern": "inventory everything in 〈場所〉",
+          "use": "指定場所の物を網羅的に記録する。",
+          "example": "We need to inventory everything in the storage room.",
+          "translation": "保管室にあるものをすべて調べて一覧にする必要がある。"
+        },
+        {
+          "pattern": "be inventoried（inventory の受動態）",
+          "use": "対象が一覧作成・棚卸しの処理を受けることを述べる。",
+          "example": "Each object was photographed and inventoried on arrival.",
+          "translation": "各物品は、到着時に撮影され、目録に記録された。"
+        },
+        {
+          "pattern": "inventory 〈ソフトウェア・情報資産〉",
+          "use": "情報技術分野で管理対象を洗い出す。",
+          "example": "The tool inventories all software installed on the company's computers.",
+          "translation": "そのツールは、会社のコンピューターにインストールされているすべてのソフトウェアを調べて一覧にする。"
+        }
+      ],
+      "notes": [
+        "動詞では inventory the supplies と直接目的語を置き、inventory of the supplies とはしない。an inventory of the supplies は名詞句。「彼らは機器の一覧を作った」は They inventoried the equipment. または They made an inventory of the equipment.。過去形は inventoried、進行形は inventorying。inventory という動詞自体に、記録が正しいと保証する・監査で承認するという意味はない。"
+      ],
+      "synonyms": [
+        {
+          "word": "list",
+          "definition": "対象を項目として書き並べる。",
+          "frequency": 9,
+          "difference": "inventory より広く、実物を数えたり現物照合したりせず、名前を列挙するだけでも使える。",
+          "example": "Please list the documents you have submitted.",
+          "translation": "提出した書類を列挙してください。"
+        },
+        {
+          "word": "catalogue",
+          "definition": "対象を体系的に分類・記録する。",
+          "frequency": 6,
+          "difference": "inventory が「何があるか」の確認に重点を置くのに対し、catalogue は分類や内容記述を伴う整理を強調する。米綴り catalog。",
+          "example": "Volunteers catalogued the archive's photographs.",
+          "translation": "ボランティアたちは、資料館の写真を整理して目録に記録した。"
+        },
+        {
+          "word": "itemize",
+          "definition": "全体を個々の項目に分けて詳しく記載する。",
+          "frequency": 6,
+          "difference": "inventory と一覧化で重なるが、itemize は請求額や経費などの内訳を示す場合にもよく使い、現物調査は必須でない。",
+          "example": "The invoice itemizes every charge.",
+          "translation": "その請求書には、すべての料金の内訳が記載されている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞・可算】要素の集合、持ち物一式",
+      "frequency": 5,
+      "register": [
+        "言語学・研究・ゲーム・能力や資源の説明。具体的な対象に応じて訳し分ける。"
+      ],
+      "definition": "ある体系・人・キャラクターなどが持つ、要素や利用可能な物のまとまり。言語学では音素などの構成要素の集合、ゲームではキャラクターの所持品一式を指す。必ずしもそれを記した紙の一覧表や販売用在庫ではない。",
+      "patterns": [
+        "an inventory of 〈要素・能力など〉＝それらの集合",
+        "a phoneme inventory＝音素の集合",
+        "one's inventory＝ゲーム内などの所持品一式",
+        "add something to one's inventory＝所持品に加える",
+        "remove something from one's inventory＝所持品から取り除く。ゲームでは inventory を開く・見るというと、所持品を表示する画面を指すこともある。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a phoneme inventory",
+          "use": "言語が区別して使う音素の集合を指す。",
+          "example": "The study compares the phoneme inventories of the two languages.",
+          "translation": "その研究は、2つの言語が持つ音素の集合を比較している。"
+        },
+        {
+          "pattern": "an inventory of 〈能力・資源〉",
+          "use": "利用できる能力や資源のまとまりを述べる。",
+          "example": "The team has a broad inventory of skills to draw on.",
+          "translation": "そのチームには、活用できる幅広い技能がある。"
+        },
+        {
+          "pattern": "add something to one's inventory",
+          "use": "ゲームで取得した物を所持品に加える。",
+          "example": "Picking up the key adds it to your inventory.",
+          "translation": "鍵を拾うと、所持品に追加される。"
+        },
+        {
+          "pattern": "remove something from one's inventory",
+          "use": "ゲームの所持品から物を取り除く。",
+          "example": "Using a potion removes it from the player's inventory.",
+          "translation": "薬を使うと、それはプレイヤーの所持品からなくなる。"
+        },
+        {
+          "pattern": "open one's inventory",
+          "use": "ゲーム内で所持品画面を開く。",
+          "example": "Open your inventory and select the map.",
+          "translation": "所持品画面を開いて、地図を選んでください。"
+        }
+      ],
+      "notes": [
+        "a vowel inventory は母音の在庫ではなく、言語の母音の集合。a player's inventory も通常は売り物ではなく、そのプレイヤーのキャラクターが持って使える物を指す。ゲームの空き容量なら inventory space、個々の所持品なら an item in the inventory とする。「一覧に書かれた物」か「実際の構成要素の集合」かは、add / remove や発音体系などの文脈から読む。"
+      ],
+      "synonyms": [
+        {
+          "word": "set",
+          "definition": "まとまりとして捉えられる要素の集まり。",
+          "frequency": 9,
+          "difference": "inventory より一般的で、保有・利用可能性・項目別の把握を特に強調しない。",
+          "example": "The language uses a small set of vowel sounds.",
+          "translation": "その言語で使われる母音は少数だ。"
+        },
+        {
+          "word": "repertoire",
+          "definition": "人や集団が持ち、使うことのできる技能・手段・演目などのまとまり。",
+          "frequency": 6,
+          "difference": "inventory と能力の集合で重なるが、repertoire は実行できる技や表現を中心にし、ゲームの所持品画面などには通常使わない。",
+          "example": "The course expanded her repertoire of teaching techniques.",
+          "translation": "その講座によって、彼女が使える指導技法の幅が広がった。"
+        },
+        {
+          "word": "collection",
+          "definition": "集められた物や要素のまとまり。",
+          "frequency": 9,
+          "difference": "inventory より集めることや収集されたまとまりに焦点があり、全構成要素の網羅や利用可能性は必須ではない。",
+          "example": "His collection of maps includes several rare editions.",
+          "translation": "彼の地図コレクションには、珍しい版がいくつか含まれている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【名詞・可算・心理測定】質問票、質問紙式の検査",
+      "frequency": 4,
+      "register": [
+        "心理学・心理測定・研究・適性や職業的関心の評価。専門的な複合語や検査名に現れる。"
+      ],
+      "definition": "性格・関心・態度などを複数の質問・項目への回答から評価するための質問票や測定用の検査。自己報告式のものが多いが、すべてが自己記入式とは限らず、他者が評定する形式もある。検査結果や診断そのものを inventory と呼ぶという説明ではない。",
+      "patterns": [
+        "a personality inventory＝性格を測る質問票",
+        "an interest inventory＝関心を測る質問票",
+        "a self-report inventory＝自己報告式の質問票",
+        "complete/fill out an inventory＝質問票に回答する",
+        "administer an inventory＝検査を実施する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "complete a personality inventory",
+          "use": "性格を調べる質問票に回答する。",
+          "example": "Participants completed a personality inventory before the interview.",
+          "translation": "参加者は面接の前に、性格を調べる質問票に回答した。"
+        },
+        {
+          "pattern": "a self-report inventory",
+          "use": "回答者が自分について答える形式を示す。",
+          "example": "The researchers used a self-report inventory to assess participants' attitudes.",
+          "translation": "研究者たちは、参加者の態度を評価するために自己報告式の質問票を使った。"
+        },
+        {
+          "pattern": "administer an interest inventory",
+          "use": "関心を測る検査を実施する。",
+          "example": "The counselor administered an interest inventory as part of the career guidance session.",
+          "translation": "カウンセラーは進路相談の一環として、関心を測る検査を実施した。"
+        }
+      ],
+      "notes": [
+        "この inventory は語義2の物品目録をそのまま人に適用したものではなく、特性を項目別に測る専門的な質問票。complete an inventory はこの文脈では「検査に回答する」で、「在庫を補充し終える」ではない。inventory という名称だけで、医学的診断ができる、結果が正確である、採用選考などに適する、と判断することはできない。検査の目的・妥当性・実施条件は個別に確認する。"
+      ],
+      "synonyms": [
+        {
+          "word": "questionnaire",
+          "definition": "情報を集めるために複数の質問をまとめた質問票。",
+          "frequency": 8,
+          "difference": "inventory より範囲が広く、満足度・経歴・利用状況などにも使う。心理特性を測るために設計されたものとは限らない。",
+          "example": "Visitors completed a short questionnaire about the exhibition.",
+          "translation": "来場者は、展覧会についての短い質問票に回答した。"
+        },
+        {
+          "word": "scale",
+          "definition": "心理的特性などの程度を数値化して測るための尺度。",
+          "frequency": 5,
+          "difference": "心理測定では inventory と重なることもあるが、scale は特性の程度の測定に焦点がある。1つの inventory が複数の尺度から成る場合もある。",
+          "example": "The study used a scale to measure satisfaction with work.",
+          "translation": "その研究では、仕事への満足度を測る尺度が使われた。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
