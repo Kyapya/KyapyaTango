@@ -1,0 +1,579 @@
+{
+  "word": "surplus",
+  "slug": "surplus",
+  "ipa": "米: /ˈsɝːpləs/｜英: /ˈsɜːpləs/。2音節で、第1音節に主強勢。米英差は第1音節の母音で、米語の /ɝː/ は r 音を伴い、英語の /ɜː/ は通常伴わない。第2音節の母音は弱い /ə/。複数形 surpluses は /ɪz/ が加わり3音節。",
+  "lead": "必要な量・使う量・需要を超えて残るものや数量。物資、人員、時間などに使う。豊かさを表す場合も、供給過多という問題を表す場合もある。",
+  "updated": "2026-10-12",
+  "notion_url": "https://app.notion.com/p/surplus-3f74faa9b77d811686f4cac5804df941",
+  "pronunciation": [],
+  "etymology": [
+    "中英語からアングロフランス語を通じ、中世ラテン語 superplus に由来する。super-「上に・超えて」と plus「より多く」が組み合わさり、基準を上回る分を表した。plus「加えて・余分の」、surplusage「余分な部分・冗長な文言」が関連語で、後者は主に法律・文章論の専門語。"
+  ],
+  "formation": [
+    {
+      "term": "surpluses",
+      "description": "名詞の複数形。複数年度の黒字や、別々の余剰を数える。"
+    },
+    {
+      "term": "surplus stock / surplus equipment",
+      "description": "余剰在庫・余剰設備。surplus は名詞の前に置かれる形容詞。"
+    },
+    {
+      "term": "surplused / surplusing",
+      "description": "資産管理・人事の動詞 surplus の過去形・過去分詞、現在分詞。surplussed / surplussing という綴りもある。"
+    },
+    {
+      "term": "surplusage",
+      "description": "余分な文言・余剰部分。法律などの専門語で、日常の surplus の代わりには通常使わない。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "必要量・支出・評価基準などを上回って残る分が中心。何を基準にするかが語義によって異なり、余りが望ましいか、扱いに困るかは文脈で決まる。"
+    },
+    {
+      "type": "item",
+      "text": "基準を上回って残る物・量 → 「余剰、余り」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "基準を上回って残る収支上の額 → 「黒字、収支の余剰額」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "基準を上回って残るという性質 → 「余剰の、必要量を超えた」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "基準を上回って残る企業の純資産部分 → 「剰余金」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "基準を上回って残る資産の純額 → 「純資産、資産の超過額」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "基準を上回って残る物の処分扱い → 「余剰物資として扱う、処分に回す」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "基準を上回って残る取引上の便益 → 「余剰、取引から得る追加的な便益」（語義7）"
+    },
+    {
+      "type": "item",
+      "text": "基準を上回って残る人員の余剰扱い → 「余剰人員として扱う」（語義8）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算・不可算】余剰、余り",
+      "frequency": 7,
+      "register": [
+        "一般、ビジネス、経済。"
+      ],
+      "definition": "必要な量・使う量・需要を超えて残るものや数量。物資、人員、時間などに使う。豊かさを表す場合も、供給過多という問題を表す場合もある。",
+      "patterns": [
+        "a surplus of 〈物・人〉＝それが余っていること",
+        "have a surplus＝余剰がある",
+        "sell the surplus＝余剰分を売る",
+        "in surplus＝供給が余っている",
+        "a surplus of 〈数量〉＝その量の余り"
+      ],
+      "collocations": [
+        {
+          "pattern": "a surplus of 〈物〉",
+          "use": "何が余っているかを示す。",
+          "example": "The warehouse has a surplus of winter coats.",
+          "translation": "その倉庫では冬物コートが余っている。"
+        },
+        {
+          "pattern": "a surplus of 〈人〉",
+          "use": "需要に対して人員が多いことを示す。",
+          "example": "The region has a surplus of qualified applicants for a small number of jobs.",
+          "translation": "その地域では、少数の求人に対して資格を持つ応募者が多すぎる。"
+        },
+        {
+          "pattern": "sell the surplus",
+          "use": "余った分を売る。",
+          "example": "The farm keeps enough grain for its animals and sells the surplus.",
+          "translation": "その農場は家畜に必要な穀物を確保し、余剰分を売っている。"
+        },
+        {
+          "pattern": "in surplus",
+          "use": "供給が需要を上回る状態を述べる。",
+          "example": "Milk was in surplus that summer, so prices fell.",
+          "translation": "その夏は牛乳が供給過多となり、価格が下がった。"
+        },
+        {
+          "pattern": "a surplus of 〈数量〉",
+          "use": "余剰量を示す。",
+          "example": "The delivery left us with a surplus of 20 chairs.",
+          "translation": "その納品の結果、椅子が20脚余った。"
+        }
+      ],
+      "notes": [
+        "of 以下は余っている物・人、または具体的な余剰量。a surplus of workers は「労働者が余っていること」で、働く人の価値が低いという意味ではない。不可算の some surplus と、特定の余剰状態を表す a surplus の両方が使える。経済学で商品の surplus といえば、ある価格で供給量が需要量を上回る状態も指す。収支の黒字（語義2）や取引から得る便益（語義7）とは区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "excess",
+          "definition": "必要・適切な水準を超える量。",
+          "frequency": 7,
+          "difference": "surplus より「多すぎる」という含みを持ちやすく、健康・行動などにも広く使う。",
+          "example": "The excess of salt made the soup unpleasant.",
+          "translation": "塩が多すぎて、そのスープはおいしくなかった。"
+        },
+        {
+          "word": "surfeit",
+          "definition": "多すぎて十分以上になっている量。",
+          "frequency": 4,
+          "difference": "surplus より文語的で、過剰でうんざりするような含みを持ちやすい。",
+          "example": "The article suffers from a surfeit of technical detail.",
+          "translation": "その記事は専門的な細部が多すぎて読みにくい。"
+        },
+        {
+          "word": "glut",
+          "definition": "市場で物が大幅に供給過剰になっている状態。",
+          "frequency": 5,
+          "difference": "surplus より、売れ残りや価格低下を招く過剰供給を強く示す。",
+          "example": "A glut of new apartments pushed rents down.",
+          "translation": "新築アパートの供給過剰で家賃が下がった。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "shortage",
+          "definition": "必要量や需要に対して足りない状態。",
+          "frequency": 8,
+          "difference": "供給と必要量の関係における反対。余剰でも不足でもない均衡状態もあるので、完全な二者択一ではない。",
+          "example": "The hospital faces a shortage of nurses.",
+          "translation": "その病院は看護師不足に直面している。"
+        },
+        {
+          "word": "deficit",
+          "definition": "必要量や基準量に対する不足分。",
+          "frequency": 6,
+          "difference": "量が基準を上回る surplus と下回る deficit の対立。shortage より不足分を測る響きが強い。",
+          "example": "The team has a deficit of trained technicians.",
+          "translation": "そのチームでは訓練を受けた技術者が不足している。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算・不可算】黒字、収支の余剰額",
+      "frequency": 7,
+      "register": [
+        "財政、経営、経済報道。"
+      ],
+      "definition": "ある期間の収入などが、それに対応する支出などを上回る額。財政収支・事業収支・貿易収支などで使い、比較する二つの額は文脈によって異なる。",
+      "patterns": [
+        "run a surplus＝黒字を出す",
+        "a budget surplus＝財政・予算の黒字",
+        "a trade surplus with 〈国〉＝その国に対する貿易黒字",
+        "a surplus of 〈金額〉＝その額の黒字",
+        "be in surplus＝黒字である",
+        "a surplus on 〈収支項目〉＝その収支の黒字"
+      ],
+      "collocations": [
+        {
+          "pattern": "run a surplus",
+          "use": "期間の収支が黒字であることを述べる。",
+          "example": "The council ran a surplus for the first time in five years.",
+          "translation": "その自治体は5年ぶりに黒字を計上した。"
+        },
+        {
+          "pattern": "a budget surplus",
+          "use": "収入が支出を上回ったことを示す。",
+          "example": "Higher tax receipts produced a budget surplus.",
+          "translation": "税収の増加により、財政収支は黒字となった。"
+        },
+        {
+          "pattern": "a trade surplus with 〈国〉",
+          "use": "相手国との貿易収支を示す。",
+          "example": "The country recorded a trade surplus with its largest trading partner.",
+          "translation": "その国は最大の貿易相手国に対して貿易黒字を記録した。"
+        },
+        {
+          "pattern": "a surplus of 〈金額〉",
+          "use": "黒字額を示す。",
+          "example": "The association ended the year with a surplus of 12,000 dollars.",
+          "translation": "その協会は1万2,000ドルの黒字で年度を終えた。"
+        },
+        {
+          "pattern": "be in surplus",
+          "use": "収支の状態を述べる。",
+          "example": "The operating budget remained in surplus despite higher costs.",
+          "translation": "費用が増えたにもかかわらず、運営予算の収支は黒字を維持した。"
+        },
+        {
+          "pattern": "a surplus on 〈収支項目〉",
+          "use": "どの収支で黒字が出たかを示す。",
+          "example": "The country reported a surplus on its current account.",
+          "translation": "その国は経常収支の黒字を発表した。"
+        }
+      ],
+      "notes": [
+        "黒字額には of、相手には with を使う。trade surplus は通常、輸出額が輸入額を上回ることを表し、輸出企業の利益額ではない。surplus をすべて profit「利益」と訳さず、どの収入と支出・受取と支払を比較しているかを見る。財政黒字が出ても、過去の debt「債務」がなくなったとは限らない。"
+      ],
+      "synonyms": [
+        {
+          "word": "profit",
+          "definition": "事業などの収益から費用を差し引いた利益。",
+          "frequency": 8,
+          "difference": "事業の成果としてのもうけに重点がある。政府の budget surplus や貿易の差額を通常 profit とは呼ばない。",
+          "example": "The company made a small profit in its first year.",
+          "translation": "その会社は初年度にわずかな利益を上げた。"
+        },
+        {
+          "word": "positive balance",
+          "definition": "収支などで受取側が支払側を上回る差額。",
+          "frequency": 5,
+          "difference": "正の差額を説明する中立的な表現。ただし銀行の口座残高などにも使うため、必ず期間の黒字とは限らない。",
+          "example": "The annual accounts showed a positive balance after expenses.",
+          "translation": "年次決算では、経費を差し引いた収支がプラスになっていた。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "deficit",
+          "definition": "支出などが、それに対応する収入などを上回る赤字額。",
+          "frequency": 7,
+          "difference": "同じ期間・同じ集計基準における収支の反対。収支ゼロはどちらにも当たらない。",
+          "example": "The city recorded a deficit after emergency spending increased.",
+          "translation": "緊急支出が増えたため、市は赤字を計上した。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【形容詞・限定用法、叙述用法】余剰の、必要量を超えた",
+      "frequency": 7,
+      "register": [
+        "一般、ビジネス。surplus to requirements は特に英国英語。"
+      ],
+      "definition": "現在の必要量や用途を超えて余っていることを表す。名詞の前で物資・資金などを修飾し、surplus to requirements では不要になった状態を示す。",
+      "patterns": [
+        "surplus 〈物資・資金〉＝余っている物資・資金",
+        "surplus stock＝余剰在庫",
+        "surplus to requirements＝必要量を超えて不要である",
+        "declare something surplus＝余剰であると判断する"
+      ],
+      "collocations": [
+        {
+          "pattern": "surplus food",
+          "use": "余剰の食料を表す。",
+          "example": "The supermarket donates surplus food to local charities.",
+          "translation": "そのスーパーは余った食料を地元の慈善団体に寄付している。"
+        },
+        {
+          "pattern": "surplus cash",
+          "use": "当面の用途を超える資金を表す。",
+          "example": "The company used surplus cash to replace outdated equipment.",
+          "translation": "その会社は余剰資金を使って古い設備を更新した。"
+        },
+        {
+          "pattern": "surplus stock",
+          "use": "必要量を超えた在庫を表す。",
+          "example": "The retailer offered discounts to clear surplus stock.",
+          "translation": "その小売店は余剰在庫を処分するために値引きをした。"
+        },
+        {
+          "pattern": "surplus to requirements",
+          "use": "必要でなくなった状態を述べる。",
+          "example": "The old warehouse is now surplus to requirements.",
+          "translation": "その古い倉庫は今では不要になっている。"
+        },
+        {
+          "pattern": "declare something surplus",
+          "use": "物を余剰と位置付ける。",
+          "example": "The department declared ten vehicles surplus after the reorganization.",
+          "translation": "その部署は組織再編後、車両10台を余剰と判断した。"
+        }
+      ],
+      "notes": [
+        "形容詞なので複数名詞の前でも surplus の形を保ち、誤: surpluses supplies → 正: surplus supplies。叙述では surplus to requirements や declare something surplus が典型的。very surplus や surpluser とは通常いわない。The desks are surplus. は余っている状態、The department surplused the desks. は余剰物資として処分に回す行為（語義6）。人を surplus to requirements と呼ぶと、不要な存在と見なす冷たい響きがあり得る。"
+      ],
+      "synonyms": [
+        {
+          "word": "excess",
+          "definition": "必要・許容水準を超えた。",
+          "frequency": 7,
+          "difference": "surplus より「過剰な」という評価を表しやすく、excess weight のようにも使う。",
+          "example": "Excess packaging increases waste.",
+          "translation": "過剰な包装はごみを増やす。"
+        },
+        {
+          "word": "spare",
+          "definition": "予備として使える、当面使っていない。",
+          "frequency": 8,
+          "difference": "余っていて利用できる側面が強く、最初から予備として確保した物にも使う。surplus は必要量を上回ることを示す。",
+          "example": "We keep a spare printer in the office.",
+          "translation": "私たちは事務所に予備のプリンターを置いている。"
+        },
+        {
+          "word": "extra",
+          "definition": "通常・予定の量に加わる追加の。",
+          "frequency": 9,
+          "difference": "追加分が必要か不要かは問わない。surplus は必要量を超えていることを含む。",
+          "example": "We ordered extra chairs for the event.",
+          "translation": "私たちはその催しのために椅子を追加注文した。"
+        },
+        {
+          "word": "superfluous",
+          "definition": "必要がなく、余計な。",
+          "frequency": 5,
+          "difference": "surplus より不要さを強く表し、語句・細部など抽象的なものにもよく使う。",
+          "example": "Remove any superfluous words from the summary.",
+          "translation": "要約から余計な言葉を取り除いてください。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "needed",
+          "definition": "必要とされている。",
+          "frequency": 8,
+          "difference": "必要量を超えて不要な surplus との、現在の必要性における対立。",
+          "example": "The equipment is still needed for training.",
+          "translation": "その設備は今も研修に必要だ。"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "【名詞・不可算中心・会計用法】剰余金",
+      "frequency": 4,
+      "register": [
+        "企業会計、会社関係の文書。区分・名称は制度による。"
+      ],
+      "definition": "企業の純資産のうち、資本として区分される額を超える部分を指す会計・会社法上の語。利益の蓄積に由来するものと、株式発行などに由来するものを区別して述べることがある。",
+      "patterns": [
+        "capital surplus＝資本取引などから生じた剰余金",
+        "earned surplus＝利益の蓄積による剰余金",
+        "transfer 〈金額〉 to surplus＝剰余金へ振り替える"
+      ],
+      "collocations": [
+        {
+          "pattern": "capital surplus",
+          "use": "資本に関する剰余金の項目を示す。",
+          "example": "The balance sheet lists capital surplus separately from retained earnings.",
+          "translation": "貸借対照表では、資本剰余金を利益剰余金と分けて表示している。"
+        },
+        {
+          "pattern": "earned surplus",
+          "use": "蓄積された利益を指す。",
+          "example": "The older financial statement uses the term earned surplus for accumulated undistributed profits.",
+          "translation": "その古い財務諸表では、蓄積された未分配利益に earned surplus という名称を使っている。"
+        },
+        {
+          "pattern": "transfer 〈金額〉 to surplus",
+          "use": "会計上の振替を表す。",
+          "example": "The statement records a transfer of 50,000 dollars to surplus.",
+          "translation": "その計算書には、剰余金への5万ドルの振替が記録されている。"
+        }
+      ],
+      "notes": [
+        "一般の「余った現金」とは異なる会計上の区分で、銀行にその額の現金があるとは限らない。earned surplus は retained earnings と重なる古い会計名称。surplus の計算基準・配当などに使える範囲は制度ごとに異なり、辞書上の「余剰」から法的な処分可能額を推測しない。資産から負債を引いた全体を surplus と呼ぶ用法（語義5）とは、さらに資本を差し引くかどうかが異なる。"
+      ],
+      "synonyms": [
+        {
+          "word": "retained earnings",
+          "definition": "利益のうち、配当などで社外へ分配されず企業内に蓄積された部分。",
+          "frequency": 5,
+          "difference": "earned surplus に近いが、株式発行などに由来する capital surplus まで含む語ではない。",
+          "example": "Retained earnings increased after the company reported a profit and paid no dividend.",
+          "translation": "その会社が利益を計上し、配当を行わなかったため、利益剰余金は増加した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞・不可算中心・財務用法】純資産、資産の超過額",
+      "frequency": 3,
+      "register": [
+        "保険・財務の専門用法。policyholders’ surplus は特に米国の保険文書。"
+      ],
+      "definition": "ある時点の資産が負債を上回る額。特に保険会社の財務文書で、損失や契約上の支払に備える財務的な余力を示す。資産・負債の評価や算入範囲は、その文書の基準に従う。",
+      "patterns": [
+        "policyholders’ surplus＝保険会社の資産が負債を超える額",
+        "an insurer’s surplus＝保険会社の純資産相当の余力",
+        "surplus of 〈金額〉＝その額の資産超過"
+      ],
+      "collocations": [
+        {
+          "pattern": "policyholders’ surplus",
+          "use": "保険会社の財務的な余力を示す。",
+          "example": "The insurer’s annual statement reported an increase in policyholders’ surplus.",
+          "translation": "その保険会社の年次報告書では、契約者に対する支払の裏付けとなる純資産の増加が報告された。"
+        },
+        {
+          "pattern": "an insurer’s surplus",
+          "use": "資産・負債の差額の減少を述べる。",
+          "example": "Large insurance losses reduced the insurer’s surplus.",
+          "translation": "多額の保険損失により、その保険会社の純資産は減少した。"
+        }
+      ],
+      "notes": [
+        "期間中の収入と支出の差である黒字（語義2）とは、時点の資産・負債の差という点で異なる。policyholders’ surplus は個々の契約者に払い戻す予定の金額という意味ではない。surplus lines は特定の保険市場を指す別の専門的な複合語で、「余った保険」と直訳しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "net assets",
+          "definition": "資産総額から負債総額を差し引いた額。",
+          "frequency": 6,
+          "difference": "この意味の surplus と計算の基本形が重なる。ただし、どの資産を算入するかなどの会計基準が同じとは限らない。",
+          "example": "The foundation’s net assets rose during the year.",
+          "translation": "その財団の純資産は年度中に増加した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【動詞・他動詞・専門用法】余剰物資として扱う、処分に回す",
+      "frequency": 2,
+      "register": [
+        "主に米国の行政・組織の資産管理。"
+      ],
+      "definition": "設備・備品などを組織にとって不要な資産と位置付け、売却・移管などの処分の対象にする。必ずしもその場で売却や廃棄まで完了するとは限らない。",
+      "patterns": [
+        "surplus 〈設備・備品〉＝余剰物資として処分に回す",
+        "be surplused＝余剰物資として扱われる",
+        "surplus something to 〈受入先〉＝余剰物資としてそこへ移す"
+      ],
+      "collocations": [
+        {
+          "pattern": "surplus 〈設備・備品〉",
+          "use": "不要設備を処分対象とする。",
+          "example": "The agency surplused its old computers and advertised them for sale.",
+          "translation": "その機関は古いコンピューターを余剰物資として処分対象にし、売却の広告を出した。"
+        },
+        {
+          "pattern": "be surplused",
+          "use": "余剰扱いになった物を主語にする。",
+          "example": "The chairs were surplused after the office closed.",
+          "translation": "その椅子は事務所の閉鎖後、余剰物資として処分に回された。"
+        },
+        {
+          "pattern": "surplus something to 〈受入先〉",
+          "use": "余剰物資の移管先を示す。",
+          "example": "The agency surplused the desks to another department at no charge.",
+          "translation": "その機関は余剰となった机を別の部署に無償で移管した。"
+        }
+      ],
+      "notes": [
+        "この語義では品物を直接目的語に取る他動詞。surplus the desks は行為、surplus desks は形容詞＋名詞で「余剰の机」。過去分詞 surplused の状態には、処分対象への指定や移管などの処理が含まれるが、具体的にどの段階まで終わったかは文脈で確認する。日常の「物が余る」という自動詞のつもりで使わない。人を目的語にする surplus someone は、物資の処分ではなく余剰人員としての扱いを示す（語義8）。"
+      ],
+      "synonyms": [
+        {
+          "word": "dispose of",
+          "definition": "不要な物を売却・譲渡・廃棄などで処分する。",
+          "frequency": 7,
+          "difference": "surplus より一般的で、余剰物資としての組織内の区分を必ずしも伴わない。",
+          "example": "The office disposed of the damaged furniture.",
+          "translation": "事務所は壊れた家具を処分した。"
+        },
+        {
+          "word": "decommission",
+          "definition": "設備を正式に使用から外す。",
+          "frequency": 4,
+          "difference": "使用停止に重点があり、余剰扱いでの売却・移管とは同じではない。設備を現役から外す場面で意味が重なる。",
+          "example": "The laboratory decommissioned the old scanner.",
+          "translation": "研究所は古いスキャナーの使用を正式に終了した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【名詞・不可算中心・経済学用法】余剰、取引から得る追加的な便益",
+      "frequency": 4,
+      "register": [
+        "経済学。"
+      ],
+      "definition": "取引により得られる便益を、支払ってもよい最大額や受け取る必要のある最低額と、実際の取引額との差として捉える概念。consumer surplus は買い手側、producer surplus は売り手側の便益を示す。",
+      "patterns": [
+        "consumer surplus＝消費者余剰",
+        "producer surplus＝生産者余剰",
+        "total surplus＝消費者余剰と生産者余剰の合計"
+      ],
+      "collocations": [
+        {
+          "pattern": "consumer surplus",
+          "use": "支払意思額と実際の支払額との差を示す。",
+          "example": "If a buyer is willing to pay at most 30 dollars but pays 22 dollars, the consumer surplus is 8 dollars.",
+          "translation": "買い手が30ドルまで払ってもよいと考え、実際には22ドル払う場合、消費者余剰は8ドルとなる。"
+        },
+        {
+          "pattern": "producer surplus",
+          "use": "最低受取意思額と実際の受取額との差を示す。",
+          "example": "A seller whose minimum acceptable price is 15 dollars gains 7 dollars in producer surplus by selling at 22 dollars.",
+          "translation": "最低15ドルなら売ってよいと考える売り手が22ドルで売ると、生産者余剰は7ドルとなる。"
+        },
+        {
+          "pattern": "total surplus",
+          "use": "両者の便益の合計を述べる。",
+          "example": "The diagram shows total surplus as the sum of consumer and producer surplus.",
+          "translation": "その図では、総余剰を消費者余剰と生産者余剰の合計として示している。"
+        }
+      ],
+      "notes": [
+        "売れ残りの在庫や財政黒字ではなく、取引の便益を測る専門的な意味。生産者余剰を、すべての費用を引いた会計上の利益と一律に同一視しない。consumer surplus と producer surplus は受益者が異なる対照概念で、互いの反意語ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "gains from trade",
+          "definition": "取引を行うことによって当事者が得る便益。",
+          "frequency": 4,
+          "difference": "余剰と意味が重なるが、取引がもたらす利益全般を述べる表現。surplus は支払意思額などとの差として数量化する文脈で使う。",
+          "example": "Both buyers and sellers can share in the gains from trade.",
+          "translation": "買い手と売り手の両方が、取引から生じる便益を得られる。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【動詞・他動詞・北米の人事用法】余剰人員として扱う",
+      "frequency": 2,
+      "register": [
+        "北米の人事・教職員配置の専門用法。"
+      ],
+      "definition": "教職員などを現在の学校・部署では必要な人数を超える人員と位置付け、配置転換や人員削減の対象とする。必要な職の数に基づく人事上の扱いであり、能力の低さや解雇の完了を必ず意味するわけではない。",
+      "patterns": [
+        "surplus someone＝人を余剰人員として扱う",
+        "be surplused＝余剰人員扱いになる",
+        "be surplused from 〈学校・部署〉＝その所属先で余剰人員とされる"
+      ],
+      "collocations": [
+        {
+          "pattern": "surplus someone",
+          "use": "必要人数を超える人員として指定する。",
+          "example": "The school district surplused three teachers after enrollment fell.",
+          "translation": "その学区は在籍者数が減少したため、教員3人を余剰人員として扱った。"
+        },
+        {
+          "pattern": "be surplused",
+          "use": "人事上の余剰指定を受ける側から述べる。",
+          "example": "She was surplused but later found another position in the same school district.",
+          "translation": "彼女は余剰人員扱いになったが、その後、同じ学区内の別の職に就いた。"
+        },
+        {
+          "pattern": "be surplused from 〈学校〉",
+          "use": "余剰人員とされた元の所属校を示す。",
+          "example": "Two teachers were surplused from the school and reassigned elsewhere in the district.",
+          "translation": "教員2人がその学校で余剰人員とされ、学区内の別の勤務先に再配置された。"
+        }
+      ],
+      "notes": [
+        "人を対象にする他動詞で、受動態もよく使う。from は元の所属先を示し、移る先ではない。surplused teachers は余剰扱いとなった教員を表す分詞修飾。具体的な再配置・雇用上の扱いは組織や労働協約によって異なり、be laid off「解雇・一時解雇される」と一律に同じとはしない。形容詞 surplus staff は余剰の職員という状態、動詞 surplus staff は職員を余剰扱いにする行為で、文中の構造から区別する。物資を処分に回す語義6とも訳し分ける。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}

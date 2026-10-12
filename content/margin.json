@@ -1,0 +1,726 @@
+{
+  "word": "margin",
+  "slug": "margin",
+  "ipa": "米: /ˈmɑːrdʒɪn/｜英: /ˈmɑːdʒɪn/。2音節で、第1音節に主強勢がある。ここに示す米英差は、第1音節の母音の後に /r/ があるかどうか。g は /ɡ/ ではなく /dʒ/。名詞の複数形・動詞の三人称単数形 margins の語尾は /z/、margined の語尾は /d/。",
+  "lead": "二つの数値・成績・水準などがどれほど離れているかを示す差。特に勝敗・投票・優位の大きさに使うが、必ず勝っている側の差とは限らない。",
+  "updated": "2026-10-12",
+  "notion_url": "https://app.notion.com/p/margin-3f74faa9b77d8180a27dfc974a1ab9a3",
+  "pronunciation": [],
+  "etymology": [
+    "フランス語を経てラテン語 margo、語幹 margin-「縁、境界」にさかのぼる。紙の余白から、基準との間にある差や余裕にも用いる。marginal「周辺の、わずかな」と marginalia「余白の書き込み」は同じ語幹に由来する。"
+  ],
+  "formation": [
+    {
+      "term": "marginal",
+      "description": "形容詞。「周辺の、わずかな、限界的な」。経済学では追加の1単位に関する意味もある。"
+    },
+    {
+      "term": "marginally",
+      "description": "副詞。「わずかに」。marginally higher は少し高いこと。"
+    },
+    {
+      "term": "marginalize / marginalise",
+      "description": "他動詞。「人や集団を周辺へ追いやる、影響力を弱める」。marginalize は米英で用いられ、marginalise は主にイギリス英語の別綴り。"
+    },
+    {
+      "term": "marginalia",
+      "description": "複数扱いの名詞。「本などの余白への書き込み」。文芸・書誌の用語。"
+    },
+    {
+      "term": "margined",
+      "description": "動詞の過去形・過去分詞。形容詞的にも「縁のある」。名詞の前の white-margined leaves は「白い縁のある葉」。金融では証拠金の扱いに関する過去分詞にもなる。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "共通核は「基準や中心の外側にある幅・境目」。数値間の差、本文の外の空白、限界までの余地へ広がる。語義9・11は制度的専門義で、担保そのものや証拠金を扱う行為という語彙的意味はこの核だけから自然には導けないため、個別に参照する。"
+    },
+    {
+      "type": "item",
+      "text": "基準の外側にある数値の幅 → 「差、差幅」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "基準の外側にある本文周囲の空白 → 「紙面の余白」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "基準の外側にある売上と費用の幅 → 「利幅、利益率」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "基準の外側にある限界までの幅 → 「余裕、許容の幅」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "基準の外側にある物の境目 → 「縁、外周部」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "基準の外側にある社会的な位置 → 「社会や活動の周辺」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "基準の外側にある本会合に付随する場 → 「会議などに合わせて、本会合とは別に」（語義7）"
+    },
+    {
+      "type": "item",
+      "text": "基準の外側にある推計値の不確かな幅 → 「誤差の幅」（語義8）"
+    },
+    {
+      "type": "item",
+      "text": "基準の外側にある縁を作る働き → 「縁取る、周囲に縁を付ける」（語義10）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算】差、差幅",
+      "frequency": 8,
+      "register": [
+        "一般、競争、報道。"
+      ],
+      "definition": "二つの数値・成績・水準などがどれほど離れているかを示す差。特に勝敗・投票・優位の大きさに使うが、必ず勝っている側の差とは限らない。",
+      "patterns": [
+        "by a 〈wide/narrow/slim〉 margin＝大差・僅差で。by a margin of 〈差の大きさ〉＝その差で。a 〈数値〉-point margin＝その点数の差。a margin over someone＝相手に対する差。"
+      ],
+      "collocations": [
+        {
+          "pattern": "by a wide margin",
+          "use": "大きな差があること。",
+          "example": "The proposal passed by a wide margin.",
+          "translation": "その提案は大差で可決された。"
+        },
+        {
+          "pattern": "by a narrow margin",
+          "use": "差が小さい勝敗。",
+          "example": "She lost the election by a narrow margin.",
+          "translation": "彼女は僅差で選挙に敗れた。"
+        },
+        {
+          "pattern": "by a margin of 〈差の大きさ〉",
+          "use": "差の数値を示す。",
+          "example": "The team won by a margin of six points.",
+          "translation": "そのチームは6点差で勝った。"
+        },
+        {
+          "pattern": "a margin over someone",
+          "use": "特定の相手との差。",
+          "example": "The leader’s margin over her closest rival fell to two points.",
+          "translation": "首位の選手と、最も迫っているライバルとの差は2点に縮まった。"
+        }
+      ],
+      "notes": [
+        "「僅差で」は by a narrow margin とし、with a narrow margin へ機械的に置き換えない。a five-point margin の point は単数。by a margin of five votes は5票差だが、by a margin of 55 to 50 は票数の組を示す言い方。どちらも使われるため、of の後が差そのものか両者の数値かを見る。"
+      ],
+      "synonyms": [
+        {
+          "word": "difference",
+          "definition": "二つの数値や状態の相違・差。",
+          "frequency": 9,
+          "difference": "最も広く中立的で、勝敗や優位を含む必要がない。",
+          "example": "There is a small difference between the two estimates.",
+          "translation": "二つの推計にはわずかな差がある。"
+        },
+        {
+          "word": "gap",
+          "definition": "数値・水準などの隔たり。",
+          "frequency": 8,
+          "difference": "隔たりを埋める・広げるという見方と結び付きやすい。",
+          "example": "The gap between the two teams widened.",
+          "translation": "両チームの差が広がった。"
+        },
+        {
+          "word": "lead",
+          "definition": "競争で相手を上回っている差。",
+          "frequency": 8,
+          "difference": "優勢な側の差に限る。margin は負けた差にも使う。",
+          "example": "She extended her lead to ten seconds.",
+          "translation": "彼女はリードを10秒に広げた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算】紙面の余白",
+      "frequency": 8,
+      "register": [
+        "一般、文書作成、印刷。"
+      ],
+      "definition": "ページ上で、本文や画像の外側に残される空白部分。上下左右の余白や、それを区切る位置を指す。",
+      "patterns": [
+        "in the margin＝余白に。the 〈left/right/top/bottom〉 margin＝左・右・上・下の余白。leave a margin＝余白を残す。set the margins to 〈幅〉＝余白をその幅に設定する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "in the margin",
+          "use": "余白への書き込み。",
+          "example": "I wrote a question in the margin of the report.",
+          "translation": "私は報告書の余白に質問を書き込んだ。"
+        },
+        {
+          "pattern": "the left margin",
+          "use": "ページの左側の余白。",
+          "example": "Align the heading with the left margin.",
+          "translation": "見出しの位置を左余白にそろえてください。"
+        },
+        {
+          "pattern": "leave a margin",
+          "use": "書き込みなどのために空白を確保する。",
+          "example": "Leave a wide margin for comments.",
+          "translation": "コメントを書けるように、余白を広く残してください。"
+        },
+        {
+          "pattern": "set the margins to 〈幅〉",
+          "use": "文書の設定を指定する。",
+          "example": "Set the margins to two centimeters on all sides.",
+          "translation": "上下左右の余白を2センチメートルに設定してください。"
+        }
+      ],
+      "notes": [
+        "余白に書く場合は通常 in the margin。on the margins of society は社会の周辺という別義。余白が複数の辺やページにあれば margins。margin は紙そのものの端 edge だけでなく、本文との間の空白部分を含む。"
+      ],
+      "synonyms": [
+        {
+          "word": "blank space",
+          "definition": "文字や図のない空白部分。",
+          "frequency": 7,
+          "difference": "ページ中央の空白も含み、周囲に限定されない。",
+          "example": "Use the blank space below the chart for notes.",
+          "translation": "図の下の空白をメモに使ってください。"
+        },
+        {
+          "word": "border",
+          "definition": "内容を囲む縁取りや外周部分。",
+          "frequency": 7,
+          "difference": "線・装飾を指すことがあり、無地の余白とは限らない。",
+          "example": "Add a thin border around the photograph.",
+          "translation": "写真の周囲に細い縁取りを付けてください。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算／不可算】利幅、利益率",
+      "frequency": 8,
+      "register": [
+        "事業、会計。"
+      ],
+      "definition": "売上や販売価格から、対象とする原価・費用を差し引いた利益の幅。金額そのものにも、売上に対する割合にも使う。何を差し引くかは gross、operating、net などの修飾語によって変わる。",
+      "patterns": [
+        "a profit margin＝利幅・利益率。a margin of 〈割合〉＝その割合の利益率。margins on 〈商品・取引〉＝その商品の利幅。improve margins＝利幅を改善する。gross margin＝粗利益の幅・粗利益率。net margin＝純利益率。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a profit margin",
+          "use": "事業の収益性を述べる。",
+          "example": "Rising transport costs have reduced our profit margin.",
+          "translation": "輸送費の上昇で、私たちの利益率は下がった。"
+        },
+        {
+          "pattern": "a margin of 〈割合〉",
+          "use": "利益の割合を示す。",
+          "example": "The product sells at a gross margin of 30 percent.",
+          "translation": "その商品の粗利益率は30パーセントだ。"
+        },
+        {
+          "pattern": "margins on 〈商品・取引〉",
+          "use": "商品ごとの差を述べる。",
+          "example": "Margins on basic groceries are often thin.",
+          "translation": "基本的な食料品は、利幅が薄いことが多い。"
+        },
+        {
+          "pattern": "improve margins",
+          "use": "利益幅を増やす。",
+          "example": "The company improved its margins by reducing waste.",
+          "translation": "その会社は廃棄を減らして利幅を改善した。"
+        },
+        {
+          "pattern": "net margin",
+          "use": "最終的な利益の割合。",
+          "example": "The report compares gross margin with net margin.",
+          "translation": "報告書は粗利益率と純利益率を比較している。"
+        }
+      ],
+      "notes": [
+        "margin が金額か率かは単位と文脈で判断する。売価100、売上原価80なら粗利益額は20、売上に対する gross margin は20パーセント。一方、原価に対する上乗せ率 markup は25パーセントとなり、分母が違う。net margin はより広い費用を差し引いた純利益を使うため、gross margin と同一ではない。金融取引の証拠金は語義9で、利益率ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "profit",
+          "definition": "収益から対象の費用を差し引いた利益。",
+          "frequency": 9,
+          "difference": "通常は利益の金額・総体を表し、割合なら profit margin などと明示する。",
+          "example": "The business earned a profit of 40,000 dollars.",
+          "translation": "その事業は4万ドルの利益を上げた。"
+        },
+        {
+          "word": "spread",
+          "definition": "二つの価格・金利などの開き。",
+          "frequency": 6,
+          "difference": "金融取引の価格差などで重なるが、そのまま最終利益とは限らない。",
+          "example": "The spread between buying and selling prices widened.",
+          "translation": "買値と売値の差が広がった。"
+        },
+        {
+          "word": "markup",
+          "definition": "原価に上乗せした金額や割合。",
+          "frequency": 6,
+          "difference": "率にすると通常は原価を基準にする。売上を基準にする margin と混同しない。",
+          "example": "The retailer applies a 25 percent markup to the cost.",
+          "translation": "その小売業者は原価に25パーセントを上乗せする。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・可算／不可算】余裕、許容の幅",
+      "frequency": 7,
+      "register": [
+        "一般、業務、技術。"
+      ],
+      "definition": "最低限必要な量や限界までの間にある余地。予期しない遅れ・失敗に備える幅や、判断・行動で許される自由の幅を表す。",
+      "patterns": [
+        "a margin for error＝多少の誤りを許せる余裕。leave a margin for 〈予想外の事態〉＝その事態に備えて余裕を残す。a margin of safety＝安全上の余裕。a margin of 〈量〉＝その量の余裕。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a margin for error",
+          "use": "失敗を許容できる余地。",
+          "example": "The tight schedule leaves little margin for error.",
+          "translation": "日程が詰まっていて、ミスをする余裕はほとんどない。"
+        },
+        {
+          "pattern": "leave a margin for 〈予想外の事態〉",
+          "use": "計画に予備を含める。",
+          "example": "We left a margin for unexpected delays.",
+          "translation": "私たちは予期しない遅れに備えて余裕を持たせた。"
+        },
+        {
+          "pattern": "a margin of safety",
+          "use": "限界に達するまでの余裕。",
+          "example": "The design includes an extra margin of safety.",
+          "translation": "その設計には、安全面で追加の余裕が設けられている。"
+        },
+        {
+          "pattern": "a margin of 〈量〉",
+          "use": "余裕の大きさを示す。",
+          "example": "We had a margin of ten minutes before the last train.",
+          "translation": "終電まで10分の余裕があった。"
+        }
+      ],
+      "notes": [
+        "little margin は「余裕がほとんどない」、a little margin は「少しは余裕がある」。margin for error はミスしても支障が出ない余地。調査結果の margin of error は推計の誤差幅で、語義8に分ける。ただし一般文脈では margin of error を許容誤差の意味でも使うため、of と for だけで機械的に判定しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "leeway",
+          "definition": "行動や調整に許される余地。",
+          "frequency": 7,
+          "difference": "時間・判断の自由度に使いやすく、数量差そのものより裁量を表す。",
+          "example": "The policy gives managers some leeway.",
+          "translation": "その方針では、管理者にある程度の裁量が認められている。"
+        },
+        {
+          "word": "room",
+          "definition": "物事を行える余地・余裕。",
+          "frequency": 8,
+          "difference": "最も一般的な表現の一つで、room for improvement のように可能性にも使う。",
+          "example": "The deadline leaves no room for delay.",
+          "translation": "締め切りまでに遅れが生じる余地はない。"
+        },
+        {
+          "word": "cushion",
+          "definition": "急な変化や損失を吸収する余裕。",
+          "frequency": 6,
+          "difference": "不利な変化に耐えるための蓄え・余裕という比喩。",
+          "example": "We kept a cash cushion for emergencies.",
+          "translation": "私たちは緊急時に備えて現金に余裕を持たせた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞・可算】縁、外周部",
+      "frequency": 6,
+      "register": [
+        "一般の描写、地理、生物など。"
+      ],
+      "definition": "土地・物体・組織などの外側の境界、またはそのすぐ内外の帯状の部分。線だけを指すことも、ある程度の広がりを持つ端の部分を指すこともある。",
+      "patterns": [
+        "at the margin of 〈場所〉＝その場所の縁に。along the margins of 〈場所・物〉＝その縁に沿って。the 〈outer/inner〉 margin＝外側・内側の縁。leaf margins＝葉の縁。"
+      ],
+      "collocations": [
+        {
+          "pattern": "at the margin of 〈場所〉",
+          "use": "端の位置を示す。",
+          "example": "Reeds grew at the margin of the lake.",
+          "translation": "湖の縁にはアシが生えていた。"
+        },
+        {
+          "pattern": "along the margins of 〈場所・物〉",
+          "use": "境界に沿った分布。",
+          "example": "Small flowers grew along the margins of the path.",
+          "translation": "小さな花が小道の縁に沿って咲いていた。"
+        },
+        {
+          "pattern": "the outer margin",
+          "use": "外側の境界部分。",
+          "example": "The outer margin of the shell is slightly damaged.",
+          "translation": "その貝殻は外縁が少し傷んでいる。"
+        },
+        {
+          "pattern": "leaf margins",
+          "use": "植物の葉の縁。",
+          "example": "This species has sharply toothed leaf margins.",
+          "translation": "この種の葉の縁には、鋭いぎざぎざがある。"
+        }
+      ],
+      "notes": [
+        "margin は境界線と隣接部分の両方を含み得る。傷や切除組織の margin も基本的には縁・端だが、医療上の判定は修飾語と検査文脈を確認する。日常の机の端などには edge のほうが普通。"
+      ],
+      "synonyms": [
+        {
+          "word": "edge",
+          "definition": "物や場所の端。",
+          "frequency": 9,
+          "difference": "最も一般的で、薄い物の端や鋭い縁にも使う。",
+          "example": "Keep the glass away from the edge of the table.",
+          "translation": "グラスをテーブルの端から離してください。"
+        },
+        {
+          "word": "rim",
+          "definition": "開口部や丸い物の縁。",
+          "frequency": 7,
+          "difference": "カップ・車輪などの輪郭に使い、対象の形がより限定される。",
+          "example": "The cup has a chipped rim.",
+          "translation": "そのカップは縁が欠けている。"
+        },
+        {
+          "word": "border",
+          "definition": "隣の部分と接する境界や縁取り。",
+          "frequency": 8,
+          "difference": "国境や装飾の帯などにも使い、隣接する二つの領域の区分を示しやすい。",
+          "example": "A stone border surrounds the flower bed.",
+          "translation": "花壇は石の縁取りで囲まれている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【名詞・通常複数】社会や活動の周辺",
+      "frequency": 6,
+      "register": [
+        "社会、政治、文化。"
+      ],
+      "definition": "社会・集団・活動の中心から離れ、参加や影響力が限られている位置。排除や不利を示すこともあるが、本人の意思で主流から距離を取る場合もある。",
+      "patterns": [
+        "on the margins of 〈社会・活動〉＝その周辺に。push someone to the margins＝人を周辺へ追いやる。move from the margins to the mainstream＝周辺から主流へ移る。"
+      ],
+      "collocations": [
+        {
+          "pattern": "on the margins of society",
+          "use": "社会参加が限られた立場。",
+          "example": "The charity supports people living on the margins of society.",
+          "translation": "その慈善団体は、社会の周辺で暮らす人々を支援している。"
+        },
+        {
+          "pattern": "on the margins of 〈活動〉",
+          "use": "中心的な活動から離れた位置。",
+          "example": "The group remained on the margins of national politics.",
+          "translation": "その集団は、国政の中心から外れた位置にとどまった。"
+        },
+        {
+          "pattern": "push someone to the margins",
+          "use": "影響力を弱め、周辺に置く。",
+          "example": "The restructuring pushed smaller teams to the margins of decision-making.",
+          "translation": "組織再編によって、小規模なチームは意思決定の中心から外された。"
+        },
+        {
+          "pattern": "move from the margins to the mainstream",
+          "use": "主流へ進出する。",
+          "example": "The art form moved from the margins to the mainstream.",
+          "translation": "その芸術形式は、周辺的な存在から主流へと移った。"
+        }
+      ],
+      "notes": [
+        "通常は the margins と複数形を使う。on the margins of ... は必ず物理的な郊外を意味するわけではない。会議に付随する別会談などを指す語義7とは区別する。経済学の at the margin「追加の小さな変化について」は別の専門的な表現で、社会から疎外された立場という意味にはならない。"
+      ],
+      "synonyms": [
+        {
+          "word": "fringe",
+          "definition": "集団や活動の中心から離れた周辺部。",
+          "frequency": 6,
+          "difference": "非主流・異端の含みを持つ場合があり、a fringe group とも使う。",
+          "example": "The movement began on the fringe of the art world.",
+          "translation": "その運動は美術界の周辺から始まった。"
+        },
+        {
+          "word": "periphery",
+          "definition": "中心から離れた周辺領域。",
+          "frequency": 6,
+          "difference": "硬い語で、排除の評価を伴わず位置関係だけを表すこともある。",
+          "example": "The issue remained on the periphery of public debate.",
+          "translation": "その問題は、公共の議論で周辺的な扱いにとどまった。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "mainstream",
+          "definition": "社会や活動の主要な潮流。",
+          "frequency": 7,
+          "difference": "中心への関与という軸で周辺と対立する。価値の優劣を必ず表すわけではない。",
+          "example": "The idea gradually entered the mainstream.",
+          "translation": "その考えは次第に主流として受け入れられた。"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "【慣用表現・前置詞句】会議などに合わせて、本会合とは別に",
+      "frequency": 5,
+      "register": [
+        "外交、国際会議、報道。"
+      ],
+      "definition": "on the margins of ... で、首脳会議・国際会議などの機会を利用し、その本会合とは別に行う会談や行事を表す。参加者が社会的に周辺の人物であるという意味ではない。",
+      "patterns": [
+        "on the margins of 〈会議・行事〉＝その機会に、本会合とは別に。hold talks on the margins of 〈会議〉＝会議に合わせて別途会談する。an event on the margins of 〈会議〉＝会議に付随して行う行事。"
+      ],
+      "collocations": [
+        {
+          "pattern": "hold talks on the margins of 〈会議〉",
+          "use": "本会合と別の会談の機会を述べる。",
+          "example": "The two leaders held talks on the margins of the summit.",
+          "translation": "両首脳は首脳会議の機会に、本会合とは別に会談した。"
+        },
+        {
+          "pattern": "an event on the margins of 〈会議〉",
+          "use": "大きな会議に付随する行事を示す。",
+          "example": "The association organized a networking event on the margins of the conference.",
+          "translation": "その協会は、会議に合わせて本会合とは別の交流行事を開いた。"
+        }
+      ],
+      "notes": [
+        "通常は on the margins of ... と複数形・定冠詞を用いる。必ず会議会場の物理的な端で行うとは限らず、本会合の合間やその前後の関連機会を指す。語義6の on the margins of society は中心への参加や影響力が限られた立場であり、この会議に付随する意味とは区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "on the sidelines of",
+          "definition": "会議などに合わせて、その本会合とは別に。",
+          "frequency": 6,
+          "difference": "外交・報道の会議文脈では非常に近い表現。sidelines 自体には競技場の境界線など別の意味もある。",
+          "example": "The ministers met on the sidelines of the annual conference.",
+          "translation": "閣僚たちは年次会議の機会に、本会合とは別に会談した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【名詞・可算：margin of error】誤差の幅",
+      "frequency": 6,
+      "register": [
+        "統計、世論調査、測定。"
+      ],
+      "definition": "測定・推計値について示す、誤差や不確かさの幅。調査・統計では推計の条件とともに示される数値であり、すべての誤りを必ずその範囲に収める保証ではない。",
+      "patterns": [
+        "a margin of error of 〈数値〉＝その数値の誤差幅。within the margin of error＝誤差の範囲内。reduce the margin of error＝誤差幅を小さくする。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a margin of error of 〈数値〉",
+          "use": "調査結果の不確かさを示す。",
+          "example": "The poll reports a margin of error of three percentage points.",
+          "translation": "その世論調査では、誤差幅は3パーセントポイントとされている。"
+        },
+        {
+          "pattern": "within the margin of error",
+          "use": "数値の差を解釈する。",
+          "example": "The difference between the estimates is within the margin of error.",
+          "translation": "推計値の差は誤差の範囲内だ。"
+        },
+        {
+          "pattern": "reduce the margin of error",
+          "use": "推計精度について述べる。",
+          "example": "A larger sample can reduce the margin of error.",
+          "translation": "標本を大きくすると、誤差幅を小さくできる。"
+        }
+      ],
+      "notes": [
+        "割合の差を示す percentage points と、相対的な変化率の percent を区別する。統計的な margin of error は標本抽出などの前提に依存し、質問の偏りや未回答の影響まで自動的に含むわけではない。語義4の no margin for error は「失敗する余地がない」で、推計の誤差がゼロという意味ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "uncertainty",
+          "definition": "測定・推計値についての不確かさ。",
+          "frequency": 6,
+          "difference": "数値の幅だけでなく、値を確定できない程度をより広く表す。",
+          "example": "The results include an estimate of measurement uncertainty.",
+          "translation": "結果には測定の不確かさの推定値が含まれている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 9,
+      "title": "【名詞・不可算中心】証拠金、信用取引の自己資金部分",
+      "frequency": 5,
+      "register": [
+        "金融取引の専門語。"
+      ],
+      "definition": "金融取引で損失や履行に備えて差し入れる金銭・担保、または借入れを伴う証券取引で投資家自身に帰属する持分。商品・取引制度によって具体的な対象や計算が異なる。",
+      "patterns": [
+        "buy securities on margin＝証券を信用取引で買う。post margin＝証拠金・担保を差し入れる。meet a margin call＝追加担保などの要求に応じる。initial margin＝当初証拠金。maintenance margin＝維持証拠金。"
+      ],
+      "collocations": [
+        {
+          "pattern": "buy securities on margin",
+          "use": "借入れを伴う証券購入。",
+          "example": "The account agreement explains the risks of buying securities on margin.",
+          "translation": "口座契約書には、信用取引で証券を買う場合のリスクが説明されている。"
+        },
+        {
+          "pattern": "post margin",
+          "use": "取引に必要な担保を差し入れる。",
+          "example": "The trader posted margin for the futures position.",
+          "translation": "そのトレーダーは先物の持ち高に対する証拠金を差し入れた。"
+        },
+        {
+          "pattern": "meet a margin call",
+          "use": "不足した担保の要求に応じる。",
+          "example": "The investor deposited additional cash to meet the margin call.",
+          "translation": "その投資家は、追加担保の要求に応じるため現金を追加で入金した。"
+        },
+        {
+          "pattern": "initial margin",
+          "use": "取引開始時に必要な証拠金。",
+          "example": "The document lists the initial margin required for the contract.",
+          "translation": "その文書には、当該契約に必要な当初証拠金が記載されている。"
+        }
+      ],
+      "notes": [
+        "米国の証券口座で on margin と言えば、通常、証券会社から借りた資金を使う取引を指す。一方、先物の margin は契約履行を支える担保で、原資産の購入代金の頭金とは異なる。要求額・適格担保・不足時の扱いは市場や契約ごとに確認する。金融ではさらに、貸付額を上回る担保価値の差を margin と呼ぶこともある。どの金額を指すかは同じ単語だけでは決まらない。ここでの margin は語義3の利益率ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "collateral",
+          "definition": "義務の履行を支えるための担保。",
+          "frequency": 6,
+          "difference": "借入れなどにも広く用いられ、特定の取引の margin と同一範囲とは限らない。",
+          "example": "The lender accepted securities as collateral.",
+          "translation": "貸し手は有価証券を担保として受け入れた。"
+        },
+        {
+          "word": "security",
+          "definition": "支払いや履行を確保する担保。",
+          "frequency": 6,
+          "difference": "この意味では不可算が中心。防犯や、有価証券を表す可算名詞とは区別する。",
+          "example": "The bank required additional security for the loan.",
+          "translation": "銀行はその融資に追加の担保を求めた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 10,
+      "title": "【他動詞】縁取る、周囲に縁を付ける",
+      "frequency": 3,
+      "register": [
+        "文語、記述的な文章。"
+      ],
+      "definition": "物の周りに境界・縁を作る、またはある物が別の物の縁を構成する。現代の一般会話ではまれで、描写や植物などの専門記述に見られる。",
+      "patterns": [
+        "margin something＝その縁を形成する。be margined with 〈縁の素材・模様〉＝その素材・模様で縁取られている。be margined by 〈周囲の物〉＝その物に縁取られている。"
+      ],
+      "collocations": [
+        {
+          "pattern": "margin something",
+          "use": "主語が縁を形成する。",
+          "example": "A narrow strip of sand margined the pond.",
+          "translation": "細い砂地が池の縁を囲んでいた。"
+        },
+        {
+          "pattern": "be margined with 〈縁の素材・模様〉",
+          "use": "縁の特徴を描写する。",
+          "example": "The leaves are margined with pale yellow.",
+          "translation": "その葉には淡い黄色の縁取りがある。"
+        },
+        {
+          "pattern": "be margined by 〈周囲の物〉",
+          "use": "境界をなす物を示す。",
+          "example": "The stream was margined by dense reeds.",
+          "translation": "小川は密生するアシに縁取られていた。"
+        }
+      ],
+      "notes": [
+        "margin の他動詞用法で、目的語は縁取られる物。margined は過去分詞で、be margined with ... では結果の状態を述べる。yellow-margined leaves のように名詞の前で複合修飾するときはハイフンを使う。金融の margined は語義11。日常的に「囲む、縁取る」なら border や edge が普通。"
+      ],
+      "synonyms": [
+        {
+          "word": "border",
+          "definition": "物の縁をなす、周囲を囲む。",
+          "frequency": 7,
+          "difference": "margin より一般的で、道路や土地の周りを述べるのにも使う。",
+          "example": "Trees border the driveway.",
+          "translation": "車道沿いに木が並んでいる。"
+        },
+        {
+          "word": "edge",
+          "definition": "縁に別の素材・物を付ける。",
+          "frequency": 6,
+          "difference": "縁に細い帯を付ける動作を表しやすい。",
+          "example": "They edged the path with bricks.",
+          "translation": "その人たちは小道の縁にれんがを敷いた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 11,
+      "title": "【他動詞】証拠金を付す、証拠金の対象として扱う",
+      "frequency": 3,
+      "register": [
+        "金融実務の専門語。"
+      ],
+      "definition": "取引・口座などに証拠金を差し入れる、または証拠金の必要額を計算して管理する。誰が主体かにより、顧客側の差入れと清算機関などの管理を区別する。",
+      "patterns": [
+        "margin an account＝口座に証拠金を入れる。margin a position＝持ち高を証拠金の対象として管理する。be margined separately＝別々に証拠金を計算・管理される。"
+      ],
+      "collocations": [
+        {
+          "pattern": "margin an account",
+          "use": "口座の証拠金を充足させる。",
+          "example": "The client deposited cash to margin the account.",
+          "translation": "顧客は口座に証拠金を入れるため、現金を預け入れた。"
+        },
+        {
+          "pattern": "be margined separately",
+          "use": "証拠金管理の単位を示す。",
+          "example": "Under this arrangement, the two positions are margined separately.",
+          "translation": "この仕組みでは、二つの持ち高の証拠金は別々に計算・管理される。"
+        }
+      ],
+      "notes": [
+        "margined、margining と活用し、be margined は受動態。一般の資金提供や利益の確保をすべて margin と言うわけではない。金融の文章以外では provide margin for ... などと具体的に述べる。語義10の物理的な縁取りと区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "collateralize",
+          "definition": "取引・債務を担保で裏付ける。",
+          "frequency": 3,
+          "difference": "証拠金管理より広く、融資や債務の担保付けにも使う。",
+          "example": "The loan was collateralized with securities.",
+          "translation": "その融資には有価証券が担保として付されていた。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

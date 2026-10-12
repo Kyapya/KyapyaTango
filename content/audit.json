@@ -1,0 +1,468 @@
+{
+  "word": "audit",
+  "slug": "audit",
+  "ipa": "米: /ˈɑːdɪt/｜英: /ˈɔːdɪt/。名詞・動詞とも2音節で、第1音節に主強勢。ここに示した米英差は第1音節の母音 /ɑː/ と /ɔː/。米語には /ɔː/ を使う発音もある。audits の語尾は /s/、audited は /ɪd/ が加わって3音節になる。",
+  "lead": "組織や個人の会計記録・財務状況を、一定の手順で正式に調べること。一回の監査を数えられる。不正の発見を目的とする場合もあるが、監査という語だけで不正の存在を前提にはしない。",
+  "updated": "2026-10-12",
+  "notion_url": "https://app.notion.com/p/audit-3f74faa9b77d81a6acdecb7572568735",
+  "pronunciation": [],
+  "etymology": [
+    "中英語を通じて、中世ラテン語 auditus「聞くこと・会計の審査」に由来し、さらに audire「聞く」にさかのぼる。audible「聞こえる」、audience「聴衆」も同じ語源。「聴講する」という動詞義は auditor「聴講者」からの逆成とされる。会計監査と講座の聴講にはこの歴史的つながりがあるが、現代の「監査する」を単に「耳で聞く」と理解することはできない。"
+  ],
+  "formation": [
+    {
+      "term": "audits / audited / auditing",
+      "description": "動詞の三人称単数形・過去形と過去分詞・現在分詞。audits は名詞の複数形でもある。"
+    },
+    {
+      "term": "auditor",
+      "description": "監査人。教育では単位を取らずに授業に出る聴講者も指す。"
+    },
+    {
+      "term": "audited accounts / audited financial statements",
+      "description": "監査済みの決算書・財務諸表。audited は監査を受けたことを示す分詞修飾で、The accounts have been audited. は受動態。"
+    },
+    {
+      "term": "unaudited",
+      "description": "監査を受けていない。内容が誤っていることまで意味しない。"
+    },
+    {
+      "term": "auditable / auditability",
+      "description": "監査・検証が可能な、その可能性。監査・情報管理で使う。"
+    },
+    {
+      "term": "audit trail",
+      "description": "取引や操作の経過を追跡できる記録。会計だけでなく情報システムでも使う。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "記録や仕組みを、一定の手順に沿って詳しく確かめること。語義6は教育制度における制度的専門義で、単位取得を目的とせず授業に参加するという語彙的意味はこの点検の核から導けないため、個別に参照する。"
+    },
+    {
+      "type": "item",
+      "text": "詳しく確かめる会計の点検 → 「会計監査、監査」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "詳しく確かめる会計点検の実施 → 「会計を監査する」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "詳しく確かめる業務・状態の点検 → 「体系的な点検、実態調査」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "詳しく確かめる業務点検の実施 → 「体系的に点検する、精査する」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "詳しく確かめた会計点検の報告 → 「監査報告書、監査結果の報告」（語義5）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算中心】会計監査、監査",
+      "frequency": 7,
+      "register": [
+        "会計、経営、税務。"
+      ],
+      "definition": "組織や個人の会計記録・財務状況を、一定の手順で正式に調べること。一回の監査を数えられる。不正の発見を目的とする場合もあるが、監査という語だけで不正の存在を前提にはしない。",
+      "patterns": [
+        "conduct an audit of 〈会計記録・組織〉＝その監査を行う",
+        "carry out an internal audit＝内部監査を実施する",
+        "undergo an audit＝監査を受ける",
+        "be subject to audit＝監査の対象となる",
+        "a tax audit＝税務監査・税務調査"
+      ],
+      "collocations": [
+        {
+          "pattern": "conduct an audit of 〈会計記録・組織〉",
+          "use": "監査を実施する対象を示す。",
+          "example": "The firm conducted an audit of the charity’s accounts.",
+          "translation": "その事務所は慈善団体の会計を監査した。"
+        },
+        {
+          "pattern": "carry out an internal audit",
+          "use": "組織内部で行う監査を述べる。",
+          "example": "The company carried out an internal audit of its travel expenses.",
+          "translation": "その会社は出張経費の内部監査を実施した。"
+        },
+        {
+          "pattern": "undergo an audit",
+          "use": "監査を受ける側から述べる。",
+          "example": "The foundation undergoes an independent financial audit every year.",
+          "translation": "その財団は毎年、独立した会計監査を受けている。"
+        },
+        {
+          "pattern": "be subject to audit",
+          "use": "監査の対象であることを示す。",
+          "example": "All payments from the fund are subject to audit.",
+          "translation": "その基金からの支払はすべて監査の対象となる。"
+        },
+        {
+          "pattern": "a tax audit",
+          "use": "税務上の点検を指す。",
+          "example": "The business kept its receipts in case of a tax audit.",
+          "translation": "その事業者は税務調査に備えて領収書を保管していた。"
+        }
+      ],
+      "notes": [
+        "通常は an audit、複数は audits。subject to audit のように制度・手続き一般を表す場合は無冠詞もある。監査対象には of、実施者には by を用い、an audit of the accounts by an outside firm と区別する。名詞 conduct an audit of the accounts と動詞 audit the accounts は同じ行為を異なる構造で表す。audit がすべて外部監査・税務調査というわけではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "examination",
+          "definition": "会計記録などの内容を詳しく調べること。",
+          "frequency": 7,
+          "difference": "audit より広い一般語。会計の正式な監査であることは、financial examination など周囲の表現で示す。",
+          "example": "The examination of the expense records revealed several errors.",
+          "translation": "経費記録の精査で、いくつかの誤りが見つかった。"
+        },
+        {
+          "word": "review",
+          "definition": "記録や状況を見直し、評価すること。",
+          "frequency": 8,
+          "difference": "一般語としては audit ほど正式な監査を含意しない。会計の専門業務名では review と audit の水準や手続きが区別される場合がある。",
+          "example": "The board requested a review of the financial records.",
+          "translation": "取締役会は財務記録の見直しを求めた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【動詞・他動詞】会計を監査する",
+      "frequency": 7,
+      "register": [
+        "会計、経営、税務。"
+      ],
+      "definition": "会計記録・財務諸表、またはそれを持つ組織や個人を対象に、正式な会計上の点検を行う。目的語が組織や人でも、通常はその会計・税務上の事項を調べることをいう。",
+      "patterns": [
+        "audit 〈帳簿・財務諸表〉＝会計記録を監査する",
+        "audit 〈組織・個人〉＝その会計などを監査する",
+        "have 〈会計記録〉 audited＝監査してもらう",
+        "be audited by 〈実施者〉＝その実施者に監査される"
+      ],
+      "collocations": [
+        {
+          "pattern": "audit the books",
+          "use": "会計帳簿を監査する。",
+          "example": "An independent firm audits the books each year.",
+          "translation": "独立した事務所が毎年その会計帳簿を監査する。"
+        },
+        {
+          "pattern": "audit 〈組織〉",
+          "use": "組織を直接目的語に置く。",
+          "example": "The accounting firm has audited the company for three years.",
+          "translation": "その会計事務所は3年間、その会社の監査を担当している。"
+        },
+        {
+          "pattern": "have 〈会計記録〉 audited",
+          "use": "外部などに監査を依頼する。",
+          "example": "The trustees had the annual accounts audited before publishing them.",
+          "translation": "理事たちは年次決算書を公表する前に監査を受けた。"
+        },
+        {
+          "pattern": "be audited by 〈実施者〉",
+          "use": "監査される記録や主体を主語にする。",
+          "example": "The fund’s financial statements were audited by an external auditor.",
+          "translation": "その基金の財務諸表は外部監査人による監査を受けた。"
+        }
+      ],
+      "notes": [
+        "他動詞なので、誤: audit of the accounts → 正: audit the accounts。of が必要なのは名詞 an audit of the accounts。受動態にでき、The company was audited. は会社が監査を受けたことを表す。会社が監査を実施したとは訳さない。帳簿を自分で作ることや、残高を合わせることだけを audit と呼ぶわけではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "examine",
+          "definition": "記録などを詳しく調べる。",
+          "frequency": 8,
+          "difference": "一般的な調査を表し、audit にある正式な会計監査までは指定しない。",
+          "example": "The investigator examined the payment records.",
+          "translation": "調査担当者は支払記録を詳しく調べた。"
+        },
+        {
+          "word": "check",
+          "definition": "正しいかどうか確かめる。",
+          "frequency": 9,
+          "difference": "簡単な照合にも使える。audit のような体系的・正式な点検とは限らない。",
+          "example": "Please check the total against the invoices.",
+          "translation": "合計額を請求書と照合してください。"
+        },
+        {
+          "word": "review",
+          "definition": "内容を見直して評価する。",
+          "frequency": 8,
+          "difference": "会計以外にも広く使い、一般用法では正式な監査の実施を保証しない。",
+          "example": "The finance team reviewed the quarterly figures.",
+          "translation": "財務チームは四半期の数値を見直した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算】体系的な点検、実態調査",
+      "frequency": 6,
+      "register": [
+        "業務、品質管理、情報管理、環境・エネルギー。"
+      ],
+      "definition": "設備、業務手順、資源の使われ方などを、項目や基準に沿って詳しく調べること。金銭以外の対象にも使い、現状や改善点を明らかにする。",
+      "patterns": [
+        "an audit of 〈業務・設備〉＝その体系的な点検",
+        "a safety audit＝安全面の点検",
+        "an energy audit＝エネルギー使用の診断",
+        "a security audit＝セキュリティ監査",
+        "a skills audit＝技能の棚卸し・実態調査"
+      ],
+      "collocations": [
+        {
+          "pattern": "an audit of 〈業務・設備〉",
+          "use": "業務の実態を体系的に確認する。",
+          "example": "We commissioned an audit of the hospital’s infection-control procedures.",
+          "translation": "私たちは、病院の感染管理手順について体系的な点検を依頼した。"
+        },
+        {
+          "pattern": "a safety audit",
+          "use": "安全上の問題を点検する。",
+          "example": "A safety audit identified several blocked emergency exits.",
+          "translation": "安全点検により、複数の非常口がふさがれていることが分かった。"
+        },
+        {
+          "pattern": "an energy audit",
+          "use": "エネルギーの使用状況を調べる。",
+          "example": "The energy audit recommended better insulation for the building.",
+          "translation": "エネルギー使用の診断では、建物の断熱性能を高めることが推奨された。"
+        },
+        {
+          "pattern": "a security audit",
+          "use": "情報や設備の安全管理を点検する。",
+          "example": "The security audit found that several old user accounts were still active.",
+          "translation": "セキュリティ監査で、古いユーザーアカウントがいくつも有効なままだと分かった。"
+        },
+        {
+          "pattern": "a skills audit",
+          "use": "人材の保有技能を把握する。",
+          "example": "The company used a skills audit to identify training needs.",
+          "translation": "その会社は研修の必要性を把握するために、従業員の技能を棚卸しした。"
+        }
+      ],
+      "notes": [
+        "会計監査から広がった用法で、対象は修飾語や of 以下で明示する。a security audit は通常、警備費用の会計監査ではなく、セキュリティ上の点検。点検結果を受けた改善の実施までは audit 自体に含まれない。動詞では audit the procedures と直接目的語を取る（語義4）。"
+      ],
+      "synonyms": [
+        {
+          "word": "inspection",
+          "definition": "設備・場所などの状態を直接確認する点検。",
+          "frequency": 7,
+          "difference": "audit より現物の状態や基準への適合を調べる側面が強い。記録・運用全体の見直しとは限らない。",
+          "example": "The inspection revealed damage to the fire doors.",
+          "translation": "点検の結果、防火扉の損傷が見つかった。"
+        },
+        {
+          "word": "assessment",
+          "definition": "状態や能力などを調べて評価すること。",
+          "frequency": 8,
+          "difference": "audit が体系的な点検に焦点を当てるのに対し、評価・判断の結果に重点がある。",
+          "example": "The assessment identified gaps in staff training.",
+          "translation": "その評価で、職員研修の不足している部分が明らかになった。"
+        },
+        {
+          "word": "survey",
+          "definition": "実態や意見などを広く調べる調査。",
+          "frequency": 8,
+          "difference": "情報収集の方法は質問票などでもよい。audit ほど基準に沿う検証を含意しない。",
+          "example": "The survey examined how employees used the shared workspaces.",
+          "translation": "その調査では、従業員が共有作業スペースをどう使っているかを調べた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞・他動詞】体系的に点検する、精査する",
+      "frequency": 6,
+      "register": [
+        "業務、品質管理、情報管理。"
+      ],
+      "definition": "業務手順、設備、データなどを詳しく調べ、基準への適合や現状・問題点を確認する。会計以外の組織的な点検を表す。",
+      "patterns": [
+        "audit 〈手順・設備・データ〉＝その内容を体系的に点検する",
+        "audit something for 〈問題〉＝その問題がないか点検する",
+        "be audited against 〈基準〉＝その基準に照らして監査される",
+        "be audited regularly＝定期的に点検される"
+      ],
+      "collocations": [
+        {
+          "pattern": "audit 〈手順〉",
+          "use": "手順全体を点検する。",
+          "example": "The team audited the laboratory’s safety procedures.",
+          "translation": "チームは研究室の安全手順を体系的に点検した。"
+        },
+        {
+          "pattern": "audit something for 〈問題〉",
+          "use": "調べる問題を明示する。",
+          "example": "We audited the website for accessibility problems.",
+          "translation": "私たちはウェブサイトにアクセシビリティ上の問題がないか精査した。"
+        },
+        {
+          "pattern": "be audited against 〈基準〉",
+          "use": "照合基準を示す。",
+          "example": "The supplier’s quality system was audited against the agreed standards.",
+          "translation": "その供給業者の品質管理体制は、合意した基準に照らして監査された。"
+        },
+        {
+          "pattern": "be audited regularly",
+          "use": "定期的な点検を述べる。",
+          "example": "Access permissions are audited regularly to remove unnecessary privileges.",
+          "translation": "不要な権限を削除するため、アクセス権限は定期的に点検されている。"
+        }
+      ],
+      "notes": [
+        "直接目的語が点検対象、for 以下が探す問題、against 以下が照合基準。audit a system for weaknesses と audit a system against a standard は役割が異なる。単に「聞く」「授業に出る」の意味ではなく、講座名が目的語となる聴講義（語義6）と区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "inspect",
+          "definition": "設備・現場などを点検する。",
+          "frequency": 7,
+          "difference": "目で見て状態を確かめる場面が多く、audit のように記録や運用の仕組みまで対象にするとは限らない。",
+          "example": "The engineer inspected the ventilation system.",
+          "translation": "技師は換気装置を点検した。"
+        },
+        {
+          "word": "review",
+          "definition": "手順や内容を見直す。",
+          "frequency": 8,
+          "difference": "audit より広く、一定の点検基準に従うことを必ずしも含意しない。",
+          "example": "The team reviewed the emergency procedures after the drill.",
+          "translation": "チームは訓練後に緊急時の手順を見直した。"
+        },
+        {
+          "word": "evaluate",
+          "definition": "基準に照らして質や効果を評価する。",
+          "frequency": 7,
+          "difference": "評価判断が中心。audit は判断の前提となる内容・実態の検証に重点がある。",
+          "example": "The researchers evaluated the new training program.",
+          "translation": "研究者たちは新しい研修プログラムを評価した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞・可算】監査報告書、監査結果の報告",
+      "frequency": 4,
+      "register": [
+        "会計・報道。特に米語。"
+      ],
+      "definition": "会計監査を行った結果をまとめた報告。監査という行為ではなく、読んだり公表したりできる成果物を指す。",
+      "patterns": [
+        "publish an audit＝監査報告を公表する",
+        "a copy of the audit＝監査報告書の写し",
+        "the audit’s findings＝監査報告に記された所見"
+      ],
+      "collocations": [
+        {
+          "pattern": "publish an audit",
+          "use": "完成した会計監査報告を公表する。",
+          "example": "The city published the audit of its annual financial statements on its website.",
+          "translation": "市は年次財務諸表の監査報告書をウェブサイトで公表した。"
+        },
+        {
+          "pattern": "a copy of the audit",
+          "use": "監査報告書そのものを指す。",
+          "example": "Each board member received a copy of the audit of the charity’s accounts.",
+          "translation": "理事全員に、慈善団体の会計に関する監査報告書の写しが配られた。"
+        },
+        {
+          "pattern": "the audit’s findings",
+          "use": "報告内容を話題にする。",
+          "example": "The committee discussed the audit’s findings on the missing expense records.",
+          "translation": "委員会は、紛失した経費記録について監査報告書に記された所見を話し合った。"
+        }
+      ],
+      "notes": [
+        "行為の an audit と報告書の an audit は文脈で区別する。an audit took three weeks なら通常は監査作業、a copy of the audit なら報告書。文書だと明確にしたい場合は audit report が分かりやすい。"
+      ],
+      "synonyms": [
+        {
+          "word": "audit report",
+          "definition": "監査の結果・意見などをまとめた報告書。",
+          "frequency": 5,
+          "difference": "audit より成果物であることを明示する。具体的な書式・意見の種類は監査制度によって異なる。",
+          "example": "The audit report was attached to the financial statements.",
+          "translation": "監査報告書は財務諸表に添付されていた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【動詞・他動詞】単位を取らずに聴講する",
+      "frequency": 5,
+      "register": [
+        "教育。特に北米。"
+      ],
+      "definition": "大学などの授業に、正式な単位の取得を目的とせず参加する。授業の内容を学ぶための聴講を指し、講座を監査・評価することではない。",
+      "patterns": [
+        "audit a course＝講座を聴講する",
+        "audit a class＝授業を聴講する",
+        "get permission to audit a course＝聴講の許可を得る",
+        "audit rather than take a course for credit＝単位取得ではなく聴講を選ぶ"
+      ],
+      "collocations": [
+        {
+          "pattern": "audit a course",
+          "use": "講座を単位なしで受ける。",
+          "example": "I audited a course in art history last semester.",
+          "translation": "私は前の学期に美術史の講座を聴講した。"
+        },
+        {
+          "pattern": "audit a class",
+          "use": "授業を聴講する。",
+          "example": "She is auditing a statistics class to refresh her knowledge.",
+          "translation": "彼女は知識を学び直すために統計の授業を聴講している。"
+        },
+        {
+          "pattern": "get permission to audit a course",
+          "use": "許可がある場面を述べる。",
+          "example": "He got permission to audit the course even though he was not enrolled in the degree program.",
+          "translation": "彼はその学位課程に在籍していなかったが、講座を聴講する許可を得た。"
+        },
+        {
+          "pattern": "audit rather than take a course for credit",
+          "use": "単位を得る履修と対比する。",
+          "example": "I chose to audit the course rather than take it for credit.",
+          "translation": "私はその講座を単位取得のために履修するのではなく、聴講することにした。"
+        }
+      ],
+      "notes": [
+        "目的語は授業・講座で、誤: audit to a course → 正: audit a course。単位を取らないことが中心で、無料であることや、誰でも無許可で参加できることは含意しない。登録・費用・試験・討論参加などの扱いは教育機関や授業によって異なる。受動形の an audited course は聴講した講座を表せるが、文脈なしでは講座の運営監査とも読める。"
+      ],
+      "synonyms": [
+        {
+          "word": "sit in on",
+          "definition": "授業・会議などに同席し、様子を見聞きする。",
+          "frequency": 6,
+          "difference": "一時的・非公式な参加にも使える。audit のような大学の聴講区分を必ずしも示さない。",
+          "example": "The instructor let me sit in on one lecture.",
+          "translation": "講師は私に1回だけ講義を見学することを許可した。"
+        },
+        {
+          "word": "attend",
+          "definition": "授業・催しなどに出席する。",
+          "frequency": 9,
+          "difference": "単位を取得するかどうかを区別しない。audit はその点を明示する。",
+          "example": "She attends the evening lectures every week.",
+          "translation": "彼女は毎週、夜の講義に出席している。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "word": "deficit",
+  "slug": "deficit",
+  "ipa": "米: /ˈdefəsɪt/｜英: /ˈdefɪsɪt/。3音節で、第1音節に主強勢がある。ここに示す米英差は第2音節の母音で、米音は /ə/、英音は /ɪ/。複数形 deficits の語尾は /ts/。",
+  "lead": "収入・収益などが支出・費用などに届かず、その差がマイナスになること、またはその不足額。政府予算、組織の運営、貿易などで使う。単に現金が少ないことではなく、比較する二つの金額の差に着目する。",
+  "updated": "2026-10-12",
+  "notion_url": "https://app.notion.com/p/deficit-3f74faa9b77d815d9955e708fb85b8f5",
+  "pronunciation": [],
+  "etymology": [
+    "フランス語 déficit を経て、ラテン語 dēficit「それが足りない」に由来する。これは dēficere「不足する、尽きる」の活用形で、足りない分を数える意味につながる。deficient「不足した」と deficiency「不足、欠乏」も同じラテン語の系統。現代英語では deficit を動詞の活用形としては扱わない。"
+  ],
+  "formation": [
+    {
+      "term": "deficits",
+      "description": "名詞の複数形。複数の年度・組織の赤字や、複数の機能面の不足を表す。"
+    },
+    {
+      "term": "deficit spending",
+      "description": "名詞句。「収入を上回る支出、赤字支出」。deficit が spending を修飾する。"
+    },
+    {
+      "term": "deficit reduction",
+      "description": "名詞句。「赤字削減」。不足を表す deficit と、削減を表す reduction の複合。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "共通核は「基準となる量・水準に届かず、足りない側にあること」。金銭、必要量、競争での得点、身体や認知の機能で、何が基準になるかが変わる。"
+    },
+    {
+      "type": "item",
+      "text": "基準に届かない収支 → 「赤字、欠損」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "基準に届かない量や水準 → 「不足、不足量」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "基準に届かない競争の得点や勝ち数 → 「点差での劣勢、順位上の遅れ」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "基準に届かない身体や認知の機能 → 「機能の低下、能力の障害」（語義4）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算】赤字、欠損",
+      "frequency": 8,
+      "register": [
+        "財政、会計、経済報道。"
+      ],
+      "definition": "収入・収益などが支出・費用などに届かず、その差がマイナスになること、またはその不足額。政府予算、組織の運営、貿易などで使う。単に現金が少ないことではなく、比較する二つの金額の差に着目する。",
+      "patterns": [
+        "run a deficit＝赤字を出す。a deficit of 〈金額〉＝その額の赤字。be in deficit＝赤字状態である。a budget deficit＝財政赤字。a trade deficit with 〈国・地域〉＝その相手との貿易赤字。reduce the deficit＝赤字を減らす。"
+      ],
+      "collocations": [
+        {
+          "pattern": "run a deficit",
+          "use": "一定期間の収支が赤字になる。",
+          "example": "The museum ran a deficit last year despite higher ticket sales.",
+          "translation": "入場券の売上が増えたにもかかわらず、その博物館は昨年赤字だった。"
+        },
+        {
+          "pattern": "a deficit of 〈金額〉",
+          "use": "赤字の大きさを示す。",
+          "example": "The annual accounts showed a deficit of 80,000 dollars.",
+          "translation": "年次決算には8万ドルの赤字が計上されていた。"
+        },
+        {
+          "pattern": "be in deficit",
+          "use": "収支の状態を述べる。",
+          "example": "The operating budget is still in deficit.",
+          "translation": "運営予算は依然として赤字だ。"
+        },
+        {
+          "pattern": "a trade deficit with 〈国・地域〉",
+          "use": "輸出入の差を表す。",
+          "example": "The report shows a growing trade deficit with neighboring countries.",
+          "translation": "報告書によると、近隣諸国との貿易赤字が拡大している。"
+        },
+        {
+          "pattern": "reduce the budget deficit",
+          "use": "財政赤字の縮小を述べる。",
+          "example": "The plan aims to reduce the budget deficit over three years.",
+          "translation": "その計画は3年間で財政赤字を減らすことを目指している。"
+        }
+      ],
+      "notes": [
+        "deficit は通常可算で、単数なら a deficit、the deficit とする。ただし in deficit は無冠詞の定型表現。deficit は主に一定期間の収支の不足、debt は返済義務のある債務であり、同じ金額ではない。会計では資産に対する負債の超過や累積した欠損を指す場合もあり、accumulated deficit は通常「累積欠損」。budget deficit、trade deficit などの修飾語から何を比較しているかを読む。赤字幅の拡大は a larger deficit であり、収益が増えたという意味ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "shortfall",
+          "definition": "必要額・予定額に届かない不足分。",
+          "frequency": 7,
+          "difference": "収入と支出の比較に限らず、予算目標や調達目標からの不足も表す。",
+          "example": "Donations left a shortfall of 5,000 dollars.",
+          "translation": "寄付だけでは5,000ドル足りなかった。"
+        },
+        {
+          "word": "loss",
+          "definition": "事業などで費用が収益を上回った損失。",
+          "frequency": 8,
+          "difference": "事業の不採算を広く表す。政府の予算収支には通常 deficit を用いる。",
+          "example": "The store reported a loss in its first year.",
+          "translation": "その店は初年度に損失を計上した。"
+        },
+        {
+          "word": "negative balance",
+          "definition": "差引額がマイナスである残高。",
+          "frequency": 6,
+          "difference": "口座・勘定のある時点の残高に着目し、一定期間の赤字を表す deficit とは対象が異なる。",
+          "example": "The account had a negative balance at the end of the month.",
+          "translation": "月末時点でその口座の残高はマイナスだった。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "surplus",
+          "definition": "収入などが支出などを上回る黒字。",
+          "frequency": 7,
+          "difference": "同じ収支の軸での方向の対立。収支が一致する場合は deficit でも surplus でもない。",
+          "example": "The council recorded a small surplus this year.",
+          "translation": "自治体は今年、わずかな黒字を計上した。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算】不足、不足量",
+      "frequency": 6,
+      "register": [
+        "一般、報道、学術。やや硬い。"
+      ],
+      "definition": "必要・期待・基準とされる量や水準に届かないこと、または足りない分。水分、降雨、技能、信頼などにも使い、金銭に限定されない。",
+      "patterns": [
+        "a deficit in 〈分野・能力・量〉＝その面での不足。a deficit of 〈不足量〉＝その量だけの不足。a 〈sleep/skills/trust〉 deficit＝睡眠・技能・信頼の不足。make up a deficit＝不足を埋める。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a deficit in 〈分野・能力・量〉",
+          "use": "不足している面を示す。",
+          "example": "The survey revealed a deficit in digital skills.",
+          "translation": "調査によってデジタル技能の不足が明らかになった。"
+        },
+        {
+          "pattern": "a deficit of 〈不足量〉",
+          "use": "基準から不足する量を示す。",
+          "example": "Rainfall ended the year with a deficit of 100 millimeters.",
+          "translation": "年間降水量は100ミリメートル不足したまま年を終えた。"
+        },
+        {
+          "pattern": "a trust deficit",
+          "use": "十分な信頼が得られていない状態。",
+          "example": "Repeated delays created a trust deficit between the supplier and its customers.",
+          "translation": "度重なる遅延によって、供給業者と顧客との間で信頼が損なわれた。"
+        },
+        {
+          "pattern": "make up a deficit",
+          "use": "不足分を補う。",
+          "example": "The late rainfall helped make up the earlier deficit.",
+          "translation": "遅れて降った雨は、それまでの降水量の不足を補う助けになった。"
+        }
+      ],
+      "notes": [
+        "in は不足がある分野、of は不足量を示すのが基本。a deficit in rainfall は「降雨の不足」、a deficit of 100 millimeters は「100ミリメートルの不足」。日常の軽い「足りない」には not enough や a shortage of ... のほうが平易。a calorie deficit は摂取するエネルギーが消費するエネルギーより少ない状態を表す語であり、単なる食料不足と同一ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "shortage",
+          "definition": "必要な物や人が足りない状態。",
+          "frequency": 8,
+          "difference": "供給不足に広く使い、a shortage of water のように不足する対象を of で示す。",
+          "example": "The town faces a shortage of clean water.",
+          "translation": "その町は清潔な水の不足に直面している。"
+        },
+        {
+          "word": "deficiency",
+          "definition": "必要な成分・性質・能力が欠けていること。",
+          "frequency": 6,
+          "difference": "栄養や機能・品質の欠如を表しやすく、数値の差だけに限らない。",
+          "example": "The inspection identified deficiencies in staff training.",
+          "translation": "検査で職員研修の不十分な点が明らかになった。"
+        },
+        {
+          "word": "lack",
+          "definition": "必要な物や性質がないこと、十分でないこと。",
+          "frequency": 9,
+          "difference": "不足量の測定より、欠けている状態を広く述べる。",
+          "example": "A lack of reliable data delayed the study.",
+          "translation": "信頼できるデータが不足していたため、研究が遅れた。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "surplus",
+          "definition": "必要量を超える余り。",
+          "frequency": 7,
+          "difference": "同じ必要量を基準にした不足と余剰の方向の対立。",
+          "example": "The farm donated its surplus of vegetables.",
+          "translation": "農場は余った野菜を寄付した。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算】点差での劣勢、順位上の遅れ",
+      "frequency": 6,
+      "register": [
+        "スポーツ、競争の報道。"
+      ],
+      "definition": "試合・順位争いなどで、相手より得点や勝ち数などが少ないこと、または追いつくために必要な差。金銭的な赤字ではない。",
+      "patterns": [
+        "a 〈数値〉-point deficit＝その点数の劣勢。overcome a deficit＝差を逆転する。cut the deficit to 〈点数〉＝負けている差をその点数まで縮める。erase a deficit＝差をなくす。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a 〈数値〉-point deficit",
+          "use": "負けている点差を示す。",
+          "example": "The home team faced a ten-point deficit at halftime.",
+          "translation": "ホームチームは前半終了時点で10点差をつけられていた。"
+        },
+        {
+          "pattern": "overcome a deficit",
+          "use": "劣勢から追いつき、逆転する。",
+          "example": "The team overcame an early deficit to win the final.",
+          "translation": "そのチームは序盤の劣勢を逆転し、決勝に勝った。"
+        },
+        {
+          "pattern": "cut the deficit to 〈点数〉",
+          "use": "まだ負けているが差を縮める。",
+          "example": "Her three-pointer cut the deficit to two points.",
+          "translation": "彼女の3点シュートで、点差は2点に縮まった。"
+        },
+        {
+          "pattern": "erase a deficit",
+          "use": "得点差を解消する。",
+          "example": "Two quick goals erased the deficit before the break.",
+          "translation": "立て続けの2得点で、ハーフタイム前に同点に追いついた。"
+        }
+      ],
+      "notes": [
+        "a ten-point deficit の point は単数形。by ten points は勝敗の差を副詞句で示す別構造。cut the deficit to two points は「2点差にする」、cut the deficit by two points は「差を2点縮める」。a two-game deficit は相手や首位からの2ゲーム差などを表し、2点差とは訳さない。自分の敗戦数が勝利数を上回る「負け越し」とは違い、勝ち越していても首位との deficit はあり得る。"
+      ],
+      "synonyms": [
+        {
+          "word": "gap",
+          "definition": "二者の得点・成績などの差。",
+          "frequency": 7,
+          "difference": "どちらが劣勢かを語自体では決めない。",
+          "example": "The visitors narrowed the gap to one goal.",
+          "translation": "アウェーチームは差を1点に縮めた。"
+        },
+        {
+          "word": "disadvantage",
+          "definition": "相手より不利な状態。",
+          "frequency": 8,
+          "difference": "点差に限らず、人数や条件の不利も含む。",
+          "example": "Playing with ten players put them at a disadvantage.",
+          "translation": "10人でプレーすることになり、そのチームは不利になった。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "lead",
+          "definition": "相手を上回っている得点・成績の差。",
+          "frequency": 8,
+          "difference": "同じ試合の得点差について、劣勢と優勢の方向が反対。",
+          "example": "The visitors held a six-point lead.",
+          "translation": "アウェーチームは6点リードしていた。"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "【名詞・可算】機能の低下、能力の障害",
+      "frequency": 5,
+      "register": [
+        "医療、心理学、研究。"
+      ],
+      "definition": "認知・記憶・感覚・運動などの機能が期待される水準に達しないこと。医療や心理学では個々の機能面の低下・障害を表し、それだけで原因や診断名は決まらない。",
+      "patterns": [
+        "a cognitive deficit＝認知機能の低下。a neurological deficit＝神経機能の障害。a deficit in 〈機能〉＝その機能の低下。assess deficits＝機能面の障害を評価する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a cognitive deficit",
+          "use": "認知機能について述べる。",
+          "example": "The study examined cognitive deficits after brain injury.",
+          "translation": "その研究は脳損傷後の認知機能の低下を調べた。"
+        },
+        {
+          "pattern": "a neurological deficit",
+          "use": "神経学的な機能の障害。",
+          "example": "The examination revealed no neurological deficit.",
+          "translation": "診察では神経機能の障害は認められなかった。"
+        },
+        {
+          "pattern": "a deficit in 〈機能〉",
+          "use": "低下している機能を指定する。",
+          "example": "The tests showed a deficit in short-term memory.",
+          "translation": "検査では短期記憶の低下が示された。"
+        },
+        {
+          "pattern": "assess deficits",
+          "use": "障害の有無や程度を評価する。",
+          "example": "The therapist assessed the patient’s motor deficits.",
+          "translation": "療法士はその患者の運動機能の障害を評価した。"
+        }
+      ],
+      "notes": [
+        "deficit を人そのものの価値や全能力を表す言葉として使わない。attention deficit は注意機能の不足を指す語の組み合わせで、attention-deficit/hyperactivity disorder という診断名全体とは区別する。deficiency は物質の欠乏にもよく使うが、neurological deficit を「栄養不足」と訳すことはできない。"
+      ],
+      "synonyms": [
+        {
+          "word": "impairment",
+          "definition": "身体・精神の機能が損なわれている状態。",
+          "frequency": 6,
+          "difference": "機能の損なわれ方を広く表し、数量的な不足より機能上の制約に焦点を置く。",
+          "example": "The report describes a mild hearing impairment.",
+          "translation": "報告書には軽度の聴覚障害が記されている。"
+        },
+        {
+          "word": "dysfunction",
+          "definition": "機能が正常に働かないこと。",
+          "frequency": 5,
+          "difference": "能力の低下だけでなく、働き方の異常も含む。",
+          "example": "The researchers measured changes in muscle dysfunction.",
+          "translation": "研究者たちは筋機能障害の変化を測定した。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
