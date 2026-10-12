@@ -1,0 +1,279 @@
+{
+  "word": "defect",
+  "slug": "defect",
+  "ipa": "名詞の基本形 米・英: /ˈdiːfekt/｜動詞 米・英: /dɪˈfekt/",
+  "lead": "物・仕組み・論理などの品質、完全さ、適切な働きを損なう点。身体の構造や機能に関する医学的な不具合にも使う。小さな欠点から深刻な欠陥まで含み、完全に作動しないことや製造時から存在することまでは必須ではない。",
+  "updated": "2026-10-12",
+  "notion_url": "https://app.notion.com/p/defect-3f74faa9b77d8103b2acde78b625ebfc",
+  "pronunciation": [
+    "いずれも2音節。基本形では名詞は第1音節、動詞は第2音節に主強勢があり、第1音節の母音も名詞 /iː/ と動詞 /ɪ/ で異なる。ただし、米語では名詞にも /dɪˈfekt/ があり、強勢だけで必ず品詞を判別できるわけではない。名詞の複数形 defects と動詞の三人称単数形 defects は、どちらも語尾が /ts/。defected の -ed は /ɪd/ で3音節になる。"
+  ],
+  "etymology": [
+    "名詞はラテン語 dēfectus「不足、欠如、衰え」にさかのぼり、中英語に入った。古フランス語 defect の影響も受けている。動詞はラテン語 dēficere の過去分詞 dēfectus に由来し、同じ語族の「不足する、失敗する」とは別にある「離反する」の意味を引き継いでいる。現代の名詞「欠陥」に単に動詞の形を与えた「欠陥を作る」ではない。",
+    "dēficere は de- と facere「行う、作る」からなる。deficient「不足した」、deficit「不足額、赤字」は同じ dēficere の語族で、defect の直接の英語派生語とは区別する。"
+  ],
+  "formation": [
+    {
+      "term": "defective",
+      "description": "形容詞。「欠陥のある、不完全な」。物や仕組みなどを表す。人物への旧来の用法は侮蔑的。"
+    },
+    {
+      "term": "defection",
+      "description": "名詞。「離反、離党、亡命、顧客の乗り換え」。動詞 defect の意味に対応する。"
+    },
+    {
+      "term": "defector",
+      "description": "可算名詞。「離反者、亡命者」。単に製品に欠陥を作った人のことではない。"
+    },
+    {
+      "term": "defect-free",
+      "description": "複合形容詞。「欠陥のない」。検査などの文脈で使い、何を欠陥と判定するかは基準による。"
+    },
+    {
+      "term": "defected",
+      "description": "動詞の過去形・過去分詞。自動詞の完了形 has defected で「離反した」を表し、製品が不良であることには is defective を使う。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "名詞の核は、基準となる構造・性質・機能からの欠けやずれ。語義2は、同じラテン語の「離反する」を受け継ぐ歴史的残存義で、この名詞の核からは導けないため個別に参照する。動詞自体が古語という意味ではない。"
+    },
+    {
+      "type": "item",
+      "text": "構造・性質・機能からの欠けやずれによる不備 → 「欠陥、不備」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "構造・性質・機能からの欠けやずれの結晶内形態 → 「結晶欠陥」（語義3）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算】欠陥、不備",
+      "frequency": 8,
+      "register": [
+        "一般・品質管理・技術・議論・医療。人の性格については批判的で、身体に関しても表現への配慮が必要。"
+      ],
+      "definition": "物・仕組み・論理などの品質、完全さ、適切な働きを損なう点。身体の構造や機能に関する医学的な不具合にも使う。小さな欠点から深刻な欠陥まで含み、完全に作動しないことや製造時から存在することまでは必須ではない。",
+      "patterns": [
+        "a defect in 〈物・仕組み・論理〉＝対象の中にある欠陥",
+        "a defect of 〈構造・機能など〉＝構造や機能などの欠陥",
+        "a manufacturing defect＝製造上の欠陥",
+        "a heart defect＝心臓の構造や機能の異常",
+        "be free from defects＝欠陥がない",
+        "inspect something for defects＝欠陥がないか対象を検査する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a defect in 〈装置〉",
+          "use": "どの装置や部分に欠陥があるかを示す。",
+          "example": "The inspection revealed a defect in the emergency brake.",
+          "translation": "点検によって、非常ブレーキの欠陥が1つ見つかった。"
+        },
+        {
+          "pattern": "a manufacturing defect",
+          "use": "製造に由来する欠陥を示す。",
+          "example": "The batch was recalled because of a manufacturing defect.",
+          "translation": "そのロットは製造上の欠陥のため回収された。"
+        },
+        {
+          "pattern": "a defect in 〈論理〉",
+          "use": "議論や推論の不備を指す。",
+          "example": "Her response exposed a serious defect in his reasoning.",
+          "translation": "彼女の返答は、彼の推論にある重大な不備を明らかにした。"
+        },
+        {
+          "pattern": "a defect of 〈設計など〉",
+          "use": "不備の種類や所在を示す。",
+          "example": "The leak resulted from a defect of design rather than poor installation.",
+          "translation": "その水漏れは、設置の不備ではなく設計上の欠陥によって起きた。"
+        },
+        {
+          "pattern": "a heart defect",
+          "use": "医療の説明で心臓の異常を指す。",
+          "example": "The scan revealed a heart defect that required further investigation.",
+          "translation": "その画像検査で、詳しい検査が必要な心臓の異常が見つかった。"
+        },
+        {
+          "pattern": "inspect something for defects",
+          "use": "欠陥の有無を調べる。",
+          "example": "Each panel is inspected for defects before shipment.",
+          "translation": "各パネルは出荷前に、欠陥がないか検査される。"
+        },
+        {
+          "pattern": "be free from defects",
+          "use": "欠陥がない状態を述べる。",
+          "example": "All ten samples were free from visible defects.",
+          "translation": "10個の試料すべてに、目に見える欠陥はなかった。"
+        }
+      ],
+      "notes": [
+        "1件なら a defect、複数なら defects。形容詞は defective で、The unit is defect. ではなく The unit is defective. とする。a defect in the system は「システムの欠陥」で、「システムから離反する」という動詞とは別。birth defect は「先天性の形態・機能上の異常」を指す定着した医療表現だが、人全体を a defect と呼ばない。身体を表す defect は不快に感じられることもあるため、一般的な人物紹介では具体的な状態名や本人が望む表現を使う。character defect は性格上の欠点に対する強い評価で、能力の単なる差と同一視しない。品質管理では defect は欠陥の箇所・件数、defective（名詞）は不良品の個体を数え、1個の製品に複数の defects があり得る。"
+      ],
+      "synonyms": [
+        {
+          "word": "fault",
+          "definition": "物の働きや仕組みにある不具合。",
+          "frequency": 8,
+          "difference": "電気系統や機械の動作不良によく使う。defect は構造や品質上の欠陥にも広く使い、fault には別に「責任」という意味もある。",
+          "example": "An electrical fault caused the alarm to go off.",
+          "translation": "電気系統の不具合で警報が鳴った。"
+        },
+        {
+          "word": "flaw",
+          "definition": "完全さや有効性を損なう傷・弱点・不備。",
+          "frequency": 8,
+          "difference": "素材の傷から計画・論理の弱点まで使う。defect と重なるが、flaw は全体の中の弱い点に焦点を当てやすい。",
+          "example": "The proposal has a flaw in its funding assumptions.",
+          "translation": "その提案には、資金調達の前提に弱点がある。"
+        },
+        {
+          "word": "imperfection",
+          "definition": "完璧ではない点。",
+          "frequency": 6,
+          "difference": "見た目などの軽微な不完全さにも使い、機能上の問題を必ずしも含まない。defect はより問題性を意識させやすい。",
+          "example": "The glaze has a few small imperfections.",
+          "translation": "その釉薬には、小さな不完全な箇所がいくつかある。"
+        },
+        {
+          "word": "shortcoming",
+          "definition": "期待される水準に達しない点、不足している点。",
+          "frequency": 7,
+          "difference": "人の能力、制度、計画などの限界を表しやすい。部品の物理的な傷には defect や flaw のほうが具体的。",
+          "example": "The review identified several shortcomings in the training programme.",
+          "translation": "その評価では、研修プログラムの不十分な点がいくつか指摘された。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【自動詞】離反する、離党する、亡命する、競合へ移る",
+      "frequency": 6,
+      "register": [
+        "報道・政治・ビジネス。単なる移動・転職よりも、以前の側から離れる点を強調する。"
+      ],
+      "definition": "所属する国・政党・組織や、それまで支持・利用していた側を離れる。対立陣営や競合に移る場面でよく使い、以前の忠誠や支持が失われる含みがある。政治的な所属変更に限らず、社員の競合への移籍や顧客の他社への乗り換えにも使う。",
+      "patterns": [
+        "someone defects＝人が離反する、亡命する",
+        "defect from 〈離脱元〉＝国や組織などから離れる",
+        "defect to 〈移る先〉＝相手側や競合などへ移る",
+        "defect from 〈離脱元〉 to 〈移る先〉＝元の所属先から別の側へ移る。"
+      ],
+      "collocations": [
+        {
+          "pattern": "defect from 〈政党〉",
+          "use": "所属政党から離反することを述べる。",
+          "example": "Two lawmakers defected from the ruling party after the vote.",
+          "translation": "採決後、議員2人が与党から離党した。"
+        },
+        {
+          "pattern": "defect to 〈国〉",
+          "use": "国を離れ、別の国の側へ移る。",
+          "example": "The intelligence officer defected to a neighboring country with secret documents.",
+          "translation": "その情報機関員は機密文書を持って隣国へ亡命した。"
+        },
+        {
+          "pattern": "defect from 〈離脱元〉 to 〈移る先〉",
+          "use": "どこからどこへ所属や支持を移したかを示す。",
+          "example": "Several members defected from the governing coalition to the opposition.",
+          "translation": "数人の議員が、与党連合から野党側へ移った。"
+        },
+        {
+          "pattern": "defect to a competitor",
+          "use": "社員が競合へ移籍することを表す。",
+          "example": "Three senior developers have defected to a competitor.",
+          "translation": "上級開発者3人が競合企業へ移った。"
+        },
+        {
+          "pattern": "customers defect",
+          "use": "顧客がそれまでの企業を離れることを表す。",
+          "example": "Customers may defect if the new fees are too high.",
+          "translation": "新しい料金が高すぎると、顧客が他社へ乗り換えるかもしれない。"
+        }
+      ],
+      "notes": [
+        "自動詞なので、defect the party ではなく defect from the party、defect another company ではなく defect to another company とする。from は離れる側、to は移る側。どちらか、または両方を省略して、文脈で補うこともできる。defect は通常受動態にせず、They have defected.「彼らは離反した」と完了形を使う。亡命の意味でも、難民認定・庇護申請の受理などの法的手続きが完了したことは表さない。普通の転職に中立的な説明をしたいなら join another company や move to another company が使える。defect には元の組織の立場から見た「離反」の響きが出ることがある。"
+      ],
+      "synonyms": [
+        {
+          "word": "desert",
+          "definition": "所属先・任務・仲間などを見捨てて離れる。",
+          "frequency": 6,
+          "difference": "義務や忠誠を放棄する批判的な含みが強い。defect は移る側にも焦点があり、desert は残される側や放棄する責任を意識させる。",
+          "example": "Several soldiers deserted their posts during the retreat.",
+          "translation": "退却中に、兵士数人が持ち場を放棄した。"
+        },
+        {
+          "word": "go over to",
+          "definition": "相手側・別の陣営へ移る。",
+          "frequency": 5,
+          "difference": "所属・支持の変更という意味では defect to に近いが、句としてやや会話的。単なる場所への移動という別義もある。",
+          "example": "A group of supporters went over to the rival candidate.",
+          "translation": "支持者の一団が、対立候補の側に付いた。"
+        },
+        {
+          "word": "switch",
+          "definition": "選んでいる物や支持先・利用先を別のものに切り替える。",
+          "frequency": 8,
+          "difference": "switch to another provider は利用先の変更を中立的に示し、defect に伴い得る忠誠喪失の評価は弱い。",
+          "example": "Many subscribers switched to a cheaper provider.",
+          "translation": "多くの契約者が、より安い事業者に乗り換えた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算】結晶欠陥",
+      "frequency": 3,
+      "register": [
+        "材料科学・固体物理・結晶学の専門語。"
+      ],
+      "definition": "結晶内の原子などの規則的な配列が、理想的な格子構造からずれている部分や状態。原子が抜けた箇所、通常と異なる原子が入った箇所などを含む。一般語の「欠陥」と違い、材料にとって常に有害だという評価を伴うとは限らない。",
+      "patterns": [
+        "a crystal defect＝結晶欠陥1つ",
+        "a point defect＝点欠陥1つ",
+        "defects in a crystal lattice＝結晶格子内の欠陥",
+        "defect density＝欠陥密度。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a crystal defect",
+          "use": "結晶の配列上の欠陥を指す。",
+          "example": "The microscope revealed a crystal defect near the surface.",
+          "translation": "顕微鏡によって、表面近くの結晶欠陥が1つ見つかった。"
+        },
+        {
+          "pattern": "a point defect",
+          "use": "原子程度の局所的な欠陥を指す。",
+          "example": "A vacant lattice site is one type of point defect.",
+          "translation": "原子などが抜けた格子位置は、点欠陥の一種である。"
+        },
+        {
+          "pattern": "defect density",
+          "use": "材料の一定量にどれほど欠陥があるかを示す。",
+          "example": "The researchers measured the defect density in the silicon crystal.",
+          "translation": "研究者たちは、そのシリコン結晶の欠陥密度を測定した。"
+        }
+      ],
+      "notes": [
+        "点欠陥だけが defect ではなく、線状・面状などの欠陥もある。製品検査の defect が通常は望ましくない点を指すのに対し、結晶の欠陥は物性を変える構造上の特徴として扱い、意図的に導入する場合もある。材料が丸ごと壊れていることを意味しない。vacancy は本来あるべき原子などが格子位置を占めていない「空孔」で、すべての defect と同じ範囲ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "imperfection",
+          "definition": "理想的な結晶構造からの不完全さ・ずれ。",
+          "frequency": 3,
+          "difference": "この分野では defect と重なって使うが、point defect などの分類名は通常 defect で学ぶ。一般語の imperfection は見た目の小さな不完全さにも広く使う。",
+          "example": "Crystal imperfections can affect electrical conductivity.",
+          "translation": "結晶の構造上の不完全さは、電気伝導率に影響を与えることがある。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

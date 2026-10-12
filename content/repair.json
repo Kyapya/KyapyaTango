@@ -1,0 +1,554 @@
+{
+  "word": "repair",
+  "slug": "repair",
+  "ipa": "米: /rɪˈper/｜英: /rɪˈpeə(r)/。どの品詞・系統でも基本は2音節で、第2音節に主強勢がある。示した米英差は第2音節で、米は /er/、英は /eə(r)/。英の括弧内の /r/ は、後ろに母音が続く際の連結などで現れる。repaired の -ed は /d/。",
+  "lead": "壊れたり傷んだりした物の構造・機能を直し、使える・健全な状態に戻す。機器・建物・衣服などのほか、損傷した身体組織やデータを直す場合にも使う。必ず新品同様にすることや、対象全体を交換することを意味するわけではない。",
+  "updated": "2026-10-12",
+  "notion_url": "https://app.notion.com/p/repair-3f74faa9b77d814bbfead3ad29f9b1fd",
+  "pronunciation": [],
+  "etymology": [
+    "「修理する」の系統は、アングロフランス語 reparer を経てラテン語 reparare に由来し、re-「再び」と parare「整える・用意する」から成る。prepare「準備する」と reparation「損害の償い・賠償」は parare の語族に属する。一方、repair to「赴く」は別系統で、アングロフランス語 repairer「戻る」、後期ラテン語 repatriare「故郷へ帰る」にさかのぼる。こちらは repatriate「本国へ送還する」と expatriate「国外に住む人」などとつながり、現代の「修理する」から意味を派生させない。"
+  ],
+  "formation": [
+    {
+      "term": "repaired",
+      "description": "修理義・移動義のいずれにも使う過去形・過去分詞。a repaired roof では修理済みの屋根を表す。"
+    },
+    {
+      "term": "repairing",
+      "description": "現在分詞・動名詞。"
+    },
+    {
+      "term": "repairable",
+      "description": "修理できる・修復可能な、という形容詞。"
+    },
+    {
+      "term": "repairability",
+      "description": "修理のしやすさ・修理可能性を表す名詞。"
+    },
+    {
+      "term": "repairer",
+      "description": "修理する人・業者を表す可算名詞。"
+    },
+    {
+      "term": "repair shop",
+      "description": "修理店・修理工場。米語でよく使う。"
+    },
+    {
+      "term": "self-repair",
+      "description": "自動的な修復、または自分で修復することを表す名詞。技術・生物などの文脈で使う。"
+    },
+    {
+      "term": "irreparable",
+      "description": "修復できない・取り返しのつかない、という同語族の形容詞。語形は irrepairable ではない。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "修理義の核は、損傷・不具合を直して、使える・健全な状態に戻すこと。名詞ではその作業、直した箇所、修繕の観点から見た現在の状態も表す。語義7は同綴異義で、場所へ赴くという語彙的意味がこの核から導けないため、個別に参照する。"
+    },
+    {
+      "type": "item",
+      "text": "物の損傷を直して健全に戻す行為 → 「修理する・修復する」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "関係や評判の損傷を直して戻す行為 → 「関係・評判・損害を修復する」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "損傷を直して戻す作業そのもの → 「修理・修復」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "損傷を直して戻した箇所 → 「修理箇所・補修部分」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "損傷を直す必要性から見た現状 → 「修繕状態・手入れの状態」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "損傷を直して戻す作業への従事 → 「修理を行う」（語義6）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞】修理する・修復する",
+      "frequency": 9,
+      "register": [
+        "一般・業務・技術・医療。fix よりやや改まった言い方にもなる。"
+      ],
+      "definition": "壊れたり傷んだりした物の構造・機能を直し、使える・健全な状態に戻す。機器・建物・衣服などのほか、損傷した身体組織やデータを直す場合にも使う。必ず新品同様にすることや、対象全体を交換することを意味するわけではない。",
+      "patterns": [
+        "repair 〈壊れた物〉＝壊れた物を修理する",
+        "repair damage to 〈対象〉＝対象への損傷を修復する",
+        "have something repaired＝物を修理してもらう",
+        "be repaired＝修理・修復される",
+        "repair itself＝それ自体の損傷を修復する"
+      ],
+      "collocations": [
+        {
+          "pattern": "repair 〈機器〉",
+          "use": "壊れた機器を直す。",
+          "example": "The technician repaired the scanner this morning.",
+          "translation": "技師は今朝、そのスキャナーを修理した。"
+        },
+        {
+          "pattern": "repair damage to 〈対象〉",
+          "use": "損傷を目的語にして述べる。",
+          "example": "The crew repaired storm damage to the roof.",
+          "translation": "作業員たちは嵐による屋根の損傷を修復した。"
+        },
+        {
+          "pattern": "have something repaired",
+          "use": "修理作業を他者にしてもらう。",
+          "example": "I had my watch repaired last week.",
+          "translation": "私は先週、腕時計を修理してもらった。"
+        },
+        {
+          "pattern": "repair damaged tissue",
+          "use": "損傷した身体組織を修復する。",
+          "example": "The surgeon repaired the damaged tissue.",
+          "translation": "外科医は損傷した組織を修復した。"
+        },
+        {
+          "pattern": "repair corrupted files",
+          "use": "データの不具合を直す。",
+          "example": "The utility can repair some corrupted files.",
+          "translation": "その補助プログラムは、一部の破損ファイルを修復できる。"
+        },
+        {
+          "pattern": "repair itself",
+          "use": "生体などが自らの損傷を修復する。",
+          "example": "The skin gradually repairs itself after a minor injury.",
+          "translation": "皮膚は軽いけがの後、徐々に自らの損傷を修復する。"
+        }
+      ],
+      "notes": [
+        "repair は通常、直すものを直接目的語に取り、repair the machine とする。repair to the machine をこの意味の他動詞句として使わない。名詞なら repairs to the machine「機械の修理」（語義3）。The skin repairs itself. は itself を目的語に取る他動詞の再帰用法で、自動詞ではない。be repaired は出来事にも修理済みの状態にも使う。保守全般の maintain と異なり、修復すべき損傷・不具合があることに焦点を置く。"
+      ],
+      "synonyms": [
+        {
+          "word": "fix",
+          "definition": "壊れた物・不具合を直す。",
+          "frequency": 10,
+          "difference": "より日常的で、機器以外の問題解決にも広く使う。repair ほど修復対象を狭く限定しない。",
+          "example": "Can you fix the broken lamp?",
+          "translation": "壊れたランプを直してもらえますか。"
+        },
+        {
+          "word": "mend",
+          "definition": "破れ・破損などを直して元の状態にする。",
+          "frequency": 7,
+          "difference": "衣服・布・小さな物などに使いやすく、特に英国英語では機器の修理にも使う。",
+          "example": "She mended the tear in her coat.",
+          "translation": "彼女はコートの裂け目を繕った。"
+        },
+        {
+          "word": "restore",
+          "definition": "物を以前の良い状態に戻す。",
+          "frequency": 7,
+          "difference": "歴史的建造物や美術品などでは、機能だけでなく外観・元の状態の回復も強調する。",
+          "example": "The museum restored the damaged painting.",
+          "translation": "その美術館は損傷した絵画を修復した。"
+        },
+        {
+          "word": "patch",
+          "definition": "傷んだ箇所を部分的に補修する。",
+          "frequency": 6,
+          "difference": "穴や破れなどをふさぐ局所的な処置で、応急的という含みが出ることもある。",
+          "example": "They patched the leaking roof before the rain.",
+          "translation": "彼らは雨の前に、雨漏りする屋根を部分補修した。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "damage",
+          "definition": "物の状態・機能を損なう。",
+          "frequency": 9,
+          "difference": "状態を回復させることに対し、損なう方向で対立する。完全に使えなくなるとは限らない。",
+          "example": "Water damaged the control panel.",
+          "translation": "水が制御盤を損傷させた。"
+        },
+        {
+          "word": "break",
+          "definition": "物を壊して使えなくする・割る。",
+          "frequency": 10,
+          "difference": "正常に使える状態へ戻すことに対し、壊す方向で対立する。",
+          "example": "The impact broke the sensor.",
+          "translation": "その衝撃でセンサーが壊れた。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【動詞・他動詞】関係・評判・損害を修復する",
+      "frequency": 7,
+      "register": [
+        "一般・報道・ビジネス。"
+      ],
+      "definition": "悪化した関係や傷ついた評判・信用を改善し、または害・過ちの影響を是正する。物を直す意味を抽象的な対象へ広げた用法で、金銭賠償をすることに限らない。",
+      "patterns": [
+        "repair a relationship with someone＝人との関係を修復する",
+        "repair someone’s reputation＝人の評判を回復させる",
+        "repair the damage caused by 〈原因〉＝原因によって生じた害を修復する",
+        "repair a breach of trust＝信頼の破綻を修復する"
+      ],
+      "collocations": [
+        {
+          "pattern": "repair a relationship with someone",
+          "use": "悪化した関係を改善する。",
+          "example": "She hopes to repair her relationship with her sister.",
+          "translation": "彼女は姉妹との関係を修復したいと願っている。"
+        },
+        {
+          "pattern": "repair someone’s reputation",
+          "use": "傷ついた評判を回復させる。",
+          "example": "The company is trying to repair its reputation after the data breach.",
+          "translation": "その会社は情報漏えいの後、評判を回復させようとしている。"
+        },
+        {
+          "pattern": "repair the damage caused by 〈原因〉",
+          "use": "非物理的な害を是正する。",
+          "example": "The apology did little to repair the damage caused by his comments.",
+          "translation": "その謝罪は、彼の発言がもたらした害を修復するのにほとんど役立たなかった。"
+        },
+        {
+          "pattern": "repair a breach of trust",
+          "use": "損なわれた信頼を修復する。",
+          "example": "Both sides must work to repair the breach of trust.",
+          "translation": "双方が、損なわれた信頼の修復に取り組まなければならない。"
+        }
+      ],
+      "notes": [
+        "damage はこの意味でも通常不可算で、repair the damage とする。try to repair は修復を試みることで、成功は保証しない。repair a relationship は関係を改善することで、完全に以前どおりになることや相手を許すことを必ずしも含まない。repair someone だけで「その人と仲直りする」とはいわず、repair the relationship with someone のように対象を示す。"
+      ],
+      "synonyms": [
+        {
+          "word": "mend",
+          "definition": "悪化した関係などを修復する。",
+          "frequency": 7,
+          "difference": "mend a relationship・mend fences などで使い、対人関係の回復を日常的に述べる。",
+          "example": "They are trying to mend their friendship.",
+          "translation": "彼らは友情を修復しようとしている。"
+        },
+        {
+          "word": "restore",
+          "definition": "失われた信用などを取り戻す。",
+          "frequency": 8,
+          "difference": "以前にあった状態を再び成立させる点を強調する。",
+          "example": "The new measures helped restore public confidence.",
+          "translation": "新しい措置は世間の信頼回復に役立った。"
+        },
+        {
+          "word": "remedy",
+          "definition": "悪い状況や問題を是正する。",
+          "frequency": 6,
+          "difference": "関係自体より、問題・欠陥・不公正などの解決を表す改まった語。",
+          "example": "The organization took steps to remedy the situation.",
+          "translation": "その組織は状況を是正するための措置を講じた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・不可算、個別の修理は可算】修理・修復",
+      "frequency": 9,
+      "register": [
+        "一般・業務・技術・生物・医療。"
+      ],
+      "definition": "壊れたり傷ついたりした物・関係などを直す作業や過程。作業一般は不可算、一件の修理や複数の補修作業は可算で、repairs と複数形にすることも多い。身体組織などの修復にも使う。",
+      "patterns": [
+        "under repair＝修理中で",
+        "in need of repair＝修理が必要で",
+        "beyond repair＝修理・修復ができないほどで",
+        "carry out repairs to 〈対象〉＝対象の修理を行う",
+        "make a repair＝一件の修理をする",
+        "the repair of 〈対象〉＝対象の修復"
+      ],
+      "collocations": [
+        {
+          "pattern": "under repair",
+          "use": "物が修理中であることを表す。",
+          "example": "The elevator is under repair today.",
+          "translation": "そのエレベーターは今日、修理中だ。"
+        },
+        {
+          "pattern": "in need of repair",
+          "use": "修理の必要がある状態を示す。",
+          "example": "Several windows are in need of repair.",
+          "translation": "窓がいくつか、修理を必要としている。"
+        },
+        {
+          "pattern": "beyond repair",
+          "use": "物が直せない状態を表す。",
+          "example": "The motor was damaged beyond repair.",
+          "translation": "そのモーターは修理できないほど損傷していた。"
+        },
+        {
+          "pattern": "a relationship beyond repair",
+          "use": "比喩的に修復不能な関係を述べる。",
+          "example": "They believed their relationship was beyond repair.",
+          "translation": "彼らは、自分たちの関係は修復できないと考えていた。"
+        },
+        {
+          "pattern": "carry out repairs to 〈対象〉",
+          "use": "個別の補修作業をまとめて述べる。",
+          "example": "The crew carried out repairs to the bridge overnight.",
+          "translation": "作業員たちは一晩かけて橋の補修を行った。"
+        },
+        {
+          "pattern": "make a temporary repair",
+          "use": "応急的な一件の修理を表す。",
+          "example": "The mechanic made a temporary repair to the fuel line.",
+          "translation": "整備士は燃料配管に応急修理を施した。"
+        },
+        {
+          "pattern": "tissue repair",
+          "use": "生体組織の修復過程を述べる。",
+          "example": "The study examined the role of these cells in tissue repair.",
+          "translation": "その研究は、組織修復におけるこれらの細胞の役割を調べた。"
+        }
+      ],
+      "notes": [
+        "under repair・beyond repair は通常無冠詞。repairs to the roof の to は修理対象を示す名詞の前置詞で、語義7の動詞 repair to「赴く」とは別構造。take a car in for repairs は「車を修理に出す」。maintenance は点検・手入れなどによる維持管理も含むため、故障箇所を直す repair と同義ではない。repair costs は修理費で、費用の語義が repair 自体に増えたわけではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "fix",
+          "definition": "不具合に対する修正・修理。",
+          "frequency": 8,
+          "difference": "可算名詞で、a quick fix のような迅速・応急的対処にも使う。",
+          "example": "The technician found a simple fix for the fault.",
+          "translation": "技師はその不具合の簡単な修理方法を見つけた。"
+        },
+        {
+          "word": "restoration",
+          "definition": "傷んだ物を元の良い状態に戻す作業。",
+          "frequency": 7,
+          "difference": "建物・美術品の元の姿の回復を強調し、単なる機能の修理より範囲が広い場合がある。",
+          "example": "Restoration of the old theater took two years.",
+          "translation": "その古い劇場の修復には2年かかった。"
+        },
+        {
+          "word": "mending",
+          "definition": "破れなどを繕うこと。",
+          "frequency": 5,
+          "difference": "主に衣服などの小規模な修理を指す不可算名詞。",
+          "example": "She set aside some time for mending.",
+          "translation": "彼女は繕い物のために少し時間を取っておいた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・可算】修理箇所・補修部分",
+      "frequency": 4,
+      "register": [
+        "建築・工芸・修復作業など。"
+      ],
+      "definition": "修理を行った結果として残る箇所、または補修に用いて加えられた部分。作業を行うこと自体ではなく、目に見える補修跡などに焦点を当てる。",
+      "patterns": [
+        "a repair in 〈材質・構造物〉＝材質・構造物の中の補修部分",
+        "a visible repair＝見える補修跡",
+        "an old repair＝以前の補修部分"
+      ],
+      "collocations": [
+        {
+          "pattern": "a visible repair",
+          "use": "補修した箇所が見えることを述べる。",
+          "example": "The visible repair in the wooden panel was carefully sanded.",
+          "translation": "その木製パネルに見える補修部分は、丁寧にやすりがけされた。"
+        },
+        {
+          "pattern": "an old repair",
+          "use": "過去に補修された部分を指す。",
+          "example": "An old repair in the stonework had begun to crack.",
+          "translation": "その石造部分の古い補修箇所に、ひびが入り始めていた。"
+        }
+      ],
+      "notes": [
+        "The repair took two hours. では作業（語義3）、The repair is almost invisible. では通常、直した箇所・跡を指す。どちらも可算だが、時間がかかる対象なのか、見える対象なのかで焦点が異なる。"
+      ],
+      "synonyms": [
+        {
+          "word": "patch",
+          "definition": "穴や傷をふさいだ部分・当て布。",
+          "frequency": 6,
+          "difference": "特に材料を当てて補修した箇所を指し、すべての修理跡を覆うわけではない。",
+          "example": "A leather patch covered the hole.",
+          "translation": "革の当て布がその穴を覆っていた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞・不可算、主に定型表現】修繕状態・手入れの状態",
+      "frequency": 6,
+      "register": [
+        "一般・建物や資産の説明。やや改まった表現にも多い。"
+      ],
+      "definition": "建物・道路・機器などが、どの程度よく保たれ、補修を必要とするかという状態。good・poor・bad などを伴って、修理中かどうかではなく現在の物の状態を評価する。",
+      "patterns": [
+        "in good repair＝よく手入れされて良好な状態で",
+        "in poor repair＝手入れが悪く傷んだ状態で",
+        "in bad repair＝修繕を要する悪い状態で",
+        "keep something in good repair＝物を良好な状態に保つ",
+        "in a good state of repair＝修繕状態が良好で"
+      ],
+      "collocations": [
+        {
+          "pattern": "in good repair",
+          "use": "良好な維持状態を述べる。",
+          "example": "The old house is still in good repair.",
+          "translation": "その古い家は今もよく手入れされ、良好な状態にある。"
+        },
+        {
+          "pattern": "in poor repair",
+          "use": "補修が必要な状態を述べる。",
+          "example": "Many rural roads are in poor repair.",
+          "translation": "多くの地方道は傷んでいて補修が必要な状態にある。"
+        },
+        {
+          "pattern": "keep something in good repair",
+          "use": "継続的に良好な状態を保つ。",
+          "example": "The owner keeps the rental property in good repair.",
+          "translation": "所有者はその賃貸物件を良好な状態に保っている。"
+        },
+        {
+          "pattern": "in a good state of repair",
+          "use": "状態の評価を明示的な名詞句にする。",
+          "example": "The survey found the roof to be in a good state of repair.",
+          "translation": "その調査では、屋根の修繕状態は良好だと分かった。"
+        }
+      ],
+      "notes": [
+        "in good repair は「修理が上手に進んでいる」ではなく「手入れがよく良好な状態」。under repair（語義3）は「修理中」。in good repair は無冠詞だが、in a good state of repair では可算名詞 state に a が付く。in repair「良好な状態で」や out of repair「修繕を要して」もあるが、good・poor を付ける方が意味を取りやすい。"
+      ],
+      "synonyms": [
+        {
+          "word": "condition",
+          "definition": "物の現在の状態。",
+          "frequency": 9,
+          "difference": "修理・手入れに限らず、あらゆる観点からの状態を表す。",
+          "example": "The vehicle is in excellent condition.",
+          "translation": "その車両は非常に良い状態にある。"
+        },
+        {
+          "word": "shape",
+          "definition": "物の調子・状態。",
+          "frequency": 8,
+          "difference": "in good shape のように使う、よりくだけた表現。物だけでなく身体にも使う。",
+          "example": "The bicycle is still in good shape.",
+          "translation": "その自転車はまだ良い状態だ。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【動詞・自動詞】修理を行う",
+      "frequency": 3,
+      "register": [
+        "修理業務の説明など。"
+      ],
+      "definition": "修理する対象を文中に直接出さず、修理作業をすることを表す。対象が文脈から分かる場合や、販売などと対比して修理という業務を挙げる場合に使う。通常の他動詞用法ほど一般的ではない。",
+      "patterns": [
+        "〈修理をする人・業者〉 + repair＝人・業者が修理を行う",
+        "〈修理をする人〉 + stop to repair＝人が修理のために作業・移動などを止める"
+      ],
+      "collocations": [
+        {
+          "pattern": "〈業者〉 + sell and repair",
+          "use": "販売と修理の両方を行う業者を説明する。",
+          "example": "This is a clock shop: we sell, but we also repair.",
+          "translation": "ここは時計店です。販売だけでなく修理も行っています。"
+        },
+        {
+          "pattern": "〈作業者〉 + stop to repair",
+          "use": "対象が文脈から分かる修理を目的語なしで述べる。",
+          "example": "When the cart broke down, we stopped to repair.",
+          "translation": "荷車が故障したとき、私たちは修理のために立ち止まった。"
+        }
+      ],
+      "notes": [
+        "この自動詞用法は「修理をする側」が主語で、「機械が修理される」という受動の代わりにはしない。The machine was repaired. は他動詞の受動態、The machine repaired itself. は itself を取る再帰的な他動詞用法。対象を示せる通常の文では repair the clock・repair the cart とする方が明確。"
+      ],
+      "synonyms": [
+        {
+          "word": "make repairs",
+          "definition": "修理作業を行う。",
+          "frequency": 7,
+          "difference": "対象を直接目的語にしなくても自然な、より一般的で明示的な言い方。",
+          "example": "The crew stayed behind to make repairs.",
+          "translation": "作業員たちは修理を行うために後に残った。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【動詞・自動詞、repair to】赴く・場所を移す",
+      "frequency": 2,
+      "register": [
+        "形式的・文語的・やや古風。現代ではユーモラスな響きもある。"
+      ],
+      "definition": "人が別の場所へ行く。特に会合や食事の後などに、一行が次の場所へ移ることを改まって、または戯れに述べる。修理義とは語源が異なる。",
+      "patterns": [
+        "repair to 〈場所〉＝その場所へ赴く",
+        "repair to 〈場所〉 for 〈食事・活動〉＝その目的で場所を移す"
+      ],
+      "collocations": [
+        {
+          "pattern": "repair to the lounge",
+          "use": "一行が談話室などへ移ることを述べる。",
+          "example": "After dinner, the guests repaired to the lounge.",
+          "translation": "夕食後、客たちは談話室へ移った。"
+        },
+        {
+          "pattern": "repair to 〈場所〉 for 〈食事〉",
+          "use": "移動先と目的を示す。",
+          "example": "We repaired to a nearby café for lunch.",
+          "translation": "私たちは昼食を取るため、近くのカフェへ赴いた。"
+        }
+      ],
+      "notes": [
+        "to は行き先を導く前置詞で、後ろには場所の名詞句を置く。この用法の repaired は単なる「修理した」ではない。repairs to the roof は名詞の「屋根の修理」（語義3）であり、They repaired to the roof. なら形式上は人々が屋上へ「赴いた」という別の文。日常の案内・指示では go to を選ぶのが普通。"
+      ],
+      "synonyms": [
+        {
+          "word": "go",
+          "definition": "場所へ行く。",
+          "frequency": 10,
+          "difference": "中立的な基本語で、repair to の改まった・古風な調子はない。",
+          "example": "We went to the café after the meeting.",
+          "translation": "私たちは会議の後にカフェへ行った。"
+        },
+        {
+          "word": "retire",
+          "definition": "静かな別の場所へ引き下がる・移る。",
+          "frequency": 4,
+          "difference": "retire to の形で使い、休息や人前から退く含みが出やすい。",
+          "example": "She retired to her room after dinner.",
+          "translation": "彼女は夕食後、自室へ下がった。"
+        },
+        {
+          "word": "adjourn",
+          "definition": "会合の場から別の場所へ移る。",
+          "frequency": 4,
+          "difference": "adjourn to の形で人々の移動を表せる。会議をいったん終えて場を変える含みが強い。",
+          "example": "The committee adjourned to a nearby restaurant.",
+          "translation": "委員たちは会議を切り上げ、近くのレストランへ場所を移した。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

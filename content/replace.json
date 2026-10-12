@@ -1,0 +1,298 @@
+{
+  "word": "replace",
+  "slug": "replace",
+  "ipa": "米・英: /rɪˈpleɪs/",
+  "lead": "使っている人・物を別の人・物に替える。また、壊れた物や失った物の代わりを用意する。新しい代替物は「今回代わりに入るもの」であり、必ず新品・同一製品・上位品であるとは限らない。",
+  "updated": "2026-10-12",
+  "notion_url": "https://app.notion.com/p/replace-3f74faa9b77d81b9acb7c71894fa23be",
+  "pronunciation": [
+    "2音節で、第2音節 /pleɪs/ に主強勢がある。replaces /rɪˈpleɪsɪz/ は3音節、replaced /rɪˈpleɪst/ は2音節で、-ed は /t/。replacing では末尾の e を落とす。"
+  ],
+  "etymology": [
+    "re-「再び、元へ」と place「置く」から形成された語。初期には「元の位置に戻す」の意味があり、後に「別の人や物の位置を占める」「別のものを入れる」という用法が広がった。現代では交換・代替の意味が中心で、毎回「もう一度置く」と直訳するわけではない。",
+    "place を共有する displacement「移動、排除」、misplace「置き場所を間違える」は関連語。displace は元の位置からどかす側面、misplace は置く場所の誤りを表し、replace の同義語になるとは限らない。"
+  ],
+  "formation": [
+    {
+      "term": "replacement",
+      "description": "名詞。「交換、交代」または「代わりの人・物」。行為と代替物で可算性が変わる。"
+    },
+    {
+      "term": "replaceable",
+      "description": "形容詞。「交換できる、代わりが利く」。replace の e を残して -able を付ける。"
+    },
+    {
+      "term": "irreplaceable",
+      "description": "形容詞。「代わりのない、かけがえのない」。部品の交換不能だけでなく、人や思い出の価値にも使う。"
+    },
+    {
+      "term": "replaced",
+      "description": "過去形・過去分詞。replaced parts「交換された部品」のような限定用法や受動態は、通常この動詞の意味から理解できる。"
+    },
+    {
+      "term": "replacing",
+      "description": "現在分詞・動名詞。the cost of replacing a roof は「屋根を交換する費用」。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "核は、すでに誰か・何かが占めていた位置や役割を、改めて満たすこと。別のものを入れる場合、別のもの自身がその役割を担う場合、同じものを戻す場合を区別する。"
+    },
+    {
+      "type": "item",
+      "text": "位置や役割を別のものを入れて満たす行為 → 「取り替える、代わりを用意する」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "位置や役割を別のもの自身が満たす働き → 「取って代わる、代わりを務める」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "位置や役割を同じものを戻して満たす行為 → 「元の場所に戻す」（語義3）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【他動詞】取り替える、代わりを用意する",
+      "frequency": 9,
+      "register": [
+        "一般・ビジネス・設備・情報技術。人員、部品、制度、文章中の文字列など、幅広い対象に使う。"
+      ],
+      "definition": "使っている人・物を別の人・物に替える。また、壊れた物や失った物の代わりを用意する。新しい代替物は「今回代わりに入るもの」であり、必ず新品・同一製品・上位品であるとは限らない。",
+      "patterns": [
+        "replace something＝物を取り替える、物の代わりを用意する",
+        "replace someone＝人を交代させる",
+        "replace 〈旧対象〉 with 〈新対象〉＝旧対象を新対象に替える",
+        "replace 〈旧対象〉 by 〈新対象〉＝旧対象を新対象に置き換える",
+        "〈旧対象〉 be replaced with 〈新対象〉＝旧対象が新対象に替えられる",
+        "〈物〉 need replacing＝物の交換が必要である",
+        "〈物〉 need to be replaced＝物を交換する必要がある",
+        "replace something for someone＝人のために物を交換する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "replace a worn part",
+          "use": "消耗した部品を取り替える。",
+          "example": "The technician replaced a worn belt before restarting the machine.",
+          "translation": "技術者は機械を再始動する前に、摩耗したベルトを1本交換した。"
+        },
+        {
+          "pattern": "replace 〈旧対象〉 with 〈新対象〉",
+          "use": "何を取り除き、何を代わりに入れるかを示す。",
+          "example": "We replaced the damaged chair with a used one from another office.",
+          "translation": "私たちは破損した椅子を、別の事務所から持ってきた中古の椅子に取り替えた。"
+        },
+        {
+          "pattern": "replace 〈旧対象〉 by 〈新対象〉",
+          "use": "数式や形式的な説明で置換の対応を示す。",
+          "example": "In the final line of the calculation, replace x by 3.",
+          "translation": "計算の最後の行で、xを3に置き換えてください。"
+        },
+        {
+          "pattern": "replace someone with someone",
+          "use": "担当者などを別の人に交代させる。",
+          "example": "The director replaced the departing supervisor with an experienced engineer.",
+          "translation": "部長は退職する監督者に代えて、経験豊かな技術者を配置した。"
+        },
+        {
+          "pattern": "replace something for someone",
+          "use": "失われた物や壊れた物の代わりを、その人に用意する。",
+          "example": "The shop replaced the faulty kettle for me at no charge.",
+          "translation": "その店は、不具合のある電気ケトルを私のために無料で交換してくれた。"
+        },
+        {
+          "pattern": "need to be replaced / need replacing",
+          "use": "交換が必要な物を主語にして述べる。",
+          "example": "Both batteries need replacing before the next inspection.",
+          "translation": "次の点検までに、電池を2個とも交換する必要がある。"
+        },
+        {
+          "pattern": "be replaced with 〈新対象〉",
+          "use": "交換される側を主語にする。",
+          "example": "The paper forms will be replaced with an online form next month.",
+          "translation": "紙の書式は来月、オンラインの書式に置き換えられる。"
+        }
+      ],
+      "notes": [
+        "replace A with B は「AをBに替える」。substitute B for A「Aの代わりにBを使う」とは、新旧の並ぶ順番が逆になる。能動形では with が広く使われ、by も特に形式的な置換説明などで使うため、by を一律に誤りとはしない。受動形の The filter was replaced by a technician. では by 以下が作業者、The filter was replaced by a newer model. では新しく入る物であり、名詞の役割を文脈で判断する。need replacing は受動の意味で、need to be replaced と対応する。replace it と直接目的語を置き、交換義の replace for it とはしない。replace a lost key は紛失した鍵そのものを取り戻すことではなく、代わりの鍵を用意すること。受動態や分詞修飾にできるが、replaced にこの意味から独立した評価義は通常ない。"
+      ],
+      "synonyms": [
+        {
+          "word": "change",
+          "definition": "物を別のものに替える。",
+          "frequency": 9,
+          "difference": "電池や服などの日常的な交換にも使う。change は対象自体を変化させる意味も広いため、replace より「別のものが入る」という点が曖昧になり得る。",
+          "example": "Please change the towels in both rooms.",
+          "translation": "両方の部屋のタオルを交換してください。"
+        },
+        {
+          "word": "substitute",
+          "definition": "ある人・物の代わりに別の人・物を使う。",
+          "frequency": 7,
+          "difference": "substitute B for A ではBが代用品。replace A with B と意味の向きは同じだが、語順が異なる。",
+          "example": "You can substitute oat milk for dairy milk in this recipe.",
+          "translation": "このレシピでは、牛乳の代わりにオーツミルクを使えます。"
+        },
+        {
+          "word": "exchange",
+          "definition": "物を渡し、その代わりに別の物を受け取る。",
+          "frequency": 8,
+          "difference": "店での交換や双方のやり取りを意識させる。replace は相手へ元の物を渡すことを必要としない。",
+          "example": "I exchanged the shirt for a larger size.",
+          "translation": "私はそのシャツを、もっと大きいサイズのものと交換した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【他動詞】取って代わる、代わりを務める",
+      "frequency": 9,
+      "register": [
+        "一般・人事・報道・技術・スポーツ。"
+      ],
+      "definition": "人・物・方法などが、それまで別の人・物が担っていた役割を担う。主語が新たに入る側、直接目的語が退く側になる。一時的な代理にも恒久的な交代にも使え、優劣は語自体では決まらない。",
+      "patterns": [
+        "〈新対象〉 replace 〈旧対象〉＝新対象が旧対象に取って代わる",
+        "replace someone as 〈役職〉＝ある役職で人の後任になる",
+        "replace someone on 〈委員会・チーム〉＝委員会やチームで人の代わりを務める",
+        "〈旧対象〉 be replaced by 〈新対象〉＝旧対象に代わって新対象が入る。"
+      ],
+      "collocations": [
+        {
+          "pattern": "replace someone as 〈役職〉",
+          "use": "後任者と役職を明示する。",
+          "example": "Ms. Chen will replace Mr. Lewis as operations manager in November.",
+          "translation": "チェンさんは11月に、ルイスさんに代わって業務運営マネージャーに就任する。"
+        },
+        {
+          "pattern": "replace someone on 〈委員会〉",
+          "use": "委員などの交代を表す。",
+          "example": "A representative from the sales team replaced me on the committee.",
+          "translation": "営業チームの代表者が、私に代わって委員になった。"
+        },
+        {
+          "pattern": "〈新方式〉 replace 〈旧方式〉",
+          "use": "方式や技術が以前のものに取って代わる。",
+          "example": "Digital tickets have largely replaced printed tickets on this route.",
+          "translation": "この路線では、電子チケットが紙のチケットにほぼ取って代わっている。"
+        },
+        {
+          "pattern": "temporarily replace someone",
+          "use": "限られた期間だけ人の代わりを務める。",
+          "example": "A substitute teacher temporarily replaced her while she recovered from surgery.",
+          "translation": "彼女が手術から回復する間、代用教員が一時的に彼女の代わりを務めた。"
+        },
+        {
+          "pattern": "be replaced by 〈新対象〉",
+          "use": "役割を譲る側から交代を述べる。",
+          "example": "The weekly meeting has been replaced by a short written update.",
+          "translation": "週1回の会議は、短い書面での進捗報告に置き換えられている。"
+        }
+      ],
+      "notes": [
+        "The new pump replaced the old one. は「新しいポンプが古いものに取って代わった」で、交換作業をした人は主語ではない。語義1の The engineer replaced the old pump. では、主語は交換作業者。この役割差を確認する。人が主語の場合も、後任者なのか配置を決める人なのかを目的語・補語・文脈から判断する。replace her as manager は「マネージャーとして彼女の後任になる」で、役職名はこの構文では無冠詞にできる。replace と take the place of は近いが、replace of someone とはしない。感情や状態が別のものに移る場合にも使え、was replaced by relief なら「安堵に変わった」と訳せる。"
+      ],
+      "synonyms": [
+        {
+          "word": "take the place of",
+          "definition": "人・物の代わりになる。",
+          "frequency": 8,
+          "difference": "replace より句として説明的で、日常会話でも使いやすい。of の後に退く側を置く。",
+          "example": "A recorded message cannot take the place of a personal conversation.",
+          "translation": "録音メッセージは、直接話し合うことの代わりにはならない。"
+        },
+        {
+          "word": "succeed",
+          "definition": "ある役職・地位で人の後を継ぐ。",
+          "frequency": 7,
+          "difference": "人事や継承に焦点があり、部品交換には使わない。succeed someone as 〈役職〉 とする。",
+          "example": "She succeeded her father as president of the company.",
+          "translation": "彼女は父親の後を継いで、その会社の社長になった。"
+        },
+        {
+          "word": "supersede",
+          "definition": "新しいものが古い制度・版・方法などに取って代わる。",
+          "frequency": 6,
+          "difference": "replace より硬く、旧版が適用されなくなることや、旧方式が時代遅れになることを意識させる。",
+          "example": "This policy supersedes the guidelines issued last year.",
+          "translation": "この方針は、昨年発行された指針に取って代わる。"
+        },
+        {
+          "word": "supplant",
+          "definition": "従来の人・物を押しのけ、その地位を占める。",
+          "frequency": 5,
+          "difference": "中立的な replace より、競争や影響力の変化によって従来のものが押しのけられる面を強調する。",
+          "example": "Online advertising has supplanted print advertising as the firm's main marketing tool.",
+          "translation": "その会社の主要な宣伝手段として、オンライン広告が印刷媒体の広告に取って代わっている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【他動詞】元の場所に戻す",
+      "frequency": 6,
+      "register": [
+        "一般・書き言葉・操作説明。会話では put back がよく使われる。"
+      ],
+      "definition": "取り出したり動かしたりした物を、以前あった場所や本来の位置に戻す。同じ物を戻す用法で、別の物への交換を意味しない。",
+      "patterns": [
+        "replace something＝物を元に戻す",
+        "replace something on 〈載せる場所〉＝元あった場所の上に物を戻す",
+        "replace something in 〈入れる場所〉＝元あった場所の中に物を戻す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "replace something on 〈元の場所〉",
+          "use": "手に取った物を、元の台や棚の上へ戻す。",
+          "example": "After examining the vase, she carefully replaced it on the shelf.",
+          "translation": "花瓶を調べた後、彼女はそれを注意深く元の棚に戻した。"
+        },
+        {
+          "pattern": "replace something in 〈元の場所〉",
+          "use": "取り出した物を収納場所へ戻す。",
+          "example": "He read the letter and replaced it in its envelope.",
+          "translation": "彼は手紙を読み、それを元の封筒に戻した。"
+        },
+        {
+          "pattern": "replace the lid",
+          "use": "外したふたを再びかぶせる。",
+          "example": "Stir the contents, then replace the lid you removed earlier.",
+          "translation": "中身をかき混ぜてから、先ほど外したふたを元に戻してください。"
+        },
+        {
+          "pattern": "replace the handset",
+          "use": "通話後に受話器を元の位置へ戻す。",
+          "example": "At the end of the call, she gently replaced the handset in its cradle.",
+          "translation": "通話の終わりに、彼女は受話器をそっと受け台に戻した。"
+        }
+      ],
+      "notes": [
+        "replace the lid だけなら、ふたを取り替える語義1にも、同じふたを戻すこの語義にもなり得る。after opening、元の場所を表す on や in、前後の動作が判断材料になる。交換なら replace the lid with a new one、戻すなら put the lid back とすると明確。replace はこの意味でも目的語を直接取り、replace it on the table とする。return it to the table とは前置詞の形が異なる。"
+      ],
+      "synonyms": [
+        {
+          "word": "put back",
+          "definition": "動かした物を元の場所に戻す。",
+          "frequency": 9,
+          "difference": "この意味の replace より日常的で明瞭。put the book back と put back the book は可能だが、代名詞は put it back とする。",
+          "example": "Please put the scissors back in the drawer.",
+          "translation": "はさみを元の引き出しに戻してください。"
+        },
+        {
+          "word": "return",
+          "definition": "物を元の場所や持ち主のもとへ戻す。",
+          "frequency": 9,
+          "difference": "return something to 〈場所・人〉 とし、所有者への返却も含む。replace のこの語義は元の位置に置く動作に焦点がある。",
+          "example": "The assistant returned the files to the cabinet.",
+          "translation": "助手はファイルを元のキャビネットに戻した。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

@@ -1,0 +1,479 @@
+{
+  "word": "install",
+  "slug": "install",
+  "ipa": "米: /ɪnˈstɑːl/｜英: /ɪnˈstɔːl/。2音節で第2音節に主強勢がある。示した米英差は第2音節の母音 /ɑː/ と /ɔː/。米語には /ɔː/ を使う発音もある。名詞でも動詞と同じ位置に強勢を置く発音があるため、「名詞なら前に強勢」と機械的に変えない。installed の -ed は /d/。",
+  "lead": "設備・機器・備品などを所定の場所に置き、固定・接続などをして使える状態にする。実際に使用を始めることや動作試験の完了までを、常に意味するわけではない。",
+  "updated": "2026-10-12",
+  "notion_url": "https://app.notion.com/p/install-3f74faa9b77d8178a9dbc167dbd4436e",
+  "pronunciation": [],
+  "etymology": [
+    "中世ラテン語 installare にさかのぼり、in-「中へ」と stallum「席・場所」から成る。アングロフランス語 enstaller・installer を経た系統があり、初期には正式な席・地位に就けることを表した。stallum はゲルマン系の語に由来し、英語の stall「区画・売店・聖職者席」と同根。installation「設置・就任」も同じ中世ラテン語の語族に属する。"
+  ],
+  "formation": [
+    {
+      "term": "installed",
+      "description": "過去形・過去分詞。「設置済みの・就任した」のように名詞を修飾するが、意味は対応する動詞から理解できる。"
+    },
+    {
+      "term": "installing",
+      "description": "現在分詞・動名詞。l は2つのまま -ing を付ける。"
+    },
+    {
+      "term": "installation",
+      "description": "設置・ソフトの導入・施設・就任・空間を用いた美術作品などを表す名詞。"
+    },
+    {
+      "term": "installer",
+      "description": "設置作業者、またはソフトを導入するプログラム。可算名詞。"
+    },
+    {
+      "term": "reinstall",
+      "description": "再び設置する・再インストールする他動詞。re-install とも書く。"
+    },
+    {
+      "term": "uninstall",
+      "description": "ソフトウェアを削除してインストールを解除する動詞。一般の設備の撤去には通常 remove を用いる。"
+    },
+    {
+      "term": "preinstall",
+      "description": "出荷などより前にあらかじめソフトを導入する他動詞。pre-install とも書く。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "共通するのは、対象を所定の場所・環境・役割に据え、そこで使える、役割を果たせる、または落ち着いて過ごせる状態にすること。自動詞では対象側の導入、名詞ではその作業を指す。"
+    },
+    {
+      "type": "item",
+      "text": "機器を使用する位置への据え付け → 「設置する・取り付ける」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "ソフトを使用する環境への据え付け → 「インストールする」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "ソフトが使用する環境に据わる過程 → 「インストールされる」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "導入作業としての環境への据え付け → 「インストール・導入作業」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "人物を任務を果たす地位への据え付け → 「就任させる・役職に就ける」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "人物を落ち着いて過ごす場所への据え付け → 「落ち着かせる・腰を据える」（語義6）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞】設置する・取り付ける",
+      "frequency": 8,
+      "register": [
+        "一般・建設・設備・業務。"
+      ],
+      "definition": "設備・機器・備品などを所定の場所に置き、固定・接続などをして使える状態にする。実際に使用を始めることや動作試験の完了までを、常に意味するわけではない。",
+      "patterns": [
+        "install 〈機器・設備〉＝機器・設備を設置する",
+        "install 〈設備〉 in 〈場所〉＝場所の中に設備を設置する",
+        "install 〈設備〉 on 〈面・構造物〉＝面・構造物に設備を取り付ける",
+        "have something installed＝物を取り付けてもらう",
+        "be installed＝設置される・設置済みである"
+      ],
+      "collocations": [
+        {
+          "pattern": "install new equipment",
+          "use": "新しい機器を使えるように据え付ける。",
+          "example": "The contractor will install new equipment next week.",
+          "translation": "その請負業者は来週、新しい機器を設置する予定だ。"
+        },
+        {
+          "pattern": "install something in 〈場所〉",
+          "use": "室内などに設備を置く。",
+          "example": "They installed a ventilation system in the workshop.",
+          "translation": "彼らは作業場に換気システムを設置した。"
+        },
+        {
+          "pattern": "install something on 〈面・構造物〉",
+          "use": "面に取り付ける関係を示す。",
+          "example": "The crew installed solar panels on the roof.",
+          "translation": "作業員たちは屋根に太陽光パネルを取り付けた。"
+        },
+        {
+          "pattern": "have something installed",
+          "use": "自分で作業せず、取り付けてもらう。",
+          "example": "We had a new lock installed yesterday.",
+          "translation": "私たちは昨日、新しい錠を取り付けてもらった。"
+        },
+        {
+          "pattern": "be properly installed",
+          "use": "適切に取り付けられた状態を示す。",
+          "example": "The heater must be properly installed before use.",
+          "translation": "その暖房器具は使用前に適切に設置されていなければならない。"
+        }
+      ],
+      "notes": [
+        "install a machine は「機械を設置する」で、機械を組み立てる assemble、操作する operate、始動させる start と同じではない。目的語を取るため、「技師が機器を設置した」は The technician installed the equipment.。受動態の be installed は設置の出来事にも設置済みの状態にも使える。英国では instal という綴りもあるが、install が一般的で、どちらの綴りでも installed・installing は l が2つ。"
+      ],
+      "synonyms": [
+        {
+          "word": "fit",
+          "definition": "部品・設備を所定の場所に取り付ける。",
+          "frequency": 7,
+          "difference": "特に英国英語でよく使い、サイズを合わせて取り付ける対象にも自然。",
+          "example": "A technician fitted a new valve to the pipe.",
+          "translation": "技師がその管に新しい弁を取り付けた。"
+        },
+        {
+          "word": "set up",
+          "definition": "機器・設備を使えるように準備する。",
+          "frequency": 8,
+          "difference": "固定工事を伴わない準備や接続にも広く使える句動詞。",
+          "example": "Please set up the projector before the meeting.",
+          "translation": "会議の前にプロジェクターを準備してください。"
+        },
+        {
+          "word": "mount",
+          "definition": "機器・物を台や壁などに固定する。",
+          "frequency": 6,
+          "difference": "支える面や構造物への固定に焦点があり、接続・使用準備全体を含むとは限らない。",
+          "example": "The camera is mounted on the wall.",
+          "translation": "そのカメラは壁に取り付けられている。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "remove",
+          "definition": "取り付けた物を取り外す・撤去する。",
+          "frequency": 9,
+          "difference": "設置位置に置くことに対する方向上の反対。物を破壊することは含意しない。",
+          "example": "They removed the old air conditioner.",
+          "translation": "彼らは古いエアコンを取り外した。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【動詞・他動詞】インストールする",
+      "frequency": 8,
+      "register": [
+        "コンピューター・一般。"
+      ],
+      "definition": "ソフトウェア・アプリ・更新プログラムなどをコンピューターや端末に導入し、利用できるようにする。ファイルを受信する download と同一ではなく、ダウンロード後に別の導入処理が必要なこともある。",
+      "patterns": [
+        "install 〈ソフトウェア〉＝ソフトウェアを導入する",
+        "install 〈アプリ〉 on 〈端末〉＝端末にアプリを導入する",
+        "install something from 〈媒体・入手元〉＝その媒体・入手元から導入する",
+        "be installed on 〈端末〉＝端末にインストールされている"
+      ],
+      "collocations": [
+        {
+          "pattern": "install an app on 〈端末〉",
+          "use": "端末を on で示す。",
+          "example": "She installed the app on her tablet.",
+          "translation": "彼女はそのアプリを自分のタブレットにインストールした。"
+        },
+        {
+          "pattern": "install the latest version",
+          "use": "新しい版を導入する。",
+          "example": "Please install the latest version of the software.",
+          "translation": "そのソフトウェアの最新版をインストールしてください。"
+        },
+        {
+          "pattern": "install something from 〈媒体〉",
+          "use": "導入元の媒体を示す。",
+          "example": "The technician installed the driver from a USB drive.",
+          "translation": "技師はUSBドライブからそのドライバーをインストールした。"
+        },
+        {
+          "pattern": "be installed on 〈端末〉",
+          "use": "導入済みの状態を述べる。",
+          "example": "The software is already installed on all company laptops.",
+          "translation": "そのソフトウェアは会社のすべてのノートパソコンにすでにインストールされている。"
+        }
+      ],
+      "notes": [
+        "install the app on your phone が基本で、端末そのものを目的語にして install your phone とすると「電話を設置する」という別の意味になり得る。installed software の installed は導入済みを示す過去分詞。download は入手、install は導入、update は更新で、それぞれ行為の焦点が異なる。語義3ではソフトを主語にして自動詞でも使う。"
+      ],
+      "synonyms": [
+        {
+          "word": "set up",
+          "definition": "ソフトやシステムを使用できるように準備する。",
+          "frequency": 8,
+          "difference": "インストールだけでなく、利用者情報や設定を整えることも含み得る。",
+          "example": "The administrator set up the accounting software for the team.",
+          "translation": "管理者はチームが使えるように会計ソフトを設定した。"
+        },
+        {
+          "word": "load",
+          "definition": "プログラムを機器やメモリーに読み込む。",
+          "frequency": 6,
+          "difference": "導入の意味と重なる場合があるが、実行時にメモリーへ読み込むことも表す。",
+          "example": "The technician loaded the control software onto the device.",
+          "translation": "技師はその機器に制御ソフトを読み込んだ。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "uninstall",
+          "definition": "インストールしたソフトを削除する。",
+          "frequency": 7,
+          "difference": "導入に対する方向上の反対。利用者が作ったファイルや全設定まで必ず消えるとは限らない。",
+          "example": "I uninstalled the app from my phone.",
+          "translation": "私は携帯電話からそのアプリをアンインストールした。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【動詞・自動詞】インストールされる",
+      "frequency": 6,
+      "register": [
+        "コンピューター。動作説明やトラブルの報告。"
+      ],
+      "definition": "ソフトウェアや更新プログラムを主語にして、その導入処理が行われることを表す。表面上は能動形だが、ソフトが自ら意思を持って作業するという意味ではない。",
+      "patterns": [
+        "〈ソフトウェア〉 + install automatically＝ソフトウェアが自動的に導入される",
+        "〈ソフトウェア〉 + install on 〈端末・システム〉＝ソフトウェアがその環境に導入される",
+        "〈ソフトウェア〉 + fail to install＝ソフトウェアの導入が失敗する"
+      ],
+      "collocations": [
+        {
+          "pattern": "〈更新プログラム〉 + install automatically",
+          "use": "自動導入の挙動を述べる。",
+          "example": "The update installs automatically when you restart the computer.",
+          "translation": "コンピューターを再起動すると、その更新プログラムは自動的にインストールされる。"
+        },
+        {
+          "pattern": "〈ソフトウェア〉 + install on 〈システム〉",
+          "use": "導入先との適合を述べる。",
+          "example": "The program will not install on this older system.",
+          "translation": "そのプログラムは、この古いシステムにはインストールできない。"
+        },
+        {
+          "pattern": "〈更新プログラム〉 + fail to install",
+          "use": "導入処理の失敗を報告する。",
+          "example": "The update failed to install because there was not enough disk space.",
+          "translation": "ディスク容量が足りなかったため、その更新プログラムのインストールは失敗した。"
+        }
+      ],
+      "notes": [
+        "The app installs automatically. は自動詞、The app is installed automatically. は語義2の他動詞の受動態で、どちらも自然。一般の物や人について何でもこの自動詞にできるわけではない。人が職に就く場合は She was installed as president. とし、She installed as president. とは通常いわない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・可算】インストール・導入作業",
+      "frequency": 5,
+      "register": [
+        "IT・ややくだけた技術的なやり取り。一般的な説明文では installation が無難。"
+      ],
+      "definition": "ソフトウェアを導入する一回の作業。IT分野では installation の短い言い方として使い、a clean install のような定着表現がある。",
+      "patterns": [
+        "an install of 〈ソフトウェア〉＝ソフトウェアの一回の導入",
+        "a clean install＝既存の導入状態を引き継がず行う新規導入",
+        "a fresh install＝新たに行うインストール",
+        "a failed install＝失敗したインストール"
+      ],
+      "collocations": [
+        {
+          "pattern": "a clean install",
+          "use": "以前の導入環境を引き継がない導入を指す。",
+          "example": "The technician recommended a clean install of the operating system.",
+          "translation": "技師は基本ソフトをクリーンインストールすることを勧めた。"
+        },
+        {
+          "pattern": "a fresh install",
+          "use": "新たな導入作業を示す。",
+          "example": "A fresh install took less than ten minutes.",
+          "translation": "新規インストールには10分もかからなかった。"
+        },
+        {
+          "pattern": "a failed install",
+          "use": "導入が成功しなかったことを指す。",
+          "example": "We checked the log after the failed install.",
+          "translation": "インストールが失敗した後、私たちはログを確認した。"
+        },
+        {
+          "pattern": "an install of 〈ソフトウェア〉",
+          "use": "導入対象を of で示す。",
+          "example": "An install of the full package requires more disk space.",
+          "translation": "完全版パッケージのインストールには、より多くのディスク容量が必要だ。"
+        }
+      ],
+      "notes": [
+        "動詞だけでなく名詞として a・the を伴い、複数は installs。a clean install は単なる「きれいな設置」ではない。具体的に何が削除・保持されるかは対象ソフトや手順によって異なり、この語だけでデータ保全を保証しない。住宅設備の取り付けなどを一般に名詞で述べるときは installation を使う。"
+      ],
+      "synonyms": [
+        {
+          "word": "installation",
+          "definition": "ソフトウェアを導入する作業。",
+          "frequency": 8,
+          "difference": "install より中立的で、説明書や一般向けの案内にも広く使える。",
+          "example": "The installation was completed successfully.",
+          "translation": "インストールは正常に完了した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【動詞・他動詞】就任させる・役職に就ける",
+      "frequency": 5,
+      "register": [
+        "正式な役職・政治・宗教・組織の人事。"
+      ],
+      "definition": "人を重要な役職・権限のある地位に据える。正式な就任式を伴う場合もあるが、式典を行うことがすべての用例の必須条件ではない。文脈によっては、権力を持つ側がその人物を据えるという含みが出る。",
+      "patterns": [
+        "install someone as 〈役職名〉＝人をその役職に就ける",
+        "install someone in office＝人を公職・地位に就ける",
+        "be installed as 〈役職名〉＝その役職に就任する",
+        "a newly installed 〈役職者〉＝新しく就任した役職者"
+      ],
+      "collocations": [
+        {
+          "pattern": "install someone as president",
+          "use": "正式な役職へ人を据える。",
+          "example": "The association installed Dr. Lee as president at its annual meeting.",
+          "translation": "その協会は年次総会でリー博士を会長に就任させた。"
+        },
+        {
+          "pattern": "be installed as chair",
+          "use": "就任する人物を主語にする。",
+          "example": "She was installed as chair of the board in April.",
+          "translation": "彼女は4月に理事会の議長に就任した。"
+        },
+        {
+          "pattern": "install someone in office",
+          "use": "公的な地位に就ける行為を述べる。",
+          "example": "The ceremony formally installed the new governor in office.",
+          "translation": "その式典によって、新しい知事は正式に就任した。"
+        },
+        {
+          "pattern": "a newly installed 〈役職者〉",
+          "use": "名詞前の過去分詞表現を示す。",
+          "example": "The newly installed director announced a review of the budget.",
+          "translation": "新たに就任した理事は予算の見直しを発表した。"
+        }
+      ],
+      "notes": [
+        "as president のように、役職名を補語として用いる場合は無冠詞がよく使われる。install someone as the new president のように特定する言い方もある。install は地位に据える局面を表し、選挙で選ぶ elect、採用する hire、候補を指名する nominate のいずれとも同義ではない。be installed は受動態で、再帰代名詞の省略形ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "appoint",
+          "definition": "人を役職に任命する。",
+          "frequency": 8,
+          "difference": "任命という決定を表す一般的な語で、就任式や実際に地位へ据える局面を必ずしも強調しない。",
+          "example": "The board appointed her as chief executive.",
+          "translation": "取締役会は彼女を最高経営責任者に任命した。"
+        },
+        {
+          "word": "induct",
+          "definition": "正式な手続きを経て役職や組織に迎え入れる。",
+          "frequency": 5,
+          "difference": "induct someone into office などといい、正式な導入手続きに焦点がある。",
+          "example": "The new members were inducted into the association.",
+          "translation": "新しい会員たちは正式に協会に迎え入れられた。"
+        },
+        {
+          "word": "inaugurate",
+          "definition": "正式に役職に就任させる。",
+          "frequency": 5,
+          "difference": "特に高位の公職への就任を式典と結びつけて述べやすい。",
+          "example": "The president was inaugurated in January.",
+          "translation": "大統領は1月に就任した。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "depose",
+          "definition": "統治者などを地位から退かせる。",
+          "frequency": 4,
+          "difference": "地位へ据えることに対する方向上の反対で、特に権力者の強制的な退位を表す。",
+          "example": "The ruler was deposed after the revolt.",
+          "translation": "その支配者は反乱の後に退位させられた。"
+        },
+        {
+          "word": "dismiss",
+          "definition": "人を職務・地位から解任する。",
+          "frequency": 7,
+          "difference": "職に就けることへの方向上の反対。従業員や役職者に広く使い、統治者に限らない。",
+          "example": "The board dismissed the director.",
+          "translation": "理事会はその理事を解任した。"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "【動詞・他動詞、再帰用法を含む】落ち着かせる・腰を据える",
+      "frequency": 4,
+      "register": [
+        "やや文語的・描写的。会話ではユーモラスに使うこともある。"
+      ],
+      "definition": "人を特定の部屋・席などに落ち着かせる。自分自身を目的語にする install oneself では、その場所に陣取る・腰を据えることを表す。ある程度落ち着いて過ごす含みがあり、単に一瞬座ることとは違う。",
+      "patterns": [
+        "install someone in 〈部屋・席〉＝人を部屋・席に落ち着かせる",
+        "install oneself in 〈部屋・席〉＝自分が部屋・席に腰を据える",
+        "install oneself at 〈机など〉＝自分が机などに陣取る",
+        "be installed in 〈場所〉＝その場所に落ち着いている"
+      ],
+      "collocations": [
+        {
+          "pattern": "install someone in 〈部屋〉",
+          "use": "客などが落ち着ける場所を用意する。",
+          "example": "We installed our guests in the upstairs bedroom.",
+          "translation": "私たちは客たちを上階の寝室に落ち着かせた。"
+        },
+        {
+          "pattern": "install oneself in 〈席〉",
+          "use": "自分が席に腰を落ち着ける。",
+          "example": "He installed himself in the armchair with a newspaper.",
+          "translation": "彼は新聞を手に、肘掛け椅子に腰を据えた。"
+        },
+        {
+          "pattern": "install oneself at 〈机など〉",
+          "use": "机などに陣取って過ごす。",
+          "example": "She installed herself at the kitchen table to finish the report.",
+          "translation": "彼女は報告書を仕上げるため、台所のテーブルに腰を据えた。"
+        },
+        {
+          "pattern": "be comfortably installed in 〈場所〉",
+          "use": "落ち着いている状態を表す。",
+          "example": "By evening, the visitors were comfortably installed in their rooms.",
+          "translation": "夕方までには、訪問客たちはそれぞれの部屋でくつろいでいた。"
+        }
+      ],
+      "notes": [
+        "能動形で「自分が腰を据える」なら install myself・install herself のように主語に一致する再帰代名詞が必要。She installed herself at the desk. と、She was installed at the desk. という受動・結果状態の形は別の構造。oneself の位置は動詞の直後で、install in the chair oneself とはしない。会社・習慣が「定着する」という意味に無制限に広げない。"
+      ],
+      "synonyms": [
+        {
+          "word": "settle",
+          "definition": "人を落ち着かせる、または自分が落ち着く。",
+          "frequency": 8,
+          "difference": "中立的で日常的。settle the guests in their rooms や settle into a chair のように構文が変わる。",
+          "example": "She settled into a comfortable chair.",
+          "translation": "彼女は座り心地のよい椅子に落ち着いた。"
+        },
+        {
+          "word": "ensconce",
+          "definition": "人を安全・快適な場所に落ち着かせる。",
+          "frequency": 3,
+          "difference": "さらに文語的で、居心地よく陣取って動かないような描写に適する。",
+          "example": "He ensconced himself by the fire.",
+          "translation": "彼は暖炉のそばにゆったりと陣取った。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

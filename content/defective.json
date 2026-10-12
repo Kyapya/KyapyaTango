@@ -1,0 +1,258 @@
+{
+  "word": "defective",
+  "slug": "defective",
+  "ipa": "米・英: /dɪˈfektɪv/",
+  "lead": "物の構造・品質・機能、論理や手続きなどに不備がある。正常な働きをしない場合に多いが、全く使えないこと、製造時の欠陥であること、必ず危険であることまでは意味しない。",
+  "updated": "2026-10-12",
+  "notion_url": "https://app.notion.com/p/defective-3f74faa9b77d816ea5cbee7340143fa6",
+  "pronunciation": [
+    "3音節で、第2音節 /fek/ に主強勢がある。第1音節と第3音節の母音はいずれも /ɪ/。名詞 defect の基本形 /ˈdiːfekt/ と比べると、主強勢が第2音節へ移り、第1音節の母音も /iː/ から /ɪ/ になる。"
+  ],
+  "etymology": [
+    "中英語の defectif、defectyve は、アングロフランス語 defectif を経て、後期ラテン語 dēfectīvus「不完全な、活用形を欠く」にさかのぼる。ラテン語 dēficere「不足する、機能しなくなる」につながる語で、形の上では defect と -ive の関係が見えるが、英語の名詞に現代になって単純に接尾辞を足しただけの歴史ではない。",
+    "defect「欠陥」、deficient「不足した」、deficit「不足額、赤字」は同じラテン語の語族。英語の defect の動詞義「離反する」に -ive を付けて「離反しやすい」と解釈することはできない。"
+  ],
+  "formation": [
+    {
+      "term": "defect",
+      "description": "名詞「欠陥」。動詞では「離反する」で、品詞によって意味が大きく変わる。"
+    },
+    {
+      "term": "defectively",
+      "description": "副詞。「欠陥のある形で、不完全に」。defectively designed は「設計に欠陥がある形で」の意味。"
+    },
+    {
+      "term": "defectiveness",
+      "description": "不可算名詞。「欠陥があること、不完全さ」。個別の欠陥の数は通常 defects で表す。"
+    },
+    {
+      "term": "non-defective",
+      "description": "形容詞。「不良ではない」。品質管理では所定の基準で不良とは判定されないものを指す。nondefective と続けて書く形もある。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "核は、その種類のものに期待される構造・機能・形のそろい方に不備や欠けがあること。物が不完全な状態、そう判定された品、通常ある活用形を欠く語という違いがある。"
+    },
+    {
+      "type": "item",
+      "text": "期待される構造・機能・形に不備がある状態 → 「欠陥のある、不完全な」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "期待される構造・機能・形に不備がある製品 → 「不良品、欠陥品」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "期待される構造・機能・形に不備がある活用体系 → 「活用形の一部を欠く」（語義3）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【形容詞・限定・叙述】欠陥のある、不完全な",
+      "frequency": 8,
+      "register": [
+        "一般・品質管理・技術・法律関連の説明。faulty よりやや硬く、検査・返品の文脈でも使う。"
+      ],
+      "definition": "物の構造・品質・機能、論理や手続きなどに不備がある。正常な働きをしない場合に多いが、全く使えないこと、製造時の欠陥であること、必ず危険であることまでは意味しない。",
+      "patterns": [
+        "a defective 〈単数可算名詞〉＝欠陥のある物",
+        "defective equipment＝欠陥のある機器",
+        "something is defective＝対象に欠陥がある",
+        "something seems defective＝対象に欠陥があるように見える",
+        "find something defective＝対象に欠陥があると判断する",
+        "defective in 〈面〉＝ある面に不備がある。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a defective part",
+          "use": "機器の不良部品を指す。",
+          "example": "A defective valve caused the pressure to drop.",
+          "translation": "欠陥のあるバルブが1個あり、それが圧力低下を引き起こした。"
+        },
+        {
+          "pattern": "defective equipment",
+          "use": "設備・機器の不具合を述べる。",
+          "example": "Do not operate defective equipment until it has been repaired.",
+          "translation": "欠陥のある機器は、修理が終わるまで操作しないでください。"
+        },
+        {
+          "pattern": "be defective",
+          "use": "対象に欠陥があると叙述する。",
+          "example": "Two of the switches were defective when they arrived.",
+          "translation": "スイッチのうち2個は、届いた時点で不良だった。"
+        },
+        {
+          "pattern": "seem defective",
+          "use": "欠陥があるように見えるが、確定していないことを示す。",
+          "example": "The charger seems defective, but we have not tested it yet.",
+          "translation": "その充電器は不良のようだが、私たちはまだ検査していない。"
+        },
+        {
+          "pattern": "find something defective",
+          "use": "検査などで対象を不良と判断する。",
+          "example": "The laboratory found both sensors defective.",
+          "translation": "検査室は、2個のセンサーをどちらも不良と判定した。"
+        },
+        {
+          "pattern": "defective reasoning",
+          "use": "論理の組み立てに不備があることを示す。",
+          "example": "The conclusion rests on defective reasoning.",
+          "translation": "その結論は、不備のある推論に基づいている。"
+        },
+        {
+          "pattern": "defective in 〈面〉",
+          "use": "どの面に不備があるかを限定する。",
+          "example": "The procedure is defective in its handling of complaints.",
+          "translation": "その手続きには、苦情の扱いの面で不備がある。"
+        }
+      ],
+      "notes": [
+        "a defective motor は名詞の前、The motor is defective. は補語の位置にある形容詞。通常は The motor is defect. や The motor is defected. としない。defect は名詞「欠陥」、defected は動詞「離反する」の過去形・過去分詞。partly defective、seriously defective、more defective のように不備の範囲・程度を比較できるが、検査基準に基づく合否区分では程度より「該当するか」が中心になる。broken は壊れた状態、damaged は損傷を受けた状態を強調し、defective は元からの設計・構造の問題にも使う。人を defective、a defective と呼ぶ古い用法は侮蔑的で、現代の人物紹介には使わない。医学で defective gene など特定の機能を記述する場合と、人全体にそのラベルを付ける場合を区別する。法律文書の defective は不備があるという意味で、その一語だけで当然に無効・取消しになると判断してはならない。"
+      ],
+      "synonyms": [
+        {
+          "word": "faulty",
+          "definition": "正しく作動しない、誤りや不具合のある。",
+          "frequency": 8,
+          "difference": "配線や機器、推論に広く使え、defective と近い。faulty は動作不良や誤り、defective は品質・構造上の不備を意識させやすい。",
+          "example": "Faulty wiring caused the lights to flicker.",
+          "translation": "配線の不具合で照明がちらついた。"
+        },
+        {
+          "word": "flawed",
+          "definition": "欠点や弱点がある。",
+          "frequency": 8,
+          "difference": "計画、議論、人物像などにも広く使い、完全ではない点を示す。defective は製品や機能についての不良判定に使いやすい。",
+          "example": "The study used a flawed sampling method.",
+          "translation": "その研究は、欠点のある抽出方法を用いていた。"
+        },
+        {
+          "word": "imperfect",
+          "definition": "完璧ではない。",
+          "frequency": 7,
+          "difference": "機能を妨げない軽微な違いにも使い、defective より弱い評価になり得る。",
+          "example": "The handmade bowls are slightly imperfect in shape.",
+          "translation": "その手作りの鉢は、形がわずかに不ぞろいだ。"
+        },
+        {
+          "word": "deficient",
+          "definition": "必要な量・要素・能力などが不足している。",
+          "frequency": 6,
+          "difference": "deficient in 〈不足するもの〉 と不足の中身を示しやすい。defective は不備があることを示し、量の不足に限らない。",
+          "example": "The soil is deficient in nitrogen.",
+          "translation": "その土壌は窒素が不足している。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "sound",
+          "definition": "欠陥がなく、構造・機能・論理がしっかりしている。",
+          "frequency": 7,
+          "difference": "構造や論理に不備がある defective と、その面で健全な sound は状態上の対立。単に新品であるかどうかの対立ではない。",
+          "example": "The frame is old but structurally sound.",
+          "translation": "その枠組みは古いが、構造的には健全だ。"
+        },
+        {
+          "word": "non-defective",
+          "definition": "検査基準上、不良とは判定されない。",
+          "frequency": 4,
+          "difference": "同じ検査基準で defective と非該当を分ける補完的な対立。考えられるあらゆる点で完全だという意味ではない。",
+          "example": "Non-defective units were returned to stock.",
+          "translation": "不良ではない製品は在庫に戻された。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算】不良品、欠陥品",
+      "frequency": 3,
+      "register": [
+        "品質管理・生産統計の専門的用法。一般的な接客では defective items や faulty products のほうが明確。"
+      ],
+      "definition": "品質検査などで不良と判定される製品や個体。特に複数形 defectives で、一定の集団に含まれる不良品の数や割合を表す。",
+      "patterns": [
+        "a defective＝不良品1個",
+        "the number of defectives＝不良品の個数",
+        "the proportion of defectives＝不良品の割合",
+        "defectives in a batch＝あるロットに含まれる不良品。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the number of defectives",
+          "use": "不良品の個体数を集計する。",
+          "example": "The chart shows the number of defectives in each sample.",
+          "translation": "その図は、各標本に含まれる不良品の個数を示している。"
+        },
+        {
+          "pattern": "the proportion of defectives",
+          "use": "検査した製品中の不良品割合を示す。",
+          "example": "The proportion of defectives fell after the process was adjusted.",
+          "translation": "工程を調整した後、不良品の割合が下がった。"
+        },
+        {
+          "pattern": "defectives in a batch",
+          "use": "特定のロットに含まれる不良品を数える。",
+          "example": "The inspector found three defectives in the batch of fifty units.",
+          "translation": "検査担当者は50個の製品からなるそのロットで、不良品を3個見つけた。"
+        }
+      ],
+      "notes": [
+        "a defective はこの領域では「欠陥1件」ではなく「不良品1個」。不良と判定された1個の製品に欠陥が3か所あるなら、欠陥数は three defects、不良品数は one defective となる。欠陥の存在と製品全体の不良判定は同じではなく、判定基準による。形容詞としての defective units の defective に複数語尾は付けないが、名詞の defectives には付ける。人を a defective と呼ぶ用法は古く侮蔑的であり、この工業製品の用法を人に拡張しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "reject",
+          "definition": "品質などの理由で不合格となった品。",
+          "frequency": 5,
+          "difference": "不良の存在より「検査で受け入れられなかった」という判定結果に焦点がある。規格外など、defective と全く同じ条件であるとは限らない。",
+          "example": "The rejects were separated from the finished goods.",
+          "translation": "不合格品は完成品から分けられた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【形容詞・限定・叙述】活用形の一部を欠く",
+      "frequency": 3,
+      "register": [
+        "文法・言語学の専門語。"
+      ],
+      "definition": "ある品詞に通常そろう活用形の一部を持たない。語形体系についての文法用語で、その語が誤った英語であるという意味ではない。",
+      "patterns": [
+        "a defective verb＝活用形の一部を欠く動詞",
+        "〈語〉 is defective＝その語には通常の活用形がすべてはそろわない",
+        "a defective paradigm＝一部の形が欠けた活用体系。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a defective verb",
+          "use": "不定詞や分詞など一部の形を持たない動詞を説明する。",
+          "example": "Must is a defective verb because it has no infinitive or participle forms.",
+          "translation": "must は不定詞形や分詞形を持たないため、活用形の一部を欠く動詞である。"
+        },
+        {
+          "pattern": "be defective",
+          "use": "特定の語の活用体系について述べる。",
+          "example": "This Latin verb is defective: several expected forms are missing.",
+          "translation": "このラテン語の動詞は活用形の一部を欠き、通常予想される形がいくつか存在しない。"
+        },
+        {
+          "pattern": "a defective paradigm",
+          "use": "語形の一覧に体系的な欠けがあることを示す。",
+          "example": "The dictionary marks the verb as having a defective paradigm.",
+          "translation": "その辞書は、この動詞に一部の形を欠く活用体系があると記している。"
+        }
+      ],
+      "notes": [
+        "defective と irregular は別。irregular verb は活用の仕方が規則的でない動詞で、形そのものが欠けているとは限らない。must は過去の事柄を表す文脈でも使われるため、「活用形が欠ける」ことを「過去のことについて一切使えない」と説明しない。ここでは形の有無が問題で、学習者が語尾を書き忘れたという誤文の意味ではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}

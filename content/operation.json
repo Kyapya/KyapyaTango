@@ -1,0 +1,665 @@
+{
+  "word": "operation",
+  "slug": "operation",
+  "ipa": "米: /ˌɑː.pəˈreɪ.ʃən/｜英: /ˌɒp.əˈreɪ.ʃən/。4音節で、第1音節に第二強勢、第3音節に主強勢がある。示した米英差は第1音節の母音 /ɑː/ と /ɒ/。第2音節の母音は /ə/、第4音節は /ʃən/。operate の第1音節の主強勢が、operation では第3音節へ移る。",
+  "lead": "機械・設備・制度などが働くこと、またはそれらを働かせる過程。業務の運営にも使う。in operation では稼働・実施中という状態を、come into operation ではその状態になることを表す。",
+  "updated": "2026-10-12",
+  "notion_url": "https://app.notion.com/p/operation-3f74faa9b77d81edbaabf3d36a61a719",
+  "pronunciation": [],
+  "etymology": [
+    "古フランス語を経てラテン語 operatio「働くこと・作業」に由来し、operari「働く」、opus（語幹 oper-）「仕事・作品」とつながる。英語の operate に単純に接尾辞を付けて初めて生まれた語とせず、借用語としての経路を区別する。operate「作動する・運営する」、operator「操作者」、opus「作品」は同じラテン語の語族に属する。"
+  ],
+  "formation": [
+    {
+      "term": "operate",
+      "description": "作動する・操作する・運営する・手術する、などを表す動詞。自他と前置詞に注意する。"
+    },
+    {
+      "term": "operational",
+      "description": "運用上の、作戦上の、または稼働可能な、という形容詞。"
+    },
+    {
+      "term": "operationally",
+      "description": "運用面で・作戦上、という副詞。"
+    },
+    {
+      "term": "operations manager",
+      "description": "業務の実行・運営を管理する責任者。operations は複数形を保つ。"
+    },
+    {
+      "term": "operations research",
+      "description": "業務上の意思決定を数理的に分析する分野。英国では operational research も用いる。"
+    },
+    {
+      "term": "preoperative",
+      "description": "手術前の、という医療用の形容詞。"
+    },
+    {
+      "term": "postoperative",
+      "description": "手術後の、という医療用の形容詞。"
+    }
+  ],
+  "core": [],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・不可算】作動・運転・運用",
+      "frequency": 8,
+      "register": [
+        "一般・業務・技術・行政。"
+      ],
+      "definition": "機械・設備・制度などが働くこと、またはそれらを働かせる過程。業務の運営にも使う。in operation では稼働・実施中という状態を、come into operation ではその状態になることを表す。",
+      "patterns": [
+        "the operation of 〈機械・制度・組織〉＝機械・制度・組織の作動・運営",
+        "during operation＝作動中に",
+        "in operation＝稼働・実施中で",
+        "come into operation＝稼働・実施が始まる",
+        "put something into operation＝物・計画を稼働・実施に移す",
+        "out of operation＝稼働していない状態で"
+      ],
+      "collocations": [
+        {
+          "pattern": "the safe operation of 〈機器〉",
+          "use": "安全な操作・運転を表す。",
+          "example": "Training is essential for the safe operation of this equipment.",
+          "translation": "この機器を安全に操作するには訓練が欠かせない。"
+        },
+        {
+          "pattern": "during operation",
+          "use": "作動している時間帯を示す。",
+          "example": "Do not open the cover during operation.",
+          "translation": "運転中はカバーを開けないでください。"
+        },
+        {
+          "pattern": "in operation",
+          "use": "実際に動いている状態を示す。",
+          "example": "Two backup generators are now in operation.",
+          "translation": "現在、予備発電機2台が稼働している。"
+        },
+        {
+          "pattern": "come into operation",
+          "use": "規則や仕組みの実施開始を表す。",
+          "example": "The new booking system will come into operation on Monday.",
+          "translation": "新しい予約システムは月曜日に運用が始まる。"
+        },
+        {
+          "pattern": "put something into operation",
+          "use": "人が計画などを実行に移す。",
+          "example": "The coordinator put the emergency plan into operation.",
+          "translation": "調整担当者は緊急時の計画を実行に移した。"
+        },
+        {
+          "pattern": "out of operation",
+          "use": "停止中の状態を表す。",
+          "example": "The conveyor will remain out of operation until Friday.",
+          "translation": "そのコンベヤーは金曜日まで停止したままになる。"
+        }
+      ],
+      "notes": [
+        "この意味では原則不可算で、in an operation とすると通常は「ある手術・作戦の中で」という別の解釈になる。in operation は状態、into operation は状態への移行。the operation of the machine では of 以下が対象を指定するので the を付けられる。機械を一回操作するなど、区切った処理は語義6の可算用法。"
+      ],
+      "synonyms": [
+        {
+          "word": "functioning",
+          "definition": "機器・仕組みが機能していること。",
+          "frequency": 6,
+          "difference": "働く側の状態や過程に焦点を置き、人が機器を操作する意味は直接表さない。",
+          "example": "The inspection confirmed the proper functioning of the alarm.",
+          "translation": "点検で警報装置が正常に機能していることが確認された。"
+        },
+        {
+          "word": "running",
+          "definition": "機械・施設・組織を動かすこと、または動いていること。",
+          "frequency": 7,
+          "difference": "日々の運営や継続的な稼働を表す、より日常的な名詞用法。",
+          "example": "She is responsible for the daily running of the office.",
+          "translation": "彼女は事務所の日常的な運営を担当している。"
+        },
+        {
+          "word": "implementation",
+          "definition": "計画・制度を実行に移すこと。",
+          "frequency": 7,
+          "difference": "稼働状態一般ではなく、決まった計画を現実に実施する過程を強調する。",
+          "example": "Implementation of the new procedure will begin in June.",
+          "translation": "新しい手順の実施は6月に始まる。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算】手術",
+      "frequency": 8,
+      "register": [
+        "医療・一般。英国のくだけた会話では op ともいう。"
+      ],
+      "definition": "外科的な方法で身体の病変や損傷などに処置を施す、一件の医療行為。具体的な手術には an operation、複数なら operations を用いる。",
+      "patterns": [
+        "have an operation＝手術を受ける",
+        "undergo an operation＝手術を受ける",
+        "perform an operation＝手術を行う",
+        "an operation on 〈人・身体部位〉＝人・身体部位の手術",
+        "an operation for 〈病気〉＝病気のための手術",
+        "an operation to do＝ある目的のための手術"
+      ],
+      "collocations": [
+        {
+          "pattern": "have an operation on 〈身体部位〉",
+          "use": "患者が身体の一部の手術を受ける。",
+          "example": "He had an operation on his left knee last month.",
+          "translation": "彼は先月、左膝の手術を受けた。"
+        },
+        {
+          "pattern": "undergo an operation",
+          "use": "患者側の経験をやや正式に述べる。",
+          "example": "She will undergo an operation next week.",
+          "translation": "彼女は来週、手術を受ける予定だ。"
+        },
+        {
+          "pattern": "perform an operation",
+          "use": "医師側の行為を述べる。",
+          "example": "The surgeon performed the operation this morning.",
+          "translation": "その外科医は今朝、その手術を行った。"
+        },
+        {
+          "pattern": "an operation for 〈病気〉",
+          "use": "手術が必要になった病気を示す。",
+          "example": "He is recovering from an operation for appendicitis.",
+          "translation": "彼は虫垂炎の手術から回復しつつある。"
+        },
+        {
+          "pattern": "an operation to do",
+          "use": "外科的処置の目的を示す。",
+          "example": "The operation to remove the tumor lasted two hours.",
+          "translation": "その腫瘍を取り除く手術は2時間かかった。"
+        }
+      ],
+      "notes": [
+        "患者は have・undergo、医師は perform・carry out を主に使う。have an operation は通常「手術を受ける」で、「執刀する」ではない。an operation on the knee と operate on the knee は、それぞれ名詞句と動詞句。surgery は手術一般では通常不可算だが、operation は一件を数えられる。"
+      ],
+      "synonyms": [
+        {
+          "word": "surgery",
+          "definition": "外科手術・外科的治療。",
+          "frequency": 8,
+          "difference": "手術という治療分野・行為を通常不可算で表す。operation は個々の手術を数える際に使いやすい。",
+          "example": "The injury may require surgery.",
+          "translation": "そのけがには手術が必要になるかもしれない。"
+        },
+        {
+          "word": "surgical procedure",
+          "definition": "外科的な処置。",
+          "frequency": 6,
+          "difference": "医療上の具体的な手順・処置を強調する正式な表現で、規模の大きさは限定しない。",
+          "example": "The doctor explained the surgical procedure.",
+          "translation": "医師はその外科的処置について説明した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・通常複数形】業務・事業活動",
+      "frequency": 8,
+      "register": [
+        "ビジネス・組織運営。"
+      ],
+      "definition": "企業や組織が商品・サービスを提供するために行う、日々の活動や事業の一連の仕事。通常 operations といい、活動地域や事業分野ごとに複数の業務をまとめて指すこともある。",
+      "patterns": [
+        "day-to-day operations＝日々の業務",
+        "expand operations＝事業活動を拡大する",
+        "suspend operations＝業務・操業を一時停止する",
+        "resume operations＝業務・操業を再開する",
+        "overseas operations＝海外での事業活動"
+      ],
+      "collocations": [
+        {
+          "pattern": "day-to-day operations",
+          "use": "日常的な運営業務を指す。",
+          "example": "She oversees the warehouse’s day-to-day operations.",
+          "translation": "彼女は倉庫の日々の業務を統括している。"
+        },
+        {
+          "pattern": "expand operations into 〈市場・地域〉",
+          "use": "新たな地域に事業活動を広げる。",
+          "example": "The firm plans to expand its operations into Southeast Asia.",
+          "translation": "その会社は事業活動を東南アジアへ拡大する計画だ。"
+        },
+        {
+          "pattern": "suspend operations",
+          "use": "一時的に操業や営業を止める。",
+          "example": "The plant suspended operations after the power failure.",
+          "translation": "その工場は停電の後、操業を一時停止した。"
+        },
+        {
+          "pattern": "resume operations",
+          "use": "中断した事業活動を再開する。",
+          "example": "The ferry company resumed operations on Tuesday.",
+          "translation": "そのフェリー会社は火曜日に運航業務を再開した。"
+        },
+        {
+          "pattern": "streamline operations",
+          "use": "業務の無駄を減らして効率化する。",
+          "example": "The retailer introduced new software to streamline operations.",
+          "translation": "その小売業者は業務を効率化するため、新しいソフトウェアを導入した。"
+        }
+      ],
+      "notes": [
+        "日常業務を総称する際は operations が定着している。These operations require trained staff. のように複数の活動を主語にすれば複数扱いになる。単数の an operation なら一つの事業体（語義5）や計画的作業（語義4）などを指し得る。operations manager の operations は名詞を前から修飾しても通常 s を残す。"
+      ],
+      "synonyms": [
+        {
+          "word": "business activities",
+          "definition": "会社が行う事業上の活動。",
+          "frequency": 7,
+          "difference": "販売・投資などを広く含み、日々の実行業務だけに限定しない。",
+          "example": "The report summarizes our business activities abroad.",
+          "translation": "その報告書は当社の海外での事業活動を要約している。"
+        },
+        {
+          "word": "business",
+          "definition": "日常的な業務や取引。",
+          "frequency": 9,
+          "difference": "広い不可算名詞で、事業活動の各過程や実務運営を細分化しない。",
+          "example": "The office is open for business as usual.",
+          "translation": "その事務所は通常どおり業務を行っている。"
+        },
+        {
+          "word": "work",
+          "definition": "組織・人が行う仕事。",
+          "frequency": 10,
+          "difference": "最も一般的で、商業性や運営業務という性質を語自体では限定しない。",
+          "example": "The storm interrupted work at the port.",
+          "translation": "嵐で港の作業が中断した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・可算】計画的な活動・作業・作戦",
+      "frequency": 7,
+      "register": [
+        "一般・報道・軍事・業務。"
+      ],
+      "definition": "特定の目的に向けて手順や人員を組み合わせて行う、一まとまりの活動。救助・警察活動・軍事作戦のほか、複雑で段取りを要する作業にも使う。必ず大人数で行うとは限らない。",
+      "patterns": [
+        "a rescue operation＝救助活動",
+        "launch an operation＝活動・作戦を開始する",
+        "an operation to do＝ある目的の活動・作戦",
+        "an operation against 〈標的〉＝標的に対する作戦",
+        "a complex operation＝複雑な作業"
+      ],
+      "collocations": [
+        {
+          "pattern": "launch a rescue operation",
+          "use": "組織的な救助を開始する。",
+          "example": "The coast guard launched a rescue operation before dawn.",
+          "translation": "沿岸警備隊は夜明け前に救助活動を開始した。"
+        },
+        {
+          "pattern": "an operation to do",
+          "use": "目的を不定詞で説明する。",
+          "example": "The operation to move the archive took three days.",
+          "translation": "その資料保管庫を移転する作業には3日かかった。"
+        },
+        {
+          "pattern": "an operation against 〈標的〉",
+          "use": "犯罪組織などへの対処活動を表す。",
+          "example": "Police began an operation against the smuggling network.",
+          "translation": "警察はその密輸網に対する捜査・摘発作戦を開始した。"
+        },
+        {
+          "pattern": "a joint military operation",
+          "use": "複数の部隊・国が共同で行う作戦。",
+          "example": "The two countries conducted a joint military operation.",
+          "translation": "その2か国は共同軍事作戦を実施した。"
+        },
+        {
+          "pattern": "a delicate operation",
+          "use": "慎重な段取り・扱いを要する作業。",
+          "example": "Moving the glass model was a delicate operation.",
+          "translation": "そのガラス製の模型を運ぶのは、慎重さを要する作業だった。"
+        }
+      ],
+      "notes": [
+        "軍事の operations は複数形で作戦活動全般を指すこともある。手術（語義2）と同じ perform・carry out・conduct などを使うが、rescue・military・目的の不定詞などが意味を限定する。a delicate operation は医療にも一般作業にも使えるので、何を行うかを文脈で確認する。"
+      ],
+      "synonyms": [
+        {
+          "word": "mission",
+          "definition": "達成すべき特定の任務・使命。",
+          "frequency": 7,
+          "difference": "割り当てられた目的・任務に焦点を当て、実行全体の段取りを指すとは限らない。",
+          "example": "The crew completed the rescue mission.",
+          "translation": "乗組員は救助任務を完了した。"
+        },
+        {
+          "word": "campaign",
+          "definition": "ある目標に向けた継続的・組織的な活動。",
+          "frequency": 8,
+          "difference": "一回のまとまった作業より、期間のある一連の活動を表しやすい。",
+          "example": "The city launched a campaign to reduce waste.",
+          "translation": "市は廃棄物を減らすための運動を開始した。"
+        },
+        {
+          "word": "undertaking",
+          "definition": "実行することにした事業・大きな仕事。",
+          "frequency": 6,
+          "difference": "労力や責任を伴う仕事として捉える、やや改まった語。",
+          "example": "Restoring the bridge was a major undertaking.",
+          "translation": "その橋を修復するのは大がかりな仕事だった。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞・可算】事業体・事業部門",
+      "frequency": 6,
+      "register": [
+        "ビジネス・報道。"
+      ],
+      "definition": "一つのまとまった仕組みとして運営される企業・事業・部門。法的に独立した会社だけでなく、特定地域の拠点や一部門も指す。規模は大きい場合にも小さい場合にも使える。",
+      "patterns": [
+        "a 〈形容詞〉 operation＝その性質・規模の事業体",
+        "run an operation＝事業体を運営する",
+        "set up an operation in 〈地域〉＝地域に事業体・拠点を設ける",
+        "someone’s 〈地域〉 operation＝人・会社のその地域の事業部門"
+      ],
+      "collocations": [
+        {
+          "pattern": "a small operation",
+          "use": "小規模な事業体を指す。",
+          "example": "It is a small operation with only five employees.",
+          "translation": "それは従業員がわずか5人の小規模な事業体だ。"
+        },
+        {
+          "pattern": "run a family-owned operation",
+          "use": "家族所有の事業を運営する。",
+          "example": "They run a family-owned operation that makes wooden toys.",
+          "translation": "彼らは木製玩具を作る家族所有の事業を営んでいる。"
+        },
+        {
+          "pattern": "set up an operation in 〈地域〉",
+          "use": "事業を行う拠点・部門を開く。",
+          "example": "The company set up an operation in Canada.",
+          "translation": "その会社はカナダに事業拠点を設けた。"
+        },
+        {
+          "pattern": "someone’s overseas operation",
+          "use": "一つの海外事業部門を特定する。",
+          "example": "The group sold its overseas operation last year.",
+          "translation": "そのグループは昨年、海外事業部門を売却した。"
+        }
+      ],
+      "notes": [
+        "数えられるので a large operation・two operations のように使う。複数の overseas operations は複数拠点・事業体を指す場合と、海外での事業活動（語義3）を指す場合がある。operation だけで法人格、会社規模、黒字経営を含意しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "business",
+          "definition": "商品・サービスを提供する事業体。",
+          "frequency": 9,
+          "difference": "最も一般的で、小店舗から大企業まで幅広い。",
+          "example": "She owns a catering business.",
+          "translation": "彼女はケータリング事業を所有している。"
+        },
+        {
+          "word": "enterprise",
+          "definition": "組織された事業体・企業。",
+          "frequency": 7,
+          "difference": "事業活動を組織として捉える、やや改まった語。",
+          "example": "The region supports small enterprises.",
+          "translation": "その地域は小規模企業を支援している。"
+        },
+        {
+          "word": "venture",
+          "definition": "新しく始める事業。",
+          "frequency": 6,
+          "difference": "新規性や事業上のリスクを感じさせやすく、既存の日常運営だけを指すとは限らない。",
+          "example": "The new venture provides online training.",
+          "translation": "その新事業はオンライン研修を提供している。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【名詞・可算を中心に不可算用法もある】操作・処理・工程",
+      "frequency": 6,
+      "register": [
+        "技術・情報処理・製造。"
+      ],
+      "definition": "機械・コンピューター・人が実行する、区切りのある一つの操作や処理。製造工程中の作業にも使う。一回・一単位の処理は可算で、処理の働きや方式を一括して述べる場合は不可算にもなる。",
+      "patterns": [
+        "perform an operation＝操作・処理を実行する",
+        "in a single operation＝一回の操作で",
+        "an operation on 〈データ・対象〉＝データ・対象に対する処理",
+        "a sequence of operations＝一連の操作・工程"
+      ],
+      "collocations": [
+        {
+          "pattern": "perform an operation",
+          "use": "機械・プログラムが個別処理を実行する。",
+          "example": "The application cannot perform this operation while the file is open.",
+          "translation": "そのアプリケーションは、ファイルが開いている間はこの処理を実行できない。"
+        },
+        {
+          "pattern": "in a single operation",
+          "use": "一つの操作でまとめて処理する。",
+          "example": "You can rename all the selected files in a single operation.",
+          "translation": "選択したファイルすべての名前を、一回の操作で変更できます。"
+        },
+        {
+          "pattern": "an operation on 〈データ〉",
+          "use": "処理が適用される対象を示す。",
+          "example": "The program records every operation on the database.",
+          "translation": "そのプログラムはデータベースに対するすべての操作を記録する。"
+        },
+        {
+          "pattern": "a sequence of operations",
+          "use": "決まった順序で行う作業を述べる。",
+          "example": "The manual explains the sequence of operations needed to shape the metal.",
+          "translation": "そのマニュアルは金属を成形するために必要な作業の順序を説明している。"
+        }
+      ],
+      "notes": [
+        "a single operation の operation は個別の処理であり、during operation「稼働中」（語義1）の不可算用法と区別する。operation on the database の on は処理対象で、手術対象ではない。この語だけで一回のクリック、コンピューターの一命令、処理の成功などを保証するものではなく、何を一単位とするかは文脈による。"
+      ],
+      "synonyms": [
+        {
+          "word": "action",
+          "definition": "ユーザーやシステムが実行する一つの動作。",
+          "frequency": 7,
+          "difference": "画面操作などの動作に広く使い、内部の処理手順まで特定しない。",
+          "example": "This action closes the current window.",
+          "translation": "この操作で現在のウィンドウが閉じる。"
+        },
+        {
+          "word": "step",
+          "definition": "手順を構成する一段階。",
+          "frequency": 8,
+          "difference": "全体の中での順序・段階に焦点があり、一段階に複数の処理が含まれることもある。",
+          "example": "Repeat the final step for each file.",
+          "translation": "各ファイルについて最後の手順を繰り返してください。"
+        },
+        {
+          "word": "process",
+          "definition": "一定の結果を得るための一連の処理。",
+          "frequency": 8,
+          "difference": "operation 一回より広い処理全体を表すことが多いが、範囲は文脈次第。",
+          "example": "The conversion process takes several minutes.",
+          "translation": "その変換処理には数分かかる。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【名詞・不可算】作用・働き",
+      "frequency": 5,
+      "register": [
+        "説明的な文章・学術。by operation of law は法律上の定型表現。"
+      ],
+      "definition": "力・要因・物質などが影響を及ぼすこと、またはその働き。単に機器を運転することではなく、何かに効果を生じさせる側面を表す。法律の効力が結果を生じさせる用法もある。",
+      "patterns": [
+        "the operation of 〈力・要因〉＝力・要因の作用",
+        "the operation of 〈力・物質〉 on 〈対象〉＝力・物質が対象に及ぼす作用",
+        "by operation of law＝法律の適用・効力によって"
+      ],
+      "collocations": [
+        {
+          "pattern": "the operation of market forces",
+          "use": "需要・供給などの市場要因の働きを述べる。",
+          "example": "The report examines the operation of market forces in the housing sector.",
+          "translation": "その報告書は、住宅分野における市場要因の作用を検討している。"
+        },
+        {
+          "pattern": "the operation of 〈力〉 on 〈対象〉",
+          "use": "作用する力と作用を受ける対象を区別する。",
+          "example": "The diagram illustrates the operation of gravity on a falling object.",
+          "translation": "その図は、落下する物体に重力がどのように作用するかを示している。"
+        },
+        {
+          "pattern": "by operation of law",
+          "use": "法律の効力によって権利などが生じることを表す。",
+          "example": "The text distinguishes rights created by agreement from rights arising by operation of law.",
+          "translation": "その文書は、合意によって生じる権利と、法律の効力によって生じる権利を区別している。"
+        }
+      ],
+      "notes": [
+        "of の後ろは作用する力・要因、on の後ろは作用を受ける対象。by operation of law は「法律を運営することで」ではなく、法の適用によって効果が生じること。典型的には、当事者がその効果のための個別の合意・行為をしなくても、一定の事実に法が適用されて権利・義務などが生じる場合に使う。具体的な成立条件は法域・制度による。a law in operation は「施行・適用されている法律」という語義1の状態表現で、by operation of law と同じ構文ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "action",
+          "definition": "力・物質などの作用。",
+          "frequency": 6,
+          "difference": "特に物理・化学・薬剤などの働きに使い、the action of ... on ... の形も取る。",
+          "example": "The study examines the action of the chemical on the surface.",
+          "translation": "その研究は、その化学物質が表面に及ぼす作用を調べている。"
+        },
+        {
+          "word": "influence",
+          "definition": "人・状況などに及ぼす影響。",
+          "frequency": 8,
+          "difference": "物理的な作動に限らず、間接的な影響や方向づけを広く表す。",
+          "example": "The paper discusses the influence of advertising on consumer choices.",
+          "translation": "その論文は、広告が消費者の選択に及ぼす影響を論じている。"
+        },
+        {
+          "word": "effect",
+          "definition": "働きかけによって生じる影響・効果。",
+          "frequency": 9,
+          "difference": "operation が作用する働きに焦点を当てるのに対し、その結果や変化に焦点を置きやすい。",
+          "example": "The change had little effect on demand.",
+          "translation": "その変化は需要にほとんど影響を与えなかった。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【名詞・複数形】業務運営部門",
+      "frequency": 5,
+      "register": [
+        "企業の組織・職務。くだけた略称は ops。"
+      ],
+      "definition": "組織の生産・サービス提供などの実行を担い、業務を効率的に進める部門や職能。通常 operations の形で部門名のように用い、具体的な組織内での担当範囲は会社によって異なる。",
+      "patterns": [
+        "work in operations＝業務運営部門で働く",
+        "the operations department＝業務運営部門",
+        "the head of operations＝業務運営部門の責任者",
+        "contact operations＝業務運営部門に連絡する"
+      ],
+      "collocations": [
+        {
+          "pattern": "work in operations",
+          "use": "所属する職能・部門を述べる。",
+          "example": "I work in operations rather than sales.",
+          "translation": "私は営業ではなく、業務運営部門で働いている。"
+        },
+        {
+          "pattern": "the operations department",
+          "use": "部署として明示する。",
+          "example": "The operations department coordinates deliveries.",
+          "translation": "業務運営部門が配送を調整している。"
+        },
+        {
+          "pattern": "the head of operations",
+          "use": "部門の責任者を指す。",
+          "example": "The head of operations approved the revised schedule.",
+          "translation": "業務運営部門の責任者が改訂後の日程を承認した。"
+        },
+        {
+          "pattern": "contact operations",
+          "use": "担当部署への連絡を述べる。",
+          "example": "Please contact operations if a shipment is delayed.",
+          "translation": "出荷が遅れた場合は、業務運営部門に連絡してください。"
+        }
+      ],
+      "notes": [
+        "ここでは activities そのもの（語義3）から、それを担う部門・職能へ意味が移っている。work in operation と単数にして部門を表すのは通常不自然。the operations department を主語にすれば文法上の中心は単数の department。部門名として operations 単独を主語にする際の動詞の一致には組織名扱いや英米の集団名詞の扱いが関係するため、常に複数動詞と決めつけない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 9,
+      "title": "【名詞・可算】演算",
+      "frequency": 5,
+      "register": [
+        "数学・情報処理。"
+      ],
+      "definition": "数・式・数学的な対象に一定の規則を適用して結果を得る処理。加法・減法・乗法・除法などが例で、計算の答えそのものではない。",
+      "patterns": [
+        "a mathematical operation＝数学的な演算",
+        "perform an operation on 〈数・式〉＝数・式に演算を行う",
+        "the order of operations＝演算の順序",
+        "an inverse operation＝逆の働きをする演算"
+      ],
+      "collocations": [
+        {
+          "pattern": "the four basic operations",
+          "use": "四則演算を指す。",
+          "example": "The lesson introduces the four basic operations of arithmetic.",
+          "translation": "その授業では算術の四則演算を紹介する。"
+        },
+        {
+          "pattern": "perform an operation on 〈数〉",
+          "use": "演算対象を on で示す。",
+          "example": "Perform the same operation on both numbers.",
+          "translation": "両方の数に同じ演算を行ってください。"
+        },
+        {
+          "pattern": "the order of operations",
+          "use": "式を評価する順序を述べる。",
+          "example": "Use brackets to make the order of operations clear.",
+          "translation": "演算の順序を明確にするため、括弧を使ってください。"
+        },
+        {
+          "pattern": "an inverse operation",
+          "use": "ある演算の効果を戻す演算を述べる。",
+          "example": "Subtraction is the inverse operation of addition.",
+          "translation": "減法は加法の逆演算である。"
+        }
+      ],
+      "notes": [
+        "operation は「どの処理を施すか」、result は「その結果」、operator は文脈により演算を表す記号や作用するもの、operand は演算の対象。コンピューターの operation（語義6）はファイル移動なども含み、必ず数値の演算とは限らない。"
+      ],
+      "synonyms": [
+        {
+          "word": "calculation",
+          "definition": "数値や式を使って答えを求める計算。",
+          "frequency": 7,
+          "difference": "答えを求める作業全体を指し、一つの calculation が複数の operations を含むこともある。",
+          "example": "The calculation requires both multiplication and addition.",
+          "translation": "その計算には乗法と加法の両方が必要だ。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
