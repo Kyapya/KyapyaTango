@@ -44,7 +44,7 @@
   "senses": [
     {
       "number": 1,
-      "title": "【動詞・自動詞】通勤する、定期的に通う",
+      "title": "【動詞・自動詞／他動詞〈距離〉】通勤する、定期的に通う",
       "frequency": 8,
       "register": [
         "一般、仕事、交通、住居。"
@@ -94,7 +94,7 @@
           "pattern": "someone + commute 〈距離〉",
           "use": "移動距離を示す。",
           "example": "He commutes twenty kilometres each way to the factory.",
-          "translation": "彼は、工場まで片道20キロメートルを通勤している。"
+          "translation": "彼は、片道20キロメートルの距離を移動して工場へ通勤している。"
         },
         {
           "pattern": "commute to school",
@@ -104,7 +104,7 @@
         }
       ],
       "notes": [
-        "commute to work の work は職場・仕事への行き先で、自動詞用法。通常は commute the office ではなく commute to the office。commute twenty kilometres の距離表現は移動の程度を示し、「20キロメートルという物を運ぶ」他動詞にはならない。by train、by car、by bicycle は原則として冠詞なし、徒歩は on foot。主語は通う人で、乗客を運ぶ交通機関の運行を述べるなら shuttle などを使う。文脈で経路が分かれば Do you commute? のように場所を省ける。受動の be commuted は、この通勤義ではなく減刑などの他動詞義になりやすい。"
+        "commute to work の work は職場・仕事への行き先で、自動詞用法。通常は commute the office ではなく commute to the office。commute twenty kilometres の距離表現は移動距離を示す。距離を目的語とする他動詞用法として扱う辞書もあるが、物を運ぶ意味ではない。by train、by car、by bicycle は原則として冠詞なし、徒歩は on foot。主語は通う人で、乗客を運ぶ交通機関の運行を述べるなら shuttle などを使う。文脈で経路が分かれば Do you commute? のように場所を省ける。受動の be commuted は、この通勤義ではなく減刑などの他動詞義になりやすい。"
       ],
       "synonyms": [
         {
@@ -113,7 +113,7 @@
           "frequency": 10,
           "difference": "定期性や通勤目的を含まない広い語。commute は繰り返し通う関係を意識させる。",
           "example": "She travels to different branches to train new staff.",
-          "translation": "彼女は、新人職員を研修するために各支店へ出向く。"
+          "translation": "彼女は、新人職員に研修を行うために各支店へ出向く。"
         },
         {
           "word": "shuttle",
@@ -335,7 +335,7 @@
       "patterns": [
         "A and B commute＝AとBが可換である。",
         "A commutes with B＝AはBと可換である。",
-        "A and B do not commute＝AとBの順序を交換すると結果が変わる。"
+        "A and B do not commute＝AとBは可換ではなく、適用順序によって結果が異なる場合がある。"
       ],
       "collocations": [
         {
