@@ -1,0 +1,352 @@
+{
+  "word": "deduction",
+  "slug": "deduction",
+  "ipa": "米・英: /dɪˈdʌkʃən/。3音節で、第2音節に主強勢がある。語尾の -tion は /ʃən/。動詞 deduct /dɪˈdʌkt/ の最後に単純に「ション」を加えるのではなく、/t/ に相当する位置が /ʃ/ になる。複数形 deductions の語尾は /z/。",
+  "lead": "総額・数量から一部を引く処理、または引かれる金額・点数など。処理全般をいうときは不可算、個別の控除項目や金額・減点をいうときは可算。給与から税や保険料を天引きすること、返金から手数料を引くこと、競技で点数を引くことなどを含む。税を計算する前の所得控除は語義2で扱う。",
+  "updated": "2026-10-12",
+  "notion_url": "https://app.notion.com/p/deduction-3f74faa9b77d818ea1b6c81b29cd18a5",
+  "pronunciation": [],
+  "etymology": [
+    "中英語 deduccioun にさかのぼり、アングロ・フランス語を経た形と、ラテン語 deductio「導き去ること」に由来する語である。ラテン語 deducere「導き下ろす、連れ去る」の語族で、de-「下へ、離して」と ducere「導く」を含む。",
+    "現代英語では、金額を「差し引く」系列は deduct、事実から結論を「導く」系列は deduce と対応する。歴史的に同じ語族だからといって、現代の控除を推論の一種と説明したり、推論を単なる引き算と説明したりしない。conduct「導く、行う」と introduce「紹介する、導入する」も ducere に関係する同根語である。"
+  ],
+  "formation": [
+    {
+      "term": "deduct",
+      "description": "他動詞。「金額・数量を差し引く」。deduct a fee from a refund「返金から手数料を差し引く」。推論を表す通常の動詞 deduce と区別する。"
+    },
+    {
+      "term": "deduce",
+      "description": "他動詞。「事実から推論する」。deduce something from the evidence「証拠から何かを推論する」。推論系の deduction に対応する。"
+    },
+    {
+      "term": "deductive",
+      "description": "形容詞。「演繹的な、演繹による」。deductive reasoning「演繹的推論」。deduction の控除義に対応する「控除可能な」ではない。"
+    },
+    {
+      "term": "deductively",
+      "description": "副詞。「演繹的に」。reason deductively「演繹的に推論する」。思考・論証の方法を修飾する。"
+    },
+    {
+      "term": "deductible",
+      "description": "形容詞。「控除できる」。米語の可算名詞では保険の「自己負担額」。a deduction は一般に差し引くことや額、a deductible は特定の保険契約上の自己負担額であり、常に交換できるわけではない。"
+    }
+  ],
+  "core": [],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・不可算／可算】差し引き、控除、差し引かれる額、減点",
+      "frequency": 7,
+      "register": [
+        "給与、会計、経費精算、料金、採点・スポーツ。日常にも使うが、何をどこから引くかを明示する事務的な説明で多い。"
+      ],
+      "definition": "総額・数量から一部を引く処理、または引かれる金額・点数など。処理全般をいうときは不可算、個別の控除項目や金額・減点をいうときは可算。給与から税や保険料を天引きすること、返金から手数料を引くこと、競技で点数を引くことなどを含む。税を計算する前の所得控除は語義2で扱う。",
+      "patterns": [
+        "a deduction from 〈給与・総額〉＝給与・総額からの控除",
+        "a deduction of 〈金額・点数〉＝その金額・点数の控除",
+        "a deduction for 〈費目・理由〉＝費目・理由に応じた控除",
+        "make a deduction from 〈総額〉＝総額から控除を行う",
+        "after deduction of 〈差し引く項目〉＝その項目を控除した後に",
+        "before deductions＝各種控除前に",
+        "a points deduction＝競技での減点。"
+      ],
+      "collocations": [
+        {
+          "pattern": "deductions from someone's pay",
+          "use": "給与から引かれる複数の項目をまとめて示す。",
+          "example": "Her payslip lists all the deductions from her pay.",
+          "translation": "彼女の給与明細には、給与から差し引かれた項目がすべて載っている。"
+        },
+        {
+          "pattern": "a deduction of 〈金額〉",
+          "use": "差し引く額の大きさを of で示す。",
+          "example": "There was a deduction of 15 euros from the refund for postage.",
+          "translation": "返金から郵送料として15ユーロが差し引かれていた。"
+        },
+        {
+          "pattern": "make a deduction for 〈費目〉",
+          "use": "控除の理由・項目を for で示す。",
+          "example": "The landlord made a deduction for cleaning from the deposit.",
+          "translation": "家主は、保証金から清掃費を差し引いた。"
+        },
+        {
+          "pattern": "after deduction of tax",
+          "use": "税の天引き後であることを示す。",
+          "example": "The interest payment was 90 pounds after deduction of tax.",
+          "translation": "利息の支払額は、税の天引き後で90ポンドだった。"
+        },
+        {
+          "pattern": "before deductions",
+          "use": "手取り額と控除前の額を区別する。",
+          "example": "His monthly pay is 3,200 euros before deductions.",
+          "translation": "彼の月給は、各種控除前で3,200ユーロだ。"
+        },
+        {
+          "pattern": "a points deduction",
+          "use": "金銭以外に、競技で課される減点を表す。",
+          "example": "The club appealed against the three-point deduction.",
+          "translation": "クラブは、その3点の減点に対して異議を申し立てた。"
+        }
+      ],
+      "notes": [
+        "a deduction from pay の from は引く元、a deduction of 20 dollars の of は引く額、a deduction for meals の for は費目を示す。一方、deduction of tax の of は差し引く項目そのものを示し、of の後は金額だけに限らない。after deduction of tax は処理を不可算で表し、after deductions は個々の控除を複数でまとめる。",
+        "誤: many deduction from my salary → 正: many deductions from my salary。a deduction、two deductions は正しいが、処理一般の automatic deduction「自動控除」に機械的に a を付ける必要はない。deduction from the evidence は通常、証拠から何かを差し引くことではなく語義3の推論を表すため、from だけで意味を決めず、後続名詞も見る。",
+        "給与から税額を引く deduction of tax と、所得税の計算上認められる tax deduction は同じではない。日本語の「控除」だけで処理を同一視しない。減点には a two-point deduction のような単数 point の複合修飾や、a deduction of two points を使う。"
+      ],
+      "synonyms": [
+        {
+          "word": "subtraction",
+          "definition": "数や量から別の数や量を引くこと。",
+          "frequency": 6,
+          "difference": "計算操作に焦点がある。deduction は給与・費用などの特定の控除や、引かれた額そのものを表しやすい。",
+          "example": "The calculation involves one multiplication and one subtraction.",
+          "translation": "その計算には、掛け算1回と引き算1回が含まれる。"
+        },
+        {
+          "word": "withholding",
+          "definition": "支払金の一部を渡さず、特に税などのために留保すること。",
+          "frequency": 5,
+          "difference": "税の源泉徴収など、支払者が金を取り分ける処理に焦点がある。deduction は点数・数量の差し引きにも使う。",
+          "example": "The form explains income tax withholding from wages.",
+          "translation": "その書式は、給与からの所得税の源泉徴収について説明している。"
+        },
+        {
+          "word": "reduction",
+          "definition": "金額・数量などを減らすこと、減った分。",
+          "frequency": 8,
+          "difference": "元から特定項目を引く操作に限らず、値下げや自然な減少にも使える。deduction は何を差し引くかが意識される。",
+          "example": "We negotiated a reduction in the delivery charge.",
+          "translation": "私たちは、配送料の値下げを交渉した。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "addition",
+          "definition": "ある数・量に別の数・量を加えること。",
+          "frequency": 7,
+          "difference": "数量の演算として、減らす deduction に対して増やす方向で対立する。税務上のあらゆる控除制度の反対語という意味ではない。",
+          "example": "The addition of a service charge increased the total.",
+          "translation": "サービス料が加算されて、合計額が増えた。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算／不可算】税務上の控除、所得などから差し引ける額・費目",
+      "frequency": 6,
+      "register": [
+        "税務・会計。以下では所得を減らす意味を中心に説明し、特定の支出に実際の控除資格があると断定しない。"
+      ],
+      "definition": "税額を求める際に、課税対象となる所得などから差し引くことが認められる額・費目、またはその控除。tax deduction としてよく使う。個別の控除項目なら可算で、控除という処理を一般的に述べる場合は不可算。何が対象になるかは国・税目・年度などにより異なる。",
+      "patterns": [
+        "a tax deduction＝税務上の控除",
+        "claim a deduction for 〈費目〉＝その費目について控除を申告する",
+        "take a deduction for 〈費目〉＝その費目の控除を適用する",
+        "a deduction from taxable income＝課税所得からの控除",
+        "qualify for a deduction＝控除を受ける要件を満たす",
+        "the standard deduction＝米国の所得税などにおける定額の標準控除",
+        "itemized deductions＝米国の所得税などにおける項目別控除。"
+      ],
+      "collocations": [
+        {
+          "pattern": "claim a deduction for 〈費目〉",
+          "use": "控除として申告する費用の種類を示す。",
+          "example": "The accountant asked whether I had claimed a deduction for those business expenses.",
+          "translation": "会計士は、私がその事業経費を控除として申告したかどうかを尋ねた。"
+        },
+        {
+          "pattern": "a deduction from taxable income",
+          "use": "直接減るのが税額ではなく所得であることを明示する。",
+          "example": "This form records deductions from taxable income.",
+          "translation": "この書式には、課税所得からの控除を記入する。"
+        },
+        {
+          "pattern": "qualify for a tax deduction",
+          "use": "控除の要件を満たすかどうかを述べる。",
+          "example": "We need to check whether this expense qualifies for a tax deduction.",
+          "translation": "この経費が税務上の控除対象になるかどうかを確認する必要がある。"
+        },
+        {
+          "pattern": "take the standard deduction",
+          "use": "米国の所得税に関する説明で、標準控除を選んで適用することを表す。",
+          "example": "In the US tax example, the taxpayer takes the standard deduction rather than itemizing deductions.",
+          "translation": "その米国税務の例では、納税者は控除を項目別に申告せず、標準控除を適用する。"
+        },
+        {
+          "pattern": "itemized deductions",
+          "use": "米国の所得税で、項目別に計上する控除を表す。",
+          "example": "The worksheet compares itemized deductions with the standard deduction.",
+          "translation": "その計算用紙では、項目別控除と標準控除を比較する。"
+        }
+      ],
+      "notes": [
+        "米国の個人所得税でいう deduction は、課税対象の所得を減らすもの。tax credit は税額を直接減らす仕組みで、同義ではない。a deduction of 1,000 dollars を「税金が必ず1,000ドル減ること」と訳さない。claim a deduction は控除を申告・請求することで、申告が認められたことまで自動的には意味しない。",
+        "tax deduction の訳は文脈に応じて「所得控除」「経費の控除」などとなるが、英語の語を日本の特定の控除区分と無条件に一対一対応させない。標準控除・項目別控除の例は米国の用語理解のためのもので、対象や金額・有利不利を説明するものではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "write-off",
+          "definition": "税務の文脈で、課税対象の所得から差し引ける費用・額。",
+          "frequency": 5,
+          "difference": "tax write-off は deduction と重なるが、write-off には貸倒れや資産価値の帳簿上の抹消という別義もある。口語的な税の説明にも使う。",
+          "example": "She asked whether the equipment purchase could be treated as a tax write-off.",
+          "translation": "彼女は、その機器の購入を税務上の控除として扱えるかどうかを尋ねた。"
+        },
+        {
+          "word": "allowance",
+          "definition": "税務上、所得などから差し引くことが認められる額。",
+          "frequency": 5,
+          "difference": "特に英国の税務用語で、定められた控除額・非課税枠を指すことがある。deduction と意味は重なるが、個別制度の名称を自由に置き換えてよいわけではない。",
+          "example": "The guide explains the tax allowance available under the scheme.",
+          "translation": "その案内は、その制度で利用できる税務上の控除について説明している。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・不可算／可算】推論、推理、推論によって得た結論",
+      "frequency": 6,
+      "register": [
+        "説明、調査、推理小説、研究。日常の当て推量より、事実から筋道を立てて考えることを強調する。"
+      ],
+      "definition": "分かっている事実や手掛かりを考え合わせ、明示されていない答えを導くこと、またはそこから得た結論。思考の過程は不可算、個々の結論は a deduction、deductions と数える。一般用法では、推論が実際に正しいことまでは保証せず、reasonable、mistaken などで評価できる。形式論理における厳密な演繹は語義4。",
+      "patterns": [
+        "make a deduction from 〈事実・証拠〉＝事実・証拠から結論を導く",
+        "a deduction about something＝ある事柄について導いた結論",
+        "the deduction that 〈節〉＝その節の内容を結論として導くこと、またはその結論",
+        "by deduction＝推論によって",
+        "through a process of deduction＝推論の過程を経て",
+        "powers of deduction＝推理する能力。"
+      ],
+      "collocations": [
+        {
+          "pattern": "make a deduction from the evidence",
+          "use": "証拠を根拠として、個別の結論に至る。",
+          "example": "She made the deduction from the evidence that someone had entered through the window.",
+          "translation": "彼女は、証拠から、誰かが窓から入ったという結論を導いた。"
+        },
+        {
+          "pattern": "deductions about 〈事柄〉",
+          "use": "何について推論したかを about で示す。",
+          "example": "His deductions about the writer's identity turned out to be wrong.",
+          "translation": "書き手が誰かについての彼の推論は、誤りだったことが分かった。"
+        },
+        {
+          "pattern": "the deduction that 〈節〉",
+          "use": "推論の内容を同格の that 節で述べる。",
+          "example": "The missing files led her to the deduction that the account had been used by someone else.",
+          "translation": "ファイルがなくなっていたことから、彼女は、そのアカウントが別の誰かに使われていたという結論に至った。"
+        },
+        {
+          "pattern": "by deduction",
+          "use": "答えを得た方法が推論であると示す。",
+          "example": "We worked out the date by deduction from the references in the letter.",
+          "translation": "私たちは、その手紙中の言及を手掛かりに推論して、日付を割り出した。"
+        },
+        {
+          "pattern": "through a process of deduction",
+          "use": "筋道を立てた推理の過程を述べる。",
+          "example": "Through a process of deduction, the detective identified the likely source of the message.",
+          "translation": "推論の過程を経て、探偵は、そのメッセージの発信元として可能性の高い相手を突き止めた。"
+        },
+        {
+          "pattern": "powers of deduction",
+          "use": "人の推理力を評価する。",
+          "example": "The puzzle will test your powers of deduction.",
+          "translation": "そのパズルでは、あなたの推理力が試されます。"
+        }
+      ],
+      "notes": [
+        "make a deduction from the facts は「事実から推論する」であり、「事実を差し引く」ではない。make deductions from pay の from 以下が差し引く元の金額なのに対し、推論義では考えの根拠となる。a deduction that she had left の that 節は「何を結論したか」を述べる。",
+        "誤: do a deduction from the clues → 正: make a deduction from the clues。過程一般なら deduction、特定の結論なら a deduction とする。動詞に直すなら deduce で、deduce that she had left「彼女は立ち去ったと推論する」。一般用法では flawed deductions「欠陥のある推論」も成立するため、「必ず正しい結論」とは定義しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "inference",
+          "definition": "事実・情報から明示されていない結論を導くこと、その結論。",
+          "frequency": 6,
+          "difference": "推論全般を広く表し、厳密な演繹にも、確率的・解釈的な推論にも使える。一般用法の deduction と大きく重なる。",
+          "example": "That inference is not supported by the available evidence.",
+          "translation": "その推論は、入手できる証拠によって裏付けられていない。"
+        },
+        {
+          "word": "conclusion",
+          "definition": "考察や検討の結果として到達した判断。",
+          "frequency": 8,
+          "difference": "得られた結果に重点があり、必ずしも事実からの推理という方法を明示しない。deduction はその導出過程を感じさせる。",
+          "example": "We reached different conclusions from the same interview.",
+          "translation": "私たちは、同じ面接から異なる結論に至った。"
+        },
+        {
+          "word": "reasoning",
+          "definition": "理由・根拠をつないで考える過程。",
+          "frequency": 7,
+          "difference": "思考の過程・論理を不可算で表す。a deduction のような個々の結論を数える名詞としては使わない。",
+          "example": "Please explain the reasoning behind your answer.",
+          "translation": "その答えに至った考え方を説明してください。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・不可算／可算】演繹、前提から必然的に結論を導く推論",
+      "frequency": 4,
+      "register": [
+        "論理学、数学、哲学、研究方法論。語義3の一般的な「推理」より厳密な意味。"
+      ],
+      "definition": "論理学・数学で、前提が真で推論の形式が妥当なら、結論も必ず真となるように結論を導くこと。方法としては不可算、個別の論証やその結論は可算にもなる。「一般的な法則から個別の事例へ」が典型的な説明だが、中心は一般から個別という方向だけでなく、前提から結論が論理的に必然であることにある。",
+      "patterns": [
+        "deduction from 〈前提〉＝前提からの演繹",
+        "a valid deduction＝論理形式が妥当な演繹",
+        "logical deduction＝論理的演繹",
+        "by deduction from 〈公理・規則〉＝公理・規則から演繹して",
+        "a deduction of 〈結論〉 from 〈前提〉＝前提からその結論を演繹すること。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a valid deduction",
+          "use": "前提が真なら結論も真になる論証を指す。",
+          "example": "If all squares are rectangles and this shape is a square, it is a rectangle; that is a valid deduction.",
+          "translation": "すべての正方形が長方形で、この図形が正方形なら、この図形は長方形である。これは妥当な演繹である。"
+        },
+        {
+          "pattern": "deduction from axioms",
+          "use": "数学で公理を前提として結論を導く。",
+          "example": "The proof proceeds by deduction from the stated axioms.",
+          "translation": "その証明は、提示された公理からの演繹によって進む。"
+        },
+        {
+          "pattern": "logical deduction",
+          "use": "前提と結論の必然的な関係を扱う方法を表す。",
+          "example": "Logical deduction does not establish that the premises themselves are true.",
+          "translation": "論理的演繹は、前提そのものが真であることを証明するわけではない。"
+        },
+        {
+          "pattern": "a deduction of 〈結論〉 from 〈前提〉",
+          "use": "導く結論と、その出発点を別々に示す。",
+          "example": "The exercise asks for a deduction of the final statement from the three premises.",
+          "translation": "その練習問題は、3つの前提から最後の命題を演繹することを求めている。"
+        }
+      ],
+      "notes": [
+        "valid「妥当な」は推論の形が適切なことをいう。前提の事実上の正しさとは別で、妥当な演繹でも前提が偽なら結論の真は保証されない。一般の推理小説で deduction と呼ばれる考え方すべてが、この厳密な意味の演繹に当たるわけではない。",
+        "induction「帰納」は観察例などから一般化する方法、abduction「仮説的推論」は観察を説明する有力な仮説を導く方法で、いずれも対照となる推論形式。「演繹の反対＝非論理的」とする反意関係ではない。deduction を「控除」と訳す語義1・2とも区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "deductive reasoning",
+          "definition": "前提から論理的に必然な結論を導く推論方法。",
+          "frequency": 4,
+          "difference": "deduction のうち演繹的な思考過程であることを明示する複合表現。金額の控除という意味にはならない。",
+          "example": "Deductive reasoning can preserve truth from premises to a conclusion.",
+          "translation": "演繹的推論は、前提の真を結論へ保つことができる。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

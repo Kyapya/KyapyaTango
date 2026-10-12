@@ -1,0 +1,590 @@
+{
+  "word": "coverage",
+  "slug": "coverage",
+  "ipa": "米: /ˈkʌv.ɚ.ɪdʒ/｜英: /ˈkʌv.ər.ɪdʒ/。3音節で、第1音節に主強勢を置く。第2音節の母音部分が、米語では r の響きを伴う /ɚ/、英語では /ə/ となる。英語の /r/ も、後ろに母音が続くこの語では発音される。",
+  "lead": "出来事や話題を取材して新聞・テレビ・インターネットなどで伝えること、またはその報道の量・詳しさ・扱い方。映像による中継も含み、好意的な宣伝だけを意味するわけではない。",
+  "updated": "2026-10-12",
+  "notion_url": "https://app.notion.com/p/coverage-3f74faa9b77d8149973eec69d508e2a0",
+  "pronunciation": [
+    "語尾の age はここでは /ɪdʒ/ で、独立した age「年齢」の /eɪdʒ/ とは異なる。第2音節の弱い母音を省いた /ˈkʌv.rɪdʒ/ という発音もある。"
+  ],
+  "etymology": [
+    "cover「覆う・扱う・保障する」に名詞語尾 -age を付けた語。cover は古フランス語 covrir を経てラテン語 cooperire「すっかり覆う」にさかのぼる。ある範囲を覆うことから、報道・説明・保護などがどこまで及ぶかを表す。",
+    "同じ語族に uncover「覆いを取る・明らかにする」があり、discover「発見する」も歴史的には「覆いを取り去る・明らかにする」に関係する。現在の coverage は、覆いそのものではなく、覆う働きやその範囲・程度を指すことが多い。"
+  ],
+  "formation": [
+    {
+      "term": "cover",
+      "description": "形成の基になる動詞・名詞。報道する、対象を扱う、保険で保障するなどの用法がある。"
+    },
+    {
+      "term": "covering",
+      "description": "物理的な覆い・被覆材を表す名詞。coverage は通常、覆う範囲や能力を表すため、常に交換できるわけではない。"
+    },
+    {
+      "term": "media coverage",
+      "description": "メディアによる報道を表す不可算の複合名詞。"
+    },
+    {
+      "term": "insurance coverage",
+      "description": "保険による保障・補償範囲を表す、通常不可算の複合名詞。"
+    },
+    {
+      "term": "test coverage",
+      "description": "試験やテストが対象のどこまでを確認しているかを示す複合名詞。ソフトウェアなどの文脈で使う。"
+    },
+    {
+      "term": "coverage ratio",
+      "description": "支払いなどをどの程度賄えるかを示す比率という、金融分野の可算の複合名詞。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "「対象を覆い、その範囲に働きかけること」が共通核。情報として扱う範囲、保護やサービスが届く範囲、物理的な被覆、金銭的な裏付け、守備で受け持つ範囲へ具体化する。"
+    },
+    {
+      "type": "item",
+      "text": "対象を情報として覆う報道 → 「報道・取材・中継」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "対象を保険の保護で覆うこと → 「保険による保障・補償範囲」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "対象を説明や確認で覆う広がり → 「扱う範囲・取り上げ方」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "対象をサービスで覆う広がり → 「サービスの提供範囲・到達範囲」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "対象の表面を物理的に覆う程度 → 「覆う力・被覆範囲」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "対象の支払いを資金で賄う程度 → 「支払いを賄う資金・充足度」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "対象の選手や区域を守備で覆うこと → 「パスに対する守備・カバー」（語義7）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・通常不可算】報道・取材・中継",
+      "frequency": 9,
+      "register": [
+        "報道・メディア・スポーツ・一般。"
+      ],
+      "definition": "出来事や話題を取材して新聞・テレビ・インターネットなどで伝えること、またはその報道の量・詳しさ・扱い方。映像による中継も含み、好意的な宣伝だけを意味するわけではない。",
+      "patterns": [
+        "coverage of 〈出来事〉＝その出来事の報道",
+        "live coverage of 〈行事・試合〉＝その行事や試合の生中継",
+        "receive media coverage＝メディアに取り上げられる",
+        "give something extensive coverage＝何かを大きく詳しく報道する",
+        "press coverage＝新聞などによる報道",
+        "coverage by 〈報道機関〉＝その報道機関による報道"
+      ],
+      "collocations": [
+        {
+          "pattern": "coverage of 〈出来事〉",
+          "use": "of の後に報道の対象を置く。",
+          "example": "The newspaper expanded its coverage of the election.",
+          "translation": "その新聞は、選挙報道を拡充した。"
+        },
+        {
+          "pattern": "live coverage of 〈試合〉",
+          "use": "録画でなく同時進行の中継を示す。",
+          "example": "Live coverage of the final begins at eight.",
+          "translation": "決勝戦の生中継は8時に始まる。"
+        },
+        {
+          "pattern": "receive media coverage",
+          "use": "対象となる出来事の側から述べる。",
+          "example": "The discovery received worldwide media coverage.",
+          "translation": "その発見は、世界中のメディアに取り上げられた。"
+        },
+        {
+          "pattern": "give something extensive coverage",
+          "use": "報道側が多く取り上げることを述べる。",
+          "example": "Local stations gave the storm extensive coverage.",
+          "translation": "地元の放送局は、その嵐を大きく詳しく報道した。"
+        },
+        {
+          "pattern": "press coverage",
+          "use": "新聞などの報道をまとめていう。",
+          "example": "The exhibition attracted favorable press coverage.",
+          "translation": "その展覧会は、新聞などで好意的に取り上げられた。"
+        },
+        {
+          "pattern": "coverage by 〈報道機関〉",
+          "use": "by の後に報道する側を置く。",
+          "example": "Coverage by independent outlets offered a different perspective.",
+          "translation": "独立系メディアによる報道は、異なる視点を示した。"
+        }
+      ],
+      "notes": [
+        "一般には some coverage、a lot of coverage とし、個々のニュース記事を数えるなら reports、articles、stories を使う。a detailed coverage のように特定のまとまった扱いを示す例はあるが、「報道1本」を常に a coverage とするわけではない。coverage of the election は選挙という対象、coverage by the newspaper は新聞という報道者。blanket coverage は広範囲で徹底した報道を指す。positive coverage も negative coverage もあり、coverage だけでは評価の向きは決まらない。"
+      ],
+      "synonyms": [
+        {
+          "word": "reporting",
+          "definition": "ニュースを集めて伝える活動。",
+          "frequency": 8,
+          "difference": "取材・伝達の仕事や手法を強調しやすい。coverage はある対象をどの程度扱うかも示す。",
+          "example": "Her reporting focuses on local government.",
+          "translation": "彼女の報道活動は、地方行政を中心にしている。"
+        },
+        {
+          "word": "reportage",
+          "definition": "報道、特に出来事を伝える記事・番組など。",
+          "frequency": 5,
+          "difference": "reporting より改まった語で、現地からの描写や報道の作風を論じる場合にも使う。",
+          "example": "The award recognized his reportage from the region.",
+          "translation": "その賞は、その地域からの彼の報道を評価した。"
+        },
+        {
+          "word": "publicity",
+          "definition": "メディアなどで取り上げられて世間の注目を集めること。",
+          "frequency": 8,
+          "difference": "周知・注目という効果に焦点があり、必ずしも丁寧な取材を含まない。悪い評判にも使う。",
+          "example": "The incident generated unwanted publicity.",
+          "translation": "その出来事は、望ましくない形で世間の注目を集めた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・通常不可算】保険による保障・補償範囲",
+      "frequency": 8,
+      "register": [
+        "主に米語・保険・医療費・契約。英国では cover も一般的。"
+      ],
+      "definition": "保険によって人・物・損害などが保障されていること、または保障される内容・範囲・金額。保険料そのものや、実際に払い込まれた保険金とは区別する。",
+      "patterns": [
+        "insurance coverage＝保険による保障",
+        "coverage for something＝何かに対する補償",
+        "provide coverage＝保障を提供する",
+        "have adequate coverage＝十分な保障がある",
+        "extend coverage to someone＝保障対象を人に広げる",
+        "deny coverage＝保険の保障を認めない",
+        "〈金額〉 in coverage＝その額の保険保障"
+      ],
+      "collocations": [
+        {
+          "pattern": "insurance coverage",
+          "use": "保険の保障内容を述べる。",
+          "example": "Review your insurance coverage before renting the equipment.",
+          "translation": "機器を借りる前に、保険の補償内容を見直してください。"
+        },
+        {
+          "pattern": "coverage for 〈損害・費用〉",
+          "use": "保障される危険や費用を for で示す。",
+          "example": "The policy includes coverage for accidental damage.",
+          "translation": "その保険契約には、偶発的な損害への補償が含まれている。"
+        },
+        {
+          "pattern": "provide coverage",
+          "use": "保障の提供を述べる。",
+          "example": "The plan provides dental coverage for employees.",
+          "translation": "そのプランは、従業員に歯科の保険保障を提供する。"
+        },
+        {
+          "pattern": "have adequate coverage",
+          "use": "保障の十分さを述べる。",
+          "example": "We need to check whether we have adequate coverage for the trip.",
+          "translation": "私たちは、その旅行に十分な保険保障があるか確認する必要がある。"
+        },
+        {
+          "pattern": "extend coverage to someone",
+          "use": "保障される人の範囲を広げる。",
+          "example": "The company extended health coverage to part-time staff.",
+          "translation": "その会社は、医療保険の対象をパートタイムの職員にも広げた。"
+        },
+        {
+          "pattern": "deny coverage",
+          "use": "特定の保障を認めないと述べる。",
+          "example": "The insurer denied coverage for the water damage.",
+          "translation": "その保険会社は、水による損害についての補償を認めなかった。"
+        },
+        {
+          "pattern": "〈金額〉 in coverage",
+          "use": "保険で保障される金額を示す。",
+          "example": "The plan offers 100,000 dollars in coverage.",
+          "translation": "そのプランは、10万ドルの保険保障を提供する。"
+        }
+      ],
+      "notes": [
+        "通常は不可算だが、保険実務で別々の補償種類を列挙するときに coverages という複数形も使われる。一般の学習者は types of coverage とすると明確。coverage for flood damage と coverage of the election（語義1）では、前置詞だけでなく対象領域が異なる。ただし of は保険文脈にも使えるので、「保険は必ず for」としない。full coverage は「十分な・広い保障」を示す表現であり、あらゆる損失を無条件に全額補償するという普遍的な契約内容を保証しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "insurance",
+          "definition": "損失などに備えて金銭的な保障を受ける仕組みや契約。",
+          "frequency": 9,
+          "difference": "保険全体を広く指す。coverage は保障の有無・対象・程度を前面に出す。",
+          "example": "The company buys insurance for its delivery vehicles.",
+          "translation": "その会社は、配送車両に保険をかけている。"
+        },
+        {
+          "word": "cover",
+          "definition": "保険による保障。",
+          "frequency": 7,
+          "difference": "英国の保険文脈で一般的な不可算名詞。insurance cover の形でも使う。",
+          "example": "The policy provides cover against theft.",
+          "translation": "その保険契約は、盗難に対する補償を提供する。"
+        },
+        {
+          "word": "protection",
+          "definition": "損害や危険に対して守られること。",
+          "frequency": 9,
+          "difference": "保険に限らず広く使う。金銭的保障であることを明示したければ financial protection とする。",
+          "example": "The policy offers protection against certain financial losses.",
+          "translation": "その保険契約は、一定の金銭的損失に対する保障を提供する。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・通常不可算】扱う範囲・取り上げ方",
+      "frequency": 7,
+      "register": [
+        "出版・教育・研究・ソフトウェア・一般。"
+      ],
+      "definition": "本・授業・調査・テストなどが、ある対象をどの範囲まで、どの程度詳しく扱っているか。報道機関がニュースとして取り上げることに限らない。",
+      "patterns": [
+        "coverage of 〈主題・対象〉＝その主題や対象を扱う範囲・内容",
+        "provide broad coverage of something＝何かを幅広く扱う",
+        "give detailed coverage to something＝何かを詳しく取り上げる",
+        "comprehensive coverage＝包括的な扱い",
+        "test coverage＝テストが対象を網羅する程度"
+      ],
+      "collocations": [
+        {
+          "pattern": "coverage of 〈主題〉",
+          "use": "本などが扱う内容を示す。",
+          "example": "The book offers broad coverage of modern architecture.",
+          "translation": "その本は、近代建築を幅広く扱っている。"
+        },
+        {
+          "pattern": "provide broad coverage of something",
+          "use": "授業等の扱う範囲が広いと述べる。",
+          "example": "The course provides broad coverage of business communication.",
+          "translation": "その講座は、ビジネスコミュニケーションを幅広く扱う。"
+        },
+        {
+          "pattern": "give detailed coverage to something",
+          "use": "特定の主題に詳しい説明を割く。",
+          "example": "The manual gives detailed coverage to the installation process.",
+          "translation": "そのマニュアルは、設置手順を詳しく説明している。"
+        },
+        {
+          "pattern": "comprehensive coverage",
+          "use": "対象を総合的に取り上げる。",
+          "example": "The review aims for comprehensive coverage of the available evidence.",
+          "translation": "そのレビューは、利用できる証拠を包括的に扱うことを目指している。"
+        },
+        {
+          "pattern": "test coverage",
+          "use": "テストで確認する対象の網羅度を示す。",
+          "example": "The new tests improved coverage of the error-handling code.",
+          "translation": "新しいテストによって、エラー処理コードのテスト対象範囲が広がった。"
+        }
+      ],
+      "notes": [
+        "広さは broad、wide、comprehensive、詳しさは detailed、in-depth などで示す。coverage だけで「完全網羅」を意味するわけではなく、limited coverage や incomplete coverage とも言える。coverage of a subject は扱う内容で、covering a book のように本を物理的に包む行為ではない。テストの coverage が高いことと、すべての不具合が除かれたことも同じではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "scope",
+          "definition": "扱う主題や活動の範囲。",
+          "frequency": 8,
+          "difference": "範囲の境界に焦点があり、その範囲の中でどれだけ詳しく扱うかは必ずしも述べない。",
+          "example": "The report has a narrow scope.",
+          "translation": "その報告書が扱う範囲は狭い。"
+        },
+        {
+          "word": "treatment",
+          "definition": "ある主題を取り上げて説明・分析すること。",
+          "frequency": 7,
+          "difference": "量や範囲より、内容への向き合い方・説明の仕方に焦点を置きやすい。",
+          "example": "The chapter gives a balanced treatment of the debate.",
+          "translation": "その章は、その論争を偏りなく扱っている。"
+        },
+        {
+          "word": "breadth",
+          "definition": "対象範囲の広さ。",
+          "frequency": 6,
+          "difference": "広いか狭いかという次元を表す。coverage は詳しさや内容の充実度にも使う。",
+          "example": "The breadth of the survey impressed the reviewers.",
+          "translation": "その調査の対象範囲の広さは、査読者たちに強い印象を与えた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・不可算、特定の程度を示すと可算単数もある】サービスの提供範囲・到達範囲",
+      "frequency": 8,
+      "register": [
+        "通信・放送・広告・商業・公共サービス。"
+      ],
+      "definition": "通信・放送・販売・公共サービスなどが届く地域、人々、またはそれらをどの程度含んでいるか。場所の広がりだけでなく、対象人口の何割に届いているかという割合も示す。",
+      "patterns": [
+        "network coverage＝通信網が利用できる範囲",
+        "coverage in 〈地域〉＝その地域でのサービスの届き具合",
+        "a coverage area＝サービス提供地域",
+        "extend coverage to 〈地域〉＝サービス提供範囲をその地域まで広げる",
+        "coverage of 〈割合〉 of 〈人口・地域〉＝その人口や地域の指定割合に届くこと",
+        "population coverage＝人口に対する到達割合"
+      ],
+      "collocations": [
+        {
+          "pattern": "network coverage",
+          "use": "通信網が届く範囲を述べる。",
+          "example": "The provider is expanding its network coverage in rural areas.",
+          "translation": "その通信事業者は、農村部での通信網の利用可能範囲を広げている。"
+        },
+        {
+          "pattern": "coverage in 〈地域〉",
+          "use": "特定地域で通信等が使えるかを述べる。",
+          "example": "Mobile coverage is poor in this valley.",
+          "translation": "この谷では、携帯電話の電波が十分に届かない。"
+        },
+        {
+          "pattern": "a coverage area",
+          "use": "提供される地域を可算の area で表す。",
+          "example": "The map shows the coverage area of each radio station.",
+          "translation": "その地図は、各ラジオ局の放送が届く地域を示している。"
+        },
+        {
+          "pattern": "extend coverage to 〈地域〉",
+          "use": "サービスを新たな地域へ届ける。",
+          "example": "The delivery company extended its coverage to three more towns.",
+          "translation": "その配送会社は、サービスの提供範囲をさらに3つの町へ広げた。"
+        },
+        {
+          "pattern": "coverage of 〈割合〉 of 〈人口〉",
+          "use": "対象人口に対する割合を示す。",
+          "example": "The service has a coverage of 90 percent of the population.",
+          "translation": "そのサービスは、人口の90パーセントを対象範囲に含んでいる。"
+        },
+        {
+          "pattern": "population coverage",
+          "use": "人口にどれだけ届くかという指標を示す。",
+          "example": "The study compared the population coverage of the two vaccination programs.",
+          "translation": "その研究は、2つの予防接種事業がそれぞれ人口のどれだけに届いているかを比較した。"
+        }
+      ],
+      "notes": [
+        "通信で no coverage は電波が届かないなど、そのサービスを利用できないことを示す。slow speed「低速」と同じではない。一般には広がりとして不可算だが、a coverage of 90 percent のように一つの到達度を示す単数可算もある。coverage area の中心名詞は可算の area。広告・放送の coverage は到達する対象層・人口を指す場合もあり、語義1の「報道内容」と機械的に同一視しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "reach",
+          "definition": "サービスや情報が届く範囲・人数。",
+          "frequency": 7,
+          "difference": "特に広告・媒体がどれほどの人へ届くかを述べる。coverage は地理的な利用可能範囲にもよく使う。",
+          "example": "The campaign increased its reach among younger viewers.",
+          "translation": "そのキャンペーンは、若い視聴者層への到達範囲を広げた。"
+        },
+        {
+          "word": "range",
+          "definition": "電波などが届く距離・範囲。",
+          "frequency": 8,
+          "difference": "距離や限界に焦点があり、人口の何割を含むかという観点とは異なる。",
+          "example": "The transmitter has a range of 20 kilometers.",
+          "translation": "その送信機の電波は、20キロメートルの範囲に届く。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞・通常不可算】覆う力・被覆範囲",
+      "frequency": 6,
+      "register": [
+        "塗装・化粧品・製品説明。"
+      ],
+      "definition": "塗料・化粧品などが表面をどれだけよく覆うか、または一定量でどの程度の面積を覆えるか。物理的に覆われる範囲・度合いを表し、覆いとなる物体そのものではない。",
+      "patterns": [
+        "provide good coverage＝よく覆う",
+        "full coverage＝十分に隠す被覆・高いカバー力",
+        "even coverage＝むらのない被覆",
+        "coverage of 〈面積〉 per 〈量〉＝その量当たり指定面積を覆えること"
+      ],
+      "collocations": [
+        {
+          "pattern": "provide good coverage",
+          "use": "製品がよく覆うことを述べる。",
+          "example": "This paint provides good coverage in a single coat.",
+          "translation": "この塗料は、1回塗るだけで表面をよく覆う。"
+        },
+        {
+          "pattern": "full coverage",
+          "use": "化粧品の高いカバー力を表す。",
+          "example": "She chose a foundation that offers full coverage.",
+          "translation": "彼女は、カバー力の高いファンデーションを選んだ。"
+        },
+        {
+          "pattern": "even coverage",
+          "use": "むらなく覆うことを示す。",
+          "example": "Use a roller to achieve even coverage on the wall.",
+          "translation": "壁をむらなく塗るために、ローラーを使ってください。"
+        },
+        {
+          "pattern": "coverage of 〈面積〉 per litre",
+          "use": "製品の塗布可能面積を述べる。",
+          "example": "The label states a coverage of ten square meters per litre.",
+          "translation": "ラベルには、1リットル当たり10平方メートルを塗れると記されている。"
+        }
+      ],
+      "notes": [
+        "coverage は「カバーする物」ではなく、その力や範囲。a protective covering は保護用の覆いという物を表す。full coverage も、塗装なら下地を覆うこと、化粧品なら肌の色むらなどを隠す力を述べ、保険の「全面補償」にそのまま置き換えない。面積を数量で示す a coverage of ... も使われる。"
+      ],
+      "synonyms": [
+        {
+          "word": "covering power",
+          "definition": "塗料などが下地を覆い隠す力。",
+          "frequency": 4,
+          "difference": "覆える面積一般より、下地が見えないようにする性質を明示する。",
+          "example": "The white paint has strong covering power.",
+          "translation": "その白い塗料は、下地を覆い隠す力が強い。"
+        },
+        {
+          "word": "opacity",
+          "definition": "光を通さず透けない性質・程度。",
+          "frequency": 5,
+          "difference": "下地が透けにくい点では重なるが、面積や塗りむらまでは意味しない。",
+          "example": "A second coat increases the opacity of the paint.",
+          "translation": "2度塗りすると、その塗料の不透明度が高まる。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【名詞・通常不可算】支払いを賄う資金・充足度",
+      "frequency": 4,
+      "register": [
+        "金融・会計・企業分析。"
+      ],
+      "definition": "金融・会計で、債務などの支払いを裏付ける資金・資産、または利益や資金で支払いをどの程度賄えるか。coverage ratio などの複合表現では、特定の支払いとそれを賄う額との比率をいう。",
+      "patterns": [
+        "coverage of 〈支払い〉＝その支払いを賄う裏付け",
+        "interest coverage＝利払いを賄う度合い",
+        "dividend coverage＝配当を利益で賄う度合い",
+        "a coverage ratio＝支払いに対する充足度を示す比率"
+      ],
+      "collocations": [
+        {
+          "pattern": "coverage of debt payments",
+          "use": "返済を賄う裏付けを述べる。",
+          "example": "The lender reviewed the available funds for coverage of debt payments.",
+          "translation": "貸し手は、債務の支払いを賄うために利用可能な資金を確認した。"
+        },
+        {
+          "pattern": "interest coverage",
+          "use": "利払いに対する余力を述べる。",
+          "example": "The decline in earnings weakened interest coverage.",
+          "translation": "利益の減少で、利払いを賄う余力が弱まった。"
+        },
+        {
+          "pattern": "dividend coverage",
+          "use": "利益と配当の関係を述べる。",
+          "example": "The report compares dividend coverage across five companies.",
+          "translation": "その報告書は、5社の配当カバレッジを比較している。"
+        },
+        {
+          "pattern": "a coverage ratio",
+          "use": "何を測る比率かを明示して使う。",
+          "example": "The bank examined the debt-service coverage ratio.",
+          "translation": "銀行は、債務返済に対する資金の充足度を示す比率を調べた。"
+        }
+      ],
+      "notes": [
+        "保険による保障とは別に、金銭で支払いを cover できるかという意味。interest coverage、debt-service coverage、dividend coverage は対象となる支払いが異なるため、同じ計算式と決めつけない。比率そのものを数える場合の a coverage ratio では ratio が中心名詞。coverage 単独から担保設定や法的保証があると読み込まない。"
+      ],
+      "synonyms": [
+        {
+          "word": "cover",
+          "definition": "支払いを賄う資産・資金、またはその充足度。",
+          "frequency": 4,
+          "difference": "金融の専門義で重なる。dividend cover などの形があり、保険の cover とも区別が必要。",
+          "example": "Dividend cover improved as earnings recovered.",
+          "translation": "利益の回復に伴い、配当を利益で賄う度合いが改善した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【名詞・不可算、守備方式を数えると可算】パスに対する守備・カバー",
+      "frequency": 4,
+      "register": [
+        "主に米語・アメリカンフットボール。"
+      ],
+      "definition": "アメリカンフットボールなどで、相手のパスを通さないために選手や区域を守ること、またはその守備方式。試合を放送するという語義1とは別。",
+      "patterns": [
+        "pass coverage＝パスへの守備",
+        "man-to-man coverage＝相手選手をそれぞれ担当する守備",
+        "zone coverage＝区域を分担する守備",
+        "tight coverage＝厳しいマーク",
+        "switch coverages＝守備方式を切り替える"
+      ],
+      "collocations": [
+        {
+          "pattern": "pass coverage",
+          "use": "パスに対する守備全般を述べる。",
+          "example": "The defense needs to improve its pass coverage.",
+          "translation": "守備側は、パスへの対応を改善する必要がある。"
+        },
+        {
+          "pattern": "man-to-man coverage",
+          "use": "人を担当する方式を示す。",
+          "example": "The defense switched to man-to-man coverage.",
+          "translation": "守備側は、マンツーマンの守備に切り替えた。"
+        },
+        {
+          "pattern": "zone coverage",
+          "use": "区域を担当する方式を示す。",
+          "example": "The quarterback recognized the zone coverage before the snap.",
+          "translation": "クォーターバックは、スナップの前にゾーン守備だと見抜いた。"
+        },
+        {
+          "pattern": "tight coverage",
+          "use": "相手に厳しく付くことを示す。",
+          "example": "The receiver caught the ball despite tight coverage.",
+          "translation": "そのレシーバーは、厳しいマークにもかかわらずボールを捕った。"
+        },
+        {
+          "pattern": "switch coverages",
+          "use": "複数の守備方式を使い分ける。",
+          "example": "The defense kept switching coverages to confuse the quarterback.",
+          "translation": "守備側は、クォーターバックを混乱させるために守備方式を切り替え続けた。"
+        }
+      ],
+      "notes": [
+        "一般的な守備の働きとしては不可算で、個別の方式なら a coverage、複数なら coverages とする専門的用法がある。man-to-man、zone、receiver などが守備義を示す手がかり。live coverage of the game は試合の生中継であり、守備の種類ではない。man-to-man coverage と zone coverage は別方式という対照であって、意味上の反意語ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "pass defense",
+          "definition": "相手のパス攻撃を防ぐ守備。",
+          "frequency": 5,
+          "difference": "coverage と重なるが、パスの受け手を守るだけでなく、投げ手への圧力なども含めた守備全体を指し得る。",
+          "example": "The team strengthened its pass defense during the offseason.",
+          "translation": "そのチームは、オフシーズンにパス守備を強化した。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

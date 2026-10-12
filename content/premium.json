@@ -1,0 +1,698 @@
+{
+  "word": "premium",
+  "slug": "premium",
+  "ipa": "米・英: /ˈpriː.mi.əm/。3音節で、第1音節に主強勢を置く。第1音節の /iː/ を長く、第3音節の /ə/ を弱く発音する。複数形 premiums の語末は /əmz/。一般的な複数形は premiums で、通常 premia を使う必要はない。",
+  "lead": "保険による保障を受けるために、保険会社へ支払う金額。一括払いの場合も、月ごと・年ごとなどの払いの場合もあり、支払頻度を語自体は指定しない。",
+  "updated": "2026-10-12",
+  "notion_url": "https://app.notion.com/p/premium-3f74faa9b77d81e9810acbb1a84a93a2",
+  "pronunciation": [],
+  "etymology": [
+    "ラテン語 praemium「報酬・褒賞・利益」に由来し、prae-「前に」と emere「取る・買う」に関係する。英語では報酬や特別に加えられる金銭、さらに上質・高価という意味へ広がった。保険料の意味の成立には、イタリア語 premio も関係する。",
+    "同じ emere に関係する語に redeem「買い戻す・償う」と pre-empt「先取りする」がある。語源上の要素を、そのまま現代の premium の各意味に当てはめるわけではない。"
+  ],
+  "formation": [
+    {
+      "term": "premium-rate",
+      "description": "電話などの料金が通常より高いという複合形容詞。名詞の前では a premium-rate number のようにハイフンを使う。"
+    },
+    {
+      "term": "premium-priced",
+      "description": "価格が高めに設定されたという複合形容詞。"
+    },
+    {
+      "term": "premium pay",
+      "description": "通常の賃金に上乗せされる割増賃金を表す複合名詞。具体的な対象や率は制度・契約による。"
+    },
+    {
+      "term": "risk premium",
+      "description": "リスクを引き受ける見返りとして求められる、基準より上乗せされた収益・報酬を表す金融用語。"
+    },
+    {
+      "term": "option premium",
+      "description": "オプションという権利そのものの価格を表す可算の複合名詞。語義8参照。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "中心となるのは「通常より上の価値・額、または特別に付け加えるもの」。語義1・8は制度的専門義で、特定の保障や権利に対する代金を指し、その語彙的意味は「通常より上」という核から自然には導けないため、個別に参照する。"
+    },
+    {
+      "type": "item",
+      "text": "通常より上の金額の上乗せ → 「割増額・上乗せ」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "通常より上の品質・価値 → 「上質な・高級な」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "通常より上の価格・料金 → 「通常より高額な・割高な」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "不足によって通常より上がる価値 → 「不足して貴重で」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "特別に高く置く評価 → 「高い価値・重視」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "特別に付け加える贈り物や褒賞 → 「景品・特典・褒賞」（語義7）"
+    },
+    {
+      "type": "item",
+      "text": "通常より上の等級の燃料 → 「上位等級のガソリン・ハイオク」（語義9）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算】保険料",
+      "frequency": 8,
+      "register": [
+        "保険・家計・ビジネス。"
+      ],
+      "definition": "保険による保障を受けるために、保険会社へ支払う金額。一括払いの場合も、月ごと・年ごとなどの払いの場合もあり、支払頻度を語自体は指定しない。",
+      "patterns": [
+        "pay a premium＝保険料を支払う",
+        "a premium for 〈保険・保障〉＝その保険や保障の保険料",
+        "a premium of 〈金額〉＝その額の保険料",
+        "an annual premium＝年間保険料",
+        "monthly premiums＝毎月の保険料",
+        "raise premiums＝保険料を引き上げる"
+      ],
+      "collocations": [
+        {
+          "pattern": "pay an insurance premium",
+          "use": "加入者側の支払いを述べる。",
+          "example": "The customer paid the insurance premium by bank transfer.",
+          "translation": "その顧客は、銀行振込で保険料を支払った。"
+        },
+        {
+          "pattern": "a premium for 〈保険〉",
+          "use": "どの保険についての支払いかを示す。",
+          "example": "The premium for this travel insurance is 60 dollars.",
+          "translation": "この旅行保険の保険料は60ドルだ。"
+        },
+        {
+          "pattern": "an annual premium of 〈金額〉",
+          "use": "支払期間と金額を示す。",
+          "example": "The policy has an annual premium of 900 dollars.",
+          "translation": "その保険契約の年間保険料は900ドルだ。"
+        },
+        {
+          "pattern": "monthly premiums",
+          "use": "複数の定期支払いを述べる。",
+          "example": "She compares monthly premiums before choosing a plan.",
+          "translation": "彼女はプランを選ぶ前に、毎月の保険料を比較する。"
+        },
+        {
+          "pattern": "raise premiums",
+          "use": "保険者側の料金変更を述べる。",
+          "example": "The insurer plans to raise premiums next year.",
+          "translation": "その保険会社は、来年保険料を引き上げる予定だ。"
+        }
+      ],
+      "notes": [
+        "契約者などが pay a premium、保険会社が charge a premium とし、金銭の向きを区別する。保険会社から受け取る保険金を premium とは通常いわない。a premium of 50 dollars は「50ドルの保険料」、a premium for travel insurance は対象を示す。保険の文脈がなければ、同じ pay a premium が語義2の割増料金を意味することもある。"
+      ],
+      "synonyms": [
+        {
+          "word": "insurance payment",
+          "definition": "保険のために行う支払い。",
+          "frequency": 6,
+          "difference": "保険料の支払いにも使うが、文脈によって保険会社からの支払いにもなる。premium は保険料の向きが明確。",
+          "example": "The monthly insurance payment is due tomorrow.",
+          "translation": "今月の保険料の支払期限は明日だ。"
+        },
+        {
+          "word": "insurance",
+          "definition": "保険のために支払う金銭。",
+          "frequency": 6,
+          "difference": "この費用の意味では不可算。個々の保険料を可算で明示する premium と異なる。",
+          "example": "We pay less in insurance now.",
+          "translation": "私たちが払う保険料は、今は以前より少ない。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算】割増額・上乗せ",
+      "frequency": 8,
+      "register": [
+        "商取引・賃金・金融・一般。"
+      ],
+      "definition": "通常の価格・賃金・基準額などに加えて支払う、または認められる余分の額。上質さ・便利さ・希少性などに対して支払う場合や、金融商品が基準価格を上回る場合に使う。何に対する上乗せかは文脈で決まる。",
+      "patterns": [
+        "pay a premium for something＝何かに割増額を払う",
+        "command a premium＝割増価格が付く",
+        "at a premium＝割高な価格で",
+        "at a premium of 〈額・率〉 over 〈基準〉＝その基準より指定の額や率だけ高く",
+        "at a premium to 〈基準価格〉＝その基準価格より高く",
+        "a wage premium＝賃金の上乗せ"
+      ],
+      "collocations": [
+        {
+          "pattern": "pay a premium for something",
+          "use": "追加価値に対して余分に払う。",
+          "example": "Customers pay a premium for same-day delivery.",
+          "translation": "顧客は当日配達に割増料金を払う。"
+        },
+        {
+          "pattern": "command a premium",
+          "use": "商品などが通常以上の価格で売れることを述べる。",
+          "example": "Apartments with a river view command a premium.",
+          "translation": "川の見えるアパートには割増価格が付く。"
+        },
+        {
+          "pattern": "sell at a premium",
+          "use": "基準や通常より高い価格で売る。",
+          "example": "Tickets were being sold at a premium outside the venue.",
+          "translation": "会場の外では、チケットが割高な値段で売られていた。"
+        },
+        {
+          "pattern": "at a premium of 〈率〉 over 〈基準〉",
+          "use": "比較する基準と上乗せ率を明示する。",
+          "example": "The upgraded model sells at a premium of ten percent over the basic model.",
+          "translation": "上位モデルは、基本モデルより10パーセント高い価格で売られている。"
+        },
+        {
+          "pattern": "at a premium to 〈基準価格〉",
+          "use": "金融などで比較対象の価格を示す。",
+          "example": "The shares traded at a premium to the offer price.",
+          "translation": "その株式は、提示価格を上回る価格で取引された。"
+        },
+        {
+          "pattern": "a wage premium",
+          "use": "基本的な賃金水準より高い額を表す。",
+          "example": "The employer offers a wage premium for night work.",
+          "translation": "その雇用主は、夜間勤務に割増賃金を提示している。"
+        }
+      ],
+      "notes": [
+        "通常は a premium と冠詞を付ける。premium を「総額」と決めつけず、基準からの上乗せなのか、割高であること全体を述べているのかを読む。金融の at a premium は額面・市場価格などを上回ることで、何を基準にするかの確認が必要。risk premium はリスクを取る見返りの上乗せを指す。be at a premium が「不足して貴重だ」を意味する語義5、put a premium on が「重視する」を意味する語義6とは分ける。"
+      ],
+      "synonyms": [
+        {
+          "word": "surcharge",
+          "definition": "通常の料金に加えて請求する追加料金。",
+          "frequency": 7,
+          "difference": "事業者が別項目として加算する料金を表しやすい。premium は質や立地などによる価格差も指す。",
+          "example": "There is a surcharge for express delivery.",
+          "translation": "速達には追加料金がかかる。"
+        },
+        {
+          "word": "markup",
+          "definition": "原価などを基準に上乗せする額や率。",
+          "frequency": 6,
+          "difference": "売り手が販売価格を設定する際の上乗せに焦点がある。premium の比較基準は原価に限らない。",
+          "example": "The retailer applies a small markup to each item.",
+          "translation": "その小売業者は、各商品に小幅な上乗せをしている。"
+        },
+        {
+          "word": "bonus",
+          "definition": "通常の支払いに追加して与えられる金銭。",
+          "frequency": 8,
+          "difference": "従業員などが受け取る特別手当・報奨の意味で重なる。購入者が払う割増料金の一般語ではない。",
+          "example": "The staff received a bonus for completing the project early.",
+          "translation": "職員は、プロジェクトを早く終えたことで特別手当を受け取った。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "discount",
+          "definition": "通常価格や基準額からの値引き。",
+          "frequency": 8,
+          "difference": "基準額を上回る premium に対し、下回るという金額の方向で対立する。",
+          "example": "The bonds were sold at a discount to their face value.",
+          "translation": "その債券は、額面を下回る価格で売られた。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【形容詞・主に名詞の前】上質な・高級な",
+      "frequency": 8,
+      "register": [
+        "広告・商品説明・商業・一般。"
+      ],
+      "definition": "同種の標準的なものより品質や価値が高い、または高級なものとして位置づけられた。商品・サービス・ブランドなどによく使い、高めの価格を伴うことが多いが、単に高価だという語義4とは焦点が異なる。",
+      "patterns": [
+        "premium products＝高級な商品",
+        "a premium brand＝高級ブランド",
+        "a premium service＝上質なサービス",
+        "a premium subscription＝上位の有料契約",
+        "premium quality＝上質さ"
+      ],
+      "collocations": [
+        {
+          "pattern": "premium products",
+          "use": "高級な商品群を述べる。",
+          "example": "The store specializes in premium products for professional chefs.",
+          "translation": "その店は、プロの料理人向けの高級商品を専門に扱っている。"
+        },
+        {
+          "pattern": "a premium brand",
+          "use": "市場で上位に位置づけられるブランドを示す。",
+          "example": "The company launched a premium brand of coffee.",
+          "translation": "その会社は、高級コーヒーのブランドを立ち上げた。"
+        },
+        {
+          "pattern": "a premium service",
+          "use": "標準より質や内容の高いサービスを示す。",
+          "example": "The hotel offers a premium service with a dedicated concierge.",
+          "translation": "そのホテルは、専任のコンシェルジュが付く上質なサービスを提供している。"
+        },
+        {
+          "pattern": "a premium subscription",
+          "use": "無料版などに対する上位契約を述べる。",
+          "example": "A premium subscription includes offline access.",
+          "translation": "上位の有料契約には、オフラインでの利用が含まれる。"
+        }
+      ],
+      "notes": [
+        "名詞の前での使用が中心で、premium coffee、a premium package とする。広告では premium を商品等級として使うので、客観的な品質保証まで読み込まない。通常は very premium より high-quality、of premium quality などを使うが、マーケティングでは more premium のような比較的な表現も見られるため、比較が絶対に不可能とはしない。premium membership は一般に上位・有料の会員資格であり、保険料を払う会員という意味ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "high-quality",
+          "definition": "品質が高い。",
+          "frequency": 9,
+          "difference": "質の良さを直接述べ、価格帯や上位プランであることまでは指定しない。",
+          "example": "The maker uses high-quality leather.",
+          "translation": "そのメーカーは、高品質の革を使っている。"
+        },
+        {
+          "word": "superior",
+          "definition": "ほかより優れている。",
+          "frequency": 8,
+          "difference": "比較した優位性が中心。商品価格や高級ブランドの位置づけとは独立して使える。",
+          "example": "This fabric offers superior durability.",
+          "translation": "この生地は、より優れた耐久性を備えている。"
+        },
+        {
+          "word": "deluxe",
+          "definition": "標準品より豪華な、設備や内容が充実した。",
+          "frequency": 6,
+          "difference": "追加設備・装飾・快適さに焦点があり、食品の素材の質などを広く表す premium とは違う。",
+          "example": "We booked a deluxe room with a balcony.",
+          "translation": "私たちは、バルコニー付きのデラックスルームを予約した。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "low-quality",
+          "definition": "品質が低い。",
+          "frequency": 7,
+          "difference": "品質の高低という程度の軸で対立する。値段の安さそのものとは別。",
+          "example": "Low-quality materials can wear out quickly.",
+          "translation": "低品質の素材は、すぐに摩耗することがある。"
+        },
+        {
+          "word": "inferior",
+          "definition": "比較対象より品質や性能が劣る。",
+          "frequency": 7,
+          "difference": "比較評価の軸で反対になる。安価であることを必須とはしない。",
+          "example": "The replacement part was inferior to the original.",
+          "translation": "その交換部品は、元の部品より品質が劣っていた。"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "【形容詞・主に名詞の前】通常より高額な・割高な",
+      "frequency": 7,
+      "register": [
+        "商業・料金案内・ビジネス。"
+      ],
+      "definition": "価格・料金などが通常や標準より高い。値段そのものを修飾し、商品やサービスの品質が実際に優れていることまでは表さない。",
+      "patterns": [
+        "a premium price＝通常より高い価格",
+        "premium prices＝通常より高い価格設定",
+        "a premium rate＝通常より高い料金率",
+        "premium pricing＝高めの価格設定"
+      ],
+      "collocations": [
+        {
+          "pattern": "a premium price",
+          "use": "通常より高い販売価格を述べる。",
+          "example": "Buyers paid a premium price for early access to the device.",
+          "translation": "購入者は、その機器を早く入手するために通常より高い価格を払った。"
+        },
+        {
+          "pattern": "premium rates",
+          "use": "通常より高い料金を述べる。",
+          "example": "The hotel charges premium rates during the festival.",
+          "translation": "そのホテルは、祭りの期間中、通常より高い料金を請求する。"
+        },
+        {
+          "pattern": "premium pricing",
+          "use": "高価格帯に設定する方針を表す。",
+          "example": "The brand adopted premium pricing for its limited edition.",
+          "translation": "そのブランドは、限定版に高めの価格設定を採用した。"
+        }
+      ],
+      "notes": [
+        "a premium product は主に「高級品」、a premium price は「高い価格」。前者は品物の質・位置づけ、後者は金額を述べる。形容詞として「保険の」という意味を無条件に当てはめない。insurance premium rate は保険料率を表す複合名詞で、語順・文脈が異なる。"
+      ],
+      "synonyms": [
+        {
+          "word": "high",
+          "definition": "価格・料金・費用などの額が大きい。",
+          "frequency": 10,
+          "difference": "一般的な金額の高さを表し、標準より上位の料金設定という含みは必須でない。",
+          "example": "The service comes at a high price.",
+          "translation": "そのサービスには高い料金がかかる。"
+        },
+        {
+          "word": "above-average",
+          "definition": "平均を上回る。",
+          "frequency": 7,
+          "difference": "比較基準を平均に限定する。premium の基準は通常料金や標準プランである場合もある。",
+          "example": "They charge above-average rates for storage.",
+          "translation": "彼らは、保管に平均以上の料金を請求する。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "low",
+          "definition": "価格・料金などの額が小さい。",
+          "frequency": 10,
+          "difference": "金額の高低という程度上の対立。品質が低いという意味までは含まない。",
+          "example": "The shop attracts customers with low prices.",
+          "translation": "その店は、低価格で顧客を引きつけている。"
+        },
+        {
+          "word": "discounted",
+          "definition": "通常価格から値下げされた。",
+          "frequency": 7,
+          "difference": "通常より上の価格に対し、値引きで下げられた状態を表す。",
+          "example": "Members can buy tickets at discounted prices.",
+          "translation": "会員は、割引価格でチケットを購入できる。"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "【名詞を含む慣用表現・at a premium】不足して貴重で",
+      "frequency": 7,
+      "register": [
+        "一般・ビジネス・報道。"
+      ],
+      "definition": "必要とされる物・空間・時間などが十分に得られず、そのため貴重になっている。実際の売買価格が付く物に限らない。",
+      "patterns": [
+        "be at a premium＝不足して貴重である",
+        "space is at a premium＝場所に余裕がない",
+        "time is at a premium＝時間に余裕がない"
+      ],
+      "collocations": [
+        {
+          "pattern": "space is at a premium",
+          "use": "使える空間が限られていることを述べる。",
+          "example": "Space is at a premium in this small apartment.",
+          "translation": "この小さなアパートでは、使える空間が限られている。"
+        },
+        {
+          "pattern": "time is at a premium",
+          "use": "時間が少なく貴重だと述べる。",
+          "example": "Time is at a premium during the final week of rehearsals.",
+          "translation": "リハーサルの最終週には、時間に余裕がない。"
+        },
+        {
+          "pattern": "parking is at a premium",
+          "use": "駐車できる場所が不足していることを述べる。",
+          "example": "Parking is at a premium near the stadium on match days.",
+          "translation": "試合の日は、スタジアムの近くで駐車できる場所が不足する。"
+        }
+      ],
+      "notes": [
+        "at a premium の a を落とさない。主語が space、time、privacy などなら、単なる高価格より「不足して貴重」という意味を読み取りやすい。The tickets sold at a premium. のような売買価格の文脈は語義2。希少な物なら両方の含みが重なることもある。"
+      ],
+      "synonyms": [
+        {
+          "word": "scarce",
+          "definition": "需要に対して十分にない、乏しい。",
+          "frequency": 8,
+          "difference": "不足そのものが中心。at a premium は不足に伴う貴重さも示す。",
+          "example": "Affordable rooms are scarce in this area.",
+          "translation": "この地域では、手頃な料金の部屋が少ない。"
+        },
+        {
+          "word": "in short supply",
+          "definition": "必要な量に対して供給が不足している。",
+          "frequency": 7,
+          "difference": "供給不足を直接表し、高く評価されるという側面を必須としない。",
+          "example": "Skilled technicians are in short supply.",
+          "translation": "熟練した技術者が不足している。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "plentiful",
+          "definition": "十分に、豊富にある。",
+          "frequency": 7,
+          "difference": "得られる量の多寡という軸で対立する。価格の安さまでは必須でない。",
+          "example": "Storage space is plentiful in the new office.",
+          "translation": "新しいオフィスには、収納スペースが豊富にある。"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "【名詞・通常単数・慣用構文】高い価値・重視",
+      "frequency": 7,
+      "register": [
+        "一般・教育・ビジネス・論説。"
+      ],
+      "definition": "ある性質・能力・結果などに認める特別な価値。put、place、set などと a premium on を組み合わせ、「重んじる・特に重要と考える」と表す。金銭の支払いを必須としない。",
+      "patterns": [
+        "put a premium on something＝何かを重視する",
+        "place a high premium on something＝何かをとりわけ重視する",
+        "set a premium on doing something＝ある行為を重視する"
+      ],
+      "collocations": [
+        {
+          "pattern": "put a premium on reliability",
+          "use": "重要な価値として扱う性質を on の後に置く。",
+          "example": "Our customers put a premium on reliability.",
+          "translation": "私たちの顧客は、信頼性を重視している。"
+        },
+        {
+          "pattern": "place a high premium on something",
+          "use": "評価の高さを high で明示する。",
+          "example": "The school places a high premium on independent thinking.",
+          "translation": "その学校は、自分で考える力をとりわけ重視している。"
+        },
+        {
+          "pattern": "set a premium on doing something",
+          "use": "動名詞で重視する行為を示す。",
+          "example": "The team sets a premium on sharing information promptly.",
+          "translation": "そのチームは、速やかに情報を共有することを重視している。"
+        }
+      ],
+      "notes": [
+        "put a premium on speed は速度に高い価値を置くこと。pay a premium for speed なら速さのために割増額を払うことになり、動詞・前置詞が変わる。put a premium to ... としない。on の後には名詞や動名詞を置ける。"
+      ],
+      "synonyms": [
+        {
+          "word": "importance",
+          "definition": "重要であるという価値。",
+          "frequency": 9,
+          "difference": "attach importance to ... のように使う一般的な名詞。premium は慣用構文で特に高く評価することを示す。",
+          "example": "We attach great importance to clear communication.",
+          "translation": "私たちは、分かりやすい意思疎通を非常に重要視している。"
+        },
+        {
+          "word": "value",
+          "definition": "物事に認める価値や有用性。",
+          "frequency": 9,
+          "difference": "金額・有用性・重要性を広く表す。place a high value on ... がこの語義に近い。",
+          "example": "The organization places a high value on experience.",
+          "translation": "その組織は、経験に高い価値を置いている。"
+        },
+        {
+          "word": "priority",
+          "definition": "他より優先して扱うこと。",
+          "frequency": 8,
+          "difference": "評価の高さに加え、順序や資源配分で先にするという意味を持つ。",
+          "example": "Safety has priority over speed.",
+          "translation": "安全は速度より優先される。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【名詞・可算】景品・特典・褒賞",
+      "frequency": 4,
+      "register": [
+        "販売促進・主に米語。褒賞・賞品の意味は低頻度。"
+      ],
+      "definition": "購入・加入などを促すために無料や特別価格で提供する品物、または成果などへの褒賞。通常の取引や行為に添えられる利益を表し、追加で払う料金とは向きが異なる。",
+      "patterns": [
+        "offer a premium＝景品や特典を提供する",
+        "a premium with a purchase＝購入に付く景品",
+        "a premium for 〈行為・成果〉＝その行為や成果への特典・褒賞",
+        "award a premium＝褒賞を授ける"
+      ],
+      "collocations": [
+        {
+          "pattern": "offer a premium with a purchase",
+          "use": "購入特典として物を付ける。",
+          "example": "The store offers a tote bag as a premium with every purchase over 50 dollars.",
+          "translation": "その店は、50ドルを超える買い物のすべてに、景品としてトートバッグを付けている。"
+        },
+        {
+          "pattern": "a premium for 〈加入行為〉",
+          "use": "加入を促す特典を述べる。",
+          "example": "New subscribers receive a calendar as a premium for signing up.",
+          "translation": "新規購読者は、申込み特典としてカレンダーを受け取る。"
+        },
+        {
+          "pattern": "award a premium for 〈成果〉",
+          "use": "展示会などの賞品・褒賞を述べる。",
+          "example": "The agricultural society awarded a premium for the best exhibit.",
+          "translation": "その農業協会は、最優秀の展示品に褒賞を授けた。"
+        }
+      ],
+      "notes": [
+        "広告などの premium は、無料品だけでなく、購入者向けの特別価格の品にも使われる。日本語の「プレミアム」が常に景品を指すわけではなく、英語でも高級品・保険料・割増額とは文脈で区別する。褒賞義は award、prize のほうが現代の一般文では普通。"
+      ],
+      "synonyms": [
+        {
+          "word": "free gift",
+          "definition": "購入などに伴って無料でもらえる品。",
+          "frequency": 7,
+          "difference": "無料であることを明示する。premium は特別な割引価格で提供する品も含み得る。",
+          "example": "Every customer received a free gift.",
+          "translation": "顧客は全員、無料の贈り物を受け取った。"
+        },
+        {
+          "word": "incentive",
+          "definition": "行動を促すための報酬や特典。",
+          "frequency": 8,
+          "difference": "物品に限らず、割引・金銭・制度上の利益も含む。",
+          "example": "The discount is an incentive to renew early.",
+          "translation": "その割引は、早期更新を促すための特典だ。"
+        },
+        {
+          "word": "prize",
+          "definition": "競争や審査で優れた結果に与える賞品。",
+          "frequency": 8,
+          "difference": "競争で得る褒賞の意味で重なる。購入者全員への景品一般にはそのまま使わない。",
+          "example": "The winner received a cash prize.",
+          "translation": "優勝者は賞金を受け取った。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【名詞・可算】オプション料",
+      "frequency": 4,
+      "register": [
+        "金融・オプション取引。"
+      ],
+      "definition": "金融取引で、一定の条件で売買する権利であるオプションそのものに付く価格。オプションの購入者が、その権利を得る対価として支払う。",
+      "patterns": [
+        "an option premium＝オプションの価格・オプション料",
+        "pay a premium for an option＝オプション料を払う",
+        "receive an option premium＝オプション料を受け取る"
+      ],
+      "collocations": [
+        {
+          "pattern": "pay a premium for an option",
+          "use": "権利の取得対価を述べる。",
+          "example": "The buyer paid a premium of 200 dollars for the option.",
+          "translation": "買い手は、そのオプションの対価として200ドルを支払った。"
+        },
+        {
+          "pattern": "an option premium",
+          "use": "権利そのものの価格について述べる。",
+          "example": "The option premium rose as market uncertainty increased.",
+          "translation": "市場の不確実性が増すにつれて、オプション料は上昇した。"
+        },
+        {
+          "pattern": "receive an option premium",
+          "use": "売り手側が受け取る対価を述べる。",
+          "example": "The seller received the option premium at the start of the trade.",
+          "translation": "売り手は、その取引の開始時にオプション料を受け取った。"
+        }
+      ],
+      "notes": [
+        "option premium はオプションを得る価格であり、権利を行使して原資産を売買する際の価格である strike price と別。語義2の「基準価格を上回る差額」とは異なり、ここでは権利そのものの対価を表す。語彙上の区別であって、特定商品の決済方法や損益条件を一律に定める説明ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "option price",
+          "definition": "オプションそのものの取引価格。",
+          "frequency": 4,
+          "difference": "premium の保険料・割増額との曖昧さを避け、価格の対象を明示する。",
+          "example": "The table lists the option prices for different expiration dates.",
+          "translation": "その表は、満期日ごとのオプション価格を示している。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 9,
+      "title": "【名詞・不可算】上位等級のガソリン・ハイオク",
+      "frequency": 5,
+      "register": [
+        "燃料・自動車・特に米語。"
+      ],
+      "definition": "燃料の文脈で、標準のガソリンより上位の等級として販売されるガソリン。特に米語では、オクタン価の高い premium gasoline を短く premium と呼ぶ。",
+      "patterns": [
+        "use premium＝プレミアムガソリンを使う",
+        "run on premium＝プレミアムガソリンで走る",
+        "fill up with premium＝プレミアムガソリンを満タンに入れる"
+      ],
+      "collocations": [
+        {
+          "pattern": "use premium",
+          "use": "使用する燃料の種類を述べる。",
+          "example": "The manual says this engine should use premium.",
+          "translation": "説明書には、このエンジンにはプレミアムガソリンを使うべきだと書いてある。"
+        },
+        {
+          "pattern": "run on premium",
+          "use": "エンジンなどが使う燃料を on で示す。",
+          "example": "This car is designed to run on premium.",
+          "translation": "この車は、プレミアムガソリンで走るように設計されている。"
+        },
+        {
+          "pattern": "fill up with premium",
+          "use": "給油する燃料を指定する。",
+          "example": "He filled up with premium before the trip.",
+          "translation": "彼は出発前に、プレミアムガソリンを満タンに入れた。"
+        }
+      ],
+      "notes": [
+        "この意味は物質名詞として不可算なので、通常は some premium、use premium とする。保険料の複数 premiums と取り違えない。premium gasoline の premium は語義3に対応する形容詞で、gasoline を省いて燃料自体を指す用法がこの語義。燃料等級の呼び方や数値基準は国・地域で異なり、「どの車にも高性能をもたらす」といった効果を語だけから推測しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "premium gasoline",
+          "definition": "上位等級のガソリン。",
+          "frequency": 5,
+          "difference": "燃料であることを明示する米語の表現。英国では gasoline の代わりに petrol を使う。",
+          "example": "The pump is labeled premium gasoline.",
+          "translation": "その給油機には、プレミアムガソリンと表示されている。"
+        },
+        {
+          "word": "high-octane gasoline",
+          "definition": "オクタン価が高いガソリン。",
+          "frequency": 5,
+          "difference": "燃料の性質を直接表す。premium という販売上の等級名と、どの地域でも同じ基準になるとは限らない。",
+          "example": "The engine requires high-octane gasoline.",
+          "translation": "そのエンジンには、オクタン価の高いガソリンが必要だ。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

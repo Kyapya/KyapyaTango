@@ -1,0 +1,643 @@
+{
+  "word": "insure",
+  "slug": "insure",
+  "ipa": "米: /ɪnˈʃʊr/｜英: /ɪnˈʃɔː/。2音節で、第2音節に主強勢を置く。示した米英差は、第2音節の母音が米 /ʊ/・英 /ɔː/ であることと、米語ではその後の /r/ を発音すること。英語でも後ろに母音が続くと /r/ が現れ得る。",
+  "lead": "人・物・活動などについて保険を手配し、損害や所定の事態に備える。主語は保険に加入する本人や、その手配を行う人・組織。目的語は保険の対象であり、保険料の額ではない。",
+  "updated": "2026-10-12",
+  "notion_url": "https://app.notion.com/p/insure-3f74faa9b77d8110ab40d82c641aaebf",
+  "pronunciation": [
+    "英語には /ɪnˈʃʊə/、米語には /ɪnˈʃɝː/ という発音もある。insures は語末に /z/、insured は /d/ を加え、insuring は語末の e を落として ing を付ける。"
+  ],
+  "etymology": [
+    "ensure と歴史的に同系の形で、中英語 ensuren にさかのぼる。古フランス語 enseurer「確かにする・安全にする」と結びつき、その sure の部分はラテン語 securus「心配のない・安全な」に由来する。現代では保険をかける・引き受ける意味が中心だが、確実にするという一般的な意味も残る。",
+    "同語源の語に ensure「確実にする」、assure「人を安心させる・確約する」、secure「安全な・確保する」がある。同じ語族でも、assure someone that ... のような人への確約と、insure something の保険とは構文・意味を分けて覚える。"
+  ],
+  "formation": [
+    {
+      "term": "insurance",
+      "description": "保険・保障・備えなどを表す名詞。"
+    },
+    {
+      "term": "insurer",
+      "description": "保険を提供する人や会社という可算名詞。保険に入る顧客のことではない。"
+    },
+    {
+      "term": "insurable",
+      "description": "保険をかけることが可能なという形容詞。"
+    },
+    {
+      "term": "insured",
+      "description": "過去形・過去分詞のほか、保険がかかっているという形容詞、被保険者を表す名詞としても使う。語義4・8参照。"
+    },
+    {
+      "term": "uninsured",
+      "description": "保険に入っていない、保険で保障されていないという形容詞。the uninsured は無保険の人々。"
+    },
+    {
+      "term": "underinsured",
+      "description": "保険の保障額・範囲が不足しているという形容詞。uninsured と違い、保険が全くないとは限らない。"
+    },
+    {
+      "term": "reinsure",
+      "description": "再保険をかける・引き受けるという動詞。"
+    },
+    {
+      "term": "self-insure",
+      "description": "リスクに備えて自ら資金を用意するなどして、自己保険を行うという動詞。通常の保険契約を結ぶことと同じではない。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "「危険や不確実さに備え、確かな状態を作ること」が共通核。保険の加入者側・提供者側の行為、保障された状態・対象者、一般的な確実化や予防へと分かれる。"
+    },
+    {
+      "type": "item",
+      "text": "確かな備えを対象に付ける行為 → 「保険をかける」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "確かな備えを対象に提供する行為 → 「保険を引き受ける・保障する」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "確かな備えを保険で得る行為 → 「保険に加入する」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "確かな備えが保険としてある状態 → 「保険がかかっている」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "確かな結果を作る行為 → 「確実にする」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "確かな備えを対策で作る行為 → 「予防策を取る・備える」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "確かな備えを人や物に対策で持たせる行為 → 「危険から守る・備えさせる」（語義7）"
+    },
+    {
+      "type": "item",
+      "text": "確かな備えの対象となる人や組織 → 「被保険者」（語義8）"
+    },
+    {
+      "type": "item",
+      "text": "確かな備えを提供する業務 → 「保険の引受けを行う」（語義9）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞】保険をかける",
+      "frequency": 8,
+      "register": [
+        "日常・旅行・保険・ビジネス。"
+      ],
+      "definition": "人・物・活動などについて保険を手配し、損害や所定の事態に備える。主語は保険に加入する本人や、その手配を行う人・組織。目的語は保険の対象であり、保険料の額ではない。",
+      "patterns": [
+        "insure something＝物に保険をかける",
+        "insure someone against 〈危険〉＝その危険に備えて人に保険をかける",
+        "insure something against 〈損害〉＝その損害に備えて物に保険をかける",
+        "insure something for 〈金額〉＝その額の保障となるように物に保険をかける",
+        "insure something with 〈保険会社〉＝その会社で物に保険をかける",
+        "insure oneself against 〈危険〉＝その危険に備えて自分に保険をかける"
+      ],
+      "collocations": [
+        {
+          "pattern": "insure something",
+          "use": "対象物を直接目的語にする。",
+          "example": "We insured the camera before taking it abroad.",
+          "translation": "私たちは、そのカメラを海外へ持っていく前に保険をかけた。"
+        },
+        {
+          "pattern": "insure something against theft",
+          "use": "対象物と備える危険を区別する。",
+          "example": "She insured her bicycle against theft.",
+          "translation": "彼女は盗難に備えて自転車に保険をかけた。"
+        },
+        {
+          "pattern": "insure something for 〈金額〉",
+          "use": "保障額を for で示す。",
+          "example": "The owner insured the painting for 80,000 dollars.",
+          "translation": "所有者は、その絵に8万ドルの保険をかけた。"
+        },
+        {
+          "pattern": "insure something with 〈保険会社〉",
+          "use": "契約先の会社を with で示す。",
+          "example": "We insured the van with a local company.",
+          "translation": "私たちは地元の会社で、そのバンに保険をかけた。"
+        },
+        {
+          "pattern": "insure oneself against 〈危険〉",
+          "use": "保険をかける人と対象となる人が同じ場合。",
+          "example": "The consultant insured herself against loss of earnings.",
+          "translation": "そのコンサルタントは、収入の喪失に備えて自分に保険をかけた。"
+        }
+      ],
+      "notes": [
+        "insure the car は「車に保険をかける」で、保険会社に加入させるという意味ではない。目的語が主語本人なら insure myself、insure yourself などの再帰形を使えるが、insure against ... という自動詞構文もある（語義3）。ここで挙げた for 80,000 dollars は保障額を示すが、費用を述べる文脈では for 以下が保険料を示すこともある。たとえば insure the car for 600 dollars a year なら、通常は年間600ドルの保険料で車に保険をかけるという意味になる。ただし insure the car for theft のように危険・損害を for で示す用法もあるため、「for の後は必ず金額」とはしない。保険を提供する会社が主語なら語義2。保険契約を伴わず、人や物を対策によって守る他動詞・再帰用法は語義7。"
+      ],
+      "synonyms": [
+        {
+          "word": "take out insurance on",
+          "definition": "物を対象に保険契約を結ぶ。",
+          "frequency": 7,
+          "difference": "加入する側の行為が明確。insure と異なり、保険会社が保障を提供する意味には通常ならない。",
+          "example": "They took out insurance on the new machinery.",
+          "translation": "彼らは新しい機械に保険をかけた。"
+        },
+        {
+          "word": "cover",
+          "definition": "保険などで損害に備える。",
+          "frequency": 7,
+          "difference": "保険が何を保障するかという内容に焦点を置きやすく、契約する行為に限らない。",
+          "example": "We covered the equipment against accidental damage.",
+          "translation": "私たちは、偶発的な損害に備えて機器に保険をかけた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【動詞・他動詞】保険を引き受ける・保障する",
+      "frequency": 7,
+      "register": [
+        "保険・契約・ビジネス。"
+      ],
+      "definition": "保険会社などが、人・物・リスクを対象として保険による保障を提供する。主語は主に保険の提供者で、保険契約を主語にしてその保障機能を述べることもある。",
+      "patterns": [
+        "insure someone＝人を保険の対象として引き受ける",
+        "insure something＝物を保険の対象として引き受ける",
+        "insure someone against 〈危険〉＝人をその危険に備えて保険で保障する",
+        "insure something against 〈損害〉＝物をその損害に備えて保険で保障する",
+        "insure something for 〈金額〉 a year＝年間保険料がその額となるように物に保険を提供する"
+      ],
+      "collocations": [
+        {
+          "pattern": "insure 〈対象者〉",
+          "use": "保険会社が人を引受対象にする。",
+          "example": "The company insures professional musicians.",
+          "translation": "その会社は、プロの音楽家を対象とする保険を引き受けている。"
+        },
+        {
+          "pattern": "insure 〈対象物〉",
+          "use": "保険会社が物を引受対象にする。",
+          "example": "This insurer insures commercial vehicles.",
+          "translation": "この保険会社は、事業用車両の保険を引き受けている。"
+        },
+        {
+          "pattern": "insure someone against 〈危険〉",
+          "use": "提供者と保障対象の危険を明示する。",
+          "example": "The insurer will insure you against the loss of your equipment.",
+          "translation": "その保険会社は、機器の喪失に備える保険をあなたに提供する。"
+        },
+        {
+          "pattern": "a policy + insure + someone against 〈危険〉",
+          "use": "保険契約を主語に、その保障機能を述べる。",
+          "example": "The policy insures the owner against fire damage.",
+          "translation": "その保険契約は、火災による損害に対して所有者を保障する。"
+        },
+        {
+          "pattern": "insure the car for 〈金額〉 a year",
+          "use": "年間の費用を示して、保険料としての for の金額を明確にする。",
+          "example": "This insurer can insure the car for 600 dollars a year.",
+          "translation": "この保険会社なら、年間600ドルの保険料でその車を保障できる。"
+        }
+      ],
+      "notes": [
+        "I insure my car. なら通常は加入する側、The company insures cars. なら文脈次第で提供する側になる。主語が company というだけでは決まらず、その会社が顧客なのか保険者なのかを読む。insure someone to do something は、特に受動・状態表現の be insured to drive などで、ある活動が保障対象に入ることを示す（語義4）。保険者 insurer、被保険者 the insured、契約者 policyholder は役割を区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "cover",
+          "definition": "保険によって保障する。",
+          "frequency": 8,
+          "difference": "保障対象の人・物・損害を表せる。insure より一般的で、保険以外の費用負担にも使う。",
+          "example": "The policy covers damage caused by a burst pipe.",
+          "translation": "その保険契約は、配管の破裂による損害を補償する。"
+        },
+        {
+          "word": "underwrite",
+          "definition": "保険のリスクを引き受ける。",
+          "frequency": 5,
+          "difference": "保険者側の専門的な引受行為に焦点を置く。証券の引受けにも使う多義語。",
+          "example": "The firm underwrites marine insurance.",
+          "translation": "その会社は海上保険を引き受けている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞・自動詞】保険に加入する",
+      "frequency": 6,
+      "register": [
+        "日常・保険・ビジネス。"
+      ],
+      "definition": "直接目的語を置かず、保険に入ることを述べる。どの危険に備えるか、どの会社で加入するか、どの程度の額を設定するかを前置詞句で補うことが多い。",
+      "patterns": [
+        "insure against 〈危険〉＝その危険に備えて保険に入る",
+        "insure with 〈保険会社〉＝その会社で保険に入る",
+        "insure for 〈金額〉＝その額の保障となるように保険に入る"
+      ],
+      "collocations": [
+        {
+          "pattern": "insure against flood damage",
+          "use": "保険の対象物を直接目的語にせず、危険を示す。",
+          "example": "The owners decided to insure against flood damage.",
+          "translation": "所有者たちは、洪水による損害に備えて保険に入ることにした。"
+        },
+        {
+          "pattern": "insure with 〈保険会社〉",
+          "use": "契約先を述べる。",
+          "example": "We have always insured with the same company.",
+          "translation": "私たちはずっと同じ会社で保険に入っている。"
+        },
+        {
+          "pattern": "insure for 〈金額〉",
+          "use": "文脈で対象が分かる場合に保障額を示す。",
+          "example": "For this shipment, we insured for the full replacement value.",
+          "translation": "今回の貨物には、買い替えに必要な額の全額を保障額とする保険をかけた。"
+        }
+      ],
+      "notes": [
+        "against は前置詞なので、insure against it とし、insure it against のように対象となる危険を動詞の直後へ移さない。insure it against theft の it は保険をかける物を表し、語義1の他動詞構文になる。保険契約を伴わず一般的な対策を取る自動詞の insure against は語義6、insure oneself against などの他動詞用法は語義7。for の金額が保障額か保険料かも、支払頻度などの文脈から判断する。"
+      ],
+      "synonyms": [
+        {
+          "word": "take out insurance",
+          "definition": "保険契約を結ぶ。",
+          "frequency": 8,
+          "difference": "契約する行為を明示する。insure with ... は契約先との継続的な関係を述べる場合にも使える。",
+          "example": "They took out insurance before the event.",
+          "translation": "彼らは、その行事の前に保険に加入した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【形容詞・insured・限定用法と叙述用法】保険がかかっている",
+      "frequency": 8,
+      "register": [
+        "日常・保険・契約。"
+      ],
+      "definition": "insure の過去分詞から、保険による保障を受けている状態を表す。人・財産・活動などに使い、特定の損害に備えた保障や、ある行為をする際の保障があることも示す。",
+      "patterns": [
+        "be insured＝保険がかかっている",
+        "be insured against 〈危険〉＝その危険に備える保険に入っている",
+        "be insured for 〈金額〉＝その額の保険がかかっている",
+        "be insured to do something＝その行為をする際に保険で保障される",
+        "an insured driver＝保険に入っている運転者",
+        "get insured＝保険に入った状態になる"
+      ],
+      "collocations": [
+        {
+          "pattern": "be insured against 〈危険〉",
+          "use": "保障がある状態と危険を結びつける。",
+          "example": "The warehouse is insured against fire.",
+          "translation": "その倉庫には火災保険がかかっている。"
+        },
+        {
+          "pattern": "be insured for 〈金額〉",
+          "use": "保険が設定されている額を示す。",
+          "example": "The instruments are insured for 50,000 dollars.",
+          "translation": "それらの楽器には、5万ドルの保険がかかっている。"
+        },
+        {
+          "pattern": "be insured to drive 〈車両〉",
+          "use": "運転行為が保険で保障されることを示す。",
+          "example": "Are you insured to drive this van?",
+          "translation": "このバンを運転する際に適用される保険に入っていますか。"
+        },
+        {
+          "pattern": "an insured driver",
+          "use": "名詞の前で保険加入済みと述べる。",
+          "example": "The agreement allows an insured driver to use the vehicle.",
+          "translation": "その契約は、保険に加入している運転者による車両の使用を認めている。"
+        },
+        {
+          "pattern": "get insured",
+          "use": "保険がある状態への移行を表す。",
+          "example": "You should get insured before renting out the equipment.",
+          "translation": "その機器を貸し出す前に、保険に入っておくべきです。"
+        }
+      ],
+      "notes": [
+        "be insured は、誰かが保険をかける動作を表す受動態とも、保険がある状態を表す形容詞とも解釈できる。限定用法は an insured vehicle、叙述用法は The vehicle is insured. で、insured 自体にハイフンは付けない。fully insured、adequately insured のように保障の充足度を示せるが、very insured は普通使わない。be insured to drive は運転免許や法律上の運転資格を与えるという意味ではない。for は金額だけでなく、insured for accidental damage のように補償対象も示す。"
+      ],
+      "synonyms": [
+        {
+          "word": "covered",
+          "definition": "保険などの保護対象に入っている。",
+          "frequency": 8,
+          "difference": "保障対象に含まれることを強調し、under the policy などと結びつく。",
+          "example": "The driver is covered under the company policy.",
+          "translation": "その運転者は、会社の保険契約の補償対象に入っている。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "uninsured",
+          "definition": "保険による保障がない。",
+          "frequency": 6,
+          "difference": "該当する保険保障の有無という軸で対立する。保障が不十分な underinsured とは異なる。",
+          "example": "The stolen bicycle was uninsured.",
+          "translation": "盗まれた自転車には保険がかかっていなかった。"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "【動詞・他動詞】確実にする",
+      "frequency": 6,
+      "register": [
+        "主に米語・一般文・ビジネス。"
+      ],
+      "definition": "ある結果が実現するように、またはある状態が確かなものになるようにする。保険契約ではなく、手段・確認・準備などによる確実性を表す ensure と重なる用法。",
+      "patterns": [
+        "insure something＝何かを確実にする",
+        "insure that 〈節〉＝節の内容を確実にする"
+      ],
+      "collocations": [
+        {
+          "pattern": "insure accuracy",
+          "use": "作業によって正確さを確保する。",
+          "example": "The editor checked every figure to insure accuracy.",
+          "translation": "編集者は正確さを確保するために、すべての数値を確認した。"
+        },
+        {
+          "pattern": "insure that 〈節〉",
+          "use": "実現・維持したい内容を that 節で示す。",
+          "example": "Please confirm the address to insure that the package reaches the right person.",
+          "translation": "荷物が正しい相手に届くように、住所を確認してください。"
+        },
+        {
+          "pattern": "insure a fair hearing",
+          "use": "抽象的な機会や手続きを確実にする。",
+          "example": "The new procedure is intended to insure a fair hearing for every applicant.",
+          "translation": "新しい手続きは、申請者全員に公正な意見聴取の機会を確保することを目的としている。"
+        }
+      ],
+      "notes": [
+        "米語で認められる用法であり、insure を保険以外に使っただけで誤りとはしない。ただし地域や編集方針によって ensure を好むため、自分で書くときは「確実にする」を ensure、「保険をかける」を insure と分けると明確。insure that ... の that は省略されることもある。人に安心させる言葉をかけるなら assure someone that ... を使い、insure someone that ... をその代用にはしない。"
+      ],
+      "synonyms": [
+        {
+          "word": "ensure",
+          "definition": "ある結果や状態を確実にする。",
+          "frequency": 9,
+          "difference": "この一般義を米英で広く表す。保険契約を結ぶ意味の insure とは区別する。",
+          "example": "The checklist helps ensure that nothing is overlooked.",
+          "translation": "そのチェックリストは、何も見落とさないようにする助けになる。"
+        },
+        {
+          "word": "guarantee",
+          "definition": "結果などが確実だと保証する、または確実にする。",
+          "frequency": 8,
+          "difference": "約束・保証という要素を帯びやすいが、手段が結果を確実にする意味でも使う。",
+          "example": "A reservation does not guarantee a seat by the window.",
+          "translation": "予約をしても、窓側の席が保証されるわけではない。"
+        },
+        {
+          "word": "secure",
+          "definition": "望ましいものを確保する。",
+          "frequency": 8,
+          "difference": "機会・権利・成功などを得て保つことに焦点があり、ensure のように広く that 節を取る語ではない。",
+          "example": "The agreement secured access to the research data.",
+          "translation": "その合意によって、研究データへのアクセスが確保された。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【動詞・自動詞・insure against】予防策を取る・備える",
+      "frequency": 5,
+      "register": [
+        "一般・ビジネス・比喩。"
+      ],
+      "definition": "好ましくない事態が起こることや、その影響を受けることに備えて対策を取る。文字どおりの保険契約を結ぶことを必須としない。",
+      "patterns": [
+        "insure against 〈不都合〉＝その不都合に備える",
+        "insure against doing something＝その行為をしてしまうことを防ぐ備えをする",
+        "insure against 〈不都合〉 by doing something＝その行為によって不都合に備える"
+      ],
+      "collocations": [
+        {
+          "pattern": "insure against data loss",
+          "use": "データを失う事態への予防策を述べる。",
+          "example": "We keep an offline backup to insure against data loss.",
+          "translation": "私たちはデータの喪失に備えて、オフラインのバックアップを保管している。"
+        },
+        {
+          "pattern": "insure against 〈不都合〉 by doing something",
+          "use": "具体的な備えの方法を by で示す。",
+          "example": "The team insured against bad weather by reserving an indoor venue.",
+          "translation": "チームは屋内の会場を予約して、悪天候に備えた。"
+        },
+        {
+          "pattern": "insure against making mistakes",
+          "use": "against の後に動名詞を置く。",
+          "example": "Using a checklist helps insure against making simple mistakes.",
+          "translation": "チェックリストを使うことは、単純な間違いを防ぐ備えになる。"
+        }
+      ],
+      "notes": [
+        "against の後ろは避けたい事態。by の後ろはその対策になる行為で、両者を逆にしない。保険商品に入る語義3と形は同じなので、backup、checklist、indoor venue など具体的な手段から読む。insure against は米語だけの用法ではない。対策を取ることと、失敗の可能性を完全に消すことは同一ではない。守る対象を目的語に置く insure someone against ...、insure oneself against ... は語義7の他動詞構文になる。"
+      ],
+      "synonyms": [
+        {
+          "word": "guard against",
+          "definition": "望ましくない事態を防ぐよう注意する。",
+          "frequency": 7,
+          "difference": "監視・注意・予防に重点があり、損失時の備えより発生防止を表しやすい。",
+          "example": "Regular checks help guard against errors.",
+          "translation": "定期的な確認は、誤りを防ぐ助けになる。"
+        },
+        {
+          "word": "safeguard against",
+          "definition": "危険や不利益に対する保護策を講じる。",
+          "frequency": 6,
+          "difference": "制度や仕組みとしての防護にも使う。",
+          "example": "The review process safeguards against conflicts of interest.",
+          "translation": "その審査手続きは、利益相反を防ぐための仕組みになっている。"
+        },
+        {
+          "word": "prepare for",
+          "definition": "予想される事態に備える。",
+          "frequency": 9,
+          "difference": "悪い事態に限らず、発生を防がず対処する準備をすることも表す。",
+          "example": "The staff prepared for a possible power outage.",
+          "translation": "職員は、停電が起こる可能性に備えた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【動詞・他動詞】危険から守る・備えさせる",
+      "frequency": 5,
+      "register": [
+        "一般・ビジネス・やや改まった表現。"
+      ],
+      "definition": "保険契約に限らず、何らかの対策によって人・物を危険や不都合から保護する。目的語は守る対象で、主語自身を守る場合は oneself を使う。対策がどの程度有効かは文脈による。",
+      "patterns": [
+        "insure someone against 〈不都合〉＝人をその不都合から守る",
+        "insure something against 〈不都合〉＝物をその不都合から守る",
+        "insure oneself against 〈不都合〉＝自分をその不都合から守る",
+        "insure oneself against 〈不都合〉 by doing something＝その行為によって自分を不都合から守る"
+      ],
+      "collocations": [
+        {
+          "pattern": "insure someone against 〈不都合〉",
+          "use": "人を守るための実際の手段を示す。",
+          "example": "A spare vehicle helps insure the passengers against long delays.",
+          "translation": "予備の車両は、乗客が長時間待たされるのを防ぐ備えになる。"
+        },
+        {
+          "pattern": "insure something against 〈不都合〉",
+          "use": "物を守る仕組みの働きを述べる。",
+          "example": "The backup system insures our data against a single drive failure.",
+          "translation": "そのバックアップシステムは、ドライブ1台の故障によって私たちのデータが失われるのを防ぐ。"
+        },
+        {
+          "pattern": "insure oneself against 〈不都合〉",
+          "use": "主語と守る対象が同じ場合に再帰代名詞を置く。",
+          "example": "He brought several books to insure himself against boredom during the journey.",
+          "translation": "彼は旅の間に退屈しないように、何冊かの本を持ってきた。"
+        },
+        {
+          "pattern": "insure oneself against 〈不都合〉 by doing something",
+          "use": "自分への備えと、その具体的な方法を述べる。",
+          "example": "She insured herself against disappointment by keeping her expectations modest.",
+          "translation": "彼女は期待を控えめにすることで、失望する事態に備えた。"
+        }
+      ],
+      "notes": [
+        "insure against boredom は直接目的語のない自動詞構文（語義6）、insure oneself against boredom は自分を目的語とする他動詞構文。insure someone against ... では、against の直後が危険・不都合、someone が守る対象となる。語義1・2の保険義と形が同じなので、予備の車両・バックアップ・本・心構えなど、実際の対策を表す文脈で読み分ける。保険との誤読を避ける場合は protect、safeguard も使える。保護される側を主語にした be insured against ... は受動構文であり、能動構文から oneself だけを省いた形ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "protect",
+          "definition": "人や物を危険・損害から守る。",
+          "frequency": 9,
+          "difference": "一般的な保護を広く表し、保険契約の意味に誤読されにくい。",
+          "example": "The case protects the instrument against knocks.",
+          "translation": "そのケースは、衝撃から楽器を守る。"
+        },
+        {
+          "word": "safeguard",
+          "definition": "危険が及ばないように人や物を保護する。",
+          "frequency": 7,
+          "difference": "予防的な措置や仕組みに重点があり、権利・記録・利益などの保護にも使う。",
+          "example": "The procedure safeguards customers against unauthorized charges.",
+          "translation": "その手続きは、不正な請求から顧客を守る。"
+        },
+        {
+          "word": "shield",
+          "definition": "危険や不快な影響を遮って守る。",
+          "frequency": 7,
+          "difference": "影響が直接届かないようにする含みがある。shield someone from ... が典型。",
+          "example": "The screen shields the operator from flying debris.",
+          "translation": "そのスクリーンは、飛んでくる破片から作業者を守る。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【名詞・the insured・単数または複数】被保険者",
+      "frequency": 5,
+      "register": [
+        "保険・契約・法律。"
+      ],
+      "definition": "特定の保険契約で保障の対象となる人や組織。insure の過去分詞から名詞化した形で、保険を提供する insurer とは反対側の役割を表す。",
+      "patterns": [
+        "the insured＝被保険者",
+        "the insured is 〈状態〉＝1人または1組織の被保険者がその状態である",
+        "the insured are 〈状態〉＝複数の被保険者がその状態である",
+        "the rights of the insured＝被保険者の権利"
+      ],
+      "collocations": [
+        {
+          "pattern": "the insured",
+          "use": "契約で保障される当事者を示す。",
+          "example": "The policy identifies the company as the insured.",
+          "translation": "その保険契約では、その会社が被保険者として記されている。"
+        },
+        {
+          "pattern": "the insured is 〈状態〉",
+          "use": "単数の被保険者に対応する動詞を使う。",
+          "example": "Under this policy, the insured is responsible for reporting damage promptly.",
+          "translation": "この保険契約では、被保険者が損害を速やかに報告する責任を負う。"
+        },
+        {
+          "pattern": "the rights of the insured",
+          "use": "被保険者に属する権利を述べる。",
+          "example": "The leaflet explains the rights of the insured.",
+          "translation": "そのリーフレットは、被保険者の権利を説明している。"
+        }
+      ],
+      "notes": [
+        "一般的には the insured の形で用い、単数にも複数にもなる。the insured is ... か the insured are ... かは指している人数・組織数による。保険実務には an insured や insureds という可算形もある。契約者 policyholder、保険金受取人 beneficiary と同じ人になる場合はあるが、語自体が常に同一人物を意味するわけではない。名詞の insurer「保険者」と取り違えない。"
+      ],
+      "synonyms": [
+        {
+          "word": "insured person",
+          "definition": "保険の保障対象となる人。",
+          "frequency": 5,
+          "difference": "person を明示するため、組織も含む the insured より対象が人に限定される。",
+          "example": "Each insured person is listed in the schedule.",
+          "translation": "各被保険者は、その明細書に記載されている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 9,
+      "title": "【動詞・自動詞】保険の引受けを行う",
+      "frequency": 3,
+      "register": [
+        "保険業務・引受条件の説明。"
+      ],
+      "definition": "保険会社などが、直接目的語を置かずに保険を提供する業務や条件を述べる。加入者が保険に入る語義3と、主語の役割が異なる。",
+      "patterns": [
+        "insure against 〈危険〉＝その危険に対する保険の引受けを行う",
+        "insure at 〈料率〉＝その料率で保険を引き受ける"
+      ],
+      "collocations": [
+        {
+          "pattern": "insure against 〈危険〉",
+          "use": "提供する側で、引受けるリスクを述べる。",
+          "example": "Some insurers will not insure against this type of loss.",
+          "translation": "この種の損失に対する保険を引き受けない保険会社もある。"
+        },
+        {
+          "pattern": "insure at 〈料率〉",
+          "use": "保険者側の引受条件を述べる。",
+          "example": "The insurer agreed to insure at a lower rate.",
+          "translation": "その保険会社は、より低い料率で保険を引き受けることに同意した。"
+        }
+      ],
+      "notes": [
+        "現代の一般的な説明では provide insurance や他動詞の insure the property のほうが役割を明示しやすい。insure at ... だけで加入者か提供者かが決まるわけではなく、保険会社が引受けるという文脈を確認する。"
+      ],
+      "synonyms": [
+        {
+          "word": "underwrite",
+          "definition": "保険の引受けを業務として行う。",
+          "frequency": 4,
+          "difference": "自動詞では保険者側の引受業務を表す専門的な語。",
+          "example": "The insurer no longer underwrites in this market.",
+          "translation": "その保険会社は、この市場ではもはや引受業務を行っていない。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+{
+  "word": "policy",
+  "slug": "policy",
+  "ipa": "米: /ˈpɑː.lə.si/｜英: /ˈpɒl.ə.si/。3音節で、第1音節に主強勢を置く。示した米英差は第1音節の母音で、米語は /ɑː/、英語は /ɒ/。第2音節の母音を /ɪ/ とする発音もある。複数形 policies は y を ies に変え、語末を /siz/ とする。",
+  "lead": "政府・組織・企業などが、判断や行動の基準として選び、継続して従う考え方や行動計画。ある問題をどう扱うかを示す。法律や細かい手順そのものに限らず、方針を定めただけで実施や成果まで確定するわけではない。",
+  "updated": "2026-10-12",
+  "notion_url": "https://app.notion.com/p/policy-3f74faa9b77d81f79158d81bc30e7e8b",
+  "pronunciation": [],
+  "etymology": [
+    "「方針・政策」「行動原則」の系統（語義1・3）は、中英語 policie、古フランス語 policie「統治・行政」を経て、ギリシャ語 politeia「市民としての身分・統治」にさかのぼる。その背景には polis「都市・都市国家」があり、politics「政治」や polity「政治組織」、police「警察」と同じ語源の系統に属する。",
+    "「保険契約・保険証券」の系統（語義2）は別語源で、フランス語 police「契約・船荷証券」に由来する。イタリア語 polizza「証書・伝票」などと関係し、その背景は中世ラテン語の「受取証」を表す語、さらにギリシャ語 apodeixis「証拠・証明」に求められる。保険会社の方針だから policy と呼ぶ、という意味変化ではない。"
+  ],
+  "formation": [
+    {
+      "term": "policymaker",
+      "description": "政府・組織などで政策や方針を立案する人という可算名詞。policy-maker の綴りもある。"
+    },
+    {
+      "term": "policymaking",
+      "description": "政策・方針の立案という不可算名詞。policy-making とも書き、名詞を前から修飾することもある。"
+    },
+    {
+      "term": "policyholder",
+      "description": "保険契約者という可算名詞。policy-holder の綴りもある。政策の立案者ではない。"
+    },
+    {
+      "term": "policy statement",
+      "description": "方針や政策を表明する文書・声明という可算の複合名詞。"
+    },
+    {
+      "term": "policy document",
+      "description": "方針文書という意味にも、保険契約を記した書類という意味にもなり、文脈で判断する。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "方針の系統では、「判断や行動を導く、選んで従う筋道」が共通核。語義2は同綴異義で、保険契約・証券という語彙的意味はこの核から導けないため、個別に参照する。"
+    },
+    {
+      "type": "item",
+      "text": "行動を導く組織としての筋道 → 「方針・政策」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "行動を導く個人の原則や賢明な筋道 → 「行動原則・得策」（語義3）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算または不可算】方針・政策",
+      "frequency": 9,
+      "register": [
+        "政治・行政・企業・組織運営・情報システム。"
+      ],
+      "definition": "政府・組織・企業などが、判断や行動の基準として選び、継続して従う考え方や行動計画。ある問題をどう扱うかを示す。法律や細かい手順そのものに限らず、方針を定めただけで実施や成果まで確定するわけではない。",
+      "patterns": [
+        "adopt a policy＝方針を採用する",
+        "implement a policy＝方針を実施する",
+        "a policy on something＝何かに関する方針",
+        "a policy towards someone＝相手に対する方針",
+        "a policy of doing something＝あることをする方針",
+        "company policy is that 〈節〉＝会社の方針は節の内容である",
+        "it is company policy to do something＝あることをするのが会社の方針である",
+        "as a matter of policy＝方針上の原則として",
+        "be against company policy＝会社の方針に反する"
+      ],
+      "collocations": [
+        {
+          "pattern": "adopt a policy",
+          "use": "新たな方針を選んで取り入れる。",
+          "example": "The board adopted a policy on remote work.",
+          "translation": "取締役会は、在宅勤務に関する方針を採用した。"
+        },
+        {
+          "pattern": "implement a policy",
+          "use": "決めた方針を実行に移す。",
+          "example": "The city will implement the new recycling policy in January.",
+          "translation": "市は、1月に新しいリサイクル政策を実施する。"
+        },
+        {
+          "pattern": "a policy on something",
+          "use": "方針が扱う問題・テーマを示す。",
+          "example": "Please read our policy on the use of personal devices.",
+          "translation": "私物の機器の使用に関する当社の方針をお読みください。"
+        },
+        {
+          "pattern": "a policy towards someone",
+          "use": "相手に対する対応方針を述べる。",
+          "example": "The report examines the government policy towards foreign investors.",
+          "translation": "その報告書は、外国の投資家に対する政府の方針を検討している。"
+        },
+        {
+          "pattern": "a policy of doing something",
+          "use": "実施する行為によって方針の内容を示す。",
+          "example": "The museum follows a policy of admitting students free of charge.",
+          "translation": "その博物館は、学生を無料で入館させる方針に従っている。"
+        },
+        {
+          "pattern": "company policy is that 〈節〉",
+          "use": "内容を完全な節で説明する。",
+          "example": "Company policy is that all visitors must sign in.",
+          "translation": "来訪者は全員、受付で氏名を記入しなければならないというのが会社の方針だ。"
+        },
+        {
+          "pattern": "it is company policy to do something",
+          "use": "不定詞で組織の行動方針を示す。",
+          "example": "It is company policy to review access permissions every month.",
+          "translation": "アクセス権限を毎月見直すのが会社の方針だ。"
+        },
+        {
+          "pattern": "as a matter of policy",
+          "use": "個別の気まぐれでなく、一貫した方針だと述べる。",
+          "example": "We do not discuss individual salaries as a matter of policy.",
+          "translation": "私たちは、方針上、個人の給与については話さない。"
+        },
+        {
+          "pattern": "be against company policy",
+          "use": "行為が会社の方針に反することを述べる。",
+          "example": "Accepting expensive gifts is against company policy.",
+          "translation": "高価な贈り物を受け取ることは、会社の方針に反する。"
+        }
+      ],
+      "notes": [
+        "具体的な方針は a policy、複数なら policies。分野や組織の方針を抽象的にいう foreign policy、company policy、a change in policy では不可算でも使う。政策全般を論じる名詞 politics「政治」と区別し、policy を「政治活動」の一般語にしない。policy on は扱うテーマ、policy towards は相手への姿勢、policy of doing は方針の内容を表す典型形。toward は特に米語で用いる形で、towards とともに使える。policy against discrimination は差別に反対する方針、against company policy は会社方針に反していること。会社の方針を定めることと、法的な規制を制定することを同一視しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "strategy",
+          "definition": "目的を達成するための総合的な方法・計画。",
+          "frequency": 9,
+          "difference": "目標達成の手段に焦点がある。policy は日々の判断に一貫して適用する方針にもなる。",
+          "example": "The company needs a strategy for entering the new market.",
+          "translation": "その会社には、新しい市場へ参入するための戦略が必要だ。"
+        },
+        {
+          "word": "guideline",
+          "definition": "判断や行動の目安になる指針。",
+          "frequency": 8,
+          "difference": "具体的な判断を助ける目安を表す。policy と比べて助言的な場合があるが、必ず任意とは限らない。",
+          "example": "The guidelines explain how to handle customer data.",
+          "translation": "その指針は、顧客データの扱い方を説明している。"
+        },
+        {
+          "word": "rule",
+          "definition": "行動を定める規則。",
+          "frequency": 9,
+          "difference": "個々の許可・禁止や要求を具体的に定めることに向く。policy は複数の規則を支える方針にもなる。",
+          "example": "The rule requires visitors to wear identification badges.",
+          "translation": "その規則では、来訪者に身分証の着用を求めている。"
+        },
+        {
+          "word": "plan",
+          "definition": "これから行うことを定めた計画。",
+          "frequency": 10,
+          "difference": "一度きりの行動や日程にも使える。policy は判断を継続して導く性質を持つ。",
+          "example": "The team prepared a plan for the move.",
+          "translation": "チームは、移転の計画を作成した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算】保険契約・保険証券",
+      "frequency": 8,
+      "register": [
+        "保険・契約・旅行・家計。"
+      ],
+      "definition": "保険会社との保険契約、またはその保障内容・条件などを記した証書や文書。契約そのものを指す場合と、その書類を指す場合があり、周囲の動詞から読み分ける。",
+      "patterns": [
+        "take out a policy＝保険契約を結ぶ",
+        "renew a policy＝保険契約を更新する",
+        "a policy on something＝何かにかけた保険契約",
+        "under the policy＝その保険契約に基づいて",
+        "the terms of the policy＝保険契約の条件",
+        "the policy covers something＝その保険契約が何かを補償する",
+        "a policy expires＝保険契約の有効期限が切れる",
+        "read the policy＝保険証券・契約文書を読む"
+      ],
+      "collocations": [
+        {
+          "pattern": "take out an insurance policy",
+          "use": "新たに保険を契約する。",
+          "example": "They took out an insurance policy on the new building.",
+          "translation": "彼らは新しい建物に保険をかけた。"
+        },
+        {
+          "pattern": "renew a policy",
+          "use": "契約を更新する。",
+          "example": "She renewed her travel insurance policy online.",
+          "translation": "彼女は、旅行保険の契約をオンラインで更新した。"
+        },
+        {
+          "pattern": "a policy on something",
+          "use": "保険がかかる対象物を示す。",
+          "example": "The policy on the boat excludes racing.",
+          "translation": "そのボートにかけられた保険契約では、レースは補償対象外だ。"
+        },
+        {
+          "pattern": "under the policy",
+          "use": "契約に基づく補償や条件を述べる。",
+          "example": "The repair costs are covered under the policy.",
+          "translation": "その修理費は、保険契約に基づく補償の対象となる。"
+        },
+        {
+          "pattern": "the terms of the policy",
+          "use": "契約条件を確認する。",
+          "example": "Read the terms of the policy before paying the premium.",
+          "translation": "保険料を払う前に、契約条件を読んでください。"
+        },
+        {
+          "pattern": "a policy expires",
+          "use": "有効期限が切れることを述べる。",
+          "example": "My car insurance policy expires at the end of this month.",
+          "translation": "私の自動車保険の契約は、今月末に有効期限が切れる。"
+        },
+        {
+          "pattern": "read the policy",
+          "use": "書類としての保険証券を読む。",
+          "example": "I read the policy carefully and kept a copy.",
+          "translation": "私は保険証券を注意深く読み、写しを保管した。"
+        }
+      ],
+      "notes": [
+        "an insurance policy、two policies のように数える。insurance は通常不可算なので、契約を数えたい場合に policy が役立つ。take out、renew、expire は契約、read、print、keep a copy of は書類としての側面を示す。policy number は契約を識別する番号。policyholder は契約者で、保険の対象者や保険金受取人と常に同一とは限らない。policy on flooding だけでは洪水への方針にも見えるため、保険義の例では insurance、cover、premium などの文脈を確認する。"
+      ],
+      "synonyms": [
+        {
+          "word": "insurance contract",
+          "definition": "保険者と契約者の間の保険契約。",
+          "frequency": 6,
+          "difference": "法的な取り決めとしての側面を明示する。policy はそれを記した書類も指す。",
+          "example": "The insurance contract specifies the covered risks.",
+          "translation": "その保険契約は、補償される危険を定めている。"
+        },
+        {
+          "word": "insurance",
+          "definition": "保険の仕組み・契約・保障。",
+          "frequency": 9,
+          "difference": "通常は不可算で、個々の契約書類より広い意味。policy は1件の契約や証券を指す。",
+          "example": "We need insurance for the equipment.",
+          "translation": "私たちは、その機器の保険が必要だ。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算または不可算】行動原則・得策",
+      "frequency": 7,
+      "register": [
+        "一般・やや改まった説明・ことわざ。"
+      ],
+      "definition": "個人などが普段の行動で守る方針、または賢明・有利だと考えられる行動の取り方。組織が正式に制定した計画とは限らず、自分の決め事や、何をするのがよいかという判断に使う。",
+      "patterns": [
+        "make it a policy to do something＝あることをするのを行動原則にする",
+        "it is one's policy to do something＝あることをするのがその人の方針である",
+        "a policy of doing something＝あることをするという行動原則",
+        "it is good policy to do something＝あることをするのが得策である",
+        "honesty is the best policy＝正直が最善の策である"
+      ],
+      "collocations": [
+        {
+          "pattern": "make it a policy to do something",
+          "use": "自分が守る行動の原則を述べる。",
+          "example": "I make it a policy to reply to invitations promptly.",
+          "translation": "私は、招待には速やかに返事をすることを原則にしている。"
+        },
+        {
+          "pattern": "it is one's policy to do something",
+          "use": "個人の方針を不定詞で示す。",
+          "example": "It is her policy not to discuss work at dinner.",
+          "translation": "夕食時には仕事の話をしないのが、彼女の方針だ。"
+        },
+        {
+          "pattern": "a policy of doing something",
+          "use": "繰り返し採用する対応を示す。",
+          "example": "He follows a policy of admitting mistakes early.",
+          "translation": "彼は、間違いを早い段階で認めるという行動原則に従っている。"
+        },
+        {
+          "pattern": "it is good policy to do something",
+          "use": "賢明な対応だと評価する。",
+          "example": "It is good policy to keep a record of important decisions.",
+          "translation": "重要な決定の記録を残しておくのが得策だ。"
+        },
+        {
+          "pattern": "honesty is the best policy",
+          "use": "正直にするのが最もよいという定型表現。",
+          "example": "Honesty is the best policy, even when the truth is uncomfortable.",
+          "translation": "真実を伝えるのが気まずい場合でも、正直であるのが一番だ。"
+        }
+      ],
+      "notes": [
+        "個々の原則は a policy、賢明な対応の意味では good policy、bad policy のように不可算で使える。my policy の my や the best policy の the を落とすわけではない。make it a policy to ... は行動を決め事にするという構文で、it は後ろの不定詞の内容を受ける。habit「習慣」は意図せず繰り返す行動にも使えるが、policy は選んで従う原則という性格が強い。"
+      ],
+      "synonyms": [
+        {
+          "word": "principle",
+          "definition": "判断や行動のよりどころとなる原則。",
+          "frequency": 8,
+          "difference": "道徳観や信念の基礎にも使い、実際の対応方法に限らない。",
+          "example": "She refused the gift as a matter of principle.",
+          "translation": "彼女は、信条としてその贈り物を断った。"
+        },
+        {
+          "word": "practice",
+          "definition": "普段行っているやり方・慣行。",
+          "frequency": 8,
+          "difference": "実際に繰り返されている行為に焦点がある。policy は明示的に選んだ原則にもなる。",
+          "example": "It is my practice to check the figures twice.",
+          "translation": "私は、数値を2度確認することにしている。"
+        },
+        {
+          "word": "rule",
+          "definition": "自分や他者の行動を律する決まり。",
+          "frequency": 9,
+          "difference": "守るべき決まりとしての強さがある。policy は得策だという判断にも使う。",
+          "example": "I have a rule never to lend money to colleagues.",
+          "translation": "私は、同僚には決してお金を貸さないという決まりを設けている。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
