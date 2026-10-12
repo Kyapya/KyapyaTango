@@ -1,0 +1,386 @@
+{
+  "word": "finance",
+  "slug": "finance",
+  "ipa": "米・英: /ˈfaɪ.næns/。2音節で第1音節に強勢を置く形。名詞・動詞ともに /faɪˈnæns/、/fəˈnæns/ という第2音節に強勢を置く変異もある。後者では第1音節の母音が /aɪ/ から /ə/ になる。地域や辞書で代表形の示し方が異なり、「名詞は前、動詞は後」と必ず分かれる語ではない。",
+  "lead": "お金を調達し、運用し、管理する活動や分野、またそれを研究する学問。企業の財務、個人の家計管理、政府の財政、銀行・投資などの金融業にまたがる。文脈に応じて「財務」「金融」「ファイナンス」と訳し分ける。",
+  "updated": "2026-10-12",
+  "notion_url": "https://app.notion.com/p/finance-3f74faa9b77d815d9a98ec69cdc321d4",
+  "pronunciation": [
+    "finances は名詞の複数形・動詞の三人称単数現在形ともに語尾が /ɪz/。financed の語尾は /t/ で、financing は語末の e を落として -ing を付ける。"
+  ],
+  "etymology": [
+    "フランス語の finance・finances に由来し、その背景には finer「支払いによって決着をつける」、fin「終わり・決着」がある。さらにラテン語 finis「終わり・境界」につながる。中英語にも支払い・身代金などの古い用法があったが、現代の資金・財務の意味はフランス語での意味発達を受けている。動詞は名詞から作られた。",
+    "同根語に final「最後の」と finite「有限の」がある。ただし、現代の finance を「終わらせること」と直訳することはできず、支払いと資金をめぐる語として覚える。"
+  ],
+  "formation": [
+    {
+      "term": "financial",
+      "description": "金銭・財務・金融に関する形容詞。通常、強勢は第2音節に置く。"
+    },
+    {
+      "term": "financially",
+      "description": "金銭的に・財務上という副詞。"
+    },
+    {
+      "term": "financing",
+      "description": "資金の調達・提供や、その仕組みを表す名詞。動詞の -ing 形でもある。"
+    },
+    {
+      "term": "financier",
+      "description": "大規模な資金の運用・提供などに携わる金融家・資金提供者を表す可算名詞。"
+    },
+    {
+      "term": "refinance",
+      "description": "借入れなどの資金調達条件を組み直す、借り換えるという他動詞。"
+    },
+    {
+      "term": "self-financing",
+      "description": "自らの収入などで必要資金をまかなうという形容詞。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "「活動を成り立たせるお金と、その確保・管理」が共通核。資金を扱う分野、その資金自体、個人や組織の資金事情、資金をまかなう行為へと分かれる。"
+    },
+    {
+      "type": "item",
+      "text": "活動を成り立たせるお金の管理分野 → 「財務・金融・資金管理」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "活動を成り立たせるお金の確保 → 「資金・資金調達」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "活動を成り立たせるお金の保有状況 → 「資金・財政状態」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "活動を成り立たせるお金の提供 → 「資金を提供する・資金をまかなう」（語義4）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・不可算】財務・金融・資金管理",
+      "frequency": 8,
+      "register": [
+        "一般・ビジネス・経済・学術。"
+      ],
+      "definition": "お金を調達し、運用し、管理する活動や分野、またそれを研究する学問。企業の財務、個人の家計管理、政府の財政、銀行・投資などの金融業にまたがる。文脈に応じて「財務」「金融」「ファイナンス」と訳し分ける。",
+      "patterns": [
+        "work in finance＝金融・財務分野で働く",
+        "study finance＝ファイナンスを学ぶ",
+        "personal finance＝個人の資金管理",
+        "corporate finance＝企業財務",
+        "public finance＝財政・公共部門の資金管理",
+        "the finance department＝財務部"
+      ],
+      "collocations": [
+        {
+          "pattern": "work in finance",
+          "use": "職業上の専門分野を述べる。",
+          "example": "She works in finance but has never worked for a bank.",
+          "translation": "彼女は金融・財務分野で働いているが、銀行で働いたことはない。"
+        },
+        {
+          "pattern": "study finance",
+          "use": "お金の運用・管理を学問として扱う。",
+          "example": "He studied finance before joining the manufacturing company.",
+          "translation": "彼はその製造会社に入社する前にファイナンスを学んだ。"
+        },
+        {
+          "pattern": "personal finance",
+          "use": "個人の収支・貯蓄などの管理を指す。",
+          "example": "The course introduces the basics of personal finance.",
+          "translation": "その講座では個人の資金管理の基礎を紹介する。"
+        },
+        {
+          "pattern": "corporate finance",
+          "use": "企業の資金調達や運用という分野を示す。",
+          "example": "The textbook includes a chapter on corporate finance.",
+          "translation": "その教科書には企業財務についての章がある。"
+        },
+        {
+          "pattern": "public finance",
+          "use": "政府などの収入・支出と資金管理を扱う。",
+          "example": "Public finance is one of the topics covered in the seminar.",
+          "translation": "財政はそのゼミで扱うテーマの一つだ。"
+        },
+        {
+          "pattern": "the finance department",
+          "use": "組織の財務を担当する部署を指す。",
+          "example": "Please send the report to the finance department.",
+          "translation": "その報告書を財務部に送ってください。"
+        }
+      ],
+      "notes": [
+        "分野・学問としては不可算で、study a finance ではなく study finance とする。finance department の finance は名詞が別の名詞を修飾する形。financial も形容詞だが、定着した名称を自由に置き換えられるとは限らない。personal finance は資金管理という分野・活動、my finances は自分の具体的な資金事情で、後者は語義3。"
+      ],
+      "synonyms": [
+        {
+          "word": "financial management",
+          "definition": "資金の調達・配分・運用などを管理すること。",
+          "frequency": 6,
+          "difference": "管理の実務を明示する。finance は金融業全体や学問も指す。",
+          "example": "The workshop focuses on financial management for small businesses.",
+          "translation": "その研修会は小規模事業者の財務管理を重点的に扱う。"
+        },
+        {
+          "word": "banking",
+          "definition": "預金・融資・決済などの銀行業務。",
+          "frequency": 8,
+          "difference": "金融分野のうち銀行に関わる部分。企業内部の財務などまで含む finance より範囲が狭い。",
+          "example": "He has ten years of experience in banking.",
+          "translation": "彼には銀行業務の経験が10年ある。"
+        },
+        {
+          "word": "accounting",
+          "definition": "組織などの金銭的取引を記録・集計・報告する会計業務。",
+          "frequency": 8,
+          "difference": "財務実務と重なるが、記録・報告に重点がある。資金調達や投資判断を広く扱う finance と同一ではない。",
+          "example": "The software simplifies accounting for small firms.",
+          "translation": "そのソフトウェアは小規模企業の会計業務を簡単にする。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・不可算】資金・資金調達",
+      "frequency": 7,
+      "register": [
+        "ビジネス・金融。資金の意味の名詞は特に英国英語でよく使う。"
+      ],
+      "definition": "購入・事業・計画などに必要なお金、またはその資金を確保すること。外部から調達する資金の話でよく使う。融資を指す場合もあるが、すべての用法が銀行からの借金に限られるわけではない。",
+      "patterns": [
+        "raise finance for something＝物事のための資金を調達する",
+        "provide finance for something＝物事に資金を提供する",
+        "a source of finance＝資金調達源",
+        "access to finance＝資金を調達できること",
+        "buy something on finance＝物を融資・分割払いの仕組みで買う"
+      ],
+      "collocations": [
+        {
+          "pattern": "raise finance for something",
+          "use": "必要な活動資金を集める。",
+          "example": "The company is raising finance for a new production line.",
+          "translation": "その会社は新しい生産ラインのための資金を調達している。"
+        },
+        {
+          "pattern": "provide finance for something",
+          "use": "他者の事業・購入に資金を用意する。",
+          "example": "The fund provides finance for small renewable-energy projects.",
+          "translation": "その基金は小規模な再生可能エネルギー事業に資金を提供している。"
+        },
+        {
+          "pattern": "a source of finance",
+          "use": "資金を得る先や方法を示す。",
+          "example": "Retained profits are an important source of finance for the business.",
+          "translation": "内部に留保した利益は、その事業にとって重要な資金調達源だ。"
+        },
+        {
+          "pattern": "access to finance",
+          "use": "必要な資金を調達できる状況を述べる。",
+          "example": "Limited access to finance delayed the expansion.",
+          "translation": "資金調達の手段が限られていたため、事業拡大が遅れた。"
+        },
+        {
+          "pattern": "buy something on finance",
+          "use": "代金全額をその場で払う形と対比する。",
+          "example": "They bought the delivery van on finance.",
+          "translation": "彼らは融資を利用して配送用バンを買った。"
+        }
+      ],
+      "notes": [
+        "通常 a finance や two finances とは数えない。a source of finance や two financing arrangements のように、調達源・契約などを数える。米語ではこの意味に financing もよく使う。finance for the project の for は資金の用途で、the finances of the company の of は資金事情の主体を示す。on finance は特に英国英語の購入表現で、金利・返済期間・契約形態はこの語だけでは決まらない。"
+      ],
+      "synonyms": [
+        {
+          "word": "funding",
+          "definition": "事業や活動のために提供・確保される資金。",
+          "frequency": 8,
+          "difference": "研究・公共事業・団体活動にも広く使い、資金の提供や確保に焦点を当てる。",
+          "example": "The museum secured funding for the exhibition.",
+          "translation": "その博物館は展示会のための資金を確保した。"
+        },
+        {
+          "word": "financing",
+          "definition": "必要資金を調達・提供することや、その仕組み。",
+          "frequency": 7,
+          "difference": "finance と近いが、資金をまかなう方法・手配という面を示しやすい。",
+          "example": "Financing for the construction has not yet been arranged.",
+          "translation": "その建設のための資金調達はまだ手配されていない。"
+        },
+        {
+          "word": "capital",
+          "definition": "事業を始めたり運営・拡大したりするための資金・元手。",
+          "frequency": 8,
+          "difference": "事業に投入される元手に重点がある。finance はその確保や提供まで表す。",
+          "example": "The founders contributed the initial capital.",
+          "translation": "創業者たちが最初の資金を出した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・複数形 finances】資金・財政状態",
+      "frequency": 8,
+      "register": [
+        "一般・家計・組織運営・財政。"
+      ],
+      "definition": "個人・企業・政府・団体などが利用できる資金や、収入・支出を含むお金の状態。単に手元の現金だけを指す場合に限らず、資金のやりくりや財務上の健全性についても使う。",
+      "patterns": [
+        "manage one's finances＝自分の資金を管理する",
+        "the company's finances＝会社の財務状況",
+        "the state of someone's finances＝人の資金事情",
+        "get one's finances in order＝自分の資金事情を整える",
+        "public finances＝国や公共部門の財政状況"
+      ],
+      "collocations": [
+        {
+          "pattern": "manage one's finances",
+          "use": "収支や資金を管理する。",
+          "example": "She uses a spreadsheet to manage her finances.",
+          "translation": "彼女は表計算ソフトで自分の資金を管理している。"
+        },
+        {
+          "pattern": "the company's finances",
+          "use": "企業の具体的な財務状況を述べる。",
+          "example": "The company's finances improved after the restructuring.",
+          "translation": "組織再編の後、その会社の財務状況は改善した。"
+        },
+        {
+          "pattern": "get one's finances in order",
+          "use": "収支などを整理し、資金面を立て直す。",
+          "example": "We need to get our finances in order before opening another shop.",
+          "translation": "もう1店舗開く前に、私たちは資金事情を整える必要がある。"
+        },
+        {
+          "pattern": "public finances",
+          "use": "政府・公共部門の資金状態を話題にする。",
+          "example": "The report examines the effect of slower growth on public finances.",
+          "translation": "その報告書は、成長鈍化が財政に及ぼす影響を調べている。"
+        }
+      ],
+      "notes": [
+        "この意味では複数形を用い、Our finances are stable. のように複数扱いにする。学問・分野の finance を機械的に複数形にするものではない。finances と financials は別語形で、financials は決算数値や金融株などを指す。poor finances は資金状態が悪いことを表し、会計記録が間違っていることを必ず意味するわけではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "funds",
+          "definition": "特定の人・組織が利用できる資金。",
+          "frequency": 8,
+          "difference": "利用可能なお金に焦点があり、finances のように収支全体の状態まで広く示すとは限らない。",
+          "example": "The association has enough funds to replace the equipment.",
+          "translation": "その協会には機器を交換するのに十分な資金がある。"
+        },
+        {
+          "word": "financial position",
+          "definition": "個人・組織の資産や負債などを含む財務上の状態。",
+          "frequency": 6,
+          "difference": "finances より状態の評価を明示する、やや正式な表現。",
+          "example": "The sale strengthened the company's financial position.",
+          "translation": "その売却により、会社の財務状態が強化された。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞・他動詞】資金を提供する・資金をまかなう",
+      "frequency": 8,
+      "register": [
+        "一般・ビジネス・事業運営。"
+      ],
+      "definition": "事業・購入・活動などに必要な資金を出す、または調達して費用をまかなう。人・企業・政府などのほか、収入・寄付・借入金などを主語にすることもできる。目的語は資金を必要とする活動・物・人などで、貸付に限らず自己資金や寄付による負担も含む。",
+      "patterns": [
+        "finance something＝物事の資金をまかなう",
+        "finance something with 〈資金〉＝資金を使って物事をまかなう",
+        "finance something through 〈調達方法〉＝方法を通じて物事の資金を調達する",
+        "be financed by 〈提供者〉＝提供者から資金を受ける",
+        "finance someone through college＝人の大学在学中の費用をまかなう",
+        "finance someone to do something＝人が行動できるよう資金を出す"
+      ],
+      "collocations": [
+        {
+          "pattern": "finance a project",
+          "use": "計画の実施費用をまかなう。",
+          "example": "Local donations financed the playground project.",
+          "translation": "地元からの寄付が、その遊び場整備事業の資金をまかなった。"
+        },
+        {
+          "pattern": "finance a purchase with 〈資金〉",
+          "use": "購入に使う具体的な資金を示す。",
+          "example": "We financed the purchase with our own savings.",
+          "translation": "私たちは自分たちの貯蓄でその購入費用をまかなった。"
+        },
+        {
+          "pattern": "finance something through 〈調達方法〉",
+          "use": "資金を得る手段を示す。",
+          "example": "The company plans to finance the expansion through a share issue.",
+          "translation": "その会社は株式発行によって事業拡大の資金を調達する予定だ。"
+        },
+        {
+          "pattern": "be financed by 〈提供者〉",
+          "use": "受動態で資金を出す主体を示す。",
+          "example": "The documentary was financed by an independent foundation.",
+          "translation": "そのドキュメンタリーは独立した財団から資金提供を受けた。"
+        },
+        {
+          "pattern": "finance someone through college",
+          "use": "人の大学在学中に必要な費用を支える。",
+          "example": "His aunt helped finance him through college.",
+          "translation": "おばは彼の大学在学中の費用をまかなうのを援助した。"
+        },
+        {
+          "pattern": "finance someone to do something",
+          "use": "人の活動を金銭面で可能にする。",
+          "example": "The foundation financed two researchers to work abroad for a year.",
+          "translation": "その財団は研究者2人が1年間海外で働けるように資金を出した。"
+        }
+      ],
+      "notes": [
+        "finance the project と直接目的語を置く。名詞の provide finance for the project と混同して、動詞を finance for the project としない。受動態の by は提供者、with は用いる資金、through は経路・方法を示すのが基本だが、by a grant のように by が資金源を示すこともある。finance a car は購入資金をまかなう意味で、ローンの文脈では融資を利用することを表す。financed は通常の過去分詞で、a publicly financed project は公的資金でまかなわれる事業。financing は活動名詞にもなるが、financed 自体に必ず独立した評価義があるわけではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "fund",
+          "definition": "事業・活動に必要な資金を提供する。",
+          "frequency": 8,
+          "difference": "finance と近く、研究・サービス・団体活動などへの資金提供によく使う。",
+          "example": "The charity funds training programs for adults.",
+          "translation": "その慈善団体は成人向けの研修プログラムに資金を提供している。"
+        },
+        {
+          "word": "pay for",
+          "definition": "商品・サービス・活動の代金や費用を負担する。",
+          "frequency": 10,
+          "difference": "日常的な支払いにも広く使う。finance は必要資金を確保・供給する面を示しやすい。",
+          "example": "The company paid for the staff's train tickets.",
+          "translation": "会社が従業員の列車の切符代を負担した。"
+        },
+        {
+          "word": "subsidize",
+          "definition": "費用の一部などを補助金で支える。",
+          "frequency": 6,
+          "difference": "費用負担を軽くする補助に焦点がある。finance は費用全体をまかなう場合にも使う。",
+          "example": "The city subsidizes the community bus service.",
+          "translation": "市は地域バスの運行に補助金を出している。"
+        },
+        {
+          "word": "sponsor",
+          "definition": "活動・人などを資金面で支援する。",
+          "frequency": 8,
+          "difference": "広告・協賛や継続的な後援という関係を示しやすい。finance は資金をまかなうこと自体を述べる。",
+          "example": "A local business sponsored the exhibition.",
+          "translation": "地元の企業がその展示会を資金面で支援した。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

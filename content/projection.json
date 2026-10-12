@@ -1,0 +1,515 @@
+{
+  "word": "projection",
+  "slug": "projection",
+  "ipa": "米・英: /prəˈdʒek.ʃən/。3音節で、第2音節 /dʒek/ に強勢を置く。第1音節の母音は弱い /ə/、第3音節は /ʃən/。語尾が -tion でも、ここでは /t/ を独立して発音しない。",
+  "lead": "既知の数値・傾向や設定した前提から、別の時点の数量・状態などを推し量ったもの。売上・費用・人口などの将来推計が中心だが、現在の情報から過去へさかのぼる推計もある。前提に依存する見通しであり、その数値が実現すると保証する語ではない。",
+  "updated": "2026-10-12",
+  "notion_url": "https://app.notion.com/p/projection-3f74faa9b77d8158910afbb310215cb5",
+  "pronunciation": [
+    "第1音節を二重母音にする変異もあり、米語では /proʊˈdʒek.ʃən/、英国英語では /prəʊˈdʒek.ʃən/ と表記される。示した変異どうしの違いは第1音節の /oʊ/ と /əʊ/ で、主強勢は変わらない。複数形 projections は語尾に /z/ が加わる。"
+  ],
+  "etymology": [
+    "ラテン語 projectio「前へ投げること」に由来し、英語への経路にはフランス語を介したとする説明もある。背景の proicere は pro-「前へ」と jacere「投げる」の組み合わせ。現代の動詞 project とも対応し、外へ伸ばすこと、像を映すこと、見通しを描くことなどを表す。",
+    "同じ jacere の語族には inject「中へ入れる・注入する」と eject「外へ出す・排出する」がある。ただし、現代の projection のすべてが物を実際に投げる動作ではない。"
+  ],
+  "formation": [
+    {
+      "term": "project",
+      "description": "予測する・投影する・声を届かせるなどの他動詞、突き出るなどの自動詞。名詞では計画・事業を表し、発音と構文が異なる。"
+    },
+    {
+      "term": "projector",
+      "description": "映像を投影する装置を表す可算名詞。"
+    },
+    {
+      "term": "projectionist",
+      "description": "映画館などで映写を担当する人を表す可算名詞。"
+    },
+    {
+      "term": "projective",
+      "description": "投影に関するという形容詞。数学・心理学などの専門領域で使う。"
+    },
+    {
+      "term": "projection screen",
+      "description": "映像を映すためのスクリーンを表す複合名詞。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "「基になるものを、その位置や範囲から外へ伸ばし、別の場所・形に表す」が共通核。傾向からの推計、映像、突起、他人に重ねる心理、図形、遠くへ届く声、内面の表現へと具体化する。"
+    },
+    {
+      "type": "item",
+      "text": "基になるものを別の時点へ伸ばす推計 → 「推計・予測・見通し」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "基になるものを別の面に映す像 → 「投影・映写・投影された像」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "基になるものを表面から外へ伸ばす部分 → 「突起・突き出た部分」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "基になるものを他者に重ねる心理 → 「心理的な投影」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "基になるものを別の面へ対応させる図示 → 「投影・投影図・地図投影法」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "基になるものを遠くへ届かせる発声 → 「声を遠くまで届かせること」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "基になるものを外に形として示す表現 → 「内面の表出・具体化された像」（語義7）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算】推計・予測・見通し",
+      "frequency": 7,
+      "register": [
+        "ビジネス・経済・人口・計画・分析。"
+      ],
+      "definition": "既知の数値・傾向や設定した前提から、別の時点の数量・状態などを推し量ったもの。売上・費用・人口などの将来推計が中心だが、現在の情報から過去へさかのぼる推計もある。前提に依存する見通しであり、その数値が実現すると保証する語ではない。",
+      "patterns": [
+        "a projection of 〈数量・傾向〉＝数量・傾向の推計",
+        "projections for 〈期間〉＝期間についての予測",
+        "base a projection on something＝物事に基づいて推計を作る",
+        "revise projections upward＝予測を上方修正する",
+        "on current projections＝現在の推計に従えば",
+        "a backward projection＝過去にさかのぼる推計"
+      ],
+      "collocations": [
+        {
+          "pattern": "a projection of 〈数量〉",
+          "use": "何の数値を推計するかを示す。",
+          "example": "The report includes a projection of the city's population in 2040.",
+          "translation": "その報告書には、2040年の市の人口の推計が含まれている。"
+        },
+        {
+          "pattern": "projections for 〈期間〉",
+          "use": "見通しの対象期間を明示する。",
+          "example": "The sales projections for next year assume stable prices.",
+          "translation": "来年の売上予測は、価格が安定していることを前提としている。"
+        },
+        {
+          "pattern": "base a projection on something",
+          "use": "推計の根拠・前提を述べる。",
+          "example": "We based the projection on the last five years of data.",
+          "translation": "私たちは過去5年分のデータに基づいてその推計を作った。"
+        },
+        {
+          "pattern": "revise projections upward",
+          "use": "新情報によって予測値を高く修正する。",
+          "example": "The company revised its revenue projections upward after a strong quarter.",
+          "translation": "好調な四半期を受け、その会社は売上高の予測を上方修正した。"
+        },
+        {
+          "pattern": "on current projections",
+          "use": "結論が現時点の見通しに依存すると示す。",
+          "example": "On current projections, the station will need more staff within two years.",
+          "translation": "現在の推計に従えば、その駅は2年以内に職員の増員が必要になる。"
+        },
+        {
+          "pattern": "a backward projection",
+          "use": "現在などの情報から過去の状態を推計する。",
+          "example": "The researchers used a backward projection to estimate the population before regular censuses began.",
+          "translation": "研究者たちは、定期的な国勢調査が始まる前の人口を推定するため、過去にさかのぼる推計を用いた。"
+        }
+      ],
+      "notes": [
+        "1つなら a projection、複数なら projections。of は推計対象・内容、for は対象期間などを示し、a projection of costs for next year のように組み合わせられる。forecast と意味は重なるが、projection は前提・傾向を延長した計算という面を出しやすい。分野によって両者を厳密に区別することもあるが、その区別を英語全体の絶対規則にしない。backward projection があるため、projection を例外なく未来限定としない。計画そのものは通常 project や plan で、a new project と a new projection は別。"
+      ],
+      "synonyms": [
+        {
+          "word": "forecast",
+          "definition": "将来起こることや将来の数量について述べた見通し。",
+          "frequency": 8,
+          "difference": "天気や事業の見通しで広く使い、projection のような前提からの延長を必ず強調しない。",
+          "example": "The latest forecast predicts a mild winter.",
+          "translation": "最新の予報では暖冬になると予測されている。"
+        },
+        {
+          "word": "estimate",
+          "definition": "数量・価値などのおおよその判断や数値。",
+          "frequency": 9,
+          "difference": "過去・現在・未来に使え、必ずしも時系列を延長した推計ではない。",
+          "example": "The estimate of the crowd size was later revised.",
+          "translation": "群衆の人数の推定値は後に修正された。"
+        },
+        {
+          "word": "prediction",
+          "definition": "これから起こることについての予測。",
+          "frequency": 8,
+          "difference": "数値以外の出来事にも広く使え、projection より一般的な語。",
+          "example": "Several of the report's predictions proved wrong.",
+          "translation": "その報告書の予測のうち、いくつかは誤っていたと分かった。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・不可算・可算】投影・映写・投影された像",
+      "frequency": 6,
+      "register": [
+        "映像・映画・美術・機器。"
+      ],
+      "definition": "画像・映像をスクリーンや壁などの面に映すこと、またそのように映された像。動作・方式を述べるときは不可算、個々の像や映像表現を指すときは可算になる。",
+      "patterns": [
+        "the projection of images onto 〈面〉＝面への画像の投影",
+        "a projection on 〈面〉＝面に映った像",
+        "digital projection＝デジタル映写",
+        "rear projection＝背面投影",
+        "a projection screen＝投影用スクリーン"
+      ],
+      "collocations": [
+        {
+          "pattern": "the projection of images onto 〈面〉",
+          "use": "映す画像と投影先を示す。",
+          "example": "The installation uses the projection of moving images onto a curved wall.",
+          "translation": "その展示作品は、曲面の壁への動画の投影を用いている。"
+        },
+        {
+          "pattern": "a projection on 〈面〉",
+          "use": "映された一つの像を指す。",
+          "example": "A projection of the moon appeared on the ceiling.",
+          "translation": "天井に月の像が映し出された。"
+        },
+        {
+          "pattern": "digital projection",
+          "use": "映写の方式を示す。",
+          "example": "The cinema switched to digital projection several years ago.",
+          "translation": "その映画館は数年前にデジタル映写に切り替えた。"
+        },
+        {
+          "pattern": "rear projection",
+          "use": "スクリーンの背面側から映す方式を述べる。",
+          "example": "The stage design uses rear projection to create a changing landscape.",
+          "translation": "その舞台美術は、背面投影を使って移り変わる風景を作り出している。"
+        },
+        {
+          "pattern": "a projection screen",
+          "use": "投影のための面を指す。",
+          "example": "A large projection screen stood behind the speaker.",
+          "translation": "講演者の後ろに大きな投影用スクリーンが立っていた。"
+        }
+      ],
+      "notes": [
+        "onto は像を映す先を、on は映っている面を示すのが基本。the projection of images は行為、a projection of a face は1つの像で、冠詞・単複からも区別できる。projection は投影する装置そのものではなく、装置は projector。映画の上映会を数えるなら通常 a screening とし、a projection が常に上映会1回を意味するとは考えない。"
+      ],
+      "synonyms": [
+        {
+          "word": "image",
+          "definition": "写真・画面などに見える像。",
+          "frequency": 9,
+          "difference": "可算の projection が指す像に近いが、image は投影されたものに限らない。",
+          "example": "A bright image filled the screen.",
+          "translation": "明るい像がスクリーンいっぱいに映っていた。"
+        },
+        {
+          "word": "screening",
+          "definition": "映画・映像を観客に見せる上映。",
+          "frequency": 6,
+          "difference": "観客に見せる機会・行為に重点がある。projection は像を面に映す技術的な過程にも使う。",
+          "example": "The festival arranged an outdoor screening of the film.",
+          "translation": "その映画祭は、その映画の屋外上映を企画した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算】突起・突き出た部分",
+      "frequency": 5,
+      "register": [
+        "物の形状・建築・生物・技術的な説明。"
+      ],
+      "definition": "物の表面・輪郭から外へ突き出ている部分。岩・壁・部品・生物の構造などに使い、小さな突起から大きな張り出しまで指せる。必ず鋭い、危険である、欠陥であるという意味ではない。",
+      "patterns": [
+        "a projection from 〈表面〉＝表面から突き出た部分",
+        "projections on 〈物〉＝物の表面にある突起",
+        "a bony projection＝骨の突起",
+        "a small projection＝小さな突起"
+      ],
+      "collocations": [
+        {
+          "pattern": "a projection from 〈表面〉",
+          "use": "突き出る元の面を示す。",
+          "example": "A stone projection from the wall supported the shelf.",
+          "translation": "壁から突き出た石の部分が棚を支えていた。"
+        },
+        {
+          "pattern": "projections on 〈物〉",
+          "use": "表面上の突起を指す。",
+          "example": "The tiny projections on the seed help it attach to animal fur.",
+          "translation": "その種の小さな突起は、動物の毛にくっつくのに役立つ。"
+        },
+        {
+          "pattern": "a bony projection",
+          "use": "骨にある突起を述べる。",
+          "example": "The diagram labels a bony projection near the joint.",
+          "translation": "その図は関節の近くの骨の突起に名称を付けている。"
+        },
+        {
+          "pattern": "a small projection",
+          "use": "突起の大きさを示す。",
+          "example": "A small projection on the lid fits into a slot in the base.",
+          "translation": "ふたにある小さな突起が、底部の溝にはまる。"
+        }
+      ],
+      "notes": [
+        "a projection from the wall は壁から突き出る物体、a projection on the wall は文脈によって壁面の突起にも投影像にもなり得る。stone・bony・fits into a slot などの具体的な語で形状の意味を判断する。突起の数は数えられるため、several projections とできる。"
+      ],
+      "synonyms": [
+        {
+          "word": "protrusion",
+          "definition": "周囲より外に突き出た部分。",
+          "frequency": 5,
+          "difference": "projection と近く、突き出る形自体を強調する。異常な張り出しの文脈にも使うが、それに限らない。",
+          "example": "A metal protrusion caught on his sleeve.",
+          "translation": "金属の突起が彼の袖に引っ掛かった。"
+        },
+        {
+          "word": "protuberance",
+          "definition": "表面から盛り上がって突き出た部分。",
+          "frequency": 3,
+          "difference": "硬い語で、丸みのある隆起を示しやすい。projection は角張った張り出しにも使う。",
+          "example": "The surface was covered with small rounded protuberances.",
+          "translation": "その表面は小さな丸い隆起で覆われていた。"
+        },
+        {
+          "word": "overhang",
+          "definition": "下の部分より外へ張り出している部分。",
+          "frequency": 5,
+          "difference": "下方に空間がある張り出しを示す。projection は張り出す方向を限定しない。",
+          "example": "We sheltered beneath a rock overhang.",
+          "translation": "私たちは岩の張り出した部分の下で雨風をしのいだ。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・通常不可算・心理】心理的な投影",
+      "frequency": 5,
+      "register": [
+        "心理学・心理についての一般的な説明。"
+      ],
+      "definition": "自分自身の感情・考え・性質などを、他人や外の対象にあるものとして捉えること。心理学、特に精神分析などで用いる。受け入れにくい自分の感情を他人のものとする防衛機制が典型的な説明だが、広い用法では否定的な感情だけに限定されない。",
+      "patterns": [
+        "psychological projection＝心理的な投影",
+        "the projection of 〈自分の感情〉 onto someone＝自分の感情を人にあるものと捉えること",
+        "an example of projection＝投影の一例"
+      ],
+      "collocations": [
+        {
+          "pattern": "psychological projection",
+          "use": "心理学上の概念であると明示する。",
+          "example": "The lecture described psychological projection as attributing one's own feelings to someone else.",
+          "translation": "その講義は、心理的な投影を、自分自身の感情を別の人のものと見なすこととして説明した。"
+        },
+        {
+          "pattern": "the projection of 〈自分の感情〉 onto someone",
+          "use": "何を誰に投影するかを示す。",
+          "example": "The essay discusses the projection of one's own hostility onto other people.",
+          "translation": "その論考は、自分自身の敵意を他人にあるものと捉える投影を論じている。"
+        },
+        {
+          "pattern": "an example of projection",
+          "use": "心理的な過程の一例を指す。",
+          "example": "In the fictional case, a character's attribution of his own jealousy to his friend is presented as an example of projection.",
+          "translation": "その架空の事例では、登場人物が自分自身の嫉妬を友人のものと見なすことが、投影の一例として示されている。"
+        }
+      ],
+      "notes": [
+        "the projection of A onto B では A がもともと自分にある感情など、B がそれを重ねられる対象。相手が自分をどう評価するかを正確に予測するという意味ではない。個別の現れを a projection と数えることもあるが、心理的な過程一般は不可算で使う。心理学上の広い説明と古典的な防衛機制の定義には範囲差があり、必ず自分の感情に無自覚である、必ず悪意がある、とは一律に断定しない。語義7の作品などへの内面の表現とは、他者の内面だと捉える点が異なる。"
+      ],
+      "synonyms": [
+        {
+          "word": "externalization",
+          "definition": "内的な考え・感情などを、自分から独立した外の世界に属するものとして捉えること。",
+          "frequency": 3,
+          "difference": "心理学では近い上位的な概念で、projection は特に自分の性質・感情などを他者へ帰属させる形を指す。すべての externalization が projection ではない。",
+          "example": "The chapter examines externalization as a way of locating inner conflict in the outside world.",
+          "translation": "その章は、内的な葛藤を外の世界にあるものと捉える仕方として、外在化を検討している。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞・可算・不可算・図学・地図・数学】投影・投影図・地図投影法",
+      "frequency": 4,
+      "register": [
+        "図学・地図学・数学・設計。"
+      ],
+      "definition": "立体・曲面上の位置・図形などを、定めた規則で別の面や線に対応させて表すこと、またその結果の図や方式。地図では地球の曲面を平面に表す投影法を指す。過程一般は不可算、個々の図や投影方式は可算で使う。",
+      "patterns": [
+        "a map projection＝地図投影法",
+        "a projection of 〈立体〉 onto 〈平面〉＝立体の平面への投影図",
+        "an orthographic projection＝正投影図・正投影法",
+        "the projection of a vector onto a line＝ベクトルの直線への射影"
+      ],
+      "collocations": [
+        {
+          "pattern": "a map projection",
+          "use": "地球の曲面を地図の平面に表す方式を指す。",
+          "example": "The atlas explains the advantages and limitations of each map projection.",
+          "translation": "その地図帳は、それぞれの地図投影法の長所と限界を説明している。"
+        },
+        {
+          "pattern": "a projection of 〈立体〉 onto 〈平面〉",
+          "use": "立体を平面上に表した図を示す。",
+          "example": "The drawing is a projection of the solid onto a horizontal plane.",
+          "translation": "その図面は、立体を水平面に投影した図だ。"
+        },
+        {
+          "pattern": "an orthographic projection",
+          "use": "投影の方向が投影面に垂直な方式を示す。",
+          "example": "An orthographic projection shows the component from the side.",
+          "translation": "正投影図がその部品を側面から示している。"
+        },
+        {
+          "pattern": "the projection of a vector onto a line",
+          "use": "数学で、ベクトルを直線方向に対応させる操作を述べる。",
+          "example": "The exercise asks for the orthogonal projection of a vector onto a line.",
+          "translation": "その演習問題は、ベクトルの直線への直交射影を求めている。"
+        }
+      ],
+      "notes": [
+        "地図の projection は映写機で映すことを必要としない。map projection は平面への表現方法であり、地球の曲面の性質をすべて歪みなく保てるという意味ではない。orthographic projection は図学で正投影法・正投影図、orthogonal projection は数学で直交射影として使われる。専門分野によって投影先や規則が異なるため、すべてを「立体の写真」と説明しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "representation",
+          "definition": "対象を別の形や図として表したもの。",
+          "frequency": 7,
+          "difference": "図としての projection に近いが、representation 自体は投影という対応規則を指定しない。",
+          "example": "The plan is a two-dimensional representation of the building.",
+          "translation": "その平面図は建物を二次元で表したものだ。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【名詞・不可算・発声】声を遠くまで届かせること",
+      "frequency": 4,
+      "register": [
+        "演技・歌・スピーチ・音楽。"
+      ],
+      "definition": "声や音を、離れた聞き手に明瞭に届かせること、またその届きやすさ。演劇・歌・講演などで、音量だけでなく明瞭さや響きも含めて述べる。単に叫ぶこととは限らない。",
+      "patterns": [
+        "voice projection＝声を遠くへ届かせる発声",
+        "good projection＝声・音のよい通り",
+        "work on one's projection＝声の届かせ方を練習する"
+      ],
+      "collocations": [
+        {
+          "pattern": "voice projection",
+          "use": "声を聞き手に届ける技能を述べる。",
+          "example": "The acting class includes exercises in voice projection.",
+          "translation": "その演技の授業には、声を遠くへ届かせる発声練習が含まれている。"
+        },
+        {
+          "pattern": "good projection",
+          "use": "声や音が遠くまで届く性質を評価する。",
+          "example": "The singer has good projection even in a large hall.",
+          "translation": "その歌手の声は、大きなホールでもよく通る。"
+        },
+        {
+          "pattern": "work on one's projection",
+          "use": "声の通りを改善する練習を述べる。",
+          "example": "She worked on her projection so the audience at the back could hear her.",
+          "translation": "後方の観客にも聞こえるように、彼女は声の届かせ方を練習した。"
+        }
+      ],
+      "notes": [
+        "この意味は通常不可算で、good projection や better projection とする。声の大きさだけでなく、遠くで聞き取りやすいことが焦点。voice projection は未来の声量の予測ではない。動詞なら project one's voice と言い、project a voice prediction のように組み立てない。"
+      ],
+      "synonyms": [
+        {
+          "word": "carrying power",
+          "definition": "声や音が遠くまで届く力。",
+          "frequency": 3,
+          "difference": "音の届く性質を直接示す。projection は発声上の働きかけや技能も表す。",
+          "example": "Her voice has remarkable carrying power.",
+          "translation": "彼女の声は驚くほど遠くまで届く。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【名詞・可算・不可算】内面の表出・具体化された像",
+      "frequency": 4,
+      "register": [
+        "文芸・芸術・思想・心理的な解釈。"
+      ],
+      "definition": "内面の考え・感情・願望などに、外から見える形や構造を与えること、またそうして生まれた像・作品など。心の中のものが外に表れたものとして解釈する言い方で、必ず本人が意識的に表現したとは限らない。",
+      "patterns": [
+        "a projection of 〈願望・感情〉＝願望・感情を形にした像",
+        "the projection of 〈内面〉 through 〈表現手段〉＝表現手段を通じた内面の表出",
+        "a projection of oneself＝自分自身を映し出した像"
+      ],
+      "collocations": [
+        {
+          "pattern": "a projection of 〈願望・感情〉",
+          "use": "作品などを内面の具体化として解釈する。",
+          "example": "The imaginary city is a projection of the writer's hopes for a fairer society.",
+          "translation": "その架空の都市は、より公正な社会を願う作家の希望を形にしたものだ。"
+        },
+        {
+          "pattern": "the projection of 〈内面〉 through 〈表現手段〉",
+          "use": "内面が外へ示される過程を述べる。",
+          "example": "The exhibition explores the projection of private fears through visual art.",
+          "translation": "その展覧会は、視覚芸術を通じて個人的な恐れを表すことを探っている。"
+        },
+        {
+          "pattern": "a projection of oneself",
+          "use": "人物像などに作者の内面が表れていると述べる。",
+          "example": "The critic sees the narrator as a projection of the novelist herself.",
+          "translation": "その批評家は、語り手を小説家自身の内面が映し出された人物像と見ている。"
+        }
+      ],
+      "notes": [
+        "a projection of his hopes のように個々の像は可算、projection through art のように表す過程は不可算。語義4では自分の感情を他者自身のものと捉えるのに対し、ここでは作品・人物像などに内面が形を得る。projection という語だけで、作品が作者の実体験を忠実に再現しているとは言えない。"
+      ],
+      "synonyms": [
+        {
+          "word": "expression",
+          "definition": "感情・考えなどを外に表すこと、またその表れ。",
+          "frequency": 8,
+          "difference": "より一般的で、言葉・表情・行為にも使う。projection は内面が別の像に映し出されるという見方を強める。",
+          "example": "The painting is an expression of her grief.",
+          "translation": "その絵は彼女の悲しみの表れだ。"
+        },
+        {
+          "word": "embodiment",
+          "definition": "抽象的な性質・考えなどを具体的な形で表したもの。",
+          "frequency": 5,
+          "difference": "具体的に体現している点に重点があり、必ず誰かの内面から生まれたという見方を伴わない。",
+          "example": "The garden is an embodiment of the designer's ideal of harmony.",
+          "translation": "その庭は、調和を理想とする設計者の考えを具体化したものだ。"
+        },
+        {
+          "word": "manifestation",
+          "definition": "内在する状態・感情などが外に現れたもの。",
+          "frequency": 6,
+          "difference": "外に現れた兆候・現象として捉える。projection は像や形に映し出すという面を示しやすい。",
+          "example": "The repeated motif is a manifestation of the artist's anxiety.",
+          "translation": "その繰り返し現れるモチーフは、画家の不安の表れだ。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

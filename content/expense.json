@@ -1,0 +1,560 @@
+{
+  "word": "expense",
+  "slug": "expense",
+  "ipa": "米・英: /ɪkˈspens/",
+  "lead": "何かを手に入れたり行ったりするためにかかる費用、またはそれを負担すること。日常では金銭が中心だが、改まった文では時間・労力などの消費にも使える。at someone's expense は、その人・組織が費用を負担していることを表す。",
+  "updated": "2026-10-12",
+  "notion_url": "https://app.notion.com/p/expense-3f74faa9b77d8170877decdc7dc24a91",
+  "pronunciation": [
+    "2音節で、第2音節 /spens/ に主強勢を置く。名詞・動詞で発音は同じ。複数形 expenses は /ɪkˈspen.sɪz/、過去形・過去分詞 expensed の語尾は /t/。expensing では綴りの最後の e を落とす。"
+  ],
+  "etymology": [
+    "中英語に、アングロ・フランス語とラテン語を通じて入った語。ラテン語 expensa「支出された金銭」は expendere「量って支払う、支出する」の過去分詞に由来し、ex-「外へ」と pendere「量る、支払う」にさかのぼる。現代の中心は、何かを得たり行ったりするために負担する費用で、慣用句では損失・犠牲にも広がる。",
+    "同語源の expend「費やす」、expenditure「支出・消費」、expensive「高価な」がある。expense は expand「広げる」とは別系統。動詞 expense は名詞から生まれた用法。"
+  ],
+  "formation": [
+    {
+      "term": "expenses",
+      "description": "（複数名詞）＝諸経費、生活費などの費用の総体、または精算対象の業務費。語義2・3で区別する。"
+    },
+    {
+      "term": "expensive（形容詞）",
+      "description": "＝高価な、費用のかかる。expense は名詞・動詞で、The hotel is expense. とはしない。"
+    },
+    {
+      "term": "inexpensive（形容詞）",
+      "description": "＝高価でない、手頃な価格の。費用がゼロという意味ではない。"
+    },
+    {
+      "term": "expense account（可算名詞）",
+      "description": "＝業務経費を支払うための仕組み・勘定。会社の認める範囲や精算方法は個別の規定による。"
+    },
+    {
+      "term": "expense report（可算名詞）",
+      "description": "＝経費報告書。支出を項目別に記録して提出する書類。"
+    },
+    {
+      "term": "all-expenses-paid（形容詞）",
+      "description": "＝必要経費をすべて負担してもらえる。an all-expenses-paid trip のように名詞の前でつなぐ。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "何かを得たり行ったりする際に、誰かが負担するもの。金銭的な負担と、健康・立場などを損なう代償とを区別し、負担の請求・会計処理にもつながる。"
+    },
+    {
+      "type": "item",
+      "text": "負担するものとしての費用全体 → 「出費、費用、負担」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "負担するものとしての個別の費用 → 「費用のかかるもの、費用項目、諸経費」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "負担したものとして精算する業務費 → 「精算対象の業務経費」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "負担するものとして失われる価値 → 「～を犠牲にして、～に損害を与えて」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "負担するものとして傷つく人の面目 → 「～を笑いものにして」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "負担したものとして行う経費請求 → 「経費として請求する」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "負担するものとして行う費用の認識 → 「費用として計上する」（語義7）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞：主に不可算】出費、費用、負担",
+      "frequency": 9,
+      "register": [
+        "中立。日常生活、仕事、費用の説明。時間・労力への使用はやや改まった表現。"
+      ],
+      "definition": "何かを手に入れたり行ったりするためにかかる費用、またはそれを負担すること。日常では金銭が中心だが、改まった文では時間・労力などの消費にも使える。at someone's expense は、その人・組織が費用を負担していることを表す。",
+      "patterns": [
+        "the expense of doing something＝何かをする費用",
+        "at great expense＝多額の費用をかけて",
+        "at someone's expense＝その人の費用負担で",
+        "at no extra expense＝追加費用なしで",
+        "spare no expense＝費用を惜しまない",
+        "go to the expense of doing something＝わざわざ費用をかけて何かをする",
+        "put someone to the expense of doing something＝人に何かをする費用を負担させる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the expense of doing something",
+          "use": "行為に伴う費用をひとまとまりとして示す。",
+          "example": "The expense of replacing the windows was higher than we expected.",
+          "translation": "窓を交換する費用は、予想していたより高かった。"
+        },
+        {
+          "pattern": "at great expense",
+          "use": "多くの費用をかけて行ったことを示す。",
+          "example": "The old theatre was restored at great expense.",
+          "translation": "その古い劇場は、多額の費用をかけて修復された。"
+        },
+        {
+          "pattern": "at one's own expense",
+          "use": "他者ではなく本人が費用を負担することを示す。",
+          "example": "She attended the conference at her own expense.",
+          "translation": "彼女は、自費でその会議に出席した。"
+        },
+        {
+          "pattern": "at no extra expense",
+          "use": "追加の費用負担がないことを示す。",
+          "example": "Guests can use the meeting room at no extra expense.",
+          "translation": "宿泊客は、追加費用なしで会議室を利用できる。"
+        },
+        {
+          "pattern": "spare no expense",
+          "use": "必要な出費を惜しまない姿勢を表す。",
+          "example": "They spared no expense in restoring the original furniture.",
+          "translation": "彼らは、元の家具を修復するための費用を惜しまなかった。"
+        },
+        {
+          "pattern": "go to the expense of doing something",
+          "use": "ある行為のためにわざわざ費用をかける。",
+          "example": "We went to the expense of hiring a photographer for the launch.",
+          "translation": "私たちは、発表会のためにわざわざ費用をかけて写真家を雇った。"
+        },
+        {
+          "pattern": "put someone to the expense of doing something",
+          "use": "ある事情によって他者に出費させることを表す。",
+          "example": "The cancellation put us to the expense of booking another hotel.",
+          "translation": "そのキャンセルのため、私たちは別のホテルを予約する費用を負担することになった。"
+        }
+      ],
+      "notes": [
+        "費用全体なら much expense、little expense、no expense とする。一つの費用項目なら an expense となり、語義2に対応する。at the company's expense は「会社負担で」。at the expense of quality は「品質を犠牲にして」という語義4で、費用の支払者を示していない。spare no expense は「費用がかからない」ではなく「費用を惜しまない」。expense of time and effort のような非金銭的用法もあるが、普通には expenditure of time and effort のほうが意味が明確。"
+      ],
+      "synonyms": [
+        {
+          "word": "cost",
+          "definition": "何かを得たり行ったりするのに必要な金額・負担。",
+          "frequency": 10,
+          "difference": "expense より広く、商品の費用や金銭以外の代償にもよく使う。expense は出費を負担する側の視点になりやすい。",
+          "example": "The cost of delivery is included in the price.",
+          "translation": "配送料は、価格に含まれている。"
+        },
+        {
+          "word": "expenditure",
+          "definition": "金銭を支出すること、または支出された金額。",
+          "frequency": 7,
+          "difference": "改まった語で、一定期間・用途別の総額を説明しやすい。expense は日常的な費用負担にも使う。",
+          "example": "The report shows a rise in expenditure on maintenance.",
+          "translation": "その報告書は、保守への支出が増えたことを示している。"
+        },
+        {
+          "word": "outlay",
+          "definition": "何かを始めたり取得したりするために必要な支出額。",
+          "frequency": 5,
+          "difference": "初期投資など、まとまって出す金額を強調しやすい。expense は継続的な負担にも広く使える。",
+          "example": "The new system requires a large initial outlay.",
+          "translation": "新しいシステムには、多額の初期支出が必要だ。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞：可算】費用のかかるもの、費用項目、諸経費",
+      "frequency": 9,
+      "register": [
+        "中立。家計、事業、会計。"
+      ],
+      "definition": "支出の原因となる物事、または個々の費用項目。複数形 expenses は、生活・事業・特定の活動にかかる費用をまとめて指す。誰かから払い戻される費用に限らない。",
+      "patterns": [
+        "a major expense＝大きな費用負担",
+        "an unexpected expense＝予想外の出費",
+        "living expenses＝生活費",
+        "operating expenses＝事業の運営費",
+        "cover one's expenses＝必要な費用を賄う",
+        "incur expenses＝費用が発生して負担する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a major expense",
+          "use": "支出の大きな原因となる項目を示す。",
+          "example": "Rent is a major expense for the small shop.",
+          "translation": "その小さな店にとって、家賃は大きな費用負担だ。"
+        },
+        {
+          "pattern": "an unexpected expense",
+          "use": "想定していなかった費用項目を示す。",
+          "example": "Replacing the broken refrigerator was an unexpected expense.",
+          "translation": "壊れた冷蔵庫の買い替えは、予想外の出費だった。"
+        },
+        {
+          "pattern": "living expenses",
+          "use": "日々の生活に必要な支出全般を示す。",
+          "example": "Her salary is just enough to cover her living expenses.",
+          "translation": "彼女の給料は、生活費を賄うのにちょうど足りる程度だ。"
+        },
+        {
+          "pattern": "operating expenses",
+          "use": "事業運営に伴う費用をまとめる。",
+          "example": "The company reduced its operating expenses by moving to a smaller office.",
+          "translation": "その会社は、より小さな事務所に移ることで運営費を削減した。"
+        },
+        {
+          "pattern": "cover one's expenses",
+          "use": "入ってくるお金で必要な費用を賄う。",
+          "example": "Ticket sales did not cover the theatre's expenses that month.",
+          "translation": "その月のチケット売上では、劇場の諸経費を賄えなかった。"
+        },
+        {
+          "pattern": "incur expenses",
+          "use": "活動に伴って費用を負担することになる。",
+          "example": "We incurred additional expenses when the delivery was delayed.",
+          "translation": "配送が遅れた際、私たちは追加の費用を負担することになった。"
+        }
+      ],
+      "notes": [
+        "費用項目なら an expense、複数の項目や費用の総体なら expenses。会計の expense は、利益を計算する際の「費用」も指すため、すべてが同時点の現金支出とは限らない。一方、日常の expense や capital expense まで特定の会計処理に一律に限定しない。expenses が増えたことと payments「支払額」が増えたことは、文脈によっては別。an expense があるだけで税務上控除できると判断しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "costs",
+          "definition": "活動・生産・生活などに必要な費用。",
+          "frequency": 9,
+          "difference": "広く重なるが、production costs のように製造や提供の原価を述べる場合にも多い。",
+          "example": "Transport costs rose sharply last year.",
+          "translation": "昨年、輸送費が急増した。"
+        },
+        {
+          "word": "overheads",
+          "definition": "家賃や事務管理費など、事業を維持するための継続的な間接費。",
+          "frequency": 6,
+          "difference": "expenses の一部を指す。個々の製品に直接対応する材料費など、あらゆる費用を含む語ではない。米語では不可算 overhead も普通。",
+          "example": "Sharing an office helped us reduce overheads.",
+          "translation": "事務所を共有することで、事業の間接費を減らすことができた。"
+        },
+        {
+          "word": "outgoings",
+          "definition": "定期的に支払う生活費や事業費。",
+          "frequency": 5,
+          "difference": "主に英国英語で、入金に対する出金側をまとめる。expense ほど個別の費用項目には使わない。",
+          "example": "We reviewed our monthly outgoings before moving.",
+          "translation": "引っ越す前に、毎月の支出を見直した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞：複数形 expenses】精算対象の業務経費",
+      "frequency": 8,
+      "register": [
+        "中立。職場、出張、経費精算。on expenses は特に英国英語。"
+      ],
+      "definition": "仕事などのために使い、雇用主や依頼した組織が負担・払い戻しをする費用。旅費、宿泊費、食費などが典型だが、認められる項目は組織や契約の規定による。一般の生活費を表す語義2より狭い用法。",
+      "patterns": [
+        "claim expenses＝経費の精算を請求する",
+        "reimburse someone's expenses＝人の立替経費を払い戻す",
+        "salary plus expenses＝給与に経費支給を加えて",
+        "on expenses＝経費扱いで",
+        "with all expenses paid＝必要経費をすべて負担してもらって。"
+      ],
+      "collocations": [
+        {
+          "pattern": "claim expenses",
+          "use": "立て替えた業務費の払い戻しを請求する。",
+          "example": "Staff must attach receipts when they claim travel expenses.",
+          "translation": "職員は、旅費の精算を請求する際に領収書を添付しなければならない。"
+        },
+        {
+          "pattern": "reimburse someone's expenses",
+          "use": "組織側が立替金を払い戻す。",
+          "example": "The organizer reimbursed the speaker's expenses after the conference.",
+          "translation": "主催者は、会議の後で講演者の立替経費を払い戻した。"
+        },
+        {
+          "pattern": "plus expenses",
+          "use": "報酬と経費を別枠で支給することを示す。",
+          "example": "The consultant will receive a daily fee of 400 dollars plus expenses.",
+          "translation": "そのコンサルタントには、日額400ドルの報酬に加えて経費が支給される。"
+        },
+        {
+          "pattern": "on expenses",
+          "use": "雇用主への経費請求の対象として利用する。",
+          "example": "She took the client to lunch on expenses.",
+          "translation": "彼女は、経費扱いで取引先の相手を昼食に連れていった。"
+        },
+        {
+          "pattern": "with all expenses paid",
+          "use": "参加者自身が必要経費を負担しない条件を示す。",
+          "example": "The company sent him to the trade fair with all expenses paid.",
+          "translation": "会社は、必要経費をすべて負担して彼を見本市に派遣した。"
+        }
+      ],
+      "notes": [
+        "claim expenses は「請求する」、be reimbursed は「払い戻される」。請求しただけで承認や入金が済んだことにはならない。travel expenses は一般の旅費も意味するため、必ず精算対象と解釈せず、雇用主・請求・払い戻しの文脈を確認する。名詞の前では an expense report のように単数 expense、英国英語では an expenses claim のように複数を保つ定着表現もある。"
+      ],
+      "synonyms": [
+        {
+          "word": "business expenses",
+          "definition": "仕事・事業を行うために発生する費用。",
+          "frequency": 7,
+          "difference": "精算対象の費用と重なるが、自営業者自身が負担する費用なども含み、払い戻しを必須としない。",
+          "example": "Keep personal purchases separate from business expenses.",
+          "translation": "個人的な買い物と事業経費は分けておいてください。"
+        },
+        {
+          "word": "out-of-pocket expenses",
+          "definition": "自分の手持ちのお金から支払う費用。",
+          "frequency": 6,
+          "difference": "立て替えた実費を強調する。後で払い戻される場合も、本人が最終負担する場合もある。",
+          "example": "The charity will reimburse volunteers for approved out-of-pocket expenses.",
+          "translation": "その慈善団体は、承認された立替実費をボランティアに払い戻す。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞を含む慣用句】～を犠牲にして、～に損害を与えて",
+      "frequency": 8,
+      "register": [
+        "中立から改まった表現。批評、仕事、社会問題。"
+      ],
+      "definition": "at the expense of someone or something の形で、一方の利益・達成・優先の結果として、別の人や価値が損なわれることを表す。損なわれる対象は健康、品質、公平さ、人の利益などで、金銭に限らない。",
+      "patterns": [
+        "at the expense of something＝何かを犠牲にして",
+        "at the expense of someone＝誰かに不利益を与えて",
+        "at someone's expense＝その人を犠牲にして。"
+      ],
+      "collocations": [
+        {
+          "pattern": "at the expense of quality",
+          "use": "費用や速度を優先して品質を損なうことを述べる。",
+          "example": "We should not reduce costs at the expense of quality.",
+          "translation": "品質を犠牲にして費用を削減すべきではない。"
+        },
+        {
+          "pattern": "at the expense of one's health",
+          "use": "仕事などの代償として健康を損なうことを述べる。",
+          "example": "He built his career at the expense of his health.",
+          "translation": "彼は、健康を犠牲にしてキャリアを築いた。"
+        },
+        {
+          "pattern": "at the expense of someone",
+          "use": "一部の人の利益が他者の不利益に結びつくことを述べる。",
+          "example": "The policy benefits large retailers at the expense of smaller shops.",
+          "translation": "その政策は、小規模店舗に不利益を与える一方で、大手小売業者に利益をもたらす。"
+        },
+        {
+          "pattern": "at someone else's expense",
+          "use": "自分以外の人を犠牲にした利益を指す。",
+          "example": "She refused a promotion that would come at a colleague's expense.",
+          "translation": "彼女は、同僚を犠牲にすることになる昇進を断った。"
+        }
+      ],
+      "notes": [
+        "expense は単数で、at the expenses of quality とはしない。at the expense of someone には費用負担の解釈が成り立つ場面もあるため、構文だけで「犠牲」と決めず、何が失われたかを文脈から読む。at someone's expense が冗談と結びつけば語義5の「笑いものにして」となる。"
+      ],
+      "synonyms": [
+        {
+          "word": "to the detriment of",
+          "definition": "人や物事に悪影響・損害を与えて。",
+          "frequency": 6,
+          "difference": "改まった表現で、害があることを直接述べる。一方が得をする対比は必須ではない。",
+          "example": "Staff shortages affected the service to the detriment of customers.",
+          "translation": "人手不足はサービスに影響し、顧客に不利益をもたらした。"
+        },
+        {
+          "word": "at the cost of",
+          "definition": "ある損失を代償として。",
+          "frequency": 7,
+          "difference": "達成のために支払う代償を強調しやすく、命や自由の喪失にも使う。",
+          "example": "They achieved rapid growth at the cost of financial stability.",
+          "translation": "彼らは、財務の安定を代償に急成長を実現した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞を含む慣用句】～を笑いものにして",
+      "frequency": 7,
+      "register": [
+        "中立。会話、対人関係。親しいからかいにも悪意のある嘲笑にもなり得る。"
+      ],
+      "definition": "冗談や笑いについて at someone's expense といい、その人をからかったり、その人が恥をかくことを笑いの材料にしたりすることを表す。金銭の支払いとは関係がない。",
+      "patterns": [
+        "a joke at someone's expense＝人を笑いものにする冗談",
+        "laugh at someone's expense＝人を笑いものにして笑う",
+        "at one's own expense＝自分を笑いの種にして。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a joke at someone's expense",
+          "use": "誰を笑いの対象にした冗談かを示す。",
+          "example": "He made a joke at the new employee's expense.",
+          "translation": "彼は、新入社員を笑いものにする冗談を言った。"
+        },
+        {
+          "pattern": "laugh at someone's expense",
+          "use": "人が恥をかくことを笑いの材料にする。",
+          "example": "The audience laughed at my expense when I forgot the presenter's name.",
+          "translation": "私が司会者の名前を忘れたとき、聴衆はそれを笑いの種にした。"
+        },
+        {
+          "pattern": "at one's own expense",
+          "use": "自分の失敗などを笑いの材料にする。",
+          "example": "She opened the speech with a joke at her own expense.",
+          "translation": "彼女は、自分を笑いの種にした冗談でスピーチを始めた。"
+        }
+      ],
+      "notes": [
+        "a joke at his expense の expense は「彼が払った冗談代」ではない。laugh at someone は相手を笑うことを直接述べ、at someone's expense はその人の失敗・立場などを犠牲にして笑いを得る点を加える。必ず本人が深刻に傷ついたとまでは意味しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "make fun of",
+          "definition": "人や物事を笑いの対象にしてからかう。",
+          "frequency": 9,
+          "difference": "動詞句で、からかう行為を直接表す。at someone's expense は冗談や笑いに添える前置詞句。",
+          "example": "Please do not make fun of his accent.",
+          "translation": "彼のアクセントをからかわないでください。"
+        },
+        {
+          "word": "mock",
+          "definition": "人や物事をばかにするようにまねたり笑ったりする。",
+          "frequency": 8,
+          "difference": "軽い冗談より、見下す・あざける評価が強くなりやすい。",
+          "example": "The article mocked the minister's attempt to explain the delay.",
+          "translation": "その記事は、遅れを説明しようとした大臣の対応をあざけった。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【動詞：他動詞】経費として請求する",
+      "frequency": 6,
+      "register": [
+        "業務、職場の会話。特に米語でよく見られる。"
+      ],
+      "definition": "業務上の支出を経費扱いにし、雇用主などに負担・精算を求める。目的語は食事代・交通費などの支出、またはその支出を生んだ物事。職場で簡潔に言う用法で、費用として会計記録する語義7と場面を区別する。",
+      "patterns": [
+        "expense 〈費用・購入物〉＝その費用・購入物の代金を経費請求する",
+        "expense something to 〈組織・勘定〉＝その組織・勘定に経費を付ける",
+        "be expensed＝経費扱いにされる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "expense a taxi fare",
+          "use": "移動にかかった費用を精算対象にする。",
+          "example": "You can expense the taxi fare if you keep the receipt.",
+          "translation": "領収書を保管しておけば、そのタクシー代を経費請求できます。"
+        },
+        {
+          "pattern": "expense a meal",
+          "use": "食事そのものではなく、その代金を経費扱いにする。",
+          "example": "Can I expense the meal I had with the client?",
+          "translation": "取引先の相手と取った食事の代金を、経費請求できますか。"
+        },
+        {
+          "pattern": "expense something to 〈組織・勘定〉",
+          "use": "経費の付け先を示す。",
+          "example": "He expensed the hotel bill to his employer.",
+          "translation": "彼は、ホテル代を雇用主に経費請求した。"
+        },
+        {
+          "pattern": "be expensed",
+          "use": "支出が経費精算の対象となることを述べる。",
+          "example": "Under our travel policy, personal sightseeing trips cannot be expensed.",
+          "translation": "当社の出張規定では、個人的な観光旅行の費用は経費請求できない。"
+        }
+      ],
+      "notes": [
+        "expense it は「それを経費請求する」で、expense for it とはしない。expense the employee とすると、この「従業員の立替金を精算する」という意味にはならない。請求する人が主語の expense a fare と、払い戻す側が主語の reimburse an employee for a fare は役割が逆。経費請求が可能かは個別規定による。"
+      ],
+      "synonyms": [
+        {
+          "word": "claim",
+          "definition": "自分に支給・払い戻しされるべき金銭を正式に請求する。",
+          "frequency": 8,
+          "difference": "費用以外に給付や補償の請求にも使う。claim expenses は職場以外でも通じる明確な表現。",
+          "example": "She claimed the cost of the train ticket.",
+          "translation": "彼女は、列車の切符代の払い戻しを請求した。"
+        },
+        {
+          "word": "charge",
+          "definition": "費用を特定の相手や勘定に付ける。",
+          "frequency": 8,
+          "difference": "charge something to an account の形で付け先を示す。業務経費に限らず、請求先への計上全般に使う。",
+          "example": "Please charge the printing costs to the marketing department.",
+          "translation": "印刷費は、マーケティング部門に付けてください。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【動詞：他動詞】費用として計上する",
+      "frequency": 5,
+      "register": [
+        "会計・財務の専門用法。"
+      ],
+      "definition": "ある支出・原価などを、会計上の費用として処理する。特に、資産として計上して後の期間に配分する扱いと対比して、その期間の費用にすることを表す。現金の支払い、従業員への払い戻し、税務上の控除は別の観点。",
+      "patterns": [
+        "expense 〈costs〉＝原価・支出などを費用処理する",
+        "expense something immediately＝直ちに費用計上する",
+        "be expensed as incurred＝発生時に費用計上される",
+        "be expensed rather than capitalized＝資産計上されず費用処理される。"
+      ],
+      "collocations": [
+        {
+          "pattern": "expense 〈costs〉",
+          "use": "会計上の費用認識を述べる。",
+          "example": "The accountant expensed the repair costs in the current period.",
+          "translation": "会計担当者は、その修理費を当期の費用として計上した。"
+        },
+        {
+          "pattern": "expense something immediately",
+          "use": "費用化を後の期間に繰り延べない処理を示す。",
+          "example": "The report explains why the company expensed those costs immediately.",
+          "translation": "報告書は、その会社がなぜそれらの費用を直ちに計上したかを説明している。"
+        },
+        {
+          "pattern": "be expensed as incurred",
+          "use": "費用を認識するタイミングを表す。",
+          "example": "The note states that these maintenance costs are expensed as incurred.",
+          "translation": "その注記には、これらの保守費は発生時に費用計上されると記されている。"
+        },
+        {
+          "pattern": "be expensed rather than capitalized",
+          "use": "費用処理と資産計上の違いを示す。",
+          "example": "The auditor asked why the installation costs had been expensed rather than capitalized.",
+          "translation": "監査人は、その設置費が資産計上されず費用処理されていた理由を尋ねた。"
+        }
+      ],
+      "notes": [
+        "be expensed は会計処理を表す受動態で、「安くなる」ではない。expense と capitalize は費用として認識するか資産として計上するかの対照だが、どちらを採用すべきかは適用基準や取引の内容による。as incurred という修飾がある例を、expense 一語の必須条件としない。tax-deductible「税務上控除できる」かどうかも、この動詞だけでは決まらない。"
+      ],
+      "synonyms": [
+        {
+          "word": "write off",
+          "definition": "支出を費用として処理する。",
+          "frequency": 5,
+          "difference": "この会計上の用法では重なるが、不良債権や資産価値を帳簿から落とす別の用法もある。あらゆる write off を expense と訳さない。",
+          "example": "The accountant wrote off the small purchase as an expense.",
+          "translation": "会計担当者は、その少額の購入を費用として処理した。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

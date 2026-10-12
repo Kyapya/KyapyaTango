@@ -1,0 +1,539 @@
+{
+  "word": "budget",
+  "slug": "budget",
+  "ipa": "米・英: /ˈbʌdʒ.ɪt/",
+  "lead": "一定期間や事業について、収入・支出の見込みやお金の使い道を示す計画。個人の家計にも、企業・政府の計画にも使う。計画なので、そのとおりに支出や収入が実現したことまでは表さない。",
+  "updated": "2026-10-12",
+  "notion_url": "https://app.notion.com/p/budget-3f74faa9b77d81eea1e9c056edee9df9",
+  "pronunciation": [
+    "2音節で、第1音節に主強勢を置く。名詞・動詞・形容詞で強勢は変わらない。第1音節末の /dʒ/ は judge の語頭・語末と同じ音。budgeted は語尾に /ɪd/ が加わる3音節、budgeting も3音節となり、t を重ねない。"
+  ],
+  "etymology": [
+    "中英語 bowgette に、フランス語 bougette「小さな革袋」から入った語。bouge「革袋」の指小形で、ラテン語 bulga「革袋」にさかのぼり、このラテン語はケルト系に由来する。袋を指した古い意味と、現代の予算・資源配分の意味を区別する。現在の用法を「袋の中の現金」だけに限定して覚えない。",
+    "同じ遠い語源の系統に bulge「ふくらみ、ふくらむ」がある。belly「腹」も袋・ふくらみを表す語根との同根関係が示されるが、budget から派生した語ではない。現代の動詞は名詞から、安価なという形容詞は名詞の限定的な用法から発達した。"
+  ],
+  "formation": [
+    {
+      "term": "budgetary（形容詞）",
+      "description": "＝予算に関する。budgetary constraints「予算上の制約」のように用い、「安価な」という budget と区別する。"
+    },
+    {
+      "term": "budgeting（不可算名詞）",
+      "description": "＝予算編成、予算管理。動詞の現在分詞と同形だが、budgeting software では活動名として名詞を修飾する。"
+    },
+    {
+      "term": "budgeted（過去形・過去分詞）",
+      "description": "＝予算に計上した、配分された。budgeted costs は予算上見込んだ費用で、実際に支払った費用とは限らない。"
+    },
+    {
+      "term": "low-budget（形容詞）",
+      "description": "＝少ない予算で作られた、低予算の。a low-budget film のように名詞の前でハイフンを付ける。"
+    },
+    {
+      "term": "big-budget（形容詞）",
+      "description": "＝多額の予算をかけた。a big-budget production は製作費が大きいのであり、利益が大きいとは限らない。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "使えるお金や資源を、一定の枠の中で見通し、割り振る。その計画・量・行為と、少ない支出枠に合うという評価へつながる。"
+    },
+    {
+      "type": "item",
+      "text": "資源の枠を決める収支計画 → 「予算、収支計画」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "資源の枠として使える金額 → 「予算額、使える金額」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "資源の枠を踏まえて行うやりくり → 「予算を立てる、やりくりする」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "資源の枠の中で行う具体的な配分 → 「予算に計上する、計画的に配分する」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "資源の少ない支出枠に合う価格 → 「低価格の、格安の」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "資源の枠として扱う非金銭的な量 → 「割当量、資源の収支」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "資源の枠を示す英国政府の発表 → 「英国政府の予算発表」（語義7）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞：可算】予算、収支計画",
+      "frequency": 9,
+      "register": [
+        "中立。日常生活、事業運営、行政、会計。"
+      ],
+      "definition": "一定期間や事業について、収入・支出の見込みやお金の使い道を示す計画。個人の家計にも、企業・政府の計画にも使う。計画なので、そのとおりに支出や収入が実現したことまでは表さない。",
+      "patterns": [
+        "draw up a budget＝予算を作成する",
+        "approve a budget＝予算を承認する",
+        "a budget for 〈事業・期間〉＝その事業・期間の予算",
+        "an annual budget＝年間予算",
+        "a balanced budget＝収入と支出が釣り合う予算。"
+      ],
+      "collocations": [
+        {
+          "pattern": "draw up a budget",
+          "use": "収支や使い道を計画書にまとめる。",
+          "example": "Each department must draw up a budget for the next financial year.",
+          "translation": "各部門は、次の会計年度の予算を作成しなければならない。"
+        },
+        {
+          "pattern": "approve a budget",
+          "use": "提案された予算に承認を与える。",
+          "example": "The board approved the budget after reviewing the projected sales.",
+          "translation": "取締役会は、売上見込みを確認した後で予算を承認した。"
+        },
+        {
+          "pattern": "an annual budget",
+          "use": "1年間の収支計画を指す。",
+          "example": "Training costs are listed separately in our annual budget.",
+          "translation": "研修費は、当社の年間予算に別項目として記載されている。"
+        },
+        {
+          "pattern": "a balanced budget",
+          "use": "収入と支出が釣り合う予算を述べる。",
+          "example": "The council proposed a balanced budget with no increase in local taxes.",
+          "translation": "議会は、地方税の引き上げを伴わない均衡予算を提案した。"
+        }
+      ],
+      "notes": [
+        "計画を一つのものとして数えるので a budget、departmental budgets とする。予算を作ることは draw up a budget、成立済みの予算に従うことは follow a budget。実際の入出金を記録する accounts「会計帳簿・計算書類」とは区別する。budget proposal では名詞 budget が proposal を修飾しており、語義5の「格安の」ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "financial plan",
+          "definition": "収支、資金の調達・利用などを見通す計画。",
+          "frequency": 6,
+          "difference": "budget より広く、長期の資金計画も含む。期間別の収支や支出枠を示す場合に重なる。",
+          "example": "The financial plan includes funding for a second office.",
+          "translation": "その資金計画には、2か所目の事務所のための資金が含まれている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞：可算・定型句では無冠詞】予算額、使える金額",
+      "frequency": 9,
+      "register": [
+        "中立。買い物、旅行、家計、事業管理。"
+      ],
+      "definition": "特定の目的に使うために用意・許可・想定された金額。単に手元にある全財産ではなく、何にどれだけ使えるかという枠を表す。on a budget は、使えるお金を意識して支出を抑える含みでよく使われる。",
+      "patterns": [
+        "a budget of 〈金額〉＝その金額の予算",
+        "a budget for 〈用途〉＝その用途の予算",
+        "on a tight budget＝限られた予算で",
+        "within budget＝予算内で",
+        "under budget＝予算額を下回って",
+        "over budget＝予算額を超えて",
+        "on budget＝予定した予算どおりに。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a budget of 〈金額〉",
+          "use": "利用できる具体的な金額を示す。",
+          "example": "We have a budget of 5,000 dollars for new computers.",
+          "translation": "私たちには、新しいコンピューターを購入するための予算が5,000ドルある。"
+        },
+        {
+          "pattern": "on a tight budget",
+          "use": "使える金額が限られた条件を示す。",
+          "example": "The guide is useful for visitors travelling on a tight budget.",
+          "translation": "そのガイドは、限られた予算で旅行する人に役立つ。"
+        },
+        {
+          "pattern": "within budget",
+          "use": "支出が予算の範囲に収まることを述べる。",
+          "example": "We changed the materials to keep the renovation within budget.",
+          "translation": "改装費を予算内に収めるため、使用する材料を変更した。"
+        },
+        {
+          "pattern": "under budget",
+          "use": "支出が予定額より少なかったことを示す。",
+          "example": "The event came in 2,000 dollars under budget.",
+          "translation": "そのイベントの費用は、予算を2,000ドル下回った。"
+        },
+        {
+          "pattern": "over budget",
+          "use": "予算の超過を示す。",
+          "example": "The project is already over budget, although construction is not finished.",
+          "translation": "工事はまだ終わっていないが、その事業はすでに予算を超えている。"
+        },
+        {
+          "pattern": "on budget",
+          "use": "費用を予定した枠どおりに管理できたことを示す。",
+          "example": "The team delivered the new website on time and on budget.",
+          "translation": "チームは、新しいウェブサイトを期限どおり、予算どおりに納品した。"
+        }
+      ],
+      "notes": [
+        "on a budget と on budget は同じ形ではない。前者は「限られた予算で」、後者は「予算どおりに」。within a budget of 5,000 dollars のように修飾を伴う可算形も使えるが、定型的な within budget、over budget には a を入れない。under budget と within budget は重なるが、前者は上限を下回ることを明示する。budget を増額しても、実支出が増えたとは限らない。"
+      ],
+      "synonyms": [
+        {
+          "word": "allocation",
+          "definition": "特定の用途や受取先に割り当てられた金額。",
+          "frequency": 6,
+          "difference": "配分する側が振り分けた取り分に焦点を置く。budget は利用者側の支出枠にも使う。",
+          "example": "The library received an additional allocation of 8,000 dollars.",
+          "translation": "図書館には、追加で8,000ドルが割り当てられた。"
+        },
+        {
+          "word": "allowance",
+          "definition": "特定の目的のために認められた、または支給される金額。",
+          "frequency": 7,
+          "difference": "個人向けの手当や一定の支給額に使いやすい。budget は計画上の枠だけでも成立する。",
+          "example": "Employees receive a daily meal allowance when travelling for work.",
+          "translation": "従業員には、出張中は1日ごとの食事手当が支給される。"
+        },
+        {
+          "word": "funds",
+          "definition": "ある目的に利用できる資金。",
+          "frequency": 8,
+          "difference": "資金の存在や確保に焦点があり、支出計画上の上限を必ずしも意味しない。",
+          "example": "We do not yet have the funds to replace the equipment.",
+          "translation": "その機器を交換するための資金は、まだ確保できていない。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞：自動詞】予算を立てる、やりくりする",
+      "frequency": 7,
+      "register": [
+        "中立。家計、旅行、事業運営。"
+      ],
+      "definition": "収入や支出を見積もり、使える範囲に収まるようお金の使い方を計画する。for の後には、費用を見込む対象や予定を置く。節約が必要な場面で多いが、支出を減らすことだけが意味ではない。",
+      "patterns": [
+        "someone + budget carefully＝人が慎重に予算を立てる",
+        "budget for 〈費用・予定〉＝その費用・予定を予算に見込む",
+        "budget for doing something＝何かをするための費用を見込む。"
+      ],
+      "collocations": [
+        {
+          "pattern": "budget carefully",
+          "use": "お金の使い方を計画する行為を述べる。",
+          "example": "We will need to budget carefully while only one of us is working.",
+          "translation": "私たちのうち1人しか働いていない間は、慎重にやりくりする必要がある。"
+        },
+        {
+          "pattern": "budget for unexpected costs",
+          "use": "不測の支出のための余地を設ける。",
+          "example": "The organizers had not budgeted for unexpected security costs.",
+          "translation": "主催者は、想定外の警備費を予算に見込んでいなかった。"
+        },
+        {
+          "pattern": "budget for a holiday",
+          "use": "将来の予定に必要な費用を計画する。",
+          "example": "They are budgeting for a holiday next spring.",
+          "translation": "彼らは、来春の休暇旅行のためにお金の使い方を計画している。"
+        },
+        {
+          "pattern": "budget for doing something",
+          "use": "行為に伴う出費を見込む。",
+          "example": "Have you budgeted for replacing the old wiring?",
+          "translation": "古い配線を交換する費用は、予算に見込んでいますか。"
+        }
+      ],
+      "notes": [
+        "budget for repairs「修理費を見込む」は for 以下が前置詞句で、直接目的語ではない。語義4の budget 1,000 dollars for repairs「修理用に1,000ドルを計上する」では金額が直接目的語となる。この自動詞用法に通常の受動態は作らない。budgeted、budgeting はこの語義でも普通の活用形であり、特別な分詞形容詞の意味を持たない。"
+      ],
+      "synonyms": [
+        {
+          "word": "plan",
+          "definition": "これから行うことや使う資源を前もって決める。",
+          "frequency": 10,
+          "difference": "お金に限らず、手順・日程・目標にも使う。budget は金銭の収支や配分が中心。",
+          "example": "We need to plan for a possible increase in rent.",
+          "translation": "家賃が上がる可能性に備えて計画する必要がある。"
+        },
+        {
+          "word": "economize",
+          "definition": "支出や資源の使用を抑える。",
+          "frequency": 5,
+          "difference": "節約そのものを表す。budget は収支を計画することであり、増額する計画も含められる。",
+          "example": "We are economizing on travel this year.",
+          "translation": "今年は、旅費を節約している。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞：他動詞】予算に計上する、計画的に配分する",
+      "frequency": 7,
+      "register": [
+        "中立。予算編成、日程・時間管理、事業計画。"
+      ],
+      "definition": "特定の金額・時間・労力などを、ある目的のために計画して割り当てる。また、事業などを目的語にして、その予算額を設定する。限りある資源の使い方を前もって決めることが中心で、実際の支払い・消費まで済んだとは限らない。",
+      "patterns": [
+        "budget 〈金額〉 for 〈用途〉＝その用途にその金額を計上する",
+        "budget 〈金額〉 to do something＝何かをするためにその金額を計上する",
+        "budget one's time＝時間の使い方を計画する",
+        "budget 〈時間量〉 for 〈作業〉＝その作業にその時間を割り当てる",
+        "be budgeted at 〈金額〉＝予算額がその金額に設定されている",
+        "be budgeted for 〈用途〉＝その用途のために予算に計上されている。"
+      ],
+      "collocations": [
+        {
+          "pattern": "budget 〈金額〉 for 〈用途〉",
+          "use": "金額を直接目的語にして用途を添える。",
+          "example": "We budgeted 600 dollars for printing the brochures.",
+          "translation": "私たちは、パンフレットの印刷費として600ドルを計上した。"
+        },
+        {
+          "pattern": "budget 〈金額〉 to do something",
+          "use": "予定している行為のための金額を示す。",
+          "example": "The company has budgeted 50,000 dollars to upgrade its network.",
+          "translation": "その会社は、ネットワークを更新するために5万ドルを予算に計上している。"
+        },
+        {
+          "pattern": "budget one's time",
+          "use": "時間を計画的に使うことを述べる。",
+          "example": "Budget your time so that you can check your answers before the test ends.",
+          "translation": "試験が終わる前に解答を見直せるよう、時間配分を考えてください。"
+        },
+        {
+          "pattern": "budget 〈時間量〉 for 〈作業〉",
+          "use": "作業に必要な時間をあらかじめ取っておく。",
+          "example": "We budgeted two hours for the final inspection.",
+          "translation": "最終検査には2時間を割り当てた。"
+        },
+        {
+          "pattern": "be budgeted at 〈金額〉",
+          "use": "事業を主語にして設定された予算額を示す。",
+          "example": "The renovation is budgeted at 80,000 dollars.",
+          "translation": "その改装の予算額は8万ドルに設定されている。"
+        },
+        {
+          "pattern": "be budgeted for 〈用途〉",
+          "use": "金額を主語にして予算上の用途を示す。",
+          "example": "An additional 10,000 dollars has been budgeted for staff training.",
+          "translation": "職員研修のために、追加で1万ドルが計上されている。"
+        }
+      ],
+      "notes": [
+        "The project is budgeted at ... は「事業の予算額」、The money is budgeted for ... は「資金の用途」を示す。前置詞だけでなく主語の役割も確認する。budget oneself「自分の支出を予算に従わせる」という再帰形もあるが、budget carefully のように目的語なしでも使えるので、oneself は必須ではない。budgeted expenditure は「予算に計上された支出」で、支出済みとは限らない。"
+      ],
+      "synonyms": [
+        {
+          "word": "allocate",
+          "definition": "金銭・時間・人員などを特定の目的に割り当てる。",
+          "frequency": 8,
+          "difference": "実際の配分決定に焦点を置く。budget は収支・資源計画に組み込む意味が強い。",
+          "example": "We allocated three hours to testing the new system.",
+          "translation": "新しいシステムのテストに3時間を割り当てた。"
+        },
+        {
+          "word": "set aside",
+          "definition": "後で使うために金銭・時間などを取っておく。",
+          "frequency": 8,
+          "difference": "利用可能なまま確保しておくことが中心で、正式な予算計画を必要としない。",
+          "example": "She set aside an hour to prepare for the interview.",
+          "translation": "彼女は、面接の準備のために1時間を取っておいた。"
+        },
+        {
+          "word": "earmark",
+          "definition": "資金などの用途を特定しておく。",
+          "frequency": 6,
+          "difference": "使い道の指定を強調する。時間配分全般を表す budget one's time の代わりにはしにくい。",
+          "example": "The grant is earmarked for repairs to the roof.",
+          "translation": "その助成金は、屋根の修理に使うものと指定されている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【形容詞：主に限定】低価格の、格安の",
+      "frequency": 8,
+      "register": [
+        "中立。旅行、広告、商品比較。"
+      ],
+      "definition": "費用が少なくて済む商品・サービス、またはそれを提供する事業者を表す。少ない予算で利用できるという価格面の分類であり、品質が悪いと必ず評価しているわけではない。",
+      "patterns": [
+        "a budget hotel＝格安ホテル",
+        "a budget airline＝格安航空会社",
+        "budget accommodation＝低価格の宿泊施設",
+        "a budget option＝低価格の選択肢。通常は名詞の前に置き、比較には cheaper や less expensive なども用いる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a budget hotel",
+          "use": "宿泊費の安いホテルを分類する。",
+          "example": "We booked a budget hotel near the station.",
+          "translation": "私たちは、駅の近くの格安ホテルを予約した。"
+        },
+        {
+          "pattern": "a budget airline",
+          "use": "低価格の航空サービスを提供する会社を指す。",
+          "example": "The budget airline charges separately for checked baggage.",
+          "translation": "その格安航空会社は、預け入れ手荷物の料金を別途請求する。"
+        },
+        {
+          "pattern": "budget accommodation",
+          "use": "宿泊先を価格帯でまとめる。",
+          "example": "Budget accommodation is harder to find during the festival.",
+          "translation": "祭りの期間中は、低価格の宿泊施設が見つかりにくくなる。"
+        },
+        {
+          "pattern": "a budget option",
+          "use": "安く済む代替案を示す。",
+          "example": "The smaller printer is a budget option for home offices.",
+          "translation": "その小型プリンターは、自宅の仕事場向けの低価格な選択肢だ。"
+        }
+      ],
+      "notes": [
+        "budget cuts の budget は「予算」の名詞修飾で、「安い削減」ではない。安価だという叙述では The hotel is inexpensive. が明確。budget は通常、価格帯を分類する限定用法として覚える。low-budget film は製作費が少ない映画で、入場料が安い映画とは限らない。"
+      ],
+      "synonyms": [
+        {
+          "word": "inexpensive",
+          "definition": "値段が高くない。",
+          "frequency": 8,
+          "difference": "品質をけなさず価格を述べやすく、限定・叙述の両方で普通に使う。",
+          "example": "The café serves inexpensive lunches.",
+          "translation": "そのカフェでは、手頃な値段の昼食を出している。"
+        },
+        {
+          "word": "cheap",
+          "definition": "値段が安い。",
+          "frequency": 10,
+          "difference": "日常的で広く使えるが、文脈によっては「安っぽい」という品質評価も伴う。",
+          "example": "We found a cheap flight for Tuesday morning.",
+          "translation": "火曜日の朝の安い航空便が見つかった。"
+        },
+        {
+          "word": "low-cost",
+          "definition": "費用が少なくて済む。",
+          "frequency": 8,
+          "difference": "商品価格に加え、運営費や実施費用にも使う。budget は消費者向けの価格帯表示にも定着している。",
+          "example": "The team proposed a low-cost solution to the storage problem.",
+          "translation": "チームは、保管の問題に対する低コストの解決策を提案した。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "expensive",
+          "definition": "値段や費用が高い。",
+          "frequency": 10,
+          "difference": "価格の高低という同じ軸上の程度的な反対。品質の優劣そのものの対立ではない。",
+          "example": "The hotel is too expensive for our group.",
+          "translation": "そのホテルは、私たちのグループには高すぎる。"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "【名詞：可算】割当量、資源の収支",
+      "frequency": 5,
+      "register": [
+        "時間管理、技術、環境科学。科学上の具体的な計算対象は分野・文脈による。"
+      ],
+      "definition": "ある目的や状況に利用できる時間・エネルギーなどの量、またはそれらの出入りを示す収支。金額の予算を非金銭的な資源に広げた用法。科学では、エネルギー・水・炭素などの総量や流入・流出を整理したものにも使う。",
+      "patterns": [
+        "a time budget＝時間の割当て",
+        "an energy budget＝エネルギーの割当量・収支",
+        "a water budget＝水収支",
+        "a carbon budget＝炭素収支・炭素排出量の枠。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a time budget",
+          "use": "金銭ではなく使用できる時間の枠を述べる。",
+          "example": "The design team has a time budget of three weeks for the prototype.",
+          "translation": "設計チームには、試作品のために3週間という時間枠がある。"
+        },
+        {
+          "pattern": "an energy budget",
+          "use": "装置などが使用できるエネルギーの枠を示す。",
+          "example": "The sensor must operate within a very small energy budget.",
+          "translation": "そのセンサーは、ごく限られたエネルギー量で動作しなければならない。"
+        },
+        {
+          "pattern": "a water budget",
+          "use": "ある範囲への水の流入と流出を整理する。",
+          "example": "Rainfall and evaporation are included in the lake's water budget.",
+          "translation": "その湖の水収支には、降雨と蒸発が含まれる。"
+        },
+        {
+          "pattern": "a carbon budget",
+          "use": "炭素の出入りを収支として扱う。",
+          "example": "The study examines the forest's carbon budget, including uptake and release.",
+          "translation": "その研究は、吸収と放出を含め、その森林の炭素収支を調べている。"
+        }
+      ],
+      "notes": [
+        "energy budget が「電気代の予算」か「使えるエネルギー量」かは文脈で判断する。carbon budget も炭素の収支を指す場合と、一定の目標に対応した排出量の枠を指す場合があり、budget 一語から計算方法や対象期間までは決まらない。"
+      ],
+      "synonyms": [
+        {
+          "word": "allotment",
+          "definition": "特定の相手や目的に割り当てられた量。",
+          "frequency": 5,
+          "difference": "時間などの割当量では重なるが、流入・流出の収支表という意味は持たない。",
+          "example": "Each speaker has an allotment of ten minutes.",
+          "translation": "各発表者には10分が割り当てられている。"
+        },
+        {
+          "word": "balance",
+          "definition": "流入と流出、獲得と喪失などのつり合いや差し引き。",
+          "frequency": 6,
+          "difference": "資源の収支では重なるが、あらかじめ利用を許された時間枠とは異なる。",
+          "example": "The report describes the region's water balance during the dry season.",
+          "translation": "報告書は、乾季におけるその地域の水収支を説明している。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【名詞：通常 the Budget】英国政府の予算発表",
+      "frequency": 5,
+      "register": [
+        "英国英語。政治・経済報道。通常は大文字の Budget を用いる。"
+      ],
+      "definition": "英国政府が、税収や公的支出などの計画を公式に示す予算発表。一般の budget の地域的に定着した用法で、発表内容・予算案も指す。",
+      "patterns": [
+        "the Budget＝英国政府の予算発表",
+        "in the Budget＝その予算発表の中で",
+        "deliver the Budget＝予算演説を行う。"
+      ],
+      "collocations": [
+        {
+          "pattern": "deliver the Budget",
+          "use": "英国政府の予算演説を述べる。",
+          "example": "The Chancellor will deliver the Budget on Wednesday.",
+          "translation": "財務相は、水曜日に予算演説を行う予定だ。"
+        },
+        {
+          "pattern": "in the Budget",
+          "use": "英国の予算発表に含まれる事項を示す。",
+          "example": "The government announced changes to business taxes in the Budget.",
+          "translation": "政府は、予算発表の中で企業への課税の変更を発表した。"
+        }
+      ],
+      "notes": [
+        "一般の企業の予算は a company budget と小文字で書く。the Budget の大文字は、この特定の政府発表を指す慣行。文脈があれば a Budget や successive Budgets のように複数回の発表を数えることもでき、常に単数定冠詞だけに固定されるわけではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}
