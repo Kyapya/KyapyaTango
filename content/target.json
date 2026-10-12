@@ -1,0 +1,652 @@
+{
+  "word": "target",
+  "slug": "target",
+  "ipa": "米: /ˈtɑːr.ɡɪt/｜英: /ˈtɑː.ɡɪt/。2音節で第1音節に強勢。示した米英形の違いは第1音節の母音後の /r/ の有無で、第2音節は共通して /ɡɪt/。名詞と動詞は同じ発音。",
+  "lead": "実現を目指す結果・水準・期限。売上額や件数など測定できる目標によく使うが、数値化や正式な組織目標であることは必須ではない。",
+  "updated": "2026-10-12",
+  "notion_url": "https://app.notion.com/p/target-3f74faa9b77d81ca9f58fae352c63b9d",
+  "pronunciation": [
+    "語尾の -ed は /ɪd/ なので targeted は3音節。targeting も3音節。第2音節の弱い母音を /ə/ で示す辞書もあり、上の表記だけが唯一の変異というわけではない。"
+  ],
+  "etymology": [
+    "中英語に、中期フランス語 targette・targuete「小さな盾」から入った語。これらは targe「軽い盾」の指小形で、さらにゲルマン語系の語につながる。英語 targe「小盾」は同じ語族。現在の target を tar と get に分けて解釈しない。",
+    "盾に関係する古い名詞から、狙いを付ける的、達成や働きかけの目標という意味が発達した。現代語では物理的な的と抽象的な狙いの対応が理解に役立つが、細かな発達年代や経路を語感だけで補わない。"
+  ],
+  "formation": [
+    {
+      "term": "retarget",
+      "description": "対象を改めて定める他動詞。広告では一度接触した利用者などに再び広告を向ける文脈にも使う。"
+    },
+    {
+      "term": "targeted",
+      "description": "対象を絞ったという分詞形容詞。語義7参照。"
+    },
+    {
+      "term": "targeting",
+      "description": "対象を選び、働きかけを向けることを表す不可算名詞としても使う。"
+    },
+    {
+      "term": "on-target",
+      "description": "名詞の前で「的を射た・狙いどおりの」を表す複合形容詞。"
+    },
+    {
+      "term": "off-target",
+      "description": "名詞の前で「的外れの」を表す複合形容詞。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "「行為や意図の狙いが定まる先」が共通核。目標となる結果、働きかけや攻撃の相手、物理的な的、その先を選ぶ行為をつなげて理解できる。"
+    },
+    {
+      "type": "item",
+      "text": "狙いが定まる達成したい結果 → 「達成目標・目標値」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "狙いが定まる働きかけの相手 → 「働きかけの対象」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "狙いが定まる攻撃や批判の相手 → 「攻撃・批判の的」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "狙いが定まる弾や矢の到達点 → 「射撃などの的・標的」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "狙いが定まる先を選ぶ行為 → 「対象に定める・狙いを向ける」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "狙いが定まる攻撃先を選ぶ行為 → 「攻撃対象にする」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "狙いが定まる対象を絞った性質 → 「対象を絞った」（語義7）"
+    },
+    {
+      "type": "item",
+      "text": "狙いが定まる粒子線の照射先 → 「粒子などを照射する標的」（語義8）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算】達成目標・目標値",
+      "frequency": 9,
+      "register": [
+        "一般・ビジネス・行政・学習。"
+      ],
+      "definition": "実現を目指す結果・水準・期限。売上額や件数など測定できる目標によく使うが、数値化や正式な組織目標であることは必須ではない。",
+      "patterns": [
+        "set a target＝目標を設定する",
+        "a target of 〈数値〉＝その数値の目標",
+        "a target for 〈活動・期間〉＝活動・期間についての目標",
+        "meet a target＝目標を達成する",
+        "exceed a target＝目標を上回る",
+        "miss a target＝目標に届かない",
+        "be on target to do＝予定どおりに実現する見込みである",
+        "be off target＝目標から外れている",
+        "a target date for 〈出来事〉＝出来事の目標期日"
+      ],
+      "collocations": [
+        {
+          "pattern": "set a target of 〈数値〉",
+          "use": "達成したい数値を定める。",
+          "example": "The team set a target of 500 registrations.",
+          "translation": "チームは登録500件という目標を設定した。"
+        },
+        {
+          "pattern": "meet a sales target",
+          "use": "売上目標を達成する。",
+          "example": "Both branches met their sales targets in June.",
+          "translation": "両支店とも6月に売上目標を達成した。"
+        },
+        {
+          "pattern": "exceed a target",
+          "use": "設定した水準を上回る。",
+          "example": "Donations exceeded our target by 20 percent.",
+          "translation": "寄付額は目標を20パーセント上回った。"
+        },
+        {
+          "pattern": "miss a target",
+          "use": "目標の水準や期限に届かない。",
+          "example": "We missed our production target for the week.",
+          "translation": "私たちはその週の生産目標を達成できなかった。"
+        },
+        {
+          "pattern": "be on target to do",
+          "use": "予定どおりの達成が見込まれる。",
+          "example": "The new library is on target to open in April.",
+          "translation": "新しい図書館は予定どおり4月に開館する見込みだ。"
+        },
+        {
+          "pattern": "be off target",
+          "use": "実績などが目標からずれている。",
+          "example": "This month’s figures are well off target.",
+          "translation": "今月の数値は目標から大きく外れている。"
+        },
+        {
+          "pattern": "a target date for 〈出来事〉",
+          "use": "実現したい期日を示す。",
+          "example": "We agreed on a target date for the move.",
+          "translation": "私たちは移転の目標期日について合意した。"
+        }
+      ],
+      "notes": [
+        "通常は a target、the target、targets のように使う。on target、off target、above target、below target では冠詞なしが定着している。on target to do は進捗の見込みであり、すでに達成したという意味ではない。hit・reach・achieve a target も「目標を達成する」。a target of 500 は目標値、a target for June は対象期間を示す。target date は確定した締切を必ず意味するわけではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "goal",
+          "definition": "達成しようとする目標。",
+          "frequency": 9,
+          "difference": "人生や活動の方向性も広く表す。target は具体的な水準・期日を示す傾向が強いが、長期と短期で機械的には分かれない。",
+          "example": "Her goal is to become a translator.",
+          "translation": "彼女の目標は翻訳者になることだ。"
+        },
+        {
+          "word": "objective",
+          "definition": "活動や計画で達成を目指す目的・目標。",
+          "frequency": 8,
+          "difference": "target より改まった響きがあり、計画の目的として述べやすい。必ず数値目標とは限らない。",
+          "example": "The main objective is to reduce waste.",
+          "translation": "主な目的は廃棄物を減らすことだ。"
+        },
+        {
+          "word": "aim",
+          "definition": "行動によって実現したい目的。",
+          "frequency": 9,
+          "difference": "何のために行うかという意図に焦点を置く。target は達成判定の目安として使いやすい。",
+          "example": "The aim of the workshop is to improve listening skills.",
+          "translation": "その講習会の目的は聞き取りの力を伸ばすことだ。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算】働きかけの対象",
+      "frequency": 8,
+      "register": [
+        "一般・マーケティング・研究・企業活動。"
+      ],
+      "definition": "広告・支援・研究・買収などの働きかけが向けられる人・集団・物。対象に選ばれていることを表し、実際に影響を受けた、購入した、買収されたという結果までは含まない。",
+      "patterns": [
+        "a target for 〈働きかけ〉＝働きかけの対象",
+        "the target of 〈施策・研究〉＝施策・研究の対象",
+        "a target audience＝想定する視聴者・読者層",
+        "a target market＝狙う市場・顧客層",
+        "a takeover target＝買収対象"
+      ],
+      "collocations": [
+        {
+          "pattern": "a target audience",
+          "use": "情報や作品を届けたい相手を示す。",
+          "example": "The guide’s target audience is first-time visitors.",
+          "translation": "そのガイドの想定読者は初めて訪れる人たちだ。"
+        },
+        {
+          "pattern": "a target market",
+          "use": "商品やサービスを売り込む市場を示す。",
+          "example": "Small businesses are the target market for this software.",
+          "translation": "このソフトウェアが狙う市場は小規模事業者だ。"
+        },
+        {
+          "pattern": "a target for 〈支援・投資〉",
+          "use": "働きかけの候補・対象を示す。",
+          "example": "These neighborhoods are a priority target for investment.",
+          "translation": "これらの地区は投資の優先対象だ。"
+        },
+        {
+          "pattern": "a takeover target",
+          "use": "買収が検討される企業を指す。",
+          "example": "The software company has become an attractive takeover target.",
+          "translation": "そのソフトウェア会社は魅力的な買収対象になっている。"
+        }
+      ],
+      "notes": [
+        "target audience・target market の target は名詞の前で対象を限定する用法。a target company は対象企業であり、子会社になったことを意味しない。target の後の for は働きかけや目的を、of は実際の施策・行為との関係を示すことが多い。生物・医療の target cell「標的細胞」や target organ「標的器官」も作用の対象という考え方で理解できる。"
+      ],
+      "synonyms": [
+        {
+          "word": "focus",
+          "definition": "注意や活動が集中する対象。",
+          "frequency": 8,
+          "difference": "選び出して働きかける target に対し、関心・活動の中心であることに重点がある。",
+          "example": "Customer safety is the focus of the review.",
+          "translation": "顧客の安全がその見直しの中心課題だ。"
+        },
+        {
+          "word": "recipient",
+          "definition": "何かを受け取る人・組織。",
+          "frequency": 7,
+          "difference": "target は働きかけの予定先でもよいが、recipient は受け手という役割を示す。攻撃目標や売上目標には置き換えられない。",
+          "example": "Each grant recipient must submit a report.",
+          "translation": "助成金を受け取る各団体は報告書を提出しなければならない。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算】攻撃・批判の的",
+      "frequency": 8,
+      "register": [
+        "一般・報道・犯罪・軍事。"
+      ],
+      "definition": "攻撃・嫌がらせ・批判・嘲笑などを向けられる、または狙われる人・物・場所。実際に被害が生じた場合にも、狙われている段階にも使う。",
+      "patterns": [
+        "the target of 〈批判・攻撃〉＝批判・攻撃の的",
+        "a target for 〈攻撃者・攻撃〉＝攻撃者・攻撃に狙われる対象",
+        "an easy target＝狙いやすい相手",
+        "a soft target＝防御の手薄な標的",
+        "a military target＝軍事上の攻撃目標"
+      ],
+      "collocations": [
+        {
+          "pattern": "the target of criticism",
+          "use": "批判を受ける対象を述べる。",
+          "example": "The plan became the target of intense criticism.",
+          "translation": "その計画は激しい批判の的になった。"
+        },
+        {
+          "pattern": "an easy target for 〈攻撃者〉",
+          "use": "容易に狙われる人・物を示す。",
+          "example": "Unattended bags are an easy target for thieves.",
+          "translation": "放置されたバッグは窃盗犯に狙われやすい。"
+        },
+        {
+          "pattern": "a soft target",
+          "use": "攻撃から守りにくい対象を示す。",
+          "example": "The report warned that unguarded sites were soft targets.",
+          "translation": "報告書は、警備のない場所は攻撃を受けやすい標的だと警告した。"
+        },
+        {
+          "pattern": "a military target",
+          "use": "軍事的に攻撃を向ける対象を示す。",
+          "example": "The bridge was identified as a military target.",
+          "translation": "その橋は軍事上の攻撃目標と特定された。"
+        }
+      ],
+      "notes": [
+        "a target of criticism も a target for criticism も可能。of は受ける批判との関係、for は批判が向く対象という面を示す。easy・soft は人の性格が優しいという意味ではない。victim は実際に被害を受けた人を指すのが基本だが、target は攻撃の選択段階にも使える。"
+      ],
+      "synonyms": [
+        {
+          "word": "victim",
+          "definition": "犯罪・攻撃などの被害を受けた人。",
+          "frequency": 9,
+          "difference": "target が狙われる側を示すのに対し、victim は被害を受けた側という結果に焦点がある。",
+          "example": "The victims of the scam received advice from the police.",
+          "translation": "詐欺の被害者たちは警察から助言を受けた。"
+        },
+        {
+          "word": "butt",
+          "definition": "冗談・嘲笑の的となる人や物。",
+          "frequency": 5,
+          "difference": "主に the butt of jokes の形。target より対象となる行為が嘲笑に限定される。",
+          "example": "He disliked being the butt of their jokes.",
+          "translation": "彼は彼らの冗談の的になるのが嫌だった。"
+        },
+        {
+          "word": "prey",
+          "definition": "犯罪者などに狙われる、弱い立場の相手。",
+          "frequency": 6,
+          "difference": "動物の獲物からの比喩で、狙う側と狙われる側の力の差を強く感じさせる。",
+          "example": "Inexperienced buyers can be easy prey for fraudsters.",
+          "translation": "経験の浅い買い手は詐欺師の格好の餌食になりかねない。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・可算】射撃などの的・標的",
+      "frequency": 7,
+      "register": [
+        "射撃・弓・競技・一般。"
+      ],
+      "definition": "弾・矢などを命中させようとする物や目印。練習用の的は典型例だが、同心円の付いた板に限らず、狙いを定める物にも使う。",
+      "patterns": [
+        "aim at a target＝的を狙う",
+        "hit the target＝的に当てる",
+        "miss the target＝的を外す",
+        "target practice＝射撃などで的を狙う練習",
+        "be on target＝狙いどおりである",
+        "be off target＝狙いから外れている"
+      ],
+      "collocations": [
+        {
+          "pattern": "aim at a target",
+          "use": "的へ狙いを定める。",
+          "example": "The archer aimed at the target and held her breath.",
+          "translation": "その弓の選手は的を狙い、息を止めた。"
+        },
+        {
+          "pattern": "hit the target",
+          "use": "的に命中させる。",
+          "example": "Only one arrow hit the target.",
+          "translation": "的に当たった矢は1本だけだった。"
+        },
+        {
+          "pattern": "miss the target",
+          "use": "的に命中しない。",
+          "example": "His final shot missed the target.",
+          "translation": "彼の最後の一射は的を外れた。"
+        },
+        {
+          "pattern": "target practice",
+          "use": "的を使う練習を述べる。",
+          "example": "The club holds target practice on Saturdays.",
+          "translation": "そのクラブは土曜日に射撃練習を行っている。"
+        },
+        {
+          "pattern": "be on target",
+          "use": "狙いどおりに届くことを述べる。",
+          "example": "Her first shot was on target.",
+          "translation": "彼女の最初の一射は狙いどおりだった。"
+        }
+      ],
+      "notes": [
+        "hit a target は物理的な命中にも語義1の目標達成にもなる。on target・off target は比喩的に、発言や見積もりが的確かどうかにも使う。Your estimate was right on target. は「あなたの見積もりはまさに的確だった」。射撃目標について aim at the target と言い、的そのものが射撃するわけではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "bullseye",
+          "definition": "的の中心、または中心への命中。",
+          "frequency": 5,
+          "difference": "target は的全体。bullseye に当たれば的に当たっているが、的に当たれば必ず中心への命中とは限らない。",
+          "example": "Her arrow landed just outside the bullseye.",
+          "translation": "彼女の矢は的の中心部のすぐ外側に当たった。"
+        },
+        {
+          "word": "mark",
+          "definition": "狙いを付けて当てようとする的・目標。",
+          "frequency": 6,
+          "difference": "hit the mark・miss the mark などで使う。target より固定表現で現れやすく、一般には「印」の意味も広い。",
+          "example": "The first arrow missed its mark.",
+          "translation": "最初の矢は狙った的を外れた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【動詞・他動詞】対象に定める・狙いを向ける",
+      "frequency": 9,
+      "register": [
+        "一般・ビジネス・行政・研究。"
+      ],
+      "definition": "人・集団・物・結果を選び、行動や資源の狙いをそこに定める。広告の相手、支援の受け手、達成したい水準などが対象になる。狙いを定めること自体は成功や達成を保証しない。",
+      "patterns": [
+        "target someone＝人を働きかけの対象にする",
+        "target 〈市場・課題〉＝市場・課題に狙いを定める",
+        "target something at someone＝物・施策を人に向ける",
+        "target something on 〈集団〉＝物・施策を集団に重点的に向ける",
+        "target someone for 〈処遇〉＝人を処遇の対象に選ぶ",
+        "target something as 〈位置付け〉＝物をその位置付けの対象に定める",
+        "target 〈数値目標〉＝数値目標を目指す",
+        "be targeted at 〈対象〉＝対象に向けられる"
+      ],
+      "collocations": [
+        {
+          "pattern": "target 〈顧客層・市場〉",
+          "use": "働きかける相手を直接目的語にする。",
+          "example": "The campaign targets people who work from home.",
+          "translation": "そのキャンペーンは在宅で働く人たちを対象にしている。"
+        },
+        {
+          "pattern": "target something at someone",
+          "use": "向けるものを目的語、相手を at の後に置く。",
+          "example": "We targeted the ads at local business owners.",
+          "translation": "私たちは広告の対象を地元の事業主に絞った。"
+        },
+        {
+          "pattern": "target something on 〈集団〉",
+          "use": "支援などを特定の相手に重点配分する。",
+          "example": "The council targeted financial support on households in need.",
+          "translation": "自治体は困窮している世帯に財政支援を重点的に向けた。"
+        },
+        {
+          "pattern": "target someone for 〈処遇〉",
+          "use": "特定の支援・昇進などの対象に選ぶ。",
+          "example": "The firm targeted experienced technicians for recruitment.",
+          "translation": "その会社は経験のある技術者を採用対象に定めた。"
+        },
+        {
+          "pattern": "target something as a priority",
+          "use": "優先的に扱う対象と定める。",
+          "example": "The agency targeted water conservation as a priority.",
+          "translation": "その機関は節水を優先課題に定めた。"
+        },
+        {
+          "pattern": "target 〈数値目標〉",
+          "use": "目指す水準を直接示す。",
+          "example": "The company is targeting annual growth of five percent.",
+          "translation": "その会社は年率5パーセントの成長を目指している。"
+        },
+        {
+          "pattern": "be targeted at 〈対象〉",
+          "use": "受動態で情報や製品の対象を述べる。",
+          "example": "The course is targeted at new managers.",
+          "translation": "その講座は新任の管理職を対象にしている。"
+        }
+      ],
+      "notes": [
+        "target customers「顧客を対象にする」と target ads at customers「広告を顧客に向ける」では目的語が異なる。誤って target at customers だけで他動詞の目的語を省かず、target customers または target the campaign at customers とする。at 以外に on、towards、to を用いる形もあり、target help on people in need のように支援先を示せる。for は処遇・選定目的を示し、理由を述べる for their actions とは区別する。targeted・targeting は通常 t を重ねない。"
+      ],
+      "synonyms": [
+        {
+          "word": "aim",
+          "definition": "行為や物を一定の相手・方向へ向ける。",
+          "frequency": 9,
+          "difference": "aim a message at someone が対応する。target は対象を選び絞ることを強く示し、aim は方向や意図を広く表す。",
+          "example": "The message was aimed at regular passengers.",
+          "translation": "そのメッセージは普段から利用する乗客に向けられていた。"
+        },
+        {
+          "word": "direct",
+          "definition": "活動・注意・資源などを相手や方向へ向ける。",
+          "frequency": 8,
+          "difference": "direct resources towards a problem のように配分先に重点がある。target のように対象選定を前面に出すとは限らない。",
+          "example": "They directed more resources towards staff training.",
+          "translation": "彼らは職員研修にさらに多くの資源を向けた。"
+        },
+        {
+          "word": "focus",
+          "definition": "注意・努力などを特定の対象に集中する。",
+          "frequency": 9,
+          "difference": "focus on something は自動詞の形で対象を on の後に置く。target something と構造を混同しない。",
+          "example": "The study focuses on transport costs.",
+          "translation": "その研究は輸送費に焦点を当てている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【動詞・他動詞】攻撃対象にする",
+      "frequency": 8,
+      "register": [
+        "一般・報道・犯罪・軍事。"
+      ],
+      "definition": "特定の人・場所・物を攻撃・批判・犯罪などの標的として狙う。批判や兵器を目的語にして、その矛先・照準を at で示すこともできる。",
+      "patterns": [
+        "target someone＝人を攻撃対象にする",
+        "target 〈場所・施設〉＝場所・施設を攻撃目標にする",
+        "target criticism at someone＝批判を人に向ける",
+        "target 〈兵器〉 at 〈場所〉＝兵器の照準を場所に向ける",
+        "〈兵器〉 + be targeted at 〈場所〉＝兵器の照準が場所に向けられる",
+        "be targeted by 〈攻撃者〉＝攻撃者に狙われる",
+        "be targeted for 〈理由〉＝理由によって狙われる"
+      ],
+      "collocations": [
+        {
+          "pattern": "target someone",
+          "use": "特定の人を攻撃・犯罪の相手に選ぶ。",
+          "example": "The scammers targeted people living alone.",
+          "translation": "詐欺師たちは一人で暮らす人たちを狙った。"
+        },
+        {
+          "pattern": "target 〈施設〉",
+          "use": "物理的な攻撃目標を示す。",
+          "example": "The attackers targeted the power station.",
+          "translation": "攻撃者たちはその発電所を標的にした。"
+        },
+        {
+          "pattern": "target criticism at someone",
+          "use": "批判の内容と矛先を分けて示す。",
+          "example": "The editorial targeted its criticism at the mayor.",
+          "translation": "その社説は批判の矛先を市長に向けた。"
+        },
+        {
+          "pattern": "target 〈兵器〉 at 〈場所〉",
+          "use": "兵器を目的語、照準の先を at の後に置く。",
+          "example": "The unit targeted its missiles at the military base.",
+          "translation": "その部隊はミサイルの照準をその軍事基地に向けた。"
+        },
+        {
+          "pattern": "be targeted at 〈場所〉",
+          "use": "兵器を主語にし、受動態で照準の先を示す。",
+          "example": "The missiles were targeted at a military base.",
+          "translation": "ミサイルの照準はある軍事基地に向けられていた。"
+        },
+        {
+          "pattern": "be targeted by 〈攻撃者〉",
+          "use": "誰に狙われたかを示す。",
+          "example": "Several shops were targeted by vandals.",
+          "translation": "数軒の店が破壊行為をする者たちに狙われた。"
+        },
+        {
+          "pattern": "be targeted for 〈理由〉",
+          "use": "攻撃を受ける理由を示す。",
+          "example": "She was targeted for her criticism of the policy.",
+          "translation": "彼女はその政策を批判したために攻撃の標的にされた。"
+        }
+      ],
+      "notes": [
+        "target the base は「基地を標的にする」で目的語が攻撃対象、target missiles at the base は「ミサイルの照準を基地に向ける」で目的語が兵器。照準を向けたというだけでは発射したことまでは言わない。狙った結果として損害が出たことまでは言わない。The attackers targeted the bridge, but caused no damage. のように続けられる。target someone for criticism は「批判の対象に選ぶ」、target someone for criticizing the policy は「政策を批判したことを理由に狙う」で、for 以下の役割が異なる。広告対象にする語義5とは、周囲の行為・意図を見て区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "attack",
+          "definition": "人・物に暴力や強い批判を加える。",
+          "frequency": 9,
+          "difference": "target は標的として選ぶことに焦点があり、attack は攻撃行為そのものを示す。",
+          "example": "The article attacked the decision to close the hospital.",
+          "translation": "その記事は病院を閉鎖する決定を強く批判した。"
+        },
+        {
+          "word": "single out",
+          "definition": "集団から特定の人・物だけを選び出す。",
+          "frequency": 7,
+          "difference": "single someone out for criticism なら批判対象の選定に近い。選ぶ目的は称賛でもよく、攻撃の意味自体は必須ではない。",
+          "example": "The report singled out one department for criticism.",
+          "translation": "その報告書は一つの部門を特に取り上げて批判した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【形容詞・主に限定用法・targeted】対象を絞った",
+      "frequency": 7,
+      "register": [
+        "ビジネス・政策・研究・医療。"
+      ],
+      "definition": "特定の人・集団・問題などに働きかけるよう、狙いを絞って設計された。targeted assistance、targeted advertising のように施策や活動を修飾し、単に攻撃を受けたという受動とは区別する。",
+      "patterns": [
+        "targeted advertising＝対象を絞った広告",
+        "targeted support＝対象を絞った支援",
+        "a targeted approach＝対象を絞った取り組み",
+        "more targeted measures＝さらに対象を絞った対策"
+      ],
+      "collocations": [
+        {
+          "pattern": "targeted advertising",
+          "use": "対象層を選んだ広告を表す。",
+          "example": "The retailer uses targeted advertising to reach cyclists.",
+          "translation": "その小売業者は自転車利用者に訴求するため、対象を絞った広告を利用している。"
+        },
+        {
+          "pattern": "targeted support",
+          "use": "対象や必要性に応じた重点支援を表す。",
+          "example": "The scheme provides targeted support for small farms.",
+          "translation": "その制度は小規模農場に対象を絞った支援を提供する。"
+        },
+        {
+          "pattern": "a targeted approach",
+          "use": "範囲を絞った対処方法を示す。",
+          "example": "A targeted approach may be more effective than a general campaign.",
+          "translation": "対象を絞った取り組みは、広く一般に向けたキャンペーンより効果的かもしれない。"
+        },
+        {
+          "pattern": "more targeted measures",
+          "use": "対象の絞り方を比較する。",
+          "example": "The council called for more targeted measures to reduce waste.",
+          "translation": "自治体は廃棄物削減に向け、さらに対象を絞った対策を求めた。"
+        }
+      ],
+      "notes": [
+        "targeted は過去分詞に由来する形容詞。主に名詞の前に置き、more targeted のように対象を絞る程度を比較できる。The campaign is targeted at students. は語義5の受動構文としても理解できる。She was targeted by thieves. は語義6の受動で、本人が「対象を絞った」という意味ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "focused",
+          "definition": "対象・目的を絞って集中した。",
+          "frequency": 8,
+          "difference": "注意や活動の集中に重点を置く。targeted は誰・何に働きかけるかの選定を明確にする。",
+          "example": "We need a focused discussion of the main problem.",
+          "translation": "主要な問題について焦点を絞った議論が必要だ。"
+        },
+        {
+          "word": "selective",
+          "definition": "一定の対象を選んで適用する。",
+          "frequency": 7,
+          "difference": "選別する性質に重点を置き、targeted のように具体的な働きかけの目的までは示さない。",
+          "example": "The service offers selective access to archived material.",
+          "translation": "そのサービスでは、保存資料の一部を選んで閲覧できる。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【名詞・可算・物理学】粒子などを照射する標的",
+      "frequency": 4,
+      "register": [
+        "物理学・実験装置。"
+      ],
+      "definition": "電子・イオンなどの粒子線を当てる物質や表面。X線管で電子を衝突させる金属面や、粒子実験で照射する試料などを指す。射撃の標的から専門的に広がった用法。",
+      "patterns": [
+        "a metal target＝金属製の標的",
+        "a target material＝標的として用いる材料",
+        "direct a beam at a target＝標的にビームを向ける"
+      ],
+      "collocations": [
+        {
+          "pattern": "a metal target",
+          "use": "粒子線を当てる金属を示す。",
+          "example": "The electron beam strikes a metal target inside the X-ray tube.",
+          "translation": "電子ビームはX線管内の金属製の標的に衝突する。"
+        },
+        {
+          "pattern": "a target material",
+          "use": "実験で照射される物質を示す。",
+          "example": "The researchers selected carbon as the target material for the ion beam.",
+          "translation": "研究者たちはイオンビームの標的材料として炭素を選んだ。"
+        }
+      ],
+      "notes": [
+        "医療の target organ「標的器官」は作用先という語義2であり、粒子線を照射する物体を意味するとは限らない。科学文書の target を常に「目標値」と訳さず、照射される物質か達成水準かを確認する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "word": "consumer",
+  "slug": "consumer",
+  "ipa": "米: /kənˈsuː.mɚ/｜英: /kənˈsjuː.mə/。3音節で第2音節に強勢。示した形では、第2音節の /s/ の後に英語は /j/ があり、米語はない。第3音節の母音は米語が r の響きを含む /ɚ/、英語が /ə/。",
+  "lead": "商品・サービスを自分たちの使用のために購入したり利用したりする人・組織。売買の当事者という面だけでなく、需要・利用・権利などの面から捉える。一般消費者個人を指すことが多いが、語そのものを常に個人だけに限定しない。",
+  "updated": "2026-10-12",
+  "notion_url": "https://app.notion.com/p/consumer-3f74faa9b77d81d69401c78701a1f329",
+  "pronunciation": [
+    "英語で次の語が母音で始まると、語末の r が連結して発音されることがある。地域・話者による変異もあるため、/j/ の有無をすべての米英話者に一律に当てはめない。consumers は語尾に /z/ が付き、3音節のまま。"
+  ],
+  "etymology": [
+    "consume「消費する・使い尽くす」に、行為者を表す -er が付いた語。consume は中英語期にフランス語またはラテン語から入り、ラテン語 consumere「使い尽くす」にさかのぼる。その sumere「取る」は assume「引き受ける・仮定する」、presume「推定する」などにも共有される。",
+    "「消費・使用する側」という関係は現在の語義に残るが、consumer が使うたびに対象を完全に使い尽くすわけではない。現代の consumer をラテン語からそのまま借用した一語として扱わず、英語の consume と -er の形成を区別する。"
+  ],
+  "formation": [
+    {
+      "term": "consume",
+      "description": "商品・資源などを消費する他動詞。飲食する、火が焼き尽くす、感情が心を占めるなどの意味もある。"
+    },
+    {
+      "term": "consumption",
+      "description": "消費・使用、または消費量を表す名詞。consumer から直接 -tion を付けた語ではなく、consume と同じ語族。"
+    },
+    {
+      "term": "consumerism",
+      "description": "消費を重視する考え方や傾向。また、消費者の利益を守る活動・考え方を指す用法もある。"
+    },
+    {
+      "term": "consumerist",
+      "description": "消費主義の、という形容詞。また、その立場の人を指す名詞。"
+    },
+    {
+      "term": "consumer-facing",
+      "description": "一般消費者と直接接する、または消費者向けの、という複合形容詞。"
+    },
+    {
+      "term": "direct-to-consumer",
+      "description": "仲介業者を介さず消費者に直接販売する、という複合形容詞。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "「物・サービス・資源を取り入れ、利用する側」が共通核。市場では商品・サービス、資源利用では電力や情報、生態系では食物との関係に具体化する。"
+    },
+    {
+      "type": "item",
+      "text": "取り入れて利用する商品やサービスの受け手 → 「消費者」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "取り入れて利用する資源や情報の使い手 → 「資源・情報などを使うもの」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "取り入れて利用する有機物の食べ手 → 「消費者」（語義3）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算】消費者",
+      "frequency": 9,
+      "register": [
+        "一般・経済・ビジネス・消費者問題。"
+      ],
+      "definition": "商品・サービスを自分たちの使用のために購入したり利用したりする人・組織。売買の当事者という面だけでなく、需要・利用・権利などの面から捉える。一般消費者個人を指すことが多いが、語そのものを常に個人だけに限定しない。",
+      "patterns": [
+        "a consumer of 〈商品・サービス〉＝商品・サービスの消費者",
+        "the average consumer＝一般的な消費者",
+        "consumer demand＝消費者需要",
+        "consumer spending＝消費支出",
+        "consumer rights＝消費者の権利",
+        "consumer goods＝消費財",
+        "protect consumers from 〈危険〉＝危険から消費者を守る"
+      ],
+      "collocations": [
+        {
+          "pattern": "the average consumer",
+          "use": "一般的な利用者・購入者を基準にする。",
+          "example": "The instructions are too technical for the average consumer.",
+          "translation": "その説明書は一般の消費者には専門的すぎる。"
+        },
+        {
+          "pattern": "a consumer of 〈サービス〉",
+          "use": "利用するサービスを明示する。",
+          "example": "Consumers of public transport want reliable information.",
+          "translation": "公共交通の利用者は信頼できる情報を求めている。"
+        },
+        {
+          "pattern": "consumer demand",
+          "use": "消費者による需要を示す。",
+          "example": "Consumer demand for reusable containers is growing.",
+          "translation": "再利用できる容器に対する消費者需要が高まっている。"
+        },
+        {
+          "pattern": "consumer spending",
+          "use": "消費者の支出全体を述べる。",
+          "example": "Consumer spending rose slightly last quarter.",
+          "translation": "前四半期の消費支出はわずかに増加した。"
+        },
+        {
+          "pattern": "consumer rights",
+          "use": "消費者としての権利を示す。",
+          "example": "The organization publishes guides to consumer rights.",
+          "translation": "その団体は消費者の権利に関するガイドを発行している。"
+        },
+        {
+          "pattern": "consumer goods",
+          "use": "最終的な使用のために買われる製品を示す。",
+          "example": "The factory produces household consumer goods.",
+          "translation": "その工場は家庭向けの消費財を製造している。"
+        },
+        {
+          "pattern": "protect consumers from 〈危険〉",
+          "use": "消費者保護の対象となる危険を示す。",
+          "example": "Clear labels help protect consumers from misleading claims.",
+          "translation": "分かりやすい表示は、誤解を招く宣伝文句から消費者を守るのに役立つ。"
+        }
+      ],
+      "notes": [
+        "可算名詞なので一般論は Consumers need clear information. のように複数形が自然。the consumer は消費者全体を代表させる単数形。consumer demand・consumer goods では名詞 consumer を通常単数形のまま前置する。customer は特定の店・企業との取引関係、consumer は購入物・サービスを使う側という面が中心。自分で支払わず利用する場合にも consumer と呼べる。法律上の consumer の範囲は制度ごとに異なり、この一般語の説明だけで決まらない。producer・supplier は供給する側の対照表現であり、同じ人や会社が消費者にも生産者にもなれる。"
+      ],
+      "synonyms": [
+        {
+          "word": "customer",
+          "definition": "店・企業などから商品を買う、またはサービスを利用する客。",
+          "frequency": 10,
+          "difference": "特定の提供者との関係を示す。consumer は経済全体や使用する側の立場から述べやすい。",
+          "example": "The café offered regular customers a discount.",
+          "translation": "そのカフェは常連客に割引を提供した。"
+        },
+        {
+          "word": "buyer",
+          "definition": "商品などを買う人・組織。",
+          "frequency": 9,
+          "difference": "購入行為に重点を置き、再販売のために仕入れる人にも使う。consumer は通常、自分たちが使用する側を指す。",
+          "example": "The buyer asked for a receipt.",
+          "translation": "買い手は領収書を求めた。"
+        },
+        {
+          "word": "end user",
+          "definition": "製品・サービスを最終的に実際に使う人。",
+          "frequency": 7,
+          "difference": "流通・開発の視点で最終利用者を明示する。購入者と実際の利用者を区別したい場合に特に適する。",
+          "example": "The designers interviewed end users of the software.",
+          "translation": "設計者たちはそのソフトウェアの最終利用者に聞き取りを行った。"
+        },
+        {
+          "word": "purchaser",
+          "definition": "代金を払って購入する人・組織。",
+          "frequency": 7,
+          "difference": "buyer より改まった語で契約・取引の文章に多い。利用者であることまでは含まない。",
+          "example": "The purchaser is responsible for arranging delivery.",
+          "translation": "購入者が配送の手配を担当する。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算】資源・情報などを使うもの",
+      "frequency": 7,
+      "register": [
+        "一般・資源・産業・情報利用。"
+      ],
+      "definition": "燃料・電力・食料・情報などを消費・利用する人・組織・国・装置など。実際の使用に焦点があり、購入や支払いを必ずしも伴わない。",
+      "patterns": [
+        "a consumer of 〈資源・情報〉＝資源・情報を使うもの",
+        "a major consumer of 〈資源〉＝資源の主要な消費主体",
+        "a heavy consumer of 〈資源〉＝資源を大量に使うもの",
+        "an energy consumer＝エネルギーを消費するもの",
+        "industrial consumers＝産業部門の利用者"
+      ],
+      "collocations": [
+        {
+          "pattern": "a major consumer of 〈資源〉",
+          "use": "多くの資源を使う産業・国などを述べる。",
+          "example": "The steel industry is a major consumer of energy.",
+          "translation": "鉄鋼業はエネルギーの主要な消費部門だ。"
+        },
+        {
+          "pattern": "a heavy consumer of 〈資源〉",
+          "use": "使用量が多いものを示す。",
+          "example": "This old cooling system is a heavy consumer of electricity.",
+          "translation": "この古い冷却設備は大量の電力を消費する。"
+        },
+        {
+          "pattern": "a consumer of news",
+          "use": "報道に接する人を情報利用の面から述べる。",
+          "example": "Consumers of news should check the source of a claim.",
+          "translation": "ニュースを受け取る人は主張の情報源を確認すべきだ。"
+        },
+        {
+          "pattern": "industrial consumers",
+          "use": "産業上の用途で資源を使う事業者を示す。",
+          "example": "The water company supplies both households and industrial consumers.",
+          "translation": "その水道会社は一般家庭と産業用の利用者の両方に水を供給している。"
+        }
+      ],
+      "notes": [
+        "何を使うかは通常 of で導く。誤って a consumer for energy とせず、a consumer of energy とする。of の後は電力のような不可算名詞にも、goods のような複数名詞にもなる。heavy はここでは体重でなく消費量が多いこと。consumer of information は情報を受け取る立場を表し、内容に同意することや受動的に信じることまでは意味しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "user",
+          "definition": "物・サービス・資源などを使う人・組織。",
+          "frequency": 9,
+          "difference": "consumer より「使う」こと全般に広く、資源を消費する量や経済上の役割に重点がない。",
+          "example": "Large water users were asked to reduce demand.",
+          "translation": "水を大量に使う利用者は使用量を減らすよう求められた。"
+        },
+        {
+          "word": "reader",
+          "definition": "文章や情報を読む人。",
+          "frequency": 9,
+          "difference": "ニュースなどを利用する consumer に近いが、読むという方法に限定する。音声の視聴者などを自動的には含めない。",
+          "example": "Readers can compare the two reports online.",
+          "translation": "読者は二つの報告書をオンラインで比較できる。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算・生態学】消費者",
+      "frequency": 5,
+      "register": [
+        "生態学・生物教育。"
+      ],
+      "definition": "生態系で、他の生物や有機物を食物として取り込み、そこから必要な物質・エネルギーを得る生物。植物を食べる動物も、動物を食べる動物も含み、肉食動物だけを意味しない。",
+      "patterns": [
+        "a primary consumer＝一次消費者",
+        "a secondary consumer＝二次消費者",
+        "a tertiary consumer＝三次消費者",
+        "consumers in a food chain＝食物連鎖における消費者"
+      ],
+      "collocations": [
+        {
+          "pattern": "a primary consumer",
+          "use": "生産者を食べる段階の生物を示す。",
+          "example": "A rabbit eating grass acts as a primary consumer.",
+          "translation": "草を食べるウサギは一次消費者として働く。"
+        },
+        {
+          "pattern": "a secondary consumer",
+          "use": "一次消費者を食べる生物を示す。",
+          "example": "In this food chain, the frog that eats grasshoppers is a secondary consumer.",
+          "translation": "この食物連鎖では、バッタを食べるカエルは二次消費者である。"
+        },
+        {
+          "pattern": "a tertiary consumer",
+          "use": "二次消費者を食べる段階を示す。",
+          "example": "In the chain grass, grasshopper, frog, snake, the snake is a tertiary consumer.",
+          "translation": "草、バッタ、カエル、ヘビという連鎖では、ヘビは三次消費者である。"
+        },
+        {
+          "pattern": "consumers in a food chain",
+          "use": "生物の栄養上の役割を説明する。",
+          "example": "Consumers in a food chain depend directly or indirectly on producers.",
+          "translation": "食物連鎖の消費者は、生産者に直接または間接的に依存している。"
+        }
+      ],
+      "notes": [
+        "primary・secondary などは食物連鎖上の栄養段階を示し、体の大きさや賢さの順ではない。同じ雑食動物でも、何を食べるかによって異なる段階に位置し得る。producer「生産者」は無機物から有機物を作る側との対照表現。分解者を消費者と別の区分にする説明もあるため、教材の分類方法を確認する。"
+      ],
+      "synonyms": [
+        {
+          "word": "heterotroph",
+          "definition": "他の生物が作った有機物を栄養源とする従属栄養生物。",
+          "frequency": 3,
+          "difference": "栄養獲得の仕組みによる専門分類。consumer に近いが、分解者なども含む広い意味で用いられ、教材の消費者区分と常に一対一ではない。",
+          "example": "Animals and fungi are heterotrophs.",
+          "translation": "動物と菌類は従属栄養生物である。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
