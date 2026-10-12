@@ -1,0 +1,514 @@
+{
+  "word": "reservation",
+  "slug": "reservation",
+  "ipa": "米: /ˌrezərˈveɪʃən/｜英: /ˌrezəˈveɪʃən/。4音節で、第3音節に主強勢、第1音節に第二強勢。ここに示した米英差は、第2音節末の /r/ を米では発音し、英では発音しない点。第3音節は /veɪ/、第4音節は /ʃən/。reserve の末尾の /v/ は reservation では強勢のある /veɪ/ の一部になる。",
+  "lead": "席・部屋・車などを、指定した人や日時の利用のために前もって確保する取り決め。また、その記録や確認。予約があることは、必ずしも支払済み・変更不可・取消不可であることを意味しない。",
+  "updated": "2026-10-12",
+  "notion_url": "https://app.notion.com/p/reservation-3f74faa9b77d81b0beb0dacc890b1a2c",
+  "pronunciation": [],
+  "etymology": [
+    "フランス語 reservation やラテン語 reservatio にさかのぼり、基になる reservare は「取っておく、保留する」。re- と servare「保つ」に関係する。reserve「予約する、取っておく」と直接つながり、preserve「保存する」、conserve「保全する」も servare を共有する。席・土地・権利を取り分けることと、全面的な同意を差し控えることに結びつく。"
+  ],
+  "formation": [
+    {
+      "term": "reserve",
+      "description": "動詞「予約する、確保する、留保する」、名詞「蓄え、予備、慎み」など。reservation の全用法と一対一には対応しない。"
+    },
+    {
+      "term": "reservations",
+      "description": "複数形。「複数の予約」のほか、「懸念・疑念」でもよく使う。"
+    },
+    {
+      "term": "reservationist",
+      "description": "可算名詞。ホテル・交通機関などの予約を受け付ける担当者。職種名として使う。"
+    },
+    {
+      "term": "reserved",
+      "description": "reserve の過去形・過去分詞。「予約済みの」のほか、「控えめな、感情を表に出さない」という形容詞義もある。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "ある部分を取り分けて確保する、または全面的には差し出さず留めておくこと。場所や権利なら確保、判断なら無条件の賛成を差し控えることにつながる。"
+    },
+    {
+      "type": "item",
+      "text": "取り分けて確保する利用の枠 → 「予約、予約記録」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "全面的な賛成を留める気がかり → 「懸念、疑念、ためらい」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "全面的な受入れを留める条件 → 「留保、制限条件」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "取り分けて確保する特定用途の土地 → 「指定地、居留地」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "取り分けて確保する車道間の帯状地 → 「中央分離帯」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "取り分けて保持する権利・権益 → 「権利・権益の留保」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "取り分けて確保する集団別の入学・採用枠 → 「一定枠の留保制度」（語義7）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算、行為一般では不可算もある】予約、予約記録",
+      "frequency": 8,
+      "register": [
+        "一般、旅行、飲食、交通、宿泊。"
+      ],
+      "definition": "席・部屋・車などを、指定した人や日時の利用のために前もって確保する取り決め。また、その記録や確認。予約があることは、必ずしも支払済み・変更不可・取消不可であることを意味しない。",
+      "patterns": [
+        "make a reservation＝予約する。",
+        "a reservation for 〈人数・日時・対象〉＝その人数・日時・対象の予約。",
+        "a reservation at 〈店・宿泊施設〉＝その施設での予約。",
+        "a reservation under 〈名前〉＝その名前で入っている予約。",
+        "confirm a reservation＝予約を確認・確定する。",
+        "cancel a reservation＝予約を取り消す。",
+        "by reservation only＝予約した場合に限る。",
+        "a reservation number＝予約番号。"
+      ],
+      "collocations": [
+        {
+          "pattern": "make a reservation",
+          "use": "予約という手配をする。",
+          "example": "I'd like to make a reservation for dinner tomorrow.",
+          "translation": "明日の夕食の予約をしたいのですが。"
+        },
+        {
+          "pattern": "a reservation for 〈人数・日時〉",
+          "use": "利用する人数や日時を示す。",
+          "example": "We have a reservation for four at seven thirty.",
+          "translation": "私たちは、7時半に4人で予約しています。"
+        },
+        {
+          "pattern": "a reservation for 〈対象〉",
+          "use": "確保した部屋・車などを示す。",
+          "example": "Your reservation for a compact car has been confirmed.",
+          "translation": "お客様の小型車の予約が確定しました。"
+        },
+        {
+          "pattern": "a reservation at 〈店・宿泊施設〉",
+          "use": "予約先の施設を示す。",
+          "example": "I have a reservation at the hotel opposite the station.",
+          "translation": "駅の向かいのホテルを予約しています。"
+        },
+        {
+          "pattern": "a reservation under 〈名前〉",
+          "use": "受付で予約名義を伝える。",
+          "example": "There should be a reservation under the name Chen.",
+          "translation": "Chen という名前で予約が入っているはずです。"
+        },
+        {
+          "pattern": "confirm a reservation",
+          "use": "予約が成立しているかを確認する。",
+          "example": "Please call the restaurant to confirm your reservation.",
+          "translation": "レストランに電話して、予約を確認してください。"
+        },
+        {
+          "pattern": "cancel a reservation",
+          "use": "予約の取消しを依頼する。",
+          "example": "I need to cancel my reservation for Friday night.",
+          "translation": "金曜の夜の予約を取り消す必要があります。"
+        },
+        {
+          "pattern": "by reservation only",
+          "use": "予約制であることを案内する。",
+          "example": "Tours of the workshop are available by reservation only.",
+          "translation": "工房の見学は予約制です。"
+        },
+        {
+          "pattern": "a reservation number",
+          "use": "予約記録を特定する番号。",
+          "example": "Please include your reservation number in the subject line.",
+          "translation": "件名に予約番号を記載してください。"
+        }
+      ],
+      "notes": [
+        "個々の予約は a reservation、複数は reservations。early reservation is recommended「早めの予約を勧める」のように、予約行為一般を不可算で表す場合もある。for は人数・時間・確保対象、at は施設などの場所、under は名義を示す。a reservation for four at six は「6時に4人分」で、four と six の役割を逆にしない。通常「予約する」は make a reservation または動詞 reserve を使い、do a reservation としない。英国では booking も広く使う。医師などに会う時間の約束には appointment が普通で、あらゆる「予約」を reservation に統一しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "booking",
+          "definition": "部屋・席・サービスなどを前もって確保する取り決め。",
+          "frequency": 8,
+          "difference": "reservation と広く重なり、とくに英国で一般的。出演や会場利用の手配にも使う。",
+          "example": "The hotel sent an email confirming our booking.",
+          "translation": "ホテルから、私たちの予約を確認するメールが届いた。"
+        },
+        {
+          "word": "appointment",
+          "definition": "人に会ったりサービスを受けたりする日時の約束。",
+          "frequency": 9,
+          "difference": "医師・美容師などとの面会時間に重点を置く。レストランの席や航空便には通常使わない。",
+          "example": "I have a dental appointment at ten.",
+          "translation": "10時に歯科の予約がある。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算、しばしば複数、without reservation では不可算】懸念、疑念、ためらい",
+      "frequency": 8,
+      "register": [
+        "一般、議論、評価、ビジネス。"
+      ],
+      "definition": "計画・判断などを全面的にはよいと思えず、受け入れるのをためらわせる気がかり。完全な反対や拒否とは限らず、賛成しながら一部に懸念を持つ場合にも使う。",
+      "patterns": [
+        "have reservations about something＝物事に懸念を持つ。",
+        "have reservations about doing something＝行うことにためらいを感じる。",
+        "express reservations about something＝懸念を表明する。",
+        "someone's only reservation＝その人の唯一の気がかり。",
+        "without reservation＝ためらいや疑念なく、全面的に。"
+      ],
+      "collocations": [
+        {
+          "pattern": "have reservations about something（reservation の複数形）",
+          "use": "計画などの問題点を慎重に示す。",
+          "example": "We have serious reservations about the reliability of the data.",
+          "translation": "私たちは、そのデータの信頼性に重大な懸念を持っている。"
+        },
+        {
+          "pattern": "have reservations about doing something（reservation の複数形）",
+          "use": "行動を起こすことへのためらい。",
+          "example": "She has reservations about signing a contract before seeing the final design.",
+          "translation": "彼女は、最終デザインを見る前に契約することをためらっている。"
+        },
+        {
+          "pattern": "express reservations about something（reservation の複数形）",
+          "use": "気がかりを言葉にして伝える。",
+          "example": "Several reviewers expressed reservations about the study's conclusions.",
+          "translation": "複数の査読者が、その研究の結論に疑念を表明した。"
+        },
+        {
+          "pattern": "someone's only reservation",
+          "use": "懸念点を一つに絞る。",
+          "example": "My only reservation is that the proposed schedule leaves no time for testing.",
+          "translation": "私の唯一の懸念は、提案された日程では試験の時間が取れないことだ。"
+        },
+        {
+          "pattern": "without reservation",
+          "use": "人や案を全面的に推薦・支持する。",
+          "example": "Having worked closely with Maya, I can recommend her without reservation.",
+          "translation": "マヤと密に仕事をしてきたので、私は彼女をためらいなく推薦できる。"
+        }
+      ],
+      "notes": [
+        "典型は複数形の reservations about で、about の後ろに名詞または動名詞を置く。have reservations about the plan は「計画について懸念がある」で、語義1の have a reservation at the restaurant「店を予約している」と区別する。without reservation は「予約せずに」とは限らず、推薦・支持では「全面的に」。予約なしを明確にするなら without a reservation。with reservations は「懸念はあるが」という読みも、語義3の「留保付きで」という読みもあり、後続の内容から判断する。"
+      ],
+      "synonyms": [
+        {
+          "word": "misgiving",
+          "definition": "物事がうまくいくか、正しいかについての不安・疑念。",
+          "frequency": 6,
+          "difference": "不安な気持ちをより強く含み、複数形 misgivings も多い。reservation は評価上の留保として冷静に述べられる。",
+          "example": "I had misgivings about leaving the work unfinished.",
+          "translation": "仕事を終えないまま離れることに不安があった。"
+        },
+        {
+          "word": "doubt",
+          "definition": "真実性や妥当性などを確信できないこと。",
+          "frequency": 9,
+          "difference": "より広い語で、全面的な受入れをためらわせる具体的な懸念に限らない。",
+          "example": "There is some doubt about whether the figures are accurate.",
+          "translation": "その数値が正確かどうかには、いくらか疑問がある。"
+        },
+        {
+          "word": "concern",
+          "definition": "問題になり得ることへの懸念・心配。",
+          "frequency": 9,
+          "difference": "心配の対象を広く指し、何かに賛成するかどうかという判断が前提でなくても使える。",
+          "example": "The delay has raised concerns about the launch date.",
+          "translation": "遅れによって、発売日に間に合うかという懸念が生じている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算／不可算】留保、制限条件",
+      "frequency": 5,
+      "register": [
+        "硬い表現、合意、声明、国際法。"
+      ],
+      "definition": "同意・受入れ・発言などを無条件のものにせず、一部を例外にしたり範囲を限定したりすること、またはその条件。単なる心配ではなく、何を認めるかに限界を置く意味が中心。",
+      "patterns": [
+        "with the reservation that 〈節〉＝その節の内容を留保として。",
+        "subject to a reservation＝留保・限定条件を付して。",
+        "a reservation to a treaty＝条約に対する留保。",
+        "withdraw a reservation＝留保を撤回する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "with the reservation that 〈節〉",
+          "use": "同意の範囲を制限する条件を明示する。",
+          "example": "We accepted the proposal with the reservation that no additional costs would be passed on to customers.",
+          "translation": "追加費用を顧客に転嫁しないという留保を付して、私たちはその提案を受け入れた。"
+        },
+        {
+          "pattern": "subject to a reservation",
+          "use": "限定を伴う承認・支持を述べる。",
+          "example": "The committee's approval was subject to a reservation concerning the use of confidential data.",
+          "translation": "委員会の承認には、機密データの利用に関する留保が付されていた。"
+        },
+        {
+          "pattern": "a reservation to a treaty",
+          "use": "国際法上の条約の留保。",
+          "example": "The legal report examines a state's reservation to a treaty provision on dispute settlement.",
+          "translation": "その法律報告書は、紛争解決に関する条約の規定に対して、ある国が付した留保を検討している。"
+        },
+        {
+          "pattern": "withdraw a reservation",
+          "use": "以前に示した留保を取り下げる。",
+          "example": "The state later withdrew its reservation to that article of the convention.",
+          "translation": "その国は後に、その条約の当該条項に対する留保を撤回した。"
+        }
+      ],
+      "notes": [
+        "with the reservation that ... の that 節は、留保の内容を示す。語義2の reservations about a plan は通常「計画への懸念」で、条件を実際に付したとは限らない。条約上の reservation は、ある規定の自国への適用における法的効果を排除・変更しようとする声明をいう。留保と名づければ何でも有効になるわけではなく、許容性や効果は条約・国際法上の規則による。一般の「予約」の意味で treaty reservation と解釈しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "qualification",
+          "definition": "発言や同意の適用範囲を狭める条件・限定。",
+          "frequency": 6,
+          "difference": "ここでは「資格」ではない。言い切りを弱めたり主張を限定したりする面で reservation と重なる。",
+          "example": "Her endorsement came with one important qualification.",
+          "translation": "彼女の支持には、一つ重要な限定条件が付いていた。"
+        },
+        {
+          "word": "condition",
+          "definition": "何かを認めたり実行したりするための条件。",
+          "frequency": 9,
+          "difference": "満たすべき前提を広く表す。reservation は受入れの一部を留める・制限する点を意識させる。",
+          "example": "Payment in advance is a condition of the agreement.",
+          "translation": "前払いが、その合意の条件になっている。"
+        },
+        {
+          "word": "proviso",
+          "definition": "取り決めに付ける但し書き・条件。",
+          "frequency": 5,
+          "difference": "明示的な但し書きの感じが強い。黙示的な留保まで含み得る reservation より文書的。",
+          "example": "The offer includes a proviso that the work must begin this month.",
+          "translation": "その申し出には、作業を今月中に開始しなければならないという但し書きがある。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・可算】指定地、居留地",
+      "frequency": 6,
+      "register": [
+        "主に米国の土地・行政・歴史に関する用法。"
+      ],
+      "definition": "特定の人々の居住・利用、軍事、保全などの目的のために確保・指定された土地。米国について無修飾で使われる場合、先住民の部族のための居留地を指すことが多い。",
+      "patterns": [
+        "on a reservation＝居留地・指定地に。",
+        "a Native American reservation＝米国先住民の居留地。",
+        "a military reservation＝軍事用に確保された区域。",
+        "reservation land＝居留地・指定地の土地。"
+      ],
+      "collocations": [
+        {
+          "pattern": "on a reservation",
+          "use": "居留地内にあることを示す。",
+          "example": "The health centre serves families living on the reservation.",
+          "translation": "その保健センターは、居留地で暮らす家族にサービスを提供している。"
+        },
+        {
+          "pattern": "a Native American reservation",
+          "use": "指定地の種類を明示する。",
+          "example": "The exhibition explores the history of a Native American reservation.",
+          "translation": "その展示は、ある米国先住民の居留地の歴史を取り上げている。"
+        },
+        {
+          "pattern": "a military reservation",
+          "use": "軍事用の指定区域。",
+          "example": "The map shows the boundary of the military reservation.",
+          "translation": "地図には、軍用地の境界が示されている。"
+        },
+        {
+          "pattern": "reservation land",
+          "use": "指定区域の土地について述べる。",
+          "example": "The report discusses water management on reservation land.",
+          "translation": "その報告書は、居留地の土地での水管理について論じている。"
+        }
+      ],
+      "notes": [
+        "居留地に住むなら live on a reservation が典型。reservation は予約という行為ではなく土地を指す。米国先住民の居留地は、すべて同じ経緯で成立した土地ではなく、所有・統治・適用法もこの単語だけから一律には決められない。Indian reservation は法令・固有名・歴史資料などで使われる表現だが、個別の部族・地域の正式名称も尊重する。自然保護区には nature reserve などが普通で、reservation が常に動物の保護区域を意味するわけではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "reserve",
+          "definition": "特定の目的のために保護・確保された土地。",
+          "frequency": 6,
+          "difference": "nature reserve のような自然保護区に多く、地域によって先住民の土地を指す用語にもなる。制度名として reservation と自由に交換できるとは限らない。",
+          "example": "Visitors must stay on marked trails in the nature reserve.",
+          "translation": "自然保護区では、来訪者は標識のある道から外れてはいけない。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞・可算、通常 central reservation】中央分離帯",
+      "frequency": 4,
+      "register": [
+        "英国、道路・交通。"
+      ],
+      "definition": "反対方向に走る車道の間にある、帯状に区切られた部分。草地や柵などを含むことがあるが、材質や形を特定する語ではない。",
+      "patterns": [
+        "the central reservation＝道路の中央分離帯。",
+        "a barrier on the central reservation＝中央分離帯にある防護柵。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the central reservation",
+          "use": "上下線の間の分離部分を指す。",
+          "example": "The car crossed the central reservation and entered the opposite carriageway.",
+          "translation": "その車は中央分離帯を越え、反対側の車道に入った。"
+        },
+        {
+          "pattern": "a barrier on the central reservation",
+          "use": "分離帯に設けられた設備。",
+          "example": "Workers are replacing the barrier on the central reservation.",
+          "translation": "作業員が、中央分離帯の防護柵を交換している。"
+        }
+      ],
+      "notes": [
+        "英国では central reservation が定着した呼び方。米国では median、median strip が一般的。reservation だけでも道路の文脈ではこの意味になり得るが、文脈なしでは予約・懸念・居留地などと区別しにくい。路肩を指す shoulder とは位置が異なる。"
+      ],
+      "synonyms": [
+        {
+          "word": "median strip",
+          "definition": "道路の反対方向の車道を隔てる中央部分。",
+          "frequency": 4,
+          "difference": "主に米国などで使われ、英国の central reservation に対応する。median ともいう。",
+          "example": "Trees have been planted along the median strip.",
+          "translation": "中央分離帯に沿って木が植えられている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【名詞・可算／不可算】権利・権益の留保",
+      "frequency": 3,
+      "register": [
+        "法律、契約、財産。"
+      ],
+      "definition": "権利や利益を手放さずに保持しておくこと。また、財産の移転などに際して、譲る側に残される権利・権益やそれを定める条項。",
+      "patterns": [
+        "a reservation of rights＝権利の留保。",
+        "a reservation of mineral rights＝鉱物に関する権利の留保。",
+        "a reservation in a deed＝譲渡証書中の留保条項。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a reservation of rights",
+          "use": "権利を放棄していないことを示す。",
+          "example": "The letter includes an express reservation of rights.",
+          "translation": "その書簡には、権利を留保する旨が明示されている。"
+        },
+        {
+          "pattern": "a reservation of mineral rights",
+          "use": "土地の譲渡に伴う特定の権利の留保。",
+          "example": "The deed contains a reservation of mineral rights in favour of the seller.",
+          "translation": "その譲渡証書には、売主のために鉱物に関する権利を留保する条項がある。"
+        }
+      ],
+      "notes": [
+        "of の後ろは保持する権利など、in の後ろは条項のある文書。ここでの reservation は、語義2の心理的な懸念ではない。どの権利が成立・存続するか、留保と例外条項をどう区別するかは、契約内容や法域による。文言を書いただけで常に権利が保全されるとは説明しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "retention",
+          "definition": "権利・物などを保持し続けること。",
+          "frequency": 6,
+          "difference": "保持という行為を広く表す。reservation のような特定の契約条項や財産法上の仕組みを必ず意味するわけではない。",
+          "example": "The agreement provides for the retention of ownership until payment is complete.",
+          "translation": "その契約は、支払いが完了するまで所有権を保持することを定めている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【名詞・不可算】一定枠の留保制度",
+      "frequency": 3,
+      "register": [
+        "インド英語、教育・雇用政策、報道。"
+      ],
+      "definition": "インドで、特定の集団のために学校の入学枠、職の採用枠などを一定数確保する制度・措置。社会的・歴史的な不利益への対応などに関わる用語で、旅行の予約とは異なる。",
+      "patterns": [
+        "reservation in 〈教育・採用など〉＝その分野での枠の留保制度。",
+        "reservation for 〈対象集団〉＝その集団のための枠の留保。",
+        "reservation of seats＝入学枠などの留保。",
+        "reservation policy＝一定枠を留保する政策。"
+      ],
+      "collocations": [
+        {
+          "pattern": "reservation in 〈採用など〉",
+          "use": "制度が適用される分野を示す。",
+          "example": "The article examines reservation in government recruitment in India.",
+          "translation": "その記事は、インドの公務員採用における一定枠の留保制度を検討している。"
+        },
+        {
+          "pattern": "reservation for 〈対象集団〉",
+          "use": "誰のための枠かを示す。",
+          "example": "The debate concerns reservation for disadvantaged communities in university admissions.",
+          "translation": "その議論では、大学入学において不利な立場にある集団のために一定枠を確保する制度が扱われている。"
+        },
+        {
+          "pattern": "reservation of seats",
+          "use": "入学などの枠を一定数確保すること。",
+          "example": "The university prospectus explains the reservation of seats for eligible applicants.",
+          "translation": "その大学の入学案内は、対象要件を満たす志願者のために入学枠を確保する制度を説明している。"
+        },
+        {
+          "pattern": "reservation policy",
+          "use": "枠を留保する政策全体。",
+          "example": "The report reviews the implementation of India's reservation policy in public employment.",
+          "translation": "その報告書は、インドの公的雇用における留保政策の実施状況を検討している。"
+        }
+      ],
+      "notes": [
+        "制度一般を指すこの語義は通常不可算で、reservation policy の reservation も単数形を使う。seat はここでは椅子でなく入学枠など。対象集団、割合、資格条件、適用先は制度・分野・時点により異なるため、reservation という語だけから決めない。枠の確保が、特定の応募者の入学・採用を自動的に保証するという意味ではない。米国先住民の土地を指す語義4の a reservation とも区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "quota system",
+          "definition": "特定の集団などに一定の人数・割合の枠を割り当てる制度。",
+          "frequency": 5,
+          "difference": "インドの制度に限らない一般的な説明。quota 自体は輸入量などの割当ても指すので、教育・雇用の文脈を確認する。",
+          "example": "The proposal would introduce a quota system for admissions.",
+          "translation": "その提案は、入学者の割当て制度を導入するものだ。"
+        },
+        {
+          "word": "affirmative action",
+          "definition": "不利な立場に置かれてきた集団の教育・雇用などの機会を改善するための積極的措置。",
+          "frequency": 6,
+          "difference": "枠の留保だけでなく、より広い支援策を含み得る。各国の制度が同じ内容だという意味ではない。",
+          "example": "The lecture compared different approaches to affirmative action in higher education.",
+          "translation": "その講義では、高等教育における積極的な機会改善措置のさまざまな方法が比較された。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
