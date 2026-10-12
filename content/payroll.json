@@ -12,7 +12,7 @@
   "formation": [
     {
       "term": "payrolls",
-      "description": "雇用主ごとの給与台帳・給与総額などの複数形。経済報道では雇用者数・雇用口数を表すこともある。"
+      "description": "雇用主ごとの給与台帳・給与総額などの複数形。経済報道では雇用者数・雇用数（仕事の数）を表すこともある。"
     },
     {
       "term": "payroll department / payroll clerk",
@@ -46,7 +46,7 @@
     },
     {
       "type": "item",
-      "text": "給与を支払う対象となる雇用の規模 → 「雇用者数、給与支払対象の雇用口数」（語義4）"
+      "text": "給与を支払う対象となる雇用の規模 → 「雇用者数、給与支払対象の雇用数（仕事の数）」（語義4）"
     }
   ],
   "sources": [],
@@ -268,7 +268,7 @@
     },
     {
       "number": 4,
-      "title": "【名詞・通常複数形】雇用者数、給与支払対象の雇用口数",
+      "title": "【名詞・通常複数形】雇用者数、給与支払対象の雇用数（仕事の数）",
       "frequency": 6,
       "register": [
         "雇用統計、経済ニュース。特に米国の報道。"
@@ -297,7 +297,7 @@
           "pattern": "payrolls rise by 〈雇用増加数〉",
           "use": "給与額ではなく雇用数の変化を示す。",
           "example": "The report says manufacturing payrolls rose by 8,000 jobs.",
-          "translation": "その報告によると、製造業の雇用は8,000件増えた。"
+          "translation": "その報告によると、製造業の雇用数は8,000増えた。"
         },
         {
           "pattern": "payroll growth",
