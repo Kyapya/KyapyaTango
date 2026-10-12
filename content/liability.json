@@ -1,0 +1,353 @@
+{
+  "word": "liability",
+  "slug": "liability",
+  "ipa": "米・英: /ˌlaɪ.əˈbɪl.ə.ti/。5音節で、第3音節に主強勢、第1音節に第二強勢を置く。第4音節の母音を /ɪ/ とする変異もある。米語では第5音節の /t/ が短いはじき音 [ɾ] になることが多い。",
+  "lead": "損害・行為・義務などについて、法律上の責任を負うこと。損害への賠償責任などによく使うが、金銭支払いだけに限定されず、civil liability「民事責任」や criminal liability「刑事責任」にも用いる。日常の役割分担としての「担当」全般を表す語ではない。",
+  "updated": "2026-10-12",
+  "notion_url": "https://app.notion.com/p/liability-3f74faa9b77d81da92a0fff541fe8bb7",
+  "pronunciation": [
+    "複数形 liabilities は語末が /tiz/。単数形の y を ies に変え、音節をさらに加えるわけではない。"
+  ],
+  "etymology": [
+    "形容詞 liable「責任を負う・影響を受けやすい」に、状態や性質を表す名詞語尾を付けた語。liable はアングロ・フランス語の lier「結びつける」に関係し、その背景にラテン語 ligare「縛る・結ぶ」がある。「義務に結びつけられている」という関係が、法的責任を理解する手がかりになる。",
+    "同じ ligare に由来する語に oblige「義務を負わせる」と ligature「結び目・結紮糸」がある。現在の liability の全用法を、物理的に縛る動作と同一視しない。"
+  ],
+  "formation": [
+    {
+      "term": "liable",
+      "description": "責任を負う、ある事態になりやすいという形容詞。be liable for と be liable to do を区別する。"
+    },
+    {
+      "term": "limited liability",
+      "description": "責任の範囲が限定されることを表す不可算の複合名詞。「有限責任」と訳すが、具体的範囲は制度や契約による。"
+    },
+    {
+      "term": "liability insurance",
+      "description": "一定の賠償責任などに備える保険を表す不可算の複合名詞。補償条件は契約ごとに異なる。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "「責任・負担・不利益を負うこと、またはそれを負いやすいこと」が共通核。法的な責任、支払うべき負債、不利の原因になる人や物、問題を受けやすい性質へと分かれる。"
+    },
+    {
+      "type": "item",
+      "text": "負うものが法的な責任であること → 「法的責任・賠償責任」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "負うものが金銭上の支払いであること → 「負債・債務」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "負うものが人や物による不利益であること → 「不利な要因・足手まとい」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "負うものが好ましくない状態である可能性 → 「陥りやすさ・受けやすさ」（語義4）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・不可算】法的責任・賠償責任",
+      "frequency": 7,
+      "register": [
+        "法律・契約・保険・ビジネス・報道。"
+      ],
+      "definition": "損害・行為・義務などについて、法律上の責任を負うこと。損害への賠償責任などによく使うが、金銭支払いだけに限定されず、civil liability「民事責任」や criminal liability「刑事責任」にも用いる。日常の役割分担としての「担当」全般を表す語ではない。",
+      "patterns": [
+        "accept liability for something＝何かについて法的責任を認める",
+        "deny liability for doing something＝ある行為をしたことについて法的責任を否定する",
+        "liability to someone＝人に対して負う法的責任",
+        "liability to pay 〈支払うもの〉＝それを支払う法的義務",
+        "limit one's liability＝負う責任を限定する",
+        "liability insurance＝賠償責任などに備える保険"
+      ],
+      "collocations": [
+        {
+          "pattern": "accept liability for something",
+          "use": "責任の対象を for の後に置く。",
+          "example": "The contractor accepted liability for the damage to the wall.",
+          "translation": "その請負業者は、壁の損傷について責任を認めた。"
+        },
+        {
+          "pattern": "deny liability for doing something",
+          "use": "行為についての責任を否定する。",
+          "example": "The company denied liability for failing to warn customers.",
+          "translation": "その会社は、顧客に警告しなかったことについての法的責任を否定した。"
+        },
+        {
+          "pattern": "liability to someone",
+          "use": "責任を負う相手を示す。",
+          "example": "The report examines the manufacturer's liability to injured customers.",
+          "translation": "その報告書は、負傷した顧客に対するメーカーの法的責任を検討している。"
+        },
+        {
+          "pattern": "liability to pay 〈支払うもの〉",
+          "use": "不定詞で義務の内容を示す。",
+          "example": "The court confirmed the employer's liability to pay compensation.",
+          "translation": "裁判所は、雇用主が補償金を支払う義務を負うことを確認した。"
+        },
+        {
+          "pattern": "limit one's liability",
+          "use": "責任の範囲を限定することを述べる。",
+          "example": "The supplier sought to limit its liability under the contract.",
+          "translation": "その供給業者は、契約に基づく自社の責任を限定しようとした。"
+        },
+        {
+          "pattern": "liability insurance",
+          "use": "法的責任に備える保険の種類を述べる。",
+          "example": "The organizer asked the caterer for proof of liability insurance.",
+          "translation": "主催者はケータリング業者に、賠償責任保険に加入している証明を求めた。"
+        }
+      ],
+      "notes": [
+        "責任という状態は通常不可算で、accept liability とする。個別の支払義務を数える a liability は語義2。名詞は have liability for the damage、形容詞は be liable for the damage であり、誤りの be liability for は使わない。for は責任の対象、to someone は相手、to pay は義務の内容を示す不定詞。liability to disease のような「影響の受けやすさ」は語義4。免責条項に記載があることと、実際に法的責任がなくなることは同じではなく、語の意味だけで条項の効力を判断しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "responsibility",
+          "definition": "自分の行為や結果について引き受ける責任。",
+          "frequency": 9,
+          "difference": "法律上の責任に限らず、道義的責任や仕事上の担当にも使える。liability は法的な責任をより明確に示す。",
+          "example": "The manager accepted responsibility for the error.",
+          "translation": "管理者は、その誤りについて責任を認めた。"
+        },
+        {
+          "word": "obligation",
+          "definition": "法律・契約・道義などによって果たすべき義務。",
+          "frequency": 7,
+          "difference": "何をしなければならないかに焦点があり、違反や損害に対する責任がまだ問題になっていなくても使う。",
+          "example": "The agreement creates an obligation to keep the records confidential.",
+          "translation": "その契約によって、記録の秘密を守る義務が生じる。"
+        },
+        {
+          "word": "accountability",
+          "definition": "自分の判断や行動について説明し、責任を負うこと。",
+          "frequency": 7,
+          "difference": "説明・検証を受ける責任が中心で、金銭的な賠償責任を直接意味するとは限らない。",
+          "example": "The new procedures strengthen accountability for public spending.",
+          "translation": "新しい手続きは、公的支出に関する説明責任を強化する。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算・通常複数】負債・債務",
+      "frequency": 7,
+      "register": [
+        "会計・金融・ビジネス。"
+      ],
+      "definition": "人や企業などが負っている金銭上の支払義務や、その金額。借入金、未払金、納めるべき税金などが対象になり、複数形 liabilities で負債全体や複数項目を表す。単数で一件の負債・支払義務を示すこともできる。",
+      "patterns": [
+        "have liabilities of 〈金額〉＝その金額の負債を抱える",
+        "a liability of 〈金額〉＝その金額の支払義務",
+        "meet one's liabilities＝負債の支払義務を果たす",
+        "current liabilities＝流動負債",
+        "long-term liabilities＝長期負債",
+        "tax liability＝納税義務・支払うべき税額"
+      ],
+      "collocations": [
+        {
+          "pattern": "have liabilities of 〈金額〉（liability の複数形）",
+          "use": "負債の総額を示す。",
+          "example": "The company has liabilities of 4 million euros.",
+          "translation": "その会社は400万ユーロの負債を抱えている。"
+        },
+        {
+          "pattern": "a liability of 〈金額〉",
+          "use": "一件の支払義務を可算で示す。",
+          "example": "The unpaid invoice represents a liability of 2,000 dollars.",
+          "translation": "その未払いの請求書は、2,000ドルの支払義務を表している。"
+        },
+        {
+          "pattern": "meet one's liabilities（liability の複数形）",
+          "use": "支払うべき金額を支払うことを述べる。",
+          "example": "The firm sold equipment to meet its liabilities.",
+          "translation": "その企業は、負債の支払いを果たすために設備を売却した。"
+        },
+        {
+          "pattern": "current liabilities（liability の複数形）",
+          "use": "会計上の流動負債を指す。",
+          "example": "The balance sheet lists the unpaid supplier invoices under current liabilities.",
+          "translation": "貸借対照表は、仕入先への未払い請求額を流動負債に計上している。"
+        },
+        {
+          "pattern": "long-term liabilities（liability の複数形）",
+          "use": "長期の支払義務を指す。",
+          "example": "The report shows an increase in long-term liabilities.",
+          "translation": "その報告書は、長期負債の増加を示している。"
+        },
+        {
+          "pattern": "tax liability",
+          "use": "支払うべき税金の額を述べる。",
+          "example": "The accountant calculated the company's tax liability for the year.",
+          "translation": "会計士は、その年の会社の納税額を計算した。"
+        }
+      ],
+      "notes": [
+        "liabilities は複数扱いで、The liabilities exceed the assets. とする。複数が多いというだけで、a financial liability が誤りになるわけではない。対照表現の assets は保有する資産で、liabilities は負っている支払義務。同じ融資でも、借り手の負債と貸し手の資産という立場の違いがある。current liabilities の current は「流動の」という会計上の分類を示し、単なる「現在存在する負債」ではない。分類の細かな条件は会計基準による。"
+      ],
+      "synonyms": [
+        {
+          "word": "debt",
+          "definition": "人や組織が他者に対して支払うべき金銭や、その債務。",
+          "frequency": 9,
+          "difference": "日常の借金にも使う一般的な語。liability は会計・契約上の負担を分類する語として使いやすく、文脈によって debt より広い負債項目を扱う。",
+          "example": "The business paid off its outstanding debt.",
+          "translation": "その事業は、残っていた債務を完済した。"
+        },
+        {
+          "word": "financial obligation",
+          "definition": "金銭を支払うべき義務。",
+          "frequency": 6,
+          "difference": "負債であることより、支払義務を負っていることを明示する表現。貸借対照表に計上される項目だけに限定されない。",
+          "example": "The lease creates a financial obligation for the tenant.",
+          "translation": "その賃貸借契約は、借主に金銭上の義務を生じさせる。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算】不利な要因・足手まとい",
+      "frequency": 6,
+      "register": [
+        "一般・会話・仕事や政治の評価。"
+      ],
+      "definition": "人や活動に問題・不利益をもたらす人、物、特長、事情。本来役立つはずのものが負担になる場合にも使う。人を a liability と呼ぶと、「足手まといだ」という厳しい評価になり得る。",
+      "patterns": [
+        "be a liability to someone/something＝人や組織にとって足手まとい・不利な要因である",
+        "be a liability for someone/something＝人や組織にとって問題の原因である",
+        "become a liability＝負担・不利な要因になる",
+        "a political liability＝政治的に不利な要因"
+      ],
+      "collocations": [
+        {
+          "pattern": "be a liability to someone/something",
+          "use": "誰にとって負担かを示す。",
+          "example": "An unreliable driver is a liability to a delivery team.",
+          "translation": "信頼できない運転手は、配送チームにとって足手まといだ。"
+        },
+        {
+          "pattern": "be a liability for someone/something",
+          "use": "人や組織が抱える問題を評価する。",
+          "example": "The outdated booking system is a liability for the hotel.",
+          "translation": "時代遅れの予約システムは、そのホテルにとって問題の原因になっている。"
+        },
+        {
+          "pattern": "become a liability",
+          "use": "役立っていたものなどが不利益の原因になる変化を述べる。",
+          "example": "His habit of making jokes became a liability during serious negotiations.",
+          "translation": "彼の冗談を言う癖は、真剣な交渉の場では不利な要因になった。"
+        },
+        {
+          "pattern": "a political liability",
+          "use": "政治的な支持を損なう要因を指す。",
+          "example": "The minister's past statements had become a political liability.",
+          "translation": "その大臣の過去の発言は、政治的に不利な要因になっていた。"
+        }
+      ],
+      "notes": [
+        "通常は a liability と可算で使い、法律上の責任を意味する不可算 liability と区別する。She is a liability to the team. は「チームの足手まといだ」であり、「チームに対して法的責任を負う」なら She is liable to the team. などの形容詞構文が必要で、具体的な責任内容も文脈で示す。金銭を借りていなくても、この評価義の liability にはなり得る。"
+      ],
+      "synonyms": [
+        {
+          "word": "drawback",
+          "definition": "物事のよさや有用性を損なう欠点・難点。",
+          "frequency": 7,
+          "difference": "計画・製品・方法などの一つの欠点を示す。liability は人や物そのものを、問題の原因として評価できる。",
+          "example": "The main drawback of the apartment is the noise from the road.",
+          "translation": "そのアパートの主な難点は、道路からの騒音だ。"
+        },
+        {
+          "word": "burden",
+          "definition": "人が引き受ける重い負担や心配の種。",
+          "frequency": 7,
+          "difference": "負担の重さや支える側の苦労に焦点がある。liability は成功を妨げたり問題を起こしたりする側面を強調する。",
+          "example": "The extra paperwork became a burden on the staff.",
+          "translation": "追加の事務処理は、職員の負担になった。"
+        },
+        {
+          "word": "disadvantage",
+          "definition": "不利な立場をもたらす条件や事情。",
+          "frequency": 8,
+          "difference": "比較・競争上の不利を広く指す。liability には、厄介な原因を抱えているという評価が加わりやすい。",
+          "example": "The lack of a local office is a disadvantage in this market.",
+          "translation": "現地事務所がないことは、この市場では不利だ。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "asset",
+          "definition": "人や組織にとって役に立つ人・強み・資源。",
+          "frequency": 7,
+          "difference": "有用性についての評価上の反対で、liability はマイナス、asset はプラスになるものを指す。",
+          "example": "Her calm manner is an asset to the team.",
+          "translation": "彼女の落ち着いた態度は、チームの強みだ。"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "【名詞・不可算】陥りやすさ・受けやすさ",
+      "frequency": 3,
+      "register": [
+        "硬め・学術的。現代の一般会話では susceptibility や tendency などが使われやすい。"
+      ],
+      "definition": "ある状態や影響を受ける傾向・可能性。特に病気、誤り、損傷など好ましくない事柄について用いる。責任の追及や金銭債務を表すのではなく、その事態にさらされやすい性質を述べる。",
+      "patterns": [
+        "liability to 〈好ましくない状態〉＝その状態に陥りやすいこと",
+        "liability to do something＝ある事態になりやすいこと"
+      ],
+      "collocations": [
+        {
+          "pattern": "liability to 〈好ましくない状態〉",
+          "use": "病気などの影響を受ける傾向を述べる。",
+          "example": "The study examined the plants' liability to disease in damp conditions.",
+          "translation": "その研究は、湿った環境で植物が病気にかかりやすい傾向を調べた。"
+        },
+        {
+          "pattern": "liability to do something",
+          "use": "不定詞で、起こりやすい事態を示す。",
+          "example": "The report noted the material's liability to crack under repeated stress.",
+          "translation": "その報告書は、繰り返し応力を受けるとその材料がひび割れやすいことを指摘した。"
+        }
+      ],
+      "notes": [
+        "liability to pay compensation の to pay は語義1の支払義務になりやすく、liability to crack は材料の性質を表す。to の形だけで意味を決めず、主語となる対象と後続内容を読む。a liability として「厄介な物」を指す語義3とも区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "susceptibility",
+          "definition": "病気・影響・損傷などを受けやすい性質。",
+          "frequency": 5,
+          "difference": "外部からの影響を受けやすいことを明示する。この意味の liability より、現代の科学的説明で使われやすい。",
+          "example": "The test measures the metal's susceptibility to corrosion.",
+          "translation": "その試験は、金属の腐食しやすさを測定する。"
+        },
+        {
+          "word": "proneness",
+          "definition": "特定の行動や状態に陥りやすい傾向。",
+          "frequency": 4,
+          "difference": "繰り返し起こる傾向を表しやすく、特に望ましくない行動・状態に使う。",
+          "example": "The survey explored proneness to distraction at work.",
+          "translation": "その調査は、仕事中に気が散りやすい傾向を調べた。"
+        },
+        {
+          "word": "tendency",
+          "definition": "あることが起きたり、ある行動を取ったりしやすい傾向。",
+          "frequency": 8,
+          "difference": "好ましい場合にも好ましくない場合にも使える一般的な語で、悪影響にさらされるという含みを必ずしも持たない。",
+          "example": "This fabric has a tendency to shrink in hot water.",
+          "translation": "この生地は、熱い湯で縮みやすい。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "word": "dividend",
+  "slug": "dividend",
+  "ipa": "米: /ˈdɪv.ə.dend/｜英: /ˈdɪv.ɪ.dend/",
+  "lead": "会社が株主に持分に応じて分配する金銭など。利益の分配として説明されることが多い。現金のほか株式による配当もあり、支払頻度、原資、受給条件は個々の会社や制度による。",
+  "updated": "2026-10-12",
+  "notion_url": "https://app.notion.com/p/dividend-3f74faa9b77d816da928f6251625f424",
+  "pronunciation": [
+    "3音節で、第1音節に主強勢を置く。上の代表形では第2音節の母音が米 /ə/、英 /ɪ/ と異なる。米英とも第3音節を /dənd/ と弱く発音する変異もある。米語では第3音節に第二強勢を置く表記も見られる。複数形 dividends の語尾は /ndz/。"
+  ],
+  "etymology": [
+    "中英語 divident を経て、ラテン語 dividendus「分けられるべき」にさかのぼる。これは dividere「分ける」の動形容詞で、「分配される取り分」と「割られる数」の両方につながる。",
+    "divide「分ける」、division「分割、除法」、divisor「除数」は同じ dividere の系統。dividend を現代英語の divide と end「終わり」に分解しない。"
+  ],
+  "formation": [
+    {
+      "term": "dividend-paying（形容詞）",
+      "description": "＝配当を支払う。dividend-paying shares「配当のある株式」。"
+    },
+    {
+      "term": "ex-dividend（形容詞・副詞）",
+      "description": "＝直近の配当を受け取る権利が付かない、その状態で。株式取引の用語。"
+    },
+    {
+      "term": "cash dividend（可算名詞）",
+      "description": "＝現金配当。支払方法を明示する。"
+    },
+    {
+      "term": "stock dividend（可算名詞）",
+      "description": "＝株式配当。株式の交付による配当をいい、配当を現金だけに限定しない。"
+    },
+    {
+      "term": "dividend yield（可算・不可算名詞）",
+      "description": "＝配当利回り。株価に対する配当の割合を示す指標。"
+    },
+    {
+      "term": "peace dividend（可算名詞）",
+      "description": "＝平和による恩恵、とくに軍事費の縮小で生じる余裕。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "元となる活動や資源から得られる取り分・見返り。語義6は数学の制度的専門義で、「割られる数」という役割を指定する名称であり、この見返りの核から語彙的意味を導けないため個別に参照する。"
+    },
+    {
+      "type": "item",
+      "text": "事業から得られる株主の取り分 → 「株主配当」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "行動や状況から得られる見返り → 「成果、恩恵、思わぬ利益」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "保険事業から得られる契約者の取り分 → 「保険契約者配当」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "換価された財産から得られる取り分 → 「債権者への配当」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "協同組合の剰余から得られる取り分 → 「協同組合の配当」（語義5）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞：可算】株主配当",
+      "frequency": 8,
+      "register": [
+        "中立。株式、企業財務、経済報道。"
+      ],
+      "definition": "会社が株主に持分に応じて分配する金銭など。利益の分配として説明されることが多い。現金のほか株式による配当もあり、支払頻度、原資、受給条件は個々の会社や制度による。",
+      "patterns": [
+        "pay a dividend＝配当を支払う",
+        "declare a dividend＝配当を決定・発表する",
+        "a dividend of 〈金額〉 per share＝1株当たりその金額の配当",
+        "receive dividends on 〈株式〉＝その株式の配当を受け取る",
+        "suspend the dividend＝配当を停止する",
+        "reinvest dividends＝配当を再投資する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "pay a dividend",
+          "use": "会社が株主へ配当する。",
+          "example": "The company paid a dividend for the first time in three years.",
+          "translation": "会社は3年ぶりに配当を支払った。"
+        },
+        {
+          "pattern": "declare a dividend",
+          "use": "配当の決定を公表する。",
+          "example": "The board declared a special dividend.",
+          "translation": "取締役会は特別配当を決定し、発表した。"
+        },
+        {
+          "pattern": "a dividend of 〈金額〉 per share",
+          "use": "1株当たりの配当額を示す。",
+          "example": "Shareholders will receive a dividend of two dollars per share.",
+          "translation": "株主は1株当たり2ドルの配当を受け取る。"
+        },
+        {
+          "pattern": "receive dividends on 〈株式〉",
+          "use": "保有株式からの受取りをいう。",
+          "example": "She receives dividends on her shares twice a year.",
+          "translation": "彼女は保有株式の配当を年に2回受け取る。"
+        },
+        {
+          "pattern": "suspend the dividend",
+          "use": "支払いを止める。",
+          "example": "The company suspended its dividend after reporting a loss.",
+          "translation": "会社は損失を発表した後、配当を停止した。"
+        },
+        {
+          "pattern": "reinvest dividends",
+          "use": "受け取った配当を再び投じる。",
+          "example": "The fund automatically reinvests dividends.",
+          "translation": "そのファンドは配当を自動的に再投資する。"
+        }
+      ],
+      "notes": [
+        "一回の配当や特定額は a dividend、継続的・複数回の配当は dividends とする。cash dividend と stock dividend は支払形態の違い。interest「利息」は資金の貸借・預入れなどに対する金銭で、dividend の同義語ではない。capital gain「売却益」、profit「会社の利益」とも区別する。declare は決定・公表であり、支払い済みという意味ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "distribution",
+          "definition": "会社やファンドなどから持分保有者への金銭・資産の分配。",
+          "frequency": 6,
+          "difference": "この金融用法では配当を含むが、dividend と分類されない分配まで含む広い語。",
+          "example": "The fund made a cash distribution to its investors.",
+          "translation": "そのファンドは投資家に現金を分配した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞：可算、複数形が多い】成果、恩恵、思わぬ利益",
+      "frequency": 7,
+      "register": [
+        "中立。比喩的。仕事、学習、政策、日常の成果。"
+      ],
+      "definition": "行動や状況から得られる良い結果・恩恵。pay dividends は「やがて良い結果をもたらす」という定着表現。意図した成果だけでなく、予想していなかった利点にも使う。金銭とは限らない。",
+      "patterns": [
+        "pay dividends＝良い結果をもたらす",
+        "reap dividends from something＝物事から成果を得る",
+        "an unexpected dividend＝思わぬ恩恵",
+        "a peace dividend＝平和による恩恵。"
+      ],
+      "collocations": [
+        {
+          "pattern": "pay dividends",
+          "use": "努力などが後で実を結ぶ。",
+          "example": "The extra practice paid dividends during the final presentation.",
+          "translation": "追加の練習が最終発表で成果をもたらした。"
+        },
+        {
+          "pattern": "reap dividends from something",
+          "use": "成果を受け取る側を主語にする。",
+          "example": "The team is reaping dividends from its earlier investment in training.",
+          "translation": "チームは以前の研修への投資から成果を得ている。"
+        },
+        {
+          "pattern": "an unexpected dividend",
+          "use": "意図していなかった利点をいう。",
+          "example": "New friendships were an unexpected dividend of the course.",
+          "translation": "新たな友情は、その講座から得られた思わぬ恩恵だった。"
+        },
+        {
+          "pattern": "a peace dividend",
+          "use": "平和がもたらす余裕や利益をいう。",
+          "example": "The peace dividend allowed more resources to be directed toward schools.",
+          "translation": "平和による恩恵で、学校により多くの資源を振り向けられるようになった。"
+        }
+      ],
+      "notes": [
+        "pay dividends は会社の金銭配当にも字義どおり使える。主語が practice、patience、planning などなら、この比喩義が中心。必ず巨額の利益、必ず予想外の利益、必ず長年後の結果というわけではない。a dividend も可能であり、複数形のみの語ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "benefit",
+          "definition": "得られる利点・好ましい効果。",
+          "frequency": 9,
+          "difference": "最も広い中立語で、努力への見返りという比喩は弱い。",
+          "example": "The new schedule has several benefits.",
+          "translation": "新しい日程にはいくつか利点がある。"
+        },
+        {
+          "word": "payoff",
+          "definition": "努力などの結果として得られる見返り。",
+          "frequency": 7,
+          "difference": "成果が出る段階や報われる点を強調し、やや会話的。",
+          "example": "The payoff was a much faster service.",
+          "translation": "その成果は、サービスが大幅に速くなったことだった。"
+        },
+        {
+          "word": "bonus",
+          "definition": "本来の期待に加わるうれしい利点。",
+          "frequency": 8,
+          "difference": "予想外・追加の利点という側面で重なるが、dividend は意図した成果にも使える。",
+          "example": "The sea view was an added bonus.",
+          "translation": "海が見えることは、うれしい追加の利点だった。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞：可算】保険契約者配当",
+      "frequency": 4,
+      "register": [
+        "保険の専門用法。"
+      ],
+      "definition": "配当を受ける仕組みのある保険で、保険会社の剰余などから契約者に割り当てられる取り分。株主として受け取る配当とは、受取人の立場が異なる。",
+      "patterns": [
+        "a policy dividend＝保険契約者配当",
+        "pay a dividend to policyholders＝契約者に配当を支払う",
+        "receive a policy dividend＝契約者配当を受け取る。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a policy dividend",
+          "use": "保険契約に基づく配当を特定する。",
+          "example": "The statement shows the policy dividend for the year.",
+          "translation": "明細書にはその年の保険契約者配当が示されている。"
+        },
+        {
+          "pattern": "pay a dividend to policyholders",
+          "use": "会社から契約者への支払いをいう。",
+          "example": "The insurer paid a dividend to eligible policyholders.",
+          "translation": "その保険会社は対象となる契約者に配当を支払った。"
+        }
+      ],
+      "notes": [
+        "保険会社から出る支払い全般の名称ではない。保険金、保険料の返還、株主配当を一律に policy dividend と呼ばない。配当の有無・保証・処理・税務は商品や制度によるため、この語だけから推測しない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞：可算】債権者への配当",
+      "frequency": 4,
+      "register": [
+        "倒産・清算の専門用法。in the pound は英国英語の金額表示。"
+      ],
+      "definition": "倒産・清算などで、債務者の財産から債権者に分配される金銭。ここで受け取るのは株主としての利益ではなく、債権者としての支払いである。",
+      "patterns": [
+        "pay a dividend to creditors＝債権者に配当を支払う",
+        "a dividend of 〈額〉 in the pound＝債権額1ポンドにつきその額の配当",
+        "receive a dividend from the estate＝財産から配当を受け取る。"
+      ],
+      "collocations": [
+        {
+          "pattern": "pay a dividend to creditors",
+          "use": "清算における債権者への分配をいう。",
+          "example": "The liquidator expects to pay a dividend to creditors later this year.",
+          "translation": "清算人は今年の後半に債権者への配当を支払う見込みだ。"
+        },
+        {
+          "pattern": "a dividend of 〈額〉 in the pound",
+          "use": "英国の表現で債権額に対する配当割合を示す。",
+          "example": "The liquidator paid a dividend of 20 pence in the pound to unsecured creditors.",
+          "translation": "清算人は無担保債権者に、債権額1ポンドにつき20ペンスの配当を支払った。"
+        }
+      ],
+      "notes": [
+        "20 pence in the pound は額面1ポンドに対して20ペンス、つまり20％という意味で、20ポンドではない。株主への利益配当と取り違えない。債権者の順位、配当を受ける条件、手続きは法域・制度ごとに異なり、dividend という語だけでは決まらない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞：可算】協同組合の配当",
+      "frequency": 4,
+      "register": [
+        "協同組合・組合会計の用法。"
+      ],
+      "definition": "協同組合の剰余から組合員などに割り当てられる取り分。patronage dividend は利用・取引の高などに応じた配当をいう。株式会社の株数に応じた配当と同じ仕組みだとは限らない。",
+      "patterns": [
+        "a patronage dividend＝利用高などに応じた配当",
+        "pay a dividend to members＝組合員に配当を支払う",
+        "receive a dividend from a cooperative＝協同組合から配当を受け取る。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a patronage dividend",
+          "use": "組合との取引に基づく配当を示す。",
+          "example": "The cooperative paid patronage dividends to its members.",
+          "translation": "協同組合は組合員に利用高配当を支払った。"
+        },
+        {
+          "pattern": "pay a dividend to members",
+          "use": "協同組合から組合員への分配をいう。",
+          "example": "The cooperative paid a dividend to members after a profitable year.",
+          "translation": "協同組合は利益の出た年の後に、組合員へ配当を支払った。"
+        }
+      ],
+      "notes": [
+        "patronage はここでは組合の利用・取引に関する語で、単なる後援者への謝礼ではない。dividend の受取人が members なら、株主や保険契約者と決めつけない。支払いの形態や税務上の扱いは、個別の制度・契約による。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【名詞：可算】被除数",
+      "frequency": 4,
+      "register": [
+        "数学・算数の専門用法。"
+      ],
+      "definition": "割り算で割られる数。たとえば 20 を 4 で割る場合の 20。割る数 divisor「除数」や、答え quotient「商」と区別する。",
+      "patterns": [
+        "the dividend in a division＝割り算の被除数",
+        "divide the dividend by the divisor＝被除数を除数で割る",
+        "a dividend of 〈数〉＝その数を被除数とすること。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the dividend in a division",
+          "use": "計算内での役割を指定する。",
+          "example": "In twenty divided by four, twenty is the dividend.",
+          "translation": "20割る4では、20が被除数だ。"
+        },
+        {
+          "pattern": "divide the dividend by the divisor",
+          "use": "割り算の役割を明示する。",
+          "example": "Divide the dividend by the divisor to find the quotient.",
+          "translation": "商を求めるには、被除数を除数で割ります。"
+        }
+      ],
+      "notes": [
+        "dividend は割られる数、divisor は割る数、quotient は商、remainder は余り。これらは対になる関連用語であり、類義語・反意語ではない。金融の「配当額」と訳さない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}

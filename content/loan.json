@@ -1,0 +1,446 @@
+{
+  "word": "loan",
+  "slug": "loan",
+  "ipa": "米: /loʊn/｜英: /ləʊn/。名詞・動詞ともに1音節。第1音節の二重母音が米語では /oʊ/、英国英語では /əʊ/ となる。lone「一人の・単独の」と同音。",
+  "lead": "後に返済する約束で貸し借りされる金銭、またその融資。貸し手からは「貸付金」、借り手からは「借入金」と訳せる。銀行などによるものが典型的だが、個人間でも使い、利息の有無は loan という語だけでは決まらない。",
+  "updated": "2026-10-12",
+  "notion_url": "https://app.notion.com/p/loan-3f74faa9b77d811bab6df8fce83464b7",
+  "pronunciation": [
+    "複数形・三人称単数現在形 loans の語尾は /z/、過去形・過去分詞 loaned の語尾は /d/。loaning では n を重ねない。"
+  ],
+  "etymology": [
+    "中英語 lone を経て、古ノルド語 lán「貸されたもの」に由来する。古英語の同系語 læn「貸与・贈与」とも関係があり、英語の lend「貸す」は同じゲルマン語系統につながる。動詞 loan は名詞から作られた。",
+    "古い語形には贈与の意味もあったが、現代の一般的な loan は返還・返済を予定する貸し借りを表す。語義6の借用語では、言葉を返すという意味はない。"
+  ],
+  "formation": [
+    {
+      "term": "loaner",
+      "description": "米語で、一時的に貸し出される代替品などを表す可算名詞。修理中に借りる代車などに使う。"
+    },
+    {
+      "term": "loanword",
+      "description": "他の言語から取り入れた借用語を表す可算の複合名詞。"
+    },
+    {
+      "term": "loan translation",
+      "description": "外国語の構成要素を訳して作る借用表現を表す可算名詞。「翻訳借用」ともいう。"
+    },
+    {
+      "term": "loan shark",
+      "description": "非常に高い利息などで金を貸す悪質な貸金業者を表す可算の複合名詞。批判的な表現。"
+    },
+    {
+      "term": "loanable",
+      "description": "貸し付けることのできるという形容詞。loanable funds「貸付可能資金」など、主に経済・金融で使う。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "「提供元から利用先へ何かが渡ること、また渡されたもの」が共通核。通常の金銭・物・人材では期間や返済・返還を伴う利用関係を表し、言語では借用元から取り入れたものを表す。"
+    },
+    {
+      "type": "item",
+      "text": "提供元から利用先へ渡る資金 → 「貸付金・借入金・融資」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "提供元から利用先へ渡る物の貸し借り → 「貸与・貸出し・借用品」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "提供元から利用先へ渡る人材の配置 → 「期限付き移籍・一時的な派遣」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "提供元から利用先へ金銭や物を渡す行為 → 「貸す・貸し付ける」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "提供元から利用先へ選手を渡す行為 → 「選手を期限付きで移籍させる」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "提供元から利用先へ入った言語表現 → 「借用語・借用表現」（語義6）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算】貸付金・借入金・融資",
+      "frequency": 9,
+      "register": [
+        "一般・家計・ビジネス・金融。"
+      ],
+      "definition": "後に返済する約束で貸し借りされる金銭、またその融資。貸し手からは「貸付金」、借り手からは「借入金」と訳せる。銀行などによるものが典型的だが、個人間でも使い、利息の有無は loan という語だけでは決まらない。",
+      "patterns": [
+        "take out a loan＝融資を受ける・ローンを組む",
+        "apply for a loan＝融資を申し込む",
+        "a loan of 〈金額〉＝その金額の貸付金・借入金",
+        "a loan from someone＝人や組織からの借入れ",
+        "a loan to someone＝人や組織への貸付け",
+        "repay a loan＝融資を返済する",
+        "pay interest on a loan＝融資に対する利息を払う",
+        "an interest-free loan＝無利息の融資",
+        "a student loan＝学生向けの教育ローン"
+      ],
+      "collocations": [
+        {
+          "pattern": "take out a loan",
+          "use": "借り手が融資を受けることを述べる。",
+          "example": "The bakery took out a loan to buy a new oven.",
+          "translation": "そのパン店は、新しいオーブンを買うために融資を受けた。"
+        },
+        {
+          "pattern": "apply for a loan",
+          "use": "借入れの申し込みを述べる。",
+          "example": "They applied for a loan, but the bank has not made a decision yet.",
+          "translation": "彼らは融資を申し込んだが、銀行はまだ判断を下していない。"
+        },
+        {
+          "pattern": "a loan of 〈金額〉",
+          "use": "貸し借りする額を示す。",
+          "example": "A loan of 5,000 euros covered the initial equipment costs.",
+          "translation": "5,000ユーロの融資で、最初の設備費をまかなえた。"
+        },
+        {
+          "pattern": "a loan from someone",
+          "use": "資金を貸す側を from で示す。",
+          "example": "She started the business with a loan from a friend.",
+          "translation": "彼女は、友人からの借入金で事業を始めた。"
+        },
+        {
+          "pattern": "a loan to someone",
+          "use": "資金を受け取る側を to で示す。",
+          "example": "The bank approved a loan to the housing association.",
+          "translation": "銀行は、その住宅協会への融資を承認した。"
+        },
+        {
+          "pattern": "repay a loan",
+          "use": "借りた資金を返すことを述べる。",
+          "example": "He repaid the loan over three years.",
+          "translation": "彼は3年かけて融資を返済した。"
+        },
+        {
+          "pattern": "pay interest on a loan",
+          "use": "借入れに伴う利息の支払いを述べる。",
+          "example": "The company pays interest on the loan every month.",
+          "translation": "その会社は、融資に対する利息を毎月払っている。"
+        },
+        {
+          "pattern": "an interest-free loan",
+          "use": "利息のない貸し借りを明示する。",
+          "example": "The employer offered an interest-free loan for the cost of a season ticket.",
+          "translation": "雇用主は、定期券の費用について無利息の貸付けを申し出た。"
+        },
+        {
+          "pattern": "a student loan",
+          "use": "学生の教育費に使う借入れを指す。",
+          "example": "Her student loan helped cover her tuition fees.",
+          "translation": "彼女の学生ローンは、授業料をまかなう助けになった。"
+        }
+      ],
+      "notes": [
+        "loan は金額が大きくても不可算にはせず、通常 a loan、two loans と数える。apply for a loan は申し込みであり、承認や入金まで意味しない。give someone a loan、make a loan to someone は貸す側、get a loan、take out a loan は借りる側の動作。対照表現の debt は支払うべき債務や残高を指し、loan と完全には一致しない。secured loan は担保付きの融資、unsecured loan は無担保の融資であり、secured が「返済が保証されて安全」という評価を意味するわけではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "advance",
+          "definition": "後に精算・返済されることを予定して、先に渡す金銭。",
+          "frequency": 6,
+          "difference": "本来の受取時期より早い支払いや、将来の収入に対する前渡しに焦点がある。loan は時期の前倒しを必ずしも含まない。",
+          "example": "She received an advance on her next month's salary.",
+          "translation": "彼女は、翌月の給料の前払いを受けた。"
+        },
+        {
+          "word": "credit",
+          "definition": "後に支払う約束で金銭や商品・サービスを利用できる信用供与。",
+          "frequency": 8,
+          "difference": "loan が個々の融資を表すのに対し、credit は借入枠や掛け取引なども含む広い仕組みを指す。通常不可算。",
+          "example": "The supplier extended credit to its regular customers.",
+          "translation": "その供給業者は、常連の顧客に掛け払いを認めた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算／不可算】貸与・貸出し・借用品",
+      "frequency": 7,
+      "register": [
+        "一般・図書館・美術館や博物館。"
+      ],
+      "definition": "物を一時的に貸す・借りること、貸し出されている状態、また貸し借りされる物。the loan of something のように特定の貸与を表し、on loan は「貸出し中で・借り受けて」と状態を示す。博物館などでは、借り受けた作品自体を a loan と呼ぶこともある。",
+      "patterns": [
+        "the loan of something＝何かの貸与",
+        "on loan from someone/something＝人や組織から借り受けて",
+        "on loan to someone/something＝人や組織に貸し出されて",
+        "a long-term loan＝長期間の貸与・借用品",
+        "a loan period＝貸出期間"
+      ],
+      "collocations": [
+        {
+          "pattern": "the loan of something",
+          "use": "具体的な物を貸してもらうことを述べる。",
+          "example": "Thank you for the loan of your ladder.",
+          "translation": "はしごを貸してくださって、ありがとうございます。"
+        },
+        {
+          "pattern": "on loan from someone/something",
+          "use": "借用品の提供元を示す。",
+          "example": "The bronze figure is on loan from a private collection.",
+          "translation": "そのブロンズ像は、個人のコレクションから借り受けているものだ。"
+        },
+        {
+          "pattern": "on loan to someone/something",
+          "use": "貸出先を示す。",
+          "example": "The manuscript is on loan to a university museum.",
+          "translation": "その写本は、大学の博物館に貸し出されている。"
+        },
+        {
+          "pattern": "a long-term loan",
+          "use": "長く借り受ける作品などを指す。",
+          "example": "Several paintings in the exhibition are long-term loans from local collectors.",
+          "translation": "展覧会に出ている絵画のうち数点は、地元の収集家からの長期借用品だ。"
+        },
+        {
+          "pattern": "a loan period",
+          "use": "図書などを借りていられる期間を述べる。",
+          "example": "The library extended the loan period for research materials.",
+          "translation": "図書館は、研究資料の貸出期間を延長した。"
+        }
+      ],
+      "notes": [
+        "on loan には通常冠詞を置かず、on a loan へ置き換えない。from は元の提供者、to は利用先を示すので、on loan from the museum と on loan to the museum は向きが逆になる。a loan of money は語義1、the loan of a camera は本義。loan 自体は名詞なので、主語と時制を伴って「貸した」と言うなら語義4の loaned を使う。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算／不可算】期限付き移籍・一時的な派遣",
+      "frequency": 5,
+      "register": [
+        "主にスポーツ。組織間の人員配置にも使う。"
+      ],
+      "definition": "選手が所属元との関係を保ちながら一定期間別のクラブで活動すること、また人が別の組織や部署へ一時的に配置されること。特にサッカーの on loan は「期限付き移籍で」と訳す。",
+      "patterns": [
+        "on loan from 〈所属元〉＝所属元から期限付きで移って",
+        "on loan to 〈移籍先・派遣先〉＝移籍先・派遣先へ一時的に移って",
+        "join a club on loan＝期限付き移籍でクラブに加入する",
+        "a season-long loan＝1シーズンの期限付き移籍"
+      ],
+      "collocations": [
+        {
+          "pattern": "on loan from 〈所属元〉",
+          "use": "選手の元の所属先を示す。",
+          "example": "The goalkeeper is on loan from a club in Spain.",
+          "translation": "そのゴールキーパーは、スペインのクラブから期限付きで移籍している。"
+        },
+        {
+          "pattern": "on loan to 〈移籍先・派遣先〉",
+          "use": "人が一時的に働く別の部署を示す。",
+          "example": "Two analysts are on loan to the audit department for a month.",
+          "translation": "アナリスト2人が、1か月間、監査部門に一時的に派遣されている。"
+        },
+        {
+          "pattern": "join a club on loan",
+          "use": "期限付きでチームに加わることを述べる。",
+          "example": "The striker joined the club on loan in January.",
+          "translation": "そのストライカーは、1月に期限付き移籍でそのクラブに加入した。"
+        },
+        {
+          "pattern": "a season-long loan",
+          "use": "移籍期間を明示する。",
+          "example": "The midfielder agreed to a season-long loan.",
+          "translation": "そのミッドフィールダーは、1シーズンの期限付き移籍に同意した。"
+        }
+      ],
+      "notes": [
+        "選手が対象でも貸付金の話ではない。on loan は名詞を含む前置詞句で状態を表し、loan the player to another club は語義5の他動詞構文。所有権のような物の概念を人にそのまま当てはめず、給与・費用・登録などの詳細も loan という語だけから決めない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞・他動詞／自動詞】貸す・貸し付ける",
+      "frequency": 7,
+      "register": [
+        "一般的な貸し借りでは特に米語。英国英語でも美術品などを機関に貸し出す意味で使う。金融・図書館でも使用。"
+      ],
+      "definition": "返還・返済を予定して、金銭や物を人・組織に一時的に提供する。主語は貸す側。物や金銭を目的語にする他動詞が中心で、金融文脈では目的語を示さずに「融資する」と使うこともある。",
+      "patterns": [
+        "loan someone something＝人に何かを貸す",
+        "loan something to someone＝何かを人に貸す",
+        "loan something out to someone＝何かを人に貸し出す",
+        "loan out something＝何かを貸し出す",
+        "loan it out＝それを貸し出す",
+        "be loaned to someone/something＝人や組織に貸し出される",
+        "loan to 〈借り手〉＝その借り手に融資する"
+      ],
+      "collocations": [
+        {
+          "pattern": "loan someone something",
+          "use": "貸す相手を先に、物や金額を後に置く。",
+          "example": "My neighbour loaned me a drill for the afternoon.",
+          "translation": "近所の人が、その日の午後使うためにドリルを貸してくれた。"
+        },
+        {
+          "pattern": "loan something to someone",
+          "use": "貸すものを先に置き、受け手を to で示す。",
+          "example": "The bank loaned 40,000 dollars to the shop owner.",
+          "translation": "銀行は、その店の経営者に4万ドルを貸し付けた。"
+        },
+        {
+          "pattern": "loan something out to someone",
+          "use": "美術品などを施設へ貸し出す。",
+          "example": "The collector loaned the sculpture out to a regional museum.",
+          "translation": "その収集家は、彫刻を地方の博物館に貸し出した。"
+        },
+        {
+          "pattern": "loan out something",
+          "use": "貸出しサービスなどを述べる。",
+          "example": "The library loans out cameras as well as books.",
+          "translation": "その図書館は、本だけでなくカメラも貸し出している。"
+        },
+        {
+          "pattern": "loan it out",
+          "use": "代名詞目的語を loan と out の間に置く。",
+          "example": "I need the projector tomorrow, so please don't loan it out today.",
+          "translation": "明日そのプロジェクターが必要なので、今日は貸し出さないでください。"
+        },
+        {
+          "pattern": "be loaned to someone/something",
+          "use": "貸し出された物を主語にする。",
+          "example": "The painting was loaned to the gallery for six months.",
+          "translation": "その絵は、6か月間、その美術館に貸し出された。"
+        },
+        {
+          "pattern": "loan to 〈借り手〉",
+          "use": "目的語の金銭を明示せず、融資先を述べる。",
+          "example": "The institution loans to small businesses in rural areas.",
+          "translation": "その機関は、農村地域の小規模事業者に融資している。"
+        }
+      ],
+      "notes": [
+        "loan は標準的な動詞であり、「名詞でしか使えない」としない。ただし、一般の物を貸す意味は米語で特に多く、英国英語では lend が広く使われる。英国英語でも美術館などへの作品貸与では loan が普通に使われる。loan out は分離可能で、loan out the camera と loan the camera out が可能だが、通常の代名詞は loan it out とし、loan out it とはしない。対照表現の borrow は借りる側が主語で、I loaned her a book.「私は彼女に本を貸した」に対し She borrowed a book from me.「彼女は私から本を借りた」となる。lend a hand「手を貸す」や lend credibility to「信憑性を与える」の lend を、機械的に loan に置き換えない。"
+      ],
+      "synonyms": [
+        {
+          "word": "lend",
+          "definition": "返還・返済を予定して、物や金銭を一時的に人に使わせる。",
+          "frequency": 9,
+          "difference": "米英で広く使える基本語で、lent という不規則活用をする。loan は loaned と規則変化し、比喩的な「与える」では lend ほど使わない。",
+          "example": "Could you lend me your charger until lunchtime?",
+          "translation": "お昼まで充電器を貸してもらえますか。"
+        },
+        {
+          "word": "advance",
+          "definition": "金銭を前もって貸す・支給する。",
+          "frequency": 5,
+          "difference": "将来受け取る収入や後の精算を見込んで先に渡すことに焦点がある。物一般を一時的に貸す意味には使わない。",
+          "example": "The employer advanced her the money for the train fare.",
+          "translation": "雇用主は、彼女に電車代を前渡しした。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【動詞・他動詞】選手を期限付きで移籍させる",
+      "frequency": 4,
+      "register": [
+        "スポーツ、特にサッカーの報道。"
+      ],
+      "definition": "クラブなどが、所属する選手を一定期間ほかのクラブで活動させる。選手を直接目的語にし、to で受入先を示す。loan out の形も使う。",
+      "patterns": [
+        "loan a player to a club＝選手をクラブに期限付きで移籍させる",
+        "loan a player out＝選手を期限付き移籍に出す",
+        "loan someone out to a club＝人をクラブに期限付きで移籍させる",
+        "be loaned to a club＝クラブに期限付きで移籍する"
+      ],
+      "collocations": [
+        {
+          "pattern": "loan a player to a club",
+          "use": "所属元が選手を送り出すことを述べる。",
+          "example": "The club loaned its reserve goalkeeper to a second-division side.",
+          "translation": "そのクラブは、控えのゴールキーパーを2部のチームへ期限付きで移籍させた。"
+        },
+        {
+          "pattern": "loan a player out",
+          "use": "移籍先を言わず、選手を貸し出すことを述べる。",
+          "example": "The manager decided to loan the young striker out for a season.",
+          "translation": "監督は、その若いストライカーを1シーズンの期限付き移籍に出すことを決めた。"
+        },
+        {
+          "pattern": "loan someone out to a club",
+          "use": "代名詞を out の前に置いて移籍先を示す。",
+          "example": "His club loaned him out to a team where he could play more regularly.",
+          "translation": "彼の所属クラブは、もっと定期的に出場できるチームへ彼を期限付きで移籍させた。"
+        },
+        {
+          "pattern": "be loaned to a club",
+          "use": "選手側を主語にして移籍を述べる。",
+          "example": "The defender was loaned to a club in Portugal.",
+          "translation": "そのディフェンダーは、ポルトガルのクラブへ期限付きで移籍した。"
+        }
+      ],
+      "notes": [
+        "loan him out の him は移籍する本人であり、語義4の loan him a car の him「車を借りる人」とは役割が異なる。loan out him とはしない。be loaned to は動詞の受動態、be on loan to は語義3の名詞を使った状態表現で、中心の出来事は対応する。動詞 loan だけで完全移籍を意味しない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【名詞・可算】借用語・借用表現",
+      "frequency": 3,
+      "register": [
+        "言語学・語源の説明。"
+      ],
+      "definition": "ある言語が、別の言語から取り入れた語や表現。言語学で loanword の短い呼び方として使う。金銭の融資や、後で返す物ではない。",
+      "patterns": [
+        "a loan from 〈言語〉＝その言語からの借用語",
+        "a 〈言語名の形容詞〉 loan＝その言語に由来する借用語"
+      ],
+      "collocations": [
+        {
+          "pattern": "a loan from 〈言語〉",
+          "use": "語の借用元を示す。",
+          "example": "In English, “piano” is a loan from Italian.",
+          "translation": "英語の piano は、イタリア語からの借用語だ。"
+        },
+        {
+          "pattern": "a 〈言語名の形容詞〉 loan",
+          "use": "借用元を形容詞で示す。",
+          "example": "The chapter discusses French loans in English vocabulary.",
+          "translation": "その章は、英語の語彙に含まれるフランス語からの借用語を論じている。"
+        }
+      ],
+      "notes": [
+        "from の後は言語名、a French loan の French は借用元を表す修飾語。借用後に発音や意味が変わっていても loan と呼べる。言語学以外では loanword のほうが、金銭の loan との混同を避けやすい。"
+      ],
+      "synonyms": [
+        {
+          "word": "loanword",
+          "definition": "他の言語から取り入れられた語。",
+          "frequency": 5,
+          "difference": "言葉の借用だと明示する語で、この語義の loan より一般の読者にも意味が伝わりやすい。",
+          "example": "“Robot” is a loanword from Czech.",
+          "translation": "robot は、チェコ語からの借用語だ。"
+        },
+        {
+          "word": "borrowing",
+          "definition": "他の言語から取り入れた語・表現。",
+          "frequency": 4,
+          "difference": "可算では取り入れられた項目、不可算では借用の過程も表す。loan は通常、借用された項目を指す。",
+          "example": "The dictionary marks recent borrowings from Japanese.",
+          "translation": "その辞書は、近年日本語から借用された語に印を付けている。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

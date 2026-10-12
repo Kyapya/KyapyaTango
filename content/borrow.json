@@ -1,0 +1,503 @@
+{
+  "word": "borrow",
+  "slug": "borrow",
+  "ipa": "米: /ˈbɑːr.oʊ/｜英: /ˈbɒr.əʊ/。2音節で、第1音節に強勢を置く。示した米英の代表形では、第1音節の母音が /ɑː/ と /ɒ/、第2音節の二重母音が /oʊ/ と /əʊ/ で異なる。米語には第1音節の母音を /ɔ/ とする変異もある。r は後ろに母音が続くため、ここに示した英国英語でも発音する。",
+  "lead": "後で同じ物、または同等のものを返すつもりで、人や組織から物を受け取り、一時的に使う。主語は借り手、目的語は借りる物、from の後は貸し手。実際に返却し終えたことまでは含まない。",
+  "updated": "2026-10-12",
+  "notion_url": "https://app.notion.com/p/borrow-3f74faa9b77d810cbd59e5c7ca5090a6",
+  "pronunciation": [
+    "過去形・過去分詞は borrowed、現在分詞は borrowing。borrowed の語尾は /d/、borrows の語尾は /z/ で、borrowed に新たな音節を加えない。"
+  ],
+  "etymology": [
+    "中英語 borwen・borowen、古英語 borgian にさかのぼる。古英語の borg「担保・保証」に基づく語で、古い用法には貸す側・借りる側に関係する意味があった。現代の標準英語では、借りる側を主語にする。",
+    "語源上は、古英語の「守る」という語に関係する bury「埋める」と同系とされる。ただし borrow を現代英語の bury から作った語として分解することはできず、綴りの似た sorrow「悲しみ」とも別に扱う。"
+  ],
+  "formation": [
+    {
+      "term": "borrower",
+      "description": "金銭や物を借りる人・組織を表す可算名詞。貸す側は lender。"
+    },
+    {
+      "term": "borrowing",
+      "description": "借入れ・借用という行為を表す不可算名詞。可算では他の言語や作品から取り入れた語・要素を指す。"
+    },
+    {
+      "term": "borrowings",
+      "description": "金融文脈で借入金や借入れの総額を表す複数形名詞。言語・芸術では複数の借用要素も指す。"
+    },
+    {
+      "term": "borrowed",
+      "description": "borrow の過去形・過去分詞。borrowed equipment「借りた機器」、borrowed words「借用された語」のように名詞を修飾する。borrowed time は語義5の慣用表現で扱う。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "「本来自分の手元にないものを、自分の側に取り入れる」が共通核。物・お金は返還を予定して借り、発想・言葉は自分の使用に取り入れる。算数では上の位から数を移し、慣用表現では猶予の時間や余計な心配・厄介事を自分のものとして抱える。また、beg, borrow, or steal は利用可能な手段を尽くして手に入れることを表す。"
+    },
+    {
+      "type": "item",
+      "text": "手元にない物を一時的に取り入れること → 「物を借りる」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "手元にない資金を返済予定で取り入れること → 「金を借りる・借り入れる」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "手元にない他者の要素を取り入れること → 「借用する・取り入れる」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "下の位にない数を上の位から取り入れること → 「繰り下がりで借りる」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "本来残らない時間を猶予として取り入れること → 「予想以上に生き延びる・長くはもたない」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "まだ起きていない心配を取り入れること → 「取り越し苦労をする」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "抱えなくてよい厄介事を取り入れること → 「余計な厄介事を招く」（語義7）"
+    },
+    {
+      "type": "item",
+      "text": "手元にないものを手段を尽くして取り入れること → 「何としてでも手に入れる」（語義8）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞】物を借りる",
+      "frequency": 9,
+      "register": [
+        "一般・日常会話・図書館など。"
+      ],
+      "definition": "後で同じ物、または同等のものを返すつもりで、人や組織から物を受け取り、一時的に使う。主語は借り手、目的語は借りる物、from の後は貸し手。実際に返却し終えたことまでは含まない。",
+      "patterns": [
+        "borrow something＝何かを借りる",
+        "borrow something from someone＝人から何かを借りる",
+        "borrow something from 〈施設〉＝施設から何かを借りる",
+        "borrow something for 〈期間〉＝その期間何かを借りる",
+        "borrow something until 〈時点〉＝その時点まで何かを借りる",
+        "Can I borrow something?＝何かを借りてもよいですか"
+      ],
+      "collocations": [
+        {
+          "pattern": "borrow something",
+          "use": "借りる物を直接目的語にする。",
+          "example": "I borrowed an umbrella because I had left mine at home.",
+          "translation": "自分の傘を家に置いてきたので、傘を借りた。"
+        },
+        {
+          "pattern": "borrow something from someone",
+          "use": "貸してくれる人を示す。",
+          "example": "We borrowed a tent from our neighbours for the trip.",
+          "translation": "私たちは旅行のために、近所の人たちからテントを借りた。"
+        },
+        {
+          "pattern": "borrow something from 〈施設〉",
+          "use": "図書館などからの借用を述べる。",
+          "example": "She borrowed three books from the university library.",
+          "translation": "彼女は、大学図書館から本を3冊借りた。"
+        },
+        {
+          "pattern": "borrow something for 〈期間〉",
+          "use": "使用する長さを for で示す。",
+          "example": "Could I borrow your laptop for an hour?",
+          "translation": "ノートパソコンを1時間借りてもいいですか。"
+        },
+        {
+          "pattern": "borrow something until 〈時点〉",
+          "use": "借りておきたい期限を示す。",
+          "example": "Can I borrow these chairs until Monday?",
+          "translation": "月曜日まで、この椅子を借りてもいいですか。"
+        },
+        {
+          "pattern": "Can I borrow something?",
+          "use": "借りる許可を求める。",
+          "example": "Can I borrow a pen to fill in this form?",
+          "translation": "この用紙に記入するために、ペンを借りてもいいですか。"
+        }
+      ],
+      "notes": [
+        "標準英語では borrow me a pen を「私にペンを貸して」の意味に使わず、Lend me a pen. または Can I borrow a pen? とする。方言には「貸す」の borrow もあるが、一般の学習用構文とは分ける。貸し手は通常 from で示し、誤りの borrow a book to her は、借りるなら borrow a book from her、貸すなら lend a book to her と直す。I borrowed her camera. は「彼女のカメラを借りた」で、her camera 全体が目的語。borrow と rent は同じではなく、rent は料金を払って使うことを明示する。borrow a cup of sugar のような消耗品では、同じ現物でなく同量などを返す想定になる。借りる行為と所有・使用の継続も区別する。I've borrowed this book several times. は複数回の借用を表すが、借りている状態が2週間続いていることは I've had this book for two weeks. などで表す。borrowed の過去分詞は a borrowed camera のように名詞を修飾でき、The camera was borrowed from a colleague. は通常の受動態。"
+      ],
+      "synonyms": [
+        {
+          "word": "check out",
+          "definition": "図書館などで正式な手続きをして資料を借り出す。",
+          "frequency": 7,
+          "difference": "特に米語で、貸出し手続きを伴う図書などに使う。borrow は個人間の道具・衣服などの貸し借りにも使える。",
+          "example": "You can check out up to six books at a time.",
+          "translation": "一度に最大6冊まで本を借りられます。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【動詞・他動詞／自動詞】金を借りる・借り入れる",
+      "frequency": 9,
+      "register": [
+        "一般・家計・ビジネス・金融。"
+      ],
+      "definition": "後で返済するつもりで金銭を受け取る。個人間でも銀行などからの借入れでも使う。金銭・金額を目的語にするほか、自動詞として借入れをするという活動を述べる。利息を付けることが多いが、borrow 自体が必ず利息を要求するわけではない。",
+      "patterns": [
+        "borrow money from someone＝人や組織から金を借りる",
+        "borrow 〈金額〉＝その金額を借りる",
+        "borrow from 〈金融機関〉＝金融機関から借り入れる",
+        "borrow heavily＝多額の借入れをする",
+        "borrow to do something＝何かをするために借り入れる",
+        "borrow at 〈利率〉＝その利率で借りる",
+        "borrow against 〈担保資産〉＝資産を担保に借り入れる",
+        "borrow 〈金額〉 against 〈担保資産〉＝資産を担保にその金額を借り入れる"
+      ],
+      "collocations": [
+        {
+          "pattern": "borrow money from someone",
+          "use": "貸してくれる人・組織を示す。",
+          "example": "He borrowed money from a colleague to cover the repair bill.",
+          "translation": "彼は修理代をまかなうために、同僚から金を借りた。"
+        },
+        {
+          "pattern": "borrow 〈金額〉",
+          "use": "借入額を直接目的語にする。",
+          "example": "The company borrowed 200,000 dollars for the expansion.",
+          "translation": "その会社は、事業拡大のために20万ドルを借り入れた。"
+        },
+        {
+          "pattern": "borrow from 〈金融機関〉",
+          "use": "目的語の money を明示せず、借入先を述べる。",
+          "example": "The cooperative borrows from a regional bank.",
+          "translation": "その協同組合は、地方銀行から借り入れをしている。"
+        },
+        {
+          "pattern": "borrow heavily",
+          "use": "借入額が大きいことを述べる。",
+          "example": "The business borrowed heavily during its first two years.",
+          "translation": "その事業は、最初の2年間に多額の借入れをした。"
+        },
+        {
+          "pattern": "borrow to do something",
+          "use": "借入れの目的を不定詞で示す。",
+          "example": "The council plans to borrow to repair the bridge.",
+          "translation": "その自治体は、橋を修理するために借入れをする予定だ。"
+        },
+        {
+          "pattern": "borrow at 〈利率〉",
+          "use": "借入条件としての利率を示す。",
+          "example": "The company was able to borrow at a lower interest rate than before.",
+          "translation": "その会社は、以前より低い金利で借り入れることができた。"
+        },
+        {
+          "pattern": "borrow against 〈担保資産〉",
+          "use": "担保にする資産を against の後に置く。",
+          "example": "The owners borrowed against their property to fund the renovation.",
+          "translation": "所有者たちは、改修資金をまかなうために自分たちの不動産を担保に借り入れた。"
+        },
+        {
+          "pattern": "borrow 〈金額〉 against 〈担保資産〉",
+          "use": "借入額と担保資産の両方を示す。",
+          "example": "The firm borrowed 80,000 pounds against its warehouse.",
+          "translation": "その企業は、倉庫を担保に8万ポンドを借り入れた。"
+        }
+      ],
+      "notes": [
+        "borrow against は担保を使う借入れで、against の目的語は貸し手ではない。from は借入先、against は担保の関係を表す。against は前置詞なので、代名詞も borrow against it とし、borrow it against という語順で「それを担保に借りる」とはしない。担保に関する具体的な権利や手続きは契約・制度による。borrow to buy の to buy は借入れの目的を示す。購入資金を誰かから借りるなら borrow money from someone to buy something とし、貸し手は from の後に置く。対照表現 lend では貸し手が主語となり、She borrowed money from the bank. に対して The bank lent money to her. となる。返済しなかった場合にも borrowed は使える。"
+      ],
+      "synonyms": [
+        {
+          "word": "take out a loan",
+          "definition": "融資を受けて借入れをする。",
+          "frequency": 8,
+          "difference": "一件の融資を組むことを明示する。borrow は友人から少額を借りる場合にも使え、目的語に金額を直接置ける。",
+          "example": "They took out a loan to replace the heating system.",
+          "translation": "彼らは、暖房設備を交換するために融資を受けた。"
+        },
+        {
+          "word": "raise a loan",
+          "definition": "必要な資金を融資によって調達する。",
+          "frequency": 5,
+          "difference": "借入れを資金調達の手段として捉える、やや改まった表現。borrow より組織的な資金調達の文脈で使われやすい。",
+          "example": "The association raised a loan to purchase the building.",
+          "translation": "その協会は、建物を購入するために融資を受けて資金を調達した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞・他動詞／自動詞】借用する・取り入れる",
+      "frequency": 7,
+      "register": [
+        "一般・学術・芸術・言語の説明。"
+      ],
+      "definition": "他者の発想・手法・表現・作品の要素、または別の言語の語などを取り入れて使う。自分が一から作ったものでないことを示すが、必ずしも盗用や不正を意味しない。物の貸し借りと違い、後で返すという含意はない。",
+      "patterns": [
+        "borrow something from 〈人物・作品・分野〉＝人物・作品・分野から何かを取り入れる",
+        "borrow a word from 〈言語〉＝その言語から語を借用する",
+        "borrow heavily from something＝何かから多くの要素を取り入れる",
+        "be borrowed from something＝何かから借用されている",
+        "to borrow someone's phrase＝人の表現を借りれば",
+        "borrow a page from someone's book＝人のやり方を見習う"
+      ],
+      "collocations": [
+        {
+          "pattern": "borrow something from 〈人物・作品・分野〉",
+          "use": "アイデアや技法の由来を示す。",
+          "example": "The architect borrowed ideas from traditional wooden houses.",
+          "translation": "その建築家は、伝統的な木造家屋から着想を取り入れた。"
+        },
+        {
+          "pattern": "borrow a word from 〈言語〉",
+          "use": "言語間の語彙の借用を述べる。",
+          "example": "English borrowed the word “ballet” from French.",
+          "translation": "英語は、ballet という語をフランス語から借用した。"
+        },
+        {
+          "pattern": "borrow heavily from something",
+          "use": "目的語を明示せず、借用の源と程度を示す。",
+          "example": "The film's visual style borrows heavily from silent cinema.",
+          "translation": "その映画の映像表現は、無声映画から多くの要素を取り入れている。"
+        },
+        {
+          "pattern": "be borrowed from something",
+          "use": "取り入れられた要素を主語にする。",
+          "example": "Several design principles were borrowed from biology.",
+          "translation": "いくつかの設計原理は、生物学から取り入れられた。"
+        },
+        {
+          "pattern": "to borrow someone's phrase",
+          "use": "他者の言い回しを引用・援用する前置き。",
+          "example": "To borrow my tutor's phrase, the argument needs a clearer backbone.",
+          "translation": "指導教員の言葉を借りれば、その議論にはもっとはっきりした骨組みが必要だ。"
+        },
+        {
+          "pattern": "borrow a page from someone's book",
+          "use": "他者の方法を手本にすることを比喩的に述べる。",
+          "example": "Our team borrowed a page from the designers' book and tested several rough prototypes.",
+          "translation": "私たちのチームはデザイナーたちのやり方を見習い、いくつかの粗い試作品を試した。"
+        }
+      ],
+      "notes": [
+        "borrow from の from は借用元で、金銭の語義2でも使う。borrow from a bank なら借入れ、borrow from jazz なら音楽的要素の取り入れが普通で、前置詞だけでは語義を決められない。borrow a page from someone's book は本の実物を借りる必要がなく、同義の take a page from someone's book もある。borrowed ideas や borrowed words は分詞が名詞を修飾する形。借用語には音や意味の変化が起こり得るので、borrowed が「原形のまま完全に複製された」を必ず意味するわけではない。無断流用を婉曲的に borrow と呼ぶこともあるが、この動詞だけで適法性・不正の有無を判定しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "adopt",
+          "definition": "他にあった方法・考え方などを選んで自分のものとして採用する。",
+          "frequency": 8,
+          "difference": "採用して使うという選択に焦点があり、借用元の存在を borrow ほど強調しない。",
+          "example": "The school adopted a new approach to language teaching.",
+          "translation": "その学校は、言語教育に新しい方法を採用した。"
+        },
+        {
+          "word": "draw on",
+          "definition": "経験・知識・作品などを材料や助けとして利用する。",
+          "frequency": 7,
+          "difference": "自分の経験も対象にでき、特定の要素を借用することまで必ず表すわけではない。",
+          "example": "The novelist drew on her childhood memories.",
+          "translation": "その小説家は、子ども時代の記憶を作品に生かした。"
+        },
+        {
+          "word": "copy",
+          "definition": "他のものをまねたり、同じように作ったりする。",
+          "frequency": 8,
+          "difference": "形や内容を再現することに焦点がある。borrow は要素を取り入れて作り変える場合にも使う。",
+          "example": "The student copied the diagram into her notebook.",
+          "translation": "その学生は、図をノートに写した。"
+        },
+        {
+          "word": "appropriate",
+          "definition": "他者のものを自分の使用のために取り込む。",
+          "frequency": 5,
+          "difference": "正当な許可や帰属を無視したという批判を帯びやすい。borrow はそれ自体では中立にも使える。",
+          "example": "The critic accused the artist of appropriating other people's work.",
+          "translation": "その批評家は、他人の作品を流用したとしてその芸術家を批判した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞・他動詞／自動詞】繰り下がりで借りる",
+      "frequency": 4,
+      "register": [
+        "算数・初等数学の説明。"
+      ],
+      "definition": "引き算の筆算で、上の位の1を下の位へ換算して移し、計算できる形にする。十進法なら、例えば十の位の1を一の位の10として使う。何を移すかを目的語にするほか、borrow from the tens column のように移す元を示す。",
+      "patterns": [
+        "borrow one from 〈上の位〉＝上の位から1を借りる",
+        "borrow from the tens column＝十の位から借りる",
+        "need to borrow＝繰り下がりが必要である"
+      ],
+      "collocations": [
+        {
+          "pattern": "borrow one from 〈上の位〉",
+          "use": "移す数と元の位を示す。",
+          "example": "To subtract 8 from 23, borrow one from the tens column and turn it into ten ones.",
+          "translation": "23から8を引くには、十の位から1を借りて、一の位の10に置き換える。"
+        },
+        {
+          "pattern": "borrow from the tens column",
+          "use": "繰り下がりの元になる位を述べる。",
+          "example": "We borrow from the tens column because 3 is smaller than 8.",
+          "translation": "3は8より小さいので、十の位から借りる。"
+        },
+        {
+          "pattern": "need to borrow",
+          "use": "繰り下がりが必要かを述べる。",
+          "example": "You do not need to borrow when subtracting 12 from 45.",
+          "translation": "45から12を引くときは、繰り下がりは必要ない。"
+        }
+      ],
+      "notes": [
+        "borrowed one は、ここでは金銭の1単位ではなく、上の位の1を表す。十の位から借りれば十の位の数字を1減らし、一の位では10を加えて扱うため、元の数全体の値は変わらない。借りた数を後で返す手続きではない。対照表現 carry は足し算などの「繰り上がり」に使うが、語彙的な貸し手・借り手の関係ではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【慣用表現・live / be on borrowed time】予想以上に生き延びる・長くはもたない",
+      "frequency": 5,
+      "register": [
+        "一般・比喩的。深刻さや終わりの近さを含みやすい。"
+      ],
+      "definition": "死や終わりが予想された時点を越えて、なお生きている・存続していること。また、終わりや失脚が近く、今ある状態はいつまで続くか分からないという意味で使う。人の命だけでなく、地位・組織・機械などにも用いる。",
+      "patterns": [
+        "live on borrowed time＝予想された寿命や期限を越えて生き延びる",
+        "be on borrowed time＝終わりが近い猶予期間にある"
+      ],
+      "collocations": [
+        {
+          "pattern": "live on borrowed time",
+          "use": "予想より長く生きているという認識を述べる。",
+          "example": "After surviving the severe illness, he felt he was living on borrowed time.",
+          "translation": "重い病気を乗り越えた後、彼は予想されていた以上の時間を生きていると感じた。"
+        },
+        {
+          "pattern": "be on borrowed time",
+          "use": "地位や制度などが長続きしそうにないことを述べる。",
+          "example": "After losing the board's support, the chief executive was on borrowed time.",
+          "translation": "取締役会の支持を失った後、その最高経営責任者の在任は長くは続きそうになかった。"
+        }
+      ],
+      "notes": [
+        "borrowed はこの句では time を修飾する過去分詞形で、be borrowed time とはしない。on を含む on borrowed time が慣用的なまとまり。live は lives、lived、living などに変えられるが、borrowed を現在形 borrow に置き換えない。単に free time「自由時間」や extra time「追加時間」があるという意味ではなく、死・終わり・停止の可能性が背景にある。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【動詞・他動詞を含む慣用表現】取り越し苦労をする",
+      "frequency": 3,
+      "register": [
+        "主に米語・会話の慣用表現。"
+      ],
+      "definition": "borrow trouble の形で、まだ起きていない問題や、心配するだけの根拠がない事態を先回りして心配する。Don't borrow trouble. のように、余計な心配をしないよう勧める表現によく使う。",
+      "patterns": [
+        "borrow trouble＝取り越し苦労をする",
+        "Don't borrow trouble.＝まだ起きていないことで心配しないで"
+      ],
+      "collocations": [
+        {
+          "pattern": "borrow trouble",
+          "use": "起こるか不明な問題を心配することを述べる。",
+          "example": "Imagining every possible rejection is just borrowing trouble.",
+          "translation": "ありとあらゆる断られ方を想像するのは、ただの取り越し苦労だ。"
+        },
+        {
+          "pattern": "Don't borrow trouble.",
+          "use": "問題が明らかになる前の不安を抑えるよう促す。",
+          "example": "Don't borrow trouble; we haven't heard the result yet.",
+          "translation": "取り越し苦労はしないで。まだ結果を聞いていないのだから。"
+        }
+      ],
+      "notes": [
+        "この trouble は不可算で、通常 borrow a trouble とはしない。標準の borrow の過去形と同じく borrowed trouble と活用できる。語義7の「余計な行動によって厄介事を招く」も同じ形なので、心配しているだけなのか、問題を生む行動をしているのかを文脈で区別する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【動詞・他動詞を含む慣用表現】余計な厄介事を招く",
+      "frequency": 3,
+      "register": [
+        "会話・慣用的。"
+      ],
+      "definition": "borrow trouble の形で、不要なことをして、面倒や不利益を自ら招きかねない状況を作る。実際の悪い結果が既に起きたことまでは必ずしも含まない。",
+      "patterns": [
+        "borrow trouble＝余計な厄介事を招く",
+        "borrow trouble by doing something＝何かをすることで余計な厄介事を招く"
+      ],
+      "collocations": [
+        {
+          "pattern": "borrow trouble",
+          "use": "不必要な介入などが問題につながると述べる。",
+          "example": "Taking sides in their private argument would only be borrowing trouble.",
+          "translation": "彼らの内輪の言い争いでどちらかの肩を持っても、余計な厄介事を招くだけだろう。"
+        },
+        {
+          "pattern": "borrow trouble by doing something",
+          "use": "厄介事を生み得る行動を by で示す。",
+          "example": "You're borrowing trouble by promising work that your team cannot deliver.",
+          "translation": "チームにできない仕事を約束して、あなたは余計な厄介事を招いている。"
+        }
+      ],
+      "notes": [
+        "語義6はまだない問題への心配、本義は不要な行動による問題の招来であり、「心配する」とだけ訳しては行為の意味が失われる。trouble が物として貸し借りされるわけではなく、受動態で貸出物のように表すのは通常の用法ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "ask for trouble",
+          "definition": "無謀・不必要な行動によって、厄介事を自ら招く。",
+          "frequency": 6,
+          "difference": "行動が問題を招くことへの警告として広く使う。borrow trouble の語義6のような単なる取り越し苦労を必ずしも指さない。",
+          "example": "Leaving the door unlocked is asking for trouble.",
+          "translation": "ドアに鍵をかけずにおくのは、厄介事を招くようなものだ。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【動詞を並列した慣用表現・他動詞用法】何としてでも手に入れる",
+      "frequency": 4,
+      "register": [
+        "一般・口語的な慣用表現。"
+      ],
+      "definition": "beg, borrow, or steal something の形で、頼む・借りる・盗むといった手段を並べ、どうにかして必要なものを手に入れることを誇張的に表す。実際に三つの行為をすべて行うという意味ではなく、窃盗をしたことも必ずしも意味しない。否定形では、どんな手を尽くしても手に入らないと表す。",
+      "patterns": [
+        "beg, borrow, or steal something＝何としてでも何かを手に入れる",
+        "cannot beg, borrow, or steal something＝どんな手を尽くしても何かを手に入れられない"
+      ],
+      "collocations": [
+        {
+          "pattern": "beg, borrow, or steal something",
+          "use": "入手のために手段を尽くす決意を誇張的に示す。",
+          "example": "She was determined to beg, borrow, or steal a camera for the photography course.",
+          "translation": "彼女は、その写真講座のために何としてでもカメラを手に入れるつもりだった。"
+        },
+        {
+          "pattern": "cannot beg, borrow, or steal something",
+          "use": "入手困難なものがどうしても手に入らないと述べる。",
+          "example": "We couldn't beg, borrow, or steal a ticket for the final.",
+          "translation": "決勝戦のチケットは、どう手を尽くしても手に入らなかった。"
+        }
+      ],
+      "notes": [
+        "三つの動詞が or で並び、目的語は列挙の後に置く。couldn't の後では三つとも原形を保つ。カンマを一部省いた beg, borrow or steal という書き方もある。単独の borrow が常に「何としてでも手に入れる」を意味するわけではなく、句全体で覚える。字義どおりの行為の列挙か慣用的な誇張かは文脈で判断する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}

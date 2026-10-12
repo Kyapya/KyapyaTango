@@ -1,0 +1,584 @@
+{
+  "word": "invest",
+  "slug": "invest",
+  "ipa": "米・英: /ɪnˈvest/",
+  "lead": "利益、収益、事業の改善など将来の見返りを期待して、資金を事業・設備・金融商品などに回す。対象を直接買う場合も、事業に資金を提供する場合もある。期待した利益や成果が実際に得られたことは意味しない。分詞形 invested は、資金が投入された状態のほか、投資主体が対象に資金を配分・保有している状態にも使う。",
+  "updated": "2026-10-12",
+  "notion_url": "https://app.notion.com/p/invest-3f74faa9b77d812a8c8ddb8804d23e93",
+  "pronunciation": [
+    "2音節で、第2音節に主強勢を置く。名詞 investment /ɪnˈvest.mənt/ でも強勢の位置は同じ。invested は /ɪnˈves.tɪd/、investing は /ɪnˈves.tɪŋ/。invested の語尾は /ɪd/ で、3音節になる。"
+  ],
+  "etymology": [
+    "ラテン語 investīre「衣服を着せる、取り囲む」にさかのぼり、in-「中へ、上に」と vestīre「着せる」（vestis「衣服」から）が基礎にある。英語にはフランス語 investir またはラテン語から入り、権限を授ける用法を含む。金銭を投じる用法にはイタリア語 investire の影響がある。",
+    "vest「衣服、権利を帰属させる」、vestment「式服」、investiture「任官・叙任式」は同じ vestis の系統。「衣服」と「投資」の歴史的関係だけを根拠に、現代のすべての構文を「利益を得るために金を使う」と解釈しない。"
+  ],
+  "formation": [
+    {
+      "term": "investment（可算・不可算名詞）",
+      "description": "＝投資、投資額・対象、時間などの投入。invest の金銭以外の系統に対応する低頻度義もある。"
+    },
+    {
+      "term": "investor（可算名詞）",
+      "description": "＝投資家、出資者。投資対象や規模は限定しない。"
+    },
+    {
+      "term": "investable（形容詞）",
+      "description": "＝投資に回せる、投資対象にできる。investable assets「投資可能な資産」。"
+    },
+    {
+      "term": "reinvest（自動詞・他動詞）",
+      "description": "＝再投資する。reinvest profits in the business「利益を事業に再投資する」。"
+    },
+    {
+      "term": "divest（他動詞・自動詞）",
+      "description": "＝資産・事業などを売却する。divest oneself of something などを使い、invest の全義の単純な否定形ではない。"
+    },
+    {
+      "term": "investiture（可算・不可算名詞）",
+      "description": "＝任官・叙任の儀式、権限の授与。通常の金融投資を指さない。"
+    },
+    {
+      "term": "invested（形容詞）",
+      "description": "＝深く関わり、成否を気にかけている。単なる投資済みの過去分詞とは別に語義4で扱う。"
+    }
+  ],
+  "core": [],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞：自動詞・他動詞／分詞形容詞：invested、金融・叙述】投資する、資金を投じる",
+      "frequency": 9,
+      "register": [
+        "中立。金融、企業活動、経済。"
+      ],
+      "definition": "利益、収益、事業の改善など将来の見返りを期待して、資金を事業・設備・金融商品などに回す。対象を直接買う場合も、事業に資金を提供する場合もある。期待した利益や成果が実際に得られたことは意味しない。分詞形 invested は、資金が投入された状態のほか、投資主体が対象に資金を配分・保有している状態にも使う。",
+      "patterns": [
+        "invest in something＝物事に投資する",
+        "invest 〈金額・資金〉 in something＝資金を対象に投じる",
+        "invest 〈金額〉 in 〈動名詞〉＝その行為に資金を投じる",
+        "invest for 〈目的・期間〉＝その目的・期間を見据えて投資する",
+        "be invested in something＝資金が対象に投資されている",
+        "invest 〈資金〉 with 〈金融機関・運用業者〉＝その相手に資金を預けて運用する",
+        "someone is invested in 〈投資対象〉＝人が対象に資金を投資・保有している。"
+      ],
+      "collocations": [
+        {
+          "pattern": "invest in something",
+          "use": "投資対象を示す。",
+          "example": "The fund invests in renewable energy companies.",
+          "translation": "そのファンドは再生可能エネルギー企業に投資している。"
+        },
+        {
+          "pattern": "invest 〈金額〉 in something",
+          "use": "投入額と対象を示す。",
+          "example": "The company invested three million euros in new machinery.",
+          "translation": "会社は新しい機械に300万ユーロを投じた。"
+        },
+        {
+          "pattern": "invest 〈金額〉 in 〈動名詞〉",
+          "use": "資金を投じる行為を明示する。",
+          "example": "The city plans to invest ten million dollars in improving public transport.",
+          "translation": "市は公共交通の改善に1,000万ドルを投じる計画だ。"
+        },
+        {
+          "pattern": "invest for 〈目的〉",
+          "use": "目的を表し、対象を省く。",
+          "example": "They have started investing for retirement.",
+          "translation": "彼らは老後に備えて投資を始めた。"
+        },
+        {
+          "pattern": "be invested in something",
+          "use": "資金を主語にした受動態。",
+          "example": "Half of the fund's assets are invested in bonds.",
+          "translation": "そのファンドの資産の半分は債券に投資されている。"
+        },
+        {
+          "pattern": "invest 〈資金〉 with 〈金融機関・運用業者〉",
+          "use": "投資対象とは別に、資金を置く相手を示す。",
+          "example": "She invested part of her savings with an investment firm.",
+          "translation": "彼女は貯蓄の一部を投資会社に預けて運用した。"
+        },
+        {
+          "pattern": "be invested in 〈投資対象〉",
+          "use": "人・投資主体の金融的な保有・配分状態を述べる。",
+          "example": "She is heavily invested in government bonds, which make up most of her portfolio.",
+          "translation": "彼女は国債に多くを投資しており、国債が保有資産の大半を占めている。"
+        },
+        {
+          "pattern": "invest heavily",
+          "use": "大きな規模の投資をいう。",
+          "example": "The manufacturer continued to invest heavily despite falling sales.",
+          "translation": "そのメーカーは売上減少にもかかわらず大規模な投資を続けた。"
+        }
+      ],
+      "notes": [
+        "金額・資金は直接目的語、投資先は通常 in の後に置く。誤り invest the company → 投資先をいうなら invest in the company。I invested in the company. は出資した人が主語、My money is invested in the company. は投じた金が主語。a fully invested fund は資金の配分状態を述べる文脈で使われ、語義4の心理的な関与とは区別する。She is invested in bonds. のように人を主語にしても、その人が資金を投じている金融的な状態を表せる。人が投資される対象という意味ではない。投資対象は in、資金を預ける金融機関などは with で示す。invest money with a firm と語義5の invest someone with authority は目的語の役割が違う。deposit、lend、speculate は関連する別の行為で、投資の方法や性質が異なる。"
+      ],
+      "synonyms": [
+        {
+          "word": "put money into",
+          "definition": "事業・対象に資金を入れる。",
+          "frequency": 8,
+          "difference": "会話的で広く、投資以外の資金投入にも使えるため、見返りの期待は文脈で補う。",
+          "example": "They put money into a new production line.",
+          "translation": "彼らは新しい生産ラインに資金を投入した。"
+        },
+        {
+          "word": "commit",
+          "definition": "資金などをある目的に充てることを決める。",
+          "frequency": 7,
+          "difference": "投入先を決めて確保する点を強調し、金融的な見返りは必須ではない。",
+          "example": "The firm committed substantial funds to the expansion.",
+          "translation": "会社は拡張に多額の資金を充てることを決めた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【動詞：他動詞】時間・労力・気持ちを注ぐ",
+      "frequency": 8,
+      "register": [
+        "中立。仕事、学習、人間関係、自己研鑽。"
+      ],
+      "definition": "良い結果や将来の価値を期待して、時間、努力、感情などを物事や人間関係に注ぐ。invest oneself in では自分自身を深く関わらせる。量が多いことは典型的でも、数分の投入にも使える。",
+      "patterns": [
+        "invest time in something＝物事に時間を注ぐ",
+        "invest effort in 〈動名詞〉＝行為に労力を注ぐ",
+        "invest energy in something＝物事にエネルギーを注ぐ",
+        "invest oneself in something＝物事に自分を深く関わらせる",
+        "invest 〈時間〉 doing something＝その時間を使って何かに取り組む。"
+      ],
+      "collocations": [
+        {
+          "pattern": "invest time in something",
+          "use": "時間を価値ある取組に回す。",
+          "example": "She invested a great deal of time in the training program.",
+          "translation": "彼女は研修プログラムに多くの時間を注いだ。"
+        },
+        {
+          "pattern": "invest effort in 〈動名詞〉",
+          "use": "努力を注ぐ行為を示す。",
+          "example": "The team invested considerable effort in making the guide accessible.",
+          "translation": "チームはガイドを利用しやすくすることにかなりの労力を注いだ。"
+        },
+        {
+          "pattern": "invest emotional energy in something",
+          "use": "気持ちの投入をいう。",
+          "example": "He had invested too much emotional energy in the relationship to leave easily.",
+          "translation": "彼はその関係に気持ちを注ぎすぎていて、簡単には離れられなかった。"
+        },
+        {
+          "pattern": "invest oneself in something",
+          "use": "自分自身を深く関わらせる。",
+          "example": "She invested herself fully in the community project.",
+          "translation": "彼女は地域の事業に全身全霊で取り組んだ。"
+        },
+        {
+          "pattern": "invest 〈時間〉 doing something",
+          "use": "時間の使い道を動名詞で続ける。",
+          "example": "We invested a few minutes checking the settings before the test.",
+          "translation": "私たちはテスト前に数分かけて設定を確認した。"
+        }
+      ],
+      "notes": [
+        "投資の比喩だが、見返りは金銭に限らない。spend time doing と同じく、時間の後で in を置かず行為を続ける形もある。invest oneself in は行為を表す能動再帰構文。be emotionally invested in は現在の強い関与を表す形容詞構文で、再帰代名詞を省略したものとは説明しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "devote",
+          "definition": "時間や力を目的にささげる。",
+          "frequency": 8,
+          "difference": "何に充てるかを強調し、将来の見返りという含みは invest ほど前面に出ない。devote A to B を使う。",
+          "example": "He devoted the weekend to revising the report.",
+          "translation": "彼は週末を報告書の修正に充てた。"
+        },
+        {
+          "word": "put into",
+          "definition": "時間・力などを物事に注ぎ込む。",
+          "frequency": 9,
+          "difference": "平易で会話的。数量や労力を強調しやすい。",
+          "example": "She put a lot of thought into the design.",
+          "translation": "彼女はその設計に多くの工夫を凝らした。"
+        },
+        {
+          "word": "expend",
+          "definition": "時間や労力などを費やす。",
+          "frequency": 6,
+          "difference": "改まった語で、資源を消費した側面を強調する。",
+          "example": "We expended considerable energy on the negotiations.",
+          "translation": "私たちは交渉にかなりのエネルギーを費やした。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞：自動詞・in を伴う構文】思い切って買う、役立つ物を買う",
+      "frequency": 7,
+      "register": [
+        "会話的。日用品、道具、設備などの購入。"
+      ],
+      "definition": "invest in something の形で、長く役立つ物などを購入する。購入の価値を見込む言い方で、ときには小さな買物を大げさに表すユーモアもある。転売益や金銭収入を目的とするとは限らない。",
+      "patterns": [
+        "invest in 〈購入する物〉＝役立つと考えてその物を買う",
+        "invest in a new 〈単数可算名詞〉＝新しい物を思い切って買う",
+        "invest in something better＝もっと良い物を買う。"
+      ],
+      "collocations": [
+        {
+          "pattern": "invest in a new 〈物〉",
+          "use": "役立つ物の買い替えをいう。",
+          "example": "We finally invested in a new dishwasher.",
+          "translation": "私たちはとうとう新しい食器洗い機を買った。"
+        },
+        {
+          "pattern": "invest in 〈道具〉",
+          "use": "使う価値を見込んで買う。",
+          "example": "She invested in a pair of sturdy walking boots.",
+          "translation": "彼女は丈夫なウォーキングブーツを1足買った。"
+        },
+        {
+          "pattern": "invest in something better",
+          "use": "より良い品への支出をいう。",
+          "example": "After two umbrellas broke, I decided to invest in something better.",
+          "translation": "傘が2本壊れたので、もっと良い物を買うことにした。"
+        }
+      ],
+      "notes": [
+        "語義1の invest in shares は運用、ここでの invest in a kettle は自分で使う物の購入。in の後には買う物を置く。単に支払額を述べる spend money on と異なり、出費に価値があるという見方を添えやすいが、実際に満足できたことは保証しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "buy",
+          "definition": "代金を払って物を手に入れる。",
+          "frequency": 10,
+          "difference": "価値ある出費という含みのない中立語。buy は物を直接目的語に取る。",
+          "example": "We bought a new kettle yesterday.",
+          "translation": "私たちは昨日新しいやかんを買った。"
+        },
+        {
+          "word": "purchase",
+          "definition": "代金を払って購入する。",
+          "frequency": 8,
+          "difference": "buy より改まり、業務文書でも使う。",
+          "example": "The department purchased two new printers.",
+          "translation": "その部署は新しいプリンターを2台購入した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【形容詞：invested、主に叙述】深く関わっている、成否を気にかけている",
+      "frequency": 7,
+      "register": [
+        "中立。人間関係、仕事、物語や活動への心理的関与。"
+      ],
+      "definition": "ある人・活動・結果に強く関わり、成功や良い結果を大切に思っている。時間や感情を注いできたこと、自分も結果の影響を受けることなどが背景になりやすい。金銭を出資したことは必須ではない。",
+      "patterns": [
+        "be invested in something＝物事に深く関わり成否を気にかけている",
+        "be emotionally invested in someone＝人に感情的に深く関わっている",
+        "be invested in 〈動名詞〉＝その実現に強く関心を持っている",
+        "get invested in something＝物事に気持ちが入る",
+        "an invested 〈人〉＝深く関わっている人。"
+      ],
+      "collocations": [
+        {
+          "pattern": "be invested in something",
+          "use": "成功を自分のこととして気にかける。",
+          "example": "The volunteers are deeply invested in the program's success.",
+          "translation": "ボランティアたちはその事業の成功を強く願い、深く関わっている。"
+        },
+        {
+          "pattern": "be emotionally invested in someone",
+          "use": "感情的な関わりをいう。",
+          "example": "Readers become emotionally invested in the main character.",
+          "translation": "読者は主人公に感情移入するようになる。"
+        },
+        {
+          "pattern": "be invested in 〈動名詞〉",
+          "use": "実現したい結果を示す。",
+          "example": "Both partners are invested in making the relationship work.",
+          "translation": "双方がその関係をうまくいかせることに真剣だ。"
+        },
+        {
+          "pattern": "get invested in something",
+          "use": "気持ちが入る変化を述べる。",
+          "example": "I got invested in the story after the second episode.",
+          "translation": "第2話を見てから、その物語に気持ちが入った。"
+        },
+        {
+          "pattern": "an invested 〈人〉",
+          "use": "限定用法で関わる人を描写する。",
+          "example": "An invested audience will care about what happens next.",
+          "translation": "物語に気持ちが入った観客は、次に何が起こるかを気にする。"
+        }
+      ],
+      "notes": [
+        "主に be、feel、become、get などの後で使うが、an invested parent のような限定用法もある。very、deeply、too などで程度を表せる。語義1の Money is invested in bonds. は資金を投じる動作の受動態で、この心理状態とは異なる。人主語の She is invested in bonds. も、資産配分を述べる金融的な状態表現になる。主語が人かどうかだけで心理義と決めず、投資対象や文脈を確認する。I am invested in the outcome. を「結果に出資している」と機械的に訳さない。"
+      ],
+      "synonyms": [
+        {
+          "word": "committed",
+          "definition": "目的や関係を大切にし、力を尽くす意思がある。",
+          "frequency": 8,
+          "difference": "責任ある関与・継続する意思を強調し、感情的に結果を気にすることだけを表さない。",
+          "example": "She is committed to improving the service.",
+          "translation": "彼女はサービスの改善に真剣に取り組んでいる。"
+        },
+        {
+          "word": "engaged",
+          "definition": "活動などに積極的に関わっている。",
+          "frequency": 8,
+          "difference": "注意や参加の状態を強調し、結果への感情的な利害は必須ではない。",
+          "example": "The students remained engaged throughout the discussion.",
+          "translation": "学生たちは議論を通して積極的に参加していた。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "detached",
+          "definition": "感情的に距離を置いている。",
+          "frequency": 7,
+          "difference": "感情的関与の程度という軸で対立する。無知や無能力を意味しない。",
+          "example": "She tried to remain detached from the dispute.",
+          "translation": "彼女は争いに感情的に巻き込まれないようにした。"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "【動詞：他動詞】権限を授ける、職位に就ける",
+      "frequency": 5,
+      "register": [
+        "格式のある表現。公職、組織、儀礼、法律文書。"
+      ],
+      "definition": "人・機関に権力や権限を与える。また、儀式などを通じて職位・称号に就ける。主に invest someone with something、be invested as something を使う。",
+      "patterns": [
+        "invest someone with 〈権限〉＝人に権限を授ける",
+        "be invested with 〈権限〉＝権限を授けられている",
+        "invest 〈権限〉 in someone＝権限を人に付与する",
+        "be invested as 〈職位〉＝その職位に就けられる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "invest someone with 〈権限〉",
+          "use": "権限を受ける人を直接目的語にする。",
+          "example": "The board invested the chair with authority to sign the agreement.",
+          "translation": "理事会は議長にその合意書に署名する権限を与えた。"
+        },
+        {
+          "pattern": "be invested with 〈権限〉",
+          "use": "権限を持つ人を受動態の主語にする。",
+          "example": "The committee is invested with the power to review applications.",
+          "translation": "委員会には申請を審査する権限が与えられている。"
+        },
+        {
+          "pattern": "invest 〈権限〉 in someone",
+          "use": "権限を先に置く改まった語順。",
+          "example": "The charter invested executive authority in the council.",
+          "translation": "その憲章は評議会に執行権限を付与した。"
+        },
+        {
+          "pattern": "be invested as 〈職位〉",
+          "use": "就任の儀礼を述べる。",
+          "example": "She was formally invested as chancellor at the ceremony.",
+          "translation": "彼女は式典で正式に総長に就任した。"
+        }
+      ],
+      "notes": [
+        "人を先に置く invest someone with authority と、権限を先に置く invest authority in someone は役割を取り違えない。後者は低頻度で、vest authority in someone がより普通。invest someone as president の as は地位を表し、with の権限とは補語が異なる。本文の例は語の意味を示し、各組織で権限が有効に成立する条件を定めるものではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "empower",
+          "definition": "人に行為の権限を与える。",
+          "frequency": 7,
+          "difference": "empower someone to do の形で、許される行為を明示しやすい。儀礼的な就任そのものは表さない。",
+          "example": "The board empowered her to negotiate the terms.",
+          "translation": "理事会は彼女に条件を交渉する権限を与えた。"
+        },
+        {
+          "word": "vest",
+          "definition": "権利・権限を人や機関に帰属させる。",
+          "frequency": 5,
+          "difference": "vest power in someone、vest someone with power があり、法律・公的文書で使う。",
+          "example": "The rules vest this power in the director.",
+          "translation": "その規則はこの権限を局長に与えている。"
+        },
+        {
+          "word": "install",
+          "definition": "人を職位に就ける。",
+          "frequency": 6,
+          "difference": "この用法では就任を表し、権限の具体的な内容は含まない。",
+          "example": "The university installed its new president in May.",
+          "translation": "その大学は5月に新学長を就任させた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【動詞：他動詞】特質・意味合いを付与する",
+      "frequency": 4,
+      "register": [
+        "文語的。文学、評論、描写。"
+      ],
+      "definition": "invest someone or something with something の形で、対象にある性質や印象を与えたり、その性質があるように見せたりする。描写する人の見方による意味づけも含む。",
+      "patterns": [
+        "invest someone with 〈特質〉＝人にその特質を与える",
+        "invest something with 〈特質〉＝物事にその特質を与える",
+        "be invested with 〈意味・雰囲気〉＝その意味・雰囲気を与えられている。"
+      ],
+      "collocations": [
+        {
+          "pattern": "invest something with 〈特質〉",
+          "use": "描写によって物事に印象を与える。",
+          "example": "The narrator invests ordinary objects with a sense of menace.",
+          "translation": "語り手はありふれた物に不穏な感じを与えている。"
+        },
+        {
+          "pattern": "invest someone with 〈特質〉",
+          "use": "人物の描き方による意味づけ。",
+          "example": "The portrait invests its subject with an almost royal dignity.",
+          "translation": "その肖像画は描かれた人物に、ほとんど王侯のような威厳を与えている。"
+        },
+        {
+          "pattern": "be invested with 〈意味〉",
+          "use": "象徴的な意味を付与された状態。",
+          "example": "In the novel, the old bridge is invested with symbolic meaning.",
+          "translation": "その小説では、古い橋に象徴的な意味が与えられている。"
+        }
+      ],
+      "notes": [
+        "語義5の法的・組織的な権限の授与とは区別する。with の後が dignity、significance、mystery などならこの特質付与の読みになりやすい。実在する性質だけでなく描写上の印象も表せるので、「本当にその能力を備えさせた」とは限らない。"
+      ],
+      "synonyms": [
+        {
+          "word": "imbue",
+          "definition": "対象に感情・性質を染み込ませる。",
+          "frequency": 5,
+          "difference": "imbue something with の形を取り、内側まで満たすような比喩が強い。",
+          "example": "The music imbues the scene with sadness.",
+          "translation": "音楽がその場面を悲しみで満たしている。"
+        },
+        {
+          "word": "endow",
+          "definition": "人や物に性質・能力を与える。",
+          "frequency": 6,
+          "difference": "endow someone with の形で、備わった能力・資質に焦点を置きやすい。",
+          "example": "The writer endowed the child with unusual courage.",
+          "translation": "作家はその子どもに並外れた勇気を持たせた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【動詞：他動詞】軍勢で包囲する",
+      "frequency": 2,
+      "register": [
+        "低頻度。軍事史や歴史的叙述。"
+      ],
+      "definition": "町や要塞などを軍勢で取り囲み、人や物の出入り・脱出を阻む。金融の invest in と異なり、包囲する場所を直接目的語に取る。",
+      "patterns": [
+        "invest 〈町・要塞〉＝その場所を軍勢で包囲する",
+        "be invested by 〈軍勢〉＝その軍勢に包囲される。"
+      ],
+      "collocations": [
+        {
+          "pattern": "invest 〈要塞〉",
+          "use": "歴史記述で軍事的包囲をいう。",
+          "example": "The army invested the fortress and cut off its supply routes.",
+          "translation": "軍は要塞を包囲し、その補給路を断った。"
+        },
+        {
+          "pattern": "be invested by 〈軍勢〉",
+          "use": "包囲された町を主語にする。",
+          "example": "The town was invested by enemy forces for several weeks.",
+          "translation": "その町は数週間、敵軍に包囲されていた。"
+        }
+      ],
+      "notes": [
+        "日常的には besiege や surround のほうが普通。The army invested the city. は「軍が都市を包囲した」、The company invested in the city. は「会社がその都市に投資した」。主語だけでなく in の有無にも注意する。"
+      ],
+      "synonyms": [
+        {
+          "word": "besiege",
+          "definition": "場所を軍勢で囲んで攻める。",
+          "frequency": 5,
+          "difference": "包囲して陥落を迫ることを表す、より一般的な軍事用語。",
+          "example": "The troops besieged the castle.",
+          "translation": "軍隊は城を包囲した。"
+        },
+        {
+          "word": "blockade",
+          "definition": "場所への出入りや補給を封鎖する。",
+          "frequency": 5,
+          "difference": "とくに交通・補給の遮断を強調し、港や海域にも使う。",
+          "example": "Warships blockaded the harbor.",
+          "translation": "軍艦が港を封鎖した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【動詞：他動詞】覆う、衣をまとわせる",
+      "frequency": 2,
+      "register": [
+        "文学的・古風。また、解剖学などの専門用法。"
+      ],
+      "definition": "物を外側から覆う、包み込む。衣服を着せる古い用法や、組織・器官を膜などが覆う専門用法がある。現代の日常語で一般的な「覆う」の代わりには使わない。",
+      "patterns": [
+        "invest something＝物を覆う",
+        "invest someone with 〈衣服〉＝人にその衣服をまとわせる",
+        "be invested with 〈被覆物〉＝それに覆われている。"
+      ],
+      "collocations": [
+        {
+          "pattern": "invest something",
+          "use": "解剖学の被覆をいう。",
+          "example": "A thin membrane invests the organ.",
+          "translation": "薄い膜がその器官を覆っている。"
+        },
+        {
+          "pattern": "be invested with 〈被覆物〉",
+          "use": "文学的に覆われた姿を描く。",
+          "example": "The hills were invested with a veil of mist.",
+          "translation": "丘は霧のベールに包まれていた。"
+        },
+        {
+          "pattern": "invest someone with 〈衣服〉",
+          "use": "古風な叙述で式服を着せる。",
+          "example": "The attendants invested the king with ceremonial robes.",
+          "translation": "侍従たちは王に式服をまとわせた。"
+        }
+      ],
+      "notes": [
+        "語義6の with dignity は抽象的な特質、ここでの with robes は物理的な衣服。古い文章では権威の象徴として衣服を着せる行為と語義5の叙任が重なることもある。通常の着替えを I invested myself with a coat. などと表すのは不自然に格式ばる。日常語なら put on a coat。"
+      ],
+      "synonyms": [
+        {
+          "word": "envelop",
+          "definition": "物をすっかり包み込む。",
+          "frequency": 5,
+          "difference": "文学的な包囲・被覆の近義語で、膜だけでなく霧や暗闇などにも使う。",
+          "example": "Mist enveloped the valley.",
+          "translation": "霧が谷を包み込んだ。"
+        },
+        {
+          "word": "cover",
+          "definition": "物の表面・外側を覆う。",
+          "frequency": 10,
+          "difference": "日常的で意味範囲が広く、invest の古風さを伴わない。",
+          "example": "A protective layer covers the surface.",
+          "translation": "保護層が表面を覆っている。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

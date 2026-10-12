@@ -1,0 +1,510 @@
+{
+  "word": "lend",
+  "slug": "lend",
+  "ipa": "米・英: /lend/",
+  "lead": "自分の物などを相手が一時的に使えるようにし、あとで同じ物を返してもらうつもりで渡す。実際に返却されたことまでは表さない。主語が貸し手、目的語が貸す物または借り手になる。",
+  "updated": "2026-10-12",
+  "notion_url": "https://app.notion.com/p/lend-3f74faa9b77d81c8b440ce46f3c9e5d9",
+  "pronunciation": [
+    "1音節。語末の /nd/ の間に母音を入れない。過去形・過去分詞は lent /lent/ で、lended ではない。三人称単数形 lends /lendz/、現在分詞 lending /ˈlen.dɪŋ/。"
+  ],
+  "etymology": [
+    "古英語 lǣnan「貸す」にさかのぼるゲルマン系の語。古英語の名詞 lǣn「貸付」に基づき、英語 loan「貸付、貸す」と同根である。現代の語末 d は、過去形などの影響を受けて中英語期に定着した。",
+    "loan は同根語、lender と lending は lend からの派生・名詞化であり、借用経路を同一視しない。現代の「性質を添える」「手を貸す」では、物を返してもらうことは意味に含まれない。"
+  ],
+  "formation": [
+    {
+      "term": "lender（可算名詞）",
+      "description": "＝貸し手、融資者。借り手は borrower。"
+    },
+    {
+      "term": "lending",
+      "description": "（不可算名詞・名詞修飾）＝貸付、融資。bank lending「銀行融資」、a lending policy「融資方針」。"
+    },
+    {
+      "term": "lendable（形容詞）",
+      "description": "＝貸すことのできる。貸出可能な資金などに使う専門的・低頻度の語。"
+    },
+    {
+      "term": "moneylender（可算名詞）",
+      "description": "＝金貸し、貸金業者。とくに個人への貸付を業とする人をいう。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "持っている物・力・性質を、別の相手や用途に向ける。貸付では返還を予定し、比喩や慣用句では性質・助力・注意・名称の提供や、用途との相性を表す。"
+    },
+    {
+      "type": "item",
+      "text": "物を別の相手に向ける提供 → 「物を貸す」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "資金を別の相手に向ける提供 → 「金を貸す、融資する」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "性質を別の対象に向ける付与 → 「性質・印象を添える」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "助力を別の相手に向ける提供 → 「力を貸す、支持する」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "性質を特定の用途に向ける適性 → 「～に適している」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "注意を別の相手に向ける傾聴 → 「耳を傾ける」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "名称を別の対象に向ける提供 → 「名称の由来になる」（語義7）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞：他動詞】物を貸す",
+      "frequency": 9,
+      "register": [
+        "中立。日常会話から公的な貸出まで。"
+      ],
+      "definition": "自分の物などを相手が一時的に使えるようにし、あとで同じ物を返してもらうつもりで渡す。実際に返却されたことまでは表さない。主語が貸し手、目的語が貸す物または借り手になる。",
+      "patterns": [
+        "lend someone something＝人に物を貸す",
+        "lend something to someone＝物を人に貸す",
+        "lend something for 〈期間〉＝物をその期間貸す",
+        "lend something out＝物を貸し出す",
+        "be lent something＝物を貸してもらう。"
+      ],
+      "collocations": [
+        {
+          "pattern": "lend someone something",
+          "use": "借り手を先に置く。",
+          "example": "Could you lend me your charger until tomorrow?",
+          "translation": "明日まで充電器を貸してもらえますか。"
+        },
+        {
+          "pattern": "lend something to someone",
+          "use": "貸す物を先に置く。",
+          "example": "I lent my spare key to a neighbor.",
+          "translation": "私は予備の鍵を近所の人に貸した。"
+        },
+        {
+          "pattern": "lend something for 〈期間〉",
+          "use": "貸す期間を示す。",
+          "example": "The museum lent the painting for six months.",
+          "translation": "その美術館は絵を6か月間貸し出した。"
+        },
+        {
+          "pattern": "lend something out",
+          "use": "所有物を外へ貸し出す。",
+          "example": "I never lend this camera out.",
+          "translation": "私はこのカメラを人に貸すことはない。"
+        },
+        {
+          "pattern": "be lent something（lend の受動態）",
+          "use": "借り手を受動態の主語にする。",
+          "example": "We were lent a tent for the weekend.",
+          "translation": "私たちは週末用にテントを貸してもらった。"
+        }
+      ],
+      "notes": [
+        "lend me your pen「私にペンを貸す」と borrow your pen「あなたのペンを借りる」は視点が逆。標準的な英語では borrow me your pen とせず、Lend me your pen. とする。物が代名詞なら lend it to me が明確で自然。lend out は名詞を前後に置けるが、代名詞は lend it out とする。a book lent by the library の lent は過去分詞で、「貸された」を表す。"
+      ],
+      "synonyms": [
+        {
+          "word": "loan",
+          "definition": "物を返還の予定で貸す。",
+          "frequency": 7,
+          "difference": "この字義では近く、動詞として標準的。とくに米国英語で普通だが、lend の比喩・慣用句すべてに代入できない。",
+          "example": "The gallery loaned us two sculptures.",
+          "translation": "その画廊は私たちに彫刻を2点貸してくれた。"
+        },
+        {
+          "word": "let someone borrow",
+          "definition": "人が物を借りることを認める。",
+          "frequency": 8,
+          "difference": "同じ貸し借りを、借り手に使用を認める形で表す。",
+          "example": "My brother let me borrow his bike.",
+          "translation": "兄は自転車を貸してくれた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【動詞：自動詞・他動詞】金を貸す、融資する",
+      "frequency": 8,
+      "register": [
+        "中立。日常の金銭貸借、銀行、金融。"
+      ],
+      "definition": "返済を予定して金銭を相手に渡す。個人間の貸し借りにも、銀行などによる融資にも使う。金融機関の融資では利息を伴うことが多いが、lend 自体があらゆる場面で利息を必須にするわけではない。",
+      "patterns": [
+        "lend someone 〈金額〉＝人にその金額を貸す",
+        "lend 〈金額〉 to someone＝その金額を人に貸す",
+        "lend to 〈借り手〉＝その相手に融資する",
+        "lend at 〈利率〉＝その利率で融資する",
+        "lend against 〈担保〉＝それを担保に融資する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "lend someone 〈金額〉",
+          "use": "個人間の金銭貸借をいう。",
+          "example": "Maya lent me twenty dollars for lunch.",
+          "translation": "マヤは昼食代に20ドルを貸してくれた。"
+        },
+        {
+          "pattern": "lend 〈金額〉 to 〈借り手〉",
+          "use": "融資額と相手を示す。",
+          "example": "The bank lent two million euros to the company.",
+          "translation": "銀行はその会社に200万ユーロを融資した。"
+        },
+        {
+          "pattern": "lend to 〈借り手〉",
+          "use": "金額を省き融資先を示す。",
+          "example": "This bank lends to small businesses.",
+          "translation": "この銀行は中小企業に融資している。"
+        },
+        {
+          "pattern": "lend at 〈利率〉",
+          "use": "貸付条件として利率を示す。",
+          "example": "The lender agreed to lend at a fixed annual rate of 4%.",
+          "translation": "貸し手は年4％の固定金利で融資することに同意した。"
+        },
+        {
+          "pattern": "lend against 〈担保〉",
+          "use": "担保を伴う融資をいう。",
+          "example": "The bank was willing to lend against the value of the property.",
+          "translation": "銀行はその不動産の価値を担保として融資する意向だった。"
+        }
+      ],
+      "notes": [
+        "lend to の to は借り手を導く前置詞で、動作を表す不定詞ではない。lend money to buy equipment なら to buy は目的を表す。自動詞の Banks are lending again. は「銀行が再び融資している」。borrow from は借り手側の対照表現であり、融資そのものの反意語ではない。返済は repay、貸付金は a loan。"
+      ],
+      "synonyms": [
+        {
+          "word": "loan",
+          "definition": "返済を条件に資金を貸す。",
+          "frequency": 8,
+          "difference": "金銭義では lend と広く重なる。loan を名詞だけに限定しない。",
+          "example": "Her parents loaned her the money for the deposit.",
+          "translation": "両親は彼女に頭金を貸した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞：他動詞】性質・印象を添える",
+      "frequency": 7,
+      "register": [
+        "中立からやや改まった文章。描写、評論、論証。"
+      ],
+      "definition": "ある物事に特定の性質、雰囲気、説得力などを加える。主語には人だけでなく、色、出来事、証拠なども置く。加わる性質は望ましいものに限られない。",
+      "patterns": [
+        "lend 〈性質〉 to something＝物事にその性質を添える",
+        "lend something 〈性質〉＝物事にその性質を添える",
+        "lend credence to 〈説〉＝その説に信憑性を与える",
+        "lend weight to 〈主張〉＝その主張を補強する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "lend 〈性質〉 to something",
+          "use": "対象に加わる雰囲気をいう。",
+          "example": "The dim lighting lent a sense of mystery to the room.",
+          "translation": "薄暗い照明が部屋に神秘的な雰囲気を添えていた。"
+        },
+        {
+          "pattern": "lend something 〈性質〉",
+          "use": "対象を先に置く二重目的語構文。",
+          "example": "The red scarf lent her outfit a touch of color.",
+          "translation": "赤いスカーフが彼女の服装に彩りを添えていた。"
+        },
+        {
+          "pattern": "lend credence to 〈説〉",
+          "use": "説を信じる根拠を加える。",
+          "example": "The newly found letter lends credence to the historian's theory.",
+          "translation": "新たに発見された手紙は、その歴史家の説に信憑性を与える。"
+        },
+        {
+          "pattern": "lend weight to 〈主張〉",
+          "use": "主張の説得力を強める。",
+          "example": "These results lend weight to the argument for further research.",
+          "translation": "これらの結果は、さらなる研究が必要だという主張を補強する。"
+        }
+      ],
+      "notes": [
+        "lend A to B の A は加わる性質、B は受ける対象。lend B A ではその順序が逆になる。いずれも「BからAを借りる」ではない。lend support to a theory は証拠などが説を裏づける用法で、語義4の人が自分の支持を表明する用法とは主語の役割が異なる。"
+      ],
+      "synonyms": [
+        {
+          "word": "give",
+          "definition": "対象に性質・印象を与える。",
+          "frequency": 9,
+          "difference": "最も広い表現。lend は対象に付随する効果として添わる感じを出しやすい。",
+          "example": "The candles gave the room a warm glow.",
+          "translation": "ろうそくが部屋に温かい光を与えていた。"
+        },
+        {
+          "word": "impart",
+          "definition": "性質などを対象に与える。",
+          "frequency": 5,
+          "difference": "lend より改まっており、風味・特徴・知識などにも使う。",
+          "example": "The wood imparts a smoky flavor to the food.",
+          "translation": "その木は食べ物に薫製の風味を与える。"
+        },
+        {
+          "word": "add",
+          "definition": "性質・要素を付け加える。",
+          "frequency": 9,
+          "difference": "追加を広く表し、add A to B の語順になる。",
+          "example": "The music added tension to the scene.",
+          "translation": "音楽がその場面に緊張感を加えた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞：他動詞・慣用表現】力を貸す、支持する",
+      "frequency": 7,
+      "register": [
+        "中立。lend a hand は会話的、lend support や lend one’s name は報道などでも使う。"
+      ],
+      "definition": "自分の助力、知識、支持、名前の信用などを相手や活動のために提供する。lend a hand は「手伝う」、lend one’s name to は自分の名前を結び付けて活動を支持することをいう。",
+      "patterns": [
+        "lend someone a hand＝人を手伝う",
+        "lend a hand with something＝作業を手伝う",
+        "lend one’s support to something＝活動などを支持する",
+        "lend one’s name to something＝名前を提供して活動などを支持する",
+        "lend one’s expertise to something＝専門知識を提供して協力する",
+        "lend oneself to something＝自ら物事に協力・加担する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "lend someone a hand",
+          "use": "人に助力を提供する。",
+          "example": "Could you lend us a hand with these boxes?",
+          "translation": "この箱を運ぶのを手伝ってもらえますか。"
+        },
+        {
+          "pattern": "lend a hand with something",
+          "use": "手伝う仕事を明示する。",
+          "example": "Several neighbors lent a hand with the cleanup.",
+          "translation": "近所の人が何人か掃除を手伝った。"
+        },
+        {
+          "pattern": "lend one’s support to something",
+          "use": "自ら支持を表明する。",
+          "example": "The association lent its support to the campaign.",
+          "translation": "その協会は運動への支持を表明した。"
+        },
+        {
+          "pattern": "lend one’s name to something",
+          "use": "名前の信用を活動に提供する。",
+          "example": "A well-known actor lent his name to the literacy campaign.",
+          "translation": "有名な俳優が識字向上運動に名前を提供して支持した。"
+        },
+        {
+          "pattern": "lend one’s expertise to something",
+          "use": "専門知識で協力する。",
+          "example": "She lent her expertise to the restoration project.",
+          "translation": "彼女は修復事業に専門知識を提供した。"
+        },
+        {
+          "pattern": "lend oneself to something",
+          "use": "人が自ら活動に協力・加担する、改まった再帰構文。",
+          "example": "She refused to lend herself to the dishonest scheme.",
+          "translation": "彼女はその不正な計画に加担することを拒んだ。"
+        }
+      ],
+      "notes": [
+        "lend a hand は lend two hands のように人数に応じて数を変える表現ではない。lend one’s name to は、自分が実作業を担当することまで保証しないが、通常は支持・賛同を表す。名前を勝手に使われたこととは異なる。人主語の lend oneself to は自ら協力・加担することを表し、物事が用途に適する語義5とは異なる。不正への加担を否定する文脈もあるが、不正に限定された語ではない。名称の由来を表す lend one’s name to は語義7。これらの慣用的な lend を loan へ機械的に置き換えない。"
+      ],
+      "synonyms": [
+        {
+          "word": "help",
+          "definition": "人を助ける、作業を手伝う。",
+          "frequency": 10,
+          "difference": "lend a hand に近い日常語で、助け方の範囲はより広い。",
+          "example": "Can you help me move this table?",
+          "translation": "このテーブルを動かすのを手伝ってくれますか。"
+        },
+        {
+          "word": "assist",
+          "definition": "人や活動を援助する。",
+          "frequency": 8,
+          "difference": "help より改まった響きがあり、業務文書で使いやすい。",
+          "example": "Two volunteers assisted with registration.",
+          "translation": "ボランティア2人が受付を手伝った。"
+        },
+        {
+          "word": "back",
+          "definition": "計画や人を支持する。",
+          "frequency": 8,
+          "difference": "lend support に近く、助力の提供より支持する立場を明確にする。",
+          "example": "Several local businesses backed the proposal.",
+          "translation": "地元の企業数社がその提案を支持した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【動詞：再帰的な慣用構文】～に適している",
+      "frequency": 7,
+      "register": [
+        "やや改まった表現。説明、評価、学術・業務文書。"
+      ],
+      "definition": "lend itself to の形で、物事の性質・構造が、ある用途、扱い方、解釈などに合っていることを表す。「自分を貸す」という字義訳にはしない。主語は通常、物、方法、題材、状況など。",
+      "patterns": [
+        "something lends itself to 〈名詞〉＝物事がその用途に適している",
+        "something lends itself to 〈動名詞〉＝物事がそのように扱うことに適している",
+        "things lend themselves to 〈用途〉＝複数の物事がその用途に適している",
+        "not lend itself to something＝その用途に適していない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "lend itself to 〈用途〉",
+          "use": "物事と用途の相性を述べる。",
+          "example": "This flexible format lends itself to online teaching.",
+          "translation": "この柔軟な形式はオンライン授業に適している。"
+        },
+        {
+          "pattern": "lend itself to 〈動名詞〉",
+          "use": "後続する行為との相性を述べる。",
+          "example": "The story lends itself to being adapted for the stage.",
+          "translation": "この物語は舞台化に向いている。"
+        },
+        {
+          "pattern": "lend themselves to 〈用途〉",
+          "use": "複数主語に対応させる。",
+          "example": "These open spaces lend themselves to large gatherings.",
+          "translation": "これらの開放的な空間は大人数の集まりに適している。"
+        },
+        {
+          "pattern": "not lend itself to something",
+          "use": "適性がないことを述べる。",
+          "example": "The evidence does not lend itself to a simple explanation.",
+          "translation": "その証拠は単純には説明しにくい。"
+        }
+      ],
+      "notes": [
+        "この「適する」の能動構文では、itself、themselves など主語に一致する再帰代名詞を置く。誤り This material lends to printing. → 正しくは This material lends itself to printing.。to は前置詞なので、lend itself to be adapted ではなく to being adapted とする。be lent to は通常「～に貸し出される」で、この適性の構文の受動形ではない。人が活動に協力する lend oneself to は語義4であり、人を主語にするだけで常に「適している」になるわけではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "be suited to",
+          "definition": "用途や状況に合っている。",
+          "frequency": 8,
+          "difference": "lend itself to より直接的に適性を述べ、形容詞 suited の構文を使う。",
+          "example": "The software is suited to small teams.",
+          "translation": "そのソフトウェアは小規模なチームに向いている。"
+        },
+        {
+          "word": "be amenable to",
+          "definition": "処理・方法などを適用できる。",
+          "frequency": 5,
+          "difference": "とくに分析や処理が可能である点に焦点があり、用途全般との相性より範囲が狭い。",
+          "example": "These data are amenable to statistical analysis.",
+          "translation": "これらのデータには統計分析を適用できる。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【動詞：他動詞・慣用表現】耳を傾ける",
+      "frequency": 5,
+      "register": [
+        "やや古風・文語的な慣用表現。lend a sympathetic ear は現代の文章でも使う。"
+      ],
+      "definition": "lend an ear などの形で、人の話に注意を向けて聞く。悩みなどに親身に耳を傾ける文脈でよく使う。単に音が聞こえることではない。",
+      "patterns": [
+        "lend an ear to someone＝人の話に耳を傾ける",
+        "lend someone an ear＝人の話を聞く",
+        "lend a sympathetic ear to someone＝人の話に親身に耳を傾ける。"
+      ],
+      "collocations": [
+        {
+          "pattern": "lend an ear to someone",
+          "use": "相手の話を注意して聞く。",
+          "example": "Please lend an ear to those who rarely get a chance to speak.",
+          "translation": "普段なかなか話す機会のない人たちの声に耳を傾けてください。"
+        },
+        {
+          "pattern": "lend someone an ear",
+          "use": "話す相手を先に置く。",
+          "example": "When I needed to talk, she lent me an ear.",
+          "translation": "話を聞いてほしかったとき、彼女は耳を傾けてくれた。"
+        },
+        {
+          "pattern": "lend a sympathetic ear to someone",
+          "use": "親身に悩みなどを聞く。",
+          "example": "The counselor lent a sympathetic ear to the students.",
+          "translation": "カウンセラーは学生たちの話に親身に耳を傾けた。"
+        }
+      ],
+      "notes": [
+        "an ear と a sympathetic ear で冠詞が変わる。lend me your ears は「私の話を聞いてください」という有名な呼びかけで、今日の日常会話では芝居がかった響きになりやすい。loan an ear は通常の言い方ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "listen",
+          "definition": "注意を向けて聞く。",
+          "frequency": 10,
+          "difference": "中立的で広く使い、親身であることは語そのものの必須条件ではない。",
+          "example": "She listened to his concerns without interrupting.",
+          "translation": "彼女は彼の心配事を遮らずに聞いた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【動詞：他動詞・慣用表現】名称の由来になる",
+      "frequency": 5,
+      "register": [
+        "中立からやや改まった表現。名称の由来、地域・歴史の紹介。"
+      ],
+      "definition": "lend one’s name to something の形で、人や物の名前が別の場所・施設などの名称として使われることを表す。本人が生前に同意・支持したという意味ではなく、川などの無生物も主語になれる。",
+      "patterns": [
+        "someone lends their name to something＝人の名前が物事の名称の由来になる",
+        "something lends its name to something＝ある物の名前が別の物の名称の由来になる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "someone lends their name to something",
+          "use": "人名に由来する施設名を説明する。",
+          "example": "The scientist lends her name to a research center founded after her death.",
+          "translation": "彼女の死後に設立された研究施設は、その科学者の名前を冠している。"
+        },
+        {
+          "pattern": "something lends its name to something",
+          "use": "地形などに由来する地名を説明する。",
+          "example": "The river lends its name to the nearby village.",
+          "translation": "近くの村の名前はその川に由来する。"
+        }
+      ],
+      "notes": [
+        "語義4の俳優が運動に lend his name to なら、公に支持する意味になりやすい。ここでは命名の由来が中心で、本人の参加・支持を推測しない。be named after は名付けられた場所・施設を主語にする対照表現。"
+      ],
+      "synonyms": [
+        {
+          "word": "give one’s name to",
+          "definition": "人や物が別のものの名称の由来になる。",
+          "frequency": 5,
+          "difference": "この命名の意味では近い。give one’s name to は文脈によって名前を相手に告げる意味にもなる。",
+          "example": "The founder gave her name to the school.",
+          "translation": "その学校は創設者の名前にちなんで名付けられた。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
