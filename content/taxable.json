@@ -1,0 +1,264 @@
+{
+  "word": "taxable",
+  "slug": "taxable",
+  "ipa": "米・英: /ˈtæksəbəl/。3音節で、第1音節 /tæks/ に主強勢がある。第2・第3音節の母音は弱い /ə/。語尾 -able を単独の able /ˈeɪbəl/ と同じ強い母音で読まない。",
+  "lead": "適用される税法・制度で税の対象として扱われる、または課税可能な性質を持つ。所得・利益・支払金・財産・取引などを修飾する。実際に納付が完了したことや、必ず追加納税額が発生することまで意味しない。",
+  "updated": "2026-10-12",
+  "notion_url": "https://app.notion.com/p/taxable-3f74faa9b77d8117b136c1ad13b73a10",
+  "pronunciation": [],
+  "etymology": [
+    "tax「課税する」に -able「～され得る、～の対象となる」が付いた形。tax はフランス語を経て、ラテン語 taxare「評価する、査定する」にさかのぼる。課税の対象として扱えることが中心で、すでに納税したことを表す形ではない。taxation「課税」と taxing「負担の大きい」は同じ tax に由来するが、taxing の一般的な形容詞義は「課税対象の」ではない。"
+  ],
+  "formation": [
+    {
+      "term": "taxability",
+      "description": "不可算名詞。「課税対象となる性質、課税の可否」。the taxability of a payment「ある支払金が課税対象となるかどうか」。"
+    },
+    {
+      "term": "nontaxable / non-taxable",
+      "description": "形容詞。「課税対象とならない」。ハイフンを用いる綴りもある。"
+    },
+    {
+      "term": "tax",
+      "description": "名詞「税」、他動詞「課税する」。tax an amount「ある金額に課税する」に対し、taxed は実際の課税・課税扱いを表す過去分詞。"
+    },
+    {
+      "term": "taxpayer",
+      "description": "可算名詞。「納税者」。tax と payer から成る複合語で、通常、人や事業体を表すにはまれな名詞 taxable よりこちらを使う。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "一般的な共通核は「税の対象になること」。形容詞はその性質、名詞はその性質を持つ人や物を指す。語義2は制度的専門義で、税金ではなく裁判費用の査定・負担の対象となるという意味のため、この核から語彙的意味を導けず、個別に参照する。"
+    },
+    {
+      "type": "item",
+      "text": "税の対象になる性質 → 「課税対象の、課税されるべき」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "税の対象になる人や物 → 「課税対象となる人・財産・品目」（語義3）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【形容詞・限定／叙述】課税対象の、課税されるべき",
+      "frequency": 7,
+      "register": [
+        "税務、会計、一般の金銭説明。"
+      ],
+      "definition": "適用される税法・制度で税の対象として扱われる、または課税可能な性質を持つ。所得・利益・支払金・財産・取引などを修飾する。実際に納付が完了したことや、必ず追加納税額が発生することまで意味しない。",
+      "patterns": [
+        "taxable 〈income/profit/gains/benefits〉＝課税対象の所得・利益・給付など。something + be taxable＝物事が課税対象となる。be taxable as 〈区分〉＝ある区分として課税対象となる。be taxable to someone＝その人の所得等として課税対象となる。be taxable at 〈税率〉＝その税率で課税される。be taxable in 〈法域〉＝その法域で課税対象となる。fully taxable＝全額が課税対象。partly taxable＝一部が課税対象。"
+      ],
+      "collocations": [
+        {
+          "pattern": "taxable income",
+          "use": "税の計算対象となる所得。",
+          "example": "The accountant calculated taxable income using the deductions allowed under the relevant rules.",
+          "translation": "会計士は該当する規則で認められた控除を適用し、課税所得を計算した。"
+        },
+        {
+          "pattern": "taxable benefits",
+          "use": "福利厚生などの課税上の扱い。",
+          "example": "The payroll team checked which benefits were taxable.",
+          "translation": "給与担当チームは、どの福利厚生が課税対象になるか確認した。"
+        },
+        {
+          "pattern": "be taxable",
+          "use": "金銭などの課税可否を尋ねる。",
+          "example": "Is the payment taxable under the rules that apply to this contract?",
+          "translation": "その契約に適用される規則では、その支払金は課税対象になりますか。"
+        },
+        {
+          "pattern": "be taxable as 〈区分〉",
+          "use": "どの所得区分として扱うかを述べる。",
+          "example": "The adviser checked whether the payment was taxable as employment income.",
+          "translation": "助言者は、その支払金が雇用所得として課税対象になるか確認した。"
+        },
+        {
+          "pattern": "be taxable to someone",
+          "use": "金銭などについて、誰の側で課税対象となるかを示す。",
+          "example": "The adviser checked whether the interest was taxable to the beneficiary.",
+          "translation": "助言者は、その利息が受益者の所得として課税対象になるか確認した。"
+        },
+        {
+          "pattern": "be taxable at 〈税率〉",
+          "use": "税率との結び付きを示す。",
+          "example": "Under the rules in this example, the gain is taxable at 20 percent.",
+          "translation": "この例で適用される規則では、その利益には20パーセントの税率で課税される。"
+        },
+        {
+          "pattern": "be taxable in 〈法域〉",
+          "use": "どの国などで課税されるかを示す。",
+          "example": "They asked whether the same income could be taxable in both countries.",
+          "translation": "二人は、同じ所得が両国で課税対象になることがあるか尋ねた。"
+        },
+        {
+          "pattern": "fully taxable",
+          "use": "支払金などの全額が対象になること。",
+          "example": "The statement identifies which payments are fully taxable.",
+          "translation": "明細書には、どの支払金が全額課税対象になるか示されている。"
+        },
+        {
+          "pattern": "partly taxable",
+          "use": "金額の一部だけが対象になること。",
+          "example": "The adviser explained why her pension payments were only partly taxable.",
+          "translation": "助言者は、彼女の年金支払額の一部だけが課税対象となる理由を説明した。"
+        }
+      ],
+      "notes": [
+        "taxable は性質・取扱いを表すため、通常 very taxable や more taxable と程度比較するより、fully、partly、potentially などを使う。taxable to someone の to は、その金銭などについて課税される人・主体を示し、税を課す当局や納付先を示さない。a taxable payment は「課税対象の支払金」、a taxed payment は「課税された支払金」。tax-deductible は「所得などから控除できる」で、taxable の単純な反意語ではない。米国連邦所得税の年金給付でも、2026年10月時点のIRS案内では拠出の扱いなどによって全額課税・一部課税等に分かれる。taxable という語だけで税率・受給条件・最終納税額を推測しない。a taxable year は米国の税務で「課税年度」という定着した複合表現であり、年そのものを課税対象の財産と考えるわけではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "subject to tax",
+          "definition": "税の対象となる。",
+          "frequency": 7,
+          "difference": "taxable の中心義を明示する定着した述語表現。subject の後には to を置く。",
+          "example": "The guidance explains which payments are subject to tax.",
+          "translation": "その案内には、どの支払金が課税対象になるか説明されている。"
+        },
+        {
+          "word": "assessable",
+          "definition": "税の査定・計算の対象となる。",
+          "frequency": 4,
+          "difference": "税務では算定対象となることに重点がある。法域によって assessable income と taxable income は異なる計算段階を指す。",
+          "example": "The guide lists the types of assessable income.",
+          "translation": "その手引きは税の査定対象となる所得の種類を列挙している。"
+        },
+        {
+          "word": "dutiable",
+          "definition": "関税などの賦課対象となる。",
+          "frequency": 3,
+          "difference": "通常の所得税一般よりも、輸入品などにかかる duty の文脈に限定される。",
+          "example": "The officer asked whether we were carrying any dutiable goods.",
+          "translation": "職員は関税の対象になる品物を持っているか尋ねた。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "nontaxable",
+          "definition": "課税対象ではない。",
+          "frequency": 6,
+          "difference": "特定の税について対象か否かという補完的な対立。どの税・法域かは文脈で決まる。",
+          "example": "The form separates taxable and nontaxable payments.",
+          "translation": "その書式では、課税対象の支払金と非課税の支払金を分けて記載する。"
+        },
+        {
+          "word": "tax-exempt",
+          "definition": "税を免除されている。",
+          "frequency": 6,
+          "difference": "課税対象と免除対象という法的取扱い上の対立。すべての税が免除されるとは限らない。",
+          "example": "The charity applied for tax-exempt status.",
+          "translation": "その慈善団体は免税資格を申請した。"
+        },
+        {
+          "word": "tax-free",
+          "definition": "税がかからない。",
+          "frequency": 7,
+          "difference": "税の有無という対立。免除の法的理由より、受け手に税負担がない点を表すことが多い。",
+          "example": "The brochure states which withdrawals are tax-free.",
+          "translation": "パンフレットには、どの払出しが非課税になるか記載されている。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【形容詞・限定／叙述】訴訟費用として算定・負担命令の対象となる",
+      "frequency": 3,
+      "register": [
+        "法律、特に英米の訴訟費用。"
+      ],
+      "definition": "taxable costs などで、裁判の費用を確定し、相手方などに負担させる対象として認め得ること。ここでの tax は税金を課すことではなく、訴訟費用を査定する専門的用法。",
+      "patterns": [
+        "taxable costs＝費用負担の対象として算定できる訴訟費用。a taxable cost＝個別の算定対象費目。costs + be taxable＝費用が算定対象となる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "taxable costs",
+          "use": "裁判で認め得る費用項目を示す。",
+          "example": "The court’s guide explains which expenses qualify as taxable costs.",
+          "translation": "裁判所の案内は、どの経費を負担命令の対象となる訴訟費用に含められるか説明している。"
+        },
+        {
+          "pattern": "a taxable cost",
+          "use": "個別の費目が対象になるかを述べる。",
+          "example": "The clerk allowed the filing fee as a taxable cost.",
+          "translation": "裁判所書記官は、申立手数料を負担命令の対象となる訴訟費用として認めた。"
+        },
+        {
+          "pattern": "costs are taxable",
+          "use": "査定・費用負担の可否を述べる。",
+          "example": "Not all expenses incurred during litigation are taxable.",
+          "translation": "訴訟中に生じた経費が、すべて費用負担命令の対象となるわけではない。"
+        }
+      ],
+      "notes": [
+        "「税金がかかる費用」と訳さない。例えば米国連邦裁判所の費用査定では、法令などで認められた費目が対象となり、弁護士費用を含む全経費が自動的に相手方へ転嫁されるわけではない。taxable であることと、実際に申請・認容・支払いが済んだことも別。対象費目や手続きは裁判所・法域ごとの規則による。"
+      ],
+      "synonyms": [
+        {
+          "word": "recoverable",
+          "definition": "相手方などから回収・償還を受けられる。",
+          "frequency": 4,
+          "difference": "法律上の費用回収可能性を広く表す。taxable costs という限定された費目区分と必ずしも一致しない。",
+          "example": "The lawyer explained which expenses might be recoverable.",
+          "translation": "弁護士は、どの経費を相手方から回収できる可能性があるか説明した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算・通例複数】課税対象となる人・財産・品目",
+      "frequency": 2,
+      "register": [
+        "主に米、税務・歴史資料。"
+      ],
+      "definition": "taxables の形を中心に、課税対象の人や物を一括して指す。現代の一般会話ではまれで、専門的・歴史的な分類などを読むときに出会う用法。",
+      "patterns": [
+        "taxables such as 〈品目〉＝列挙した品目などの課税対象。a list of taxables＝課税対象者・物の一覧。"
+      ],
+      "collocations": [
+        {
+          "pattern": "taxables such as 〈品目〉",
+          "use": "課税対象品を名詞でまとめる。",
+          "example": "The report groups taxables such as tobacco and alcohol in a separate category.",
+          "translation": "その報告書は、たばこや酒などの課税対象品を別の区分にまとめている。"
+        },
+        {
+          "pattern": "a list of taxables",
+          "use": "歴史資料などの課税対象者名簿。",
+          "example": "The historian compared the county’s list of taxables with its census records.",
+          "translation": "歴史家は、その郡の課税対象者名簿を国勢調査の記録と照合した。"
+        }
+      ],
+      "notes": [
+        "通常の説明では taxable items、taxable property、taxpayers など、対象を名詞で明示した方が分かりやすい。taxables は taxes「税・税額」の言い換えではない。形容詞 taxable に何でも自由に複数語尾を付けられるのではなく、辞書に載る限定された名詞用法。"
+      ],
+      "synonyms": [
+        {
+          "word": "taxable property",
+          "definition": "課税対象となる財産。",
+          "frequency": 4,
+          "difference": "人ではなく財産を明示する表現で、taxables の物に関する意味を限定する。",
+          "example": "The register identifies taxable property within the district.",
+          "translation": "その台帳は地区内の課税対象財産を示している。"
+        },
+        {
+          "word": "taxpayer",
+          "definition": "税を納める人・事業体。",
+          "frequency": 8,
+          "difference": "taxables が人を指す古い文脈で近いが、現代では納税者を直接示す標準的な語。",
+          "example": "Taxpayers can consult the guidance online.",
+          "translation": "納税者はオンラインで案内を確認できる。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
