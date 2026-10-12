@@ -1,0 +1,716 @@
+{
+  "word": "demand",
+  "slug": "demand",
+  "ipa": "米: /dɪˈmænd/｜英: /dɪˈmɑːnd/。代表的な発音はいずれも2音節で、第2音節に主強勢がある。示した米英差は第2音節の母音 /æ/ と /ɑː/。第1音節の母音はどちらも /ɪ/。名詞と動詞で基本的な強勢は変わらない。",
+  "lead": "商品・サービス・人材などを手に入れたい、利用したいという必要や、それらが求められる程度。経済では購買意思・購買力を伴う需要を扱うが、一般語では商取引に限らず、支援や専門家が求められることにも使う。",
+  "updated": "2026-10-12",
+  "notion_url": "https://app.notion.com/p/demand-3f74faa9b77d816aac31dbcef58b1c5e",
+  "pronunciation": [
+    "demands は語末が /ndz/、demanded は語尾が /ɪd/ となって3音節。demanding も3音節で、形容詞用法でも第2音節の強勢を保つ。"
+  ],
+  "etymology": [
+    "名詞・動詞とも中英語期にアングロ・フランス語から入り、動詞 demander の背景にラテン語 demandare「委ねる・命じる」がある。mandare「任せる・命じる」を共有する mandate「権限・命令」、command「命じる」が同根語。現代英語の demand は強い要求や必要を表すが、現代フランス語 demander をいつも同じ強さの「要求する」と訳せるわけではない。"
+  ],
+  "formation": [
+    {
+      "term": "demanding",
+      "description": "努力・技能を多く要する、または人への要求が厳しい、という形容詞。動詞の進行形とは区別する。"
+    },
+    {
+      "term": "undemanding",
+      "description": "多くの努力を要しない、または多くを要求しない、という形容詞。"
+    },
+    {
+      "term": "on-demand",
+      "description": "要求に応じて利用できる、という名詞前の複合形容詞。an on-demand service のようにハイフンを用いる。"
+    },
+    {
+      "term": "demand-driven",
+      "description": "需要に基づいて動く、という複合形容詞。生産や事業の仕組みに使う。"
+    },
+    {
+      "term": "demand-side",
+      "description": "需要側の、という経済用の複合形容詞。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "「何かを満たすよう求める必要・働きかけ」が共通核。人が明示的に要求する場合、物や人材が求められる場合、仕事が時間や能力を必要とする場合へ広がる。要求が実際に満たされたことまでは表さない。"
+    },
+    {
+      "type": "item",
+      "text": "満たすよう求められる市場の必要 → 「需要・求められること」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "満たすよう相手に強く求める行為 → 「強く要求する・求める」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "満たすよう相手に示す要求内容 → 「要求・請求」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "満たすよう課される仕事上の必要 → 「要請・負担」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "満たすよう状況が必要とする条件 → 「必要とする」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "満たすよう返答を強く求める発言 → 「強い調子で尋ねる」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "満たすため多くの力を要する性質 → 「骨の折れる・高度な力を要する」（語義7）"
+    },
+    {
+      "type": "item",
+      "text": "満たすよう人に多くを求める性質 → 「要求の厳しい」（語義8）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・不可算、単数形も用いる】需要・求められること",
+      "frequency": 9,
+      "register": [
+        "一般・ビジネス・経済。"
+      ],
+      "definition": "商品・サービス・人材などを手に入れたい、利用したいという必要や、それらが求められる程度。経済では購買意思・購買力を伴う需要を扱うが、一般語では商取引に限らず、支援や専門家が求められることにも使う。",
+      "patterns": [
+        "demand for 〈物・サービス・人材〉＝物・サービス・人材への需要",
+        "a demand for 〈対象〉＝ある対象への需要",
+        "meet demand＝需要に応える",
+        "demand from 〈需要の主体〉＝主体からの需要",
+        "in demand＝需要があって",
+        "by popular demand＝多くの人の要望に応えて",
+        "supply and demand＝供給と需要"
+      ],
+      "collocations": [
+        {
+          "pattern": "demand for 〈商品・サービス〉",
+          "use": "求められている対象を示す。",
+          "example": "Demand for small apartments is rising in the city.",
+          "translation": "その都市では小さなアパートへの需要が増えている。"
+        },
+        {
+          "pattern": "a growing demand for 〈対象〉",
+          "use": "特定の需要の高まりを述べる。",
+          "example": "There is a growing demand for evening classes.",
+          "translation": "夜間の授業への需要が高まっている。"
+        },
+        {
+          "pattern": "meet demand",
+          "use": "必要とされる量を供給する。",
+          "example": "The factory added a shift to meet demand.",
+          "translation": "その工場は需要に応えるために勤務シフトを一つ増やした。"
+        },
+        {
+          "pattern": "demand from 〈需要の主体〉",
+          "use": "誰が商品などを求めているかを示す。",
+          "example": "Demand from overseas customers remained strong.",
+          "translation": "海外の顧客からの需要は引き続き旺盛だった。"
+        },
+        {
+          "pattern": "in demand",
+          "use": "商品・技能・人がよく求められることを述べる。",
+          "example": "Experienced technicians are in demand.",
+          "translation": "経験豊富な技術者は需要がある。"
+        },
+        {
+          "pattern": "by popular demand",
+          "use": "多くの人の希望に応じた再登場などを表す。",
+          "example": "The exhibition is returning by popular demand.",
+          "translation": "多くの人の要望に応え、その展示が再び開催される。"
+        },
+        {
+          "pattern": "supply and demand",
+          "use": "市場で対になる二つの要因を述べる。",
+          "example": "Prices depend partly on supply and demand.",
+          "translation": "価格は一部には供給と需要に左右される。"
+        }
+      ],
+      "notes": [
+        "需要全体は通常不可算で、Demand is high. のように単数扱いする。a strong demand・an increased demand のように、特定の需要を一まとまりとして示す単数形も自然。個々の要求を数える demands は語義3で、単純に「需要が多い」を many demands としない。in demand は「求められている」、語義3の on demand は「求めに応じて」。supply は市場での対照概念であり、demand の単純な反意語ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "need",
+          "definition": "必要であること、または必要なもの。",
+          "frequency": 10,
+          "difference": "生存・業務などの必要性を広く表し、買いたいという意思や市場の需要量は必ずしも含まない。",
+          "example": "There is an urgent need for clean water.",
+          "translation": "清潔な水が緊急に必要とされている。"
+        },
+        {
+          "word": "market",
+          "definition": "ある商品・サービスを購入する需要や顧客層。",
+          "frequency": 8,
+          "difference": "a market for の形では購買層・商業的な需要を表す。demand は需要の強さや量にも焦点を置く。",
+          "example": "There is a market for affordable repair services.",
+          "translation": "手頃な料金の修理サービスには需要がある。"
+        },
+        {
+          "word": "appetite",
+          "definition": "何かを強く求める意欲・欲求。",
+          "frequency": 6,
+          "difference": "比喩的に消費や活動への積極的な欲求を強調し、実際の購買力を伴う需要とは限らない。",
+          "example": "Investors showed little appetite for additional risk.",
+          "translation": "投資家は追加のリスクを取ることにあまり意欲を示さなかった。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【動詞・他動詞】強く要求する・求める",
+      "frequency": 9,
+      "register": [
+        "一般・交渉・報道・ビジネス。ask より強い。"
+      ],
+      "definition": "当然受けるべきものだと考えたり、譲れない必要があると考えたりして、物・行動・説明などを強く求める。相手への怒りや、要求者に実際の権利・権限があることは必須ではない。顧客が品質などに高い期待を寄せる場合にも使い、必ず口に出して要求したとは限らない。",
+      "patterns": [
+        "demand 〈物・行動〉＝物・行動を強く要求する",
+        "demand to do＝自分がすることを要求する",
+        "demand to know why something happened＝なぜあることが起きたのか説明を強く求める",
+        "demand that 〈主語〉 + 〈動詞の原形〉＝主語がある行動をするよう要求する",
+        "demand that 〈主語〉 should do＝主語がするよう要求する",
+        "demand something from someone＝人から物を強く要求する",
+        "demand something of someone＝人に物事を強く求める"
+      ],
+      "collocations": [
+        {
+          "pattern": "demand a refund",
+          "use": "返金を強く求める。",
+          "example": "The customer demanded a refund for the damaged chair.",
+          "translation": "客は損傷した椅子の代金の返金を要求した。"
+        },
+        {
+          "pattern": "demand to do",
+          "use": "要求する本人が行動の主体になる。",
+          "example": "She demanded to speak to the manager.",
+          "translation": "彼女は責任者と話をさせるよう要求した。"
+        },
+        {
+          "pattern": "demand to know 〈疑問節〉",
+          "use": "説明や答えを強い調子で求める。",
+          "example": "He demanded to know why the application had been rejected.",
+          "translation": "彼は、なぜその申請が却下されたのか説明を求めた。"
+        },
+        {
+          "pattern": "demand that 〈主語〉 + 〈動詞の原形〉",
+          "use": "要求の内容を節で示す。",
+          "example": "They demanded that the company replace the faulty equipment.",
+          "translation": "彼らは会社が不具合のある機器を交換するよう要求した。"
+        },
+        {
+          "pattern": "demand that 〈主語〉 should do",
+          "use": "should を用いて要求内容を示す。",
+          "example": "The committee demanded that the report should be made public.",
+          "translation": "委員会はその報告書を公開するよう要求した。"
+        },
+        {
+          "pattern": "demand something from someone",
+          "use": "誰から何を得ようとするかを示す。",
+          "example": "The caller demanded money from the shop owner.",
+          "translation": "電話をかけてきた人物は店主に金銭を要求した。"
+        },
+        {
+          "pattern": "demand something of someone",
+          "use": "人に求める水準や行動を示す。",
+          "example": "The coach demands discipline of every player.",
+          "translation": "そのコーチは全選手に規律を求める。"
+        },
+        {
+          "pattern": "demand high standards",
+          "use": "商品・サービスなどに対する高い期待を表す。",
+          "example": "Customers demand high standards of safety.",
+          "translation": "顧客は高い安全水準を求めている。"
+        }
+      ],
+      "notes": [
+        "demand someone to do は標準的な学習用の型にしない。「彼に退去を要求した」なら demanded that he leave、または asked him to leave。demand to leave は要求者自身が退去したいという意味になる。that 節の原形は主語が he・she でも -s を付けず、be も原形にする。should を用いる型は特に英国で見られるが、原形の型は英国でも使う。from は要求物の受け取り先、of は相手に求める努力・水準に多いという傾向で、排他的な使い分けではない。受動形の The information was demanded of us. は「私たちに情報が要求された」。demand for a refund は名詞句で、動詞なら demand a refund。"
+      ],
+      "synonyms": [
+        {
+          "word": "ask for",
+          "definition": "物・行動などを求める。",
+          "frequency": 10,
+          "difference": "強制的な調子を語自体には含めず、日常的な依頼に広く使う。",
+          "example": "I asked for a copy of the receipt.",
+          "translation": "私は領収書のコピーを頼んだ。"
+        },
+        {
+          "word": "request",
+          "definition": "物・対応を丁寧または正式に求める。",
+          "frequency": 8,
+          "difference": "手続き的・丁寧な求め方で、demand のような強い押し出しは通常ない。",
+          "example": "The guest requested a quieter room.",
+          "translation": "宿泊客はもっと静かな部屋を希望した。"
+        },
+        {
+          "word": "insist",
+          "definition": "主張や要求を譲らず押し通そうとする。",
+          "frequency": 8,
+          "difference": "受け入れを譲らない態度に重点があり、insist on something・insist that の型を取る。",
+          "example": "She insisted on receiving a written explanation.",
+          "translation": "彼女は書面による説明を受けることを譲らなかった。"
+        },
+        {
+          "word": "require",
+          "definition": "規則・立場などから必要な行動や条件を求める。",
+          "frequency": 9,
+          "difference": "制度的な必要・義務を表しやすく、require someone to do が使える。",
+          "example": "The policy requires visitors to sign in.",
+          "translation": "その規定は来訪者に受付で記名することを求めている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算】要求・請求",
+      "frequency": 8,
+      "register": [
+        "一般・交渉・業務・報道。正式な請求にも使う。"
+      ],
+      "definition": "相手に物や行動を強く求めること、またはその内容。支払いを求める通知なども含む。要求の正当性・実現・相手の同意までは含意しない。",
+      "patterns": [
+        "a demand for 〈物・行動〉＝物・行動を求める要求",
+        "a demand that 〈主語〉 + 〈動詞の原形〉＝主語がある行動をするよう求める要求",
+        "make a demand＝要求を出す",
+        "meet someone's demands＝人の要求に応える",
+        "give in to someone's demands＝人の要求に屈する",
+        "on demand＝要求があれば・求めに応じて"
+      ],
+      "collocations": [
+        {
+          "pattern": "a demand for payment",
+          "use": "支払いを求める請求を指す。",
+          "example": "The supplier sent a written demand for payment.",
+          "translation": "仕入れ先は書面で支払いを請求した。"
+        },
+        {
+          "pattern": "a demand that 〈主語〉 + 〈動詞の原形〉",
+          "use": "要求の内容を that 節で示す。",
+          "example": "The board rejected the demand that the director resign.",
+          "translation": "理事会は、その理事が辞任するよう求める要求を拒否した。"
+        },
+        {
+          "pattern": "make a demand",
+          "use": "要求を提示する行為を述べる。",
+          "example": "The group made a demand for access to the records.",
+          "translation": "その団体は記録へのアクセスを要求した。"
+        },
+        {
+          "pattern": "meet someone's demands",
+          "use": "出された要求を満たす。",
+          "example": "The revised offer met most of the union’s demands.",
+          "translation": "修正された提案は組合の要求の大半を満たした。"
+        },
+        {
+          "pattern": "give in to someone's demands",
+          "use": "抵抗していた要求を受け入れる。",
+          "example": "The owner refused to give in to their demands.",
+          "translation": "所有者は彼らの要求に屈することを拒んだ。"
+        },
+        {
+          "pattern": "on demand",
+          "use": "決まった時刻などではなく、求められたときに提供する。",
+          "example": "Training videos are available on demand.",
+          "translation": "研修動画は必要なときに視聴できる。"
+        }
+      ],
+      "notes": [
+        "一件なら a demand、複数なら demands。a demand for higher pay は「賃上げ要求」、demand for workers は通常「労働者への需要」で、for だけでは語義を決められない。on demand は冠詞を置かない固定表現で、すべての場面で無条件・無料・即時の提供を保証する語ではない。in demand「需要がある」は語義1。書面の請求を表す場合も、文面や制度ごとの法的効果まで demand という語から判断しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "request",
+          "definition": "相手に何かをしてほしいと求めること。",
+          "frequency": 9,
+          "difference": "demand より中立的で、丁寧な依頼も含む。",
+          "example": "We received a request for more information.",
+          "translation": "私たちは追加情報を求める依頼を受けた。"
+        },
+        {
+          "word": "claim",
+          "definition": "権利があるとして物・金銭などを求めること。",
+          "frequency": 8,
+          "difference": "権利や資格を根拠にする点が強く、demand の強い調子とは焦点が異なる。",
+          "example": "She submitted a claim for reimbursement.",
+          "translation": "彼女は費用の払い戻しを請求した。"
+        },
+        {
+          "word": "ultimatum",
+          "definition": "受け入れなければ不利益などが生じるとする最後通告。",
+          "frequency": 6,
+          "difference": "最終的な条件と拒否時の結果を伴う、特に強い要求。demand 一般にその条件はない。",
+          "example": "The tenants were given an ultimatum to leave by Monday.",
+          "translation": "借家人たちは月曜日までに退去するよう最後通告を受けた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・通常複数形】要請・負担",
+      "frequency": 8,
+      "register": [
+        "一般・仕事・生活・技術。"
+      ],
+      "definition": "仕事・役割・生活などを成り立たせるために、人の時間・体力・注意・資源に求められること。負担の重さを述べることが多いが、demands 自体が必ず過大・不当というわけではない。",
+      "patterns": [
+        "the demands of 〈仕事・役割〉＝仕事・役割に伴う要請・負担",
+        "demands on 〈人・時間・資源〉＝人・時間・資源にかかる負担",
+        "make demands on someone＝人に負担をかける",
+        "place demands on something＝物・資源に負担をかける",
+        "meet the demands of 〈活動〉＝活動で求められることに対応する"
+      ],
+      "collocations": [
+        {
+          "pattern": "the demands of 〈仕事〉",
+          "use": "仕事が要求する努力や条件をまとめて述べる。",
+          "example": "She is still adjusting to the demands of her new job.",
+          "translation": "彼女はまだ、新しい仕事で求められることに慣れようとしている。"
+        },
+        {
+          "pattern": "demands on someone’s time",
+          "use": "時間を使う必要が重なることを表す。",
+          "example": "There are many demands on his time this month.",
+          "translation": "今月は彼が時間を割く必要のあることが多い。"
+        },
+        {
+          "pattern": "make heavy demands on someone",
+          "use": "人に大きな負担を課す。",
+          "example": "The rehearsal schedule makes heavy demands on the musicians.",
+          "translation": "そのリハーサル日程は演奏者たちに大きな負担をかける。"
+        },
+        {
+          "pattern": "place demands on 〈資源〉",
+          "use": "設備・資源の能力が必要になることを表す。",
+          "example": "Video editing places high demands on computer memory.",
+          "translation": "動画編集ではコンピューターのメモリーに大きな負荷がかかる。"
+        },
+        {
+          "pattern": "meet the demands of 〈活動〉",
+          "use": "活動で必要とされる水準に対応する。",
+          "example": "The new system can meet the demands of round-the-clock service.",
+          "translation": "新しいシステムは24時間体制のサービスに必要な要件に対応できる。"
+        }
+      ],
+      "notes": [
+        "of の後は負担の発生源、on の後は負担がかかる人・資源を示す。the demands of the job on my time なら「仕事が私の時間に課す負担」。この意味では demands が普通だが、一つの負担として a heavy demand on resources のように単数で表すこともある。顧客の個々の要求を表す語義3とは重なる場面があるが、demands on the system は通常「システムへの要求負荷」で、システムが何かを欲しがる意味ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "requirements",
+          "definition": "活動に必要な条件や、満たすべき事項。",
+          "frequency": 9,
+          "difference": "条件の内容を客観的に示しやすく、人や資源への負担感は必ずしも伴わない。",
+          "example": "The software meets the project’s technical requirements.",
+          "translation": "そのソフトウェアはプロジェクトの技術要件を満たしている。"
+        },
+        {
+          "word": "pressures",
+          "definition": "人に行動・対応を迫る負担や圧力。",
+          "frequency": 8,
+          "difference": "追い立てられる感覚や困難さをより強く表す。",
+          "example": "She discussed the pressures of managing a large team.",
+          "translation": "彼女は大きなチームを管理する重圧について話した。"
+        },
+        {
+          "word": "burden",
+          "definition": "負担となる仕事・責任・費用など。",
+          "frequency": 8,
+          "difference": "重くのしかかる否定的な評価を表しやすい。demands は中立的な必要事項にもなる。",
+          "example": "The new process reduced the administrative burden.",
+          "translation": "新しい手順によって事務上の負担が軽減された。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【動詞・他動詞】必要とする",
+      "frequency": 8,
+      "register": [
+        "一般・仕事・学術。"
+      ],
+      "definition": "仕事・活動・状況などが、遂行や適切な対応のために時間・能力・行動などを必要とする。主語が言葉で要求するのではなく、物事の性質から必要になることを表す。",
+      "patterns": [
+        "〈仕事・状況〉 + demand 〈能力・行動〉＝仕事・状況が能力・行動を必要とする",
+        "demand a lot of someone＝人に多くの力を必要とさせる",
+        "be demanded of someone＝人に能力・対応が求められる",
+        "as the situation demands＝状況が必要とするように"
+      ],
+      "collocations": [
+        {
+          "pattern": "demand attention",
+          "use": "問題などに対応が必要であることを示す。",
+          "example": "This safety issue demands immediate attention.",
+          "translation": "この安全上の問題には早急な対応が必要だ。"
+        },
+        {
+          "pattern": "demand 〈能力〉",
+          "use": "活動に必要な力を述べる。",
+          "example": "The work demands patience and accuracy.",
+          "translation": "その仕事には忍耐力と正確さが求められる。"
+        },
+        {
+          "pattern": "demand a lot of someone",
+          "use": "活動が多くの努力を必要とすることを示す。",
+          "example": "The course demands a lot of its students.",
+          "translation": "その講座では受講生に多くの努力が求められる。"
+        },
+        {
+          "pattern": "be demanded of someone",
+          "use": "必要となる能力を主語にする。",
+          "example": "A high level of concentration is demanded of the operators.",
+          "translation": "操作担当者には高い集中力が求められる。"
+        },
+        {
+          "pattern": "as the situation demands",
+          "use": "状況の必要に合わせた対応を述べる。",
+          "example": "We adjust the schedule as the situation demands.",
+          "translation": "私たちは状況に応じて必要な日程調整を行う。"
+        }
+      ],
+      "notes": [
+        "The job demands skill. は「仕事が技能を必要とする」で、命令や発言を意味しない。人が明示的に行動を要求する語義2と区別する。demand は比較的強い必要性を示すが、「必ず不可能なほど難しい」という意味ではない。demand someone to work とせず、求める内容を名詞または that 節で示す。"
+      ],
+      "synonyms": [
+        {
+          "word": "require",
+          "definition": "成立・遂行のために何かを必要とする。",
+          "frequency": 9,
+          "difference": "客観的な必要条件を表す広い語で、demand はその必要の強さを打ち出しやすい。",
+          "example": "The procedure requires careful preparation.",
+          "translation": "その手順には慎重な準備が必要だ。"
+        },
+        {
+          "word": "call for",
+          "definition": "状況にふさわしい対応や能力を必要とする。",
+          "frequency": 8,
+          "difference": "必要な対応との適合を表しやすい前置詞動詞。",
+          "example": "The problem calls for a different approach.",
+          "translation": "その問題には別の取り組み方が必要だ。"
+        },
+        {
+          "word": "necessitate",
+          "definition": "何かを必要不可欠にする。",
+          "frequency": 6,
+          "difference": "原因や事情がある対応を避けられなくすることを表す、より硬い語。",
+          "example": "The damage necessitated extensive repairs.",
+          "translation": "その損傷のために大規模な修理が必要になった。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【動詞・発話を導く用法】強い調子で尋ねる",
+      "frequency": 6,
+      "register": [
+        "会話を描く文章・小説・報道。"
+      ],
+      "definition": "相手に答えを迫るような、強い・厳しい調子で質問する。会話文の発話者を示す動詞として使い、怒りやいらだちを伴うことが多い。",
+      "patterns": [
+        "“〈質問〉,” someone demanded＝人が強い調子で質問した",
+        "demand of someone＝人に強い調子で問いかける"
+      ],
+      "collocations": [
+        {
+          "pattern": "“〈質問〉,” someone demanded",
+          "use": "引用した質問の強い口調を示す。",
+          "example": "“Why was I not told?” she demanded.",
+          "translation": "「どうして私には知らされなかったの？」と彼女は強い調子で尋ねた。"
+        },
+        {
+          "pattern": "demand of someone",
+          "use": "質問の相手を明示する。",
+          "example": "“Where is the missing file?” he demanded of the assistant.",
+          "translation": "「なくなったファイルはどこだ？」と彼は助手に問い詰めた。"
+        }
+      ],
+      "notes": [
+        "引用部が発話内容を示す型で、demand＋人＋質問という二重目的語の型にしない。間接的に答えを要求するなら語義2の demand to know why… が使える。demanded that… は通常、質問の引用ではなく要求内容を表す。"
+      ],
+      "synonyms": [
+        {
+          "word": "ask",
+          "definition": "答えを求めて尋ねる。",
+          "frequency": 10,
+          "difference": "質問の調子は中立的で、強い要求口調は語自体にない。",
+          "example": "“When does the train leave?” she asked.",
+          "translation": "「電車はいつ出ますか」と彼女は尋ねた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【形容詞・demanding・限定／叙述】骨の折れる・高度な力を要する",
+      "frequency": 8,
+      "register": [
+        "一般・仕事・学習。"
+      ],
+      "definition": "仕事・活動・課題などが、多くの努力・時間・技能・集中力を必要とすること。難しさや負担を表すが、やりがいのある課題にも使い、否定的評価に限らない。",
+      "patterns": [
+        "a demanding 〈仕事・課題〉＝多くの力を要する仕事・課題",
+        "〈活動〉 + be demanding＝活動が骨の折れるものである",
+        "physically demanding＝肉体的にきつい",
+        "more demanding than 〈比較対象〉＝比較対象より負担・難度が高い"
+      ],
+      "collocations": [
+        {
+          "pattern": "a demanding job",
+          "use": "高い能力や多くの労力を要する仕事を述べる。",
+          "example": "Managing the laboratory is a demanding job.",
+          "translation": "その研究室の管理は多くの力を要する仕事だ。"
+        },
+        {
+          "pattern": "be demanding",
+          "use": "活動の負担や難しさを述べる。",
+          "example": "The training is demanding but rewarding.",
+          "translation": "その訓練は厳しいが、やりがいがある。"
+        },
+        {
+          "pattern": "physically demanding",
+          "use": "体力面での負担を指定する。",
+          "example": "The work became less physically demanding after the equipment arrived.",
+          "translation": "機器が届いてから、その仕事の肉体的な負担は軽くなった。"
+        },
+        {
+          "pattern": "more demanding than 〈比較対象〉",
+          "use": "求められる力の程度を比較する。",
+          "example": "This assignment is more demanding than the previous one.",
+          "translation": "この課題は前の課題より難度が高い。"
+        }
+      ],
+      "notes": [
+        "a demanding task の demanding は目的語を取らない形容詞。The manager is demanding an answer. の demanding は動詞の進行形で、「責任者が答えを要求している」。very demanding・seems demanding・became more demanding のように程度修飾や状態を表す動詞と結び付く。demanded を「難しい」の意味の形容詞として代用しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "challenging",
+          "definition": "能力を試し、努力を要する。",
+          "frequency": 8,
+          "difference": "挑戦する価値や成長の機会という肯定的な見方を伴いやすい。",
+          "example": "The project was challenging and taught us a great deal.",
+          "translation": "そのプロジェクトは難しかったが、私たちに多くのことを教えてくれた。"
+        },
+        {
+          "word": "taxing",
+          "definition": "力や精神を消耗させるほど負担が大きい。",
+          "frequency": 6,
+          "difference": "高い能力の要求そのものより、消耗・負担を強調する。",
+          "example": "It was a mentally taxing day.",
+          "translation": "精神的に疲れる一日だった。"
+        },
+        {
+          "word": "exacting",
+          "definition": "高度な注意・精密さ・努力を必要とする。",
+          "frequency": 5,
+          "difference": "厳しい水準や細かな正確さの要求を強調し、やや硬い。",
+          "example": "Restoring the painting was exacting work.",
+          "translation": "その絵の修復は高度な注意と正確さを要する仕事だった。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "undemanding",
+          "definition": "多くの努力や技能を必要としない。",
+          "frequency": 5,
+          "difference": "必要な努力・技能の程度という同じ軸で反対。完全に努力不要とは限らない。",
+          "example": "He wanted an undemanding task for the afternoon.",
+          "translation": "彼は午後にはあまり骨の折れない作業をしたいと思っていた。"
+        },
+        {
+          "word": "easy",
+          "definition": "大きな困難や努力なしに行える。",
+          "frequency": 10,
+          "difference": "難度の軸で広く反対を表し、要求される時間や責任の大きさに特化しない。",
+          "example": "The first exercise was easy.",
+          "translation": "最初の練習問題は簡単だった。"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "【形容詞・demanding・限定／叙述】要求の厳しい",
+      "frequency": 7,
+      "register": [
+        "一般・人物評価・接客・仕事。"
+      ],
+      "definition": "人が周囲に多くの注意・世話・成果などを求め、容易には満足しないこと。批判的に使われやすいが、厳しい水準を求める指導者などを中立的に描くこともある。",
+      "patterns": [
+        "a demanding 〈人〉＝要求の厳しい人",
+        "someone + be demanding＝人が多くを要求する",
+        "demanding of 〈人〉＝人に多くを要求して",
+        "become more demanding＝要求がさらに厳しくなる"
+      ],
+      "collocations": [
+        {
+          "pattern": "a demanding client",
+          "use": "高い水準の対応を求める顧客を述べる。",
+          "example": "She handles several demanding clients.",
+          "translation": "彼女は要求の厳しい顧客を何人か担当している。"
+        },
+        {
+          "pattern": "be demanding",
+          "use": "人の要求の強さを描く。",
+          "example": "The director is demanding but fair.",
+          "translation": "その監督は要求が厳しいが、公平だ。"
+        },
+        {
+          "pattern": "demanding of 〈人〉",
+          "use": "誰に高い要求をするかを示す。",
+          "example": "The teacher is demanding of her students.",
+          "translation": "その教師は生徒に多くを要求する。"
+        },
+        {
+          "pattern": "become more demanding",
+          "use": "人の要求水準の変化を述べる。",
+          "example": "Customers have become more demanding about delivery times.",
+          "translation": "顧客は配達時間について以前より厳しい要求をするようになった。"
+        }
+      ],
+      "notes": [
+        "a demanding boss は「部下などへの要求が厳しい上司」で、「高い需要がある上司」ではない。人材として引く手あまたなら in demand。be very demanding は人の性質、be demanding a refund は返金要求という進行中の行為。demanding of oneself は自分に高い基準を求めることで、他人に無理を言う意味には限定されない。"
+      ],
+      "synonyms": [
+        {
+          "word": "exacting",
+          "definition": "他人に高い水準や正確さを厳しく求める。",
+          "frequency": 5,
+          "difference": "精度や基準への厳しさを強調し、注意を引きたがるという意味は弱い。",
+          "example": "He was an exacting editor.",
+          "translation": "彼は高い水準を厳しく求める編集者だった。"
+        },
+        {
+          "word": "hard to please",
+          "definition": "なかなか満足しない。",
+          "frequency": 7,
+          "difference": "満足させにくさを直接表す。demanding は周囲に多くを求める態度に焦点がある。",
+          "example": "The reviewer is hard to please.",
+          "translation": "その批評家はなかなか満足しない。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "undemanding",
+          "definition": "他人に多くを要求しない。",
+          "frequency": 4,
+          "difference": "要求する量・水準の軸で反対。性格全般が穏やかという意味までは含めない。",
+          "example": "They were considerate, undemanding guests.",
+          "translation": "彼らは思いやりがあり、あれこれ要求しない客だった。"
+        }
+      ]
+    }
+  ]
+}
