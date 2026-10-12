@@ -1,0 +1,223 @@
+{
+  "word": "landlord",
+  "slug": "landlord",
+  "ipa": "米: /ˈlændˌlɔːrd/｜英: /ˈlændˌlɔːd/。2音節で、第1音節 /lænd/ に主強勢、第2音節に第二強勢を置く表記。米英差は第2音節の /r/ の有無。ここで示したイギリスの非r音性の発音では、語末側の r を発音しない。複数形 landlords は末尾が /dz/ となる。",
+  "lead": "土地・住居・事務所などを他者に貸し、賃料を受け取る側の人・会社・組織。典型的には物件の所有者だが、単に建物の掃除や連絡を担当する管理者を指す語ではない。",
+  "updated": "2026-10-12",
+  "notion_url": "https://app.notion.com/p/landlord-3f74faa9b77d81cc9e5ce27c43825271",
+  "pronunciation": [],
+  "etymology": [
+    "land「土地」と lord「主、主人」の複合語で、古英語の landhlaford にさかのぼる。土地・家屋を貸す側や、宿・飲食の場を切り盛りする主人を表すようになった。lord 自体は古英語でパンを守る者を表した語に由来するが、現代の landlord が貴族の称号や封建的身分を意味するわけではない。"
+  ],
+  "formation": [
+    {
+      "term": "landlady",
+      "description": "可算名詞。「女性の大家」「女性のパブ・宿の主人」。landlord は性別を限定せず使われることも多く、両者を常に男女で機械的に振り分けない。"
+    },
+    {
+      "term": "landlord-tenant",
+      "description": "名詞の前で「貸主と借主に関する」を表す複合修飾。landlord-tenant relations は「貸主と借主の関係」。"
+    },
+    {
+      "term": "landlords",
+      "description": "複数形。landlord's は単数所有格、landlords' は複数所有格であり、複数形のつづりとは区別する。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "他者が使う不動産や、客を迎える場を提供・管理する側。現代では、物件の貸主とパブ・宿の主人という二つの文脈を区別して覚えるとよい。"
+    },
+    {
+      "type": "item",
+      "text": "場を提供・管理する不動産の貸主 → 「大家、家主、賃貸人」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "場を提供・管理するパブの主人 → 「パブの経営者、店主」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "場を提供・管理する宿泊の主人 → 「宿屋・下宿屋の主人」（語義3）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算】大家、家主、賃貸人",
+      "frequency": 8,
+      "register": [
+        "一般、不動産、事業。"
+      ],
+      "definition": "土地・住居・事務所などを他者に貸し、賃料を受け取る側の人・会社・組織。典型的には物件の所有者だが、単に建物の掃除や連絡を担当する管理者を指す語ではない。",
+      "patterns": [
+        "someone's landlord＝その人の貸主。the landlord of 〈物件〉＝その物件の貸主。a private landlord＝民間の貸主。a commercial landlord＝商業物件の貸主。pay rent to a landlord＝貸主に賃料を払う。"
+      ],
+      "collocations": [
+        {
+          "pattern": "someone's landlord",
+          "use": "借主から見た貸主との関係。",
+          "example": "My landlord has agreed to replace the broken heater.",
+          "translation": "私の大家は、壊れた暖房器具を取り替えることに同意した。"
+        },
+        {
+          "pattern": "the landlord of 〈物件〉",
+          "use": "貸している物件を明示する。",
+          "example": "The landlord of the office building is a property investment company.",
+          "translation": "そのオフィスビルの貸主は不動産投資会社だ。"
+        },
+        {
+          "pattern": "a private landlord",
+          "use": "公的機関などと区別した民間の貸主。",
+          "example": "The apartment is rented from a private landlord.",
+          "translation": "そのアパートは民間の貸主から借りている。"
+        },
+        {
+          "pattern": "a commercial landlord",
+          "use": "事業用物件の賃貸人。",
+          "example": "The commercial landlord met with the shop owners to discuss access during construction.",
+          "translation": "商業物件の貸主は店主たちと会い、工事中の出入りについて話し合った。"
+        },
+        {
+          "pattern": "pay rent to a landlord",
+          "use": "家賃・賃料の支払先。",
+          "example": "We pay rent to the landlord at the beginning of each month.",
+          "translation": "私たちは毎月初めに貸主に賃料を払う。"
+        }
+      ],
+      "notes": [
+        "landlord は男性個人だけでなく、女性や法人にも使われる。landlady は女性を明示する語で、実際の呼称や本人の使う表現に合わせるとよい。a landlord は不動産を貸す側、a tenant は借りる側。これらは役割の対照表現であり、単純な反意語として扱わない。owner は所有者、property manager は管理担当者で、同じ人物が兼ねることはあっても常に同一ではない。語自体は一般に中立で、悪い大家という評価は slumlord、exploitative landlord など別の表現・文脈から生じる。修繕責任、通知期限、敷金の扱いは法域・契約によって異なり、landlord の定義に特定の制度条件を含めない。"
+      ],
+      "synonyms": [
+        {
+          "word": "lessor",
+          "definition": "賃貸借契約で物を貸す側の当事者。",
+          "frequency": 4,
+          "difference": "契約・法律寄り。土地や建物だけでなく車・機器を貸す側にも使う。",
+          "example": "The lessor remains the owner of the leased equipment.",
+          "translation": "リース設備の所有者は引き続き貸主である。"
+        },
+        {
+          "word": "landlady",
+          "definition": "女性の大家・家主。",
+          "frequency": 6,
+          "difference": "性別を女性に限定する。landlord は性別を限定せず使われる場合もある。",
+          "example": "Our landlady lives in the house next door.",
+          "translation": "私たちの女性の大家は隣の家に住んでいる。"
+        },
+        {
+          "word": "owner",
+          "definition": "財産を所有する人や組織。",
+          "frequency": 9,
+          "difference": "貸し出していることまでは意味しない。所有者でも自分で使うだけなら通常 landlord とは呼ばない。",
+          "example": "The owner decided to use the house as a family home.",
+          "translation": "所有者は、その家を家族の住まいとして使うことにした。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算】パブの経営者、店主",
+      "frequency": 5,
+      "register": [
+        "主にイギリス英語。パブ、飲食業。"
+      ],
+      "definition": "パブを所有したり、その営業を取り仕切ったりする人。客に飲食を提供する店の主人を表す用法で、単に建物を貸している家主とは区別する。",
+      "patterns": [
+        "the landlord of 〈パブ名〉＝そのパブの店主。the pub landlord＝パブの主人。ask the landlord＝店の主人に尋ねる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the landlord of 〈パブ名〉",
+          "use": "パブの営業を取り仕切る人物。",
+          "example": "The landlord of the Red Lion served the first customers himself.",
+          "translation": "レッド・ライオンの店主は、最初の客たちに自ら飲み物を出した。"
+        },
+        {
+          "pattern": "the pub landlord",
+          "use": "パブという文脈を明示する。",
+          "example": "The pub landlord announced that the kitchen would close at nine.",
+          "translation": "パブの店主は、料理の提供を9時に終えると告げた。"
+        },
+        {
+          "pattern": "ask the landlord",
+          "use": "店内で主人に問い合わせる。",
+          "example": "We asked the landlord which local beers were available.",
+          "translation": "私たちは店主に、どの地ビールを飲めるか尋ねた。"
+        }
+      ],
+      "notes": [
+        "英国で the landlord がビールを出したり閉店時刻を知らせたりしていれば、この意味が自然。パブの経営者が建物を借りて営業していることもあるので、この義に「建物の所有者」を必須条件として加えない。pub's landlord は建物の貸主を指す可能性もあり、営業行為などの文脈で見分ける。アメリカ英語では pub owner、bar owner、manager など役割に合う表現の方が明瞭。"
+      ],
+      "synonyms": [
+        {
+          "word": "publican",
+          "definition": "パブを経営・管理する人。",
+          "frequency": 4,
+          "difference": "主にイギリス英語で、職業を直接示すやや硬い語。landlord の不動産義との曖昧さが少ない。",
+          "example": "The publican ordered another delivery of local beer.",
+          "translation": "そのパブ経営者は、地ビールの追加配送を注文した。"
+        },
+        {
+          "word": "proprietor",
+          "definition": "店や事業の所有者・経営主。",
+          "frequency": 5,
+          "difference": "パブ以外にも使う、やや改まった語。単なる雇われ管理者より所有・経営主としての立場を表す。",
+          "example": "The proprietor of the pub greeted the guests at the door.",
+          "translation": "パブの経営主は入口で客を迎えた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算】宿屋・下宿屋の主人",
+      "frequency": 3,
+      "register": [
+        "宿泊、文学。現代ではやや古風な響きがある。"
+      ],
+      "definition": "宿屋や下宿屋などを所有・経営し、宿泊客や下宿人を受け入れる主人。住居を契約で貸すだけの意味より、宿泊の場を切り盛りする役割が前面に出る。",
+      "patterns": [
+        "the landlord of an inn＝宿屋の主人。the boarding-house landlord＝下宿屋の主人。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the landlord of an inn",
+          "use": "物語などで宿の主人を示す。",
+          "example": "The landlord of the inn showed the travellers to their rooms.",
+          "translation": "宿屋の主人は、旅人たちを部屋へ案内した。"
+        },
+        {
+          "pattern": "the boarding-house landlord",
+          "use": "下宿の主人による客の受け入れ。",
+          "example": "The boarding-house landlord welcomed the new lodger and explained the meal times.",
+          "translation": "下宿屋の主人は新しい下宿人を迎え、食事の時間を説明した。"
+        }
+      ],
+      "notes": [
+        "現代のホテルについて、受付係や雇われ支配人をすべて landlord と呼ぶわけではない。hotel manager は支配人、innkeeper は宿の主人。女性の主人には landlady も使われる。語義1の大家と重なる場面もあるが、ここでは客を泊め、宿を切り盛りする人という文脈が重要。"
+      ],
+      "synonyms": [
+        {
+          "word": "innkeeper",
+          "definition": "宿屋を営む人。",
+          "frequency": 4,
+          "difference": "宿泊業の役割を直接表し、不動産の貸主という読みが生じにくい。",
+          "example": "The innkeeper prepared breakfast for the guests.",
+          "translation": "宿屋の主人は、宿泊客のために朝食を用意した。"
+        },
+        {
+          "word": "hotelier",
+          "definition": "ホテルの所有者・経営者。",
+          "frequency": 4,
+          "difference": "ホテル事業を営む立場を表し、小規模な宿の主人という古風な響きは弱い。",
+          "example": "The hotelier opened a second property near the coast.",
+          "translation": "そのホテル経営者は、海岸近くに2軒目の施設を開業した。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
