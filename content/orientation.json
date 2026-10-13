@@ -1,0 +1,418 @@
+{
+  "word": "orientation",
+  "slug": "orientation",
+  "ipa": "米・英: /ˌɔː.ri.ənˈteɪ.ʃən/",
+  "lead": "新しい仕事・学校・活動・環境に入る人が、仕組みや役割、利用方法などを理解して慣れるための説明・案内・導入研修。専門技能を十分に習得する訓練全体ではなく、出発時の理解と適応に焦点がある。個別の会や課程を一つの単位として数える可算用法もある。",
+  "updated": "2026-10-13",
+  "notion_url": "https://app.notion.com/p/orientation-3f84faa9b77d816daeb5e80f783a4681",
+  "pronunciation": [
+    "この表記では5音節で、第4音節 /teɪ/ に主強勢、第1音節に第二強勢を置く。第2音節の /r/ は後ろの母音につながるため、英国の非r音性発音でも発音する。日本語の「オリエンテーション」のように各部分を均等に強く読まない。"
+  ],
+  "etymology": [
+    "orient「向ける、方向・状況を把握させる」と関係する名詞で、19世紀の英語に見られる。直接の形成は orient または orientate から説明される。語族のもとにある orient はフランス語を経て、ラテン語 oriens「昇るもの、東」にさかのぼり、oriri「昇る、起こる」に由来する。",
+    "orient「向ける」と oriental「東洋の」はこの系列を共有する。東や方角に関わる歴史はあるが、現在の orientation が常に東向きを表すわけではない。"
+  ],
+  "formation": [
+    {
+      "term": "orient",
+      "description": "動詞。「向きを定める、状況に慣れさせる」。orient someone to a new environment のように使う。"
+    },
+    {
+      "term": "orientate",
+      "description": "orient と意味が重なる動詞。特に英国英語で使われる。"
+    },
+    {
+      "term": "reorientation",
+      "description": "名詞。「方向・方針の転換、再適応」。単なる導入説明の再受講に限らない。"
+    },
+    {
+      "term": "disorientation",
+      "description": "不可算名詞。「方向や状況が分からない状態、見当識障害」。orientation の各用法に一律に対応する反対語ではない。"
+    },
+    {
+      "term": "customer-oriented",
+      "description": "形容詞。「顧客重視の」。名詞 orientation と、形容詞を作る -oriented を区別する。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "核は「周囲や対象との関係で定まる向き・位置づけ」。物体の向きだけでなく、人・組織の関心の方向、新しい環境や現在の状況の把握にも広がる。"
+    },
+    {
+      "type": "item",
+      "text": "環境との関係をつかむための導入 → 「導入説明、オリエンテーション」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "関心の対象との関係で定まる方向 → 「志向、方向性、考え方の傾向」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "惹かれる対象との関係で定まる方向 → 「性的指向」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "空間の基準との関係で定まる方向 → 「向き、配置の方向」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "現在の状況との関係をつかむ意識 → 「見当識、現在の状況の把握」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "外部刺激との関係で定まる方向 → 「刺激に応じた定位、方向づけ」（語義6）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・主に不可算】導入説明、オリエンテーション",
+      "frequency": 7,
+      "register": [
+        "職場・大学・各種プログラム。特に北米の導入案内でよく使う。"
+      ],
+      "definition": "新しい仕事・学校・活動・環境に入る人が、仕組みや役割、利用方法などを理解して慣れるための説明・案内・導入研修。専門技能を十分に習得する訓練全体ではなく、出発時の理解と適応に焦点がある。個別の会や課程を一つの単位として数える可算用法もある。",
+      "patterns": [
+        "orientation for 〈対象者〉＝その人たち向けの導入説明",
+        "the orientation of 〈新しく入る人〉＝その人たちを環境に慣れさせること",
+        "receive orientation＝導入説明を受ける",
+        "an orientation session/program＝導入説明会・導入課程",
+        "attend orientation＝導入説明に参加する",
+        "an orientation to 〈環境・制度〉＝その環境・制度に慣れるための案内。"
+      ],
+      "collocations": [
+        {
+          "pattern": "orientation for 〈対象者〉",
+          "use": "新しい環境に入る対象者を示す。",
+          "example": "Orientation for new employees includes a tour of the building.",
+          "translation": "新入社員向けの導入研修には、建物内の案内が含まれる。"
+        },
+        {
+          "pattern": "the orientation of 〈新しく入る人〉",
+          "use": "受け入れた人への案内・適応支援を表す。",
+          "example": "These materials support the orientation of incoming students.",
+          "translation": "これらの資料は、新入生への導入案内に役立つ。"
+        },
+        {
+          "pattern": "receive orientation",
+          "use": "基本的な説明や案内を受けることを述べる。",
+          "example": "Volunteers receive orientation before their first shift.",
+          "translation": "ボランティアは、最初の勤務に入る前に導入説明を受ける。"
+        },
+        {
+          "pattern": "an orientation session",
+          "use": "一回の説明会を明確に数える。",
+          "example": "The orientation session will explain how to access the research facilities.",
+          "translation": "導入説明会では、研究施設の利用方法を説明する。"
+        },
+        {
+          "pattern": "attend orientation",
+          "use": "導入プログラムへの参加を表す。",
+          "example": "All new students are invited to attend orientation.",
+          "translation": "新入生全員に、オリエンテーションへの参加が案内されている。"
+        },
+        {
+          "pattern": "an orientation to 〈環境・制度〉",
+          "use": "初めて接する仕組みを理解するための案内を示す。",
+          "example": "The course begins with an orientation to the online learning platform.",
+          "translation": "その講座は、オンライン学習システムの導入案内から始まる。"
+        }
+      ],
+      "notes": [
+        "Orientation is provided. のように不可算で使うのが基本。一回の会を示す a short orientation、複数の会を指す orientations も見られ、すべて誤りとはいえないが、an orientation session、two orientation sessions とすれば数える単位が明確になる。orientation は導入・適応、training は技能を身につける訓練が中心で、orientation and training と並べることもある。対象が学生・利用者・ボランティアなら、機械的に「新入社員研修」と訳さない。orientation to a system は導入案内だが、orientation towards profit は語義2の利益志向。後続対象と文脈を一緒に読む。"
+      ],
+      "synonyms": [
+        {
+          "word": "induction",
+          "definition": "新しく組織に入る人に仕事や環境を紹介し、慣れてもらう導入。",
+          "frequency": 6,
+          "difference": "この意味は特に英国の職場でよく使う。orientation と重なるが、induction には就任・加入の正式な手続きという別義もある。",
+          "example": "New staff complete an induction program.",
+          "translation": "新しい職員は導入プログラムを修了する。"
+        },
+        {
+          "word": "onboarding",
+          "definition": "新しく加わる人が組織やサービスで活動できるようにする受け入れ過程。",
+          "frequency": 6,
+          "difference": "書類・設定・業務への適応などを含む広い過程を表しやすい。orientation はその中の案内・説明の機会にもなる。",
+          "example": "The onboarding process includes setting up an employee account.",
+          "translation": "入社時の受け入れ手続きには、社員アカウントの設定が含まれる。"
+        },
+        {
+          "word": "introduction",
+          "definition": "初めて接する分野や仕組みについての基本的な説明。",
+          "frequency": 8,
+          "difference": "知識への入門も広く表す。orientation は新しい環境で自分がどう動くかを把握する点を含みやすい。",
+          "example": "The video provides an introduction to the archive's search tools.",
+          "translation": "その動画は、文書保管庫の検索ツールについて基本的な説明をしている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算/不可算】志向、方向性、考え方の傾向",
+      "frequency": 6,
+      "register": [
+        "説明的・やや硬い文章。経営・社会・政治・学術。"
+      ],
+      "definition": "人や組織が何を重視し、どのような考え・目的・関心へ向かっているかという基本的な方向性。政治的・宗教的な立場、顧客や市場への関心、理論・実践のどちらに重点を置くかなどを表す。一時的に注意を向けたというだけでなく、比較的基礎的な性格を述べることが多い。",
+      "patterns": [
+        "a 〈形容詞〉 orientation＝その性格の志向・方向性",
+        "orientation to/towards 〈重視する対象〉＝その対象への志向",
+        "be 〈形容詞〉 in orientation＝方向性としてその性格を持つ",
+        "the orientation of 〈人・組織・活動〉＝その人・組織・活動の基本的な方向性。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a customer orientation",
+          "use": "顧客を重視する事業の姿勢を示す。",
+          "example": "The company wants to strengthen its customer orientation.",
+          "translation": "その会社は、顧客重視の姿勢を強めたいと考えている。"
+        },
+        {
+          "pattern": "orientation towards 〈重視する対象〉",
+          "use": "関心や活動を向ける先を示す。",
+          "example": "The reforms reflect a stronger orientation towards international trade.",
+          "translation": "その改革には、国際貿易を一層重視する方向性が表れている。"
+        },
+        {
+          "pattern": "be 〈形容詞〉 in orientation",
+          "use": "活動や組織の基本的な性格を述べる。",
+          "example": "The program is practical rather than theoretical in orientation.",
+          "translation": "そのプログラムは、理論より実践を重視する方向性を持っている。"
+        },
+        {
+          "pattern": "political orientation",
+          "use": "政治的な立場・考え方の傾向を表す。",
+          "example": "The publication's political orientation has changed over time.",
+          "translation": "その刊行物の政治的な立場は、時とともに変化してきた。"
+        }
+      ],
+      "notes": [
+        "a strong commercial orientation のように一つの性格として可算化でき、differences in political orientation のように一般的な性質として不可算にもなる。in orientation は「方向性の点で」で、語義1の「導入研修中」ではない。to と towards は志向の対象を導ける。toward は towards と同じ意味で、特に米語でよく使う。market orientation は市場・顧客の動向を重視する姿勢であり、市場の所在地や建物の向きではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "outlook",
+          "definition": "物事の見方や基本的な考え方。",
+          "frequency": 7,
+          "difference": "人の世界観・見方に焦点がある。orientation は組織の目標や実践・理論の方向性にも使う。",
+          "example": "Travel broadened her outlook.",
+          "translation": "旅行によって彼女のものの見方が広がった。"
+        },
+        {
+          "word": "leaning",
+          "definition": "特定の思想・立場などに傾く傾向。",
+          "frequency": 5,
+          "difference": "傾きを表し、leanings と複数で使うことも多い。orientation は活動の基本的な性格を中立的に分類する際にも使う。",
+          "example": "His political leanings became clear during the debate.",
+          "translation": "討論の中で、彼の政治的な傾向が明らかになった。"
+        },
+        {
+          "word": "focus",
+          "definition": "注意・努力・関心を集める中心。",
+          "frequency": 9,
+          "difference": "今取り組む対象にも使え、必ずしも長期的な志向ではない。orientation はより基礎的な方向づけを表しやすい。",
+          "example": "The team's focus is improving customer support.",
+          "translation": "チームが重点を置いているのは、顧客サポートの改善だ。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算/不可算】性的指向",
+      "frequency": 6,
+      "register": [
+        "一般・報道・社会・調査。差別や平等を論じる文脈でも用いる。"
+      ],
+      "definition": "性的・恋愛的にどのような相手に惹かれるかに関わる指向。通常は sexual orientation という組み合わせで使い、異性愛・同性愛・両性愛などを論じる文脈に現れる。個人のその場の選択や、一回の行動だけを意味する語ではない。",
+      "patterns": [
+        "someone's sexual orientation＝その人の性的指向",
+        "regardless of sexual orientation＝性的指向にかかわらず",
+        "people of different sexual orientations＝性的指向の異なる人々。"
+      ],
+      "collocations": [
+        {
+          "pattern": "someone's sexual orientation",
+          "use": "個人の性的指向について述べる。",
+          "example": "The survey does not ask about anyone's sexual orientation.",
+          "translation": "その調査は、誰の性的指向についても尋ねていない。"
+        },
+        {
+          "pattern": "regardless of sexual orientation",
+          "use": "性的指向を問わないことを述べる。",
+          "example": "The group welcomes members regardless of sexual orientation.",
+          "translation": "その団体は、性的指向にかかわらず会員を歓迎している。"
+        },
+        {
+          "pattern": "people of different sexual orientations",
+          "use": "性的指向の異なる人々を表す。",
+          "example": "People of different sexual orientations contributed to the discussion.",
+          "translation": "性的指向の異なる人々が、その話し合いに意見を寄せた。"
+        }
+      ],
+      "notes": [
+        "文脈が明確なら orientation だけでも使う。gender identity「ジェンダー・アイデンティティ」とは別の概念で、相互に言い換えない。sexual preference は個人的な選択という含みで受け取られることがあるため、この概念を中立的に述べるには sexual orientation が適する。日本語も、目的に向かう「志向」と区別して「性的指向」とする。法的保護の対象や範囲は、語の意味だけから決まらない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・可算/不可算】向き、配置の方向",
+      "frequency": 6,
+      "register": [
+        "一般的な技術説明・建築・設計・画面や印刷の設定。"
+      ],
+      "definition": "物体・建物・画面などが、基準となる方向や他の物に対してどちらを向いているかということ。地理的な方角、縦横、軸の方向などを表す。位置そのものよりも、その位置での向きに焦点がある。",
+      "patterns": [
+        "the orientation of 〈物体〉＝その物体の向き",
+        "in a 〈形容詞〉 orientation＝その向きの状態で",
+        "in portrait/landscape orientation＝縦向き・横向きで",
+        "change the orientation of 〈物体・画面〉＝その向きを変える",
+        "orientation relative to 〈基準〉＝その基準に対する向き。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the orientation of 〈物体〉",
+          "use": "対象物が向いている方向を述べる。",
+          "example": "The orientation of the building affects how much sunlight enters the rooms.",
+          "translation": "建物の向きは、部屋に入る日光の量に影響する。"
+        },
+        {
+          "pattern": "in a vertical orientation",
+          "use": "垂直な向きに配置されていることを示す。",
+          "example": "The sensor must be installed in a vertical orientation.",
+          "translation": "センサーは垂直な向きに取り付ける必要がある。"
+        },
+        {
+          "pattern": "in landscape orientation",
+          "use": "画面やページが横長になる方向を示す。",
+          "example": "Print the chart in landscape orientation.",
+          "translation": "その図表は用紙を横向きにして印刷してください。"
+        },
+        {
+          "pattern": "change the orientation of 〈物体・画面〉",
+          "use": "対象の向きを変更することを述べる。",
+          "example": "Rotating the tablet changes the orientation of the display.",
+          "translation": "タブレットを回すと、表示の向きが変わる。"
+        },
+        {
+          "pattern": "orientation relative to 〈基準〉",
+          "use": "何に対する向きなのかを明示する。",
+          "example": "We measured the panel's orientation relative to the wall.",
+          "translation": "私たちは、壁に対するパネルの向きを測定した。"
+        }
+      ],
+      "notes": [
+        "a horizontal orientation のように特定の向きを可算で表せる。page orientation や portrait orientation のように、設定・性質を不可算的に扱う用法も一般的。portrait は縦、landscape は横であり、ここでは肖像画や風景そのものを指さない。location は「どこにあるか」、orientation は「どちらを向くか」が中心。分子・結晶などの配向にも使われるが、具体的な配置や基準軸は専門文脈で確かめる。"
+      ],
+      "synonyms": [
+        {
+          "word": "direction",
+          "definition": "物が向いている方角・向き。",
+          "frequency": 9,
+          "difference": "移動する方向にも広く使う。orientation は物体の姿勢や基準に対する配置を述べやすい。",
+          "example": "Turn the camera in the opposite direction.",
+          "translation": "カメラを反対の方向に向けてください。"
+        },
+        {
+          "word": "alignment",
+          "definition": "他の物や基準に対してそろえられた配置。",
+          "frequency": 6,
+          "difference": "位置や軸が合うことを重視する。orientation は、そろっているかにかかわらず向き自体を表す。",
+          "example": "Check the alignment of the two panels.",
+          "translation": "2枚のパネルの位置合わせを確認してください。"
+        },
+        {
+          "word": "position",
+          "definition": "物の位置や置かれ方・姿勢。",
+          "frequency": 9,
+          "difference": "場所と姿勢の両方を含む広い語。orientation はそのうち向きに焦点を絞る。",
+          "example": "Leave the lid in an upright position.",
+          "translation": "ふたを直立した状態にしておいてください。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞・不可算】見当識、現在の状況の把握",
+      "frequency": 3,
+      "register": [
+        "医学・心理学。日常の道案内とは区別する。"
+      ],
+      "definition": "現在の時間・場所・人などについて、自分がどのような状況にいるかを把握していること。医学・心理学では「見当識」という。方角を知っていることだけでも、知識や記憶全体が保たれていることでもない。",
+      "patterns": [
+        "assess someone's orientation＝その人の見当識を評価する",
+        "orientation to time and place＝時間と場所に関する見当識",
+        "loss of orientation＝見当識の喪失。"
+      ],
+      "collocations": [
+        {
+          "pattern": "assess someone's orientation",
+          "use": "現在の状況を把握しているかを確認することを述べる。",
+          "example": "The clinician assessed the patient's orientation during the interview.",
+          "translation": "臨床担当者は面接中に、患者の見当識を評価した。"
+        },
+        {
+          "pattern": "orientation to time and place",
+          "use": "見当識の対象となる側面を明示する。",
+          "example": "The report records the patient's orientation to time and place.",
+          "translation": "その報告書には、患者の時間と場所に関する見当識が記録されている。"
+        }
+      ],
+      "notes": [
+        "職場の説明会を受ける語義1とは異なる。orientation to time and place は「時間と場所に関する導入説明」ではない。この語だけで認知機能全体や特定の病名を判断することはできない。"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "disorientation",
+          "definition": "現在の時間・場所などを把握できず混乱している状態。",
+          "frequency": 4,
+          "difference": "現在の状況を把握できているかという同じ軸上の状態の対立。政治的志向や導入研修の反対ではない。",
+          "example": "The patient showed signs of disorientation.",
+          "translation": "患者には見当識の混乱を示す兆候があった。"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "【名詞・不可算】刺激に応じた定位、方向づけ",
+      "frequency": 2,
+      "register": [
+        "生物学。"
+      ],
+      "definition": "生物やその一部が、光・重力などの外部刺激に対して一定の位置や向きを取ること。生物の反応を述べる専門的な用法。",
+      "patterns": [
+        "orientation towards 〈刺激源〉＝その刺激源に向く定位",
+        "the orientation of 〈生物〉 in response to 〈刺激〉＝その刺激に反応した生物の定位。"
+      ],
+      "collocations": [
+        {
+          "pattern": "orientation towards light",
+          "use": "光の方向への定位を示す。",
+          "example": "The experiment examined the insects' orientation towards light.",
+          "translation": "その実験は、昆虫が光の方向を向く反応を調べた。"
+        },
+        {
+          "pattern": "the orientation of 〈生物〉 in response to 〈刺激〉",
+          "use": "刺激に対して生じる生物の向きの反応を示す。",
+          "example": "The researchers recorded the orientation of the fish in response to the current.",
+          "translation": "研究者たちは、水流に反応した魚の定位を記録した。"
+        }
+      ],
+      "notes": [
+        "ここでは生物の向き・位置関係を述べる。特定方向への移動、成長、感覚の仕組みまでを一律に意味するわけではない。",
+        "語義4の静的な物の配置と関係はあるが、生物学では刺激に応じる反応という文脈を読む。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}

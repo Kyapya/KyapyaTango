@@ -1,0 +1,373 @@
+{
+  "word": "protocol",
+  "slug": "protocol",
+  "ipa": "米: /ˈproʊtəkɔːl/｜英: /ˈprəʊtəkɒl/",
+  "lead": "公式な場や特定の組織・状況で、どのように振る舞い、対応するのが適切かを定める規範。外交上の儀礼だけでなく、職場の連絡、来訪者への対応、安全上の取扱いなどにも広がる。伝統・慣習に基づく場合も、明文化された決まりの場合もある。",
+  "updated": "2026-10-13",
+  "notion_url": "https://app.notion.com/p/protocol-3f84faa9b77d813eb118c1c9c4785a88",
+  "pronunciation": [
+    "3音節で、主強勢は第1音節。示した発音では、第1音節の母音が米 /oʊ/・英 /əʊ/、第3音節の母音が米 /ɔː/・英 /ɒ/ で異なる。第2音節の母音 /ə/ は共通する。米式の第3音節には /ɑː/ を使う発音もある。後半を英語の call と同じ語だと考えない。"
+  ],
+  "etymology": [
+    "フランス語 prothocole、中世ラテン語 protocollum を経て、後期ギリシャ語 prōtokollon にさかのぼる。prōtos「最初の」と、kolla「のり」につながる要素から成り、文書の最初に貼り付ける紙葉を指した。そこから文書・交渉の記録を指すようになり、外交儀礼の用法にはフランス語 protocole の影響がある。フランス語の時代区分などには辞書間の記述差があるため、ここでは借用年代を一つに固定しない。",
+    "prototype「原型、試作品」は prōtos を、collagen「コラーゲン」は kolla を共有する。共通する語源要素があるだけで、これらが protocol の派生語というわけではない。"
+  ],
+  "formation": [
+    {
+      "term": "protocols",
+      "description": "名詞の複数形。複数の規約・手順・議定書を数える形で、儀礼や行動上の個々の決まりを指す場合もある。"
+    },
+    {
+      "term": "Internet Protocol",
+      "description": "通信規約の固有の名称で、IP と略す。一般名詞 protocol は「規約」という種類を示し、特定の製品や装置を意味しない。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "関係者が共通に扱えるように定めた、進め方や取り決めの枠組み。人の振る舞い、研究、通信、国際的な合意へと対象が広がる。語義5は歴史的残存義で、実施方法を定めることを必須としない「元の記録」という語彙的意味がこの核から導けないため、個別に参照する。"
+    },
+    {
+      "type": "item",
+      "text": "共通の取り決めによる人の振る舞い → 「儀礼、行動・対応上の規範」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "共通の取り決めによる研究・治療の進め方 → 「実施計画、所定の手順」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "共通の取り決めによるデータのやり取り → 「通信規約、プロトコル」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "共通の取り決めによる国家間の合意 → 「議定書、外交上の合意文書」（語義4）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・主に不可算、個々の規範は可算】儀礼、行動・対応上の規範",
+      "frequency": 6,
+      "register": [
+        "やや改まった一般語。外交、組織運営、業務上の対応、報道。"
+      ],
+      "definition": "公式な場や特定の組織・状況で、どのように振る舞い、対応するのが適切かを定める規範。外交上の儀礼だけでなく、職場の連絡、来訪者への対応、安全上の取扱いなどにも広がる。伝統・慣習に基づく場合も、明文化された決まりの場合もある。",
+      "patterns": [
+        "follow protocol＝所定の規範に従う",
+        "a breach of protocol＝儀礼・規範への違反",
+        "against protocol＝規範に反して",
+        "the protocol for 〈動名詞〉＝ある行為で採るべき正式な対応",
+        "establish protocols for 〈対応対象〉＝対象に関する対応上の決まりを定める。"
+      ],
+      "collocations": [
+        {
+          "pattern": "follow protocol",
+          "use": "公式な対応や慣例に沿うことを述べる。",
+          "example": "The hosts followed protocol when welcoming the visiting president.",
+          "translation": "主催者側は、訪問した大統領を迎える際に儀礼に従った。"
+        },
+        {
+          "pattern": "a breach of protocol",
+          "use": "正式な振る舞いから外れた行為を指す。",
+          "example": "Speaking before the chair had opened the session was seen as a breach of protocol.",
+          "translation": "議長が開会する前に発言したことは、議事上の礼儀に反すると見なされた。"
+        },
+        {
+          "pattern": "against protocol",
+          "use": "想定される適切な対応と食い違うことを示す。",
+          "example": "Contacting the client directly would be against protocol.",
+          "translation": "顧客に直接連絡することは、所定の対応上の決まりに反するだろう。"
+        },
+        {
+          "pattern": "the protocol for 〈動名詞〉",
+          "use": "ある状況での適切な扱い方を質問する。",
+          "example": "What is the protocol for introducing a guest speaker?",
+          "translation": "ゲスト講演者を紹介するときの正式な手順はどうなっていますか。"
+        },
+        {
+          "pattern": "establish protocols for 〈対応対象〉",
+          "use": "組織で共有する対応規則を設ける。",
+          "example": "The company established protocols for emergency communications.",
+          "translation": "会社は緊急時の連絡に関する対応規則を定めた。"
+        }
+      ],
+      "notes": [
+        "儀礼・規範全般は follow protocol、diplomatic protocol のように不可算で使いやすい。特定の一式なら a protocol、複数の決まりなら protocols とする。a breach of protocol の a は breach に付いている。procedure が実行の仕方や順序を捉えるのに対し、protocol は共有する規範としての面を捉えやすいが、厳格さや法的拘束力の順位を示す語ではない。安全上の文脈でも、実際の義務や対応内容は個別の文書で確認する。"
+      ],
+      "synonyms": [
+        {
+          "word": "etiquette",
+          "definition": "特定の社会や場面で適切とされる礼儀・作法。",
+          "frequency": 5,
+          "difference": "人付き合いの礼儀に重点がある。protocol は公式な儀礼に加え、組織の対応上の決まりも指す。",
+          "example": "The guide explains business etiquette in international meetings.",
+          "translation": "その手引きは、国際的な会議でのビジネスマナーを説明している。"
+        },
+        {
+          "word": "procedure",
+          "definition": "作業や手続きを行うための定まった進め方。",
+          "frequency": 8,
+          "difference": "何をどのように進めるかに焦点を置く。protocol と重なるが、儀礼や対人上の振る舞いに限らない。",
+          "example": "Please follow the procedure for reporting lost equipment.",
+          "translation": "機器の紛失を報告する手順に従ってください。"
+        },
+        {
+          "word": "convention",
+          "definition": "社会や集団で広く受け入れられている慣習的なやり方。",
+          "frequency": 6,
+          "difference": "慣習として定着している点を強調する。protocol は公式の場や明示された対応規範を指す場合もある。",
+          "example": "Local convention requires visitors to remove their shoes.",
+          "translation": "その地域の慣習では、訪問者は靴を脱ぐことになっている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算】実施計画、所定の手順",
+      "frequency": 5,
+      "register": [
+        "科学、研究、医療。専門文書に多いが、治療方針や感染対策などの報道でも使う。"
+      ],
+      "definition": "実験・研究・医療上の処置などを行うために定めた、具体的な方法や進め方の計画。何をどのような条件で行うかをそろえるためのものを指し、実際に行われた処置や得られた結果そのものとは区別する。",
+      "patterns": [
+        "a protocol for 〈処置・実験〉＝その実施計画・手順",
+        "follow a protocol＝定めた計画に従って実施する",
+        "develop a protocol＝実施計画を作成する",
+        "a treatment protocol＝治療の実施計画",
+        "deviate from the protocol＝所定の計画から外れる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a protocol for 〈処置・実験〉",
+          "use": "手順の対象となる実験操作を明示する。",
+          "example": "The laboratory uses a standard protocol for DNA extraction.",
+          "translation": "その研究室は、DNA抽出のための標準的な手順を使っている。"
+        },
+        {
+          "pattern": "follow a protocol",
+          "use": "実験や処置を共通の条件・方法で進める。",
+          "example": "All participating laboratories followed the same experimental protocol.",
+          "translation": "参加したすべての研究室が、同じ実験手順に従った。"
+        },
+        {
+          "pattern": "develop a protocol",
+          "use": "研究の実施方法を具体化する。",
+          "example": "The researchers developed a protocol for collecting water samples.",
+          "translation": "研究者たちは、水の試料を採取するための手順を作成した。"
+        },
+        {
+          "pattern": "a treatment protocol",
+          "use": "治療の進め方を定めた計画を指す。",
+          "example": "The medical team reviewed the treatment protocol.",
+          "translation": "医療チームは治療の実施計画を見直した。"
+        },
+        {
+          "pattern": "deviate from the protocol",
+          "use": "実施内容が計画と異なる場合を説明する。",
+          "example": "The report explains why the researchers deviated from the protocol.",
+          "translation": "その報告書は、研究者たちがなぜ所定の計画から外れたのかを説明している。"
+        }
+      ],
+      "notes": [
+        "a protocol を作ることと、それに従って a procedure「処置」を行うことは区別できる。ただし両語は手順を指して重なる場合もある。protocol は計画の有効性、安全性、承認済みであることを自動的に保証しない。研究機関や医療制度ごとの審査・変更手続きは語の意味とは別。語義5の記録用法では実施後の観察記録を指すことがあるため、専門文献では「計画」か「記録」かを周囲の記述から判断する。"
+      ],
+      "synonyms": [
+        {
+          "word": "procedure",
+          "definition": "実験や処置を実施する際の手順・方法。",
+          "frequency": 6,
+          "difference": "実行するやり方に焦点を置く。protocol は研究・治療の条件や進行をまとめた計画を指すことがある。",
+          "example": "The methods section describes the sampling procedure.",
+          "translation": "方法の節には、試料採取の手順が記載されている。"
+        },
+        {
+          "word": "regimen",
+          "definition": "健康や治療のために定められた継続的な実施計画。",
+          "frequency": 4,
+          "difference": "投薬・食事・運動などを続ける計画を指しやすい。protocol は実験手順にも使うため、置き換えられる範囲は治療などに限られる。",
+          "example": "The patient found the treatment regimen difficult to follow.",
+          "translation": "患者は、その治療計画に従うのが難しいと感じた。"
+        },
+        {
+          "word": "method",
+          "definition": "研究・実験で目的を達成するために採用する方法。",
+          "frequency": 6,
+          "difference": "技法やアプローチを広く表し、protocol のように具体的な実施条件を定めた計画であるとは限らない。",
+          "example": "The study compares two methods of measuring soil moisture.",
+          "translation": "その研究は、土壌の水分を測定する二つの方法を比較している。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算】通信規約、プロトコル",
+      "frequency": 5,
+      "register": [
+        "IT、通信、システム仕様。"
+      ],
+      "definition": "コンピューターや通信機器がデータをやり取りする際に従う、形式・順序・扱い方などの規則のまとまり。相手側も取り決めを理解することで通信を成立させるための規約を指す。",
+      "patterns": [
+        "a communication protocol＝通信の規約",
+        "use a protocol＝規約に従って通信する",
+        "support a protocol＝機器やソフトがその規約に対応する",
+        "implement a protocol＝規約に従う機能を実装する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a communication protocol",
+          "use": "通信の取り決めを指すことを明確にする。",
+          "example": "The document defines a communication protocol for exchanging sensor data.",
+          "translation": "その文書は、センサーデータをやり取りするための通信規約を定義している。"
+        },
+        {
+          "pattern": "use a protocol",
+          "use": "通信に採用する規約を述べる。",
+          "example": "Both devices use the same protocol to exchange messages.",
+          "translation": "両方の機器は、メッセージをやり取りするために同じ規約を使っている。"
+        },
+        {
+          "pattern": "support a protocol",
+          "use": "システムが対応する通信方式を説明する。",
+          "example": "This server supports several network protocols.",
+          "translation": "このサーバーは、複数のネットワークプロトコルに対応している。"
+        },
+        {
+          "pattern": "implement a protocol",
+          "use": "規約を実際のプログラムの動作として実現する。",
+          "example": "The library implements the protocol described in the specification.",
+          "translation": "そのライブラリーは、仕様書に記載されたプロトコルを実装している。"
+        }
+      ],
+      "notes": [
+        "protocol は通信規約であり、それを実装するプログラム、通信経路、データ自体と同じものではない。HTTP は通信プロトコルの一例。a secure protocol の secure は性質を付け加える語で、protocol 単独に「暗号化済み」「安全」という意味はない。protocols の複数形は異なる規約を数える。一般的な業務の安全手順を表す security protocols と、ITの通信規約としての security protocols は文脈で区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "standard",
+          "definition": "技術上の互換性や共通の動作のために定めた標準・規格。",
+          "frequency": 6,
+          "difference": "protocol を規定する標準もあるが、standard は寸法・形式・性能などにも使えるため、通信規約より範囲が広い。",
+          "example": "The devices comply with the same wireless standard.",
+          "translation": "それらの機器は、同じ無線規格に準拠している。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・可算】議定書、外交上の合意文書",
+      "frequency": 4,
+      "register": [
+        "外交、国際関係、法律、報道。"
+      ],
+      "definition": "国家間などの交渉で作成される、合意を記した正式な文書。条約を補足・修正する議定書のほか、合意の原案や交渉で到達した取り決めを記す文書にも用いる。すべてを仮の合意、またはすべてを条約の付属文書に限定する語ではない。",
+      "patterns": [
+        "a protocol to 〈条約・協定〉＝その条約・協定に付された議定書",
+        "a protocol on 〈主題〉＝その主題についての議定書",
+        "sign a protocol＝議定書に署名する",
+        "under the protocol＝その議定書に基づいて。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a protocol to 〈条約〉",
+          "use": "本体の条約と議定書の関係を示す。",
+          "example": "The delegates discussed a protocol to the treaty.",
+          "translation": "代表者たちは、その条約に付された議定書について協議した。"
+        },
+        {
+          "pattern": "a protocol on 〈主題〉",
+          "use": "議定書が扱う合意事項の領域を示す。",
+          "example": "The two countries negotiated a protocol on cross-border transport.",
+          "translation": "両国は、国境を越える輸送に関する議定書について交渉した。"
+        },
+        {
+          "pattern": "sign a protocol",
+          "use": "文書への署名という行為を述べる。",
+          "example": "Representatives of both governments signed the protocol.",
+          "translation": "両政府の代表者が、その議定書に署名した。"
+        },
+        {
+          "pattern": "under the protocol",
+          "use": "議定書を根拠とする扱いを述べる。",
+          "example": "Under the protocol, the parties will exchange annual reports.",
+          "translation": "その議定書に基づき、当事者は年次報告書を交換することになっている。"
+        }
+      ],
+      "notes": [
+        "固有の文書名では Protocol と大文字で書くことがある。protocol to the treaty の to は本体との関係、protocol on transport の on は主題を示す。署名した、採択した、批准した、発効したという各段階は同じではなく、signed だけを「発効した」と訳さない。議定書という名称だけでは、その文書の拘束力や成立要件まで決まらない。語義1の diplomatic protocol は外交儀礼であり、文書を一通ずつ指すこの可算用法とは区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "agreement",
+          "definition": "当事者間の合意、またはそれを記した文書。",
+          "frequency": 8,
+          "difference": "最も広い語で、外交文書に限らない。protocol は特定の形式・名称の合意文書を指す。",
+          "example": "The governments reached an agreement on transport links.",
+          "translation": "両政府は、交通の接続について合意に達した。"
+        },
+        {
+          "word": "treaty",
+          "definition": "国家間などで結ばれる正式な条約。",
+          "frequency": 5,
+          "difference": "国際的な正式合意を指す中心語。protocol はその補足・修正文書の場合もあり、名称だけで常に同じ文書形式とは言えない。",
+          "example": "The treaty contains provisions on scientific cooperation.",
+          "translation": "その条約には、科学協力に関する規定が含まれている。"
+        },
+        {
+          "word": "accord",
+          "definition": "当事者間で成立した正式な合意・協定。",
+          "frequency": 4,
+          "difference": "外交報道で合意の成立を表すのに使われる。protocol のように原記録や追加文書という形式まで示すわけではない。",
+          "example": "The leaders announced a peace accord.",
+          "translation": "首脳たちは和平合意を発表した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞・可算】原記録、公式記録",
+      "frequency": 2,
+      "register": [
+        "歴史的・専門的。外交史、記録資料、科学・医学の一部の文献。"
+      ],
+      "definition": "交渉・手続き・実験などについて作成された元の記録や正式な記録。一般の業務メールで何でも protocol と呼ぶ用法ではなく、歴史資料や専門文献で現れる。実験分野では、今後の実施計画でなく、観察した内容の記録を指すことがある。",
+      "patterns": [
+        "the original protocol＝元となる原記録",
+        "a protocol of 〈交渉・実験〉＝その交渉・実験の記録。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the original protocol",
+          "use": "後の文書の基となった歴史的な原記録を指す。",
+          "example": "The historian compared the final agreement with the original protocol of the negotiations.",
+          "translation": "歴史家は、最終合意と交渉の原記録を比較した。"
+        },
+        {
+          "pattern": "a protocol of 〈実験〉",
+          "use": "専門文献で、観察内容を記した実験記録を指す。",
+          "example": "The archived protocol of the experiment records the observer's comments.",
+          "translation": "保存されているその実験の記録には、観察者の所見が記されている。"
+        }
+      ],
+      "notes": [
+        "現代の研究資料に出る experimental protocol は、通常は語義2の実施計画・手順をまず検討する。記録義は、観察結果が記されていることや歴史資料であることなど、文脈に支えがあるときに選ぶ。一般的な会議の議事録なら minutes、実験の記録なら record などの語が明確。辞書には「議定書として作成する・記す」という動詞 protocol もあり、protocolled/protocoled、protocolling/protocoling と活用するが、一般的な作文では draw up a protocol、record などで意味を明示する方が伝わりやすい。"
+      ],
+      "synonyms": [
+        {
+          "word": "record",
+          "definition": "事実・出来事・観察内容を残した記録。",
+          "frequency": 9,
+          "difference": "日常から専門分野まで広く使える。protocol の記録義は、原記録や正式な資料という限定された文脈で使われる。",
+          "example": "The laboratory keeps a record of each experiment.",
+          "translation": "その研究室は、各実験の記録を保管している。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

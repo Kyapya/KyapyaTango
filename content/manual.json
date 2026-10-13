@@ -1,0 +1,506 @@
+{
+  "word": "manual",
+  "slug": "manual",
+  "ipa": "米・英: /ˈmæn.ju.əl/",
+  "lead": "物の使い方、仕事・活動の進め方、参照すべき情報などをまとめた手引き。製品の取扱説明書だけでなく、業務手順、研修、文章の書き方などのガイドにも使う。紙の本・冊子にも電子文書にも用いる。",
+  "updated": "2026-10-13",
+  "notion_url": "https://app.notion.com/p/manual-3f84faa9b77d81deb40dc0f8328fd681",
+  "pronunciation": [
+    "この表記では3音節で、第1音節に主強勢を置く。第2音節は /ju/、第3音節は弱い /əl/。日本語の「マニュアル」のように各部分を同じ強さで読まない。名詞と形容詞で主強勢の位置は変わらない。"
+  ],
+  "etymology": [
+    "形容詞は、中英語後期のフランス語系の形 manuel を経て、ラテン語 manualis「手に関する」にさかのぼる。もとは manus「手」。書物を指す名詞には、中世ラテン語 manuale「手引き、礼拝用の本」の系統もある。",
+    "manuscript「原稿、写本」と manufacture「製造する」も manus の系列を共有する。ただし現在の manual「説明書」は手書きの本という意味ではなく、電子版にも使える。形容詞の「手を使う」と、名詞の「手引き」を区別して覚える。"
+  ],
+  "formation": [
+    {
+      "term": "manually",
+      "description": "副詞。「手で、手動で、人が操作して」。動作を修飾し、enter data manually はデータを手入力すること。"
+    },
+    {
+      "term": "non-manual",
+      "description": "形容詞。「肉体労働以外の」。non-manual work は事務・専門業務などを指す区分で、「無人の作業」とは限らない。"
+    },
+    {
+      "term": "manual transmission",
+      "description": "複合名詞。「手動変速装置、マニュアルトランスミッション」。名詞 manual がこの方式の車を指すこともある。"
+    },
+    {
+      "term": "user manual / training manual",
+      "description": "複合名詞。「利用者向け説明書、研修用手引き」。前の語が読者や用途を示す。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "核は「人の手や身体が直接担う働き」。力を出すこと、操作・入力をすること、手で扱う部分を指すことに広がる。語義1は書物名として定着した歴史的残存義で、説明書という語彙的意味はこの核だけから導けないため、個別に参照する。"
+    },
+    {
+      "type": "item",
+      "text": "人の手が機器の操作を担う働き → 「手動の、手で操作する」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "人の手が自動処理の代わりを担う働き → 「手作業の、人が行う」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "人の手や身体が労働を担う働き → 「手仕事の、肉体労働の」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "人の手そのものが担う働き → 「手の、手を使う」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "人の手が車の変速を担う方式 → 「マニュアル車、手動変速車」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "人の手が演奏を担う鍵盤 → 「手鍵盤」（語義7）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算】説明書、手引き、マニュアル",
+      "frequency": 8,
+      "register": [
+        "一般・製品説明・職場・専門的な参照資料。"
+      ],
+      "definition": "物の使い方、仕事・活動の進め方、参照すべき情報などをまとめた手引き。製品の取扱説明書だけでなく、業務手順、研修、文章の書き方などのガイドにも使う。紙の本・冊子にも電子文書にも用いる。",
+      "patterns": [
+        "a manual for 〈機器・対象者〉＝その機器用・対象者向けの手引き",
+        "a manual on 〈主題〉＝その主題を扱う手引き",
+        "read/consult a manual＝説明書を読む・参照する",
+        "refer to the manual＝説明書を参照する",
+        "according to the manual＝説明書によると",
+        "in the manual＝説明書の中に",
+        "an instruction manual＝取扱説明書",
+        "a user manual＝利用者向け説明書",
+        "a training manual＝研修用手引き。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a manual for 〈機器〉",
+          "use": "説明書が対象とする機器を示す。",
+          "example": "I downloaded the manual for the printer.",
+          "translation": "私は、そのプリンターの説明書をダウンロードした。"
+        },
+        {
+          "pattern": "a manual for 〈対象者〉",
+          "use": "想定する利用者を示す。",
+          "example": "The organization has produced a manual for volunteer supervisors.",
+          "translation": "その団体は、ボランティアの監督者向けに手引きを作成した。"
+        },
+        {
+          "pattern": "a manual on 〈主題〉",
+          "use": "手引きが扱う内容を示す。",
+          "example": "The course uses a manual on technical writing.",
+          "translation": "その講座では、技術文書の書き方に関する手引きを使う。"
+        },
+        {
+          "pattern": "consult the manual",
+          "use": "必要な情報を説明書で調べることを述べる。",
+          "example": "Consult the manual before changing the settings.",
+          "translation": "設定を変更する前に、説明書を参照してください。"
+        },
+        {
+          "pattern": "refer to the manual",
+          "use": "詳しい説明がある参照先を示す。",
+          "example": "For cleaning instructions, refer to the manual.",
+          "translation": "清掃方法については、説明書を参照してください。"
+        },
+        {
+          "pattern": "according to the manual",
+          "use": "説明書を情報源として示す。",
+          "example": "According to the manual, the battery is replaceable.",
+          "translation": "説明書によると、電池は交換可能だ。"
+        },
+        {
+          "pattern": "in the manual",
+          "use": "情報が記載されている場所を示す。",
+          "example": "The error codes are listed in the manual.",
+          "translation": "エラーコードは説明書に一覧で載っている。"
+        },
+        {
+          "pattern": "a training manual",
+          "use": "研修のための手引きを指す。",
+          "example": "Each trainee receives a copy of the training manual.",
+          "translation": "研修生はそれぞれ、研修用手引きを1部受け取る。"
+        }
+      ],
+      "notes": [
+        "一つの手引きは a manual、複数は manuals。consult は直接目的語を取り、consult the manual とする。refer は refer to the manual。instructions は手順・説明内容、manual はそれをまとめた資料を指し、a manual contains instructions と言える。a car manual は車の説明書だが、drive a manual は語義6のマニュアル車を運転すること。manual work は形容詞の用法であり、「説明書の作成作業」を意味しない。日本語の「マニュアルどおりに対応する」は follow the manual などで表し、manual そのものに「融通の利かない」という評価はない。"
+      ],
+      "synonyms": [
+        {
+          "word": "handbook",
+          "definition": "必要な情報・規則・手順をまとめた便覧・手引き。",
+          "frequency": 7,
+          "difference": "持ち歩いたり参照したりする情報集という響きがある。manual は操作・実施方法の説明に焦点を置きやすいが、両者は広く重なる。",
+          "example": "The employee handbook explains the leave policy.",
+          "translation": "従業員向けハンドブックには、休暇の方針が説明されている。"
+        },
+        {
+          "word": "guide",
+          "definition": "ある対象の理解や活動を助ける案内・手引き。",
+          "frequency": 9,
+          "difference": "観光案内から入門書まで範囲が広い。manual は実施手順や参照情報を体系的にまとめた資料を表しやすい。",
+          "example": "This guide introduces the basics of digital illustration.",
+          "translation": "このガイドは、デジタルイラストの基礎を紹介している。"
+        },
+        {
+          "word": "instructions",
+          "definition": "何かを使う・行うための具体的な説明。",
+          "frequency": 9,
+          "difference": "情報内容を指し、複数形で使うことが多い。manual はその内容を収めた一つの資料として数えられる。",
+          "example": "The instructions explain how to attach the handle.",
+          "translation": "その説明には、取っ手の取り付け方が書かれている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【形容詞・限定/叙述・設定名の名詞的用法】手動の、手で操作する",
+      "frequency": 8,
+      "register": [
+        "一般・機器・撮影・自動車・設備。"
+      ],
+      "definition": "機器・装置・機能を、人が手で操作・調節することを表す。人の力で動かす機器にも、自動制御に任せず人が設定する機能にも使う。どの部分を人が担当するかは対象によって異なり、電気を使わないことが常に必須ではない。 on manual では、手動の設定・状態を名詞的に表す。",
+      "patterns": [
+        "a manual 〈機器〉＝手動で動かす機器",
+        "manual control/focus＝手動制御・手動のピント合わせ",
+        "be manual＝操作方式が手動である",
+        "switch to manual mode＝手動モードに切り替える",
+        "leave/set the controls on manual＝制御装置を手動設定にしておく・する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a manual pump",
+          "use": "人が手で動かすポンプを示す。",
+          "example": "We used a manual pump to remove the water.",
+          "translation": "私たちは、手動ポンプを使って水を取り除いた。"
+        },
+        {
+          "pattern": "manual control",
+          "use": "自動制御に対し、人が直接調整する方式を示す。",
+          "example": "The system allows manual control of the ventilation fans.",
+          "translation": "そのシステムでは、換気扇を手動で制御できる。"
+        },
+        {
+          "pattern": "manual focus",
+          "use": "撮影者がピントを調整する方式を指す。",
+          "example": "I switched to manual focus to photograph the stars.",
+          "translation": "私は星を撮影するため、手動のピント合わせに切り替えた。"
+        },
+        {
+          "pattern": "be manual",
+          "use": "機能の操作方式を叙述する。",
+          "example": "The temperature adjustment is manual.",
+          "translation": "温度の調整は手動だ。"
+        },
+        {
+          "pattern": "switch to manual mode",
+          "use": "自動から手動の操作モードへ変更することを述べる。",
+          "example": "The operator switched to manual mode during the test.",
+          "translation": "操作担当者は、試験中に手動モードへ切り替えた。"
+        },
+        {
+          "pattern": "leave the controls on manual",
+          "use": "手動操作の設定を保つよう指示する。",
+          "example": "Leave the controls on manual until the inspection is complete.",
+          "translation": "点検が完了するまで、制御装置は手動設定のままにしてください。"
+        }
+      ],
+      "notes": [
+        "a manual camera setting は、人が値を設定する方式であって、カメラに電気が不要という意味ではない。manual pump のような機器では人の力で動かすことが中心、manual focus では自動判断に任せず人が調整することが中心になる。通常は方式の分類なので very manual より fully manual、partly manual などが適する。manual control の manual は形容詞。一方、on manual の manual は「手動設定」という名詞的な働きをする。on manual は手動に設定された状態を表す定着表現で、説明書の上という意味ではない。動詞を修飾する場合は副詞 manually を使い、operate it manually とする。"
+      ],
+      "synonyms": [
+        {
+          "word": "hand-operated",
+          "definition": "手の操作によって動く。",
+          "frequency": 5,
+          "difference": "手で操作することを明示する。manual は自動制御との対比や人による入力にも広がる。",
+          "example": "The device has a hand-operated lever.",
+          "translation": "その装置には、手で操作するレバーがある。"
+        },
+        {
+          "word": "hand-powered",
+          "definition": "手の力を動力とする。",
+          "frequency": 4,
+          "difference": "動力源が人の手である点を明示する。manual control は電動機器の制御でも使える。",
+          "example": "The exhibit includes a hand-powered printing press.",
+          "translation": "その展示には、手の力で動かす印刷機が含まれている。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "automatic",
+          "definition": "人が逐一操作しなくても自動で働く。",
+          "frequency": 9,
+          "difference": "操作・制御を人が直接行うかという同じ軸上の方式の対立。機器の一部だけが自動の場合もある。",
+          "example": "The camera has an automatic exposure mode.",
+          "translation": "そのカメラには、自動露出モードがある。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【形容詞・限定/叙述】手作業の、人が行う",
+      "frequency": 8,
+      "register": [
+        "業務・情報処理・事務作業。"
+      ],
+      "definition": "入力・照合・記録・更新などを、自動処理に任せず人が行うことを表す。コンピューターを使っていても、人が値を入力したり手順を実行したりする部分は manual と呼べる。",
+      "patterns": [
+        "manual data entry＝人によるデータ入力",
+        "a manual check＝人が行う確認",
+        "manual installation＝自動インストールに任せない導入",
+        "a manual process＝人の手作業を必要とする処理",
+        "the process is manual＝その処理は人が手作業で行う。"
+      ],
+      "collocations": [
+        {
+          "pattern": "manual data entry",
+          "use": "自動取り込みと区別し、人が入力することを示す。",
+          "example": "The new system reduces the need for manual data entry.",
+          "translation": "新しいシステムは、手作業によるデータ入力の必要性を減らす。"
+        },
+        {
+          "pattern": "a manual check",
+          "use": "自動判定とは別に人が確認することを示す。",
+          "example": "A manual check revealed several duplicate records.",
+          "translation": "人による確認で、重複した記録がいくつか見つかった。"
+        },
+        {
+          "pattern": "manual installation",
+          "use": "自動化された導入に任せず、人が手順を実行することを示す。",
+          "example": "The update requires manual installation on older computers.",
+          "translation": "古いコンピューターでは、その更新プログラムを手動でインストールする必要がある。"
+        },
+        {
+          "pattern": "a manual process",
+          "use": "業務工程が人の手作業に依存することを示す。",
+          "example": "Invoice matching is still a manual process.",
+          "translation": "請求書の照合は、まだ人が手作業で行う処理だ。"
+        }
+      ],
+      "notes": [
+        "manual records は紙などで人が管理する記録を指すことがあるが、manual entry はコンピューター画面への手入力にもなる。manual を機械的に「紙の」「コンピューターを全く使わない」と訳さず、何が自動化されていないかを確認する。分類としては manual/automated の対比が基本で、より自動化されているかという比較なら a more automated process などと表せる。manual check は自動的に「厳密な検査」を保証する語ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "non-automated",
+          "definition": "自動化されていない。",
+          "frequency": 5,
+          "difference": "自動化の有無を明示する、説明的な語。manual は人の手作業を前面に出す。",
+          "example": "The audit identified several non-automated procedures.",
+          "translation": "監査では、自動化されていない手続きがいくつか確認された。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "automated",
+          "definition": "人が逐一行っていた処理などを自動で実行するようにした。",
+          "frequency": 8,
+          "difference": "人が各処理を担うかという同じ軸上の対立。人の関与が完全になくなるとは限らない。",
+          "example": "Automated checks flag missing fields.",
+          "translation": "自動チェックは、未入力の項目を検出して知らせる。"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "【形容詞・主に限定】手仕事の、肉体労働の",
+      "frequency": 7,
+      "register": [
+        "一般・雇用・労働・社会的な職業区分。"
+      ],
+      "definition": "仕事や技能が、手・身体を使う作業や身体的な力を伴うことを表す。また、その仕事に従事する人を修飾する。事務・管理などの仕事との区分に使われるが、知識・判断力・熟練が不要という評価は含まない。",
+      "patterns": [
+        "manual labour/labor＝肉体労働・手作業",
+        "manual work/jobs＝手仕事・身体を使う仕事",
+        "manual workers＝肉体労働・手仕事に従事する人",
+        "skilled manual work＝熟練を要する手仕事。"
+      ],
+      "collocations": [
+        {
+          "pattern": "manual labour",
+          "use": "身体を使う労働を述べる。",
+          "example": "The restoration project involved considerable manual labour.",
+          "translation": "その修復事業では、かなりの手作業が必要だった。"
+        },
+        {
+          "pattern": "manual workers",
+          "use": "手仕事・身体を使う仕事の従事者を指す。",
+          "example": "The survey included both office staff and manual workers.",
+          "translation": "その調査には、事務職員と現場作業員の両方が含まれていた。"
+        },
+        {
+          "pattern": "skilled manual work",
+          "use": "手仕事に熟練を要することを明示する。",
+          "example": "Restoring the carving requires skilled manual work.",
+          "translation": "その彫刻を修復するには、熟練した手仕事が必要だ。"
+        }
+      ],
+      "notes": [
+        "英国綴りは labour、米国綴りは labor。manual は労働・技能の種類を修飾するので、manual workers を「手動式の作業員」とは訳さない。manual と skilled/unskilled は別の軸で、skilled manual workers は自然。人自身について He is manual. と単独で述べるのではなく、He does manual work. のように仕事を明示する。work が主語なら The work is largely manual. と叙述できる。"
+      ],
+      "synonyms": [
+        {
+          "word": "physical",
+          "definition": "身体的な力や活動を伴う。",
+          "frequency": 8,
+          "difference": "運動や身体的負担にも広く使う。manual は手仕事・肉体労働という仕事の区分に結びつきやすい。",
+          "example": "Moving the equipment was hard physical work.",
+          "translation": "機器の移動は、体力を使うきつい仕事だった。"
+        },
+        {
+          "word": "blue-collar",
+          "definition": "工場・建設などの現場作業に関わる。",
+          "frequency": 6,
+          "difference": "職業・社会的な区分という含みがある。manual は実際に手や身体を使う作業の性質も表す。",
+          "example": "The town has lost many blue-collar jobs.",
+          "translation": "その町では、現場作業の雇用が多く失われた。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "non-manual",
+          "definition": "手仕事・肉体労働を中心としない。",
+          "frequency": 4,
+          "difference": "労働の種類についての対立。事務・管理・専門業務などを含める区分で、自動化の意味ではない。",
+          "example": "The report compares wages in manual and non-manual occupations.",
+          "translation": "その報告書は、肉体労働職と非肉体労働職の賃金を比較している。"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "【形容詞・限定】手の、手を使う",
+      "frequency": 5,
+      "register": [
+        "やや硬い・技能・身体能力の説明。"
+      ],
+      "definition": "手の動き・操作・能力に関係することを表す。身体全体の労働ではなく、手そのものの働きに焦点がある。",
+      "patterns": [
+        "manual dexterity＝手先の器用さ",
+        "manual skills＝手を使う技能",
+        "manual coordination＝手の動きを協調させる能力。"
+      ],
+      "collocations": [
+        {
+          "pattern": "manual dexterity",
+          "use": "手先を巧みに使う能力を述べる。",
+          "example": "Watch repair requires excellent manual dexterity.",
+          "translation": "時計の修理には、優れた手先の器用さが必要だ。"
+        },
+        {
+          "pattern": "manual skills",
+          "use": "手で行う技能を指す。",
+          "example": "The activity helps children develop manual skills.",
+          "translation": "その活動は、子どもたちが手を使う技能を伸ばす助けになる。"
+        }
+      ],
+      "notes": [
+        "manual dexterity は「マニュアルを読む能力」ではない。この用法は通常、名詞の前で使い、dexterity を主語にして The dexterity is manual. と説明するより manual dexterity とまとめる。highly skilled、excellent などで能力の高さを示すのであって、manual 自体が「熟練した」を意味するわけではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【名詞・可算】マニュアル車、手動変速車",
+      "frequency": 5,
+      "register": [
+        "自動車・運転の会話。特に英国英語で一般的で、米語でも用いられる。"
+      ],
+      "definition": "運転者がギアを切り替える手動変速装置を備えた車。車を表す名詞として manual だけを使う。文脈によっては手動変速装置そのものを指す。",
+      "patterns": [
+        "drive a manual＝マニュアル車を運転する",
+        "learn to drive a manual＝マニュアル車の運転を習う",
+        "a manual rather than an automatic＝オートマチック車ではなくマニュアル車。"
+      ],
+      "collocations": [
+        {
+          "pattern": "drive a manual",
+          "use": "運転する車の変速方式を示す。",
+          "example": "Do you know how to drive a manual?",
+          "translation": "マニュアル車の運転の仕方は分かりますか。"
+        },
+        {
+          "pattern": "learn to drive a manual",
+          "use": "手動変速車で運転を学ぶことを述べる。",
+          "example": "She learned to drive a manual before buying an automatic.",
+          "translation": "彼女はオートマチック車を買う前に、マニュアル車の運転を覚えた。"
+        },
+        {
+          "pattern": "a manual rather than an automatic",
+          "use": "車の種類の選択を表す。",
+          "example": "He rented a manual rather than an automatic.",
+          "translation": "彼はオートマチック車ではなく、マニュアル車を借りた。"
+        }
+      ],
+      "notes": [
+        "a manual car の manual は形容詞、drive a manual の manual は名詞。a manual for the car は語義1の「その車の説明書」。米語の口語では stick shift も、手動変速装置やその方式の車を指す。各地域の免許区分や運転資格は、この単語だけからは決まらない。"
+      ],
+      "synonyms": [
+        {
+          "word": "stick shift",
+          "definition": "手動変速装置、またはそれを備えた車。",
+          "frequency": 5,
+          "difference": "主に米語の口語。manual は英国の車選びや運転の会話でも広く使う。",
+          "example": "My first car was a stick shift.",
+          "translation": "私の最初の車はマニュアル車だった。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "automatic",
+          "definition": "ギアの切り替えを自動で行う車。",
+          "frequency": 6,
+          "difference": "車の変速方式についての対立。ここでは形容詞ではなく a/an を伴う可算名詞。",
+          "example": "We rented an automatic for the trip.",
+          "translation": "私たちは、その旅行のためにオートマチック車を借りた。"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "【名詞・可算】手鍵盤",
+      "frequency": 2,
+      "register": [
+        "音楽・オルガンなどの楽器。"
+      ],
+      "definition": "オルガンなどで、足で弾くペダル鍵盤に対し、手で弾く鍵盤。複数の段を持つ楽器では、それぞれの手鍵盤を一つの manual と数える。",
+      "patterns": [
+        "an organ with 〈数〉 manuals＝その数の手鍵盤を備えたオルガン",
+        "the upper/lower manual＝上段・下段の手鍵盤",
+        "play on the 〈upper/lower〉 manual＝上段・下段の手鍵盤で演奏する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an organ with two manuals",
+          "use": "楽器の手鍵盤の段数を示す。",
+          "example": "The church has an organ with two manuals and a pedalboard.",
+          "translation": "その教会には、2段の手鍵盤とペダル鍵盤を備えたオルガンがある。"
+        },
+        {
+          "pattern": "play on the upper manual",
+          "use": "使っている手鍵盤の位置を示す。",
+          "example": "The organist played the melody on the upper manual.",
+          "translation": "オルガン奏者は、上段の手鍵盤で旋律を弾いた。"
+        }
+      ],
+      "notes": [
+        "the organ's manuals は「オルガンの説明書」とは限らず、楽器の構造の文脈では手鍵盤。鍵盤上の一つ一つの鍵は key で、manual は鍵盤のまとまりを指す。pedalboard は足で弾く鍵盤という対照表現であり、一般的な意味での反意語として扱わない。",
+        "楽器仕様の two-manual organ では、数と結んだ manual は単数形で、前置修飾の複合語にハイフンを入れる。two manuals という独立した名詞句では複数形になる。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}

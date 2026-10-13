@@ -1,0 +1,338 @@
+{
+  "word": "procedure",
+  "slug": "procedure",
+  "ipa": "米: /prəˈsiːdʒər/｜英: /prəˈsiːdʒə/",
+  "lead": "何かを行う際のやり方、とくに通常採られる、正しいとされる、またはあらかじめ決められた進め方。申請・苦情処理・安全対応・機器操作などに使う。複数の作業を順序立てた全体を指すことが多いが、一つの処理・操作を指すこともあり、段階の数は語だけでは決まらない。",
+  "updated": "2026-10-13",
+  "notion_url": "https://app.notion.com/p/procedure-3f84faa9b77d81729ad5cbf0d51dd842",
+  "pronunciation": [
+    "3音節で、第2音節に主強勢を置く。第1音節は /prə/、第2音節は /siː/、第3音節は米 /dʒər/・英 /dʒə/。ここに示した米英差は第3音節末の /r/ の有無で、英式でも次の語が母音で始まると /r/ が現れることがある。綴りの du はここでは /dʒ/ に当たり、日本語の「デュ」のように母音を挟まない。"
+  ],
+  "etymology": [
+    "フランス語 procédure を借用した語で、その基となる procéder はラテン語 procedere「前へ進む」にさかのぼる。pro-「前へ」と cedere「行く」の組み合わせで、何かを進める際のやり方という現在義につながる。現代英語の proceed に単純に -ure を付けて作った語、と説明するのは正確ではない。",
+    "proceed「進む、続行する」は同じ procedere の系統。precede「先行する」も cedere を共有し、前に進むことと他のものに先立つことを表し分ける。"
+  ],
+  "formation": [
+    {
+      "term": "procedural",
+      "description": "形容詞「手続き上の、手順に関する」。a procedural error は手続き上の誤りで、内容や判断そのものの誤りとは区別できる。"
+    },
+    {
+      "term": "procedurally",
+      "description": "副詞「手続き上は、手順の点で」。procedurally correct は手続きの面で適切であることを表す。"
+    },
+    {
+      "term": "standard operating procedure",
+      "description": "複合名詞「標準作業手順」。SOP と略す。作業を通常どおり行うために定めた手順を指し、略語の単複は an SOP、SOPs とする。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "目的に向けて行為を進める、まとまりのあるやり方。何をどう行うかに焦点があり、必ず長い手順書があることや、必ず多くの段階から成ることは含まない。"
+    },
+    {
+      "type": "item",
+      "text": "行為を進めるための通常のやり方 → 「手順、手続き」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "行為を進めるための制度的なやり方 → 「手続きの方式、議事運営」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "行為を進めるための医療上の処置 → 「医療処置、手術」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "行為を進めるための呼び出せる命令群 → 「手続き、プロシージャ」（語義4）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算／不可算】手順、手続き",
+      "frequency": 8,
+      "register": [
+        "一般語。業務、行政、取扱説明、研修で特によく使われ、way より改まった響きがある。"
+      ],
+      "definition": "何かを行う際のやり方、とくに通常採られる、正しいとされる、またはあらかじめ決められた進め方。申請・苦情処理・安全対応・機器操作などに使う。複数の作業を順序立てた全体を指すことが多いが、一つの処理・操作を指すこともあり、段階の数は語だけでは決まらない。",
+      "patterns": [
+        "a procedure for 〈名詞〉＝対象の手順",
+        "the procedure for 〈動名詞〉＝何をするための手順かを示す",
+        "follow a procedure＝手順に従う",
+        "establish a procedure＝手順を定める",
+        "revise a procedure＝手順を見直して変更する",
+        "under the 〈種類〉 procedure＝その手続きに基づいて",
+        "according to standard procedures＝標準手順に従って",
+        "be standard procedure＝通常の決まったやり方である。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the procedure for 〈動名詞〉",
+          "use": "具体的な行為について、どう進めるかを確認する。",
+          "example": "Could you explain the procedure for returning a damaged item?",
+          "translation": "破損した商品を返品する手順を説明していただけますか。"
+        },
+        {
+          "pattern": "follow the correct procedure",
+          "use": "適切な順序・方法に従うことを述べる。",
+          "example": "Staff must follow the correct procedure when reporting an accident.",
+          "translation": "職員は事故を報告する際、正しい手順に従わなければならない。"
+        },
+        {
+          "pattern": "establish a procedure for 〈名詞〉",
+          "use": "これから使う手順を整える。",
+          "example": "We need to establish a procedure for equipment inspections.",
+          "translation": "私たちは機器の点検手順を定める必要がある。"
+        },
+        {
+          "pattern": "revise a procedure",
+          "use": "既存の手順を変更する。",
+          "example": "The team revised the procedure after identifying a safety risk.",
+          "translation": "チームは安全上の危険を特定した後、その手順を改訂した。"
+        },
+        {
+          "pattern": "under the complaints procedure",
+          "use": "苦情を所定の仕組みに沿って扱う。",
+          "example": "Your complaint will be reviewed under the company's complaints procedure.",
+          "translation": "あなたの苦情は、会社の苦情処理手続きに基づいて検討されます。"
+        },
+        {
+          "pattern": "according to standard procedures",
+          "use": "個々の担当者の判断でなく、共通の手順に沿うことを示す。",
+          "example": "The samples were labelled according to standard procedures.",
+          "translation": "試料には標準手順に従ってラベルが付けられた。"
+        },
+        {
+          "pattern": "be standard procedure",
+          "use": "行為が特別な対応ではなく通常のやり方であると説明する。",
+          "example": "Checking the visitor's identity is standard procedure.",
+          "translation": "訪問者の身元を確認することは、通常の手順です。"
+        }
+      ],
+      "notes": [
+        "一つの特定の手順なら a procedure、別々の手順なら procedures。This is standard procedure. のように、慣行・通常のやり方として不可算でも使う。procedure for applying は「申請する手順」で、for の後の動詞は applying とする。follow は実施側、establish・revise は手順を整える側の動詞。procedure は書面化されたものに限らない。process は一連の進行・過程、method は目的を達する方法に焦点があり、実際の対象は重なり得る。protocol も対応手順を表すが、常に procedure より強制力が高いとは限らない。"
+      ],
+      "synonyms": [
+        {
+          "word": "process",
+          "definition": "結果に至る一連の行為・変化や、その進行過程。",
+          "frequency": 9,
+          "difference": "procedure はどう行うかという進め方を捉えやすく、process は始めから終わりまでの流れを捉えやすい。process は人が管理する業務にも自然の変化にも使える。",
+          "example": "The recruitment process includes two interviews.",
+          "translation": "採用過程には2回の面接が含まれる。"
+        },
+        {
+          "word": "method",
+          "definition": "ある目的を達成するために用いる方法。",
+          "frequency": 8,
+          "difference": "採用する技法・方法に焦点があり、procedure のように段階や実施順序を意識するとは限らない。",
+          "example": "This method reduces the amount of wasted material.",
+          "translation": "この方法は、無駄になる材料の量を減らす。"
+        },
+        {
+          "word": "protocol",
+          "definition": "特定の状況で従うことが想定される規則や対応手順のまとまり。",
+          "frequency": 6,
+          "difference": "共有された規範・取り決めを前面に出す。procedure と重なるが、語だけで法的効力や厳格さの上下は決まらない。",
+          "example": "The office has a protocol for handling suspicious packages.",
+          "translation": "その事務所には、不審な荷物に対応するための手順がある。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・主に不可算】手続きの方式、議事運営",
+      "frequency": 5,
+      "register": [
+        "法律、政治、組織運営。制度を扱う改まった文章で使う。"
+      ],
+      "definition": "裁判、議会、会議などの活動を正式に進めるための方式・規則体系。個々の作業の仕方よりも、審議や案件の処理がどのような形式で行われるかを表す。議論する内容そのものと、議論を進める方式を区別する用法である。",
+      "patterns": [
+        "court procedure＝裁判所での手続きの方式",
+        "parliamentary procedure＝議会の議事運営",
+        "rules of procedure＝手続き・議事運営の規則",
+        "a matter of procedure＝手続きに関する問題。"
+      ],
+      "collocations": [
+        {
+          "pattern": "court procedure",
+          "use": "裁判所で案件を進める方式を一般的に述べる。",
+          "example": "The course introduces students to court procedure.",
+          "translation": "その講座では、学生に裁判所の手続きの基礎を教える。"
+        },
+        {
+          "pattern": "parliamentary procedure",
+          "use": "議会の討議や採決を進める方式を指す。",
+          "example": "The chair has extensive knowledge of parliamentary procedure.",
+          "translation": "議長は議会の議事運営について幅広い知識を持っている。"
+        },
+        {
+          "pattern": "rules of procedure",
+          "use": "審議・会議の運営規則を指す。",
+          "example": "The committee adopted new rules of procedure.",
+          "translation": "委員会は新しい議事運営規則を採択した。"
+        },
+        {
+          "pattern": "a matter of procedure",
+          "use": "議論の中身とは区別して、進め方の問題を取り上げる。",
+          "example": "The disagreement concerns a matter of procedure rather than the proposal itself.",
+          "translation": "意見の相違は、提案そのものよりも手続き上の問題に関わっている。"
+        }
+      ],
+      "notes": [
+        "制度的な進め方をまとめて指す court procedure などでは、通常、不可算。具体的な個別手続きを数える court procedures は語義1とつながる。rules of procedure の複数は rules に付く。procedure を「訴訟」とだけ覚えると広すぎ、狭すぎの両方が起きる。proceedings は実際に行われる法的手続きや審理を指し、procedure はその進め方を指すのが中心。制度上どの行為が必須か、違反がどのような効果を持つかは、この語の意味だけでは分からない。"
+      ],
+      "synonyms": [
+        {
+          "word": "practice",
+          "definition": "ある職業・組織で通常採られている実務上のやり方。",
+          "frequency": 7,
+          "difference": "実際に定着している扱い方に重点があり、procedure のような正式な進行方式だけを指すわけではない。",
+          "example": "Local practice may differ from that of other courts.",
+          "translation": "その地域の実務上の扱いは、他の裁判所のものと異なる場合がある。"
+        },
+        {
+          "word": "protocol",
+          "definition": "公式な場で守る行動や対応の規範。",
+          "frequency": 5,
+          "difference": "儀礼や関係者の接し方を含む。procedure は審議・案件処理を進める方式を指すのに適している。",
+          "example": "Seating arrangements must follow diplomatic protocol.",
+          "translation": "座席の配置は外交儀礼に従わなければならない。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算】医療処置、手術",
+      "frequency": 6,
+      "register": [
+        "医療、患者向けの説明、健康に関する報道。専門家以外にも使われる。"
+      ],
+      "definition": "診断や治療などのために行う具体的な医療上の処置。外科手術にも使うが、大きな手術だけを指すわけではなく、検査や比較的小さな処置も文脈に応じて含む。事務的な受付・申請手続きとは異なる。",
+      "patterns": [
+        "perform a procedure＝医療者が処置を行う",
+        "undergo a procedure＝患者が処置を受ける",
+        "a diagnostic procedure＝診断のための処置・検査",
+        "a surgical procedure＝外科的処置・手術。"
+      ],
+      "collocations": [
+        {
+          "pattern": "perform a procedure",
+          "use": "医療者の側から処置を実施することを述べる。",
+          "example": "The surgeon performed the procedure under local anaesthesia.",
+          "translation": "外科医は局所麻酔下でその処置を行った。"
+        },
+        {
+          "pattern": "undergo a procedure",
+          "use": "患者の側から処置を受けることを述べる。",
+          "example": "The patient underwent a procedure to remove the damaged tissue.",
+          "translation": "患者は損傷した組織を取り除く処置を受けた。"
+        },
+        {
+          "pattern": "a diagnostic procedure",
+          "use": "治療だけでなく、診断に関わる医療行為を指す。",
+          "example": "The doctor explained why the diagnostic procedure was necessary.",
+          "translation": "医師は、その診断のための処置がなぜ必要なのかを説明した。"
+        },
+        {
+          "pattern": "a minor surgical procedure",
+          "use": "比較的小規模な外科的処置を述べる。",
+          "example": "The leaflet describes a minor surgical procedure used to remove a skin lesion.",
+          "translation": "そのリーフレットは、皮膚の病変を除去するための小規模な外科的処置について説明している。"
+        }
+      ],
+      "notes": [
+        "perform と undergo では主語の役割が逆になる。The doctor performed the procedure. は医師が実施し、The patient underwent the procedure. は患者が受けたという意味。routine procedure「日常的に行われる処置」は無危険を意味せず、minor もリスクがないという保証ではない。procedure の具体的な内容が示されていないときは、勝手に「大手術」「入院手術」などへ限定しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "operation",
+          "definition": "身体に外科的な処置を施す手術。",
+          "frequency": 7,
+          "difference": "この意味では外科手術に焦点があり、検査も含められる procedure より範囲が狭い。",
+          "example": "The operation was performed at a specialist hospital.",
+          "translation": "その手術は専門病院で行われた。"
+        },
+        {
+          "word": "treatment",
+          "definition": "病気・けがなどに対して行う治療やその方法。",
+          "frequency": 8,
+          "difference": "薬物療法や継続的な治療全体にも使える。procedure は一つの具体的な医療行為を指しやすく、診断目的の場合もある。",
+          "example": "The treatment continued for several weeks.",
+          "translation": "その治療は数週間続いた。"
+        },
+        {
+          "word": "intervention",
+          "definition": "健康状態などを改善するために行う医療上の介入。",
+          "frequency": 4,
+          "difference": "状態を変えるための働きかけに焦点を置く専門的な語。具体的な処置で procedure と重なるが、介入全般に使える。",
+          "example": "The condition may require surgical intervention.",
+          "translation": "その病状では、外科的介入が必要になる場合がある。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・可算】手続き、プロシージャ",
+      "frequency": 3,
+      "register": [
+        "コンピューティング、プログラミング。"
+      ],
+      "definition": "プログラムの中で、特定の処理を行うためにひとまとまりにされ、呼び出して実行できる命令群。人間が読む操作手順書ではなく、コンピューターに実行させる処理単位を指す。",
+      "patterns": [
+        "call a procedure＝プロシージャを呼び出す",
+        "execute a procedure＝プロシージャを実行する",
+        "define a procedure＝プロシージャを定義する",
+        "a stored procedure＝データベース側などに保存して呼び出すプロシージャ。"
+      ],
+      "collocations": [
+        {
+          "pattern": "call a procedure",
+          "use": "プログラムから処理単位を呼び出す。",
+          "example": "The program calls a procedure to validate the input.",
+          "translation": "そのプログラムは、入力を検証するプロシージャを呼び出す。"
+        },
+        {
+          "pattern": "define a procedure",
+          "use": "再利用する処理のまとまりを用意する。",
+          "example": "The developer defined a procedure for calculating the total.",
+          "translation": "開発者は合計を計算するプロシージャを定義した。"
+        },
+        {
+          "pattern": "execute a stored procedure",
+          "use": "保存された処理単位を実行する。",
+          "example": "The application executes a stored procedure in the database.",
+          "translation": "そのアプリケーションは、データベース内のストアドプロシージャを実行する。"
+        }
+      ],
+      "notes": [
+        "a procedure、two procedures と数える。call は「電話をかける」ではなく、処理を呼び出すこと。名前を付けて呼び出す形が一般的だが、匿名のものを扱う言語もある。procedure と function「関数」の区別、戻り値の有無、名前の付け方や呼び出し方は言語や製品によるため、英単語として procedure を見ただけで「必ず値を返さない」とは断定できない。stored procedure も、一般的な業務手順を保存した書類のことではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "subroutine",
+          "definition": "プログラム内で呼び出して使う、一まとまりの処理。",
+          "frequency": 3,
+          "difference": "procedure とかなり重なる技術用語。実際にどちらの名称を使うかは、言語や説明上の慣習による。",
+          "example": "The subroutine checks whether the file exists.",
+          "translation": "そのサブルーチンは、ファイルが存在するかどうかを確認する。"
+        },
+        {
+          "word": "routine",
+          "definition": "プログラム内で特定の仕事を行う命令のまとまり。",
+          "frequency": 3,
+          "difference": "処理単位を広く指す語で、特定の言語における procedure の区分に限らない。",
+          "example": "The routine sorts the records by date.",
+          "translation": "そのルーチンは、レコードを日付順に並べ替える。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
