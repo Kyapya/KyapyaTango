@@ -106,8 +106,8 @@
           "translation": "そのウェブサイトは、大学と公式な関係を持っていない。"
         },
         {
-          "pattern": "a connection to 〈出来事〉",
-          "use": "出来事への関与・関連を示す。",
+          "pattern": "a connection to 〈対象〉",
+          "use": "対象への関与・関連を示す。",
           "example": "Investigators asked about his connection to the missing documents.",
           "translation": "調査員たちは、紛失した書類と彼との関係について尋ねた。"
         },
@@ -214,7 +214,7 @@
           "pattern": "lose the connection",
           "use": "通話・通信が途切れることを述べる。",
           "example": "We lost the connection halfway through the call.",
-          "translation": "私たちは通話の途中で接続が切れた。"
+          "translation": "通話の途中で接続が切れた。"
         },
         {
           "pattern": "a poor connection",
@@ -644,8 +644,8 @@
         {
           "pattern": "a drug connection",
           "use": "犯罪の文脈で供給する人物を指す。",
-          "example": "In the novel, the detective identifies the suspect's drug connection.",
-          "translation": "その小説では、刑事が容疑者の薬物の入手先を突き止める。"
+          "example": "In the novel, the detective discovers that the suspect's drug connection is a local dealer.",
+          "translation": "その小説では、刑事が、容疑者の薬物の入手先は地元の密売人だと突き止める。"
         }
       ],
       "notes": [
