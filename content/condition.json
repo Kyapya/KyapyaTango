@@ -21,7 +21,7 @@
     },
     {
       "term": "conditioning",
-      "description": "は不可算名詞で、心理・社会的な「条件づけ」（語義7）と身体の「体力づくり、調整」（語義10）を区別する。"
+      "description": "は不可算名詞で、心理・社会的な「条件づけ」（語義7）と身体の「体力づくり、調整」とその結果の体力・仕上がり（語義10）を区別する。"
     },
     {
       "term": "conditioner",
@@ -71,7 +71,7 @@
     },
     {
       "type": "item",
-      "text": "状態を身体的に整える訓練そのもの → 「体力づくり、身体の調整」（語義10）"
+      "text": "状態を身体的に整える訓練とその成果 → 「体力づくり、身体の調整とその成果」（語義10）"
     },
     {
       "type": "item",
@@ -137,7 +137,7 @@
         },
         {
           "pattern": "be out of condition",
-          "use": "運動不足などで体力が落ちていることを述べる。",
+          "use": "運動不足などで体力が落ちていることを述べる。主に英国英語。",
           "example": "After months without exercise, I was badly out of condition.",
           "translation": "何か月も運動をしていなかったので、私はひどく体力が落ちていた。"
         },
@@ -319,7 +319,7 @@
           "pattern": "working conditions",
           "use": "仕事をする際の環境や待遇を表す。",
           "example": "The staff asked for better working conditions and more predictable hours.",
-          "translation": "職員たちは労働環境の改善と、勤務時間がもっと予測できることを求めた。"
+          "translation": "職員たちは労働環境の改善と、勤務時間をもっと事前に把握しやすくすることを求めた。"
         },
         {
           "pattern": "weather conditions",
@@ -597,6 +597,7 @@
       "patterns": [
         "social conditioning＝社会の影響による条件づけ",
         "classical conditioning＝刺激の結び付きによる古典的条件づけ",
+        "operant conditioning＝行動の結果によって、その行動の生じやすさが変わるオペラント条件づけ",
         "through conditioning＝条件づけを通じて",
         "the effects of conditioning＝条件づけの影響。"
       ],
@@ -612,6 +613,12 @@
           "use": "刺激同士の結び付きによって反応が学習される心理学上の過程を指す。",
           "example": "The lecturer used a simple diagram to explain classical conditioning.",
           "translation": "講師は簡単な図を使って古典的条件づけを説明した。"
+        },
+        {
+          "pattern": "operant conditioning",
+          "use": "行動に続く結果によって、その行動の生じやすさが変わる心理学上の過程を指す。",
+          "example": "The rat learned to press the lever through operant conditioning.",
+          "translation": "そのラットは、オペラント条件づけによってレバーを押すことを学んだ。"
         },
         {
           "pattern": "through conditioning",
@@ -794,12 +801,12 @@
     },
     {
       "number": 10,
-      "title": "【名詞・不可算、conditioning】体力づくり、身体の調整",
+      "title": "【名詞・不可算、conditioning】体力づくり、身体の調整とその成果",
       "frequency": 5,
       "register": [
         "スポーツ、運動、トレーニング。"
       ],
-      "definition": "運動などによって、身体を活動に適した状態に整え、体力・持久力などを高めること。心理的な反応を学習させる語義7とは異なり、身体の準備・鍛錬が中心。",
+      "definition": "運動などによって、身体を活動に適した状態に整え、体力・持久力などを高めること。心理的な反応を学習させる語義7とは異なり、身体の準備・鍛錬が中心。その訓練によって得られた体力・身体の仕上がりも表す。",
       "patterns": [
         "physical conditioning＝身体の鍛錬・調整",
         "strength and conditioning＝筋力向上と身体の調整・強化",
@@ -833,7 +840,7 @@
         }
       ],
       "notes": [
-        "不可算名詞で、a conditioning programme の a は programme に付く。strength and conditioning coach では conditioning は名詞として分野を示す。The coach is conditioning the players. の conditioning は目的語を取る動詞の進行形で、語義9。身体の状態そのものは condition（語義1）、それを整える訓練は conditioning と区別する。"
+        "不可算名詞で、a conditioning programme の a は programme に付く。strength and conditioning coach では conditioning は名詞として分野を示す。The coach is conditioning the players. の conditioning は目的語を取る動詞の進行形で、語義9。condition は身体の状態一般、conditioning はそれを整える訓練、またはその結果としての体力・仕上がりを表す。"
       ],
       "synonyms": [
         {

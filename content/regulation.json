@@ -31,7 +31,7 @@
   "core": [
     {
       "type": "paragraph",
-      "text": "活動・状態を一定の基準や範囲に合わせることが核。守るべき規定、その管理作用、規定に合ったもの、競技の規定時間へとつながる。"
+      "text": "活動・状態を一定の基準や範囲に合わせることが核。守るべき規定、その管理作用、規定に合ったもの、競技の規定時間やゴルフの基準打数へとつながる。"
     },
     {
       "type": "item",
@@ -55,7 +55,11 @@
     },
     {
       "type": "item",
-      "text": "基準に合うことから捉えた普通の型 → 「お決まりの、普通の」（語義6）"
+      "text": "グリーンに到達するまでの基準打数 → 「パーより2打少ない打数以内で」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "基準に合うことから捉えた普通の型 → 「お決まりの、普通の」（語義7）"
     }
   ],
   "sources": [],
@@ -73,7 +77,7 @@
         "regulations governing something＝活動などを規律する規定",
         "comply with regulations＝規定を遵守する",
         "conform to regulations＝規定に適合する",
-        "enforce regulations＝規定を施行して守らせる",
+        "enforce regulations＝規定を適用して守らせる",
         "violate regulations＝規定に違反する",
         "under the regulations＝規定に従えば",
         "be against regulations＝規定に反する",
@@ -442,7 +446,7 @@
         }
       ],
       "notes": [
-        "in regulation はこの文脈で「規則の中で」ではない。the regulations は規則の集合（語義1）、regulation はここでは無冠詞の時間概念。延長戦は overtime（主に米）や extra time（競技・地域による）で、この語と対照的な時間区分だが、単純な反意語ではない。"
+        "in regulation はこの文脈で「規則の中で」ではない。the regulations は規則の集合（語義1）、regulation はここでは無冠詞の時間概念。延長戦は overtime（主に米）や extra time（競技・地域による）で、この語と対照的な時間区分だが、単純な反意語ではない。ゴルフの in regulation は時間ではなく打数を表す（語義6）。"
       ],
       "synonyms": [
         {
@@ -450,8 +454,8 @@
           "definition": "延長を含めない通常の試合時間。",
           "frequency": 4,
           "difference": "特に英国系のサッカー報道などで用いる。regulation は米国のスポーツ報道でよく見られる。",
-          "example": "The match ended in a draw after normal time.",
-          "translation": "その試合は、通常の試合時間が終わった時点では引き分けだった。"
+          "example": "The score was level at the end of normal time.",
+          "translation": "通常の試合時間が終了した時点で、得点は同点だった。"
         },
         {
           "word": "regular time",
@@ -466,6 +470,38 @@
     },
     {
       "number": 6,
+      "title": "【前置詞句・in regulation】パーより2打少ない打数以内で",
+      "frequency": 3,
+      "register": [
+        "ゴルフ、競技の記録・統計。"
+      ],
+      "definition": "ゴルフで、ホールのパー（基準打数）より2打少ない打数以内に、ボールをグリーンに乗せて。パー3なら1打、パー4なら2打以内、パー5なら3打以内で到達することを表す。",
+      "patterns": [
+        "hit a green in regulation＝パーより2打少ない打数以内でグリーンに乗せる",
+        "reach the green in regulation＝パーより2打少ない打数以内でグリーンに到達する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "hit a green in regulation",
+          "use": "基準内の打数でグリーンに乗せたことを述べる。",
+          "example": "He hit twelve greens in regulation during the round.",
+          "translation": "彼はそのラウンドで、12ホールのグリーンにパーより2打少ない打数以内で乗せた。"
+        },
+        {
+          "pattern": "reach the green in regulation",
+          "use": "ホールのパーに応じた基準内の打数でグリーンに到達したことを述べる。",
+          "example": "She reached the green in regulation on the par-four hole.",
+          "translation": "彼女はそのパー4のホールで、2打以内にグリーンに乗せた。"
+        }
+      ],
+      "notes": [
+        "この in regulation は、語義5の「正規の試合時間内に」と異なる。greens in regulation（GIR）は、この基準でグリーンに乗せたホール数やその割合を表す統計名。グリーンに乗るまでの打数を示し、その後に2パットで入れたことや、最終スコアがパーだったことまでは意味しない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 7,
       "title": "【形容詞・名詞前】お決まりの、普通の",
       "frequency": 3,
       "register": [
