@@ -1,0 +1,284 @@
+{
+  "word": "feedback",
+  "slug": "feedback",
+  "ipa": "米・英: /ˈfiːdbæk/",
+  "lead": "仕事、製品、行動、成果などに対して返される評価・感想・反応の情報。改善や判断に役立てる目的で求められることが多いが、必ず改善案を含むわけではない。好意的な評価、問題点の指摘、利用者の率直な感想のいずれも含む。",
+  "updated": "2026-10-13",
+  "notion_url": "https://app.notion.com/p/feedback-3f84faa9b77d8120ab5efadba1d5a9fc",
+  "pronunciation": [
+    "2音節で、第1音節 /fiːd/ に主強勢がある。第2音節 /bæk/ の母音は /æ/ で、弱い /ə/ ではない。",
+    "名詞は1語の feedback。動詞表現の feed back は2語で書き、文中では back に強勢が置かれることもある。"
+  ],
+  "etymology": [
+    "feed back「送り戻す」という動詞句を名詞化した語。20世紀初頭の電気技術で、出力の一部を入力側へ戻すことを表す用語として使われ、音響の帰還音や、人へ返す評価情報へと意味が広がった。",
+    "feed には「供給する、送り込む」、back には「元の側へ戻す」という働きがある。ここでの成り立ちは、食べ物を戻すという語呂合わせではなく、信号・情報などを元の過程へ送り返すことに関わる。"
+  ],
+  "formation": [
+    {
+      "term": "feed back",
+      "description": "句動詞。情報・意見を相手へ返す。feed something back to someone と feed back something to someone の形があり、代名詞は feed it back to someone と小辞 back の前に置く。We fed the results back to the team.「私たちは結果をチームに伝えた」。名詞 feedback をそのまま規則動詞として feedbacked としない。"
+    },
+    {
+      "term": "feed back into something",
+      "description": "句動詞。結果や反応が元の活動などへ作用する。主語は情報・経験・反応などで、The findings feed back into the design process.「調査結果は設計工程に反映される」のように使う。上の他動詞的な「情報を返す」と、主語の情報などが作用する自動詞的な構文を区別する。"
+    },
+    {
+      "term": "feedback loop（複合名詞）",
+      "description": "結果・出力が元の過程へ戻り、さらに結果に影響する循環。人から意見をもらう一回のやり取りだけでなく、その情報を次の活動へ戻す関係に焦点がある。"
+    },
+    {
+      "term": "biofeedback（名詞）",
+      "description": "身体の働きに関する情報を本人へ返し、調節の訓練などに用いる方法。feedback に bio-「生命・生体」を付けた専門語。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "共通核は「結果・出力が、元の人や仕組みへ戻ってくること」。戻るものが評価情報なら語義1、信号や過程の結果なら語義2、戻った音が繰り返し増幅されて聞こえる現象なら語義3となる。"
+    },
+    {
+      "type": "item",
+      "text": "元の人へ戻る評価・反応の情報 → 「評価・意見・フィードバック」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "元の過程へ戻る出力・結果 → 「帰還・フィードバック作用」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "元の入力へ戻る音の増幅現象 → 「ハウリング・帰還音」（語義3）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・不可算】評価・意見・フィードバック",
+      "frequency": 9,
+      "register": [
+        "ビジネス・教育・製品開発・日常の助言。"
+      ],
+      "definition": "仕事、製品、行動、成果などに対して返される評価・感想・反応の情報。改善や判断に役立てる目的で求められることが多いが、必ず改善案を含むわけではない。好意的な評価、問題点の指摘、利用者の率直な感想のいずれも含む。",
+      "patterns": [
+        "feedback on something＝対象についての評価・意見",
+        "feedback about something＝対象についての感想・意見",
+        "feedback from someone＝人からの評価・意見",
+        "give someone feedback on something＝人に対象への評価・意見を伝える",
+        "provide someone with feedback＝人に評価・意見を提供する",
+        "ask someone for feedback＝人に評価・意見を求める",
+        "receive feedback＝評価・意見を受け取る",
+        "act on feedback＝得た意見を踏まえて行動する",
+        "a piece of feedback＝一つの意見・指摘",
+        "constructive feedback＝改善に役立つ意見"
+      ],
+      "collocations": [
+        {
+          "pattern": "feedback on something",
+          "use": "評価してほしい仕事・案などを示す。",
+          "example": "Could you give me some feedback on the draft?",
+          "translation": "草案について、ご意見をいただけますか。"
+        },
+        {
+          "pattern": "feedback about something",
+          "use": "製品やサービスなどについて返された感想を述べる。",
+          "example": "We have received positive feedback about the new booking system.",
+          "translation": "新しい予約システムについて、好意的なご意見が寄せられています。"
+        },
+        {
+          "pattern": "feedback from someone",
+          "use": "誰から得た意見なのかを示す。",
+          "example": "Feedback from users helped us identify the problem.",
+          "translation": "利用者からの意見が、問題の特定に役立った。"
+        },
+        {
+          "pattern": "give someone feedback on something",
+          "use": "評価を受ける人と評価対象を両方示す。",
+          "example": "The supervisor gave me detailed feedback on my presentation.",
+          "translation": "上司は、私のプレゼンテーションについて詳しく講評してくれた。"
+        },
+        {
+          "pattern": "provide someone with feedback",
+          "use": "意見・評価を受け取る相手を示す。",
+          "example": "The course provides participants with regular feedback.",
+          "translation": "この講座では、参加者に定期的なフィードバックを行います。"
+        },
+        {
+          "pattern": "ask someone for feedback",
+          "use": "自分から相手に意見を求める。",
+          "example": "We asked the sales team for feedback before revising the brochure.",
+          "translation": "パンフレットを改訂する前に、営業チームに意見を求めた。"
+        },
+        {
+          "pattern": "constructive feedback",
+          "use": "改善に役立つ指摘や助言を指す。",
+          "example": "Her feedback was critical but constructive.",
+          "translation": "彼女の意見は厳しいものだったが、改善に役立つ内容だった。"
+        },
+        {
+          "pattern": "act on feedback",
+          "use": "得た意見を受けて、変更や対応を実行する。",
+          "example": "The design team acted on the feedback and simplified the menu.",
+          "translation": "設計チームは寄せられた意見を受けて、メニューを簡素化した。"
+        },
+        {
+          "pattern": "a piece of feedback",
+          "use": "一つの意見・指摘を取り出して数える。",
+          "example": "One piece of feedback concerned the size of the text.",
+          "translation": "意見の一つは、文字の大きさに関するものだった。"
+        }
+      ],
+      "notes": [
+        "一般的な評価情報の feedback は不可算で、some feedback、a lot of feedback、useful feedback とする。通常の業務英語では a feedback、three feedbacks ではなく、a piece of feedback、three comments のように表す。単数扱いなので、The feedback was helpful. が基本。",
+        "on/about は評価対象、from は意見を出した人、give feedback to someone の to は受け取る人。feedback from customers on the app は「アプリについての顧客からの意見」。give me feedback と provide me with feedback では文型が異なる。日本語の「フィードバックする」に引かれて feedback を通常の動詞として使わず、give feedback や2語の feed back を使う。",
+        "positive feedback は好意的な評価、negative feedback は否定的な評価や問題点の指摘を表すことが多い。constructive は「改善に役立つ」という別の軸なので、negative でも constructive な意見はあり得る。語義2の技術用語の positive/negative は、評価のよしあしとは別。",
+        "feedback は何らかの仕事・成果・体験などに対する評価情報であり、単にメールへ返事をしただけなら reply、response のほうが適切なことがある。Thank you for your feedback. は「ご意見ありがとうございます」で、Thank you for your reply.「ご返信ありがとうございます」といつも同じではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "comment",
+          "definition": "物事について述べる意見・指摘。",
+          "frequency": 9,
+          "difference": "feedback と重なるが、個々の発言を a comment、comments と数えられる。comment は改善目的や、元の作業者へ返すことを必ずしも含まない。",
+          "example": "The reviewer made several comments on the report.",
+          "translation": "評価担当者は、その報告書についていくつか意見を述べた。"
+        },
+        {
+          "word": "evaluation",
+          "definition": "価値・質・成果などを判断する評価。",
+          "frequency": 7,
+          "difference": "feedback より、基準に沿って評価する行為や結果に重点がある。評価結果が本人に伝えられるかは別。",
+          "example": "The manager completed the annual performance evaluation.",
+          "translation": "上司は、年次の業績評価を終えた。"
+        },
+        {
+          "word": "criticism",
+          "definition": "問題点や欠点を指摘する批判。",
+          "frequency": 8,
+          "difference": "この語義の criticism は否定的な指摘に焦点がある。feedback は肯定的な評価も含み、叱責だけを意味しない。",
+          "example": "The proposal attracted criticism for its lack of detail.",
+          "translation": "その提案は、具体性に欠けるとして批判を受けた。"
+        },
+        {
+          "word": "input",
+          "definition": "判断や作業に役立つ意見・情報の提供。",
+          "frequency": 7,
+          "difference": "feedback が行動・成果への反応として返される情報なのに対し、input は開始前のアイデアや検討途中の助言も含む。",
+          "example": "We would welcome your input on the project plan.",
+          "translation": "プロジェクト計画について、ご意見をいただけるとありがたいです。"
+        },
+        {
+          "word": "advice",
+          "definition": "何をすればよいかについての助言。",
+          "frequency": 9,
+          "difference": "feedback は評価・感想だけでも成立するが、advice は行動の方向や方法を勧める内容を持つ。通常は不可算。",
+          "example": "She gave me practical advice on preparing for the interview.",
+          "translation": "彼女は、面接の準備について実用的な助言をくれた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・通常不可算】帰還・フィードバック作用",
+      "frequency": 5,
+      "register": [
+        "工学・制御・生物学・環境科学・システムの説明。"
+      ],
+      "definition": "機械、回路、制御系、生物やその他の過程で、出力・結果の一部が入力側や前の段階へ戻り、その後の働きに影響すること。また、そのために戻される信号・情報を指す。人による評価の言葉に限らず、測定値や物理的な信号にも使う。",
+      "patterns": [
+        "feedback from 〈センサーなど〉＝センサーなどから戻される情報",
+        "a feedback loop＝出力・結果が入力側へ戻る循環",
+        "a feedback mechanism＝帰還の仕組み",
+        "negative feedback＝元の変化を弱める向きのフィードバック",
+        "positive feedback＝元の変化を強める向きのフィードバック"
+      ],
+      "collocations": [
+        {
+          "pattern": "feedback from 〈センサー〉",
+          "use": "制御に戻す測定情報の出所を示す。",
+          "example": "The controller uses feedback from the speed sensor to adjust the motor.",
+          "translation": "制御装置は、速度センサーからのフィードバックを使ってモーターを調整する。"
+        },
+        {
+          "pattern": "a feedback loop",
+          "use": "結果が元の過程へ戻って再び作用する関係を示す。",
+          "example": "The diagram shows a feedback loop between the sensor and the controller.",
+          "translation": "その図は、センサーと制御装置の間のフィードバックループを示している。"
+        },
+        {
+          "pattern": "negative feedback",
+          "use": "元の変化を弱める方向に働く帰還を指す。",
+          "example": "The circuit uses negative feedback to oppose changes in the output.",
+          "translation": "その回路は、出力の変化を打ち消す向きに働く負帰還を利用している。"
+        },
+        {
+          "pattern": "positive feedback",
+          "use": "元の変化を強める方向に働く帰還を指す。",
+          "example": "In this model, positive feedback amplifies the initial change.",
+          "translation": "このモデルでは、正のフィードバックが最初の変化を増幅する。"
+        },
+        {
+          "pattern": "a feedback mechanism",
+          "use": "生物やシステムの中で、結果が前の段階に作用する仕組みを指す。",
+          "example": "The researchers studied the feedback mechanism that regulates the process.",
+          "translation": "研究者たちは、その過程を調節するフィードバックの仕組みを調べた。"
+        }
+      ],
+      "notes": [
+        "この語義の positive と negative は、主に変化を強めるか弱めるかという作用の向きであり、「よい評価」「悪い評価」ではない。positive feedback が望ましくない増幅を起こすこともある。negative feedback という呼び方だけから、どの条件でも必ず安定するなど、具体的なシステムの性質までは断定できない。",
+        "feedback は通常不可算だが、a feedback loop、two feedback mechanisms では loop、mechanism を数える。専門文献では異なるフィードバック作用を feedbacks と数える場合もあるが、これを語義1の一般的な評価情報にそのまま適用しない。具体的な技術では、何がどこへ戻り、何に作用するかを読み取る。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・不可算】ハウリング・帰還音",
+      "frequency": 5,
+      "register": [
+        "音響・ライブ演奏・会議機器。"
+      ],
+      "definition": "音響装置の出力が再び入力側へ入り、繰り返し増幅されることで生じる、鋭い音やうなりなど。典型的には、スピーカーからの音をマイクが再び拾うことで起こる。演奏・会話を妨げる音になることが多いが、音楽で効果として用いることもある。",
+      "patterns": [
+        "get feedback＝ハウリングが生じる",
+        "cause feedback＝ハウリングを引き起こす",
+        "reduce feedback＝ハウリングを抑える",
+        "guitar feedback＝ギターの帰還音"
+      ],
+      "collocations": [
+        {
+          "pattern": "get feedback",
+          "use": "音響機器からハウリングが出ていると述べる。",
+          "example": "We were getting feedback through the speakers during the sound check.",
+          "translation": "サウンドチェック中、スピーカーからハウリングが出ていた。"
+        },
+        {
+          "pattern": "cause feedback",
+          "use": "マイクなどを含む音響系で帰還音が生じることを述べる。",
+          "example": "The microphone picked up the sound from the loudspeaker, causing feedback.",
+          "translation": "マイクがスピーカーの音を拾い、ハウリングが起きた。"
+        },
+        {
+          "pattern": "guitar feedback",
+          "use": "ギターの音が戻って増幅される響きを指す。",
+          "example": "The guitarist used feedback as part of the solo.",
+          "translation": "ギタリストは、ソロの一部で帰還音を音楽的な効果として使った。"
+        }
+      ],
+      "notes": [
+        "get feedback は、仕事についてなら「意見をもらう」、音響機器の話なら「ハウリングが出る」。microphone、speaker、sound check などの語が意味の判断に役立つ。雑音すべてが feedback なのではなく、出力が入力側へ戻るという関係がある。エコーや電気的な雑音と常に同じではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "acoustic feedback",
+          "definition": "音響出力が入力へ戻ることによって起こる帰還現象。",
+          "frequency": 3,
+          "difference": "feedback の音響的な意味を明示する専門的な複合語。評価情報の意味と混同しにくい。",
+          "example": "The technician checked the room for acoustic feedback.",
+          "translation": "技術者は、その部屋で音響的なハウリングが起きるかを確認した。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

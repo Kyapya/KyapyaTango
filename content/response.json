@@ -1,0 +1,428 @@
+{
+  "word": "response",
+  "slug": "response",
+  "ipa": "米: /rɪˈspɑːns/｜英: /rɪˈspɒns/",
+  "lead": "質問、依頼、連絡などを受けて返される答え。口頭・書面・メールのいずれにも使い、内容のある長い説明にも、短い返事にも用いる。返答として働くうなずきなどを含むこともある。返答が正しい、好意的、迅速であること自体は含まない。",
+  "updated": "2026-10-13",
+  "notion_url": "https://app.notion.com/p/response-3f84faa9b77d817bb1fff670ff0a6e8e",
+  "pronunciation": [
+    "2音節で、第2音節に強勢がある。米英差は第2音節の母音で、示した米音は /ɑː/、英音は /ɒ/。",
+    "複数形 responses は、米 /rɪˈspɑːnsɪz/、英 /rɪˈspɒnsɪz/。語末に /ɪz/ が加わる。"
+  ],
+  "etymology": [
+    "中英語の respounce などの形はフランス語系の語を経て、またラテン語の影響も受け、responsum「返答」にさかのぼる。responsum は respondere「答える」に結び付く形で、背景には re- と spondere「約束する、誓う」がある。",
+    "respond「返答する、反応する」と responsible「責任のある」は同じ respondere の系統。response の現代的な中心は「何かを受けて返るもの」であり、身体反応や機器の応答にまで「約束」という語源的意味が残っているわけではない。"
+  ],
+  "formation": [
+    {
+      "term": "respond（動詞）",
+      "description": "返答する、反応する。response は名詞で、We responded.「私たちは返答した」に対し、We sent a response.「私たちは返答を送った」とする。"
+    },
+    {
+      "term": "responsive（形容詞）",
+      "description": "反応する、要望などに応じる。responsive to something の形を取り、response と同じ位置には置けない。"
+    },
+    {
+      "term": "respondent（名詞）",
+      "description": "調査・質問などの回答者。回答内容をいう response と、回答する人を区別する。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "共通核は「働きかけ・出来事・入力を受けて返るもの」。その「返るもの」は、言葉、行動、身体や機械の変化、礼拝での応唱、ブリッジのビッドになり得る。速いことや無意識であることは共通の必須条件ではない。"
+    },
+    {
+      "type": "item",
+      "text": "問いかけを受けて返る答え → 「返答・回答・返信」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "出来事を受けて返る反応・行動 → 「反応・対応」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "刺激などを受けて返る生体の変化 → 「生体反応・治療への反応」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "入力を受けて返る機器の動作・出力 → 「機器・システムの応答」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "礼拝の呼びかけを受けて返る唱和 → 「応唱」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "味方のビッド等を受けて返るビッド → 「ブリッジの応答ビッド」（語義6）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算・不可算】返答・回答・返信",
+      "frequency": 9,
+      "register": [
+        "一般・ビジネス・調査。reply よりやや改まった説明や集計にも使われる。"
+      ],
+      "definition": "質問、依頼、連絡などを受けて返される答え。口頭・書面・メールのいずれにも使い、内容のある長い説明にも、短い返事にも用いる。返答として働くうなずきなどを含むこともある。返答が正しい、好意的、迅速であること自体は含まない。",
+      "patterns": [
+        "a response to something＝質問・連絡などへの返答",
+        "a response from someone＝人からの返答",
+        "give someone a response＝人に返答する",
+        "receive a response＝返答を受け取る",
+        "in response to something＝ある連絡などに答えて",
+        "in response＝返答として",
+        "no response＝返答がないこと",
+        "a response rate＝回答率"
+      ],
+      "collocations": [
+        {
+          "pattern": "a response to something",
+          "use": "何に対する回答なのかを示す。",
+          "example": "We are still waiting for a response to our proposal.",
+          "translation": "私たちは、提案に対する返答をまだ待っている。"
+        },
+        {
+          "pattern": "a response from someone",
+          "use": "回答の送り手を示す。",
+          "example": "I received a response from the event organizer.",
+          "translation": "私は、イベント主催者から返答を受け取った。"
+        },
+        {
+          "pattern": "give someone a response",
+          "use": "相手に回答を伝える。",
+          "example": "We will give you a written response after reviewing the documents.",
+          "translation": "書類を確認した後、書面でお答えします。"
+        },
+        {
+          "pattern": "in response to something",
+          "use": "メールや手紙の冒頭などで、どの連絡に答えるかを示す。",
+          "example": "I am writing in response to your inquiry about delivery dates.",
+          "translation": "納期についてのお問い合わせにお答えするため、ご連絡しています。"
+        },
+        {
+          "pattern": "in response",
+          "use": "対象が前の文脈で分かるときに、返答としての動作を示す。",
+          "example": "When I asked whether the time was convenient, she nodded in response.",
+          "translation": "その時間で都合がよいか尋ねると、彼女はうなずいて答えた。"
+        },
+        {
+          "pattern": "receive no response",
+          "use": "連絡に返答がなかったことを表す。",
+          "example": "I sent two emails but received no response.",
+          "translation": "私はメールを2通送ったが、返答はなかった。"
+        },
+        {
+          "pattern": "a response rate",
+          "use": "調査・呼びかけなどへの回答の割合を述べる。",
+          "example": "The survey had a response rate of 40 percent.",
+          "translation": "その調査の回答率は40パーセントだった。"
+        }
+      ],
+      "notes": [
+        "個々の回答は a response、three responses と数える。no response、little response のように、返答の有無・量として不可算的に扱う形もある。response は名詞なので、Please response to this email. ではなく Please respond to this email. または Please send a response to this email. とする。",
+        "to は回答の対象、from は回答者。a response from the supplier to our question は「私たちの質問への、仕入先からの回答」。in response to は前置詞句で、後ろには名詞や動名詞が来る。ここでの to を不定詞の to と取り違えない。",
+        "reply と意味が重なるが、response は調査回答や幅広い反応・対応をまとめて述べるときにも使う。reply も語義によっては行動での応答を含むため、「reply は言葉だけ、response は行動だけ」という分け方はできない。a delayed response、an incorrect response も自然で、速さ・正しさは修飾語が指定する。response rate の計算対象や集計方法は調査ごとに確認する。"
+      ],
+      "synonyms": [
+        {
+          "word": "reply",
+          "definition": "先に受けた発言・連絡などへの返答。",
+          "frequency": 9,
+          "difference": "メールや会話の返事を具体的に指すときに使いやすい。response は調査の回答や反応の集計にも広く用いる。",
+          "example": "Thank you for your prompt reply.",
+          "translation": "早速お返事をいただき、ありがとうございます。"
+        },
+        {
+          "word": "answer",
+          "definition": "質問や呼びかけに対する答え。",
+          "frequency": 10,
+          "difference": "最も一般的な語で、設問の正解にも用いる。response は、実際に返された答えを正誤とは別に記述できる。",
+          "example": "I don't know the answer to the last question.",
+          "translation": "私は最後の質問の答えが分からない。"
+        },
+        {
+          "word": "acknowledgment",
+          "definition": "連絡・書類などを受け取ったことを知らせる返事。",
+          "frequency": 6,
+          "difference": "response のうち受領の確認に範囲が限られ、質問の中身に回答しているとは限らない。英国では acknowledgement とも綴る。",
+          "example": "We received an acknowledgment of our application.",
+          "translation": "私たちは、申請を受け付けたという通知を受け取った。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算・不可算】反応・対応",
+      "frequency": 9,
+      "register": [
+        "一般・報道・ビジネス・公共サービス。"
+      ],
+      "definition": "出来事、発言、状況などを受けて生じる態度・感情・行動や、必要に応じて取られる措置。驚きや怒りといった反応から、需要に応じた製品開発、緊急事態への対応までを含む。自発的な反応にも、考えたうえでの対応にも使う。",
+      "patterns": [
+        "a response to something＝出来事・状況などへの反応や対応",
+        "in response to something＝ある状況に応じて",
+        "elicit a response from someone＝人から反応を引き出す",
+        "an emotional response＝感情的な反応",
+        "an emergency response＝緊急事態への対応",
+        "someone's response is one of 〈感情〉＝人の反応がある感情を示すものだ"
+      ],
+      "collocations": [
+        {
+          "pattern": "a response to something",
+          "use": "状況に対して取った措置を説明する。",
+          "example": "The new service is a response to growing demand for evening deliveries.",
+          "translation": "新しいサービスは、夕方の配達への需要の高まりに応えたものだ。"
+        },
+        {
+          "pattern": "in response to something",
+          "use": "行動のきっかけとなった状況を示す。",
+          "example": "The store extended its opening hours in response to customer demand.",
+          "translation": "その店は、顧客の要望に応じて営業時間を延ばした。"
+        },
+        {
+          "pattern": "elicit a response from someone",
+          "use": "発言や働きかけが相手の反応を引き出すことを述べる。",
+          "example": "The announcement elicited an enthusiastic response from the audience.",
+          "translation": "その発表に、聴衆は熱烈な反応を示した。"
+        },
+        {
+          "pattern": "an emotional response",
+          "use": "感情を伴う反応に焦点を置く。",
+          "example": "The final scene provoked a strong emotional response.",
+          "translation": "最後の場面は、強い感情的な反応を引き起こした。"
+        },
+        {
+          "pattern": "an emergency response",
+          "use": "災害・事故などへの対応を指す。",
+          "example": "The exercise tested the city's emergency response.",
+          "translation": "その訓練では、市の緊急時の対応が検証された。"
+        },
+        {
+          "pattern": "someone's response is one of 〈感情〉",
+          "use": "反応の中身がどのような感情だったかを述べる。",
+          "example": "His first response was one of disbelief.",
+          "translation": "彼は最初、信じられないという反応を示した。"
+        }
+      ],
+      "notes": [
+        "in response to a complaint は、返答メールを出すことにも、苦情を受けて仕組みを変えることにも使える。語義1との区別は in response to という形ではなく、主節が何を述べているかで判断する。response は「反応の速さ」そのものではなく、rapid response、slow response の修飾語が速さを示す。",
+        "response と reaction は重なる。response は計画的・組織的な対応にもよく使うが、無意識の反応を排除しない。reaction も意識的な行動に使えるため、「response は熟考した対応、reaction は無意識」と固定しない。positive response は好意的な反応を指すことが多いが、何を positive と評価しているかは文脈で確かめる。"
+      ],
+      "synonyms": [
+        {
+          "word": "reaction",
+          "definition": "出来事や刺激を受けて生じる反応。",
+          "frequency": 9,
+          "difference": "response と広く重なるが、その場で表れた感情や反応を描くときに使いやすい。組織的な対応全体には response がよく使われる。",
+          "example": "Her reaction to the news was relief.",
+          "translation": "その知らせを聞いた彼女の反応は、安堵だった。"
+        },
+        {
+          "word": "reception",
+          "definition": "提案・作品・人物などが人々にどう受け止められるか。",
+          "frequency": 7,
+          "difference": "response のうち、受け入れ方や評判に焦点を絞る。事故への対応などには普通置き換えない。",
+          "example": "The proposal received a mixed reception.",
+          "translation": "その提案に対する反応は賛否が分かれた。"
+        },
+        {
+          "word": "countermeasure",
+          "definition": "問題や脅威に対抗するために取る措置。",
+          "frequency": 5,
+          "difference": "response より狭く、相手の行動や危険を防ぐ・打ち消す目的がある。喜びや拍手といった反応は含まない。",
+          "example": "The team introduced countermeasures against unauthorized access.",
+          "translation": "チームは、不正アクセスへの対策を導入した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算・不可算】生体反応・治療への反応",
+      "frequency": 6,
+      "register": [
+        "生物学・医学・心理学。一般向けの科学記事にも使う。"
+      ],
+      "definition": "刺激、環境の変化、治療などに対して、生物・身体・細胞などに生じる変化や活動。免疫反応、刺激への反応、治療に対する反応などを指す。活動が増す場合だけでなく、抑えられる場合も含み得る。",
+      "patterns": [
+        "a response to 〈刺激・治療〉＝刺激・治療に対する生体の反応",
+        "an immune response＝免疫反応",
+        "a physiological response＝生理的反応",
+        "a response to treatment＝治療への反応"
+      ],
+      "collocations": [
+        {
+          "pattern": "a response to 〈刺激〉",
+          "use": "生物の反応と、それを引き起こす刺激を対応させる。",
+          "example": "The researchers measured the plants' responses to changes in light.",
+          "translation": "研究者たちは、光の変化に対する植物の反応を測定した。"
+        },
+        {
+          "pattern": "an immune response",
+          "use": "免疫系の反応を指す。",
+          "example": "The study examined the immune response to the virus.",
+          "translation": "その研究では、ウイルスに対する免疫反応を調べた。"
+        },
+        {
+          "pattern": "a response to treatment",
+          "use": "治療を受けた際の変化を述べる。",
+          "example": "The doctor reviewed the patient's response to treatment.",
+          "translation": "医師は、その患者の治療に対する反応を確認した。"
+        },
+        {
+          "pattern": "a physiological response",
+          "use": "身体の働きとして現れる反応を指す。",
+          "example": "The experiment measured physiological responses to stress.",
+          "translation": "その実験は、ストレスに対する生理的反応を測定した。"
+        }
+      ],
+      "notes": [
+        "この response は、患者が言葉で返事をすることとは限らない。a response to treatment は治療への反応・効果の現れ方を指し、response だけで治癒や十分な改善を意味するわけではない。特定の研究や診療で使う complete response などの判定基準は、その分野の定義を確認する。"
+      ],
+      "synonyms": [
+        {
+          "word": "reaction",
+          "definition": "刺激や物質などに対する身体・生物の反応。",
+          "frequency": 7,
+          "difference": "response と重なるが、allergic reaction のように特定の反応を指す連語でも使う。治療効果の評価を常に reaction に置き換えられるわけではない。",
+          "example": "The test recorded the body's reaction to the stimulus.",
+          "translation": "その検査は、刺激に対する身体の反応を記録した。"
+        },
+        {
+          "word": "reflex",
+          "definition": "刺激に対して自動的に起こる反射。",
+          "frequency": 5,
+          "difference": "response の一種を指す、より限定された語。response 自体は反射だけでなく、さまざまな生体の変化を含む。",
+          "example": "The doctor checked the patient's reflexes.",
+          "translation": "医師は患者の反射を調べた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・可算・不可算】機器・システムの応答",
+      "frequency": 6,
+      "register": [
+        "情報処理・電子工学・機器の説明。"
+      ],
+      "definition": "操作、信号、要求などの入力に対して、機器やソフトウェアが示す動作・出力。返されるデータや、入力に応じた機器の変化を指す。情報処理では request「要求」に対して返る側として使われる。",
+      "patterns": [
+        "a response to 〈入力・要求〉＝入力や要求に対する応答",
+        "a response from 〈システム〉＝システムからの応答",
+        "a response time＝応答に要する時間",
+        "frequency response＝周波数に応じた応答特性"
+      ],
+      "collocations": [
+        {
+          "pattern": "a response from 〈システム〉",
+          "use": "システムが返した情報などを指す。",
+          "example": "The app displayed the response from the server.",
+          "translation": "アプリは、サーバーからの応答を表示した。"
+        },
+        {
+          "pattern": "a response to 〈入力〉",
+          "use": "入力に対する機器の変化を述べる。",
+          "example": "The sensor's response to a sudden change in temperature was recorded.",
+          "translation": "急激な温度変化に対するセンサーの応答が記録された。"
+        },
+        {
+          "pattern": "a response time",
+          "use": "入力後に応答するまでの時間を述べる。",
+          "example": "The test compared the response times of the two systems.",
+          "translation": "そのテストでは、2つのシステムの応答時間を比較した。"
+        },
+        {
+          "pattern": "frequency response",
+          "use": "信号の周波数によって応答がどう異なるかを指す。",
+          "example": "The manual includes a graph of the speaker's frequency response.",
+          "translation": "説明書には、そのスピーカーの周波数特性のグラフが載っている。"
+        }
+      ],
+      "notes": [
+        "request は求める側、response はそれに対して返る側であり、どちらもメッセージになり得る。response が返っただけで処理の成功を意味するわけではない。response time は、何を入力時点・応答時点とするかが測定方法によって異なるため、数値だけを比べず条件を確認する。周波数特性の response は「返事」ではなく、入力に対する出力の現れ方。"
+      ],
+      "synonyms": [
+        {
+          "word": "output",
+          "definition": "機器や処理から生じる信号・データなどの出力。",
+          "frequency": 7,
+          "difference": "response は特定の入力に対して返る関係を強調し、output は出てくるもの自体に焦点を置く。自発的・継続的な出力にも使える。",
+          "example": "The program saves its output in a text file.",
+          "translation": "そのプログラムは、出力をテキストファイルに保存する。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞・可算、通常複数形】応唱",
+      "frequency": 2,
+      "register": [
+        "キリスト教の礼拝・宗教音楽。"
+      ],
+      "definition": "教会の礼拝などで、司式者の言葉や歌に応じ、会衆や聖歌隊が唱える・歌う部分。",
+      "patterns": [
+        "sing the responses＝応唱を歌う",
+        "say the responses＝応唱を唱える"
+      ],
+      "collocations": [
+        {
+          "pattern": "sing the responses",
+          "use": "礼拝で呼びかけに応じて歌う部分を述べる。",
+          "example": "The choir sang the responses during the service.",
+          "translation": "聖歌隊は、礼拝の間に応唱を歌った。"
+        },
+        {
+          "pattern": "say the responses",
+          "use": "礼拝で会衆などが唱える返答部分を述べる。",
+          "example": "The congregation said the responses together.",
+          "translation": "会衆は、一緒に応唱を唱えた。"
+        }
+      ],
+      "notes": [
+        "礼拝の呼びかけに応える部分という語彙的意味で、説教全体への感想や、礼拝後の質疑応答ではない。",
+        "複数の定められた返答部分をまとめて the responses と呼ぶことが多い。具体的な文言や手順は礼拝の形式によって異なる。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【名詞・可算】ブリッジの応答ビッド",
+      "frequency": 2,
+      "register": [
+        "ブリッジの競技用語。"
+      ],
+      "definition": "カードゲームのブリッジで、パートナーのビッドやダブルに応じて行うビッド。自分の手札とパートナーの示した情報を踏まえて行う、ビディングでの応答を指す。",
+      "patterns": [
+        "a response to one's partner's opening bid＝パートナーのオープニングビッドに対する応答ビッド",
+        "a response of 〈ビッド〉＝ある内容の応答ビッド"
+      ],
+      "collocations": [
+        {
+          "pattern": "a response to one's partner's opening bid",
+          "use": "味方の最初のビッドに対して、どのビッドで応じたかを述べる。",
+          "example": "Her response to her partner's opening bid of one heart was one spade.",
+          "translation": "パートナーの1ハートのオープニングビッドに対し、彼女は1スペードで応答した。"
+        },
+        {
+          "pattern": "a response of 〈ビッド〉",
+          "use": "応答として選んだビッドの内容を示す。",
+          "example": "After her partner opened one spade, she chose a response of two clubs.",
+          "translation": "パートナーが1スペードでビディングを開始した後、彼女は2クラブの応答ビッドを選んだ。"
+        }
+      ],
+      "notes": [
+        "partner はペアを組む味方であり、対戦相手や配偶者を意味するとは限らない。この response は、カードを1枚出してプレーすることではなく、ビディングでの応答。",
+        "個々のビッドが示す手札の強さ・形などは、採用する方式やその場の状況による。response という語だけから、必要な点数や特定の宣言内容まで決まるわけではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}

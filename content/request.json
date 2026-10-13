@@ -1,0 +1,420 @@
+{
+  "word": "request",
+  "slug": "request",
+  "ipa": "米・英: /rɪˈkwest/",
+  "lead": "何かを提供してもらう、行為をしてもらう、許可を得るなどのために相手へ求めること、またはその求めの内容。改まった、丁寧な求め方と結び付きやすいが、軽いお願いに限らず、組織からの要請にも使う。実現したこと、承認されたことまでは表さない。",
+  "updated": "2026-10-13",
+  "notion_url": "https://app.notion.com/p/request-3f84faa9b77d81a99396ebe8221d99bb",
+  "pronunciation": [
+    "2音節で、第2音節 /kwest/ に強勢がある。名詞と動詞で強勢は変わらない。",
+    "複数形・三人称単数現在形 requests は /rɪˈkwests/、過去形・過去分詞 requested は /rɪˈkwestɪd/。requested では語尾が1音節増える。"
+  ],
+  "etymology": [
+    "中英語にフランス語系の名詞 requeste が入り、動詞としても使われるようになった。さらにさかのぼると、ラテン語 requirere「求める、尋ねる」の系統に属する。re- はここでは強意を表し、quaerere は「探し求める」の意。現代の request を「もう一度質問する」と分解して理解する語ではない。",
+    "inquire「尋ねる、調べる」と acquire「獲得する」も、さかのぼれば quaerere を共有する。request は必要なものを相手に求めること、inquire は情報を求めて尋ねること、acquire は実際に得ることを中心とし、同根でも現在の意味・文型は異なる。"
+  ],
+  "formation": [
+    {
+      "term": "requester / requestor（名詞）",
+      "description": "依頼者、要求元。人だけでなく、情報処理で要求を送る側にも使う。"
+    },
+    {
+      "term": "requested（過去分詞）",
+      "description": "要求された、依頼された。the requested information「求められた情報」のように名詞を修飾するが、request の過去分詞であり、「必須の」とは限らない。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "共通核は「必要・希望するものを、相手に求めること」。求める行為、その伝達内容、求められた対象、求められている状態へと焦点が移る。"
+    },
+    {
+      "type": "item",
+      "text": "相手に求める行為・内容 → 「依頼・要請・要求」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "相手に求める働きかけ → 「依頼する・要請する・要求する」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "コンピューターに求める処理 → 「処理要求・リクエスト」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "演奏者などに求めた曲 → 「リクエスト曲」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "多くの相手から求められる状態 → 「需要がある・引っ張りだこである」（語義5）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算、定型句では無冠詞】依頼・要請・要求",
+      "frequency": 9,
+      "register": [
+        "一般・ビジネス・公的文書。会話でも使うが、動詞 ask を使った表現より改まって聞こえやすい。"
+      ],
+      "definition": "何かを提供してもらう、行為をしてもらう、許可を得るなどのために相手へ求めること、またはその求めの内容。改まった、丁寧な求め方と結び付きやすいが、軽いお願いに限らず、組織からの要請にも使う。実現したこと、承認されたことまでは表さない。",
+      "patterns": [
+        "a request for something＝物・情報などを求める依頼",
+        "a request to do something＝何かをすることを求める依頼",
+        "a request that 〈主語〉 + 〈動詞の原形〉＝あることを実行するよう求める依頼",
+        "make a request＝依頼をする",
+        "grant a request＝依頼を認める",
+        "a request from someone＝人からの依頼",
+        "at someone's request＝その人に頼まれて",
+        "at the request of someone＝その人の依頼によって",
+        "on request＝求めがあれば、求めに応じて",
+        "upon request＝求めがあれば、求めに応じて",
+        "by popular request＝大勢からの要望により"
+      ],
+      "collocations": [
+        {
+          "pattern": "make a request for something",
+          "use": "何を求めるかを for の後に示す。",
+          "example": "We made a request for additional training.",
+          "translation": "私たちは追加の研修を要望した。"
+        },
+        {
+          "pattern": "a request to do something",
+          "use": "申請者などが希望する行為を不定詞で示す。",
+          "example": "Her request to work remotely was approved.",
+          "translation": "彼女のリモート勤務の申請は承認された。"
+        },
+        {
+          "pattern": "a request that 〈主語〉 + 〈動詞の原形〉",
+          "use": "誰が何をするよう求められているかを節で明確にする。",
+          "example": "The letter included a request that all invoices be sent electronically.",
+          "translation": "その手紙には、すべての請求書を電子形式で送るようにとの依頼が含まれていた。"
+        },
+        {
+          "pattern": "grant a request",
+          "use": "提出された依頼や申請を認める。",
+          "example": "The manager granted my request for two days off.",
+          "translation": "上司は私の2日間の休暇申請を認めた。"
+        },
+        {
+          "pattern": "a request from someone",
+          "use": "依頼の送り手を示す。",
+          "example": "We received a request from a customer for a larger size.",
+          "translation": "顧客から、もっと大きいサイズを求める依頼が届いた。"
+        },
+        {
+          "pattern": "at someone's request",
+          "use": "特定の人の依頼が行動のきっかけだったと述べる。",
+          "example": "At the author's request, we removed the photograph.",
+          "translation": "著者の依頼で、私たちはその写真を削除した。"
+        },
+        {
+          "pattern": "at the request of someone",
+          "use": "依頼者を of の後に示す。",
+          "example": "The meeting was postponed at the request of the client.",
+          "translation": "顧客の要請で、会議は延期された。"
+        },
+        {
+          "pattern": "available on request",
+          "use": "常時配布しているとは限らず、希望すれば入手できると案内する。",
+          "example": "A printed copy is available on request.",
+          "translation": "ご希望があれば、印刷したものをお渡しできます。"
+        },
+        {
+          "pattern": "upon request",
+          "use": "求めに応じて行うサービスなどを改まって示す。",
+          "example": "We can arrange an interpreter upon request.",
+          "translation": "ご要望に応じて、通訳を手配できます。"
+        },
+        {
+          "pattern": "by popular request",
+          "use": "大勢の希望を受けた再実施などを告知する。",
+          "example": "The workshop is returning by popular request.",
+          "translation": "多くの方のご要望により、そのワークショップを再び開催します。"
+        }
+      ],
+      "notes": [
+        "個別の依頼は a request、several requests と数える。on request、upon request、by request は無冠詞の定型句であり、その形から通常の個別依頼もすべて不可算と考えない。at your request は「あなたに頼まれて」、on request は「求めがあれば」で、前者は依頼者、後者は提供などの条件に焦点がある。",
+        "名詞の a request for information に対し、動詞は request information（語義2）。名詞の for を動詞に移した request for information を、同じ他動詞構文として使わない。a request to do something の行為者は文脈で決まるため、必要なら a request that the supplier send a sample のように節で明示する。要求を表す that 節では原形を使え、英国英語では that all invoices should be sent のような should も使う。",
+        "request は demand より圧力の弱い、丁寧な表現になりやすいが、依頼の重要度や従う義務がないことまで保証しない。拒否することは deny/refuse/reject a request と表せるが、これらは依頼への対応であり request 自体の反意語ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "demand",
+          "definition": "何かを強く求める要求。",
+          "frequency": 8,
+          "difference": "request より、相手が応じるべきだという強い姿勢や圧力を表しやすい。",
+          "example": "The workers made a demand for safer equipment.",
+          "translation": "労働者たちは、より安全な設備を強く要求した。"
+        },
+        {
+          "word": "appeal",
+          "definition": "支援や対応を求める訴えかけ。",
+          "frequency": 7,
+          "difference": "request より、広い相手への呼びかけや、理解・同情に訴える面が目立つ。",
+          "example": "The charity launched an appeal for blankets.",
+          "translation": "その慈善団体は毛布の提供を呼びかけた。"
+        },
+        {
+          "word": "application",
+          "definition": "許可・職・サービスなどを得るための正式な申請。",
+          "frequency": 8,
+          "difference": "request より、決まった手続きに従って資格や提供を求める場面に限定される。",
+          "example": "Please submit your application by Friday.",
+          "translation": "金曜日までに申請書を提出してください。"
+        },
+        {
+          "word": "plea",
+          "definition": "切実に何かを求める懇願。",
+          "frequency": 6,
+          "difference": "中立的な request より、必死さや強い感情がこもりやすい。",
+          "example": "Her plea for help went unanswered.",
+          "translation": "彼女の助けを求める切実な訴えに、応える人はいなかった。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【動詞・他動詞】依頼する・要請する・要求する",
+      "frequency": 8,
+      "register": [
+        "フォーマル・ビジネス・公的な案内。日常会話では ask for、ask someone to が一般的。"
+      ],
+      "definition": "欲しい物・情報・許可などを明示して求める、または人にある行為をするよう求める。依頼内容を目的語・節・不定詞で示す形と、相手を目的語にして to 不定詞を続ける形がある。丁寧な依頼や正式な要請で使われ、依頼が受け入れられたかどうかは別である。",
+      "patterns": [
+        "request something＝物・情報などを求める",
+        "request something from someone＝相手に物・情報などを求める",
+        "request that 〈主語〉 + 〈動詞の原形〉＝あることをするよう要請する",
+        "request that 〈主語〉 + should + 〈動詞の原形〉＝あることをするよう要請する、主に英国英語でも使う形",
+        "request to do something＝自分が何かをすることを願い出る",
+        "request someone to do something＝人に何かをするよう要請する",
+        "be requested to do something＝何かをするよう求められる",
+        "be requested not to do something＝何かをしないよう求められる",
+        "request permission to do something＝何かをする許可を求める"
+      ],
+      "collocations": [
+        {
+          "pattern": "request something",
+          "use": "欲しい物や対応を直接目的語にする。",
+          "example": "The guest requested a quiet room.",
+          "translation": "その宿泊客は静かな部屋を希望した。"
+        },
+        {
+          "pattern": "request something from someone",
+          "use": "求める物と、その提供を求める相手を分けて示す。",
+          "example": "We requested a revised estimate from the contractor.",
+          "translation": "私たちは請負業者に、修正した見積もりを依頼した。"
+        },
+        {
+          "pattern": "request that 〈主語〉 + 〈動詞の原形〉",
+          "use": "要請の中身を主語付きの節で表す。",
+          "example": "The editor requested that the author revise the introduction.",
+          "translation": "編集者は、著者に序論を書き直すよう要請した。"
+        },
+        {
+          "pattern": "request that 〈主語〉 + should + 〈動詞の原形〉",
+          "use": "要求を表す should を用いた節で依頼内容を示す。",
+          "example": "The committee requested that the report should be made public.",
+          "translation": "委員会は、その報告書を公表するよう要請した。"
+        },
+        {
+          "pattern": "request to do something",
+          "use": "話者・主語自身がある行為をしたいと改まって申し出る。",
+          "example": "The witness requested to speak in private.",
+          "translation": "その証人は、非公開で話したいと申し出た。"
+        },
+        {
+          "pattern": "request someone to do something",
+          "use": "相手を直接示し、その人にしてほしいことを続ける。",
+          "example": "The chair requested the participants to keep their remarks brief.",
+          "translation": "議長は参加者に、発言を短くするよう求めた。"
+        },
+        {
+          "pattern": "be requested to do something",
+          "use": "掲示や案内で、相手に取ってほしい行動を丁寧に示す。",
+          "example": "Visitors are requested to sign in at reception.",
+          "translation": "来訪者の方は、受付で記帳をお願いします。"
+        },
+        {
+          "pattern": "be requested not to do something",
+          "use": "掲示などで、控えてほしい行為を示す。",
+          "example": "Passengers are requested not to block the doors.",
+          "translation": "乗客の皆様は、ドアをふさがないようお願いします。"
+        },
+        {
+          "pattern": "request permission to do something",
+          "use": "行為そのものより、それを行う許可を明示的に求める。",
+          "example": "The photographer requested permission to use the image.",
+          "translation": "その写真家は、その画像を使用する許可を求めた。"
+        }
+      ],
+      "notes": [
+        "物を求めるときは request a copy、相手から求めるときは request a copy from her。ask her for a copy と同じ語順をそのまま移さない。request someone to do は成立する能動構文で、受動態でしか使えないわけではない。ただし be requested to do は案内・掲示でよく見かける。",
+        "request that she attend では、要求を表す節の動詞が原形 attend になり、主語が she でも attends にはしない。過去の requested の後でも、その要求内容を表す原形は使える。受動なら request that it be sent。英国英語では should attend、should be sent も使える。この should は、単なる助言の「〜したほうがよい」と同じ働きではない。",
+        "request to speak では話すのは依頼する主語、request her to speak では話すよう求められるのは her。自分の行為の許可を明確にしたければ request permission to speak とできる。request 自体には承認・実施の意味がなく、We requested a refund. は「返金を求めた」であって「返金された」ではない。丁寧な掲示の受動態が実質的な指示となることもあるが、法的な拘束力は語だけでは決まらない。"
+      ],
+      "synonyms": [
+        {
+          "word": "ask for",
+          "definition": "物・情報・対応などを求める。",
+          "frequency": 10,
+          "difference": "request より日常的。物を求めるときに for が必要で、ask for a copy とする。",
+          "example": "I asked for a copy of the receipt.",
+          "translation": "私は領収書のコピーを頼んだ。"
+        },
+        {
+          "word": "ask",
+          "definition": "人に何かをするよう頼む。",
+          "frequency": 10,
+          "difference": "ask someone to do は request someone to do より広い会話場面で使える。疑問を尋ねる別の意味もある。",
+          "example": "She asked me to check the address.",
+          "translation": "彼女は私に住所を確認するよう頼んだ。"
+        },
+        {
+          "word": "demand",
+          "definition": "何かを強い調子で要求する。",
+          "frequency": 8,
+          "difference": "request より、当然応じてもらうべきだという姿勢を示しやすい。",
+          "example": "The customer demanded an explanation for the delay.",
+          "translation": "その顧客は、遅れについて説明するよう強く求めた。"
+        },
+        {
+          "word": "solicit",
+          "definition": "支援・意見・寄付などを積極的に募る。",
+          "frequency": 6,
+          "difference": "request より、相手に働きかけて集めることを強調し、複数の相手への募集にも使われる。",
+          "example": "The organization solicited suggestions from its members.",
+          "translation": "その組織は会員から提案を募った。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算】処理要求・リクエスト",
+      "frequency": 6,
+      "register": [
+        "情報処理・ウェブサービス。"
+      ],
+      "definition": "コンピューター、プログラム、サーバーなどに、情報の取得や処理の実行を求める指示・メッセージ。人からの依頼という語義1を情報処理に用いたもので、要求を送ったことと、処理が完了したことは区別する。",
+      "patterns": [
+        "send a request to 〈システム〉＝システムに処理要求を送る",
+        "process a request＝要求に対応する処理を行う",
+        "a request for 〈データ・処理〉＝データや処理を求める要求",
+        "a request from 〈クライアントなど〉＝クライアントなどからの要求"
+      ],
+      "collocations": [
+        {
+          "pattern": "send a request to 〈システム〉",
+          "use": "要求の送り先を示す。",
+          "example": "The app sends a request to the server when you open the page.",
+          "translation": "ページを開くと、アプリはサーバーにリクエストを送る。"
+        },
+        {
+          "pattern": "process a request",
+          "use": "受け取った要求をシステムが処理する。",
+          "example": "The server could not process the request because a required field was missing.",
+          "translation": "必須項目が欠けていたため、サーバーはそのリクエストを処理できなかった。"
+        },
+        {
+          "pattern": "a request for 〈データ〉",
+          "use": "取得を求めるデータを示す。",
+          "example": "The client sent a request for the latest exchange rates.",
+          "translation": "クライアントは、最新の為替レートを取得するリクエストを送った。"
+        }
+      ],
+      "notes": [
+        "request は要求側のメッセージ、response はそれに対する応答として対比される。両者はやり取りの役割の違いであり、反意語ではない。request が HTTP の要求を指す場合もあるが、この語だけで通信方式・処理内容・成功の有無は決まらない。send、receive、process、reject など、周囲の動詞で段階を読む。"
+      ],
+      "synonyms": [
+        {
+          "word": "query",
+          "definition": "データベースなどから情報を取り出すための問い合わせ。",
+          "frequency": 6,
+          "difference": "request は処理要求を広く指すが、query は主に情報の検索・照会に焦点がある。",
+          "example": "The database returned no results for the query.",
+          "translation": "そのクエリに対して、データベースからは結果が返されなかった。"
+        },
+        {
+          "word": "command",
+          "definition": "システムに特定の動作を行わせる命令。",
+          "frequency": 6,
+          "difference": "request はやり取りの要求側として捉え、command は実行させる操作の指示として捉える。すべての request が操作コマンドとは限らない。",
+          "example": "Enter the command to display the file list.",
+          "translation": "ファイルの一覧を表示するコマンドを入力してください。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・可算】リクエスト曲",
+      "frequency": 5,
+      "register": [
+        "ラジオ・音楽番組・ライブ演奏。"
+      ],
+      "definition": "聴き手が演奏者や番組などにかけてほしいと頼んだ曲・楽曲。曲を求める依頼そのものに加え、その依頼の対象となった曲を指す。",
+      "patterns": [
+        "play a request＝リクエストされた曲を演奏する、かける",
+        "take requests＝曲のリクエストを受け付ける",
+        "a request from 〈聴き手〉＝その聴き手のリクエスト曲"
+      ],
+      "collocations": [
+        {
+          "pattern": "play a request",
+          "use": "聴き手が希望した曲を演奏する、または放送する。",
+          "example": "The pianist played a request from someone in the audience.",
+          "translation": "ピアニストは、観客の一人がリクエストした曲を演奏した。"
+        },
+        {
+          "pattern": "take requests",
+          "use": "演奏・放送する曲の希望を受け付ける。",
+          "example": "The band takes requests during the second half of the show.",
+          "translation": "そのバンドは、公演の後半に曲のリクエストを受け付ける。"
+        }
+      ],
+      "notes": [
+        "The next request is a jazz standard. の request は「次にかけるリクエスト曲」。a request for a song は「曲を求める依頼」であり、依頼という行為・内容と、求められた曲という対象のどちらを指すかを動詞や文脈で判断する。語義2の動詞 request a song は「その曲をかけてほしいと頼む」。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【慣用表現・前置詞句】需要がある・引っ張りだこである",
+      "frequency": 2,
+      "register": [
+        "古風・文語。"
+      ],
+      "definition": "in request の形で、人や物が求められている状態を表す。現代では古風に響く表現で、通常は in demand を使う。",
+      "patterns": [
+        "be in request＝需要がある",
+        "be much in request＝大いに求められている"
+      ],
+      "collocations": [
+        {
+          "pattern": "be much in request",
+          "use": "古風な語り口で、人の人気や需要の高さを表す。",
+          "example": "His services were much in request among wealthy families.",
+          "translation": "彼の仕事は、裕福な家庭の間で引っ張りだこだった。"
+        }
+      ],
+      "notes": [
+        "on request「求めに応じて」と取り違えない。in request は、依頼を提出中という意味ではない。現在の業務文書では His services were in high demand. のように書くほうが一般的。"
+      ],
+      "synonyms": [
+        {
+          "word": "in demand",
+          "definition": "人や物が多く求められている。",
+          "frequency": 8,
+          "difference": "in request と同じ需要の軸を表す、現代の一般的な表現。",
+          "example": "Experienced technicians are in demand.",
+          "translation": "経験豊富な技術者の需要がある。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
