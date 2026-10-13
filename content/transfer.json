@@ -1,0 +1,1615 @@
+{
+  "word": "transfer",
+  "slug": "transfer",
+  "ipa": "動詞の代表形は、米: /trænsˈfɜːr/｜英: /trænsˈfɜː/。名詞は、米: /ˈtrænsfɜːr/｜英: /ˈtrænsfɜː/。いずれも2音節。ここに示した米英差は第2音節の語末 /r/ の有無で、英語でも後ろに母音が続けば /r/ が現れる発音がある。動詞は第2音節、名詞は第1音節に主強勢を置く形が基本だが、特に米語では動詞にも第1音節に主強勢、第2音節に副強勢を置く /ˈtrænsˌfɜːr/ があるため、「動詞なら必ず後ろに強勢」とは限らない。",
+  "lead": "人や物を、それまでいた場所・入っていた容器・載っていた乗り物などから別の場所へ移動させる。患者の移送、旅行客の送迎、荷物や食品の移し替えなどに使う。移動の手段や距離より、出発側と到着側が変わることに焦点を置く。",
+  "updated": "2026-10-13",
+  "notion_url": "https://app.notion.com/p/transfer-3f84faa9b77d8160a781ea1270d56fea",
+  "pronunciation": [],
+  "etymology": [
+    "中英語の動詞 transferren にさかのぼり、フランス語 transférer、ラテン語 transferre とつながる。ラテン語では trans-「向こうへ、越えて」と ferre「運ぶ」の組合せ。同じ ferre を含む語に refer「言及する、照会する」、confer「協議する、授ける」がある。名詞は動詞より後に使われるようになり、初期には財産の譲渡を表した。"
+  ],
+  "formation": [
+    {
+      "term": "transfers",
+      "description": "動詞の三人称単数現在形、または可算名詞の複数形。"
+    },
+    {
+      "term": "transferred",
+      "description": "過去形・過去分詞。語末の r を重ねる。be transferred to ... は目的語が主語になった受動態で、独立した評価的な形容詞ではない。transferred funds「移された資金」のような名詞前の分詞もある。"
+    },
+    {
+      "term": "transferring",
+      "description": "現在分詞・動名詞。transfering とは綴らない。"
+    },
+    {
+      "term": "transferable",
+      "description": "形容詞。「移転できる、譲渡できる、別の場面でも使える」。transferable skills は職場や職種が変わっても使える技能。transferrable という綴りもある。"
+    },
+    {
+      "term": "non-transferable",
+      "description": "形容詞。「譲渡不可の」。non-transferable tickets は他人へ譲れない切符で、「乗換えができない切符」という意味とは限らない。"
+    },
+    {
+      "term": "transferability",
+      "description": "不可算名詞。「移転可能性、譲渡可能性、他の場面への応用可能性」。"
+    },
+    {
+      "term": "transference",
+      "description": "名詞。「移動、伝達、転移」。一般には硬い語で、心理療法で感情が治療者に向けられる「転移」という専門義もある。日常の銀行振込や乗換えをすべてこの語に置き換えるわけではない。"
+    },
+    {
+      "term": "transferor / transferee",
+      "description": "法律・契約で「譲渡人／譲受人」。どの権利や財産を移す当事者かは契約の内容で決まる。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "ある場所・所属・持ち主・媒体・場面にあるものを、別の側へ「移す／移る」こと。その行為、移った人、移す図柄、移動に使う券も表す。移動先ができることが核であり、元の側から必ず消えることや、有料であることまで共通して表すわけではない。"
+    },
+    {
+      "type": "item",
+      "text": "場所をまたぐ人や物の移動 → 「移す、運ぶ」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "媒体をまたぐ情報や図柄の移動 → 「転送する、別の媒体に写す」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "口座をまたぐ資金の移動 → 「送金する、振り替える」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "所属をまたぐ本人の移動 → 「異動する、転校・編入する、移籍する」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "所属をまたがせる他者の移動 → 「異動させる、転校・移籍させる」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "交通手段をまたぐ乗客の移動 → 「乗り換える」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "電話の接続先をまたぐ移動 → 「電話を取り次ぐ」（語義7）"
+    },
+    {
+      "type": "item",
+      "text": "権利や権限の保有先をまたぐ移動 → 「権利・権限を移す、譲渡する」（語義8）"
+    },
+    {
+      "type": "item",
+      "text": "場所や担い手をまたぐ移動の過程 → 「移動、移転、伝達」（語義9）"
+    },
+    {
+      "type": "item",
+      "text": "所属をまたぐ移動の出来事 → 「異動、転校・編入、移籍」（語義10）"
+    },
+    {
+      "type": "item",
+      "text": "口座をまたぐ移動の取引 → 「送金、振替」（語義11）"
+    },
+    {
+      "type": "item",
+      "text": "交通手段をまたぐ移動の行為 → 「乗換え、乗継ぎ」（語義12）"
+    },
+    {
+      "type": "item",
+      "text": "旅程の拠点をまたぐ移動サービス → 「送迎、接続区間の移動」（語義13）"
+    },
+    {
+      "type": "item",
+      "text": "場所や媒体をまたぐ対象自体の移動 → 「移る、移行する、伝わる」（語義14）"
+    },
+    {
+      "type": "item",
+      "text": "使用場面をまたがせる技能の移動 → 「技能・知識を別の場面に応用する」（語義15）"
+    },
+    {
+      "type": "item",
+      "text": "使用場面をまたいで成立する技能の移動 → 「別の場面でも通用する」（語義16）"
+    },
+    {
+      "type": "item",
+      "text": "感情の向かう先をまたぐ移動 → 「感情・関心の対象を移す」（語義17）"
+    },
+    {
+      "type": "item",
+      "text": "所属をまたいで移動してきた人 → 「編入者、転入者」（語義18）"
+    },
+    {
+      "type": "item",
+      "text": "表面をまたいで移動させる図柄 → 「転写図柄、転写シート」（語義19）"
+    },
+    {
+      "type": "item",
+      "text": "交通手段をまたぐ移動を認める券 → 「乗換券」（語義20）"
+    },
+    {
+      "type": "item",
+      "text": "学習場面をまたぐ経験の影響の移動 → 「学習の転移」（語義21）"
+    },
+    {
+      "type": "item",
+      "text": "認定先をまたがせる単位の移動 → 「履修済み単位を移行する」（語義22）"
+    },
+    {
+      "type": "item",
+      "text": "認定先をまたいで成立する単位の移動 → 「単位が移行・認定される」（語義23）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞】移す、運ぶ",
+      "frequency": 8,
+      "register": [
+        "一般、業務、交通、医療の移送案内。"
+      ],
+      "definition": "人や物を、それまでいた場所・入っていた容器・載っていた乗り物などから別の場所へ移動させる。患者の移送、旅行客の送迎、荷物や食品の移し替えなどに使う。移動の手段や距離より、出発側と到着側が変わることに焦点を置く。",
+      "patterns": [
+        "transfer someone/something from 〈移動元〉 to 〈移動先〉＝人・物を移動元から移動先へ移す",
+        "transfer something into 〈容器〉＝物を容器の中へ移す",
+        "transfer something onto 〈面〉＝物をその面の上へ移す",
+        "be transferred to 〈移動先〉＝人・物がその場所へ移される",
+        "transfer one's weight to 〈体の一部〉＝体重をその部位へ移す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "transfer someone from 〈移動元〉 to 〈移動先〉",
+          "use": "客や患者などの移送を説明する。",
+          "example": "The driver transferred the guests from the airport to the conference hotel.",
+          "translation": "運転手は宿泊客たちを空港から会議会場のホテルへ送った。"
+        },
+        {
+          "pattern": "be transferred to 〈移動先〉",
+          "use": "移される人を主語にして移送先を示す。",
+          "example": "The patient was transferred to a larger hospital that evening.",
+          "translation": "その患者はその日の夕方、より大きな病院へ移送された。"
+        },
+        {
+          "pattern": "transfer something into 〈容器〉",
+          "use": "中に収める移し替えを表す。",
+          "example": "Transfer the soup into a clean container before refrigerating it.",
+          "translation": "スープを冷蔵する前に、清潔な容器へ移してください。"
+        },
+        {
+          "pattern": "transfer something onto 〈面〉",
+          "use": "台や皿などの表面へ載せ替える。",
+          "example": "She transferred the cookies onto a wire rack to cool.",
+          "translation": "彼女はクッキーを冷ますために金網のラックへ移した。"
+        },
+        {
+          "pattern": "transfer one's weight to 〈体の一部〉",
+          "use": "姿勢や動作に伴う体重の移動を示す。",
+          "example": "He slowly transferred his weight to his left foot.",
+          "translation": "彼はゆっくりと左足へ体重を移した。"
+        }
+      ],
+      "notes": [
+        "目的語は移される人・物。transfer the patient to another ward が他動詞、the patient transfers from a wheelchair to a bed なら本人が移動する自動詞で、語義14に当たる。from は出発側、to は到着側、into は内部、onto は表面を示す前置詞。transfer it to the tray とし、transfer to it the tray の語順にはしない。送迎には使えるが、往復運行や無料サービスまでは意味しない。組織内の職務・所属変更は語義5。"
+      ],
+      "synonyms": [
+        {
+          "word": "move",
+          "definition": "人や物の位置を変える。",
+          "frequency": 10,
+          "difference": "もっとも広い語で、わずかに動かす場合も含む。transfer はある場所・受入先から別の側へ移す区切りを意識させる。",
+          "example": "Could you move this chair a little closer to the desk?",
+          "translation": "この椅子をもう少し机に近づけてもらえますか。"
+        },
+        {
+          "word": "transport",
+          "definition": "人や物をある場所から別の場所へ輸送する。",
+          "frequency": 8,
+          "difference": "輸送手段や運ぶ過程に重点があり、同じ部屋の容器間の移し替えには通常使わない。",
+          "example": "The equipment was transported by rail.",
+          "translation": "その機器は鉄道で輸送された。"
+        },
+        {
+          "word": "relocate",
+          "definition": "人・施設・事業などの活動場所を移す。",
+          "frequency": 7,
+          "difference": "新しい拠点に置き直すことが中心。transfer より継続的な所在地の変更を表しやすい。",
+          "example": "The company relocated its warehouse to the outskirts of the city.",
+          "translation": "その会社は倉庫を市の郊外へ移転した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【動詞・他動詞】転送する、別の媒体に写す",
+      "frequency": 8,
+      "register": [
+        "一般、IT、映像・音声、印刷・制作。"
+      ],
+      "definition": "情報・ファイル・録音・図柄などを別の機器、記録媒体、表面、表現形式へ移す。同じ内容を別の側でも使えるようにする意味で、複製や変換を伴う場合がある。原本や元データが消えることは、この動詞だけでは決まらない。",
+      "patterns": [
+        "transfer 〈data/files/photos〉 from 〈移動元〉 to 〈移動先〉＝データなどを別の機器・保存先へ移す",
+        "transfer something between 〈複数の機器〉＝複数の機器間で情報を移す",
+        "transfer 〈a design/an image〉 onto 〈表面〉＝図柄・画像をその表面へ写す",
+        "transfer 〈a recording/a film〉 to 〈媒体〉＝録音・映像を別媒体へ移す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "transfer files from 〈移動元〉 to 〈移動先〉",
+          "use": "ファイルの転送元と転送先を示す。",
+          "example": "I transferred the files from my old laptop to an external drive.",
+          "translation": "私は古いノートパソコンから外付けドライブへファイルを移した。"
+        },
+        {
+          "pattern": "transfer data between 〈複数の機器〉",
+          "use": "機器間でのデータの受渡しを表す。",
+          "example": "This cable lets you transfer data between two computers.",
+          "translation": "このケーブルを使えば、2台のコンピューター間でデータを転送できる。"
+        },
+        {
+          "pattern": "transfer a design onto 〈表面〉",
+          "use": "模様や下絵を別の表面へ転写する。",
+          "example": "She used tracing paper to transfer the design onto the wooden panel.",
+          "translation": "彼女はトレーシングペーパーを使って、その図柄を木製パネルへ写した。"
+        },
+        {
+          "pattern": "transfer a recording to 〈媒体〉",
+          "use": "音声の保存形式・媒体を変える。",
+          "example": "The archive transferred the recording to a digital format.",
+          "translation": "その資料保存機関は録音をデジタル形式へ移した。"
+        }
+      ],
+      "notes": [
+        "transfer はデータを「切り取って移動する」操作だけを指さず、コピーする場合にも使う。copy は複製、move はソフトウェアの操作名なら元の場所からの移動を明示することがあるが、実際の保持・削除は操作の仕様で確認する。onto は転写先の面を目立たせ、to は機器・場所・媒体を広く示す。受動の the files were transferred と、自動詞の the files transferred successfully は区別する。後者は語義14。電話の相手を別担当へつなぐ場合は語義7。"
+      ],
+      "synonyms": [
+        {
+          "word": "copy",
+          "definition": "情報や図柄の複製を作る。",
+          "frequency": 9,
+          "difference": "元と対応するもう一つのものを作る点を強調する。transfer は移動先・媒体の変更に焦点がある。",
+          "example": "Copy the report to a separate folder for your records.",
+          "translation": "控えとして、その報告書を別のフォルダーへコピーしてください。"
+        },
+        {
+          "word": "transmit",
+          "definition": "信号や情報を通信経路などを通じて送る。",
+          "frequency": 7,
+          "difference": "送信・伝送する過程を表し、受信後の保存先の変更や図柄の転写までは中心義に含まない。",
+          "example": "The sensor transmits temperature readings every minute.",
+          "translation": "そのセンサーは毎分、温度の測定値を送信する。"
+        },
+        {
+          "word": "upload",
+          "definition": "手元の機器などからサーバーやオンラインサービスへデータを送る。",
+          "frequency": 8,
+          "difference": "転送方向が限定される。transfer はダウンロードや機器間の移動も含む。",
+          "example": "Please upload the signed form to the customer portal.",
+          "translation": "署名済みの用紙を顧客用ポータルへアップロードしてください。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞・他動詞】送金する、振り替える",
+      "frequency": 8,
+      "register": [
+        "日常、銀行、経理。"
+      ],
+      "definition": "資金を一つの口座・保有先から別の口座・受取先へ移す。同じ人の口座間の振替にも、他人への送金にも使う。商品代金の支払い、贈与、返済などの目的は動詞そのものには含まれない。",
+      "patterns": [
+        "transfer money from 〈送金元口座〉 to 〈送金先口座〉＝口座から口座へ送金する",
+        "transfer 〈金額〉 to someone＝その人へその金額を送る",
+        "transfer funds between 〈複数の口座〉＝複数の口座間で資金を振り替える",
+        "transfer money into 〈口座〉＝口座へ資金を移し入れる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "transfer money from 〈送金元口座〉 to 〈送金先口座〉",
+          "use": "資金の移動元と移動先を示す。",
+          "example": "She transferred money from her checking account to her savings account.",
+          "translation": "彼女は決済用口座から貯蓄口座へ資金を振り替えた。"
+        },
+        {
+          "pattern": "transfer 〈金額〉 to someone",
+          "use": "特定の相手への送金額を示す。",
+          "example": "I transferred fifty dollars to Alex to cover my share of lunch.",
+          "translation": "私は昼食代の自分の分としてアレックスに50ドルを送金した。"
+        },
+        {
+          "pattern": "transfer funds between 〈複数の口座〉",
+          "use": "口座間の資金移動を一般的に説明する。",
+          "example": "Customers can transfer funds between their accounts online.",
+          "translation": "顧客はオンラインで自分の口座間の資金振替ができる。"
+        },
+        {
+          "pattern": "transfer money into 〈口座〉",
+          "use": "資金が入る側の口座に焦点を置く。",
+          "example": "We transferred the money into the joint account yesterday.",
+          "translation": "私たちは昨日、その資金を共同口座へ移した。"
+        }
+      ],
+      "notes": [
+        "直接目的語は money、funds、a balance、金額など。「人に送金する」は transfer money to someone とする。transfer someone to ... は通常、人の異動や電話の取次ぎを表す。送金元と送金先の名義が同じか、手数料があるか、即時に着金するかは transfer だけでは分からない。transfer a balance はカードなどの残高を別の口座・契約へ移す表現で、借金が消えるという意味ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "send",
+          "definition": "金銭を相手へ送る。",
+          "frequency": 9,
+          "difference": "もっとも日常的で、現金の郵送なども含む。transfer は口座や保有先をまたぐ資金移動を意識させる。",
+          "example": "Could you send me the money by Friday?",
+          "translation": "金曜日までにお金を送ってもらえますか。"
+        },
+        {
+          "word": "remit",
+          "definition": "支払うべき金銭などを送る。",
+          "frequency": 5,
+          "difference": "硬い事務的な語で、請求・納付の文脈に多い。自分の口座間の単なる振替には transfer の方が一般的。",
+          "example": "Please remit the balance within thirty days.",
+          "translation": "30日以内に残額をご送金ください。"
+        },
+        {
+          "word": "wire",
+          "definition": "電子的な送金手段で金銭を送る。",
+          "frequency": 6,
+          "difference": "送金方法を限定する。transfer はより広く、すべての transfer が wire transfer というわけではない。",
+          "example": "The buyer wired the deposit to the seller's bank account.",
+          "translation": "買い手は売り手の銀行口座へ手付金を電信送金した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞・自動詞／他動詞〈transfer schools〉】異動する、転校・編入する、移籍する",
+      "frequency": 7,
+      "register": [
+        "一般、職場、教育、スポーツ。プロサッカーの移籍では特に英語圏のスポーツ報道でよく使う。"
+      ],
+      "definition": "人が別の職場・部署・学校・チームなどへ所属を移す。継続していた仕事・在学・競技活動の場が変わることを表す。移動を本人が希望したのか、組織が決めたのかは自動詞であることだけでは決まらない。米語では transfer schools という他動詞構文でも、本人が学校を替わることを表す。",
+      "patterns": [
+        "transfer to 〈新しい部署・学校・チーム〉＝新しい所属先へ移る",
+        "transfer from 〈旧所属〉 to 〈新所属〉＝旧所属から新所属へ移る",
+        "someone + transfer within 〈組織〉＝本人がその組織内で所属を移す",
+        "someone + transfer out of 〈組織・部署〉＝本人がその組織・部署から他へ移る",
+        "transfer schools＝本人が通う学校を替わる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "transfer to 〈新しい部署〉",
+          "use": "社内での異動先を述べる。",
+          "example": "She transferred to the marketing department last spring.",
+          "translation": "彼女は昨年の春、マーケティング部へ異動した。"
+        },
+        {
+          "pattern": "transfer from 〈旧所属〉 to 〈新所属〉",
+          "use": "転校・編入の出発校と受入校を示す。",
+          "example": "He transferred from a community college to a four-year university.",
+          "translation": "彼はコミュニティーカレッジから4年制大学へ編入した。"
+        },
+        {
+          "pattern": "transfer to 〈新しいチーム〉",
+          "use": "選手本人を主語にして移籍を表す。",
+          "example": "The goalkeeper transferred to a club in Spain during the summer.",
+          "translation": "そのゴールキーパーは夏の間にスペインのクラブへ移籍した。"
+        },
+        {
+          "pattern": "transfer within 〈組織〉",
+          "use": "同じ組織の中での所属変更を表す。",
+          "example": "Staff may apply to transfer within the company.",
+          "translation": "職員は社内異動を申請できる。"
+        },
+        {
+          "pattern": "transfer out of 〈組織・部署〉",
+          "use": "離れる側の所属先に焦点を当てる。",
+          "example": "Two analysts transferred out of the research division this year.",
+          "translation": "今年、分析担当者2人が研究部門から他へ異動した。"
+        },
+        {
+          "pattern": "transfer schools",
+          "use": "米語で、学生本人が学校を替わることを述べる。",
+          "example": "She transferred schools after her first year.",
+          "translation": "彼女は1年目を終えた後、別の学校へ移った。"
+        }
+      ],
+      "notes": [
+        "She transferred to sales. は本人を主語にした自動詞、The company transferred her to sales. は語義5の他動詞。 She transferred schools. は本人が主語の他動詞構文で、schools は移される人や学校施設ではなく、替わる所属先の種類を表す。この複数形を「複数の学校を移送した」と読まない。移動先を具体的に述べるなら She transferred to another school. とする。自動詞の She transferred to sales. を She transferred herself to sales. にする必要はない。be transferred は受動態であり、「異動する」という訳が同じでも構造は異なる。transfer は昇進・降格や本人の同意を含意しない。スポーツでも必ず金銭を伴うとは限らず、米国のプロスポーツで使う trade「トレード」と制度上いつも同じではない。転校・編入と履修済み単位の認定は別で、単位の用法は語義22・23。"
+      ],
+      "synonyms": [
+        {
+          "word": "move",
+          "definition": "別の職場・学校・チームなどへ活動の場を移す。",
+          "frequency": 9,
+          "difference": "所属変更を広く日常的に述べる語。transfer は既存の組織・制度間の移動として捉えやすい。",
+          "example": "She moved to a smaller firm after ten years in consulting.",
+          "translation": "彼女はコンサルティング業界で10年働いた後、より小さな会社へ移った。"
+        },
+        {
+          "word": "switch",
+          "definition": "選択している所属・分野などを別のものに切り替える。",
+          "frequency": 8,
+          "difference": "どちらを選ぶかの変更に重点がある。transfer のように制度的な異動を必ず想定しない。",
+          "example": "He switched from engineering to economics in his second year.",
+          "translation": "彼は2年生のときに工学から経済学へ専攻を変えた。"
+        },
+        {
+          "word": "relocate",
+          "definition": "仕事や生活の拠点を別の場所へ移す。",
+          "frequency": 7,
+          "difference": "地理的移動が中心。同じ建物内で部署だけ変わる transfer には当てはまらないことがある。",
+          "example": "We relocated to Osaka when the new office opened.",
+          "translation": "新しい事務所の開設時に、私たちは大阪へ拠点を移した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【動詞・他動詞】異動させる、転校・移籍させる",
+      "frequency": 7,
+      "register": [
+        "職場、教育、スポーツ。"
+      ],
+      "definition": "組織・管理者などが、人の職場・担当・学校・チームへの所属を別のところへ移す。直接目的語は所属を変えられる人。業務命令や本人の希望に基づく異動のどちらにも使える。",
+      "patterns": [
+        "transfer someone to 〈新しい所属先〉＝人を新しい所属先へ移す",
+        "transfer someone from 〈旧所属〉 to 〈新所属〉＝人の所属を旧所属から新所属へ変える",
+        "be transferred to 〈新しい所属先〉＝その所属先へ異動・転校・移籍させられる",
+        "transfer someone at their request＝本人の希望で異動させる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "transfer someone to 〈新しい所属先〉",
+          "use": "異動を決める側を主語にする。",
+          "example": "The company transferred her to the sales department.",
+          "translation": "会社は彼女を営業部へ異動させた。"
+        },
+        {
+          "pattern": "transfer someone from 〈旧所属〉 to 〈新所属〉",
+          "use": "人員配置の変更元と変更先を示す。",
+          "example": "Management transferred three technicians from the factory to the service center.",
+          "translation": "経営陣は技術者3人を工場からサービスセンターへ異動させた。"
+        },
+        {
+          "pattern": "be transferred to 〈新しい所属先〉",
+          "use": "本人の側から異動・移籍の決定を述べる。",
+          "example": "The defender was transferred to another club at the end of the season.",
+          "translation": "そのディフェンダーはシーズン終了時に別のクラブへ移籍した。"
+        },
+        {
+          "pattern": "transfer someone at their request",
+          "use": "異動が本人の希望によることを明示する。",
+          "example": "The agency transferred the employee to its northern office at their request.",
+          "translation": "その機関は本人の希望により、その職員を北部の事務所へ異動させた。"
+        }
+      ],
+      "notes": [
+        "transfer someone to ... の to は移動先を導く前置詞で、一般に「人に何かをさせる」という to 不定詞ではない。「彼女を新しい部署へ異動させた」は transferred her to a new department とする。語義4の She transferred to ... との違いは、別の主体が人を目的語として動かしていること。受動で訳す際も、強制・不本意だったことを根拠なく補わない。転校させる場合も同じ構文だが、受入手続きや条件を動詞だけから判断しない。語義4の transfer schools は本人が学校を替わる表現で、この語義の transfer a student to another school「学生を別の学校へ移す」とは目的語の役割が異なる。"
+      ],
+      "synonyms": [
+        {
+          "word": "reassign",
+          "definition": "人に別の担当・職務を割り当てる。",
+          "frequency": 6,
+          "difference": "担当内容の変更に重点があり、所属部署や勤務地が変わらない場合もある。",
+          "example": "The supervisor reassigned him to quality control.",
+          "translation": "上司は彼の担当を品質管理へ変更した。"
+        },
+        {
+          "word": "redeploy",
+          "definition": "人員などを必要に応じて別の部署・用途へ再配置する。",
+          "frequency": 5,
+          "difference": "組織的な資源配分の調整を意識させる、やや硬い語。",
+          "example": "The retailer redeployed staff from closed stores to nearby branches.",
+          "translation": "その小売企業は閉店した店舗の従業員を近隣の支店へ再配置した。"
+        },
+        {
+          "word": "post",
+          "definition": "職員・軍人などを特定の勤務地へ配置する。",
+          "frequency": 5,
+          "difference": "任務を与えて赴任させることが中心で、元の所属からの変更を必ずしも表さない。",
+          "example": "The ministry posted her to its embassy in Nairobi.",
+          "translation": "省は彼女をナイロビの大使館へ赴任させた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【動詞・自動詞】乗り換える",
+      "frequency": 7,
+      "register": [
+        "交通、旅行案内。特に北米の乗換案内でよく使い、英国英語では change も一般的。"
+      ],
+      "definition": "旅の途中で、ある列車・バス・航空便・路線などから別のものへ乗り継ぐ。主語は乗客。空港や駅の中を移動するだけでなく、利用する便・路線を替えることに焦点がある。",
+      "patterns": [
+        "transfer at 〈駅・空港〉＝その場所で乗り換える",
+        "transfer to 〈路線・交通機関〉＝その路線・交通機関へ乗り換える",
+        "transfer from 〈元の交通機関〉 to 〈次の交通機関〉＝元の交通機関から次のものへ乗り継ぐ",
+        "transfer at 〈空港〉 for a flight to 〈目的地〉＝その空港で目的地行きの便へ乗り継ぐ。"
+      ],
+      "collocations": [
+        {
+          "pattern": "transfer at 〈駅〉",
+          "use": "乗換駅を案内する。",
+          "example": "Transfer at Central Station to reach the museum district.",
+          "translation": "美術館地区へ行くには、セントラル駅で乗り換えてください。"
+        },
+        {
+          "pattern": "transfer to 〈路線〉",
+          "use": "次に利用する路線を示す。",
+          "example": "We transferred to the Green Line and traveled three more stops.",
+          "translation": "私たちはグリーンラインへ乗り換え、さらに3駅進んだ。"
+        },
+        {
+          "pattern": "transfer from 〈元の交通機関〉 to 〈次の交通機関〉",
+          "use": "交通機関の切替えを示す。",
+          "example": "Passengers can transfer from the ferry to a local bus at the port.",
+          "translation": "乗客は港でフェリーから路線バスへ乗り継げる。"
+        },
+        {
+          "pattern": "transfer at 〈空港〉 for a flight to 〈目的地〉",
+          "use": "航空便の乗継地点と、その後の行先を示す。",
+          "example": "We transferred at Doha for a flight to Athens.",
+          "translation": "私たちはドーハでアテネ行きの便へ乗り継いだ。"
+        }
+      ],
+      "notes": [
+        "at は乗り換える場所、to は次の交通機関・路線、for はその後に利用する便や目的地を示す。transfer to Osaka だけでは「大阪で乗り換える」にならず、場所なら transfer at Osaka とする。この語義は人が主語の自動詞。会社が乗客を別のバスへ移す transfer the passengers to another bus は語義1の他動詞。無料乗継ぎ、荷物の自動移送、同一予約、入国手続き不要などは含意しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "change",
+          "definition": "別の列車・バス・路線へ乗り換える。",
+          "frequency": 8,
+          "difference": "特に英国の案内で普通に使い、change at ... や change trains の形を取る。transfer は交通機関間の接続にも広く使う。",
+          "example": "You need to change trains at the next station.",
+          "translation": "次の駅で列車を乗り換える必要がある。"
+        },
+        {
+          "word": "connect",
+          "definition": "別の便に接続して旅を続ける。",
+          "frequency": 6,
+          "difference": "時刻・経路上の接続を意識させる。transfer は乗り換える行為を直接述べる。",
+          "example": "We connected in Frankfurt on our way to Lisbon.",
+          "translation": "私たちはリスボンへ向かう途中、フランクフルトで乗り継いだ。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【動詞・他動詞】電話を取り次ぐ",
+      "frequency": 7,
+      "register": [
+        "電話応対、顧客サービス、業務。"
+      ],
+      "definition": "受けた電話を別の担当者・部署・内線などへつなぐ。目的語には call だけでなく、電話をかけている人を表す you、the caller なども置ける。人を物理的に移動させる意味ではない。",
+      "patterns": [
+        "transfer a call to 〈担当者・部署・内線〉＝電話をその相手・回線へ転送する",
+        "transfer someone to 〈担当者・部署〉＝電話中の人をその相手へつなぐ",
+        "be transferred to 〈担当者・部署〉＝電話でその相手へ取り次がれる",
+        "transfer an incoming call＝かかってきた電話を別の接続先へ回す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "transfer a call to 〈部署〉",
+          "use": "電話を目的語にして取次ぎ先を示す。",
+          "example": "Please transfer this call to the billing department.",
+          "translation": "この電話を請求担当部署へ回してください。"
+        },
+        {
+          "pattern": "transfer someone to 〈担当者〉",
+          "use": "相手に取次ぎを申し出る。",
+          "example": "I'll transfer you to the manager who handled your order.",
+          "translation": "ご注文を担当したマネージャーにおつなぎします。"
+        },
+        {
+          "pattern": "be transferred to 〈部署〉",
+          "use": "電話をかけた側から、つながった先を述べる。",
+          "example": "I called reception and was transferred to technical support.",
+          "translation": "私は受付へ電話し、技術サポートへ取り次いでもらった。"
+        },
+        {
+          "pattern": "transfer an incoming call",
+          "use": "電話システムの操作を説明する。",
+          "example": "Press this button to transfer an incoming call.",
+          "translation": "かかってきた電話を転送するには、このボタンを押してください。"
+        }
+      ],
+      "notes": [
+        "I'll transfer you to sales. は電話中なら「営業につなぎます」、人事の話なら語義5の「営業へ異動させます」。目的語と文脈を合わせて読む。transfer a call は別の回線・相手へ接続を移すことで、電話の内容を録音・コピーする語義2とは違う。取次ぎ操作をしたことと、相手が応答したことは同一ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "put through",
+          "definition": "電話の相手を目的の人・回線へつなぐ。",
+          "frequency": 7,
+          "difference": "電話応対の会話的な表現。put someone through to ... とし、代名詞なら put you through の語順になる。",
+          "example": "Could you put me through to the reservations desk?",
+          "translation": "予約担当につないでもらえますか。"
+        },
+        {
+          "word": "connect",
+          "definition": "電話回線を相手へつなぐ。",
+          "frequency": 7,
+          "difference": "最初に接続する場合も含む。transfer はすでにつながっている電話を別の先へ回す点を意識させる。",
+          "example": "The operator connected me to the correct extension.",
+          "translation": "交換手は私を正しい内線につないだ。"
+        },
+        {
+          "word": "forward",
+          "definition": "電話やメッセージを別の宛先へ回す。",
+          "frequency": 7,
+          "difference": "着信転送の設定など、受け手が直接応対しない自動転送にもよく使う。",
+          "example": "Calls to the office are forwarded to my mobile phone after six.",
+          "translation": "6時以降、事務所への電話は私の携帯電話へ転送される。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【動詞・他動詞】権利・権限を移す、譲渡する",
+      "frequency": 7,
+      "register": [
+        "業務、政治、契約・法律上の所有権など。"
+      ],
+      "definition": "財産・権利・支配権・責任などを、別の人や組織が保有・担当するように移す。物そのものを運ぶことと、その所有権を移すことは別。売買だけでなく贈与などにも使い、対価の有無を表す動詞ではない。",
+      "patterns": [
+        "transfer ownership of something to someone＝物の所有権を人へ移す",
+        "transfer 〈property/shares〉 to someone＝財産・株式を人へ譲渡する",
+        "transfer control of something to 〈人・組織〉＝管理・支配権を別の担い手へ移す",
+        "transfer responsibility for something to someone＝その事柄の責任を別の人へ移す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "transfer ownership of something to someone",
+          "use": "物の移動と所有権の変更を区別する。",
+          "example": "The founder transferred ownership of the building to the foundation.",
+          "translation": "創設者は建物の所有権を財団へ移した。"
+        },
+        {
+          "pattern": "transfer shares to someone",
+          "use": "株式の譲渡を述べる。",
+          "example": "She transferred some of her shares to her brother as a gift.",
+          "translation": "彼女は保有株式の一部を男きょうだいに贈与した。"
+        },
+        {
+          "pattern": "transfer control of something to 〈組織〉",
+          "use": "運営・支配を担う組織の変更を述べる。",
+          "example": "The city transferred control of the venue to an independent agency.",
+          "translation": "市はその会場の管理権を独立した機関へ移した。"
+        },
+        {
+          "pattern": "transfer responsibility for something to someone",
+          "use": "誰が責任を持つかの変更を明示する。",
+          "example": "The director transferred responsibility for the project to her deputy.",
+          "translation": "部長はそのプロジェクトの責任を副責任者へ移した。"
+        }
+      ],
+      "notes": [
+        "transfer the painting to a gallery は文脈によって絵を運ぶ語義1にもなり、所有権の譲渡を明確にするなら transfer ownership of the painting と言う。所有権・使用権・管理権・責任は同じではないので、目的語を正確に選ぶ。transfer だけでは必要な書類、同意、登録、成立時点を示さず、それらは制度・契約による。ownership transfers to ... という自動詞は語義14。名詞の transfer of ownership は語義9。"
+      ],
+      "synonyms": [
+        {
+          "word": "assign",
+          "definition": "権利などを別の人・組織へ譲渡する。",
+          "frequency": 5,
+          "difference": "契約上の権利を移す文脈で使う。仕事を「割り当てる」一般義とは区別し、どの義務まで移るかは別に確認する。",
+          "example": "The author assigned the copyright to the publisher.",
+          "translation": "著者は著作権を出版社へ譲渡した。"
+        },
+        {
+          "word": "hand over",
+          "definition": "管理権や責任などを相手に引き渡す。",
+          "frequency": 8,
+          "difference": "実務上の引渡しにも使う広い表現で、法律上の権利移転だけを指すわけではない。",
+          "example": "She handed over control of the project to the new director.",
+          "translation": "彼女はそのプロジェクトの指揮を新任部長へ引き渡した。"
+        },
+        {
+          "word": "cede",
+          "definition": "権力・領土・支配権などを他者へ譲る。",
+          "frequency": 5,
+          "difference": "元の保有者が手放す側面が強く、政治・外交などの硬い文章に多い。",
+          "example": "The agreement required the government to cede some authority to regional councils.",
+          "translation": "その合意は政府に対し、権限の一部を地域評議会へ譲ることを求めた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 9,
+      "title": "【名詞・可算／不可算】移動、移転、伝達",
+      "frequency": 8,
+      "register": [
+        "一般、業務、IT、科学、法律・技術移転。"
+      ],
+      "definition": "人・物・情報・エネルギー・権利などが、別の場所・媒体・担い手へ移ること。過程を一般的に述べるときは不可算、個別の移送・転送・移転を一件として捉えるときは可算になる。何が移るかによって「移送」「転送」「伝熱」「譲渡」「技術移転」などと訳し分ける。",
+      "patterns": [
+        "the transfer of something from 〈移動元〉 to 〈移動先〉＝対象が元の側から別の側へ移ること",
+        "data transfer between 〈複数の機器〉＝機器間のデータ転送",
+        "heat transfer＝熱が移ること・伝熱",
+        "the transfer of ownership of something＝対象の所有権の移転",
+        "a transfer of power to 〈人・組織〉＝権力・権限をその担い手へ移すこと",
+        "technology transfer between 〈複数の組織〉＝組織間で技術を利用可能にする移転。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the transfer of something from 〈移動元〉 to 〈移動先〉",
+          "use": "移される対象と両端を名詞句で示す。",
+          "example": "The transfer of the exhibits from the museum to the warehouse took two days.",
+          "translation": "展示品を博物館から倉庫へ移送するのに2日かかった。"
+        },
+        {
+          "pattern": "data transfer between 〈複数の機器〉",
+          "use": "機器間の通信・転送の過程を述べる。",
+          "example": "The upgrade improved data transfer between the server and the workstations.",
+          "translation": "更新により、サーバーと各ワークステーションの間のデータ転送が改善された。"
+        },
+        {
+          "pattern": "heat transfer",
+          "use": "熱の移動を科学・設備の文脈で表す。",
+          "example": "The insulation reduces heat transfer through the wall.",
+          "translation": "その断熱材は壁を通る熱の移動を減らす。"
+        },
+        {
+          "pattern": "the transfer of ownership of something",
+          "use": "所有者の変更を、物の運搬と区別して述べる。",
+          "example": "The document records the transfer of ownership of the land.",
+          "translation": "その文書には土地の所有権の移転が記録されている。"
+        },
+        {
+          "pattern": "a transfer of power to 〈組織〉",
+          "use": "政治・組織の権限移譲を一つの出来事として述べる。",
+          "example": "The reform involved a transfer of power to local councils.",
+          "translation": "その改革には地方議会への権限移譲が含まれていた。"
+        },
+        {
+          "pattern": "technology transfer between 〈複数の組織〉",
+          "use": "他の組織でも技術を使えるようにする過程を表す。",
+          "example": "The program supports technology transfer between universities and manufacturers.",
+          "translation": "そのプログラムは大学と製造業者の間の技術移転を支援する。"
+        }
+      ],
+      "notes": [
+        "of は移る対象、from は移動元、to は移動先、between は両側・関係する複数の当事者を示す。transfer data は動詞＋目的語だが、data transfer は名詞句。data transfer is slow では一般的な過程なので冠詞を付けず、a file transfer failed では一回の転送を数える。権利の transfer は売買に限らず、technology transfer も移転元が技術を失うことを意味しない。法律上の効力や技術移転の契約形態はこの語だけでは決まらない。"
+      ],
+      "synonyms": [
+        {
+          "word": "movement",
+          "definition": "人や物などが位置を変えること。",
+          "frequency": 9,
+          "difference": "連続的な動きも含む広い語。transfer はある側から別の側への受渡し・切替えを捉える。",
+          "example": "The sensors detect movement inside the building.",
+          "translation": "そのセンサーは建物内の動きを検知する。"
+        },
+        {
+          "word": "transmission",
+          "definition": "信号・情報・熱などが伝わること、または伝えること。",
+          "frequency": 7,
+          "difference": "経路を通して伝わる過程が中心で、人員の異動や所有権の変更には通常使わない。",
+          "example": "The material allows the transmission of light.",
+          "translation": "その素材は光を通す。"
+        },
+        {
+          "word": "handover",
+          "definition": "仕事・責任・支配などを次の担当者へ引き渡すこと。",
+          "frequency": 6,
+          "difference": "担当者間の引継ぎに重点がある。transfer のように熱やデータの移動全般を表す語ではない。",
+          "example": "The outgoing manager prepared a detailed handover.",
+          "translation": "退任するマネージャーは詳しい引継ぎを準備した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 10,
+      "title": "【名詞・可算／不可算】異動、転校・編入、移籍",
+      "frequency": 7,
+      "register": [
+        "職場、教育、スポーツ。"
+      ],
+      "definition": "職場・学校・チームなどの所属を変えること。個人の一件の異動・移籍は可算、制度や過程として述べる場合は不可算にもなる。希望、申請、承認、実際の異動は別段階なので、組み合わせる動詞を区別する。",
+      "patterns": [
+        "a transfer to 〈新しい所属〉＝その所属先への異動・編入・移籍",
+        "a transfer from 〈旧所属〉 to 〈新所属〉＝旧所属から新所属への移動",
+        "request a transfer＝異動を希望・申請する",
+        "approve someone's transfer＝その人の異動を承認する",
+        "a free transfer＝主にサッカーで移籍金を伴わない移籍",
+        "a transfer fee＝選手の移籍に伴う移籍金。"
+      ],
+      "collocations": [
+        {
+          "pattern": "request a transfer",
+          "use": "本人が異動を希望する段階を示す。",
+          "example": "He requested a transfer to the branch closer to his home.",
+          "translation": "彼は自宅により近い支店への異動を希望した。"
+        },
+        {
+          "pattern": "approve someone's transfer",
+          "use": "組織が異動を承認したことを述べる。",
+          "example": "Human resources approved her transfer to the research team.",
+          "translation": "人事部は彼女の研究チームへの異動を承認した。"
+        },
+        {
+          "pattern": "a transfer from 〈旧所属〉 to 〈新所属〉",
+          "use": "所属変更を名詞句として説明する。",
+          "example": "Her transfer from the college to the university was completed in September.",
+          "translation": "彼女のそのカレッジから大学への編入は9月に完了した。"
+        },
+        {
+          "pattern": "a free transfer",
+          "use": "移籍金がない形のスポーツ移籍を述べる。",
+          "example": "The club signed the midfielder on a free transfer.",
+          "translation": "そのクラブはそのミッドフィールダーを移籍金なしで獲得した。"
+        },
+        {
+          "pattern": "a transfer fee",
+          "use": "スポーツ選手の移籍に伴う金額を示す。",
+          "example": "The two clubs agreed on a transfer fee for the striker.",
+          "translation": "両クラブはそのストライカーの移籍金について合意した。"
+        }
+      ],
+      "notes": [
+        "request a transfer は申請であり、異動が実現したとは限らない。a transfer student は「編入生」という人の呼び名で、単独の a transfer が人を指す場合は語義18。サッカーの free transfer は移籍金がないことを表し、給与やその他の費用までゼロとは限らない。transfer window は移籍を登録できる期間、transfer list は移籍対象選手のリストを指すが、期間や手続きは競技・制度による。"
+      ],
+      "synonyms": [
+        {
+          "word": "reassignment",
+          "definition": "職務・担当を別のものへ割り当て直すこと。",
+          "frequency": 5,
+          "difference": "業務内容の変更が中心で、勤務地・所属が変わる transfer と範囲が一致しない。",
+          "example": "His reassignment gave him responsibility for customer training.",
+          "translation": "担当変更により、彼は顧客研修に責任を持つことになった。"
+        },
+        {
+          "word": "relocation",
+          "definition": "活動・居住の拠点を移すこと。",
+          "frequency": 6,
+          "difference": "地理的な移転に焦点がある。転部など場所が変わらない所属変更には使わないことがある。",
+          "example": "The firm offered relocation assistance to employees moving abroad.",
+          "translation": "会社は海外へ移る従業員に転居支援を提供した。"
+        },
+        {
+          "word": "move",
+          "definition": "別の仕事・組織・チームなどへ移ること。",
+          "frequency": 8,
+          "difference": "制度的な手続きよりも広く、日常的に所属変更を表せる。",
+          "example": "Her move to a rival company surprised the team.",
+          "translation": "彼女が競合他社へ移ったことはチームを驚かせた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 11,
+      "title": "【名詞・可算／不可算】送金、振替",
+      "frequency": 7,
+      "register": [
+        "銀行、経理、支払案内。"
+      ],
+      "definition": "資金を別の口座・受取先へ移す取引、またはその方法・過程。一回の取引は a transfer、支払方法を表す by bank transfer などでは通常、不可算として使う。",
+      "patterns": [
+        "make a transfer to 〈口座〉＝口座への送金を行う",
+        "pay by bank transfer＝銀行振込で支払う",
+        "a transfer of 〈金額〉＝その金額の送金",
+        "a transfer between 〈複数の口座〉＝口座間の振替",
+        "an international transfer＝国際送金。"
+      ],
+      "collocations": [
+        {
+          "pattern": "make a transfer to 〈口座〉",
+          "use": "一件の送金を行うことを表す。",
+          "example": "I made a transfer to the supplier's account this morning.",
+          "translation": "私は今朝、仕入先の口座へ送金した。"
+        },
+        {
+          "pattern": "pay by bank transfer",
+          "use": "支払方法を指定する。",
+          "example": "Customers may pay by bank transfer or credit card.",
+          "translation": "顧客は銀行振込またはクレジットカードで支払える。"
+        },
+        {
+          "pattern": "a transfer of 〈金額〉",
+          "use": "個別取引の送金額を示す。",
+          "example": "The statement shows a transfer of two hundred dollars.",
+          "translation": "その明細には200ドルの送金が記載されている。"
+        },
+        {
+          "pattern": "an international transfer",
+          "use": "国をまたぐ送金を表す。",
+          "example": "She checked the fee before making an international transfer.",
+          "translation": "彼女は国際送金を行う前に手数料を確認した。"
+        }
+      ],
+      "notes": [
+        "transfer of money の of は移す対象、transfer to an account の to は受取先。a bank transfer は一件、by bank transfer は方法という違いがある。bank transfer と wire transfer は重なるが、決済制度によって範囲が異なるため同一の方法と決めつけない。送金手数料・処理時間・取消可否は別情報。"
+      ],
+      "synonyms": [
+        {
+          "word": "remittance",
+          "definition": "送られる金銭、または金銭を送ること。",
+          "frequency": 5,
+          "difference": "硬い語で、請求額の送付や海外からの家族送金などに使う。transfer は自分の口座間の移動にも広い。",
+          "example": "The family depends partly on remittances from relatives overseas.",
+          "translation": "その家族は生計の一部を海外の親族からの送金に頼っている。"
+        },
+        {
+          "word": "payment",
+          "definition": "代金・債務などを支払うこと、または支払額。",
+          "frequency": 9,
+          "difference": "支払という目的を示す。transfer は目的を限定せず、手段・資金の移動を表す。",
+          "example": "We received your payment for the annual subscription.",
+          "translation": "年間購読料のお支払いを受領しました。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 12,
+      "title": "【名詞・可算／不可算】乗換え、乗継ぎ",
+      "frequency": 7,
+      "register": [
+        "交通、旅行案内。"
+      ],
+      "definition": "旅の途中で別の交通機関・路線・便へ移る行為。一回ごとに数えることが多く、two transfers は2回の乗換え。乗り継いだ後に利用する便そのものや、待っている時間だけを指すとは限らない。",
+      "patterns": [
+        "make a transfer at 〈駅〉＝その駅で乗り換える",
+        "a transfer from 〈元の交通機関〉 to 〈次の交通機関〉＝元の交通機関から次のものへの乗換え",
+        "require 〈回数〉 transfers＝その回数の乗換えを必要とする",
+        "without a transfer＝乗換えをせずに。"
+      ],
+      "collocations": [
+        {
+          "pattern": "make a transfer at 〈駅〉",
+          "use": "乗換えを一つの行為として述べる。",
+          "example": "We made a transfer at the main station and arrived before noon.",
+          "translation": "私たちは中央駅で乗り換え、正午前に到着した。"
+        },
+        {
+          "pattern": "a transfer from 〈元の交通機関〉 to 〈次の交通機関〉",
+          "use": "どの乗換えかを特定する。",
+          "example": "The transfer from the bus to the subway took less than five minutes.",
+          "translation": "バスから地下鉄への乗換えには5分もかからなかった。"
+        },
+        {
+          "pattern": "require 〈回数〉 transfers",
+          "use": "経路の乗換回数を示す。",
+          "example": "This route requires two transfers.",
+          "translation": "この経路では2回の乗換えが必要だ。"
+        },
+        {
+          "pattern": "without a transfer",
+          "use": "途中で交通機関を替えなくてよいと伝える。",
+          "example": "You can reach the airport without a transfer.",
+          "translation": "乗り換えずに空港へ行ける。"
+        }
+      ],
+      "notes": [
+        "a transfer は乗換えの行為、a connection は接続便や乗り継ぐ機会も表す。空港での layover は便と便の間の滞在時間であり、transfer と同じものではない。without a transfer は乗換えなしを表すが、途中停車なしを表す nonstop と一致しない。ホテル案内の airport transfer は語義13、車内で受け取る a transfer は語義20の乗換券という可能性がある。"
+      ],
+      "synonyms": [
+        {
+          "word": "change",
+          "definition": "旅の途中で別の列車・バスなどに乗り換えること。",
+          "frequency": 7,
+          "difference": "特に英国で普通に使う。交通以外の「変更」も広く表すので文脈が必要。",
+          "example": "The journey involves one change at Oxford.",
+          "translation": "その旅程ではオックスフォードで1回乗り換える。"
+        },
+        {
+          "word": "connection",
+          "definition": "旅程上、別の便へ乗り継ぐ機会や接続。",
+          "frequency": 7,
+          "difference": "次の便や時刻上の接続に重点がある。transfer は交通機関を替える行為を指す。",
+          "example": "The late arrival left us only ten minutes to make our connection.",
+          "translation": "到着が遅れ、私たちには乗り継ぎに間に合うまで10分しかなかった。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 13,
+      "title": "【名詞・可算】送迎、接続区間の移動",
+      "frequency": 6,
+      "register": [
+        "旅行商品、ホテル、観光。"
+      ],
+      "definition": "旅行者を空港・港・駅・ホテルなどの間で運ぶ手配済みの移動、またはそのサービス。交通機関の乗換えだけでなく、到着地から宿泊先までの車での送迎などを指す。複数の行程や往復分を transfers と呼ぶこともある。",
+      "patterns": [
+        "an airport transfer＝空港と滞在先などの間の送迎",
+        "a transfer from 〈出発地点〉 to 〈到着地点〉＝その2地点間の送迎・移動",
+        "arrange a transfer＝送迎を手配する",
+        "transfers are included＝旅程の送迎が料金・商品に含まれる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an airport transfer",
+          "use": "空港送迎サービスを示す。",
+          "example": "We booked a private airport transfer for our arrival.",
+          "translation": "私たちは到着時のために専用車による空港送迎を予約した。"
+        },
+        {
+          "pattern": "a transfer from 〈出発地点〉 to 〈到着地点〉",
+          "use": "送迎区間を明示する。",
+          "example": "The transfer from the port to the hotel takes about forty minutes.",
+          "translation": "港からホテルへの送迎には約40分かかる。"
+        },
+        {
+          "pattern": "arrange a transfer",
+          "use": "旅行者の移動手段を手配する。",
+          "example": "Reception can arrange a transfer to the railway station.",
+          "translation": "フロントで鉄道駅までの送迎を手配できる。"
+        },
+        {
+          "pattern": "transfers are included",
+          "use": "旅行代金に含まれる送迎を案内する。",
+          "example": "Return transfers between the airport and the resort are included in the package.",
+          "translation": "空港とリゾート施設の間の往復送迎がその旅行商品に含まれている。"
+        }
+      ],
+      "notes": [
+        "airport transfer は乗継便への乗換えとは限らず、宿泊施設との地上交通を指すことが多い。transfer だけでは専用車、乗合、片道、往復、無料の別は決まらない。return transfers は往復送迎、private transfer は専用送迎という修飾が意味を補う。車両そのものより、移動サービス・一行程を数える名詞。"
+      ],
+      "synonyms": [
+        {
+          "word": "shuttle",
+          "definition": "特定の地点間を繰り返し運行する送迎便。",
+          "frequency": 7,
+          "difference": "往復・反復運行に重点がある。一回だけ手配する専用車の transfer もあるので同義ではない。",
+          "example": "A hotel shuttle runs to the terminal every half hour.",
+          "translation": "ホテルの送迎便が30分ごとにターミナルへ運行している。"
+        },
+        {
+          "word": "transportation",
+          "definition": "人や物を運ぶこと、またはその交通手段。",
+          "frequency": 8,
+          "difference": "送迎区間に限らない広い不可算名詞。transfer は旅行中の特定の接続区間を表しやすい。",
+          "example": "The organizer will provide transportation to the venue.",
+          "translation": "主催者は会場までの交通手段を用意する。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 14,
+      "title": "【動詞・自動詞】移る、移行する、伝わる",
+      "frequency": 6,
+      "register": [
+        "一般、IT、科学、業務、作品の批評。"
+      ],
+      "definition": "人・物・情報・熱・権利などが、別の場所・媒体・担い手へ移る。移る対象自身が主語になり、他に直接目的語を取らない。物理的な移動から、ファイルの転送、作品の別媒体への展開、権利の移転まで使う。",
+      "patterns": [
+        "someone + transfer from 〈移動元〉 to 〈移動先〉＝本人が別の位置へ移る",
+        "something + transfer from 〈移動元〉 to 〈移動先〉＝対象が別の場所へ移る・伝わる",
+        "〈files/data〉 + transfer successfully＝ファイル・データが正常に転送される",
+        "〈a play/a novel〉 + transfer to 〈新しい媒体〉＝作品が別の表現媒体へ移る",
+        "〈ownership/control〉 + transfer to 〈新しい保有者〉＝所有権・管理権が新しい担い手へ移る。"
+      ],
+      "collocations": [
+        {
+          "pattern": "transfer from 〈移動元〉 to 〈移動先〉",
+          "use": "人が自分の身体を別の位置へ移すことを表す。",
+          "example": "He can transfer from his wheelchair to the bed without assistance.",
+          "translation": "彼は介助なしで車椅子からベッドへ移れる。"
+        },
+        {
+          "pattern": "heat + transfer from 〈移動元〉 to 〈移動先〉",
+          "use": "熱自体を主語にして移動を述べる。",
+          "example": "Heat transfers from the hot pan to the food.",
+          "translation": "熱が熱い鍋から食材へ伝わる。"
+        },
+        {
+          "pattern": "files + transfer successfully",
+          "use": "ファイル転送が完了したことを述べる。",
+          "example": "All the files transferred successfully to the backup drive.",
+          "translation": "すべてのファイルがバックアップ用ドライブへ正常に転送された。"
+        },
+        {
+          "pattern": "a play + transfer to 〈新しい媒体〉",
+          "use": "舞台作品が別の表現媒体へ展開されることを述べる。",
+          "example": "The play transferred well to television without losing its humor.",
+          "translation": "その舞台作品はユーモアを失わず、うまくテレビ作品へ移し替えられた。"
+        },
+        {
+          "pattern": "ownership + transfer to 〈新しい保有者〉",
+          "use": "所有権を主語にして、保有者の変更を表す。",
+          "example": "Ownership of the collection transferred to the museum last year.",
+          "translation": "そのコレクションの所有権は昨年、博物館へ移った。"
+        }
+      ],
+      "notes": [
+        "They transferred the files. は語義2の他動詞、The files transferred. はこの語義の自動詞、The files were transferred. は受動態。意味が近くても主語の役割と構造が違う。自動詞の transfer は、特に移動先・移動元や well、successfully などを伴いやすい。作品が transfer well なら媒体を替えても効果が保たれるという評価で、ファイルが正しくコピーできたという意味ではない。権利を主語にしても、法的成立要件を省略してよいという意味にはならない。"
+      ],
+      "synonyms": [
+        {
+          "word": "move",
+          "definition": "人や物が別の位置・場所へ移る。",
+          "frequency": 10,
+          "difference": "位置変化を広く表す。transfer は区切られた場所・媒体・担い手の間の移動を捉えやすい。",
+          "example": "The studio moved to a larger building.",
+          "translation": "そのスタジオはより大きな建物へ移った。"
+        },
+        {
+          "word": "pass",
+          "definition": "物・権利などが別の人や場所へ移る。",
+          "frequency": 7,
+          "difference": "次の受け手へ渡ることを表す。transfer は媒体間のデータ移動などにも広く使う。",
+          "example": "Control of the business passed to the next generation.",
+          "translation": "事業の経営権は次の世代へ移った。"
+        },
+        {
+          "word": "flow",
+          "definition": "液体・熱・情報などが流れる。",
+          "frequency": 8,
+          "difference": "連続した流れを意識させる。transfer は移動の成立を述べ、連続性は必須でない。",
+          "example": "Warm air flows through the ducts.",
+          "translation": "暖かい空気がダクトを通って流れる。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 15,
+      "title": "【動詞・他動詞】技能・知識を別の場面に応用する",
+      "frequency": 6,
+      "register": [
+        "仕事、教育、技能開発。"
+      ],
+      "definition": "ある仕事・学習・活動で身に付けた技能・知識・方法を、別の場面へ持ち込んで使う。知識の持ち主が別の人へ変わることではなく、同じ人などが別の用途でも活用することに焦点がある。",
+      "patterns": [
+        "transfer one's skills to 〈新しい仕事・場面〉＝技能を新しい場面に応用する",
+        "transfer knowledge from 〈元の分野〉 to 〈別の分野〉＝知識を別の分野へ応用する",
+        "transfer what one has learned to 〈実践場面〉＝学んだことを実践場面へ応用する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "transfer one's skills to 〈新しい仕事〉",
+          "use": "以前に得た技能を新しい職務で使う。",
+          "example": "She transferred her negotiation skills to her new role in procurement.",
+          "translation": "彼女は交渉の技能を、新しい調達担当の仕事に応用した。"
+        },
+        {
+          "pattern": "transfer knowledge from 〈元の分野〉 to 〈別の分野〉",
+          "use": "知識の出発分野と応用先を示す。",
+          "example": "The team transferred knowledge from aircraft design to wind-turbine development.",
+          "translation": "そのチームは航空機設計の知識を風力タービンの開発へ応用した。"
+        },
+        {
+          "pattern": "transfer what one has learned to 〈実践場面〉",
+          "use": "学習内容を実際の仕事へ結び付ける。",
+          "example": "The exercises help trainees transfer what they have learned to the workplace.",
+          "translation": "その演習は、研修生が学んだことを職場で応用するのに役立つ。"
+        }
+      ],
+      "notes": [
+        "人などが主語、応用する技能・知識が目的語。Her skills transfer well to teaching. は技能自体が主語の自動詞で語義16。transfer knowledge to colleagues は「同僚へ知識を伝える」という相手の変更にも読めるので、応用義なら new tasks、another field などの使用場面を明示する。単に同じことを繰り返すのでなく、習得時と使用時の場面が変わる点が重要。"
+      ],
+      "synonyms": [
+        {
+          "word": "apply",
+          "definition": "知識・技能・方法を具体的な問題に用いる。",
+          "frequency": 8,
+          "difference": "利用することが中心で、習得した場面から別の場面へ移す比較を必ずしも含まない。",
+          "example": "Apply the same method to the remaining problems.",
+          "translation": "残りの問題にも同じ方法を使ってください。"
+        },
+        {
+          "word": "adapt",
+          "definition": "方法や知識を新しい用途に合うよう調整する。",
+          "frequency": 7,
+          "difference": "変更・調整することを明示する。transfer はそのまま応用できる場合にも使う。",
+          "example": "We adapted the training materials for online classes.",
+          "translation": "私たちは研修教材をオンライン授業向けに調整した。"
+        },
+        {
+          "word": "carry over",
+          "definition": "以前の経験・やり方などを次の場面へ引き継いで使う。",
+          "frequency": 6,
+          "difference": "継続して持ち越すことを強調する。transfer は場面間の応用関係をより明確に示す。",
+          "example": "She carried over several useful routines from her previous job.",
+          "translation": "彼女は前職から役立つ習慣をいくつか引き継いで使っていた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 16,
+      "title": "【動詞・自動詞】別の場面でも通用する",
+      "frequency": 5,
+      "register": [
+        "仕事、教育、技能評価。"
+      ],
+      "definition": "技能・知識・方法などが、習得・使用されていた場面とは別の場面でも使える、または同じような効果を持つ。人ではなく技能などが主語となり、well、easily、否定などで応用のしやすさを述べることが多い。",
+      "patterns": [
+        "〈skills/knowledge〉 + transfer to 〈新しい場面〉＝技能・知識がその場面にも応用できる",
+        "something + transfer well from 〈元の場面〉 to 〈新しい場面〉＝方法などが別の場面へうまく応用できる",
+        "something + does not transfer automatically＝方法などが自動的に別の場面でも通用するわけではない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "skills + transfer to 〈新しい場面〉",
+          "use": "技能自体の応用範囲を述べる。",
+          "example": "Her interviewing skills transfer well to customer research.",
+          "translation": "彼女の聞き取りの技能は、顧客調査でも十分に生かせる。"
+        },
+        {
+          "pattern": "something + transfer well from 〈元の場面〉 to 〈新しい場面〉",
+          "use": "条件が変わっても方法が有効かを示す。",
+          "example": "This teaching method transfers well from small classes to larger groups.",
+          "translation": "この教授法は少人数授業からより大きな集団にも、うまく応用できる。"
+        },
+        {
+          "pattern": "something + does not transfer automatically",
+          "use": "以前の成功が別の場面で保証されないと述べる。",
+          "example": "Expertise in one industry does not transfer automatically to another.",
+          "translation": "ある業界での専門知識が、別の業界でも自動的に通用するわけではない。"
+        }
+      ],
+      "notes": [
+        "She transfers her skills to a new role. は本人が技能を応用する語義15。Her skills transfer to a new role. は技能が別の職務でも通用するこの語義。後者を受動とする必要はない。transfer well は「うまく応用できる」で、電子データが正確に転送されたという語義14とは主語・文脈が異なる。"
+      ],
+      "synonyms": [
+        {
+          "word": "carry over",
+          "definition": "特徴や効果が別の場面へ持ち越される。",
+          "frequency": 6,
+          "difference": "良い技能だけでなく習慣や問題が残る場合にも使う。transfer は応用可能性の評価に使いやすい。",
+          "example": "The confidence she gained at work carried over into her studies.",
+          "translation": "仕事で得た自信は、彼女の学業にも生かされた。"
+        },
+        {
+          "word": "apply",
+          "definition": "原則・方法などがある場面にも当てはまる。",
+          "frequency": 8,
+          "difference": "適用範囲を示し、別の場面から移ってきた経緯までは表さない。",
+          "example": "The same principle applies to remote teams.",
+          "translation": "同じ原則が遠隔で働くチームにも当てはまる。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 17,
+      "title": "【動詞・他動詞】感情・関心の対象を移す",
+      "frequency": 4,
+      "register": [
+        "一般の文章、人物描写、やや硬い説明。"
+      ],
+      "definition": "愛情・忠誠心・関心などを、それまで向けていた人や組織から別の対象へ向け直す。相手に同じ感情を感染させるという意味ではなく、気持ちの向かう先を変更する。",
+      "patterns": [
+        "transfer one's affections from someone to someone＝愛情の対象を一人から別の人へ移す",
+        "transfer one's loyalty to 〈人・組織〉＝忠誠を向ける先をその相手へ変える",
+        "transfer one's attention from something to something＝注意を向ける対象を変える。"
+      ],
+      "collocations": [
+        {
+          "pattern": "transfer one's affections from someone to someone",
+          "use": "恋愛感情などの向かう相手が変わることを描く。",
+          "example": "In the novel, the count transfers his affections from the singer to her rival.",
+          "translation": "その小説では、伯爵は歌手からそのライバルへ愛情の対象を移す。"
+        },
+        {
+          "pattern": "transfer one's loyalty to 〈組織〉",
+          "use": "支持・忠誠の対象を変える。",
+          "example": "After the dispute, several members transferred their loyalty to the new party.",
+          "translation": "その争いの後、何人かの党員は新党へ支持を移した。"
+        },
+        {
+          "pattern": "transfer one's attention from something to something",
+          "use": "注意を別の対象へ向け直す。",
+          "example": "The interviewer transferred her attention from the notes to the applicant.",
+          "translation": "面接官はメモから応募者へ注意を向け直した。"
+        }
+      ],
+      "notes": [
+        "所有格は感情を持つ人を示し、to の後は感情が向かう相手。transfer her affection to him は「彼への愛情に切り替える」であり、「彼に愛情という能力を与える」とは異なる。忠誠の変更は裏切りと評価される文脈もあるが、否定的評価そのものが必須の意味ではない。心理療法の transference は関連する専門語だが、すべてのこの用法を治療上の「転移」と訳さない。"
+      ],
+      "synonyms": [
+        {
+          "word": "shift",
+          "definition": "注意・関心・支持などの向かう先を変える。",
+          "frequency": 8,
+          "difference": "段階的な変化にも使う広い語。transfer は元の対象から別の対象への付替えを目立たせる。",
+          "example": "The campaign shifted its focus to younger voters.",
+          "translation": "その選挙運動は重点を若い有権者へ移した。"
+        },
+        {
+          "word": "redirect",
+          "definition": "注意・感情などの方向を別の対象へ向け直す。",
+          "frequency": 6,
+          "difference": "意図的に方向を修正することを強調する。transfer は自然に気持ちが移る場合にも使える。",
+          "example": "She redirected her energy toward a new project.",
+          "translation": "彼女は自分のエネルギーを新しいプロジェクトへ向け直した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 18,
+      "title": "【名詞・可算】編入者、転入者",
+      "frequency": 4,
+      "register": [
+        "主に米語、教育、人事、大学スポーツ。"
+      ],
+      "definition": "別の学校・部署・部隊・チームなどから移ってきた人。特に米国の教育・大学スポーツでは、以前の学校から編入した学生・選手を a transfer と呼ぶ。",
+      "patterns": [
+        "a transfer from 〈前の学校・組織〉＝その学校・組織からの編入者・転入者",
+        "be a transfer＝編入・転入してきた人である",
+        "incoming transfers＝これから受け入れる編入者・転入者。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a transfer from 〈前の学校〉",
+          "use": "人の以前の所属を示す。",
+          "example": "Our new goalkeeper is a transfer from a university in Texas.",
+          "translation": "私たちの新しいゴールキーパーは、テキサス州の大学からの編入生だ。"
+        },
+        {
+          "pattern": "be a transfer",
+          "use": "新入生の中で、他校から移った人だと示す。",
+          "example": "I'm a transfer, so this is my first semester here but my third year of college.",
+          "translation": "私は編入生なので、ここでは最初の学期ですが、大学では3年目です。"
+        },
+        {
+          "pattern": "incoming transfers",
+          "use": "編入者の集団を案内する。",
+          "example": "The college held an orientation for incoming transfers.",
+          "translation": "そのカレッジは新たに入る編入生向けの説明会を開いた。"
+        }
+      ],
+      "notes": [
+        "a transfer が「移籍・編入という出来事」か「その人」かは述語・文脈で見分ける。The transfer was approved. は普通は語義10の出来事、The transfer scored twice. は人を指す。人であることを明確にしたい場合は a transfer student や a transferred employee などとする。freshman、new recruit とは入学年次・採用経路が必ずしも一致しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "transferee",
+          "definition": "別の職場や所属先へ移される人。",
+          "frequency": 3,
+          "difference": "人事などの硬い呼び名。法律では「譲受人」の意味にもなるため、人の異動という文脈を明示する。",
+          "example": "The company provides temporary housing for overseas transferees.",
+          "translation": "その会社は海外への転勤者に一時的な住居を提供する。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 19,
+      "title": "【名詞・可算】転写図柄、転写シート",
+      "frequency": 4,
+      "register": [
+        "特に英国用法、手芸、印刷、模型。北米では decal も一般的。"
+      ],
+      "definition": "台紙などから別の表面へ写して使う模様・絵・文字、またはその図柄を載せた転写用のシート。熱・圧力・水などを用いる方式があり、衣類や模型の装飾などに使う。",
+      "patterns": [
+        "an iron-on transfer＝アイロンで貼り付ける転写図柄・シート",
+        "apply a transfer to 〈表面〉＝転写図柄をその表面へ付ける",
+        "a sheet of transfers＝複数の転写図柄を載せたシート。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an iron-on transfer",
+          "use": "布へ熱で付ける図柄を示す。",
+          "example": "She decorated the bag with an iron-on transfer of a bird.",
+          "translation": "彼女は鳥のアイロン転写図柄でバッグを飾った。"
+        },
+        {
+          "pattern": "apply a transfer to 〈表面〉",
+          "use": "模型や物品へ図柄を付ける作業を述べる。",
+          "example": "Apply the transfer to the model after the paint has dried.",
+          "translation": "塗料が乾いてから模型に転写図柄を付けてください。"
+        },
+        {
+          "pattern": "a sheet of transfers",
+          "use": "図柄が複数載った素材を数える。",
+          "example": "The kit includes a sheet of transfers with letters and numbers.",
+          "translation": "そのキットには文字と数字の転写シートが1枚入っている。"
+        }
+      ],
+      "notes": [
+        "動詞の transfer the design onto the fabric は語義2の転写する行為、a transfer は貼り付ける図柄・素材を指す。普通の粘着シール全般を必ず transfer と呼ぶわけではない。素材によって転写方法が違うため、transfer という名前だけで加熱できると判断しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "decal",
+          "definition": "別の表面に貼り付けたり転写したりする装飾図柄。",
+          "frequency": 5,
+          "difference": "北米でよく使い、transfer と大きく重なる。製品によって粘着式なども含む。",
+          "example": "The model came with decals for three different airlines.",
+          "translation": "その模型には3社の航空会社に対応したデカールが付いていた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 20,
+      "title": "【名詞・可算】乗換券",
+      "frequency": 3,
+      "register": [
+        "主に北米、公共交通。"
+      ],
+      "definition": "すでに乗っていたバスや列車から別の便・路線へ乗り継ぐための券。最初の運賃に基づく乗継ぎ資格を示すもので、紙の券などがある。利用できる範囲や追加料金の有無は交通事業者の制度による。",
+      "patterns": [
+        "ask for a transfer＝乗換券を求める",
+        "show a transfer＝乗換券を提示する",
+        "a paper transfer＝紙の乗換券。"
+      ],
+      "collocations": [
+        {
+          "pattern": "ask for a transfer",
+          "use": "次の路線へ乗り継ぐための券を受け取る。",
+          "example": "I asked the bus driver for a transfer to use on the next bus.",
+          "translation": "私は次のバスで使う乗換券を運転手に求めた。"
+        },
+        {
+          "pattern": "show a transfer",
+          "use": "乗継ぎ資格を券で示す。",
+          "example": "She showed her transfer when she boarded the connecting bus.",
+          "translation": "彼女は接続するバスに乗ったとき、乗換券を見せた。"
+        },
+        {
+          "pattern": "a paper transfer",
+          "use": "紙の券であることを明示する。",
+          "example": "Keep your paper transfer until the end of your journey.",
+          "translation": "旅程が終わるまで紙の乗換券を持っていてください。"
+        }
+      ],
+      "notes": [
+        "ask for a transfer は交通なら券、人事なら語義10の異動希望にもなる。乗換券は「どの路線でも無制限に乗れる定期券」ではない。有効時間、途中下車、戻り方向への利用、追加運賃の扱いを語の意味だけで決めない。電子運賃制度では transfer が紙の券ではなく乗継ぎ資格・扱いを指すこともある。"
+      ],
+      "synonyms": [
+        {
+          "word": "ticket",
+          "definition": "乗車する権利を示す切符・券。",
+          "frequency": 9,
+          "difference": "上位概念であり、乗換え用とは限らない。transfer は前の乗車に続く利用を認める券に限定される。",
+          "example": "I bought a ticket for the express bus.",
+          "translation": "私は急行バスの切符を買った。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 21,
+      "title": "【名詞・不可算】学習の転移",
+      "frequency": 4,
+      "register": [
+        "教育、心理学、第二言語習得。"
+      ],
+      "definition": "ある場面での学習・経験が、別の場面での学習や遂行に影響すること。新しい課題を助ける正の転移だけでなく、以前の知識・習慣が妨げになる負の転移もある。個人が技能を意図的に応用する行為だけに限らない。",
+      "patterns": [
+        "transfer of learning＝学習の転移",
+        "positive transfer＝以前の学習が新しい学習・遂行を助ける転移",
+        "negative transfer＝以前の学習が新しい学習・遂行を妨げる転移",
+        "language transfer＝既知の言語の特徴が別の言語の学習・使用へ及ぼす影響。"
+      ],
+      "collocations": [
+        {
+          "pattern": "transfer of learning",
+          "use": "学習場面を越えた影響を一般的に述べる。",
+          "example": "The study examined transfer of learning from classroom exercises to practical tasks.",
+          "translation": "その研究は、教室での演習から実務的な課題への学習の転移を調べた。"
+        },
+        {
+          "pattern": "positive transfer",
+          "use": "以前の学習が助けになる場合を表す。",
+          "example": "Similar grammatical patterns can produce positive transfer between languages.",
+          "translation": "似た文法パターンは、言語間で正の転移を生むことがある。"
+        },
+        {
+          "pattern": "negative transfer",
+          "use": "以前の学習が誤りにつながる場合を表す。",
+          "example": "The old keyboard layout caused negative transfer when users learned the new one.",
+          "translation": "利用者が新しいキーボード配列を覚える際、以前の配列が負の転移を引き起こした。"
+        },
+        {
+          "pattern": "language transfer",
+          "use": "言語間の知識・習慣の持込みを表す。",
+          "example": "The teacher explained how language transfer can both help and hinder learners.",
+          "translation": "教師は、言語転移が学習者を助けることも妨げることもあると説明した。"
+        }
+      ],
+      "notes": [
+        "不可算が基本。positive と negative は学習への促進・阻害の方向を示し、人柄への評価ではない。language transfer をすべて「母語の悪影響」とすると、促進的な転移を落としてしまう。学校を移る語義10や、履修単位を移す語義22・23とは別。心理療法での感情の転移には transference という専門語が使われる。"
+      ],
+      "synonyms": [
+        {
+          "word": "generalization",
+          "definition": "学んだ反応や方法を、学習時以外の刺激・場面にも広げること。",
+          "frequency": 4,
+          "difference": "適用範囲が広がる点に重点がある。transfer は別の課題への促進・阻害の影響として扱うこともあり、完全には一致しない。",
+          "example": "The researchers tested generalization of the trained response to new situations.",
+          "translation": "研究者たちは、訓練された反応が新しい状況へ般化するかを調べた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 22,
+      "title": "【動詞・他動詞】履修済み単位を移行する",
+      "frequency": 4,
+      "register": [
+        "主に北米の教育、大学の履修・編入案内。"
+      ],
+      "definition": "別の学校・課程などで修得した単位を、受入先での単位として扱えるよう移す。目的語は credits。学生が単位を移す行為について述べる表現で、申請した全単位が自動的に認定されることを意味しない。",
+      "patterns": [
+        "transfer credits from 〈前の学校〉 to 〈受入先〉＝前の学校の単位を受入先へ移す",
+        "transfer 〈数〉 credits＝その数の単位を移行する",
+        "be able to transfer credits＝履修済み単位を移行できる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "transfer credits from 〈前の学校〉 to 〈受入先〉",
+          "use": "単位の修得先と移行先を示す。",
+          "example": "She transferred credits from her previous college to the new university.",
+          "translation": "彼女は前に通っていたカレッジの単位を、新しい大学へ移行した。"
+        },
+        {
+          "pattern": "transfer 〈数〉 credits",
+          "use": "移行する単位数を述べる。",
+          "example": "I was able to transfer twelve credits toward the new degree.",
+          "translation": "私は新しい学位の取得に向けて12単位を移行できた。"
+        }
+      ],
+      "notes": [
+        "学生本人が transfer to a university と言う語義4と、transfer credits to a university と言うこの語義は区別する。transfer credits を「単位を送信する」とだけ訳すと認定の側面が落ちる。個別科目の対応、成績要件、上限などは受入校の判断・制度による。単位を主語にする場合は語義23。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 23,
+      "title": "【動詞・自動詞】単位が移行・認定される",
+      "frequency": 4,
+      "register": [
+        "主に北米の教育、履修相談。"
+      ],
+      "definition": "すでに修得した単位が別の学校・課程で受け入れられ、そこでの履修に算入できる。主語は credits や特定の単位。人が学校を移るのではなく、単位が新しい認定先で使えることを表す。",
+      "patterns": [
+        "credits + transfer to 〈受入先〉＝単位が受入先で認定される",
+        "credits + do not transfer＝単位が移行・認定されない",
+        "credits + transfer as 〈認定上の区分〉＝その区分の単位として認定される。"
+      ],
+      "collocations": [
+        {
+          "pattern": "credits + transfer to 〈受入先〉",
+          "use": "他校での認定可能性を尋ねる。",
+          "example": "Will these credits transfer to the university I plan to attend?",
+          "translation": "これらの単位は、私が進学を予定している大学で認定されますか。"
+        },
+        {
+          "pattern": "credits + do not transfer",
+          "use": "単位の持込みが認められない場合を示す。",
+          "example": "Some of my credits did not transfer, so I had to take additional courses.",
+          "translation": "私の単位の一部は認定されなかったので、追加の科目を履修しなければならなかった。"
+        },
+        {
+          "pattern": "credits + transfer as 〈認定上の区分〉",
+          "use": "どの区分に算入されるかを述べる。",
+          "example": "Those credits transferred as electives rather than as a substitute for the required course.",
+          "translation": "それらの単位は必修科目の代わりではなく、選択科目の単位として認定された。"
+        }
+      ],
+      "notes": [
+        "I transferred the credits. は語義22の他動詞、The credits transferred. はこの語義の自動詞。will transfer は認定の見込み・可否を述べ、データ送信の予定ではない。認定された単位が専攻の必修要件まで満たすかは別問題で、transfer as electives のように区分を明示できる。"
+      ],
+      "synonyms": [
+        {
+          "word": "count",
+          "definition": "単位や履修内容が要件の一部として算入される。",
+          "frequency": 5,
+          "difference": "要件を満たすために数えられることが中心。transfer は以前の認定先から新しい認定先へ移る点を表し、移行後にどの要件へ算入されるかは別に確認する。",
+          "example": "These credits count toward the degree's elective requirement.",
+          "translation": "これらの単位は、その学位の選択科目要件に算入される。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

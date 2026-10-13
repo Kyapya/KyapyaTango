@@ -1,0 +1,410 @@
+{
+  "word": "delay",
+  "slug": "delay",
+  "ipa": "米・英: /dɪˈleɪ/。2音節で第2音節に主強勢がある。名詞と動詞で発音は変わらない。delayed は /dɪˈleɪd/、delays は /dɪˈleɪz/ で、語尾の -ed と -s は音節を増やさない。delaying は /dɪˈleɪɪŋ/。",
+  "lead": "予定・期待されていた行動や出来事を、より後の時点に行うようにする。目的語は会議・発表・開始・決定など、後へ回す事柄。人が判断して延期する場合にも、事情のために開始時点がずれる場合にも使い、意図的であることや新しい日付が決まっていることは必須ではない。",
+  "updated": "2026-10-13",
+  "notion_url": "https://app.notion.com/p/delay-3f84faa9b77d817eaeccc5137f8df14a",
+  "pronunciation": [],
+  "etymology": [
+    "中英語を経て、古フランス語 delayer、アングロフランス語 delaier「延ばす」に由来する。後半は「残す、放っておく」を意味する語と関係し、さらにラテン語 laxare「緩める」にさかのぼる。現代英語の de- と lay「横たえる」をそのまま足した語ではない。",
+    "lax「緩い、厳しくない」と relax「緩める、くつろぐ」は、ラテン語 laxus「緩い」に関係する同語源の語。現代の delay は、緩さそのものより、行動・進行が予定より後になることを表す。"
+  ],
+  "formation": [
+    {
+      "term": "delayed",
+      "description": "過去形・過去分詞。「遅れた、遅れて現れる」。a delayed flight「遅延便」、a delayed reaction「遅れて出る反応」のように名詞の前でも使う。The flight was delayed. では受動・遅延状態を表す。"
+    },
+    {
+      "term": "delaying",
+      "description": "現在分詞。delaying tactics「時間稼ぎの戦術」では、意図的に進行を遅くする働きを表す。一般の遅延がすべて意図的だという意味ではない。"
+    },
+    {
+      "term": "time-delay",
+      "description": "名詞の前で「遅延式の、一定時間遅れて作動する」。a time-delay switch「遅延スイッチ」。通常の名詞句 a time delay ではハイフンを付けない。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "「すぐに、または本来の時点で進むはずのことが、後へずれる」。後へずらす原因・判断、本人の行動、実際に生じる遅れを区別して使う。"
+    },
+    {
+      "type": "item",
+      "text": "本来の時点からのずれを生む予定変更 → 「先へ延ばす、延期する」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "本来の時点からのずれを生む進行妨害 → 「遅らせる、足止めする」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "本来の時点からのずれを生む行動の遅さ → 「ぐずぐずする、行動を遅らせる」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "本来の時点からのずれという事態・時間 → 「遅れ、遅延、延期」（語義4）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞】先へ延ばす、延期する",
+      "frequency": 8,
+      "register": [
+        "日常、仕事、報道。予定変更にも意思決定にも広く使う。"
+      ],
+      "definition": "予定・期待されていた行動や出来事を、より後の時点に行うようにする。目的語は会議・発表・開始・決定など、後へ回す事柄。人が判断して延期する場合にも、事情のために開始時点がずれる場合にも使い、意図的であることや新しい日付が決まっていることは必須ではない。",
+      "patterns": [
+        "delay something＝ある事柄を先へ延ばす",
+        "delay doing something＝ある行動をするのを遅らせる",
+        "delay something until 〈時点・節〉＝その時点・条件が満たされる時まで延期する",
+        "delay something by 〈時間幅〉＝その時間だけ後へずらす",
+        "delay something for 〈期間〉＝その期間、実施を見合わせる",
+        "〈予定・実施〉 + be delayed until 〈時点〉＝その時点まで延期される。"
+      ],
+      "collocations": [
+        {
+          "pattern": "delay the launch",
+          "use": "製品・サービスなどの開始を後へずらす。",
+          "example": "The company delayed the launch because testing was not complete.",
+          "translation": "テストが完了していなかったため、会社は発売を延期した。"
+        },
+        {
+          "pattern": "delay doing something",
+          "use": "後へ延ばす行動を -ing で示す。",
+          "example": "We delayed signing the agreement until both sides had checked the figures.",
+          "translation": "双方が数字を確認し終えるまで、私たちは契約への署名を見合わせた。"
+        },
+        {
+          "pattern": "delay something until 〈時点〉",
+          "use": "延期先の時点を示す。",
+          "example": "They delayed the inspection until Friday.",
+          "translation": "彼らは検査を金曜日まで延期した。"
+        },
+        {
+          "pattern": "delay something by 〈時間幅〉",
+          "use": "予定からどれだけ後ろへ動かすかを示す。",
+          "example": "We delayed the announcement by two days.",
+          "translation": "私たちは発表を2日遅らせた。"
+        },
+        {
+          "pattern": "delay something for 〈期間〉",
+          "use": "実施を見合わせる長さを示す。",
+          "example": "The board agreed to delay the vote for a week.",
+          "translation": "理事会は採決を1週間延期することに同意した。"
+        },
+        {
+          "pattern": "be delayed until 〈時点〉",
+          "use": "延期される事柄を主語にする。",
+          "example": "The opening has been delayed until next spring.",
+          "translation": "開業は来春まで延期されている。"
+        }
+      ],
+      "notes": [
+        "「するのを遅らせる」は delay doing。誤: delay to announce the results → 正: delay announcing the results。to不定詞が別に出ても、目的を表すことがある。We delayed the launch to finish testing. は「テストを終えるために発売を延期した」で、遅らせた対象は the launch。",
+        "delay は新しい日付を示さずにも使える。postpone は催し・予定された行動を後へ回す判断に焦点があり、delay は天候などによる遅延にも広く使う。cancel は実施を取りやめることで、延期と同じではない。延期されたものが後で中止になる可能性はあっても、delay だけで中止したとは言わない。",
+        "a delayed response は「すぐには出なかった返答・反応」。人がわざと返事を引き延ばしたとは限らない。delay の目的語を人にすると、通常は語義2の「その人を足止めする」であり、delay the meeting と delay the participants は対象が異なる。"
+      ],
+      "synonyms": [
+        {
+          "word": "postpone",
+          "definition": "予定した出来事・行動を後の時点へ延期する。",
+          "frequency": 8,
+          "difference": "予定を変更して後へ回す点が明確。delay は開始・進行が事情によって遅れる場合にも広い。",
+          "example": "They postponed the ceremony until June.",
+          "translation": "彼らは式典を6月まで延期した。"
+        },
+        {
+          "word": "put off",
+          "definition": "予定や必要な行動を後回しにする。",
+          "frequency": 8,
+          "difference": "delay より会話的。やりたくないことを先延ばしにする含みが出やすいが、常に怠慢を意味するわけではない。代名詞目的語は put it off。",
+          "example": "I keep putting off that difficult conversation.",
+          "translation": "私は、その気の重い話し合いをつい先延ばしにしている。"
+        },
+        {
+          "word": "defer",
+          "definition": "決定・支払い・実施などを後に回す。",
+          "frequency": 6,
+          "difference": "delay より改まった語で、手続き上の保留や計画的な繰り延べで多い。",
+          "example": "The committee deferred its decision pending further information.",
+          "translation": "委員会は、追加情報が得られるまで決定を保留した。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "bring forward",
+          "definition": "予定した出来事を、より早い時点に移す。",
+          "frequency": 6,
+          "difference": "予定時点を後へ動かす delay に対し、前へ動かす方向で対立する。主に英国英語。",
+          "example": "They brought the deadline forward by three days.",
+          "translation": "彼らは締め切りを3日前倒しした。"
+        },
+        {
+          "word": "move up",
+          "definition": "予定した出来事を前倒しする。",
+          "frequency": 7,
+          "difference": "特に米語で、日程を早める方向の対照。単なる順位の上昇を表す用法とは区別する。",
+          "example": "We moved the meeting up from Thursday to Tuesday.",
+          "translation": "私たちは会議を木曜日から火曜日へ前倒しした。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【動詞・他動詞】遅らせる、足止めする",
+      "frequency": 8,
+      "register": [
+        "日常、交通、仕事、報道。delay progress のような抽象的な進行にも使う。"
+      ],
+      "definition": "人・乗り物・作業などの進行を妨げ、到着・完了・進展を通常より遅くする。目的語は遅れを受ける人・物・過程。必ず完全に停止させるわけではなく、事故や不足が原因の場合も、人が意図的に時間を稼ぐ場合もある。",
+      "patterns": [
+        "delay someone＝人を足止めする・遅らせる",
+        "delay 〈交通・作業・進行〉＝その進行を遅らせる",
+        "〈人・交通・作業〉 + be delayed by 〈原因・行為者〉＝その原因・行為者によって遅れる",
+        "〈人・交通・作業〉 + be delayed by 〈時間幅〉＝その時間だけ遅れる",
+        "delay someone for 〈期間〉＝その期間、人を足止めする。"
+      ],
+      "collocations": [
+        {
+          "pattern": "delay someone",
+          "use": "人を予定どおり進ませず、到着や行動を遅らせる。",
+          "example": "I won't delay you any longer; you have a train to catch.",
+          "translation": "これ以上あなたを引き止めません。乗らなければならない列車がありますから。"
+        },
+        {
+          "pattern": "delay progress",
+          "use": "作業・計画の進展を遅くする。",
+          "example": "Repeated equipment failures delayed progress on the project.",
+          "translation": "機器の故障が繰り返し起き、プロジェクトの進行が遅れた。"
+        },
+        {
+          "pattern": "be delayed by 〈原因〉",
+          "use": "遅延の原因を示す受動態。",
+          "example": "The delivery was delayed by a shortage of drivers.",
+          "translation": "運転手不足により、配達が遅れた。"
+        },
+        {
+          "pattern": "be delayed by 〈時間幅〉",
+          "use": "原因ではなく、予定からの遅れの幅を示す。",
+          "example": "Our train was delayed by forty minutes.",
+          "translation": "私たちの列車は40分遅れた。"
+        },
+        {
+          "pattern": "delay someone for 〈期間〉",
+          "use": "人の行動を一定時間遅らせる。",
+          "example": "The security check delayed us for half an hour.",
+          "translation": "保安検査で私たちは30分足止めされた。"
+        }
+      ],
+      "notes": [
+        "be delayed by heavy rain の by は原因、be delayed by an hour の by は遅延幅。The flight was delayed by fog for two hours. では fog が原因、two hours が足止めの長さである。by の後を一律に「～によって」と訳さない。",
+        "「列車が遅れている」は The train is delayed. または The train is running late. が基本。The train delays us. は能動の他動詞で「列車が私たちを遅らせる」。人を主語とする自動詞 We delayed. は通常「私たちはすぐ行動しなかった」であり、We were delayed.「私たちは足止めされた」と同じではない。",
+        "語義1の「実施時点をずらす」と語義2の「進行を妨げる」は重なる場合がある。delay construction は着工の延期にも工事の進みの遅さにもなり得るため、delay the start of construction、delay progress on construction のように対象を具体化すると明確になる。"
+      ],
+      "synonyms": [
+        {
+          "word": "hold up",
+          "definition": "人や作業の進行を妨げて遅らせる。",
+          "frequency": 8,
+          "difference": "delay に近い会話的表現で、渋滞や手続きによる足止めで多い。代名詞は hold us up の位置。",
+          "example": "A missing document held up the application.",
+          "translation": "書類が1通足りず、申請手続きが滞った。"
+        },
+        {
+          "word": "slow down",
+          "definition": "動き・作業・変化の速度を落とす。",
+          "frequency": 9,
+          "difference": "速度自体に焦点があり、予定時刻から遅れるとは限らない。delay は到着・完了などが後になる点が中心。",
+          "example": "The rough road slowed the truck down.",
+          "translation": "荒れた道路のため、トラックの速度が落ちた。"
+        },
+        {
+          "word": "hinder",
+          "definition": "行動や進展を難しくし、妨げる。",
+          "frequency": 6,
+          "difference": "障害になることを表し、時間の遅れだけに限定されない。delay は特に時間的な影響を表す。",
+          "example": "Poor communication hindered the rescue effort.",
+          "translation": "連絡の不備が救助活動の妨げになった。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "expedite",
+          "definition": "手続き・作業を早く進め、完了を早める。",
+          "frequency": 5,
+          "difference": "進行を遅らせる delay に対し、処理を促進する方向で対立する。事務・物流などの改まった語。",
+          "example": "The extra staff helped expedite the processing of orders.",
+          "translation": "増員されたスタッフのおかげで、注文処理が早まった。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【動詞・自動詞】ぐずぐずする、行動を遅らせる",
+      "frequency": 7,
+      "register": [
+        "呼びかけ、広告、依頼、一般的な説明。"
+      ],
+      "definition": "人や組織がすぐには行動せず、時間を置く。急ぐべき場面で使うと「ぐずぐずする」となるが、慎重な判断のために待つ場合もあり、必ず怠惰を非難する語ではない。",
+      "patterns": [
+        "〈人・組織〉 + delay＝すぐに行動せず時間を置く",
+        "don't delay＝ぐずぐずせず、すぐに行動せよ",
+        "delay in doing something＝ある行動に取りかかるのを遅らせる",
+        "someone + delay any longer＝それ以上行動を遅らせる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "don't delay",
+          "use": "相手にすぐ行動するよう促す。",
+          "example": "Places are limited, so don't delay: register today.",
+          "translation": "定員に限りがありますので、お早めに。本日お申し込みください。"
+        },
+        {
+          "pattern": "delay in doing something",
+          "use": "どの行動が遅いのかを in 以下で示す。",
+          "example": "The agency delayed in responding to our request.",
+          "translation": "その機関は、私たちの依頼への対応に時間をかけた。"
+        },
+        {
+          "pattern": "delay any longer",
+          "use": "これ以上待つ余地がないことを表す。",
+          "example": "We cannot delay any longer; the deadline is tomorrow.",
+          "translation": "もうこれ以上ぐずぐずしてはいられない。締め切りは明日だ。"
+        },
+        {
+          "pattern": "〈人・組織〉 + delay",
+          "use": "行動内容が文脈から分かる場合に単独で使う。",
+          "example": "If the committee delays, the repairs will not be finished before winter.",
+          "translation": "委員会が決定を先延ばしにすれば、冬までに修繕が終わらない。"
+        }
+      ],
+      "notes": [
+        "delay in replying は in 以下が行動の範囲を示す自動詞構文。delay replying は返信という行動を直接後へ回す構文で、意味は近くても形を区別する。There was a delay in replying. は語義4の名詞構文である。",
+        "自動詞だからといって「遅れる」のすべてに使えるわけではない。単に到着時刻に遅れたなら I was late.、外的事情で足止めされたなら I was delayed. が明確。Don't delay. は「遅延状態になるな」より「すぐに行動して」の呼びかけである。"
+      ],
+      "synonyms": [
+        {
+          "word": "hesitate",
+          "definition": "迷い・ためらいから、すぐに行動しない。",
+          "frequency": 8,
+          "difference": "心理的なためらいが中心。delay は原因を限定せず、意図的に待つことも含む。",
+          "example": "She hesitated before answering the question.",
+          "translation": "彼女は質問に答える前にためらった。"
+        },
+        {
+          "word": "procrastinate",
+          "definition": "するべきことを不必要に先延ばしする。",
+          "frequency": 6,
+          "difference": "やるべきことを避けて延ばす否定的な含みが強い。delay は正当な理由で待つ場合にも使える。",
+          "example": "I tend to procrastinate when a task seems overwhelming.",
+          "translation": "作業が手に負えないほど大きく感じられると、私は先延ばしにしがちだ。"
+        },
+        {
+          "word": "wait",
+          "definition": "ある時点や出来事まで行動を控える。",
+          "frequency": 10,
+          "difference": "delay より中立的で、遅すぎることや予定からのずれを通常は含まない。",
+          "example": "We waited until everyone was ready.",
+          "translation": "私たちは全員の準備が整うまで待った。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・可算・不可算】遅れ、遅延、延期",
+      "frequency": 9,
+      "register": [
+        "日常、交通案内、仕事、報道。通信・計測では動作間の時間差にも使う。"
+      ],
+      "definition": "行動・到着・実施・反応などが予定や期待より後になること、またはそのために待つ時間。遅延という状態・行為を一般に述べると不可算、個別の遅れや時間幅を一区切りとして捉えると可算となる。人為的な延期にも、交通・処理などの予期しない遅れにも使う。",
+      "patterns": [
+        "a delay in 〈名詞・動名詞〉＝その事柄・行動の遅れ",
+        "a delay of 〈時間幅〉＝その時間だけの遅れ",
+        "a 〈数詞〉-minute delay＝その分数の遅れ",
+        "without delay＝遅滞なく、すぐに",
+        "delays on 〈路線・道路〉＝その路線・道路での複数の遅延",
+        "a delay between A and B＝AとBの間の時間的なずれ。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a delay in delivery",
+          "use": "何が遅れているかを名詞で示す。",
+          "example": "There has been a delay in delivery because the address was incomplete.",
+          "translation": "住所が不完全だったため、配達に遅れが生じている。"
+        },
+        {
+          "pattern": "a delay in doing something",
+          "use": "遅れた行動を in の後の動名詞で示す。",
+          "example": "We apologize for the delay in processing your refund.",
+          "translation": "払い戻しの処理が遅れ、申し訳ありません。"
+        },
+        {
+          "pattern": "a delay of 〈時間幅〉",
+          "use": "遅延の長さを数値で示す。",
+          "example": "Passengers should expect a delay of approximately twenty minutes.",
+          "translation": "乗客の皆様は、約20分の遅れを見込んでください。"
+        },
+        {
+          "pattern": "a 〈数詞〉-minute delay",
+          "use": "時間幅を名詞の前で複合修飾する。",
+          "example": "After a fifteen-minute delay, the presentation began.",
+          "translation": "15分遅れて、プレゼンテーションが始まった。"
+        },
+        {
+          "pattern": "without further delay",
+          "use": "これ以上の時間を置かずに行う。",
+          "example": "Please return the signed form without further delay.",
+          "translation": "これ以上遅れないよう、署名済みの用紙を返送してください。"
+        },
+        {
+          "pattern": "delays on 〈路線・道路〉",
+          "use": "交通情報で、その区間の遅れを知らせる。",
+          "example": "There are long delays on the coastal highway this morning.",
+          "translation": "今朝は海沿いの幹線道路で大幅な遅れが生じている。"
+        },
+        {
+          "pattern": "a delay between A and B",
+          "use": "二つの動作・反応の時間差を示す。",
+          "example": "There is a noticeable delay between pressing the button and hearing the sound.",
+          "translation": "ボタンを押してから音が聞こえるまでに、はっきり分かる遅れがある。"
+        }
+      ],
+      "notes": [
+        "without delay は不可算で冠詞を付けない。一方、a short delay、two delays、a delay of an hour は個々の遅れとして数えられる。形容詞が付けば常に可算になるわけではなく、unnecessary delay「不必要な遅延」のような不可算用法もある。誤: a thirty-minutes delay → 正: a thirty-minute delay。複合修飾内の minute は単数。",
+        "a delay in delivery は「配達の遅れ」、a delay of two days は「2日の遅れ」。前者は対象、後者は長さを表す。動詞の be delayed by two days と名詞の a delay of two days では前置詞が異なる。a delay to a service「運行への遅延」のような to もあるが、「返答するのが遅れた」なら a delay in replying が基本。",
+        "通信の delay は応答・伝送の時間差を広く表し、必ず異常や故障を意味するわけではない。latency と重なる領域はあるが、技術仕様ごとの測定対象を確かめず厳密な同義語と決めつけない。音響の delay は、音を遅らせて重ねる効果を指すこともあり、単なる交通の遅延とは文脈が異なる。"
+      ],
+      "synonyms": [
+        {
+          "word": "hold-up",
+          "definition": "人や物の進行を妨げる足止め・遅れ。",
+          "frequency": 7,
+          "difference": "障害で進めない事態に焦点がある。delay は、計画的な延期や反応の時間差も含む。米語では holdup とも綴る。",
+          "example": "A hold-up at customs kept the shipment at the port.",
+          "translation": "通関での足止めにより、積み荷は港にとどまった。"
+        },
+        {
+          "word": "postponement",
+          "definition": "予定した出来事を後へ延期すること。",
+          "frequency": 6,
+          "difference": "開催・実施を後へ回すことを表し、交通渋滞や通信の反応時間には通常使わない。",
+          "example": "The postponement of the hearing gave both sides more time to prepare.",
+          "translation": "審理の延期により、双方に準備の時間がさらにできた。"
+        },
+        {
+          "word": "time lag",
+          "definition": "関連する二つの出来事の間にある時間差。",
+          "frequency": 5,
+          "difference": "先の出来事と後の反応の隔たりを明示する。delay のように個人のぐずぐずや予定変更まで広く表すわけではない。",
+          "example": "There is a time lag between a price increase and its effect on sales.",
+          "translation": "値上げが売上に影響するまでには時間差がある。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

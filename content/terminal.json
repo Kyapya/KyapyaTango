@@ -1,0 +1,853 @@
+{
+  "word": "terminal",
+  "slug": "terminal",
+  "ipa": "米: /ˈtɝːmənəl/｜英: /ˈtɜːmɪnəl/。ここでは3音節の代表形を示し、名詞・形容詞とも第1音節に主強勢を置く。第1音節は米 /tɝː/ と英 /tɜː/ で、米語には r 音の響きがある。第2音節はこの表記では米 /mə/ と英 /mɪ/、第3音節は共通の /nəl/。弱母音の選び方には話者差があり、この区別は絶対的な米英差ではない。米語では第2音節の弱母音を落とした2音節の /ˈtɝːmnəl/ もある。",
+  "lead": "旅客の乗降や貨物の受け渡し・積み替えのための施設、駅、建物、輸送拠点。空港の旅客ターミナル、バスの発着場、港の旅客・コンテナ施設、石油などの受け入れ施設を含む。路線の起終点にあることが多いが、複数の路線や輸送手段が接続する中間拠点にも使う。",
+  "updated": "2026-10-13",
+  "notion_url": "https://app.notion.com/p/terminal-3f84faa9b77d81db9a61e950a4e5ba0b",
+  "pronunciation": [],
+  "etymology": [
+    "ラテン語 terminālis「境界・終わりに関する」に由来し、基になる terminus は「境界、終点」。現代の「終わりにある」「終点として機能する」という意味につながる。同系統に terminus「終点」、terminate「終わらせる、終わる」、term「期間、用語」などがある。ただし term の現代の各意味を、そのまま terminal の意味として使えるわけではない。"
+  ],
+  "formation": [
+    {
+      "term": "terminals",
+      "description": "可算名詞の複数形。「複数のターミナル、端末、端子」などで、何を数えるかは文脈による。"
+    },
+    {
+      "term": "terminally",
+      "description": "副詞。terminally ill は「治癒の見込みがなく死に至る病気を患っている」。terminally dull のような誇張では「どうしようもなく退屈な」。"
+    },
+    {
+      "term": "nonterminal",
+      "description": "形容詞。「最終ではない、末端ではない、終末期ではない」。医療、言語学、計算機科学などで意味範囲が異なり、一般に「健康な」という意味ではない。"
+    },
+    {
+      "term": "terminal building",
+      "description": "複合名詞。「旅客ターミナルの建物」。terminal は施設を表す名詞として building を修飾する。"
+    },
+    {
+      "term": "terminal emulator",
+      "description": "複合名詞。「端末エミュレーター」。端末の入出力機能をソフトウェアで提供するもので、語義6と関係する。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "中心は、ある広がり・流れ・過程の「端、行き着くところ」。そこにある場所や接点、最後の段階を表し、病気や衰退では「その先の回復を見込めない終わり」、誇張では「極端なところまで達した状態」になる。"
+    },
+    {
+      "type": "item",
+      "text": "移動の端を受け持つ施設 → 「旅客・貨物ターミナル、発着施設」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "病気が行き着く生命の終わり → 「治癒の見込みがなく死に至る」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "情報の流れの端にある機器 → 「コンピューター端末、情報端末」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "人が迎える生命の終わり → 「終末期の、終末期患者に関する」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "電気的な接続の端にある部分 → 「端子、接続端」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "文字入出力の端となる画面やアプリ → 「ターミナル、端末アプリ」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "過程が行き着く終わりの段階 → 「最終の、終わりに位置する」（語義7）"
+    },
+    {
+      "type": "item",
+      "text": "回復の道が尽きる終わり → 「回復不能の、破綻に至る」（語義8）"
+    },
+    {
+      "type": "item",
+      "text": "物の広がりの端にある位置 → 「末端の、先端にある、頂生の」（語義9）"
+    },
+    {
+      "type": "item",
+      "text": "程度が行き着く極端な状態 → 「極度の、どうしようもない」（語義10）"
+    },
+    {
+      "type": "item",
+      "text": "物の広がりの端をなす部分 → 「末端部、終末」（語義11）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算】旅客・貨物ターミナル、発着施設",
+      "frequency": 7,
+      "register": [
+        "一般、旅行、交通、物流。"
+      ],
+      "definition": "旅客の乗降や貨物の受け渡し・積み替えのための施設、駅、建物、輸送拠点。空港の旅客ターミナル、バスの発着場、港の旅客・コンテナ施設、石油などの受け入れ施設を含む。路線の起終点にあることが多いが、複数の路線や輸送手段が接続する中間拠点にも使う。",
+      "patterns": [
+        "an airport terminal＝空港の旅客ターミナル。",
+        "a bus terminal＝バスの発着施設。",
+        "a ferry terminal＝フェリーの発着施設。",
+        "a container terminal＝コンテナ貨物の取り扱い施設。",
+        "an oil terminal＝石油の受け入れ・貯蔵・積み出し施設。",
+        "at the terminal＝そのターミナルという地点で。",
+        "in the terminal＝そのターミナルの中で。",
+        "from Terminal 〈番号・名称〉＝その名称のターミナルから。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an airport terminal",
+          "use": "空港の旅客用建物を指す。",
+          "example": "The airport terminal is connected to the railway station by a covered walkway.",
+          "translation": "空港ターミナルは、屋根付きの通路で鉄道駅とつながっている。"
+        },
+        {
+          "pattern": "a bus terminal",
+          "use": "バスの発着・乗り換え拠点を示す。",
+          "example": "The intercity buses depart from the main bus terminal.",
+          "translation": "都市間バスは、主要バスターミナルから出発する。"
+        },
+        {
+          "pattern": "a ferry terminal",
+          "use": "フェリーの乗降施設を案内する。",
+          "example": "There is a ticket office inside the ferry terminal.",
+          "translation": "フェリーターミナルの中に切符売り場がある。"
+        },
+        {
+          "pattern": "a container terminal",
+          "use": "港などの貨物取り扱い拠点を示す。",
+          "example": "The port is expanding its container terminal to handle larger ships.",
+          "translation": "その港は、より大型の船に対応するため、コンテナターミナルを拡張している。"
+        },
+        {
+          "pattern": "an oil terminal",
+          "use": "石油輸送の受け入れ・積み出し施設を指す。",
+          "example": "The pipeline carries oil from the refinery to an oil terminal on the coast.",
+          "translation": "そのパイプラインは、製油所から沿岸の石油ターミナルへ石油を運ぶ。"
+        },
+        {
+          "pattern": "at the terminal",
+          "use": "待ち合わせや到着の地点を表す。",
+          "example": "A driver will meet you at the terminal.",
+          "translation": "運転手がそのターミナルであなたを出迎えます。"
+        },
+        {
+          "pattern": "in the terminal",
+          "use": "建物内部の場所を表す。",
+          "example": "Free drinking water is available in the terminal.",
+          "translation": "ターミナル内では、飲料水を無料で利用できます。"
+        },
+        {
+          "pattern": "from Terminal 〈番号・名称〉",
+          "use": "便が利用するターミナルを特定する。",
+          "example": "Your flight departs from Terminal B, but check-in closes at six.",
+          "translation": "あなたの便はターミナルBから出発しますが、搭乗手続きは6時に締め切られます。"
+        }
+      ],
+      "notes": [
+        "通常は a terminal、the terminal と冠詞を付けるが、施設名の Terminal 2、Terminal B では冠詞を付けない。at は地点、in は内部に焦点を置く。terminal は airport 全体でも gate「搭乗口」一つでもない。また、大きな交通拠点だからといって、そこを通るすべての路線の終点とは限らない。terminal building、terminal entrance などの terminal は、ここでは施設名詞の修飾用法として理解できる。形容詞の「末端にある」は語義9。"
+      ],
+      "synonyms": [
+        {
+          "word": "station",
+          "definition": "鉄道やバスなどの乗降・取り扱いを行う駅、停留施設。",
+          "frequency": 9,
+          "difference": "途中駅にも普通に使う。terminal は発着や乗り継ぎ・積み替えを担うまとまった施設に焦点があり、空港・港の施設にも広く使う。",
+          "example": "This train stops at every station.",
+          "translation": "この列車は各駅に停車する。"
+        },
+        {
+          "word": "terminus",
+          "definition": "交通路線の起点または終点、特に終着駅。",
+          "frequency": 4,
+          "difference": "路線がそこで終わるという位置を明確に表す。terminal は利用者や貨物を取り扱う施設を指し、中間の接続拠点にも使える。",
+          "example": "The northern terminus of the line is beside the harbour.",
+          "translation": "その路線の北側の終点は、港のそばにある。"
+        },
+        {
+          "word": "depot",
+          "definition": "バス・鉄道などの車庫や集積施設。特に米語ではバス・鉄道の駅を指すこともある。",
+          "frequency": 5,
+          "difference": "車両の保管・整備や物資の集積に重点がある用法が多い。旅客が使う terminal と常に同じ施設ではなく、駅の意味には地域差がある。",
+          "example": "The buses return to the depot after the last service.",
+          "translation": "バスは最終便の運行後に車庫へ戻る。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【形容詞・限定／叙述】治癒の見込みがなく死に至る",
+      "frequency": 6,
+      "register": [
+        "医療、一般の病状説明。慎重さを要する直接的な表現。"
+      ],
+      "definition": "病気・病状が、回復の見込みがなく最終的に死につながると判断されること。「末期の、終末期の」と訳すこともある。単に症状が重い、治療が難しい、死ぬ可能性がある、というだけの意味ではない。",
+      "patterns": [
+        "a terminal illness＝治癒の見込みがなく死に至る病気。",
+        "terminal cancer＝治癒の見込みがなく死に至るがん。",
+        "〈病気・病状〉 + be terminal＝その病気・病状が死に至ると判断される状態である。",
+        "be diagnosed with a terminal illness＝そのような病気と診断される。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a terminal illness",
+          "use": "病気の予後を説明する。",
+          "example": "The charity supports people living with a terminal illness.",
+          "translation": "その慈善団体は、治癒の見込みがなく死に至る病気を抱えて暮らす人々を支援している。"
+        },
+        {
+          "pattern": "terminal cancer",
+          "use": "がんについて終末性を述べる。",
+          "example": "She wrote about her experience of caring for her father, who had terminal cancer.",
+          "translation": "彼女は、末期がんを患っていた父親の世話をした経験について書いた。"
+        },
+        {
+          "pattern": "〈病気・病状〉 + be terminal",
+          "use": "病気を主語にして、その見通しを述べる。",
+          "example": "The doctors explained that the disease was terminal.",
+          "translation": "医師たちは、その病気には治癒の見込みがなく、死に至ると説明した。"
+        },
+        {
+          "pattern": "be diagnosed with a terminal illness",
+          "use": "診断を受けたことを述べる。",
+          "example": "He was diagnosed with a terminal illness last year.",
+          "translation": "彼は昨年、治癒の見込みがなく死に至る病気と診断された。"
+        }
+      ],
+      "notes": [
+        "病気の性質・見通しを分類するため、通常は very terminal、more terminal と程度比較しない。terminal illness の terminal は病気を修飾し、terminal patient の terminal は人の状態を表すため、後者は語義4で扱う。terminal は一定の日数や月数を語自体に含まず、個別の制度が使う定義とも区別する。incurable は「治癒できない」であって、それだけでは死に至る病気とは限らない。life-threatening は「生命を脅かす」であり、回復の可能性を排除しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "fatal",
+          "definition": "死を引き起こす、死につながる。",
+          "frequency": 7,
+          "difference": "病気だけでなく事故・負傷などにも使い、実際に死をもたらした結果にも焦点を置く。terminal は病気について、今後の回復が見込めず死に向かうことを述べる。",
+          "example": "The infection can be fatal if untreated.",
+          "translation": "その感染症は、治療しなければ死に至ることがある。"
+        },
+        {
+          "word": "incurable",
+          "definition": "治すことのできない。",
+          "frequency": 5,
+          "difference": "治癒の可否だけを表し、致死性は必須ではない。terminal と重なるのは、治癒不能で死に至る病気を指す場合。",
+          "example": "The condition is incurable, but its symptoms can be managed.",
+          "translation": "その病気は治癒できないが、症状を抑えることはできる。"
+        },
+        {
+          "word": "life-threatening",
+          "definition": "生命を失う危険がある。",
+          "frequency": 6,
+          "difference": "死の危険を表し、死に至る見通しが確定的だとは述べない。重篤な病状を表す点で重なるが、terminal への置き換えで意味が強くなる。",
+          "example": "The patient has a life-threatening infection.",
+          "translation": "その患者は、生命を脅かす感染症にかかっている。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "nonterminal",
+          "definition": "病気・病状が終末期に当たらない。",
+          "frequency": 2,
+          "difference": "病状を terminal と分類するかどうかの補完的な対立。軽症・健康・治癒可能までを保証する語ではない。",
+          "example": "The study focused on patients with nonterminal illnesses.",
+          "translation": "その研究は、終末期ではない病気を持つ患者を対象とした。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算】コンピューター端末、情報端末",
+      "frequency": 6,
+      "register": [
+        "IT、業務機器、販売・決済。"
+      ],
+      "definition": "コンピューターや通信システムに情報を入力したり、情報を受け取って表示したりするための機器。典型的には画面とキーボードを備えた端末を指し、店舗の決済端末や業務用の携帯端末などにも使う。",
+      "patterns": [
+        "a computer terminal＝コンピューターとの入出力に使う端末。",
+        "a payment terminal＝支払い処理に使う端末。",
+        "a handheld terminal＝手持ち型の業務端末。",
+        "a dumb terminal＝主に入出力を担い、処理を接続先に頼る端末。",
+        "at a terminal＝端末の前で操作して。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a computer terminal",
+          "use": "情報システムに接続された操作機器を指す。",
+          "example": "Each service desk has a computer terminal linked to the reservation system.",
+          "translation": "各サービスカウンターには、予約システムにつながるコンピューター端末がある。"
+        },
+        {
+          "pattern": "a payment terminal",
+          "use": "店頭で支払いを処理する機器を示す。",
+          "example": "The cashier turned the payment terminal toward the customer.",
+          "translation": "レジ係は、決済端末を客の方へ向けた。"
+        },
+        {
+          "pattern": "a handheld terminal",
+          "use": "持ち歩いて使う業務機器を指す。",
+          "example": "Warehouse staff check stock levels on handheld terminals.",
+          "translation": "倉庫のスタッフは、携帯端末で在庫量を確認する。"
+        },
+        {
+          "pattern": "a dumb terminal",
+          "use": "主な処理を別のコンピューターに依存する旧来型端末を説明する。",
+          "example": "The museum displays a dumb terminal that once connected to a mainframe.",
+          "translation": "その博物館には、かつて大型コンピューターにつながっていたダム端末が展示されている。"
+        },
+        {
+          "pattern": "at a terminal",
+          "use": "端末の前にいる人の操作を表す。",
+          "example": "An agent at a terminal checked the seat availability.",
+          "translation": "端末の前にいる係員が、空席状況を確認した。"
+        }
+      ],
+      "notes": [
+        "この意味では物理的な機器なので、replace a terminal は通常「端末機器を交換する」。語義6の open a terminal は「端末アプリやウィンドウを開く」であり、物理的に機器を開けるという意味ではない。terminal は必ずしも独立した汎用パソコンではなく、また必ず処理能力のない機器とも限らない。dumb terminal が後者の限定を明示する。画面だけを指す monitor、命令を解釈する shell とも区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "workstation",
+          "definition": "人が仕事を行うためのコンピューターや、その操作環境。",
+          "frequency": 5,
+          "difference": "独立した処理能力を持つ業務用コンピューターを指すことが多い。terminal はシステムへの入出力・接続の役割に焦点を置く。",
+          "example": "The designers use powerful workstations for video editing.",
+          "translation": "デザイナーたちは、動画編集に高性能のワークステーションを使っている。"
+        },
+        {
+          "word": "console",
+          "definition": "コンピューターや機械を操作・監視するための操作卓や装置。",
+          "frequency": 5,
+          "difference": "制御・監視の中心となる装置に重点があり、一般の利用者向け端末すべてを指すわけではない。",
+          "example": "The operator monitored the system from a control console.",
+          "translation": "操作者は、制御卓でシステムを監視した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【形容詞・限定／叙述】終末期の、終末期患者に関する",
+      "frequency": 5,
+      "register": [
+        "医療、看護、一般の病状説明。人を直接分類する響きがある。"
+      ],
+      "definition": "人について、治癒の見込みがなく死に向かう病気の終末期にあること。また、そのような患者に向けた医療・ケアに関すること。病気そのものが死に至ることを述べる語義2に対し、ここでは患者の状態、またはケアの対象を示す。",
+      "patterns": [
+        "a terminal patient＝終末期にある患者。",
+        "someone + be terminal＝その人が終末期にある。",
+        "terminal care＝終末期患者に対するケア。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a terminal patient",
+          "use": "患者の病状を簡潔に分類する。",
+          "example": "The unit provides support for terminal patients and their families.",
+          "translation": "その病棟は、終末期の患者とその家族に支援を提供している。"
+        },
+        {
+          "pattern": "someone + be terminal",
+          "use": "人を主語にして終末期の状態を述べる。",
+          "example": "He told his family that he was terminal.",
+          "translation": "彼は、自分が終末期の状態にあると家族に伝えた。"
+        },
+        {
+          "pattern": "terminal care",
+          "use": "終末期患者を対象にしたケアを指す。",
+          "example": "The course covers communication with families during terminal care.",
+          "translation": "その講座は、終末期ケアにおける家族とのコミュニケーションを扱う。"
+        }
+      ],
+      "notes": [
+        "人を主語にした She is terminal. は「彼女は終末期だ」であり、「彼女が致命的なものを引き起こす」ではない。かなり直接的なので、説明では She is terminally ill. や a patient with a terminal illness のような表現も使う。terminal care は「ケアそのものが死に至らせる」ではなく、対象患者を示す限定用法であり、この意味で The care is terminal. とは通常言わない。terminal は患者を表す一般的な可算名詞ではないため、一人の患者を a terminal と呼ぶ用法を基本形として覚えない。palliative care「緩和ケア」は対象時期が終末期だけとは限らず、terminal care と完全な同義ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "dying",
+          "definition": "死に向かっている、死が近づいている。",
+          "frequency": 7,
+          "difference": "実際に死に近づく過程を直接表し、終末期の患者よりも直近の死を意識させることがある。病気に限らず、負傷などによる状態にも使う。",
+          "example": "The nurse stayed beside the dying patient.",
+          "translation": "看護師は、死が近づいている患者のそばに付き添った。"
+        },
+        {
+          "word": "end-of-life",
+          "definition": "人生の最終段階に関する。",
+          "frequency": 5,
+          "difference": "end-of-life care のように、ケア・計画などの対象時期を示す限定表現として重なる。人について He is end-of-life. と置き換える一般形ではない。",
+          "example": "The team discussed the patient's wishes for end-of-life care.",
+          "translation": "チームは、人生の最終段階のケアについて、その患者の希望を話し合った。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞・可算】端子、接続端",
+      "frequency": 5,
+      "register": [
+        "電気、電子機器、取扱説明、整備。"
+      ],
+      "definition": "電池・電気機器・回路・電線などで、別の導体を接続して電流や信号を出し入れする点、またはそのための金属部品。末端という位置だけでなく、電気的接続を行う役割が中心。",
+      "patterns": [
+        "the positive terminal＝正極端子。",
+        "the negative terminal＝負極端子。",
+        "a terminal on 〈機器〉＝その機器にある端子。",
+        "the terminals of 〈電池・機器〉＝その電池・機器の端子。",
+        "a connection to the terminal＝その端子への接続。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the positive terminal",
+          "use": "電池などの正極側の接続点を特定する。",
+          "example": "The diagram labels the positive terminal with a plus sign.",
+          "translation": "その図は、正極端子をプラス記号で示している。"
+        },
+        {
+          "pattern": "the negative terminal",
+          "use": "負極側の接続点を特定する。",
+          "example": "A small cover protects the negative terminal.",
+          "translation": "小さなカバーが負極端子を保護している。"
+        },
+        {
+          "pattern": "the terminals of 〈電池・機器〉",
+          "use": "どの装置の端子かを明示する。",
+          "example": "The technician inspected the terminals of the battery for corrosion.",
+          "translation": "技術者は、電池の端子に腐食がないか点検した。"
+        },
+        {
+          "pattern": "a terminal on 〈機器〉",
+          "use": "機器上の接続部を指す。",
+          "example": "One terminal on the sensor was damaged.",
+          "translation": "そのセンサーの端子の一つが損傷していた。"
+        },
+        {
+          "pattern": "a connection to the terminal",
+          "use": "端子との接続状態を述べる。",
+          "example": "A loose connection to the terminal caused intermittent readings.",
+          "translation": "端子への接続が緩んでいたため、測定値が途切れ途切れになった。"
+        }
+      ],
+      "notes": [
+        "the positive terminal of the battery の of は端子が属する機器、a wire connected to the terminal の to は接続先を示す。terminal 単独が正極を意味するわけではない。battery terminal の battery は種類を示す名詞修飾。端子、電極、プラグは機能が重なる場合があっても、形状や働きまで常に同じではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "contact",
+          "definition": "電気的な接続が行われる導電部分、接点。",
+          "frequency": 4,
+          "difference": "二つの部分が触れて通電する面・箇所に重点がある。terminal は外部の導体を接続するための端部や接続点に重点がある。",
+          "example": "Dust on the contacts prevented a reliable electrical connection.",
+          "translation": "接点のほこりが、安定した電気接続を妨げていた。"
+        },
+        {
+          "word": "pole",
+          "definition": "電池などの正負の極。",
+          "frequency": 4,
+          "difference": "極性の側に重点がある。電池の正負の terminal と指す場所が重なる場合があるが、接続金具そのものを必ず意味するわけではない。",
+          "example": "The battery has a positive pole and a negative pole.",
+          "translation": "その電池には、正極と負極がある。"
+        },
+        {
+          "word": "connector",
+          "definition": "電線や機器同士を接続する部品。",
+          "frequency": 5,
+          "difference": "コネクター全体を指し、その内部に複数の terminal が含まれることもある。一個の端子と接続部品全体を取り違えない。",
+          "example": "The cable has a waterproof connector.",
+          "translation": "そのケーブルには、防水コネクターが付いている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【名詞・可算】ターミナル、端末アプリ",
+      "frequency": 5,
+      "register": [
+        "IT、ソフトウェア開発、システム操作。"
+      ],
+      "definition": "コンピューターに文字で入力し、文字中心の出力を受け取るためのソフトウェアや操作画面。専用の物理端末を模したアプリ、ウィンドウ、セッションを指す。コマンドを使う作業手順で open a terminal と書かれる用法。",
+      "patterns": [
+        "open a terminal＝ターミナルアプリや画面を開く。",
+        "a terminal window＝ターミナルのウィンドウ。",
+        "in the terminal＝そのターミナル画面内で。",
+        "from the terminal＝ターミナルを操作の起点・手段として。",
+        "a terminal session＝一続きの端末操作セッション。"
+      ],
+      "collocations": [
+        {
+          "pattern": "open a terminal",
+          "use": "文字で操作する画面を開くよう指示する。",
+          "example": "Open a terminal and navigate to the project folder.",
+          "translation": "ターミナルを開き、プロジェクトのフォルダーへ移動してください。"
+        },
+        {
+          "pattern": "a terminal window",
+          "use": "アプリ内のウィンドウを特定する。",
+          "example": "The error message appeared in a separate terminal window.",
+          "translation": "エラーメッセージは、別のターミナルウィンドウに表示された。"
+        },
+        {
+          "pattern": "in the terminal",
+          "use": "文字の入力・出力が行われる場所を示す。",
+          "example": "The program prints its results in the terminal.",
+          "translation": "そのプログラムは、結果をターミナルに表示する。"
+        },
+        {
+          "pattern": "from the terminal",
+          "use": "操作を行う手段を示す。",
+          "example": "You can start the development server from the terminal.",
+          "translation": "ターミナルから開発用サーバーを起動できます。"
+        },
+        {
+          "pattern": "a terminal session",
+          "use": "端末を通じた一続きの作業接続を指す。",
+          "example": "The terminal session ended when the remote server disconnected.",
+          "translation": "リモートサーバーとの接続が切れると、その端末セッションは終了した。"
+        }
+      ],
+      "notes": [
+        "terminal は入出力の場を提供し、shell は入力された命令を解釈して実行する役割を持つ。両者が一緒に使われても同じものではない。一般名詞は a terminal と小文字で書き、特定のアプリ名である Terminal、Windows Terminal は大文字表記を使う。open a terminal は機器の筐体を開けることではない。語義3の物理端末との違いは、open、window、session などの周辺語から判断する。"
+      ],
+      "synonyms": [
+        {
+          "word": "terminal emulator",
+          "definition": "端末の文字入出力機能をソフトウェアで実現するアプリケーション。",
+          "frequency": 3,
+          "difference": "アプリの技術的な種類を明示する。日常の開発手順では terminal と短く呼ばれることが多いが、terminal はウィンドウやセッションも指せる。",
+          "example": "The terminal emulator supports multiple tabs.",
+          "translation": "その端末エミュレーターは、複数のタブに対応している。"
+        },
+        {
+          "word": "console",
+          "definition": "文字による入力・出力や診断メッセージを扱う操作画面。",
+          "frequency": 5,
+          "difference": "ターミナルと重なる用法があるが、開発ツール内の診断画面なども指す。console と呼ばれる画面すべてが汎用の端末アプリではない。",
+          "example": "The developer checked the browser console for errors.",
+          "translation": "開発者は、ブラウザーのコンソールでエラーを確認した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【形容詞・主に限定】最終の、終わりに位置する",
+      "frequency": 4,
+      "register": [
+        "やや硬い文章、技術、物理、教育。"
+      ],
+      "definition": "期間・過程・連続した段階の終わりをなすこと。それ以上先へ進むことを予定しない到達点や限界を示すこともある。死や失敗を必ず意味するわけではなく、技術的・制度的な文脈では、何の終わりなのかを確認する必要がある。",
+      "patterns": [
+        "the terminal phase of 〈過程〉＝その過程の最終段階。",
+        "the terminal stage of 〈過程〉＝その過程の最終段階。",
+        "a terminal degree in 〈分野〉＝その分野で最終・最高位とされる学位。",
+        "a terminal master's degree＝博士課程への進学を前提とせず完結する修士号、または分野で最終とされる修士号。",
+        "terminal velocity＝落下などで力が釣り合い、速度が一定になるときの終端速度。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the terminal phase of 〈過程〉",
+          "use": "技術的な過程の最後の局面を表す。",
+          "example": "The guidance system takes over during the terminal phase of the descent.",
+          "translation": "降下の最終段階では、誘導システムが制御を引き継ぐ。"
+        },
+        {
+          "pattern": "the terminal stage of 〈過程〉",
+          "use": "一連の過程の最終段階を位置付ける。",
+          "example": "The terminal stage of the process produces the finished material.",
+          "translation": "その工程の最終段階で、完成した材料が作られる。"
+        },
+        {
+          "pattern": "a terminal degree in 〈分野〉",
+          "use": "主に米国の教育・採用文脈で、分野の最終的な学位を示す。",
+          "example": "The position requires a terminal degree in the applicant's field.",
+          "translation": "その職には、応募者の専門分野で最終・最高位とされる学位が必要だ。"
+        },
+        {
+          "pattern": "a terminal master's degree",
+          "use": "修士段階で完結する学位課程を説明する。",
+          "example": "The department offers a terminal master's degree rather than a route into its doctoral program.",
+          "translation": "その学部・学科は、博士課程への進学経路ではなく、修士段階で完結する学位を提供している。"
+        },
+        {
+          "pattern": "terminal velocity",
+          "use": "物理の定着した複合表現を使う。",
+          "example": "Once the falling object reaches terminal velocity, its speed remains constant under unchanged conditions.",
+          "translation": "落下する物体が終端速度に達すると、条件が変わらない限り、その速さは一定のままになる。"
+        }
+      ],
+      "notes": [
+        "日常の「最後のページ」には last page や final page が普通で、terminal を何にでも置き換えない。通常は非段階的で very terminal とは言わない。terminal velocity は「衝突時の速度」ではなく、例えば空中の落下では重力と空気抵抗が釣り合って得られる一定の速度を指す。terminal degree は、その人が最後に取得した学位という意味の「最終学歴」ではない。分野での最終学位という用法と、上位課程への準備ではなくそこで完結する課程という用法があり、必ず博士号とも限らない。terminal payment は文脈によって最終支払いを指すが、辞書には term「所定期間」に関する低頻度の「期間ごとの」という別義もあるため、複数形の terminal payments だけで定期払いと即断しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "final",
+          "definition": "一連の過程や順序を終える最後の。",
+          "frequency": 9,
+          "difference": "一般的な最終段階・最終版などに広く使う。terminal は過程や発達の限界・終端という技術的な響きが強く、定着した複合表現では自由に交換できない。",
+          "example": "The report is in its final stage of revision.",
+          "translation": "その報告書は、修正の最終段階にある。"
+        },
+        {
+          "word": "last",
+          "definition": "順序や時間において最後の。",
+          "frequency": 10,
+          "difference": "最も一般的で、the last time のように「直近の、前回の」も表せる。terminal はそのような「前回」の意味にはならない。",
+          "example": "This is the last chapter of the book.",
+          "translation": "これは、その本の最後の章だ。"
+        },
+        {
+          "word": "ultimate",
+          "definition": "長い過程や検討の末に行き着く最終的な。",
+          "frequency": 6,
+          "difference": "帰結・目標・責任などの最終到達点に重点がある。terminal は連続した過程の終端・限界に重点を置く。",
+          "example": "The ultimate outcome remains uncertain.",
+          "translation": "最終的な結果は、まだ不確かだ。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "initial",
+          "definition": "過程の最初の段階にある。",
+          "frequency": 8,
+          "difference": "過程内の位置について、終端と開始を対置する方向・順序上の反対語。terminal の医療義すべての反対語ではない。",
+          "example": "The initial phase focuses on collecting data.",
+          "translation": "初期段階では、データの収集に重点を置く。"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "【形容詞・限定／叙述】回復不能の、破綻に至る",
+      "frequency": 4,
+      "register": [
+        "報道、ビジネス、評論、比喩。"
+      ],
+      "definition": "組織・事業・制度などの衰退や損害が、回復できず終わりや失敗に至ると評価されること。病気の終末性を比喩的に移した強い表現で、話者の判断を含む。terminal decline は、単なる一時的な落ち込みより強い。",
+      "patterns": [
+        "be in terminal decline＝回復不能な衰退過程にある。",
+        "terminal damage to 〈組織・評判など〉＝その組織や評判などを立ち直れなくする損害。",
+        "〈問題・損害など〉 + be terminal＝その問題や損害が破綻・終焉につながるものである。"
+      ],
+      "collocations": [
+        {
+          "pattern": "be in terminal decline",
+          "use": "事業などの衰退を回復不能と評価する。",
+          "example": "Analysts disagree about whether the print magazine market is in terminal decline.",
+          "translation": "紙の雑誌市場が回復不能な衰退に陥っているかどうかについて、分析担当者たちの見解は分かれている。"
+        },
+        {
+          "pattern": "terminal damage to 〈組織・評判など〉",
+          "use": "存続や信用を失わせるほどの損害を表す。",
+          "example": "The scandal caused terminal damage to the party's credibility.",
+          "translation": "その不祥事は、党の信頼性に回復不能な損害を与えた。"
+        },
+        {
+          "pattern": "〈問題・損害など〉 + be terminal",
+          "use": "現在の難局が終焉を意味するかを評価する。",
+          "example": "The company's financial problems are serious, but they are not terminal.",
+          "translation": "その会社の財務問題は深刻だが、破綻を避けられないほどではない。"
+        }
+      ],
+      "notes": [
+        "terminal は、ここでは死亡の医学的判断ではなく、回復や存続の見通しに対する強い評価。not terminal は「破綻に至るほどではない」であり、「問題がない」とまでは言わない。be in terminal decline の in を落として be terminal decline としない。程度の強い比喩では completely terminal などの強調もあり得るが、more serious と同じ感覚で more terminal を標準的な比較表現にしない。単に「ひどく退屈な」などの誇張は語義10。"
+      ],
+      "synonyms": [
+        {
+          "word": "irreversible",
+          "definition": "元の状態に戻せない。",
+          "frequency": 6,
+          "difference": "変化の不可逆性が中心で、悪い結果や存続の終わりは必須ではない。terminal は衰退・損害について終焉に向かう評価を加える。",
+          "example": "The closure brought irreversible changes to the town.",
+          "translation": "その閉鎖は、町に元へ戻せない変化をもたらした。"
+        },
+        {
+          "word": "irreparable",
+          "definition": "修復したり埋め合わせたりできない。",
+          "frequency": 5,
+          "difference": "damage、harm などの修復不能性を直接表す。terminal は、そこから事業や信用などが終わるという強い見通しを含む。",
+          "example": "The leak did irreparable harm to their reputation.",
+          "translation": "その漏えいは、彼らの評判に取り返しのつかない害を与えた。"
+        },
+        {
+          "word": "fatal",
+          "definition": "計画や組織などの失敗を決定づける。",
+          "frequency": 6,
+          "difference": "fatal error、fatal blow のように、破綻の原因となる一撃・欠陥を表しやすい。terminal は、衰退や問題がもはや回復できない状態にも使う。",
+          "example": "The loss of funding was a fatal blow to the project.",
+          "translation": "資金を失ったことは、その計画にとって致命的な打撃だった。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 9,
+      "title": "【形容詞・主に限定】末端の、先端にある、頂生の",
+      "frequency": 3,
+      "register": [
+        "植物学、化学、技術、交通のやや硬い記述。"
+      ],
+      "definition": "物体や構造の端・先端に位置すること。植物の茎・枝の先端にある芽や花、分子の鎖の端にある原子、路線の端にある駅などに使う。時間的に最後という語義7に対し、ここでは空間・構造内の位置が中心。",
+      "patterns": [
+        "a terminal bud＝茎や枝の先端にある芽、頂芽。",
+        "a terminal carbon atom＝分子の鎖の端にある炭素原子。",
+        "a terminal station＝路線の端にある駅。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a terminal bud",
+          "use": "植物の芽の位置を区別する。",
+          "example": "A terminal bud is visible at the tip of the shoot.",
+          "translation": "新しい枝の先端に、頂芽が見える。"
+        },
+        {
+          "pattern": "a terminal carbon atom",
+          "use": "分子内の原子の位置を示す。",
+          "example": "The diagram marks the terminal carbon atom at each end of the chain.",
+          "translation": "その図は、鎖の両端にある末端炭素原子を示している。"
+        },
+        {
+          "pattern": "a terminal station",
+          "use": "路線の端という位置を表す。",
+          "example": "All passengers must leave the train at the terminal station.",
+          "translation": "終着駅では、すべての乗客が列車を降りなければならない。"
+        }
+      ],
+      "notes": [
+        "通常は名詞の前で位置を分類し、very terminal のように程度を付けない。専門的な対比では The bud is terminal, not lateral.「その芽は側方ではなく先端にある」のような叙述も可能。a terminal station では terminal が形容詞、a passenger terminal では terminal が名詞で、同じ語順・品詞ではない。植物の terminal は「枯れかけた」という医療義ではない。lateral「側方の」、internal「内部の」は位置を比較する対照表現であり、あらゆる terminal の反対語ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "apical",
+          "definition": "頂点や先端にある。",
+          "frequency": 3,
+          "difference": "植物の芽などでは terminal と重なるが、解剖学などでも特定構造の頂部を指す。交通の終着駅に apical station とは通常言わない。",
+          "example": "The apical bud lies at the tip of the stem.",
+          "translation": "頂芽は、茎の先端にある。"
+        },
+        {
+          "word": "distal",
+          "definition": "起点や付着点から遠い側にある。",
+          "frequency": 3,
+          "difference": "解剖学などで、基準となる起点からの相対的位置を示す。terminal は末端そのものにあることを示し、distal の領域が常に末端一点とは限らない。",
+          "example": "The distal end of the bone was clearly visible in the image.",
+          "translation": "その画像では、骨の遠位端がはっきり見えた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 10,
+      "title": "【形容詞・限定】極度の、どうしようもない",
+      "frequency": 3,
+      "register": [
+        "くだけた表現、皮肉、誇張。対象が人の知性などなら侮辱的。"
+      ],
+      "definition": "退屈さ・愚かさなどが非常に強く、耐えがたい、救いようがないと誇張する表現。実際の病気や死を指さず、話者の不満・皮肉・ユーモアを表す。肯定的な性質を大げさに強める用例もあるが、日常的な万能の very の代わりではない。",
+      "patterns": [
+        "terminal boredom＝死ぬほどの退屈、極度の退屈。",
+        "terminal stupidity＝どうしようもない愚かさ。"
+      ],
+      "collocations": [
+        {
+          "pattern": "terminal boredom",
+          "use": "長く退屈な状況への不満を誇張する。",
+          "example": "By the third hour of the presentation, I was suffering from terminal boredom.",
+          "translation": "発表が3時間目に入るころには、私は死ぬほど退屈していた。"
+        },
+        {
+          "pattern": "terminal stupidity",
+          "use": "判断や行動を強く非難する。",
+          "example": "Ignoring every warning was an act of terminal stupidity.",
+          "translation": "あらゆる警告を無視したのは、どうしようもなく愚かな行為だった。"
+        }
+      ],
+      "notes": [
+        "terminal boredom は「退屈で実際に死亡する状態」という診断ではない。be in terminal decline のような回復不能の衰退を述べる語義8とも違い、ここでは程度の大げさな強調が中心。主に名詞の前に置く定着した結合で、任意の形容詞を修飾する副詞にはならない。誤: terminal bored、正: terminally bored。人に terminal stupidity を向けると強い侮辱になるため、事務的な評価や丁寧な依頼では避ける。"
+      ],
+      "synonyms": [
+        {
+          "word": "extreme",
+          "definition": "程度が非常に大きい。",
+          "frequency": 8,
+          "difference": "比較的中立に程度を表し、死や救いようのなさを連想させる皮肉は必須ではない。",
+          "example": "The long wait caused extreme frustration.",
+          "translation": "長い待ち時間は、非常に強いいらだちを生んだ。"
+        },
+        {
+          "word": "utter",
+          "definition": "完全な、まったくの。",
+          "frequency": 6,
+          "difference": "utter nonsense、utter boredom のように、状態を全面的なものとして強める限定形容詞。terminal のような終末性を借りた誇張は含まない。",
+          "example": "The discussion descended into utter confusion.",
+          "translation": "議論は、まったくの混乱に陥った。"
+        },
+        {
+          "word": "intolerable",
+          "definition": "耐えられないほどの。",
+          "frequency": 5,
+          "difference": "受け手が我慢できる限界を超えることを述べる。terminal の誇張とは違い、具体的な生活・労働条件の評価にも使う。",
+          "example": "The noise made working conditions intolerable.",
+          "translation": "騒音のために、労働環境は耐えがたいものになった。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 11,
+      "title": "【名詞・可算】末端部、終末",
+      "frequency": 3,
+      "register": [
+        "解剖学、神経科学、構造の専門的記述。"
+      ],
+      "definition": "細長いものや構造の端を形成する部分。現代では、神経細胞の axon terminal「軸索終末」など、分野を特定する修飾語とともに使うことが多い。一般会話の「あらゆる物の端」を terminal と呼ぶのは普通ではない。",
+      "patterns": [
+        "an axon terminal＝神経細胞の軸索の末端部。",
+        "a presynaptic terminal＝シナプスで情報を送り出す側の神経終末。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an axon terminal",
+          "use": "神経細胞の末端部を特定する。",
+          "example": "The diagram shows several axon terminals contacting the next neuron.",
+          "translation": "その図は、次の神経細胞に接する複数の軸索終末を示している。"
+        },
+        {
+          "pattern": "a presynaptic terminal",
+          "use": "シナプスの送り手側の終末部を指す。",
+          "example": "The image reveals tiny vesicles inside the presynaptic terminal.",
+          "translation": "その画像では、シナプス前終末の内部にある小さな小胞が見える。"
+        }
+      ],
+      "notes": [
+        "axons の端が複数あれば terminals と数えられる。語義5の電気端子とは対象が異なり、神経に金属の接続部品があるという意味ではない。terminal carbon などの terminal は名詞を修飾する形容詞で語義9、axon terminal の terminal は「末端部」という名詞。日常の「ロープの端」なら the end of the rope が普通で、the terminal of the rope を標準的な言い方として覚えない。"
+      ],
+      "synonyms": [
+        {
+          "word": "ending",
+          "definition": "神経などの端をなす部分。",
+          "frequency": 4,
+          "difference": "nerve ending のような定着した表現で重なる。一般的な終わりも表せるが、この類義関係は構造の末端部を指す用法に限る。",
+          "example": "The skin contains many sensory nerve endings.",
+          "translation": "皮膚には、多くの感覚神経終末がある。"
+        },
+        {
+          "word": "extremity",
+          "definition": "細長いものや構造の最も端にある部分。",
+          "frequency": 4,
+          "difference": "空間的な端を広く表し、神経伝達を担う部分とは限らない。人体では複数形で手足を表す別用法もある。",
+          "example": "A small hook was attached to the extremity of the rod.",
+          "translation": "棒の先端には、小さな鉤が付いていた。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

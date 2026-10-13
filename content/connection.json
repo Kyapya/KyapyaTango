@@ -1,0 +1,667 @@
+{
+  "word": "connection",
+  "slug": "connection",
+  "ipa": "米・英: /kəˈnekʃən/。3音節で第2音節に主強勢。第1音節の母音は弱い /ə/、第2音節の母音は /e/。第3音節は /ʃən/ で、母音を省いて音節を成す /n/ を用いる /kəˈnekʃn̩/ という発音もある。複数形 connections の語尾は /z/。",
+  "lead": "二つ以上の事実・考え・出来事・人・組織などが結び付いていること。また、その個別の結び付き。原因と結果の関係であることもあるが、共通点、関与、所属などの関連だけでも使える。",
+  "updated": "2026-10-13",
+  "notion_url": "https://app.notion.com/p/connection-3f84faa9b77d81ed8a5ae1d360ade03a",
+  "pronunciation": [],
+  "etymology": [
+    "ラテン語 connexio「結び付けること」にさかのぼり、動詞 connectere は con-「一緒に」と nectere「結ぶ」から成る。connect「つなぐ」、nexus「結び付き」、annex「付加する、併合する」は nectere と関係する。現代の connection も、物理的な接続から人間関係・事実間の関連まで、「別々のものをつなぐ」という意味が中心にある。"
+  ],
+  "formation": [
+    {
+      "term": "connect",
+      "description": "対応する動詞。「つなぐ、つながる」。connection は行為・状態・接続部分・関係者などを指す名詞。"
+    },
+    {
+      "term": "connected",
+      "description": "形容詞または connect の過去分詞。「接続された、関連のある」。well-connected は「有力な知り合いが多い」で、人脈に関する表現。"
+    },
+    {
+      "term": "connectivity",
+      "description": "主に不可算名詞。「接続性、つながりやすさ」。個々の回線一本というより、接続できる能力・環境を表す。"
+    },
+    {
+      "term": "disconnection",
+      "description": "名詞。「切断、接続が切れること、隔たり」。何のつながりを失うかは文脈による。"
+    },
+    {
+      "term": "interconnection",
+      "description": "名詞。「相互接続、相互の関連」。複数の要素が互いにつながる関係を強調する。"
+    },
+    {
+      "term": "connexion",
+      "description": "英国で見られる別綴り。一般用法では古風で、現代では connection が標準的。特定の宗教組織名・伝統的用語では connexion が残る。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "「別々のもの・人・場所がつながること、またはそのつながりを担うもの」が共通核。関連があることと原因であることは同じではなく、何をどうつなぐかは各用法で確認する。"
+    },
+    {
+      "type": "item",
+      "text": "つながる事実・人・組織の関係 → 「関連、関係」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "つながる通信機器間の経路や状態 → 「通信接続、電話・ネット回線」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "つながる部品や設備の接合 → 「接続、接合部」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "つながる相手との心の結び付き → 「心のつながり、親近感」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "つながる人々からなる人脈 → 「人脈、知り合い、縁故関係者」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "つながる便から次の便への移動 → 「乗継ぎ、接続便」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "つながる場所間の交通経路 → 「交通の便、連絡経路」（語義7）"
+    },
+    {
+      "type": "item",
+      "text": "つながる入手先を担う人物 → 「非合法な品などの入手先」（語義8）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算／不可算】関連、関係",
+      "frequency": 9,
+      "register": [
+        "一般、ビジネス、報道、研究。"
+      ],
+      "definition": "二つ以上の事実・考え・出来事・人・組織などが結び付いていること。また、その個別の結び付き。原因と結果の関係であることもあるが、共通点、関与、所属などの関連だけでも使える。",
+      "patterns": [
+        "a connection between 〈A〉 and 〈B〉＝AとBの関連。",
+        "a connection with 〈対象〉＝その対象との関係。",
+        "a connection to 〈対象〉＝その対象への結び付き・関与。",
+        "make the connection between 〈A〉 and 〈B〉＝AとBの関連に気付く。",
+        "in connection with 〈事柄〉＝その事柄に関連して。",
+        "in this connection＝この点に関連して。",
+        "have no connection with 〈対象〉＝その対象とは関係がない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a connection between 〈A〉 and 〈B〉",
+          "use": "比較する二つの事実の関連を述べる。",
+          "example": "The report found a connection between staff turnover and poor communication.",
+          "translation": "その報告書は、従業員の入れ替わりと意思疎通の不十分さとの関連を見いだした。"
+        },
+        {
+          "pattern": "a connection with 〈組織〉",
+          "use": "組織との関係・関与を示す。",
+          "example": "The website has no official connection with the university.",
+          "translation": "そのウェブサイトは、大学と公式な関係を持っていない。"
+        },
+        {
+          "pattern": "a connection to 〈出来事〉",
+          "use": "出来事への関与・関連を示す。",
+          "example": "Investigators asked about his connection to the missing documents.",
+          "translation": "調査員たちは、紛失した書類と彼との関係について尋ねた。"
+        },
+        {
+          "pattern": "make the connection between 〈A〉 and 〈B〉",
+          "use": "二つの事柄が結び付いていると理解する。",
+          "example": "I only made the connection between the two messages after reading them again.",
+          "translation": "二つのメッセージを読み返して初めて、私は両者の関連に気付いた。"
+        },
+        {
+          "pattern": "in connection with 〈事柄〉",
+          "use": "問合せ・調査・連絡の関連対象を示す。",
+          "example": "I am writing in connection with your application for the training programme.",
+          "translation": "研修プログラムへのお申し込みに関連して、ご連絡しています。"
+        },
+        {
+          "pattern": "in this connection",
+          "use": "直前の話題とのつながりをかたい文体で示す。",
+          "example": "In this connection, the comments on page twelve are particularly useful.",
+          "translation": "この点に関連して、12ページのコメントが特に参考になる。"
+        },
+        {
+          "pattern": "have no connection with 〈対象〉",
+          "use": "二つの出来事などが無関係であると述べる。",
+          "example": "The delay had no connection with the software update.",
+          "translation": "その遅れは、ソフトウェアの更新とは関係がなかった。"
+        }
+      ],
+      "notes": [
+        "二つの対象を並列に示す基本形は between A and B で、between A with B ではない。with と to はどちらも使われ、with は相手との関係、to はつながる先・関与対象を示しやすいが、明確に排他的な区別ではない。connection with a company は会社との関係、connection to a network は語義2の通信接続になりやすい。in connection with は冠詞なしの定型表現で、in this connection、in that connection は「この点・その点に関連して」。報道の arrested in connection with 〈事件〉 は事件に関連して逮捕されたという意味で、有罪の確定を表さない。a connection は個別の関連、no connection、little connection では関係の有無・程度を述べられる。"
+      ],
+      "synonyms": [
+        {
+          "word": "link",
+          "definition": "人・物・事実などを結ぶ関連。",
+          "frequency": 9,
+          "difference": "connection に近く簡潔な語。連鎖の一部分や具体的な結び付けも指し、文脈なしでは因果関係を保証しない。",
+          "example": "The article examines the link between education and employment.",
+          "translation": "その記事は、教育と雇用の関連を検討している。"
+        },
+        {
+          "word": "relationship",
+          "definition": "二つ以上のものが互いにどのように関わるかという関係。",
+          "frequency": 9,
+          "difference": "関係の性質・構造・継続的なあり方に重点を置ける。connection はつながりの存在や接点を指しやすい。",
+          "example": "We need to understand the relationship between price and demand.",
+          "translation": "私たちは、価格と需要の関係を理解する必要がある。"
+        },
+        {
+          "word": "association",
+          "definition": "あるものが別のものと結び付いている関係。",
+          "frequency": 7,
+          "difference": "一緒に現れることや関与を指しやすく、統計・研究では原因であるという断定を避けて使うことがある。",
+          "example": "The study reports an association between the two variables.",
+          "translation": "その研究は、二つの変数の間の関連を報告している。"
+        },
+        {
+          "word": "correlation",
+          "definition": "二つの量や現象が対応して変動する関係。",
+          "frequency": 6,
+          "difference": "数量的・統計的な対応を表す語。connection のすべてが correlation とは限らず、correlation だけでも因果は確定しない。",
+          "example": "The data show a strong correlation between the two measures.",
+          "translation": "データは、二つの指標の間に強い相関があることを示している。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算／不可算】通信接続、電話・ネット回線",
+      "frequency": 8,
+      "register": [
+        "一般、電話、情報通信。"
+      ],
+      "definition": "電話・コンピューターなどが通信できるようにつながっていること、またはその通信経路・回線。a poor connection は通信品質が悪いことを表し、音声・映像の乱れや不安定さを含み得る。",
+      "patterns": [
+        "an internet connection＝インターネット接続・回線。",
+        "a connection to 〈ネットワーク・サーバー〉＝そこへの接続。",
+        "establish a connection＝通信接続を確立する。",
+        "lose the connection＝接続が切れる。",
+        "a poor connection＝通信状態の悪い接続。",
+        "connection to 〈通信サービス〉＝そのサービスへの接続という行為・状態。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an internet connection",
+          "use": "利用できるネット接続を指す。",
+          "example": "You need a stable internet connection to join the video meeting.",
+          "translation": "ビデオ会議に参加するには、安定したインターネット接続が必要だ。"
+        },
+        {
+          "pattern": "a connection to 〈サーバー〉",
+          "use": "接続先を特定する。",
+          "example": "The application could not establish a connection to the server.",
+          "translation": "アプリケーションは、サーバーへの接続を確立できなかった。"
+        },
+        {
+          "pattern": "establish a connection",
+          "use": "通信が可能な状態を作る。",
+          "example": "The device establishes a secure connection before sending the file.",
+          "translation": "その機器は、ファイルを送信する前に安全な接続を確立する。"
+        },
+        {
+          "pattern": "lose the connection",
+          "use": "通話・通信が途切れることを述べる。",
+          "example": "We lost the connection halfway through the call.",
+          "translation": "私たちは通話の途中で接続が切れた。"
+        },
+        {
+          "pattern": "a poor connection",
+          "use": "相手の声などを受信しにくい状態を述べる。",
+          "example": "Could you say that again? We have a poor connection.",
+          "translation": "もう一度言っていただけますか。通信状態がよくありません。"
+        },
+        {
+          "pattern": "connection to 〈通信サービス〉",
+          "use": "接続することを不可算で述べる。",
+          "example": "Connection to the office network requires authentication.",
+          "translation": "社内ネットワークへの接続には認証が必要だ。"
+        }
+      ],
+      "notes": [
+        "個別の回線・通信セッションなら a connection、接続する行為一般なら connection を不可算で使う。a connection to the internet が基本で、connect to the internet は動詞の構文。bad connection は通信品質を述べるもので、必ずケーブルの破損を意味するわけではない。connection speed は接続速度で、接続先のウェブサイトそのものを指さない。"
+      ],
+      "synonyms": [
+        {
+          "word": "link",
+          "definition": "二地点・二機器間の通信経路。",
+          "frequency": 7,
+          "difference": "経路や通信の結び付きに重点があり、satellite link などの形で使う。ウェブページの hyperlink という別義とは区別する。",
+          "example": "The team maintained a radio link with the base.",
+          "translation": "チームは、基地との無線通信を維持した。"
+        },
+        {
+          "word": "line",
+          "definition": "電話などの通信回線。",
+          "frequency": 7,
+          "difference": "特に電話回線を指す用法が定着している。connection はネットワークや無線を含む、つながっている状態も広く表す。",
+          "example": "The line went dead before I could answer.",
+          "translation": "私が返事をする前に、電話が切れた。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "disconnection",
+          "definition": "通信接続が切れること、切断すること。",
+          "frequency": 5,
+          "difference": "接続の有無という同じ軸で反対。回線の品質が低いだけの poor connection とは違い、つながりが失われる。",
+          "example": "An unexpected disconnection interrupted the upload.",
+          "translation": "予期しない切断によって、アップロードが中断された。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【名詞・不可算／可算】接続、接合部",
+      "frequency": 7,
+      "register": [
+        "一般、設備、電気、配管。"
+      ],
+      "definition": "配線・配管・機器などを物理的につなぐこと、つながっている状態。また、二つの部分をつなぐ箇所・部品。接続行為は不可算で使え、具体的な接合部は可算。",
+      "patterns": [
+        "connection to 〈供給設備〉＝その設備への接続。",
+        "a connection between 〈部品A〉 and 〈部品B〉＝両者の接続部。",
+        "a loose connection＝緩んだ接続部。",
+        "a pipe connection＝配管の接合部。",
+        "a connection fee＝接続のための料金。"
+      ],
+      "collocations": [
+        {
+          "pattern": "connection to 〈供給設備〉",
+          "use": "水道・ガスなどにつなぐ行為を指す。",
+          "example": "The building is ready for connection to the water supply.",
+          "translation": "その建物は、水道に接続する準備ができている。"
+        },
+        {
+          "pattern": "a connection between 〈部品A〉 and 〈部品B〉",
+          "use": "二つの部品が接する部分を示す。",
+          "example": "The technician inspected the connection between the cable and the socket.",
+          "translation": "技術者は、ケーブルと差込口の接続部を点検した。"
+        },
+        {
+          "pattern": "a loose connection",
+          "use": "固定が緩んだ接点・接合部を指す。",
+          "example": "A loose connection was causing the lamp to flicker.",
+          "translation": "接続部の緩みが、ランプのちらつきを引き起こしていた。"
+        },
+        {
+          "pattern": "a pipe connection",
+          "use": "配管同士などの接合部分を指す。",
+          "example": "Water was leaking from a pipe connection under the sink.",
+          "translation": "流しの下の配管の接合部から、水が漏れていた。"
+        },
+        {
+          "pattern": "a connection fee",
+          "use": "設備につなぐことに伴う料金を述べる。",
+          "example": "The estimate includes a connection fee for the new gas supply.",
+          "translation": "見積もりには、新たなガス供給への接続料金が含まれている。"
+        }
+      ],
+      "notes": [
+        "a faulty connection は接続箇所・接続状態に不具合があるという意味で、電気機器全体の故障と同義ではない。connection to the water supply の to は接続先、the connection between two pipes の between は両端を示す。接続部そのものと接続する行為を訳し分ける。無線でも使う語義2とは異なり、この語義では具体的な設備・部品の接合を述べる。"
+      ],
+      "synonyms": [
+        {
+          "word": "joint",
+          "definition": "二つの部材をつないだ箇所。",
+          "frequency": 7,
+          "difference": "物理的な合わせ目・継ぎ目に重点がある。connection のように接続行為や通信状態を広く指さない。",
+          "example": "The carpenter checked every joint in the frame.",
+          "translation": "大工は、枠のすべての継ぎ目を確認した。"
+        },
+        {
+          "word": "coupling",
+          "definition": "二つの部分を連結する部品、または連結。",
+          "frequency": 4,
+          "difference": "機械・配管などの特定の連結機構を指しやすい。connection はより広い接続の名称。",
+          "example": "The damaged coupling between the pipes was replaced.",
+          "translation": "管の間の傷んだ継手が交換された。"
+        },
+        {
+          "word": "junction",
+          "definition": "複数の線・経路などが交わり、つながる点。",
+          "frequency": 5,
+          "difference": "合流・分岐する場所に重点がある。connection は二部分が結ばれていることや接合部を広く表す。",
+          "example": "The cable junction is inside the protective box.",
+          "translation": "ケーブルの接続点は、保護箱の中にある。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・可算／不可算】心のつながり、親近感",
+      "frequency": 7,
+      "register": [
+        "一般、人間関係、文化。"
+      ],
+      "definition": "相手に理解・共感・親しみを感じる心理的な結び付き。人との関係だけでなく、土地・文化・自然などへの愛着にも使う。強い恋愛感情や相互の同意が必須ではない。",
+      "patterns": [
+        "a connection with someone＝その人との心のつながり。",
+        "a connection to 〈土地・文化・対象〉＝その対象への親近感・結び付き。",
+        "an emotional connection＝感情的なつながり。",
+        "a sense of connection＝つながっているという感覚。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a connection with someone",
+          "use": "人に理解・共感を感じることを述べる。",
+          "example": "I felt a connection with the other volunteers from our first meeting.",
+          "translation": "最初に会ったときから、私はほかのボランティアたちに親近感を覚えた。"
+        },
+        {
+          "pattern": "a connection to 〈土地〉",
+          "use": "場所への愛着を述べる。",
+          "example": "She still feels a deep connection to the village where she grew up.",
+          "translation": "彼女は今も、育った村に深い心のつながりを感じている。"
+        },
+        {
+          "pattern": "an emotional connection",
+          "use": "感情面での結び付きを明示する。",
+          "example": "The letters reveal the emotional connection between the two friends.",
+          "translation": "手紙からは、その二人の友人の間の感情的な結び付きがうかがえる。"
+        },
+        {
+          "pattern": "a sense of connection",
+          "use": "孤立していないという感覚を述べる。",
+          "example": "Sharing stories gave the group a sense of connection.",
+          "translation": "体験を語り合うことで、グループの人々につながっているという感覚が生まれた。"
+        }
+      ],
+      "notes": [
+        "a connection は一つの心理的な結び付き、a sense of connection の connection は抽象的な状態。I felt a connection. だけでは恋愛関係・交際成立を意味しない。connection to nature のように、人でない対象にも使う。語義1の事実上の関連と違い、この用法は感じ方・共感が中心。with と to の選択だけで、心理的な関係かどうかが機械的に決まるわけではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "bond",
+          "definition": "人と人などを結び付ける強い関係。",
+          "frequency": 7,
+          "difference": "比較的強く持続する結び付きを意識させる。connection は初対面で感じた軽い親近感にも使える。",
+          "example": "Working together created a strong bond between the teammates.",
+          "translation": "一緒に働くことで、チームの仲間の間に強い絆が生まれた。"
+        },
+        {
+          "word": "rapport",
+          "definition": "互いに理解し、気持ちよくやり取りできる関係。",
+          "frequency": 6,
+          "difference": "人同士の意思疎通・相互理解に重点がある。土地や自然への connection にはそのまま置き換えにくい。",
+          "example": "The teacher quickly established a rapport with the class.",
+          "translation": "教師はすぐに、クラスの生徒たちと打ち解けた関係を築いた。"
+        },
+        {
+          "word": "affinity",
+          "definition": "人・物に自然に感じる親しみや共通性。",
+          "frequency": 5,
+          "difference": "相性・似通った性質・惹かれる傾向を示しやすい。connection は交流の結果として生まれる結び付きにも使う。",
+          "example": "He has always felt an affinity with coastal communities.",
+          "translation": "彼は以前から、沿岸地域の人々に親しみを感じてきた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞・可算、通常複数形】人脈、知り合い、縁故関係者",
+      "frequency": 7,
+      "register": [
+        "一般、仕事、人間関係。"
+      ],
+      "definition": "仕事・社会生活などでつながりのある人々。特に紹介・情報・協力などの助けになり得る知人を指すことが多い。親族や婚姻を通じた関係者も含められるが、必ず有力者や不正な便宜供与者であるわけではない。",
+      "patterns": [
+        "have connections in 〈業界・組織〉＝そこに知り合い・人脈がある。",
+        "use one's connections＝自分の人脈を活用する。",
+        "through a connection＝知り合いを通じて。",
+        "business connections＝仕事上の知り合い。",
+        "family connections＝親族・家族を通じたつながり。"
+      ],
+      "collocations": [
+        {
+          "pattern": "have connections in 〈業界〉",
+          "use": "特定分野に知り合いがいることを述べる。",
+          "example": "Maria has connections in the publishing industry.",
+          "translation": "マリアには出版業界の人脈がある。"
+        },
+        {
+          "pattern": "use one's connections",
+          "use": "紹介・情報などのために知り合いを頼る。",
+          "example": "He used his connections to find an experienced translator.",
+          "translation": "彼は経験豊かな翻訳者を探すために、人脈を活用した。"
+        },
+        {
+          "pattern": "through a connection",
+          "use": "一人の知り合いが紹介の仲介をする場合。",
+          "example": "I heard about the vacancy through a connection at the company.",
+          "translation": "私は、その会社にいる知り合いを通じて求人のことを知った。"
+        },
+        {
+          "pattern": "business connections",
+          "use": "仕事上の知り合いをまとめて指す。",
+          "example": "The conference helped her develop new business connections.",
+          "translation": "その会議は、彼女が新たな仕事上の人脈を築くのに役立った。"
+        },
+        {
+          "pattern": "family connections",
+          "use": "親族・家族を通じた人のつながりを述べる。",
+          "example": "Through family connections, she met relatives she had never known about.",
+          "translation": "家族のつながりを通じて、彼女はそれまで存在を知らなかった親戚に会った。"
+        }
+      ],
+      "notes": [
+        "人脈全体は複数形 connections が普通で、He has connections. は「彼には人脈がある」。ただし a connection at the firm のように一人を指す単数形も可能。人々を指すのか、人との関係を指すのかは、会う・紹介するといった周囲の表現で判断する。good connections は役立つ人脈という意味になりやすく、「人格のよい友人」という意味に限定されない。縁故の利用を批判する文脈にも出るが、connection 自体に常に不正という評価はない。"
+      ],
+      "synonyms": [
+        {
+          "word": "contact",
+          "definition": "情報交換や仕事などで連絡を取れる知り合い。",
+          "frequency": 8,
+          "difference": "実務的な連絡先・接点に重点がある。connection は人脈の影響力や親族のつながりまで含められる。",
+          "example": "A contact in the industry recommended the workshop.",
+          "translation": "業界の知り合いが、その研修会を勧めてくれた。"
+        },
+        {
+          "word": "acquaintance",
+          "definition": "知っているが、必ずしも親しい友人ではない人。",
+          "frequency": 6,
+          "difference": "面識の程度を表し、助けになる人脈という含みはない。",
+          "example": "An acquaintance from college sent me the article.",
+          "translation": "大学時代の知り合いが、その記事を送ってくれた。"
+        },
+        {
+          "word": "network",
+          "definition": "互いにつながりのある人々の集まり。",
+          "frequency": 7,
+          "difference": "人の関係の集合・広がりを一つの仕組みとして捉える。a connection はその中の一人や一つの関係を指せる。",
+          "example": "The programme helped graduates build a professional network.",
+          "translation": "そのプログラムは、卒業生が仕事上の人脈を築くのに役立った。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【名詞・可算】乗継ぎ、接続便",
+      "frequency": 7,
+      "register": [
+        "一般、旅行、交通案内。"
+      ],
+      "definition": "ある列車・バス・飛行機などを降りて、続けて次の便に乗ることや、その乗継ぎの機会。また、その際に乗る次の便自体。旅程をつなぐという点が中心で、旅客本人を指す語ではない。",
+      "patterns": [
+        "make a connection＝乗継ぎに間に合う・乗継ぎをする。",
+        "miss one's connection＝乗継便に乗り遅れる。",
+        "a connection to 〈目的地〉＝その目的地へ向かう接続便。",
+        "a connection at 〈駅・空港〉＝そこでの乗継ぎ。",
+        "a tight connection＝乗継時間に余裕のない接続。",
+        "a connection between 〈便A〉 and 〈便B〉＝両便間の乗継ぎ。"
+      ],
+      "collocations": [
+        {
+          "pattern": "make a connection",
+          "use": "次の便に間に合ったことを述べる。",
+          "example": "We ran to the next platform and just made our connection.",
+          "translation": "私たちは次のホームへ走り、ぎりぎり乗継便に間に合った。"
+        },
+        {
+          "pattern": "miss one's connection",
+          "use": "次の便に乗れなかったことを述べる。",
+          "example": "The delayed train caused me to miss my connection.",
+          "translation": "列車の遅延で、私は乗継便に乗り遅れた。"
+        },
+        {
+          "pattern": "a connection to 〈目的地〉",
+          "use": "次に乗る便の行き先を示す。",
+          "example": "Our connection to Edinburgh leaves from platform four.",
+          "translation": "私たちが乗り継ぐエディンバラ行きの列車は、4番ホームから出発する。"
+        },
+        {
+          "pattern": "a connection at 〈空港〉",
+          "use": "乗継地点を示す。",
+          "example": "The journey involves a connection at Frankfurt Airport.",
+          "translation": "その旅程では、フランクフルト空港での乗継ぎが必要になる。"
+        },
+        {
+          "pattern": "a tight connection",
+          "use": "便と便の間に余裕が少ないことを述べる。",
+          "example": "I would rather avoid a tight connection when travelling with heavy bags.",
+          "translation": "重い荷物を持って旅行するときは、乗継時間に余裕のない便は避けたい。"
+        },
+        {
+          "pattern": "a connection between 〈便A〉 and 〈便B〉",
+          "use": "どの便同士を乗り継ぐか示す。",
+          "example": "The timetable allows a connection between the airport bus and the evening train.",
+          "translation": "その時刻表では、空港バスから夕方の列車へ乗り継げるようになっている。"
+        }
+      ],
+      "notes": [
+        "make a connection は文脈によって「関連に気付く」（語義1）や「通信接続を作る」（語義2）にもなる。乗継義では駅・便・出発時刻などが手掛かり。my connection は「私の接続便」で、私自身や迎えに来る人を指さない。connection to Paris はパリへ向かう次の便、connection at Paris はパリで行う乗継ぎ。tight connection は時間に余裕が少ないという評価で、航空会社の最低乗継時間や補償条件を語だけで定めるものではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "transfer",
+          "definition": "一つの車両・便から別の車両・便へ移ること。",
+          "frequency": 7,
+          "difference": "乗り物を移る行為に重点がある。connection は便同士の接続、間に合う機会、次に乗る便まで指せる。",
+          "example": "The route requires one transfer at Central Station.",
+          "translation": "その経路では、中央駅で1回乗り換える必要がある。"
+        },
+        {
+          "word": "connecting flight",
+          "definition": "途中の空港で乗り継ぐ次の航空便。",
+          "frequency": 7,
+          "difference": "航空機の次の便だと明示する。connection は鉄道・バスにも使え、乗継ぎそのものも指す。",
+          "example": "The connecting flight departs two hours after we land.",
+          "translation": "乗継便は、私たちが着陸する2時間後に出発する。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【名詞・可算、複数形が多い】交通の便、連絡経路",
+      "frequency": 6,
+      "register": [
+        "旅行案内、交通、都市・不動産の説明。"
+      ],
+      "definition": "ある場所を別の場所と結ぶ道路・鉄道・航空路線などの交通上のつながり。good connections は、その場所からほかの場所へ移動しやすいことを表す。",
+      "patterns": [
+        "rail connections to 〈場所〉＝その場所へつながる鉄道の便。",
+        "air connections with 〈地域〉＝その地域との航空路線のつながり。",
+        "good transport connections＝交通の便のよさ。",
+        "a direct connection between 〈場所A〉 and 〈場所B〉＝両地点間の直接の交通連絡。"
+      ],
+      "collocations": [
+        {
+          "pattern": "rail connections to 〈場所〉",
+          "use": "ある場所へ鉄道で行けることを説明する。",
+          "example": "The town has regular rail connections to the capital.",
+          "translation": "その町から首都へは、定期的な鉄道の便がある。"
+        },
+        {
+          "pattern": "air connections with 〈地域〉",
+          "use": "地域間の航空路線のつながりを述べる。",
+          "example": "The airport offers good air connections with neighbouring countries.",
+          "translation": "その空港は、近隣諸国との航空便が充実している。"
+        },
+        {
+          "pattern": "good transport connections",
+          "use": "立地の移動しやすさを評価する。",
+          "example": "The business park benefits from good transport connections.",
+          "translation": "そのビジネスパークは、交通の便のよさという利点を持つ。"
+        },
+        {
+          "pattern": "a direct connection between 〈場所A〉 and 〈場所B〉",
+          "use": "乗換えなどを挟まず結ぶ路線を示す。",
+          "example": "The new bus route provides a direct connection between the station and the hospital.",
+          "translation": "新しいバス路線は、駅と病院を直接結ぶ。"
+        }
+      ],
+      "notes": [
+        "excellent rail connections は鉄道の便の充実であり、旅客が何度も乗り換えるという意味ではない。語義6の connection は一つの旅程で次の便へつなぐこと、この語義は場所同士の交通上の結び付き。direct connection は直接結ぶことを表すが、何が「直接」なのかは路線・運行の説明で確認する。"
+      ],
+      "synonyms": [
+        {
+          "word": "transport link",
+          "definition": "場所同士を結ぶ交通経路・交通サービス。",
+          "frequency": 6,
+          "difference": "地点間をつなぐ道路・路線などを明示する。connection は個別の乗継ぎにも使われるため、文脈による区別が必要。",
+          "example": "Better transport links would help local businesses.",
+          "translation": "交通網が改善されれば、地元企業の助けになるだろう。"
+        },
+        {
+          "word": "access",
+          "definition": "ある場所へ到達できること、到達のしやすさ。",
+          "frequency": 8,
+          "difference": "到達可能性を広く表し、具体的な連絡便や経路そのものに限定しない。",
+          "example": "The hotel offers easy access to the airport.",
+          "translation": "そのホテルからは、空港へ簡単に行ける。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【名詞・可算】非合法な品などの入手先",
+      "frequency": 2,
+      "register": [
+        "俗語、犯罪を扱う小説・会話。特に米語。"
+      ],
+      "definition": "違法薬物など、手に入れにくい物を供給する人物・取引上の相手を指す俗語。一般の知り合いという意味から、特定の入手先という意味へ限定される。",
+      "patterns": [
+        "a drug connection＝違法薬物の入手先となる人物。",
+        "someone's connection＝その人に非合法な品などを供給する相手。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a drug connection",
+          "use": "犯罪の文脈で供給する人物を指す。",
+          "example": "In the novel, the detective identifies the suspect's drug connection.",
+          "translation": "その小説では、刑事が容疑者の薬物の入手先を突き止める。"
+        }
+      ],
+      "notes": [
+        "a drug connection は薬物との抽象的な関連ではなく、供給者を指す文脈で使われる。通常の business connections を、この犯罪上の意味で解釈しない。人脈の用法と違って単数形も自然で、周囲に drug、supplier などの手掛かりが必要になる。"
+      ],
+      "synonyms": [
+        {
+          "word": "dealer",
+          "definition": "この用法では、違法薬物を売る人。",
+          "frequency": 6,
+          "difference": "売買する役割を直接表す。connection は利用者側から見た入手先・つながりに焦点がある。dealer には合法商品の販売業者という別義もある。",
+          "example": "The story follows an investigation into a local drug dealer.",
+          "translation": "その物語は、地元の薬物密売人をめぐる捜査を描いている。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

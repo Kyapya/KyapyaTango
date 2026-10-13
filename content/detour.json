@@ -1,0 +1,403 @@
+{
+  "word": "detour",
+  "slug": "detour",
+  "ipa": "米: /ˈdiːtʊr/｜英: /ˈdiːtʊə/。いずれも基本的に2音節で、第1音節に主強勢がある。第1音節 /diː/ は共通で、第2音節は米語では /tʊr/、ここに示した英語では /tʊə/ となり、母音の質と語末の /r/ に差がある。英語には第2音節を /tɔː/ とする /ˈdiːtɔː/ もある。母音で始まる語が続く場合、英語でも連結の /r/ が現れることがある。",
+  "lead": "通常の道や最短の道から外れて通る経路、またはそのように回って行くこと。工事や障害を避ける場合にも、店や名所に立ち寄るために自分から回る場合にも使う。予定外の余計な遠回りという含みが出ることはあるが、不本意・無駄であることは必須ではない。北米の道路案内では、通行止めに伴う指定迂回路も表す。",
+  "updated": "2026-10-13",
+  "notion_url": "https://app.notion.com/p/detour-3f84faa9b77d8174bb7fde6044e5fbba",
+  "pronunciation": [
+    "名詞と動詞で基本の発音は同じ。米語には第2音節に主強勢を置く /dɪˈtʊr/ という変異もあるが、名詞と動詞を必ず強勢で区別する語ではない。"
+  ],
+  "etymology": [
+    "フランス語 détour「方向の変更、回り道」から入った語。détourner「向きをそらす」に由来し、その語源には「離す」要素と「向きを変える」要素がある。通常の進路から向きを変えるという意味が、移動にも話の流れにも使われる。",
+    "tour「周遊、見学」と turn「向きを変える」は、いずれも「回す」に関係する語源を持つ同族の語。英語の detour は「旅行を取り消す」という de- + tour の現代的な組み合わせではない。"
+  ],
+  "formation": [
+    {
+      "term": "detours",
+      "description": "名詞の複数形「複数の回り道」、または動詞の三人称単数現在形「迂回する・させる」。文中での働きを区別する。"
+    },
+    {
+      "term": "detoured",
+      "description": "過去形・過去分詞。「迂回した、迂回させられた」。detoured traffic は迂回させられた交通を表し、独立した主要な人物評価の形容詞ではない。"
+    },
+    {
+      "term": "detouring",
+      "description": "現在分詞・動名詞。「迂回している、迂回すること」。detouring around the closure「通行止めの箇所を迂回して」。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "「直接の道筋や通常の進め方から、いったん別の道筋へ回る」。自分が回る場合、交通を回す場合、避ける対象に焦点を当てる場合で、名詞・動詞の構造が変わる。"
+    },
+    {
+      "type": "item",
+      "text": "別の道筋へ回る実際の経路・移動 → 「回り道、迂回路、寄り道」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "別の道筋へ回る話題・経歴の展開 → 「回り道、一時的な脱線」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "別の道筋へ回る人・乗り物の行動 → 「迂回する、寄り道する」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "別の道筋へ回るよう交通を導くこと → 「迂回させる」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "別の道筋へ回ることで障害を避けること → 「迂回して避ける」（語義5）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算】回り道、迂回路、寄り道",
+      "frequency": 6,
+      "register": [
+        "日常、交通、旅行。一般的な「回り道」は米英共通。通行止め時の指定迂回路を指す道路案内では米語 detour、英語 diversion の対照が重要。"
+      ],
+      "definition": "通常の道や最短の道から外れて通る経路、またはそのように回って行くこと。工事や障害を避ける場合にも、店や名所に立ち寄るために自分から回る場合にも使う。予定外の余計な遠回りという含みが出ることはあるが、不本意・無駄であることは必須ではない。北米の道路案内では、通行止めに伴う指定迂回路も表す。",
+      "patterns": [
+        "take a detour＝回り道をする",
+        "make a detour＝回り道をする",
+        "a detour around 〈障害物・区間〉＝そこを避けて回る迂回路・移動",
+        "a detour through 〈経由地〉＝そこを通る回り道",
+        "a detour to 〈立ち寄り先〉＝そこへ寄るための回り道",
+        "a detour from 〈通常の経路〉＝その経路から外れる回り道",
+        "follow the detour＝指定の迂回路に従う",
+        "be worth a detour＝回り道をして訪れる価値がある。"
+      ],
+      "collocations": [
+        {
+          "pattern": "take a detour around 〈障害物〉",
+          "use": "障害を避けるために別の経路を通る。",
+          "example": "We took a detour around the closed bridge.",
+          "translation": "私たちは閉鎖された橋を避けて迂回した。"
+        },
+        {
+          "pattern": "make a detour to 〈立ち寄り先〉",
+          "use": "目的の場所に寄るために通常の道を外れる。",
+          "example": "We made a detour to a bakery before continuing to the station.",
+          "translation": "私たちは駅へ向かう途中、少し回り道をしてパン屋に寄った。"
+        },
+        {
+          "pattern": "a detour through 〈経由地〉",
+          "use": "回り道がどの場所を通るかを示す。",
+          "example": "The detour through the village added ten minutes to the journey.",
+          "translation": "村を通る迂回路を取ったことで、移動時間が10分延びた。"
+        },
+        {
+          "pattern": "a detour from 〈通常の経路〉",
+          "use": "どこから道を外れるかを示す。",
+          "example": "The hotel requires only a short detour from the main road.",
+          "translation": "そのホテルへは、幹線道路から少し回り道をするだけで行ける。"
+        },
+        {
+          "pattern": "follow the detour",
+          "use": "道路案内の指定迂回路を通る。",
+          "example": "Follow the detour until you rejoin the highway.",
+          "translation": "幹線道路に戻るまで、指定の迂回路に従って進んでください。"
+        },
+        {
+          "pattern": "be worth a detour",
+          "use": "わざわざ回ってでも訪れる価値を述べる。",
+          "example": "The garden is worth a detour, especially in spring.",
+          "translation": "その庭園は、特に春には、回り道をしてでも訪れる価値がある。"
+        }
+      ],
+      "notes": [
+        "take a detour と make a detour はどちらも自然な結合。特定の道が分かっていれば take the detour、follow the detour とする。名詞なので通常単数には a/the などが必要で、誤: We took detour. → 正: We took a detour.。",
+        "around は避ける対象、through は途中に通る場所、to は寄る先、from は離れる元の経路を表す。「回り道」は移動時間を増やすことが多いが、渋滞を避けるため、結果として早く着く場合もある。必ず到着が遅れるという定義にはしない。",
+        "英語でも a detour to a café のような一般の寄り道は使う。「detour はすべて米語」と覚えない。英国の通行止め標識の diversion との対照は、指定迂回路という使い方についてのもの。迂回路を示す標識の DETOUR という裸の形は、通常の文章で冠詞を省けることを意味しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "diversion",
+          "definition": "通常の道路が使えない場合に通る指定迂回路。",
+          "frequency": 5,
+          "difference": "この道路案内の意味では主に英国英語。一般的な寄り道や気晴らしなど別の意味もあるため、どの意味かを確認する。",
+          "example": "A signed diversion takes drivers around the roadworks.",
+          "translation": "標識のある迂回路が、道路工事の区間を避けるよう運転者を導いている。"
+        },
+        {
+          "word": "roundabout route",
+          "definition": "目的地へ直接向かわず、遠回りになる経路。",
+          "frequency": 5,
+          "difference": "道筋が間接的であることを説明する。detour のように、いつもの道から一時的に外れる事情が必ず意識されるわけではない。",
+          "example": "We reached the farm by a roundabout route through the hills.",
+          "translation": "私たちは丘を通る遠回りの道で農場に着いた。"
+        },
+        {
+          "word": "side trip",
+          "definition": "主な旅行の途中で、別の場所へ足を延ばす短い旅行。",
+          "frequency": 5,
+          "difference": "観光などの追加の訪問に重点がある。障害を避けるだけの迂回には普通使わない。",
+          "example": "We took a side trip to a nearby island during our holiday.",
+          "translation": "休暇中、私たちは近くの島へも足を延ばした。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算】回り道、一時的な脱線",
+      "frequency": 5,
+      "register": [
+        "評論、説明、会話、経歴の記述。物理的な回り道からの比喩。"
+      ],
+      "definition": "話題・説明・経歴・計画などが、主な流れや予想した進み方からいったん外れること。話なら「脱線、寄り道」、経歴なら「回り道」。本筋に戻る見方を伴いやすいが、寄り道が有益であったり、その後の進路を変えたりすることもある。失敗そのものを意味しない。",
+      "patterns": [
+        "a detour into 〈別の話題・分野〉＝その話題・分野への一時的な寄り道",
+        "a detour from 〈主な流れ・計画〉＝そこから外れる回り道",
+        "a brief detour＝短い脱線・寄り道",
+        "a career detour＝経歴上の回り道。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a detour into 〈別の話題〉",
+          "use": "本筋の説明から別の話へ移る。",
+          "example": "The lecture included a detour into the history of mapmaking.",
+          "translation": "その講義には、地図製作の歴史へ話を広げる寄り道があった。"
+        },
+        {
+          "pattern": "a detour from 〈計画〉",
+          "use": "当初の進め方から外れることを述べる。",
+          "example": "The temporary job proved to be a useful detour from her original career plan.",
+          "translation": "その臨時の仕事は、結果的に彼女の当初のキャリアプランからの有益な回り道になった。"
+        },
+        {
+          "pattern": "a brief detour",
+          "use": "短く本題を離れることを示す。",
+          "example": "Before explaining the results, let me take a brief detour into the method.",
+          "translation": "結果を説明する前に、少し寄り道して方法についてお話しさせてください。"
+        },
+        {
+          "pattern": "a career detour",
+          "use": "職歴が一直線に進まなかったことを表す。",
+          "example": "After a career detour into retail, he returned to teaching.",
+          "translation": "小売業への職歴上の回り道を経て、彼は教職に戻った。"
+        }
+      ],
+      "notes": [
+        "a detour into history では history が話の分野、a detour through a village では village が実際の経由地。前置詞だけで比喩かどうかが決まるわけではなく、後ろの名詞と文脈で判断する。",
+        "digression は話・文章の脱線に特に合う。detour は経歴や学習の過程にも広く使える。unnecessary detour と言えば無駄な脱線だが、a useful detour のように肯定的にも評価できるため、「間違った道へ進む」と固定しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "digression",
+          "definition": "話や文章が本題を離れて別の内容に移ること。",
+          "frequency": 5,
+          "difference": "発話・文章に焦点があり、detour のように職歴や人生の経路を広く表すとは限らない。",
+          "example": "The editor removed a long digression about the author's childhood.",
+          "translation": "編集者は、著者の子ども時代についての長い脱線部分を削った。"
+        },
+        {
+          "word": "deviation",
+          "definition": "予定・基準・通常の経路から外れること。",
+          "frequency": 6,
+          "difference": "規範や基準との差にも広く使い、一時的な寄り道や本筋への復帰を特に含まない。",
+          "example": "This approach is a significant deviation from our original plan.",
+          "translation": "この進め方は、当初の計画から大きく外れている。"
+        },
+        {
+          "word": "tangent",
+          "definition": "話の本筋と関連の薄い方向への脱線。",
+          "frequency": 5,
+          "difference": "go off on a tangent などで使い、detour より本題とのつながりの薄さを感じさせやすい。",
+          "example": "The discussion went off on a tangent about office furniture.",
+          "translation": "議論は、オフィス家具の話へと脱線した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞・自動詞】迂回する、寄り道する",
+      "frequency": 5,
+      "register": [
+        "移動・交通、比喩的な説明。動詞用法は特に北米英語で使われる。"
+      ],
+      "definition": "人・乗り物などが、通常の経路や直接の道筋を外れて別の道を通る。障害回避にも自発的な立ち寄りにも使う。話や説明が別の話題へ回る比喩用法もある。この構文では、主語自身が道筋を変え、直接目的語は取らない。",
+      "patterns": [
+        "someone + detour around 〈避ける対象〉＝その対象を回って避ける",
+        "someone + detour through 〈経由地〉＝その場所を通って回り道する",
+        "someone + detour to 〈立ち寄り先〉＝その場所へ寄り道する",
+        "someone + detour via 〈経由地〉＝その場所経由で迂回する",
+        "〈説明・議論〉 + detour into 〈別の話題〉＝その話題へ脱線する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "detour around 〈避ける対象〉",
+          "use": "自分が障害の周囲へ回る。",
+          "example": "We detoured around the flooded section of the trail.",
+          "translation": "私たちは遊歩道の冠水した区間を迂回した。"
+        },
+        {
+          "pattern": "detour through 〈経由地〉",
+          "use": "回り道で通る場所を示す。",
+          "example": "The bus detoured through a residential area.",
+          "translation": "バスは住宅地を通って迂回した。"
+        },
+        {
+          "pattern": "detour to 〈立ち寄り先〉",
+          "use": "途中で別の目的地へ寄る。",
+          "example": "We detoured to the market to buy some fruit.",
+          "translation": "私たちは果物を買うため、市場に寄り道した。"
+        },
+        {
+          "pattern": "detour via 〈経由地〉",
+          "use": "迂回の経由地点を明示する。",
+          "example": "Drivers must detour via the next exit while the ramp is closed.",
+          "translation": "ランプが閉鎖されている間、運転者は次の出口経由で迂回しなければならない。"
+        },
+        {
+          "pattern": "〈説明・議論〉 + detour into 〈別の話題〉",
+          "use": "話の流れが一時的に別の分野へ移る。",
+          "example": "The discussion detoured into local history before returning to the transport plan.",
+          "translation": "議論は地域の歴史へ寄り道してから、交通計画の話に戻った。"
+        }
+      ],
+      "notes": [
+        "We detoured around the closure. は「私たちが迂回した」という自動詞構文。The police detoured us around the closure. は語義4で「警察が私たちを迂回させた」。主語と目的語が誰なのかを混同しない。",
+        "名詞構文 We took a detour. と動詞構文 We detoured. はどちらも使える。英語で一般的な寄り道を述べるとき、take/make a detour は地域差を意識せず使いやすい。detour の後の around、through、to は経路の情報を足す前置詞であり、detour up のように別の小辞を自由に付けて句動詞を作るわけではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "go around",
+          "definition": "障害などを避け、周囲を回って進む。",
+          "frequency": 8,
+          "difference": "日常的で幅広い表現。detour は通常の経路からの変更や回り道をより明確に意識させる。",
+          "example": "We went around the fallen tree and continued walking.",
+          "translation": "私たちは倒木をよけて回り、歩き続けた。"
+        },
+        {
+          "word": "take the long way",
+          "definition": "目的地へ長い方の道を通って行く。",
+          "frequency": 6,
+          "difference": "長い経路を選ぶ点に焦点があり、障害や立ち寄り先は必須ではない。detour は通常の道から外れることが中心。",
+          "example": "We took the long way home to enjoy the view.",
+          "translation": "景色を楽しむため、私たちは遠回りして帰った。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞・他動詞】迂回させる",
+      "frequency": 4,
+      "register": [
+        "特に北米英語の交通案内・報道。一般的な表現として divert、reroute もよく使う。"
+      ],
+      "definition": "交通・車両・運転者などを、通常とは別の経路に回す。主語は警察・道路管理者・案内システムなど、迂回を生じさせる側。直接目的語は回される交通や人であり、避ける障害物ではない。",
+      "patterns": [
+        "detour traffic around 〈障害・閉鎖区間〉＝交通をその区間の周囲へ迂回させる",
+        "detour 〈車両・人〉 onto 〈別の道路〉＝車両・人をその道路へ回す",
+        "detour 〈車両・人〉 via 〈経由地〉＝その経由地を通るよう迂回させる",
+        "〈交通・車両〉 + be detoured to 〈別の道路・出口〉＝その道路・出口へ迂回させられる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "detour traffic around 〈閉鎖区間〉",
+          "use": "迂回させる交通を目的語にする。",
+          "example": "Police detoured traffic around the closed tunnel.",
+          "translation": "警察は、閉鎖されたトンネルを避けるよう交通を迂回させた。"
+        },
+        {
+          "pattern": "detour 〈車両〉 onto 〈別の道路〉",
+          "use": "車両を別の道路へ回す。",
+          "example": "The signs detour trucks onto the bypass.",
+          "translation": "その標識は、トラックをバイパスへ迂回させるよう案内している。"
+        },
+        {
+          "pattern": "detour 〈車両〉 via 〈経由地〉",
+          "use": "迂回させる車両の経由地点を示す。",
+          "example": "The city will detour buses via Central Avenue during the parade.",
+          "translation": "市はパレードの間、バスをセントラル通り経由に迂回させる。"
+        },
+        {
+          "pattern": "be detoured to 〈道路・出口〉",
+          "use": "交通案内で、回される側を主語にする。",
+          "example": "Northbound traffic will be detoured to the next exit.",
+          "translation": "北行きの交通は、次の出口へ迂回させられます。"
+        }
+      ],
+      "notes": [
+        "detour the drivers は「運転者を迂回させる」。語義5の detour the obstacle は「障害物を回って避ける」で、目的語の役割が逆になる。誤解を避けるには detour traffic around the obstacle と完全な形を示す。",
+        "受動の Traffic was detoured. は、交通が別の経路へ回されたことを表す。人が自発的に寄り道しただけなら We detoured to the shop. のような自動詞構文であり、受動にする必要はない。"
+      ],
+      "synonyms": [
+        {
+          "word": "divert",
+          "definition": "交通や流れを、本来とは別の方向に向ける。",
+          "frequency": 7,
+          "difference": "交通の迂回に広く使い、米英双方で一般的。水・注意などの方向変更にも使うが、detour は経路の回り道を中心とする。",
+          "example": "The authorities diverted traffic away from the damaged road.",
+          "translation": "当局は、損傷した道路から交通を別の方向へ向けた。"
+        },
+        {
+          "word": "reroute",
+          "definition": "車両・交通などの経路を別の経路へ変更する。",
+          "frequency": 6,
+          "difference": "ルート変更そのものを表し、遠回りになるとは限らない。detour では通常の道を外れて回る点が目立つ。",
+          "example": "The airline rerouted the flight through another hub.",
+          "translation": "航空会社は、その便を別の拠点空港経由に変更した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【動詞・他動詞】迂回して避ける",
+      "frequency": 3,
+      "register": [
+        "主に北米英語。自動詞 detour around や他動詞 bypass に比べ、学習者が自分で使う場面は限られるが、交通記事などの読解で有用。"
+      ],
+      "definition": "障害となる場所や区間を、周囲へ回ることで避ける。直接目的語が避ける対象になる用法。交通を別経路へ送る語義4とは、主語・目的語の役割が異なる。",
+      "patterns": [
+        "detour 〈障害となる場所・区間〉＝その場所・区間を迂回して避ける。"
+      ],
+      "collocations": [
+        {
+          "pattern": "detour the accident site",
+          "use": "回る交通ではなく、避ける現場を目的語にする。",
+          "example": "Drivers detoured the accident site by using local roads.",
+          "translation": "運転者たちは一般道を利用して、事故現場を迂回した。"
+        },
+        {
+          "pattern": "detour the blocked section",
+          "use": "進めない区間を直接目的語にする。",
+          "example": "The convoy detoured the blocked section and rejoined the main route farther north.",
+          "translation": "車列は通行できない区間を迂回し、さらに北で本来の経路に戻った。"
+        }
+      ],
+      "notes": [
+        "Drivers detoured the accident site. は「運転者が事故現場を避けた」。The police detoured drivers. は「警察が運転者を迂回させた」。同じ他動詞でも目的語の種類が異なるため、「detour + 名詞＝迂回させる」だけでは読めない。",
+        "自分で明確に述べるなら detour around the accident site または bypass the accident site も使える。事故現場そのものを移動させた、という意味ではない。この用法を根拠に、あらゆる避けたい抽象物を自然に目的語にできるとは考えない。"
+      ],
+      "synonyms": [
+        {
+          "word": "bypass",
+          "definition": "場所や障害を通らず、その周囲を回って避ける。",
+          "frequency": 6,
+          "difference": "この他動詞義では detour より広く使われ、避ける対象を直接目的語に取ることが明確。手順の省略などの比喩にも使う。",
+          "example": "The new road bypasses the town centre.",
+          "translation": "新しい道路は町の中心部を迂回している。"
+        },
+        {
+          "word": "circumvent",
+          "definition": "障害の周囲を回って避ける。",
+          "frequency": 4,
+          "difference": "物理的な迂回にも使えるが、detour より改まっており、規則や問題をうまく避ける比喩で特に多い。",
+          "example": "The hikers circumvented the flooded area.",
+          "translation": "ハイカーたちは冠水した場所を回って避けた。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
