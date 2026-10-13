@@ -1,0 +1,319 @@
+{
+  "word": "agenda",
+  "slug": "agenda",
+  "ipa": "米・英: /əˈdʒen.də/",
+  "lead": "会議で何を話し合い、どのような項目を扱うかをまとめた一覧・進行上の計画。各項目の順序や時間を含むこともあるが、時刻表であることは必須でない。日本語では文脈により「議題」とも訳すが、通常は一つの論点ではなく一覧全体を指す。",
+  "updated": "2026-10-13",
+  "notion_url": "https://app.notion.com/p/agenda-3f84faa9b77d814291d1c88d10f9b104",
+  "pronunciation": [
+    "3音節で、第2音節に主強勢を置く。第1・第3音節の母音は弱い /ə/。複数形 agendas の語尾は /z/ となる。"
+  ],
+  "etymology": [
+    "ラテン語 agere「行う」の動形容詞 agendum「なされるべきこと」の複数形 agenda に由来する。語源上は「すべき事柄」だが、現代英語では一まとまりの議題や方針を表す単数の可算名詞として扱うのが普通で、複数形は agendas。",
+    "agent「行為者、代理人」と action「行動」も agere の系統に属する。語源の複数性と、現代英語の The agenda is ... という数一致を混同しない。"
+  ],
+  "formation": [
+    {
+      "term": "agenda item",
+      "description": "複合名詞。「議題の一項目」。議題一覧全体を表す agenda と区別する。"
+    },
+    {
+      "term": "agenda-setting",
+      "description": "複合名詞・限定形容詞。「何を論点・課題とするかの設定、その設定に関わる」。agenda-setting power は論点を決める影響力。"
+    },
+    {
+      "term": "hidden agenda",
+      "description": "定着した名詞句。「表に出していない意図・目的」。単なる非公開の議事次第とは限らない。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "「何を取り上げ、何を進めようとしているか」という、事柄や目的のまとまりが核になる。実際に書かれた一覧から、公的な優先方針、行動の背後にある個人的な狙いまで広がる。"
+    },
+    {
+      "type": "item",
+      "text": "会議で取り上げる事柄のまとまり → 「議題一覧、議事日程」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "活動で取り組む事柄のまとまり → 「優先課題、行動方針」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "言動で実現しようとする目的のまとまり → 「意図、思惑」（語義3）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算】議題一覧、議事日程",
+      "frequency": 8,
+      "register": [
+        "会議・ビジネス・公的手続き。"
+      ],
+      "definition": "会議で何を話し合い、どのような項目を扱うかをまとめた一覧・進行上の計画。各項目の順序や時間を含むこともあるが、時刻表であることは必須でない。日本語では文脈により「議題」とも訳すが、通常は一つの論点ではなく一覧全体を指す。",
+      "patterns": [
+        "the agenda for 〈会議〉＝その会議の議題一覧",
+        "an item on the agenda＝議題一覧の一項目",
+        "put something on the agenda＝事柄を議題に加える",
+        "leave something off the agenda＝事柄を議題に入れない",
+        "draw up an agenda＝議題一覧を作成する",
+        "circulate the agenda＝議題一覧を関係者に回す",
+        "stick to the agenda＝予定の議題に沿って進める。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the agenda for 〈会議〉",
+          "use": "どの会議の議題一覧かを示す。",
+          "example": "The agenda for Monday's meeting is attached to this email.",
+          "translation": "月曜日の会議の議題一覧を、このメールに添付しています。"
+        },
+        {
+          "pattern": "an item on the agenda",
+          "use": "一覧の中の一つの議題を指す。",
+          "example": "The first item on the agenda is the proposed office move.",
+          "translation": "最初の議題は、提案されているオフィス移転である。"
+        },
+        {
+          "pattern": "put something on the agenda",
+          "use": "話し合う対象へ新たに加える。",
+          "example": "Could you put the staffing issue on the agenda?",
+          "translation": "人員配置の問題を議題に加えてもらえますか。"
+        },
+        {
+          "pattern": "leave something off the agenda",
+          "use": "議題一覧に含めないことを示す。",
+          "example": "We left the lunch arrangements off the agenda because they had already been settled.",
+          "translation": "昼食の手配はすでに決まっていたので、議題には入れなかった。"
+        },
+        {
+          "pattern": "draw up an agenda",
+          "use": "会議で扱う項目を事前にまとめる。",
+          "example": "The chair drew up an agenda after consulting the team.",
+          "translation": "議長はチームに相談したうえで議題一覧を作成した。"
+        },
+        {
+          "pattern": "circulate the agenda",
+          "use": "参加者へ議題一覧を共有する。",
+          "example": "Please circulate the agenda at least two days before the meeting.",
+          "translation": "会議の少なくとも2日前までに、議題一覧を参加者に回してください。"
+        },
+        {
+          "pattern": "stick to the agenda",
+          "use": "脱線せず予定された議題を扱う。",
+          "example": "We need to stick to the agenda if we are to finish by noon.",
+          "translation": "正午までに終えるには、予定の議題に沿って進める必要がある。"
+        }
+      ],
+      "notes": [
+        "an agenda は一つの一覧、an agenda item はその中の一項目。We have three agendas. は通常「議題が三つある」ではなく、三つの別々の一覧・方針があるという意味になる。三つの議題なら three items on the agenda とする。「議題に載っている」は on the agenda で、in the agenda としない。agenda は事前に扱う項目、minutes は会議で話し合われたことや決定の記録。会議後の議事録を agenda と呼ばない。agenda が掲載順を示すのに対し、語義2の high on the agenda は一般に優先度を表す。"
+      ],
+      "synonyms": [
+        {
+          "word": "order of business",
+          "definition": "会議で議事を扱う順序・議事予定。",
+          "frequency": 5,
+          "difference": "正式な会議の進行順に焦点がある。agenda は議題の内容を列挙した文書にも使う。",
+          "example": "The committee agreed to change the order of business.",
+          "translation": "委員会は議事の順序を変更することに同意した。"
+        },
+        {
+          "word": "schedule",
+          "definition": "予定された活動とその実施時刻・時期の組み合わせ。",
+          "frequency": 9,
+          "difference": "何時に何をするかという時間配分が中心。agenda は何を話し合うかを中心にするため、開始時刻がなくても成立する。",
+          "example": "The revised schedule allows twenty minutes for questions.",
+          "translation": "改訂された進行予定では、質問に20分を割り当てている。"
+        },
+        {
+          "word": "program",
+          "definition": "催事で予定されている演目・活動の一覧や計画。",
+          "frequency": 8,
+          "difference": "講演・上演などを含む催事全体に使う。agenda は特に話し合う議題の一覧に適する。英国式綴りはこの意味では通常 programme。",
+          "example": "The program includes two lectures and a panel discussion.",
+          "translation": "プログラムには二つの講演とパネル討論が含まれる。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算】優先課題、行動方針",
+      "frequency": 8,
+      "register": [
+        "政治・報道・経営・一般。日常の予定にも比喩的に使う。"
+      ],
+      "definition": "人・組織・社会が取り組もうとする課題や、実行しようとする政策・行動のまとまり。会議の紙の一覧がなくても使え、何を重要視するかという方向性を表す。語自体に秘密や不正の意味はない。",
+      "patterns": [
+        "a political/reform agenda＝政治上の方針・改革課題のまとまり",
+        "an agenda for 〈目指す変化〉＝その変化に向けた行動方針",
+        "the agenda for 〈期間〉＝その期間に取り組む課題",
+        "set the agenda＝何を重要課題とするかを決める",
+        "be high on someone's agenda＝人・組織にとって優先度が高い",
+        "put something on the agenda＝事柄を取り組む課題にする",
+        "be off the agenda＝当面の検討・実行対象から外れている",
+        "implement an agenda＝掲げた方針を実行する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a reform agenda",
+          "use": "改革に向けて取り組む政策のまとまりを指す。",
+          "example": "The new administration announced a reform agenda focused on public services.",
+          "translation": "新政権は公共サービスに重点を置いた改革方針を発表した。"
+        },
+        {
+          "pattern": "an agenda for 〈目指す変化〉",
+          "use": "行動の目標となる変化を示す。",
+          "example": "The report sets out an agenda for improving access to education.",
+          "translation": "その報告書は、教育を受ける機会を広げるための行動方針を示している。"
+        },
+        {
+          "pattern": "the agenda for 〈期間〉",
+          "use": "今後の期間に何へ取り組むかを示す。",
+          "example": "Reducing delivery times is central to our agenda for the next year.",
+          "translation": "配送にかかる時間の短縮は、今後1年間の私たちの取り組みの中心課題である。"
+        },
+        {
+          "pattern": "set the agenda",
+          "use": "社会や組織が重視する問題を方向づける。",
+          "example": "The research group hopes to set the agenda for future debate on urban transport.",
+          "translation": "その研究グループは、都市交通をめぐる今後の議論の論点を方向づけたいと考えている。"
+        },
+        {
+          "pattern": "be high on someone's agenda",
+          "use": "優先して取り組む課題であると述べる。",
+          "example": "Retaining experienced staff is high on the company's agenda.",
+          "translation": "経験豊富な社員の定着は、その会社の優先課題になっている。"
+        },
+        {
+          "pattern": "put something on the agenda",
+          "use": "広く検討されていなかった問題を課題として取り上げる。",
+          "example": "The campaign put food waste on the national agenda.",
+          "translation": "その運動は、食品廃棄を国全体で取り組む課題として浮上させた。"
+        },
+        {
+          "pattern": "be off the agenda",
+          "use": "実行・検討の対象ではないと述べる。",
+          "example": "With our budget so tight, a new office is off the agenda this year.",
+          "translation": "予算がこれほど厳しいので、今年は新しいオフィスを構えることは考えていない。"
+        },
+        {
+          "pattern": "implement an agenda",
+          "use": "掲げた一連の施策を実施する。",
+          "example": "The mayor needs council support to implement her transport agenda.",
+          "translation": "市長が自身の交通政策を実行するには、市議会の支持が必要である。"
+        }
+      ],
+      "notes": [
+        "high on the agenda、at the top of the agenda は通常、重要度・優先度が高いことを表し、実際の一覧の上部に書かれていることは必須でない。off the agenda は「当面の検討対象外」で、永久に禁止されたという意味までは含まない。set the agenda は会議の議題を作る語義1にも、社会の論点を決めるこの語義にも使う。agenda for the meeting は会議の一覧、agenda for change は変化を目指す方針で、for の後ろの意味役割が違う。political agenda は公表された政策にも使え、語義3の隠れた思惑と決めつけない。"
+      ],
+      "synonyms": [
+        {
+          "word": "priorities",
+          "definition": "他に先んじて重視すべき課題。",
+          "frequency": 8,
+          "difference": "重要度の順位に焦点を置く複数名詞。agenda は優先順位だけでなく、進めたい政策の方向やまとまりも表す。",
+          "example": "The department's priorities are safety and staff development.",
+          "translation": "その部門の優先課題は、安全と職員の育成である。"
+        },
+        {
+          "word": "action plan",
+          "definition": "目標達成のために何をするかを定めた計画。",
+          "frequency": 7,
+          "difference": "具体的な手順や担当を示すことが多い。agenda はまだ詳細な実施手順を決めていない段階の課題設定にも使える。",
+          "example": "We need an action plan with clear deadlines.",
+          "translation": "明確な期限を設けた行動計画が必要だ。"
+        },
+        {
+          "word": "platform",
+          "definition": "政党・候補者などが掲げる政策・主張の体系。",
+          "frequency": 6,
+          "difference": "公に示す政治的立場に焦点がある。agenda は政治以外の組織の課題にも使い、公表されていることも必須でない。",
+          "example": "The candidate ran on a platform of improved public transport.",
+          "translation": "その候補者は公共交通の改善を公約に掲げて立候補した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算】意図、思惑",
+      "frequency": 7,
+      "register": [
+        "一般・評論・政治・ビジネス。人の動機を論じる場面。"
+      ],
+      "definition": "人の発言・行動の背後で、実際に達成しようとしている目的や方向性。建前と異なる狙いや個人的な利害を疑う文脈でよく使い、ときに批判的に響く。ただし、agenda だけで秘密・悪意・不正が必ずあるとはいえず、hidden、personal、own などや周囲の文脈が含みを具体化する。",
+      "patterns": [
+        "have an agenda＝達成したい独自の狙いがある",
+        "a hidden agenda＝公にしていない意図",
+        "pursue one's own agenda＝自分の狙いを追求する",
+        "push an agenda＝自分の狙いや立場を押し進める",
+        "have no agenda＝特別な思惑はない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "have an agenda",
+          "use": "表面的な説明とは別に達成したい目的があると示す。",
+          "example": "I wondered whether the interviewer had an agenda when she kept asking about the dispute.",
+          "translation": "面接担当者がその争いについて繰り返し尋ねるので、何か思惑があるのだろうかと思った。"
+        },
+        {
+          "pattern": "a hidden agenda",
+          "use": "表明していない本当の狙いを指す。",
+          "example": "Employees suspected a hidden agenda behind the proposed restructuring.",
+          "translation": "社員たちは、提案された組織再編には隠れた意図があるのではないかと疑った。"
+        },
+        {
+          "pattern": "pursue one's own agenda",
+          "use": "共同の目的よりも自分の狙いに沿って動くことを述べる。",
+          "example": "The adviser was pursuing his own agenda rather than addressing the client's concerns.",
+          "translation": "その助言者は、依頼者の懸念に対処するより、自分自身の狙いを追求していた。"
+        },
+        {
+          "pattern": "push an agenda",
+          "use": "特定の立場や狙いを強く押し出す。",
+          "example": "The reviewer accused the documentary of pushing a partisan agenda.",
+          "translation": "その批評家は、そのドキュメンタリーが党派的な主張を押し進めていると批判した。"
+        },
+        {
+          "pattern": "have no agenda",
+          "use": "裏の狙いを否定する。",
+          "example": "I have no agenda here; I just want to understand why the plan changed.",
+          "translation": "ここで私に特別な思惑はなく、計画が変わった理由を知りたいだけだ。"
+        }
+      ],
+      "notes": [
+        "What's your agenda? は文脈によって「どんな方針ですか」にも「本当は何を狙っているのですか」にもなり、後者では疑いを含み得る。単に今日の予定を聞くつもりなら What are your plans for today? のほうが誤解を避けやすい。hidden agenda は隠された目的そのもので、会議文書を非公開にしただけのものではない。own agenda の own は誰の利益・目的かを強調するが、常に悪意を意味するわけではない。語義2の openly stated agenda と、隠れた動機を疑うこの用法を文脈で区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "motive",
+          "definition": "行動を起こす理由・動機。",
+          "frequency": 7,
+          "difference": "なぜ行動するかに焦点がある。agenda は行動を通じて何を進め、実現したいかという目的・方向性をより強く示す。",
+          "example": "Her motive for volunteering was a desire to help the community.",
+          "translation": "彼女が志願した動機は、地域の役に立ちたいという思いだった。"
+        },
+        {
+          "word": "ulterior motive",
+          "definition": "表向きの説明とは別にある、隠された動機。",
+          "frequency": 5,
+          "difference": "隠れた動機であることが明示され、しばしば疑わしい響きになる。agenda 単独には、その含意が常にあるわけではない。",
+          "example": "He offered to help without any ulterior motive.",
+          "translation": "彼は何の下心もなく、手伝うと申し出た。"
+        },
+        {
+          "word": "intention",
+          "definition": "しようと考えていること、意図。",
+          "frequency": 9,
+          "difference": "中立的で、単一の行為をするつもりにも使える。agenda は複数の言動を方向づける狙いや、背後の利害を論じるときに向く。",
+          "example": "My intention was to clarify the procedure, not to criticize anyone.",
+          "translation": "私の意図は手順を明確にすることで、誰かを批判することではなかった。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "word": "registration",
+  "slug": "registration",
+  "ipa": "米・英: /ˌredʒ.ɪˈstreɪ.ʃən/",
+  "lead": "人や物の情報を所定の名簿・記録・システムに載せること、その手続き、または登録されている状態。催事の参加登録だけでなく、受講登録、事業・車両・出生などの公的な登録、利用者登録にも使う。登録が済むことと、資格・権利・参加の承認が与えられることが同一かどうかは制度によって異なる。",
+  "updated": "2026-10-13",
+  "notion_url": "https://app.notion.com/p/registration-3f84faa9b77d81fdb591d6caa59980a6",
+  "pronunciation": [
+    "4音節で、第3音節に主強勢、第1音節に第二強勢を置く。第3音節の母音は二重母音 /eɪ/、第4音節は弱い /ʃən/。動詞 register の語頭の主強勢とは位置が異なる。"
+  ],
+  "etymology": [
+    "中世ラテン語 registratio にさかのぼり、記録簿を表す語の系統を通じて、ラテン語 regerere「記入する、記録する」とつながる。現代英語では register「登録する」の行為や結果を表す名詞として理解できる。",
+    "register「記録簿、登録する」と registry「登録所、登録簿」は同系語。名簿への登録という意味を、画像の位置合わせやオルガンの音栓選択へそのまま当てはめない。"
+  ],
+  "formation": [
+    {
+      "term": "register",
+      "description": "動詞・名詞。「登録する、記録する」「登録簿」など。動詞で登録先を示すときは register with an organization、催事なら register for an event。"
+    },
+    {
+      "term": "registrant",
+      "description": "可算名詞。「登録者」。登録したことに焦点があり、実際に出席した attendee と人数が一致するとは限らない。"
+    },
+    {
+      "term": "registrar",
+      "description": "可算名詞。「登録事務官、大学の教務・学籍担当責任者」など。登録する本人ではなく、登録管理を担う役職に使う。"
+    },
+    {
+      "term": "preregistration",
+      "description": "不可算名詞を中心に「事前登録」。pre-registration という綴りもある。"
+    },
+    {
+      "term": "registration fee",
+      "description": "複合名詞。「登録料」。催事では参加登録の費用を指すが、その内訳は案内で確認する。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "主要な用法の核は、「人や物を所定の記録に載せ、その登録を扱うこと」。登録行為、残る記録、集計した人数、識別番号、出欠の記録につながる。語義6の位置合わせと語義7の音栓選択は、register の技術的な意味に基づく制度的専門義で、名簿などへの記録という核から語彙的意味を直接導けないため、個別に参照する。"
+    },
+    {
+      "type": "item",
+      "text": "所定の記録に載せる手続き → 「登録、登録手続き」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "所定の記録に載った内容や証明 → 「登録記録、登録証」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "所定の記録に載った人の集計 → 「登録者数、登録者の総体」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "所定の記録で車両を識別する符号 → 「車両登録番号」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "所定の記録で児童・生徒の出欠を確認 → 「出欠確認、出欠確認の時間」（語義5）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・不可算中心、個別の登録は可算】登録、登録手続き",
+      "frequency": 8,
+      "register": [
+        "一般・ビジネス・教育・行政・サービス。具体的な訳は登録対象に応じる。"
+      ],
+      "definition": "人や物の情報を所定の名簿・記録・システムに載せること、その手続き、または登録されている状態。催事の参加登録だけでなく、受講登録、事業・車両・出生などの公的な登録、利用者登録にも使う。登録が済むことと、資格・権利・参加の承認が与えられることが同一かどうかは制度によって異なる。",
+      "patterns": [
+        "registration for 〈催事・講座〉＝その催事・講座への参加登録",
+        "registration with 〈機関〉＝その機関への登録",
+        "registration as 〈身分・区分〉＝その身分・区分での登録",
+        "the registration of someone/something＝人・物の登録",
+        "on registration＝登録時に・登録すると",
+        "complete one's registration＝登録手続きを完了する",
+        "a registration fee＝登録に必要な料金",
+        "a registration desk＝登録・受付の窓口",
+        "renew one's registration＝登録を更新する",
+        "receive 〈数〉 registrations＝その件数の登録を受け付ける。"
+      ],
+      "collocations": [
+        {
+          "pattern": "registration for 〈催事・講座〉",
+          "use": "登録して参加する対象を示す。",
+          "example": "Registration for the workshop closes on Friday.",
+          "translation": "そのワークショップの参加登録は金曜日に締め切られる。"
+        },
+        {
+          "pattern": "registration with 〈機関〉",
+          "use": "登録先となる組織を示す。",
+          "example": "The form asks for details of your registration with a professional association.",
+          "translation": "その用紙では、専門職団体への登録についての詳細を記入するよう求めている。"
+        },
+        {
+          "pattern": "registration as 〈身分・区分〉",
+          "use": "どの区分で登録するかを示す。",
+          "example": "Registration as a student member requires a current student ID.",
+          "translation": "学生会員としての登録には、有効な学生証が必要である。"
+        },
+        {
+          "pattern": "the registration of something",
+          "use": "記録に載せる対象を明示する。",
+          "example": "The office handles the registration of births and deaths.",
+          "translation": "その役所は出生と死亡の登録を扱っている。"
+        },
+        {
+          "pattern": "on registration",
+          "use": "登録の時点で行うこと・起こることを示す。",
+          "example": "You will receive a confirmation email on registration.",
+          "translation": "登録すると確認メールが届きます。"
+        },
+        {
+          "pattern": "complete one's registration",
+          "use": "一連の登録手続きが終わることを示す。",
+          "example": "Please complete your registration before choosing a session.",
+          "translation": "セッションを選ぶ前に登録手続きを完了してください。"
+        },
+        {
+          "pattern": "a registration fee",
+          "use": "登録時に支払う費用を示す。",
+          "example": "The registration fee of fifty dollars includes the course materials.",
+          "translation": "50ドルの登録料には講座の教材費が含まれる。"
+        },
+        {
+          "pattern": "a registration desk",
+          "use": "会場で登録・受付を行う窓口を指す。",
+          "example": "Collect your badge at the registration desk in the lobby.",
+          "translation": "ロビーの受付で名札を受け取ってください。"
+        },
+        {
+          "pattern": "renew one's registration",
+          "use": "既存の登録を継続するための更新を示す。",
+          "example": "I received a reminder to renew my vehicle registration.",
+          "translation": "車両登録を更新するよう知らせが届いた。"
+        },
+        {
+          "pattern": "receive 〈数〉 registrations",
+          "use": "個々の申込み・登録を件数で数える。",
+          "example": "We received forty registrations in the first hour.",
+          "translation": "最初の1時間で40件の参加登録があった。"
+        }
+      ],
+      "notes": [
+        "手続き一般は Registration is required. のように不可算で使う。一件ずつ数える場合は a registration、several registrations とでき、常に不可算とは限らない。of は登録対象、for は参加先、with は登録を受け付ける機関、as は身分・区分を示す。the registration of volunteers for the event のように組み合わせられる。registration は申請から承認までのどの段階を指すかが文脈で異なるため、application「申請」と approval「承認」を自動的に同一視しない。on-site registration は会場での当日登録、advance registration は事前登録。受付で本人確認だけをする check-in と、新たに登録する registration も区別する。車両では登録の有効状態や期間にも使い、six months' registration は「6か月分の車両登録」。特に豪州では registration が登録費用を指すこともあるが、税・保険・手数料の具体的な内訳は地域の制度による。"
+      ],
+      "synonyms": [
+        {
+          "word": "enrollment",
+          "definition": "学校・講座・制度などの参加者として登録すること。",
+          "frequency": 7,
+          "difference": "教育・会員制度などへの加入に重点がある。registration は車両・事業など人以外の登録にも広い。英国式綴りは通常 enrolment。",
+          "example": "Enrollment in the evening course opens next month.",
+          "translation": "夜間講座の受講登録は来月始まる。"
+        },
+        {
+          "word": "sign-up",
+          "definition": "催事・サービスなどへの参加申込み・登録。",
+          "frequency": 7,
+          "difference": "registration よりくだけた表現で、オンラインの申込みなどに合う。出生や不動産の正式な登録へ一律には使わない。",
+          "example": "Online sign-up takes less than five minutes.",
+          "translation": "オンラインでの参加登録は5分もかからない。"
+        },
+        {
+          "word": "entry",
+          "definition": "競技・大会などへの参加申込み。",
+          "frequency": 7,
+          "difference": "コンテストやレースへのエントリーに向く。registration は参加者情報を記録する手続き全般を指す。",
+          "example": "Entry for the race closes at the end of the month.",
+          "translation": "そのレースの参加申込みは月末で締め切られる。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算・不可算】登録記録、登録証",
+      "frequency": 6,
+      "register": [
+        "事務・車両・公的記録。車両登録証を registration と呼ぶ用法は特に北米でよく見られる。"
+      ],
+      "definition": "登録簿に記載された情報・一件の登録記録、または登録が行われたことを示す書類。車の文脈では登録証を指すことが多い。行為そのものではなく、その結果として残る記録や証明が対象になる。",
+      "patterns": [
+        "show someone one's registration＝人に登録証を見せる",
+        "a copy of the registration＝登録記録・登録証の写し",
+        "check the registration＝登録記録の内容を確認する",
+        "a duplicate registration＝重複した登録記録。"
+      ],
+      "collocations": [
+        {
+          "pattern": "show someone one's registration",
+          "use": "登録を証明する書類を提示する。",
+          "example": "The driver showed the officer her license and registration.",
+          "translation": "運転していた女性は、警官に免許証と車両登録証を見せた。"
+        },
+        {
+          "pattern": "a copy of the registration",
+          "use": "登録を示す書類の写しを指す。",
+          "example": "Keep a copy of the boat's registration with your other documents.",
+          "translation": "ボートの登録証の写しを、ほかの書類と一緒に保管してください。"
+        },
+        {
+          "pattern": "check the registration",
+          "use": "登録済みの記録を参照して内容を確かめる。",
+          "example": "The archivist checked the birth registration to confirm the spelling of the name.",
+          "translation": "資料館の担当者は、名前の綴りを確かめるために出生登録の記録を確認した。"
+        },
+        {
+          "pattern": "a duplicate registration",
+          "use": "データ上、同じ対象が重複して記録されていることを指す。",
+          "example": "The database contained a duplicate registration under the same email address.",
+          "translation": "データベースには、同じメールアドレスで重複した登録記録があった。"
+        }
+      ],
+      "notes": [
+        "my registration のように所有格を伴って書類を指す場合が多く、書類・記録を一件ずつ数えるなら registrations も可能。登録証を明示する形は registration certificate、certificate of registration。車の registration は運転者の免許証 license と別であり、車の所有権を示す title とも同一とは限らない。語義4の英国の registration は番号自体を指し得る。The number on the registration ... なら、書類上にある番号という関係を保って読む。"
+      ],
+      "synonyms": [
+        {
+          "word": "record",
+          "definition": "事実・出来事・情報を残した記録。",
+          "frequency": 9,
+          "difference": "登録によって作られたもの以外にも広く使う。registration は所定の登録手続きと結び付いた記録を指す。",
+          "example": "The archive holds records of marriages from the nineteenth century.",
+          "translation": "その資料館には19世紀の婚姻記録が保存されている。"
+        },
+        {
+          "word": "certificate",
+          "definition": "ある事実・資格・状態を正式に証明する文書。",
+          "frequency": 8,
+          "difference": "証明という機能を中心にし、登録以外の修了・検査にも使う。registration は文脈によって証明書ではなく登録データを指すこともある。",
+          "example": "The certificate confirms that the inspection was completed.",
+          "translation": "その証明書は検査が完了したことを証明している。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・不可算中心】登録者数、登録者の総体",
+      "frequency": 4,
+      "register": [
+        "教育・催事運営・統計的な報告。"
+      ],
+      "definition": "学校・講座・催事などに登録した人を全体として捉えた数、またはその登録者の集まり。手続きをしている最中という意味ではなく、どれほどの人が登録済みかという規模に焦点を置く。",
+      "patterns": [
+        "total registration＝登録者総数",
+        "registration of 〈人数〉＝その人数の登録者規模",
+        "registration for 〈講座・催事〉＝その講座・催事の登録者数。"
+      ],
+      "collocations": [
+        {
+          "pattern": "total registration",
+          "use": "登録した人の合計人数を示す。",
+          "example": "Total registration for the conference reached six hundred.",
+          "translation": "その会議の登録者総数は600人に達した。"
+        },
+        {
+          "pattern": "registration of 〈人数〉",
+          "use": "講座などの登録者規模を述べる。",
+          "example": "The summer program had a registration of just over two hundred students.",
+          "translation": "その夏期プログラムには200人余りの学生が登録していた。"
+        }
+      ],
+      "notes": [
+        "Registration has increased. は文脈によって「登録者数が増えた」を表す。登録の件数を複数形 registrations で数える語義1とも近いが、人数が問題なら number of registered participants などと明示すると確実。登録者全体を表しても、出席者数 attendance や実際の入場者数と同じとは限らない。The registration was six hundred. の主語は一つの集計規模なので、通常は単数で一致させる。"
+      ],
+      "synonyms": [
+        {
+          "word": "enrollment",
+          "definition": "学校・講座などに登録している人の数・総体。",
+          "frequency": 6,
+          "difference": "特に教育機関の在籍者数を述べるときによく使う。registration は催事の登録者数にも用いる。",
+          "example": "Enrollment at the college rose by ten percent.",
+          "translation": "その大学の在籍者数は10パーセント増えた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・可算】車両登録番号",
+      "frequency": 4,
+      "register": [
+        "英国英語・車両・交通。"
+      ],
+      "definition": "車両を識別するために割り当てられ、ナンバープレートに表示される文字・数字の組み合わせ。番号そのものを指し、登録手続きや登録証とは区別する。",
+      "patterns": [
+        "a car's registration＝車の登録番号",
+        "note down the registration＝登録番号を書き留める",
+        "a registration number＝車両の登録番号。"
+      ],
+      "collocations": [
+        {
+          "pattern": "note down the registration",
+          "use": "見かけた車を識別できるよう番号を記録する。",
+          "example": "The witness noted down the registration of the van before it drove away.",
+          "translation": "目撃者は、バンが走り去る前にその登録番号を書き留めた。"
+        },
+        {
+          "pattern": "a car's registration",
+          "use": "車のナンバーの読み取りや識別を述べる。",
+          "example": "The car's registration was blurred in the photograph.",
+          "translation": "写真では、その車の登録番号がぼやけていた。"
+        }
+      ],
+      "notes": [
+        "registration number と明示することも多い。北米では license plate number が普通。registration plate は番号を表示するプレートそのもので、番号の文字列とは指すものが違う。この意味での registration を「登録証」と訳すと、写真や監視映像の説明で誤解が生じる。"
+      ],
+      "synonyms": [
+        {
+          "word": "license plate number",
+          "definition": "車のナンバープレートに表示される識別番号。",
+          "frequency": 6,
+          "difference": "北米で一般的な言い方。英国の registration とこの文脈ではほぼ同じ対象を指す。",
+          "example": "I gave the dispatcher the license plate number.",
+          "translation": "私は通信指令の担当者に車のナンバーを伝えた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞・不可算】出欠確認、出欠確認の時間",
+      "frequency": 3,
+      "register": [
+        "英国英語・学校教育。"
+      ],
+      "definition": "学校で教師が名簿を使って児童・生徒の出席を確認すること、またはそのために設けられた時間。学校への入学登録ではなく、その日に来ているかを確認する場面を指す。",
+      "patterns": [
+        "morning/afternoon registration＝朝・午後の出欠確認",
+        "be late for registration＝出欠確認の時間に遅れる",
+        "after registration＝出欠確認の後に。"
+      ],
+      "collocations": [
+        {
+          "pattern": "morning registration",
+          "use": "朝の出席確認を学校の日課として述べる。",
+          "example": "Pupils go to their form rooms for morning registration.",
+          "translation": "生徒たちは朝の出欠確認のために各自のホームルームの教室へ行く。"
+        },
+        {
+          "pattern": "be late for registration",
+          "use": "その日の出欠確認に間に合わないことを示す。",
+          "example": "The delayed bus made several pupils late for registration.",
+          "translation": "バスが遅れたため、数人の生徒が出欠確認の時間に遅れた。"
+        }
+      ],
+      "notes": [
+        "日課の名称として registration を無冠詞で使う。miss registration は、学校の文脈では入学手続きを逃すことではなく、その日の出欠確認にいなかったという意味になり得る。時刻表の Registration と、大学案内の course registration「履修登録」を混同しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "roll call",
+          "definition": "名簿の名前を順に呼ぶなどして出席・所在を確認すること。",
+          "frequency": 5,
+          "difference": "学校以外に軍隊・会議などでも使い、名前を呼ぶ確認方法に焦点がある。registration は英国の学校で出欠確認の時間枠自体も表す。",
+          "example": "The teacher took roll call before the trip began.",
+          "translation": "教師は出発前に点呼を取った。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【名詞・不可算中心】位置合わせ、見当合わせ",
+      "frequency": 3,
+      "register": [
+        "画像処理・印刷の専門用語。"
+      ],
+      "definition": "複数の画像や印刷する各色の版などについて、対応する位置をそろえること、またはそろっている状態。画像処理では同じ対象・特徴が対応するよう画像を重ね合わせ、印刷では各色などが意図どおり重なるように調整する。",
+      "patterns": [
+        "image registration＝画像の位置合わせ",
+        "registration of 〈画像〉＝それらの画像の位置合わせ",
+        "accurate registration＝正確な位置合わせ",
+        "registration marks＝印刷の位置を合わせる目印。"
+      ],
+      "collocations": [
+        {
+          "pattern": "image registration",
+          "use": "別々に取得した画像の対応位置をそろえる処理を指す。",
+          "example": "Image registration aligned the aerial photographs taken on different dates.",
+          "translation": "画像の位置合わせによって、異なる日に撮影した航空写真の対応位置がそろった。"
+        },
+        {
+          "pattern": "accurate registration",
+          "use": "印刷で各色が正しく重なる精度を述べる。",
+          "example": "Accurate registration prevents colored edges from appearing around the black text.",
+          "translation": "正確な見当合わせによって、黒い文字の周囲に色のずれが出るのを防げる。"
+        },
+        {
+          "pattern": "registration marks",
+          "use": "各版の印刷位置を合わせるための印を指す。",
+          "example": "The printer used the registration marks to align the color separations.",
+          "translation": "印刷担当者は見当合わせの印を使って、各色の分解版の位置をそろえた。"
+        }
+      ],
+      "notes": [
+        "ここでの registration はデータベースへの画像登録ではなく、画像・版の位置関係の調整。image registration software は「画像位置合わせソフト」であって、利用者の登録用ソフトではない。registration marks は見当合わせ用の印で、商標の登録マークとは異なる。画像処理では位置・向き・形などを変換する場合があるが、特定の変換方法だけを意味する語ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "alignment",
+          "definition": "複数の物や要素の位置・向きをそろえること。",
+          "frequency": 7,
+          "difference": "文字・機械部品などにも使う広い語。registration は画像の対応点や印刷の重なりを合わせる専門的な文脈で用いる。",
+          "example": "Check the alignment of the two layers before exporting the image.",
+          "translation": "画像を書き出す前に、二つのレイヤーの位置が合っているか確認してください。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【名詞・不可算・可算】オルガンの音栓選択、音栓の組み合わせ",
+      "frequency": 2,
+      "register": [
+        "オルガン音楽の専門用語。"
+      ],
+      "definition": "オルガンで、音色・音高などを選ぶ音栓をどのように用いるかという選択・調整。また、ある曲や部分の演奏のために選んだ音栓の組み合わせ。楽器や演奏者を名簿に登録する意味ではない。",
+      "patterns": [
+        "organ registration＝オルガンの音栓選択",
+        "choose a registration＝音栓の組み合わせを選ぶ",
+        "change the registration＝音栓の組み合わせを変える。"
+      ],
+      "collocations": [
+        {
+          "pattern": "organ registration",
+          "use": "音栓の選び方という演奏上の技法を述べる。",
+          "example": "The lesson focused on organ registration rather than fingering.",
+          "translation": "そのレッスンでは、指使いよりもオルガンの音栓選択に重点を置いた。"
+        },
+        {
+          "pattern": "change the registration",
+          "use": "曲の途中などで音栓の組み合わせを変更する。",
+          "example": "The organist changed the registration before the final verse of the hymn.",
+          "translation": "オルガン奏者は、賛美歌の最後の節の前に音栓の組み合わせを変えた。"
+        }
+      ],
+      "notes": [
+        "技法一般は不可算、個別の設定なら a registration、different registrations と数えられる。stop はここでは「停止」ではなく「音栓」。registration は音の選択・組み合わせであり、単なる音量調節に限定しない。同様の音栓を持つ楽器についても使われることがあるが、一般の会議や利用者登録の文脈ではこの意味にしない。"
+      ],
+      "synonyms": [
+        {
+          "word": "stop combination",
+          "definition": "オルガンで同時に使う音栓の組み合わせ。",
+          "frequency": 2,
+          "difference": "選ばれた具体的な組み合わせを明示する。registration はその組み合わせに加え、選択する行為・技法にも使う。",
+          "example": "The organist saved several stop combinations for the recital.",
+          "translation": "オルガン奏者はリサイタルに備えて、いくつかの音栓の組み合わせを保存した。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

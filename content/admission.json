@@ -1,0 +1,518 @@
+{
+  "word": "admission",
+  "slug": "admission",
+  "ipa": "米・英: /ədˈmɪʃən/。3音節で第2音節に主強勢。第1音節の母音は弱い /ə/、第2音節は短い /ɪ/、第3音節は弱い /ə/。-ssion は /ʃən/ と発音し、/s/ の連続にはしない。複数形 admissions の語末は /z/。",
+  "lead": "施設・催し・区域などに入ることを認められること、またはその権利・許可。入場する行為やその件数も表す。単に入口を通過する動作だけでなく、「入ってよいとされる」という面がある。",
+  "updated": "2026-10-13",
+  "notion_url": "https://app.notion.com/p/admission-3f84faa9b77d81a5a7f6ed86d531d79e",
+  "pronunciation": [],
+  "etymology": [
+    "ラテン語 admissio にさかのぼり、動詞 admittere「入れる、受け入れる」に由来する。ad-「～へ」と mittere「送る」の組み合わせで、現代の admit「入場を認める・事実を認める」と直接つながる。permit「許す」、submit「提出する」は同じ mittere を含む同系統の語。現代英語では「中に入ることを認める」と「事実を認める」の両方が重要。"
+  ],
+  "formation": [
+    {
+      "term": "admissions",
+      "description": "認めた発言・個別の受け入れを数える複数形。教育機関の入学選考業務を表す場合にも多い。"
+    },
+    {
+      "term": "admit",
+      "description": "動詞。「入れる、受け入れる、認める」。admit that ... と admission that ... は動詞と名詞の違い。"
+    },
+    {
+      "term": "admittance",
+      "description": "名詞。「入る許可、入ること」。特に建物・区域への立ち入りを表し、admission の入場料・認める発言の意味には通常置き換えない。"
+    },
+    {
+      "term": "admissible",
+      "description": "形容詞。「認められる、許容される」。admissible evidence は証拠として採用可能な証拠。"
+    },
+    {
+      "term": "readmission",
+      "description": "名詞。「再入学、再入院、再受け入れ」。文脈によって対象が変わる。"
+    },
+    {
+      "term": "admission fee / admissions office",
+      "description": "入場料・入学選考担当部署。後者では admissions という複数形での前置修飾が定着している。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "人や物、事実を「受け入れて認める」こと。人なら入場・所属・入院、事実なら真実としての承認、証拠なら審理への採用となり、入場料は受け入れを得るための料金を表す。"
+    },
+    {
+      "type": "item",
+      "text": "来場者を中に受け入れる許可 → 「入場、入場許可」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "事実を真実として受け入れる表明 → 「認めること、認めた発言」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "来場者を中に受け入れるための料金 → 「入場料」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "人を組織の一員として受け入れること → 「入学許可、入会、加入」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "人を入院患者として受け入れること → 「入院、入院受け入れ」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "資料を審理の証拠として受け入れること → 「証拠の採用」（語義6）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・通常不可算、入場件数は可算】入場、入場許可",
+      "frequency": 8,
+      "register": [
+        "一般、施設案内、旅行、催事。"
+      ],
+      "definition": "施設・催し・区域などに入ることを認められること、またはその権利・許可。入場する行為やその件数も表す。単に入口を通過する動作だけでなく、「入ってよいとされる」という面がある。",
+      "patterns": [
+        "admission to 〈施設・催し〉＝そこへの入場・入場許可。",
+        "gain admission to 〈場所〉＝そこに入る許可を得る。",
+        "refuse someone admission＝人の入場を断る。",
+        "admission by ticket only＝チケットを持つ人に限る入場。",
+        "last admission＝最終入場。",
+        "cinema admissions＝映画館の入場件数・入場者数。"
+      ],
+      "collocations": [
+        {
+          "pattern": "admission to 〈施設・催し〉",
+          "use": "どこに入れるかを示す。",
+          "example": "The pass includes admission to the museum and the temporary exhibition.",
+          "translation": "そのパスには、博物館と企画展への入場が含まれている。"
+        },
+        {
+          "pattern": "gain admission to 〈場所〉",
+          "use": "立ち入りの許可を得ることを述べる。",
+          "example": "Only visitors with an appointment can gain admission to the archive.",
+          "translation": "予約のある来訪者だけが、その資料館に入ることを認められる。"
+        },
+        {
+          "pattern": "refuse someone admission",
+          "use": "入場を認めない判断を述べる。",
+          "example": "Security staff refused the visitor admission because the building was closed.",
+          "translation": "建物が閉まっていたため、警備員はその来訪者の入場を断った。"
+        },
+        {
+          "pattern": "admission by ticket only",
+          "use": "入場条件を掲示する。",
+          "example": "Admission is by ticket only, even for members.",
+          "translation": "会員であっても、入場にはチケットが必要です。"
+        },
+        {
+          "pattern": "last admission",
+          "use": "閉館時刻とは別に、最後に入れる時刻を示す。",
+          "example": "Last admission is at four, although the gallery closes at five.",
+          "translation": "その美術館は5時に閉館するが、最終入場は4時だ。"
+        },
+        {
+          "pattern": "cinema admissions",
+          "use": "興行の規模を入場件数で示す。",
+          "example": "Cinema admissions rose during the holiday period.",
+          "translation": "休暇期間中、映画館の入場者数が増えた。"
+        }
+      ],
+      "notes": [
+        "admission to the museum は入場の許可、admission of visitors は来訪者を受け入れる行為で、to の後は行き先、of の後は受け入れる対象。一般案内では Admission is free. のように無冠詞で使う。個々の入場を数える admissions は「料金が複数」という意味ではなく、同じ人の再来場を含み得る入場件数を表すこともある。registration は参加者情報の登録、application は申請であり、それだけで入場が認められたとは限らない。admission と admittance は立ち入り許可で重なる。"
+      ],
+      "synonyms": [
+        {
+          "word": "admittance",
+          "definition": "建物や区域に入る許可、入ること。",
+          "frequency": 5,
+          "difference": "物理的な立ち入りに重点があり、No admittance のような掲示にも使う。admission は入場料や入学・入院にも広がる。",
+          "example": "Admittance to the laboratory is restricted to authorized staff.",
+          "translation": "研究室への立ち入りは、許可された職員に限られている。"
+        },
+        {
+          "word": "entry",
+          "definition": "場所の中へ入ること。",
+          "frequency": 8,
+          "difference": "入る行為を広く指す。admission は入ることを認める許可・受け入れを意識させる。",
+          "example": "Entry to the garden is through the east gate.",
+          "translation": "庭園には、東門から入る。"
+        },
+        {
+          "word": "access",
+          "definition": "場所・資源などに到達したり利用したりできること。",
+          "frequency": 9,
+          "difference": "入場だけでなく情報・設備の利用可能性まで含む。admission は受け入れ・入場の場面を切り出す。",
+          "example": "The card gives staff access to the building at weekends.",
+          "translation": "そのカードがあれば、職員は週末も建物に入れる。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "exclusion",
+          "definition": "人を中に入れず、参加や利用の対象から外すこと。",
+          "frequency": 6,
+          "difference": "入場・参加を認める admission に対して、受け入れない方向の対立を表す。単に自分から入らないことではない。",
+          "example": "The policy resulted in the exclusion of visitors without identification.",
+          "translation": "その方針によって、身分証明書のない来訪者は入場を認められなかった。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算、行為を抽象的に表す場合は不可算】認めること、認めた発言",
+      "frequency": 7,
+      "register": [
+        "一般、報道、ビジネス、法律。"
+      ],
+      "definition": "ある事実や主張が本当であると認めること、またはそれを認めた発言・表明。自分に不利な事実、失敗、責任などを認める場合に多いが、必ず犯罪の自白や全面的な責任の承認を意味するわけではない。",
+      "patterns": [
+        "an admission of 〈事実・失敗など〉＝それを認める表明。",
+        "an admission that 〈節〉＝その内容を認める表明。",
+        "make an admission＝事実を認める発言をする。",
+        "by someone's own admission＝その人自身が認めるところでは。",
+        "without admission of liability＝法的責任を認めることなく。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an admission of 〈事実・失敗など〉",
+          "use": "何を認めたのかを名詞句で示す。",
+          "example": "Asking for help is not necessarily an admission of failure.",
+          "translation": "助けを求めることは、必ずしも失敗を認めることではない。"
+        },
+        {
+          "pattern": "an admission that 〈節〉",
+          "use": "認めた内容を文として明示する。",
+          "example": "The statement contained an admission that the initial estimate was wrong.",
+          "translation": "その声明には、当初の見積もりが誤っていたと認める内容が含まれていた。"
+        },
+        {
+          "pattern": "make an admission",
+          "use": "認める発言を一つの行為として述べる。",
+          "example": "During the interview, the director made a surprising admission about the project.",
+          "translation": "インタビューの間に、責任者はそのプロジェクトについて意外な事実を認めた。"
+        },
+        {
+          "pattern": "by someone's own admission",
+          "use": "評価の根拠が本人の発言であることを示す。",
+          "example": "By her own admission, she knew little about the industry when she started.",
+          "translation": "本人も認めているように、彼女は仕事を始めた当時、その業界についてほとんど知らなかった。"
+        },
+        {
+          "pattern": "without admission of liability",
+          "use": "責任を認めるかどうかと、別の行為を切り分けて記述する。",
+          "example": "The company described the payment as being made without admission of liability.",
+          "translation": "その会社は、その支払いは法的責任を認めることなく行うものだと説明した。"
+        }
+      ],
+      "notes": [
+        "an admission of guilt は罪を認めること、an admission of uncertainty は不確かさを認めることで、どちらも一律に「自白」とは訳さない。of の後は名詞句、that の後は主語と述語のある節。by his own admission は「彼自身の入場許可で」ではなく「本人が認めるところでは」。法的文脈では、事実を認めたことと全面的に責任を負うと認めたことを区別する。without admission of liability という記述だけで、法的な責任が実際にないと結論づけることはできない。"
+      ],
+      "synonyms": [
+        {
+          "word": "acknowledgment",
+          "definition": "事実や存在を認めること、または認めた表明。",
+          "frequency": 7,
+          "difference": "中立的・肯定的な事実にも使い、不利なことをしぶしぶ認める含みは admission ほど出やすくない。英式では acknowledgement とも綴る。",
+          "example": "The report includes an acknowledgment of the team's contribution.",
+          "translation": "その報告書には、チームの貢献を認める記述がある。"
+        },
+        {
+          "word": "confession",
+          "definition": "自分の罪・過ち、または隠していたことを打ち明けること。",
+          "frequency": 7,
+          "difference": "過ちや秘密の告白という面が強い。admission はある一点を認めるだけでも成立する。",
+          "example": "His confession explained how the money had disappeared.",
+          "translation": "彼の告白によって、お金がどのようになくなったのかが明らかになった。"
+        },
+        {
+          "word": "concession",
+          "definition": "議論などで、相手の主張の一部が正しいと認めること。",
+          "frequency": 6,
+          "difference": "議論上の譲歩に焦点がある。admission は交渉・議論の相手がいなくても使える。",
+          "example": "Her concession that the timetable was unrealistic changed the discussion.",
+          "translation": "日程に無理があったと彼女が認めたことで、話し合いの流れが変わった。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "denial",
+          "definition": "ある事実や主張は真実でないと述べること。",
+          "frequency": 8,
+          "difference": "真実として認める admission と、真実性を否定するという方向で対立する。否定した主張が実際に正しいかどうかは別問題。",
+          "example": "The manager issued a denial of any involvement in the decision.",
+          "translation": "その管理職は、その決定に一切関与していないとする声明を出した。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【名詞・不可算】入場料",
+      "frequency": 7,
+      "register": [
+        "一般、旅行、催事、料金案内。"
+      ],
+      "definition": "建物、展示、催しなどに入るために払う料金。入場の権利・行為から、そのための費用を指す用法。サービス全体の代金や入学金をどの場合にも表す一般語ではない。",
+      "patterns": [
+        "admission is 〈金額〉＝入場料はその金額である。",
+        "free admission＝入場無料。",
+        "charge admission＝入場料を取る。",
+        "an admission fee of 〈金額〉＝その金額の入場料。",
+        "reduced admission＝割引の入場料。"
+      ],
+      "collocations": [
+        {
+          "pattern": "admission is 〈金額〉",
+          "use": "入場料を直接示す。",
+          "example": "Admission is fifteen dollars per person.",
+          "translation": "入場料は、1人15ドルです。"
+        },
+        {
+          "pattern": "free admission",
+          "use": "入場に料金がかからないことを知らせる。",
+          "example": "The museum offers free admission on the first Sunday of each month.",
+          "translation": "その博物館は、毎月第1日曜日を入場無料にしている。"
+        },
+        {
+          "pattern": "charge admission",
+          "use": "入場に対して料金を徴収することを述べる。",
+          "example": "The gallery does not charge admission for its permanent collection.",
+          "translation": "その美術館は、常設コレクションの観覧に入場料を取らない。"
+        },
+        {
+          "pattern": "an admission fee of 〈金額〉",
+          "use": "fee を使って料金であることを明示する。",
+          "example": "There is an admission fee of twenty dollars for the special exhibition.",
+          "translation": "その特別展には、20ドルの入場料がかかる。"
+        },
+        {
+          "pattern": "reduced admission",
+          "use": "通常より安い料金を案内する。",
+          "example": "Students with valid identification can get reduced admission.",
+          "translation": "有効な身分証明書を持つ学生は、割引料金で入場できる。"
+        }
+      ],
+      "notes": [
+        "金額を述べる admission は通常不可算。一件の料金を数えるなら an admission fee とする。free admission は予約不要まで意味せず、無料でも事前予約が必要な場合はある。general admission は催しによって、特定席を指定しない入場区分・券種を指すことがあるので、料金額とは別に席の条件を読む。a twenty-dollar admission fee のように金額を名詞の前で形容詞的に使うと、dollar は単数形になる。"
+      ],
+      "synonyms": [
+        {
+          "word": "entrance fee",
+          "definition": "施設や催しに入るために払う料金。",
+          "frequency": 7,
+          "difference": "入場料であることを明示する可算の複合名詞。admission 単独より、入場の許可との曖昧さが少ない。",
+          "example": "The entrance fee includes a printed guide.",
+          "translation": "入場料には、印刷された案内冊子が含まれている。"
+        },
+        {
+          "word": "entry fee",
+          "definition": "入場や参加のために払う料金。",
+          "frequency": 6,
+          "difference": "大会や競技への参加費にも使う。admission は来場者として入る料金に合う。",
+          "example": "Spectators pay no entry fee for the exhibition.",
+          "translation": "その展示では、観覧者に入場料はかからない。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・通常不可算、選考業務・受入れ件数では複数形も多い】入学許可、入会、加入",
+      "frequency": 7,
+      "register": [
+        "教育、組織運営、専門職。法律家の資格についての表現も含む。"
+      ],
+      "definition": "学校、団体、専門職などの一員として受け入れられること、またはそのための選考・受け入れ。教育機関の admissions は、入学者の選考・受け入れを扱う業務全体にも使う。申請を出す行為と、受け入れを認められることは別。",
+      "patterns": [
+        "apply for admission to 〈学校・団体〉＝その学校・団体への受け入れを申請する。",
+        "gain admission to 〈学校・団体〉＝そこへの入学・加入を認められる。",
+        "admission requirements＝入学・加入の要件。",
+        "the admissions office＝入学選考担当部署。",
+        "the admission of someone to 〈組織〉＝その人を組織に受け入れること。",
+        "admission to the bar＝法曹資格・弁護士としての登録等が認められること。"
+      ],
+      "collocations": [
+        {
+          "pattern": "apply for admission to 〈学校・団体〉",
+          "use": "受け入れを求める申請段階を述べる。",
+          "example": "She has applied for admission to the graduate programme.",
+          "translation": "彼女は、その大学院課程への入学を申請している。"
+        },
+        {
+          "pattern": "gain admission to 〈学校・団体〉",
+          "use": "受け入れが認められたことを述べる。",
+          "example": "He gained admission to the engineering school on his second attempt.",
+          "translation": "彼は、2回目の挑戦で工学部への入学を認められた。"
+        },
+        {
+          "pattern": "admission requirements",
+          "use": "受け入れに必要な条件を示す。",
+          "example": "Applicants should check the admission requirements before submitting their documents.",
+          "translation": "志願者は、書類を提出する前に入学要件を確認してください。"
+        },
+        {
+          "pattern": "the admissions office",
+          "use": "入学選考・受け入れの担当部署を示す。",
+          "example": "The admissions office will contact applicants by email.",
+          "translation": "入学選考担当部署は、志願者にメールで連絡する。"
+        },
+        {
+          "pattern": "the admission of someone to 〈組織〉",
+          "use": "受け入れられる人と受け入れ先を明示する。",
+          "example": "The committee approved the admission of three new members to the association.",
+          "translation": "委員会は、その協会に新しい会員3人を受け入れることを承認した。"
+        },
+        {
+          "pattern": "admission to the bar",
+          "use": "法律家としての資格・登録に関する表現を読む。",
+          "example": "The guide explains the process for admission to the bar in that jurisdiction.",
+          "translation": "その手引きは、その法域で弁護士資格を得るための手続きを説明している。"
+        }
+      ],
+      "notes": [
+        "admission to university は入学が認められること。application は出願・申請、registration は情報を登録すること、enrolment は在籍者として登録することに焦点があり、同じ段階の言い換えではない。admissions policy、admissions committee のように複数形で前置修飾する形がよく使われる一方、admission requirements の単数形も普通。new admissions は文脈によって新しく受け入れられた人々を指す。admission to the bar の具体的な資格・登録手続きは法域による。"
+      ],
+      "synonyms": [
+        {
+          "word": "acceptance",
+          "definition": "志願者や申請などを受け入れること。",
+          "frequency": 7,
+          "difference": "受け入れる判断に焦点があり、学校以外の申込み・提案にも広い。admission は組織へ入ることの許可・受け入れを表す。",
+          "example": "Her acceptance into the programme came earlier than expected.",
+          "translation": "彼女がその課程に受け入れられたという知らせは、予想より早く来た。"
+        },
+        {
+          "word": "entry",
+          "definition": "学校・職業・団体などに入ること。",
+          "frequency": 7,
+          "difference": "加わる段階を広く表す。admission は受け入れる側の許可や選考をより意識させる。",
+          "example": "The course provides a route to entry into the profession.",
+          "translation": "その課程は、その専門職に就くための道筋を提供する。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞・可算、不可算】入院、入院受け入れ",
+      "frequency": 6,
+      "register": [
+        "医療、健康関連の報道。"
+      ],
+      "definition": "病院などが人を入院患者として受け入れること。抽象的な入院という行為は不可算、個々の入院事例は可算で表す。医療現場では、受け入れられた患者自身を an admission、new admissions と呼ぶこともある。",
+      "patterns": [
+        "admission to hospital＝入院すること（主に英式）。",
+        "admission to the hospital＝その病院への入院（米式では病院での治療を一般に述べる際にも使う）。",
+        "on admission＝入院時に。",
+        "an emergency admission＝緊急入院の一件、緊急に受け入れた患者。",
+        "hospital admissions＝入院件数、入院患者。"
+      ],
+      "collocations": [
+        {
+          "pattern": "admission to hospital",
+          "use": "入院という受け入れを述べる。",
+          "example": "The injury required admission to hospital.",
+          "translation": "そのけがのため、入院が必要になった。"
+        },
+        {
+          "pattern": "admission to the hospital",
+          "use": "入院先の病院を伴って述べる。",
+          "example": "Admission to the hospital was arranged for the following morning.",
+          "translation": "その病院への入院は、翌朝に手配された。"
+        },
+        {
+          "pattern": "on admission",
+          "use": "記録・説明の時点を入院時に置く。",
+          "example": "The nurse checked the patient's details on admission.",
+          "translation": "看護師は、入院時に患者の情報を確認した。"
+        },
+        {
+          "pattern": "an emergency admission",
+          "use": "予定入院と区別して受け入れ事例を指す。",
+          "example": "The ward had an emergency admission during the night.",
+          "translation": "その病棟では、夜間に緊急入院が1件あった。"
+        },
+        {
+          "pattern": "hospital admissions",
+          "use": "入院件数の増減を述べる。",
+          "example": "Hospital admissions increased during the heatwave.",
+          "translation": "猛暑の間に、入院件数が増えた。"
+        }
+      ],
+      "notes": [
+        "hospital admissions が件数を表す場合、同じ人の複数回の入院を含み得るため、必ず実人数とは限らない。The new admission is resting. のように人を主語として述べる医療現場の用法もある。一般の visit to a doctor「受診」や、受付での registration だけを admission と同一視しない。on admission は場面依存の表現なので、病院の文脈がなければ必ず「入院時」と決めつけない。"
+      ],
+      "synonyms": [
+        {
+          "word": "hospitalization",
+          "definition": "治療のために病院に入ること、または入院していること。",
+          "frequency": 6,
+          "difference": "入院治療・入院状態を広く捉える。admission は病院が患者を受け入れる時点や事例に焦点がある。英式では hospitalisation とも綴る。",
+          "example": "The condition sometimes requires hospitalization.",
+          "translation": "その病状では、入院が必要になることもある。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "discharge",
+          "definition": "医療機関が入院患者を退院させること、退院。",
+          "frequency": 6,
+          "difference": "患者として受け入れる admission に対し、入院から送り出す方向の対立。退院したことが必ず完治を意味するわけではない。",
+          "example": "The patient received written instructions before discharge.",
+          "translation": "患者は、退院前に書面で説明を受けた。"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "【名詞・通常不可算】証拠の採用",
+      "frequency": 3,
+      "register": [
+        "法律。"
+      ],
+      "definition": "裁判で、資料・証言などを証拠として扱うことを認める行為。ある人が事実を認める発言をする語義2とは異なり、審理で扱う資料などを受け入れる意味。",
+      "patterns": [
+        "the admission of evidence＝証拠の採用。",
+        "the admission of 〈資料〉 into evidence＝その資料を証拠として採用すること。",
+        "object to the admission of 〈資料・証言〉＝その採用に異議を述べる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the admission of evidence",
+          "use": "証拠を審理で扱うことを認める行為を指す。",
+          "example": "The appeal raised questions about the admission of evidence at the trial.",
+          "translation": "その上訴では、公判での証拠採用に関する問題が提起された。"
+        },
+        {
+          "pattern": "the admission of 〈資料〉 into evidence",
+          "use": "何を証拠として採用するかを明示する。",
+          "example": "The judge permitted the admission of the photographs into evidence.",
+          "translation": "裁判官は、その写真を証拠として採用することを認めた。"
+        },
+        {
+          "pattern": "object to the admission of 〈資料・証言〉",
+          "use": "相手側の証拠の採用を争う。",
+          "example": "The lawyer objected to the admission of the recorded conversation.",
+          "translation": "弁護士は、その録音された会話を証拠として採用することに異議を述べた。"
+        }
+      ],
+      "notes": [
+        "admission of evidence は「証拠を採用すること」、an admission of guilt は語義2の「罪を認めること」で、同じ of の形でも役割が違う。証拠に採用されたことが、その内容の真実性や決定的な証明力を自動的に保証するわけではない。admissibility は「採用可能性・証拠能力」であり、実際に採用する行為そのものとは区別する。採用条件は適用される法制度による。"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "exclusion",
+          "definition": "資料などを証拠として採用しないこと。",
+          "frequency": 4,
+          "difference": "証拠を審理に受け入れる admission に対して、審理の証拠から外す方向で対立する。",
+          "example": "The court ordered the exclusion of the disputed document from evidence.",
+          "translation": "裁判所は、争いのあるその文書を証拠から除外するよう命じた。"
+        }
+      ]
+    }
+  ]
+}
