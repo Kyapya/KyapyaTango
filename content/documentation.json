@@ -1,0 +1,258 @@
+{
+  "word": "documentation",
+  "slug": "documentation",
+  "ipa": "米: /ˌdɑːkjumenˈteɪʃn/｜英: /ˌdɒkjumenˈteɪʃn/。5音節で、第4音節 /teɪ/ に主強勢、第1音節に第二強勢がある。示した米英差は第1音節の母音 /ɑː/ と /ɒ/。第5音節 /ʃn/ は弱く、強い「ション」にしない。",
+  "lead": "手続きに必要な書類や、事実・資格・主張などを裏付ける資料をまとめて指す。書類の集合として捉え、個別の文書の枚数や点数を数える語ではない。",
+  "updated": "2026-10-13",
+  "notion_url": "https://app.notion.com/p/documentation-3f84faa9b77d81a7b574ceac0c6d68b9",
+  "pronunciation": [
+    "document の主強勢は第1音節だが、documentation では -ation の /eɪ/ を含む第4音節が中心になる。-ment の部分へ主強勢を置かない。"
+  ],
+  "etymology": [
+    "英語の document に名詞を作る -ation が付いた語。document は、古フランス語を経てラテン語 documentum「教訓・証拠」、さらに docere「教える」にさかのぼる。documentation 自体の形成と、この語族の古い語源を分けて捉える。doctor「医師・博士」、doctrine「教義」も docere を共有する同根語。"
+  ],
+  "formation": [
+    {
+      "term": "document",
+      "description": "名詞では個別の文書、動詞では記録する・資料で裏付ける。documentation はこの語からの派生語であり、documentations を通常の「書類の複数形」として使わない。"
+    },
+    {
+      "term": "user documentation",
+      "description": "製品の利用者向け説明資料。user は資料を使う対象を示す。"
+    },
+    {
+      "term": "supporting documentation",
+      "description": "申請や主張を裏付ける資料。supporting は「支援的な性格」ではなく根拠を補う働きを示す。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "「参照・確認のために記録を整えること、または整えられた資料」が共通核。提出するものか、読む説明資料か、記録を残す作業かで訳を選ぶ。"
+    },
+    {
+      "type": "item",
+      "text": "参照・確認のための証拠資料 → 「必要書類・裏付け資料」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "参照・確認のための説明資料 → 「説明資料・技術文書」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "参照・確認できる記録を整える行為 → 「記録化・文書化」（語義3）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・不可算】必要書類・裏付け資料",
+      "frequency": 8,
+      "register": [
+        "業務・申請・取引・研究。"
+      ],
+      "definition": "手続きに必要な書類や、事実・資格・主張などを裏付ける資料をまとめて指す。書類の集合として捉え、個別の文書の枚数や点数を数える語ではない。",
+      "patterns": [
+        "documentation for 〈申請・手続き〉＝申請・手続きに使う書類",
+        "supporting documentation＝裏付け資料",
+        "provide documentation＝書類や資料を提出・提示する",
+        "documentation of 〈事実〉＝事実を証明する資料",
+        "without documentation＝裏付け書類なしで"
+      ],
+      "collocations": [
+        {
+          "pattern": "documentation for an application",
+          "use": "書類を使う目的を示す。",
+          "example": "We have collected the documentation for the application.",
+          "translation": "私たちはその申請に使う書類をそろえた。"
+        },
+        {
+          "pattern": "supporting documentation",
+          "use": "説明や請求を支える書類群を示す。",
+          "example": "Please send the supporting documentation with your request.",
+          "translation": "依頼に裏付け資料を添えて送ってください。"
+        },
+        {
+          "pattern": "provide documentation of 〈事実〉",
+          "use": "何を証明する資料かを述べる。",
+          "example": "The seller provided documentation of ownership.",
+          "translation": "売主は所有権を示す書類を提示した。"
+        },
+        {
+          "pattern": "without the required documentation",
+          "use": "必要書類がないことを表す。",
+          "example": "We cannot process the application without the required documentation.",
+          "translation": "必要書類がなければ、その申請を処理できません。"
+        }
+      ],
+      "notes": [
+        "通常は a documentation・three documentations としない。個別に数えるなら a document・three documents。The documentation is complete. のように単数扱いする。some documentation・all the necessary documentation が自然。documentation of ownership は所有権の証拠資料、documentation for an application は申請という用途を示す。of が常に作業を示すわけではなく、語義3との区別は文脈による。"
+      ],
+      "synonyms": [
+        {
+          "word": "paperwork",
+          "definition": "事務手続きに必要な書類、またはその処理。",
+          "frequency": 8,
+          "difference": "書類仕事という実務面を強調する。documentation は手続きだけでなく研究上の根拠資料も指す。",
+          "example": "Please return the paperwork to the office.",
+          "translation": "その書類を事務所へ返してください。"
+        },
+        {
+          "word": "evidence",
+          "definition": "事実や主張を支える証拠。",
+          "frequency": 9,
+          "difference": "文書に限らず物・証言・観察結果なども含む不可算名詞。documentation は記録・書類としての資料を指す。",
+          "example": "There is little evidence to support the claim.",
+          "translation": "その主張を裏付ける証拠はほとんどない。"
+        },
+        {
+          "word": "records",
+          "definition": "事実や活動を保存した記録類。",
+          "frequency": 9,
+          "difference": "何が起きたかの保存が中心。documentation は申請に必要な書類など、その用途や裏付けの働きに焦点を置きやすい。",
+          "example": "The records include copies of the receipts.",
+          "translation": "その記録類には領収書の写しが含まれている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・不可算】説明資料・技術文書",
+      "frequency": 7,
+      "register": [
+        "製品案内・技術・ソフトウェア。"
+      ],
+      "definition": "製品・機器・ソフトウェアなどの使い方や仕様、構造、保守方法を説明する資料。紙の説明書だけでなく、オンラインの手引きや参照資料も含む。",
+      "patterns": [
+        "documentation for 〈製品・ソフトウェア〉＝製品・ソフトウェアの説明資料",
+        "user documentation＝利用者向け説明資料",
+        "technical documentation＝技術資料",
+        "consult the documentation＝説明資料を参照する",
+        "update the documentation＝説明資料を更新する"
+      ],
+      "collocations": [
+        {
+          "pattern": "documentation for 〈ソフトウェア〉",
+          "use": "何の使い方を説明する資料かを示す。",
+          "example": "The documentation for this software includes working examples.",
+          "translation": "このソフトウェアの説明資料には、実際に動く例が含まれている。"
+        },
+        {
+          "pattern": "user documentation",
+          "use": "利用者向けの説明資料を指す。",
+          "example": "The user documentation explains how to reset the device.",
+          "translation": "利用者向けの説明資料には、機器をリセットする方法が書かれている。"
+        },
+        {
+          "pattern": "consult the technical documentation",
+          "use": "技術的な情報を調べる。",
+          "example": "Consult the technical documentation before changing the settings.",
+          "translation": "設定を変更する前に技術資料を参照してください。"
+        },
+        {
+          "pattern": "update the documentation",
+          "use": "製品などの変更に合わせて資料を改訂する。",
+          "example": "We updated the documentation after adding the new feature.",
+          "translation": "私たちは新機能を追加した後、説明資料を更新した。"
+        }
+      ],
+      "notes": [
+        "この語義でも不可算で、The documentation is available online. とする。a manual は1冊・1つのマニュアルを数えられるが、documentation は複数の手引きや参照ページを含む総体になり得る。for は資料の対象、on は扱う話題を示すことがある。docs は技術分野のくだけた略称で、正式な文章では documentation が使える。"
+      ],
+      "synonyms": [
+        {
+          "word": "manual",
+          "definition": "機器や作業の扱い方を詳しく説明した手引き。",
+          "frequency": 8,
+          "difference": "通常は可算で、一つの手引きとしてまとまったものを指す。documentation は手引き以外の参照資料も含む。",
+          "example": "The manual includes a troubleshooting section.",
+          "translation": "そのマニュアルにはトラブル対処の章がある。"
+        },
+        {
+          "word": "instructions",
+          "definition": "操作や作業の具体的なやり方を示す指示。",
+          "frequency": 9,
+          "difference": "何をどう行うかという手順に焦点がある。documentation は背景・仕様・設計なども説明する。",
+          "example": "Follow the installation instructions carefully.",
+          "translation": "インストールの手順に注意して従ってください。"
+        },
+        {
+          "word": "guide",
+          "definition": "ある作業や分野を理解するための案内・手引き。",
+          "frequency": 8,
+          "difference": "読者を導く構成を意識する語。documentation は技術仕様のような参照用情報も含む。",
+          "example": "The guide covers the basic editing tools.",
+          "translation": "そのガイドは基本的な編集ツールを扱っている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・不可算】記録化・文書化",
+      "frequency": 6,
+      "register": [
+        "業務・研究・記録管理。"
+      ],
+      "definition": "出来事・手順・合意などを参照できる形に記録すること、または根拠資料をそろえて内容を裏付けること。完成した書類そのものを指す語義1・2と、作業や過程としての捉え方を区別する。",
+      "patterns": [
+        "documentation of 〈出来事・手順〉＝出来事・手順の記録化",
+        "documentation of 〈主張〉＝主張の資料による裏付け",
+        "careful documentation＝丁寧な記録化",
+        "the documentation process＝記録を整える過程"
+      ],
+      "collocations": [
+        {
+          "pattern": "documentation of 〈手順〉",
+          "use": "手順を記録に残す作業を指す。",
+          "example": "Documentation of the testing process took several days.",
+          "translation": "試験過程の文書化には数日かかった。"
+        },
+        {
+          "pattern": "careful documentation of 〈出来事〉",
+          "use": "記録する行為の丁寧さを評価する。",
+          "example": "Careful documentation of the excavation helped preserve the context of each find.",
+          "translation": "発掘作業を丁寧に記録したことが、各出土品が見つかった状況を残すのに役立った。"
+        },
+        {
+          "pattern": "documentation of 〈主張〉",
+          "use": "根拠資料をそろえる作業を述べる。",
+          "example": "The editor requested better documentation of the claims.",
+          "translation": "編集者は、それらの主張をもっと十分な資料で裏付けるよう求めた。"
+        }
+      ],
+      "notes": [
+        "of の後は記録・裏付けの対象で、作業者は documentation by the research team のように by で示せる。documentation of the agreement は「合意を文書化すること」と「合意を示す資料」の両方になり得る。took several days のような述語なら作業の読みが明確になる。記録する媒体は文章だけとは限らず、写真や図を組み込む場合もある。単語そのものは承認・契約成立・公表を意味しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "recording",
+          "definition": "情報や出来事を記録として残すこと。",
+          "frequency": 7,
+          "difference": "この行為義では不可算。音声・映像の収録も含む広い語で、documentation は参照・裏付けのために記録を整える面を強調する。",
+          "example": "Accurate recording of the results is essential.",
+          "translation": "結果を正確に記録することが不可欠だ。"
+        },
+        {
+          "word": "record-keeping",
+          "definition": "活動や取引などの記録を継続して作成・管理すること。",
+          "frequency": 6,
+          "difference": "単発の記録化より、日常的な保存・管理の仕組みに焦点がある。",
+          "example": "Good record-keeping makes reviews easier.",
+          "translation": "記録をきちんと管理しておくと、見直しがしやすくなる。"
+        },
+        {
+          "word": "substantiation",
+          "definition": "証拠を示して主張を裏付けること。",
+          "frequency": 4,
+          "difference": "真実性や根拠の補強に焦点があり、手順を説明資料にする意味には使わない。",
+          "example": "The allegation requires substantiation.",
+          "translation": "その申し立てには裏付けが必要だ。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

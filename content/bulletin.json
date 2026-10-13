@@ -1,0 +1,320 @@
+{
+  "word": "bulletin",
+  "slug": "bulletin",
+  "ipa": "米・英: /ˈbʊl.ə.tɪn/。3音節で第1音節に強勢。第1音節の /ʊ/ は長母音 /uː/ ではない。第2音節を /ɪ/ と示す発音もあり、ここでは /ə/ の形を示している。",
+  "lead": "ラジオ・テレビなどで、ニュースや気象情報を短くまとめて伝える報道・放送枠。番組を中断して入る速報にも、定時の短いニュースにも使う。短く要点を伝えるという性格があり、bulletin だけで緊急事態を意味するわけではない。",
+  "updated": "2026-10-13",
+  "notion_url": "https://app.notion.com/p/bulletin-3f84faa9b77d81fdb8b6f8487568d294",
+  "pronunciation": [
+    "名詞の複数形および動詞の三人称単数形は bulletins /ˈbʊl.ə.tɪnz/。動詞の過去形・過去分詞 bulletined は語末が /nd/、現在分詞は bulletining となる。"
+  ],
+  "etymology": [
+    "フランス語 bulletin から入った語。イタリア語 bullettino を経路に含める説明や、中期フランス語 bullette とのつながりを示す説明があり、中間の経路には資料差がある。いずれも、印章や公的文書に関係する bulla の語族につながる。",
+    "同じ語族の bull には「教皇の勅書」という名詞がある。これは「雄牛」の bull とは語源の異なる語。bulletin を「弾丸のように速い知らせ」とする説明は語源ではなく、通常の会報にも使われる現在の意味とも合わない。"
+  ],
+  "formation": [
+    {
+      "term": "bulletin board",
+      "description": "掲示板。物理的な掲示板の意味では主に北米英語で、英国では noticeboard が一般的。コンピューター上の電子掲示板も指す複合名詞。"
+    },
+    {
+      "term": "news bulletin",
+      "description": "短いニュース報道・ニュース枠を指す複合名詞。"
+    },
+    {
+      "term": "all-points bulletin",
+      "description": "警察が広く一斉に出す捜索などの通報。APB と略す。"
+    },
+    {
+      "term": "bulletined",
+      "description": "動詞 bulletin の過去形・過去分詞。bulletined positions「告知された職」のような分詞修飾でも、中心は告知するという動詞の意味である。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "「情報をまとめて、関係する人々へ伝える知らせ」が共通核。短いニュース、重要事項の公式な知らせ、組織の刊行物、その形で公表する行為をつなげて理解できる。緊急性や紙媒体であることは共通の必須条件ではない。"
+    },
+    {
+      "type": "item",
+      "text": "情報をまとめて伝える放送の知らせ → 「短いニュース・ニュース速報」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "情報をまとめて伝える公式の知らせ → 「公報・公式発表・情報通報」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "情報をまとめて伝える組織の刊行物 → 「会報・広報誌・紀要」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "情報をまとめた告知で公にする行為 → 「公示する・通報する」（語義4）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算】短いニュース・ニュース速報",
+      "frequency": 6,
+      "register": [
+        "報道、ラジオ・テレビ、ニュース配信。"
+      ],
+      "definition": "ラジオ・テレビなどで、ニュースや気象情報を短くまとめて伝える報道・放送枠。番組を中断して入る速報にも、定時の短いニュースにも使う。短く要点を伝えるという性格があり、bulletin だけで緊急事態を意味するわけではない。",
+      "patterns": [
+        "a news bulletin＝短いニュース放送・速報",
+        "a weather bulletin＝気象情報の短い放送",
+        "broadcast a bulletin＝短いニュースを放送する",
+        "in a bulletin＝短いニュース放送の中で"
+      ],
+      "collocations": [
+        {
+          "pattern": "a news bulletin",
+          "use": "定時のニュース枠を含め、短い報道を表す。",
+          "example": "I listened to the morning news bulletin while making breakfast.",
+          "translation": "私は朝食を作りながら、朝の短いニュース番組を聞いた。"
+        },
+        {
+          "pattern": "a weather bulletin",
+          "use": "気象の状況や予報をまとめた短い放送を表す。",
+          "example": "The radio station aired a weather bulletin before the traffic report.",
+          "translation": "そのラジオ局は、交通情報の前に気象情報を放送した。"
+        },
+        {
+          "pattern": "broadcast a bulletin",
+          "use": "放送局が短いニュースを流すと述べる。",
+          "example": "The station interrupted the program to broadcast a bulletin about the earthquake.",
+          "translation": "その局は番組を中断して、地震についての速報を放送した。"
+        },
+        {
+          "pattern": "in a bulletin",
+          "use": "情報がどのニュース枠で伝えられたかを示す。",
+          "example": "The result was reported in the evening bulletin.",
+          "translation": "その結果は夕方のニュースで報じられた。"
+        }
+      ],
+      "notes": [
+        "a bulletin、two bulletins のように数える。news 自体は不可算でも、a news bulletin は「一つのニュース枠・速報」として可算。定時ニュースなら「ニュース」、突発的な知らせなら「速報」と、文脈に合わせて訳す。緊急性は emergency、special や番組の中断などの文脈で強まる。weather bulletin は機関が出す文書にもなり、その場合は語義2に近い。"
+      ],
+      "synonyms": [
+        {
+          "word": "news report",
+          "definition": "ニュースとなる出来事についての報道。",
+          "frequency": 8,
+          "difference": "一つの出来事を詳しく報じる記事・放送にも使う。bulletin は短い情報のまとまりや放送枠を指しやすい。",
+          "example": "The news report included interviews with residents.",
+          "translation": "その報道には住民へのインタビューが含まれていた。"
+        },
+        {
+          "word": "newsflash",
+          "definition": "通常の放送などに割り込んで伝える短い速報。",
+          "frequency": 4,
+          "difference": "新しい重要情報を急いで伝える点が強い。bulletin は定時の通常ニュースにも使える。",
+          "example": "A newsflash interrupted the music program.",
+          "translation": "ニュース速報が音楽番組に割り込んだ。"
+        },
+        {
+          "word": "newscast",
+          "definition": "ラジオやテレビで放送されるニュース番組。",
+          "frequency": 6,
+          "difference": "特に北米でニュース放送全体を指す語。bulletin は比較的短いニュースのまとまりを意識させる。",
+          "example": "The story opened the evening newscast.",
+          "translation": "そのニュースは夕方のニュース番組の冒頭で取り上げられた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算】公報・公式発表・情報通報",
+      "frequency": 5,
+      "register": [
+        "公式発表、行政、技術情報、防災、業務。"
+      ],
+      "definition": "重要な状況や変更について、関係する機関・組織などが要点をまとめて出す知らせ。健康状態、災害、保守情報、運行状況などに使う。信頼できる発信元からの簡潔な情報という性格が典型だが、政府の文書だけには限らない。",
+      "patterns": [
+        "issue a bulletin on something＝ある件について情報通報を出す",
+        "release a bulletin＝情報・声明を発表する",
+        "a bulletin from someone＝ある発信元からの情報通報",
+        "a service bulletin＝保守・整備などに関する技術通報"
+      ],
+      "collocations": [
+        {
+          "pattern": "issue a bulletin on something",
+          "use": "機関が特定の状況について情報を公にする。",
+          "example": "The agency issued a bulletin on water levels in the river.",
+          "translation": "その機関は、川の水位について情報を発表した。"
+        },
+        {
+          "pattern": "release a bulletin",
+          "use": "まとまった公式情報を発表する。",
+          "example": "The hospital released a bulletin describing the president's condition.",
+          "translation": "病院は、大統領の容体を説明する発表を行った。"
+        },
+        {
+          "pattern": "a bulletin from someone",
+          "use": "情報の発信元を示す。",
+          "example": "A bulletin from the transport authority warned of delays across the network.",
+          "translation": "交通当局の通報は、路線網全体での遅延を警告していた。"
+        },
+        {
+          "pattern": "a service bulletin",
+          "use": "製品の保守や整備に関する技術情報を表す。",
+          "example": "The manufacturer issued a service bulletin explaining how to inspect the pump.",
+          "translation": "製造業者は、ポンプの点検方法を説明する技術通報を出した。"
+        }
+      ],
+      "notes": [
+        "on の後ろは主題、from の後ろは発信元。issue、release、put out a bulletin は情報を出す側の表現。bulletin は知らせの内容・文書で、掲示する板そのものは bulletin board。a service bulletin は技術情報の名称であり、それだけで製品回収の命令や特定の法的義務があるとは限らない。all-points bulletin は警察の広域通報を指す定着した複合語。"
+      ],
+      "synonyms": [
+        {
+          "word": "announcement",
+          "definition": "人々に出来事や決定などを知らせる発表。",
+          "frequency": 8,
+          "difference": "長さや形式の範囲が広く、個人的な慶事にも使う。bulletin は機関などからの簡潔にまとめられた情報を指しやすい。",
+          "example": "The airport made an announcement about the closure.",
+          "translation": "空港は閉鎖について発表した。"
+        },
+        {
+          "word": "notice",
+          "definition": "必要な情報・指示・警告を伝える通知や掲示。",
+          "frequency": 8,
+          "difference": "受け手に読んでもらう掲示や個別通知にも広く使う。bulletin は状況をまとめた通報や更新情報に向く。",
+          "example": "The building manager posted a notice about the inspection.",
+          "translation": "建物の管理者は点検についての通知を掲示した。"
+        },
+        {
+          "word": "communiqué",
+          "definition": "会議や交渉などの後に公式に発表される声明。",
+          "frequency": 3,
+          "difference": "外交・政治の正式な共同声明などに使う硬い語。bulletin は日常の運行・保守など、より広い情報に使える。",
+          "example": "The delegations issued a joint communiqué after the talks.",
+          "translation": "代表団は会談後に共同声明を出した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算】会報・広報誌・紀要",
+      "frequency": 5,
+      "register": [
+        "団体・協会、教育機関、学会、宗教団体などの刊行物。"
+      ],
+      "definition": "組織・団体が活動、予定、研究、連絡事項などをまとめて発行する刊行物。定期的な会報や、学術的な紀要にも使われる。紙に印刷されたものが伝統的だが、電子版もあり、すべてが緊急の短い知らせというわけではない。",
+      "patterns": [
+        "publish a bulletin＝会報・紀要を発行する",
+        "a monthly bulletin＝月刊の会報",
+        "in the bulletin＝会報・紀要の中に",
+        "the latest issue of the bulletin＝会報・紀要の最新号"
+      ],
+      "collocations": [
+        {
+          "pattern": "publish a bulletin",
+          "use": "組織が連絡や活動報告をまとめた刊行物を出す。",
+          "example": "The association publishes a bulletin for its members.",
+          "translation": "協会は会員向けの会報を発行している。"
+        },
+        {
+          "pattern": "a monthly bulletin",
+          "use": "刊行の間隔を示す。",
+          "example": "Our monthly bulletin includes reports from local groups.",
+          "translation": "私たちの月刊会報には、地域の団体からの報告が載っている。"
+        },
+        {
+          "pattern": "in the bulletin",
+          "use": "刊行物の中に載っている情報を示す。",
+          "example": "Details of the lecture appear in the society's bulletin.",
+          "translation": "講演の詳細は学会の会報に載っている。"
+        },
+        {
+          "pattern": "the latest issue of the bulletin",
+          "use": "継続刊行物の特定の号を指す。",
+          "example": "The latest issue of the bulletin is available online.",
+          "translation": "会報の最新号はオンラインで読める。"
+        }
+      ],
+      "notes": [
+        "a weekly bulletin、a church bulletin のように刊行間隔や発行組織で修飾できる。学会の Bulletin などは刊行物の正式名称の一部になることがあり、「速報」と訳すより「紀要」「会報」が適する場合がある。一冊・一号を明確に指すには an issue of the bulletin。bulletin board は情報を掲示・交換する場所であり、この刊行物の意味ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "newsletter",
+          "definition": "組織や話題に関するニュースを読者へ届ける定期的な通信・会報。",
+          "frequency": 7,
+          "difference": "近況や案内を購読者へ届ける性格が強く、電子メールの配信にもよく使う。bulletin は公式・技術的な内容や学術刊行物にも使える。",
+          "example": "The museum sends a newsletter to subscribers.",
+          "translation": "博物館は購読者にニュースレターを送っている。"
+        },
+        {
+          "word": "journal",
+          "definition": "専門分野や学術分野の論文・記事を掲載する定期刊行物。",
+          "frequency": 7,
+          "difference": "論文や専門記事の掲載に重点がある。bulletin は予定や会員向け連絡を主体とする会報にも使う。",
+          "example": "The findings were published in a medical journal.",
+          "translation": "その研究結果は医学雑誌に発表された。"
+        },
+        {
+          "word": "periodical",
+          "definition": "一定の間隔で続けて発行される刊行物。",
+          "frequency": 4,
+          "difference": "刊行形態を分類する広い語。bulletin はその一種になり得るが、単発の公式通報にも使う。",
+          "example": "The library keeps current periodicals near the entrance.",
+          "translation": "図書館は現在刊行中の定期刊行物を入口の近くに置いている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞・他動詞】公示する・通報する",
+      "frequency": 2,
+      "register": [
+        "低頻度。公示・通報、鉄道などの業務文書。"
+      ],
+      "definition": "情報を bulletin の形で公に知らせる。一般会話ではまれで、告知文や公示を扱う文脈に使う。たとえば鉄道の労務文書では、職の空きや勤務割当を告知する用法が見られる。単に「ニュースを見る」という意味の動詞ではない。",
+      "patterns": [
+        "bulletin something＝情報・空き職などを公示する",
+        "be bulletined＝情報・空き職などが公示される"
+      ],
+      "collocations": [
+        {
+          "pattern": "bulletin vacancies",
+          "use": "業務文書で、空きのある職を告知すると述べる。",
+          "example": "The railway bulletined the vacancies so employees could apply.",
+          "translation": "鉄道会社は、従業員が応募できるように空きのある職を公示した。"
+        },
+        {
+          "pattern": "be bulletined",
+          "use": "公示される対象を主語にする。",
+          "example": "The new assignments were bulletined before applications were accepted.",
+          "translation": "新しい勤務割当は、応募が受け付けられる前に公示された。"
+        }
+      ],
+      "notes": [
+        "活用は bulletin、bulletins、bulletined、bulletining。語末の n を重ねて bulletinned とはしない。一般的に「発表する」なら announce、掲示するなら post のほうが広く使える。名詞の bulletins と動詞の bulletins は同形なので、後ろに目的語があるかなどから判断する。鉄道の文書に出る具体的な応募期間や優先順位は、この動詞の意味そのものには含まれない。"
+      ],
+      "synonyms": [
+        {
+          "word": "announce",
+          "definition": "事柄や決定を人々に知らせる・発表する。",
+          "frequency": 8,
+          "difference": "口頭でも書面でも広く使う。bulletin は告知・公示という形で知らせることを指定する低頻度の動詞。",
+          "example": "The company announced the new positions on its website.",
+          "translation": "その会社は新設した職についてウェブサイトで発表した。"
+        },
+        {
+          "word": "post",
+          "definition": "通知や情報を掲示板・ウェブサイトなどに掲載する。",
+          "frequency": 8,
+          "difference": "情報を見られる場所に載せる行為に重点がある。bulletin は通報・公示するという業務上の表現になりやすい。",
+          "example": "The office posted the vacancies on the staff portal.",
+          "translation": "事務所は、空きのある職を職員向けポータルに掲載した。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
