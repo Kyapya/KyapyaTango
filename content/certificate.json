@@ -155,7 +155,7 @@
           "pattern": "award someone a certificate",
           "use": "教育機関などが証明書を授与する。",
           "example": "The college awarded him a certificate after he passed the assessment.",
-          "translation": "大学は、彼が評価試験に合格した後、証明書を授与した。"
+          "translation": "大学は、彼が評価試験に合格した後、彼に証明書を授与した。"
         },
         {
           "pattern": "hold a valid certificate",
@@ -204,15 +204,15 @@
       ],
       "definition": "gift certificate の形で、指定された金額や商品・サービスを店などで利用できる券を指す。贈り物として購入するのが典型。certificate 単独で常に商品券になるわけではない。",
       "patterns": [
-        "a gift certificate for 〈金額〉＝金額分の商品券",
+        "a gift certificate for 〈金額〉＝金額分の商品券（a fifty-dollar gift certificate なら50ドル分の商品券）",
         "a gift certificate for 〈サービス〉＝サービスを受けるためのギフト券",
         "redeem a gift certificate＝商品券・ギフト券を使用する"
       ],
       "collocations": [
         {
-          "pattern": "a gift certificate for 〈金額〉",
-          "use": "利用できる額を示す。",
-          "example": "I bought a gift certificate for fifty dollars.",
+          "pattern": "a fifty-dollar gift certificate",
+          "use": "利用できる額が50ドルであることを示す。",
+          "example": "I bought a fifty-dollar gift certificate.",
           "translation": "私は50ドル分の商品券を買った。"
         },
         {
