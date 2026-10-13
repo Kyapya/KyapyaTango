@@ -1,0 +1,525 @@
+{
+  "word": "regulation",
+  "slug": "regulation",
+  "ipa": "米・英: /ˌreɡjuˈleɪʃən/。4音節で、第1音節に第二強勢、第3音節 /leɪ/ に主強勢がある。第2音節は /ju/、第4音節の母音は弱い /ə/。regulations の語尾は /z/。動詞 regulate /ˈreɡjuleɪt/ では主強勢が第1音節にあり、名詞化に伴う強勢位置の違いに注意する。",
+  "lead": "政府、機関、権限ある組織などが、活動・手続き・人の行動を管理するために定めた公式の規則。個々の規定を a regulation、複数・一式を regulations と呼ぶ。作る主体は政府に限らず、すべてが同じ法形式の「法律」というわけでもない。",
+  "updated": "2026-10-13",
+  "notion_url": "https://app.notion.com/p/regulation-3f84faa9b77d816d87ccf5159bdd9f37",
+  "pronunciation": [],
+  "etymology": [
+    "regulate「規則によって管理する、調整する」と同じ語族の名詞で、-ion は作用や結果を表す。語族の基には後期ラテン語 regulare、その基にラテン語 regula「規則、まっすぐな棒」がある。「一定の基準に沿わせる」という意味のつながりを持つが、現代英語の regular に単純に -ation を足した語ではない。",
+    "同じ regula の系列に rule「規則、統治する」と regular「規則的な、通常の」がある。名詞 regulation の「規制・調整」と、形容詞 regulation の「規定どおりの」を区別する。"
+  ],
+  "formation": [
+    {
+      "term": "regulate",
+      "description": "は「規制する、調整する」という動詞。regulate an industry は産業の規制、regulate pressure は圧力の調整。"
+    },
+    {
+      "term": "regulatory",
+      "description": "は「規制に関する、規制を担う」。a regulatory body は規制機関で、規定の服装などを表す regulation と無条件に置換しない。"
+    },
+    {
+      "term": "regulator",
+      "description": "は「規制当局・規制担当者」、または圧力などの「調整装置」。どちらも調整・管理する側に焦点がある。"
+    },
+    {
+      "term": "deregulation",
+      "description": "は「規制撤廃・規制緩和」。self-regulation は組織などが自らを規制する「自主規制」、または自分の行動などを調整する「自己調整」。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "活動・状態を一定の基準や範囲に合わせることが核。守るべき規定、その管理作用、規定に合ったもの、競技の規定時間へとつながる。"
+    },
+    {
+      "type": "item",
+      "text": "基準に合わせるための個別の定め → 「規定、規則」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "基準に合わせて活動を管理する作用 → 「規制、統制」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "基準に合わせて働き・状態を保つ作用 → 「調整、制御」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "基準に合った服装・用具の性質 → 「規定どおりの、規格に合った」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "基準として競技に定められた時間 → 「正規の試合時間」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "基準に合うことから捉えた普通の型 → 「お決まりの、普通の」（語義6）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算、通常複数】規定、規則",
+      "frequency": 8,
+      "register": [
+        "行政、業務、安全、施設、組織の運営。"
+      ],
+      "definition": "政府、機関、権限ある組織などが、活動・手続き・人の行動を管理するために定めた公式の規則。個々の規定を a regulation、複数・一式を regulations と呼ぶ。作る主体は政府に限らず、すべてが同じ法形式の「法律」というわけでもない。",
+      "patterns": [
+        "regulations on something＝対象についての規定",
+        "regulations governing something＝活動などを規律する規定",
+        "comply with regulations＝規定を遵守する",
+        "conform to regulations＝規定に適合する",
+        "enforce regulations＝規定を施行して守らせる",
+        "violate regulations＝規定に違反する",
+        "under the regulations＝規定に従えば",
+        "be against regulations＝規定に反する",
+        "regulations come into force＝規定が施行される",
+        "relax regulations＝規定を緩和する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "regulations on something",
+          "use": "規定が何を対象にするのかを示す。",
+          "example": "The handbook explains the regulations on storing chemicals.",
+          "translation": "その手引きは、化学薬品の保管に関する規定を説明している。"
+        },
+        {
+          "pattern": "regulations governing something",
+          "use": "規定が活動のあり方を管理することを示す。",
+          "example": "The agency revised the regulations governing commercial fishing.",
+          "translation": "その機関は商業漁業を規律する規定を改定した。"
+        },
+        {
+          "pattern": "comply with regulations",
+          "use": "行為者が規定に従うことを表す。",
+          "example": "All contractors must comply with the site's safety regulations.",
+          "translation": "すべての請負業者は、現場の安全規定を守らなければならない。"
+        },
+        {
+          "pattern": "conform to regulations",
+          "use": "製品・設備・方法などが規定に合っていることを示す。",
+          "example": "The replacement parts conform to the relevant regulations.",
+          "translation": "交換部品は関連する規定に適合している。"
+        },
+        {
+          "pattern": "enforce regulations",
+          "use": "管理する側が、規定を実際に適用して守らせる。",
+          "example": "The inspectors are responsible for enforcing the regulations.",
+          "translation": "検査官たちは、その規定を適用して守らせる責任を負う。"
+        },
+        {
+          "pattern": "violate regulations",
+          "use": "規定違反となる行為を述べる。",
+          "example": "Blocking the emergency exit violates fire regulations.",
+          "translation": "非常口をふさぐことは消防規定に違反する。"
+        },
+        {
+          "pattern": "under the regulations",
+          "use": "規定の定めに照らして何が必要かなどを示す。",
+          "example": "Under the regulations, each visitor must wear protective glasses.",
+          "translation": "規定では、来訪者はそれぞれ保護眼鏡を着用しなければならない。"
+        },
+        {
+          "pattern": "regulations come into force",
+          "use": "規定が実際に効力を持つ時点を述べる。",
+          "example": "The revised regulations come into force in January.",
+          "translation": "改定された規定は1月に施行される。"
+        },
+        {
+          "pattern": "relax regulations",
+          "use": "規定による制限を以前より緩やかにする。",
+          "example": "The council voted to relax regulations on outdoor seating.",
+          "translation": "議会は、屋外席に関する規定を緩和することを投票で決めた。"
+        }
+      ],
+      "notes": [
+        "規定を一つずつ数える用法なので、a regulation、several regulations が可能。誤: comply regulations → 正: comply with regulations。conform は to、comply は with を使う。rules and regulations は決まり全体を指す定型的な組合せで、両者が必ず別の法的階層を表すわけではない。under the regulations「規定に従えば」と against the regulations「規定に反して」を取り違えない。Regulation 5 のように番号の付いた規定を指すこともある。具体的な法的効力・発行主体は法域と文書で確認する。"
+      ],
+      "synonyms": [
+        {
+          "word": "rule",
+          "definition": "特定の活動・場面で守るべき決まり。",
+          "frequency": 10,
+          "difference": "regulation より広く、ゲームや家庭の決まり、不文律にも使う。rule に法的効力がないという意味ではない。",
+          "example": "The club has a rule against using phones during rehearsals.",
+          "translation": "そのクラブには、リハーサル中の携帯電話使用を禁じる規則がある。"
+        },
+        {
+          "word": "law",
+          "definition": "公的な権威によって定められ、従うことを求められる法。",
+          "frequency": 9,
+          "difference": "法としての一般的な呼び方。regulation が法的効力を持つ場合もあるが、国ごとの法形式を常に同じ関係で説明することはできない。",
+          "example": "The law requires employers to keep accurate records.",
+          "translation": "その法律は、雇用主に正確な記録の保管を義務づけている。"
+        },
+        {
+          "word": "ordinance",
+          "definition": "自治体などが定める条例・規則。",
+          "frequency": 4,
+          "difference": "特に地方の権限ある主体が定める法令に使う。regulation より主体・法形式の限定が強い。",
+          "example": "The city adopted an ordinance restricting night-time noise.",
+          "translation": "市は夜間の騒音を制限する条例を採択した。"
+        },
+        {
+          "word": "bylaw",
+          "definition": "組織・団体の内部規則、または地域の条例。",
+          "frequency": 4,
+          "difference": "規則の適用主体・組織の内部運営を意識させる。意味の重点は国・制度によって異なる。",
+          "example": "The association amended its bylaws to allow online voting.",
+          "translation": "協会は、オンライン投票を認めるよう会則を改定した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・不可算】規制、統制",
+      "frequency": 7,
+      "register": [
+        "政治、経済、行政、組織運営。"
+      ],
+      "definition": "規則などによって、産業・事業・活動のあり方を管理すること。個々の規定という成果物より、管理する行為・制度・程度に重点がある。規制への賛成・反対のどちらの文脈でも使え、語自体が過剰な介入だと評価するわけではない。",
+      "patterns": [
+        "regulation of something＝活動などの規制",
+        "regulation by someone＝主体による規制",
+        "government regulation＝政府による規制",
+        "be subject to regulation＝規制の対象である",
+        "tighter regulation＝より厳しい規制",
+        "excessive regulation＝過剰な規制",
+        "a system of regulation＝規制の仕組み。"
+      ],
+      "collocations": [
+        {
+          "pattern": "regulation of something",
+          "use": "規制される対象を of の後ろに置く。",
+          "example": "The report examines the regulation of online advertising.",
+          "translation": "その報告書は、オンライン広告の規制を検討している。"
+        },
+        {
+          "pattern": "regulation by someone",
+          "use": "誰が規制するのかを by で示す。",
+          "example": "The proposal would place the service under regulation by an independent body.",
+          "translation": "その提案では、サービスを独立機関による規制の対象とすることになる。"
+        },
+        {
+          "pattern": "be subject to regulation",
+          "use": "活動などが規制の対象だと説明する。",
+          "example": "Commercial broadcasting is subject to regulation.",
+          "translation": "商業放送は規制の対象である。"
+        },
+        {
+          "pattern": "tighter regulation",
+          "use": "規制の程度を強めるという議論を述べる。",
+          "example": "Consumer groups called for tighter regulation of misleading advertisements.",
+          "translation": "消費者団体は、誤解を招く広告への規制強化を求めた。"
+        },
+        {
+          "pattern": "excessive regulation",
+          "use": "話者が規制を過剰と評価していることを示す。",
+          "example": "The owners argued that excessive regulation was slowing innovation.",
+          "translation": "経営者たちは、過剰な規制が技術革新を遅らせていると主張した。"
+        }
+      ],
+      "notes": [
+        "この用法は不可算で、more regulation は規制の強化・増大、more regulations は個別の規則の増加（語義1）。regulation of the industry の of は対象、regulation by the agency の by は主体。自主規制 self-regulation も regulation の一種で、規制がないことではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "control",
+          "definition": "活動や物事の進み方を管理・制御すること。",
+          "frequency": 9,
+          "difference": "規則による管理に限らない広い語。regulation は制度的な規制を意識させる。",
+          "example": "The debate focused on public control of the service.",
+          "translation": "議論は、そのサービスの公的な管理に集中した。"
+        },
+        {
+          "word": "oversight",
+          "definition": "活動が適切に行われているか監督すること。",
+          "frequency": 6,
+          "difference": "監視・監督に焦点があり、規則を設けて制限する regulation と常に同じではない。",
+          "example": "The project operates under independent oversight.",
+          "translation": "その事業は独立した監督のもとで運営されている。"
+        },
+        {
+          "word": "supervision",
+          "definition": "人や活動を見守り、必要な指示・管理を行うこと。",
+          "frequency": 7,
+          "difference": "日々の業務・作業の監督にも使う。regulation は活動を管理する制度・規則に重点を置きやすい。",
+          "example": "The trainees work under close supervision.",
+          "translation": "研修生たちは綿密な監督のもとで働いている。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "deregulation",
+          "definition": "規制を撤廃・緩和すること。",
+          "frequency": 5,
+          "difference": "規制を設ける・強める方向に対し、取り除く・弱める方向で対立する。すべての規制がなくなるとは限らない。",
+          "example": "The proposal calls for gradual deregulation of the sector.",
+          "translation": "その提案は、その分野の段階的な規制緩和を求めている。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【名詞・不可算】調整、制御",
+      "frequency": 6,
+      "register": [
+        "機械、科学、生理、心理、一般的な技術説明。"
+      ],
+      "definition": "温度、圧力、速度、働きなどを適切な水準・範囲に保つために調節すること。機械・生体・行動などに使い、政府の規則で取り締まることとは限らない。",
+      "patterns": [
+        "regulation of 〈働き・量〉＝働きや量の調整",
+        "temperature regulation＝温度調整",
+        "pressure regulation＝圧力調整",
+        "automatic regulation＝自動調整",
+        "emotional regulation＝感情の調整。"
+      ],
+      "collocations": [
+        {
+          "pattern": "temperature regulation",
+          "use": "温度を適切な範囲に保つ働きを指す。",
+          "example": "The manual explains the system used for temperature regulation.",
+          "translation": "説明書は、温度調整に使うシステムを説明している。"
+        },
+        {
+          "pattern": "regulation of body temperature",
+          "use": "身体の温度を調整する働きを語彙的に表す。",
+          "example": "The chapter discusses the regulation of body temperature.",
+          "translation": "その章は体温調節を論じている。"
+        },
+        {
+          "pattern": "pressure regulation",
+          "use": "圧力を一定の範囲に保つ調整を示す。",
+          "example": "Reliable pressure regulation is essential for this equipment.",
+          "translation": "この装置には、確実な圧力調整が欠かせない。"
+        },
+        {
+          "pattern": "emotional regulation",
+          "use": "感情の強さや表れ方などを調整することを指す。",
+          "example": "The workshop focuses on emotional regulation in stressful situations.",
+          "translation": "その講習会では、ストレスのかかる状況での感情の調整を扱う。"
+        }
+      ],
+      "notes": [
+        "ここでの regulation は、規則や法的規制とは限らない。regulation of temperature を通常「温度の規制」と訳さず「温度調整」とする。regulation は上げ下げを含む調整であり、単なる reduction「減少」とは異なる。生物学・電気工学ではさらに限定された専門定義もあるため、一般の「調整」の説明から具体的な機序や数式を推測しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "control",
+          "definition": "働きや量を目的に合うよう制御すること。",
+          "frequency": 8,
+          "difference": "調整に加え、開始・停止なども含む広い語。regulation は望ましい水準・範囲を保つことに焦点がある。",
+          "example": "The device provides precise control of water flow.",
+          "translation": "その装置は水の流れを精密に制御する。"
+        },
+        {
+          "word": "adjustment",
+          "definition": "状態や設定を適切にするための調節。",
+          "frequency": 7,
+          "difference": "一回の変更にも使う。regulation は継続して適正な状態を保つ過程にも使いやすい。",
+          "example": "A small adjustment to the valve reduced the noise.",
+          "translation": "バルブを少し調整すると、騒音が減った。"
+        },
+        {
+          "word": "modulation",
+          "definition": "強さ・程度などを変化させて調整すること。",
+          "frequency": 4,
+          "difference": "変化の度合い・パターンを調節する技術的な語。regulation は基準や範囲を保つ管理に重点を置ける。",
+          "example": "The study examines the modulation of the signal's intensity.",
+          "translation": "その研究は、信号強度の調節を調べている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【形容詞・主に名詞前】規定どおりの、規格に合った",
+      "frequency": 5,
+      "register": [
+        "制服、競技、組織の装備・服装。"
+      ],
+      "definition": "規則で定められた種類・大きさ・形などに合う服装・用具・設備を表す。規則に従って着用・使用されることが中心で、規制する側という意味ではない。",
+      "patterns": [
+        "regulation uniform＝規定の制服",
+        "regulation footwear＝規定の靴",
+        "a regulation ball＝規定のボール",
+        "a regulation-size 〈用具・設備〉＝規定の大きさの用具・設備。"
+      ],
+      "collocations": [
+        {
+          "pattern": "regulation uniform",
+          "use": "規則で指定されている制服を指す。",
+          "example": "All cadets wore regulation uniform for the inspection.",
+          "translation": "すべての訓練生は検査に際して規定の制服を着ていた。"
+        },
+        {
+          "pattern": "regulation footwear",
+          "use": "着用する靴が規定に合うことを示す。",
+          "example": "Players must wear regulation footwear on the court.",
+          "translation": "選手はコート上で規定の靴を履かなければならない。"
+        },
+        {
+          "pattern": "a regulation ball",
+          "use": "競技規定に合ったボールを示す。",
+          "example": "The final will be played with a regulation ball.",
+          "translation": "決勝では規定のボールを使用する。"
+        },
+        {
+          "pattern": "a regulation-size 〈用具・設備〉",
+          "use": "大きさが規定に合うことを複合修飾で示す。",
+          "example": "The school has a regulation-size basketball court.",
+          "translation": "その学校には規定の大きさのバスケットボールコートがある。"
+        }
+      ],
+      "notes": [
+        "通常は名詞前に置き、a regulation uniform のように使う。very regulation、more regulation と程度・比較を作るのが基本ではない。叙述するなら the uniform conforms to regulations などが明確。regulation equipment は規定に合う装備、regulatory equipment と機械的に言い換えない。regulatory は規制の権限・活動に関係する形容詞。regulation-size と regulation-sized の両方が見られる。"
+      ],
+      "synonyms": [
+        {
+          "word": "standard",
+          "definition": "決められた標準・通常の規格に合う。",
+          "frequency": 8,
+          "difference": "公的な規則を必ずしも前提とせず、一般的な仕様・型にも使う。regulation は規定との適合を明示する。",
+          "example": "The kit includes a standard cable.",
+          "translation": "そのキットには標準のケーブルが含まれる。"
+        },
+        {
+          "word": "prescribed",
+          "definition": "権限ある主体などによって指定された。",
+          "frequency": 5,
+          "difference": "指定されている点を強調する。regulation は規則で定めた服装・寸法などの性質として定着している。",
+          "example": "Staff must follow the prescribed procedure.",
+          "translation": "職員は指定された手順に従わなければならない。"
+        },
+        {
+          "word": "official",
+          "definition": "権限ある組織によって正式に認められた。",
+          "frequency": 8,
+          "difference": "正式な承認・所属が中心で、寸法などが規則に合うことまでは単独で示さない。",
+          "example": "The official match ball was displayed at the event.",
+          "translation": "公式試合球が、その催しで展示された。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞・不可算】正規の試合時間",
+      "frequency": 5,
+      "register": [
+        "スポーツ、特に米国の試合報道。"
+      ],
+      "definition": "競技で、延長戦を含めず規則上定められた通常の試合時間。regulation time ともいう。どの長さかは競技の規則によるため、regulation 自体が特定の分数を意味するわけではない。",
+      "patterns": [
+        "in regulation＝正規の試合時間内に",
+        "at the end of regulation＝正規の試合時間の終了時に",
+        "after regulation＝正規の試合時間が終わった後に",
+        "regulation time＝延長を除く規定の試合時間。"
+      ],
+      "collocations": [
+        {
+          "pattern": "in regulation",
+          "use": "延長に入らずに決着する場合などを述べる。",
+          "example": "The home team won in regulation.",
+          "translation": "ホームチームは延長戦に入らずに勝った。"
+        },
+        {
+          "pattern": "at the end of regulation",
+          "use": "正規の試合時間が終わった時点の状況を示す。",
+          "example": "The score was tied at the end of regulation.",
+          "translation": "正規の試合時間が終了した時点で、得点は同点だった。"
+        },
+        {
+          "pattern": "regulation time",
+          "use": "延長を除いた通常の競技時間を明示する。",
+          "example": "Neither team scored during regulation time.",
+          "translation": "正規の試合時間中は、どちらのチームも得点しなかった。"
+        }
+      ],
+      "notes": [
+        "in regulation はこの文脈で「規則の中で」ではない。the regulations は規則の集合（語義1）、regulation はここでは無冠詞の時間概念。延長戦は overtime（主に米）や extra time（競技・地域による）で、この語と対照的な時間区分だが、単純な反意語ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "normal time",
+          "definition": "延長を含めない通常の試合時間。",
+          "frequency": 4,
+          "difference": "特に英国系のサッカー報道などで用いる。regulation は米国のスポーツ報道でよく見られる。",
+          "example": "The match ended in a draw after normal time.",
+          "translation": "その試合は、通常の試合時間が終わった時点では引き分けだった。"
+        },
+        {
+          "word": "regular time",
+          "definition": "試合に定められた通常の時間。",
+          "frequency": 4,
+          "difference": "同じ時間区分を表せるが、競技・媒体によって使われ方が異なる。",
+          "example": "They failed to find a winning goal in regular time.",
+          "translation": "彼らは通常の試合時間内に決勝点を挙げられなかった。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【形容詞・名詞前】お決まりの、普通の",
+      "frequency": 3,
+      "register": [
+        "描写的な文章、くだけた比喩。基本の形容詞用法より少ない。"
+      ],
+      "definition": "正式な規則で決まっているとは限らないが、ある場面で予想される典型的な型に合っている。規定のように皆が同じ型に従っているという見方から、時に軽い皮肉や画一的という含みを持つ。",
+      "patterns": [
+        "the regulation 〈身なり・行動など〉＝その場面でお決まりの身なり・行動など",
+        "a regulation 〈典型的な型の物事〉＝ありきたりな型の物事。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the regulation 〈身なり・行動など〉",
+          "use": "実際の服装規定ではなく、集団の典型的な身なりを描写する。",
+          "example": "There was no dress code, but everyone wore the regulation jeans and trainers.",
+          "translation": "服装規定はなかったが、皆がお決まりのジーンズとスニーカーを身につけていた。"
+        },
+        {
+          "pattern": "a regulation 〈典型的な型の物事〉",
+          "use": "予想どおりの型通りな行動などを述べる。",
+          "example": "He greeted us with a regulation smile and returned to his desk.",
+          "translation": "彼は型どおりの笑顔で私たちに挨拶し、自分の机に戻った。"
+        }
+      ],
+      "notes": [
+        "実際の規定に合う語義4か、比喩的に普通の型を指すこの語義かは文脈で判断する。a regulation haircut だけでは、規定の髪型か典型的な髪型か確定しない。名詞前の用法として覚え、be very regulation などの不自然な型を基本例にしない。"
+      ],
+      "synonyms": [
+        {
+          "word": "conventional",
+          "definition": "一般的な習慣・型に従った。",
+          "frequency": 7,
+          "difference": "社会的に普通のあり方を中立的にも表す。regulation の比喩は型どおりという描写・軽い皮肉を持ちやすい。",
+          "example": "He prefers conventional office clothes.",
+          "translation": "彼は一般的な仕事着を好む。"
+        },
+        {
+          "word": "standard",
+          "definition": "特別ではなく、通常の型の。",
+          "frequency": 8,
+          "difference": "regulation より一般的で、皮肉なしにも広く使える。",
+          "example": "She gave the standard reply that the matter was under review.",
+          "translation": "彼女は、その件は検討中だといういつもの返答をした。"
+        },
+        {
+          "word": "routine",
+          "definition": "いつもと同じ型で行われる。",
+          "frequency": 7,
+          "difference": "繰り返される手順・行動に焦点がある。regulation は見た目や様式がお決まりであることにも使う。",
+          "example": "The meeting began with the routine announcements.",
+          "translation": "会議はいつもの連絡事項から始まった。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

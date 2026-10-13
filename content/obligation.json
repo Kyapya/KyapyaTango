@@ -1,0 +1,352 @@
+{
+  "word": "obligation",
+  "slug": "obligation",
+  "ipa": "米: /ˌɑː.blɪˈɡeɪ.ʃən/｜英: /ˌɒ.blɪˈɡeɪ.ʃən/。4音節で、第3音節 /ɡeɪ/ に主強勢、第1音節に第二強勢がある。示した米英差は第1音節の母音 /ɑː/ と /ɒ/。末尾の -tion は /ʃən/。",
+  "lead": "法律、契約、約束、慣習、道徳などにより行うべきこと、またはそれを行うよう拘束されている状態。個々の務めは可算、義務を負う状態は不可算で表すことが多い。必ずしも嫌々行うという意味ではない。",
+  "updated": "2026-10-13",
+  "notion_url": "https://app.notion.com/p/obligation-3f84faa9b77d816ca8aed5e5c9df72ea",
+  "pronunciation": [],
+  "etymology": [
+    "中英語にフランス語系の形を経て入り、ラテン語 obligatio に遡る。もとの動詞 obligare は ob- と ligare「縛る」からなり、法的・道徳的に拘束することを表した。同系列の oblige「義務を負わせる・好意で応じる」と obligate「義務を負わせる」がある。「縛り」は学習上の手掛かりになるが、現代語の obligation は法律の強制だけでなく、約束や恩義から生じる務めも含む。"
+  ],
+  "formation": [
+    {
+      "term": "oblige",
+      "description": "動詞。be obliged to do something は「せざるを得ない・する義務がある」。Much obliged. は感謝を表す改まった言い方。"
+    },
+    {
+      "term": "obligate",
+      "description": "他動詞。obligate someone to do something は、人に行為の義務を負わせること。"
+    },
+    {
+      "term": "obligatory",
+      "description": "形容詞。「義務的な・必須の」。本人が義務を負っている状態の obliged と区別する。"
+    },
+    {
+      "term": "obliging",
+      "description": "形容詞。「親切に応じる・快く手を貸す」。義務的なという意味の obligatory とは違う。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "約束・立場・恩義などに結び付けられ、あることを果たすよう求められること。行動上の務め、返礼の気持ち、金銭の支払い、その債務を表す証券へと具体化する。"
+    },
+    {
+      "type": "item",
+      "text": "果たすよう求められる行動上の務め → 「義務・果たすべき務め」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "果たすよう求められる返礼の務め → 「恩義・義理」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "果たすよう求められる金銭の支払い → 「支払い義務・債務」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "果たすよう求められる債務を表す証券 → 「債務証券・債務を記した証書」（語義4）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算／不可算】義務・果たすべき務め",
+      "frequency": 8,
+      "register": [
+        "一般・仕事・法律・家庭。"
+      ],
+      "definition": "法律、契約、約束、慣習、道徳などにより行うべきこと、またはそれを行うよう拘束されている状態。個々の務めは可算、義務を負う状態は不可算で表すことが多い。必ずしも嫌々行うという意味ではない。",
+      "patterns": [
+        "have an obligation to do something＝その行為をする義務がある",
+        "an obligation to someone＝人に対して負う義務",
+        "an obligation on someone to do something＝人に課される行為の義務",
+        "obligations under 〈契約・法律〉＝契約・法律に基づく義務",
+        "fulfil one’s obligations＝自分の義務を果たす",
+        "be under no obligation to do something＝その行為をする義務がない",
+        "without obligation＝契約・購入などを引き受ける義務なしに",
+        "out of a sense of obligation＝義務感から"
+      ],
+      "collocations": [
+        {
+          "pattern": "have an obligation to do something",
+          "use": "何をする義務なのかを示す。",
+          "example": "We have an obligation to return the borrowed equipment.",
+          "translation": "私たちには借りた機器を返す義務がある。"
+        },
+        {
+          "pattern": "an obligation to someone",
+          "use": "義務を負う相手を明示する。",
+          "example": "The organization has an obligation to the people it serves.",
+          "translation": "その団体には、サービスを提供する人々に対して果たすべき務めがある。"
+        },
+        {
+          "pattern": "an obligation on someone to do something",
+          "use": "義務を課される側と行為を示す。",
+          "example": "The agreement places an obligation on the supplier to replace faulty parts.",
+          "translation": "その合意は、欠陥のある部品を交換する義務を納入業者に課している。"
+        },
+        {
+          "pattern": "obligations under 〈契約・法律〉",
+          "use": "義務が生じる根拠を示す。",
+          "example": "Both parties reviewed their obligations under the contract.",
+          "translation": "両当事者は契約上の義務を確認した。"
+        },
+        {
+          "pattern": "fulfil one’s obligations",
+          "use": "約束や立場に伴う務めを果たす。",
+          "example": "He rearranged his schedule to fulfil his family obligations.",
+          "translation": "彼は家族に対する務めを果たすために予定を組み直した。"
+        },
+        {
+          "pattern": "be under no obligation to do something",
+          "use": "行う必要がないことを案内する。",
+          "example": "You are under no obligation to join after attending the introductory session.",
+          "translation": "説明会に参加した後、入会する義務はありません。"
+        },
+        {
+          "pattern": "without obligation",
+          "use": "見積もりなどの取得が申込みを義務付けないことを示す。",
+          "example": "You can request a quotation without obligation.",
+          "translation": "見積もりを依頼しても、契約する義務は生じません。"
+        },
+        {
+          "pattern": "out of a sense of obligation",
+          "use": "行動の動機が義務感であることを述べる。",
+          "example": "She attended the reunion out of a sense of obligation.",
+          "translation": "彼女は義務感から同窓会に出席した。"
+        }
+      ],
+      "notes": [
+        "行為は an obligation to report のように to不定詞で示す。to customers は前置詞句で相手、on the company は義務を負う側。an obligation と複数の obligations は自然だが、without obligation や under no obligation は通常無冠詞。no obligation to buy は「買わなくてよい」であり「買ってはいけない」ではない。without obligation は「無料」を意味せず、価格は別に確認する。fulfil は主に英式、fulfill は主に米式。discharge an obligation は「義務を履行する」という改まった表現で、義務を勝手に取り消すことではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "duty",
+          "definition": "職務、道徳、法律などに基づいて果たすべき務め。",
+          "frequency": 8,
+          "difference": "duty は役割や正しい行動に焦点を置き、obligation は約束などによって拘束される側面を示しやすい。",
+          "example": "It is our duty to treat visitors fairly.",
+          "translation": "訪問者を公平に扱うのは私たちの務めだ。"
+        },
+        {
+          "word": "responsibility",
+          "definition": "引き受けるべき役目や責任。",
+          "frequency": 9,
+          "difference": "responsibility は担当範囲や結果への責任も含む。obligation は特定の行為をすべきことを明示しやすい。",
+          "example": "Checking the receipts is my responsibility.",
+          "translation": "領収書の確認は私の担当だ。"
+        },
+        {
+          "word": "commitment",
+          "definition": "守ると約束したことや、引き受けた用件。",
+          "frequency": 8,
+          "difference": "commitment は約束や予定に重点があり、外から課された義務とは限らない。",
+          "example": "I cannot attend because of a prior commitment.",
+          "translation": "先約があるため出席できません。"
+        },
+        {
+          "word": "requirement",
+          "definition": "規則や目的を満たすために必要な条件。",
+          "frequency": 8,
+          "difference": "requirement は満たすべき条件そのものにも使い、人が感じる義務感までは通常含まない。",
+          "example": "A valid ticket is a requirement for entry.",
+          "translation": "入場には有効なチケットが必要だ。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・不可算／可算】恩義・義理",
+      "frequency": 6,
+      "register": [
+        "一般。恩義そのものを指す用法はやや改まっている。"
+      ],
+      "definition": "受けた援助や親切に対して、何かを返すべきだと感じること。温かい感謝だけでなく、借りができたという心理的な負担を含む場合もある。",
+      "patterns": [
+        "feel an obligation to someone＝人に恩義を感じる",
+        "be under an obligation to someone＝人に恩義がある",
+        "put someone under an obligation＝人に借りを感じさせる",
+        "a sense of obligation＝受けた好意に報いるべきだという気持ち"
+      ],
+      "collocations": [
+        {
+          "pattern": "feel an obligation to someone",
+          "use": "援助を受けた相手への恩義を述べる。",
+          "example": "I felt an obligation to the neighbor who had helped me move.",
+          "translation": "引っ越しを手伝ってくれた隣人に、私は恩義を感じていた。"
+        },
+        {
+          "pattern": "be under an obligation to someone",
+          "use": "相手の好意に対して借りがあることを表す。",
+          "example": "After all her help, I was under an obligation to her.",
+          "translation": "彼女にあれほど助けてもらったので、私には彼女への恩義があった。"
+        },
+        {
+          "pattern": "put someone under an obligation",
+          "use": "贈り物などで相手に返礼の負担を感じさせる。",
+          "example": "He refused the expensive gift because it would put him under an obligation.",
+          "translation": "彼は借りを作ることになるので、その高価な贈り物を断った。"
+        },
+        {
+          "pattern": "a sense of obligation",
+          "use": "好意へのお返しという動機を示す。",
+          "example": "A sense of obligation to my hosts made me offer to wash the dishes.",
+          "translation": "もてなしてくれた人たちへの恩義から、私は皿洗いを申し出た。"
+        }
+      ],
+      "notes": [
+        "under an obligation to her は「彼女に恩義がある」とも「彼女に対して義務を負っている」とも読める。好意や援助という文脈が恩義の読みを支える。感謝を述べるだけなら gratitude、返すべき借りの感覚まで含めるなら obligation が合いやすい。"
+      ],
+      "synonyms": [
+        {
+          "word": "indebtedness",
+          "definition": "援助や好意を受けたことへの深い恩義。",
+          "frequency": 5,
+          "difference": "この意味では obligation より感謝の側面を強く示せる。金銭的負債の別義もある。",
+          "example": "She expressed her indebtedness to her first teacher.",
+          "translation": "彼女は最初の先生への恩義を言葉にした。"
+        },
+        {
+          "word": "debt of gratitude",
+          "definition": "受けた好意に対する大きな恩義。",
+          "frequency": 5,
+          "difference": "金銭の借金ではなく、返し切れないような感謝の借りを明示する定着表現。",
+          "example": "We owe the volunteers a debt of gratitude.",
+          "translation": "私たちはボランティアの人々に大きな恩義がある。"
+        },
+        {
+          "word": "gratitude",
+          "definition": "援助や親切をありがたく思う気持ち。",
+          "frequency": 7,
+          "difference": "gratitude は感謝であり、返礼を義務と感じるとは限らない。",
+          "example": "I thanked her with genuine gratitude.",
+          "translation": "私は心から感謝して彼女に礼を言った。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算】支払い義務・債務",
+      "frequency": 6,
+      "register": [
+        "金融・会計・契約。"
+      ],
+      "definition": "支払うことを引き受けている金銭上の義務、またはその義務によって支払うべき金額。一般義の「果たすべき務め」が支払いへ具体化した用法で、財務の文脈では複数形がよく使われる。",
+      "patterns": [
+        "meet one’s financial obligations＝支払い義務を果たす",
+        "outstanding obligations＝未履行の債務",
+        "an obligation to pay 〈金額〉＝その金額を支払う義務",
+        "discharge an obligation＝債務を履行する"
+      ],
+      "collocations": [
+        {
+          "pattern": "meet one’s financial obligations",
+          "use": "必要な支払いを行えるか述べる。",
+          "example": "The firm sold a building to meet its financial obligations.",
+          "translation": "その会社は支払い義務を果たすために建物を売却した。"
+        },
+        {
+          "pattern": "outstanding obligations",
+          "use": "まだ履行されていない債務を示す。",
+          "example": "The statement lists all outstanding obligations.",
+          "translation": "その明細には未履行の債務がすべて記載されている。"
+        },
+        {
+          "pattern": "an obligation to pay 〈金額〉",
+          "use": "支払うと定められた額を示す。",
+          "example": "The agreement creates an obligation to pay 2,000 dollars each month.",
+          "translation": "その合意により、毎月2,000ドルを支払う義務が生じる。"
+        },
+        {
+          "pattern": "discharge an obligation",
+          "use": "債務の履行を改まって述べる。",
+          "example": "The final payment discharged the company’s obligation to the lender.",
+          "translation": "最終の支払いによって、その会社は貸し手に対する債務を履行した。"
+        }
+      ],
+      "notes": [
+        "financial obligations は借入金だけでなく、文脈に応じてさまざまな支払い義務を含む。outstanding はここでは「すばらしい」ではなく「未決済の」。語義4の証券そのものと区別し、meet obligations は義務を果たすこと、hold obligations は文脈によって債務証券を保有することを表す。具体的な会計分類や法的効力は、この単語だけでは決まらない。"
+      ],
+      "synonyms": [
+        {
+          "word": "debt",
+          "definition": "返済すべき金銭・借金。",
+          "frequency": 9,
+          "difference": "debt は返済する金銭に焦点を置く。obligation は支払いを行う約束や義務としても述べられる。",
+          "example": "The business repaid its largest debt.",
+          "translation": "その事業者は最大の借金を返済した。"
+        },
+        {
+          "word": "liability",
+          "definition": "会計上などで負う支払い債務。",
+          "frequency": 7,
+          "difference": "この意味の liability は負債を表し、特に複数 liabilities が使われる。obligation の一般的な道徳上の務めとは区別する。",
+          "example": "The report lists the company’s assets and liabilities.",
+          "translation": "その報告書には会社の資産と負債が記載されている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・可算】債務証券・債務を記した証書",
+      "frequency": 3,
+      "register": [
+        "金融・法律の専門用法。"
+      ],
+      "definition": "支払いなどの義務を表す債券その他の証券、または債務を記した法的な証書。人が負う義務そのものではなく、その義務を表す金融商品・文書を指す。",
+      "patterns": [
+        "government obligations＝政府の債務証券",
+        "hold obligations issued by 〈発行者〉＝その発行者の債務証券を保有する",
+        "a written obligation＝債務を記した証書"
+      ],
+      "collocations": [
+        {
+          "pattern": "government obligations",
+          "use": "政府が発行する債務証券を金融商品の種類として述べる。",
+          "example": "The fund invests mainly in short-term government obligations.",
+          "translation": "そのファンドは主に政府の短期債務証券に投資する。"
+        },
+        {
+          "pattern": "hold obligations issued by 〈発行者〉",
+          "use": "保有する証券と発行者を述べる。",
+          "example": "The portfolio holds obligations issued by several corporations.",
+          "translation": "そのポートフォリオには複数の企業が発行した債務証券が含まれている。"
+        },
+        {
+          "pattern": "a written obligation",
+          "use": "債務を記す文書そのものを指す。",
+          "example": "The archive preserves the written obligation bearing the debtor’s signature.",
+          "translation": "その資料館には、債務者の署名がある債務証書が保存されている。"
+        }
+      ],
+      "notes": [
+        "日常の an obligation to help は「助ける義務」であり、証券ではない。金融商品の説明では issuer、maturity、interest などの周辺語が手掛かりになる。obligation の語だけから利払い、担保、換金性などの条件を推測しない。written obligation も一般的な「書面で明記された義務」を指し得るため、物理的な文書を指す文脈を確認する。"
+      ],
+      "synonyms": [
+        {
+          "word": "bond",
+          "definition": "発行者の債務を表す債券。",
+          "frequency": 7,
+          "difference": "bond は債務証券の特定の種類を指す一般的な金融語。obligation はより広い表現になり得る。",
+          "example": "The fund bought a government bond.",
+          "translation": "そのファンドは国債を購入した。"
+        },
+        {
+          "word": "debt security",
+          "definition": "債務を表す証券。",
+          "frequency": 4,
+          "difference": "この意味の obligation を明確に言い換える専門表現。一般的な義務の意味には使わない。",
+          "example": "The report separates debt securities from shares.",
+          "translation": "報告書は債務証券と株式を分けている。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
