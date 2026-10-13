@@ -1,0 +1,479 @@
+{
+  "word": "agreement",
+  "slug": "agreement",
+  "ipa": "米・英: /əˈɡriː.mənt/。3音節で、第2音節に主強勢がある。第1・第3音節の母音は弱い /ə/。agree に対応する長母音 /iː/ を保つ。複数形 agreements の語末は /nts/。",
+  "lead": "複数の当事者が受け入れた、行動や条件についての具体的な取り決め。また、それを記録した文書。家族の約束から企業間の契約、国家間の協定まで広く、口頭の取り決めにも使える。",
+  "updated": "2026-10-13",
+  "notion_url": "https://app.notion.com/p/agreement-3f84faa9b77d81f89c80c0acf4bdbb34",
+  "pronunciation": [],
+  "etymology": [
+    "中英語にフランス語系の名詞として入り、アングロフランス語 agreement、agrément と、動詞 agreer「満足させる・同意する」にさかのぼる。さらにラテン語の ad-「～へ」と gratus「喜ばしい」に関係する。英語の agree と -ment の関係は覚えやすいが、英語内で初めてこの二つを組み合わせて作った、と借用の歴史まで説明しない。",
+    "agree「同意する」と agreeable「感じのよい・受け入れられる」は同じ語族。agreeable の意味は「同意済みの」だけではなく、現代の各語の用法を別に覚える必要がある。"
+  ],
+  "formation": [
+    {
+      "term": "agree",
+      "description": "動詞。「同意する・一致する」。agree with someone、agree to something、agree on something などで関係が変わる。"
+    },
+    {
+      "term": "disagreement",
+      "description": "名詞。「意見の不一致・対立」。一般的な状態は不可算、個別の意見対立は可算でも使う。"
+    },
+    {
+      "term": "agreed",
+      "description": "agree の過去形・過去分詞。また、an agreed price「合意済みの価格」のように使う。"
+    },
+    {
+      "term": "agreeable",
+      "description": "形容詞。「感じのよい・快適な」、または「受け入れられる」。agreeable to a proposal では提案を受け入れる意向を表せる。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "「関係する人や物の間で、意向・内容・形が合うこと」が中心。人の賛同、共同で決めた内容、行為への承諾、資料の整合、文法上の対応へ具体化する。文法義でも、単語が人のように賛成するのではなく、必要な特徴が対応することを表す。"
+    },
+    {
+      "type": "item",
+      "text": "意向が合う具体的な取り決め → 「取り決め・協定・契約、合意書」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "意向が合う意見や感情の状態 → 「意見の一致・賛同」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "意向が合う行為の受け入れ → 「承諾・許可」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "内容が合う資料や数値の関係 → 「整合・一致」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "形が合う文法的特徴の対応 → 「文法上の一致」（語義5）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算】取り決め・協定・契約、合意書",
+      "frequency": 9,
+      "register": [
+        "一般、仕事、交渉、政治、法律。"
+      ],
+      "definition": "複数の当事者が受け入れた、行動や条件についての具体的な取り決め。また、それを記録した文書。家族の約束から企業間の契約、国家間の協定まで広く、口頭の取り決めにも使える。",
+      "patterns": [
+        "reach an agreement＝具体的な合意に達する",
+        "come to an agreement with someone＝人と取り決めをまとめる",
+        "an agreement between 〈A〉 and 〈B〉＝AとBの間の取り決め",
+        "an agreement on something＝ある事項についての合意",
+        "an agreement to do something＝ある行為をする取り決め",
+        "enter into an agreement with someone＝人と協定・契約を結ぶ",
+        "sign an agreement＝合意書・契約書に署名する",
+        "under the agreement＝その取り決めに基づいて",
+        "the terms of the agreement＝取り決めの条件",
+        "keep to an agreement＝取り決めを守る"
+      ],
+      "collocations": [
+        {
+          "pattern": "reach an agreement on something",
+          "use": "合意がまとまったことと、その論点を示す。",
+          "example": "The two teams reached an agreement on the delivery schedule.",
+          "translation": "二つのチームは、納品日程について合意に達した。"
+        },
+        {
+          "pattern": "come to an agreement with someone",
+          "use": "自分の側と合意する相手を示す。",
+          "example": "We came to an agreement with our neighbors about parking.",
+          "translation": "私たちは、駐車について近隣住民と取り決めをまとめた。"
+        },
+        {
+          "pattern": "an agreement between 〈A〉 and 〈B〉",
+          "use": "取り決めの当事者を並べて示す。",
+          "example": "The agreement between the school and the museum covers group visits.",
+          "translation": "学校と博物館の協定は、団体見学に関するものだ。"
+        },
+        {
+          "pattern": "an agreement to do something",
+          "use": "当事者が何をする取り決めかを示す。",
+          "example": "We have an agreement to share the household chores.",
+          "translation": "私たちは、家事を分担することにしている。"
+        },
+        {
+          "pattern": "enter into an agreement with someone",
+          "use": "やや正式な文章で協定や契約の締結を述べる。",
+          "example": "The publisher entered into an agreement with the author.",
+          "translation": "出版社は著者と契約を結んだ。"
+        },
+        {
+          "pattern": "sign an agreement",
+          "use": "合意内容を記載した文書に署名する。",
+          "example": "Please read the agreement carefully before signing it.",
+          "translation": "署名する前に、契約書をよく読んでください。"
+        },
+        {
+          "pattern": "under the agreement",
+          "use": "合意された条件が適用されることを示す。",
+          "example": "Under the agreement, each household can use the garden.",
+          "translation": "その取り決めに基づき、各世帯は庭を使用できる。"
+        },
+        {
+          "pattern": "the terms of the agreement",
+          "use": "合意の条件・条項に注目する。",
+          "example": "The terms of the agreement are still being negotiated.",
+          "translation": "協定の条件は、まだ交渉中だ。"
+        },
+        {
+          "pattern": "keep to an agreement",
+          "use": "決めた内容どおりに行動する。",
+          "example": "Both sides have kept to the agreement.",
+          "translation": "双方とも取り決めを守っている。"
+        }
+      ],
+      "notes": [
+        "一つの具体的な取り決めなら an agreement。抽象的に合意へ至ることは、語義2の reach agreement と無冠詞でも表せる。a verbal agreement は口頭の合意、a written agreement は書面の合意で、agreement を必ず契約書と訳さない。with は相手、between は当事者相互、on/about は論点を導く。to do は行動内容。法的に拘束する agreement もあるが、語だけで拘束力、成立要件、署名の必要性を一律に判断することはできない。"
+      ],
+      "synonyms": [
+        {
+          "word": "arrangement",
+          "definition": "物事をどう行うかについて当事者間で決めた取り決め。",
+          "frequency": 8,
+          "difference": "実際の進め方や生活・業務上の仕組みに焦点を置きやすい。agreement は合意されたこと全般を表し、文書や国家間協定にも広い。",
+          "example": "We have an arrangement to take turns using the studio.",
+          "translation": "私たちは、交代でスタジオを使う取り決めをしている。"
+        },
+        {
+          "word": "understanding",
+          "definition": "当事者間の了解・取り決め。",
+          "frequency": 7,
+          "difference": "非公式な了解や、明文化されていない共通認識を表しやすい。agreement は口頭にも書面にも使える広い語。",
+          "example": "We had an understanding that no photographs would be published.",
+          "translation": "私たちの間では、写真は一切公開しないという了解があった。"
+        },
+        {
+          "word": "contract",
+          "definition": "法的な義務を伴う契約、またはその文書。",
+          "frequency": 9,
+          "difference": "法的な契約としての関係に焦点がある。agreement は日常の取り決めも含み、すべてが contract とは限らない。ただし、agreement という名称なら法的拘束力がないという意味ではない。",
+          "example": "The company renewed her employment contract.",
+          "translation": "会社は、彼女の雇用契約を更新した。"
+        },
+        {
+          "word": "settlement",
+          "definition": "争いを収めるために成立した合意・和解。",
+          "frequency": 7,
+          "difference": "既にある対立を決着させることに焦点がある。agreement は争いがなくても、新しい共同活動などの取り決めに使う。",
+          "example": "The parties reached a settlement before the trial.",
+          "translation": "当事者たちは、審理が始まる前に和解に達した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・不可算】意見の一致・賛同",
+      "frequency": 8,
+      "register": [
+        "一般。議論、会話、会議、評論。"
+      ],
+      "definition": "人々が同じ意見・感情を持つこと、または人の考えに同意すること。賛同の範囲や程度は修飾語・文脈で決まり、全員が全事項について完全に一致しているとは限らない。",
+      "patterns": [
+        "reach agreement on something＝ある事項について意見の一致に至る",
+        "be in agreement with someone＝人と意見が一致している",
+        "be in agreement with someone on something＝ある事項について人と意見が一致している",
+        "be in agreement about something＝ある事項について意見が一致している",
+        "there is agreement that 〈節〉＝その内容について意見の一致がある",
+        "agreement among 〈人々〉＝人々の間の意見の一致",
+        "nod in agreement＝賛同してうなずく",
+        "by mutual agreement＝互いの合意によって"
+      ],
+      "collocations": [
+        {
+          "pattern": "reach agreement on something",
+          "use": "合意した事実に注目し、具体的な文書を数えない。",
+          "example": "We reached agreement on how to divide the work.",
+          "translation": "私たちは、仕事をどう分担するかについて合意した。"
+        },
+        {
+          "pattern": "be in agreement with someone",
+          "use": "相手と意見が同じだと述べる。",
+          "example": "On this point, I am in agreement with you.",
+          "translation": "この点については、あなたと同意見です。"
+        },
+        {
+          "pattern": "be in agreement with someone on something",
+          "use": "相手と、意見が一致する論点を区別する。",
+          "example": "She is in agreement with her colleagues on the need for more training.",
+          "translation": "研修を増やす必要性について、彼女は同僚たちと意見が一致している。"
+        },
+        {
+          "pattern": "be in agreement about something",
+          "use": "意見が一致している内容を示す。",
+          "example": "Are we in agreement about the next step?",
+          "translation": "次に何をするかについて、私たちの考えは一致していますか。"
+        },
+        {
+          "pattern": "there is agreement that 〈節〉",
+          "use": "共通認識の内容を節で示す。",
+          "example": "There is broad agreement that the instructions need to be clearer.",
+          "translation": "説明をもっとわかりやすくする必要があるという点では、広く意見が一致している。"
+        },
+        {
+          "pattern": "agreement among 〈人々〉",
+          "use": "共通の意見を持つ人々の範囲を示す。",
+          "example": "There is little agreement among residents about the proposed changes.",
+          "translation": "提案された変更について、住民の意見はほとんど一致していない。"
+        },
+        {
+          "pattern": "nod in agreement",
+          "use": "発言せずに賛同を示す動作を描く。",
+          "example": "Several listeners nodded in agreement.",
+          "translation": "聞いていた人の何人かが、賛同してうなずいた。"
+        },
+        {
+          "pattern": "by mutual agreement",
+          "use": "一方的でなく、互いに合意して決めたことを述べる。",
+          "example": "The meeting was postponed by mutual agreement.",
+          "translation": "会議は、双方の合意によって延期された。"
+        }
+      ],
+      "notes": [
+        "状態としては不可算で in agreement。in an agreement なら通常は「ある合意書・取り決めの中で」となり、同じ形ではない。be in agreement は動詞 agree に対応するが、I am agreement とはいわない。with は意見を共有する相手、on/about は論点。broad agreement「広い一致」、partial agreement「部分的な一致」と程度を限定できる。agreement that には主語・動詞を持つ内容節が続く。"
+      ],
+      "synonyms": [
+        {
+          "word": "consensus",
+          "definition": "集団内で広く共有された意見・合意。",
+          "frequency": 8,
+          "difference": "個人同士の賛同よりも、集団としての共通認識に焦点がある。通常、細部まで全員一致であることを必ず意味するわけではない。",
+          "example": "A consensus emerged that the launch should be delayed.",
+          "translation": "発売を遅らせるべきだという共通認識が生まれた。"
+        },
+        {
+          "word": "accord",
+          "definition": "意見や意向が調和し、一致している状態。",
+          "frequency": 5,
+          "difference": "この不可算の用法は in accord などの硬めの表現に多い。agreement は日常の会話や具体的な論点にも広く使う。",
+          "example": "The members were in accord on the main issue.",
+          "translation": "会員たちは、主要な問題について意見が一致していた。"
+        },
+        {
+          "word": "assent",
+          "definition": "提案や意見に対する同意・賛同。",
+          "frequency": 5,
+          "difference": "提示された内容に「よい」と答える側の反応を表しやすく、やや正式。agreement は人々の意見が一致している状態にも使う。",
+          "example": "She indicated her assent with a nod.",
+          "translation": "彼女は、うなずいて同意を示した。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "disagreement",
+          "definition": "意見が一致しないこと。",
+          "frequency": 8,
+          "difference": "意見の一致・不一致という同じ状態軸上の反対。必ず激しい口論や関係悪化を伴うわけではない。",
+          "example": "There is still disagreement about the best approach.",
+          "translation": "最善の取り組み方については、まだ意見が分かれている。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【名詞・不可算】承諾・許可",
+      "frequency": 7,
+      "register": [
+        "一般、依頼、利用条件、業務上の手続き。"
+      ],
+      "definition": "提案されたことや他者の行為を受け入れ、それが行われることを認めること。単に相手と同じ考えを持つというより、その行為を認める側の意向に焦点がある。",
+      "patterns": [
+        "get someone's agreement＝人の承諾を得る",
+        "someone's agreement to something＝提案・行為に対する人の承諾",
+        "with the agreement of someone＝人の承諾を得て",
+        "without someone's agreement＝人の承諾なしに",
+        "require someone's agreement＝人の承諾を必要とする"
+      ],
+      "collocations": [
+        {
+          "pattern": "get someone's agreement",
+          "use": "行為を認めてもらう必要がある相手を示す。",
+          "example": "We need to get the owner's agreement before moving the shelves.",
+          "translation": "棚を移動する前に、所有者の承諾を得る必要がある。"
+        },
+        {
+          "pattern": "someone's agreement to something",
+          "use": "承諾する人と承諾対象を示す。",
+          "example": "The museum obtained the artist's agreement to the display of the sketches.",
+          "translation": "博物館は、素描の展示について作家の承諾を得た。"
+        },
+        {
+          "pattern": "with the agreement of someone",
+          "use": "相手の承諾を得たうえで行われることを述べる。",
+          "example": "The interview was recorded with the agreement of the guest.",
+          "translation": "そのインタビューは、ゲストの承諾を得て録音された。"
+        },
+        {
+          "pattern": "without someone's agreement",
+          "use": "行為を認める意向がないまま進めることを述べる。",
+          "example": "You should not change the shared settings without everyone's agreement.",
+          "translation": "全員の承諾なしに、共有設定を変えるべきではない。"
+        },
+        {
+          "pattern": "require someone's agreement",
+          "use": "承諾が必要であることを示す。",
+          "example": "Any extension of the loan requires the lender's agreement.",
+          "translation": "貸付期間を延長するには、貸し手の承諾が必要だ。"
+        }
+      ],
+      "notes": [
+        "agreement to the proposal の to は前置詞で、後ろは名詞句。an agreement to share costs の to share は不定詞で、語義1の取り決めの内容を示す。この意味では permission、consent に近いが、agreement だけで正式な許認可や権限の付与が完了したとは断定しない。with the agreement of the owner は「所有者と意見が同じ状態で」というだけでなく、行為を認めてもらっていることを示す。"
+      ],
+      "synonyms": [
+        {
+          "word": "consent",
+          "definition": "他者がある行為をすることへの承諾。",
+          "frequency": 8,
+          "difference": "本人の意思による承諾に焦点を置きやすい。agreement は意見の一致や共同の取り決めにも使う。分野ごとの有効な同意の要件は語義とは別。",
+          "example": "The photograph was published with her consent.",
+          "translation": "その写真は、彼女の同意を得て公開された。"
+        },
+        {
+          "word": "permission",
+          "definition": "ある行為をしてよいと認める許可。",
+          "frequency": 9,
+          "difference": "行為が許されているかに焦点があり、許可する権限を持つ相手との関係によく使う。agreement は関係者の承諾という面を出せる。",
+          "example": "Visitors need permission to enter the archive.",
+          "translation": "来訪者が資料保管室に入るには、許可が必要だ。"
+        },
+        {
+          "word": "approval",
+          "definition": "計画や行為を認める承認。",
+          "frequency": 8,
+          "difference": "審査・判断を経て認める場面にもよく使う。agreement は当事者の受け入れる意向を表し、同一の手続き名とは限らない。",
+          "example": "The proposal is awaiting the director's approval.",
+          "translation": "その提案は、責任者の承認を待っている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・不可算】整合・一致",
+      "frequency": 6,
+      "register": [
+        "研究、分析、報告、データの比較。"
+      ],
+      "definition": "報告、数値、観測結果などの内容が互いに対応し、食い違わないこと。完全に同一の場合だけでなく、測定や比較の範囲でよく合うことにも使う。",
+      "patterns": [
+        "agreement between 〈資料A〉 and 〈資料B〉＝二つの資料の一致",
+        "be in agreement with something＝資料・数値などと整合している",
+        "good agreement with something＝ある結果との良好な一致",
+        "a lack of agreement between 〈A〉 and 〈B〉＝AとBの間の不一致"
+      ],
+      "collocations": [
+        {
+          "pattern": "agreement between 〈資料A〉 and 〈資料B〉",
+          "use": "比較対象となる二つの結果を示す。",
+          "example": "There was close agreement between the two measurements.",
+          "translation": "二つの測定値は、よく一致していた。"
+        },
+        {
+          "pattern": "be in agreement with something",
+          "use": "一方の結果がもう一方と矛盾しないことを述べる。",
+          "example": "Our findings are in agreement with the earlier study.",
+          "translation": "私たちの知見は、先行研究と整合している。"
+        },
+        {
+          "pattern": "good agreement with something",
+          "use": "結果が比較対象とよく合うことを評価する。",
+          "example": "The model shows good agreement with the observed data.",
+          "translation": "そのモデルは、観測データとよく一致している。"
+        },
+        {
+          "pattern": "a lack of agreement between 〈A〉 and 〈B〉",
+          "use": "比較した内容に食い違いがあると指摘する。",
+          "example": "There is a lack of agreement between the written accounts of the incident.",
+          "translation": "その出来事を記した記録同士には、食い違いがある。"
+        }
+      ],
+      "notes": [
+        "人の賛成ではないため、The figures are in agreement. を「数値が賛成している」と訳さない。close、good、excellent などで一致の程度を示せる。数値の agreement は、常にすべての桁が完全に同じという意味ではない。agree with という動詞にも資料同士の一致を表す用法がある。"
+      ],
+      "synonyms": [
+        {
+          "word": "consistency",
+          "definition": "複数の内容が矛盾せず、整合していること。",
+          "frequency": 7,
+          "difference": "内部に食い違いがないことや、時点をまたいで一貫していることにも使う。agreement は比較した結果が合っている点を出しやすい。",
+          "example": "We checked the consistency of the figures across the reports.",
+          "translation": "私たちは、各報告書の数値に食い違いがないか確認した。"
+        },
+        {
+          "word": "correspondence",
+          "definition": "二つのものの間に見られる対応・一致。",
+          "frequency": 5,
+          "difference": "要素同士が対応する関係を表しやすい。この意味は「通信・手紙」とは別で、agreement と同様、必ずしも完全な同一を要求しない。",
+          "example": "There is a close correspondence between the map and the actual layout.",
+          "translation": "地図と実際の配置は、よく対応している。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞・不可算】文法上の一致",
+      "frequency": 5,
+      "register": [
+        "文法・言語学、語学学習。"
+      ],
+      "definition": "文中で関係する語同士の、人称・数・性などの文法的特徴が対応すること。英語では主語と動詞の一致が代表的で、語の綴りを同じにすることではない。",
+      "patterns": [
+        "subject–verb agreement＝主語と動詞の一致",
+        "agreement in number＝数の一致",
+        "be in agreement with 〈文法上の対応語〉＝対応語と文法的に一致している",
+        "an error in agreement＝文法上の一致の誤り"
+      ],
+      "collocations": [
+        {
+          "pattern": "subject–verb agreement",
+          "use": "主語に応じた動詞の形を扱う。",
+          "example": "The lesson focuses on subject–verb agreement in the present tense.",
+          "translation": "その授業は、現在時制での主語と動詞の一致を重点的に扱う。"
+        },
+        {
+          "pattern": "agreement in number",
+          "use": "単数・複数の対応を示す。",
+          "example": "Agreement in number requires a singular verb with this singular subject.",
+          "translation": "数を一致させるため、この単数主語には単数形の動詞が必要だ。"
+        },
+        {
+          "pattern": "be in agreement with 〈文法上の対応語〉",
+          "use": "具体的な語同士の対応を説明する。",
+          "example": "In \"She works here,\" the verb is in agreement with the subject.",
+          "translation": "「She works here」では、動詞が主語と一致している。"
+        },
+        {
+          "pattern": "an error in agreement",
+          "use": "語形の対応が合っていない誤りを指摘する。",
+          "example": "The editor corrected an error in agreement between the subject and the verb.",
+          "translation": "編集者は、主語と動詞の一致の誤りを直した。"
+        }
+      ],
+      "notes": [
+        "She works と They work では、主語が変わることで現在形の動詞の形が変わる。これが agreement の一例で、she と works を同じ綴りにすることではない。名詞 agreement 自体は不可算。どの特徴がどの語に一致するかは言語と構文によって異なり、すべての英語の語に性・数の語尾が付くという説明にはしない。"
+      ],
+      "synonyms": [
+        {
+          "word": "concord",
+          "definition": "関連する語の文法的特徴が対応すること。",
+          "frequency": 3,
+          "difference": "文法用語として agreement とほぼ同じ意味で使える。一般向けの文法説明では subject–verb agreement の表現が広く用いられる。",
+          "example": "This exercise tests concord between subjects and verbs.",
+          "translation": "この練習問題は、主語と動詞の一致を確認するものだ。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

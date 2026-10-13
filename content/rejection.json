@@ -1,0 +1,423 @@
+{
+  "word": "rejection",
+  "slug": "rejection",
+  "ipa": "米・英: /rɪˈdʒek.ʃən/。3音節で、第2音節 /dʒek/ に強勢がある。動詞 reject /rɪˈdʒekt/ と強勢位置は同じだが、rejection の末尾は /k.ʃən/ となる。『不良品・はねられた物』を表す名詞 reject /ˈriː.dʒekt/ は第1音節に強勢がある別の語形。",
+  "lead": "提案・申し出・要求・考え方などを受け入れず、退けること。一件の拒否判断として数えることもある。判断が明確であることを表しやすいが、失礼さや怒りは必須の意味ではない。",
+  "updated": "2026-10-13",
+  "notion_url": "https://app.notion.com/p/rejection-3f84faa9b77d81a2a39cd57f3f1e54a2",
+  "pronunciation": [],
+  "etymology": [
+    "ラテン語 rejectio「投げ返すこと」に遡る。基になる reicere は re-「戻して」と jacere「投げる」の組み合わせで、rejectus はその過去分詞。英語では reject と名詞語尾 -ion の関係として整理できる。「受け入れずに退ける」という意味につながるが、現代の rejection が必ず敵意や攻撃を含むわけではない。",
+    "eject「外へ出す」と inject「注入する」も、ラテン語 jacere の系列を共有する。これらは同根語だが、現在の用法を接頭辞だけで入れ替えることはできない。"
+  ],
+  "formation": [
+    {
+      "term": "reject",
+      "description": "他動詞。「提案・人・物などを受け入れず退ける」。reject an offer のように対象を直接置く。"
+    },
+    {
+      "term": "reject",
+      "description": "可算名詞。「不良品・規格外品」など、はねられた物。動詞とは強勢が違い、人に使うと侮蔑的になり得る。"
+    },
+    {
+      "term": "rejected",
+      "description": "過去分詞・形容詞。「拒否された・不採用の」。a rejected manuscript は掲載を断られた原稿。"
+    },
+    {
+      "term": "rejection letter",
+      "description": "不採用・不受理を知らせる手紙やメール。拒否という行為と、その通知を区別できる複合名詞。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "あるものを受け入れず、退けること。提案への判断、選考、対人関係、身体の反応に広がり、その結果を伝える通知も指す。拒絶の仕方や強さ、理由は、この語だけでは決まらない。"
+    },
+    {
+      "type": "item",
+      "text": "提案や考えを受け入れない判断 → 「拒否・却下」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "応募者や提出物を受け入れない判断 → 「選考・審査での不採用」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "応募などを受け入れない旨の連絡 → 「不採用・不受理の通知」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "親しさや関心を求める人の拒絶 → 「対人関係での拒絶」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "移植組織を受け入れない免疫反応 → 「拒絶反応」（語義5）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・不可算／可算】拒否・却下",
+      "frequency": 8,
+      "register": [
+        "一般・業務・報道・議論。"
+      ],
+      "definition": "提案・申し出・要求・考え方などを受け入れず、退けること。一件の拒否判断として数えることもある。判断が明確であることを表しやすいが、失礼さや怒りは必須の意味ではない。",
+      "patterns": [
+        "rejection of 〈提案・考え〉＝提案・考えの拒否",
+        "the rejection of 〈提案〉 by 〈判断者〉＝判断者による提案の却下",
+        "meet with rejection＝拒否される",
+        "outright rejection＝全面的・きっぱりした拒否",
+        "rejection of the idea that 〈節〉＝その内容を述べる考えの否定"
+      ],
+      "collocations": [
+        {
+          "pattern": "rejection of 〈提案・考え〉",
+          "use": "何を受け入れなかったのかを of で示す。",
+          "example": "The committee's rejection of the proposal forced us to consider other options.",
+          "translation": "委員会がその提案を却下したため、私たちは別の選択肢を検討せざるを得なくなった。"
+        },
+        {
+          "pattern": "the rejection of 〈提案〉 by 〈判断者〉",
+          "use": "対象と拒否した側を一つの名詞句で区別する。",
+          "example": "The rejection of the offer by the seller ended the discussion.",
+          "translation": "売り手がその申し出を拒否したことで、話し合いは終わった。"
+        },
+        {
+          "pattern": "meet with rejection",
+          "use": "案が示されたときの反応を述べる。",
+          "example": "Our request for a longer deadline met with rejection.",
+          "translation": "締切の延長を求める私たちの要望は退けられた。"
+        },
+        {
+          "pattern": "outright rejection",
+          "use": "修正を求める程度ではなく、はっきり退けることを示す。",
+          "example": "The suggestion received an outright rejection.",
+          "translation": "その提案はきっぱりと拒否された。"
+        },
+        {
+          "pattern": "rejection of the idea that 〈節〉",
+          "use": "信念や説明を受け入れないことを、内容まで示して述べる。",
+          "example": "Her argument rests on a rejection of the idea that success is purely a matter of luck.",
+          "translation": "彼女の議論は、成功はまったく運だけの問題だという考えを否定することに基づいている。"
+        }
+      ],
+      "notes": [
+        "動詞は reject the proposal、名詞は rejection of the proposal。『～することを拒む』は refusal to do が基本で、これを機械的に rejection to do に置き換えない。『～という考えの否定』なら rejection of the idea that ... とすると関係が明確になる。rejection of violence は暴力を支持・容認しない態度を表せる。rejection があっても、その前に長く検討したのか、即座に退けたのかは別。flat、outright、summary などの修飾語が拒否の仕方を詳しく示す。"
+      ],
+      "synonyms": [
+        {
+          "word": "refusal",
+          "definition": "依頼に応じない、申し出を受けない、行為をしないこと。",
+          "frequency": 8,
+          "difference": "rejection は受け入れない対象に焦点を置きやすい。refusal to answer のように、しない行為を to 不定詞で示せる。",
+          "example": "His refusal to answer made the discussion difficult.",
+          "translation": "彼が答えるのを拒んだため、話し合いは難しくなった。"
+        },
+        {
+          "word": "dismissal",
+          "definition": "考えや主張を取り合わず退けること。",
+          "frequency": 6,
+          "difference": "十分に重視しない・検討に値しないとする態度を含みやすい。rejection は検討後の不採用にも使える。",
+          "example": "Her dismissal of the concern as trivial angered the staff.",
+          "translation": "彼女がその懸念を些細なものとして退けたことに、職員は憤った。"
+        },
+        {
+          "word": "repudiation",
+          "definition": "主張・信念・関係などを明確かつ強く否定すること。",
+          "frequency": 4,
+          "difference": "rejection より改まっており、距離を置く・関係を否認する姿勢が強い。",
+          "example": "The speech was a repudiation of the party's former policy.",
+          "translation": "その演説は、党の従来の方針を明確に否定するものだった。"
+        },
+        {
+          "word": "denial",
+          "definition": "要求された許可・利用などを認めず与えないこと。",
+          "frequency": 7,
+          "difference": "要求を認めない点で重なるが、denial of access のように利用機会を与えないことにも使う。『主張は事実でない』という否認義もある。",
+          "example": "The denial of access prevented the team from inspecting the site.",
+          "translation": "立入りが認められず、チームは現場を調べられなかった。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "acceptance",
+          "definition": "申し出や考えを受け入れること。",
+          "frequency": 8,
+          "difference": "同じ対象を受け入れるか退けるかという判断の方向で対立する。",
+          "example": "Their acceptance of the offer allowed negotiations to move forward.",
+          "translation": "相手側が申し出を受け入れたことで、交渉を先へ進められるようになった。"
+        },
+        {
+          "word": "approval",
+          "definition": "提案や申請を認める承認。",
+          "frequency": 8,
+          "difference": "承認の可否を判断する場面での対立。単に嫌いで退ける場合の rejection すべてに対応するわけではない。",
+          "example": "Approval of the revised plan came on Tuesday.",
+          "translation": "修正計画は火曜日に承認された。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【名詞・不可算／可算】選考・審査での不採用",
+      "frequency": 7,
+      "register": [
+        "採用・教育・出版・品質管理。"
+      ],
+      "definition": "応募者を採用・入学・選抜しないこと、または商品・原稿などを審査して使用・販売・掲載などに受け入れないこと。基準を満たさないためにはねる場合にも使うが、すべての不採用が品質や能力の低さを証明するわけではない。",
+      "patterns": [
+        "rejection of 〈応募者・申請〉＝応募者・申請の不採用",
+        "rejection by 〈選考機関〉＝その機関による不採用",
+        "rejection of 〈原稿・商品〉＝原稿・商品の不受理",
+        "face rejection＝不採用を受ける・不採用の可能性に直面する",
+        "a rejection rate＝不採用・不合格となる割合"
+      ],
+      "collocations": [
+        {
+          "pattern": "rejection of 〈応募者・申請〉",
+          "use": "選考対象を受け入れない判断を指す。",
+          "example": "The rejection of qualified applicants may reflect a shortage of places.",
+          "translation": "資格を満たした応募者の不合格は、受入枠の不足を反映している場合がある。"
+        },
+        {
+          "pattern": "rejection by 〈選考機関〉",
+          "use": "採用や受入れを断った機関を示す。",
+          "example": "After rejection by the first publisher, she sent her novel elsewhere.",
+          "translation": "最初の出版社に断られた後、彼女は小説を別のところに送った。"
+        },
+        {
+          "pattern": "rejection of 〈原稿・商品〉",
+          "use": "物の品質審査で受け入れない判断を述べる。",
+          "example": "Cracks in the glass led to rejection of the entire batch.",
+          "translation": "ガラスにひびがあったため、そのロット全体が不合格になった。"
+        },
+        {
+          "pattern": "face rejection",
+          "use": "採用や掲載を断られる可能性を述べる。",
+          "example": "Even experienced writers face rejection.",
+          "translation": "経験豊富な作家でも、掲載を断られることはある。"
+        },
+        {
+          "pattern": "a rejection rate",
+          "use": "審査されたもののうち不合格になる割合を述べる。",
+          "example": "Better temperature control reduced the factory's rejection rate.",
+          "translation": "温度管理の改善によって、その工場の不良判定率は下がった。"
+        }
+      ],
+      "notes": [
+        "複数の不採用経験は repeated rejections と表せる。a rejection from a publisher は不採用の判断にも通知（語義3）にもなるので、受け取る・読む・届くといった文脈で区別する。rejection rate は分野によって応募、論文、製品など対象が異なる。rejections を常に『不良品』と訳さない。不合格になった製品そのものをはっきり指すには、別の可算名詞 rejects を使うことが多い。"
+      ],
+      "synonyms": [
+        {
+          "word": "exclusion",
+          "definition": "候補や集団から除外すること。",
+          "frequency": 7,
+          "difference": "対象に含めないことが中心で、選考に出されたものを不採用とする rejection と重なるのは一部。",
+          "example": "The committee explained her exclusion from the shortlist.",
+          "translation": "委員会は、彼女を最終候補者リストに含めなかった理由を説明した。"
+        },
+        {
+          "word": "elimination",
+          "definition": "選考や競争で候補を残さず落とすこと。",
+          "frequency": 6,
+          "difference": "段階的に候補を絞り込む過程でよく使う。rejection は一つの応募や原稿への判断だけでも使える。",
+          "example": "Their elimination in the first round was unexpected.",
+          "translation": "彼らが第1ラウンドで敗退したことは予想外だった。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "acceptance",
+          "definition": "応募者や提出物を選考の結果として受け入れること。",
+          "frequency": 7,
+          "difference": "同じ選考対象を受け入れるか不採用とするかという判断の対立。",
+          "example": "Acceptance of the article was conditional on a shorter conclusion.",
+          "translation": "その論文の掲載は、結論を短くすることが条件だった。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算】不採用・不受理の通知",
+      "frequency": 6,
+      "register": [
+        "採用・教育・出版。"
+      ],
+      "definition": "仕事への応募、入学、原稿の提出などが受け入れられなかったことを知らせる手紙・メールなど。判断の行為ではなく、届いたり読んだりする具体的な通知を指す。",
+      "patterns": [
+        "receive a rejection＝不採用通知を受け取る",
+        "send someone a rejection＝人に不採用通知を送る",
+        "a rejection letter＝不採用・不受理を知らせる手紙・メール",
+        "a rejection slip＝特に出版社からの定型的な不採用通知"
+      ],
+      "collocations": [
+        {
+          "pattern": "receive a rejection",
+          "use": "一通の不採用通知が届くことを述べる。",
+          "example": "I received a rejection by email the day after the interview.",
+          "translation": "面接の翌日、不採用通知がメールで届いた。"
+        },
+        {
+          "pattern": "send someone a rejection",
+          "use": "選考側が結果の通知を送る。",
+          "example": "The agency sent her a rejection explaining that the position had been filled.",
+          "translation": "その紹介会社は、募集していた職にはすでに人が決まったと説明する不採用通知を彼女に送った。"
+        },
+        {
+          "pattern": "a rejection letter",
+          "use": "不採用を知らせる書面の内容に触れる。",
+          "example": "The rejection letter invited him to apply again next year.",
+          "translation": "その不採用通知には、翌年また応募してほしいと書かれていた。"
+        },
+        {
+          "pattern": "a rejection slip",
+          "use": "原稿を採用しないという定型通知を指す。",
+          "example": "The author kept the rejection slips in a folder.",
+          "translation": "その作家は、原稿の不採用通知をフォルダーに保管していた。"
+        }
+      ],
+      "notes": [
+        "この語義は可算で、two rejections は通知を2通と数えられる。ただし同じ複数形が、不採用になった2回の経験・判断（語義2）を指す場合もある。letter や slip を付けると文書であることが明確になる。rejection letter は内容が不採用・不受理の通知なので、単なる応募の受領通知とは違う。"
+      ],
+      "synonyms": [
+        {
+          "word": "rejection letter",
+          "definition": "不採用・不受理を伝える手紙・メール。",
+          "frequency": 6,
+          "difference": "rejection 単独より、判断ではなく通知であることが明確。人の応募にも原稿の提出にも使う。",
+          "example": "The rejection letter arrived on Monday.",
+          "translation": "不採用通知は月曜日に届いた。"
+        },
+        {
+          "word": "rejection slip",
+          "definition": "提出した原稿を採用しないと知らせる短い定型通知。",
+          "frequency": 4,
+          "difference": "特に出版の文脈に結び付く。一般の採用結果のメールをいつでも slip と呼ぶわけではない。",
+          "example": "The magazine returned the story with a rejection slip.",
+          "translation": "その雑誌は不採用通知を添えて短編を返送した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・通常不可算】対人関係での拒絶",
+      "frequency": 7,
+      "register": [
+        "一般・対人関係・感情。"
+      ],
+      "definition": "人が期待する愛情・関心・親しさを与えられないこと、または仲間・親しい相手として受け入れてもらえないこと。拒絶する側の行為と、拒絶された側の経験の両方を表す。",
+      "patterns": [
+        "fear of rejection＝拒絶されることへの恐れ",
+        "feelings of rejection＝拒絶されたという気持ち",
+        "rejection by 〈人・集団〉＝人・集団からの拒絶",
+        "cope with rejection＝拒絶されたことに対処する"
+      ],
+      "collocations": [
+        {
+          "pattern": "fear of rejection",
+          "use": "相手に受け入れられないことを恐れる気持ちを示す。",
+          "example": "Fear of rejection kept him from asking her out.",
+          "translation": "拒絶されるのが怖くて、彼は彼女をデートに誘えなかった。"
+        },
+        {
+          "pattern": "feelings of rejection",
+          "use": "拒絶された側が感じることを表す。",
+          "example": "Being left out of the gathering intensified her feelings of rejection.",
+          "translation": "集まりに呼ばれなかったことで、彼女は拒絶されたという思いを強めた。"
+        },
+        {
+          "pattern": "rejection by 〈人・集団〉",
+          "use": "拒絶された相手や集団を明示する。",
+          "example": "Rejection by his closest friend hurt more than he had expected.",
+          "translation": "いちばん親しい友人に拒絶されたことは、彼が思っていた以上につらかった。"
+        },
+        {
+          "pattern": "cope with rejection",
+          "use": "対人関係での拒絶に向き合うことを述べる。",
+          "example": "She talked to a trusted friend about coping with rejection.",
+          "translation": "彼女は拒絶されたつらさへの対処について、信頼する友人に話した。"
+        }
+      ],
+      "notes": [
+        "fear of rejection は自分が拒絶するのが怖いという意味ではなく、普通は拒絶されることへの恐れ。feelings of rejection も、拒絶したい気持ちではなく、拒絶されたという感覚を表す。相手が明示的に拒否したとは限らず、本人の受け止め方を述べる場合もある。rejection という語から、拒絶された人の価値や人格が低いと結論づけない。"
+      ],
+      "synonyms": [
+        {
+          "word": "rebuff",
+          "definition": "親しさや協力を求める働きかけへの、冷淡で明確な拒絶。",
+          "frequency": 5,
+          "difference": "rejection より、一回のそっけない反応・突き放しが目立つ。",
+          "example": "His attempt at friendship was met with a rebuff.",
+          "translation": "彼が親しくなろうとしたところ、冷たく拒まれた。"
+        },
+        {
+          "word": "exclusion",
+          "definition": "人を集まりや仲間に入れないこと。",
+          "frequency": 7,
+          "difference": "参加や所属から外すことが中心。rejection は恋愛や個人間の愛情を拒む場合も含む。",
+          "example": "She was upset by her exclusion from the group.",
+          "translation": "彼女はその集団から仲間外れにされたことに傷ついていた。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "acceptance",
+          "definition": "人を仲間や対等な相手として受け入れること。",
+          "frequency": 7,
+          "difference": "人を受け入れるか拒むかという関係の向きで対立する。賞賛することまで必ず含むわけではない。",
+          "example": "He found acceptance among his new neighbors.",
+          "translation": "彼は新しい隣人たちに受け入れられた。"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "【名詞・通常不可算】拒絶反応",
+      "frequency": 4,
+      "register": [
+        "医療・移植。"
+      ],
+      "definition": "移植された臓器や組織に対して、受けた人の免疫系が反応し攻撃すること。本人の意思で移植を拒むという意味ではない。",
+      "patterns": [
+        "rejection of 〈移植された臓器・組織〉＝その臓器・組織への拒絶反応",
+        "organ rejection＝移植臓器の拒絶反応",
+        "signs of rejection＝拒絶反応の兆候",
+        "an episode of rejection＝一回の拒絶反応の発生"
+      ],
+      "collocations": [
+        {
+          "pattern": "rejection of 〈移植された臓器・組織〉",
+          "use": "反応の対象となる移植物を示す。",
+          "example": "The team monitored the patient for rejection of the transplanted kidney.",
+          "translation": "医療チームは、移植された腎臓への拒絶反応がないか患者を観察した。"
+        },
+        {
+          "pattern": "organ rejection",
+          "use": "移植に関わる医学的な反応を指す。",
+          "example": "The lecture focused on organ rejection after transplantation.",
+          "translation": "その講義は、移植後の臓器の拒絶反応に焦点を当てた。"
+        },
+        {
+          "pattern": "signs of rejection",
+          "use": "観察される反応の兆候を述べる。",
+          "example": "The biopsy showed signs of rejection.",
+          "translation": "生検で拒絶反応の兆候が認められた。"
+        },
+        {
+          "pattern": "an episode of rejection",
+          "use": "一回の発生を episode で数える。",
+          "example": "The medical record described an episode of rejection following the transplant.",
+          "translation": "診療記録には、移植後に起きた1回の拒絶反応について記載されていた。"
+        }
+      ],
+      "notes": [
+        "rejection は通常不可算だが、発生の回数は episodes of rejection と表せる。acute rejection は急性拒絶反応、chronic rejection は慢性拒絶反応という分類名。症状の重さや治療法が rejection という語だけで決まるわけではない。graft rejection、tissue rejection でも、graft・tissue は移植片・組織を指す。患者が移植を望まないという意思上の拒否とは区別する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}
