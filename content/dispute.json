@@ -1,0 +1,430 @@
+{
+  "word": "dispute",
+  "slug": "dispute",
+  "ipa": "動詞は米・英: /dɪˈspjuːt/。名詞は米・英: /dɪˈspjuːt/ または /ˈdɪs.pjuːt/。どちらも2音節で、動詞は第2音節に強勢、名詞は第2音節強勢と第1音節強勢の両方がある。「名詞なら必ず前、動詞なら後」という区別にはしない。名詞の発音差は強勢位置で、ここに示した形では母音はどちらも第1音節が /ɪ/、第2音節が /uː/。/p/ の後に /j/ が入り、/spjuːt/ となる。disputed は /dɪˈspjuː.tɪd/ で、-ed が1音節を加える。",
+  "lead": "複数の人、組織、国などが、事実、判断、権利、条件などについて意見や要求を異にして争うこと。個々の争議・紛争は可算で、争いがあるという状態や異論は不可算で表す。公式な労使紛争や国境紛争によく使うが、法的手続きや大声の口論は必須ではない。",
+  "updated": "2026-10-14",
+  "notion_url": "https://app.notion.com/p/dispute-3f94faa9b77d81ca8846f7fa91733d17",
+  "pronunciation": [],
+  "etymology": [
+    "古フランス語を介してラテン語 disputare「論じる・検討する」に遡る。dis-「分けて」と putare「考える・見積もる」の組み合わせ。同じ putare の系列には compute「計算する」と reputation「評判」がある。語源は論じて考える働きに関わるが、現代の dispute は中立的な検討一般より、対立や異議の存在を表す。"
+  ],
+  "formation": [
+    {
+      "term": "disputes／disputed／disputing",
+      "description": "動詞の活用形。disputing は末尾の e を落として -ing を付ける。disputes は名詞の複数形にもなる。"
+    },
+    {
+      "term": "disputed",
+      "description": "過去分詞で、「争われている」の受動を表すほか、disputed territory「帰属が争われている領土」のように名詞を修飾する。単に「評判が悪い」という意味ではない。"
+    },
+    {
+      "term": "undisputed",
+      "description": "形容詞。「異論のない・誰もが認める」。an undisputed leader「疑いなく首位に立つ者」のように使う。"
+    },
+    {
+      "term": "disputable",
+      "description": "形容詞。「議論の余地がある・疑う余地がある」。実際に争われている disputed と、争う余地がある disputable は同じではない。"
+    },
+    {
+      "term": "indisputable",
+      "description": "形容詞。「否定できない・議論の余地のない」。indisputable evidence「否定しようのない証拠」のように使う。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "主張・権利・優位を一方的には認めず、対立すること。対立そのものを指す名詞、相手の主張に異議を唱える他動詞、相手と論争する自動詞、優位を取り合う他動詞を区別する。"
+    },
+    {
+      "type": "item",
+      "text": "主張や利害を巡る対立そのもの → 「争い・紛争・意見の対立」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "主張や判断に異議を向ける行為 → 「異議を唱える・正しさを争う」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "主張を巡って相手と対立する行為 → 「論争する・言い争う」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "権利や優位を巡って対抗する行為 → 「支配・所有・首位を争う」（語義4）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算／不可算】争い・紛争・意見の対立",
+      "frequency": 8,
+      "register": [
+        "一般、ビジネス、報道、法律。argument より、争点や利害を巡る継続的な対立を述べやすい。"
+      ],
+      "definition": "複数の人、組織、国などが、事実、判断、権利、条件などについて意見や要求を異にして争うこと。個々の争議・紛争は可算で、争いがあるという状態や異論は不可算で表す。公式な労使紛争や国境紛争によく使うが、法的手続きや大声の口論は必須ではない。",
+      "patterns": [
+        "a dispute over/about 〈争点〉＝その事柄を巡る争い",
+        "a dispute between A and B＝AとBの争い",
+        "a dispute with someone＝その相手との争い",
+        "be in dispute with someone over 〈争点〉＝相手とその件で争っている",
+        "〈事実・権利〉 + be in dispute＝その点が争われている",
+        "beyond dispute＝議論の余地がない",
+        "open to dispute＝異論を唱える余地がある",
+        "there is no dispute that 〈節〉＝その内容について異論はない",
+        "settle a dispute＝争いを解決する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a dispute over 〈争点〉",
+          "use": "権利や金額など、争いの対象を示す。",
+          "example": "A dispute over the final payment delayed the project.",
+          "translation": "最終支払いを巡る争いで、プロジェクトが遅れました。"
+        },
+        {
+          "pattern": "a dispute between A and B",
+          "use": "対立している双方を明示する。",
+          "example": "The mediator helped resolve a dispute between the landlord and the tenant.",
+          "translation": "調停役は、家主と借主の間の争いの解決を手助けしました。"
+        },
+        {
+          "pattern": "be in dispute with someone over 〈争点〉",
+          "use": "誰と何について争っているのかを一つの文で示す。",
+          "example": "The union is in dispute with management over overtime pay.",
+          "translation": "労働組合は、時間外手当を巡って経営側と対立しています。"
+        },
+        {
+          "pattern": "〈事実・権利〉 + be in dispute",
+          "use": "当事者ではなく、争われている事項を主語にする。",
+          "example": "The ownership of the photograph is still in dispute.",
+          "translation": "その写真の所有権は、今も争われています。"
+        },
+        {
+          "pattern": "beyond dispute",
+          "use": "事実や重要性に異論の余地がないことを述べる。",
+          "example": "The historical importance of the discovery is beyond dispute.",
+          "translation": "その発見が歴史上重要であることに、議論の余地はありません。"
+        },
+        {
+          "pattern": "open to dispute",
+          "use": "主張が確定しておらず、反論を受け得ることを示す。",
+          "example": "The report's estimate of future demand is open to dispute.",
+          "translation": "その報告書による将来需要の推計には、議論の余地があります。"
+        },
+        {
+          "pattern": "there is no dispute that 〈節〉",
+          "use": "議論の中で、双方が認めている前提を明確にする。",
+          "example": "There is no dispute that the delivery was late; the disagreement concerns the cause.",
+          "translation": "納品が遅れたことには異論がなく、対立しているのはその原因についてです。"
+        },
+        {
+          "pattern": "a dispute about 〈争点〉",
+          "use": "考え方や事実認識の食い違いを示す。",
+          "example": "The meeting ended in a dispute about which figures should be published.",
+          "translation": "会議は、どの数値を公表すべきかについて意見が対立したまま終わりました。"
+        },
+        {
+          "pattern": "settle a dispute",
+          "use": "対立を終わらせることを述べる。",
+          "example": "Both parties hope to settle the dispute through negotiation.",
+          "translation": "双方とも、交渉によってその紛争を解決したいと考えています。"
+        }
+      ],
+      "notes": [
+        "「AとBの間」は between A and B、「相手」は with、「争点」は over/about が基本。人が主語の We are in dispute with the supplier. は「供給業者と対立中」、物事が主語の The amount is in dispute. は「金額が争点」で、役割が異なる。in dispute、beyond dispute、open to dispute は通常無冠詞。under dispute も「争われている」の意味で使われる。there is no dispute about/as to the facts「事実に関する異論はない」も定着している。discussion は意見交換であり、dispute のような対立を必ずしも含まない。a domestic dispute は家庭内の争いで、語だけから暴力の有無までは決まらない。"
+      ],
+      "synonyms": [
+        {
+          "word": "disagreement",
+          "definition": "意見や判断が一致していないこと。",
+          "frequency": 8,
+          "difference": "穏やかな食い違いから使える広い語。dispute は、争点を巡って主張が対立していることを強く示す。",
+          "example": "There was some disagreement about the best approach.",
+          "translation": "最善の方法について、意見の食い違いが多少ありました。"
+        },
+        {
+          "word": "argument",
+          "definition": "意見の異なる人どうしの議論や口論。",
+          "frequency": 9,
+          "difference": "その場で交わされる言い合いを表しやすい。dispute は、会話が行われていない間も続く権利・条件の争いにも使う。",
+          "example": "They had an argument about who should pay for the repair.",
+          "translation": "修理代を誰が負担すべきかについて、二人は言い争いました。"
+        },
+        {
+          "word": "conflict",
+          "definition": "利害、方針、価値観などが衝突すること。",
+          "frequency": 8,
+          "difference": "対立する力や両立困難さを広く表し、武力衝突にも使う。dispute は具体的な争点や要求に焦点を置く。",
+          "example": "The proposal created a conflict between cost and safety goals.",
+          "translation": "その提案によって、費用面の目標と安全面の目標が衝突しました。"
+        },
+        {
+          "word": "controversy",
+          "definition": "多くの人が賛否を分ける、公の論争。",
+          "frequency": 7,
+          "difference": "社会的注目や意見の分裂を表しやすい。dispute は、二者間の個別の料金や境界線の争いにも使える。",
+          "example": "The decision sparked controversy across the industry.",
+          "translation": "その決定は、業界全体で論争を巻き起こしました。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【他動詞】異議を唱える・正しさを争う",
+      "frequency": 7,
+      "register": [
+        "一般のやや硬い文章、報道、ビジネス、学術、法律。"
+      ],
+      "definition": "主張、判断、事実とされる内容、請求などを、そのまま正しい・妥当だとは認めず、疑問や反論を示す。単に心の中で迷うより、異論を述べたり争点にしたりする意味。誤りであると実証することまでは含まない。",
+      "patterns": [
+        "dispute 〈主張・判断・請求〉＝その正しさや妥当性を争う",
+        "dispute that 〈節〉＝その内容が事実だということに異議を唱える",
+        "dispute whether 〈節〉＝そうなのかどうかを争う",
+        "dispute 〈事柄〉 with someone＝その相手に事柄について異議を申し立てる",
+        "〈主張・判断〉 + be disputed by someone＝人から異議を唱えられる",
+        "not dispute that 〈節〉＝その内容は否定しない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "dispute a claim",
+          "use": "相手の主張を正しいとは認めない。",
+          "example": "The manufacturer disputes the claim that the fault affects every model.",
+          "translation": "メーカーは、その不具合が全モデルに及ぶという主張に異議を唱えています。"
+        },
+        {
+          "pattern": "dispute the accuracy of 〈情報〉",
+          "use": "数値や説明の正確さを争う。",
+          "example": "Several researchers disputed the accuracy of the published figures.",
+          "translation": "複数の研究者が、公表された数値の正確さに異議を唱えました。"
+        },
+        {
+          "pattern": "dispute a charge",
+          "use": "請求内容を認めず、訂正や説明を求める。",
+          "example": "I contacted the hotel to dispute a charge for a meal I had not ordered.",
+          "translation": "注文していない食事代の請求に異議を申し立てるため、ホテルに連絡しました。"
+        },
+        {
+          "pattern": "dispute 〈事柄〉 with someone",
+          "use": "異議の対象を直接目的語にし、その相手を with で示す。",
+          "example": "We disputed the invoice total with the supplier and requested a breakdown.",
+          "translation": "私たちは供給業者に請求総額について異議を申し立て、内訳を求めました。"
+        },
+        {
+          "pattern": "dispute that 〈節〉",
+          "use": "事実だとされる内容を節で示して否定的に扱う。",
+          "example": "The contractor disputes that the delay was caused by its staff.",
+          "translation": "請負業者は、遅延が自社の従業員によって生じたという点に異議を唱えています。"
+        },
+        {
+          "pattern": "not dispute that 〈節〉",
+          "use": "反論しない点を明示し、別の争点と切り分ける。",
+          "example": "I do not dispute that the system is faster, but it is also more expensive.",
+          "translation": "そのシステムの方が速いことは否定しませんが、費用も高くなります。"
+        },
+        {
+          "pattern": "dispute whether 〈節〉",
+          "use": "ある判断が成り立つかどうかを争点にする。",
+          "example": "The reviewers disputed whether the evidence justified such a strong conclusion.",
+          "translation": "査読者たちは、その証拠からそれほど強い結論を導けるのかを問題にしました。"
+        },
+        {
+          "pattern": "〈主張・判断〉 + be disputed by someone",
+          "use": "異議を受けている内容を文の主語にする。",
+          "example": "The official account was disputed by two witnesses.",
+          "translation": "二人の目撃者が、公式の説明に異議を唱えました。"
+        }
+      ],
+      "notes": [
+        "dispute は対象の内容を直接目的語に取り、dispute the claim とする。「その主張に異議を唱える」のつもりで dispute against the claim とはしない。人そのものを目的語にするより dispute someone's account、dispute the bill with someone のように、何を争うかを明示する。dispute that the figures are correct は「数値が正しいということを争う」で、正しさを支持する意味ではない。否定文の I don't dispute that ... はその内容を認めるため、否定のかかる位置に注意する。disputed figures や the figures remain disputed は「数値に異論がある」という状態で、数値の誤りが確定したという意味ではない。refute は本来、反証によって誤りを示すことで、異議を述べるだけの dispute と区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "challenge",
+          "definition": "判断や主張などの正当性を問い、異議を申し立てる。",
+          "frequency": 8,
+          "difference": "説明や正当化を相手に求める姿勢を強調しやすい。dispute は内容を受け入れず争うことが中心。",
+          "example": "Residents challenged the council's decision.",
+          "translation": "住民たちは、市議会の決定に異議を申し立てました。"
+        },
+        {
+          "word": "question",
+          "definition": "真実性、妥当性、必要性などに疑問を示す。",
+          "frequency": 8,
+          "difference": "留保や慎重な疑問でも使え、dispute ほど明確な反対姿勢を示さないことがある。",
+          "example": "I question whether the extra expense is necessary.",
+          "translation": "その追加費用が必要なのか、疑問に思います。"
+        },
+        {
+          "word": "contest",
+          "definition": "判断、権利、請求などを正式に争う。",
+          "frequency": 6,
+          "difference": "法的手続きや公式な異議申立てを伴う文脈で特に使われる。dispute は通常の会話や論評にも使える。",
+          "example": "The family decided to contest the will.",
+          "translation": "家族は、その遺言の有効性を争うことにしました。"
+        },
+        {
+          "word": "deny",
+          "definition": "主張された内容が事実ではないと述べる。",
+          "frequency": 8,
+          "difference": "否定する答え自体に焦点がある。dispute は、事実性だけでなく判断の妥当性や請求の正当性も争える。",
+          "example": "The director denied that any records had been destroyed.",
+          "translation": "取締役は、記録が破棄されたということを否定しました。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "accept",
+          "definition": "主張や判断を正しい、または妥当なものとして受け入れる。",
+          "frequency": 9,
+          "difference": "主張の受容という同じ軸での対立。dispute は認めずに争い、accept は受け入れる。ただし「争わない」だけで積極的な同意があるとは限らない。",
+          "example": "We accept the inspector's conclusion.",
+          "translation": "私たちは、検査官の結論を受け入れます。"
+        },
+        {
+          "word": "concede",
+          "definition": "反論の余地を考えたうえで、相手の主張が正しいと認める。",
+          "frequency": 6,
+          "difference": "異議を維持するか相手に認めるかの対立。accept より、抵抗や留保を経て認める含みがある。",
+          "example": "She conceded that the original estimate had been too low.",
+          "translation": "彼女は、当初の見積もりが低すぎたことを認めました。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【自動詞】論争する・言い争う",
+      "frequency": 4,
+      "register": [
+        "硬い文章、学術・歴史的記述など。現代の日常会話では argue の方が一般的。"
+      ],
+      "definition": "相手と異なる主張を述べ合い、ある問題について争う。何を否定するかを直接目的語にする語義2とは異なり、論争を行う行為と相手・争点に焦点を置く。",
+      "patterns": [
+        "dispute with someone＝人と論争する",
+        "dispute with someone about 〈争点〉＝人とその件で議論する",
+        "people + dispute over 〈争点〉＝その事柄を巡って争う",
+        "dispute about 〈争点〉＝その事柄について論争する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "dispute with someone",
+          "use": "論争の相手を示す。",
+          "example": "The philosopher frequently disputed with his contemporaries.",
+          "translation": "その哲学者は、同時代の思想家たちと頻繁に論争しました。"
+        },
+        {
+          "pattern": "dispute with someone about 〈争点〉",
+          "use": "相手と議論の主題を両方示す。",
+          "example": "The historian disputed with her colleagues about the meaning of the inscription.",
+          "translation": "その歴史家は、碑文の意味について同僚たちと論争しました。"
+        },
+        {
+          "pattern": "dispute over 〈争点〉",
+          "use": "対立する人々が何を争っているかを示す。",
+          "example": "The two committees continued to dispute over responsibility for the decision.",
+          "translation": "二つの委員会は、その決定の責任がどちらにあるかを巡って論争を続けました。"
+        },
+        {
+          "pattern": "dispute about 〈争点〉",
+          "use": "見解が分かれている主題を示す。",
+          "example": "Scholars still dispute about the date of the manuscript.",
+          "translation": "学者たちは、今もその写本の年代について論争しています。"
+        }
+      ],
+      "notes": [
+        "We disputed the claim. は他動詞で「その主張に異議を唱えた」、We disputed with the author. は自動詞で「その著者と論争した」。with の相手と、直接目的語の主張を入れ替えて覚えない。dispute over/about の後ろには争点を置く。dispute だけの自動詞用法もあるが、通常は文脈や前置詞句で相手・論題が分かるようにする。"
+      ],
+      "synonyms": [
+        {
+          "word": "argue",
+          "definition": "意見が違う相手と議論する、または言い争う。",
+          "frequency": 9,
+          "difference": "日常の意見交換から激しい口論まで広い。自動詞の dispute はより硬く、論点を巡る対立を意識させる。",
+          "example": "They argued about the best way to divide the work.",
+          "translation": "彼らは、仕事を分担する最善の方法について言い争いました。"
+        },
+        {
+          "word": "debate",
+          "definition": "異なる見方を検討しながら議論する。",
+          "frequency": 7,
+          "difference": "組織的・建設的な討論にも使い、個人的な対立や感情的な争いは必須でない。",
+          "example": "The students debated whether voting should be compulsory.",
+          "translation": "学生たちは、投票を義務化すべきかどうかを討論しました。"
+        },
+        {
+          "word": "quarrel",
+          "definition": "感情的に言い争う。",
+          "frequency": 6,
+          "difference": "仲の悪さや怒りを伴う口論に焦点がある。dispute は感情的でない専門的論争にも使える。",
+          "example": "The siblings quarrelled over a borrowed laptop.",
+          "translation": "きょうだいは、貸し借りしたノートパソコンのことで口論しました。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【他動詞】支配・所有・首位を争う",
+      "frequency": 4,
+      "register": [
+        "硬い文章、歴史、政治、スポーツ報道。"
+      ],
+      "definition": "領土、支配権、所有権、競争上の優位などを得ようと、他者に対抗する。主張の真偽を論じるだけでなく、実際に取り合ったり競ったりする意味で、目的語は争って得ようとする対象。",
+      "patterns": [
+        "dispute 〈領土・所有権・支配権〉＝その獲得・帰属を争う",
+        "dispute the lead＝首位を争う",
+        "dispute control of 〈地域・組織〉＝その支配を争う。"
+      ],
+      "collocations": [
+        {
+          "pattern": "dispute the lead",
+          "use": "競走などで首位の座を争う。",
+          "example": "Three cyclists were disputing the lead as they approached the final climb.",
+          "translation": "最後の上り坂に差しかかるとき、3人の自転車選手が首位を争っていました。"
+        },
+        {
+          "pattern": "dispute control of 〈地域・組織〉",
+          "use": "支配や主導権を握ろうと競う。",
+          "example": "Rival groups disputed control of the strategic port.",
+          "translation": "対立する集団が、その戦略上重要な港の支配権を争いました。"
+        },
+        {
+          "pattern": "dispute ownership of 〈物・土地〉",
+          "use": "ある物が自分のものだと双方が主張して争う。",
+          "example": "The two families disputed ownership of the fields for decades.",
+          "translation": "二つの家族は、何十年にもわたってその畑の所有権を争いました。"
+        }
+      ],
+      "notes": [
+        "dispute the lead は「首位を取ろうと争う」で、必ずしも「首位という判定に抗議する」ではない。dispute ownership は、所有に関する主張への異議を表す語義2とも重なり得るため、誰が権利を求めているかで解釈する。a disputed territory は「帰属が争われている領土」で、どちらの主張が正当かを語自体が決めるものではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "contest",
+          "definition": "支配、地位、勝利などを得るために争う。",
+          "frequency": 6,
+          "difference": "選挙や試合に参加して競う場合にも広く使う。dispute は相手の独占や優位を認めず対抗する響きが強い。",
+          "example": "Four teams will contest the championship.",
+          "translation": "4チームが選手権を争います。"
+        },
+        {
+          "word": "vie for",
+          "definition": "価値のある地位・賞・支持などを得ようと競う。",
+          "frequency": 5,
+          "difference": "for の後ろに獲得目標を置き、必ずしも相手の権利への異議を含まない。dispute はこの意味でも直接目的語を取る。",
+          "example": "Several companies are vying for the contract.",
+          "translation": "複数の企業が、その契約の獲得を競っています。"
+        },
+        {
+          "word": "fight for",
+          "definition": "権利や支配などを得るために強く争う。",
+          "frequency": 7,
+          "difference": "対抗の強さや努力に焦点があり、実際の戦闘にも比喩的な闘争にも使う。dispute はより硬い叙述に適する。",
+          "example": "The rival factions fought for control of the city.",
+          "translation": "対立する勢力は、その都市の支配権を巡って争いました。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

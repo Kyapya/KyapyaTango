@@ -1,0 +1,407 @@
+{
+  "word": "termination",
+  "slug": "termination",
+  "ipa": "米: /ˌtɝː.məˈneɪ.ʃən/｜英: /ˌtɜː.mɪˈneɪ.ʃən/。",
+  "lead": "契約・サービス・活動・過程などが終わること、またはそれを終わらせること。",
+  "updated": "2026-10-14",
+  "notion_url": "https://app.notion.com/p/termination-3f94faa9b77d811797e5c797f01e7371",
+  "pronunciation": [
+    "4音節で、第3音節に主強勢、第1音節に第二強勢。上記の米英差は、第1音節の母音が米 /ɝː/、英 /ɜː/ であることと、第2音節が米 /mə/、英 /mɪ/ であること。第3音節 /neɪ/ と第4音節 /ʃən/ は共通。複数形 terminations の語尾は /z/。"
+  ],
+  "etymology": [
+    "古フランス語 terminacion とラテン語 terminatio「境界を定めること」に由来する。基礎の terminare「終わり・境界を定める」は terminus「終わり、境界」から。現在の終了という出来事と、末端という場所の両方に、終わりの境界という関係が見られる。",
+    "同系語には terminal「終端の、末期の」と terminus「終点」がある。term「期間・期限」もこの語源系統につながる。"
+  ],
+  "formation": [
+    {
+      "term": "terminate",
+      "description": "終わる、終わらせる。自動詞・他動詞の両方がある。"
+    },
+    {
+      "term": "terminated",
+      "description": "終了した、終了させられた。元の動詞の過去分詞。"
+    },
+    {
+      "term": "terminable",
+      "description": "終了させることができる。契約文書などのフォーマルな形容詞。"
+    },
+    {
+      "term": "interminable",
+      "description": "果てしなく続く、うんざりするほど長い。単に「解約できない」という意味にはしない。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "続いているものが終わること、またはその終わりに当たる部分。何が終わるのかによって、契約・雇用・妊娠の終了、構造や語の末端へ具体化する。"
+    },
+    {
+      "type": "item",
+      "text": "続く契約や活動の終わり → 「終了、終結、打ち切り」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "続く雇用関係の終わり → 「雇用の終了、解雇」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "続く妊娠の意図的な終わり → 「人工妊娠中絶」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "続く構造の空間的な終わり → 「終端、末端」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "続く語の音や形の終わり → 「語尾」（語義5）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算／不可算】終了、終結、打ち切り",
+      "frequency": 7,
+      "register": [
+        "フォーマル、ビジネス、技術文書。"
+      ],
+      "definition": "契約・サービス・活動・過程などが終わること、またはそれを終わらせること。",
+      "patterns": [
+        "termination of 〈契約・活動〉",
+        "termination by 〈当事者〉",
+        "notice of termination",
+        "early termination",
+        "upon termination",
+        "termination date",
+        "termination clause。一般的な終了の過程は不可算、個別の終了案件は可算にもなる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "termination of a contract",
+          "use": "契約の終了。",
+          "example": "Both parties agreed to the termination of the contract.",
+          "translation": "両当事者は契約の終了に合意した。"
+        },
+        {
+          "pattern": "notice of termination",
+          "use": "終了を告げる通知。",
+          "example": "The supplier received written notice of termination.",
+          "translation": "納入業者は書面による契約終了通知を受け取った。"
+        },
+        {
+          "pattern": "an early termination fee",
+          "use": "予定より早い終了に伴う料金。",
+          "example": "The plan includes an early termination fee.",
+          "translation": "そのプランには中途解約料が設定されている。"
+        },
+        {
+          "pattern": "upon termination",
+          "use": "終了時・終了後に生じる扱い。",
+          "example": "Upon termination, the client must return the loaned equipment.",
+          "translation": "契約終了時に、顧客は貸与された機器を返却しなければならない。"
+        },
+        {
+          "pattern": "a termination date",
+          "use": "終了する日付。",
+          "example": "The termination date is stated on the final page.",
+          "translation": "終了日は最終ページに記載されている。"
+        },
+        {
+          "pattern": "termination by either party",
+          "use": "終了させる当事者。",
+          "example": "The clause permits termination by either party with written notice.",
+          "translation": "その条項は、書面通知によりいずれの当事者も契約を終了させられると定めている。"
+        },
+        {
+          "pattern": "termination of a service",
+          "use": "サービスの提供終了。",
+          "example": "Residents were informed of the termination of the bus service.",
+          "translation": "住民にはバス運行終了の知らせが届いた。"
+        },
+        {
+          "pattern": "abrupt termination",
+          "use": "突然の終了。",
+          "example": "The power failure caused the abrupt termination of the process.",
+          "translation": "停電によって処理が突然終了した。"
+        }
+      ],
+      "notes": [
+        "termination 自体を必ず「期間途中の解除」と限定しない。early termination が途中終了を明示する。expiration/expiry は期間満了に焦点があり、cancellation は申込み・予約などの取り消しにも広く使う。completion は作業を最後まで終えることを含むので、途中打ち切りの termination と同一ではない。notice of termination は通知であって、その時点で終了の効力が発生したとは限らない。termination clause の条件や終了後の義務は各文書で確認する。"
+      ],
+      "synonyms": [
+        {
+          "word": "ending",
+          "definition": "終わること、終わらせること。",
+          "frequency": 9,
+          "difference": "最も一般的で、termination の事務的・正式な響きが弱い。",
+          "example": "The sudden ending of the partnership surprised everyone.",
+          "translation": "提携が突然終わり、皆が驚いた。"
+        },
+        {
+          "word": "cessation",
+          "definition": "活動や状態が止まること。",
+          "frequency": 6,
+          "difference": "停止そのものを表す硬い語。契約関係の終了という含みは必須でない。",
+          "example": "The announcement called for a cessation of hostilities.",
+          "translation": "その声明は敵対行為の停止を求めた。"
+        },
+        {
+          "word": "discontinuation",
+          "definition": "提供・使用・実施をやめること。",
+          "frequency": 6,
+          "difference": "サービスや製品、制度などを続けない決定に重点がある。",
+          "example": "Customers were notified of the discontinuation of the service.",
+          "translation": "顧客にはサービス廃止が通知された。"
+        },
+        {
+          "word": "cancellation",
+          "definition": "予約・契約・予定などの取り消し。",
+          "frequency": 8,
+          "difference": "始まる前の予定の取り消しにも使える。termination は続いている関係や過程の終了に向く。",
+          "example": "The storm led to the cancellation of the event.",
+          "translation": "嵐のため催しは中止になった。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "commencement",
+          "definition": "活動・期間などの開始。",
+          "frequency": 5,
+          "difference": "開始と終了という時間上の境界で対立する。どちらもフォーマルな語。",
+          "example": "The commencement date appears in the agreement.",
+          "translation": "開始日は契約書に記載されている。"
+        },
+        {
+          "word": "initiation",
+          "definition": "活動・過程を始めること。",
+          "frequency": 6,
+          "difference": "過程の開始と終了という方向で対立する。単なる継続は反対語ではない。",
+          "example": "The initiation of the project required board approval.",
+          "translation": "事業の開始には取締役会の承認が必要だった。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算／不可算】雇用の終了、解雇",
+      "frequency": 6,
+      "register": [
+        "人事、ビジネス。解雇の意味は特に米国の用法で目立つ。"
+      ],
+      "definition": "雇用関係が終わること。特に人事の文脈では、雇用主が従業員を解雇することを指す。",
+      "patterns": [
+        "termination of employment",
+        "an employee’s termination",
+        "termination for 〈理由〉",
+        "wrongful termination",
+        "a termination letter。"
+      ],
+      "collocations": [
+        {
+          "pattern": "termination of employment",
+          "use": "雇用関係の終了。",
+          "example": "The handbook explains the procedure for termination of employment.",
+          "translation": "就業手引きは雇用終了の手続きを説明している。"
+        },
+        {
+          "pattern": "termination for 〈理由〉",
+          "use": "解雇の理由を示すこと。",
+          "example": "The policy permits termination for serious misconduct.",
+          "translation": "その規程は、重大な不正行為を理由とする解雇を認めている。"
+        },
+        {
+          "pattern": "a termination letter",
+          "use": "解雇・雇用終了を通知する書面。",
+          "example": "She asked HR for a copy of her termination letter.",
+          "translation": "彼女は人事部に解雇通知書の写しを求めた。"
+        },
+        {
+          "pattern": "wrongful termination",
+          "use": "不当・違法な解雇という争点。",
+          "example": "The former employee filed a wrongful termination claim.",
+          "translation": "元従業員は不当解雇を申し立てた。"
+        }
+      ],
+      "notes": [
+        "termination of employment は文脈によって退職や契約満了を含む広い表現にもなる。her termination、termination for misconduct では雇用主による解雇の意味が強い。自発的な辞職を明確に表すなら resignation。wrongful termination の具体的な成立要件は法域によるので、「理由を説明されなかった解雇」など一つの状況に同一視しない。語義1の終了全般と、誰の判断で雇用が終わったかを区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "dismissal",
+          "definition": "雇用主が従業員を解雇すること。",
+          "frequency": 7,
+          "difference": "一般には雇用主による解雇を明確に表す。法律上の範囲は法域によって異なり、英国では有期契約の非更新も dismissal に含まれる。",
+          "example": "The employee appealed against the dismissal.",
+          "translation": "その従業員は解雇に異議を申し立てた。"
+        },
+        {
+          "word": "firing",
+          "definition": "従業員を解雇すること。",
+          "frequency": 7,
+          "difference": "termination より直接的で日常的。人事書類の婉曲的な言い方ではない。",
+          "example": "The firing of the manager drew criticism.",
+          "translation": "その管理職の解雇には批判が集まった。"
+        },
+        {
+          "word": "layoff",
+          "definition": "仕事不足・経営上の事情などによる雇用停止や解雇。",
+          "frequency": 7,
+          "difference": "主に本人の非行以外の経営理由に焦点があり、一時的か恒久的かは地域・文脈による。",
+          "example": "The factory announced layoffs after losing a major customer.",
+          "translation": "工場は大口顧客を失った後、人員削減を発表した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算／不可算】人工妊娠中絶",
+      "frequency": 5,
+      "register": [
+        "医療、特に英の医療説明で用いられる。"
+      ],
+      "definition": "妊娠を意図的に終わらせること。termination of pregnancy の形、または医療の文脈で termination 単独で使う。",
+      "patterns": [
+        "termination of pregnancy",
+        "a termination",
+        "have a termination",
+        "medical termination",
+        "surgical termination。"
+      ],
+      "collocations": [
+        {
+          "pattern": "termination of pregnancy",
+          "use": "妊娠中絶を正式に指すこと。",
+          "example": "The leaflet explains the options for termination of pregnancy.",
+          "translation": "その案内は人工妊娠中絶の選択肢を説明している。"
+        },
+        {
+          "pattern": "have a termination",
+          "use": "中絶を受けること。",
+          "example": "She spoke to a clinician before deciding whether to have a termination.",
+          "translation": "彼女は中絶を受けるかどうかを決める前に、医療者に相談した。"
+        },
+        {
+          "pattern": "medical termination",
+          "use": "薬を用いる中絶。",
+          "example": "The clinician explained the difference between medical and surgical termination.",
+          "translation": "医療者は薬による中絶と外科的な中絶の違いを説明した。"
+        }
+      ],
+      "notes": [
+        "この用法は意図的な妊娠の終了を指し、自然流産 miscarriage とは区別する。外科手術だけを意味せず、薬を用いる方法もある。medical termination の medical は、この対比では「医療全般」より「薬による」を指す。方法の適応、利用可能性、手続きなどを単語の意味から推測しない。本人の選択や感情を決めつける含みを加えず訳す。"
+      ],
+      "synonyms": [
+        {
+          "word": "abortion",
+          "definition": "妊娠中絶。",
+          "frequency": 7,
+          "difference": "現代の一般的な用法では人工妊娠中絶を明示する語。医学用語の spontaneous abortion は自然流産を指し、termination の通常の意味と範囲が異なる。",
+          "example": "The clinic provides information about abortion.",
+          "translation": "そのクリニックは妊娠中絶に関する情報を提供している。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・可算】終端、末端",
+      "frequency": 3,
+      "register": [
+        "技術的・記述的な文体。"
+      ],
+      "definition": "線状の物や構造などが終わる位置・部分。",
+      "patterns": [
+        "the termination of 〈構造〉",
+        "a termination at 〈位置〉",
+        "a nerve termination。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the termination of 〈構造〉",
+          "use": "ある構造の終わる部分。",
+          "example": "The diagram shows the termination of the duct.",
+          "translation": "図はその管の終端を示している。"
+        },
+        {
+          "pattern": "nerve terminations",
+          "use": "神経の末端。",
+          "example": "The tissue contains numerous nerve terminations.",
+          "translation": "その組織には多数の神経終末がある。"
+        }
+      ],
+      "notes": [
+        "語義1の「終了する出来事」に対し、ここでは空間上の位置・部分を指す。日常的には end、神経なら nerve ending が一般的。電気・通信では cable termination のように終端の接続処理や装置を指す場合もあるため、文脈なしに「契約終了」と訳さない。"
+      ],
+      "synonyms": [
+        {
+          "word": "end",
+          "definition": "物の端・末端。",
+          "frequency": 10,
+          "difference": "最も一般的で、専門的な構造の記述以外にも使える。",
+          "example": "Attach the label to the end of the cable.",
+          "translation": "ケーブルの端にラベルを付けてください。"
+        },
+        {
+          "word": "extremity",
+          "definition": "物の最も外側にある端。",
+          "frequency": 4,
+          "difference": "外側・遠い端であることに重点があり、どの termination にも置き換えられるわけではない。",
+          "example": "The sensor is mounted at the extremity of the arm.",
+          "translation": "センサーはアームの先端に取り付けられている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞・可算】語尾",
+      "frequency": 3,
+      "register": [
+        "文法、言語学。比較的伝統的・専門的な表現。"
+      ],
+      "definition": "語の最後の音・音節・形態部分。特に語形変化に現れる語尾。",
+      "patterns": [
+        "a word termination",
+        "a plural termination",
+        "the termination -〈形〉。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a plural termination",
+          "use": "複数形を示す語尾。",
+          "example": "The plural termination in “dogs” is pronounced /z/.",
+          "translation": "dogs の複数語尾は /z/ と発音する。"
+        },
+        {
+          "pattern": "the termination -〈形〉",
+          "use": "特定の語尾を取り上げること。",
+          "example": "The exercise asks students to identify the termination -ed in regular past-tense forms.",
+          "translation": "その課題では、規則動詞の過去形の語尾 -ed を見つけるよう学習者に求めている。"
+        }
+      ],
+      "notes": [
+        "語末部分を表す用法で、文章や会話が終わることではない。現在の一般的な文法説明では ending のほうが使いやすい。suffix は語に付く接尾辞という形態上の区分なので、語末に見える音のすべてが suffix とは限らない。"
+      ],
+      "synonyms": [
+        {
+          "word": "ending",
+          "definition": "語の末尾の部分、語尾。",
+          "frequency": 6,
+          "difference": "termination より一般的な文法用語。語尾の形・発音の説明に広く使う。",
+          "example": "The past-tense ending has three common pronunciations.",
+          "translation": "過去形の語尾には一般的な発音が3種類ある。"
+        },
+        {
+          "word": "suffix",
+          "definition": "語の末尾に付く接辞。",
+          "frequency": 5,
+          "difference": "語形成・文法機能を持つ付加要素に限る。単に最後の音であることとは異なる。",
+          "example": "The suffix -ness forms nouns from many adjectives.",
+          "translation": "接尾辞 -ness は多くの形容詞から名詞を作る。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

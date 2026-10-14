@@ -1,0 +1,595 @@
+{
+  "word": "breach",
+  "slug": "breach",
+  "ipa": "米・英: /briːtʃ/。1音節。母音は長い /iː/、語末は /tʃ/。名詞・動詞とも同じ発音で、breech「銃尾・尻の側」とも同音だが、綴りと意味が異なる。複数形・三人称単数形 breaches は /ˈbriː.tʃɪz/、過去形・過去分詞 breached は /briːtʃt/。",
+  "lead": "法律、規則、契約、約束、守るべき義務や行動基準に反すること。禁止された行為をする場合だけでなく、約束された行為をしない場合も含む。法律上の責任や救済が必ず特定の形で生じるという意味ではない。",
+  "updated": "2026-10-14",
+  "notion_url": "https://app.notion.com/p/breach-3f94faa9b77d816484d6f0c7c00a7ec2",
+  "pronunciation": [],
+  "etymology": [
+    "中英語 breche に遡り、古英語の「破ること」を表す語と、古フランス語 breche「破れ・隙間」の双方が関わるとされる。フランス語側もゲルマン語系の「破る」に由来し、break と同じ系列。動詞 breach は名詞から生まれた。「破れ」という意味は物理的な壁だけでなく、約束、保護、関係にも広がっている。"
+  ],
+  "formation": [
+    {
+      "term": "breaches",
+      "description": "名詞の複数形、および動詞の三人称単数現在形。語末が -ch なので -es を付ける。"
+    },
+    {
+      "term": "breached／breaching",
+      "description": "動詞の過去形・過去分詞、および現在分詞。breached defenses「突破された防御」のような修飾もできる。"
+    },
+    {
+      "term": "data breach",
+      "description": "複合名詞。「データの保護が破られる事故・情報侵害」。必ずしもデータを外部公開した場合だけを指すわけではない。"
+    },
+    {
+      "term": "breach of contract",
+      "description": "名詞句。「契約違反・債務不履行」。日常語としての説明と、個々の法制度による認定・効果を区別する。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "境界・約束・つながりなど、続いているべきものが破られること。具体的な破れ口から、規範違反や関係の断絶へつなげると覚えやすい。step into the breach は、その結果できた穴を埋めに入る慣用表現で、動物の用法では水面を突き破る跳躍を表す。"
+    },
+    {
+      "type": "item",
+      "text": "守るべき規範や約束の破れ → 「違反・不履行」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "守るべき規範や約束を破る行為 → 「違反する・破る」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "守るべき保護や機密の破れ → 「保安上の侵害・情報の漏えい」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "隔てる壁や防御を破る行為 → 「突破する・破れ目を作る」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "隔てる壁や堤防にできた破れ → 「破れ目・突破口」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "続いていた友好関係の破れ → 「不和・関係の断絶」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "人手の不足による穴を埋める行為 → 「急に代役を務める・助けに入る」（語義7）"
+    },
+    {
+      "type": "item",
+      "text": "水面の境界を勢いよく破る跳躍 → 「水中から跳び上がる・その跳躍」（語義8）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算／不可算】違反・不履行",
+      "frequency": 8,
+      "register": [
+        "硬めの一般文、ビジネス、報道、法律。礼儀や信頼に関しても使う。"
+      ],
+      "definition": "法律、規則、契約、約束、守るべき義務や行動基準に反すること。禁止された行為をする場合だけでなく、約束された行為をしない場合も含む。法律上の責任や救済が必ず特定の形で生じるという意味ではない。",
+      "patterns": [
+        "a breach of 〈契約・規則・義務〉＝その違反",
+        "be in breach of 〈規則・契約〉＝それに違反している",
+        "constitute a breach of 〈義務・約束〉＝その違反に当たる",
+        "breach of contract＝契約違反",
+        "a breach of trust＝信頼への背反",
+        "a breach of the peace＝治安・平穏を乱す行為。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a breach of the agreement",
+          "use": "合意に反する行為を一件の違反として表す。",
+          "example": "Sharing the draft without permission would be a breach of the agreement.",
+          "translation": "許可なく草案を共有すれば、合意違反になります。"
+        },
+        {
+          "pattern": "be in breach of 〈規則・契約〉",
+          "use": "違反している人や組織を主語にする。",
+          "example": "The operator was in breach of the safety regulations.",
+          "translation": "その事業者は、安全規則に違反していました。"
+        },
+        {
+          "pattern": "constitute a breach of 〈義務・約束〉",
+          "use": "ある行為が違反に該当するかを硬い表現で述べる。",
+          "example": "Disclosing those figures could constitute a breach of confidentiality.",
+          "translation": "その数値を開示すると、守秘義務違反に当たる可能性があります。"
+        },
+        {
+          "pattern": "breach of contract",
+          "use": "契約上の義務を果たさなかったことを表す。",
+          "example": "The buyer sued the supplier for breach of contract.",
+          "translation": "買い手は、契約違反を理由に供給業者を訴えました。"
+        },
+        {
+          "pattern": "a breach of trust",
+          "use": "相手の信頼を裏切る行為を述べる。",
+          "example": "Using the shared funds for private expenses was a serious breach of trust.",
+          "translation": "共有資金を個人的な出費に使うことは、信頼を大きく裏切る行為でした。"
+        },
+        {
+          "pattern": "a breach of etiquette",
+          "use": "法律ではなく、礼儀や慣習への違反を述べる。",
+          "example": "Interrupting the speaker repeatedly was seen as a breach of etiquette.",
+          "translation": "発言者の話を何度も遮ることは、礼儀に反すると受け止められました。"
+        },
+        {
+          "pattern": "a breach of the peace",
+          "use": "治安や公の平穏を乱す行為について述べる。",
+          "example": "The officers intervened to prevent a breach of the peace.",
+          "translation": "警察官たちは、騒ぎによって平穏が乱されるのを防ぐために介入しました。"
+        }
+      ],
+      "notes": [
+        "個々の違反は a breach、several breaches と数えられる。一方、for breach of contract や in breach of the rules では通常無冠詞。a breach of contract も一件の違反として自然に使える。名詞の a breach of the rules と動詞の breach the rules を区別し、動詞に of を持ち込まない。breach of trust は一般の「信頼への背反」と、信託に関する法律用語の両方がある。breach of the peace の具体的な法的範囲は法域によって異なり、単なる意見の不一致すべてを指すわけではない。重大性を表す material breach などの分類や解除・賠償の可否は、breach という語だけでは決まらない。"
+      ],
+      "synonyms": [
+        {
+          "word": "violation",
+          "definition": "法律、規則、権利などに反すること。",
+          "frequency": 8,
+          "difference": "法規や権利の侵害に広く使う。breach は、契約・約束・信頼のように守られるべき関係が破られる場面にもよく結び付く。",
+          "example": "The inspection found several violations of the safety code.",
+          "translation": "検査で、安全規程への違反が複数見つかりました。"
+        },
+        {
+          "word": "infringement",
+          "definition": "権利や規則を侵害・違反すること。",
+          "frequency": 6,
+          "difference": "copyright infringement のように知的財産権の侵害で特によく使う。breach の物理的な破れ目には対応しない。",
+          "example": "The publisher investigated a possible copyright infringement.",
+          "translation": "出版社は、著作権侵害の可能性について調査しました。"
+        },
+        {
+          "word": "non-compliance",
+          "definition": "要求や規則に従っていないこと。",
+          "frequency": 6,
+          "difference": "遵守していない状態・行動に焦点があり、個々の違反を a breach と数えるのとは捉え方が異なる。",
+          "example": "Repeated non-compliance led to an internal review.",
+          "translation": "不遵守が繰り返されたため、内部調査が行われました。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【他動詞】違反する・破る",
+      "frequency": 7,
+      "register": [
+        "硬めの文章、契約、ビジネス、報道、法律。"
+      ],
+      "definition": "契約、規則、義務、約束などを守らず、それに反する行為をする。目的語には守るべき取り決めや基準を置く。",
+      "patterns": [
+        "breach 〈契約・規則・義務〉＝それに違反する",
+        "breach confidentiality＝秘密保持に反する",
+        "〈契約・規則〉 + be breached＝それが破られる",
+        "breach 〈契約〉 by doing something＝その行為によって契約に違反する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "breach a contract",
+          "use": "契約上の約束を守らないことを述べる。",
+          "example": "The supplier breached the contract by delivering only half the agreed quantity.",
+          "translation": "供給業者は、合意した数量の半分しか納品せず、契約に違反しました。"
+        },
+        {
+          "pattern": "breach the rules",
+          "use": "規則を直接目的語に取る。",
+          "example": "Any employee who breaches the rules will be asked for an explanation.",
+          "translation": "規則に違反した従業員には、説明を求めます。"
+        },
+        {
+          "pattern": "breach confidentiality",
+          "use": "機密保持を守らないことを述べる。",
+          "example": "Publishing the interview without removing the names could breach confidentiality.",
+          "translation": "氏名を削除せずにインタビューを公表すると、秘密保持に反する可能性があります。"
+        },
+        {
+          "pattern": "〈契約・規則〉 + be breached",
+          "use": "破られた規定を主語にして説明する。",
+          "example": "The terms of the agreement were breached when the data was sold to a third party.",
+          "translation": "データが第三者に販売された際に、契約条件が破られました。"
+        }
+      ],
+      "notes": [
+        "breach the contract は他動詞構文で、breach of the contract という名詞句とは異なる。The company breached the contract. と The company was in breach of the contract. は、動詞で違反行為を述べるか、名詞句で違反状態を述べるかの違い。違反した人が主語なら能動形にし、The company was breached. を「その会社が違反した」の意味で使わない。breach a wall のような語義4では目的語は物理的・機能的な障壁となる。"
+      ],
+      "synonyms": [
+        {
+          "word": "violate",
+          "definition": "法律、規則、権利などを侵害する。",
+          "frequency": 8,
+          "difference": "法律・権利・安全基準などを破る場面で広く使う。breach は契約や約束の不履行にも特に自然。",
+          "example": "The policy must not violate employees' rights.",
+          "translation": "その方針が従業員の権利を侵害してはなりません。"
+        },
+        {
+          "word": "break",
+          "definition": "規則、約束、法律などを守らない。",
+          "frequency": 9,
+          "difference": "日常的で広い語。breach は公式な取り決めへの違反を、より硬い表現で述べる。",
+          "example": "She refused to break her promise.",
+          "translation": "彼女は約束を破ることを拒みました。"
+        },
+        {
+          "word": "contravene",
+          "definition": "法律や明示された規則に反する。",
+          "frequency": 5,
+          "difference": "法令・規定との矛盾に焦点を置く、さらに硬い語。物理的な突破や友好関係の断絶には普通使わない。",
+          "example": "The proposed change would contravene the existing regulations.",
+          "translation": "提案された変更は、現行の規則に反することになります。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算】保安上の侵害・情報の漏えい",
+      "frequency": 7,
+      "register": [
+        "情報セキュリティ、企業報道、施設管理。data breach の制度上の定義は適用される法令や規則による。"
+      ],
+      "definition": "人や施設、システム、情報を守る仕組みが破られ、不正な立入り、アクセス、開示などが生じること。データについては、保護されるべき情報の紛失・破壊・改変が含まれる場合もある。security breach は保安の侵害全般、data breach はデータ保護の侵害を指す。技術的侵入だけでなく、誤送信などにより情報が守られなくなる場合にも使う。",
+      "patterns": [
+        "a security breach＝保安上の侵害",
+        "a data breach＝データ保護の侵害",
+        "a breach of security＝保安が破られること",
+        "detect a breach＝侵害を検知する",
+        "report a breach＝侵害を報告する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a security breach",
+          "use": "守られた場所や仕組みへの不正な立入りなどを述べる。",
+          "example": "Unauthorized entry into the control room was treated as a security breach.",
+          "translation": "制御室への無許可の立入りは、保安上の侵害として扱われました。"
+        },
+        {
+          "pattern": "a data breach",
+          "use": "個人情報や業務情報などの保護が破られた事故を述べる。",
+          "example": "The company investigated a data breach that exposed customer email addresses.",
+          "translation": "会社は、顧客のメールアドレスが漏えいした事故を調査しました。"
+        },
+        {
+          "pattern": "detect a breach",
+          "use": "侵害の発生を発見する。",
+          "example": "The monitoring system detected a breach within minutes of the unauthorized access.",
+          "translation": "監視システムは、不正アクセスから数分以内に侵害を検知しました。"
+        },
+        {
+          "pattern": "report a breach",
+          "use": "発見した事故を担当者などへ知らせる。",
+          "example": "Staff should report a suspected breach to the security team.",
+          "translation": "職員は、侵害が疑われる場合にはセキュリティーチームへ報告することになっています。"
+        }
+      ],
+      "notes": [
+        "a breach は発生した侵害・事故を指すため、まだ悪用されていない vulnerability「脆弱性」と同じではない。data breach をすべて「ハッキング」と訳すと、誤送信や記録の不適切な扱いを落としてしまう。また data breach が確認されても、必ずすべてのデータが盗まれたり一般公開されたりしたとは限らない。語義1の breach of a rule は「規則違反」、この語義の breach of security は「保護が破られたこと」に焦点がある。"
+      ],
+      "synonyms": [
+        {
+          "word": "intrusion",
+          "definition": "許可されていない場所やシステムへの侵入。",
+          "frequency": 6,
+          "difference": "外部から入り込む行為に焦点がある。breach は内部からの誤開示など、侵入を伴わない保護の破れも指せる。",
+          "example": "The team found evidence of an intrusion into the network.",
+          "translation": "チームは、ネットワークへの侵入の証拠を見つけました。"
+        },
+        {
+          "word": "data leak",
+          "definition": "本来制限されているデータが外部へ漏れること。",
+          "frequency": 6,
+          "difference": "データが外へ出たことを強調する。data breach は、不正アクセスを含めた保護の侵害としてより広く使われる。",
+          "example": "A configuration error caused a data leak.",
+          "translation": "設定ミスによって、データが漏えいしました。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【他動詞】突破する・破れ目を作る",
+      "frequency": 5,
+      "register": [
+        "報道、軍事、災害、情報セキュリティ。やや硬い語。"
+      ],
+      "definition": "壁、堤防、防御線などを破って開口部を作る、または保護する仕組みを破って内部へ入り込む。目的語は、規則ではなく通過を妨げたり保護したりする障壁。",
+      "patterns": [
+        "breach 〈壁・堤防・防御線〉＝それを破る・突破する",
+        "breach the defenses＝防御を突破する",
+        "breach a secure network＝保護されたネットワークに侵入する",
+        "〈障壁〉 + be breached＝破られる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "breach the wall",
+          "use": "物理的な壁に侵入用の破れ目を作る。",
+          "example": "The attackers used explosives to breach the wall.",
+          "translation": "攻撃側は、壁を突破するために爆薬を使いました。"
+        },
+        {
+          "pattern": "breach the levee",
+          "use": "水が堤防を破り、外へ流れ出ることを述べる。",
+          "example": "Rising floodwater breached the levee during the night.",
+          "translation": "増水した洪水の水が、夜間に堤防を決壊させました。"
+        },
+        {
+          "pattern": "breach the defenses",
+          "use": "相手の防御を破って進入する。",
+          "example": "The troops failed to breach the city's defenses.",
+          "translation": "部隊は、その都市の防御を突破できませんでした。"
+        },
+        {
+          "pattern": "breach a secure network",
+          "use": "デジタルな防御を破ることを述べる。",
+          "example": "The attackers tried to breach the secure network using stolen credentials.",
+          "translation": "攻撃者は、盗んだ認証情報を使って、保護されたネットワークへの侵入を試みました。"
+        }
+      ],
+      "notes": [
+        "主語は攻撃者だけでなく、洪水や波などの力でもよい。breach the defenses は直接目的語を取るが、類似表現 break through the defenses は through を伴う。breach そのものに through が必要なわけではない。The levee was breached. は「堤防が破られた」という受動で、侵害を行った側を主語にする語義2と取り違えない。"
+      ],
+      "synonyms": [
+        {
+          "word": "break through",
+          "definition": "障壁を破る、または押し通って向こう側へ出る。",
+          "frequency": 7,
+          "difference": "breach より日常的で、移動して通り抜けることに焦点を置きやすい。壁を目的語に置く際も through が残る。",
+          "example": "The crowd broke through the barrier.",
+          "translation": "群衆は、その障壁を突破しました。"
+        },
+        {
+          "word": "penetrate",
+          "definition": "外側を通過して、内部や奥へ入り込む。",
+          "frequency": 6,
+          "difference": "入り込む深さや到達に焦点があり、障壁を壊したり穴を開けたりする必要はない。",
+          "example": "Water penetrated the outer layer of the roof.",
+          "translation": "水が屋根の外層を通って浸入しました。"
+        },
+        {
+          "word": "rupture",
+          "definition": "強い力などで破裂・破損させる。",
+          "frequency": 5,
+          "difference": "破れという物理的損傷に焦点があり、そこを通過したり防御を突破したりする意味は必須でない。",
+          "example": "The impact ruptured the fuel tank.",
+          "translation": "衝撃によって、燃料タンクが破損しました。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞・可算】破れ目・突破口",
+      "frequency": 5,
+      "register": [
+        "硬い一般文、軍事、災害・土木の報道。"
+      ],
+      "definition": "壁、堤防、防御線などの連続した構造が壊れてできた開口部。もともと設けられた扉や、単に広く空いている場所ではなく、破られた結果の隙間を表す。",
+      "patterns": [
+        "a breach in 〈壁・堤防〉＝その破れ目",
+        "make a breach in 〈構造物〉＝破れ目を作る",
+        "through a breach＝破れ目を通って",
+        "seal a breach＝破れ目を塞ぐ。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a breach in the wall",
+          "use": "どこに破れ目ができているかを示す。",
+          "example": "The soldiers entered through a breach in the wall.",
+          "translation": "兵士たちは、壁の破れ目から入りました。"
+        },
+        {
+          "pattern": "make a breach in 〈構造物〉",
+          "use": "開口部を作ることを名詞で表す。",
+          "example": "The storm made a breach in the sea wall.",
+          "translation": "嵐によって、防潮壁に破れ目ができました。"
+        },
+        {
+          "pattern": "seal the breach",
+          "use": "破れた場所を塞ぐ。",
+          "example": "Engineers worked through the night to seal the breach in the dam.",
+          "translation": "技術者たちは、ダムの破れ目を塞ぐために夜通し作業しました。"
+        }
+      ],
+      "notes": [
+        "a breach in the wall の in は破れ目の所在を示す。a breach of the rules の of は違反の対象を示すため、前置詞と目的語の組み合わせを区別する。名詞の breach はここでは穴・破れ口という結果、動詞の breach は語義4の破る行為。文学的な once more unto the breach は、もともと戦いの突破口へ再び進む呼びかけで、現代では困難にもう一度挑む表現として引用される。"
+      ],
+      "synonyms": [
+        {
+          "word": "gap",
+          "definition": "連続しているものの間の空きや切れ目。",
+          "frequency": 9,
+          "difference": "壊してできた隙間でなくても使える。breach は構造や防御が破られたという経緯を伴う。",
+          "example": "There was a narrow gap between the fence panels.",
+          "translation": "フェンスの板の間に、狭い隙間がありました。"
+        },
+        {
+          "word": "opening",
+          "definition": "内外をつなぐ穴や開口部。",
+          "frequency": 8,
+          "difference": "設計された窓や入口にも使う中立的な語。breach は破損や突破による開口部を指す。",
+          "example": "Air enters through a small opening near the base.",
+          "translation": "空気は、底部近くの小さな開口部から入ります。"
+        },
+        {
+          "word": "rupture",
+          "definition": "破れて生じた裂け目や破損。",
+          "frequency": 4,
+          "difference": "管・膜・容器などが裂けたことに焦点がある。breach は壁や防御線の通り抜けられる破れ口に使いやすい。",
+          "example": "A rupture in the pipe caused the leak.",
+          "translation": "管の破損が、漏れの原因でした。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【名詞・可算】不和・関係の断絶",
+      "frequency": 4,
+      "register": [
+        "硬い一般文、報道、人物伝、外交。"
+      ],
+      "definition": "それまでの友好関係や結び付きが損なわれ、人や組織、国などの間に隔たりができること。個々の約束違反そのものより、関係が壊れた状態を表す。",
+      "patterns": [
+        "a breach between A and B＝AとBの間の不和",
+        "a breach with someone＝その人との関係の断絶",
+        "heal a breach＝関係の亀裂を修復する",
+        "widen the breach＝不和を深める。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a breach between A and B",
+          "use": "関係の壊れた双方を示す。",
+          "example": "The argument caused a lasting breach between the two friends.",
+          "translation": "その口論は、二人の友人の間に長く残る溝を作りました。"
+        },
+        {
+          "pattern": "a breach with someone",
+          "use": "一方の立場から、相手との断絶を述べる。",
+          "example": "His resignation marked a final breach with the party leadership.",
+          "translation": "彼の辞任は、党指導部との決定的な決別を示していました。"
+        },
+        {
+          "pattern": "heal the breach",
+          "use": "損なわれた関係を修復する。",
+          "example": "Both families made efforts to heal the breach.",
+          "translation": "両家は、関係の亀裂を修復しようと努めました。"
+        },
+        {
+          "pattern": "widen the breach",
+          "use": "すでにある不和が深まることを述べる。",
+          "example": "The public accusation only widened the breach between them.",
+          "translation": "公然と非難したことで、二人の溝は深まるばかりでした。"
+        }
+      ],
+      "notes": [
+        "a breach of trust は信頼を裏切る行為、a breach between friends は友人同士の関係に生じた亀裂。両者は原因と結果としてつながることがあるが、同じものではない。この意味では heal や repair と結び付きやすく、必ずしも永続的・完全な絶交を意味しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "rift",
+          "definition": "人や集団の関係に生じた大きな溝や不和。",
+          "frequency": 6,
+          "difference": "比喩的な隔たりとして、政治や人間関係でよく使う。breach はつながりが破れた点を強調する硬めの語。",
+          "example": "The decision exposed a deep rift within the committee.",
+          "translation": "その決定によって、委員会内の深い溝が表面化しました。"
+        },
+        {
+          "word": "estrangement",
+          "definition": "以前は親しかった人どうしが疎遠になること。",
+          "frequency": 4,
+          "difference": "家族や親しい人の心理的・生活上の距離に焦点がある。breach は政治組織や国家間にも使う。",
+          "example": "They reconciled after years of estrangement.",
+          "translation": "二人は、長年疎遠になっていた後で和解しました。"
+        },
+        {
+          "word": "rupture",
+          "definition": "関係が大きく破綻・断絶すること。",
+          "frequency": 4,
+          "difference": "急激で重大な切断を感じさせやすい。breach は修復可能な不和にも使える。",
+          "example": "The incident led to a rupture in diplomatic relations.",
+          "translation": "その事件は、外交関係の断絶につながりました。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【慣用表現・step into the breach】急に代役を務める・助けに入る",
+      "frequency": 4,
+      "register": [
+        "一般の文章、報道、職場の説明。"
+      ],
+      "definition": "誰かが急に仕事や役目を果たせなくなったとき、代わりに引き受けて必要な穴を埋める。単に場所へ入るのではなく、困った状況で責任を引き受ける意味。",
+      "patterns": [
+        "step into the breach＝急に代役を務める",
+        "step into the breach when 〈節〉＝その事態で代わりに助けに入る。"
+      ],
+      "collocations": [
+        {
+          "pattern": "step into the breach",
+          "use": "急に空いた役割を引き受けたことを述べる。",
+          "example": "Our manager was taken ill, so her deputy stepped into the breach.",
+          "translation": "上司が急病になったため、副責任者が代わりを務めました。"
+        },
+        {
+          "pattern": "step into the breach when 〈節〉",
+          "use": "何がきっかけで助けに入ったのかを示す。",
+          "example": "A retired teacher stepped into the breach when the school could not find a substitute.",
+          "translation": "学校が代用教員を見つけられなかったとき、退職した教師が代役を引き受けました。"
+        }
+      ],
+      "notes": [
+        "the breach と定冠詞を使う固定的な表現。breech ではない。step は stepped、stepping と活用する。ここで breach は動詞ではなく、into の目的語となる名詞である。jump into the breach などの変形もあるが、まず step into the breach を一まとまりで覚える。"
+      ],
+      "synonyms": [
+        {
+          "word": "fill in for",
+          "definition": "一時的に人の代わりを務める。",
+          "frequency": 7,
+          "difference": "予定された休暇などの代役にも使い、緊急の穴を埋める含みは必須でない。for の後ろに代わられる人を置く。",
+          "example": "Could you fill in for me at tomorrow's meeting?",
+          "translation": "明日の会議で、私の代わりを務めてもらえますか。"
+        },
+        {
+          "word": "step in",
+          "definition": "助けたり問題を処理したりするために介入する。",
+          "frequency": 7,
+          "difference": "代役を務める場合に限らず、仲裁や管理のための介入も表す。step into the breach は役割の穴を埋める点が具体的。",
+          "example": "The supervisor stepped in when the discussion became heated.",
+          "translation": "議論が白熱すると、監督者が間に入りました。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【自動詞／可算名詞】水中から跳び上がる・その跳躍",
+      "frequency": 3,
+      "register": [
+        "海洋動物の観察、自然番組、観光の説明。"
+      ],
+      "definition": "クジラなどが水面から勢いよく体を跳ね上げること。動詞はその動作、名詞は一回の跳躍を表す。普通の浮上とは区別される。",
+      "patterns": [
+        "〈クジラなど〉 + breach＝水面から跳び上がる（自動詞）",
+        "a breach＝一回の跳躍（名詞）",
+        "a series of breaches＝続けて行う跳躍（名詞）。"
+      ],
+      "collocations": [
+        {
+          "pattern": "〈クジラなど〉 + breach",
+          "use": "動物の跳躍を自動詞で述べる。",
+          "example": "A humpback whale breached twice near the boat.",
+          "translation": "ザトウクジラが、船の近くで2回、水面から跳び上がりました。"
+        },
+        {
+          "pattern": "a series of breaches",
+          "use": "繰り返された跳躍を名詞でまとめる。",
+          "example": "We watched a series of breaches from the shore.",
+          "translation": "私たちは岸から、繰り返されるクジラの跳躍を眺めました。"
+        }
+      ],
+      "notes": [
+        "この意味の動詞は自動詞で、クジラが主語になる。The whale breached. は「クジラが跳び上がった」で、規則違反ではない。名詞は a breach、two breaches と数える。水面に静かに姿を現す surface と違い、体を大きく水上へ出す跳躍に焦点がある。"
+      ],
+      "synonyms": [
+        {
+          "word": "leap",
+          "definition": "勢いよく跳び上がる、または跳ぶこと。",
+          "frequency": 8,
+          "difference": "陸上の跳躍にも使う一般語。動物についての breach は、水面から体を跳ね上げる動きを特に指す。",
+          "example": "A dolphin leaped out of the water beside the boat.",
+          "translation": "イルカが、船の横で水面から跳び上がりました。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "word": "amendment",
+  "slug": "amendment",
+  "ipa": "米・英: /əˈmend.mənt/。",
+  "lead": "文書や取り決めなどに加える変更。また、その変更を行うこと。",
+  "updated": "2026-10-14",
+  "notion_url": "https://app.notion.com/p/amendment-3f94faa9b77d81fc8a5dd3bcd8533b0a",
+  "pronunciation": [
+    "3音節で、第2音節に主強勢。第1音節と第3音節の母音はともに弱母音 /ə/。複数形 amendments の語尾は /s/。amend の強勢位置を保つ。"
+  ],
+  "etymology": [
+    "古フランス語 amendement「修正・改善」に由来する。amend の系統はラテン語 emendare「欠点を取り除く、正す」にさかのぼり、ex-「外へ」と menda「欠点」に関係する。現代では「よりよくする」という評価を常に保証せず、文書などへの変更そのものを表せる。",
+    "同系語には mend「修理する」と emend「本文の誤りを校訂する」がある。emend は学術的な校訂に用いる専門寄りの語。"
+  ],
+  "formation": [
+    {
+      "term": "amend",
+      "description": "文書・規定などを修正する他動詞。amend a contract のように修正対象を直接置く。"
+    },
+    {
+      "term": "amended",
+      "description": "修正された。an amended version「修正版」。"
+    },
+    {
+      "term": "amends",
+      "description": "make amends「償いをする」の複数形名詞。amendment の複数形ではなく、amendments と区別する。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "既存のものを改めるために加える変更・追加。文書では修正内容や修正行為、土壌では性質を変えるために加える材料を指す。変更が実際によい結果を生むかは、この語だけでは決まらない。"
+    },
+    {
+      "type": "item",
+      "text": "文書へ加える修正・変更 → 「修正、修正事項」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "法や法案へ加える修正・変更 → 「法律・法案などの修正、修正案」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "米国憲法へ加える修正・変更 → 「米国憲法の修正条項」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "土壌へ加える改良のための材料 → 「土壌改良材」（語義4）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算／不可算】修正、修正事項",
+      "frequency": 7,
+      "register": [
+        "フォーマル、ビジネス、編集。"
+      ],
+      "definition": "文書や取り決めなどに加える変更。また、その変更を行うこと。",
+      "patterns": [
+        "an amendment to 〈文書・契約〉",
+        "make amendments to something",
+        "without amendment",
+        "subject to amendment",
+        "a minor amendment。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an amendment to a contract",
+          "use": "契約に加える修正。",
+          "example": "The supplier requested an amendment to the contract.",
+          "translation": "納入業者は契約の修正を求めた。"
+        },
+        {
+          "pattern": "make amendments to something",
+          "use": "複数箇所の修正を加えること。",
+          "example": "We made several amendments to the draft.",
+          "translation": "私たちは草案に数か所の修正を加えた。"
+        },
+        {
+          "pattern": "without amendment",
+          "use": "修正を加えずに扱うこと。",
+          "example": "The committee approved the minutes without amendment.",
+          "translation": "委員会は議事録を修正なしで承認した。"
+        },
+        {
+          "pattern": "subject to amendment",
+          "use": "今後修正される可能性があること。",
+          "example": "The timetable remains subject to amendment.",
+          "translation": "その予定表は今後変更される可能性がある。"
+        },
+        {
+          "pattern": "a minor amendment",
+          "use": "小規模な修正。",
+          "example": "A minor amendment clarified the delivery address.",
+          "translation": "小さな修正によって納品先の住所が明確になった。"
+        }
+      ],
+      "notes": [
+        "個々の変更は a few amendments と可算、修正という作業・必要性は need amendment のように不可算。修正対象には to を使うのが基本で、amendment of the text は文章を修正する行為にも使う。誤字訂正だけでなく条件の追加・削除・変更も表せる。amendment という語だけでは、当事者が変更を承認したか、効力が生じたかは分からない。改善を意図する変更でも、実際に良くなったとは限らない。"
+      ],
+      "synonyms": [
+        {
+          "word": "revision",
+          "definition": "文書・計画などの見直し、改訂。",
+          "frequency": 8,
+          "difference": "amendment が個別の変更箇所を指しやすいのに対し、revision は全体を見直した版にも使う。",
+          "example": "The manual needs a thorough revision.",
+          "translation": "そのマニュアルは全面的な改訂が必要だ。"
+        },
+        {
+          "word": "modification",
+          "definition": "目的に合わせて加える変更。",
+          "frequency": 7,
+          "difference": "文言に限らず機器や方法にも使う。原形を大きく変えない調整に使われやすい。",
+          "example": "The design requires a few modifications.",
+          "translation": "その設計にはいくつか変更が必要だ。"
+        },
+        {
+          "word": "correction",
+          "definition": "誤りを正すこと、訂正。",
+          "frequency": 8,
+          "difference": "誤りがあることを前提としやすい。amendment は条件変更など、誤りの修正でない変更も含む。",
+          "example": "The editor made a correction to the date.",
+          "translation": "編集者は日付を訂正した。"
+        },
+        {
+          "word": "addendum",
+          "definition": "文書の後に追加する補遺・追補。",
+          "frequency": 4,
+          "difference": "追加部分や付属文書に焦点があり、元の文言を削除・置換する amendment と範囲が違う。",
+          "example": "The report includes an addendum on methodology.",
+          "translation": "報告書には方法論に関する補遺が付いている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算／不可算】法律・法案などの修正、修正案",
+      "frequency": 7,
+      "register": [
+        "政治、立法、法律。"
+      ],
+      "definition": "法律・法案・決議案・憲法などの内容を変えること、または提案・採用された具体的な変更。",
+      "patterns": [
+        "an amendment to a bill",
+        "a proposed amendment",
+        "propose an amendment",
+        "adopt an amendment",
+        "reject an amendment",
+        "a constitutional amendment。個別の案は可算。改正という過程は不可算でも使う。"
+      ],
+      "collocations": [
+        {
+          "pattern": "propose an amendment to a bill",
+          "use": "法案の変更を提案すること。",
+          "example": "A senator proposed an amendment to the bill.",
+          "translation": "ある上院議員が法案の修正案を提出した。"
+        },
+        {
+          "pattern": "adopt an amendment",
+          "use": "修正案を採用すること。",
+          "example": "The committee adopted an amendment protecting smaller suppliers.",
+          "translation": "委員会は小規模な納入業者を保護する修正案を採択した。"
+        },
+        {
+          "pattern": "reject an amendment",
+          "use": "修正案を退けること。",
+          "example": "The assembly rejected the amendment after a lengthy debate.",
+          "translation": "議会は長い審議の末、その修正案を否決した。"
+        },
+        {
+          "pattern": "an amendment to 〈法律名〉",
+          "use": "既存の法律への変更。",
+          "example": "The amendment to the Act changed the reporting deadline.",
+          "translation": "その法律の改正により、報告期限が変更された。"
+        },
+        {
+          "pattern": "a constitutional amendment",
+          "use": "憲法の改正・修正。",
+          "example": "The proposal would require a constitutional amendment.",
+          "translation": "その提案の実現には憲法改正が必要となる。"
+        }
+      ],
+      "notes": [
+        "propose・introduce は提出、adopt・pass は採用・可決、reject は否決。amendment は成立前の案にも成立後の変更にも使うので、常に「施行済みの改正」と訳さない。英国議会の table an amendment は「修正案を正式に提出する」。table の米英差があるため、議会文脈を見ずに同じ訳に固定しない。法案への修正の採用と、法律全体の成立・施行は別の段階。米国憲法の番号付き修正条項は語義3を参照。"
+      ],
+      "synonyms": [
+        {
+          "word": "revision",
+          "definition": "法令・制度などの改訂。",
+          "frequency": 7,
+          "difference": "広い見直しにも使い、議会で採決する個々の amendment を必ずしも指さない。",
+          "example": "The government announced a revision of the regulations.",
+          "translation": "政府は規則の改訂を発表した。"
+        },
+        {
+          "word": "change",
+          "definition": "変更。",
+          "frequency": 10,
+          "difference": "制度上の段階や修正案としての形を限定しない一般語。",
+          "example": "The change will affect future applications.",
+          "translation": "その変更は今後の申請に影響する。"
+        },
+        {
+          "word": "alteration",
+          "definition": "内容の変更、改変。",
+          "frequency": 6,
+          "difference": "何らかの内容が変わることに重点を置き、正式な修正案を意味するとは限らない。",
+          "example": "The alteration to the wording raised new questions.",
+          "translation": "文言の変更により新たな疑問が生じた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算】米国憲法の修正条項",
+      "frequency": 6,
+      "register": [
+        "米国の政治、法律、歴史。"
+      ],
+      "definition": "米国憲法に追加され、憲法の一部となった修正条項。番号や固有の名称とともに Amendment と大文字で書くことが多い。",
+      "patterns": [
+        "the First Amendment",
+        "the 〈序数〉 Amendment",
+        "an amendment to the U.S. Constitution",
+        "under the 〈序数〉 Amendment。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the First Amendment",
+          "use": "固有の番号付き修正条項。",
+          "example": "The lecture focused on the First Amendment.",
+          "translation": "講義は米国憲法修正第1条を中心に扱った。"
+        },
+        {
+          "pattern": "under the 〈序数〉 Amendment",
+          "use": "修正条項を根拠として述べること。",
+          "example": "The article discusses protections under the Fourth Amendment.",
+          "translation": "その論文は修正第4条による保護について論じている。"
+        },
+        {
+          "pattern": "ratify an amendment",
+          "use": "提案された憲法修正を批准すること。",
+          "example": "The class studied how the states ratified the amendment.",
+          "translation": "授業では、各州がその憲法修正をどのように批准したかを学んだ。"
+        }
+      ],
+      "notes": [
+        "the First Amendment のような番号付き名称と、a proposed amendment「提案中の修正案」を区別する。米国憲法修正は提案と批准が別段階であり、提案されたものがすべて憲法の一部になるわけではない。大文字であることだけで成立済みと断定せず、名称と文脈を見る。the Fifth Amendment と、自己に不利な供述を拒む take the Fifth という慣用表現の関係もあるが、Fifth Amendment の内容全体をこの慣用表現だけで説明しない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・可算／不可算】土壌改良材",
+      "frequency": 4,
+      "register": [
+        "園芸、農業、土壌学。"
+      ],
+      "definition": "土壌の性質や植物の生育環境を改善するために加える材料。soil amendment の形が典型。",
+      "patterns": [
+        "a soil amendment",
+        "soil amendments",
+        "an organic amendment",
+        "use something as a soil amendment",
+        "add an amendment to the soil。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a soil amendment",
+          "use": "土壌改良に使う材料。",
+          "example": "The label describes the product as a soil amendment.",
+          "translation": "ラベルには、その製品が土壌改良材だと記載されている。"
+        },
+        {
+          "pattern": "use something as a soil amendment",
+          "use": "材料の用途を示すこと。",
+          "example": "The gardeners use compost as a soil amendment.",
+          "translation": "園芸担当者は堆肥を土壌改良材として使っている。"
+        },
+        {
+          "pattern": "an organic amendment",
+          "use": "有機物由来の改良材。",
+          "example": "The trial compared two organic amendments.",
+          "translation": "その試験では2種類の有機質土壌改良材を比較した。"
+        }
+      ],
+      "notes": [
+        "文書の「修正案」とは異なり、ここでは物質を指す。soil amendment は fertilizer「肥料」と重なる場合があるが、栄養分の供給だけを目的とする語ではなく、保水性や土の構造などの改善も含む。organic は有機物由来という意味で、語だけから有機認証を保証しない。使用材料や量の適否は土壌条件による。"
+      ],
+      "synonyms": [
+        {
+          "word": "soil conditioner",
+          "definition": "土壌の状態を改善する資材。",
+          "frequency": 4,
+          "difference": "soil amendment と近いが、物理的な土の状態の改善を強調しやすい。",
+          "example": "The product is sold as a soil conditioner.",
+          "translation": "その製品は土壌改良資材として販売されている。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

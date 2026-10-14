@@ -1,0 +1,192 @@
+{
+  "word": "clause",
+  "slug": "clause",
+  "ipa": "米: /klɑːz/｜英: /klɔːz/。",
+  "lead": "契約書・規則・法案などの文書で、一つの事項を定めた区分。",
+  "updated": "2026-10-14",
+  "notion_url": "https://app.notion.com/p/clause-3f94faa9b77d81b0b4a4d127213f5602",
+  "pronunciation": [
+    "1音節。上記の代表発音では、米英差は第1音節の母音 /ɑː/ と /ɔː/。米音にも /klɔːz/ がある。語末は無声音 /s/ ではなく有声音 /z/。複数形 clauses は /ˈklɑː.zɪz/ または /ˈklɔː.zɪz/ で2音節になる。"
+  ],
+  "etymology": [
+    "古フランス語 clause を経て、中世ラテン語 clausa にさかのぼる。ラテン語 claudere「閉じる」と関係し、文章の区切りや結びという歴史的背景を持つ。現代の「条項」と「文法上の節」は、それぞれの分野で定まった単位として覚える。",
+    "同じ claudere 系には close「閉じる」と include「中に含める」がある。clause と、理由・原因を表す cause は別の語である。"
+  ],
+  "formation": [
+    {
+      "term": "clausal",
+      "description": "節に関する。clausal complement「節による補部」などの文法専門語。"
+    },
+    {
+      "term": "subclause",
+      "description": "条項の下位区分。また、文法の文脈では別の節に埋め込まれた節を表すこともある。"
+    }
+  ],
+  "core": [],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算】条項",
+      "frequency": 7,
+      "register": [
+        "契約、法律、ビジネス文書。"
+      ],
+      "definition": "契約書・規則・法案などの文書で、一つの事項を定めた区分。",
+      "patterns": [
+        "a clause in a contract",
+        "a clause of an agreement",
+        "a clause on 〈事項〉",
+        "a clause stating that ...",
+        "under clause 〈番号〉",
+        "insert a clause into a contract。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a clause in a contract",
+          "use": "条項を含む文書を示すこと。",
+          "example": "There is a confidentiality clause in the contract.",
+          "translation": "契約には秘密保持条項がある。"
+        },
+        {
+          "pattern": "a clause stating that ...",
+          "use": "条項の内容を説明すること。",
+          "example": "We added a clause stating that payment is due within thirty days.",
+          "translation": "支払期限を30日以内とする条項を追加した。"
+        },
+        {
+          "pattern": "under clause 〈番号〉",
+          "use": "特定条項を根拠として示すこと。",
+          "example": "Under clause 6, either party may request a review.",
+          "translation": "第6条により、いずれの当事者も見直しを求められる。"
+        },
+        {
+          "pattern": "insert a clause into a contract",
+          "use": "文書へ条項を追加すること。",
+          "example": "The lawyer inserted a cancellation clause into the contract.",
+          "translation": "弁護士は契約書に解約条項を挿入した。"
+        },
+        {
+          "pattern": "a clause on 〈事項〉",
+          "use": "条項の主題。",
+          "example": "Please check the clause on ownership of the design.",
+          "translation": "デザインの所有権に関する条項を確認してください。"
+        },
+        {
+          "pattern": "an escape clause",
+          "use": "条件次第で契約などから離脱できる条項。",
+          "example": "The agreement includes an escape clause for either party.",
+          "translation": "その契約には、いずれの当事者も利用できる離脱条項がある。"
+        }
+      ],
+      "notes": [
+        "in は条項が文書内にあること、of は文書の一部であることに焦点を置く。clause that allows ... の that は関係節を導き、条項そのものが何を認めるかを説明する。a clause stating that ... は stating の後に内容の節を置く。条項は一文とは限らず、番号の付け方や clause・section・article の対応も文書によって違う。penalty clause「違約金条項」、termination clause「終了・解除条項」などの名称だけで有効性や法的効果を断定しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "provision",
+          "definition": "法律・契約などが定める規定。",
+          "frequency": 7,
+          "difference": "条項という区切りより、定められた内容・ルールを指す。一つの clause に複数の provisions が含まれることもある。",
+          "example": "The agreement contains provisions for data protection.",
+          "translation": "その契約にはデータ保護に関する規定がある。"
+        },
+        {
+          "word": "term",
+          "definition": "契約を構成する条件・定め。",
+          "frequency": 8,
+          "difference": "合意内容に焦点があり、必ずしも独立した番号付き条項とは限らない。複数形 terms も多い。",
+          "example": "We discussed the payment terms.",
+          "translation": "私たちは支払条件を話し合った。"
+        },
+        {
+          "word": "condition",
+          "definition": "満たす必要がある条件。",
+          "frequency": 9,
+          "difference": "何が成立・実行の条件となるかを示す。clause の内容には条件以外の定義や説明もある。",
+          "example": "One condition is that all invoices be submitted electronically.",
+          "translation": "条件の一つは、すべての請求書を電子的に提出することだ。"
+        },
+        {
+          "word": "article",
+          "definition": "法令・条約などの番号付きの条。",
+          "frequency": 6,
+          "difference": "文書の正式な構造単位に使う。clause と一対一に対応するかは当該文書次第。",
+          "example": "Article 3 defines the parties’ responsibilities.",
+          "translation": "第3条は当事者の責任を定めている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算】文法上の節",
+      "frequency": 6,
+      "register": [
+        "文法、言語学、英語学習。"
+      ],
+      "definition": "述語を中心に成り立つ文法単位。典型的には主語と動詞句を含み、一つの文を作ったり、文の一部として働いたりする。",
+      "patterns": [
+        "a main clause",
+        "an independent clause",
+        "a subordinate clause",
+        "a dependent clause",
+        "a relative clause",
+        "a conditional clause",
+        "a finite clause",
+        "a non-finite clause",
+        "a clause beginning with 〈語〉。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a main clause",
+          "use": "文の中心となる主節。",
+          "example": "In “I stayed home because it rained,” “I stayed home” is the main clause.",
+          "translation": "I stayed home because it rained では、I stayed home が主節である。"
+        },
+        {
+          "pattern": "a subordinate clause",
+          "use": "ほかの節に従属する節。",
+          "example": "The subordinate clause explains why the meeting was postponed.",
+          "translation": "その従属節は会議が延期された理由を説明している。"
+        },
+        {
+          "pattern": "a relative clause",
+          "use": "名詞などを説明する関係節。",
+          "example": "The relative clause “who called yesterday” identifies the customer.",
+          "translation": "who called yesterday という関係節は、どの顧客かを特定している。"
+        },
+        {
+          "pattern": "a conditional clause",
+          "use": "条件を示す節。",
+          "example": "The conditional clause begins with “unless.”",
+          "translation": "その条件節は unless で始まっている。"
+        },
+        {
+          "pattern": "a finite clause",
+          "use": "定形動詞を含む節。",
+          "example": "“She works remotely” is a finite clause.",
+          "translation": "She works remotely は定形節である。"
+        },
+        {
+          "pattern": "a non-finite clause",
+          "use": "不定詞・分詞などを中心とする非定形節。",
+          "example": "In “I left after checking the locks,” “checking the locks” is a non-finite clause.",
+          "translation": "I left after checking the locks では、checking the locks が非定形節である。"
+        },
+        {
+          "pattern": "a clause beginning with 〈語〉",
+          "use": "節の開始位置を説明すること。",
+          "example": "Underline the clause beginning with “although.”",
+          "translation": "although で始まる節に下線を引いてください。"
+        }
+      ],
+      "notes": [
+        "「節には必ず明示された主語と時制のある動詞がそろう」と限定しない。命令節では主語を示さないことが多く、非定形節にも明示主語がないものが多い。省略された要素を含む節もある。main/independent と subordinate/dependent は節の独立性、finite/non-finite は動詞形に関する分類なので別の観点。学校文法で「不定詞句」「分詞句」と呼ぶものの一部を、現代の文法記述では non-finite clause と分析する。phrase「句」や sentence「文」は関連する別単位であり、clause の同義語・反意語ではない。",
+        "文書の clause「条項」は記載された規定の区切り、文法の clause「節」は統語的な単位である。同じ文書の一条項の中に複数の文法上の節が現れることもある。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}

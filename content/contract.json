@@ -1,0 +1,1086 @@
+{
+  "word": "contract",
+  "slug": "contract",
+  "ipa": "名詞・限定形容詞: 米 /ˈkɑːn.trækt/｜英 /ˈkɒn.trækt/。動詞: 米・英 /kənˈtrækt/。",
+  "lead": "当事者間で権利や義務を定める契約。また、その取り決めを記載した文書。受注した仕事の契約を指す場合もある。",
+  "updated": "2026-10-14",
+  "notion_url": "https://app.notion.com/p/contract-3f94faa9b77d817783f7e4adb016eeda",
+  "pronunciation": [
+    "いずれも2音節。上記の代表発音では名詞・限定形容詞は第1音節、動詞は第2音節に主強勢を置く。名詞・限定形容詞の米英差は第1音節の母音 /ɑː/ と /ɒ/。第2音節 /trækt/ は共通。動詞の第1音節は弱母音 /ə/。契約する意味の動詞には名詞と同じ第1音節に強勢を置く発音もある。contracts の語尾は /s/、contracted の -ed は /ɪd/。"
+  ],
+  "etymology": [
+    "古フランス語とラテン語の contractus にさかのぼる。基礎のラテン語 contrahere は con-「一緒に」と trahere「引く」からなり、「引き寄せる・縮める」と「合意する」に用いられた。現在の契約・収縮・病気にかかる用法を、一つの現代的イメージだけで機械的に推測するのは避ける。",
+    "同じ trahere 系に attract「引きつける」と extract「抜き出す」がある。contract の con- を否定の接頭辞と解釈しない。"
+  ],
+  "formation": [
+    {
+      "term": "contractor",
+      "description": "契約を請け負う人・会社。建設以外の業務にも使う。"
+    },
+    {
+      "term": "contractual",
+      "description": "契約上の、契約に関する。contractual obligation「契約上の義務」。"
+    },
+    {
+      "term": "contraction",
+      "description": "収縮・縮小、語句の縮約、子宮の収縮。通常「契約」の意味ではない。"
+    },
+    {
+      "term": "subcontract",
+      "description": "下請契約、または下請けに出すこと。"
+    },
+    {
+      "term": "contracting",
+      "description": "動詞の -ing 形。名詞として請負業務・契約活動も表す。"
+    }
+  ],
+  "core": [],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算】契約、契約書",
+      "frequency": 9,
+      "register": [
+        "一般、ビジネス、法律。"
+      ],
+      "definition": "当事者間で権利や義務を定める契約。また、その取り決めを記載した文書。受注した仕事の契約を指す場合もある。",
+      "patterns": [
+        "a contract with someone",
+        "a contract between A and B",
+        "a contract for 〈業務・品物〉",
+        "a contract to do",
+        "a contract of employment",
+        "subject to contract",
+        "under contract to someone",
+        "under contract to do",
+        "under the terms of a contract。"
+      ],
+      "collocations": [
+        {
+          "pattern": "enter into a contract with someone",
+          "use": "相手と契約を結ぶこと。",
+          "example": "We entered into a contract with a local supplier.",
+          "translation": "私たちは地元の納入業者と契約を結んだ。"
+        },
+        {
+          "pattern": "draw up a contract",
+          "use": "契約書を作成すること。",
+          "example": "The legal team is drawing up the contract.",
+          "translation": "法務チームが契約書を作成している。"
+        },
+        {
+          "pattern": "win a contract to do",
+          "use": "仕事の受注。",
+          "example": "The firm won a contract to renovate the station.",
+          "translation": "その会社は駅の改修工事を受注した。"
+        },
+        {
+          "pattern": "a contract for 〈業務・品物〉",
+          "use": "契約の対象。",
+          "example": "The contract for equipment maintenance expires in June.",
+          "translation": "設備保守の契約は6月に満了する。"
+        },
+        {
+          "pattern": "be under contract to someone",
+          "use": "特定の相手との契約下にあること。",
+          "example": "The designer is under contract to another publisher.",
+          "translation": "そのデザイナーは別の出版社と契約している。"
+        },
+        {
+          "pattern": "be under contract to do",
+          "use": "契約上の履行内容。",
+          "example": "We are under contract to deliver the first shipment by Friday.",
+          "translation": "私たちは金曜日までに初回出荷分を納品する契約になっている。"
+        },
+        {
+          "pattern": "under the terms of a contract",
+          "use": "契約条項を根拠に述べること。",
+          "example": "Under the terms of the contract, travel expenses are reimbursed.",
+          "translation": "契約の条項に基づき、旅費は払い戻される。"
+        },
+        {
+          "pattern": "breach a contract",
+          "use": "契約に違反すること。",
+          "example": "The supplier breached the contract by disclosing confidential data.",
+          "translation": "納入業者は機密データを開示して契約に違反した。"
+        },
+        {
+          "pattern": "subject to contract",
+          "use": "正式な契約締結を条件とすること。",
+          "example": "The buyer’s offer was accepted subject to contract.",
+          "translation": "買主の申し出は、正式な契約締結を条件として受け入れられた。"
+        }
+      ],
+      "notes": [
+        "subject to contract は特に英国の取引・不動産で使い、「契約下にある」under contract と区別する。正式な契約締結を前提とする段階を示し、合意の法的効果は法域・文脈による。契約自体と契約書は文脈で分ける。口頭の契約にも contract を使えるため、書面や署名を語の必須条件にはしない。個別の成立要件や効力は法域・契約による。under contract は通常無冠詞だが、under a contract は「ある特定の契約に基づいて」。米国の不動産広告で a property is under contract は買主との売買契約が成立した段階をいい、取引完了を保証しない。employment contract と contract worker の雇用上の身分も同一とは限らない。"
+      ],
+      "synonyms": [
+        {
+          "word": "agreement",
+          "definition": "当事者同士の合意、取り決め。",
+          "frequency": 9,
+          "difference": "contract より広く、日常の合意や意見の一致にも使う。agreement という名称の文書にも法的拘束力があり得る。",
+          "example": "We reached an agreement on the delivery schedule.",
+          "translation": "私たちは納品日程について合意した。"
+        },
+        {
+          "word": "deal",
+          "definition": "取引の取り決め。",
+          "frequency": 9,
+          "difference": "条件交渉や取引成立に焦点があり、contract より会話的。文書そのものを読む意味には向かない。",
+          "example": "They made a deal to share the office.",
+          "translation": "彼らはオフィスを共用する取り決めをした。"
+        },
+        {
+          "word": "lease",
+          "definition": "建物・土地・設備などを一定条件で貸し借りする契約。",
+          "frequency": 7,
+          "difference": "賃貸借という契約の種類を限定する。あらゆる contract の代わりにはならない。",
+          "example": "The lease allows the tenant to use the parking space.",
+          "translation": "その賃貸借契約では、借主が駐車スペースを利用できる。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【動詞・自動詞】契約する、契約で引き受ける",
+      "frequency": 6,
+      "register": [
+        "フォーマル、ビジネス。"
+      ],
+      "definition": "仕事・供給などについて、相手と正式な取り決めをする。",
+      "patterns": [
+        "contract with someone",
+        "contract with someone to do",
+        "contract to do",
+        "contract for 〈商品・業務〉。with の後は契約相手、for の後は調達・契約の対象。to不定詞は契約した行為。"
+      ],
+      "collocations": [
+        {
+          "pattern": "contract with someone to do",
+          "use": "相手と、ある仕事を行う契約を結ぶこと。",
+          "example": "The museum contracted with a specialist to restore the paintings.",
+          "translation": "美術館は絵画修復のため専門家と契約した。"
+        },
+        {
+          "pattern": "contract to do",
+          "use": "主語が仕事を引き受ける契約。",
+          "example": "The builder contracted to finish the extension by September.",
+          "translation": "建設業者は9月までに増築を終える契約を結んだ。"
+        },
+        {
+          "pattern": "contract for 〈業務〉",
+          "use": "必要な業務の提供を受ける契約。",
+          "example": "The hotel contracted for overnight security.",
+          "translation": "ホテルは夜間警備の提供を受ける契約を結んだ。"
+        },
+        {
+          "pattern": "contract with 〈会社〉",
+          "use": "契約相手を示すこと。",
+          "example": "We can contract directly with the manufacturer.",
+          "translation": "製造業者と直接契約できる。"
+        }
+      ],
+      "notes": [
+        "contract to do は単なる意向ではなく契約上の取り決め。contract with someone to do は、誰が実際に行うかが文脈に依存するため、受注側・発注側を明確にする。語義3の contract someone to do は相手を直接目的語に置いて仕事を依頼する。他動詞語義3の be contracted to do を、この自動詞の受動形とは説明しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "agree",
+          "definition": "何かを行うことに同意する。",
+          "frequency": 10,
+          "difference": "agree to do は日常的な同意にも使え、正式な契約の存在を必ずしも含まない。",
+          "example": "She agreed to check the figures.",
+          "translation": "彼女は数値を確認することに同意した。"
+        },
+        {
+          "word": "undertake",
+          "definition": "仕事や責任を引き受ける。",
+          "frequency": 7,
+          "difference": "undertake to do は実行を約束する硬い表現だが、相手との契約書を前提としない。",
+          "example": "The company undertook to repair the damage.",
+          "translation": "会社は損傷を修理することを約束した。"
+        },
+        {
+          "word": "commit",
+          "definition": "自分や組織を一定の行動に拘束する。",
+          "frequency": 8,
+          "difference": "commit to doing は行動方針への確約に重点があり、contract to do と後続形も違う。",
+          "example": "They committed to providing weekly updates.",
+          "translation": "彼らは毎週進捗を報告すると約束した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞・他動詞】契約して仕事を依頼・発注する",
+      "frequency": 6,
+      "register": [
+        "ビジネス、フォーマル。"
+      ],
+      "definition": "人や会社の起用、または業務・サービスの発注を契約によって手配し、仕事をしてもらう。",
+      "patterns": [
+        "contract someone to do",
+        "contract a company to do",
+        "someone + be contracted to do",
+        "be contracted by someone to do",
+        "contract 〈業務・サービス〉。人・会社を直接目的語にすると依頼先、業務を直接目的語にすると発注する内容。受動態も使う。"
+      ],
+      "collocations": [
+        {
+          "pattern": "contract a company to do",
+          "use": "会社へ契約で仕事を依頼すること。",
+          "example": "We contracted a local company to install the alarms.",
+          "translation": "私たちは警報装置の設置を地元の会社に依頼した。"
+        },
+        {
+          "pattern": "contract someone to do",
+          "use": "専門家を契約で起用すること。",
+          "example": "The publisher contracted an illustrator to design the cover.",
+          "translation": "出版社は表紙デザインのためイラストレーターと契約した。"
+        },
+        {
+          "pattern": "be contracted to do",
+          "use": "依頼を受けた側から述べること。",
+          "example": "The engineers were contracted to inspect the bridge.",
+          "translation": "技術者たちは橋の点検を請け負った。"
+        },
+        {
+          "pattern": "be contracted by someone",
+          "use": "依頼元を示すこと。",
+          "example": "Our team was contracted by the city to survey the site.",
+          "translation": "私たちのチームは市から現地調査を請け負った。"
+        },
+        {
+          "pattern": "contract 〈業務〉",
+          "use": "仕事自体を直接目的語にした発注。",
+          "example": "The publisher contracted the cover illustrations for the new edition.",
+          "translation": "出版社は新版の表紙イラストの制作を契約で発注した。"
+        }
+      ],
+      "notes": [
+        "contract 〈業務〉は out を伴わず発注を表すこともあるが、発注側か受注側かを主語と文脈から判断する。受注側の用法は語義4を参照。contract 〈業務〉 out は外部への委託を明示する語義9。contracted はここでは過去分詞で、be contracted to do は契約による依頼・義務を表す。語義2の We contracted to inspect は「自分たちが契約して点検を引き受けた」、We contracted them to inspect は「彼らに点検を依頼した」。contracted workers などの限定用法も契約された状態を表し、独立した評価的意味はない。"
+      ],
+      "synonyms": [
+        {
+          "word": "hire",
+          "definition": "人・会社に有償で仕事を依頼する。",
+          "frequency": 9,
+          "difference": "日常的で広く使い、contract ほど契約条件を前面に出さない。",
+          "example": "They hired a consultant to review the plan.",
+          "translation": "彼らは計画を検討してもらうためコンサルタントを雇った。"
+        },
+        {
+          "word": "engage",
+          "definition": "人のサービスを正式に取り付ける。",
+          "frequency": 6,
+          "difference": "専門家の起用を表す硬い語。契約方式自体よりサービスの確保に重点がある。",
+          "example": "The firm engaged an independent auditor.",
+          "translation": "会社は独立した監査人を起用した。"
+        },
+        {
+          "word": "commission",
+          "definition": "作品・調査・仕事の制作や実施を正式に依頼する。",
+          "frequency": 7,
+          "difference": "特定の成果物を作ってもらう意味が強い。",
+          "example": "The council commissioned a study of traffic patterns.",
+          "translation": "自治体は交通動向の調査を委託した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞・他動詞】仕事を契約で引き受ける",
+      "frequency": 4,
+      "register": [
+        "フォーマル。請負業務など。"
+      ],
+      "definition": "仕事自体を目的語に置き、その仕事を行うことを契約で引き受ける。",
+      "patterns": [
+        "contract a job",
+        "contract 〈仕事〉 at 〈金額〉。主語は仕事を引き受ける側、直接目的語は引き受ける仕事。受動態も可能。"
+      ],
+      "collocations": [
+        {
+          "pattern": "contract a job",
+          "use": "仕事を引き受ける側が主語になる用法。",
+          "example": "The builder contracted the job at a price that barely covered the costs.",
+          "translation": "その建設業者は、費用をかろうじて賄える価格でその仕事を請け負った。"
+        }
+      ],
+      "notes": [
+        "語義3の発注側の contract 〈業務〉と表面形が似ているため、誰が仕事をするのかを文脈で確認する。明確に言い分けるなら、受注側は contract to do「行う契約をする」や undertake a job「仕事を引き受ける」、発注側は contract someone to do「人に依頼する」や contract work out「外注する」とできる。"
+      ],
+      "synonyms": [
+        {
+          "word": "undertake",
+          "definition": "仕事・責務を引き受ける。",
+          "frequency": 7,
+          "difference": "実行責任を引き受けることを表し、必ずしも有償契約を必要としない。",
+          "example": "The firm undertook the restoration work.",
+          "translation": "その会社は修復作業を引き受けた。"
+        },
+        {
+          "word": "take on",
+          "definition": "仕事や責任を引き受ける。",
+          "frequency": 8,
+          "difference": "contract より日常的で、契約方式より仕事を担うことに焦点がある。",
+          "example": "The team took on another project.",
+          "translation": "チームは別のプロジェクトも引き受けた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【動詞・自動詞】収縮する、縮小する",
+      "frequency": 7,
+      "register": [
+        "一般、科学、経済。"
+      ],
+      "definition": "物の長さ・体積・幅など、または経済・市場の規模が小さくなる。",
+      "patterns": [
+        "something + contract",
+        "contract by 〈減少量・率〉",
+        "contract to 〈縮小後の値〉",
+        "contract in size。主語が縮むもの。自動詞用法に受動態はない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "contract as something cools",
+          "use": "冷却に伴う収縮。",
+          "example": "The metal ring contracted as it cooled.",
+          "translation": "金属の輪は冷えるにつれて収縮した。"
+        },
+        {
+          "pattern": "muscles + contract",
+          "use": "筋肉自身の収縮。",
+          "example": "The muscles contract when they receive a nerve signal.",
+          "translation": "筋肉は神経信号を受けると収縮する。"
+        },
+        {
+          "pattern": "the economy + contract",
+          "use": "経済規模の縮小。",
+          "example": "The economy contracted for a second consecutive quarter.",
+          "translation": "経済は2四半期連続で縮小した。"
+        },
+        {
+          "pattern": "contract by 〈率〉",
+          "use": "減少幅を示すこと。",
+          "example": "The market contracted by five percent last year.",
+          "translation": "昨年、その市場は5パーセント縮小した。"
+        },
+        {
+          "pattern": "contract to 〈値〉",
+          "use": "縮小後の規模を示すこと。",
+          "example": "The workforce contracted to fewer than fifty people.",
+          "translation": "従業員数は50人未満まで減った。"
+        }
+      ],
+      "notes": [
+        "by は減少幅、to は到達値。The muscle contracts では筋肉が主語、語義6の Contract the muscle では動作主が筋肉を収縮させる。contract oneself を足す必要はない。a contracting economy の contracting は進行する縮小を表す分詞修飾。"
+      ],
+      "synonyms": [
+        {
+          "word": "shrink",
+          "definition": "大きさや量が小さくなる。",
+          "frequency": 8,
+          "difference": "衣服の縮みから市場規模まで広く、contract より日常的。",
+          "example": "The sweater shrank in the wash.",
+          "translation": "セーターが洗濯で縮んだ。"
+        },
+        {
+          "word": "decrease",
+          "definition": "量・数・程度が減少する。",
+          "frequency": 9,
+          "difference": "物理的に内部へ縮むことを含まず、数値一般に使える。",
+          "example": "Demand decreased during the winter.",
+          "translation": "冬の間、需要が減少した。"
+        },
+        {
+          "word": "constrict",
+          "definition": "通路や血管などが狭くなる。",
+          "frequency": 5,
+          "difference": "幅や通り道の狭まりに限定しやすく、経済全体の縮小には通常使わない。",
+          "example": "The blood vessels constrict in response to cold.",
+          "translation": "寒さに反応して血管が収縮する。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "expand",
+          "definition": "体積・規模が大きくなる。",
+          "frequency": 9,
+          "difference": "同じ大きさ・規模の軸で逆方向の変化を表す。",
+          "example": "The gas expands when heated.",
+          "translation": "その気体は加熱すると膨張する。"
+        },
+        {
+          "word": "grow",
+          "definition": "大きさ・規模が増す。",
+          "frequency": 10,
+          "difference": "規模の増減という方向上の反対。自然な成長や発展の含みを持つことがある。",
+          "example": "The market grew steadily.",
+          "translation": "市場は着実に拡大した。"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "【動詞・他動詞】収縮させる、縮める",
+      "frequency": 6,
+      "register": [
+        "身体運動、科学。抽象的な範囲にも使う。"
+      ],
+      "definition": "筋肉などを縮ませたり、物の大きさ・幅・範囲を小さくしたりする。",
+      "patterns": [
+        "contract 〈筋肉・部位・範囲〉",
+        "something + be contracted。目的語が縮小する対象。"
+      ],
+      "collocations": [
+        {
+          "pattern": "contract your abdominal muscles",
+          "use": "腹部の筋肉を収縮させる動作。",
+          "example": "Contract your abdominal muscles as you lift your legs.",
+          "translation": "脚を上げるときに腹筋を収縮させてください。"
+        },
+        {
+          "pattern": "contract the pupils",
+          "use": "瞳孔を小さくする作用。",
+          "example": "The drug contracts the pupils.",
+          "translation": "その薬には瞳孔を収縮させる作用がある。"
+        },
+        {
+          "pattern": "contract the scope of something",
+          "use": "範囲を狭める硬い表現。",
+          "example": "The budget cut contracted the scope of the project.",
+          "translation": "予算削減でプロジェクトの範囲が狭められた。"
+        }
+      ],
+      "notes": [
+        "自動詞の語義5との違いは、縮む対象が主語か目的語か。contracted muscles は収縮した筋肉、The muscles are contracted は文脈により収縮状態または受動を表す。通常、形容詞のように very contracted と程度を添えるより、fully contracted など収縮の程度を具体的に示す。"
+      ],
+      "synonyms": [
+        {
+          "word": "tighten",
+          "definition": "物をきつく締める、緩みをなくす。",
+          "frequency": 8,
+          "difference": "収縮よりも緊張・締め付けに重点があり、大きさが必ず減るとは限らない。",
+          "example": "Tighten your grip on the handle.",
+          "translation": "取っ手を握る力を強めてください。"
+        },
+        {
+          "word": "compress",
+          "definition": "外から力を加えて押し縮める。",
+          "frequency": 7,
+          "difference": "外部からの圧力を強く示し、筋肉が能動的に収縮する意味とは違う。",
+          "example": "The machine compresses the material into blocks.",
+          "translation": "その機械は材料を圧縮してブロックにする。"
+        },
+        {
+          "word": "reduce",
+          "definition": "大きさや量を減らす。",
+          "frequency": 9,
+          "difference": "縮小の方法を限定しない広い語。",
+          "example": "They reduced the size of the packaging.",
+          "translation": "彼らは包装の大きさを小さくした。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "expand",
+          "definition": "大きさ・範囲を広げる。",
+          "frequency": 9,
+          "difference": "同じ規模の軸で逆方向に変化させる語。",
+          "example": "The company expanded the scope of the survey.",
+          "translation": "会社は調査範囲を広げた。"
+        },
+        {
+          "word": "relax",
+          "definition": "筋肉を緩める。",
+          "frequency": 8,
+          "difference": "筋肉の緊張・収縮という軸で反対方向を表す。あらゆる物の膨張をいう語ではない。",
+          "example": "Relax your shoulders before the next movement.",
+          "translation": "次の動作の前に肩の力を抜いてください。"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "【動詞・他動詞】病気にかかる、感染する",
+      "frequency": 7,
+      "register": [
+        "フォーマル、報道、医療関係の説明。"
+      ],
+      "definition": "病気・感染症などを得て、その状態になる。",
+      "patterns": [
+        "contract a disease",
+        "contract an infection",
+        "contract 〈病名〉",
+        "contract something from someone。病気は直接目的語に置く。受動態も可能。"
+      ],
+      "collocations": [
+        {
+          "pattern": "contract a disease",
+          "use": "病気にかかったことを述べること。",
+          "example": "Several workers contracted the disease during the outbreak.",
+          "translation": "流行中に数人の作業員がその病気にかかった。"
+        },
+        {
+          "pattern": "contract an infection",
+          "use": "感染が生じたこと。",
+          "example": "He contracted an infection while recovering from surgery.",
+          "translation": "彼は手術からの回復中に感染症にかかった。"
+        },
+        {
+          "pattern": "contract 〈病名〉",
+          "use": "病名を直接続けること。",
+          "example": "She contracted malaria while working abroad.",
+          "translation": "彼女は海外で働いている間にマラリアにかかった。"
+        },
+        {
+          "pattern": "contract something from someone",
+          "use": "感染源を示すこと。",
+          "example": "He may have contracted the virus from a colleague.",
+          "translation": "彼は同僚からそのウイルスに感染した可能性がある。"
+        }
+      ],
+      "notes": [
+        "contract with a disease とはしない。with は契約相手を示す語義2と混同しやすい。感染症に多いが、contract が使われたことだけで人から人への感染を断定しない。日常の軽い病気には catch や get が自然なことが多い。contracted の語尾は /ɪd/ で、病気にかかった人を contracted people とは通常呼ばない。"
+      ],
+      "synonyms": [
+        {
+          "word": "catch",
+          "definition": "病気などにかかる。",
+          "frequency": 9,
+          "difference": "会話的で、catch a cold など身近な病気にも広く使う。",
+          "example": "I caught a cold on holiday.",
+          "translation": "休暇中に風邪をひいた。"
+        },
+        {
+          "word": "develop",
+          "definition": "症状や病気が現れる、発症する。",
+          "frequency": 9,
+          "difference": "感染源から得ることより、状態の発現・進行に焦点がある。",
+          "example": "She developed a fever overnight.",
+          "translation": "彼女は夜の間に発熱した。"
+        },
+        {
+          "word": "acquire",
+          "definition": "感染などを得る。",
+          "frequency": 6,
+          "difference": "医療・研究の説明で使う硬い語で、獲得した時期や場所に焦点を当てやすい。",
+          "example": "The patient acquired the infection in hospital.",
+          "translation": "患者は院内で感染した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【形容詞・限定用法】契約ベースの、請負の",
+      "frequency": 6,
+      "register": [
+        "ビジネス、雇用。名詞の修飾用法とする分析もある。"
+      ],
+      "definition": "個別の契約に基づいて仕事をする、または提供される。contract worker など、名詞の前に置く用法。",
+      "patterns": [
+        "contract worker",
+        "contract staff",
+        "contract work",
+        "contract services。名詞の前で用い、比較級・最上級や very による程度修飾は通常しない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "contract workers",
+          "use": "個別契約で働く人々。",
+          "example": "The project relies on contract workers with specialist skills.",
+          "translation": "そのプロジェクトは専門技能を持つ契約ベースの人材に頼っている。"
+        },
+        {
+          "pattern": "contract staff",
+          "use": "契約に基づき配置される人員。",
+          "example": "Contract staff will support the migration for six months.",
+          "translation": "契約スタッフが6か月間、移行作業を支援する。"
+        },
+        {
+          "pattern": "contract work",
+          "use": "雇用や受注形態としての契約業務。",
+          "example": "She prefers contract work to a permanent position.",
+          "translation": "彼女は常勤の職より契約ベースの仕事を好んでいる。"
+        },
+        {
+          "pattern": "contract services",
+          "use": "契約によって提供されるサービス。",
+          "example": "The agency provides contract services to small businesses.",
+          "translation": "その会社は小規模事業者向けに受託サービスを提供している。"
+        }
+      ],
+      "notes": [
+        "叙述では He is contract とせず、He works on a contract basis などとする。contractual は「契約に関する・契約上の」で、contractual obligations「契約上の義務」が典型。contract workers を日本の特定の雇用区分「契約社員」に常に置き換えず、文脈によって請負・外部委託などを訳し分ける。"
+      ],
+      "synonyms": [
+        {
+          "word": "freelance",
+          "definition": "独立して仕事ごとに依頼を受ける。",
+          "frequency": 7,
+          "difference": "特定組織の通常の従業員としてではない働き方に重点があり、契約の期間だけを示す語ではない。",
+          "example": "They hired a freelance editor.",
+          "translation": "彼らはフリーランスの編集者に仕事を依頼した。"
+        },
+        {
+          "word": "temporary",
+          "definition": "一定期間だけの、一時的な。",
+          "frequency": 8,
+          "difference": "継続期間を示し、請負か直接雇用かは示さない。",
+          "example": "The shop needs temporary staff for December.",
+          "translation": "店は12月に臨時スタッフを必要としている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 9,
+      "title": "【句動詞・他動詞】外注する、業務を委託する",
+      "frequency": 6,
+      "register": [
+        "ビジネス、行政。"
+      ],
+      "definition": "仕事を自分の組織だけで行う代わりに、契約によって他の人・会社に任せる。",
+      "patterns": [
+        "contract out 〈業務〉",
+        "contract 〈業務〉 out",
+        "contract it out",
+        "contract 〈業務〉 out to someone。分離可能。代名詞目的語は contract it out の位置。受動態も可能。"
+      ],
+      "collocations": [
+        {
+          "pattern": "contract out 〈業務〉",
+          "use": "業務全体を外部へ委託すること。",
+          "example": "The company contracts out payroll processing.",
+          "translation": "その会社は給与計算を外注している。"
+        },
+        {
+          "pattern": "contract 〈業務〉 out to someone",
+          "use": "委託する業務と委託先。",
+          "example": "The council contracted waste collection out to a private operator.",
+          "translation": "自治体はごみ収集を民間事業者に委託した。"
+        },
+        {
+          "pattern": "contract it out",
+          "use": "代名詞目的語の語順。",
+          "example": "We cannot handle the translation ourselves, so we will contract it out.",
+          "translation": "自分たちでは翻訳に対応できないので、外注する予定だ。"
+        },
+        {
+          "pattern": "be contracted out to someone",
+          "use": "委託対象を主語にすること。",
+          "example": "Technical support is contracted out to a specialist firm.",
+          "translation": "技術サポートは専門会社に外注されている。"
+        }
+      ],
+      "notes": [
+        "contract out it は不可。contract work out to a company の work は目的語だが、語義12の contract out of a scheme は直接目的語を持たず制度から外れる意味。語義3の contract a company to do は委託先を目的語にし、こちらは委託業務を目的語にする。"
+      ],
+      "synonyms": [
+        {
+          "word": "outsource",
+          "definition": "業務を組織外へ委託する。",
+          "frequency": 7,
+          "difference": "意味は近く、outsource payroll to a provider の形を取る。国外移転を必須としない。",
+          "example": "They outsourced customer support to a local firm.",
+          "translation": "彼らは顧客対応を地元の会社に外注した。"
+        },
+        {
+          "word": "subcontract",
+          "definition": "受注した仕事の一部などをさらに別の業者に請け負わせる。",
+          "frequency": 5,
+          "difference": "元請けと下請けの関係に重点がある。contract out は自社内業務の外注にも使う。",
+          "example": "The builder subcontracted the electrical work.",
+          "translation": "建設業者は電気工事を下請けに出した。"
+        },
+        {
+          "word": "farm out",
+          "definition": "仕事を他の人や業者に割り振って任せる。",
+          "frequency": 5,
+          "difference": "contract out よりくだけた表現で、正式な契約の説明より作業の外部配分に焦点がある。",
+          "example": "The agency farmed out the design work.",
+          "translation": "その代理店はデザイン作業を外部に回した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 10,
+      "title": "【動詞・他動詞】語句を縮約する",
+      "frequency": 5,
+      "register": [
+        "言語、文法。"
+      ],
+      "definition": "語や句の音・文字の一部を省いたり結合したりして、短い形にする。",
+      "patterns": [
+        "contract 〈語句〉",
+        "contract A to B",
+        "A + be contracted to B。"
+      ],
+      "collocations": [
+        {
+          "pattern": "contract A to B",
+          "use": "縮約前後の形を対応させること。",
+          "example": "In informal writing, we often contract “we are” to “we’re.”",
+          "translation": "くだけた文章では、we are を we’re に縮約することが多い。"
+        },
+        {
+          "pattern": "be contracted to 〈縮約形〉",
+          "use": "縮約される側を主語にすること。",
+          "example": "“She will” can be contracted to “she’ll.”",
+          "translation": "she will は she’ll に縮約できる。"
+        }
+      ],
+      "notes": [
+        "contracted forms「縮約形」の contracted はこの動詞の過去分詞に対応する。本文・要約全体を短くするなら shorten や condense が普通で、contract は特に語形の短縮を表す。語義11は縮約される表現そのものを主語にした自動詞。"
+      ],
+      "synonyms": [
+        {
+          "word": "abbreviate",
+          "definition": "語や表現を短い形で表す。",
+          "frequency": 6,
+          "difference": "略号や頭文字への短縮を含む広い語で、必ずしも縮約形を作らない。",
+          "example": "The report abbreviates “department” to “dept.”",
+          "translation": "報告書では department を dept. と略している。"
+        },
+        {
+          "word": "shorten",
+          "definition": "長さを短くする。",
+          "frequency": 9,
+          "difference": "意味範囲が広く、どのような省略・結合を行うかを特定しない。",
+          "example": "Please shorten the title.",
+          "translation": "題名を短くしてください。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 11,
+      "title": "【動詞・自動詞】語句が縮約される",
+      "frequency": 4,
+      "register": [
+        "言語、文法。"
+      ],
+      "definition": "語句が、音や文字を省いた短い形になる。",
+      "patterns": [
+        "〈語句〉 + contract to 〈縮約形〉。主語は縮約前の表現。"
+      ],
+      "collocations": [
+        {
+          "pattern": "〈語句〉 + contract to 〈縮約形〉",
+          "use": "表現自身を主語にする説明。",
+          "example": "In everyday speech, “we have” often contracts to “we’ve.”",
+          "translation": "日常会話では、we have が we’ve に縮約されることが多い。"
+        },
+        {
+          "pattern": "contract in speech",
+          "use": "発話で生じる縮約。",
+          "example": "Some word combinations contract in rapid speech.",
+          "translation": "速い発話では、一部の語の組み合わせが縮約される。"
+        }
+      ],
+      "notes": [
+        "“We have” contracts to “we’ve” は自動詞、“We have” is contracted to “we’ve” は語義10の受動形。どちらも結果は縮約だが、同じ統語形ではない。to の後は結果の形であり、目的を表す to不定詞ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "shorten",
+          "definition": "語形などが短くなる。",
+          "frequency": 7,
+          "difference": "自動詞としての一般的な短縮を表し、縮約の方法までは示さない。",
+          "example": "Vowels often shorten before certain consonants.",
+          "translation": "母音は特定の子音の前で短くなることが多い。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 12,
+      "title": "【句動詞・自動詞／他動詞・再帰】制度への不参加・適用除外を正式に選ぶ",
+      "frequency": 4,
+      "register": [
+        "主に英。制度・法律関係の文章。"
+      ],
+      "definition": "公的・正式な制度に参加しないことや、取り決めによって一定の適用から外れることを表明する。",
+      "patterns": [
+        "someone + contract out",
+        "someone + contract out of 〈制度・適用対象〉。out は小辞、of 以下が離脱・適用除外の対象。この自動詞構文は直接目的語を取らない。法律文体には contract oneself out of 〈法・義務など〉という再帰他動詞構文もある。"
+      ],
+      "collocations": [
+        {
+          "pattern": "contract out of 〈制度〉",
+          "use": "制度への不参加を選ぶこと。",
+          "example": "The scheme allows eligible members to contract out of the standard arrangement.",
+          "translation": "その制度では、条件を満たす加入者が標準の仕組みへの不参加を選べる。"
+        },
+        {
+          "pattern": "contract out of 〈義務・責任〉",
+          "use": "契約で適用を外せるかを論じること。",
+          "example": "The article asks whether parties can contract out of that obligation.",
+          "translation": "その論文は、当事者が契約によってその義務の適用を外せるかを論じている。"
+        },
+        {
+          "pattern": "contract oneself out of 〈法・義務など〉",
+          "use": "契約によって自分を適用の外に置くという法律文体。",
+          "example": "The judgment considers whether the parties could contract themselves out of the Act.",
+          "translation": "その判決は、当事者が契約によって同法の適用から自らを除外できたかを検討している。"
+        }
+      ],
+      "notes": [
+        "再帰他動詞構文の oneself は主語に応じて myself・themselves などになり、contract と out の間に置く。この構文と、再帰代名詞を持たない自動詞の contract out of は別のフレーム。どちらも実際に適用除外が可能かは法令・契約による。語義9の contract a service out「サービスを外注する」とは別構文。of の目的語が代名詞なら contract out of it とし、contract it out とはしない。制度からの除外が実際に可能かは個別の規定による。英国の年金についての古い用例が多いが、それを現在も選択可能な手続きと解釈しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "opt out",
+          "definition": "参加しないことを選ぶ。",
+          "frequency": 7,
+          "difference": "制度以外の活動にも使え、必ずしも契約による選択ではない。",
+          "example": "Participants may opt out of the survey.",
+          "translation": "参加者は調査への不参加を選べる。"
+        },
+        {
+          "word": "withdraw",
+          "definition": "参加や関与を取りやめる。",
+          "frequency": 8,
+          "difference": "既存の参加から引く行為に重点があり、最初から適用を受けない選択と必ずしも同じではない。",
+          "example": "The company withdrew from the partnership.",
+          "translation": "会社は提携から撤退した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 13,
+      "title": "【句動詞・自動詞】制度への参加を正式に選ぶ",
+      "frequency": 3,
+      "register": [
+        "主に英。制度上の限定された用法。"
+      ],
+      "definition": "正式な制度や仕組みに加わることを表明する。",
+      "patterns": [
+        "contract in",
+        "contract in to 〈制度〉。ここでは in が小辞で、to は制度を導く前置詞。"
+      ],
+      "collocations": [
+        {
+          "pattern": "contract in",
+          "use": "制度に参加する選択。",
+          "example": "Under the old scheme, members could choose to contract in.",
+          "translation": "旧制度では、加入者は参加を選択できた。"
+        },
+        {
+          "pattern": "contract in to 〈制度〉",
+          "use": "参加先を示すこと。",
+          "example": "The archived leaflet explained how to contract in to the pension scheme.",
+          "translation": "保存されていた案内には、その年金制度に参加する方法が説明されていた。"
+        }
+      ],
+      "notes": [
+        "contract out of と方向が反対。外部の専門家を呼ぶ contract someone in などの別構造と混ぜない。制度に関する用例の時点を確認し、現在の利用条件を語から推測しない。一般的な「参加を選ぶ」は opt in が使いやすい。"
+      ],
+      "synonyms": [
+        {
+          "word": "opt in",
+          "definition": "参加・適用を受けることを自分で選ぶ。",
+          "frequency": 6,
+          "difference": "メール配信などにも使う広い語で、契約締結を必須としない。",
+          "example": "Users can opt in to receive product news.",
+          "translation": "利用者は製品ニュースの受信を選べる。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 14,
+      "title": "【動詞・他動詞】婚姻・同盟などを正式に結ぶ",
+      "frequency": 3,
+      "register": [
+        "法律、歴史、非常にフォーマル。"
+      ],
+      "definition": "婚姻や同盟などの関係を正式な取り決めとして成立させる。",
+      "patterns": [
+        "contract a marriage",
+        "contract an alliance with someone。受動態も可能。"
+      ],
+      "collocations": [
+        {
+          "pattern": "contract a marriage",
+          "use": "婚姻を正式に成立させること。",
+          "example": "The record states that the marriage was contracted abroad.",
+          "translation": "記録には、その婚姻が国外で成立したとある。"
+        },
+        {
+          "pattern": "contract an alliance with someone",
+          "use": "同盟関係を結ぶこと。",
+          "example": "The two rulers contracted an alliance against a common enemy.",
+          "translation": "二人の統治者は共通の敵に対抗する同盟を結んだ。"
+        }
+      ],
+      "notes": [
+        "contract a marriage は通常「結婚を取り消す」でも「結婚生活を縮める」でもない。日常の結婚報告では get married が普通。contract someone to do の人目的語と違い、ここでは成立する関係を目的語にする。"
+      ],
+      "synonyms": [
+        {
+          "word": "enter into",
+          "definition": "正式な関係や取り決めを結ぶ。",
+          "frequency": 7,
+          "difference": "enter into an alliance など、前置詞 into を介して対象を置く。",
+          "example": "The states entered into an alliance.",
+          "translation": "それらの国は同盟を結んだ。"
+        },
+        {
+          "word": "form",
+          "definition": "関係・集団などを成立させる。",
+          "frequency": 9,
+          "difference": "正式な契約を前提としない広い語。",
+          "example": "The parties formed an alliance before the election.",
+          "translation": "各党は選挙前に連携関係を築いた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 15,
+      "title": "【動詞・他動詞】債務を負う",
+      "frequency": 3,
+      "register": [
+        "フォーマル、金融・法律文書。"
+      ],
+      "definition": "債務や負担を新たに負う。",
+      "patterns": [
+        "contract a debt",
+        "contract debts",
+        "debts contracted by someone。"
+      ],
+      "collocations": [
+        {
+          "pattern": "contract debts",
+          "use": "新たな債務を負うこと。",
+          "example": "The report lists debts contracted during the expansion.",
+          "translation": "報告書には、事業拡大中に負った債務が列挙されている。"
+        },
+        {
+          "pattern": "contract a debt",
+          "use": "個別の債務を負うこと。",
+          "example": "The company contracted a substantial debt to finance the acquisition.",
+          "translation": "会社は買収資金を賄うため、多額の債務を負った。"
+        }
+      ],
+      "notes": [
+        "「借金を減らす」ではない。a debt が直接目的語なので、語義5の debt contracted「債務残高が縮小した」と主語・目的語を見分ける。現代の一般的な説明には incur debt や take on debt が多い。"
+      ],
+      "synonyms": [
+        {
+          "word": "incur",
+          "definition": "債務・費用などを負う、発生させる。",
+          "frequency": 7,
+          "difference": "債務以外に費用や損失にも使う。必ずしも借入契約に限定しない。",
+          "example": "The delay caused the firm to incur additional costs.",
+          "translation": "遅延により会社に追加費用が発生した。"
+        },
+        {
+          "word": "take on",
+          "definition": "債務・責任などを引き受ける。",
+          "frequency": 7,
+          "difference": "contract より日常的で、負担を抱え込むことに焦点がある。",
+          "example": "We cannot take on more debt.",
+          "translation": "これ以上の債務は負えない。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 16,
+      "title": "【名詞・可算】報酬付きの殺害依頼",
+      "frequency": 3,
+      "register": [
+        "俗語。犯罪報道、犯罪小説。"
+      ],
+      "definition": "金銭などの報酬と引き換えに、特定の人を殺害するという犯罪上の依頼・取り決め。",
+      "patterns": [
+        "a contract on someone",
+        "a contract on someone’s life",
+        "put out a contract on someone。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a contract on someone’s life",
+          "use": "殺害の標的となっていること。",
+          "example": "In the novel, the detective discovers a contract on the witness’s life.",
+          "translation": "その小説では、探偵が証人の殺害依頼の存在を突き止める。"
+        },
+        {
+          "pattern": "put out a contract on someone",
+          "use": "犯罪上の殺害依頼を指す定型句。",
+          "example": "The film suggests that a crime boss put out a contract on him.",
+          "translation": "映画では、犯罪組織の首領が彼の殺害を依頼したことが示唆される。"
+        }
+      ],
+      "notes": [
+        "通常の契約相手は a contract with someone、ここでは標的を on someone で表す。contract killing は「依頼殺人」で、普通の業務契約とは明確に区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "hit",
+          "definition": "金銭などを伴う組織的な殺害。",
+          "frequency": 4,
+          "difference": "俗語で殺害行為や計画自体を指す。contract はその依頼・取り決めに重点がある。",
+          "example": "The police investigated the killing as a possible hit.",
+          "translation": "警察はその殺害が組織的な依頼殺人だった可能性を調べた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 17,
+      "title": "【名詞・可算】ブリッジのコントラクト",
+      "frequency": 3,
+      "register": [
+        "カードゲームの専門用語。"
+      ],
+      "definition": "ブリッジで、最終的なビッドによって決まる、一定の切り札またはノートランプで所定数のトリックを取るという約束。",
+      "patterns": [
+        "a contract of 〈ビッド〉",
+        "make a contract",
+        "defeat a contract",
+        "the final contract。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a contract of 〈ビッド〉",
+          "use": "成立した最終ビッド。",
+          "example": "They reached a contract of four spades.",
+          "translation": "彼らはフォースペードのコントラクトに到達した。"
+        },
+        {
+          "pattern": "make the contract",
+          "use": "必要なトリック数を取って達成すること。",
+          "example": "Declarer took ten tricks and made the contract.",
+          "translation": "ディクレアラーは10トリックを取り、コントラクトを達成した。"
+        },
+        {
+          "pattern": "defeat the contract",
+          "use": "相手の達成を阻むこと。",
+          "example": "The defenders needed one more trick to defeat the contract.",
+          "translation": "守備側がコントラクトを破るには、あと1トリック必要だった。"
+        }
+      ],
+      "notes": [
+        "ビッドの数字に6を加えた数が必要なトリック数なので、four spades ならスペードを切り札として10トリックを目指す。make the contract は通常の契約を「作る」意味ではない。",
+        "contract bridge はゲーム名として不可算的に使い、単に contract と略す用法もある。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}
