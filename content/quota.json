@@ -1,0 +1,423 @@
+{
+  "word": "quota",
+  "slug": "quota",
+  "ipa": "米: /ˈkwoʊ.t̬ə/｜英: /ˈkwəʊ.tə/。2音節で、第1音節に強勢がある。示した米英差は、第1音節の二重母音 /oʊ/ と /əʊ/、第2音節冒頭の子音 /t̬/ と /t/。米音の /t̬/ は舌先を軽く弾く音を表す。第2音節の母音は両方とも弱い /ə/。複数形 quotas の語末は /əz/。",
+  "lead": "人・組織・国などに割り当てられた数量や、受入れ・使用・生産などについて認められる一定の枠。輸入・漁獲・データ保存などでは、超えてはならない上限として使われることが多い。ただし quota という語全体が常に上限を意味するわけではなく、必要な達成量なら語義2になる。",
+  "updated": "2026-10-15",
+  "notion_url": "https://app.notion.com/p/quota-3fa4faa9b77d8145bb0cdd58ae57530a",
+  "pronunciation": [],
+  "etymology": [
+    "中世ラテン語 quota に由来し、ラテン語 quota pars「どれほどの部分か」という表現にさかのぼる。全体から各人・各集団へ割り当てる取り分が意味の核となり、許容量や達成すべき定量へ広がった。quote「引用する・価格を提示する」、quotation「引用・見積もり」も、数を付けて示すことに関係する同じラテン語の語系統。quota はこれらの現代英語から直接作られた派生語ではない。"
+  ],
+  "formation": [
+    {
+      "term": "quotas",
+      "description": "複数形。quotaes にはしない。"
+    },
+    {
+      "term": "quota system",
+      "description": "複合名詞。数や割合の割当によって運用する制度。"
+    },
+    {
+      "term": "quota-based",
+      "description": "複合形容詞。割当量や達成定量に基づく。quota-based compensation は達成量などに基づく報酬制度。"
+    },
+    {
+      "term": "over-quota",
+      "description": "複合形容詞。所定の割当を超えた。over-quota imports などの限定修飾で使う。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "核は「一定の数・量として定める取り分や基準」。受け取れる量、達成すべき量、集団の人数、日常の取り分、当選に達する票数という方向に分かれる。"
+    },
+    {
+      "type": "item",
+      "text": "定めた量を使用・受入れの枠として適用 → 「割当量・許容量・数量枠」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "定めた量を達成すべき仕事として適用 → 「達成すべき定量・ノルマ」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "定めた量を特定集団の人数・割合に適用 → 「特定集団の人数枠・比率枠」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "定めた量を日常の取り分になぞらえて適用 → 「通常の取り分・一定量」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "定めた量を当選の票数基準として適用 → 「当選基数」（語義5）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算】割当量・許容量・数量枠",
+      "frequency": 7,
+      "register": [
+        "ビジネス・行政・貿易・資源管理・IT。"
+      ],
+      "definition": "人・組織・国などに割り当てられた数量や、受入れ・使用・生産などについて認められる一定の枠。輸入・漁獲・データ保存などでは、超えてはならない上限として使われることが多い。ただし quota という語全体が常に上限を意味するわけではなく、必要な達成量なら語義2になる。",
+      "patterns": [
+        "a quota of 〈数量〉",
+        "a quota on 〈制限する活動・対象〉",
+        "a quota for 〈対象者・期間・用途〉",
+        "allocate a quota to someone",
+        "exceed a quota",
+        "within one's quota",
+        "use up one's quota",
+        "a storage quota。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a quota of 〈数量〉",
+          "use": "認められる量を直接示す。",
+          "example": "Each department has a quota of 200 printed pages per week.",
+          "translation": "各部署には、1週間に200ページの印刷枠があります。"
+        },
+        {
+          "pattern": "a quota on imports",
+          "use": "輸入数量の制限枠を示す。",
+          "example": "The government imposed a quota on imports of the product.",
+          "translation": "政府は、その製品の輸入に数量枠を設けました。"
+        },
+        {
+          "pattern": "a quota for 〈対象者〉",
+          "use": "誰に割り当てた枠かを表す。",
+          "example": "The organizer set a separate ticket quota for each participating club.",
+          "translation": "主催者は、参加クラブごとにチケットの割当枠を設定しました。"
+        },
+        {
+          "pattern": "allocate a quota to someone",
+          "use": "管理者などが利用・生産の枠を割り当てる。",
+          "example": "The authority allocated a fishing quota to each licensed operator.",
+          "translation": "当局は、許可を受けた各事業者に漁獲枠を割り当てました。"
+        },
+        {
+          "pattern": "exceed a quota",
+          "use": "許可された上限を超えることを述べる。",
+          "example": "The vessel was fined for exceeding its annual fishing quota.",
+          "translation": "その船は、年間漁獲枠を超えたため罰金を科されました。"
+        },
+        {
+          "pattern": "within one's quota",
+          "use": "設定された許容量の範囲内にあることを示す。",
+          "example": "Your current storage usage is still within your quota.",
+          "translation": "現在の保存容量の使用量は、まだ割当枠内です。"
+        },
+        {
+          "pattern": "use up one's quota",
+          "use": "利用できる枠を使い切ることを示す。",
+          "example": "We used up our monthly quota of free downloads in the first week.",
+          "translation": "私たちは最初の1週間で、月間の無料ダウンロード枠を使い切りました。"
+        },
+        {
+          "pattern": "a storage quota",
+          "use": "利用者などに設定されたデータ保存容量の上限を指す。",
+          "example": "The administrator increased my storage quota from 5 GB to 10 GB.",
+          "translation": "管理者は、私の保存容量の上限を5GBから10GBへ増やしました。"
+        }
+      ],
+      "notes": [
+        "a quota of 100 units は数量、a quota on imports は制限する活動、a quota for each team は割当先を示す。of・on・for を機械的に置き換えない。一般に可算なので impose quota より impose a quota、複数の制限なら impose quotas とする。上限の quota を exceed することと、営業目標の quota を exceed することでは評価が逆になり得る。tariff は関税で、数量枠そのものではない。tariff-rate quota は一定量まで低い税率、枠を超える分に高い税率を適用する仕組みで、枠外の輸入を必ず禁止するとは限らない。quota の値だけで、その制度が絶対的な禁止枠なのか、特定の待遇を受けられる枠なのかを決めない。"
+      ],
+      "synonyms": [
+        {
+          "word": "allocation",
+          "definition": "人や用途に割り当てた量・資源。",
+          "frequency": 7,
+          "difference": "配分されたものに重点があり、厳守すべき数量上限という意味は必須でない。",
+          "example": "The team received a larger allocation of computing resources.",
+          "translation": "チームには、より多くの計算資源が割り当てられました。"
+        },
+        {
+          "word": "allowance",
+          "definition": "一定の目的で使用・受領が認められる量。",
+          "frequency": 7,
+          "difference": "手荷物・経費・通信量など個人が使える枠にも多い。quota は制度的な配分・数量管理の響きが強い。",
+          "example": "The ticket includes a baggage allowance of 20 kilograms.",
+          "translation": "その航空券には、20キログラムの手荷物許容量が含まれています。"
+        },
+        {
+          "word": "cap",
+          "definition": "数量や金額に設ける上限。",
+          "frequency": 7,
+          "difference": "上限であることを明確にする。quota は配分量や達成すべき量も表す。",
+          "example": "The plan places a cap on monthly data usage.",
+          "translation": "そのプランは、月間のデータ使用量に上限を設けています。"
+        },
+        {
+          "word": "allotment",
+          "definition": "人や集団に割り当てられた取り分。",
+          "frequency": 5,
+          "difference": "具体的な配分の結果を表し、上限違反を監視するという含みは quota より弱い。",
+          "example": "Our allotment of tickets sold out in an hour.",
+          "translation": "私たちに割り当てられたチケットは、1時間で売り切れました。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算】達成すべき定量・ノルマ",
+      "frequency": 6,
+      "register": [
+        "営業・生産・業務管理。"
+      ],
+      "definition": "一定期間内に売る、作る、処理するなどの仕事として、個人やチームへ課される数量・金額。達成が期待される具体的な基準で、単なる希望より割当・責任の意味が強い。日本語の「ノルマ」のように厳しさを感じさせる場面もあるが、語自体に不合理さや過酷さは必須でない。",
+      "patterns": [
+        "a sales quota",
+        "set a quota for someone",
+        "meet one's quota",
+        "hit quota",
+        "exceed one's quota",
+        "fall short of one's quota",
+        "a quota of 〈仕事の数量〉",
+        "quota attainment。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a sales quota",
+          "use": "営業担当者などへ課す販売数量・売上額の基準を指す。",
+          "example": "Each representative has a quarterly sales quota of \\$150,000.",
+          "translation": "各営業担当者には、四半期15万ドルの販売目標が課されています。"
+        },
+        {
+          "pattern": "set a quota for someone",
+          "use": "誰がどれだけ達成すべきかを設定する。",
+          "example": "The manager set a daily quota of 40 completed inspections for the team.",
+          "translation": "管理者は、チームに1日40件の検査を完了する定量を設定しました。"
+        },
+        {
+          "pattern": "meet one's quota",
+          "use": "課された基準に達することを述べる。",
+          "example": "We met our monthly quota two days before the deadline.",
+          "translation": "私たちは締切の2日前に、月間目標を達成しました。"
+        },
+        {
+          "pattern": "hit quota",
+          "use": "営業の会話で、所定の目標を達成したことを簡潔に述べる。",
+          "example": "Most of the sales team hit quota this quarter.",
+          "translation": "営業チームの大半が、今四半期の目標を達成しました。"
+        },
+        {
+          "pattern": "exceed one's quota",
+          "use": "課された目標を上回る成果を示す。",
+          "example": "She exceeded her annual quota by 12 percent.",
+          "translation": "彼女は、年間目標を12パーセント上回りました。"
+        },
+        {
+          "pattern": "fall short of one's quota",
+          "use": "所定の目標に届かないことを述べる。",
+          "example": "The team fell short of its production quota because of equipment failures.",
+          "translation": "設備の故障により、チームは生産目標に届きませんでした。"
+        },
+        {
+          "pattern": "quota attainment",
+          "use": "割り当てた目標に対する達成状況を指す。",
+          "example": "The dashboard shows quota attainment for each sales territory.",
+          "translation": "そのダッシュボードには、営業地域ごとの目標達成状況が表示されています。"
+        }
+      ],
+      "notes": [
+        "meet・reach・hit a quota は達成すること、fall short of a quota は未達。売上基準を exceed することは通常好成績だが、語義1の輸入枠を exceed する場合は超過違反にもなる。quota は通常可算だが、営業の定型的な hit quota・make quota・over quota では無冠詞も定着している。quota attainment of 110 percent は目標を10パーセント上回ったことを示す。production quota が「作るべき最低量」か「生産を認める上限」かは制度・文脈次第で、production だけでは判定しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "target",
+          "definition": "達成を目指す数値・結果。",
+          "frequency": 8,
+          "difference": "自分で決めた目標や組織全体の目標にも使う。quota は個人・部署への定量的な割当を意識しやすい。",
+          "example": "Our target is to reduce processing time by 20 percent.",
+          "translation": "私たちの目標は、処理時間を20パーセント短縮することです。"
+        },
+        {
+          "word": "goal",
+          "definition": "実現しようとする目標。",
+          "frequency": 9,
+          "difference": "質的な成果や長期的な理想も表せる。quota は通常、一定期間の数量・金額などで示す。",
+          "example": "Her long-term goal is to build a reliable sales team.",
+          "translation": "彼女の長期的な目標は、信頼できる営業チームを作ることです。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算】特定集団の人数枠・比率枠",
+      "frequency": 5,
+      "register": [
+        "政策・人事・教育・政治。文脈によって社会的評価が分かれる。"
+      ],
+      "definition": "採用、入学、議席、候補者選定などで、特定の集団に属する人を一定人数・一定割合とするために定めた枠。最低割合を確保する制度にも、受入れ人数を制限する制度にも使う。誰を、何の段階で、どちら向きに制限・確保するかは制度によって異なる。",
+      "patterns": [
+        "a quota system",
+        "gender quotas",
+        "a quota for 〈集団〉",
+        "a quota of 〈百分率〉",
+        "fill a quota。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a quota system",
+          "use": "人数や割合の割当を制度として運用することを示す。",
+          "example": "The organization introduced a quota system to ensure regional representation on the council.",
+          "translation": "その組織は、評議会に各地域の代表を確保するため、人数枠の制度を導入しました。"
+        },
+        {
+          "pattern": "gender quotas",
+          "use": "性別による代表人数・割合の基準を指す。",
+          "example": "The report compares voluntary gender quotas used by political parties.",
+          "translation": "その報告書は、政党が自主的に採用しているジェンダー・クオータを比較しています。"
+        },
+        {
+          "pattern": "a quota for 〈集団〉",
+          "use": "どの集団のために枠を設けるかを明示する。",
+          "example": "The program reserves a quota of places for applicants from rural areas.",
+          "translation": "そのプログラムは、農村地域からの応募者のために一定の定員枠を確保しています。"
+        },
+        {
+          "pattern": "a quota of 〈百分率〉",
+          "use": "割合で定めた基準を示す。",
+          "example": "The association adopted a minimum quota of 30 percent for members under forty on its board.",
+          "translation": "その協会は、理事会に占める40歳未満の会員の割合を最低30パーセントとする枠を採用しました。"
+        },
+        {
+          "pattern": "fill a quota",
+          "use": "定めた人数枠を満たすことを述べる。",
+          "example": "All applicants were assessed individually rather than chosen solely to fill a regional quota.",
+          "translation": "応募者は地域別の人数枠を埋めることだけを理由に選ばれるのではなく、一人ずつ評価されました。"
+        }
+      ],
+      "notes": [
+        "quota を一律に「上限」と訳すと、代表を確保する最低比率を逆に理解してしまう。minimum quota・maximum quota、reserve・limit などで方向を確認する。gender quota が議席そのものの割当か候補者の比率か、法的義務か組織の自主基準かも別問題。quota system は割当による制度の総称で、すべての国で同じ制度があると解釈しない。語義5の electoral quota は当選に関わる票数であり、この語義の人員・議席の配分枠とは異なる。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・通常単数】通常の取り分・一定量",
+      "frequency": 4,
+      "register": [
+        "一般的な文章・会話。軽いユーモアや皮肉を伴うことがある。"
+      ],
+      "definition": "人が通常得る、必要とする、経験する、または十分だと感じる一定量。公式な割当がなくても使う比喩的用法。睡眠・楽しみ・苦労などを、自分の取り分やその日の定量として捉える。",
+      "patterns": [
+        "one's quota of 〈物・経験〉",
+        "one's full quota of 〈必要なもの〉",
+        "the usual quota of 〈人・出来事〉",
+        "have had one's quota of 〈嫌なこと〉。"
+      ],
+      "collocations": [
+        {
+          "pattern": "one's full quota of sleep",
+          "use": "必要と感じる十分な睡眠量を表す。",
+          "example": "I finally got my full quota of sleep after a week of early starts.",
+          "translation": "早起きが1週間続いた後で、ようやく十分な睡眠を取れました。"
+        },
+        {
+          "pattern": "the usual quota of 〈出来事〉",
+          "use": "いつもどおり一定数生じる出来事を、割当になぞらえる。",
+          "example": "The trip had its usual quota of minor mishaps.",
+          "translation": "その旅行でも、いつもどおり小さなトラブルがいくつかありました。"
+        },
+        {
+          "pattern": "have had one's quota of 〈嫌なこと〉",
+          "use": "その種の経験はもう十分だという気持ちを表す。",
+          "example": "I've had my quota of meetings for one day.",
+          "translation": "今日はもう、会議は十分というほどしました。"
+        },
+        {
+          "pattern": "one's quota of laughter",
+          "use": "一定の楽しみや経験を取り分のように表す。",
+          "example": "The comedy provided our quota of laughter for the evening.",
+          "translation": "その喜劇のおかげで、その晩は十分に笑えました。"
+        }
+      ],
+      "notes": [
+        "my quota of bad news は、誰かが悪い知らせを正式に割り当てたという意味ではない。the usual quota of problems は「いつも程度の問題」で、厳密な個数を示さない。full quota は十分な量を強調するが、何時間・何個が適量かは話者や文脈による。必ず不快な内容に使うわけではなく、sleep・laughter のような望ましいものにも使える。"
+      ],
+      "synonyms": [
+        {
+          "word": "share",
+          "definition": "全体のうち自分に回ってくる取り分・経験する分。",
+          "frequency": 8,
+          "difference": "have one's share of problems のように広く使え、quota より定量・基準という比喩が弱い。",
+          "example": "We have had our share of setbacks this year.",
+          "translation": "私たちは今年、相応の困難を経験してきました。"
+        },
+        {
+          "word": "fill",
+          "definition": "もう十分だと思うだけの量。",
+          "frequency": 5,
+          "difference": "have one's fill of という形で満足やうんざりを強調する。quota は通常の取り分を中立的に表すこともある。",
+          "example": "She had had her fill of office gossip.",
+          "translation": "彼女は職場のうわさ話に、もううんざりしていました。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞・通常単数】当選基数",
+      "frequency": 3,
+      "register": [
+        "選挙制度・政治報道。特にアイルランドなどの単記移譲式投票の説明。"
+      ],
+      "definition": "単記移譲式投票などの一定の選挙方式で、候補者が到達すれば当選を確保できるものとして定める票数。一般の得票目標ではなく、選挙制度上の計算で決まる基準。計算方法や、その基数に届かない候補者の扱いは方式による。",
+      "patterns": [
+        "the electoral quota",
+        "calculate the quota",
+        "reach the quota",
+        "be 〈票数〉 votes short of the quota",
+        "votes above the quota。"
+      ],
+      "collocations": [
+        {
+          "pattern": "calculate the quota",
+          "use": "選挙制度に従って当選基数を求める。",
+          "example": "The officials calculated the quota after establishing the total number of valid votes.",
+          "translation": "担当者は、有効投票総数を確定した後、当選基数を計算しました。"
+        },
+        {
+          "pattern": "reach the quota",
+          "use": "候補者の票数が当選基数に達することを述べる。",
+          "example": "She reached the quota on the third count and was declared elected.",
+          "translation": "彼女は3回目の集計で当選基数に達し、当選が宣言されました。"
+        },
+        {
+          "pattern": "be 〈票数〉 votes short of the quota",
+          "use": "当選基数まであと何票必要かを示す。",
+          "example": "He was 80 votes short of the quota after the first count.",
+          "translation": "彼は初回集計後、当選基数まで80票足りませんでした。"
+        },
+        {
+          "pattern": "votes above the quota",
+          "use": "当選基数を超えた票を示す。",
+          "example": "Under this voting system, votes above the quota may be transferred according to the rules.",
+          "translation": "この投票方式では、当選基数を超える票が規則に従って移譲される場合があります。"
+        }
+      ],
+      "notes": [
+        "the quota は、すでに定まった選挙区の基数を指す。単純多数制の選挙で一般的な「必要票数」をすべて quota と呼ぶわけではない。アイルランドの単記移譲式投票では基数に達すれば当選する一方、最終段階で他候補が除外されるなどして、基数未達でも当選する場合がある。そのため「この票数に達しなければ絶対に当選できない」と断定しない。語義3の候補者・議席の人数枠とは区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "threshold",
+          "definition": "ある結果や資格に到達するための境界となる数値。",
+          "frequency": 6,
+          "difference": "選挙以外にも広い。electoral threshold は政党の議席配分資格を得る最低得票率などを指すこともあり、候補者の当選基数と制度的に同一ではない。",
+          "example": "The candidate's total passed the threshold required for election under this system.",
+          "translation": "その候補者の得票数は、この方式で当選に必要な基準値を超えました。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

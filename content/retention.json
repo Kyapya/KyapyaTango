@@ -1,0 +1,551 @@
+{
+  "word": "retention",
+  "slug": "retention",
+  "ipa": "米・英: /rɪˈten.ʃən/。3音節で第2音節 /ten/ に主強勢がある。動詞 retain /rɪˈteɪn/ の第2音節の母音 /eɪ/ に対し、retention の第2音節の母音は /e/。語尾 -tion は /ʃən/ と発音する。",
+  "lead": "物、権利、情報、制度、性質などを失わずに持ち続けること、または使い続けたり残したりすること。熱・水分などを内部に保つことや、その能力にも使う。保持そのものを表し、常に望ましい状態とは限らない。",
+  "updated": "2026-10-15",
+  "notion_url": "https://app.notion.com/p/retention-3fa4faa9b77d816b8848c7cd5986c67e",
+  "pronunciation": [],
+  "etymology": [
+    "中英語・アングロフランス語を経たラテン語 retentio「保持」に由来し、retinere「引き留める・保つ」と同じ系列。re- と tenere「保つ」の組み合わせにさかのぼる。retain「保持する」、contain「中に含む」、detain「引き留める」も tenere の系列に属する。現在の綴りは retain に単純に -tion を足したものではなく、語幹が retent- となる。"
+  ],
+  "formation": [
+    {
+      "term": "retain",
+      "description": "他動詞。「保持する・手放さずに保つ」。retention は保持の行為・状態・能力などを表す名詞。"
+    },
+    {
+      "term": "retentive",
+      "description": "形容詞。「保持力がある・記憶力がよい」。a retentive memory などに使う。"
+    },
+    {
+      "term": "retentiveness",
+      "description": "名詞。保持する性質・能力。retention より性質そのものに焦点を置く。"
+    },
+    {
+      "term": "retainer",
+      "description": "名詞。保持用の器具、専門家の役務を確保するための報酬・契約など。retention と機械的に置き換えない。"
+    },
+    {
+      "term": "retentions",
+      "description": "複数形。支払留保金を個別に数える場合や、会計の「留保利益」で使う。一般的な「保持」を何でも複数にする形ではない。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "retention の核は、対象を外へ出したり失ったりせず、手元・内部・今ある関係や段階にとどめておくことである。何をどこにとどめるかによって意味が具体化し、保持が望ましいかどうかは文脈による。"
+    },
+    {
+      "type": "item",
+      "text": "対象を手元や元の状態にとどめる保持 → 「保持・維持・保存」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "対象を組織や利用関係にとどめる保持 → 「人材の定着・顧客の維持」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "対象を記憶の中にとどめる保持 → 「記憶保持・記憶力」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "対象を体内に過剰にとどめる保持 → 「体液などの貯留」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "対象を支払わず手元にとどめる保持 → 「支払留保・留保金」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "対象を自らの負担としてとどめる保持 → 「リスク保有・自己保有額」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "対象を同じ学年にとどめる保持 → 「留年・原級留置」（語義7）"
+    },
+    {
+      "type": "item",
+      "text": "対象を配当せず社内にとどめる保持 → 「留保利益」（語義8）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・不可算】保持・維持・保存",
+      "frequency": 7,
+      "register": [
+        "やや改まった一般語。業務・技術・制度・科学の説明でよく使う。"
+      ],
+      "definition": "物、権利、情報、制度、性質などを失わずに持ち続けること、または使い続けたり残したりすること。熱・水分などを内部に保つことや、その能力にも使う。保持そのものを表し、常に望ましい状態とは限らない。",
+      "patterns": [
+        "retention of 〈対象〉",
+        "the retention of 〈制度・権利〉",
+        "data retention",
+        "a retention period",
+        "heat retention",
+        "water retention in 〈材料・土壌〉",
+        "retention of 〈性質〉 after 〈変化〉。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the retention of 〈制度〉",
+          "use": "制度などを廃止せず存続させることを表す。",
+          "example": "The committee recommended the retention of the existing review procedure.",
+          "translation": "委員会は、現在の審査手続きを維持するよう勧告しました。"
+        },
+        {
+          "pattern": "retention of ownership",
+          "use": "所有権を手放さず保つことを述べる。",
+          "example": "The agreement allows the creator's retention of ownership of the design.",
+          "translation": "その契約では、制作者がデザインの所有権を保持できることになっています。"
+        },
+        {
+          "pattern": "data retention",
+          "use": "データを削除せず一定の条件で保存することを指す。",
+          "example": "The team reviewed its data retention policy before replacing the database.",
+          "translation": "チームはデータベースを交換する前に、データ保存方針を見直しました。"
+        },
+        {
+          "pattern": "a retention period",
+          "use": "記録などを保存しておく期間を示す。",
+          "example": "The retention period for these records is specified in the policy.",
+          "translation": "これらの記録の保存期間は、方針に明記されています。"
+        },
+        {
+          "pattern": "heat retention",
+          "use": "物の中に熱を保つ性質を述べる。",
+          "example": "The insulated lid improves heat retention in the container.",
+          "translation": "断熱性のあるふたが、容器の保温性を高めます。"
+        },
+        {
+          "pattern": "water retention in 〈土壌〉",
+          "use": "土壌などが水分を内部に保持することを述べる。",
+          "example": "Adding organic matter can improve water retention in sandy soil.",
+          "translation": "有機物を加えると、砂質土壌の保水性を高められることがあります。"
+        },
+        {
+          "pattern": "retention of 〈性質〉 after 〈変化〉",
+          "use": "処理などを経ても性質が残ることを示す。",
+          "example": "The tests measured retention of strength after repeated washing.",
+          "translation": "その試験では、繰り返し洗濯した後に強度がどれだけ保たれるかを測定しました。"
+        }
+      ],
+      "notes": [
+        "一般的な保持は不可算で、通常 a retention・many retentions とはしない。a retention period の a は period に付く。単数可算の retainment を作って置き換える必要はなく、動詞なら retain the records、名詞なら retention of the records。retention は保管作業だけでなく、権利や特徴が維持されることにも使う。water retention in soil は中立的な保水、語義4の water retention in the body は医学的な水分貯留として読む。クロマトグラフィーの retention time「保持時間」は、通常、試料を注入してから対象成分のピーク頂点が検出されるまでの時間を指す。一方、記録などについての retention period は保存期間。人の頭の中に残る情報は語義3。"
+      ],
+      "synonyms": [
+        {
+          "word": "preservation",
+          "definition": "物や状態が失われたり損なわれたりしないように保つこと。",
+          "frequency": 7,
+          "difference": "保護して良好な状態を維持することを強調する。retention は対象を残すという事実に焦点を置き、劣化防止を必須としない。",
+          "example": "The project supports the preservation of historic buildings.",
+          "translation": "その事業は歴史的建造物の保存を支援します。"
+        },
+        {
+          "word": "maintenance",
+          "definition": "ある状態・水準を保つことや、そのための継続的な管理。",
+          "frequency": 8,
+          "difference": "保守・手入れなどの活動を含めて表しやすい。retention は権利や熱などを失わず保持することにも使える。",
+          "example": "Regular maintenance keeps the equipment in good condition.",
+          "translation": "定期的な保守によって、設備は良好な状態に保たれます。"
+        },
+        {
+          "word": "storage",
+          "definition": "物や情報を後で利用できるよう保管すること。",
+          "frequency": 8,
+          "difference": "保管場所・方法にも焦点を置く。data retention は何をどのくらい残すかという継続性に焦点を置きやすい。",
+          "example": "The new system provides secure storage for archived documents.",
+          "translation": "新しいシステムは、保存文書を安全に保管できます。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・不可算】人材の定着・顧客の維持",
+      "frequency": 7,
+      "register": [
+        "人事・経営・マーケティング・教育。"
+      ],
+      "definition": "従業員・顧客・会員・学生などが、組織に在籍したりサービスを利用したりする関係を続けること、またはそのように残ってもらうこと。新しく獲得する段階ではなく、すでにある関係の継続に焦点を置く。",
+      "patterns": [
+        "employee retention",
+        "staff retention",
+        "customer retention",
+        "retention of 〈人々〉",
+        "improve retention",
+        "a retention rate of 〈割合〉",
+        "student retention",
+        "a retention bonus。"
+      ],
+      "collocations": [
+        {
+          "pattern": "employee retention",
+          "use": "従業員に勤め続けてもらうことを述べる。",
+          "example": "Better career development opportunities have improved employee retention.",
+          "translation": "キャリア形成の機会が充実し、従業員の定着が進みました。"
+        },
+        {
+          "pattern": "customer retention",
+          "use": "既存顧客との関係を維持することを表す。",
+          "example": "Reliable support is central to our customer retention strategy.",
+          "translation": "信頼できるサポートは、当社の顧客維持戦略の中心です。"
+        },
+        {
+          "pattern": "retention of 〈人々〉",
+          "use": "どの人々を引き留めるかを明示する。",
+          "example": "The retention of experienced technicians is essential for the project.",
+          "translation": "そのプロジェクトには、経験豊富な技術者に残ってもらうことが欠かせません。"
+        },
+        {
+          "pattern": "a retention rate of 〈割合〉",
+          "use": "一定の対象集団で関係を続けた割合を示す。",
+          "example": "The programme achieved a one-year retention rate of ninety percent.",
+          "translation": "そのプログラムの1年間の継続率は90パーセントでした。"
+        },
+        {
+          "pattern": "student retention",
+          "use": "大学などで、学生が在籍・学業を続けることを指す。",
+          "example": "The university improved student retention by expanding first-year support.",
+          "translation": "その大学は初年次の支援を拡充して、学生の在籍継続率を高めました。"
+        },
+        {
+          "pattern": "a retention bonus",
+          "use": "一定期間勤め続けることを促す報奨金を指す。",
+          "example": "The company offered a retention bonus to staff who stayed until the project ended.",
+          "translation": "会社は、プロジェクト終了まで残った職員に慰留のための報奨金を提示しました。"
+        }
+      ],
+      "notes": [
+        "recruitment は人を新たに募る活動、retention は既存の人との関係を保つこと。customer acquisition と customer retention も、新規獲得と継続維持の対照である。retention rate と attrition rate・churn rate が厳密に補完関係になるかは、対象・期間・算定方法次第なので、語の意味だけで計算しない。大学で student retention は在籍継続を指すことが多いが、初等・中等教育では同じ表現が留年を指すこともある。学年を繰り返す意味が明確なのは語義7の grade retention。retention bonus は通常の基本給と同じではなく、支給条件は制度を確認する。"
+      ],
+      "synonyms": [
+        {
+          "word": "continuation",
+          "definition": "活動や関係などが途切れず続くこと。",
+          "frequency": 7,
+          "difference": "retention より広い。人材・顧客を組織側が維持する含みを必ずしも持たない。",
+          "example": "Funding is necessary for the continuation of the programme.",
+          "translation": "プログラムの継続には資金が必要です。"
+        },
+        {
+          "word": "persistence",
+          "definition": "学業・活動などを途中でやめず続けること。",
+          "frequency": 5,
+          "difference": "特に教育では学ぶ人自身の継続に焦点を置く。retention は特定の組織への在籍を軸に定義される場合がある。",
+          "example": "The study examined persistence in higher education.",
+          "translation": "その研究は、高等教育で学び続けることを調べました。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "attrition",
+          "definition": "従業員・参加者などが離れて減っていくこと。",
+          "frequency": 6,
+          "difference": "同じ集団について残るか離れるかという状態・方向の反対。指標の算定方法まで自動的に同じになるわけではない。",
+          "example": "The company is trying to reduce attrition among new hires.",
+          "translation": "会社は新規採用者の離職を減らそうとしています。"
+        },
+        {
+          "word": "churn",
+          "definition": "顧客が契約・利用をやめて離れること。",
+          "frequency": 5,
+          "difference": "顧客関係の継続と離脱という方向で対立する。特に継続課金サービスなどで使い、人材の定着すべての反対語としては扱わない。",
+          "example": "The new support service helped reduce customer churn.",
+          "translation": "新しいサポートサービスは、顧客の解約を減らすのに役立ちました。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【名詞・不可算】記憶保持・記憶力",
+      "frequency": 6,
+      "register": [
+        "教育・心理学・学習の説明。"
+      ],
+      "definition": "学んだことや経験したことが記憶に残ること、またはそれを覚えておく能力。情報を新しく学ぶ段階そのものや、必要なときに思い出す行為とは区別される。",
+      "patterns": [
+        "retention of 〈情報・学習内容〉",
+        "memory retention",
+        "long-term retention",
+        "improve retention",
+        "poor retention of 〈内容〉。"
+      ],
+      "collocations": [
+        {
+          "pattern": "retention of 〈学習内容〉",
+          "use": "何を覚えたままにしておくかを示す。",
+          "example": "The course includes short quizzes to support retention of key concepts.",
+          "translation": "その講座には、重要な概念の記憶定着を助ける短い小テストが含まれています。"
+        },
+        {
+          "pattern": "memory retention",
+          "use": "情報が記憶に残ることを明示する。",
+          "example": "The experiment compared memory retention after two different study tasks.",
+          "translation": "その実験は、二つの異なる学習課題を行った後の記憶保持を比較しました。"
+        },
+        {
+          "pattern": "long-term retention",
+          "use": "長い期間にわたり覚えていることを述べる。",
+          "example": "The follow-up test measured long-term retention of the vocabulary.",
+          "translation": "追跡テストでは、その語彙が長期にわたって記憶されているかを測定しました。"
+        },
+        {
+          "pattern": "poor retention of 〈内容〉",
+          "use": "覚えた内容が残りにくいことを示す。",
+          "example": "He reported poor retention of names despite remembering people's faces.",
+          "translation": "彼は人の顔は覚えているのに、名前がなかなか記憶に残らないと述べました。"
+        }
+      ],
+      "notes": [
+        "retention は情報を保っていること、recall はその情報を思い出すこと。思い出せない一場面だけから、何も記憶に残っていないと同義にはしない。情報そのものの保管は語義1の data retention、学習者の頭に残ることは本語義。記憶力のよい人には a retentive memory という形容詞の表現があるが、a retention person とはしない。"
+      ],
+      "synonyms": [
+        {
+          "word": "memory",
+          "definition": "経験や情報を覚えておく能力。",
+          "frequency": 9,
+          "difference": "記憶の仕組み・能力全般に使う。retention は学んだものが時間の経過後も残る側面を特に示す。",
+          "example": "She has an excellent memory for dates.",
+          "translation": "彼女は日付を覚えるのがとても得意です。"
+        },
+        {
+          "word": "retentiveness",
+          "definition": "情報などをよく保持する性質・能力。",
+          "frequency": 3,
+          "difference": "retention が保持の過程や状態も表すのに対し、retentiveness は能力・性質を明示するやや硬い語。",
+          "example": "The writer was known for the remarkable retentiveness of his memory.",
+          "translation": "その作家は、記憶を驚くほどよく保持することで知られていました。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・不可算】体液などの貯留",
+      "frequency": 5,
+      "register": [
+        "医学・健康の説明。異常な保持を表す専門義。"
+      ],
+      "definition": "体内の水分や、本来排出される尿などが過剰に残ること。fluid retention・water retention は体液・水分の貯留、urinary retention は膀胱の尿を十分に排出できない尿閉を指す。",
+      "patterns": [
+        "fluid retention",
+        "water retention",
+        "urinary retention",
+        "retention of urine",
+        "signs of fluid retention。"
+      ],
+      "collocations": [
+        {
+          "pattern": "fluid retention",
+          "use": "体内に体液がたまることを表す。",
+          "example": "The doctor checked the patient's ankles for signs of fluid retention.",
+          "translation": "医師は、体液貯留の兆候がないか患者の足首を調べました。"
+        },
+        {
+          "pattern": "water retention",
+          "use": "体内に余分な水分が残ることを述べる。",
+          "example": "The nurse explained that water retention could contribute to the swelling.",
+          "translation": "看護師は、水分貯留がむくみの一因になり得ると説明しました。"
+        },
+        {
+          "pattern": "urinary retention",
+          "use": "膀胱を十分に空にできない状態を指す。",
+          "example": "The examination confirmed urinary retention despite the patient's ability to pass small amounts of urine.",
+          "translation": "患者は少量の尿を出せていましたが、検査で尿閉が確認されました。"
+        }
+      ],
+      "notes": [
+        "urinary retention は完全に一滴も排尿できない場合だけでなく、膀胱を十分に空にできない場合を含む。尿そのものが作られない anuria「無尿」とは異なる。fluid retention は体液が余分に残ること、edema は組織への体液蓄積によるむくみ・浮腫を指すので、いつでも完全に同じ語として置き換えない。土壌の water retention は語義1の保水で、異常・病気という意味を含まない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞・不可算／可算】支払留保・留保金",
+      "frequency": 3,
+      "register": [
+        "建設・契約・会計。英国などで用い、米国の建設では retainage も一般的。"
+      ],
+      "definition": "工事などの契約で、完成や欠陥の是正などを確保するため、支払う金額の一部を一定の条件が満たされるまで差し控えること。また、その差し控えられた金額。",
+      "patterns": [
+        "a retention of 〈金額・割合〉",
+        "retention money",
+        "release the retention",
+        "outstanding retentions。制度・行為は不可算、個別の留保金は a retention・retentions と数えることがある。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a retention of 〈割合〉",
+          "use": "契約で差し控える支払額の割合を示す。",
+          "example": "This contract provides for a retention of five percent from each interim payment.",
+          "translation": "この契約では、各中間支払いから5パーセントを留保することになっています。"
+        },
+        {
+          "pattern": "release the retention",
+          "use": "留保していた金額を条件に従って支払う。",
+          "example": "The client released the retention after the contractor met the agreed conditions.",
+          "translation": "請負業者が合意した条件を満たした後、発注者は留保金を支払いました。"
+        },
+        {
+          "pattern": "outstanding retentions",
+          "use": "まだ支払われていない複数の留保金を指す。",
+          "example": "The accounts team reviewed the outstanding retentions on completed projects.",
+          "translation": "経理チームは、完了済みの工事で未払いとなっている留保金を確認しました。"
+        }
+      ],
+      "notes": [
+        "ここでの retention は履行確保などのための支払留保で、報酬を追加する retention bonus「慰留報奨金」とは別。割合・支払時期・保管方法は契約や法域で異なり、例文の5パーセントを一般的な必須率とはしない。retentions はこの意味で留保金を数えられるが、語義8では社内に残した利益を指す。専門家の役務を確保する retainer とも区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "retainage",
+          "definition": "工事などの履行確保のために差し控えられる支払金。",
+          "frequency": 3,
+          "difference": "本語義に近く、特に米国の建設契約で使う。具体的な返還・支払い条件は名称だけでは決まらない。",
+          "example": "The contractor requested payment of the remaining retainage.",
+          "translation": "請負業者は、残っている留保金の支払いを求めました。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【名詞・不可算／可算】リスク保有・自己保有額",
+      "frequency": 3,
+      "register": [
+        "保険・再保険・企業のリスク管理。"
+      ],
+      "definition": "保険・リスク管理で、損失の負担を他者に移転せず、自ら引き受けておくこと、またはその金額・部分。再保険では、元受保険会社が再保険会社に移さず保有する責任部分を指す。",
+      "patterns": [
+        "risk retention",
+        "the insurer's retention",
+        "a retention of 〈金額〉",
+        "a self-insured retention",
+        "a retention level。保有という方式は不可算、特定の保有額・保有部分は可算にもなる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "risk retention",
+          "use": "損失リスクを自ら負担する方針を示す。",
+          "example": "The company uses risk retention for some small, predictable losses.",
+          "translation": "その会社は、予測しやすい小規模な損失の一部を自ら負担しています。"
+        },
+        {
+          "pattern": "the insurer's retention",
+          "use": "再保険に移さず元受会社側に残す部分を指す。",
+          "example": "The agreement specifies the insurer's retention before describing the reinsurance cover.",
+          "translation": "その契約は、再保険の補償範囲を説明する前に、元受保険会社の保有部分を定めています。"
+        },
+        {
+          "pattern": "a self-insured retention",
+          "use": "被保険者側が負担する保有額を示す。",
+          "example": "The policy includes a self-insured retention of \\$50,000.",
+          "translation": "その保険契約には、被保険者側が負担する5万ドルの自己保有額が設けられています。"
+        }
+      ],
+      "notes": [
+        "誰が保有するかを確認する。企業の risk retention は企業自身の負担、再保険の retention は元受保険会社に残る負担を表す。retention は保有額・保有割合などで定められ、すべてが deductible「免責金額」と制度上同じではない。self-insured retention の適用、費用負担、保険会社が支払う条件は契約次第であり、単語だけから一律の請求処理を導かない。留保金を預かる語義5と違い、ここで残すのは損失への負担である。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【名詞・不可算】留年・原級留置",
+      "frequency": 3,
+      "register": [
+        "主に米国の初等・中等教育、教育政策。grade retention と明示することが多い。"
+      ],
+      "definition": "生徒を次の学年に進ませず、同じ学年をもう一度履修させること。本人が学校に通い続けるという意味ではなく、学年段階を繰り返す措置を指す。",
+      "patterns": [
+        "grade retention",
+        "retention in 〈学年〉",
+        "a grade retention policy",
+        "promotion and retention。"
+      ],
+      "collocations": [
+        {
+          "pattern": "grade retention",
+          "use": "同じ学年を繰り返させる措置を明確にする。",
+          "example": "The study compared grade retention with promotion to the next grade.",
+          "translation": "その研究は、留年と次の学年への進級を比較しました。"
+        },
+        {
+          "pattern": "retention in 〈学年〉",
+          "use": "どの学年にとどめるかを示す。",
+          "example": "The school discussed retention in third grade with the family.",
+          "translation": "学校は、その生徒を3年生に留年させることについて家族と話し合いました。"
+        }
+      ],
+      "notes": [
+        "大学などでいう student retention は語義2の在籍継続を指すことが多いが、学校制度によっては同じ表現が留年を指す。文脈が曖昧なら grade retention と書くと明確。promotion はここでは「進級」で、職場の昇進ではない。措置の条件や教育上の効果は、この語の意味とは別の問題である。"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "promotion",
+          "definition": "生徒を次の学年へ進ませること。",
+          "frequency": 4,
+          "difference": "同じ学年にとどめるか次へ進ませるかという方向・処遇の反対。この対立は学校の進級という語義に限る。",
+          "example": "Promotion to the next grade depends on the school's stated criteria.",
+          "translation": "次の学年への進級は、学校が示す基準によって決まります。"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "【名詞・複数形 retentions】留保利益",
+      "frequency": 2,
+      "register": [
+        "会計・企業財務の専門用法。一般的な保持の複数形という感覚だけでは意味を取りにくい。"
+      ],
+      "definition": "会計・企業財務で、配当として分配せず会社の内部に残した利益。retained profits・retained earnings と表すほうが広く通じる。",
+      "patterns": [
+        "corporate retentions",
+        "finance investment from retentions",
+        "dividends and retentions。通常、この意味では複数形を使う。"
+      ],
+      "collocations": [
+        {
+          "pattern": "corporate retentions",
+          "use": "配当されず社内に残された企業利益を指す。",
+          "example": "The report compares dividend payments with corporate retentions.",
+          "translation": "その報告書は、配当支払いと企業の留保利益を比較しています。"
+        },
+        {
+          "pattern": "finance investment from retentions",
+          "use": "留保した利益を投資資金に用いることを述べる。",
+          "example": "The firm financed part of its investment from retentions.",
+          "translation": "その企業は、投資資金の一部を留保利益で賄いました。"
+        }
+      ],
+      "notes": [
+        "利益を社内に残したということで、同額の現金が銀行口座に置かれているとは限らない。留保利益が設備などに投じられている場合もある。建設契約の未払留保金である語義5の retentions と混同しない。一般読者向けには retained profits・retained earnings と書けば意味が明確。"
+      ],
+      "synonyms": [
+        {
+          "word": "retained profits",
+          "definition": "会社が配当せず内部に残した利益。",
+          "frequency": 4,
+          "difference": "本語義の retentions をより明示的に表す。何を留保したかが profits から分かる。",
+          "example": "Retained profits helped fund the company's expansion.",
+          "translation": "留保利益は、会社の事業拡大の資金に役立ちました。"
+        },
+        {
+          "word": "retained earnings",
+          "definition": "配当などで分配せず企業に蓄積された利益。",
+          "frequency": 5,
+          "difference": "会計では累積した利益剰余金を指す標準的な表現。retentions がある期間の内部留保額を指す場合、期間・残高の違いを確認する。",
+          "example": "The balance sheet shows an increase in retained earnings.",
+          "translation": "貸借対照表には、利益剰余金の増加が示されています。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
