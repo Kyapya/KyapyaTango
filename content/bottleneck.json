@@ -1,0 +1,463 @@
+{
+  "word": "bottleneck",
+  "slug": "bottleneck",
+  "ipa": "米: /ˈbɑː.t̬əl.nek/｜英: /ˈbɒt.əl.nek/。3音節で、第1音節に強勢がある。示した米英差は、第1音節の母音 /ɑː/ と /ɒ/、および bottle 部分の /t/ が米音で舌先を軽く弾く /t̬/ になる点。米音の表記では /t̬/ を第2音節の初めに示している。第2音節の母音は弱い /ə/。複数形 bottlenecks は語末が /ks/、bottlenecked は /kt/。",
+  "lead": "工程・組織・システムなどの流れを遅らせたり止めたりする箇所、段階、人、資源不足など。製造・ITでは、そこが全体の処理能力を制限していることを特に意識する。一般語では、厳密な処理量の測定がなくても進行上の障害や行き詰まりを指せる。",
+  "updated": "2026-10-15",
+  "notion_url": "https://app.notion.com/p/bottleneck-3fa4faa9b77d81448cc6d456e3ee66d4",
+  "pronunciation": [],
+  "etymology": [
+    "bottle「瓶」と neck「首・細くなった部分」の複合語。瓶の首の細さから、交通や処理の流れがそこで制限される箇所を表す。音楽の用法は、切り離した瓶の首をギターの弦に当てる奏法に由来する。neck を共有する neckline「襟ぐり」、bottle を共有する bottling「瓶詰め」と形を結び付けられるが、意味を混同しない。"
+  ],
+  "formation": [
+    {
+      "term": "bottlenecks",
+      "description": "名詞の複数形、または動詞の三人称単数現在形。"
+    },
+    {
+      "term": "bottlenecked",
+      "description": "・bottlenecking：動詞の過去形・過去分詞、現在分詞。be bottlenecked by 〈原因〉は「その原因で流れを妨げられる」。"
+    },
+    {
+      "term": "bottleneck effect",
+      "description": "複合名詞。集団遺伝学の「ボトルネック効果」。単なる業務上の遅延とは区別する。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "核は「瓶の細い首の部分」。流れがその部分で絞られる比喩と、その部分を演奏道具にする用法に分かれる。"
+    },
+    {
+      "type": "item",
+      "text": "細い首のように工程を制限する要因 → 「進行を妨げる箇所・処理能力を制限する要因」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "細い首のように交通を制限する箇所 → 「交通の隘路・渋滞の発生箇所」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "細い首のような制約を生じさせる作用 → 「流れを滞らせる・処理の障害になる」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "細い首のような箇所で生じる停滞 → 「流れが詰まる・進行が滞る」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "細い首のような少数個体への絞り込み → 「集団のボトルネック・個体数の著しい減少」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "細い首に当たる瓶の実際の部分 → 「瓶の首・瓶口の細い部分」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "細い首の部分を道具にするギター演奏 → 「ボトルネック奏法・その奏法の」（語義7）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算】進行を妨げる箇所・処理能力を制限する要因",
+      "frequency": 7,
+      "register": [
+        "ビジネス・生産管理・IT・行政。"
+      ],
+      "definition": "工程・組織・システムなどの流れを遅らせたり止めたりする箇所、段階、人、資源不足など。製造・ITでは、そこが全体の処理能力を制限していることを特に意識する。一般語では、厳密な処理量の測定がなくても進行上の障害や行き詰まりを指せる。",
+      "patterns": [
+        "a bottleneck in 〈工程・システム〉",
+        "a bottleneck at 〈処理段階〉",
+        "create・cause a bottleneck",
+        "identify・eliminate・ease a bottleneck",
+        "a bottleneck to 〈進展〉。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a bottleneck in 〈工程〉",
+          "use": "どの流れに障害があるかを示す。",
+          "example": "Manual data entry has become a bottleneck in the billing process.",
+          "translation": "手作業でのデータ入力が、請求処理のボトルネックになっています。"
+        },
+        {
+          "pattern": "a bottleneck at 〈段階〉",
+          "use": "流れが制限される具体的な地点を示す。",
+          "example": "We found a bottleneck at the final approval stage.",
+          "translation": "最終承認の段階で流れが滞っていることが分かりました。"
+        },
+        {
+          "pattern": "create a bottleneck",
+          "use": "ある要因が全体の進行を遅らせることを述べる。",
+          "example": "Routing every request through one manager creates a bottleneck.",
+          "translation": "すべての依頼を一人の管理者に回すと、処理が滞ります。"
+        },
+        {
+          "pattern": "identify and eliminate bottlenecks",
+          "use": "障害箇所を見つけて解消する。",
+          "example": "The team identified and eliminated two bottlenecks in the production line.",
+          "translation": "チームは生産ラインのボトルネックを2か所特定し、解消しました。"
+        },
+        {
+          "pattern": "a performance bottleneck",
+          "use": "システム全体の性能を制限する部分を指す。",
+          "example": "Slow disk access was the main performance bottleneck.",
+          "translation": "ディスクへのアクセスの遅さが、性能を制限する主な原因でした。"
+        },
+        {
+          "pattern": "a bottleneck to 〈進展〉",
+          "use": "何の進展を妨げる要因かを示す。",
+          "example": "A shortage of trained staff is a bottleneck to expansion.",
+          "translation": "訓練を受けた職員の不足が、事業拡大の足かせになっています。"
+        }
+      ],
+      "notes": [
+        "主な形は a bottleneck in the process。bottleneck 自体は可算なので、a major bottleneck・several bottlenecks とする。技術的には「遅い部分」がすべて現在の bottleneck とは限らず、全体の処理量を制限しているかが問題になる。IT用語でも CPU に限定されず、通信・記憶装置・設計上の制約などに使う。a backlog はたまった未処理案件、a bottleneck は流れを妨げる箇所・要因で、原因と結果を区別する。「障害がある」だけなら obstacle、資源・制度上の制約なら constraint が合う場合もある。"
+      ],
+      "synonyms": [
+        {
+          "word": "obstacle",
+          "definition": "進行や達成を妨げる障害。",
+          "frequency": 8,
+          "difference": "bottleneck より広く、処理や流れの一部が詰まる構造を必ずしも含まない。",
+          "example": "Lack of funding remains an obstacle to the project.",
+          "translation": "資金不足が依然として計画の障害になっています。"
+        },
+        {
+          "word": "constraint",
+          "definition": "行動・数量・能力などを制限する条件。",
+          "frequency": 7,
+          "difference": "上限や制約を表し、現時点で進行を滞らせているとは限らない。",
+          "example": "Limited storage is a constraint on the system.",
+          "translation": "保存容量の少なさが、そのシステムの制約になっています。"
+        },
+        {
+          "word": "choke point",
+          "definition": "流れが集中し、制限・妨害されやすい箇所。",
+          "frequency": 4,
+          "difference": "地理・物流・ネットワークなどの要所を強く意識する。bottleneck は人員不足や承認段階にも広く使う。",
+          "example": "The narrow channel is a strategic choke point.",
+          "translation": "その狭い水路は、戦略上の要所です。"
+        },
+        {
+          "word": "impasse",
+          "definition": "交渉や話し合いが進まなくなった状態。",
+          "frequency": 5,
+          "difference": "停滞の状態に重点がある。bottleneck は工程の一部が進行を妨げるという捉え方にも使える。",
+          "example": "The negotiations reached an impasse over costs.",
+          "translation": "交渉は費用をめぐって行き詰まりました。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算】交通の隘路・渋滞の発生箇所",
+      "frequency": 6,
+      "register": [
+        "交通・都市・物流。"
+      ],
+      "definition": "道路の狭い部分、合流点など、車や人の流れがそこで遅くなったり止まったりする場所。また、その場所に生じる滞り。物理的に道幅が狭くなる場合に限らず、交通が集中する交差点などにも使う。",
+      "patterns": [
+        "a traffic bottleneck",
+        "a bottleneck on 〈道路〉",
+        "a bottleneck at 〈場所〉",
+        "cause・clear・ease a bottleneck。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a traffic bottleneck",
+          "use": "交通が集中・停滞する箇所を示す。",
+          "example": "The bridge is a traffic bottleneck during the morning rush.",
+          "translation": "その橋は朝のラッシュ時に渋滞が起きる箇所です。"
+        },
+        {
+          "pattern": "a bottleneck on 〈道路〉",
+          "use": "問題のある道路を示す。",
+          "example": "Roadworks created a bottleneck on the main highway.",
+          "translation": "道路工事のため、幹線道路の一部で流れが滞りました。"
+        },
+        {
+          "pattern": "a bottleneck at 〈場所〉",
+          "use": "滞りが発生する地点を示す。",
+          "example": "A bottleneck formed at the station entrance after the concert.",
+          "translation": "コンサート後、駅の入口で人の流れが滞りました。"
+        },
+        {
+          "pattern": "ease a bottleneck",
+          "use": "詰まりを緩和することを述べる。",
+          "example": "Opening a second lane helped ease the bottleneck.",
+          "translation": "もう1車線を開放したことで、渋滞の緩和につながりました。"
+        }
+      ],
+      "notes": [
+        "traffic jam は渋滞そのもの、bottleneck は渋滞を生む地点に焦点を当てることが多い。ただし辞書上はその地点の滞りも指すため、両者が絶対に重ならないとは言わない。bottleneck は「細い首」という比喩だが、事故や合流で流れが制限される場所にも使える。"
+      ],
+      "synonyms": [
+        {
+          "word": "traffic jam",
+          "definition": "車が詰まって十分に進めない状態。",
+          "frequency": 7,
+          "difference": "場所の構造や原因よりも、車の列と遅れを表す。",
+          "example": "We were stuck in a traffic jam for an hour.",
+          "translation": "私たちは渋滞で1時間動けませんでした。"
+        },
+        {
+          "word": "pinch point",
+          "definition": "通路や流れが狭められ、通行が集中する箇所。",
+          "frequency": 4,
+          "difference": "狭さ・局所的な制限を強調し、混雑がまだ起きていない箇所にも使う。",
+          "example": "The narrow doorway is a pinch point for visitors.",
+          "translation": "その狭い出入口は、来場者が集中する箇所です。"
+        },
+        {
+          "word": "congestion",
+          "definition": "車や人などが密集して流れが悪い状態。",
+          "frequency": 7,
+          "difference": "通常不可算。bottleneck のように一つの障害地点を数える語ではない。",
+          "example": "The new route reduced congestion in the center.",
+          "translation": "新しい経路によって中心部の混雑が減りました。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞・他動詞】流れを滞らせる・処理の障害になる",
+      "frequency": 4,
+      "register": [
+        "技術・業務上の説明。名詞用法より限定的。"
+      ],
+      "definition": "交通・生産・情報処理などに制約点を生じさせ、進行や処理量を抑える。原因となるものを主語、影響を受ける流れや活動を目的語にする。",
+      "patterns": [
+        "〈原因〉 + bottleneck + 〈処理・活動〉",
+        "be bottlenecked by 〈制約要因〉",
+        "be bottlenecked at 〈段階〉。"
+      ],
+      "collocations": [
+        {
+          "pattern": "〈原因〉 + bottleneck + 〈活動〉",
+          "use": "原因が全体の進行を妨げることを表す。",
+          "example": "The single approval desk bottlenecks the entire application process.",
+          "translation": "承認窓口が一つしかないため、申請処理全体が滞ります。"
+        },
+        {
+          "pattern": "be bottlenecked by 〈制約要因〉",
+          "use": "制約される側を主語にする。",
+          "example": "Data processing is bottlenecked by slow storage.",
+          "translation": "データ処理は記憶装置の遅さによって制限されています。"
+        },
+        {
+          "pattern": "be bottlenecked at 〈段階〉",
+          "use": "滞る工程上の位置を示す。",
+          "example": "Production was bottlenecked at the packaging stage.",
+          "translation": "生産は包装の段階で滞っていました。"
+        }
+      ],
+      "notes": [
+        "The server bottlenecks the system. は server が原因、system が影響を受ける側。The system is bottlenecked by the server. が対応する受動態。be bottlenecked は原因によって制限された状態を表すが、独立した心理的・評価的な形容詞義を加える必要はない。語義4の自動詞では目的語を取らない。"
+      ],
+      "synonyms": [
+        {
+          "word": "impede",
+          "definition": "進行・動作を妨げる。",
+          "frequency": 6,
+          "difference": "流れの制約点に限定されない、やや硬い一般語。",
+          "example": "Outdated rules impede innovation.",
+          "translation": "時代遅れの規則が革新を妨げています。"
+        },
+        {
+          "word": "constrain",
+          "definition": "範囲・能力・行動を制限する。",
+          "frequency": 6,
+          "difference": "処理が詰まるという比喩はなく、選択肢や資源の上限にも使う。",
+          "example": "Limited bandwidth constrains the system's capacity.",
+          "translation": "帯域幅の小ささがシステムの能力を制限しています。"
+        },
+        {
+          "word": "hold up",
+          "definition": "進行を遅らせる・止める。",
+          "frequency": 7,
+          "difference": "より会話的。ボトルネック構造を説明せず、遅延だけを示せる。",
+          "example": "A missing signature held up the payment.",
+          "translation": "署名が一つ欠けていたため、支払いが遅れました。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞・自動詞】流れが詰まる・進行が滞る",
+      "frequency": 3,
+      "register": [
+        "米語を中心とする交通・技術・業務の記述。名詞や受動態より限られる。"
+      ],
+      "definition": "交通や処理の流れが、狭い場所や能力の足りない段階で滞る。滞る流れそのものが主語になる。",
+      "patterns": [
+        "〈交通・処理の流れ〉 + bottleneck at 〈場所・段階〉",
+        "〈交通〉 + bottleneck where 〈節〉。"
+      ],
+      "collocations": [
+        {
+          "pattern": "〈交通〉 + bottleneck where 〈節〉",
+          "use": "流れが詰まる場所の条件を述べる。",
+          "example": "Traffic bottlenecks where the two lanes merge.",
+          "translation": "2車線が合流する所で交通が滞ります。"
+        },
+        {
+          "pattern": "〈処理〉 + bottleneck at 〈段階〉",
+          "use": "処理が集中する段階で停滞することを述べる。",
+          "example": "Applications tend to bottleneck at the final review stage.",
+          "translation": "申請は最終審査の段階で滞りがちです。"
+        }
+      ],
+      "notes": [
+        "Traffic bottlenecks. は「交通が滞る」で、自動詞。The lane closure bottlenecks traffic. は「車線閉鎖が交通を滞らせる」で、他動詞。自動詞用法を未知の読者にも明確にしたいときは Traffic slows to a crawl. や A bottleneck forms. と言い換えられる。"
+      ],
+      "synonyms": [
+        {
+          "word": "back up",
+          "definition": "交通や作業が後方にたまり、列や滞留が生じる。",
+          "frequency": 6,
+          "difference": "たまっていく結果を強調し、必ず狭い地点を指定するとは限らない。",
+          "example": "Traffic backed up for several miles.",
+          "translation": "車の列は数マイルにわたって延びました。"
+        },
+        {
+          "word": "stall",
+          "definition": "進行が止まる・停滞する。",
+          "frequency": 6,
+          "difference": "流れの集中や狭い箇所がなくても使える。",
+          "example": "Negotiations stalled over the final terms.",
+          "translation": "最終条件をめぐって交渉が停滞しました。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞・可算】集団のボトルネック・個体数の著しい減少",
+      "frequency": 3,
+      "register": [
+        "集団遺伝学・進化・保全生物学。"
+      ],
+      "definition": "生物の集団の個体数が著しく減少し、少数の個体を通して次世代へ遺伝的構成が引き継がれること。遺伝的浮動によって遺伝的多様性が失われる可能性が高まる。個体数がその後回復しても、失われた多様性が同じように戻るとは限らない。",
+      "patterns": [
+        "a population bottleneck",
+        "a genetic bottleneck",
+        "undergo・experience a bottleneck",
+        "the bottleneck effect。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a population bottleneck",
+          "use": "生物集団の大幅な縮小を指す。",
+          "example": "Heavy hunting caused a severe population bottleneck in the seals.",
+          "translation": "激しい狩猟によって、そのアザラシの集団の個体数は著しく減少しました。"
+        },
+        {
+          "pattern": "undergo a genetic bottleneck",
+          "use": "遺伝的構成が少数の生存個体を経由することを示す。",
+          "example": "The isolated population underwent a genetic bottleneck after the epidemic.",
+          "translation": "その孤立した集団は、流行病の後に遺伝的ボトルネックを経験しました。"
+        },
+        {
+          "pattern": "the bottleneck effect",
+          "use": "集団縮小による遺伝的影響を指す。",
+          "example": "The bottleneck effect can leave a population with less genetic variation.",
+          "translation": "ボトルネック効果によって、集団の遺伝的多様性が低下することがあります。"
+        }
+      ],
+      "notes": [
+        "通常の「処理の障害」という意味とは分ける。多様性の減少を一律の程度や確実な結果として断定せず、集団縮小に伴う遺伝的浮動と関係付ける。founder effect「創始者効果」は少数個体が新集団を形成する場合で、関連するが、既存集団が急減する bottleneck と常に同じ出来事ではない。genetic drift「遺伝的浮動」は仕組みの名称で、bottleneck 自体の同義語ではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【名詞・可算】瓶の首・瓶口の細い部分",
+      "frequency": 2,
+      "register": [
+        "物の構造の説明・ギター。日常の物理的な瓶の首には the neck of a bottle も使う。"
+      ],
+      "definition": "瓶の胴から口へ向かって細くなった部分。音楽では、その部分を切り離し、指にはめて弦に当てる道具を指すこともある。",
+      "patterns": [
+        "a narrow bottleneck",
+        "a glass bottleneck",
+        "slide a bottleneck along the strings。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a narrow bottleneck",
+          "use": "瓶の細い部分を字義どおり指す。",
+          "example": "The brush was too wide to pass through the narrow bottleneck.",
+          "translation": "そのブラシは太すぎて、瓶の細い首の部分を通りませんでした。"
+        },
+        {
+          "pattern": "slide a bottleneck along the strings",
+          "use": "瓶の首を使った演奏道具を指す。",
+          "example": "He slid a glass bottleneck along the guitar strings.",
+          "translation": "彼はガラス製の瓶の首をギターの弦に沿って滑らせました。"
+        }
+      ],
+      "notes": [
+        "語義1・2の比喩と区別するには bottle・glass・brush・strings などの文脈が重要。ギター用具としては slide が広い呼び名で、現在のスライドはガラス・金属などで作られ、実際の瓶から切り取ったものとは限らない。"
+      ],
+      "synonyms": [
+        {
+          "word": "neck",
+          "definition": "瓶・容器などの口に続く細くなった部分。",
+          "frequency": 5,
+          "difference": "the neck of the bottle という形で物を特定する。人の首など他の意味も広い。",
+          "example": "The label is wrapped around the neck of the bottle.",
+          "translation": "ラベルは瓶の首の周りに巻かれています。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【名詞・不可算／形容詞・限定用法】ボトルネック奏法・その奏法の",
+      "frequency": 2,
+      "register": [
+        "音楽・特にブルース。"
+      ],
+      "definition": "ギターの弦に瓶の首や筒状のスライドなどを当てて滑らせ、音の高さを連続的に変える奏法。名詞では奏法を、bottleneck guitar・bottleneck style などの限定修飾ではその奏法に関わることを表す。",
+      "patterns": [
+        "play bottleneck＝ボトルネック奏法で弾く",
+        "bottleneck guitar＝その奏法・その奏法によるギター演奏",
+        "bottleneck style＝その奏法によるスタイル。限定修飾は程度比較を通常行わない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "play bottleneck",
+          "use": "不可算名詞で奏法を示す。",
+          "example": "She learned to play bottleneck after years of fingerstyle guitar.",
+          "translation": "彼女は長年フィンガースタイルでギターを弾いた後、ボトルネック奏法を学びました。"
+        },
+        {
+          "pattern": "bottleneck guitar",
+          "use": "限定修飾で演奏様式を示す。",
+          "example": "The recording features expressive bottleneck guitar.",
+          "translation": "その録音では、表情豊かなボトルネック奏法のギター演奏が聴けます。"
+        }
+      ],
+      "notes": [
+        "play a bottleneck では道具を数える解釈になりやすく、奏法自体は play bottleneck・play bottleneck guitar。瓶の首を使用する由来はあるが、金属などのスライドを使う演奏にも広がる。弦を通常の指押さえと同じように指板へ強く押し付けることが定義ではなく、スライドを弦に当てて音程を変える。"
+      ],
+      "synonyms": [
+        {
+          "word": "slide guitar",
+          "definition": "スライドを弦に当てて音程を変えるギター奏法。",
+          "frequency": 3,
+          "difference": "bottleneck guitar と大きく重なる一般的な名称で、瓶の首という素材のイメージを伴わない。",
+          "example": "Slide guitar gives the song a fluid, vocal quality.",
+          "translation": "スライドギターが、その曲に滑らかで歌声のような響きを与えています。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

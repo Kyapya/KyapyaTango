@@ -1,0 +1,255 @@
+{
+  "word": "probation",
+  "slug": "probation",
+  "ipa": "米: /proʊˈbeɪ.ʃən/｜英: /prəˈbeɪ.ʃən/。3音節で、第2音節 /beɪ/ に主強勢がある。ここで示す米英差は第1音節で、米は /proʊ/、英は弱い /prə/。話者によって母音に揺れがある。語末の -tion は /ʃən/ で、「ティオン」と分けて読まない。",
+  "lead": "犯罪で有罪となった人などを、一定の条件に従い監督を受けながら社会内で生活させる刑事上の処分・状態・期間。収監に代わる処分として用いられることがあるが、成立要件や他の刑との関係は法域・制度によって違う。単なる無罪放免や、必ず刑務所から早期釈放される仕組みを表す語ではない。",
+  "updated": "2026-10-15",
+  "notion_url": "https://app.notion.com/p/probation-3fa4faa9b77d815b8b5ff4da6a08b059",
+  "pronunciation": [],
+  "etymology": [
+    "フランス語を経てラテン語 probatio「試すこと・証明」、probare「試す・良いと認める」に由来する。新しい仕事への適性を試したり、一定期間の行動を見定めたりする意味につながる。prove「証明する」、approve「承認する」、probe「詳しく調べる」は同じ語源系列に属する。"
+  ],
+  "formation": [
+    {
+      "term": "probationary",
+      "description": "形容詞。「試用中の・試験的な」。a probationary employee「試用期間中の従業員」、a probationary period「試用期間」など。"
+    },
+    {
+      "term": "probationer",
+      "description": "可算名詞。保護観察中の人、または仕事・所属上の試用段階にある人。分野で意味が変わる。"
+    },
+    {
+      "term": "probation officer",
+      "description": "保護観察の監督・支援などを担当する職員。新入社員の研修担当者という意味ではない。"
+    },
+    {
+      "term": "probate",
+      "description": "遺言の検認などに関する法律用語。綴りが似ていても probation「保護観察・試用」と区別する。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "一定期間、行動や適格性を見定める状態。刑事処分では条件付きの社会生活、雇用では新しい仕事への適性、学業・勤務上の措置では改善の有無が問題になる。具体的な条件や法的効果は、この核だけでは決まらない。"
+    },
+    {
+      "type": "item",
+      "text": "一定期間の行動を見定める刑事上の監督 → 「保護観察・保護観察処分」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "一定期間の適格性を見定める新規採用 → 「試用・試用期間」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "一定期間の改善を見定める条件付き継続 → 「改善を求める観察期間・学業上の警告措置」（語義3）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・不可算】保護観察・保護観察処分",
+      "frequency": 7,
+      "register": [
+        "法律・犯罪報道。日本語の「保護観察」は中心的な訳だが、各国の制度と完全に一対一対応するとは限らない。"
+      ],
+      "definition": "犯罪で有罪となった人などを、一定の条件に従い監督を受けながら社会内で生活させる刑事上の処分・状態・期間。収監に代わる処分として用いられることがあるが、成立要件や他の刑との関係は法域・制度によって違う。単なる無罪放免や、必ず刑務所から早期釈放される仕組みを表す語ではない。",
+      "patterns": [
+        "be on probation",
+        "put・place someone on probation",
+        "sentence someone to 〈期間〉 of probation",
+        "〈期間の所有格〉 probation",
+        "violate probation",
+        "the conditions of probation",
+        "a probation officer。"
+      ],
+      "collocations": [
+        {
+          "pattern": "be on probation",
+          "use": "刑事上の監督を受けながら社会で生活している状態を示す。",
+          "example": "He was on probation for fraud when the new offense occurred.",
+          "translation": "新たな犯罪が起きたとき、彼は詐欺罪で保護観察中でした。"
+        },
+        {
+          "pattern": "place someone on probation",
+          "use": "裁判所が保護観察処分にすることを述べる。",
+          "example": "The court placed her on probation for two years.",
+          "translation": "裁判所は彼女を2年間の保護観察に付しました。"
+        },
+        {
+          "pattern": "sentence someone to 〈期間〉 of probation",
+          "use": "判決として保護観察の期間を言い渡す。",
+          "example": "The judge sentenced the defendant to twelve months of probation.",
+          "translation": "裁判官は被告人に12か月の保護観察を言い渡しました。"
+        },
+        {
+          "pattern": "〈期間の所有格〉 probation",
+          "use": "期間を名詞の前に置いて表す。",
+          "example": "The defendant received two years' probation.",
+          "translation": "被告人は2年間の保護観察処分を受けました。"
+        },
+        {
+          "pattern": "violate the conditions of probation",
+          "use": "保護観察に付された条件に違反する。",
+          "example": "He violated the conditions of probation by failing to report to his officer.",
+          "translation": "彼は担当官への報告を怠り、保護観察の条件に違反しました。"
+        },
+        {
+          "pattern": "a probation officer",
+          "use": "保護観察の監督・支援を担当する職員を指す。",
+          "example": "Her probation officer helped her develop a plan for finding work.",
+          "translation": "担当の保護観察官は、彼女が仕事を探すための計画作りを支援しました。"
+        }
+      ],
+      "notes": [
+        "状態は on probation が定型で、on a probation としない。one year's probation／two years' probation は所有格、one year of probation／two years of probation は of 構文。米連邦制度では probation 自体が刑として科され、服役後の supervised release と区別されるため、常に「刑の執行猶予」と説明するのは不正確。parole は服役後の条件付き釈放に関わる別の概念で、probation の言い換えにはしない。英語圏全体で手続きが同じとは限らず、日本法の名称や要件をそのまま当てはめない。"
+      ],
+      "synonyms": [
+        {
+          "word": "community supervision",
+          "definition": "施設外の社会生活の中で行う刑事上の監督。",
+          "frequency": 4,
+          "difference": "probation を含む広い表現として使われるが、法域によっては probation の名称にもなる。parole や supervised release まで含むかは制度・文脈を確認する。",
+          "example": "The report examines support for people under community supervision.",
+          "translation": "その報告書は、社会内で刑事上の監督を受ける人々への支援を検討しています。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・不可算】試用・試用期間",
+      "frequency": 6,
+      "register": [
+        "雇用・人事・新規採用・職業訓練。ビジネス文書・社内説明で重要。"
+      ],
+      "definition": "新しい仕事や役割に就いた人の能力・勤務態度・適性などを、一定期間見極めること、またはその期間。新規採用時が典型だが、組織や役割への正式な受入れに先立つ試験的な期間にも使う。雇用されていないことや無給であることを意味しない。",
+      "patterns": [
+        "be on probation",
+        "a period of probation",
+        "a probation period",
+        "complete・pass probation",
+        "extend someone's probation",
+        "during probation",
+        "〈期間〉 of probation。probationary period もよく使うが、probationary は派生形容詞。"
+      ],
+      "collocations": [
+        {
+          "pattern": "be on probation",
+          "use": "新しい職で試用期間中であることを示す。",
+          "example": "New recruits are on probation for their first three months.",
+          "translation": "新規採用者は、最初の3か月間は試用期間となります。"
+        },
+        {
+          "pattern": "a period of probation",
+          "use": "契約などで試用の期間を示す。",
+          "example": "The contract provides for a six-month period of probation.",
+          "translation": "その契約には6か月の試用期間が定められています。"
+        },
+        {
+          "pattern": "complete probation",
+          "use": "試用期間を終える。",
+          "example": "She successfully completed probation and continued in the role.",
+          "translation": "彼女は試用期間を無事に終え、その職務を続けました。"
+        },
+        {
+          "pattern": "pass probation",
+          "use": "試用期間中の評価を通過する。",
+          "example": "He passed probation after a satisfactory performance review.",
+          "translation": "彼は勤務評価が良好だったため、試用期間の審査を通過しました。"
+        },
+        {
+          "pattern": "extend someone's probation",
+          "use": "適性を確認する期間を延長する。",
+          "example": "The company extended his probation to allow more time for training.",
+          "translation": "会社は研修時間をさらに確保するため、彼の試用期間を延長しました。"
+        },
+        {
+          "pattern": "during probation",
+          "use": "試用中の評価や支援を説明する。",
+          "example": "Managers provide regular feedback during probation.",
+          "translation": "管理職は試用期間中、定期的にフィードバックを行います。"
+        }
+      ],
+      "notes": [
+        "probation 自体は通常不可算なので、a probation ではなく a probation period／a period of probation。「試用中」は on probation、「試用期間中に」は during probation。probation は適性を見極める期間で、研修そのものを指す training や職場案内の induction と同じではない。pass probation は評価の通過、complete probation は期間・過程の完了に焦点がある。期間終了で自動的に特定の雇用身分になるとは限らず、契約・制度次第。試用中だから労働者の権利が一切ないともいえない。英Acasの説明でも試用中に適用される雇用上の権利がある。個別の期間・解雇条件をこの単語だけから推測しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "trial period",
+          "definition": "人や物が適しているかを試す期間。",
+          "frequency": 7,
+          "difference": "雇用以外に製品・サービスの試用にも広く使う。probation は主に人の適性や行動を評価する状態。",
+          "example": "The employer offered a paid trial period.",
+          "translation": "雇用主は有給の試用期間を設けました。"
+        },
+        {
+          "word": "probationary period",
+          "definition": "新しい職などへの適性を判断するための試用期間。",
+          "frequency": 6,
+          "difference": "probation とほぼ同じ内容を period を中心に明示した定着表現。a probationary period と可算名詞句になる。",
+          "example": "The probationary period ends next month.",
+          "translation": "試用期間は来月終了します。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・不可算】改善を求める観察期間・学業上の警告措置",
+      "frequency": 4,
+      "register": [
+        "主に北米の教育・人事・組織運営。具体的な名称・基準・継続条件は学校や組織により異なる。"
+      ],
+      "definition": "成績、勤務成績、行動などが基準を満たさない人について、在籍・雇用などの継続を条件付きとし、一定期間内の改善を求める措置や状態。academic probation は学生の学業成績に関する措置、disciplinary probation は規律違反などに対する措置。新しく入った人の適性を見る語義2とは、すでに問題や基準未達がある点で異なる。",
+      "patterns": [
+        "be on academic・disciplinary probation",
+        "place someone on probation for 〈理由〉",
+        "put an employee on probation",
+        "be taken off probation",
+        "remain on probation。"
+      ],
+      "collocations": [
+        {
+          "pattern": "be on academic probation",
+          "use": "成績不振を理由に改善が求められている状態。",
+          "example": "Students on academic probation must meet with an adviser to discuss their progress.",
+          "translation": "学業成績の改善を求める措置を受けた学生は、担当アドバイザーと進捗について面談しなければなりません。"
+        },
+        {
+          "pattern": "place someone on disciplinary probation",
+          "use": "規律違反後に行動の改善を求める措置を取る。",
+          "example": "The college placed the student on disciplinary probation after repeated misconduct.",
+          "translation": "大学は度重なる規律違反を受け、その学生を行動改善のための観察措置に付しました。"
+        },
+        {
+          "pattern": "put an employee on probation",
+          "use": "既存の従業員に勤務上の改善を求める。",
+          "example": "After repeated attendance problems, the manager put the employee on probation.",
+          "translation": "出勤状況の問題が繰り返されたため、管理職はその従業員に観察期間を設けて改善を求めました。"
+        },
+        {
+          "pattern": "be taken off probation",
+          "use": "改善が認められ、観察措置が解除される。",
+          "example": "She was taken off academic probation after her grades improved.",
+          "translation": "成績が改善したため、彼女の学業上の警告措置は解除されました。"
+        }
+      ],
+      "notes": [
+        "academic probation を新任教員の「試用」と読む文脈もあり得るため、学生の成績なのか教員の採用なのかを確認する。学生の academic probation は一般に学業上の基準未達に関わり、怠けたことや不正行為を必ず意味しない。disciplinary probation とも区別する。措置中でも在籍・就労が続く場合があるため、suspension「停学・停職」や dismissal「退学・解雇」と同じではない。改善基準、猶予期間、改善しなかった場合の扱いは各制度の規則による。"
+      ],
+      "synonyms": [
+        {
+          "word": "academic warning",
+          "definition": "学業成績が基準に届かないことなどを知らせ、改善を求める警告。",
+          "frequency": 3,
+          "difference": "学校によって probation より前の段階を指したり、同様の措置の名称として使われたりする。制度上の完全な同義語とは限らない。",
+          "example": "The student received an academic warning after a difficult semester.",
+          "translation": "その学生は厳しい学期を終えた後、学業成績について警告を受けました。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
