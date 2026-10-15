@@ -1,7 +1,7 @@
 {
   "word": "leverage",
   "slug": "leverage",
-  "ipa": "米: /ˈlevərɪdʒ/｜英: /ˈliːvərɪdʒ/。いずれも3音節で、第1音節 /lev/・/liːv/ に強勢がある。示した米英差は第1音節の母音 /e/ と /iː/。第2音節 /ər/ の r は、この語では後ろに母音が続くため、示した英音でも発音する。米音にも第1音節を /liːv/ とする読みがある。名詞と動詞で通常、強勢は変わらない。leveraged の -ed は /d/、leveraging は末尾の e を取って -ing を付ける。",
+  "ipa": "米: /ˈlevərɪdʒ/｜英: /ˈliːvərɪdʒ/。ここに示した発音はいずれも3音節で、第1音節 /lev/・/liːv/ に強勢がある。示した米英差は第1音節の母音 /e/ と /iː/。第2音節 /ər/ の r は、この語では後ろに母音が続くため、示した英音でも発音する。米音にも第1音節を /liːv/ とする読みがある。第2音節の母音が脱落して2音節になる発音もある。名詞と動詞で通常、強勢は変わらない。leveraged の -ed は /d/、leveraging は末尾の e を取って -ing を付ける。",
   "lead": "人や状況を、自分の望む方向へ動かすために使える力や有利な立場。相手が必要とする資源、代わりの選択肢、情報などがその源になる。威圧や不正を必ず含む語ではない。",
   "updated": "2026-10-15",
   "notion_url": "https://app.notion.com/p/leverage-3fa4faa9b77d8154986ee2a6e4af5ff5",
@@ -16,7 +16,7 @@
     },
     {
       "term": "leveraged",
-      "description": "過去形・過去分詞。金融では「借入れを利用した・負債依存の」という形容詞にもなり、語義5で扱う。"
+      "description": "過去形・過去分詞。金融では「レバレッジを利用した・負債依存の」という形容詞にもなり、借入れやデリバティブを利用した投資などについて語義5で扱う。"
     },
     {
       "term": "leveraging",
@@ -38,7 +38,7 @@
   "core": [
     {
       "type": "paragraph",
-      "text": "手持ちの力や資源に、作用を大きくする仕組み・有利な位置を組み合わせること。物理的なてこ、交渉の影響力、資源の活用、借入れによる資金規模の拡大が、この共通点でつながる。"
+      "text": "手持ちの力や資源に、作用を大きくする仕組み・有利な位置を組み合わせること。物理的なてこ、交渉の影響力、資源の活用、借入れなどによる投資規模の拡大が、この共通点でつながる。"
     },
     {
       "type": "item",
@@ -50,7 +50,7 @@
     },
     {
       "type": "item",
-      "text": "作用を大きくするための借入れの利用 → 「レバレッジ・借入金の活用・負債依存度」（語義3）"
+      "text": "作用を大きくするための借入れ・デリバティブなどの利用 → 「レバレッジ・借入金の活用・負債依存度」（語義3）"
     },
     {
       "type": "item",
@@ -58,7 +58,7 @@
     },
     {
       "type": "item",
-      "text": "作用を大きくする借入れを用いた状態 → 「借入れを利用した・負債依存の」（語義5）"
+      "text": "作用を大きくするレバレッジを用いた状態 → 「レバレッジを利用した・負債依存の」（語義5）"
     },
     {
       "type": "item",
@@ -114,7 +114,7 @@
           "pattern": "use 〈情報・資源〉 as leverage",
           "use": "持っているものを交渉材料にする。",
           "example": "The retailer used its large order volume as leverage to obtain a discount.",
-          "translation": "その小売業者は、大量の発注量を交渉材料にして割引を引き出しました。"
+          "translation": "その小売業者は、発注量の多さを交渉材料にして割引を引き出しました。"
         },
         {
           "pattern": "give someone leverage to do",
@@ -201,7 +201,7 @@
         }
       ],
       "notes": [
-        "leverage は直接目的語を取るので、「人脈を活用する」は leverage your network とし、leverage on your network とは通常しない。名詞なら use your network as leverage と言える。into の後ろは得られる成果、to do は目的・行動を示す。The data can be leveraged to improve the service. のような受動態も可能。資金を目的語にしても、寄付の上乗せを引き出すなど、借入れを伴わない場合は一般的な活用義である。動詞の目的語が finance 関係の語というだけで、すべてを語義4の借入れに解釈しない。"
+        "leverage は直接目的語を取るので、「人脈を活用する」は leverage your network とし、leverage on your network とは通常しない。名詞なら use your network as leverage と言える。into の後ろは得られる成果、to do は目的・行動を示す。The data can be leveraged to improve the service. のような受動態も可能。資金を目的語にしても、上の寄付の例のように支援を引き出す足がかりとしての利用なら、一般的な活用義である。動詞の目的語が finance 関係の語というだけで、すべてを語義4の借入れに解釈しない。"
       ],
       "synonyms": [
         {
@@ -246,7 +246,7 @@
       "register": [
         "金融・企業財務・投資。"
       ],
-      "definition": "自己資金に借入金を加えるなどして、より大きな投資や事業を行うこと。また、企業の自己資本などに対して負債をどの程度利用しているかという度合い。借入れによる規模拡大は、自己資金に対する利益だけでなく損失も大きくし得る。",
+      "definition": "借入れなどを使い、自己資金だけの場合より大きな投資や事業を行うこと。投資では、デリバティブによって投入資金を上回る規模の値動きの影響を受ける仕組みも含む。また、企業の自己資本などに対して負債をどの程度利用しているかという度合い。借入れによる規模拡大は、自己資金に対する利益だけでなく損失も大きくし得る。",
       "patterns": [
         "use leverage＝借入金などを活用する",
         "high・low leverage＝高い・低い負債依存度",
@@ -281,7 +281,7 @@
         }
       ],
       "notes": [
-        "この名詞は通常不可算。high leverage は「影響力が強い」でなく、財務上の借入依存度が高いことを表し得る。leverage ratio の分子・分母は指標や制度で異なるため、一つの計算式に固定しない。leverage が高いほど必ず儲かるわけではなく、金利負担や損失の拡大もあり得る。企業への影響力をいう語義1と、財務構造をいうこの語義を区別する。"
+        "この名詞は通常不可算。high leverage は「影響力が強い」でなく、財務上の借入依存度が高いことを表し得る。leverage ratio の分子・分母は指標や制度で異なるため、一つの計算式に固定しない。leverage が高いほど必ず儲かるわけではなく、金利負担や損失の拡大もあり得る。投資分野では、直接の借入れだけでなく、先物・オプションなどのデリバティブを通じて、投入資金に比べて大きな投資エクスポージャー（値動きの影響を受ける持高）を得ることも leverage と呼ぶ。企業への影響力をいう語義1と、財務・投資の仕組みをいうこの語義を区別する。"
       ],
       "synonyms": [
         {
@@ -368,14 +368,14 @@
     },
     {
       "number": 5,
-      "title": "【形容詞・leveraged、限定／叙述】借入れを利用した・負債依存の",
+      "title": "【形容詞・leveraged、限定／叙述】レバレッジを利用した・負債依存の",
       "frequency": 4,
       "register": [
         "金融・企業財務・買収報道。"
       ],
-      "definition": "会社・投資・買収などが、借入金を利用している状態。highly leveraged なら負債依存度が高いことを表すが、leveraged 単独では、必ず借入過多で危険だという評価までは含まない。",
+      "definition": "会社・投資・買収などが、借入金を利用している状態。投資では、デリバティブなどでレバレッジを利用している場合にもいう。会社について highly leveraged なら負債依存度が高いことを表すが、leveraged 単独では、必ず借入過多で危険だという評価までは含まない。",
       "patterns": [
-        "a leveraged company・investment・buyout",
+        "a leveraged company・investment・buyout・fund",
         "〈会社〉 be・remain・become highly leveraged",
         "more・less leveraged＝負債依存度がより高い・低い",
         "too heavily leveraged＝負債依存度が高すぎる。会社・投資などの財務状態を修飾する。"
@@ -404,6 +404,12 @@
           "use": "財務状態の変化を述べる。",
           "example": "The company became more leveraged after taking out a new loan.",
           "translation": "新たな融資を受けた後、会社の負債依存度は高まりました。"
+        },
+        {
+          "pattern": "a leveraged fund",
+          "use": "借入れやデリバティブによって投資効果を拡大するファンド。",
+          "example": "This leveraged fund uses derivatives to amplify its exposure to changes in the stock index.",
+          "translation": "このレバレッジ型ファンドは、デリバティブを使って株価指数の変動から受ける影響を大きくしています。"
         }
       ],
       "notes": [
@@ -430,11 +436,11 @@
       "antonyms": [
         {
           "word": "unleveraged",
-          "definition": "借入れによるレバレッジを用いない。",
+          "definition": "借入れやデリバティブによるレバレッジを用いない。",
           "frequency": 3,
-          "difference": "借入れによるレバレッジの有無という同じ意味軸で対立する。単に借入れが少ないという程度差とは区別する。",
+          "difference": "レバレッジの有無という同じ意味軸で対立する。単に借入れが少ないという程度差とは区別する。",
           "example": "The report compares leveraged and unleveraged returns.",
-          "translation": "報告書は、借入れを利用した場合と利用しない場合の収益率を比較しています。"
+          "translation": "報告書は、レバレッジを利用した場合と利用しない場合の収益率を比較しています。"
         }
       ]
     },
