@@ -1,0 +1,379 @@
+{
+  "word": "contingency",
+  "slug": "contingency",
+  "ipa": "米・英: /kənˈtɪn.dʒən.si/。4音節で、第2音節 /tɪn/ に強勢がある。第1音節 /kən/ と第3音節 /dʒən/ の母音は弱い /ə/。第3音節の子音 /dʒ/ を /g/ と読まない。複数形 contingencies は /kənˈtɪn.dʒən.siz/。",
+  "lead": "起こるかどうかは確実でないが、起こった場合を考えておくべき出来事や状況。問題・緊急事態を想定することが多いものの、必ず有害な出来事とは限らず、ある結果に伴って生じ得る事情も含む。",
+  "updated": "2026-10-15",
+  "notion_url": "https://app.notion.com/p/contingency-3fa4faa9b77d8171aa48c872b687aaf3",
+  "pronunciation": [],
+  "etymology": [
+    "ラテン語 contingentia に遡り、その基の contingere は「起こる・身に降りかかる」を表す。さらに con- と tangere「触れる」に分かれる。contact「接触」、tangent「接線」にも tangere が共通する。現代の中心は、出来事や結果が確定しておらず、事情・条件によって変わること。"
+  ],
+  "formation": [
+    {
+      "term": "contingent",
+      "description": "形容詞。「条件次第の・偶然の」。be contingent on/upon 〈条件〉は「その条件に左右される」。名詞の contingent「代表団・一団」は別の用法。"
+    },
+    {
+      "term": "contingency plan",
+      "description": "複合名詞。「不測の事態に備えた計画・代替計画」。予想した事態が起きた場合の対応を決めておくもの。"
+    },
+    {
+      "term": "contingency fund",
+      "description": "複合名詞。「予備費・緊急時のための資金」。contingency 単独でも予備費を指す用法がある。"
+    },
+    {
+      "term": "contingency table",
+      "description": "複合名詞。統計の「分割表・クロス集計表」。複数のカテゴリ変数の組合せごとに度数を示す表で、「緊急対応表」ではない。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "事態や結果が必ずそうなるとは決まらず、起こり方や条件に左右されること。その事態への備え、取引を左右する条件、結果次第の支払いにもつながる。"
+    },
+    {
+      "type": "item",
+      "text": "確定していない出来事そのもの → 「起こり得る事態・不測の事態」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "確定していない出費に備える資金 → 「予備費・予算上の余裕」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "確定していない取引の進行を左右する条件 → 「条件・条件条項」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "確定していないという事態の性質 → 「偶然性・非必然性・不確定性」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "確定していない成果に支払いを結ぶ方式 → 「成功報酬方式・成功報酬」（語義5）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算】起こり得る事態・不測の事態",
+      "frequency": 6,
+      "register": [
+        "事業計画・防災・運営・やや硬い文章。"
+      ],
+      "definition": "起こるかどうかは確実でないが、起こった場合を考えておくべき出来事や状況。問題・緊急事態を想定することが多いものの、必ず有害な出来事とは限らず、ある結果に伴って生じ得る事情も含む。",
+      "patterns": [
+        "prepare・plan for a contingency＝起こり得る事態に備える",
+        "provide for every contingency＝あらゆる事態を見越して手を打つ",
+        "in the event of 〈ある contingency〉＝その事態が起きた場合に",
+        "a contingency plan for 〈事態〉",
+        "contingency measures・arrangements＝万一に備えた対策・手配。"
+      ],
+      "collocations": [
+        {
+          "pattern": "prepare for every contingency",
+          "use": "想定される事態に幅広く備える。",
+          "example": "We cannot prepare for every contingency, but we can identify the main risks.",
+          "translation": "あらゆる事態に備えることはできませんが、主なリスクを洗い出すことはできます。"
+        },
+        {
+          "pattern": "a contingency plan for 〈事態〉",
+          "use": "特定の事態が起きた場合の対応計画を示す。",
+          "example": "The venue has a contingency plan for a power failure.",
+          "translation": "その会場には停電に備えた対応計画があります。"
+        },
+        {
+          "pattern": "contingency arrangements",
+          "use": "万一の場合に使う手配・代替措置。",
+          "example": "Contingency arrangements are in place if the speaker cannot attend.",
+          "translation": "講演者が出席できない場合に備え、代替の手配が済んでいます。"
+        },
+        {
+          "pattern": "allow for an unforeseen contingency",
+          "use": "予測し切れない事態に備え、時間などに余裕を持たせる。",
+          "example": "Leave a week in the schedule to allow for an unforeseen contingency.",
+          "translation": "予測できない事態に備え、日程に1週間の余裕を持たせてください。"
+        },
+        {
+          "pattern": "in the event of such a contingency",
+          "use": "直前に述べた事態が実際に起きた場合を示す。",
+          "example": "A supplier may close unexpectedly; in the event of such a contingency, we would use a backup supplier.",
+          "translation": "仕入先が突然廃業する可能性があります。そのような場合には、代わりの仕入先を利用します。"
+        }
+      ],
+      "notes": [
+        "a contingency は可能性のある事態で、すでに発生している emergency と同じとは限らない。contingency plan は「その場合に備える計画」であって、計画自体が確定していないという意味ではない。通常は contingency plan のように単数形を名詞の前に置く。名詞の修飾用法として扱う辞書と、限定形容詞として示す辞書がある。The plan is contingency. とはせず、This is a contingency plan. とする。「計画の実行が条件次第」なら The plan is contingent on approval. のように contingent を使う。"
+      ],
+      "synonyms": [
+        {
+          "word": "eventuality",
+          "definition": "将来起こり得る、準備や配慮が必要な事態。",
+          "frequency": 5,
+          "difference": "非常に近い硬い語で、問題に限らず予想される成り行きを広く指す。contingency は対応策や備えの話と特に結び付きやすい。",
+          "example": "The team prepared for every eventuality.",
+          "translation": "チームはあらゆる成り行きに備えました。"
+        },
+        {
+          "word": "possibility",
+          "definition": "起こり得る出来事や、実現し得る選択肢。",
+          "frequency": 9,
+          "difference": "良い見込みや選択肢にも普通に使う広い語。contingency は起きた場合の対応を考える事態に焦点を置く。",
+          "example": "A second interview remains a possibility.",
+          "translation": "二次面接が行われる可能性はまだあります。"
+        },
+        {
+          "word": "emergency",
+          "definition": "急いで対処する必要がある重大な事態。",
+          "frequency": 8,
+          "difference": "緊急対応の必要性が中心で、すでに起きている危機にも使う。contingency には緊急性や発生済みという意味は必須でない。",
+          "example": "Call this number in an emergency.",
+          "translation": "緊急の場合はこの番号に電話してください。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算／不可算】予備費・予算上の余裕",
+      "frequency": 4,
+      "register": [
+        "事業予算・建設費・見積書。"
+      ],
+      "definition": "想定外の追加費用や見積額の変動に備えて、予算に組み込んだり取り置いたりする金額・余裕分。起こり得る事態そのものではなく、そのために確保する資金を指す。",
+      "patterns": [
+        "include・allow a contingency of 〈金額・割合〉＝予備費を含める",
+        "a contingency for 〈費用〉＝その費用のための予備費",
+        "build contingency into a budget＝予算に余裕を盛り込む",
+        "use the contingency＝予備費を使う。"
+      ],
+      "collocations": [
+        {
+          "pattern": "include a contingency of 〈金額〉",
+          "use": "予備費を予算の一部として示す。",
+          "example": "The estimate includes a contingency of ten thousand dollars.",
+          "translation": "見積額には1万ドルの予備費が含まれています。"
+        },
+        {
+          "pattern": "a ten percent contingency",
+          "use": "予備費を割合で示す。",
+          "example": "We added a ten percent contingency to the construction budget.",
+          "translation": "建設予算に10パーセント分の予備費を加えました。"
+        },
+        {
+          "pattern": "a contingency for 〈費用〉",
+          "use": "どの追加費用に備えた資金かを示す。",
+          "example": "There is a small contingency for unexpected legal costs.",
+          "translation": "予想外の法務費用に備えた少額の予備費があります。"
+        },
+        {
+          "pattern": "build contingency into 〈予算〉",
+          "use": "予算に余裕分を織り込む。",
+          "example": "The project manager built contingency into the repair budget.",
+          "translation": "プロジェクト責任者は修繕予算に予備費を織り込みました。"
+        }
+      ],
+      "notes": [
+        "a contingency of ten thousand dollars なら、その額の「不測の事態」ではなく「予備費」。語義1の budget for contingencies「不測の事態に備えて予算を組む」と、この語義の include a contingency「予備費を含める」を区別する。具体的な枠を一つとして数える a contingency と、余裕分を量としていう contingency の両方がある。一定の割合を必ず積むという意味は含まれない。"
+      ],
+      "synonyms": [
+        {
+          "word": "reserve",
+          "definition": "将来の必要に備えて取り置く資金。",
+          "frequency": 6,
+          "difference": "予想外の費用に限らず、予定された需要や安定運営のための蓄えも指す。contingency は見積もりに含め切れない費用への備えを示しやすい。",
+          "example": "The charity keeps a reserve for essential operating costs.",
+          "translation": "その慈善団体は、不可欠な運営費のために準備金を確保しています。"
+        },
+        {
+          "word": "buffer",
+          "definition": "予想外の変化を吸収するための金銭的な余裕。",
+          "frequency": 5,
+          "difference": "悪影響を和らげる余裕という機能を強調する。contingency は予算の項目・金額として示しやすい。",
+          "example": "We kept a financial buffer in case sales fell.",
+          "translation": "売上が落ちた場合に備え、資金に余裕を残しました。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算】条件・条件条項",
+      "frequency": 4,
+      "register": [
+        "契約・不動産。契約条項を表す用法は特に米。"
+      ],
+      "definition": "ある取引や義務の実行が左右される、未確定の条件。特に米国の不動産取引で、融資の確保や検査などを条件にする条項を指す。条件を満たせないときの権利・手続きは、契約内容などによって決まる。",
+      "patterns": [
+        "a financing contingency＝融資に関する条件条項",
+        "an inspection contingency＝検査に関する条件条項",
+        "a contract with contingencies＝条件付きの契約",
+        "satisfy・meet a contingency＝条件を満たす",
+        "waive・remove a contingency＝条件による保護を放棄する・条件を外す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a financing contingency",
+          "use": "購入資金の融資確保などに関する条件条項。",
+          "example": "The purchase agreement includes a financing contingency.",
+          "translation": "その売買契約には融資に関する条件条項が含まれています。"
+        },
+        {
+          "pattern": "an inspection contingency",
+          "use": "物件検査などの結果に関する条件条項。",
+          "example": "The buyer asked for an inspection contingency in the offer.",
+          "translation": "買い手は、購入申込みに物件検査に関する条件条項を入れるよう求めました。"
+        },
+        {
+          "pattern": "satisfy a contingency",
+          "use": "契約で定めた条件を満たす。",
+          "example": "Both parties are working to satisfy the financing contingency before closing.",
+          "translation": "双方は決済前に融資に関する条件を満たすための対応を進めています。"
+        },
+        {
+          "pattern": "waive a contingency",
+          "use": "条件条項に基づく保護を放棄することを表す。",
+          "example": "The buyer declined to waive the financing contingency.",
+          "translation": "買い手は、融資条件条項による保護の放棄を断りました。"
+        }
+      ],
+      "notes": [
+        "この contingency は emergency ではない。a financing contingency は「融資上の緊急事態」でなく、融資が確保できるかどうかに関係する契約条件。contingency があるだけで、無条件に契約を取り消せる、手付金が必ず戻る、と判断しない。期限・通知・返金などは具体的な条項を確認する。形容詞を使うなら The purchase is contingent on financing.「購入は融資が条件です」とし、is contingency on とはしない。"
+      ],
+      "synonyms": [
+        {
+          "word": "condition",
+          "definition": "合意・実行などの前提として満たす必要がある条件。",
+          "frequency": 9,
+          "difference": "契約以外にも広く使う最も一般的な語。contingency は成立が未確定の事態に取引を結び付ける条件を意識させる。",
+          "example": "Approval is subject to several conditions.",
+          "translation": "承認にはいくつかの条件があります。"
+        },
+        {
+          "word": "proviso",
+          "definition": "合意や説明に付け加える条件・留保。",
+          "frequency": 4,
+          "difference": "ただし書きとしての制限を強調する。contingency のように、将来の未確定な出来事を条件にするものに限らない。",
+          "example": "She agreed, with the proviso that the details remain confidential.",
+          "translation": "彼女は、詳細を秘密にするという条件で同意しました。"
+        },
+        {
+          "word": "stipulation",
+          "definition": "合意の中で明示する要求・条件。",
+          "frequency": 5,
+          "difference": "条件をはっきり定めることに重点があり、未確定な出来事でなく、当事者が守る具体的な要求にも使う。",
+          "example": "The agreement contains a stipulation about delivery dates.",
+          "translation": "その合意には納期に関する条件が明記されています。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・不可算】偶然性・非必然性・不確定性",
+      "frequency": 3,
+      "register": [
+        "哲学・歴史・学術的な文章。"
+      ],
+      "definition": "あることが必然ではなく、事情や条件によって別のあり方にもなり得るという性質。一般の硬い文章では成り行きの不確定さを、哲学・論理では必然でないことを指す。単に自分が答えを知らないという意味とは区別する。",
+      "patterns": [
+        "the contingency of 〈出来事・存在・歴史〉＝その非必然性",
+        "historical contingency＝歴史的な事情に左右されること",
+        "contingency and necessity＝偶然性と必然性",
+        "leave something to contingency＝成り行きに任せる、という硬い表現。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the contingency of 〈出来事〉",
+          "use": "出来事が別の結果にもなり得た性質を述べる。",
+          "example": "The essay emphasizes the contingency of historical events.",
+          "translation": "その論考は、歴史上の出来事が必然ではなかったことを強調しています。"
+        },
+        {
+          "pattern": "historical contingency",
+          "use": "結果が個別の歴史的事情に左右されること。",
+          "example": "The institution's survival depended partly on historical contingency.",
+          "translation": "その制度の存続は、歴史上の偶然の事情にも一部左右されました。"
+        },
+        {
+          "pattern": "contingency and necessity",
+          "use": "哲学・論理で非必然性と必然性を対比する。",
+          "example": "The chapter examines the distinction between contingency and necessity.",
+          "translation": "その章は、偶然性と必然性の区別を検討しています。"
+        }
+      ],
+      "notes": [
+        "語義1の contingencies は具体的な可能事態を数えるが、この語義の contingency は性質として数えない。哲学的な「偶然的」は「でたらめ」「無原因」と同義ではなく、必ずそうでなければならないわけではない、という意味。contingency をすべて事故や緊急事態に訳すと、歴史・哲学の文章を誤読する。"
+      ],
+      "synonyms": [
+        {
+          "word": "uncertainty",
+          "definition": "成り行きや結果が確定していないこと。",
+          "frequency": 8,
+          "difference": "結果の不確定さでは重なるが、知識・判断に自信がない意味もある。哲学的な contingency は、何が必然かという性質の問題であり、単なる知識不足ではない。",
+          "example": "The proposal was written during a period of political uncertainty.",
+          "translation": "その提案は、政治の先行きが不確かな時期に書かれました。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "necessity",
+          "definition": "別様ではあり得ず、必ずそうであるという性質。",
+          "frequency": 3,
+          "difference": "哲学・論理の必然性という同じ意味軸で contingency と対立する。日常の「必要な物・必要性」の意味をここに混ぜない。",
+          "example": "The philosopher questioned whether the outcome followed by necessity.",
+          "translation": "その哲学者は、その結果が必然的に生じたのかを疑問視しました。"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "【名詞・不可算、定型表現では可算形も】成功報酬方式・成功報酬",
+      "frequency": 3,
+      "register": [
+        "主に米、法律サービスの費用。"
+      ],
+      "definition": "事件などの成果に報酬の支払いを結び付ける方式、またはその報酬。特に米国の弁護士費用で、依頼人が得る回収金額の一定割合を報酬とする形を指す。裁判の判決だけでなく、和解による回収を含む場合もある。",
+      "patterns": [
+        "work・take a case on contingency＝成功報酬方式で受任する",
+        "on a contingency basis＝成功報酬方式で",
+        "a contingency fee＝成功報酬",
+        "a contingency fee agreement＝成功報酬に関する契約。on a contingency という形もある。"
+      ],
+      "collocations": [
+        {
+          "pattern": "take a case on contingency",
+          "use": "弁護士が成功報酬方式で事件を引き受ける。",
+          "example": "The lawyer agreed to take the injury case on contingency.",
+          "translation": "その弁護士は、人身傷害の事件を成功報酬方式で引き受けることに同意しました。"
+        },
+        {
+          "pattern": "work on a contingency basis",
+          "use": "報酬方式を説明する。",
+          "example": "The firm works on a contingency basis in certain civil cases.",
+          "translation": "その法律事務所は、一部の民事事件を成功報酬方式で扱っています。"
+        },
+        {
+          "pattern": "a contingency fee agreement",
+          "use": "報酬の算定方法などを定める契約。",
+          "example": "The contingency fee agreement explains how litigation expenses are handled.",
+          "translation": "成功報酬契約には、訴訟費用をどのように扱うかが説明されています。"
+        }
+      ],
+      "notes": [
+        "on contingency は、ここでは「万一の場合に」でなく「成果に応じた報酬で」。contingency fee の fee は弁護士への報酬であり、裁判所への手数料などをすべて含むとは限らない。「成果がなければ一切の費用がかからない」と読み替えない。利用できる事件の種類や費用負担は、法域と契約により異なる。"
+      ],
+      "synonyms": [
+        {
+          "word": "contingent fee",
+          "definition": "事件などの成果を条件として支払う報酬。",
+          "frequency": 3,
+          "difference": "法律費用の文脈で contingency fee とほぼ同じ。contingent は形容詞として fee を修飾する。",
+          "example": "The client asked how the contingent fee would be calculated after a settlement.",
+          "translation": "依頼人は、和解後に成功報酬がどのように計算されるのかを尋ねました。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

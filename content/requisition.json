@@ -1,0 +1,316 @@
+{
+  "word": "requisition",
+  "slug": "requisition",
+  "ipa": "米・英: /ˌrek.wɪˈzɪʃ.ən/",
+  "lead": "物資・設備・人員などを必要として、所定の手順で出す正式な要求や申請。また、その要求を記録した書類・電子申請。一般的な頼み事より組織的・事務的で、申請しただけで承認・供給されたとは限らない。",
+  "updated": "2026-10-15",
+  "notion_url": "https://app.notion.com/p/requisition-3fa4faa9b77d8193bd85ce7e3f323ac6",
+  "pronunciation": [
+    "4音節。第1音節に第二強勢、第3音節に主強勢。第3音節の子音は /z/ で、綴りの s を /s/ と読まない。名詞と動詞で強勢は同じ。requisitioned の -ed は /d/。"
+  ],
+  "etymology": [
+    "フランス語・ラテン語を通じ、requisitio「探求・要求」、requirere「探し求める」にさかのぼる。re- はここでは強調の働きで、単純に「もう一度」と限定しない。同系語に require「必要とする・要求する」、requisite「必要な」がある。現代の業務では正式な要求・申請、公的権限の文脈では徴発という意味で使う。"
+  ],
+  "formation": [
+    {
+      "term": "requisition form（複合名詞）",
+      "description": "物品などの正式な請求・申請用紙。"
+    },
+    {
+      "term": "purchase requisition（複合名詞）",
+      "description": "購入申請、購買要求。外部業者への発注書と必ず同じではない。"
+    },
+    {
+      "term": "job requisition（複合名詞）",
+      "description": "職位の新設や補充のための採用申請。応募者本人の求職申請ではない。"
+    },
+    {
+      "term": "requisitioned（過去分詞）",
+      "description": "正式に請求された、または徴発された。文脈で区別する。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "必要な資源を、正式な手続きや権限に基づいて求めること。通常の業務申請と、公的権限による強制的な確保を区別する。"
+    },
+    {
+      "type": "item",
+      "text": "必要資源を正式に求める申請 → 「正式な請求・申請、請求書・申請書」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "必要資源を正式に求める行為 → 「正式に請求する・手配を求める」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "必要資源を権限に基づき求めて確保する行為 → 「徴発する・公的用途のために接収する」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "必要資源を権限に基づき求めて確保する過程 → 「徴発・接収」（語義4）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算／行為は不可算】正式な請求・申請、請求書・申請書",
+      "frequency": 5,
+      "register": [
+        "業務、調達、行政。"
+      ],
+      "definition": "物資・設備・人員などを必要として、所定の手順で出す正式な要求や申請。また、その要求を記録した書類・電子申請。一般的な頼み事より組織的・事務的で、申請しただけで承認・供給されたとは限らない。",
+      "patterns": [
+        "a requisition for 〈必要物〉",
+        "submit a requisition",
+        "approve a requisition",
+        "a purchase requisition",
+        "a job requisition",
+        "on requisition＝正式な請求に応じて。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a requisition for 〈必要物〉",
+          "use": "要求する品目を for で示す。",
+          "example": "The laboratory submitted a requisition for replacement microscopes.",
+          "translation": "研究室は交換用の顕微鏡の購入申請を提出した。"
+        },
+        {
+          "pattern": "submit a requisition",
+          "use": "正式な要求を提出する。",
+          "example": "Please submit a requisition before ordering new equipment.",
+          "translation": "新しい機器を注文する前に、購入申請を提出してください。"
+        },
+        {
+          "pattern": "approve a requisition",
+          "use": "申請を承認する。",
+          "example": "A manager must approve the requisition before purchasing can proceed.",
+          "translation": "購入を進める前に、管理職がその申請を承認しなければならない。"
+        },
+        {
+          "pattern": "a purchase requisition",
+          "use": "社内などで購入を要請する。",
+          "example": "The purchase requisition lists the quantity and estimated cost.",
+          "translation": "その購入申請には、数量と見積費用が記載されている。"
+        },
+        {
+          "pattern": "a job requisition",
+          "use": "採用枠を求める社内申請。",
+          "example": "The department opened a job requisition to replace a retiring engineer.",
+          "translation": "その部門は退職予定の技術者を補充するため、採用申請を起こした。"
+        },
+        {
+          "pattern": "on requisition",
+          "use": "正式な請求があれば支給される。",
+          "example": "Additional supplies are available on requisition.",
+          "translation": "追加の物資は正式な請求に応じて支給される。"
+        }
+      ],
+      "notes": [
+        "一件の申請・書類は a requisition、複数は requisitions。the requisition of supplies のように要求する行為を指す用法もある。a requisition for computers の for は請求対象を示す。purchase requisition は典型的には組織内部の購入要請で、供給業者に出す purchase order「発注書」と区別する。invoice「請求書」は通常、供給側から代金を求める書類で、この意味の requisition を常に同じ「請求書」と訳さない。申請の承認状態や用途を確認する。"
+      ],
+      "synonyms": [
+        {
+          "word": "request",
+          "definition": "物事をしてほしいと頼むこと、またはその依頼。",
+          "frequency": 9,
+          "difference": "日常の依頼から正式な要求まで広い。requisition は資源の供給を求める組織的な手続きを意識させる。",
+          "example": "Your request for additional equipment is under review.",
+          "translation": "追加機器の申請は審査中です。"
+        },
+        {
+          "word": "application",
+          "definition": "許可・給付などを得るための正式な申請。",
+          "frequency": 8,
+          "difference": "審査を受ける応募・申請に広く使う。物品の支給請求に特化した語ではない。",
+          "example": "The committee reviewed the application for research funding.",
+          "translation": "委員会は研究助成の申請を審査した。"
+        },
+        {
+          "word": "demand",
+          "definition": "権利や必要性を強く示して出す要求。",
+          "frequency": 8,
+          "difference": "要求の強さを表すが、requisition のような書式や事務手続きを必ずしも伴わない。",
+          "example": "The union repeated its demand for safer working conditions.",
+          "translation": "労組は、より安全な労働環境を求める要求を繰り返した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【他動詞】正式に請求する・手配を求める",
+      "frequency": 4,
+      "register": [
+        "業務・行政。硬い表現。"
+      ],
+      "definition": "必要な物資・設備などの供給を、権限や所定の手続きに基づいて正式に求める。通常の社内申請にも使い、民間人の所有物を強制的に取り上げることを必ず意味するわけではない。",
+      "patterns": [
+        "requisition 〈物資・設備〉",
+        "requisition something from 〈担当部門・供給元〉",
+        "requisition something for 〈用途〉",
+        "〈物資〉 + be requisitioned。"
+      ],
+      "collocations": [
+        {
+          "pattern": "requisition 〈物資・設備〉",
+          "use": "必要物を直接目的語にして請求する。",
+          "example": "The technician requisitioned new safety goggles through the purchasing system.",
+          "translation": "技術者は購買システムを通じて、新しい保護眼鏡を請求した。"
+        },
+        {
+          "pattern": "requisition something from 〈担当部門・供給元〉",
+          "use": "どの部署などに供給を求めるかを示す。",
+          "example": "We requisitioned spare parts from the central warehouse.",
+          "translation": "中央倉庫に予備部品を請求した。"
+        },
+        {
+          "pattern": "requisition something for 〈用途〉",
+          "use": "必要物の用途を示す。",
+          "example": "She requisitioned two projectors for the training sessions.",
+          "translation": "彼女は研修用にプロジェクターを2台手配するよう申請した。"
+        },
+        {
+          "pattern": "be requisitioned",
+          "use": "正式な請求の対象になったことを示す。",
+          "example": "All laboratory supplies must be requisitioned through the online portal.",
+          "translation": "研究室の物資はすべて、オンライン窓口を通じて請求しなければならない。"
+        }
+      ],
+      "notes": [
+        "動詞では物を直接目的語に置く。誤: requisition for new chairs → 正: requisition new chairs。for は名詞の a requisition for new chairs、または動詞の requisition chairs for the office「事務所用に椅子を請求する」で使う。from は供給を求める相手。requisitioned だけでは申請が承認済みか、物が到着済みかまでは分からない。"
+      ],
+      "synonyms": [
+        {
+          "word": "request",
+          "definition": "必要なものを求める。",
+          "frequency": 8,
+          "difference": "正式な供給要求にも使えるが、requisition より対象・場面が広い。",
+          "example": "The team requested additional monitors.",
+          "translation": "チームはモニターの追加を求めた。"
+        },
+        {
+          "word": "order",
+          "definition": "物品の購入・供給を注文する。",
+          "frequency": 9,
+          "difference": "供給側への注文に焦点があり、内部申請を表す requisition とは業務段階が異なる場合がある。",
+          "example": "We ordered the monitors after the budget was approved.",
+          "translation": "予算が承認された後で、モニターを注文した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【他動詞】徴発する・公的用途のために接収する",
+      "frequency": 4,
+      "register": [
+        "軍事、行政、歴史・報道。"
+      ],
+      "definition": "軍や行政機関などが権限を用い、建物・車両・物資などを公的な目的に使用できるよう取り上げたり、提供を求めたりする。単なる任意の依頼ではなく権限に基づく確保を表すが、所有権移転・補償・期間などは語だけでは決まらない。",
+      "patterns": [
+        "requisition 〈建物・車両・物資〉",
+        "requisition something for 〈公的用途〉",
+        "requisition something as 〈使用上の役割〉",
+        "be requisitioned by 〈公的主体〉。"
+      ],
+      "collocations": [
+        {
+          "pattern": "requisition 〈建物・車両・物資〉",
+          "use": "公的権限で使用のために確保する。",
+          "example": "During the war, the army requisitioned civilian trucks.",
+          "translation": "戦争中、軍は民間のトラックを徴発した。"
+        },
+        {
+          "pattern": "requisition something for 〈公的用途〉",
+          "use": "徴発後の用途を示す。",
+          "example": "The authorities requisitioned the warehouse for emergency storage.",
+          "translation": "当局は緊急物資の保管用に、その倉庫を接収した。"
+        },
+        {
+          "pattern": "requisition something as 〈使用上の役割〉",
+          "use": "どのような施設などとして使うかを示す。",
+          "example": "The military requisitioned the school as a field hospital.",
+          "translation": "軍はその学校を野戦病院として接収した。"
+        },
+        {
+          "pattern": "be requisitioned by 〈公的主体〉",
+          "use": "対象物を主語にする。",
+          "example": "Several merchant ships were requisitioned by the government during the conflict.",
+          "translation": "紛争中、政府は数隻の商船を徴用した。"
+        }
+      ],
+      "notes": [
+        "同じ requisition a vehicle でも、通常の社内手配なら語義2、公権力による確保ならこの語義。主語が軍・政府であることだけでなく、権限を用いてどのように確保するかを読む。confiscate「没収する」のような違反への制裁を必須とせず、無償・永久の取得とも断定しない。個別の法制度についての成立要件は当該制度で確認する。"
+      ],
+      "synonyms": [
+        {
+          "word": "commandeer",
+          "definition": "権限などを用いて物を取り上げ、自分たちの用途に使う。",
+          "frequency": 4,
+          "difference": "軍・行政による接収に近いが、日常の比喩では強引な占有にも使える。requisition は正式な要求・手続きを連想させやすい。",
+          "example": "The troops commandeered a bus to transport the wounded.",
+          "translation": "部隊は負傷者を運ぶためにバスを徴発した。"
+        },
+        {
+          "word": "seize",
+          "definition": "権限や実力で物を押さえ、支配下に置く。",
+          "frequency": 7,
+          "difference": "取得の強制性に焦点があり、公的な使用目的に限定されない。",
+          "example": "Customs officers seized the undeclared goods.",
+          "translation": "税関職員は未申告の商品を押収した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・主に不可算】徴発・接収",
+      "frequency": 3,
+      "register": [
+        "軍事、行政、歴史・報道。"
+      ],
+      "definition": "公的な権限によって建物・車両・物資などを使用のために確保する行為。語義3の動詞に対応する名詞で、通常の購入申請を指す語義1とは対象と権限の文脈で区別する。",
+      "patterns": [
+        "the requisition of 〈物資・財産〉",
+        "requisition by 〈公的主体〉",
+        "requisition for 〈公的用途〉。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the requisition of 〈物資・財産〉",
+          "use": "徴発・接収される対象を示す。",
+          "example": "The requisition of civilian vehicles disrupted local transport during the war.",
+          "translation": "戦時中の民間車両の徴発によって、地域の交通に支障が生じた。"
+        },
+        {
+          "pattern": "requisition by 〈公的主体〉",
+          "use": "徴発・接収した機関を示す。",
+          "example": "The archive records the requisition of the hotel by the military.",
+          "translation": "その資料には、軍によるホテルの接収が記録されている。"
+        },
+        {
+          "pattern": "requisition for 〈公的用途〉",
+          "use": "徴発・接収の目的を示す。",
+          "example": "The report describes the requisition of buildings for military use.",
+          "translation": "報告書は、軍事利用のための建物の接収を記述している。"
+        }
+      ],
+      "notes": [
+        "requisition of ships は「船舶の徴用」になり得るが、of 自体が強制性を示すわけではない。requisition of office supplies は通常の供給要求とも読める。語義1とこの語義を前置詞だけで機械的に分けない。徴発命令・個別の徴発を数えて a requisition / requisitions とする文書もある。"
+      ],
+      "synonyms": [
+        {
+          "word": "seizure",
+          "definition": "権限や実力で財産などを押さえること。",
+          "frequency": 6,
+          "difference": "取り押さえる行為を広く表し、requisition のような使用目的の確保に限定されない。",
+          "example": "The report documents the seizure of private property.",
+          "translation": "その報告書には私有財産の接収が記録されている。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
