@@ -3,7 +3,7 @@
   "slug": "dispute",
   "ipa": "動詞は米・英: /dɪˈspjuːt/。名詞は米・英: /dɪˈspjuːt/ または /ˈdɪs.pjuːt/。どちらも2音節で、動詞は第2音節に強勢、名詞は第2音節強勢と第1音節強勢の両方がある。「名詞なら必ず前、動詞なら後」という区別にはしない。名詞の発音差は強勢位置で、ここに示した形では母音はどちらも第1音節が /ɪ/、第2音節が /uː/。/p/ の後に /j/ が入り、/spjuːt/ となる。disputed は /dɪˈspjuː.tɪd/ で、-ed が1音節を加える。",
   "lead": "複数の人、組織、国などが、事実、判断、権利、条件などについて意見や要求を異にして争うこと。個々の争議・紛争は可算で、争いがあるという状態や異論は不可算で表す。公式な労使紛争や国境紛争によく使うが、法的手続きや大声の口論は必須ではない。",
-  "updated": "2026-10-14",
+  "updated": "2026-10-15",
   "notion_url": "https://app.notion.com/p/dispute-3f94faa9b77d81ca8846f7fa91733d17",
   "pronunciation": [],
   "etymology": [
@@ -34,7 +34,7 @@
   "core": [
     {
       "type": "paragraph",
-      "text": "主張・権利・優位を一方的には認めず、対立すること。対立そのものを指す名詞、相手の主張に異議を唱える他動詞、相手と論争する自動詞、優位を取り合う他動詞を区別する。"
+      "text": "主張・権利・優位を一方的には認めず、対立すること。対立そのものを指す名詞、相手の主張に異議を唱える他動詞、相手と、ある問題について論争する自動詞・他動詞、優位を取り合う他動詞を区別する。"
     },
     {
       "type": "item",
@@ -293,17 +293,18 @@
     },
     {
       "number": 3,
-      "title": "【自動詞】論争する・言い争う",
+      "title": "【自動詞・他動詞】論争する・言い争う",
       "frequency": 4,
       "register": [
         "硬い文章、学術・歴史的記述など。現代の日常会話では argue の方が一般的。"
       ],
-      "definition": "相手と異なる主張を述べ合い、ある問題について争う。何を否定するかを直接目的語にする語義2とは異なり、論争を行う行為と相手・争点に焦点を置く。",
+      "definition": "相手と異なる主張を述べ合い、ある問題について争う。語義2のように主張の正しさに異議を唱える意味とは区別して、論争する行為自体を表す。争点を直接目的語にする他動詞用法もある。",
       "patterns": [
         "dispute with someone＝人と論争する",
         "dispute with someone about 〈争点〉＝人とその件で議論する",
         "people + dispute over 〈争点〉＝その事柄を巡って争う",
-        "dispute about 〈争点〉＝その事柄について論争する。"
+        "dispute about 〈争点〉＝その事柄について論争する",
+        "dispute 〈問題・争点〉＝その問題について論争する。"
       ],
       "collocations": [
         {
@@ -329,17 +330,23 @@
           "use": "見解が分かれている主題を示す。",
           "example": "Scholars still dispute about the date of the manuscript.",
           "translation": "学者たちは、今もその写本の年代について論争しています。"
+        },
+        {
+          "pattern": "dispute 〈問題・争点〉",
+          "use": "論争の主題を直接目的語にする。",
+          "example": "The scholars disputed the issue of free will for hours.",
+          "translation": "学者たちは、自由意志の問題について何時間も論争しました。"
         }
       ],
       "notes": [
-        "We disputed the claim. は他動詞で「その主張に異議を唱えた」、We disputed with the author. は自動詞で「その著者と論争した」。with の相手と、直接目的語の主張を入れ替えて覚えない。dispute over/about の後ろには争点を置く。dispute だけの自動詞用法もあるが、通常は文脈や前置詞句で相手・論題が分かるようにする。"
+        "We disputed the claim. は他動詞で「その主張に異議を唱えた」、We disputed with the author. は自動詞で「その著者と論争した」。with の後ろには論争の相手を置く。一方、dispute the issue のように、直接目的語が否定する主張ではなく論争の主題を表すこともある。直接目的語の有無だけで語義2とこの語義を分けない。dispute over/about の後ろには争点を置く。dispute だけの自動詞用法もあるが、通常は文脈や前置詞句で相手・論題が分かるようにする。"
       ],
       "synonyms": [
         {
           "word": "argue",
           "definition": "意見が違う相手と議論する、または言い争う。",
           "frequency": 9,
-          "difference": "日常の意見交換から激しい口論まで広い。自動詞の dispute はより硬く、論点を巡る対立を意識させる。",
+          "difference": "日常の意見交換から激しい口論まで広い。この意味の dispute はより硬く、論点を巡る対立を意識させる。",
           "example": "They argued about the best way to divide the work.",
           "translation": "彼らは、仕事を分担する最善の方法について言い争いました。"
         },
