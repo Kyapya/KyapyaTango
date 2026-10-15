@@ -82,7 +82,7 @@
           "pattern": "inspect a consignment",
           "use": "まとめて送られた貨物を検査する。",
           "example": "Customs officers inspected the consignment before releasing it.",
-          "translation": "税関職員は、貨物を引き渡す前に検査しました。"
+          "translation": "税関職員は、貨物の引取りを許可する前に、その貨物を検査しました。"
         },
         {
           "pattern": "send 〈商品〉 in separate consignments",
@@ -169,7 +169,7 @@
         }
       ],
       "notes": [
-        "方式を表す定型句は on consignment で、通常は a を入れない。a consignment は語義1の貨物、on consignment は「委託販売で」。consignment shop は店舗の業態を表す複合名詞であり、consignment 自体が「中古」の意味になるわけではない。支払方法、所有権、返品や損失の負担まで、この単語だけで決まるものではない。"
+        "方式を表す定型句は on consignment で、通常は a を入れない。a consignment は語義1の貨物、on consignment は「委託販売で」。consignment shop は店舗の業態を表す複合名詞であり、consignment 自体が「中古」の意味になるわけではない。委託販売では、通常、売れるまで商品の所有権は委託者に残る。具体的な支払条件、返品条件、損失の負担や法的な扱いは、契約や適用法による。"
       ],
       "synonyms": [
         {
@@ -240,7 +240,7 @@
           "word": "delivery",
           "definition": "品物を指定の受取先まで届けること。",
           "frequency": 9,
-          "difference": "到着・引き渡しに焦点があり、送り出す段階だけの consignment と同じとは限らない。",
+          "difference": "到着・引き渡しに焦点がある。consignment は発送や相手に委ねる行為を表し、必ずしも配達の完了を意味しない。",
           "example": "Delivery to the office is included in the price.",
           "translation": "オフィスまでの配達は料金に含まれています。"
         }

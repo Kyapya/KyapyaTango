@@ -56,7 +56,7 @@
           "pattern": "a remittance for 〈料金〉",
           "use": "送られるお金の支払目的を示す。",
           "example": "Please include your customer number with your remittance for the annual fee.",
-          "translation": "年会費をご送金の際は、顧客番号をお知らせください。"
+          "translation": "年会費をご送金の際は、顧客番号を添えてください。"
         },
         {
           "pattern": "send a remittance to 〈受取人〉",
@@ -91,7 +91,7 @@
         },
         {
           "word": "transfer",
-          "definition": "口座や人の間で移される一件の資金。",
+          "definition": "口座や人の間で行う一件の資金移動。",
           "frequency": 7,
           "difference": "資金移動という処理に焦点があり、自分の口座間の移動にも使う。remittance は相手へ届ける支払金や仕送りを意識する。",
           "example": "The transfer from my savings account arrived this morning.",
