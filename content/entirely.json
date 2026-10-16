@@ -1,172 +1,150 @@
 {
   "word": "entirely",
   "slug": "entirely",
-  "ipa": "米: /ɪnˈtaɪr.li/｜英: /ɪnˈtaɪə.li/",
+  "ipa": "米: /ɪnˈtaɪrli/｜英: /ɪnˈtaɪəli/",
   "lead": "状態・程度・範囲・原因・構成・責任などについて、一部分だけでなく、その全部に当てはまることを表す。「完全に」「まったく」「全面的に」が中心訳である。",
-  "updated": "2026-08-04",
+  "updated": "2026-10-16",
   "notion_url": "https://app.notion.com/p/entirely-3b24faa9b77d81fc8291f418b8781b0f",
   "pronunciation": [
-    "強勢は第2音節 /taɪr/ または /taɪə/ に置かれる。米音では /r/ を発音し、英音では通常発音しない。どちらも一般には3音節として発音される。形容詞 entire に -ly が付いても強勢位置は変わらない。"
+    "上の代表的な発音は、米 /ɪn・taɪr・li/、英 /ɪn・taɪə・li/ と捉える3音節で、第2音節に強勢を置く。",
+    "示した米英差は第2音節。米音は /taɪr/ で /r/ を発音し、英音は /taɪə/ で /r/ を発音しない。語末の第3音節はどちらも /li/。",
+    "形容詞 entire に -ly が付いても、主強勢の位置は変わらない。"
   ],
   "etymology": [
-    "形容詞 entire「全体の、完全な」+ 副詞を作る接尾辞 -ly から、英語内部で形成された語。entire は中英語・アングロフランス語の entier などを経て、ラテン語 integer「手を付けられていない、損なわれていない、完全な」にさかのぼる。語源上の核は「一部も損なわれていない」である。",
-    "entire と integer は、同じラテン語に由来しながら異なる経路で英語に入った語である。同語源語には integer「整数」、integrity「完全性、誠実さ」、integral「全体を構成する、不可欠な」がある。"
+    "entire「全体の、完全な」に、副詞を作る -ly が付いた語。entire はフランス語系の entier などを経て、ラテン語 integer「触れられていない、損なわれていない、完全な」にさかのぼる。語源上の「一部も欠けていない」が、現代の「全範囲にわたって、完全に」とつながる。",
+    "integer「整数」と integrity「完全性、誠実さ」もラテン語 integer の系統。同じ語源から、数学でいう整数、損なわれていない状態や人格という意味が発達した。",
+    "integral「全体を構成する、不可欠な」も同じ系統で、単に綴りが似ている語ではない。"
   ],
   "formation": [
     {
       "term": "entire【形容詞】",
-      "description": "全体の、全部の、完全な：通常は名詞の前で the entire day「一日全部」のように使う。現代の一般用法では、叙述用法より限定用法が中心。"
+      "description": "「全体の、全部の」。the entire building「建物全体」のように名詞を修飾する基体であり、副詞 entirely とは置く場所が違う。"
     },
     {
-      "term": "entirely【副詞】",
-      "description": "完全に、まったく、全面的に：程度・範囲の全部に当てはまることを示す。"
-    },
-    {
-      "term": "entirety【名詞】",
-      "description": "全体、全部：特に in its entirety「省略せず全体を、そのまま完全な形で」が一般的。"
+      "term": "entirety【不可算名詞】",
+      "description": "「全体、全部」。in its entirety「その全体を、省略せずに」という形が重要。"
     }
   ],
-  "core": [
-    {
-      "label": "「一部分も例外として残さず、対象となる程度・範囲の全部に及ぶ」が中心イメージである。",
-      "description": ""
-    },
-    {
-      "label": "状態・評価の全程度に及ぶ",
-      "description": "→「完全に、まったく」"
-    },
-    {
-      "label": "原因・材料・責任・構成などの全範囲を一つの要素が占める",
-      "description": "→ 文脈上「もっぱら、～だけで」"
-    },
-    {
-      "label": "not",
-      "description": "と組み合わさり、全部には及ばないことを示す →「完全に～というわけではない」"
-    }
-  ],
+  "core": [],
   "sources": [],
   "senses": [
     {
       "number": 1,
-      "title": "【副詞】完全に、まったく、全面的に；もっぱら、すべて～だけで",
+      "title": "【副詞】完全に、まったく、全面的に、すべて～だけで",
       "frequency": 8,
       "register": [
-        "中立。会話と文章の両方で使われる。 completely と同程度に幅広く使えるが、totally より落ち着いた響きがあり、やや文章語的・抑制的に感じられることがある。wholly ほど硬くはない。"
+        "会話・一般文章・報道・ビジネスで広く使う。totally のくだけた強調より落ち着いた響きになりやすく、wholly ほど文章語的ではない。"
       ],
-      "definition": "状態・程度・範囲・原因・構成・責任などについて、一部分だけでなく、その全部に当てはまることを表す。「完全に」「まったく」「全面的に」が中心訳である。\n原因・材料・資金源などの100％を一つの要素が占める場合、日本語では「もっぱら」「すべて～だけで」「～だけに」と訳すのが自然になる。ただし、これは独立した別語義というより、「範囲の全部」という中心義から生じる文脈上の読みである。\nnot entirely は、全面的な否定ではなく「完全には～でない」「必ずしも全面的に～というわけではない」という部分否定を表し、批判や反対を控えめに述べる働きも持つ。主要な学習辞書では、中心義は “completely / in every way possible” としてまとめられている。",
+      "definition": "状態、程度、範囲、原因、構成、責任などについて、一部分に限らず全体に当てはまることを表す。資金源や原因の全範囲を一つの要素が占めるときは「すべて～だけで」「もっぱら」と訳せる。評価語を強める場合もあり、entirely different は「まったく異なる」、entirely possible は「十分にあり得る」。修飾される語の意味が何であるかを保ったまま強めるため、entirely possible を「確実に起こる」とは解釈しない。",
       "patterns": [
-        "entirely + 形容詞／過去分詞＝状態・評価が完全に当てはまる",
-        "be + entirely + 補語＝The idea is entirely new. のように、be動詞の後ろに置く",
-        "助動詞／完了形 + entirely + 動詞＝has entirely changed、can entirely avoid のように主要動詞の前に置く",
-        "entirely + 一般動詞＝I entirely agree. のように、動作・認識・判断の全面性を示す",
-        "動詞 + O + entirely＝ignore O entirely のように、目的語を含む動作全体を後ろから強調する",
-        "動詞 + entirely＝disappear entirely のように、動作・変化が完全に生じることを示す",
-        "depend / rely entirely on something＝結果・生活・判断などが全面的にsomethingに依存する",
-        "consist / be made / be funded + entirely + of / from / by something＝構成・材料・資金源などの全範囲を示す",
-        "be entirely someone’s / be entirely up to someone＝権利・責任・決定が全面的にその人に属する",
-        "almost / nearly / virtually entirely＝わずかな例外を除き「ほぼ完全に」",
-        "not entirely + 形容詞／過去分詞＝「完全に～というわけではない」",
-        "do / does / did not + entirely + 動詞＝「完全には～しない」という部分否定"
+        "entirely 〈形容詞・過去分詞〉＝状態や評価を全面的に強める",
+        "be entirely 〈補語〉＝be の後ろから形容詞や名詞句などを修飾する",
+        "entirely agree with someone・agree with someone entirely＝全面的な同意",
+        "has entirely changed・can be entirely avoided＝助動詞の後ろ、修飾する主要動詞・分詞の前",
+        "disappear entirely・ignore something entirely＝動詞または目的語の後ろで完全性を示す",
+        "rely entirely on something・consist entirely of something・be made entirely of something・be funded entirely by something＝依存先、構成、材料、資金源の全範囲",
+        "be entirely up to someone＝全面的にその人の判断に委ねられる",
+        "almost entirely・nearly entirely＝ほぼ完全に",
+        "not entirely 〈形容詞・分詞〉・do not entirely 〈動詞原形〉＝完全にはそうでない。"
       ],
       "collocations": [
         {
-          "pattern": "entirely + adjective / past participle",
-          "use": "状態・評価・妥当性などが完全に当てはまることを示す",
-          "example": "Your concerns are entirely understandable.",
-          "translation": "あなたが心配するのはまったく当然です。"
-        },
-        {
           "pattern": "be entirely different from something",
-          "use": "二つの物事が表面的ではなく、全面的または根本的に異なることを強調する",
-          "example": "The final design was entirely different from the original proposal.",
-          "translation": "最終的なデザインは当初の提案とはまったく異なっていた。"
+          "use": "二つの物事がまったく異なることを強調する",
+          "example": "The finished product is entirely different from the early prototype.",
+          "translation": "完成品は初期の試作品とはまったく異なる。"
         },
         {
-          "pattern": "it is entirely possible that + 節",
-          "use": "ある出来事を十分に現実的な可能性として認める",
-          "example": "It is entirely possible that the schedule will change.",
-          "translation": "スケジュールが変更されることは十分にあり得ます。"
+          "pattern": "it is entirely possible that 〈節〉",
+          "use": "ある出来事が十分にあり得ると認める",
+          "example": "It is entirely possible that both accounts are accurate.",
+          "translation": "どちらの説明も正確だということは十分にあり得る。"
         },
         {
-          "pattern": "entirely agree with someone / something",
-          "use": "人の意見・評価・主張に全面的に賛成する",
-          "example": "I entirely agree with your assessment.",
-          "translation": "あなたの評価に全面的に同意します。"
+          "pattern": "entirely agree with someone",
+          "use": "相手の意見に全面的に同意する",
+          "example": "I entirely agree with you about the need for clearer instructions.",
+          "translation": "もっと分かりやすい指示が必要だという点で、あなたに全面的に同意します。"
         },
         {
-          "pattern": "depend / rely entirely on someone / something",
-          "use": "結果・収入・機能などが一つの条件や対象に全面的に依存する",
+          "pattern": "disappear entirely",
+          "use": "何かが残らず消えることを表す",
+          "example": "The smell had disappeared entirely by morning.",
+          "translation": "朝までには、そのにおいはすっかり消えていた。"
+        },
+        {
+          "pattern": "ignore something entirely",
+          "use": "対象をまったく考慮しないことを表す",
+          "example": "The report ignored the maintenance costs entirely.",
+          "translation": "その報告書は維持費を完全に無視していた。"
+        },
+        {
+          "pattern": "rely entirely on something",
+          "use": "収入や機能などを一つの対象だけに頼ると述べる",
           "example": "The village relies entirely on tourism for its income.",
-          "translation": "その村は収入を観光だけに全面的に頼っている。"
+          "translation": "その村は収入を観光だけに頼っている。"
         },
         {
           "pattern": "consist almost entirely of something",
-          "use": "わずかな例外を除き、構成要素のほぼすべてがsomethingであることを示す",
-          "example": "The audience consisted almost entirely of students.",
-          "translation": "聴衆はほぼ全員が学生だった。"
+          "use": "わずかな例外を除き、ほぼ全体がある要素で構成されると述べる",
+          "example": "The collection consists almost entirely of letters written during the war.",
+          "translation": "その資料集は、ほぼすべて戦時中に書かれた手紙で構成されている。"
         },
         {
-          "pattern": "be based / funded entirely on / by something",
-          "use": "根拠・資金源などのすべてが特定の要素から成ることを示す",
+          "pattern": "be made entirely of something",
+          "use": "材料がすべてあるものであると述べる",
+          "example": "The sculpture is made entirely of recycled glass.",
+          "translation": "その彫刻は、すべて再生ガラスでできている。"
+        },
+        {
+          "pattern": "be funded entirely by something",
+          "use": "資金の全額が特定の供給源から出ていると述べる",
           "example": "The research was funded entirely by private donations.",
-          "translation": "その研究はすべて民間からの寄付によって資金提供された。"
+          "translation": "その研究費は、全額が民間からの寄付で賄われた。"
+        },
+        {
+          "pattern": "be entirely someone's fault",
+          "use": "責任の全部が特定の人にあると述べる",
+          "example": "The delay was entirely my fault; the rest of the team was ready.",
+          "translation": "遅れは全面的に私の責任でした。ほかのメンバーは準備ができていました。"
         },
         {
           "pattern": "be entirely up to someone",
-          "use": "選択や決定を行う権限が完全にその人に委ねられていることを示す",
+          "use": "選択や決定を全面的にその人へ委ねる",
           "example": "Whether you accept the offer is entirely up to you.",
-          "translation": "その申し出を受けるかどうかは完全にあなた次第です。"
+          "translation": "その申し出を受けるかどうかは、完全にあなた次第です。"
         },
         {
-          "pattern": "not entirely + adjective / past participle",
-          "use": "状態や評価が完全には成立していないことを、断定を弱めて述べる",
-          "example": "I’m not entirely satisfied with the explanation.",
-          "translation": "その説明に完全に満足しているわけではありません。"
+          "pattern": "be not entirely 〈sure/satisfied/convinced〉",
+          "use": "確信、満足、納得が完全ではないことを表す",
+          "example": "I'm not entirely convinced that this is the best solution.",
+          "translation": "これが最善の解決策だとは、完全には納得していません。"
         },
         {
-          "pattern": "do not entirely + verb",
-          "use": "理解・同意・信用などが部分的にしか成立していないことを示す",
-          "example": "I don’t entirely understand what he is suggesting.",
-          "translation": "彼が何を提案しているのか、完全には理解できません。"
+          "pattern": "do not entirely understand something",
+          "use": "理解が十分でないことを述べる",
+          "example": "I don't entirely understand why the two figures differ.",
+          "translation": "なぜ二つの数値が違うのか、完全には理解できません。"
         }
       ],
       "notes": [
-        "entirely は副詞であり、名詞を直接修飾できない。名詞の「全部」を表す場合は形容詞 entire を使う。",
-        "正: the entire building「建物全体」",
-        "誤: the entirely building",
-        "形容詞や過去分詞を修飾するときは、通常その直前に置く。",
-        "entirely reasonable「まったく妥当な」",
-        "entirely unexpected「まったく予想外の」",
-        "be動詞とは、通常 be の後ろに置く。",
-        "The explanation is entirely accurate.",
-        "誤: The explanation entirely is accurate.",
-        "完了形・助動詞を伴う場合は、通常、助動詞と主要動詞の間に置く。",
-        "The situation has entirely changed.",
-        "The problem can be entirely avoided.",
-        "一般動詞では、動詞の前にも後ろにも現れ得るが、どの動詞でも自由に位置を交換できるわけではない。",
-        "I entirely agree with you.＝同意の程度が全面的であることを自然に示す。",
-        "I agree with you entirely.＝文末に置き、全面的な同意を後から強調する。",
-        "He ignored the warning entirely.＝目的語を含む行為全体を「完全に無視した」と表す。",
-        "not entirely は「まったく～ない」ではなく、「完全に～というわけではない」という部分否定である。",
-        "I don’t entirely agree.＝一部には同意するが、全面的には同意しない。",
-        "I entirely disagree.＝まったく同意しない。",
-        "両者は意味が異なる。not entirely が批判や反対を婉曲にする用法も、学習辞書で示されている。",
-        "entirely not の語順は、通常の部分否定には使わない。not entirely を用いる。特別な対比文脈を除き、全面否定を表したい場合は not at all、entirely disagree、completely un- など、文脈に合った表現を選ぶ。",
-        "entirely possible は「確実である」という意味ではない。「可能性を否定できない」「十分に起こり得る」という意味である。",
-        "entirely different は強い相違を表すが、「細部の一つ一つが例外なく異なる」と字義どおりに限定されず、「別物と考えるべきほど違う」という強調にも使われる。",
-        "entirely by donations と only by donations は近いが、焦点がわずかに異なる。",
-        "funded entirely by donations＝資金の100％が寄付から出ていることに焦点を置く。",
-        "funded only by donations＝寄付以外の資金源がないことを対比的に強調する。",
-        "be entirely up to someone と depend entirely on someone を混同しない。",
-        "It’s entirely up to you.＝決定する権限はあなたにある。",
-        "It depends entirely on you.＝結果や成否があなたに全面的に左右される。"
+        "entirely の焦点は「全体・全程度」であり、単に very と同じようにどんな形容詞でも強める語ではない。entirely new、entirely wrong、entirely reasonable は自然だが、単に「とても背の高い人」を entirely tall とせず、very tall とする。",
+        "entire は名詞を修飾する形容詞で、entirely は副詞。誤: the entirely building → 正: the entire building。一方、an entirely new building は entirely が new を修飾するので正しい。entirely my fault や entirely mine のように、補語となる名詞句・代名詞へ範囲の焦点を当てる使い方はできる。",
+        "形容詞や分詞を強めるときは通常その直前に置く。The explanation is entirely reasonable. は自然で、通常の語順で The explanation entirely is reasonable. とはしない。助動詞を伴う場合も、The design has entirely changed.、The risk can be entirely avoided. のように修飾する部分に近づける。",
+        "一般動詞の前後の位置は、文体や焦点によって自然さが変わる。I entirely agree with you. と I agree with you entirely. はどちらも自然。通常は I entirely ignored the warning. または I ignored the warning entirely. のように、動詞前か文末へ置くと使いやすい。I ignored entirely the warning. のように動詞直後・目的語前へ置く例も文章語などで見られるため、一律に誤りとはしない。",
+        "not entirely は、論理的には「全面的にそうだとはいえない」という否定。部分的にはそうだと示唆しやすいが、少しは同意・理解していると必ず保証する表現ではなく、強い不満を控えめに述べる場合もある。I don't entirely agree.「全面的に賛成とはいかない」と I entirely disagree.「全面的に反対だ」は区別する。",
+        "普通の部分否定には not entirely の順を使う。entirely not をそのまま入れ替えて使わない。全面否定を明示するなら、文脈に応じて not at all、completely disagree などを選ぶ。",
+        "almost entirely や nearly entirely は矛盾しない。「完全に」という到達点へほぼ達していることを表す。逆に entirely different は、比較上の違いを強調する表現であり、細部すべてについて例外なく違うと機械的に解釈しない。",
+        "entirely possible は可能性の承認を強めるだけで、確率が100％という意味ではない。entirely understandable も「理解できるのはもっともだ」という評価であり、全情報をすでに理解したという意味ではない。",
+        "前置詞は entirely が決めるのではなく、中心の動詞・形容詞との組み合わせで決まる。be based entirely on evidence、be funded entirely by donations、consist entirely of water のように、on・by・of を入れ替えない。",
+        "It is entirely up to you. は決定権を委ねる表現。It depends entirely on you. は結果などがあなたに全面的に左右されるという意味で、決定権があるとは限らない。"
       ],
       "synonyms": [
         {
           "word": "completely",
-          "definition": "一部分も残さず、完全な程度・状態・結果に達して",
+          "definition": "一部も残さず、完全な程度や状態に達して",
           "frequency": 9,
-          "difference": "entirely に最も近い中立的な語。変化・消失・破壊・理解・完了など、結果が完全であることにも特に広く使われる。",
+          "difference": "entirely に近い中立語で、状態・消失・完了などに広く使える。個々の結びつきの自然さは動詞や形容詞による。",
           "example": "The room was completely silent.",
           "translation": "部屋は完全に静まり返っていた。"
         },
@@ -174,83 +152,83 @@
           "word": "totally",
           "definition": "完全に、まったく",
           "frequency": 9,
-          "difference": "entirely より口語的で、感情的な強調を伴いやすい。特に北米英語のカジュアルな会話では、賛成・驚き・評価の強調にも頻繁に使われる。",
+          "difference": "日常会話では entirely よりくだけた強調になりやすい。感情的な賛成や評価にもよく使う。",
           "example": "I totally forgot about the appointment.",
           "translation": "その約束をすっかり忘れていました。"
         },
         {
-          "word": "absolutely",
-          "definition": "例外・疑い・制限を認めず、完全に",
-          "frequency": 9,
-          "difference": "entirely より断定や話者の確信が強く表れやすい。正誤・必要性・不可能性などの強い評価や、単独の肯定返答にも使える。",
-          "example": "That is absolutely correct.",
-          "translation": "それは完全に正しいです。"
-        },
-        {
           "word": "fully",
-          "definition": "必要な水準または可能な最大限の程度まで十分に",
-          "frequency": 9,
-          "difference": "理解・認識・準備・装備・回復・発達などが必要水準に達していることを表しやすい。単なる強調では entirely と交換できない場合がある。",
+          "definition": "必要な水準、または可能な最大限の程度まで十分に",
+          "frequency": 8,
+          "difference": "理解、準備、装備、回復などの充足を表しやすい。範囲の全部を述べる entirely と重なるが、fully booked のような結びつきはそのまま覚える。",
           "example": "We fully understand the risks involved.",
-          "translation": "私たちは伴うリスクを十分に理解しています。"
+          "translation": "私たちは、伴うリスクを十分に理解しています。"
         },
         {
           "word": "wholly",
-          "definition": "すべての部分・側面において、全面的に",
+          "definition": "すべての部分や側面において、全面的に",
           "frequency": 5,
-          "difference": "entirely より硬く文章語的。評価・責任・所有について使われやすく、wholly owned subsidiary「完全子会社」などの定型表現にも現れる。",
+          "difference": "entirely より硬く、責任、所有、評価などを述べる文章によくなじむ。",
           "example": "The accusation was wholly unfounded.",
           "translation": "その非難にはまったく根拠がなかった。"
         },
         {
+          "word": "absolutely",
+          "definition": "制限や留保を置かず、完全に",
+          "frequency": 9,
+          "difference": "正誤・必要性などの評価を強く断定するほか、単独で承諾や同意にも使う。entirely は同じような単独の返答には通常使わない。",
+          "example": "That is absolutely correct.",
+          "translation": "それは完全に正しいです。"
+        },
+        {
           "word": "utterly",
-          "definition": "極端な程度まで、まったく完全に",
+          "definition": "極端な程度まで、まったく",
           "frequency": 6,
-          "difference": "entirely より強い感情的・評価的な響きがある。utterly ridiculous、utterly exhausted など、極端な状態、特に否定的評価と結びつきやすい。",
-          "example": "His explanation was utterly confusing.",
-          "translation": "彼の説明はまったくわけが分からなかった。"
+          "difference": "entirely より感情的・評価的で、ridiculous や exhausted などの強い状態と結びつきやすい。資金源の内訳などには通常使わない。",
+          "example": "We were utterly exhausted after the climb.",
+          "translation": "登山の後、私たちは完全に疲れ切っていた。"
         },
         {
           "word": "solely",
-          "definition": "一つの人・理由・目的・手段だけによって",
+          "definition": "ほかの人、理由、手段などを除き、それだけによって",
           "frequency": 7,
-          "difference": "entirely が「全範囲」を中心に表すのに対し、solely は「ほかを除外して、それだけ」という限定を直接表す。原因・責任・根拠について文章語やビジネス文書で多い。",
+          "difference": "entirely のうち、原因・責任・資金源などが一つに限られる用法と重なる。完全性より、ほかの候補の排除を明示する。",
           "example": "The decision was based solely on the evidence.",
           "translation": "その決定は証拠だけに基づいていた。"
         },
         {
           "word": "purely",
-          "definition": "ほかの理由・目的・要素を交えず、ただ～だけで",
+          "definition": "ほかの理由、目的、要素を交えず、それだけで",
           "frequency": 7,
-          "difference": "動機・理由・理論上の区別について、「別の意図や実際的要素を含まない」と示すことが多い。",
+          "difference": "entirely と限定の意味で重なるが、動機や理由を切り分ける場合に特になじむ。purely theoretical は「理論上だけの」で、完全性そのものとは焦点が違う。",
           "example": "The change was made purely for practical reasons.",
-          "translation": "その変更は純粋に実用上の理由だけで行われた。"
+          "translation": "その変更は、純粋に実用上の理由だけで行われた。"
         }
       ],
       "antonyms": [
         {
           "word": "partly",
-          "definition": "全体ではなく、その一部分について、または一部の原因によって",
+          "definition": "全体ではなく一部分について、または原因の一部として",
           "frequency": 8,
-          "difference": "範囲・原因・程度の全部を表す entirely に対し、その一部だけに当てはまるという直接的な程度上の対立。",
+          "difference": "entirely の全範囲に対し、範囲・原因・程度の一部を表す対立。まったくないという全面否定ではない。",
           "example": "The delay was partly caused by bad weather.",
-          "translation": "遅延の一因は悪天候だった。"
+          "translation": "遅れの一因は悪天候だった。"
         },
         {
           "word": "partially",
           "definition": "完全ではなく、部分的に",
           "frequency": 7,
-          "difference": "partly よりやや形式的で、物理的な状態、機能、閉鎖、完成度などについて使われやすい。entirely との程度・範囲上の対立を表す。",
+          "difference": "entirely と程度・範囲の軸で対立し、partly よりやや硬い。状態、機能、閉鎖などの一部に当てはまることを表しやすい。",
           "example": "The road remains partially closed.",
           "translation": "その道路は現在も一部通行止めになっている。"
         },
         {
           "word": "incompletely",
-          "definition": "必要な部分・段階・情報などがすべてそろわない状態で",
-          "frequency": 5,
-          "difference": "entirely の一般的な反対というより、「完成・実行・記録などが完全でない」という結果状態の反対を明示する。",
+          "definition": "必要な部分や段階が全部は満たされない形で",
+          "frequency": 4,
+          "difference": "完成・実行・記録などの完全性で対立する。entirely の資金源や原因の限定用法を、そのまま否定する語ではない。",
           "example": "The form was incompletely filled out.",
-          "translation": "その用紙は記入が不完全だった。"
+          "translation": "その用紙には記入漏れがあった。"
         }
       ]
     }

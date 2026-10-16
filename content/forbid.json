@@ -1,94 +1,79 @@
 {
   "word": "forbid",
   "slug": "forbid",
-  "ipa": "米: /fɚˈbɪd/｜英: /fəˈbɪd/",
+  "ipa": "米: /fɚˈbɪd/｜英: /fəˈbɪd/。2音節で第2音節に強勢。米英差は第1音節の /ɚ/ と /ə/。標準的な活用は forbid–forbade–forbidden。過去形は米 /fɚˈbæd/ または /fɚˈbeɪd/、英 /fəˈbæd/ または /fəˈbeɪd/ で、第2音節に二つの母音の異形がある。forbidden は米 /fɚˈbɪdən/、英 /fəˈbɪdən/、forbidding は米 /fɚˈbɪdɪŋ/、英 /fəˈbɪdɪŋ/。これらも米英差は第1音節にあり、第2音節に強勢を置く。forbids の語尾は /dz/。",
   "lead": "権限を持つ人、法律、規則、宗教、慣習などが、ある人の行為や、ある行為そのものを認めないと定める。単なる助言ではなく、相手が従うことを期待する強い禁止を表す。人が主語なら直接的な命令、law、rule、policy などが主語なら制度上の禁止となる。Cambridge Dictionary",
-  "updated": "2026-08-08",
+  "updated": "2026-10-16",
   "notion_url": "https://app.notion.com/p/forbid-3b64faa9b77d812d9bf2dbb904ef7053",
-  "pronunciation": [
-    "第2音節に強勢があり、最初の for- は通常弱く発音される。米音では /fɚ-/、英音では /fə-/ となり、日本語式に「フォービッド」と第1音節を強くしない。",
-    "活用は forbid–forbade–forbidden の不規則変化。",
-    "forbids　米: /fɚˈbɪdz/｜英: /fəˈbɪdz/",
-    "forbade　米: /fɚˈbæd/, /fɚˈbeɪd/｜英: /fəˈbæd/, /fəˈbeɪd/",
-    "forbidden　米: /fɚˈbɪd.ən/｜英: /fəˈbɪd.ən/。速い発音では末尾が音節主音の /n̩/ となり、/ˈbɪdn̩/ に近づく。",
-    "forbidding　米: /fɚˈbɪd.ɪŋ/｜英: /fəˈbɪd.ɪŋ/",
-    "過去形は forbade、過去分詞は forbidden を用いるのが現代の標準。forbad や過去・過去分詞としての forbid も辞書には記録されているが、現代の学習者は通常使わない。Oxford Learner’s Dictionaries"
-  ],
+  "pronunciation": [],
   "etymology": [
-    "古英語 forbēodan「禁じる、してはならないと命じる」に由来する。for-「反対して、対抗して」と bēodan「命じる、告げる」の組み合わせで、語源上は「反対方向に命じる＝するなと命じる」という構造を持つ。Merriam-Webster",
-    "現代英語の前置詞 for と動詞 bid を自由に組み合わせて作られた語ではなく、古英語から一語として受け継がれている。",
-    "bid: 「申し出る、入札する」のほか、古風に「命じる」の意味を持ち、forbid の後半と同語源。",
-    "verboten: ドイツ語 verboten「禁止された」から英語に借用された語。ドイツ語 verbieten「禁じる」は forbid と同じゲルマン系の語源を持つ。英語の verboten は「厳禁の」という、強調的または時にユーモラスな表現として使われる。"
+    "古英語 forbēodan「禁止する」に由来し、否定・阻止を表す接頭要素 for- と bēodan「命じる・告げる」から成る。現代の前置詞 for と bid をその場で組み合わせた語ではない。bid の「命じる」という語義、ドイツ語からの借用語 verboten「厳禁の」と歴史的に関連する。現在の「禁止する」が中心で、事情が許さない用法や、接近をためらわせる forbidding にもつながる。"
   ],
   "formation": [
     {
       "term": "forbade",
-      "description": "forbid の標準的な過去形。「禁じた」。"
+      "description": "標準的な過去形。forbad も古い形として記録される。"
     },
     {
       "term": "forbidden",
-      "description": "過去分詞、および「禁止された、禁断の」という形容詞。forbidden fruit「禁断の果実」のように、禁止されているためかえって魅力的なものを表すことがある。"
+      "description": "過去分詞、および「禁止された・禁断の」という形容詞。"
     },
     {
       "term": "forbidding",
-      "description": "現在分詞。また形容詞では「近寄りがたい、恐ろしげな、険しい」という独立した意味を持つ。"
+      "description": "現在分詞、および「近寄りがたい」という形容詞。"
     },
     {
       "term": "forbiddingly",
-      "description": "副詞。「近寄りがたい様子で、険しく」。"
-    },
-    {
-      "term": "forbiddance",
-      "description": "名詞「禁止」。現代では低頻度で、通常は prohibition、ban、the act of forbidding などを使う。"
-    },
-    {
-      "term": "forbidder",
-      "description": "名詞「禁止する人・もの」。極めて低頻度で、通常は authority、person who forbids などに言い換える。"
+      "description": "副詞「近寄りがたい様子で・威圧的に」。"
     }
   ],
   "core": [
     {
-      "label": "権限・規則・事情などが、ある行為の前に強い停止線を引き、「それをしてはならない、または実行できない状態にする」というイメージ。",
-      "description": ""
+      "type": "paragraph",
+      "text": "行為や接近の前に「通さない」という制止を置く。権限による禁止、禁止状態、近寄る気をそぐ印象、禁止を願う表現、事情による制約がつながる。語義6は歴史的残存義で、呪われた状態という語彙的意味はこの現代的な核から自然には導けないため、個別に参照する。"
     },
     {
-      "label": "権限による停止線",
-      "description": "→ 人に「するな」と命じる、行為を禁止する。"
+      "type": "item",
+      "text": "行為を通さないという命令 → 「～を禁じる・～してはならないと命じる」（語義1）"
     },
     {
-      "label": "法律・規則による停止線",
-      "description": "→ ある行為を制度上認めない。"
+      "type": "item",
+      "text": "行為を通さないという規則上の状態 → 「forbidden：禁止された・禁断の」（語義2）"
     },
     {
-      "label": "事情による停止線",
-      "description": "→ 時間・空間・健康などが行為を事実上困難または不可能にする。"
+      "type": "item",
+      "text": "接近を通さないという外見の印象 → 「forbidding：近寄りがたい・威圧的な」（語義3）"
     },
     {
-      "label": "God",
-      "description": "forbid → 望ましくない出来事が阻止されるよう願うことから、「そんなことになりませんように」を表す。"
+      "type": "item",
+      "text": "出来事を通さないよう求める願い → 「God forbid：そんなことになりませんように」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "実行を通さないという事情の制約 → 「事情が～を許さない・～を妨げる」（語義5）"
     }
   ],
   "sources": [],
   "senses": [
     {
       "number": 1,
-      "title": "【他動詞】「～を禁じる、～してはならないと命じる、～を許可しない」",
+      "title": "【動詞・他動詞】～を禁じる・～してはならないと命じる",
       "frequency": 7,
       "register": [
         "中立～ややフォーマル。法律・規則・宗教・家庭内の権限などで広く使われる。ただし、相手に直接 I forbid you to ... と言う形は非常に強く、権威的・支配的に響きやすい。日常的な施設案内や穏当な注意では、... isn’t allowed、You’re not allowed to ...、Please don’t ... のほうが一般的。"
       ],
-      "definition": "権限を持つ人、法律、規則、宗教、慣習などが、ある人の行為や、ある行為そのものを認めないと定める。単なる助言ではなく、相手が従うことを期待する強い禁止を表す。人が主語なら直接的な命令、law、rule、policy などが主語なら制度上の禁止となる。Cambridge Dictionary",
+      "definition": "人・組織・規則などが、ある行為をしてはならない、ある物を使用・享受してはならないと定める。権限を持つ者、または権限を持つかのように振る舞う者の強い禁止を表し、相手の服従を期待する。ただし、禁止が実際に守られたことまでは意味しない。",
       "patterns": [
-        "forbid + something＝行為・物・制度などを禁止する。",
-        "forbid + doing something＝動名詞で表された行為一般を禁止する。",
-        "forbid + someone + to do something＝人に～することを禁じる。",
-        "forbid + someone + from doing something＝人が～するのを禁じる。",
-        "forbid + someone + something＝人に特定の物・権利・利用機会などを認めない。比較的限定された構文。",
-        "forbid + someone + doing something＝人が～することを禁じる。実在するが、to不定詞形や from -ing 形より低頻度。",
-        "someone + be forbidden + to do＝人・組織などが～することを禁じられている。",
-        "someone + be forbidden + from doing＝人が～することを禁じられている。",
-        "something + be forbidden＝行為・物などが禁止されている。",
-        "it + be forbidden + to do＝～することは禁止されている。"
+        "forbid something",
+        "forbid doing something＝物・行為を禁止する",
+        "forbid someone to do something",
+        "forbid someone from doing something＝人に行為を禁じる",
+        "forbid someone something＝人に物・利用などを認めない",
+        "forbid someone doing something＝人がその行為をすることを禁じる。比較的限定された形",
+        "someone + be forbidden to do something",
+        "someone + be forbidden from doing something＝禁止を受ける",
+        "something + be forbidden by someone",
+        "it + be forbidden to do something＝行為・物が禁止される"
       ],
       "collocations": [
         {
@@ -110,14 +95,14 @@
           "translation": "会社の方針では、パスワードを同僚と共有することが禁じられている。"
         },
         {
-          "pattern": "forbid + activity",
+          "pattern": "forbid flash photography",
           "use": "特定の行為・活動そのものを禁止対象として示す",
           "example": "The museum forbids flash photography.",
           "translation": "その美術館はフラッシュ撮影を禁止している。"
         },
         {
           "pattern": "strictly forbid something",
-          "use": "例外を認めない厳格な禁止を示す",
+          "use": "厳格に禁止していることを強調する。",
           "example": "The school strictly forbids bullying in any form.",
           "translation": "その学校はいかなる形のいじめも厳しく禁じている。"
         },
@@ -129,9 +114,9 @@
         },
         {
           "pattern": "be forbidden by law",
-          "use": "ある行為が法律上認められていないことを示す",
-          "example": "Selling alcohol to minors is forbidden by law.",
-          "translation": "未成年者に酒を販売することは法律で禁じられている。"
+          "use": "法律による禁止という根拠を示す。",
+          "example": "In that country, the sale of this pesticide is forbidden by law.",
+          "translation": "その国では、この農薬の販売は法律で禁じられている。"
         },
         {
           "pattern": "it is forbidden to do something",
@@ -140,13 +125,13 @@
           "translation": "許可なくこの区域に立ち入ることは禁止されている。"
         },
         {
-          "pattern": "forbid the sale/use/import of something",
+          "pattern": "forbid the import of something",
           "use": "法律・規則が、物の販売・使用・輸入などを禁止する",
           "example": "The new regulations forbid the import of untreated wood.",
           "translation": "新しい規則は、未処理木材の輸入を禁止している。"
         },
         {
-          "pattern": "forbid someone entry/access to [place/something]",
+          "pattern": "forbid someone access to something",
           "use": "人が場所に入ること、または情報・設備などを利用することを認めない",
           "example": "Security staff forbade the reporters access to the restricted area.",
           "translation": "警備員は記者たちが立入制限区域に入ることを禁じた。"
@@ -158,45 +143,26 @@
           "translation": "医師から飲酒を禁じられている。"
         },
         {
-          "pattern": "forbidden fruit",
-          "use": "禁止されているため、かえって魅力的に感じられる物・経験を比喩的に表す",
-          "example": "For the children, the locked room became a kind of forbidden fruit.",
-          "translation": "子どもたちにとって、その鍵のかかった部屋は一種の「禁断の果実」になった。"
+          "pattern": "be forbidden to do something",
+          "use": "人が行為を禁じられていることを示す。",
+          "example": "Visitors are forbidden to feed the animals.",
+          "translation": "来場者は動物に餌を与えることを禁じられている。"
         },
         {
-          "pattern": "forbid the banns",
-          "use": "英国の歴史的・教会的文脈で、結婚予告に異議を唱えて婚姻を阻止する。現代の日常語としては極めて低頻度",
-          "example": "No one came forward to forbid the banns.",
-          "translation": "その結婚予告に異議を申し立てる者は現れなかった。"
+          "pattern": "be forbidden from doing something",
+          "use": "from -ing を伴う受動態で禁止を示す。",
+          "example": "Staff are forbidden from copying customer records onto personal devices.",
+          "translation": "職員は顧客記録を私物の端末にコピーすることを禁じられている。"
+        },
+        {
+          "pattern": "forbid someone doing something",
+          "use": "人の行為を禁止対象とする、比較的限定された形。",
+          "example": "I knew my father would forbid me going out so late.",
+          "translation": "そんな遅い時間に出かけることは父に禁じられるだろうと分かっていた。"
         }
       ],
       "notes": [
-        "forbid は原則として他動詞であり、禁止する対象または人を目的語に取る。目的語を置かず、直後に to不定詞だけを続けることはできない。",
-        "誤: The law forbids to smoke here.",
-        "正: The law forbids smoking here.",
-        "正: The law forbids people to smoke here.",
-        "正: The law forbids people from smoking here.",
-        "forbid someone to do と forbid someone from doing はどちらも標準的。前者は「その人にするなと命じる」という権限的な命令を直接表し、後者は「その人がその行為をすることを禁止する」という構造を取る。ただし、多くの文脈では実質的な意味差は小さい。",
-        "誤: They forbade him from to enter the building.",
-        "正: They forbade him to enter the building.",
-        "正: They forbade him from entering the building.",
-        "能動態の forbid + someone + to do に対応して、受動態でも someone + be forbidden + to do が使える。",
-        "能動: The rules forbid visitors to touch the exhibits.",
-        "受動: Visitors are forbidden to touch the exhibits.",
-        "forbid + doing は行為一般を目的語にする。人を明示するなら forbid someone to do または forbid someone from doing が明確。",
-        "The rules forbid smoking.＝規則は喫煙という行為を禁止している。",
-        "The rules forbid employees from smoking.＝規則は従業員が喫煙することを禁止している。",
-        "forbid someone doing も可能で、She knew her mother would forbid her going. のように用いられる。ただし、現代の一般的な作文では forbid someone to do / from doing のほうが明確で広く使われる。",
-        "forbid someone something は二重目的語に似た形だが、自由にどの名詞にも使えるわけではない。food、alcohol、entry、access など、相手に与えない物・権利・利用機会で使われる。日常語では not allow someone to have ... のほうが自然な場合が多い。",
-        "not forbid は「禁止してはいない」という意味にすぎず、積極的に許可・承認しているとは限らない。",
-        "The rules do not forbid it.＝規則上は禁止されていない。",
-        "The rules allow it.＝規則上、許可されている。",
-        "forbidden は過去分詞として受動態を作るほか、「禁止された」という形容詞としても定着している。",
-        "Smoking is forbidden.＝喫煙は禁止されている。",
-        "This is a forbidden area.＝ここは立入禁止区域だ。",
-        "「～してはいけない」は must not / mustn’t でも表せる。don’t have to は「する必要がない」であって、禁止ではない。",
-        "You mustn’t enter.＝入ってはいけない。",
-        "You don’t have to enter.＝入る必要はない。"
+        "forbid to do だけでは行為を目的語にできない。×The rules forbid to smoke. は ○The rules forbid smoking.、人を示すなら ○The rules forbid visitors to smoke. とする。from の後は -ing で、×from to smoke とはしない。forbid someone to do と from doing はいずれも標準的で、前者だけが命令、後者だけが物理的阻止という区別はない。forbid someone doing も実在するが、学習者は to do／from doing を基本にすると明確。二重目的語は access、entry、alcohol などで用いられるが、すべての目的語で自由に交替するわけではない。目的語が明らかな場合の I forbid it.「絶対にだめだ」は it を保つ。not forbid は禁止の不在であり、積極的な承認とは限らない。I forbid you to ... は強く権威的に響くので、日常の穏当な案内では You are not allowed to ... などを使う。forbid oneself to do は自分に課す禁止として作れるが、基本の他動詞構文に再帰目的語を置いたものである。禁止状態を表す形容詞 forbidden は語義2、威圧的な外観を表す forbidding は語義3。"
       ],
       "synonyms": [
         {
@@ -214,14 +180,6 @@
           "difference": "名詞としても使え、禁止措置そのものや、対象を全面的に排除する決定に焦点を置く。forbid は人への直接命令にも使える。",
           "example": "The city banned smoking in public parks.",
           "translation": "市は公共の公園での喫煙を禁止した。"
-        },
-        {
-          "word": "disallow",
-          "definition": "規則・審査・判断に基づいて、申請・行為・得点などを認めない",
-          "frequency": 5,
-          "difference": "forbid のような強い命令より、「規則上、有効と認めない」という判定に焦点を置く。スポーツ、税務、審査、システム設定などで多い。",
-          "example": "The referee disallowed the goal for offside.",
-          "translation": "審判はオフサイドを理由にその得点を無効とした。"
         },
         {
           "word": "bar",
@@ -256,75 +214,321 @@
           "difference": "forbid との許可上の対立語。allow よりフォーマルで、法律・施設・規則による許可に適する。",
           "example": "The regulations permit residents to apply for an exemption.",
           "translation": "規則では、住民が免除を申請することを認めている。"
-        },
-        {
-          "word": "authorize",
-          "definition": "権限を正式に与え、特定の行為を行うことを承認する",
-          "frequency": 6,
-          "difference": "単に禁止しないだけでなく、公式な権限・承認を積極的に与える点で forbid と対立する。",
-          "example": "Only the director can authorize the release of these records.",
-          "translation": "これらの記録の公開を正式に承認できるのは部長だけだ。"
         }
       ]
     },
     {
       "number": 2,
-      "title": "他動詞】【フォーマル】「～を妨げる、～を困難または不可能にする、事情が許さない」",
+      "title": "【形容詞】forbidden：禁止された・禁断の",
+      "frequency": 7,
+      "register": [
+        "一般。forbidden love などは物語・評論でも多い。"
+      ],
+      "definition": "規則・慣習・権限などによって許されていない状態の。場所・行為・話題・関係などを修飾し、forbidden love では社会や周囲に認められない恋愛を指す。禁止されているため魅力を感じることは文脈上の含みであり、forbidden 全体の必須意味ではない。",
+      "patterns": [
+        "a forbidden 〈場所・行為・話題〉＝禁止された対象",
+        "something + be/remain forbidden＝禁止状態にある",
+        "something + be forbidden to someone＝人に許されていない",
+        "forbidden fruit＝禁止されているため魅力的に見えるものを表す定着した名詞句"
+      ],
+      "collocations": [
+        {
+          "pattern": "a forbidden area",
+          "use": "立ち入りが認められない区域。",
+          "example": "The map marks the minefield as a forbidden area.",
+          "translation": "地図では地雷原が立入禁止区域として示されている。"
+        },
+        {
+          "pattern": "forbidden love",
+          "use": "社会・家族などが認めない恋愛。",
+          "example": "The novel tells a story of forbidden love between members of rival families.",
+          "translation": "その小説は対立する一族の者同士の禁断の恋を描いている。"
+        },
+        {
+          "pattern": "be forbidden to someone",
+          "use": "ある対象への接触・利用がその人に許されない。",
+          "example": "These books remained forbidden to the pupils.",
+          "translation": "それらの本は生徒たちには引き続き閲覧を禁じられていた。"
+        },
+        {
+          "pattern": "forbidden fruit",
+          "use": "禁じられているため、かえって欲しくなるもの。",
+          "example": "To the teenagers, the adults-only club was forbidden fruit.",
+          "translation": "その十代の若者たちにとって、大人専用のクラブは禁断の果実だった。"
+        }
+      ],
+      "notes": [
+        "限定用法・叙述用法の両方がある。受動態との境界は重なり、Photography is forbidden. だけで必ずどちらかに決める必要はない。is forbidden by the rules のように禁止する主体を述べれば動詞とのつながりが明確になる。通常は strictly／expressly／absolutely forbidden で、very forbidden は基本的な程度表現ではない。語義3の a forbidding house は「近寄りがたい家」であり、a forbidden house「立ち入りなどが禁じられた家」とは違う。forbidden fruit はここでは可算の実物の果実に限定されない比喩表現である。"
+      ],
+      "synonyms": [
+        {
+          "word": "prohibited",
+          "definition": "規則などによって禁じられている。",
+          "frequency": 7,
+          "difference": "禁止という状態は近いが、制度的で硬い響きが強く、禁断の魅力という含みは通常ない。",
+          "example": "The list includes prohibited substances.",
+          "translation": "一覧には禁止物質が含まれている。"
+        },
+        {
+          "word": "off-limits",
+          "definition": "立ち入り・利用・接触などが禁じられている。",
+          "frequency": 6,
+          "difference": "特に区域や話題の境界を示す。通常は be off-limits to someone。",
+          "example": "The roof is off-limits to guests.",
+          "translation": "宿泊客は屋上に立ち入れない。"
+        },
+        {
+          "word": "taboo",
+          "definition": "社会・文化の強い禁忌によって避けられている。",
+          "frequency": 6,
+          "difference": "法的禁止でなくても使え、社会規範への抵触を前面に出す。",
+          "example": "Money was a taboo subject in the family.",
+          "translation": "その家族ではお金の話は禁句だった。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "permitted",
+          "definition": "許可されている。",
+          "frequency": 7,
+          "difference": "許可・禁止の直接的な対立で、好ましさの評価とは別。",
+          "example": "Only permitted items may be brought inside.",
+          "translation": "許可された物品だけを持ち込める。"
+        },
+        {
+          "word": "allowed",
+          "definition": "認められている。",
+          "frequency": 9,
+          "difference": "forbidden と許可の軸で対立する、より日常的な表現。",
+          "example": "Pets are allowed in this room.",
+          "translation": "この部屋にはペットを入れてよい。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【形容詞】forbidding：近寄りがたい・威圧的な",
+      "frequency": 5,
+      "register": [
+        "描写的。日常の外見描写から文学まで。"
+      ],
+      "definition": "人の顔つき・態度や、建物・風景などが、怖そう、冷たそう、手ごわそうに見え、近づく気をそぐさま。実際に接近を禁止していることや、その人が本当に不親切であることまでは表さない。",
+      "patterns": [
+        "a forbidding 〈外観・人・場所〉＝威圧感のある対象",
+        "someone/something + look/seem/be forbidding＝近寄りがたい印象を与える",
+        "a more/less forbidding 〈対象〉＝威圧感の程度を比較する"
+      ],
+      "collocations": [
+        {
+          "pattern": "a forbidding expression",
+          "use": "表情の厳しさで人を寄せつけない印象。",
+          "example": "His forbidding expression softened when he saw the children.",
+          "translation": "子どもたちを見ると、彼の険しい表情が和らいだ。"
+        },
+        {
+          "pattern": "a forbidding landscape",
+          "use": "険しく、容易には近づけそうにない風景。",
+          "example": "The road led into a forbidding landscape of bare rock.",
+          "translation": "道はむき出しの岩が広がる険しい風景の中へと続いていた。"
+        },
+        {
+          "pattern": "look forbidding",
+          "use": "外観が怖そう・冷たそうに見える。",
+          "example": "The building looks forbidding, but the staff are welcoming.",
+          "translation": "建物は近寄りがたく見えるが、職員は親切に迎えてくれる。"
+        },
+        {
+          "pattern": "a less forbidding 〈外観の対象〉",
+          "use": "印象の威圧感を比較する。",
+          "example": "The new entrance gives the courthouse a less forbidding appearance.",
+          "translation": "新しい入口のおかげで、その裁判所の外観は以前ほど威圧的ではなくなった。"
+        }
+      ],
+      "notes": [
+        "forbidding は現在分詞と同形だが、この意味では形容詞で、very／rather／more／less などの程度修飾ができる。He is forbidding us to enter. は目的語 us と to enter を取る動詞の進行形「私たちが入るのを禁じている」。He looks forbidding. は外見の評価「近寄りがたく見える」。語義2の forbidden「禁止された」と混同しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "intimidating",
+          "definition": "相手をおじけづかせる。",
+          "frequency": 7,
+          "difference": "見た目だけでなく能力・地位・課題の難しさにも使える。",
+          "example": "Speaking to such a large audience was intimidating.",
+          "translation": "あれほど大勢を前に話すのは気後れした。"
+        },
+        {
+          "word": "unapproachable",
+          "definition": "人が話しかけにくい、または物が近づきにくい。",
+          "frequency": 5,
+          "difference": "人については対人関係上の距離に重点があり、怖そうな外観は必須ではない。",
+          "example": "She seemed unapproachable until I spoke to her.",
+          "translation": "話しかけるまでは、彼女は近寄りがたく思えた。"
+        },
+        {
+          "word": "daunting",
+          "definition": "難しそうで気力をくじくような。",
+          "frequency": 6,
+          "difference": "特に仕事・課題の困難さによる印象で、冷たい外見とは異なる。",
+          "example": "The amount of paperwork was daunting.",
+          "translation": "書類仕事の量には気が遠くなった。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "welcoming",
+          "definition": "相手を快く迎える印象の。",
+          "frequency": 7,
+          "difference": "人・場所が与える接近しやすさの軸で反対。",
+          "example": "The café has a warm, welcoming atmosphere.",
+          "translation": "そのカフェには温かく入りやすい雰囲気がある。"
+        },
+        {
+          "word": "approachable",
+          "definition": "気軽に話しかけられる。",
+          "frequency": 6,
+          "difference": "人の対人印象という範囲で反対になる。",
+          "example": "Our new supervisor is friendly and approachable.",
+          "translation": "新しい上司は親しみやすく、気軽に話しかけられる。"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "【定型表現】God forbid：そんなことになりませんように",
+      "frequency": 6,
+      "register": [
+        "口語的な定型表現。God を含むため、宗教的理由などから不快または不適切と感じる人もいる。Heaven forbid は God を直接名指ししない変形だが、皮肉・芝居がかった響きを伴うことがある。"
+      ],
+      "definition": "望ましくない出来事について、それが起こらないことを強く願う表現。単独で「そんなことは絶対に嫌だ」「まさか」と反応したり、文中に挿入して「万一そんなことが起きたら」と慎重に仮定したりする。文脈とイントネーションによっては、過剰な心配や厳格さを皮肉る表現にもなる。",
+      "patterns": [
+        "God forbid!",
+        "Heaven forbid!＝単独の否定的願望・拒絶",
+        "God/Heaven forbid (that) someone + 〈動詞原形〉＝起きてほしくないという願望",
+        "God/Heaven forbid (that) someone should do something＝should を伴う願望",
+        "if, God forbid, 〈節〉＝望ましくない仮定への挿入"
+      ],
+      "collocations": [
+        {
+          "pattern": "God forbid!",
+          "use": "望ましくない可能性を聞いて、強く「そうならないことを願う」と反応する",
+          "example": "“Do you think the operation could fail?” “God forbid!”",
+          "translation": "「手術が失敗する可能性はあると思う？」「そんなことになりませんように！」"
+        },
+        {
+          "pattern": "God forbid that anything happen to someone",
+          "use": "望ましくない出来事が起こらないよう強く願う",
+          "example": "God forbid that anything happen to the children.",
+          "translation": "子どもたちに何事も起こりませんように。"
+        },
+        {
+          "pattern": "God forbid that someone should do something",
+          "use": "望ましくない出来事を仮定しつつ、それが起こらないことを願う",
+          "example": "God forbid that anyone should lose their life over this dispute.",
+          "translation": "この争いで誰かが命を落とすようなことがありませんように。"
+        },
+        {
+          "pattern": "if, God forbid, something happens",
+          "use": "望んではいない最悪の事態を、慎重に仮定する",
+          "example": "If, God forbid, the treatment fails, we will discuss other options.",
+          "translation": "万一、そうならないことを願いますが、治療がうまくいかなければ、ほかの選択肢を検討します。"
+        },
+        {
+          "pattern": "Heaven forbid that someone should do something",
+          "use": "望ましくない可能性を芝居がかった調子で否定する。皮肉にも使われる",
+          "example": "Heaven forbid that we should arrive two minutes late.",
+          "translation": "まさか私たちが2分も遅れるなんて、とんでもないことですね。"
+        },
+        {
+          "pattern": "Heaven forbid!",
+          "use": "God を直接使わずに、望ましくない可能性を強く否定する",
+          "example": "“Would you ever sell the house?” “Heaven forbid!”",
+          "translation": "「その家を売ることはある？」「まさか、とんでもない！」"
+        }
+      ],
+      "notes": [
+        "God forbid の forbid は願望を表す原形で、三人称単数の -s を付けない。God forbid that it happen again. は「二度と起きませんように」、God forbids it. は通常の叙述「神はそれを禁じている」。that は省略できる。単独発話のほか、文中・文末にも挿入でき、if 節では If, God forbid, ... のようにコンマで区切る。事実として起こらないと保証する表現ではない。皮肉では本当は大した問題でない事柄を大げさに恐れるふりをするので、声の調子や前後関係が重要。God を口にすることを不快に思う人もいるため、場面に応じて I hope not. を選ぶ。"
+      ],
+      "synonyms": [
+        {
+          "word": "I hope not",
+          "definition": "直前に示された望ましくない可能性が起こらないことを願う",
+          "frequency": 9,
+          "difference": "God forbid より中立的で穏やか。宗教的含意や芝居がかった強調がなく、ほぼあらゆる日常場面で使える。",
+          "example": "“Will the delay continue all week?” “I hope not.”",
+          "translation": "「遅れは一週間ずっと続くの？」「そうならないといいけど。」"
+        },
+        {
+          "word": "let’s hope not",
+          "definition": "話し手と聞き手がともに、望ましくない結果が起こらないことを願う",
+          "frequency": 7,
+          "difference": "共同の願いとして柔らかく表現する。God forbid のような強い拒絶・恐怖・宗教的響きはない。",
+          "example": "“The storm may get worse.” “Let’s hope not.”",
+          "translation": "「嵐はもっとひどくなるかもしれない。」「そうならないことを願おう。」"
+        },
+        {
+          "word": "perish the thought",
+          "definition": "そのような不愉快な可能性は考えたくもない、と強く否定する",
+          "frequency": 4,
+          "difference": "God forbid より意図的に芝居がかっており、現代ではユーモラスまたは皮肉に使われることが多い。",
+          "example": "I might have to cook for myself—perish the thought.",
+          "translation": "自分で料理しなければならないかもしれない――そんな恐ろしいことは考えたくもない。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【動詞・他動詞】事情が～を許さない・～を妨げる",
       "frequency": 4,
       "register": [
         "フォーマル・文章語。日常会話では prevent、make it impossible、can’t because of ... などのほうが一般的。space、time、circumstances、health、modesty、prudence などの抽象的な主語と結びつきやすい。"
       ],
       "definition": "時間、空間、費用、健康、良心、礼儀、事情などが、ある行為を困難または不可能にする。人や規則が実際に命令するわけではないが、事情が「してはならない」と命令しているかのように行為を阻む比喩的用法。",
       "patterns": [
-        "something + forbids + something＝事情が行為・計画などを困難または不可能にする。",
-        "something + forbids + someone + to do＝事情が人に～することを許さない。フォーマル。",
-        "something + forbids + someone + from doing＝事情・原則が人の行為を妨げる。",
-        "as [time/space/circumstances] forbids＝時間・紙幅・事情が許さないため。"
+        "〈制約となる事情〉 + forbid something＝行為・計画を困難または不可能にする",
+        "〈制約となる事情〉 + forbid someone to do something＝事情が人の行為を許さない",
+        "〈制約となる事情〉 + forbid someone from doing something＝事情が行為を妨げる"
       ],
       "collocations": [
         {
-          "pattern": "time forbids further discussion",
+          "pattern": "time + forbid further discussion",
           "use": "時間不足のため、それ以上の議論や説明ができないことをフォーマルに表す",
           "example": "Time forbids further discussion of the issue today.",
           "translation": "今日は時間の都合上、この問題をこれ以上議論できない。"
         },
         {
-          "pattern": "space forbids detailed treatment of something",
+          "pattern": "space + forbid detailed treatment of something",
           "use": "紙幅・掲載スペースが足りず、詳しく扱えないことを表す",
           "example": "Space forbids detailed treatment of every exception.",
           "translation": "紙幅の都合上、すべての例外を詳しく扱うことはできない。"
         },
         {
-          "pattern": "circumstances forbid something",
+          "pattern": "circumstances + forbid something",
           "use": "周囲の事情によって、計画や行為を実行できないことを表す",
           "example": "We would gladly extend our stay, but circumstances forbid it.",
           "translation": "できれば滞在を延ばしたいが、事情がそれを許さない。"
         },
         {
-          "pattern": "health forbids someone to do something",
+          "pattern": "health + forbid someone to do something",
           "use": "健康状態のため、ある活動が難しいまたは不可能であることをフォーマルに表す",
           "example": "His health forbids him to undertake such a demanding journey.",
           "translation": "彼の健康状態では、そのような過酷な旅に出ることはできない。"
         },
         {
-          "pattern": "modesty forbids someone from doing something",
+          "pattern": "modesty + forbid someone from doing something",
           "use": "謙虚さのため、自分の功績などを口にできないと婉曲的・時にユーモラスに表す",
           "example": "Modesty forbids me from describing my own contribution.",
           "translation": "謙虚さゆえ、私自身の貢献については申し上げられない。"
         },
         {
-          "pattern": "prudence forbids something",
+          "pattern": "prudence + forbid something",
           "use": "慎重さ・賢明な判断から、危険な行為を選べないことを表す",
           "example": "Prudence forbids any immediate commitment of funds.",
           "translation": "慎重に考えれば、資金を直ちに拠出することはできない。"
         }
       ],
       "notes": [
-        "この語義では、主語は実際に命令を出す人ではなく、time、space、circumstances、health、modesty などの制約要因になる。",
-        "The doctor forbade me to travel.＝医師が旅行を禁じた。",
-        "My health forbade me to travel.＝健康状態のため旅行できなかった。",
-        "後者は擬人的な表現で、現代の日常会話では My health prevented me from traveling. や I couldn’t travel because of my health. のほうが自然。",
-        "この forbid は、「少し妨げる」だけを表すことも辞書上は可能だが、典型的には制約が行為を実行困難または不可能にする文脈で使われる。単なる遅延や軽い障害には hinder のほうが適する。"
+        "この語義の主語は time、space、health、modesty などの制約要因。The doctor forbade me to travel.「医師が旅行を禁じた」は語義1、My health forbids me to travel.「健康上、旅行できない」はこの語義。後者は改まった擬人的表現で、日常では I cannot travel because of my health. などが普通。権限による禁止と違い、事情が実行を妨げることに重点がある。軽い不便一般を表すために乱用せず、行為が難しい・できないという制約に用いる。"
       ],
       "synonyms": [
         {
@@ -380,129 +584,37 @@
       ]
     },
     {
-      "number": 3,
-      "title": "【定型表現】「God forbid / Heaven forbid＝そんなことになりませんように、まさか、冗談ではない」",
-      "frequency": 6,
-      "register": [
-        "口語的な定型表現。God を含むため、宗教的理由などから不快または不適切と感じる人もいる。Heaven forbid は God を直接名指ししない変形だが、皮肉・芝居がかった響きを伴うことがある。"
-      ],
-      "definition": "望ましくない出来事について、それが起こらないことを強く願う表現。単独で「そんなことは絶対に嫌だ」「まさか」と反応したり、文中に挿入して「万一そんなことが起きたら」と慎重に仮定したりする。文脈とイントネーションによっては、過剰な心配や厳格さを皮肉る表現にもなる。",
-      "patterns": [
-        "God/Heaven forbid!＝単独発話で、強い否定的願望や拒絶を表す。",
-        "God/Heaven forbid (that) + S + 動詞原形＝～ということが起こりませんように。",
-        "God/Heaven forbid (that) + S + should + 動詞原形＝～ということが起こりませんように。should を用いた形。",
-        "if, God/Heaven forbid, + S + V＝万一、そんなことはないと願うが、～なら。",
-        "[statement]—God/Heaven forbid＝直前の可能性を強く退ける、または皮肉る。"
-      ],
-      "collocations": [
-        {
-          "pattern": "God forbid!",
-          "use": "望ましくない可能性を聞いて、強く「そうならないことを願う」と反応する",
-          "example": "“Do you think the operation could fail?” “God forbid!”",
-          "translation": "「手術が失敗する可能性はあると思う？」「そんなことになりませんように！」"
-        },
-        {
-          "pattern": "God forbid (that) + S + 動詞原形",
-          "use": "望ましくない出来事が起こらないよう強く願う",
-          "example": "God forbid that anything happen to the children.",
-          "translation": "子どもたちに何事も起こりませんように。"
-        },
-        {
-          "pattern": "God forbid (that) + S + should + 動詞原形",
-          "use": "望ましくない出来事を仮定しつつ、それが起こらないことを願う",
-          "example": "God forbid that anyone should lose their life over this dispute.",
-          "translation": "この争いで誰かが命を落とすようなことがありませんように。"
-        },
-        {
-          "pattern": "if, God forbid, something happens",
-          "use": "望んではいない最悪の事態を、慎重に仮定する",
-          "example": "If, God forbid, the treatment fails, we will discuss other options.",
-          "translation": "万一、そうならないことを願いますが、治療がうまくいかなければ、ほかの選択肢を検討します。"
-        },
-        {
-          "pattern": "[possibility]—God forbid",
-          "use": "直前に述べた可能性を強く拒絶したり、ユーモラスに否定したりする",
-          "example": "He might decide to become a politician—God forbid.",
-          "translation": "彼は政治家になろうと決めるかもしれない――まさかそんなことにはなってほしくないが。"
-        },
-        {
-          "pattern": "Heaven forbid (that) + S + should + 動詞原形",
-          "use": "望ましくない可能性を芝居がかった調子で否定する。皮肉にも使われる",
-          "example": "Heaven forbid that we should arrive two minutes late.",
-          "translation": "まさか私たちが2分も遅れるなんて、とんでもないことですね。"
-        },
-        {
-          "pattern": "Heaven forbid!",
-          "use": "God を直接使わずに、望ましくない可能性を強く否定する",
-          "example": "“Would you ever sell the house?” “Heaven forbid!”",
-          "translation": "「その家を売ることはある？」「まさか、とんでもない！」"
-        }
-      ],
-      "notes": [
-        "God forbid の forbid は、通常の現在形三人称単数 forbids にはならない。願望を表す古い仮定法的な形が定型化したものである。",
-        "God forbid that it should happen again.＝そんなことが二度と起こりませんように。",
-        "God forbids it.＝神はそれを禁じている。",
-        "後者は定型表現ではなく、神が禁止を命じているという通常の事実叙述。",
-        "God forbid that ... の that は省略可能。",
-        "God forbid anything should happen to her.",
-        "＝彼女に何事も起こりませんように。",
-        "if, God forbid, ... は、望ましくない可能性にも現実的に備える場面で使われる。God forbid を if 節の内部に挿入するため、通常はコンマで区切る。",
-        "皮肉では「そんな大変なことが起きたら困りますものね」という誇張を通じて、実際には大した問題ではないことを示す。声の調子や文脈がないと真剣な願いに読まれる可能性がある。"
-      ],
-      "synonyms": [
-        {
-          "word": "I hope not",
-          "definition": "直前に示された望ましくない可能性が起こらないことを願う",
-          "frequency": 9,
-          "difference": "God forbid より中立的で穏やか。宗教的含意や芝居がかった強調がなく、ほぼあらゆる日常場面で使える。",
-          "example": "“Will the delay continue all week?” “I hope not.”",
-          "translation": "「遅れは一週間ずっと続くの？」「そうならないといいけど。」"
-        },
-        {
-          "word": "let’s hope not",
-          "definition": "話し手と聞き手がともに、望ましくない結果が起こらないことを願う",
-          "frequency": 7,
-          "difference": "共同の願いとして柔らかく表現する。God forbid のような強い拒絶・恐怖・宗教的響きはない。",
-          "example": "“The storm may get worse.” “Let’s hope not.”",
-          "translation": "「嵐はもっとひどくなるかもしれない。」「そうならないことを願おう。」"
-        },
-        {
-          "word": "perish the thought",
-          "definition": "そのような不愉快な可能性は考えたくもない、と強く否定する",
-          "frequency": 4,
-          "difference": "God forbid より意図的に芝居がかっており、現代ではユーモラスまたは皮肉に使われることが多い。",
-          "example": "I might have to cook for myself—perish the thought.",
-          "translation": "自分で料理しなければならないかもしれない――そんな恐ろしいことは考えたくもない。"
-        }
-      ],
-      "antonyms": []
-    },
-    {
-      "number": 4,
-      "title": "形容詞】【古語】「呪われた、破門・追放された」",
+      "number": 6,
+      "title": "【形容詞・古語】forbid：呪われた",
       "frequency": 1,
       "register": [
-        "古語・文学。現代の「禁止された」には forbid ではなく forbidden を使う。"
+        "古語・文学。現代の作文には使わない。"
       ],
-      "definition": "人などが呪いを受けた、または共同体から退けられた状態を表す古い形容詞。現代英語では生産的に使われず、古い文学作品や歴史的な引用でのみ遭遇し得る。",
+      "definition": "呪いを受けた、という古い形容詞。現代の forbid の原形を普通の形容詞として使う用法ではなく、古典作品の読解に限って区別する。",
       "patterns": [
-        "a/person + forbid＝名詞の後に置かれ、その人が呪われた・追放された状態を表す古い用法。"
+        "a man forbid＝名詞の後ろから修飾する古い形"
       ],
       "collocations": [
         {
           "pattern": "a man forbid",
-          "use": "古い文学で、呪われた者・共同体から退けられた者を表す",
-          "example": "He wandered alone, a man forbid.",
-          "translation": "彼は呪われ、追放された者として一人さまよった。"
+          "use": "古典作品に残る「呪われた者」の読解。",
+          "example": "In Macbeth, the phrase “a man forbid” describes a man under a curse.",
+          "translation": "『マクベス』の a man forbid という表現は、呪われた男を指す。"
         }
       ],
       "notes": [
-        "現代英語で「禁止された区域」を a forbid area、「禁じられた行為」を a forbid act とはしない。",
-        "誤: a forbid area",
-        "正: a forbidden area",
-        "この用法は現代の作文や会話で再利用するためのものではなく、古い文章を読解する際の知識に限られる。"
+        "現代語の「禁止された」は forbidden なので、×a forbid area は ○a forbidden area とする。呪いという意味から、特定の制度による破門・法的追放までを自動的に読み込まない。"
       ],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "cursed",
+          "definition": "呪いを受けた。",
+          "frequency": 4,
+          "difference": "現代でも物語などで使う形容詞。古語の forbid を読む際の対応語となる。",
+          "example": "The villagers believed the castle was cursed.",
+          "translation": "村人たちはその城が呪われていると信じていた。"
+        }
+      ],
       "antonyms": []
     }
   ]

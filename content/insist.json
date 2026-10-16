@@ -1,65 +1,72 @@
 {
   "word": "insist",
   "slug": "insist",
-  "ipa": "米・英: /ɪnˈsɪst/",
+  "ipa": "米・英: /ɪnˈsɪst/。2音節で第2音節に強勢。両音節の母音は /ɪ/。insists は /ɪnˈsɪsts/ で語末に /sts/ が続く。insisted は /ɪnˈsɪstɪd/、insisting は /ɪnˈsɪstɪŋ/ で、第2音節の強勢を保つ。過去語尾 -ed は /ɪd/ と発音する。",
   "lead": "「ぜひ～したいと言い張る」「どうしても～する」「～するよう強く要求する」。相手が断ったり別案を示したりしても、自分の希望や要求を引っ込めないことを表す。",
-  "updated": "2026-07-31",
+  "updated": "2026-10-16",
   "notion_url": "https://app.notion.com/p/insist-3ae4faa9b77d81818061f98114395ad7",
-  "pronunciation": [
-    "第2音節に強勢があり、「インスィ́スト」に近い。最初の母音は弱い /ɪ/ で、語末は /-sɪst/。",
-    "語末の /st/ は子音が連続するため、insist on のように次の語が続くと /t/ が弱く開放されないことがある。"
-  ],
+  "pronunciation": [],
   "etymology": [
-    "ラテン語 insistere「上に立つ、立ち止まる、固く立場を守る」に由来する。in-「上に・中に」+ sistere「立たせる、立ち止まる」から成り、「ある立場に踏みとどまる」ことが、現在の「要求や主張を曲げない」という意味につながった。",
-    "同じ語源的要素を含む語には persist「やり続ける」、resist「抵抗する」、consist「成り立つ」がある。いずれも歴史的には「立つ」という意味を持つ語族に属する。"
+    "ラテン語 insistere「その場に立つ・踏みとどまる・固執する」に由来し、in-「上に」と sistere「立つ・立たせる」が背景にある。要求や立場から退かない、という現代の意味につながる。同じ「立つ」に関わる語族に persist「続ける」、resist「抵抗する」、consist「成り立つ」がある。"
   ],
   "formation": [
     {
-      "term": "insistence【名詞】",
-      "description": "要求・主張を譲らないこと。通常は不可算名詞として insistence on ... の形で使う。"
+      "term": "insistence",
+      "description": "名詞「強い要求・主張を譲らないこと」。通常不可算で、insistence on ...、at someone’s insistence など。"
     },
     {
-      "term": "insistent【形容詞】",
-      "description": "しつこく要求する、断固とした／音・要求などが繰り返されて無視できない。"
+      "term": "insistent",
+      "description": "形容詞「しつこく要求する・強く訴える」。人の態度のほか、繰り返し注意を引く音にも使う。"
     },
     {
-      "term": "insistently【副詞】",
-      "description": "強く、しつこく、譲らない調子で。"
+      "term": "insistently",
+      "description": "副詞「強く・しつこく・譲らずに」。"
+    },
+    {
+      "term": "insisted／insisting",
+      "description": "過去形・過去分詞／現在分詞・動名詞。「強く主張する人」の普通の形容詞は insistent で、insisted を当てない。"
     }
   ],
   "core": [
     {
-      "label": "反対や別の選択肢を示されても、「自分の要求・行動・主張の位置から動かない」。",
-      "description": ""
+      "type": "paragraph",
+      "text": "要求・主張・行動のいずれについても、自分の立場から引かずに押し通す。実際の反論や繰り返しは典型的な背景だが、必ず先に反対されたことや、最後に勝ったことを表すわけではない。"
     },
     {
-      "label": "要求に関して動かない",
-      "description": "→ 「ぜひ～すると言い張る」「～を強く要求する」"
+      "type": "item",
+      "text": "引かずに押し通す要求・申し出 → 「強く求める・どうしてもと言って譲らない」（語義1）"
     },
     {
-      "label": "事実認識に関して動かない",
-      "description": "→ 「～だと強く主張する」「あくまで～だと言う」"
+      "type": "item",
+      "text": "引かずに押し通す事実認識 → 「あくまで～だと主張する」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "引かずに押し通す行動・やり方 → 「insist on doing：頑固に～し続ける・どうしても～する」（語義3）"
     }
   ],
   "sources": [],
   "senses": [
     {
       "number": 1,
-      "title": "【動詞・自動詞】要求・希望・自分の行動を強く主張し、譲らない",
+      "title": "【動詞・自動詞／that節を取る他動詞】強く求める・どうしてもと言って譲らない",
       "frequency": 8,
       "register": [
-        "日常会話・ビジネス・報道などで広く使われる。文脈により「親切にどうしても申し出る」という好意的な態度にも、「頑固に要求する」という否定的な態度にもなる。"
+        "日常会話・仕事・交渉。強い要求にも、丁寧だが譲らない申し出にも使う。"
       ],
-      "definition": "「ぜひ～したいと言い張る」「どうしても～する」「～するよう強く要求する」。相手が断ったり別案を示したりしても、自分の希望や要求を引っ込めないことを表す。\n自分が行う行為についても、他人に求める行為についても使える。単に「希望する」のではなく、「拒否や反対を受け入れない」という強い態度を含む。",
+      "definition": "自分や他人の行為、条件・要求などについて、ぜひ実現させるという強い意思を示して譲らない。反対・拒否・遠慮があっても押し通す姿勢が中心で、すでに明示的な反対が出ていることや、最終的に相手が従うことまでは必須ではない。好意から食事代を払うと申し出る場合にも使える。",
       "patterns": [
-        "insist on + 名詞＝その物・条件・権利などを強く求める",
-        "insist on + -ing＝自分がどうしても～すると言い張る／ある行為の実行を強く求める",
-        "insist on + someone’s/someone + -ing＝人が～することを強く求める",
-        "insist that + 主語 + 動詞原形＝人に～するよう強く要求する。特に米語で一般的",
-        "insist that + 主語 + should + 動詞原形＝人に～するよう要求する。特に英語でよく使われる",
-        "insist upon ...＝insist on ... よりやや改まった形で、基本的な意味は同じ",
-        "if you insist＝「そこまで言うなら」「どうしてもと言うなら」",
-        "I insist.＝「ぜひそうさせてください」「いいえ、どうしても」"
+        "someone + insist＝内容が明らかな要求を押し通す",
+        "insist on/upon something＝物・条件を強く求める",
+        "insist on/upon doing something＝行為を強く求める",
+        "insist on someone doing something",
+        "insist on someone’s doing something＝人が行為をするよう求める",
+        "insist (that) someone + 〈動詞原形〉＝要求内容を節で示す",
+        "insist (that) someone should do something＝should を伴う要求",
+        "insist that someone not do something＝しないよう求める",
+        "something + be insisted on＝条件などが強く求められる",
+        "I insist.",
+        "if you insist＝内容が文脈で明らかな定型発話"
       ],
       "collocations": [
         {
@@ -87,14 +94,14 @@
           "translation": "医師は彼に数日間休むよう強く求めた。"
         },
         {
-          "pattern": "insist that someone do something",
+          "pattern": "insist that someone 〈動詞原形〉",
           "use": "特に米語で、人にある行為をするよう強く要求する",
           "example": "The manager insisted that everyone arrive on time.",
           "translation": "マネージャーは全員が時間どおりに到着するよう強く求めた。"
         },
         {
           "pattern": "insist that someone should do something",
-          "use": "特に英語で、人にある行為をするよう強く要求する",
+          "use": "should を伴う節で要求を示す。特にイギリス英語でよく使う。",
           "example": "They insisted that the report should be rewritten.",
           "translation": "彼らは報告書を書き直すよう強く要求した。"
         },
@@ -115,31 +122,28 @@
           "use": "相手の遠慮や拒否を退けて、自分の申し出や要求を押し通す",
           "example": "Let me pay for the repairs—I insist on it.",
           "translation": "修理代は私に払わせてください。どうしてもそうさせてください。"
+        },
+        {
+          "pattern": "I insist.",
+          "use": "内容を繰り返さず、申し出を引っ込めないことを示す。",
+          "example": "“You don’t need to drive me home.” “Please, I insist.”",
+          "translation": "「家まで送ってくれなくても大丈夫です」「いえ、ぜひ送らせてください」"
+        },
+        {
+          "pattern": "insist that someone not do something",
+          "use": "要求内容の否定を、原形の前の not で示す。",
+          "example": "The editor insisted that we not reveal the source’s name.",
+          "translation": "編集者は情報提供者の名前を明かさないよう私たちに強く求めた。"
+        },
+        {
+          "pattern": "be insisted on",
+          "use": "要求の対象を主語にする前置詞受動態。",
+          "example": "A written guarantee was insisted on before any money changed hands.",
+          "translation": "金銭を受け渡す前に、書面による保証が強く求められた。"
         }
       ],
       "notes": [
-        "通常、動詞の直後に to不定詞は置かない。",
-        "誤: She insisted to pay the bill.",
-        "正: She insisted on paying the bill.",
-        "訳: 彼女はどうしても勘定を払うと言った。",
-        "他人に行為を求める場合、insist + 人 + to不定詞 にはしない。",
-        "誤: She insisted me to stay.",
-        "正: She insisted that I stay.",
-        "正: She insisted on me staying.",
-        "訳: 彼女は私に残るよう強く求めた。",
-        "insist that ... が「要求」を表す場合、米語では動詞原形を使う仮定法現在が一般的である。主語が三人称単数でも -s を付けない。",
-        "正: He insisted that she apologize.",
-        "不適切: He insisted that she apologizes.",
-        "英語では insist that ... should ... も一般的である。ここでの should は「～すべきだ」という話者の助言ではなく、要求されている行為を示す。",
-        "that は省略できることがある。",
-        "例: They insisted we leave immediately.",
-        "訳: 彼らは私たちが直ちに立ち去るよう強く求めた。",
-        "insist on + someone + -ing は日常的で、insist on + someone’s + -ing はより形式的である。いずれも標準的だが、文体上の差がある。",
-        "insist on doing は、必ずしも怒った要求ではない。insist on paying や insist on helping のように、好意や礼儀から「どうしても自分がする」と申し出る場合にもよく使われる。",
-        "insist upon は insist on より形式的・文語的だが、単に強調した形とは限らない。",
-        "受動態では、人を主語にして be insisted to do とは通常言わない。形式的な非人称構文 It was insisted that ... は可能である。",
-        "例: It was insisted that all visitors sign in.",
-        "訳: すべての訪問者が受付をするよう強く求められた。"
+        "名詞を直接目的語にして ×insist a refund とはせず、○insist on a refund とする。×insist to pay／×insist paying は ○insist on paying、×insist me to stay は ○insist that I stay／○insist on me staying。on は前置詞で、その後ろに名詞・代名詞・-ing を置き、×insist it on のように分離しない。upon はより改まった変形。要求の that 節は、主語に関係なく原形を使う仮定法現在と、should を使う形が代表的で、原形は特に米語で、should は特に英語でよく使われるが、両者を米英の排他的な規則にしない。否定は that she not leave／that she should not leave、受動は that the report be rewritten。特に英語では通常の直説法形で要求を表すこともあるため、that she apologizes を文脈なしに一律誤文とはしない。主張の語義2との区別には節の形と意味の両方を見る。on me staying と on my staying はともに可能で、所有格は改まった書き方に多い。insist on paying で払うのは通常主語の人だが、insist on the work being completed なら求めるのは仕事の完成であり、主語が実行者とは限らない。人を主語とする ×I was insisted to stay は使わず、They insisted that I stay. とする。一方、A written guarantee was insisted on. のような前置詞を残す受動態は可能。要求が通ったという結果までは含まない。"
       ],
       "synonyms": [
         {
@@ -165,22 +169,6 @@
           "difference": "press for は交渉、政治、組織的要求などで、継続的に実現を迫ることを表す。insist は個人の発言や特定の場面でも広く使える。",
           "example": "Local residents are pressing for tighter safety regulations.",
           "translation": "地元住民は、より厳しい安全規制を求めて働きかけている。"
-        },
-        {
-          "word": "be adamant",
-          "definition": "決意や意見を絶対に変えようとしない",
-          "frequency": 6,
-          "difference": "be adamant は人の揺るがない態度そのものを強調する。insist は、その態度を言葉や要求として表明する行為に焦点がある。",
-          "example": "She was adamant that she would not resign.",
-          "translation": "彼女は辞任しないという姿勢を断固として崩さなかった。"
-        },
-        {
-          "word": "persist",
-          "definition": "困難、反対、失敗があっても行為を続ける",
-          "frequency": 7,
-          "difference": "persist は行為の継続性が中心である。insist は要求、希望、主張を引っ込めないことが中心で、必ずしも長期間続けるとは限らない。",
-          "example": "He persisted in asking the same question.",
-          "translation": "彼は同じ質問をし続けた。"
         }
       ],
       "antonyms": [
@@ -191,14 +179,6 @@
           "difference": "insist が立場を維持するのに対し、yield は圧力に屈して立場を譲るという方向上の反対を表す。",
           "example": "The company eventually yielded to public pressure.",
           "translation": "会社は最終的に世論の圧力に屈した。"
-        },
-        {
-          "word": "relent",
-          "definition": "厳しい態度や拒否を弱め、要求を受け入れる",
-          "frequency": 5,
-          "difference": "insist が要求や拒否を維持するのに対し、relent は当初の強硬な態度を和らげることを表す。",
-          "example": "Her parents finally relented and let her go.",
-          "translation": "彼女の両親はついに態度を和らげ、彼女が行くことを許した。"
         },
         {
           "word": "give in",
@@ -212,18 +192,18 @@
     },
     {
       "number": 2,
-      "title": "【動詞・自動詞】あることが事実だと強く主張し、否定されても認めない",
+      "title": "【動詞・自動詞／that節・直接話法を取る他動詞】あくまで～だと主張する",
       "frequency": 8,
       "register": [
         "日常会話、報道、法的・政治的文脈などで広く使われる。報道文では「本人はそう主張しているが、真偽は確定していない」という距離を示す場合がある。"
       ],
-      "definition": "「あくまで～だと主張する」「～だと言い張る」。自分の発言、説明、記憶、無実などが正しいと強く述べ、疑いや反論があっても主張を変えないことを表す。\nこの語義では、相手に行為を要求しているのではなく、ある命題が真実だと述べている。文脈によっては、話者がその主張を疑っているという含みを持つことがある。",
+      "definition": "ある内容を事実・真実だと強く述べ、疑い・反論があってもその立場を変えない。「言い張る」と訳せるが、内容が虚偽であることや、本人が不合理であることは意味しない。要求ではなく、何が真実かについての主張を伝える。",
       "patterns": [
-        "insist that + 通常の時制を持つ節＝あることが事実だと強く主張する",
-        "insist that + 主語 + be ...＝形だけでは要求の仮定法と区別しにくいため、文脈で判断する",
-        "insist “...”＝発言を直接引用し、その内容を強く主張したことを示す",
-        "insist otherwise＝それとは違うと強く主張する",
-        "continue to insist that ...＝反論後も同じ主張を維持する"
+        "insist (that) 〈通常の時制を持つ節〉＝内容が事実だと主張する",
+        "insist on one’s innocence＝無実だという主張を譲らない",
+        "insist otherwise＝それとは違うと主張する",
+        "“〈発言〉,” someone + insist＝直接話法の伝達",
+        "insist to someone that 〈節〉＝誰に向けて主張するかを示す"
       ],
       "collocations": [
         {
@@ -245,18 +225,6 @@
           "translation": "マヤは誰かが建物に入るのを見たと強く主張している。"
         },
         {
-          "pattern": "continue to insist that ...",
-          "use": "証拠や反論を示された後も、同じ主張を変えない",
-          "example": "The company continues to insist that the product is safe.",
-          "translation": "その会社は、その製品は安全だという主張を変えていない。"
-        },
-        {
-          "pattern": "still insist that ...",
-          "use": "状況が変化した後も、以前の主張を維持していることを強調する",
-          "example": "Do you still insist that nothing went wrong?",
-          "translation": "それでも何も問題はなかったと言い張るのですか。"
-        },
-        {
           "pattern": "insist otherwise",
           "use": "他の人が述べた内容とは違うと強く主張する",
           "example": "The evidence suggests an accident, although some witnesses insist otherwise.",
@@ -269,27 +237,20 @@
           "translation": "告発を受けても、彼女は自分の無実を主張し続けた。"
         },
         {
-          "pattern": "insist “...”",
+          "pattern": "“〈発言〉,” someone + insist",
           "use": "強い確信や反論を伴う発言を直接引用する",
           "example": "“I never received the email,” he insisted.",
           "translation": "「そのメールは一度も受け取っていません」と彼は強く主張した。"
+        },
+        {
+          "pattern": "insist to someone that 〈節〉",
+          "use": "主張を向ける相手を示す。",
+          "example": "He insisted to the investigators that he had never seen the document.",
+          "translation": "彼は捜査担当者に、その書類は一度も見たことがないと強く主張した。"
         }
       ],
       "notes": [
-        "同じ insist that ... でも、後続節の形によって意味が変わる。",
-        "要求: She insisted that he leave.",
-        "訳: 彼女は彼に立ち去るよう強く求めた。",
-        "事実の主張: She insisted that he had left.",
-        "訳: 彼女は彼がすでに立ち去ったと強く主張した。",
-        "要求を表す場合の leave は時制を持たない動詞原形だが、事実の主張を表す場合は left、had left、is、was など、内容に応じた通常の時制を使う。",
-        "be動詞では形が曖昧になることがある。",
-        "She insisted that he be present.",
-        "通常の解釈: 彼女は彼が出席するよう要求した。",
-        "She insisted that he was present.",
-        "解釈: 彼女は彼がその場にいたと主張した。",
-        "日本語の「言い張る」は否定的に聞こえやすいが、insist 自体が必ず虚偽や不合理さを意味するわけではない。正しい内容を確信を持って述べる場合にも使える。",
-        "報道で X insists that ... と書かれている場合、記者がその内容を事実として認定しているとは限らない。claim と同様に、発言者の主張として距離を置いて伝えることがある。",
-        "say と違い、insist は反論、疑念、拒否などが存在することを暗示しやすい。単に情報を述べただけの場面では不自然になり得る。"
+        "She insisted that he leave. は代表的には要求「彼に立ち去るよう求めた」、She insisted that he had left. は事実の主張「彼はすでに立ち去ったと言った」。ただし、形だけで常に意味が決まるわけではない。例えば we leave の leave は原形と現在形が同形であり、また特に英語では要求に直説法形も使われる。be の原形を使う that he be present は要求の典型、that he was present は「彼がその場にいた」という事実の主張の典型である。報道の insists は発言者の立場を伝えるのであって、その内容の正しさを記者が認定したとは限らない。直接引用の “I saw it,” she insisted. もこの用法。insist to me that ... の to me は相手を示す前置詞句で、×insist me that ... と人を直接目的語にはしない。語義1の insist that ... との品詞分類は辞書で差もあるが、節を取れることと、普通の人・物名詞を直接置けないことは区別する。"
       ],
       "synonyms": [
         {
@@ -323,17 +284,80 @@
           "difference": "contend は法律、学術、論説などの形式的な議論で使われやすい。insist は日常的な主張にも使え、感情的な強さを伴うことがある。",
           "example": "The authors contend that the policy will increase inequality.",
           "translation": "著者たちは、その政策が格差を拡大すると論じている。"
-        },
-        {
-          "word": "swear",
-          "definition": "自分の発言が真実だと、非常に強い言葉で断言する",
-          "frequency": 7,
-          "difference": "swear は誓いに近い強い確信や感情を表し、口語的である。insist はより広い場面で使え、必ずしも誓いを伴わない。",
-          "example": "I swear I didn’t touch your phone.",
-          "translation": "本当に、君の携帯には触っていない。"
         }
       ],
       "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞・自動詞＋前置詞】insist on doing：頑固に～し続ける・どうしても～する",
+      "frequency": 7,
+      "register": [
+        "主に会話・日常の行動描写。"
+      ],
+      "definition": "他人が困る・反対する行動や、好ましくないと見なされるやり方を、やめずに続ける、あくまで実行する。実際に「そうしたい」と口で要求することより、行動を変えない点に焦点がある。非難・いらだちを伴うことが多い。",
+      "patterns": [
+        "insist on doing something＝困った行動などを変えずに続ける",
+        "will insist on doing something＝頑固な行動傾向への不満",
+        "if someone will insist on doing something＝そうまでして続けるなら、という批判的条件"
+      ],
+      "collocations": [
+        {
+          "pattern": "insist on doing something",
+          "use": "注意されてもそのやり方を変えない。",
+          "example": "Even after I asked him to stop, he insisted on calling me by the wrong name.",
+          "translation": "やめてほしいと言った後も、彼はどうしても私を違う名前で呼び続けた。"
+        },
+        {
+          "pattern": "will insist on doing something",
+          "use": "いつも困った行動をするという不満。",
+          "example": "She will insist on interrupting whenever I try to explain.",
+          "translation": "私が説明しようとすると、彼女はどうしても口を挟まずにいられない。"
+        },
+        {
+          "pattern": "if someone will insist on doing something",
+          "use": "本人の頑固な行動とその結果を結び付ける。",
+          "example": "If you will insist on leaving everything until the last minute, you’ll keep missing deadlines.",
+          "translation": "何でもぎりぎりまで放っておくことにこだわるなら、これからも締め切りを逃すよ。"
+        },
+        {
+          "pattern": "insist on doing things one’s own way",
+          "use": "忠告を受けてもやり方を変えない。",
+          "example": "Despite the team’s advice, he insisted on doing things his own way.",
+          "translation": "チームの助言にもかかわらず、彼はあくまで自分のやり方を通した。"
+        }
+      ],
+      "notes": [
+        "語義1の She insisted on paying. は「自分が払うと強く申し出た」と読めるが、この語義は「やめようとしない」という行動の継続に重点がある。形は同じなので、despite our objections、even after being asked to stop などの文脈で区別する。will は単なる未来ではなく、本人の意志・頑固な傾向を強調する場合がある。on はこの用法でも省かない。物を主語にした The printer insists on jamming. のような表現も、まるで意地を張るようだというユーモラスな擬人化として理解できる。"
+      ],
+      "synonyms": [
+        {
+          "word": "persist in",
+          "definition": "困難・反対があっても行為を続ける。",
+          "frequency": 6,
+          "difference": "継続そのものに焦点があり、困った習慣だけでなく努力にも使える。",
+          "example": "He persisted in asking the same question after it had been answered.",
+          "translation": "答えを得た後も、彼は同じ質問をし続けた。"
+        },
+        {
+          "word": "keep on",
+          "definition": "ある行為を繰り返す・続ける。",
+          "frequency": 9,
+          "difference": "反対を押し切る姿勢は語そのものには含まず、しつこさは文脈による。",
+          "example": "They kept on talking after the lights went out.",
+          "translation": "明かりが消えた後も、彼らは話し続けた。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "stop",
+          "definition": "その行為をやめる。",
+          "frequency": 10,
+          "difference": "行動を続けることとやめることの対立。頑固さの評価自体は含まない。",
+          "example": "He finally stopped interrupting me.",
+          "translation": "彼はようやく私の話を遮るのをやめた。"
+        }
+      ]
     }
   ]
 }
