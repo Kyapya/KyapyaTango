@@ -1,0 +1,280 @@
+{
+  "word": "logistics",
+  "slug": "logistics",
+  "ipa": "米・英: /ləˈdʒɪs.tɪks/",
+  "lead": "商品や資材を必要な場所へ届けるための輸送・保管・配送と、その流れを管理する業務。企業の部門、産業、専門分野も指す。輸送だけでなく、在庫や関連情報の調整を含むことが多い。",
+  "updated": "2026-10-16",
+  "notion_url": "https://app.notion.com/p/logistics-3fb4faa9b77d8130a063f8848ea76238",
+  "pronunciation": [
+    "3音節で第2音節に主強勢。第2音節の語頭は /dʒ/ で、語末は /tɪks/。米語には第1音節を /loʊ/ とする発音もある。語末の -s までが見出し語の形。"
+  ],
+  "etymology": [
+    "フランス語 logistique を経て入った語で、軍隊の移動・宿営・補給の管理と結び付いて発達した。その先の由来は辞書間で説明が異なり、loger「宿泊させる」・logis「宿泊所」と結び付ける説明と、ギリシャ語 logistikē「計算の技術」までさかのぼる説明がある。前者では lodge「宿泊する」とのつながりがあるが、現代の物流を単純に logic「論理」から派生した意味として覚えない。"
+  ],
+  "formation": [
+    {
+      "term": "logistical（形容詞）",
+      "description": "物流・兵站・実務上の手配に関する。logistical problems は手配上の問題。"
+    },
+    {
+      "term": "logistic（形容詞）",
+      "description": "物流・兵站に関する。数学・統計の logistic regression「ロジスティック回帰」では別の専門的な意味を持つ。"
+    },
+    {
+      "term": "logistically（副詞）",
+      "description": "輸送・人員配置・段取りの面で。logistically difficult は実施の手配が難しい。"
+    },
+    {
+      "term": "logistician（可算名詞）",
+      "description": "物流・兵站の専門家。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "活動を実現するために、人・物・場所・時間のつながりを実務面で整えること。何を支える手配なのかによって、商業の物流、行事などの段取り、軍事の兵站に分かれる。"
+    },
+    {
+      "type": "item",
+      "text": "人と物を動かす商取引の実務調整 → 「物流・物流管理」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "人と物を動かす行事や計画の実務調整 → 「段取り・実務上の手配」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "人と物を動かす軍事活動の実務調整 → 「兵站・軍の後方支援」（語義3）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・不可算】物流・物流管理",
+      "frequency": 7,
+      "register": [
+        "ビジネス、流通、製造、貿易。"
+      ],
+      "definition": "商品や資材を必要な場所へ届けるための輸送・保管・配送と、その流れを管理する業務。企業の部門、産業、専門分野も指す。輸送だけでなく、在庫や関連情報の調整を含むことが多い。",
+      "patterns": [
+        "work in logistics＝物流分野で働く",
+        "manage logistics＝物流を管理する",
+        "outsource logistics to 〈業者〉＝物流を外部へ委託する",
+        "a logistics company＝物流会社",
+        "logistics costs＝物流費",
+        "reverse logistics＝返品・回収などの逆方向の物流。"
+      ],
+      "collocations": [
+        {
+          "pattern": "work in logistics",
+          "use": "職種・業界として物流に携わる。",
+          "example": "She works in logistics for a furniture manufacturer.",
+          "translation": "彼女は家具メーカーで物流の仕事をしている。"
+        },
+        {
+          "pattern": "manage logistics",
+          "use": "輸送や保管を含む物流業務を管理する。",
+          "example": "Our regional office manages logistics for deliveries across Southeast Asia.",
+          "translation": "当社の地域事務所は、東南アジア全域への配送に関する物流を管理している。"
+        },
+        {
+          "pattern": "outsource logistics to 〈業者〉",
+          "use": "自社の物流業務を外部業者に任せる。",
+          "example": "The retailer outsourced its logistics to a specialist provider.",
+          "translation": "その小売業者は物流を専門業者に委託した。"
+        },
+        {
+          "pattern": "a logistics company",
+          "use": "物流を事業として行う会社を指す。",
+          "example": "A logistics company will store the products and ship each order.",
+          "translation": "物流会社が商品を保管し、注文ごとに発送する。"
+        },
+        {
+          "pattern": "logistics costs",
+          "use": "輸送・保管などにかかる費用をまとめて述べる。",
+          "example": "Consolidating shipments helped us reduce logistics costs.",
+          "translation": "貨物をまとめて発送することで、物流費を削減できた。"
+        },
+        {
+          "pattern": "reverse logistics",
+          "use": "返品や再利用・リサイクルに向けた回収の流れを扱う。",
+          "example": "The manufacturer improved its reverse logistics process for returned appliances.",
+          "translation": "そのメーカーは、返品された家電製品を回収する物流工程を改善した。"
+        }
+      ],
+      "notes": [
+        "語尾が -s でも、a logistics や two logistics のように個別の物流を数えない。分野・業務全体を主語にすると単数扱いが普通で、Logistics is central to our business. と言える。logistics company の logistics は名詞の前置修飾であり、単数形に直して a logistic company とする必要はない。形容詞 logistical と区別する。物流は supply chain management「供給網全体の管理」の主要部分で、両者の範囲は常に同じではない。delivery は商品を届けること、procurement は必要なものを調達することに焦点がある。職務で「物流担当」は work in logistics、具体的な行事の「段取り担当」は語義2の handle the logistics for an event が使える。"
+      ],
+      "synonyms": [
+        {
+          "word": "distribution",
+          "definition": "商品を販売先や利用者へ行き渡らせる流通・配送業務。",
+          "frequency": 7,
+          "difference": "商品が供給元から届け先へ広がる流れに焦点がある。logistics は保管や輸送手配など、その流れを実現する運用も広く扱う。",
+          "example": "The company handles the distribution of books to local stores.",
+          "translation": "その会社は、地元の店舗への書籍の配送を担当している。"
+        },
+        {
+          "word": "transportation",
+          "definition": "人や物をある場所から別の場所へ運ぶこと。",
+          "frequency": 8,
+          "difference": "場所を移す行為・サービスが中心で、物流のうち輸送部分で重なる。logistics が含み得る保管や在庫調整までは表さない。",
+          "example": "Transportation of refrigerated goods requires suitable vehicles.",
+          "translation": "冷蔵品の輸送には、適切な車両が必要だ。"
+        },
+        {
+          "word": "supply chain management",
+          "definition": "調達から製造・配送まで、供給網の各段階を連携させる管理。",
+          "frequency": 5,
+          "difference": "物流管理と重なるが、調達先や生産計画などを含め、企業間の供給網全体を扱うことが多い。物流会社という意味の logistics company とは置き換えない。",
+          "example": "The course covers supply chain management from sourcing to final delivery.",
+          "translation": "その講座では、調達から最終配送までのサプライチェーン管理を扱う。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・不可算、単数・複数扱い】段取り・実務上の手配",
+      "frequency": 7,
+      "register": [
+        "一般、職場、行事運営。日常の大きな旅行や引っ越しにも使う。"
+      ],
+      "definition": "計画や行事を実際に進めるために必要な、人員・設備・場所・移動・日程などの具体的な手配や調整。特に多くの要素が関わる場合に使う。企画の目的や内容そのものより、「どう実現するか」という実務面に焦点がある。",
+      "patterns": [
+        "the logistics of 〈計画・行為を表す名詞",
+        "動名詞句〉＝それを実施する段取り",
+        "the logistics for 〈行事〉＝その行事に向けた手配",
+        "handle the logistics＝段取りを担当する",
+        "work out the logistics＝具体的な手配を詰める",
+        "the logistics are/is 〈形容詞〉＝段取りがその状態にある。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the logistics of 〈動名詞句〉",
+          "use": "ある活動を実行する際に必要になる手配を述べる。",
+          "example": "We discussed the logistics of moving eighty employees to the new office.",
+          "translation": "私たちは、社員80人を新しい事務所へ移すための段取りを話し合った。"
+        },
+        {
+          "pattern": "the logistics for 〈行事〉",
+          "use": "特定の行事に向けた実務上の手配を指す。",
+          "example": "The team is coordinating the logistics for the annual conference.",
+          "translation": "チームは年次会議に向けた実務上の手配を調整している。"
+        },
+        {
+          "pattern": "handle the logistics",
+          "use": "会場・移動・機材などの手配を引き受ける。",
+          "example": "You can focus on the presentation while I handle the logistics.",
+          "translation": "私が段取りを担当するので、あなたはプレゼンテーションに集中できます。"
+        },
+        {
+          "pattern": "work out the logistics",
+          "use": "実施方法や具体的な段取りを考えて決める。",
+          "example": "We still need to work out the logistics of transporting the exhibition panels.",
+          "translation": "展示パネルを運ぶ具体的な段取りを、まだ詰める必要がある。"
+        },
+        {
+          "pattern": "the logistics are 〈形容詞〉",
+          "use": "関係する手配事項をまとめて評価する。",
+          "example": "The logistics are complicated because the speakers arrive at different airports.",
+          "translation": "講演者たちが別々の空港に到着するため、手配が複雑だ。"
+        }
+      ],
+      "notes": [
+        "特定の計画の手配には the logistics がよく使われる。of の後ろに活動を動詞で置くなら the logistics of organizing the event とし、of organize とはしない。具体的な手配事項をまとめて指すときは the logistics are が多く、実務面全体を一つの問題として the logistics is と扱うこともある。形が複数でも a logistic を「手配事項1件」の意味には使わず、an arrangement や a logistical detail とする。語義1の職業分野としての logistics is と、ここでの the logistics are を区別すると読みやすい。単に「予定」は schedule、「事前の取り決め」は arrangements も使え、logistics は人・物・時間などを組み合わせて実行する面を強調する。"
+      ],
+      "synonyms": [
+        {
+          "word": "arrangements",
+          "definition": "何かを実施できるように事前に整えた手配・取り決め。",
+          "frequency": 9,
+          "difference": "宿泊予約や会合の準備など、比較的小さな手配にも広く使える。logistics は複数の要素を組み合わせる実務的な調整を強調する。",
+          "example": "Have you confirmed the travel arrangements for the visiting team?",
+          "translation": "訪問チームの移動の手配は確認しましたか。"
+        },
+        {
+          "word": "organization",
+          "definition": "人・物・作業などを整え、物事を実施できるようにすること。",
+          "frequency": 7,
+          "difference": "役割分担や全体の取りまとめも含む広い語。logistics は場所・時間・輸送・機材など具体的な実施条件に重点を置く。",
+          "example": "The organization of the festival took several months.",
+          "translation": "その祭りの運営準備には数か月かかった。"
+        },
+        {
+          "word": "coordination",
+          "definition": "複数の人や活動がうまく合うように調整すること。",
+          "frequency": 7,
+          "difference": "各要素の連携に焦点があり、手配そのものをすべて含むとは限らない。logistics は必要な実務全体を指せる。",
+          "example": "The move required close coordination between the IT and facilities teams.",
+          "translation": "その移転には、ITチームと施設管理チームの緊密な連携が必要だった。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・不可算】兵站・軍の後方支援",
+      "frequency": 4,
+      "register": [
+        "軍事、歴史、国際報道。"
+      ],
+      "definition": "軍事活動を継続できるよう、部隊や装備の輸送、物資の補給、整備、宿営などを計画・実施する活動やその体系。戦闘の直接的な戦術とは別に、活動を支える物資と運用の基盤を扱う。",
+      "patterns": [
+        "military logistics＝軍事兵站",
+        "logistics support＝兵站支援",
+        "logistics operations＝兵站活動",
+        "a logistics unit＝兵站部隊。"
+      ],
+      "collocations": [
+        {
+          "pattern": "military logistics",
+          "use": "軍隊の補給・輸送・整備をまとめた分野を示す。",
+          "example": "Military logistics becomes more difficult as supply routes grow longer.",
+          "translation": "補給路が長くなるほど、軍の兵站は難しくなる。"
+        },
+        {
+          "pattern": "logistics support",
+          "use": "軍事活動を支える補給・輸送などの支援を述べる。",
+          "example": "The battalion depends on logistics support for fuel and replacement parts.",
+          "translation": "その大隊は、燃料と交換部品の確保を兵站支援に頼っている。"
+        },
+        {
+          "pattern": "logistics operations",
+          "use": "部隊を支える具体的な兵站活動を指す。",
+          "example": "The exercise tested logistics operations under winter conditions.",
+          "translation": "その演習では、冬季の条件下での兵站活動を試した。"
+        },
+        {
+          "pattern": "a logistics unit",
+          "use": "補給・輸送などを担当する部隊を指す。",
+          "example": "A logistics unit delivered food and fuel to the troops.",
+          "translation": "兵站部隊が部隊に食料と燃料を届けた。"
+        }
+      ],
+      "notes": [
+        "この意味でも logistics は一つずつ数える名詞ではなく、a logistics unit の a は unit に付く。logistics support と logistical support はどちらも使われる。logistics support は民間の輸送支援にも使えるため、単独で必ず軍事用語と判断せず、troops、battalion などの文脈を確認する。日本語の「後方」は任務上の支援を表しており、必ず安全な後方地域で行うという意味を語そのものに含めない。"
+      ],
+      "synonyms": [
+        {
+          "word": "supply",
+          "definition": "部隊などに必要な食料・燃料・装備などを供給する業務。",
+          "frequency": 4,
+          "difference": "軍事文脈では兵站のうち補給に近い。logistics は輸送、整備、宿営なども含み、範囲が広い。",
+          "example": "The officer was responsible for the supply of fuel to the brigade.",
+          "translation": "その将校は、旅団への燃料補給を担当していた。"
+        },
+        {
+          "word": "provisioning",
+          "definition": "活動に必要な食料や物資を準備して供給すること。",
+          "frequency": 3,
+          "difference": "必要品をそろえる面に重点がある。部隊の移動や整備を含む兵站全体の意味では logistics の方が広い。",
+          "example": "Provisioning the army during the campaign required careful planning.",
+          "translation": "その軍事行動中の軍への物資供給には、綿密な計画が必要だった。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

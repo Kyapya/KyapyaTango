@@ -1,0 +1,160 @@
+{
+  "word": "outage",
+  "slug": "outage",
+  "ipa": "米・英: /ˈaʊ.tɪdʒ/",
+  "lead": "電力・通信・システムなどの供給や機能が停止し、利用できなくなること、またはその期間。故障などによる停止にも、保守のために予定した停止にも使う。対象は地域全体の場合も、特定の設備や機能の場合もある。",
+  "updated": "2026-10-16",
+  "notion_url": "https://app.notion.com/p/outage-3fb4faa9b77d810b8b33f73bb08ec1f9",
+  "pronunciation": [
+    "2音節で第1音節に主強勢。語末の -age は /ɪdʒ/ で、独立した age「年齢」の /eɪdʒ/ とは異なる。outage と outrage「激怒・憤慨」は別語で、outage には /r/ が入らない。"
+  ],
+  "etymology": [
+    "out と、状態・量などを表す名詞語尾 -age からなる。電気が切れていることを power is out と言うように、利用できる状態から外れているという out の用法と結び付けると覚えやすい。古い用法には輸送・保管中の減損量もあるが、現代の中心は電力やサービスが利用できない状態・期間である。"
+  ],
+  "formation": [
+    {
+      "term": "power outage（可算名詞）",
+      "description": "停電。特に北米で普通に使う。"
+    },
+    {
+      "term": "service outage（可算名詞）",
+      "description": "通信・オンラインサービスなどの提供停止。"
+    },
+    {
+      "term": "outage notification（複合名詞）",
+      "description": "停止・障害の通知。outage は後ろの名詞を修飾する。"
+    }
+  ],
+  "core": [],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算】停電・供給停止・サービス停止、その期間",
+      "frequency": 7,
+      "register": [
+        "一般、報道、電力、通信、IT、顧客向け案内。停電の意味では特に北米で一般的。ITのサービス停止には英国でも使う。"
+      ],
+      "definition": "電力・通信・システムなどの供給や機能が停止し、利用できなくなること、またはその期間。故障などによる停止にも、保守のために予定した停止にも使う。対象は地域全体の場合も、特定の設備や機能の場合もある。",
+      "patterns": [
+        "a power outage＝停電",
+        "a network outage＝ネットワークの停止",
+        "a service outage＝サービス停止",
+        "a planned/scheduled outage＝計画・予定停止",
+        "an unplanned outage＝計画外の停止",
+        "experience an outage＝停止に見舞われる",
+        "report an outage＝停止を報告する",
+        "during an/the outage＝停止中に",
+        "an/the outage + last + 〈時間〉＝停止がその時間続く。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a power outage",
+          "use": "電気の供給が止まる出来事を述べる。",
+          "example": "A power outage forced the store to close early.",
+          "translation": "停電のため、その店は早めに閉店せざるを得なかった。"
+        },
+        {
+          "pattern": "a network outage",
+          "use": "通信ネットワークが利用できなくなることを述べる。",
+          "example": "A network outage prevented staff from accessing shared files.",
+          "translation": "ネットワーク障害で、スタッフは共有ファイルにアクセスできなかった。"
+        },
+        {
+          "pattern": "a service outage",
+          "use": "利用者向けのサービス停止を知らせる。",
+          "example": "The provider apologized for a service outage that affected online payments.",
+          "translation": "提供会社は、オンライン決済に影響したサービス停止について謝罪した。"
+        },
+        {
+          "pattern": "a planned outage",
+          "use": "保守や工事のために計画した停止を示す。",
+          "example": "The planned outage will allow engineers to replace the aging equipment.",
+          "translation": "計画停止中に、技術者が老朽化した設備を交換できる。"
+        },
+        {
+          "pattern": "a scheduled outage",
+          "use": "実施時刻が決まっている停止を案内する。",
+          "example": "The scheduled outage will begin at midnight and last for one hour.",
+          "translation": "予定されている停止は午前0時に始まり、1時間続く。"
+        },
+        {
+          "pattern": "an unplanned outage",
+          "use": "故障などによる計画外の停止を述べる。",
+          "example": "A damaged cable caused an unplanned outage at the data center.",
+          "translation": "ケーブルの損傷により、データセンターで計画外の停止が起きた。"
+        },
+        {
+          "pattern": "experience an outage",
+          "use": "組織・地域・利用者がサービス停止に見舞われる。",
+          "example": "Customers in the northern district experienced an internet outage this morning.",
+          "translation": "北部地区の利用者は、今朝インターネットの接続障害に見舞われた。"
+        },
+        {
+          "pattern": "report an outage",
+          "use": "供給やサービスが止まっていることを担当先に知らせる。",
+          "example": "Please call this number to report an outage in your area.",
+          "translation": "お住まいの地域での供給停止は、この番号へお知らせください。"
+        },
+        {
+          "pattern": "during the outage",
+          "use": "サービスが停止している間の対応を述べる。",
+          "example": "A backup generator kept the laboratory equipment running during the outage.",
+          "translation": "停電中、予備発電機によって研究室の機器は稼働を続けた。"
+        },
+        {
+          "pattern": "an/the outage + last + 〈時間〉",
+          "use": "停止期間の長さを示す。",
+          "example": "The outage lasted nearly three hours.",
+          "translation": "その停止は3時間近く続いた。"
+        }
+      ],
+      "notes": [
+        "通常は数えられるため、単数なら an outage、the outage、a power outage のように冠詞を付ける。outage の語頭は母音なので an outage、power の前なら a power outage。複数回の停止は repeated outages と言える。会社やサービスを主語に We are experiencing an outage. と表現できるが、機能停止の状態をそのまま be outage とは言わない。The service is down. または There is a service outage. とする。outage は自動的に「予期せぬ故障」を意味せず、planned outage も矛盾しない。partial outage は一部の地域・機能の停止であり、サービス全体が完全停止したとは限らない。停電は英国では power cut がよく使われる。単独の outage でも、電力会社の案内なら停電、通信会社の案内なら通信停止と解釈されやすい。outage は停止という出来事や期間、downtime は稼働していない時間を測ることに重点がある。disruption は遅延・混乱など、全面的には止まっていない状態も含むため、同じ障害報告でも意味範囲が広い。shortage は量の不足で、供給が止まる outage と区別する。「復旧」は service restoration や restoration of power と表せるが、停止後の対応を表す語であり、outage と同じ意味ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "power cut",
+          "definition": "電気の供給が途切れること、停電。",
+          "frequency": 6,
+          "difference": "特に英国で停電を表す普通の表現。outage は電力以外の通信やITサービスの停止にも使える。",
+          "example": "The power cut left several streets without electricity.",
+          "translation": "停電により、いくつかの通りで電気が使えなくなった。"
+        },
+        {
+          "word": "blackout",
+          "definition": "電気の供給が止まり、ある地域などが暗くなること。",
+          "frequency": 6,
+          "difference": "停電の意味で power outage と重なるが、特に広い範囲の停電を連想させやすい。情報遮断や一時的な意識・記憶の喪失などの別義もある。",
+          "example": "The storm caused a blackout across much of the city.",
+          "translation": "その嵐により、市内の広い範囲で停電が起きた。"
+        },
+        {
+          "word": "interruption",
+          "definition": "続いていた供給・活動などが途中で途切れること。",
+          "frequency": 8,
+          "difference": "interruption in service は outage と近いが、会話や作業の中断にも広く使う。outage は供給・設備・サービスの利用不能に焦点がある。",
+          "example": "The upgrade caused a brief interruption in telephone service.",
+          "translation": "その更新により、電話サービスが短時間中断した。"
+        },
+        {
+          "word": "downtime",
+          "definition": "機械やシステムが停止して稼働していない時間。",
+          "frequency": 6,
+          "difference": "通常不可算で、停止時間の長さを測る語。an outage は一回の停止を数えられるが、同じ形で a downtime とは通常言わない。",
+          "example": "The new maintenance plan reduced equipment downtime.",
+          "translation": "新しい保守計画によって、機器の停止時間が短くなった。"
+        },
+        {
+          "word": "shutdown",
+          "definition": "機械・施設・システムなどを停止すること、またはその停止状態。",
+          "frequency": 7,
+          "difference": "運転を止める操作や施設の休止に焦点があり、意図的な停止にもよく使う。outage は供給・機能が利用できないという利用者側の状態を表しやすい。",
+          "example": "The factory scheduled a shutdown for annual maintenance.",
+          "translation": "工場は年次保守のための操業停止を予定した。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
