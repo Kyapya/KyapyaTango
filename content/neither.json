@@ -1,1127 +1,669 @@
 {
   "word": "neither",
   "slug": "neither",
-  "ipa": "米: /ˈniːðər/, /ˈnaɪðər/｜英: /ˈniːðə/, /ˈnaɪðə/",
+  "ipa": "米: /ˈniː.ðɚ/, /ˈnaɪ.ðɚ/｜英: /ˈniː.ðə/, /ˈnaɪ.ðə/",
   "lead": "「どちらの～も…ない」「二つのうち、どちらの～も…ない」。二つの人物・物・選択肢などを前提として、その一方にも他方にも後続の内容が当てはまらないことを示す。neither の直後には原則として単数可算名詞を置き、neither を含む名詞句は通常、文法上単数として扱う。",
-  "updated": "2026-08-08",
+  "updated": "2026-10-16",
   "notion_url": "https://app.notion.com/p/neither-3b64faa9b77d812ebd8ddc83248ec582",
   "pronunciation": [
-    "/ˈniːðər/ と /ˈnaɪðər/ は、どちらも標準的な発音である。両方とも米英で使われ、片方だけを「米式」「英式」と決めることはできない。個人・地域・文脈によって選択が異なる。Cambridge Dictionary",
-    "第1音節に強勢を置く2音節語である。",
-    "/ð/ は this、that と同じ有声歯摩擦音であり、舌先を上の前歯付近に軽く当てて声を出す。/z/ や /d/ に置き換えない。",
-    "非R音系のイギリス英語では語末の /r/ を通常発音しないが、neither of のように次の語が母音で始まる場合には連結して発音されることがある。"
+    "2音節で、第1音節に強勢を置く。第1音節の母音には /iː/ と /aɪ/ の二通りがあり、どちらも米英双方で使われる。片方を米式、もう片方を英式と決め付けない。",
+    "上に示した米英差は第2音節の語末にあり、米語は r 音を伴う /ɚ/、非R音系の英語は /ə/ となる。英語でも neither of のように次の語が母音で始まると、連結の /r/ が現れることがある。",
+    "第2音節の th は this と同じ有声音 /ð/。think の無声音 /θ/ と区別する。"
   ],
   "etymology": [
-    "古英語の nāhwæþer、短縮形 nāwþer に由来し、歴史的には「二つのうち、どちらでもない」を表した。nā「ない」と hwæþer「二つのうちどちら」が結び付いた語で、後半は whether と同系である。中英語期に either との類推によって現在の neither に近い形へ変化した。Oxford Learner’s Dictionaries",
-    "現代の学習上は、either「二つのうち一方」に否定が加わり、「一方も他方も該当しない」と捉えると理解しやすい。ただし、現代英語で ne- を自由に付けて否定語を作れるわけではない。",
-    "同語源語:",
-    "whether: 「～かどうか」「二つのうちどちらか」を表す。古くは二者択一との結び付きが現在より明確だった。",
-    "either: 二つのうち一方、または否定文で「どちらも」を表す。neither と肯定・否定の対をなす。",
-    "nor: 中英語で neither に当たる語が短縮されて成立したとされ、現在は neither と組み合わせて否定される第二項以降を導く。"
+    "古英語 nāhwæther とその短縮形に由来し、nā「ない」と hwæther「二つのうちどちら」が結び付いた語。中英語で either との類推を受け、現在の形へ変化した。「一方も他方も該当しない」という意味は、現代の基本用法にもつながっている。",
+    "whether は後半の hwæther を引き継ぐ語。either も「二つのうちどちら」という同系の要素を持ち、neither の形に影響した。nor は neither に当たる中英語の形から短縮して生じた語で、現在は否定される次の項目を導く。現代英語で ne- を自由に付けて否定語を作れるわけではない。"
   ],
-  "formation": [
-    {
-      "term": "neither",
-      "description": "限定詞・代名詞・相関接続表現の一部・副詞として使われる。同じ綴りのまま文中での機能が変化する。"
-    },
-    {
-      "term": "neither A nor B",
-      "description": "AとBをともに否定する相関接続表現。AとBには原則として文法的に並行する要素を置く。"
-    },
-    {
-      "term": "neither of +",
-      "description": "複数名詞句／目的格代名詞: 特定された対象のいずれも該当しないことを表す代名詞構文。"
-    }
-  ],
+  "formation": [],
   "core": [
     {
-      "label": "想定されている選択肢A・Bについて、「選ばれるもの・当てはまるものがゼロ」であることを表す。日本語では文脈に応じて「どちらも～ない」「どちらでもない」「～も…も～ない」と訳し分ける。",
-      "description": ""
+      "type": "paragraph",
+      "text": "「挙げた候補の一方も他方も成立させない」。名詞を伴って二者を否定するほか、否定をもう一つの内容へ広げ、定型表現では分類・筋道・痕跡・程度の両側を否定する。語義5は歴史的残存義で、古くから固定した「問題にならない」という慣用的意味は、現在の「ここでもそこでもない」という場所の否定だけでは導けないため、個別に参照する。"
     },
     {
-      "label": "限定詞",
-      "description": "→ 後続名詞が表す二つのもののうち、どちらも該当しない。"
+      "type": "item",
+      "text": "両方を否定する名詞の限定 → 「どちらの～も…ない」（語義1）"
     },
     {
-      "label": "代名詞",
-      "description": "→ すでに特定された対象のうち、該当するものが一つもない。"
+      "type": "item",
+      "text": "両方を否定する名詞なしの指示 → 「どちらも～ない、どちらでもない」（語義2）"
     },
     {
-      "label": "neither",
-      "description": "A nor B → AとBを同じ否定の範囲に入れる。"
+      "type": "item",
+      "text": "両方を否定する項目の並列 → 「AもBも～ない」（語義3）"
     },
     {
-      "label": "Neither",
-      "description": "+ 助動詞 + 主語 → 先に述べられた否定内容が、別の主語にも当てはまる。"
+      "type": "item",
+      "text": "両方を否定する内容の追加 → 「～もまた…ない」（語義4）"
     },
     {
-      "label": "慣用句",
-      "description": "→ 「二つのどちらにも属さない」という核から、無関係・分類不能・中途半端などの意味へ発展する。"
+      "type": "item",
+      "text": "両方を否定する分類への所属 → 「どちらともつかない」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "両方を否定する秩序と理由 → 「筋道も道理もない」（語義7）"
+    },
+    {
+      "type": "item",
+      "text": "両方を否定する姿と痕跡 → 「姿も痕跡も全く見えない」（語義8）"
+    },
+    {
+      "type": "item",
+      "text": "両方を否定する超過と不足 → 「それ以上でも以下でもない、まさに～だ」（語義9）"
     }
   ],
   "sources": [],
   "senses": [
     {
       "number": 1,
-      "title": "限定詞",
+      "title": "【限定詞】どちらの～も…ない",
       "frequency": 8,
       "register": [
-        "中立。会話・文章・ビジネス・報道・学術文で広く使われる。"
+        "中立。会話・文章で広く使う。"
       ],
-      "definition": "「どちらの～も…ない」「二つのうち、どちらの～も…ない」。二つの人物・物・選択肢などを前提として、その一方にも他方にも後続の内容が当てはまらないことを示す。neither の直後には原則として単数可算名詞を置き、neither を含む名詞句は通常、文法上単数として扱う。",
+      "definition": "二つの人物・物・選択肢を前提に、その一方にも他方にも後続の内容が当てはまらないことを示す。名詞を直接伴い、neither answer なら「二つの答えのどちらも」という意味になる。二つが直前に明示されていなくても、文脈から分かれば使える。",
       "patterns": [
-        "neither + 単数可算名詞",
-        "用途: 二つある人物・物のどちらも該当しないことを示す",
-        "例: Neither answer is correct.",
-        "訳: どちらの答えも正しくない。",
-        "neither + 単数可算名詞 + 単数動詞",
-        "用途: neither を伴う名詞句を主語にする標準的な形",
-        "例: Neither candidate has enough experience.",
-        "訳: どちらの候補者にも十分な経験がない。",
-        "前置詞 + neither + 単数可算名詞",
-        "用途: 二つの時・場所・場合などのいずれにも該当しないことを示す",
-        "例: In neither case was the evidence conclusive.",
-        "訳: どちらの場合も、証拠は決定的ではなかった。",
-        "neither + 単数名詞 + nor + 単数名詞",
-        "用途: 二つの名詞を明示して、ともに否定する",
-        "例: Neither plan nor proposal addresses the main problem.",
-        "訳: どちらの計画案も主要な問題に対処していない。"
+        "neither 〈単数可算名詞〉＝どちらのものも～ない",
+        "neither 〈単数可算名詞〉 + 〈単数動詞〉＝主語として用いる",
+        "in neither case/on neither occasion + 〈助動詞またはbe動詞〉 + 〈主語〉...＝否定の副詞句を文頭に出して強調する。"
       ],
       "collocations": [
         {
           "pattern": "neither option",
-          "use": "二つの選択肢のどちらも該当・選択できないことを表す",
+          "use": "二つの選択肢のどちらも条件を満たさないことを述べる。",
           "example": "Neither option seems particularly attractive.",
-          "translation": "どちらの選択肢も特に魅力的には思えない。"
+          "translation": "どちらの選択肢も特に魅力的には思えません。"
         },
         {
           "pattern": "neither answer",
-          "use": "二つの答えがともに不正解、または不十分であることを表す",
+          "use": "二つの答えについて同じ否定的判断を示す。",
           "example": "Neither answer fully explains what happened.",
-          "translation": "どちらの答えも、何が起きたのかを十分には説明していない。"
+          "translation": "どちらの答えも、何が起きたのかを十分には説明していません。"
         },
         {
           "pattern": "neither side",
-          "use": "対立・交渉・試合などの双方を否定の対象にする",
+          "use": "対立・交渉などの双方を否定の対象にする。",
           "example": "Neither side was willing to compromise.",
-          "translation": "どちらの側も譲歩しようとしなかった。"
+          "translation": "どちらの側も譲歩しようとしませんでした。"
         },
         {
-          "pattern": "neither party",
-          "use": "契約・訴訟・交渉などの当事者双方について述べる",
-          "example": "Neither party may terminate the agreement without notice.",
-          "translation": "いずれの当事者も、予告なしに契約を解除することはできない。"
+          "pattern": "neither key",
+          "use": "二つの物を試した結果、どちらも役に立たなかったと述べる。",
+          "example": "I tried both keys, but neither key worked.",
+          "translation": "二本の鍵を両方試しましたが、どちらも使えませんでした。"
         },
         {
           "pattern": "in neither case",
-          "use": "先に挙げた二つの場合のどちらにも当てはまらないことを表す",
-          "example": "In neither case did the treatment produce serious side effects.",
-          "translation": "どちらの場合も、その治療によって重い副作用は生じなかった。"
+          "use": "二つの場合のどちらにも当てはまらないことを強調する。",
+          "example": "In neither case was the evidence conclusive.",
+          "translation": "どちらの場合も、証拠は決定的ではありませんでした。"
         },
         {
           "pattern": "on neither occasion",
-          "use": "二回の機会のいずれにも出来事が起きなかったことを表す",
+          "use": "二回の機会のいずれにも出来事が起きなかったと述べる。",
           "example": "On neither occasion did he mention the missing documents.",
-          "translation": "どちらの機会にも、彼は紛失した書類について触れなかった。"
-        },
-        {
-          "pattern": "at neither end of something",
-          "use": "二つの端のどちらにも何かが存在しないことを表す",
-          "example": "There was a guard at neither end of the corridor.",
-          "translation": "廊下のどちらの端にも警備員はいなかった。"
+          "translation": "どちらの機会にも、彼は紛失した書類について触れませんでした。"
         }
       ],
       "notes": [
-        "neither の直後には通常、単数可算名詞を置く。× neither options／○ neither option／○ neither of the options。",
-        "二者が明示されていなくても、文脈から二つだと分かれば使える。I tried both keys, but neither key worked. は「二本の鍵のどちらも使えなかった」という意味になる。",
-        "neither 自体に否定が含まれるため、標準英語では別の否定語を重ねない。× Neither answer isn’t correct.／○ Neither answer is correct.",
-        "否定文では either を使って同じ内容を表せる。Neither answer is correct.／I don’t think either answer is correct. のように、否定を置く位置が異なる。",
-        "限定詞として単数名詞を直接修飾する用法では、二者を前提とするのが最も典型的である。一方、代名詞用法や neither...nor... では三つ以上を指す用例も古くから定着しているため、「neither は絶対に二者にしか使えない」とするのは実態に合わない。対象数を明確に示したい場合は none of、not any of などとの書き分けを検討する。Merriam-Webster",
-        "neither は形容詞と呼ばれることもあるが、現代文法では名詞句の限定機能を担う「限定詞」とする分析が一般的である。"
+        "名詞を直接伴う形では単数可算名詞を使う。× neither options／○ neither option。the や my などで限定された複数名詞を使うなら、語義2の neither of the options、neither of my parents とする。",
+        "neither 自体が否定を含む。「どちらの答えも正しくない」なら Neither answer is correct.。この意味のつもりで Neither answer isn’t correct. と二重に否定しない。否定を動詞側に置くなら I don’t like either option.「どちらの選択肢も好きではない」のように either を使う。",
+        "Neither answer is correct. は二つとも否定する。Not both answers are correct. は「二つとも正しいわけではない」で、一つだけ正しい場合も含む。both と not の組み合わせで全否定を表そうとすると曖昧になりやすい。",
+        "Neither candidate was selected. の neither を含む主語では倒置しない。In neither case was a candidate selected. のように、否定の副詞句を文頭に出した場合とは区別する。",
+        "辞書によっては形容詞と分類されるが、ここでは名詞の指示範囲を定める限定詞として扱う。"
       ],
       "synonyms": [
         {
-          "word": "not either",
-          "definition": "二つのうち、どちらについても否定する表現",
-          "frequency": 8,
-          "difference": "neither は一語で否定を担うが、not either は述語側などに否定を置く。not either + 名詞だけでは通常使わず、not either of them や do not like either option の形を取る。",
-          "example": "I don’t think either solution will work.",
-          "translation": "どちらの解決策もうまくいくとは思わない。"
-        },
-        {
           "word": "no",
-          "definition": "数を二つに限定せず、一つも存在・該当しないことを表す限定詞",
+          "definition": "後続名詞に当たるものが一つも該当しないことを表す限定詞。",
           "frequency": 10,
-          "difference": "neither は典型的に二者を前提とするが、no は対象の数を限定しない。",
-          "example": "No solution is completely risk-free.",
-          "translation": "完全にリスクのない解決策は存在しない。"
-        },
-        {
-          "word": "not one",
-          "definition": "対象のうち一つさえ該当しないことを強調する表現",
-          "frequency": 6,
-          "difference": "neither より強調的で、対象が二つである必要はない。",
-          "example": "Not one applicant met all the requirements.",
-          "translation": "応募者は一人として、すべての要件を満たしていなかった。"
+          "difference": "二者に限定しない。単数・複数・不可算名詞と結び付き、neither は通常、二つあるものの両方を否定する。",
+          "example": "No candidate met all the requirements.",
+          "translation": "すべての条件を満たす候補者はいませんでした。"
         }
       ],
       "antonyms": [
         {
-          "word": "either",
-          "definition": "二つのうち一方、または二つの各々を表す",
-          "frequency": 10,
-          "difference": "選択可能性の対立で、neither が両方を排除するのに対し、either は少なくとも一方を可能性として残すか、「どちらを選んでも」と表す。",
-          "example": "Either route will take about an hour.",
-          "translation": "どちらの経路を使っても1時間ほどかかる。"
-        },
-        {
           "word": "both",
-          "definition": "二つのものがともに該当することを表す",
+          "definition": "二つのものの一方と他方をともに含める限定詞。",
           "frequency": 10,
-          "difference": "数量上の完全な対立で、neither が「ゼロ」、both が「二つとも」を表す。",
-          "example": "Both answers are acceptable.",
-          "translation": "どちらの答えも受け入れられる。"
+          "difference": "二者のうち該当する数がゼロである neither に対し、両方が該当することを表す。ゼロと二つの対立で、一つだけ該当する中間の場合もある。",
+          "example": "Both answers are correct.",
+          "translation": "両方の答えが正しいです。"
         }
       ]
     },
     {
       "number": 2,
-      "title": "代名詞",
+      "title": "【代名詞】どちらも～ない、どちらでもない",
       "frequency": 8,
       "register": [
-        "中立。単独返答では日常会話でも自然である。neither of は会話・文章の両方で広く使われる。"
+        "中立。neither of が主語の場合、単数一致は改まった文体にも適し、複数一致は特に会話で普通。"
       ],
-      "definition": "「どちらも～ない」「いずれも～ない」「どちらでもない」。すでに特定された人物・物・選択肢を名詞なしで受け、そのうち該当するものが一つもないことを表す。単独で使うほか、neither of + 複数名詞句／目的格代名詞の形を取る。",
+      "definition": "すでに分かっている人物・物を、名詞を繰り返さずに受け、そのいずれも該当しないことを表す。単独で使うほか、neither of the answers、neither of us のように対象の集合を明示する。二者について使うのが基本だが、実際には三者以上を受ける用例もある。",
       "patterns": [
-        "neither of + the／these／those／所有格 + 複数名詞",
-        "用途: 特定された対象のいずれも該当しないことを表す",
-        "例: Neither of the proposals was approved.",
-        "訳: いずれの提案も承認されなかった。",
-        "neither of + us／you／them",
-        "用途: 人物・物を代名詞で受け、そのいずれも該当しないことを表す",
-        "例: Neither of us knew the answer.",
-        "訳: 私たちは二人とも答えを知らなかった。",
-        "neither of whom／which",
-        "用途: 関係節で、先行する対象のいずれにも当てはまらないことを付け加える",
-        "例: She has two brothers, neither of whom lives nearby.",
-        "訳: 彼女には兄弟が二人いるが、どちらも近くには住んでいない。",
-        "neither + 単数動詞",
-        "用途: neither を単独の主語として文法上単数扱いにする",
-        "例: Neither was suitable for a formal interview.",
-        "訳: どちらも正式な面接には適していなかった。",
-        "動詞 + neither",
-        "用途: neither を目的語として「どちらも選ばない」などを表す",
-        "例: We considered both designs but chose neither.",
-        "訳: 私たちは両方のデザインを検討したが、どちらも選ばなかった。"
+        "neither of the/these/those + 〈複数可算名詞〉＝特定の二つのどちらも～ない",
+        "neither of 〈所有格＋複数可算名詞〉＝所有関係で特定する",
+        "neither of us/you/them＝代名詞で対象を示す",
+        "neither + 〈述語〉、〈動詞〉 + neither＝単独の主語・目的語",
+        "〈二人〉, neither of whom + 〈述語〉、〈二つの物〉, neither of which + 〈述語〉＝関係節で補足する",
+        "Neither.＝短い返答。"
       ],
       "collocations": [
         {
           "pattern": "neither of them",
-          "use": "すでに言及した人物・物のいずれも該当しないことを表す",
+          "use": "すでに挙げた二人のどちらにも当てはまらないと述べる。",
           "example": "I invited both of them, but neither of them replied.",
-          "translation": "私は二人とも招待したが、どちらからも返事がなかった。"
+          "translation": "二人とも招待しましたが、どちらからも返事がありませんでした。"
         },
         {
           "pattern": "neither of us",
-          "use": "話し手を含む二人の双方を否定する",
+          "use": "自分を含む二人について全否定する。",
           "example": "Neither of us had visited the city before.",
-          "translation": "私たちは二人とも、その都市を以前訪れたことがなかった。"
+          "translation": "私たちは二人とも、その都市を以前訪れたことがありませんでした。"
         },
         {
-          "pattern": "neither of the two",
-          "use": "対象が二つであることを明示し、その双方を否定する",
+          "pattern": "neither of the 〈複数可算名詞〉",
+          "use": "対象となる二つを名詞で明示する。",
           "example": "Neither of the two explanations is convincing.",
-          "translation": "二つの説明はどちらも説得力がない。"
+          "translation": "二つの説明はどちらも説得力がありません。"
+        },
+        {
+          "pattern": "neither of whom",
+          "use": "二人のどちらについても成立しない情報を補足する。",
+          "example": "She has two brothers, neither of whom lives nearby.",
+          "translation": "彼女には兄弟が二人いますが、どちらも近くには住んでいません。"
         },
         {
           "pattern": "neither of which",
-          "use": "先行する物・事柄について非制限関係節を作る",
+          "use": "二つの物・案のいずれも条件を満たさないと補足する。",
           "example": "The company offered two alternatives, neither of which solved the problem.",
-          "translation": "会社は二つの代替案を提示したが、どちらも問題を解決しなかった。"
-        },
-        {
-          "pattern": "neither one",
-          "use": "二つの個々の選択肢をやや強調して否定する",
-          "example": "Neither one fits properly.",
-          "translation": "どちらもきちんとはまらない。"
+          "translation": "会社は二つの代替案を提示しましたが、どちらも問題を解決しませんでした。"
         },
         {
           "pattern": "choose neither",
-          "use": "提示された選択肢をいずれも選ばないことを表す",
-          "example": "If you dislike both colors, you can choose neither.",
-          "translation": "どちらの色も気に入らなければ、どちらも選ばなくてよい。"
+          "use": "二つの選択肢を検討したうえで、どちらも選ばない。",
+          "example": "We considered both designs but chose neither.",
+          "translation": "両方のデザインを検討しましたが、どちらも選びませんでした。"
         },
         {
-          "pattern": "Which one? — Neither.",
-          "use": "二つのうちどちらかを尋ねられ、両方を否定する単独返答",
+          "pattern": "Neither.",
+          "use": "二択の質問に対し、いずれにも該当しないと答える。",
           "example": "“Which one belongs to you?” “Neither.”",
           "translation": "「どちらがあなたのものですか」「どちらも私のものではありません」"
         }
       ],
       "notes": [
-        "of の後ろでは名詞を複数形にする。× neither of the answer／○ neither of the answers。",
-        "人称代名詞は目的格にする。× neither of they／○ neither of them。",
-        "neither または neither of + 複数名詞句が主語の場合、形式的な文章では単数動詞が最も安全である。Neither of the answers is correct. が典型となる。",
-        "実際の会話や比較的くだけた文章では、Neither of the answers are correct. のような複数一致も広く使われる。したがって複数形を一律に非文法的とするのは正確ではないが、文体差はある。Cambridge Grammar",
-        "後続の代名詞には単数の they を使える。Neither of the students remembered to bring their ID. は性別を限定しない自然な現代英語である。",
-        "neither を単独で使う場合、何を否定しているかが文脈から特定できる必要がある。",
-        "Which do you prefer? に Neither. と答えると「どちらも好まない」という意味になる。Either. なら文脈により「どちらでもよい」の意味になる。",
-        "× neither of both options は冗長である。○ neither option／○ neither of the options とする。",
-        "二者には neither、三者以上には none とする区別は学習上有用だが、現実の用法では neither が三者以上を指す例も確立している。対象数の厳密さが重要なら、表現を明示的に選ぶ。"
+        "of の後ろは複数名詞句または目的格代名詞にする。× neither of the answer／○ neither of the answers、× neither of they／○ neither of them。冠詞などのない neither of answers ではなく、neither answer または neither of the answers とする。",
+        "主語の neither、neither of the answers は、改まった文章では通常単数動詞にする。ただし Neither of the answers are correct. のような複数一致も、特に会話では広く使われる。複数形を一律に非文法的とはしない。",
+        "Neither of the students brought their ID. の their は、性別を限定しない単数の they の形として使える。主語を単数扱いにすることと矛盾しない。",
+        "neither one、neither one of them も使える。one は一つずつの対象を明示する語で、別の否定義になるわけではない。",
+        "基本的な使い分けは、二者なら neither、三者以上なら none。もっとも、neither が三者以上を指す用例は古くからあり、絶対に二者しか指せないと断定するのも正確ではない。数を明確にしたい文章ではこの基本的な区別に従うとよい。",
+        "Which do you prefer? に Neither. なら「どちらも好きではない」。Either. は「どちらでもよい」となり得る。neither と either は取り違えると選択の意味が変わる。"
       ],
       "synonyms": [
         {
           "word": "none",
-          "definition": "一つも、誰も、何も該当しないことを表す代名詞",
-          "frequency": 10,
-          "difference": "neither は典型的に二者を個別に否定する。none は三者以上または数が限定されない集合に特に適するが、二者について使われる例もある。",
-          "example": "None of the applicants had the required qualification.",
-          "translation": "応募者の誰も必要な資格を持っていなかった。"
-        },
-        {
-          "word": "not either",
-          "definition": "二つのうち、どちらについても否定する",
-          "frequency": 8,
-          "difference": "neither が否定代名詞として主語・目的語になれるのに対し、not either は別の動詞や節に否定を置く分析的な表現である。",
-          "example": "I didn’t select either of them.",
-          "translation": "私はそのどちらも選ばなかった。"
-        },
-        {
-          "word": "not one",
-          "definition": "一つも該当しないことを強調する",
-          "frequency": 6,
-          "difference": "neither と異なり、対象を二つに限定しない。強調が強く、「一つたりとも」という含意を持ちやすい。",
-          "example": "Not one of the devices passed the test.",
-          "translation": "その装置は一つとして試験に合格しなかった。"
+          "definition": "話題の集合の中で、該当するものが一つもないことを表す代名詞。",
+          "frequency": 9,
+          "difference": "通常は三者以上や不可算の量にも使う。二者をはっきり意識する場合は neither が基本。",
+          "example": "We checked five printers, but none was working.",
+          "translation": "プリンターを五台調べましたが、動いているものは一台もありませんでした。"
         }
       ],
       "antonyms": [
         {
-          "word": "either",
-          "definition": "二つのうち一方、または文脈によってどちらでもよいことを表す代名詞",
-          "frequency": 10,
-          "difference": "neither が対象をすべて排除するのに対し、either は少なくとも一つを選択可能なものとして残す。",
-          "example": "Either would be fine with me.",
-          "translation": "私はどちらでも構わない。"
-        },
-        {
           "word": "both",
-          "definition": "二つのものを一緒に指し、両方が該当することを表す代名詞",
-          "frequency": 10,
-          "difference": "数量上の完全な反対で、neither はゼロ、both は二つを表す。",
-          "example": "Both were damaged in transit.",
-          "translation": "どちらも輸送中に損傷した。"
+          "definition": "すでに分かっている二者の両方を指す代名詞。",
+          "frequency": 9,
+          "difference": "二者のうちどちらも該当しない neither に対し、二者とも該当することを表す数量上の対立。",
+          "example": "I invited two colleagues, and both came.",
+          "translation": "同僚二人を招待し、二人とも来てくれました。"
         }
       ]
     },
     {
       "number": 3,
-      "title": "相関接続表現",
+      "title": "【相関接続表現：neither ... nor ...】AもBも～ない",
       "frequency": 9,
       "register": [
-        "中立。会話でも使われるが、not...either や not...or より整った、やや文章的な響きになる場合がある。契約・学術・報道では明確な否定列挙として頻出する。"
+        "中立～やや改まった表現。文章で便利だが、会話では二つの否定文に分けることも多い。"
       ],
-      "definition": "neither A nor B の形で「AもBも～ない」「AでもBでもない」を表す。AとBを一つの否定の範囲に入れ、語・句・節など、原則として文法的に同種の要素を結ぶ。二つの名詞だけでなく、動作・性質・理由・節全体を並列できる。",
+      "definition": "二つ以上の要素を並べ、それぞれを否定する。「AでもBでもない」「AすることもBすることもない」など。名詞・形容詞・動詞句・前置詞句・節などを結べるが、何を並列しているかが明確になるように語順をそろえる。",
       "patterns": [
-        "neither A nor B",
-        "用途: 文法的に並行する二つの要素をともに否定する基本構文",
-        "例: The result was neither surprising nor disappointing.",
-        "訳: その結果は驚くべきものでも、落胆させるものでもなかった。",
-        "S + neither V1 nor V2",
-        "用途: 同一の主語について二つの動作をともに否定する",
-        "例: She neither complained nor asked for help.",
-        "訳: 彼女は不満を言うことも、助けを求めることもしなかった。",
-        "neither + 単数主語 + nor + 単数主語 + 動詞",
-        "用途: 二つの単数主語をともに否定する",
-        "例: Neither Daniel nor Maria is available today.",
-        "訳: ダニエルもマリアも今日は都合がつかない。",
-        "neither + 主語A + nor + 主語B + Bに一致する動詞",
-        "用途: 数が異なる主語を結び、近接一致によって動詞を直前の主語Bに合わせる",
-        "例: Neither the manager nor the employees are satisfied.",
-        "訳: 管理職も従業員も満足していない。",
-        "文頭の Neither + 助動詞 + 主語 + 動詞 + nor + 助動詞 + 主語 + 動詞",
-        "用途: 二つの節を強調的・形式的に否定する",
-        "例: Neither did the report identify the cause nor did it propose a solution.",
-        "訳: その報告書は原因を特定せず、解決策も提示しなかった。",
-        "be + neither + 補語A + nor + 補語B",
-        "用途: 主語が二つの性質・分類のどちらにも該当しないことを表す",
-        "例: The decision was neither legal nor practical.",
-        "訳: その決定は合法的でも実用的でもなかった。"
+        "neither 〈名詞句A〉 nor 〈名詞句B〉＝名詞句を並列",
+        "be neither 〈形容詞A〉 nor 〈形容詞B〉＝性質を並列",
+        "〈主語〉 + neither 〈動詞句A〉 nor 〈動詞句B〉＝動作を並列",
+        "neither 〈前置詞句A〉 nor 〈前置詞句B〉＝方法・場所などを並列",
+        "neither 〈主語A〉 nor 〈主語B〉 + 〈述語〉＝二つの主語を否定",
+        "Neither + 〈助動詞〉 + 〈主語〉... nor + 〈助動詞〉 + 〈主語〉...＝節全体を並列して強調する。"
       ],
       "collocations": [
         {
-          "pattern": "neither agree nor disagree",
-          "use": "賛成・反対のどちらの立場も明示しない",
-          "example": "I neither agree nor disagree with the general principle.",
-          "translation": "私はその一般原則に賛成とも反対とも言えない。"
+          "pattern": "neither 〈人A〉 nor 〈人B〉",
+          "use": "二人のどちらも該当しないと述べる。",
+          "example": "Neither Daniel nor Maria is available today.",
+          "translation": "ダニエルもマリアも今日は都合がつきません。"
+        },
+        {
+          "pattern": "neither 〈単数主語〉 nor 〈複数主語〉",
+          "use": "数の違う主語を並べ、通常、動詞を近い主語に合わせる。",
+          "example": "Neither the manager nor the employees are satisfied.",
+          "translation": "管理職も従業員も満足していません。"
+        },
+        {
+          "pattern": "neither the time nor the resources",
+          "use": "必要なものを複数挙げ、どちらも不足していると述べる。",
+          "example": "We have neither the time nor the resources to redesign the system.",
+          "translation": "システムを設計し直す時間も人員や資金もありません。"
         },
         {
           "pattern": "neither confirm nor deny",
-          "use": "情報が正しいとも誤りとも認めない。公式発表・報道で頻出する",
+          "use": "情報が事実かどうか、どちらの判断も示さない。",
           "example": "The spokesperson would neither confirm nor deny the report.",
-          "translation": "広報担当者は、その報道を肯定も否定もしなかった。"
+          "translation": "広報担当者は、その報道を肯定も否定もしませんでした。"
         },
         {
           "pattern": "neither know nor care",
-          "use": "知らないだけでなく、関心もないことを強く表す",
+          "use": "知識がないことと、関心がないことをともに述べる。",
           "example": "He neither knows nor cares how the system works.",
-          "translation": "彼はその仕組みを知らないし、知ろうとも思っていない。"
+          "translation": "彼はその仕組みを知らないし、関心もありません。"
         },
         {
           "pattern": "neither necessary nor sufficient",
-          "use": "論理・数学・学術文で、必要条件でも十分条件でもないことを表す",
+          "use": "必要条件と十分条件のどちらにも当たらないと述べる。",
           "example": "Wealth is neither necessary nor sufficient for happiness.",
-          "translation": "富は幸福の必要条件でも十分条件でもない。"
+          "translation": "富は幸福の必要条件でも十分条件でもありません。"
         },
         {
-          "pattern": "neither true nor false",
-          "use": "命題・発言・分類が単純な真偽のどちらにも当てはまらないことを表す",
-          "example": "In this system, the statement may be neither true nor false.",
-          "translation": "この体系では、その命題は真でも偽でもない場合がある。"
+          "pattern": "neither by 〈方法A〉 nor by 〈方法B〉",
+          "use": "二つの方法を同じ形で並列して否定する。",
+          "example": "The package can be sent neither by air nor by sea.",
+          "translation": "その荷物は、航空便でも船便でも送れません。"
         },
         {
-          "pattern": "neither intended nor expected",
-          "use": "結果などが意図も予想もされていなかったことを表す",
-          "example": "The disruption was neither intended nor expected.",
-          "translation": "その混乱は意図されたものでも、予想されたものでもなかった。"
+          "pattern": "neither 〈A〉 nor 〈B〉 nor 〈C〉",
+          "use": "三つ以上の項目をすべて否定する。",
+          "example": "The room had neither heating nor lighting nor running water.",
+          "translation": "その部屋には暖房も照明も水道もありませんでした。"
         },
         {
-          "pattern": "neither by accident nor by design",
-          "use": "偶然と意図的設計の両方を説明として否定する",
-          "example": "The pattern arose neither by accident nor by design.",
-          "translation": "そのパターンは、偶然によっても意図的な設計によっても生じたものではなかった。"
-        },
-        {
-          "pattern": "neither the first nor the last",
-          "use": "同様の人物・出来事が以前にもあり、今後もあり得ることを示す",
-          "example": "This was neither the first nor the last dispute between the two companies.",
-          "translation": "これは両社間で起きた最初の争いでも、最後の争いでもなかった。"
+          "pattern": "Neither did 〈主語〉... nor did 〈主語〉...",
+          "use": "二つの節を文頭の否定で強調する。",
+          "example": "Neither did the report identify the cause, nor did it propose a solution.",
+          "translation": "その報告書は原因を特定せず、解決策も提示しませんでした。"
         }
       ],
       "notes": [
-        "現代の標準的な組み合わせは neither A nor B である。neither A or B も歴史的・実際の用例があり、常に非文法的とは言い切れないが、現代の学習者向け文章や形式的文章では nor を使うのが安全である。",
-        "AとBは可能な限り文法的に並行させる。△ She neither likes coffee nor tea. は likes coffee と tea を不均衡に結ぶように見える。○ She likes neither coffee nor tea. または ○ She neither drinks coffee nor drinks tea. とする。",
-        "neither の位置によって否定の範囲が決まる。She neither said that he lied nor implied it. は said と implied を否定する。She said that neither he nor his colleague lied. は he と his colleague を否定する。",
-        "二つの単数主語を結ぶ場合、形式的な文章では単数動詞が最も安全である。Neither the teacher nor the student was injured. が典型となる。ただし実際には、特にくだけた用法で複数動詞も使われるため、複数形を一律に非文法的とはできない。",
-        "一方が単数、他方が複数の場合は、動詞に最も近い主語に一致させる近接一致が広く採用される。Neither the manager nor the employees are...／Neither the employees nor the manager is... となる。不自然に響く場合は、主語を並べ替えるか文を分ける。",
-        "人称代名詞と be を組み合わせると、Neither you nor I am responsible. のように文法的でも不自然に響く場合がある。Neither of us is responsible. と書き換えると自然である。",
-        "neither...nor... 自体に否定が含まれる。標準英語では × I don’t neither smoke nor drink. とせず、○ I neither smoke nor drink. または ○ I don’t smoke or drink. とする。否定一致を持つ一部の方言では重複否定が体系的に使われるが、標準的な文章では避ける。",
-        "not A or B は、文脈によって「AでもBでもない」と「AとBの両方というわけではない」の範囲が曖昧になることがある。neither A nor B は通常、AとBを個別に否定する。",
-        "neither...nor... は三項以上も結べる。Neither A, B, nor C のような用法は数百年前から確立しており、「neither は二項にしか使えない」という制限は絶対的ではない。ただし長い列挙では not A, B, or C の方が読みやすい場合がある。",
-        "文頭に Neither が置かれて節全体を否定すると、助動詞と主語が倒置する。× Neither the report explained the cause.／○ Neither did the report explain the cause. ただし、Neither report explained the cause. の neither は限定詞なので倒置しない。",
-        "Both A and B are not... は「AもBも～ない」と「AとBの両方が～というわけではない」の両方に解釈され得る。両方を確実に否定するなら neither A nor B を使う。"
+        "neither と nor のすぐ後ろに、対応する要素を置く。She likes neither coffee nor tea. なら coffee と tea、She neither drinks coffee nor eats chocolate. なら二つの動詞句を並べる。She neither likes coffee nor tea. も実際には見られるが、編集された文章では対応を明確にした形がよい。",
+        "neither の位置で否定する範囲が変わる。She neither said it nor implied it. は二つの行為を否定し、She said that neither he nor his colleague had called. は発言内容の中の二人について否定する。",
+        "単数主語同士を結ぶなら、改まった文章では単数動詞が基本。ただし複数一致も実際に使われる。単数と複数が混在する場合は、通常、動詞に近い主語に合わせる。Neither the employees nor the manager is...。人称も混在して文がぎこちなくなる場合は、Neither of us is responsible. のように書き換えられる。",
+        "「AもBもしない」のつもりで I don’t neither smoke nor drink. としない。I neither smoke nor drink. または I don’t smoke or drink. が標準的。否定一致を使う方言もあるが、標準的な文章では区別する。",
+        "neither と nor の組み合わせを基本にする。neither ... or ... も歴史的・現代の用例があり、常に誤りとはいえないが、学習者が通常の相関構文を書くときは nor が明確である。",
+        "Neither the report nor the appendix explains it. は主語を並列しているので倒置しない。Neither did the report explain it, nor did the appendix. は節を否定して並列するため倒置する。"
       ],
       "synonyms": [
         {
-          "word": "not...either",
-          "definition": "否定文の中で、対象・行為のいずれも該当しないことを表す",
-          "frequency": 9,
-          "difference": "neither...nor... が対称的で比較的引き締まった構造なのに対し、not...either は会話的で、否定を述語側に置く。",
-          "example": "She didn’t accept either explanation.",
-          "translation": "彼女はどちらの説明も受け入れなかった。"
-        },
-        {
           "word": "nor",
-          "definition": "先行する否定内容に、もう一つの否定要素または否定節を加える接続語",
-          "frequency": 7,
-          "difference": "neither と相関させず単独でも使えるが、節を続ける場合は通常倒置を伴い、やや形式的である。",
-          "example": "He did not apologize, nor did he offer an explanation.",
-          "translation": "彼は謝罪せず、説明もしなかった。"
-        },
-        {
-          "word": "not A or B",
-          "definition": "AとBを否定の範囲に置く構文",
-          "frequency": 9,
-          "difference": "文脈によって否定の作用域が曖昧になり得る。二つを確実に個別否定したい場合は neither A nor B の方が明示的である。",
-          "example": "The rule does not apply to children or students.",
-          "translation": "その規則は子どもにも学生にも適用されない。"
+          "definition": "すでに述べた否定に、別の否定内容を加える接続詞。",
+          "frequency": 8,
+          "difference": "neither ... nor ... は並列する両方を最初から示すが、nor は先行する否定文を受けて次の節だけを導くこともできる。",
+          "example": "She didn’t complain, nor did she ask for help.",
+          "translation": "彼女は不満を言わず、助けも求めませんでした。"
         }
       ],
       "antonyms": [
         {
-          "word": "both A and B",
-          "definition": "AとBの双方が該当することを表す相関表現",
+          "word": "either ... or ...",
+          "definition": "挙げた選択肢の少なくともどれかが該当することや、どれかを選ぶことを表す相関表現。",
           "frequency": 10,
-          "difference": "完全な数量的対立で、neither A nor B が両方を否定するのに対し、both A and B は両方を肯定する。",
-          "example": "The plan is both practical and affordable.",
-          "translation": "その計画は実用的で、しかも費用面でも無理がない。"
-        },
-        {
-          "word": "either A or B",
-          "definition": "AとBのうち少なくとも一方を選択肢または可能性として示す",
-          "frequency": 10,
-          "difference": "neither...nor... がすべてを否定するのに対し、either...or... は一方以上の可能性を残す。",
-          "example": "We can meet either Monday or Tuesday.",
-          "translation": "月曜日か火曜日のどちらかに会える。"
+          "difference": "該当する選択肢があることと、どれも該当しないことの対立。同じ内容について使う場合、neither ... nor ... は either ... or ... の全体を否定する関係になる。",
+          "example": "Either Daniel or Maria has the key.",
+          "translation": "ダニエルかマリアのどちらかが鍵を持っています。"
         }
       ]
     },
     {
       "number": 4,
-      "title": "副詞：否定内容への同意・追加",
+      "title": "【副詞・否定内容の追加】～もまた…ない",
       "frequency": 8,
       "register": [
-        "Neither do I. などは中立で、会話・文章の両方で使える。Me neither. は非常にくだけた会話表現である。"
+        "中立。Me neither. はくだけた会話。節を追加する用法は接続詞と分類されることもある。"
       ],
-      "definition": "「私も～ない」「その人／物も～ない」。先行する否定文の内容が別の主語にも当てはまることを示す。標準的な完全形は Neither + 助動詞・法助動詞・be動詞 + 主語で、neither を文頭に置くため倒置が起こる。",
+      "definition": "先に述べられた否定内容が別の人・物にも当てはまると示すほか、同じ主語について別の否定内容を追加する。「私も～ない」「～でもない」など。Neither do I. のような返答だけでなく、文章をつなぐ使い方もある。",
       "patterns": [
-        "Neither + do／does／did + 主語",
-        "用途: 一般動詞を含む否定文に「～もそうではない」と応じる",
-        "例: “I don’t watch much television.” “Neither do I.”",
-        "訳: 「私はテレビをあまり見ません」「私もです」",
-        "Neither + be動詞 + 主語",
-        "用途: be動詞を含む否定文に同意する",
-        "例: “I’m not ready.” “Neither am I.”",
-        "訳: 「私はまだ準備ができていません」「私もです」",
-        "Neither + 法助動詞 + 主語",
-        "用途: can、will、would、should などを含む否定内容を別の主語に追加する",
-        "例: She can’t attend, and neither can her assistant.",
-        "訳: 彼女は出席できず、彼女の補佐役も出席できない。",
-        "Neither + have／has／had + 主語",
-        "用途: 完了形の否定内容に同意・追加する",
-        "例: “I haven’t received the invoice.” “Neither have I.”",
-        "訳: 「私は請求書を受け取っていません」「私も受け取っていません」",
-        "Me neither.",
-        "用途: 否定文に対して「私も」とくだけて応じる",
-        "例: “I don’t understand this rule.” “Me neither.”",
-        "訳: 「この規則が分からない」「私も」"
+        "Neither + do/does/did + 〈主語〉＝一般動詞の否定への同意",
+        "Neither + 〈be動詞〉 + 〈主語〉＝be動詞の否定への同意",
+        "Neither + 〈法助動詞・完了のhave〉 + 〈主語〉＝法・時制・相を対応させる",
+        "〈否定節〉, and/but neither + 〈助動詞など〉 + 〈主語〉...＝否定内容を追加",
+        "Me neither.＝「私も」と短く答える。"
       ],
       "collocations": [
         {
           "pattern": "Neither do I.",
-          "use": "現在形の一般動詞を含む否定内容に同意する",
+          "use": "現在形の一般動詞を使った否定に同意する。",
           "example": "“I don’t trust that website.” “Neither do I.”",
           "translation": "「私はそのウェブサイトを信用していません」「私もです」"
         },
         {
           "pattern": "Neither did I.",
-          "use": "過去形の一般動詞を含む否定内容に同意する",
+          "use": "過去の否定内容が自分にも当てはまると答える。",
           "example": "“I didn’t notice the error.” “Neither did I.”",
           "translation": "「私はその誤りに気付きませんでした」「私もです」"
         },
         {
           "pattern": "Neither am I.",
-          "use": "I am not... という否定内容に同意する",
+          "use": "be動詞の否定に、自分も同じだと答える。",
           "example": "“I’m not convinced.” “Neither am I.”",
           "translation": "「私は納得していません」「私もです」"
         },
         {
-          "pattern": "Neither was she.",
-          "use": "過去のbe動詞による否定内容を別の主語に追加する",
-          "example": "I wasn’t surprised, and neither was she.",
-          "translation": "私は驚かなかったし、彼女も驚かなかった。"
-        },
-        {
-          "pattern": "Neither can we.",
-          "use": "can’t を含む否定内容に同意する",
+          "pattern": "neither can 〈主語〉",
+          "use": "ある人にできないことが、別の人にもできないと述べる。",
           "example": "They can’t predict the outcome, and neither can we.",
-          "translation": "彼らは結果を予測できず、私たちにも予測できない。"
+          "translation": "彼らは結果を予測できず、私たちにも予測できません。"
         },
         {
-          "pattern": "Neither will they.",
-          "use": "won’t を含む未来・意志の否定内容を別の主語に追加する",
-          "example": "We won’t change our position, and neither will they.",
-          "translation": "私たちは立場を変えないし、彼らも変えないだろう。"
+          "pattern": "Neither have I.",
+          "use": "完了形で述べられた否定内容に同意する。",
+          "example": "“I haven’t received the invoice.” “Neither have I.”",
+          "translation": "「私は請求書を受け取っていません」「私も受け取っていません」"
+        },
+        {
+          "pattern": "but neither did 〈主語〉...",
+          "use": "同じ主語について、別の否定内容を追加する。",
+          "example": "He didn’t deny the report, but neither did he confirm it.",
+          "translation": "彼はその報道を否定しませんでしたが、肯定もしませんでした。"
         },
         {
           "pattern": "Me neither.",
-          "use": "助動詞を繰り返さず、短く否定への同意を示す",
+          "use": "否定内容に「私も」とくだけて応じる。",
           "example": "“I don’t feel like cooking tonight.” “Me neither.”",
           "translation": "「今夜は料理をする気にならない」「私も」"
         }
       ],
       "notes": [
-        "語順は Neither + 助動詞 + 主語である。× Neither I do.／○ Neither do I.",
-        "使う助動詞は先行文の時制・相・法に合わせる。I don’t... → Neither do I.／I didn’t... → Neither did I.／I haven’t... → Neither have I.／I can’t... → Neither can I.",
-        "先行文が be動詞なら be をそのまま使う。I’m not tired. → Neither am I. であり、× Neither do I. ではない。",
-        "肯定内容への同意には so を使う。I like it. → So do I.／I don’t like it. → Neither do I.",
-        "判断基準は意味の好ましさではなく、節の文法上の肯定・否定である。I dislike it. は肯定形の述語なので、同意は So do I. となる。",
-        "I don’t like it either. も「私もそれが好きではない」を表せる。Neither do I. は倒置によって同意を示し、not...either は通常の否定語順を使う。",
-        "Me neither. は完全な節が省略されたくだけた返答であり、形式的な文章では Neither do I. などを使う。",
-        "Me either. も特にアメリカ英語のくだけた会話で否定への同意として聞かれるが、これを避ける話者・用法書もある。学習者は Me neither. または Neither do I. を使う方が安全である。",
-        "先行文が複合的なら、どの内容に同意しているか不明瞭になる場合がある。その場合は I don’t either. や I can’t do that either. のように述語を明示する。",
-        "hardly、rarely、never など、形式上 not がなくても否定的な極性を持つ表現の後では neither／nor による追加が可能である。She rarely complains, and neither does her assistant. のように使う。"
+        "完全な節では Neither + 〈助動詞など〉 + 〈主語〉 の語順にする。× Neither I do.／○ Neither do I.。neither の中に否定があるので、同意のつもりで Neither don’t I. とはしない。",
+        "助動詞は先行内容に合わせる。I didn’t... → Neither did I.、I haven’t... → Neither have I.、I can’t... → Neither can I.。主語の人称・数は新しい主語に合わせ、I’m not... に対して Neither is she. となる。",
+        "I dislike it. や I hate it. は、意味が否定的でも文法上は肯定形なので、同意は So do I.。一方、I never go there. の never など、not 以外の否定語を含む文には Neither do I. と応じられる。",
+        "I don’t like it either. も「私も好きではない」を表す。この形では倒置しない。標準的な文章で I don’t like it neither. と文末の either を neither に置き換えない。",
+        "Me neither. は定着したくだけた返答。特に米語では Me either. も聞かれるが、話者による評価差がある。学習者の基本形は Me neither. または Neither do I. などとするとよい。",
+        "Neither. だけで二択を否定する語義2と、Me neither. の「自分も同じ」という応答は別である。"
       ],
       "synonyms": [
         {
-          "word": "nor + 助動詞 + 主語",
-          "definition": "先行する否定内容が別の主語にも当てはまることを示す",
+          "word": "nor",
+          "definition": "先行する否定内容に「～もまたそうではない」と追加する語。",
           "frequency": 7,
-          "difference": "Neither do I. とほぼ同じ倒置構文を作るが、nor はやや文章的・形式的に響くことがある。",
-          "example": "She had never visited Rome, nor had I.",
-          "translation": "彼女はローマを訪れたことがなく、私もなかった。"
-        },
-        {
-          "word": "not...either",
-          "definition": "通常の否定文の末尾に either を置いて「～もまた…ない」を表す",
-          "frequency": 9,
-          "difference": "倒置を使わず、主語と否定述語を明示する。Neither do I. より長いが、伝える内容を具体化しやすい。",
-          "example": "I can’t attend either.",
-          "translation": "私も出席できない。"
+          "difference": "Nor do I. のように同じ倒置構文を取る。特にイギリス英語の会話でも使われるが、neither のほうが一般に幅広く使える。",
+          "example": "“I’ve never been to Iceland.” “Nor have I.”",
+          "translation": "「アイスランドには行ったことがありません」「私もありません」"
         },
         {
           "word": "same here",
-          "definition": "相手と同じ状態・意見であることをくだけて表す",
+          "definition": "相手が述べた状態・経験が自分にも当てはまると示す返答。",
           "frequency": 7,
-          "difference": "肯定・否定のどちらにも使えるため、否定への同意を文法的に明示する neither より意味が文脈依存である。",
-          "example": "“I haven’t finished yet.” “Same here.”",
-          "translation": "「私はまだ終わっていません」「私も同じです」"
-        }
-      ],
-      "antonyms": [
-        {
-          "word": "so + 助動詞 + 主語",
-          "definition": "先行する肯定内容が別の主語にも当てはまることを示す",
-          "frequency": 9,
-          "difference": "極性の完全な対立で、Neither do I. が否定への同意、So do I. が肯定への同意を表す。",
-          "example": "“I enjoyed the lecture.” “So did I.”",
-          "translation": "「その講義は楽しかったです」「私もです」"
-        },
-        {
-          "word": "too",
-          "definition": "肯定文で「～もまた」を表す副詞",
-          "frequency": 10,
-          "difference": "通常は肯定文の末尾に置く。標準英語では否定文の「～もない」には either を使う。",
-          "example": "I enjoyed the lecture too.",
-          "translation": "私もその講義を楽しんだ。"
-        },
-        {
-          "word": "also",
-          "definition": "肯定内容を追加する副詞",
-          "frequency": 10,
-          "difference": "文中に置かれることが多く、neither のような否定や倒置を含まない。",
-          "example": "I also support the proposal.",
-          "translation": "私もその提案を支持している。"
-        }
-      ]
-    },
-    {
-      "number": 5,
-      "title": "慣用句：be neither here nor there",
-      "frequency": 5,
-      "register": [
-        "中立。会話・議論・文章で使われる。相手の発言を指して用いると、やや突き放した響きになることがある。"
-      ],
-      "definition": "「当面の問題とは関係がない」「重要ではない」「的外れである」。文字どおりの場所を表すのではなく、ある事実・理由・意見が現在の論点や判断に影響しないことを表す。",
-      "patterns": [
-        "[事実・論点] + be + neither here nor there",
-        "用途: その事実が現在の問題には無関係だと述べる",
-        "例: His personal opinion is neither here nor there.",
-        "訳: 彼の個人的な意見は、この問題には関係がない。",
-        "whether節 + be + neither here nor there",
-        "用途: ある事実の真偽が現在の結論に影響しないことを示す",
-        "例: Whether she intended to offend him is neither here nor there.",
-        "訳: 彼女に彼を怒らせる意図があったかどうかは、当面の問題とは関係がない。",
-        "That + be + neither here nor there.",
-        "用途: 直前の発言を「今の論点には無関係だ」と退ける",
-        "例: That may be true, but it is neither here nor there.",
-        "訳: それは事実かもしれないが、今の論点とは関係がない。"
-      ],
-      "collocations": [
-        {
-          "pattern": "be neither here nor there",
-          "use": "論点との関連性や重要性を否定する基本形",
-          "example": "The original price is neither here nor there; what matters is the repair cost.",
-          "translation": "元の価格は今の問題には関係ない。重要なのは修理費だ。"
-        },
-        {
-          "pattern": "that is neither here nor there",
-          "use": "直前に述べられた内容を無関係なものとして扱う",
-          "example": "He may have had good intentions, but that is neither here nor there.",
-          "translation": "彼には善意があったのかもしれないが、それは今の問題とは関係がない。"
-        },
-        {
-          "pattern": "be neither here nor there as far as [issue] is concerned",
-          "use": "どの論点について無関係なのかを明示する",
-          "example": "Her political views are neither here nor there as far as this appointment is concerned.",
-          "translation": "この任命に関する限り、彼女の政治的見解は関係がない。"
-        }
-      ],
-      "notes": [
-        "通常は場所を表す表現ではなく、「relevant ではない」という慣用義で使われる。",
-        "「決めかねている」「中途半端である」という意味ではない。その意味には neither one thing nor the other などを使う。",
-        "人そのものより、事実・理由・意見・事情・金額などを主語にするのが典型的である。",
-        "That’s neither here nor there. は相手の論点を切り捨てる響きを持ち得る。丁寧さが必要なら That may be true, but it doesn’t affect the current issue. などとする。"
-      ],
-      "synonyms": [
-        {
-          "word": "irrelevant",
-          "definition": "現在の論点・目的と関係がない",
-          "frequency": 8,
-          "difference": "最も直接的な一語の形容詞で、neither here nor there より簡潔かつ明示的である。",
-          "example": "His previous salary is irrelevant to the decision.",
-          "translation": "彼の以前の給与は、その決定には関係がない。"
-        },
-        {
-          "word": "beside the point",
-          "definition": "議論の中心的な論点から外れている",
-          "frequency": 7,
-          "difference": "特に議論・反論について「論点を外している」と評価する。",
-          "example": "Whether it was expensive is beside the point.",
-          "translation": "それが高価だったかどうかは論点ではない。"
-        },
-        {
-          "word": "immaterial",
-          "definition": "判断や結果に影響しないため重要でない",
-          "frequency": 5,
-          "difference": "neither here nor there より形式的で、法律・ビジネス・論証でも使われる。",
-          "example": "The minor discrepancy is immaterial to the final result.",
-          "translation": "その小さな不一致は最終結果には影響しない。"
-        },
-        {
-          "word": "inconsequential",
-          "definition": "結果にほとんど影響せず、重要でない",
-          "frequency": 5,
-          "difference": "関連性よりも、影響や重要性が小さいことに焦点を置く。",
-          "example": "The error was inconsequential.",
-          "translation": "その誤りは取るに足りないものだった。"
-        }
-      ],
-      "antonyms": [
-        {
-          "word": "relevant",
-          "definition": "現在の論点・目的に直接関係する",
-          "frequency": 9,
-          "difference": "関連性の軸における直接の反対語である。",
-          "example": "Please provide only the information relevant to the investigation.",
-          "translation": "調査に関係する情報だけを提供してください。"
-        },
-        {
-          "word": "pertinent",
-          "definition": "特定の論点に直接かかわり、適切である",
-          "frequency": 5,
-          "difference": "relevant より形式的で、「今の論点に的確に関係する」という含意が強い。",
-          "example": "She raised several pertinent questions.",
-          "translation": "彼女はいくつかの的を射た質問をした。"
-        },
-        {
-          "word": "material",
-          "definition": "判断・結果に影響するほど重要である",
-          "frequency": 6,
-          "difference": "法律・会計・ビジネスでは、単に関連するだけでなく意思決定に実質的な影響を与えることを表す。",
-          "example": "The omission was material to the court’s decision.",
-          "translation": "その情報の欠落は裁判所の判断に重大な影響を与えた。"
-        }
-      ]
-    },
-    {
-      "number": 6,
-      "title": "慣用句：be neither fish nor fowl",
-      "frequency": 3,
-      "register": [
-        "慣用的で、やや古風または修辞的。米英の両方で理解される。"
-      ],
-      "definition": "「どの部類にも明確に属さない」「どちらともつかない」。人・物・組織・作品などが、想定される二つの分類のどちらにも当てはまらず、分類しにくいことを表す。多くの場合、明確な性格や役割を欠くという否定的評価を伴う。Merriam-Webster",
-      "patterns": [
-        "someone／something + be + neither fish nor fowl",
-        "用途: 人・物が既存の分類のどちらにも属さないことを表す",
-        "例: The organization is neither fish nor fowl.",
-        "訳: その組織はどちらの部類ともつかない。",
-        "make something + neither fish nor fowl",
-        "用途: 変更・妥協によって明確な分類や性格を失わせる",
-        "例: The revisions made the proposal neither fish nor fowl.",
-        "訳: 修正の結果、その提案はどちらともつかないものになった。"
-      ],
-      "collocations": [
-        {
-          "pattern": "be neither fish nor fowl",
-          "use": "分類不能または中途半端な性格を表す基本形",
-          "example": "The film is neither fish nor fowl—not quite a comedy and not serious enough to be a drama.",
-          "translation": "その映画はどちらともつかず、喜劇と言うほどでもなければ、ドラマと呼べるほど深刻でもない。"
-        },
-        {
-          "pattern": "become neither fish nor fowl",
-          "use": "変化の結果、明確な性格を失うことを表す",
-          "example": "After the merger, the service became neither fish nor fowl.",
-          "translation": "合併後、そのサービスはどちらともつかないものになった。"
-        },
-        {
-          "pattern": "leave something neither fish nor fowl",
-          "use": "妥協などによって物事を分類しにくい状態にする",
-          "example": "The compromise left the institution neither fish nor fowl.",
-          "translation": "その妥協により、制度はどちらともつかないものになった。"
-        }
-      ],
-      "notes": [
-        "fish と fowl を文字どおり比較するのではなく、異なる分類の象徴として使う。",
-        "分類できないという中立的事実より、「明確な目的・特徴がない」という批判を含むことが多い。",
-        "人について使うと、その人の所属・性質を否定的に評価する響きが出る場合がある。"
-      ],
-      "synonyms": [
-        {
-          "word": "neither one thing nor the other",
-          "definition": "二つの性質・分類のどちらにも明確に当てはまらない",
-          "frequency": 4,
-          "difference": "意味は非常に近いが、fish nor fowl の比喩を使わないため、より直接的である。",
-          "example": "The new format is neither one thing nor the other.",
-          "translation": "新しい形式はどちらともつかない。"
-        },
-        {
-          "word": "in-between",
-          "definition": "二つの状態・段階・種類の中間にある",
-          "frequency": 7,
-          "difference": "中間的位置を比較的中立に表し、分類不能への批判を必ずしも含まない。",
-          "example": "The color is somewhere in-between.",
-          "translation": "その色は両者の中間くらいだ。"
-        },
-        {
-          "word": "hybrid",
-          "definition": "異なる二種類の特徴を組み合わせたもの",
-          "frequency": 7,
-          "difference": "混合を肯定的・中立的に表すことが多く、「中途半端」という含意は必須ではない。",
-          "example": "The course uses a hybrid teaching model.",
-          "translation": "その講座は複合型の教育モデルを採用している。"
-        }
-      ],
-      "antonyms": [
-        {
-          "word": "well-defined",
-          "definition": "性質・範囲・目的が明確に定められている",
-          "frequency": 7,
-          "difference": "分類や役割の曖昧さという軸で反対をなす。",
-          "example": "Each department has a well-defined role.",
-          "translation": "各部門には明確に定められた役割がある。"
-        },
-        {
-          "word": "clear-cut",
-          "definition": "境界・性質・判断が明確である",
-          "frequency": 6,
-          "difference": "二つ以上の分類を容易に区別できることを表す。",
-          "example": "The distinction is clear-cut.",
-          "translation": "その区別は明確だ。"
-        }
-      ]
-    },
-    {
-      "number": 7,
-      "title": "慣用句：be neither one thing nor the other",
-      "frequency": 4,
-      "register": [
-        "中立～くだけた表現。特にイギリス英語で比較的よく使われるが、他地域でも理解される。"
-      ],
-      "definition": "「どちらともつかない」「中途半端である」「二つの分類のどちらにも明確に属さない」。物・作品・制度・状況などが二つの性質の中間にあり、明確な特徴や方向性を欠くという、しばしば否定的な評価を含む。",
-      "patterns": [
-        "something + be + neither one thing nor the other",
-        "用途: 物事が二つの分類のどちらにも明確に属さないことを表す",
-        "例: The film is neither one thing nor the other.",
-        "訳: その映画はどちらともつかない中途半端な作品だ。",
-        "end up + neither one thing nor the other",
-        "用途: 変更や妥協の結果、明確な性格を失うことを表す",
-        "例: After repeated revisions, the policy ended up neither one thing nor the other.",
-        "訳: 度重なる修正の結果、その方針はどちらともつかないものになった。",
-        "make something + neither one thing nor the other",
-        "用途: 変更によって物事を中途半端な状態にする",
-        "例: The redesign made the product neither one thing nor the other.",
-        "訳: その再設計によって、製品はどちらともつかないものになった。"
-      ],
-      "collocations": [
-        {
-          "pattern": "be neither one thing nor the other",
-          "use": "分類・目的・性質が曖昧であることを批判的に述べる",
-          "example": "The restaurant is neither one thing nor the other—too formal for a café but too casual for fine dining.",
-          "translation": "その店はどちらともつかない。カフェにしては堅苦しすぎ、高級レストランにしてはくだけすぎている。"
-        },
-        {
-          "pattern": "leave something neither one thing nor the other",
-          "use": "変更・妥協によって明確な特徴を失わせる",
-          "example": "The compromise left the proposal neither one thing nor the other.",
-          "translation": "その妥協によって、提案はどちらともつかないものになった。"
-        },
-        {
-          "pattern": "seem neither one thing nor the other",
-          "use": "外見・印象・性格が明確に分類できないと述べる",
-          "example": "The new format seems neither one thing nor the other.",
-          "translation": "新しい形式は、どちらともつかないように見える。"
-        }
-      ],
-      "notes": [
-        "単なる中立的な「中間」を表す場合もあるが、典型的には「明確な目的や個性がなく、中途半端だ」という否定的評価を伴う。",
-        "人に使うと、その人の帰属や性質を否定的に評価する響きが出る場合があるため注意する。",
-        "be neither here nor there は「論点に無関係」、be neither one thing nor the other は「分類・性格が曖昧」であり、意味が異なる。",
-        "neither fish nor fowl はほぼ同じ意味を持つが、より比喩的で、やや古風である。"
-      ],
-      "synonyms": [
-        {
-          "word": "neither fish nor fowl",
-          "definition": "二つの既知の種類のどちらにも属さず、分類しにくい",
-          "frequency": 3,
-          "difference": "比喩的な定型句で、neither one thing nor the other より印象的だが、やや古風に感じられることがある。",
-          "example": "The organization is neither fish nor fowl: it is partly public and partly private.",
-          "translation": "その組織はどちらともつかず、一部は公共、一部は民間である。"
-        },
-        {
-          "word": "in-between",
-          "definition": "二つの状態・段階・種類の中間にある",
-          "frequency": 7,
-          "difference": "中間的位置を比較的中立に表し、必ずしも批判的評価を含まない。",
-          "example": "The color is somewhere in-between.",
-          "translation": "その色は両者の中間くらいだ。"
-        },
-        {
-          "word": "indeterminate",
-          "definition": "性質・範囲・結果などが明確に定まっていない",
-          "frequency": 5,
-          "difference": "より形式的で、分類上の中途半端さだけでなく、測定・結果・状態の不確定性にも使う。",
-          "example": "The cause remains indeterminate.",
-          "translation": "原因は依然として特定されていない。"
-        }
-      ],
-      "antonyms": [
-        {
-          "word": "clear-cut",
-          "definition": "境界・性質・判断が明確である",
-          "frequency": 6,
-          "difference": "曖昧さの軸における反対語で、分類や判断に迷いがないことを表す。",
-          "example": "The distinction is not as clear-cut as it appears.",
-          "translation": "その区別は見かけほど明確ではない。"
-        },
-        {
-          "word": "well-defined",
-          "definition": "性質・範囲・目的が明確に定められている",
-          "frequency": 7,
-          "difference": "neither one thing nor the other が性格の不明確さを表すのに対し、境界や機能の明確さを表す。",
-          "example": "Each department has a well-defined role.",
-          "translation": "各部門には明確に定められた役割がある。"
-        },
-        {
-          "word": "unambiguous",
-          "definition": "解釈が一つに定まり、曖昧さがない",
-          "frequency": 6,
-          "difference": "主に言葉・指示・証拠・意味について、複数の解釈が生じないことを表す。",
-          "example": "The instructions must be unambiguous.",
-          "translation": "指示は曖昧さのないものでなければならない。"
-        }
-      ]
-    },
-    {
-      "number": 8,
-      "title": "慣用句：neither rhyme nor reason",
-      "frequency": 3,
-      "register": [
-        "慣用的で、やや古風または修辞的。会話・評論・文学的文章で使われる。"
-      ],
-      "definition": "「道理も理由もない」「何の筋道もない」。行動・決定・配置などに理解可能な原則、説明、規則性が見当たらないことを表す。現代では no rhyme or reason の形の方が一般的だが、neither rhyme nor reason も使われる。",
-      "patterns": [
-        "there is neither rhyme nor reason to something",
-        "用途: 行動・制度・配置などに筋道がないと述べる",
-        "例: There is neither rhyme nor reason to the filing system.",
-        "訳: そのファイリング方式には何の筋道もない。",
-        "with neither rhyme nor reason",
-        "用途: 理解可能な理由や規則性なしに何かが行われることを表す",
-        "例: The items appear to have been arranged with neither rhyme nor reason.",
-        "訳: それらの品物は何の規則性もなく並べられたように見える。"
-      ],
-      "collocations": [
-        {
-          "pattern": "there is neither rhyme nor reason to something",
-          "use": "仕組み・行動などが非論理的であることを強調する",
-          "example": "There is neither rhyme nor reason to the way the fees are calculated.",
-          "translation": "その料金の計算方法には何の道理もない。"
-        },
-        {
-          "pattern": "neither rhyme nor reason behind something",
-          "use": "決定や現象の背後に理解可能な根拠がないことを表す",
-          "example": "There seems to be neither rhyme nor reason behind these changes.",
-          "translation": "これらの変更の背後には、何の筋道も理由もないように見える。"
-        },
-        {
-          "pattern": "with neither rhyme nor reason",
-          "use": "規則性を欠いた状態を表す",
-          "example": "The dates were entered with neither rhyme nor reason.",
-          "translation": "日付は何の規則性もなく入力されていた。"
-        }
-      ],
-      "notes": [
-        "rhyme はここでは文字どおりの「韻」ではなく、reason と組み合わさって「秩序・筋道」を表す。",
-        "現代のより一般的な形は There’s no rhyme or reason to it. である。neither を使う形は理解する価値があるが、日常的な第一選択とは限らない。",
-        "通常、理由が客観的に一つも存在しないと証明するのではなく、「話し手には合理的な原則が見いだせない」という評価を表す。"
-      ],
-      "synonyms": [
-        {
-          "word": "no rhyme or reason",
-          "definition": "理解可能な根拠や規則性が全くないことを表す定型句",
-          "frequency": 6,
-          "difference": "現代英語では neither rhyme nor reason より一般的な形である。",
-          "example": "There is no rhyme or reason to the schedule.",
-          "translation": "その日程には何の筋道もない。"
-        },
-        {
-          "word": "arbitrary",
-          "definition": "一貫した原則や十分な理由に基づかず決められた",
-          "frequency": 7,
-          "difference": "特に選択・規則・権力行使が根拠を欠くことを一語で表す。",
-          "example": "The cutoff date seems arbitrary.",
-          "translation": "その締切日の設定は恣意的に思える。"
-        },
-        {
-          "word": "senseless",
-          "definition": "意味・目的・合理性がない",
-          "frequency": 7,
-          "difference": "neither rhyme nor reason より強い否定的評価を持ち、行為や暴力などを非難するときにも使う。",
-          "example": "The attack was completely senseless.",
-          "translation": "その攻撃は全く無意味なものだった。"
-        }
-      ],
-      "antonyms": [
-        {
-          "word": "logical",
-          "definition": "明確な推論・原則に従っている",
-          "frequency": 9,
-          "difference": "合理的な筋道の有無という軸で反対をなす。",
-          "example": "Her conclusion is logical.",
-          "translation": "彼女の結論は論理的だ。"
-        },
-        {
-          "word": "well-founded",
-          "definition": "十分な事実・理由・証拠に基づいている",
-          "frequency": 5,
-          "difference": "単に筋道があるだけでなく、判断の根拠が確かであることを表す。",
-          "example": "Their concerns are well-founded.",
-          "translation": "彼らの懸念には十分な根拠がある。"
-        },
-        {
-          "word": "systematic",
-          "definition": "一定の方法・秩序・体系に従っている",
-          "frequency": 7,
-          "difference": "規則性の欠如に対立し、計画的で一貫した手順を強調する。",
-          "example": "We need a more systematic approach.",
-          "translation": "私たちには、より体系的な取り組み方が必要だ。"
-        }
-      ]
-    },
-    {
-      "number": 9,
-      "title": "慣用句・低頻度：neither hide nor hair of someone／something",
-      "frequency": 2,
-      "register": [
-        "くだけた慣用表現で、やや古風。物語・回想・強調的な会話で遭遇する。"
-      ],
-      "definition": "「人の姿も痕跡も全く見えない」「物の痕跡が全く見つからない」。hide「皮」と hair「毛」を組み合わせ、存在を示すものが何一つ見つからないことを強調する。現代では not see hide nor hair of someone の形の方が一般的で、neither hide nor hair は低頻度である。",
-      "patterns": [
-        "see neither hide nor hair of someone",
-        "用途: ある人の姿を全く見かけないことを表す",
-        "例: We saw neither hide nor hair of him all weekend.",
-        "訳: 週末中、私たちは彼の姿を全く見なかった。",
-        "find neither hide nor hair of someone／something",
-        "用途: 捜しても人・動物・物の痕跡が見つからないことを表す",
-        "例: The search party found neither hide nor hair of the missing dog.",
-        "訳: 捜索隊は、行方不明の犬の痕跡を全く見つけられなかった。"
-      ],
-      "collocations": [
-        {
-          "pattern": "see neither hide nor hair of someone",
-          "use": "人の姿を長期間まったく見ないことを強調する",
-          "example": "Since he moved away, we have seen neither hide nor hair of him.",
-          "translation": "彼が引っ越して以来、私たちは彼の姿を全く見ていない。"
-        },
-        {
-          "pattern": "find neither hide nor hair of something",
-          "use": "探しているものの痕跡すら見つからないことを表す",
-          "example": "Investigators found neither hide nor hair of the missing records.",
-          "translation": "捜査担当者は、紛失した記録の痕跡を全く見つけられなかった。"
-        }
-      ],
-      "notes": [
-        "hide はこの表現では動詞「隠す」ではなく、名詞「動物の皮」である。",
-        "現代では We haven’t seen hide nor hair of him. のように、neither を使わず否定文と nor を組み合わせる形が比較的一般的である。",
-        "非常に慣用的な誇張表現であり、形式的な報告では no sign of、no trace of などを使う。"
-      ],
-      "synonyms": [
-        {
-          "word": "no sign of",
-          "definition": "人・物・変化などが存在する兆候が全く見られない",
-          "frequency": 9,
-          "difference": "中立で最も幅広く使え、neither hide nor hair の古風・比喩的な響きを持たない。",
-          "example": "There was no sign of the missing hiker.",
-          "translation": "行方不明の登山者の形跡はなかった。"
-        },
-        {
-          "word": "no trace of",
-          "definition": "探しても物理的・抽象的な痕跡が見つからない",
-          "frequency": 8,
-          "difference": "捜索・科学調査・犯罪捜査などにも使える、より形式的で具体的な表現である。",
-          "example": "The police found no trace of the stolen vehicle.",
-          "translation": "警察は盗難車の痕跡を発見できなかった。"
-        },
-        {
-          "word": "nowhere to be seen",
-          "definition": "いる、またはあるはずの人・物がどこにも見当たらない",
-          "frequency": 7,
-          "difference": "視覚的に見つからないことを中心に表し、痕跡一般の不在までは必ずしも意味しない。",
-          "example": "The manager was nowhere to be seen.",
-          "translation": "管理職の姿はどこにも見当たらなかった。"
+          "difference": "くだけた表現で、肯定・否定の両方に使える。助動詞や時制を選ぶ必要はないが、何に同意するかは文脈に依存する。",
+          "example": "“I haven’t slept well this week.” “Same here.”",
+          "translation": "「今週はよく眠れていません」「私もです」"
         }
       ],
       "antonyms": []
     },
     {
-      "number": 10,
-      "title": "慣用句・低頻度：be neither more nor less than something",
-      "frequency": 2,
+      "number": 5,
+      "title": "【慣用句：be neither here nor there】当面の問題には関係がない",
+      "frequency": 6,
       "register": [
-        "形式的・古風・文学的・修辞的。現代の日常会話では simply、exactly、nothing more or less than などが選ばれやすい。"
+        "会話・一般的な文章。相手の話を退ける響きになることがある。"
       ],
-      "definition": "「まさに～にほかならない」「単に～である」。他の説明や評価を排除し、ある人物・物・行為の本質を後続の名詞句として強く断定する。文字どおり「それ以上でもそれ以下でもない」という含意から生じた表現である。",
+      "definition": "ある事情・意見・金額などが、現在の論点や判断に関係しない、または重要ではないと述べる。「それは今の問題には関係ない」「それは問題ではない」など。文字どおりの場所の説明ではない。",
       "patterns": [
-        "be + neither more nor less than + 名詞句",
-        "用途: 主語の正体・本質を後続名詞句として断定する",
-        "例: His refusal was neither more nor less than an admission of guilt.",
-        "訳: 彼の拒否は、まさに罪を認めたも同然だった。",
-        "call something + neither more nor less than + 名詞句",
-        "用途: ある行為・事態を強い評価語で分類する",
-        "例: She called the decision neither more nor less than a betrayal.",
-        "訳: 彼女はその決定を、まさに裏切りだと評した。"
+        "〈事情・事実〉 + be neither here nor there＝現在の問題に関係しない",
+        "whether + 〈節〉 + be neither here nor there＝真偽のどちらでも結論に影響しない",
+        "That’s neither here nor there.＝直前の論点を退ける。"
       ],
       "collocations": [
         {
-          "pattern": "be neither more nor less than something",
-          "use": "物事の本質を強調して断定する",
-          "example": "The scheme was neither more nor less than an attempt to avoid scrutiny.",
-          "translation": "その計画は、まさに監視を逃れようとする試みにほかならなかった。"
+          "pattern": "be neither here nor there",
+          "use": "判断に関係しない情報を区別する。",
+          "example": "The original price is neither here nor there; what matters is the repair cost.",
+          "translation": "元の価格は今の問題には関係ありません。重要なのは修理費です。"
         },
         {
-          "pattern": "be neither more nor less than the truth",
-          "use": "発言内容が誇張のない真実そのものだと強調する",
-          "example": "What she told us was neither more nor less than the truth.",
-          "translation": "彼女が私たちに話したことは、まさに真実そのものだった。"
-        },
-        {
-          "pattern": "be neither more nor less than a miracle",
-          "use": "出来事を「奇跡と呼ぶほかない」と強く評価する",
-          "example": "Their survival was neither more nor less than a miracle.",
-          "translation": "彼らが生き延びたことは、まさに奇跡にほかならなかった。"
+          "pattern": "whether 〈節〉 + be neither here nor there",
+          "use": "ある事情の真偽が、現在の判断を左右しないと述べる。",
+          "example": "Whether he meant well is neither here nor there; the damage still needs to be repaired.",
+          "translation": "彼が善意で行ったかどうかは関係ありません。いずれにしても損害は修復しなければなりません。"
         }
       ],
       "notes": [
-        "定型的な慣用義は、単なる数量の正確さより「単に～」「まさに～にほかならない」という断定である。",
-        "中立的に正確な数量を述べるなら exactly、no more and no less than などの方が分かりやすい。",
-        "neither more nor less than a miracle のような文では、「奇跡より多くも少なくもない」と逐語訳せず、「まさに奇跡だ」と解釈する。",
-        "現代英語では nothing more nor less than、nothing more or less than などの異形も見られる。"
+        "「どちらともつかない」「中途半端」という分類の曖昧さは、語義6の neither one thing nor the other で表す。この慣用句では、二つの場所の中間にいるという意味を無理に作らない。",
+        "That’s neither here nor there. は、相手の意見を重要でないと切り捨てる響きを持ち得る。意見自体に価値がないという意味とは限らず、あくまで今の論点との関係を述べる。"
       ],
       "synonyms": [
         {
-          "word": "simply",
-          "definition": "複雑な説明を排除し、「単に」「要するに」と本質を示す",
-          "frequency": 10,
-          "difference": "最も一般的で簡潔。neither more nor less than の古風・修辞的な強調を持たない。",
-          "example": "The claim is simply untrue.",
-          "translation": "その主張は単に事実ではない。"
+          "word": "irrelevant",
+          "definition": "現在の問題・議論と関係がない。",
+          "frequency": 8,
+          "difference": "関連性の欠如を直接述べる中立的な形容詞。neither here nor there は慣用的で会話的な響きもある。",
+          "example": "Her age is irrelevant to the decision.",
+          "translation": "彼女の年齢は、その決定には関係ありません。"
         },
         {
-          "word": "nothing other than",
-          "definition": "他の解釈を排除して「～にほかならない」と表す",
-          "frequency": 5,
-          "difference": "現代でも比較的使いやすく、正体・評価を強く断定する点で意味が近い。",
-          "example": "The claim is nothing other than speculation.",
-          "translation": "その主張は単なる憶測にほかならない。"
+          "word": "beside the point",
+          "definition": "今問題にしている論点から外れている。",
+          "frequency": 7,
+          "difference": "特に発言・議論が中心の論点を捉えていないことを指す。",
+          "example": "That observation is beside the point.",
+          "translation": "その指摘は、今の論点から外れています。"
         },
         {
-          "word": "nothing less than",
-          "definition": "「まさに～」「～と呼ぶに値する」と強く評価する",
+          "word": "immaterial",
+          "definition": "当面の判断・結論に影響しない。",
           "frequency": 6,
-          "difference": "驚き・称賛・非難など評価の強さを前面に出しやすい。数量では「少なくとも」の意味になる場合もある。",
-          "example": "Her recovery was nothing less than remarkable.",
-          "translation": "彼女の回復は、まさに驚くべきものだった。"
+          "difference": "より改まった表現で、判断を左右しない点を強調する。",
+          "example": "The precise date is immaterial to our argument.",
+          "translation": "正確な日付は、私たちの議論には影響しません。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "relevant",
+          "definition": "当面の問題や判断に関係する。",
+          "frequency": 9,
+          "difference": "関連性がないことに対する、関連性があるという同一軸の反対。",
+          "example": "This information is directly relevant to the decision.",
+          "translation": "この情報は、その決定に直接関係します。"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "【慣用句：neither one thing nor the other／neither fish nor fowl】どちらともつかない",
+      "frequency": 5,
+      "register": [
+        "一般的な会話・批評。neither fish nor fowl はより比喩的で、使用頻度も低め。"
+      ],
+      "definition": "二つの性質・分類のどちらにも明確に当てはまらず、性格や方向性が曖昧だと述べる。両方の特徴を一部ずつ持つこともある。特に neither one thing nor the other には「中途半端だ」という不満が伴いやすいが、単に分類しにくいことを述べる場合もある。",
+      "patterns": [
+        "something + be/seem neither one thing nor the other＝性格がどちらともつかない",
+        "leave something neither one thing nor the other＝中途半端な状態にする",
+        "something + be neither fish nor fowl＝二つの分類のどちらにも収まらない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "be neither one thing nor the other",
+          "use": "二つの用途・性格のどちらにも合わないと評する。",
+          "example": "The restaurant is neither one thing nor the other: too formal for a café but too casual for fine dining.",
+          "translation": "その店はどちらともつきません。カフェにしては堅苦しすぎ、高級レストランにしてはくだけすぎています。"
+        },
+        {
+          "pattern": "leave something neither one thing nor the other",
+          "use": "妥協などの結果、方針や性格が不明確になったと述べる。",
+          "example": "The compromise left the proposal neither one thing nor the other.",
+          "translation": "その妥協によって、提案はどちらともつかないものになりました。"
+        },
+        {
+          "pattern": "be neither fish nor fowl",
+          "use": "既存の分類に収まらない作品などを比喩的に評する。",
+          "example": "The film is neither fish nor fowl: not quite a comedy and not serious enough to be a drama.",
+          "translation": "その映画はどちらともつかず、喜劇と言うほどでもなければ、ドラマと呼べるほど深刻でもありません。"
+        }
+      ],
+      "notes": [
+        "fish と fowl はここでは文字どおりの動物の分類ではなく、対立する種類を表す比喩。人に使うと、所属や性格を否定的に評する響きが出ることがある。",
+        "語義5の neither here nor there は「当面の問題に関係がない」。この語義の「分類が曖昧」と混同しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "in-between",
+          "definition": "二つの種類・状態の中間にある。",
+          "frequency": 6,
+          "difference": "中間的位置を比較的中立に表せる。neither one thing nor the other は、明確さを欠くという不満を伴いやすい。",
+          "example": "The jacket is an odd in-between colour, somewhere between green and grey.",
+          "translation": "その上着は、緑と灰色の中間のような変わった色です。"
+        },
+        {
+          "word": "unclassifiable",
+          "definition": "既存の分類に当てはめられない。",
+          "frequency": 4,
+          "difference": "分類不能を直接述べ、必ずしも二種類の中間とは限らない。また中途半端という否定的評価も必須ではない。",
+          "example": "Her music is wonderfully unclassifiable.",
+          "translation": "彼女の音楽は、既存の分類に収まらないすばらしさがあります。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【慣用句：neither rhyme nor reason】筋道も道理もない",
+      "frequency": 3,
+      "register": [
+        "慣用的。no rhyme or reason という形もよく使う。"
+      ],
+      "definition": "行動・決定・配置などに、理解できる規則性や合理的な説明が見いだせないと述べる。「何の筋道もない」「どういう理屈なのか分からない」など。話者から見た評価であり、客観的に原因が存在しないことを証明する表現ではない。",
+      "patterns": [
+        "there is neither rhyme nor reason to something＝仕組みや行動に筋道がない",
+        "with neither rhyme nor reason＝筋道も理由もなく行う。"
+      ],
+      "collocations": [
+        {
+          "pattern": "there is neither rhyme nor reason to something",
+          "use": "決め方や仕組みに合理的な原則が見えないと述べる。",
+          "example": "There is neither rhyme nor reason to the way the fees are calculated.",
+          "translation": "その料金の計算方法には、筋の通った理屈が見当たりません。"
+        },
+        {
+          "pattern": "with neither rhyme nor reason",
+          "use": "配置や行動に規則性がないと評する。",
+          "example": "The files seem to have been arranged with neither rhyme nor reason.",
+          "translation": "ファイルは、何の規則性もなく並べられたようです。"
+        }
+      ],
+      "notes": [
+        "rhyme は通常「韻」だが、この定型句を「韻が踏まれていない」と解釈しない。rhyme と reason を対にして、秩序も道理もないことを強調する。"
+      ],
+      "synonyms": [
+        {
+          "word": "no rhyme or reason",
+          "definition": "理解できる筋道・理由がないことを表す定型句。",
+          "frequency": 6,
+          "difference": "中心的な意味は同じ。neither を使わないこの形も、日常的な第一選択として使える。",
+          "example": "There’s no rhyme or reason to his schedule.",
+          "translation": "彼の予定には、どういう決まりがあるのか分かりません。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【慣用句：neither hide nor hair】姿も痕跡も全く見えない",
+      "frequency": 3,
+      "register": [
+        "くだけた比喩・物語的な文章。neither を使う形は低頻度。"
+      ],
+      "definition": "人・動物の姿や、物の存在を示す痕跡を全く見つけられないことを強調する。通常は see や find の目的語として用い、「影も形も見当たらない」などと訳す。",
+      "patterns": [
+        "see neither hide nor hair of someone＝人の姿を全く見かけない",
+        "find neither hide nor hair of someone/something＝姿・痕跡を全く発見できない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "see neither hide nor hair of someone",
+          "use": "ある期間、人の姿を全く見かけなかったと強調する。",
+          "example": "We saw neither hide nor hair of him all weekend.",
+          "translation": "週末中、彼の姿は全く見かけませんでした。"
+        },
+        {
+          "pattern": "find neither hide nor hair of something",
+          "use": "捜しても姿や痕跡が見つからないと述べる。",
+          "example": "We found neither hide nor hair of the missing dog.",
+          "translation": "行方不明の犬は、影も形も見つかりませんでした。"
+        }
+      ],
+      "notes": [
+        "hide は動詞「隠す」ではなく名詞「皮」。皮も毛も見えないという組み合わせで、存在を示すものが全く見当たらないことを表す。",
+        "We haven’t seen hide nor hair of him. のように、neither を使わず、否定文で hide nor hair を目的語にする形もよく使う。この定型的な nor は、一般の語の組み合わせへ無制限に広げるものではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "no trace of",
+          "definition": "存在・活動を示す痕跡がない。",
+          "frequency": 7,
+          "difference": "より中立的で、捜索や調査の文章にも使える。neither hide nor hair は比喩的で強調がある。",
+          "example": "We found no trace of the missing papers.",
+          "translation": "紛失した書類の痕跡は見つかりませんでした。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 9,
+      "title": "【慣用句：neither more nor less】それ以上でも以下でもない、まさに～だ",
+      "frequency": 4,
+      "register": [
+        "やや改まった、強調的な表現。"
+      ],
+      "definition": "示した量・程度・説明がちょうど当てはまり、それより多くも少なくもないと強調する。neither more nor less than a betrayal なら「まさに裏切りにほかならない」のように、本質や評価の断定にもなる。",
+      "patterns": [
+        "〈数量・説明〉, neither more nor less＝それ以上でも以下でもない",
+        "be neither more nor less than 〈名詞句〉＝まさにそのものだ、単にそれにすぎない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "neither more nor less",
+          "use": "数量が正確であることを強調する。",
+          "example": "The fee is fifty dollars, neither more nor less.",
+          "translation": "料金は50ドルで、それ以上でもそれ以下でもありません。"
+        },
+        {
+          "pattern": "be neither more nor less than 〈名詞句〉",
+          "use": "行為の本質を強い評価語で断定する。",
+          "example": "The scheme was neither more nor less than an attempt to avoid scrutiny.",
+          "translation": "その計画は、まさに監視を逃れようとする試みにほかなりませんでした。"
+        }
+      ],
+      "notes": [
+        "than を伴う比喩的な評価だけに限定しない。数量についての「ちょうどその量」も使える。than の後ろの内容によって、「単に～にすぎない」と控えめに述べる場合も、「まさに～だ」と強く評価する場合もある。"
+      ],
+      "synonyms": [
+        {
+          "word": "exactly",
+          "definition": "数量・内容が示したものとぴったり一致することを表す副詞。",
+          "frequency": 9,
+          "difference": "数量にも分類にも幅広く使える、より簡潔で中立的な表現。neither more nor less は過大・過小の両方を排除して強調する。",
+          "example": "That is exactly what we need.",
+          "translation": "それはまさに私たちが必要としているものです。"
+        },
+        {
+          "word": "nothing more than",
+          "definition": "示したものを超える価値・意味はなく、単にそれにすぎないと述べる表現。",
+          "frequency": 8,
+          "difference": "過大評価を否定する方向に重点がある。neither more nor less は、それより少なくもないことまで含める。",
+          "example": "It was nothing more than a misunderstanding.",
+          "translation": "それは単なる誤解にすぎませんでした。"
         }
       ],
       "antonyms": []
