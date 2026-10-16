@@ -1,0 +1,288 @@
+{
+  "word": "troubleshoot",
+  "slug": "troubleshoot",
+  "ipa": "米・英: /ˈtrʌb.əlˌʃuːt/。3音節で、第1音節に主強勢、第3音節に第二強勢がある。第1音節の母音は /ʌ/、第3音節は長い /uː/。過去形・過去分詞 troubleshot は米 /ˈtrʌb.əlˌʃɑːt/、英 /ˈtrʌb.əlˌʃɒt/ で、第3音節の母音が米 /ɑː/、英 /ɒ/ と異なる。",
+  "lead": "問題がなぜ起きるかを調べ、原因を切り分けたり改善策を試したりする。目的語には problem、issue、error のような問題そのものと、printer、network、system のような調査する機器・仕組みの両方を取る。解決を目指す行為だが、troubleshoot したというだけで完全に直ったことまでは保証しない。",
+  "updated": "2026-10-16",
+  "notion_url": "https://app.notion.com/p/troubleshoot-3fb4faa9b77d81ddbf74cb94c4603468",
+  "pronunciation": [],
+  "etymology": [
+    "troubleshooter「問題の原因を突き止めて対処する人」から、行為を表す動詞として作られた逆成語。trouble「困ったこと」と shooter の形が見えるが、実際に何かを射撃する行為ではない。同じ trouble を含む troublemaker「問題を起こす人」、troublesome「厄介な」は関連する語形成だが、問題を解決する troubleshoot とは役割が違う。"
+  ],
+  "formation": [
+    {
+      "term": "troubleshot",
+      "description": "基本として覚えたい過去形・過去分詞。現在形 troubleshoot の shoot が shot に変わる。troubleshooted も併記する辞書はあるが、学習用には troubleshot を使うとよい。"
+    },
+    {
+      "term": "troubleshooting",
+      "description": "現在分詞、および「原因調査・問題解決作業」を表す不可算名詞。名詞は語義3で扱う。"
+    },
+    {
+      "term": "troubleshooter",
+      "description": "可算名詞。難しい問題を調べて解決に当たる人、または問題解決を支援するプログラム。人については技術担当者にも組織の問題を処理する担当者にも使う。"
+    },
+    {
+      "term": "troubleshoots",
+      "description": "三人称単数現在形。語末は /ts/。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "うまく機能していない理由を調べ、改善・解決に向けて対処すること。調べる対象を目的語で明示する形、担当者の活動として述べる形、作業全体を名詞で捉える形がある。"
+    },
+    {
+      "type": "item",
+      "text": "原因を調べ対処する対象の明示 → 「問題・機器の不具合を調べて対処する」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "原因を調べ対処する活動の提示 → 「原因調査・問題解決に当たる」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "原因を調べ対処する作業の名詞化 → 「不具合の原因調査・問題解決作業」（語義3）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞】問題・機器の不具合を調べて対処する",
+      "frequency": 6,
+      "register": [
+        "IT・機械・技術支援・業務改善。組織運営などの問題にも使うが、日常のあらゆる困り事を無条件に置き換える語ではない。"
+      ],
+      "definition": "問題がなぜ起きるかを調べ、原因を切り分けたり改善策を試したりする。目的語には problem、issue、error のような問題そのものと、printer、network、system のような調査する機器・仕組みの両方を取る。解決を目指す行為だが、troubleshoot したというだけで完全に直ったことまでは保証しない。",
+      "patterns": [
+        "troubleshoot 〈問題・機器〉",
+        "help someone troubleshoot 〈問題〉",
+        "troubleshoot 〈問題〉 by doing",
+        "troubleshoot 〈機器〉 remotely",
+        "〈問題・機器〉 + be troubleshot",
+        "learn how to troubleshoot 〈問題・機器〉。"
+      ],
+      "collocations": [
+        {
+          "pattern": "troubleshoot a problem",
+          "use": "問題の原因を調べ、解決に向けて作業する。",
+          "example": "The support team is troubleshooting a problem with the booking system.",
+          "translation": "サポートチームは、予約システムの問題の原因を調べて対処しています。"
+        },
+        {
+          "pattern": "troubleshoot 〈機器〉",
+          "use": "不調がある機器そのものを調査対象にする。",
+          "example": "This guide explains how to troubleshoot your printer.",
+          "translation": "このガイドは、プリンターの不具合の原因を調べて対処する方法を説明しています。"
+        },
+        {
+          "pattern": "help someone troubleshoot 〈問題〉",
+          "use": "他の人が行う原因調査や対処を支援する。",
+          "example": "An engineer helped us troubleshoot the intermittent connection issue.",
+          "translation": "技術者が、断続的に接続が切れる問題の原因調査と対処を手伝ってくれました。"
+        },
+        {
+          "pattern": "troubleshoot 〈問題〉 by doing",
+          "use": "原因を絞るために行う具体的な調査方法を示す。",
+          "example": "We troubleshot the login issue by comparing the logs from two accounts.",
+          "translation": "二つのアカウントのログを比較し、ログインの問題の原因を調べました。"
+        },
+        {
+          "pattern": "troubleshoot 〈機器〉 remotely",
+          "use": "現場に行かず、遠隔で調査・対処することを示す。",
+          "example": "The technician troubleshot the control unit remotely but could not restore service.",
+          "translation": "技術者は制御装置を遠隔で調べて対処しましたが、サービスを復旧できませんでした。"
+        },
+        {
+          "pattern": "〈問題〉 + be troubleshot（troubleshoot の受動形）",
+          "use": "調査対象を主語にして、担当者や対応方法を述べる。",
+          "example": "The recurring error was troubleshot by a specialist from the vendor.",
+          "translation": "繰り返し発生するエラーは、販売元の専門担当者が原因を調べて対処しました。"
+        }
+      ],
+      "notes": [
+        "troubleshoot the network は「ネットワークの不具合を調べる」、troubleshoot a network problem は「ネットワークに関する問題を調べる」。目的語の種類は違うが、正常に機能しない原因を調べて対処する中心義は同じ。troubleshoot about the problem ではなく troubleshoot the problem と直接目的語を置く。通常は人自身を対象にした troubleshoot someone とはせず、help someone troubleshoot a problem とする。受動態は可能で、be troubleshot が基本形。We troubleshot the issue, but it still occurs. は矛盾せず、調査・対処の実施と解決の成功を区別している。fix や resolve は修復・解決という結果をより直接的に表す。troubleshoot は一語の動詞で、trouble と shoot の間に目的語を挟まない。"
+      ],
+      "synonyms": [
+        {
+          "word": "diagnose",
+          "definition": "症状や証拠を調べて、問題の性質や原因を特定する。",
+          "frequency": 7,
+          "difference": "原因・問題の特定に焦点がある。troubleshoot は特定のための調査に加え、対処や改善策を試す作業も含み得る。",
+          "example": "The engineer diagnosed the fault as a damaged cable.",
+          "translation": "技術者は、不具合の原因をケーブルの損傷と特定しました。"
+        },
+        {
+          "word": "debug",
+          "definition": "プログラムやシステムの誤りを見つけて取り除く。",
+          "frequency": 6,
+          "difference": "主にソフトウェアのバグの発見・修正を指す。troubleshoot は通信設定、機械、運用上の問題にも広く使う。",
+          "example": "The developer spent the afternoon debugging the payment module.",
+          "translation": "開発者は午後いっぱい、決済モジュールのバグの発見と修正に取り組みました。"
+        },
+        {
+          "word": "fix",
+          "definition": "壊れた物やうまくいっていない状態を直す。",
+          "frequency": 9,
+          "difference": "直す結果に焦点があり、原因調査の過程を明示しない。troubleshoot より一般的・口語的。",
+          "example": "Replacing the adapter fixed the problem.",
+          "translation": "アダプターを交換したら、問題が解消しました。"
+        },
+        {
+          "word": "resolve",
+          "definition": "問題や難しい状況を解決する。",
+          "frequency": 8,
+          "difference": "問題が解消した結果を表すのに向く。機器そのものを目的語にした resolve the printer は通常使わない。",
+          "example": "The team resolved the scheduling conflict before the event.",
+          "translation": "チームはイベント前に日程の重複を解消しました。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【動詞・自動詞】原因調査・問題解決に当たる",
+      "frequency": 5,
+      "register": [
+        "技術支援・職務説明・業務上の会話。"
+      ],
+      "definition": "対象を直接目的語として言わず、不具合を調べて解決に当たる活動を述べる。担当者として働くことにも、その場で原因調査を進めることにも使う。対象が文脈で分かる場合に自然で、職業として雇われていることが必須ではない。",
+      "patterns": [
+        "〈人・チーム〉 + troubleshoot",
+        "troubleshoot for 〈組織・依頼者〉",
+        "be brought in to troubleshoot",
+        "continue troubleshooting",
+        "learn to troubleshoot",
+        "troubleshoot with someone。"
+      ],
+      "collocations": [
+        {
+          "pattern": "〈人・チーム〉 + troubleshoot",
+          "use": "原因調査・問題解決の活動そのものを述べる。",
+          "example": "The engineers are still troubleshooting, so the cause is not yet clear.",
+          "translation": "技術者はまだ原因を調べているため、原因はまだはっきりしていません。"
+        },
+        {
+          "pattern": "troubleshoot for 〈組織・依頼者〉",
+          "use": "どの会社・依頼者のために問題解決を担当するかを述べる。",
+          "example": "She troubleshoots for several small manufacturing firms.",
+          "translation": "彼女は複数の小規模な製造会社のために、不具合の調査と対処を担当しています。"
+        },
+        {
+          "pattern": "be brought in to troubleshoot",
+          "use": "問題に対処するために外部の人などが呼ばれたことを述べる。",
+          "example": "A systems specialist was brought in to troubleshoot.",
+          "translation": "不具合の原因を調べて対処するため、システムの専門家が呼ばれました。"
+        },
+        {
+          "pattern": "troubleshoot with someone",
+          "use": "他の担当者と一緒に原因調査・対処を進める。",
+          "example": "I will troubleshoot with the technician after lunch.",
+          "translation": "昼食後に技術者と一緒に原因を調べ、対処します。"
+        }
+      ],
+      "notes": [
+        "I troubleshoot for a software company. は目的語を取らない自動詞構文で、for a software company は依頼主・勤務先に相当する相手を示す。I troubleshoot the company's software. は語義1の他動詞構文で、software が調べる対象。for を付ければ常に「対象」を表せるわけではない。be brought in to troubleshoot では受動なのは bring in の部分であり、troubleshoot 自体が受動になっているわけではない。troubleshoot with someone の with は一緒に行う相手を示す通常の前置詞句で、独立した句動詞ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "investigate",
+          "definition": "原因や事情を明らかにするために調べる。",
+          "frequency": 8,
+          "difference": "自動詞としても使え、原因の調査に焦点がある。修復や改善を目指すことは語だけでは決まらない。",
+          "example": "The safety team is investigating and will report its findings tomorrow.",
+          "translation": "安全担当チームが調査を進めており、明日その結果を報告します。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・不可算：troubleshooting】不具合の原因調査・問題解決作業",
+      "frequency": 6,
+      "register": [
+        "IT・取扱説明書・保守・技術支援。業務上の問題解決にも使う。"
+      ],
+      "definition": "機器・システム・業務などが期待どおりに機能しない原因を調べ、改善・解決を進める作業。問題を切り分け、設定や部品を確認し、対処法を試す活動などを含む。マニュアルでは「困ったときは」「故障かなと思ったら」という章の見出しにもなる。",
+      "patterns": [
+        "do some troubleshooting",
+        "perform troubleshooting",
+        "troubleshooting of 〈装置・問題〉",
+        "troubleshooting for 〈製品・システム〉",
+        "a troubleshooting guide",
+        "troubleshooting steps",
+        "troubleshooting skills",
+        "during troubleshooting。"
+      ],
+      "collocations": [
+        {
+          "pattern": "do some troubleshooting",
+          "use": "原因調査・対処をひとまとまりの作業として述べる。",
+          "example": "We need to do some troubleshooting before replacing the device.",
+          "translation": "機器を交換する前に、不具合の原因を調べて対処する必要があります。"
+        },
+        {
+          "pattern": "a troubleshooting guide",
+          "use": "不調時の確認方法や対処法をまとめた案内を示す。",
+          "example": "The troubleshooting guide lists the most common error messages.",
+          "translation": "不具合対処ガイドには、よく表示されるエラーメッセージが載っています。"
+        },
+        {
+          "pattern": "troubleshooting steps",
+          "use": "原因を切り分けて対処するための手順を指す。",
+          "example": "Record the troubleshooting steps you have already completed.",
+          "translation": "すでに実施した原因調査・対処の手順を記録してください。"
+        },
+        {
+          "pattern": "troubleshooting of 〈装置・問題〉",
+          "use": "名詞の後に of を使って調査対象を明示する。",
+          "example": "Troubleshooting of the network continued throughout the afternoon.",
+          "translation": "ネットワークの不具合の原因調査と対処は、午後を通じて続きました。"
+        },
+        {
+          "pattern": "troubleshooting for 〈製品・システム〉",
+          "use": "製品に対応した問題解決情報や支援の対象範囲を示す。",
+          "example": "The manual includes troubleshooting for both wired and wireless connections.",
+          "translation": "マニュアルには、有線接続と無線接続の両方について、不具合への対処方法が載っています。"
+        },
+        {
+          "pattern": "troubleshooting skills",
+          "use": "原因を見つけて対処する能力を述べる。",
+          "example": "The role requires strong troubleshooting skills and clear communication.",
+          "translation": "その職務には、高い問題解決能力と明確に伝える力が求められます。"
+        }
+      ],
+      "notes": [
+        "名詞は通常不可算で、some troubleshooting、a troubleshooting session とする。作業を1回数えるために a troubleshooting とするのは避ける。She is troubleshooting the router. の troubleshooting は目的語を取る動詞の現在分詞、She is doing some troubleshooting. では名詞。a troubleshooting guide の troubleshooting も名詞を前から修飾しており、通常ハイフンは不要。語義1の動詞は troubleshoot the network と直接目的語を置くが、名詞化した troubleshooting of the network では of で対象を示せる。マニュアルの章題は名詞なので、必ず「トラブルを撃つ」などと直訳せず、役割に合った日本語にする。"
+      ],
+      "synonyms": [
+        {
+          "word": "problem-solving",
+          "definition": "問題を分析し、解決方法を見つけて実行すること。",
+          "frequency": 7,
+          "difference": "数学・企画・対人関係などを含む広い概念。troubleshooting は機能不全の原因を調べて対処する場合に特に使う。",
+          "example": "The workshop focuses on collaborative problem-solving.",
+          "translation": "その研修は、共同で問題を解決する力に重点を置いています。"
+        },
+        {
+          "word": "fault diagnosis",
+          "definition": "不具合の位置や原因を特定するための診断・分析。",
+          "frequency": 4,
+          "difference": "原因の特定に重点があり、修復作業そのものを必ず含むわけではない。troubleshooting は対処を試す過程まで表せる。",
+          "example": "The sensor data supports faster fault diagnosis.",
+          "translation": "センサーのデータにより、不具合の原因をより迅速に特定できます。"
+        },
+        {
+          "word": "debugging",
+          "definition": "プログラムなどにある誤りを発見し、修正する作業。",
+          "frequency": 6,
+          "difference": "主にソフトウェア開発・修正の文脈で使う。troubleshooting は利用環境や機器の問題にも使える。",
+          "example": "Debugging took longer than writing the first version.",
+          "translation": "バグの発見と修正には、最初の版を書くよりも時間がかかりました。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

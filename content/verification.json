@@ -1,0 +1,327 @@
+{
+  "word": "verification",
+  "slug": "verification",
+  "ipa": "米: /ˌver.ə.fəˈkeɪ.ʃən/｜英: /ˌver.ɪ.fɪˈkeɪ.ʃən/",
+  "lead": "情報、身元、書類、主張などについて、照合や証拠によって真実性・正確さ・実在性を確かめること。また、それを裏付ける確認・証拠。単に「見た」「受け取った」という意味ではなく、確かなものとして扱えるかを調べる点に重点がある。ただし、verification process のように手続き自体を指す場合は、確認の成功まで含意しない。",
+  "updated": "2026-10-16",
+  "notion_url": "https://app.notion.com/p/verification-3fb4faa9b77d8168bb08caab6e25e87d",
+  "pronunciation": [
+    "5音節で、第4音節 /keɪ/ に主強勢、第1音節 /ver/ に第二強勢がある。上記の米英表記では、第2音節の母音が米 /ə/・英 /ɪ/、第3音節の母音が米 /ə/・英 /ɪ/。動詞 verify では語頭に主強勢があるが、この名詞では後方へ移る。"
+  ],
+  "etymology": [
+    "中世ラテン語 vērificātiō「真実であることの確認」に由来し、vērificāre「真実であると確かめる」と動作名詞を作る語尾にさかのぼる。さらに vērus「真実の」と「～にする」を表す要素に分けられる。「情報を真実に変える」のではなく、真実性・正確さを確かめる語として理解する。同じ vērus の系統には verify「確認する」、veracity「真実性」、veritable「まさに本物の」がある。"
+  ],
+  "formation": [
+    {
+      "term": "verify",
+      "description": "他動詞「真偽・正確さを確かめる」。verify the details、verify that 〈節〉 の形を取る。"
+    },
+    {
+      "term": "verified",
+      "description": "verify の過去形・過去分詞。verified information では「確認済みの情報」を表す。確認した範囲を超えて、内容全体の無条件の保証を意味するわけではない。"
+    },
+    {
+      "term": "unverified",
+      "description": "形容詞「未確認の」。unverified reports は、誤りと判明した報告ではなく、まだ裏付けが取れていない報告。"
+    },
+    {
+      "term": "verifiable",
+      "description": "形容詞「検証可能な」。verifiable evidence のように、確かめる手段があることを示す。"
+    },
+    {
+      "term": "verifier",
+      "description": "可算名詞「確認・検証を行う人・機関・プログラム」。対象分野により具体的な役割が変わる。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "内容や対象が確かであることを、照合・証拠・正式な陳述によって裏付けること。日常的な情報確認、仕様との適合確認、法的な真実性の陳述で、裏付けの対象と方法が変わる。"
+    },
+    {
+      "type": "item",
+      "text": "事実の正確さを裏付ける確認 → 「確認・検証・裏付け」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "要求への適合を裏付ける確認 → 「仕様・要求への適合検証」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "陳述の真実性を裏付ける確認 → 「真実性の確認陳述」（語義3）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・主に不可算】確認・検証・裏付け",
+      "frequency": 7,
+      "register": [
+        "中立～やや硬い。事務手続き、採用、金融サービス、報道、研究、オンラインサービスなどで広く使う。日常会話の単純な確認には check の方が軽い。"
+      ],
+      "definition": "情報、身元、書類、主張などについて、照合や証拠によって真実性・正確さ・実在性を確かめること。また、それを裏付ける確認・証拠。単に「見た」「受け取った」という意味ではなく、確かなものとして扱えるかを調べる点に重点がある。ただし、verification process のように手続き自体を指す場合は、確認の成功まで含意しない。",
+      "patterns": [
+        "verification of 〈確認対象〉＝対象の確認",
+        "verification that 〈節〉＝節の内容が事実であることの確認",
+        "verification from 〈確認を提供する人・機関〉＝その提供元からの確認",
+        "provide written verification of 〈事実〉＝事実について書面の裏付けを提供する",
+        "submit something for verification＝確認のために提出する",
+        "be subject to verification＝確認を受けることが条件となる",
+        "independent verification of 〈主張・報告〉＝当事者とは別の立場による確認",
+        "complete identity verification＝本人確認を完了する。verification code、verification process、two-step verification は定着した名詞句。"
+      ],
+      "collocations": [
+        {
+          "pattern": "verification of 〈identity/address/income〉",
+          "use": "本人情報や申告内容の確認対象を示す。",
+          "example": "The application requires verification of your current address.",
+          "translation": "その申請には、現在の住所の確認が必要です。"
+        },
+        {
+          "pattern": "verification that 〈節〉",
+          "use": "確認したい事実を完全な節で述べる。",
+          "example": "We need verification that the payment reached the supplier.",
+          "translation": "支払いが仕入先に届いたことの確認が必要です。"
+        },
+        {
+          "pattern": "provide written verification of 〈事実〉",
+          "use": "口頭の説明ではなく、書面で事実を裏付ける。",
+          "example": "The agency asked her employer to provide written verification of her employment.",
+          "translation": "その機関は、彼女の雇用主に在職を書面で証明するよう求めました。"
+        },
+        {
+          "pattern": "obtain verification from 〈提供元〉",
+          "use": "誰から裏付けを得るのかを明確にする。",
+          "example": "We obtained verification from the publisher before correcting the record.",
+          "translation": "私たちは記録を訂正する前に、出版社から確認を取りました。"
+        },
+        {
+          "pattern": "independent verification of 〈報告・主張〉",
+          "use": "当事者の説明だけに依存しない確認を表す。",
+          "example": "The newspaper published the claim without independent verification of the figures.",
+          "translation": "その新聞は、数値の独立した裏付けを取らずにその主張を掲載しました。"
+        },
+        {
+          "pattern": "submit something for verification",
+          "use": "書類や情報を確認手続きに回す。",
+          "example": "Please submit the original document for verification.",
+          "translation": "確認のため、書類の原本を提出してください。"
+        },
+        {
+          "pattern": "be subject to verification",
+          "use": "申告や暫定的な結果が確認対象となることを示す。",
+          "example": "All figures in the preliminary report are subject to verification.",
+          "translation": "速報の数値はすべて、確認の対象となります。"
+        },
+        {
+          "pattern": "complete identity verification",
+          "use": "本人確認の手続きを終える。",
+          "example": "Applicants must complete identity verification before accessing the portal.",
+          "translation": "申請者は、そのポータルにアクセスする前に本人確認を完了する必要があります。"
+        },
+        {
+          "pattern": "enter a verification code",
+          "use": "所持・アクセス権などを確認するコードを入力する。",
+          "example": "Enter the verification code displayed in your authentication app.",
+          "translation": "認証アプリに表示された確認コードを入力してください。"
+        },
+        {
+          "pattern": "enable two-step verification",
+          "use": "アカウントの二段階の確認機能を有効にする。",
+          "example": "The service asks new users to enable two-step verification.",
+          "translation": "そのサービスは、新規利用者に二段階認証を有効にするよう求めています。"
+        }
+      ],
+      "notes": [
+        "通常は不可算で、We need verification.「確認が必要だ」のように無冠詞で使う。個別の確認作業を数える専門的用法では a verification、verifications も見られるが、一般文では a verification check、two checks とすると明確。verification of the address の of は対象、verification from the employer の from は提供元を示す。verification that the details are correct は名詞に内容節が続く形で、動詞の Verify that the details are correct.「詳細が正しいか確認してください」と区別する。名詞を動詞として使う ×Please verification the details. は、○Please verify the details. とする。",
+        "verification は「確かめる過程」と「得られた裏付け」の両方に使われるため、verification failed は「確認に失敗した」、verification of the report was obtained は「報告の裏付けが得られた」。未確認であることは、虚偽と判明したこととは違う。identity verification は身元・本人情報の確認、authentication はサービスへのアクセス時などの本人性確認に使われ、分野によって区別が細かい。email verification も、通常はメールアドレスへのアクセスなどの確認であり、その人の経歴全体の証明を意味しない。two-step verification は「二段階認証」の定着表現で、具体的な方式はサービスにより異なる。"
+      ],
+      "synonyms": [
+        {
+          "word": "confirmation",
+          "definition": "事実、予定、受領などが確かであると認めること。",
+          "frequency": 8,
+          "difference": "確認できたという結果や連絡に重点を置き、verification ほど照合・検証の過程を強く示さない。予約の確定にも使う。",
+          "example": "We are waiting for confirmation of the delivery date.",
+          "translation": "私たちは納品日の確定連絡を待っています。"
+        },
+        {
+          "word": "check",
+          "definition": "誤りや問題がないか、正しいかを調べること。",
+          "frequency": 9,
+          "difference": "日常的で意味が広く、簡単な見直しにも使う。verification は事実や情報を確かなものとして扱うための確認という響きが強い。",
+          "example": "A quick check revealed a duplicate invoice.",
+          "translation": "簡単に確認したところ、重複した請求書が見つかりました。"
+        },
+        {
+          "word": "corroboration",
+          "definition": "追加の証拠や別の情報源による主張の裏付け。",
+          "frequency": 4,
+          "difference": "すでにある説明を別の証拠で補強する点に重点を置く。verification は初めて真偽を確かめる作業も含む。",
+          "example": "The investigator sought corroboration of the witness's account.",
+          "translation": "調査担当者は、その証人の説明を裏付ける追加の証拠を求めました。"
+        },
+        {
+          "word": "substantiation",
+          "definition": "主張を支える具体的な根拠の提示。",
+          "frequency": 4,
+          "difference": "主張を成立させる証拠の厚みに焦点がある。verification は記録や事実との一致を確かめる場合にも使う。",
+          "example": "The advertiser provided no substantiation for the performance claim.",
+          "translation": "広告主は、その性能の主張を支える根拠を示しませんでした。"
+        },
+        {
+          "word": "authentication",
+          "definition": "対象が本物であることや、利用者が正当な本人であることの確認。",
+          "frequency": 6,
+          "difference": "真正性・本人性に対象が絞られる。verification は金額、日付、事実関係などの正確さにも使える。",
+          "example": "The archive requested authentication of the handwritten letter.",
+          "translation": "その資料館は、手書きの手紙が本物かどうかの鑑定を依頼しました。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・主に不可算】仕様・要求への適合検証",
+      "frequency": 4,
+      "register": [
+        "専門。工学、製品開発、ソフトウェア、品質保証。一般的な「検証」より、比較対象となる要求・仕様が重要。"
+      ],
+      "definition": "工学・品質保証などで、製品、設計、システム、ソフトウェアなどが、定められた要求事項・仕様を満たしているかを客観的な根拠によって確かめること。一般義の「正しさの確認」を、あらかじめ明示された要求への適合という観点に絞った用法。検査、解析、試験などの方法があり、動作試験だけを指すわけではない。",
+      "patterns": [
+        "verification of 〈設計・システム〉 against 〈仕様・要求〉＝仕様・要求に照らした検証",
+        "design verification＝設計検証",
+        "verification by 〈方法〉＝その方法による検証",
+        "verification and validation＝仕様適合の検証と用途への妥当性確認",
+        "a verification plan＝検証計画",
+        "formal verification of 〈ソフトウェア・設計〉＝数学的・論理的手法を用いた形式的検証。"
+      ],
+      "collocations": [
+        {
+          "pattern": "verification of 〈対象〉 against 〈仕様〉",
+          "use": "何を、どの基準と照合して検証するかを示す。",
+          "example": "The team completed verification of the controller against the approved specification.",
+          "translation": "チームは、承認済み仕様に照らした制御装置の検証を完了しました。"
+        },
+        {
+          "pattern": "design verification",
+          "use": "設計が要求を満たすかを確かめる作業を示す。",
+          "example": "Design verification showed that the enclosure met the specified load limit.",
+          "translation": "設計検証により、その筐体が規定の荷重条件を満たしていることが示されました。"
+        },
+        {
+          "pattern": "verification by 〈inspection/analysis/testing〉",
+          "use": "検証に使う方法を示す。",
+          "example": "The verification plan permits verification by analysis for this requirement.",
+          "translation": "検証計画では、この要求事項について解析による検証が認められています。"
+        },
+        {
+          "pattern": "verification and validation",
+          "use": "要求への適合と、意図した用途への適切さを区別して扱う。",
+          "example": "Verification and validation will address the written requirements and the users' operational needs, respectively.",
+          "translation": "検証と妥当性確認では、それぞれ、文書化された要求事項と利用者の運用上のニーズを扱います。"
+        },
+        {
+          "pattern": "a verification plan",
+          "use": "検証対象、方法、判定基準などをまとめた計画を指す。",
+          "example": "The verification plan identifies the evidence required for each specification.",
+          "translation": "検証計画には、各仕様について必要となる証拠が示されています。"
+        },
+        {
+          "pattern": "formal verification of 〈ソフトウェア・設計〉",
+          "use": "論理・数学に基づいて性質や仕様への適合を確かめる。",
+          "example": "Formal verification of the model established that the two outputs could not be active simultaneously.",
+          "translation": "モデルの形式的検証により、二つの出力が同時に有効になることはないと示されました。"
+        }
+      ],
+      "notes": [
+        "この区別を採用する開発文脈では、verification は「定めた要求に合うか」、validation は「意図した用途・利用者のニーズに合うか」。verification of the design と validation of the design はどちらも名詞句だが、前者は仕様との一致、後者は用途への適切さに焦点がある。一般英語では両語の意味が重なる場合もあり、全分野で同じ工程名・実施順序を意味するわけではない。verification は実行せずに行う作業、validation は実行して行う作業、と機械的に分けるのは不正確。formal verification の formal は単に「正式な」ではなく、形式的・数学的な扱いを指す。結果はモデル、仮定、検証対象に依存するため、あらゆる不具合の不存在を無条件に保証する語ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "conformity assessment",
+          "definition": "対象が定められた要求に適合しているかを評価する活動。",
+          "frequency": 3,
+          "difference": "試験・検査・認証などを含み得る広い枠組み。verification と重なる場面があるが、特定の開発工程だけを指さない。",
+          "example": "The product will undergo conformity assessment before launch.",
+          "translation": "その製品は発売前に適合性評価を受けます。"
+        },
+        {
+          "word": "conformance testing",
+          "definition": "実装や製品が規格・仕様の要求に合っているかを試験によって確かめること。",
+          "frequency": 3,
+          "difference": "要求への適合を試験で確認する範囲で verification と重なる。verification は解析や検査による確認も含むため、常にこの表現に置き換えられるわけではない。",
+          "example": "Conformance testing showed that the implementation met the protocol specification.",
+          "translation": "適合性試験により、その実装がプロトコルの仕様を満たすことが示されました。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算／不可算】真実性の確認陳述",
+      "frequency": 2,
+      "register": [
+        "法律・訴訟手続き。主に米国。必要な形式や、誰が陳述できるかは法域・手続きによる。"
+      ],
+      "definition": "主に米国の法的手続きで、訴状・申立書などの内容が真実である旨を、宣誓や偽証の責任を伴う確約など、定められた形式で述べること。また、その陳述・書面。単に第三者が事実を調べたという意味ではなく、陳述者が内容の真実性について正式に表明する点が特徴。",
+      "patterns": [
+        "a verification of a pleading",
+        "a verification of a petition＝訴答書面・申立書の真実性を確認する陳述",
+        "sign a verification＝確認陳述に署名する",
+        "submit a verification with 〈法的書面〉＝書面とともに確認陳述を提出する",
+        "an affidavit of verification＝真実性確認の宣誓供述書",
+        "a defective verification＝要件を満たさない確認陳述。"
+      ],
+      "collocations": [
+        {
+          "pattern": "sign a verification",
+          "use": "法的書面の内容について真実性を表明する陳述に署名する。",
+          "example": "The plaintiff signed a verification stating that the allegations were true to her knowledge.",
+          "translation": "原告は、主張内容が自分の知る限り真実であるとする確認陳述に署名しました。"
+        },
+        {
+          "pattern": "submit a verification with 〈法的書面〉",
+          "use": "申立てなどに添える確認陳述を表す。",
+          "example": "Counsel submitted a verification with the amended petition.",
+          "translation": "代理人弁護士は、修正した申立書とともに確認陳述を提出しました。"
+        },
+        {
+          "pattern": "an affidavit of verification",
+          "use": "宣誓供述書の形式を取る真実性の確認を指す。",
+          "example": "The affidavit of verification identified which statements were based on personal knowledge.",
+          "translation": "その真実性確認の宣誓供述書には、どの陳述が本人の知識に基づくかが示されていました。"
+        },
+        {
+          "pattern": "a defective verification",
+          "use": "確認陳述の形式や内容の不備を問題にする。",
+          "example": "The parties disputed whether the pleading contained a defective verification.",
+          "translation": "当事者らは、訴答書面の確認陳述に不備があるかどうかを争いました。"
+        }
+      ],
+      "notes": [
+        "個々の確認陳述は a verification と数えられ、手続き一般は verification と不可算で表す。語義1の verification of the facts は事実の調査・確認を指すが、この語義の verification of a pleading は書面内容の真実性を定められた形式で表明するもの。必ず公証人の前で宣誓する、必ず全内容を本人の直接の知識で保証する、と一律に理解しない。例えばニューヨーク州の現行手続きでは、偽証の責任の下で真実であると確約する形や、情報・信念に基づく事項との区別が規定されている。この語だけでは、文書の公証、裁判所による内容の認定、相手方の主張の承認まで意味しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "affidavit",
+          "definition": "宣誓に基づいて事実を述べる書面。",
+          "frequency": 4,
+          "difference": "文書形式を指す語で、さまざまな事実の供述に使える。verification は既存の申立てなどの真実性を確認する機能に重点があり、常に affidavit と同じ形式とは限らない。",
+          "example": "The witness supplied an affidavit describing the delivery.",
+          "translation": "証人は、配達の状況を述べた宣誓供述書を提出しました。"
+        },
+        {
+          "word": "attestation",
+          "definition": "事実や文書の真正性について正式に証明・確認すること、またはその陳述。",
+          "frequency": 3,
+          "difference": "正式な証明一般を広く表し、署名の立会証明などにも使う。verification はこの語義では書面の主張内容の真実性に焦点を絞る。",
+          "example": "The form includes an attestation that the information supplied is accurate.",
+          "translation": "その様式には、提出情報が正確であるという証明の文言が含まれています。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
