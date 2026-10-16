@@ -90,6 +90,21 @@ def _normalize_heading(text: str) -> str:
     return _clean_inline(text).strip().strip("【】[] ")
 
 
+def _restore_literal_punctuation(value: Any) -> Any:
+    """Decode Notion Markdown escapes once, after all structural parsing.
+
+    In particular, escaped grammatical-error asterisks must not become input to
+    the emphasis parser again. Preserve unknown backslash sequences.
+    """
+    if isinstance(value, str):
+        return re.sub(r"\\([\\$*>])", r"\1", value)
+    if isinstance(value, list):
+        return [_restore_literal_punctuation(item) for item in value]
+    if isinstance(value, dict):
+        return {key: _restore_literal_punctuation(item) for key, item in value.items()}
+    return value
+
+
 def _strip_bullet(text: str) -> str:
     return re.sub(r"^\s*(?:[-*+・●▪︎◦]|\d+[.．])\s*", "", text).strip()
 
@@ -327,8 +342,44 @@ def parse_dictionary_markdown(
     page_url: str = "",
     updated: str = "",
     existing: dict[str, Any] | None = None,
+    decode_literal_escapes: bool = True,
 ) -> dict[str, Any]:
     existing = existing or {}
+    # Code spans contain literal characters, not Markdown punctuation escapes.
+    # Keep them out of both emphasis cleanup and the final escape decoding.
+    code_literals: dict[str, str] = {}
+    prefix = "\ue000code"
+    while prefix in markdown:
+        prefix += "x"
+
+    def protect_code(match: re.Match[str]) -> str:
+        if "\\" not in match.group(1):
+            return match.group(0)
+
+        def protect_character(character: re.Match[str]) -> str:
+            token = f"{prefix}{len(code_literals)}\ue001"
+            code_literals[token] = character.group(0)
+            return token
+
+        # Preserve structural characters (such as IPA slashes) for the parser.
+        return "`" + re.sub(r"[\\*]", protect_character, match.group(1)) + "`"
+
+    if decode_literal_escapes:
+        markdown = re.sub(r"`([^`\n]*)`", protect_code, markdown)
+
+    def restore(value: Any) -> Any:
+        if isinstance(value, str):
+            if decode_literal_escapes:
+                value = _restore_literal_punctuation(value)
+            for token, literal in code_literals.items():
+                value = value.replace(token, literal)
+            return value
+        if isinstance(value, list):
+            return [restore(item) for item in value]
+        if isinstance(value, dict):
+            return {key: restore(item) for key, item in value.items()}
+        return value
+
     sections = split_sections(markdown)
     top: dict[str, list[str]] = {}
     senses_raw: list[tuple[Section, list[Section]]] = []
@@ -349,7 +400,7 @@ def parse_dictionary_markdown(
     pronunciation_items = _simple_items(top.get("pronunciation", []))
     ipa = existing.get("ipa", "")
     if pronunciation_items and re.search(r"/[^/]+/", pronunciation_items[0]):
-        ipa = pronunciation_items.pop(0)
+        ipa = restore(pronunciation_items.pop(0))
 
     senses = []
     for index, (sense_section, subsections) in enumerate(senses_raw, 1):
@@ -383,6 +434,7 @@ def parse_dictionary_markdown(
             }
         )
 
+    senses = restore(senses)
     lead = _resolve_lead(existing.get("lead", ""), senses)
     return {
         "word": word.strip(),
@@ -391,10 +443,10 @@ def parse_dictionary_markdown(
         "lead": lead,
         "updated": updated,
         "notion_url": page_url,
-        "pronunciation": pronunciation_items,
-        "etymology": _simple_items(top.get("etymology", [])),
-        "formation": _parse_formation(top.get("formation", [])),
-        "core": _parse_core(top.get("core", [])),
+        "pronunciation": restore(pronunciation_items),
+        "etymology": restore(_simple_items(top.get("etymology", []))),
+        "formation": restore(_parse_formation(top.get("formation", []))),
+        "core": restore(_parse_core(top.get("core", []))),
         "sources": existing.get("sources", []),
         "senses": sorted(senses, key=lambda item: item["number"]),
     }
