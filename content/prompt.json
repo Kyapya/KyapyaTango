@@ -832,10 +832,10 @@
           "translation": "コマンドの処理が終わると、シェルは入力待ちの表示に戻った。"
         },
         {
-          "pattern": "the 〈\\$/\\>〉 prompt",
+          "pattern": "the 〈$/>〉 prompt",
           "use": "シェルなどで、入力待ちを示す特定の記号を表す。",
-          "example": "The \\$ prompt indicates that the shell is ready for a command.",
-          "translation": "\\$プロンプトは、シェルがコマンドを受け付けられる状態だと示す。"
+          "example": "The $ prompt indicates that the shell is ready for a command.",
+          "translation": "$プロンプトは、シェルがコマンドを受け付けられる状態だと示す。"
         }
       ],
       "notes": [
