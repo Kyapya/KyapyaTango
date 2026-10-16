@@ -1,109 +1,90 @@
 {
   "word": "permit",
   "slug": "permit",
-  "ipa": "米（動詞）: /pɚˈmɪt/｜英（動詞）: /pəˈmɪt/",
+  "ipa": "動詞：米 /pɚˈmɪt/｜英 /pəˈmɪt/。名詞：米 /ˈpɝːmɪt/｜英 /ˈpɜːmɪt/。いずれも2音節で、標準的には動詞は第2音節、名詞は第1音節に強勢を置く。米英差は第1音節の r 音を含む母音と含まない母音の対立。名詞に第2音節強勢の異形もあるが、学習上は上記を基本とする。permitted は米 /pɚˈmɪtɪd/、英 /pəˈmɪtɪd/、permitting は米 /pɚˈmɪtɪŋ/、英 /pəˈmɪtɪŋ/ で、米英差は第1音節、強勢は第2音節。permitted の -ed は /ɪd/、permits の語尾は /ts/。魚名も通常は名詞型の強勢で発音する。",
   "lead": "権限を持つ人・組織、法律、規則などが、人にある行為をすることを正式に認めたり、特定の行為・物・状態が存在することを容認したりする。日常的な allow より硬く、規則、手続き、施設、契約、法律などに基づく許可を表しやすい。「積極的に賛成する」というより、「禁止せず、権限・規則上通す」ことに焦点がある。",
-  "updated": "2026-08-08",
+  "updated": "2026-10-16",
   "notion_url": "https://app.notion.com/p/permit-3b64faa9b77d8125b85ec2c0e494b8ba",
-  "pronunciation": [
-    "米（名詞）: /ˈpɝːmɪt/｜英（名詞）: /ˈpɜːmɪt/",
-    "動詞は第2音節、名詞は第1音節に強勢を置く。品詞によって強勢位置が変わる代表的な語である。",
-    "一部の北米英語では、名詞にも第2音節を強く発音する /pɚˈmɪt/ が見られるが、学習上は第1音節に強勢を置く発音を基本とするとよい。",
-    "動詞の過去形・過去分詞は permitted /pəˈmɪtɪd/、現在分詞は permitting /pəˈmɪtɪŋ/。語末が「強勢のある短母音＋子音字」であるため、tを重ねてから -ed、-ing を付ける。",
-    "三人称単数形および「許可証」の意味での名詞複数形 permits の語尾は /s/。",
-    "魚名の permit も、通常は名詞と同じく第1音節に強勢を置く。"
-  ],
+  "pronunciation": [],
   "etymology": [
-    "動詞および「許可証」の名詞は、ラテン語 permittere「通す、自由に行かせる、許可する」に由来し、中英語期に英語へ入った。per-「通して」+ mittere「送る、行かせる」から成り、語源上は「通過させる」が意味の核となる。そこから「行為を妨げずに通す」「正式に許可する」「条件が実現を可能にする」という意味へ発達した。",
-    "admit：中へ入れる、認める",
-    "commit：委ねる、関与させる",
-    "submit：下に差し出す、提出する、服従する",
-    "transmit：向こうへ送る、伝達する",
-    "これらはラテン語 mittere「送る」に由来する同語源語である。",
-    "魚名の permit は別語源と考えられており、スペイン語 palometa「ポンパノ類の魚」が民間語源的に英語 permit の形へ変化した可能性がある。「許可する」「許可証」とは語源的・意味的な関係がない。"
+    "動詞はラテン語 permittere「任せる・許す」に由来し、per-「通して」と mittere「送る・行かせる」が背景にある。「許可証」の名詞はこの動詞と同系統。同じ mittere に関わる語には admit「入れる・認める」、submit「提出する」、transmit「伝える」がある。魚名は別語源で、スペイン語の魚名 palometa に由来するとする説明があるが、確実な形成経路としては断定しない。"
   ],
   "formation": [
     {
-      "term": "permission【名詞】",
-      "description": "許可、許諾。通常は不可算名詞であり、可算名詞 permit とは区別する。"
-    },
-    {
-      "term": "permissible【形容詞】",
-      "description": "規則、法律、道徳などの範囲内で許される。"
-    },
-    {
-      "term": "impermissible【形容詞】",
-      "description": "許されない、容認できない。"
-    },
-    {
-      "term": "permissive【形容詞】",
-      "description": "制限をあまり課さない、寛容な。文脈によっては「規律が緩い、甘すぎる」という否定的含意を持つ。"
-    },
-    {
-      "term": "permissiveness【名詞】",
-      "description": "寛容さ、制限・規制の緩さ。"
-    },
-    {
-      "term": "permittee",
-      "description": "【名詞・法律／行政】：許可を受けた個人・法人。契約書、法律、行政文書で使われる専門的な語。"
-    },
-    {
-      "term": "permit holder【複合名詞】",
-      "description": "許可証の保有者、許可を受けた者。permittee より意味を推測しやすい。"
-    },
-    {
-      "term": "permitted【分詞形容詞】",
-      "description": "許可された、規則上認められた。permitted level「許容水準」などにも使われる。"
-    },
-    {
-      "term": "permitting【現在分詞】",
-      "description": "許せば、可能にすれば。weather permitting などの独立分詞構文で定着している。"
+      "term": "permitted／permitting",
+      "description": "t を重ねる過去形・過去分詞／現在分詞。"
     },
     {
       "term": "permission",
-      "description": "は、現代英語で permit + -ion と機械的に形成した語ではなく、ラテン語 permissio、permission- にさかのぼる。したがって permittion とは綴らない。"
+      "description": "名詞「許可」。同語族だが、permittion とは綴らない。"
+    },
+    {
+      "term": "permissible／impermissible",
+      "description": "形容詞「許される／許されない」。"
+    },
+    {
+      "term": "permissive",
+      "description": "形容詞「制限の緩い・寛容な」。承認済みを表す permitted とは異なる。"
+    },
+    {
+      "term": "permissiveness",
+      "description": "名詞「寛容さ・規制の緩さ」。"
+    },
+    {
+      "term": "permittee／permit holder",
+      "description": "許可を受けた人・組織。permittee は行政・法律の文書で使う。"
     }
   ],
   "core": [
     {
-      "label": "権限・規則・条件という「関門」が、人・行為・物事を妨げずに通す。",
-      "description": ""
+      "type": "paragraph",
+      "text": "規則や条件の中で、行為や結果が実現する道を開いておく。人が認める場合、条件が実現を可能にする場合、その許可を示す文書がつながる。語義6は同綴異義で、魚を指す語彙的意味も語源系統もこの核と共有しない。"
     },
     {
-      "label": "権限や規則が行為を通す",
-      "description": "→ 「正式に許可する」"
+      "type": "item",
+      "text": "実現する道を開く人・規則の判断 → 「許可する・認める」（語義1）"
     },
     {
-      "label": "時間、天候、構造などが実現を通す",
-      "description": "→ 「可能にする、余地を与える」"
+      "type": "item",
+      "text": "実現する道を開く個別の認可 → 「許可証・個別の許可」（語義2）"
     },
     {
-      "label": "許可されたことを証明するもの",
-      "description": "→ 「許可証」"
+      "type": "item",
+      "text": "実現する道を開く条件・機能 → 「可能にする・余地を与える」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "実現する道を開く時間・天候の都合 → 「都合が許す」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "実現する道を開く解釈・対応の余地 → 「permit of：～の余地がある」（語義5）"
     }
   ],
   "sources": [],
   "senses": [
     {
       "number": 1,
-      "title": "【動詞・他動詞】1. 許可する、認める、容認する",
+      "title": "【動詞・他動詞／自動詞】許可する・認める",
       "frequency": 8,
       "register": [
         "中立～フォーマル。行政、法律、規則、契約、学校、職場、施設案内、ビジネス文書で特に多い。日常会話では allow や let のほうが一般的なことが多い。"
       ],
-      "definition": "権限を持つ人・組織、法律、規則などが、人にある行為をすることを正式に認めたり、特定の行為・物・状態が存在することを容認したりする。日常的な allow より硬く、規則、手続き、施設、契約、法律などに基づく許可を表しやすい。「積極的に賛成する」というより、「禁止せず、権限・規則上通す」ことに焦点がある。",
+      "definition": "人・組織・規則などが、ある行為・利用・状態を認め、妨げないでおく。allow より改まっており、制度上の許可によく使うが、公式な手続きや公的権限を必須とするわけではない。自分に楽しみや感情の表出を許す場合にも使う。認めることと、積極的に賛成すること・実際に実行されることは別である。",
       "patterns": [
-        "permit + O＝物事・行為・状態を許可する",
-        "permit + someone + to do＝人が～することを許可する",
-        "permit + doing＝～するという行為一般を許可する",
-        "permit + someone + something＝人に接触・利用・入場などを認める",
-        "permit + oneself + something＝自分に楽しみ・感情・行為などを許す",
-        "permit + oneself + to do＝自分が～することを自ら許す",
-        "be permitted + to do＝～することを許可されている",
-        "be permitted + 名詞＝接触、入場、利用などを認められている",
-        "permit me + to do＝私が～することをお許しください",
-        "permit O と permit someone to do では、前者は許可される行為・物・状態、後者は許可を受ける行為者に焦点を置く",
-        "permit doing と permit someone to do は可能だが、人を示さずに permit to do とすることは通常できない"
+        "permit something",
+        "permit doing something＝行為・物・利用などを認める",
+        "permit someone to do something＝人の行為を認める",
+        "permit someone something＝人に利用・接触・楽しみなどを認める",
+        "permit oneself something",
+        "permit oneself to do something＝自分に許す",
+        "someone + be permitted to do something＝人が許可を受ける",
+        "someone + be permitted something＝利用・接触などを認められる",
+        "something + be permitted＝行為・物が認められる",
+        "Permit me to do something.＝儀礼的に許しを求める",
+        "permit someone into 〈場所〉",
+        "someone + be permitted into 〈場所〉＝入ることを認める",
+        "if someone will permit＝許可内容が明らかな場合に、それを言わず許しを求める"
       ],
       "collocations": [
         {
@@ -126,24 +107,24 @@
         },
         {
           "pattern": "permit doing something",
-          "use": "特定の行為一般が許可されていることを示す",
-          "example": "This parking lot does not permit overnight parking.",
-          "translation": "この駐車場では夜間を通した駐車は認められていない。"
+          "use": "行為者を置かず、行為そのものを認める。",
+          "example": "The library permits eating in the designated lounge.",
+          "translation": "図書館では指定ラウンジでの飲食を認めている。"
         },
         {
           "pattern": "permit someone access to something",
-          "use": "人に場所、情報、設備などへのアクセスを認める",
-          "example": "Only authorized employees are permitted access to the records.",
-          "translation": "許可を受けた従業員だけが、その記録へのアクセスを認められている。"
+          "use": "人に閲覧・利用を認める二重目的語。",
+          "example": "The archive permits researchers access to these records.",
+          "translation": "その文書館は研究者にこれらの記録の閲覧を認めている。"
         },
         {
-          "pattern": "permit entry into [a place]",
+          "pattern": "permit entry into 〈場所〉",
           "use": "建物、国、区域などへの立ち入りを正式に認める",
           "example": "This pass permits entry into the restricted area.",
           "translation": "この通行証があれば制限区域への立ち入りが認められる。"
         },
         {
-          "pattern": "permit something under [a law/rule/agreement]",
+          "pattern": "be permitted under 〈法律・規則〉",
           "use": "法律、規則、契約などが特定の行為を認めていることを示す",
           "example": "Such payments are permitted under current law.",
           "translation": "そのような支払いは現行法で認められている。"
@@ -158,36 +139,48 @@
           "pattern": "permit oneself something",
           "use": "自分に小さな楽しみ、感情、反応などを持つことを許す",
           "example": "After finishing the report, she permitted herself a brief smile.",
-          "translation": "報告書を書き終えると、彼女は自分にほんの少しほほえむことを許した。"
+          "translation": "報告書を書き終えると、彼女は少しだけほほえみを浮かべた。"
         },
         {
           "pattern": "permit me to do something",
           "use": "自分が何かを述べたり行ったりする許可を、儀礼的に求める",
           "example": "Permit me to introduce our new director.",
           "translation": "新しい部長をご紹介させてください。"
+        },
+        {
+          "pattern": "permit oneself to do something",
+          "use": "自分で課した抑制を緩める。",
+          "example": "For the first time in weeks, he permitted himself to relax.",
+          "translation": "数週間ぶりに、彼は自分にくつろぐことを許した。"
+        },
+        {
+          "pattern": "be permitted contact with someone",
+          "use": "接触を認められる側を主語にする。",
+          "example": "During the study, participants were permitted contact with their families.",
+          "translation": "研究中、参加者は家族との連絡を認められていた。"
+        },
+        {
+          "pattern": "be permitted into 〈場所〉",
+          "use": "立ち入りの許可を入る場所とともに示す。",
+          "example": "Visitors are not permitted into the laboratory without an escort.",
+          "translation": "訪問者は付き添いなしで実験室に入ることを認められていない。"
+        },
+        {
+          "pattern": "if you will permit",
+          "use": "改まった発言で、許可内容を続く文に委ねる。",
+          "example": "If you will permit, I would like to add a brief comment.",
+          "translation": "お許しいただけるなら、短い意見を一つ付け加えたいと思います。"
         }
       ],
       "notes": [
-        "permit は allow よりフォーマルで、権限、規則、法律、公式な手続きの存在を連想させやすい。親が子どもにテレビを見せるような日常場面では allow や let が一般的である。",
-        "permit someone to do の to は必要である。permit someone do は誤り。",
-        "誤: They permitted us enter the room.",
-        "正: They permitted us to enter the room.",
-        "行為一般を直接目的語にする場合は動名詞を使う。permit to smoke は通常不可で、permit smoking とする。",
-        "誤: The hotel does not permit to smoke.",
-        "正: The hotel does not permit smoking.",
-        "「私は～することを許可されている」は I am permitted to do とする。I permit to do ではない。",
-        "permit + someone + something はすべての名詞に自由に使えるわけではない。permit someone access、permit someone entry、permit someone contact のようなフォーマルな組み合わせや、permit oneself a smile のような再帰用法が中心となる。",
-        "permit は「許可を与える」ことであり、実際にその行為を命じたり、必ず実現させたりすることまでは含まない。",
-        "not permit は、規則・権限に基づく禁止を表す。特に be not permitted to do が案内や規則で多い。",
-        "permitted level、permitted amount、permitted use の permitted は「規則などで認められた上限・用途」を表す分詞形容詞である。",
-        "permit me to say/add/suggest/introduce は丁寧だが、現代の日常会話では硬い、儀礼的、または意図的に格式張った響きになることがある。"
+        "×permit someone do は ○permit someone to do、行為者を置かない ×permit to smoke は ○permit smoking とする。let someone do には to がないが、permit には必要。二重目的語は permit someone access／entry／contact などに多く、任意の物に自由に使えるわけではない。permit oneself a smile は自制を緩めて「思わず少し笑う・微笑を浮かべる」ことを許す描写で、公的手続きとは関係しない。能動で主語と許可の相手が同じときは oneself を使うが、I was permitted to leave. は普通の受動態であり、再帰代名詞を省略した形ではない。not permitted は規則上の禁止によく使う。行為が許されていることから、その実行や話者の賛成までは推定できない。Permit me to ... は丁寧でも儀礼的・格式張った響きがある。permitted は過去分詞として the permitted use／the maximum permitted level など名詞の前にも置ける。permitted だけで必ず上限を意味するわけではなく、a permitted level は認められた水準を指す。許可の内容が文脈で明らかな if you will permit のような自動詞的用法もある。日常では if I may がより簡潔である。"
       ],
       "synonyms": [
         {
           "word": "allow",
           "definition": "人が行為をすること、または物事が起こることを許す",
           "frequency": 10,
-          "difference": "permit より一般的で、日常的な個人の許可から規則上の許可まで広く使える。permit はより公式・制度的である。",
+          "difference": "permit より日常的で、私的な許可から規則上の許可まで使える。permit の改まった文体自体が公的手続きを意味するわけではない。",
           "example": "My parents allowed me to stay out late.",
           "translation": "両親は私が遅くまで外出することを許してくれた。"
         },
@@ -216,22 +209,6 @@
           "translation": "委員会は修正された計画を承認した。"
         },
         {
-          "word": "license",
-          "definition": "免許・資格を与えて、特定の活動を正式に認める",
-          "frequency": 6,
-          "difference": "permit より対象が限定され、営業、専門業務、製造、知的財産の利用などについて継続的・制度的な資格を与える場合に多い。",
-          "example": "The state licenses companies to sell insurance.",
-          "translation": "州は企業に保険販売の免許を与える。"
-        },
-        {
-          "word": "sanction",
-          "definition": "権威ある組織などが行為を正式に認可する",
-          "frequency": 5,
-          "difference": "permit より硬く、制度的・政治的な認可を表す。ただし名詞 sanctions は「制裁」の意味で使われることが非常に多い。",
-          "example": "The governing body sanctioned the event.",
-          "translation": "統括団体はそのイベントを正式に認可した。"
-        },
-        {
           "word": "tolerate",
           "definition": "好ましくない行為や状態を、介入して止めずに容認する",
           "frequency": 7,
@@ -258,46 +235,248 @@
           "translation": "連邦法はこの製品の販売を禁止している。"
         },
         {
-          "word": "ban",
-          "definition": "行為、製品、人物などを公的に禁止または排除する",
-          "frequency": 8,
-          "difference": "個別の許可を与えないだけでなく、対象を全面的・制度的に禁止する含意が強い。動詞と可算名詞の両方で使われる。",
-          "example": "The city banned smoking in public parks.",
-          "translation": "市は公共の公園での喫煙を禁止した。"
-        },
-        {
           "word": "disallow",
           "definition": "規則、審査、法律などに基づいて認めない",
           "frequency": 5,
           "difference": "permit の制度的な反対方向にあり、申請、証拠、得点、費用などを規則上無効・不許可とする場合にも使われる。",
           "example": "The referee disallowed the goal for offside.",
           "translation": "審判はオフサイドを理由にその得点を認めなかった。"
-        },
-        {
-          "word": "deny",
-          "definition": "求められた許可、権利、機会などを与えない",
-          "frequency": 9,
-          "difference": "全面的な禁止ではなく、特定の申請者・要求に対して許可を拒否する点で permit と対立する。",
-          "example": "The court denied him permission to travel abroad.",
-          "translation": "裁判所は彼に海外渡航の許可を与えなかった。"
         }
       ]
     },
     {
       "number": 2,
-      "title": "【動詞・他動詞／自動詞】2. 可能にする、余地を与える、都合が許す",
+      "title": "【名詞・可算】許可証・個別の許可",
+      "frequency": 7,
+      "register": [
+        "中立～フォーマル。行政、法律、移民、雇用、建築、交通、環境規制、施設管理などで広く使われる。permit の具体的な種類や自然さには国・地域の制度差がある。"
+      ],
+      "definition": "特定の活動・立ち入り・就労・居住などを正式に認める許可証、または個別に与えられた許可。紙の文書だけでなく、カード・標章・電子的な許可にも使う。発行者・有効期間・条件は制度によって異なり、permit という語だけで全国共通の資格や特定の法律上の効果が決まるわけではない。",
+      "patterns": [
+        "a permit",
+        "permits＝一件・複数件の許可または許可証",
+        "a permit to do something＝行為を認める許可",
+        "a permit for something",
+        "a permit for doing something＝用途・活動に関する許可",
+        "a permit from 〈発行機関〉＝機関が発行した許可",
+        "apply for/obtain/issue/renew/revoke a permit＝申請する・取得する・交付する・更新する・取り消す",
+        "a 〈work/residence/building/parking〉 permit＝活動・用途別の許可証"
+      ],
+      "collocations": [
+        {
+          "pattern": "apply for a permit",
+          "use": "許可を求めて申請する段階を示す。",
+          "example": "The crew applied for a permit to film in the park.",
+          "translation": "撮影班は公園で撮影するための許可を申請した。"
+        },
+        {
+          "pattern": "obtain a permit",
+          "use": "必要な手続きを経て許可証・許可を取得する",
+          "example": "The company obtained a permit to operate the facility.",
+          "translation": "会社はその施設を運営するための許可を取得した。"
+        },
+        {
+          "pattern": "issue a permit",
+          "use": "行政機関などが許可証を正式に交付する",
+          "example": "The local authority issued the permit last month.",
+          "translation": "地方当局は先月、その許可証を交付した。"
+        },
+        {
+          "pattern": "renew a permit",
+          "use": "既存の許可を更新する。",
+          "example": "She renewed her parking permit online.",
+          "translation": "彼女はオンラインで駐車許可証を更新した。"
+        },
+        {
+          "pattern": "revoke a permit",
+          "use": "違反などを理由に、交付済みの許可を正式に取り消す",
+          "example": "The agency may revoke the permit if the operator violates the regulations.",
+          "translation": "運営者が規則に違反した場合、当局は許可を取り消すことができる。"
+        },
+        {
+          "pattern": "a work permit",
+          "use": "外国人などに一定の条件で就労を認める公的な許可",
+          "example": "She cannot begin work until her work permit is issued.",
+          "translation": "彼女は就労許可証が交付されるまで働き始めることができない。"
+        },
+        {
+          "pattern": "a residence permit",
+          "use": "外国人に一定期間の居住を認める公的な許可証",
+          "example": "His residence permit is valid for two years.",
+          "translation": "彼の居住許可証は2年間有効である。"
+        },
+        {
+          "pattern": "a building permit",
+          "use": "建物の新築・改修などを認める行政上の許可証",
+          "example": "The developer has not yet received a building permit.",
+          "translation": "その開発業者はまだ建築許可を受けていない。"
+        },
+        {
+          "pattern": "a parking permit",
+          "use": "指定区域・施設での駐車を認める許可証",
+          "example": "Residents can purchase an annual parking permit.",
+          "translation": "住民は年間駐車許可証を購入できる。"
+        },
+        {
+          "pattern": "a permit to do something",
+          "use": "特定の活動を行うために必要な許可・許可証を示す",
+          "example": "We need a permit to film inside the station.",
+          "translation": "駅構内で撮影するには許可が必要だ。"
+        },
+        {
+          "pattern": "a permit for doing something",
+          "use": "許可対象の活動を for -ing で表す。",
+          "example": "We obtained a permit for collecting samples in the reserve.",
+          "translation": "私たちは保護区で試料を採取するための許可を得た。"
+        }
+      ],
+      "notes": [
+        "可算なので ×You need permit. は ○You need a permit.。一般的な permission「許可」は不可算で、get permission とする。apply for a permit は申請しただけで、obtain／be granted a permit は許可を得たことを示す。申請だけで行為を開始できるかどうかは別問題。permit と licence／license の正式名称・効力は制度によるため、「前者は一時的、後者は恒久的」と決めつけない。名詞の綴りは通常、英 licence／米 license。米語の learner’s permit は運転を練習するための許可で、英国の provisional driving licence とそのまま同じ制度ではない。building permit は特に北米で一般的。イングランドでは planning permission と building regulations approval は異なる手続きであり、日本語の「建築許可」一語から同一視しない。名詞は通常第1音節、動詞は第2音節に強勢を置く。"
+      ],
+      "synonyms": [
+        {
+          "word": "licence／license",
+          "definition": "特定の活動、営業、運転、専門業務などを行う資格を公的に認める免許・認可",
+          "frequency": 8,
+          "difference": "公的な免許・認可という点で重なるが、名称と効力は法域・活動による。継続性だけで一律に区別できない。",
+          "example": "You need a licence to drive a taxi.",
+          "translation": "タクシーを運転するには免許が必要だ。"
+        },
+        {
+          "word": "authorization",
+          "definition": "行為を行う正式な権限・認可",
+          "frequency": 7,
+          "difference": "permit のような具体的な許可証に限らず、組織内の権限付与、決済承認、情報利用の認可なども表す。",
+          "example": "Written authorization is required to access the files.",
+          "translation": "そのファイルにアクセスするには書面による認可が必要である。"
+        },
+        {
+          "word": "permission",
+          "definition": "人が行為をすることを認められている状態・許可",
+          "frequency": 9,
+          "difference": "原則不可算で、許可そのものを広く表す。permit は通常、個別に発行された可算の公式許可または許可証を表す。",
+          "example": "You need permission from the owner to enter the property.",
+          "translation": "その土地に入るには所有者の許可が必要だ。"
+        },
+        {
+          "word": "pass",
+          "definition": "特定の場所への入場・通行を認める券、カード、証明書",
+          "frequency": 8,
+          "difference": "permit より対象が狭く、主に場所への入場・通行や交通機関の利用を認める物を指す。活動全般の行政許可には通常使わない。",
+          "example": "You must show your pass at the security gate.",
+          "translation": "保安ゲートで通行証を提示しなければならない。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞・他動詞】可能にする・余地を与える",
       "frequency": 6,
       "register": [
         "中立～ややフォーマル。説明文、ビジネス、技術文書、予定・条件を述べる表現で多い。weather permitting など一部は日常的な定型表現である。"
       ],
-      "definition": "時間、天候、予算、空間、設計、健康状態などの条件が、ある行為や結果を可能にすることを表す。許可を与える意思主体は存在せず、「条件が妨げない」「実行できる余地がある」という意味になる。日本語では「許す」「可能にする」「余裕がある」「都合がつく」など、主語に応じて訳し分ける。",
+      "definition": "時間・空間・設備・設計などの条件が、行為や結果を実現できる状態にする。人が承認を出すのではなく、条件上できるという意味。実際にその機会が利用されたことまでは表さない。",
       "patterns": [
-        "something permits + O＝条件・設計などが物事を可能にする",
-        "something permits + someone/something + to do＝条件・設備などによって人・物が～できる",
-        "if + something + permits＝時間・事情などが許せば",
-        "名詞 + permitting＝～が許せば。独立分詞構文",
-        "as far as time/circumstances permit＝時間・事情が許す限り",
-        "time permits、circumstances permit では「時間・事情に余裕がある」という自動詞用法になる"
+        "〈条件・設備〉 + permit something＝行為・結果を可能にする",
+        "〈条件・設備〉 + permit someone/something to do something＝人・物が行為・変化をできるようにする",
+        "〈条件〉 + permit doing something＝行為を行う余地を与える"
+      ],
+      "collocations": [
+        {
+          "pattern": "permit easy access to something",
+          "use": "設計や構造が、場所・設備などへ容易にアクセスできるようにする",
+          "example": "The removable panel permits easy access to the battery.",
+          "translation": "取り外し可能なパネルにより、バッテリーへ簡単にアクセスできる。"
+        },
+        {
+          "pattern": "permit someone to do something",
+          "use": "設備が人に能力・手段を与える。",
+          "example": "The remote-control system permits operators to inspect the tank without entering it.",
+          "translation": "遠隔操作システムにより、作業者はタンク内に入らずに点検できる。"
+        },
+        {
+          "pattern": "permit further expansion",
+          "use": "設計、土地、予算などに将来の拡張余地があることを示す",
+          "example": "The current design permits further expansion of the system.",
+          "translation": "現在の設計では、システムをさらに拡張することが可能である。"
+        },
+        {
+          "pattern": "permit something to do something",
+          "use": "構造が物の動き・変化を可能にする。",
+          "example": "The hinge permits the lid to open fully.",
+          "translation": "その蝶番によって、ふたを完全に開けられる。"
+        },
+        {
+          "pattern": "permit doing something",
+          "use": "予算・時間などの条件が行為の余地を与える。",
+          "example": "Our budget does not permit hiring another engineer this year.",
+          "translation": "今年の予算では、技術者をもう一人雇う余裕がない。"
+        }
+      ],
+      "notes": [
+        "語義1の The manager permits us to work here. は責任者の許可、The lighting permits us to work here at night. は照明という条件が可能にすること。同じ permit someone to do でも主語・文脈で意味が変わる。機能・手段を積極的に与える例にも使えるので、「permit は障害がないだけ、enable だけが能力を与える」と厳密に二分しない。目的語のない if time permits と weather permitting は語義4の構造。"
+      ],
+      "synonyms": [
+        {
+          "word": "allow",
+          "definition": "条件、時間、設計などが物事を可能にする",
+          "frequency": 10,
+          "difference": "permit より一般的で、会話でも文章でも広く使える。条件が可能にする意味でも permit より頻度が高い。",
+          "example": "The new system allows users to update their details online.",
+          "translation": "新しいシステムでは、利用者がオンラインで自分の情報を更新できる。"
+        },
+        {
+          "word": "enable",
+          "definition": "必要な手段・能力・条件を与えて、行為を可能にする",
+          "frequency": 8,
+          "difference": "実現のための手段・能力を与えることが中心。permit も設備が実現を可能にする場面に使えるが、許可という意味にも広がる。",
+          "example": "This feature enables customers to track their orders.",
+          "translation": "この機能により、顧客は注文を追跡できる。"
+        },
+        {
+          "word": "afford",
+          "definition": "状況、場所、制度などが機会、可能性、利点を与える",
+          "frequency": 6,
+          "difference": "「金銭的余裕がある」の意味とは別に、機会・保護・眺望などを提供するフォーマルな用法があり、条件が可能性を与える permit と重なる。",
+          "example": "The location affords easy access to public transportation.",
+          "translation": "その立地からは公共交通機関を利用しやすい。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "prevent",
+          "definition": "物事が起こること、または人が行為をすることを妨げる",
+          "frequency": 9,
+          "difference": "条件が可能にする permit と、「条件・原因が実現を阻止する」という方向で直接対立する。prevent someone from doing の形を取る。",
+          "example": "Heavy snow prevented us from reaching the village.",
+          "translation": "大雪のため、私たちはその村に到達できなかった。"
+        },
+        {
+          "word": "preclude",
+          "definition": "条件や事実によって、ある可能性をあらかじめ排除する",
+          "frequency": 5,
+          "difference": "permit より硬い反対語で、単なる妨害ではなく「可能性を成立させない」ことを表す。preclude something または preclude someone from doing を取る。",
+          "example": "His injury precluded him from competing in the final.",
+          "translation": "けがのため、彼は決勝に出場できなかった。"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "【動詞・自動詞】都合が許す",
+      "frequency": 7,
+      "register": [
+        "一般的な予定・案内。やや改まった表現。"
+      ],
+      "definition": "時間・天候・事情などが、文脈で分かる予定を実行できる状態である。条件節や独立分詞構文で「～が許せば・～の都合がつけば」と述べることが多い。",
+      "patterns": [
+        "if time permits",
+        "if the weather permits＝条件がよければ",
+        "time permitting",
+        "weather permitting＝独立分詞構文による条件",
+        "circumstances permitting＝事情が許せば",
+        "as far as circumstances permit＝事情が許す限り"
       ],
       "collocations": [
         {
@@ -329,115 +508,35 @@
           "use": "現実の条件が可能にする最大限の範囲を示す",
           "example": "We will accommodate individual requests as far as circumstances permit.",
           "translation": "事情が許す限り、個別の要望に対応します。"
-        },
-        {
-          "pattern": "permit easy access to something",
-          "use": "設計や構造が、場所・設備などへ容易にアクセスできるようにする",
-          "example": "The removable panel permits easy access to the battery.",
-          "translation": "取り外し可能なパネルにより、バッテリーへ簡単にアクセスできる。"
-        },
-        {
-          "pattern": "permit someone to do something",
-          "use": "設備、時間、予算、状況などが、人に行為を可能にする",
-          "example": "The flexible schedule permits employees to work from home twice a week.",
-          "translation": "柔軟な勤務日程により、従業員は週2回在宅勤務ができる。"
-        },
-        {
-          "pattern": "permit further expansion",
-          "use": "設計、土地、予算などに将来の拡張余地があることを示す",
-          "example": "The current design permits further expansion of the system.",
-          "translation": "現在の設計では、システムをさらに拡張することが可能である。"
         }
       ],
       "notes": [
-        "この意味では、permit の主語は人や規則ではなく、time、weather、circumstances、budget、space、design、technology などの条件・資源になる。",
-        "「天候が許せば」は if the weather permits または weather permitting とする。weather permitted は過去の特定の状況を除き、条件表現としては使わない。",
-        "名詞 + permitting は独立分詞構文で、その名詞が permit の意味上の主語となる。weather permitting は「天候を許可する」ではなく「天候が許せば」である。",
-        "permit は can や make possible よりフォーマルで、条件・構造上の可能性を客観的に説明する響きがある。",
-        "人を主語にして「都合がつく」と言う場合、日常会話では If I can や If I have time のほうが一般的である。If I permit では「私が許可すれば」という別の意味になる。"
+        "weather permitting は weather が permitting の意味上の主語で、「天候を許可する」という他動詞構文ではない。主節の主語とは別の独立分詞構文なので、Weather permitting, we will leave tomorrow. と言える。通常の未来の条件は if the weather permits と現在形を使う。weather permitted と過去分詞にするとこの定型条件にならない。人を主語にした if I permit は「私が許可すれば」であり、「私の都合がつけば」なら if I can／if I have time。"
       ],
       "synonyms": [
         {
           "word": "allow",
-          "definition": "条件、時間、設計などが物事を可能にする",
-          "frequency": 10,
-          "difference": "permit より一般的で、会話でも文章でも広く使える。条件が可能にする意味でも permit より頻度が高い。",
-          "example": "The new system allows users to update their details online.",
-          "translation": "新しいシステムでは、利用者がオンラインで自分の情報を更新できる。"
-        },
-        {
-          "word": "enable",
-          "definition": "必要な手段・能力・条件を与えて、行為を可能にする",
+          "definition": "時間・事情が実行の余地を与える。",
           "frequency": 8,
-          "difference": "permit が障害や制限がないことを示すのに対し、enable は実現に必要な能力・機能を積極的に提供することに焦点がある。",
-          "example": "This feature enables customers to track their orders.",
-          "translation": "この機能により、顧客は注文を追跡できる。"
-        },
-        {
-          "word": "make possible",
-          "definition": "ある行為や結果を実現可能にする",
-          "frequency": 9,
-          "difference": "permit より意味が直接的で、形式張らず幅広い文脈で使える。make it possible to do または make something possible の形を取る。",
-          "example": "Advances in medicine made the treatment possible.",
-          "translation": "医学の進歩によって、その治療が可能になった。"
-        },
-        {
-          "word": "afford",
-          "definition": "状況、場所、制度などが機会、可能性、利点を与える",
-          "frequency": 6,
-          "difference": "「金銭的余裕がある」の意味とは別に、機会・保護・眺望などを提供するフォーマルな用法があり、条件が可能性を与える permit と重なる。",
-          "example": "The location affords easy access to public transportation.",
-          "translation": "その立地からは公共交通機関を利用しやすい。"
+          "difference": "条件主語の if time allows などで近い。permit はやや改まった響き。",
+          "example": "We will add another session if time allows.",
+          "translation": "時間が許せば、もう一回セッションを設けます。"
         }
       ],
-      "antonyms": [
-        {
-          "word": "prevent",
-          "definition": "物事が起こること、または人が行為をすることを妨げる",
-          "frequency": 9,
-          "difference": "条件が可能にする permit と、「条件・原因が実現を阻止する」という方向で直接対立する。prevent someone from doing の形を取る。",
-          "example": "Heavy snow prevented us from reaching the village.",
-          "translation": "大雪のため、私たちはその村に到達できなかった。"
-        },
-        {
-          "word": "preclude",
-          "definition": "条件や事実によって、ある可能性をあらかじめ排除する",
-          "frequency": 5,
-          "difference": "permit より硬い反対語で、単なる妨害ではなく「可能性を成立させない」ことを表す。preclude something または preclude someone from doing を取る。",
-          "example": "His injury precluded him from competing in the final.",
-          "translation": "けがのため、彼は決勝に出場できなかった。"
-        },
-        {
-          "word": "rule out",
-          "definition": "可能性、選択肢、原因などを検討対象から除外する",
-          "frequency": 8,
-          "difference": "permit が可能性を残すのに対し、rule out は判断や条件によってその可能性を排除する。分離可能で、代名詞目的語は rule it out とする。",
-          "example": "The cost rules out any further expansion.",
-          "translation": "費用の問題により、これ以上の拡張は不可能である。"
-        },
-        {
-          "word": "hinder",
-          "definition": "行為や進展を妨げ、より困難にする",
-          "frequency": 6,
-          "difference": "permit と程度上の反対方向にあるが、完全に不可能にするとは限らない。実行を遅らせたり困難にしたりすることを表す。",
-          "example": "Poor visibility hindered the rescue operation.",
-          "translation": "視界不良が救助活動を妨げた。"
-        }
-      ]
+      "antonyms": []
     },
     {
-      "number": 3,
-      "title": "【動詞・自動詞＋前置詞】3. permit of something：～の余地がある、～を許容する",
+      "number": 5,
+      "title": "【動詞・自動詞＋前置詞】permit of：～の余地がある",
       "frequency": 2,
       "register": [
-        "非常にフォーマルで、現代では低頻度。法律文、学術文、古風な文章などで見られる。通常の会話では allow、admit of、leave room for などへの言い換えが自然である。"
+        "非常にフォーマルで、現代では低頻度。法律文、学術文、古風な文章などで見られる。通常の会話では allow、leave room for などへの言い換えが自然である。"
       ],
       "definition": "ある状況、問題、説明などが、特定の対応・解釈・可能性を受け入れる余地を持つことを表す。特に permit of no delay、permit of no doubt、permit of only one interpretation のように、no、little、only などとともに「それ以外の余地がない」と述べる場合に使われる。",
       "patterns": [
-        "permit of + 名詞＝～を許容する、～の余地がある",
-        "permit of no + 名詞＝～をまったく許さない、～の余地がない",
-        "permit of only one + 名詞＝一つの～しか許容しない",
-        "この permit は自動詞であり、of を省略した permit no delay とは構造が異なる"
+        "something + permit of something＝対応・解釈などを許容する",
+        "something + permit of no 〈名詞〉＝余地を認めない",
+        "something + permit of only one 〈単数名詞〉＝一つだけ可能にする"
       ],
       "collocations": [
         {
@@ -466,9 +565,7 @@
         }
       ],
       "notes": [
-        "permit of は、通常の「人に～を許可する」という permit someone to do とは異なる、フォーマルで低頻度の前置詞動詞である。",
-        "of の後ろには名詞または名詞句を置く。permit of doing も文法上可能な場合があるが、現代では別の構文に言い換えるほうが一般的である。",
-        "日常的な「遅れることを許可しない」は do not permit delays などとする。permit of no delay は「状況の性質上、遅延の余地がない」という客観的・修辞的な表現である。"
+        "of は前置詞で、permit of it のように目的語を後ろに置き、分離しない。物事の性質が何を許容するかを述べる形式的・低頻度の表現で、人への許可 permit someone to do とは違う。permit no delay と permit of no delay は似た内容になり得るが、前者は直接目的語、後者は of の目的語で構造が異なる。必ず否定文になるわけではなく、permit of several explanations も可能。"
       ],
       "synonyms": [
         {
@@ -506,14 +603,6 @@
           "translation": "その文言は、ほかの解釈の可能性を排除している。"
         },
         {
-          "word": "exclude",
-          "definition": "可能性、解釈、対象などを範囲から除外する",
-          "frequency": 8,
-          "difference": "permit of が可能性を受け入れるのに対し、exclude はその可能性を範囲外に置く。文脈によっては完全な排除にも部分的な限定にもなる。",
-          "example": "The evidence does not exclude the possibility of human error.",
-          "translation": "その証拠は、人為的ミスの可能性を排除するものではない。"
-        },
-        {
           "word": "rule out",
           "definition": "可能性・解釈などを検討対象から完全に除く",
           "frequency": 8,
@@ -524,159 +613,17 @@
       ]
     },
     {
-      "number": 4,
-      "title": "【名詞・可算】4. 許可証、認可証、許可書",
-      "frequency": 7,
-      "register": [
-        "中立～フォーマル。行政、法律、移民、雇用、建築、交通、環境規制、施設管理などで広く使われる。permit の具体的な種類や自然さには国・地域の制度差がある。"
-      ],
-      "definition": "行政機関、会社、学校、施設などが、特定の活動、立ち入り、居住、就労、建設、駐車、所有などを正式に認めたことを示す文書、カード、標章または電子的な証明。文書そのものだけでなく、それによって与えられる個別の公的許可を指すこともある。permission が「許可という抽象的な事実」を表すのに対し、permit は通常、個別に発行・付与される可算の許可またはその証明を表す。",
-      "patterns": [
-        "a permit＝1通・1件の許可証、個別の許可",
-        "a permit for + 名詞／動名詞＝～に関する、または～するための許可証",
-        "a permit to do＝～するための許可、許可証",
-        "a permit from + 機関＝機関から交付された許可証",
-        "apply for a permit＝許可証を申請する",
-        "issue/grant a permit＝許可証・許可を交付する",
-        "obtain/secure a permit＝許可証・許可を取得する",
-        "renew a permit＝許可証を更新する",
-        "revoke/suspend a permit＝許可を取り消す／一時停止する",
-        "permit と permission の対比：a permit は可算の証明・個別許可／permission は原則不可算の許可"
-      ],
-      "collocations": [
-        {
-          "pattern": "apply for a permit",
-          "use": "行政機関などに許可証の交付を申請する",
-          "example": "You must apply for a permit before starting construction.",
-          "translation": "工事を始める前に許可証を申請しなければならない。"
-        },
-        {
-          "pattern": "obtain a permit",
-          "use": "必要な手続きを経て許可証・許可を取得する",
-          "example": "The company obtained a permit to operate the facility.",
-          "translation": "会社はその施設を運営するための許可を取得した。"
-        },
-        {
-          "pattern": "issue a permit",
-          "use": "行政機関などが許可証を正式に交付する",
-          "example": "The local authority issued the permit last month.",
-          "translation": "地方当局は先月、その許可証を交付した。"
-        },
-        {
-          "pattern": "renew a permit",
-          "use": "有効期限が近い許可証を更新する",
-          "example": "Foreign workers must renew their permits before they expire.",
-          "translation": "外国人労働者は許可証の有効期限が切れる前に更新しなければならない。"
-        },
-        {
-          "pattern": "revoke a permit",
-          "use": "違反などを理由に、交付済みの許可を正式に取り消す",
-          "example": "The agency may revoke the permit if the operator violates the regulations.",
-          "translation": "運営者が規則に違反した場合、当局は許可を取り消すことができる。"
-        },
-        {
-          "pattern": "a work permit",
-          "use": "外国人などに一定の条件で就労を認める公的な許可",
-          "example": "She cannot begin work until her work permit is issued.",
-          "translation": "彼女は就労許可証が交付されるまで働き始めることができない。"
-        },
-        {
-          "pattern": "a residence permit",
-          "use": "外国人に一定期間の居住を認める公的な許可証",
-          "example": "His residence permit is valid for two years.",
-          "translation": "彼の居住許可証は2年間有効である。"
-        },
-        {
-          "pattern": "a building permit",
-          "use": "建物の新築・改修などを認める行政上の許可証",
-          "example": "The developer has not yet received a building permit.",
-          "translation": "その開発業者はまだ建築許可を受けていない。"
-        },
-        {
-          "pattern": "a parking permit",
-          "use": "指定区域・施設での駐車を認める許可証",
-          "example": "Residents can purchase an annual parking permit.",
-          "translation": "住民は年間駐車許可証を購入できる。"
-        },
-        {
-          "pattern": "a permit to do something",
-          "use": "特定の活動を行うために必要な許可・許可証を示す",
-          "example": "We need a permit to film inside the station.",
-          "translation": "駅構内で撮影するには許可が必要だ。"
-        }
-      ],
-      "notes": [
-        "permit は可算名詞なので、単数なら通常 a、the、所有格などの限定詞が必要である。",
-        "誤: You need permit.",
-        "正: You need a permit.",
-        "permission は通常不可算名詞である。",
-        "誤: We received a permission to enter.",
-        "正: We received permission to enter.",
-        "正: We received a permit to enter.",
-        "a permit to do は「～するための許可・許可証」、a permit for something は「～に関する許可証」を表す。",
-        "辞書には permit が単に「permission」を意味する用法も記載されているが、現代の一般的な学習用法では、抽象的な許可には permission、個別の公式許可・許可証には permit を使うのが安全である。",
-        "licence/license との使い分けは制度と地域による。イギリス英語では名詞 licence、動詞 license と綴り分ける。アメリカ英語では通常どちらも license。",
-        "一般に licence/license は運転、営業、専門資格など、継続的な資格・免許に使われやすく、permit は特定の行為・期間・場所に限定された許可に使われやすい。ただし明確な境界ではなく、正式名称は各国の制度に従う。",
-        "米国の learner’s permit は、正式な運転免許を取得する前の仮運転許可を指す。イギリスでは provisional driving licence という名称が一般的であり、制度用語をそのまま置換できない。",
-        "building permit は特に北米で一般的である。イギリスの都市計画上の許可には planning permission、建築規則上の承認には building regulations approval などが使われ、制度が同一とは限らない。"
-      ],
-      "synonyms": [
-        {
-          "word": "licence／license",
-          "definition": "特定の活動、営業、運転、専門業務などを行う資格を公的に認める免許・認可",
-          "frequency": 8,
-          "difference": "permit より継続的・制度的な資格に使われやすい。permit は期間・場所・行為が限定された個別の許可に多いが、正式な使い分けは制度による。",
-          "example": "You need a licence to drive a taxi.",
-          "translation": "タクシーを運転するには免許が必要だ。"
-        },
-        {
-          "word": "authorization",
-          "definition": "行為を行う正式な権限・認可",
-          "frequency": 7,
-          "difference": "permit のような具体的な許可証に限らず、組織内の権限付与、決済承認、情報利用の認可なども表す。",
-          "example": "Written authorization is required to access the files.",
-          "translation": "そのファイルにアクセスするには書面による認可が必要である。"
-        },
-        {
-          "word": "permission",
-          "definition": "人が行為をすることを認められている状態・許可",
-          "frequency": 9,
-          "difference": "原則不可算で、許可そのものを広く表す。permit は通常、個別に発行された可算の公式許可または許可証を表す。",
-          "example": "You need permission from the owner to enter the property.",
-          "translation": "その土地に入るには所有者の許可が必要だ。"
-        },
-        {
-          "word": "clearance",
-          "definition": "安全、機密、運航、行政などの確認を経て与えられる許可",
-          "frequency": 6,
-          "difference": "permit よりも、審査や確認を通過した結果として与えられる許可に焦点がある。security clearance、medical clearance、takeoff clearance などで使われる。",
-          "example": "The aircraft received clearance to take off.",
-          "translation": "その航空機は離陸許可を受けた。"
-        },
-        {
-          "word": "pass",
-          "definition": "特定の場所への入場・通行を認める券、カード、証明書",
-          "frequency": 8,
-          "difference": "permit より対象が狭く、主に場所への入場・通行や交通機関の利用を認める物を指す。活動全般の行政許可には通常使わない。",
-          "example": "You must show your pass at the security gate.",
-          "translation": "保安ゲートで通行証を提示しなければならない。"
-        }
-      ],
-      "antonyms": []
-    },
-    {
-      "number": 5,
-      "title": "【名詞・可算／魚類】5. permit：西大西洋に生息するアジ科の大型海水魚",
+      "number": 6,
+      "title": "【名詞・可算】パーミットという魚",
       "frequency": 1,
       "register": [
         "魚類学、釣り、海洋生物。一般英語では非常に低頻度で、地域・分野外では通常「許可証」と解釈される。"
       ],
-      "definition": "アジ科コバンアジ亜科に属する Trachinotus falcatus という海水魚。西大西洋の温帯～熱帯域に分布し、体高のある銀色の体と長く伸びた背びれ・尻びれを持つ。食用魚であるとともに、スポーツフィッシングの重要な対象として知られる。「マルコバン」とされる Trachinotus blochii とは別種である。",
+      "definition": "西大西洋に分布するアジ科の海水魚 Trachinotus falcatus。体高があり、銀色の体と長い背びれ・尻びれが特徴で、釣りの対象として知られる。「許可・許可証」とは別系統の語。",
       "patterns": [
-        "a permit＝1匹の permit",
-        "permit＝複数の個体、または集合的な permit",
-        "the permit＝魚種としての permit",
-        "魚名としての複数形は通常 permit であり、許可証の permits とは異なる"
+        "a permit＝一匹の魚",
+        "fish for permit＝この魚を狙って釣りをする",
+        "a school of permit＝魚の群れ"
       ],
       "collocations": [
         {
@@ -705,12 +652,18 @@
         }
       ],
       "notes": [
-        "魚名の permit は、「許可証」と同じく通常は第1音節に強勢を置くが、語源は異なる。",
-        "魚名では単数形と複数形が同形であり、one permit、several permit のように使う。",
-        "通常の文脈では permit は「許可証」と解釈されるため、魚の意味は釣りや海洋生物に関する文脈によって判断する。",
-        "Trachinotus falcatus は、日本で「マルコバン」と呼ばれる Trachinotus blochii とは別種であるため、「マルコバン」と訳すのは不正確である。"
+        "魚名では複数も permit とする用法が普通で、文脈により permits も見られる。許可証の複数形 permits とは意味を区別する。日本語では「パーミット」として扱い、別種の魚名を無条件に当てない。学名 Trachinotus falcatus を添えると特定できる。通常は名詞の第1音節に強勢を置く発音で、釣り・魚類の文脈から語義を判断する。"
       ],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "round pompano",
+          "definition": "パーミットを指す別名。",
+          "frequency": 1,
+          "difference": "同じ魚の別名として記録されるが、釣りなどでは permit が普通。pompano 単独は別種にも使うので、無条件の同義語にはしない。",
+          "example": "This species is also known as the round pompano.",
+          "translation": "この種は round pompano という別名でも知られる。"
+        }
+      ],
       "antonyms": []
     }
   ]
