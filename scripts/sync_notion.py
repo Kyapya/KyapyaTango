@@ -101,14 +101,15 @@ class NotionClient:
                 return pages
             cursor = data.get("next_cursor")
 
-    def page_markdown(self, page_id: str) -> str:
+    def page_markdown(self, page_id: str) -> tuple[str, bool]:
+        """Return page text and whether it uses Markdown punctuation escapes."""
         response = self.request("GET", f"/pages/{page_id}/markdown")
         if response.ok:
             data = response.json()
             markdown = data.get("markdown") or data.get("content") or ""
             if markdown:
-                return markdown
-        return blocks_to_markdown(self.block_tree(page_id))
+                return markdown, True
+        return blocks_to_markdown(self.block_tree(page_id)), False
 
     def block_tree(self, block_id: str) -> list[dict[str, Any]]:
         results: list[dict[str, Any]] = []
@@ -338,12 +339,14 @@ def main() -> int:
             continue
         try:
             existing = load_json(args.output / f"{safe_slug(word)}.json")
+            markdown, decode_literal_escapes = client.page_markdown(page["id"])
             entry = parse_dictionary_markdown(
-                client.page_markdown(page["id"]),
+                markdown,
                 word=word,
                 page_url=page.get("url", ""),
                 updated=page.get("last_edited_time", "")[:10],
                 existing=existing,
+                decode_literal_escapes=decode_literal_escapes,
             )
             validation = validate_entry(entry)
             if validation:
