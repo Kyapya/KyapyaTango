@@ -1,0 +1,359 @@
+{
+  "word": "cumulative",
+  "slug": "cumulative",
+  "ipa": "米・英: /ˈkjuː.mjə.lə.tɪv/。4音節で第1音節に主強勢を置く。米では第3音節を /leɪ/ とする /ˈkjuː.mjə.leɪ.tɪv/ も使われる。どちらも主強勢は第1音節で、示した二つの形の違いは第3音節の母音。",
+  "lead": "複数の出来事や働きが重なるにつれ、その影響や結果が蓄積していくこと。利益にも害にも使える。一回ごとの作用は小さくても、重なることで無視できなくなる場合に多いが、一回分が必ず小さいとは限らない。各回の作用を単純に足した数値と一致することまでは意味しない。",
+  "updated": "2026-10-17",
+  "notion_url": "https://app.notion.com/p/cumulative-3fc4faa9b77d8180befbd4f4d17c9fdd",
+  "pronunciation": [],
+  "etymology": [
+    "cumulate「積み重ねる」と同じ語族で、ラテン語 cumulare「山積みにする」、cumulus「積み重なり・塊」にさかのぼる。accumulate「蓄積する」と cumulus「積雲」も同じ語根を持つ。新しいものが以前の分に重なり、量・効果・範囲が増すというつながりがある。"
+  ],
+  "formation": [
+    {
+      "term": "cumulatively",
+      "description": "副詞「累積的に・累計で」。小さな効果をまとめて評価するときや、合計数量を示すときに使う。"
+    },
+    {
+      "term": "cumulate",
+      "description": "自動詞・他動詞「積み重なる・積み重ねる」。専門的で、一般には accumulate の方がよく使われる。"
+    },
+    {
+      "term": "non-cumulative / noncumulative",
+      "description": "形容詞「累積しない・非累積の」。配当や統計などで、何を累積しないのかを明示する。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "「前の分にさらに重ね、積み重なりとして扱う」。重ねる対象によって、効果、集計範囲、未払分、証拠、刑期になる。単に「大きい」ことではなく、先行する分との積み重なりがポイント。"
+    },
+    {
+      "type": "item",
+      "text": "前の分に重ねる、作用や影響 → 「積み重なって強まる・累積的な」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "前の分に重ねる、数量や収録範囲 → 「累計の・それまでの分を含む」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "前の分に重ねる、未払いの配当 → 「未払分が繰り越される・累積型の」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "前の分に重ねる、同じ点を示す証拠 → 「同じ点を重ねて立証する」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "前の分に重ねる、順に執行する刑期 → 「連続して執行される・累加的な」（語義5）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【形容詞：限定・叙述】積み重なって強まる・累積的な",
+      "frequency": 6,
+      "register": [
+        "一般・ビジネス・研究・環境。作用や長期的影響を説明する文章でよく使う。"
+      ],
+      "definition": "複数の出来事や働きが重なるにつれ、その影響や結果が蓄積していくこと。利益にも害にも使える。一回ごとの作用は小さくても、重なることで無視できなくなる場合に多いが、一回分が必ず小さいとは限らない。各回の作用を単純に足した数値と一致することまでは意味しない。",
+      "patterns": [
+        "the cumulative effect of 〈原因〉 on 〈対象〉＝～が～に及ぼす累積的効果",
+        "have a cumulative effect on 〈対象〉＝～に積み重なる影響を及ぼす",
+        "cumulative 〈damage/stress/benefits〉＝蓄積する損傷・ストレス・利益",
+        "〈作用・影響〉 + be cumulative＝効果が積み重なる。物事の性質を表すため、通常 very より、影響の大きさを別の語で示す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the cumulative effect of 〈原因〉 on 〈対象〉",
+          "use": "多数の出来事の重なりによる影響を示す。",
+          "example": "The report examines the cumulative effect of repeated delays on customer trust.",
+          "translation": "その報告書は、遅延の繰り返しが顧客の信頼に及ぼす累積的な影響を検討している。"
+        },
+        {
+          "pattern": "have a cumulative effect on 〈対象〉",
+          "use": "小さな行動などが積み重なって効いてくることを述べる。",
+          "example": "Short daily practice sessions can have a cumulative effect on your confidence.",
+          "translation": "毎日の短い練習でも、積み重なることで自信につながり得る。"
+        },
+        {
+          "pattern": "cumulative damage",
+          "use": "一度の事故でなく、反復する負荷などによる損傷を説明する。",
+          "example": "The inspection revealed cumulative damage from years of vibration.",
+          "translation": "点検によって、長年の振動で蓄積した損傷が見つかった。"
+        },
+        {
+          "pattern": "cumulative benefits",
+          "use": "改善の効果を積み重なりとして捉える。",
+          "example": "The cumulative benefits of these small changes became clear after six months.",
+          "translation": "これらの小さな変更が積み重なって生むメリットは、半年後にはっきりした。"
+        },
+        {
+          "pattern": "be cumulative",
+          "use": "効果が一回で完結せず積み重なることを述べる。",
+          "example": "The effect is cumulative, so a single test may not reveal the full impact.",
+          "translation": "効果は累積するため、1回の試験では影響の全体像が分からないことがある。"
+        }
+      ],
+      "notes": [
+        "cumulative effects は「蓄積した影響」、immediate effects は「直後の影響」という時間的な対照だが、直後に出る影響が繰り返し蓄積することもあるため、完全な反意語ではない。incremental improvements は改善を小さな段階で進めること、cumulative benefits はそれらを重ねた結果の利益を表す。cumulative と exponential「指数関数的な」は別で、積み重なりがあるだけで指数関数的増加になるわけではない。人そのものより、影響、作用、経験の重なりなどを主語・修飾対象にする。"
+      ],
+      "synonyms": [
+        {
+          "word": "accumulative",
+          "definition": "徐々に蓄積する・蓄積させる。",
+          "frequency": 3,
+          "difference": "意味は近いが、より硬く使用範囲も狭い。一般的な「累積的効果」には cumulative effect が定着している。",
+          "example": "The study examined the accumulative effects of repeated exposure.",
+          "translation": "その研究は繰り返しの曝露による蓄積的な影響を調べた。"
+        },
+        {
+          "word": "additive",
+          "definition": "複数の作用が足し合わされる。",
+          "frequency": 4,
+          "difference": "技術的には効果の加算関係を明確にする。cumulative は時間的な蓄積にも使い、単純な加算モデルまでは指定しない。",
+          "example": "In this model, the effects of the two factors are additive.",
+          "translation": "このモデルでは、二つの要因の効果は加算的である。"
+        },
+        {
+          "word": "progressive",
+          "definition": "時間とともに段階的に進む・強まる。",
+          "frequency": 6,
+          "difference": "進行・変化に重点があり、複数の寄与を積み重ねた結果である必要はない。",
+          "example": "The data show a progressive improvement in delivery times.",
+          "translation": "データは納期が段階的に改善していることを示している。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【形容詞：限定・叙述】累計の・それまでの分を含む",
+      "frequency": 6,
+      "register": [
+        "ビジネス・教育・統計・出版。cumulative exam は特に北米の教育文脈でよく見られる。"
+      ],
+      "definition": "ある時点・範囲までの個々の数量や内容をまとめて含むこと。売上などの累計、前の学習範囲を含む試験、以前の内容を取り込んだ索引などに使う。統計では、指定した値までの度数・確率を順に積み上げたものを表す。総量や範囲の説明であって、必ず強い影響を伴うわけではない。",
+      "patterns": [
+        "a cumulative total of 〈数量〉＝累計～",
+        "cumulative 〈sales/earnings〉＝累計売上・利益",
+        "cumulative 〈frequency/probability〉＝累積度数・累積確率",
+        "a cumulative exam＝それまでの学習内容を含む試験",
+        "〈試験・集計〉 + be cumulative＝前の範囲も含む。通常は分類的に使い、very cumulative のような程度修飾はしない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a cumulative total of 〈数量〉",
+          "use": "複数期間などを通算した量を示す。",
+          "example": "By September, the program had trained a cumulative total of 2,400 employees.",
+          "translation": "9月までに、その研修プログラムを修了した従業員は累計2,400人に達していた。"
+        },
+        {
+          "pattern": "cumulative sales",
+          "use": "特定月だけでなく、開始からの売上の合計を示す。",
+          "example": "Cumulative sales since the product launch have exceeded our annual target.",
+          "translation": "発売以来の累計売上は年間目標を上回っている。"
+        },
+        {
+          "pattern": "cumulative frequency",
+          "use": "統計の表で、一定の値までの件数を累積して示す。",
+          "example": "The cumulative frequency at ten minutes includes all deliveries completed in ten minutes or less.",
+          "translation": "10分の時点の累積度数には、10分以内に完了した配達がすべて含まれる。"
+        },
+        {
+          "pattern": "a cumulative exam",
+          "use": "直近の単元だけでなく、以前の範囲も含む試験を述べる。",
+          "example": "The course ends with a cumulative exam covering all six units.",
+          "translation": "その講座は、全6単元を範囲とする総合試験で終わる。"
+        },
+        {
+          "pattern": "be cumulative",
+          "use": "試験範囲などがそれまでの内容を含むことを確認する。",
+          "example": "The final assessment is cumulative, so keep your notes from the first week.",
+          "translation": "最終評価はそれまでの学習内容全体を対象とするので、第1週のノートも残しておいてください。"
+        }
+      ],
+      "notes": [
+        "monthly sales「月次売上」と cumulative sales「累計売上」を区別し、どこからどこまでの合計かを確認する。cumulative は「連続した」を必須としないため、a cumulative total of ten days は中断を挟む通算10日の場合もある。cumulative frequency は数値を順に積み上げることで、単なる各区分の frequency とは異なる。累積確率と、他の変数をまとめた marginal probability「周辺確率」も別。試験の場合の cumulative は「学習成果が徐々に増す」ではなく、「前に学んだ内容も出題範囲に入る」という意味。total と違い、以前の分を順に取り込んだことが明確になる。"
+      ],
+      "synonyms": [
+        {
+          "word": "aggregate",
+          "definition": "複数の数量を合計した。",
+          "frequency": 5,
+          "difference": "合計に重点があり、時系列に沿って積み上げた過程を前面に出さない。",
+          "example": "The aggregate revenue of the three divisions increased.",
+          "translation": "3部門を合計した売上高が増えた。"
+        },
+        {
+          "word": "total",
+          "definition": "全部を合わせた。",
+          "frequency": 9,
+          "difference": "最も一般的な合計の表現。cumulative のように、先行期間や以前の範囲を取り込んだことは必ずしも示さない。",
+          "example": "The total cost includes delivery and installation.",
+          "translation": "総費用には配送と設置が含まれる。"
+        },
+        {
+          "word": "running",
+          "definition": "新しい数字が加わるたびに更新される。",
+          "frequency": 5,
+          "difference": "running total のような結合で、集計を継続して更新することを強調する。cumulative exam には置き換えられない。",
+          "example": "Keep a running total of the expenses during the trip.",
+          "translation": "旅行中、費用が発生するたびに合計を更新してください。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【形容詞：限定・叙述】未払分が繰り越される・累積型の",
+      "frequency": 3,
+      "register": [
+        "金融・会社の開示資料。契約条件を読むための専門語。"
+      ],
+      "definition": "配当などが所定の時期に支払われなかった場合、その未払分が消滅せず、後の支払対象として蓄積する性質をいう。特に累積型優先株やその配当に使う。単に「過去の支払額を合計した」という語義2とは違い、未払分の扱いを定める分類。",
+      "patterns": [
+        "cumulative preferred stock＝累積型優先株",
+        "cumulative preference shares＝累積型優先株、特に英語圏の別の表記",
+        "cumulative dividends＝未払分が累積する配当",
+        "〈配当〉 + be cumulative＝未払分が繰り越される。通常は程度比較をしない分類形容詞。"
+      ],
+      "collocations": [
+        {
+          "pattern": "cumulative preferred stock",
+          "use": "優先株の配当条件を読む。",
+          "example": "The prospectus states that the company may issue cumulative preferred stock.",
+          "translation": "目論見書には、会社が累積型優先株を発行できると記されている。"
+        },
+        {
+          "pattern": "cumulative preference shares",
+          "use": "preference shares という名称を使う文書で株式の種類を確認する。",
+          "example": "The annual report lists the dividend terms for the cumulative preference shares.",
+          "translation": "年次報告書には、その累積型優先株の配当条件が記載されている。"
+        },
+        {
+          "pattern": "be cumulative",
+          "use": "配当が未払いでも後に繰り越されることを示す。",
+          "example": "The dividends are cumulative, so unpaid amounts carry forward under the stated terms.",
+          "translation": "配当は累積型であるため、未払額は定められた条件に従って繰り越される。"
+        }
+      ],
+      "notes": [
+        "cumulative は定期的な現金支払いや投資元本を保証する語ではない。累積型優先株では、普通株への配当に先立って未払優先配当を処理する条件が一般的だが、支払時期・優先順位・利息の有無などは発行条件を確認する。未払配当が蓄積することと、その未払配当にさらに利息が付く compounding は別。累計配当額という一般的な集計なら語義2であり、どちらかは文書の定義と文脈で判断する。"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "non-cumulative",
+          "definition": "所定の期に支払われなかった配当が後の期に累積しない。",
+          "frequency": 3,
+          "difference": "未払配当を繰り越すかどうかという分類上の反対。株式の安全性全体を比較する語ではない。",
+          "example": "The company issued non-cumulative preferred shares.",
+          "translation": "その会社は非累積型優先株を発行した。"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "【形容詞：限定・叙述】同じ点を重ねて立証する",
+      "frequency": 3,
+      "register": [
+        "主に法律・訴訟。一般の cumulative evidence では、証拠を合わせた説得力という語義1の読みもある。"
+      ],
+      "definition": "すでに示された事実・争点を、さらに同種の証拠などで重ねて示すこと。法律文脈では、追加の証拠が新しい争点を示すのではなく、既存の証拠と立証内容が重なる点に焦点がある。重複が有用な補強になる場合も、不要な繰り返しになる場合もある。",
+      "patterns": [
+        "cumulative evidence＝同じ点を重ねて立証する証拠",
+        "cumulative testimony＝既出の内容を重ねる証言",
+        "〈証拠・証言〉 + be merely cumulative＝新たな内容ではなく単に重複的である。"
+      ],
+      "collocations": [
+        {
+          "pattern": "cumulative evidence",
+          "use": "訴訟で、立証内容が既出の証拠と重なることを示す。",
+          "example": "The lawyer argued that calling a sixth witness would only add cumulative evidence about the same conversation.",
+          "translation": "弁護士は、6人目の証人を呼んでも同じ会話に関する証拠を重ねるだけだと主張した。"
+        },
+        {
+          "pattern": "be merely cumulative",
+          "use": "証拠の追加が新たな点を示さないと評価する。",
+          "example": "The judge considered whether the proposed testimony was merely cumulative.",
+          "translation": "裁判官は、予定されている証言が単に既出の証言を重ねるだけかどうかを検討した。"
+        }
+      ],
+      "notes": [
+        "cumulative evidence が常に排除されるわけではない。例えば米連邦証拠規則403は、不要な重複提示などの危険と証拠価値の比較を定めており、「累積的だから自動的に不可」という規則ではない。corroborative evidence は別の証拠を裏づける機能に焦点を置くため、cumulative と同一ではない。語義1の the cumulative effect of the evidence は「証拠全体を重ねた効果」であり、同種証拠の重複というこの語義と区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "repetitive",
+          "definition": "同じ内容を繰り返す。",
+          "frequency": 6,
+          "difference": "一般語で、退屈・冗長という評価を含みやすい。cumulative は立証内容の重なりを述べる法的な用語にもなる。",
+          "example": "The judge asked counsel to avoid repetitive questions.",
+          "translation": "裁判官は弁護士に、同じことを繰り返し尋ねないよう求めた。"
+        },
+        {
+          "word": "redundant",
+          "definition": "他の内容と重なり、追加する必要がない。",
+          "frequency": 6,
+          "difference": "不要だという評価を含む。cumulative な証拠が必ず redundant とは限らない。",
+          "example": "The editor removed a redundant paragraph.",
+          "translation": "編集者は重複して不要な段落を削除した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【形容詞：限定・叙述】連続して執行される・累加的な",
+      "frequency": 2,
+      "register": [
+        "法律。一般には consecutive sentences の方が分かりやすい。"
+      ],
+      "definition": "複数の刑期について、前の刑期に続けて次の刑期を執行し、期間を積み重ねること。同時並行で執行する場合と区別する。具体的な判決・執行方法は各法域と適用法による。",
+      "patterns": [
+        "cumulative sentences＝順に執行される刑期",
+        "〈複数の刑期〉 + be cumulative＝刑期が積み重ねられる。通常は分類的で程度比較をしない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "cumulative sentences",
+          "use": "期間を同時に数えず、順に執行することを示す。",
+          "example": "The judgment imposed cumulative sentences, with the second term to begin after the first ended.",
+          "translation": "判決は刑期を連続して執行し、第1の刑期が終わった後に第2の刑期が始まるものとした。"
+        },
+        {
+          "pattern": "be cumulative",
+          "use": "複数の刑期の関係を明示する。",
+          "example": "The court specified that the two prison terms would be cumulative, not concurrent.",
+          "translation": "裁判所は、二つの拘禁刑の期間を同時ではなく、連続して執行すると明示した。"
+        }
+      ],
+      "notes": [
+        "sentence はここでは「文」ではなく「刑・刑期」。cumulative sentence は一般の作文での用語と混同しない。刑罰の文書に出る cumulative punishment は、複数の処罰を重ねるというより広い議論にも使われるため、常に刑期の連続執行だけに訳を固定しない。制度をまたいで日本法の特定の処理と一対一対応すると考えず、何がどの順で執行されるのかを確認する。"
+      ],
+      "synonyms": [
+        {
+          "word": "consecutive",
+          "definition": "刑期が一つの終了後に続けて執行される。",
+          "frequency": 4,
+          "difference": "この法的意味ではほぼ同義で、刑期の時間的な順序を直接示す。一般語では「連続した」という広い意味もある。",
+          "example": "The court imposed two consecutive prison sentences.",
+          "translation": "裁判所は連続して執行される二つの拘禁刑を言い渡した。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "concurrent",
+          "definition": "複数の刑期が同時並行で執行される。",
+          "frequency": 4,
+          "difference": "刑期の執行が重なるか、順に積み重なるかという同一軸上の反対。",
+          "example": "The court ordered the sentences to run concurrently.",
+          "translation": "裁判所は各刑期を同時並行で執行するよう命じた。"
+        }
+      ]
+    }
+  ]
+}
