@@ -1,0 +1,221 @@
+{
+  "word": "merger",
+  "slug": "merger",
+  "ipa": "米: /ˈmɝː.dʒɚ/｜英: /ˈmɜː.dʒə/",
+  "lead": "二つ以上の企業や組織が一つの組織にまとまること、またはその個別の取引・出来事。企業だけでなく、大学、団体、政党などにも使う。実務では一方の組織が他方を吸収する場合にも使われるため、双方が同じ規模であることや、新しい法人を必ず設立することは意味しない。",
+  "updated": "2026-10-17",
+  "notion_url": "https://app.notion.com/p/merger-3fc4faa9b77d815d9a9ec1517c4ba9e9",
+  "pronunciation": [
+    "2音節で、主強勢は第1音節。ここに示した米英の違いは、第1音節の母音 /ɝː/ と /ɜː/、第2音節の /ɚ/ と /ə/。米語では両音節に r の響きがある。英語の r を発音しない型でも、母音が続く merger agreement などでは語末の r がつながって発音されることがある。第2音節は /dʒ/ で始まる。"
+  ],
+  "etymology": [
+    "アングロ・ノルマン語の merger という動詞を名詞として用いた形に由来し、merge「一つになる・一つにする」と同じ系統。さらにラテン語 mergere「沈める」にさかのぼる。submerge「水中に沈める」、emerge「現れる」も同じ語根を持つ。現代の merger は「何かが沈む」ことではなく、別々だったものが一つになることを表す。語末の -er は teacher のような「～する人」の意味ではない。"
+  ],
+  "formation": [
+    {
+      "term": "merge",
+      "description": "自動詞「合併する・一つになる」、他動詞「合併させる・まとめる」。A merges with B と merge A with B を区別する。"
+    },
+    {
+      "term": "demerger",
+      "description": "可算・不可算名詞「企業分割」。特に英語圏の企業報道で、事業を別の企業として分離することを指す。"
+    },
+    {
+      "term": "post-merger",
+      "description": "形容詞「合併後の」。post-merger integration のように、合併が成立した後の業務や組織の統合作業を表す。"
+    }
+  ],
+  "core": [],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算／不可算】合併・組織の統合",
+      "frequency": 7,
+      "register": [
+        "ビジネス、経済報道、組織運営。合併の話題では標準的な語。法制度上の merger の具体的な成立方法は、法域と組織形態による。"
+      ],
+      "definition": "二つ以上の企業や組織が一つの組織にまとまること、またはその個別の取引・出来事。企業だけでなく、大学、団体、政党などにも使う。実務では一方の組織が他方を吸収する場合にも使われるため、双方が同じ規模であることや、新しい法人を必ず設立することは意味しない。",
+      "patterns": [
+        "a merger between A and B＝A と B の合併",
+        "the merger of A and B＝A と B が一つになること",
+        "A's merger with B＝A の B との合併",
+        "propose a merger＝合併を提案する",
+        "approve/block a merger＝合併を承認する・阻止する",
+        "a merger goes through＝合併が実現する",
+        "a merger agreement＝合併契約",
+        "merger talks＝合併交渉",
+        "mergers and acquisitions＝合併・買収。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a merger between A and B",
+          "use": "合併の当事者を双方並べて述べる。",
+          "example": "A merger between the two regional banks would expand their branch network.",
+          "translation": "その二つの地方銀行が合併すれば、支店網が拡大する。"
+        },
+        {
+          "pattern": "the merger of A and B",
+          "use": "二組織が一つになることを名詞句で表す。",
+          "example": "The merger of the two colleges created a larger research institution.",
+          "translation": "二つの大学の合併によって、より大きな研究機関が生まれた。"
+        },
+        {
+          "pattern": "A's merger with B",
+          "use": "一方の組織を話題の中心にして、合併相手を with で示す。",
+          "example": "The charity's merger with a national organization increased its administrative capacity.",
+          "translation": "その慈善団体は全国組織と合併し、事務処理能力が高まった。"
+        },
+        {
+          "pattern": "approve a merger",
+          "use": "合併に必要な社内承認や当局の承認を述べる。",
+          "example": "Shareholders approved the merger at a special meeting.",
+          "translation": "株主は臨時総会で合併を承認した。"
+        },
+        {
+          "pattern": "block a merger",
+          "use": "計画された合併を止める措置を述べる。",
+          "example": "The regulator sought to block the merger over competition concerns.",
+          "translation": "規制当局は競争上の懸念から、その合併の阻止を求めた。"
+        },
+        {
+          "pattern": "a merger goes through",
+          "use": "予定・交渉段階の合併が実際に成立することを表す。",
+          "example": "If the merger goes through, the companies will operate under a single name.",
+          "translation": "合併が成立すれば、両社は一つの社名で事業を行う。"
+        },
+        {
+          "pattern": "merger talks",
+          "use": "合併をめぐる交渉が進んでいる段階を述べる。",
+          "example": "Merger talks ended without an agreement on valuation.",
+          "translation": "合併交渉は、企業価値の評価で合意できないまま終了した。"
+        },
+        {
+          "pattern": "mergers and acquisitions",
+          "use": "合併と買収を、企業再編に関わる活動としてまとめる。",
+          "example": "The firm has a team specializing in mergers and acquisitions.",
+          "translation": "その会社には、合併・買収を専門とするチームがある。"
+        }
+      ],
+      "notes": [
+        "具体的な一件には a merger、複数なら mergers を使う。by merger「合併によって」のように手段・活動一般を述べる場合には無冠詞にもなる。名詞なので We mergered. とはせず、動詞で We merged. と言う。相手を示す基本形は a merger with B で、a merger to B ではない。merger は一つの組織になること、acquisition は企業や資産を取得することに焦点を当てる。同じ案件が両方の観点で説明されることもある。「対等で友好的な合併」と限定したいなら a merger of equals などの追加表現が必要で、merger 単独では保証されない。a joint venture は共同事業であり、参加企業が一つになるとは限らない。合併の発表、契約締結、株主承認、当局の審査、成立は別の段階なので、announced と completed を同じ意味にしない。"
+      ],
+      "synonyms": [
+        {
+          "word": "amalgamation",
+          "definition": "複数の組織を一つにまとめること。",
+          "frequency": 5,
+          "difference": "merger と近いが、より改まった語感があり、団体や自治体などにもよく使う。法令内の厳密な意味は法域による。",
+          "example": "The amalgamation of the local associations was approved unanimously.",
+          "translation": "地元団体の統合は全会一致で承認された。"
+        },
+        {
+          "word": "consolidation",
+          "definition": "複数の企業・事業などをまとめ、より少数のまとまりにすること。",
+          "frequency": 6,
+          "difference": "個別の合併だけでなく、業界全体で企業数が減る再編の流れや、拠点の集約にも使う。merger より範囲が広い。",
+          "example": "Consolidation has left the industry with fewer major suppliers.",
+          "translation": "業界再編の結果、大手供給業者の数は減った。"
+        },
+        {
+          "word": "combination",
+          "definition": "複数の事業などを結び付けること、または結び付いたもの。",
+          "frequency": 6,
+          "difference": "結合の形式を限定しない広い語。business combination は会計上の定義を持つこともあり、法的な merger と常に一致するわけではない。",
+          "example": "The combination of the two businesses created opportunities to share facilities.",
+          "translation": "二事業の統合により、施設を共用する機会が生まれた。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "demerger",
+          "definition": "一つの企業から事業を分け、別の企業にすること。",
+          "frequency": 4,
+          "difference": "組織を一つにまとめる方向と、分ける方向の反対。必ずしも以前の合併をそのまま元に戻すことではない。",
+          "example": "The demerger will create two separately listed companies.",
+          "translation": "その企業分割により、個別に上場する二社が生まれる予定だ。"
+        },
+        {
+          "word": "breakup",
+          "definition": "一つの企業や組織を複数の部分に分割すること。",
+          "frequency": 5,
+          "difference": "結合と分割という方向の反対。demerger より広く、法的整理や当局による分割を含む文脈でも使う。",
+          "example": "Investors opposed the proposed breakup of the group.",
+          "translation": "投資家は提案されたグループの分割に反対した。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算／不可算】融合・一体化",
+      "frequency": 4,
+      "register": [
+        "説明的な文章、文化論、天文学、言語学など。専門分野では、その対象に応じた具体的な現象を指す。"
+      ],
+      "definition": "別々に存在していたものが結び付き、一つのまとまりになること。考え方や文化の融合、天体同士の合体、言語音の区別が失われる現象などに使う。企業合併に限定されない一般的な意味で、対象領域によって自然な日本語訳が変わる。",
+      "patterns": [
+        "a merger of 〈複数のもの〉＝それらの融合",
+        "a merger between A and B＝A と B の合体・融合",
+        "the merger of A with B＝A が B と一体になること",
+        "a galaxy merger＝銀河合体",
+        "a vowel merger＝母音の合流。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a merger of 〈考え方・様式など〉",
+          "use": "複数の発想が一体になった構成を述べる。",
+          "example": "The design represents a merger of traditional craftsmanship and digital technology.",
+          "translation": "そのデザインは、伝統的な職人技とデジタル技術の融合を表している。"
+        },
+        {
+          "pattern": "a merger between A and B",
+          "use": "物理的に別々の対象が合体する現象を表す。",
+          "example": "The simulation shows a merger between two galaxies of similar size.",
+          "translation": "そのシミュレーションは、同じくらいの大きさの二つの銀河の合体を示している。"
+        },
+        {
+          "pattern": "a galaxy merger",
+          "use": "天文学で銀河同士の合体を指す。",
+          "example": "A galaxy merger can alter the distribution of gas and stars.",
+          "translation": "銀河合体は、ガスや恒星の分布を変えることがある。"
+        },
+        {
+          "pattern": "a vowel merger",
+          "use": "言語学で、もとは異なった母音の音韻的な区別が失われることを述べる。",
+          "example": "The researchers recorded speakers with and without the vowel merger.",
+          "translation": "研究者らは、その母音合流がある話者とない話者の発話を録音した。"
+        }
+      ],
+      "notes": [
+        "a merger of styles のような比喩でも、単に並べるだけでなく、一つに結び付くことに重点がある。天体や言語音の文脈では企業の買収を意味しない。vowel merger は母音を省略することではなく、以前区別されていた母音が同じ音として扱われるようになること。道路の合流は日常には merge、merging、a merging lane などで表すことが多く、merger を何にでも機械的に当てはめない。"
+      ],
+      "synonyms": [
+        {
+          "word": "fusion",
+          "definition": "別々のものが結び付き、一体となること。",
+          "frequency": 6,
+          "difference": "文化・料理・音楽などで、要素が溶け合うイメージを出しやすい。merger はもとの別個のまとまりが一つになる点を意識させる。",
+          "example": "The menu offers a fusion of regional cooking styles.",
+          "translation": "そのメニューでは、各地域の料理様式を融合させた料理を楽しめる。"
+        },
+        {
+          "word": "integration",
+          "definition": "異なる部分を結び付け、一つの全体として機能させること。",
+          "frequency": 7,
+          "difference": "各部分の機能的な連携に焦点があり、各要素の区別がなくなるとは限らない。merger は一体化そのものを前面に出す。",
+          "example": "The exhibition explores the integration of art and engineering.",
+          "translation": "その展覧会は、芸術と工学の統合を探究している。"
+        },
+        {
+          "word": "coalescence",
+          "definition": "別々の部分が集まって一つになること。",
+          "frequency": 3,
+          "difference": "液滴や物質などが自然にまとまる過程にも使う専門的・文語的な語。merger より日常性が低い。",
+          "example": "The coalescence of small droplets produced larger drops.",
+          "translation": "小さな液滴が合体して、より大きな滴になった。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

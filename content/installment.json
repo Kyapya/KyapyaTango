@@ -1,0 +1,213 @@
+{
+  "word": "installment",
+  "slug": "installment",
+  "ipa": "米: /ɪnˈstɑːl.mənt/｜英: /ɪnˈstɔːl.mənt/。3音節で、第2音節に強勢がある。ここに示す米英差は第2音節の母音 /ɑː/ と /ɔː/。第1音節は /ɪn/、第3音節は弱く /mənt/ と発音する。米国では installment、英国では instalment が普通で、l の数が違っても音節数は変わらない。",
+  "lead": "代金や借入金など、支払うべき全体額を複数回に分けたうちの一回分。一定の間隔で払う場合が典型的だが、毎月払い・均等額・無利息であることまでは意味に含まれない。日本語の「分割払い」という方式全体を表すときも、英語では通常 in installments と複数形にする。",
+  "updated": "2026-10-17",
+  "notion_url": "https://app.notion.com/p/installment-3fc4faa9b77d81ad87e9f35b0dd10f28",
+  "pronunciation": [],
+  "etymology": [
+    "支払いの意味では、古い形 estallment が、install などの綴りの影響を受けて変化した語。もとになるアングロフランス語の動詞は「支払いを区切って取り決める」ことに関係し、さらに「場所・区切り」を表す語へさかのぼる。stall「区画・売店」と同系統で、install「据え付ける」も歴史的には同じ「場所」の語根に関係する。ただし、現代の主要義を単純に install「ソフトを入れる」＋ -ment と理解すると、「分割金」「連載の一回分」という意味はつかめない。installment に「就任・設置」を表す別系統のまれな用法もあるが、現在の一般的な文章では installation を使う。"
+  ],
+  "formation": [
+    {
+      "term": "installments",
+      "description": "可算名詞の複数形。「分割払いで」は in installments、「月賦で」は in monthly installments と表す。"
+    },
+    {
+      "term": "instalment",
+      "description": "主に英国式の綴り。複数形は instalments で、支払い・連載の両方に使う。"
+    },
+    {
+      "term": "installment plan",
+      "description": "分割払いの仕組み。前に置く installment は単数形で、installments plan とはしない。"
+    },
+    {
+      "term": "installment loan",
+      "description": "一定の期間にわたって分割返済するローン。支払回数・金額・利息などの条件は個々の契約で決まる。"
+    }
+  ],
+  "core": [],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算】分割払金・一回分の支払い",
+      "frequency": 7,
+      "register": [
+        "一般・商取引・金融。請求書、販売条件、融資、授業料などの支払案内で使う。"
+      ],
+      "definition": "代金や借入金など、支払うべき全体額を複数回に分けたうちの一回分。一定の間隔で払う場合が典型的だが、毎月払い・均等額・無利息であることまでは意味に含まれない。日本語の「分割払い」という方式全体を表すときも、英語では通常 in installments と複数形にする。",
+      "patterns": [
+        "pay for something in installments＝物の代金を分割で払う",
+        "pay 〈金額〉 in 〈回数〉 installments＝金額を指定回数に分けて払う",
+        "pay by installments＝分割払いで払う",
+        "an installment of 〈金額〉＝一回分の金額",
+        "an installment on 〈the loan/the purchase〉＝借入れ・購入に対する一回分",
+        "make the first installment＝初回分を支払う",
+        "miss an installment＝一回分を期日に払わない",
+        "the final installment + be due + 〈期日〉＝最終回分の支払期限である",
+        "buy something on an installment plan＝分割払いの契約で買う。"
+      ],
+      "collocations": [
+        {
+          "pattern": "pay for something in installments",
+          "use": "商品やサービスの代金を、まとめてではなく分けて支払う。",
+          "example": "Customers can pay for the training course in installments.",
+          "translation": "受講者は研修コースの料金を分割で支払えます。"
+        },
+        {
+          "pattern": "pay 〈金額〉 in 〈回数〉 equal installments",
+          "use": "支払総額を同じ金額の複数回に分ける。",
+          "example": "We will pay the $3,600 fee in six equal installments.",
+          "translation": "私たちは3,600ドルの料金を、均等な6回払いで支払います。"
+        },
+        {
+          "pattern": "pay by installments",
+          "use": "支払い方法として分割払いを選ぶ。英国式なら by instalments と綴る。",
+          "example": "The supplier allows small businesses to pay by installments.",
+          "translation": "その納入業者は、小規模事業者の分割払いを認めています。"
+        },
+        {
+          "pattern": "monthly installments of 〈金額〉",
+          "use": "毎月の一回当たりの支払額を示す。",
+          "example": "The balance is payable in monthly installments of $250.",
+          "translation": "残額は、月々250ドルの分割払いでお支払いいただけます。"
+        },
+        {
+          "pattern": "make the first installment",
+          "use": "契約で定められた初回分を実際に支払う。",
+          "example": "Please make the first installment before the course begins.",
+          "translation": "コースが始まる前に、初回分をお支払いください。"
+        },
+        {
+          "pattern": "miss an installment on 〈the loan/the purchase〉",
+          "use": "分割払いの一回分を支払期日に払わない。",
+          "example": "She contacted the lender after missing an installment on the loan.",
+          "translation": "彼女はローンの一回分の返済を滞らせた後、貸し手に連絡しました。"
+        },
+        {
+          "pattern": "the final installment on the loan",
+          "use": "ローンの最後の一回分について述べる。",
+          "example": "The final installment on the loan is due on November 30.",
+          "translation": "ローンの最終返済分の期日は11月30日です。"
+        },
+        {
+          "pattern": "buy something on an installment plan",
+          "use": "分割払いの仕組みを利用して購入する。",
+          "example": "The clinic bought the equipment on an installment plan.",
+          "translation": "その診療所は、機器を分割払いで購入しました。"
+        }
+      ],
+      "notes": [
+        "「車の代金を分割で払う」は pay for the car in installments。「車を払う」という形の pay the car in installments は避ける。一方、金額は pay $600、請求書は pay the bill と直接目的語にできる。通常の方式説明では in installment ではなく in installments。英国の商業文書には by instalment という単数形の方式表現もあり、単数形が常に誤りというわけではない。an installment は一回分なので、an installment of $100 は「総額100ドルを分割する」ことを意味しない。equal installments とあえて言うのは、installment 自体に均等額が必須ではないため。down payment は購入時の頭金で、後続する各 installment と区別して扱うことが多い。対照表現の pay in full は「全額を払う」、pay in a lump sum は「一括で払う」で、前者だけでは支払日や現金払いまで指定しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "payment",
+          "definition": "支払う金額、または支払う行為。",
+          "frequency": 9,
+          "difference": "最も広い語で、一括払いにも一回分の分割払いにも使う。installment は全体額を分けた一部という位置づけを表す。",
+          "example": "Your next payment is due on Friday.",
+          "translation": "次回のお支払いの期日は金曜日です。"
+        },
+        {
+          "word": "repayment",
+          "definition": "借りた金銭を返す行為、または返済する金額。",
+          "frequency": 7,
+          "difference": "借入金の返却という関係を示す。installment は返済以外の購入代金や料金にも使え、repayment 自体は分割とは限らない。",
+          "example": "The bank agreed to reduce her monthly repayments.",
+          "translation": "銀行は、彼女の毎月の返済額を減らすことに同意しました。"
+        },
+        {
+          "word": "part payment",
+          "definition": "支払うべき金額の一部を払うこと、またはその金額。",
+          "frequency": 4,
+          "difference": "全額ではない点は共通するが、part payment は定期的な分割計画の一回分とは限らない。",
+          "example": "We accepted $400 as part payment of the invoice.",
+          "translation": "私たちは、請求額の一部として400ドルの支払いを受け取りました。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算】連載の一回分・シリーズの一作品",
+      "frequency": 6,
+      "register": [
+        "一般・出版・放送・映画・ゲーム。作品紹介やレビューで使う。"
+      ],
+      "definition": "物語、記事、映像作品などが順次発表されるときの、その一回分や一作品。新聞連載の一回だけでなく、映画・ゲームのシリーズの新作などにも使う。単に一冊の本を区切った章ではなく、「続けて出される全体の一部」として捉える語。",
+      "patterns": [
+        "an installment of 〈a story/a series〉＝物語・シリーズの一回分",
+        "the latest installment in 〈a series/a franchise〉＝シリーズ・作品群の最新作",
+        "publish something in installments＝作品を分けて順次発表する",
+        "the next installment + appear/be released + 〈時〉＝次回分が公開される。of は全体との所属関係、in はシリーズ内での位置づけを表すが、多くの文脈ではどちらも使える。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the next installment of 〈a story/a series〉",
+          "use": "次に発表される回について述べる。",
+          "example": "The next installment of the detective story will appear on Monday.",
+          "translation": "その探偵小説の次回分は、月曜日に掲載されます。"
+        },
+        {
+          "pattern": "the latest installment in 〈a series/a franchise〉",
+          "use": "映画やゲームなどのシリーズ最新作を紹介する。",
+          "example": "The latest installment in the film series introduces a new villain.",
+          "translation": "その映画シリーズの最新作には、新たな悪役が登場します。"
+        },
+        {
+          "pattern": "publish something in installments",
+          "use": "一つの作品を複数回に分けて発表する。",
+          "example": "The magazine published her memoir in four installments.",
+          "translation": "その雑誌は、彼女の回想録を4回に分けて掲載しました。"
+        },
+        {
+          "pattern": "the final installment of 〈a story/a series〉",
+          "use": "連載やシリーズを締めくくる回について述べる。",
+          "example": "The final installment of the series explains how the investigation ended.",
+          "translation": "連載の最終回では、調査がどのような結末を迎えたかが説明されます。"
+        }
+      ],
+      "notes": [
+        "「シリーズの第3作」は the third installment in the series。「第3回の分割金」という意味にもなり得るため、文脈が薄い場合は in the film series、of the novel などを添える。episode は放送番組の一話に特に合い、installment は出版物や映画シリーズにも広く使う。sequel は先行作品に続く作品であり、最初の作品を the first installment と呼べても、それを sequel とは呼ばない。計画や出来事の続きに比喩的に使われることもあるが、一般的な「続き」は continuation、next part などで十分な場合が多い。"
+      ],
+      "synonyms": [
+        {
+          "word": "episode",
+          "definition": "テレビ・ラジオなどの連続番組の一回分。",
+          "frequency": 8,
+          "difference": "放送・配信シリーズの一話としての単位が中心。installment は映画の一作品や連載記事にも使える。",
+          "example": "I watched the first episode of the new drama last night.",
+          "translation": "昨夜、その新しいドラマの第1話を見ました。"
+        },
+        {
+          "word": "part",
+          "definition": "全体を構成する一部分、または番号で分けた一回分。",
+          "frequency": 9,
+          "difference": "最も広く、順次公開されることは含まない。installment は続けて提供される複数の部分の一つという見方を伴う。",
+          "example": "Part two of the documentary focuses on coastal cities.",
+          "translation": "そのドキュメンタリーの第2部は、沿岸都市に焦点を当てています。"
+        },
+        {
+          "word": "sequel",
+          "definition": "先行する物語や作品に続く作品。",
+          "frequency": 6,
+          "difference": "先行作品が存在することを前提とし、物語の続きを指すことが多い。installment はシリーズの第1作にも使える。",
+          "example": "The studio has announced a sequel to the film.",
+          "translation": "その映画会社は、映画の続編を発表しました。"
+        },
+        {
+          "word": "chapter",
+          "definition": "本や物語の章。",
+          "frequency": 8,
+          "difference": "作品内部の構成単位で、別々に公開されるとは限らない。一回の installment に複数の chapters が含まれる場合もある。",
+          "example": "The opening chapter introduces the narrator's family.",
+          "translation": "冒頭の章では、語り手の家族が紹介されます。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
