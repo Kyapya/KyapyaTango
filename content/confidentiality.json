@@ -1,0 +1,144 @@
+{
+  "word": "confidentiality",
+  "slug": "confidentiality",
+  "ipa": "米: /ˌkɑːn.fɪ.ˌden.ʃiˈæl.ə.ti/｜英: /ˌkɒn.fɪ.ˌden.ʃiˈæl.ə.ti/",
+  "lead": "秘密として預かった情報や非公開の情報が、知らせてよい範囲を越えて他者に伝わらないように保たれること、その取扱いの原則・約束、または情報のそうした性質。人・組織が情報を守ることには「秘密保持・守秘」、データや記録の性質には「機密性」がよく対応する。医療、相談、取引、研究、情報システムなどに広く使う。何人かの権限ある関係者が共有する場合も成り立ち、「誰一人として",
+  "updated": "2026-10-17",
+  "notion_url": "https://app.notion.com/p/confidentiality-3fc4faa9b77d8189a899c0d112cb8b45",
+  "pronunciation": [
+    "ここに示す発音は7音節で、主強勢は第5音節 /æl/、第二強勢は第1・第3音節。示した米英差は第1音節の母音 /ɑː/ と /ɒ/。confidential の強勢位置をそのまま保たず、-ality の /æl/ を最も強く読む。第4音節 /ʃi/ と第5音節 /æl/ を区別すると、長い綴りを読み取りやすい。"
+  ],
+  "etymology": [
+    "confidential「秘密扱いの・信頼して打ち明けられた」に、性質・状態を表す -ity が付いた語。confidential は confidence と同じ、ラテン語 confidentia「信頼」、さらに confidere「信頼する」の系統に属する。同系統に confide「信頼して打ち明ける」、confidence「信頼・自信」がある。信頼して預けた情報を他者にむやみに明かさない、という関係が現在義につながる。ただし confidentiality 自体に「自信」という意味はない。"
+  ],
+  "formation": [
+    {
+      "term": "confidential",
+      "description": "形容詞「秘密扱いの・機密の」。confidential information のように名詞の前でも、The information is confidential. のように補語としても使う。"
+    },
+    {
+      "term": "confidentially",
+      "description": "副詞「秘密の話として・内密に」。discuss the matter confidentially など、話す・扱う方法を修飾する。"
+    },
+    {
+      "term": "confidentiality agreement",
+      "description": "可算の複合名詞「秘密保持契約」。non-disclosure agreement、略して NDA と呼ばれることも多い。具体的な対象・期間・例外は個々の契約で決まる。"
+    },
+    {
+      "term": "confidentiality clause",
+      "description": "可算の複合名詞「秘密保持条項」。契約全体ではなく、その中の条項を指す。"
+    }
+  ],
+  "core": [],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・通常不可算】秘密保持・機密性・守秘",
+      "frequency": 7,
+      "register": [
+        "ややフォーマル。職業上の信頼、契約、企業活動、医療・研究、情報セキュリティなど。機密性の重要さを述べる語だが、その語だけで法的義務の有無や、開示が許される条件まで決まるわけではない。"
+      ],
+      "definition": "秘密として預かった情報や非公開の情報が、知らせてよい範囲を越えて他者に伝わらないように保たれること、その取扱いの原則・約束、または情報のそうした性質。人・組織が情報を守ることには「秘密保持・守秘」、データや記録の性質には「機密性」がよく対応する。医療、相談、取引、研究、情報システムなどに広く使う。何人かの権限ある関係者が共有する場合も成り立ち、「誰一人として情報を知らないこと」ではない。",
+      "patterns": [
+        "maintain/ensure confidentiality＝秘密保持を続ける・確保する",
+        "protect the confidentiality of 〈情報・記録〉＝その情報の機密性を守る",
+        "client/patient confidentiality＝顧客・患者に関する情報の守秘",
+        "treat something with 〈strict/complete〉 confidentiality＝その情報を厳重に秘密扱いする",
+        "a breach of confidentiality＝秘密保持の侵害・違反",
+        "a duty of confidentiality＝守秘義務",
+        "a confidentiality agreement＝秘密保持契約",
+        "a confidentiality clause＝秘密保持条項",
+        "on grounds of confidentiality＝秘密保持を理由に",
+        "data confidentiality＝データの機密性。"
+      ],
+      "collocations": [
+        {
+          "pattern": "maintain confidentiality",
+          "use": "情報を外部に漏らさず扱い続けることを述べる。",
+          "example": "Interviewers were trained to maintain confidentiality when handling participants' responses.",
+          "translation": "面接担当者は、参加者の回答を扱う際に秘密を保持するための研修を受けた。"
+        },
+        {
+          "pattern": "protect the confidentiality of 〈情報〉",
+          "use": "何の機密性を守るのかを明示する。",
+          "example": "The access controls help protect the confidentiality of employee records.",
+          "translation": "アクセス制御は、従業員記録の機密性を守るのに役立つ。"
+        },
+        {
+          "pattern": "client confidentiality",
+          "use": "顧客や相談者について知った情報を守る原則を述べる。",
+          "example": "She declined to discuss the project because of client confidentiality.",
+          "translation": "彼女は顧客情報の秘密保持を理由に、その案件について話すことを断った。"
+        },
+        {
+          "pattern": "treat something with strict confidentiality",
+          "use": "受け取った情報を厳重に秘密扱いする姿勢を示す。",
+          "example": "The panel will treat the applicants' financial information with strict confidentiality.",
+          "translation": "委員会は、応募者の財務情報を厳重に秘密扱いする。"
+        },
+        {
+          "pattern": "a breach of confidentiality",
+          "use": "守るべき情報が無断で伝わるなどの違反を述べる。",
+          "example": "Forwarding the private report to an unauthorized recipient was a breach of confidentiality.",
+          "translation": "非公開の報告書を権限のない相手に転送したことは、秘密保持違反だった。"
+        },
+        {
+          "pattern": "a duty of confidentiality",
+          "use": "特定の情報を守る責任・義務を表す。",
+          "example": "The training explains the consultant's duty of confidentiality under the contract.",
+          "translation": "その研修では、契約に基づくコンサルタントの守秘義務について説明する。"
+        },
+        {
+          "pattern": "a confidentiality agreement",
+          "use": "情報の取扱いを定める契約を指す。",
+          "example": "The two companies signed a confidentiality agreement before sharing technical details.",
+          "translation": "両社は技術的な詳細を共有する前に、秘密保持契約を結んだ。"
+        },
+        {
+          "pattern": "a confidentiality clause",
+          "use": "契約中の秘密保持に関する条項を指す。",
+          "example": "The confidentiality clause identifies which documents must be kept private.",
+          "translation": "秘密保持条項では、どの文書を非公開にしておかなければならないかを定めている。"
+        },
+        {
+          "pattern": "on grounds of confidentiality",
+          "use": "内容を話せない・公開できない理由を述べる。",
+          "example": "The agency withheld the names on grounds of confidentiality.",
+          "translation": "その機関は、秘密保持を理由に氏名を公表しなかった。"
+        },
+        {
+          "pattern": "data confidentiality",
+          "use": "情報システムで、無権限の閲覧・開示からデータを守る性質を述べる。",
+          "example": "Encryption is one of the measures used to preserve data confidentiality during transmission.",
+          "translation": "暗号化は、送信中のデータの機密性を保つために使われる対策の一つだ。"
+        }
+      ],
+      "notes": [
+        "通常は不可算で、Confidentiality is essential.「秘密保持が不可欠だ」、strict confidentiality のように使う。一般的な「一件の秘密保持違反」は a confidentiality ではなく a breach of confidentiality。「二つの秘密保持契約」は two confidentiality agreements で、複数になるのは agreements。of の後ろには守る情報やその情報に関わる人を置けるが、the confidentiality of the records のように情報を明示すると関係が分かりやすい。",
+        "名詞 confidentiality と形容詞 confidential を混同しない。The records are confidential.「記録は秘密扱いだ」と The confidentiality of the records must be protected.「記録の機密性を守らなければならない」は品詞と文の組立てが異なる。「内密に」は in confidence、in strict confidence が定着した表現で、with strict confidentiality は主に扱い方を表す。I told her in confidence.「彼女には内密の話として伝えた」の confidence は「自信」ではない。一方、confidently は「自信を持って」で、confidentially と取り違えない。",
+        "confidentiality と anonymity「匿名性」は別の性質。担当者が氏名を知っていても、その情報を外に出さないなら confidentiality は守れる。匿名化しているかどうかは別に確かめる。privacy「プライバシー」は私生活への干渉や個人情報の利用なども含む広い概念で、confidentiality は秘密情報へのアクセス・開示の制限に焦点を置く。企業の設計図など、個人情報ではない情報にも confidentiality を使える。",
+        "情報セキュリティでは confidentiality「機密性」を、integrity「完全性」、availability「可用性」と区別する。閲覧者を制限できても、内容が改変されていないことや、必要なときに利用できることが自動的に保証されるわけではない。医療や法律の文脈でも、confidentiality は「どんな事情でも一切話してはならない」という無条件の断定ではない。本人の同意、適用される規則、契約上の例外などにより、許される共有や必要な開示の範囲が変わる。具体的な義務や例外は制度ごとに確認する。"
+      ],
+      "synonyms": [
+        {
+          "word": "secrecy",
+          "definition": "情報や活動を他者に知られないようにしておくこと、または秘密の状態。",
+          "frequency": 7,
+          "difference": "広く「秘密にすること」を表し、正当な保護にも不透明さへの批判にも使う。confidentiality は、託された情報の適切な取扱いや、限定された共有範囲を意識させやすい。",
+          "example": "The negotiations were conducted in secrecy until both sides reached an agreement.",
+          "translation": "双方が合意に達するまで、交渉は秘密裏に行われた。"
+        },
+        {
+          "word": "privacy",
+          "definition": "私生活や個人に関する事柄が、他者にむやみに立ち入られたり知られたりしない状態。",
+          "frequency": 8,
+          "difference": "個人情報を秘密にする点では重なるが、他人に見られず過ごすことや干渉を受けないことまで含む。confidentiality は保有・共有される情報を外に漏らさない点が中心。",
+          "example": "The hotel asked photographers to respect the guests' privacy.",
+          "translation": "ホテルは、宿泊客のプライバシーを尊重するよう写真家らに求めた。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

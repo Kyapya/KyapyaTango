@@ -1,0 +1,327 @@
+{
+  "word": "disclosure",
+  "slug": "disclosure",
+  "ipa": "米: /dɪˈskloʊ.ʒɚ/｜英: /dɪˈskləʊ.ʒə/",
+  "lead": "それまで知られていなかった、秘密にされていた、または限られた者しか知らなかった情報を、別の人や組織に知らせること。企業の財務情報、利害関係、個人の事情など、幅広い情報を対象にする。公にする場合は「公表・公開」、特定の相手に必要な情報を伝える場合は「開示・告知」、秘密や不正を明るみに出す場合は「暴露」と訳せる。違法な情報漏えいや、本人が嫌がる秘密の暴露に限らな",
+  "updated": "2026-10-17",
+  "notion_url": "https://app.notion.com/p/disclosure-3fc4faa9b77d81af8559e2e23e639fa2",
+  "pronunciation": [
+    "3音節で、主強勢は第2音節。示した米英差は、第2音節の母音 /oʊ/ と /əʊ/、第3音節の母音 /ɚ/ と /ə/。第3音節の子音 /ʒ/ は vision の中央と同じ音で、/dʒ/ のように破裂させない。複数形 disclosures は語末に /z/ を加える。"
+  ],
+  "etymology": [
+    "disclose「覆いを取り、明らかにする」に名詞を作る -ure が付いた語。disclose は古フランス語の desclore「開く・明らかにする」にさかのぼり、否定・逆転を表す要素と clore「閉じる」から成る。後者はラテン語 claudere「閉じる」の系統で、close、closure、enclose とつながる。「閉じられていたものを開く」という成り立ちは情報を明らかにする現在義と結び付くが、現代の disclosure は通常、ドアなどを物理的に開けることには使わない。"
+  ],
+  "formation": [
+    {
+      "term": "disclose",
+      "description": "他動詞「情報を開示する・明らかにする」。disclose something to someone、disclose that 〈節〉。disclosure はその行為または明らかになった内容を名詞にしたもの。"
+    },
+    {
+      "term": "non-disclosure",
+      "description": "不可算名詞「非開示・不告知」。必要な情報を伝えないことも、合意に基づいて秘密にすることも表し、語だけで違法性は決まらない。"
+    },
+    {
+      "term": "non-disclosure agreement",
+      "description": "可算の複合名詞「秘密保持契約」。略して NDA。開示するための同意書という意味ではない。"
+    },
+    {
+      "term": "self-disclosure",
+      "description": "可算・不可算名詞「自己開示」。自分の経験、考え、感情などを他者に伝えること。心理学や対人コミュニケーションでも使う。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "他者に見えていなかった情報を、その相手が知れる形にすること。行為、明らかになった内容、訴訟上の手続きへ焦点が移る。開示先が一般公衆なのか、特定の相手なのかは語だけでは決まらない。"
+    },
+    {
+      "type": "item",
+      "text": "情報を知れる形にする行為 → 「情報の開示・公表」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "情報を知れる形にした内容 → 「明らかにされた事実・開示情報」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "情報を知れる形にする訴訟手続き → 「訴訟上の開示」（語義3）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・不可算／個々の行為では可算】情報の開示・公表",
+      "frequency": 7,
+      "register": [
+        "ややフォーマル。企業報告、契約、報道、研究、個人情報の取扱いなどでよく使う。保険の disclosure も保険者への情報の告知を表すが、告知対象や義務の内容は契約・制度による。"
+      ],
+      "definition": "それまで知られていなかった、秘密にされていた、または限られた者しか知らなかった情報を、別の人や組織に知らせること。企業の財務情報、利害関係、個人の事情など、幅広い情報を対象にする。公にする場合は「公表・公開」、特定の相手に必要な情報を伝える場合は「開示・告知」、秘密や不正を明るみに出す場合は「暴露」と訳せる。違法な情報漏えいや、本人が嫌がる秘密の暴露に限らない。",
+      "patterns": [
+        "disclosure of 〈情報〉＝何を開示するか",
+        "disclosure to 〈相手〉＝誰に開示するか",
+        "disclosure of 〈情報〉 to 〈相手〉＝内容と開示先を示す",
+        "full/public/voluntary disclosure＝全面的な・公の・自発的な開示",
+        "make a disclosure＝一件の開示を行う",
+        "require disclosure of 〈情報〉＝その情報の開示を求める",
+        "disclosure requirements＝開示要件",
+        "without disclosure＝開示せずに",
+        "in the interests of full disclosure＝事情を隠さず伝えるために。"
+      ],
+      "collocations": [
+        {
+          "pattern": "disclosure of 〈情報〉 to 〈相手〉",
+          "use": "開示される内容と開示先を区別する。",
+          "example": "The policy restricts disclosure of customer records to outside organizations.",
+          "translation": "その方針では、顧客記録を外部の組織に開示することを制限している。"
+        },
+        {
+          "pattern": "full disclosure",
+          "use": "関連情報を一部だけでなく十分に明らかにすることを述べる。",
+          "example": "The committee requested full disclosure of any financial ties to the supplier.",
+          "translation": "委員会は、その供給業者との金銭的なつながりをすべて開示するよう求めた。"
+        },
+        {
+          "pattern": "public disclosure",
+          "use": "限定された関係者への説明と、一般への公表を区別する。",
+          "example": "The results were reviewed internally before public disclosure.",
+          "translation": "結果は、公表前に内部で検討された。"
+        },
+        {
+          "pattern": "voluntary disclosure",
+          "use": "自発的に情報を知らせることを表す。",
+          "example": "The survey asks about voluntary disclosure of a disability at work.",
+          "translation": "その調査は、職場で自発的に障害について伝えることを尋ねている。"
+        },
+        {
+          "pattern": "make a disclosure",
+          "use": "個別の開示行為を一件として表す。",
+          "example": "An employee made a disclosure about suspected misuse of company funds.",
+          "translation": "ある従業員が、会社の資金が不正使用されている疑いについて情報を明らかにした。"
+        },
+        {
+          "pattern": "require disclosure of 〈情報〉",
+          "use": "規則や手続きが、一定の内容を明らかにするよう求めることを示す。",
+          "example": "The journal requires disclosure of potential conflicts of interest.",
+          "translation": "その学術誌は、利益相反の可能性について開示を求めている。"
+        },
+        {
+          "pattern": "disclosure requirements",
+          "use": "開示しなければならない内容や方法に関する要件を述べる。",
+          "example": "The reporting team checked the disclosure requirements before preparing the annual report.",
+          "translation": "報告書の作成担当者は、年次報告書を作る前に開示要件を確認した。"
+        },
+        {
+          "pattern": "without disclosure",
+          "use": "関連情報を相手に知らせないまま行うことを示す。",
+          "example": "Accepting the gift without disclosure to the committee would violate its policy.",
+          "translation": "委員会に知らせずにその贈り物を受け取ると、委員会の方針に違反することになる。"
+        },
+        {
+          "pattern": "in the interests of full disclosure",
+          "use": "判断に関係しそうな自分の事情を、率直に断っておく。",
+          "example": "In the interests of full disclosure, I worked for one of the bidders last year.",
+          "translation": "念のためすべてお伝えすると、私は昨年、入札者の一社に勤めていました。"
+        }
+      ],
+      "notes": [
+        "行為全体なら Disclosure is required.「開示が必要だ」のように無冠詞で使う。個別の報告・開示行為なら make a disclosure、複数回なら repeated disclosures と数えられる。disclosure of the data の of は開示する情報、disclosure to the regulator の to は開示先を導く。誰が開示したかは the company's disclosure、disclosure by the company などで示す。disclosure of someone だけで「その人への開示」としない。",
+        "full disclosure は関連情報を十分に伝えることをいうが、それだけで開示先が全世界になるわけではない。public disclosure との違いを押さえる。単独の前置き Full disclosure: I know the author.「先に断っておくと、著者とは知り合いです」も、利害関係などを明かす日常的な言い方として使われる。学術論文やビジネスの disclosure は、必ずしも非難や驚きを伴わないため、一律に「暴露」と訳さない。disclaimer は責任範囲などを限定する注意書きで、情報開示という行為全体とは異なる。"
+      ],
+      "synonyms": [
+        {
+          "word": "revelation",
+          "definition": "知られていなかった事実を明らかにすること。",
+          "frequency": 6,
+          "difference": "新しさや驚きが前景化しやすい。disclosure は、規則に従って淡々と必要事項を伝える行為にも向く。",
+          "example": "The revelation of the hidden costs changed the board's view of the deal.",
+          "translation": "隠れていた費用が明らかになり、取締役会のその取引に対する見方が変わった。"
+        },
+        {
+          "word": "release",
+          "definition": "保有している情報や資料を、他者が利用できるように公に出すこと。",
+          "frequency": 7,
+          "difference": "情報・報告書を外に出す段階に焦点を置き、内容がもともと秘密だったとは限らない。disclosure は何を明らかにするかを意識させる。",
+          "example": "The agency delayed the release of the survey results.",
+          "translation": "その機関は、調査結果の公表を延期した。"
+        },
+        {
+          "word": "divulgence",
+          "definition": "秘密・非公開の情報を他者に漏らすこと。",
+          "frequency": 3,
+          "difference": "disclosure より硬く、守るべき情報を明かす含みが強い。日常的な説明や一般的な報告には広く使わない。",
+          "example": "The agreement prohibits the divulgence of confidential pricing information.",
+          "translation": "その契約では、秘密扱いの価格情報を漏らすことを禁じている。"
+        },
+        {
+          "word": "publication",
+          "definition": "文書や情報を一般の人が読める形で世に出すこと。",
+          "frequency": 8,
+          "difference": "公衆が読める形での公表に焦点がある。限られた相手に口頭で知らせる disclosure まで含むわけではない。",
+          "example": "Publication of the inspection report is scheduled for Monday.",
+          "translation": "検査報告書の公表は月曜日に予定されている。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "non-disclosure",
+          "definition": "情報を開示しないこと。",
+          "frequency": 5,
+          "difference": "同じ情報・相手・時点を問題にする場合、開示するかしないかの行為上の対立になる。秘密保持として適切な場合もあり、隠蔽の非難を必ず含むわけではない。",
+          "example": "The agreement requires non-disclosure of the prototype's specifications.",
+          "translation": "その契約は、試作品の仕様を開示しないことを求めている。"
+        },
+        {
+          "word": "concealment",
+          "definition": "事実や情報が知られないように意図的に隠すこと。",
+          "frequency": 5,
+          "difference": "情報を明らかにする方向と、隠す方向の対立。単にまだ開示していない場合よりも、積極的・意図的な隠匿を強く表す。",
+          "example": "The audit uncovered deliberate concealment of losses.",
+          "translation": "監査で、損失が意図的に隠されていたことが判明した。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算】明らかにされた事実・開示情報",
+      "frequency": 6,
+      "register": [
+        "報道、調査、企業報告、財務・契約文書。複数形 disclosures は、複数の新事実や開示事項をまとめるときによく使う。"
+      ],
+      "definition": "開示によって知られるようになった事実、説明内容、またはそれを記載した開示文書。報道の新事実や、企業・個人が提出する財務情報などに使う。開示する行為ではなく、聞き手・読み手が知ることになった内容に焦点がある。文書を指す場合も、その物理的な紙より、説明・申告された情報を意識する。",
+      "patterns": [
+        "a disclosure about 〈話題〉＝その事柄について明らかになった情報",
+        "the disclosure that 〈節〉＝その事実についての開示情報",
+        "disclosures in 〈報告書など〉＝文書内の開示事項",
+        "financial disclosures＝財務に関する開示情報・開示書類",
+        "read/review 〈修飾語〉 disclosures＝開示された内容・文書を読む・検討する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a disclosure about 〈話題〉",
+          "use": "新たに明らかにされた情報のテーマを述べる。",
+          "example": "The book contains several disclosures about the company's early funding.",
+          "translation": "その本には、会社設立初期の資金調達について、初めて明かされた事実がいくつか含まれている。"
+        },
+        {
+          "pattern": "the disclosure that 〈節〉",
+          "use": "明らかになった事実の内容を節で具体化する。",
+          "example": "The disclosure that the factory had failed two safety inspections appeared in the report's final paragraph.",
+          "translation": "工場が二度の安全検査で不合格になっていたという開示情報は、報告書の最後の段落に記載されていた。"
+        },
+        {
+          "pattern": "disclosures in 〈報告書〉",
+          "use": "報告書に記載された開示事項を内容として指す。",
+          "example": "The disclosures in the annual report explain how the company manages currency risk.",
+          "translation": "年次報告書の開示事項には、会社が為替リスクをどう管理しているかが説明されている。"
+        },
+        {
+          "pattern": "financial disclosures",
+          "use": "財務上の利害関係や状況について、提出・公表された情報を指す。",
+          "example": "Her financial disclosures listed consulting income from three companies.",
+          "translation": "彼女の財務開示書類には、三社からのコンサルティング収入が記載されていた。"
+        },
+        {
+          "pattern": "review 〈修飾語〉 disclosures",
+          "use": "契約などの判断に必要な説明内容を確認する。",
+          "example": "Please review the fee disclosures before choosing an account.",
+          "translation": "口座を選ぶ前に、手数料についての開示事項をご確認ください。"
+        }
+      ],
+      "notes": [
+        "語義1の Full disclosure is important. では「開示という行為」が主題になる。一方、The disclosures were incomplete. では、複数の開示内容・申告書類が不十分だったことを述べる。a startling disclosure、several disclosures と数えられるが、同じ内容を information で言うなら some information、a piece of information であり、an information にはしない。the disclosure that ... の that 節は内容を示し、that の後ろには主語と動詞を備えた節が続く。",
+        "financial disclosure は「財務情報を明らかにする行為」なら語義1、「提出された財務情報・書類」ならこの語義。開示の対象・読み手・動詞で判断する。disclosure だけを「有価証券報告書」「目論見書」「告白文」のような特定の文書名に固定しない。具体的な制度や文書種別が別途示されているかを確認する。"
+      ],
+      "synonyms": [
+        {
+          "word": "revelation",
+          "definition": "新たに明らかになった、しばしば驚きを与える事実。",
+          "frequency": 7,
+          "difference": "この語義では可算名詞。disclosure よりも意外さや重大さを帯びやすく、定型的な費用説明などには通常選ばない。",
+          "example": "The investigation produced several disturbing revelations.",
+          "translation": "調査によって、懸念を抱かせる事実がいくつも明らかになった。"
+        },
+        {
+          "word": "statement",
+          "definition": "事実や立場を明示した発言・記述。",
+          "frequency": 8,
+          "difference": "初めて明らかにした内容とは限らず、既知の説明や意見表明も含む。disclosure は、情報を相手が知れるようにした点を強調する。",
+          "example": "The statement explained the changes to the pricing policy.",
+          "translation": "その声明では、価格方針の変更について説明していた。"
+        },
+        {
+          "word": "declaration",
+          "definition": "事実・利害関係などを正式に申告した内容や書類。",
+          "frequency": 6,
+          "difference": "正式に自ら表明・申告することに重点がある。disclosure は報道で他者が明らかにした事実にも使える。",
+          "example": "The declaration listed the director's outside business interests.",
+          "translation": "その申告書には、取締役の社外での事業上の利害関係が記載されていた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・主に不可算／個々の開示事項は可算】訴訟上の開示",
+      "frequency": 4,
+      "register": [
+        "法律・訴訟手続き。とくに英国系の民事手続きで定着した用語。米国の連邦民事手続きにも initial disclosures などの表現がある。"
+      ],
+      "definition": "訴訟の準備・進行のために、関係する文書や情報を相手方などに知らせる手続き、またはその手続きによる開示。何を知らせ、どこまで閲覧・提供するかは、法域、事件類型、適用規則、裁判所の命令などによって異なる。一般向けの公表を意味せず、「裁判所にすべての証拠を提出すること」とも一律には言い換えられない。",
+      "patterns": [
+        "disclosure of documents＝訴訟上の文書の開示",
+        "an order for disclosure＝開示を求める命令",
+        "standard disclosure＝イングランドおよびウェールズの民事訴訟規則における所定の開示",
+        "disclosure and inspection＝開示と閲覧",
+        "initial disclosures＝米国の連邦民事手続きなどにおける初期の開示事項・その開示。"
+      ],
+      "collocations": [
+        {
+          "pattern": "disclosure of documents",
+          "use": "訴訟で関係文書を開示する手続きを指す。",
+          "example": "The parties disagreed about the scope of disclosure of documents in the civil case.",
+          "translation": "その民事事件で、当事者双方は文書開示の範囲について意見が分かれた。"
+        },
+        {
+          "pattern": "an order for disclosure",
+          "use": "訴訟上の開示を求める裁判所の命令を述べる。",
+          "example": "The claimant applied for an order for disclosure of the inspection records.",
+          "translation": "原告は、検査記録の開示を求める命令を申し立てた。"
+        },
+        {
+          "pattern": "standard disclosure",
+          "use": "特定の民事手続きで定められた開示の区分を指す。",
+          "example": "The judge ordered standard disclosure under Part 31 of the Civil Procedure Rules.",
+          "translation": "裁判官は、民事訴訟規則第31部に基づく所定の文書開示を命じた。"
+        },
+        {
+          "pattern": "disclosure and inspection",
+          "use": "文書の存在などを知らせる段階と、内容を閲覧する段階を区別する。",
+          "example": "The timetable set separate dates for disclosure and inspection of the documents.",
+          "translation": "その日程では、文書の開示と閲覧に別々の日が定められていた。"
+        },
+        {
+          "pattern": "initial disclosures",
+          "use": "米国の民事訴訟で、初期に開示する情報を指す。",
+          "example": "The lawyers reviewed the initial disclosures required under Federal Rule of Civil Procedure 26.",
+          "translation": "弁護士らは、連邦民事訴訟規則第26条で求められる初期開示事項を確認した。"
+        }
+      ],
+      "notes": [
+        "イングランドおよびウェールズの民事訴訟規則第31部では、文書が存在する、または存在したことを述べるのが disclosure であり、inspection「閲覧」と区別される。したがって disclosure of a document を、常に「文書そのものの交付」「内容の無条件公開」と訳さない。standard disclosure の適用範囲や対象資料も、すべての訴訟に同じとは限らない。",
+        "米国の discovery は、相手方から情報を得る各種手段を含む、より広い証拠開示・収集の手続きを指し得る。disclosure が英国、discovery が米国という単純な一対一対応にはしない。米国の規則にも disclosures という区分がある。語義1の企業による情報開示と、この訴訟上の手続きは、civil case、court order、Rule 26 などの文脈から区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "discovery",
+          "definition": "訴訟に向けて、当事者が関係情報を得るための証拠開示・収集手続き。",
+          "frequency": 4,
+          "difference": "とくに米国の法律用語で、文書・情報の開示だけでなく、質問や証言を得る手段なども含み得る。各制度の disclosure と全面的に同義ではない。",
+          "example": "The parties discussed the scope of discovery at the pretrial conference.",
+          "translation": "当事者双方は、公判前協議で証拠開示・収集の範囲を話し合った。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
