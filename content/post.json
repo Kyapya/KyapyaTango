@@ -3,7 +3,7 @@
   "slug": "post",
   "ipa": "米: /poʊst/｜英: /pəʊst/。独立語は1音節で、名詞・動詞による強勢移動はない。米英差は第1音節の母音 /oʊ/ と /əʊ/。posts は米 /poʊsts/、英 /pəʊsts/ で語末は /sts/。posted は米 /ˈpoʊstɪd/、英 /ˈpəʊstɪd/、posting は米 /ˈpoʊstɪŋ/、英 /ˈpəʊstɪŋ/。これらの米英差も第1音節の母音で、posted の -ed は /ɪd/。語末の /st/ に母音を足して二音節にしない。接頭辞 post- も同じ母音を基本とするが、複合語全体の強勢は語ごとに確認する。",
   "lead": "「投稿」だけでなく、役職・郵便・柱・配置・会計・法律・接頭辞までを、語源系統と構文から整理する。",
-  "updated": "2026-10-16",
+  "updated": "2026-10-17",
   "notion_url": "https://app.notion.com/p/post-39b4faa9b77d8153b189ce543a901d63",
   "pronunciation": [],
   "etymology": [
@@ -283,14 +283,6 @@
         "a posting／several postings は可算名詞で、He is posting a message. の posting は動詞の現在分詞。the posting of an announcement は「告知を掲載する行為」という名詞化で、個別の告知と区別する。SNSの個別の投稿は短い post が特に普通。job post／job posting は求人掲載、a post as a teacher は教職そのもの。"
       ],
       "synonyms": [
-        {
-          "word": "post",
-          "definition": "オンラインに掲載された個別の投稿。",
-          "frequency": 10,
-          "difference": "この意味の posting と重なる。SNSでは post が特に一般的。",
-          "example": "Her latest post explains the new schedule.",
-          "translation": "彼女の最新の投稿は新しい予定を説明している。"
-        },
         {
           "word": "listing",
           "definition": "一覧やサイトに載せられた個別の掲載情報。",
@@ -979,7 +971,7 @@
         }
       ],
       "notes": [
-        "postwar のような一語形と post-election のようなハイフン形があり、慣用・辞書・編集方針に従う。数字には通常 post-2000 のようにハイフンを付ける。post-2000 は2000年より後の期間を指すため、2000年自体を含むかどうかが重要なデータでは年の範囲を明記する。post- を含む語が常に出来事の完全な終了を主張するわけではなく、post-pandemic などは社会状況の区切り方にも依存する。普通の文で「会議の後で」と言うなら after the meeting が広く自然。専門的な複合語では空間上の「後方の」も表し、postorbital は「眼窩の後方にある」という意味になる。"
+        "postwar のような一語形と post-election のようなハイフン形があり、慣用・辞書・編集方針に従う。数字には通常 post-2000 のようにハイフンを付ける。post-2000 は2000年より後の期間を指すため、2000年自体を含むかどうかが重要なデータでは年の範囲を明記する。post- を含む語が常に出来事の完全な終了を主張するわけではなく、post-pandemic などは社会状況の区切り方にも依存する。普通の文で「会議の後で」と言うなら after the meeting が広く自然。独立した前置詞 post the meeting「会議の後に」もあるが、接頭辞とは構造が異なり、使用域にも注意が必要（語義32）。専門的な複合語では空間上の「後方の」も表し、postorbital は「眼窩の後方にある」という意味になる。"
       ],
       "synonyms": [],
       "antonyms": [
@@ -1978,7 +1970,7 @@
       ],
       "collocations": [
         {
-          "pattern": "post",
+          "pattern": "〈騎手〉 + post",
           "use": "騎手が主語になり、乗り方を述べる。",
           "example": "The instructor asked the beginners to post rather than sit.",
           "translation": "指導者は初心者たちに、座り続けず軽速歩をするよう指示した。"
@@ -2030,6 +2022,49 @@
         }
       ],
       "antonyms": []
+    },
+    {
+      "number": 32,
+      "title": "【前置詞】～の後に",
+      "frequency": 3,
+      "register": [
+        "比較的くだけた用法。一般的な文章や正式な出版物では after が無難。"
+      ],
+      "definition": "出来事や時期を表す名詞句の前に独立して置き、それより後の時点・期間を示す。接頭辞 post- と意味は近いが、ここでは名詞句全体を目的語に取る。",
+      "patterns": [
+        "post 〈出来事・時期の名詞句〉＝その後に。post the merger のように、冠詞を含む名詞句を直接続ける。名詞の前に付いて複合語を作る post-merger とは区別する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "post the merger",
+          "use": "合併後の変化を述べる。",
+          "example": "Sales recovered post the merger.",
+          "translation": "合併後、売上は回復した。"
+        }
+      ],
+      "notes": [
+        "Sales recovered post the merger. の post は「～の後に」という前置詞。一方、post-merger sales の post- は「合併後の」という複合修飾語を作る接頭辞（語義11）。前置詞用法を常に誤りとする必要はないが、広く自然で曖昧さの少ない表現は after the merger。接頭辞のハイフンをどんな語でも外せば自然な前置詞句になる、とは考えない。"
+      ],
+      "synonyms": [
+        {
+          "word": "after",
+          "definition": "ある出来事や時点より後に。",
+          "frequency": 10,
+          "difference": "会話から正式な文章まで広く使える標準的な前置詞。この post より使用域が広い。",
+          "example": "Sales increased after the merger.",
+          "translation": "合併後、売上は増えた。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "before",
+          "definition": "ある出来事や時点より前に。",
+          "frequency": 10,
+          "difference": "基準となる出来事に対して、時間的な前後の方向が反対になる。",
+          "example": "Sales had fallen before the merger.",
+          "translation": "合併前、売上は落ち込んでいた。"
+        }
+      ]
     }
   ]
 }

@@ -3,7 +3,7 @@
   "slug": "competent",
   "ipa": "米: /ˈkɑːmpətənt/, /ˈkɑːmpɪtənt/｜英: /ˈkɒmpɪtənt/",
   "lead": "人や組織が、特定の仕事・活動・役割を適切に行うために必要な知識、技能、経験、判断力を備えている。「有能な」「力量がある」「仕事をきちんとこなせる」「適任の」と訳す。通常は要求水準を確実に満たすことを表し、非常に優秀であることまでは含意しない。",
-  "updated": "2026-10-16",
+  "updated": "2026-10-17",
   "notion_url": "https://app.notion.com/p/competent-3a34faa9b77d81829726d1416dda322a",
   "pronunciation": [
     "3音節で、第1音節に強勢がある。ここに示した米英差は、第1音節の母音が米 /ɑː/、英 /ɒ/ であることと、第2音節の母音が米では /ə/ または /ɪ/、ここに示した英音では /ɪ/ であること。第3音節は共通して /tənt/ で、強い「テント」のように発音しない。"
@@ -70,6 +70,10 @@
     {
       "type": "item",
       "text": "必要な条件を備える荷重・応力の受け手 → 「荷重・変形に耐える」（語義8）"
+    },
+    {
+      "type": "item",
+      "text": "必要な条件を備える逆流防止の弁 → 「十分に閉じて逆流を防ぐ」（語義9）"
     }
   ],
   "sources": [],
@@ -504,8 +508,8 @@
         {
           "pattern": "be competent evidence of something",
           "use": "資料が何を示す適格証拠になるかを述べる。",
-          "example": "The court treated the receipts as competent evidence of payment.",
-          "translation": "裁判所は、その領収書を支払いを示す適格な証拠として扱った。"
+          "example": "The receipts were competent evidence of payment.",
+          "translation": "その領収書は、支払いを示す適格な証拠だった。"
         }
       ],
       "notes": [
@@ -686,6 +690,47 @@
           "difference": "岩石・地層の力学的性質という同一軸での反対。人の無能力を表す語義とは区別する。",
           "example": "The incompetent layers deformed more readily than the adjacent sandstone beds.",
           "translation": "変形抵抗の小さい地層は、隣接する砂岩層よりも容易に変形した。"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "【形容詞・医学・限定／叙述】十分に閉じて逆流を防ぐ",
+      "frequency": 2,
+      "register": [
+        "循環器医学、心臓血管外科などの専門用法。"
+      ],
+      "definition": "心臓弁・静脈弁などが十分に閉じ、血液の逆流を防ぐ機能を備えている。「閉鎖機能が保たれた」「逆流を防げる」と訳す。",
+      "patterns": [
+        "a competent valve＝閉鎖機能が保たれた弁",
+        "〈弁〉 + be/remain competent＝逆流を防ぐ機能がある・保たれる。限定用法・叙述用法の両方で使い、ここでは仕事の能力の高低ではなく弁の閉鎖機能を述べる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a competent valve",
+          "use": "十分に閉じて血液の逆流を防ぐ弁を示す。",
+          "example": "A competent valve prevents blood from flowing backward.",
+          "translation": "閉鎖機能が保たれた弁は、血液の逆流を防ぐ。"
+        },
+        {
+          "pattern": "remain competent",
+          "use": "修復後などにも、弁の閉鎖機能が保たれていることを述べる。",
+          "example": "The repaired mitral valve remained competent at follow-up.",
+          "translation": "経過観察時にも、修復した僧帽弁の閉鎖機能は保たれていた。"
+        }
+      ],
+      "notes": [
+        "competent valve は、逆流を防ぐための閉鎖機能についての表現。「正常な弁」とだけ覚えて、狭窄など他の異常がすべてないと解釈しない。語義6のDNA取り込み能や語義7の免疫・発生の応答能とは、対象機能が異なる。"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "incompetent",
+          "definition": "弁が十分に閉じず、血液の逆流を許す。",
+          "frequency": 2,
+          "difference": "弁の閉鎖機能が保たれているかどうかという同一軸での反対。人の能力不足という意味ではない。",
+          "example": "The scan showed an incompetent valve with backward flow of blood.",
+          "translation": "検査画像では、閉鎖不全のある弁と血液の逆流が認められた。"
         }
       ]
     }

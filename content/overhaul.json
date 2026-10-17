@@ -30,7 +30,7 @@
   "core": [
     {
       "type": "paragraph",
-      "text": "主要な整備・改革義の核は、「対象を全体的に調べ、必要な部分へ広く手を入れること」。物理的な機械にも、抽象的な制度や方法にも使う。語義5は歴史的残存義で、「全体を見直して手を入れる」という核から追いつく・追い抜く意味は導けないため、個別に参照する。"
+      "text": "主要な整備・改革義の核は、「対象を全体的に調べ、必要な部分へ広く手を入れること」。物理的な機械にも、抽象的な制度や方法にも使い、消防では火災現場を調べて残火を処理することに具体化する。語義5は歴史的残存義で、「全体を見直して手を入れる」という核から追いつく・追い抜く意味は導けないため、個別に参照する。"
     },
     {
       "type": "item",
@@ -47,6 +47,14 @@
     {
       "type": "item",
       "text": "全体に手を入れる機械・設備の整備作業 → 「総点検・分解整備」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "全体に手を入れる火災現場の残火処理 → 「残火の点検・処理」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "全体に手を入れる火災現場への働きかけ → 「残火を点検・処理する」（語義7）"
     }
   ],
   "sources": [],
@@ -466,6 +474,86 @@
           "translation": "彼女はゴール直前で2人の走者を抜きました。"
         }
       ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【名詞・通常不可算／消防】残火の点検・処理",
+      "frequency": 3,
+      "register": [
+        "消防活動の専門用語。"
+      ],
+      "definition": "主要な火勢を抑えた後、火災現場を調べ、壁内・天井裏・がれきなどに隠れた残火を見つけて消し、再燃を防ぐ作業。単に焼け跡を片付けることではない。",
+      "patterns": [
+        "carry out/conduct overhaul＝残火処理を行う",
+        "during overhaul＝残火処理中に",
+        "overhaul operations＝残火の点検・処理活動。"
+      ],
+      "collocations": [
+        {
+          "pattern": "carry out overhaul",
+          "use": "残火を探して処理する作業を実施する。",
+          "example": "Crews carried out overhaul to locate and extinguish hidden fire.",
+          "translation": "消防隊は、隠れた残火を見つけて消すため、残火処理を行った。"
+        },
+        {
+          "pattern": "during overhaul",
+          "use": "残火処理の最中に起きたことを述べる。",
+          "example": "Firefighters found a hot spot behind the wall during overhaul.",
+          "translation": "消防隊員は、残火処理中に壁の裏で高温の箇所を見つけた。"
+        },
+        {
+          "pattern": "overhaul operations",
+          "use": "消防活動の一工程として残火処理を指す。",
+          "example": "Overhaul operations continued after the visible flames had been extinguished.",
+          "translation": "目に見える炎が消された後も、残火処理活動は続いた。"
+        }
+      ],
+      "notes": [
+        "作業一般を指すときは通常不可算で、carry out overhaul、during overhaul のように使う。",
+        "語義4の機械の総点検・整備とは対象と目的が異なる。動詞は語義7の Firefighters overhauled the attic.「消防隊員が屋根裏の残火を点検・処理した」のように場所を直接目的語に取る。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【動詞・他動詞／消防】残火を点検・処理する",
+      "frequency": 3,
+      "register": [
+        "消防活動の専門用語。"
+      ],
+      "definition": "火災現場の建物・部屋などを調べ、隠れた残火を探して必要な消火処理を行う。目的語は点検・処理する場所で、建物を修理して元に戻す意味ではない。",
+      "patterns": [
+        "overhaul 〈火災現場・部屋〉＝その場所の残火を点検・処理する",
+        "overhaul it＝その場所の残火を点検・処理する",
+        "〈場所〉 + be overhauled＝その場所の残火が点検・処理される。"
+      ],
+      "collocations": [
+        {
+          "pattern": "overhaul 〈火災現場・部屋〉",
+          "use": "場所を直接目的語にして、残火の点検・処理を述べる。",
+          "example": "Firefighters overhauled the attic to check for remaining fire.",
+          "translation": "消防隊員は、屋根裏に残火がないか調べ、必要な処理を行った。"
+        },
+        {
+          "pattern": "overhaul it",
+          "use": "すでに述べた場所を代名詞で受ける。",
+          "example": "The crew entered the fire-damaged room and overhauled it for hidden fire.",
+          "translation": "消防隊は火災で損傷した部屋に入り、隠れた残火を点検・処理した。"
+        },
+        {
+          "pattern": "〈場所〉 + be overhauled",
+          "use": "残火処理の対象となった場所を主語にする。",
+          "example": "The fire area was thoroughly overhauled before the crews left.",
+          "translation": "消防隊が現場を離れる前に、火災区域では残火の点検・処理が徹底して行われた。"
+        }
+      ],
+      "notes": [
+        "一語の他動詞で、目的語との間に前置詞は不要。",
+        "場所を点検する消防用法であり、語義3の overhaul an engine「エンジンを総点検して整備する」と区別する。名詞は語義6の carry out overhaul「残火処理を行う」で、overhaul 自体が作業を表す。"
+      ],
+      "synonyms": [],
       "antonyms": []
     }
   ]

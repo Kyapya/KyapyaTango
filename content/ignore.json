@@ -3,7 +3,7 @@
   "slug": "ignore",
   "ipa": "米: /ɪɡˈnɔːr/｜英: /ɪɡˈnɔː/。2音節で、第2音節に強勢。米英差は第2音節末の /r/ の有無。第1音節は両方 /ɪɡ/ で、綴りの g を発音する。ignored は米 /ɪɡˈnɔːrd/、英 /ɪɡˈnɔːd/ で、過去語尾は /d/。ignoring は米・英 /ɪɡˈnɔːrɪŋ/ で、英音でも母音に挟まれた /r/ が現れる。",
   "lead": "人の存在や働きかけ、発言・音などに注意や反応を向けない。人を目的語にすると、気づいているのに返事・挨拶・連絡をしないという意図的な態度を表すのが典型。ただし、外から見た無反応を述べることもあり、相手が何を認識していたかをこの語だけで証明できるわけではない。",
-  "updated": "2026-10-16",
+  "updated": "2026-10-17",
   "notion_url": "https://app.notion.com/p/ignore-3b64faa9b77d81e98208cdc80281a92f",
   "pronunciation": [],
   "etymology": [
@@ -504,7 +504,7 @@
         "ignore whitespace＝大文字小文字・空白の違いを区別しない",
         "〈システム〉 + be configured to ignore something＝処理対象から外す設定になる",
         "something + be ignored by the system＝システムで所定の処理を受けない",
-        "something + can be safely ignored＝対応しなくても問題がない"
+        "something + can be safely ignored by 〈システム〉＝システムが処理対象から外しても問題がない"
       ],
       "collocations": [
         {
@@ -527,9 +527,9 @@
         },
         {
           "pattern": "ignore an error",
-          "use": "エラーへの通常の対処を行わない。具体的な挙動は仕様による。",
-          "example": "Do not ignore this error unless you understand its cause.",
-          "translation": "原因を理解している場合を除き、このエラーを無視しないでください。"
+          "use": "プログラムが特定のエラーに対する通常の処理を省く。具体的な挙動は仕様による。",
+          "example": "The program ignores this error and continues processing the remaining files.",
+          "translation": "そのプログラムはこのエラーを無視し、残りのファイルの処理を続ける。"
         },
         {
           "pattern": "be ignored by the system",
@@ -538,10 +538,10 @@
           "translation": "期限後に行われた変更は、システムによって処理されません。"
         },
         {
-          "pattern": "can be safely ignored",
-          "use": "警告、メッセージ、差異などに対応しなくても結果へ影響しないことを示す",
-          "example": "This warning can be safely ignored in the test environment.",
-          "translation": "テスト環境では、この警告は無視しても問題ありません。"
+          "pattern": "can be safely ignored by 〈システム〉",
+          "use": "システムが特定の入力や差異を処理対象から外しても結果へ影響しないことを示す",
+          "example": "These extra spaces can be safely ignored by the parser without changing the result.",
+          "translation": "これらの余分な空白は、解析プログラムが無視しても結果は変わらない。"
         },
         {
           "pattern": "tell the application to ignore something",
@@ -563,7 +563,7 @@
         }
       ],
       "notes": [
-        "ignore は delete「削除する」とは異なる。ignore a file なら、検索・同期・監視・追跡などのうち何を省くかを文脈で判断する。Git の .gitignore は未追跡ファイルを対象外にする指定であり、既に追跡されているファイルにはその指定だけで効果が及ばない。ignore an error も「表示も記録も修正も一切しない」とは限らず、どの反応を行わないかは実装次第。suppress a warning は表示を抑えること、handle an error は対処することで、同義ではない。ignore case の case は文字の大文字・小文字。Ignore というボタン表示は、対象が文脈で分かる命令形と読め、独立した名詞義を作る必要はない。"
+        "ignore は delete「削除する」とは異なる。ignore a file なら、検索・同期・監視・追跡などのうち何を省くかを文脈で判断する。Git の .gitignore は未追跡ファイルを対象外にする指定であり、既に追跡されているファイルにはその指定だけで効果が及ばない。ignore an error も「表示も記録も修正も一切しない」とは限らず、どの反応を行わないかは実装次第。suppress a warning は警告の表示などを抑えること。ignore a warning は人が対応しない意味にも、設定により表示を抑える意味にもなり、後者では suppress と重なる。handle an error はエラーに対処することで、ignore と同義ではない。ignore case の case は文字の大文字・小文字。Ignore というボタン表示は、対象が文脈で分かる命令形と読め、独立した名詞義を作る必要はない。"
       ],
       "synonyms": [
         {

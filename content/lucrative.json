@@ -92,7 +92,7 @@
         }
       ],
       "notes": [
-        "通常は収入を生む仕事・取引・市場などを修飾し、金持ちの人を a lucrative person とは呼ばない。その意味なら a wealthy person、一方で「その人にとってもうかる」は The work is lucrative for her. とする。「やりがいがある」だけなら rewarding、「有益な経験」なら a valuable experience などを使い、金銭的な見返りのない場面で lucrative を広く「有益な」と訳さない。profitable は利益が出ることを比較的中立に表せるのに対し、lucrative は大きな収入・利益を連想させやすい。not very lucrative は「たいしてもうからない」であり、必ず赤字という意味ではない。比較級・最上級は more/most lucrative。名詞は lucre または文脈に応じて profit・income で、lucrative 自体を earn lucrative のように名詞扱いしない。lucrative と lucrative-looking は区別でき、見込まれる収益と実現した収益を文脈に沿って読む。"
+        "通常は収入を生む仕事・取引・市場などを修飾し、金持ちの人を a lucrative person とは呼ばない。その意味なら a wealthy person、一方で「その人にとってもうかる」は The work is lucrative for her. とする。「やりがいがある」だけなら rewarding、「有益な経験」なら a valuable experience などを使い、金銭的な見返りのない場面で lucrative を広く「有益な」と訳さない。profitable は利益が出ることを比較的中立に表せるのに対し、lucrative は大きな収入・利益を連想させやすい。not very lucrative は「たいしてもうからない」であり、必ず赤字という意味ではない。比較級・最上級は more/most lucrative。「もうかること・収益性」を表す派生名詞は lucrativeness。「利益・収入」そのものには profit・income などを使い、lucrative 自体を earn lucrative のように名詞扱いしない。lucre は同語源の名詞で、金銭的利得を表す。lucrative と lucrative-looking は区別でき、見込まれる収益と実現した収益を文脈に沿って読む。"
       ],
       "synonyms": [
         {
@@ -144,6 +144,57 @@
           "difference": "仕事の金銭的報酬の高低という軸で lucrative と対立する。事業全体の赤字を意味する語ではなく、名詞の前では a poorly paid job と書く。",
           "example": "The work was physically demanding and poorly paid.",
           "translation": "その仕事は体力的にきついうえ、報酬も低かった。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【形容詞：主に限定】対価なしに取得する・無償の〔法律〕",
+      "frequency": 1,
+      "register": [
+        "限定的な法律用語。フィリピンの相続・財産関係の判例などに見られる。通常の商業英語では語義1が中心。"
+      ],
+      "definition": "財産や権利の取得について、対価を差し出したり負担となる条件を引き受けたりせずに得ることを表す法律用法。特に lucrative title で、相続・贈与などによる無償の取得原因をいう。一般義1の「収益が大きい」とは異なり、取得した財産が利益を生むかどうかは述べない。",
+      "patterns": [
+        "a lucrative title＝無償の取得原因",
+        "acquire/receive 〈property〉 by lucrative title＝財産を無償で取得する",
+        "gratuitous or lucrative title＝無償の取得原因を言い換えて示す表現。title はここでは肩書や作品名ではなく、財産取得の法的根拠を表す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "acquire 〈property〉 by lucrative title",
+          "use": "相続や贈与など、対価を払わない財産取得を法律文書で説明する。",
+          "example": "The judgment described the inherited land as property acquired by lucrative title.",
+          "translation": "その判決は、相続した土地を無償で取得された財産と説明した。"
+        },
+        {
+          "pattern": "gratuitous or lucrative title",
+          "use": "法律上の lucrative を gratuitous と言い換えて無償取得を示す。",
+          "example": "The court used the phrase “gratuitous or lucrative title” when discussing the inheritance.",
+          "translation": "裁判所は、その相続を論じる際に「無償の取得原因」という意味で gratuitous or lucrative title という表現を用いた。"
+        }
+      ],
+      "notes": [
+        "収益性の程度を示す語義1と区別する。この専門義を日常の a lucrative job や a lucrative business に当てはめない。無償であることから、個々の相続の債務・税負担や法的効果まで一律に判断できるわけではない。具体的な扱いは法域と規定による。"
+      ],
+      "synonyms": [
+        {
+          "word": "gratuitous",
+          "definition": "財産の移転などが対価なしに行われる、無償の。",
+          "frequency": 3,
+          "difference": "法律上の無償性を表す語で、この lucrative の専門義と重なる。gratuitous には一般語として「いわれのない・余計な」という別義もある。",
+          "example": "The document described the gift as a gratuitous transfer.",
+          "translation": "その文書は、その贈与を無償の移転と説明した。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "onerous",
+          "definition": "法律上、対価や負担を伴う、有償の。",
+          "frequency": 2,
+          "difference": "この対比では取得・移転に対価や負担があることを示す。一般語の「骨の折れる」という意味だけで解釈しない。",
+          "example": "The analysis distinguished gratuitous transfers from onerous transfers.",
+          "translation": "その分析は、無償の移転と有償の移転を区別した。"
         }
       ]
     }
