@@ -1,0 +1,440 @@
+{
+  "word": "redundancy",
+  "slug": "redundancy",
+  "ipa": "米・英: /rɪˈdʌn.dən.si/。4音節で、第2音節 /dʌn/ に主強勢がある。第1音節は短い /rɪ/、第3音節は弱い /dən/、第4音節は /si/。語末を「サイ」と読まない。形容詞 redundant /rɪˈdʌn.dənt/ と主強勢の位置は同じで、名詞では末尾が -dancy /dən.si/ になる。",
+  "lead": "言葉、説明、作業、機能などが必要以上にあること、特に同じ情報や役割が無用に重なっていること。また、そのような余分な表現や重複箇所。文章では「冗長さ・重複表現」、業務では「無駄な重複」などと訳す。通常は削減すべきものという評価があるが、重複が有用な技術的・言語的文脈では、語義3・4の中立的または肯定的な意味を区別する。",
+  "updated": "2026-10-17",
+  "notion_url": "https://app.notion.com/p/redundancy-3fc4faa9b77d8191a6d8d139731f56c1",
+  "pronunciation": [],
+  "etymology": [
+    "redundant「余分な」と同じ語の系列で、形容詞の -ant に対応して状態・性質を表す -ancy を持つ名詞。もとはラテン語 redundare「あふれる」にさかのぼり、必要な量を超えて余るという意味につながる。redundare は re- と undare「波立つ・あふれる」から成り、unda は「波」。同じ語源の redound は現代では主に redound to someone's credit「人の名誉・評価につながる」などで使い、undulate「波打つ」は unda を共有する。語源上の「あふれる」を覚える手掛かりにできるが、現代の雇用制度や技術上の仕組みは各語義で区別する。"
+  ],
+  "formation": [
+    {
+      "term": "redundant",
+      "description": "形容詞。「余分な・重複した」、雇用では「人員整理の対象となった」、技術では「予備・多重化された」。名詞 redundancy と文中の働きが異なる。"
+    },
+    {
+      "term": "redundancies",
+      "description": "複数形。個々の余分な箇所、重複、解雇の件数、予備の仕組みなどを数える。綴りは -cy を -cies に変える。"
+    },
+    {
+      "term": "redundantly",
+      "description": "副詞。「重複して・冗長に」。技術文脈では store data redundantly「データを冗長化して保存する」のように、意図的な重複にも使う。"
+    },
+    {
+      "term": "redundancy pay",
+      "description": "複合名詞。人員整理による離職に伴う手当・補償金を表す英国英語の表現。具体的な支給資格・金額は語の形からは決まらない。"
+    },
+    {
+      "term": "cyclic redundancy check",
+      "description": "複合名詞。略称 CRC。「巡回冗長検査」。データ伝送などで誤りを検出する方法を指し、一般的な「重複箇所の点検」ではない。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "核は、「一つの目的を満たすために必要な最小限を超えて、要素が余る・重なること」。余りを無駄として減らす場合も、故障や情報の欠落に備えて意図的に持たせる場合もあり、評価は対象と目的で変わる。"
+    },
+    {
+      "type": "item",
+      "text": "必要量を超える言葉・作業などの重なり → 「余分・冗長さ・不要な重複」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "必要量を超える人員を減らす雇用上の処置 → 「人員整理・余剰人員の解雇」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "必要量を超える予備の機能・構成要素 → 「冗長性・冗長化・予備の仕組み」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "必要量を超える伝達情報の重なり → 「情報の冗長性・冗長度」（語義4）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・不可算／可算】余分・冗長さ・不要な重複",
+      "frequency": 6,
+      "register": [
+        "文章の推敲・説明・業務改善・システムやデータの整理。やや硬い分析的な語で、単なる長さだけを指すわけではない。"
+      ],
+      "definition": "言葉、説明、作業、機能などが必要以上にあること、特に同じ情報や役割が無用に重なっていること。また、そのような余分な表現や重複箇所。文章では「冗長さ・重複表現」、業務では「無駄な重複」などと訳す。通常は削減すべきものという評価があるが、重複が有用な技術的・言語的文脈では、語義3・4の中立的または肯定的な意味を区別する。",
+      "patterns": [
+        "redundancy in 〈文章・作業〉",
+        "avoid redundancy",
+        "eliminate redundancy",
+        "reduce redundancy",
+        "remove redundancies from 〈文章・手順〉",
+        "a redundancy",
+        "the redundancy of 〈語句・機能〉。性質・状態は不可算、個々の重複は可算。"
+      ],
+      "collocations": [
+        {
+          "pattern": "redundancy in 〈文章・作業〉",
+          "use": "どこに不要な重複があるかを示す。",
+          "example": "There is considerable redundancy in these forms because three sections ask for the same details.",
+          "translation": "三つの欄で同じ情報を尋ねているため、これらの書式にはかなりの重複があります。"
+        },
+        {
+          "pattern": "avoid redundancy",
+          "use": "文章や説明で、不要な繰り返しを避けるよう勧める。",
+          "example": "To avoid redundancy, state the deadline once and refer back to it if necessary.",
+          "translation": "重複を避けるため、締め切りは一度だけ明記し、必要ならそこを参照してください。"
+        },
+        {
+          "pattern": "eliminate redundancy",
+          "use": "同じ役割を果たす無駄な工程や記述をなくす。",
+          "example": "Sharing the inspection results helped eliminate redundancy in the review process.",
+          "translation": "検査結果を共有することで、審査過程の不要な重複をなくせました。"
+        },
+        {
+          "pattern": "remove redundancies from 〈文章・手順〉（redundancy の複数形）",
+          "use": "一つ一つの重複箇所を可算名詞で表す。",
+          "example": "The editor removed several redundancies from the introduction.",
+          "translation": "編集者は序文からいくつかの重複表現を削除しました。"
+        },
+        {
+          "pattern": "a redundancy",
+          "use": "個別の表現などを「一つの余分な重複」と評価する。",
+          "example": "In the phrase \"repeat again\", \"again\" may be a redundancy if no further repetition is meant.",
+          "translation": "「repeat again」という句では、さらにもう一度繰り返す意味でなければ、「again」は余分な重複になり得ます。"
+        },
+        {
+          "pattern": "the redundancy of 〈語句・機能〉",
+          "use": "ある要素を不要だと判断する理由や性質を論じる。",
+          "example": "The redundancy of the second signature requirement became clear when we mapped the approval process.",
+          "translation": "承認手続きを図にすると、二つ目の署名を求めることが不要だとはっきりしました。"
+        }
+      ],
+      "notes": [
+        "性質なら There is too much redundancy in the report.、個々の箇所なら The report contains several redundancies. と使い分ける。「重複している」と形容する場合は誤: This sentence is redundancy. → 正: This sentence is redundant.。redundancy は repetition「繰り返し」より、同じ内容・機能が重なり新しい貢献がないという判断を含みやすい。ただし反復には強調・対比・明確化の役割もあり、同じ単語があるだけで必ず不要とは限らない。例えば repeat again は、すでに一度繰り返したことをさらに繰り返す文脈では有意味になる。文章が長いことを表す wordiness とも完全には一致せず、短い句にも redundancy はあり得る。業務の eliminate redundancies は重複機能の廃止にも、人員整理にも解釈され得るため、対象を明記する。data redundancy は、設計上の無駄なデータ重複を批判する場合と、安全のための複製を肯定する場合がある。"
+      ],
+      "synonyms": [
+        {
+          "word": "duplication",
+          "definition": "同じものや作業が二重以上に存在すること。",
+          "frequency": 6,
+          "difference": "重複という事実に焦点を当て、必ずしも無駄とは評価しない。この語義の redundancy は、必要以上の重複だという評価を表しやすい。",
+          "example": "Better coordination will prevent duplication of effort.",
+          "translation": "連携を改善すれば、作業の重複を防げます。"
+        },
+        {
+          "word": "repetition",
+          "definition": "同じ言葉・行為・内容などを繰り返すこと。",
+          "frequency": 7,
+          "difference": "練習や強調などの有用な反復も含む。redundancy は、内容や機能が余分に重なっている点を問題にする。",
+          "example": "Repetition helps learners remember the new expressions.",
+          "translation": "繰り返すことで、学習者は新しい表現を覚えやすくなります。"
+        },
+        {
+          "word": "wordiness",
+          "definition": "必要以上に多くの言葉を使う冗長さ。",
+          "frequency": 4,
+          "difference": "言葉の多さが中心。redundancy は同じ意味の重なりや不要な要素を指し、文章以外の作業・機能にも使える。",
+          "example": "We shortened the instructions to reduce wordiness.",
+          "translation": "冗長さを減らすため、説明文を短くしました。"
+        },
+        {
+          "word": "tautology",
+          "definition": "同じ内容を別の言葉で重ねて述べる表現。",
+          "frequency": 4,
+          "difference": "ここでは修辞・文章上の同義反復を指し、redundancy より対象が狭い。論理学の「恒真式」という別義は、この redundancy の類義ではない。",
+          "example": "The editor described \"a free gift at no cost\" as a tautology.",
+          "translation": "編集者は「費用のかからない無料の贈り物」を同義反復と評しました。"
+        },
+        {
+          "word": "superfluity",
+          "definition": "必要な量を超えて余っていること、または余分なもの。",
+          "frequency": 3,
+          "difference": "量や要素の余剰を表す硬い語。redundancy のように内容・機能の重なりへ焦点を当てるとは限らない。",
+          "example": "The design suffers from a superfluity of decorative details.",
+          "translation": "そのデザインは装飾的な細部が多すぎて、かえってよさを損なっています。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・不可算／可算】人員整理・余剰人員の解雇",
+      "frequency": 6,
+      "register": [
+        "主に英国英語の雇用・人事・労働報道。他の英語圏でも使われるが、制度上の定義や権利は国・法域により異なる。米国では近い状況に layoff",
+        "job cuts などをよく使う。"
+      ],
+      "definition": "雇用主側で仕事や必要な人員が減ったために、従業員の雇用を終了すること。また、そのような解雇の一件。本人の不正行為や仕事ぶりの悪さを理由とする解雇とは、語彙上の焦点が異なる。英国英語の代表的用法で、人そのものの価値がないという意味ではなく、職や必要人員に関する表現。",
+      "patterns": [
+        "face redundancy",
+        "be at risk of redundancy",
+        "take voluntary redundancy",
+        "offer voluntary redundancy",
+        "compulsory redundancies",
+        "a round of redundancies",
+        "make redundancies",
+        "redundancy pay",
+        "a redundancy package",
+        "be selected for redundancy。状況・処置は不可算、人数に対応する個々の解雇は可算。"
+      ],
+      "collocations": [
+        {
+          "pattern": "face redundancy",
+          "use": "人員整理によって職を失う可能性に直面していることを述べる。",
+          "example": "Several employees face redundancy after the factory announced plans to close.",
+          "translation": "工場が閉鎖計画を発表したため、数人の従業員が人員整理による解雇に直面しています。"
+        },
+        {
+          "pattern": "be at risk of redundancy",
+          "use": "まだ解雇が確定していない段階の可能性を示す。",
+          "example": "Staff in the affected department have been told that they are at risk of redundancy.",
+          "translation": "対象部門の職員には、人員整理の対象となる可能性があると伝えられました。"
+        },
+        {
+          "pattern": "take voluntary redundancy",
+          "use": "人員削減の募集に応じて、提示された離職を選ぶことを述べる。",
+          "example": "She took voluntary redundancy when the company reduced its administrative staff.",
+          "translation": "会社が事務職員を削減した際、彼女は希望退職に応じました。"
+        },
+        {
+          "pattern": "offer voluntary redundancy",
+          "use": "雇用主が、従業員に自ら応募する形の人員削減を提示する。",
+          "example": "The company offered voluntary redundancy to staff in the closing office.",
+          "translation": "会社は閉鎖するオフィスの職員を対象に、希望退職者を募りました。"
+        },
+        {
+          "pattern": "compulsory redundancies（redundancy の複数形）",
+          "use": "従業員の自発的な応募によらない人員整理を示す。",
+          "example": "Management said that shorter working hours might help avoid compulsory redundancies.",
+          "translation": "経営側は、労働時間を短縮すれば強制的な人員整理を避けられるかもしれないと述べました。"
+        },
+        {
+          "pattern": "a round of redundancies（redundancy の複数形）",
+          "use": "ある時期にまとまって行われる一連の人員削減を表す。",
+          "example": "The branch closure led to another round of redundancies.",
+          "translation": "支店閉鎖によって、再び一連の人員整理が行われました。"
+        },
+        {
+          "pattern": "make redundancies（redundancy の複数形）",
+          "use": "会社などが個々の人員整理を実施することを可算名詞で表す。",
+          "example": "The firm hopes to reduce costs without making any redundancies.",
+          "translation": "その会社は、人員整理を行わずに経費を削減したいと考えています。"
+        },
+        {
+          "pattern": "redundancy pay",
+          "use": "人員整理による離職に伴う手当・補償金を表す。",
+          "example": "The letter sets out the redundancy pay offered under the company's scheme.",
+          "translation": "その書面には、会社の制度に基づいて提示された人員整理に伴う手当の内容が記されています。"
+        },
+        {
+          "pattern": "a redundancy package",
+          "use": "金銭その他の支援を含む離職条件のまとまりを指す。",
+          "example": "The proposed redundancy package includes career advice as well as a payment.",
+          "translation": "提示された人員整理に伴う離職条件には、金銭の支給に加えて転職相談も含まれています。"
+        },
+        {
+          "pattern": "be selected for redundancy",
+          "use": "人員整理の対象者として選ばれることを表す。",
+          "example": "Employees selected for redundancy were invited to individual meetings.",
+          "translation": "人員整理の対象に選ばれた従業員は、個別面談に招かれました。"
+        }
+      ],
+      "notes": [
+        "redundancy は名詞、redundant は形容詞。誤: She was made redundancy. → 正: She was made redundant.。make someone redundant「人を人員整理で解雇する」と make redundancies「人員整理を行う」は別の構造で、前者は make + 目的語 + 形容詞、後者は make + 複数名詞。20 redundancies は通常20件の人員整理を指し、20人の「不要な人」という一般評価ではない。at risk of redundancy は対象になる可能性を示し、解雇が確定したこととは区別する。voluntary redundancy は雇用主の人員削減に応募する枠組みで、通常の自己都合の resignation と同一ではない。また、応募すれば必ず承認されるという意味でもない。英国の公的案内では redundancy は dismissal の一種として説明されるが、具体的な対象要件、協議・通知、支給資格、金額などは適用法や雇用条件による。redundancy pay という語だけで全員に同じ手当が必ず支払われるとは判断しない。米国の layoff は永続的な人員削減にも一時的な解雇にも使われ、英国の lay-off は仕事を一時的に与えない状況を指すことがあるため、制度の説明で機械的に同一視しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "layoff",
+          "definition": "仕事の不足や経営上の理由によって従業員を働かせなくすること、または解雇すること。",
+          "frequency": 7,
+          "difference": "米国で redundancy に近い場面によく使い、一時的・永続的の両方があり得る。英国での一時帰休的な lay-off と redundancy の制度上の区別には注意が必要。",
+          "example": "The company announced layoffs after demand for its products fell.",
+          "translation": "製品需要が減ったため、その会社は人員削減を発表しました。"
+        },
+        {
+          "word": "job cuts",
+          "definition": "職や雇用の数を減らすこと。",
+          "frequency": 7,
+          "difference": "報道で使いやすく、削減される職の数に焦点がある。未補充の空席をなくす場合も含められ、必ずしも実際の従業員の解雇と一対一ではない。",
+          "example": "The plan involves job cuts, some of which will come from leaving vacancies unfilled.",
+          "translation": "計画には雇用削減が含まれ、その一部は空いた職を補充しないことで実現します。"
+        },
+        {
+          "word": "dismissal",
+          "definition": "雇用主が従業員の雇用を終了すること。",
+          "frequency": 6,
+          "difference": "redundancy より広く、懲戒や能力を理由とする解雇なども含む。人員が余ることを原因として限定しない。",
+          "example": "The employee challenged the reason given for his dismissal.",
+          "translation": "その従業員は、自分の解雇理由として示された内容に異議を唱えました。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・通常不可算／個々の仕組みは可算】冗長性・冗長化・予備の仕組み",
+      "frequency": 5,
+      "register": [
+        "IT・通信・電力・航空・制御・設備設計。技術的な語で、日常的な物の余りを表す語義1とは評価と目的が異なる。"
+      ],
+      "definition": "一部が故障・停止しても機能を保てるよう、通常の動作に必要な最小限を超える装置、経路、電源、データの複製などを設けておくこと、またはその性質・構成。個々の予備機構を a redundancy／redundancies と呼ぶ場合もある。ここでは「無駄」という批判ではなく、信頼性を高めるための意図的な重複を表す。",
+      "patterns": [
+        "build redundancy into 〈システム〉",
+        "provide redundancy",
+        "add redundancy to 〈構成〉",
+        "network redundancy",
+        "power redundancy",
+        "data redundancy",
+        "a level of redundancy",
+        "built-in redundancy",
+        "incorporate redundancies。構成の性質は通常不可算。"
+      ],
+      "collocations": [
+        {
+          "pattern": "build redundancy into 〈システム〉",
+          "use": "設計段階で予備や多重構成を組み込む。",
+          "example": "The engineers built redundancy into the control system by using independent power supplies.",
+          "translation": "技術者たちは独立した電源を使い、制御装置に冗長性を組み込みました。"
+        },
+        {
+          "pattern": "provide redundancy",
+          "use": "追加の装置・経路が予備の役割を果たすことを示す。",
+          "example": "A second network connection provides redundancy if the primary link fails.",
+          "translation": "主回線が故障した場合に備え、2本目のネットワーク回線で冗長性を確保しています。"
+        },
+        {
+          "pattern": "add redundancy to 〈構成〉",
+          "use": "既存の構成に追加の予備機能を持たせる。",
+          "example": "We added redundancy to the power system by installing a separate supply.",
+          "translation": "別系統の電源を設けて、電源システムを冗長化しました。"
+        },
+        {
+          "pattern": "data redundancy",
+          "use": "障害に備えてデータを複数の場所に保持することを表す。",
+          "example": "Keeping synchronized copies on separate storage nodes provides data redundancy.",
+          "translation": "別々のストレージノードに同期した複製を保持することで、データの冗長性を確保できます。"
+        },
+        {
+          "pattern": "a level of redundancy",
+          "use": "予備構成をどの程度持たせるかを述べる。",
+          "example": "The required level of redundancy depends on which failures the system must tolerate.",
+          "translation": "必要な冗長性の水準は、システムがどのような故障に耐える必要があるかによって決まります。"
+        },
+        {
+          "pattern": "built-in redundancy",
+          "use": "後付けではなく、設計に組み込まれた予備構成を示す。",
+          "example": "The aircraft's control system has built-in redundancy.",
+          "translation": "その航空機の制御装置には、設計上の冗長性が備わっています。"
+        },
+        {
+          "pattern": "incorporate redundancies（redundancy の複数形）",
+          "use": "個々の予備の仕組みを複数として数える。",
+          "example": "The design incorporates several redundancies, including a spare sensor and a second communication link.",
+          "translation": "その設計には、予備センサーと2本目の通信回線など、複数の冗長化の仕組みが組み込まれています。"
+        }
+      ],
+      "notes": [
+        "予備は待機専用とは限らず、複数の系統を並行稼働させる構成もある。この意味では more redundancy が安全性向上に役立つことがあり、「重複だから削除すべき」とは限らない。ただし機器を二つ置くだけで、あらゆる障害に耐えられるとは言えない。同じ電源や接続先を共有すれば一緒に停止し得るし、故障検知や切り替え、必要な処理能力なども関係する。redundancy は予備・多重構成、failover は障害時に別の系統へ切り替える動作であり、同義ではない。backup は予備装置を指す場合には近いが、データのバックアップは過去の状態を復元するための保存という役割も持つ。現在のデータを複製するだけでは、誤削除や破損まで複製されることがあり、redundancy があることだけでバックアップの必要がなくなるとは限らない。data redundancy は、データベース設計で不要な重複を指すなら語義1になる。N+1 redundancy のような表記では、必要な数 N に予備を加える考え方を示すが、その数字だけでシステム全体の無停止運転を保証するものではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "duplication",
+          "definition": "装置・経路・データなどを重複して設けること。",
+          "frequency": 5,
+          "difference": "冗長化を実現する方法として意味が重なるが、duplication 自体は同じものを複数作る行為に焦点があり、障害時の機能維持を必ず目的とするわけではない。",
+          "example": "Duplication of critical components increased the system's resilience.",
+          "translation": "重要な構成部品を二重化したことで、システムの障害への強さが高まりました。"
+        },
+        {
+          "word": "replication",
+          "definition": "データなどの複製を作り、別の場所にも保持すること。",
+          "frequency": 5,
+          "difference": "特にデータ冗長化の文脈で重なる。replication は複製という処理・方式で、redundancy は複製や予備を持つ構成・性質を表す。電源の冗長化全般を replication とは呼ばない。",
+          "example": "Data replication keeps a second copy available at another site.",
+          "translation": "データ複製によって、別拠点でも2つ目のコピーを利用できる状態に保ちます。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・通常不可算】情報の冗長性・冗長度",
+      "frequency": 3,
+      "register": [
+        "言語学・情報理論・通信・符号化。専門分野ごとの測定方法や細かな定義は異なるが、情報として予測可能な重なりを扱う点が共通する。"
+      ],
+      "definition": "伝達される言語や信号の中で、ほかの部分や既知の規則から予測できる情報が重なっていること、またはその余分の程度。言語では、同じ文法情報が複数箇所に示されることなどを指す。情報通信では、最小限の表現に加えられたビットや規則的な重複を含み、圧縮で減らす対象にも、誤りの検出・訂正のために加えるものにもなる。単に「文章が下手で無駄が多い」と評する語義1より中立的・専門的。",
+      "patterns": [
+        "linguistic redundancy",
+        "grammatical redundancy",
+        "redundancy in natural language",
+        "reduce redundancy through compression",
+        "add redundancy to 〈メッセージ・符号〉",
+        "the degree of redundancy",
+        "cyclic redundancy check。名詞を修飾する linguistic",
+        "grammatical などで領域を明確にする。"
+      ],
+      "collocations": [
+        {
+          "pattern": "linguistic redundancy",
+          "use": "言語の中の情報の重なりを、必ずしも欠点とせず分析する。",
+          "example": "Linguistic redundancy can help listeners recover words that are partly masked by noise.",
+          "translation": "言語の冗長性は、雑音で一部が聞こえなくなった語を聞き手が補う助けになることがあります。"
+        },
+        {
+          "pattern": "grammatical redundancy",
+          "use": "同じ文法情報が複数の要素に現れることを示す。",
+          "example": "The plural meaning in \"two cats\" is expressed by both the numeral and the ending, illustrating grammatical redundancy.",
+          "translation": "「two cats」の複数という意味は数詞と語尾の両方で示されており、文法的冗長性の例となります。"
+        },
+        {
+          "pattern": "redundancy in natural language",
+          "use": "自然言語に規則性や予測可能な情報が含まれることを説明する。",
+          "example": "Redundancy in natural language helps explain why readers can often infer a missing letter.",
+          "translation": "自然言語の冗長性は、読者が欠けた文字を推測できることが多い理由を説明する一因です。"
+        },
+        {
+          "pattern": "reduce redundancy through compression",
+          "use": "データの表現にある予測可能な重複を圧縮によって減らす。",
+          "example": "The encoder reduces redundancy through compression before the data is transmitted.",
+          "translation": "符号化装置は、データを送信する前に圧縮によって冗長性を減らします。"
+        },
+        {
+          "pattern": "add redundancy to 〈メッセージ・符号〉",
+          "use": "誤りの検出・訂正のため、情報に追加の構造を持たせる。",
+          "example": "The code adds redundancy to the message so that certain transmission errors can be corrected.",
+          "translation": "その符号は、特定の伝送誤りを訂正できるよう、メッセージに冗長性を加えます。"
+        },
+        {
+          "pattern": "cyclic redundancy check",
+          "use": "データの誤りを検出する CRC という定着した技術用語を示す。",
+          "example": "The receiver performs a cyclic redundancy check to detect errors in the frame.",
+          "translation": "受信側は、フレーム内の誤りを検出するため巡回冗長検査を行います。"
+        }
+      ],
+      "notes": [
+        "情報として重複していても、文法上省略できるとは限らない。two cats の cats の -s は two から複数が分かっても、標準的な英語で単に落としてよいわけではなく、誤: two cat → 正: two cats。語義1の「不要な繰り返し」と違い、ここでの redundancy は理解を助ける場合もある。圧縮では冗長性を減らし、通信路の符号化では誤り対策のために冗長性を加えることがあり、目的が異なるため矛盾しない。redundancy は誤り訂正そのものを意味せず、追加の情報をどのような符号・方法で使うかによって、検出できる誤りや訂正能力が変わる。CRC は基本的に誤り検出の用語で、「CRC を付ければ必ず元データを自動修復できる」とは言えない。語義3の二重の電源や予備回線は装置・構成の冗長性、ここでは言語・符号が含む情報の冗長性を述べている。"
+      ],
+      "synonyms": [
+        {
+          "word": "repetition",
+          "definition": "同じ情報や特徴が繰り返し現れること。",
+          "frequency": 5,
+          "difference": "情報の繰り返しという範囲で重なるが、redundancy は同じ形の反復に限らず、別の要素や規則から予測できる情報も含む。",
+          "example": "Repetition of a key word may make a spoken instruction easier to follow.",
+          "translation": "重要な語を繰り返すと、口頭の指示が分かりやすくなることがあります。"
+        },
+        {
+          "word": "overdetermination",
+          "definition": "一つの解釈や性質が、それを決めるのに足りる以上の複数の手掛かりによって示されること。",
+          "frequency": 2,
+          "difference": "言語分析で、同じ内容を複数の手掛かりが支えるという範囲で redundancy と重なる専門語。冗長度の測定や通信の追加ビット一般を、そのまま置き換える語ではない。",
+          "example": "The linguist described the agreement pattern as a form of overdetermination.",
+          "translation": "その言語学者は、一致のパターンを、一つの情報が複数の手掛かりで示される現象の一形態と説明しました。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
