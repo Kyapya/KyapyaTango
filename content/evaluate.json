@@ -242,8 +242,8 @@
         {
           "pattern": "evaluate to True",
           "use": "式の評価結果が真偽値 True であると述べる。",
-          "example": "In Python, the expression 3 \\< 5 evaluates to True.",
-          "translation": "Python では、式 3 \\< 5 の評価結果は True になる。"
+          "example": "In Python, the expression True or False evaluates to True.",
+          "translation": "Pythonでは、式 True or False の評価結果は True になる。"
         },
         {
           "pattern": "evaluate to an empty string",
