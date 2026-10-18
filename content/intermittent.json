@@ -3,7 +3,7 @@
   "slug": "intermittent",
   "ipa": "米: /ˌɪn.tərˈmɪt.ənt/｜英: /ˌɪn.təˈmɪt.ənt/。4音節で第3音節に主強勢、第1音節に第二強勢を置く。示した米英形の違いは第2音節末の /r/ の有無。",
   "lead": "ある期間の中で、起こる・動く状態と、止まる・起こらない状態を繰り返すこと。雨、音、通信、痛み、作業、接触などに使う。間隔が不規則なことが多いが、不規則さが絶対条件ではない。切れ目の存在が中心で、発生回数が少ない、各回が弱い、全体の期間が短いという意味は必須ではない。",
-  "updated": "2026-10-17",
+  "updated": "2026-10-18",
   "notion_url": "https://app.notion.com/p/intermittent-3fc4faa9b77d81c38adbcf88bb59659b",
   "pronunciation": [],
   "etymology": [
@@ -75,7 +75,7 @@
         }
       ],
       "notes": [
-        "intermittent service「途切れながら提供されるサービス」は、必ずしも「一時的なサービス」ではない。temporary service は提供期間の限定を表し、その間は連続していてもよい。sporadic は発生が散発的で規則性に乏しい点、intermittent は途中で切れて再び起こる点に重点があるが、intermittent/sporadic rain のように重なる。periodic は一定周期の反復を表す対照表現で、intermittent と常に反対になるわけではない。intermittent fasting のような計画的な反復もあるため「必ず不規則」と覚えない。intermittent pain は痛みの出現に間があるという意味で、痛みの軽さを保証しない。形容詞を動詞修飾に使う We communicate intermittent. は避け、We communicate intermittently. とする。"
+        "intermittent service「途切れながら提供されるサービス」は、必ずしも「一時的なサービス」ではない。temporary service は提供期間の限定を表し、その間は連続していてもよい。sporadic は発生が散発的で規則性に乏しい点、intermittent は途中で切れて再び起こる点に重点があるが、intermittent/sporadic rain のように重なる。periodic は主におおむね規則的な反復に焦点を当てるが、「ときどき繰り返し起こる」意味でも使い、必ず厳密な一定周期とは限らない。intermittent と常に反対になるわけではない。intermittent fasting のような計画的な反復もあるため「必ず不規則」と覚えない。intermittent pain は痛みの出現に間があるという意味で、痛みの軽さを保証しない。形容詞を動詞修飾に使う We communicate intermittent. は避け、We communicate intermittently. とする。"
       ],
       "synonyms": [
         {
@@ -127,6 +127,48 @@
           "difference": "継続状態の反対で、特定の期間に中断がなかったことを強調する。",
           "example": "We need two hours of uninterrupted access to the equipment.",
           "translation": "私たちには、その装置を中断なく2時間使えることが必要だ。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【形容詞：限定・叙述】一年の一部だけ流れる・水をたたえる",
+      "frequency": 3,
+      "register": [
+        "地理・水文学・環境。"
+      ],
+      "definition": "河川・湖などが、季節などに応じて一年の一部だけ流れたり水をたたえたりし、乾く時期があること。一般的な動作の中断だけでなく、水域の性質を述べる用法。",
+      "patterns": [
+        "an intermittent stream＝一年の一部だけ流れる川",
+        "an intermittent lake＝水をたたえる時期と乾く時期がある湖",
+        "〈河川・湖〉 + be intermittent＝通年の流水・湛水ではない。名詞の前でも補語でも使う。"
+      ],
+      "collocations": [
+        {
+          "pattern": "be intermittent",
+          "use": "川が通年流れるわけではなく、乾く時期があると述べる。",
+          "example": "The stream is intermittent and usually dries up in summer.",
+          "translation": "その川は通年流れる川ではなく、たいてい夏には干上がる。"
+        },
+        {
+          "pattern": "an intermittent lake",
+          "use": "一年の一部だけ水をたたえる湖を説明する。",
+          "example": "The map shows an intermittent lake that is dry for part of the year.",
+          "translation": "その地図には、一年の一部は干上がっている湖が示されている。"
+        }
+      ],
+      "notes": [
+        "必ず夏に干上がるという意味ではなく、水のある時期は気候や水域による。ephemeral との厳密な境界や、法令・調査で用いる日数などの分類条件は制度によって異なるため、この語だけから決めない。"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "perennial",
+          "definition": "河川について、一年を通して流れる。",
+          "frequency": 3,
+          "difference": "一年の一部だけ流れるか、通年流れるかという流水期間の軸で対立する。個別の分類基準は資料に従う。",
+          "example": "The survey distinguishes perennial streams from streams that dry up seasonally.",
+          "translation": "その調査は、通年流れる川と季節的に干上がる川を区別している。"
         }
       ]
     }
