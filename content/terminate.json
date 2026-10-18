@@ -1,0 +1,853 @@
+{
+  "word": "terminate",
+  "slug": "terminate",
+  "ipa": "米: /ˈtɝː.mə.neɪt/｜英: /ˈtɜː.mɪ.neɪt/",
+  "lead": "人・組織・出来事などが、続いている契約・関係・活動・サービス・処理などに終わりを付ける。正式な終了や明確な打切りを表す改まった語。予定より早い中止にも使うが、「途中で」「突然」「違約によって」は必須の意味ではない。作業が成功したことや、目標を達成したことも含まない。",
+  "updated": "2026-10-18",
+  "notion_url": "https://app.notion.com/p/terminate-3fd4faa9b77d812a99cdcb4a1f743b5e",
+  "pronunciation": [
+    "動詞は3音節で、第1音節に主強勢を置く。上の表記では、第1音節の母音が米 /ɝː/ と英 /ɜː/、第2音節の母音が米 /ə/ と英 /ɪ/ で異なる。第3音節の母音はともに /eɪ/。米音は第1音節に r の響きを伴う。辞書によって第2音節を米英とも /ɪ/ とする表記や、第3音節に第二強勢を示す表記もある。terminated の -ed は /ɪd/ で、全体は4音節になる。terminates の語尾は /ts/。低頻度の形容詞 terminate は、米語の一例で /ˈtɝː.mə.nət/ と発音し、第3音節の母音が動詞の /eɪ/ ではなく /ə/ になる。"
+  ],
+  "etymology": [
+    "ラテン語 terminare「境界を定める、終わらせる」の過去分詞 terminatus に由来し、その基礎は terminus「境界、終点」。空間の端を定めることと、時間・活動に終わりを付けることがつながる。英語への定着年代は辞書によって説明が異なるため、特定の年を断定しない。",
+    "同じ terminus 系の語に terminal「末端の、終着の／ターミナル」、terminus「終点」、determine「決定する、明らかにする」がある。determine はラテン語 determinare「境界を定める、限定する」に由来するが、現代英語で terminate と自由に置き換えられるわけではない。"
+  ],
+  "formation": [
+    {
+      "term": "terminates / terminated / terminating",
+      "description": "三人称単数現在・過去形と過去分詞・現在分詞。terminating は語末の e を落とす。terminated は a terminated contract「終了した契約」のような分詞修飾にも使うが、独立した感情・評価の意味を基本として持つ形容詞ではない。"
+    },
+    {
+      "term": "termination",
+      "description": "名詞「終了、打切り、雇用の終了」。一般的な行為・過程は不可算が中心で、個々の終了事例は可算にもなる。termination of employment は雇用の終了、termination of pregnancy は妊娠中絶を表し、対象によって訳が変わる。"
+    },
+    {
+      "term": "terminable",
+      "description": "形容詞「終了できる、終了させられる」。契約文書などの a contract terminable on notice は「通知によって終了できる契約」。terminable 自体は「すでに終了した」ではない。"
+    },
+    {
+      "term": "interminable",
+      "description": "形容詞「果てしなく続く、うんざりするほど長い」。同じ語族の否定形だが、現代の一般用法では単に契約を終了できないという意味より、長さへの不満を表すことが多い。interminably は対応する副詞。"
+    },
+    {
+      "term": "terminator",
+      "description": "名詞「終わらせるもの・人」。電子工学では終端器、天文学では天体の明部と暗部の境界線を指す。映画名・登場人物名の The Terminator は固有名詞として大文字で書く。"
+    },
+    {
+      "term": "terminating decimal / non-terminating decimal",
+      "description": "数学の「有限小数／無限小数」。terminating は現在分詞由来の修飾語で、数の大小や正負を表さない。語義6を参照する。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "続くもの・伸びるものに終端があり、そこで終わる、終わらせる、またはその終端を成すこと。これは各語義を整理するための共通核であり、契約上の手続きや電気回路の具体的な設計条件までを示すものではない。"
+    },
+    {
+      "type": "item",
+      "text": "終端の設定による活動・関係の終了 → 「～を終了する、～を打ち切る」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "終端への到達による期間・活動の終了 → 「終了する、終わる」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "終端の設定による人の雇用の終了 → 「～を解雇する」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "終端への到達による運行・延長の終了 → 「終着する、～で行き止まる」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "終端の設定による妊娠の人為的終了 → 「妊娠を中絶する」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "終端への到達による小数展開の終了 → 「有限桁で終わる」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "終端の構成による伝送線路の処理 → 「～を終端する」（語義7）"
+    },
+    {
+      "type": "item",
+      "text": "終端の設定による人の生命の終了 → 「～を殺害する、～を始末する」（語義8）"
+    },
+    {
+      "type": "item",
+      "text": "終端への到達として捉える結果 → 「最終的に～に終わる」（語義9）"
+    },
+    {
+      "type": "item",
+      "text": "終端の構成による末尾・境界の形成 → 「～の締めくくり・境界を成す」（語義10）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞】～を終了する、～を打ち切る",
+      "frequency": 7,
+      "register": [
+        "フォーマル。ビジネス、契約、組織の発表、ITなど。日常的な行為を何でも terminate で言うと、事務的または大げさに響く。"
+      ],
+      "definition": "人・組織・出来事などが、続いている契約・関係・活動・サービス・処理などに終わりを付ける。正式な終了や明確な打切りを表す改まった語。予定より早い中止にも使うが、「途中で」「突然」「違約によって」は必須の意味ではない。作業が成功したことや、目標を達成したことも含まない。",
+      "patterns": [
+        "terminate something",
+        "terminate a contract with someone",
+        "terminate someone's employment",
+        "terminate a subscription",
+        "terminate a process",
+        "terminate something early",
+        "terminate something with immediate effect",
+        "〈契約・処理など〉 + be terminated。with someone は契約の相手、with immediate effect は終了の効力が直ちに生じることを示す自由な付加句。"
+      ],
+      "collocations": [
+        {
+          "pattern": "terminate a contract with someone",
+          "use": "相手との契約を終了させる。",
+          "example": "The retailer decided to terminate its contract with the delivery company.",
+          "translation": "その小売業者は、配送会社との契約を終了することに決めた。"
+        },
+        {
+          "pattern": "terminate someone's employment",
+          "use": "人そのものではなく、雇用関係を目的語にして終了を述べる。",
+          "example": "The company terminated his employment after an internal investigation.",
+          "translation": "社内調査の後、会社は彼との雇用関係を終了した。"
+        },
+        {
+          "pattern": "terminate a subscription",
+          "use": "継続課金などの購読・利用契約を終える。",
+          "example": "Customers can terminate their subscriptions through the account settings page.",
+          "translation": "利用者はアカウント設定ページから利用契約を終了できます。"
+        },
+        {
+          "pattern": "terminate something early",
+          "use": "予定された終了時期より前に打ち切る。",
+          "example": "The sponsor terminated the research project early because funding was no longer available.",
+          "translation": "資金を確保できなくなったため、資金提供者はその研究事業を予定より早く打ち切った。"
+        },
+        {
+          "pattern": "terminate something with immediate effect",
+          "use": "終了が直ちに有効になることを正式に述べる。",
+          "example": "The notice stated that the supplier was terminating the agreement with immediate effect.",
+          "translation": "通知には、供給業者が即時にその契約を終了すると記されていた。"
+        },
+        {
+          "pattern": "terminate a process",
+          "use": "コンピューター上で実行されている処理を終了させる。",
+          "example": "The administrator terminated the unresponsive process to free up resources.",
+          "translation": "管理者は資源を解放するため、応答しなくなったプロセスを終了させた。"
+        },
+        {
+          "pattern": "be terminated",
+          "use": "終了させられる契約・サービスなどを主語にする。",
+          "example": "The service will be terminated at the customer's request.",
+          "translation": "そのサービスは、利用者の申し出により終了されます。"
+        }
+      ],
+      "notes": [
+        "They terminated the agreement. は他動詞で「彼らが契約を終了させた」。語義2の The agreement terminated. は自動詞で「契約が終了した」。受動態 The agreement was terminated. は終了させる行為を背景に置く。The agreement is terminated. は文脈により終了を宣言する文や終了後の状態を表し、be があるだけで独立した形容詞語義とは決まらない。a terminated agreement は分詞による限定修飾で、単独の terminated にハイフンは不要。",
+        "「～するのをやめる」には stop doing / cease doing が基本。×terminate to use the service → stop using the service または terminate the service agreement とする。decide to terminate the agreement の to は decide に続く不定詞で、terminate が to不定詞を目的語に取る構文ではない。",
+        "terminate a contract は契約終了の語彙的な表現で、常に「契約が初めから存在しなかったことになる」とは限らない。rescind、cancel、expire と法的効果まで同一視しない。終了の権利、通知期間、未払金などは契約内容と適用法による。",
+        "terminate the connection は接続を終了すること。語義7の terminate the cable は配線の終端処理を指す場合があり、対象名詞と技術的文脈を確認する。",
+        "terminate a process は実行の終了を表し、必ず異常終了や強制終了を意味するわけではない。強制性は force、abruptly などの修飾や具体的な操作から判断する。",
+        "terminated は通常 very terminated のように程度を強めない。seem to have been terminated「終了されたようだ」が明確で、become terminated を一般的な変化表現として覚える必要はない。"
+      ],
+      "synonyms": [
+        {
+          "word": "end",
+          "definition": "活動・関係・状況などを終わらせる。",
+          "frequency": 9,
+          "difference": "幅広い日常語。terminate は制度的・技術的な対象の明確な終了を述べる文脈で特に使われる。",
+          "example": "They ended the partnership by mutual agreement.",
+          "translation": "彼らは双方の合意で提携を終えた。"
+        },
+        {
+          "word": "discontinue",
+          "definition": "継続していた提供・生産・活動などを取りやめる。",
+          "frequency": 7,
+          "difference": "製品・サービス・習慣の継続をやめる点に重点がある。terminate は個別契約や処理の終了にも合う。",
+          "example": "The manufacturer discontinued the older model.",
+          "translation": "メーカーは旧機種の生産を取りやめた。"
+        },
+        {
+          "word": "cancel",
+          "definition": "予定・注文・契約などを取り消す。",
+          "frequency": 9,
+          "difference": "これから行う予定を実施しない場合にも使う。terminate は、すでに存在する関係や進行する活動の終わりを意識させる。",
+          "example": "The organizer canceled the conference before registration opened.",
+          "translation": "主催者は参加登録が始まる前に会議を中止した。"
+        },
+        {
+          "word": "conclude",
+          "definition": "会議・交渉・発言などを締めくくる。",
+          "frequency": 7,
+          "difference": "まとまりのある終結に重点がある。conclude an agreement は「契約を締結する」にもなり、terminate an agreement「契約を終了する」と逆向きになるため目的語との結合に注意する。",
+          "example": "The chair concluded the discussion with a summary of the main points.",
+          "translation": "議長は主要点を要約して議論を締めくくった。"
+        },
+        {
+          "word": "abort",
+          "definition": "開始した、または実施しようとしている作業・計画を途中で中止する。",
+          "frequency": 5,
+          "difference": "予定の完遂に至らず中止する点が強い。terminate は正常な終了にも使える。",
+          "example": "The team aborted the test after detecting a fault.",
+          "translation": "不具合を検出したため、チームは試験を中止した。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "continue",
+          "definition": "活動やサービスを終了させず続ける。",
+          "frequency": 9,
+          "difference": "同じ活動について終了させることと継続させることの対立。再開を必ず意味するわけではない。",
+          "example": "The company will continue the service for existing customers.",
+          "translation": "同社は既存の利用者向けにそのサービスを継続する。"
+        },
+        {
+          "word": "initiate",
+          "definition": "活動や処理を開始する。",
+          "frequency": 6,
+          "difference": "開始と終了という方向上の対立。個々の契約の終了を取り消すという意味ではない。",
+          "example": "The operator initiated a new test cycle.",
+          "translation": "操作者は新しい試験サイクルを開始した。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【動詞・自動詞】終了する、終わる",
+      "frequency": 6,
+      "register": [
+        "フォーマル。契約文書、事業報告、コンピューター処理の説明。"
+      ],
+      "definition": "契約の有効期間、活動、処理などが終わる。終わるもの自体が主語で、終了させる行為者は直接表さない。所定の期限による終了にも、異常による停止にも使えるため、正常か異常か、意図的かどうかは補足情報で決まる。",
+      "patterns": [
+        "〈契約/処理/活動〉 + terminate",
+        "terminate on 〈日付〉",
+        "〈契約/処理/活動〉 + terminate after 〈期間・出来事〉",
+        "〈契約/処理/活動〉 + terminate automatically",
+        "〈処理〉 + terminate normally",
+        "〈処理〉 + terminate abnormally",
+        "terminate with 〈最後の行為・出来事〉。いずれも自動詞で、この構造そのものを受動態にはしない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "terminate on 〈日付〉",
+          "use": "契約などの終了日を示す。",
+          "example": "The agreement terminates on 30 June unless the parties renew it.",
+          "translation": "当事者が更新しなければ、その契約は6月30日に終了する。"
+        },
+        {
+          "pattern": "terminate automatically",
+          "use": "個別の追加操作なしに終了することを述べる。",
+          "example": "The session terminates automatically after fifteen minutes of inactivity.",
+          "translation": "操作のない状態が15分続くと、そのセッションは自動的に終了する。"
+        },
+        {
+          "pattern": "terminate normally",
+          "use": "コンピューター処理が正常に終了したことを報告する。",
+          "example": "The program terminated normally after saving the results.",
+          "translation": "プログラムは結果を保存した後、正常に終了した。"
+        },
+        {
+          "pattern": "terminate abnormally",
+          "use": "処理が正常な終了経路を取らなかったことを述べる。",
+          "example": "The process terminated abnormally before the report was generated.",
+          "translation": "報告書が生成される前に、プロセスが異常終了した。"
+        },
+        {
+          "pattern": "terminate with 〈最後の行為・出来事〉",
+          "use": "何を最後にして一連の活動が終わるかを示す。",
+          "example": "The inspection terminated with a review of the maintenance records.",
+          "translation": "点検は、保守記録の確認を最後に終了した。"
+        }
+      ],
+      "notes": [
+        "The program terminated.「プログラムが終了した」と The operator terminated the program.「操作者がプログラムを終了させた」は自他の対立。前者は受動態の省略ではない。主語が人の I terminated. だけでは日常的な「私は仕事を終えた」になりにくく、I finished work. などを使う。with は最後に行ったこと、語義9の in は最終的な結果を示せる。The talks terminated with a final statement. は声明を最後に終わったこと、The talks terminated in failure. は交渉の失敗という結果を述べる。expire は期限が来て効力がなくなる場合に適するが、terminate は時期や原因をそれほど限定しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "end",
+          "definition": "出来事・期間・活動が終わりに達する。",
+          "frequency": 9,
+          "difference": "最も広く中立的な語。terminate は文書・技術説明で改まった響きを持つ。",
+          "example": "The meeting ended at noon.",
+          "translation": "会議は正午に終わった。"
+        },
+        {
+          "word": "cease",
+          "definition": "続いていた活動・現象・状態が止まる。",
+          "frequency": 7,
+          "difference": "継続しなくなる点が中心で、一時的な停止にも使う。terminate は対象を一つの単位として終了させる含みが強い。",
+          "example": "The noise ceased when the machine was switched off.",
+          "translation": "機械の電源が切られると、音が止んだ。"
+        },
+        {
+          "word": "expire",
+          "definition": "所定の期限に達して有効でなくなる。",
+          "frequency": 7,
+          "difference": "契約・免許・利用権などの期限切れに焦点がある。terminate は期限前の終了やコンピューター処理の終了にも使う。",
+          "example": "Her membership expires next month.",
+          "translation": "彼女の会員資格は来月で期限が切れる。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "continue",
+          "definition": "活動や状態が終了せず続く。",
+          "frequency": 9,
+          "difference": "同じ活動の終了と継続の対立。目的語を取らない自動詞用法で比較する。",
+          "example": "The investigation continued throughout the summer.",
+          "translation": "調査は夏の間ずっと続いた。"
+        },
+        {
+          "word": "begin",
+          "definition": "活動や期間が始まる。",
+          "frequency": 9,
+          "difference": "時間的な開始と終了という方向上の対立。正常・異常の区別は表さない。",
+          "example": "The trial period begins on Monday.",
+          "translation": "試用期間は月曜日に始まる。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【動詞・他動詞】～を解雇する",
+      "frequency": 5,
+      "register": [
+        "主に米語の人事・ビジネス用語。事務的で、fire より婉曲的。"
+      ],
+      "definition": "雇用主が従業員の雇用を終了させる。直接目的語が人になる用法で、terminate someone's employment と同じ出来事を人中心に述べる。業績不振や違反を理由にすることがあるが、従業員本人に落ち度があることは必須ではない。",
+      "patterns": [
+        "〈雇用主〉 + terminate someone",
+        "terminate an employee",
+        "terminate someone from 〈職・地位〉",
+        "〈従業員〉 + be terminated",
+        "get terminated",
+        "be terminated from one's position",
+        "be terminated for 〈理由・違反行為〉。受動態がよく使われる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "terminate an employee",
+          "use": "雇用主を主語にして従業員の解雇を述べる。",
+          "example": "The company terminated several employees when it closed the regional office.",
+          "translation": "地方事務所を閉鎖した際、会社は数人の従業員を解雇した。"
+        },
+        {
+          "pattern": "be terminated",
+          "use": "解雇された人を話題の中心にする。",
+          "example": "Two members of the sales team were terminated last week.",
+          "translation": "営業チームの2人が先週解雇された。"
+        },
+        {
+          "pattern": "be terminated for 〈理由・違反行為〉",
+          "use": "解雇の理由として示されている事柄を述べる。",
+          "example": "He was terminated for falsifying expense reports.",
+          "translation": "彼は経費報告書を改ざんしたことを理由に解雇された。"
+        },
+        {
+          "pattern": "be terminated from one's position",
+          "use": "解雇される職・地位を from で示す。",
+          "example": "She was terminated from her position as sales manager after an internal investigation.",
+          "translation": "営業部長だった彼女は、社内調査の後に解雇された。"
+        },
+        {
+          "pattern": "get terminated",
+          "use": "会話で、雇用主によって職を失う出来事を述べる。",
+          "example": "She was worried that she might get terminated after the merger.",
+          "translation": "彼女は、合併後に解雇されるのではないかと心配していた。"
+        }
+      ],
+      "notes": [
+        "terminate the employee は人を直接目的語に取る語義3、terminate the employee's contract は契約を目的語に取る語義1。通常の雇用文脈では前者を「殺す」と訳さないが、犯罪・諜報の文脈では語義8があり、目的語が人だというだけでは意味が一意に決まらない。be terminated from one's position の from は離れる職・地位を示し、be terminated for misconduct の for は解雇の理由を示す。自分から辞職するなら resign / quit one's job を使い、×I terminated myself. を「退職した」の基本表現にはしない。terminated employee は「解雇された従業員」という分詞修飾で、get terminated は受動的な出来事の表現。再帰形から oneself を省いたものではない。法的に解雇が有効か、補償が必要かはこの動詞だけからは判断できない。"
+      ],
+      "synonyms": [
+        {
+          "word": "dismiss",
+          "definition": "雇用主が従業員を職から退かせる。",
+          "frequency": 7,
+          "difference": "改まった一般的な解雇表現で、米語に限らない。dismiss someone from a job の形も使う。terminate は米語の事務的な人事表現として目立つ。",
+          "example": "The manager was dismissed for serious misconduct.",
+          "translation": "その管理職は重大な不正行為のため解雇された。"
+        },
+        {
+          "word": "fire",
+          "definition": "従業員を解雇する。",
+          "frequency": 8,
+          "difference": "会話的で直接的。terminate は同じ出来事を事務的・婉曲的に述べることが多い。",
+          "example": "The owner fired him after repeated warnings.",
+          "translation": "度重なる警告の後、経営者は彼を解雇した。"
+        },
+        {
+          "word": "lay off",
+          "definition": "仕事不足や経営上の都合などで従業員を仕事から外す。",
+          "frequency": 7,
+          "difference": "本人の非違行為より事業側の事情を示しやすく、一時的な休職扱いか恒久的な解雇かは地域・文脈による。terminate 自体は理由を限定しない。",
+          "example": "The manufacturer laid off workers after orders declined.",
+          "translation": "受注が減少し、そのメーカーは従業員を削減した。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "hire",
+          "definition": "人を雇用し始める。",
+          "frequency": 8,
+          "difference": "雇用関係を開始することと終了させることの方向上の対立。解雇した同じ人を再雇用する場合に限らない。",
+          "example": "The company hired three new engineers.",
+          "translation": "同社は3人の技術者を新たに雇った。"
+        },
+        {
+          "word": "retain",
+          "definition": "従業員を雇用したままにする。",
+          "frequency": 6,
+          "difference": "雇用の終了と維持の対立。hire のような新規採用ではなく、現在の関係を続けることに重点がある。",
+          "example": "The new owner retained all the existing staff.",
+          "translation": "新しい経営者は、既存の職員全員を引き続き雇用した。"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "【動詞・自動詞】終着する、～で行き止まる",
+      "frequency": 5,
+      "register": [
+        "交通案内、地理・形状の説明。列車のアナウンスは特に英語圏の公共交通で見られ、米語でも使う。形状の説明ではやや書き言葉的。"
+      ],
+      "definition": "列車・バスがその運行の終点に着く、または道路・路線・枝などがある場所や形を末端としてそこまで伸びている。途中の停車ではなく、その便・路線・物の延びる範囲の終わりを示す。",
+      "patterns": [
+        "〈列車/バス/道/路線〉 + terminate at 〈地点〉",
+        "terminate in 〈都市・区域〉",
+        "〈列車/バス/道/路線〉 + terminate here",
+        "〈枝・部材など〉 + terminate in 〈末端の形・構造〉。at は終点を一点として、in は区域の内部や末端の形として捉える。"
+      ],
+      "collocations": [
+        {
+          "pattern": "terminate at 〈駅・停留所〉",
+          "use": "その便の終着駅を案内する。",
+          "example": "This train terminates at Central Station; please take all your belongings with you.",
+          "translation": "この列車は中央駅が終点です。お忘れ物のないようお降りください。"
+        },
+        {
+          "pattern": "terminate in 〈都市・区域〉",
+          "use": "路線の終わりがある地域を述べる。",
+          "example": "The bus route terminates in the old town, near the market square.",
+          "translation": "そのバス路線は、旧市街の市場広場近くを終点としている。"
+        },
+        {
+          "pattern": "terminate here",
+          "use": "現在地が運行の終点であることを示す。",
+          "example": "Owing to flooding further ahead, all services will terminate here today.",
+          "translation": "この先が冠水しているため、本日はすべての便がここで運行を終えます。"
+        },
+        {
+          "pattern": "terminate at 〈道の終点〉",
+          "use": "道路や通路がどこまで続くかを示す。",
+          "example": "The footpath terminates at a locked gate beside the reservoir.",
+          "translation": "その歩道は、貯水池の脇にある施錠された門で行き止まりになる。"
+        },
+        {
+          "pattern": "terminate in 〈末端の形・構造〉",
+          "use": "物が先端でどのような形になるかを記述する。",
+          "example": "Each metal rod terminates in a rounded tip.",
+          "translation": "それぞれの金属棒は、先端が丸くなっている。"
+        }
+      ],
+      "notes": [
+        "The train stops at York. は途中停車でも成立するが、The train terminates at York. はその便の運行がそこで終わる。terminate は列車が廃車になることを意味しない。×The train terminates to Central Station. → The train terminates at Central Station. とする。here / there は場所の副詞なので at を置かない。terminate in a point は「先端がとがって終わる」で、語義9の terminate in failure「失敗に終わる」とは in の後ろの意味役割が異なる。語義10の A wall terminates the garden. は壁を主語にした他動詞で、壁自体が伸びて終わるという意味ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "end",
+          "definition": "道・路線などがある地点を終わりとする。",
+          "frequency": 8,
+          "difference": "日常的で幅広い。terminate は運行案内や形状の記述に合う改まった表現。",
+          "example": "The trail ends at the river.",
+          "translation": "その小道は川のところで終わる。"
+        },
+        {
+          "word": "stop",
+          "definition": "車両などが停車する。",
+          "frequency": 9,
+          "difference": "終着場面では重なるが、途中停車も含むため終点であることを保証しない。",
+          "example": "The bus stops outside the library before continuing to the station.",
+          "translation": "バスは図書館前に停車してから、駅へ向かって運行を続ける。"
+        },
+        {
+          "word": "finish",
+          "definition": "道筋や行程がある場所で終わる。",
+          "frequency": 6,
+          "difference": "finish at/in の形で行程の終点を述べられるが、列車の定型的な終着案内では terminate が用いられる。",
+          "example": "The walking tour finishes in the main square.",
+          "translation": "その徒歩ツアーは中央広場で終わる。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "originate",
+          "definition": "列車・バスなどの運行がある地点から始まる。",
+          "frequency": 4,
+          "difference": "同じ運行の始発地点と終着地点という方向上の対立。この頻度は交通の語義に限る。",
+          "example": "The service originates at North Station.",
+          "translation": "その便は北駅を始発としている。"
+        },
+        {
+          "word": "begin",
+          "definition": "道・路線・行程がある地点から始まる。",
+          "frequency": 7,
+          "difference": "空間的な始点と終点の対立。originate より一般的で、徒歩経路にも自然に使う。",
+          "example": "The path begins behind the visitor center.",
+          "translation": "その小道は案内センターの裏から始まる。"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "【動詞・主に他動詞】妊娠を中絶する",
+      "frequency": 4,
+      "register": [
+        "医療、健康に関する報道・相談。説明的で比較的改まった表現。"
+      ],
+      "definition": "妊娠を医療的な介入によって意図的に終了する。通常は terminate a pregnancy の形で、妊娠している本人が中絶を受けることにも、医療者が処置を行うことにも使う。自然に起こる流産をこの能動表現だけで述べるのは適切でない。",
+      "patterns": [
+        "terminate a pregnancy",
+        "decide to terminate a pregnancy",
+        "〈妊娠〉 + be terminated",
+        "〈本人〉 + decide to terminate（妊娠が文脈で明らかな場合の目的語省略）。"
+      ],
+      "collocations": [
+        {
+          "pattern": "terminate a pregnancy",
+          "use": "妊娠の意図的な終了を医療的な表現で述べる。",
+          "example": "The leaflet explains the options available to someone who wishes to terminate a pregnancy.",
+          "translation": "そのリーフレットは、妊娠中絶を希望する人が選べる方法を説明している。"
+        },
+        {
+          "pattern": "decide to terminate a pregnancy",
+          "use": "本人の選択・意思決定について述べる。",
+          "example": "She decided to terminate the pregnancy after discussing her options with a clinician.",
+          "translation": "彼女は医療者と選択肢について話し合った後、妊娠を中絶することに決めた。"
+        },
+        {
+          "pattern": "〈妊娠〉 + be terminated",
+          "use": "妊娠を主語にして、中絶が行われたことを述べる。",
+          "example": "The medical record states that the pregnancy was terminated at the patient's request.",
+          "translation": "診療記録には、本人の希望により妊娠中絶が行われたと記載されている。"
+        },
+        {
+          "pattern": "decide to terminate",
+          "use": "直前の妊娠の話題を受け、目的語を繰り返さずに述べる。",
+          "example": "When discussing the pregnancy, she said that she had not yet decided whether to terminate.",
+          "translation": "妊娠について話した際、彼女は中絶するかどうかまだ決めていないと述べた。"
+        }
+      ],
+      "notes": [
+        "terminate は中絶の方法を特定せず、薬による場合と外科的な方法による場合の両方を含められる。本人を主語にしても、本人が医療処置を自分で施したという意味にはならない。目的語を省いた terminate は妊娠の文脈が必要で、一般の自動詞「終わる」と区別する。法律上の条件や受診手続きはこの語から決まらない。termination はこの文脈で abortion の言い換えになる。"
+      ],
+      "synonyms": [
+        {
+          "word": "have an abortion",
+          "definition": "妊娠中絶を受ける。",
+          "frequency": 6,
+          "difference": "本人側の出来事を直接表す。terminate a pregnancy は本人にも医療者にも主語として使える。",
+          "example": "She spoke privately to her doctor about having an abortion.",
+          "translation": "彼女は妊娠中絶を受けることについて、医師と個別に話した。"
+        },
+        {
+          "word": "abort",
+          "definition": "妊娠を終了させる。",
+          "frequency": 4,
+          "difference": "医療文脈の他動詞 abort a pregnancy は近い。abort には別の構文・文脈で自然流産を表す用法もあるため、常に意図的な中絶と同義ではない。",
+          "example": "The article discusses medical procedures used to abort a pregnancy.",
+          "translation": "その記事は、妊娠を中絶するために用いられる医療処置を論じている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【動詞・自動詞】有限桁で終わる",
+      "frequency": 3,
+      "register": [
+        "数学。日常の契約終了やコンピューター処理の停止とは対象が異なる。"
+      ],
+      "definition": "小数展開が有限個の小数位で書き切れる。たとえば 0.375 のように、それより後の0を省略して有限桁で表せること。計算を途中で打ち切って近似値にすることではなく、数の小数表示の性質を述べる。",
+      "patterns": [
+        "〈小数展開〉 + terminate",
+        "〈小数展開〉 + terminate after 〈桁数〉 decimal places",
+        "〈単数の小数展開〉 + does not terminate。terminating decimal はこの自動詞の意味を受けた分詞修飾の定着した数学用語。"
+      ],
+      "collocations": [
+        {
+          "pattern": "〈小数展開〉 + terminate",
+          "use": "小数表示が有限桁で表せることを示す。",
+          "example": "The decimal expansion of three eighths terminates: it is exactly 0.375.",
+          "translation": "8分の3の小数展開は有限桁で終わり、正確に0.375となる。"
+        },
+        {
+          "pattern": "terminate after 〈桁数〉 decimal places",
+          "use": "小数点以下の何桁までで正確に表せるかを述べる。",
+          "example": "The decimal expansion of seven twentieths terminates after two decimal places.",
+          "translation": "20分の7の小数展開は、小数点以下2桁で終わる。"
+        },
+        {
+          "pattern": "〈単数の小数展開〉 + does not terminate",
+          "use": "有限桁では書き切れないことを説明する。",
+          "example": "The decimal expansion of one seventh repeats but does not terminate.",
+          "translation": "7分の1の小数展開は循環するが、有限桁では終わらない。"
+        }
+      ],
+      "notes": [
+        "a terminating decimal は「有限小数」、a non-terminating decimal は「無限小数」。後者には循環するものと循環しないものがあり、non-terminating を「無理数」と同義にしない。有理数を既約分数で表したとき、分母の素因数が2と5だけなら十進小数は有限になる。整数も有限に表せる。「小数点以下3桁になるように丸める」は round to three decimal places で、terminate after three decimal places「正確な小数展開が小数点以下3桁で終わる」と区別する。ここでは小数展開そのものが主語なので、×The decimal is terminated. を基本形にせず、The decimal terminates. とする。"
+      ],
+      "synonyms": [
+        {
+          "word": "end",
+          "definition": "数字の列がある位置で終わる。",
+          "frequency": 4,
+          "difference": "平易な説明には使えるが、数学用語としての「有限小数」は terminating decimal が標準的。end だけでは丸めた表示の末尾とも解釈できる。",
+          "example": "In its exact finite form, the decimal ends after the second digit to the right of the point.",
+          "translation": "正確な有限表示では、その小数は小数点の右側の2桁目で終わる。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【動詞・他動詞】～を終端する",
+      "frequency": 3,
+      "register": [
+        "電子工学、通信、配線の技術文書。"
+      ],
+      "definition": "電気・通信の線路やケーブルの末端に必要な部品を接続して、終端を構成する。伝送線路では、適切な負荷や回路を設けて信号の反射を抑える処理を指す。配線作業では、導線をコネクターや端子へ接続する処理にも使う。通信そのものを停止する意味ではない。",
+      "patterns": [
+        "terminate a transmission line",
+        "terminate a line with 〈抵抗・負荷〉",
+        "terminate a line in 〈負荷・インピーダンス〉",
+        "terminate a cable at 〈接続先〉",
+        "〈線路〉 + be terminated。with は用いる部品、in は終端の負荷・条件、at は接続する位置を示す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "terminate a transmission line",
+          "use": "信号線に電気的な終端を設ける。",
+          "example": "The design includes components to terminate the transmission line and reduce reflections.",
+          "translation": "その設計には、伝送線路を終端して反射を抑えるための部品が含まれている。"
+        },
+        {
+          "pattern": "terminate a line with 〈抵抗〉",
+          "use": "終端に使う部品を示す。",
+          "example": "The engineer terminated the line with a resistor selected for the cable's characteristic impedance.",
+          "translation": "技術者は、ケーブルの特性インピーダンスに合わせて選んだ抵抗で線路を終端した。"
+        },
+        {
+          "pattern": "terminate a line in 〈負荷〉",
+          "use": "線路の末端に接続する負荷を示す。",
+          "example": "For the measurement, the transmission line was terminated in a matched load.",
+          "translation": "測定では、伝送線路を整合負荷で終端した。"
+        },
+        {
+          "pattern": "terminate a cable at 〈接続先〉",
+          "use": "ケーブル端を端子・接続機器で処理することを述べる。",
+          "example": "The installer terminated each network cable at the patch panel.",
+          "translation": "設置担当者は、各ネットワークケーブルの端をパッチパネルで接続処理した。"
+        }
+      ],
+      "notes": [
+        "terminate the line は「線を切断する」「回線の利用契約を終了する」とは限らない。resistor、impedance、reflections などは反射を抑える終端、connector、patch panel などは配線端の接続という解釈を支える。コネクターを付けることとインピーダンスを整合させることは同一の作業とは限らない。a properly terminated line は「適切に終端された線路」という分詞修飾で、properly が -ly 副詞なので通常ハイフンを付けない。unterminated はこの文脈で「未終端の」。終端の具体的な方式・位置・抵抗値は回路と信号条件で決まり、terminate という語だけから推測しない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【動詞・他動詞】～を殺害する、～を始末する",
+      "frequency": 2,
+      "register": [
+        "俗語的・婉曲的。犯罪・諜報を扱うフィクションなど。脅迫的・冷酷に響き得る。"
+      ],
+      "definition": "人を意図的に殺すことを、処理の終了であるかのように婉曲的・非人間的に述べる。通常の「終了する」から文脈で勝手に補う意味ではなく、辞書にもある用法だが、日常の中立的な表現ではない。",
+      "patterns": [
+        "terminate someone",
+        "terminate a target",
+        "〈殺害対象の人〉 + be terminated。人が目的語の場合、雇用の語義3との区別には文脈が必要。"
+      ],
+      "collocations": [
+        {
+          "pattern": "terminate someone",
+          "use": "フィクションなどで殺害を冷酷な業務用語のように表す。",
+          "example": "In the thriller, an assassin is ordered to terminate the witness before he can testify.",
+          "translation": "そのスリラーでは、暗殺者が、証人が証言する前にその証人を始末するよう命じられる。"
+        },
+        {
+          "pattern": "terminate a target",
+          "use": "暗殺の対象を人として扱わない言い方を示す。",
+          "example": "The novel describes a hitman who was hired to terminate a political target.",
+          "translation": "その小説には、政治的な標的を暗殺するために雇われた殺し屋が描かれている。"
+        },
+        {
+          "pattern": "〈殺害対象の人〉 + be terminated",
+          "use": "殺害の対象となる人を主語にした、フィクションの婉曲表現。",
+          "example": "In the spy novel, the report says that the double agent was terminated by an assassin.",
+          "translation": "そのスパイ小説では、二重スパイが暗殺者に始末されたと報告書に記されている。"
+        }
+      ],
+      "notes": [
+        "職場で He was terminated. と言えば通常は「彼は解雇された」で、殺害の意味にする根拠はない。一方、暗殺者や殺害対象が明示されればこの語義になる。単に「関係を終わらせる」と言うつもりで terminate you と相手に向けると、解雇または危害の示唆になり得る。terminate a relationship「関係を終わらせる」のように対象を明示する。"
+      ],
+      "synonyms": [
+        {
+          "word": "kill",
+          "definition": "人などの生命を奪う。",
+          "frequency": 9,
+          "difference": "最も一般的で、事故などの非意図的な死の原因にも使える。terminate のこの用法は意図的殺害を婉曲に述べる。",
+          "example": "The report confirmed that the attack had killed two guards.",
+          "translation": "その報告は、襲撃で警備員2人が死亡したことを確認した。"
+        },
+        {
+          "word": "assassinate",
+          "definition": "主に著名人・政治的な人物などを計画的に暗殺する。",
+          "frequency": 5,
+          "difference": "標的の性質や計画性を具体的に表す。terminate は人物の社会的地位を限定せず、殺害を事務的に言い換える。",
+          "example": "The historian examined the plot to assassinate the president.",
+          "translation": "その歴史家は大統領暗殺計画を検討した。"
+        },
+        {
+          "word": "eliminate",
+          "definition": "邪魔になる人物を殺して排除する。",
+          "frequency": 3,
+          "difference": "この限定された語義では近いが、排除する目的に重点がある。eliminate 自体の一般義は「取り除く」で、常に殺害を意味するわけではない。",
+          "example": "In the story, the gang eliminates a witness to prevent him from testifying.",
+          "translation": "その物語では、犯罪組織は証言を阻止するために証人を殺害する。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 9,
+      "title": "【動詞・自動詞、terminate in】最終的に～に終わる",
+      "frequency": 3,
+      "register": [
+        "書き言葉的で改まった用法。一般には end in が平易。"
+      ],
+      "definition": "活動・交渉・出来事などが、ある結果や結末に至って終わる。in の後ろが物理的な終点ではなく、成功・失敗・合意などの結果を表す。悪い結末に限らない。",
+      "patterns": [
+        "〈活動・過程〉 + terminate in 〈結果〉",
+        "terminate in failure",
+        "terminate in an agreement。in は前置詞で、後ろに結果を示す名詞句を置く。"
+      ],
+      "collocations": [
+        {
+          "pattern": "terminate in failure",
+          "use": "試みが成功せず終わったことを述べる。",
+          "example": "Despite months of preparation, the attempt to negotiate a merger terminated in failure.",
+          "translation": "数か月にわたる準備にもかかわらず、合併交渉の試みは失敗に終わった。"
+        },
+        {
+          "pattern": "terminate in an agreement",
+          "use": "交渉が合意という結末に達したことを述べる。",
+          "example": "After several extensions, the negotiations finally terminated in an agreement acceptable to both sides.",
+          "translation": "何度かの延長の末、交渉はようやく双方が受け入れられる合意に至って終わった。"
+        }
+      ],
+      "notes": [
+        "語義4の The road terminates in the village. は村という空間的な終点、ここでの The negotiations terminated in failure. は失敗という結果。語義2の terminate with a final statement は最後の出来事を示す。terminate in は「終了」だけでなく結果への到達を述べるので、単に何かを引き起こしただけで過程が続く文脈では result in の方が適切なことがある。×terminate in fail → terminate in failure とする。"
+      ],
+      "synonyms": [
+        {
+          "word": "end in",
+          "definition": "ある結果・結末に至って終わる。",
+          "frequency": 8,
+          "difference": "同じ意味を日常的・中立的に表す。terminate in は文章語として硬い。",
+          "example": "The talks ended in a compromise.",
+          "translation": "話し合いは妥協という結末になった。"
+        },
+        {
+          "word": "culminate in",
+          "definition": "一連の進展が最終的な重要な出来事や結果に至る。",
+          "frequency": 6,
+          "difference": "それまでの積み重ねと最終段階の重要性を強調する。terminate in は終結時の結果が中心。",
+          "example": "Years of research culminated in the discovery of a new material.",
+          "translation": "長年の研究は、新素材の発見という成果に結び付いた。"
+        },
+        {
+          "word": "result in",
+          "definition": "ある結果を生じさせる。",
+          "frequency": 8,
+          "difference": "原因と結果の関係が中心で、元の過程がそこで終わることを必ずしも表さない。terminate in は終結まで含めて述べる。",
+          "example": "The negotiations resulted in lower fees for customers.",
+          "translation": "交渉の結果、利用者の手数料が下がった。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 10,
+      "title": "【動詞・他動詞】～の締めくくり・境界を成す",
+      "frequency": 2,
+      "register": [
+        "低頻度の書き言葉的・記述的用法。現代の一般的な説明では end、close、mark the end of などが使われやすい。"
+      ],
+      "definition": "最後の部分や境界となるものが主語になり、作品・章・空間などの終わりを構成する。人が活動を中止する語義1とは異なり、主語自体が末尾の要素や境界である。",
+      "patterns": [
+        "〈最後の部分〉 + terminate + 〈作品・章など〉",
+        "〈境界となる物〉 + terminate + 〈空間〉",
+        "〈作品・空間〉 + be terminated by 〈最後の部分・境界〉。"
+      ],
+      "collocations": [
+        {
+          "pattern": "〈最後の部分〉 + terminate + 〈作品・章〉",
+          "use": "どの要素が末尾を構成するかを記述する。",
+          "example": "A brief epilogue terminates the novel.",
+          "translation": "短いエピローグが、その小説の締めくくりを成している。"
+        },
+        {
+          "pattern": "〈境界となる物〉 + terminate + 〈空間〉",
+          "use": "ある空間の端を形作る物を記述する。",
+          "example": "A high stone wall terminates the garden on its eastern side.",
+          "translation": "高い石垣が、その庭の東側の境界を成している。"
+        },
+        {
+          "pattern": "be terminated by 〈境界となる物〉",
+          "use": "空間を主語にして、その端を成す物を記述する。",
+          "example": "The garden is terminated on the east by a stone wall.",
+          "translation": "その庭は、東側を石垣で区切られている。"
+        }
+      ],
+      "notes": [
+        "A final chapter terminates the account. は「最終章が記述を締めくくる」という構成の説明。The editor terminated the project. は編集者が事業を打ち切る語義1。A wall terminates the garden. は壁が庭の境界を成す他動詞、語義4の The path terminates at the wall. は道が壁のところで終わる自動詞で、主語の役割が異なる。動詞と同じ綴りの低頻度の形容詞 terminate「終わりのある、有限の」も大辞典にあるが、現代の一般的な形容詞表現には finite / terminable などを選ぶ。"
+      ],
+      "synonyms": [
+        {
+          "word": "end",
+          "definition": "作品や文章の最後の部分を成す。",
+          "frequency": 6,
+          "difference": "terminate より一般的。同じ end でも、人が途中でやめる他動詞用法とは主語の役割が異なる。",
+          "example": "A short poem ends the collection.",
+          "translation": "短い詩が、その作品集の最後に置かれている。"
+        },
+        {
+          "word": "close",
+          "definition": "最後の要素として作品・行事などを締めくくる。",
+          "frequency": 6,
+          "difference": "構成上の結びを表す場合に近い。空間の境界を成す用法全般には置き換えられない。",
+          "example": "A message of thanks closes the letter.",
+          "translation": "感謝の言葉が、その手紙を締めくくっている。"
+        },
+        {
+          "word": "bound",
+          "definition": "ある空間の境界を成す。",
+          "frequency": 4,
+          "difference": "空間的な境界の用法で近く、作品の最後の部分を成す意味では使わない。",
+          "example": "A stream bounds the property on the south.",
+          "translation": "小川が、その土地の南側の境界を成している。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
