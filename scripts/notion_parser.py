@@ -320,19 +320,18 @@ def _split_register(text: str) -> list[str]:
 
 def _lead_from_definition(definition: str, limit: int = 180) -> str:
     """Build a stable page summary from the first non-empty definition line."""
-    first_line = next(
-        (line.strip() for line in definition.splitlines() if line.strip()),
-        "",
-    )
-    return LEADING_SENSE_NUMBER_RE.sub("", first_line).strip()[:limit]
+    for line in definition.splitlines():
+        lead = LEADING_SENSE_NUMBER_RE.sub("", line.strip()).strip()
+        if lead and not ONLY_SENSE_NUMBER_RE.fullmatch(lead):
+            return lead[:limit]
+    return ""
 
 
-def _resolve_lead(existing_lead: Any, senses: list[dict[str, Any]]) -> str:
-    """Keep a useful curated lead, but repair empty or number-only legacy values."""
-    lead = str(existing_lead or "").strip()
-    if lead and not ONLY_SENSE_NUMBER_RE.fullmatch(lead):
-        return LEADING_SENSE_NUMBER_RE.sub("", lead).strip()[:180]
-    return _lead_from_definition(senses[0].get("definition", "")) if senses else ""
+def _resolve_lead(senses: list[dict[str, Any]]) -> str:
+    """Refresh from current body; empty results fail validation before writing."""
+    definition = senses[0].get("definition", "") if senses else ""
+    lead = _lead_from_definition(definition) if isinstance(definition, str) else ""
+    return lead
 
 
 def parse_dictionary_markdown(
@@ -435,7 +434,7 @@ def parse_dictionary_markdown(
         )
 
     senses = restore(senses)
-    lead = _resolve_lead(existing.get("lead", ""), senses)
+    lead = _resolve_lead(senses)
     return {
         "word": word.strip(),
         "slug": existing.get("slug") or slugify(word),

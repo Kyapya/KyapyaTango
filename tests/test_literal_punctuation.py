@@ -50,7 +50,7 @@ class LiteralPunctuationTests(unittest.TestCase):
     def test_preserved_metadata_not_decoded(self):
         existing = {"lead": r"stored \$ lead", "sources": [r"C:\\sources"]}
         entry = self.entry(r"\$10", existing=existing, page_url=r"https://example.test/\$10")
-        self.assertEqual(entry["lead"], existing["lead"])
+        self.assertEqual(entry["lead"], "定義。")
         self.assertEqual(entry["sources"], existing["sources"])
         self.assertEqual(entry["notion_url"], r"https://example.test/\$10")
 
