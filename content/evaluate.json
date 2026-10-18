@@ -1,0 +1,271 @@
+{
+  "word": "evaluate",
+  "slug": "evaluate",
+  "ipa": "米・英: /ɪˈvæljueɪt/。第2音節の /væl/ に主強勢がある。語末は /eɪt/ で、名詞 evaluation では主強勢が後方の /eɪ/ に移る。evaluated は /ɪˈvæljueɪtɪd/ で -ed が1音節を加える。",
+  "lead": "人・物・案・状況について、品質、重要性、効果、価値、状態などがどの程度かを検討して判断する。基準や証拠に沿う判断を示すことが多いが、完全に客観的であることや数値化は必須ではない。「評価する」は高く認めるという意味に限定されず、不十分という評価も含む。",
+  "updated": "2026-10-18",
+  "notion_url": "https://app.notion.com/p/evaluate-3fd4faa9b77d81ab8210fdcc6f2d8eeb",
+  "pronunciation": [],
+  "etymology": [
+    "evaluation から生じた逆成語とされる。evaluation はフランス語 évaluation、その動詞 évaluer の系統で、value「価値」とつながる。さらにラテン語 valere「強い、価値がある」にさかのぼる。value、valid「有効な」、valiant「勇敢な」もこの語源の系統。現代では金銭的価値だけでなく、品質・効果・適切さや数式の値も対象になる。"
+  ],
+  "formation": [
+    {
+      "term": "evaluation【可算・不可算名詞】",
+      "description": "評価する過程、個々の評価・評価結果。an evaluation of the program「その事業の評価」。"
+    },
+    {
+      "term": "evaluative【形容詞】",
+      "description": "評価に関わる、価値判断を含む。evaluative comments「評価的なコメント」。"
+    },
+    {
+      "term": "evaluator【可算名詞】",
+      "description": "評価者、式を評価するプログラムなど。"
+    },
+    {
+      "term": "re-evaluate / reevaluate【他動詞】",
+      "description": "再評価する。前の判断を見直すが、評価が上がるとは限らない。"
+    },
+    {
+      "term": "evaluated / evaluating【分詞】",
+      "description": "評価された／評価している。an evaluated proposal は「評価を受けた提案」を表し、「高く評価された」とは限らない。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "対象の価値・状態・値がどうであるかを、検討や所定の操作によって定める。数式・プログラムでは、社会的な価値判断ではなく「値を求める」意味になる。"
+    },
+    {
+      "type": "item",
+      "text": "検討による品質・効果の判断 → 「評価する、見極める」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "計算による式の値の決定 → 「値を求める、式を評価する」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "計算による式の結果値の確定 → 「評価すると～になる」（語義3）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞】評価する、見極める",
+      "frequency": 8,
+      "register": [
+        "一般的な業務・学術・教育用語。日常の会話では assess、judge、look at などが文脈に応じて使われる。"
+      ],
+      "definition": "人・物・案・状況について、品質、重要性、効果、価値、状態などがどの程度かを検討して判断する。基準や証拠に沿う判断を示すことが多いが、完全に客観的であることや数値化は必須ではない。「評価する」は高く認めるという意味に限定されず、不十分という評価も含む。",
+      "patterns": [
+        "evaluate someone/something＝人・物・状況を評価する",
+        "evaluate someone on 〈評価項目〉＝その項目を基準に人を評価する",
+        "evaluate something against 〈基準〉＝基準と照らし合わせて評価する",
+        "evaluate whether/how 〈節〉＝～か・どの程度～かを検討する",
+        "evaluate something as 〈形容詞・名詞句〉＝～だと評価する",
+        "be evaluated for 〈評価項目・適性・用途〉＝その項目や適性・用途について評価を受ける。受動態が普通に使える。"
+      ],
+      "collocations": [
+        {
+          "pattern": "evaluate the effectiveness of 〈施策〉",
+          "use": "施策が期待した効果を生むかを評価する。",
+          "example": "We will evaluate the effectiveness of the new training program after six months.",
+          "translation": "6か月後に、新しい研修制度の有効性を評価する。"
+        },
+        {
+          "pattern": "evaluate the available options",
+          "use": "選択肢の長所・短所を検討する。",
+          "example": "The team evaluated the available options before choosing a supplier.",
+          "translation": "チームは仕入先を選ぶ前に、利用可能な選択肢を検討した。"
+        },
+        {
+          "pattern": "evaluate someone on 〈評価項目〉",
+          "use": "人事評価などの評価基準を示す。",
+          "example": "Employees are evaluated on the quality of their work, not just its volume.",
+          "translation": "従業員は仕事の量だけでなく、質も基準に評価される。"
+        },
+        {
+          "pattern": "evaluate something against 〈基準〉",
+          "use": "明示した基準に照らして判断する。",
+          "example": "Each proposal will be evaluated against the same set of criteria.",
+          "translation": "各提案は同じ一連の基準に照らして評価される。"
+        },
+        {
+          "pattern": "evaluate whether 〈節〉",
+          "use": "適切さ・実現性について検討する。",
+          "example": "We need to evaluate whether the benefits justify the additional cost.",
+          "translation": "利点が追加費用に見合うかどうかを検討する必要がある。"
+        },
+        {
+          "pattern": "evaluate how well 〈節〉",
+          "use": "機能や達成度を判断する。",
+          "example": "The trial will evaluate how well the device works in cold weather.",
+          "translation": "試験では、その装置が寒い環境でどの程度うまく機能するかを評価する。"
+        },
+        {
+          "pattern": "evaluate something as effective",
+          "use": "評価の結論を as の後に置く。",
+          "example": "Most participants evaluated the workshop as effective.",
+          "translation": "参加者の大半は、その研修会を効果的だったと評価した。"
+        },
+        {
+          "pattern": "be evaluated for 〈評価項目・適性・用途〉",
+          "use": "特定の役割などに適するかを判断する。",
+          "example": "Candidates will be evaluated for their suitability for the role.",
+          "translation": "候補者は、その職務への適性を評価される。"
+        }
+      ],
+      "notes": [
+        "evaluate the proposal が基本で、「提案について評価する」を evaluate about the proposal とはしない。evaluate whether it works は働くかどうかを検討する形であり、「機能することを確認する」なら verify that it works / confirm that it works が明確。evaluate は程度や価値を判断し、verify は真偽・正確さを確かめ、validate は妥当性・用途への適合を確かめたり認めたりする。ただし対象や分野によって重なるため、「evaluate は主観、verify は客観」と二分しない。evaluate oneself は通常の再帰形で「自己評価する」。evaluated だけでは好評を意味しないので、「高く評価された」は rated highly / evaluated favorably などとする。"
+      ],
+      "synonyms": [
+        {
+          "word": "assess",
+          "definition": "状態・程度・価値などを調べて判断する。",
+          "frequency": 8,
+          "difference": "evaluate と広く重なる。損害・危険性・現状の見積もりにもよく使う。",
+          "example": "We assessed the risks before approving the plan.",
+          "translation": "計画を承認する前に危険性を評価した。"
+        },
+        {
+          "word": "appraise",
+          "definition": "価値や質を慎重に評価する。",
+          "frequency": 5,
+          "difference": "財産の専門的な査定や正式な人事評価によく使い、evaluate の方が対象が広い。",
+          "example": "An expert appraised the collection.",
+          "translation": "専門家がその収集品を査定した。"
+        },
+        {
+          "word": "rate",
+          "definition": "尺度や順位に沿って評価する。",
+          "frequency": 8,
+          "difference": "点数・段階・順位などの位置づけを前面に出す。",
+          "example": "Users rated the service four out of five.",
+          "translation": "利用者はそのサービスを5点満点で4点と評価した。"
+        },
+        {
+          "word": "judge",
+          "definition": "情報や印象に基づいて価値・質などを判断する。",
+          "frequency": 8,
+          "difference": "日常的な印象による判断にも広く、evaluate は体系的検討を連想させやすい。",
+          "example": "Don't judge the product by its packaging alone.",
+          "translation": "包装だけでその製品を判断しないでください。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【動詞・他動詞】値を求める、式を評価する",
+      "frequency": 4,
+      "register": [
+        "数学・プログラミングの専門語。"
+      ],
+      "definition": "数式・関数・プログラムの式に所定の計算や評価規則を適用し、その値を求める。プログラミングで得られる値は数値だけとは限らず、文字列や真偽値なども含む。",
+      "patterns": [
+        "evaluate 〈式・積分〉＝値を計算する",
+        "evaluate 〈関数〉 at 〈引数の値〉＝指定した点での関数値を求める",
+        "evaluate 〈式〉 numerically＝数値的に評価する",
+        "be evaluated from left to right＝左から右へ評価される。受動態可。"
+      ],
+      "collocations": [
+        {
+          "pattern": "evaluate the expression",
+          "use": "式の値を求めるよう指示する。",
+          "example": "Evaluate the expression 3x + 2 when x is 4.",
+          "translation": "x が4のとき、式 3x + 2 の値を求めなさい。"
+        },
+        {
+          "pattern": "evaluate a function at 〈値〉",
+          "use": "関数に特定の引数を与えて値を求める。",
+          "example": "Evaluate the function at x = 0.",
+          "translation": "x = 0 における関数の値を求めなさい。"
+        },
+        {
+          "pattern": "evaluate an integral numerically",
+          "use": "数値計算で積分の値を求める。",
+          "example": "The software evaluates the integral numerically.",
+          "translation": "そのソフトウェアは積分を数値的に計算する。"
+        },
+        {
+          "pattern": "be evaluated from left to right",
+          "use": "プログラム中の評価順序を述べる。",
+          "example": "In this example, the arguments are evaluated from left to right.",
+          "translation": "この例では、引数は左から右へ評価される。"
+        }
+      ],
+      "notes": [
+        "evaluate an expression は「式を採点する」ではない。solve an equation は方程式を満たす未知数を求めること、evaluate an expression は与えられた式の値を求めること。評価順序は言語や構文の規則によるので、上の from left to right をすべての言語に一般化しない。語義3の The expression evaluates to 14. は式が主語になる自動詞構文であり、この他動詞構文とは分ける。"
+      ],
+      "synonyms": [
+        {
+          "word": "calculate",
+          "definition": "数値を計算して求める。",
+          "frequency": 8,
+          "difference": "数値計算一般に広く、evaluate は式・関数に規則を適用する言い方として使われる。",
+          "example": "Calculate the total before adding tax.",
+          "translation": "税を加える前の合計を計算しなさい。"
+        },
+        {
+          "word": "compute",
+          "definition": "計算によって値を求める。",
+          "frequency": 6,
+          "difference": "計算処理に焦点があり、特にコンピューターや数学の文脈で使う。",
+          "example": "The program computes the average automatically.",
+          "translation": "プログラムが平均を自動計算する。"
+        },
+        {
+          "word": "work out",
+          "definition": "考えたり計算したりして答えを求める。",
+          "frequency": 8,
+          "difference": "専門性の低い会話的な表現で、形式的な評価規則は含意しない。",
+          "example": "Can you work out the answer without a calculator?",
+          "translation": "電卓なしで答えを出せますか。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞・自動詞】評価すると～になる",
+      "frequency": 3,
+      "register": [
+        "主にプログラミング、数学的な説明。"
+      ],
+      "definition": "式を主語として、計算・評価の結果が特定の値になることを述べる。人が価値を判断する意味ではなく、式が生み出す結果を示す。",
+      "patterns": [
+        "〈式〉 + evaluate to 〈値・オブジェクト〉＝式の評価結果が～になる。to の後は結果値で、他動詞の直接目的語ではない。この形は受動態にしない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "evaluate to True",
+          "use": "式の評価結果が真偽値 True であると述べる。",
+          "example": "In Python, the expression 3 \\< 5 evaluates to True.",
+          "translation": "Python では、式 3 \\< 5 の評価結果は True になる。"
+        },
+        {
+          "pattern": "evaluate to an empty string",
+          "use": "数値以外の評価結果を示す。",
+          "example": "With this input, the expression evaluates to an empty string.",
+          "translation": "この入力では、その式の評価結果は空の文字列になる。"
+        }
+      ],
+      "notes": [
+        "We evaluate the expression. は「私たちが式を評価する」、The expression evaluates to 8. は「式の評価結果が8になる」。結果の前の to を落として The expression evaluates 8. としない。return は関数が値を返す場面で使われ、どんな式にもそのまま置き換えられるわけではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "yield",
+          "definition": "計算や処理が結果を生み出す。",
+          "frequency": 5,
+          "difference": "yield a value と結果を直接目的語に取れる。特定言語の yield 文には別の技術的役割がある。",
+          "example": "This calculation yields a value of zero.",
+          "translation": "この計算からはゼロという値が得られる。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
