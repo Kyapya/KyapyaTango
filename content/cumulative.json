@@ -3,7 +3,7 @@
   "slug": "cumulative",
   "ipa": "米・英: /ˈkjuː.mjə.lə.tɪv/。4音節で第1音節に主強勢を置く。米では第3音節を /leɪ/ とする /ˈkjuː.mjə.leɪ.tɪv/ も使われる。どちらも主強勢は第1音節で、示した二つの形の違いは第3音節の母音。",
   "lead": "複数の出来事や働きが重なるにつれ、その影響や結果が蓄積していくこと。利益にも害にも使える。一回ごとの作用は小さくても、重なることで無視できなくなる場合に多いが、一回分が必ず小さいとは限らない。各回の作用を単純に足した数値と一致することまでは意味しない。",
-  "updated": "2026-10-17",
+  "updated": "2026-10-18",
   "notion_url": "https://app.notion.com/p/cumulative-3fc4faa9b77d8180befbd4f4d17c9fdd",
   "pronunciation": [],
   "etymology": [
@@ -26,7 +26,7 @@
   "core": [
     {
       "type": "paragraph",
-      "text": "「前の分にさらに重ね、積み重なりとして扱う」。重ねる対象によって、効果、集計範囲、未払分、証拠、刑期になる。単に「大きい」ことではなく、先行する分との積み重なりがポイント。"
+      "text": "「複数の分・要素を切り捨てずに重ね合わせて扱う」。重ねる対象によって、効果、集計範囲、未払分、証拠、刑期、持ち票、権利・救済手段になる。単に「大きい」ことではなく、複数の分を合わせて扱うことがポイントで、時間順の蓄積を必須としない。"
     },
     {
       "type": "item",
@@ -47,6 +47,14 @@
     {
       "type": "item",
       "text": "前の分に重ねる、順に執行する刑期 → 「連続して執行される・累加的な」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "複数の持ち票を重ねて配分する → 「持ち票を集中・配分できる累積投票の」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "複数の権利・救済手段を排除せず重ねて認める → 「相互に排他的でなく併存する」（語義7）"
     }
   ],
   "sources": [],
@@ -247,9 +255,9 @@
       "antonyms": [
         {
           "word": "non-cumulative",
-          "definition": "所定の期に支払われなかった配当が後の期に累積しない。",
+          "definition": "当期に宣言されなかった配当について、その期の分を後の期へ累積する権利がない。",
           "frequency": 3,
-          "difference": "未払配当を繰り越すかどうかという分類上の反対。株式の安全性全体を比較する語ではない。",
+          "difference": "未宣言の配当分を後の期へ累積する権利の有無という分類上の反対。宣言済み未払配当まで消滅するという意味ではなく、具体的な扱いは発行条件などによる。株式の安全性全体を比較する語ではない。",
           "example": "The company issued non-cumulative preferred shares.",
           "translation": "その会社は非累積型優先株を発行した。"
         }
@@ -354,6 +362,59 @@
           "translation": "裁判所は各刑期を同時並行で執行するよう命じた。"
         }
       ]
+    },
+    {
+      "number": 6,
+      "title": "【形容詞：限定・cumulative voting】持ち票を集中・配分できる累積投票の",
+      "frequency": 2,
+      "register": [
+        "会社法・企業統治・選挙制度。投票方式の名称として使う。"
+      ],
+      "definition": "複数の持ち票を一人の候補に集中させたり、複数の候補に配分したりできる投票方式を表す。会社の取締役選任などで使われる cumulative voting という定型表現。過去の得票数を順に合計するという意味ではない。",
+      "patterns": [
+        "cumulative voting＝累積投票",
+        "under cumulative voting＝累積投票方式のもとで。cumulative は voting を修飾し、通常は程度比較をしない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "under cumulative voting",
+          "use": "複数の持ち票を一人にまとめて投じられる方式を説明する。",
+          "example": "Under cumulative voting, a shareholder may cast all available votes for one director candidate.",
+          "translation": "累積投票では、株主は持ち票をすべて一人の取締役候補に投じることができる。"
+        }
+      ],
+      "notes": [
+        "持ち票の数え方、制度の採用可否、適用される選任手続きは法令・定款などによる。すべての会社や選挙で利用できる方式だとは限らない。語義2の累計得票と区別し、ここでは一回の選任における票の配分方法を述べる。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【形容詞：限定・叙述】相互に排他的でなく併存する",
+      "frequency": 2,
+      "register": [
+        "法律・契約。権利や救済手段を定める条項で使う。"
+      ],
+      "definition": "権利や救済手段について、一つを行使しても、それだけで他の権利・救済手段が排除されないこと。契約や法令で複数の手段を追加的に認める関係を表し、過去の請求額を累計する意味ではない。",
+      "patterns": [
+        "cumulative remedies＝相互に排他的でなく併存する救済手段",
+        "the rights or remedies are cumulative＝権利または救済手段が互いを排除せず併存する。通常は分類的で程度比較をしない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the remedies are cumulative",
+          "use": "一つの救済手段の行使だけでは他を放棄したことにならないと示す。",
+          "example": "Under this contract, the remedies are cumulative; exercising one does not by itself waive the others.",
+          "translation": "この契約では救済手段は排他的ではなく、一つを行使しても、それだけで他の救済手段を放棄することにはならない。"
+        }
+      ],
+      "notes": [
+        "cumulative は各救済手段の成立要件を満たすことや、同じ損害について二重に回収できることまで意味しない。語義4の重複証拠や語義5の刑期の連続執行とは異なる。",
+        "行使できる手段とその限界は、適用法や契約全体の条件に従って判断する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
     }
   ]
 }
