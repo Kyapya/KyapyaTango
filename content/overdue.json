@@ -3,7 +3,7 @@
   "slug": "overdue",
   "ipa": "米: /ˌoʊvərˈduː/｜英: /ˌəʊvəˈdjuː/",
   "lead": "支払い、返却、提出、到着などが、決められた期限や予定・予想された時点を過ぎてもまだ実現していないこと。金銭だけでなく、図書館の本、報告書、交通機関、出産予定日を過ぎた赤ちゃんなどにも使う。対象物そのものが遅れる場合と、その物に関わる支払いや返却が遅れる場合がある。",
-  "updated": "2026-10-17",
+  "updated": "2026-10-18",
   "notion_url": "https://app.notion.com/p/overdue-3fc4faa9b77d8137bc2bff7c59616bfd",
   "pronunciation": [
     "3音節で第3音節に主強勢、第1音節に副強勢。第1音節の母音は米 /oʊ/、英 /əʊ/。第2音節は米 /vər/、英 /və/。第3音節は米 /duː/、英 /djuː/ で、英音では /dʒuː/ となる発音も一般的。"
@@ -38,6 +38,7 @@
         "something is/becomes overdue＝対象が期限を過ぎている・過ぎる",
         "be 〈期間〉 overdue＝期限や予定を～だけ過ぎている",
         "be overdue by 〈期間〉＝～だけ遅れている",
+        "be more overdue than 〈比較対象〉＝～より遅れが大きい",
         "something is overdue for 〈点検・更新など〉＝点検などを受けるべき時期が過ぎている。主語は物・出来事が中心だが、到着予定の人などにも使える。期限超過の長さは very より a week、well、seriously などで具体化・強調する。"
       ],
       "collocations": [
@@ -82,10 +83,16 @@
           "use": "出産予定日を過ぎてもまだ生まれていないこと。",
           "example": "The family is waiting for the arrival of an overdue baby.",
           "translation": "家族は、予定日を過ぎてもまだ生まれていない赤ちゃんの誕生を待っている。"
+        },
+        {
+          "pattern": "be more overdue than 〈比較対象〉",
+          "use": "請求書などの期限超過の程度を比べる。",
+          "example": "This invoice is more overdue than any of the others.",
+          "translation": "この請求書は、ほかのどの請求書よりも支払期限を大きく過ぎている。"
         }
       ],
       "notes": [
-        "The bill is due today. は「今日が支払期限」、The bill is overdue. は「支払期限を過ぎても未払い」。outstanding や unpaid は未払いでも期限前の場合があり、必ずしも overdue ではない。overdue invoice は通常、請求書の送付ではなく支払いの遅れを指す。two weeks overdue は two weeks と複数形にし、two weeks は遅れの長さ。for を用いる be overdue for an inspection の for は「何をすべきか」を示す。期限を述べる due on Friday を overdue on Friday に単純に置き換えると、「金曜が期限」ではなく「金曜にはすでに期限超過」となる。overdue は形容詞なので The payment overdue. ではなく The payment is overdue. とする。米国発音では同音になる overdo「やり過ぎる」とは綴り・品詞・意味が異なる。"
+        "The bill is due today. は「今日が支払期限」、The bill is overdue. は「支払期限を過ぎても未払い」。outstanding や unpaid は未払いでも期限前の場合があり、必ずしも overdue ではない。overdue invoice は通常、請求書の送付ではなく支払いの遅れを指す。two weeks overdue は two weeks と複数形にし、two weeks は遅れの長さ。for を用いる be overdue for an inspection の for は「何をすべきか」を示す。点検などでも for を置かない be overdue a test の形が英国の用例に見られる（語義2の be overdue a holiday も参照）。この場合も overdue は形容詞。遅れの程度や長さを比べる文脈では more overdue / most overdue も使える。単に期限を過ぎたことは overdue、具体的な長さは two weeks overdue などで示す。期限を述べる due on Friday を overdue on Friday に単純に置き換えると、「金曜が期限」ではなく「金曜にはすでに期限超過」となる。overdue は形容詞なので The payment overdue. ではなく The payment is overdue. とする。米国発音では同音になる overdo「やり過ぎる」とは綴り・品詞・意味が異なる。"
       ],
       "synonyms": [
         {
@@ -136,7 +143,8 @@
         "something is long/well overdue＝事柄がとうに実現すべき時期を過ぎている",
         "a long-overdue 〈reform/apology/review〉＝長らく必要とされていた改革・謝罪・見直し",
         "someone is overdue for 〈a break/a promotion/a holiday〉＝人が休息・昇進・休暇などを受けるべき時期を過ぎている",
-        "something is overdue for 〈a review/an overhaul〉＝見直し・全面改修をすべき時期を過ぎている。long、well、seriously などで遅れへの評価を強める。人主語は本人の到着ではなく、その人が受けるものを for 以下で示せる。"
+        "someone is overdue 〈a break/a holiday〉＝for を置かず、休息・休暇をとうに取ってよい時期だと述べる",
+        "something is overdue for 〈a review/an overhaul〉＝見直し・全面改修をすべき時期を過ぎている。long、well、seriously などで遅れへの評価を強める。人主語は本人の到着ではなく、その人が受けるものを for 以下、または for を置かない名詞句で示せる。"
       ],
       "collocations": [
         {
@@ -174,10 +182,16 @@
           "use": "制度・設備などの抜本的な見直しを求める。",
           "example": "Our booking system is overdue for an overhaul.",
           "translation": "当社の予約システムは、とうに全面的な見直しが必要になっている。"
+        },
+        {
+          "pattern": "be overdue a holiday",
+          "use": "休暇をとうに取ってよい時期だと、for を置かない形で述べる。",
+          "example": "We are overdue a holiday after such a busy year.",
+          "translation": "こんなに忙しい一年を過ごしたのだから、私たちはとうに休暇を取ってよいはずだ。"
         }
       ],
       "notes": [
-        "語義1の overdue payment は実際の期限超過、こちらの overdue recognition は「もっと早く認めるべきだった」という評価が中心。実施済みでも a long-overdue reform was introduced のように名詞を修飾でき、「長く待たれていた改革が導入された」となる。a long-overdue apology は謝罪が遅すぎたという批判を含み得るが、謝罪が役に立たないことまでは意味しない。long overdue の long は遅れの長さを強めるのであり、long-term「長期にわたる」とは違う。名詞前では a long-overdue reform、be の後では The reform is long overdue. が基本。be overdue for a promotion は「昇進が遅れている」で、昇進が正式に約束済みとは限らない。"
+        "語義1の overdue payment は実際の期限超過、こちらの overdue recognition は「もっと早く認めるべきだった」という評価が中心。実施済みでも a long-overdue reform was introduced のように名詞を修飾でき、「長く待たれていた改革が導入された」となる。a long-overdue apology は謝罪が遅すぎたという批判を含み得るが、謝罪が役に立たないことまでは意味しない。long overdue の long は遅れの長さを強めるのであり、long-term「長期にわたる」とは違う。名詞前では a long-overdue reform、be の後では The reform is long overdue. が基本。be overdue for a promotion は「昇進が遅れている」で、昇進が正式に約束済みとは限らない。be overdue a holiday のように for を置かない形もあり、英国の用例に見られる。この場合も形容詞であり、名詞句を目的語に取る動詞に変わったわけではない。語義1の点検などにも同形がある。こちらの評価的な意味でも、遅れの程度を比較する文脈では more overdue / most overdue を使える。"
       ],
       "synonyms": [
         {
