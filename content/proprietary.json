@@ -3,7 +3,7 @@
   "slug": "proprietary",
   "ipa": "米: /prəˈpraɪ.ə.ter.i/｜英: /prəˈpraɪ.ə.tər.i/。ここでは5音節で示し、第2音節 /praɪ/ に主強勢を置く。示した米英形の違いは第4音節の母音 /e/ と /ə/。英語では弱い音節が縮まり、音節数が少なく聞こえる発音もある。",
   "lead": "技術、ソフトウェア、情報、製法などが特定の会社・個人のものとして所有・管理され、他者が自由に利用・複製・変更できるものではない。「独自の」と訳すことが多いが、単に珍しい、独創的であるという意味ではない。特許だけでなく、著作権、契約、営業秘密などが関わる場合もあり、語だけから保護の方式を特定しない。",
-  "updated": "2026-10-17",
+  "updated": "2026-10-18",
   "notion_url": "https://app.notion.com/p/proprietary-3fc4faa9b77d81d98917d0e46acbc6ec",
   "pronunciation": [],
   "etymology": [
@@ -197,7 +197,13 @@
         }
       ],
       "notes": [
-        "proprietary interest の interest は「興味」ではなく「権利・利害・持分」。proprietary trading は「秘密の取引」や「特許技術による取引」ではない。proprietary rights は知的財産だけに限らない。claim を述べたことと、権利が裁判所に認められたことを混同しない。日常的な「これは私の物だ」には It belongs to me. が普通で、proprietary を無理に使わない。"
+        "proprietary interest の interest は「興味」ではなく「権利・利害・持分」。proprietary trading は「秘密の取引」や「特許技術による取引」ではない。proprietary rights は知的財産だけに限らない。claim を述べたことと、権利が裁判所に認められたことを混同しない。日常的な「これは私の物だ」には It belongs to me. が普通で、proprietary を無理に使わない。",
+        "対照表現: possessory",
+        "定義: 財産の占有に関する。",
+        "頻度: 〈2/10〉",
+        "違い: 法律用語で「占有」を中心とし、「所有」とは同じでない。権利の種類を確認して使い分ける。",
+        "例: The judgment distinguishes possessory rights from ownership.",
+        "訳: その判決は、占有上の権利と所有権を区別している。"
       ],
       "synonyms": [
         {
@@ -207,14 +213,6 @@
           "difference": "ownership rights のように所有関係を直接表す。形容詞ではないので The rights are ownership. とはしない。",
           "example": "The contract clarifies ownership rights.",
           "translation": "その契約は所有上の権利を明確にしている。"
-        },
-        {
-          "word": "possessory",
-          "definition": "財産の占有に関する。",
-          "frequency": 2,
-          "difference": "法律用語で「占有」を中心とし、「所有」とは同じでない。権利の種類を確認して使い分ける。",
-          "example": "The judgment distinguishes possessory rights from ownership.",
-          "translation": "その判決は、占有上の権利と所有権を区別している。"
         }
       ],
       "antonyms": []
