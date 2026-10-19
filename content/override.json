@@ -1,0 +1,768 @@
+{
+  "word": "override",
+  "slug": "override",
+  "ipa": "動詞：米: /ˌoʊvərˈraɪd/｜英: /ˌəʊvəˈraɪd/",
+  "lead": "決定・拒否・規則・意向などを、より強い権限や力によって退け、その効力・支配を及ばなくする。正当に権限を行使する場合も、他人の権利を不当に無視する場合もあり、正当性は語自体では決まらない。",
+  "updated": "2026-10-19",
+  "notion_url": "https://app.notion.com/p/override-3fe4faa9b77d81b29cafcab93d78374e",
+  "pronunciation": [
+    "名詞：米: /ˈoʊvərˌraɪd/｜英: /ˈəʊvəˌraɪd/",
+    "どちらも3音節。動詞は第3音節が主強勢、第1音節が第二強勢。名詞では第1音節が主強勢、第3音節が第二強勢となる代表形を示す。米英差は第1音節の /oʊ/ と /əʊ/、第2音節の /vər/ と /və/ で、米では r を発音する。",
+    "overrode の第3音節は米 /roʊd/、英 /rəʊd/。overridden の後半は /ˈrɪdən/。形容詞 overriding は動詞と同様に ride の部分が主強勢。"
+  ],
+  "etymology": [
+    "古英語の「馬などに乗って上を越える」に相当する語にさかのぼり、over と ride の系列から成る。乗り越える物理的な意味と、他の力・判断を押しのける意味がある。ride、rider、riding は同じ系列。すべての専門用語の制度的内容を「乗り越える」だけから推定しない。"
+  ],
+  "formation": [
+    {
+      "term": "overrides／overrode／overridden／overriding",
+      "description": "三人称単数現在／過去形／過去分詞／現在分詞。overrided は不可。"
+    },
+    {
+      "term": "overrides",
+      "description": "名詞 override の複数形でもある。名詞と動詞で強勢が異なる。"
+    },
+    {
+      "term": "overriding",
+      "description": "形容詞として「最優先の・決定的な」が定着している。語義7を参照。物理的な重なりの現在分詞とも区別する。"
+    },
+    {
+      "term": "overridden",
+      "description": "an overridden decision、be overridden by のような分詞・受動形。単独で別の心理的評価を表す形ではない。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "大部分に共通するのは、既存の相手・働きの上に立って、それを越えたり抑えたりすること。語義9・10・14は制度的専門義で、配下の売上から生じる報酬や資源の収益権という語彙的意味をこの核から自然には導けないため、個別に参照する。語義12は歴史的残存義で、馬を乗りすぎて疲弊させる意味がこの核から導けないため、個別に参照する。"
+    },
+    {
+      "type": "item",
+      "text": "上に立つ力としての、決定・意向の排除 → 「権限・強い力で覆す・無視して押し切る」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "上に立つ力としての、判断材料の優先 → 「優先する・他の要素を抑える」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "上に立つ入力としての、制御・設定の変更 → 「自動制御・設定に優先して操作する」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "上に立つ実装としての、継承メソッドの再定義 → 「継承したメソッドをオーバーライドする」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "上に立つ働きとしての、優先・取消しの行為 → 「優先操作・決定を覆す行為」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "上に立つ働きとしての、優先操作機構 → 「優先操作装置・手動切替機構」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "上に立つ重要性としての、最優先事項 → 「最優先の・他に勝る」（語義7）"
+    },
+    {
+      "type": "item",
+      "text": "上に立つ物体としての、物理的な重なり → 「上に乗り重なる・覆って進む」（語義8）"
+    },
+    {
+      "type": "item",
+      "text": "上に立つ効力としての、登記外の権利 → 「登記簿に現れなくても権原を拘束する」（語義11）"
+    },
+    {
+      "type": "item",
+      "text": "上に立つ移動としての、騎乗による突破 → 「騎乗して乗り越える・踏み越える」（語義13）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞：他動詞】権限・強い力で覆す・無視して押し切る",
+      "frequency": 6,
+      "register": [
+        "一般・組織・法律・政治。"
+      ],
+      "definition": "決定・拒否・規則・意向などを、より強い権限や力によって退け、その効力・支配を及ばなくする。正当に権限を行使する場合も、他人の権利を不当に無視する場合もあり、正当性は語自体では決まらない。",
+      "patterns": [
+        "override a decision/a veto＝決定・拒否権を覆す",
+        "override someone’s wishes＝意向を無視して押し切る",
+        "be overridden by 〈権限・判断〉＝それによって覆される。"
+      ],
+      "collocations": [
+        {
+          "pattern": "override a decision",
+          "use": "上位の判断で決定を覆す。",
+          "example": "The director overrode the committee’s decision to postpone the launch.",
+          "translation": "責任者は発売を延期するという委員会の決定を覆した。"
+        },
+        {
+          "pattern": "override a veto",
+          "use": "政治上の拒否権を覆す。",
+          "example": "Both houses voted by the required majority to override the president’s veto.",
+          "translation": "両院は必要な多数で、大統領の拒否権を覆すことを可決した。"
+        },
+        {
+          "pattern": "override someone’s wishes",
+          "use": "本人の意向に反して押し切る。",
+          "example": "The committee overrode the residents’ wishes and approved the plan.",
+          "translation": "委員会は住民の意向を押し切って計画を承認した。"
+        },
+        {
+          "pattern": "be overridden by 〈上位規則〉（override の過去分詞）",
+          "use": "規範の優先関係を受動で示す。",
+          "example": "The local rule was overridden by a higher-level requirement.",
+          "translation": "その地域の規則は上位の要件によって適用が退けられた。"
+        },
+        {
+          "pattern": "override someone’s rights",
+          "use": "権利を軽視して行動することを批判する。",
+          "example": "Convenience does not justify overriding employees’ rights.",
+          "translation": "便利だからといって従業員の権利を無視してよいことにはならない。"
+        }
+      ],
+      "notes": [
+        "米連邦議会による通常の大統領拒否権の override は両院で必要な3分の2の賛成を要する。この制度の数字を他国・地方自治体に一般化しない。override は法律の repeal「廃止」や裁判の appeal「上訴」そのものではなく、個別制度の手続きは別に確認する。人に対して override someone とも言えるが、その人の判断・意向を押し切る意味になる。"
+      ],
+      "synonyms": [
+        {
+          "word": "overrule",
+          "definition": "権限により決定・異議などを退ける。",
+          "frequency": 6,
+          "difference": "裁定・判断の権限を明確に示しやすい。",
+          "example": "The chair overruled the objection.",
+          "translation": "議長はその異議を退けた。"
+        },
+        {
+          "word": "overturn",
+          "definition": "既存の判決・決定を覆す。",
+          "frequency": 6,
+          "difference": "決定が逆転した結果に焦点があり、制御装置には通常使わない。",
+          "example": "The court overturned the earlier ruling.",
+          "translation": "裁判所は先の判決を覆した。"
+        },
+        {
+          "word": "disregard",
+          "definition": "意向・規則などを考慮せず無視する。",
+          "frequency": 6,
+          "difference": "正式な効力を覆す必要はなく、単に従わないことも含む。",
+          "example": "The manager disregarded the team’s objections.",
+          "translation": "マネージャーはチームの反対意見を無視した。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "uphold",
+          "definition": "決定・権利などを有効なものとして維持する。",
+          "frequency": 6,
+          "difference": "決定の効力を退けることと支持・維持することの方向の対立。",
+          "example": "The panel upheld the original decision.",
+          "translation": "審査委員会は元の決定を維持した。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【動詞：他動詞】優先する・他の要素を抑える",
+      "frequency": 6,
+      "register": [
+        "一般・論説・意思決定。"
+      ],
+      "definition": "ある理由・感情・必要性などが、他の考慮事項より強く働き、判断を左右する。正式な取消しの権限がなくても使う。",
+      "patterns": [
+        "〈理由・感情〉 + override + 〈判断・配慮〉＝その働きに優先する",
+        "let something override something＝ある要素を他より優先させる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "override other considerations",
+          "use": "優先順位を示す。",
+          "example": "Safety overrides all other considerations in this procedure.",
+          "translation": "この手順では安全がほかのあらゆる考慮事項に優先する。"
+        },
+        {
+          "pattern": "let 〈感情〉 override one’s judgment",
+          "use": "感情による判断への影響を示す。",
+          "example": "Do not let anger override your judgment.",
+          "translation": "怒りで判断を狂わせないようにしなさい。"
+        },
+        {
+          "pattern": "〈必要性〉 + override + 〈好み〉",
+          "use": "個人の選好と必要条件を対比する。",
+          "example": "The need for accessibility overrode the designer’s preference for stairs.",
+          "translation": "利用しやすさの必要性が、階段を好む設計者の意向に優先した。"
+        },
+        {
+          "pattern": "be overridden by 〈強い要因〉（override の過去分詞）",
+          "use": "弱い側を主語にする。",
+          "example": "His doubts were overridden by his desire to help.",
+          "translation": "彼は疑念よりも、助けたいという思いが勝った。"
+        }
+      ],
+      "notes": [
+        "outweigh は比較上の重みが大きいこと、override は他の要素の働きを押しのけることに焦点がある。「より大きい」だけなら exceed、outweigh などを選ぶ。"
+      ],
+      "synonyms": [
+        {
+          "word": "outweigh",
+          "definition": "重要性・影響力で上回る。",
+          "frequency": 7,
+          "difference": "必ずしも他の要素を無効にしない。",
+          "example": "The benefits outweigh the inconvenience.",
+          "translation": "利益は不便さを上回る。"
+        },
+        {
+          "word": "take precedence over",
+          "definition": "優先順位が上である。",
+          "frequency": 6,
+          "difference": "押し切る力より、優先関係を中立的に示す。",
+          "example": "Public safety takes precedence over convenience.",
+          "translation": "公共の安全は利便性に優先する。"
+        },
+        {
+          "word": "dominate",
+          "definition": "他の要素を抑えて大きな影響を及ぼす。",
+          "frequency": 7,
+          "difference": "継続する支配にも使い、明確な比較項の取消しは不要。",
+          "example": "Fear dominated the discussion.",
+          "translation": "恐れが議論を支配していた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞：他動詞】自動制御・設定に優先して操作する",
+      "frequency": 6,
+      "register": [
+        "機械・制御・ソフトウェア設定。"
+      ],
+      "definition": "通常の自動制御・既定設定・既存の指示を一時的または選択的に適用させず、別の入力や操作を優先させる。装置を破壊したり、元の設定を永久に消したりすることは必須でない。",
+      "patterns": [
+        "override an automatic control＝自動制御に優先して操作する",
+        "override the default settings＝既定設定を上書きする",
+        "manually override something＝手動で優先操作する",
+        "override something with something＝別の設定などを優先させる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "manually override the controls",
+          "use": "手動操作を優先する。",
+          "example": "The technician manually overrode the automatic controls during the test.",
+          "translation": "技術者は試験中、自動制御に優先して手動操作を行った。"
+        },
+        {
+          "pattern": "override the default settings",
+          "use": "既定値より個別設定を優先する。",
+          "example": "Users can override the default settings for each project.",
+          "translation": "利用者はプロジェクトごとに既定設定を変更できる。"
+        },
+        {
+          "pattern": "override something with 〈設定〉",
+          "use": "何を代わりに適用するか示す。",
+          "example": "The command-line option overrides the saved value with a temporary setting.",
+          "translation": "そのコマンドラインオプションは、保存値に代えて一時的な設定を優先適用する。"
+        },
+        {
+          "pattern": "be overridden by 〈操作員〉（override の過去分詞）",
+          "use": "優先操作を行う人を示す。",
+          "example": "The scheduled command can be overridden by an authorized operator.",
+          "translation": "予定された指令は、権限のある操作員が優先操作によって変更できる。"
+        }
+      ],
+      "notes": [
+        "override と overwrite は区別する。overwrite a file はファイルの内容を書き換えること、override a setting は別の指定を優先させること。手動の場合が多いが、上位の自動指示が下位設定を override することもある。安全装置の解除を単語の標準用途として推奨する表現ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "bypass",
+          "definition": "通常通る制御・処理を迂回する。",
+          "frequency": 5,
+          "difference": "経路・機構を通らないことが中心で、代わりの命令を優先するとは限らない。",
+          "example": "The test mode bypasses the normal startup sequence.",
+          "translation": "試験モードは通常の起動手順を迂回する。"
+        },
+        {
+          "word": "supersede",
+          "definition": "新しいものが既存のものより優先して置き換わる。",
+          "frequency": 5,
+          "difference": "装置操作に限らない形式的な語。",
+          "example": "The new configuration supersedes the previous one.",
+          "translation": "新しい設定が以前の設定に取って代わる。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞：他動詞】継承したメソッドをオーバーライドする",
+      "frequency": 4,
+      "register": [
+        "プログラミング。具体的な適合条件は言語による。"
+      ],
+      "definition": "オブジェクト指向言語などで、継承元にあるメソッドに対して派生側の実装を定義し、対応する呼出しでその実装を使うようにする。",
+      "patterns": [
+        "override a method＝メソッドをオーバーライドする",
+        "override a superclass method＝親クラスのメソッドを再定義する",
+        "be overridden in a subclass＝派生クラスで再定義される。"
+      ],
+      "collocations": [
+        {
+          "pattern": "override a method",
+          "use": "継承した実装を置き換える。",
+          "example": "The subclass overrides the method to return a localized message.",
+          "translation": "そのサブクラスはメソッドをオーバーライドし、言語に合わせたメッセージを返す。"
+        },
+        {
+          "pattern": "override a superclass method",
+          "use": "継承元を明示する。",
+          "example": "This Java class overrides the superclass method without changing its parameter list.",
+          "translation": "このJavaクラスは引数リストを変えずに親クラスのメソッドをオーバーライドする。"
+        },
+        {
+          "pattern": "be overridden in a subclass（override の過去分詞）",
+          "use": "定義の場所を示す。",
+          "example": "The instance method is overridden in the subclass.",
+          "translation": "そのインスタンスメソッドはサブクラスでオーバーライドされている。"
+        },
+        {
+          "pattern": "override an inherited implementation",
+          "use": "実装上の変更を示す。",
+          "example": "We override the inherited implementation to add validation.",
+          "translation": "私たちは検証処理を加えるため、継承した実装をオーバーライドする。"
+        }
+      ],
+      "notes": [
+        "Javaではインスタンスメソッドの override と、同名の static メソッドの hide は別。overload は同名でも引数の異なるメソッドを用意すること。親のソースを物理的に書き換える意味ではない。戻り値・アクセス権・例外などの制約を、単に同名なら成立すると説明しない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞：可算】優先操作・決定を覆す行為",
+      "frequency": 5,
+      "register": [
+        "制御・計算機・政治・組織運営。"
+      ],
+      "definition": "自動制御・既定の判断に優先する操作、または決定・拒否権などを覆す行為やその試み。対象を of や前置修飾で示す。",
+      "patterns": [
+        "an override of something＝それを覆す行為",
+        "a veto override＝拒否権を覆すこと",
+        "a manual override＝手動による優先操作",
+        "a method override＝メソッドの再定義。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an override of the veto",
+          "use": "政治行為を名詞で述べる。",
+          "example": "The legislators failed to secure an override of the veto.",
+          "translation": "議員たちは拒否権を覆すための賛成を確保できなかった。"
+        },
+        {
+          "pattern": "a manual override",
+          "use": "優先操作という出来事を指す。",
+          "example": "The log records every manual override of the schedule.",
+          "translation": "ログには予定に対する手動の優先操作がすべて記録される。"
+        },
+        {
+          "pattern": "a method override",
+          "use": "再定義の実例を数える。",
+          "example": "The reviewer checked each method override for compatibility.",
+          "translation": "レビュー担当者は各メソッドの再定義について互換性を確認した。"
+        },
+        {
+          "pattern": "an override request",
+          "use": "通常の判断に例外を求める。",
+          "example": "The system sends an override request to the manager.",
+          "translation": "システムは通常の判断を変更する承認依頼を管理者に送る。"
+        }
+      ],
+      "notes": [
+        "可算で an override、複数 overrides。a failed override は覆そうとしたが成功しなかった場合を指し、名詞だけで成功を断定しない。manual override は操作にも装置（語義6）にもなり、ログに記録するのは操作、switch の位置を述べるのは装置。"
+      ],
+      "synonyms": [
+        {
+          "word": "reversal",
+          "definition": "決定・方針の逆転。",
+          "frequency": 6,
+          "difference": "覆った結果を示しやすく、優先権限や制御入力を必須にしない。",
+          "example": "The announcement marked a reversal of the earlier decision.",
+          "translation": "その発表は以前の決定が覆されたことを示した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【名詞：可算】優先操作装置・手動切替機構",
+      "frequency": 4,
+      "register": [
+        "機械・制御。"
+      ],
+      "definition": "通常の自動制御に代えて別の操作を有効にする装置・機能。操作そのものではなく、それを可能にする仕組みを指す。",
+      "patterns": [
+        "a manual override＝手動優先機構",
+        "an emergency override＝非常時の優先操作機構",
+        "be fitted with an override＝優先機構を備える。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a manual override",
+          "use": "機構としての名詞用法を示す。",
+          "example": "The valve has a manual override beside the motor housing.",
+          "translation": "その弁にはモーターのケースの脇に手動優先機構が付いている。"
+        },
+        {
+          "pattern": "be fitted with an override",
+          "use": "装備を説明する。",
+          "example": "The automatic door is fitted with an emergency override.",
+          "translation": "その自動ドアには非常時の優先操作機構が備わっている。"
+        }
+      ],
+      "notes": [
+        "override button、override switch は、優先操作を行うボタン・スイッチ。すべての override が手動とは限らない。単なる電源スイッチやリセット機能と同一とはしない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【形容詞：overriding；主に限定】最優先の・他に勝る",
+      "frequency": 6,
+      "register": [
+        "一般・論説・仕事。"
+      ],
+      "definition": "他の考慮事項より重要で、最終判断を左右する。動詞の現在分詞と同形だが、名詞の前で重要性を表す形容詞として定着している。",
+      "patterns": [
+        "an overriding concern/reason＝最優先の懸念・決定的な理由",
+        "the overriding priority＝最優先事項",
+        "be overriding＝最優先である。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the overriding priority（override の形容詞形 overriding）",
+          "use": "優先事項を一つ強く示す。",
+          "example": "Protecting the archives is our overriding priority.",
+          "translation": "記録資料を守ることが、私たちの最優先事項だ。"
+        },
+        {
+          "pattern": "an overriding concern（override の形容詞形 overriding）",
+          "use": "他の要素を上回る懸念を示す。",
+          "example": "Cost was an overriding concern throughout the negotiations.",
+          "translation": "交渉を通じて、費用が最も重要な懸念事項だった。"
+        },
+        {
+          "pattern": "an overriding reason（override の形容詞形 overriding）",
+          "use": "判断を決める理由を示す。",
+          "example": "There is no overriding reason to abandon the project.",
+          "translation": "その事業を断念する決定的な理由はない。"
+        },
+        {
+          "pattern": "be overriding（override の形容詞形 overriding）",
+          "use": "やや硬い叙述用法を示す。",
+          "example": "In this decision, the need for confidentiality was overriding.",
+          "translation": "この決定では、機密保持の必要性が何よりも優先された。"
+        }
+      ],
+      "notes": [
+        "名詞の前での使用が中心。叙述用法は可能だが、日常的な become/get overriding の連鎖を定型として覚えない。意味が強く、通常 more overriding のような比較より more important とする。an overriding concern は形容詞、a rule overriding local policy は目的語を伴う分詞節。 overarching は「個々の事項を包含する全体的な」という対照表現で、最優先という意味とは一致しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "paramount",
+          "definition": "ほかのすべてに優先する。",
+          "frequency": 5,
+          "difference": "限定・叙述とも自然で、最重要であることを直接示す。",
+          "example": "Accuracy is paramount in this work.",
+          "translation": "この仕事では正確さが最重要だ。"
+        },
+        {
+          "word": "decisive",
+          "definition": "最終結果や判断を決める。",
+          "frequency": 6,
+          "difference": "優先順位そのものより、結論を左右する力に重点がある。",
+          "example": "The shortage of staff was the decisive factor.",
+          "translation": "人手不足が決定的な要因だった。"
+        },
+        {
+          "word": "predominant",
+          "definition": "最も大きな影響・勢力を持つ。",
+          "frequency": 5,
+          "difference": "支配的な傾向を示し、優先すべきという判断とは限らない。",
+          "example": "Price remained the predominant factor.",
+          "translation": "価格が依然として主要な要因だった。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "secondary",
+          "definition": "重要性・優先度が二次的な。",
+          "frequency": 7,
+          "difference": "優先順位の高低という程度上の対立。",
+          "example": "Appearance is a secondary consideration.",
+          "translation": "見た目は二次的な考慮事項だ。"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "【動詞：他動詞】上に乗り重なる・覆って進む",
+      "frequency": 2,
+      "register": [
+        "物理的描写・地質・医学。"
+      ],
+      "definition": "ある物が別の物の上へ進み、覆ったり重なったりする。地質ではプレートや氷、医学ではずれた骨片などに使われる。",
+      "patterns": [
+        "〈上側の物〉 + override + 〈下側の物〉＝その上に乗り重なる",
+        "be overridden by something＝その下側となる",
+        "override each other＝互いに重なる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "〈plate〉 + override + 〈plate〉",
+          "use": "沈み込む側との上下関係を述べる。",
+          "example": "In the diagram, the upper plate overrides the subducting plate.",
+          "translation": "図では、上盤側のプレートが沈み込むプレートの上に乗り重なっている。"
+        },
+        {
+          "pattern": "〈ice〉 + override + 〈地形〉",
+          "use": "氷が覆って進む物理描写。",
+          "example": "The advancing ice overrode the low ridge.",
+          "translation": "前進する氷が低い尾根を覆って乗り越えた。"
+        },
+        {
+          "pattern": "〈bone fragments〉 + override + each other",
+          "use": "骨片の重なりを示す。",
+          "example": "The X-ray showed that the bone fragments overrode each other.",
+          "translation": "X線画像では、骨片同士が重なっていることが分かった。"
+        }
+      ],
+      "notes": [
+        "医学の overriding は骨片の長軸方向の重なりと短縮を指すことがあり、単なる角度のずれと同一ではない。地質の overriding plate は上側で、subducting plate は下へ沈む側。これらを「最重要のプレート」と形容詞の語義7で訳さない。具体的な病態・地質機構をこの語だけで決めない。"
+      ],
+      "synonyms": [
+        {
+          "word": "overlap",
+          "definition": "一部が重なり合う。",
+          "frequency": 7,
+          "difference": "静的な配置にも広く使い、上へ乗り越える動きは必須でない。",
+          "example": "The two fragments overlap along the shaft.",
+          "translation": "二つの骨片は骨幹に沿って重なっている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 9,
+      "title": "【名詞：可算】部下・代理人の売上に対する上乗せ手数料",
+      "frequency": 2,
+      "register": [
+        "主に米の販売・保険代理店などの報酬実務。"
+      ],
+      "definition": "管理者や上位代理店などに、配下の営業担当者・代理人の売上を基に支払われる手数料。本人自身の販売だけに対する通常の手数料とは区別される。",
+      "patterns": [
+        "an override on sales＝売上に対する上乗せ手数料",
+        "an override commission＝上位者への歩合手数料。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an override on 〈売上〉",
+          "use": "どの売上から生じる報酬かを示す。",
+          "example": "The manager receives an override on the sales made by her team.",
+          "translation": "マネージャーはチームの売上に対する上乗せ手数料を受け取る。"
+        },
+        {
+          "pattern": "an override commission",
+          "use": "報酬の名称を明示する。",
+          "example": "The agreement sets out the override commission payable to the regional agent.",
+          "translation": "契約には地域代理店に支払う上乗せ手数料が定められている。"
+        }
+      ],
+      "notes": [
+        "率・対象売上・支払条件は契約次第であり、override という語だけから特定の割合や違法性を推測しない。制度や販売形態の名称ではなく、報酬の種類。"
+      ],
+      "synonyms": [
+        {
+          "word": "commission",
+          "definition": "売上などに応じて払われる手数料。",
+          "frequency": 7,
+          "difference": "本人の直接販売への報酬も含む上位概念で、配下の売上に限定されない。",
+          "example": "The agent earns a commission on each sale.",
+          "translation": "代理人は販売ごとに手数料を得る。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 10,
+      "title": "【名詞：可算】追加ロイヤルティ権益・オーバーライド",
+      "frequency": 2,
+      "register": [
+        "主に米の石油・ガス取引。専門的。"
+      ],
+      "definition": "石油・ガスなどの資源開発でいう overriding royalty またはその権益。通常、作業権益から切り出され、生産の一部などを受け取る権利を指す。",
+      "patterns": [
+        "retain an override＝追加ロイヤルティ権益を留保する",
+        "an override on a lease＝リースに付随する追加ロイヤルティ権益。"
+      ],
+      "collocations": [
+        {
+          "pattern": "retain an override",
+          "use": "権益を留保する取引を示す。",
+          "example": "The assignor retained an override when it transferred the oil and gas lease.",
+          "translation": "譲渡人は石油・ガスのリースを移転する際、追加ロイヤルティ権益を留保した。"
+        },
+        {
+          "pattern": "an override + burden + a lease",
+          "use": "追加ロイヤルティ権益がリースに負担を課すことを示す。",
+          "example": "The buyer asked whether an override burdened the lease.",
+          "translation": "買い手は、そのリースに追加ロイヤルティ権益の負担が付いているか尋ねた。"
+        }
+      ],
+      "notes": [
+        "完全形は overriding royalty interest。開発・生産費用を負担しない権益として説明されるが、控除・存続期間・税務などの細部は契約と法域による。永久の鉱物所有権や、語義9の営業手数料と同一にしない。資料によって略称の使い方が異なるため、契約では定義条項を確認する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 11,
+      "title": "【形容詞：overriding；主に限定】登記簿に現れなくても権原を拘束する",
+      "frequency": 2,
+      "register": [
+        "法律・不動産登記。イングランド・ウェールズ。"
+      ],
+      "definition": "イングランド・ウェールズの土地登記制度で、登記簿に記載されていなくても登録された権原や取得者を拘束する一定の権利・利益についていう。overriding interest という専門表現が中心。",
+      "patterns": [
+        "an overriding interest＝登記簿に現れなくても拘束力を持つ一定の権利",
+        "have overriding status＝その優越的な地位を持つ。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an overriding interest（override の形容詞形 overriding）",
+          "use": "制度上の専門表現を示す。",
+          "example": "The solicitor investigated whether the occupier had an overriding interest.",
+          "translation": "弁護士は占有者が登記に現れなくても対抗できる権利を持つか調べた。"
+        },
+        {
+          "pattern": "have overriding status（override の形容詞形 overriding）",
+          "use": "法的な地位を述べる。",
+          "example": "The interest had overriding status despite not appearing in the register.",
+          "translation": "その権利は登記簿に現れていなかったものの、優先的な拘束力を持っていた。"
+        }
+      ],
+      "notes": [
+        "単に重要な利益という語義7ではない。どの権利が該当するかは初回登記・後の処分などで区別され、占有しているだけで常に成立するとはいえない。HM Land Registry の用語であり、他国の登記制度にそのまま当てはめない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 12,
+      "title": "【動詞：他動詞】馬を酷使して乗る",
+      "frequency": 1,
+      "register": [
+        "古め・乗馬の語彙。"
+      ],
+      "definition": "馬などに長く、または激しく乗りすぎて疲弊させる。",
+      "patterns": [
+        "override a horse＝馬に乗りすぎて酷使する",
+        "be overridden＝乗られすぎて疲れる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "override a horse",
+          "use": "過度の騎乗を表す。",
+          "example": "The guide warned the riders not to override their horses on the long journey.",
+          "translation": "案内人は長旅で馬を酷使しすぎないよう騎手たちに注意した。"
+        }
+      ],
+      "notes": [
+        "乗っている人が馬より優先されるという現代の制御義ではない。日常的には ride a horse too hard と言えば明確。override a rider と目的語を騎手にしない。"
+      ],
+      "synonyms": [
+        {
+          "word": "overwork",
+          "definition": "働かせすぎて疲れさせる。",
+          "frequency": 5,
+          "difference": "動物にも人にも使い、騎乗には限定しない。",
+          "example": "The farmer refused to overwork the tired animals.",
+          "translation": "農場主は疲れた動物を酷使しようとはしなかった。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 13,
+      "title": "【動詞：他動詞】騎乗して乗り越える・踏み越える",
+      "frequency": 1,
+      "register": [
+        "古風・歴史的描写。"
+      ],
+      "definition": "馬などに乗ったまま対象の上や向こう側へ進む。人や隊列を踏み越えて突破する古い戦闘描写などに使う。",
+      "patterns": [
+        "override 〈障害・隊列〉＝騎乗して踏み越える。"
+      ],
+      "collocations": [
+        {
+          "pattern": "override a line of defenders",
+          "use": "騎兵の物理的な突破を示す。",
+          "example": "The cavalry overrode the thin line of defenders.",
+          "translation": "騎兵隊は手薄な防衛隊列を踏み越えて突破した。"
+        }
+      ],
+      "notes": [
+        "現代の道路で車が人をひく場合は run over someone が普通で、override someone を一般的な交通事故表現にはしない。語義1の「意向を押し切る」と文脈を区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "trample",
+          "definition": "踏みつける・踏みにじる。",
+          "frequency": 4,
+          "difference": "騎乗の有無を問わない。",
+          "example": "The horses trampled the fallen fence.",
+          "translation": "馬たちは倒れた柵を踏みつけた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 14,
+      "title": "【動詞：他動詞】配下の売上から手数料を受け取る",
+      "frequency": 1,
+      "register": [
+        "米の販売報酬用語。辞書に収録されるが、名詞形の方が理解されやすい。"
+      ],
+      "definition": "上位の販売代理人などが、配下の代理人の販売に基づく手数料を受け取る。名詞 override に対応する低頻度の業務用法。",
+      "patterns": [
+        "override 〈下位代理人〉＝その代理人の売上から手数料を受け取る。"
+      ],
+      "collocations": [
+        {
+          "pattern": "override a subagent",
+          "use": "古めの専門的な動詞用法を示す。",
+          "example": "Under the arrangement, the regional agent overrode each subagent in the district, receiving a commission on each subagent’s sales.",
+          "translation": "その取り決めでは、地域代理人は地区内の各下位代理人について、その売上に応じた上乗せ手数料を受け取った。"
+        }
+      ],
+      "notes": [
+        "この用法は一般的な「代理人の判断を覆す」と紛らわしい。実務では receive an override on a subagent’s sales と明記する方が安全に意味を伝えられる。現代の出現頻度を広く確認できる資料は限られるため、一般語として頻用しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "earn a commission",
+          "definition": "販売などに応じた手数料を得る。",
+          "frequency": 5,
+          "difference": "こちらは本人の直接販売の報酬も含む。override のこの用法は配下の販売に基づく上位者の取り分を表す。",
+          "example": "The supervisor earned a commission on sales made by her agents.",
+          "translation": "その監督者は、自分の配下の代理人たちの売上に応じた手数料を得た。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

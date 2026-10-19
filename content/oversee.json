@@ -1,0 +1,260 @@
+{
+  "word": "oversee",
+  "slug": "oversee",
+  "ipa": "米: /ˌoʊvərˈsiː/｜英: /ˌəʊvəˈsiː/",
+  "lead": "仕事・事業・人員などに責任を持ち、進行や実施が適切かを見守り、必要な管理・指導を行う。各作業を自分で実行するとは限らず、監督が成功したことまで保証しない。",
+  "updated": "2026-10-19",
+  "notion_url": "https://app.notion.com/p/oversee-3fe4faa9b77d81849d30ff33f06982cc",
+  "pronunciation": [
+    "3音節。第1音節に第二強勢、第3音節に主強勢。米英差は第1音節の /oʊ/ と /əʊ/、第2音節の /vər/ と /və/。米では第2音節の r を発音する。oversaw は米 /ˌoʊvərˈsɔː/、英 /ˌəʊvəˈsɔː/ を代表形とし、米の saw の母音には地域差がある。overseen の末尾は /siːn/。"
+  ],
+  "etymology": [
+    "古英語 ofersēon にさかのぼり、over「上から・全体に」と see「見る」に相当する要素を含む。see、sight は同じ古い語の系列に属する。「全体に目を届かせる」が監督の意味につながるが、現代の主要義は単に上から眺めることではない。"
+  ],
+  "formation": [
+    {
+      "term": "oversees／oversaw／overseen／overseeing",
+      "description": "三人称単数現在／過去形／過去分詞／現在分詞。overseed、oversaw を過去分詞にしない。"
+    },
+    {
+      "term": "overseer",
+      "description": "監督者。歴史的には農園・奴隷労働の監督者にも用いられ、現代の一般的な職名には supervisor、manager が適することが多い。"
+    },
+    {
+      "term": "oversight",
+      "description": "名詞「監督」と「見落とし」の両義がある。oversee の通常の意味を「見落とす」と推測しない。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "共通するのは、人・物・場所に目を届かせて様子を捉えること。現在の中心は責任を持つ監督で、それ以外の見る・調べる用法は古めの文章に多い。"
+    },
+    {
+      "type": "item",
+      "text": "目を届かせる、責任を伴う業務管理 → 「監督する・全体を管理する」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "目を届かせる、場所全体への視線 → 「見渡す・見守る」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "目を届かせる、偶然・内密の目撃 → 「偶然・ひそかに目撃する」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "目を届かせる、対象の点検 → 「点検する・調べる」（語義4）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞：他動詞】監督する・全体を管理する",
+      "frequency": 7,
+      "register": [
+        "一般・仕事・行政・事業運営。"
+      ],
+      "definition": "仕事・事業・人員などに責任を持ち、進行や実施が適切かを見守り、必要な管理・指導を行う。各作業を自分で実行するとは限らず、監督が成功したことまで保証しない。",
+      "patterns": [
+        "oversee 〈業務・事業・人員〉＝監督する",
+        "oversee the implementation of something＝実施を監督する",
+        "be overseen by someone＝その人に監督される",
+        "oversee someone doing something＝人が作業するのを監督する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "oversee day-to-day operations",
+          "use": "日常業務の管理責任を示す。",
+          "example": "A regional manager oversees day-to-day operations at the warehouse.",
+          "translation": "地域マネージャーが倉庫の日常業務を監督している。"
+        },
+        {
+          "pattern": "oversee the implementation of something",
+          "use": "方針実施の監督を述べる。",
+          "example": "The committee will oversee the implementation of the new policy.",
+          "translation": "委員会が新しい方針の実施を監督する。"
+        },
+        {
+          "pattern": "be overseen by someone",
+          "use": "監督を受ける事業を主語にする。",
+          "example": "The restoration is being overseen by an experienced architect.",
+          "translation": "その修復工事は経験豊富な建築家の監督下で進められている。"
+        },
+        {
+          "pattern": "oversee a team",
+          "use": "人員を直接目的語にする。",
+          "example": "She oversees a team of twelve engineers.",
+          "translation": "彼女は12人の技師から成るチームを監督している。"
+        },
+        {
+          "pattern": "oversee someone doing something",
+          "use": "作業者とその行動を示す。",
+          "example": "The supervisor oversaw the technicians installing the sensors.",
+          "translation": "監督者は技術者たちがセンサーを設置する作業を監督した。"
+        },
+        {
+          "pattern": "oversee the transfer of something",
+          "use": "移行・引渡しの責任を示す。",
+          "example": "An independent trustee oversaw the transfer of the assets.",
+          "translation": "独立した受託者が資産の移転を監督した。"
+        }
+      ],
+      "notes": [
+        "oversee は他動詞なので oversee the project。oversee on the project は不可。「人に～するよう命じる」は instruct someone to do で、oversee someone to do をその意味で使わない。overlook は「見落とす」または「見渡す」であり、通常の監督の意味を代用しない。overseas「海外の・海外で」とも別語。責任者の在任中に悪化したことを oversaw a decline と表す場合もあり、成功・承認の含意は必須ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "supervise",
+          "definition": "作業・人を監督する。",
+          "frequency": 7,
+          "difference": "実際の作業現場への近さや直接の指導を示しやすい。oversee は全体責任にもよく使う。",
+          "example": "A nurse supervised the trainees during the exercise.",
+          "translation": "看護師が訓練中の研修生たちを監督した。"
+        },
+        {
+          "word": "manage",
+          "definition": "資源・人・業務を運営する。",
+          "frequency": 9,
+          "difference": "日々の実務や意思決定も広く含み、監視に限らない。",
+          "example": "He manages the department’s annual budget.",
+          "translation": "彼は部署の年間予算を管理している。"
+        },
+        {
+          "word": "monitor",
+          "definition": "状況を継続的に観察・確認する。",
+          "frequency": 8,
+          "difference": "観察に重点があり、指揮権や管理責任は必須でない。",
+          "example": "Researchers monitored the system throughout the trial.",
+          "translation": "研究者たちは試験の間ずっとシステムを監視した。"
+        },
+        {
+          "word": "superintend",
+          "definition": "全体を監督・管理する。",
+          "frequency": 3,
+          "difference": "硬い職務上の語で、通常の oversee より低頻度。",
+          "example": "The engineer superintended the repairs.",
+          "translation": "技師が修理全体を監督した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【動詞：他動詞】見渡す・見守る",
+      "frequency": 2,
+      "register": [
+        "文学的・古めの用法。一般会話では look over、survey、watch などが普通。"
+      ],
+      "definition": "ある場所を視野に収めて見渡す、またはその様子を見守る。管理責任ではなく、視覚的な観察が中心の用法。",
+      "patterns": [
+        "oversee 〈場所〉 from 〈見晴らしの位置〉＝そこから場所を見渡す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "oversee the valley from 〈場所〉",
+          "use": "視点を示して視覚義を明確にする。",
+          "example": "From the watchtower, the guard could oversee the valley below.",
+          "translation": "見張り塔から、衛兵は眼下の谷を見渡すことができた。"
+        },
+        {
+          "pattern": "oversee the surrounding country",
+          "use": "文学的な眺望描写に使う。",
+          "example": "From the ridge, we oversaw the surrounding country.",
+          "translation": "尾根から、私たちは周囲の土地を見渡した。"
+        }
+      ],
+      "notes": [
+        "現代の建物紹介で「海を見渡す部屋」は a room overlooking the sea が普通。oversee the sea を一般的な不動産表現として勧めない。語義1との区別には観察位置などの文脈が必要。"
+      ],
+      "synonyms": [
+        {
+          "word": "survey",
+          "definition": "広い範囲を見渡す。",
+          "frequency": 4,
+          "difference": "視覚的な見渡しを明示しやすく、管理を含まない。",
+          "example": "She surveyed the valley from the summit.",
+          "translation": "彼女は山頂から谷を見渡した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞：他動詞】偶然・ひそかに目撃する",
+      "frequency": 1,
+      "register": [
+        "古め・文学的。現代の普通の言い方は see、catch sight of、observe。"
+      ],
+      "definition": "人が何かをしているところを、偶然に、または相手に気づかれずに見る。意図的に仕事を監督する主要義とは区別する。",
+      "patterns": [
+        "oversee someone doing something＝人が何かをしているところを目撃する",
+        "be overseen doing something＝その行為を目撃される。"
+      ],
+      "collocations": [
+        {
+          "pattern": "be overseen doing something",
+          "use": "見られた人物を主語にする古い用法。",
+          "example": "The messenger was overseen hiding a letter behind the chest.",
+          "translation": "使者が長箱の陰に手紙を隠すところを目撃された。"
+        },
+        {
+          "pattern": "oversee someone doing something",
+          "use": "監督ではない偶然の目撃を示す。",
+          "example": "By chance, she oversaw the stranger slipping through the side gate.",
+          "translation": "偶然、彼女は見知らぬ人が脇の門をすり抜けるところを目撃した。"
+        }
+      ],
+      "notes": [
+        "oversee someone doing は語義1では監督、ここでは目撃。現代の読者が監督と誤読しやすいため、日常的な作文では saw someone doing を優先する。見出しの「ひそかに」は可能な状況であり、必ず盗み見という意味ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "observe",
+          "definition": "行為を見て認識する。",
+          "frequency": 6,
+          "difference": "秘密・偶然という条件を付け加えない中立的な語。",
+          "example": "A witness observed the man entering the courtyard.",
+          "translation": "目撃者はその男性が中庭に入るのを見た。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞：他動詞】点検する・調べる",
+      "frequency": 1,
+      "register": [
+        "古風。辞書間で古風ラベルの有無は異なるが、現代の検査には inspect、examine を使うのが明確。"
+      ],
+      "definition": "物や書類などを見て調べる古い用法。人や工程を管理する意味ではなく、対象そのものの検査。",
+      "patterns": [
+        "oversee 〈物・書類〉＝点検・検査する",
+        "be overseen by 〈点検者〉＝点検される。"
+      ],
+      "collocations": [
+        {
+          "pattern": "oversee the accounts",
+          "use": "古い文章で会計記録の検査を表す。",
+          "example": "The steward oversaw the accounts line by line, checking every sum, and found several errors.",
+          "translation": "管理人は会計記録を一行ずつ調べ、すべての金額を確認して、いくつかの誤りを見つけた。"
+        }
+      ],
+      "notes": [
+        "現代では oversee the accounts は会計業務の監督と解釈されやすい。細かく調べたことを明示するには examine the accounts とする。古い辞書にあることを理由に、日常の中心表現として使わない。"
+      ],
+      "synonyms": [
+        {
+          "word": "inspect",
+          "definition": "欠陥や状態を確かめるために詳しく調べる。",
+          "frequency": 6,
+          "difference": "現代の具体的な検査を明確に表す。",
+          "example": "The mechanic inspected the brakes.",
+          "translation": "整備士はブレーキを点検した。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

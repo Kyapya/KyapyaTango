@@ -1,0 +1,499 @@
+{
+  "word": "underwrite",
+  "slug": "underwrite",
+  "ipa": "米: /ˌʌndərˈraɪt/｜英: /ˌʌndəˈraɪt/",
+  "lead": "事業・催し・研究などの費用を負担する、または必要な資金や損失補填を引き受けて実施を支える。寄付・協賛などの形もあり、必ず保険契約や証券取引を意味するわけではない。",
+  "updated": "2026-10-19",
+  "notion_url": "https://app.notion.com/p/underwrite-3fe4faa9b77d81b4a2dbc3f11d83ea9a",
+  "pronunciation": [
+    "3音節。ここでは第1音節に第二強勢、第3音節に主強勢を置く形を示す。米英差は第2音節の /dər/ と /də/ で、米では r を発音する。米英とも第1音節を主強勢にする /ˈʌndərˌraɪt/（米）、/ˈʌndəˌraɪt/（英）もある。",
+    "underwrote の第3音節は米 /roʊt/、英 /rəʊt/。underwritten の後半は /rɪtən/。write の w は発音せず、underwriting は e を落とす。"
+  ],
+  "etymology": [
+    "under「下に」と write「書く」から成り、元来は書面の下に書く・署名することを表した。署名して責任を引き受ける背景から保険や資金上の引受けに用いられる。write、writer、writing は同じ系列。ラテン語 subscribere「下に書く」に対応する形成とも説明されるが、現代の underwrite を単に「署名する」一般と捉えない。"
+  ],
+  "formation": [
+    {
+      "term": "underwrites／underwrote／underwritten／underwriting",
+      "description": "三人称単数現在／過去形／過去分詞／現在分詞。underwrited は不可。"
+    },
+    {
+      "term": "underwriter",
+      "description": "保険の引受主体・審査担当者、証券の引受会社など。個人の担当者と、責任を負う会社を文脈で区別する。"
+    },
+    {
+      "term": "underwriting",
+      "description": "名詞として引受業務・引受審査。保険・証券・融資で対象が異なる。語義6を参照。"
+    },
+    {
+      "term": "underwritten",
+      "description": "a fully underwritten issue「全額が引受けの対象となる発行」のような限定用法、be underwritten by の受動用法に使う。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "現代の中心は、計画やリスクに対して支える立場に立ち、責任・判断を引き受けること。金融の分野ごとに引き受ける対象は異なる。語義7は歴史的残存義で、文字を下に書くという語彙的意味はこの現代の核から導けないため、個別に参照する。"
+    },
+    {
+      "type": "item",
+      "text": "支える立場での、費用・損失の負担 → 「資金面で支える・費用や損失を引き受ける」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "支える立場での、保険リスクの引受け → 「保険のリスクを審査して引き受ける」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "支える立場での、証券発行の引受け → 「証券の発行を引き受ける」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "支える立場での、融資可否の審査 → 「融資の信用リスクを審査する」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "支える立場での、引受業務の遂行 → 「引受業務を行う」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "支える立場での、業務・審査の名称 → 「引受業務・引受審査」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "支える立場での、声明への同意 → 「支持・同意を表明する」（語義8）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞：他動詞】資金面で支える・費用や損失を引き受ける",
+      "frequency": 5,
+      "register": [
+        "事業・文化活動・研究・寄付・公共放送。やや硬い。"
+      ],
+      "definition": "事業・催し・研究などの費用を負担する、または必要な資金や損失補填を引き受けて実施を支える。寄付・協賛などの形もあり、必ず保険契約や証券取引を意味するわけではない。",
+      "patterns": [
+        "underwrite a project/an event＝事業・催しを資金面で支える",
+        "underwrite the cost of something＝その費用を負担する",
+        "be underwritten by someone＝その支援を受ける。"
+      ],
+      "collocations": [
+        {
+          "pattern": "underwrite the cost of something",
+          "use": "費用負担を明示する。",
+          "example": "A foundation underwrote the cost of restoring the paintings.",
+          "translation": "ある財団が絵画の修復費用を負担した。"
+        },
+        {
+          "pattern": "underwrite a project",
+          "use": "事業の財政的な後ろ盾を示す。",
+          "example": "The university agreed to underwrite the research project for two years.",
+          "translation": "大学はその研究事業を2年間、資金面で支えることに同意した。"
+        },
+        {
+          "pattern": "be underwritten by 〈支援者〉（underwrite の過去分詞）",
+          "use": "資金提供を受ける側を主語にする。",
+          "example": "The exhibition was underwritten by three local businesses.",
+          "translation": "その展覧会は地元の3社から資金援助を受けた。"
+        },
+        {
+          "pattern": "underwrite any losses",
+          "use": "赤字の負担を引き受ける。",
+          "example": "The sponsor agreed to underwrite any losses from the festival.",
+          "translation": "協賛者は祭りで生じる損失を負担することに同意した。"
+        },
+        {
+          "pattern": "underwrite a public-radio programme",
+          "use": "公共放送での資金援助を示す。",
+          "example": "Listener donations help underwrite the public-radio programme.",
+          "translation": "聴取者からの寄付が、その公共ラジオ番組の資金を支えている。"
+        }
+      ],
+      "notes": [
+        "underwrite は「書き損じる」ではない。支払済みか、将来の負担を約束したかは時制・契約・文脈で決まる。underpin は基盤を支える広い語で、資金上の責任の引受けを必須にしない。公共放送の支援であっても、広告の扱いや表示規則をこの動詞だけから判断しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "fund",
+          "definition": "必要な資金を提供する。",
+          "frequency": 7,
+          "difference": "実際の資金供給が中心で、損失保証は必須でない。",
+          "example": "The council funded the pilot project.",
+          "translation": "市議会は試行事業に資金を提供した。"
+        },
+        {
+          "word": "finance",
+          "definition": "費用を賄う・資金調達を支える。",
+          "frequency": 7,
+          "difference": "借入れや投資も含む広い財務的表現。",
+          "example": "A bank financed the expansion.",
+          "translation": "銀行が事業拡張の資金を提供した。"
+        },
+        {
+          "word": "sponsor",
+          "definition": "資金・物資などを提供して支援する。",
+          "frequency": 7,
+          "difference": "名称の掲示や広報上の関係を伴いやすいが必須ではない。",
+          "example": "Several shops sponsored the school concert.",
+          "translation": "いくつかの店が学校の演奏会に協賛した。"
+        },
+        {
+          "word": "guarantee",
+          "definition": "義務の履行や費用負担を保証する。",
+          "frequency": 6,
+          "difference": "支出よりも、履行を確実にする約束に重点がある。",
+          "example": "The parent company guaranteed the subsidiary’s debt.",
+          "translation": "親会社は子会社の債務を保証した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【動詞：他動詞】保険のリスクを審査して引き受ける",
+      "frequency": 5,
+      "register": [
+        "保険。"
+      ],
+      "definition": "保険会社などがリスクを評価して条件・保険料を定め、契約上の範囲で損失に対する責任を引き受ける。また、担当者が申込みの引受可否や条件を審査する工程にも使う。審査の実施と、成立した契約による責任負担は区別する。",
+      "patterns": [
+        "underwrite 〈保険契約・リスク・保険種目〉＝その保険を引き受ける",
+        "underwrite an application＝申込みを引受審査する",
+        "be underwritten by 〈保険会社〉＝その会社が引き受けている。"
+      ],
+      "collocations": [
+        {
+          "pattern": "underwrite a policy",
+          "use": "保険契約の引受主体を示す。",
+          "example": "The insurer underwrites the policy and is responsible for covered claims.",
+          "translation": "その保険会社が契約を引き受け、補償対象の保険金請求に責任を負う。"
+        },
+        {
+          "pattern": "underwrite marine risks",
+          "use": "対象分野を示す。",
+          "example": "The company underwrites marine risks for commercial vessels.",
+          "translation": "その会社は商船の海上リスクを保険で引き受けている。"
+        },
+        {
+          "pattern": "be underwritten by 〈保険会社〉（underwrite の過去分詞）",
+          "use": "販売者と引受主体を区別する。",
+          "example": "The travel policy is sold by the agency but underwritten by a separate insurer.",
+          "translation": "その旅行保険は代理店が販売するが、引き受けるのは別の保険会社だ。"
+        },
+        {
+          "pattern": "underwrite an application",
+          "use": "審査段階であることを明確にする。",
+          "example": "The specialist underwrote the application and recommended a higher premium.",
+          "translation": "専門担当者は申込みを引受審査し、より高い保険料を提案した。"
+        },
+        {
+          "pattern": "underwrite a share of the risk",
+          "use": "共同引受けでの負担範囲を示す。",
+          "example": "Each insurer underwrote a specified share of the risk.",
+          "translation": "各保険会社はリスクの定められた割合を引き受けた。"
+        }
+      ],
+      "notes": [
+        "underwriter が個人なら審査担当者、会社なら保険責任を負う主体という場合がある。保険金支払いの保証範囲は契約によるため「どんな損害でも全額払う」と定義しない。insure は補償する関係、underwrite はリスク評価・条件設定・引受けという供給側の働きを強調する。申込者が審査を受けただけで契約成立としない。"
+      ],
+      "synonyms": [
+        {
+          "word": "insure",
+          "definition": "保険で損失に備える・補償する。",
+          "frequency": 7,
+          "difference": "保険会社と契約者双方の視点で使う。underwrite は引受側の行為。",
+          "example": "The firm insures commercial buildings against fire.",
+          "translation": "その会社は商業用建物に火災保険を提供している。"
+        },
+        {
+          "word": "cover",
+          "definition": "保険の補償対象に含める。",
+          "frequency": 7,
+          "difference": "補償の範囲に焦点があり、審査工程そのものは表さない。",
+          "example": "This policy covers accidental damage.",
+          "translation": "この保険は偶発的な損害を補償する。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞：他動詞】証券の発行を引き受ける",
+      "frequency": 5,
+      "register": [
+        "金融・証券発行。"
+      ],
+      "definition": "銀行・証券会社などが株式や債券の発行・販売に関わり、契約に応じて購入や売れ残りの引受けなどを約束する。買取引受けでは発行体から買い取って投資家に販売し、募集・売出しの資金調達を支える。",
+      "patterns": [
+        "underwrite a share issue/a bond issue＝株式・債券発行を引き受ける",
+        "underwrite an offering＝募集・売出しを引き受ける",
+        "be fully underwritten＝全額が引受けの対象となる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "underwrite a bond issue",
+          "use": "債券発行の引受けを示す。",
+          "example": "A syndicate of banks agreed to underwrite the bond issue.",
+          "translation": "銀行団がその債券発行を引き受けることに同意した。"
+        },
+        {
+          "pattern": "underwrite an offering on a firm-commitment basis",
+          "use": "買取義務を伴う形を明示する。",
+          "example": "The banks underwrote the offering on a firm-commitment basis and bought the securities from the issuer.",
+          "translation": "銀行団は買取引受け方式で募集を引き受け、発行体から証券を購入した。"
+        },
+        {
+          "pattern": "underwrite a rights issue",
+          "use": "未引受分への責任を契約で示す。",
+          "example": "The bank agreed to underwrite the rights issue by purchasing any unsubscribed shares.",
+          "translation": "銀行は未申込株式を購入することで、株主割当増資を引き受けることに同意した。"
+        },
+        {
+          "pattern": "be fully underwritten（underwrite の過去分詞）",
+          "use": "引受範囲を受動で述べる。",
+          "example": "The share issue was fully underwritten before it opened.",
+          "translation": "その株式発行は開始前に全額の引受けが確保されていた。"
+        }
+      ],
+      "notes": [
+        "underwrite を常に「全証券を必ず買い取る」と限定しない。firm commitment、売れ残り引受け、best efforts では義務が異なり、best-efforts underwriting という用語の下でも買い取り義務がない契約がある。米国証券法上の underwriter の範囲は日常の「引受会社」より広いので、語義だけで法的地位を判定しない。証券購入者の損失を補償するという意味でもない。"
+      ],
+      "synonyms": [
+        {
+          "word": "guarantee",
+          "definition": "資金調達などの履行を保証する。",
+          "frequency": 5,
+          "difference": "結果の保証という点だけが重なる。証券の配分・販売業務全体は表さない。",
+          "example": "The bank guaranteed the purchase of the remaining shares.",
+          "translation": "銀行は残った株式の購入を保証した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞：他動詞】融資の信用リスクを審査する",
+      "frequency": 4,
+      "register": [
+        "融資・住宅ローン。特に米の金融実務。"
+      ],
+      "definition": "金融機関・審査担当者が、借り手の返済能力、信用履歴、担保などを評価して融資可否や条件を判断する。融資案件を引き受ける過程全体を指すこともあるが、審査したというだけでは承認・実行を意味しない。",
+      "patterns": [
+        "underwrite a loan/a mortgage＝融資・住宅ローンを審査する",
+        "underwrite a loan manually＝人手で審査する",
+        "be underwritten to 〈審査基準〉＝その基準に従って審査される。"
+      ],
+      "collocations": [
+        {
+          "pattern": "underwrite a mortgage",
+          "use": "住宅ローン審査の対象を示す。",
+          "example": "The lender is underwriting the mortgage and has requested proof of income.",
+          "translation": "貸し手は住宅ローンを審査中で、収入を証明する書類を求めている。"
+        },
+        {
+          "pattern": "underwrite a loan manually",
+          "use": "自動審査と区別する。",
+          "example": "An experienced specialist underwrote the loan manually.",
+          "translation": "経験豊富な専門担当者が、その融資を手作業で審査した。"
+        },
+        {
+          "pattern": "underwrite commercial loans",
+          "use": "事業向け融資の審査を示す。",
+          "example": "The team underwrites commercial loans for small businesses.",
+          "translation": "そのチームは小企業向けの事業融資を審査している。"
+        },
+        {
+          "pattern": "be underwritten to 〈基準〉（underwrite の過去分詞）",
+          "use": "適用する審査基準を示す。",
+          "example": "All loans in the pool were underwritten to the lender’s published criteria.",
+          "translation": "その融資プールの全案件は、貸し手が公表した基準に従って審査された。"
+        }
+      ],
+      "notes": [
+        "融資審査の文脈では underwrite a loan は信用リスクを審査・判断することをいい、返済を保証する guarantee a loan とは区別する。ただし、別の文脈では underwrite が金融上の保証・損失負担を意味することもある（語義1）。approve は審査結果として承認する行為、fund/disburse は資金を出す行為であり、各段階を区別する。審査基準は機関・商品・法域による。"
+      ],
+      "synonyms": [
+        {
+          "word": "assess",
+          "definition": "リスク・適格性を評価する。",
+          "frequency": 7,
+          "difference": "評価全般に使い、正式な融資判断に限らない。",
+          "example": "The lender assessed the borrower’s ability to repay.",
+          "translation": "貸し手は借り手の返済能力を評価した。"
+        },
+        {
+          "word": "evaluate",
+          "definition": "情報を検討して価値・状態を判断する。",
+          "frequency": 7,
+          "difference": "審査の検討面に重なり、契約上の責任負担は含まない。",
+          "example": "The committee evaluated the loan application.",
+          "translation": "委員会は融資申請を評価した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【動詞：自動詞】引受業務を行う",
+      "frequency": 2,
+      "register": [
+        "保険・金融の業務説明。"
+      ],
+      "definition": "保険や証券などの引受けを職業・業務として行う。対象を目的語に出さず、どこで・どの分野で業務をするかを述べる。",
+      "patterns": [
+        "underwrite for 〈組織〉＝その組織のために引受業務をする",
+        "underwrite in 〈市場〉＝その市場で引受業務を行う。"
+      ],
+      "collocations": [
+        {
+          "pattern": "underwrite for an insurer",
+          "use": "勤務先・依頼元を示す。",
+          "example": "She underwrites for a specialist marine insurer.",
+          "translation": "彼女は海上保険専門会社で引受業務を行っている。"
+        },
+        {
+          "pattern": "underwrite in 〈市場〉",
+          "use": "活動市場を示す。",
+          "example": "The firm no longer underwrites in that market.",
+          "translation": "その会社はもはやその市場で引受業務を行っていない。"
+        }
+      ],
+      "notes": [
+        "for は働く相手で、融資の返済を保証される借り手とは限らない。専門文脈で対象が分かるため省略される用法であり、「署名する」一般の自動詞として無制限に使わない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【名詞：underwriting；不可算】引受業務・引受審査",
+      "frequency": 5,
+      "register": [
+        "保険・証券・融資。"
+      ],
+      "definition": "保険リスクの審査・引受け、証券発行の引受業務、融資の信用審査など。-ing 形が活動名として定着したもの。各分野の責任・判断内容は語義2〜4の違いを引き継ぐ。",
+      "patterns": [
+        "insurance underwriting＝保険引受け",
+        "securities underwriting＝証券引受け",
+        "mortgage underwriting＝住宅ローン審査",
+        "underwriting standards＝引受審査基準。"
+      ],
+      "collocations": [
+        {
+          "pattern": "mortgage underwriting（underwrite の名詞形 underwriting）",
+          "use": "融資審査の過程を名詞で示す。",
+          "example": "The application is still in mortgage underwriting.",
+          "translation": "その申請はまだ住宅ローンの審査段階にある。"
+        },
+        {
+          "pattern": "insurance underwriting（underwrite の名詞形 underwriting）",
+          "use": "保険業務の分野を示す。",
+          "example": "She has ten years of experience in insurance underwriting.",
+          "translation": "彼女は保険引受業務で10年の経験がある。"
+        },
+        {
+          "pattern": "underwriting standards（underwrite の名詞形 underwriting）",
+          "use": "審査の基準を示す。",
+          "example": "The lender tightened its underwriting standards.",
+          "translation": "貸し手は与信審査基準を厳しくした。"
+        },
+        {
+          "pattern": "underwriting fees（underwrite の名詞形 underwriting）",
+          "use": "証券発行の引受手数料を示す。",
+          "example": "The prospectus lists the underwriting fees for the share offering.",
+          "translation": "目論見書には株式募集の引受手数料が記載されている。"
+        }
+      ],
+      "notes": [
+        "活動全般は不可算。a piece of underwriting advice のように別名詞で数える。an underwriting agreement は agreement が可算。underwriting profit は保険の引受収支に関する用語で、通常は投資収益とは区別するが、具体的な計算項目は会計の定義を確認する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【動詞：他動詞】下に書く・末尾に署名する",
+      "frequency": 1,
+      "register": [
+        "古風・歴史的文書の説明。"
+      ],
+      "definition": "既に書かれた文章などの下に文字を書き加える、または書面の末尾に名前を記す。現代の金融義の背景となる古い字義。",
+      "patterns": [
+        "underwrite one’s name＝下に署名する",
+        "underwrite 〈文字〉 beneath 〈本文〉＝本文の下に書く。"
+      ],
+      "collocations": [
+        {
+          "pattern": "underwrite one’s name",
+          "use": "古い署名の用法を示す。",
+          "example": "Each witness underwrote his name at the foot of the declaration.",
+          "translation": "各証人は宣言書の末尾に自分の名前を書き添えた。"
+        },
+        {
+          "pattern": "underwrite 〈文字〉 beneath 〈本文〉",
+          "use": "書く位置を明示する。",
+          "example": "The clerk underwrote the date beneath the final paragraph.",
+          "translation": "書記は最終段落の下に日付を書き添えた。"
+        }
+      ],
+      "notes": [
+        "現代の通常の署名依頼なら sign the document。underwrite your name と日常的に求めると金融の引受けと混同される。ここで下に書くこと自体から保険責任などの法的効果を導かない。"
+      ],
+      "synonyms": [
+        {
+          "word": "subscribe",
+          "definition": "書面の下に名前を記す。",
+          "frequency": 1,
+          "difference": "この署名義では古風。定期購読の一般義とは別。",
+          "example": "The witnesses subscribed their names to the statement.",
+          "translation": "証人たちは声明に署名した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【動詞：他動詞】支持・同意を表明する",
+      "frequency": 2,
+      "register": [
+        "文語・古めの論説。"
+      ],
+      "definition": "声明・判断などを、署名するかそれに相当する形で支持する。資金の負担を必ず伴うわけではない古めの用法。",
+      "patterns": [
+        "underwrite a statement/a decision＝声明・決定を支持する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "underwrite a statement",
+          "use": "金銭ではなく賛同を表す。",
+          "example": "The delegates underwrote the statement as an expression of their agreement.",
+          "translation": "代表者たちは賛同の意思表示として、その声明を支持した。"
+        }
+      ],
+      "notes": [
+        "現代の明確な表現は endorse a statement、support a decision。財政的に支える語義1と紛らわしいため、金銭の話ではないことを文脈で明らかにする。"
+      ],
+      "synonyms": [
+        {
+          "word": "endorse",
+          "definition": "意見・決定に支持を表明する。",
+          "frequency": 6,
+          "difference": "現代の公的な支持表明に普通に使い、資金負担を含意しない。",
+          "example": "The board endorsed the proposal.",
+          "translation": "取締役会は提案を支持した。"
+        },
+        {
+          "word": "subscribe to",
+          "definition": "考え・立場に同意する。",
+          "frequency": 4,
+          "difference": "同意の用法では to を伴う。",
+          "example": "I subscribe to that interpretation.",
+          "translation": "私はその解釈に賛成する。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
