@@ -15,7 +15,7 @@
   "formation": [
     {
       "term": "lapsed",
-      "description": "過去形・過去分詞に加え、「活動をやめた」「継続されず失効した」という限定用法の形容詞。人を修飾する用法と契約などを修飾する用法を語義7・8で分ける。"
+      "description": "過去形・過去分詞に加え、「活動をやめた」「継続されず失効した」という限定用法の形容詞。人を修飾する用法と契約などを修飾する用法を語義8・9で分ける。"
     },
     {
       "term": "lapsing",
@@ -33,7 +33,7 @@
   "core": [
     {
       "type": "paragraph",
-      "text": "多くの用法に共通するのは、保たれていた、または保たれるはずの状態・活動・効力のつながりが途切れること。語義4・10は、歴史的な「時が過ぎる」という系統の、時間の経過・間隔を表す用法として個別に参照する。語義4には活動の中断期間を表す例も含まれるが、時間の経過や間隔そのものに途絶・不調が必ず含まれるわけではなく、この核だけでは語義全体を説明できない。ここで「歴史的残存義」は、語義4が現代では使われないという意味ではない。"
+      "text": "多くの用法に共通するのは、保たれていた、または保たれるはずの状態・活動・効力のつながりが途切れること。活動の中断期間を表す語義5もこの核につながる。一方、語義4・11は歴史的残存義として個別に参照する。「時が過ぎる」という意味の系統に属し、時間が経過すること自体には状態や活動の途絶が含まれないため、この核からは自然に導けない。「歴史的残存義」は、名詞の時間経過義が現代では使われないという意味ではない。"
     },
     {
       "type": "item",
@@ -49,27 +49,31 @@
     },
     {
       "type": "item",
-      "text": "続いていた活動・機能の途絶 → 「途切れる・衰える・行われなくなる」（語義5）"
+      "text": "続いていた活動が途絶えていた期間 → 「中断期間・活動の空白」（語義5）"
     },
     {
       "type": "item",
-      "text": "続いていた効力が切れる出来事 → 「失効・効力の消滅」（語義6）"
+      "text": "続いていた活動・機能の途絶 → 「途切れる・衰える・行われなくなる」（語義6）"
     },
     {
       "type": "item",
-      "text": "続いていた参加・実践が途絶えた人の状態 → 「活動・信仰の実践をやめた」（語義7）"
+      "text": "続いていた効力が切れる出来事 → 「失効・効力の消滅」（語義7）"
     },
     {
       "type": "item",
-      "text": "続いていた契約の効力が途絶えた状態 → 「継続されず失効した」（語義8）"
+      "text": "続いていた参加・実践が途絶えた人の状態 → 「活動・信仰の実践をやめた」（語義8）"
     },
     {
       "type": "item",
-      "text": "続いていた信仰実践からの離脱 → 「信仰・宗教の実践から離れる」（語義9）"
+      "text": "続いていた契約の効力が途絶えた状態 → 「継続されず失効した」（語義9）"
     },
     {
       "type": "item",
-      "text": "続いていた契約の効力を失わせる行為 → 「契約を継続せず失効させる」（語義11）"
+      "text": "続いていた信仰実践からの離脱 → 「信仰・宗教の実践から離れる」（語義10）"
+    },
+    {
+      "type": "item",
+      "text": "続いていた契約の効力を失わせる行為 → 「契約を継続せず失効させる」（語義12）"
     }
   ],
   "sources": [],
@@ -225,7 +229,7 @@
         }
       ],
       "notes": [
-        "基本は The policy lapsed. という自動詞の形。一般向けには「契約を失効させた」を I let the policy lapse. または I allowed the policy to lapse. とする。let the policy to lapse は不可。他動詞 lapse the policy も専門的な用法として存在するが、語義11の限定された使い方と区別する。一般的な自動詞の lapse をそのまま受動態にして The policy was lapsed. としない。 expire は定められた期間の終了、lapse は継続・更新されないことによる効力喪失に焦点を置くため、同じ契約に両方が使えることはある。revoke は権限のある主体などが正式に取り消す他動詞で、The authority revoked the permit. と The permit lapsed. では主体の役割が異なる。lapse は意図的に放置する場合もあり、「必ず払い忘れた」を意味しない。 保険の失効時期や猶予期間は契約・制度によって異なり、「支払期日を1日過ぎれば必ず失効する」という意味ではない。a bequest lapses の bequest は遺言による贈与で、遺言書全体や遺産そのものと同一ではない。受遺者の先死亡による失効には法域や遺言内容による例外がある。例えば英国の Wills Act 1837 第33条には、一定の子孫への遺贈を失効させない規定があるため、先死亡から一律に失効を推論しない。"
+        "基本は The policy lapsed. という自動詞の形。一般向けには「契約を失効させた」を I let the policy lapse. または I allowed the policy to lapse. とする。let the policy to lapse は不可。他動詞 lapse the policy も専門的な用法として存在するが、語義12の限定された使い方と区別する。一般的な自動詞の lapse をそのまま受動態にして The policy was lapsed. としない。 expire は定められた期間の終了、lapse は継続・更新されないことによる効力喪失に焦点を置くため、同じ契約に両方が使えることはある。revoke は権限のある主体などが正式に取り消す他動詞で、The authority revoked the permit. と The permit lapsed. では主体の役割が異なる。lapse は意図的に放置する場合もあり、「必ず払い忘れた」を意味しない。 保険の失効時期や猶予期間は契約・制度によって異なり、「支払期日を1日過ぎれば必ず失効する」という意味ではない。a bequest lapses の bequest は遺言による贈与で、遺言書全体や遺産そのものと同一ではない。受遺者の先死亡による失効には法域や遺言内容による例外がある。例えば英国の Wills Act 1837 第33条には、一定の子孫への遺贈を失効させない規定があるため、先死亡から一律に失効を推論しない。"
       ],
       "synonyms": [
         {
@@ -314,7 +318,7 @@
         }
       ],
       "notes": [
-        "移る先を明示する場合は into が重要で、lapse to sleep ではなく lapse into sleep、lapse into to speak ではなく lapse into speaking とする。代名詞でも lapse into it の順。lapse into silence は「沈黙という状態に移る」、語義5の The conversation lapsed. は「会話そのものが途切れる」で、主語と焦点が違う。 悪い状態への移行が多いが、lapse into French や lapse into sleep の対象を一律に「悪化」と訳さない。back や old habits があれば「以前へ戻る」が明確になるが、初めての昏睡にも lapse into a coma と言えるため、「再び」は lapse into 自体の必須の意味ではない。語義9の lapse from a religion は離れる元を from で示す別の構文。"
+        "移る先を明示する場合は into が重要で、lapse to sleep ではなく lapse into sleep、lapse into to speak ではなく lapse into speaking とする。代名詞でも lapse into it の順。lapse into silence は「沈黙という状態に移る」、語義6の The conversation lapsed. は「会話そのものが途切れる」で、主語と焦点が違う。 悪い状態への移行が多いが、lapse into French や lapse into sleep の対象を一律に「悪化」と訳さない。back や old habits があれば「以前へ戻る」が明確になるが、初めての昏睡にも lapse into a coma と言えるため、「再び」は lapse into 自体の必須の意味ではない。語義10の lapse from a religion は離れる元を from で示す別の構文。"
       ],
       "synonyms": [
         {
@@ -354,32 +358,19 @@
     },
     {
       "number": 4,
-      "title": "【名詞・可算／不可算】時間の経過・間隔・中断期間",
+      "title": "【名詞・可算／不可算】時間の経過・間隔",
       "frequency": 5,
       "register": [
-        "やや書き言葉的。時間的な隔たりや、長く中断していた活動の再開を述べるときに使う。"
+        "やや書き言葉的。時間的な隔たりや経過を述べる。活動が途絶えていた期間に焦点を当てる用法は語義5を参照。"
       ],
-      "definition": "二つの出来事の間に過ぎた時間、または活動などが再開されるまでの空白期間。a lapse of two years のように区切られた期間を可算名詞で示す用法が中心で、the lapse of time のように時間の経過そのものを抽象的に述べる用法もある。長い期間に限らず、数秒の間隔にも使える。",
+      "definition": "二つの出来事の間に過ぎた時間、または時間が経つことそのもの。a lapse of two years のように区切られた期間を可算名詞で示す用法が中心で、the lapse of time のように時間の経過そのものを抽象的に述べる用法もある。長い期間に限らず、数秒の間隔にも使える。",
       "patterns": [
         "a lapse of 〈期間〉＝ある長さの時間的隔たり",
         "after a lapse of 〈期間〉＝その期間を経て",
-        "a 〈期間〉 lapse＝その長さの中断",
         "a time lapse between A and B＝二つの出来事の間隔",
         "the lapse of time＝時間の経過。期間名詞を前置修飾にすると a two-year lapse のように単数形とハイフンを使う。"
       ],
       "collocations": [
-        {
-          "pattern": "after a lapse of 〈期間〉",
-          "use": "ある期間を経て再び起きたことを述べる。",
-          "example": "They resumed their correspondence after a lapse of five years.",
-          "translation": "5年の空白を経て、二人は文通を再開した。"
-        },
-        {
-          "pattern": "a two-year lapse",
-          "use": "中断期間の長さを名詞の前で示す。",
-          "example": "The festival returned after a two-year lapse.",
-          "translation": "その祭りは2年の中断を経て復活した。"
-        },
         {
           "pattern": "a time lapse between A and B",
           "use": "二つの出来事の間の時間差を表す。",
@@ -394,7 +385,7 @@
         }
       ],
       "notes": [
-        "a lapse of five years は「5年という間隔」で、five lapses なら普通は5回の失策・中断などを数える。時間の「遅延」を常に意味するわけではなく、予定より遅れたなら delay が明確。a time lapse は時間的間隔、time-lapse photography は時間の変化を縮めて見せる撮影法であり、ハイフンの有無と文中での働きを区別する。動詞で「時間が経った」と言うなら elapse または pass が一般的で、lapse の動詞用法は語義10を参照する。"
+        "a lapse of five years は「5年という間隔」で、five lapses なら普通は5回の失策・中断などを数える。時間の「遅延」を常に意味するわけではなく、予定より遅れたなら delay が明確。a time lapse は時間的間隔、time-lapse photography は時間の変化を縮めて見せる撮影法であり、ハイフンの有無と文中での働きを区別する。動詞で「時間が経った」と言うなら elapse または pass が一般的で、lapse の動詞用法は語義11を参照する。"
       ],
       "synonyms": [
         {
@@ -404,7 +395,40 @@
           "difference": "規則的な間隔も含む中立的な語。lapse は経過した時間や活動の空白を振り返って述べやすい。",
           "example": "There was a ten-minute interval between the two tests.",
           "translation": "二つの検査の間には10分の間隔があった。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞・可算】中断期間・活動の空白",
+      "frequency": 5,
+      "register": [
+        "やや書き言葉的。活動・連絡・行事などの中断や再開を述べる。"
+      ],
+      "definition": "それまで続いていた活動ややり取りなどが途絶え、行われなかった期間。単なる二つの出来事の時間差ではなく、活動の継続が中断されたことに焦点がある。",
+      "patterns": [
+        "after a lapse of 〈期間〉＝その長さの中断期間を経て",
+        "a 〈期間〉 lapse＝その長さの中断。期間を名詞の前に置くときは a two-year lapse のように単数形とハイフンを用いる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "after a lapse of 〈期間〉",
+          "use": "ある期間を経て再び起きたことを述べる。",
+          "example": "They resumed their correspondence after a lapse of five years.",
+          "translation": "5年の空白を経て、二人は文通を再開した。"
         },
+        {
+          "pattern": "a two-year lapse",
+          "use": "中断期間の長さを名詞の前で示す。",
+          "example": "The festival returned after a two-year lapse.",
+          "translation": "その祭りは2年の中断を経て復活した。"
+        }
+      ],
+      "notes": [
+        "語義4は時間の経過・間隔そのものを表し、この語義は活動が途絶えていたことを表す。after a lapse of five years のような同じ形でも、何について述べているかによってどちらに重点があるかが変わる。中断が意図的だったか、なぜ起きたかまでは lapse だけでは決まらない。"
+      ],
+      "synonyms": [
         {
           "word": "gap",
           "definition": "連続するはずのものの間にある空白期間。",
@@ -425,7 +449,7 @@
       "antonyms": []
     },
     {
-      "number": 5,
+      "number": 6,
       "title": "【動詞・自動詞】途切れる・衰える・行われなくなる",
       "frequency": 5,
       "register": [
@@ -496,7 +520,7 @@
       "antonyms": []
     },
     {
-      "number": 6,
+      "number": 7,
       "title": "【名詞・可算／不可算】失効・効力の消滅",
       "frequency": 4,
       "register": [
@@ -567,7 +591,7 @@
       "antonyms": []
     },
     {
-      "number": 7,
+      "number": 8,
       "title": "【形容詞・主に限定用法】活動・信仰の実践をやめた",
       "frequency": 4,
       "register": [
@@ -599,7 +623,7 @@
         }
       ],
       "notes": [
-        "a lapsed subscriber は人、a lapsed subscription は購読契約で、語義8と修飾対象が異なる。人を述べるなら He is a lapsed Catholic. のように名詞まで示すのが基本で、He is lapsed. を汎用的な「辞めた人」の表現にはしない。become/get/seem lapsed も通常の基本パターンとして覚えず、has stopped practising などで内容を明示する。very lapsed、more lapsed は普通の程度表現ではない。ハイフンは不要。"
+        "a lapsed subscriber は人、a lapsed subscription は購読契約で、語義9と修飾対象が異なる。人を述べるなら He is a lapsed Catholic. のように名詞まで示すのが基本で、He is lapsed. を汎用的な「辞めた人」の表現にはしない。become/get/seem lapsed も通常の基本パターンとして覚えず、has stopped practising などで内容を明示する。very lapsed、more lapsed は普通の程度表現ではない。ハイフンは不要。"
       ],
       "synonyms": [
         {
@@ -630,7 +654,7 @@
       "antonyms": []
     },
     {
-      "number": 8,
+      "number": 9,
       "title": "【形容詞・主に限定用法】継続されず失効した",
       "frequency": 4,
       "register": [
@@ -710,7 +734,7 @@
       ]
     },
     {
-      "number": 9,
+      "number": 10,
       "title": "【動詞・自動詞】信仰・宗教の実践から離れる",
       "frequency": 3,
       "register": [
@@ -759,7 +783,7 @@
       "antonyms": []
     },
     {
-      "number": 10,
+      "number": 11,
       "title": "【動詞・自動詞】時間が経過する",
       "frequency": 2,
       "register": [
@@ -817,7 +841,7 @@
       "antonyms": []
     },
     {
-      "number": 11,
+      "number": 12,
       "title": "【動詞・他動詞】契約を継続せず失効させる",
       "frequency": 2,
       "register": [

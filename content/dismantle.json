@@ -28,7 +28,7 @@
   "core": [
     {
       "type": "paragraph",
-      "text": "部品や仕組みが組み合わさって成り立つまとまりを解くこと。物なら分解、制度なら機能する仕組みの解体、議論なら成り立つ根拠を崩すことにつながる。分解できるという自動詞用法では、その性質を物の側から述べる。"
+      "text": "部品や仕組みが組み合わさって成り立つまとまりを解くこと。物・制度・議論の構造を崩すことや、競技で相手の組織的な働きを崩す比喩につながり、分解できるという自動詞用法ではその性質を物の側から述べる。"
     },
     {
       "type": "item",
@@ -45,6 +45,10 @@
     {
       "type": "item",
       "text": "まとまりを解くことができる物の性質 → 「分解できる、ばらせる」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "まとまりを解く競技での圧倒的な攻勢 → 「圧倒して破る」（語義5）"
     }
   ],
   "sources": [],
@@ -358,6 +362,47 @@
           "difference": "この自動詞用法では部品に分かれる構造を技術的に述べる。dismantle と意味が重なり、どちらも物を主語にできる。",
           "example": "The unit disassembles into two compact pieces.",
           "translation": "その装置は、二つの小さな部品に分解できる。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【動詞・他動詞】圧倒して破る",
+      "frequency": 3,
+      "register": [
+        "スポーツ報道・評論などの比喩的で強調的な表現。勝利の内容を印象的に描写する。"
+      ],
+      "definition": "スポーツなどの競争で相手を圧倒し、明確な優勢を示して打ち負かす。相手の守備や連係を崩す様子を、組み上がったものを解体することにたとえる用法。チームという組織が消滅したり解散したりする意味ではない。",
+      "patterns": [
+        "dismantle 〈相手・チーム〉＝相手を圧倒して破る",
+        "〈チーム〉 + be dismantled by 〈対戦相手〉＝対戦相手に圧倒される。"
+      ],
+      "collocations": [
+        {
+          "pattern": "dismantle the opposition",
+          "use": "試合で相手を圧倒したことを述べる。",
+          "example": "The home side dismantled the opposition in a five-nil victory.",
+          "translation": "ホームチームは相手を圧倒し、5対0で勝利した。"
+        },
+        {
+          "pattern": "〈チーム〉 + be dismantled by 〈対戦相手〉",
+          "use": "圧倒された側から試合を描写する。",
+          "example": "The visitors were dismantled by a much stronger home team.",
+          "translation": "アウェーチームは、はるかに強いホームチームに圧倒されて敗れた。"
+        }
+      ],
+      "notes": [
+        "dismantle a team は文脈によって、戦力・組織を解体する語義2にも、試合で圧倒して破るこの語義にもなり得る。得点・試合・対戦相手などの文脈を確認する。必ず何点差以上という客観的な条件はなく、勝ち方への評価を含む表現。"
+      ],
+      "synonyms": [
+        {
+          "word": "trounce",
+          "definition": "相手を大差で、または圧倒的に打ち負かす。",
+          "frequency": 3,
+          "difference": "大勝することを直接強調する。dismantle は相手のまとまりを崩すという比喩的な描写を伴う。",
+          "example": "They trounced their rivals in the final.",
+          "translation": "彼らは決勝でライバルを圧倒して破った。"
         }
       ],
       "antonyms": []

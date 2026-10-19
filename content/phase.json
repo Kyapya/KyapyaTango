@@ -788,6 +788,114 @@
         }
       ],
       "antonyms": []
+    },
+    {
+      "number": 13,
+      "title": "【句動詞・自動詞】段階的に終了する",
+      "frequency": 3,
+      "register": [
+        "事業、製造、設備運用などの説明。"
+      ],
+      "definition": "生産・操業などが、段階を追って縮小し、終了する方向へ進む。対象を廃止する主体を主語にする他動詞ではなく、生産・操業自体が終わることを述べる。進行形や計画の表現だけで終了済みとは限らない。",
+      "patterns": [
+        "〈生産・操業〉 + phase out＝生産・操業が段階的に終了する。目的語を取らない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "〈生産〉 + phase out",
+          "use": "生産そのものが段階的に終わることを述べる。",
+          "example": "Production at the old plant will phase out over the next two years.",
+          "translation": "旧工場での生産は、今後2年間で段階的に終了する予定だ。"
+        }
+      ],
+      "notes": [
+        "Production phases out. は生産を主語にした自動詞の文。Production is phased out. は他動詞の受動態で、The company phases out production. はその能動態に当たる。語義3の phase it out のような目的語を挟む構文は、この自動詞用法にはない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 14,
+      "title": "【名詞・可算】側面、面、観点",
+      "frequency": 2,
+      "register": [
+        "改まった説明や論述。一般的には aspect で表すことも多く、時間的な段階を意味するかどうかは文脈で判断する。"
+      ],
+      "definition": "問題・活動などを特定の観点から捉えた一面。時間の流れの中での段階とは限らず、同じ対象の複数の面を分けて論じることを表す。",
+      "patterns": [
+        "a phase of 〈問題・活動〉＝問題・活動の一側面",
+        "every phase of 〈問題〉＝問題のあらゆる側面。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a phase of 〈問題〉",
+          "use": "問題を一つの観点から取り上げる。",
+          "example": "The discussion focused on the ethical phase of the problem.",
+          "translation": "議論は、その問題の倫理的な側面に焦点を当てた。"
+        },
+        {
+          "pattern": "every phase of 〈問題〉",
+          "use": "問題のさまざまな側面を全体として指す。",
+          "example": "The committee examined every phase of the question.",
+          "translation": "委員会は、その問題をあらゆる側面から検討した。"
+        }
+      ],
+      "notes": [
+        "語義1の first phase や final phase は通常、時間上の順序を伴う。この語義の phase は、倫理的・経済的などの面を指し、その面が次の段階へ移り変わるとは限らない。a phase of の形だけで両者を判別せず、周辺の説明を読む。"
+      ],
+      "synonyms": [
+        {
+          "word": "aspect",
+          "definition": "物事のある側面、観点。",
+          "frequency": 8,
+          "difference": "時間的段階という読みを避けて、一側面を表しやすい。phase は段階の意味でも頻繁に使われるため文脈の確認が必要。",
+          "example": "We considered the social aspect of the proposal.",
+          "translation": "私たちは、その提案の社会的な側面を検討した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 15,
+      "title": "【名詞・可算】生物の型、相",
+      "frequency": 2,
+      "register": [
+        "生物学、動物学、自然観察。何の特徴に基づく型かを文脈で示す。"
+      ],
+      "definition": "生物に見られる特徴的な外観・色彩・行動などの型。周期的に現れる型や、同じ集団の一部の個体を他と区別する型を指す。必ずしも個体の成長の一段階や、季節による変化だけを意味しない。",
+      "patterns": [
+        "a 〈light/dark〉 phase＝明色型・暗色型",
+        "the gregarious phase＝群生相",
+        "in a particular phase＝特定の相・型にある。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a dark phase",
+          "use": "色彩の異なる型を述べる。",
+          "example": "The bird occurs in both a light phase and a dark phase.",
+          "translation": "その鳥には、明色型と暗色型の両方が見られる。"
+        },
+        {
+          "pattern": "the gregarious phase",
+          "use": "バッタなどの群れを形成する相を述べる。",
+          "example": "Crowding can trigger a shift to the gregarious phase in these locusts.",
+          "translation": "これらのバッタでは、過密状態が群生相への移行を引き起こすことがある。"
+        }
+      ],
+      "notes": [
+        "色彩型は個体間で区別される場合もあり、すべての個体が明色型から暗色型へ順に移るという意味ではない。一方、バッタの相変異のように、環境条件に応じた行動・形態の変化を述べる場合もある。対象生物と特徴を確認し、物質の固相・液相などを表す語義9とは区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "morph",
+          "definition": "同じ種などの中で区別される形態型・色彩型。",
+          "frequency": 2,
+          "difference": "形態や色彩の型に焦点がある。phase は文脈によって行動の相や周期的な状態も扱うため、常に言い換えられるわけではない。",
+          "example": "Researchers identified two colour morphs in the population.",
+          "translation": "研究者たちは、その集団に二つの色彩型を確認した。"
+        }
+      ],
+      "antonyms": []
     }
   ]
 }

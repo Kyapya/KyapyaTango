@@ -215,13 +215,14 @@
     },
     {
       "number": 3,
-      "title": "【名詞：可算】後付け改修、改修による追加装備",
+      "title": "【名詞：可算／不可算】後付け改修、改修による追加装備",
       "frequency": 5,
       "register": [
         "建築、エネルギー、製造、設備計画。"
       ],
-      "definition": "既存の機械・建物などに新設備・機能を加える改修、またはその改修によって追加された装備。a retrofit は一件の改修・追加装備、retrofits は複数件を表す。とくに建物の耐震補強、省エネルギー改修、設備の更新などに使う。",
+      "definition": "既存の機械・建物などに新設備・機能を加える改修、またはその改修によって追加された装備。a retrofit は一件の改修・追加装備、retrofits は複数件を表す。建築・省エネルギー分野では、改修活動全般を不可算名詞の retrofit で表す用法もある。とくに建物の耐震補強、省エネルギー改修、設備の更新などに使う。",
       "patterns": [
+        "home retrofit＝住宅の改修活動（不可算）",
         "a retrofit of 〈建物・設備〉＝その対象の後付け改修",
         "a retrofit to 〈設備〉＝その設備に加える改修",
         "a seismic/energy retrofit＝耐震・省エネルギー改修",
@@ -265,10 +266,16 @@
           "use": "機能・機器が後付け装備として提供されることを示す。",
           "example": "The rear-view camera is available as a retrofit for earlier vehicles.",
           "translation": "その後方確認用カメラは、旧型の車両向けの後付け装備として提供されている。"
+        },
+        {
+          "pattern": "home retrofit",
+          "use": "住宅の性能を改善する改修活動全般を述べる。",
+          "example": "Home retrofit can reduce energy use in existing buildings.",
+          "translation": "住宅の改修は、既存の建物のエネルギー使用量を減らすことができる。"
         }
       ],
       "notes": [
-        "They planned a retrofit. の retrofit は名詞、They will retrofit the building. は動詞である。a retrofit kit の retrofit は後付け用途を示す前置修飾で、すでに改修されたことを表す a retrofitted unit とは異なる。辞書によって、このような名詞前の用法を形容詞として扱うこともある。工程全般を言うときは retrofitting も使え、the cost of retrofitting the building は「その建物を改修する費用」。名詞の retrofit は通常1語で書き、retro-fit と分ける必要はない。seismic retrofit は工事の目的を表す語であり、それだけで特定の法令・基準への適合や耐震性能の保証を示すものではない。"
+        "They planned a retrofit. の retrofit は名詞、They will retrofit the building. は動詞である。a retrofit kit の retrofit は後付け用途を示す前置修飾で、すでに改修されたことを表す a retrofitted unit とは異なる。辞書によって、このような名詞前の用法を形容詞として扱うこともある。建築分野の home retrofit などでは retrofit 自体が活動全般を表す不可算用法を取る。工程全般を言うときは retrofitting も使え、the cost of retrofitting the building は「その建物を改修する費用」。名詞の retrofit は通常1語で書き、retro-fit と分ける必要はない。seismic retrofit は工事の目的を表す語であり、それだけで特定の法令・基準への適合や耐震性能の保証を示すものではない。"
       ],
       "synonyms": [
         {

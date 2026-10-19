@@ -92,11 +92,11 @@
     },
     {
       "type": "item",
-      "text": "保持・負担を解く電荷の放出 → 「放電させる・放電する」（語義12）"
+      "text": "保持・負担を解く蓄えの減少・電荷の移動 → 「放電させる・放電する」（語義12）"
     },
     {
       "type": "item",
-      "text": "保持・負担を解く電荷放出の現象 → 「放電」（語義13）"
+      "text": "保持・負担を解く蓄えの減少・電荷移動の現象 → 「放電」（語義13）"
     },
     {
       "type": "item",
@@ -153,6 +153,10 @@
     {
       "type": "item",
       "text": "保持・負担を解く委員会の審議責任の解除 → 「委員会を法案などの審議から解く」（語義27）"
+    },
+    {
+      "type": "item",
+      "text": "保持・負担を解く染色された色の除去 → 「脱色する・抜染する」（語義28）"
     }
   ],
   "sources": [],
@@ -622,7 +626,7 @@
         }
       ],
       "notes": [
-        "discharge the jury は陪審団を任務から解くことで、被告人を釈放することや無罪を言い渡すこととは異なる。discharge the defendant は語義18。The jury discharged. ではなく、通常は The jury was discharged. とする。 discharge someone from duty「人の任務を解く」と discharge one's duty「自分の義務を果たす」（語義9）では、直接目的語が人か義務かによって意味が変わる。前者を「任務を遂行させる」と訳さない。 英語は honourably / dishonourably、米語は honorably / dishonorably。除隊の種類や資格上の効果は制度ごとに異なるため、discharge 一語を「満期除隊」「懲戒免職」と限定しない。a discharged soldier も理由をそれだけでは示さない。"
+        "discharge the jury は陪審団を任務から解くことで、被告人を釈放することや無罪を言い渡すこととは異なる。discharge the defendant は語義18。The jury discharged. ではなく、通常は The jury was discharged. とする。 discharge someone from duty「人の任務を解く」と discharge one's duty「自分の義務を果たす」（語義9）では、直接目的語が人か義務かによって意味が変わる。前者を「任務を遂行させる」と訳さない。 英国英語では honourably / dishonourably、米国英語では honorably / dishonorably。除隊の種類や資格上の効果は制度ごとに異なるため、discharge 一語を「満期除隊」「懲戒免職」と限定しない。a discharged soldier も理由をそれだけでは示さない。"
       ],
       "synonyms": [
         {
@@ -637,7 +641,7 @@
           "word": "demobilize",
           "definition": "戦時などに動員された兵士を軍務から解き、平時の生活に戻す。",
           "frequency": 3,
-          "difference": "動員の解除に焦点があり、discharge のあらゆる除隊理由を含まない。英語では demobilise の綴りも使う。",
+          "difference": "動員の解除に焦点があり、discharge のあらゆる除隊理由を含まない。英国英語では demobilise の綴りも使う。",
           "example": "Thousands of troops were demobilized after the war.",
           "translation": "戦後、何千人もの兵士が動員を解除された。"
         },
@@ -700,7 +704,7 @@
           "word": "demobilization",
           "definition": "軍事動員を解除し、兵士を軍務から戻すこと。",
           "frequency": 3,
-          "difference": "主に戦争や動員の終結に伴う過程を指し、個々の discharge のすべてを含まない。英語では demobilisation とも綴る。",
+          "difference": "主に戦争や動員の終結に伴う過程を指し、個々の discharge のすべてを含まない。英国英語では demobilisation とも綴る。",
           "example": "The government drew up a plan for demobilization.",
           "translation": "政府は動員解除の計画を作成した。"
         },
@@ -932,7 +936,7 @@
       "register": [
         "電気・電子、電池、物理。"
       ],
-      "definition": "電池、コンデンサーなどに蓄えられた電気的エネルギーを外へ取り出す・放出させる、またはそれらがエネルギーを放出する。電荷が移動する放電や、気体中に電流が流れる現象にも使う。「放電」は必ずしも蓄えが完全にゼロになることを意味しない。",
+      "definition": "電池やコンデンサーなどの蓄えたエネルギーを放出させる、またはそれらの蓄えが減る。電池が外部へ電流を供給するときは化学エネルギーが電気エネルギーに変換されるが、使用していない電池の容量が内部反応などで減る自己放電も含む。コンデンサーでは蓄えられた電気的エネルギーが放出される。電荷が移動する放電や、気体中に電流が流れる現象にも使う。「放電」は必ずしも蓄えが完全にゼロになることを意味しない。",
       "patterns": [
         "discharge a battery / capacitor＝電池・コンデンサーを放電させる〔他動詞〕",
         "discharge electricity＝電気を放出する〔他動詞〕",
@@ -989,7 +993,7 @@
       "antonyms": [
         {
           "word": "charge",
-          "definition": "電池などに電気的エネルギーを蓄える。",
+          "definition": "外部からエネルギーを与え、電池やコンデンサーを電流を取り出せる状態にする。電池では化学的に、コンデンサーでは電気的にエネルギーを蓄える。",
           "frequency": 8,
           "difference": "エネルギーを蓄える方向と取り出す方向の対立。",
           "example": "The solar panel charges the battery during the day.",
@@ -1012,7 +1016,7 @@
       "register": [
         "電気・電子、物理、気象。"
       ],
-      "definition": "電池などから電気的エネルギーを取り出す過程、電荷の移動、または空気・気体などを介して電流が流れる現象。過程は不可算、個々の放電現象は可算で表す。",
+      "definition": "電池から電気エネルギーを取り出す過程や、電池が未使用時に容量を失う自己放電、コンデンサーなどの電荷の移動、または空気・気体などを介して電流が流れる現象。過程は不可算、個々の放電現象は可算で表す。",
       "patterns": [
         "battery discharge＝電池の放電",
         "an electrical discharge＝一つの放電現象",
@@ -1053,7 +1057,7 @@
       "antonyms": [
         {
           "word": "charging",
-          "definition": "電池などへ電気的エネルギーを蓄えること。",
+          "definition": "外部からエネルギーを与え、電池やコンデンサーを電流を取り出せる状態にすること。蓄えるエネルギーの形は装置によって異なる。",
           "frequency": 7,
           "difference": "電池について、蓄える過程と取り出す過程の対立。気体放電などすべての放電現象に同じ対立が当てはまるわけではない。",
           "example": "Charging stops automatically when the battery reaches its limit.",
@@ -1931,6 +1935,48 @@
         "目的語は基本的に委員会で、from consideration of ... が審議対象を示す。委員を解雇することでも、委員会の構成員全員を罷免することでもない。 名詞を使った discharge petition は、委員会段階にある案件について審議解除を求める署名請願を指す。署名が集まること、審議解除の手続きを進めること、法案が可決・成立することは別であり、petition という語だけで後の段階まで完了したとは読まない。具体的な要件は議院の規則による。"
       ],
       "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 28,
+      "title": "【動詞・他動詞】脱色する・抜染する",
+      "frequency": 2,
+      "register": [
+        "染色、捺染、繊維加工の技術的な説明。"
+      ],
+      "definition": "染色された布や染料に薬剤などを作用させて色を取り除く。染色・捺染の専門用法で、布全体を白くする場合だけでなく、特定の部分の色を抜いて模様を作る場合にも使う。",
+      "patterns": [
+        "discharge the colour from 〈布〉＝布の色を抜く",
+        "discharge a dye＝染料を脱色する",
+        "〈染料・色〉 + be discharged＝染料・色が脱色される。"
+      ],
+      "collocations": [
+        {
+          "pattern": "discharge the colour from 〈布〉",
+          "use": "布に付けられた色を抜く加工を述べる。",
+          "example": "The paste discharged the colour from the printed areas of the fabric.",
+          "translation": "その糊は、布の印捺された部分の色を抜いた。"
+        },
+        {
+          "pattern": "discharge a dye",
+          "use": "染料を薬剤によって脱色する場合に使う。",
+          "example": "The process can discharge some dyes without damaging the cotton fibres.",
+          "translation": "その工程では、綿繊維を傷めずに一部の染料を脱色できる。"
+        }
+      ],
+      "notes": [
+        "液体や排水を外へ流す語義3とは異なり、染色された色をなくすことに焦点がある。discharge printing は「抜染」と呼ばれる技法で、先に染めた地色を部分的に脱色して模様を作る。脱色と同時に別の色を付ける方法もあり、常に白い模様になるわけではない。どの染料や布にも使えるとは限らない。ここでの脱色を、染料の粒子がそのまま外へ排出されることだけと考えない。"
+      ],
+      "synonyms": [
+        {
+          "word": "decolorize",
+          "definition": "色を取り除く、脱色する。",
+          "frequency": 2,
+          "difference": "繊維加工の特定の方法に限らず、色をなくすことを広く述べる。discharge はこの語義では染色・捺染の専門的な使い方。",
+          "example": "The treatment decolorized the solution.",
+          "translation": "その処理で溶液が脱色された。"
+        }
+      ],
       "antonyms": []
     }
   ]
