@@ -1,0 +1,366 @@
+{
+  "word": "dismantle",
+  "slug": "dismantle",
+  "ipa": "米・英: /dɪsˈmæn.təl/",
+  "lead": "機械・家具・構造物などの部品や構成部分を取り外し、一つに組み上がっていた物をばらす。修理、運搬、撤去、再利用など目的はさまざまで、必ず壊して使えなくするとは限らない。船などについては、設備を取り外して通常の使用状態を解くことにも使い、文脈によっては本体そのものの破壊までは意味しない。",
+  "updated": "2026-10-19",
+  "notion_url": "https://app.notion.com/p/dismantle-3fe4faa9b77d81e9aa4ee972abbb3151",
+  "pronunciation": [
+    "3音節で、第2音節に強勢を置く。第3音節は弱い /ə/ を含み、/l/ が音節の中心になる発音もある。dismantled の -ed は /d/。dismantling は語末の e を落として -ing を付ける。"
+  ],
+  "etymology": [
+    "フランス語 desmanteler に由来し、des-「取り去る」＋ mantel「外套、覆い」にさかのぼる。mantle「外套、覆い」は同じ語の系統で、語源上は「覆いを取り去る」という発想がある。現代の中心義は、機械・構造物をばらすことや、組織・仕組みを解体することであり、日常的な「上着を脱ぐ」に使う語ではない。"
+  ],
+  "formation": [
+    {
+      "term": "dismantles / dismantled / dismantling",
+      "description": "三人称単数現在・過去形と過去分詞・現在分詞。dismantled equipment は分解された機器で、通常の結果状態を表す分詞修飾。ハイフンは不要。"
+    },
+    {
+      "term": "dismantling",
+      "description": "動名詞・行為名詞として「分解、解体」。the dismantling of a machine、the dismantling of a system のように使う。"
+    },
+    {
+      "term": "dismantlement",
+      "description": "名詞。「解体、撤去、廃止」。兵器・施設・制度の解体を扱う改まった文章で使われる。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "部品や仕組みが組み合わさって成り立つまとまりを解くこと。物なら分解、制度なら機能する仕組みの解体、議論なら成り立つ根拠を崩すことにつながる。分解できるという自動詞用法では、その性質を物の側から述べる。"
+    },
+    {
+      "type": "item",
+      "text": "まとまりを解く物理的な作業 → 「分解する、解体する」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "まとまりを解く制度・組織への働きかけ → 「解体する、廃止する」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "まとまりを解く議論への反証 → 「論駁する、論拠を崩す」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "まとまりを解くことができる物の性質 → 「分解できる、ばらせる」（語義4）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞】分解する、解体する",
+      "frequency": 7,
+      "register": [
+        "一般、修理、工事、技術、報道。take apart より説明的で、構造物の解体にも広く使う。"
+      ],
+      "definition": "機械・家具・構造物などの部品や構成部分を取り外し、一つに組み上がっていた物をばらす。修理、運搬、撤去、再利用など目的はさまざまで、必ず壊して使えなくするとは限らない。船などについては、設備を取り外して通常の使用状態を解くことにも使い、文脈によっては本体そのものの破壊までは意味しない。",
+      "patterns": [
+        "dismantle 〈機械/家具/構造物〉",
+        "dismantle something for 〈修理・運搬・再利用〉",
+        "dismantle something to 〈動詞原形〉",
+        "dismantle something into 〈部品・区画〉",
+        "be dismantled",
+        "dismantled 〈機器・部品〉"
+      ],
+      "collocations": [
+        {
+          "pattern": "dismantle a machine",
+          "use": "機械を構成部品に分ける。",
+          "example": "The technician dismantled the pump to find the damaged seal.",
+          "translation": "技術者は傷んだシールを見つけるため、ポンプを分解した。"
+        },
+        {
+          "pattern": "dismantle a structure",
+          "use": "組み立てた構造物を解体する。",
+          "example": "Workers dismantled the temporary stage after the festival.",
+          "translation": "作業員は祭りの後で仮設ステージを解体した。"
+        },
+        {
+          "pattern": "dismantle something for transport",
+          "use": "運びやすくするためにばらす。",
+          "example": "We dismantled the shelving unit for transport to the new office.",
+          "translation": "新しい事務所へ運ぶため、私たちは棚を分解した。"
+        },
+        {
+          "pattern": "dismantle something into 〈部品・区画〉",
+          "use": "分解した結果、どのような部分に分かれるかを示す。",
+          "example": "The team dismantled the display into six sections that would fit through the door.",
+          "translation": "チームは展示物を、ドアを通せる六つの部分に分解した。"
+        },
+        {
+          "pattern": "be dismantled",
+          "use": "解体される対象を主語にする。",
+          "example": "The old crane was dismantled piece by piece.",
+          "translation": "古いクレーンは一部分ずつ解体された。"
+        },
+        {
+          "pattern": "dismantled equipment",
+          "use": "分解後の機器を過去分詞で修飾する。",
+          "example": "The dismantled equipment was packed in separate crates.",
+          "translation": "分解された機器は、別々の木箱に詰められた。"
+        }
+      ],
+      "notes": [
+        "dismantle the engine のように対象を直接置き、通常は dismantle apart the engine としない。apart を使うなら take the engine apart。dismantle 自体は一語の動詞で、小辞の位置を入れ替える句動詞ではない。They dismantled the frame. は人が枠を分解したという他動詞構文、The frame dismantles easily. は枠が容易に分解できるという自動詞構文（語義4）。be dismantled は作業の受動態にも分解後の状態にもなり、a dismantled engine のような限定用法も動詞の意味から理解できる。demolish は建物などを取り壊すことを強く表すが、dismantle は部品を残したままの分解にも使える。"
+      ],
+      "synonyms": [
+        {
+          "word": "take apart",
+          "definition": "組み立てられた物を部品に分ける。",
+          "frequency": 8,
+          "difference": "日常会話で広く使う。dismantle は工事や技術の文章にもなじむ。代名詞は take it apart の順に置く。",
+          "example": "I took the fan apart to clean the blades.",
+          "translation": "羽根を掃除するため、扇風機を分解した。"
+        },
+        {
+          "word": "disassemble",
+          "definition": "機械や組み立て物を各部品に分ける。",
+          "frequency": 6,
+          "difference": "組み立ての逆工程としての部品分離に焦点がある。dismantle は大きな構造物の撤去や設備の取り外しにも使いやすい。",
+          "example": "Disassemble the chair before replacing the damaged joint.",
+          "translation": "傷んだ接合部を取り替える前に、椅子を分解してください。"
+        },
+        {
+          "word": "demolish",
+          "definition": "建物などを取り壊す。",
+          "frequency": 6,
+          "difference": "構造物を壊してなくす点に焦点がある。dismantle は分けた部分を再び組み立てられる場合も含む。",
+          "example": "The unsafe warehouse was demolished last year.",
+          "translation": "安全性に問題のあった倉庫は、昨年取り壊された。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "assemble",
+          "definition": "部品を組み合わせて一つの物を作る。",
+          "frequency": 7,
+          "difference": "部品を分ける dismantle と、部品をまとめる assemble は、物の組み立て状態について方向が反対。",
+          "example": "We assembled the bookcase in the room where it would be used.",
+          "translation": "私たちは本棚を、実際に使う部屋で組み立てた。"
+        },
+        {
+          "word": "reassemble",
+          "definition": "ばらした物を再び組み立てる。",
+          "frequency": 5,
+          "difference": "分解後に元のまとまりへ戻す逆方向の動作であり、以前の組み立て状態を前提にする。",
+          "example": "She reassembled the radio after replacing the switch.",
+          "translation": "彼女はスイッチを交換してからラジオを組み直した。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【動詞・他動詞】解体する、廃止する",
+      "frequency": 7,
+      "register": [
+        "政治、社会、行政、組織運営、報道。"
+      ],
+      "definition": "制度・組織・活動の仕組みを支える部分を取り除き、全体としての機能をなくす、または大きく弱める。段階的に行うことが多いが、長期間かかることは必須ではない。差別的制度や犯罪組織にも公共サービスにも使われ、対象と話者の立場によって評価が変わる。",
+      "patterns": [
+        "dismantle 〈制度/組織/仕組み〉",
+        "dismantle barriers to 〈名詞・動名詞〉",
+        "gradually dismantle something",
+        "be dismantled"
+      ],
+      "collocations": [
+        {
+          "pattern": "dismantle a system",
+          "use": "既存の制度を支える仕組みを取り除く。",
+          "example": "The reforms dismantled a system that excluded rural students from higher education.",
+          "translation": "その改革は、地方の学生を高等教育から締め出していた制度を解体した。"
+        },
+        {
+          "pattern": "dismantle a criminal network",
+          "use": "組織のつながりや活動基盤を崩す。",
+          "example": "Investigators dismantled the smuggling network by tracing its payments.",
+          "translation": "捜査員は資金の流れをたどり、密輸組織を壊滅させた。"
+        },
+        {
+          "pattern": "dismantle barriers to 〈名詞・動名詞〉",
+          "use": "活動や参加を妨げる制度的な障壁を取り除く。",
+          "example": "The agreement aims to dismantle barriers to cross-border trade.",
+          "translation": "その協定は、国境を越える貿易の障壁を取り除くことを目指している。"
+        },
+        {
+          "pattern": "gradually dismantle something",
+          "use": "仕組みを段階的になくしていく過程を表す。",
+          "example": "Successive budget cuts gradually dismantled the community support program.",
+          "translation": "相次ぐ予算削減で、その地域支援事業は段階的に解体されていった。"
+        },
+        {
+          "pattern": "be dismantled",
+          "use": "制度が廃止・解体されることを受動態で述べる。",
+          "example": "The old approval system was dismantled when responsibility passed to local offices.",
+          "translation": "権限が地方の事務所へ移された際、旧来の承認制度は廃止された。"
+        }
+      ],
+      "notes": [
+        "建物の物理的な解体である語義1とは、目的語の種類で区別する。dismantle a department は部署の組織・機能を解体することであり、事務室の壁を壊す意味とは限らない。dismantle barriers は制度的な障壁ならこの語義、実物の柵なら語義1。dismantle 自体に「悪い制度をよくする」という評価は含まれず、批判の文脈では有用な制度を骨抜きにするという意味にもなる。法律の廃止手続きを特定する専門語ではないため、どの手続きで制度がなくなるかは文脈で確認する。"
+      ],
+      "synonyms": [
+        {
+          "word": "abolish",
+          "definition": "制度・慣行などを正式になくす。",
+          "frequency": 7,
+          "difference": "廃止の決定や終了に焦点があり、構成部分を段階的に取り除く過程までは表さない。",
+          "example": "The organization abolished the rule requiring members to attend every meeting.",
+          "translation": "その組織は、すべての会議への出席を会員に求める規則を廃止した。"
+        },
+        {
+          "word": "dissolve",
+          "definition": "団体や組織を解散させる。",
+          "frequency": 6,
+          "difference": "組織の存続を終えることに焦点がある。dismantle はその機能・構造を崩す過程にも使う。",
+          "example": "The board voted to dissolve the advisory committee.",
+          "translation": "理事会は諮問委員会の解散を議決した。"
+        },
+        {
+          "word": "phase out",
+          "definition": "使用や運用を段階的にやめる。",
+          "frequency": 7,
+          "difference": "段階的な終了を明示する。dismantle は構造・機能の解体に焦点があり、段階性は必須ではない。",
+          "example": "The agency will phase out paper applications over two years.",
+          "translation": "その機関は、二年かけて紙の申請を段階的に廃止する。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞・他動詞】論駁する、論拠を崩す",
+      "frequency": 5,
+      "register": [
+        "議論、批評、評論、研究・報道の解説。"
+      ],
+      "definition": "議論・主張・説明などの弱点を示し、成り立たないと分かるようにする。論理や証拠を一つずつ検討して崩すという、物の分解からの比喩。単に反対意見を述べるより、相手の説明を支える根拠への攻撃が明確である。",
+      "patterns": [
+        "dismantle an argument",
+        "dismantle a claim",
+        "dismantle someone's explanation",
+        "dismantle something point by point",
+        "be dismantled by 〈反証・分析〉"
+      ],
+      "collocations": [
+        {
+          "pattern": "dismantle an argument",
+          "use": "論理の問題を示して議論を崩す。",
+          "example": "She dismantled his argument by exposing a contradiction in its central premise.",
+          "translation": "彼女は中心となる前提の矛盾を明らかにし、彼の議論を論駁した。"
+        },
+        {
+          "pattern": "dismantle a claim",
+          "use": "証拠によって主張の根拠を崩す。",
+          "example": "The audit dismantled the claim that every payment had been approved.",
+          "translation": "監査は、すべての支払いが承認済みだったという主張を覆した。"
+        },
+        {
+          "pattern": "dismantle someone's explanation",
+          "use": "説明の不整合や不足を示す。",
+          "example": "The interviewer's follow-up questions dismantled the minister's explanation for the missing funds.",
+          "translation": "聞き手が重ねた質問により、使途不明金に関する大臣の説明は成り立たなくなった。"
+        },
+        {
+          "pattern": "dismantle something point by point",
+          "use": "論点ごとに順序立てて反駁する。",
+          "example": "The response dismantled the proposed theory point by point, using newly released data.",
+          "translation": "その回答は、新たに公開されたデータを使って、提案された理論を論点ごとに反駁した。"
+        },
+        {
+          "pattern": "be dismantled by 〈反証・分析〉",
+          "use": "主張が証拠や分析によって崩されたと述べる。",
+          "example": "The claim that the product was harmless was dismantled by independent test results.",
+          "translation": "その製品は無害だという主張は、独立して行われた試験の結果によって覆された。"
+        }
+      ],
+      "notes": [
+        "dismantle an argument は、議論を理解するために単に分析することではなく、その成立を崩す方向を含む。analyze an argument は中立的な分析で、結論としてその議論を支持することもある。The claim was dismantled by the new evidence. のように、証拠を原因として受動態にもできる。否定・試み・条件の文では実際の論駁成功を断言しないが、通常の肯定文で dismantled と述べれば、説明が有効に崩されたと評価している。"
+      ],
+      "synonyms": [
+        {
+          "word": "refute",
+          "definition": "証拠や論理によって、主張などが誤っていると示す。",
+          "frequency": 6,
+          "difference": "誤りの立証に焦点があり、dismantle のような「構成を崩す」という比喩は前面に出ない。",
+          "example": "The records refute the allegation that she was absent that day.",
+          "translation": "記録は、彼女がその日不在だったという主張が誤りだと示している。"
+        },
+        {
+          "word": "debunk",
+          "definition": "広まった誤説や通念の誤りを明らかにする。",
+          "frequency": 5,
+          "difference": "神話・俗説・誤情報の訂正に特に使う。dismantle は個別の議論や説明にも広く使う。",
+          "example": "The article debunks the myth that bats are blind.",
+          "translation": "その記事は、コウモリは目が見えないという俗説の誤りを説明している。"
+        },
+        {
+          "word": "undermine",
+          "definition": "主張・立場などを支える根拠や信頼性を弱める。",
+          "frequency": 7,
+          "difference": "弱体化にとどまる場合もあり、必ず論駁し切るわけではない。dismantle は成り立つ仕組みを崩すという強い描写になる。",
+          "example": "The inconsistent dates undermine the witness's account.",
+          "translation": "日付の不一致が、目撃者の説明の信頼性を損なっている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞・自動詞】分解できる、ばらせる",
+      "frequency": 4,
+      "register": [
+        "製品説明、組み立て家具・装置、運搬。"
+      ],
+      "definition": "機械・家具・装置などが、部品や部分に分けられる構造になっていることを表す。物を主語にして、分解のしやすさや分かれる部分を説明する用法。物が勝手に壊れるという意味ではない。",
+      "patterns": [
+        "〈組み立て物〉 + dismantle easily",
+        "〈組み立て物〉 + dismantle into 〈部分〉",
+        "〈組み立て物〉 + dismantle for transport"
+      ],
+      "collocations": [
+        {
+          "pattern": "〈組み立て物〉 + dismantle easily",
+          "use": "物の性質として分解しやすさを説明する。",
+          "example": "This exhibition stand dismantles easily, so one person can pack it away.",
+          "translation": "この展示スタンドは簡単に分解できるので、一人で片付けられる。"
+        },
+        {
+          "pattern": "〈組み立て物〉 + dismantle into 〈部分〉",
+          "use": "どのような部分に分解できるかを説明する。",
+          "example": "The frame dismantles into four sections that fit in a car trunk.",
+          "translation": "その枠は、自動車のトランクに収まる四つの部分に分解できる。"
+        },
+        {
+          "pattern": "〈組み立て物〉 + dismantle for transport",
+          "use": "運搬時にばらせる構造を説明する。",
+          "example": "The platform dismantles for transport between venues.",
+          "translation": "その台は、会場間の運搬に合わせて分解できる。"
+        }
+      ],
+      "notes": [
+        "主語は分解される物で、直接目的語を置かない。They dismantle the stand. は作業者を主語にする他動詞（語義1）、The stand dismantles easily. は物の性質を述べる自動詞。The stand can be dismantled easily. という受動の可能表現でも同じ内容を伝えられる。主に現在形で製品の性質を説明し、特定の解体作業が終わったことなら The stand was dismantled. とする。自動詞の fall apart は「ばらばらになる、壊れる」であり、分解可能な設計をいうこの用法とは異なる。"
+      ],
+      "synonyms": [
+        {
+          "word": "come apart",
+          "definition": "組み合わさった部分が離れる、または離せる構造である。",
+          "frequency": 7,
+          "difference": "会話で広く使い、自然に壊れる場合も含む。dismantle の自動詞用法は、意図的に分解できる構造の説明に向く。",
+          "example": "The handle comes apart for cleaning.",
+          "translation": "その持ち手は、掃除のために分解できる。"
+        },
+        {
+          "word": "disassemble",
+          "definition": "組み立て物が部品に分かれる、または分けられる。",
+          "frequency": 4,
+          "difference": "この自動詞用法では部品に分かれる構造を技術的に述べる。dismantle と意味が重なり、どちらも物を主語にできる。",
+          "example": "The unit disassembles into two compact pieces.",
+          "translation": "その装置は、二つの小さな部品に分解できる。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

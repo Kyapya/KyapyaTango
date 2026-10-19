@@ -1,0 +1,793 @@
+{
+  "word": "phase",
+  "slug": "phase",
+  "ipa": "米・英: /feɪz/",
+  "lead": "変化・発展・活動の過程を分けて捉えた一つのまとまり。計画の工程、人生や成長の時期、特定の行動・好みが目立つ一時期などを表す。phase 自体は短期間を意味せず、a passing phase や just a phase では「いずれ過ぎる時期」という捉え方が加わる。",
+  "updated": "2026-10-19",
+  "notion_url": "https://app.notion.com/p/phase-3fe4faa9b77d81a8bce0e8db2d6aef49",
+  "pronunciation": [
+    "1音節。ph は /f/、語末の s は濁った /z/。同音語 faze「うろたえさせる」と綴りを区別する。",
+    "複数形・三人称単数現在形 phases は /ˈfeɪzɪz/ で2音節、過去形・過去分詞 phased は /feɪzd/ で1音節。現在分詞 phasing は /ˈfeɪzɪŋ/ で、語末のeを取って -ing を付ける。"
+  ],
+  "etymology": [
+    "ギリシャ語 phasis「現れること、外観」に由来し、その基に phainein「示す、現す」がある。新ラテン語やフランス語を介した形が英語に入り、天体の見かけの姿を表す用法と関わる。現在は変化の段階、物質の相、波の位相などにも使う。動詞は名詞を基にしたもの。",
+    "phenomenon「現象」と phantom「幻影」も、さかのぼると「現れる・示す」に関わる同じギリシャ語系統に属する。現代英語で互いに派生した語という意味ではない。faze は別の語源で、phase の感情的な語義ではない。"
+  ],
+  "formation": [
+    {
+      "term": "phased",
+      "description": "は過去分詞のほか、phased implementation「段階的な実施」のような形容詞用法が定着している（語義5）。"
+    },
+    {
+      "term": "phasing",
+      "description": "は段階分けや実施時期の調整を表す名詞としても使い、the phasing of construction「工事の段階的な実施」のように用いる。音響では位相に関わる処理・効果を指すこともある。"
+    },
+    {
+      "term": "phase-in / phase-out / phase-down",
+      "description": "は、それぞれ段階的な導入・廃止・削減を表す名詞。動詞の phase in / out / down は2語で、ハイフンを付けない。名詞には phaseout・phasedown などの続け書きもある。"
+    },
+    {
+      "term": "single-phase / three-phase",
+      "description": "は「単相の／三相の」という電気分野の複合形容詞で、single-phase supply / three-phase motor のように名詞の前に置く（語義10）。"
+    }
+  ],
+  "core": [],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算】段階、時期、局面",
+      "frequency": 8,
+      "register": [
+        "一般語。日常会話、仕事、研究、社会情勢などに幅広い。"
+      ],
+      "definition": "変化・発展・活動の過程を分けて捉えた一つのまとまり。計画の工程、人生や成長の時期、特定の行動・好みが目立つ一時期などを表す。phase 自体は短期間を意味せず、a passing phase や just a phase では「いずれ過ぎる時期」という捉え方が加わる。",
+      "patterns": [
+        "a/the phase of something＝物事の一段階",
+        "a phase in someone's life/career＝人生・経歴のある時期",
+        "in/during the 〈段階名〉 phase＝その段階に・の間に",
+        "enter/begin the next phase＝次の段階に入る・を始める",
+        "in phases＝段階に分けて",
+        "go through a phase of doing something＝その行動をよくする一時期を経験する",
+        "It's just a phase.＝一時的なことだよ。Phase 1 / phase one のような段階番号も使う。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the first phase of something",
+          "use": "計画や過程の最初のまとまりを示す。",
+          "example": "The first phase of the renovation focuses on the roof.",
+          "translation": "改修の第1段階では、屋根を重点的に扱う。"
+        },
+        {
+          "pattern": "be in the planning phase",
+          "use": "作業がまだ計画段階にあることを述べる。",
+          "example": "The new library is still in the planning phase.",
+          "translation": "新しい図書館はまだ計画段階にある。"
+        },
+        {
+          "pattern": "enter a new phase",
+          "use": "状況や活動の性質が変わる局面を表す。",
+          "example": "The negotiations entered a new phase after the funding agreement.",
+          "translation": "資金に関する合意の後、交渉は新たな段階に入った。"
+        },
+        {
+          "pattern": "in phases",
+          "use": "一度に全部を行わず、段階を区切って実施すると述べる。",
+          "example": "The exhibition will open in phases as each gallery is completed.",
+          "translation": "各展示室の完成に合わせて、展覧会は段階的に公開される。"
+        },
+        {
+          "pattern": "go through a phase of doing something",
+          "use": "一定の行動や好みが続く一時期を表す。",
+          "example": "My son went through a phase of asking how every machine worked.",
+          "translation": "息子には、見る機械の仕組みを何でも尋ねる時期があった。"
+        },
+        {
+          "pattern": "a passing phase",
+          "use": "永続せず、やがて過ぎると捉えられる時期を述べる。",
+          "example": "Her interest in astronomy proved to be more than a passing phase.",
+          "translation": "彼女の天文学への関心は、一時的なものではなかった。"
+        },
+        {
+          "pattern": "It's just a phase.",
+          "use": "その行動や状態を一時的なものと捉えて説明する。",
+          "example": "He only wants to wear green this week, but I think it's just a phase.",
+          "translation": "今週は緑の服しか着たがらないけれど、一時的なことだと思う。"
+        },
+        {
+          "pattern": "Phase 2 of something",
+          "use": "番号を付けた工程・計画の一部を示す。",
+          "example": "Phase 2 of the survey will include interviews with local residents.",
+          "translation": "調査の第2段階では、地域住民への聞き取りも行う。"
+        }
+      ],
+      "notes": [
+        "単数の普通名詞では in a new phase / in the final phase のように限定語が必要。一方、段階名としての Phase 2 は冠詞なしで使える。in phases は「段階的に」、in phase は「位相・タイミングが合って」（語義8・11）で、複数形の有無が意味を変える。the design phase の design は段階の種類を示す名詞修飾。go through a phase というだけで病気や問題行動を意味しない。It's just a phase. は気持ちを軽く扱う言い方に聞こえることもあり、将来必ず収まるという客観的保証ではない。phase in her career の in は名詞に続く前置詞で、動詞の phase in「段階的に導入する」とは構造が違う。"
+      ],
+      "synonyms": [
+        {
+          "word": "stage",
+          "definition": "進行・発展の過程における一段階。",
+          "frequency": 9,
+          "difference": "phase と広く重なる。stage はある到達点や工程上の位置を指しやすく、phase は一定の特徴を持つ期間を一まとまりとして捉える場合にもよく使う。",
+          "example": "We are at the stage where every detail matters.",
+          "translation": "私たちは、細部の一つ一つが重要になる段階に来ている。"
+        },
+        {
+          "word": "period",
+          "definition": "一定の長さや特徴を持つ期間。",
+          "frequency": 9,
+          "difference": "時間の区切りを表すが、phase のように発展や変化の一部分である必要はない。",
+          "example": "The office will be closed for a short period in July.",
+          "translation": "事務所は7月に短期間閉鎖される。"
+        },
+        {
+          "word": "step",
+          "definition": "手順や進行を構成する一つの行動・段階。",
+          "frequency": 9,
+          "difference": "phase より具体的な行為の順序を表しやすい。一つの phase に複数の steps が含まれることがある。",
+          "example": "The next step is to test the backup system.",
+          "translation": "次の手順は、バックアップシステムを試験することだ。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【句動詞・他動詞、分離可能】段階的に導入する",
+      "frequency": 6,
+      "register": [
+        "一般・業務用語。制度、技術、サービス、運用変更など。"
+      ],
+      "definition": "新しい制度・製品・技術などを、対象や範囲を少しずつ広げながら導入する。phase in の形で、一斉に全面導入するのではなく段階を設けることを表す。古いものの廃止が伴うことはあるが、入れ替えは必須ではない。",
+      "patterns": [
+        "phase in something / phase something in＝物事を段階的に導入する",
+        "phase it/them in＝それ・それらを段階的に導入する",
+        "phase something in over 〈期間〉＝その期間をかけて導入する",
+        "something + be phased in＝段階的に導入される",
+        "phase something into 〈制度・運用〉＝そこへ段階的に組み込む。名詞目的語はinの前後に置けるが、通常の代名詞目的語は phase と in の間に置く。"
+      ],
+      "collocations": [
+        {
+          "pattern": "phase in a new system",
+          "use": "新しい仕組みを少しずつ運用に取り入れる。",
+          "example": "The university will phase in a new booking system next term.",
+          "translation": "大学は来学期、新しい予約システムを段階的に導入する。"
+        },
+        {
+          "pattern": "phase something in over 〈期間〉",
+          "use": "全面的な導入までにかける期間を述べる。",
+          "example": "We plan to phase the new uniforms in over two years.",
+          "translation": "新しい制服は2年かけて段階的に導入する予定だ。"
+        },
+        {
+          "pattern": "phase it in",
+          "use": "既に話題になった変更を代名詞で受ける。",
+          "example": "The rule is ready, but we will phase it in department by department.",
+          "translation": "規則はできているが、部署ごとに段階的に導入する。"
+        },
+        {
+          "pattern": "be phased in gradually",
+          "use": "対象の側から、導入が徐々に進むことを述べる。",
+          "example": "Online registration is being phased in gradually across the network.",
+          "translation": "ネットワーク全体で、オンライン登録が徐々に導入されている。"
+        },
+        {
+          "pattern": "phase something into 〈制度・運用〉",
+          "use": "新しい要素を既存の制度などに少しずつ組み込む。",
+          "example": "The new modules will be phased into the existing training programme.",
+          "translation": "新しい学習単元は、既存の研修課程に段階的に組み込まれる。"
+        }
+      ],
+      "notes": [
+        "phase in the changes と phase the changes in はともに可能だが、× phase in them ではなく phase them in。in は「導入の方向」を表す小辞で、in the office のような場所の前置詞とは違う。The system is being phased in. は導入中、The system has been phased in. は文脈に応じて導入が進んだ・完了したことを表す。phase something into 〈制度・運用〉「そこへ段階的に組み込む」も使い、phase it into the existing programme のように into の後ろに組み込み先を置く。phased-in changes のように名詞前の複合修飾ではハイフンを使うことがある。名詞の a phase-in「段階的導入」と動詞の phase in を区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "introduce",
+          "definition": "新しいものを使用・運用の中へ取り入れる。",
+          "frequency": 8,
+          "difference": "phase in にある段階性を含まない。一斉導入にも使える。",
+          "example": "The council introduced a new recycling service in April.",
+          "translation": "市議会は4月に新しい資源回収サービスを導入した。"
+        },
+        {
+          "word": "roll out",
+          "definition": "新しい製品・制度などを利用できるように展開する。",
+          "frequency": 7,
+          "difference": "利用対象へ展開することに焦点がある。段階的な場合も多いが、phase in ほど段階性が語自体に組み込まれていない。",
+          "example": "The company rolled out the service nationwide.",
+          "translation": "会社はそのサービスを全国に展開した。"
+        },
+        {
+          "word": "implement",
+          "definition": "計画・制度・決定を実行に移す。",
+          "frequency": 8,
+          "difference": "実施することが中心で、導入の速さや段階の数は指定しない。",
+          "example": "The school implemented the revised timetable in September.",
+          "translation": "学校は9月に改訂した時間割を実施した。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "phase out",
+          "definition": "使用や運用を段階的に終える。",
+          "frequency": 7,
+          "difference": "段階性を共有したまま、導入と廃止の方向が反対になる。",
+          "example": "The old cards will be phased out as the digital passes become available.",
+          "translation": "デジタル通行証が使えるようになるのに合わせて、旧カードは段階的に廃止される。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【句動詞・他動詞、分離可能】段階的に廃止する、徐々に使用をやめる",
+      "frequency": 7,
+      "register": [
+        "一般語。ニュース、企業活動、技術更新、環境政策など。"
+      ],
+      "definition": "製品・設備・制度・慣行などの使用や提供を、段階を追って減らし、終える方向へ進める。phase out の形で、最終的な廃止が方向として含まれる。ただし、進行形や計画の表現が廃止の完了を保証するわけではない。",
+      "patterns": [
+        "phase out something / phase something out＝物事を段階的に廃止する",
+        "phase it/them out＝それ・それらを廃止していく",
+        "phase something out over 〈期間〉＝その期間をかけて廃止する",
+        "phase something out by 〈期限〉＝その期限までに廃止する",
+        "something + be phased out＝段階的に廃止される。"
+      ],
+      "collocations": [
+        {
+          "pattern": "phase out older equipment",
+          "use": "古い設備を少しずつ使用対象から外す。",
+          "example": "The laboratory is phasing out older equipment as replacements arrive.",
+          "translation": "研究所では、代替機器が届くのに合わせて古い設備の使用を順次やめている。"
+        },
+        {
+          "pattern": "phase something out by 〈期限〉",
+          "use": "廃止を完了させる予定の期限を示す。",
+          "example": "The company plans to phase printed manuals out by the end of next year.",
+          "translation": "会社は来年末までに、紙の取扱説明書を段階的に廃止する予定だ。"
+        },
+        {
+          "pattern": "phase them out",
+          "use": "既に述べた複数の対象を代名詞で受ける。",
+          "example": "These badges still work, but we are phasing them out.",
+          "translation": "これらの入館証はまだ使えるが、段階的に廃止している。"
+        },
+        {
+          "pattern": "be phased out over 〈期間〉",
+          "use": "廃止を進める期間を受動形で述べる。",
+          "example": "The old software will be phased out over the next eighteen months.",
+          "translation": "古いソフトウェアは、今後18か月かけて段階的に廃止される。"
+        },
+        {
+          "pattern": "phase out the use of something",
+          "use": "物そのものの消滅ではなく、使用をやめることを明確にする。",
+          "example": "The hotel is phasing out the use of disposable toiletries.",
+          "translation": "ホテルは、使い捨てのアメニティー用品の使用を段階的にやめている。"
+        }
+      ],
+      "notes": [
+        "通常の代名詞は phase it out / phase them out とし、× phase out it とはしない。phase out は廃止へ向かう表現で、単なる削減は phase down（語義6）。phase out the use of a chemical はその化学物質を一般に禁止する法的行為まで意味せず、主語がどの範囲の使用をやめるかは文脈で決まる。a phased-out product は段階的廃止を経た製品、The product was phased out. は動詞の受動形。a phase-out plan の phase-out は名詞を前に置いた修飾。発音が同じでも faze out とは書かない。"
+      ],
+      "synonyms": [
+        {
+          "word": "discontinue",
+          "definition": "製品の製造・販売やサービスの提供などをやめる。",
+          "frequency": 6,
+          "difference": "phase out の段階性を含まず、ある日を境に終了する場合にも使う。",
+          "example": "The manufacturer discontinued that model last spring.",
+          "translation": "メーカーは昨年の春にそのモデルの製造を終了した。"
+        },
+        {
+          "word": "withdraw",
+          "definition": "製品・サービスなどを市場や利用対象から引き上げる。",
+          "frequency": 6,
+          "difference": "提供先から取り下げることに焦点があり、徐々に進むことや永久的な廃止までは指定しない。",
+          "example": "The publisher withdrew the faulty edition from sale.",
+          "translation": "出版社は不備のある版を販売から引き上げた。"
+        },
+        {
+          "word": "retire",
+          "definition": "設備・製品などを現役の使用から外す。",
+          "frequency": 5,
+          "difference": "人の引退になぞらえて使用終了を表す。phase out と違い、一つの機器を一度に使用停止する場合にも使う。",
+          "example": "We retired the last of the original servers in June.",
+          "translation": "6月に、初期のサーバーの最後の1台を使用から外した。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "phase in",
+          "definition": "新しいものを段階的に導入する。",
+          "frequency": 6,
+          "difference": "段階性は共通し、導入と廃止という方向が反対になる。",
+          "example": "The replacement system will be phased in one office at a time.",
+          "translation": "代替システムは、事務所ごとに順次導入される。"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "【動詞・他動詞、受動態が多い】段階に分けて実施する",
+      "frequency": 5,
+      "register": [
+        "業務、計画、政策などのやや硬い語。"
+      ],
+      "definition": "工事・変更・移転・撤退などを、計画した複数の段階に分けて実行する。phase 単独の他動詞用法。実施方法を表し、導入・廃止のどちらかに限られない。",
+      "patterns": [
+        "phase 〈工事・変更・撤退など〉＝段階に分けて実施する",
+        "phase something over 〈期間〉＝その期間にわたって段階的に行う",
+        "something + be phased over 〈期間〉＝段階的に実施される",
+        "something + be carefully phased＝段階を慎重に組んで実施される。"
+      ],
+      "collocations": [
+        {
+          "pattern": "phase construction",
+          "use": "工事をまとめて一度に進めず、工程を区切る。",
+          "example": "The architects phased construction to keep part of the school open.",
+          "translation": "建築家たちは学校の一部を使い続けられるよう、工事を段階に分けた。"
+        },
+        {
+          "pattern": "phase the changes over 〈期間〉",
+          "use": "変更を実施する全期間を示す。",
+          "example": "We will phase the changes over three budget cycles.",
+          "translation": "変更は3回の予算編成期間にわたって段階的に実施する。"
+        },
+        {
+          "pattern": "be phased over 〈期間〉",
+          "use": "段階的に実施される対象を主語にする。",
+          "example": "The move to the new campus will be phased over six months.",
+          "translation": "新キャンパスへの移転は、6か月かけて段階的に行われる。"
+        },
+        {
+          "pattern": "be carefully phased",
+          "use": "各段階の進め方が慎重に調整されていることを述べる。",
+          "example": "The withdrawal was carefully phased to avoid leaving teams without support.",
+          "translation": "各チームが支援を失わないよう、撤退は段階を慎重に調整して実施された。"
+        }
+      ],
+      "notes": [
+        "phase the work は仕事を段階的に行うこと、phase the work out はその仕事を段階的に終わらせること。out を付けると中心意味が変わる。The changes will be phased over a year. だけで「一年後に開始する」や「一年延期する」という意味にはならない。phased construction の phased は名詞前で実施方式を示す形容詞（語義5）として働く。通常の業務用法で「自分が段階的に進む」を × I phase. と一般化しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "stagger",
+          "definition": "複数の実施時刻・時期を互いにずらす。",
+          "frequency": 6,
+          "difference": "phase は計画の段階分け、stagger は複数対象の時間差に焦点がある。",
+          "example": "They staggered the delivery dates to avoid overloading the warehouse.",
+          "translation": "倉庫に荷物が集中しないよう、納入日をずらした。"
+        },
+        {
+          "word": "spread out",
+          "definition": "作業や支出などを一定期間に分散する。",
+          "frequency": 7,
+          "difference": "phase より会話的で、明確に名前の付いた工程や段階がなくても使える。",
+          "example": "We spread the training out over several weeks.",
+          "translation": "研修は数週間に分散させた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【形容詞・過去分詞由来、主に限定用法】段階的な",
+      "frequency": 6,
+      "register": [
+        "仕事、行政、事業計画など。実施方式の説明。"
+      ],
+      "definition": "行為・計画・実施方式が、一度に完了させず計画した段階に分かれている。phased の形で、導入、再開、撤退、方法などを修飾する。進行がただ遅いという意味ではない。",
+      "patterns": [
+        "a phased approach＝段階を踏む方法",
+        "phased implementation＝段階的な実施",
+        "a phased withdrawal/reopening＝段階的な撤退・再開",
+        "〈実施・移行〉 + be phased＝段階的な方式である。名詞前が中心で、be phased は語義4の受動態と重なる。通常、very phased や phaseder のような程度・比較形は使わない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a phased approach to something",
+          "use": "取り組みを段階に分ける方針を述べる。",
+          "example": "We recommend a phased approach to replacing the equipment.",
+          "translation": "設備の交換には、段階を踏む方法を勧める。"
+        },
+        {
+          "pattern": "phased implementation",
+          "use": "制度や計画の実施方式を表す。",
+          "example": "Phased implementation will allow us to learn from the first group.",
+          "translation": "段階的に実施すれば、最初のグループで得られた経験を生かせる。"
+        },
+        {
+          "pattern": "a phased reopening",
+          "use": "施設などを一斉に全面再開せず順次開けることを述べる。",
+          "example": "A phased reopening will begin with the ground floor.",
+          "translation": "段階的な再開は、1階から始める。"
+        },
+        {
+          "pattern": "a phased withdrawal",
+          "use": "人員・部隊などを複数回に分けて撤収することを表す。",
+          "example": "The agreement provides for a phased withdrawal of personnel.",
+          "translation": "合意では、人員を段階的に撤収させることが定められている。"
+        }
+      ],
+      "notes": [
+        "phased の一語にはハイフンを入れない。a phased introduction は段階的な導入、a phased withdrawal は段階的な撤退であり、phased 自体は増加・減少の方向を決めない。The introduction is phased. は方式の説明にもなるが、become phased / get phased を一般的な形容詞の連語として覚える必要はない。「動じない」は unfazed で、unphased をそのつもりで書かない。phased-in / phased-out のような小辞付きの修飾は、導入・廃止の方向を加える。"
+      ],
+      "synonyms": [
+        {
+          "word": "staged",
+          "definition": "計画した段階に分けられた。",
+          "frequency": 5,
+          "difference": "この意味では phased に近い。staged には「演出された、やらせの」という別義もあるので、staged implementation など目的の分かる名詞と結び付ける。",
+          "example": "A staged transition will reduce the pressure on the support team.",
+          "translation": "段階に分けた移行によって、サポートチームへの負担を減らせる。"
+        },
+        {
+          "word": "gradual",
+          "definition": "急激でなく、少しずつ進む。",
+          "frequency": 8,
+          "difference": "phased の計画的な段階分けを含まず、自然に少しずつ変わる場合にも使える。",
+          "example": "There has been a gradual improvement in response times.",
+          "translation": "応答時間は徐々に改善している。"
+        },
+        {
+          "word": "step-by-step",
+          "definition": "手順を一つずつ進める。",
+          "frequency": 7,
+          "difference": "phased より具体的な作業順序に焦点があり、説明書や案内にもよく使う。",
+          "example": "The guide gives a step-by-step explanation of the setup process.",
+          "translation": "その案内には、設定手順が一つずつ説明されている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【句動詞・他動詞、分離可能】段階的に削減する、徐々に縮小する",
+      "frequency": 4,
+      "register": [
+        "政策、環境、産業など。phase in",
+        "out より使用領域が限られる。"
+      ],
+      "definition": "使用量、生産量、活動規模などを段階的に減らす。phase down の形で使う。phase out と異なり、最終的にゼロにすることを語だけでは要求しない。",
+      "patterns": [
+        "phase down something / phase something down＝物事の量・規模を段階的に減らす",
+        "phase it/them down＝それ・それらを縮小する",
+        "something + be phased down＝段階的に削減される",
+        "phase something down to 〈水準〉＝その水準まで削減する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "phase down production",
+          "use": "生産規模を何段階かに分けて縮小する。",
+          "example": "The manufacturer will phase down production as demand falls.",
+          "translation": "メーカーは需要の減少に合わせて、生産を段階的に縮小する。"
+        },
+        {
+          "pattern": "phase down the use of something",
+          "use": "特定の物質や資源の使用量を減らす。",
+          "example": "The plan aims to phase down the use of high-emission fuels.",
+          "translation": "その計画は、排出量の多い燃料の使用を段階的に減らすことを目指している。"
+        },
+        {
+          "pattern": "phase something down to 〈水準〉",
+          "use": "削減後に残る量・規模を示す。",
+          "example": "They will phase the programme down to half its present size.",
+          "translation": "その事業を、現在の半分の規模まで段階的に縮小する。"
+        },
+        {
+          "pattern": "phase it down",
+          "use": "既出の活動などを代名詞で受ける。",
+          "example": "We cannot stop the operation at once, but we can phase it down.",
+          "translation": "事業をすぐに止めることはできないが、段階的に縮小することはできる。"
+        }
+      ],
+      "notes": [
+        "代名詞は phase it down と間に置く。phase down は削減の方向、phase out は廃止へ向かう方向を示す。政策文書の phase-down / phase-out では、どの対象を、いつまでに、どれだけ減らすかは文書による。語そのものから法的義務、例外、期限を推測しない。cut down も削減を表すが、phase down は段階性を明示する。"
+      ],
+      "synonyms": [
+        {
+          "word": "scale down",
+          "definition": "規模・量を小さくする。",
+          "frequency": 6,
+          "difference": "phase down と重なるが、複数段階で減らす必要はない。",
+          "example": "The organizers scaled down the event after losing a sponsor.",
+          "translation": "主催者はスポンサーを失い、催しの規模を縮小した。"
+        },
+        {
+          "word": "reduce",
+          "definition": "量・程度・規模を減らす。",
+          "frequency": 9,
+          "difference": "最も広い中立的な表現で、削減の速度や方法を指定しない。",
+          "example": "The new process reduces water consumption.",
+          "translation": "新しい工程は水の使用量を減らす。"
+        },
+        {
+          "word": "wind down",
+          "definition": "活動を徐々に弱め、終わりへ向かわせる。",
+          "frequency": 6,
+          "difference": "phase down より終了に近づく含みが強い。phase down は一定水準での継続にも使える。",
+          "example": "The team is winding down operations at the old office.",
+          "translation": "チームは旧事務所での業務を、終了に向けて徐々に縮小している。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【名詞・可算】月・惑星の満ち欠けの形、月相",
+      "frequency": 6,
+      "register": [
+        "天文・一般語。特に the phases of the moon がよく使われる。"
+      ],
+      "definition": "月や惑星の、太陽に照らされた部分が地球からどのような形に見えるかを、周期的な変化の一段階として捉えたもの。月なら新月、上弦、満月などがそれぞれの phase に当たる。",
+      "patterns": [
+        "a phase of the moon＝月相の一つ",
+        "the phases of the moon＝月の満ち欠け",
+        "the lunar phase＝その時の月相",
+        "the phases of Venus＝金星の満ち欠け。moon phase という名詞の組み合わせも使う。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the phases of the moon",
+          "use": "月の見え方の周期的な変化をまとめて述べる。",
+          "example": "The class recorded the phases of the moon for a month.",
+          "translation": "クラスでは、1か月間にわたって月の満ち欠けを記録した。"
+        },
+        {
+          "pattern": "the lunar phase",
+          "use": "ある時点の月相を示す。",
+          "example": "The app displays the current lunar phase beside the date.",
+          "translation": "アプリは日付の横に、現在の月相を表示する。"
+        },
+        {
+          "pattern": "the phases of Venus",
+          "use": "月以外の天体の満ち欠けを述べる。",
+          "example": "A small telescope can reveal the changing phases of Venus.",
+          "translation": "小型の望遠鏡でも、金星の満ち欠けの変化を観察できる。"
+        }
+      ],
+      "notes": [
+        "phase は「月そのものの形が変わる」という意味ではなく、照らされた部分の見え方を表す。通常の月の満ち欠けを、地球の影で起こる月食と混同しない。the moon's phase のような所有格も可能。月が満ちていくのは waxing、欠けていくのは waning で、これらは phase の類義語ではなく変化の方向を示す語。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【名詞・可算・不可算】位相",
+      "frequency": 4,
+      "register": [
+        "物理、音響、信号処理、電気などの専門語。"
+      ],
+      "definition": "波・振動などの周期的な変化が、基準に対して周期のどの位置まで進んでいるかを表す量・状態。角度などで表す。in phase は周期上の位置がそろっていること、out of phase はずれていることを示す。",
+      "patterns": [
+        "the phase of a wave/signal＝波・信号の位相",
+        "a phase difference between 〈二つの信号など〉＝両者の位相差",
+        "a phase shift of 〈角度〉＝その角度の位相のずれ",
+        "in phase with something＝それと同相で",
+        "out of phase with something＝それと位相がずれて",
+        "〈角度〉 out of phase＝その角度だけ位相がずれて。in/out of phase では無冠詞。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the phase of a signal",
+          "use": "信号が周期のどの位置にあるかを論じる。",
+          "example": "The instrument measures the phase of the signal relative to a reference.",
+          "translation": "その計器は、基準に対する信号の位相を測定する。"
+        },
+        {
+          "pattern": "a phase difference",
+          "use": "二つの周期的な信号の位置の違いを表す。",
+          "example": "The two signals have a phase difference of ninety degrees.",
+          "translation": "二つの信号には90度の位相差がある。"
+        },
+        {
+          "pattern": "in phase with something",
+          "use": "二つの波・信号の位相がそろっていることを述べる。",
+          "example": "The second signal is in phase with the first.",
+          "translation": "2番目の信号は、最初の信号と同相である。"
+        },
+        {
+          "pattern": "〈角度〉 out of phase",
+          "use": "位相差の大きさを明示する。",
+          "example": "The two sine waves are 180 degrees out of phase.",
+          "translation": "二つの正弦波の位相は180度ずれている。"
+        },
+        {
+          "pattern": "a phase shift",
+          "use": "位相が変化したり、基準からずれたりすることを示す。",
+          "example": "The filter introduces a phase shift at that frequency.",
+          "translation": "フィルターは、その周波数で位相のずれを生じさせる。"
+        }
+      ],
+      "notes": [
+        "位相は周波数 frequency や振幅 amplitude と別の量。同じ周波数でも位相は異なり得る。out of phase は一般には位相が一致しないことで、常に180度の逆相を意味するわけではない。角度や分野を確認する。in-phase signals のように名詞前ではハイフンを使うが、The signals are in phase. では通常ハイフンを付けない。日常・業務上の「タイミングが合う」という比喩的な in phase は語義11。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 9,
+      "title": "【名詞・可算】相、物理的に区別される均質な部分",
+      "frequency": 4,
+      "register": [
+        "化学、物理、材料などの専門語。"
+      ],
+      "definition": "物質系の中で、組成や物理的性質が均質で、他の部分と区別される領域。固相・液相・気相などを指す。単に「固体・液体・気体の三状態」と一対一ではなく、混ざり合わない二つの液体が別々の相を作ることもある。",
+      "patterns": [
+        "the solid/liquid/gas phase＝固相・液相・気相",
+        "in the liquid phase＝液相で",
+        "two distinct phases＝区別される二つの相",
+        "a phase transition/change＝相転移・相変化",
+        "a phase diagram＝相図。種類を表す複合語では phase が名詞を前から修飾する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "in the liquid phase",
+          "use": "物質が液相にあることを述べる。",
+          "example": "At this point in the process, the material is in the liquid phase.",
+          "translation": "工程のこの時点では、物質は液相にある。"
+        },
+        {
+          "pattern": "two distinct phases",
+          "use": "同じ系の中に区別できる相があることを表す。",
+          "example": "After settling, the oil and water formed two distinct phases.",
+          "translation": "静置すると、油と水は区別される二つの相を形成した。"
+        },
+        {
+          "pattern": "a phase transition",
+          "use": "物質の相が別の相へ変わることを述べる。",
+          "example": "Melting is a phase transition from a solid to a liquid.",
+          "translation": "融解は、固体から液体への相転移である。"
+        },
+        {
+          "pattern": "a phase diagram",
+          "use": "温度・圧力などに応じた相の領域を示す図を指す。",
+          "example": "The phase diagram shows where the solid and liquid phases coexist.",
+          "translation": "相図は、固相と液相が共存する領域を示している。"
+        }
+      ],
+      "notes": [
+        "この phase は時間上の「工程」とは異なり、複数の相が同時に存在できる。同じ液体という状態でも、混ざり合わない油と水は別の相として扱える。phase transition は相が変わることであり、必ず化学反応で別の物質になることを意味しない。日本語の「液体」は状態を指すことも個体を指すこともあるため、liquid phase の訳では専門的な「液相」を保つ。"
+      ],
+      "synonyms": [
+        {
+          "word": "state of matter",
+          "definition": "固体・液体・気体など、物質の基本的な物理状態。",
+          "frequency": 4,
+          "difference": "phase と一部重なるが、同じ state of matter に複数の相が含まれることがあるため、厳密には同義ではない。",
+          "example": "The lesson compares three familiar states of matter.",
+          "translation": "その授業では、身近な三つの物質の状態を比較する。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 10,
+      "title": "【名詞・可算】交流電力系統の相",
+      "frequency": 3,
+      "register": [
+        "電気工学・電力設備の専門語。"
+      ],
+      "definition": "交流の電力系統で、他と位相の関係を持つ電圧・電流、またはそれに対応する回路の区分。一相の交流を用いる方式を single-phase、三相の交流を用いる方式を three-phase と呼ぶ。語義8の「位相」という量と関係するが、ここでは系統を構成する相を数える。",
+      "patterns": [
+        "one/each of the three phases＝三相の一つ・それぞれ",
+        "a current in each phase＝各相を流れる電流",
+        "single-phase power＝単相電力",
+        "a three-phase motor＝三相モーター。single-phase / three-phase は名詞前で使う複合形容詞。"
+      ],
+      "collocations": [
+        {
+          "pattern": "each of the three phases",
+          "use": "三相系統の各相を区別して述べる。",
+          "example": "The monitor records the current in each of the three phases.",
+          "translation": "モニターは、三相それぞれに流れる電流を記録する。"
+        },
+        {
+          "pattern": "a three-phase motor",
+          "use": "三相交流で動くモーターを指す。",
+          "example": "The pump is driven by a three-phase motor.",
+          "translation": "ポンプは三相モーターで駆動される。"
+        }
+      ],
+      "notes": [
+        "three-phase は「三段階の」ではなく、電力方式としての「三相の」。a three-phase supply と名詞を修飾するとき、phase は単数形でハイフンを付ける。三相を three wires「3本の線」と常に同一視しない。配線方式によって導線の構成は異なるため、ここでは語彙上の区分を示す。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 11,
+      "title": "【名詞を含む慣用表現】歩調・タイミングが合っている／ずれている",
+      "frequency": 4,
+      "register": [
+        "一般語。特に英語圏の英国用法として示す学習辞書がある。機械の動作や活動の調整など。"
+      ],
+      "definition": "in phase / out of phase の形で、複数の動作・活動などのタイミングや進み方が、互いにかみ合っている／かみ合っていないことを表す。波の位相の表現を一般の動作・計画に広げた用法。",
+      "patterns": [
+        "be in phase with something＝それと歩調・タイミングが合う",
+        "be out of phase with something＝それとずれている",
+        "〈複数の活動など〉 + be in/out of phase＝互いのタイミングが合う・ずれる。withの後ろの比較対象は、文脈で明らかなら省ける。"
+      ],
+      "collocations": [
+        {
+          "pattern": "be in phase with something",
+          "use": "二つの活動が時間的にうまくかみ合っていることを述べる。",
+          "example": "The delivery schedule is now in phase with the production timetable.",
+          "translation": "納入日程は今では、生産日程とうまくかみ合っている。"
+        },
+        {
+          "pattern": "be out of phase",
+          "use": "機器などの動作のタイミングが合っていないことを述べる。",
+          "example": "The traffic lights at the two junctions were out of phase.",
+          "translation": "二つの交差点の信号は、切り替えのタイミングが合っていなかった。"
+        }
+      ],
+      "notes": [
+        "この表現では無冠詞・単数の phase。in phases「複数の段階に分けて」（語義1）と混同しない。in phase with the schedule は「日程と歩調が合う」、in the final phase of the schedule は「日程の最終段階にある」。withの後ろは比較する対象で、phase in the system「システムを導入する」のinとは構造が違う。人同士の一般的な気持ちの一致まで何でも in phase にせず、その意味なら in tune / in sync などを文脈に応じて選ぶ。"
+      ],
+      "synonyms": [
+        {
+          "word": "in sync",
+          "definition": "動作や進み方のタイミングが合っている。",
+          "frequency": 6,
+          "difference": "in phase より会話的で、作業・予定のほか、人の動作などにも広く使う。",
+          "example": "The two teams are finally working in sync.",
+          "translation": "二つのチームは、ようやく足並みをそろえて働いている。"
+        },
+        {
+          "word": "out of sync",
+          "definition": "動作や進み方のタイミングがずれている。",
+          "frequency": 6,
+          "difference": "out of phase の側に対応する。映像と音声、予定などのずれにも使う。",
+          "example": "The subtitles were out of sync with the dialogue.",
+          "translation": "字幕とせりふのタイミングがずれていた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 12,
+      "title": "【動詞・他動詞】位相・動作のタイミングを合わせる",
+      "frequency": 3,
+      "register": [
+        "技術・機械などの専門的な用法。日常的な予定調整では synchronize",
+        "coordinate が分かりやすい。"
+      ],
+      "definition": "機構・工程・信号などが、別のものと必要なタイミングで働くよう調整する。段階的に実施する語義4とは別の、同期・位相調整を表す用法。",
+      "patterns": [
+        "phase 〈機構・工程など〉＝動作のタイミングを調整する",
+        "phase something with something＝二つのもののタイミングを合わせる",
+        "something + be phased with something＝別のものとタイミングが合うように調整される。"
+      ],
+      "collocations": [
+        {
+          "pattern": "phase something with something",
+          "use": "機械の二つの動作がかみ合うよう調整する。",
+          "example": "The engineer phased the feeder with the press so that sheets arrived at the right moment.",
+          "translation": "技術者は、用紙が適切な瞬間に届くよう、給紙装置の動作をプレス機に合わせた。"
+        },
+        {
+          "pattern": "be phased with something",
+          "use": "機構同士のタイミングが調整されていることを述べる。",
+          "example": "The conveyor must be phased with the filling mechanism.",
+          "translation": "コンベヤーは、充填機構と動作のタイミングを合わせなければならない。"
+        }
+      ],
+      "notes": [
+        "phase something with something の with は同期させる相手を導く。phase something over six months は「6か月かけて段階的に実施する」（語義4）であり、前置詞と対象が違う。phased array「フェーズドアレイ」は各素子の信号の位相を調整する技術用語で、語義5の単純な「段階的な配列」とは訳さない。"
+      ],
+      "synonyms": [
+        {
+          "word": "synchronize",
+          "definition": "複数の動作の時刻・タイミングを合わせる。",
+          "frequency": 6,
+          "difference": "この意味の phase より対象が広く、時計、動作、データ更新などにも使う。必要なタイミングの関係は文脈で決まる。",
+          "example": "The technician synchronized the two recording devices.",
+          "translation": "技術者は、二つの録音機器のタイミングを合わせた。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
