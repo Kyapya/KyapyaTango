@@ -1,0 +1,359 @@
+{
+  "word": "consign",
+  "slug": "consign",
+  "ipa": "米・英: /kənˈsaɪn/",
+  "lead": "人や物を、望ましくない場所・境遇、忘れ去られる状態、廃棄先などへ移す。単なる位置の変更よりも、「その対象をそこへ片づけてしまう」「その運命を決めてしまう」という強い響きがある。悪い結果を述べることが多いが、悪習を過去のものにする場合など、話者がその結果を歓迎することもある。",
+  "updated": "2026-10-19",
+  "notion_url": "https://app.notion.com/p/consign-3fe4faa9b77d813e994eca79ccfb4c83",
+  "pronunciation": [
+    "2音節で、第2音節に主強勢を置く。第1音節の母音は弱い /ə/。綴りの g は発音せず、語末は /n/ になる。consigned は /kənˈsaɪnd/、consigning は /kənˈsaɪ.nɪŋ/。"
+  ],
+  "etymology": [
+    "フランス語 consigner を経て、ラテン語 consignare「印を付ける、封印する」にさかのぼる。ラテン語の con- と signum「印」に関係する語で、封印・記録という背景を持つが、現代の consign に「署名する」という意味をそのまま当てはめない。",
+    "sign「印、署名する」と signal「合図」も signum に由来する。「人の手や行き先に引き渡す」という現代の意味を、単に con- と sign の足し算で推測することはできない。"
+  ],
+  "formation": [
+    {
+      "term": "consigns / consigned / consigning",
+      "description": "動詞の三人称単数現在形、過去形・過去分詞、現在分詞。consigned の -ed は /d/。"
+    },
+    {
+      "term": "consignment",
+      "description": "名詞。発送すること、発送された一口の貨物、販売の委託を表す。on consignment は「委託販売で」。"
+    },
+    {
+      "term": "consignor",
+      "description": "可算名詞。「荷送人」または「販売委託者」。送る・委ねる側を指す。"
+    },
+    {
+      "term": "consignee",
+      "description": "可算名詞。「荷受人」または「販売受託者」。受け取る・委託を受ける側を指す。"
+    },
+    {
+      "term": "consigned goods",
+      "description": "過去分詞が名詞を修飾する形。「発送された商品」「販売を委託された商品」などで、文脈によって意味が決まる。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "核は「対象の行き先・扱い先を定め、そこに振り向けること」。行き先が忘却や廃棄なら処分・追放、配送先なら発送、売り手なら販売委託、管理する人なら保管の委託、特定の用途なら目的に応じた割当てになる。所有権の移転や、二度と取り戻せないことまで全語義に共通するわけではない。"
+    },
+    {
+      "type": "item",
+      "text": "対象を好ましくない行き先に移すこと → 「追いやる、処分に回す」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "対象を配送先に向けて送り出すこと → 「発送する、宛てて送る」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "対象を販売する相手の手に移すこと → 「販売を委託する」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "対象を管理する相手の手に移すこと → 「預ける、管理を委ねる」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "対象を特定の用途に振り向けること → 「割り当てる、充てる」（語義5）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞】追いやる、処分に回す",
+      "frequency": 5,
+      "register": [
+        "フォーマル・報道・評論・物語。物の処分にも使うが、日常の単純なごみ捨てには throw away などが普通。"
+      ],
+      "definition": "人や物を、望ましくない場所・境遇、忘れ去られる状態、廃棄先などへ移す。単なる位置の変更よりも、「その対象をそこへ片づけてしまう」「その運命を決めてしまう」という強い響きがある。悪い結果を述べることが多いが、悪習を過去のものにする場合など、話者がその結果を歓迎することもある。",
+      "patterns": [
+        "consign someone/something to 〈場所・境遇・結末〉＝その行き先へ追いやる",
+        "be consigned to 〈場所・境遇・結末〉＝そこへ追いやられる。to の後は名詞句で、目的を表す to 不定詞とは区別する。主語には人・組織だけでなく、政策・出来事などの原因も置ける。"
+      ],
+      "collocations": [
+        {
+          "pattern": "consign something to oblivion",
+          "use": "作品や業績などを、世間から忘れ去られたものにすることを述べる。",
+          "example": "The collapse of the publisher consigned several promising novels to oblivion.",
+          "translation": "出版社の倒産によって、期待を集めていた小説が何冊も忘れ去られてしまった。"
+        },
+        {
+          "pattern": "consign something to history",
+          "use": "慣行や制度を過去のものにし、現在の社会から退けることを述べる。",
+          "example": "The reform aims to consign discriminatory hiring practices to history.",
+          "translation": "その改革は、差別的な採用慣行を過去のものにすることを目指している。"
+        },
+        {
+          "pattern": "consign someone to poverty",
+          "use": "人を貧困という望ましくない境遇に追い込むことを述べる。",
+          "example": "Losing the family business consigned them to years of poverty.",
+          "translation": "家業を失ったことで、彼らは何年も貧しい生活を強いられた。"
+        },
+        {
+          "pattern": "consign something to the flames",
+          "use": "物を火に投じて焼き捨てることを、重みのある文体で表す。",
+          "example": "In the final scene, she consigns the forged letters to the flames.",
+          "translation": "最後の場面で、彼女は偽造された手紙を火に投じる。"
+        },
+        {
+          "pattern": "be consigned to the scrap heap",
+          "use": "機械や設備が、不要品として廃棄に回されることを述べる。",
+          "example": "The obsolete presses were consigned to the scrap heap after the factory closed.",
+          "translation": "工場が閉鎖された後、旧式の印刷機は廃棄処分に回された。"
+        },
+        {
+          "pattern": "consign someone to prison",
+          "use": "人を刑務所へ送り込むことを、フォーマルな文章で述べる。",
+          "example": "The judge's decision consigned him to prison for the rest of his life.",
+          "translation": "裁判官の判断により、彼は残りの人生を刑務所で過ごすことになった。"
+        }
+      ],
+      "notes": [
+        "consign it to the bin「それをごみ箱に捨てる」のように目的語は consign の直後に置く。to は前置詞であり、分離する小辞ではない。× consign to oblivion it ではなく、○ consign it to oblivion。consign someone to prison 自体は、判決を言い渡す手続きの名称ではなく、収監という結果に焦点を置く。be consigned to the grave は「墓に葬られる」という荘重な表現。consign yourself to という再帰形も文脈上は作れるが、resign yourself to「仕方がないと受け入れる」の通常の代わりにはならない。be consigned to は受動態であり、consigned に独立した心理状態の意味を与えない。語義2の consigned to Osaka「大阪宛てに発送された」とは、to の後に示す行き先と文脈で区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "relegate",
+          "definition": "人や物を低い地位、目立たない場所、重要でない役割へ追いやる。",
+          "frequency": 5,
+          "difference": "地位・重要性を下げる点が中心。consign は廃棄先や最終的な境遇へ送る場合にも使い、必ずしも順位の低下を表さない。",
+          "example": "The new layout relegates regional news to the back pages.",
+          "translation": "新しい紙面構成では、地域ニュースが後ろのページに追いやられている。"
+        },
+        {
+          "word": "condemn",
+          "definition": "人を苦しい境遇や逃れにくい運命に置く。",
+          "frequency": 5,
+          "difference": "condemn someone to では、苦痛や不幸から逃れられないという評価が強い。consign は物の処分や過去のものにすることにも使う。",
+          "example": "The injury condemned him to months of inactivity.",
+          "translation": "そのけがのため、彼は何か月も活動できない生活を強いられた。"
+        },
+        {
+          "word": "discard",
+          "definition": "不要になった物や役に立たないと判断した案を捨てる。",
+          "frequency": 7,
+          "difference": "物や案を処分する場合に意味が重なるが、行き先を示す必要がない。人を貧困や忘却へ追いやる意味には置き換えられない。",
+          "example": "We discarded the damaged packaging before storing the goods.",
+          "translation": "私たちは商品を保管する前に、破損した梱包材を捨てた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【動詞・他動詞】発送する、宛てて送る",
+      "frequency": 4,
+      "register": [
+        "商業・物流・貿易。日常の小包やメールには send が広く使われる。"
+      ],
+      "definition": "貨物・商品などを、指定した受取人や場所へ送る。特に商取引・輸送の文章で、何を誰宛てに発送するかを表す。発送したという意味であり、到着や受領が完了したこと、委託販売であることまでは示さない。",
+      "patterns": [
+        "consign 〈貨物〉 to 〈受取人・配送先〉＝貨物をその相手・場所宛てに送る",
+        "consign 〈貨物〉 by air/rail＝航空便・鉄道便で発送する",
+        "〈貨物〉 + be consigned to 〈受取人・配送先〉＝貨物がその宛先へ発送される。目的語は送る物で、受取人は to で導く。"
+      ],
+      "collocations": [
+        {
+          "pattern": "consign goods to 〈受取人〉",
+          "use": "商用貨物の受取人を示す。",
+          "example": "The supplier consigned the replacement parts to our distributor in Nairobi.",
+          "translation": "仕入先は交換部品を、ナイロビにある当社の販売代理店宛てに発送した。"
+        },
+        {
+          "pattern": "consign a shipment to 〈配送先〉",
+          "use": "貨物一便の配送先を指定する。",
+          "example": "Please consign the shipment to our new warehouse rather than the head office.",
+          "translation": "その貨物は、本社ではなく新しい倉庫宛てに発送してください。"
+        },
+        {
+          "pattern": "consign goods by air",
+          "use": "発送に使う輸送手段を述べる。",
+          "example": "We consigned the urgent medical supplies by air.",
+          "translation": "私たちは緊急に必要な医療物資を航空便で発送した。"
+        },
+        {
+          "pattern": "be consigned to 〈受取人〉",
+          "use": "発送された貨物の宛先を、受動態で説明する。",
+          "example": "The crates were consigned to the laboratory, but they have not arrived yet.",
+          "translation": "その木箱は研究所宛てに発送されたが、まだ到着していない。"
+        }
+      ],
+      "notes": [
+        "× consign the customer the goods ではなく、○ consign the goods to the customer。「人に物を送る」でも、send のような二重目的語構文を通常使わない。consignor は荷送人、consignee は荷受人、carrier は運送人で、同じ役割ではない。輸送の consign は、売買の成立、所有権の所在、運賃の負担者を決める語ではない。語義1の consign goods to the scrap heap は廃棄に回す表現であり、この語義の通常の発送とは目的が異なる。単なる発送と語義3の販売委託が重なる取引もあるため、for sale や契約の記述を確認する。"
+      ],
+      "synonyms": [
+        {
+          "word": "send",
+          "definition": "人や物を、別の場所へ向かわせる。",
+          "frequency": 10,
+          "difference": "最も広く使え、荷物・手紙・情報などを対象にする。consign は商用貨物と指定された宛先を意識させる、専門的な表現。",
+          "example": "Could you send the samples to our office?",
+          "translation": "見本を当社の事務所へ送っていただけますか。"
+        },
+        {
+          "word": "dispatch",
+          "definition": "商品や荷物を、発送の手配を済ませて送り出す。",
+          "frequency": 6,
+          "difference": "出発・発送の実行に焦点を置く。consign は受取人や仕向け先を指定して引き渡すという側面が出やすい。",
+          "example": "The warehouse dispatched all outstanding orders this morning.",
+          "translation": "倉庫は今朝、未発送だった注文品をすべて発送した。"
+        },
+        {
+          "word": "ship",
+          "definition": "商品や荷物を、輸送手段を使って送る。",
+          "frequency": 8,
+          "difference": "船便に限らず、陸送や航空便にも使う。現代の配送案内では consign より広く使われ、委託や特定の管理関係を含意しない。",
+          "example": "We ship fresh flowers to customers across the country.",
+          "translation": "当社は全国の顧客に生花を発送している。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞・他動詞】販売を委託する",
+      "frequency": 4,
+      "register": [
+        "商業・美術品取引・オークション・中古品販売。専門的だが、委託販売店の案内にも現れる。"
+      ],
+      "definition": "商品・作品などを店や業者に預け、自分に代わって販売してもらう。預けた時点でその店に買い取ってもらう取引とは区別する。通常は、売れた後に契約に従って代金を精算するが、手数料、返品、保管期間などの条件は取引ごとに異なる。",
+      "patterns": [
+        "consign 〈商品・作品〉 to 〈店・業者〉＝その相手に販売を委託する",
+        "consign 〈商品・作品〉 for sale＝売ってもらうために預ける",
+        "consign 〈作品など〉 to 〈業者〉 for auction＝競売にかけてもらうために預ける",
+        "〈商品・作品〉 + be consigned for sale＝販売のために委託される。委託先が明らかな場合は consign 〈商品〉 だけでも使う。"
+      ],
+      "collocations": [
+        {
+          "pattern": "consign a painting to an auction house",
+          "use": "作品を競売会社に預け、出品・販売を任せる。",
+          "example": "The collector consigned three paintings to an auction house for its autumn sale.",
+          "translation": "その収集家は、秋の競売に出品するため、絵画3点の販売を競売会社に委託した。"
+        },
+        {
+          "pattern": "consign goods for sale",
+          "use": "物を引き渡す目的が販売委託であることを明示する。",
+          "example": "Local makers consign their pottery for sale in the museum shop.",
+          "translation": "地元の作り手たちは、美術館の売店に陶器の販売を委託している。"
+        },
+        {
+          "pattern": "consign something to 〈業者〉 for auction",
+          "use": "競売という販売方法まで指定する。",
+          "example": "She consigned the watch to a specialist dealer for auction, rather than selling it to the dealer outright.",
+          "translation": "彼女は時計を専門業者に買い取ってもらうのではなく、競売にかけてもらうために預けた。"
+        },
+        {
+          "pattern": "be consigned for sale",
+          "use": "販売を任せた品物の状態を受動態で述べる。",
+          "example": "These instruments have been consigned for sale and still belong to their original owners.",
+          "translation": "これらの楽器は販売を委託されたもので、まだ元の所有者のものだ。"
+        }
+      ],
+      "notes": [
+        "consign a watch to a dealer は販売を委託すること、sell a watch to a dealer はその業者に売ることで、同じではない。委託販売では、通常、預けたことだけで委託先に所有権が移るわけではない。ただし、債権者に対する権利、損失負担、返品条件などは契約や法域によって別に定まる。consign は商品・作品を目的語に取り、× consign a shop to sell my watch を「店に時計を売ってもらう」の標準形にしない。○ consign my watch to a shop for sale とする。名詞表現 on consignment と混同して、動詞に必ず on を添える必要はない。consigned stock の consigned は、この動詞に由来する分詞修飾。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞・他動詞】預ける、管理を委ねる",
+      "frequency": 3,
+      "register": [
+        "フォーマル・文語。保管、管理、身柄の引き渡しなど。"
+      ],
+      "definition": "人や物を他者の保護・保管・管理に引き渡す。物を運ぶことや販売すること自体よりも、世話や管理を別の相手に任せる点を表す。かなり改まった言い方で、日常会話では entrust や leave in someone's care などが使われる。",
+      "patterns": [
+        "consign someone/something to someone's care＝人・物をその人の世話や管理に委ねる",
+        "consign something to 〈管理者〉 for safekeeping＝安全に保管してもらうために預ける",
+        "consign someone/something to the custody of 〈人・組織〉＝保護・管理下に引き渡す",
+        "be consigned to someone's care＝その人の管理に委ねられる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "consign someone to someone's care",
+          "use": "人の世話を、別の人に正式に任せる。",
+          "example": "Before departing, he consigned the children to their aunt's care.",
+          "translation": "出発前に、彼は子どもたちの世話をおばに託した。"
+        },
+        {
+          "pattern": "consign something to 〈管理者〉 for safekeeping",
+          "use": "売却ではなく、安全な保管を目的に物を預ける。",
+          "example": "The family consigned the original manuscripts to the archivist for safekeeping.",
+          "translation": "その家族は原稿の原本を、安全に保管してもらうため文書管理担当者に預けた。"
+        },
+        {
+          "pattern": "consign something to the custody of 〈組織〉",
+          "use": "資料や物品を、ある組織の管理下に移す。",
+          "example": "The trustees consigned the sealed records to the custody of the national archive.",
+          "translation": "受託者たちは、封印された記録を国立公文書館の管理に委ねた。"
+        },
+        {
+          "pattern": "be consigned to someone's care",
+          "use": "受動態で、誰に保管・管理を任せたかを述べる。",
+          "example": "The fragile objects were consigned to the conservator's care during the renovation.",
+          "translation": "改修工事の間、壊れやすい収蔵品は修復専門家の管理に委ねられた。"
+        }
+      ],
+      "notes": [
+        "ここでも to の後に引き渡す相手や管理先を置く。× consign the archivist with the documents ではなく、○ consign the documents to the archivist。entrust には entrust the archivist with the documents もあるが、その語順を consign に移さない。語義3の販売委託とは違い、保管だけで売却を伴わない場合にも使う。この意味の consign は、信頼の気持ちを強調する entrust よりも、正式に手元から引き渡す響きが強い。日常的な軽い頼み事や仕事の割り振りを何でも consign と呼ぶわけではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "entrust",
+          "definition": "人を信頼して、物や人の世話・管理を任せる。",
+          "frequency": 6,
+          "difference": "相手への信頼が前面に出る。consign は対象を相手の管理下に引き渡すことを、より改まった文体で述べる。",
+          "example": "She entrusted the keys to a neighbor while she was away.",
+          "translation": "留守の間、彼女は隣人を信頼して鍵を預けた。"
+        },
+        {
+          "word": "commit",
+          "definition": "人や物を、他者の管理・保護に委ねる。",
+          "frequency": 4,
+          "difference": "この意味では consign に近いフォーマルな語。commit someone to an institution のように、施設へ収容する用法もあるため、管理先に注意する。",
+          "example": "The collection was committed to the care of a public museum.",
+          "translation": "その収集品は、公立博物館の管理に委ねられた。"
+        },
+        {
+          "word": "hand over",
+          "definition": "物や人を、別の相手に引き渡す。",
+          "frequency": 8,
+          "difference": "日常的に使え、手渡しや管理の移転を広く表す。consign より文語的な響きが弱く、保管や世話を任せる目的は文脈で補う。",
+          "example": "The technician handed the equipment over to the lab manager.",
+          "translation": "技術者はその機器を研究室の管理者に引き渡した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【動詞・他動詞】割り当てる、充てる",
+      "frequency": 2,
+      "register": [
+        "フォーマル・文語。土地利用や時間の配分など。頻度は英語全体での学習上の目安で、実測値ではない。"
+      ],
+      "definition": "土地・時間などを、特定の用途・目的に割り当てる。",
+      "patterns": [
+        "consign something to 〈用途・活動〉＝物・時間などをその用途・活動に充てる。目的語は割り当てる対象で、to の後に用途や活動を表す名詞句を置く。"
+      ],
+      "collocations": [
+        {
+          "pattern": "consign something to 〈用途・活動〉",
+          "use": "土地の用途を定め、その目的に充てることを述べる。",
+          "example": "The council consigned the land to agricultural use.",
+          "translation": "市議会はその土地を農業用に割り当てた。"
+        }
+      ],
+      "notes": [
+        "日常的な配分には allocate や set aside、時間を活動に充てる場合には devote などが一般的。ここでは用途を定めることが中心で、語義1の好ましくない境遇へ追いやる意味や、語義4の他者の管理に引き渡す意味を必ず含むわけではない。土地を物理的に移動させる必要もない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}

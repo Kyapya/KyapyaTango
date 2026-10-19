@@ -1,0 +1,113 @@
+{
+  "word": "licensor",
+  "slug": "licensor",
+  "ipa": "米: /ˈlaɪ.sən.sər/｜英: /ˈlaɪ.sən.sə/",
+  "lead": "他者に特定の行為・営業・利用を認める許可やライセンスを与える人・組織。特に、特許・商標・著作物・ソフトウェアなどの利用を許諾する側を指す。公的な免許を与える主体や、土地の利用を許可する側にも使える。権利を持っているというだけでなく、その許諾の与え手であることに焦点がある。",
+  "updated": "2026-10-19",
+  "notion_url": "https://app.notion.com/p/licensor-3fe4faa9b77d81d19205d3a2f9edec03",
+  "pronunciation": [
+    "上の発音は3音節で、第1音節に主強勢。米英差は第3音節の語末の /r/ の有無で、英の表記は単独発音を示す。第2音節の母音は弱い /ə/、第3音節の最初の子音は /s/。複数形 licensors の語尾は /z/。辞書には別の強勢形も載るが、licensee /ˌlaɪ.sənˈsiː/ との区別では、語末が -or か -ee かに注意する。"
+  ],
+  "etymology": [
+    "license「許可・許諾を与える」に、行為者を表す -or が付いた語。license はフランス語を経てラテン語 licentia「許可、行動の自由」、licēre「許されている」にさかのぼる。licensor は、この許可を与える側を表す。",
+    "同系語には license「許可、許諾する」、licit「合法の」、illicit「不法な」がある。語源は許可に関わるが、現代の licensor は許諾する役割の名称であり、その人が常に正しいという評価は含まない。"
+  ],
+  "formation": [
+    {
+      "term": "licenser",
+      "description": "licensor の異綴り。「許可・免許を与える者」。契約では licensor という表記をよく用いる。"
+    },
+    {
+      "term": "licensee",
+      "description": "可算名詞。「許可・許諾を受ける者」。licensor と同じ人を指すとは限らず、個々の許諾で役割が決まる。"
+    },
+    {
+      "term": "license / licence",
+      "description": "許可・免許を表す名詞では米語で license、英語で licence が標準的。動詞「許可する」は米英とも通常 license。"
+    },
+    {
+      "term": "licensing agreement",
+      "description": "複合名詞。「利用許諾契約」。契約の当事者を licensor と licensee として定義することがある。"
+    }
+  ],
+  "core": [],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算】許諾者、ライセンスを与える側",
+      "frequency": 4,
+      "register": [
+        "契約・知的財産・行政・不動産に関する法律文書。日常会話より専門的。頻度は英語全体での学習上の目安で、実測値ではない。"
+      ],
+      "definition": "他者に特定の行為・営業・利用を認める許可やライセンスを与える人・組織。特に、特許・商標・著作物・ソフトウェアなどの利用を許諾する側を指す。公的な免許を与える主体や、土地の利用を許可する側にも使える。権利を持っているというだけでなく、その許諾の与え手であることに焦点がある。",
+      "patterns": [
+        "the licensor of 〈対象〉＝その対象の利用を許諾する者",
+        "the licensor under 〈契約〉＝その契約における許諾者",
+        "permission from the licensor＝許諾者からの許可",
+        "pay royalties to the licensor＝許諾者へ使用料を支払う",
+        "the licensor's consent＝許諾者の同意",
+        "act as the licensor＝許諾する側の立場を担う",
+        "the licensor and the licensee＝許諾者と被許諾者"
+      ],
+      "collocations": [
+        {
+          "pattern": "the licensor of 〈対象〉",
+          "use": "何について許諾する主体かを示す。",
+          "example": "The museum is the licensor of the images used in this calendar.",
+          "translation": "このカレンダーに使われている画像の利用許諾者は、その博物館だ。"
+        },
+        {
+          "pattern": "the licensor under 〈契約〉",
+          "use": "個々の契約での立場を特定する。",
+          "example": "The developer is the licensor under this software agreement.",
+          "translation": "このソフトウェア契約では、開発会社が許諾者となる。"
+        },
+        {
+          "pattern": "permission from the licensor",
+          "use": "許諾する側から追加の許可を得ることを述べる。",
+          "example": "We obtained permission from the licensor to translate the training materials.",
+          "translation": "私たちは研修資料を翻訳する許可を、許諾者から得た。"
+        },
+        {
+          "pattern": "pay royalties to the licensor",
+          "use": "有償の許諾で支払いの相手を示す。",
+          "example": "The manufacturer pays royalties to the licensor for each patented component it sells.",
+          "translation": "そのメーカーは、販売する特許対象の部品1個ごとに許諾者へ使用料を支払う。"
+        },
+        {
+          "pattern": "the licensor's consent",
+          "use": "許諾者の同意が契約上必要な場面を示す。",
+          "example": "This agreement requires the licensor's consent before the software can be sublicensed.",
+          "translation": "この契約では、ソフトウェアを再許諾する前に許諾者の同意を得る必要がある。"
+        },
+        {
+          "pattern": "act as the licensor",
+          "use": "許可を与える側の役割を述べる。",
+          "example": "Under the land-use agreement, the landowner acts as the licensor.",
+          "translation": "その土地利用契約では、土地所有者が使用を許可する側になる。"
+        },
+        {
+          "pattern": "the licensor and the licensee",
+          "use": "許諾関係の両当事者を並べて示す。",
+          "example": "The licensor and the licensee agreed to extend the trademark licence for another year.",
+          "translation": "許諾者と被許諾者は、商標の使用許諾をさらに1年延長することで合意した。"
+        }
+      ],
+      "notes": [
+        "許諾を与える名詞が licensor、受ける名詞が licensee。The publisher is the licensor. は「出版社が許諾者だ」、The publisher is the licensee. は「出版社が許諾を受ける側だ」で、文脈によってどちらも成立する。licensee を「許諾者」と訳して授受の向きを逆にしない。名詞 licensor は米英ともこの綴りを使い、英語の名詞 licence に合わせて一律に licencor へ変えない。許諾する権限は必要だが、再許諾などもあるため、licensor が常に権利の最初の所有者だとは限らない。使用料、独占性、解除権、保証の有無は語そのものでは決まらず、契約や制度による。行政機関の説明では licensing authority「許認可機関」のほうが立場を明確にすることが多い。franchisor はフランチャイズを与える側、lessor は賃貸する側で、いずれも licensor と無条件には置き換えられない。"
+      ],
+      "synonyms": [
+        {
+          "word": "grantor",
+          "definition": "権利や財産などを相手に与える者。",
+          "frequency": 3,
+          "difference": "権利を与える側という点で重なるが、grantor はライセンスだけでなく財産の譲渡などにも使う。licensor は許可・許諾という関係を具体的に示す。",
+          "example": "The grantor of the licence retained ownership of the copyright.",
+          "translation": "その利用許諾を与えた者は、著作権の所有を維持した。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
