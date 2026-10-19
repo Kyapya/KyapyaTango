@@ -1,0 +1,552 @@
+{
+  "word": "downsize",
+  "slug": "downsize",
+  "ipa": "米・英: /ˈdaʊn.saɪz/",
+  "lead": "会社・組織の従業員数、部門、業務などを減らし、以前より小さい規模にする。経費削減や再編の文脈が典型的。従業員の解雇を伴うことが多いが、退職者を補充しない方法などによる縮小にも使う。",
+  "updated": "2026-10-19",
+  "notion_url": "https://app.notion.com/p/downsize-3fe4faa9b77d811da88bd85f1688e11b",
+  "pronunciation": [
+    "2音節で、第1音節 /daʊn/ に主強勢を置く。第1音節の母音は /aʊ/、第2音節の母音は /aɪ/。語末は有声音 /z/ で、downsized の語末は /zd/、downsizes は /ˈdaʊn.saɪ.zɪz/ となる。"
+  ],
+  "etymology": [
+    "down「下へ、小さい方向へ」と size「大きさ」の結合による現代の動詞。「大きさ・規模を下げる」という形成が、企業の縮小、小型製品、住み替えに共通する。同じ size を使う語には resize「サイズを変更する」、upsize「大きいサイズにする」がある。down はここでは方向を表す語形成要素で、動詞から離れる小辞ではない。"
+  ],
+  "formation": [
+    {
+      "term": "downsized",
+      "description": "過去形・過去分詞。a downsized workforce「縮小された従業員規模」、a downsized engine「小型化したエンジン」のように名詞を修飾する。人を修飾すると「人員削減で職を失った」という意味になり得る。"
+    },
+    {
+      "term": "downsizing",
+      "description": "e を落として -ing を付ける。現在分詞・動名詞のほか、「人員削減・規模縮小」を表す名詞としても定着している（語義6）。"
+    },
+    {
+      "term": "downsizer",
+      "description": "名詞。特に、より小さな住居へ移る人を指す。不動産・住み替えの話題で使われる。"
+    },
+    {
+      "term": "upsize",
+      "description": "逆方向の動詞「サイズ・規模を大きくする、大きいものへ替える」。downsize より使用場面が限られる。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "「それまでの大きさ・人数・生活の規模を小さくする」が共通核。会社を縮めることと、個々の従業員を解雇すること、住む人が小さな家へ移ることを区別する。"
+    },
+    {
+      "type": "item",
+      "text": "規模を小さくする組織への処置 → 「人員・事業規模を縮小する」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "規模を小さくする組織自身の変化 → 「縮小する、人員を減らす」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "規模を小さくする住まい・物への移行 → 「より小さな住まい・物へ替える」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "規模を小さくするための雇用打ち切り → 「人員削減のために解雇する」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "規模を小さくする製品・計画・所有物 → 「小型化する、規模を小さくする」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "規模を小さくする行為の名詞化 → 「規模縮小、人員削減、小型化」（語義6）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞】人員・事業規模を縮小する",
+      "frequency": 6,
+      "register": [
+        "経営、人事、報道。人員削減を組織の規模調整として表すため、婉曲的に響くことがある。"
+      ],
+      "definition": "会社・組織の従業員数、部門、業務などを減らし、以前より小さい規模にする。経費削減や再編の文脈が典型的。従業員の解雇を伴うことが多いが、退職者を補充しない方法などによる縮小にも使う。",
+      "patterns": [
+        "downsize 〈会社・部門・事業〉＝組織などを縮小する",
+        "downsize the workforce＝従業員数を減らす",
+        "downsize 〈組織・人員〉 by 〈人数・割合〉＝その分だけ減らす",
+        "downsize 〈組織・人員〉 to 〈縮小後の規模〉＝その規模まで縮小する",
+        "downsize 〈組織・人員〉 from 〈元の規模〉 to 〈新しい規模〉＝～から～へ縮小する",
+        "〈組織・人員〉 + be downsized＝組織などが縮小される"
+      ],
+      "collocations": [
+        {
+          "pattern": "downsize the workforce",
+          "use": "会社全体の従業員数を減らすことを述べる。",
+          "example": "The company plans to downsize its workforce through voluntary departures and retirements.",
+          "translation": "その会社は、希望退職と定年退職を通じて従業員数を減らす計画だ。"
+        },
+        {
+          "pattern": "downsize operations",
+          "use": "業務・事業の規模を小さくする。",
+          "example": "The retailer downsized its overseas operations after several years of losses.",
+          "translation": "その小売企業は、数年間の赤字を受けて海外事業を縮小した。"
+        },
+        {
+          "pattern": "downsize 〈人員〉 by 〈割合〉",
+          "use": "削減する幅を示す。",
+          "example": "The manufacturer will downsize its workforce by ten percent.",
+          "translation": "そのメーカーは従業員数を10％削減する予定だ。"
+        },
+        {
+          "pattern": "downsize 〈部門〉 from 〈元の人数〉 to 〈新しい人数〉",
+          "use": "縮小前と縮小後の規模を対比する。",
+          "example": "The bank downsized the department from eighty employees to fifty.",
+          "translation": "銀行は、その部門を従業員80人から50人へ縮小した。"
+        },
+        {
+          "pattern": "be downsized",
+          "use": "縮小される組織を主語にする。",
+          "example": "The regional office was downsized, but it remained open.",
+          "translation": "その地域事務所は縮小されたが、営業は継続した。"
+        }
+      ],
+      "notes": [
+        "downsize the workforce は「従業員数を減らす」、downsize an employee は「その従業員を人員削減で解雇する」（語義4）。目的語が集団の規模か個人かで、自然な訳が変わる。by ten percent は「10％減らす」、to ten employees は「10人に減らす」。downsize だけで会社の閉鎖・倒産・経営不振まで確定しない。利益の出ている企業の再編にも使える。reduce のようにあらゆる数値の低下に使う語ではなく、気温なら reduce/lower the temperature などを使う。"
+      ],
+      "synonyms": [
+        {
+          "word": "scale down",
+          "definition": "事業・活動・計画の規模を小さくする。",
+          "frequency": 6,
+          "difference": "人員削減に限らず、事業量・投資額などの縮小に広く使う。downsize は企業の人数・組織規模を連想させやすい。",
+          "example": "The charity scaled down its overseas program because donations had fallen.",
+          "translation": "寄付が減ったため、その慈善団体は海外事業を縮小した。"
+        },
+        {
+          "word": "reduce",
+          "definition": "数量・規模などを少なくする。",
+          "frequency": 9,
+          "difference": "数量の減少を表す最も広い語。downsize は、組織を以前より小さい体制にする判断を示す。",
+          "example": "The company reduced its staff numbers by leaving vacant posts unfilled.",
+          "translation": "その会社は、空いたポストを補充せずに従業員数を減らした。"
+        },
+        {
+          "word": "trim",
+          "definition": "不要な部分などを削って規模・数量を減らす。",
+          "frequency": 6,
+          "difference": "余分な部分を切り詰める見方を示し、比較的小幅な調整にも使う。downsize は組織全体の縮小にも使える。",
+          "example": "Management trimmed administrative staffing to reduce overheads.",
+          "translation": "経営陣は、間接費を抑えるため事務部門の人員を削減した。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "expand",
+          "definition": "事業・組織などの規模を大きくする。",
+          "frequency": 8,
+          "difference": "組織規模の縮小と拡大という同じ軸の方向的な反対。人員だけを増やすとは限らない。",
+          "example": "The firm expanded its operations by opening two new branches.",
+          "translation": "その会社は、新たに2支店を設けて事業を拡大した。"
+        },
+        {
+          "word": "scale up",
+          "definition": "事業・生産などをより大きな規模にする。",
+          "frequency": 6,
+          "difference": "活動規模を上げる方向で downsize と対立する。段階的な増産や拡張にも使う。",
+          "example": "The company scaled up production to meet growing demand.",
+          "translation": "その会社は、増える需要に応えるため生産を拡大した。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【動詞・自動詞】縮小する、人員を減らす",
+      "frequency": 6,
+      "register": [
+        "経営、人事、報道。会社が主語の場合、通常は人員・事業規模の縮小と理解される。"
+      ],
+      "definition": "会社・組織などが、人数や事業の規模を小さくする。直接目的語を置かず、主語となる会社自身の縮小を述べる。誰か一人が解雇されることとは区別する。",
+      "patterns": [
+        "〈会社・組織〉 + downsize＝組織が縮小する",
+        "〈会社〉 + plan/need to downsize＝会社が縮小を計画する・縮小する必要がある",
+        "downsize to 〈縮小後の規模〉＝その規模まで縮小する"
+      ],
+      "collocations": [
+        {
+          "pattern": "a company + downsize",
+          "use": "企業の縮小を目的語なしで述べる。",
+          "example": "Several companies in the region downsized after demand weakened.",
+          "translation": "需要が落ち込んだ後、その地域の複数の企業が規模を縮小した。"
+        },
+        {
+          "pattern": "need to downsize",
+          "use": "規模を縮める必要を述べる。",
+          "example": "The publisher needed to downsize because its sales no longer covered its costs.",
+          "translation": "その出版社は、売上で費用を賄えなくなったため、規模を縮小する必要があった。"
+        },
+        {
+          "pattern": "downsize to 〈規模〉",
+          "use": "縮小後の組織規模を示す。",
+          "example": "The startup downsized to a team of twelve people.",
+          "translation": "その新興企業は、12人のチームへと縮小した。"
+        }
+      ],
+      "notes": [
+        "The company downsized. は「会社が縮小した」という自動詞。The company downsized its workforce. は他動詞（語義1）。The company was downsized. は会社を対象とする受動態である。主語が人になり We downsized after the children left home. と言えば、通常は会社の人員削減ではなく、小さな家への住み替え（語義3）を表す。I was downsized. なら、本人が解雇されたという受動態（語義4）になる。"
+      ],
+      "synonyms": [
+        {
+          "word": "contract",
+          "definition": "事業・市場・組織などが縮小する。",
+          "frequency": 6,
+          "difference": "意図的な人員削減に限らず、需要や市場の自然な縮小にも使う。downsize は組織が規模を調整する行為を示しやすい。",
+          "example": "The industry contracted as customers switched to cheaper alternatives.",
+          "translation": "顧客がより安い代替品へ移るにつれて、その産業は縮小した。"
+        },
+        {
+          "word": "shrink",
+          "definition": "大きさ・人数・規模が小さくなる。",
+          "frequency": 8,
+          "difference": "日常的で対象が広く、縮小の原因や経営上の判断は指定しない。downsize は組織再編の文脈に結びつきやすい。",
+          "example": "The team shrank when several members left and were not replaced.",
+          "translation": "数人が辞めて補充されなかったため、チームは小さくなった。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "expand",
+          "definition": "会社・事業などの規模が大きくなる。",
+          "frequency": 8,
+          "difference": "組織規模の増減という同じ軸の方向的な反対。downsize と対比して事業拡張を述べる。",
+          "example": "The company expanded rapidly after winning several major contracts.",
+          "translation": "その会社は、複数の大型契約を獲得した後、急速に拡大した。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【動詞・自動詞】より小さな住まい・物へ替える",
+      "frequency": 5,
+      "register": [
+        "日常会話、不動産、生活設計。人を主語に、目的語なしで使われることが多い。"
+      ],
+      "definition": "人・世帯が、現在より小さな住居へ移る。子どもの独立、退職、維持の負担、費用などが典型的な背景だが、特定の年齢や経済的困窮は意味に含まれない。文脈によっては、車などをより小さなものへ替えることにも使う。",
+      "patterns": [
+        "someone + downsize＝人が小さな住まいへ移る",
+        "downsize to 〈小さな住居〉＝小さな住居へ移る",
+        "downsize from 〈元の住居〉 to 〈小さな住居〉＝元の家から小さな家へ移る",
+        "downsize into 〈小さな住居〉＝小さな住居へ移り住む",
+        "downsize to a smaller car＝より小さな車に替える"
+      ],
+      "collocations": [
+        {
+          "pattern": "someone + downsize",
+          "use": "住まいの話で、移転先を明示せず住み替えを述べる。",
+          "example": "Now that the children have left home, we're thinking of downsizing.",
+          "translation": "子どもたちが独立したので、私たちは小さな住まいへの引っ越しを考えている。"
+        },
+        {
+          "pattern": "downsize from 〈元の住居〉 to 〈小さな住居〉",
+          "use": "元の家と移転先の規模を対比する。",
+          "example": "They downsized from a five-bedroom house to a two-bedroom apartment.",
+          "translation": "彼らは、寝室が5部屋ある家から寝室が2部屋のアパートへ住み替えた。"
+        },
+        {
+          "pattern": "downsize into 〈小さな住居〉",
+          "use": "小さな住居へ移り住むことを述べる。",
+          "example": "She plans to downsize into a smaller flat near the station.",
+          "translation": "彼女は、駅の近くのより小さなフラットへ住み替える予定だ。"
+        },
+        {
+          "pattern": "downsize to a smaller car",
+          "use": "住居以外でも、小さいものへ替える意味を示す。",
+          "example": "With only one person commuting, we decided to downsize to a smaller car.",
+          "translation": "車で通勤するのが1人だけになったので、私たちはもっと小さな車に替えることにした。"
+        }
+      ],
+      "notes": [
+        "to や into の後には移転先を置く。downsize a home は住居を直接目的語にした他動詞で、同じ住み替えを住居の規模変更として述べられる（語義5）。The couple downsized. と The couple downsized their home. はこの文脈では近い意味になる。downsize oneself を「小さい家へ移る」の定型構文として覚える必要はない。小さな家でも価格が高い場合はあり、必ず費用が減ることまで意味しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "move",
+          "definition": "別の住居へ移る、引っ越す。",
+          "frequency": 9,
+          "difference": "移転先が大きいか小さいかを指定しない。downsize は元より小さな住居への移行を示す。",
+          "example": "We moved to an apartment closer to the hospital.",
+          "translation": "私たちは病院により近いアパートへ引っ越した。"
+        },
+        {
+          "word": "relocate",
+          "definition": "別の場所に移り住む。",
+          "frequency": 6,
+          "difference": "やや硬く、転勤などによる移住にも使う。downsize のような住居の規模縮小は含まれない。",
+          "example": "They relocated to a coastal town after retirement.",
+          "translation": "彼らは退職後、海辺の町へ移り住んだ。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "upsize",
+          "definition": "より大きな住居などへ替える。",
+          "frequency": 3,
+          "difference": "所有・利用するものの大きさという同じ軸で逆方向を表す。不動産の文脈では、より大きな家への住み替えを指す。",
+          "example": "The family decided to upsize to a house with an extra bedroom.",
+          "translation": "その家族は、寝室がもう1部屋多い、より大きな家へ住み替えることにした。"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "【動詞・他動詞】人員削減のために解雇する",
+      "frequency": 4,
+      "register": [
+        "主に米国の人事・ビジネスの言い方。婉曲的な表現だが、解雇された本人が皮肉を込めて使うこともある。"
+      ],
+      "definition": "組織の規模や費用を減らすため、従業員の雇用を打ち切る。人そのものを目的語にする用法で、受動態では「人員削減の対象となって職を失う」。個人の能力不足や不正を理由とする解雇を必ずしも意味しない。",
+      "patterns": [
+        "downsize someone＝人員削減で人を解雇する",
+        "someone + be downsized＝人員削減で解雇される",
+        "someone + get downsized＝人員削減で職を失う"
+      ],
+      "collocations": [
+        {
+          "pattern": "downsize employees",
+          "use": "企業が人員削減のために雇用を打ち切ることを述べる。",
+          "example": "The company downsized forty employees when it closed the division.",
+          "translation": "その会社は部門閉鎖に伴い、従業員40人を人員削減のために解雇した。"
+        },
+        {
+          "pattern": "be downsized",
+          "use": "解雇された本人を主語にする。",
+          "example": "I was downsized after the merger, along with several members of my team.",
+          "translation": "私は合併後、チームの数人とともに人員削減で解雇された。"
+        },
+        {
+          "pattern": "get downsized",
+          "use": "会話で、自分・他人が人員削減の対象になったことを述べる。",
+          "example": "He got downsized and spent the next three months looking for work.",
+          "translation": "彼は人員削減で職を失い、その後3か月間、仕事を探した。"
+        }
+      ],
+      "notes": [
+        "I downsized. は通常「小さな家に住み替えた」（語義3）。I was downsized.／I got downsized. は「人員削減で解雇された」で、受動の有無が重要。downsize someone はその人の体を小さくする意味ではない。英国では be made redundant という表現も一般的だが、法的な雇用区分や給付条件は国・制度で異なり、英語表現だけで同一の制度とみなさない。"
+      ],
+      "synonyms": [
+        {
+          "word": "lay off",
+          "definition": "仕事不足や経費削減などを理由に従業員を解雇・一時解雇する。",
+          "frequency": 7,
+          "difference": "経営上の理由による雇用打ち切りを直接述べる。downsize は組織縮小の一環という見方を前面に出す。",
+          "example": "The factory laid off thirty workers after losing a major customer.",
+          "translation": "工場は大口顧客を失った後、労働者30人を解雇した。"
+        },
+        {
+          "word": "make redundant",
+          "definition": "主に英国で、仕事・職が不要になったことを理由に人を解雇する。",
+          "frequency": 5,
+          "difference": "職の必要性がなくなった点を示す定着表現。downsize someone は特に人員削減・規模縮小を意識させる米国的な表現。",
+          "example": "The closure meant that twenty staff members were made redundant.",
+          "translation": "閉鎖により、職員20人が職を失った。"
+        },
+        {
+          "word": "dismiss",
+          "definition": "雇用主が人の雇用を打ち切る、解雇する。",
+          "frequency": 7,
+          "difference": "解雇理由を限定しない広い語。downsize は組織の人員削減という理由を含み、不正行為による懲戒解雇とは区別される。",
+          "example": "The company dismissed the employee for falsifying expense claims.",
+          "translation": "その会社は、経費請求を偽造した従業員を解雇した。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "hire",
+          "definition": "人を雇って仕事に就かせる。",
+          "frequency": 8,
+          "difference": "雇用関係を始める方向で、雇用を終える downsize someone と反対。hire には組織全体を拡大する意味までは含まれない。",
+          "example": "The company hired six engineers for the new project.",
+          "translation": "その会社は、新しい事業のために技術者6人を雇った。"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "【動詞・他動詞】小型化する、規模を小さくする",
+      "frequency": 5,
+      "register": [
+        "製品設計、生活、計画の調整。機械・情報システムでは技術的な小型化・構成変更についても使う。"
+      ],
+      "definition": "製品・設備・計画・所有物などの大きさ、量、規模を以前より小さくする。小さいものを設計・製造する場合と、現在使うものを小さなものへ替える場合がある。会社の人員削減に限定されない一般的な用法。",
+      "patterns": [
+        "downsize 〈製品・機器・計画・所有物〉＝対象を小型化・縮小する",
+        "downsize one's home＝住まいをより小さくする・小さい家へ住み替える",
+        "downsize 〈機器など〉 to 〈小さい規格〉＝小さい規格へ変更する",
+        "〈対象〉 + be downsized＝対象が小型化・縮小される",
+        "downsize a computer system＝小型機を使う構成へ移行する（旧来の計算機用語）"
+      ],
+      "collocations": [
+        {
+          "pattern": "downsize an engine",
+          "use": "製品の設計を小さい規模へ変える。",
+          "example": "The manufacturer downsized the engine from two liters to one and a half liters.",
+          "translation": "そのメーカーは、エンジンの排気量を2リットルから1.5リットルへ小さくした。"
+        },
+        {
+          "pattern": "downsize one's home",
+          "use": "より小さな住居に替えることを、住居を目的語にして述べる。",
+          "example": "They downsized their home by selling the large house and buying a small apartment.",
+          "translation": "彼らは、大きな家を売って小さなアパートを買うことで、住まいの規模を小さくした。"
+        },
+        {
+          "pattern": "downsize a collection",
+          "use": "所有する物の数を減らす。",
+          "example": "She downsized her book collection before moving into a smaller room.",
+          "translation": "彼女は小さな部屋へ移る前に、蔵書を減らした。"
+        },
+        {
+          "pattern": "downsize a project",
+          "use": "計画・事業を実施可能な小さい規模へ変更する。",
+          "example": "The organizers downsized the project when the grant was reduced.",
+          "translation": "助成金が減額されたため、主催者は事業の規模を縮小した。"
+        },
+        {
+          "pattern": "be downsized to 〈小さい規模〉",
+          "use": "小型化される対象と変更後の規模を述べる。",
+          "example": "The display unit was downsized to half its original dimensions.",
+          "translation": "その展示装置は、縦・横・高さがそれぞれ元の半分になるよう小型化された。"
+        },
+        {
+          "pattern": "downsize a computer system",
+          "use": "旧来の計算機用語として、大型機から小型機中心の構成へ移すことを述べる。",
+          "example": "In the 1990s, the company downsized its computer system by replacing a mainframe with a network of smaller machines.",
+          "translation": "1990年代に、その会社はメインフレームを小型コンピューターのネットワークに置き換え、システムをダウンサイジングした。"
+        }
+      ],
+      "notes": [
+        "home を目的語にする場合、通常は建物自体を切り縮めるのでなく、小さな家への住み替えを表す。製品では寸法・排気量・容量のどれを小さくするかは対象による。小型化しても性能が必ず落ちるとは限らず、downgrade「性能・等級を下げる」と同義ではない。a downsized engine の downsized は過去分詞による修飾で、通常の形容詞として使うときもこの形が明確。",
+        "古い計算機分野の資料では、downsize a computer system が、大型コンピューター中心のシステムから、小型機やそのネットワークを使う構成へ移すことを指す。この専門的な用法は「より小さな機器を使う構成への変更」と捉える。現在の一般英語では遭遇頻度が低く、単にデータ量を減らすこと、ソフトウェアを旧版へ戻すこと、IT部門の職員を解雇することとは別である。"
+      ],
+      "synonyms": [
+        {
+          "word": "reduce",
+          "definition": "大きさ・量・規模を小さくする。",
+          "frequency": 9,
+          "difference": "対象が最も広く、価格・速度などにも使う。downsize は製品・計画・所有するものを小さい規模へ変えることに向く。",
+          "example": "We reduced the size of the display to fit the available space.",
+          "translation": "使える場所に収まるよう、展示物の大きさを小さくした。"
+        },
+        {
+          "word": "miniaturize",
+          "definition": "装置や部品を小型・微小なものにする。",
+          "frequency": 3,
+          "difference": "技術的な小型化に特化し、小さな部品・装置を作ることを意識させる。downsize は計画や生活規模にも使える。",
+          "example": "Engineers miniaturized the sensor so that it could fit inside the watch.",
+          "translation": "技術者たちは、腕時計に収まるようセンサーを小型化した。"
+        },
+        {
+          "word": "scale back",
+          "definition": "計画・活動の規模や程度を抑える。",
+          "frequency": 6,
+          "difference": "当初の計画や既存の活動から控えめにする場合に使う。製品そのものの小型設計には downsize や miniaturize が向く。",
+          "example": "The city scaled back its plans for a new sports complex.",
+          "translation": "市は、新しい総合運動施設の計画を縮小した。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "enlarge",
+          "definition": "物の大きさ・規模を大きくする。",
+          "frequency": 7,
+          "difference": "大きさの縮小と拡大という同じ軸の方向的な反対。downsize が数量削減を表す場面すべてに対応するわけではない。",
+          "example": "The designers enlarged the display to make it easier to read.",
+          "translation": "設計者たちは、読み取りやすくするため表示画面を大きくした。"
+        },
+        {
+          "word": "upsize",
+          "definition": "より大きいサイズにする、より大きなものへ替える。",
+          "frequency": 3,
+          "difference": "選ぶ製品や規格を大きくする方向で downsize と対立する。一般的な拡大すべてに使う語ではない。",
+          "example": "We upsized the storage unit to make room for the extra equipment.",
+          "translation": "追加の機器を収めるため、収納設備をより大きなものに替えた。"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "【名詞・不可算】downsizing：規模縮小、人員削減、小型化",
+      "frequency": 6,
+      "register": [
+        "経営、人事、製品設計、不動産。意味は修飾語や of の後の対象によって明確になる。"
+      ],
+      "definition": "組織・製品・生活などの規模を小さくすることを名詞として表す。企業の話題では特に人員・事業規模の削減を指す。住居の文脈では、小さな住まいへの移行を指すこともある。",
+      "patterns": [
+        "corporate downsizing＝企業の人員・規模削減",
+        "the downsizing of 〈対象〉＝～の縮小",
+        "a downsizing program＝規模縮小計画",
+        "engine downsizing＝エンジンの小型化",
+        "the benefits/costs of downsizing＝縮小することの利点・費用"
+      ],
+      "collocations": [
+        {
+          "pattern": "corporate downsizing（downsize の名詞形）",
+          "use": "企業の規模縮小を一般的な経営現象として述べる。",
+          "example": "Corporate downsizing can change both workloads and reporting relationships.",
+          "translation": "企業の規模縮小は、仕事の負担と指揮命令関係の両方を変えることがある。"
+        },
+        {
+          "pattern": "the downsizing of 〈組織〉（downsize の名詞形）",
+          "use": "縮小の対象を of で示す。",
+          "example": "The downsizing of the department left only one person responsible for training.",
+          "translation": "部門の縮小により、研修を担当する人は1人だけになった。"
+        },
+        {
+          "pattern": "a downsizing program（downsize の名詞形）",
+          "use": "縮小を進める計画・取り組みを指す。",
+          "example": "The downsizing program includes closing two offices and reducing management posts.",
+          "translation": "その規模縮小計画には、二つの事務所の閉鎖と管理職ポストの削減が含まれる。"
+        },
+        {
+          "pattern": "engine downsizing（downsize の名詞形）",
+          "use": "製品設計における小型化を名詞として述べる。",
+          "example": "The report examines engine downsizing and its effect on fuel consumption.",
+          "translation": "その報告書は、エンジンの小型化と燃料消費への影響を検討している。"
+        },
+        {
+          "pattern": "the benefits of downsizing（downsize の名詞形）",
+          "use": "住居の文脈で、小さく住み替える利点を述べる。",
+          "example": "For this couple, the benefits of downsizing include having fewer rooms to clean.",
+          "translation": "この夫婦にとって、小さな住まいへの引っ越しには、掃除する部屋が減るという利点がある。"
+        }
+      ],
+      "notes": [
+        "一般的な過程を指すときは不可算で、downsizing is、a period of downsizing のようにする。a downsizing program の a は中心名詞 program に付く。Downsizing the department will take time. の downsizing は the department を直接目的語に取る動名詞。The downsizing of the department will take time. は the と of を伴う名詞構文である。I'm downsizing. は進行形の動詞で、名詞として単独で使われる downsizing と区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "reduction",
+          "definition": "数量・規模などを減らすこと。",
+          "frequency": 8,
+          "difference": "a reduction in staff numbers のように何が減るかを明示する広い語。downsizing は企業の体制縮小を単独でも表しやすい。",
+          "example": "The proposal calls for a reduction in administrative spending.",
+          "translation": "その提案は、管理業務への支出削減を求めている。"
+        },
+        {
+          "word": "cutback",
+          "definition": "支出・人員・活動などの削減。",
+          "frequency": 6,
+          "difference": "個々の削減措置を可算名詞として表せる。downsizing は組織全体を小さくする過程をまとめて捉えやすい。",
+          "example": "The agency announced further cutbacks in staffing.",
+          "translation": "その機関は、さらなる人員削減を発表した。"
+        },
+        {
+          "word": "miniaturization",
+          "definition": "装置・部品などの小型化。",
+          "frequency": 3,
+          "difference": "技術的な小型化の部分だけが重なる。downsizing の人員削減や住み替えの意味には使えない。",
+          "example": "Miniaturization has allowed the device to fit into a pocket.",
+          "translation": "小型化によって、その装置はポケットに収まるようになった。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

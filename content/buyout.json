@@ -1,0 +1,405 @@
+{
+  "word": "buyout",
+  "slug": "buyout",
+  "ipa": "米・英: /ˈbaɪ.aʊt/",
+  "lead": "会社・事業・所有者の持分などを、対価を払って買い取ること。企業金融では、会社の全株式または支配権を得るだけの株式を取得する取引をいう。共同出資者一人の持分を買い取る場合にも使う。特定の契約・制度では、リース中の車や災害リスクの高い住宅などの買い取りにも使われ、対象会社の経営陣だけが買い手になるわけではない。",
+  "updated": "2026-10-19",
+  "notion_url": "https://app.notion.com/p/buyout-3fe4faa9b77d81139ab4e50665efaf8d",
+  "pronunciation": [
+    "2音節で、第1音節 /baɪ/ に主強勢がある。/aɪ/ と /aʊ/ は別々の音節の二重母音で、全体を1音節に縮めない。第2音節に第二強勢を示す辞書もある。複数形 buyouts の語末は /ts/。"
+  ],
+  "etymology": [
+    "句動詞 buy out「持分などを買い取る」からできた名詞。buy が対価を払うこと、out が元の所有者・権利者などをその関係から外す結び付きに関わる。所有権の取得から、金銭を払って雇用・契約上の関係を終了する用法にも広がっている。同じ buy を含む名詞に buyback「買い戻し」、buy-in「出資による参加、賛同」があるが、それぞれの専門用法は区別する。"
+  ],
+  "formation": [
+    {
+      "term": "buy out",
+      "description": "対応する句動詞。buy out a partner／buy a partner out「共同出資者の持分を買い取る」。代名詞なら buy them out。過去形・過去分詞は bought out。"
+    },
+    {
+      "term": "buy-out",
+      "description": "名詞のハイフン付き別綴り。複数形は buy-outs。一語形 buyout の複数は buyouts。"
+    },
+    {
+      "term": "management buyout",
+      "description": "既存の経営陣が会社・事業を買い取る方式。略語は MBO。"
+    },
+    {
+      "term": "leveraged buyout",
+      "description": "買収資金の大きな部分を借入金などの負債で賄う買収。略語は LBO。経営陣が買うかどうかとは別の分類なので、MBO と両立する。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "「対価を払って、対象への権利・義務をまとめて引き取ったり、従来の関係を清算したりする」が共通核。企業を買う場合と、人に退職や契約終了を受け入れてもらう場合では、誰が何を手放すかが異なる。施設の貸し切りでは利用枠をまとめて押さえる。年金の専門用法もこの核につながるが、保険会社への責任移転と本人への一時金支給は区別する。"
+    },
+    {
+      "type": "item",
+      "text": "対価による所有関係の引き取り → 「買い取り、買収」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "対価による雇用関係の終了 → 「希望退職の奨励金・優遇措置」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "対価による契約上の権利義務の清算 → 「契約解消のための支払い・取り決め」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "対価による施設利用枠の独占的な引き取り → 「施設・会場の貸し切り」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "対価による年金支払責任の引き取り → 「年金支払責任の保険会社への移転」（語義5）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算】買い取り、買収",
+      "frequency": 5,
+      "register": [
+        "ビジネス・金融・財産取引。以下の頻度は語義ごとの一般英語での遭遇度の目安で、コーパスの実測値ではない。"
+      ],
+      "definition": "会社・事業・所有者の持分などを、対価を払って買い取ること。企業金融では、会社の全株式または支配権を得るだけの株式を取得する取引をいう。共同出資者一人の持分を買い取る場合にも使う。特定の契約・制度では、リース中の車や災害リスクの高い住宅などの買い取りにも使われ、対象会社の経営陣だけが買い手になるわけではない。",
+      "patterns": [
+        "a buyout of 〈会社・持分〉 by 〈買い手〉＝買い取り対象と買い手を示す",
+        "a buyout of someone＝その人の持分の買い取り",
+        "a management buyout＝経営陣による買収",
+        "an employee buyout＝従業員による買収",
+        "a leveraged buyout＝負債を多く使う買収",
+        "a buyout offer＝買い取り提案",
+        "a lease buyout＝リース対象物の買い取り。of・by の句は対象・当事者が明らかなら省略する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a buyout of 〈会社〉 by 〈買い手〉",
+          "use": "誰がどの企業を買うかを明らかにする。",
+          "example": "The buyout of the software company by a private equity firm was completed yesterday.",
+          "translation": "プライベートエクイティ投資会社による、そのソフトウェア会社の買収が昨日完了した。"
+        },
+        {
+          "pattern": "a buyout of someone's stake",
+          "use": "会社全体ではなく、特定所有者の持分の買い取りをいう。",
+          "example": "The two remaining partners financed a buyout of Helen's stake in the business.",
+          "translation": "残る2人の共同出資者が、ヘレンの事業持分を買い取る資金を出した。"
+        },
+        {
+          "pattern": "a buyout of someone",
+          "use": "人を目的語相当の of 句に置き、その人の持分を買い取る意味を示す。",
+          "example": "A buyout of the retiring partner would leave Maya as the sole owner.",
+          "translation": "引退する共同出資者の持分を買い取れば、マヤが単独の所有者となる。"
+        },
+        {
+          "pattern": "a management buyout",
+          "use": "既存の経営陣が会社や事業を買い取る方式を述べる。",
+          "example": "The factory's managers are seeking investors to support a management buyout.",
+          "translation": "その工場の経営陣は、自分たちによる事業買収を支援する投資家を探している。"
+        },
+        {
+          "pattern": "an employee buyout",
+          "use": "従業員側が会社の所有権を取得する取引をいう。",
+          "example": "An employee buyout would allow the workers to own the business together.",
+          "translation": "従業員による買収が実現すれば、従業員たちは共同でその事業を所有できる。"
+        },
+        {
+          "pattern": "a leveraged buyout",
+          "use": "買収資金の相当部分を借入金などで調達する方式をいう。",
+          "example": "The leveraged buyout was financed largely through bank loans.",
+          "translation": "そのレバレッジド・バイアウトの資金は、大部分が銀行融資で賄われた。"
+        },
+        {
+          "pattern": "a buyout offer",
+          "use": "買い取りがまだ成立していない提案段階を表す。",
+          "example": "The founder rejected the buyout offer because she wanted to retain control.",
+          "translation": "創業者は経営権を保持したかったため、その買収提案を拒否した。"
+        },
+        {
+          "pattern": "a lease buyout",
+          "use": "車などのリース対象物を利用者が買い取る場合をいう。",
+          "example": "We chose a lease buyout so that we could keep the car as our own.",
+          "translation": "その車を自分たちの所有物として使い続けられるよう、リース車の買い取りを選んだ。"
+        }
+      ],
+      "notes": [
+        "buyout of a partner は通常「共同出資者本人を買う」ではなく「その人の持分を買う」。buyout of the company by its employees なら従業員が買い手であり、語義2の「従業員への退職奨励金」ではない。employee buyout は文脈によって両者と結び付くため、誰が払うか、所有権を得るのか退職するのかを読む。takeover は支配権の取得、buyout は持分などの買い取りに重点がある。MBO の M は management であって、買収方法が必ず現金だけ・借入金だけという意味ではない。lease buyout も、車の所有権を得る語義1と、賃貸借を解消するための支払いを指す語義3とを文脈で区別する。米国の floodplain buyout は、洪水リスクのある区域の住宅・土地を公的事業などで買い取る用法。voluntary とされる事業もあり、語だけから強制収用とは判断しない。名詞は The buyout was costly.「買収には費用がかかった」、動詞は They bought him out.「彼らは彼の持分を買い取った」で、They buyouted him. とはしない。"
+      ],
+      "synonyms": [
+        {
+          "word": "acquisition",
+          "definition": "会社・事業・資産などを取得すること。",
+          "frequency": 6,
+          "difference": "より広い語で、他の所有者を退出させる取引や会社の支配権取得に限らない。",
+          "example": "The acquisition of the patents strengthened the company's position.",
+          "translation": "その特許群の取得によって、会社の立場は強まった。"
+        },
+        {
+          "word": "takeover",
+          "definition": "別の会社などの経営支配権を取得すること。",
+          "frequency": 6,
+          "difference": "会社を誰が支配するかの変化を強調する。buyout は一人の共同出資者の持分の買い取りにも使える。",
+          "example": "The takeover gave the investor control of the airline.",
+          "translation": "その買収によって、投資家は航空会社の経営権を得た。"
+        },
+        {
+          "word": "purchase",
+          "definition": "代金を払って物や権利を取得すること。",
+          "frequency": 8,
+          "difference": "日用品から企業資産まで広く使い、所有関係の整理や他の所有者の退出を特に示さない。",
+          "example": "The purchase of ten shares did not make him a major investor.",
+          "translation": "10株を買ったからといって、彼が大口投資家になったわけではない。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算】希望退職の奨励金・優遇措置",
+      "frequency": 4,
+      "register": [
+        "主に米国の雇用・人員削減・報道。"
+      ],
+      "definition": "従業員に早期退職や自発的な退職を受け入れてもらうため、雇用主が提示する金銭・給付などの優遇措置。提示・受諾された退職パッケージ全体を指すこともある。企業の所有権を従業員が買うことではなく、雇用主から従業員へ対価が支払われる。",
+      "patterns": [
+        "offer someone a buyout＝人に退職優遇措置を提示する",
+        "offer a buyout to 〈従業員〉＝同じ意味の to 構文",
+        "accept/take a buyout＝退職条件を受け入れる",
+        "a voluntary buyout package＝希望退職の優遇パッケージ",
+        "buyouts for 〈対象従業員〉＝対象者を示す。buyout は数えられ、複数人への提示では buyouts にもなる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "offer someone a buyout",
+          "use": "雇用主から従業員への退職条件の提示を述べる。",
+          "example": "The newspaper offered long-serving employees a buyout to reduce staffing costs.",
+          "translation": "その新聞社は人件費を減らすため、長年勤めた従業員に希望退職の優遇措置を提示した。"
+        },
+        {
+          "pattern": "offer a buyout to 〈従業員〉",
+          "use": "同じ提示内容を、to で受け手を示して述べる。",
+          "example": "The company offered a buyout to employees willing to leave by December.",
+          "translation": "会社は、12月までに退職する意思のある従業員に退職優遇措置を提示した。"
+        },
+        {
+          "pattern": "accept a buyout",
+          "use": "提示された条件で自発的に退職する選択をいう。",
+          "example": "After twenty years at the firm, she accepted a buyout and left in May.",
+          "translation": "その会社に20年勤めた後、彼女は希望退職の条件を受け入れ、5月に退職した。"
+        },
+        {
+          "pattern": "a voluntary buyout package",
+          "use": "金銭以外の給付も含み得る退職パッケージを述べる。",
+          "example": "The voluntary buyout package included extra pay and temporary health coverage.",
+          "translation": "その希望退職の優遇パッケージには、上乗せ金と一定期間の医療保険が含まれていた。"
+        }
+      ],
+      "notes": [
+        "offer someone a buyout は「退職する代わりに給付を受ける提案」、buy someone out は多くの場合「その人の持分を買う」で、形が似ても同じ意味とは限らない。accept a buyout と書かれていても、引退して今後働かないとまでは限らず、別の職へ移ることもある。米国連邦政府の VSIP も buyout と呼ばれるが、特定制度の金額上限・対象者・再雇用時の条件を、一般語の buyout 全体へ当てはめない。severance pay は解雇時などの給付にも使う広い対照表現で、必ずしも自発的退職への誘因ではない。語義3の既存契約を終了させる支払いと重なる場合もあるが、この用法は退職を促す提案という点が中心。"
+      ],
+      "synonyms": [
+        {
+          "word": "golden handshake",
+          "definition": "退職する従業員、とくに幹部などへ支払う多額の金銭。",
+          "frequency": 4,
+          "difference": "金額の大きさが目立つ口語的表現で、自発的な退職を誘う場合だけに限らない。",
+          "example": "The departing executive received a generous golden handshake.",
+          "translation": "退任する幹部は、多額の退職一時金を受け取った。"
+        },
+        {
+          "word": "early retirement package",
+          "definition": "通常の退職時期より早く辞める人に提示する給付一式。",
+          "frequency": 4,
+          "difference": "早期退職に限定する。buyout は引退を伴わない自発的な離職も対象にできる。",
+          "example": "He compared the early retirement package with the pension he would receive if he stayed.",
+          "translation": "彼は早期退職の給付条件を、勤め続けた場合に受け取る年金と比較した。"
+        },
+        {
+          "word": "voluntary severance package",
+          "definition": "自発的に退職することを条件に提示される離職時の給付一式。",
+          "frequency": 3,
+          "difference": "voluntary が任意の退職であることを明示する。buyout より雇用上の給付内容に焦点を置いた表現。",
+          "example": "Employees have a month to decide whether to accept the voluntary severance package.",
+          "translation": "従業員には、希望退職の給付条件を受け入れるか決めるために1か月が与えられている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算】契約解消のための支払い・取り決め",
+      "frequency": 4,
+      "register": [
+        "契約・スポーツ報道・賃貸・年金。とくに米国の文脈で目にする。"
+      ],
+      "definition": "継続中の契約や将来の支払いを受ける権利などを、合意された対価によって終了・清算すること。また、その対価。スポーツ選手・指導者の契約、賃貸借契約、年金の将来給付権などで使う。全額の前払いとは限らず、何を終了するか、誰が誰に支払うかは契約や制度によって異なる。",
+      "patterns": [
+        "a buyout of someone's contract＝その人の契約を金銭で終了させること",
+        "negotiate a buyout＝解消条件を交渉する",
+        "agree to a buyout＝解消条件に同意する",
+        "a buyout clause in 〈契約〉＝金銭による解消などを定める条項",
+        "a buyout payment＝解消のための支払い",
+        "a lump-sum pension buyout＝将来の年金給付に代わる一時金による清算。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a buyout of someone's contract",
+          "use": "期間を残した契約を金銭で終了させることをいう。",
+          "example": "The club negotiated a buyout of the coach's contract with two years remaining.",
+          "translation": "クラブは、残り期間が2年ある監督の契約について、金銭による解消を交渉した。"
+        },
+        {
+          "pattern": "a buyout clause in 〈契約〉",
+          "use": "支払いによって契約関係を終了できる条項を述べる。",
+          "example": "The buyout clause in the lease specifies the fee for an agreed early termination.",
+          "translation": "賃貸借契約の買い取り解約条項には、合意による中途解約の費用が定められている。"
+        },
+        {
+          "pattern": "agree to a buyout",
+          "use": "貸主・借主などが対価付きの契約解消に合意する場合を示す。",
+          "example": "The tenant agreed to a buyout and vacated the apartment after receiving the payment.",
+          "translation": "借主は金銭を受け取って賃貸借を解消することに同意し、支払いを受けてからアパートを明け渡した。"
+        },
+        {
+          "pattern": "a lump-sum pension buyout",
+          "use": "年金の将来給付を本人への一時金に置き換える場合を明確にする。",
+          "example": "She declined a lump-sum pension buyout and kept her right to monthly benefits.",
+          "translation": "彼女は年金を一時金で清算する提案を断り、毎月の給付を受ける権利を維持した。"
+        }
+      ],
+      "notes": [
+        "a contract buyout は契約解除の対価・取り決めを指し得るが、buyout という語だけで一方的な解除権が生じるわけではない。契約によって同意・承認・所定の手続きなどが必要になる。a lease buyout は借主が支払って解約する場合、貸主が支払って明け渡しを受ける場合、車などを買い取る語義1の場合があるため、支払者と取得・消滅する権利を確認する。pension buyout も、本人が一時金を受けて将来給付権を清算する用法と、保険会社が年金支払責任を引き受ける語義5とで結果が異なる。buyout clause は条項、buyout payment は支払金、buyout offer は提案であり、いずれも契約終了が既に完了したことを示すとは限らない。"
+      ],
+      "synonyms": [
+        {
+          "word": "settlement",
+          "definition": "金額や条件を合意して、請求・紛争・契約上の問題などを処理する取り決め。",
+          "frequency": 6,
+          "difference": "buyout より広く、紛争の解決にも使う。持分や契約の残期間を買い取って終了する場合に限らない。",
+          "example": "The coach and the club reached a settlement over the unpaid salary.",
+          "translation": "監督とクラブは、未払い給与について合意に達した。"
+        },
+        {
+          "word": "termination payment",
+          "definition": "契約や雇用の終了に伴って支払われる金銭。",
+          "frequency": 3,
+          "difference": "支払いそのものを指す表現で、終了に関する交渉・取り決め全体まで表す buyout より範囲が狭い。",
+          "example": "The agreement sets out how the termination payment will be calculated.",
+          "translation": "合意書には、契約終了時の支払額をどのように算定するかが定められている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・可算】施設・会場の貸し切り",
+      "frequency": 3,
+      "register": [
+        "宿泊・宴会・イベント運営の業界用法。広告・見積書・予約条件で使う。"
+      ],
+      "definition": "ホテル・飲食店・イベント会場などの利用枠を、特定の団体や催しのためにまとめて確保し、一定期間専用に使うこと。施設の所有権を買う語義1とは異なる。全館・全施設を使う full buyout と、一部の区画などを対象にする partial buyout がある。",
+      "patterns": [
+        "a full hotel buyout＝ホテル全館の貸し切り",
+        "a partial buyout of 〈施設〉＝施設の一部の貸し切り",
+        "a buyout for 〈催し〉＝催しのための貸し切り",
+        "be available for buyout＝貸し切り利用が可能である。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a full hotel buyout",
+          "use": "宿泊施設の全体を一団体が予約することをいう。",
+          "example": "We arranged a full hotel buyout for the wedding weekend, reserving every room for our guests.",
+          "translation": "結婚式の週末はホテルを全館貸し切りにし、すべての客室を招待客のために確保した。"
+        },
+        {
+          "pattern": "a partial buyout of 〈施設〉",
+          "use": "貸し切りの範囲が施設の一部に限られることを示す。",
+          "example": "The partial buyout of the resort covers one wing, while the other rooms remain open to regular guests.",
+          "translation": "そのリゾートの部分貸し切りは一つの棟を対象とし、ほかの客室は一般客も利用できる。"
+        },
+        {
+          "pattern": "a buyout for 〈催し〉",
+          "use": "専用利用の目的となるイベントを示す。",
+          "example": "The venue quoted a price for a buyout for our annual conference.",
+          "translation": "その会場は、私たちの年次会議のための貸し切り料金を見積もった。"
+        },
+        {
+          "pattern": "be available for buyout",
+          "use": "施設が貸し切り予約を受け付けることを案内する。",
+          "example": "The small hotel is available for buyout for private celebrations.",
+          "translation": "その小さなホテルは、私的なお祝いの催しのために貸し切り利用できる。"
+        }
+      ],
+      "notes": [
+        "a hotel buyout は経済記事ならホテル事業の買収、予約案内なら貸し切りを表し得る。for one weekend、every room、private event などが語義の判断材料になる。full と partial は貸し切る範囲を区別し、buyout だけで常に全施設・全サービスが含まれるとは決まらない。a buyout of the hotel for two nights「2泊のホテル貸し切り」と a buyout of the hotel company by investors「投資家によるホテル会社の買収」を区別する。単に数部屋を取り置く room block は、通常、施設の独占利用まで意味しない対照表現。"
+      ],
+      "synonyms": [
+        {
+          "word": "exclusive use",
+          "definition": "他の利用者と共用せず、特定の利用者だけが施設などを使うこと。",
+          "frequency": 4,
+          "difference": "利用状態を表し、予約・対価を伴う取引を表す buyout より広い。施設所有者自身の専用利用にも使える。",
+          "example": "The package includes exclusive use of the garden for the ceremony.",
+          "translation": "そのプランには、挙式のための庭園の専用利用が含まれている。"
+        },
+        {
+          "word": "private hire",
+          "definition": "私的な催しなどのために会場や設備を借り切ること。",
+          "frequency": 3,
+          "difference": "この用法は主に英国の会場案内で使い、借りることに重点がある。全館を買い切る予約に限らず、一室の貸し切りにも使える。",
+          "example": "The dining room is available for private hire on Sundays.",
+          "translation": "そのダイニングルームは、日曜日に貸し切りで利用できる。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞・可算、方式としては不可算にもなる】年金支払責任の保険会社への移転",
+      "frequency": 2,
+      "register": [
+        "年金・保険の専門用法。英国では buy-out の綴りも一般的。類似の年金リスク移転は他国にもあるが、具体的制度は同一ではない。"
+      ],
+      "definition": "企業年金などで、保険料を払って保険会社に年金支払責任を引き受けてもらい、対象加入者が保険会社から直接給付を受ける形へ移すこと。とくに英国の確定給付年金の説明で使われる。年金制度・雇用主が負っていたリスクを保険会社へ移す仕組みであり、加入者本人へ一時金を渡して給付権を消す語義3とは異なる。",
+      "patterns": [
+        "a pension buyout＝保険会社への年金支払責任の移転",
+        "a buyout with 〈保険会社〉＝相手となる保険会社を示す",
+        "the cost of buyout＝方式・過程としての移転費用",
+        "a buyout policy＝移転後の年金給付を定める保険契約。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a pension buyout",
+          "use": "年金制度から保険会社への支払責任の移転を述べる。",
+          "example": "Under the pension buyout, the insurer became directly responsible for paying members' benefits.",
+          "translation": "その年金バイアウトにより、保険会社が加入者への給付を直接支払う責任を負うことになった。"
+        },
+        {
+          "pattern": "a buyout with 〈保険会社〉",
+          "use": "年金支払責任を引き受ける保険会社を示す。",
+          "example": "The trustees agreed a buyout with an insurer before winding up the scheme.",
+          "translation": "受託者たちは年金制度を清算する前に、保険会社とのバイアウトに合意した。"
+        },
+        {
+          "pattern": "the cost of buyout",
+          "use": "保険による責任移転という方式の費用をいう。",
+          "example": "The trustees compared the cost of buyout with the cost of continuing the pension scheme.",
+          "translation": "受託者たちは、保険会社への責任移転の費用と、年金制度を継続する費用を比較した。"
+        },
+        {
+          "pattern": "a buyout policy",
+          "use": "給付の支払主体が保険会社になる契約をいう。",
+          "example": "Her buyout policy provides a pension paid directly by the insurer.",
+          "translation": "彼女のバイアウト保険契約では、保険会社から年金が直接支払われる。"
+        }
+      ],
+      "notes": [
+        "英国の年金分野の buy-in は、保険契約を年金制度の資産として保有し、制度側が加入者への給付責任を維持する方式。buyout では保険会社が加入者へ直接支払う責任を負う。buy-in を buyout の反意語とせず、責任の残り方が異なる対照表現として覚える。Buy-in keeps the policy within the scheme.「バイインでは保険契約は制度内の資産として残る」に対し、The buyout transferred payment responsibility to the insurer.「バイアウトは支払責任を保険会社へ移した」。移転後もデータの誤りなどに関する残存リスクの扱いは別途問題になり得るため、「あらゆる義務が必ず消滅する」とはしない。語義3の本人への lump-sum buyout と混同せず、誰にお金を払い、誰が年金を支払うかを読む。専門用語としての買い取りで、日常の退職金一般を指す表現ではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}
