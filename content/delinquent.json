@@ -1,0 +1,474 @@
+{
+  "word": "delinquent",
+  "slug": "delinquent",
+  "ipa": "米・英: /dɪˈlɪŋkwənt/。3音節で、第2音節に強勢がある。第2音節末の /ŋ/ から第3音節頭の /k/ に続く部分では、間に母音を入れない。名詞と形容詞の発音は同じ。",
+  "lead": "主に若者が、法律や社会的な規範に反する行動をすること、またはそのような行動・集団などに関係することを表す。単に元気で反抗的というより強い否定的評価を伴う。一般用法では、逮捕・有罪判決があったことまでは意味しない。",
+  "updated": "2026-10-19",
+  "notion_url": "https://app.notion.com/p/delinquent-3fe4faa9b77d818c9b93d57273ba2d05",
+  "pronunciation": [],
+  "etymology": [
+    "ラテン語 delinquere「義務を果たさない・過ちを犯す」の現在分詞 delinquens にさかのぼる。名詞は中期フランス語 delinquant を経た形、形容詞はラテン語の分詞に基づく形として説明される。語源的には de- と linquere「残す・離れる」の組み合わせだが、現代英語で自由に分解して意味を作る語ではない。",
+    "同じ linquere の系統に relinquish「放棄する」と relic「残されたもの・遺物」がある。現在の delinquent は、非行・義務不履行・支払いの遅れをそれぞれ文脈に応じて表す。"
+  ],
+  "formation": [
+    {
+      "term": "delinquency",
+      "description": "非行、義務の不履行、支払いの延滞を表す名詞。一般状態は不可算、個々の延滞事例などは delinquencies と数える。"
+    },
+    {
+      "term": "juvenile delinquency",
+      "description": "少年非行を表す定着した複合名詞。法的な範囲は制度により異なる。"
+    },
+    {
+      "term": "nondelinquent",
+      "description": "延滞していない、または非行のないという形容詞。金融・研究などで使い、何の分類かを文脈で明示する。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "守るべき規範や果たすべき義務を果たしていないことが核。行動上の規範、支払い、職務のどれが問題かで意味が分かれ、名詞では該当する人や、金融用法では組織も指す。"
+    },
+    {
+      "type": "item",
+      "text": "行動規範を守らない人や行動の性質 → 「非行のある・非行に関する」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "行動規範を守らない人 → 「非行少年・非行者」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "支払義務を期日どおりに果たさない状態 → 「支払いが延滞した・滞納している」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "職務上の義務を果たさない状態 → 「義務を怠っている」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "支払義務を期日どおりに果たさない人・組織 → 「滞納者」（語義5）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【形容詞・限定／叙述】非行のある・非行に関する",
+      "frequency": 6,
+      "register": [
+        "一般・報道・教育・社会福祉。人物への評価としては非難的。少年司法では制度上の用語にもなる。"
+      ],
+      "definition": "主に若者が、法律や社会的な規範に反する行動をすること、またはそのような行動・集団などに関係することを表す。単に元気で反抗的というより強い否定的評価を伴う。一般用法では、逮捕・有罪判決があったことまでは意味しない。",
+      "patterns": [
+        "a delinquent teenager＝非行のある十代の若者",
+        "delinquent behavior＝非行に当たる行動",
+        "delinquent peers＝非行のある仲間",
+        "become delinquent＝非行に走る",
+        "be adjudicated delinquent＝少年司法の手続きで非行事実を認定される。人と行動の両方を修飾する。程度を比較するときは more delinquent を使えるが、法的な認定を程度の問題にはしない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a delinquent teenager",
+          "use": "人物の行動上の問題を述べる。",
+          "example": "The novel follows a delinquent teenager who repeatedly steals from local shops.",
+          "translation": "その小説は、地元の店で繰り返し万引きをする非行少年を描いている。"
+        },
+        {
+          "pattern": "delinquent behavior",
+          "use": "人物全体と区別して問題となる行動を指す。",
+          "example": "The study examined delinquent behavior such as vandalism and shoplifting.",
+          "translation": "その研究は、器物損壊や万引きなどの非行行動を調べた。"
+        },
+        {
+          "pattern": "delinquent peers",
+          "use": "非行のある同年代の仲間を表す。",
+          "example": "The report explored the influence of delinquent peers on teenagers.",
+          "translation": "その報告書は、非行のある仲間が十代の若者に及ぼす影響を検討した。"
+        },
+        {
+          "pattern": "become delinquent",
+          "use": "非行に走るという変化を述べる。",
+          "example": "The researcher asked why some adolescents become delinquent while others do not.",
+          "translation": "その研究者は、一部の若者が非行に走り、ほかの若者はそうならないのはなぜかと問いかけた。"
+        },
+        {
+          "pattern": "be adjudicated delinquent",
+          "use": "米国などの少年司法での非行認定を述べる。",
+          "example": "The teenager was adjudicated delinquent in juvenile court after the hearing.",
+          "translation": "その十代の若者は、審理後、少年裁判所で非行事実を認定された。"
+        }
+      ],
+      "notes": [
+        "a delinquent youth の delinquent は形容詞だが、a delinquent は語義2の名詞。delinquent account のような金融用法は語義3であり、「非行口座」とは訳さない。一般的な delinquent behavior と裁判所の adjudication は同じではなく、少年司法の年齢区分・対象行為・認定手続きは法域により異なる。人に直接使うと烙印を押す響きがあるため、行動や認定事実を具体的に述べる表現とも使い分ける。"
+      ],
+      "synonyms": [
+        {
+          "word": "antisocial",
+          "definition": "他者や社会の規範を顧みず、迷惑や害を及ぼす。",
+          "frequency": 7,
+          "difference": "犯罪や若年者に限らない。人付き合いを避けるという別義と混同しない。",
+          "example": "The tenants complained about antisocial behavior in the hallway.",
+          "translation": "住人たちは廊下での迷惑行為に苦情を申し立てた。"
+        },
+        {
+          "word": "criminal",
+          "definition": "犯罪に当たる、または犯罪に関係する。",
+          "frequency": 8,
+          "difference": "delinquent よりも犯罪との関係を明示し、年齢を限定しない。",
+          "example": "The investigation uncovered criminal activity at the warehouse.",
+          "translation": "捜査により、その倉庫での犯罪行為が発覚した。"
+        },
+        {
+          "word": "lawless",
+          "definition": "法律や秩序を無視する。",
+          "frequency": 5,
+          "difference": "個々の非行だけでなく、集団・地域の無秩序も強く表す。",
+          "example": "Residents feared the lawless gangs operating near the station.",
+          "translation": "住民は、駅の近くで活動する無法な集団を恐れていた。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "law-abiding",
+          "definition": "法律を守る。",
+          "frequency": 6,
+          "difference": "法への従順さという軸で反対。すべての社会的規範に従うことまでは含まない。",
+          "example": "Most of the young people in the neighborhood are law-abiding.",
+          "translation": "その地域の若者の大半は法律を守っている。"
+        },
+        {
+          "word": "well-behaved",
+          "definition": "行儀がよく、問題行動を起こさない。",
+          "frequency": 7,
+          "difference": "行動の評価という軸で反対だが、法的な非行認定の反対語ではない。",
+          "example": "The children were well-behaved throughout the visit.",
+          "translation": "子供たちは訪問中ずっと行儀よくしていた。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算】非行少年・非行者",
+      "frequency": 6,
+      "register": [
+        "一般・報道・社会福祉・少年司法。人物に対する呼称には非難的な響きがある。"
+      ],
+      "definition": "違法行為や社会的に認められない行動をする人。単独では若者を指すことが多く、juvenile delinquent は特に少年の非行者を指す。話者による非難的な呼び方にも、少年司法・福祉での分類にもなるが、日常の呼び方だけで法的な認定があったとは判断できない。",
+      "patterns": [
+        "a delinquent＝一人の非行者",
+        "delinquents＝複数の非行者",
+        "a juvenile delinquent＝非行少年",
+        "label someone a delinquent＝人を非行者と決めつける。性別は限定せず、日本語の「少年」も男児だけの意味とは限らない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a juvenile delinquent",
+          "use": "若年の非行者を指す定着した表現。",
+          "example": "The documentary follows a former juvenile delinquent who now works with young people.",
+          "translation": "そのドキュメンタリーは、今では若者の支援に携わる、かつての非行少年を追っている。"
+        },
+        {
+          "pattern": "teenage delinquents",
+          "use": "十代の非行者を複数で指す。",
+          "example": "The center offers counseling to teenage delinquents and their families.",
+          "translation": "その施設は、十代の非行者とその家族にカウンセリングを提供している。"
+        },
+        {
+          "pattern": "label someone a delinquent",
+          "use": "人への決めつけを表す。",
+          "example": "She objected when the newspaper labeled her son a delinquent.",
+          "translation": "彼女は、新聞が息子を非行少年と呼んだことに抗議した。"
+        },
+        {
+          "pattern": "a group of delinquents",
+          "use": "非行者の集団を指す。",
+          "example": "A group of delinquents had been breaking windows in the neighborhood.",
+          "translation": "非行少年たちの一団が、その地域で窓ガラスを割っていた。"
+        }
+      ],
+      "notes": [
+        "可算名詞なので単数は a delinquent とする。He is delinquent. は形容詞、He is a delinquent. は人を分類する名詞で、後者は人物全体への決めつけが強く聞こえやすい。juvenile delinquent の法的範囲は法域による。tax delinquent は「税金の滞納者」で、語義5の別義である。"
+      ],
+      "synonyms": [
+        {
+          "word": "young offender",
+          "definition": "法に違反した若者。",
+          "frequency": 6,
+          "difference": "非行者という人物評価より、違法行為をした若者という点に焦点がある。法的な年齢範囲は制度による。",
+          "example": "The program helps young offenders return to education.",
+          "translation": "その事業は、法に触れる行為をした若者の学業復帰を支援する。"
+        },
+        {
+          "word": "offender",
+          "definition": "違反行為や犯罪をした人。",
+          "frequency": 7,
+          "difference": "年齢を限定せず、交通違反などの個別の違反者にも使う。",
+          "example": "First-time offenders may receive a different sentence.",
+          "translation": "初犯者には異なる量刑が適用されることがある。"
+        },
+        {
+          "word": "troublemaker",
+          "definition": "周囲に問題や騒ぎを起こす人。",
+          "frequency": 7,
+          "difference": "違法行為を含意せず、delinquent より軽い行動も含む日常語。",
+          "example": "The coach refused to dismiss him as a troublemaker.",
+          "translation": "コーチは彼を問題児として片づけることを拒んだ。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【形容詞・限定／叙述】支払いが延滞した・滞納している",
+      "frequency": 6,
+      "register": [
+        "金融・会計・税務。特に米国英語で多い、事務的な表現。"
+      ],
+      "definition": "支払うべき金銭が期限を過ぎても支払われていない状態、またはその支払いを遅らせている人・組織を表す。税金・請求・融資口座などの物にも、借り手・納税者などの人にも使う。返済不能や悪意を必須条件とする語ではない。",
+      "patterns": [
+        "delinquent payments/accounts/taxes＝延滞した支払い・口座・税金",
+        "delinquent borrowers＝延滞中の借り手",
+        "be delinquent on 〈支払債務〉＝その支払いを滞納している",
+        "be delinquent in paying 〈支払対象〉＝その支払いが遅れている",
+        "be 〈期間〉 delinquent＝その期間だけ延滞している",
+        "become delinquent＝延滞状態になる。seriously delinquent は使うが、単純な比較より延滞期間や分類基準を示す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "delinquent taxes",
+          "use": "納期限を過ぎた税金を指す。",
+          "example": "The notice listed the amount of delinquent taxes and any applicable charges.",
+          "translation": "その通知には、滞納税額と適用される追加負担額が記載されていた。"
+        },
+        {
+          "pattern": "delinquent accounts",
+          "use": "支払いが遅れている口座を指す。",
+          "example": "The lender reviews delinquent accounts every week.",
+          "translation": "貸し手は、支払いが延滞している口座を毎週確認する。"
+        },
+        {
+          "pattern": "delinquent borrowers",
+          "use": "支払いが遅れている人を指す。",
+          "example": "The bank contacted delinquent borrowers to discuss repayment options.",
+          "translation": "銀行は、返済方法を話し合うため、延滞中の借り手に連絡した。"
+        },
+        {
+          "pattern": "be delinquent on 〈支払債務〉",
+          "use": "どの支払いが滞っているかを示す。",
+          "example": "They are delinquent on their mortgage payments.",
+          "translation": "彼らは住宅ローンの返済を滞納している。"
+        },
+        {
+          "pattern": "be delinquent in paying 〈支払対象〉",
+          "use": "支払い行為の遅れを表す。",
+          "example": "Several contractors were delinquent in paying their taxes.",
+          "translation": "複数の請負業者が税金の支払いを滞納していた。"
+        },
+        {
+          "pattern": "be 〈期間〉 delinquent",
+          "use": "延滞期間を数値で示す。",
+          "example": "The account is now sixty days delinquent.",
+          "translation": "その口座の支払いは現在60日延滞している。"
+        },
+        {
+          "pattern": "become delinquent",
+          "use": "延滞状態への変化を述べる。",
+          "example": "The loan became delinquent after a scheduled payment was missed.",
+          "translation": "予定された返済が行われず、その融資は延滞状態になった。"
+        }
+      ],
+      "notes": [
+        "delinquent は形容詞で、動詞として「滞納する」とは使わない。誤り She delinquents on her loan. に対して、She is delinquent on her loan. または She has fallen behind on her loan payments. とする。on の後は支払い対象、in paying の後は目的語を置く。delinquent と in default は制度上別の状態として区別されることがあるが、すべての融資に共通する移行日数はない。default は支払い以外の契約違反も含み得るため、単に「延滞が長くなったこと」とは定義しない。延滞の認定、猶予期間、信用情報への報告、回収手続きはそれぞれ契約・制度による。"
+      ],
+      "synonyms": [
+        {
+          "word": "overdue",
+          "definition": "支払いや履行の期限を過ぎている。",
+          "frequency": 8,
+          "difference": "請求書・返済のほか、返却期限を過ぎた本にも使える。人より支払いなどの対象を直接修飾する。",
+          "example": "The invoice is two weeks overdue.",
+          "translation": "その請求書は、支払期限を2週間過ぎている。"
+        },
+        {
+          "word": "past due",
+          "definition": "支払期日を過ぎている。",
+          "frequency": 7,
+          "difference": "米国の請求・債権管理で使う、期日経過に焦点を置いた表現。",
+          "example": "The statement shows a past-due balance of two hundred dollars.",
+          "translation": "その明細書には、支払期日を過ぎた残高200ドルが示されている。"
+        },
+        {
+          "word": "in arrears",
+          "definition": "支払うべき金銭の支払いが遅れている。",
+          "frequency": 6,
+          "difference": "延滞分が残っている状態を表す前置詞句で、形容詞一語ではない。後払い方式を表す別用法もある。",
+          "example": "The tenant is three months in arrears with the rent.",
+          "translation": "その借家人は家賃を3か月分滞納している。"
+        },
+        {
+          "word": "behind",
+          "definition": "予定の支払いより遅れている。",
+          "frequency": 8,
+          "difference": "behind on payments の形で使う日常的な表現で、制度上の分類を指定しない。",
+          "example": "We fell behind on the bills when our income dropped.",
+          "translation": "収入が減ったとき、私たちは請求への支払いが遅れるようになった。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "current",
+          "definition": "支払うべきものが期日どおり支払われ、延滞がない。",
+          "frequency": 6,
+          "difference": "債務の支払状態という軸で反対。融資残高がゼロという意味ではない。",
+          "example": "All of her loan payments are current.",
+          "translation": "彼女のローン返済はすべて期日どおりに行われている。"
+        },
+        {
+          "word": "up to date",
+          "definition": "必要な支払いを現時点まで済ませている。",
+          "frequency": 7,
+          "difference": "支払いの遅れがない状態として反対。up to date with payments の形をとる。",
+          "example": "We are up to date with our rent payments.",
+          "translation": "私たちは現時点までの家賃を遅れなく払っている。"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "【形容詞・限定／叙述】義務を怠っている",
+      "frequency": 4,
+      "register": [
+        "かたい表現。行政・職務上の批判。米国英語で特に使われる。"
+      ],
+      "definition": "果たすべき職務・責任・義務を果たしていない。怠慢をとがめる含みがあり、単なる手際の悪さより、すべきことをしない点を強調する。違法行為や金銭の滞納に限らず、報告・監督などの責任にも使う。",
+      "patterns": [
+        "be delinquent in one’s duties＝職務を怠っている",
+        "be delinquent in doing something＝するべき行為を怠っている",
+        "be delinquent in failing to do something＝しなかったことが義務違反である",
+        "a delinquent official＝義務を怠る役人。限定・叙述の両方があり、seriously/grossly delinquent のような強調も可能。"
+      ],
+      "collocations": [
+        {
+          "pattern": "be delinquent in one's duties",
+          "use": "職務全般の不履行を批判する。",
+          "example": "The audit found that several officials had been delinquent in their duties.",
+          "translation": "監査は、複数の職員が職務を怠っていたことを明らかにした。"
+        },
+        {
+          "pattern": "be delinquent in doing something",
+          "use": "怠っていた具体的な行為を述べる。",
+          "example": "The agency was delinquent in reporting the safety violations.",
+          "translation": "その機関は、安全規則違反の報告を怠っていた。"
+        },
+        {
+          "pattern": "be delinquent in failing to do something",
+          "use": "しなかった行為を義務違反として評価する。",
+          "example": "The board was delinquent in failing to investigate the complaint.",
+          "translation": "取締役会がその苦情を調査しなかったのは、責任を怠る行為だった。"
+        },
+        {
+          "pattern": "a delinquent official",
+          "use": "職務を果たさない担当者を指す。",
+          "example": "The report criticized delinquent officials who had ignored repeated safety warnings.",
+          "translation": "その報告書は、繰り返された安全上の警告を無視し、職務を怠った役人たちを批判した。"
+        }
+      ],
+      "notes": [
+        "in reporting は「報告する義務について怠慢」、in failing to report は「報告しなかったことにより怠慢」となる。delinquent to report という不定詞構文にはしない。金融用法は語義3、非行のある若者の用法は語義1。人だけでなく機関や取締役会も主語になるが、行為に対する責任を帰属させる表現である。"
+      ],
+      "synonyms": [
+        {
+          "word": "negligent",
+          "definition": "必要な注意や配慮を欠いている。",
+          "frequency": 6,
+          "difference": "義務を果たさないことだけでなく、行った業務の注意不足も含む。法律上の過失の認定は別に判断する。",
+          "example": "The report described the operator as negligent in maintaining the equipment.",
+          "translation": "その報告書は、運営者が設備の保守に必要な注意を欠いていたと述べた。"
+        },
+        {
+          "word": "remiss",
+          "definition": "すべきことを怠っている。",
+          "frequency": 5,
+          "difference": "責任のある行為をしなかったという点で近く、謝罪や自己批判にも使う。",
+          "example": "I was remiss in not thanking you sooner.",
+          "translation": "もっと早くお礼を言わなかったのは、私の不行き届きでした。"
+        },
+        {
+          "word": "derelict",
+          "definition": "義務を著しく怠っている。",
+          "frequency": 4,
+          "difference": "人については derelict in one’s duty が典型で、重大な職務放棄という強い批判になる。",
+          "example": "The supervisor was derelict in his duty to protect the workers.",
+          "translation": "その監督者は、労働者を保護する職責を著しく怠っていた。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "dutiful",
+          "definition": "自分の義務をきちんと果たす。",
+          "frequency": 5,
+          "difference": "義務への態度という軸で反対。従順さを含むこともある。",
+          "example": "She remained a dutiful member of the committee.",
+          "translation": "彼女は引き続き、委員としての務めをきちんと果たした。"
+        },
+        {
+          "word": "conscientious",
+          "definition": "責任感を持ち、注意深く仕事を行う。",
+          "frequency": 6,
+          "difference": "職務への取り組みという軸で反対。必要最小限の履行以上の丁寧さを含む。",
+          "example": "A conscientious inspector recorded every defect.",
+          "translation": "責任感のある検査員は、すべての不具合を記録した。"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "【名詞・可算】滞納者",
+      "frequency": 4,
+      "register": [
+        "特に北米の金融・税務・行政。事務的な分類や報道。"
+      ],
+      "definition": "税金や借入金など、支払うべき金銭の支払いが遅れている人・組織。tax delinquent など、何を滞納しているかを示す修飾語とともに使うことが多い。",
+      "patterns": [
+        "a tax delinquent＝税金の滞納者",
+        "credit delinquents＝借入れ・クレジットの支払いを延滞している人々",
+        "identify delinquents＝滞納者を特定する。個々の人・組織を数え、複数形は delinquents。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a tax delinquent",
+          "use": "税金を滞納している人・組織を表す。",
+          "example": "The company appeared on a public list of tax delinquents.",
+          "translation": "その会社は、公開された税金滞納者の一覧に載っていた。"
+        },
+        {
+          "pattern": "credit delinquents",
+          "use": "金融の支払いが遅れている人を分類する。",
+          "example": "The report distinguished credit delinquents from borrowers whose payments were current.",
+          "translation": "その報告書は、借入れ・クレジットの延滞者と、返済に遅れのない借り手を区別した。"
+        },
+        {
+          "pattern": "identify delinquents",
+          "use": "支払記録から滞納者を把握する。",
+          "example": "The tax office used the payment records to identify delinquents.",
+          "translation": "税務当局は、納付記録を使って滞納者を特定した。"
+        }
+      ],
+      "notes": [
+        "この意味の delinquent に若者という年齢制限や非行の含意はない。文脈なしの a delinquent は語義2に読まれやすいので、税務・金融では tax delinquent などと範囲を明示する。a delinquent taxpayer は形容詞＋名詞、a tax delinquent は tax に修飾された名詞である。単なる debtor「債務者」は、支払期限を守っている人も含むため同義語にはならない。"
+      ],
+      "synonyms": [
+        {
+          "word": "defaulter",
+          "definition": "金銭などの義務を履行しない者。",
+          "frequency": 5,
+          "difference": "支払不履行という点で近いが、制度上 default と delinquency が区別される場合は同じ分類ではない。",
+          "example": "The lender contacted the defaulter to discuss the unpaid balance.",
+          "translation": "貸し手は、未払い残高を話し合うため、不履行者に連絡した。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

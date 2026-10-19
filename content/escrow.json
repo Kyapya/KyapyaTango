@@ -1,0 +1,276 @@
+{
+  "word": "escrow",
+  "slug": "escrow",
+  "ipa": "米: /ˈes.kroʊ/｜英: /ˈes.krəʊ/",
+  "lead": "金銭、財産、証書などを第三者に預け、合意された条件が満たされたときに定められた相手へ引き渡す仕組み、またはその仕組みで保管される資産。エスクロー、条件付き預託。売買の当事者が直接交換する代わりに、間に入る者が保管・引渡しを管理する。米国の不動産では、売買の決済に向けた一連の預託手続きを指すこともある。",
+  "updated": "2026-10-19",
+  "notion_url": "https://app.notion.com/p/escrow-3fe4faa9b77d814298e6d78941b9e2a4",
+  "pronunciation": [
+    "2音節で、上記の代表発音は第1音節に主強勢。米英差は第2音節の母音で、米 /oʊ/、英 /əʊ/。名詞・動詞とも第2音節に主強勢を置く発音もある。複数形・三人称単数形 escrows の語尾は /z/、過去形・過去分詞 escrowed の語尾は /d/。"
+  ],
+  "etymology": [
+    "アングロフランス語 escroue「巻物・羊皮紙の一片」に由来する。条件が満たされるまで第三者に預ける証書を指したことが、金銭や財産の条件付き預託へつながった。scroll「巻物」と語源上のつながりがあり、さらに古いゲルマン語系の「切れ端」にさかのぼる点で shred「細片」とも関係する。現代英語では es- と crow に分解して意味を取る語ではない。"
+  ],
+  "formation": [
+    {
+      "term": "escrowed / escrowing",
+      "description": "（動詞の活用形）: 預託した／預託している。escrowed funds「預託された資金」の escrowed は過去分詞による修飾で、別の評価的意味を持つ形容詞ではない。"
+    },
+    {
+      "term": "escrow agent（複合名詞）",
+      "description": "エスクローの資金・書類などを預かり、合意された指示に従って扱う第三者。"
+    },
+    {
+      "term": "escrow account（複合名詞）",
+      "description": "条件付き支払いなどのための預託口座。売買取引用と住宅ローン関連費用用を区別する。"
+    },
+    {
+      "term": "software escrow / source code escrow（複合名詞）",
+      "description": "契約で定めた条件で引き渡すための、ソフトウェアのソースコードなどの第三者預託。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "「所定の目的・条件に沿って渡すため、資産を預けて管理すること」が核となる。取引の条件付き預託と、税・保険料の支払いに備える住宅ローンの預託では、管理者や支払いの仕組みが異なる。"
+    },
+    {
+      "type": "item",
+      "text": "条件に沿った引渡しまでの預託 → 「条件付き第三者預託・その預託資産」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "目的に沿った費用支払いまでの預託 → 「住宅ローンの税・保険料用預託」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "条件や目的に沿った預託の実行 → 「エスクローに預ける」（語義3）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・主に不可算、個別の取引・預託では可算】条件付き第三者預託・その預託資産",
+      "frequency": 5,
+      "register": [
+        "法律、金融、不動産、商取引。特に米国の不動産でよく使うが、国際取引やソフトウェア契約にも用いる。"
+      ],
+      "definition": "金銭、財産、証書などを第三者に預け、合意された条件が満たされたときに定められた相手へ引き渡す仕組み、またはその仕組みで保管される資産。エスクロー、条件付き預託。売買の当事者が直接交換する代わりに、間に入る者が保管・引渡しを管理する。米国の不動産では、売買の決済に向けた一連の預託手続きを指すこともある。",
+      "patterns": [
+        "hold something in escrow＝資産を条件付きで預かる",
+        "put something into escrow＝資産を預託状態に入れる",
+        "release something from escrow＝預託から資産を引き渡す",
+        "an escrow account＝取引用預託口座",
+        "an escrow agent＝預託管理者",
+        "an escrow agreement＝預託契約",
+        "be in escrow＝不動産の取引が決済前の預託手続き中である",
+        "close escrow＝預託を通じた売買決済を完了する",
+        "software escrow＝ソースコードなどの条件付き預託。各句で escrow は名詞。"
+      ],
+      "collocations": [
+        {
+          "pattern": "hold 〈資産〉 in escrow",
+          "use": "売り手などへ直ちに渡さず、第三者が条件付きで保管する。",
+          "example": "An independent agent will hold the buyer's payment in escrow until the agreed inspection is complete.",
+          "translation": "独立した管理者が、合意された検査が終わるまで買い手の支払金をエスクローで預かる。"
+        },
+        {
+          "pattern": "put 〈資金〉 into escrow",
+          "use": "金銭を条件付きの預託に移す。",
+          "example": "The buyer put the deposit into escrow after signing the purchase agreement.",
+          "translation": "買い手は売買契約に署名した後、手付金をエスクローに預けた。"
+        },
+        {
+          "pattern": "release 〈資金〉 from escrow",
+          "use": "条件に従って保管中の資金を払い出す。",
+          "example": "The agent released the funds from escrow after receiving the approvals required by the agreement.",
+          "translation": "管理者は、契約で必要とされた承認を受けてから、預託中の資金を払い出した。"
+        },
+        {
+          "pattern": "an escrow account",
+          "use": "売買代金などを条件付きで管理する口座を指す。",
+          "example": "The purchase money must remain in an escrow account until the transaction closes.",
+          "translation": "売買代金は、取引の決済が済むまでエスクロー口座に置いておかなければならない。"
+        },
+        {
+          "pattern": "an escrow agent",
+          "use": "当事者から資金などを預かる役割を指す。",
+          "example": "Both parties agreed to appoint the same escrow agent for the sale.",
+          "translation": "両当事者は、その売買について同じエスクロー管理者を選任することに合意した。"
+        },
+        {
+          "pattern": "an escrow agreement",
+          "use": "預託対象や引渡し条件を定める契約を指す。",
+          "example": "The escrow agreement specifies when the deposit can be returned to the buyer.",
+          "translation": "そのエスクロー契約には、どのような場合に預託金を買い手へ返せるかが定められている。"
+        },
+        {
+          "pattern": "be in escrow",
+          "use": "米国の不動産で、契約後の決済手続き中であることを述べる。",
+          "example": "The house is in escrow, but the sale has not closed yet.",
+          "translation": "その家はエスクローによる決済手続き中だが、売買はまだ完了していない。"
+        },
+        {
+          "pattern": "close escrow",
+          "use": "米国の不動産売買で、預託を通じた決済を完了する。",
+          "example": "The buyers hope to close escrow before the end of the month.",
+          "translation": "買い手は月末までにエスクローによる決済を完了したいと考えている。"
+        },
+        {
+          "pattern": "software escrow",
+          "use": "ソフトウェアの継続利用などに備える第三者預託を指す。",
+          "example": "Their software escrow agreement requires the vendor to deposit updated source code with an independent agent.",
+          "translation": "両社のソフトウェア・エスクロー契約では、供給業者が更新済みのソースコードを独立した管理者に預けることになっている。"
+        }
+      ],
+      "notes": [
+        "定型句は in escrow で、通常 in an escrow とはしない。個別の預託取引・契約・基金を数える専門的文脈では an escrow / several escrows もある。The money is in escrow. は「資金が預託中」、The house is in escrow. は米国の不動産で「その家の売買が預託を利用した決済手続き中」であり、家を物理的に預ける意味ではない。escrow account の escrow は名詞の前置修飾で、独立した形容詞とみなす必要はない。預託は売り手への支払完了や所有権移転そのものではなく、キャンセル時の返金や引渡しの効果は契約・適用制度による。ソースコードの預託も著作権の譲渡や一般公開を意味せず、引渡し条件と受領後の利用権は契約で確認する。deposit は預けた金銭や預け入れを広く指し、earnest money は売買への真剣な意思を示す金銭であり、それ自体が escrow の仕組みを指すわけではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "deposit",
+          "definition": "保管・取引・担保などの目的で預けられた金銭や物、または預け入れ。",
+          "frequency": 8,
+          "difference": "預ける行為・預けられた物という点で重なるが、第三者による条件付き引渡しを必ずしも伴わない。",
+          "example": "The tenant paid a deposit before moving in.",
+          "translation": "借り主は入居前に保証金を支払った。"
+        },
+        {
+          "word": "safekeeping",
+          "definition": "物や資産を安全に保管すること。",
+          "frequency": 4,
+          "difference": "保管という部分で重なる不可算名詞だが、escrow のような取引条件に応じた引渡しの仕組みまでは表さない。",
+          "example": "She left the original documents with her lawyer for safekeeping.",
+          "translation": "彼女は原本の書類を安全に保管してもらうため弁護士に預けた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・不可算、特に複合語で】住宅ローンの税・保険料用預託",
+      "frequency": 4,
+      "register": [
+        "主に米国、住宅ローン・家計管理。"
+      ],
+      "definition": "主に米国の住宅ローンで、借り手が固定資産税や住宅保険料などの支払いに備えて資金を積み立て、ローンの貸し手・管理会社が管理して支払う仕組み、またはその資金。escrow account はこの目的の口座、escrow payment はそのための払い込みを指す。売買決済までの一時的な預託とは別に、借入期間中も続き得る。",
+      "patterns": [
+        "pay 〈税・保険料〉 through escrow＝預託口座経由で支払う",
+        "an escrow account for 〈住宅関連費用〉＝その費用のための口座",
+        "a monthly escrow payment＝毎月の預託分払い込み",
+        "an escrow shortage＝預託口座の不足額",
+        "an escrow analysis＝預託口座の収支・必要額の見直し。"
+      ],
+      "collocations": [
+        {
+          "pattern": "pay 〈税・保険料〉 through escrow",
+          "use": "住宅関連費用を自分で直接払う代わりに口座を経由させる。",
+          "example": "We pay our property taxes through escrow as part of our mortgage arrangement.",
+          "translation": "私たちは住宅ローンの取り決めに基づき、固定資産税をエスクロー口座経由で支払っている。"
+        },
+        {
+          "pattern": "an escrow account for 〈住宅関連費用〉",
+          "use": "税金や保険料を積み立てる口座の用途を示す。",
+          "example": "The loan servicer manages an escrow account for our property taxes and homeowners insurance.",
+          "translation": "ローン管理会社が、私たちの固定資産税と住宅保険料のためのエスクロー口座を管理している。"
+        },
+        {
+          "pattern": "a monthly escrow payment",
+          "use": "毎月の住宅ローン支払額のうち税・保険料用の部分を指す。",
+          "example": "Our monthly escrow payment increased when the insurance premium went up.",
+          "translation": "保険料が上がったため、毎月のエスクローへの払い込み額が増えた。"
+        },
+        {
+          "pattern": "an escrow shortage",
+          "use": "住宅関連費用の支払いに備える預託金の不足を述べる。",
+          "example": "A higher property tax bill left us with an escrow shortage.",
+          "translation": "固定資産税の請求額が上がり、私たちのエスクロー口座に不足が生じた。"
+        },
+        {
+          "pattern": "an escrow analysis",
+          "use": "必要な預託額や払い込み額を見直す計算を指す。",
+          "example": "The servicer sent us an escrow analysis showing the revised monthly payment.",
+          "translation": "管理会社から、改定後の毎月の支払額を示すエスクロー口座の収支分析が届いた。"
+        }
+      ],
+      "notes": [
+        "この用法では、管理者は通常 mortgage servicer「ローン管理会社」であり、売買当事者間の独立した escrow agent と常に同じ構図ではない。escrow payment は元金返済額や利息そのものではない。固定金利のローンでも、税・保険料の変化でこの部分と月々の支払総額が変わることがある。すべての住宅ローンに同じ口座義務があるわけではなく、義務の有無や運用はローン条件・適用法による。escrow account は語義1の売買代金用口座にも使うため、taxes、insurance、mortgage などの文脈で区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "impound account",
+          "definition": "主に米国の住宅ローンで、税・保険料などを積み立てて支払う口座。",
+          "frequency": 3,
+          "difference": "この住宅ローン用口座では escrow account とほぼ同じものを指す地域的な呼称。一般の売買代金やソースコードの預託すべてを指す語ではない。",
+          "example": "The lender collects money for property taxes through an impound account.",
+          "translation": "貸し手は、固定資産税用の資金を積立口座を通じて集めている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞・他動詞】エスクローに預ける",
+      "frequency": 3,
+      "register": [
+        "金融、法律、契約実務。主に米国の用法だが、ソフトウェア契約などでも使う。"
+      ],
+      "definition": "金銭・証書・ソースコードなどを、所定の条件や目的に従って管理・引渡しするエスクローの仕組みに入れる。単に銀行へ入金するのではなく、そのような預託状態に置くことを表す。",
+      "patterns": [
+        "escrow 〈金銭・証書・コード〉＝対象を預託する",
+        "escrow something with 〈管理者〉＝誰に預託するか",
+        "escrow 〈資金〉 for 〈用途〉＝目的別に預託する",
+        "be escrowed until 〈条件・時点〉＝その条件・時点まで預託される。受動態は自然。"
+      ],
+      "collocations": [
+        {
+          "pattern": "escrow 〈資金〉",
+          "use": "取引用の金銭を条件付きで預ける。",
+          "example": "The parties agreed to escrow part of the purchase price until the repairs were finished.",
+          "translation": "両当事者は、修理が完了するまで売買代金の一部をエスクローに預けることに合意した。"
+        },
+        {
+          "pattern": "escrow something with 〈管理者〉",
+          "use": "預託先となる第三者を明示する。",
+          "example": "The developer escrowed the source code with an independent specialist.",
+          "translation": "開発業者はソースコードを独立した専門業者にエスクローとして預けた。"
+        },
+        {
+          "pattern": "escrow 〈資金〉 for 〈用途〉",
+          "use": "住宅関連費用などの支払いに備えて資金を預託する。",
+          "example": "Under this mortgage agreement, the borrower escrows funds for property taxes and insurance.",
+          "translation": "この住宅ローン契約では、借り手は固定資産税と保険料のための資金をエスクローに預ける。"
+        },
+        {
+          "pattern": "be escrowed until 〈条件・時点〉",
+          "use": "資産を主語にして条件付き預託の継続を述べる。",
+          "example": "The final payment will be escrowed until both parties confirm that delivery is complete.",
+          "translation": "最終支払金は、引渡しの完了を両当事者が確認するまでエスクローに預けられる。"
+        }
+      ],
+      "notes": [
+        "名詞構文 put the funds in escrow と、他動詞構文 escrow the funds は中心的には同じ預託行為を表す。動詞の後には預ける物を直接置き、預託先は with で示す。資産の受領者を表そうとして escrow the buyer とすると目的語が合わない。動詞の意味は「預ける」であり、release the funds from escrow「預託金を払い出す」と方向が異なるが、release は契約上の次工程でもあるため単純な反意語として覚えない。escrowed funds と The funds are escrowed. はそれぞれ分詞修飾と受動・預託状態の記述で、通常ハイフンは付けない。"
+      ],
+      "synonyms": [
+        {
+          "word": "deposit",
+          "definition": "金銭や物を口座・保管先などへ預ける。",
+          "frequency": 8,
+          "difference": "escrow より広い動詞で、預託先が条件付きで引き渡す仕組みであるとは限らない。",
+          "example": "She deposited the cheque into her savings account.",
+          "translation": "彼女はその小切手を普通預金口座に入金した。"
+        },
+        {
+          "word": "entrust",
+          "definition": "人や組織を信頼して、物・資金などの管理を任せる。",
+          "frequency": 6,
+          "difference": "管理を他者に任せる点で重なるが、信頼に焦点を置き、条件付き引渡しの仕組みは必須ではない。",
+          "example": "She entrusted the documents to her solicitor.",
+          "translation": "彼女は書類の管理を自分の弁護士に任せた。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
