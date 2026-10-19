@@ -1,0 +1,297 @@
+{
+  "word": "amend",
+  "slug": "amend",
+  "ipa": "米・英: /əˈmend/。2音節で、第2音節に主強勢を置く。語頭は弱い /ə/。過去形・過去分詞 amended は /əˈmen.dɪd/ で、語末の /d/ に /ɪd/ が加わる。",
+  "lead": "文書・法律・規則・発言などの一部を、訂正・追加・削除によって変更する。誤りを直す、内容を適切にする、新しい条件に合わせる、といった目的に使う。全体を新しく作り直すより、既存の内容に変更を加えることが中心だが、変更の影響が小さいとは限らない。",
+  "updated": "2026-10-19",
+  "notion_url": "https://app.notion.com/p/amend-3fe4faa9b77d81ceb37cf1d911abe02a",
+  "pronunciation": [],
+  "etymology": [
+    "古フランス語 amender を経て、ラテン語 emendare「欠点を取り除く・正す」に由来する。e- は ex-「外へ」の異形、menda は「欠点」。emend「本文の誤りを訂正する」は同じラテン語に由来し、mend「修繕する」は amend の短縮形として発達した。「欠点を直してよりよい形にする」が語源上のつながり。"
+  ],
+  "formation": [
+    {
+      "term": "amends / amended / amending",
+      "description": "三人称単数現在形／過去形・過去分詞／現在分詞。m は1字で、× ammend とは綴らない。"
+    },
+    {
+      "term": "amendment",
+      "description": "名詞「修正・改正」「修正案・改正条項」。an amendment to the bill「法案への修正案」のように to を伴う。土壌改良では soil amendment「土壌改良材」の意味もある。"
+    },
+    {
+      "term": "amended",
+      "description": "an amended version「修正版」、an amended contract「修正された契約」のように名詞を修飾する過去分詞。the Act as amended は「改正後のその法律」。いずれも修正という動詞の意味に対応し、ハイフンを付けない。"
+    },
+    {
+      "term": "amends",
+      "description": "名詞としては make amends for 〈過失・損害〉「～の埋め合わせをする」という表現で使う。She amends the text. の amends は動詞、She makes amends for her mistake. の amends は名詞で、構造も意味も異なる。"
+    },
+    {
+      "term": "amendable",
+      "description": "形容詞「修正できる」。amenable「応じる用意のある・従順な」とは別の語で、d の有無を混同しない。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "「すでにあるものに手を加え、より適切な状態に直す」が共通核。文章の修正、行動の改善、土壌の改良に具体化する。ただし法律や文書を amend したからといって、その変更が誰にとっても改善になると断定するわけではない。"
+    },
+    {
+      "type": "item",
+      "text": "手を加えて直す文章・条項 → 「文書や法律を修正・改正する」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "手を加えて直す行動・状態 → 「行いや状態を改める」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "手を加えて直す土壌の性質 → 「土壌を改良する」（語義3）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞】文書や法律を修正・改正する",
+      "frequency": 7,
+      "register": [
+        "事務、ビジネス、法律、政治、文章編集。change より改まった語。"
+      ],
+      "definition": "文書・法律・規則・発言などの一部を、訂正・追加・削除によって変更する。誤りを直す、内容を適切にする、新しい条件に合わせる、といった目的に使う。全体を新しく作り直すより、既存の内容に変更を加えることが中心だが、変更の影響が小さいとは限らない。",
+      "patterns": [
+        "amend a 〈document/law/contract〉＝文書・法律・契約を修正する",
+        "amend 〈記載内容〉 from 〈元の形〉 to 〈変更後の形〉＝記載を変更する",
+        "amend 〈文書〉 to include 〈追加内容〉＝内容を含めるよう修正する",
+        "amend 〈文書〉 to read 〈変更後の文言〉＝記載がその文言になるよう修正する",
+        "amend 〈文書〉 by adding/deleting 〈内容〉＝追加・削除によって修正する",
+        "〈文書〉 + be amended＝修正される",
+        "〈法令・規則〉 + as amended＝改正された形での法令・規則。to不定詞は修正の目的・結果を表し、to の後の名詞は変更後の内容を表す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "amend a law",
+          "use": "既存の法律の内容を変えることを述べる。",
+          "example": "Parliament amended the law to extend the reporting deadline.",
+          "translation": "議会は報告期限を延ばすために法律を改正した。"
+        },
+        {
+          "pattern": "amend a contract",
+          "use": "契約の条項や条件を変更することを述べる。",
+          "example": "Both parties agreed to amend the contract.",
+          "translation": "双方は契約を修正することに合意した。"
+        },
+        {
+          "pattern": "amend 〈記載内容〉 from 〈元の形〉 to 〈変更後の形〉",
+          "use": "どの記載を何に変えるかを明示する。",
+          "example": "Please amend the date from 12 June to 19 June.",
+          "translation": "日付を6月12日から6月19日に修正してください。"
+        },
+        {
+          "pattern": "amend 〈文書〉 to include 〈追加内容〉",
+          "use": "項目を追加する修正を述べる。",
+          "example": "We amended the agreement to include a confidentiality clause.",
+          "translation": "私たちは秘密保持条項を含めるよう合意書を修正した。"
+        },
+        {
+          "pattern": "be amended to read 〈変更後の文言〉",
+          "use": "法律・規則・編集指示で、修正後の正確な文言を示す。",
+          "example": "The heading should be amended to read \"Eligibility requirements.\"",
+          "translation": "見出しは「資格要件」という文言に修正する必要がある。"
+        },
+        {
+          "pattern": "amend 〈文書〉 by deleting 〈内容〉",
+          "use": "削除による修正を明示する。",
+          "example": "The committee amended the proposal by deleting the final paragraph.",
+          "translation": "委員会は最後の段落を削除して、その提案を修正した。"
+        },
+        {
+          "pattern": "〈法令・規則〉 + as amended",
+          "use": "元の制定時の文面ではなく、改正を反映した形を指す。",
+          "example": "The policy must comply with the regulations as amended.",
+          "translation": "その方針は、改正後の規則に適合していなければならない。"
+        },
+        {
+          "pattern": "amend a statement",
+          "use": "発言や声明の内容を訂正・修正する。",
+          "example": "She amended her earlier statement to clarify the timetable.",
+          "translation": "彼女は日程を明確にするため、先ほどの発言を修正した。"
+        }
+      ],
+      "notes": [
+        "amend は直接目的語を取るので、× amend to the law ではなく amend the law。名詞では make an amendment to the law となる。amend the report と make amendments to the report はどちらも可能だが、動詞と名詞の前置詞を混ぜない。amend a bill は法案の内容を変えることで、enact a bill「法案を法律として成立させる」とは別。amend a law は内容の変更であり、repeal a law「法律を廃止する」とも異なる。",
+        "as amended は as it has been amended などを縮めた形に対応する。an amended version は「修正された版」であって、修正が正しい、承認済み、公表済みであることまでは含まない。amend a tax return は申告書・申告内容を修正することで、その表現だけで提出や受理まで済んだとは限らない。発言にも使えるが、日常会話では correct what I said や change that のほうがくだけた言い方になる。"
+      ],
+      "synonyms": [
+        {
+          "word": "revise",
+          "definition": "内容を見直し、修正した版にする。",
+          "frequency": 7,
+          "difference": "構成や考え方も含めた広い見直しに使える。amend は既存の文章や条項への特定の変更を意識させやすい。",
+          "example": "She revised the report after receiving feedback.",
+          "translation": "彼女は意見を受けて報告書を改訂した。"
+        },
+        {
+          "word": "modify",
+          "definition": "対象の一部を変えて、条件や目的に合うようにする。",
+          "frequency": 7,
+          "difference": "文書以外の物・仕組み・方法にも広く使う。amend は文書や法令の内容変更に特に結び付きやすい。",
+          "example": "We modified the procedure to reduce delays.",
+          "translation": "私たちは遅れを減らすために手順を変更した。"
+        },
+        {
+          "word": "correct",
+          "definition": "誤りを正しい内容に直す。",
+          "frequency": 9,
+          "difference": "元の内容に誤りがあることを示す。amend は誤りがなくても、条件変更や追加のために使える。",
+          "example": "Please correct the spelling of my name.",
+          "translation": "私の名前の綴りを直してください。"
+        },
+        {
+          "word": "emend",
+          "definition": "文章、とくに写本・本文の誤りを訂正する。",
+          "frequency": 2,
+          "difference": "文献校訂・文章訂正に使う専門的な語。amend は法律や契約の内容変更にも使い、誤記の訂正に限定しない。",
+          "example": "The editor emended a corrupt passage in the manuscript.",
+          "translation": "編集者は写本の誤りのある箇所を校訂した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【動詞・他動詞】行いや状態を改める",
+      "frequency": 4,
+      "register": [
+        "改まった一般語。行動・道徳についての文章や注意。amend one's ways 以外では、文語的に響くことも多い。"
+      ],
+      "definition": "よくない行動・習慣・状態を、より適切なものに直す。特に amend one's ways は「これまでの行いを改める」という定型的な表現で、単に手順や好みを変更するのではなく、振る舞いに問題があったという評価を伴う。",
+      "patterns": [
+        "amend one's ways＝行いを改める",
+        "amend one's behaviour＝振る舞いを改善する",
+        "amend the situation＝悪い状況を改善する。現代の一般的な用法では目的語を明示し、「自分が変わる」を単に I will amend. と言うより I will change. や I will amend my ways. とする。"
+      ],
+      "collocations": [
+        {
+          "pattern": "amend one's ways",
+          "use": "問題のある習慣や行いを改めることを述べる。",
+          "example": "After the warning, he promised to amend his ways.",
+          "translation": "警告を受けて、彼は行いを改めると約束した。"
+        },
+        {
+          "pattern": "amend one's behaviour",
+          "use": "不適切な振る舞いの改善を、改まった言い方で求める。",
+          "example": "She was given an opportunity to amend her behaviour.",
+          "translation": "彼女には振る舞いを改める機会が与えられた。"
+        },
+        {
+          "pattern": "amend the situation",
+          "use": "よくない状態を改善することを硬い文章で述べる。",
+          "example": "The officials acknowledged the problem but did little to amend the situation.",
+          "translation": "当局者は問題を認めたが、状況を改善するためにはほとんど何もしなかった。"
+        }
+      ],
+      "notes": [
+        "amend one's ways の ways は複数形で、所有格も必要。単に × amend way としない。「埋め合わせをする」の make amends とも区別する。He amended his ways. は自分の行いを変えたこと、He made amends for the damage. は損害に対する償いをしたことで、片方から他方まで行ったとは限らない。日常的な「状況をよくする」には improve the situation や put things right が普通。自動詞の「自ら改まる・改心する」も辞書に載るが、現代の一般的な作文では amend one's ways などの他動詞の定型を優先する。"
+      ],
+      "synonyms": [
+        {
+          "word": "mend",
+          "definition": "行いや関係などをよい状態に直す。",
+          "frequency": 4,
+          "difference": "mend one's ways も定着した表現で、amend one's ways より日常的に使いやすい。物を修繕する意味もあるが、この欄では行いを直す用法。",
+          "example": "He finally decided to mend his ways.",
+          "translation": "彼はついに行いを改めようと決めた。"
+        },
+        {
+          "word": "reform",
+          "definition": "人の行動や制度の悪い点を改める。",
+          "frequency": 5,
+          "difference": "人の更生や根本的な改革を意識させやすい。amend one's ways は自身の行動を適切なものに変えることに焦点がある。",
+          "example": "He made a serious effort to reform his conduct.",
+          "translation": "彼は自分の行動を改めようと真剣に努めた。"
+        },
+        {
+          "word": "improve",
+          "definition": "状態や行動を以前よりよくする。",
+          "frequency": 9,
+          "difference": "最も広く中立的で、もともと悪い状態でなくても使える。amend は欠点や不適切さを直す含みを持ちやすい。",
+          "example": "The new arrangements improved the situation.",
+          "translation": "新しい取り決めによって状況はよくなった。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞・他動詞】土壌を改良する",
+      "frequency": 4,
+      "register": [
+        "園芸、農業、土壌管理。一般向けの園芸記事でも使う。"
+      ],
+      "definition": "堆肥・石灰などの資材を土壌に加え、構造・保水性・酸性度などの性質を栽培に適したものへ改善する。文章の「修正」から単に推測して訳すより、園芸・農業の定着した用法として「土壌改良」と理解するとよい。肥料で栄養を補うことだけに限定されない。",
+      "patterns": [
+        "amend the soil＝土壌を改良する",
+        "amend the soil with 〈改良材〉＝資材を加えて土壌を改良する",
+        "amend 〈土壌〉 to improve 〈性質〉＝性質を改善するために土壌を改良する",
+        "〈土壌〉 + be amended with 〈改良材〉＝資材で改良される。with は改良に用いる材料を示す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "amend the soil",
+          "use": "土壌改良という作業全体を述べる。",
+          "example": "A soil test can help you decide whether you need to amend the soil.",
+          "translation": "土壌検査は、土壌改良が必要かどうかを判断する助けになる。"
+        },
+        {
+          "pattern": "amend the soil with compost",
+          "use": "堆肥を使った土壌改良を述べる。",
+          "example": "The gardeners amended the soil with compost before planting.",
+          "translation": "庭師たちは植え付け前に堆肥を使って土壌を改良した。"
+        },
+        {
+          "pattern": "amend 〈土壌〉 to improve 〈性質〉",
+          "use": "土壌改良の目的を示す。",
+          "example": "They amended the sandy soil to improve its ability to retain water.",
+          "translation": "彼らは保水力を高めるために砂質の土壌を改良した。"
+        },
+        {
+          "pattern": "be amended with lime",
+          "use": "石灰を用いて土壌の性質を調整することを述べる。",
+          "example": "The acidic soil was amended with lime according to the test recommendations.",
+          "translation": "その酸性土壌には、検査結果の推奨に従って石灰を加えて改良を施した。"
+        }
+      ],
+      "notes": [
+        "amend the soil with compost では soil が改善する対象、compost が加える材料。× amend compost to the soil ではなく amend the soil with compost、または add compost to the soil。soil は通常不可算で、土の性質・種類を論じるときには sandy soils のように複数形にもなる。amend と fertilize は重なる場合があるが、土の構造や酸性度を調整することまで「施肥」と訳すと狭すぎる。適した資材や量は土壌条件によるため、amend 自体に「何を大量に加えてもよい」という意味はない。"
+      ],
+      "synonyms": [
+        {
+          "word": "condition",
+          "definition": "資材などを用いて土壌の状態を栽培に適したものにする。",
+          "frequency": 3,
+          "difference": "土の状態を整えることを強調する。amend は資材を加える土壌改良という作業を直接表す。",
+          "example": "The compost helps condition the soil.",
+          "translation": "その堆肥は土壌の状態を整えるのに役立つ。"
+        },
+        {
+          "word": "enrich",
+          "definition": "土壌に栄養分や有機物を加えて豊かにする。",
+          "frequency": 4,
+          "difference": "肥沃さを高める方向に意味が限定される。amend は酸性度などの調整も含み、栄養分を増やすことが必須ではない。",
+          "example": "The organic matter enriched the soil.",
+          "translation": "有機物によって土壌が豊かになった。"
+        },
+        {
+          "word": "improve",
+          "definition": "土壌の性質をよりよくする。",
+          "frequency": 5,
+          "difference": "方法を限定しない一般語で、排水設備の変更などにも使える。amend は土壌に資材を加える改良を意識させる。",
+          "example": "Better drainage improved the soil conditions.",
+          "translation": "排水がよくなり、土壌条件が改善した。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

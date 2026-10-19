@@ -1,0 +1,480 @@
+{
+  "word": "expire",
+  "slug": "expire",
+  "ipa": "米: /ɪkˈspaɪr/｜英: /ɪkˈspaɪə/",
+  "lead": "許可・資格・契約・提示・製品などについて、定められた有効期間や使用期限が終わる。また、競技・手続きなどに割り当てられた時間が尽きる。期限到来そのものに焦点があり、誰かが正式に取り消す行為や、持ち主の不注意を意味に含めない。",
+  "updated": "2026-10-19",
+  "notion_url": "https://app.notion.com/p/expire-3fe4faa9b77d817fb4f5d1346fe984f3",
+  "pronunciation": [
+    "基本は2音節で、第2音節に強勢がある。第1音節はいずれも /ɪk/。上の米英差は第2音節で、米の /spaɪr/ は r 音を伴い、示した英形の /spaɪə/ は /ə/ で終わり、語末の r を発音しない。",
+    "「息を吐く」という医学・生理学の用法では、第1音節の母音を /e/ とする /ekˈspaɪr/ なども使われる。第2音節の強勢は変わらない。",
+    "expired の -ed は /d/、expires の -s は /z/。どちらも語尾に独立した母音を加えない。expiring は語末の e を落として -ing を付ける。"
+  ],
+  "etymology": [
+    "フランス語 expirer、ラテン語 exspirare「息を吐く」にさかのぼる。ex-「外へ」＋ spirare「呼吸する」という構成で、呼気を出す意味、最後の息を吐いて命が終わる意味、期間や効力が終わる意味につながる。同じ spirare を語源に持つ語に inspire「息を吸い込む、ひらめきを与える」、respire「呼吸する」、perspire「汗をかく」がある。現代の日常語としてまず重要なのは「期限が切れる」。"
+  ],
+  "formation": [
+    {
+      "term": "expired",
+      "description": "過去形・過去分詞、および形容詞「期限切れの」。呼吸の専門文脈では expired air「呼出された空気」も表すため、すべてを「期限切れ」と訳さない。"
+    },
+    {
+      "term": "expiring",
+      "description": "現在分詞。an expiring contract は「満了を迎えつつある契約」で、すでに期限が切れた expired contract とは時間関係が違う。"
+    },
+    {
+      "term": "expiration",
+      "description": "名詞「期間満了、期限切れ」。主に米式で expiration date「有効期限」と使う。医学では米英とも「呼気、息を吐くこと」の意味がある。"
+    },
+    {
+      "term": "expiry",
+      "description": "名詞「満了、期限切れ」。特に英式で expiry date と使い、expiration と使い分ける。"
+    },
+    {
+      "term": "unexpired",
+      "description": "形容詞「まだ期限が切れていない」。資格・書類・契約などについて使う、やや事務的な語。"
+    },
+    {
+      "term": "expiratory",
+      "description": "形容詞「呼気の」。呼吸の医学・生理学用語であり、一般的な「期限切れの」の言い換えではない。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "主要な用法の核は、有効であり続ける期間や、続いている活動・生命が終わりに達すること。語義5の「息を吐く」は、語源に近い呼吸の意味を保つ歴史的残存義で、呼吸を終えることではなく1回の呼気を出すことを表すため、この核からは導けず個別に参照する。"
+    },
+    {
+      "type": "item",
+      "text": "続いていた効力・期間が終わること → 「期限が切れる・期間が満了する」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "続いていた効力・期間が終わった状態 → 「期限切れの」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "続いていたシステム上の効力を終わらせる処理 → 「期限切れにする・失効処理する」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "続いていた生命が終わること → 「息を引き取る・死ぬ」（語義4）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・自動詞】期限が切れる・期間が満了する",
+      "frequency": 8,
+      "register": [
+        "日常・事務・ビジネス・法律・情報システムなどで広く使う。食品の期限についての用法は、特に米式でよく見られる。"
+      ],
+      "definition": "許可・資格・契約・提示・製品などについて、定められた有効期間や使用期限が終わる。また、競技・手続きなどに割り当てられた時間が尽きる。期限到来そのものに焦点があり、誰かが正式に取り消す行為や、持ち主の不注意を意味に含めない。",
+      "patterns": [
+        "something + expire＝期限が切れる",
+        "expire on 〈日付〉＝その日に期限が切れる",
+        "expire at 〈時刻・時点〉＝その時点で切れる",
+        "expire in 〈残り期間〉＝その期間後に切れる",
+        "〈主語〉 + expire after 〈経過期間〉＝その期間が経つと切れる",
+        "be due to expire、be about to expire＝満了予定・満了間近である",
+        "time + expire＝所定の時間が尽きる。期限切れを生じる物や時間を主語にし、通常は直接目的語を取らない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "expire on 〈日付〉",
+          "use": "有効期限の日を明示する。",
+          "example": "My passport expires on 14 June.",
+          "translation": "私のパスポートは6月14日に有効期限が切れる。"
+        },
+        {
+          "pattern": "expire at midnight",
+          "use": "有効期間が終わる時刻を示す。",
+          "example": "The discount code expires at midnight.",
+          "translation": "その割引コードは午前0時に期限が切れる。"
+        },
+        {
+          "pattern": "expire in 〈残り期間〉",
+          "use": "今からあとどれだけ使えるかを示す。",
+          "example": "Your temporary access pass expires in three days.",
+          "translation": "仮の入館証はあと3日で期限が切れます。"
+        },
+        {
+          "pattern": "expire after 〈経過期間〉",
+          "use": "発行・開始などからの有効期間を述べる。",
+          "example": "The download link expires after twenty-four hours.",
+          "translation": "ダウンロードリンクは24時間後に期限が切れます。"
+        },
+        {
+          "pattern": "be due to expire",
+          "use": "契約などの予定されている満了を述べる。",
+          "example": "The lease is due to expire at the end of September.",
+          "translation": "その賃貸借契約は9月末に満了する予定だ。"
+        },
+        {
+          "pattern": "be about to expire",
+          "use": "まもなく期限が切れることを述べる。",
+          "example": "I renewed my membership because it was about to expire.",
+          "translation": "会員資格の期限が間もなく切れるので、更新した。"
+        },
+        {
+          "pattern": "had already expired",
+          "use": "過去の基準時点より前に、すでに期限が切れていたことを過去完了で述べる。",
+          "example": "The coupon had already expired when I tried to use it.",
+          "translation": "使おうとしたときには、そのクーポンはすでに期限が切れていた。"
+        },
+        {
+          "pattern": "time + expire",
+          "use": "競技などに割り当てられた時間が尽きることを表す。",
+          "example": "She took the winning shot just before time expired.",
+          "translation": "彼女は試合時間が尽きる直前に、勝利を決めるシュートを放った。"
+        },
+        {
+          "pattern": "milk + expire",
+          "use": "米式を中心に、牛乳が表示された期限を過ぎることを述べる。",
+          "example": "According to the label, this milk expires tomorrow.",
+          "translation": "表示によれば、この牛乳は明日が期限だ。"
+        },
+        {
+          "pattern": "a session + expire",
+          "use": "システムの利用セッションの有効期間が終わることを述べる。",
+          "example": "Your session has expired; please sign in again.",
+          "translation": "セッションの有効期限が切れました。もう一度ログインしてください。"
+        }
+      ],
+      "notes": [
+        "期限切れを普通に述べるなら The contract expired. または The contract has expired. とする。has expired は自動詞の現在完了であり、一般的な期限到来を The contract has been expired. と受動態にしない。一方、The card is expired. は語義2の形容詞による状態の表現。情報システムで意図的に失効処理する他動詞用法は語義3として区別する。 expire in three days は「あと3日で切れる」、expire after three days は「開始・発行などから3日経つと切れる」。expires next month のように next を伴う時の句には前置詞を付けない。日付表示などでは Expires 31 October. のように on が省略されることがある。境界時刻やその日を含むかどうかは個々の利用条件で決まり、expire on という形だけで細部まで確定しない。 The licence expired. は期限到来、The licence lapsed. は更新などで効力が維持されなかったこと、The authority revoked the licence. は当局による取消しを表す。expire と lapse が同じ出来事に使える場合はあるが、revoke は取消しを行う側が主語になる他動詞。免許の名詞は英式 licence、米式 license。 time expired は「割り当てられた時間が尽きた」で、three hours elapsed は単に「3時間が経過した」。終了点が問題でない時間経過には elapse や pass を選ぶ。renew a contract、extend a deadline は期限切れを防いだり変更したりする対照表現であり、expire の出来事と単純な反意関係にあるわけではない。 食品について expire と言う場合も、中心は表示された期限を過ぎること。腐敗を直接表す spoil や go bad とは同一ではない。食品の日付表示には品質・販売・安全など異なる意味があり、expire の語義だけで食べられるかどうかを判断しない。薬などにも expires の表示があるが、具体的な使用可否は製品の表示・指示に従う問題である。"
+      ],
+      "synonyms": [
+        {
+          "word": "run out",
+          "definition": "有効期間や与えられた時間が尽きる。",
+          "frequency": 8,
+          "difference": "expire より口語的で、時間だけでなく物資・資金がなくなる場合にも使う。",
+          "example": "My parking ticket runs out in ten minutes.",
+          "translation": "駐車券の有効時間はあと10分で切れる。"
+        },
+        {
+          "word": "lapse",
+          "definition": "継続・更新などがされず、契約や資格の効力がなくなる。",
+          "frequency": 6,
+          "difference": "維持しなかったという見方が典型。expire は定められた期間の終了に重点がある。",
+          "example": "She let her membership lapse when she moved away.",
+          "translation": "転居した際、彼女は会員資格を更新せず失効させた。"
+        },
+        {
+          "word": "end",
+          "definition": "続いていたものが終わる。",
+          "frequency": 10,
+          "difference": "最も広い一般語で、あらかじめ定められた有効期間を前提にしない。",
+          "example": "The temporary arrangement ends next Friday.",
+          "translation": "暫定的な取り決めは来週の金曜日に終わる。"
+        },
+        {
+          "word": "terminate",
+          "definition": "契約などが終了する、または契約などを終了させる。",
+          "frequency": 6,
+          "difference": "expire より硬く、自動詞・他動詞の両方を持つ。期限前の打切りも表せる。",
+          "example": "The agreement will terminate automatically after one year.",
+          "translation": "その契約は1年後に自動的に終了する。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【形容詞・限定／叙述用法】期限切れの",
+      "frequency": 8,
+      "register": [
+        "日常・事務・商取引など。"
+      ],
+      "definition": "expired の形で、書類・カード・クーポン・製品などが定められた期限を過ぎた状態を表す。expire の過去分詞をもとにした形容詞で、期限が切れる出来事より、現在その状態にあることを示す。",
+      "patterns": [
+        "an expired 〈passport/coupon/ticket〉＝期限切れの物",
+        "expired 〈documents/products〉＝期限切れの物の複数",
+        "something + be expired＝期限切れの状態である",
+        "something + already be expired＝すでに期限切れである。通常は程度比較をせず、名詞の前でもハイフンは付けない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an expired passport",
+          "use": "有効期限を過ぎた旅券を指す。",
+          "example": "I found an expired passport in the drawer.",
+          "translation": "引き出しの中で、期限切れのパスポートを見つけた。"
+        },
+        {
+          "pattern": "expired coupons",
+          "use": "利用期限を過ぎたクーポンをまとめて指す。",
+          "example": "The app separates expired coupons from the ones you can still use.",
+          "translation": "アプリでは、期限切れのクーポンと、まだ使えるものが分けられている。"
+        },
+        {
+          "pattern": "be expired",
+          "use": "期限切れであるという現在の状態を述べる。",
+          "example": "The card is expired, so the system won't accept it.",
+          "translation": "カードが期限切れなので、システムでは受け付けられない。"
+        },
+        {
+          "pattern": "already be expired",
+          "use": "確認した時点ですでに期限が過ぎていたことを示す。",
+          "example": "By the time the letter arrived, the offer was already expired.",
+          "translation": "手紙が届いたときには、その提示はすでに有効期限が切れていた。"
+        }
+      ],
+      "notes": [
+        "The card has expired. は現在完了の動詞で「期限が切れた」、The card is expired. は形容詞述語で「期限切れの状態だ」。後者を見て、一般義の expire が「カードを期限切れにする」という他動詞だと判断しない。事務的な期限通知では has expired が広く使われる。become/get expired を基本形にするより、expire または go out of date と表す方が明確。期限切れらしいという判断には The card seems to have expired. などを使う。seem は見かけ・判断を表すもので、very や more のような程度修飾とは区別する。 期限の有無は普通二分されるので very expired、more expired は通常の程度比較ではない。long-expired「とうに期限切れの」のように、期限切れからの時間を示す表現は可能。an expiring contract は満了が近い契約、an expired contract は満了後の契約。expired air は呼吸の語義5に属する「吐き出された空気」であり、期限切れの空気ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "out of date",
+          "definition": "有効・使用期限などを過ぎている。",
+          "frequency": 7,
+          "difference": "この意味では expired に近く、特に英式で食品にもよく使う。別に「情報・方法が古い」という意味もある。",
+          "example": "The ticket was out of date.",
+          "translation": "その切符は期限切れだった。"
+        },
+        {
+          "word": "lapsed",
+          "definition": "更新・継続がされず、効力が切れた。",
+          "frequency": 4,
+          "difference": "維持されなかったことに焦点があり、主に名詞の前で契約・資格などを修飾する。",
+          "example": "The notice referred to a lapsed insurance policy.",
+          "translation": "その通知は、失効した保険契約についてのものだった。"
+        },
+        {
+          "word": "invalid",
+          "definition": "規則や要件に照らして有効ではない。",
+          "frequency": 7,
+          "difference": "期限切れ以外に、記入不備や偽造などによる無効も含む。",
+          "example": "A ticket without the required stamp is invalid.",
+          "translation": "必要な印が押されていない切符は無効だ。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unexpired",
+          "definition": "まだ期限が切れていない。",
+          "frequency": 4,
+          "difference": "期限切れかどうかという同じ軸での補完的な対立。主に書類・契約を扱う事務的な語。",
+          "example": "Applicants must present an unexpired identity document.",
+          "translation": "申請者は、有効期限内の身分証明書を提示しなければならない。"
+        },
+        {
+          "word": "valid",
+          "definition": "現在、規則上の効力がある。",
+          "frequency": 8,
+          "difference": "有効性という状態の対立。ただし期限内でも別の理由で無効な場合があるため、unexpired と同じ範囲ではない。",
+          "example": "This pass is still valid.",
+          "translation": "このパスはまだ有効だ。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【動詞・他動詞】期限切れにする・失効処理する",
+      "frequency": 3,
+      "register": [
+        "コンピューター・システム管理の専門用法。"
+      ],
+      "definition": "情報システムで、キー・キャッシュ項目・セッション・認証情報などを、有効期限切れとして扱う、または設定された期限に従って無効化・削除する。主語はシステム・プログラム・管理者などで、目的語が処理されるデータや状態。この使い方は専門的で、普通の契約の期限到来へそのまま拡張するものではない。",
+      "patterns": [
+        "expire 〈keys/cache entries/sessions〉＝それらを失効処理する",
+        "expire something after 〈期間〉＝その期間後に失効処理する",
+        "something + be expired by 〈システム・処理主体〉＝失効処理される。この語義では他動詞なので受動態が成立する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "expire keys",
+          "use": "データストアがキーを期限に従って処理することを述べる。",
+          "example": "The server expires keys whose time to live has elapsed.",
+          "translation": "サーバーは、生存時間が過ぎたキーを失効処理する。"
+        },
+        {
+          "pattern": "expire cache entries after 〈期間〉",
+          "use": "保存したキャッシュ項目を一定時間後に使わなくする処理を述べる。",
+          "example": "The application expires cache entries after ten minutes.",
+          "translation": "アプリケーションは、キャッシュ項目を10分後に期限切れとして扱う。"
+        },
+        {
+          "pattern": "expire a session",
+          "use": "システム側がセッションを失効させることを述べる。",
+          "example": "The administrator can expire a session immediately.",
+          "translation": "管理者はセッションを直ちに失効させることができる。"
+        },
+        {
+          "pattern": "be expired by the server",
+          "use": "データを主語にして、システムによる失効処理を述べる。",
+          "example": "The keys are expired by the server once their time to live has elapsed.",
+          "translation": "生存時間が過ぎると、それらのキーはサーバーによって失効処理される。"
+        }
+      ],
+      "notes": [
+        "The key expired. は語義1の自動詞で「キーの期限が切れた」、The server expired the key. はこの語義の他動詞で「サーバーがキーを失効処理した」。同じ expired でも、The key is expired. だけなら結果状態を示す形容詞とも解釈できる。実際に削除するか、利用不能の印を付けるかなどはシステムによる。Redis の EXPIRE のようなコマンド名は期限を設定する操作を指す場合もあり、コマンド実行とその場での削除を同一視しない。 IT分野での他動詞用法があることと、一般的な契約終了を The landlord expired the lease. と表現してよいことは別。契約を終わらせるなら terminate the lease、期限を設定するなら set an expiry date、自然に満了するなら the lease expires と、意図と分野に合う形を選ぶ。"
+      ],
+      "synonyms": [
+        {
+          "word": "invalidate",
+          "definition": "データ・資格情報などを無効にする。",
+          "frequency": 5,
+          "difference": "期限の到来に限らず、情報の変更や安全上の理由による無効化にも使う。expire は期限・有効期間との関係を示しやすい。",
+          "example": "Updating the profile invalidates the cached version.",
+          "translation": "プロフィールを更新すると、キャッシュされた版が無効になる。"
+        },
+        {
+          "word": "evict",
+          "definition": "キャッシュなどから項目を取り除く。",
+          "frequency": 3,
+          "difference": "ITのこの語義では、容量制限などによる追い出しを含み、期限切れであることを必要としない。",
+          "example": "The cache evicts older entries when it runs out of space.",
+          "translation": "キャッシュは空き容量がなくなると、古い項目を追い出す。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞・自動詞】息を引き取る・死ぬ",
+      "frequency": 3,
+      "register": [
+        "文学的・古風・非常に形式的な言い方。医療の記録などにも見られるが、日常会話や遺族への言葉では距離がある、または不自然に感じられやすい。文脈によっては大げさなユーモアになる。"
+      ],
+      "definition": "人や動物の生命が終わる。語源に近い「最後の息を吐く」という捉え方を背景に持つが、具体的な死因や苦痛の有無は表さない。",
+      "patterns": [
+        "〈人・動物〉 + expire＝死ぬ",
+        "expire at 〈時刻・年齢〉＝その時・年齢で息を引き取る",
+        "〈主語〉 + expire after 〈出来事・期間〉＝その後に死ぬ。直接目的語を取らず、受動態にはしない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "expire at the age of 〈年齢〉",
+          "use": "古風・文学的な伝記で、亡くなった年齢を述べる。",
+          "example": "The old chronicle records that the king expired at the age of seventy-two.",
+          "translation": "古い年代記には、王が72歳で息を引き取ったと記されている。"
+        },
+        {
+          "pattern": "expire after a long illness",
+          "use": "形式的・古風な叙述で、長患いの後の死を表す。",
+          "example": "In the final chapter, the count expires after a long illness.",
+          "translation": "最終章で、伯爵は長い闘病の末に息を引き取る。"
+        }
+      ],
+      "notes": [
+        "「亡くなる」を丁寧にしたつもりで、日常の弔意の言葉に expire を選ばない。die は中立的な基本語、pass away は人の死を婉曲に伝える表現。He expired. は死亡、He expired slowly into the mouthpiece. のような呼吸測定の文脈なら語義5の呼気という別の意味になり得るため、呼吸の意味では測定・空気などの文脈を明示する。expired person を一般的な「故人」の言い方にはしない。"
+      ],
+      "synonyms": [
+        {
+          "word": "die",
+          "definition": "生命が終わる。",
+          "frequency": 10,
+          "difference": "最も一般的で、expire のような古風さや記録的な距離感を必要としない。",
+          "example": "The bird died during the night.",
+          "translation": "その鳥は夜の間に死んだ。"
+        },
+        {
+          "word": "pass away",
+          "definition": "人が亡くなる。",
+          "frequency": 8,
+          "difference": "婉曲で配慮ある言い方として広く使う。expire が日常では冷たく聞こえ得るのとは異なる。",
+          "example": "Her grandfather passed away last winter.",
+          "translation": "彼女の祖父は昨年の冬に亡くなった。"
+        },
+        {
+          "word": "perish",
+          "definition": "災害・事故・過酷な状況などで死ぬ。",
+          "frequency": 5,
+          "difference": "悲惨な状況での死や消滅を表しやすい。expire 自体はそのような死因を含めない。",
+          "example": "Many animals perished in the fire.",
+          "translation": "多くの動物がその火災で命を落とした。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【動詞・自動詞／他動詞】息を吐く・空気を呼出する",
+      "frequency": 2,
+      "register": [
+        "医学・生理学の専門語。一般向けには breathe out、exhale を使う。"
+      ],
+      "definition": "肺から息を外へ出す。自動詞では呼気を出す動作、他動詞では呼出される空気・ガスなどを目的語に取る。呼吸を終えて死ぬことではなく、生きている人が呼吸の一部として行う動作を指す。",
+      "patterns": [
+        "〈人・被験者〉 + expire＝息を吐く自動詞",
+        "expire into 〈測定器具〉＝器具に向けて息を吐く",
+        "expire 〈air/carbon dioxide〉＝空気・二酸化炭素を呼出する他動詞",
+        "air + be expired from the lungs＝空気が肺から呼出される受動態",
+        "expired air＝呼出された空気という分詞修飾。"
+      ],
+      "collocations": [
+        {
+          "pattern": "expire slowly",
+          "use": "呼吸検査などで、呼気を出す動作を専門的に述べる。",
+          "example": "During the breathing test, the participant was asked to inspire fully and then expire slowly.",
+          "translation": "呼吸検査では、参加者は十分に息を吸い、その後ゆっくり吐くよう求められた。"
+        },
+        {
+          "pattern": "expire into a mouthpiece",
+          "use": "検査器具のマウスピースへ息を吐き込むことを述べる。",
+          "example": "Each volunteer expired into a mouthpiece connected to the measuring device.",
+          "translation": "各参加者は、測定装置につながれたマウスピースへ息を吐き込んだ。"
+        },
+        {
+          "pattern": "expire air",
+          "use": "呼出する空気を目的語にして述べる。",
+          "example": "The test measured how much air the participant could expire in one second.",
+          "translation": "その検査では、参加者が1秒間に呼出できる空気の量を測定した。"
+        },
+        {
+          "pattern": "air + be expired from the lungs",
+          "use": "空気を主語にした受動態で、肺からの呼出を説明する。",
+          "example": "The apparatus collected air as it was expired from the lungs.",
+          "translation": "その装置は、肺から呼出される空気を採取した。"
+        },
+        {
+          "pattern": "expired air",
+          "use": "呼出された空気を分詞で修飾する。",
+          "example": "The concentration of carbon dioxide in the expired air was recorded.",
+          "translation": "呼出された空気中の二酸化炭素濃度が記録された。"
+        }
+      ],
+      "notes": [
+        "The participant expired slowly. は自動詞、The participant expired air. は他動詞、The air was expired. はその受動態。語義1の The passport has expired. と違い、この専門義には本当に他動詞構文がある。expired air は「期限切れの空気」ではなく「吐き出された空気」で、an expired passport の expired と語義を混同しない。 呼吸の文脈なしに The patient expired. とだけ言うと、死亡の意味に取られやすい。一般の人への説明なら breathe out または exhale が明確。名詞 expiration も呼気を意味し、期限満了の expiration と区別する。この語義の過去分詞は呼出の結果を表すもので、very expired air のような程度修飾は通常しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "exhale",
+          "definition": "息を吐く、空気などを吐き出す。",
+          "frequency": 6,
+          "difference": "呼吸を表す語として expire より一般的で、健康・運動の説明にも使う。自動詞・他動詞の両方がある。",
+          "example": "She exhaled slowly before speaking.",
+          "translation": "彼女は話す前に、ゆっくり息を吐いた。"
+        },
+        {
+          "word": "breathe out",
+          "definition": "息を外へ吐く。",
+          "frequency": 8,
+          "difference": "最も日常的で分かりやすい表現。expire にある専門性や「死ぬ」という紛らわしさを避けられる。",
+          "example": "Breathe out gently through your mouth.",
+          "translation": "口から静かに息を吐いてください。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "inhale",
+          "definition": "息を吸う、空気などを吸い込む。",
+          "frequency": 6,
+          "difference": "肺の内外への空気の移動という同じ軸での方向上の対立。",
+          "example": "The participant inhaled deeply before the measurement.",
+          "translation": "参加者は測定前に深く息を吸った。"
+        },
+        {
+          "word": "breathe in",
+          "definition": "息を中へ吸い込む。",
+          "frequency": 8,
+          "difference": "呼気と吸気の方向上の対立を、日常的な句で表す。",
+          "example": "Breathe in slowly through your nose.",
+          "translation": "鼻からゆっくり息を吸ってください。"
+        }
+      ]
+    }
+  ]
+}
