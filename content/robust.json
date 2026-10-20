@@ -1,0 +1,699 @@
+{
+  "word": "robust",
+  "slug": "robust",
+  "ipa": "米: /roʊˈbʌst/｜英: /rəʊˈbʌst/",
+  "lead": "システム・制度・計画などがしっかり機能し、負荷や問題に簡単には崩れないこと。証拠・根拠・結論については、検討に耐える確かさを表す。一般に肯定的な評価だが、無故障・完全性・結論の真実性を保証する語ではない。",
+  "updated": "2026-10-20",
+  "notion_url": "https://app.notion.com/p/robust-3ff4faa9b77d81e0bf27cf16ec6a13d9",
+  "pronunciation": [
+    "2音節で、上の発音では第2音節に強勢がある。米英の違いは第1音節の二重母音 /oʊ/ と /əʊ/ で、第2音節の /ʌ/ と末尾の /st/ は共通する。第1音節に主強勢を置く発音もあり、米 /ˈroʊˌbʌst/、英 /ˈrəʊbʌst/ のように示される。ここで挙げた米音の変異形には第2音節の第二強勢も記している。"
+  ],
+  "etymology": [
+    "ラテン語 robustus「丈夫な・強い」に由来し、そのもとは robur「オーク・強さ」。木の強さと結び付いた語源だが、現代語で「木のように硬い」という意味に限定されない。同じラテン語の語根を持つ語に corroborate「証拠で裏付ける」と、その名詞形 corroboration「裏付け」がある。"
+  ],
+  "formation": [
+    {
+      "term": "robustly",
+      "description": "副詞。「力強く・断固として・頑健に」。defend a policy robustly は「政策を力強く擁護する」。"
+    },
+    {
+      "term": "robustness",
+      "description": "通常不可算名詞。「丈夫さ・頑健性」。the robustness of a method は「ある方法の頑健性」。"
+    },
+    {
+      "term": "",
+      "description": "比較は more robust、most robust が一般的。very、quite、relatively、sufficiently などで程度を示せる。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "「弱々しさとは反対の、しっかりした強さ・力強さ」を中心に捉える語。通常は対象が備える強さを述べ、語義8では活動を行う人に必要な強さを述べるが、どの意味でも「絶対に壊れない・必ず正しい」とは限らない。"
+    },
+    {
+      "type": "item",
+      "text": "しっかりした強さを示す仕組みや根拠 → 「堅牢な・信頼できる」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "しっかりした強さを示す経済活動 → 「力強い・好調な」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "しっかりした強さを示す身体 → 「頑健な・健康で丈夫な」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "しっかりした強さを示す物の造り → 「頑丈な・壊れにくい」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "しっかりした強さを示す主張や対応 → 「断固とした・活発な」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "しっかりした強さを示す味わい → 「味が濃厚な・こくのある」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "しっかりした強さを示す分析上の性質 → 「頑健な・条件の変化に左右されにくい」（語義7）"
+    },
+    {
+      "type": "item",
+      "text": "しっかりした強さを行為者に求める活動 → 「体力を要する」（語義8）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【形容詞】堅牢な・信頼できる",
+      "frequency": 7,
+      "register": [
+        "一般・ビジネス・技術・学術。日常の strong より分析的な説明に向く。"
+      ],
+      "definition": "システム・制度・計画などがしっかり機能し、負荷や問題に簡単には崩れないこと。証拠・根拠・結論については、検討に耐える確かさを表す。一般に肯定的な評価だが、無故障・完全性・結論の真実性を保証する語ではない。",
+      "patterns": [
+        "a robust 〈system/plan/framework〉＝堅牢な仕組みなど",
+        "robust evidence for 〈主張〉＝主張を支える確かな証拠",
+        "〈仕組み・根拠〉 + be/remain robust＝堅牢である・確かさを保つ",
+        "〈仕組み〉 + be robust enough to 〈動詞原形〉＝～できるだけの堅牢性がある"
+      ],
+      "collocations": [
+        {
+          "pattern": "a robust system",
+          "use": "負荷や不具合への強さを評価する。",
+          "example": "We need a robust system that can handle sudden increases in traffic.",
+          "translation": "急にアクセスが増えても対処できる堅牢なシステムが必要だ。"
+        },
+        {
+          "pattern": "a robust plan",
+          "use": "想定される問題に耐えられる計画をいう。",
+          "example": "They developed a robust plan with backup suppliers for essential parts.",
+          "translation": "彼らは重要部品の代替供給先を確保し、しっかりした計画を立てた。"
+        },
+        {
+          "pattern": "robust evidence for 〈主張〉",
+          "use": "根拠の確かさを述べる。",
+          "example": "The review found robust evidence for the effectiveness of the training.",
+          "translation": "そのレビューでは、研修の有効性を裏付ける確かな証拠が見つかった。"
+        },
+        {
+          "pattern": "be robust enough to 〈動詞原形〉",
+          "use": "機能を維持できる程度を述べる。",
+          "example": "The network is robust enough to keep operating if one server fails.",
+          "translation": "そのネットワークは、サーバーが1台故障しても稼働を続けられるだけの堅牢性がある。"
+        }
+      ],
+      "notes": [
+        "名詞の前にも be の後にも置ける。robust software は「条件が変わっても機能しやすいソフトウェア」であり、機能数が多いだけの feature-rich software と同じではない。robust evidence は確かな裏付け、robust growth は成長の力強さ（語義2）を指す。robust results も、事業なら「好調な業績」、研究なら「検討に耐える結果」と対象で読み分ける。統計・分析で特定の条件変更に対する頑健性を述べる用法は語義7。"
+      ],
+      "synonyms": [
+        {
+          "word": "reliable",
+          "definition": "期待どおりに働き、頼りにできる。",
+          "frequency": 8,
+          "difference": "robust は負荷や条件への強さに焦点を当てやすいが、reliable は安定した実績や信頼性を広くいう。",
+          "example": "The service is reliable even during busy periods.",
+          "translation": "そのサービスは繁忙期でも安定していて頼りになる。"
+        },
+        {
+          "word": "resilient",
+          "definition": "困難に耐え、打撃から立ち直れる。",
+          "frequency": 6,
+          "difference": "robust が崩れにくさを表すのに対し、resilient は適応や回復にも焦点を置く。",
+          "example": "The organization proved resilient after losing its largest client.",
+          "translation": "その組織は最大の顧客を失った後も、立ち直る力を示した。"
+        },
+        {
+          "word": "sound",
+          "definition": "根拠や設計が確かで、欠陥が少ない。",
+          "frequency": 7,
+          "difference": "sound は基盤や判断の妥当性を強調し、robust ほど変化への耐性を前面に出さない。",
+          "example": "The proposal rests on sound evidence.",
+          "translation": "その提案は確かな証拠に基づいている。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "fragile",
+          "definition": "仕組みや状態が不安定で、容易に崩れる。",
+          "frequency": 6,
+          "difference": "問題への強さという程度軸での反対。",
+          "example": "The agreement remains fragile.",
+          "translation": "その合意はいまだに崩れやすい状態にある。"
+        },
+        {
+          "word": "weak",
+          "definition": "根拠や仕組みの支えが乏しく、十分な力がない。",
+          "frequency": 8,
+          "difference": "確かさ・強さという程度軸での反対。",
+          "example": "The evidence for that claim is weak.",
+          "translation": "その主張を支える証拠は弱い。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【形容詞】力強い・好調な",
+      "frequency": 7,
+      "register": [
+        "経済報道・ビジネス。"
+      ],
+      "definition": "経済・需要・売上・成長などに勢いがあり、活発で良好な状態にあること。勢いが続きそうだという評価を伴うことはあるが、今後の持続や急成長を必ず意味するわけではない。",
+      "patterns": [
+        "robust 〈growth/demand/sales〉＝力強い成長・旺盛な需要・好調な売上",
+        "a robust economy＝好調な経済",
+        "〈需要・売上など〉 + remain robust＝好調さを保つ"
+      ],
+      "collocations": [
+        {
+          "pattern": "robust growth",
+          "use": "成長の力強さを述べる。",
+          "example": "The company recorded robust growth in overseas sales.",
+          "translation": "その会社は海外売上で力強い伸びを記録した。"
+        },
+        {
+          "pattern": "robust demand for 〈商品・サービス〉",
+          "use": "旺盛な需要を述べる。",
+          "example": "Demand for repair services remained robust throughout the year.",
+          "translation": "修理サービスの需要は年間を通じて旺盛だった。"
+        },
+        {
+          "pattern": "robust sales",
+          "use": "販売状況の好調さを述べる。",
+          "example": "Robust sales helped offset the rise in production costs.",
+          "translation": "好調な売上が、生産費の上昇を補う助けとなった。"
+        },
+        {
+          "pattern": "a robust economy",
+          "use": "経済全体の力強さを述べる。",
+          "example": "A robust economy does not guarantee that every household is better off.",
+          "translation": "経済が好調でも、すべての世帯が豊かになるとは限らない。"
+        }
+      ],
+      "notes": [
+        "限定・叙述の両用。growth、demand はこの意味では通常不可算で、a robust growth と機械的に冠詞を付けない。robust growth は成長率の具体的な数値を表さず、常に rapid growth「急成長」と同じとも限らない。strong growth と近いが、robust にはしっかりした勢いという評価が出やすい。"
+      ],
+      "synonyms": [
+        {
+          "word": "strong",
+          "definition": "需要や業績などの水準・勢いが大きい。",
+          "frequency": 8,
+          "difference": "最も広い語。robust はしっかりした力強さを評価する響きがある。",
+          "example": "Demand stayed strong in June.",
+          "translation": "6月も需要は旺盛なままだった。"
+        },
+        {
+          "word": "healthy",
+          "definition": "経済活動や増加が良好な状態にある。",
+          "frequency": 7,
+          "difference": "healthy は望ましい状態、robust は力強さを強調する。",
+          "example": "The business reported healthy profits.",
+          "translation": "その企業は良好な利益を報告した。"
+        },
+        {
+          "word": "buoyant",
+          "definition": "市場や経済が活発で、上向きの勢いがある。",
+          "frequency": 5,
+          "difference": "buoyant は浮き立つような活況や楽観と結び付きやすい。",
+          "example": "The export market remains buoyant.",
+          "translation": "輸出市場は引き続き活況を呈している。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "sluggish",
+          "definition": "経済活動や伸びが鈍い。",
+          "frequency": 6,
+          "difference": "勢いの強弱という程度軸での反対。",
+          "example": "Sales were sluggish in the first quarter.",
+          "translation": "第1四半期の売上は低調だった。"
+        },
+        {
+          "word": "weak",
+          "definition": "需要や成長などに力がない。",
+          "frequency": 8,
+          "difference": "活動の強さという程度軸での反対。",
+          "example": "Weak demand forced the factory to cut production.",
+          "translation": "需要の弱さから工場は減産を余儀なくされた。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【形容詞】頑健な・健康で丈夫な",
+      "frequency": 6,
+      "register": [
+        "一般。人物描写では healthy よりやや改まった響き。"
+      ],
+      "definition": "人・動物・植物が健康で、しっかりした生命力や体力を備えていること。単に病気でないだけでなく、弱々しさのない丈夫さに重点がある。大柄・筋肉質であることは必須ではない。",
+      "patterns": [
+        "a robust 〈child/plant〉＝丈夫な子供・植物",
+        "someone + be/remain robust＝頑健である・丈夫であり続ける",
+        "be in robust health＝きわめて健康である"
+      ],
+      "collocations": [
+        {
+          "pattern": "be in robust health",
+          "use": "健康状態の良さを表す。",
+          "example": "My grandfather is still in robust health and walks every morning.",
+          "translation": "祖父はいまもたいへん健康で、毎朝散歩している。"
+        },
+        {
+          "pattern": "a robust child",
+          "use": "体の丈夫な子供を描写する。",
+          "example": "She grew into a robust child who loved playing outdoors.",
+          "translation": "彼女は外遊びが大好きな丈夫な子に育った。"
+        },
+        {
+          "pattern": "remain robust",
+          "use": "年齢などにかかわらず丈夫であることを述べる。",
+          "example": "Despite his age, he remains robust and active.",
+          "translation": "年齢にもかかわらず、彼は丈夫で活動的なままだ。"
+        },
+        {
+          "pattern": "robust plants",
+          "use": "よく育ち、丈夫な植物をいう。",
+          "example": "The gardener selected robust plants with healthy roots.",
+          "translation": "庭師は根の健康な丈夫な植物を選んだ。"
+        }
+      ],
+      "notes": [
+        "限定・叙述の両用で、very robust、more robust と程度を示せる。in robust health の health は不可算なので、in a robust health とはしない。robust は一般的な健康・丈夫さの描写であり、診断上すべての病気がないことを断定する専門用語ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "healthy",
+          "definition": "健康状態が良い。",
+          "frequency": 9,
+          "difference": "healthy は広く健康を表し、robust は丈夫さと活力をより強調する。",
+          "example": "The baby is healthy and growing well.",
+          "translation": "赤ちゃんは健康で、順調に育っている。"
+        },
+        {
+          "word": "hardy",
+          "definition": "寒さや厳しい環境に耐えられるほど丈夫な。",
+          "frequency": 5,
+          "difference": "hardy は環境への耐性に重点があり、植物に特によく使う。",
+          "example": "These hardy plants survive the winter outdoors.",
+          "translation": "これらの丈夫な植物は屋外で冬を越せる。"
+        },
+        {
+          "word": "vigorous",
+          "definition": "活力や勢いに満ちている。",
+          "frequency": 6,
+          "difference": "vigorous は活動の活発さを強調し、robust は身体の丈夫さを強調する。",
+          "example": "She remained vigorous well into her eighties.",
+          "translation": "彼女は80代になっても長く精力的であり続けた。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "frail",
+          "definition": "体が弱く、体力が乏しい。",
+          "frequency": 6,
+          "difference": "身体の丈夫さという程度軸での反対。",
+          "example": "He became increasingly frail with age.",
+          "translation": "彼は年齢とともに次第に体が弱くなった。"
+        },
+        {
+          "word": "sickly",
+          "definition": "病気がちで、健康に恵まれない。",
+          "frequency": 4,
+          "difference": "健康・丈夫さという状態の反対で、単発の病気より持続的な弱さを表しやすい。",
+          "example": "She had been a sickly child.",
+          "translation": "彼女は病気がちな子供だった。"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "【形容詞】頑丈な・壊れにくい",
+      "frequency": 6,
+      "register": [
+        "一般・製品説明・技術。"
+      ],
+      "definition": "道具・機械・家具・素材などの造りがしっかりしており、繰り返しの使用や負荷に耐えやすいこと。物理的な耐久性が中心で、重さや大きさを直接表すわけではない。",
+      "patterns": [
+        "a robust 〈frame/case/machine〉＝頑丈な骨組み・ケース・機械",
+        "〈物〉 + be robust＝頑丈である",
+        "〈物〉 + be robust enough for 〈用途〉＝用途に耐えるだけ頑丈である"
+      ],
+      "collocations": [
+        {
+          "pattern": "a robust frame",
+          "use": "構造の丈夫さを述べる。",
+          "example": "The trolley has a robust steel frame.",
+          "translation": "その台車には頑丈な鋼鉄製のフレームがある。"
+        },
+        {
+          "pattern": "a robust case",
+          "use": "衝撃や使用に耐えるケースをいう。",
+          "example": "The instrument comes in a robust case for transport.",
+          "translation": "その測定器には運搬用の頑丈なケースが付属している。"
+        },
+        {
+          "pattern": "be robust enough for 〈用途〉",
+          "use": "使用目的に対する丈夫さを評価する。",
+          "example": "These chairs are robust enough for daily use in a busy café.",
+          "translation": "これらの椅子は、忙しいカフェで毎日使うのに十分な頑丈さがある。"
+        },
+        {
+          "pattern": "a robust machine",
+          "use": "機械の丈夫な造りを述べる。",
+          "example": "It is a robust machine with a reinforced housing.",
+          "translation": "それは外装を補強した頑丈な機械だ。"
+        }
+      ],
+      "notes": [
+        "限定・叙述の両用。robust equipment の equipment は不可算で、1台なら a robust piece of equipment とする。物理的な丈夫さをいう本義と、異常入力や負荷の変化に耐えるシステムの性質（語義1）は重なることもあるが、robust software を「硬い素材でできた」とは解釈しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "sturdy",
+          "definition": "造りがしっかりしていて丈夫な。",
+          "frequency": 6,
+          "difference": "物理的な造りについて robust に近く、家具や道具などによく使う。",
+          "example": "We need a sturdy ladder.",
+          "translation": "頑丈なはしごが必要だ。"
+        },
+        {
+          "word": "durable",
+          "definition": "長く使っても傷んだり壊れたりしにくい。",
+          "frequency": 6,
+          "difference": "durable は長期間の耐久性、robust は使用や負荷に耐える丈夫さを強調する。",
+          "example": "The seats are covered in durable fabric.",
+          "translation": "座席には耐久性のある布が張られている。"
+        },
+        {
+          "word": "rugged",
+          "definition": "厳しい使用条件に耐えられる頑丈な。",
+          "frequency": 5,
+          "difference": "rugged は屋外・現場などの過酷な条件を特に連想させる。",
+          "example": "The team uses rugged laptops in the field.",
+          "translation": "そのチームは現場で耐久性に優れたノートパソコンを使っている。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "flimsy",
+          "definition": "造りが弱く、簡単に壊れたり曲がったりする。",
+          "frequency": 6,
+          "difference": "造りの強さという程度軸での反対。",
+          "example": "The flimsy shelf bent under the weight.",
+          "translation": "その弱い造りの棚は重みで曲がった。"
+        },
+        {
+          "word": "fragile",
+          "definition": "壊れたり損傷したりしやすい。",
+          "frequency": 7,
+          "difference": "損傷への強さという程度軸での反対。",
+          "example": "The glass ornament is fragile.",
+          "translation": "そのガラスの飾りは壊れやすい。"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "【形容詞】断固とした・活発な",
+      "frequency": 6,
+      "register": [
+        "報道・政治・ビジネス。"
+      ],
+      "definition": "意見・擁護・対応などが自信を持って力強く示されること。議論なら、遠慮の少ない活発な意見の応酬をいう。話し手が積極性を評価する場合が多いが、正しさ・礼儀正しさ・攻撃性を一律に含むわけではない。",
+      "patterns": [
+        "a robust response to 〈批判・問題〉＝断固とした対応",
+        "a robust defence of 〈立場〉＝力強い擁護",
+        "a robust debate about 〈論点〉＝活発な議論",
+        "〈対応・議論〉 + be robust＝力強い・活発である"
+      ],
+      "collocations": [
+        {
+          "pattern": "a robust response to 〈批判・問題〉",
+          "use": "消極的でない対応を表す。",
+          "example": "The report called for a robust response to corruption.",
+          "translation": "報告書は汚職への断固とした対応を求めた。"
+        },
+        {
+          "pattern": "a robust defence of 〈立場〉",
+          "use": "立場を強く擁護することをいう。",
+          "example": "She offered a robust defence of academic freedom.",
+          "translation": "彼女は学問の自由を力強く擁護した。"
+        },
+        {
+          "pattern": "a robust debate about 〈論点〉",
+          "use": "意見を率直にぶつけ合う議論をいう。",
+          "example": "There was a robust debate about how the money should be spent.",
+          "translation": "その資金をどう使うべきかについて活発な議論が行われた。"
+        },
+        {
+          "pattern": "a robust approach to 〈問題〉",
+          "use": "断固として問題に取り組む姿勢をいう。",
+          "example": "The new director promised a robust approach to misconduct.",
+          "translation": "新しい責任者は、不正行為に断固として対処すると約束した。"
+        }
+      ],
+      "notes": [
+        "名詞の前でよく使い、The response was robust. のような叙述も可能。defence は英綴り、defense は米綴り。a robust defence は擁護の力強さに重点があり、a sound argument「筋の通った議論」と同じではない。robust debate は激しい議論にも使えるが、必ず口論や侮辱になるわけではない。動作を修飾するなら She responded robustly. と副詞を使い、She responded robust. とはしない。"
+      ],
+      "synonyms": [
+        {
+          "word": "forceful",
+          "definition": "表現や働きかけが強く、相手に強い印象を与える。",
+          "frequency": 6,
+          "difference": "forceful は伝え方の迫力、robust は確信を伴う力強い姿勢に重点を置きやすい。",
+          "example": "He gave a forceful speech against the proposal.",
+          "translation": "彼はその提案に反対する力強い演説をした。"
+        },
+        {
+          "word": "vigorous",
+          "definition": "行動や議論に活力と勢いがある。",
+          "frequency": 6,
+          "difference": "vigorous は活動量や勢いを強調し、断固とした態度は必須ではない。",
+          "example": "The proposal prompted vigorous debate.",
+          "translation": "その提案は活発な議論を引き起こした。"
+        },
+        {
+          "word": "firm",
+          "definition": "態度や決意がはっきりしており、容易に変わらない。",
+          "frequency": 8,
+          "difference": "firm は譲らない姿勢、robust は強く表現したり積極的に対応したりする力を表す。",
+          "example": "She gave a firm refusal.",
+          "translation": "彼女はきっぱりと断った。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "timid",
+          "definition": "自信がなく、行動や表現が控えめな。",
+          "frequency": 5,
+          "difference": "主張や対応の力強さという程度軸での反対。",
+          "example": "The committee offered only a timid response.",
+          "translation": "委員会が示したのは、おずおずとした対応だけだった。"
+        },
+        {
+          "word": "feeble",
+          "definition": "反論や対応が弱く、力に欠ける。",
+          "frequency": 5,
+          "difference": "表現・対応の強さという程度軸での反対で、しばしば批判的。",
+          "example": "He made a feeble attempt to defend the decision.",
+          "translation": "彼はその決定を擁護しようとしたが、力のないものだった。"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "【形容詞】味が濃厚な・こくのある",
+      "frequency": 5,
+      "register": [
+        "飲食・料理・商品説明。"
+      ],
+      "definition": "コーヒー・ワイン・ソースなどの味わいが豊かで、しっかり強く感じられること。味の力強さを表すのであって、単に辛い・苦い・塩辛いことや、カフェイン・アルコールの含有量を指すのではない。",
+      "patterns": [
+        "a robust 〈flavour/wine/coffee〉＝力強い風味・濃厚なワイン・こくのあるコーヒー",
+        "〈味・飲食物〉 + be robust＝味わいが濃厚である"
+      ],
+      "collocations": [
+        {
+          "pattern": "a robust flavour",
+          "use": "味の豊かさと強さを述べる。",
+          "example": "The mushrooms give the sauce a robust flavour.",
+          "translation": "そのキノコがソースにこくのある力強い風味を与える。"
+        },
+        {
+          "pattern": "a robust red wine",
+          "use": "飲みごたえのある赤ワインをいう。",
+          "example": "A robust red wine can stand up to the rich stew.",
+          "translation": "こくのある赤ワインなら、その濃厚な煮込み料理に負けない。"
+        },
+        {
+          "pattern": "robust coffee",
+          "use": "しっかりした味わいのコーヒーをいう。",
+          "example": "She prefers robust coffee to a lighter, more delicate brew.",
+          "translation": "彼女は軽く繊細な味のものより、こくのあるコーヒーを好む。"
+        }
+      ],
+      "notes": [
+        "限定・叙述の両用で、more robust と強さを比較できる。flavour は英綴り、flavor は米綴り。飲食物については「丈夫な」ではなく味わいの強さとして読む。コーヒーの種類を表す名詞 robusta「ロブスタ種」とは区別し、robust coffee だけで豆の種類を指定したことにはならない。「丈夫さ・故障しにくさ」という狭いイメージだけではこの意味は説明できず、味そのものの豊かで力強い性質として捉える。"
+      ],
+      "synonyms": [
+        {
+          "word": "full-bodied",
+          "definition": "味わいや口当たりに厚みがある。",
+          "frequency": 5,
+          "difference": "full-bodied はワインなどの厚み・飲みごたえ、robust は力強い味わいを強調する。",
+          "example": "This is a full-bodied wine with a long finish.",
+          "translation": "これは厚みがあり、余韻の長いワインだ。"
+        },
+        {
+          "word": "rich",
+          "definition": "味にこくや豊かさがある。",
+          "frequency": 7,
+          "difference": "rich は脂肪分などによる濃厚さにも使い、robust ほど力強さを前面に出さない。",
+          "example": "The dessert has a rich chocolate flavour.",
+          "translation": "そのデザートには濃厚なチョコレートの風味がある。"
+        },
+        {
+          "word": "strong",
+          "definition": "味や香りが強く感じられる。",
+          "frequency": 8,
+          "difference": "strong は強度だけを広く表し、robust の豊かさ・こくを必ずしも含まない。",
+          "example": "The cheese has a strong flavour.",
+          "translation": "そのチーズは風味が強い。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "mild",
+          "definition": "味や香りの刺激・強さが穏やかな。",
+          "frequency": 7,
+          "difference": "味の強さという程度軸での反対で、味気なさを必ずしも意味しない。",
+          "example": "The cheese has a mild, creamy flavour.",
+          "translation": "そのチーズは穏やかでクリーミーな味わいだ。"
+        },
+        {
+          "word": "delicate",
+          "definition": "味や香りが繊細で、強すぎない。",
+          "frequency": 6,
+          "difference": "味の力強さという程度軸で対照をなし、肯定的にも使う。",
+          "example": "The tea has a delicate floral aroma.",
+          "translation": "そのお茶には繊細な花の香りがある。"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "【形容詞】頑健な・条件の変化に左右されにくい",
+      "frequency": 5,
+      "register": [
+        "統計・計量分析・科学研究・工学。語義1の条件への強さを分析上の性質に絞った用法。"
+      ],
+      "definition": "統計手法・推定量・モデル・分析結果などが、想定からの一定のずれ、外れ値、分析条件の変更などによって性質や結論を過度に損なわないこと。何に対する頑健性かは手法や検証によって異なり、あらゆる誤りに強いという意味ではない。",
+      "patterns": [
+        "a robust 〈estimator/method〉＝頑健な推定量・方法",
+        "〈手法・結果〉 + be robust to 〈条件変化・外れ値〉＝～に対して頑健である",
+        "〈結果〉 + remain robust across 〈分析条件〉＝条件を変えても頑健性を保つ"
+      ],
+      "collocations": [
+        {
+          "pattern": "a robust estimator",
+          "use": "外れ値などの影響を受けすぎない推定量をいう。",
+          "example": "They used a robust estimator to limit the influence of extreme observations.",
+          "translation": "彼らは極端な観測値の影響を抑えるため、頑健な推定量を用いた。"
+        },
+        {
+          "pattern": "be robust to outliers",
+          "use": "外れ値への耐性を述べる。",
+          "example": "The median is more robust to outliers than the mean.",
+          "translation": "中央値は平均値よりも外れ値の影響を受けにくい。"
+        },
+        {
+          "pattern": "be robust to small departures from 〈仮定〉",
+          "use": "仮定からの小さなずれへの強さを述べる。",
+          "example": "The test is robust to small departures from normality.",
+          "translation": "その検定は、正規性からの小さなずれに対して頑健である。"
+        },
+        {
+          "pattern": "remain robust across 〈分析条件〉",
+          "use": "異なる分析設定でも結論が大きく変わらないことを述べる。",
+          "example": "The main finding remained robust across several model specifications.",
+          "translation": "主要な知見は、モデルの定式化をいくつか変えても大きく変わらなかった。"
+        }
+      ],
+      "notes": [
+        "限定・叙述の両用。robust to の to は前置詞なので、後ろは outliers、changes in assumptions などの名詞句にする。robust enough to handle noise の to は不定詞で、構造が異なる。統計では「頑健な」が一般的な訳で、「頑固な」とはしない。外れ値に強いことと、すべてのモデル誤指定に強いことは同じではない。robust standard errors「頑健標準誤差」も何に対応する推定法かの確認が必要で、それを使うだけで係数の偏りや因果関係の問題まで解消するわけではない。robust は accurate「正確な」や statistically significant「統計的に有意な」と同義ではなく、どの変更・仮定のずれに対して性質が保たれるかが要点になる。"
+      ],
+      "synonyms": [
+        {
+          "word": "resistant",
+          "definition": "外れ値などによって数値が大きく変わりにくい。",
+          "frequency": 4,
+          "difference": "統計では外れ値への感度の低さに重点を置く。robust は仮定のずれに対する性質も含めて使われる。",
+          "example": "The median is resistant to extreme values.",
+          "translation": "中央値は極端な値によって大きく左右されにくい。"
+        },
+        {
+          "word": "stable",
+          "definition": "入力や条件が変わっても値や挙動が大きく変わらない。",
+          "frequency": 6,
+          "difference": "stable は安定性一般で、robust のように特定のずれに対する妥当性の維持を明示しないこともある。",
+          "example": "The estimates were stable across the three samples.",
+          "translation": "推定値は3つの標本にわたって安定していた。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "sensitive",
+          "definition": "小さな条件変更や特定の値に大きく左右される。",
+          "frequency": 6,
+          "difference": "影響の受けやすさという程度軸での反対。検出感度の高さを褒める別義とは区別する。",
+          "example": "The estimate is sensitive to a few extreme values.",
+          "translation": "その推定値は少数の極端な値に大きく左右される。"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "【形容詞】体力を要する",
+      "frequency": 2,
+      "register": [
+        "一般辞書に収録されるが、現代の日常表現として優先して使う意味ではない。読み取りを中心に覚え、発信では strenuous や physically demanding が明確。"
+      ],
+      "definition": "仕事や運動などを行うために、体の強さや活力が必要であること。人が丈夫であるという語義3とは違い、活動の側に要求される身体的な負荷を表す。",
+      "patterns": [
+        "robust 〈work/exercise〉＝体力を要する仕事・運動。名詞の前で活動の性質を示す用法として押さえる。主語が人の be robust は通常「頑健だ」（語義3）と読む。"
+      ],
+      "collocations": [
+        {
+          "pattern": "robust work",
+          "use": "身体的な力を要する仕事をいう。",
+          "example": "The job involved robust work, including carrying heavy sacks up the stairs.",
+          "translation": "その仕事には、重い袋を階段で運び上げるなど、体力を要する作業が含まれていた。"
+        }
+      ],
+      "notes": [
+        "a robust worker は「頑健な労働者」、robust work はこの意味なら「体力を要する仕事」と、強さの持ち主が異なる。ただし work には「仕事ぶり・研究成果」などもあり、robust work が常に肉体労働を指すわけではない。身体的な活動か、出来の確かさを評価する文脈かを区別する。この低頻度義を、robust economy や robust evidence に当てはめない。"
+      ],
+      "synonyms": [
+        {
+          "word": "strenuous",
+          "definition": "多くの体力や努力を要する。",
+          "frequency": 5,
+          "difference": "活動の負荷を述べる標準的な語で、この意味の robust より意図が明確になる。精神的な努力にも使える。",
+          "example": "Moving the furniture was strenuous work.",
+          "translation": "家具を動かすのは骨の折れる仕事だった。"
+        },
+        {
+          "word": "physically demanding",
+          "definition": "身体的な負担が大きい。",
+          "frequency": 6,
+          "difference": "demanding に physically を添えた形容詞句で、負荷が身体的であることを明示する。robust のような別義との紛れが少ない。",
+          "example": "The training is physically demanding.",
+          "translation": "その訓練は身体的な負担が大きい。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
