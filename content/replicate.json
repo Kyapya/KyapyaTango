@@ -1,0 +1,352 @@
+{
+  "word": "replicate",
+  "slug": "replicate",
+  "ipa": "動詞 米・英: /ˈrep.lɪ.keɪt/",
+  "lead": "元になる物・形・働き・状況・結果などに対応するものを、別の場所や機会に作り出す。物理的なコピーだけでなく、成功や効果を再び実現する場合にも使う。何をどこまで同じにするかは目的と文脈による。",
+  "updated": "2026-10-20",
+  "notion_url": "https://app.notion.com/p/replicate-3ff4faa9b77d813ab5fbc62868f80b2b",
+  "pronunciation": [
+    "名詞・形容詞 米・英: /ˈrep.lɪ.kət/ または /ˈrep.lɪ.kɪt/",
+    "いずれも3音節で、第1音節に強勢がある。品詞で異なるのは第3音節の母音で、動詞は二重母音 /eɪ/、名詞・形容詞は弱い /ə/ または /ɪ/。名詞・形容詞の異形同士の違いも第3音節の母音で、この違いを米英に一律に割り当てるものではない。同じ綴りをすべて動詞の語尾で読まない。動詞 replicated の -ed は /ɪd/ で、1音節増える。"
+  ],
+  "etymology": [
+    "ラテン語 replicare「折り返す・繰り返す」にさかのぼり、re-「再び・後ろへ」と plicare「折る」からなる。現代の主要動詞義では折る動作そのものではなく、同じ形や結果を再び作ることを表す。reply「返答する」も同系で、duplicate「複製する・複製物」も plicare と関連する語群に属する。"
+  ],
+  "formation": [
+    {
+      "term": "replication",
+      "description": "名詞。「複製・再現・反復」。過程一般は不可算、個々の追試・反復研究は可算にもなる。"
+    },
+    {
+      "term": "replicable",
+      "description": "形容詞。「再現可能な・反復可能な」。replicable results は「再現可能な結果」。"
+    },
+    {
+      "term": "replicability",
+      "description": "通常不可算名詞。「再現可能性」。研究では何をどの条件で再現するかを明確にする必要がある。"
+    },
+    {
+      "term": "replica",
+      "description": "可算名詞。「複製品・レプリカ」。建築物や美術品などの複製物に使いやすく、実験の反復を数える replicate とは使用域が違う。"
+    },
+    {
+      "term": "replicated／replicating",
+      "description": "過去形・過去分詞／現在分詞。replicated data「複製されたデータ」は動詞の意味から理解できる分詞修飾。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "「元になるものに対応する形・過程をもう一つ作る」が主要な意味をまとめる核。複製物の完全同一や、反復実験で同じ結果が出ることまで一律に含むわけではない。"
+    },
+    {
+      "type": "item",
+      "text": "元に対応するものを作る行為 → 「複製する・再現する」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "元に対応する実験を行う行為 → 「実験を反復する・追試する」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "元に対応する自己のコピーの生成 → 「複製される・自己複製する」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "元に対応する反復の一単位 → 「反復試行・反復試料」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "元に対応する反復に属する性質 → 「反復の・同じ条件で繰り返す」（語義5）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞】複製する・再現する",
+      "frequency": 6,
+      "register": [
+        "一般・ビジネス・技術・研究。日常の単純なコピーでは copy が広く使える。頻度評点は学習上の目安で、コーパスによる実測値ではない。"
+      ],
+      "definition": "元になる物・形・働き・状況・結果などに対応するものを、別の場所や機会に作り出す。物理的なコピーだけでなく、成功や効果を再び実現する場合にも使う。何をどこまで同じにするかは目的と文脈による。",
+      "patterns": [
+        "replicate 〈物・形・効果・結果〉＝それを複製・再現する",
+        "replicate 〈成功・方式〉 in 〈場所・条件〉＝別の場所などで再現する",
+        "〈結果・物〉 + be replicated＝再現・複製される。"
+      ],
+      "collocations": [
+        {
+          "pattern": "replicate the design",
+          "use": "元の意匠や構造を再現する。",
+          "example": "The craftsmen replicated the design using modern materials.",
+          "translation": "職人たちは現代の材料を使って、その意匠を再現した。"
+        },
+        {
+          "pattern": "replicate 〈成功〉 in 〈場所〉",
+          "use": "別の市場などで成功を再び実現する。",
+          "example": "The company hopes to replicate its domestic success in overseas markets.",
+          "translation": "会社は国内での成功を海外市場でも再現したいと考えている。"
+        },
+        {
+          "pattern": "replicate the results",
+          "use": "以前と対応する結果を再び得る。",
+          "example": "An independent team replicated the results with a new sample.",
+          "translation": "独立したチームは新しい標本を使って、その結果を再現した。"
+        },
+        {
+          "pattern": "be difficult to replicate",
+          "use": "あるものを再現することの難しさを述べる。",
+          "example": "The atmosphere of the original venue is difficult to replicate.",
+          "translation": "元の会場の雰囲気を再現するのは難しい。"
+        },
+        {
+          "pattern": "replicate data across 〈複数の保存先〉",
+          "use": "複数の保存場所にデータの複製を作る。",
+          "example": "The system replicates data across three servers.",
+          "translation": "そのシステムは3台のサーバーにデータを複製している。"
+        }
+      ],
+      "notes": [
+        "replicate the effect のように対象を直接目的語に置き、replicate of the effect とはしない。the replication of the effect なら名詞の構文になる。The result is difficult to replicate. は、result が replicate の意味上の目的語となる構造で、「結果が複製作業をする」ではない。",
+        "replicate the results は結果の再現だが、replicate the experiment は実験をもう一度行うこと（語義2）。追試を実施しても結果が再現されないことはある。また、データの replication はコピーを作ることで、同期・保存期間・障害時復旧などの具体的な保証はシステム次第。replicate だけで安全なバックアップが確立したと考えない。"
+      ],
+      "synonyms": [
+        {
+          "word": "copy",
+          "definition": "元になる物や情報と同じものを作る。",
+          "frequency": 9,
+          "difference": "最も広く日常的な対応語。replicate は特徴・機能・効果の再現という説明にも向く。",
+          "example": "Copy the file to another folder.",
+          "translation": "ファイルを別のフォルダーにコピーしてください。"
+        },
+        {
+          "word": "reproduce",
+          "definition": "物や結果を再び作り出す。",
+          "frequency": 7,
+          "difference": "一般英語では replicate と大きく重なる。研究上の両語の区別は分野によって異なり、普遍的な規則にしない。",
+          "example": "The printer reproduces fine details accurately.",
+          "translation": "そのプリンターは細部を正確に再現する。"
+        },
+        {
+          "word": "duplicate",
+          "definition": "同じものをもう一つ作る。",
+          "frequency": 6,
+          "difference": "もう一つの同等物を作る点が強く、不要な二重作業の意味にも使う。成功や効果を再現する意味では replicate とも重なり、具体物か抽象物かだけでは区別できない。",
+          "example": "We duplicated the key for the new tenant.",
+          "translation": "私たちは新しい入居者のために合鍵を作った。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【動詞・他動詞】実験を反復する・追試する",
+      "frequency": 5,
+      "register": [
+        "科学・社会科学・研究。"
+      ],
+      "definition": "先行する実験・研究に対応する手順をもう一度行い、結果の安定性や再現性などを調べる。同じ条件を保つ場合も、関連する別条件で確かめる場合もあり、具体的な方法は研究計画による。",
+      "patterns": [
+        "replicate an experiment＝実験を反復する",
+        "replicate a study＝研究を追試する",
+        "〈実験・研究〉 + be replicated by 〈研究者〉＝研究者によって追試される。"
+      ],
+      "collocations": [
+        {
+          "pattern": "replicate an experiment",
+          "use": "実験をもう一度行う。",
+          "example": "The students replicated the experiment but obtained different results.",
+          "translation": "学生たちはその実験を繰り返したが、異なる結果を得た。"
+        },
+        {
+          "pattern": "replicate a study",
+          "use": "先行研究を別の標本などで追試する。",
+          "example": "The researchers replicated the study with a larger group of participants.",
+          "translation": "研究者たちは、より大きな参加者集団を使ってその研究を追試した。"
+        },
+        {
+          "pattern": "be independently replicated",
+          "use": "別の研究チームによる追試を述べる。",
+          "example": "The experiment has been independently replicated by two laboratories.",
+          "translation": "その実験は二つの研究所によって独立に追試されている。"
+        }
+      ],
+      "notes": [
+        "目的語が手順・実験なら実施の反復、results や findings なら結果・知見の再現（語義1）に重点がある。replicate an experiment but fail to replicate its results は矛盾しない。independently は別の担当者などによる実施を示す副詞で、replicate だけに独立性が必ず含まれるわけではない。方法をどの程度一致させるかを、一般語義だけで決めない。"
+      ],
+      "synonyms": [
+        {
+          "word": "repeat",
+          "definition": "同じ行為や手順をもう一度行う。",
+          "frequency": 9,
+          "difference": "反復一般で、研究上の検証目的を必ずしも含まない。",
+          "example": "Repeat the measurement three times.",
+          "translation": "測定を3回繰り返してください。"
+        },
+        {
+          "word": "rerun",
+          "definition": "実験や処理などをもう一度実行する。",
+          "frequency": 5,
+          "difference": "実行をやり直す点を表し、独立した標本を使った研究の追試とは限らない。",
+          "example": "We reran the analysis after correcting the data.",
+          "translation": "データを修正してから、私たちは分析を再実行した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞・自動詞／再帰用法】複製される・自己複製する",
+      "frequency": 5,
+      "register": [
+        "生物学・医学・科学解説。比喩的に自己複製するプログラムなどにも使う。"
+      ],
+      "definition": "DNA・ウイルスなどが、自らに対応するコピーを作って増えること。必要な細胞内の仕組みや条件を利用する過程であり、対象が外部の助けなしに意思を持って行うという意味ではない。",
+      "patterns": [
+        "〈DNA・ウイルス〉 + replicate＝複製される・自己複製する",
+        "〈DNA・自己複製系〉 + replicate itself＝自分に対応するコピーを作る。itself を目的語に取る形と、目的語のない自動詞を区別する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "DNA + replicate",
+          "use": "DNAの複製過程を述べる。",
+          "example": "DNA replicates before the cell divides.",
+          "translation": "DNAは細胞が分裂する前に複製される。"
+        },
+        {
+          "pattern": "〈ウイルス〉 + replicate in 〈細胞〉",
+          "use": "ウイルスがどこで増殖するかを述べる。",
+          "example": "The virus replicates in the host's cells.",
+          "translation": "そのウイルスは宿主の細胞内で増殖する。"
+        },
+        {
+          "pattern": "〈自己複製系〉 + replicate itself",
+          "use": "対象が自らのコピーを作ることを明示する。",
+          "example": "The program can replicate itself onto another computer.",
+          "translation": "そのプログラムは別のコンピューター上に自らのコピーを作れる。"
+        }
+      ],
+      "notes": [
+        "DNA replicates. は能動形の自動詞で、DNA replicates itself. は再帰代名詞を目的語に取る。他方、DNA is replicated. は受動態。「itself がなければ誤り」としない。日本語ではいずれも「複製される」と訳せることがあるが、英語の構造は異なる。ウイルスの replicate は日常語の「コピーする」より「増殖する」と訳す方が自然な場合が多い。replicate という語だけから、生物の具体的な増殖機構を一律に説明しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "reproduce",
+          "definition": "生物などが新しい個体や対応物を生み出す。",
+          "frequency": 7,
+          "difference": "生物の繁殖全般に広く使う。replicate はDNAなどのコピーの生成という側面を強く示す。",
+          "example": "These organisms reproduce rapidly under favorable conditions.",
+          "translation": "これらの生物は好条件の下で急速に繁殖する。"
+        },
+        {
+          "word": "multiply",
+          "definition": "数が増える・増殖する。",
+          "frequency": 7,
+          "difference": "数量の増加に重点があり、コピーがどう作られるかは示さない。",
+          "example": "The bacteria multiplied in the warm liquid.",
+          "translation": "細菌は温かい液体の中で増殖した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・可算】反復試行・反復試料",
+      "frequency": 3,
+      "register": [
+        "実験科学・統計・研究方法。日常の模型や複製品には replica の方が一般的。"
+      ],
+      "definition": "実験や測定を反復するときの、一つ一つの試行・試料など。同じ研究条件のもとで比較可能な単位として扱うが、測定結果が完全に一致するという意味ではない。何を一単位とするかは研究設計による。",
+      "patterns": [
+        "a replicate＝一つの反復試行・試料",
+        "three replicates＝三つの反復単位",
+        "biological replicates＝生物学的反復",
+        "technical replicates＝技術的反復。"
+      ],
+      "collocations": [
+        {
+          "pattern": "three replicates",
+          "use": "反復単位の数を示す。",
+          "example": "Three replicates were analyzed for each condition.",
+          "translation": "各条件について三つの反復試料を分析した。"
+        },
+        {
+          "pattern": "biological replicates",
+          "use": "生物学的に独立した試料などによる反復をいう。",
+          "example": "The study used cells from four different donors as biological replicates.",
+          "translation": "その研究は4人の異なる提供者の細胞を、生物学的反復として用いた。"
+        },
+        {
+          "pattern": "technical replicates",
+          "use": "同じ試料について測定手順などを繰り返す単位をいう。",
+          "example": "Each sample was measured in three technical replicates.",
+          "translation": "各試料について、技術的反復として3回測定した。"
+        }
+      ],
+      "notes": [
+        "可算なので one replicate、two replicates とする。動詞の /-keɪt/ と名詞の /-kət/ の違いに注意。biological replicates と technical replicates は同義ではなく、同じ試料を何度測っても独立した生物学的試料の数が増えたことにはならない。具体的な独立性や反復数は方法欄の説明と合わせて読む。replication は反復という過程・研究、replicate はその一単位という対照が役立つが、replication にも可算用法はある。"
+      ],
+      "synonyms": [
+        {
+          "word": "repeat",
+          "definition": "繰り返し行う一回の試行など。",
+          "frequency": 5,
+          "difference": "名詞の広い表現で、実験設計上の反復単位を厳密に指すとは限らない。",
+          "example": "The second repeat gave a similar reading.",
+          "translation": "2回目の反復でも似た測定値が得られた。"
+        },
+        {
+          "word": "trial",
+          "definition": "実験や試験における一回の実施。",
+          "frequency": 7,
+          "difference": "一回の試行を示すが、別の試行と対応する反復であることは必須でない。",
+          "example": "The first trial was excluded because the equipment failed.",
+          "translation": "最初の試行は装置が故障したため除外された。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【形容詞】反復の・同じ条件で繰り返す",
+      "frequency": 3,
+      "register": [
+        "実験科学。主に名詞の前で使う。"
+      ],
+      "definition": "実験・測定・試料などが、対応する条件で反復されるものであること。研究方法の記述で使う専門的な用法で、すでに反復が完了したという時制を単独で表すものではない。",
+      "patterns": [
+        "replicate measurements＝反復測定",
+        "replicate samples＝反復試料。測定や試料を表す名詞を限定する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "replicate measurements",
+          "use": "同じ条件で繰り返す測定をいう。",
+          "example": "Replicate measurements are needed to estimate the variability of the assay.",
+          "translation": "その測定法のばらつきを見積もるには、反復測定が必要だ。"
+        },
+        {
+          "pattern": "replicate samples",
+          "use": "同条件で比較する反復試料をいう。",
+          "example": "The replicate samples were processed separately.",
+          "translation": "反復試料はそれぞれ別に処理された。"
+        }
+      ],
+      "notes": [
+        "専門辞書では形容詞として収録され、名詞 replicate の限定用法に近いと分析される場合もある。動詞の過去分詞 replicated とは形を分けて読む。replicate measurements は反復として設計された測定、replicated measurements は「繰り返された測定」という動詞由来の修飾であり、どの時点で何を反復したかは文脈による。この専門用法を人物の性格などへ広げて very replicate としない。"
+      ],
+      "synonyms": [
+        {
+          "word": "repeated",
+          "definition": "繰り返された、または繰り返し行う。",
+          "frequency": 7,
+          "difference": "分詞由来の広い修飾語で、同条件の研究上の反復に限定されない。",
+          "example": "Repeated observations revealed a seasonal pattern.",
+          "translation": "繰り返し観察することで、季節的なパターンが分かった。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
