@@ -6,7 +6,7 @@
   "updated": "2026-10-19",
   "notion_url": "https://app.notion.com/p/default-3fe4faa9b77d81d9bf1eee689f13c6c2",
   "pronunciation": [
-    "英語には第2音節の母音を /ɒ/ とする /dɪˈfɒlt/、米語には /ɑː/ とする /dɪˈfɑːlt/ もある。これらは第2音節の母音の違いであり、品詞を必ず区別するものではない。過去形・過去分詞は defaulted、現在分詞は defaulting で、defaulted の語尾は /ɪd/。"
+    "英国英語には第2音節の母音を /ɒ/ とする /dɪˈfɒlt/、米国英語には /ɑː/ とする /dɪˈfɑːlt/ もある。これらは第2音節の母音の違いであり、品詞を必ず区別するものではない。過去形・過去分詞は defaulted、現在分詞は defaulting で、defaulted の語尾は /ɪd/。"
   ],
   "etymology": [
     "中英語 defaute・defaulte を経て、古フランス語・アングロフランス語の「不足・欠如・不履行」を表す語に由来する。背景には defaillir「欠ける・果たせない」があり、さらにラテン語 fallere の系統につながる。現在の英語では「義務を果たさないこと」と「別の指定がないときの選択」を区別して覚える。",
@@ -94,6 +94,10 @@
     {
       "type": "item",
       "text": "応答・防御がない場合の当事者への処分 → 「当事者を訴訟上の懈怠として扱う」（語義14）"
+    },
+    {
+      "type": "item",
+      "text": "不履行となった債務について貸し手が行う扱い・記録 → 「口座・債務を不履行として扱う」（語義15）"
     }
   ],
   "sources": [],
@@ -602,7 +606,7 @@
           "pattern": "a default",
           "use": "結果を一件の棄権・失格として数える。",
           "example": "The referee recorded the result as a default, not a completed match.",
-          "translation": "主審は、その結果を試合完了ではなく棄権・失格による決着として記録した。"
+          "translation": "レフェリーは、その結果を試合完了ではなく棄権・失格による決着として記録した。"
         },
         {
           "pattern": "award a match to someone by default",
@@ -867,7 +871,7 @@
           "pattern": "default a player",
           "use": "審判などが選手に処分を下す。",
           "example": "The referee defaulted the player for a serious code violation.",
-          "translation": "主審は、重大な行動規範違反を理由にその選手を失格にした。"
+          "translation": "レフェリーは、重大な行動規範違反を理由にその選手を失格にした。"
         },
         {
           "pattern": "be defaulted from a tournament",
@@ -883,7 +887,7 @@
         }
       ],
       "notes": [
-        "defaulted はここでは他動詞の過去分詞で、処分を受ける選手が受動文の主語になる。He defaulted.「本人が棄権した」（語義10）と He was defaulted.「失格にされた」を区別する。処分権者、違反の程度、ほかの種目や賞金への影響は競技規則によるため、この動詞だけで決まらない。a defaulted player は処分済みの選手を指す分詞的な修飾である。"
+        "defaulted はここでは他動詞の過去分詞で、処分を受ける選手が受動文の主語になる。He defaulted.「本人が棄権した」（語義10）と He was defaulted.「失格にされた」を区別する。処分権者、違反の程度、ほかの種目や賞金への影響は競技規則によるため、この動詞だけで決まらない。a defaulted player は処分済みの選手を指す分詞的な修飾である。テニスでは referee と chair umpire は異なる役職なので、referee を一律に「主審」と訳さない。"
       ],
       "synonyms": [
         {
@@ -986,6 +990,38 @@
           "translation": "書記官は、原告の宣誓供述書を確認した後、懈怠を記録した。"
         }
       ],
+      "antonyms": []
+    },
+    {
+      "number": 15,
+      "title": "【動詞・他動詞】口座・債務を不履行として扱う",
+      "frequency": 2,
+      "register": [
+        "英国の信用情報・債権管理実務。限定的な用法。"
+      ],
+      "definition": "貸し手などが、口座や債務を不履行の状態として扱い、記録する。借り手が返済をしないという語義13とは異なり、扱いを決める貸し手側が主語になる。",
+      "patterns": [
+        "a lender defaults an account＝貸し手が口座を不履行として扱う",
+        "an account is defaulted＝口座が不履行として扱われる。目的語や受動文の主語には、口座・債務などを置く。"
+      ],
+      "collocations": [
+        {
+          "pattern": "default an account",
+          "use": "貸し手側が口座を不履行として扱うことを述べる。",
+          "example": "The lender defaulted the account after several missed payments.",
+          "translation": "貸し手は、支払いが数回行われなかった後、その口座を不履行として扱った。"
+        },
+        {
+          "pattern": "an account is defaulted",
+          "use": "不履行として扱われた口座を受動文で示す。",
+          "example": "She disputed the date on which her account had been defaulted.",
+          "translation": "彼女は、自分の口座が不履行扱いとされた日付に異議を唱えた。"
+        }
+      ],
+      "notes": [
+        "英国の金融実務に見られる用法であり、すべての国・制度で同じ手続きや日数を表すわけではない。The borrower defaulted on the account. は借り手の不履行を述べるのに対し、The lender defaulted the account. は貸し手側の扱いを述べる。通知を送ること、信用情報に登録すること、債権を譲渡することはそれぞれ別の行為なので、この動詞だけで全部が行われたとは判断しない。"
+      ],
+      "synonyms": [],
       "antonyms": []
     }
   ]
