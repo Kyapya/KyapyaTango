@@ -1,0 +1,235 @@
+{
+  "word": "intrinsic",
+  "slug": "intrinsic",
+  "ipa": "米・英: /ɪnˈtrɪn.zɪk/ または /ɪnˈtrɪn.sɪk/",
+  "lead": "物事の性質・価値・要素などが、その対象自体のあり方に属し、外からの報酬や周囲の評価などだけによるものではないこと。「重要な」「良い」と同義ではなく、価値の小ささや望ましくない性質についても使える。",
+  "updated": "2026-10-20",
+  "notion_url": "https://app.notion.com/p/intrinsic-3ff4faa9b77d81e09d47dee46a94e962",
+  "pronunciation": [
+    "3音節で、第2音節に強勢がある。二つの異形の違いは第3音節の頭の子音で、有声音 /z/ と無声音 /s/。この違いを米英に一律に割り当てるものではない。いずれも語尾の母音は /ɪ/。"
+  ],
+  "etymology": [
+    "フランス語 intrinsèque や後期ラテン語 intrinsecus「内側の」に関係し、ラテン語で内側へという方向を表す語にさかのぼる。語頭の綴り in を否定の接頭辞と解釈しない。歴史的には「内側」を表すラテン語の語群に関係し、現代語を単純に in- と残部へ分けて作った語ではない。同じ内外の対照で使う語に extrinsic「外からの」がある。現代語では「中にある」という位置だけでなく、対象そのものの性質に属することもいう。"
+  ],
+  "formation": [
+    {
+      "term": "intrinsically",
+      "description": "副詞。「本質的に・それ自体として」。intrinsically valuable は「それ自体に価値がある」。綴りは intrinsicly ではなく intrinsically。"
+    },
+    {
+      "term": "intrinsic value",
+      "description": "名詞句。一般には「それ自体の価値」。金融などでは専門的な定義が用いられるため、具体的な評価額を一般語義だけから決めない。"
+    },
+    {
+      "term": "extrinsic",
+      "description": "形容詞。「外的な・外から生じる」。内在する性質や動機を表す intrinsic と対照になる。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "「対象そのものの内側に属する・内側に由来する」が核。性質や身体の構造、コンパイラーへの組込み、材料自体による電気的性質に具体化するが、各分野の詳しい定義や実装条件までこの核だけで決まるわけではない。"
+    },
+    {
+      "type": "item",
+      "text": "対象の内側に属する性質や価値 → 「内在する・それ自体に備わった」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "対象の内側に属する身体の構造 → 「器官・部位の内部に属する」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "対象の内側に組み込まれた計算処理 → 「コンパイラー組込み関数・組込み操作」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "対象の内側の材料特性に由来する状態 → 「真性の」（語義4）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【形容詞】内在する・それ自体に備わった",
+      "frequency": 6,
+      "register": [
+        "やや硬い表現。学術・評論・ビジネス・心理学。頻度評点は学習上の目安で、コーパスによる実測値ではない。"
+      ],
+      "definition": "物事の性質・価値・要素などが、その対象自体のあり方に属し、外からの報酬や周囲の評価などだけによるものではないこと。「重要な」「良い」と同義ではなく、価値の小ささや望ましくない性質についても使える。",
+      "patterns": [
+        "the intrinsic value of 〈対象〉＝対象それ自体の価値",
+        "an intrinsic part of 〈全体〉＝全体に内在する構成部分",
+        "〈性質・要素〉 + be intrinsic to 〈対象〉＝対象に本来的に備わる",
+        "intrinsic motivation＝活動自体の面白さ・満足による内発的動機付け。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the intrinsic value of 〈対象〉",
+          "use": "他の目的の手段としてではない価値を論じる。",
+          "example": "The essay explores the intrinsic value of friendship, beyond its practical benefits.",
+          "translation": "その論考は、実際的な利益を超えた、友情それ自体の価値を探究している。"
+        },
+        {
+          "pattern": "little intrinsic value",
+          "use": "対象自体の価値が小さいことを述べる。",
+          "example": "The token has little intrinsic value, but collectors are willing to pay for its history.",
+          "translation": "そのトークン自体の価値はわずかだが、収集家はその歴史に対してお金を払おうとする。"
+        },
+        {
+          "pattern": "an intrinsic part of 〈全体〉",
+          "use": "活動や仕組みから切り離しにくい要素をいう。",
+          "example": "Uncertainty is an intrinsic part of scientific inquiry.",
+          "translation": "不確実性は科学的探究に本来的に含まれる要素だ。"
+        },
+        {
+          "pattern": "be intrinsic to 〈対象〉",
+          "use": "性質が何に内在するかを示す。",
+          "example": "These risks are intrinsic to the process, not caused by poor management.",
+          "translation": "これらのリスクはその工程に内在するもので、管理の不備が原因ではない。"
+        },
+        {
+          "pattern": "intrinsic motivation",
+          "use": "活動をすること自体の満足が動機になることをいう。",
+          "example": "She studied the subject out of intrinsic motivation, enjoying the questions themselves.",
+          "translation": "彼女は問いそのものを楽しみ、内発的な動機からその科目を学んだ。"
+        }
+      ],
+      "notes": [
+        "名詞の前にも be の後にも使える。intrinsic to the activity の to は前置詞で、性質が属する対象を示す。the intrinsic value of the activity の of は value に結び付く。intrinsic of the activity を基本構文として使わない。形容詞の修飾なら intrinsically interesting と副詞にし、intrinsic interesting とはしない。",
+        "intrinsic は「生まれつきの」と必ずしも同義ではなく、生物以外の仕組み・活動にも使う。対象の性質に属するという見方であって、どの条件でも絶対に変えられないという主張ではない。no intrinsic merit、little intrinsic value のように否定・小さい程度とも両立する。",
+        "intrinsic motivation は活動自体がもたらす楽しさ・満足などによる動機で、頭の中に生じた動機ならすべて内発的という意味ではない。外的報酬への動機と共存する場合もある。一般語の intrinsic value と、金融上の特定の評価概念などは分けて読む。"
+      ],
+      "synonyms": [
+        {
+          "word": "inherent",
+          "definition": "対象の性質に本来的に備わっている。",
+          "frequency": 6,
+          "difference": "意味が非常に近い。intrinsic は対象それ自体と外的要因の対比を意識させやすいが、両語の境界は排他的ではない。",
+          "example": "The system has inherent limitations.",
+          "translation": "そのシステムには本来的な限界がある。"
+        },
+        {
+          "word": "integral",
+          "definition": "全体を成り立たせる不可欠な部分である。",
+          "frequency": 6,
+          "difference": "構成要素としての不可欠さに重点がある。intrinsic は価値や性質の由来を述べる場合にも使う。",
+          "example": "Feedback is an integral part of the learning process.",
+          "translation": "フィードバックは学習過程に不可欠な要素だ。"
+        },
+        {
+          "word": "innate",
+          "definition": "生まれながらに備わっている。",
+          "frequency": 5,
+          "difference": "人や生物の性質について出生・生得性に重点を置く。intrinsic は工程の性質などにも使い、生まれた時点を必ず意味しない。",
+          "example": "The species has an innate tendency to migrate.",
+          "translation": "その種には生まれつき移動する傾向がある。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "extrinsic",
+          "definition": "対象自体の性質ではなく、外部の要因による。",
+          "frequency": 4,
+          "difference": "性質・価値・動機の由来という軸で直接の対照になる。",
+          "example": "The reward provided an extrinsic reason to complete the task.",
+          "translation": "その報酬は、課題を終える外的な動機を与えた。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【形容詞】器官・部位の内部に属する",
+      "frequency": 3,
+      "register": [
+        "解剖学・生理学。"
+      ],
+      "definition": "解剖学などで、筋などが対象となる器官・部位の内部にある、またはそこに起源を持つこと。対象それ自体の「重要さ」を評価するのではなく、どの部位に属するかを区別する専門用法。",
+      "patterns": [
+        "the intrinsic muscles of 〈部位〉＝その部位の内在筋",
+        "intrinsic 〈muscles/structures〉＝対象部位の内部に属する筋・構造。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the intrinsic muscles of 〈部位〉",
+          "use": "部位内に属する筋をいう。",
+          "example": "The diagram distinguishes the intrinsic muscles of the hand from the extrinsic muscles.",
+          "translation": "図は手の内在筋を外在筋と区別して示している。"
+        }
+      ],
+      "notes": [
+        "intrinsic muscles は「重要な筋肉」ではなく、対象部位への所属で区別される筋を指す。どの部位を基準に内在・外在を分けるかを確認する。一般的な身体内部というだけで、どの文脈でも intrinsic に分類されるわけではない。",
+        "extrinsic muscles はその部位の外部に起源を持つなどの対照を表す。この語彙上の区別だけで、疾患や治療法が決まるわけではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算】コンパイラー組込み関数・組込み操作",
+      "frequency": 2,
+      "register": [
+        "プログラミング・コンパイラー。intrinsic function という表現も使う。"
+      ],
+      "definition": "コンパイラーが特別に認識し、対応する処理として実装する関数や操作。特定の命令や最適化された処理に対応することがあるが、実装はコンパイラーや対象環境による。",
+      "patterns": [
+        "an intrinsic＝一つの組込み関数・操作",
+        "compiler intrinsics＝コンパイラーの組込み関数類",
+        "use an intrinsic＝組込み関数を使う。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an intrinsic",
+          "use": "組込み関数を通常の関数呼出しなどと区別する。",
+          "example": "The compiler recognizes this operation as an intrinsic.",
+          "translation": "コンパイラーはこの操作を組込み操作として認識する。"
+        },
+        {
+          "pattern": "compiler intrinsics",
+          "use": "特別に認識される関数群をいう。",
+          "example": "The library uses compiler intrinsics for some performance-critical operations.",
+          "translation": "そのライブラリは、性能が重要な一部の処理にコンパイラー組込み関数を使っている。"
+        }
+      ],
+      "notes": [
+        "この意味では名詞なので an intrinsic、several intrinsics と数えられる。一般形容詞の intrinsic を、そのまま「内在的な性質」という普通名詞にした用法ではない。intrinsic function は function が中心の名詞句で、intrinsic はそれを修飾している。",
+        "組込み処理が常に一つの機械命令だけになる、必ずインライン展開される、通常の関数呼出しになることがない、といった制約を語の意味だけから断定しない。具体的なコード生成は対象のコンパイラーの仕様に従う。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【形容詞】真性の",
+      "frequency": 2,
+      "register": [
+        "半導体・電子物性。"
+      ],
+      "definition": "半導体で、電荷を運ぶ粒子の濃度が、添加された不純物の量ではなく、材料それ自体の性質によって決まる状態に関すること。一般の「内在する」という訳だけでなく、半導体の専門訳「真性の」で理解する。",
+      "patterns": [
+        "an intrinsic semiconductor＝真性半導体",
+        "intrinsic silicon＝真性シリコン。対象材料の種類・状態を前から分類する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an intrinsic semiconductor",
+          "use": "不純物によるキャリアの寄与を中心としない半導体をいう。",
+          "example": "The lecture compared an intrinsic semiconductor with a doped semiconductor.",
+          "translation": "講義では真性半導体と不純物を添加した半導体を比較した。"
+        },
+        {
+          "pattern": "intrinsic silicon",
+          "use": "真性の状態にあるシリコンをいう。",
+          "example": "The model describes the electrical properties of intrinsic silicon.",
+          "translation": "そのモデルは真性シリコンの電気的性質を記述している。"
+        }
+      ],
+      "notes": [
+        "この専門義の extrinsic は、不純物の導入によるキャリアの影響を受ける不純物半導体の側を表す。単に半導体が装置の内側にあるか外側にあるかという位置の違いではない。また、intrinsic という語から、対象に不純物が一原子も存在しないという絶対条件を読み込まない。",
+        "ここでは種類・状態の分類なので、一般的な価値の大小を述べる語義1の intrinsic value と混ぜない。具体的な温度や濃度の数値は材料や測定条件の問題で、語の意味だけでは定まらない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}

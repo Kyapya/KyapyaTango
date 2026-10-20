@@ -1,0 +1,252 @@
+{
+  "word": "synthesize",
+  "slug": "synthesize",
+  "ipa": "米・英: /ˈsɪn.θə.saɪz/",
+  "lead": "複数の情報・考え・研究結果・様式などの関係を整理し、一つの全体としてまとめる。情報を単に並べたり、各資料を個別に短く要約したりするだけではなく、相互のつながりを踏まえた統合に焦点がある。",
+  "updated": "2026-10-20",
+  "notion_url": "https://app.notion.com/p/synthesize-3ff4faa9b77d81cdaf69fdf622062a6c",
+  "pronunciation": [
+    "3音節で、第1音節に強勢がある。第2音節は無声音 /θ/ と弱い母音 /ə/、第3音節は /saɪz/。語尾の /z/ を無声音 /s/ にしない。synthesized の -ed は /d/ で音節を増やさず、synthesizes の -es は /ɪz/ となり1音節増える。"
+  ],
+  "etymology": [
+    "synthesis「統合・合成」に動詞を作る -ize が付いた語。synthesis はギリシャ語の「一緒に置く」に関係し、syn-「一緒に」と「置く」を表す語の要素を持つ。同系語に synthetic「合成の」、synthesizer「シンセサイザー」がある。「同じ論文」という意味で現代英語の syn と thesis を組み合わせたものではない。"
+  ],
+  "formation": [
+    {
+      "term": "synthesis",
+      "description": "名詞。「統合・合成」。過程一般は不可算、一つの総合的な説明などは可算。複数形は syntheses。"
+    },
+    {
+      "term": "synthesizer",
+      "description": "可算名詞。特に電子的に音を合成する楽器・装置・ソフトウェアを指す。"
+    },
+    {
+      "term": "synthetic",
+      "description": "形容詞。「合成の・人工的な」。synthesize の活用形ではなく、独自の語義範囲を持つ関連形。"
+    },
+    {
+      "term": "synthesized",
+      "description": "過去形・過去分詞。synthesized speech「合成音声」のような名詞修飾も、動詞の意味から理解できる。"
+    },
+    {
+      "term": "",
+      "description": "英では synthesise という綴りもよく使う。synthesize も英綴りとして可能で、-ize を米国専用と決めつけない。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "「要素や材料を組み合わせ、まとまったものを作り出す」が共通核。情報の関係を整理して説明を作る場合、物質を作る場合、電子的に音声を生成する場合では、材料と手段が異なる。"
+    },
+    {
+      "type": "item",
+      "text": "情報を組み合わせた全体の生成 → 「統合する・総合的にまとめる」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "化学的過程による物質の生成 → 「物質を合成する」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "電子的過程による音や音声の生成 → 「音・音声を合成する」（語義3）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞】統合する・総合的にまとめる",
+      "frequency": 5,
+      "register": [
+        "学術・分析・ビジネス・芸術批評。やや硬い表現。頻度評点は学習上の目安で、コーパスの実測値ではない。"
+      ],
+      "definition": "複数の情報・考え・研究結果・様式などの関係を整理し、一つの全体としてまとめる。情報を単に並べたり、各資料を個別に短く要約したりするだけではなく、相互のつながりを踏まえた統合に焦点がある。",
+      "patterns": [
+        "synthesize 〈情報・考え〉＝材料を統合する",
+        "synthesize 〈材料〉 into 〈全体〉＝材料を全体へまとめる",
+        "synthesize 〈全体〉 from 〈複数の材料〉＝材料から全体を作る",
+        "synthesize 〈A〉 and 〈B〉＝AとBを統合する。目的語が材料の場合と、出来上がる全体の場合を区別する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "synthesize information",
+          "use": "情報を関係づけて総合する。",
+          "example": "The report synthesizes information from interviews, surveys, and financial records.",
+          "translation": "報告書はインタビュー、調査、財務記録から得た情報を統合している。"
+        },
+        {
+          "pattern": "synthesize 〈材料〉 into 〈全体〉",
+          "use": "統合前の材料と統合後の全体を示す。",
+          "example": "She synthesized the findings into a coherent account of the problem.",
+          "translation": "彼女は調査結果を統合し、その問題について筋道の通った説明にまとめた。"
+        },
+        {
+          "pattern": "synthesize 〈全体〉 from 〈材料〉",
+          "use": "完成する説明を目的語にして、情報源を示す。",
+          "example": "The historian synthesized a new account from several previously separate lines of research.",
+          "translation": "歴史家は、従来別々だった複数の研究の流れから新たな説明をまとめ上げた。"
+        },
+        {
+          "pattern": "synthesize 〈A〉 and 〈B〉",
+          "use": "異なる要素を組み合わせる。",
+          "example": "The artist synthesizes traditional techniques and digital methods.",
+          "translation": "その芸術家は伝統的な技法とデジタルの手法を融合させている。"
+        }
+      ],
+      "notes": [
+        "synthesize information into an explanation では information が材料、synthesize an explanation from information では explanation が生成物であり、どちらも自然な他動詞構文。目的語の役割を一律に「合成材料」と決めない。受動態でも The findings were synthesized into a report. は材料主語、An account was synthesized from the evidence. は生成物主語となる。",
+        "synthesize は summarize「要約する」と同一ではない。統合の過程で要約することはあるが、異なる資料どうしの一致・相違・関係をどうまとめるかが重要になる。すべての情報源が同意していることや、必ず新発見があることまでは意味しない。また、時刻やデータを同期させる synchronize とは別語である。",
+        "目的語を明示せず「総合する営み」をいう自動詞的な使用も辞書にあるが、学習上は何を統合するかを示す他動詞構文を基本とする。synthesize someone to do という使役の基本構文はない。"
+      ],
+      "synonyms": [
+        {
+          "word": "combine",
+          "definition": "複数の要素を一緒にする。",
+          "frequency": 8,
+          "difference": "最も広い対応語。synthesize は要素の関係を整理して一つのまとまりを作ることを強調する。",
+          "example": "The proposal combines ideas from both teams.",
+          "translation": "その提案は両チームの考えを組み合わせている。"
+        },
+        {
+          "word": "integrate",
+          "definition": "部分を一つの全体の中に組み込む。",
+          "frequency": 7,
+          "difference": "既存の仕組みに組み込む場合にも使う。synthesize は材料から総合的な全体を作るという見方をする。",
+          "example": "We integrated the new findings into the training program.",
+          "translation": "私たちは新しい知見を研修プログラムに取り入れた。"
+        },
+        {
+          "word": "consolidate",
+          "definition": "散らばったものをまとめて統一・強化する。",
+          "frequency": 6,
+          "difference": "整理や集約にも使うが、情報の意味関係を総合するとは限らない。",
+          "example": "The company consolidated the records in a single database.",
+          "translation": "会社は記録を一つのデータベースに集約した。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "analyze",
+          "definition": "全体を要素や関係に分けて詳しく調べる。",
+          "frequency": 8,
+          "difference": "部分から全体へまとめる統合と、全体を分けて調べる分析という概念上の対照。実際の研究では両方を行える。",
+          "example": "First analyze the individual studies, then consider how their findings fit together.",
+          "translation": "まず個々の研究を分析し、その後で知見どうしがどうつながるかを考えてください。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【動詞・他動詞】物質を合成する",
+      "frequency": 5,
+      "register": [
+        "化学・生物学・医学・材料科学。"
+      ],
+      "definition": "化学的・生物学的な過程によって物質を作り出す。研究者が実験室で行う場合だけでなく、生物や細胞が体内で物質を作る場合にも使う。",
+      "patterns": [
+        "synthesize 〈物質〉＝物質を合成する",
+        "synthesize 〈生成物〉 from 〈原料〉＝原料から生成物を合成する",
+        "〈生成物〉 + be synthesized by 〈行為者〉＝行為者によって合成される",
+        "〈生成物〉 + be synthesized in 〈場所〉＝その場所で合成される。"
+      ],
+      "collocations": [
+        {
+          "pattern": "synthesize a compound",
+          "use": "化合物を化学的な過程で作る。",
+          "example": "The laboratory synthesized the compound in several stages.",
+          "translation": "研究所はその化合物を数段階で合成した。"
+        },
+        {
+          "pattern": "synthesize 〈生成物〉 from 〈原料〉",
+          "use": "原料と作られる物質の関係を示す。",
+          "example": "The team synthesized the polymer from commercially available starting materials.",
+          "translation": "チームは市販の原料からその高分子を合成した。"
+        },
+        {
+          "pattern": "synthesize proteins",
+          "use": "生物の細胞がタンパク質を作ることをいう。",
+          "example": "Cells synthesize proteins using information encoded in genes.",
+          "translation": "細胞は遺伝子に記された情報を使ってタンパク質を合成する。"
+        },
+        {
+          "pattern": "be synthesized in 〈場所〉",
+          "use": "合成が行われる場所を示す。",
+          "example": "The hormone is synthesized in specialized cells.",
+          "translation": "そのホルモンは特定の機能に特化した細胞で合成される。"
+        }
+      ],
+      "notes": [
+        "この語義では目的語は作られる物質が基本。from は出発原料、by は行為者など、in は場所を示す。synthesize だけを根拠に「人工的に製造する」と限定しない。the body synthesizes ... のような自然の生体内反応も含む。",
+        "extract「抽出する」は既存の物質から目的物を取り出すこと、synthesize は化学的な過程で作り出すことが中心。単に二つの液体を物理的に混ぜることとも同一ではない。また、あらゆる合成が二つの小分子をそのまま接合する一反応であるかのように理解しない。synthetic の「人工の」という形容詞義を、動詞の全用例へ機械的に当てはめない。"
+      ],
+      "synonyms": [
+        {
+          "word": "produce",
+          "definition": "物質などを生み出す。",
+          "frequency": 9,
+          "difference": "方法を限定しない広い語。synthesize は化学的・生物学的な生成の過程に焦点を置く。",
+          "example": "The cells produce a protective substance.",
+          "translation": "細胞は保護作用のある物質を作り出す。"
+        },
+        {
+          "word": "form",
+          "definition": "物質や構造を作る。",
+          "frequency": 8,
+          "difference": "生成・形成一般で、研究者などによる合成操作を必ずしも示さない。",
+          "example": "The reaction forms a stable compound.",
+          "translation": "その反応は安定した化合物を形成する。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞・他動詞】音・音声を合成する",
+      "frequency": 4,
+      "register": [
+        "音楽制作・音声技術・コンピューター。"
+      ],
+      "definition": "電子回路やソフトウェアによって音・音楽・話し声などを生成する。実際に鳴った音を録音することとは区別し、既存の音に似せる場合も新しい音を作る場合もある。",
+      "patterns": [
+        "synthesize sound＝音を合成する",
+        "synthesize speech＝話し声を合成する",
+        "synthesize 〈音声〉 from 〈入力情報〉＝入力をもとに音声を生成する",
+        "〈音・音声〉 + be synthesized＝合成される。"
+      ],
+      "collocations": [
+        {
+          "pattern": "synthesize sound",
+          "use": "電子的に音を作り出す。",
+          "example": "The instrument can synthesize sounds that no acoustic instrument produces.",
+          "translation": "その楽器は、生楽器では出せない音を合成できる。"
+        },
+        {
+          "pattern": "synthesize speech from text",
+          "use": "文字情報を話し声に変える。",
+          "example": "The software synthesizes speech from written text.",
+          "translation": "ソフトウェアは書かれたテキストから音声を合成する。"
+        },
+        {
+          "pattern": "be synthesized electronically",
+          "use": "音の生成手段を述べる。",
+          "example": "Most of the sounds in the soundtrack were synthesized electronically.",
+          "translation": "そのサウンドトラックの音の大半は、電子的に合成されたものだった。"
+        }
+      ],
+      "notes": [
+        "synthesized speech は「合成音声」であり、synchronized speech「タイミングを合わせた発話」とは違う。record はすでにある音を記録すること、synthesize は音を生成することに重点がある。ただし実際のシステムが録音素材を利用する場合もあり、両方の技術が一つの製品で使われることはある。"
+      ],
+      "synonyms": [
+        {
+          "word": "generate",
+          "definition": "音や信号などを発生させる。",
+          "frequency": 7,
+          "difference": "発生一般を表す広い語。synthesize は音声合成などの生成方式を意識させる。",
+          "example": "The circuit generates a steady tone.",
+          "translation": "その回路は一定の音を発生させる。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
