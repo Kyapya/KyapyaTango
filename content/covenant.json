@@ -1,0 +1,410 @@
+{
+  "word": "covenant",
+  "slug": "covenant",
+  "ipa": "米・英: /ˈkʌvənənt/",
+  "lead": "当事者が守るべきことを厳粛に約束する、正式で重みのある合意。日常の軽い約束より強い語感を持つ。条約の名称や共同体の誓約にも使う。",
+  "updated": "2026-10-20",
+  "notion_url": "https://app.notion.com/p/covenant-3ff4faa9b77d81d184a9f231e128d724",
+  "pronunciation": [
+    "名詞・動詞とも3音節で、第1音節に主強勢。第1音節の母音は /ʌ/ で、cover の初めと同じ系列。covenanted の -ed は /ɪd/ で1音節増える。covenantal では主強勢が -nan- に移る。"
+  ],
+  "etymology": [
+    "古フランス語の convenir「合意する」に関係する形に由来し、さらにラテン語 convenire「共に来る・一致する」にさかのぼる。convene「会合を開く」、convention「集会・慣習・協定」と同系列。現代の covenant は単なる集合ではなく、厳粛な合意や約束を表す。"
+  ],
+  "formation": [
+    {
+      "term": "covenants",
+      "description": "名詞の複数形、または動詞の三人称単数現在。"
+    },
+    {
+      "term": "covenanted／covenanting",
+      "description": "動詞の過去形・過去分詞／現在分詞。"
+    },
+    {
+      "term": "covenantal",
+      "description": "契約・盟約に関する。特に神学・宗教の文章で使う。"
+    },
+    {
+      "term": "covenantor／covenantee",
+      "description": "約束する側／約束を受ける側。契約法上の専門語で、一般には party making the covenant などと説明する。"
+    },
+    {
+      "term": "Covenanter",
+      "description": "スコットランド史の宗教的誓約の支持者。大文字で始まる歴史上の呼称を一般の契約当事者と混同しない。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "当事者を結び、果たすべき事柄を定める正式・厳粛な約束。語義6は歴史的残存義で、約束そのものではなく旧来の訴訟類型を指すため、個別に参照する。"
+    },
+    {
+      "type": "item",
+      "text": "正式な約束としての、当事者間の合意 → 「盟約・正式な協定」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "正式な約束としての、契約中の義務 → 「契約上の約束・誓約条項」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "正式な約束としての、神と人の関係 → 「神と人との契約」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "正式な約束としての、内容を誓う行為 → 「誓約する・契約で約束する」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "正式な約束としての、相手との締結 → 「盟約を結ぶ」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "正式な約束としての、定期的な金銭支払い → 「定期金銭支払いの約束・契約」（語義7）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞：可算】盟約・正式な協定",
+      "frequency": 4,
+      "register": [
+        "フォーマル・政治・国際関係・共同体。"
+      ],
+      "definition": "当事者が守るべきことを厳粛に約束する、正式で重みのある合意。日常の軽い約束より強い語感を持つ。条約の名称や共同体の誓約にも使う。",
+      "patterns": [
+        "a covenant between 〈当事者〉＝当事者間の盟約",
+        "a covenant with someone＝相手との盟約",
+        "a covenant to do＝～する約束",
+        "enter into/keep/break a covenant＝盟約を結ぶ・守る・破る。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a covenant between 〈当事者〉",
+          "use": "約束の当事者を示す。",
+          "example": "The document records a covenant between the two communities.",
+          "translation": "その文書には二つの共同体の盟約が記録されている。"
+        },
+        {
+          "pattern": "enter into a covenant",
+          "use": "正式な約束の成立を述べる。",
+          "example": "The members entered into a covenant to support one another.",
+          "translation": "メンバーたちは互いに支え合うことを誓約した。"
+        },
+        {
+          "pattern": "keep a covenant",
+          "use": "約束を履行することを述べる。",
+          "example": "Both communities pledged to keep the covenant.",
+          "translation": "両共同体は盟約を守ると誓った。"
+        },
+        {
+          "pattern": "an international covenant on 〈主題〉",
+          "use": "国際的な規約の分野を示す。",
+          "example": "The course examines an international covenant on human rights.",
+          "translation": "その講義では人権に関する国際規約を検討する。"
+        }
+      ],
+      "notes": [
+        "covenant は agreement より厳粛・格式的。文脈によって道徳的・宗教的な拘束であり、語だけで法的強制力を保証するわけではない。国際文書の正式名称では Covenant と大文字にするが、一般の名詞は小文字。頻度点は厳密なコーパス統計ではなく、分野とレジスターを考慮した目安。"
+      ],
+      "synonyms": [
+        {
+          "word": "agreement",
+          "definition": "当事者が同意して取り決めたこと。",
+          "frequency": 9,
+          "difference": "最も広く、日常の取り決めにも使い、厳粛さを必須としない。",
+          "example": "We reached an agreement on the schedule.",
+          "translation": "私たちは日程について合意した。"
+        },
+        {
+          "word": "pact",
+          "definition": "複数の当事者による協定・約束。",
+          "frequency": 5,
+          "difference": "国家・組織間にも個人的な固い約束にも使うが、宗教的意味は必須でない。",
+          "example": "The countries signed a non-aggression pact.",
+          "translation": "両国は不可侵条約に調印した。"
+        },
+        {
+          "word": "treaty",
+          "definition": "国家などの間の正式な国際的合意。",
+          "frequency": 6,
+          "difference": "主に国際法上の文書を指し、一般の共同体の誓約には広げない。",
+          "example": "The two states negotiated a peace treaty.",
+          "translation": "両国は講和条約の交渉を行った。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞：可算】契約上の約束・誓約条項",
+      "frequency": 4,
+      "register": [
+        "契約法・不動産・金融。"
+      ],
+      "definition": "契約・証書などの中で、一定のことをする・しないと約束したり、権利の状態などを保証したりする条項。土地利用の制限、建物維持、融資契約上の財務条件などに使う。文書全体を指す場合もあるが、契約内の個別の約束を指すことが多い。",
+      "patterns": [
+        "a covenant to do/not to do＝行為・不作為の約束",
+        "a covenant of title＝権原に関する保証",
+        "a restrictive covenant＝行為を制限する誓約条項",
+        "a financial covenant＝財務上の誓約条項",
+        "breach/comply with a covenant＝条項に違反する・従う",
+        "a covenant running with the land＝土地の承継とともに効力が及ぶ約束。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a covenant to do",
+          "use": "果たすべき行為を示す。",
+          "example": "The lease includes a covenant to maintain the shared entrance.",
+          "translation": "賃貸借契約には共用玄関を維持管理する義務が含まれている。"
+        },
+        {
+          "pattern": "a restrictive covenant",
+          "use": "土地利用の制限を示す。",
+          "example": "The deed contains a restrictive covenant prohibiting commercial buildings on the plot.",
+          "translation": "その証書には、当該区画に商業用建物を建てることを禁じる制限条項がある。"
+        },
+        {
+          "pattern": "a financial covenant",
+          "use": "融資条件の財務上の義務を指す。",
+          "example": "The loan agreement includes a financial covenant requiring a minimum level of cash reserves.",
+          "translation": "その融資契約には、一定額以上の現金準備を維持する財務制限条項が含まれている。"
+        },
+        {
+          "pattern": "breach a covenant",
+          "use": "約束に違反することを述べる。",
+          "example": "The borrower breached a covenant by taking on additional debt without consent.",
+          "translation": "借り手は同意なしに追加の債務を負い、誓約条項に違反した。"
+        },
+        {
+          "pattern": "comply with a covenant",
+          "use": "義務の遵守を述べる。",
+          "example": "The tenant supplied records showing that it had complied with the repair covenant.",
+          "translation": "借り手は、修繕義務を守っていたことを示す記録を提出した。"
+        },
+        {
+          "pattern": "a covenant running with the land",
+          "use": "土地承継との関係を述べる。",
+          "example": "The judgment considered whether the maintenance obligation was a covenant running with the land.",
+          "translation": "その判決は、維持管理義務が土地の承継とともに効力を持つ約束に当たるかを検討した。"
+        },
+        {
+          "pattern": "a covenant of title",
+          "use": "権原に関する保証を述べる。",
+          "example": "The deed includes a covenant of title, not merely a promise to carry out repairs.",
+          "translation": "その証書には、単に修繕を行うという約束ではなく、権原に関する保証が含まれている。"
+        }
+      ],
+      "notes": [
+        "positive/affirmative covenant は何かをする義務、negative/restrictive covenant はしない義務を述べる。financial covenant の違反が直ちにすべての契約で期限の利益を失わせるとは限らず、条項、猶予、権利放棄などによる。土地の covenant も、すべてが後の所有者に当然に及ぶわけではない。warranty は事実・品質などの保証、condition は条件を指すが、covenant にも権原などを保証する用法があり、保証か行為の約束かだけで排他的に区別できない。法的分類は適用法と文言で判断される。deed of covenant は証書による誓約で、英国の定期的な金銭支払いを約束する用法にも関係する（語義7）。名称だけから現在の税効果を推測しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "undertaking",
+          "definition": "責任を持って行うという正式な約束。",
+          "frequency": 5,
+          "difference": "正式な約束という意味は近いが、土地に関する特殊な効力までは表さない。",
+          "example": "The seller gave an undertaking to remove the waste.",
+          "translation": "売主は廃棄物を撤去することを正式に約束した。"
+        },
+        {
+          "word": "obligation",
+          "definition": "契約・法などによって負う義務。",
+          "frequency": 7,
+          "difference": "約束の条項より、負っている義務自体に焦点を置く。",
+          "example": "The contract creates an obligation to maintain the equipment.",
+          "translation": "その契約によって、設備を維持管理する義務が生じる。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞：可算】神と人との契約",
+      "frequency": 4,
+      "register": [
+        "宗教・神学・聖書。"
+      ],
+      "definition": "聖書・ユダヤ教・キリスト教などで、神と人・共同体との関係を定める約束。日常の売買契約と同じ意味には扱わず、具体的な内容は宗教的文脈による。",
+      "patterns": [
+        "God’s covenant with 〈人・共同体〉＝神とその相手との契約",
+        "the covenant between God and 〈人〉＝神と人との契約",
+        "the new covenant＝新しい契約",
+        "the Ark of the Covenant＝契約の箱。"
+      ],
+      "collocations": [
+        {
+          "pattern": "God’s covenant with 〈人〉",
+          "use": "聖書中の契約関係を述べる。",
+          "example": "The sermon explored God’s covenant with Abraham.",
+          "translation": "その説教は、神とアブラハムとの契約を取り上げた。"
+        },
+        {
+          "pattern": "the new covenant",
+          "use": "キリスト教の神学用語を指す。",
+          "example": "The chapter discusses the meaning of the new covenant in Christian theology.",
+          "translation": "その章は、キリスト教神学における新しい契約の意味を論じている。"
+        },
+        {
+          "pattern": "the Ark of the Covenant",
+          "use": "固定した聖書上の名称を理解する。",
+          "example": "The museum display explains how the Ark of the Covenant is described in the Bible.",
+          "translation": "その博物館展示は、契約の箱が聖書でどのように記述されているかを説明している。"
+        }
+      ],
+      "notes": [
+        "聖書翻訳では covenant を「契約」と訳すが、常に対等な二当事者が条件を交渉した契約という意味ではない。old covenant、new covenant の解釈は神学的文脈による。National Covenant、Solemn League and Covenant はスコットランド史に関係する固有の誓約名で、一般語義と区別する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞：他動詞】誓約する・契約で約束する",
+      "frequency": 3,
+      "register": [
+        "フォーマル・法律・宗教。"
+      ],
+      "definition": "契約や厳粛な約束として、特定のことをする・しない、または特定の内容が成り立つと約束する。約束の内容を to不定詞、that節、名詞で表す。",
+      "patterns": [
+        "covenant to do＝～すると誓約する",
+        "covenant not to do＝～しないと誓約する",
+        "covenant that 〈節〉＝～であると契約で約束する",
+        "covenant 〈寄付金など〉 to 〈団体〉＝金銭などの提供を正式に約束する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "covenant to do",
+          "use": "将来の履行を約束する。",
+          "example": "The tenant covenants to keep the premises in good repair.",
+          "translation": "借り手は物件を良好な修繕状態に保つことを約束する。"
+        },
+        {
+          "pattern": "covenant not to do",
+          "use": "行為をしない義務を定める。",
+          "example": "The owner covenanted not to build above the agreed height.",
+          "translation": "所有者は合意した高さを超える建物を建てないと誓約した。"
+        },
+        {
+          "pattern": "covenant that 〈節〉",
+          "use": "内容を節で明示する。",
+          "example": "The parties covenant that they will keep the records confidential.",
+          "translation": "当事者たちは、記録の秘密を守ると約束する。"
+        },
+        {
+          "pattern": "covenant 〈金額〉 to 〈団体〉",
+          "use": "改まった寄付の約束を述べる。",
+          "example": "She covenanted an annual sum to the charity.",
+          "translation": "彼女はその慈善団体に毎年一定額を寄付することを正式に約束した。"
+        }
+      ],
+      "notes": [
+        "名詞と同じ位置に主強勢を置く。covenant to do の to は不定詞、covenant a sum to a charity の to は相手を示す前置詞。日常的な「約束する」には promise が普通。金額を目的語にする用法は特に英の正式・歴史的な寄付文脈に見られ、現在の税控除を意味しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "undertake",
+          "definition": "責任を持って実行すると約束する。",
+          "frequency": 6,
+          "difference": "契約以外の正式な約束にも使い、undertake to do が基本。",
+          "example": "The supplier undertook to replace the faulty units.",
+          "translation": "供給者は不良品を交換すると約束した。"
+        },
+        {
+          "word": "promise",
+          "definition": "あることをすると相手に約束する。",
+          "frequency": 9,
+          "difference": "日常から正式な場面まで広く、法的な契約性を必須としない。",
+          "example": "He promised to send the documents by Friday.",
+          "translation": "彼は金曜日までに書類を送ると約束した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【動詞：自動詞】盟約を結ぶ",
+      "frequency": 2,
+      "register": [
+        "フォーマル・宗教・歴史・法律。"
+      ],
+      "definition": "人や集団が、相手と正式・厳粛な約束を取り交わす。約束する内容よりも、当事者同士が盟約関係に入ることに焦点がある。",
+      "patterns": [
+        "covenant with someone＝相手と盟約を結ぶ",
+        "〈当事者〉 + covenant together＝共に誓約する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "covenant with someone",
+          "use": "約束の相手を示す。",
+          "example": "The settlers covenanted with their neighbours to maintain the common well.",
+          "translation": "入植者たちは共同井戸を維持管理するため、隣人たちと盟約を結んだ。"
+        },
+        {
+          "pattern": "covenant together",
+          "use": "共同体として誓い合うことを述べる。",
+          "example": "The congregation covenanted together to care for its vulnerable members.",
+          "translation": "その信徒共同体は、弱い立場にある仲間を支えると共に誓った。"
+        }
+      ],
+      "notes": [
+        "with someone が盟約の相手を表す。語義4の covenant to do は行為内容を補語として示す形で、with someone を直接目的語とみなさない。受動形を作るより、The parties entered into a covenant. と名詞で述べることもできる。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【名詞：訴訟形式名】契約違反に対する旧来の訴訟",
+      "frequency": 1,
+      "register": [
+        "法制史・古い判例。"
+      ],
+      "definition": "英米法の歴史で、特に捺印証書による契約の違反について損害賠償を求める、旧来の訴訟形式。現代の一般的な契約や約束を指す用法とは区別する。",
+      "patterns": [
+        "an action of covenant＝旧来の契約違反訴訟",
+        "sue in covenant＝その訴訟形式で訴える。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an action of covenant",
+          "use": "歴史的な訴訟類型を指す。",
+          "example": "The legal historian describes an action of covenant brought for breach of a sealed agreement.",
+          "translation": "その法制史家は、捺印証書による契約の違反を理由に起こされた旧来の契約違反訴訟を説明している。"
+        }
+      ],
+      "notes": [
+        "ここでの seal は証書に付す法的な形式を指し、文書を開けられないよう封じるという意味ではない。action of covenant、sue in covenant では訴訟形式名の covenant に冠詞を付けない。この歴史的な分類を、現代のあらゆる契約紛争に適用しない。現在の契約違反訴訟を平易に述べるなら an action for breach of contract などを使う。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【名詞：可算】定期金銭支払いの約束・契約",
+      "frequency": 2,
+      "register": [
+        "主に英国。寄付・正式な支払約束の説明。"
+      ],
+      "definition": "一定の期間、金銭を定期的に支払うという正式な約束・契約。慈善団体などへの継続的な寄付の文脈で使われる。支払いの約束を指し、実際に支払った金銭そのものとは区別する。",
+      "patterns": [
+        "a covenant to a charity＝慈善団体への定期的な支払約束",
+        "a deed of covenant＝その約束を定める証書。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a covenant to a charity",
+          "use": "一定期間の定期払いを約束する名詞用法を示す。",
+          "example": "Her covenant to the charity provided for annual payments over five years.",
+          "translation": "彼女とその慈善団体との支払契約では、5年間にわたる毎年の支払いが定められていた。"
+        }
+      ],
+      "notes": [
+        "ここでの to は支払先を示す前置詞で、a covenant to donate の to不定詞とは異なる。deed of covenant には他の誓約内容を記した証書もあり、常に寄付専用とは限らない。この語の使用だけから、現在の税控除・免税の適用や必要期間を判断しない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}

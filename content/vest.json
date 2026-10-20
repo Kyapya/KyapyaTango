@@ -1,0 +1,644 @@
+{
+  "word": "vest",
+  "slug": "vest",
+  "ipa": "米・英: /vest/",
+  "lead": "上半身に着る袖のない衣服。米ではスーツの下に着るチョッキを指し、英ではその衣服を通常 waistcoat と呼ぶ。防寒・救命・防護などの袖なしの衣服にも使う。",
+  "updated": "2026-10-20",
+  "notion_url": "https://app.notion.com/p/vest-3ff4faa9b77d81e9af8efc1ed58e8662",
+  "pronunciation": [
+    "名詞・動詞とも1音節。語頭は下唇を上の歯に近づける /v/ で、best の /b/ と区別する。vests は /vests/、vested は /ˈvestɪd/、vesting は /ˈvestɪŋ/。"
+  ],
+  "etymology": [
+    "名詞はフランス語 veste、イタリア語の対応語を経てラテン語 vestis「衣服」にさかのぼる。動詞はラテン語 vestire「衣服を着せる」に由来するフランス語系の形を経た語。vestment「祭服」、invest「授ける・投資する」も同じ衣服の語根に関係する。現代では、衣服の系列と「権利・権限を帰属させる」系列を区別し、衣服の比喩だけから法律上の効果を推測しない。"
+  ],
+  "formation": [
+    {
+      "term": "vests／vested／vesting",
+      "description": "動詞の三人称単数現在／過去形・過去分詞／現在分詞。vests は名詞の複数形でもある。"
+    },
+    {
+      "term": "vesting",
+      "description": "権利の確定・帰属を表す名詞。a vesting schedule は権利が確定する日程・条件を定めたもの。"
+    },
+    {
+      "term": "vested／unvested",
+      "description": "権利が確定した／未確定の。年金・株式報酬などに使う。"
+    },
+    {
+      "term": "vested interest",
+      "description": "法律では確定した権利・持分、一般には当事者の利害・既得権益。語義6・7で区別する。"
+    },
+    {
+      "term": "vestment",
+      "description": "特に儀式で聖職者が着る祭服。普通のベストや下着とは違う。"
+    },
+    {
+      "term": "vestee",
+      "description": "婦人服の胸元・襟ぐりに付ける布・飾り部分。衣服の専門語で、vest の語義12と重なる。"
+    }
+  ],
+  "core": [],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞：可算】袖なしの上着・ベスト",
+      "frequency": 7,
+      "register": [
+        "一般・衣服。チョッキの意味は特に米。"
+      ],
+      "definition": "上半身に着る袖のない衣服。米ではスーツの下に着るチョッキを指し、英ではその衣服を通常 waistcoat と呼ぶ。防寒・救命・防護などの袖なしの衣服にも使う。",
+      "patterns": [
+        "wear a vest＝ベストを着る",
+        "a vest over 〈衣服〉＝その上に着るベスト",
+        "a life vest＝救命胴衣",
+        "a bulletproof vest＝防弾ベスト",
+        "a high-visibility vest＝高視認性ベスト。"
+      ],
+      "collocations": [
+        {
+          "pattern": "wear a vest",
+          "use": "米のスーツの組合せを述べる。",
+          "example": "He wore a matching vest under his suit jacket.",
+          "translation": "彼はスーツの上着の下に、そろいのベストを着ていた。"
+        },
+        {
+          "pattern": "a down vest",
+          "use": "防寒衣料を指す。",
+          "example": "She wore a down vest over her sweater on the chilly morning.",
+          "translation": "肌寒い朝、彼女はセーターの上にダウンベストを着ていた。"
+        },
+        {
+          "pattern": "a life vest",
+          "use": "水上で使う衣服型の救命具を指す。",
+          "example": "Every passenger was given a life vest before boarding the boat.",
+          "translation": "乗船前に乗客全員に救命胴衣が渡された。"
+        },
+        {
+          "pattern": "a bulletproof vest",
+          "use": "防護衣料を指す。",
+          "example": "The officer put on a bulletproof vest before leaving the station.",
+          "translation": "警察官は署を出る前に防弾ベストを着用した。"
+        },
+        {
+          "pattern": "a high-visibility vest",
+          "use": "作業現場の視認性を高める衣料を指す。",
+          "example": "Workers near the road must wear a high-visibility vest.",
+          "translation": "道路の近くで働く作業員は、高視認性ベストを着なければならない。"
+        }
+      ],
+      "notes": [
+        "米の a vest と英の a vest は、文脈なしでは同じ衣服を指すとは限らない。英の下着義は語義2。safety vest、life vest のような複合語は英でも使う。bulletproof は衣服の名称で、あらゆる弾丸への完全な防御を語だけで保証するわけではない。頻度点は学習上の目安で、厳密な出現統計ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "waistcoat",
+          "definition": "シャツの上、上着の下などに着る袖なしの衣服。",
+          "frequency": 5,
+          "difference": "主に英で、米のスーツ用 vest に対応する。救命胴衣の同義語ではない。",
+          "example": "His waistcoat matched his trousers.",
+          "translation": "彼のチョッキはズボンとそろいだった。"
+        },
+        {
+          "word": "gilet",
+          "definition": "袖なしの上着、特に防寒用のもの。",
+          "frequency": 3,
+          "difference": "特に英の衣料表現。中綿入りなどの外衣を指しやすい。",
+          "example": "She packed a padded gilet for the trip.",
+          "translation": "彼女は旅行用に中綿入りの袖なし上着を荷物に入れた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞：可算】肌着・袖なしの運動用シャツ",
+      "frequency": 6,
+      "register": [
+        "主に英・衣服・スポーツ。"
+      ],
+      "definition": "英で、シャツなどの下に着る上半身の肌着。典型的には袖なしだが、保温用の袖付き肌着にも使う。running vest のように袖なしの運動用シャツも指す。",
+      "patterns": [
+        "a vest under 〈衣服〉＝その下に着る肌着",
+        "a thermal vest＝保温用肌着",
+        "a running vest＝袖なしのランニングシャツ。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a vest under 〈衣服〉",
+          "use": "英の下着義を明示する。",
+          "example": "He wore a cotton vest under his shirt to keep warm.",
+          "translation": "彼は暖かくするため、シャツの下に綿の肌着を着ていた。"
+        },
+        {
+          "pattern": "a thermal vest",
+          "use": "保温用肌着を指す。",
+          "example": "She bought a long-sleeved thermal vest for winter.",
+          "translation": "彼女は冬用に長袖の保温肌着を買った。"
+        },
+        {
+          "pattern": "a running vest",
+          "use": "英の運動着の名称を示す。",
+          "example": "The club’s runners wore blue running vests with white numbers.",
+          "translation": "クラブの走者たちは、白い番号が付いた青いランニングシャツを着ていた。"
+        }
+      ],
+      "notes": [
+        "米では肌着なら undershirt が普通。tank top は米で袖なしの上半身の服を指すが、英では袖なしのニット衣料を指すこともあるため、地域を無視して一対一に置き換えない。running vest は現代の商品名では給水具を収納する衣服型装備も指すので、何を着用しているかで判断する。"
+      ],
+      "synonyms": [
+        {
+          "word": "undershirt",
+          "definition": "シャツなどの下に着る肌着。",
+          "frequency": 5,
+          "difference": "特に米で英の下着義の vest に対応し、袖の有無は限定しない。",
+          "example": "He changed into a clean undershirt.",
+          "translation": "彼は清潔な肌着に着替えた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞：他動詞】権限・財産を人に帰属させる",
+      "frequency": 4,
+      "register": [
+        "法律・行政・規程・儀式的な宣言。"
+      ],
+      "definition": "権限・権利・財産を特定の人や機関のものとして与える、またはその支配下に置く。権限・財産が直接目的語で、帰属先を in で示す。",
+      "patterns": [
+        "vest 〈権限・財産〉 in someone＝それを人に帰属させる",
+        "〈権限・財産〉 + be vested in someone＝人に与えられている",
+        "the power vested in me＝私に与えられた権限。"
+      ],
+      "collocations": [
+        {
+          "pattern": "vest authority in someone",
+          "use": "権限の帰属を定める。",
+          "example": "The charter vests final authority in the board.",
+          "translation": "定款は最終決定権を理事会に与えている。"
+        },
+        {
+          "pattern": "vest property in someone",
+          "use": "財産の帰属先を示す。",
+          "example": "The deed vests the property in the trustees.",
+          "translation": "その証書は財産を受託者たちに帰属させる。"
+        },
+        {
+          "pattern": "be vested in someone",
+          "use": "権限を主語にする受動態。",
+          "example": "Under these rules, the power to appoint a director is vested in the members.",
+          "translation": "この規則では、理事を任命する権限は会員に与えられている。"
+        },
+        {
+          "pattern": "the power vested in me",
+          "use": "与えられた権限に基づく宣言を表す。",
+          "example": "By the power vested in me, I declare the meeting open.",
+          "translation": "私に与えられた権限に基づき、開会を宣言します。"
+        }
+      ],
+      "notes": [
+        "vest authority in the board と vest the board with authority（語義4）は、目的語と前置詞の役割が逆。the authority vested in the board の vested は過去分詞による後置修飾。権利の帰属が確定していても、現在すぐに使用・受領できるとは限らない。制度上の要件は文書と適用法による。"
+      ],
+      "synonyms": [
+        {
+          "word": "confer",
+          "definition": "権限・地位・資格などを授ける。",
+          "frequency": 5,
+          "difference": "confer authority on someone のように通常 on を用い、一般の財産帰属全般には使わない。",
+          "example": "The appointment confers special responsibilities on the chair.",
+          "translation": "その任命によって議長には特別の責任が与えられる。"
+        },
+        {
+          "word": "assign",
+          "definition": "権利などを特定の者に割り当てる・移す。",
+          "frequency": 5,
+          "difference": "権利移転にも使うが、法律上の行為・効果が vest と常に同じとは限らない。",
+          "example": "The author assigned the copyright to the publisher.",
+          "translation": "著者は著作権を出版社に譲渡した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞：他動詞】人に権限・権利を与える",
+      "frequency": 4,
+      "register": [
+        "法律・行政・フォーマル。"
+      ],
+      "definition": "人や機関を、一定の権限・権利を持つ地位に置く。人・機関が直接目的語で、付与する権限を with で示す。",
+      "patterns": [
+        "vest someone with 〈権限〉＝人に権限を与える",
+        "be vested with 〈権限〉＝権限を与えられている。"
+      ],
+      "collocations": [
+        {
+          "pattern": "vest someone with authority",
+          "use": "権限を受ける者を目的語にする。",
+          "example": "The statute vests the commission with authority to investigate complaints.",
+          "translation": "その法律は委員会に苦情を調査する権限を与えている。"
+        },
+        {
+          "pattern": "be vested with 〈権限〉",
+          "use": "権限を持つ機関を主語にする。",
+          "example": "The committee is vested with the power to approve the budget.",
+          "translation": "委員会には予算を承認する権限が与えられている。"
+        }
+      ],
+      "notes": [
+        "vest the commission with authority と authority is vested in the commission を対応させる。vest someone in authority をこの能動形の一般的な置換として覚えない。with と in の入替えでは、何を直接目的語・主語にするかも変わる。"
+      ],
+      "synonyms": [
+        {
+          "word": "empower",
+          "definition": "人・機関に行動する権限を与える。",
+          "frequency": 6,
+          "difference": "empower someone to do の形が中心で、実行できる行為に焦点を置く。",
+          "example": "The law empowers inspectors to enter the premises.",
+          "translation": "その法律は検査官に施設へ立ち入る権限を与えている。"
+        },
+        {
+          "word": "authorize",
+          "definition": "行為を正式に許可する。",
+          "frequency": 7,
+          "difference": "個別行為の許可にも使え、恒常的な権限・地位の付与とは限らない。",
+          "example": "The manager authorized her to sign the order.",
+          "translation": "管理者は彼女に注文書への署名を許可した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【動詞：自動詞】権利が帰属する・権利が確定する",
+      "frequency": 4,
+      "register": [
+        "法律・年金・従業員報酬。"
+      ],
+      "definition": "権利・財産などが特定の者に帰属する、または所定の条件を満たして権利として確定する。年金・株式報酬では権利の確定を表し、人を主語にして「権利を得る」ともいう。",
+      "patterns": [
+        "〈権利・財産〉 + vest in someone＝人に帰属する",
+        "〈株式・権利〉 + vest after 〈期間〉＝期間経過後に権利が確定する",
+        "〈人〉 + vest in 〈給付〉＝給付の権利を得る",
+        "〈権利〉 + vest immediately/gradually＝直ちに・段階的に確定する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "〈権利〉 + vest in someone",
+          "use": "権利の帰属先を示す。",
+          "example": "Under the agreement, title to the equipment vests in the buyer on payment.",
+          "translation": "その契約では、支払い時に設備の所有権が買主に帰属する。"
+        },
+        {
+          "pattern": "〈株式〉 + vest after 〈期間〉",
+          "use": "個別の報酬制度の日程を述べる。",
+          "example": "Under this award, the restricted shares vest after three years of service.",
+          "translation": "この付与条件では、譲渡制限付き株式の権利は3年間勤務した後に確定する。"
+        },
+        {
+          "pattern": "〈人〉 + vest in 〈給付〉",
+          "use": "従業員側から権利確定を述べる。",
+          "example": "Employees vest in the employer-funded benefits according to the plan’s schedule.",
+          "translation": "従業員は制度の日程に従い、雇用主が拠出した給付の権利を取得する。"
+        },
+        {
+          "pattern": "〈権利〉 + vest gradually",
+          "use": "段階的な確定を述べる。",
+          "example": "The rights vest gradually over the four-year period specified in the agreement.",
+          "translation": "その権利は、契約で定めた4年間にわたって段階的に確定する。"
+        }
+      ],
+      "notes": [
+        "vesting は grant「付与」、exercise「権利行使」、payment「支払い」と同一ではない。権利が確定しても、行使・払出しの別条件がある場合がある。米国の退職給付では、本人拠出分と雇用主拠出分で扱いが違い、IRSは本人拠出分は常に100% vested と説明している。すべての国・制度・株式報酬へ同じ年数を一般化しない。vest in は invest in「投資する」と別語であり、単に資金を出す意味にはならない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【分詞形容詞：vested】権利が確定した・確定した権利を持つ",
+      "frequency": 4,
+      "register": [
+        "法律・年金・株式報酬。"
+      ],
+      "definition": "権利・給付が確定している状態。また、そのような権利を持つ従業員・受益者の状態。元の動詞の結果を表す形容詞用法で、年金などでは退職によって失われない権利部分を指す。",
+      "patterns": [
+        "vested benefits/rights＝確定した給付・権利",
+        "be/become fully vested＝権利が完全に確定している・する",
+        "be partially vested＝一部の権利が確定している",
+        "a vested interest in property＝財産に対する確定した権利。"
+      ],
+      "collocations": [
+        {
+          "pattern": "vested benefits",
+          "use": "確定している給付を限定修飾する。",
+          "example": "The statement distinguishes vested benefits from benefits that are still conditional.",
+          "translation": "その明細書は、確定した給付と、まだ条件付きの給付を区別している。"
+        },
+        {
+          "pattern": "become fully vested",
+          "use": "人を主語に権利の完全な確定を述べる。",
+          "example": "Under this plan, she becomes fully vested after five years of service.",
+          "translation": "この制度では、彼女の権利は5年間勤務した後に完全に確定する。"
+        },
+        {
+          "pattern": "be partially vested",
+          "use": "確定割合が一部であることを示す。",
+          "example": "He was partially vested when he left the company.",
+          "translation": "退職時、彼の給付の権利は一部だけ確定していた。"
+        },
+        {
+          "pattern": "a vested interest in property",
+          "use": "法律上の interest を「関心」と誤訳しない。",
+          "example": "The document confirms her vested interest in the property.",
+          "translation": "その文書は、当該財産に対する彼女の確定した権利を確認している。"
+        }
+      ],
+      "notes": [
+        "限定・叙述の両方で使い、fully、partially、50 percent などで確定割合を表す。単なる程度の very vested より、何がどれだけ確定したかを示す。get vested はくだけた文脈で使えるが、制度説明では become vested が明確。seem vested は確定の法的事実を曖昧にするので、確かな状態の説明には向かない。vested は支払済み・換金済みという意味ではない。"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "unvested",
+          "definition": "権利がまだ確定していない。",
+          "frequency": 3,
+          "difference": "同一の権利部分について、確定・未確定という状態の対立。全体が部分的に確定していることもある。",
+          "example": "The agreement explains what happens to unvested shares when employment ends.",
+          "translation": "その契約は、雇用終了時に未確定の株式がどう扱われるかを説明している。"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "【名詞句：vested interest】個人的な利害・既得権益",
+      "frequency": 5,
+      "register": [
+        "一般・政治・経済・論説。"
+      ],
+      "definition": "特定の結果や現状によって利益を得る立場にあるための強い利害関係。複数形 vested interests は既得権益そのもの、またはそれを守る人々・集団を指す。",
+      "patterns": [
+        "have a vested interest in something/doing＝その事柄・結果に個人的な利害がある",
+        "protect vested interests＝既得権益を守る",
+        "〈既得権益層〉としての vested interests＝利害関係者の集団。"
+      ],
+      "collocations": [
+        {
+          "pattern": "have a vested interest in doing",
+          "use": "なぜ当事者が結果を望むかを示す。",
+          "example": "The owner has a vested interest in keeping property prices high.",
+          "translation": "所有者には、不動産価格を高く保つことによる個人的な利益がある。"
+        },
+        {
+          "pattern": "have a vested interest in something",
+          "use": "利害を共有することを述べる。",
+          "example": "We all have a vested interest in the school’s success because our children study there.",
+          "translation": "子どもたちがそこで学んでいるので、学校がうまく運営されることは私たち全員の利益に関わる。"
+        },
+        {
+          "pattern": "protect vested interests",
+          "use": "現状維持を求める態度を批判する。",
+          "example": "Critics said the policy protected vested interests rather than new entrants.",
+          "translation": "批判者たちは、その政策は新規参入者より既得権益を守っていると述べた。"
+        },
+        {
+          "pattern": "vested interests",
+          "use": "利益を守る集団を主語にする。",
+          "example": "Powerful vested interests opposed the reform.",
+          "translation": "強力な既得権益層がその改革に反対した。"
+        }
+      ],
+      "notes": [
+        "単なる興味より「結果が自分の利益に関わる」ことが中心。利己的・保守的な含みを持ちやすいが、学校の成功に共通の利害を持つ例のように、必ず非難ではない。法律の確定した持分としての vested interest は語義6で、単なる心理的関心とは違う。"
+      ],
+      "synonyms": [
+        {
+          "word": "stake",
+          "definition": "結果によって得失が生じる利害・持分。",
+          "frequency": 6,
+          "difference": "have a stake in の形で、既得権益を守るという批判を必ずしも伴わない。",
+          "example": "Every employee has a stake in the company’s future.",
+          "translation": "会社の将来は従業員全員の利害に関わる。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【慣用句】手の内を明かさずに",
+      "frequency": 4,
+      "register": [
+        "特に米・会話・報道。"
+      ],
+      "definition": "close to the vest の形で、考え・計画などを他人にあまり知らせず、慎重に扱うこと。実際の衣服を着ている必要はない。",
+      "patterns": [
+        "keep/hold something close to the vest＝内容を明かさずにおく",
+        "play one’s cards close to the vest＝手の内を見せず慎重に行動する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "keep something close to the vest",
+          "use": "計画を秘密にしておく。",
+          "example": "The director kept her plans close to the vest until the funding was secure.",
+          "translation": "責任者は資金が確保できるまで計画を明かさなかった。"
+        },
+        {
+          "pattern": "play one’s cards close to the vest",
+          "use": "交渉で手の内を見せない。",
+          "example": "He played his cards close to the vest during the negotiations.",
+          "translation": "彼は交渉中、手の内を明かさず慎重に行動した。"
+        }
+      ],
+      "notes": [
+        "close はここでは /kloʊs/ の「近く」。同じ慣用表現に close to the chest がある。keep someone close to the vest を一般に「その人を親しくする」の意味では使わない。play (it) close to the vest には、情報の秘密保持に限らず危険を避けて行動する用法もある（語義14）。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 9,
+      "title": "【動詞：他動詞】祭服などを着せる",
+      "frequency": 2,
+      "register": [
+        "教会・儀式・文語。普通の着替えには dress を使う。"
+      ],
+      "definition": "人に衣服、特に宗教儀式の祭服を着せる。能動形では着せる相手を直接目的語にし、本人が自分で着る場合は再帰形もある。",
+      "patterns": [
+        "vest someone in 〈祭服〉＝人に祭服を着せる",
+        "vest oneself in 〈祭服〉＝自分で祭服を着る",
+        "be vested in 〈祭服〉＝祭服を着ている。"
+      ],
+      "collocations": [
+        {
+          "pattern": "vest someone in 〈祭服〉",
+          "use": "衣服を着せる役割を明示する。",
+          "example": "The assistants vested the bishop in ceremonial robes.",
+          "translation": "補佐役たちは司教に儀式用の衣服を着せた。"
+        },
+        {
+          "pattern": "vest oneself in 〈祭服〉",
+          "use": "能動の再帰形を示す。",
+          "example": "The priest vested himself in a white alb before the service.",
+          "translation": "司祭は礼拝前に白いアルバを身に着けた。"
+        },
+        {
+          "pattern": "be vested in 〈祭服〉",
+          "use": "祭服を着た状態を描写する。",
+          "example": "The clergy were vested in white for the celebration.",
+          "translation": "聖職者たちはその祝典のため白い祭服を着ていた。"
+        }
+      ],
+      "notes": [
+        "vest someone in robes は人＋衣服、vest authority in someone は権限＋人であり、in が同じでも項構造と意味が違う。vest oneself in robes の再帰代名詞は着せる人と着る人が同じことを示す。be vested in robes は再帰代名詞を省いた能動形ではなく、受動・着用状態の表現。"
+      ],
+      "synonyms": [
+        {
+          "word": "robe",
+          "definition": "人に長い礼服・儀礼用の衣を着せる。",
+          "frequency": 3,
+          "difference": "祭服以外の儀礼用のローブにも使う。",
+          "example": "The attendants robed the monarch for the ceremony.",
+          "translation": "侍従たちは式典のため君主に礼服を着せた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 10,
+      "title": "【動詞：自動詞】祭服を着る",
+      "frequency": 2,
+      "register": [
+        "教会・儀式。"
+      ],
+      "definition": "聖職者などが、自分で儀式の衣服を身に着ける。目的語を置かずに着替えの行為を述べる。",
+      "patterns": [
+        "〈聖職者〉 + vest＝祭服を着る",
+        "vest for 〈儀式〉＝儀式のため祭服を着る",
+        "vest in 〈衣服〉＝その祭服を身に着ける。"
+      ],
+      "collocations": [
+        {
+          "pattern": "vest for 〈儀式〉",
+          "use": "着替えの目的を述べる。",
+          "example": "The priest went to the sacristy to vest for Mass.",
+          "translation": "司祭はミサのために祭服を着ようと祭具室へ行った。"
+        },
+        {
+          "pattern": "vest in 〈衣服〉",
+          "use": "自動詞に着用する衣服を添える。",
+          "example": "The clergy vested in white robes before the procession.",
+          "translation": "聖職者たちは行列の前に白い祭服を身に着けた。"
+        }
+      ],
+      "notes": [
+        "この自動詞は vest oneself の oneself をどこでも省略してよいという一般規則ではなく、独立して定着した用法。普通のベストを着るなら put on a vest であり、日常会話で I vested. と言うとこの儀式的な用法や権利確定を連想させる。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 11,
+      "title": "【名詞：個別の衣は可算；古い集合的用法もある】衣・長衣",
+      "frequency": 1,
+      "register": [
+        "古語・詩・衣服史。"
+      ],
+      "definition": "古い文章で、衣服・外衣・長い衣を広く指す。現在の「袖なしのベスト」より広い範囲。",
+      "patterns": [
+        "a 〈素材〉 vest＝その素材の衣",
+        "〈古い文章で〉 in 〈修飾語〉 vest＝その衣を着て。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a silken vest",
+          "use": "古い描写語として読む。",
+          "example": "In the old poem, the prince appears in a silken vest that reaches his ankles.",
+          "translation": "その古い詩では、王子は足首まで届く絹の衣を着て登場する。"
+        }
+      ],
+      "notes": [
+        "現代の服の注文にこの広い意味を使わない。語義1のベストが足首まであるという説明ではなく、古い別の意味範囲である。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 12,
+      "title": "【名詞：可算】胸元を覆う当て布・飾り布",
+      "frequency": 2,
+      "register": [
+        "服飾・衣服史。"
+      ],
+      "definition": "婦人服の前の襟ぐり・胸元に付けて、空いた部分を埋める布や飾り部分。衣服史・裁縫で使う低頻度の用法。",
+      "patterns": [
+        "a lace vest＝レースの胸当て",
+        "a vest at the neckline＝襟ぐりに付ける当て布。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a lace vest",
+          "use": "衣服の一部分だと分かる文脈にする。",
+          "example": "A lace vest filled the open neckline of the antique dress.",
+          "translation": "そのアンティークのドレスでは、開いた襟ぐりをレースの胸当てが覆っていた。"
+        }
+      ],
+      "notes": [
+        "現代の販売ページの a lace vest は、普通のレース製ベストであることも多い。この専門義だと読むには、襟ぐりの一部として縫い付けるなどの文脈が必要。vestee ともいうが、日常の類義語として高頻度だとは扱わない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 13,
+      "title": "【形容詞：vested・限定用法】ベスト付きの",
+      "frequency": 2,
+      "register": [
+        "米・衣料・商品説明。"
+      ],
+      "definition": "スーツなどがベストを伴うことを表す、特に米の衣料表現。動詞の権利確定とは別の、名詞 vest からの形容詞的な形成。",
+      "patterns": [
+        "a vested suit＝ベスト付きのスーツ。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a vested suit",
+          "use": "衣服の組合せを示す。",
+          "example": "The store displayed a vested suit with a jacket, trousers, and a matching vest.",
+          "translation": "店には上着、ズボン、そろいのベストからなるベスト付きスーツが展示されていた。"
+        }
+      ],
+      "notes": [
+        "主に名詞の前で使い、very vested のような程度比較はしない。a three-piece suit と説明することもできる。a vested employee の vested は権利を持つ語義6であり、ベストを着た従業員とは普通解釈しない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 14,
+      "title": "【慣用句】危険を避けて慎重に行動する",
+      "frequency": 3,
+      "register": [
+        "特に米。会話・行動や方針の説明。"
+      ],
+      "definition": "play (it) close to the vest の形で、不必要な危険を冒さず、慎重な選択や行動をすること。語義8の手の内を明かさない態度と重なる場合もあるが、情報を隠すことを必ず伴うわけではない。",
+      "patterns": [
+        "play it close to the vest",
+        "play close to the vest＝危険を避けて慎重に行動する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "play it close to the vest",
+          "use": "大きな危険を冒さない方針を示す。",
+          "example": "Rather than risk all her savings on an untested idea, she played it close to the vest.",
+          "translation": "彼女は未検証のアイデアに貯蓄をすべて賭けるのではなく、危険を避けて慎重に行動した。"
+        }
+      ],
+      "notes": [
+        "it はこの慣用表現の一部として使い、特定のカードや衣服を指すとは限らない。play close to the vest のように it を伴わない形もある。文脈から、秘密を守る語義8の意味か、危険回避を中心にした意味かを判断する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}
