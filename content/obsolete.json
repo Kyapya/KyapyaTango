@@ -3,7 +3,7 @@
   "slug": "obsolete",
   "ipa": "米: /ˌɑːb.səˈliːt/｜英: /ˈɒb.sə.liːt/",
   "lead": "技術・製品・方法・考え方・語などが、現在の用途や慣行に合わなくなった、必要性を失った、または一般に使われなくなった状態。新しいものに置き換えられた場合に多いが、新製品の登場だけが原因とは限らない。「古い」という年代の説明より、現在の通用性・実用性の喪失に焦点がある。obsolete equipment でも動作する機器や一部で使用中の機器はあり、故障・完全消",
-  "updated": "2026-10-19",
+  "updated": "2026-10-20",
   "notion_url": "https://app.notion.com/p/obsolete-3fe4faa9b77d8149a1acfe1040b3a662",
   "pronunciation": [
     "3音節。ここに示す米音は第3音節 /liːt/ に主強勢、第1音節 /ɑːb/ に第2強勢があり、英音は第1音節 /ɒb/ に主強勢がある。第1音節の母音も米 /ɑː/、英 /ɒ/ と異なる。強勢には変異があり、米音でも第1音節に主強勢を置く発音、英音でも第3音節に主強勢を置く発音がある。形容詞と動詞で強勢を必ず変える語ではない。"
@@ -29,7 +29,20 @@
       "description": "＝新技術などによって旧式化された、廃止対象にされた。形容詞 obsolete「旧式である」と、変化を受けたことを表す過去分詞を区別する。"
     }
   ],
-  "core": [],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "語義1・2の共通核は、現用のものとしての通用性・必要性を失うこと。物そのものの消滅や故障とは限らない。ただし、語義3の「痕跡的な、退化的な、不明瞭な」は、このコアイメージだけでは説明できない。生物の形態記述では、部位の発達の程度や輪郭の明瞭さを表すため、現在使われているかどうかとは分けて理解する。"
+    },
+    {
+      "type": "item",
+      "text": "現用のものとしての通用性・必要性を失った状態 → 「時代遅れの、廃れた、もはや使われない」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "現用のものとしての通用性・必要性を失わせる変化 → 「旧式化させる、時代遅れにする」（語義2）"
+    }
+  ],
   "sources": [],
   "senses": [
     {
@@ -60,13 +73,13 @@
           "translation": "工程全体が自動化されれば、これらの技能は必要とされなくなるかもしれない。"
         },
         {
-          "pattern": "make 〈O〉 + obsolete",
+          "pattern": "make 〈O〉 obsolete",
           "use": "新しい技術などが従来の道具・方法の必要性を失わせると述べる。",
           "example": "The new tracking system made our handwritten delivery log obsolete.",
           "translation": "新しい追跡システムの導入で、手書きの配送記録は不要になった。"
         },
         {
-          "pattern": "render 〈O〉 + obsolete",
+          "pattern": "render 〈O〉 obsolete",
           "use": "改まった文章で旧式化の原因と結果を結びつける。",
           "example": "Changes in the file format rendered the old conversion tool obsolete.",
           "translation": "ファイル形式の変更により、従来の変換ツールは役に立たなくなった。"
@@ -218,6 +231,47 @@
           "difference": "実際の交換・交代を表す平易な語。交換前のものが時代遅れであるとは限らず、obsolete より理由の範囲が広い。",
           "example": "We replaced the damaged sensor with an identical one.",
           "translation": "破損したセンサーを同じ型のものに交換した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【形容詞：限定・叙述】痕跡的な、退化的な、不明瞭な",
+      "frequency": 2,
+      "register": [
+        "生物学、植物学、分類・形態の記述。一般の技術や製品についての「時代遅れ」と区別する。"
+      ],
+      "definition": "動植物の器官や部分が、関連する生物の対応部分などと比べて十分に発達していない、著しく縮小している、またははっきり認めにくい状態。形態を記述する専門用法で、その部分が現在使われないことや、特定の進化の経緯を必ず述べるわけではない。",
+      "patterns": [
+        "an obsolete 〈organ/part〉＝痕跡的・不明瞭な器官や部分",
+        "〈部位〉 + be obsolete＝部位が痕跡的・不明瞭である。"
+      ],
+      "collocations": [
+        {
+          "pattern": "obsolete teeth",
+          "use": "形態記述で、歯状の突起がほとんど認められないことを示す。",
+          "example": "The leaf margin has obsolete teeth that are difficult to distinguish.",
+          "translation": "その葉の縁には、判別しにくいほど不明瞭な鋸歯がある。"
+        },
+        {
+          "pattern": "〈部位〉 + be obsolete",
+          "use": "器官や部分の縮小・不明瞭さを述べる。",
+          "example": "In this specimen, one petal is nearly obsolete.",
+          "translation": "この標本では、花弁の1枚がほとんど痕跡的になっている。"
+        }
+      ],
+      "notes": [
+        "obsolete equipment の「もはや現用でない」という意味を、そのまま植物の器官に当てはめない。形態記述の teeth は葉の縁などの歯状部分を指すことがあり、人や動物の歯とは限らない。部位が小さい・不明瞭だという記述だけから、機能が完全にない、あるいは祖先がどのような形だったとまでは断定できない。"
+      ],
+      "synonyms": [
+        {
+          "word": "rudimentary",
+          "definition": "器官・部分が未発達で、基本的・不完全な形にとどまる。",
+          "frequency": 3,
+          "difference": "発達の程度が低いことに重点がある。obsolete はこの専門義では、縮小して痕跡的・不明瞭であることも表す。",
+          "example": "The organ remains rudimentary in the adult.",
+          "translation": "成体でもその器官は未発達なままである。"
         }
       ],
       "antonyms": []

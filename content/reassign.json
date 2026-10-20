@@ -3,7 +3,7 @@
   "slug": "reassign",
   "ipa": "米・英: /ˌriː.əˈsaɪn/",
   "lead": "人を、以前とは違う仕事、部署、勤務地、担当などに割り当てる。また、配置を改めて指定する。命令・人事上の決定として行われることが多いが、昇進・降格・処罰のいずれかを必ず意味するわけではない。",
-  "updated": "2026-10-19",
+  "updated": "2026-10-20",
   "notion_url": "https://app.notion.com/p/reassign-3fe4faa9b77d81a58a83f22169c6a57c",
   "pronunciation": [
     "3音節。第3音節 /saɪn/ に主強勢、第1音節 /riː/ に第二強勢があり、第2音節は弱い /ə/。assign の g は発音せず、s は /s/。reassigned の -ed は /d/ で、通常、音節は増えない。resign「辞任する」/rɪˈzaɪn/ や re-sign「再び署名する」/ˌriːˈsaɪn/ とは綴り・発音・意味が異なる。"
@@ -22,7 +22,7 @@
     },
     {
       "term": "reassignment",
-      "description": "名詞「再割当て、配置転換、再指定」。a reassignment は一件の変更、reassignment は変更の過程・制度も表す。"
+      "description": "名詞「再割当て、配置転換、再指定」。a reassignment は一件の変更、reassignment は変更の過程・制度も表す。sex reassignment / gender reassignment などの専門表現では、性別移行に関わる用法もある（語義6）。"
     },
     {
       "term": "assign",
@@ -32,7 +32,7 @@
   "core": [
     {
       "type": "paragraph",
-      "text": "「人・物・情報について、担当・対応・帰属を指定し直す」が共通核。人の配属、仕事や物の割当先、分類先、変数と値の対応、権利の帰属に具体化する。専門分野ごとの具体的な効果は、それぞれの語義で区別する。"
+      "text": "語義1〜5の共通核は「人・物・情報について、担当・対応・帰属を指定し直す」。人の配属、仕事や物の割当先、分類先、変数と値の対応、権利の帰属に具体化する。ただし、語義6に含まれる身体的特徴の変更は、このコアイメージだけでは説明できない。指定や対応関係を変えることと、身体そのものの特徴を変えることは異なるため、医療上の意味と法律上の定義を語義6で個別に確認する。"
     },
     {
       "type": "item",
@@ -176,7 +176,7 @@
           "translation": "キャンセル後、ホテルはその部屋を別の宿泊客に割り当て直した。"
         },
         {
-          "pattern": "reassign someone + 〈仕事・物〉",
+          "pattern": "reassign someone 〈仕事・物〉",
           "use": "割り当てる相手を先に示す二重目的語構文。",
           "example": "The coordinator reassigned me the same task after the first attempt failed.",
           "translation": "最初の試みが失敗した後、調整役は私に同じ仕事を改めて割り当てた。"
@@ -339,6 +339,38 @@
           "translation": "その契約により、特許権は買い手に移転した。"
         }
       ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【動詞・他動詞】性別移行に関わる身体的属性などを変更する",
+      "frequency": 2,
+      "register": [
+        "医療・法制度の説明。sex reassignment や gender reassignment という名詞表現でも現れる。対象者に用いる呼称は本人の希望を尊重する。"
+      ],
+      "definition": "医療や関連する法制度の文脈で、人の性に関わる身体的特徴などを変更する過程について用いる。reassign a person's sex などの形で現れ、本人のジェンダーを他者が決め直すという意味ではない。単なる書類上の分類変更と、医療的な処置とを一律に同じ行為として扱わない。",
+      "patterns": [
+        "reassign a person's sex＝人の性に関わる属性を変更する",
+        "a process of reassigning a person's sex＝そのような変更の過程。"
+      ],
+      "collocations": [
+        {
+          "pattern": "reassign a person's sex",
+          "use": "医療的な処置について書かれた資料の表現を述べる。",
+          "example": "The older paper discussed operations to reassign a patient's sex.",
+          "translation": "その古い論文は、患者の身体的な性の特徴を変更する手術について論じていた。"
+        },
+        {
+          "pattern": "a process of reassigning a person's sex",
+          "use": "法律文中で用いられる表現を示す。",
+          "example": "The British statute refers to a process of reassigning a person's sex.",
+          "translation": "その英国法令は、人の性に関わる属性を変更する過程に言及している。"
+        }
+      ],
+      "notes": [
+        "医療文脈での処置の説明と、法律上の保護対象の定義を混同しない。英国の Equality Act 2010 第7条の gender reassignment による保護は、手術や医療処置を受けた人だけに限定されない。これを、特定の身体的処置や法的な性別変更が完了したという意味に読み替えない。関連する表現には gender-affirming care や transition もあるが、ケアの内容・過程・法的定義が常に同一ではなく、機械的に置き換えない。"
+      ],
+      "synonyms": [],
       "antonyms": []
     }
   ]

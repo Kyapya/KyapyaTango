@@ -3,7 +3,7 @@
   "slug": "overrun",
   "ipa": "動詞・分詞形容詞：米: /ˌoʊvərˈrʌn/｜英: /ˌəʊvəˈrʌn/",
   "lead": "活動・支出などが、割り当てられた時間・費用・範囲を超える。超えられる基準を目的語に取る。単なる好成績ではなく、予定・制限に収まらないという見方。",
-  "updated": "2026-10-19",
+  "updated": "2026-10-20",
   "notion_url": "https://app.notion.com/p/overrun-3fe4faa9b77d81f1998cfa240676dd6e",
   "pronunciation": [
     "名詞：米: /ˈoʊvərˌrʌn/｜英: /ˈəʊvəˌrʌn/",
@@ -19,7 +19,7 @@
     },
     {
       "term": "overrunning clutch",
-      "description": "一方の部材が他方より速く回ると空転できるクラッチ。エンジンが車輪に回される overrun とは、装置と運転状態の違いがある。"
+      "description": "被駆動側が駆動側より速く回るなど、所定の相対回転方向で空転できる一方向クラッチ。エンジンが車輪に回される overrun とは、装置と運転状態の違いがある。"
     }
   ],
   "core": [
@@ -871,7 +871,7 @@
       "register": [
         "計算機・セキュリティ。"
       ],
-      "definition": "割り当てられたメモリー領域の有効範囲を越えて読み出したり書き込んだりする不具合・その発生。書込みによる buffer overrun は buffer overflow とも呼ばれるが、読出しも含む overrun 全体をそれと同義にしない。",
+      "definition": "割り当てられたメモリー領域の有効範囲を越えて読み出したり書き込んだりする不具合・その発生。書込みによる buffer overrun は buffer overflow とも呼ばれる。両語が含む操作の範囲には資料による違いがあり、用語だけで読出しか書込みかを一律に区別しない。",
       "patterns": [
         "a buffer overrun＝バッファーの領域外アクセス",
         "a heap overrun＝ヒープ領域の範囲外アクセス",
@@ -892,12 +892,12 @@
         }
       ],
       "notes": [
-        "stack overflow は再帰などでスタック容量を使い切る別の現象にも使うため、すべてを buffer overrun と同一にしない。stack-based buffer overrun はスタック上のバッファーの範囲を越える読出し・書込み。buffer overflow との同義関係は、ここでは書込みの文脈に限る。"
+        "stack overflow は再帰などでスタック容量を使い切る別の現象にも使うため、すべてを buffer overrun と同一にしない。stack-based buffer overrun はスタック上のバッファーの範囲を越える読出し・書込み。buffer overflow は範囲外の書込みを指すことが多いが、範囲外の読出しも含める資料がある。名称だけで操作の種類を確定せず、その資料の定義や具体的な処理を確認する。"
       ],
       "synonyms": [
         {
           "word": "buffer overflow",
-          "definition": "バッファーの容量を越えて書き込む不具合。",
+          "definition": "バッファーの範囲外アクセス。典型的には越境書込みを指すが、資料によって読出しも含む。",
           "frequency": 4,
           "difference": "このメモリー書込みの文脈ではほぼ同義。通信の受信 overrun と区別する。",
           "example": "A buffer overflow corrupted adjacent data.",
