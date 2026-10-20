@@ -3,7 +3,7 @@
   "slug": "underwrite",
   "ipa": "米: /ˌʌndərˈraɪt/｜英: /ˌʌndəˈraɪt/",
   "lead": "事業・催し・研究などの費用を負担する、または必要な資金や損失補填を引き受けて実施を支える。寄付・協賛などの形もあり、必ず保険契約や証券取引を意味するわけではない。",
-  "updated": "2026-10-19",
+  "updated": "2026-10-20",
   "notion_url": "https://app.notion.com/p/underwrite-3fe4faa9b77d81b4a2dbc3f11d83ea9a",
   "pronunciation": [
     "3音節。ここでは第1音節に第二強勢、第3音節に主強勢を置く形を示す。米英差は第2音節の /dər/ と /də/ で、米では r を発音する。米英とも第1音節を主強勢にする /ˈʌndərˌraɪt/（米）、/ˈʌndəˌraɪt/（英）もある。",
@@ -27,13 +27,13 @@
     },
     {
       "term": "underwritten",
-      "description": "a fully underwritten issue「全額が引受けの対象となる発行」のような限定用法、be underwritten by の受動用法に使う。"
+      "description": "a fully underwritten issue「全額が引受けの対象となる発行」のような限定用法、be underwritten by の受動用法に使う。また、創作・批評では「描写が不十分な」という形容詞用法がある（語義10）。"
     }
   ],
   "core": [
     {
       "type": "paragraph",
-      "text": "現代の中心は、計画やリスクに対して支える立場に立ち、責任・判断を引き受けること。金融の分野ごとに引き受ける対象は異なる。語義7は歴史的残存義で、文字を下に書くという語彙的意味はこの現代の核から導けないため、個別に参照する。"
+      "text": "現代の中心は、計画やリスクに対して支える立場に立ち、責任・判断を引き受けること。金融の分野ごとに引き受ける対象は異なり、語義9では金銭以外の力や条件が後ろ盾となる関係にも広がる。語義7は歴史的残存義で、文字を下に書くという語彙的意味はこの現代の核から導けないため、個別に参照する。語義10の描写不足も、この「支える」というコアイメージでは説明できない。書かれた内容が十分でないという評価として区別する。"
     },
     {
       "type": "item",
@@ -62,6 +62,10 @@
     {
       "type": "item",
       "text": "支える立場での、声明への同意 → 「支持・同意を表明する」（語義8）"
+    },
+    {
+      "type": "item",
+      "text": "支える立場での、成立・継続への裏付け → 「基盤・後ろ盾となって支える」（語義9）"
     }
   ],
   "sources": [],
@@ -493,6 +497,79 @@
           "translation": "私はその解釈に賛成する。"
         }
       ],
+      "antonyms": []
+    },
+    {
+      "number": 9,
+      "title": "【動詞：他動詞】基盤・後ろ盾となって支える",
+      "frequency": 3,
+      "register": [
+        "政治、社会、経済などを論じる文章。硬い表現。"
+      ],
+      "definition": "力、制度、条件、信頼などが、活動・地位・仕組みの成立や継続を支える。費用を出すことだけでなく、そのものを成り立たせる裏付けを与える比喩的な用法。意見への賛同表明とは区別する。",
+      "patterns": [
+        "〈力・制度・条件など〉 + underwrite 〈地位・活動・仕組み〉＝その成立や継続を支える",
+        "〈活動・仕組み〉 + be underwritten by 〈基盤となるもの〉＝その裏付けによって支えられる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "underwrite political stability",
+          "use": "金銭以外の条件が安定の後ろ盾となることを述べる。",
+          "example": "Public trust helps underwrite political stability.",
+          "translation": "国民の信頼は、政治の安定を支える基盤の一つとなる。"
+        },
+        {
+          "pattern": "be underwritten by 〈基盤となるもの〉（underwrite の過去分詞）",
+          "use": "活動や関係を支える条件に焦点を当てる。",
+          "example": "Their cooperation is underwritten by a shared commitment to open debate.",
+          "translation": "両者の協力は、開かれた議論を重んじる共通の姿勢によって支えられている。"
+        }
+      ],
+      "notes": [
+        "何が支えているかを主語や by 以下から判断する。資金・費用が対象なら語義1、声明への賛同なら語義8となり得る。この比喩義を金銭上の保証や法的な責任負担と読み替えない。"
+      ],
+      "synonyms": [
+        {
+          "word": "underpin",
+          "definition": "物事が成り立つ基盤となって支える。",
+          "frequency": 5,
+          "difference": "基礎を支える関係を直接表す。underwrite は裏付け・後ろ盾となることを比喩的に述べる。",
+          "example": "Mutual respect underpins their partnership.",
+          "translation": "相互の尊重が、両者の協力関係の基盤となっている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 10,
+      "title": "【形容詞：underwritten；限定・叙述】描写が不十分な、人物造形が薄い",
+      "frequency": 3,
+      "register": [
+        "文学・映画・演劇などの批評。"
+      ],
+      "definition": "小説・映画・劇などの人物や役柄について、台本や文章での描き込みが足りず、性格・動機などが十分に伝わらないこと。資金的な引受けではなく、書かれた内容の不足を批判的に評価する。",
+      "patterns": [
+        "an underwritten character/role＝描き込みの足りない人物・役柄",
+        "〈人物・役柄〉 + be/seem underwritten＝人物造形が不十分である・そう感じられる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an underwritten character（underwrite に対応する形容詞 underwritten）",
+          "use": "人物の描かれ方が十分でないと評価する。",
+          "example": "The talented actor struggles to make an underwritten character convincing.",
+          "translation": "その実力ある俳優も、描き込みの足りない人物に説得力を持たせるのに苦労している。"
+        },
+        {
+          "pattern": "〈役柄〉 + be underwritten（underwrite に対応する形容詞 underwritten）",
+          "use": "配役や演技ではなく、脚本上の人物造形を批評する。",
+          "example": "Her role is underwritten, so the audience never understands her motives.",
+          "translation": "彼女の役は描写が不十分で、観客にはその動機が最後まで分からない。"
+        }
+      ],
+      "notes": [
+        "この形容詞では under- が示す不足という読みが重要で、「資金援助を受けた人物」や「下に書かれた人物」とは訳さない。登場時間が短いことや、演技が下手なこと自体とは別の評価である。金融義の be underwritten by an insurer などは、引受主体を示す受動態なので区別する。"
+      ],
+      "synonyms": [],
       "antonyms": []
     }
   ]

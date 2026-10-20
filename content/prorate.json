@@ -1,0 +1,153 @@
+{
+  "word": "prorate",
+  "slug": "prorate",
+  "ipa": "米: /proʊˈreɪt/｜英: /prəʊˈreɪt/",
+  "lead": "料金・給与・返金額・費用などを、期間、使用量、持分などの割合に応じて配分・算定する。日割りはその一例で、必ず日数に基づくわけでも、全員に同額を配るわけでもない。",
+  "updated": "2026-10-20",
+  "notion_url": "https://app.notion.com/p/prorate-3ff4faa9b77d815b9101f693eb01f66c",
+  "pronunciation": [
+    "2音節で、ここでは第2音節に主強勢を置く発音を示す。米英差は第1音節の /proʊ/ と /prəʊ/。第1音節に主強勢を置く /ˈproʊreɪt/、/ˈprəʊreɪt/ もある。prorated の -ed は /ɪd/ で1音節増える。"
+  ],
+  "etymology": [
+    "ラテン語句 pro rata「割合に応じて」から作られた動詞。pro は「～に応じて」、rata は「計算された割合」に関係する形。rate「率・割合」、ratio「比率」もラテン語の計算・勘定を表す系列につながる。pro- と英語の rate を自由に組み合わせた一般規則としては扱わない。"
+  ],
+  "formation": [
+    {
+      "term": "prorates／prorated／prorating",
+      "description": "三人称単数現在／過去形・過去分詞／現在分詞。-ing の前で語末の e を落とす。"
+    },
+    {
+      "term": "proration／prorating",
+      "description": "名詞としての「比例配分・按分」。proration は事務・会計文書で使う。"
+    },
+    {
+      "term": "prorated",
+      "description": "按分された。a prorated fee、a prorated refund のように結果を修飾する。"
+    },
+    {
+      "term": "pro rata",
+      "description": "形容詞・副詞として「比例配分の・割合に応じて」。動詞 prorate と品詞が違う。pro-rata とハイフンを付ける表記もある。"
+    }
+  ],
+  "core": [],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞：他動詞】比例配分する・按分して計算する",
+      "frequency": 4,
+      "register": [
+        "特に米・カナダの事務、請求、雇用、会計。英でも理解されるが、calculate on a pro rata basis などの表現も使う。"
+      ],
+      "definition": "料金・給与・返金額・費用などを、期間、使用量、持分などの割合に応じて配分・算定する。日割りはその一例で、必ず日数に基づくわけでも、全員に同額を配るわけでもない。",
+      "patterns": [
+        "prorate 〈料金・給付〉＝割合に応じて計算する",
+        "prorate something for 〈利用期間〉＝その期間分を算定する",
+        "prorate something according to 〈基準〉＝基準に比例して配分する",
+        "prorate something among 〈受取人〉＝複数人に按分する",
+        "prorate something over 〈期間〉＝その期間にわたり配分する",
+        "be prorated＝按分される。"
+      ],
+      "collocations": [
+        {
+          "pattern": "prorate the rent for 〈期間〉",
+          "use": "入居期間分の料金を計算する。",
+          "example": "The landlord prorated the rent for the ten days we occupied the apartment.",
+          "translation": "家主は、私たちがその部屋を使用した10日間分の家賃を日割りで計算した。"
+        },
+        {
+          "pattern": "prorate something according to 〈基準〉",
+          "use": "計算の基準を明示する。",
+          "example": "The company prorates annual bonuses according to the number of months worked.",
+          "translation": "その会社は勤務月数に応じて年間賞与を按分する。"
+        },
+        {
+          "pattern": "prorate something among 〈受取人〉",
+          "use": "複数の相手への比例配分を述べる。",
+          "example": "The administrator prorated the refund among the members according to their contributions.",
+          "translation": "管理者は、各会員の拠出額に応じて返金を会員間で按分した。"
+        },
+        {
+          "pattern": "prorate something over 〈期間〉",
+          "use": "費用を期間に配分する。",
+          "example": "For this budget, we prorated the annual maintenance cost over twelve months.",
+          "translation": "この予算では、年間の保守費用を12か月にわたって按分した。"
+        },
+        {
+          "pattern": "be prorated based on 〈基準〉",
+          "use": "受動態で算定方式を説明する。",
+          "example": "The subscription fee is prorated based on the number of days remaining in the billing cycle.",
+          "translation": "購読料は請求期間の残り日数に基づいて日割りで計算される。"
+        },
+        {
+          "pattern": "prorate a refund for 〈未使用分〉",
+          "use": "未使用分の割合で返金額を計算する。",
+          "example": "The provider prorated our refund for the unused portion of the service.",
+          "translation": "事業者はサービスの未使用分に応じて私たちへの返金額を按分した。"
+        }
+      ],
+      "notes": [
+        "目的語は通常、配分・計算する金額や給付で、支払先をそのまま目的語にするとは限らない。for は対象期間・事情、according to と based on は配分基準、among は配分先、over は配分する期間を表す。pro rata は副詞なら The fee was calculated pro rata. の形であり、was prorata と動詞化しない。日割りの分母が実日数か固定の30日かなどは契約・制度による。「按分する」だけでは具体式や返金義務は決まらない。頻度点は厳密な出現統計ではなく、学習上の目安。"
+      ],
+      "synonyms": [
+        {
+          "word": "apportion",
+          "definition": "全体を一定の基準に従って割り振る。",
+          "frequency": 5,
+          "difference": "費用だけでなく責任・議席などにも使え、常に比例計算とは限らない。",
+          "example": "The agreement apportions maintenance costs according to floor area.",
+          "translation": "その契約では床面積に応じて保守費用を配分する。"
+        },
+        {
+          "word": "allocate",
+          "definition": "資源を用途・受取人ごとに割り当てる。",
+          "frequency": 7,
+          "difference": "目的別の割当てが中心で、割合による算定は必須ではない。",
+          "example": "The committee allocated extra funds to the smallest schools.",
+          "translation": "委員会は最も小規模な学校に追加資金を割り当てた。"
+        },
+        {
+          "word": "adjust",
+          "definition": "金額などを条件に合わせて修正する。",
+          "frequency": 8,
+          "difference": "調整方法を限定せず、比例配分であることも含意しない。",
+          "example": "We adjusted the invoice to reflect the shorter rental period.",
+          "translation": "私たちは短くなった賃貸期間を反映するよう請求額を調整した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【動詞：自動詞】比例配分を行う",
+      "frequency": 2,
+      "register": [
+        "主に北米の事務・契約説明。対象を明示する他動詞形より使用範囲が狭い。"
+      ],
+      "definition": "支払者・事業者などが、対象を文脈に委ねて比例配分する。目的語を明示しない用法で、通常は何を按分するかが前後から分かる。",
+      "patterns": [
+        "〈支払者・事業者〉 + prorate＝按分を行う",
+        "〈支払者〉 + prorate according to 〈基準〉＝基準に応じて按分する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "prorate according to 〈基準〉",
+          "use": "対象が分かる文脈で配分方法を述べる。",
+          "example": "For annual bonuses, we prorate according to months of service.",
+          "translation": "年間賞与については、私たちは勤務月数に応じて按分する。"
+        },
+        {
+          "pattern": "refuse to prorate",
+          "use": "目的語を省いて事業者の方針を述べる。",
+          "example": "Some clubs charge a full annual fee and refuse to prorate.",
+          "translation": "年会費を全額請求し、期間に応じた按分をしないクラブもある。"
+        }
+      ],
+      "notes": [
+        "自動詞用法があるからといって、何を配分するか不明な状況で裸の prorate を使うと分かりにくい。The fee is prorated. は受動態であり、この自動詞用法とは区別する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}
