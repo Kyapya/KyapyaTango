@@ -1,0 +1,209 @@
+{
+  "word": "presuppose",
+  "slug": "presuppose",
+  "ipa": "米: /ˌpriː.səˈpoʊz/｜英: /ˌpriː.səˈpəʊz/",
+  "lead": "証明や検討を進める前に、あることが真実である、または存在するとして話や行動の土台に置くこと。人が前提を置く場合だけでなく、質問・理論・説明などが特定の前提を含んでいる場合にも使う。前提が正しいと確認されたことまでは意味しない。",
+  "updated": "2026-10-21",
+  "notion_url": "https://app.notion.com/p/presuppose-4004faa9b77d8173a9c8c476cb792419",
+  "pronunciation": [
+    "3音節で、第3音節に主強勢、第1音節に第二強勢がある。上の表記での米英差は第3音節の母音 /oʊ/ と /əʊ/。語末は /s/ ではなく /z/。presupposed の末尾は /zd/ で、-ed は独立した音節を作らない。"
+  ],
+  "etymology": [
+    "フランス語 presupposer、中世ラテン語 praesupponere に関係し、prae「前に」と supponere「下に置く・仮定する」にさかのぼる。「議論などを進める前に土台として置く」と結びつけて覚えられる。同じ supponere の系統に suppose「仮定する」、supposition「仮定」があり、presuppose では事前の前提という点が強まる。"
+  ],
+  "formation": [
+    {
+      "term": "presupposes／presupposed／presupposing",
+      "description": "三人称単数現在／過去形・過去分詞／現在分詞。-ing の前では語末の e を落とす。"
+    },
+    {
+      "term": "presupposition",
+      "description": "名詞。「前提・前もって置く仮定」。a presupposition、presuppositions と個別の前提を数えられる。"
+    },
+    {
+      "term": "presuppositional",
+      "description": "形容詞。「前提に関する・前提に基づく」。主に学術的な文脈で使う。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "中心は「事柄を成り立たせる土台として、別のことを前提に置くこと」。人の仮定、活動の必要条件、発話の背景的な前提に対応する。前提に置かれた内容が実際に真であると、常に保証する語ではない。"
+    },
+    {
+      "type": "item",
+      "text": "思考の土台として前提に置くこと → 「前もって仮定する・当然の前提とする」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "成立の土台として前提に置くこと → 「前提条件として必要とする」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "発話の土台として前提に置くこと → 「背景的な前提を含む」（語義3）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞】前もって仮定する・当然の前提とする",
+      "frequency": 5,
+      "register": [
+        "フォーマル。学術・論証・批評・前提の検討。頻度評点は学習上の目安で、コーパス実測値ではない。"
+      ],
+      "definition": "証明や検討を進める前に、あることが真実である、または存在するとして話や行動の土台に置くこと。人が前提を置く場合だけでなく、質問・理論・説明などが特定の前提を含んでいる場合にも使う。前提が正しいと確認されたことまでは意味しない。",
+      "patterns": [
+        "presuppose 〈事実・状態〉＝それを前提として置く",
+        "presuppose that 〈節〉＝その内容を前提とする",
+        "〈前提〉 + be presupposed in 〈議論・理論〉＝その議論などで前提とされる",
+        "not presuppose 〈内容〉＝そのことを前提としない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "presuppose that 〈節〉",
+          "use": "どのような内容を当然としているかを明示する。",
+          "example": "Your question presupposes that I agreed to the proposal, but I did not.",
+          "translation": "その質問は私が提案に同意したことを前提にしていますが、私は同意していません。"
+        },
+        {
+          "pattern": "presuppose 〈知識・状態〉",
+          "use": "説明する側などが、相手にある状態や知識が備わっているとみなす。",
+          "example": "The author presupposes some familiarity with economic terminology.",
+          "translation": "著者は、読者が経済用語にある程度なじんでいることを前提にしている。"
+        },
+        {
+          "pattern": "be presupposed in 〈議論・理論〉",
+          "use": "明示されていないこともある、議論の土台を取り上げる。",
+          "example": "Equal access to information is presupposed in the model, although real markets may differ.",
+          "translation": "そのモデルでは情報への平等なアクセスが前提とされているが、現実の市場は異なる可能性がある。"
+        },
+        {
+          "pattern": "not presuppose 〈内容〉",
+          "use": "ある仮定を先に置かずに検討することをいう。",
+          "example": "We should not presuppose a particular outcome when examining the evidence.",
+          "translation": "特定の結果を前提にせず、証拠を検討すべきだ。"
+        }
+      ],
+      "notes": [
+        "他動詞で、presuppose the existence of 〈対象〉のように名詞句を直接取る。presuppose about 〈内容〉を同じ意味の基本構文にはしない。that 節の that は内容を導くもので、目的語となる前提の中身を示す。質問や文が何かを前提としていることと、その話し手が意識的に嘘をついていることは別。presuppose は前提の置き方を説明する語であり、それだけで前提の誤り・真実・意図的なごまかしは決まらない。",
+        "言語分析で、発言・質問が背景として当然視する内容をいう専門用法については語義3も参照する。一般的に仮定を置くことと、文や発話の意味・使用上の性質は区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "assume",
+          "definition": "真実・存在を確認せず、そうだと仮定する。",
+          "frequency": 9,
+          "difference": "より一般的で広い。presuppose は、後続の議論や行動が依存する事前の土台という性質を強調する。",
+          "example": "We assumed that the figures had already been checked.",
+          "translation": "私たちは、数値はすでに確認済みだと考えていた。"
+        },
+        {
+          "word": "presume",
+          "definition": "状況などから、そうだろうとみなす。",
+          "frequency": 6,
+          "difference": "ある程度もっともらしいとみなす判断に使いやすい。presuppose は議論の構造に含まれる前提にも使い、根拠がもっともらしいかを必ず評価するわけではない。",
+          "example": "I presume the meeting is still scheduled for ten.",
+          "translation": "会議は引き続き10時の予定だと思っています。"
+        },
+        {
+          "word": "take for granted",
+          "definition": "当然のこととして受け入れる。",
+          "frequency": 8,
+          "difference": "日常的な表現で、意識せず当然だと思う場合にも使う。presuppose は論証や理論の前提を分析する硬い文脈に向く。",
+          "example": "We should not take it for granted that everyone has a reliable internet connection.",
+          "translation": "誰もが安定したインターネット接続を使えると、当然視してはいけない。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【動詞・他動詞】前提条件として必要とする",
+      "frequency": 4,
+      "register": [
+        "フォーマル。論理・制度・活動の成立条件。"
+      ],
+      "definition": "ある事柄が存在・成立するためには、別の事柄があらかじめ成り立っている必要があること。人が頭の中で仮定する語義1と異なり、事実上・論理上の必要条件の関係を表す。",
+      "patterns": [
+        "〈成立する事柄〉 + presuppose + 〈必要な条件〉＝その成立には条件が必要である",
+        "〈成立する事柄〉 + presuppose that 〈節〉＝その成立には節の内容が必要である。"
+      ],
+      "collocations": [
+        {
+          "pattern": "presuppose access to 〈資源〉",
+          "use": "活動のために、その資源が利用可能である必要をいう。",
+          "example": "Participation in the online session presupposes access to the required software.",
+          "translation": "そのオンライン会合に参加するには、指定のソフトウェアを利用できることが前提となる。"
+        },
+        {
+          "pattern": "presuppose 〈前提条件〉",
+          "use": "論理的・実際的な必要条件を示す。",
+          "example": "A valid comparison presupposes a common basis of measurement.",
+          "translation": "妥当な比較を行うには、共通の測定基準が前提となる。"
+        },
+        {
+          "pattern": "presuppose that 〈節〉",
+          "use": "必要条件を完全な節で明示する。",
+          "example": "Restoring the archived files presupposes that a readable backup exists.",
+          "translation": "保存されたファイルを復元するには、読み取り可能なバックアップが存在することが前提となる。"
+        }
+      ],
+      "notes": [
+        "A presupposes B では、BがAに必要な前提となる。Bがあれば必ずAが起きるという十分条件を述べているわけではない。また、単にBが時間的に先に起きるというだけでもない。The argument presupposes B. のような文では、議論がBを仮定している語義1と、議論の成立がBに依存するこの用法が重なることもある。文の主語が物なら必ず語義2、人なら必ず語義1という機械的な見分け方はしない。"
+      ],
+      "synonyms": [
+        {
+          "word": "require",
+          "definition": "成立や実行のために必要とする。",
+          "frequency": 9,
+          "difference": "必要性を広く表す。presuppose は、とりわけ先に成り立っているべき土台・条件という関係を示す。",
+          "example": "Entry to the laboratory requires special authorization.",
+          "translation": "研究室への入室には特別な許可が必要だ。"
+        },
+        {
+          "word": "depend on",
+          "definition": "成立・成功などが何かに依存する。",
+          "frequency": 9,
+          "difference": "条件や要因への依存を広く示す。presuppose は必要な前提としての依存を明示しやすく、単に程度が影響されるという意味にはしない。",
+          "example": "The system's reliability depends on regular maintenance.",
+          "translation": "そのシステムの信頼性は、定期的な保守にかかっている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞・他動詞】背景的な前提を含む",
+      "frequency": 3,
+      "register": [
+        "言語学・論理学・言語哲学。"
+      ],
+      "definition": "言語学・論理学・哲学で、文や発話が、主張そのものとは別の背景的な内容を前提としていること。文の真偽を論じたり、発話が文脈に適合していると考えたりする際の前提を指す。どのように扱うかには理論や文脈による違いがある。",
+      "patterns": [
+        "〈文・発話・質問〉 + presuppose that 〈節〉＝その内容を背景的前提として含む",
+        "〈表現〉 + presuppose + 〈命題・存在〉＝その内容を前提とする。"
+      ],
+      "collocations": [
+        {
+          "pattern": "〈文〉 + presuppose that 〈節〉",
+          "use": "文が表に述べる内容とは別に、背景として前提にする内容を説明する。",
+          "example": "The sentence \"Mia has stopped jogging\" presupposes that Mia used to jog.",
+          "translation": "「ミアはジョギングをやめた」という文は、ミアが以前ジョギングをしていたことを前提にしている。"
+        },
+        {
+          "pattern": "〈質問〉 + presuppose + 〈内容〉",
+          "use": "質問が、尋ねる前から成立しているものとして扱う内容を分析する。",
+          "example": "The question \"When did you return?\" normally presupposes the addressee's return.",
+          "translation": "「いつ戻ったのですか」という質問は、通常、相手が戻ったことを前提にしている。"
+        }
+      ],
+      "notes": [
+        "ある発話がPを presuppose することを、単にPが論理的結論として導かれる entail と同一視しない。たとえば、ジョギングをやめていないという否定文でも、以前していたという背景が残りうる。一方、前提が否定や質問の下で常にそのまま残るという絶対規則にもせず、文脈や構文に左右されることに注意する。ここでの主語は主に文・発話・表現であり、人が意図的に仮定を決める行為だけを指すわけではない。",
+        "一般語の assume と意味は近いが、この専門的な性質を厳密に論じるときには、別の語で無条件に置き換えない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}
