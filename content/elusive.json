@@ -1,0 +1,279 @@
+{
+  "word": "elusive",
+  "slug": "elusive",
+  "ipa": "米・英: /ɪˈluː.sɪv/",
+  "lead": "人や動物などが、探しても容易には見つからない、会えない、捕まらないことをいう。相手が意図的に身を隠している場合も、目撃の機会が少ないなどの事情による場合もある。人が表に出たがらないという文脈でも使うが、意図的な回避はすべての用例に共通する条件ではない。",
+  "updated": "2026-10-21",
+  "notion_url": "https://app.notion.com/p/elusive-4004faa9b77d817ebc11c4ea87c0dd68",
+  "pronunciation": [
+    "3音節で、第2音節に主強勢がある。第2音節の母音は長い /uː/。上の代表形では、第3音節の最初の子音は無声の /s/ であり、見出し動詞 elude の /d/ を残さない。辞書によっては、その子音を有声の /z/ とする変種も載せている。"
+  ],
+  "etymology": [
+    "ラテン語 eludere「かわす・逃れる」の過去分詞 elusus の系統と、形容詞を作る -ive に由来する。eludere は e-/ex-「外へ」と ludere「遊ぶ」に関係する。英語の elude「逃れる・理解などを免れる」と同じ語族で、allude「ほのめかす」と illusion「錯覚」も ludere にさかのぼる。ただし、同じ語源を共有することと、現代の意味が同じであることは別である。"
+  ],
+  "formation": [
+    {
+      "term": "elude",
+      "description": "他動詞。「人の追跡などを逃れる」「理解・記憶などに捉えられない」。目的語を直接取る動詞で、形容詞 elusive と文の形が異なる。"
+    },
+    {
+      "term": "elusiveness",
+      "description": "名詞・通常不可算。「見つけにくさ・捉えにくさ・得がたさ」。elusiveness of 〈対象〉で何の性質かを示せる。"
+    },
+    {
+      "term": "elusively",
+      "description": "副詞。「捉えどころなく・捉えにくい形で」。人の振る舞いや何かの現れ方を描写する。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "探したり、理解したり、手に入れようとしたりしても、容易には捉えられないこと。対象が存在しない、絶対に不可能だという意味ではなく、試みが簡単には実を結ばない性質を表す。"
+    },
+    {
+      "type": "item",
+      "text": "捉えにくさが発見や捕獲に現れる場合 → 「見つけにくい・捕まえにくい」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "捉えにくさが理解や記憶に現れる場合 → 「理解しにくい・思い出しにくい」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "捉えにくさが目標の達成に現れる場合 → 「達成しにくい・なかなか得られない」（語義3）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【形容詞】見つけにくい・捕まえにくい",
+      "frequency": 5,
+      "register": [
+        "報道・自然や人物の描写・一般的な文章。この記事の頻度評点は学習上の目安で、コーパス実測値ではない。"
+      ],
+      "definition": "人や動物などが、探しても容易には見つからない、会えない、捕まらないことをいう。相手が意図的に身を隠している場合も、目撃の機会が少ないなどの事情による場合もある。人が表に出たがらないという文脈でも使うが、意図的な回避はすべての用例に共通する条件ではない。",
+      "patterns": [
+        "an elusive animal＝見つけにくい動物",
+        "an elusive suspect＝なかなか捕まらない容疑者",
+        "an elusive writer＝人前にあまり姿を見せない作家",
+        "remain elusive＝見つからない・捕まらない状態が続く",
+        "notoriously elusive＝見つけにくいことでよく知られた。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an elusive animal",
+          "use": "生息していても、容易に観察できない動物を指す。",
+          "example": "The cameras captured the first clear image of the elusive animal in this forest.",
+          "translation": "カメラは、この森ではなかなか姿を捉えられないその動物の、初めての鮮明な画像を撮影した。"
+        },
+        {
+          "pattern": "an elusive suspect",
+          "use": "追跡していても発見や確保に至らない容疑者をいう。",
+          "example": "Police searched several towns for the elusive suspect.",
+          "translation": "警察は、行方をつかめない容疑者を捜して複数の町を捜索した。"
+        },
+        {
+          "pattern": "an elusive writer",
+          "use": "人前に出る機会が少なく、面会などの機会を得にくい作家を描写する。",
+          "example": "The elusive writer declined interviews and rarely appeared at public events.",
+          "translation": "そのなかなか姿を見せない作家は、取材を断り、公の催しにもめったに出席しなかった。"
+        },
+        {
+          "pattern": "remain elusive",
+          "use": "探索が続いても対象が見つからないことを示す。",
+          "example": "Despite weeks of searching, the missing cat remained elusive.",
+          "translation": "何週間も捜したが、行方不明の猫は依然として見つからなかった。"
+        },
+        {
+          "pattern": "notoriously elusive",
+          "use": "多くの人にとって発見や観察が難しいことを強調する。",
+          "example": "The species is notoriously elusive, so sightings are carefully documented.",
+          "translation": "その種は姿を捉えにくいことで知られているため、目撃例は注意深く記録されている。"
+        }
+      ],
+      "notes": [
+        "名詞の前にも、be・remain・prove の後にも置ける。elusive だけから、珍しい種・絶滅危惧種・実在しない生物と判断しない。個体数が多くても、隠れて活動すれば観察しにくいことがある。",
+        "人について使う場合、連絡がつきにくい・人前に出ないという意味にもなる。ただし「一人でいることが好き」という性格だけを言いたいなら reclusive などとの違いを考える。elusive の焦点は、他者がその人を捉えにくいことにある。"
+      ],
+      "synonyms": [
+        {
+          "word": "evasive",
+          "definition": "相手の追跡・接近などをかわすような。",
+          "frequency": 4,
+          "difference": "回避する動きや態度に焦点がある。elusive は結果として見つけにくい・捕まえにくい性質をいうため、必ずしも意図的な回避を含まない。",
+          "example": "The driver made several evasive maneuvers to avoid the pursuing vehicle.",
+          "translation": "運転手は、追ってくる車をかわすために何度か回避行動を取った。"
+        },
+        {
+          "word": "reclusive",
+          "definition": "人との交流や公の場を避け、一人で過ごす傾向のある。",
+          "frequency": 4,
+          "difference": "人の暮らし方や対人関係について述べる。人前に出ない人物の文脈では elusive と重なるが、捕まえにくい動物一般の言い換えではない。",
+          "example": "The reclusive artist lived far from the city and rarely received visitors.",
+          "translation": "人付き合いを避けて暮らすその芸術家は、都会から遠く離れた所に住み、来客を迎えることもめったになかった。"
+        },
+        {
+          "word": "slippery",
+          "definition": "捕まえたり、責任を認めさせたりするのが難しい。",
+          "frequency": 4,
+          "difference": "この比喩義では、うまく逃げたり言い逃れしたりする人物への不信を伴いやすい。elusive は、単に接触や発見が難しい人物にも使える。",
+          "example": "The slippery fraudster repeatedly escaped investigators' attempts to question him.",
+          "translation": "その巧みに逃げ回る詐欺師は、捜査員による事情聴取の試みを何度もかわした。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【形容詞】理解しにくい・思い出しにくい",
+      "frequency": 5,
+      "register": [
+        "説明・評論・学術的な文章・記憶や感覚の描写。"
+      ],
+      "definition": "意味・性質・感覚・記憶などを、理解したり明確に言い表したり思い出したりするのが難しいこと。対象が曖昧な場合だけでなく、複雑さや微妙さのために明確に捉えられない場合にも使う。",
+      "patterns": [
+        "an elusive concept＝理解しにくい概念",
+        "an elusive quality＝明確に言い表しにくい性質",
+        "an elusive memory＝はっきり思い出せない記憶",
+        "remain elusive＝理解や特定が難しいままである",
+        "frustratingly elusive＝もどかしいほど捉えにくい。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an elusive concept",
+          "use": "抽象的で境界や内容を簡単にはつかめない概念をいう。",
+          "example": "The essay explores the elusive concept of authenticity in art.",
+          "translation": "その論考は、芸術における真正性という捉えにくい概念を検討している。"
+        },
+        {
+          "pattern": "an elusive quality",
+          "use": "感じ取れても正確に説明しにくい特徴を描写する。",
+          "example": "Her voice has an elusive quality that listeners describe in very different ways.",
+          "translation": "彼女の声には捉えどころのない持ち味があり、聴き手によってその表現の仕方は大きく異なる。"
+        },
+        {
+          "pattern": "an elusive memory",
+          "use": "思い出しかけても細部や全体像がつかめない記憶をいう。",
+          "example": "An elusive memory of the room returned whenever he heard that melody.",
+          "translation": "その旋律を聴くたびに、彼にはその部屋についての、はっきりとはつかめない記憶がよみがえった。"
+        },
+        {
+          "pattern": "remain elusive",
+          "use": "調べたり考えたりしても内容を十分には理解できないことを示す。",
+          "example": "The exact meaning of the final sentence remained elusive after several readings.",
+          "translation": "何度か読み返しても、最後の文の正確な意味はつかめないままだった。"
+        },
+        {
+          "pattern": "frustratingly elusive",
+          "use": "思い出せないことや特定できないことへのもどかしさを添える。",
+          "example": "The name of the person who introduced us was frustratingly elusive.",
+          "translation": "私たちを紹介してくれた人の名前がどうしても思い出せず、もどかしかった。"
+        }
+      ],
+      "notes": [
+        "elusive meaning は「つかみにくい意味」であり、「意味が存在しない」とは限らない。また、elusive explanation は説明そのものが分かりにくいのか、満足のいく説明がなかなか得られないのかが文脈で変わる。後者は語義3に近い。",
+        "elusive と illusive、allusive を区別する。illusive は錯覚・幻のような性質、allusive は別のものをほのめかす性質を表す。理解しにくいからといって、必ず錯覚であったり何かを暗示していたりするわけではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "subtle",
+          "definition": "微妙で、違いや性質に気づいたり説明したりしにくい。",
+          "frequency": 6,
+          "difference": "違いや表現の細かさ・目立たなさに焦点がある。elusive は、理由を限定せず、理解や言語化の試みで捉えにくいことをいう。",
+          "example": "The two versions differ in subtle but important ways.",
+          "translation": "二つの版には、微妙ではあるが重要な違いがある。"
+        },
+        {
+          "word": "intangible",
+          "definition": "具体的に捉えたり、測ったりしにくい。",
+          "frequency": 5,
+          "difference": "形や明確な測定対象として扱いにくいことに重点がある。elusive は記憶や意味を思い出す・理解する難しさにも使う。",
+          "example": "The team benefited from an intangible sense of mutual trust.",
+          "translation": "チームは、形には表しにくい相互の信頼感から恩恵を受けた。"
+        },
+        {
+          "word": "obscure",
+          "definition": "意味や内容が明確でなく、理解しにくい。",
+          "frequency": 5,
+          "difference": "説明や表現が不明瞭であることを述べやすい。elusive は、文章が明瞭でも、扱う概念の難しさなどにより理解しきれない場合に使える。",
+          "example": "The reference was too obscure for readers unfamiliar with the period.",
+          "translation": "その言及は、その時代に詳しくない読者には分かりにくすぎた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【形容詞】達成しにくい・なかなか得られない",
+      "frequency": 5,
+      "register": [
+        "報道・仕事・研究・スポーツ・目標達成についての文章。"
+      ],
+      "definition": "目標・成果・解決策などが、努力して求めても容易には達成・獲得できないこと。価値のある対象について使われることが多いが、その対象が絶対に実現不可能であるとは限らない。",
+      "patterns": [
+        "an elusive goal＝なかなか達成できない目標",
+        "an elusive solution＝なかなか得られない解決策",
+        "an elusive victory＝なかなか手にできない勝利",
+        "remain elusive＝得られない状態が続く",
+        "prove elusive＝簡単には得られないと分かる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an elusive goal",
+          "use": "追求しているが実現に届かない目標をいう。",
+          "example": "Lasting peace remained an elusive goal despite years of negotiations.",
+          "translation": "何年も交渉を重ねたが、恒久的な平和は依然として達成困難な目標だった。"
+        },
+        {
+          "pattern": "an elusive solution",
+          "use": "問題の解決を試みても、有効な方法がなかなか見つからないことを示す。",
+          "example": "The engineers tested another approach in their search for an elusive solution.",
+          "translation": "技術者たちは、なかなか見つからない解決策を求めて、別の方法を試した。"
+        },
+        {
+          "pattern": "an elusive victory",
+          "use": "勝利を目指し続けても達成できていない状況を表す。",
+          "example": "The team finally secured the elusive victory in the last match of the season.",
+          "translation": "チームはシーズン最後の試合で、待ち望んでいた勝利をついに手にした。"
+        },
+        {
+          "pattern": "remain elusive",
+          "use": "努力しても結果が得られていない状態が続くことをいう。",
+          "example": "Consistent profitability remained elusive despite the increase in sales.",
+          "translation": "売上は増えたものの、安定した黒字の確保は依然として難しかった。"
+        },
+        {
+          "pattern": "prove elusive",
+          "use": "経験や経過を通じて、達成が難しいと分かることをいう。",
+          "example": "A compromise acceptable to both sides proved elusive.",
+          "translation": "双方が受け入れられる妥協案は、なかなか見いだせなかった。"
+        }
+      ],
+      "notes": [
+        "finally achieved an elusive goal のように、最終的に達成した対象にも使える。達成前の得がたさを述べているので、矛盾とは限らない。impossible「不可能な」と一律に訳さない。",
+        "対照表現として、hard-won は苦労の末にすでに得たこと、attainable は達成の可能性があることを示す。どちらも elusive の単純な反意語ではない。達成可能な目標でも、長い間なかなか達成できないことはある。",
+        "Success remained elusive は形容詞を補語にした文で、「成功はなかなか得られなかった」。Success eluded them は動詞 elude が them を目的語に取る文で、「彼らは成功をつかめなかった」。elusive 自体は動詞ではない。上のように主語の状態を述べる場合は、be・remain などの動詞に続けて補語として使う。"
+      ],
+      "synonyms": [
+        {
+          "word": "unattainable",
+          "definition": "達成したり到達したりすることができない。",
+          "frequency": 4,
+          "difference": "到達不可能であることを明確に示す。elusive は努力してもなかなか達しないことをいうが、後に達成される可能性を排除しない。",
+          "example": "The original target became unattainable after the budget was cut.",
+          "translation": "予算が削減された後、当初の目標は達成不可能になった。"
+        },
+        {
+          "word": "out of reach",
+          "definition": "現在の条件や能力では手が届かない。",
+          "frequency": 6,
+          "difference": "資金・能力・状況などによる到達可能性の低さを表す。elusive は、達成を試みても容易に捉えられない対象の性質に焦点がある。",
+          "example": "Home ownership remained out of reach for many young workers.",
+          "translation": "多くの若い働き手にとって、持ち家の取得は依然として手の届かないものだった。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
