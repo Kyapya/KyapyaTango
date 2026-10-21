@@ -1,0 +1,112 @@
+{
+  "word": "expunge",
+  "slug": "expunge",
+  "ipa": "米・英: /ɪkˈspʌndʒ/",
+  "lead": "記録・文書から情報を取り除いたり、痕跡や記憶などを消し去ったりすること。さらに、反対勢力などを完全に排除・一掃することにも使う。残さないように取り除くという強い表現で、単に訂正の注記を付けることとは異なる。",
+  "updated": "2026-10-21",
+  "notion_url": "https://app.notion.com/p/expunge-4004faa9b77d81baa07efe8732b66410",
+  "pronunciation": [
+    "上の代表形は2音節で、第2音節に主強勢がある。語末は /dʒ/。過去形 expunged は /ɪkˈspʌndʒd/ で、通常は新しい音節を加えない。ここでは米英に共通して使える代表形を示す。"
+  ],
+  "etymology": [
+    "ラテン語 expungere に由来し、ex-「外へ」と pungere「刺す」に関係する。削除対象の文字に点を打って消す印を付けることから、記録などを除去する意味につながる。puncture「穴を開けること」と pungent「刺激の強い」も pungere の語源群に属する。現代では実際に点を打つ操作を必要としない。"
+  ],
+  "formation": [
+    {
+      "term": "expunges / expunged / expunging",
+      "description": "三人称単数・過去形および過去分詞・現在分詞。-ing の前で語末の e を落とす。"
+    },
+    {
+      "term": "expungement / expunction",
+      "description": "名詞。「抹消・削除」。法律での手続き名や扱う対象は法域によって異なる。"
+    },
+    {
+      "term": "expunger",
+      "description": "抹消する人やものを表す名詞。"
+    }
+  ],
+  "core": [],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞】抹消する・消し去る",
+      "frequency": 3,
+      "register": [
+        "フォーマル・記録管理・法律・文学的な描写。頻度評点は学習上の目安で、コーパス実測値ではない。"
+      ],
+      "definition": "記録・文書から情報を取り除いたり、痕跡や記憶などを消し去ったりすること。さらに、反対勢力などを完全に排除・一掃することにも使う。残さないように取り除くという強い表現で、単に訂正の注記を付けることとは異なる。",
+      "patterns": [
+        "expunge 〈勢力など〉＝勢力などを完全に排除する",
+        "expunge 〈情報〉 from 〈記録〉＝記録から情報を抹消する",
+        "expunge a conviction＝有罪判決の記録を法的に抹消する",
+        "expunge 〈記憶〉 from one's mind＝記憶を心から消し去る",
+        "be expunged from 〈記録〉＝記録から抹消される。"
+      ],
+      "collocations": [
+        {
+          "pattern": "expunge 〈勢力など〉",
+          "use": "記録ではなく、ある勢力や存在そのものを排除することをいう。",
+          "example": "The regime tried to expunge all organized opposition from public life.",
+          "translation": "その政権は、公的な活動の場からあらゆる組織的な反対勢力を排除しようとした。"
+        },
+        {
+          "pattern": "expunge 〈情報〉 from 〈記録〉",
+          "use": "情報を記録から削除することをいう。",
+          "example": "The editor expunged the unsupported allegation from the final report.",
+          "translation": "編集者は、裏付けのない疑惑の記述を最終報告書から削除した。"
+        },
+        {
+          "pattern": "expunge a conviction",
+          "use": "法律上の手続きを通じた犯罪記録の抹消をいう。",
+          "example": "The court granted her application to expunge the conviction under the applicable state law.",
+          "translation": "裁判所は、適用される州法に基づき、彼女の有罪判決の記録を抹消する申立てを認めた。"
+        },
+        {
+          "pattern": "expunge 〈記憶〉 from one's mind",
+          "use": "不快な経験などを心から消すという強い比喩に使う。",
+          "example": "He could not expunge the memory of that conversation from his mind.",
+          "translation": "彼は、あの会話の記憶を心から消し去ることができなかった。"
+        },
+        {
+          "pattern": "be expunged from 〈記録〉",
+          "use": "削除される情報を主語として述べる。",
+          "example": "The incorrect entry was expunged from the register after the error was confirmed.",
+          "translation": "誤りが確認された後、その不正確な記載は台帳から抹消された。"
+        }
+      ],
+      "notes": [
+        "取り除く対象を直接目的語に置き、元の場所や記録は from で示す。expunge A from B は Aを消すのであって、Bという記録全体を必ず破棄する意味ではない。",
+        "法的な expungement が、あらゆる機関のデータの物理的消去や、すべての申告義務の消滅を保証するとは限らない。対象記録・閲覧制限・抹消の効果は法域や制度に従う。seal「閲覧を制限する」とも常に同義ではない。",
+        "記憶について使う場合は比喩であり、記憶を科学的・医学的に消せるという主張ではない。単に忘れる forget より、取り除こうとする働きかけや完全に消すという含みが強い。"
+      ],
+      "synonyms": [
+        {
+          "word": "delete",
+          "definition": "文字やデータなどを削除する。",
+          "frequency": 7,
+          "difference": "コンピューター操作などに広く使う一般語。expunge は改まった抹消や痕跡の除去を強調する。",
+          "example": "Delete the duplicate paragraph before sending the document.",
+          "translation": "文書を送る前に、重複した段落を削除してください。"
+        },
+        {
+          "word": "erase",
+          "definition": "文字・記録・跡などを消す。",
+          "frequency": 6,
+          "difference": "消しゴムなどの物理的な操作にも自然。expunge は記録からの正式な削除などを硬く表す。",
+          "example": "The rain erased the footprints in the sand.",
+          "translation": "雨が砂の上の足跡を消した。"
+        },
+        {
+          "word": "obliterate",
+          "definition": "原形や跡が分からなくなるほど完全に消し去る。",
+          "frequency": 3,
+          "difference": "破壊によって消滅させる強さがあり、建物などにも使う。expunge も完全な除去を表すが、情報や記録からの抹消にも広く使う。",
+          "example": "The explosion obliterated the small building.",
+          "translation": "爆発によって、その小さな建物は跡形もなく破壊された。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

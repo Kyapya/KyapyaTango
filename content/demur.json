@@ -1,0 +1,172 @@
+{
+  "word": "demur",
+  "slug": "demur",
+  "ipa": "米: /dɪˈmɜːr/｜英: /dɪˈmɜː/",
+  "lead": "提案・要求・主張などをそのまま受け入れず、反対や留保を示すこと。反対して断る場合にも、同意することに難色を示す場合にも使う。必ず弱い反対・丁寧な反対だという意味ではない。",
+  "updated": "2026-10-21",
+  "notion_url": "https://app.notion.com/p/demur-4004faa9b77d81f39af7cced8cca7c8d",
+  "pronunciation": [
+    "2音節で、第2音節に強勢がある。上の代表形では、第2音節の母音の後の /r/ を米で発音し、英では発音しない。名詞と動詞で強勢を移動させない。"
+  ],
+  "etymology": [
+    "古フランス語の demourer「とどまる」などを経て、ラテン語 demorari にさかのぼる。後者は morari「遅れる・とどまる」、mora「遅延」に関係する。古くはとどまる・遅らせるという意味もあったが、現代の中心は、簡単には同意せず異議や留保を示すことである。"
+  ],
+  "formation": [
+    {
+      "term": "demurs / demurred / demurring",
+      "description": "三人称単数・過去形および過去分詞・現在分詞。過去形と -ing 形では r を重ねる。"
+    },
+    {
+      "term": "demurrer",
+      "description": "名詞・可算。法律では、訴答書面の法的な不備を争う申立てなどを指す。普通の異議を表す名詞 demur と用途を区別する。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "提案や主張をそのまま受け入れず、異議や留保を示すこと。一般の会話では反対の態度、名詞ではその異議、法律では特定の手続きによる異議として現れる。"
+    },
+    {
+      "type": "item",
+      "text": "受入れに対する異議を行動として示すこと → 「異議を唱える・難色を示す」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "受入れに対する異議や留保そのもの → 「異議・不服・ためらい」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "受入れに対する異議を法的手続きで示すこと → 「法的な不備を理由に異議を申し立てる」（語義3）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・自動詞／発言引用】異議を唱える・難色を示す",
+      "frequency": 3,
+      "register": [
+        "フォーマル・報道・評論・文学的な会話描写。頻度評点は学習上の目安であり、コーパス実測値ではない。"
+      ],
+      "definition": "提案・要求・主張などをそのまま受け入れず、反対や留保を示すこと。反対して断る場合にも、同意することに難色を示す場合にも使う。必ず弱い反対・丁寧な反対だという意味ではない。",
+      "patterns": [
+        "〈人〉 + demur＝異議を唱える",
+        "demur to 〈提案〉＝提案に異議を唱える",
+        "demur at 〈要求など〉＝要求などに難色を示す",
+        "「発言内容」, someone demurred＝誰かがそう異議を述べた。"
+      ],
+      "collocations": [
+        {
+          "pattern": "〈人〉 + demur",
+          "use": "対象が分かっている場面で、同意しなかったことを簡潔に述べる。",
+          "example": "Most members supported the plan, but the treasurer demurred.",
+          "translation": "大半の会員は計画を支持したが、会計担当者は異議を唱えた。"
+        },
+        {
+          "pattern": "demur to 〈提案〉",
+          "use": "異議の対象となる提案や主張を示す。",
+          "example": "She demurred to the suggestion that the missing data could simply be ignored.",
+          "translation": "彼女は、欠けているデータをそのまま無視すればよいという提案に異議を唱えた。"
+        },
+        {
+          "pattern": "demur at 〈要求など〉",
+          "use": "負担や条件を受け入れることに難色を示す。",
+          "example": "The supplier demurred at the request to double production within a week.",
+          "translation": "納入業者は、一週間以内に生産を倍増するよう求められ、難色を示した。"
+        },
+        {
+          "pattern": "「発言内容」, someone demurred",
+          "use": "引用した発言が反対や留保であることを示す。",
+          "example": "\"That would leave us with no reserve funds,\" she demurred.",
+          "translation": "「それでは予備資金がなくなってしまいます」と、彼女は異議を述べた。"
+        }
+      ],
+      "notes": [
+        "中心は自動詞で、対象を明示するときは to や at などを伴う。発言引用を扱う用法もあるが、それだけで任意の名詞を直接目的語として取れると考えない。object to a proposal と同様、基本形の前置詞を含めて覚える。",
+        "単に考えて返答を遅らせたことが、必ず demur ではない。現代の中心用法では、反対や受け入れ難さが含まれる。「少し考えてから同意した」と「異議を示した」は区別する。古い「とどまる・遅延する」という動詞義は、現代一般の基本として使わない。",
+        "demure「控えめな・慎ましやかな」は形容詞であり、demur の綴り変異ではない。She demurred. は「彼女は異議を唱えた」、She was demure. は「彼女は控えめだった」で、文の構造も意味も違う。"
+      ],
+      "synonyms": [
+        {
+          "word": "object",
+          "definition": "提案や行為に反対する。",
+          "frequency": 7,
+          "difference": "より一般的で明確な反対表現。demur は硬い文章で、受け入れず異議や留保を示すことを述べる。",
+          "example": "Several residents objected to the change in opening hours.",
+          "translation": "数名の住民が、開館時間の変更に反対した。"
+        },
+        {
+          "word": "dissent",
+          "definition": "多数派や公式の見解と異なる意見を持つ、または示す。",
+          "frequency": 4,
+          "difference": "合意や多数意見との不一致に焦点がある。demur は個別の要求や提案に難色を示す場合にも使える。",
+          "example": "Two members dissented from the committee's conclusion.",
+          "translation": "二人の委員は、委員会の結論に異を唱えた。"
+        },
+        {
+          "word": "balk",
+          "definition": "障害や負担を感じて、行動や受入れをためらう・拒む。",
+          "frequency": 3,
+          "difference": "ためらって動かないことや受入れ拒否を強調し、balk at の形を取る。demur は異議や留保を示す側面が中心で、必ず行動を中止するとは限らない。",
+          "example": "The client balked at paying the entire fee in advance.",
+          "translation": "顧客は、料金全額を前払いすることに難色を示した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・通常不可算】異議・不服・ためらい",
+      "frequency": 2,
+      "register": [
+        "フォーマル・文学的な記述。"
+      ],
+      "definition": "受け入れることへの異議や留保、難色を示す態度。とくに without demur「異議を唱えずに」という形で使われる。ここでのためらいは、単なる動作の遅さより、受入れへの留保に関係する。",
+      "patterns": [
+        "without demur＝異議を唱えずに",
+        "accept something without demur＝異議なく受け入れる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "accept something without demur",
+          "use": "要求や決定に不服を述べず応じることをいう。",
+          "example": "He accepted the revised timetable without demur.",
+          "translation": "彼は、修正された日程を異議なく受け入れた。"
+        }
+      ],
+      "notes": [
+        "without demur は冠詞なしの不可算名詞として覚える。ただし、個々の異議を表す可算用法や複数形 demurs もあるため、複数形が存在しないと断定しない。",
+        "without demur は異議を表さなかったことであり、心から喜んでいたことまで保証しない。普通の説明なら without objection も使える。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞・自動詞】法的な不備を理由に異議を申し立てる",
+      "frequency": 1,
+      "register": [
+        "法律・訴訟手続き。制度の有無や要件は法域による。"
+      ],
+      "definition": "demurrer と呼ばれる手続きで、訴状などの訴答書面に法的な不備があると申し立てること。例えば米国カリフォルニアの民事訴訟では、訴状の記載が法的な請求として十分かどうかを争う用法がある。法廷で何らかの異議を述べる行為すべてを指すわけではない。",
+      "patterns": [
+        "demur to a complaint＝訴状の法的な不備を争う",
+        "demur on the ground that 〈節〉＝～を理由としてこの手続き上の異議を申し立てる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "demur to a complaint",
+          "use": "訴状の法的な十分性を争う手続きを述べる。",
+          "example": "In the California case, the defendant demurred to the complaint on the ground that it failed to state a cause of action.",
+          "translation": "そのカリフォルニアの事件で、被告は、訴状が請求原因を十分に記載していないとして、法的な不備を争う申立てを行った。"
+        }
+      ],
+      "notes": [
+        "この用法を、証拠の真偽を争うことや、相手の発言へ一般的な objection を述べることと同一視しない。一般的な demurrer の審査では、適切に記載された事実を前提として法的な十分性を検討するため、事実を立証できたという判断とは別である。",
+        "現代の手続き名としては demurrer を確認する。一般名詞 demur「異議」と機械的に置き換えず、具体的な国・州・裁判制度の用語と規則に従って読む。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}
