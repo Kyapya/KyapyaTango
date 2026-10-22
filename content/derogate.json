@@ -1,0 +1,231 @@
+{
+  "word": "derogate",
+  "slug": "derogate",
+  "ipa": "動詞の米・英: /ˈderəɡeɪt/",
+  "lead": "人や業績などを低く評価し、価値を下げるように扱う。",
+  "updated": "2026-10-22",
+  "notion_url": "https://app.notion.com/p/derogate-4014faa9b77d8118aea6f682d0128c04",
+  "pronunciation": [
+    "動詞の別表記: /ˈdɛrəˌɡeɪt/",
+    "古い形容詞の英国辞書表記: /ˈdɛrəɡɪt/、/ˈdɛrəˌɡeɪt/",
+    "いずれも3音節で第1音節に主強勢がある。第1音節の /e/ と /ɛ/ は異なる辞書の転写法を含む差で、英米の話者差へ直結させない。第2音節の弱母音 /ə/ は共通する。動詞の第3音節は /ɡeɪt/ で、別表記ではここに副強勢も示す。古い形容詞には第3音節が /ɡɪt/ の形もあり、動詞の /eɪ/ をすべてに移さない。"
+  ],
+  "etymology": [
+    "ラテン語 derogare にさかのぼり、de-「離して」と rogare「尋ねる・法案を提案する」の系列に関係する。法の一部を取り除く・効力を限定する由来と、価値を減ずる意味につながりがある。",
+    "同根語には interrogate「尋問する」と arrogate「権利などを不当に自分に帰する」がある。現代英語の de と rogate を単純に足せば、すべての意味がそのまま決まるという説明にはしない。"
+  ],
+  "formation": [
+    {
+      "term": "derogates / derogated / derogating",
+      "description": "三人称単数現在／過去形・過去分詞／-ing形。-ing の前で e を落とす。"
+    },
+    {
+      "term": "derogation",
+      "description": "関連名詞。価値を減ずることや、法律上の適用除外などを文脈に応じて表す。"
+    },
+    {
+      "term": "derogatory / derogative",
+      "description": "関連形容詞。特に derogatory は人をけなす・価値を低める意味で使われる。すべての法的用法を侮辱の意味へ移さない。"
+    },
+    {
+      "term": "derogatorily / derogatively",
+      "description": "関連副詞。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "保たれる価値・基準・効力から、何かを減じたり外れたりする方向が共通する。人を低く評価することと、法的に通常の適用を限定することは別であり、すべてを違法行為や侮辱として読まない。"
+    },
+    {
+      "type": "item",
+      "text": "評価から価値を減じる低評価 → 「けなす・低く評価する」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "本来の価値を減じる損失 → 「価値・評価を損なう」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "基準から離れて価値を減じる逸脱 → 「基準・原則から逸脱する」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "通常の適用を減じる例外 → 「義務・規則の通常適用から外れる」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "法の適用範囲を減じる限定 → 「法令の適用範囲を縮める」（語義5）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞T】けなす・低く評価する",
+      "frequency": 2,
+      "register": [
+        "改まった言動の記述。この他動詞をまれとする米語辞書もある。頻度は学習上の目安で、実測値ではない。"
+      ],
+      "definition": "人や業績などを低く評価し、価値を下げるように扱う。",
+      "patterns": [
+        "derogate someone's achievements＝誰かの業績をけなす。"
+      ],
+      "collocations": [
+        {
+          "pattern": "derogate someone's achievements",
+          "use": "業績を不当に低く評価する言動をいう。",
+          "example": "The reviewer tried to derogate her achievements rather than assess them fairly.",
+          "translation": "その評者は、彼女の業績を公平に評価するよりも、けなそうとした。"
+        }
+      ],
+      "notes": [
+        "他動詞で、人や業績などを直接目的語にする。受動態は通常の他動詞として文法上作れるが、この枝固有の受動実例は本稿では未確認。固定した再帰熟語、二重目的語、to 不定詞・that 節の目的語、目的語補語は確認していない。",
+        "from を伴う語義2〜4とは構造を分ける。Oxford の formal、Collins の一部米語欄の rare、無標の辞書記述を、同一の頻度判断として合成しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "disparage",
+          "definition": "人や物の価値を低く言う・けなす。",
+          "frequency": 4,
+          "difference": "この他動詞義に近い。derogate の法的な適用除外の意味まで、単に相手をけなす意味へ置き換えるものではない。",
+          "example": "He disparaged the project without examining the results.",
+          "translation": "彼は、成果を検討せずにその計画をけなした。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "praise",
+          "definition": "よい点を認めて褒める。",
+          "frequency": 7,
+          "difference": "評価を下げるか、よい点を認めるかという軸で対照になる。すべての法的用法の反対を表すわけではない。",
+          "example": "The panel praised the quality of her work.",
+          "translation": "審査員たちは、彼女の仕事の質を褒めた。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【動詞I】価値・評価を損なう",
+      "frequency": 1,
+      "register": [
+        "改まった評価・影響の記述。"
+      ],
+      "definition": "ある物事の価値、評価、権威などを減じる。",
+      "patterns": [
+        "derogate from something＝何かの価値を損なう。"
+      ],
+      "collocations": [
+        {
+          "pattern": "derogate from someone's reputation",
+          "use": "ある事情が評判を損なうことを述べる。",
+          "example": "The minor error did not derogate from her reputation for accuracy.",
+          "translation": "その小さな誤りは、正確だという彼女の評判を損なわなかった。"
+        }
+      ],
+      "notes": [
+        "自動詞に from + 価値・評価などを添える型。from の後ろの名詞句を、動詞の直接目的語とは呼ばない。人の発言だけでなく、誤りや欠点などの事情も主語になる。通常の直接目的語を取る型の受動態へ機械的に変えない。固定した再帰構文や二重目的語は確認していない。",
+        "人がけなす語義1と、ある事情が価値を減ずるこの語義は、意味が関連していても主語と構文が異なる。法律の文章でも、from 型が権利を損なう意味を表すことがあり、常に語義4の例外措置を意味するわけではない。欧州人権条約53条では、既存の人権を損なうように解釈しないという文脈で使われる。用語確認の根拠: https://www.echr.coe.int/documents/d/echr/convention%5Feng"
+      ],
+      "synonyms": [
+        {
+          "word": "detract from",
+          "definition": "よさや価値を損なう。",
+          "frequency": 5,
+          "difference": "同じく from の後ろに損なわれる対象を置く。derogate from の法的な適用除外まで、すべて同じ意味で使えるわけではない。",
+          "example": "The awkward ending detracted from an otherwise excellent performance.",
+          "translation": "ぎこちない結末が、それ以外は優れた演技のよさを損なった。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞I】基準・原則から逸脱する",
+      "frequency": 1,
+      "register": [
+        "改まった・文語的な原則や振る舞いの記述。"
+      ],
+      "definition": "守るべき基準・原則から外れたり、自分の立場にふさわしくない振る舞いをしたりする。",
+      "patterns": [
+        "derogate from one's principles＝自分の原則から逸脱する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "derogate from one's principles",
+          "use": "守ってきた原則から外れることをいう。",
+          "example": "She refused to derogate from the principles she had defended for years.",
+          "translation": "彼女は、長年擁護してきた原則から逸脱することを拒んだ。"
+        }
+      ],
+      "notes": [
+        "自動詞で、from が基準や原則を示せる。意味上「自分を低める」と訳せても、derogate oneself を必須の再帰構文として作らない。from 句を伴う型に、普通の直接目的語受動を機械的に付けない。固定の二重目的語・目的語補語は確認していない。",
+        "価値が損なわれる語義2と重なる場面はあるが、この読み方では基準から外れる振る舞いに焦点を置く。"
+      ],
+      "synonyms": [
+        {
+          "word": "deviate from",
+          "definition": "基準や方針などから外れる。",
+          "frequency": 5,
+          "difference": "逸脱を比較的中立にも述べる。derogate には、立場にふさわしくない・保つべき水準から下がるという評価を伴う枝がある。",
+          "example": "The team deviated from the original plan when conditions changed.",
+          "translation": "状況が変わったとき、そのチームは当初の計画から外れた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞I】義務・規則の通常適用から外れる",
+      "frequency": 1,
+      "register": [
+        "改まった責務の記述、特に法律。"
+      ],
+      "definition": "義務や規則の通常の適用から離れる。法律では、一定の範囲で例外措置・適用除外を行うこともいう。",
+      "patterns": [
+        "derogate from obligations＝義務の通常適用から外れる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "derogate from obligations",
+          "use": "法律上の例外措置などを述べる。",
+          "example": "The convention allows states to derogate from certain obligations under specified conditions.",
+          "translation": "その条約は、定められた条件のもとで、締約国が一定の義務から適用除外措置を取ることを認めている。"
+        }
+      ],
+      "notes": [
+        "国や措置などを主語とし、from + 義務・規則を伴う自動詞の型。Oxford は derogate from を phrasal verb として掲載するが、from を取る前置詞型であり、目的語を途中へ移す分離可能な粒子構文とはしない。通常の直接目的語受動へ機械的に変えない。固定の再帰熟語は確認していない。",
+        "責務を無視するという含みの文脈もあるが、法律では適法な例外措置もあり、常に「違法に義務を破る」とは訳さない。また、法全体を廃止する abrogate / repeal と同じではない。",
+        "欧州人権条約15条の資料には、制約・監督を伴う例外措置として from obligations の実例がある。例外が認められる条件や範囲は制度ごとに確認し、単語の意味だけから無制限の免除があると判断しない。用語確認の根拠: https://ks.echr.coe.int/documents/d/echr-ks/guide%5Fart%5F15%5Feng-pdf"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【動詞T】法令の適用範囲を縮める",
+      "frequency": 1,
+      "register": [
+        "法律。主に辞書で区別される他動詞の枝。"
+      ],
+      "definition": "法令の適用や効力の範囲を狭めるという他動詞の用法。",
+      "patterns": [
+        "derogate a law＝法の適用範囲を縮める。"
+      ],
+      "collocations": [
+        {
+          "pattern": "to derogate a law",
+          "use": "他動詞の定義を説明し、from 型と区別する。",
+          "example": "To derogate a law is to restrict its scope or application.",
+          "translation": "法を derogate するとは、その範囲や適用を制限することをいう。"
+        }
+      ],
+      "notes": [
+        "Collins の英国欄に記載される他動詞義で、法令を直接目的語にする。受動態は文法上作れるが、この枝固有の編集例・受動実例は本稿では未確認。上は語義を説明する文で、実際の法令中の定型をそのまま引用したものではない。実証が明確な語義4の from 型と混同しない。",
+        "古い形容詞として「価値を落とした・卑しくなった」などの意味も辞書に記録される。現代の動詞とは品詞を分け、発音欄に示した形容詞の語尾も区別する。本稿では古い形容詞の現代的な限定・叙述・比較の定型を作って教えない。根拠: https://www.collinsdictionary.com/dictionary/english/derogate"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}
