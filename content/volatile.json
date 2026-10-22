@@ -1,0 +1,343 @@
+{
+  "word": "volatile",
+  "slug": "volatile",
+  "ipa": "米: /ˈvɑːlətl/｜英: /ˈvɒlətaɪl/",
+  "lead": "価格、市場、情勢などが急に、大きく、または予測しにくい形で変化する。",
+  "updated": "2026-10-22",
+  "notion_url": "https://app.notion.com/p/volatile-4014faa9b77d81408e47fa4123e15ee9",
+  "pronunciation": [
+    "通常3音節で、第1音節に主強勢を置く。第1音節の母音は米音が /ɑː/、英音が /ɒ/。第3音節は米音では l が音節の中心になる /tl/、英音では /taɪl/ になる。米音の第3音節には、弱母音を明示する /təl/ や /tɪl/ の表記もある。英音の第3音節に副強勢を示す辞書もあり、表記差と地域差を区別する。"
+  ],
+  "etymology": [
+    "ラテン語 volare「飛ぶ」に由来する volatilis にさかのぼる。英語へはフランス語を介した説明もある。「飛び去る」という語源は、物質が気体へ移ることや、状態が変わりやすいことの理解に役立つ。",
+    "volant「飛ぶ・飛行する」と volley「一斉射撃・球を直接打ち返すこと」も、volare の語族に属する。volley は volatile から直接できた派生語ではない。"
+  ],
+  "formation": [
+    {
+      "term": "volatility",
+      "description": "揮発性・変動しやすさを表す名詞。通常は不可算だが、volatilities という複数形もある。/ˌvɒləˈtɪlɪtɪ/ のように、主強勢は第3音節へ移る。"
+    },
+    {
+      "term": "volatileness",
+      "description": "揮発性・変わりやすさを表す別の名詞形。"
+    },
+    {
+      "term": "volatilize / volatilise",
+      "description": "揮発する・揮発させる、という自動詞・他動詞。主に物性の系列で使う。volatilise は英国の異綴りで、英国で -ize が必ず誤りというわけではない。"
+    },
+    {
+      "term": "volatilization",
+      "description": "揮発・揮発化を表す名詞。"
+    },
+    {
+      "term": "nonvolatile",
+      "description": "揮発しにくい、または電源を失っても内容を保持する、という形容詞。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "一定の形・状態にとどまりにくい、というイメージで捉えられる。状況や気質では変化の速さ、物質では気体への移りやすさ、メモリでは電源喪失時に内容を保てないという条件が中心になる。"
+    },
+    {
+      "type": "item",
+      "text": "一定の状態にとどまりにくい相場・状況 → 「急変しやすい・不安定な」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "一定の状態にとどまりにくい気分・気質 → 「気分が変わりやすい・激しやすい」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "一定の状態にとどまらず気体へ移りやすい性質 → 「揮発しやすい」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "一定の状態を電源喪失時に保てない記憶装置 → 「電源を失うと内容を保持しない」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "一定の状態にとどまらず気体へ移りやすい物質 → 「揮発性物質」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "一定の状態にとどまらず短時間で消えるもの → 「長続きしない・はかない」（語義6）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【形容詞】急変しやすい・不安定な",
+      "frequency": 5,
+      "register": [
+        "経済・報道・社会情勢など。頻度は学習上の目安であり、実測値ではない。"
+      ],
+      "definition": "価格、市場、情勢などが急に、大きく、または予測しにくい形で変化する。",
+      "patterns": [
+        "a volatile market＝変動の激しい市場",
+        "become more volatile＝さらに変動しやすくなる",
+        "a volatile situation＝急変・悪化しやすい不安定な状況。限定・叙述の両方で使い、very・highly・more などで程度を表せる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a volatile market",
+          "use": "市場の変動が大きいことを述べる。",
+          "example": "The company delayed its forecast because the market was highly volatile.",
+          "translation": "市場の変動が非常に激しかったため、会社は予測の発表を遅らせた。"
+        },
+        {
+          "pattern": "become more volatile",
+          "use": "変動の激しさが増すと述べる。",
+          "example": "Prices became more volatile after the supply disruptions.",
+          "translation": "供給が乱れた後、価格はさらに激しく変動するようになった。"
+        },
+        {
+          "pattern": "a volatile situation",
+          "use": "衝突や混乱へ発展しやすい状況を述べる。",
+          "example": "The mediator tried to calm a volatile situation at the border.",
+          "translation": "仲介者は、国境の不安定な状況を落ち着かせようとした。"
+        }
+      ],
+      "notes": [
+        "相場では、上にも下にも大きく動くことに関係し、「下落する」の同義語ではない。政治・社会状況では、衝突や危険な事態へ発展しそうな含みを持つ場合もある。"
+      ],
+      "synonyms": [
+        {
+          "word": "unstable",
+          "definition": "安定性を欠き、状態を保ちにくい。",
+          "frequency": 5,
+          "difference": "不安定さを広く表す。volatile は、急な変化や変動の激しさを捉えやすい。",
+          "example": "The agreement remained unstable because several issues were unresolved.",
+          "translation": "未解決の問題がいくつもあり、その合意はなお不安定だった。"
+        },
+        {
+          "word": "unpredictable",
+          "definition": "次にどうなるかを予測しにくい。",
+          "frequency": 5,
+          "difference": "予測の難しさに焦点を置く。volatile は、実際の変化・変動の激しさにも焦点を置く。",
+          "example": "Demand became unpredictable after the announcement.",
+          "translation": "発表後、需要は予測しにくくなった。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "stable",
+          "definition": "大きく変化せず、安定している。",
+          "frequency": 6,
+          "difference": "この語義では、急変しやすさと対照的。",
+          "example": "Prices remained stable throughout the month.",
+          "translation": "価格はその月を通して安定していた。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【形容詞】気分が変わりやすい・激しやすい",
+      "frequency": 4,
+      "register": [
+        "人の気質・感情。批判的な含みを持つことが多い。"
+      ],
+      "definition": "気分や感情が急に変わったり、激しい反応を起こしやすかったりする。",
+      "patterns": [
+        "a volatile temperament＝変わりやすく激しい気質",
+        "be volatile＝気分などが変わりやすい。名詞前と叙述位置で使う。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a volatile temperament",
+          "use": "人の気質の変わりやすさや激しさを述べる。",
+          "example": "His volatile temperament made even routine discussions unpredictable.",
+          "translation": "彼の変わりやすく激しい気質のため、日常的な話し合いでさえ先が読めなかった。"
+        },
+        {
+          "pattern": "be volatile",
+          "use": "気分の急な移り変わりを述べる。",
+          "example": "His mood was volatile, shifting rapidly from excitement to irritation.",
+          "translation": "彼の気分は変わりやすく、興奮から苛立ちへ急速に移っていた。"
+        }
+      ],
+      "notes": [
+        "すべての用例で暴力が起こるという意味ではない。単なる活発さの賞賛語として使うと、感情が不安定・激しいという評価が伝わる場合がある。"
+      ],
+      "synonyms": [
+        {
+          "word": "mercurial",
+          "definition": "気分や行動が素早く変わる。",
+          "frequency": 3,
+          "difference": "変化の速さや予測しにくさに焦点を置く。volatile は、激しい反応や怒りの含みを持つこともある。",
+          "example": "Her mercurial moods were difficult for her colleagues to predict.",
+          "translation": "素早く変わる彼女の気分を、同僚たちは予測しにくかった。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "even-tempered",
+          "definition": "気分が安定していて、容易には怒らない。",
+          "frequency": 4,
+          "difference": "激しい感情変化に左右されにくい性質を表す。",
+          "example": "The even-tempered coach stayed calm after the mistake.",
+          "translation": "穏やかで気分の安定したコーチは、ミスの後も落ち着いていた。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【形容詞】揮発しやすい",
+      "frequency": 3,
+      "register": [
+        "化学・物性。"
+      ],
+      "definition": "比較的低い温度で、液体や固体から気体へ移りやすい。",
+      "patterns": [
+        "a volatile liquid＝揮発しやすい液体",
+        "be more volatile than something＝何かより揮発しやすい。条件をそろえた物性の比較として使える。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a volatile liquid",
+          "use": "液体が気体へ移りやすい性質を述べる。",
+          "example": "Some volatile liquids evaporate readily at ordinary temperatures.",
+          "translation": "揮発しやすい液体の中には、常温で容易に蒸発するものがある。"
+        },
+        {
+          "pattern": "be more volatile than something",
+          "use": "揮発のしやすさを比較する。",
+          "example": "At the same temperature, the first liquid was more volatile than the second.",
+          "translation": "同じ温度では、最初の液体の方が二つ目より揮発しやすかった。"
+        }
+      ],
+      "notes": [
+        "揮発性は、可燃性や爆発性と同じではない。volatile だから必ず燃える・爆発する、または安全である、と判断しない。気体への移りやすさは、温度などの条件とも関係する。"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "nonvolatile",
+          "definition": "その条件で容易には気体へ移らない。",
+          "frequency": 3,
+          "difference": "揮発しやすさの低い側を表す。",
+          "example": "The residue contained mainly nonvolatile material.",
+          "translation": "残留物には、主に揮発しにくい物質が含まれていた。"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "【形容詞】電源を失うと内容を保持しない",
+      "frequency": 3,
+      "register": [
+        "コンピューター・記憶装置。"
+      ],
+      "definition": "メモリなどが、電力の供給を失うと保存内容を保持できなくなる。",
+      "patterns": [
+        "volatile memory＝揮発性メモリ",
+        "be volatile＝電力なしでは内容を保持しない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "volatile memory",
+          "use": "動作中の情報を保持するメモリの性質を述べる。",
+          "example": "The device uses volatile memory to hold data while it is running.",
+          "translation": "その装置は、動作中のデータ保持に揮発性メモリを使っている。"
+        },
+        {
+          "pattern": "be volatile",
+          "use": "記憶装置の分類を述べる。",
+          "example": "This memory is volatile and needs power to retain its contents.",
+          "translation": "このメモリは揮発性で、内容を保持するために電力を必要とする。"
+        }
+      ],
+      "notes": [
+        "使用中に内容が勝手に変わる、という意味ではない。また、装置のすべての保存データが消えるという意味でもなく、そのメモリが電力なしでは内容を保持しないことを表す。通常は分類を表し、市場や気質の「より不安定」という程度比較とは区別する。",
+        "C++ の volatile という型修飾子は、値が通常のプログラム制御以外で変更されうることなどに関係する別の専門的用法である。電源喪失時の記憶保持という分類と同じではなく、具体的な意味・扱いは言語や実装によって異なる。"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "nonvolatile",
+          "definition": "電源を失っても内容を保持する。",
+          "frequency": 3,
+          "difference": "電力がなくなった後も記憶内容を保持する分類。",
+          "example": "The settings are stored in nonvolatile memory.",
+          "translation": "設定は不揮発性メモリに保存されている。"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "【名詞・可算】揮発性物質",
+      "frequency": 2,
+      "register": [
+        "化学・地質・惑星科学など。"
+      ],
+      "definition": "容易に気体へ移る物質。複数形 volatiles で、複数の揮発性成分をまとめていうことが多い。",
+      "patterns": [
+        "volatiles in a sample＝試料中の揮発性物質",
+        "the release of volatiles＝揮発性物質の放出。"
+      ],
+      "collocations": [
+        {
+          "pattern": "volatiles in a sample",
+          "use": "複数の揮発性成分をまとめて対象にする。",
+          "example": "The study measured the volatiles in the rock sample.",
+          "translation": "その研究では、岩石試料中の揮発性物質を測定した。"
+        },
+        {
+          "pattern": "the release of volatiles",
+          "use": "揮発性成分が外へ出ることを述べる。",
+          "example": "Heating increased the release of volatiles from the sample.",
+          "translation": "加熱によって、試料からの揮発性物質の放出が増えた。"
+        }
+      ],
+      "notes": [
+        "volatiles は物質を指す名詞の複数形であり、性質を表す volatility とは異なる。形容詞 volatile の単なる複数形でもない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【形容詞】長続きしない・はかない",
+      "frequency": 2,
+      "register": [
+        "長続きしないことに焦点を置く、低頻度の用法。"
+      ],
+      "definition": "短い間しか続かず、すぐに消え去る。",
+      "patterns": [
+        "be volatile＝短い間しか続かない。感情などの持続の短さを述べる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "be volatile",
+          "use": "熱意などが短期間しか続かないと述べる。",
+          "example": "His enthusiasm was volatile and had disappeared by the next morning.",
+          "translation": "彼の熱意は長続きせず、翌朝には消えていた。"
+        }
+      ],
+      "notes": [
+        "語義1・2が変化の激しさや予測しにくさを捉えるのに対し、こちらは存在する期間の短さを捉える。変わりやすいことと、すぐになくなることを常に同じ意味にはしない。上の例は、翌朝には消えたという文脈から、持続の短さに焦点を当てて読む。"
+      ],
+      "synonyms": [
+        {
+          "word": "fleeting",
+          "definition": "ごく短い間しか続かない。",
+          "frequency": 3,
+          "difference": "短時間で過ぎ去ることを直接表し、この意味を明確に伝えやすい。volatile には変動や気質などの別義もある。",
+          "example": "The victory brought only fleeting relief.",
+          "translation": "勝利がもたらした安堵は、ほんの一時的なものだった。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "lasting",
+          "definition": "長く続く。",
+          "frequency": 5,
+          "difference": "短時間で消えるのではなく、長い期間保たれる。",
+          "example": "The experience left a lasting impression on her.",
+          "translation": "その経験は、彼女に長く残る印象を与えた。"
+        }
+      ]
+    }
+  ]
+}
