@@ -1,0 +1,188 @@
+{
+  "word": "tenebrous",
+  "slug": "tenebrous",
+  "ipa": "米・英: /ˈtɛnəbrəs/（Collins英・米国辞書）",
+  "lead": "光が乏しく暗い、または影に覆われている。",
+  "updated": "2026-10-22",
+  "notion_url": "https://app.notion.com/p/tenebrous-4014faa9b77d81f1b676cb9eca1cb04c",
+  "pronunciation": [
+    "別の米国辞書表記（Collins掲載 Random House系）: /ˈtenəbrəs/",
+    "3音節で、第1音節に主強勢を置く。第1音節の /ɛ/・/e/ は辞書体系を含む表記差で、単純な米英差とはしない。第2音節は弱い /nə/、第3音節は /brəs/。",
+    "異形 tenebrious の表記は、英 /təˈnɛbrɪəs/、米 /təˈnɛbriəs/、別の米国辞書表記 /təˈnebriəs/。こちらは4音節で、第2音節に主強勢を置く。第1音節は弱い /tə/、第2音節の /ɛ/・/e/、第3音節の /ɪ/・/i/ という表記差を残す。主見出し語と同じ音節数・強勢位置ではない。"
+  ],
+  "etymology": [
+    "ラテン語 tenebrosus「暗い」、さらに tenebrae「暗闇」の系列に由来する。古フランス語を経て中英語に入った経路を示す辞書もある。",
+    "同根語は tenebrism「強い明暗対比を特徴とする絵画様式」と tenebrific「暗闇を生む」。tenebrous そのものが、その絵画様式を指す名詞だという意味ではない。"
+  ],
+  "formation": [
+    {
+      "term": "tenebrious",
+      "description": "同じ意味の異形。発音・強勢は主見出し語と異なるため、発音欄を参照する。"
+    },
+    {
+      "term": "tenebrousness / tenebrosity / tenebriousness",
+      "description": "暗さなどの性質を表す関連名詞。抽象的性質として捉えるが、個別の可算用法は本稿では未確認。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "光が届かないような暗さ、という核で捉える。実際の照明の乏しさから、理解のしにくさや雰囲気の重苦しさへ広げて考える。"
+    },
+    {
+      "type": "item",
+      "text": "視界を覆う暗さ → 「暗い・影に覆われた」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "理解を妨げる暗さ → 「不明瞭な・理解しにくい」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "雰囲気を沈める暗さ → 「陰鬱な・気分を暗くする」（語義3）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【形容詞】暗い・影に覆われた",
+      "frequency": 1,
+      "register": [
+        "一般的な dark より、描写的・文学的な語彙選択として扱う。古語・廃語と断定するものではない。頻度は学習上の目安で、実測値ではない。"
+      ],
+      "definition": "光が乏しく暗い、または影に覆われている。",
+      "patterns": [
+        "a tenebrous passage＝暗い通路。tenebrous depths＝暗い深み。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a tenebrous passage",
+          "use": "実際の照明の乏しさを描写する。",
+          "example": "They needed lamps to cross the tenebrous passage.",
+          "translation": "その暗い通路を通り抜けるには、明かりが必要だった。"
+        }
+      ],
+      "notes": [
+        "深みや夜などの名詞を修飾する辞書例があり、上では通路を対象にした作成例を示す。限定用法に加えて叙述も一般文法上は考えられるが、この物理義だけの確実な編集叙述例は本稿では未確認。",
+        "暗さの程度を比べるなら一般文法上 more / most の型で、-er / -est を基本形として教えない。ただし、この語固有の比較形や very の実例・頻度は未確認である。become / get / seem、too / enough、特定の前置詞や節を取る専用補語も検証済みとはしない。"
+      ],
+      "synonyms": [
+        {
+          "word": "dark",
+          "definition": "光が乏しく暗い。",
+          "frequency": 9,
+          "difference": "広く日常的に使う語。tenebrous は描写的な語彙選択になる。",
+          "example": "The room was dark after the lights went out.",
+          "translation": "明かりが消えたあと、部屋は暗くなった。"
+        },
+        {
+          "word": "shadowy",
+          "definition": "影が多い・影に覆われた。",
+          "frequency": 4,
+          "difference": "影による見えにくさに焦点がある。tenebrous の暗さは、特定の物が作る影だけに限定されない。",
+          "example": "Figures moved through the shadowy corridor.",
+          "translation": "薄暗い廊下を、人影が動いていった。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "well-lit",
+          "definition": "十分な照明のある。",
+          "frequency": 5,
+          "difference": "実際の照明の乏しさと対照になる。説明の分かりやすさや気分の明るさをそのまま表す語ではない。",
+          "example": "A well-lit corridor connected the two rooms.",
+          "translation": "十分な照明のある廊下が、二つの部屋をつないでいた。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【形容詞】不明瞭な・理解しにくい",
+      "frequency": 1,
+      "register": [
+        "出来事や文章などについての、描写的な比喩。"
+      ],
+      "definition": "事情や意味がはっきりせず、理解しにくいことを表す。",
+      "patterns": [
+        "a tenebrous affair＝実態の分かりにくい出来事。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a tenebrous affair",
+          "use": "事情が不透明であることを述べる。",
+          "example": "The transaction was a tenebrous affair, obscured by conflicting records.",
+          "translation": "記録が食い違っており、その取引の実態は不明瞭だった。"
+        }
+      ],
+      "notes": [
+        "辞書には affair を修飾する限定用法がある。暗い場所で行われた、という照明の意味とは分ける。上の文全体は be を使うが、tenebrous は名詞 affair の前にあるため、形容詞そのものの直接叙述を実証する例とは数えない。",
+        "この枝の独立した編集叙述例、比較や very、become / get / seem などの個別結合、to 不定詞・that 節・wh 節補語は未確認。一般文法上の比較は more / most の型で考えるが、実例確認と同一にはしない。"
+      ],
+      "synonyms": [
+        {
+          "word": "opaque",
+          "definition": "内容や意味が理解しにくい。",
+          "frequency": 5,
+          "difference": "ここでは、不透明という語の比喩義で比較する。物質が光を通さないという字義を、そのまま人の理解の問題と同一視しない。",
+          "example": "The explanation was opaque to most readers.",
+          "translation": "その説明は、大半の読者には理解しにくかった。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "lucid",
+          "definition": "明快で分かりやすい。",
+          "frequency": 4,
+          "difference": "説明や理解の明瞭さという軸で対照になる。",
+          "example": "Her lucid account clarified the sequence of events.",
+          "translation": "彼女の明快な説明で、出来事の順序がはっきりした。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【形容詞】陰鬱な・気分を暗くする",
+      "frequency": 1,
+      "register": [
+        "時代や日々の雰囲気などを描く表現。"
+      ],
+      "definition": "陰気で重苦しい雰囲気をもち、暗い気分を生む。",
+      "patterns": [
+        "tenebrous days＝陰鬱な日々。"
+      ],
+      "collocations": [
+        {
+          "pattern": "tenebrous days",
+          "use": "日々の重苦しい雰囲気を描写する。",
+          "example": "The memoir recalls the tenebrous days of defeat and despair.",
+          "translation": "その回想録は、敗北と絶望に包まれた陰鬱な日々を振り返っている。"
+        }
+      ],
+      "notes": [
+        "days などを修飾する辞書例がある。単に日照が少ない、照明がないという意味とは分ける。人の雰囲気や心情への影響を述べるからといって、特定の病気を診断する語ではない。",
+        "この枝の直接叙述・程度比較の編集例や具体的な固定補語は未確認。一般形容詞として程度差を考えられることと、個別の more / most / very を確認したことを区別する。同綴りの通常動詞や独立名詞は本稿では確認しておらず、-ing による分詞形容詞でもない。"
+      ],
+      "synonyms": [
+        {
+          "word": "gloomy",
+          "definition": "陰気な・重苦しい。",
+          "frequency": 6,
+          "difference": "ここでは気分や雰囲気の暗さで比較する。gloomy にも物理的な暗さの意味があるが、すべての用例で照明の不足を含むわけではない。",
+          "example": "The news created a gloomy atmosphere.",
+          "translation": "その知らせで、重苦しい雰囲気になった。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "cheerful",
+          "definition": "陽気な・気分を明るくする。",
+          "frequency": 7,
+          "difference": "気分や雰囲気の明るさという軸で対照になる。",
+          "example": "The room's cheerful colors lifted their spirits.",
+          "translation": "部屋の明るい色合いが、彼らを元気づけた。"
+        }
+      ]
+    }
+  ]
+}
