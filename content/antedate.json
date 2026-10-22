@@ -1,0 +1,315 @@
+{
+  "word": "antedate",
+  "slug": "antedate",
+  "ipa": "米・英: /ˈæntɪˌdeɪt/, /ˌæntɪˈdeɪt/",
+  "lead": "ある物事が、別の物事より前の時代・時点に存在したり起きたりしている。",
+  "updated": "2026-10-22",
+  "notion_url": "https://app.notion.com/p/antedate-4014faa9b77d81e6b364d454adb228e3",
+  "pronunciation": [
+    "3音節。動詞には第1音節に主強勢・第3音節に副強勢を置く形と、その逆の形がある。名詞は第1音節に主強勢を置く形である。第3音節の二重母音を /ei/ と書く辞書もある。第2音節を /i/ で示し、副強勢を書かない表記もあり、こうした表記差をそのまま英米の発音差とみなさない。",
+    "過去形・過去分詞 antedated は、語尾に /ɪd/ が加わって4音節になる。"
+  ],
+  "etymology": [
+    "現代の形は ante-「前に」と date「日付」の組合せとして捉えられる。歴史的には antidate という形やフランス語 antidater にさかのぼり、ante- との結び付きによって現在の綴りになった。anti-「反対」として意味を組み立てない。",
+    "date「日付」はラテン語 dare「与える」に由来する data にさかのぼり、果実の date「ナツメヤシの実」とは別語源である。postdate「後の日付を付ける」と backdate「日付をさかのぼらせる」は、日付の date を共有する関連語である。"
+  ],
+  "formation": [
+    {
+      "term": "antedates",
+      "description": "動詞の三人称単数現在形。"
+    },
+    {
+      "term": "antedated",
+      "description": "動詞の過去形・過去分詞形。"
+    },
+    {
+      "term": "antedating",
+      "description": "-ing 形。末尾の e を落として -ing を付ける。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "基準となる時点より前にある、または前へ位置付ける、という時間関係が中心である。すでに先行している関係と、人が日付・時期を早める操作を区別する。"
+    },
+    {
+      "type": "item",
+      "text": "基準時点より前に存在すること → 「より前に存在する・先行する」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "基準時点より前の日付を文書に付けること → 「文書などの日付をさかのぼらせる」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "基準時点より前へ年代を位置付けること → 「年代をより古く位置付ける」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "基準時点より前へ出来事を移すこと → 「出来事の時期を早める」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "基準時点より前に物事を先取りすること → 「予期する・先取りする」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "基準時点より前にある日付 → 「前の日付・前付けの日付」（語義6）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【他動詞】より前に存在する・先行する",
+      "frequency": 3,
+      "register": [
+        "改まった表現。歴史・記録・年代の比較。頻度は学習上の目安であり、実測値ではない。"
+      ],
+      "definition": "ある物事が、別の物事より前の時代・時点に存在したり起きたりしている。",
+      "patterns": [
+        "antedate something＝何かより前に存在する",
+        "antedate something by〈期間〉＝何かより一定期間早い",
+        "be antedated by something＝何かに時間的に先行されている。能動文では先行する側が主語になる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "antedate something",
+          "use": "ある記録や物事の方が古いことを述べる。",
+          "example": "These records antedate the town's official founding.",
+          "translation": "これらの記録は、その町が正式に成立するより前のものである。"
+        },
+        {
+          "pattern": "antedate something by〈期間〉",
+          "use": "二つの年代の差を示す。",
+          "example": "The manuscript antedates the printed edition by fifty years.",
+          "translation": "その写本は、印刷版より50年古い。"
+        },
+        {
+          "pattern": "be antedated by something",
+          "use": "後の物事を主語にして、先行するものを述べる。",
+          "example": "The stone bridge is antedated by a wooden crossing recorded on an earlier map.",
+          "translation": "その石橋より前には、古い地図に記録された木造の渡り道があった。"
+        }
+      ],
+      "notes": [
+        "他動詞なので、比較する相手を直接目的語に取る。目的語の前に before を必ず入れる構文ではない。",
+        "能動文の by fifty years は年代差を表す。受動文の by a wooden crossing は先行する側を示し、同じ by でも役割が異なる。"
+      ],
+      "synonyms": [
+        {
+          "word": "predate",
+          "definition": "ある物事より先に存在する、または起こる。",
+          "frequency": 4,
+          "difference": "この時間的先行の意味では非常に近い。antedate の文書の日付操作や古風な心的先取りまで、常に同じように置き換えるわけではない。",
+          "example": "The path predates the modern road.",
+          "translation": "その小道は、現代の道路より前から存在している。"
+        },
+        {
+          "word": "precede",
+          "definition": "時間・順序・位置などで先に来る。",
+          "frequency": 5,
+          "difference": "時間以外の順序や位置にも広く使う。antedate は日付・年代の前後関係に焦点を置く。",
+          "example": "A short introduction precedes the main discussion.",
+          "translation": "本論の前に、短い導入がある。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "postdate",
+          "definition": "ある物事より後に存在する、または起こる。",
+          "frequency": 3,
+          "difference": "主語の物事が、比較対象より後の時点にある。",
+          "example": "The extension postdates the original building by a century.",
+          "translation": "その増築部分は、元の建物より1世紀後のものである。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【他動詞】文書などの日付をさかのぼらせる",
+      "frequency": 2,
+      "register": [
+        "改まった・硬い表現。文書の日付。"
+      ],
+      "definition": "文書などに、実際の作成日などより前の日付を付ける。",
+      "patterns": [
+        "antedate a letter＝手紙に実際より前の日付を付ける",
+        "be antedated＝実際より前の日付が付けられている。"
+      ],
+      "collocations": [
+        {
+          "pattern": "antedate a letter",
+          "use": "文書に付けた日付と、実際に書いた日のずれを述べる。",
+          "example": "The clerk antedated the letter, giving it Monday's date although it was written on Wednesday.",
+          "translation": "事務員は、水曜日に書かれた手紙に月曜日の日付を付け、日付をさかのぼらせた。"
+        },
+        {
+          "pattern": "be antedated",
+          "use": "文書を主語にして、前の日付が付けられていると述べる。",
+          "example": "The note was antedated by two days.",
+          "translation": "そのメモには、実際より2日前の日付が付けられていた。"
+        }
+      ],
+      "notes": [
+        "語義1のように「文書自体が古くから存在する」という意味ではなく、文書に付けた日付を問題にする。単語だけでは、日付を変更した理由やその正当性までは分からない。"
+      ],
+      "synonyms": [
+        {
+          "word": "backdate",
+          "definition": "文書などに、実際より前の日付を付ける。",
+          "frequency": 4,
+          "difference": "この日付操作の意味では近い。ただし、backdate には効力・適用を以前の時点までさかのぼらせる用法もあり、その用法をそのまま antedate に移さない。",
+          "example": "The receipt was backdated to the previous week.",
+          "translation": "その領収書の日付は、前の週にさかのぼって付けられていた。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "postdate",
+          "definition": "文書などに、実際より後の日付を付ける。",
+          "frequency": 3,
+          "difference": "日付を過去側ではなく未来側へずらす。",
+          "example": "The letter was postdated by three days.",
+          "translation": "その手紙には、実際より3日後の日付が付けられていた。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【他動詞】年代をより古く位置付ける",
+      "frequency": 2,
+      "register": [
+        "年代の判断・歴史研究など。"
+      ],
+      "definition": "出来事や遺物などの年代を、従来の位置付けや比較基準より前に置く。",
+      "patterns": [
+        "antedate something by〈期間〉＝何かの年代を一定期間古く位置付ける。"
+      ],
+      "collocations": [
+        {
+          "pattern": "antedate something by〈期間〉",
+          "use": "新たな判断によって、従来の年代を早める。",
+          "example": "The inscription led researchers to antedate the building by a century.",
+          "translation": "その碑文を受けて、研究者たちは建物の年代を従来より1世紀古く位置付けた。"
+        }
+      ],
+      "notes": [
+        "語義1は二つの物事の時間的関係を述べる。こちらは、人が年代をどう割り当てるかという判断を述べる。従来の年代を見直す場合と、実際より古い年代を誤って割り当てる場合を、文脈で区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "redate",
+          "definition": "年代や日付を新たに割り当て直す。",
+          "frequency": 2,
+          "difference": "より古くする場合だけでなく、より新しくする場合にも使える。",
+          "example": "Experts redated the painting after examining its pigments.",
+          "translation": "専門家たちは顔料を調べた後、その絵の年代を改めて位置付けた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【他動詞】出来事の時期を早める",
+      "frequency": 2,
+      "register": [
+        "硬く、低頻度の用法。"
+      ],
+      "definition": "出来事を、それまでの予定・想定より早い時期に起こす。",
+      "patterns": [
+        "antedate someone's departure＝誰かの出発時期を早める。日付の記入だけでなく、出来事の時期そのものに関係する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "antedate someone's departure",
+          "use": "事情によって実際の出発を前倒しする。",
+          "example": "The sudden cold antedated their departure from the mountains.",
+          "translation": "急な寒さによって、彼らは予定より早く山を発った。"
+        }
+      ],
+      "notes": [
+        "語義2は記載日付、こちらは出来事の時期を早める。現在の日常的な説明では bring forward や advance などの方が分かりやすい。"
+      ],
+      "synonyms": [
+        {
+          "word": "bring forward",
+          "definition": "予定された出来事を、より早い日時へ移す。",
+          "frequency": 5,
+          "difference": "予定の変更を明示しやすい句動詞。antedate のこの用法より日常的である。",
+          "example": "They brought the meeting forward by a week.",
+          "translation": "彼らは会議を1週間前倒しした。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "postpone",
+          "definition": "予定された出来事を、より後の日時へ延期する。",
+          "frequency": 6,
+          "difference": "実施時期を早めず、遅らせる。",
+          "example": "They postponed their departure until Friday.",
+          "translation": "彼らは出発を金曜日まで延期した。"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "【他動詞】予期する・先取りする",
+      "frequency": 1,
+      "register": [
+        "古風な用法。現在の普通の会話で使う中心義ではない。"
+      ],
+      "definition": "まだその時が来る前に、出来事を予期したり、何かを先取りして得たりする。喜びを気持ちの上で先に味わう場合も含む。",
+      "patterns": [
+        "antedate something＝何かを予期・先取りする。例えば antedate the pleasure of something は、何かの喜びを先取りして味わうことを表す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "antedate the pleasure of something",
+          "use": "未来の喜びを想像の中で先に味わう、という古風な表現。",
+          "example": "In her imagination, she antedated the pleasure of victory.",
+          "translation": "彼女は想像の中で、勝利の喜びを先取りして味わった。"
+        }
+      ],
+      "notes": [
+        "語義4は出来事の実施時期を早める。こちらは、未来のものを前もって予期・享受する古風義であり、心の中で喜びを味わうことだけには限らない。現代の文章で antedate を見たときに、この古風義を優先して当てはめない。"
+      ],
+      "synonyms": [
+        {
+          "word": "anticipate",
+          "definition": "先の出来事を予期したり、楽しみに思い描いたりする。",
+          "frequency": 6,
+          "difference": "現在も使われる語。単に予測する場合から、気持ちの上で先取りする場合まで、文脈に応じて解釈する。",
+          "example": "She anticipated the joy of seeing her family again.",
+          "translation": "彼女は家族に再会する喜びを思い描いていた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【名詞・可算】前の日付・前付けの日付",
+      "frequency": 2,
+      "register": [
+        "まれな名詞用法。"
+      ],
+      "definition": "ある基準より前の日付や、実際より早く割り当てられた日付。",
+      "patterns": [
+        "an antedate＝一つの前の日付・前付けの日付。名詞の初頭は母音なので、単数で不定冠詞を付ける場合は an を用いる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an antedate",
+          "use": "文書に付けられた、実際より前の日付を指す。",
+          "example": "The document bore an antedate rather than the day on which it was actually signed.",
+          "translation": "その文書には、実際に署名された日ではなく、それより前の日付が記されていた。"
+        }
+      ],
+      "notes": [
+        "名詞は第1音節に主強勢を置く。動詞にも同じ強勢の形があるため、発音だけで必ず品詞を区別できるわけではない。一般的な説明では an earlier date のように言い換える方が伝わりやすい。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}

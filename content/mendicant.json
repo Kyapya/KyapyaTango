@@ -1,0 +1,207 @@
+{
+  "word": "mendicant",
+  "slug": "mendicant",
+  "ipa": "米・英: /ˈmɛndɪkənt/",
+  "lead": "人に施しを求める人。複数形は mendicants。",
+  "updated": "2026-10-22",
+  "notion_url": "https://app.notion.com/p/mendicant-4014faa9b77d8196a19af3924533bdbf",
+  "pronunciation": [
+    "3音節で、第1音節に主強勢を置く。名詞と形容詞で基本の発音は同じ。第3音節の母音は弱い /ə/ である。"
+  ],
+  "etymology": [
+    "ラテン語 mendicare「物乞いする」の現在分詞 mendicans、その語幹 mendicant- にさかのぼる。mendicare は mendicus「物乞いの」に由来する。英語の mend「直す」の現在分詞ではない。",
+    "amend「修正する」と emend「文章を校訂する」も、さらに遠いラテン語の語族で関連する。ただし、mendicant から直接できた派生語ではない。"
+  ],
+  "formation": [
+    {
+      "term": "mendicancy",
+      "description": "物乞いをすること・その状態を表す名詞。"
+    },
+    {
+      "term": "mendicity",
+      "description": "同じく物乞いをすること・その状態を表す名詞。/mɛnˈdɪsɪti/ のように、第2音節に主強勢が移る。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "施しを求める人やそのあり方を表し、そうした生活を理念とする修道会と構成員にも使う。修道会の分類を表す場合、現代の一人一人が実際に路上で物乞いをするという意味には限らない。"
+    },
+    {
+      "type": "item",
+      "text": "施しを求める人 → 「物乞いをする人」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "施しを求める生活を掲げる修道会の構成員 → 「托鉢修道会の修道士」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "施しを求める振る舞いや生活 → 「物乞いをする・物乞いに特徴的な」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "施しを求める生活を掲げる修道会との関係 → 「托鉢修道会の」（語義4）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・可算】物乞いをする人",
+      "frequency": 2,
+      "register": [
+        "改まった・文語的な語。beggar より日常的ではない。頻度は学習上の目安であり、実測値ではない。"
+      ],
+      "definition": "人に施しを求める人。複数形は mendicants。",
+      "patterns": [
+        "a mendicant＝物乞いをする一人の人",
+        "two mendicants＝物乞いをする二人の人。単数可算名詞なので、通常は冠詞などを伴う。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a mendicant",
+          "use": "施しを求める一人の人物を述べる。",
+          "example": "The traveller gave bread to a mendicant at the city gate.",
+          "translation": "旅人は町の門のところで、物乞いをする人にパンを与えた。"
+        },
+        {
+          "pattern": "two mendicants",
+          "use": "施しを求める複数の人々を述べる。",
+          "example": "Two mendicants were asking passers-by for food.",
+          "translation": "二人の物乞いが、通行人に食べ物を求めていた。"
+        }
+      ],
+      "notes": [
+        "貧しい人や住居のない人を、すべてこの語で呼ぶわけではない。施しを求めるという行為・生活との関係がある。現代の人について使うと距離を置いた表現になり得るため、相手の経済状況だけから当てはめない。"
+      ],
+      "synonyms": [
+        {
+          "word": "beggar",
+          "definition": "人に金品を乞う人。",
+          "frequency": 5,
+          "difference": "同じ中心意味を持つ、より一般的な語。ただし、人を見下す響きを帯びる場合もあり、常に中立な人物分類とは限らない。",
+          "example": "A beggar asked the visitors for a little money.",
+          "translation": "物乞いをする人が、訪問者たちに少しお金を求めた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算】托鉢修道会の修道士",
+      "frequency": 2,
+      "register": [
+        "キリスト教・宗教史。Mendicant と大文字で書くこともある。"
+      ],
+      "definition": "キリスト教の托鉢修道会に属する修道士。清貧と施しに依存する生活を歴史的な特徴とする修道会の構成員を指す。",
+      "patterns": [
+        "a mendicant＝托鉢修道会の一人の修道士",
+        "the role of mendicants＝托鉢修道士たちの役割。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a mendicant",
+          "use": "修道会への所属によって、一人の宗教者を述べる。",
+          "example": "The visitor, a mendicant of the Franciscan order, spoke about his community's work.",
+          "translation": "訪問者はフランシスコ会の托鉢修道士で、自分の修道共同体の活動について話した。"
+        },
+        {
+          "pattern": "the role of mendicants",
+          "use": "宗教史上の集団として托鉢修道士を述べる。",
+          "example": "The chapter examines the role of mendicants in medieval universities.",
+          "translation": "その章は、中世の大学における托鉢修道士たちの役割を検討している。"
+        }
+      ],
+      "notes": [
+        "現在の具体的な行動だけでなく、修道会への所属・分類を表す。すべての会員が日々路上で金銭を乞う、という意味に限定しない。",
+        "他宗教で施しに頼って生活する修行者を mendicant と呼ぶ場合は、一般語としての施し依存に注目していることがある。その人がキリスト教の托鉢修道会に属するという意味にはならない。"
+      ],
+      "synonyms": [
+        {
+          "word": "friar",
+          "definition": "托鉢修道会の修道士。",
+          "frequency": 3,
+          "difference": "修道士としての呼称。mendicant は修道会の生活様式・分類に結びつく一方、一般の物乞いにも使うため、文脈で区別する。",
+          "example": "The friar returned to his community after teaching in the town.",
+          "translation": "その修道士は町で教えた後、自分の修道共同体に戻った。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【形容詞】物乞いをする・物乞いに特徴的な",
+      "frequency": 2,
+      "register": [
+        "改まった・文語的な表現。"
+      ],
+      "definition": "施しを求めて生活する、またはそのような生活や振る舞いに関係する。",
+      "patterns": [
+        "a mendicant traveller＝物乞いをする旅人",
+        "a mendicant life＝施しに頼る生活。名詞を修飾する形で使う。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a mendicant traveller",
+          "use": "施しを求める人物の生活のあり方を述べる。",
+          "example": "The story follows a mendicant traveller who asks strangers for food.",
+          "translation": "その物語は、見知らぬ人たちに食べ物を求める、物乞いの旅人を描いている。"
+        },
+        {
+          "pattern": "a mendicant life",
+          "use": "施しによって支えられる生活を述べる。",
+          "example": "He led a mendicant life, depending on gifts from people he met.",
+          "translation": "彼は出会う人々からの施しに頼り、物乞いの生活を送っていた。"
+        }
+      ],
+      "notes": [
+        "poor が単に経済的な貧しさを表すのに対し、mendicant は施しを求めるあり方に焦点を置く。また、be a mendicant の mendicant は人を指す名詞であり、a mendicant traveller のような形容詞とは構造が違う。"
+      ],
+      "synonyms": [
+        {
+          "word": "begging（名詞を修飾する現在分詞）",
+          "definition": "施しを求めている。",
+          "frequency": 4,
+          "difference": "beg という行為を、分詞によって名詞の前で表す。mendicant はより文語的で、生活のあり方まで捉えやすい。",
+          "example": "The novel describes a begging crowd outside the gate.",
+          "translation": "その小説は、門の外で施しを求める群衆を描いている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【形容詞】托鉢修道会の",
+      "frequency": 2,
+      "register": [
+        "キリスト教・宗教史。"
+      ],
+      "definition": "托鉢修道会、またはその構成員に関係する。",
+      "patterns": [
+        "a mendicant order＝托鉢修道会",
+        "mendicant friars＝托鉢修道会の修道士たち。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a mendicant order",
+          "use": "修道会の種類を示す。",
+          "example": "The Dominicans describe themselves as a mendicant order.",
+          "translation": "ドミニコ会は、自らを托鉢修道会と説明している。"
+        },
+        {
+          "pattern": "mendicant friars",
+          "use": "修道士たちが属する修道会の分類を示す。",
+          "example": "The exhibition explores how mendicant friars worked among the townspeople.",
+          "translation": "その展示は、托鉢修道士たちが町の人々の中でどのように活動したかを紹介している。"
+        }
+      ],
+      "notes": [
+        "この用法は、通常は程度ではなく分類・所属を表す。「より貧しい」という意味を more mendicant で機械的に表せるわけではない。",
+        "monastic「修道院・修道生活の」とは、分類の観点が異なる。mendicant は托鉢修道会との関係を指すので、修道生活に関係するものをすべて同じ語で置き換えない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}
