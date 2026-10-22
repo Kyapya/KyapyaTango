@@ -1,0 +1,822 @@
+{
+  "word": "surge",
+  "slug": "surge",
+  "ipa": "米: /sɜːrdʒ/｜英: /sɜːdʒ/",
+  "lead": "数量、価格、需要、支持などが急激に大きく増える。増えるもの自体を主語にする。",
+  "updated": "2026-10-22",
+  "notion_url": "https://app.notion.com/p/surge-4014faa9b77d81ad9009cee3194a4925",
+  "pronunciation": [
+    "1音節で、名詞・動詞は同音。米音では第1音節の母音の後に /r/ が入り、ここに示した非r音的な英音ではその /r/ を発音しない。",
+    "surges は語尾に /ɪz/ が加わり2音節になる。surged の -ed は /d/ で1音節のまま。surging は末尾の e を落として作り、2音節になる。"
+  ],
+  "etymology": [
+    "ラテン語 surgere「起き上がる・立ち上がる」が語源の中心にある。カタルーニャ語 surgir を経て中期フランス語 sourgir から英語へ入った部分と、ラテン語から直接入った部分が重なる可能性がある。前者には投錨・上陸に関する意味も関わるが、借用経路の細部には不確かさがある。",
+    "insurgent「反乱者」と resurgent「再び勢いを取り戻した」も、ラテン語 surgere の系列に属する。いずれも、現代英語の surge に自由に接頭辞を付ければできるという説明ではない。"
+  ],
+  "formation": [
+    {
+      "term": "surges",
+      "description": "動詞の三人称単数現在形、または名詞の複数形。"
+    },
+    {
+      "term": "surged",
+      "description": "過去形・過去分詞形。"
+    },
+    {
+      "term": "surging",
+      "description": "-ing 形。surging demand や surging water のように、増加・移動の最中にあるものの説明にも使う。"
+    },
+    {
+      "term": "surge protector",
+      "description": "電圧・電流の急変から機器を守るための装置を指す名詞句。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "流れやまとまった動きが生じ、強まったり波打ったりするイメージが核になる。多くの主要義は急激さや勢いを伴うが、索を徐々に緩める意味まで急激とは限らない。"
+    },
+    {
+      "type": "item",
+      "text": "流れや動きが比喩的に量を大きく増す変化 → 「急増する・急上昇する」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "流れや動きが比喩的に量を大きく増す出来事 → 「急増・急上昇」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "流れや動きが人や水に現れる勢いある移動 → 「勢いよく進む・流れ込む」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "流れや動きとして押し寄せる力強い波や水 → 「押し寄せる流れ・波・うねり」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "流れや動きとして心に急に湧き上がる感情 → 「感情が強く湧き上がる」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "流れや動きとして心に湧く強い感情の一波 → 「感情の急な高まり」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "流れや動きの変化による電気的量の急増現象 → 「電圧・電流の一時的な急増」（語義7）"
+    },
+    {
+      "type": "item",
+      "text": "流れや動きの変化として電気的量が増す過程 → 「電圧・電流が一時的に急増する」（語義8）"
+    },
+    {
+      "type": "item",
+      "text": "流れや動きの強弱が激しく変わる電気的量 → 「電圧・電流が激しく振動する」（語義9）"
+    },
+    {
+      "type": "item",
+      "text": "流れや動きを強める軍勢・生産力の増強 → 「大きく増強する・集中投入する」（語義10）"
+    },
+    {
+      "type": "item",
+      "text": "流れや動きが海面に現れる波状の盛り上がり → 「海・波が盛り上がってうねる」（語義11）"
+    },
+    {
+      "type": "item",
+      "text": "流れや動きに伴う船の波状の上下動 → 「波に上下する・揺れる」（語義12）"
+    },
+    {
+      "type": "item",
+      "text": "流れや動きの結果として高くなる水位 → 「波などに伴う水位の上昇」（語義13）"
+    },
+    {
+      "type": "item",
+      "text": "流れや動きが脈動して不均一になる機関 → 「脈動しながら不均一に動く」（語義14）"
+    },
+    {
+      "type": "item",
+      "text": "流れや動きの脈動による機関の不均一さ → 「機関の脈動・不均一な動作」（語義15）"
+    },
+    {
+      "type": "item",
+      "text": "流れや動きで流体の圧力が一時的に増す現象 → 「流体圧力の一時的な急上昇」（語義16）"
+    },
+    {
+      "type": "item",
+      "text": "流れや動きを与える索の送り出し・緩め → 「索を徐々に緩める・送り出す」（語義17）"
+    },
+    {
+      "type": "item",
+      "text": "流れや動きとして巻胴の周りで滑る索 → 「索が滑る」（語義18）"
+    },
+    {
+      "type": "item",
+      "text": "流れや動きとして索が滑る・緩むこと → 「索の滑り・緩み」（語義19）"
+    },
+    {
+      "type": "item",
+      "text": "流れや動きに伴って索に生じる急な張力 → 「索にかかる急な引き・張力」（語義20）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【自動詞】急増する・急上昇する",
+      "frequency": 6,
+      "register": [
+        "報道・経済・仕事・一般。頻度は学習上の目安であり、実測値ではない。"
+      ],
+      "definition": "数量、価格、需要、支持などが急激に大きく増える。増えるもの自体を主語にする。",
+      "patterns": [
+        "〈数値・量など〉 + surge by〈増加幅〉＝その幅だけ急増する",
+        "〈数値・量など〉 + surge to〈到達値〉＝その水準まで急増する",
+        "〈数値・量など〉 + surge from〈起点〉 to〈到達値〉＝ある水準から別の水準へ急増する",
+        "〈数値・量など〉 + surge 〈増加量〉＝その量だけ急増する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "surge by〈増加幅〉",
+          "use": "増加した幅を示す。",
+          "example": "Orders surged by thirty percent after the launch.",
+          "translation": "発売後、注文は30パーセント急増した。"
+        },
+        {
+          "pattern": "surge to〈到達値〉",
+          "use": "増加後に達した水準を示す。",
+          "example": "Demand surged to a record high.",
+          "translation": "需要は過去最高の水準に急増した。"
+        },
+        {
+          "pattern": "surge from〈起点〉 to〈到達値〉",
+          "use": "増加前後の水準を区別する。",
+          "example": "Daily visitor numbers surged from two hundred to five hundred in a week.",
+          "translation": "一日当たりの訪問者数は、一週間で200人から500人に急増した。"
+        },
+        {
+          "pattern": "surge 〈増加量〉",
+          "use": "数量句をそのまま続けて、変化量を述べる。",
+          "example": "The index surged eighty points in the morning.",
+          "translation": "その指数は、午前中に80ポイント急上昇した。"
+        }
+      ],
+      "notes": [
+        "by は増加幅、to は到達値、from は起点を示す。surge eighty points の eighty points は変化量を示す数量句で、他動詞の目的語ではない。",
+        "この基本用法では、増えるものが主語になる。増強する側を主語にする専門的な他動詞用法は語義10と区別する。surge をすべての語義で自動詞だけと決めつけない。"
+      ],
+      "synonyms": [
+        {
+          "word": "rise",
+          "definition": "数値や水準が上がる。",
+          "frequency": 7,
+          "difference": "上昇を広く表し、急激さや大幅さは必須ではない。surge は急で大きい増加を強く示す。",
+          "example": "The average price rose slightly over the year.",
+          "translation": "平均価格は、その一年でわずかに上がった。"
+        },
+        {
+          "word": "increase",
+          "definition": "数量や程度が増える。",
+          "frequency": 8,
+          "difference": "最も広く増加を表し、速さや勢いを特に指定しない。ここでは自動詞の意味で比較する。",
+          "example": "The number of requests increased steadily.",
+          "translation": "依頼の件数は着実に増えた。"
+        },
+        {
+          "word": "soar",
+          "definition": "数値などが大きく上昇する。",
+          "frequency": 5,
+          "difference": "高く上がることを強く印象づける。surge は一気に増える勢いに焦点がある。",
+          "example": "Repair costs soared after the damage was discovered.",
+          "translation": "損傷が見つかると、修理費は大幅に跳ね上がった。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "plummet",
+          "definition": "数値などが急激に大きく下落する。",
+          "frequency": 4,
+          "difference": "量や水準の方向が反対で、急落を表す。",
+          "example": "Sales plummeted after the product was withdrawn.",
+          "translation": "製品が販売中止になると、売上は急落した。"
+        },
+        {
+          "word": "decline",
+          "definition": "数量や水準が低下する。",
+          "frequency": 6,
+          "difference": "低下の広い語で、surge と同じ急激さまでは要求しない。",
+          "example": "Attendance declined gradually during the winter.",
+          "translation": "冬の間、出席者数は徐々に減った。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算】急増・急上昇",
+      "frequency": 6,
+      "register": [
+        "報道・仕事・一般。軍勢の増派・増強にも使う。"
+      ],
+      "definition": "数量、需要、活動などが急に大きく増えること。一回のまとまった増加を指す。",
+      "patterns": [
+        "a surge in demand＝需要の急増",
+        "a surge of applications＝申請が一気に増えること",
+        "a troop surge＝兵力の大幅な増強。通常、一件の増加を単数でいうが、複数形も使える。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a surge in demand",
+          "use": "どの指標や活動が増えたかを in 句で示す。",
+          "example": "The factory added a shift to cope with a surge in demand.",
+          "translation": "工場は、需要の急増に対応するために勤務シフトを一つ増やした。"
+        },
+        {
+          "pattern": "a surge of applications",
+          "use": "何が一気に押し寄せたかを of 句で示す。",
+          "example": "The announcement brought a surge of applications for the programme.",
+          "translation": "発表を受けて、そのプログラムへの応募が一気に増えた。"
+        },
+        {
+          "pattern": "a troop surge",
+          "use": "軍勢の規模を大きく増やすことをいう。",
+          "example": "The report examined the planned troop surge.",
+          "translation": "その報告書は、計画されている兵力増強を検討した。"
+        }
+      ],
+      "notes": [
+        "in は増加する指標・対象、of はまとまって生じたり入ってきたりするものを示すことが多い。両者を、どの名詞の前でも自由に交換できる形とは扱わない。a surge は動詞の surge と違い、冠詞や修飾語を伴う名詞句を作る。"
+      ],
+      "synonyms": [
+        {
+          "word": "increase",
+          "definition": "数量や程度が増えること。",
+          "frequency": 8,
+          "difference": "増加を広く表す。surge は急で大きな増加を指す。",
+          "example": "The budget includes a small increase in maintenance spending.",
+          "translation": "予算には、維持管理費の小幅な増額が含まれている。"
+        },
+        {
+          "word": "jump",
+          "definition": "数値などの突然の大きな上昇。",
+          "frequency": 5,
+          "difference": "水準が跳ね上がる感じを表す。surge は人や依頼がまとまって増える場合にも使う。",
+          "example": "There was a sharp jump in ticket prices.",
+          "translation": "チケットの価格が急激に跳ね上がった。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【自動詞】勢いよく進む・流れ込む",
+      "frequency": 4,
+      "register": [
+        "一般・報道・動きの描写。"
+      ],
+      "definition": "人、水などが勢いを伴って前へ進んだり、ある場所へ一気に流れ込んだりする。",
+      "patterns": [
+        "〈人・水など〉 + surge forward＝勢いよく前に進む",
+        "〈人・水など〉 + surge through something＝何かの中を勢いよく通る",
+        "〈人・水など〉 + surge out of something＝何かからどっと出る。直接目的語ではなく、方向や経路を示す句を伴う。"
+      ],
+      "collocations": [
+        {
+          "pattern": "surge forward",
+          "use": "集団や一人の走者などが、勢いよく前に出る。",
+          "example": "The crowd surged forward when the gates opened.",
+          "translation": "門が開くと、群衆はどっと前へ進んだ。"
+        },
+        {
+          "pattern": "surge through something",
+          "use": "水などが経路を勢いよく通る。",
+          "example": "Water surged through the broken gate.",
+          "translation": "水が壊れた水門を勢いよく流れ抜けた。"
+        },
+        {
+          "pattern": "surge out of something",
+          "use": "人などがまとまって外へ出る。",
+          "example": "Supporters surged out of the stadium after the final whistle.",
+          "translation": "試合終了の笛が鳴ると、応援する人々がスタジアムからどっと外へ出た。"
+        }
+      ],
+      "notes": [
+        "必ず上方向へ動くとは限らない。また、群衆に限定されず、一人の走者にも使える。through、out of などで経路を示すことと、surge に直接目的語を付けることは別である。"
+      ],
+      "synonyms": [
+        {
+          "word": "rush",
+          "definition": "勢いよく、または急いで移動する。",
+          "frequency": 6,
+          "difference": "速さや急ぎを広く表す。surge は力強く押し出すような動きを印象づける。",
+          "example": "People rushed through the entrance to escape the rain.",
+          "translation": "人々は雨を避けるため、入口を急いで通り抜けた。"
+        },
+        {
+          "word": "stream",
+          "definition": "人や物などが、流れのように続いて移動する。",
+          "frequency": 4,
+          "difference": "連続して流れることに焦点があり、surge のような一気に押し寄せる勢いは必須でない。",
+          "example": "Visitors streamed into the hall throughout the afternoon.",
+          "translation": "午後の間ずっと、来場者が次々と会場に入っていった。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞】押し寄せる流れ・波・うねり",
+      "frequency": 4,
+      "register": [
+        "一般・自然現象・動きの描写。"
+      ],
+      "definition": "水や人などの力強い流れ、一度に押し寄せる動き、あるいは海の波・うねり。",
+      "patterns": [
+        "a surge of water＝どっと押し寄せる水",
+        "the surge of the sea＝海のうねり。個別の動きは a surge のように数え、海の連続したうねりをまとめていう用法もある。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a surge of water",
+          "use": "水が一気に押し寄せる動きをいう。",
+          "example": "A surge of water swept across the deck.",
+          "translation": "水がどっと甲板を横切って流れた。"
+        },
+        {
+          "pattern": "the surge of the sea",
+          "use": "海の連続したうねりを描く。",
+          "example": "The surge of the sea rocked the small boat.",
+          "translation": "海のうねりが、小さな船を揺らした。"
+        }
+      ],
+      "notes": [
+        "数量が増える語義2だけでなく、移動そのものを指す。波の一つ、まとまった流れ、連続するうねりでは数え方が異なるため、すべてを不可算だけ、または単数だけと決めない。"
+      ],
+      "synonyms": [
+        {
+          "word": "rush",
+          "definition": "一気に押し寄せる勢いのある流れ。",
+          "frequency": 4,
+          "difference": "速く流れ込むことを捉える。surge には海の波やうねりを指す用法もある。",
+          "example": "A rush of cold air entered the room.",
+          "translation": "冷たい空気が、一気に部屋へ流れ込んだ。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【自動詞】感情が強く湧き上がる",
+      "frequency": 3,
+      "register": [
+        "やや文学的な描写。"
+      ],
+      "definition": "感情、感覚、記憶などが急に強く生じ、心や体に広がる。",
+      "patterns": [
+        "〈感情など〉 + surge through someone＝感情などが人の中に強く広がる",
+        "〈感情など〉 + surge up in someone＝感情などが人の中に湧き上がる。感情や記憶が主語になる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "surge through someone",
+          "use": "感情が全身に広がるように感じられる場面を描く。",
+          "example": "Relief surged through her when she heard that everyone was safe.",
+          "translation": "全員が無事だと聞くと、安堵が彼女の中に一気に広がった。"
+        },
+        {
+          "pattern": "surge up in someone",
+          "use": "抑えられていた感情などが急に湧くと述べる。",
+          "example": "Anger surged up in him as he read the accusation.",
+          "translation": "非難の言葉を読むと、彼の中に怒りが湧き上がった。"
+        }
+      ],
+      "notes": [
+        "人を主語にして感情を直接目的語へ置く形ではない。Relief surged through her. の主語は relief、through her は感情が広がる人を示す句である。"
+      ],
+      "synonyms": [
+        {
+          "word": "well up",
+          "definition": "感情などが内側から湧き上がる。",
+          "frequency": 3,
+          "difference": "内側から満ちてくる感じを表す。surge は急で力強い広がりを強く示す。",
+          "example": "Sadness welled up as he looked at the old photograph.",
+          "translation": "古い写真を見ていると、彼の中に悲しみがこみ上げた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【名詞・可算】感情の急な高まり",
+      "frequency": 3,
+      "register": [
+        "感情・感覚の描写。"
+      ],
+      "definition": "感情や感覚が、ひとまとまりの強い波のように急に生じること。",
+      "patterns": [
+        "a surge of relief＝急な安堵の高まり",
+        "a surge of anger＝急に湧く怒り。of の後に感情名詞を置き、単数で一波の感情をいうことが多い。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a surge of relief",
+          "use": "安堵を一つの強い感情の波としていう。",
+          "example": "She felt a surge of relief when the missing file was found.",
+          "translation": "なくなっていたファイルが見つかり、彼女は強い安堵が一気に湧くのを感じた。"
+        },
+        {
+          "pattern": "a surge of anger",
+          "use": "突然強くなる怒りを述べる。",
+          "example": "The remark brought a surge of anger that he struggled to hide.",
+          "translation": "その発言で怒りが一気に湧き、彼はそれを隠すのに苦労した。"
+        }
+      ],
+      "notes": [
+        "feel a surge of ... では surge は名詞で、felt の目的語の中心になる。語義5の感情を主語にする動詞文とは構造が違う。"
+      ],
+      "synonyms": [
+        {
+          "word": "wave",
+          "definition": "一波のように急に広がる感情や感覚。",
+          "frequency": 4,
+          "difference": "感情が波のように来ることを表し、必ずしも surge と同じ勢いを強調しない。",
+          "example": "A wave of sadness passed over him.",
+          "translation": "悲しみが波のように彼を襲った。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【名詞・可算】電圧・電流の一時的な急増",
+      "frequency": 3,
+      "register": [
+        "電気・電子機器。"
+      ],
+      "definition": "電圧や電流が、一時的に急激に増大する現象。",
+      "patterns": [
+        "a voltage surge＝電圧のサージ",
+        "a power surge＝電力供給に関するサージ。複数の現象なら surges とする。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a voltage surge",
+          "use": "電圧の一時的な急増を述べる。",
+          "example": "A voltage surge damaged the old controller.",
+          "translation": "電圧のサージによって、古い制御装置が損傷した。"
+        },
+        {
+          "pattern": "a power surge",
+          "use": "電気系統の急変をいう。",
+          "example": "The equipment stopped working after a power surge.",
+          "translation": "電力供給のサージの後、その機器は動かなくなった。"
+        }
+      ],
+      "notes": [
+        "surge は電気的な変化の名称であり、故障や停電そのものの名称ではない。損傷をもたらす場合はあるが、すべての surge が必ず故障を起こすという意味ではない。",
+        "関連する surge protector は、この種の変化から機器を守るための装置を指す。例: The computer was connected through a surge protector. 訳: コンピューターは、サージ保護装置を介して接続されていた。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【自動詞・電気】電圧・電流が一時的に急増する",
+      "frequency": 3,
+      "register": [
+        "電気・電子機器。"
+      ],
+      "definition": "電圧や電流が、大きく一時的に増大する。",
+      "patterns": [
+        "〈電圧・電流〉 + surge＝電圧や電流が一時的に急増する。変化する量が主語で、直接目的語を取らない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the voltage surges",
+          "use": "電圧の急な増大を、電圧を主語にして述べる。",
+          "example": "The voltage surged and then returned to its previous level.",
+          "translation": "電圧は急増し、その後もとの水準に戻った。"
+        }
+      ],
+      "notes": [
+        "電気が経路を流れる動きと、電圧・電流の値が増える変化を区別する。人が何かを直接目的語に取って増やす他動詞文ではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 9,
+      "title": "【自動詞・電気】電圧・電流が激しく振動する",
+      "frequency": 2,
+      "register": [
+        "電気の専門用法。"
+      ],
+      "definition": "電圧や電流が安定せず、激しく変動する。",
+      "patterns": [
+        "〈電圧・電流〉 + surge＝電圧や電流が激しく振動する。変化する電気的な量が主語になる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the voltage surges",
+          "use": "一度の増加ではなく、激しい変動を述べる。",
+          "example": "The voltage surged, oscillating violently instead of remaining steady.",
+          "translation": "電圧は安定せず、激しく振動した。"
+        }
+      ],
+      "notes": [
+        "単に一方向へ増えることと、上下に激しく変動することを分けて読む。具体的な周期や故障原因まで、この語で決まるわけではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 10,
+      "title": "【他動詞】大きく増強する・集中投入する",
+      "frequency": 2,
+      "register": [
+        "軍事・生産体制などに関する専門的な説明。"
+      ],
+      "definition": "軍勢や工業生産基盤などを、必要に応じて大きく増強・動員する。",
+      "patterns": [
+        "surge the industrial base＝工業生産基盤を大きく増強する",
+        "surge forces＝軍勢を増強・投入する。増強する側が主語で、軍勢や工業生産基盤を直接目的語に取る。"
+      ],
+      "collocations": [
+        {
+          "pattern": "surge the industrial base",
+          "use": "工業生産を支える基盤を、必要に応じて増強・動員することをいう。",
+          "example": "The plan explains how to surge the industrial base during an emergency.",
+          "translation": "その計画は、緊急時に工業生産基盤をどう増強・動員するかを説明している。"
+        },
+        {
+          "pattern": "surge forces",
+          "use": "軍勢の集中的な増強・投入を説明する。",
+          "example": "The document described how the army could surge forces during an emergency.",
+          "translation": "その文書は、緊急時に軍がどのように兵力を増強できるかを説明していた。"
+        }
+      ],
+      "notes": [
+        "語義1の自動詞とは主語・目的語の役割が違う。この専門用法があることを、あらゆる日常的な対象に「急増させる」という他動詞を自由に使える根拠にはしない。"
+      ],
+      "synonyms": [
+        {
+          "word": "ramp up",
+          "definition": "規模や能力を大きく引き上げる。",
+          "frequency": 4,
+          "difference": "生産・活動などの拡大に使いやすい。surge の他動詞用法は軍事・能力増強などの用域を意識して使う。",
+          "example": "The factory ramped up production to meet the new orders.",
+          "translation": "工場は、新しい注文に応えるために生産量を引き上げた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 11,
+      "title": "【自動詞】海・波が盛り上がってうねる",
+      "frequency": 2,
+      "register": [
+        "海・水面の動きの描写。"
+      ],
+      "definition": "海などが盛り上がり、波やうねりをなして動く。",
+      "patterns": [
+        "〈海・水面など〉 + surge＝海などが盛り上がってうねる。波に揺られる船ではなく、水の側が主語になる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the sea surges",
+          "use": "海の盛り上がりとうねりを描く。",
+          "example": "At the foot of the cliffs, the sea surged in great swells.",
+          "translation": "崖のふもとでは、海が大きくうねっていた。"
+        }
+      ],
+      "notes": [
+        "ある場所へ流れ込む方向だけでなく、盛り上がって波状に動くことに焦点がある。単なる数値の増加ではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 12,
+      "title": "【自動詞】波に上下する・揺れる",
+      "frequency": 2,
+      "register": [
+        "船や波の動きの一般的な描写。"
+      ],
+      "definition": "船などが波に動かされ、上下に揺れ動く。",
+      "patterns": [
+        "〈船など〉 + surge up and down＝波に上下する",
+        "〈船など〉 + surge at anchor＝停泊中に波に揺られる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "surge up and down",
+          "use": "船が波に上下する様子を描く。",
+          "example": "The small boat surged up and down at its mooring.",
+          "translation": "小さな船は、係留場所で波に上下していた。"
+        }
+      ],
+      "notes": [
+        "数量が急増する意味ではなく、船などの動きを描く用法である。上へ進み続けることを意味しない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 13,
+      "title": "【名詞・可算】波などに伴う水位の上昇",
+      "frequency": 2,
+      "register": [
+        "海・水位に関する説明。"
+      ],
+      "definition": "波やうねりのまとまり・連続によって生じる水位の上昇。",
+      "patterns": [
+        "a surge in water level＝水位の上昇。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a surge in water level",
+          "use": "波そのものではなく、その結果として上がる水位をいう。",
+          "example": "The series of waves produced a surge in water level along the shore.",
+          "translation": "連続する波によって、岸沿いの水位が上昇した。"
+        }
+      ],
+      "notes": [
+        "波や水の流れという物・動きと、水位が上がる結果を区別する。この枝自体が、上昇量や継続時間を数値で定めるものではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 14,
+      "title": "【自動詞・機械】脈動しながら不均一に動く",
+      "frequency": 2,
+      "register": [
+        "エンジン・タービンなどの動作の説明。"
+      ],
+      "definition": "機関やそれで動くものが、脈動を伴って不均一に動作する。",
+      "patterns": [
+        "an engine surges＝機関が脈動を伴って不均一に動く。機関・機械の側が主語になる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an engine surges",
+          "use": "機関の動作が滑らかでないことを述べる。",
+          "example": "The engine surged, its output rising and falling unevenly.",
+          "translation": "エンジンは脈動し、出力が不均一に上下した。"
+        }
+      ],
+      "notes": [
+        "出力が一度上がったというだけの描写とは区別する。具体的な原因や故障の種類まで、この語一つで決まるわけではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 15,
+      "title": "【名詞】機関の脈動・不均一な動作",
+      "frequency": 2,
+      "register": [
+        "機械の動作。現象として engine surge とまとめて述べることもある。"
+      ],
+      "definition": "機関の出力や動きに見られる、脈動を伴う不均一さ。",
+      "patterns": [
+        "engine surge＝機関の脈動・不均一な動作。"
+      ],
+      "collocations": [
+        {
+          "pattern": "engine surge",
+          "use": "不均一な動作を現象名として述べる。",
+          "example": "The technician investigated engine surge, with output rising and falling unevenly.",
+          "translation": "技術者は、出力が不均一に上下するエンジンの脈動を調べた。"
+        }
+      ],
+      "notes": [
+        "動詞の The engine surges. と、現象を名詞句でいう engine surge は別の構造である。機械の出力と電気的な電圧・電流を、同じ対象として扱わない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 16,
+      "title": "【名詞・可算】流体圧力の一時的な急上昇",
+      "frequency": 2,
+      "register": [
+        "流体・機械の説明。"
+      ],
+      "definition": "流体の不均一な流れや運動量に伴う、一時的な圧力の急上昇。",
+      "patterns": [
+        "a pressure surge＝圧力の一時的な急上昇。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a pressure surge",
+          "use": "流体の圧力が急に高まる現象を述べる。",
+          "example": "A pressure surge travelled along the pipe after the flow changed suddenly.",
+          "translation": "流れが急に変わると、一時的な圧力の急上昇が管に沿って伝わった。"
+        }
+      ],
+      "notes": [
+        "増えるのは圧力であり、流体の量が大量に増えることを必要条件にしない。必ず何周期も反復する現象とも限らない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 17,
+      "title": "【他動詞・索具】索を徐々に緩める・送り出す",
+      "frequency": 2,
+      "register": [
+        "索具・船舶などの専門用語。"
+      ],
+      "definition": "ロープやケーブルを少しずつ送り出したり、滑らせたりして緩める。",
+      "patterns": [
+        "surge a cable＝索を少しずつ送り出して緩める。操作する側が主語、索が目的語になる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "surge a cable",
+          "use": "張力を調整するために索を緩める動作を述べる。",
+          "example": "The crew surged the cable gradually to ease the strain.",
+          "translation": "乗組員は張力を軽くするため、索を少しずつ送り出して緩めた。"
+        }
+      ],
+      "notes": [
+        "この意味では、急激な動作や大量の移動を必須としない。索を完全に外したり、切り離したりすることとも同じではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 18,
+      "title": "【自動詞・索具】索が滑る",
+      "frequency": 2,
+      "register": [
+        "索具・船舶などの専門用語。"
+      ],
+      "definition": "索が巻揚機や巻胴の周りなどで滑る。",
+      "patterns": [
+        "〈索〉 + surge around a capstan＝索が巻胴の周りで滑る。主語は滑る索で、直接目的語を取らない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "surge around a capstan",
+          "use": "索そのものの滑る動きを述べる。",
+          "example": "The rope surged around the capstan as the load shifted.",
+          "translation": "荷重が移動すると、ロープが巻胴の周りで滑った。"
+        }
+      ],
+      "notes": [
+        "語義17の人が索を緩める他動詞と、索が滑る自動詞を区別する。動きの大きさや反復回数までは、この語で決まらない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 19,
+      "title": "【名詞】索の滑り・緩み",
+      "frequency": 2,
+      "register": [
+        "索具・船舶などの専門用語。"
+      ],
+      "definition": "索が滑ったり、緩んだりする動き。個別の動きは a surge のように述べられる。",
+      "patterns": [
+        "a surge of the cable＝索の一時的な滑り・緩み。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a surge of the cable",
+          "use": "索の動きを一件の現象として述べる。",
+          "example": "The log recorded a brief surge of the cable around the windlass.",
+          "translation": "記録には、索が巻揚機の周りで一時的に滑ったことが記されていた。"
+        }
+      ],
+      "notes": [
+        "ここでは索の動き自体を指す。その動きに伴う急な引きや張力を指す語義20とは、焦点を区別する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 20,
+      "title": "【名詞・可算】索にかかる急な引き・張力",
+      "frequency": 2,
+      "register": [
+        "索具・船舶などの専門用語。"
+      ],
+      "definition": "索の動きなどに伴って生じる、急な引きや張力。",
+      "patterns": [
+        "a surge on a cable＝索にかかる急な引き・張力。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a surge on a cable",
+          "use": "索に急な力がかかることを述べる。",
+          "example": "The crew felt a sudden surge on the mooring cable.",
+          "translation": "乗組員は、係留索に急な張力がかかるのを感じた。"
+        }
+      ],
+      "notes": [
+        "この枝では急な力をいうが、それを索を緩める語義17の動作速度へ一律に当てはめない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}
