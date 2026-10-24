@@ -1,0 +1,18 @@
+const fs=require('node:fs'),assert=require('node:assert/strict');
+const harness=fs.readFileSync('tests/study_native_study_tools.cjs','utf8');
+const create=new Function('require',harness.slice(0,harness.indexOf('const stringify='))+';return create;')(require);
+const KEY='kyapyatango-study:v1';
+(async()=>{
+ const valid={records:{abandon:{rating:'hard',due:'2026-10-25'},'old-retired-card':{rating:'remembered',due:'2026-10-22'}},session:null};
+ const malformed=['{"records":','null','[]','',JSON.stringify({records:[],session:null}),JSON.stringify({records:{abandon:{rating:'hard',due:'2026-02-30'}},session:null}),JSON.stringify({records:{},session:{queue:['removed-card'],index:0,repeat:[],ratings:{again:0,hard:0,remembered:0},initial:1}}),JSON.stringify({...valid,undo:{id:'abandon'}})];
+ for(const mode of ['words','examples'])for(const raw of malformed){const key=mode==='words'?KEY:KEY+':examples';const t=create({[KEY+':mode']:mode,[key]:raw});assert.equal(t.run('readIssue'),raw.includes('removed-card')?'stale':'invalid');assert(t.nodes.get('retryRead'));assert.equal(t.nodes.get('reset').disabled,true);assert.equal(t.nodes.get('reviewNav').hidden,true);t.run('start(3)');await t.nodes.get('confirm').onclick();assert.equal(t.storage.get(key),raw);await t.nodes.get('openOtherMode').onclick();assert.equal(t.run('readIssue'),null);assert.equal(t.storage.get(key),raw);}
+ let t=create({[KEY+':examples']:'broken'});t.nodes.get('modeSelect').value='examples';await t.nodes.get('modeSelect').onchange({target:t.nodes.get('modeSelect')});assert.equal(t.run('readIssue'),'invalid');assert.equal(t.storage.get(KEY+':examples'),'broken');assert(t.nodes.get('retryRead'));
+ t=create({[KEY]:JSON.stringify(valid)});assert.equal(t.run('readIssue'),null);assert.deepEqual(t.get('state'),valid);t.run('start(3)');assert.deepEqual(t.get('state.records'),valid.records,'retired card record retained');
+ const session={queue:['abandon','abate'],index:1,repeat:[],ratings:{again:0,hard:1,remembered:0},initial:2};
+ t=create({[KEY]:JSON.stringify({...valid,session})});assert.equal(t.run('readIssue'),null);assert.deepEqual(t.get('state.session'),session,'v1 session without optional undo accepted');
+ t=create({[KEY]:JSON.stringify({...valid,session:{queue:[],index:0,repeat:[],ratings:{again:0,hard:0,remembered:0},initial:0}})});assert.equal(t.run('readIssue'),null,'legacy empty completed session is safe');
+ t=create({[KEY]:'bad'});t.storage.set(KEY,JSON.stringify(valid));await t.nodes.get('retryRead').onclick();assert.equal(t.run('readIssue'),null);assert.deepEqual(t.get('state'),valid);assert.equal(t.nodes.get('reset').disabled,false);assert.equal(t.nodes.get('reviewNav').hidden,false);
+ t=create({},KEY);assert.equal(t.run('readIssue'),'unavailable');t.run('start(3)');assert(!t.storage.has(KEY));t.setFail(null);await t.nodes.get('retryRead').onclick();assert.equal(t.run('readIssue'),null);assert(!t.storage.has(KEY),'retry is read-only');
+ for(const raw of malformed.filter(Boolean)){t=create({[KEY]:JSON.stringify(valid),[KEY+':reset-backup']:raw});await t.nodes.get('undo').onclick();assert.deepEqual(t.get('state'),valid);assert.equal(t.storage.get(KEY),JSON.stringify(valid));assert.equal(t.storage.get(KEY+':reset-backup'),raw);assert.match(t.nodes.get('storage').textContent,/変更していません/);}
+ console.log('PASS: corrupted JSON/schema/date/queue/undo preservation in both modes; no implicit reset; legacy v1 and optional-undo compatibility; retired card records retained; read-only retry/recovery; alternate-mode access; blocked storage; invalid backup preservation. Non-browser tests.');
+})().catch(e=>{console.error(e);process.exit(1)});

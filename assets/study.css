@@ -1,0 +1,53 @@
+/* Study-only additions. assets/site.css is an unchanged copy of the production stylesheet. */
+.trial-banner{padding:6px 12px;background:var(--soft);border-bottom:1px solid var(--line);color:var(--primary2);font-size:11px;text-align:center;font-weight:700}
+button,select{min-height:48px;border:1px solid var(--line);border-radius:10px;background:var(--panel);color:var(--ink);padding:10px 14px;cursor:pointer}button:hover{border-color:var(--primary)}button:disabled{opacity:.5;cursor:default}.site-header .icon-btn{min-height:38px;padding:0}button:focus-visible,a:focus-visible,summary:focus-visible,select:focus-visible{outline:3px solid var(--primary);outline-offset:3px}.primary{background:var(--primary);color:#fff;border-color:var(--primary);font-weight:750}.primary:hover{background:var(--primary2);color:#fff}.wide{width:100%}.home-search>.primary{padding:18px 20px;border-radius:16px;box-shadow:var(--shadow);font-size:17px}.actions{display:flex;gap:12px;margin-top:12px}.actions>*{flex:1;min-width:0}.muted{color:var(--muted);font-size:13px}.study-word{min-height:0}.study-word h2{overflow-wrap:anywhere}.study-word .muted{color:var(--primary)}.study-toolbar{align-items:center;justify-content:space-between}.study-toolbar>span{font-size:13px;color:var(--muted)}.study-layout{grid-template-columns:1fr}.study-main{max-width:none}.study-main .word{overflow-wrap:anywhere}.study-main .word-hero{margin-top:0}.answer{margin:0;padding:0}.example{margin:20px 0}.example p:first-child{font-size:17px;color:var(--ink)}.example p{font-size:14px}.answer>a{display:inline-block;color:var(--primary);padding:12px 0}.rating{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin-top:16px}.rating button{padding:12px 4px;font-size:14px}.rating small{display:block;font-size:10px}.textbtn{background:transparent;border:0;text-decoration:underline;font-size:13px}.site-footer details{max-width:780px;text-align:left;margin:16px auto}.site-footer summary{cursor:pointer;min-height:44px}.site-footer p{font-size:12px}progress{width:100%;height:7px;accent-color:var(--accent);display:block;margin:20px 0}.finish-card{max-width:900px;margin:24px auto}.finish-mark{width:56px;height:56px;display:grid;place-items:center;border-radius:50%;background:var(--soft);color:var(--primary);font-size:28px}.counts{display:flex;justify-content:space-around;text-align:center}.counts strong{display:block;font-size:28px;color:var(--primary)}dialog{max-width:430px;width:calc(100% - 24px);border:1px solid var(--line);border-radius:18px;background:var(--panel);color:var(--ink);padding:24px}dialog::backdrop{background:#0008}[hidden]{display:none!important}#study-start,#review-note{scroll-margin-top:85px}
+@media(max-width:720px){.site-header{gap:8px}.site-header nav{gap:12px}.site-header nav a{font-size:13px}.actions{display:grid;grid-template-columns:1fr}.finish-card{margin:14px 12px}.study-toolbar button{min-height:44px}.rating{gap:6px}}
+
+.study-heading{padding-top:28px}.study-dashboard .stats{margin-top:0}.study-dashboard .dictionary-section{padding-top:30px}.study-dashboard .stats div{padding:14px}.import-status{margin-top:30px}.import-status>p{font-size:13px;color:var(--muted)}
+/* Compact session only: independent scrollable content between persistent controls. */
+body.session-active{overflow:hidden}
+.session-active>.site-header,.session-active>.trial-banner,.session-active>.site-footer{display:none}
+.session-layout{position:fixed;inset:0;z-index:90;height:100vh;height:100dvh;display:grid;grid-template-rows:auto minmax(0,1fr) auto;background:var(--bg);padding:env(safe-area-inset-top,0px) env(safe-area-inset-right,0px) 0 env(safe-area-inset-left,0px);max-width:none;margin:0;box-sizing:border-box}
+.session-header{display:flex;align-items:center;justify-content:space-between;gap:8px;padding:6px 12px;border-bottom:1px solid var(--line);background:var(--panel)}
+.session-header button{min-height:44px;padding:6px 10px;font-size:13px}.session-header>span{text-align:center;font-size:13px;font-weight:700}.session-header small{display:block;color:var(--muted);font-size:10px;font-weight:400;line-height:1.4}
+.session-content{overflow:auto;overscroll-behavior:contain;min-height:0;padding:16px max(16px,calc((100vw - 680px)/2));scroll-padding:12px;overflow-wrap:anywhere}
+.session-content .word{color:var(--primary);font-size:32px;line-height:1.2;letter-spacing:-.025em;margin:0 0 18px;font-weight:800}
+.session-content .recall-prompt{margin:20px 0;color:var(--muted);font-size:16px}.recall-prompt small{display:block;font-size:12px;margin-top:6px}
+.session-content .meaning{font-size:19px;line-height:1.55;margin:0 0 14px;font-weight:750;color:var(--ink)}
+.session-example{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:0 12px;margin-bottom:10px}.session-example summary,.session-extra summary{min-height:44px;display:list-item;cursor:pointer;font-size:13px;font-weight:600;padding:10px 0;color:var(--muted)}
+.session-example p{font-size:14px;line-height:1.6;margin:0 0 12px}.session-example p[lang=en]{font-size:16px;color:var(--ink)}.session-extra{font-size:14px}.session-extra p{margin:8px 0;line-height:1.65}
+.session-source{display:inline-flex;align-items:center;gap:6px;min-height:44px;color:var(--primary);font-size:13px;text-underline-offset:3px}.session-source span{font-size:11px;color:var(--muted)}
+.session-actions{padding:10px max(12px,calc((100vw - 680px)/2)) calc(8px + env(safe-area-inset-bottom,0px));background:var(--panel);border-top:1px solid var(--line)}
+.session-actions .rating{margin:0;gap:8px}.session-actions button{min-height:52px;font-size:14px}.session-actions .rating small{font-size:10px;line-height:1.4}.session-hint{margin:6px 0 0;text-align:center;font-size:11px;color:var(--muted);line-height:1.4}
+@media(max-height:600px){.session-content{padding-top:12px;padding-bottom:12px}.session-content .word{font-size:28px;margin-bottom:12px}.session-content .meaning{font-size:17px;margin-bottom:10px}.session-actions{padding-top:8px}.session-header{padding-top:3px;padding-bottom:3px}}
+@media(min-width:800px){.session-header{padding-left:max(16px,calc((100vw - 680px)/2));padding-right:max(16px,calc((100vw - 680px)/2))}}
+html[data-theme="dark"] .primary{color:var(--bg)}
+.mode-choice{margin:16px 0 20px}.mode-choice label{display:block;font-size:13px;color:var(--muted);margin-bottom:6px}.mode-choice select{width:100%}.sentence-question{font-size:20px;line-height:1.6;margin:0 0 16px;overflow-wrap:anywhere}.sentence-translation{font-size:16px;line-height:1.7;margin:0 0 14px}.session-extra li{margin:10px 0}.session-content .sense-number{margin:8px 0;font-size:11px}.session-extra ol{padding-left:22px}@media(max-height:600px){.sentence-question{font-size:18px;line-height:1.5}.sentence-translation{font-size:15px}}
+.session-content h1[tabindex="-1"]:focus,.session-content h2[tabindex="-1"]:focus{outline:none}
+.session-actions #undoRating{display:block;margin:2px auto 0;min-height:44px;padding:4px 10px;font-size:12px}.save-warning{display:flex;align-items:center;gap:8px;padding:8px;margin:8px 0;border:1px solid var(--warning);border-radius:10px;color:var(--ink);background:var(--panel);font-size:12px;line-height:1.4}.save-warning button{flex-shrink:0;font-size:12px;min-height:44px;padding:6px 9px}.session-actions .save-warning{margin:0 0 6px}
+
+/* When enlarged controls leave too little reading space, allow one continuous scroll. */
+.session-layout.session-scroll{display:block;overflow-y:auto;overscroll-behavior:contain}.session-scroll .session-content{overflow:visible;min-height:160px}.session-scroll .session-actions{position:static}.sentence-translation[tabindex="-1"]:focus{outline:none}
+
+/* Put the next study action before optional library totals. */
+.study-dashboard .study-heading{padding-top:16px;margin-bottom:12px}.study-dashboard .study-heading h2{font-size:24px}.study-dashboard .mode-choice{margin:10px 0 14px}.study-dashboard .mode-choice p{font-size:12px;line-height:1.5;margin:8px 0}.study-dashboard #study-start{padding-top:0}.study-dashboard #study-start .overview-card{padding:16px}.study-dashboard #study-start h2{font-size:20px;margin:0 0 8px}.study-dashboard #study-start .actions{display:grid;grid-template-columns:minmax(90px,.8fr) minmax(0,1.2fr);gap:8px;margin-top:6px}.study-dashboard #study-start .actions>*{padding:8px;font-size:13px}.study-records{margin:16px 0}.study-records>summary,.rating-guide>summary{min-height:44px;padding:10px 0;cursor:pointer;color:var(--muted);font-size:13px}.study-records .stats{margin-top:10px}.rating-guide p{font-size:13px;line-height:1.7}.review-outlook{line-height:1.7}.resume-progress{margin-top:0}
+.finish-card{padding:20px}.finish-card .finish-mark{display:none}.finish-card h1{font-size:26px;line-height:1.4;margin:0 0 12px}.finish-card>p{font-size:14px;line-height:1.6;margin:12px 0}.finish-card .counts p{margin:8px 0}.finish-card .counts strong{font-size:24px}.finish-card #undoRating{display:block;min-height:44px;margin:4px auto 8px}
+
+.session-extra li a{display:inline-flex;align-items:center;min-height:44px;min-width:44px;padding:6px 8px;margin:2px 0}
+
+#reviewFilter{display:block;width:100%;margin:6px 0 12px}
+
+#reviewCount{scroll-margin-top:85px}
+
+/* Focused practice uses the same scheduling rules and keeps controls touch-sized. */
+#ratingFilter{display:block;width:100%;margin:6px 0 12px}
+.review-search{display:flex;gap:8px;align-items:stretch;margin:6px 0 12px}
+.review-search input{flex:1;min-width:0;width:100%;min-height:48px;padding:12px;border:1px solid var(--line);border-radius:10px;background:var(--panel);color:var(--ink);font:inherit;font-size:16px}
+.review-search input:focus-visible{outline:3px solid var(--primary);outline-offset:3px}
+.review-search button{flex-shrink:0}
+.focused-study{padding:12px;border:1px solid var(--line);border-radius:12px;background:var(--panel);margin:12px 0}
+.focused-study button{width:100%;font-weight:700;color:var(--primary)}
+.focused-study p{line-height:1.6;margin:8px 0 0}
+.other-session{margin-top:12px;padding:12px;border:1px solid var(--line);border-radius:12px;background:var(--panel)}
+.other-session p{font-size:13px;line-height:1.6;margin:0 0 8px}
+.other-session button{width:100%;font-size:13px}

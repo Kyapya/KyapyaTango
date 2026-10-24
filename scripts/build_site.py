@@ -242,7 +242,7 @@ def home_page(words: list[dict]) -> str:
 <html lang="ja" data-theme="light">
 <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="発音・語源・構文・コロケーションまで学べる詳細英和辞典。"><title>英和辞典Extra</title><link rel="stylesheet" href="assets/site.css"></head>
 <body>
-<header class="site-header"><a class="brand" href="index.html">英和辞典<span>Extra</span></a><nav><a href="#words">単語一覧</a><button id="themeToggle" class="icon-btn" aria-label="配色を切り替える">◐</button></nav></header>
+<header class="site-header"><a class="brand" href="index.html">英和辞典<span>Extra</span></a><nav><a href="#words">単語一覧</a><a href="study.html">学習・復習</a><button id="themeToggle" class="icon-btn" aria-label="配色を切り替える">◐</button></nav></header>
 <main class="home-main">
 <section class="home-hero"><p class="kicker">A DEEP ENGLISH–JAPANESE DICTIONARY</p><h1>意味だけでなく、<br>使い方まで身につく辞典。</h1><p>発音、語源、コアイメージ、主要構文、コロケーション、類義語の違いを一つのページで学べます。</p><div class="home-search"><input id="homeSearch" type="search" placeholder="英単語・日本語訳・構文を検索"><span>⌕</span></div><div id="suggestions" class="suggestions"></div></section>
 <section class="stats"><div><b>{len(words)}</b><span>収録単語</span></div><div><b>{sum(len(w['senses']) for w in words)}</b><span>収録語義</span></div><div><b>A–Z</b><span>索引対応</span></div><div><b>100%</b><span>静的サイト</span></div></section>
@@ -272,6 +272,8 @@ def build() -> None:
     (ROOT / "index.html").write_text(home_page(words), encoding="utf-8")
     (ROOT / "404.html").write_text(home_page(words).replace('<title>英和辞典Extra</title>', '<title>ページが見つかりません｜英和辞典Extra</title>'), encoding="utf-8")
     write_search_index(words)
+    from build_study import build_study
+    build_study(words, DATA)
     print(f"Built {len(words)} words and {sum(len(w['senses']) for w in words)} senses.")
 
 
