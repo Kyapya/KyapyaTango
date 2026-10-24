@@ -1,0 +1,245 @@
+{
+  "word": "slurp",
+  "slug": "slurp",
+  "ipa": "米: /slɜrp/｜英: /slɜːp/。いずれも1音節。示した表記では、この1音節内の母音の長さ記号と /r/ の有無が異なる。長さ記号の違いには辞書の表記方法も関わるため、それだけで米音と英音の母音の実際の長さを一律に決めない。語末は無声音 /p/ で、slurped の過去語尾は /t/ になる。",
+  "lead": "食べ物や飲み物を、吸い込むような音を立てて口に取り込む。液体だけでなく麺などにも使う。飲食物を直接目的語にする形と、音を立てる飲み方だけを述べる形がある。",
+  "updated": "2026-10-24",
+  "notion_url": "https://app.notion.com/p/slurp-4034faa9b77d818fbde2c37b0fa4e3e2",
+  "pronunciation": [],
+  "etymology": [
+    "オランダ語 slurpen に由来する語とされ、中期低地ドイツ語 slorpen は同系の語として挙げられる。さらに古い形を音の模倣と結び付ける説明もあるが、その細部を確定した由来として断定しない。現代では、吸い込む音と動きを捉える語として理解するとよい。"
+  ],
+  "formation": [
+    {
+      "term": "slurper",
+      "description": "食べ物や飲み物をずるずると音を立てて飲食する人を指す名詞。"
+    },
+    {
+      "term": "slurpy",
+      "description": "ずるずるという音を立てる性質を表す口語的な形容詞。比較級 slurpier、最上級 slurpiest がある。"
+    },
+    {
+      "term": "slurped／slurping",
+      "description": "過去形・過去分詞／現在分詞・動名詞。活用形があることと、独立した形容詞の別義があることは区別する。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "「ずるっと吸い込む動きと、その音」のイメージが核。飲食の動作・一回分・音を区別し、技術用法では入力をまとめて取り込む比喩として捉えるが、実際に音が出たり液体を吸ったりするという意味ではない。"
+    },
+    {
+      "type": "item",
+      "text": "吸い込む動きと音を伴う飲食 → 「音を立ててすする」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "吸い込む動きの一回・その量 → 「音を立てて飲む一口・ひとすすり」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "吸い込むような動きで生じる音 → 「ずるずる・ちゃぷちゃぷという音」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "吸い込む動きになぞらえる入力の取り込み → 「入力をまとめて読み込む」（語義4）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【他動詞・自動詞】音を立ててすする",
+      "frequency": 4,
+      "register": [
+        "口語的な描写。食べ方・飲み方の音を述べる場面。"
+      ],
+      "definition": "食べ物や飲み物を、吸い込むような音を立てて口に取り込む。液体だけでなく麺などにも使う。飲食物を直接目的語にする形と、音を立てる飲み方だけを述べる形がある。",
+      "patterns": [
+        "slurp 〈飲食物〉＝飲食物を音を立ててすする",
+        "someone + slurp＝人が音を立ててすする",
+        "slurp from 〈容器〉＝容器からすする",
+        "slurp 〈飲食物〉 off 〈道具など〉＝道具などから飲食物をすする",
+        "slurp down 〈飲食物〉",
+        "slurp 〈飲食物〉 down＝飲食物を音を立てて飲み下す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "slurp noodles",
+          "use": "固形の食べ物にも使うことを示す。",
+          "example": "He slurped the noodles noisily.",
+          "translation": "彼は、音を立てて麺をすすった。"
+        },
+        {
+          "pattern": "slurp coffee",
+          "use": "飲み物をすする音を述べる。",
+          "example": "She slurped her coffee while reading the paper.",
+          "translation": "彼女は新聞を読みながら、コーヒーをずるずるとすすった。"
+        },
+        {
+          "pattern": "someone + slurp",
+          "use": "飲食物が文脈で分かる場合に、動作だけを述べる。",
+          "example": "He lifted the bowl and slurped.",
+          "translation": "彼は椀を持ち上げ、ずるずるとすすった。"
+        },
+        {
+          "pattern": "slurp from 〈容器〉",
+          "use": "すする元の容器を示す。",
+          "example": "The child slurped from the cup.",
+          "translation": "子どもは、カップから音を立てて飲んだ。"
+        },
+        {
+          "pattern": "slurp soup off a spoon",
+          "use": "飲食物を取り込む元の道具を示す。",
+          "example": "He slurped the soup off his spoon.",
+          "translation": "彼は、スプーンのスープを音を立ててすすった。"
+        },
+        {
+          "pattern": "slurp it down",
+          "use": "飲食物を代名詞で受け、小辞の前に置く。",
+          "example": "She picked up the milk and slurped it down.",
+          "translation": "彼女はミルクを手に取り、音を立てて飲み下した。"
+        }
+      ],
+      "notes": [
+        "from や off は飲食物の出所を示す前置詞。down は小辞で、名詞は slurp down the milk／slurp the milk down と前後に置けるが、通常の代名詞は slurp it down とする。slurp の中心は音を伴う飲食で、一度に飲む量や速さだけではない。うるさい、行儀が悪いという評価を伴う場面もあるが、どの文化や場面でも必ず失礼だという規則まで含む語ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "sip",
+          "definition": "飲み物を少量ずつ飲む。",
+          "frequency": 6,
+          "difference": "sip は一口の量を表し、音を必須としない。slurp は吸い込むような音を伴う飲み方を描く。",
+          "example": "She sipped the warm tea.",
+          "translation": "彼女は暖かい茶を、少しずつ飲んだ。"
+        },
+        {
+          "word": "gulp",
+          "definition": "飲食物を急いで、あるいは大きな一口で飲み込む。",
+          "frequency": 5,
+          "difference": "gulp は飲み込む勢いや一口の大きさに注目する。slurp はすする音を中心に捉えるため、単なる速さの違いではない。",
+          "example": "He gulped down the water.",
+          "translation": "彼は水をぐっと飲み下した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞・可算】音を立てて飲む一口・ひとすすり",
+      "frequency": 3,
+      "register": [
+        "口語的な飲食の描写。"
+      ],
+      "definition": "飲食物を音を立てて一度取り込むこと、またはその一口分。動詞ではなく、一回の動作や量として捉える。",
+      "patterns": [
+        "a slurp of 〈飲み物〉＝飲み物のひとすすり",
+        "take a slurp＝音を立てて一口飲む。複数形は slurps。"
+      ],
+      "collocations": [
+        {
+          "pattern": "take a slurp of 〈飲み物〉",
+          "use": "一回の音を立てる飲用を述べる。",
+          "example": "He took a slurp of tea before answering.",
+          "translation": "彼は答える前に、茶を音を立てて一口飲んだ。"
+        }
+      ],
+      "notes": [
+        "a slurp of tea の of tea は一口の内容。語義3の音自体を指す名詞と重なり得るが、ここでは飲む動作・量を捉える。a を伴う名詞なので、take の後に置いた動詞の原形ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "sip",
+          "definition": "少量の一口、または少し飲むこと。",
+          "frequency": 6,
+          "difference": "名詞の sip は少量であることに焦点があり、slurp は音を立てて取り込む動作を示す。",
+          "example": "She took a sip of juice.",
+          "translation": "彼女はジュースを一口飲んだ。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・可算】ずるずる・ちゃぷちゃぷという音",
+      "frequency": 2,
+      "register": [
+        "口語的・描写的な表現。"
+      ],
+      "definition": "吸い込んだり、液体が揺れたりする際の、ずるずる・ちゃぷちゃぷとした音。人が飲食する音だけでなく、水や波の音を描くこともある。",
+      "patterns": [
+        "a loud slurp＝大きなすする音",
+        "the slurp of 〈液体の動きなど〉＝液体などが立てる音。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a loud slurp",
+          "use": "音そのものに焦点を当てる。",
+          "example": "A loud slurp interrupted the silence.",
+          "translation": "大きなすする音が、静けさを破った。"
+        },
+        {
+          "pattern": "the slurp of waves",
+          "use": "飲食に限らない水音を描く。",
+          "example": "We heard the gentle slurp of waves against the hull.",
+          "translation": "船体に当たる波の、穏やかなちゃぷちゃぷという音が聞こえた。"
+        }
+      ],
+      "notes": [
+        "この意味では、音を立てる主体が口で飲んでいるとは限らない。語義2の「一口分」をすべての slurp に当てはめず、of の後のものや場面から、動作・量か音かを判断する。"
+      ],
+      "synonyms": [
+        {
+          "word": "splash",
+          "definition": "水が跳ねたり物が水に当たったりする際の音。",
+          "frequency": 6,
+          "difference": "splash は水の跳ねる衝撃を捉えやすい。slurp は吸い込むような音や、液体がちゃぷちゃぷ動く音を描く。",
+          "example": "We heard a splash beside the boat.",
+          "translation": "ボートの横で、水の跳ねる音が聞こえた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【他動詞】入力をまとめて読み込む",
+      "frequency": 2,
+      "register": [
+        "プログラミング・データ処理の専門的な表現。"
+      ],
+      "definition": "プログラムが、対象となる入力をまとめて読み込み、文字列、バッファ、配列などとして扱う。ファイル全体や、現在位置から残りの入力を取り込む処理などを指す技術的な用法。",
+      "patterns": [
+        "slurp a file＝ファイルをまとめて読み込む",
+        "slurp 〈入力〉 into 〈格納先〉＝入力をまとめて格納先へ読み込む。"
+      ],
+      "collocations": [
+        {
+          "pattern": "slurp a file",
+          "use": "ファイルを一まとまりとして読む処理を述べる。",
+          "example": "The script slurps the entire file into memory.",
+          "translation": "そのスクリプトは、ファイル全体をメモリにまとめて読み込む。"
+        },
+        {
+          "pattern": "slurp 〈入力〉 into 〈格納先〉",
+          "use": "読み込む範囲と格納先を明示する。",
+          "example": "The function slurps the remaining input into a buffer.",
+          "translation": "その関数は、残りの入力をバッファにまとめて読み込む。"
+        }
+      ],
+      "notes": [
+        "Raku の slurp は、ファイルや入力を文字列・バイナリとして読む処理に使われ、開かれたハンドルでは現在位置から残りを読む。jq の --slurp は、複数の入力JSON値を配列にまとめてフィルターへ渡し、raw-input と組み合わせる場合は文字列として扱う。語だけから、必ずファイルの先頭から読む、OSの読込み呼出しが一回だけで済む、必ず速い、という条件を読み足さない。飲食のような音が出るという意味でもない。"
+      ],
+      "synonyms": [
+        {
+          "word": "read",
+          "definition": "プログラムがデータを読み込む。",
+          "frequency": 8,
+          "difference": "read は読み込む処理を広く表し、少しずつ読むことにも使える。技術用法の slurp は、対象入力をまとめて取り込む扱いを強調する。",
+          "example": "The program reads the file one line at a time.",
+          "translation": "そのプログラムは、ファイルを一行ずつ読み込む。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
