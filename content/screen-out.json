@@ -1,0 +1,312 @@
+{
+  "word": "screen out",
+  "slug": "screen-out",
+  "ipa": "米・英: /skriːn aʊt/。構成語 screen は /skriːn/、out は /aʊt/ で、それぞれ1音節。screens out は /skriːnz aʊt/、screened out は /skriːnd aʊt/、screening out は /ˈskriːnɪŋ aʊt/。screened の -ed は /d/ で、音節を増やさない。screening は2音節で第1音節に語内部の強勢がある。句全体の卓立は対比や文脈による。",
+  "lead": "人・物・情報などを調べたり一定の条件に照らしたりして、選考・処理の対象から外す。注意・知覚の文脈では、無関係な刺激を意識から締め出すことにも使う。",
+  "updated": "2026-10-25",
+  "notion_url": "https://app.notion.com/p/screen-out-4044faa9b77d81588b16f42784314420",
+  "pronunciation": [],
+  "etymology": [
+    "screen は、遮る物・保護する物に関係するゲルマン語系の語から、フランス語系の形などを経て英語に入った系列に属する。現代英語には、障壁で遮ることと、調べて選別することの両方を表す動詞用法がある。screen out は、その動詞に除外・遮断の方向を示す out が付いた形。基本語 screen の初出年代を、screen out という組合せの成立年代と同一視しない。"
+  ],
+  "formation": [
+    {
+      "term": "screens out／screened out／screening out",
+      "description": "動詞部分を活用し、out は変化しない。"
+    },
+    {
+      "term": "screened-out responses",
+      "description": "過去分詞句が名詞を前から修飾し、選別から外された回答などを表す。この形だけで独立した評価形容詞義を立てない。"
+    },
+    {
+      "term": "screen-out／screen out",
+      "description": "調査分野では、選考から外れる事例・結果を数える名詞としても使う。screen-out point のように、他の名詞の前に置く形もある。語義4を参照。"
+    },
+    {
+      "term": "screenout",
+      "description": "坑井処理の専門名詞として一語で書く形。一般の調査選考とは対象・成立条件が異なる。語義5・6を参照し、二語の動詞の全用法をこの綴りへ変えない。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "条件や障壁によって、対象の通過・進行が阻まれること。選考では参加・処理の対象から外れる形、物理的な場面では成分や流れが遮られる形で現れる。何が通らなくなるかを語義ごとに確認し、常に悪いものを取り除くという評価までは含めない。"
+    },
+    {
+      "type": "item",
+      "text": "通過の阻止による候補・情報の除外 → 「選別して除外する」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "通過の阻止による物・刺激の遮断 → 「遮って通さない」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "通過の阻止による調査対象者の脱落 → 「参加条件を満たさず除外される」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "通過の阻止による選考上の除外事例 → 「調査選考での除外事例」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "通過の阻止による坑井流路の閉塞 → 「固体による流路の閉塞」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "通過の阻止による砂の充填限界 → 「砂の充填が限界に達する状態」（語義6）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【句動詞・他動詞】選別して除外する",
+      "frequency": 4,
+      "register": [
+        "選考、調査、情報処理、注意・知覚の説明など。"
+      ],
+      "definition": "人・物・情報などを調べたり一定の条件に照らしたりして、選考・処理の対象から外す。注意・知覚の文脈では、無関係な刺激を意識から締め出すことにも使う。",
+      "patterns": [
+        "screen out 〈除外対象〉",
+        "screen 〈除外対象〉 out",
+        "screen them out",
+        "screen someone out of 〈選考・調査〉",
+        "someone or something + be screened out。"
+      ],
+      "collocations": [
+        {
+          "pattern": "screen out unsuitable candidates",
+          "use": "基準に合わないと判断した候補者を除外することを述べる。",
+          "example": "The initial assessment screened out candidates who lacked the required experience.",
+          "translation": "最初の審査で、必要な経験を持たない候補者が除外された。"
+        },
+        {
+          "pattern": "screen incomplete applications out（screen out の構文）",
+          "use": "名詞目的語を動詞と out の間に置く。",
+          "example": "The team screened incomplete applications out before the interviews.",
+          "translation": "チームは面接前に、提出書類に不備のある応募を除外した。"
+        },
+        {
+          "pattern": "screen them out（screen out の構文）",
+          "use": "既出の除外対象を代名詞で受ける。",
+          "example": "Some records fell outside the study period, so the researchers screened them out.",
+          "translation": "一部の記録は調査対象期間外だったため、研究者たちはそれらを除外した。"
+        },
+        {
+          "pattern": "be screened out of a survey（screen out の構文）",
+          "use": "調査への参加から除外された人を主語にする。",
+          "example": "Respondents who did not meet the eligibility criteria were screened out of the survey.",
+          "translation": "参加条件を満たさなかった回答者は、調査から除外された。"
+        },
+        {
+          "pattern": "screen out distractions",
+          "use": "注意をそらす刺激を意識の対象から外すことを述べる。",
+          "example": "She found it difficult to screen out distractions while studying.",
+          "translation": "彼女は勉強中、気を散らす刺激を意識から締め出すのが難しいと感じた。"
+        }
+      ],
+      "notes": [
+        "普通の人称代名詞は screen と out の間に置き、screen out them としない。screen applicants のような審査する行為と、screen out applicants のような除外する結果は同じではない。ただし基本動詞 screen にも選別の用法があるため、out がなければ除外に関係しないとまで断定しない。除外された人・物が実際に不適切とは限らず、誤判定の場合もある。"
+      ],
+      "synonyms": [
+        {
+          "word": "filter out",
+          "definition": "条件に合わない項目などを選んで除く。",
+          "frequency": 4,
+          "difference": "情報・候補の選別では screen out と重なる。screen out は審査や通過の可否を捉えやすいが、filter out が機械だけ、screen out が人の判断だけという絶対的な区分ではない。",
+          "example": "The program filtered out duplicate entries.",
+          "translation": "そのプログラムは、重複する項目を除外した。"
+        },
+        {
+          "word": "weed out",
+          "definition": "集団から不要・不適切なものを選んで除く。",
+          "frequency": 4,
+          "difference": "集合内にあるものを見分けて取り除く捉え方がある。screen out は選考や関門を通さない場面でも使う。実際の候補選定では意味が重なることがある。",
+          "example": "The panel weeded out proposals that did not fit the project.",
+          "translation": "委員会は、計画に合わない提案を選んで除いた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【句動詞・他動詞】遮って通さない",
+      "frequency": 3,
+      "register": [
+        "濾過、遮光、遮音、遮蔽など。"
+      ],
+      "definition": "障壁・装置などによって、物質、光、音、視界などを遮り、通過・到達を防ぐ。",
+      "patterns": [
+        "screen out particles",
+        "screen out light",
+        "screen out noise",
+        "screen something out。目的語は遮る対象で、保護される側とは区別する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "screen out solid particles",
+          "use": "通過を防ぐ固体粒子を目的語にする。",
+          "example": "The mesh screens out solid particles from the liquid.",
+          "translation": "その網は、液体の中の固体粒子を通さずに取り除く。"
+        },
+        {
+          "pattern": "screen out sunlight",
+          "use": "遮る光を目的語にする。",
+          "example": "The blinds screen out direct sunlight.",
+          "translation": "そのブラインドは、直射日光を遮る。"
+        },
+        {
+          "pattern": "screen out noise",
+          "use": "音の到達を妨げる障壁について述べる。",
+          "example": "The barrier helps screen out traffic noise.",
+          "translation": "その障壁は、交通騒音を遮るのに役立つ。"
+        }
+      ],
+      "notes": [
+        "screen people from the sun のように保護される人を目的語にする基本動詞構文と、screen out sunlight のように遮る光を目的語にする構文は役割が違う。現実の障壁・装置が完全に光や音をゼロにすることまで、この句だけで保証されるわけではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "filter out",
+          "definition": "フィルターなどで成分・信号の一部を取り除く。",
+          "frequency": 4,
+          "difference": "粒子や光の成分を除く場面で screen out と重なる。screen out を目のある網だけ、filter out を液体だけに限定する区分はしない。",
+          "example": "The device filters out unwanted signals.",
+          "translation": "その装置は、不要な信号を取り除く。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【句動詞・自動詞】参加条件を満たさず除外される",
+      "frequency": 2,
+      "register": [
+        "アンケート・市場調査などの実務用法。一般の退出表現として広げない。"
+      ],
+      "definition": "調査の対象者が参加条件に合わず、選考の段階で対象から外れる。",
+      "patterns": [
+        "respondents + screen out",
+        "someone + screen out at 〈選考段階〉。条件判定で外れる対象者が主語で、直接目的語を置かない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "respondents screen out",
+          "use": "対象者が調査の参加条件を満たさなかったことを述べる。",
+          "example": "Several respondents screened out because they did not meet the study's eligibility criteria.",
+          "translation": "数人の回答者は調査の参加条件を満たさず、対象から外れた。"
+        },
+        {
+          "pattern": "screen out at the first stage",
+          "use": "対象から外れた段階を示す。",
+          "example": "Some respondents screened out at the first stage.",
+          "translation": "一部の回答者は、最初の段階で調査対象から外れた。"
+        }
+      ],
+      "notes": [
+        "調査実務では受動助動詞のない能動形でも使われる。語義1の were screened out と意味上近くても、構文は区別する。自分から辞退したことや、群衆が少しずつ会場を出ることを、この用法の意味だと決めない。"
+      ],
+      "synonyms": [
+        {
+          "word": "be excluded",
+          "definition": "対象から外される。",
+          "frequency": 4,
+          "difference": "除外を広く表す受動構文。screen out のこの自動詞用法は、調査の参加資格判定という文脈に結び付く。全ての excluded を、この専門的な能動形へ置き換えるわけではない。",
+          "example": "Participants who did not meet the criteria were excluded from the study.",
+          "translation": "基準を満たさなかった参加者は、研究対象から除外された。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・可算】調査選考での除外事例",
+      "frequency": 2,
+      "register": [
+        "調査実務。screen-out や screen out の綴りで使う。"
+      ],
+      "definition": "調査の選考で、対象者が参加条件に合わず除外される個別の事例・結果。",
+      "patterns": [
+        "a screen-out",
+        "screen outs",
+        "screen-out counts。個別の除外事例を数える。"
+      ],
+      "collocations": [
+        {
+          "pattern": "screen-out counts（screen out の名詞形）",
+          "use": "調査の選考で除外となった件数を述べる。",
+          "example": "The report lists the screen-out counts for each stage.",
+          "translation": "その報告書には、各段階での調査対象からの除外件数が示されている。"
+        }
+      ],
+      "notes": [
+        "screen-out point は除外が生じる箇所を表す修飾用法。こうした名詞の使い方を、あらゆる分野の一般名詞や、自由な述語形容詞へ広げない。回答の保存・料金・集計方法などはサービスごとの仕様であり、この語の一般的な意味ではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞・可算/不可算】固体による流路の閉塞",
+      "frequency": 1,
+      "register": [
+        "坑井処理の専門用語。通常 screenout と一語で書く。"
+      ],
+      "definition": "坑井処理で、処理液に含まれる固体が狭い流路などをふさぎ、液体の流れが急激に制限される状態。",
+      "patterns": [
+        "a screenout",
+        "screenouts",
+        "premature screenout。個別の発生を数える用法と、現象を一般的に述べる用法がある。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a screenout（screen out の関連名詞）",
+          "use": "固体が流路をふさぐ形のスクリーンアウトを述べる。",
+          "example": "During treatment, solids bridged across the perforations and caused a screenout.",
+          "translation": "処理中、固体が穿孔部に橋状に詰まり、スクリーンアウトを引き起こした。"
+        }
+      ],
+      "notes": [
+        "この名詞は、人や情報を審査して除外する一般用法とは対象が違う。流れの強い制限と圧力上昇に関係する専門的な状態を指すが、ここで操作手順・原因診断・対処方法を示しているわけではない。調査名詞の screen-out と綴り・分野を区別する。語義6とは専門分野内の定義の焦点が異なるが、実際の現象が必ず排他的に分かれるという意味ではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【名詞・可算/不可算】砂の充填が限界に達する状態",
+      "frequency": 1,
+      "register": [
+        "坑井のグラベルパック処理。screenout という専門名詞。"
+      ],
+      "definition": "坑井のグラベルパック処理で、対象部分がそれ以上の充填用の砂を受け入れられなくなり、処理圧力が急上昇する状態。",
+      "patterns": [
+        "screenout during a gravel-pack operation",
+        "a screenout。処理に伴う状態・発生を述べる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a screenout（screen out の関連名詞）",
+          "use": "グラベルパック処理中の現象を述べる。",
+          "example": "During the gravel-pack operation, a screenout occurred when the treatment zone could accept no more sand.",
+          "translation": "グラベルパック処理中、処理対象部分がそれ以上の砂を受け入れられなくなると、スクリーンアウトが発生した。"
+        }
+      ],
+      "notes": [
+        "理想的には充填が進んだことを示す場合がある一方、早い段階で起きると不十分な充填に関係する場合もある。この単語だけで、成功・故障・意図的な停止のいずれかに決めない。"
+      ],
+      "synonyms": [
+        {
+          "word": "blockage",
+          "definition": "流れや通路をふさぐ詰まり・閉塞。",
+          "frequency": 4,
+          "difference": "閉塞を広く述べる一般語。screenout はここでは坑井処理での特定の状態を指し、blockage だけでは処理段階や充填の状態までは分からない。完全に同じ技術用語として置き換えるのではなく、一般的な説明との対比。",
+          "example": "The inspection found a blockage in the pipe.",
+          "translation": "点検で、管の中に詰まりが見つかった。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
