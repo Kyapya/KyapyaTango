@@ -1,0 +1,290 @@
+{
+  "word": "filter out",
+  "slug": "filter-out",
+  "ipa": "米: /ˈfɪltər aʊt/｜英: /ˈfɪltə(r) aʊt/。filter の第1音節に語内部の強勢があり、out は /aʊt/。表示上の違いは、filter の第2音節末尾の /r/。米では通常 /r/ を含む。英の非r音的な発音では filter 単独の語末 /r/ は発音されないが、母音で始まる out に続けると連結の /r/ が現れることがある。英の括弧付き (r) はこの連結の有無を表す。filters out では filter の末尾に /z/、filtered out では /d/ が付く。句・文の中でどの語を際立たせるかは文脈によるため、語内部の強勢と句全体の卓立を区別する。",
+  "lead": "フィルターや、それに相当する処理によって、液体・気体などの中の成分や、光・音・信号の一部を分離して取り除く。",
+  "updated": "2026-10-25",
+  "notion_url": "https://app.notion.com/p/filter-out-4044faa9b77d81c5b089d22d49c41c36",
+  "pronunciation": [],
+  "etymology": [
+    "filter は、濾す材料に使われたフェルトと結び付く語で、中世ラテン語 filtrum などを経る系列に属する。動詞 filter は名詞からできたもの。filter out は動詞と粒子・方向語 out の組合せで、除去・選別の用法のほか、基本動詞 filter の「少しずつ移動・伝達する」に外向きの方向を加えた使い方もある。基本動詞の初出年代を、この組合せの初出年代と同じだと決めない。"
+  ],
+  "formation": [
+    {
+      "term": "filters out／filtered out／filtering out",
+      "description": "動詞部分を活用し、out は変化しない。"
+    },
+    {
+      "term": "filtered-out data",
+      "description": "過去分詞句が名詞を前から修飾する形。選別から外されたデータを指すことがあるが、この形だけで独立した評価形容詞義を作らない。"
+    },
+    {
+      "term": "filtering out",
+      "description": "対象を除去・選別することを表す動名詞句としても用いる。装置を表す基本名詞 filter と、単独の名詞 filter out が同じように使えるという意味ではない。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "フィルターや細い通り道を通すように、通るもの・通り方が絞られるイメージ。out は、対象を分けて外す方向や、内側から外へ少しずつ出る方向を示す。語義4・5では、実物のフィルター、選別基準、狭い出口を必要としない。"
+    },
+    {
+      "type": "item",
+      "text": "フィルターのイメージによる成分等の除去 → 「濾過・信号処理で取り除く」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "フィルターのイメージによる集合内の選別 → 「条件により除外する」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "フィルターのイメージによる有用情報の分離 → 「有用な情報を選び出す」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "フィルターのイメージによる人々の退出 → 「少しずつ外へ出る」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "フィルターのイメージによる情報の伝播 → 「情報が次第に外へ伝わる」（語義5）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【句動詞・他動詞】濾過・信号処理で取り除く",
+      "frequency": 4,
+      "register": [
+        "濾過、光学、音響、信号処理など。"
+      ],
+      "definition": "フィルターや、それに相当する処理によって、液体・気体などの中の成分や、光・音・信号の一部を分離して取り除く。",
+      "patterns": [
+        "filter out 〈除去対象〉",
+        "filter 〈除去対象〉 out",
+        "filter it out",
+        "filter them out",
+        "particles + be filtered out。目的語は除かれる成分など。"
+      ],
+      "collocations": [
+        {
+          "pattern": "filter out particles",
+          "use": "空気などから取り除く粒子を目的語にする。",
+          "example": "The ventilation system filters out airborne particles.",
+          "translation": "その換気システムは、空気中の粒子を取り除く。"
+        },
+        {
+          "pattern": "filter out noise",
+          "use": "信号から除去するノイズを述べる。",
+          "example": "The software filters out high-frequency noise from the recording.",
+          "translation": "そのソフトウェアは、録音から高周波ノイズを除去する。"
+        },
+        {
+          "pattern": "be filtered out（filter out の構文）",
+          "use": "濾過によって分けられる成分を主語にする。",
+          "example": "The solid particles were filtered out and kept for analysis.",
+          "translation": "固体粒子は濾過によって分離され、分析のために保管された。"
+        }
+      ],
+      "notes": [
+        "filter water では水が処理対象だが、filter out particles では粒子が分けて取り除く対象。out を伴わない filter にも除去対象を目的語にする用法があるため、out の有無だけで全例を機械的に分類しない。取り分けた物が不要物とは限らず、分析に必要な目的物の場合もある。実際の装置が対象を完全にゼロまで除去することは、この語だけでは保証されない。"
+      ],
+      "synonyms": [
+        {
+          "word": "strain",
+          "definition": "液体などを濾す・濾して取り除く。",
+          "frequency": 4,
+          "difference": "液体と固形物を分ける場面で意味が重なる。filter out は光や電子的な信号の成分を除く場合にも使うが、その全てで strain に置き換えられるとは限らない。",
+          "example": "She strained the sauce through a fine sieve.",
+          "translation": "彼女はソースを目の細かいふるいで濾した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【句動詞・他動詞】条件により除外する",
+      "frequency": 4,
+      "register": [
+        "情報検索、データ処理、候補の選考、注意・知覚についての説明など。"
+      ],
+      "definition": "情報・項目・候補などの集まりから、条件に合わないものや不要と判断したものを選んで除く。注意・知覚では、不要な刺激や情報を注意・処理の対象から外すことにも使う。",
+      "patterns": [
+        "filter out 〈除外対象〉",
+        "filter 〈除外対象〉 out",
+        "filter them out",
+        "entries + be filtered out。"
+      ],
+      "collocations": [
+        {
+          "pattern": "filter out irrelevant results",
+          "use": "検索結果から必要のない項目を除く。",
+          "example": "The search tool filters out irrelevant results.",
+          "translation": "その検索ツールは、無関係な結果を除外する。"
+        },
+        {
+          "pattern": "filter duplicate entries out（filter out の構文）",
+          "use": "名詞目的語を動詞と out の間に置く。",
+          "example": "We filtered duplicate entries out before preparing the report.",
+          "translation": "私たちは報告書を作成する前に、重複する項目を除外した。"
+        },
+        {
+          "pattern": "filter them out（filter out の構文）",
+          "use": "既出の除外対象を代名詞で受ける。",
+          "example": "Some records had no dates, so the team filtered them out.",
+          "translation": "一部の記録には日付がなかったため、チームはそれらを除外した。"
+        },
+        {
+          "pattern": "be filtered out（filter out の構文）",
+          "use": "誤った判定で有用なものが除かれる場合を述べる。",
+          "example": "Useful data can be filtered out by an overly strict rule.",
+          "translation": "厳しすぎる規則によって、有用なデータが除外されることもある。"
+        },
+        {
+          "pattern": "filter out distractions",
+          "use": "注意をそらす刺激を意識から外すことを述べる。",
+          "example": "She could not filter out the distractions around her while reading.",
+          "translation": "彼女は読書中、周囲の気を散らす刺激を意識から外すことができなかった。"
+        }
+      ],
+      "notes": [
+        "通常の人称代名詞は filter と out の間に置き、filter out them としない。選択結果から除くことと、元のデータそのものを削除することは別。「除外された」ことだけで、その対象が客観的に無価値だったと判断しない。受動態を、対象が自分で移動する自動詞義と取り違えない。"
+      ],
+      "synonyms": [
+        {
+          "word": "screen out",
+          "definition": "審査・選別して通さない。",
+          "frequency": 4,
+          "difference": "基準に合わないものを通過・参加させない捉え方をする。filter out と重なる場合があるが、具体的な選別方法や判定の正しさまでは、どちらの語からも一律には決まらない。",
+          "example": "The first check screened out applications with missing documents.",
+          "translation": "最初の確認で、書類が不足している応募は除外された。"
+        },
+        {
+          "word": "weed out",
+          "definition": "集団の中から不要・不適切なものを選んで除く。",
+          "frequency": 4,
+          "difference": "集合内で不適切なものを取り除く見方がある。情報整理では filter out と近いが、光の波長を装置で除去するような技術的文脈まで、常に同じように使えるとはしない。",
+          "example": "The team weeded out unsuitable proposals.",
+          "translation": "チームは、条件に合わない提案を選んで除いた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【句動詞・他動詞】有用な情報を選び出す",
+      "frequency": 2,
+      "register": [
+        "情報の抽出などを説明する用法。除外の用法と同じつもりで文脈なしに解釈しない。"
+      ],
+      "definition": "多くの情報の中から、有用な情報を選別して取り出す。目的語は抑え込む対象ではなく、得ようとする対象。",
+      "patterns": [
+        "filter out useful information from 〈情報源〉。from 以下は選び出す元。"
+      ],
+      "collocations": [
+        {
+          "pattern": "filter out useful information",
+          "use": "欲しい情報を取り出し、その後に利用することを述べる。",
+          "example": "The method filters out useful information from the background noise and preserves it for further analysis.",
+          "translation": "その方法は、背景ノイズの中から有用な情報を選び出し、さらに分析できるように保持する。"
+        }
+      ],
+      "notes": [
+        "語義2では有用な情報が誤って捨てられる場合もあるため、useful という形容詞だけではこの抽出義と決まらない。選ばれた情報が後で使われるのか、対象から外されるのかを、前後の説明から確かめる。この用法の存在と、日常的に最も一般的な表現であることは別。"
+      ],
+      "synonyms": [
+        {
+          "word": "extract",
+          "definition": "情報や物質を出所から取り出す。",
+          "frequency": 5,
+          "difference": "有用な情報を得る意味を明確に述べやすい。filter out は文脈によって除外の意味にもなるため、両者を全ての用法で同義とはしない。",
+          "example": "The program extracts key facts from the documents.",
+          "translation": "そのプログラムは、文書から重要な事実を抽出する。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞・自動詞】少しずつ外へ出る",
+      "frequency": 2,
+      "register": [
+        "群衆の移動などを描写する用法。基本動詞 filter に方向を示す out が続く形。"
+      ],
+      "definition": "人々などが、一度にまとまってではなく、少しずつ外へ出ていく。",
+      "patterns": [
+        "people + filter out",
+        "a crowd + filter out。移動する人々が主語で、除外対象の直接目的語はない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "people filter out",
+          "use": "人々が徐々に退出する様子を述べる。",
+          "example": "People filtered out after the meeting ended.",
+          "translation": "会議が終わると、人々は少しずつ外へ出ていった。"
+        },
+        {
+          "pattern": "the crowd filtered out（filter out の構文）",
+          "use": "群衆のまとまりを主語にして移動を描写する。",
+          "example": "The crowd filtered out as the lights were switched off.",
+          "translation": "照明が消されると、群衆は少しずつ外へ出ていった。"
+        }
+      ],
+      "notes": [
+        "人が何らかの基準で落とされたという意味ではない。People were filtered out は受動の除外を表し得るが、People filtered out はここでは人々自身の移動を表す。filter の全ての自動詞用法を、他動句 filter out の目的語省略として説明しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "trickle out",
+          "definition": "少しずつ外へ出る。",
+          "frequency": 3,
+          "difference": "量や人数が少しずつ移動する様子を捉える。人々の退出では filter out と近いが、どちらも必ず一人ずつという人数の上限を指定するわけではない。",
+          "example": "The audience trickled out of the hall.",
+          "translation": "観客は少しずつホールの外へ出ていった。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【動詞・自動詞】情報が次第に外へ伝わる",
+      "frequency": 2,
+      "register": [
+        "情報の伝達・広まりについての描写。基本動詞 filter に方向を示す out が続く形。"
+      ],
+      "definition": "知らせや情報が、内側の限られた範囲から外へ次第に伝わる。",
+      "patterns": [
+        "news + filter out",
+        "information + filter out。伝わる情報が主語。"
+      ],
+      "collocations": [
+        {
+          "pattern": "news filters out（filter out の構文）",
+          "use": "知らせが外部へ伝わることを述べる。",
+          "example": "News of the agreement gradually filtered out.",
+          "translation": "合意についての知らせが、次第に外へ伝わった。"
+        },
+        {
+          "pattern": "information filtered out（filter out の構文）",
+          "use": "情報が外へ届くまで時間がかかることを述べる。",
+          "example": "Very little information filtered out during the first few days.",
+          "translation": "最初の数日間、外へ伝わった情報はごくわずかだった。"
+        }
+      ],
+      "notes": [
+        "情報を選別して除く受動の The information was filtered out とは区別する。秘密情報であること、誰かが意図的に暴露したこと、不正な漏えいであることまで、この用法が必ず意味するわけではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "trickle out",
+          "definition": "情報などが少しずつ外へ伝わる。",
+          "frequency": 3,
+          "difference": "伝わる量や進み方が少しずつであることを捉える。filter out と同様、伝えた人の意図や情報の法的性質までは決めない。",
+          "example": "Details of the plan began to trickle out.",
+          "translation": "計画の詳しい内容が、少しずつ外へ伝わり始めた。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
