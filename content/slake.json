@@ -1,0 +1,508 @@
+{
+  "word": "slake",
+  "slug": "slake",
+  "ipa": "米・英: /sleɪk/。1音節で、母音 /eɪ/ は二重母音。slakes は /sleɪks/、slaked は /sleɪkt/、slaking は /ˈsleɪkɪŋ/。slaked の -ed は /t/ で、音節は増えない。slaking は2音節で第1音節に強勢を置く。石灰などの水和を表す専門用法には /slæk/ も記載されるが、これを全語義に共通する英米差とは考えない。",
+  "lead": "飲み物などで喉の渇きを満たし、そのつらさを取り除く。典型的な目的語は thirst で、飲む人そのものを直接目的語にする型として覚えない。",
+  "updated": "2026-10-24",
+  "notion_url": "https://app.notion.com/p/slake-4034faa9b77d8183975cf75494003504",
+  "pronunciation": [],
+  "etymology": [
+    "古英語 slacian「緩む・勢いが弱まる」などにさかのぼり、そのもとに slæc「緩い」がある。現代の slack「緩い」と語源上つながり、slacken「緩める・緩む」も同じ系列に属する。渇きや欲求の強さを和らげる用法とのつながりは理解しやすいが、現代の化学・土壌の用法まで一律に「気持ちを落ち着かせる」と訳すことはできない。slake を現代英語の slack に意味のある接尾辞 -e を付けた形とは分解しない。"
+  ],
+  "formation": [
+    {
+      "term": "slaked",
+      "description": "過去形・過去分詞。slaked lime は定着した物質名で、語義5で扱う。"
+    },
+    {
+      "term": "slaking",
+      "description": "現在分詞・動名詞。語末の e を落とす。土壌の崩壊過程を指す名詞用法は語義7。"
+    },
+    {
+      "term": "slaker",
+      "description": "slake を行う人・物を表す名詞。石灰の専門分野では lime slaker が消化装置を指す。"
+    },
+    {
+      "term": "slakable / slakeable",
+      "description": "slake されうる、という受け身の可能性を表す形容詞。渇き・欲求なら満たされうること、石灰なら消化されうることを表し、処理する人の能力を意味するのではない。"
+    }
+  ],
+  "core": [],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞】渇きを癒やす",
+      "frequency": 4,
+      "register": [
+        "文学的・文章的。日常会話の drink something より描写的。"
+      ],
+      "definition": "飲み物などで喉の渇きを満たし、そのつらさを取り除く。典型的な目的語は thirst で、飲む人そのものを直接目的語にする型として覚えない。",
+      "patterns": [
+        "slake one’s thirst",
+        "slake one’s thirst with 〈飲み物〉",
+        "〈飲み物〉 + slake one’s thirst",
+        "one’s thirst + be slaked。with は手段を示す前置詞で、slake with を一つの句動詞としない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "slake one’s thirst",
+          "use": "人が飲み物を口にして渇きを満たす。",
+          "example": "The walkers stopped to slake their thirst.",
+          "translation": "歩いていた人たちは、喉の渇きを癒やすために立ち止まった。"
+        },
+        {
+          "pattern": "slake one’s thirst with water",
+          "use": "渇きを癒やした飲み物を示す。",
+          "example": "She slaked her thirst with a glass of water.",
+          "translation": "彼女はコップ1杯の水で喉の渇きを癒やした。"
+        },
+        {
+          "pattern": "〈飲み物〉 + slake one’s thirst",
+          "use": "飲み物を主語にして、その働きを述べる。",
+          "example": "The cool juice slaked his thirst after the walk.",
+          "translation": "散歩のあと、冷たいジュースが彼の喉の渇きを癒やした。"
+        },
+        {
+          "pattern": "one’s thirst + be slaked",
+          "use": "渇きが満たされたことを述べる。",
+          "example": "At last, our thirst was slaked and we could continue the journey.",
+          "translation": "ようやく喉の渇きが癒やされ、私たちは旅を続けられるようになった。"
+        }
+      ],
+      "notes": [
+        "slake my thirst の my は、誰が渇いているかを示す。自分の渇きを癒やすからといって、必ず再帰代名詞を使うわけではない。with water は手段なので、目的語 thirst の代わりにはならない。単に飲む動作ではなく、渇きを満たす方向を表すが、partly slake a thirst のように程度を限定することはできる。"
+      ],
+      "synonyms": [
+        {
+          "word": "quench",
+          "definition": "渇きを癒やす。",
+          "frequency": 6,
+          "difference": "quench one’s thirst も同じ対象を取る。slake のほうが文学的な響きを持ちやすいが、満たされる程度に必ず差があるわけではない。",
+          "example": "A glass of cold water quenched her thirst.",
+          "translation": "コップ1杯の冷たい水で、彼女の喉の渇きが癒やされた。"
+        },
+        {
+          "word": "satisfy",
+          "definition": "欲求や必要を満たす。",
+          "frequency": 8,
+          "difference": "thirst 以外に必要・条件など広い対象を取る。slake はこの語義では喉の渇きに焦点を当てる。",
+          "example": "The small drink did not satisfy his thirst.",
+          "translation": "その少量の飲み物では、彼の喉の渇きは満たされなかった。"
+        },
+        {
+          "word": "relieve",
+          "definition": "不快感や苦痛を軽くする。",
+          "frequency": 8,
+          "difference": "満足を与えるより、つらさを減らす側面に焦点を置く。完全に取り除いたとは限らない。",
+          "example": "A few sips relieved the dryness in her throat.",
+          "translation": "数口飲むと、彼女の喉の乾燥感が和らいだ。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【動詞・他動詞】欲求を満たす",
+      "frequency": 4,
+      "register": [
+        "文学的・文章的。評論や描写にも現れる。"
+      ],
+      "definition": "好奇心・知識欲・何かを強く求める気持ちを満たす。身体的な渇きを癒やすことから広がった用法で、thirst for knowledge のような比喩的な渇きも含む。欲求の内容が好ましいものとは限らない。",
+      "patterns": [
+        "slake one’s curiosity",
+        "slake one’s thirst for 〈求めるもの〉",
+        "slake one’s desire for 〈求めるもの〉",
+        "〈欲求〉 + be slaked。for 以下は thirst や desire の内容を示す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "slake one’s curiosity",
+          "use": "知りたかったことが分かることを述べる。",
+          "example": "The final chapter slaked my curiosity about the missing letter.",
+          "translation": "最終章を読んで、なくなった手紙について知りたいという私の気持ちは満たされた。"
+        },
+        {
+          "pattern": "slake one’s thirst for knowledge",
+          "use": "知識を強く求める気持ちを満たす。",
+          "example": "She read widely to slake her thirst for knowledge.",
+          "translation": "彼女は知識欲を満たすために幅広く本を読んだ。"
+        },
+        {
+          "pattern": "slake one’s desire for adventure",
+          "use": "冒険を求める気持ちを満たす。",
+          "example": "The long voyage slaked his desire for adventure.",
+          "translation": "長い航海で、冒険を求める彼の欲求は満たされた。"
+        },
+        {
+          "pattern": "one’s thirst for revenge + be slaked",
+          "use": "好ましくない欲求にも使えることを示す。",
+          "example": "Even after his rival’s defeat, his thirst for revenge was not slaked.",
+          "translation": "ライバルが敗れたあとでさえ、彼の復讐心は満たされなかった。"
+        }
+      ],
+      "notes": [
+        "slake a thirst for knowledge は水を飲むことではない。thirst の後の for を落として slake for knowledge とすると、同じ構造にならない。欲求を満たす行為と、欲求そのものを弱めて失わせることは文脈上重なることもあるが、何でも「喜ばせる」と訳さない。"
+      ],
+      "synonyms": [
+        {
+          "word": "satisfy",
+          "definition": "欲求や好奇心を満たす。",
+          "frequency": 8,
+          "difference": "幅広い文体で使える。slake は強い欲求を渇きになぞらえるような文章的表現として使われる。",
+          "example": "The explanation satisfied her curiosity.",
+          "translation": "その説明で、彼女の好奇心は満たされた。"
+        },
+        {
+          "word": "sate",
+          "definition": "欲求を十分に満たす。",
+          "frequency": 4,
+          "difference": "それ以上求めなくなるほどの充足を表し、文脈によっては満たしすぎも含む。slake 自体に、飽きるほど与えることは必須ではない。",
+          "example": "The feast sated their appetite for rich food.",
+          "translation": "ごちそうを食べて、彼らはこってりした料理を十分に堪能した。"
+        },
+        {
+          "word": "gratify",
+          "definition": "欲求を満たして満足を与える。",
+          "frequency": 5,
+          "difference": "フォーマルな語で、満足・喜びを与える面に焦点がある。slake は渇きや強い欲求の解消に焦点を置く。",
+          "example": "The applause gratified his desire for recognition.",
+          "translation": "拍手を浴びて、認められたいという彼の欲求は満たされた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞・他動詞】石灰を消化する・水和させる",
+      "frequency": 2,
+      "register": [
+        "化学・石灰製造・建材などの専門用法。"
+      ],
+      "definition": "生石灰などを水と反応させ、化学的な変化を起こさせる。代表例は酸化カルシウムである生石灰を、水酸化カルシウムである消石灰へ変える処理。発熱や崩れを伴い、単に水へ溶かすこととは異なる。",
+      "patterns": [
+        "slake quicklime",
+        "slake lime with water",
+        "quicklime + be slaked。処理する人・装置を主語にできる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "slake quicklime",
+          "use": "装置による生石灰の処理を述べる。",
+          "example": "The plant uses a specialized machine to slake quicklime.",
+          "translation": "その工場では、生石灰を消化するために専用の機械を使っている。"
+        },
+        {
+          "pattern": "quicklime + be slaked with water",
+          "use": "反応させる材料と水の関係を示す。",
+          "example": "In the industrial process, quicklime is slaked with water to form calcium hydroxide.",
+          "translation": "その工業工程では、生石灰を水で消化して水酸化カルシウムを生成する。"
+        }
+      ],
+      "notes": [
+        "ここでの lime は、果物のライムではない。quicklime は生石灰、limestone は石灰石であり、同じ材料名ではない。消化反応は発熱するため、slake の別義「冷やす」から冷却処理だと推測しない。これは語義説明であって、薬品を扱う手順ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "hydrate",
+          "definition": "物質を水と結合させ、水和させる。",
+          "frequency": 3,
+          "difference": "水和を広く指す化学語。slake はとくに石灰の処理として使われ、日常の「水分補給」と区別する。",
+          "example": "The process hydrates calcium oxide.",
+          "translation": "その工程は酸化カルシウムを水和させる。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞・自動詞】石灰が消化する・水和する",
+      "frequency": 2,
+      "register": [
+        "化学・材料の専門用法。"
+      ],
+      "definition": "生石灰などが水分と反応して変化する。語義3と同じ現象を、処理される物質の側を主語にして述べる。",
+      "patterns": [
+        "quicklime + slake",
+        "lime + slake in moist air。自動詞なので、この型の slake の後に処理対象の目的語を置かない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "quicklime + slake in moist air",
+          "use": "空気中の水分との反応を述べる。",
+          "example": "Quicklime may slake in moist air during storage.",
+          "translation": "生石灰は、保管中に湿った空気中で消化することがある。"
+        }
+      ],
+      "notes": [
+        "The machine slakes quicklime. では機械が処理し、Quicklime slakes. では生石灰自体が変化する。後者を、機械という主語を省略した他動詞文とは考えない。語義6の土の崩壊とは対象と仕組みを区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "hydrate",
+          "definition": "物質が水と結合し、水和する。",
+          "frequency": 3,
+          "difference": "この自動詞用法では物質を主語にできる。slake より広い水和現象に使われる。",
+          "example": "The oxide hydrates on contact with water.",
+          "translation": "その酸化物は、水に触れると水和する。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞・不可算・slaked lime】消石灰",
+      "frequency": 3,
+      "register": [
+        "化学・建材・工業。"
+      ],
+      "definition": "生石灰の消化で得られる水酸化カルシウム。slaked lime 全体で物質名をなし、粉末や水を含む状態の材料を指す。",
+      "patterns": [
+        "slaked lime",
+        "use slaked lime",
+        "a sample of slaked lime。量は sample などの名詞で表せる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "use slaked lime",
+          "use": "材料としての利用に言及する。",
+          "example": "The workshop uses slaked lime in its traditional plaster.",
+          "translation": "その工房は、伝統的な塗り壁材に消石灰を使っている。"
+        },
+        {
+          "pattern": "a sample of slaked lime",
+          "use": "物質の試料を指す。",
+          "example": "The laboratory analyzed a sample of slaked lime.",
+          "translation": "研究室は消石灰の試料を分析した。"
+        }
+      ],
+      "notes": [
+        "普通は a slaked lime ではなく slaked lime とする。slaked は lime を修飾する分詞に由来するが、定着しているのはこの物質名。これだけを根拠に、slaked 単独をあらゆる対象に使える独立形容詞として教えない。"
+      ],
+      "synonyms": [
+        {
+          "word": "hydrated lime",
+          "definition": "水和によって得られる消石灰。",
+          "frequency": 3,
+          "difference": "slaked lime と同じ物質を指す専門名称。quicklime や limestone は同義語ではない。",
+          "example": "The label identifies the material as hydrated lime.",
+          "translation": "ラベルには、その材料が消石灰だと記されている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【動詞・自動詞】土の塊・団粒が吸水で崩れる",
+      "frequency": 2,
+      "register": [
+        "土壌学・農業。"
+      ],
+      "definition": "土の塊や団粒が水を吸い、より小さいかたまりなどに崩れる。とくに乾いた土が急に湿る際に起こりやすく、吸水で内部に生じる力などが関わる。すでに湿った土では絶対に起こらない、という意味ではない。土壌構造や水への安定性を扱う用法で、石灰の水和反応を指す語義4とは区別する。",
+      "patterns": [
+        "soil aggregates + slake",
+        "a soil clod + slake in water",
+        "slake（自動詞）rapidly。主語は崩れる土の塊など。"
+      ],
+      "collocations": [
+        {
+          "pattern": "soil aggregates + slake",
+          "use": "土の団粒が崩れることを述べる。",
+          "example": "Some dry soil aggregates slake rapidly when immersed in water.",
+          "translation": "乾いた土の団粒の中には、水に浸すと急速に崩れるものがある。"
+        },
+        {
+          "pattern": "a soil clod + slake in water",
+          "use": "一つの土塊の変化を記述する。",
+          "example": "The soil clod began to slake in water during the test.",
+          "translation": "試験中、その土塊は水中で崩れ始めた。"
+        }
+      ],
+      "notes": [
+        "この語義を「土が消石灰になる」と理解しない。水を吸う際の内部の力などで土のまとまりが崩れる現象であり、土がすべて溶解するという意味でもない。slake の全専門用法を一律に hydrate と言い換えることはできない。"
+      ],
+      "synonyms": [
+        {
+          "word": "disintegrate",
+          "definition": "ばらばらに崩れる。",
+          "frequency": 6,
+          "difference": "崩壊を広く指し、水を吸う土の団粒という対象・条件を語自体には含まない。",
+          "example": "The dry clod disintegrated into smaller pieces in the water.",
+          "translation": "乾いた土塊は、水中でより小さなかけらに崩れた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【名詞・不可算・slaking】吸水による土の崩壊・スレーキング",
+      "frequency": 2,
+      "register": [
+        "土壌学・農業。ここでは土壌の用法に限定する。"
+      ],
+      "definition": "水を吸って土の団粒などが崩れる過程・現象。土壌の構造や水への安定性を論じる専門名詞。",
+      "patterns": [
+        "soil slaking",
+        "resistance to slaking",
+        "the extent of slaking。過程を量的に捉え、程度などを述べる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "resistance to slaking（slake 由来の名詞）",
+          "use": "土壌がこの崩壊にどの程度耐えるかを述べる。",
+          "example": "The study measured the soil’s resistance to slaking.",
+          "translation": "その研究では、土壌が吸水による崩壊にどの程度耐えるかを測定した。"
+        },
+        {
+          "pattern": "the extent of slaking（slake 由来の名詞）",
+          "use": "崩壊の程度を比較する。",
+          "example": "The researchers compared the extent of slaking in the two soils.",
+          "translation": "研究者たちは、二つの土壌について吸水による崩壊の程度を比較した。"
+        }
+      ],
+      "notes": [
+        "The aggregates are slaking. の slaking は進行形の動詞で、resistance to slaking の slaking は前置詞の後に置かれる過程名詞。lime slaking なら石灰の消化を表すので、slaking という形だけで土壌に限定しない。",
+        "erosion「侵食」は、土などが削られて移動することも含む別の過程。slaking と関連はあるが、常に同じ現象の名前ではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【動詞・他動詞】冷やす・爽快にする",
+      "frequency": 1,
+      "register": [
+        "詩的・文学的。日常的な冷却の指示には普通 cool などを使う。"
+      ],
+      "definition": "体の一部などに冷たさを与え、熱さや乾きの不快感を和らげる。渇きという欲求ではなく、冷やされる部分を目的語にする詩的な用法。",
+      "patterns": [
+        "slake one’s lips with 〈冷たいもの〉。with は冷やす手段を示す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "slake one’s lips with cool water",
+          "use": "唇を冷やす感覚を文学的に描写する。",
+          "example": "She slaked her burning lips with cool water.",
+          "translation": "彼女はひりひりと熱い唇を冷たい水で冷やした。"
+        }
+      ],
+      "notes": [
+        "slake one’s thirst では thirst が目的語だが、ここでは lips が目的語。飲んだ結果として渇きが満たされることまで、必ず含むわけではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "cool",
+          "definition": "温度を下げ、冷やす。",
+          "frequency": 8,
+          "difference": "物理的な冷却を普通に表す。slake のこの用法のような詩的な響きを必要としない。",
+          "example": "She cooled her forehead with a damp cloth.",
+          "translation": "彼女は湿った布で額を冷やした。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 9,
+      "title": "【動詞・他動詞】火を弱める・消す",
+      "frequency": 1,
+      "register": [
+        "まれな用法。一般的な文章や日常の指示では put out、extinguish などを優先する。"
+      ],
+      "definition": "火の勢いを弱める、または火を消す。現代の基本的な消火表現としてではなく、辞書に見られる副次的な用法として扱う。",
+      "patterns": [
+        "slake a fire",
+        "slake the flames。目的語は火・炎。"
+      ],
+      "collocations": [
+        {
+          "pattern": "slake the flames",
+          "use": "火の勢いが弱まることを描写する。",
+          "example": "The steady rain slaked the flames until only smoke remained.",
+          "translation": "降り続く雨で炎が弱まり、やがて煙だけが残った。"
+        }
+      ],
+      "notes": [
+        "辞書にこの意味があることと、現代の標準的な消火用語であることは別。slake を含む文でも、目的語が thirst なら渇きを癒やす意味であり、同じ「消す」と一律に訳さない。"
+      ],
+      "synonyms": [
+        {
+          "word": "extinguish",
+          "definition": "火を消す。",
+          "frequency": 6,
+          "difference": "消火の意味を明確に表すフォーマルな語。日常会話の put out より硬いが、slake のこの副次義より通常の選択肢になる。単に勢いを弱める段階だけではなく、火を消すことに焦点がある。",
+          "example": "Heavy rain extinguished the last flames.",
+          "translation": "激しい雨が最後に残った炎を消した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 10,
+      "title": "【動詞・他動詞】勢いを弱める・和らげる",
+      "frequency": 1,
+      "register": [
+        "古風・歴史的な用法を中心に扱う。辞書によってラベルの付け方に差があるが、現代の日常的な reduce の代用品としては勧めない。"
+      ],
+      "definition": "力・活動・感情などの強さを減らす。欲求を満足させることに限らず、勢いそのものを抑える古い用法。",
+      "patterns": [
+        "slake 〈力・熱意など〉。弱める原因などを主語にする。"
+      ],
+      "collocations": [
+        {
+          "pattern": "slake their enthusiasm",
+          "use": "古風な語遣いで熱意の低下を述べる。",
+          "example": "The repeated delays slaked their enthusiasm for the venture.",
+          "translation": "度重なる遅れによって、その事業にかける彼らの熱意はそがれた。"
+        }
+      ],
+      "notes": [
+        "語義2は好奇心などを満たすことが中心だが、ここでは満足を与えずに熱意を弱めることも表せる。さらに古い「緩める・張りを弱める」という意味もあるが、現代では slacken や loosen などと区別して読む。"
+      ],
+      "synonyms": [
+        {
+          "word": "dampen",
+          "definition": "熱意などの強さを弱める。",
+          "frequency": 6,
+          "difference": "感情や意欲を弱める意味で現代にも使う。slake の古い用法を、日常的な表現で説明する際に役立つ。",
+          "example": "The poor result dampened their enthusiasm.",
+          "translation": "低調な結果で、彼らの熱意はそがれた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 11,
+      "title": "【動詞・自動詞】勢いが弱まる・収まる",
+      "frequency": 1,
+      "register": [
+        "古風。古い文章を読むための知識。"
+      ],
+      "definition": "力や活動などが弱まっていく。弱める原因を主語にする語義10と違い、弱まるもの自体を主語にする。",
+      "patterns": [
+        "〈勢いを持つもの〉 + slake。目的語を伴わない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the fury of the storm + slake",
+          "use": "古風な語遣いで嵐の勢いの低下を描く。",
+          "example": "By dawn, the fury of the storm had slaked.",
+          "translation": "夜明けまでには、嵐の猛威は収まっていた。"
+        }
+      ],
+      "notes": [
+        "ここでは slake は自動詞で、後ろに弱める対象を追加しない。現代の石灰や土の専門的な自動詞用法があるからといって、この古い一般用法も同じように普通に使われるとは考えない。"
+      ],
+      "synonyms": [
+        {
+          "word": "abate",
+          "definition": "勢いや強さが弱まる。",
+          "frequency": 6,
+          "difference": "嵐・痛み・騒ぎなどが弱まることを現代の文章でも表す、フォーマルな語。slake のこの意味より通常の選択肢になる。",
+          "example": "The storm finally abated during the night.",
+          "translation": "嵐は夜の間にようやく収まった。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}

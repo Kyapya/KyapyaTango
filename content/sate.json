@@ -1,0 +1,359 @@
+{
+  "word": "sate",
+  "slug": "sate",
+  "ipa": "「満たす」の動詞は米・英: /seɪt/。1音節で、母音 /eɪ/ は二重母音。sates は /seɪts/、sated は /ˈseɪtɪd/、sating は /ˈseɪtɪŋ/。sated と sating は2音節で、第1音節に強勢を置く。sit の古い活用形としての sate には /seɪt/ と /sæt/ があり、1音節内の母音が異なる。料理名の sate には /sɑːˈteɪ/ という発音があり、第1音節は /sɑː/、第2音節 /teɪ/ に主強勢を置く。料理名の別綴り satay の発音を、すべての sate に機械的に当てはめない。",
+  "lead": "食欲・渇き・好奇心などの欲求を十分に満たす。欲求を持つ人を目的語にもでき、もうそれ以上求めなくなるほどの充足を表す。満たされたこと自体が必ず不快というわけではない。",
+  "updated": "2026-10-24",
+  "notion_url": "https://app.notion.com/p/sate-4034faa9b77d8112b4d3c1c8aa385658",
+  "pronunciation": [],
+  "etymology": [
+    "「満たす」の sate の成り立ちには説明の差がある。satiate の短縮・変形とみる説明がある一方、古い英語の sade「満たす」に由来し、satiate の影響で語末が変わったとみる説明もある。後者では古英語 sadian にさかのぼる。いずれか一説を確定した由来として断言しない。sated、unsated はこの充足の系列。sit の古形 sate と、マレー語・インドネシア語系の料理名 sate は、現代の「満たす」と同じ語として扱わない。"
+  ],
+  "formation": [
+    {
+      "term": "sated",
+      "description": "現代の動詞 sate の過去形・過去分詞。形容詞「満ち足りた」も語義3で扱う。"
+    },
+    {
+      "term": "sating",
+      "description": "現在分詞・動名詞。語末の e を落として -ing を付ける。t を重ねて satting とはしない。"
+    },
+    {
+      "term": "unsated",
+      "description": "十分に満たされていない、という形容詞。否定の un- と sated からなる。"
+    },
+    {
+      "term": "satedness",
+      "description": "満たされた状態を表す名詞。状態を抽象的に述べる形。satiation、satiety を、sate に現代英語の接尾辞をそのまま付けた形とは説明しない。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "欲求を十分な充足へ導き、それ以上求めない状態にする。必要を満たす場合も、与えすぎて関心を失わせる場合もある。語義4は sit の古い活用形、語義5は東南アジアの料理名という別系統の同綴異義で、この充足の核からは意味を導けないため個別に参照する。"
+    },
+    {
+      "type": "item",
+      "text": "欲求の充足を十分な程度まで進める働き → 「十分に満たす」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "欲求の充足を過剰にして関心を失わせる働き → 「満たしすぎて飽きさせる」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "欲求の充足後にそれ以上求めない状態 → 「満ち足りた・十分に満たされた」（語義3）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞】十分に満たす",
+      "frequency": 4,
+      "register": [
+        "フォーマル・文章的。"
+      ],
+      "definition": "食欲・渇き・好奇心などの欲求を十分に満たす。欲求を持つ人を目的語にもでき、もうそれ以上求めなくなるほどの充足を表す。満たされたこと自体が必ず不快というわけではない。",
+      "patterns": [
+        "sate 〈食欲・渇き・好奇心など〉",
+        "sate someone",
+        "〈欲求〉 + be sated",
+        "sate oneself on 〈食物〉",
+        "sate oneself with 〈食物〉。再帰形では自分を満たすことを表し、主語に応じて oneself の形を変える。"
+      ],
+      "collocations": [
+        {
+          "pattern": "sate one’s hunger",
+          "use": "空腹を十分に満たす。",
+          "example": "A bowl of thick soup sated his hunger.",
+          "translation": "とろみのあるスープを1杯飲むと、彼の空腹は十分に満たされた。"
+        },
+        {
+          "pattern": "sate one’s thirst",
+          "use": "渇きを癒やす。",
+          "example": "The cold water finally sated her thirst.",
+          "translation": "冷たい水で、彼女の渇きはようやく癒やされた。"
+        },
+        {
+          "pattern": "sate one’s curiosity",
+          "use": "知りたいという欲求を満たす。",
+          "example": "The interview sated my curiosity about the author’s early life.",
+          "translation": "そのインタビューで、作家の若いころについて知りたいという私の気持ちは満たされた。"
+        },
+        {
+          "pattern": "sate someone",
+          "use": "人の欲求を満たす。",
+          "example": "The generous meal was enough to sate the hungry visitors.",
+          "translation": "たっぷりの食事は、空腹の訪問者たちを満足させるのに十分だった。"
+        },
+        {
+          "pattern": "sate oneself on 〈食物〉",
+          "use": "自分の食欲を、ある食物で満たす。",
+          "example": "They sated themselves on bread and cheese.",
+          "translation": "彼らはパンとチーズでお腹を満たした。"
+        },
+        {
+          "pattern": "sate oneself with 〈食物〉",
+          "use": "自分を満たす食物を with で示す。",
+          "example": "She sated herself with a large supper.",
+          "translation": "彼女はたっぷりの夕食でお腹を満たした。"
+        },
+        {
+          "pattern": "〈欲求〉 + be sated",
+          "use": "満たされた欲求を主語にする。",
+          "example": "Her appetite for adventure was sated by the long journey.",
+          "translation": "長旅によって、冒険を求める彼女の欲求は満たされた。"
+        }
+      ],
+      "notes": [
+        "sate は「誰か・何かを満たす」という他動詞。I sated my hunger. の目的語は欲求、The meal sated me. の目的語は人である。再帰形は sate myself／sate themselves のように主語と一致させる。能動再帰形には sate oneself on food と sate oneself with food があり、どちらも食物を示せる。with が付くことだけで受動態とは判断せず、She sated herself with food. の再帰目的語と、She was sated with food. の受動・状態表現を区別する。satisfy のように、規則の条件を満たすことまで自由に言い換える語ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "satisfy",
+          "definition": "欲求や必要を満たす。",
+          "frequency": 9,
+          "difference": "最も広く使える語で、条件・要求への適合も表す。sate は欲求を十分に充足させることに焦点がある。",
+          "example": "The meal satisfied their hunger.",
+          "translation": "その食事で、彼らの空腹は満たされた。"
+        },
+        {
+          "word": "satiate",
+          "definition": "欲求を完全に、または過度に満たす。",
+          "frequency": 4,
+          "difference": "意味が大きく重なり、どちらも十分な充足と過剰な充足に使える。一律に sate は快い、satiate は不快と分けない。",
+          "example": "The explanation satiated her curiosity.",
+          "translation": "その説明で、彼女の好奇心は十分に満たされた。"
+        },
+        {
+          "word": "quench",
+          "definition": "渇きを癒やす。",
+          "frequency": 5,
+          "difference": "渇きの意味で sate と近いが、sate は食欲や好奇心にも使える。quench には火を消す別義もあり、その範囲まで同義ではない。",
+          "example": "The drink quenched his thirst.",
+          "translation": "その飲み物で彼の渇きが癒やされた。"
+        },
+        {
+          "word": "slake",
+          "definition": "渇き・強い欲求を満たす。",
+          "frequency": 3,
+          "difference": "文学的な表現で、渇きなどを静める意味に使う。sate も文章的で、十分な充足を表す点では重なる。渇きの文脈で両語の間に絶対的な意味の境界を置かない。",
+          "example": "They stopped to slake their thirst.",
+          "translation": "彼らは渇きを癒やすために立ち止まった。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【動詞・他動詞】満たしすぎて飽きさせる",
+      "frequency": 4,
+      "register": [
+        "フォーマル・文章的。"
+      ],
+      "definition": "人や欲求に十分すぎるほど与えた結果、それ以上の関心・楽しみが薄れるようにする。単に必要量に達するだけでなく、もう要らないと感じるほどの過度の充足を表す。",
+      "patterns": [
+        "sate someone with 〈過剰に与える内容〉",
+        "sate one’s appetite for 〈対象〉",
+        "be sated with 〈内容〉。同じ文型でも、過剰さや関心の低下を文脈で見分ける。"
+      ],
+      "collocations": [
+        {
+          "pattern": "sate someone with 〈内容〉",
+          "use": "供給過剰で人の興味を失わせる。",
+          "example": "The constant coverage sated the audience with scandal until they lost interest.",
+          "translation": "絶え間ない報道で、視聴者はスキャンダルに飽き飽きして関心を失った。"
+        },
+        {
+          "pattern": "sate one’s appetite for 〈対象〉",
+          "use": "欲求が満ちすぎて、もう求めなくなることを述べる。",
+          "example": "Years of lavish holidays had sated his appetite for luxury, and he now preferred simple trips.",
+          "translation": "長年ぜいたくな休暇を重ねてすっかり飽きた彼は、今では簡素な旅を好んでいた。"
+        },
+        {
+          "pattern": "be sated with 〈内容〉",
+          "use": "過剰に与えられて飽きた状態を述べる。",
+          "example": "Readers were sated with sensational stories and wanted something different.",
+          "translation": "読者は刺激的な話に飽きて、何か違うものを求めていた。"
+        }
+      ],
+      "notes": [
+        "語義1と同じ形を取り得るため、sate という語だけで不快・嫌悪まで断定しない。一方、lost interest、wanted something different のように、以前の楽しみや欲求が薄れた文脈では、この過剰の意味が明確になる。"
+      ],
+      "synonyms": [
+        {
+          "word": "surfeit",
+          "definition": "過剰に与えて、うんざりさせる。",
+          "frequency": 2,
+          "difference": "不快なほどの過剰を強く示す。sate には、単に十分満たす語義1もある。",
+          "example": "The public was surfeited with gloomy predictions.",
+          "translation": "人々は悲観的な予測を聞かされすぎて、うんざりしていた。"
+        },
+        {
+          "word": "cloy",
+          "definition": "甘さなどが過剰で、飽きや嫌悪を生む。",
+          "frequency": 2,
+          "difference": "くどい甘さ・豊かさなどへの反応を表す。sate は欲求への供給が過剰になることを表す。",
+          "example": "The sentimental music soon began to cloy.",
+          "translation": "その感傷的な音楽は、すぐにくどく感じられ始めた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【形容詞・sated】満ち足りた・十分に満たされた",
+      "frequency": 4,
+      "register": [
+        "フォーマル。通常は名詞の前より、叙述的に用いる。"
+      ],
+      "definition": "食物・喜び・経験などを十分に得て、もうそれ以上必要だと感じない状態。文脈によっては、十分すぎて飽きていることも表すが、必ず嫌悪があるとは限らない。",
+      "patterns": [
+        "be sated",
+        "be sated with 〈内容〉",
+        "fully sated",
+        "not yet sated。with 以下は、十分に得たものを示す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "be sated",
+          "use": "十分満たされた状態を述べる。",
+          "example": "After the meal, we were sated and wanted nothing more.",
+          "translation": "食事のあと、私たちは満腹で、もう何も欲しくなかった。"
+        },
+        {
+          "pattern": "be sated with 〈食物〉",
+          "use": "満たした食物を示す。",
+          "example": "The guests were sated with bread, cheese, and fruit.",
+          "translation": "客たちはパンとチーズと果物でお腹を満たしていた。"
+        },
+        {
+          "pattern": "be sated with 〈経験〉",
+          "use": "経験などによる充足を述べる。",
+          "example": "After a week of celebrations, she was sated with pleasure and ready for a quiet day.",
+          "translation": "1週間祝宴が続いたあと、彼女は楽しみを十分に味わい、静かな一日を過ごしたくなっていた。"
+        },
+        {
+          "pattern": "not yet sated",
+          "use": "まだ欲求が満ちていないことを述べる。",
+          "example": "His curiosity was not yet sated, so he asked another question.",
+          "translation": "彼の好奇心はまだ満たされず、さらに質問をした。"
+        }
+      ],
+      "notes": [
+        "The meal sated him. は動詞の過去形で、The guests were sated. は結果の状態を述べられる。be sated だけで、常に形容詞または常に受動態と断定しない。名詞の前に置くことが絶対に不可能なのではないが、学習上は be sated with などの叙述的な型を優先する。"
+      ],
+      "synonyms": [
+        {
+          "word": "satiated",
+          "definition": "十分に得て満たされた。",
+          "frequency": 4,
+          "difference": "意味は近い。sated は短い形で、satiated は別の動詞 satiate の分詞形。形だけを同じ語の自由な省略と考えない。",
+          "example": "The diners were fully satiated after the meal.",
+          "translation": "食事のあと、食事客たちはすっかり満腹だった。"
+        },
+        {
+          "word": "full",
+          "definition": "食べ物で満腹の。",
+          "frequency": 9,
+          "difference": "食後の状態を述べる日常的な語。sated はよりフォーマルで、喜びや好奇心などにも広がる。",
+          "example": "I am full, so I cannot eat another slice.",
+          "translation": "私はお腹がいっぱいなので、もう1切れは食べられない。"
+        },
+        {
+          "word": "satisfied",
+          "definition": "欲求などが満たされている。",
+          "frequency": 8,
+          "difference": "サービスや成果に対する評価も表せる広い語。sated は十分得て、それ以上欲しない状態を強調する。",
+          "example": "She felt satisfied after a good meal.",
+          "translation": "彼女はおいしい食事をして満足感を覚えた。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unsated",
+          "definition": "欲求が十分に満たされていない。",
+          "frequency": 2,
+          "difference": "充足の有無という軸で反対。sated に否定の un- が付いた、文章的な表現。",
+          "example": "His appetite for knowledge remained unsated.",
+          "translation": "知識を求める彼の欲求は、満たされないままだった。"
+        },
+        {
+          "word": "hungry",
+          "definition": "食物を求めるほど空腹の。",
+          "frequency": 10,
+          "difference": "食物による充足という軸で反対。sated の抽象的な喜びや好奇心の意味すべてに対応する反意語ではない。",
+          "example": "The children were still hungry after the snack.",
+          "translation": "子どもたちは軽食を食べたあとも、まだ空腹だった。"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "【動詞・sit の古い過去形／過去分詞】座った・座っていた",
+      "frequency": 1,
+      "register": [
+        "古風・文学的。現代標準の形は sat。"
+      ],
+      "definition": "sit「座る」の古い活用形。古い文章・詩などで、「座った・座っていた」、または完了形の一部として使われる。現代の「満たす」という動詞とは別系統。",
+      "patterns": [
+        "〈人〉 + sate",
+        "〈人〉 + had sate。後者の sate は古い過去分詞。"
+      ],
+      "collocations": [
+        {
+          "pattern": "〈人〉 + sate",
+          "use": "古風な文章で、座っていたことを述べる。",
+          "example": "The knight sate beside the hearth in silence.",
+          "translation": "騎士は暖炉のそばに黙って座っていた。"
+        },
+        {
+          "pattern": "had sate",
+          "use": "古い過去分詞を用いた完了形を示す。",
+          "example": "He had sate there for an hour before the messenger arrived.",
+          "translation": "使者が到着するまで、彼はそこに1時間座っていた。"
+        }
+      ],
+      "notes": [
+        "この語義では sate はすでに sit の過去形・過去分詞なので、現代の動詞「満たす」の過去形 sated と混同しない。古い文章を読むための知識として扱い、通常の現代英文では sit–sat–sat を使う。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞・可算／不可算】サテ・東南アジアの串焼き料理",
+      "frequency": 2,
+      "register": [
+        "料理・食文化。とくにインドネシア・マレーシアなどに関係する料理名。"
+      ],
+      "definition": "小さく切った肉などを味付けして串に刺し、焼いた東南アジアの料理。ピーナッツ風味のソースを添えるものがよく知られる。satay、saté という綴りもあり、ここでは sate という異表記を扱う。",
+      "patterns": [
+        "chicken sate",
+        "serve sate",
+        "a sate。食物を量として捉える場合と、一つの料理・種類として捉える場合がある。"
+      ],
+      "collocations": [
+        {
+          "pattern": "chicken sate",
+          "use": "鶏肉のサテを指す。",
+          "example": "We ordered chicken sate with peanut sauce.",
+          "translation": "私たちはピーナッツソースを添えたチキンサテを注文した。"
+        },
+        {
+          "pattern": "serve sate",
+          "use": "料理を提供することを述べる。",
+          "example": "The restaurant serves sate as an appetizer.",
+          "translation": "そのレストランでは、サテを前菜として出している。"
+        }
+      ],
+      "notes": [
+        "料理名は /sɑːˈteɪ/ という2音節の発音があり、動詞「満たす」の /seɪt/ と区別する。sate、satay、saté は綴りの違いとして現れ、sate を見たから必ず英語の動詞だとは決めない。",
+        "可算扱いは一つの料理や種類として捉えた場合で、a sate を必ず串1本という数量単位と決めない。料理の材料・添えるソースはさまざまであり、ピーナッツを含むことを全例に必須とはしない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}
