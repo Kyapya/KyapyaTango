@@ -6,6 +6,12 @@ def required(obj,key):
  if not isinstance(v,str) or not v.strip(): raise ValueError('Missing/non-text '+key)
  return v
 
+def frequency(value):
+ # Preserve only explicit integer scores; do not derive scores from text.
+ if type(value) is int and 1 <= value <= 10: return value
+ if isinstance(value,str) and re.fullmatch(r"(?:[1-9]|10)",value): return int(value)
+ return None
+
 def study_data(words):
  cards=[]; senses={}; examples=[]; seen_words=set(); seen_ids=set(); total_senses=0
  for word in words:
@@ -19,7 +25,7 @@ def study_data(words):
    key=f'{slug}:{n}'
    if key in senses: raise ValueError('Duplicate sense: '+key)
    title=required(sense,'title'); definition=required(sense,'definition')
-   senses[key]=dict(word=name,senseNumber=n,meaning=title,definition=definition,url=f'words/{slug}.html#sense-{n}')
+   senses[key]=dict(word=name,senseNumber=n,frequency=frequency(sense.get("frequency")),meaning=title,definition=definition,url=f'words/{slug}.html#sense-{n}')
    pairs=sense.get('collocations')
    if not isinstance(pairs,list) or not pairs: raise ValueError('Missing example: '+key)
    for pair in pairs:
@@ -27,7 +33,7 @@ def study_data(words):
     if cid in seen_ids: raise ValueError('Duplicate example: '+cid)
     seen_ids.add(cid);examples.append(dict(id=cid,senseId=key,example=en,translation=ja))
   first=ws[0];title=first['title'];match=re.search(r'\b'+re.escape(name)+r'(?: [a-z]+)+\b',title.split('】',1)[0]);pair=first['collocations'][0]
-  cards.append(dict(word=name,prompt=match.group() if match else name,meaning=title,definition=first['definition'],example=pair['example'],translation=pair['translation'],url=f'words/{slug}.html'))
+  cards.append(dict(word=name,frequency=frequency(first.get("frequency")),prompt=match.group() if match else name,meaning=title,definition=first['definition'],example=pair['example'],translation=pair['translation'],url=f'words/{slug}.html'))
  report=dict(total=len(words),accepted=len(cards),excluded=[],counts=dict(missing=0,unsupported=0,review_mismatch=0),scope='Published dictionary JSON; existing first-sense example')
  er=dict(words=len(words),totalSenses=total_senses,coveredSenses=len(senses),sourcePairs=len(examples),accepted=len(examples),excluded=[],missingSenses=[],verification='English/Japanese copied from the same published JSON collocation')
  return cards,senses,examples,report,er
