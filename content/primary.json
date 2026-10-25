@@ -1,0 +1,996 @@
+{
+  "word": "primary",
+  "slug": "primary",
+  "ipa": "米: /ˈpraɪmeri/｜英: /ˈpraɪməri/。ここに示す形は3音節で、第1音節の二重母音 /aɪ/ に強勢がある。米英差は第2音節の母音で、示した米語形は /e/、英語形は /ə/。第3音節の母音はともに /i/。このほか弱母音の省略などの変異もあるが、綴りの最初の i を /ɪ/ と読まない。",
+  "lead": "複数の要因・目的・役割などの中で、重要性や優先順位が最上位にあること。唯一であるとは限らず、副次的な目的や要因が同時に存在してよい。",
+  "updated": "2026-10-25",
+  "notion_url": "https://app.notion.com/p/primary-4044faa9b77d8116a3d2ecd0242b0870",
+  "pronunciation": [],
+  "etymology": [
+    "ラテン語 prīmārius「第一の・主要な」に由来し、そのもとは prīmus「最初の」。重要性、順序、出所、基礎といった異なる軸で「第一」が具体化している。prime や primitive と同じ「最初」の語源系列だが、現代の primary をすべて「原始的な」と訳すことはできない。予備選を表す名詞は primary election などの短縮から、予備選で現職に対抗する動詞は名詞から発達した。"
+  ],
+  "formation": [
+    {
+      "term": "primarily",
+      "description": "主として、という副詞。primary の語尾を -ily にした形で、形容詞と同じ位置に置く語ではない。"
+    },
+    {
+      "term": "primaries",
+      "description": "可算名詞 primary の複数形。予備選のほか、原色・初列風切などの専門名詞でも使う。動詞の三人称単数形でもある。"
+    },
+    {
+      "term": "primaried／primarying",
+      "description": "動詞 primary の過去形・過去分詞と -ing形。-ed の前では y が i に変わるが、-ing の前では y を残す。"
+    },
+    {
+      "term": "primary school／primary source／primary care",
+      "description": "後ろの名詞により教育・情報・医療の意味が決まる結合。「最重要」の一語訳だけでは区別できない。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "共通するのは「他のものに対して、先行する側・基礎や起点となる側にあること」で、時間順序だけでなく、優先順位や派生関係にも使う。語義17・18・20・25は、結合数、羽の部位、時制群を専門分類内で独自に指定する制度的専門義であり、その語彙的意味は先行・起点という関係から自然には導けないため、個別に参照する。"
+    },
+    {
+      "type": "item",
+      "text": "他に先立って優先される目的や役割 → 「主要な・最も重要な」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "他に先立つ基礎的な学校教育の段階 → 「初等教育の・小学校の」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "他の説明のもとになる直接の情報源 → 「一次の・直接の・原資料の」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "他に先立つ時間的段階 → 「最初の・初期の」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "他の要素のもとになる仕組みの土台 → 「基本的な・基礎となる」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "他に先立ち本選候補を選ぶ段階 → 「予備選挙・予備選」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "他の診療にもつながる身近な窓口 → 「身近で基本的な医療の」（語義7）"
+    },
+    {
+      "type": "item",
+      "text": "他の生産のもとになる原材料供給 → 「原材料を供給する産業の・一次産業の」（語義8）"
+    },
+    {
+      "type": "item",
+      "text": "他の色を作るもとになる混色の基礎 → 「原色の・原色」（語義9）"
+    },
+    {
+      "type": "item",
+      "text": "他に先立つ候補選出段階での挑戦 → 「現職に予備選で対抗する」（語義10）"
+    },
+    {
+      "type": "item",
+      "text": "他の病巣のもとになる腫瘍の発生源 → 「原発の・原発性の」（語義11）"
+    },
+    {
+      "type": "item",
+      "text": "他疾患から続発せず独立する病態 → 「特発性の・他の病気に続発しない」（語義12）"
+    },
+    {
+      "type": "item",
+      "text": "他に先立って生える歯の組 → 「乳歯の」（語義13）"
+    },
+    {
+      "type": "item",
+      "text": "他の構造段階のもとになる配列 → 「一次構造の」（語義14）"
+    },
+    {
+      "type": "item",
+      "text": "他より強い階層にある発音上の強勢 → 「第一強勢の」（語義15）"
+    },
+    {
+      "type": "item",
+      "text": "他の生物生産のもとになる有機物形成 → 「一次生産の」（語義16）"
+    },
+    {
+      "type": "item",
+      "text": "他方へ電力を渡す起点となる入力側 → 「一次側の・一次コイル」（語義19）"
+    },
+    {
+      "type": "item",
+      "text": "他天体との関係で中心となる主成分 → 「主天体・主星」（語義21）"
+    },
+    {
+      "type": "item",
+      "text": "他の追加組織のもとになる植物体形成 → 「一次成長の・一次組織の」（語義22）"
+    },
+    {
+      "type": "item",
+      "text": "他の変化に先立つ岩石形成時の特徴 → 「初生の・形成当初からの」（語義23）"
+    },
+    {
+      "type": "item",
+      "text": "他の再利用に先立つ鉱石からの生産 → 「鉱石から直接得られた・一次製錬の」（語義24）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【形容詞】主要な・最も重要な",
+      "frequency": 8,
+      "register": [
+        "一般・報道・ビジネス・説明文。"
+      ],
+      "definition": "複数の要因・目的・役割などの中で、重要性や優先順位が最上位にあること。唯一であるとは限らず、副次的な目的や要因が同時に存在してよい。",
+      "patterns": [
+        "the primary 〈目的・要因・関心など〉",
+        "someone's primary 〈目的など〉",
+        "be of primary importance",
+        "〈関心・目的など〉 + be primary。名詞の前が典型で、叙述では重要性を対比する文脈を伴いやすい。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the primary goal",
+          "use": "複数の目標の中で優先されるものを示す。",
+          "example": "The primary goal is to reduce errors, not to increase speed.",
+          "translation": "第一の目標は、速度を上げることではなく、誤りを減らすことだ。"
+        },
+        {
+          "pattern": "someone's primary concern",
+          "use": "人が最も重く見ている事柄を述べる。",
+          "example": "Her primary concern was the safety of the workers.",
+          "translation": "彼女が最も重視していたのは、作業員の安全だった。"
+        },
+        {
+          "pattern": "the primary cause of 〈結果〉",
+          "use": "結果をもたらした主要な原因を示す。",
+          "example": "Poor maintenance was the primary cause of the equipment failure.",
+          "translation": "設備故障の主な原因は、整備不足だった。"
+        },
+        {
+          "pattern": "be of primary importance",
+          "use": "特に重要だと改まって述べる。",
+          "example": "Accurate records are of primary importance in this investigation.",
+          "translation": "この調査では、正確な記録が何よりも重要だ。"
+        }
+      ],
+      "notes": [
+        "primary cause は文脈により「主な原因」と、因果関係の起点となる「元の原因」の両方が考えられる。ここでは重要性の順位を表し、時系列の最初を必ず意味しない。secondary は副次的という対照で、無価値という意味ではない。",
+        "primary は通常、すでに最上位・優先される位置を述べる。単に程度を強めるため very primary を常用するより、the main priority など意味に合う表現を選ぶ。比較を一切禁じる語というわけではないが、more important の機械的な置換として more primary を使わない。"
+      ],
+      "synonyms": [
+        {
+          "word": "main",
+          "definition": "複数の中で中心的・主要である。",
+          "frequency": 9,
+          "difference": "日常的で広い語。primary は優先順位や第一の位置をより明確に打ち出し、専門分野の対照にも使う。",
+          "example": "The main problem is a lack of time.",
+          "translation": "主な問題は、時間が足りないことだ。"
+        },
+        {
+          "word": "principal",
+          "definition": "重要性や役割の点で第一の。",
+          "frequency": 6,
+          "difference": "改まった表現で primary に近いが、primary の初等教育・原発・予備選などの意味へ自由に置き換えられない。",
+          "example": "The principal reason for the delay was a shortage of materials.",
+          "translation": "遅れの主な理由は、資材不足だった。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "secondary",
+          "definition": "重要性や優先順位が第一ではなく、副次的である。",
+          "frequency": 7,
+          "difference": "順位の対立であり、完全な不要・無価値を意味しない。primary と同じく比較する軸を文脈で定める。",
+          "example": "Cost is a secondary consideration; reliability comes first.",
+          "translation": "費用は二の次で、信頼性が優先される。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【形容詞・限定】初等教育の・小学校の",
+      "frequency": 7,
+      "register": [
+        "主に英国系の教育用語。"
+      ],
+      "definition": "中等教育より前の、子どもが基礎的な学校教育を受ける段階に関すること。primary school、primary education などとして使う。",
+      "patterns": [
+        "a primary school",
+        "primary education",
+        "a primary teacher",
+        "primary pupils。この意味では原則として名詞の前に置く。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a primary school",
+          "use": "初等教育を行う学校を述べる。",
+          "example": "The village has a small primary school beside the library.",
+          "translation": "その村には、図書館の隣に小さな小学校がある。"
+        },
+        {
+          "pattern": "primary education",
+          "use": "学校名ではなく教育段階を話題にする。",
+          "example": "The report examines access to primary education in rural areas.",
+          "translation": "報告書は、農村地域で初等教育を受けられる状況を検討している。"
+        },
+        {
+          "pattern": "primary teachers",
+          "use": "初等教育の段階を担当する教員を述べる。",
+          "example": "Primary teachers helped design the reading materials.",
+          "translation": "小学校の教員たちが、その読解教材の作成に協力した。"
+        }
+      ],
+      "notes": [
+        "年齢・学年の区切りは国や地域で異なるため、primary を一律に特定の年齢範囲と同一視しない。米国では elementary school が一般的だが、実際の学校制度上の範囲は常に一致するとは限らない。",
+        "This is a primary school は自然だが、学校の種類を述べるため This school is primary と名詞を落とすのは避ける。primary teacher は「最も重要な先生」ではなく、この文脈では初等教育の教員である。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【形容詞】一次の・直接の・原資料の",
+      "frequency": 6,
+      "register": [
+        "研究・報道・歴史・情報の評価。"
+      ],
+      "definition": "他の資料や加工済みの説明を経由するのではなく、出来事・観察・調査などの出所に直接結び付いていること。資料・データの由来や派生関係を区別する。",
+      "patterns": [
+        "a primary source",
+        "primary sources of information",
+        "primary data",
+        "primary evidence。source は可算、data や evidence はそれぞれの名詞の数の扱いに従う。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a primary source",
+          "use": "調べる出来事に直接関わる資料を示す。",
+          "example": "The diary is a primary source for her research on wartime life.",
+          "translation": "その日記は、戦時中の暮らしに関する彼女の研究の一次資料だ。"
+        },
+        {
+          "pattern": "primary data",
+          "use": "調査者が直接集めたデータを述べる。",
+          "example": "The researchers collected primary data through interviews.",
+          "translation": "研究者たちは、面接調査を通じて一次データを集めた。"
+        }
+      ],
+      "notes": [
+        "primary source は「最も重要な情報源」という重要性の読みも文脈上可能だが、研究上の分類では出所の直接性を指す。何を調べるかによって、ある資料が一次資料として扱われるかも変わり得る。",
+        "一次資料であることは、内容の正確さ・中立性を保証しない。著者の誤認や偏りもあり得るため、primary を「必ず信頼できる」と訳さない。secondary source は一次資料を分析・解釈する資料であり、それだけで質が低いとはいえない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【形容詞】最初の・初期の",
+      "frequency": 5,
+      "register": [
+        "改まった説明・専門的文章。"
+      ],
+      "definition": "時間・発達・一連の段階の中で、先に生じること。重要性ではなく、順序や発生の位置を表す。",
+      "patterns": [
+        "the primary stage of 〈過程〉",
+        "the primary stages of 〈過程〉",
+        "primary development。主に名詞の前で使う。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the primary stages of 〈過程〉",
+          "use": "ある過程の初めの段階を述べる。",
+          "example": "The project is still in its primary stages of development.",
+          "translation": "そのプロジェクトは、まだ開発の初期段階にある。"
+        }
+      ],
+      "notes": [
+        "最初だから最重要だという意味ではない。日常的に初期段階と言うなら initial stages や early stages もよく使う。primary の医学的な「原発性」や「特発性」を、単に発症直後という意味に読み替えない。",
+        "単なる日付の早さを表すあらゆる first の代わりにはならない。初めて会ったという a first meeting を、通常 a primary meeting と置き換えることはしない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【形容詞】基本的な・基礎となる",
+      "frequency": 5,
+      "register": [
+        "一般的な説明・社会科学・教育。"
+      ],
+      "definition": "複雑な仕組みや活動を成り立たせる土台・基本要素に関すること。重要性の順位と重なり得るが、何かがその上に成り立つという基礎性に焦点がある。",
+      "patterns": [
+        "a primary need",
+        "primary needs",
+        "a primary unit",
+        "primary units。基本要素を具体的に指す名詞と結び付く。"
+      ],
+      "collocations": [
+        {
+          "pattern": "primary needs",
+          "use": "生活や活動の土台にある基本的欲求・必要を述べる。",
+          "example": "The discussion began with people's primary needs for food and shelter.",
+          "translation": "話し合いは、食料や住まいを必要とする人々の基本的な欲求から始まった。"
+        },
+        {
+          "pattern": "a primary unit",
+          "use": "大きな構造を構成する基礎単位を説明する。",
+          "example": "The household is treated as a primary unit in this model.",
+          "translation": "このモデルでは、世帯が基礎単位として扱われている。"
+        }
+      ],
+      "notes": [
+        "basic や fundamental と近いが、primary のあらゆる意味をこの義で説明しない。primary school の制度区分や primary election の意味は、単なる「基礎的な学校・選挙」では捉えきれない。",
+        "「簡単な」という難易度評価ではない。基礎となる課題が難しいことはあり、primary needs を「簡単な欲求」と訳さない。"
+      ],
+      "synonyms": [
+        {
+          "word": "basic",
+          "definition": "複雑なものの土台となる、基本的な。",
+          "frequency": 8,
+          "difference": "基礎性を広く述べ、初歩的・簡単という意味も持つ。primary は基礎となる位置や先行する段階に焦点があり、簡単さを必ず含まない。",
+          "example": "Students need a basic understanding of the subject before taking this course.",
+          "translation": "この講座を受ける前に、学生にはその分野の基礎的な理解が必要だ。"
+        },
+        {
+          "word": "fundamental",
+          "definition": "物事の成立や理解の根本に関わる。",
+          "frequency": 7,
+          "difference": "なくては成り立たない土台・本質を強く示す。primary は第一の位置にあることも述べ、すべての場面で不可欠という強さまでは伴わない。",
+          "example": "Trust is fundamental to a lasting partnership.",
+          "translation": "長く続く協力関係にとって、信頼は根幹となるものだ。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【名詞・可算】予備選挙・予備選",
+      "frequency": 5,
+      "register": [
+        "主に米国の政治・報道。"
+      ],
+      "definition": "本選に向けて候補者を選んだり、その候補への支持を表明したりする選挙。米国政治でよく使い、大会代議員や党役員の選出に関わる場合もある。primary election の短い形。",
+      "patterns": [
+        "a primary",
+        "the primaries",
+        "run in a primary",
+        "win/lose a primary",
+        "an open/closed primary",
+        "a presidential primary。単数には冠詞などを付け、複数は primaries。"
+      ],
+      "collocations": [
+        {
+          "pattern": "run in a primary",
+          "use": "予備選に立候補することを述べる。",
+          "example": "Three candidates are running in the party's primary.",
+          "translation": "その党の予備選には、3人の候補者が立候補している。"
+        },
+        {
+          "pattern": "win a primary",
+          "use": "予備選の結果を述べる。",
+          "example": "She won the primary but lost the general election.",
+          "translation": "彼女は予備選には勝ったが、本選には敗れた。"
+        },
+        {
+          "pattern": "a presidential primary／the presidential primaries",
+          "use": "大統領候補の選出に関わる一連の予備選を述べる。",
+          "example": "The presidential primaries attracted intense media attention.",
+          "translation": "大統領候補を選ぶ予備選は、報道機関の大きな関心を集めた。"
+        },
+        {
+          "pattern": "an open primary",
+          "use": "政党への登録と参加資格の関係を区別する。",
+          "example": "The article explains the difference between an open primary and a closed primary.",
+          "translation": "その記事は、オープン・プライマリーとクローズド・プライマリーの違いを説明している。"
+        }
+      ],
+      "notes": [
+        "primary は本選そのものではなく、勝っても公職への当選が確定するわけではない。また、すべての予備選で参加者が登録党員に限られるわけではなく、州・政党によって制度が異なる。大統領予備選では、投票が党大会代議員の配分などを通じて候補指名につながる。",
+        "caucus は党員集会という方式で、現代の制度説明では primary と区別する。辞書上の広い関連があっても、両者の投票・集会手続きを同一視しない。動詞の「現職に対抗する」は語義10であり、run in a primary はこの名詞を用いた構文。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【形容詞：主に primary care の形】身近で基本的な医療の",
+      "frequency": 5,
+      "register": [
+        "医療・保健・医療制度の説明。"
+      ],
+      "definition": "健康上の問題を最初に相談する窓口となり、一般的な病気への対応・予防・健康維持を継続的に支える医療に関すること。primary care 全体では「プライマリ・ケア」という不可算名詞句になる。",
+      "patterns": [
+        "primary care",
+        "a primary care provider",
+        "a primary care physician",
+        "provide primary care。primary care は医療の種類、後続の provider や physician はその提供者を表す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "primary care",
+          "use": "身近な健康相談や一般的な診療を担う医療を述べる。",
+          "example": "The study examines continuity of care in primary care.",
+          "translation": "その研究は、プライマリ・ケアにおける診療の継続性を検討している。"
+        },
+        {
+          "pattern": "a primary care provider",
+          "use": "継続的な基本的医療を担う提供者を示す。",
+          "example": "Her primary care provider coordinates her care with a specialist.",
+          "translation": "彼女のプライマリ・ケア担当者は、専門医と連携して診療を調整している。"
+        }
+      ],
+      "notes": [
+        "「最初の診察1回だけ」という意味ではなく、予防や長期的な健康管理も含む。primary care provider を常に医師一職種と同一視しない。具体的な職種・資格・診療範囲は制度によって異なる。",
+        "primary care と救急医療は同義ではない。本文は用語の意味を説明するもので、個別の症状でどこを受診すべきか、紹介状や保険が必要かを定めるものではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【形容詞】原材料を供給する産業の・一次産業の",
+      "frequency": 4,
+      "register": [
+        "経済・産業・貿易。"
+      ],
+      "definition": "農林業や鉱物などの採取を通じ、自然から原材料を得る産業・産品に関すること。製造加工やサービスとの区別に用いる。",
+      "patterns": [
+        "primary industry",
+        "primary industries",
+        "the primary sector",
+        "primary commodities。industry は産業部門全体なら不可算、個々の業種なら可算。"
+      ],
+      "collocations": [
+        {
+          "pattern": "primary industries",
+          "use": "自然から原材料を得る業種をまとめて述べる。",
+          "example": "Farming and mining are important primary industries in the region.",
+          "translation": "その地域では、農業と鉱業が重要な原材料供給産業となっている。"
+        },
+        {
+          "pattern": "primary commodities",
+          "use": "加工品などと区別して、一次産品を述べる。",
+          "example": "The country depends heavily on exports of primary commodities.",
+          "translation": "その国は、一次産品の輸出に大きく依存している。"
+        }
+      ],
+      "notes": [
+        "primary industry を、その国の「最重要産業」とだけ読まない。primary がここで分類しているのは経済的重要性ではなく、生産活動の種類である。",
+        "日本語の「第一次産業」と各英語圏の分類範囲は常に一致しない。とくに英語の primary industry には鉱業を含む用法があるため、訳語だけで対象業種を決めず、具体的な文脈を確認する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 9,
+      "title": "【形容詞・名詞：可算】原色の・原色",
+      "frequency": 4,
+      "register": [
+        "美術・色彩・映像・印刷。"
+      ],
+      "definition": "色を混ぜて別の色を作る際に、基になる色を表す。primary colour/color の形で形容詞として使うほか、a primary、複数 primaries だけでも原色を指す。選ばれる色や再現できる範囲は、光・絵具・印刷などの体系によって異なる。",
+      "patterns": [
+        "a primary colour/color",
+        "primary colours/colors",
+        "a primary",
+        "the primaries",
+        "a set of primaries。colour は主に英国式、color は米国式綴り。"
+      ],
+      "collocations": [
+        {
+          "pattern": "primary colours",
+          "use": "混色の基準となる色を述べる。",
+          "example": "The lesson compares primary colours in paint with those used in light.",
+          "translation": "その授業では、絵具の原色と光に用いる原色を比較する。"
+        },
+        {
+          "pattern": "a primary／a set of primaries",
+          "use": "特定の色再現システムで選んだ原色の組を述べる。",
+          "example": "Changing the set of primaries changes the range of colours the system can produce.",
+          "translation": "原色の組を変えると、そのシステムで作れる色の範囲が変わる。"
+        }
+      ],
+      "notes": [
+        "伝統的な美術教育の赤・黄・青と、光のRGBで用いる赤・緑・青を混同しない。primary と呼ぶ色がどの体系でも同一というわけではない。",
+        "原色は必ず3つだけとも、その3色で人間に見えるすべての色を再現できるとも限らない。専門的な光のシステムでは4つ以上の primaries もあり、原色の選択によって色域に限界がある。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 10,
+      "title": "【他動詞】現職に予備選で対抗する",
+      "frequency": 3,
+      "register": [
+        "米国の政治報道・政治をめぐる会話。"
+      ],
+      "definition": "現職の政治家を相手に、予備選で立候補して挑戦する。目的語は対抗される現職で、動詞だけではその現職を破ったことまでは意味しない。",
+      "patterns": [
+        "primary 〈現職の政治家〉",
+        "〈現職〉 + be primaried",
+        "〈現職〉 + be primaried by 〈対抗者〉。受動形でよく使い、by の対抗者は文脈上省略できる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "primary 〈現職の政治家〉",
+          "use": "誰に予備選で挑戦するか示す。",
+          "example": "A local activist announced plans to primary the incumbent senator.",
+          "translation": "地元の活動家が、予備選で現職上院議員に対抗する意向を表明した。"
+        },
+        {
+          "pattern": "primary someone／be primaried",
+          "use": "現職側を主語にして、予備選で挑戦を受けることを述べる。",
+          "example": "The governor was primaried but still won the nomination.",
+          "translation": "知事は予備選で対抗候補の挑戦を受けたが、それでも党の指名を勝ち取った。"
+        }
+      ],
+      "notes": [
+        "was primaried だけを「予備選で落選した」と訳さない。対抗候補が立ったことと敗れたことを区別する。単に誰かが予備選に出ることなら run in a primary とする。",
+        "ここでの primaried は受動態の過去分詞であり、独立した性質形容詞として「予備選的な」という意味を与えない。形容詞 primary の「主要な」とも別の品詞・構文である。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 11,
+      "title": "【形容詞】原発の・原発性の",
+      "frequency": 3,
+      "register": [
+        "医学・がんに関する説明。"
+      ],
+      "definition": "とくに腫瘍・がんについて、別の場所から転移してきたものではなく、元の発生箇所にあることを表す。発生源と転移先を区別する語義。",
+      "patterns": [
+        "a primary tumour/tumor",
+        "the primary tumour/tumor",
+        "the primary site",
+        "primary cancer。tumour は英国式、tumor は米国式綴り。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the primary tumor",
+          "use": "転移巣と区別して、元の腫瘍を述べる。",
+          "example": "The report distinguishes the primary tumor from the secondary tumors.",
+          "translation": "報告書は、原発腫瘍と転移性の腫瘍を区別している。"
+        },
+        {
+          "pattern": "the primary site",
+          "use": "がんなどが最初に生じた部位を述べる。",
+          "example": "The primary site had not been identified when the report was written.",
+          "translation": "報告書が書かれた時点では、原発部位は特定されていなかった。"
+        }
+      ],
+      "notes": [
+        "primary tumor は「早期の腫瘍」と同義ではない。発生源を示す分類であり、進行度・大きさ・治療可能性を単語だけで判断できない。",
+        "secondary tumor はこの対照では転移による腫瘍であり、単に重要性が低い腫瘍ではない。個別の診断や病期の判断は、原発・転移という語の区別だけからはできない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 12,
+      "title": "【形容詞】特発性の・他の病気に続発しない",
+      "frequency": 3,
+      "register": [
+        "医学上の病態分類。"
+      ],
+      "definition": "医学で、別の病気などに続いて生じる secondary の状態と区別するために使う語。疾患名によって、原因が明らかでないという意味を含むことがある。用語の具体的な範囲は疾患ごとに確認する必要がある。",
+      "patterns": [
+        "primary + 〈疾患名〉",
+        "primary and secondary 〈疾患名〉。疾患を表す名詞の前に置く。"
+      ],
+      "collocations": [
+        {
+          "pattern": "primary and secondary hypertension",
+          "use": "高血圧の分類に用いる用語を対比する。",
+          "example": "The chapter distinguishes primary hypertension from secondary hypertension.",
+          "translation": "その章は、本態性高血圧と二次性高血圧を区別している。"
+        }
+      ],
+      "notes": [
+        "この primary は「最も重い」「初期の」という意味ではない。primary、idiopathic、essential の対応は疾患名や分類の時期に依存し、常に自由に置き換えられるとは限らない。",
+        "この語だけで原因が完全に存在しないことを示すわけではない。現行の診断名・診断基準・治療選択を、一般辞書の語義から決めない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 13,
+      "title": "【形容詞】乳歯の",
+      "frequency": 3,
+      "register": [
+        "歯科・子どもの歯の説明。"
+      ],
+      "definition": "永久歯より前に生える、最初の歯の組に関すること。primary teeth は乳歯を指す。",
+      "patterns": [
+        "a primary tooth",
+        "primary teeth。tooth の複数形が teeth であり、primary 自体に複数語尾を付けない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "primary teeth",
+          "use": "永久歯と区別して乳歯を述べる。",
+          "example": "The chart shows both primary teeth and permanent teeth.",
+          "translation": "その図には、乳歯と永久歯の両方が示されている。"
+        }
+      ],
+      "notes": [
+        "日常語の baby teeth、milk teeth に対応する専門寄りの表現。「主な歯」や「重要な歯」という意味ではない。",
+        "ここでは歯の種類を区別しており、生える時期・抜ける時期や個別の治療方針までは語そのものに含まれない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 14,
+      "title": "【形容詞：primary structure】一次構造の",
+      "frequency": 3,
+      "register": [
+        "生化学・分子生物学。"
+      ],
+      "definition": "タンパク質などについて、構成単位がどの順序で並ぶかという基本的な構造段階を指す。タンパク質の primary structure では、ポリペプチド鎖のアミノ酸配列が中心となる。",
+      "patterns": [
+        "the primary structure of a protein",
+        "a protein's primary structure",
+        "primary sequence。立体的な折り畳みそのものとは区別する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the primary structure of a protein",
+          "use": "タンパク質の配列に注目して述べる。",
+          "example": "The diagram represents the primary structure of a protein as a sequence of amino acids.",
+          "translation": "その図は、タンパク質の一次構造をアミノ酸の配列として表している。"
+        }
+      ],
+      "notes": [
+        "primary structure を「一番重要な立体形」や「最初にできた外形」と訳さない。secondary、tertiary などとの対照では、構造をどの段階で記述するかが異なる。",
+        "折り畳まれた形が変わることと、アミノ酸の配列自体が変わることは別である。ただし、どのような処理でも配列が絶対に変わらないという意味ではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 15,
+      "title": "【形容詞：primary stress】第一強勢の",
+      "frequency": 3,
+      "register": [
+        "音声学・発音学習。"
+      ],
+      "definition": "単語の中などで、相対的に最も強い強勢を表す。弱い第二強勢 secondary stress との対照で使う。",
+      "patterns": [
+        "primary stress",
+        "carry primary stress",
+        "place primary stress on 〈音節〉。stress は強勢の程度・位置を表す名詞。"
+      ],
+      "collocations": [
+        {
+          "pattern": "carry primary stress",
+          "use": "どの音節が最も強い強勢を担うか述べる。",
+          "example": "The first syllable of primary carries primary stress.",
+          "translation": "primary という単語では、第1音節に第一強勢がある。"
+        }
+      ],
+      "notes": [
+        "primary の意味は強勢の強さの段階であり、「必ず第1音節に置く強勢」ではない。上の例では偶然、第一強勢の位置が第1音節になっている。",
+        "語義1の一般的な重要性と関連はあるが、発音では専門的な強勢段階を表す。primary stress を「最初に発音すること」と訳さない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 16,
+      "title": "【形容詞】一次生産の",
+      "frequency": 3,
+      "register": [
+        "生態学・環境科学。"
+      ],
+      "definition": "生態学で、植物や植物プランクトンなどの独立栄養生物が、無機炭素を取り込んで有機物を形成する生産に関すること。ほかの生物による有機物利用の基礎となり、既存の有機物を材料に別の有機物を作る働き全般とは区別する。primary production、primary productivity のように使う。",
+      "patterns": [
+        "primary production",
+        "primary productivity。生態系内の生物による生産を述べ、工業生産や労働効率とは区別する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "primary productivity",
+          "use": "生態系での有機物生産の程度を話題にする。",
+          "example": "The researchers compared primary productivity in two forest ecosystems.",
+          "translation": "研究者たちは、2つの森林生態系の一次生産力を比較した。"
+        }
+      ],
+      "notes": [
+        "primary industry の産業分類と、primary productivity の生態学上の生産は別である。どちらも基礎となる供給に関わるが、後者を企業の生産性と訳さない。",
+        "測定値の定義・単位や、総生産と純生産の区別は、後続する語や研究の定義に従う。primary だけで一定の測定方法が指定されるわけではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 17,
+      "title": "【形容詞】第1級の・第一級炭素に関わる",
+      "frequency": 2,
+      "register": [
+        "有機化学。"
+      ],
+      "definition": "有機化学で、注目する炭素原子がほかの炭素原子1個と結合しているという分類を表す。アルコールなどでは、官能基の結合先となる炭素の分類に関わるが、炭素原子の級数と化合物全体の慣用的分類が完全に同一とは限らない。",
+      "patterns": [
+        "a primary carbon atom",
+        "a primary alcohol",
+        "primary alkyl halides。位置・重要性でなく分子内の結合関係を表す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a primary carbon atom",
+          "use": "炭素原子の分類を述べる。",
+          "example": "The diagram labels the terminal carbon as a primary carbon atom.",
+          "translation": "その図では、末端の炭素が第一級炭素原子と表示されている。"
+        },
+        {
+          "pattern": "a primary alcohol",
+          "use": "アルコールの分類を述べる。",
+          "example": "Ethanol is classified as a primary alcohol.",
+          "translation": "エタノールは、第一級アルコールに分類される。"
+        }
+      ],
+      "notes": [
+        "分子全体に炭素が1個しかないという意味ではなく、その炭素から直接つながるほかの炭素の数が分類軸となる。化学の primary を「主要な」と訳さない。",
+        "アルコールでは、OHがつく炭素にほかの炭素が1個結合するものを第一級とするのが基本だが、ほかの炭素が結合していないメタノールを第一級アルコールに含める扱いもある。次のアミンの分類では窒素に結合する有機基の数を数え、判定する原子が異なる。primary alcohol と primary amine を同じ炭素の判定だけで分類しない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 18,
+      "title": "【形容詞：primary amine】第一級のアミンの",
+      "frequency": 2,
+      "register": [
+        "有機化学。"
+      ],
+      "definition": "アミンについて、アンモニアの水素1個が有機基に置き換わった構造に相当し、窒素に有機基が1個ついた分類を表す。典型的な一般式は RNH2。",
+      "patterns": [
+        "a primary amine",
+        "primary amines。amine は可算名詞として使い、primary はその構造分類を表す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a primary amine",
+          "use": "アミンの級数を窒素への結合で区別する。",
+          "example": "The worksheet asks whether each compound is a primary amine or a secondary amine.",
+          "translation": "その演習用紙には、各化合物を第一級アミンか第二級アミンかに分類する問題が載っている。"
+        }
+      ],
+      "notes": [
+        "第一級という呼び方は品質・純度・危険性の評価ではない。窒素につく有機基の数で区別し、その有機基自体が何個の炭素を持つかとは別である。",
+        "前の語義で示した炭素原子の級数とは判定対象が違う。「primary はいつも炭素1個との結合」と一般化せず、修飾する化学用語と一緒に読む。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 19,
+      "title": "【形容詞・名詞：可算】一次側の・一次コイル",
+      "frequency": 2,
+      "register": [
+        "電気・電子工学。"
+      ],
+      "definition": "変圧器や誘導コイルで、電源からエネルギーを受ける入力側を指す。形容詞では primary coil/circuit など、名詞 a primary では一次コイル・一次巻線を指す。",
+      "patterns": [
+        "the primary coil",
+        "the primary circuit",
+        "the primary of a transformer",
+        "the primary and secondary。名詞の単数は通常、冠詞などを伴う。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the primary coil",
+          "use": "変圧器の入力側のコイルを示す。",
+          "example": "The schematic distinguishes the primary coil from the secondary coil.",
+          "translation": "回路図は、一次コイルと二次コイルを区別している。"
+        },
+        {
+          "pattern": "the primary of a transformer",
+          "use": "名詞だけで一次巻線を指す。",
+          "example": "The technician inspected the primary of the transformer.",
+          "translation": "技術者は、変圧器の一次巻線を点検した。"
+        }
+      ],
+      "notes": [
+        "primary はこの文脈で入力側を指し、常に高電圧側という意味ではない。secondary は誘導によって出力を取り出す側との対照。",
+        "語の区別は配線や安全な操作の手順を示すものではない。ここでの primary は「最も重要な部品」という自由な評価と区別する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 20,
+      "title": "【形容詞・名詞：可算】初列風切の・初列風切",
+      "frequency": 2,
+      "register": [
+        "鳥類学・野鳥観察。"
+      ],
+      "definition": "鳥の翼の外側に並ぶ風切羽を指す。形容詞 primary flight feathers のほか、名詞 primaries としてまとまりを表すことが多い。",
+      "patterns": [
+        "a primary feather",
+        "primary flight feathers",
+        "a primary",
+        "the primaries。名詞の単数と複数を区別する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "primary flight feathers",
+          "use": "翼の外側の風切羽を区別する。",
+          "example": "The illustration highlights the bird's primary flight feathers.",
+          "translation": "その図では、鳥の初列風切が強調表示されている。"
+        },
+        {
+          "pattern": "a primary／the primaries",
+          "use": "初列風切を名詞だけでまとめて述べる。",
+          "example": "The observer noted dark tips on the primaries.",
+          "translation": "観察者は、初列風切の先端が暗い色であることを記録した。"
+        }
+      ],
+      "notes": [
+        "重要な羽全般ではなく、翼の外側という部位に結び付いた名称。翼の内側の secondaries「次列風切」や、尾の羽と区別する。",
+        "羽の枚数をすべての鳥で一定と決め付けない。名詞 primaries をこの文脈で「予備選」と読まない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 21,
+      "title": "【名詞・可算】主天体・主星",
+      "frequency": 2,
+      "register": [
+        "天文学。"
+      ],
+      "definition": "別の天体がその周りを回る中心側の天体、または連星系で主となる成分を指す。連星の primary は、一般に質量や明るさの大きい側を secondary と対比する。",
+      "patterns": [
+        "the primary",
+        "a primary",
+        "orbit the primary",
+        "the primary and its companion。ここでは名詞として天体自体を指す。primary star のような名詞前の形も関連する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "orbit the primary",
+          "use": "主となる天体との周回関係を述べる。",
+          "example": "The small satellite orbits the primary at a considerable distance.",
+          "translation": "その小さな衛星は、主天体からかなり離れたところを周回している。"
+        },
+        {
+          "pattern": "the primary and its companion",
+          "use": "連星の主星と伴星を区別する。",
+          "example": "The observations recorded changes in both the primary and its companion.",
+          "translation": "観測では、主星と伴星の両方の変化が記録された。"
+        }
+      ],
+      "notes": [
+        "連星では両方が共通重心の周りを運動するため、primary だけが完全に静止しているという意味ではない。明るさ・質量による呼び分けを、どの系でも同じ唯一の基準と決め付けない。",
+        "主天体は常に恒星とは限らず、衛星に対する惑星なども対象になり得る。「最初に発見された天体」という意味に限定しない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 22,
+      "title": "【形容詞】一次成長の・一次組織の",
+      "frequency": 2,
+      "register": [
+        "植物学。"
+      ],
+      "definition": "植物で、頂端分裂組織や介在分裂組織などの一次分裂組織による成長と、その過程でできる組織に関すること。茎や根の伸長、primary xylem「一次木部」の形成などを含み、維管束形成層・コルク形成層の活動による二次成長とは区別する。",
+      "patterns": [
+        "primary growth",
+        "primary tissues",
+        "primary xylem",
+        "primary phloem。成長の仕組みや組織の由来による分類を表す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "primary growth",
+          "use": "根や茎の長さが増す成長を述べる。",
+          "example": "The lesson contrasts primary growth in length with secondary growth in thickness.",
+          "translation": "その授業は、長さが増す一次成長と、太さが増す二次成長を対比している。"
+        },
+        {
+          "pattern": "primary xylem",
+          "use": "組織の形成起源を区別する。",
+          "example": "The diagram labels the primary xylem separately from the secondary xylem.",
+          "translation": "その図では、一次木部と二次木部に別々のラベルが付いている。"
+        }
+      ],
+      "notes": [
+        "「最も重要な成長」という評価ではなく、形成過程・由来を示す。secondary growth は主に太さが増す成長との対照であり、単に二度目に測った成長ではない。",
+        "茎や葉の途中に残る介在分裂組織による伸長もあり、「先端という場所で起こる成長だけ」と限定しない。primary growth を「若い植物に一度だけ起こる成長」と限定しない。成長している茎や根の先端などで続く過程で、植物全体の年齢の一語訳ではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 23,
+      "title": "【形容詞】初生の・形成当初からの",
+      "frequency": 2,
+      "register": [
+        "地質学。"
+      ],
+      "definition": "地質学で、岩石ができたときに備わっていた特徴や成分を述べる。形成後の変化で生じた secondary の特徴と区別する。",
+      "patterns": [
+        "primary minerals",
+        "primary features",
+        "primary structures。岩石などの形成時に由来することが分かる文脈で用いる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "primary minerals",
+          "use": "岩石の形成時からある鉱物を、後の変化によるものと区別する。",
+          "example": "The analysis distinguishes primary minerals from minerals formed by later alteration.",
+          "translation": "その分析は、初生鉱物と、後の変質によって生じた鉱物を区別している。"
+        }
+      ],
+      "notes": [
+        "primary mineral は単に最も多く含まれる鉱物、最も価値の高い鉱物という意味ではない。注目するのは形成の時期・起源である。",
+        "原子・元素・鉱物・岩石を同じものとして扱わない。primary の付く専門名詞を、語源の「最初」だけで具体的な物質名へ置き換えない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 24,
+      "title": "【形容詞】鉱石から直接得られた・一次製錬の",
+      "frequency": 2,
+      "register": [
+        "金属・資源・製錬。"
+      ],
+      "definition": "金属について、回収した金属の再利用ではなく、鉱石などの原料から直接得られたことを表す。資源の由来・製造過程による区別。",
+      "patterns": [
+        "primary metals",
+        "primary metal production。metal は金属の種類を数える場合に可算、物質として述べる場合に不可算となる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "primary metals",
+          "use": "鉱石由来の金属を回収・再生由来のものと区別する。",
+          "example": "The report compares the production of primary metals with the recycling of scrap metal.",
+          "translation": "その報告書は、鉱石からの金属生産と、金属くずの再生利用を比較している。"
+        }
+      ],
+      "notes": [
+        "primary metals は「最も重要な金属」ではなく、生産の由来に注目した分類。この義では単に表面加工が少ないことや純度が高いことを意味しない。",
+        "一般の primary industry と関連する文脈で使われるが、産業部門の分類と個々の金属の原料由来を区別する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 25,
+      "title": "【形容詞：primary tense】現在・未来に関わる時制群の",
+      "frequency": 1,
+      "register": [
+        "古典語の文法。"
+      ],
+      "definition": "ラテン語・ギリシャ語などの文法で、現在や未来に関わる時制をまとめた分類に用いる。具体的な時制の区分や用法は、その言語の文法体系に従う。",
+      "patterns": [
+        "a primary tense",
+        "primary tenses。tense を単数・複数で使い、primary は分類を示す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a primary tense／primary tenses",
+          "use": "古典語文法の時制分類を述べる。",
+          "example": "This Latin grammar treats the future perfect as a primary tense.",
+          "translation": "このラテン語文法書は、未来完了を第一時制群に属する時制として扱っている。"
+        }
+      ],
+      "notes": [
+        "「現在・未来に関わる」は、現在形と未来形だけを列挙したものではない。ラテン語では未来完了なども含み、完了形の扱いが用法によって変わることもある。具体的な分類は言語・文法体系に従い、現代英語の時制すべてに、そのまま同じ分類名を当てはめない。「最もよく使う時制」という頻度評価でもない。",
+        "語義15の primary stress は強勢の段階、この語義の primary tense は時制の分類であり、同じ言語学的な話題でも対象が異なる。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}
