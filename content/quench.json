@@ -1,0 +1,861 @@
+{
+  "word": "quench",
+  "slug": "quench",
+  "ipa": "米・英: /kwentʃ/。1音節で、語頭は /kw/、語末は /tʃ/。quenches は /ˈkwentʃɪz/ で2音節、quenched は /kwentʃt/ で1音節、quenching は /ˈkwentʃɪŋ/ で2音節。2音節の形では第1音節に強勢を置く。quenched の -ed を /ɪd/ として音節を増やさない。",
+  "lead": "飲み物を飲むなどして、喉の渇きを満たす。中心となる目的語は thirst で、通常は渇いている人そのものではない。",
+  "updated": "2026-10-25",
+  "notion_url": "https://app.notion.com/p/quench-4044faa9b77d81c89a4ff72b30f2ae6a",
+  "pronunciation": [],
+  "etymology": [
+    "古英語の「消す」を表す形にさかのぼり、acwencan などに見られる。「消える・なくなる」を表す古い形とも関係する。火を消す意味と、渇きや欲求を収める意味のつながりは理解しやすい。ただし、現代の専門用法は対象によって起こる変化が異なるため、何でも単に「冷やす」と訳さない。意味の近い slake を同語源とみなす根拠にはならない。"
+  ],
+  "formation": [
+    {
+      "term": "quenched",
+      "description": "過去形・過去分詞。quenched steel、quenched glass などでは、急冷処理を受けた材料を修飾する。形だけで独立した心理状態の形容詞などを想定しない。"
+    },
+    {
+      "term": "quenching",
+      "description": "現在分詞・動名詞。また、急冷・消光・放電抑制などの過程を指す専門名詞としても使われる。対象分野を確認する。"
+    },
+    {
+      "term": "quencher",
+      "description": "quench する人・物・物質を指す名詞。渇きを癒やす飲み物や、蛍光を弱める物質などを表す。"
+    },
+    {
+      "term": "thirst-quencher",
+      "description": "喉の渇きを癒やす飲み物など。quencher を thirst で限定した形。"
+    },
+    {
+      "term": "quenchable",
+      "description": "quench されうるという、受け身の可能性を表す形容詞。"
+    },
+    {
+      "term": "unquenchable / quenchless",
+      "description": "消せない・満たしきれないことを表す形容詞。unquenchable thirst for knowledge のように、尽きない欲求にも使う。何を消せないのか、何を満たせないのかは文脈による。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "勢いのある状態や持続している働きを、弱めたり止めたりする。渇きや欲求では満たすことで収め、火・活動・反応では消したり抑えたりするが、専門義では対象となる働きや状態を特定し、すべてを「冷却」とは捉えない。"
+    },
+    {
+      "type": "item",
+      "text": "続いていた渇きを満たして収める働き → 「喉の渇きを癒やす」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "続いていた欲求を満たして収める働き → 「欲求を満たす」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "続いていた燃焼を止める働き → 「火・炎を消す」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "続いていた活動や意欲を抑える働き → 「抑え込む・意欲などを消す」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "続いていた高温状態を急冷で終える働き → 「熱い材料を急冷する」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "続いていた化学反応を止める働き → 「化学反応を止める」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "続いていた発光を弱める働き → 「発光を弱める・消光する」（語義7）"
+    },
+    {
+      "type": "item",
+      "text": "続いていた放電や発振を抑える働き → 「放電・発振などを抑える」（語義8）"
+    },
+    {
+      "type": "item",
+      "text": "続いていた超伝導状態が終わる変化 → 「超伝導状態を失う」（語義9）"
+    },
+    {
+      "type": "item",
+      "text": "続いていた超伝導状態を終わらせる作用 → 「超伝導状態を失わせる」（語義10）"
+    },
+    {
+      "type": "item",
+      "text": "続いていた超伝導状態が終わる事象 → 「超伝導状態を失う事象・クエンチ」（語義11）"
+    },
+    {
+      "type": "item",
+      "text": "続いていた高温状態を急冷で終える過程 → 「急冷の操作・過程」（語義12）"
+    },
+    {
+      "type": "item",
+      "text": "続いていた化学反応を止める物質 → 「反応停止用の試薬」（語義13）"
+    },
+    {
+      "type": "item",
+      "text": "続いていた化学反応を止める過程 → 「化学反応の停止処理」（語義14）"
+    },
+    {
+      "type": "item",
+      "text": "続いていた発光が弱まる現象 → 「発光が弱まること・消光」（語義15）"
+    },
+    {
+      "type": "item",
+      "text": "続いていた放電などを抑える過程 → 「放電などの停止・抑制」（語義16）"
+    },
+    {
+      "type": "item",
+      "text": "続いていた燃焼などが収まる変化 → 「火などが消える・冷える」（語義17）"
+    },
+    {
+      "type": "item",
+      "text": "続いていた人の高ぶりが収まる変化 → 「収まる・静まる」（語義18）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞】喉の渇きを癒やす",
+      "frequency": 6,
+      "register": [
+        "一般的な描写、飲み物の紹介など。単に drink と言うより、渇きを満たす働きに焦点がある。"
+      ],
+      "definition": "飲み物を飲むなどして、喉の渇きを満たす。中心となる目的語は thirst で、通常は渇いている人そのものではない。",
+      "patterns": [
+        "quench one’s thirst",
+        "quench one’s thirst with 〈飲み物〉",
+        "〈飲み物〉 + quench one’s thirst",
+        "one’s thirst + be quenched。with 以下は手段。"
+      ],
+      "collocations": [
+        {
+          "pattern": "quench one’s thirst",
+          "use": "渇きを満たすために飲むことを述べる。",
+          "example": "We stopped at the café to quench our thirst.",
+          "translation": "私たちは喉の渇きを癒やすために、そのカフェに立ち寄った。"
+        },
+        {
+          "pattern": "quench one’s thirst with water",
+          "use": "飲み物を with で示す。",
+          "example": "She quenched her thirst with a glass of water.",
+          "translation": "彼女はコップ1杯の水で喉の渇きを癒やした。"
+        },
+        {
+          "pattern": "〈飲み物〉 + quench one’s thirst",
+          "use": "飲み物の働きを述べる。",
+          "example": "The cool drink quenched his thirst after the walk.",
+          "translation": "散歩のあと、冷たい飲み物で彼の喉の渇きが癒やされた。"
+        },
+        {
+          "pattern": "one’s thirst + be quenched",
+          "use": "渇きが満たされたことを述べる。",
+          "example": "Once our thirst was quenched, we set off again.",
+          "translation": "喉の渇きが癒やされると、私たちは再び出発した。"
+        }
+      ],
+      "notes": [
+        "quench my thirst の my は「私の渇き」を示す。自分で飲む場合も、通常は quench my thirst のように thirst を目的語にする。quench myself を、この意味の一般的な型として覚えない。with water だけを付けても、目的語 thirst の代わりにはならない。partly や not fully などで満たされる程度を限定できるため、常に渇きが完全に消えることを絶対条件にしない。"
+      ],
+      "synonyms": [
+        {
+          "word": "slake",
+          "definition": "渇きを癒やす。",
+          "frequency": 4,
+          "difference": "意味は近いが、slake は文学的な響きを持ちやすい。満たされる程度に必ず差があるのではない。",
+          "example": "The travellers paused to slake their thirst.",
+          "translation": "旅人たちは、喉の渇きを癒やすために足を止めた。"
+        },
+        {
+          "word": "satisfy",
+          "definition": "欲求や必要を満たす。",
+          "frequency": 8,
+          "difference": "thirst 以外にも幅広い対象を取る。quench はこの語義では、飲み物による渇きの解消に焦点を置く。",
+          "example": "The small drink did not satisfy her thirst.",
+          "translation": "その少量の飲み物では、彼女の喉の渇きは満たされなかった。"
+        },
+        {
+          "word": "relieve",
+          "definition": "不快感や苦痛を軽くする。",
+          "frequency": 8,
+          "difference": "満たすことより、つらさの軽減を表す。対象を完全に取り除いたとは限らない。",
+          "example": "A few sips relieved the dryness in his throat.",
+          "translation": "数口飲むと、彼の喉の乾燥感が和らいだ。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【動詞・他動詞】欲求を満たす",
+      "frequency": 4,
+      "register": [
+        "文章的・比喩的。"
+      ],
+      "definition": "知識欲・好奇心など、何かを求める気持ちを満たす。とくに thirst for knowledge のように、欲求を渇きになぞらえる表現と結び付く。",
+      "patterns": [
+        "quench one’s thirst for 〈求めるもの〉",
+        "quench one’s curiosity",
+        "quench one’s desire for 〈求めるもの〉",
+        "〈欲求〉 + be quenched。"
+      ],
+      "collocations": [
+        {
+          "pattern": "quench one’s thirst for knowledge",
+          "use": "知識を求める気持ちを満たす。",
+          "example": "The museum’s lectures helped quench her thirst for knowledge.",
+          "translation": "博物館の講義は、彼女の知識欲を満たす助けになった。"
+        },
+        {
+          "pattern": "quench one’s curiosity",
+          "use": "知りたかったことが分かることを述べる。",
+          "example": "The detailed answer finally quenched my curiosity about the machine.",
+          "translation": "詳しい答えを聞いて、その機械について知りたいという私の気持ちはようやく満たされた。"
+        },
+        {
+          "pattern": "quench one’s desire for adventure",
+          "use": "冒険を経験して欲求を満たす。",
+          "example": "A month of travel quenched his desire for adventure for a while.",
+          "translation": "1か月の旅で、冒険を求める彼の欲求はしばらく満たされた。"
+        },
+        {
+          "pattern": "one’s thirst for information + be quenched",
+          "use": "情報への欲求が満たされないことを述べる。",
+          "example": "Even after the interview, their thirst for information was not quenched.",
+          "translation": "インタビューのあとでさえ、情報を求める彼らの欲求は満たされなかった。"
+        }
+      ],
+      "notes": [
+        "同じ quench a desire でも、欲求を満たすことと、欲求をそいで消すことは区別する。上の旅の例では経験による充足だが、失望などで意欲が失われる場合は語義4に近い。目的語の単語だけでなく、満たす原因か、押さえ込む原因かを読む。"
+      ],
+      "synonyms": [
+        {
+          "word": "satisfy",
+          "definition": "好奇心などの欲求を満たす。",
+          "frequency": 8,
+          "difference": "幅広い文体で使え、渇きの比喩を伴う必要がない。",
+          "example": "The explanation satisfied my curiosity.",
+          "translation": "その説明で私の好奇心は満たされた。"
+        },
+        {
+          "word": "sate",
+          "definition": "欲求を十分に満たす。",
+          "frequency": 4,
+          "difference": "フォーマルな語で、それ以上求めなくなるほどの充足を表し、文脈によっては満たしすぎも含む。quench に飽きるほど与えることは必須ではない。",
+          "example": "The long holiday sated her appetite for travel.",
+          "translation": "長い休暇で、彼女は旅をしたいという気持ちを十分に満たした。"
+        },
+        {
+          "word": "gratify",
+          "definition": "欲求を満たして満足を与える。",
+          "frequency": 5,
+          "difference": "フォーマルで、満足・喜びを与える側面に焦点がある。quench は強い欲求を収める比喩として使われる。",
+          "example": "The award gratified his desire for recognition.",
+          "translation": "受賞によって、認められたいという彼の欲求は満たされた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞・他動詞】火・炎を消す",
+      "frequency": 4,
+      "register": [
+        "フォーマル・文章的。日常会話では put out が基本的な選択肢。"
+      ],
+      "definition": "火や炎を燃えなくする。燃えている物を目的語にして、その火を消すこともある。",
+      "patterns": [
+        "quench a fire",
+        "quench the flames",
+        "quench glowing coals",
+        "quench 〈火など〉 with 〈消火に用いるもの〉",
+        "the fire + be quenched。"
+      ],
+      "collocations": [
+        {
+          "pattern": "quench the flames",
+          "use": "炎が消えることを述べる。",
+          "example": "The heavy rain quenched the flames in the abandoned campfire.",
+          "translation": "激しい雨が、放置されたたき火の炎を消した。"
+        },
+        {
+          "pattern": "quench glowing coals",
+          "use": "赤く燃えている物を目的語にする。",
+          "example": "The water quenched the glowing coals.",
+          "translation": "水で赤く燃える炭の火が消えた。"
+        },
+        {
+          "pattern": "the fire + be quenched",
+          "use": "消された火を主語にする。",
+          "example": "By midnight, the fire had been quenched.",
+          "translation": "真夜中までには、その火は消されていた。"
+        }
+      ],
+      "notes": [
+        "単に温度を下げる語義5とは区別する。火を消す結果に焦点があり、quenched coals は「渇きを癒やされた炭」ではない。英語の例を、実際の火災で用いる消火手順として受け取らない。"
+      ],
+      "synonyms": [
+        {
+          "word": "put out",
+          "definition": "火を消す。",
+          "frequency": 8,
+          "difference": "日常的な句動詞。代名詞目的語なら put it out とし、quench のような一語の動詞とは語順が異なる。",
+          "example": "The rain put the fire out.",
+          "translation": "雨で火が消えた。"
+        },
+        {
+          "word": "extinguish",
+          "definition": "火や炎を消す。",
+          "frequency": 6,
+          "difference": "フォーマルで、消火を明確に述べる。quench より渇きの解消との連想が少ない。",
+          "example": "The firefighters extinguished the blaze.",
+          "translation": "消防士たちは大火を消し止めた。"
+        },
+        {
+          "word": "douse",
+          "definition": "液体をかけて火を消す。",
+          "frequency": 4,
+          "difference": "液体をかける方法に焦点がある。quench 自体は、この動作の描写を必ず含むわけではない。",
+          "example": "The rain doused the small fire.",
+          "translation": "雨が小さな火を消した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞・他動詞】抑え込む・意欲などを消す",
+      "frequency": 3,
+      "register": [
+        "文章的・文学的。対象により社会的な抑圧にも、心理的な意欲の低下にも使う。"
+      ],
+      "definition": "反乱や活動を抑え込んだり、希望・熱意・欲求などを弱めて失わせたりする。満足を与える語義2と違い、対象が続く力を奪う側面がある。",
+      "patterns": [
+        "quench a rebellion",
+        "quench someone’s enthusiasm",
+        "quench someone’s desire to do something",
+        "〈希望など〉 + be quenched。"
+      ],
+      "collocations": [
+        {
+          "pattern": "quench a rebellion",
+          "use": "反乱を抑え込むことを述べる。",
+          "example": "The regime tried to quench the rebellion before it spread.",
+          "translation": "政権は、反乱が広がる前に抑え込もうとした。"
+        },
+        {
+          "pattern": "quench someone’s enthusiasm",
+          "use": "意欲をそぐことを描写する。",
+          "example": "The harsh criticism quenched her enthusiasm for the project.",
+          "translation": "厳しい批判で、彼女はその企画への熱意を失った。"
+        },
+        {
+          "pattern": "quench someone’s desire to do something",
+          "use": "欲求を満足させるのではなく、失わせる場合を示す。",
+          "example": "The miserable journey quenched his desire to travel again.",
+          "translation": "悲惨な旅を経験して、彼は再び旅行したいという気持ちを失った。"
+        }
+      ],
+      "notes": [
+        "欲求を満たして落ち着くのか、失望や強制で消されるのかで訳が変わる。quench a rebellion は反乱への要求を満たすことと同義ではない。hope や enthusiasm への用法も、普通は好ましい結果だと決めない。"
+      ],
+      "synonyms": [
+        {
+          "word": "quell",
+          "definition": "反乱・騒ぎ・強い感情などを鎮める。",
+          "frequency": 5,
+          "difference": "鎮圧・鎮静に焦点を置く文章的な語。quench は火を消すように勢いを失わせる比喩としても読める。",
+          "example": "The authorities failed to quell the unrest.",
+          "translation": "当局は混乱を鎮められなかった。"
+        },
+        {
+          "word": "suppress",
+          "definition": "活動や表出を抑える。",
+          "frequency": 6,
+          "difference": "外に出ないよう抑えることも含み、内側の感情まで消えたとは限らない。",
+          "example": "She tried to suppress her anger.",
+          "translation": "彼女は怒りを抑えようとした。"
+        },
+        {
+          "word": "dampen",
+          "definition": "熱意などの強さを弱める。",
+          "frequency": 6,
+          "difference": "程度を下げることが中心で、完全に失わせるところまで必ず含まない。",
+          "example": "The delay dampened their enthusiasm.",
+          "translation": "遅れによって、彼らの熱意は弱まった。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【動詞・他動詞】熱い材料を急冷する",
+      "frequency": 3,
+      "register": [
+        "金属加工・材料科学など。"
+      ],
+      "definition": "高温の金属やガラスなどを急速に冷却する。金属では硬さなどの性質を調整する熱処理に使うが、すべての材料が必ず硬くなることを意味するわけではない。",
+      "patterns": [
+        "quench steel",
+        "quench a sample in 〈冷却媒体〉",
+        "be quenched",
+        "quenched 〈材料〉。最後は処理結果を表す分詞による修飾。"
+      ],
+      "collocations": [
+        {
+          "pattern": "quench steel",
+          "use": "鋼の急冷工程を述べる。",
+          "example": "The factory uses controlled equipment to quench the steel components.",
+          "translation": "工場では、管理された装置を使って鋼製部品を急冷している。"
+        },
+        {
+          "pattern": "be quenched in oil",
+          "use": "冷却媒体を示す。",
+          "example": "The report states that the specimens were quenched in oil.",
+          "translation": "報告書には、試験片を油中で急冷したと記されている。"
+        },
+        {
+          "pattern": "quenched glass",
+          "use": "急冷処理後の材料を指す。",
+          "example": "The researchers analyzed the structure of the quenched glass.",
+          "translation": "研究者たちは、急冷したガラスの構造を分析した。"
+        }
+      ],
+      "notes": [
+        "水への投入だけに限定されず、油や気流などを使う処理もある。quenching「急冷」と tempering「焼戻し」は同じ工程名ではない。金属加工では「焼入れ」と訳すことがあるが、文脈を問わずすべての quench を「焼入れ」とするのは広すぎる。"
+      ],
+      "synonyms": [
+        {
+          "word": "cool",
+          "definition": "温度を下げる。",
+          "frequency": 9,
+          "difference": "冷却の速度や材料処理を限定しない。quench はこの用法で急速な冷却を表す。",
+          "example": "The samples were cooled slowly overnight.",
+          "translation": "試料は一晩かけてゆっくり冷却された。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【動詞・他動詞】化学反応を止める",
+      "frequency": 3,
+      "register": [
+        "化学実験・化学研究。"
+      ],
+      "definition": "進行中の化学反応を止める。反応そのもののほか、反応している混合物や試料を目的語にすることもある。必ず冷却によって止めるとは限らない。",
+      "patterns": [
+        "quench a reaction",
+        "quench the reaction mixture",
+        "quench a sample",
+        "the reaction + be quenched。"
+      ],
+      "collocations": [
+        {
+          "pattern": "quench a reaction",
+          "use": "反応を止めたことを研究報告で述べる。",
+          "example": "The researchers quenched the reaction before analyzing the products.",
+          "translation": "研究者たちは、生成物を分析する前に反応を止めた。"
+        },
+        {
+          "pattern": "quench the reaction mixture",
+          "use": "処理対象の混合物を目的語にする。",
+          "example": "The report explains why the reaction mixture had to be quenched.",
+          "translation": "報告書は、なぜ反応混合物の反応を止める必要があったかを説明している。"
+        }
+      ],
+      "notes": [
+        "quench the mixture は、混合物を消滅させるという意味ではない。反応を止める処理を施すという関係で目的語を取る。実際の方法は反応によって異なるため、語の意味から処理法を決めない。"
+      ],
+      "synonyms": [
+        {
+          "word": "stop",
+          "definition": "進行を止める。",
+          "frequency": 9,
+          "difference": "一般的な動詞。quench は化学の文脈で反応停止の処理を指す。",
+          "example": "The team stopped the reaction at the chosen stage.",
+          "translation": "チームは、選んだ段階で反応を止めた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【動詞・他動詞】発光を弱める・消光する",
+      "frequency": 2,
+      "register": [
+        "光物理・蛍光測定・化学分析。"
+      ],
+      "definition": "蛍光などの発光や、その観測信号を弱める。発光する物質を目的語にすることもある。完全に光がなくなることだけに限定されない。",
+      "patterns": [
+        "quench fluorescence",
+        "quench a fluorescent signal",
+        "quench a fluorescent dye",
+        "fluorescence + be quenched。"
+      ],
+      "collocations": [
+        {
+          "pattern": "quench fluorescence",
+          "use": "蛍光が弱くなることを述べる。",
+          "example": "The added compound quenched the fluorescence of the dye.",
+          "translation": "加えた化合物が、色素の蛍光を弱めた。"
+        },
+        {
+          "pattern": "quench a fluorescent signal",
+          "use": "観測信号への影響を述べる。",
+          "example": "The reagent partially quenched the fluorescent signal.",
+          "translation": "その試薬は、蛍光信号を部分的に弱めた。"
+        }
+      ],
+      "notes": [
+        "quench a dye は色素そのものをなくすことではなく、その発光を弱めるという関係。反応停止の語義6や材料の急冷の語義5と混同しない。消光には複数の仕組みがあるので、quench だけから一つの機構を特定しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "attenuate",
+          "definition": "信号などの強度を弱める。",
+          "frequency": 3,
+          "difference": "弱まりを広く述べる技術語。quench はここでは発光・蛍光の文脈に焦点があり、すべての信号減衰を消光とは呼ばない。",
+          "example": "The filter attenuated the light reaching the detector.",
+          "translation": "フィルターは検出器に届く光を弱めた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【動詞・他動詞】放電・発振などを抑える",
+      "frequency": 2,
+      "register": [
+        "電子工学・光検出器など。"
+      ],
+      "definition": "電子回路や検出器内の放電・火花・発振などを止めたり、抑えたりする。ここでの quench は、必ず装置を冷やすことではない。",
+      "patterns": [
+        "quench a discharge",
+        "quench an oscillation",
+        "quench sparking。目的語は抑える電気的現象。"
+      ],
+      "collocations": [
+        {
+          "pattern": "quench a discharge",
+          "use": "検出器の放電停止を述べる。",
+          "example": "The circuit quenches the Geiger discharge after detection.",
+          "translation": "その回路は、検出後にガイガー放電を止める。"
+        },
+        {
+          "pattern": "quench an oscillation",
+          "use": "回路内の発振抑制を述べる。",
+          "example": "The modification was intended to quench the unwanted oscillation.",
+          "translation": "その変更は、不要な発振を抑えることを目的としていた。"
+        }
+      ],
+      "notes": [
+        "電子工学の quenching を、機器の冷却一般と訳さない。何が停止・抑制されるかを目的語から判断する。方式や電圧などの具体的な条件は、quench という語だけでは決まらない。"
+      ],
+      "synonyms": [
+        {
+          "word": "suppress",
+          "definition": "現象の発生や強さを抑える。",
+          "frequency": 4,
+          "difference": "ノイズなど幅広い技術的対象に使う。quench は放電停止など、特定の装置内の作用を指す場合がある。",
+          "example": "The filter suppresses high-frequency noise.",
+          "translation": "そのフィルターは高周波ノイズを抑える。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 9,
+      "title": "【動詞・自動詞】超伝導状態を失う",
+      "frequency": 2,
+      "register": [
+        "超伝導工学・加速器など。"
+      ],
+      "definition": "超伝導磁石などで、局所的に超伝導状態が失われる。専門的にはクエンチするという。単に高温の金属を急冷することとは別の現象。",
+      "patterns": [
+        "a superconducting magnet + quench",
+        "the magnet + begin to quench。変化する磁石などを主語にする。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a superconducting magnet + quench",
+          "use": "超伝導状態の喪失を報告する。",
+          "example": "One superconducting magnet quenched during the test.",
+          "translation": "試験中に、一つの超伝導磁石が超伝導状態を失った。"
+        }
+      ],
+      "notes": [
+        "quench が急冷を表す別義を持つからといって、この文を「磁石が冷えた」と訳さない。超伝導状態の変化を表すのであって、必ず磁石が破壊されたとまで述べる語ではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 10,
+      "title": "【動詞・他動詞】超伝導状態を失わせる",
+      "frequency": 2,
+      "register": [
+        "超伝導工学・加速器など。"
+      ],
+      "definition": "超伝導磁石などをクエンチさせる。語義9と同じ現象を、引き起こす側から述べる。",
+      "patterns": [
+        "quench a superconducting magnet",
+        "the magnet + be quenched。変化させる対象が目的語になる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "quench a superconducting magnet",
+          "use": "制御された試験で変化を起こすことを述べる。",
+          "example": "The test deliberately quenched the superconducting magnet under controlled conditions.",
+          "translation": "その試験では、管理された条件のもとで超伝導磁石を意図的にクエンチさせた。"
+        }
+      ],
+      "notes": [
+        "The magnet quenched. は自動詞、The test quenched the magnet. は他動詞。クエンチが起きることと、試験で意図的に起こすことを区別する。意図的であること自体は、quench だけの必須条件ではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 11,
+      "title": "【名詞・可算】超伝導状態を失う事象・クエンチ",
+      "frequency": 2,
+      "register": [
+        "超伝導工学。"
+      ],
+      "definition": "超伝導磁石などで、局所的に超伝導状態が失われる事象。個々の発生を一回の quench として数える。",
+      "patterns": [
+        "a quench",
+        "a controlled quench",
+        "several quenches。複数形は quenches。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a controlled quench",
+          "use": "管理された試験での一事象を指す。",
+          "example": "The team recorded data during a controlled quench of the magnet.",
+          "translation": "チームは、磁石を管理下でクエンチさせている間のデータを記録した。"
+        },
+        {
+          "pattern": "several quenches",
+          "use": "発生回数を複数で述べる。",
+          "example": "Several quenches occurred during the testing programme.",
+          "translation": "試験計画の実施中に、複数回のクエンチが起きた。"
+        }
+      ],
+      "notes": [
+        "語義12の材料の急冷とは区別する。a quench だけを見て「冷却作業」と決めず、超伝導磁石の話か、加熱材料の話かを確認する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 12,
+      "title": "【名詞・quench は可算／不可算、quenching は不可算】急冷の操作・過程",
+      "frequency": 3,
+      "register": [
+        "材料科学・熱処理。"
+      ],
+      "definition": "熱い材料を急速に冷やす操作や過程。quench は一回の急冷を数える使い方と、工程として捉える使い方があり、quenching は急冷する過程を表す。",
+      "patterns": [
+        "during a quench",
+        "after quenching",
+        "the quenching of steel。動詞の過去形とは区別する。quench の無冠詞形は専門的な工程記述に現れるが、日常の名詞として自由に冠詞を省けるという意味ではない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "during a quench",
+          "use": "一回の急冷中の変化を述べる。",
+          "example": "The study examined structural changes in the glass during a quench.",
+          "translation": "その研究は、急冷中に起こるガラスの構造変化を調べた。"
+        },
+        {
+          "pattern": "after quenching",
+          "use": "工程の前後関係を述べる。",
+          "example": "The steel specimens were examined after quenching.",
+          "translation": "鋼の試験片は急冷後に検査された。"
+        }
+      ],
+      "notes": [
+        "quenching はこの名詞用法では過程を指す。The technician is quenching the sample. の quenching は、目的語を取る進行形の動詞。tempering も熱処理だが急冷と同じ工程ではなく、annealing も単なる同義語ではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 13,
+      "title": "【名詞・可算／不可算】反応停止用の試薬",
+      "frequency": 2,
+      "register": [
+        "化学実験の専門的な用語。"
+      ],
+      "definition": "化学反応を止めるために用いる試薬。a quench と試薬を一つの役割で呼ぶ使い方と、amount of quench のように物質の量を述べる使い方がある。ここから、すべての化学分野で同じ可算化が普通だとまでは一般化しない。",
+      "patterns": [
+        "a quench",
+        "the amount of quench。文脈上、その名が反応停止の事象ではなく試薬を指すかを確認する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the amount of quench",
+          "use": "反応停止剤の量に言及する。",
+          "example": "The report records the amount of quench used to stop the reaction.",
+          "translation": "報告書には、反応を止めるために用いた試薬の量が記録されている。"
+        }
+      ],
+      "notes": [
+        "a quench が、いつでも「一回の急冷」「一回の超伝導状態喪失」を意味するとは限らない。この用法では物質を指す。具体的な試薬は反応に依存し、語だけから安全な処理方法を決めることはできない。",
+        "蛍光の quencher は消光に関わる物質を表す別の専門的な使い方。反応停止剤と消光剤が常に同一の物質・働きであるとは考えない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 14,
+      "title": "【名詞・不可算・quenching】化学反応の停止処理",
+      "frequency": 3,
+      "register": [
+        "化学実験・化学研究。"
+      ],
+      "definition": "反応を止める処理・過程。停止のための操作を指し、語義13の試薬そのものとは区別する。",
+      "patterns": [
+        "the quenching of a reaction",
+        "after quenching",
+        "reaction quenching。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the quenching of a reaction",
+          "use": "反応停止を過程として述べる。",
+          "example": "The report describes the quenching of the reaction before analysis.",
+          "translation": "報告書は、分析前に反応を止めた処理について記述している。"
+        }
+      ],
+      "notes": [
+        "この名詞用法では quenching が過程の名称。of 以下は止める対象の反応を示す。quench が試薬を指す場合の「反応停止剤」と、処理の「反応停止」を訳し分ける。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 15,
+      "title": "【名詞・不可算・quenching】発光が弱まること・消光",
+      "frequency": 2,
+      "register": [
+        "光物理・蛍光測定・化学分析。"
+      ],
+      "definition": "蛍光などの発光が弱まる現象・過程。完全に発光がなくなる場合だけに限らない。",
+      "patterns": [
+        "fluorescence quenching",
+        "the extent of quenching",
+        "quenching of fluorescence。"
+      ],
+      "collocations": [
+        {
+          "pattern": "fluorescence quenching",
+          "use": "蛍光の消光を現象名として述べる。",
+          "example": "The experiment measured fluorescence quenching in the dye solution.",
+          "translation": "その実験では、色素溶液中の蛍光の消光を測定した。"
+        }
+      ],
+      "notes": [
+        "quenching は現象・過程、quencher はそれを引き起こす物質などを指す。語形が似ていても、現象と物質を取り違えない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 16,
+      "title": "【名詞・不可算・quenching】放電などの停止・抑制",
+      "frequency": 2,
+      "register": [
+        "電子工学・光検出器。"
+      ],
+      "definition": "検出器や回路内で放電などを止める働き・過程。光検出器では、検出に伴う放電を止める技術を指す。",
+      "patterns": [
+        "the quenching of the discharge。of 以下に、停止する放電を示す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "quenching of the discharge",
+          "use": "放電停止の過程を名詞で述べる。",
+          "example": "The paper describes the quenching of the discharge in the detector.",
+          "translation": "論文は、検出器内の放電を止める過程について記述している。"
+        }
+      ],
+      "notes": [
+        "この分野の quenching を、金属の「焼入れ」と訳さない。同じ名詞形でも、対象が発光か、放電か、熱い材料かによって、意味領域と訳が変わる。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 17,
+      "title": "【動詞・自動詞】火などが消える・冷える",
+      "frequency": 1,
+      "register": [
+        "自動詞の消炎用法は燃焼研究にも現れる。一般の日常表現を学ぶ際は go out や cool を優先する。"
+      ],
+      "definition": "火などが消える、または熱を失って冷える。一般辞書に記載される自動詞用法で、他動詞の受動態とは形が異なる。",
+      "patterns": [
+        "the flame + quench。ここでは目的語を取らず、炎自体の変化を述べる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the flame + quench",
+          "use": "燃焼研究の文脈で、炎が消えることを述べる。",
+          "example": "In the experiment, the flame quenched before reaching the end of the tube.",
+          "translation": "実験では、炎は管の端に達する前に消えた。"
+        }
+      ],
+      "notes": [
+        "The flame quenched. は自動詞で、The flame was quenched. は受動態。一般的な描写なら The flame went out. などを選べる。研究での flame 主語の用例から、あらゆる火や熱い物を主語にした自動詞文が同じように自然だとは一般化しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "go out",
+          "definition": "火や明かりが消える。",
+          "frequency": 8,
+          "difference": "現代の日常的な選択肢。ここでは目的語を取らない句動詞。",
+          "example": "The candle went out in the wind.",
+          "translation": "風でろうそくの火が消えた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 18,
+      "title": "【動詞・自動詞】収まる・静まる",
+      "frequency": 1,
+      "register": [
+        "古い文学作品の読解向け。現代会話の標準的な表現ではない。"
+      ],
+      "definition": "静まり、落ち着く。ここでは、人が静まることを表す歴史的な自動詞用法を扱う。現代の基本的な言い方としては使わない。",
+      "patterns": [
+        "〈人〉 + quench。静まる人が主語で、目的語を取らない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "〈人〉 + quench",
+          "use": "古い文学の原文で、人が静まるという自動詞の意味を読む。",
+          "example": "“Dost thou think in time / She will not quench and let instructions enter / Where folly now possesses?” （Shakespeare, Cymbeline, 1.5 の一節）",
+          "translation": "「そのうち彼女も静まり、今は愚かな考えに占められている心に忠告を受け入れるようになるとは思わないのか。」"
+        }
+      ],
+      "notes": [
+        "引用は女王の発言で、泣いている人物について、やがて静まるだろうと問いかけている。She will not ... は Dost thou think ... ? の中の節であり、単独の「静まろうとしない」という意志的拒否の文として切り取らない。quench は目的語を取らず、instructions は並列された let の目的語。この用法を、飲み物で喉の渇きを満たす他動詞の目的語省略と考えない。現代なら人には calm down などを使う。古い人主語の用例から、anger などを主語にする現代文を自由に作れるとは一般化しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "calm down",
+          "definition": "人が落ち着く。",
+          "frequency": 8,
+          "difference": "現代の日常的な表現で、人を主語にして使える。quench のこの歴史的用法を現代英語で説明する際の選択肢。",
+          "example": "He finally calmed down and listened.",
+          "translation": "彼はようやく落ち着き、話を聞いた。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
