@@ -1,0 +1,1300 @@
+{
+  "word": "count",
+  "slug": "count",
+  "ipa": "米・英: /kaʊnt/。1音節で、母音は二重母音 /aʊ/。動詞・計数に関係する名詞・爵位の名詞で、ここに示す基本発音は同じ。counts は /kaʊnts/、counted は /ˈkaʊntɪd/、counting は /ˈkaʊntɪŋ/。counted の -ed は、語幹が /t/ で終わるため /ɪd/ となり、1音節増える。",
+  "lead": "対象を一つずつ確認して総数を求める、または指定した数まで数詞を順にたどったり、拍・時間単位を数えたりすること。何を目的語に置くかによって、総数を求める場合と数唱・拍の進行を示す場合を区別する。",
+  "updated": "2026-10-25",
+  "notion_url": "https://app.notion.com/p/count-4044faa9b77d8180871bf9b68837b52c",
+  "pronunciation": [],
+  "etymology": [
+    "数える系統はフランス語を経て、ラテン語 computare「計算する」にさかのぼる。爵位の count は別の系統で、フランス語の conte などを経て、ラテン語 comes／comitem「仲間・随行者」の系列に由来する。伯爵を、数字を数える人だから count と呼ぶのだと説明しない。"
+  ],
+  "formation": [
+    {
+      "term": "counting",
+      "description": "動詞の -ing 形であり、数える行為を表す不可算名詞としても使う。the counting of votes は票を数える作業を指す。"
+    },
+    {
+      "term": "countable",
+      "description": "数えられるという形容詞。文法や数学では、それぞれの分野の定義に従って用いる。"
+    },
+    {
+      "term": "countability／countably",
+      "description": "countable に対応する名詞・副詞。数えられる性質、数えられる形で、という意味を表すが、細部は使用分野による。"
+    },
+    {
+      "term": "countless",
+      "description": "数え切れないほど多い、という形容詞。数がゼロであるという意味ではない。"
+    },
+    {
+      "term": "counted",
+      "description": "過去形・過去分詞。be counted as... の受動形があることだけを、独立した形容詞の用法がある証拠としない。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "一つ一つを数や判断の枠に入れ、どのように扱うかを決めるイメージ。語義32の爵位は別語源の同綴異義で、この核から導けないため別に参照する。"
+    },
+    {
+      "type": "item",
+      "text": "数・判断の枠で扱う、対象や数・拍を直接たどる行為 → 「数を数える・拍を数える」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "数・判断の枠で扱う、一つずつ進める数列 → 「数を順に唱える・拍を数える」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "数・判断の枠で扱う、集計対象への包含 → 「数に入れる・含める」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "数・判断の枠で扱う、対象への評価の割当 → 「〜と見なす・〜に数える」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "数・判断の枠で扱う、分類への該当 → 「〜に当たる・〜と認められる」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "数・判断の枠で扱う、評価上の重み → 「重要である・重みを持つ」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "数・判断の枠で扱う、有効な値としての算入 → 「有効と認められる・得点などに算入される」（語義7）"
+    },
+    {
+      "type": "item",
+      "text": "数・判断の枠で扱う、個数を把握する行為 → 「計数・集計・数の把握」（語義8）"
+    },
+    {
+      "type": "item",
+      "text": "数・判断の枠で扱う、集計で得られた値 → 「数えた総数・測定した数量」（語義9）"
+    },
+    {
+      "type": "item",
+      "text": "数・判断の枠で扱う、数唱が区切る単位・時間 → 「数唱の単位・時間や動作の区切り」（語義10）"
+    },
+    {
+      "type": "item",
+      "text": "数・判断の枠で扱う、訴えの区別された項目 → 「訴因・請求などの個別項目」（語義11）"
+    },
+    {
+      "type": "item",
+      "text": "数・判断の枠で扱う、評価する個別の点 → 「点・観点・判断項目」（語義12）"
+    },
+    {
+      "type": "item",
+      "text": "数・判断の枠で扱う、競技判定のための数唱 → 「ダウン時のカウント」（語義13）"
+    },
+    {
+      "type": "item",
+      "text": "数・判断の枠で扱う、打席の投球判定の集計 → 「ボールとストライクの数」（語義14）"
+    },
+    {
+      "type": "item",
+      "text": "数・判断の枠で扱う、支えとして見込む対象 → 「頼りにする・当てにする」（語義15）"
+    },
+    {
+      "type": "item",
+      "text": "数・判断の枠で扱う、予定に入れた出来事 → 「〜を見込む・〜すると期待する」（語義16）"
+    },
+    {
+      "type": "item",
+      "text": "数・判断の枠で扱う、参加する側への算入 → 「参加者・対象に加える」（語義17）"
+    },
+    {
+      "type": "item",
+      "text": "数・判断の枠で扱う、参加する側からの除外 → 「参加者・対象から外す」（語義18）"
+    },
+    {
+      "type": "item",
+      "text": "数・判断の枠で扱う、成功候補からの除外 → 「勝ち目・成功の見込みがないと判断する」（語義19）"
+    },
+    {
+      "type": "item",
+      "text": "数・判断の枠で扱う、必要数の取り分け → 「数えて取り分ける・数えながら渡す」（語義20）"
+    },
+    {
+      "type": "item",
+      "text": "数・判断の枠で扱う、数唱の終わりでの敗北判定 → 「カウントを取って敗北と判定する」（語義21）"
+    },
+    {
+      "type": "item",
+      "text": "数・判断の枠で扱う、不利な評価への算入 → 「不利に働く・不利な材料になる」（語義22）"
+    },
+    {
+      "type": "item",
+      "text": "数・判断の枠で扱う、目標総量への加算 → 「〜の一部として算入される・算入する」（語義23）"
+    },
+    {
+      "type": "item",
+      "text": "数・判断の枠で扱う、到達値へ向かう逆順の数唱 → 「数字を逆順に数える」（語義24）"
+    },
+    {
+      "type": "item",
+      "text": "数・判断の枠で扱う、集団内の順次の番号付け → 「順番に番号を言う」（語義25）"
+    },
+    {
+      "type": "item",
+      "text": "数・判断の枠で扱う、増加分を加え続ける集計 → 「さらに増え続けている」（語義26）"
+    },
+    {
+      "type": "item",
+      "text": "数・判断の枠で扱う、幸運な点の意識的な拾い上げ → 「恵まれている点に目を向ける」（語義27）"
+    },
+    {
+      "type": "item",
+      "text": "数・判断の枠で扱う、未確定成果の先取りへの戒め → 「未確定の成功を当てにするな」（語義28）"
+    },
+    {
+      "type": "item",
+      "text": "数・判断の枠で扱う、生じた負担・損失の把握 → 「損失・代償を把握する・負担に直面する」（語義29）"
+    },
+    {
+      "type": "item",
+      "text": "数・判断の枠で扱う、自ら明らかにする支持の立場 → 「立場を公に示す」（語義30）"
+    },
+    {
+      "type": "item",
+      "text": "数・判断の枠で扱う、数唱後も動けない状態の比喩 → 「倒れたままの・完全に参った」（語義31）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞】数を数える・拍を数える",
+      "frequency": 9,
+      "register": [
+        "一般。"
+      ],
+      "definition": "対象を一つずつ確認して総数を求める、または指定した数まで数詞を順にたどったり、拍・時間単位を数えたりすること。何を目的語に置くかによって、総数を求める場合と数唱・拍の進行を示す場合を区別する。",
+      "patterns": [
+        "count 〈対象〉",
+        "count 〈数〉",
+        "count 〈拍・時間単位〉",
+        "count how many 〈節〉",
+        "count up 〈対象〉",
+        "count 〈対象〉 up",
+        "〈対象〉 + be counted。count up は合計を求めることを強める形で、代名詞目的語は count them up の位置に置く。"
+      ],
+      "collocations": [
+        {
+          "pattern": "count 〈対象〉",
+          "use": "個々を確認して数を求める。",
+          "example": "Please count the chairs before the guests arrive.",
+          "translation": "客が到着する前に、椅子の数を数えてください。"
+        },
+        {
+          "pattern": "count how many 〈節〉",
+          "use": "何個・何人かを節で示して数える。",
+          "example": "Count how many windows face the street.",
+          "translation": "通りに面している窓がいくつあるか数えてください。"
+        },
+        {
+          "pattern": "count them up",
+          "use": "数える対象を代名詞で受け、合計する。",
+          "example": "I put the tokens in rows and counted them up.",
+          "translation": "私はトークンを列に並べ、合計を数えた。"
+        },
+        {
+          "pattern": "be counted",
+          "use": "数えられる対象を主語にする。",
+          "example": "Every returned form was counted twice.",
+          "translation": "返送された用紙は、一枚残らず二度数えられた。"
+        },
+        {
+          "pattern": "count heads",
+          "use": "参加者・出席者の人数を数える。",
+          "example": "The guide counted heads before the group boarded the bus.",
+          "translation": "ガイドは、一行がバスに乗る前に人数を数えた。"
+        },
+        {
+          "pattern": "count 〈数〉",
+          "use": "指定した数まで数字を唱える。",
+          "example": "She counted three slowly before opening the curtain.",
+          "translation": "彼女はゆっくり三つ数えてから、幕を開けた。"
+        },
+        {
+          "pattern": "count the beats",
+          "use": "拍を声に出して追い、リズムを合わせる。",
+          "example": "The drummer counted the beats aloud so the new singer could follow.",
+          "translation": "ドラマーは、新しい歌手が合わせられるよう、声に出して拍を数えた。"
+        }
+      ],
+      "notes": [
+        "count three は3まで数を唱える形、count three chairs は椅子3脚を数える形。count to three は to を伴う自動詞構文で、意味が近くても目的語を直接置く形とは異なる。count heads／count noses は人の数を数える表現で、頭や鼻の形を調べる意味ではない。数える count と、計算全般を行う calculate は範囲が重なるが同一ではない。count how many... は間接疑問の語順を用い、直接疑問の倒置をそのまま埋め込まない。"
+      ],
+      "synonyms": [
+        {
+          "word": "enumerate",
+          "definition": "項目を一つずつ挙げる、または数え上げる。",
+          "frequency": 4,
+          "difference": "改まった語で、合計を求めるだけでなく項目を順に列挙する場合にも使う。",
+          "example": "The report enumerates the main causes of delay.",
+          "translation": "その報告書は、遅れの主な原因を列挙している。"
+        },
+        {
+          "word": "calculate",
+          "definition": "計算して数量や値を求める。",
+          "frequency": 8,
+          "difference": "個々を数えるだけでなく、数式や演算による算出を広く含む。",
+          "example": "We calculated the total cost, including delivery.",
+          "translation": "配送料を含めた総費用を計算した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【動詞・自動詞】数を順に唱える・拍を数える",
+      "frequency": 8,
+      "register": [
+        "一般・音楽。"
+      ],
+      "definition": "数字を順に述べたり、一定の単位で数を進めたりすること。音楽などで拍を取る場合にも使う。",
+      "patterns": [
+        "〈人〉 + count",
+        "count to 〈数〉",
+        "count from 〈数〉",
+        "count by 〈単位〉",
+        "〈人〉 + count aloud。直接目的語を置かず、到達点・開始点・単位を前置詞句で補う。"
+      ],
+      "collocations": [
+        {
+          "pattern": "count to 〈数〉",
+          "use": "指定した数まで数える。",
+          "example": "The child can count to fifty without help.",
+          "translation": "その子は、手助けなしで50まで数えられる。"
+        },
+        {
+          "pattern": "count by 〈単位〉",
+          "use": "一定のまとまりごとに数を進める。",
+          "example": "We counted by tens as we sorted the blocks into groups.",
+          "translation": "積み木をまとめながら、10ずつ数えた。"
+        },
+        {
+          "pattern": "count aloud",
+          "use": "声に出して拍や数を数える。",
+          "example": "The dancers counted aloud while learning the new steps.",
+          "translation": "ダンサーたちは、新しいステップを覚えながら声に出して拍を数えた。"
+        }
+      ],
+      "notes": [
+        "count to ten の to は到達点を示す前置詞。count ten coins は硬貨を目的語にした語義1で、同じ構造ではない。音楽の count は拍を追うことで、必ず観客や演奏者の人数を数える意味ではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞・他動詞】数に入れる・含める",
+      "frequency": 8,
+      "register": [
+        "一般。"
+      ],
+      "definition": "人数・数量・対象範囲を考えるときに、その中へ含めること。実際に指で数え直す行為より、何を計算や判断の対象にするかに焦点がある。",
+      "patterns": [
+        "count 〈対象〉",
+        "not counting 〈対象〉",
+        "count 〈対象〉 among 〈集団〉。対象を含むか除くかで、述べる総数や範囲が変わる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "not counting 〈対象〉",
+          "use": "総数から除外した対象を示す。",
+          "example": "There are twelve people on the team, not counting the temporary staff.",
+          "translation": "臨時職員を除くと、チームには12人いる。"
+        },
+        {
+          "pattern": "count 〈対象〉",
+          "use": "集計対象に含めることを述べる。",
+          "example": "If you count the two trainees, we have enough people for the task.",
+          "translation": "二人の研修生も数に入れれば、その作業に必要な人数がそろう。"
+        }
+      ],
+      "notes": [
+        "not counting... は分詞を使って除外範囲を補う表現。相手を参加者に含める口語的な Count me in. は、語義17の句動詞として目的語位置も確認する。"
+      ],
+      "synonyms": [
+        {
+          "word": "include",
+          "definition": "全体の一部として含める。",
+          "frequency": 9,
+          "difference": "数量に関係しない内容・範囲にも広く使う。count は集計や評価の対象に入れることに結び付きやすい。",
+          "example": "The price includes breakfast.",
+          "translation": "料金には朝食が含まれている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞・他動詞】〜と見なす・〜に数える",
+      "frequency": 6,
+      "register": [
+        "一般。評価・分類。"
+      ],
+      "definition": "人や物をある種類に属するもの、またはある性質を持つものと判断すること。評価される対象を目的語に置く。",
+      "patterns": [
+        "count 〈O〉 as 〈名詞句〉",
+        "count 〈O〉 + 〈形容詞〉",
+        "count 〈O〉 + 〈名詞句〉",
+        "count oneself lucky",
+        "〈O〉 + be counted as 〈種類〉。as を伴う形と、目的語補語を直接置く形がある。"
+      ],
+      "collocations": [
+        {
+          "pattern": "count 〈O〉 as 〈種類〉",
+          "use": "対象をある種類として扱う。",
+          "example": "We counted the trial run as a success because all the equipment worked.",
+          "translation": "機材がすべて作動したので、私たちは試運転を成功と見なした。"
+        },
+        {
+          "pattern": "count oneself lucky",
+          "use": "自分は幸運だと捉える。",
+          "example": "I count myself lucky to have such supportive colleagues.",
+          "translation": "これほど支えてくれる同僚がいることを、私は幸運だと思う。"
+        },
+        {
+          "pattern": "be counted as 〈種類〉",
+          "use": "対象がどう評価されるかを受動形で述べる。",
+          "example": "A blank answer is counted as an error in this exercise.",
+          "translation": "この練習問題では、無回答は不正解として扱われる。"
+        },
+        {
+          "pattern": "count 〈O〉 + 〈名詞句〉",
+          "use": "対象をある立場の人・物と見なす。",
+          "example": "I count Lena a friend, not merely a colleague.",
+          "translation": "私はレナを、単なる同僚ではなく友人だと思っている。"
+        }
+      ],
+      "notes": [
+        "We count it as a success. は評価する側が主語、It counts as a success. は評価対象が主語で、後者は語義5。count oneself lucky の oneself は評価される自分自身で、常に再帰代名詞が必要な動詞という意味ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "consider",
+          "definition": "対象がある性質・状態にあると判断する。",
+          "frequency": 9,
+          "difference": "判断全般に広く使える。count は、ある分類・評価の枠へ入れるという捉え方になりやすい。",
+          "example": "They considered the proposal too expensive.",
+          "translation": "彼らは、その提案は費用がかかりすぎると判断した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【動詞・自動詞】〜に当たる・〜と認められる",
+      "frequency": 7,
+      "register": [
+        "一般。"
+      ],
+      "definition": "人や物が、ある分類・資格・評価の範囲に入ること。誰かが対象を判断する語義4と異なり、分類される対象自体を主語にする。",
+      "patterns": [
+        "〈対象〉 + count as 〈種類〉",
+        "〈対象〉 + count as 〈動名詞〉。as は、どの分類に入るかを示す。個別制度で認められる条件は、その制度の文脈で決まる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "count as 〈種類〉",
+          "use": "ある分類に該当すると述べる。",
+          "example": "Does this online meeting count as a training session?",
+          "translation": "このオンライン会議は、研修一回として扱われますか。"
+        },
+        {
+          "pattern": "count as 〈動名詞〉",
+          "use": "行為が別の行為として認められるかを述べる。",
+          "example": "In this game, moving the marker counts as taking a turn.",
+          "translation": "このゲームでは、マーカーを動かすと一手を使ったことになる。"
+        }
+      ],
+      "notes": [
+        "counts as... には受動の be がない。is counted as... は他動詞 count の受動形で、分類する側の扱いに焦点を当てる。意味が近くても、文法上同じ形ではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【動詞・自動詞】重要である・重みを持つ",
+      "frequency": 8,
+      "register": [
+        "一般。"
+      ],
+      "definition": "判断や結果に関わる価値・重要さがあること。人の意見・努力などを主語にでき、具体的な数字を数える意味ではない。",
+      "patterns": [
+        "〈人・物事〉 + count",
+        "count for something/little/nothing",
+        "count with someone。for は評価上どれだけの重みがあるか、with someone は誰の評価で重要かを示す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "〈物事〉 + count",
+          "use": "小さな貢献などにも価値があると述べる。",
+          "example": "Every small improvement counts when resources are limited.",
+          "translation": "資源が限られているときは、小さな改善の一つひとつが大切だ。"
+        },
+        {
+          "pattern": "count for little",
+          "use": "評価上の重みが小さいことを示す。",
+          "example": "Personal popularity counts for little in a decision based on verified evidence.",
+          "translation": "検証された証拠に基づく判断では、個人の人気はさほど重みを持たない。"
+        },
+        {
+          "pattern": "count with someone",
+          "use": "誰かの評価にとって重要だと述べる。",
+          "example": "Her opinion counts with the people who make the final decision.",
+          "translation": "最終判断を下す人々にとって、彼女の意見は重みがある。"
+        }
+      ],
+      "notes": [
+        "What counts is... は「大切なのは〜だ」という構文で、What is the count?「数はいくつか」とは異なる。count for nothing は重要性がないという評価であり、必ず集計結果が数値ゼロだという意味ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "matter",
+          "definition": "重要であり、判断や結果に関わる。",
+          "frequency": 9,
+          "difference": "count と重なるが、関係先を述べる基本形は matter to someone。count with someone の前置詞をそのまま移さない。",
+          "example": "Your experience matters to us.",
+          "translation": "あなたの経験は、私たちにとって重要だ。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【動詞・自動詞】有効と認められる・得点などに算入される",
+      "frequency": 7,
+      "register": [
+        "一般。競技、投票、採点。"
+      ],
+      "definition": "試行・投票・得点などが、有効なものとして扱われること。また、ある結果が所定の点数・数値として評価されること。一般的な重要性ではなく、集計・採点上の扱いに焦点がある。",
+      "patterns": [
+        "〈試行・得点など〉 + count",
+        "count for 〈点数〉",
+        "not count。何が有効か、何点とするかは当該場面のルールで決まり、動詞自体が一定のルールを保証するわけではない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "〈試行〉 + count",
+          "use": "試行を有効な結果として数える。",
+          "example": "That practice attempt does not count; your official turn starts now.",
+          "translation": "あの練習の試行は数に入らない。正式な順番は今から始まる。"
+        },
+        {
+          "pattern": "count for 〈点数〉",
+          "use": "所定の点数として評価されることを示す。",
+          "example": "In this quiz, each correct answer counts for two points.",
+          "translation": "このクイズでは、正解一つにつき2点になる。"
+        }
+      ],
+      "notes": [
+        "語義6の count for little は重要性の小ささ、ここでの count for two points は数値上の配点。同じ for を使っても何を評価しているかを区別する。does not count は試行が実際には起きなかったという意味ではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【名詞・可算／定型句では無冠詞】計数・集計・数の把握",
+      "frequency": 7,
+      "register": [
+        "一般。"
+      ],
+      "definition": "一まとまりの対象を数える行為や、数を把握し続けること。a count と個々の集計を指すほか、keep count／lose count では無冠詞の定型句を使う。",
+      "patterns": [
+        "do/make a count of 〈対象〉",
+        "keep count of 〈対象〉",
+        "lose count of 〈対象・数量を尋ねる節〉。counting という不可算の行為名詞と、a count という個別の集計も区別する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "make a count of 〈対象〉",
+          "use": "一度の集計を行うことを述べる。",
+          "example": "We made a count of the remaining boxes before ordering more.",
+          "translation": "追加注文の前に、残っている箱の数を数えた。"
+        },
+        {
+          "pattern": "keep count of 〈対象〉",
+          "use": "数を把握し続けることを表す。",
+          "example": "Please keep count of the visitors as they enter.",
+          "translation": "入ってくる来訪者の人数を数えておいてください。"
+        },
+        {
+          "pattern": "lose count of 〈数量を尋ねる節〉",
+          "use": "何度・何人などか分からなくなることを述べる。",
+          "example": "I have lost count of how many times we have changed the schedule.",
+          "translation": "日程を何度変更したのか、もう分からなくなった。"
+        }
+      ],
+      "notes": [
+        "keep count と lose count では、通常 a を入れずに使う。すべての count が不可算になったわけではなく、a quick count のような個別の集計は可算である。counting は動詞からの行為名詞で、冠詞の選択を count と一律にそろえない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 9,
+      "title": "【名詞・可算】数えた総数・測定した数量",
+      "frequency": 7,
+      "register": [
+        "一般。集計、報告、測定。"
+      ],
+      "definition": "数えた結果として得られる数、または一定の試料・期間などにおける数量や水準。数える作業そのものではなく、その結果の値を指す。",
+      "patterns": [
+        "a final/accurate count",
+        "a count of 〈数量〉",
+        "a pollen count",
+        "at the last count。何を数えた数値かを名詞や of 句で示す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the final count",
+          "use": "最後に確定した総数を述べる。",
+          "example": "The final count was 248 completed questionnaires.",
+          "translation": "最終集計では、記入済みの質問票は248枚だった。"
+        },
+        {
+          "pattern": "a pollen count",
+          "use": "空気中の花粉について、測定された量を表す。",
+          "example": "The pollen count was higher on Monday than on Sunday.",
+          "translation": "花粉の測定数は、日曜より月曜のほうが多かった。"
+        },
+        {
+          "pattern": "at the last count",
+          "use": "最後に数を確認した時点での値を示す。",
+          "example": "At the last count, the project involved thirty volunteers.",
+          "translation": "最後に確認した時点では、その計画には30人のボランティアが関わっていた。"
+        }
+      ],
+      "notes": [
+        "a count of 248 は数えた結果の値。語義10の for a count of three は、ゆっくり数を唱える長さを示す。blood count などの検査名・測定値の意味から、正常範囲や診断を推定しない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 10,
+      "title": "【名詞・可算／単数定型】数唱の単位・時間や動作の区切り",
+      "frequency": 6,
+      "register": [
+        "一般。動作・音楽・時間の指示。"
+      ],
+      "definition": "a/the count of... の形で、数唱を基準にした継続時間や動作のタイミングを示す。for a count of... は数える間の長さ、on the count of... は指定した数に達した時点を指す。踊りなどで拍・動きの時間を区切る単位としては、eight counts のように数えられる。",
+      "patterns": [
+        "〈数〉 counts",
+        "for a count of 〈数〉",
+        "on the count of 〈数〉。一定の秒数と必ず同一とは限らず、数える速さは場面による。"
+      ],
+      "collocations": [
+        {
+          "pattern": "for a count of 〈数〉",
+          "use": "所定の数を数える間、動作や姿勢を保つことを述べる。",
+          "example": "The dancers held the pose for a count of four.",
+          "translation": "ダンサーたちは、四つ数える間その姿勢を保った。"
+        },
+        {
+          "pattern": "on the count of 〈数〉",
+          "use": "指定した数を唱えたところで動作をそろえる。",
+          "example": "On the count of three, everyone lifted the box together.",
+          "translation": "三つ数えたところで、全員が一緒に箱を持ち上げた。"
+        },
+        {
+          "pattern": "〈数〉 counts（count の複数形）",
+          "use": "ダンスなどの時間を、数える単位で指定する。",
+          "example": "In the dance, the final pose lasts for eight counts.",
+          "translation": "そのダンスでは、最後のポーズを8カウントの間保つ。"
+        }
+      ],
+      "notes": [
+        "for a count of four は、物が四つあるという総数の説明ではない。「必ず4秒」と機械的に換算もしない。一つの動作が一つの count に対応するとは限らず、同じ動作や姿勢が複数の counts にわたって続くこともある。特定の競技の計時規則は、その競技の定めに従う。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 11,
+      "title": "【名詞・可算】訴因・請求などの個別項目",
+      "frequency": 5,
+      "register": [
+        "法律・司法報道。具体的制度は法域により異なる。"
+      ],
+      "definition": "起訴状や訴状などに、区別して述べられる個々の訴因・請求の項目。裁判の件数、被告の人数、確定した有罪の数と自動的に同じになるわけではない。",
+      "patterns": [
+        "a count of 〈訴えられている行為〉",
+        "on 〈数〉 counts",
+        "plead not guilty to 〈数〉 counts of 〈行為〉",
+        "a complaint containing 〈数〉 counts。名詞自体を犯罪の成立や有罪判決の保証としない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "plead not guilty to 〈数〉 counts of 〈行為〉",
+          "use": "区別して示された訴因の数を述べる。",
+          "example": "The defendant pleaded not guilty to two counts of fraud.",
+          "translation": "被告は、詐欺に関する二つの訴因について無罪を主張した。"
+        },
+        {
+          "pattern": "a complaint containing 〈数〉 counts",
+          "use": "訴状の中にある個別の請求項目を述べる。",
+          "example": "The complaint contained three separate counts.",
+          "translation": "その訴状には、区別された三つの請求項目が含まれていた。"
+        }
+      ],
+      "notes": [
+        "辞書上は刑事の訴因だけでなく、民事の請求項目にも用いる。例文は用法を示す架空の文で、特定国の手続き・判例を説明したものではない。語義12の on this count「この点では」を、必ず犯罪の訴因と解釈しない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 12,
+      "title": "【名詞・可算】点・観点・判断項目",
+      "frequency": 6,
+      "register": [
+        "一般・やや改まった説明。"
+      ],
+      "definition": "ある評価・批判などを行う際の個々の点や根拠。on this count、on both counts などの形で使い、法律上の訴因でなくてもよい。",
+      "patterns": [
+        "on this/that count",
+        "on both counts",
+        "on several counts。on は、どの点に関しての判断かを示す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "on both counts",
+          "use": "二つの評価点について同じ判断を述べる。",
+          "example": "We needed a cheaper and more reliable system, and the new model succeeds on both counts.",
+          "translation": "より安く、より信頼性の高いシステムが必要だったが、新型はその両方の点で要望を満たしている。"
+        }
+      ],
+      "notes": [
+        "both counts は文脈上の二つの点を受ける。ここでは対象の個数を数え直すことでも、二つの犯罪を認定することでもない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 13,
+      "title": "【名詞・可算】ダウン時のカウント",
+      "frequency": 4,
+      "register": [
+        "ボクシングなどの競技。"
+      ],
+      "definition": "ボクシングなどで、倒れた選手が競技を続けられるか判断する際に行われる数唱。具体的な数え方や判定は競技規則による。",
+      "patterns": [
+        "begin/start the count。ここでの the count は場面上のカウントを指す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "begin the count",
+          "use": "ダウン後のカウントが始まることを述べる。",
+          "example": "The referee began the count as the boxer lay on the canvas.",
+          "translation": "ボクサーがキャンバスに倒れている間に、レフェリーはカウントを始めた。"
+        }
+      ],
+      "notes": [
+        "数字を数える一般義と関連するが、競技上の判定に関わる定着した名詞用法。count out で選手を数えて試合続行不能と判定する動詞用法は語義21を参照。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 14,
+      "title": "【名詞・可算】ボールとストライクの数",
+      "frequency": 4,
+      "register": [
+        "野球。"
+      ],
+      "definition": "野球で、打席中の打者について宣告されたボールとストライクの数の組み合わせ。",
+      "patterns": [
+        "the count",
+        "a count of 〈ボール数とストライク数〉。通常はボール数、ストライク数の順に述べる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the count",
+          "use": "打席でのボール・ストライクの状況を述べる。",
+          "example": "The count was two balls and one strike.",
+          "translation": "カウントは、2ボール1ストライクだった。"
+        }
+      ],
+      "notes": [
+        "チームの得点や、選手の通算安打数とは異なる。野球という文脈なしに count だけを常にこの意味に読まない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 15,
+      "title": "【前置詞動詞】頼りにする・当てにする",
+      "frequency": 8,
+      "register": [
+        "一般。upon は改まった表現にも現れる。"
+      ],
+      "definition": "count on/upon の形で、人の助けや能力などを信頼し、利用できるものとして当てにする。on の後ろに頼りにする対象を置く。",
+      "patterns": [
+        "count on someone/something",
+        "count on someone to 〈動詞原形〉。on は前置詞で、その後ろに名詞・代名詞を置く。頼る対象が行う行為を to不定詞で補える。"
+      ],
+      "collocations": [
+        {
+          "pattern": "count on someone",
+          "use": "人を信頼して助けを当てにする。",
+          "example": "You can count on me if you need someone to check the figures.",
+          "translation": "数値を確認してくれる人が必要なら、私を頼ってください。"
+        },
+        {
+          "pattern": "count on someone to 〈動詞原形〉",
+          "use": "誰かが必要なことをしてくれると信頼する。",
+          "example": "We are counting on Maya to coordinate the volunteers.",
+          "translation": "私たちは、マヤがボランティアを取りまとめてくれることを当てにしている。"
+        }
+      ],
+      "notes": [
+        "count on her の代名詞を count her on の位置に移さない。count her in は参加者に含める別の句動詞。count on の一部を省いて count her としても、同じ「頼る」の構文にはならない。"
+      ],
+      "synonyms": [
+        {
+          "word": "rely on",
+          "definition": "信頼して頼る。",
+          "frequency": 8,
+          "difference": "支えや手段としての依存を広く表す。count on は、当てにできるものとして予定・判断に入れるという捉え方になりやすい。",
+          "example": "The team relies on accurate information from local staff.",
+          "translation": "チームは、現地職員からの正確な情報を頼りにしている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 16,
+      "title": "【前置詞動詞】〜を見込む・〜すると期待する",
+      "frequency": 7,
+      "register": [
+        "一般。"
+      ],
+      "definition": "count on/upon の形で、ある出来事や条件が実現するものと見込み、それを前提に考えること。人への信頼を述べる語義15と異なり、予想する出来事自体に焦点がある。",
+      "patterns": [
+        "count on 〈出来事・条件〉",
+        "count on 〈動名詞〉",
+        "not count on 〈対象〉。行為そのものを on の直後の補部に置く場合は -ing 形にする。on someone to do のように人を置いてからその行為を補う構造とは区別する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "count on 〈動名詞〉",
+          "use": "あることが起こる見込みを計画に入れる。",
+          "example": "We had counted on finishing before noon, but the repairs took longer than expected.",
+          "translation": "正午までに終えられると見込んでいたが、修理は予想より長引いた。"
+        },
+        {
+          "pattern": "not count on 〈出来事〉",
+          "use": "その出来事を確かな見込みとして頼らないことを述べる。",
+          "example": "Don't count on good weather for the whole trip.",
+          "translation": "旅行中ずっと天気がよいとは当てにしないほうがいい。"
+        }
+      ],
+      "notes": [
+        "count on winning は勝つことを見込む意味で、count to win と置き換えない。出来事を期待したからといって、それが実際に起こると保証されるわけではない。相手の望みに対する Don't count on it. は「そうなるとは思わないほうがいい」という返答になる。"
+      ],
+      "synonyms": [
+        {
+          "word": "expect",
+          "definition": "あることが起こると予想する。",
+          "frequency": 9,
+          "difference": "予想全般を広く表し、expect to do や expect that... などの構文も取る。count on は、その予想を当てにしているという意味合いを持ちやすく、補文の形も異なる。",
+          "example": "We expect the work to take three days.",
+          "translation": "作業には三日かかると予想している。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 17,
+      "title": "【句動詞・他動詞・分離可能】参加者・対象に加える",
+      "frequency": 7,
+      "register": [
+        "一般・口語。"
+      ],
+      "definition": "count someone in の形で、人を参加者や計画の対象に含める。口語では、自分も参加するという意思表示に使う。",
+      "patterns": [
+        "count someone in",
+        "〈人〉 + count in 〈参加者の名詞句〉",
+        "count 〈参加者の名詞句〉 in。代名詞は count me in のように動詞と in の間。"
+      ],
+      "collocations": [
+        {
+          "pattern": "count me in",
+          "use": "自分も参加することを伝える。",
+          "example": "If you're organising a weekend cleanup, count me in.",
+          "translation": "週末の清掃活動を企画するなら、私も参加します。"
+        },
+        {
+          "pattern": "count someone in",
+          "use": "参加者として含めることを表す。",
+          "example": "They counted Nina in when they booked the group tickets.",
+          "translation": "団体券を予約するとき、彼らはニナも人数に入れた。"
+        }
+      ],
+      "notes": [
+        "Count in me. とはせず Count me in. とする。参加を希望する返答であって、参加者の人数をその場で数え直してほしいという意味ではない。"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "count out",
+          "definition": "参加者・対象から外す。",
+          "frequency": 7,
+          "difference": "この参加範囲の軸では反対になる。勝つ見込みを見捨てる別義まで、常に対称な意味になるわけではない。",
+          "example": "Count me out of the camping trip this year.",
+          "translation": "今年のキャンプ旅行には、私は参加しません。"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "title": "【句動詞・他動詞・分離可能】参加者・対象から外す",
+      "frequency": 7,
+      "register": [
+        "一般・口語。"
+      ],
+      "definition": "count someone out の形で、その人を活動・計画・集団の対象に含めないこと。口語では不参加を伝える返答にも使う。",
+      "patterns": [
+        "count someone out",
+        "count someone out of 〈活動〉。out だけを伴う形では、名詞目的語は out の前後、代名詞は間に置く。out of 〈活動〉 を伴う場合は count someone out of 〈活動〉 の語順として覚え、同じ位置交替を機械的に適用しない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "count me out",
+          "use": "自分は参加しないと伝える。",
+          "example": "If the plan involves staying overnight, count me out.",
+          "translation": "その計画に泊まりが含まれるなら、私は参加しません。"
+        },
+        {
+          "pattern": "count someone out of 〈活動〉",
+          "use": "ある活動の対象から外す。",
+          "example": "Please don't count Eva out of the discussion just because she is new.",
+          "translation": "新しく入ったばかりだからといって、エバを議論から外さないでください。"
+        }
+      ],
+      "notes": [
+        "Count me out. は参加しないという意味にも、文脈次第で見込みがないと判断する語義19にも関わる。対象の活動や周囲の文脈で区別する。count out me の語順にはしない。"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "count in",
+          "definition": "参加者・対象に含める。",
+          "frequency": 7,
+          "difference": "活動に加えるか外すかという同じ軸で反対になる。",
+          "example": "Please count me in for Saturday's event.",
+          "translation": "土曜日の催しには、私も参加者に入れてください。"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "title": "【句動詞・他動詞・分離可能】勝ち目・成功の見込みがないと判断する",
+      "frequency": 6,
+      "register": [
+        "一般。競争、選挙、スポーツなど。"
+      ],
+      "definition": "count someone/something out の形で、人やチームなどを、もはや勝つ・成功する可能性のある候補として考えないこと。実際の参加資格を取り消すこととは限らない。",
+      "patterns": [
+        "count someone/something out",
+        "be counted out",
+        "not count someone out yet。名詞は out の前後、代名詞は動詞と out の間に置く。"
+      ],
+      "collocations": [
+        {
+          "pattern": "not count someone out yet",
+          "use": "まだ成功の可能性を見捨てないことを述べる。",
+          "example": "Don't count the younger team out yet; they have recovered from worse positions.",
+          "translation": "若いほうのチームを、まだ見込みなしと決めつけてはいけない。もっと不利な状況から持ち直したこともあるのだから。"
+        },
+        {
+          "pattern": "be counted out",
+          "use": "周囲から見込みなしと判断されることを表す。",
+          "example": "The candidate had been counted out, but won after a late surge in support.",
+          "translation": "その候補者は見込みがないと思われていたが、終盤に支持を伸ばして当選した。"
+        }
+      ],
+      "notes": [
+        "候補者として実際に活動している人にも使える。語義18は参加範囲からの除外、ここでは評価上の可能性からの除外である。not count someone out は、その人の勝利を保証するものではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 20,
+      "title": "【句動詞・他動詞・分離可能】数えて取り分ける・数えながら渡す",
+      "frequency": 5,
+      "register": [
+        "一般。"
+      ],
+      "definition": "count something out の形で、硬貨・券などを一つずつ数え、必要な分を取り分けたり並べたりすること。",
+      "patterns": [
+        "count out 〈数量・物〉",
+        "count 〈物〉 out",
+        "count them out。代名詞は out の前に置く。"
+      ],
+      "collocations": [
+        {
+          "pattern": "count out 〈数量・物〉",
+          "use": "必要数を数えて用意する。",
+          "example": "She counted out twenty tickets and placed them in an envelope.",
+          "translation": "彼女は券を20枚数えて取り分け、封筒に入れた。"
+        }
+      ],
+      "notes": [
+        "人を除外する語義18・19と、目的語の種類・場面が異なる。count out the coins は、硬貨を無効なものとして排除するという意味とは限らない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 21,
+      "title": "【句動詞・他動詞・分離可能】カウントを取って敗北と判定する",
+      "frequency": 3,
+      "register": [
+        "ボクシング。"
+      ],
+      "definition": "ボクシングで、倒れた選手がカウント中に競技を続けられる状態に戻らず、レフェリーがその選手を敗者と判定すること。具体的な規則は競技の定めに従う。",
+      "patterns": [
+        "count a boxer out",
+        "be counted out。目的語は判定される選手で、out は小辞。"
+      ],
+      "collocations": [
+        {
+          "pattern": "be counted out",
+          "use": "選手がカウントによって敗北と判定されることを述べる。",
+          "example": "The boxer remained on the canvas and was counted out.",
+          "translation": "そのボクサーはキャンバスに倒れたままで、カウントを取られて敗北と判定された。"
+        }
+      ],
+      "notes": [
+        "語義19の比喩的な「勝ち目がないと思う」とは異なり、競技場面の実際の判定を述べる。単に計算から外すことでも、選手自身が数を唱えることでもない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 22,
+      "title": "【前置詞動詞】不利に働く・不利な材料になる",
+      "frequency": 6,
+      "register": [
+        "一般。"
+      ],
+      "definition": "count against の形で、ある事実や特徴が人・提案などの評価を下げる材料になること。必ず不採用や失敗という結果まで生じるとは限らない。",
+      "patterns": [
+        "〈事実・特徴〉 + count against someone/something。against の後ろが不利な評価を受ける対象。"
+      ],
+      "collocations": [
+        {
+          "pattern": "count against someone",
+          "use": "事実がその人にとって不利な判断材料となることを述べる。",
+          "example": "His lack of experience may count against him when the applications are assessed.",
+          "translation": "応募書類が審査される際、経験の少なさが彼に不利に働くかもしれない。"
+        }
+      ],
+      "notes": [
+        "count against him の him を、count him against のように前へ移さない。against は前置詞で、count out の out と同じ分離可能な小辞ではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 23,
+      "title": "【動詞・自動詞／他動詞＋前置詞】〜の一部として算入される・算入する",
+      "frequency": 6,
+      "register": [
+        "一般。履修、支払い、目標達成。"
+      ],
+      "definition": "count toward/towards の形で、活動・支払額などが目標・必要総量・資格要件の一部として認められること。何を算入できるかは、その場面の制度や条件で決まる。",
+      "patterns": [
+        "〈活動・量〉 + count toward/towards 〈目標・総量〉",
+        "count 〈O〉 toward/towards 〈目標〉",
+        "〈O〉 + be counted toward/towards 〈目標〉。他動詞では算入する対象を目的語にし、受動形ではその対象が主語になる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "count toward 〈必要量〉",
+          "use": "活動が必要な量の一部として認められることを述べる。",
+          "example": "These practice hours count toward the total required by the course.",
+          "translation": "これらの実習時間は、その講座で必要とされる総時間に算入される。"
+        },
+        {
+          "pattern": "be counted toward 〈総量〉",
+          "use": "対象が所定の総量に加えられる扱いを述べる。",
+          "example": "The deposit will be counted toward the final payment.",
+          "translation": "頭金は、最終的な支払額の一部に充当される。"
+        }
+      ],
+      "notes": [
+        "toward/towards は目標・総量の方向を示す前置詞。count for two points の配点とも、count against の不利な評価とも区別する。例文は、すべての講座や契約で同じ算入条件があると述べたものではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 24,
+      "title": "【句動詞・自動詞】数字を逆順に数える",
+      "frequency": 7,
+      "register": [
+        "一般。"
+      ],
+      "definition": "count down の形で、大きい数から小さい数へ数字を順に唱えること。開始などの合図に向けて数える場面に使う。",
+      "patterns": [
+        "〈人〉 + count down",
+        "〈人〉 + count down from 〈数〉 to 〈数〉。from は開始値、to は到達値を示す。"
+      ],
+      "collocations": [
+        {
+          "pattern": "count down from 〈数〉 to 〈数〉",
+          "use": "数を減らしながら合図に向かう。",
+          "example": "The audience counted down from ten to zero before the lights came on.",
+          "translation": "明かりがつく前に、観客は10から0まで逆順に数えた。"
+        }
+      ],
+      "notes": [
+        "数字を順に増やす count to ten と、減らす count down を区別する。count down の down は小辞で、物理的に下へ降りるという意味ではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 25,
+      "title": "【句動詞・自動詞】順番に番号を言う",
+      "frequency": 4,
+      "register": [
+        "集団活動、訓練など。"
+      ],
+      "definition": "count off の形で、集団の各人などが順に番号を言うこと。人数確認や集団を分ける準備として使う。",
+      "patterns": [
+        "〈人々〉 + count off。番号を言う人々が主語になり、ここでは直接目的語を置かない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "〈人々〉 + count off",
+          "use": "集団の中で順に番号を唱える。",
+          "example": "The students counted off before dividing into groups.",
+          "translation": "生徒たちは、グループに分かれる前に順に番号を言った。"
+        }
+      ],
+      "notes": [
+        "count down は数列を逆順に唱えること、count off は各人などが順番に番号を言うことが中心。off を単に「除外」と訳すと、この用法を捉えられない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 26,
+      "title": "【慣用的な付加表現】さらに増え続けている",
+      "frequency": 6,
+      "register": [
+        "一般。報道、口語的な強調。"
+      ],
+      "definition": "数量の後ろに and counting を付け、現時点でその数に達しており、さらに増え続けていることを表す。",
+      "patterns": [
+        "〈数量〉 and counting。数量を示す表現に付け加える固定的な形で、counting を一般の形容詞と同じように名詞の前へ移さない。"
+      ],
+      "collocations": [
+        {
+          "pattern": "〈数量〉 and counting",
+          "use": "現在の数が最終値ではないことを述べる。",
+          "example": "The petition has attracted five thousand signatures and counting.",
+          "translation": "その請願には5,000人の署名が集まっており、さらに増え続けている。"
+        }
+      ],
+      "notes": [
+        "実際に今も一人ずつ声に出して数えているという意味に限らない。数が増加しているという含みを持つため、確定済みで増えない最終結果へ無条件に付けない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 27,
+      "title": "【慣用的な動詞句】恵まれている点に目を向ける",
+      "frequency": 6,
+      "register": [
+        "一般の慣用表現。"
+      ],
+      "definition": "count one's blessings の形で、自分の幸運や恵まれている点を意識し、ありがたいと捉えること。blessings を単なる物品の個数として数えるだけではない。",
+      "patterns": [
+        "count one's blessings。所有格は幸運に目を向ける本人に対応し、my/your/her などに替える。"
+      ],
+      "collocations": [
+        {
+          "pattern": "count one's blessings",
+          "use": "不満だけでなく、恵まれている点を認識する。",
+          "example": "When I feel frustrated, I try to count my blessings instead of comparing myself with everyone else.",
+          "translation": "不満を感じるときは、ほかの人と自分を比べる代わりに、自分の恵まれている点に目を向けるようにしている。"
+        }
+      ],
+      "notes": [
+        "不満を持つ人に命令形で言うと、相手の困難を軽く扱っているように受け取られることがある。自分の気持ちを述べる用法と、相手に説教するような言い方の場面を区別する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 28,
+      "title": "【ことわざ・命令形】未確定の成功を当てにするな",
+      "frequency": 5,
+      "register": [
+        "一般のことわざ。"
+      ],
+      "definition": "Don't count your chickens before they hatch. の形で、まだ確定していない好ましい結果を、すでに手に入ったものとして当てにしないよう戒める。文字どおりには、卵がかえる前からひなの数を数えない、というたとえ。",
+      "patterns": [
+        "don't count your chickens before they hatch。ここでは否定命令・your・複数 chickens・before節を伴う定着した形を扱う。"
+      ],
+      "collocations": [
+        {
+          "pattern": "don't count your chickens before they hatch",
+          "use": "未確定の成果を前提に先走らないよう注意する。",
+          "example": "We haven't won the contract yet, so don't count your chickens before they hatch.",
+          "translation": "まだ契約を獲得したわけではないのだから、決まらないうちから当てにして先走ってはいけない。"
+        }
+      ],
+      "notes": [
+        "実際の鶏を数える話に限らず、利益・合格・成功などへの早計な期待について使う。今後うまくいく可能性そのものを否定するのではなく、確定した結果として扱うことへの注意である。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 29,
+      "title": "【慣用的な動詞句】損失・代償を把握する・負担に直面する",
+      "frequency": 5,
+      "register": [
+        "一般・報道的な説明。"
+      ],
+      "definition": "count the cost of... の形で、行為や出来事による損失・負担の大きさを確かめたり、その不利益に直面したりすること。被害の金額を算定する場合と、行為が招いた代償を述べる場合がある。",
+      "patterns": [
+        "count the cost of 〈行為・出来事〉",
+        "be counting the cost of 〈行為・出来事〉。the と単数 cost を使い、of が損失の原因となる事柄を導く。"
+      ],
+      "collocations": [
+        {
+          "pattern": "count the cost of 〈被害事象〉",
+          "use": "起きた被害の規模や負担を把握することを述べる。",
+          "example": "After the flood, the town was still counting the cost of the damage to its roads.",
+          "translation": "洪水の後も、町は道路の損傷による損失・負担をなお把握しているところだった。"
+        },
+        {
+          "pattern": "be counting the cost of 〈行為〉",
+          "use": "行為が招いた不利益・代償に直面することを述べる。",
+          "example": "The company is counting the cost of ignoring repeated safety warnings.",
+          "translation": "その会社は、再三の安全警告を無視したことによる損失・負担に直面している。"
+        }
+      ],
+      "notes": [
+        "ここでの例は、起きた出来事から生じた負担・損失を述べている。具体的な金額の算定を含む場合もあるので、常に非金銭的な比喩だけと決めない。また、後悔しているという心理まで必ず意味するわけではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 30,
+      "title": "【慣用的な動詞句】立場を公に示す",
+      "frequency": 5,
+      "register": [
+        "一般。社会的議論、意見表明。"
+      ],
+      "definition": "stand up and be counted の形で、問題について自分の意見・支持する立場をはっきり示すこと。批判や不利益があり得る場面で、態度を曖昧にしないという含みを持つ。",
+      "patterns": [
+        "stand up and be counted。固定句全体で使い、be counted の受動形を保つ。"
+      ],
+      "collocations": [
+        {
+          "pattern": "stand up and be counted",
+          "use": "支持する立場を公にすることを述べる。",
+          "example": "Several employees stood up and were counted when the proposal came under criticism.",
+          "translation": "提案が批判を受けると、何人かの従業員が自分の支持する立場をはっきり示した。"
+        }
+      ],
+      "notes": [
+        "実際に席から立ち上がって点呼を受ける動作が必須ではない。ここでは意見や態度を明示することを述べる。単なる人数の受動的な集計とは区別する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 31,
+      "title": "【形容詞的な慣用句】倒れたままの・完全に参った",
+      "frequency": 5,
+      "register": [
+        "競技・一般の口語的比喩。"
+      ],
+      "definition": "down/out for the count の形で、倒れて動けない、敗北して立ち直れないといった状態を表す。ボクシングの場面に由来し、比喩的な敗北や、すっかり眠り込んだ状態にも用いる。",
+      "patterns": [
+        "be down for the count",
+        "be out for the count。人・チームなどの状態を述べ、文脈で競技上の敗北と比喩を区別する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "be down for the count",
+          "use": "完全に打ちのめされた状態を比喩的に述べる。",
+          "example": "After the second defeat, everyone thought the team was down for the count.",
+          "translation": "二度目の敗北の後、誰もがそのチームはもう立ち直れないと思った。"
+        },
+        {
+          "pattern": "be out for the count",
+          "use": "すっかり眠り込んだ様子を口語的に表す。",
+          "example": "After the overnight journey, he was out for the count on the sofa.",
+          "translation": "夜通しの移動の後、彼はソファでぐっすり眠り込んでいた。"
+        }
+      ],
+      "notes": [
+        "会話上の誇張も含む表現であり、意識障害や身体状態を医学的に診断する語ではない。語義21の count someone out は判定する動作、ここではそのように動けなくなった状態に焦点がある。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 32,
+      "title": "【名詞・可算／称号】伯爵",
+      "frequency": 5,
+      "register": [
+        "歴史、文学、爵位。"
+      ],
+      "definition": "欧州の一部で用いられる貴族の称号、またはその称号を持つ男性。国や時代による制度の違いまで、この語だけから決められるわけではない。",
+      "patterns": [
+        "a count",
+        "counts",
+        "Count 〈人名〉。一般名詞としては小文字、名前の前に称号として付ける場合は通常大文字にする。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a count",
+          "use": "爵位を持つ人物であることを述べる。",
+          "example": "The novel's narrator is a count living far from the capital.",
+          "translation": "その小説の語り手は、首都から遠く離れて暮らす伯爵だ。"
+        },
+        {
+          "pattern": "Count 〈人名〉",
+          "use": "称号を名前の前に置く。",
+          "example": "Count Valeri arrived with his secretary.",
+          "translation": "ヴァレリ伯爵は、秘書とともに到着した。"
+        }
+      ],
+      "notes": [
+        "計数・評価の count とは別語源の同綴異義語。同じ発音でも、伯爵を「数える人」と理解しない。具体的な爵位の継承・権限・資格要件は別の制度上の問題である。"
+      ],
+      "synonyms": [
+        {
+          "word": "earl",
+          "definition": "英国の爵位で伯爵に当たる称号、またはその称号を持つ男性。",
+          "frequency": 4,
+          "difference": "count と対応する位として説明されるが、英国の称号名は earl。各国の制度上の細部まで完全に同じとする比較ではない。",
+          "example": "The earl appears briefly in the first chapter.",
+          "translation": "その伯爵は、第1章に短く登場する。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
