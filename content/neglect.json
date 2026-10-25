@@ -1,0 +1,426 @@
+{
+  "word": "neglect",
+  "slug": "neglect",
+  "ipa": "米・英: /nɪˈɡlekt/。2音節で、第2音節に強勢がある。第1音節は /nɪ/、第2音節では母音 /e/ の前に /ɡl/、後に /kt/ が続く。語末の /k/・/t/ の間や後ろに、日本語の母音を挟まない。neglected は /nɪˈɡlektɪd/ となり、-ed の /ɪd/ が第3音節を作る。",
+  "lead": "人・動物・物などに必要な世話や手入れを十分にしないこと。完全に何もしない場合だけでなく、必要な程度に達していない場合も含む。",
+  "updated": "2026-10-25",
+  "notion_url": "https://app.notion.com/p/neglect-4044faa9b77d810a9b96cc30607e9613",
+  "pronunciation": [],
+  "etymology": [
+    "動詞は、ラテン語 neglegere「注意を払わない」の過去分詞語幹 neglect- に由来する。名詞には同じ動詞に由来するラテン語の動作名詞との関係があり、英語の動詞に単純に語尾を加えた形ではない。否定の neg- と、選ぶ・拾い上げるという意味の legere の系列から説明される。同系の negligence は不注意・過失を表し、英語で作られた neglectful は必要な世話・注意を払わない側の性質を表す。現代語では物を拾わないという字義に限定せず、人・物・仕事などへの必要な注意が欠けることをいう。"
+  ],
+  "formation": [
+    {
+      "term": "neglects／neglected／neglecting",
+      "description": "三人称単数形、過去形・過去分詞、-ing形。neglected は形容詞にもなり、受け手が十分に世話・注意を受けていないことを表す。"
+    },
+    {
+      "term": "neglectful",
+      "description": "世話や注意を十分に払わない、というやや改まった形容詞。be neglectful of 〈対象〉。neglected と、行う側・受ける側が逆になる。"
+    },
+    {
+      "term": "negligence",
+      "description": "必要な注意を欠くことを表す不可算名詞。改まった表現や法律の文脈で使い、neglect と関連するが、法的な過失の要件まで常に同一とはしない。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "対象に注意・世話・考慮を向けない、または十分に向けないことが中心にある。日常語では不足を非難することが多いが、近似計算の意図的な除外や認知上の注意の障害にも使い、故意や道徳的責任を必須の共通部分にはしない。"
+    },
+    {
+      "type": "item",
+      "text": "注意・世話を対象に十分向けない行為 → 「世話・手入れを怠る」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "注意・考慮が十分に向かない扱い → 「おろそかにする・顧みない」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "注意・対応が十分に向かず残る未実施 → 「～し忘れる・～するのを怠る」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "注意・世話が十分に向かない行為や不足 → 「怠慢・世話や注意の不足」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "注意・世話が十分に向かない対象の性質 → 「放置された・顧みられない」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "注意・世話が十分に向かない対象の状態 → 「放置・荒廃した状態」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "注意・考慮を向けず計算から外す扱い → 「計算・モデルで無視する」（語義7）"
+    },
+    {
+      "type": "item",
+      "text": "注意が空間の一部に十分に向かない状態 → 「空間的注意の障害としての無視」（語義8）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【他動詞】世話・手入れを怠る",
+      "frequency": 7,
+      "register": [
+        "一般。世話・管理・生活。"
+      ],
+      "definition": "人・動物・物などに必要な世話や手入れを十分にしないこと。完全に何もしない場合だけでなく、必要な程度に達していない場合も含む。",
+      "patterns": [
+        "neglect 〈人・動物・物・健康〉",
+        "neglect oneself",
+        "〈対象〉 + be neglected",
+        "seriously/grossly neglect 〈対象〉。"
+      ],
+      "collocations": [
+        {
+          "pattern": "neglect 〈庭・建物〉",
+          "use": "手入れや維持管理が足りないと述べる。",
+          "example": "The owners neglected the garden until the paths were hidden by weeds.",
+          "translation": "所有者たちは庭の手入れを怠り、小道が雑草に隠れるほどになった。"
+        },
+        {
+          "pattern": "neglect one's health",
+          "use": "自分の健康への配慮をおろそかにすると述べる。",
+          "example": "He realized that he had been neglecting his health while working long hours.",
+          "translation": "長時間働く間、自分の健康をおろそかにしていたことに、彼は気づいた。"
+        },
+        {
+          "pattern": "neglect oneself",
+          "use": "自分自身の世話や身の回りへの配慮が足りないと述べる。",
+          "example": "While looking after everyone else, she began to neglect herself.",
+          "translation": "周囲の人みんなの世話をするうちに、彼女は自分のことをおろそかにし始めた。"
+        },
+        {
+          "pattern": "be neglected",
+          "use": "対象が十分に世話・管理を受けていないと述べる。",
+          "example": "The equipment had been neglected for years before the new team arrived.",
+          "translation": "新しいチームが来るまで、その機器は何年も十分に管理されていなかった。"
+        }
+      ],
+      "notes": [
+        "必要な世話が足りないという評価を含むが、故意に害を与えたと必ず断定する語ではない。neglect children や neglect animals は深刻な世話の不足を表し得るので、単に一度返事が遅れたような場面と同じ強さで使わない。"
+      ],
+      "synonyms": [
+        {
+          "word": "abandon",
+          "definition": "人や物を見捨てる、または置き去りにする。",
+          "frequency": 7,
+          "difference": "離れて関わりを断つことに焦点がある。neglect は同じ場所にいて関わりを続けていても、世話が不十分なら成立する。",
+          "example": "The group rescued a dog that had been abandoned near the station.",
+          "translation": "その団体は、駅の近くに置き去りにされた犬を保護した。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "look after",
+          "definition": "人・動物・物の世話や管理をする。",
+          "frequency": 9,
+          "difference": "必要な世話をする方向で対照となる。単に見ているという意味ではない。",
+          "example": "A neighbour looked after the plants while we were away.",
+          "translation": "留守の間、近所の人が植物の世話をしてくれた。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【他動詞】おろそかにする・顧みない",
+      "frequency": 7,
+      "register": [
+        "一般・仕事・学習・議論。"
+      ],
+      "definition": "仕事・責任・問題・助言など、本来注意を払うべき対象を十分に扱わないこと。研究や報道などで、ある分野を取り上げない場合にも使う。",
+      "patterns": [
+        "neglect 〈義務・勉強・問題・助言〉",
+        "neglect 〈対象A〉 in favour/favor of 〈対象B〉",
+        "〈分野〉 + be neglected by 〈主体〉。"
+      ],
+      "collocations": [
+        {
+          "pattern": "neglect one's duties",
+          "use": "すべき仕事・責任への対応が不十分だと述べる。",
+          "example": "She was warned not to neglect her regular duties while preparing the event.",
+          "translation": "行事の準備をする間も普段の業務をおろそかにしないよう、彼女は注意された。"
+        },
+        {
+          "pattern": "neglect 〈問題の一面〉",
+          "use": "考慮すべき点が扱われていないと述べる。",
+          "example": "The proposal neglects the needs of people who do not drive.",
+          "translation": "その提案は、車を運転しない人々のニーズを十分に考慮していない。"
+        },
+        {
+          "pattern": "neglect 〈対象A〉 in favour of 〈対象B〉",
+          "use": "一方を優先した結果、もう一方をおろそかにすると述べる。",
+          "example": "The project neglected basic maintenance in favour of visible improvements.",
+          "translation": "その事業は、目に見える改良を優先し、基本的な保守をおろそかにした。"
+        },
+        {
+          "pattern": "be neglected by 〈主体〉",
+          "use": "研究などで十分な関心を向けられていない対象を述べる。",
+          "example": "The writer's early essays have been neglected by most critics.",
+          "translation": "その作家の初期の随筆は、大半の批評家から十分に取り上げられてこなかった。"
+        }
+      ],
+      "notes": [
+        "目的語は直接続け、neglect of 〈対象〉 を動詞の基本形にしない。of は名詞 neglect や形容詞 neglectful の後に現れる。neglect は、対象が注意に値するという見方を伴いやすいが、話者がその全内容に賛成しているという意味ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "ignore",
+          "definition": "注意を向けず、取り合わない・考慮しない。",
+          "frequency": 9,
+          "difference": "存在を認識していても意図的に相手にしない文脈で使いやすい。neglect は必要な注意・世話・実行の不足が中心で、故意とも不注意ともなり得る。",
+          "example": "She ignored the rude comment and continued her explanation.",
+          "translation": "彼女は失礼な発言を取り合わず、説明を続けた。"
+        },
+        {
+          "word": "overlook",
+          "definition": "注意が及ばず、見落とす。",
+          "frequency": 7,
+          "difference": "気づかなかったという場面に向く。neglect は対象を知っていても適切に扱わないことを表せる。",
+          "example": "I overlooked a small error in the final paragraph.",
+          "translation": "最後の段落にあった小さな誤りを、私は見落とした。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞・to不定詞補文】～し忘れる・～するのを怠る",
+      "frequency": 6,
+      "register": [
+        "やや改まった表現。"
+      ],
+      "definition": "neglect to do の形で、すべき行為をしないままにすること。不注意・失念による場合も、行わなかった点を遠回しに指摘する場合もある。",
+      "patterns": [
+        "〈人〉 + neglect to do",
+        "neglect to mention/check/inform",
+        "Don't neglect to do。to以下の行為をするはずだった人は、neglect の主語と同じ。"
+      ],
+      "collocations": [
+        {
+          "pattern": "neglect to mention 〈内容〉",
+          "use": "伝えるべき内容に触れなかったと述べる。",
+          "example": "He neglected to mention that the entrance would be closed.",
+          "translation": "彼は、入口が閉鎖されることに触れなかった。"
+        },
+        {
+          "pattern": "neglect to check 〈対象〉",
+          "use": "必要な確認を怠ったと述べる。",
+          "example": "I neglected to check the address before sending the parcel.",
+          "translation": "荷物を送る前に、私は住所を確認するのを怠った。"
+        },
+        {
+          "pattern": "Don't neglect to do",
+          "use": "すべき行為を忘れないよう、やや改まって注意する。",
+          "example": "Don't neglect to save a copy of the completed form.",
+          "translation": "記入済みの用紙の控えを保存するのを、忘れないでください。"
+        }
+      ],
+      "notes": [
+        "neglect somebody to do... を、人に何かをさせないという意味の一般構文として作らない。ここでの to は不定詞を導き、名詞の対象を導く前置詞ではない。neglect の通常の「し忘れる」をすべて -ing に置き換えられると覚えず、この形は to do として身につける。"
+      ],
+      "synonyms": [
+        {
+          "word": "fail to do",
+          "definition": "ある行為・結果が実現しない。",
+          "frequency": 9,
+          "difference": "能力不足や試みの失敗なども含む広い表現。neglect to do は、すべきことを行わなかったという不注意・対応不足を示しやすい。",
+          "example": "The key failed to open the door.",
+          "translation": "その鍵では、扉を開けられなかった。"
+        },
+        {
+          "word": "forget to do",
+          "definition": "すべきことを思い出さず、しないままになる。",
+          "frequency": 9,
+          "difference": "失念に焦点がある。neglect to do は、本当に忘れたのか、気に留めなかったのかを必ずしも決めない。",
+          "example": "I forgot to attach the file to my message.",
+          "translation": "メッセージにファイルを添付するのを忘れた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞・主に不可算】怠慢・世話や注意の不足",
+      "frequency": 6,
+      "register": [
+        "一般・管理・福祉・法律に関わる記述。"
+      ],
+      "definition": "必要な世話・注意・対応を十分に行わないこと。義務の遂行不足や、養育で基本的なニーズを満たさないことなどを指す。",
+      "patterns": [
+        "neglect of 〈対象〉",
+        "neglect of duty",
+        "through neglect",
+        "child neglect",
+        "to the neglect of 〈別の対象〉。基本は不可算で、a neglect of... という用例もあるが、冠詞を自由に付けられるという規則にはせず、通常は個々の事例を cases/instances of neglect などで数える。"
+      ],
+      "collocations": [
+        {
+          "pattern": "neglect of duty",
+          "use": "必要な義務・職務を十分に果たさなかったことを述べる。",
+          "example": "The inquiry examined whether the failure resulted from neglect of duty.",
+          "translation": "調査では、その不備が職務上の怠慢によるものだったかを検討した。"
+        },
+        {
+          "pattern": "child neglect",
+          "use": "子どもに必要な世話が行われない問題を、名称として述べる。",
+          "example": "The training covers the prevention of child neglect.",
+          "translation": "その研修では、子どもへのネグレクトの防止を扱う。"
+        },
+        {
+          "pattern": "to the neglect of 〈別の対象〉",
+          "use": "一方への集中によって、別のことが犠牲になっていると述べる。",
+          "example": "He devoted himself to the project to the neglect of his other responsibilities.",
+          "translation": "彼は、その事業に打ち込むあまり、ほかの責任をおろそかにした。"
+        }
+      ],
+      "notes": [
+        "子どもの養育については、食事・安全・教育・心のケアなどの基本的なニーズが満たされないことを表し得る。特定の家庭が法的な neglect に当たるかは、単語の定義だけで決めない。一般の neglect と法律上の negligence を、どの法域でも同一の要件を持つ用語だと扱わない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【分詞形容詞・neglected／限定・叙述】放置された・顧みられない",
+      "frequency": 6,
+      "register": [
+        "一般・描写・研究や作品の評価。"
+      ],
+      "definition": "必要な世話・手入れ・関心を受けていない状態や性質。人・建物のほか、研究対象・作品などにも使う。",
+      "patterns": [
+        "a neglected 〈対象〉",
+        "look/feel/remain neglected",
+        "a much/long-neglected 〈対象〉",
+        "more/less neglected。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a neglected 〈場所〉",
+          "use": "手入れが足りない場所を描写する。",
+          "example": "They turned a neglected courtyard into a small garden.",
+          "translation": "彼らは、手入れされていなかった中庭を小さな庭園に変えた。"
+        },
+        {
+          "pattern": "feel neglected",
+          "use": "自分が十分に気にかけられていないと感じる。",
+          "example": "She felt neglected when every conversation focused on her brother.",
+          "translation": "会話がいつも兄のことばかりになると、彼女は自分が顧みられていないと感じた。"
+        },
+        {
+          "pattern": "a long-neglected 〈分野〉",
+          "use": "長く関心を向けられてこなかった分野を述べる。",
+          "example": "The book explores a long-neglected area of local history.",
+          "translation": "その本は、地域史の中で長く顧みられてこなかった分野を探究している。"
+        }
+      ],
+      "notes": [
+        "対象の質が悪いという意味ではなく、十分に関心・世話を受けていないこと。優れた作品でも neglected と言える。by句を伴う be neglected は、出来事の受動にも状態の説明にもなり得るため、by の有無だけで区別しない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【名詞・不可算】放置・荒廃した状態",
+      "frequency": 5,
+      "register": [
+        "一般。建物・土地・施設などの描写。"
+      ],
+      "definition": "物や場所などが十分な手入れ・関心を受けずに置かれている状態。行う側の怠慢より、対象の放置された様子に焦点がある。",
+      "patterns": [
+        "in a state of neglect",
+        "fall into neglect",
+        "years of neglect",
+        "suffer from neglect。"
+      ],
+      "collocations": [
+        {
+          "pattern": "in a state of neglect",
+          "use": "場所が手入れを受けていない状態を描写する。",
+          "example": "The old station was in a state of neglect, with broken windows and weeds along the platform.",
+          "translation": "古い駅は放置された状態で、窓が割れ、ホーム沿いに雑草が生えていた。"
+        },
+        {
+          "pattern": "fall into neglect",
+          "use": "次第に手入れされなくなっていくことを述べる。",
+          "example": "After the club closed, its playing field fell into neglect.",
+          "translation": "クラブが閉鎖された後、その運動場は手入れされないままになった。"
+        }
+      ],
+      "notes": [
+        "in a state of neglect の a は state に付いている。必ず完全に壊れて使えないという意味ではなく、十分な手入れがないことを示す。誰の責任かを特定しない文章にも使える。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【他動詞】計算・モデルで無視する",
+      "frequency": 4,
+      "register": [
+        "科学・工学・計算。"
+      ],
+      "definition": "計算やモデル化で、ある要因・影響を考慮に入れないこと。影響が小さいとみなす、問題を単純化する、といった前提の置き方に使い、必ずしも不注意への非難ではない。",
+      "patterns": [
+        "neglect 〈要因・影響〉",
+        "〈要因〉 + can be neglected。"
+      ],
+      "collocations": [
+        {
+          "pattern": "neglect 〈影響〉",
+          "use": "近似のため、特定の影響を計算から外す。",
+          "example": "For this estimate, we neglect the small changes in temperature.",
+          "translation": "この推定では、温度の小さな変化は無視する。"
+        },
+        {
+          "pattern": "〈要因〉 + can be neglected",
+          "use": "計算上、省いてよいと判断した要因を述べる。",
+          "example": "The weight of the packaging can be neglected in this rough calculation.",
+          "translation": "この大まかな計算では、梱包材の重さは無視できる。"
+        }
+      ],
+      "notes": [
+        "要因を計算に含めないことと、現実にその要因が存在しないことは別。省略が妥当かは目的・精度・条件によって変わり、neglect という動詞自体が近似の正しさを保証するわけではない。",
+        "語義2の「本来扱うべきことをおろそかにする」とは、話者の評価と目的が異なる。計算の前提を添える neglecting... は通常の分詞形であり、neglect が動名詞を補語に取ることの例ではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【名詞・不可算／専門用法】空間的注意の障害としての無視",
+      "frequency": 2,
+      "register": [
+        "神経心理学・リハビリテーション。"
+      ],
+      "definition": "神経心理学で、自分の体や周囲の空間の一部への注意・認識が低下する状態を指す。spatial neglect や unilateral neglect の形で、脳卒中後などの空間的な注意の障害を述べる。",
+      "patterns": [
+        "spatial neglect",
+        "unilateral neglect",
+        "patients with neglect",
+        "signs of neglect。この状態をいう用法は不可算で、個別の人・症例は別の名詞で数える。"
+      ],
+      "collocations": [
+        {
+          "pattern": "spatial neglect",
+          "use": "医学文献で、空間的な注意の障害を述べる。",
+          "example": "The report discusses how spatial neglect can affect everyday activities after a stroke.",
+          "translation": "その報告書は、脳卒中後の空間的な注意の障害が日常の活動にどう影響し得るかを論じている。"
+        }
+      ],
+      "notes": [
+        "本人がわざと無視している、世話を怠っている、という道徳的な非難ではない。必要な医療・健康上のケアを十分に提供しないという意味の medical neglect とも異なる。後者は、養育者などが必要なケアを受けさせない場合も含み、行為者を医療者だけに限定しない。",
+        "単に見えにくいという話だけではなく、注意・認識の障害を扱う用語であり、個人に当てはまるかを日常的な見落としだけから判断しない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}
