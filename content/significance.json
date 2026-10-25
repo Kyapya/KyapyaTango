@@ -1,0 +1,250 @@
+{
+  "word": "significance",
+  "slug": "significance",
+  "ipa": "米・英: /sɪɡˈnɪfɪkəns/。4音節で第2音節に強勢がある。第1・第2・第3音節の母音は /ɪ/、第4音節は弱い /ə/。語末は /ns/ で、最後に母音を足さない。形容詞 significant /sɪɡˈnɪfɪkənt/ とは語末の /s/ と /t/ を区別する。",
+  "lead": "対象に注意を向けたり、重く受け止めたりする理由となる重要さ。影響や価値に関係するが、必ず将来の影響だけを表すわけではなく、好ましい重要性に限らない。",
+  "updated": "2026-10-25",
+  "notion_url": "https://app.notion.com/p/significance-4044faa9b77d81cfbac7e98400fd71e2",
+  "pronunciation": [],
+  "etymology": [
+    "古フランス語やラテン語 significantia「意味を示すこと」の系列に由来し、ラテン語 significare「意味を示す」にさかのぼる。意味として伝わる内容と、注意すべき重要さという二つの捉え方がある。現代英語の significant と形の対応はあるが、近代英語で単純に接尾辞を付けた新造語だと歴史を説明しない。同系列の signify「意味を表す」、significant「重要な・意味のある」と関連づけて覚えられる。"
+  ],
+  "formation": [
+    {
+      "term": "significant",
+      "description": "形容詞。significance が重要性・意味を名詞で表すのに対し、対象が重要である・意味を持つと述べる。"
+    },
+    {
+      "term": "significantly",
+      "description": "副詞。動詞や比較表現を修飾して程度の大きさを示すほか、文全体について、ある事実が解釈上重要な手掛かりになることを示す場合もある。名詞 significance にそのまま -ly を付けた形ではない。"
+    },
+    {
+      "term": "insignificance",
+      "description": "重要性や価値に乏しいことを表す不可算名詞。統計的な非有意性と常に同じ意味ではない。"
+    },
+    {
+      "term": "statistical significance",
+      "description": "統計的有意性を表す名詞句。一般的な重要性との区別は語義3を参照。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "ある事柄が、ただそこにあるだけでなく「何かを物語る」というイメージ。物語るものを影響の大きさとして捉えるか、表される内容として読むか、統計の検定基準に照らした証拠として扱うかを区別する。"
+    },
+    {
+      "type": "item",
+      "text": "事柄が物語る、無視できない影響や価値 → 「重要性・意義」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "事柄が物語る、表現や出来事の指し示す内容 → 「意味・含意」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "事柄が物語る、検定基準を満たす帰無モデルとの不整合 → 「統計的有意性」（語義3）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞・不可算／可算】重要性・意義",
+      "frequency": 8,
+      "register": [
+        "一般。説明、報道、学術、仕事上の評価。"
+      ],
+      "definition": "対象に注意を向けたり、重く受け止めたりする理由となる重要さ。影響や価値に関係するが、必ず将来の影響だけを表すわけではなく、好ましい重要性に限らない。",
+      "patterns": [
+        "the significance of 〈対象〉",
+        "significance for/to 〈関係者・領域〉",
+        "be of 〈great/little/no〉 significance",
+        "attach 〈great/little〉 significance to 〈対象〉",
+        "have a particular significance。重要性を量として述べる用法では不可算が基本で、特定の種類・あり方の意義を取り上げると可算用法もある。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the significance of 〈対象〉",
+          "use": "何が重要なのか、その重みを述べる。",
+          "example": "We should not underestimate the significance of losing access to the only bridge.",
+          "translation": "唯一の橋を利用できなくなることの重大さを、軽く見てはいけない。"
+        },
+        {
+          "pattern": "be of great significance",
+          "use": "対象が非常に重要だと述べる。",
+          "example": "The discovery is of great significance to the study of early agriculture.",
+          "translation": "その発見は、初期の農業を研究するうえで非常に重要だ。"
+        },
+        {
+          "pattern": "attach little significance to 〈対象〉",
+          "use": "評価する側が対象をあまり重要視しないことを示す。",
+          "example": "The team attached little significance to the brief delay because the deadline was still weeks away.",
+          "translation": "締め切りはまだ何週間も先だったため、チームはその短い遅れをあまり重要視しなかった。"
+        },
+        {
+          "pattern": "have a particular significance for 〈関係者〉",
+          "use": "ある人々にとって特別な意義があることを述べる。",
+          "example": "The reunion has a particular significance for families who have been separated for years.",
+          "translation": "長年離れ離れだった家族にとって、その再会には特別な意義がある。"
+        },
+        {
+          "pattern": "significance for 〈領域〉",
+          "use": "何にとって重要なのかを示す。",
+          "example": "The report examines the decision's significance for regional trade.",
+          "translation": "その報告書は、その決定が地域貿易にとって持つ重要性を検討している。"
+        }
+      ],
+      "notes": [
+        "be of significance の significance は名詞で、of significance 全体が形容詞に近い働きをする。be significant では形容詞を使う。very significance とはせず great significance または very significant とする。of は重要さを評価する対象、for/to は関係先を示すが、for は未来専用、to は個人専用といった区別にはしない。"
+      ],
+      "synonyms": [
+        {
+          "word": "importance",
+          "definition": "対象の重要さ・価値。",
+          "frequency": 9,
+          "difference": "重要であることを広く直接述べる。significance は、出来事の持つ意味を踏まえてその重要さを捉える場面にも使う。",
+          "example": "The manager stressed the importance of accurate records.",
+          "translation": "管理者は、正確な記録の重要性を強調した。"
+        },
+        {
+          "word": "consequence",
+          "definition": "重要性・重み。",
+          "frequency": 5,
+          "difference": "予想される影響に基づく重要さに重点があり、of consequence などで使う。significance は何を示す事柄なのかという意味合いにもつながる。ここでの比較は重要性義に限り、結果一般を表す consequence まで同義としない。",
+          "example": "Nothing of consequence was decided at the meeting.",
+          "translation": "その会議では、重要なことは何も決まらなかった。"
+        },
+        {
+          "word": "weight",
+          "definition": "判断や議論において持つ相対的な重要さ。",
+          "frequency": 6,
+          "difference": "比較や意思決定の中でどれだけ重く扱うかを強調する。significance は対象の持つ意義そのものにも使う。",
+          "example": "We gave greater weight to the evidence from direct observation.",
+          "translation": "私たちは、直接観察から得られた証拠をより重く見た。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "insignificance",
+          "definition": "重要とみなすほどの価値や重みがないこと。",
+          "frequency": 5,
+          "difference": "重要さの程度の軸で対立する。意味が理解できないことや、統計検定で有意でないことを一律に表す名詞ではない。",
+          "example": "Their disagreement faded into insignificance after the emergency.",
+          "translation": "緊急事態が起きた後、彼らの意見の対立は取るに足らないものになった。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【名詞・不可算／可算】意味・含意",
+      "frequency": 7,
+      "register": [
+        "一般。説明、解釈、象徴、文化。"
+      ],
+      "definition": "発言・身振り・物・出来事などが表したり示唆したりする内容。直接言われていない含みを指すことも多いが、必ず秘密や隠れた意図を意味するわけではない。",
+      "patterns": [
+        "understand/grasp the significance of 〈表現・出来事〉",
+        "take on a new significance",
+        "symbolic significance",
+        "the significance of 〈対象〉 + lie in 〈内容〉。通常は不可算として述べるが、特定の意味合いを取り上げる a new/particular significance も使う。"
+      ],
+      "collocations": [
+        {
+          "pattern": "understand the significance of 〈表現〉",
+          "use": "表現が何を示しているかを理解することを述べる。",
+          "example": "I did not understand the significance of her raised eyebrow until she pointed to the empty chair.",
+          "translation": "彼女が空いた椅子を指さすまで、私は彼女が眉を上げた意味が分からなかった。"
+        },
+        {
+          "pattern": "take on a new significance",
+          "use": "後の情報や文脈によって新しい意味合いが生まれることを表す。",
+          "example": "After I read the final chapter, the title took on a new significance.",
+          "translation": "最終章を読んだ後、その題名は新しい意味を持つように感じられた。"
+        },
+        {
+          "pattern": "symbolic significance",
+          "use": "物や行為が象徴として表す意味を指す。",
+          "example": "The guide explained the symbolic significance of the circle in the painting.",
+          "translation": "ガイドは、その絵の円が象徴する意味を説明した。"
+        },
+        {
+          "pattern": "the significance of 〈対象〉 + lie in 〈内容〉",
+          "use": "解釈上の意味がどこにあるかを述べる。",
+          "example": "In the play, the significance of the closed door lies in what it symbolizes: the family's refusal to accept the visitor.",
+          "translation": "その劇で閉ざされた扉が意味するのは、訪問者を受け入れまいとする一家の拒絶である。"
+        }
+      ],
+      "notes": [
+        "significance of a word は、その語が文脈で持つ意味合いにも使える。基本的な語の意味を尋ねる場合には meaning が広く使われるが、meaning は字義だけ、significance は必ず深い秘密、と二分しない。語義1の重要性と重なる場合もあり、内容を指すのか重みを評価するのかを文脈で判断する。"
+      ],
+      "synonyms": [
+        {
+          "word": "meaning",
+          "definition": "言葉や行為などが表す内容。",
+          "frequency": 9,
+          "difference": "語の定義から文脈的な意味まで広く使う基本語。significance は、出来事や象徴がどう解釈されるかという意味合いにも重点を置く。",
+          "example": "The meaning of the symbol is explained below the diagram.",
+          "translation": "その記号の意味は、図の下に説明されている。"
+        },
+        {
+          "word": "implication",
+          "definition": "直接には述べられていないが、暗に示される内容。",
+          "frequency": 7,
+          "difference": "明示されない含みであることに焦点がある。significance は明確に説明されている象徴的意味にも使える。",
+          "example": "I disliked the implication that I had ignored the warning.",
+          "translation": "私が警告を無視したかのような含みがあるのが、気に入らなかった。"
+        },
+        {
+          "word": "import",
+          "definition": "発言や出来事などの意味・趣旨。",
+          "frequency": 4,
+          "difference": "改まった文章寄りの名詞。この意味では第1音節に強勢があり、輸入する動詞の用法とは区別する。",
+          "example": "The full import of the message became clear only later.",
+          "translation": "そのメッセージの意味の全体像が明らかになったのは、後になってからだった。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞・不可算】統計的有意性",
+      "frequency": 5,
+      "register": [
+        "統計学・研究報告。"
+      ],
+      "definition": "特定の統計モデル・検定の前提の下で、データと帰無仮説との不整合が、あらかじめ定めた検定基準に照らして有意とされること。一般語の「重要性」や、効果の大きさそのものとは区別する。",
+      "patterns": [
+        "statistical significance",
+        "reach/achieve statistical significance",
+        "a test of significance",
+        "a significance level of 〈基準値〉。significance level は検定で用いる有意水準で、結果の有意性そのものや、計算された p値と同一ではない。level を修飾しても significance は名詞。"
+      ],
+      "collocations": [
+        {
+          "pattern": "reach statistical significance",
+          "use": "結果が定めた検定基準を満たしたことを述べる。",
+          "example": "The difference reached statistical significance, but the estimated effect was small.",
+          "translation": "その差は統計的に有意となったが、推定された効果は小さかった。"
+        },
+        {
+          "pattern": "a significance level of 〈基準値〉",
+          "use": "検定に用いる有意水準を示す。",
+          "example": "The researchers set a significance level of 0.05 before analysing the data.",
+          "translation": "研究者たちは、データを分析する前に有意水準を0.05に設定した。"
+        },
+        {
+          "pattern": "a test of significance",
+          "use": "統計的な有意性を検討する検定を指す。",
+          "example": "A test of significance does not by itself show whether the effect is useful in practice.",
+          "translation": "有意性の検定だけでは、その効果が実務上役立つかどうかは分からない。"
+        }
+      ],
+      "notes": [
+        "p値は、帰無仮説と検定の前提の下で、観測された値以上に極端な検定統計量が得られる確率である。「帰無仮説が真である確率」でも「この結果が偶然だけで生じた確率」でもない。小さいp値や有意という判定は、効果量・実用的重要性・因果関係の成立を自動的に示さない。有意でないことも効果ゼロの証明ではない。",
+        "有意水準 α は、帰無仮説が真なのにそれを棄却する誤りについて、検定で用いる確率の基準である。α が0.05でも、「今回の結論が誤っている確率が5%」という意味ではない。0.05はよく用いられる基準の一つで、どの研究にも必須の唯一の値ではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}
