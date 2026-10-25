@@ -27,3 +27,17 @@ class StudyDataTests(unittest.TestCase):
    self.assertEqual(before,{p.name:p.read_bytes() for p in dest.iterdir()})
  def test_example_id_is_content_stable(self):
   first=study_data([self.word])[2][0]['id'];self.word['senses'][0]['collocations'].insert(0,dict(example='Another sentence.',translation='別の文。'));self.assertEqual(study_data([self.word])[2][1]['id'],first)
+
+ def test_frequency_normalization_and_first_sense(self):
+  for raw,expected in [(1,1),(10,10),('6',6),(None,None),(True,None),(1.5,None),('6/10',None),(' 6 ',None),(0,None),(11,None),('01',None),({},None)]:
+   self.word['senses'][0]['frequency']=raw
+   before=copy.deepcopy(self.word);c,ss,e,_,_=study_data([self.word])
+   self.assertEqual(c[0]['frequency'],expected);self.assertEqual(ss['abide:1']['frequency'],expected);self.assertEqual(self.word,before)
+  second=copy.deepcopy(self.word['senses'][0]);second['number']=2;second['frequency']=9
+  self.word['senses'][0]['frequency']=3;self.word['senses'].append(second)
+  c,ss,e,_,_=study_data([self.word]);self.assertEqual(c[0]['frequency'],3);self.assertEqual(ss['abide:2']['frequency'],9)
+ def test_published_frequency_matches_source(self):
+  root=Path(__file__).resolve().parents[1];words=[json.loads(p.read_text()) for p in sorted((root/'content').glob('*.json'))];c,ss,e,_,_=study_data(words)
+  for w,card in zip(words,c):
+   self.assertEqual(card['frequency'],w['senses'][0]['frequency'])
+   for sense in w['senses']:self.assertEqual(ss[f"{w['slug']}:{sense['number']}"]['frequency'],sense['frequency'])
