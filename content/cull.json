@@ -1,0 +1,404 @@
+{
+  "word": "cull",
+  "slug": "cull",
+  "ipa": "米・英: /kʌl/。1音節で母音は /ʌ/。culls は /kʌlz/、culled は /kʌld/ で各1音節。culling は /ˈkʌlɪŋ/ の2音節で、第1音節に主強勢があり、第2音節の母音は /ɪ/。",
+  "lead": "資料・情報・作品などを、出所や集合から選び出す。選んで集めることにも使う。目的語は選び出される物を表し、情報だけに限らない。",
+  "updated": "2026-10-25",
+  "notion_url": "https://app.notion.com/p/cull-4044faa9b77d8130af91fca831480815",
+  "pronunciation": [],
+  "etymology": [
+    "中英語から古フランス語・アングロフランス語の系列を経て、ラテン語 colligere「集める」に結び付く。collect「集める」と同じ系列で、collection「収集・集まり」とも関連するが、これらが現代英語の cull から直接作られた語という意味ではない。動物の殺処分を表す意味だけを語源としない。"
+  ],
+  "formation": [
+    {
+      "term": "culls／culled／culling",
+      "description": "動詞の活用。名詞の複数形も culls なので、構文と意味で品詞を区別する。"
+    },
+    {
+      "term": "culling",
+      "description": "選別・除去などの過程を表す不可算名詞としても使う。個別の実施を数える a cull と区別する。"
+    },
+    {
+      "term": "culler",
+      "description": "選別を行う人などを表す名詞。culled fruit のような過去分詞修飾があっても、culled を独立した評価形容詞だと自動的に決めない。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "集合の中から対象を選び分け、取り出したり除いたりすること。目的語は、残すもの、取り除くもの、選別する集合全体のいずれにもなり得るので、常に「悪いものを捨てる」とだけ覚えない。"
+    },
+    {
+      "type": "item",
+      "text": "選別による資料・作品等の抽出 → 「選び集める・抽出する」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "選別による不要な物の除去 → 「選んで取り除く」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "選別による動物の殺処分 → 「動物を選んで殺処分する」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "選別による集合全体の整理 → 「集合を選別する」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "選別による描画対象の決定 → 「描画対象を選別する」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "選別による除去の実施 → 「選別・個体数調整の実施」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "選別による個体や品物の取り分け → 「選別された物・除外品」（語義7）"
+    },
+    {
+      "type": "item",
+      "text": "選別による人員や職の削減 → 「人員・職を削減する」（語義8）"
+    },
+    {
+      "type": "item",
+      "text": "選別による花や果実の採集 → 「摘み集める」（語義9）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞・他動詞】選び集める・抽出する",
+      "frequency": 4,
+      "register": [
+        "資料収集、選集、情報の抽出についての説明。"
+      ],
+      "definition": "資料・情報・作品などを、出所や集合から選び出す。選んで集めることにも使う。目的語は選び出される物を表し、情報だけに限らない。",
+      "patterns": [
+        "cull information from 〈資料〉",
+        "be culled from 〈出所〉",
+        "cull useful points out",
+        "cull them out。"
+      ],
+      "collocations": [
+        {
+          "pattern": "cull information from reports",
+          "use": "複数の報告から必要な情報を選び集める。",
+          "example": "The researcher culled information from several reports.",
+          "translation": "研究者は、複数の報告書から情報を選び集めた。"
+        },
+        {
+          "pattern": "be culled from an archive",
+          "use": "選び出された資料を主語にする。",
+          "example": "The letters were culled from several archives for the exhibition.",
+          "translation": "その手紙は展覧会のため、複数の文書館の資料から選び集められた。"
+        },
+        {
+          "pattern": "cull them out",
+          "use": "必要な論点を代名詞で受け、取り出す対象として述べる。",
+          "example": "Several useful points were buried in the transcript, and she culled them out for the summary.",
+          "translation": "記録の中に有用な論点がいくつか埋もれており、彼女は要約のためにそれらを取り出した。"
+        }
+      ],
+      "notes": [
+        "この information／letters／points は捨てるものではなく、集める側の対象。out があっても、必ず不要なものの除去とは限らない。代名詞目的語は cull と out の間に置き、cull out them としない。"
+      ],
+      "synonyms": [
+        {
+          "word": "collect",
+          "definition": "集める。",
+          "frequency": 7,
+          "difference": "収集一般を広く表す。cull は、集合から選び分けて取り出すという捉え方を伴うが、必ず最良のものだけを選べたことを保証しない。",
+          "example": "The team collected documents from several offices.",
+          "translation": "チームは複数の事務所から文書を集めた。"
+        },
+        {
+          "word": "select",
+          "definition": "選ぶ・選び出す。",
+          "frequency": 7,
+          "difference": "選択一般を広く述べる。cull はこの用法では、資料や集合の中から選び取って集めることを捉える。選ぶ行為と、実際に一か所へ集める行為は常に同じではない。",
+          "example": "The curator selected three paintings for the exhibition.",
+          "translation": "学芸員は、展覧会のために絵画を3点選んだ。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【動詞・他動詞】選んで取り除く",
+      "frequency": 4,
+      "register": [
+        "蔵書、収穫物、植物などの選別・整理。"
+      ],
+      "definition": "集合の中から、基準に合わない、不要になったなどの理由で、個体・品物を選んで除く。",
+      "patterns": [
+        "cull unwanted items from 〈集合〉",
+        "cull out 〈除去対象〉",
+        "cull 〈除去対象〉 out",
+        "cull them out",
+        "be culled。"
+      ],
+      "collocations": [
+        {
+          "pattern": "cull damaged books from a collection",
+          "use": "蔵書から除く本を目的語にする。",
+          "example": "The library culled badly damaged books from its collection.",
+          "translation": "図書館は、ひどく傷んだ本を蔵書から除いた。"
+        },
+        {
+          "pattern": "cull out weak branches",
+          "use": "植物の選別で、除く部分を示す。",
+          "example": "The gardener culled out the weak branches and kept the strong ones.",
+          "translation": "庭師は弱い枝を選んで除き、強い枝を残した。"
+        }
+      ],
+      "notes": [
+        "名詞目的語は out の前後に置けるが、代名詞は中間に置く。集合から除いたことと、焼却・廃棄したことは同じではない。取り除く理由は目的や基準によるので、対象があらゆる用途で無価値だと決めない。"
+      ],
+      "synonyms": [
+        {
+          "word": "eliminate",
+          "definition": "取り除く・除外する。",
+          "frequency": 6,
+          "difference": "除去を広く述べる。cull は、集合の中で対象を選び分けることに焦点を置くが、必ず破壊・廃棄するという意味にはならない。",
+          "example": "The team eliminated duplicate records.",
+          "translation": "チームは重複した記録を除いた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞・他動詞】動物を選んで殺処分する",
+      "frequency": 4,
+      "register": [
+        "家畜・野生動物の管理についての説明。"
+      ],
+      "definition": "動物の個体数や群れの状態を管理する目的で、一部の個体を選んで殺す。この動物管理の語義では、単に別の場所へ移すことだけを指すのではない。",
+      "patterns": [
+        "cull animals",
+        "cull a herd",
+        "animals + be culled。個体を目的語にする場合と、群れ全体を管理対象にする場合がある。"
+      ],
+      "collocations": [
+        {
+          "pattern": "cull part of a herd",
+          "use": "個体数調整のため、一部の個体を殺処分することを述べる。",
+          "example": "The authorities culled part of the herd to reduce its size.",
+          "translation": "当局は個体数を減らすため、群れの一部を殺処分した。"
+        },
+        {
+          "pattern": "be culled",
+          "use": "対象となった動物を主語にする。",
+          "example": "Several diseased animals were culled.",
+          "translation": "病気にかかった動物が数頭、殺処分された。"
+        }
+      ],
+      "notes": [
+        "病気・弱い個体を対象とする場合はあるが、全ての文脈でそれだけに限られるとは言えない。この語義の殺す意味を、資料収集・蔵書除去・写真選別などの全用法へ広げない。個別の必要性、法的条件、方法を単語だけから判断しない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞・他動詞】集合を選別する",
+      "frequency": 3,
+      "register": [
+        "写真や収集物の整理・選定。"
+      ],
+      "definition": "集めた写真や品物などの全体を対象にして、残すもの・除くものを選ぶ。",
+      "patterns": [
+        "cull a collection",
+        "cull photographs",
+        "cull a set down to 〈残す数〉。選別対象の集合全体を目的語にする。"
+      ],
+      "collocations": [
+        {
+          "pattern": "cull a photo collection",
+          "use": "写真の集合全体から採否を選ぶことを述べる。",
+          "example": "The photographer culled the collection before preparing the album.",
+          "translation": "写真家はアルバムを作る前に、写真のコレクションを選別した。"
+        },
+        {
+          "pattern": "cull something down to a smaller number",
+          "use": "down to 以下で残す数を示す。",
+          "example": "She culled the photographs down to twenty images.",
+          "translation": "彼女は写真を選別し、20枚に絞った。"
+        }
+      ],
+      "notes": [
+        "cull the collection は、コレクション全体を全て捨てるという意味ではない。down は絞込み、to は到達する数を示す。文脈で対象が明らかなとき目的語なしの使用もあるが、それだけで集合が自然に減る一般自動詞義を立てない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【動詞・他動詞】描画対象を選別する",
+      "frequency": 3,
+      "register": [
+        "コンピューターグラフィックス。culling という処理名でも使われる。"
+      ],
+      "definition": "コンピューターの描画処理で、対象となる要素を選別し、不要な描画を省く。",
+      "patterns": [
+        "cull objects",
+        "cull a scene",
+        "objects + be culled。要素を除外対象として述べる場合と、シーン全体を選別対象として述べる場合を区別する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "cull a scene",
+          "use": "シーン内の描画対象を選別する処理を述べる。",
+          "example": "The renderer culls the scene before drawing the visible objects.",
+          "translation": "描画エンジンは、可視オブジェクトを描く前に、シーン内の対象を選別する。"
+        },
+        {
+          "pattern": "be culled",
+          "use": "描画から除外される要素を主語にする。",
+          "example": "Objects that did not need to be rendered were culled from the rendering pass.",
+          "translation": "描画する必要のないオブジェクトは、その描画処理から除外された。"
+        }
+      ],
+      "notes": [
+        "ここで描画から除くことと、元のデータを削除することは同じではない。個別の判定方式、実装、全ての性能効果を、この語の一般定義だけから推測しない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【名詞・可算】選別・個体数調整の実施",
+      "frequency": 3,
+      "register": [
+        "動物管理などの選別・除去についての説明。"
+      ],
+      "definition": "選別や除去を一回の実施として捉える名詞。動物管理では、群れの一部を殺処分して個体数を調整する実施を指す。",
+      "patterns": [
+        "a cull",
+        "conduct a cull",
+        "a cull of animals",
+        "culls。"
+      ],
+      "collocations": [
+        {
+          "pattern": "conduct a cull",
+          "use": "動物の個体数調整を一回の実施として述べる。",
+          "example": "The report explains why a cull of deer was conducted in the area.",
+          "translation": "その報告書は、その地域でシカの殺処分による個体数調整が行われた理由を説明している。"
+        }
+      ],
+      "notes": [
+        "語義7の選別された個体・品物ではなく、選別する行為・実施を指す。a cull のように個別の実施を数える用法と、過程一般を述べる不可算の culling を混同しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "reduction",
+          "definition": "数や量を減らすこと。",
+          "frequency": 6,
+          "difference": "減少全般を指し、対象を選んで除くことや殺処分という方法までは必須としない。動物管理の cull は、その具体的な実施を述べる。",
+          "example": "The report recorded a reduction in the number of animals.",
+          "translation": "その報告書には、動物の個体数の減少が記録されていた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【名詞・可算】選別された物・除外品",
+      "frequency": 2,
+      "register": [
+        "収穫物、品物などの選別。"
+      ],
+      "definition": "選び分けられた個体・品物。特に品質などの基準に合わず、通常の対象から外されたものを指す。",
+      "patterns": [
+        "a cull",
+        "culls",
+        "fruit culls。選別された個々の物を数える。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a cull",
+          "use": "基準から外された一つの果実を述べる。",
+          "example": "One bruised apple was marked as a cull.",
+          "translation": "傷のあるリンゴが一つ、選別で外す果実として印を付けられた。"
+        },
+        {
+          "pattern": "culls for processing",
+          "use": "別用途に回す選別品を述べる。",
+          "example": "The rejected apples were sold as culls for processing.",
+          "translation": "選別で外されたリンゴは、加工用の果実として売られた。"
+        }
+      ],
+      "notes": [
+        "選別で外されたことと、あらゆる用途で使えないことは同じではない。加工など別用途へ回る場合もある。複数形 culls はこの文脈では名詞で、動詞の三人称単数形とは区別する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【動詞・他動詞】人員・職を削減する",
+      "frequency": 2,
+      "register": [
+        "経営、組織再編など。人や職を除去対象として捉える言い方なので、語感に注意する。"
+      ],
+      "definition": "雇用・組織の文脈で、人員や職を選んで減らす。",
+      "patterns": [
+        "cull staff",
+        "cull jobs",
+        "jobs + be culled。組織から減らす人員・職を目的語にする。"
+      ],
+      "collocations": [
+        {
+          "pattern": "cull jobs",
+          "use": "組織再編による職の削減を述べる。",
+          "example": "The restructuring plan would cull jobs across several departments.",
+          "translation": "その再編計画では、複数の部門にわたって職が削減されることになる。"
+        }
+      ],
+      "notes": [
+        "この雇用文脈では、人を殺すという意味に取らない。一方で人員を選別・除去する捉え方があるため、相手に配慮が必要な場面で中立的な言い換えと考えない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 9,
+      "title": "【動詞・他動詞】摘み集める",
+      "frequency": 2,
+      "register": [
+        "花・果実の採集を述べる用法。日常の採集表現全般で常に選ばれる言い方とはしない。"
+      ],
+      "definition": "花や果実などを選んで摘み、集める。",
+      "patterns": [
+        "cull flowers",
+        "cull fruit",
+        "cull something from 〈採集場所〉。"
+      ],
+      "collocations": [
+        {
+          "pattern": "cull flowers",
+          "use": "花を摘み集めることを述べる。",
+          "example": "She culled a few flowers from the garden for the table.",
+          "translation": "彼女は食卓に飾るため、庭から花をいくつか摘み集めた。"
+        }
+      ],
+      "notes": [
+        "選んで集める対象なので、花を必ず不良品として捨てる意味ではない。果実についても、採集なのか不良果の除去なのかを、目的語の修飾や場面から判断する。"
+      ],
+      "synonyms": [
+        {
+          "word": "pick",
+          "definition": "花や果実を摘む。",
+          "frequency": 6,
+          "difference": "摘み取ることを表す一般的な語。cull はここでは選んで摘み集める意味だが、pick に慎重な選択が伴わないという絶対的区分ではない。",
+          "example": "She picked a flower from the garden.",
+          "translation": "彼女は庭から花を一輪摘んだ。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
