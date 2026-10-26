@@ -195,7 +195,16 @@
       "notes": [
         "能動文の主語は区別する人ではなく、区別を成り立たせる特徴。状態的なこの意味では通常進行形にしない。受動形の by は、この例では人間の動作主でなく識別特徴を示す。名詞の前の distinguishing marks は、見分ける手がかりとなる特徴を指し、進行形の文ではない。功績を挙げる distinguish oneself や、高く評価されたという形容詞 distinguished と混同しない。"
       ],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "characterize",
+          "definition": "ある対象の典型的な性質となり、特徴づける。",
+          "frequency": 6,
+          "difference": "characterize はその対象らしい性質を示すのに対し、distinguish は他の対象との識別に役立つ違いへ焦点を当てる。ある特徴が典型的だからといって、それだけで他と見分けられるとは限らない。ここでは特徴を主語にする用法を比べており、人が対象をあるふうに評する characterize A as B は別の構文である。",
+          "example": "A strong sense of rhythm characterizes her music.",
+          "translation": "力強いリズム感が、彼女の音楽の特徴だ。"
+        }
+      ],
       "antonyms": []
     },
     {
@@ -232,7 +241,8 @@
         }
       ],
       "notes": [
-        "明示された二者間の違いだけでなく、音声や姿そのものを捉えられるかが中心。状態的な知覚可能性を表すこの意味では通常進行形にせず、can/could とよく組み合わせる。"
+        "明示された二者間の違いだけでなく、音声や姿そのものを捉えられるかが中心。状態的な知覚可能性を表すこの意味では通常進行形にせず、can/could とよく組み合わせる。",
+        "identify は「誰・何かを特定する」ことに重点があり、以前から知っていた対象とは限らない。姿を distinguish できても身元を identify できるとは限らず、輪郭が見えることと、誰なのかが分かることを区別する。"
       ],
       "synonyms": [
         {
@@ -242,6 +252,14 @@
           "difference": "知覚の意味ではdistinguishと重なるが、make outはより日常的な言い方として使いやすい。何を認識できるかが目的語になる。",
           "example": "I could just make out a light beyond the trees.",
           "translation": "木々の向こうに、明かりがかろうじて見えた。"
+        },
+        {
+          "word": "recognize",
+          "definition": "以前見聞きしたことを基に、それが誰・何であるか分かる。",
+          "frequency": 8,
+          "difference": "distinguish は姿や音を明瞭に捉えることを表し、以前から知っている対象であることは必要としない。recognize のこの意味は、既に知っている顔・声などと結び付けて、それが誰・何か分かることに重点がある。",
+          "example": "I recognized her voice before I saw her.",
+          "translation": "姿を見る前に、声で彼女だと分かった。"
         }
       ],
       "antonyms": []
