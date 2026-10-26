@@ -1,0 +1,878 @@
+{
+  "word": "define",
+  "slug": "define",
+  "ipa": "米・英: /dɪˈfaɪn/。2音節で、第2音節に強勢がある。過去形・過去分詞 defined は /dɪˈfaɪnd/ で、語尾は /d/。defining は /dɪˈfaɪnɪŋ/ となり、綴りでは語末の e を取って -ing を付ける。",
+  "lead": "語や表現が何を意味するかを、言葉で明確に示す。辞書上の意味を説明する場合にも、議論で用いる意味を定める場合にも使う。",
+  "updated": "2026-10-26",
+  "notion_url": "https://app.notion.com/p/define-4054faa9b77d8140b1c9e3965dbac272",
+  "pronunciation": [],
+  "etymology": [
+    "後期中英語から古フランス語 definer を経て、ラテン語 definire に遡る。完了を示す de- と finire「終える」に関係し、finire は finis「終わり・限界」から来ている。範囲の端を定めるという発想が、意味・性質・境界を明確にする用法につながる。古い「終わらせる」という意味を、現代の通常用法として当てはめない。"
+  ],
+  "formation": [
+    {
+      "term": "defined",
+      "description": "define の過去形・過去分詞。well-defined、ill-defined などの形容詞表現にも用いられる。"
+    },
+    {
+      "term": "defining",
+      "description": "define の -ing 形。「特徴を決定づける」形容詞用法と、関係節を表す文法用法もある。"
+    },
+    {
+      "term": "definition",
+      "description": "define と対応する名詞。語史上はラテン語 definitio に遡り、現代英語内で define に接尾辞を単純に足しただけという由来ではない。"
+    },
+    {
+      "term": "definable",
+      "description": "define と -able の形態関係を持つ形容詞。意味を定義できること、性質を正確に示せることを表す。"
+    },
+    {
+      "term": "indefinable",
+      "description": "否定の in- を含み、説明しにくい・説明できないことを表す。"
+    },
+    {
+      "term": "undefined",
+      "description": "否定の un- と defined の形態関係を持ち、定義・明確化されていない状態を表す。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "核は「何であるか、どこまでを含むかという輪郭を明確にすること」。言葉の意味、役割や性格、目に見える形へと対象が変わり、派生語では明確さの有無や、明確にできるかという観点も表す。"
+    },
+    {
+      "type": "item",
+      "text": "語の意味の輪郭を明確にする行為 → 「意味を定義する」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "内容や範囲の輪郭を明確にする行為 → 「内容・範囲を明確にする」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "意味や概念の輪郭を明確にした説明 → 「定義・意味の説明」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "自己のあり方の輪郭を明確にする行為 → 「自分を位置付ける・自己を規定する」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "本質や性格の輪郭を形作る働き → 「本質・性格を形作る」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "意味の輪郭を明確にする作業 → 「定義すること・明確に規定すること」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "意味の輪郭から導かれる性質 → 「定義上・その意味からして」（語義7）"
+    },
+    {
+      "type": "item",
+      "text": "本質の輪郭を示し形作る特徴・出来事 → 「本質を示す・特徴を決定づける」（語義8）"
+    },
+    {
+      "type": "item",
+      "text": "見える形の輪郭を明確にする働き → 「輪郭・境界をはっきり示す」（語義9）"
+    },
+    {
+      "type": "item",
+      "text": "見える形の輪郭の明確さ → 「鮮明さ・明瞭度」（語義10）"
+    },
+    {
+      "type": "item",
+      "text": "内容や範囲の輪郭が明確な状態 → 「内容・範囲が明確な」（語義11）"
+    },
+    {
+      "type": "item",
+      "text": "見える形の輪郭が明確な状態 → 「輪郭がくっきりした」（語義12）"
+    },
+    {
+      "type": "item",
+      "text": "内容や範囲の輪郭が不明確な状態 → 「内容・範囲が曖昧な」（語義13）"
+    },
+    {
+      "type": "item",
+      "text": "内容や範囲の輪郭が定められていない状態 → 「明確に定められていない・未定義の」（語義14）"
+    },
+    {
+      "type": "item",
+      "text": "指示対象の範囲を明確にする働き → 「限定用法の・指示対象を絞る」（語義15）"
+    },
+    {
+      "type": "item",
+      "text": "語の意味の輪郭を明確にできる性質 → 「意味を定義できる」（語義16）"
+    },
+    {
+      "type": "item",
+      "text": "対象の内容の輪郭を明確にできる性質 → 「明確に特定・記述できる」（語義17）"
+    },
+    {
+      "type": "item",
+      "text": "見える形の輪郭が不明確な状態 → 「輪郭・目印がはっきりしない」（語義18）"
+    },
+    {
+      "type": "item",
+      "text": "性質の輪郭を言葉で明確にしにくいこと → 「言い表しがたい・明確に説明できない」（語義19）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【他動詞】意味を定義する",
+      "frequency": 8,
+      "register": [
+        "一般・学習・議論。"
+      ],
+      "definition": "語や表現が何を意味するかを、言葉で明確に示す。辞書上の意味を説明する場合にも、議論で用いる意味を定める場合にも使う。",
+      "patterns": [
+        "define a word",
+        "define something as something",
+        "be defined as something",
+        "be defined by someone。"
+      ],
+      "collocations": [
+        {
+          "pattern": "define a word",
+          "use": "語の意味を説明する。",
+          "example": "Please define the word before using it in your argument.",
+          "translation": "議論の中で使う前に、その語の意味を定義してください。"
+        },
+        {
+          "pattern": "define something as something",
+          "use": "どのような意味として扱うかを示す。",
+          "example": "The handbook defines a volunteer as someone who works without payment.",
+          "translation": "その手引書は、ボランティアを無報酬で働く人と定義している。"
+        },
+        {
+          "pattern": "be defined as something",
+          "use": "定義される語を主語にする。",
+          "example": "In this guide, a beginner is defined as someone with no previous experience.",
+          "translation": "この案内書では、初心者をそれまで経験のない人と定義している。"
+        },
+        {
+          "pattern": "be defined by someone",
+          "use": "誰が与えた定義かを示す。",
+          "example": "The term is defined by the author in the opening paragraph.",
+          "translation": "その用語は、冒頭の段落で著者によって定義されている。"
+        }
+      ],
+      "notes": [
+        "as の後ろは定義内容で、by の後ろは上の例では定義する人。define A as B を define A B のような二重目的語構文にしない。ある資料内の定義を示しただけで、すべての制度や場面に共通する唯一の定義になるわけではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【他動詞】内容・範囲を明確にする",
+      "frequency": 8,
+      "register": [
+        "一般・業務・研究。"
+      ],
+      "definition": "役割・目標・条件などが何であり、どこまでを含むかを明確に示す。対象を決める場合と、すでにある性質を説明する場合がある。",
+      "patterns": [
+        "define the scope of something",
+        "define responsibilities",
+        "define something in terms of something",
+        "define what 〈節の残部〉",
+        "define how 〈節の残部〉。"
+      ],
+      "collocations": [
+        {
+          "pattern": "define the scope of something",
+          "use": "扱う範囲を定める。",
+          "example": "We need to define the scope of the project before estimating its cost.",
+          "translation": "費用を見積もる前に、事業の範囲を明確にする必要がある。"
+        },
+        {
+          "pattern": "define responsibilities",
+          "use": "担当する役割や責任を明確にする。",
+          "example": "The agreement defines each team's responsibilities.",
+          "translation": "その合意書では、各チームの責任が明確に定められている。"
+        },
+        {
+          "pattern": "define something in terms of something",
+          "use": "何を基準に性質を捉えるか示す。",
+          "example": "The study defines difficulty in terms of the time needed to finish each task.",
+          "translation": "その研究では、各課題を終えるのに必要な時間を基準に難しさを捉えている。"
+        },
+        {
+          "pattern": "define what 〈節の残部〉",
+          "use": "何が対象に含まれるかを節で示す。",
+          "example": "The instructions define what counts as a completed application.",
+          "translation": "その説明書は、何をもって申請が完成したとみなすかを定めている。"
+        },
+        {
+          "pattern": "define how 〈節の残部〉",
+          "use": "どのように行うかを、直接続く節で明確に示す。",
+          "example": "The procedure defines how staff should report a missing item.",
+          "translation": "その手順書は、物品の紛失を職員がどのように報告すべきかを明確に定めている。"
+        }
+      ],
+      "notes": [
+        "語の意味を説明する語義1に限らず、実際の活動範囲や条件を明らかにする。in terms of は説明・評価の基準を導き、as の定義内容とは同じ機能ではない。what/how 節を直接目的語として置ける。define how ... は方法を直接示す形で、define something in terms of how ... のように基準を示す前置詞句の中に how 節がある形とは別。どんな that 節でもそのまま続けられると一般化しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "specify",
+          "definition": "具体的な内容や条件を明示する。",
+          "frequency": 7,
+          "difference": "define は範囲や意味を明確にする。specify は日時・数量・条件などを個別に明示することに重点があり、概念の定義を常に行う語ではない。",
+          "example": "Please specify the date and the number of participants.",
+          "translation": "日付と参加人数を明記してください。"
+        },
+        {
+          "word": "describe",
+          "definition": "どのようなものかを言葉で述べる。",
+          "frequency": 9,
+          "difference": "define は意味・範囲・本質を明確にすることに重点を置く。describe は対象の様子を詳しく述べるだけの場合もあり、必ず境界や定義を定めるわけではない。",
+          "example": "She described the room in detail.",
+          "translation": "彼女は、その部屋の様子を詳しく説明した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞：definition、可算／不可算】定義・意味の説明",
+      "frequency": 8,
+      "register": [
+        "一般・学習・議論。"
+      ],
+      "definition": "語・表現・概念が何を意味し、どこまでを含むかを示す説明。一つ一つの説明として数える用法があり、語句の意味説明については不可算用法もある。",
+      "patterns": [
+        "a definition of something",
+        "a working definition",
+        "a broad/narrow definition",
+        "a definition of what 〈節の残部〉。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a definition of something",
+          "use": "定義する対象を示す。",
+          "example": "The glossary gives a definition of each technical term.",
+          "translation": "その用語集には、一つ一つの専門用語の定義が載っている。"
+        },
+        {
+          "pattern": "a working definition",
+          "use": "当面の議論や作業に使う定義を示す。",
+          "example": "We agreed on a working definition of success for this project.",
+          "translation": "私たちは、この事業でひとまず用いる成功の定義に合意した。"
+        },
+        {
+          "pattern": "a broad/narrow definition",
+          "use": "定義の含む範囲が広いか狭いかを述べる。",
+          "example": "A narrow definition of the problem would exclude several important causes.",
+          "translation": "問題の範囲を狭く定めると、重要な原因のいくつかが除外されてしまう。"
+        },
+        {
+          "pattern": "a definition of what 〈節の残部〉",
+          "use": "定義する内容を節で示す。",
+          "example": "The group needs a clear definition of what counts as acceptable evidence.",
+          "translation": "その集団には、何を受け入れ可能な証拠とみなすかについて、明確な定義が必要だ。"
+        }
+      ],
+      "notes": [
+        "definition of の後ろには、定義する語や概念だけでなく what 節も置ける。動詞 define の直接目的語と異なり、ここでは of の目的語になる。一つ一つの定義内容は複数 definitions として数えられる。不可算用法は定義する行為だけに限らず、語句の意味説明を指す場合にもある。語義6は意味を定める行為・過程に焦点を置く。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【他動詞：再帰】自分を位置付ける・自己を規定する",
+      "frequency": 6,
+      "register": [
+        "自己認識・人物・組織の説明。"
+      ],
+      "definition": "自分がどのような人・集団であるかを、一定の役割や性質によって説明・位置付けする。",
+      "patterns": [
+        "define oneself as something",
+        "define oneself in terms of something",
+        "define oneself。"
+      ],
+      "collocations": [
+        {
+          "pattern": "define oneself as something",
+          "use": "自分をどのような存在と捉えるか述べる。",
+          "example": "She defines herself as a writer rather than a teacher.",
+          "translation": "彼女は、自分を教師というより書き手だと捉えている。"
+        },
+        {
+          "pattern": "define oneself in terms of something",
+          "use": "自分の位置付けに使う基準を示す。",
+          "example": "He refuses to define himself only in terms of his job.",
+          "translation": "彼は、自分を職業だけで規定することを拒んでいる。"
+        },
+        {
+          "pattern": "define oneself",
+          "use": "自己の位置付けを定めることを述べる。",
+          "example": "The new organization is still trying to define itself.",
+          "translation": "その新しい組織は、まだ自らの位置付けを定めようとしている。"
+        }
+      ],
+      "notes": [
+        "能動文では主語に対応する再帰代名詞を使う。as の補足は省けるが、She defines. だけで「彼女は自己を規定する」とするものではない。外部からどう扱われるかという受動文と、自らどう捉えるかという再帰文を区別する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【他動詞】本質・性格を形作る",
+      "frequency": 6,
+      "register": [
+        "一般・人物や文化の説明。"
+      ],
+      "definition": "経験・特徴・行為などが、人や物の本質的な性格を決定づける。単に言葉で説明するだけでなく、その存在をどのようなものにするかに重点がある。",
+      "patterns": [
+        "〈経験・特徴〉 + define someone/something",
+        "be defined by something",
+        "define oneself through something。"
+      ],
+      "collocations": [
+        {
+          "pattern": "〈経験・特徴〉 + define someone/something",
+          "use": "本質を形作るものを主語にする。",
+          "example": "A willingness to share knowledge defines the culture of this team.",
+          "translation": "知識を分かち合おうとする姿勢が、このチームの文化を形作っている。"
+        },
+        {
+          "pattern": "be defined by something",
+          "use": "本質を決める経験や特徴を述べる。",
+          "example": "Her career is defined by a commitment to careful research.",
+          "translation": "綿密な研究を貫く姿勢が、彼女の経歴を特徴づけている。"
+        },
+        {
+          "pattern": "define oneself through something",
+          "use": "活動を通じて自己のあり方を形作る。",
+          "example": "The artist defines herself through the work she creates.",
+          "translation": "その芸術家は、自分の作品を通じて自己のあり方を形作っている。"
+        }
+      ],
+      "notes": [
+        "by 以下はこの例では行為者ではなく、本質を形作る特徴。語義1の「著者によって定義される」という受動とは役割が異なる。再帰形でも as は自己の位置付け、through はそれを形作る活動・媒体を示し、そのまま交換する表現ではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【名詞：definition、不可算】定義すること・明確に規定すること",
+      "frequency": 6,
+      "register": [
+        "議論・研究・説明。"
+      ],
+      "definition": "語や概念の意味・範囲を明らかにすることを、行為・過程として捉える。",
+      "patterns": [
+        "require careful definition",
+        "the definition of something。"
+      ],
+      "collocations": [
+        {
+          "pattern": "require careful definition",
+          "use": "意味を慎重に定める必要があると述べる。",
+          "example": "The term requires careful definition before the results can be compared.",
+          "translation": "結果を比較する前に、その用語の意味を慎重に定める必要がある。"
+        },
+        {
+          "pattern": "the definition of something",
+          "use": "定義する行為を指す。",
+          "example": "The definition of the categories took several meetings.",
+          "translation": "カテゴリーを明確に定めるには、何度も会議を開く必要があった。"
+        }
+      ],
+      "notes": [
+        "この意味では定義すること自体を捉えるため不可算。the definition of the categories が定義の文章を指すか、定義する作業を指すかは文脈で変わる。ここでは took several meetings が行為・作業の読みを示している。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【副詞句：by definition】定義上・その意味からして",
+      "frequency": 6,
+      "register": [
+        "一般・議論・論理的説明。"
+      ],
+      "definition": "ある語や概念の意味を考えれば、その性質が当然含まれることを示す。",
+      "patterns": [
+        "By definition, 〈節〉",
+        "be, by definition, 〈補語〉。"
+      ],
+      "collocations": [
+        {
+          "pattern": "By definition, 〈節〉",
+          "use": "定義から導かれる性質を述べる。",
+          "example": "By definition, a triangle has three sides.",
+          "translation": "定義上、三角形には三つの辺がある。"
+        },
+        {
+          "pattern": "be, by definition, 〈補語〉",
+          "use": "文の途中で定義に基づく説明と示す。",
+          "example": "A temporary arrangement is, by definition, not intended to last forever.",
+          "translation": "一時的な取り決めは、その意味からして、永遠に続くことを意図したものではない。"
+        }
+      ],
+      "notes": [
+        "この句では通常 definition に冠詞を付けない。by the definition given in the report のように、特定の資料の定義を指す形とは区別する。「定義上」と言えば主張が自動的に正しくなるわけではなく、採用している定義と内容が一致している必要がある。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【形容詞：defining】本質を示す・特徴を決定づける",
+      "frequency": 6,
+      "register": [
+        "一般・分析・評価。"
+      ],
+      "definition": "その人や物をどのようなものと捉えるかに関わる、重要な特徴を示す。単に付随する小さな特徴ではなく、性格の中心になる性質や、それを明瞭に示す時点・出来事を表す。出来事がその後を方向付ける場合もあるが、後に変化を起こすことは必須ではない。",
+      "patterns": [
+        "a defining feature",
+        "a defining characteristic",
+        "a defining moment",
+        "a defining event in something。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a defining feature",
+          "use": "対象の性格を捉える中心的な特徴を指す。",
+          "example": "Cooperation is a defining feature of the team's working style.",
+          "translation": "協力することが、そのチームの仕事の進め方を特徴づけている。"
+        },
+        {
+          "pattern": "a defining characteristic",
+          "use": "本質的な性質を示す。",
+          "example": "The ability to adapt is a defining characteristic of this organization.",
+          "translation": "適応する力が、この組織の本質的な特徴だ。"
+        },
+        {
+          "pattern": "a defining moment",
+          "use": "人や物の本質が明瞭に表れたり、その後のあり方を形作ったりする重要な時点を述べる。",
+          "example": "Opening the first workshop was a defining moment in her career.",
+          "translation": "最初の工房を開いたことは、彼女のその後の仕事を方向付ける決定的な出来事だった。"
+        },
+        {
+          "pattern": "a defining event in something",
+          "use": "歴史や活動の性格を形作った出来事を指す。",
+          "example": "The merger was a defining event in the company's history.",
+          "translation": "その合併は、会社の歴史を方向付ける出来事だった。"
+        }
+      ],
+      "notes": [
+        "ここでは名詞の前で特徴や出来事の性質を述べる形容詞。defining moment は本質がはっきり表れる重要な時点にも、将来を方向付ける出来事にも使い、必ず成功や改善を意味するわけではない。They are defining the term. の defining は、動詞の進行形を構成する別の使い方である。単に「良い・重要な」と言い換えるだけでは、対象を特徴づけるという意味が抜ける。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 9,
+      "title": "【他動詞】輪郭・境界をはっきり示す",
+      "frequency": 5,
+      "register": [
+        "描写・視覚・形状の説明。"
+      ],
+      "definition": "線・形・縁などを、周囲と区別できるようにはっきりさせる。",
+      "patterns": [
+        "define the outline of something",
+        "be sharply defined against something",
+        "define the edge of something。"
+      ],
+      "collocations": [
+        {
+          "pattern": "define the outline of something",
+          "use": "形の輪郭を目立たせる。",
+          "example": "The light from the window defined the outline of her face.",
+          "translation": "窓からの光が、彼女の顔の輪郭をはっきり浮かび上がらせた。"
+        },
+        {
+          "pattern": "be sharply defined against something",
+          "use": "背景との対比で形が明瞭に見えると述べる。",
+          "example": "The tower was sharply defined against the evening sky.",
+          "translation": "夕空を背景に、塔の輪郭がくっきりと見えた。"
+        },
+        {
+          "pattern": "define the edge of something",
+          "use": "物の縁を明瞭にする。",
+          "example": "A thin dark line defines the edge of each panel.",
+          "translation": "細い暗色の線が、一枚一枚のパネルの縁をはっきり示している。"
+        }
+      ],
+      "notes": [
+        "ここでの define は形を辞書のように説明することではない。against の後ろは視覚的な背景であり、as の定義内容や by の行為者・特徴とは異なる。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 10,
+      "title": "【名詞：definition、不可算】鮮明さ・明瞭度",
+      "frequency": 5,
+      "register": [
+        "画像・映像・視覚的な形状。"
+      ],
+      "definition": "像や輪郭がはっきりしていること。また、機器が像を明瞭に示せる程度。",
+      "patterns": [
+        "the definition of an image",
+        "lose definition",
+        "improve definition。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the definition of an image",
+          "use": "画像の明瞭さを述べる。",
+          "example": "The definition of the image improved when I adjusted the focus.",
+          "translation": "ピントを合わせると、画像がより鮮明になった。"
+        },
+        {
+          "pattern": "lose definition",
+          "use": "輪郭などが不明瞭になると述べる。",
+          "example": "The distant buildings lost definition as the mist thickened.",
+          "translation": "霧が濃くなるにつれて、遠くの建物の輪郭がぼやけた。"
+        },
+        {
+          "pattern": "improve definition",
+          "use": "像をよりはっきり見えるようにする。",
+          "example": "Better lighting helped improve definition around the edges of the object.",
+          "translation": "照明を改善すると、その物体の縁がよりはっきり見えるようになった。"
+        }
+      ],
+      "notes": [
+        "この意味では、言葉の「定義」ではなく像の明瞭さを表す不可算名詞。high definition という表現にも現れるが、具体的な画素数や機器の規格は、この名詞だけから一律には決まらない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 11,
+      "title": "【形容詞：well-defined】内容・範囲が明確な",
+      "frequency": 5,
+      "register": [
+        "一般・業務・研究。"
+      ],
+      "definition": "役割・目標・区分などの内容や範囲が明瞭で、理解しやすい。",
+      "patterns": [
+        "a well-defined role",
+        "well-defined objectives",
+        "be well defined。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a well-defined role",
+          "use": "何を担当するか明確な役割を指す。",
+          "example": "Each member has a well-defined role in the project.",
+          "translation": "各メンバーには、事業の中で明確な役割がある。"
+        },
+        {
+          "pattern": "well-defined objectives",
+          "use": "達成すべき内容が明確な目標を述べる。",
+          "example": "The course begins with a set of well-defined objectives.",
+          "translation": "その講座は、明確に定められた一連の目標から始まる。"
+        },
+        {
+          "pattern": "be well defined",
+          "use": "内容がはっきりしていると述べる。",
+          "example": "The categories are well defined, so most cases are easy to classify.",
+          "translation": "区分が明確なので、ほとんどの事例は簡単に分類できる。"
+        }
+      ],
+      "notes": [
+        "名詞の前では well-defined とハイフンで結び、叙述では well defined と離す表記がよく使われる。well は定義の内容・明瞭さを評価し、社会的に良い役割や容易に達成できる目標と断言するものではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 12,
+      "title": "【形容詞：well-defined】輪郭がくっきりした",
+      "frequency": 4,
+      "register": [
+        "視覚的な形状・描写。"
+      ],
+      "definition": "形や境界が周囲から明瞭に区別できる。",
+      "patterns": [
+        "a well-defined outline",
+        "well-defined edges。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a well-defined outline",
+          "use": "はっきり見える輪郭を述べる。",
+          "example": "The photograph shows a well-defined outline of the tower against the pale sky.",
+          "translation": "その写真では、薄い色の空を背景に、塔の輪郭がくっきり見える。"
+        },
+        {
+          "pattern": "well-defined edges",
+          "use": "縁が鮮明に見えることを述べる。",
+          "example": "The sharper image has well-defined edges.",
+          "translation": "より鮮明な画像では、縁がはっきり見える。"
+        }
+      ],
+      "notes": [
+        "語義11が内容の理解しやすさを表すのに対し、ここでは見た目の明瞭さを表す。形の説明が文章で詳しく書かれているという意味ではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 13,
+      "title": "【形容詞：ill-defined】内容・範囲が曖昧な",
+      "frequency": 4,
+      "register": [
+        "一般・業務・批評。"
+      ],
+      "definition": "役割や目標などの内容・範囲が明確に示されていない。",
+      "patterns": [
+        "an ill-defined role",
+        "remain ill-defined。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an ill-defined role",
+          "use": "担当範囲が曖昧な役割を指す。",
+          "example": "An ill-defined role left her unsure which decisions she could make.",
+          "translation": "役割が曖昧だったため、彼女はどの決定を自分で下してよいのか分からなかった。"
+        },
+        {
+          "pattern": "remain ill-defined",
+          "use": "内容が明確でない状態の継続を述べる。",
+          "example": "The goals remained ill-defined even after the meeting.",
+          "translation": "会議の後も、目標は曖昧なままだった。"
+        }
+      ],
+      "notes": [
+        "ill はここでは定義・記述が十分でないことを示し、病気という意味ではない。叙述位置でも ill-defined とハイフンを保つ表記があるため、well defined と全く同じ表記規則を機械的に当てはめない。"
+      ],
+      "synonyms": [
+        {
+          "word": "vague",
+          "definition": "内容・境界などがはっきりしない。",
+          "frequency": 7,
+          "difference": "ill-defined は内容や範囲の定め方が不明瞭であることを強調する。vague は記憶・感覚・返答などにも広く使い、明確に定める行為の有無を必ず問題にするわけではない。",
+          "example": "His reply was vague about the timing.",
+          "translation": "彼の返答は、時期について曖昧だった。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 14,
+      "title": "【形容詞：undefined】明確に定められていない・未定義の",
+      "frequency": 4,
+      "register": [
+        "一般・説明。"
+      ],
+      "definition": "内容・範囲・条件などが明確にされていない。",
+      "patterns": [
+        "an undefined period",
+        "remain undefined",
+        "an undefined role。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an undefined period",
+          "use": "どれほどの期間か定まっていないと述べる。",
+          "example": "The arrangement will continue for an undefined period.",
+          "translation": "その取り決めは、期間を定めずに継続する。"
+        },
+        {
+          "pattern": "remain undefined",
+          "use": "内容が明確になっていない状態の継続を述べる。",
+          "example": "Several key terms remain undefined in the document.",
+          "translation": "その文書では、重要な用語のいくつかが定義されないままになっている。"
+        },
+        {
+          "pattern": "an undefined role",
+          "use": "何を担当するか定められていない役割を述べる。",
+          "example": "He joined the group with an undefined role.",
+          "translation": "彼は、役割が明確に定まらないまま、その集団に加わった。"
+        }
+      ],
+      "notes": [
+        "定められていないという状態を表し、今後必ず定義されるという予測は含まない。「まだ」を添える訳は、その文脈で今後の明確化が想定される場合に限る。数学やプログラミングでの専門的な使い方は、個々の定義や体系に従って解釈する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 15,
+      "title": "【形容詞：defining、文法】限定用法の・指示対象を絞る",
+      "frequency": 3,
+      "register": [
+        "英文法。"
+      ],
+      "definition": "関係節について、どの人や物を指すかを絞り込む情報を与える。すでに特定された対象への付加情報を述べる働きとは区別される。",
+      "patterns": [
+        "a defining relative clause",
+        "a defining clause。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a defining relative clause",
+          "use": "指示対象を特定する関係節を指す。",
+          "example": "In the phrase \"the keys that open this door\", \"that open this door\" is a defining relative clause.",
+          "translation": "「このドアを開ける鍵」という句では、「このドアを開ける」に当たる部分が、どの鍵かを絞る限定関係節だ。"
+        },
+        {
+          "pattern": "a defining clause",
+          "use": "文法上の限定する働きを述べる。",
+          "example": "The defining clause identifies which students should attend the meeting.",
+          "translation": "その限定節によって、どの学生が会議に出席すべきかが特定される。"
+        }
+      ],
+      "notes": [
+        "restrictive とも呼ぶ。単に文の内容が重要そうだからこの名称になるのではなく、指示対象を絞るという働きによる。一般の「決定的な出来事」という語義8と混同しない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 16,
+      "title": "【形容詞：definable】意味を定義できる",
+      "frequency": 3,
+      "register": [
+        "言語・概念・議論。"
+      ],
+      "definition": "語や表現について、その意味を明確に説明できる。",
+      "patterns": [
+        "be easily definable",
+        "a definable term。"
+      ],
+      "collocations": [
+        {
+          "pattern": "be easily definable",
+          "use": "語の意味を容易に定められるか述べる。",
+          "example": "The term is useful, but it is not easily definable.",
+          "translation": "その用語は便利だが、意味を簡単には定義できない。"
+        },
+        {
+          "pattern": "a definable term",
+          "use": "意味を明確に説明できる語を指す。",
+          "example": "We need a clearly definable term, not a vague label that every reader interprets differently.",
+          "translation": "読み手ごとに違って受け取る曖昧な呼び名ではなく、意味を明確に定義できる用語が必要だ。"
+        }
+      ],
+      "notes": [
+        "able は可能性に関わる。definable 自体が「簡単に定義できる」とまで意味するわけではなく、easily などが容易さを補う。定義がすでに与えられている defined と区別する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 17,
+      "title": "【形容詞：definable】明確に特定・記述できる",
+      "frequency": 3,
+      "register": [
+        "業務・分析・説明。"
+      ],
+      "definition": "問題・目標・性質などについて、何であるかを正確に捉えて示せる。語の辞書的な意味だけに対象を限定しない。",
+      "patterns": [
+        "a clearly definable problem",
+        "a definable goal。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a clearly definable problem",
+          "use": "内容を明確に特定できる問題を指す。",
+          "example": "The team needs a clearly definable problem before it can test possible solutions.",
+          "translation": "解決策を試すには、まず、何であるかを明確に特定できる問題がチームに必要だ。"
+        },
+        {
+          "pattern": "a definable goal",
+          "use": "何を達成するか明示できる目標を指す。",
+          "example": "Each stage should have a definable goal rather than a vague hope of improvement.",
+          "translation": "各段階には、漠然と改善を期待するのではなく、明確に示せる目標を設けるべきだ。"
+        }
+      ],
+      "notes": [
+        "問題や目標の内容を捉えられることをいう。目標の達成可能性や、問題を実際に解決できることまで保証する形容詞ではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 18,
+      "title": "【形容詞：ill-defined】輪郭・目印がはっきりしない",
+      "frequency": 3,
+      "register": [
+        "道・地形・視覚的な描写。"
+      ],
+      "definition": "道や形などの境目が明確でなく、見分けにくい。",
+      "patterns": [
+        "an ill-defined path",
+        "an ill-defined outline。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an ill-defined path",
+          "use": "道筋がはっきり分からない道を指す。",
+          "example": "We followed an ill-defined path across the grass.",
+          "translation": "草地を横切る、道筋のはっきりしない小道をたどった。"
+        },
+        {
+          "pattern": "an ill-defined outline",
+          "use": "形の輪郭が曖昧に見えると述べる。",
+          "example": "Only an ill-defined outline of the building was visible through the fog.",
+          "translation": "霧の向こうには、建物のぼんやりした輪郭だけが見えた。"
+        }
+      ],
+      "notes": [
+        "この用法は、道についての言葉による説明が曖昧だという意味とは限らない。見えている線や形そのものの不明瞭さが中心になる。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 19,
+      "title": "【形容詞：indefinable】言い表しがたい・明確に説明できない",
+      "frequency": 3,
+      "register": [
+        "感覚・魅力・性質の描写。"
+      ],
+      "definition": "感じ取れる性質などを、明確な言葉で説明・特定することが難しい、または不可能な。",
+      "patterns": [
+        "an indefinable quality",
+        "an indefinable something",
+        "in some indefinable way。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an indefinable quality",
+          "use": "言葉にしにくい性質を述べる。",
+          "example": "Her performance had an indefinable quality that held the audience's attention.",
+          "translation": "彼女の演技には、観客を引き付ける、言葉にしにくい何かがあった。"
+        },
+        {
+          "pattern": "an indefinable something",
+          "use": "明確には説明できない何かを指す。",
+          "example": "There was an indefinable something about the room that made it feel welcoming.",
+          "translation": "その部屋には、居心地よく感じさせる、何とも言い表せないものがあった。"
+        },
+        {
+          "pattern": "in some indefinable way",
+          "use": "どういう点か明示できないと述べる。",
+          "example": "In some indefinable way, the place reminded me of home.",
+          "translation": "どういうわけかうまく言えないが、その場所は故郷を思い出させた。"
+        }
+      ],
+      "notes": [
+        "「定義できない」と訳せても、常に論理的な不可能を断言するわけではなく、説明の難しさを表す場合もある。対象がまだ明確に定められていない undefined と、言い表しにくい indefinable を区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "indescribable",
+          "definition": "言葉では十分に表せない。",
+          "frequency": 4,
+          "difference": "indefinable は性質を明確に捉えて説明しにくいことに重点がある。indescribable は強い感情や体験などが言葉で十分に伝えられない場合にも使う。",
+          "example": "She felt indescribable joy when the letter arrived.",
+          "translation": "手紙が届いたとき、彼女は言葉にできないほどの喜びを感じた。"
+        }
+      ],
+      "antonyms": []
+    }
+  ]
+}
