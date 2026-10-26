@@ -3,7 +3,7 @@
   "slug": "neglect",
   "ipa": "米・英: /nɪˈɡlekt/。2音節で、第2音節に強勢がある。第1音節は /nɪ/、第2音節では母音 /e/ の前に /ɡl/、後に /kt/ が続く。語末の /k/・/t/ の間や後ろに、日本語の母音を挟まない。neglected は /nɪˈɡlektɪd/ となり、-ed の /ɪd/ が第3音節を作る。",
   "lead": "人・動物・物などに必要な世話や手入れを十分にしないこと。完全に何もしない場合だけでなく、必要な程度に達していない場合も含む。",
-  "updated": "2026-10-25",
+  "updated": "2026-10-26",
   "notion_url": "https://app.notion.com/p/neglect-4044faa9b77d810a9b96cc30607e9613",
   "pronunciation": [],
   "etymology": [
@@ -185,6 +185,14 @@
           "difference": "気づかなかったという場面に向く。neglect は対象を知っていても適切に扱わないことを表せる。",
           "example": "I overlooked a small error in the final paragraph.",
           "translation": "最後の段落にあった小さな誤りを、私は見落とした。"
+        },
+        {
+          "word": "disregard",
+          "definition": "注意を払わず、考慮に入れない。",
+          "frequency": 6,
+          "difference": "disregard は、知っていても意に介さないという意図的な扱いを示しやすい。neglect は必要な対応・注意の不足に焦点があり、故意にも不注意にもよる。どちらも、無視された内容自体が正しいと保証する語ではない。",
+          "example": "He disregarded the warning and continued with the plan.",
+          "translation": "彼は警告を意に介さず、計画を進めた。"
         }
       ],
       "antonyms": []
@@ -321,7 +329,8 @@
         }
       ],
       "notes": [
-        "対象の質が悪いという意味ではなく、十分に関心・世話を受けていないこと。優れた作品でも neglected と言える。by句を伴う be neglected は、出来事の受動にも状態の説明にもなり得るため、by の有無だけで区別しない。"
+        "対象の質が悪いという意味ではなく、十分に関心・世話を受けていないこと。優れた作品でも neglected と言える。by句を伴う be neglected は、出来事の受動にも状態の説明にもなり得るため、by の有無だけで区別しない。",
+        "人について feel neglected と feel slighted を比べると、前者は十分に気にかけてもらえないと感じること、後者は軽んじられた・失礼に扱われたと感じることに焦点がある。例えば、He felt slighted when the chair dismissed his contribution without discussion. は「議長が彼の意見を議論もせず退けたとき、彼は軽んじられたと感じた」。無視されたため両方を感じることもあるが、世話や関心の不足と、敬意を欠く扱いとは同一ではない。"
       ],
       "synonyms": [],
       "antonyms": []
