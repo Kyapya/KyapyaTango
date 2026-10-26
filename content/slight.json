@@ -3,7 +3,7 @@
   "slug": "slight",
   "ipa": "米・英: /slaɪt/。1音節で、第1音節の母音は二重母音 /aɪ/。語末は /t/ で、slit /slɪt/ と母音を区別する。slights /slaɪts/、slighted /ˈslaɪtɪd/、slighting /ˈslaɪtɪŋ/。後ろ2形は2音節となり、強勢は第1音節の /aɪ/ に置く。派生副詞 slightly は米・英 /ˈslaɪtli/ で2音節、第1音節 /aɪ/ に強勢、第2音節の母音は /i/。",
   "lead": "量・変化・差・感覚などの程度が小さいこと。存在しないという意味ではなく、何と比べて小さいかは文脈で決まる。",
-  "updated": "2026-10-25",
+  "updated": "2026-10-26",
   "notion_url": "https://app.notion.com/p/slight-4044faa9b77d81ed8841c5bf4e160c0d",
   "pronunciation": [],
   "etymology": [
@@ -173,6 +173,22 @@
           "difference": "増減・優位性などの比較を分析的に述べるときによく使う。slight は日常の感覚や動きにも広く使える。",
           "example": "The revised design offers only a marginal improvement.",
           "translation": "修正した設計による改善は、ごくわずかにとどまる。"
+        },
+        {
+          "word": "tiny",
+          "definition": "量・差などが非常に小さい。",
+          "frequency": 7,
+          "difference": "tiny は小ささを強く打ち出す。slight difference と tiny difference は重なるが、tiny は物の寸法にも広く使う一方、slight はそのまま全対象へ置き換えられない。程度の境界が数値で決まるわけではない。",
+          "example": "A tiny change in the settings altered the result.",
+          "translation": "設定のごくわずかな変更で、結果が変わった。"
+        },
+        {
+          "word": "negligible",
+          "definition": "小さく、考慮するほどではない。",
+          "frequency": 6,
+          "difference": "negligible は考慮しなくてよいほどだという評価を含む。slight は程度が小さいことを表し、その差や影響が重要でないとは限らない。",
+          "example": "The difference in cost was negligible.",
+          "translation": "費用の差は、無視できるほど小さかった。"
         }
       ],
       "antonyms": [
@@ -291,7 +307,8 @@
         }
       ],
       "notes": [
-        "in the slightest を無条件に肯定の「ほんの少し」として使うのではなく、この慣用義では否定との組合せを押さえる。not を落とすと同じ意味にはならない。語義1の the slightest noise は名詞句であり、この副詞句とは構造が違う。"
+        "in the slightest を無条件に肯定の「ほんの少し」として使うのではなく、この慣用義では否定との組合せを押さえる。not を落とすと同じ意味にはならない。語義1の the slightest noise は名詞句であり、この副詞句とは構造が違う。",
+        "程度を全面的に否定する not at all と意味が重なるが、not … in the slightest は「最小限さえない」と強調する。not at all には礼への応答など別の使い方もあるため、どの場面でも in the slightest に置き換えるわけではない。"
       ],
       "synonyms": [],
       "antonyms": []
@@ -349,6 +366,14 @@
           "difference": "小柄であることは含まない。背が高くて thin な人もいる。",
           "example": "He is tall and thin.",
           "translation": "彼は背が高く、痩せている。"
+        },
+        {
+          "word": "slim",
+          "definition": "体つきがほっそりしている。",
+          "frequency": 7,
+          "difference": "slim は体の細さに焦点があり、slight は細さに加えて体格の小ささも捉えやすい。細身であるだけで、身長が低い、身体が弱いと必ず判断できるわけではない。",
+          "example": "He is tall and slim, with long arms.",
+          "translation": "彼は背が高く細身で、腕が長い。"
         }
       ],
       "antonyms": []
@@ -485,7 +510,8 @@
         }
       ],
       "notes": [
-        "They slighted her は行為者が主語、She was slighted by them は受動態、She felt slighted は本人の感情を中心に述べる。feel は受動態を作る助動詞ではない。slighted を形容詞 slight「わずかな」の過去形と考えない。"
+        "They slighted her は行為者が主語、She was slighted by them は受動態、She felt slighted は本人の感情を中心に述べる。feel は受動態を作る助動詞ではない。slighted を形容詞 slight「わずかな」の過去形と考えない。",
+        "feel neglected は、世話や関心を十分に向けてもらえないと感じること。feel slighted は敬意を欠く扱いを受けたという気持ちに焦点がある。関心を向けられないことが軽視にも感じられる場合は重なるが、世話の不足と侮辱的な扱いを同じものとして決めつけない。"
       ],
       "synonyms": [],
       "antonyms": []
@@ -520,7 +546,16 @@
       "notes": [
         "slight novel は単に短い小説という意味ではない。短くても中身の濃い作品はあり得る。この評価義を、人の体格を描く語義4に持ち込んで「細身の人は重要でない」と解釈しない。"
       ],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "trivial",
+          "definition": "重要性や深刻さに乏しく、真剣に考えるほどではない。",
+          "frequency": 7,
+          "difference": "trivial は問題・細部などを取るに足りないと評価する一般的な語。この意味の slight は、作品や内容の実質・重みの乏しさを述べる批評に使われ、単なる長さの短さではない。",
+          "example": "The discussion became bogged down in trivial details.",
+          "translation": "話し合いは、取るに足りない細部にとらわれて進まなくなった。"
+        }
+      ],
       "antonyms": []
     },
     {
