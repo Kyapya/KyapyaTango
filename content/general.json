@@ -230,7 +230,16 @@
       "notes": [
         "general practice はこの例では通常の慣行を表す。医療分野で使われる同じ形の専門表現とは区別する。as a general rule「通常は」は rule の記事で扱う関連表現で、例外を排除する絶対的な規則という意味ではない。"
       ],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "usual",
+          "definition": "多くの場合に起こる・行われる、または普段使われる・選ばれる。",
+          "frequency": 8,
+          "difference": "general は多数の事例に見られる全般的な傾向を述べるのに適する。usual は一人の習慣やいつもの物にも使え、my usual seat は「私のいつもの席」であって、my general seat とは普通いわない。通常の慣行を表す general practice と usual practice は重なる。",
+          "example": "I took my usual seat near the window.",
+          "translation": "私は、窓際のいつもの席に座った。"
+        }
+      ],
       "antonyms": []
     },
     {
@@ -284,6 +293,14 @@
           "difference": "general は主要点だけを明確に述べた説明にも使える。vague は情報や境界の不明確さを表す。",
           "example": "The reply was vague about the delivery date.",
           "translation": "その返答は、納品日について曖昧だった。"
+        },
+        {
+          "word": "overall",
+          "definition": "関係する各部分を含め、全体として捉えた。",
+          "frequency": 7,
+          "difference": "general が細部に立ち入らない概略性を表すのに対し、overall は部分をまとめた全体への視点を強調する。general picture と overall picture は重なるが、overall cost は費用の総額を指せるので、単に大まかな費用という意味にしない。形容詞の overall は名詞の前で使う。",
+          "example": "The diagram shows the overall structure of the system.",
+          "translation": "その図は、システムの全体構造を示している。"
         }
       ],
       "antonyms": [
@@ -326,7 +343,16 @@
       "notes": [
         "文頭でも文末でも使えるが、どの語句をまとめて論じているかによって解釈が変わる。people in general のように名詞の後ろで集団全体を指す用法とは区別する。always のように例外がないことを断言する表現ではない。"
       ],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "generally",
+          "definition": "多くの場合に・通常は。",
+          "frequency": 8,
+          "difference": "通常の傾向を述べる in general と重なるが、generally は動詞の前などにも置ける。in general を同じ位置へ機械的に移すのではなく、文全体に添える形を基本に考える。また generally には、語義6の広い共有や語義13の概括的な説明という別の読みもある。",
+          "example": "I generally leave home before eight.",
+          "translation": "私は、たいてい8時前に家を出る。"
+        }
+      ],
       "antonyms": []
     },
     {
@@ -905,7 +931,8 @@
         }
       ],
       "notes": [
-        "英国では generalised とも綴る。形は generalize の過去分詞と同じだが、ここでは説明や議論の性質を示す形容詞として扱う。主に名詞の前に置く。"
+        "英国では generalised とも綴る。形は generalize の過去分詞と同じだが、ここでは説明や議論の性質を示す形容詞として扱う。主に名詞の前に置く。",
+        "general description と generalized description は、細部に踏み込まない説明という点で重なる。ただし general の全用法を generalized へ置換できるわけではなく、一般の人々を表す the general public を the generalized public とは普通いわない。"
       ],
       "synonyms": [],
       "antonyms": []
@@ -971,7 +998,16 @@
       "notes": [
         "この意味では generalities という複数形が多い。具体性を求める場面では批判的に使われやすいが、単語だけで意図的な嘘だと断定するものではない。"
       ],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "generalization",
+          "definition": "個々の例から、より広い範囲に当てはまる内容として述べた判断。",
+          "frequency": 5,
+          "difference": "generality は、細部に踏み込まない一般的な言明であることに重点を置く。generalization は、個々の例から判断を広げることに重点を置く。大ざっぱな一般化が generality にもなるなど重なりはあるが、どちらも必ず虚偽という意味ではない。",
+          "example": "That generalization is based on only three cases.",
+          "translation": "その一般的な判断は、たった三つの事例に基づいている。"
+        }
+      ],
       "antonyms": []
     },
     {
