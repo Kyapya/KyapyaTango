@@ -3,7 +3,7 @@
   "slug": "revive",
   "ipa": "米・英: /rɪˈvaɪv/。2音節で第2音節に強勢がある。第1音節の母音は /ɪ/、第2音節の母音は二重母音 /aɪ/。revives は /rɪˈvaɪvz/、revived は /rɪˈvaɪvd/、reviving は /rɪˈvaɪvɪŋ/。revived の -ed は /d/ で、独立した音節を足さない。",
   "lead": "人が失っていた意識や体力を取り戻すこと。また、弱っていた植物などが生気を取り戻すこと。人に使っても、必ず死亡後の復活を意味するわけではない。",
-  "updated": "2026-10-25",
+  "updated": "2026-10-26",
   "notion_url": "https://app.notion.com/p/revive-4044faa9b77d8170adc6de42103f1d92",
   "pronunciation": [],
   "etymology": [
@@ -105,6 +105,22 @@
           "difference": "主に英国の日常的な表現で、come around という対応形もある。意識の回復に焦点がある。revive の植物・体力回復全体には置き換えられない。",
           "example": "When he came round, he asked where he was.",
           "translation": "意識を取り戻すと、彼はここはどこかと尋ねた。"
+        },
+        {
+          "word": "come to",
+          "definition": "意識を取り戻す。",
+          "frequency": 6,
+          "difference": "この意味では come round と同じく意識回復を表す。revive の元気・生気の回復より範囲が狭く、植物が元気になる場合には使わない。この句の to の後ろに目的語を置く必要はない。",
+          "example": "When she came to, she recognized the room.",
+          "translation": "意識を取り戻すと、彼女はその部屋に見覚えがあると気づいた。"
+        },
+        {
+          "word": "recover",
+          "definition": "病気などから回復し、通常の状態に戻る。",
+          "frequency": 8,
+          "difference": "recover は健康などの通常の状態への回復を広く表し、recover from a cold のように何から回復するかを from で示せる。revive は失われたり弱まったりした意識・生気が戻る点を捉える。recover consciousness では回復する本人が主語で、取り戻す意識が目的語になる。revive someone では回復させる側が主語で、回復する人が目的語になるため、目的語の役割を取り違えない。",
+          "example": "She is recovering from a bad cold.",
+          "translation": "彼女は、ひどい風邪から回復しつつある。"
         }
       ],
       "antonyms": []
@@ -211,6 +227,14 @@
           "difference": "下落後の反発に焦点がある。revive は活動や人気が再び生き返るような変化を広く述べる。",
           "example": "Sales rebounded in the final quarter.",
           "translation": "売上は最終四半期に持ち直した。"
+        },
+        {
+          "word": "recover",
+          "definition": "悪化した経済などが、通常の状態を取り戻していく。",
+          "frequency": 7,
+          "difference": "recover は悪化からの回復を広く述べ、revive は活動が再び活発になる点を捉える。経済の回復では両語が重なるため、急回復と緩やかな回復などの速さで一律に区分しない。",
+          "example": "The economy began to recover after a long recession.",
+          "translation": "長い不況の後、経済は回復し始めた。"
         }
       ],
       "antonyms": []
@@ -358,6 +382,14 @@
           "difference": "改まった文章にも使う語で、火をもう一度燃え立たせる比喩がある。愛情・情熱・関心などとの結び付きが強い。revive は記憶の想起にも使う。",
           "example": "The trip rekindled her love of the sea.",
           "translation": "その旅行で、彼女の海への愛着が再び強くなった。"
+        },
+        {
+          "word": "refresh someone's memory",
+          "definition": "人に忘れかけていたことを思い出させる。",
+          "frequency": 6,
+          "difference": "記録を見たり説明を聞いたりして記憶を確かめ直す場面に使う。revive memories は以前の思い出をよみがえらせることを述べ、revive の関心・恐れの再燃まで、この memory を含む句で言い換えるわけではない。",
+          "example": "Reading the minutes refreshed my memory of the discussion.",
+          "translation": "議事録を読むと、その話し合いの内容を思い出した。"
         }
       ],
       "antonyms": []
