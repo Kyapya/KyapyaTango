@@ -3,7 +3,7 @@
   "slug": "character",
   "ipa": "米: /ˈkærəktər/・/ˈkærɪktər/｜英: /ˈkærəktə(r)/・/ˈkærɪktə(r)/。3音節で、第1音節の母音 /æ/ に強勢、第2音節は示した各変異により /ə/ または /ɪ/。第3音節は、示した米語形では /ər/、英語形では /ə(r)/ で、英語形の括弧の r は後ろに母音が続く場合などに発音される。語頭の ch は /k/ であり、chair の /tʃ/ ではない。第2音節の /ə/ と /ɪ/ の違いは、米英を一律に分ける対立ではない。",
   "lead": "人の考え方・行動傾向・道徳的な資質など、その人をその人らしくしている性質のまとまり。良い性格だけを意味するわけではない。",
-  "updated": "2026-10-25",
+  "updated": "2026-10-26",
   "notion_url": "https://app.notion.com/p/character-4044faa9b77d81ed95eec8e3ed0d022f",
   "pronunciation": [],
   "etymology": [
@@ -350,7 +350,40 @@
       "notes": [
         "in character が常に「役になりきって」ではない。informal in character のように形容詞を伴う場合、ここでは「性質として形式ばらない」の意。物事に personality があると言う擬人的な表現とは区別する。"
       ],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "nature",
+          "definition": "物事がもともと持つ性質・本質。",
+          "frequency": 8,
+          "difference": "nature は物事の基本的なあり方に焦点を置き、character はその物事や種類を特徴づける性質を捉える。similar in nature と similar in character のように重なる場合も多く、本質と表面的特徴の厳密な二分ではない。",
+          "example": "Their complaints differed in detail but were similar in nature.",
+          "translation": "彼らの苦情は細部こそ違ったが、性質は似ていた。"
+        },
+        {
+          "word": "quality",
+          "definition": "人や物を特徴づける性質・特性。",
+          "frequency": 8,
+          "difference": "この意味の quality は個々の性質を述べる広い語で、良い性質に限らない。character は特徴的なあり方や全体的な性格を述べやすい。quality の「品質の良さ」という別義を、この比較へそのまま持ち込まない。",
+          "example": "The voice had a warm, reassuring quality.",
+          "translation": "その声には、温かく安心させる響きがあった。"
+        },
+        {
+          "word": "property",
+          "definition": "物に備わる、特徴的な性質・特性。",
+          "frequency": 7,
+          "difference": "property は物質などが持つ性質を、個別の特徴として説明する際に使う。character は全体の性質・特色にも使い、町の雰囲気などを自由に property と置き換えるわけではない。この比較で property は所有物や不動産を意味しない。",
+          "example": "Elasticity is an important property of this material.",
+          "translation": "弾性は、この素材の重要な性質だ。"
+        },
+        {
+          "word": "attribute",
+          "definition": "人や物に備わるものとして捉えられる特質。",
+          "frequency": 6,
+          "difference": "attribute は個々の特質に焦点があり、対象について認めたり帰属させたりする性質を述べる。character はその対象らしい性質や全体的なあり方を捉える。attribute と呼ぶだけで、その特質が客観的に証明されたことになるわけではない。",
+          "example": "Patience is a useful attribute for a teacher.",
+          "translation": "忍耐力は、教師にとって役立つ資質だ。"
+        }
+      ],
       "antonyms": []
     },
     {
@@ -389,7 +422,8 @@
         }
       ],
       "notes": [
-        "show a character とすると通常は、ある人物・文字を示すなど別の構造になる。この不可算義の character は、目立つ個性や話の面白さだけではない。good character/bad character と修飾する場合は、資質の良し悪しを明示して評価する。"
+        "show a character とすると通常は、ある人物・文字を示すなど別の構造になる。この不可算義の character は、目立つ個性や話の面白さだけではない。good character/bad character と修飾する場合は、資質の良し悪しを明示して評価する。",
+        "関連語 integrity は、誠実さや道徳的な原則を守る姿勢に焦点を置く。この意味の character と重なるが、逆境で粘り強く戦う精神的な強さなど、character の評価範囲すべてを integrity で表すわけではない。性格一般をいう語義1の character も、常に高潔さを意味するわけではない。"
       ],
       "synonyms": [],
       "antonyms": []
