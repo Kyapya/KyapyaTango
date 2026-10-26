@@ -3,7 +3,7 @@
   "slug": "consequence",
   "ipa": "米: /ˈkɑːnsɪkwens/｜英: /ˈkɒnsɪkwəns/。3音節で第1音節に強勢がある。ここで示した英米の表記では、第1音節の母音が米 /ɑː/・英 /ɒ/、第3音節の母音が米 /e/・英 /ə/ で異なり、第2音節はどちらも /ɪ/。米音でも弱い /ə/ を示す辞書があり、示した一形だけを唯一の発音とはしない。複数形 consequences では、もとの語末 /s/ の後に /ɪz/ が付いて1音節増える。",
   "lead": "行為・出来事・状況などから生じる結果や、その後に及ぶ影響。悪い結果や予期しなかった結果を話題にすることが多いが、好ましい結果にも使う。直接・間接、意図的・意図しないという違いだけで別の意味になるわけではない。",
-  "updated": "2026-10-25",
+  "updated": "2026-10-26",
   "notion_url": "https://app.notion.com/p/consequence-4044faa9b77d8101a4a5e02a4c081386",
   "pronunciation": [],
   "etymology": [
@@ -179,6 +179,22 @@
           "translation": "交渉がどのような結果になるか、誰にも予測できなかった。"
         },
         {
+          "word": "impact",
+          "definition": "人や物事に及ぼす大きな影響。",
+          "frequency": 8,
+          "difference": "impact は影響の強さに焦点を当て、consequence は先行する行為・出来事から生じる結果に焦点を当てる。consequence が常に小さな影響、impact が常に悪影響という区分ではなく、同じ出来事を異なる焦点で述べる場合もある。",
+          "example": "The factory closure had a major impact on the town's economy.",
+          "translation": "工場の閉鎖は、町の経済に大きな影響を及ぼした。"
+        },
+        {
+          "word": "implication",
+          "definition": "行為や決定などから生じ得る影響・結果。",
+          "frequency": 7,
+          "difference": "この意味では implications と複数で使うことが多く、ある事柄が何につながり得るかを検討する場面に向く。consequence も将来の可能な結果に使えるため、implication は未来専用、consequence は既に起きた結果専用とはしない。ここでは言外の含みという別義を区別する。",
+          "example": "We need to consider the implications of the new rule for small businesses.",
+          "translation": "新しい規則が小規模な事業者に及ぼし得る影響を、検討する必要がある。"
+        },
+        {
           "word": "repercussion",
           "definition": "ある出来事から生じる、通常は悪い間接的な影響。",
           "frequency": 5,
@@ -285,6 +301,14 @@
           "difference": "直接的・自然に従う帰結という点を強調する、改まった専門寄りの語。consequence はより広く結論を指せる。",
           "example": "This result is a corollary of the previous theorem.",
           "translation": "この結果は、前の定理から導かれる系である。"
+        },
+        {
+          "word": "conclusion",
+          "definition": "情報を考え合わせて到達した判断・結論。",
+          "frequency": 8,
+          "difference": "conclusion は考察の末の判断を広く表し、その判断が必ず論理的に正しいとは限らない。logical consequence は、前提から何が導かれるかという関係に重点がある。両語は論証の結論を指す場合に重なるが、文章の末尾という conclusion の別義とは区別する。",
+          "example": "After reviewing the evidence, we reached the conclusion that the two events were unrelated.",
+          "translation": "証拠を検討した結果、私たちは二つの出来事に関連はないという結論に達した。"
         },
         {
           "word": "inference",
