@@ -3,7 +3,7 @@
   "slug": "familiar",
   "ipa": "米: /fəˈmɪliər/｜英: /fəˈmɪliə/。ここに示す表記を4音節として読む場合、第1音節の母音は弱い /ə/、第2音節の母音は強勢のある /ɪ/、第3音節の母音は /i/、第4音節の母音は /ə/ となる。語頭に /f/、第2音節の強勢母音の前に /m/ があり、第2・第3の母音の間に /l/ がある。この説明は /l/ の音節への所属を一つに断定するものではない。米の表記では第4音節の母音に r が続く。英の非r音方言では単独発音時の語末 r は発音しないが、後続の母音につながる r が現れる場合がある。別の辞書には、後半を /ljər/ のようにまとめる表記もある。表記と発音の変異を、全英米話者に一律の音節数の差があるという説明にはしない。",
   "lead": "以前に接したことがあるため、それと分かる、または以前から知っているように感じること。顔・声・名前だけでなく、経験済みの状況やいつものパターンにも使う。必ずしも正体や詳細を思い出せるとは限らない。",
-  "updated": "2026-10-25",
+  "updated": "2026-10-26",
   "notion_url": "https://app.notion.com/p/familiar-4044faa9b77d81539afcf0b56a48b7af",
   "pronunciation": [],
   "etymology": [
@@ -140,6 +140,22 @@
           "difference": "広く知られていることを表しやすい。個人的に見覚えがあるだけなら、世間に有名である必要はない。",
           "example": "She is a well-known researcher in this field.",
           "translation": "彼女は、この分野でよく知られた研究者だ。"
+        },
+        {
+          "word": "common",
+          "definition": "よく起こる、または広く見られる。",
+          "frequency": 9,
+          "difference": "common は頻度・分布に焦点があり、familiar は見聞きした経験によるなじみや認識に焦点がある。広く見られるものが人々によく知られている場合は重なるが、個人に見覚えがあるだけで世間でも common だとは限らない。",
+          "example": "This error is common in handwritten forms.",
+          "translation": "この間違いは、手書きの用紙によく見られる。"
+        },
+        {
+          "word": "ordinary",
+          "definition": "通常の範囲にあり、特別ではない。",
+          "frequency": 9,
+          "difference": "ordinary は通常の種類・状態かどうかを述べ、familiar は知っている・なじみがあるかを述べる。見慣れた独特の建物なら familiar でも ordinary とは限らず、別の土地で普通のものでも自分には unfamiliar なことがある。",
+          "example": "To local residents, the building looks quite ordinary.",
+          "translation": "地元の住民には、その建物はごく普通のものに見える。"
         }
       ],
       "antonyms": [
@@ -252,6 +268,22 @@
           "difference": "情緒的な結び付きの強さを表しやすく、familiar の気軽さだけに限らない。",
           "example": "They remained close friends after moving to different cities.",
           "translation": "別々の都市に移ってからも、二人は親しい友人のままだった。"
+        },
+        {
+          "word": "friendly",
+          "definition": "互いに好意的で、友好的な関係にある。",
+          "frequency": 8,
+          "difference": "on friendly terms は相手との関係が良好であることを示し、親密な付き合いまで必ず意味するわけではない。on familiar terms は気心が知れて打ち解けている点を捉える。friendly には単に親切・愛想がよいという別義もあり、その意味では初対面の相手への態度にも使える。",
+          "example": "She remains on friendly terms with her former colleagues.",
+          "translation": "彼女は、以前の同僚たちと今も友好的な関係を保っている。"
+        },
+        {
+          "word": "intimate",
+          "definition": "関係や付き合いが非常に親密な。",
+          "frequency": 6,
+          "difference": "intimate は非常に近い関係や私的なつながりを強調する。familiar は日常の付き合いによる気軽さ・打ち解けた関係を示し、常に深い私的関係まで意味するわけではない。",
+          "example": "The book describes the intimate friendship between the two writers.",
+          "translation": "その本は、二人の作家の非常に親密な友情を描いている。"
         }
       ],
       "antonyms": []
@@ -280,7 +312,16 @@
       "notes": [
         "a familiar style は「以前から知っている文体」という語義1の読みも可能。気取らない調子をいうのか、見覚えがあるのかは文脈で判断する。くだけた文体が、どの場面でも適切だという意味ではない。"
       ],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "informal",
+          "definition": "言葉や文章が、改まらず日常的な会話に向く。",
+          "frequency": 8,
+          "difference": "informal は言葉の改まりの程度を広く表し、familiar は親しい相手に話すような打ち解けた調子を捉える。文体として重なる場合は多い。どちらも調子を述べる用法では、話し手と相手が実際に親しい間柄だと保証するものではない。",
+          "example": "The newsletter uses informal language to explain the changes.",
+          "translation": "そのニュースレターは、変更点を説明するのに、くだけた言葉を使っている。"
+        }
+      ],
       "antonyms": []
     },
     {
@@ -314,7 +355,16 @@
       "notes": [
         "with があるだけで知識を表す語義2と決めない。人への接し方や個人的な質問の文脈では、この評価義になり得る。過度の親しさは、必ず身体接触や性的な言動を伴うという意味ではない。"
       ],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "presumptuous",
+          "definition": "自信過剰で、他人への敬意を欠いた。",
+          "frequency": 4,
+          "difference": "familiar のこの意味は相手との距離を詰めすぎることに焦点がある。presumptuous は、相手の意向を確かめず勝手に判断するなど、出過ぎた態度を広く批判でき、親しげな振る舞いだけに限らない。",
+          "example": "It was presumptuous of him to speak on her behalf without asking.",
+          "translation": "断りもなく彼女に代わって意見を述べるのは、彼の出過ぎた行為だった。"
+        }
+      ],
       "antonyms": []
     },
     {
