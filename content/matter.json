@@ -3,7 +3,7 @@
   "slug": "matter",
   "ipa": "米: /ˈmætər/｜英: /ˈmætə(r)/。名詞・動詞とも2音節で第1音節に強勢がある。第1音節の母音は /æ/、第2音節は弱い /ə/。米音では語末の /r/ を発音し、英音の (r) は非r音的な発音で後続音などに応じて現れることを示す。matters は米 /ˈmætərz/・英 /ˈmætəz/、mattered は米 /ˈmætərd/・英 /ˈmætəd/、mattering は /ˈmætərɪŋ/。語尾 -ed は /d/ で、余分な音節を作らない。",
   "lead": "考えたり話し合ったり対応したりする対象となる事柄。深刻な困難だけでなく、私的な用件・通常の案件・話題などにも使う。",
-  "updated": "2026-10-25",
+  "updated": "2026-10-26",
   "notion_url": "https://app.notion.com/p/matter-4044faa9b77d8131ad59db625d79dfa7",
   "pronunciation": [],
   "etymology": [
@@ -381,6 +381,14 @@
           "difference": "価値として認められる・重視される点を表せる。ここでの比較は重要性義に限り、数えるという他動詞の count とは区別する。",
           "example": "Every opinion counts in this discussion.",
           "translation": "この議論では、一人ひとりの意見が大切だ。"
+        },
+        {
+          "word": "make a difference",
+          "definition": "結果や状況に影響を与え、違いを生む。",
+          "frequency": 8,
+          "difference": "matter が重要さを直接述べるのに対し、この句は影響や違いを生む点に焦点を当てる。肯定形でも、重要な意味や影響を持つという点で両者は重なり、必ず測定できる変化が必要なわけではない。make no difference と doesn't matter は、選択しても違いがなく問題にならない場面で重なる。ただし、大切に思うという matter のすべてを、具体的な変化が起きるという意味に限定しない。",
+          "example": "It makes no difference to me whether we meet on Tuesday or Wednesday.",
+          "translation": "火曜日に会うか水曜日に会うかは、私にはどちらでもかまわない。"
         }
       ],
       "antonyms": []
@@ -553,7 +561,7 @@
         }
       ],
       "notes": [
-        "No matter what you choose, ... の部分だけでは、通常は主節まで含んだ文は完結しない。It doesn't matter what you choose. は語義6の動詞を使った独立した文であり、機械的に it doesn't を削れば何でも同じ構文になるわけではない。no matter how hard... の how は形容詞・副詞の程度を導く。ここでの譲歩構文と、動詞 matter の that節を混同しない。"
+        "No matter what you choose, ... の部分だけでは、通常は主節まで含んだ文は完結しない。It doesn't matter what you choose. は語義6の動詞を使った独立した文であり、機械的に it doesn't を削れば何でも同じ構文になるわけではない。no matter how hard... の how は形容詞・副詞の程度を導く。ここでの譲歩構文と、動詞 matter の that節を混同しない。whatever には譲歩節を導く用法のほか、Choose whatever you prefer.「好きなものを選んで」のように、選ぶ対象を示す用法もある。この目的語の whatever you prefer を、そのまま no matter what you prefer に置き換えない。"
       ],
       "synonyms": [
         {
@@ -563,6 +571,22 @@
           "difference": "前置詞句で名詞句などを後ろに置く。no matter の疑問詞節と意味が近くても、後続要素をそのまま同じ形で入れ替えられるとは限らない。",
           "example": "The service is available regardless of age.",
           "translation": "そのサービスは、年齢を問わず利用できる。"
+        },
+        {
+          "word": "whatever",
+          "definition": "何を〜しても・どのようなことが起きても。",
+          "frequency": 9,
+          "difference": "譲歩の意味では no matter what と重なり、条件が変わっても主節が成り立つことを示す。whatever には「〜するものは何でも」という対象を指す用法もあるため、あらゆる whatever を no matter what に換えられるわけではない。",
+          "example": "Whatever you decide, we will respect your choice.",
+          "translation": "あなたがどのように決めても、私たちはその選択を尊重する。"
+        },
+        {
+          "word": "even if",
+          "definition": "たとえ〜であっても。",
+          "frequency": 9,
+          "difference": "ある条件を認めても主節が変わらないことを示し、no matter whether と近い働きをする。ただし no matter what の what は節内の目的語などにもなるため、疑問詞をすべて if に取り替えれば同じ構文になるわけではない。",
+          "example": "Even if the weather is bad, the meeting will go ahead indoors.",
+          "translation": "たとえ天気が悪くても、会合は屋内で予定どおり行われる。"
         }
       ],
       "antonyms": []
@@ -604,6 +628,14 @@
           "difference": "同様に実際の事実を示す副詞で、短く使える。as a matter of fact は句として事実を取り出す言い方。",
           "example": "I actually enjoyed the long walk.",
           "translation": "実のところ、私はその長い散歩を楽しんだ。"
+        },
+        {
+          "word": "in fact",
+          "definition": "実際には・事実として。",
+          "frequency": 9,
+          "difference": "as a matter of fact と意味の重なりが大きく、実際の事情を示す点を共有する。両句を「一方は訂正専用、他方は補足専用」と区分せず、前後の話から訂正か補足かを判断する。in fact には冠詞を入れない。",
+          "example": "The journey was not tiring. In fact, I found it quite relaxing.",
+          "translation": "その旅は疲れるものではなかった。実際、かなりくつろげると感じた。"
         }
       ],
       "antonyms": []
