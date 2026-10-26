@@ -3,7 +3,7 @@
   "slug": "emphasize",
   "ipa": "米・英: /ˈemfəsaɪz/。3音節で、第1音節の /e/ に強勢があり、第2音節の母音は弱い /ə/、第3音節の母音は二重母音 /aɪ/。第1音節末の /m/ の後に第2音節の /f/ が続き、第3音節は /s/ で始まり、語末は有声音 /z/ になる。綴りの ph は /f/ で、最後を無声音 /s/ にしない。ここに示す英米の辞書表記は共通である。",
   "lead": "内容を重要な点として示し、そこへ注意を向けること。人が意図して述べる場合だけでなく、報告・出来事などが、その重要性をはっきりさせる場合にも使う。単に事実を一度述べることより、その点へ特別な重みを置く。",
-  "updated": "2026-10-25",
+  "updated": "2026-10-26",
   "notion_url": "https://app.notion.com/p/emphasize-4044faa9b77d8149b364df42465703b2",
   "pronunciation": [],
   "etymology": [
@@ -127,7 +127,8 @@
       ],
       "notes": [
         "基本は emphasize something で、目的語の前に on を入れない。名詞の put emphasis on something と混同しない。emphasize somebody to do... を「人にするよう強調する」の一般構文として使わず、伝える内容を that節などで示す。It should be emphasized that... の it は後続内容を受ける形式的な主語であり、「それ」という特定の物を強調する例とは分ける。",
-        "emphasize は、強調した内容が正しい、相手を説得できた、何度も繰り返したという結果をそれだけで保証しない。否定形 does not emphasize... は、その点を重点としていないという意味で、反対していることや完全に削除したことまでは含まない。"
+        "emphasize は、強調した内容が正しい、相手を説得できた、何度も繰り返したという結果をそれだけで保証しない。否定形 does not emphasize... は、その点を重点としていないという意味で、反対していることや完全に削除したことまでは含まない。",
+        "関連表現との違いとして、insist that 〈節〉 は「本当だと言い張る」場合と「そうするよう強く求める」場合を区別する。前者は、特に疑われても主張を保つことに焦点があり、emphasize の重要性を際立たせる働きと同一ではない。後者は要求であり、単に注意点を強調するだけの emphasize でそのまま言い換えない。例えば、He insisted that the door was locked. は「ドアには鍵がかかっていた、と彼は言い張った」、He insisted that the door be locked. は「ドアに鍵をかけるよう彼は強く求めた」。後者の be は要求節で使う原形。ここで示した二例の対照を、すべての時制・地域の用法に機械的に当てはめない。どちらも、相手が信じたことや実際に要求に従ったことまで保証するものではない。"
       ],
       "synonyms": [
         {
@@ -153,6 +154,30 @@
           "difference": "反復が中心である。初めて言う内容でも emphasize でき、反復せず強調することもできる。",
           "example": "He reiterated his request after receiving no reply.",
           "translation": "返事がなかったので、彼はもう一度同じ依頼を伝えた。"
+        },
+        {
+          "word": "point out",
+          "definition": "ある事実や点を述べて、相手に知らせたり注意を向けさせたりする。",
+          "frequency": 8,
+          "difference": "point out は気づいてほしい点を指摘すること、emphasize はその点に特別な重みを置くことに焦点がある。指摘しながら重要性を強調する場合は重なるが、point out 自体が強い念押しを必ず表すわけではない。",
+          "example": "She pointed out that the two figures referred to different years.",
+          "translation": "彼女は、その二つの数値が別々の年についてのものだと指摘した。"
+        },
+        {
+          "word": "underline",
+          "definition": "ある内容の重要性を強調し、はっきりと示す。",
+          "frequency": 6,
+          "difference": "比喩的な underline は、この意味の emphasize と近い。underline には文字の下に実際の線を引く意味もあるが、重要性を示す用法で線を引く必要はない。emphasize だけでは具体的に下線を引いたとは分からない。",
+          "example": "The missed deadline underlined the need for a clearer schedule.",
+          "translation": "締切に間に合わなかったことで、もっと明確な日程が必要だとはっきりした。"
+        },
+        {
+          "word": "underscore",
+          "definition": "ある内容や重要性を明確に示し、強調する。",
+          "frequency": 6,
+          "difference": "この比喩義では emphasize や underline と大きく重なり、常に強さが異なるとはいえない。出来事が重要性を示す場合にも使える。underscore には線を引く用法もあるが、比喩義で表記上の線を意味するわけではない。",
+          "example": "Their quick response underscored their commitment to the project.",
+          "translation": "素早い対応は、その企画に対する彼らの真剣な取り組みをはっきり示した。"
         }
       ],
       "antonyms": [
