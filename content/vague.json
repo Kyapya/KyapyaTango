@@ -178,6 +178,22 @@
           "difference": "vague は必要な細部や範囲が明確でないこと。ambiguous は複数の読み方が成立することに重点がある。どちらも必ず意図的とは限らない。",
           "example": "The sentence is ambiguous because the pronoun could refer to either person.",
           "translation": "代名詞がどちらの人を指すとも読めるので、その文は曖昧だ。"
+        },
+        {
+          "word": "general",
+          "definition": "主要な点を扱い、細部までは立ち入らない。",
+          "frequency": 8,
+          "difference": "general な説明でも、概要として必要なことが明確に分かる場合がある。vague は情報や内容がはっきりせず、何を指すか・どうすればよいかが捉えにくいことに重点がある。詳しくない説明がすべて vague になるわけではない。",
+          "example": "The introduction gives a general description of the system.",
+          "translation": "導入部分では、システムの概要が説明されている。"
+        },
+        {
+          "word": "obscure",
+          "definition": "意味が分かりにくい・理解しにくい。",
+          "frequency": 5,
+          "difference": "obscure は、言葉遣いや示され方のため意味を捉えにくいことを表せる。vague は具体的な内容が十分に定まらないことに重点がある。細部を多く書いていても obscure な説明はあり得るので、難解さと情報の具体性不足を同じものにしない。",
+          "example": "The argument is obscure because it relies on unexplained technical terms.",
+          "translation": "説明されていない専門用語に頼っているため、その議論は分かりにくい。"
         }
       ],
       "antonyms": []
@@ -305,7 +321,16 @@
       "notes": [
         "程度を弱める用法であり、語義3の「不明瞭な言い方で」とは修飾する側面が異なる。数量そのものの少なさを表す副詞ではなく、どんな数詞や数量表現にも付けられるわけではない。"
       ],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "slightly",
+          "definition": "程度が少しだけ・わずかに。",
+          "frequency": 8,
+          "difference": "slightly は程度や差が小さいことを広く表す。vaguely は、感覚・認識・印象をはっきり捉えきれない含みを伴いやすい。slightly larger のように寸法の差を述べる用法まで、vaguely で機械的に置き換えることはできない。",
+          "example": "This bag is slightly larger than the one I used before.",
+          "translation": "このかばんは、以前使っていたものより少し大きい。"
+        }
+      ],
       "antonyms": []
     },
     {
