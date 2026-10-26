@@ -3,7 +3,7 @@
   "slug": "common",
   "ipa": "米: /ˈkɑːmən/｜英: /ˈkɒmən/。2音節で第1音節に強勢がある。英米の違いは第1音節の母音 /ɒ/ と /ɑː/ で、第2音節の母音はどちらも弱い /ə/。比較級・最上級には commoner／commonest もあるが、more common／most common のほうがよく使われる。",
   "lead": "同じようなことが頻繁に起こる、または多くの場所・人々の間に存在していること。頻度や分布の広さを述べる語で、好ましい・正しいという評価を必ず含むわけではない。",
-  "updated": "2026-10-25",
+  "updated": "2026-10-26",
   "notion_url": "https://app.notion.com/p/common-4044faa9b77d81269514dfd880eeb10c",
   "pronunciation": [],
   "etymology": [
@@ -185,16 +185,32 @@
         }
       ],
       "notes": [
-        "common in は、その事柄が見られる範囲を示す。語義2の common to は、複数の対象が共通して持つことを示すため、一律に交換しない。形式主語 it の構文では、for の後ろの名詞句が、後続する不定詞節の主語を示す。人の行為だけでなく、物の状態についても使える。「普通に起こる」ことは「そうするべきだ」という規範ではない。動植物名の common も、よく知られた種類・一般的な種類を指すのに使われるが、その名前だけで今の生息数や保全状態までは分からない。"
+        "common in は、その事柄が見られる範囲を示す。語義2の common to は、複数の対象が共通して持つことを示すため、一律に交換しない。形式主語 it の構文では、for の後ろの名詞句が、後続する不定詞節の主語を示す。人の行為だけでなく、物の状態についても使える。「普通に起こる」ことは「そうするべきだ」という規範ではない。popular には多くの人に好まれる「人気のある」という意味もあるが、common は、よくあるというだけで好まれているとは限らない。動植物名の common も、よく知られた種類・一般的な種類を指すのに使われるが、その名前だけで今の生息数や保全状態までは分からない。"
       ],
       "synonyms": [
         {
           "word": "frequent",
-          "definition": "短い間に何度も起こる。",
+          "definition": "繰り返しよく起こる。",
           "frequency": 7,
           "difference": "時間的な繰り返しに焦点を当てる。common は、存在する場所や人々の広がりについても使う。",
           "example": "Frequent interruptions made it hard to concentrate.",
           "translation": "何度も中断されたため、集中しづらかった。"
+        },
+        {
+          "word": "usual",
+          "definition": "たいていの場合に起こる・行われる、いつもの。",
+          "frequency": 9,
+          "difference": "usual は、その人や状況でいつもどうなのかという基準に焦点を当てる。common は、同じような事例が頻繁にあることや広く分布することを述べる。いつもの行動と世間でよく見られる行動は重なる場合もあるが、同じ観点ではない。",
+          "example": "She took her usual route to the station.",
+          "translation": "彼女は、いつもの道を通って駅へ向かった。"
+        },
+        {
+          "word": "popular",
+          "definition": "考え・信念・意見などが、多くの人々に共有されている。",
+          "frequency": 7,
+          "difference": "この意味の popular は、人々の間で受け入れられたり広まったりしていることを述べ、common の広く見られるという意味と重なる。popular misconception のように、広まった誤った認識も表せる。common は、行為上の間違いや自然現象など、考え・意見に限らず広く使える。ここでは「人気があって好かれる」という popular の別義と区別する。",
+          "example": "The article challenges a popular belief about language learning.",
+          "translation": "その記事は、言語学習について広く信じられている考えに疑問を投げかけている。"
         },
         {
           "word": "widespread",
@@ -288,6 +304,14 @@
           "difference": "共同で持つ状態を直接表す。common にある「頻繁な」「ありふれた」という別義までは含まない。",
           "example": "The building has a shared kitchen on each floor.",
           "translation": "その建物には、各階に共用キッチンがある。"
+        },
+        {
+          "word": "mutual",
+          "definition": "二人以上に共通している・共有されている。",
+          "frequency": 7,
+          "difference": "mutual friend や mutual interest のような共有の意味では common と重なる。一方 mutual respect は互いが相手に向ける敬意という相互性を表し、common が単に同じものを持つという意味であることと区別する。mutual を相互性だけの語と決め、共有義を誤用とすることも避ける。",
+          "example": "Their mutual interest in local history brought them together.",
+          "translation": "地域の歴史への共通の関心が、二人を結びつけた。"
         }
       ],
       "antonyms": []
