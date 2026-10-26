@@ -3,7 +3,7 @@
   "slug": "trait",
   "ipa": "米: /treɪt/｜英: /treɪt/、また /treɪ/。1音節で、第1音節の母音は二重母音 /eɪ/。英国の追加変異では、この音節の末尾の子音 /t/ を発音しない。英国では必ず t を読まないというわけではない。標準的な /treɪt/ の複数形 traits は /treɪts/ となる。",
   "lead": "人や物を特徴づける個別の性質。とくに、人の性格や行動傾向の一面を述べるのによく使う。長所にも短所にも用い、必ず生まれつき・永久不変という条件は含まない。",
-  "updated": "2026-10-25",
+  "updated": "2026-10-26",
   "notion_url": "https://app.notion.com/p/trait-4044faa9b77d81ac9c4af35d2787202d",
   "pronunciation": [],
   "etymology": [
@@ -102,6 +102,14 @@
           "difference": "広い語で、人について褒める文脈でもよく使うが、良い性質だけに限定されない。trait 自体も良し悪しを決めない。",
           "example": "Her calmness is a quality I admire.",
           "translation": "彼女の落ち着きは、私が尊敬する資質だ。"
+        },
+        {
+          "word": "attribute",
+          "definition": "人や物に備わるものとして捉える性質・資質。",
+          "frequency": 6,
+          "difference": "attribute は対象について認める個々の特質を広く述べ、trait は性格・行動などを特徴づける一面として捉えやすい。意味は大きく重なり、attribute は後天的、trait は生得的といった固定的な分け方はしない。",
+          "example": "Reliability is an important attribute in this role.",
+          "translation": "この役割では、信頼できることが重要な資質となる。"
         }
       ],
       "antonyms": []
@@ -149,7 +157,8 @@
       ],
       "notes": [
         "trait 全般を「遺伝だけで決まるもの」と定義しない。inherited は遺伝することを追加指定し、acquired は後天的に獲得されたことを示す。個々の trait は個体の phenotype「表現型」の一部であり、両語を常に同義として交換するわけではない。",
-        "dominant/recessive trait は優性・劣性などの遺伝様式に関わる表現で、望ましい・劣っているという価値判断ではない。どの形質がどのように遺伝するかや、個人の健康状態は、trait という語の意味だけから判断しない。"
+        "dominant/recessive trait は優性・劣性などの遺伝様式に関わる表現で、望ましい・劣っているという価値判断ではない。どの形質がどのように遺伝するかや、個人の健康状態は、trait という語の意味だけから判断しない。",
+        "生物学の character も、形態・機能などの「形質」を表し、trait と重なる。この character を人の性格と訳さない。一方、研究によって分類・比較の単位や用語の使い分けが定められる場合があるため、どの文献でも両語が完全に交換可能だとは決めない。"
       ],
       "synonyms": [],
       "antonyms": []
