@@ -1,0 +1,356 @@
+{
+  "word": "aspect",
+  "slug": "aspect",
+  "ipa": "米・英: /ˈæspekt/。2音節で、第1音節に強勢がある。第1音節の母音は /æ/、第2音節の母音は /e/。複数形 aspects は /ˈæspekts/ で、語末の /t/ の後ろに /s/ が続く。",
+  "lead": "状況・問題・考えなどの、取り上げて考える一つの面や特徴。物理的に切り離せる部品に限らず、費用、安全性、社会への影響など、考察の観点を表す。",
+  "updated": "2026-10-26",
+  "notion_url": "https://app.notion.com/p/aspect-4054faa9b77d813a994ed544bc8d903f",
+  "pronunciation": [],
+  "etymology": [
+    "中英語からラテン語 aspectus の系列に遡り、aspicere「～を見る」に関係する。ad-「～へ」と specere「見る」の組合せが背景にある。ある向きから見ることや、見たときに現れる姿という発想を持つ。同じ specere の系列には、re-「後ろへ」に関係する respect と、in-「中へ」に関係する inspect がある。語源の共通性だけで、現代の三つの語を同じ意味にはしない。"
+  ],
+  "formation": [
+    {
+      "term": "aspect ratio",
+      "description": "aspect と ratio からなる複合名詞。画面や画像の縦横の比を指す用語として使う。複数形は aspect ratios で、ratio 側を複数にする。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "対象をある向き・観点から捉えたときの現れ方。物事のどの一面に着目するか、どんな外観を示すか、どちらを向くかといった捉え方につながる。文法では出来事の時間的な展開、天体については互いの位置関係という観点になる。aspect ratio は、見える面の形に ratio「比」が加わり、幅と高さの関係を数値で示す複合語である。"
+    },
+    {
+      "type": "item",
+      "text": "対象の現れ方を観点別の面として捉えること → 「側面・観点・特徴」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "対象の現れ方を縦横関係で表す比 → 「アスペクト比・画面の縦横比」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "対象の現れ方としての外観・印象 → 「外観・様相・面持ち」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "対象の現れ方を動作の展開から捉えること → 「相・アスペクト」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "対象の現れ方を向き・位置で区別すること → 「向き・一定方向に面した側」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "対象の現れ方を天体間の配置から捉えること → 「天体の配置・星位」（語義6）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞：可算】側面・観点・特徴",
+      "frequency": 8,
+      "register": [
+        "一般・説明・分析・議論。"
+      ],
+      "definition": "状況・問題・考えなどの、取り上げて考える一つの面や特徴。物理的に切り離せる部品に限らず、費用、安全性、社会への影響など、考察の観点を表す。",
+      "patterns": [
+        "an aspect of something",
+        "the 〈形容詞〉 aspect of something",
+        "from the 〈形容詞〉 aspect",
+        "in every aspect",
+        "positive aspects to something。可算で、単数なら a/the/this などを伴い、複数は aspects。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an aspect of something",
+          "use": "全体のうち、取り上げる一面を示す。",
+          "example": "Cost is only one aspect of the decision.",
+          "translation": "費用は、その決定に関わる一つの側面にすぎない。"
+        },
+        {
+          "pattern": "the 〈形容詞〉 aspect of something",
+          "use": "どの観点の側面かを具体化する。",
+          "example": "The report examines the environmental aspect of the project.",
+          "translation": "その報告書は、事業の環境面を検討している。"
+        },
+        {
+          "pattern": "from the 〈形容詞〉 aspect",
+          "use": "ある観点から評価する。",
+          "example": "From the financial aspect, the proposal is attractive.",
+          "translation": "財務面から見ると、その提案は魅力的だ。"
+        },
+        {
+          "pattern": "in every aspect",
+          "use": "全ての面について述べる。",
+          "example": "The new service is not better in every aspect.",
+          "translation": "新しいサービスが、全ての面で優れているわけではない。"
+        },
+        {
+          "pattern": "positive aspects to something",
+          "use": "ある事柄に良い面もあると述べる。",
+          "example": "There are positive aspects to working in a small team.",
+          "translation": "小さなチームで働くことには、良い面もある。"
+        }
+      ],
+      "notes": [
+        "aspect of は対象となる全体を導く。from は見る観点、in はどの面で成り立つかを示す。aspect to も使われるが、あらゆる of を機械的に to へ置き換えるわけではない。in every aspect は every の後ろが単数、in many aspects は複数になる。"
+      ],
+      "synonyms": [
+        {
+          "word": "feature",
+          "definition": "対象を特徴づける性質や目立つ要素。",
+          "frequency": 8,
+          "difference": "aspect は全体をある観点から取り上げた面。feature は対象に備わる特徴や機能に焦点を置き、どの観点から検討するかより、何が特徴的かを述べやすい。",
+          "example": "The camera's main feature is its compact design.",
+          "translation": "そのカメラの主な特徴は、小型の設計だ。"
+        },
+        {
+          "word": "side",
+          "definition": "物事の一面・ある方向から見た性質。",
+          "frequency": 8,
+          "difference": "抽象的な一面という意味で aspect と重なるが、side の方が日常的で、物理的な側や対立する陣営など別の意味も広い。",
+          "example": "We discussed the practical side of the plan.",
+          "translation": "私たちは、その計画の実務面を話し合った。"
+        },
+        {
+          "word": "angle",
+          "definition": "物事を捉える観点・切り口。",
+          "frequency": 6,
+          "difference": "aspect は取り上げられる対象の一面、angle はそれを見る側の切り口に重点がある。同じ事柄を別の angle から見ることで、別の aspect が見つかる場合がある。",
+          "example": "Try looking at the problem from a different angle.",
+          "translation": "別の角度から、その問題を見てみてください。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞句：可算】アスペクト比・画面の縦横比",
+      "frequency": 5,
+      "register": [
+        "画像・映像・画面表示。"
+      ],
+      "definition": "画面や画像の横幅と高さの関係を表す比。ここでは幅:高さの順で表し、16:9 なら横幅16に対して高さ9の割合となる。",
+      "patterns": [
+        "an aspect ratio of 〈比〉",
+        "a 〈比〉 aspect ratio",
+        "maintain the aspect ratio",
+        "change the aspect ratio。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an aspect ratio of 〈比〉",
+          "use": "画像の縦横の比率を具体的に述べる。",
+          "example": "The video has an aspect ratio of 16:9.",
+          "translation": "その動画のアスペクト比は16対9だ。"
+        },
+        {
+          "pattern": "a 〈比〉 aspect ratio",
+          "use": "比率を前から修飾して示す。",
+          "example": "The designer chose a 1:1 aspect ratio for the square image.",
+          "translation": "デザイナーは、正方形の画像に1対1のアスペクト比を選んだ。"
+        },
+        {
+          "pattern": "maintain the aspect ratio",
+          "use": "大きさを変えても縦横の割合を保つ。",
+          "example": "Maintain the aspect ratio when resizing the photograph.",
+          "translation": "写真の大きさを変えるときは、縦横比を保ってください。"
+        },
+        {
+          "pattern": "change the aspect ratio",
+          "use": "表示する形の比率を変更する。",
+          "example": "Changing the aspect ratio made the image look wider.",
+          "translation": "アスペクト比を変更すると、画像が横に広がって見えた。"
+        }
+      ],
+      "notes": [
+        "同じ比率でも、実際の横幅・高さの値は異なり得る。単位が同じなら、幅160・高さ90も、幅320・高さ180も16:9になる。ここで説明しているのは画面・画像の比率であり、別分野の aspect ratio の定義へ一律に広げない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞：単数形・不可算】外観・様相・面持ち",
+      "frequency": 4,
+      "register": [
+        "改まった文章・描写。"
+      ],
+      "definition": "場所・人・状況が、目や理解にどのような姿として現れるかという外観・様子。見た目だけでなく、出来事がどういう性格を帯びて見えるかにも使う。",
+      "patterns": [
+        "take on a 〈形容詞〉 aspect",
+        "have a 〈形容詞〉 aspect",
+        "the aspect of something。"
+      ],
+      "collocations": [
+        {
+          "pattern": "take on a 〈形容詞〉 aspect",
+          "use": "状況がある様相を帯びてくると述べる。",
+          "example": "The discussion took on a more serious aspect when the costs became clear.",
+          "translation": "費用が明らかになると、話し合いはより深刻な様相を帯びてきた。"
+        },
+        {
+          "pattern": "have a 〈形容詞〉 aspect",
+          "use": "外から受ける印象を描写する。",
+          "example": "The abandoned building had a gloomy aspect.",
+          "translation": "その使われなくなった建物は、陰鬱な外観をしていた。"
+        },
+        {
+          "pattern": "the aspect of something",
+          "use": "人や場所などの見え方を話題にする。",
+          "example": "The aspect of the town was transformed by its brightly painted houses.",
+          "translation": "町の外観は、色鮮やかに塗られた家々によって一変していた。"
+        }
+      ],
+      "notes": [
+        "物事の複数の観点を列挙する語義1とは異なり、この外観・様子の意味では単数形や不可算として扱う。a more serious aspect のように、様相の種類や程度を示す形もある。take on は「取り上げる」ではなく、新しい様相を帯びるという組合せになる。"
+      ],
+      "synonyms": [
+        {
+          "word": "appearance",
+          "definition": "人や物が外からどのように見えるかという外観。",
+          "frequency": 7,
+          "difference": "外見を述べる一般的な語。aspect の外観義はより改まった描写に使われ、状況が帯びる様相を捉える場合もある。",
+          "example": "The repairs greatly improved the building's appearance.",
+          "translation": "修繕によって、建物の外観は大きく改善した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞：不可算／可算、文法】相・アスペクト",
+      "frequency": 4,
+      "register": [
+        "言語学・文法。"
+      ],
+      "definition": "出来事や動作を、進行しているもの、完結したもの、繰り返されるものなどとして、どのように捉えて示すかという文法上の区別。また、その区別を示す動詞の形式を指す。",
+      "patterns": [
+        "grammatical aspect",
+        "the progressive aspect",
+        "mark aspect",
+        "distinguish tense from aspect。"
+      ],
+      "collocations": [
+        {
+          "pattern": "grammatical aspect",
+          "use": "文法カテゴリーとして相を取り上げる。",
+          "example": "The lecture explains how grammatical aspect presents an event as ongoing or complete.",
+          "translation": "その講義は、文法の相が出来事を進行中または完結したものとしてどう示すかを説明する。"
+        },
+        {
+          "pattern": "the progressive aspect",
+          "use": "進行中という捉え方を示す。",
+          "example": "In \"I was reading\", the progressive aspect presents the reading as in progress at that time.",
+          "translation": "I was reading では、進行相によって、その時点で読書が進行中だったと示される。"
+        },
+        {
+          "pattern": "distinguish tense from aspect",
+          "use": "時制と相を別の観点として説明する。",
+          "example": "The teacher distinguished tense from aspect before discussing the examples.",
+          "translation": "先生は、例を検討する前に、時制と相を区別した。"
+        },
+        {
+          "pattern": "mark aspect",
+          "use": "言語形式が相の区別を示すことを述べる。",
+          "example": "The table shows which verb forms mark aspect in the language.",
+          "translation": "その表は、その言語のどの動詞形式が相を示すかを示している。"
+        }
+      ],
+      "notes": [
+        "時制は出来事の時間的位置付けに関係し、相は進行・完結・反復などの捉え方に関係する。両者を同じものとしない。文法カテゴリー一般としての不可算用法と、ある種類の相や形式を指す可算用法がある。相の種類や表し方は言語・分析方法によって異なるため、全言語で同じ一覧になるとはしない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞：可算】向き・一定方向に面した側",
+      "frequency": 3,
+      "register": [
+        "建物・土地の説明では改まった表現。位置を表す専門的な記述にも使う。"
+      ],
+      "definition": "建物・窓・土地などがどちらを向いているかという向き、また一定の方向に面した側・部分。位置によって区別される物体の面や部位を指す専門用法もある。",
+      "patterns": [
+        "have a 〈方角形容詞〉 aspect",
+        "the 〈方角形容詞〉 aspect of something",
+        "the 〈位置形容詞〉 aspect of something。"
+      ],
+      "collocations": [
+        {
+          "pattern": "have a 〈方角形容詞〉 aspect",
+          "use": "建物や部屋が向く方角を示す。",
+          "example": "The bedroom has an eastern aspect and catches the morning sun.",
+          "translation": "その寝室は東向きで、朝日が入る。"
+        },
+        {
+          "pattern": "the 〈方角形容詞〉 aspect of something",
+          "use": "建物のどの方角を向く側かを示す。",
+          "example": "Large windows cover the southern aspect of the building.",
+          "translation": "建物の南側には、大きな窓が並んでいる。"
+        },
+        {
+          "pattern": "the 〈位置形容詞〉 aspect of something",
+          "use": "標本などの位置によって区別される面を指す。",
+          "example": "The diagram labels the anterior aspect of the bone.",
+          "translation": "その図には、骨の前面が示されている。"
+        }
+      ],
+      "notes": [
+        "建物などの向きを指す用法では通常単数で使う。この説明を、位置で区別される全ての面・部位に一律に適用するわけではない。建物の aspect が方角を指す場合と、その方角を向いた側を指す場合を区別する。身体や標本についても、文脈上の位置による面・部分という語彙的な意味になり、一般論の「一つの観点」とは限らない。専門的には、流体の流れに対して面がどちらを向くかにも用いる。向きや面を指す意味と、抽象的な評価の観点を指す意味を文脈で区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "orientation",
+          "definition": "対象がどちらを向くかという方向・配置。",
+          "frequency": 5,
+          "difference": "aspect の建物の向きという意味と重なる。orientation は向きや配置そのものを直接表し、aspect のような外観・物事の一面の意味を常に持つわけではない。",
+          "example": "The orientation of the house allows the main rooms to receive morning sunlight.",
+          "translation": "家の向きのおかげで、主な部屋には朝日が入る。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【名詞：可算】天体の配置・星位",
+      "frequency": 2,
+      "register": [
+        "占星術・天体位置の記述。"
+      ],
+      "definition": "天体同士の位置関係や、太陽に対する太陽系天体の見かけの配置。占星術では、この配置を人間の出来事と関連付けて解釈する。",
+      "patterns": [
+        "planetary aspects",
+        "an aspect between 〈天体〉 and 〈天体〉",
+        "a planet’s aspect relative to the Sun。"
+      ],
+      "collocations": [
+        {
+          "pattern": "planetary aspects",
+          "use": "惑星の相互配置を指す。",
+          "example": "The astrologer compared the planetary aspects shown in the two charts.",
+          "translation": "その占星術師は、二つの図に示された惑星の配置を比較した。"
+        },
+        {
+          "pattern": "an aspect between 〈天体〉 and 〈天体〉",
+          "use": "二つの天体の位置関係を話題にする。",
+          "example": "The book describes an aspect between Mars and Venus in the chart.",
+          "translation": "その本は、図の中の火星と金星の位置関係を説明している。"
+        },
+        {
+          "pattern": "a planet’s aspect relative to the Sun",
+          "use": "惑星を、太陽との見かけの位置関係から記述する。",
+          "example": "The chart records the planet's aspect relative to the Sun.",
+          "translation": "その図は、その惑星の太陽に対する見かけの配置を記録している。"
+        }
+      ],
+      "notes": [
+        "人間の出来事への影響は、占星術での解釈として区別する。この語を使うだけで、その影響が科学的に確立しているという意味にはならない。太陽系天体の、太陽に対する配置を述べる用法では、conjunction のような位置関係を例とする場合もある。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}
