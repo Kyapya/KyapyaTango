@@ -3,7 +3,7 @@
   "slug": "stress",
   "ipa": "米・英: /stres/。1音節で、母音は /e/。同じ音節の中で、母音の前に /s/・/t/・/r/、母音の後に /s/ が続く。子音の間に日本語の母音を挟まず、語末も無声音 /s/ で終える。stresses は /ˈstresɪz/ で語尾が1音節増え、stressed は /strest/ で増えない。後者の -ed は /t/ となる。",
   "lead": "困難や要求に直面して、心身が緊張したり負担を感じたりすること。日常語では心配・緊張を表すことが多いが、身体の反応も含み得る。単語だけで特定の病気を診断する表現ではない。",
-  "updated": "2026-10-25",
+  "updated": "2026-10-26",
   "notion_url": "https://app.notion.com/p/stress-4044faa9b77d818386b4f72cd152e216",
   "pronunciation": [],
   "etymology": [
@@ -177,6 +177,14 @@
           "difference": "緊張の張り詰めた性質を表しやすく、人間関係の緊迫にも使う。stress は負荷への反応や継続的な負担にも広く用いる。",
           "example": "There was noticeable tension in the room before the announcement.",
           "translation": "発表前の部屋には、はっきり感じられる緊張があった。"
+        },
+        {
+          "word": "strain",
+          "definition": "対処すべきことが多すぎるなどして生じる負担・疲れ。",
+          "frequency": 7,
+          "difference": "strain は要求に対応し続ける負担や、そのための消耗を捉えやすい。stress も重なるが、心身の緊張や反応を広く表す。力学では両語に別の専門義があるため、この心理的な比較をそのまま移さない。",
+          "example": "Managing two jobs put a considerable strain on him.",
+          "translation": "二つの仕事をこなすことは、彼にかなりの負担をかけた。"
         }
       ],
       "antonyms": []
@@ -247,6 +255,14 @@
           "difference": "この意味の stress と非常に近い。他方、stress の精神的・物理的負荷の意味をそのまま移せるわけではない。",
           "example": "The introduction emphasizes the practical value of the course.",
           "translation": "導入部分は、その講座の実用的な価値を強調している。"
+        },
+        {
+          "word": "point out",
+          "definition": "ある点を述べて、相手に知らせたり気づかせたりする。",
+          "frequency": 8,
+          "difference": "point out は指摘・情報の提示、stress は特に重要だと重みを置くことに焦点がある。強調しながら指摘することもできるが、単なる指摘が常に強い念押しになるわけではない。",
+          "example": "He pointed out that the timetable had changed.",
+          "translation": "彼は、時刻表が変わったことを指摘した。"
         }
       ],
       "antonyms": []
@@ -289,7 +305,24 @@
       "notes": [
         "I am stressed は受け手の状態、My job is stressful は原因となる仕事の性質。stressed を、ストレスを与えるという意味の形容詞として取り違えない。過去形 stressed と状態形容詞 felt stressed は、同じ綴りでも働きが異なる。be stressed by... は、負荷を与えられる出来事の受動にも、原因を伴う状態の説明にもなり得るので、by句の有無だけで判定しない。"
       ],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "anxious",
+          "definition": "心配や不安を感じている。",
+          "frequency": 8,
+          "difference": "anxious は気がかりや不安に焦点があり、stressed は要求・困難による負担を受けた状態を捉える。両方の状態が重なることも多く、どちらが常に強いという関係ではない。anxious の「強く望んでいる」という別義とは区別する。",
+          "example": "She was anxious about whether the message had reached him.",
+          "translation": "彼に連絡が届いたかどうか、彼女は心配していた。"
+        },
+        {
+          "word": "tense",
+          "definition": "緊張や心配で張り詰め、くつろげない。",
+          "frequency": 7,
+          "difference": "人についての tense は、その場の張り詰めた様子を表しやすい。stressed は負担を感じている状態に焦点がある。tense には筋肉のこわばりや場の緊迫を述べる用法もあり、stressed と全対象で置換できるわけではない。",
+          "example": "He looked tense as he waited outside the interview room.",
+          "translation": "面接室の外で待つ彼は、緊張した様子だった。"
+        }
+      ],
       "antonyms": []
     },
     {
@@ -331,7 +364,16 @@
       "notes": [
         "この自動詞では心配している本人が主語で、他者を直接目的語に置かない。Don't stress. は口語的な「気にしすぎないで」だが、深刻な悩みを軽く扱うように響く場面もある。out はここでは外の場所を指さず、stress out 全体で状態を表す。"
       ],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "worry",
+          "definition": "問題や起こり得る好ましくないことを気にかけ、心配する。",
+          "frequency": 9,
+          "difference": "worry は心配することをいう一般的な動詞。stress や stress out のこの自動詞用法は口語的で、心配が精神的な負担・緊張になっている様子を捉える。常に worry より深刻だという固定的な強弱ではない。",
+          "example": "I worry about forgetting something important.",
+          "translation": "大切なことを何か忘れてしまわないか、私は心配している。"
+        }
+      ],
       "antonyms": []
     },
     {
@@ -391,7 +433,16 @@
       "notes": [
         "stress me out の代わりに stress out me とはしない。語義4の自動詞では目的語がなく、語義5では人が目的語になる。再帰形も stress yourself out の順で、stress out yourself にはしない。stress the need for... のように内容を目的語にする語義2とは、目的語の役割も意味も異なる。"
       ],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "worry",
+          "definition": "人に心配や不安を感じさせる。",
+          "frequency": 9,
+          "difference": "他動詞 worry は人に気がかりを生じさせることに焦点がある。stress someone out は負担で張り詰めさせる口語表現。心配が大きな負担になる場合は重なるが、worry が常に強く張り詰めた状態まで表すわけではない。",
+          "example": "The unexplained delay worried her.",
+          "translation": "理由の分からない遅れが、彼女を不安にさせた。"
+        }
+      ],
       "antonyms": []
     },
     {
@@ -487,7 +538,8 @@
         }
       ],
       "notes": [
-        "強勢を単なる音量と同一視せず、母音の長さ・音高なども関わる相対的な際立ちとして捉える。語の強勢位置を記号で示すことと、その記号自体を指す語義20は異なる。"
+        "強勢を単なる音量と同一視せず、母音の長さ・音高なども関わる相対的な際立ちとして捉える。語の強勢位置を記号で示すことと、その記号自体を指す語義20は異なる。",
+        "関連語 emphasis も、発話の一部に力を込めることを表し、音節について使う場合もある。ただし、emphasis は文章で下線などを使って目立たせることにも用いる。語の中の強勢位置や primary stress のような音韻上の区別を説明するときは、一般的な強調と区別して stress を使う。"
       ],
       "synonyms": [],
       "antonyms": []
@@ -515,7 +567,16 @@
       "notes": [
         "stress the word は、その語について心配するという意味ではない。語義4で心配の対象を示すなら stress about/over... という構文になる。"
       ],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "emphasize",
+          "definition": "発話の語や音節を、特に目立つように発音する。",
+          "frequency": 5,
+          "difference": "発音の一部を際立たせる点で stress と重なる。emphasize は対比や重要性の提示にも広く使い、stress は単語本来の強勢位置を説明する基本語として使われる。",
+          "example": "When she read the instructions aloud, she emphasized the word “today” to make the deadline clear.",
+          "translation": "説明を読み上げる際、締切をはっきりさせるために、彼女は today という語を強く発音した。"
+        }
+      ],
       "antonyms": []
     },
     {
@@ -613,7 +674,16 @@
       "notes": [
         "place stress on people が文脈によって「人に負担をかける」と読めるのに対し、stress on accuracy などは正確さへの重点を表す。前置詞 on があるだけで語義を決めず、対象と文脈を見る。"
       ],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "emphasis",
+          "definition": "ある内容に置く特別な重要性・重点。",
+          "frequency": 8,
+          "difference": "この名詞義では stress と非常に近く、place emphasis on と place stress on は重なる。emphasis は一般の説明で心理的な負担との混同を避けやすいが、発話や表記の強調を表す別用法もある。",
+          "example": "The programme places emphasis on learning through practice.",
+          "translation": "そのプログラムは、実践を通じて学ぶことを重視している。"
+        }
+      ],
       "antonyms": []
     },
     {
@@ -645,7 +715,8 @@
         }
       ],
       "notes": [
-        "金融の想定シナリオは、その出来事が起こると予測することと同じではない。システムの試験でも、必ず破壊するまで負荷を上げることだけを意味せず、条件や合否基準は試験設計による。個別制度の対象銀行・資本要件や具体的な実施手順を、語の意味から推測しない。"
+        "金融の想定シナリオは、その出来事が起こると予測することと同じではない。システムの試験でも、必ず破壊するまで負荷を上げることだけを意味せず、条件や合否基準は試験設計による。個別制度の対象銀行・資本要件や具体的な実施手順を、語の意味から推測しない。",
+        "ソフトウェアの試験で average-load test と対比する場合は、通常程度の負荷での動作確認に対し、stress test はそれより大きな負荷での動作を調べる。これはその試験分類での対照であり、業界・資料によって load test の範囲や分類は異なる。金融や医療の検査へ同じ分類名をそのまま移さない。"
       ],
       "synonyms": [],
       "antonyms": []
