@@ -172,6 +172,7 @@ def word_page(word: dict, all_words: list[dict]) -> str:
         for x in word.get("sources", [])
     )
     sources_html = f"<p><b>参照:</b> {sources}</p>" if sources else ""
+    notion_link = (f'<p><a href="{escape(word["notion_url"], quote=True)}" target="_blank" rel="noopener">Notionの原本を開く</a></p>' if word.get("notion_url") else "")
     prev_link = f'<a class="pager-link" href="{prev_word["slug"]}.html">← {escape(prev_word["word"])}</a>' if prev_word else '<span></span>'
     next_link = f'<a class="pager-link" href="{next_word["slug"]}.html">{escape(next_word["word"])} →</a>' if next_word else '<span></span>'
     page = f'''<!doctype html>
@@ -209,7 +210,7 @@ def word_page(word: dict, all_words: list[dict]) -> str:
   <div class="section-title"><div><p>MEANINGS & USAGE</p><h2>意味・構文・用法</h2></div><small>検索・頻度フィルター・習得管理に対応</small></div>
   <div id="senseContainer">{senses}</div><div id="noResults" class="empty-state">該当する語義・用例がありません。</div>
   <div class="page-pager">{prev_link}{next_link}</div>
-  <footer class="source-box">{sources_html}<p><a href="{escape(word['notion_url'], quote=True)}" target="_blank" rel="noopener">Notionの原本を開く</a></p></footer>
+  <footer class="source-box">{sources_html}{notion_link}</footer>
 </main>
 </div>
 <button class="backtop" onclick="window.scrollTo({{top:0,behavior:'smooth'}})" aria-label="上部へ戻る">↑</button>
