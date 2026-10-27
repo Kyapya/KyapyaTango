@@ -3,7 +3,7 @@
   "slug": "intense",
   "ipa": "発音（辞書表記）: /ɪnˈtens/。2音節で、第2音節に主強勢がある。英米で基本発音に大きな違いはない。",
   "lead": "感覚、感情、性質、光、色、熱、寒さ、圧力などの強さや程度が非常に高いこと。好ましいものにも好ましくないものにも使い、何が強いのかは修飾される名詞や文脈で決まる。〈感覚・感情・影響など〉 be intense のように、主語そのものの強さを述べることもできる。",
-  "updated": "2026-09-28",
+  "updated": "2026-10-27",
   "notion_url": "https://app.notion.com/p/intense-3804faa9b77d81cbbca3efeddcf5ebfa",
   "pronunciation": [],
   "etymology": [
@@ -24,7 +24,7 @@
     },
     {
       "term": "intensive",
-      "description": "（形容詞）— 短期間に多くの努力・作業・活動を集中的に行う、または非常に詳細な。intense と重なる場合があるが、intensive は計画された投入量や客観的な集中を表しやすい。"
+      "description": "（形容詞）— 多くの努力・活動・資源を集中的に投入する、または徹底的な。短期集中の講座にも使うが、すべての用法で期間の短さや計画性が必須となるわけではない。intense との比較は語義2で扱う。"
     }
   ],
   "core": [
@@ -124,7 +124,7 @@
           "word": "powerful",
           "definition": "物理的・心理的な力や、他者への影響が大きい。",
           "frequency": 8,
-          "difference": "powerful は力や影響を及ぼす側に焦点があり、intense は痛み・感情・圧力のように受け手が強く感じる対象にも広く使う。",
+          "difference": "powerful は力や影響の大きさ、intense は程度・強度の高さを前面に出す。感情などで両語が重なることもあり、作用を及ぼす側か受ける側かだけで使い分ける規則ではない。",
           "example": "a powerful effect",
           "translation": "強力な効果。"
         },
@@ -198,22 +198,22 @@
         },
         {
           "pattern": "intense study/training",
-          "use": "勉強や訓練が非常に厳しく、参加者が強い負荷を感じることを表す。",
+          "use": "勉強や訓練に強い努力・集中が向けられていることを表す。厳しさや負荷の感じ方は文脈による。",
           "example": "After months of intense study, she passed the examination.",
           "translation": "何か月もの厳しい勉強の末、彼女は試験に合格した。"
         }
       ],
       "notes": [
-        "intense と intensive はどちらも短期間に多くの活動が行われる場合に使える。intense training は訓練のきつさや緊迫感を、intensive training は短期間に多くの訓練を計画的に詰め込む性質を表しやすい。したがって、intensive course、intensive investigation、intensive farming のように、方法や投入を客観的・組織的に述べる場合は intensive が自然である。intense を「短時間である」という意味だけで覚えると、活動の激しさという中心を取り違える。会話では、試合・映画・体験などについて That was intense!「すごかった／きつかった」のように、緊迫感や負荷の大きさを叙述用法で述べることも多い。"
+        "intense は活動の強さ・激しさに、intensive は活動や資源の集中的な投入・徹底性に焦点を置きやすい。intensive course は短期集中の講座に使うことがあるが、intensive farming などまで一律に短期間の活動と解釈しない。訓練では両語が重なる場合もあり、intense なら主観的な苦しさ、intensive なら計画的な活動と機械的に二分しない。intense を「短時間である」という意味だけで覚えると、活動の激しさという中心を取り違える。会話では、試合・映画・体験などについて That was intense!「すごかった／きつかった」のように、緊迫感や負荷の大きさを叙述用法で述べることも多い。"
       ],
       "synonyms": [
         {
           "word": "fierce",
           "definition": "競争、対立、議論などが激しく、しばしば攻撃性や敵対性を帯びている。",
           "frequency": 6,
-          "difference": "fierce は競争・対立の敵対的な激しさを強調し、intense は敵意のない活動や努力の高い負荷にも使える。",
-          "example": "fierce competition",
-          "translation": "激しい競争。"
+          "difference": "fierce は競い合いや対抗の激しさを強調するが、実際の敵意や攻撃性は必須ではない。intense は競争に限らず、努力・集中などの強さにも広く使える。",
+          "example": "The two companies faced fierce competition for the contract.",
+          "translation": "その2社は契約をめぐって激しい競争に直面した。"
         },
         {
           "word": "strenuous",
@@ -320,7 +320,7 @@
           "word": "emotional",
           "definition": "感情を強く感じたり、感情が表に出たりする。",
           "frequency": 8,
-          "difference": "emotional は感情が関わることに焦点があり、intense は感情が必ずしも中心でない集中・圧力・存在感にも使える。",
+          "difference": "この emotional は感情の高まりや表出に焦点があり、intense は感情が必ずしも中心でない集中・圧力・存在感にも使える。",
           "example": "an emotional speech",
           "translation": "感情のこもったスピーチ。"
         },
@@ -328,7 +328,7 @@
           "word": "focused",
           "definition": "注意や努力が一つの対象にしっかり向けられている。",
           "frequency": 8,
-          "difference": "focused は集中の方向と持続に焦点があり、intense は集中に加えて感情や雰囲気の強さも表せる。",
+          "difference": "focused は注意が対象へ向いていることに焦点があり、持続時間の長さは必須ではない。intense は集中に加えて感情や雰囲気の強さも表せる。",
           "example": "a focused expression",
           "translation": "集中した表情。"
         },
