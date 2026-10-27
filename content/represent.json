@@ -3,7 +3,7 @@
   "slug": "represent",
   "ipa": "米・英: /ˌreprɪˈzent/",
   "lead": "人・団体・地域などの立場を担って行動・発言する。弁護士や代理人として事務を扱う場合、会合で代わりに出席する場合、国・学校などの代表として競技に参加する場合を含む。",
-  "updated": "2026-10-03",
+  "updated": "2026-10-27",
   "notion_url": "https://app.notion.com/p/represent-3804faa9b77d81c9b22ffaf53e0fca1b",
   "pronunciation": [
     "3音節で、主強勢は第3音節 /zent/、副強勢は第1音節 /rep/ にある。綴りの s は /z/ と発音する。",
@@ -180,7 +180,7 @@
       ],
       "notes": [
         "記号が対象を表す場合、記号と対象は同じ物である必要はない。一方、語義3は物事が実際に変化・機会・割合などに当たる用法である。象徴・意味の対応という状態を述べる場合は、通常は進行形にしない。",
-        "以下の indicate は、証拠・兆候から何かが分かるという比較語で、記号と意味の対応とは区別する。",
+        "以下の indicate は、証拠・兆候が何かを示す用法を取り上げた比較である。indicate 自体には記号や表示が情報を示す用法もあり、記号には使えないという排他的な区分ではない。",
         "indicate",
         "定義: 示す、指し示す。",
         "頻度: 〈8/10〉",
@@ -209,9 +209,25 @@
           "word": "mean",
           "definition": "意味する。",
           "frequency": 10,
-          "difference": "mean は最も一般的で、represent より会話的。",
+          "difference": "mean は、記号などが伝える意味内容を問う・述べるときに使う。represent は、記号などが何を表すかという対象との対応に焦点を置く。この用法では重なる場合もあり、mean を会話だけの語とは考えない。",
           "example": "What does this symbol mean?",
           "translation": "この記号は何を意味しますか。"
+        },
+        {
+          "word": "embody",
+          "definition": "理念や性質を具体的な姿で表す、体現する。",
+          "frequency": 6,
+          "difference": "represent が記号と対象の対応なども広く表すのに対し、embody は理念や性質が具体的な人・物・制度などに表れていることに焦点を置く。象徴的な表現と重なる場合もある。",
+          "example": "Her work embodies a deep respect for nature.",
+          "translation": "彼女の作品には、自然への深い敬意が表れている。"
+        },
+        {
+          "word": "exemplify",
+          "definition": "ある種類や性質をよく示す典型例となる。",
+          "frequency": 5,
+          "difference": "この意味では、記号として別の対象を指すというより、実際の例がその特徴を示すことに焦点がある。説明のために例を挙げるという別の用法もあり、すべての exemplify が典型例としての represent と同じではない。",
+          "example": "This building exemplifies the architect's simple style.",
+          "translation": "この建物は、その建築家の簡潔な様式をよく示す例だ。"
         }
       ],
       "antonyms": []
@@ -513,7 +529,7 @@
           "word": "assert",
           "definition": "あることを正しいとして強く主張する。",
           "frequency": 6,
-          "difference": "assert は主張の強さに焦点があり、正式な相手への表明を必ずしも必要としない。",
+          "difference": "assert は内容を正しいものとして断言する姿勢に焦点がある。声量や攻撃性は必須ではなく、represent と単純な強度順位で区別するものでもない。正式な相手への表明という場面に限らず使える。",
           "example": "She asserted that the figures were accurate.",
           "translation": "彼女は、その数値は正確だと主張した。"
         }
