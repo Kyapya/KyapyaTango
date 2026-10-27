@@ -3,7 +3,7 @@
   "slug": "stuff",
   "ipa": "米・英: /stʌf/",
   "lead": "個々の名前を挙げず、物・持ち物・用具などをひとまとめに指す。話し手が名前を知らない場合だけでなく、細かく特定する必要がない場合にも使う。",
-  "updated": "2026-10-02",
+  "updated": "2026-10-27",
   "notion_url": "https://app.notion.com/p/stuff-3804faa9b77d8165ae49f58387f7c257",
   "pronunciation": [
     "1音節で、その母音は /ʌ/。staff は米 /stæf/、英 /stɑːf/ とされ、この1音節の母音が stuff と異なる。",
@@ -162,6 +162,14 @@
         "物を指す語義1と、行動・出来事・話題を指すこの語義は、目的語や前後の文脈で区別する。and stuff や and stuff like that は列挙の最後で「など、そういうもの」を表す。small stuff は些細なこと、kids’ stuff は子ども向けのことや非常に簡単なことを指し得る。stuff and nonsense は、話をばかげていると退ける古風な決まり文句。the hard stuff は酒などを指す慣用句にもなる（語義3）。"
       ],
       "synonyms": [
+        {
+          "word": "things",
+          "definition": "行うことや用事などを、個々に数えられる事柄として指す。",
+          "frequency": 10,
+          "difference": "stuff to do と things to do は、やることを指す点で重なる。stuff は不可算でくだけたまとめ方、things は可算名詞の複数形である。情報の内容を表す content と同じ対象範囲ではない。",
+          "example": "I have a few things to do before dinner.",
+          "translation": "夕食の前に、いくつかやることがある。"
+        },
         {
           "word": "content",
           "definition": "文章・動画・授業などの内容。",
@@ -352,7 +360,7 @@
           "word": "cram",
           "definition": "狭い場所へ無理に詰め込む。",
           "frequency": 6,
-          "difference": "cram は無理やり詰める感じが stuff よりさらに強い。",
+          "difference": "cram は空間に対して中身が多く、窮屈に詰め込むことを強調する。stuff も強引な詰め込みを表せるため、強さの固定順位ではない。stuff は料理や製品へ適量の詰め物を入れる場合にも使う。",
           "example": "They crammed six people into the car.",
           "translation": "彼らは車に6人を無理やり詰め込んだ。"
         }
@@ -370,7 +378,7 @@
           "word": "unpack",
           "definition": "荷物を解く、詰めた物を取り出す。",
           "frequency": 6,
-          "difference": "pack や stuff された物を取り出す方向の動作。",
+          "difference": "荷物を容器へ詰める場面では、詰めた物を取り出すという逆方向を表す。料理やクッションの詰め物を取り除くことまで、一般に unpack と呼ぶわけではない。",
           "example": "I need to unpack my suitcase.",
           "translation": "スーツケースの荷物を出さないといけない。"
         }
@@ -466,7 +474,7 @@
           "word": "essence",
           "definition": "物事をその物事たらしめる本質的な性質。",
           "frequency": 6,
-          "difference": "essence は本質を直接名づけるやや硬い語。the stuff of は材料になぞらえる表現で、文ごとの置き換えはできない。",
+          "difference": "本質的な性質という範囲で近いが、essence は夢や伝説の題材、役割への適性、困難に耐える強さのすべてを表すわけではない。材料になぞらえる the stuff of と、文ごとにそのまま置き換えられる表現ではない。",
           "example": "The essay captures the essence of their friendship.",
           "translation": "その随筆は、二人の友情の本質を捉えている。"
         }
@@ -480,10 +488,10 @@
       "register": [
         "口語的な慣用表現。投球の stuff は特に米国の野球用語。"
       ],
-      "definition": "ある分野についての知識や、実際に示すことのできる能力・持ち味を表す。know one’s stuff は詳しいこと、do one’s stuff は得意なことを実行すること、strut one’s stuff は技量や魅力を自信たっぷりに見せることを表す。野球では、投手が投げる球の速さや変化などの質も指す。",
+      "definition": "ある分野についての知識や、実際に示すことのできる能力・持ち味を表す。know one’s stuff は詳しいこと、do one’s stuff は得意なことや、その人のおなじみの活動を行うこと、strut one’s stuff は技量や魅力を自信たっぷりに見せることを表す。野球では、投手が投げる球の速さや変化などの質も指す。",
       "patterns": [
         "know one’s stuff＝その分野に詳しい",
-        "do one’s stuff＝得意なことをやってみせる",
+        "do one’s stuff＝得意なこと・おなじみの活動を行う",
         "strut one’s stuff＝技量・魅力を誇らしげに披露する",
         "have good stuff＝よい球質・投球能力がある（野球）"
       ],
@@ -496,7 +504,7 @@
         },
         {
           "pattern": "do one’s stuff",
-          "use": "得意な技能を発揮する。",
+          "use": "その人が得意とする作業や、その人のおなじみの活動を行う。",
           "example": "We gave the mechanic some space and let her do her stuff.",
           "translation": "私たちは整備士に作業場所を空け、腕を振るってもらった。"
         },
@@ -514,7 +522,7 @@
         }
       ],
       "notes": [
-        "所有格は主体に合わせ、I know my stuff、she knows her stuff のようにする。strut one’s stuff は見せつけるような自信を含み、単に知識がある know one’s stuff とは違う。野球の stuff は球の速さ・変化などの質を指し、よい stuff があっても制球がよいとは限らない。"
+        "所有格は主体に合わせ、I know my stuff、she knows her stuff のようにする。 do one’s stuff は、必ず高度な技能を披露するという意味ではないが、単に割り当てられた仕事なら何でも指せるわけではなく、その人の得意なこと・おなじみの活動との結び付きがある。strut one’s stuff は見せつけるような自信を含み、単に知識がある know one’s stuff とは違う。野球の stuff は球の速さ・変化などの質を指し、よい stuff があっても制球がよいとは限らない。"
       ],
       "synonyms": [
         {
@@ -577,14 +585,21 @@
         }
       ],
       "notes": [
-        "人が自分で食べる能動形 stuff oneself と、別の人に食べさせる stuff someone を区別する。目的語を置かずに食べる意味で使う形もある。stuff down は急いで食べたり、むさぼるように食べたりする言い方で、食べる量だけを表すものではない。代名詞は stuff it down の順にする。満腹という結果の形容詞は語義5。量を中立的に述べるなら eat a lot、食事の量を控えるなら eat lightly と言える。"
+        "人が自分で食べる能動形 stuff oneself と、別の人に食べさせる stuff someone を区別する。目的語を置かずに食べる意味で使う形もある。stuff down は急いで食べたり、むさぼるように食べたりする言い方で、食べる量だけを表すものではない。代名詞は stuff it down の順にする。満腹という結果の形容詞は語義5。量を中立的に述べるなら eat a lot、食事の量を控えるなら eat lightly と言える。",
+        "以下は、たくさん食べることと食事を差し控えることを比べる対照表現であり、食べる量の同じ尺度に沿った反意語ではない。",
+        "fast",
+        "定義: 断食する、食べない。",
+        "頻度: 〈5/10〉",
+        "違い: stuff oneself が大量に食べるなら、fast は意図的に食べないこと。",
+        "例: Some people fast during religious holidays.",
+        "訳: 宗教的な祝日に断食する人もいる。"
       ],
       "synonyms": [
         {
           "word": "gorge",
           "definition": "大量に食べる、むさぼり食う。",
           "frequency": 4,
-          "difference": "gorge は食べすぎの否定的な響きが stuff oneself より強い。",
+          "difference": "gorge は大量に食べることを前面に出すが、楽しんでたっぷり食べる描写にも、食べすぎを批判する描写にも使う。stuff oneself と比べて、常に否定的な評価が強いという順位ではない。",
           "example": "They gorged on cake.",
           "translation": "彼らはケーキをたらふく食べた。"
         },
@@ -597,16 +612,7 @@
           "translation": "子どもたちはピザをぺろりと平らげた。"
         }
       ],
-      "antonyms": [
-        {
-          "word": "fast",
-          "definition": "断食する、食べない。",
-          "frequency": 5,
-          "difference": "stuff oneself が大量に食べるなら、fast は意図的に食べないこと。",
-          "example": "Some people fast during religious holidays.",
-          "translation": "宗教的な祝日に断食する人もいる。"
-        }
-      ]
+      "antonyms": []
     },
     {
       "number": 9,
@@ -699,7 +705,7 @@
           "word": "mount",
           "definition": "動物などの標本を、観察・展示できる形に整える。",
           "frequency": 3,
-          "difference": "この専門用法では剥製の製作にも使う。mount は標本の支持・配置を含む仕上げを広く指し、stuff は内部を詰めて外形を保つことを強調する。",
+          "difference": "mount は死んだ動物や骨格などを観察・展示できる標本として整えることを指し、単に完成品を台座へ固定する場合だけではない。stuff は動物を剥製にする言い方で、mount の骨格標本などの範囲まで同じではない。実際の製作方法を、この二語だけで一律に区分しない。",
           "example": "The taxidermist mounted the deer for display.",
           "translation": "剥製師は、そのシカを展示用の剥製に仕上げた。"
         }
@@ -747,7 +753,7 @@
       "synonyms": [
         {
           "word": "forget it",
-          "definition": "要求や提案に対して、だめだと強く拒む定型句。",
+          "definition": "要求や提案を拒むときに使う定型句。",
           "frequency": 6,
           "difference": "この拒絶用法では Stuff it! に近いが、卑俗さは比較的弱い。別の文脈では「気にしないで」という慰めにもなる。",
           "example": "“Will you lend me your car?” “Forget it.”",
@@ -1017,9 +1023,9 @@
       "synonyms": [
         {
           "word": "block",
-          "definition": "相手のシュートや進路をさえぎる。",
+          "definition": "バスケットボールで相手のシュートをさえぎる。",
           "frequency": 7,
-          "difference": "block はシュートや進路の阻止を表す一般的な語。stuff は米国のスポーツで使われるくだけた言い方である。",
+          "difference": "ここではバスケットボールのシュート阻止について stuff と重なる。アメリカンフットボールの block には相手選手を遮って味方の進路を確保する用法もあるため、守備側が走者の前進を止める stuff と一律には置き換えない。",
           "example": "The defender blocked the shot.",
           "translation": "守備の選手がそのシュートをブロックした。"
         }
