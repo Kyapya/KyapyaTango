@@ -3,7 +3,7 @@
   "slug": "vital",
   "ipa": "米・英: /ˈvaɪtəl/。2音節で第1音節に強勢があり、第1音節の母音は /aɪ/、第2音節の母音は弱い /ə/。終部を /tl/ と示す辞書もあるが、ここで示した /təl/ と辞書の表記差を、必ず英米の発音差だと決めない。複数名詞 vitals は /ˈvaɪtəlz/ で、語末に /z/ が付く。",
   "lead": "物事の存続・働き・成功などに欠かせない、または非常に重要な。",
-  "updated": "2026-10-25",
+  "updated": "2026-10-26",
   "notion_url": "https://app.notion.com/p/vital-4044faa9b77d810b816afddb8b74d1dd",
   "pronunciation": [],
   "etymology": [
@@ -16,7 +16,7 @@
     },
     {
       "term": "vitality",
-      "description": "生命力・活力を表す名詞。vital と同じラテン語系列に属するが、英語で新たに接尾辞を付けただけという歴史説明にはしない。"
+      "description": "生命力・活力を表す名詞。vital と同じラテン語系列に属する。語の見た目の対応と、英語へ入った歴史的な経路は区別する。"
     },
     {
       "term": "vitalize",
@@ -34,47 +34,51 @@
   "core": [
     {
       "type": "paragraph",
-      "text": "生命・活動の要や、対象の基本的な状態・特徴に関わるイメージ。指標・情報の語義では、生命活動の測定値、人物・物事の基本プロフィール、その数値化や体形への限定を区別する。"
+      "text": "中心は「生命・活動の根本に関わること」で、生命そのもの、その働きを支える力や部分から、一般の活動にとって重要なものへつながる。情報を指す用法では、そうした重要な事柄からそれを示す情報へと指す対象が移り、人物の基本プロフィールや物事の主要な数値、さらに身体寸法を指す定着した表現となる。"
     },
     {
       "type": "item",
-      "text": "生命・活動に関わる不可欠な要素 → 「不可欠な・非常に重要な」（語義1）"
+      "text": "根本に関わる活動の成否を支える要素 → 「不可欠な・非常に重要な」（語義1）"
     },
     {
       "type": "item",
-      "text": "生命・活動に関わる働き・処置対象・記録 → 「生命に関する・生命維持に必要な」（語義2）"
+      "text": "根本に関わる生命そのものやその働き → 「生命に関する・生命維持に必要な」（語義2）"
     },
     {
       "type": "item",
-      "text": "生命・活動に関わる力強い勢い → 「活力のある・生き生きした」（語義3）"
+      "text": "根本に関わる生命力が満ちた状態 → 「活力のある・生き生きした」（語義3）"
     },
     {
       "type": "item",
-      "text": "生命・活動に関わる身体状態の指標 → 「バイタルサイン」（語義4）"
+      "text": "根本に関わる生命活動を示す指標 → 「バイタルサイン」（語義4）"
     },
     {
       "type": "item",
-      "text": "生命・活動に関わる重要な臓器 → 「生命維持に重要な臓器」（語義5）"
+      "text": "根本に関わる生命維持を支える器官 → 「生命維持に重要な臓器」（語義5）"
     },
     {
       "type": "item",
-      "text": "生命・活動に関わる中枢の部分 → 「重要な内部部分・核心」（語義6）"
+      "text": "根本に関わる物事の機能を支える部分 → 「重要な内部部分・核心」（語義6）"
     },
     {
       "type": "item",
-      "text": "生命・活動に関わる基本的な情報 → 「基本情報・プロフィール情報」（語義7）"
+      "text": "根本に関わる人物の主要な情報 → 「基本情報・プロフィール情報」（語義7）"
     },
     {
       "type": "item",
-      "text": "生命・活動に関わる人口の記録 → 「人口動態統計」（語義8）"
+      "text": "根本に関わる人の生死などを示す統計 → 「人口動態統計」（語義8）"
     },
     {
       "type": "item",
-      "text": "生命・活動に関わる基本プロフィールの数値化 → 「基本的な数値情報」（語義9）"
+      "text": "根本に関わる物事の特徴を示す数値 → 「基本的な数値情報」（語義9）"
     },
     {
       "type": "item",
-      "text": "生命・活動に関わる数値プロフィールの体形への限定 → 「身体寸法」（語義10）"
+      "text": "根本に関わる情報として扱う身体寸法 → 「身体寸法」（語義10）"
+    },
+    {
+      "type": "item",
+      "text": "根本に関わる活動の状態を示す指標 → 「物事の状態を示す指標」（語義11）"
     }
   ],
   "sources": [],
@@ -141,12 +145,34 @@
           "use": "成功などに大きく関わる役割を述べる。",
           "example": "Communication played a vital role in the project's success.",
           "translation": "コミュニケーションは、その計画の成功に極めて重要な役割を果たした。"
+        },
+        {
+          "pattern": "of vital importance to something",
+          "use": "何にとって極めて重要かを、importance を使う名詞句で述べる。",
+          "example": "Keeping accurate records is of vital importance to the project.",
+          "translation": "正確な記録を残すことは、その計画にとって極めて重要だ。"
         }
       ],
       "notes": [
-        "vital to doing の to は前置詞だが、it is vital to do の to は不定詞を作る。両者を混同しない。that 節を常に動詞の原形だけに限定する説明もしない。absolutely vital のような強調があり、全ての意味で程度表現が禁止されるわけではない。強い重要さを述べる語だが、どの文脈でも「なければ即座に破滅する」という厳密な条件まで含むとはしない。"
+        "vital to doing の to は前置詞だが、it is vital to do の to は不定詞を作る。両者を混同しない。that 節を常に動詞の原形だけに限定する説明もしない。absolutely vital のような強調に加え、more vital than ever のように重要さが以前より増したと捉える比較も使われる。「不可欠なら程度差はない」と考えて、程度副詞や比較を一律に禁止しない。強い重要さを述べる語だが、どの文脈でも「なければ即座に破滅する」という厳密な条件まで含むとはしない。"
       ],
       "synonyms": [
+        {
+          "word": "important",
+          "definition": "大きな影響や価値があり、重要な。",
+          "frequency": 9,
+          "difference": "important は影響・価値の大きさを広く述べ、必ずしも「それがなければ成り立たない」とまでは言わない。vital は成功や存続に関わる強い重要性・必要性を前面に出す。important にも extremely や vitally を添えた強い表現があるため、どんな文でも重要度が一定の順に並ぶわけではない。",
+          "example": "The meeting raised several important questions about the plan.",
+          "translation": "その会議では、計画について重要な疑問がいくつも提起された。"
+        },
+        {
+          "word": "necessary",
+          "definition": "ある目的や理由のために必要な。",
+          "frequency": 8,
+          "difference": "necessary は目的を満たすために必要かどうかを述べる。vital は必要性に加えて、そのことが成功や存続に持つ重要さを強調しやすい。必要性の意味では両語は重なり、necessary なら重要でないという区分にはしない。",
+          "example": "A password is necessary to open this file.",
+          "translation": "このファイルを開くには、パスワードが必要だ。"
+        },
         {
           "word": "essential",
           "definition": "必要不可欠な。",
@@ -162,6 +188,30 @@
           "difference": "結果を左右する重要な点を捉えやすい。vital と重なる場面は多く、crucial は一瞬の局面だけ、vital は生命だけという区分にはしない。",
           "example": "Timing was crucial to the success of the operation.",
           "translation": "その作業の成功には、タイミングが決定的に重要だった。"
+        },
+        {
+          "word": "critical",
+          "definition": "結果や成否にとって極めて重要な。",
+          "frequency": 7,
+          "difference": "vital と広く重なるが、critical は業務や科学技術上の重要な条件を述べる場面でもよく使われる。これは使用傾向であり、vital がその分野で使えないという意味ではない。ここでは危篤や批判的という別義を扱わない。",
+          "example": "Temperature control is critical to the success of the experiment.",
+          "translation": "温度管理は、その実験の成功にとって極めて重要だ。"
+        },
+        {
+          "word": "decisive",
+          "definition": "最終的な結果を左右する、決定的な。",
+          "frequency": 6,
+          "difference": "vital が成功や存続を支える重要さを強調するのに対し、decisive は結果を決める働きに焦点を当てる。ある要素が不可欠であることと、その要素が最終的な決め手になることは同じではない。",
+          "example": "The final goal proved decisive in the match.",
+          "translation": "最後のゴールが、その試合の決め手となった。"
+        },
+        {
+          "word": "indispensable",
+          "definition": "欠いては済ませられないほど重要な。",
+          "frequency": 5,
+          "difference": "vital と同様に強い必要性を表し、とりわけそれなしでは済ませられないという見方を前面に出す。人にも物にも使え、物専用などの区別はしない。",
+          "example": "These records are indispensable for checking the figures.",
+          "translation": "数字を確かめるには、これらの記録が欠かせない。"
         }
       ],
       "antonyms": []
@@ -208,7 +258,7 @@
         }
       ],
       "notes": [
-        "vital organs のような生命維持に必要なものと、vital staining のような生体を対象にするものでは、修飾関係が異なる。後者を単に「不可欠な染色」とは訳さない。vital records が出生・死亡などの記録に関係する場合もあるが、普通に「重要な記録」という語義1の読みもある。この限定用法を理由に、一般の重要義や活力義まで述語にできないとしない。"
+        "vital organs のような生命維持に必要なものと、vital staining のような生体を対象にするものでは、修飾関係が異なる。後者を単に「不可欠な染色」とは訳さない。vital records が出生・死亡などの記録に関係する場合もあるが、普通に「重要な記録」という語義1の読みもある。この限定用法とは異なり、一般の重要義や活力義は述語にも使える。"
       ],
       "synonyms": [],
       "antonyms": []
@@ -225,7 +275,8 @@
         "a vital person",
         "a vital personality",
         "a vital arts scene",
-        "remain vital。名詞修飾にも述語にも使う。"
+        "remain vital",
+        "more vital than ...。名詞修飾にも述語にも使う。"
       ],
       "collocations": [
         {
@@ -239,10 +290,16 @@
           "use": "活気のある文化的な活動を述べる。",
           "example": "The city has a vital arts scene, full of new ideas and energy.",
           "translation": "その街には、新しい発想とエネルギーに満ちた活気ある芸術活動がある。"
+        },
+        {
+          "pattern": "more vital than before",
+          "use": "活気の程度を以前と比較する。",
+          "example": "The arts scene is more vital now than it was ten years ago.",
+          "translation": "芸術活動は、10年前より今の方が活気にあふれている。"
         }
       ],
       "notes": [
-        "単に死亡していないことを表す alive と同じではない。vital はここでは活力・勢いを述べる。人だけに限定する根拠もなく、活動などについても使う。"
+        "単に死亡していないことを表す alive と同じではない。vital はここでは活力・勢いを述べる。人だけに限定する根拠もなく、活動や芸術作品などについても使う。very vital と程度を強めたり、more vital と活気の程度を比較したりする用法もある。more vital が「より重要な」なのか「より活気のある」なのかは、周囲の内容から判断する。"
       ],
       "synonyms": [
         {
@@ -252,6 +309,30 @@
           "difference": "精力的に活動する様子を表す。vital のこの意味と重なるが、語義1の不可欠な役割まで常に energetic で言い換えられるわけではない。",
           "example": "He is an energetic member of the team.",
           "translation": "彼はチームの中でも精力的なメンバーだ。"
+        },
+        {
+          "word": "dynamic",
+          "definition": "活力があり、強い個性を持つ（人物）。",
+          "frequency": 6,
+          "difference": "人物については vital の活力義と重なるが、dynamic は勢いと強い個性を評価する、好意的な人物描写に使う。ここでは、仕組みが変化し続けるという別義は扱わない。",
+          "example": "She is a dynamic leader, full of energy and confidence.",
+          "translation": "彼女は、活力と自信にあふれた、力強い個性を持つリーダーだ。"
+        },
+        {
+          "word": "lively",
+          "definition": "生き生きとして、活発で意欲のある。",
+          "frequency": 7,
+          "difference": "この活力義では vital と意味の重なりが大きく、厳密な使い分けの境界はない。lively は人の活発な様子や関心などを直接述べる。語義1の不可欠という vital の意味にはそのまま置き換えない。",
+          "example": "She remained lively and curious throughout the long discussion.",
+          "translation": "長い議論の間、彼女はずっと生き生きとしていて、好奇心も失わなかった。"
+        },
+        {
+          "word": "animated",
+          "definition": "興味や活気に満ちている。",
+          "frequency": 5,
+          "difference": "vital の生命力・活力という描写と重なる範囲で、animated は表情、声、会話などに表れる活気を捉えやすい。アニメーションで動く映像という別義とは区別する。",
+          "example": "Her face became animated as she described the project.",
+          "translation": "その計画を説明するうちに、彼女の表情は生き生きとしてきた。"
         }
       ],
       "antonyms": []
@@ -278,7 +359,7 @@
         }
       ],
       "notes": [
-        "この意味を「重要な臓器を記録した」と訳さない。語の説明から、各指標の正常範囲や診断・治療上の判断を推測しない。vital signs は比喩的に物事の状態を示す指標にも使われるため、文脈も確認する。"
+        "この意味を「重要な臓器を記録した」と訳さない。語の説明から、各指標の正常範囲や診断・治療上の判断を推測しない。vital signs の物事の状態を示す指標という比喩用法は、語義11を参照。"
       ],
       "synonyms": [],
       "antonyms": []
@@ -358,7 +439,16 @@
       "notes": [
         "この文脈では、医療の測定記録という語義4とは限らない。同じ vitals でも、何が列挙されているかで指すものを確かめる。"
       ],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "particulars",
+          "definition": "人物や物事についての個々の情報・詳細。",
+          "frequency": 4,
+          "difference": "vitals がここでは紹介や把握の要となる基本情報を指すのに対し、particulars は個別の情報項目や細部を指し、人物のプロフィール以外にも使う。どちらも数値だけに限らず、対象となる情報の範囲は文脈による。",
+          "example": "Please send us the particulars of the proposed arrangement.",
+          "translation": "提案されている取り決めの詳細を送ってください。"
+        }
+      ],
       "antonyms": []
     },
     {
@@ -418,7 +508,7 @@
       "title": "【名詞句・複数形】身体寸法",
       "frequency": 2,
       "register": [
-        "くだけた表現。使い方によっては失礼・不快に受け取られることがある。"
+        "くだけた、戯れのある表現。英国英語では古めかしいともされる。使い方によっては失礼・不快に受け取られることがある。"
       ],
       "definition": "vital statistics の形で、とくに女性のバスト・ウエスト・ヒップなどの寸法を指す用法。",
       "patterns": [
@@ -426,25 +516,51 @@
       ],
       "collocations": [
         {
-          "pattern": "vital statistics for body measurements",
-          "use": "この表現が身体寸法を指して使われていることを述べる。",
-          "example": "The form used \"vital statistics\" to refer to bust, waist, and hip measurements.",
-          "translation": "その用紙では、「vital statistics」がバスト・ウエスト・ヒップの寸法を意味していた。"
+          "pattern": "record someone's vital statistics",
+          "use": "文脈を衣装合わせに限定し、身体寸法を記録することを述べる。",
+          "example": "The costume designer recorded her vital statistics, including her bust, waist, and hip measurements.",
+          "translation": "衣装デザイナーは、彼女のバスト・ウエスト・ヒップなどの寸法を記録した。"
         }
       ],
       "notes": [
-        "中立的な身長・体重などの基本情報という語義9とも、生命活動を示す vital signs とも区別する。相手の体形を話題にするときに、どの場面でも丁寧で無難な呼称だと考えない。"
+        "これらの寸法が生命維持に不可欠という意味ではなく、体形の主要な数値として戯れに取り上げる呼び名。中立的な身長・体重などの基本情報という語義9とも、生命活動を示す vital signs とも区別する。相手の体形を話題にするときに、どの場面でも丁寧で無難な呼称だと考えない。"
       ],
       "synonyms": [
         {
           "word": "body measurements",
           "definition": "身体の各部の寸法。",
           "frequency": 3,
-          "difference": "身体の寸法を直接述べる表現。vital statistics は他の分野では人口動態や製品の数値にも使われるので、身体の寸法という意味を文脈で確かめる必要がある。",
+          "difference": "body measurements は身体の寸法を直接、中立的に述べる。vital statistics のこの用法は、特に女性の体形を戯れのある調子で取り上げ、場面によっては失礼に響く。衣装合わせなどで単に寸法を求めるなら body measurements の方が無難で、vital statistics には身体寸法以外の意味もある。",
           "example": "The form asks for body measurements for costume fitting.",
           "translation": "その用紙は、衣装を合わせるための身体寸法を記入するよう求めている。"
         }
       ],
+      "antonyms": []
+    },
+    {
+      "number": 11,
+      "title": "【名詞句・複数形】物事の状態を示す指標",
+      "frequency": 2,
+      "register": [
+        "経済・組織・仕組みなどの状態を述べる比喩的な表現。"
+      ],
+      "definition": "vital signs の形で、組織や仕組みなどの全体的な状態を示すと考えられる、測定可能な指標を指す。",
+      "patterns": [
+        "monitor something's vital signs",
+        "the vital signs of something。"
+      ],
+      "collocations": [
+        {
+          "pattern": "monitor something's vital signs",
+          "use": "物事の状態を、測定できる指標で継続的に把握することを述べる。",
+          "example": "The report monitors the company's vital signs, including sales and cash flow.",
+          "translation": "その報告書は、売上やキャッシュフローなど、会社の状態を示す指標を継続的に追っている。"
+        }
+      ],
+      "notes": [
+        "身体の状態を示す vital signs を、組織などの状態になぞらえて使う。どの指標が適切かは対象と目的によって異なり、この表現だけで評価指標の一覧や健全性の判定基準が決まるわけではない。語義9の vital statistics が基本的な数値情報を指すのに対し、ここでは測定可能な指標から物事の状態を読み取ることに重点がある。"
+      ],
+      "synonyms": [],
       "antonyms": []
     }
   ]
