@@ -1,96 +1,122 @@
-name: Sync dictionary from Notion
+# Keep this filename/input for existing webhook dispatchers. They now read GitHub,
+# never Notion. The source repository's separate Notion copy is unaffected.
+name: Sync dictionary from GitHub
 
 on:
   workflow_dispatch:
     inputs:
       word:
-        description: Optional single word to sync
+        description: Optional single word to sync from checked GitHub source
         required: false
         type: string
   schedule:
     - cron: '17 */6 * * *'
   push:
-    branches:
-      - main
+    branches: [main]
     paths:
-      - scripts/sync_notion.py
-      - scripts/build_site.py
-      - scripts/normalize_content.py
-      - scripts/fix_sense_navigation.py
-      - assets/home.js
-      - assets/site.js
-      - assets/compact-list.css
-      - scripts/finalize_site.py
-      - tests/test_mobile_toolbar_behavior.py
-      - config/notion.json
-      - tests/test_sync_selection.py
-      - tests/test_normalize_content.py
-      - tests/test_fix_sense_navigation.py
+      - 'scripts/**'
+      - 'tests/**'
+      - 'assets/**'
+      - .github/workflows/sync-notion.yml
+  pull_request:
+    paths:
+      - 'scripts/**'
+      - 'tests/**'
+      - 'assets/**'
       - .github/workflows/sync-notion.yml
 
 permissions:
-  contents: write
+  contents: read
 
+# Retain the old group so an already-running legacy sync cannot overlap this one.
+# Queue rather than cancel a job midway through a validated publication.
 concurrency:
-  group: notion-dictionary-sync
-  cancel-in-progress: true
+  group: ${{ github.event_name == 'pull_request' && format('dictionary-ci-{0}', github.event.pull_request.number) || 'notion-dictionary-sync' }}
+  cancel-in-progress: false
 
 jobs:
-  sync:
+  validate:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
-      - name: Check out repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
-          fetch-depth: 0
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
+          persist-credentials: false
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
           cache: pip
+      - run: python -m pip install -r requirements.txt
+      - run: python -m py_compile scripts/*.py
+      - run: python -m unittest discover -s tests -p 'test_*.py'
+      - name: Native study regression tests
+        run: |
+          for test in tests/study_native_*.cjs tests/study_stale_session.cjs; do
+            node "$test"
+          done
+      - name: Build and validate existing site
+        run: |
+          python scripts/build_site.py
+          python scripts/fix_sense_navigation.py
+          python scripts/finalize_site.py
+          python scripts/validate_site.py
 
-      - name: Install dependencies
-        run: python -m pip install -r requirements.txt
-
-      - name: Check Python syntax
-        run: python -m py_compile scripts/*.py
-
-      - name: Run synchronization selection tests
-        run: python -m unittest discover -s tests -p 'test_*.py'
-
-      - name: Sync Notion pages
+  sync:
+    needs: validate
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+    steps:
+      - name: Check out current publication branch
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: python -m pip install -r requirements.txt
+      - name: Revalidate current branch code before publication
+        run: |
+          python -m py_compile scripts/*.py
+          python -m unittest discover -s tests -p 'test_*.py'
+      - name: Fetch immutable public source without credentials
         env:
-          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
-          NOTION_DATA_SOURCE_ID: ${{ secrets.NOTION_DATA_SOURCE_ID }}
+          SOURCE_DIR: ${{ runner.temp }}/dictionary-source
+        run: |
+          git clone --filter=blob:none --sparse --branch main --single-branch \
+            https://github.com/Kyapya/english-dictionary.git "$SOURCE_DIR"
+          git -C "$SOURCE_DIR" sparse-checkout set entries queue
+          echo "SOURCE_SHA=$(git -C "$SOURCE_DIR" rev-parse HEAD)" >> "$GITHUB_ENV"
+          echo "SITE_BASE=$(git rev-parse HEAD)" >> "$GITHUB_ENV"
+      - name: Import checked source (preserve last-known-good)
+        env:
+          SOURCE_DIR: ${{ runner.temp }}/dictionary-source
           REQUESTED_WORD: ${{ inputs.word }}
         run: |
-          args=()
-          if [ -n "$REQUESTED_WORD" ]; then
-            args+=(--word "$REQUESTED_WORD")
-          else
-            args+=(--allow-partial)
-          fi
-          python scripts/sync_notion.py "${args[@]}"
-
-      - name: Normalize generated content
-        run: python scripts/normalize_content.py
-
-      - name: Build static site
-        run: python scripts/build_site.py
-
-      - name: Repair sense navigation labels
-        run: python scripts/fix_sense_navigation.py
-
-      - name: Finalize generated pages
-        run: python scripts/finalize_site.py
-
-      - name: Validate generated site
-        run: python scripts/validate_site.py
-
-      - name: Commit generated changes
+          args=(--source "$SOURCE_DIR" --require-ci)
+          if [ -n "$REQUESTED_WORD" ]; then args+=(--word "$REQUESTED_WORD"); fi
+          python scripts/sync_source.py "${args[@]}"
+      - name: Build and validate the exact candidate
         run: |
+          python scripts/normalize_content.py
+          python scripts/build_site.py
+          python scripts/fix_sense_navigation.py
+          python scripts/finalize_site.py
+          python scripts/validate_site.py
+      - name: Commit validated candidate (Pages delivery remains a draft blocker)
+        env:
+          SOURCE_DIR: ${{ runner.temp }}/dictionary-source
+        run: |
+          # No stale source/site writes, rebases, force pushes, or token-triggered
+          # workflow chaining. GITHUB_TOKEN pushes do not guarantee Pages builds.
+          # DRAFT BLOCKER: an explicit Pages build needs separately approved
+          # job-scoped pages: write; do not merge until that route is resolved.
+          test "$(git ls-remote https://github.com/Kyapya/english-dictionary.git refs/heads/main | cut -f1)" = "$SOURCE_SHA"
+          test "$(git ls-remote origin refs/heads/main | cut -f1)" = "$SITE_BASE"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add content index.html words data
@@ -98,5 +124,5 @@ jobs:
             echo "No dictionary changes found."
             exit 0
           fi
-          git commit -m "Sync dictionary from Notion"
-          git push
+          git commit -m "Sync dictionary from GitHub $SOURCE_SHA"
+          git push origin HEAD:main
