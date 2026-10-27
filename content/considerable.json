@@ -3,7 +3,7 @@
   "slug": "considerable",
   "ipa": "米・英: /kənˈsɪdərəbl/",
   "lead": "量・数・大きさ・程度が、小さいとは扱えないほど大きいこと。「かなりの時間」「相当な損害」「大きな影響」のように、修飾する名詞に合わせて訳す。正確な数値や基準は示さず、対象を相当な規模と捉える話者の判断を表す。望ましいものにも望ましくないものにも使い、必ずしも「極端に大きい」「十分である」という意味ではない。",
-  "updated": "2026-10-03",
+  "updated": "2026-10-27",
   "notion_url": "https://app.notion.com/p/considerable-3ee4faa9b77d81ac92c1fcd660abd9cf",
   "pronunciation": [
     "第2音節に強勢を置く。綴りの -able を独立した語 able の発音で読まない。"
@@ -227,14 +227,14 @@
         }
       ],
       "notes": [
-        "a considerable artist は芸術家という人物を評価するが、an artist of considerable talent は才能の程度を述べるため語義1に当たる。人物について広く分かりやすく述べるなら、an important artist、a distinguished artist なども使える。「思いやりのある芸術家」は a considerate artist で、別の評価になる。"
+        "a considerable artist は芸術家という人物を評価するが、an artist of considerable talent は才能の程度を述べるため語義1に当たる。人物について広く分かりやすく述べるなら、an important artist、a distinguished artist なども使える。「思いやりのある芸術家」は a considerate artist で、別の評価になる。 major も重要人物・主要な作品の評価に使えるが、a major improvement のように変化の規模・効果にも使うため、「major は重要性だけ、considerable は量だけ」と分けない。"
       ],
       "synonyms": [
         {
           "word": "important",
-          "definition": "人物が、役割・地位・影響力などの点で重要な存在であること。",
+          "definition": "人物・作品・物事などが、役割・影響・意義などの点で重要であること。",
           "frequency": 9,
-          "difference": "considerable の人物評より一般的で、影響力だけでなく役割や地位の重要性にも広く使える。",
+          "difference": "considerable の硬い人物・作品評より一般的で、役割・影響・意義の重要性を広く表せる。単に数量が大きいという意味ではない。",
           "example": "She became an important figure in the movement.",
           "translation": "彼女はその運動の重要人物になった。"
         },
@@ -242,9 +242,25 @@
           "word": "distinguished",
           "definition": "業績や能力が優れており、高く評価されていること。",
           "frequency": 6,
-          "difference": "considerable より、優れた実績に対する評価・敬意が明確に表れる。",
+          "difference": "considerable は、その人物が重要な存在だという評価に使う。distinguished は優れた実績・能力への高い評価を示し、単に目立つ・広く知られているだけとは異なる。",
           "example": "The prize was presented by a distinguished scientist.",
           "translation": "その賞は高名な科学者から授与された。"
+        },
+        {
+          "word": "notable",
+          "definition": "人物・作品・出来事などが、特に注目に値すること。",
+          "frequency": 7,
+          "difference": "人物の重要性だけでなく、作品・改善・例外などの注目すべき特徴にも使う。重要性を評価する considerable と重なるが、単に量が相当あることとは区別する。noteworthy も「注目に値する」という近い語で、両者の強さを一律に順位付けはしない。",
+          "example": "The collection includes several notable works by young artists.",
+          "translation": "そのコレクションには、若い芸術家による注目すべき作品がいくつか含まれている。"
+        },
+        {
+          "word": "prominent",
+          "definition": "ある分野・集団でよく知られ、目立った地位を占めること。",
+          "frequency": 7,
+          "difference": "人物については知名度や目立つ存在であることに焦点がある。業績・重要性とも重なるが、considerable による価値・重要性の評価を、単に有名かどうかだけで捉えない。",
+          "example": "She is a prominent figure in local politics.",
+          "translation": "彼女は地元の政治でよく知られた有力人物だ。"
         }
       ],
       "antonyms": []
