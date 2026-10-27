@@ -3,7 +3,7 @@
   "slug": "typical",
   "ipa": "米・英: /ˈtɪpɪkl/。3音節で、第1音節の母音 /ɪ/ に強勢がある。第3音節は弱い音節で、/ˈtɪpɪkəl/ と母音 /ə/ を明示する表記もある。type の /taɪp/ とは母音が異なる。",
   "lead": "ある種類や集団に普通に見られる特徴をよく備え、その種類を示す例となる。最高品質・理想的という評価を必ず含むわけではない。",
-  "updated": "2026-10-25",
+  "updated": "2026-10-27",
   "notion_url": "https://app.notion.com/p/typical-4044faa9b77d81fea276cd66d0fa6095",
   "pronunciation": [
     "typically は米・英 /ˈtɪpɪkli/、typify は米・英 /ˈtɪpɪfaɪ/。いずれも第1音節の /ɪ/ に主強勢を置く。atypical は /ˌeɪˈtɪpɪkl/、untypical は /ʌnˈtɪpɪkl/ で、typical に当たる部分の最初の音節に主強勢がある。"
@@ -145,6 +145,14 @@
           "difference": "typical は種類の特徴をよく示すこと、normal は通常の状態・範囲に合うことに重点がある。",
           "example": "The machine is operating within its normal temperature range.",
           "translation": "その機械は、通常の温度範囲内で稼働している。"
+        },
+        {
+          "word": "common",
+          "definition": "頻繁に起こる、または多くの場所・例で見られる。",
+          "frequency": 9,
+          "difference": "common は頻度や分布、typical は種類の特徴をよく示すことに焦点がある。よく見られる特徴が典型的でもある場合は重なるが、単に数が多いことと、ある種類をよく表すことは判断の軸が異なる。",
+          "example": "This spelling error is common among beginners.",
+          "translation": "この綴りの間違いは、初心者によく見られる。"
         }
       ],
       "antonyms": []
@@ -179,7 +187,16 @@
       "notes": [
         "一回だけの特殊な出来事ではなく、普段の様子を例として示す。数値と一緒に使っても、それが厳密な算術平均だとは限らない。"
       ],
-      "synonyms": [],
+      "synonyms": [
+        {
+          "word": "usual",
+          "definition": "たいていの場合に起こる、または普段行われる。",
+          "frequency": 9,
+          "difference": "usual は普段の習慣・あり方に焦点があり、この意味の typical と近い。a typical day は普段の一日を例として示す言い方で、my usual seat は自分がいつも座る特定の席を指す。usual のすべての結合を typical に置き換えるわけではない。",
+          "example": "We took our usual route to the station.",
+          "translation": "私たちは、いつもの道を通って駅へ向かった。"
+        }
+      ],
       "antonyms": []
     },
     {
@@ -217,7 +234,8 @@
         }
       ],
       "notes": [
-        "It is typical of you to … は行為によって褒め言葉にも批判にもなる。Typical! だけの発話はしばしば苛立ちを表すが、typical の全用法が否定的なのではない。"
+        "It is typical of you to … は行為によって褒め言葉にも批判にもなる。Typical! だけの発話はしばしば苛立ちを表すが、typical の全用法が否定的なのではない。",
+        "in character も、振る舞いが普段の性格に合っていることを表し、この人物らしさの typical と重なる。ただし、in character には演技で「役になりきって」という用法もある。一方、Typical! という苛立ちの一言を in character にそのまま置き換えても、同じ慣用的な発話にはならない。"
       ],
       "synonyms": [],
       "antonyms": []
