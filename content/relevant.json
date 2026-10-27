@@ -3,7 +3,7 @@
   "slug": "relevant",
   "ipa": "米・英: /ˈreləvənt/",
   "lead": "扱っている話題、判断、目的、状況に関わりがあり、その検討や対処に結び付くこと。単なる連想上のつながりより、その場で取り上げる意味のある関係を表す。relevant experience は応募先の仕事に結び付く経験、the relevant department はその件に関わる・担当する部署。程度を限定して marginally relevant「わずかに",
-  "updated": "2026-10-03",
+  "updated": "2026-10-27",
   "notion_url": "https://app.notion.com/p/relevant-3ee4faa9b77d816abdf6cab9b9b7d8b4",
   "pronunciation": [
     "第1音節に強勢を置く。第2・第3音節の母音は、ここではどちらも弱い /ə/ で示している。"
@@ -140,7 +140,7 @@
       "synonyms": [
         {
           "word": "pertinent",
-          "definition": "今の問題に直接関わり、要点を押さえている。",
+          "definition": "当面の問題にはっきりした関連性がある。",
           "frequency": 6,
           "difference": "relevant より改まった語で、質問・指摘などが的を射ている点を強調しやすい。",
           "example": "She asked a pertinent question about the budget.",
@@ -334,11 +334,11 @@
       "antonyms": [
         {
           "word": "out of contention",
-          "definition": "勝利・選出などを争う可能性がなくなっている。",
+          "definition": "現実的な候補として、勝利・選出などを争う立場から外れている。",
           "frequency": 5,
-          "difference": "競争で見込みが残るかという軸での対立。relevant は柔らかな評価にもなるのに対し、out of contention は争いから外れた状態を明示する。",
+          "difference": "競争で見込みが残るかという軸での対立。out of contention は争いから外れた状態を示すが、制度上の敗退が確定したのか、現実的な見込みがないという評価なのかは文脈で判断する。",
           "example": "The defeat left them out of contention for the title.",
-          "translation": "その敗戦によって、彼らの優勝の可能性はなくなった。"
+          "translation": "その敗戦によって、彼らは優勝争いから外れた。"
         }
       ]
     },
@@ -383,14 +383,14 @@
         }
       ],
       "notes": [
-        "relevant「関連性がある」と admissible「証拠として採用できる」は同じではない。例えば米国の連邦証拠規則401では、判断に影響する事実を、証拠がない場合よりも確からしく、または確からしくなくする傾向があるかを扱う。関連性が認められても、他の規則や不当な偏見を生む危険などを理由に排除されることがあるため、relevant を「採用済み」と訳さない。a relevant law「その件に関係する法律」は証拠の用法ではなく語義1。"
+        "relevant「関連性がある」と admissible「証拠として採用できる」は同じではない。例えば米国の連邦証拠規則401では、判断に影響する事実を、証拠がない場合よりも確からしく、または確からしくなくする傾向があるかを扱う。 この規則では、その事実が当事者間で争われていること自体は必須ではない。関連性が認められても、他の規則や不当な偏見を生む危険などを理由に排除されることがあるため、relevant を「採用済み」と訳さない。a relevant law「その件に関係する法律」は証拠の用法ではなく語義1。"
       ],
       "synonyms": [
         {
           "word": "probative",
           "definition": "ある事実を証明する助けになる性質を持つ。",
           "frequency": 3,
-          "difference": "証拠の立証への寄与に焦点を置く法律用語。relevant と重なるが、その証拠がどの争点に関係するかと、どれほど強い証明力を持つかは区別する。",
+          "difference": "証拠が立証に資する性質に焦点を置く法律用語。relevant と意味が重なるが、probative だけで証明力が高い・決定的だとは言えない。立証への寄与と、その寄与の程度を区別する。",
           "example": "The recording had considerable probative value.",
           "translation": "その録音には、かなりの証明力があった。"
         }
