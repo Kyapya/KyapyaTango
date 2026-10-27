@@ -3,7 +3,7 @@
   "slug": "specific",
   "ipa": "米・英: /spəˈsɪfɪk/",
   "lead": "物事全般ではなく、ある対象、種類、場所、目的などを他から区別して指す。「特定の」対象は複数でもよく、必ずしもただ一つである必要はない。特別に優れている、珍しいという評価は含まない。",
-  "updated": "2026-10-03",
+  "updated": "2026-10-27",
   "notion_url": "https://app.notion.com/p/specific-3ee4faa9b77d81a7985be4458425c87a",
   "pronunciation": [
     "3音節で、第2音節に強勢を置く。第1音節の母音を /ɪ/ とする /spɪˈsɪfɪk/ もある。どちらも使われ、単純な米英の二分ではない。語頭の /sp/ と第2音節の /s/ を保ち、Pacific /pəˈsɪfɪk/「太平洋の」と混同しない。"
@@ -113,7 +113,7 @@
         }
       ],
       "notes": [
-        "通常は名詞の前に置くが、something、anything、nothing のような不定代名詞では something specific と後ろに置く。specific people、specific areas のように複数も修飾できる。「特定の」と「具体的な」（語義2）は重なる場合があるが、a specific person はまず「特定の人物」であり、「説明が具体的な人」という意味ではない。a specific plan は、文脈により「ある特定の計画」にも「内容の明確な計画」にもなる。specific そのものに複数語尾を付けて specific needs を specifics needs としてはいけない。"
+        "通常は名詞の前に置くが、something、anything、nothing のような不定代名詞では something specific と後ろに置く。specific people、specific areas のように複数も修飾できる。「特定の」と「具体的な」（語義2）は重なる場合があるが、a specific person はまず「特定の人物」であり、「説明が具体的な人」という意味ではない。a specific plan は、文脈により「ある特定の計画」にも「内容の明確な計画」にもなる。specific そのものに複数語尾を付けて specific needs を specifics needs としてはいけない。 special との比較では、specific は対象を個別に絞ること、special は通常と区別された役割・扱い・性質に焦点を置く。special が常に「優秀な・珍しい」を意味するわけではない。a specific purpose は「どの目的かが絞られている」、a special purpose は「通常とは区別した特別な用途がある」という違いで、同じ用途に両方が当てはまる場合もある。"
       ],
       "synonyms": [
         {
@@ -126,9 +126,9 @@
         },
         {
           "word": "certain",
-          "definition": "ある一つ・いくつかの対象を指しつつ、詳細を明言しない。",
+          "definition": "具体的に名指し・列挙せず、ある対象や対象全体のうちの一部を指す。",
           "frequency": 8,
-          "difference": "a certain person は「ある人物」と特定しながら名前を伏せるのに適し、specific は対象が絞られている点をより強調する。",
+          "difference": "certain files は全体のうちの一部を指し、a certain person のように名前を明かさず対象を示す用法もある。specific は対象を他と区別して絞る点を強調する。certain に必ず意図的な秘密保持があるわけではない。",
           "example": "Certain files can only be opened by the administrator.",
           "translation": "一部のファイルは、管理者しか開くことができない。"
         },
@@ -247,6 +247,14 @@
           "difference": "情報量の多さが中心。長く detailed な説明でも、肝心の日時・対象が曖昧なら十分に specific とは言えない。",
           "example": "She sent a detailed account of the repairs.",
           "translation": "彼女は修理内容の詳しい報告を送った。"
+        },
+        {
+          "word": "concrete",
+          "definition": "抽象的な一般論ではなく、個別の事実・事例・行動などとして示される。",
+          "frequency": 7,
+          "difference": "concrete は抽象的でないこと、specific は対象や内容を絞って明確にすることに焦点がある。具体例では重なるが、単に説明を長く詳しくすることとは違う。",
+          "example": "The report gives concrete examples of how the policy affects families.",
+          "translation": "その報告書は、政策が家族にどのような影響を与えるかを具体例で示している。"
         }
       ],
       "antonyms": [
@@ -331,7 +339,7 @@
           "word": "exclusive to",
           "definition": "ある人・場所・範囲だけに限られ、ほかには認められない・存在しない。",
           "frequency": 6,
-          "difference": "specific to より排他的な限定を強く示し、販売権・利用資格などにもよく使う。",
+          "difference": "exclusive to は他を含めない限定を示し、販売権・利用資格などにも使う。specific to が「その範囲だけに限られる」意味なら重なるが、「その対象用に特化した」意味では必ずしも排他的ではない。単純な強弱の順位にはしない。",
           "example": "The discount is exclusive to members.",
           "translation": "その割引は会員限定だ。"
         },
@@ -418,9 +426,9 @@
         },
         {
           "word": "particularities",
-          "definition": "ある対象に特有の細かな特徴。",
+          "definition": "ある対象の細かな特徴や個別の事情・詳細。",
           "frequency": 3,
-          "difference": "specifics が具体的事項全般を指すのに対し、particularities は個別の特徴・特殊性に焦点を当てるため、単なる日時や金額の一覧には通常使わない。",
+          "difference": "particularities はその対象の特徴や細かな事情に目を向ける語で、具体的な詳細を指す範囲で specifics と重なる。特徴の唯一性が必須なのではなく、扱う情報と文脈によって選ぶ。一般的に詳細を求めるなら details や specifics が使いやすい。",
           "example": "The design reflects the particularities of the local climate.",
           "translation": "その設計には、地域の気候の特性が反映されている。"
         }
@@ -576,7 +584,7 @@
           "word": "remedy",
           "definition": "病気や症状を改善・緩和するための薬・手段。",
           "frequency": 6,
-          "difference": "specific より現代的で範囲が広く、特定の病気にだけ作用することや完治を含意しない。",
+          "difference": "remedy は治療・緩和の手段を広く表す。名詞 specific は特定の病気に適した薬という位置付けに焦点があるが、それだけで他の病気には作用しないことや完治を保証するわけではない。",
           "example": "The booklet discussed traditional remedies for minor ailments.",
           "translation": "その冊子は、軽い不調に対する伝統的な治療法を取り上げていた。"
         }
