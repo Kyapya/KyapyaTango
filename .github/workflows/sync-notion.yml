@@ -114,7 +114,7 @@ jobs:
           # No stale source/site writes, rebases, force pushes, or token-triggered
           # workflow chaining. GITHUB_TOKEN pushes do not guarantee Pages builds.
           # DRAFT BLOCKER: an explicit Pages build needs separately approved
-          # job-scoped pages: write; do not merge until that route is resolved.
+          # job-scoped Pages permission; do not merge until that route is resolved.
           test "$(git ls-remote https://github.com/Kyapya/english-dictionary.git refs/heads/main | cut -f1)" = "$SOURCE_SHA"
           test "$(git ls-remote origin refs/heads/main | cut -f1)" = "$SITE_BASE"
           git config user.name "github-actions[bot]"
