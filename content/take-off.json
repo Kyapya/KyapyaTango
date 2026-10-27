@@ -3,7 +3,7 @@
   "slug": "take-off",
   "ipa": "米: /ˌteɪk ˈɔːf/ または /ˌteɪk ˈɑːf/｜英: /ˌteɪk ˈɒf/",
   "lead": "衣服・靴・化粧・カバーなどを、身につけた状態や付いている場所から外す。物を表面から取り去る場合にも使う。髪を切って短くすることや、体の一部を切断・損傷によって失わせる用法もある。",
-  "updated": "2026-10-02",
+  "updated": "2026-10-27",
   "notion_url": "https://app.notion.com/p/take-off-3804faa9b77d81fea893cfc7b2cb7fb0",
   "pronunciation": [
     "全体で2音節。第1音節 take の母音 /eɪ/ は共通で、第2音節 off の母音が米 /ɔː/ または /ɑː/、英 /ɒ/ と異なる。",
@@ -250,7 +250,7 @@
           "word": "land",
           "definition": "着陸する。",
           "frequency": 8,
-          "difference": "take off が地面を離れる動作なら、land は地面に戻る動作。",
+          "difference": "take off が地面・水面を離れる方向なら、land は空中から地面・水面へ降りる方向。元の出発地点へ帰ることは必要ない。",
           "example": "The plane landed safely.",
           "translation": "飛行機は無事に着陸した。"
         },
@@ -322,7 +322,7 @@
           "word": "leave",
           "definition": "人や乗り物が、その場所から去る。",
           "frequency": 10,
-          "difference": "leave は中立的に去ることを表し、急な動きや勢いを含まない。場所を直接目的語にする leave the office も使える。",
+          "difference": "leave は中立的に去ることを表し、急な動きや勢いを必ずしも含まない。場所を直接目的語にする leave the office も使える。",
           "example": "We left before the meeting ended.",
           "translation": "私たちは会議が終わる前に立ち去った。"
         }
@@ -378,7 +378,7 @@
         }
       ],
       "notes": [
-        "take a day off と take off a day の両方が使える。期間が分かる代名詞なら take it off のように置けるが、何を指すかが不明確なら take the day off などと明示する。休む理由が娯楽とは限らず、病気・家族の世話なども含む。",
+        "take a day off と take off a day の両方が使える。期間が分かる代名詞なら take it off のように置けるが、何を指すかが不明確なら take the day off などと明示する。休む理由が娯楽とは限らず、病気・家族の世話なども含む。 take leave は休暇取得を表すが、take one’s leave は別れを告げて立ち去るという改まった表現である。たとえば He took his leave. は「彼は別れを告げて立ち去った」で、仕事の休暇を取ったという意味ではない。",
         "take two days off work は「仕事を2日休む」、take two seconds off a record は「記録を2秒縮める」（語義6）。どちらにも数量があるため、数量目的語の有無だけでは区別できない。off の後の対象と、休業か減少かという文脈を確認する。",
         "以下は、休みの状態、病欠の連絡、職場への移動についての対照表現である。",
         "be off",
@@ -415,7 +415,7 @@
           "word": "work",
           "definition": "働く、勤務する。",
           "frequency": 10,
-          "difference": "take time off が仕事から離れることなら、work は勤務すること。",
+          "difference": "仕事を休む文脈では、休みを取る take time off と勤務する work が対照になる。仕事以外の活動から休む場合まで共通する反対語ではない。",
           "example": "I have to work this weekend.",
           "translation": "今週末は働かなければならない。"
         }
@@ -469,7 +469,7 @@
           "word": "boom",
           "definition": "急に盛んになる、急成長する。",
           "frequency": 6,
-          "difference": "boom は経済・市場・人気の急拡大に使いやすい。",
+          "difference": "boom は経済や市場などの活況・急拡大を描く。take off は勢いがついて伸び始める変化を強調しやすいが、boom が開始を表せない、take off が開始の一瞬にしか使えないという区分ではない。",
           "example": "Online sales boomed during the period.",
           "translation": "その期間にオンライン販売が急増した。"
         },
@@ -495,7 +495,7 @@
           "word": "decline",
           "definition": "衰える、減少する。",
           "frequency": 7,
-          "difference": "take off が上昇の始まりなら、decline は下落や衰退を表す。",
+          "difference": "売上や事業の増加・発展を表す take off に対し、decline は減少・衰退という逆方向を表す。どちらでもない横ばいの状態もある。",
           "example": "Sales declined after the recall.",
           "translation": "リコール後、売上は減少した。"
         },
@@ -503,7 +503,7 @@
           "word": "stall",
           "definition": "進展が止まる、失速する。",
           "frequency": 5,
-          "difference": "stall は成長や計画が止まること。",
+          "difference": "take off が勢いづくことを表すのに対し、stall は進展が止まることを表す。停止の対照であって、必ず減少・衰退するという意味ではない。",
           "example": "The project stalled because of funding problems.",
           "translation": "資金問題でそのプロジェクトは停滞した。"
         }
@@ -550,7 +550,7 @@
         }
       ],
       "notes": [
-        "take $10 off the price では $10 が引く量、the price が引かれる元の価格である。take 20 percent off は「20パーセントにする」ではなく「20パーセント減らす」。時間を目的語にしても、記録・所要時間を短くするならこの語義である。",
+        "take $10 off the price では $10 が引く量、the price が引かれる元の価格である。take 20 percent off は「20パーセントにする」ではなく「20パーセント減らす」。 deduct/subtract five from the total は、five が引く量、the total が元の総量で、take five off the total と対応する。discount the price by 20 percent では、目的語 the price が下げる対象、by 以下が値下げの割合を示す。単語だけを置き換えて目的語の役割まで同じだとは考えない。時間を目的語にしても、記録・所要時間を短くするならこの語義である。",
         "take years off someone は「その人を若く見せる・若い気分にする」という慣用句。一方、take years off someone’s life は、苦労や恐怖で寿命が縮むように感じさせるという別の表現になる。take the edge off something は「苦痛・空腹などの強さを和らげる」で、具体的な数値を引くとは限らない。",
         "以下の charge は、料金の請求という別の行為との比較である。",
         "charge",
@@ -718,7 +718,7 @@
         }
       ],
       "notes": [
-        "The train took off なら列車が勢いよく出発したなどの自動詞の読みになるが、The operator took the train off は運行者が便をやめた他動詞の読みになる。take it off の it は off の前に置く。人を仕事から外す語義8と、番組・便などの提供をやめるこの語義を区別する。"
+        "The train took off なら列車が勢いよく出発したなどの自動詞の読みになるが、The operator took the train off は運行者が便をやめた他動詞の読みになる。take it off の it は off の前に置く。人を仕事から外す語義8と、番組・便などの提供をやめるこの語義を区別する。 cancel も予定やサービスの取り消しに使うが、提供中の一覧から外すという捉え方は必須ではない。take off や discontinue が必ず永久終了を表すわけでも、cancel が一回限りの予定にしか使えないわけでもない。"
       ],
       "synonyms": [
         {
@@ -797,7 +797,7 @@
           "word": "mimic",
           "definition": "声・動作・表情などをまねる。",
           "frequency": 6,
-          "difference": "mimic は声や動作の再現に焦点がある。",
+          "difference": "mimic は声や動作などの特徴を似せて再現することに焦点があり、面白く演じる目的は必須ではない。この take off は、人の特徴を面白く再現する英国的な言い方。",
           "example": "He mimicked her accent.",
           "translation": "彼は彼女のなまりをまねた。"
         },
@@ -805,7 +805,7 @@
           "word": "do an impression of",
           "definition": "人のものまねをする。",
           "frequency": 5,
-          "difference": "do an impression of は会話で分かりやすく、芸としてのものまねに自然。",
+          "difference": "人の特徴を演じて見せるという点で take off と近い。do an impression of someone のように対象を of で導くのに対し、take someone off は人を直接目的語にする。職業的な演芸である必要はない。",
           "example": "She did an impression of the mayor.",
           "translation": "彼女は市長のものまねをした。"
         }
