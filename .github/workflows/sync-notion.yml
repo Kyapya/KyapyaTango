@@ -68,6 +68,7 @@ jobs:
     timeout-minutes: 30
     permissions:
       contents: write
+      pages: write
     steps:
       - name: Check out current publication branch
         uses: actions/checkout@v4
@@ -107,14 +108,12 @@ jobs:
           python scripts/fix_sense_navigation.py
           python scripts/finalize_site.py
           python scripts/validate_site.py
-      - name: Commit validated candidate (Pages delivery remains a draft blocker)
+      - name: Commit validated candidate
         env:
           SOURCE_DIR: ${{ runner.temp }}/dictionary-source
         run: |
           # No stale source/site writes, rebases, force pushes, or token-triggered
-          # workflow chaining. GITHUB_TOKEN pushes do not guarantee Pages builds.
-          # DRAFT BLOCKER: an explicit Pages build needs separately approved
-          # job-scoped Pages permission; do not merge until that route is resolved.
+          # workflow chaining. The next step explicitly requests existing Pages.
           test "$(git ls-remote https://github.com/Kyapya/english-dictionary.git refs/heads/main | cut -f1)" = "$SOURCE_SHA"
           test "$(git ls-remote origin refs/heads/main | cut -f1)" = "$SITE_BASE"
           git config user.name "github-actions[bot]"
@@ -122,7 +121,12 @@ jobs:
           git add content index.html words data
           if git diff --cached --quiet; then
             echo "No dictionary changes found."
-            exit 0
+          else
+            git commit -m "Sync dictionary from GitHub $SOURCE_SHA"
+            git push origin HEAD:main
           fi
-          git commit -m "Sync dictionary from GitHub $SOURCE_SHA"
-          git push origin HEAD:main
+          echo "PUBLISH_SHA=$(git rev-parse HEAD)" >> "$GITHUB_ENV"
+      - name: Request existing Pages build and verify exact commit
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python scripts/publish_pages.py --commit "$PUBLISH_SHA"
