@@ -1,0 +1,985 @@
+{
+  "word": "compose",
+  "slug": "compose",
+  "ipa": "米: /kəmˈpoʊz/｜英: /kəmˈpəʊz/。2音節で第2音節に主強勢がある。英米差は強勢のある二重母音で、米 /oʊ/、英 /əʊ/。最初の音節は弱い /kəm/、語末は無声の /s/ でなく有声の /z/。",
+  "lead": "音や旋律などを組み立て、楽曲を作る。作る曲・音楽を直接目的語にする。演奏することとは区別する。",
+  "updated": "2026-10-29",
+  "notion_url": "",
+  "pronunciation": [
+    "composed は米: /kəmˈpoʊzd/｜英: /kəmˈpəʊzd/。2音節で第2音節に主強勢があり、英米差は二重母音。-ed は /d/ で、音節を加えない。composer は米: /kəmˈpoʊzər/｜英: /kəmˈpəʊzə(r)/。3音節で第2音節に主強勢があり、第2音節の二重母音と第3音節の /r/ の扱いに英米差がある。",
+    "composition は米: /ˌkɑːmpəˈzɪʃn/｜英: /ˌkɒmpəˈzɪʃn/。4音節で第3音節に主強勢、第1音節に副強勢がある。英米差は第1音節の /ɑː/ と /ɒ/。compose の /z/ を含む部分が /zɪʃn/ となり、強勢も移る。語末の /n/ が音節の中心になる読みを含む。"
+  ],
+  "etymology": [
+    "古フランス語 composer を通じて、ラテン語 componere（組み合わせる、配置する）にさかのぼる。com- は一緒に、ponere は置くという要素。語形の成立には compositus やフランス語 poser との関係もあり、現代英語の com と pose を単純に足してできた語と考えない。composition とも、要素を組み合わせて一つにするという由来を共有する。"
+  ],
+  "formation": [
+    {
+      "term": "composing",
+      "description": "現在分詞・動名詞。進行形や spend time composing のような形で、作曲などの活動を表す。"
+    },
+    {
+      "term": "composed",
+      "description": "compose の過去形・過去分詞。be composed of は構成要素を示す定着した形で、落ち着いたという形容詞 composed と区別する。"
+    },
+    {
+      "term": "composer",
+      "description": "音楽を書く人を表す可算名詞。文章を書く人一般を必ず composer と呼ぶわけではない。"
+    },
+    {
+      "term": "composition",
+      "description": "構成・作文・作品・創作・構図などを表す名詞。何を作るか、できた作品か過程かによって可算性が変わる。"
+    },
+    {
+      "term": "composure",
+      "description": "落ち着き・平静を表す関連名詞。詳しい用法は独立した composure の記事で扱う。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "要素を組み合わせ、まとまりのある全体へ整えるという捉え方。創作・構成では部分と全体、気持ちや争いでは乱れを整えることに焦点が移る。"
+    },
+    {
+      "type": "item",
+      "text": "音を組み合わせて楽曲を作る働き → 「作曲する、音楽を作る」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "音を組み合わせる創作活動 → 「作曲をする」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "言葉を組み合わせて文章を作る働き → 「文章を考えて書く、作成する」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "部分が組み合わさって全体を成す関係 → 「全体を構成する」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "全体を成す要素の組み合わせ → 「～から構成されている」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "自分の感情を落ち着くまとまりへ整える動き → 「気持ちを落ち着ける」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "考えや表情を整える働き → 「考えや表情を整える」（語義7）"
+    },
+    {
+      "type": "item",
+      "text": "感情や振る舞いが整った状態 → 「落ち着いた、平静な」（語義8）"
+    },
+    {
+      "type": "item",
+      "text": "音楽を組み立てて作る人 → 「作曲家、作曲者」（語義9）"
+    },
+    {
+      "type": "item",
+      "text": "全体を成す要素の組み合わせ方 → 「構成、組成」（語義10）"
+    },
+    {
+      "type": "item",
+      "text": "言葉を組み立てて書いた課題作品 → 「作文」（語義11）"
+    },
+    {
+      "type": "item",
+      "text": "要素を組み合わせて作った芸術作品 → 「楽曲、芸術作品」（語義12）"
+    },
+    {
+      "type": "item",
+      "text": "作品の要素を組み立てる過程・技法 → 「作曲・作文などの創作、その技法」（語義13）"
+    },
+    {
+      "type": "item",
+      "text": "画面の要素を組み合わせる配置 → 「構図、画面の構成」（語義14）"
+    },
+    {
+      "type": "item",
+      "text": "画面の要素を配置して整える働き → 「写真などの構図を組む、要素を配置する」（語義15）"
+    },
+    {
+      "type": "item",
+      "text": "要素を選び組み合わせる働き → 「要素を組み合わせて作る、配置して整える」（語義16）"
+    },
+    {
+      "type": "item",
+      "text": "活字を配置して印刷面を作る働き → 「活字・印刷用の文字を組む、組版する」（語義17）"
+    },
+    {
+      "type": "item",
+      "text": "対立を調整し一つのまとまりへ収める働き → 「対立や不和を収める、調整する」（語義18）"
+    },
+    {
+      "type": "item",
+      "text": "関数の働きを組み合わせる操作 → 「関数などを合成する」（語義19）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞：他動詞】作曲する、音楽を作る",
+      "frequency": 7,
+      "register": [
+        "一般・音楽。"
+      ],
+      "definition": "音や旋律などを組み立て、楽曲を作る。作る曲・音楽を直接目的語にする。演奏することとは区別する。",
+      "patterns": [
+        "compose music",
+        "compose a song",
+        "compose a symphony",
+        "compose something for an occasion",
+        "be composed by someone。"
+      ],
+      "collocations": [
+        {
+          "pattern": "compose music",
+          "use": "音楽を創作することを述べる。",
+          "example": "She composes music for films and television.",
+          "translation": "彼女は、映画やテレビ向けの音楽を作曲している。"
+        },
+        {
+          "pattern": "compose a song",
+          "use": "一曲の歌を作ることを述べる。",
+          "example": "He composed a song for his daughter's birthday.",
+          "translation": "彼は、娘の誕生日のために歌を一曲作った。"
+        },
+        {
+          "pattern": "compose a symphony",
+          "use": "交響曲を作ることを述べる。",
+          "example": "The musician composed his first symphony while studying abroad.",
+          "translation": "その音楽家は、留学中に最初の交響曲を作曲した。"
+        },
+        {
+          "pattern": "compose something for an occasion",
+          "use": "作曲の目的となる機会を示す。",
+          "example": "The piece was composed for the opening ceremony.",
+          "translation": "その曲は、開会式のために作曲された。"
+        },
+        {
+          "pattern": "be composed by someone",
+          "use": "作品を主語にし、作曲者を示す。",
+          "example": "The music was composed by a local teacher.",
+          "translation": "その音楽は、地元の教師によって作曲された。"
+        }
+      ],
+      "notes": [
+        "compose a song は曲を作ることだが、その人が歌詞も全て書いたとは常に限らない。演奏を表す play や perform とは別の動作。作曲中なら She is composing a new piece. のような進行形も使える。"
+      ],
+      "synonyms": [
+        {
+          "word": "write",
+          "definition": "楽曲などを創作する。",
+          "frequency": 8,
+          "difference": "write music は compose music と重なる一般的な表現。compose は音楽の要素を組み立てて作品にする行為を明示しやすく、単に紙に文字を書く意味とは区別される。",
+          "example": "They wrote a new song together.",
+          "translation": "彼らは、一緒に新しい歌を作った。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【動詞：自動詞・現在分詞 composing】作曲をする",
+      "frequency": 5,
+      "register": [
+        "一般・音楽。"
+      ],
+      "definition": "作る曲を直接目的語にせず、作曲という活動をすることを述べる。職業・習慣・その時の活動などを表す。",
+      "patterns": [
+        "someone composes",
+        "compose for an orchestra",
+        "begin to compose",
+        "spend time composing。"
+      ],
+      "collocations": [
+        {
+          "pattern": "someone composes",
+          "use": "作曲活動をする人について述べる。",
+          "example": "She performs regularly and also composes.",
+          "translation": "彼女は、定期的に演奏し、作曲もしている。"
+        },
+        {
+          "pattern": "compose for an orchestra",
+          "use": "どの編成のために作曲するかを示す。",
+          "example": "He prefers to compose for a small orchestra.",
+          "translation": "彼は、小編成のオーケストラ向けに作曲することを好む。"
+        },
+        {
+          "pattern": "begin to compose",
+          "use": "作曲を始めることを述べる。",
+          "example": "She began to compose when she was a teenager.",
+          "translation": "彼女は、十代のときに作曲を始めた。"
+        },
+        {
+          "pattern": "spend time composing",
+          "use": "作曲活動に時間を使うことを述べる。",
+          "example": "He spends most mornings composing at home.",
+          "translation": "彼は、たいてい午前中は自宅で作曲をして過ごす。"
+        }
+      ],
+      "notes": [
+        "She composes. は直接目的語のない自動詞用法で、She composes songs. は他動詞用法。for の後ろに編成や演奏者を置く場合、その語は直接目的語ではない。ここでは音楽の活動として読む。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞：他動詞】文章を考えて書く、作成する",
+      "frequency": 6,
+      "register": [
+        "一般・やや改まった文章。メール操作の表示にも使う。"
+      ],
+      "definition": "手紙・演説・詩・メッセージなどを、内容や表現を考えて作る。単に文字を写すことより、言葉を組み立てる面を表す。",
+      "patterns": [
+        "compose a letter",
+        "compose a speech",
+        "compose a poem",
+        "compose a message。"
+      ],
+      "collocations": [
+        {
+          "pattern": "compose a letter",
+          "use": "手紙の文面を考えて書くことを述べる。",
+          "example": "She took an hour to compose a careful letter to the committee.",
+          "translation": "彼女は、委員会に宛てた慎重な文面の手紙を書くのに一時間かけた。"
+        },
+        {
+          "pattern": "compose a speech",
+          "use": "演説の内容を組み立てる。",
+          "example": "He composed a short speech for the retirement party.",
+          "translation": "彼は、退職祝いの会に向けて短いスピーチを作成した。"
+        },
+        {
+          "pattern": "compose a poem",
+          "use": "詩を創作することを述べる。",
+          "example": "The students composed poems about the changing seasons.",
+          "translation": "生徒たちは、季節の移り変わりについて詩を作った。"
+        },
+        {
+          "pattern": "compose a message",
+          "use": "送る文章を作成する。",
+          "example": "I composed the message but did not send it immediately.",
+          "translation": "私はメッセージを作成したが、すぐには送らなかった。"
+        }
+      ],
+      "notes": [
+        "メール画面の Compose は、新しいメッセージの作成を始める表示として使われる。作成と送信は別で、compose だけで送信済みになるとは限らない。日常の write より、文章を考えてまとめる響きが出ることがある。"
+      ],
+      "synonyms": [
+        {
+          "word": "draft",
+          "definition": "文章の下書きを作る。",
+          "frequency": 7,
+          "difference": "draft は後から見直す下書きという段階に重点がある。compose は文章を作る行為で、必ず未完成の下書きに限定されない。",
+          "example": "She drafted a response for her manager to review.",
+          "translation": "彼女は、上司が確認するための返信案を作った。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞：他動詞】全体を構成する",
+      "frequency": 5,
+      "register": [
+        "改まった説明・構成の記述。"
+      ],
+      "definition": "複数の部分・人・要素が、一つの全体を作っている。主語が構成要素、直接目的語が構成される全体となる。",
+      "patterns": [
+        "parts compose a whole",
+        "members compose a committee",
+        "elements compose something。"
+      ],
+      "collocations": [
+        {
+          "pattern": "parts compose a whole",
+          "use": "部分を主語にし、全体との関係を示す。",
+          "example": "Five sections compose the report.",
+          "translation": "五つの節が、その報告書を構成している。"
+        },
+        {
+          "pattern": "members compose a committee",
+          "use": "構成員を主語にし、組織を示す。",
+          "example": "Representatives from six departments compose the committee.",
+          "translation": "六つの部署の代表者が、その委員会を構成している。"
+        },
+        {
+          "pattern": "elements compose something",
+          "use": "要素を主語にし、全体を示す。",
+          "example": "Several closely related elements compose the model.",
+          "translation": "密接に関係する複数の要素が、そのモデルを構成している。"
+        }
+      ],
+      "notes": [
+        "この構成関係の意味では通常進行形にしない。Ten members compose the committee. の方向を逆にして The committee composes ten members. とはしない。全体を主語にするなら The committee is composed of ten members. となる。作曲などの動作義で進行形が使えることとは区別する。"
+      ],
+      "synonyms": [
+        {
+          "word": "constitute",
+          "definition": "要素として全体を形作る。",
+          "frequency": 6,
+          "difference": "構成要素を主語、全体を目的語にする点で compose と重なる。constitute には別に、何かに相当する・何かを成すという用法もあるため、常に交換できるわけではない。",
+          "example": "These documents constitute the complete record of the meeting.",
+          "translation": "これらの文書が、会議の完全な記録を構成している。"
+        },
+        {
+          "word": "make up",
+          "definition": "集まって全体を構成する。",
+          "frequency": 8,
+          "difference": "この意味では compose より日常的に使いやすく、同じく部分が主語、全体が目的語になる。make up の別義である作り話をするなどとは区別する。",
+          "example": "Three small teams make up the department.",
+          "translation": "三つの小さなチームが、その部署を構成している。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【定型表現：be composed of】～から構成されている",
+      "frequency": 7,
+      "register": [
+        "一般・改まった構成の説明。"
+      ],
+      "definition": "全体が、どの部分・人・物質などから成るかを述べる。主語が全体、of の後ろが構成要素となる。",
+      "patterns": [
+        "be composed of something",
+        "be composed mainly of something",
+        "be composed entirely of something。"
+      ],
+      "collocations": [
+        {
+          "pattern": "be composed of something",
+          "use": "全体から構成要素を説明する。",
+          "example": "The panel is composed of researchers from several fields.",
+          "translation": "その委員会は、複数の分野の研究者から構成されている。"
+        },
+        {
+          "pattern": "be composed mainly of something",
+          "use": "主な成分・構成要素を述べる。",
+          "example": "The mixture is composed mainly of water and sand.",
+          "translation": "その混合物は、主に水と砂から成る。"
+        },
+        {
+          "pattern": "be composed entirely of something",
+          "use": "構成要素が全てある種類に属することを述べる。",
+          "example": "The group is composed entirely of volunteers.",
+          "translation": "その集団は、全員がボランティアである。"
+        }
+      ],
+      "notes": [
+        "be composed of は構成を示す定着した受動形で、状態を表す表現としても使う。of を by に替えると、The song was composed by her. のように作った人を示す別の関係になる。The team is composed. だけでは構成要素を説明できず、落ち着いているという形容詞の読みも生じる。"
+      ],
+      "synonyms": [
+        {
+          "word": "consist of",
+          "definition": "全体がある構成要素から成る。",
+          "frequency": 8,
+          "difference": "全体を主語にする点は be composed of と同じだが、consist of は能動形で使い、通常 be consisted of としない。",
+          "example": "The course consists of six modules.",
+          "translation": "その講座は、六つの単元から成る。"
+        },
+        {
+          "word": "comprise",
+          "definition": "全体がその構成部分を含んで成る。",
+          "frequency": 6,
+          "difference": "基本的な用法では全体が主語、部分が直接目的語になる。be composed of の of に対応する前置詞を足さず、The group comprises five teams. とする。",
+          "example": "The collection comprises letters, photographs, and diaries.",
+          "translation": "その所蔵品は、手紙・写真・日記から成る。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【動詞：他動詞・再帰】気持ちを落ち着ける",
+      "frequency": 5,
+      "register": [
+        "改まった表現・物語・状況描写。"
+      ],
+      "definition": "動揺・緊張などを抑え、自分の表情や振る舞いを落ち着いた状態に整える。compose oneself という再帰形で使う。",
+      "patterns": [
+        "compose oneself",
+        "take a moment to compose oneself",
+        "try to compose oneself。"
+      ],
+      "collocations": [
+        {
+          "pattern": "compose oneself",
+          "use": "自分の動揺を鎮めることを述べる。",
+          "example": "She composed herself before entering the room.",
+          "translation": "彼女は、部屋に入る前に気持ちを落ち着けた。"
+        },
+        {
+          "pattern": "take a moment to compose oneself",
+          "use": "平静を取り戻すために少し時間を取る。",
+          "example": "He took a moment to compose himself after hearing the news.",
+          "translation": "彼は、その知らせを聞いた後、少し時間を取って気持ちを落ち着けた。"
+        },
+        {
+          "pattern": "try to compose oneself",
+          "use": "動揺を抑えようと努めることを述べる。",
+          "example": "I tried to compose myself before answering the question.",
+          "translation": "私は、質問に答える前に気持ちを落ち着けようとした。"
+        }
+      ],
+      "notes": [
+        "この能動的な再帰構文では、主語に対応する myself／yourself／herself などを目的語に置く。She composed. だけを、彼女が気持ちを落ち着けたという同じ構文にしない。She remained composed. は、落ち着いた状態を述べる形容詞用法であり、再帰代名詞を省略した形ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "calm down",
+          "definition": "気持ちが落ち着く、落ち着くようにする。",
+          "frequency": 8,
+          "difference": "calm down は日常的で、怒りや興奮などにも広く使う。compose oneself は自分を整えて平静な振る舞いへ戻す面が出やすく、再帰目的語を伴う。",
+          "example": "He waited until he had calmed down before speaking.",
+          "translation": "彼は、話す前に気持ちが落ち着くまで待った。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【動詞：他動詞】考えや表情を整える",
+      "frequency": 4,
+      "register": [
+        "改まった表現・描写。"
+      ],
+      "definition": "考え・感情の表れなどを落ち着いたまとまりへ整える。自分自身ではなく、整える考えや表情などを直接目的語にする。",
+      "patterns": [
+        "compose one's thoughts",
+        "compose one's features。"
+      ],
+      "collocations": [
+        {
+          "pattern": "compose one's thoughts",
+          "use": "考えを落ち着いて整理する。",
+          "example": "She paused to compose her thoughts before explaining what had happened.",
+          "translation": "何が起きたかを説明する前に、彼女は考えを整理するために間を置いた。"
+        },
+        {
+          "pattern": "compose one's features",
+          "use": "表情に動揺などが出ないよう整える。",
+          "example": "He composed his features before turning to face the audience.",
+          "translation": "彼は、聴衆の方を向く前に表情を整えた。"
+        }
+      ],
+      "notes": [
+        "compose one's thoughts は曲や文章の創作そのものではなく、考えを整えること。compose oneself では oneself が目的語、compose one's thoughts では thoughts が目的語で、構造を混同しない。この落ち着かせる意味は通常受動態にしない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【形容詞：composed】落ち着いた、平静な",
+      "frequency": 6,
+      "register": [
+        "一般・改まった描写。"
+      ],
+      "definition": "感情や振る舞いが落ち着き、自制が保たれている。強い感情が全くないとは限らず、外に動揺を出さない様子にも使う。",
+      "patterns": [
+        "remain composed",
+        "seem composed",
+        "look composed",
+        "calm and composed",
+        "a composed expression。"
+      ],
+      "collocations": [
+        {
+          "pattern": "remain composed",
+          "use": "困難な状況でも平静が続くことを述べる。",
+          "example": "She remained composed throughout the difficult interview.",
+          "translation": "難しい面接の間も、彼女は落ち着いていた。"
+        },
+        {
+          "pattern": "seem composed",
+          "use": "外から見た平静な印象を述べる。",
+          "example": "He seemed composed, although he later admitted that he had been nervous.",
+          "translation": "彼は落ち着いて見えたが、後で緊張していたと認めた。"
+        },
+        {
+          "pattern": "look composed",
+          "use": "見た目の落ち着きを述べる。",
+          "example": "She looked composed as she walked onto the stage.",
+          "translation": "舞台に歩み出る彼女は、落ち着いて見えた。"
+        },
+        {
+          "pattern": "calm and composed",
+          "use": "平静で自制のある状態を強調する。",
+          "example": "His voice was calm and composed even when the questions became hostile.",
+          "translation": "質問が敵対的になっても、彼の声は落ち着いて平静だった。"
+        },
+        {
+          "pattern": "a composed expression",
+          "use": "平静で自制のある表情を形容する。",
+          "example": "She answered with a composed expression despite her surprise.",
+          "translation": "驚きながらも、彼女は落ち着いた表情で答えた。"
+        }
+      ],
+      "notes": [
+        "通常は remain／seem／look と結びつく述語位置などで使うが、a composed expression のような名詞前の用法もある。be composed of の構成されているとは別の形容詞用法。compose oneself は自分を落ち着かせる動作、be composed はそのような平静な状態を述べる。"
+      ],
+      "synonyms": [
+        {
+          "word": "calm",
+          "definition": "気持ちや振る舞いが穏やかで、興奮・動揺が少ない。",
+          "frequency": 8,
+          "difference": "calm は内面の穏やかさにも周囲の静けさにも広く使う。composed は人の感情や振る舞いが整い、自制が保たれている面を捉えやすい。",
+          "example": "He felt calm once the interview was over.",
+          "translation": "面接が終わると、彼は穏やかな気持ちになった。"
+        },
+        {
+          "word": "poised",
+          "definition": "人前などで落ち着き、自信や身のこなしのよさが感じられる。",
+          "frequency": 5,
+          "difference": "composed は動揺を見せず平静なこと、poised はそれに加えて自信や洗練された振る舞いを感じさせやすい。",
+          "example": "The young speaker appeared poised and confident.",
+          "translation": "その若い話し手は、落ち着きと自信を備えているように見えた。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "flustered",
+          "definition": "焦りや戸惑いで気持ち・振る舞いが乱れた。",
+          "frequency": 5,
+          "difference": "composed と、その場で平静・自制が保たれているかという状態の対立をなす。flustered は戸惑いや慌ただしさを伴いやすい。",
+          "example": "She became flustered when several people asked questions at once.",
+          "translation": "複数の人から同時に質問され、彼女は慌ててしまった。"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "【名詞：可算・composer】作曲家、作曲者",
+      "frequency": 7,
+      "register": [
+        "一般・音楽。"
+      ],
+      "definition": "音楽作品を書く人。古典音楽の作曲者について使われることが多いが、その分野だけに限定されない。",
+      "patterns": [
+        "a composer of something",
+        "a film composer",
+        "the composer of a piece。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a composer of something",
+          "use": "作る楽曲の種類を示す。",
+          "example": "She became known as a composer of chamber music.",
+          "translation": "彼女は、室内楽の作曲家として知られるようになった。"
+        },
+        {
+          "pattern": "a film composer",
+          "use": "映画音楽を作る人を述べる。",
+          "example": "The film composer worked closely with the director.",
+          "translation": "映画音楽の作曲家は、監督と緊密に協力した。"
+        },
+        {
+          "pattern": "the composer of a piece",
+          "use": "特定作品の作曲者を示す。",
+          "example": "The programme names the composer of each piece.",
+          "translation": "プログラムには、各曲の作曲者の名前が記載されている。"
+        }
+      ],
+      "notes": [
+        "作曲者と演奏者は別の役割。同じ人が両方を担うこともあるが、composer だけで演奏までしたとは言わない。compose a letter と言えても、手紙を書いた人を通常 composer と呼ぶわけではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 10,
+      "title": "【名詞：不可算・可算・composition】構成、組成",
+      "frequency": 7,
+      "register": [
+        "一般・組織・科学。"
+      ],
+      "definition": "ある全体が、どのような部分・人・物質などから成っているかという成り立ち。構成要素の種類や割合・組み合わせに関わる。",
+      "patterns": [
+        "the composition of something",
+        "chemical composition",
+        "a change in composition",
+        "differ in composition",
+        "a different composition。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the composition of something",
+          "use": "全体を構成する人や部分について述べる。",
+          "example": "The report examines the composition of the board.",
+          "translation": "その報告書は、取締役会の構成を検討している。"
+        },
+        {
+          "pattern": "chemical composition",
+          "use": "物質の化学的な組成を述べる。",
+          "example": "The samples differ in chemical composition.",
+          "translation": "その試料は、化学組成が異なる。"
+        },
+        {
+          "pattern": "a change in composition",
+          "use": "構成要素やその割合の変化を述べる。",
+          "example": "A change in the composition of the workforce affected training needs.",
+          "translation": "従業員構成の変化によって、必要な研修も変わった。"
+        },
+        {
+          "pattern": "differ in composition",
+          "use": "組成・構成の面で違うことを述べる。",
+          "example": "The two materials look similar but differ in composition.",
+          "translation": "二つの材料は似て見えるが、組成が異なる。"
+        },
+        {
+          "pattern": "a different composition",
+          "use": "特定の組成を一つの状態として捉え、違いを述べる。",
+          "example": "Each sample had a different chemical composition.",
+          "translation": "それぞれの試料は、異なる化学組成を持っていた。"
+        }
+      ],
+      "notes": [
+        "構成・組成という性質は不可算として扱うが、特定の組成を一つの型・状態として捉える場合は a different composition など可算でも使う。可算なら必ず作品義になるわけではない。composition は何から成るか、structure は部分がどう配置・組織化されるかに重点を置きやすいが、説明対象によって重なる部分もある。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 11,
+      "title": "【名詞：可算・composition】作文",
+      "frequency": 5,
+      "register": [
+        "教育・学校。"
+      ],
+      "definition": "学校の課題などで書く、ある題材についての短い文章。文章を書く行為一般ではなく、一つの課題作品を指す。",
+      "patterns": [
+        "write a composition",
+        "a composition on something",
+        "an English composition。"
+      ],
+      "collocations": [
+        {
+          "pattern": "write a composition",
+          "use": "作文という課題を書くことを述べる。",
+          "example": "The students were asked to write a composition during the lesson.",
+          "translation": "生徒たちは、授業中に作文を書くよう求められた。"
+        },
+        {
+          "pattern": "a composition on something",
+          "use": "作文の題材を示す。",
+          "example": "She wrote a composition on her favourite place.",
+          "translation": "彼女は、お気に入りの場所について作文を書いた。"
+        },
+        {
+          "pattern": "an English composition",
+          "use": "英語で書く作文を述べる。",
+          "example": "The teacher returned our English compositions with comments.",
+          "translation": "教師は、コメントを付けて私たちの英作文を返した。"
+        }
+      ],
+      "notes": [
+        "一つの作文なら a composition、複数なら compositions。composition が常に学校の作文を意味するわけではなく、音楽や芸術では作品という別義にもなる。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 12,
+      "title": "【名詞：可算・composition】楽曲、芸術作品",
+      "frequency": 5,
+      "register": [
+        "音楽・芸術・やや改まった表現。"
+      ],
+      "definition": "音楽・美術・詩など、要素を組み合わせて作られた一つの作品。特に音楽作品を指す場合が多い。",
+      "patterns": [
+        "a musical composition",
+        "a composition by someone",
+        "a composition for an instrument",
+        "an original composition。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a musical composition",
+          "use": "一つの楽曲を述べる。",
+          "example": "The concert ended with a short musical composition by a young artist.",
+          "translation": "演奏会は、若い音楽家による短い楽曲で締めくくられた。"
+        },
+        {
+          "pattern": "a composition by someone",
+          "use": "作品の作者を示す。",
+          "example": "The exhibition includes a striking abstract composition by a local painter.",
+          "translation": "その展覧会には、地元の画家による印象的な抽象作品が含まれている。"
+        },
+        {
+          "pattern": "a composition for an instrument",
+          "use": "演奏する楽器を示す。",
+          "example": "She performed a composition for solo violin.",
+          "translation": "彼女は、無伴奏バイオリンのための楽曲を演奏した。"
+        },
+        {
+          "pattern": "an original composition",
+          "use": "既存作品の単なる再現でない、独自に作られた作品を述べる。",
+          "example": "He played an original composition that he had written for the festival.",
+          "translation": "彼は、その祭りのために自分で書いた新作の楽曲を演奏した。"
+        }
+      ],
+      "notes": [
+        "original は独自の作品ということを表し、その演奏者自身が作者とは限らない。by は作者、for は想定された楽器・編成などを示す。a composition はできた作品、study composition は作曲などの技法・創作を学ぶことを表す。可算性と文脈で区別する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 13,
+      "title": "【名詞：不可算・composition】作曲・作文などの創作、その技法",
+      "frequency": 5,
+      "register": [
+        "音楽教育・文章教育・芸術。"
+      ],
+      "definition": "音楽や文章などの要素を組み立てて作品を作る活動・過程、またその技法。できあがった一作品を数えているのではない。",
+      "patterns": [
+        "study composition",
+        "teach composition",
+        "the process of composition。"
+      ],
+      "collocations": [
+        {
+          "pattern": "study composition",
+          "use": "作曲の技法を学ぶことを述べる。",
+          "example": "She studied composition at a music college.",
+          "translation": "彼女は、音楽大学で作曲を学んだ。"
+        },
+        {
+          "pattern": "teach composition",
+          "use": "文章を作る技法を教えることを述べる。",
+          "example": "He teaches composition to first-year university students learning academic writing.",
+          "translation": "彼は、学術的な文章の書き方を学ぶ大学一年生に作文を教えている。"
+        },
+        {
+          "pattern": "the process of composition",
+          "use": "作品を作る過程を述べる。",
+          "example": "The notebook records changes made during the process of composition.",
+          "translation": "そのノートには、創作の過程で加えられた変更が記録されている。"
+        }
+      ],
+      "notes": [
+        "音楽の文脈なら作曲、文章教育なら作文・文章作成と読む。音楽大学で study composition と言う場合に、物質の成分を学ぶという組成義へ機械的に訳さない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 14,
+      "title": "【名詞：不可算・可算・composition】構図、画面の構成",
+      "frequency": 5,
+      "register": [
+        "美術・写真・映像。"
+      ],
+      "definition": "絵画・写真などの中で、人物・物・色・空間などがどのように配置され、全体を作っているかという構成。単に何が含まれるかだけでなく、視覚的なまとまりを述べる。",
+      "patterns": [
+        "the composition of a photograph",
+        "a sense of composition",
+        "improve the composition",
+        "a balanced composition。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the composition of a photograph",
+          "use": "写真の中の要素の配置を述べる。",
+          "example": "The composition of the photograph draws attention to the empty chair.",
+          "translation": "その写真の構図は、空いた椅子へ目を向けさせる。"
+        },
+        {
+          "pattern": "a sense of composition",
+          "use": "視覚的な配置を整える感覚を述べる。",
+          "example": "The painter had a strong sense of composition.",
+          "translation": "その画家は、優れた構成感覚を持っていた。"
+        },
+        {
+          "pattern": "improve the composition",
+          "use": "画面の配置をよりよくすることを述べる。",
+          "example": "Moving slightly to the left improved the composition of the shot.",
+          "translation": "少し左へ移動したことで、写真の構図がよくなった。"
+        },
+        {
+          "pattern": "a balanced composition",
+          "use": "一つの具体的な画面構成を評価する。",
+          "example": "Placing the smaller objects on the left created a balanced composition.",
+          "translation": "小さい物を左側に配置したことで、均衡の取れた構図になった。"
+        }
+      ],
+      "notes": [
+        "この意味は画面内の配置に関わり、composition の物質的な組成とは異なる。特定の配置・構成を一つとして捉える場合には可算でも使う。a striking composition は一つの構図、または一つの作品全体を指し得るため、可算用法を全て作品義に限定しない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 15,
+      "title": "【動詞：他動詞】写真などの構図を組む、要素を配置する",
+      "frequency": 4,
+      "register": [
+        "写真・美術・視覚表現。"
+      ],
+      "definition": "写真・画面などが一つのまとまりになるよう、被写体や背景・空間の配置を考えて整える。実際の物を動かすだけでなく、撮影位置や切り取り方の選択も含み得る。",
+      "patterns": [
+        "compose an image",
+        "compose a photograph",
+        "compose a shot。"
+      ],
+      "collocations": [
+        {
+          "pattern": "compose an image",
+          "use": "画面内の配置を考えて像を構成する。",
+          "example": "She composed the image so that the path led the viewer's eye towards the house.",
+          "translation": "彼女は、小道が見る人の目を家へ導くように画面を構成した。"
+        },
+        {
+          "pattern": "compose a photograph",
+          "use": "写真の構図を決める。",
+          "example": "He carefully composed the photograph before pressing the shutter.",
+          "translation": "彼は、シャッターを押す前に慎重に写真の構図を決めた。"
+        },
+        {
+          "pattern": "compose a shot",
+          "use": "一枚の写真や映像の構図を整える。",
+          "example": "The photographer composed the shot with the tree near the edge of the frame.",
+          "translation": "写真家は、木が画面の端近くに来るように構図を組んだ。"
+        }
+      ],
+      "notes": [
+        "compose a photograph は構図を整える面に重点がある。take a photograph は写真を撮る行為を広く表すため、両者は関係するが同一の動作を必ず指すわけではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 16,
+      "title": "【動詞：他動詞】要素を組み合わせて作る、配置して整える",
+      "frequency": 4,
+      "register": [
+        "改まった表現・創作・配置。"
+      ],
+      "definition": "複数の要素を選び、組み合わせたり配置したりして一つのまとまりを作る。人などが全体を作る動作で、部分が全体を構成しているという状態とは区別する。",
+      "patterns": [
+        "compose something from something",
+        "carefully compose something。"
+      ],
+      "collocations": [
+        {
+          "pattern": "compose something from something",
+          "use": "材料となる要素を示して全体を作る。",
+          "example": "The artist composed a pattern from simple geometric shapes.",
+          "translation": "その芸術家は、単純な幾何学図形を組み合わせて模様を作った。"
+        },
+        {
+          "pattern": "carefully compose something",
+          "use": "配置を考えてまとまりを整える。",
+          "example": "The designer carefully composed the arrangement of colours and shapes.",
+          "translation": "デザイナーは、色と形の配置を慎重に組み立てた。"
+        }
+      ],
+      "notes": [
+        "The artist composed the pattern. は人が作る動作。Several shapes compose the pattern. は図形が模様を構成する関係を述べる。主語の役割が異なるため、全ての compose を構成されている状態として読まない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 17,
+      "title": "【動詞：他動詞】活字・印刷用の文字を組む、組版する",
+      "frequency": 2,
+      "register": [
+        "印刷・組版。歴史的な活字印刷の説明など。"
+      ],
+      "definition": "印刷のために文字を並べ、行・段・ページなどを作る。文章の内容を創作することではなく、印刷できる配置へ組む専門的な用法。",
+      "patterns": [
+        "compose type",
+        "compose a page。"
+      ],
+      "collocations": [
+        {
+          "pattern": "compose type",
+          "use": "印刷用の活字を組むことを述べる。",
+          "example": "The printer composed the type by hand for the small edition.",
+          "translation": "印刷職人は、その少部数の版のために手作業で活字を組んだ。"
+        },
+        {
+          "pattern": "compose a page",
+          "use": "印刷するページの文字配置を整える。",
+          "example": "The workshop demonstration showed how a page was composed from individual pieces of type.",
+          "translation": "その工房での実演は、一つ一つの活字からページがどのように組まれるかを示した。"
+        }
+      ],
+      "notes": [
+        "compose a letter の文章作成とは工程が異なる。ここで type は種類ではなく活字を指す。現代の一般的な文書作成全般をこの専門義だけで説明しない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 18,
+      "title": "【動詞：他動詞】対立や不和を収める、調整する",
+      "frequency": 2,
+      "register": [
+        "非常に改まった表現・やや古風な文章。"
+      ],
+      "definition": "意見の違い・争いなどを収め、折り合いがつく状態へ整える。現代の日常会話では一般的でない、改まった用法。",
+      "patterns": [
+        "compose differences",
+        "compose a dispute。"
+      ],
+      "collocations": [
+        {
+          "pattern": "compose differences",
+          "use": "意見の違いや対立を調整することを述べる。",
+          "example": "The delegates sought to compose their differences before the final vote.",
+          "translation": "代表者たちは、最終投票の前に意見の相違を調整しようとした。"
+        },
+        {
+          "pattern": "compose a dispute",
+          "use": "争いを収めることを述べる。",
+          "example": "A respected mediator helped to compose the dispute between the two groups.",
+          "translation": "信頼される仲介者が、二つの集団の争いを収める手助けをした。"
+        }
+      ],
+      "notes": [
+        "通常の会話では settle a dispute や resolve differences などの方がなじみやすい。compose oneself の自分を落ち着ける意味に関連するが、ここでは争い・相違が直接目的語である。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 19,
+      "title": "【動詞：他動詞】関数などを合成する",
+      "frequency": 3,
+      "register": [
+        "数学・プログラミング。"
+      ],
+      "definition": "複数の関数などについて、一方の出力・値を次の関数の入力として使うように接続し、新しい関数を作る。単に関数を足し合わせたり、別々に実行したりすることとは区別する専門的な用法。",
+      "patterns": [
+        "compose functions",
+        "compose two functions into one。"
+      ],
+      "collocations": [
+        {
+          "pattern": "compose functions",
+          "use": "小さな関数の働きを組み合わせる。",
+          "example": "The programmer composed several small functions to build the transformation.",
+          "translation": "プログラマーは、複数の小さな関数を合成して、その変換処理を作った。"
+        },
+        {
+          "pattern": "compose two functions into one",
+          "use": "二つの関数を一つの関数へまとめる。",
+          "example": "The example shows how to compose two functions into one reusable function.",
+          "translation": "その例は、二つの関数を一つの再利用可能な関数に合成する方法を示している。"
+        }
+      ],
+      "notes": [
+        "関数の適用順序は重要で、組み合わせる順番を替えても必ず同じ結果になるわけではない。具体的な順序は数学の記法や利用する機能の定義で確認する。ここでは語彙としての合成を説明し、特定の言語の呼び出し規則を全てに当てはめない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}
