@@ -1,0 +1,951 @@
+{
+  "word": "surface",
+  "slug": "surface",
+  "ipa": "米: /ˈsɜːrfɪs/｜英: /ˈsɜːfɪs/。2音節で第1音節に主強勢がある。英米差は第1音節の母音に続く /r/ の有無。第2音節は /fɪs/ で、綴りに face があっても /feɪs/ とは読まない。名詞・形容詞・動詞で基本の発音は同じ。",
+  "lead": "物体や物質の、外部に接する面や最上部の層。水域の上端の面、地面の表層などにも使う。平らな面だけに限定されず、管の内面のように物の内側にある面も surface と呼べる。",
+  "updated": "2026-10-29",
+  "notion_url": "",
+  "pronunciation": [
+    "surfaces は米: /ˈsɜːrfɪsɪz/｜英: /ˈsɜːfɪsɪz/ で3音節、surfaced は米: /ˈsɜːrfɪst/｜英: /ˈsɜːfɪst/ で2音節、surfacing は米: /ˈsɜːrfɪsɪŋ/｜英: /ˈsɜːfɪsɪŋ/ で3音節。いずれも第1音節に主強勢があり、英米差はその音節の /r/ の有無。surfaced の過去語尾は /t/ で、余分な音節を作らない。",
+    "resurface は米: /ˌriːˈsɜːrfɪs/｜英: /ˌriːˈsɜːfɪs/。3音節で第2音節に主強勢、第1音節に副強勢がある。英米差は第2音節の母音に続く /r/ の有無。"
+  ],
+  "etymology": [
+    "フランス語 surface に由来し、sur-（上に）と face（面）が関わる。名詞の表面という意味を基に、表面へ現れる動作や表面を施工する動作を表す動詞用法にも広がっている。語の成分と、現在の英語の発音を一対一に対応させて読まない。"
+  ],
+  "formation": [
+    {
+      "term": "surfaced",
+      "description": "動詞の過去形・過去分詞。浮上したという自動詞用法と、舗装されたなどの他動詞の受動関係を区別する。"
+    },
+    {
+      "term": "surfacing",
+      "description": "動詞の -ing 形。語末の e を落として作る。"
+    },
+    {
+      "term": "resurface",
+      "description": "re- を付けた動詞。再び現れることと、道路などの表面を新しく施工することを表す。"
+    },
+    {
+      "term": "surface mail",
+      "description": "航空ではなく陸路・海路で運ぶ郵便を表す不可算の複合名詞。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "内側・下側に対して、外に接したり姿が現れたりする面。物の境界としての表面から、見えている様子、そこへ現れる動き、使う面を整える働きへと読み分ける。"
+    },
+    {
+      "type": "item",
+      "text": "外部に接して現れる境界の面 → 「表面、外側の面、水面・地表」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "物を置き作業するための面 → 「作業台などの上面、作業面」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "深い内実より外に現れた様子 → 「表面的な様子、外見」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "外に接する面への位置付け → 「表面の、表面にある」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "隠れていた内容が表へ出る変化 → 「現れる、表面化する」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "水中から表面へ出る動き → 「水面へ浮上する」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "隠れた内容を注意の表へ出す働き → 「前提や問題などを表に出す、検討に上げる」（語義7）"
+    },
+    {
+      "type": "item",
+      "text": "表面だけに触れて深部に及ばない検討 → 「表面的な部分しか扱わない：scratch the surface」（語義8）"
+    },
+    {
+      "type": "item",
+      "text": "地表や水面を通る移動 → 「陸上・水上の、航空・地下によらない」（語義9）"
+    },
+    {
+      "type": "item",
+      "text": "外から見える部分だけへの限定 → 「うわべの、表面的な」（語義10）"
+    },
+    {
+      "type": "item",
+      "text": "眠りの状態から活動の場へ出る動き → 「起きる、ようやく姿を見せる」（語義11）"
+    },
+    {
+      "type": "item",
+      "text": "使用する面を作る施工 → 「道路などの表面を施工する、舗装する」（語義12）"
+    },
+    {
+      "type": "item",
+      "text": "水中の対象を表面へ出す働き → 「水面へ出す、浮上させる」（語義13）"
+    },
+    {
+      "type": "item",
+      "text": "外に接する面を整える加工 → 「表面を平ら・滑らかに仕上げる」（語義14）"
+    },
+    {
+      "type": "item",
+      "text": "厚みでなく面の広がりとしての捉え方 → 「数学的な面、曲面」（語義15）"
+    },
+    {
+      "type": "item",
+      "text": "地表や水面の経路で運ぶ郵便 → 「陸路・海路による郵便：surface mail」（語義16）"
+    },
+    {
+      "type": "item",
+      "text": "再び水中などから表面へ出る動き → 「再び水面などへ現れる」（語義17）"
+    },
+    {
+      "type": "item",
+      "text": "再び隠れた内容が表へ出る変化 → 「再び表面化する、再登場する」（語義18）"
+    },
+    {
+      "type": "item",
+      "text": "使用する面を新しくする施工 → 「新しい表面を施工する、再舗装する」（語義19）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞：可算】表面、外側の面、水面・地表",
+      "frequency": 9,
+      "register": [
+        "日常・一般・科学。"
+      ],
+      "definition": "物体や物質の、外部に接する面や最上部の層。水域の上端の面、地面の表層などにも使う。平らな面だけに限定されず、管の内面のように物の内側にある面も surface と呼べる。",
+      "patterns": [
+        "the surface of something",
+        "on the surface",
+        "below the surface",
+        "come to the surface",
+        "an inner surface",
+        "smooth surfaces",
+        "surface area。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the surface of something",
+          "use": "何の表面かを示す。",
+          "example": "Tiny cracks appeared on the surface of the glass.",
+          "translation": "ガラスの表面に、小さなひびが現れた。"
+        },
+        {
+          "pattern": "on the surface",
+          "use": "水や物の表面にある位置を述べる。",
+          "example": "A few leaves floated on the surface of the pond.",
+          "translation": "池の水面に、葉が数枚浮かんでいた。"
+        },
+        {
+          "pattern": "below the surface",
+          "use": "表面より下にある位置を示す。",
+          "example": "The roots spread just below the surface of the soil.",
+          "translation": "根は、土の表面のすぐ下に広がっていた。"
+        },
+        {
+          "pattern": "come to the surface",
+          "use": "水面などの表面へ達する動きを述べる。",
+          "example": "Bubbles came to the surface of the water.",
+          "translation": "気泡が、水面まで上がってきた。"
+        },
+        {
+          "pattern": "an inner surface",
+          "use": "物体の内側にある面を示す。",
+          "example": "The inner surface of the pipe was coated with a dark residue.",
+          "translation": "管の内面には、黒っぽい残留物が付着していた。"
+        },
+        {
+          "pattern": "smooth surfaces",
+          "use": "複数の滑らかな面を述べる。",
+          "example": "The adhesive works best on clean, smooth surfaces.",
+          "translation": "その接着剤は、清潔で滑らかな面に最もよく付く。"
+        },
+        {
+          "pattern": "surface area",
+          "use": "面が占める広さを表す。",
+          "example": "The calculation uses the total surface area of the container.",
+          "translation": "その計算には、容器の総表面積を使う。"
+        }
+      ],
+      "notes": [
+        "物体の面を数える場合は surfaces、特定の水面や地表なら the surface が典型的。on／above／below／beneath などによって表面との位置関係が変わる。surface は外側・上側の面を中心とするが、inner surface のように内側の境界面も表すため、常に物体の一番外だけとはしない。"
+      ],
+      "synonyms": [
+        {
+          "word": "exterior",
+          "definition": "建物・物体などの外側や外観。",
+          "frequency": 6,
+          "difference": "内部に対する外側を強く意識する。surface は水面や内側の面にも使えるので、全てを exterior へ置き換えられない。",
+          "example": "The exterior of the house was recently painted.",
+          "translation": "その家の外側は、最近塗り直された。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞：可算】作業台などの上面、作業面",
+      "frequency": 7,
+      "register": [
+        "日常・調理・作業場。"
+      ],
+      "definition": "机・台・キッチンの調理台などで、物を置いたり作業したりする平らな面。家具全体ではなく、作業に使う面を取り出して述べる。",
+      "patterns": [
+        "a work surface",
+        "a kitchen surface",
+        "wipe the surface",
+        "clear a surface。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a work surface",
+          "use": "作業に使う面を述べる。",
+          "example": "Place the tools on a stable work surface.",
+          "translation": "安定した作業台の上に、道具を置いてください。"
+        },
+        {
+          "pattern": "a kitchen surface",
+          "use": "台所の調理・作業面を指す。",
+          "example": "Flour covered the kitchen surface after they made the dough.",
+          "translation": "生地を作った後、台所の作業台は小麦粉だらけになっていた。"
+        },
+        {
+          "pattern": "wipe the surface",
+          "use": "作業面を拭くことを述べる。",
+          "example": "She wiped the surface before setting out the ingredients.",
+          "translation": "彼女は、材料を並べる前に作業面を拭いた。"
+        },
+        {
+          "pattern": "clear a surface",
+          "use": "面の上の物を片づけて空ける。",
+          "example": "We cleared a surface for assembling the model.",
+          "translation": "私たちは、模型を組み立てるため作業台の上を空けた。"
+        }
+      ],
+      "notes": [
+        "work surface は作業する面、desk／table は家具全体を指すことが多い。surface を拭いたという表現だけで、家具の内側や脚まで処理したという意味にはならない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞：通常単数】表面的な様子、外見",
+      "frequency": 7,
+      "register": [
+        "一般・人物や状況の説明。"
+      ],
+      "definition": "物事を深く調べる前に見える様子。内側にある事情・感情・仕組みと対比して、外から現れている部分を表す。on the surface で一見すると、という慣用的な意味にもなる。",
+      "patterns": [
+        "on the surface",
+        "beneath the surface",
+        "look below the surface。"
+      ],
+      "collocations": [
+        {
+          "pattern": "on the surface",
+          "use": "外見上の判断を、その内実と区別する。",
+          "example": "On the surface, the proposal looks fair, but its conditions favour one side.",
+          "translation": "一見、その提案は公平に見えるが、条件は一方に有利になっている。"
+        },
+        {
+          "pattern": "beneath the surface",
+          "use": "外見には現れない事情や感情を述べる。",
+          "example": "Beneath the surface of their polite conversation, there was considerable tension.",
+          "translation": "丁寧な会話の表面下には、かなりの緊張があった。"
+        },
+        {
+          "pattern": "look below the surface",
+          "use": "うわべだけでなく内実を調べる姿勢を述べる。",
+          "example": "The investigation looked below the surface to understand how the system really worked.",
+          "translation": "調査では、仕組みが実際にどう動いているのかを理解するため、表面に見えることより深く掘り下げた。"
+        }
+      ],
+      "notes": [
+        "on the surface は場所を表す語義1と同じ形だが、ここでは外見上という判断の範囲を示す。on the surface と言えば必ず内側が悪いというわけではなく、見かけと実情を分けている。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【形容詞】表面の、表面にある",
+      "frequency": 7,
+      "register": [
+        "一般・科学・物の状態の説明。"
+      ],
+      "definition": "物体や地面などの表面に位置する、または表面に関わる。名詞の前で、どの部分や位置に関係するかを示す。",
+      "patterns": [
+        "surface water",
+        "a surface layer",
+        "surface damage",
+        "surface temperature。"
+      ],
+      "collocations": [
+        {
+          "pattern": "surface water",
+          "use": "地表にある水を示す。",
+          "example": "The study compares surface water with groundwater in the area.",
+          "translation": "その研究は、地域の地表水と地下水を比較している。"
+        },
+        {
+          "pattern": "a surface layer",
+          "use": "物体の表側にある層を述べる。",
+          "example": "The surface layer had dried, but the material underneath was still wet.",
+          "translation": "表面の層は乾いていたが、その下の材料はまだ湿っていた。"
+        },
+        {
+          "pattern": "surface damage",
+          "use": "損傷する位置を表面に限定する。",
+          "example": "The inspection found surface damage on the metal plate.",
+          "translation": "点検で、金属板の表面に損傷が見つかった。"
+        },
+        {
+          "pattern": "surface temperature",
+          "use": "表面という位置での温度を述べる。",
+          "example": "The sensor measures the surface temperature of the pipe.",
+          "translation": "そのセンサーは、管の表面温度を測定する。"
+        }
+      ],
+      "notes": [
+        "surface layer などは形容詞用法として説明でき、名詞が別の名詞を限定する分析とも重なる。通常は名詞の前で使い、表面の状態だという意味で The layer is surface. のように機械的に述語へ移さない。表面にあることと、損傷が軽いことは別である。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【動詞：自動詞】現れる、表面化する",
+      "frequency": 7,
+      "register": [
+        "一般・報道・業務。"
+      ],
+      "definition": "隠れていた情報・感情・問題などが知られるようになる。また、しばらく姿が見えなかった人・物が現れる。物理的な水面がなくても使う。",
+      "patterns": [
+        "new evidence surfaces",
+        "doubts surface",
+        "issues surface during a discussion",
+        "a painting surfaces after a long absence。"
+      ],
+      "collocations": [
+        {
+          "pattern": "new evidence surfaces",
+          "use": "それまで知られていなかった証拠の出現を述べる。",
+          "example": "New evidence surfaced after the case was reopened.",
+          "translation": "事件の調査が再開された後、新たな証拠が出てきた。"
+        },
+        {
+          "pattern": "doubts surface",
+          "use": "疑念が表に出ることを述べる。",
+          "example": "Doubts about the proposal surfaced during the meeting.",
+          "translation": "会議中に、その提案に対する疑念が表面化した。"
+        },
+        {
+          "pattern": "surface during a discussion",
+          "use": "議論の中で話題や問題が出ることを示す。",
+          "example": "Several unresolved issues surfaced during the discussion.",
+          "translation": "話し合いの中で、未解決の問題がいくつか浮かび上がった。"
+        },
+        {
+          "pattern": "surface after a long absence",
+          "use": "長く見えなかった人や物が再び現れることを述べる。",
+          "example": "The missing painting surfaced after a long absence.",
+          "translation": "長い間行方が分からなかった絵が、再び姿を現した。"
+        }
+      ],
+      "notes": [
+        "この用法では現れる情報・問題などが主語。The issue surfaced. は問題が表面化したという自動詞文で、誰かがそれを明示する他動詞文とは役割が異なる。surface は、存在していなかったものを新しく創造することそのものではなく、見える・知られる状態へ出ることを示す。"
+      ],
+      "synonyms": [
+        {
+          "word": "emerge",
+          "definition": "隠れた状態から現れる、知られるようになる。",
+          "frequency": 8,
+          "difference": "surface と重なるが、emerge は姿・事実の出現や発展の結果が明らかになる場面に広く使う。surface は、それまで下に隠れていたものが表へ出る見方を出しやすい。",
+          "example": "A clearer picture emerged as more information became available.",
+          "translation": "情報が増えるにつれて、より明確な全体像が浮かび上がった。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【動詞：自動詞】水面へ浮上する",
+      "frequency": 6,
+      "register": [
+        "一般・水中活動・自然描写。"
+      ],
+      "definition": "水中にいた人・動物・物が、水面まで上がってくる。浮上するもの自体を主語とする。",
+      "patterns": [
+        "a diver surfaces",
+        "surface for air",
+        "a submarine surfaces near something",
+        "surface from underwater。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a diver surfaces",
+          "use": "潜水していた人の浮上を述べる。",
+          "example": "The diver surfaced beside the boat.",
+          "translation": "ダイバーは、船のそばに浮上した。"
+        },
+        {
+          "pattern": "surface for air",
+          "use": "空気を吸うための浮上を述べる。",
+          "example": "The seal surfaced for air.",
+          "translation": "アザラシは、空気を吸うため水面に出た。"
+        },
+        {
+          "pattern": "surface near something",
+          "use": "浮上した位置を示す。",
+          "example": "A small submarine surfaced near the island.",
+          "translation": "小型潜水艦が、島の近くに浮上した。"
+        }
+      ],
+      "notes": [
+        "この用法は自動詞なので、浮上したという意味で was surfaced と通常の受動態にしない。誰かが何かを水面へ出す他動詞用法は別にあるが、主語と目的語の役割が変わる。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【動詞：他動詞】前提や問題などを表に出す、検討に上げる",
+      "frequency": 5,
+      "register": [
+        "業務・議論・情報技術など。"
+      ],
+      "definition": "それまで明示・検討されていなかった前提・懸念・情報などを、人の注意や議論の場へ持ち出す。抽象的な対象を表面へ出すという捉え方で用いる他動詞。",
+      "patterns": [
+        "surface assumptions",
+        "surface concerns",
+        "surface information",
+        "be surfaced during a discussion。"
+      ],
+      "collocations": [
+        {
+          "pattern": "surface assumptions",
+          "use": "暗黙の前提を明らかにして検討可能にする。",
+          "example": "The discussion surfaced several assumptions that the team had never questioned.",
+          "translation": "話し合いによって、チームがそれまで疑問を持たなかった前提がいくつか明らかになった。"
+        },
+        {
+          "pattern": "surface concerns",
+          "use": "表に出ていなかった懸念を取り上げる。",
+          "example": "The facilitator asked questions to surface concerns about the schedule.",
+          "translation": "進行役は、日程についての懸念を引き出すために質問した。"
+        },
+        {
+          "pattern": "surface information",
+          "use": "関連情報を人が気づける形で提示する。",
+          "example": "The system surfaces information relevant to the user's current task.",
+          "translation": "そのシステムは、利用者が今行っている作業に関連する情報を提示する。"
+        },
+        {
+          "pattern": "be surfaced during a discussion",
+          "use": "議論で取り上げられた対象を受動態の主語にする。",
+          "example": "Several hidden assumptions were surfaced during the discussion.",
+          "translation": "話し合いの中で、暗黙の前提がいくつか明示された。"
+        }
+      ],
+      "notes": [
+        "An assumption surfaced. なら前提が明らかになったという自動詞文、The discussion surfaced an assumption. なら議論が前提を明らかにしたという他動詞文。この用法を、surface が常に自動詞だという規則で排除しない。一方、全ての伝える動詞を surface に置き換えるわけではなく、見える・検討できる状態へ出すという文脈が中心となる。"
+      ],
+      "synonyms": [
+        {
+          "word": "reveal",
+          "definition": "隠れていたことを明らかにする。",
+          "frequency": 8,
+          "difference": "秘密・事実・物などを広く明らかにする。surface は、議論や注意の対象として表へ出す文脈を前景化しやすい。",
+          "example": "The interview revealed a gap in their understanding.",
+          "translation": "面接で、彼らの理解に不足があることが明らかになった。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【動詞句】表面的な部分しか扱わない：scratch the surface",
+      "frequency": 6,
+      "register": [
+        "一般・議論・学習・調査。"
+      ],
+      "definition": "問題や分野のごく一部だけを調べたり扱ったりし、深い内容までは到達しない。文字どおり表面に傷を付ける動作とは区別される慣用句。",
+      "patterns": [
+        "only scratch the surface",
+        "scratch the surface of something",
+        "barely scratch the surface",
+        "have just scratched the surface。"
+      ],
+      "collocations": [
+        {
+          "pattern": "only scratch the surface",
+          "use": "まだ扱いが浅い段階であることを述べる。",
+          "example": "This short overview only scratches the surface.",
+          "translation": "この短い概説では、表面的な部分しか扱えていない。"
+        },
+        {
+          "pattern": "scratch the surface of something",
+          "use": "どの分野を一部だけ扱ったかを示す。",
+          "example": "The lecture scratched the surface of a much larger debate.",
+          "translation": "その講義は、はるかに大きな議論の一端に触れただけだった。"
+        },
+        {
+          "pattern": "barely scratch the surface",
+          "use": "扱った範囲がごくわずかだと強調する。",
+          "example": "Our first survey barely scratched the surface of the problem.",
+          "translation": "最初の調査では、問題のごく表面的な部分しか分からなかった。"
+        },
+        {
+          "pattern": "have just scratched the surface",
+          "use": "調査・学習がまだ始まりにすぎないと述べる。",
+          "example": "We've just scratched the surface of what this archive contains.",
+          "translation": "この資料庫に何があるかについて、私たちはまだほんの入り口を調べたにすぎない。"
+        }
+      ],
+      "notes": [
+        "the を含む scratch the surface が定着した形。of の後ろは扱う分野や問題。only／just／barely は浅さ・わずかさを強調するが、慣用句の基本的な意味を作るために必ず必要というわけではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 9,
+      "title": "【形容詞】陸上・水上の、航空・地下によらない",
+      "frequency": 5,
+      "register": [
+        "輸送・交通。"
+      ],
+      "definition": "輸送・移動などが、空中や地下ではなく、地表や水面上を通ることに関係する。交通手段の種類を区別する修飾語として使う。",
+      "patterns": [
+        "surface transport",
+        "surface routes",
+        "surface vessels。"
+      ],
+      "collocations": [
+        {
+          "pattern": "surface transport",
+          "use": "航空などに対して地表・水上の交通を述べる。",
+          "example": "The report compares air freight with surface transport.",
+          "translation": "その報告書は、航空貨物輸送と陸上・水上輸送を比較している。"
+        },
+        {
+          "pattern": "surface routes",
+          "use": "地上を通る経路を地下などの経路と区別する。",
+          "example": "During the tunnel closure, buses used surface routes.",
+          "translation": "トンネルの閉鎖中、バスは地上の経路を通った。"
+        },
+        {
+          "pattern": "surface vessels",
+          "use": "水面上を航行する船を述べる。",
+          "example": "The exercise involved both submarines and surface vessels.",
+          "translation": "その訓練には、潜水艦と水上艦の両方が参加した。"
+        }
+      ],
+      "notes": [
+        "surface transport の範囲は文脈で確認する。道路・鉄道・海路などを含み得るため、surface を常に船だけと訳さない。surface vessels は潜水艦との対比で水上の船を指す。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 10,
+      "title": "【形容詞】うわべの、表面的な",
+      "frequency": 5,
+      "register": [
+        "一般・比較・評論。"
+      ],
+      "definition": "違い・印象などが、見える外側の特徴に限られ、深い内容や本質にまでは及ばない。物理的な表面位置ではなく、検討する層の浅さを示す。",
+      "patterns": [
+        "surface differences",
+        "surface similarities。"
+      ],
+      "collocations": [
+        {
+          "pattern": "surface differences",
+          "use": "違いが見かけの部分にとどまることを述べる。",
+          "example": "The two versions have surface differences, but the underlying logic is the same.",
+          "translation": "二つの版には表面的な違いがあるが、背後の論理は同じだ。"
+        },
+        {
+          "pattern": "surface similarities",
+          "use": "深い構造まで共通とは限らない類似を述べる。",
+          "example": "We should not confuse surface similarities with a shared cause.",
+          "translation": "表面的な類似を、共通の原因があることと混同してはいけない。"
+        }
+      ],
+      "notes": [
+        "superficial と重なるが、surface はこの用法では主に名詞を前から修飾する。人の性格について She is surface. として superficial の代わりに使わない。"
+      ],
+      "synonyms": [
+        {
+          "word": "superficial",
+          "definition": "外から見える部分や明白な特徴にとどまる。",
+          "frequency": 6,
+          "difference": "表面的な類似・相違では surface と近いが、superficial は検討や人柄の浅さにも使い、述語にもなれる。surface を同じ範囲へ自由に広げない。",
+          "example": "The resemblance is superficial rather than structural.",
+          "translation": "その類似は、構造上のものではなく表面的なものだ。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 11,
+      "title": "【動詞：自動詞】起きる、ようやく姿を見せる",
+      "frequency": 4,
+      "register": [
+        "くだけた会話。"
+      ],
+      "definition": "眠っていた人が起きて活動を始めることを、くだけた調子で述べる。遅くまで寝ていて、ようやく姿を見せるような文脈になじむが、必ず遅刻や怠慢を非難するわけではない。",
+      "patterns": [
+        "surface at noon",
+        "surface for breakfast",
+        "not surface until late。"
+      ],
+      "collocations": [
+        {
+          "pattern": "surface at noon",
+          "use": "起きて活動し始めた時刻を述べる。",
+          "example": "After working all night, he finally surfaced at noon.",
+          "translation": "徹夜で働いた後、彼は正午になってようやく起きてきた。"
+        },
+        {
+          "pattern": "surface for breakfast",
+          "use": "食事のため起きて姿を見せることを述べる。",
+          "example": "She surfaced for breakfast still looking sleepy.",
+          "translation": "彼女は、まだ眠そうな様子で朝食を取りに起きてきた。"
+        },
+        {
+          "pattern": "not surface until late",
+          "use": "遅い時間まで起きてこないことを述べる。",
+          "example": "On his day off, he didn't surface until late in the morning.",
+          "translation": "休日には、彼は朝の遅い時間まで起きてこなかった。"
+        }
+      ],
+      "notes": [
+        "物理的に水中から出るのではなく、眠りや人目に触れない状態から活動の場へ出るというくだけた用法。正式な勤務記録などでは get up／wake up などの直接的な表現の方が内容を明確にしやすい。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 12,
+      "title": "【動詞：他動詞】道路などの表面を施工する、舗装する",
+      "frequency": 4,
+      "register": [
+        "道路・工事。"
+      ],
+      "definition": "道路・通路などの上に材料を敷き、表面の層を作る。物を水面へ上げる用法ではなく、使える表層を施工する動作。",
+      "patterns": [
+        "surface a road",
+        "surface a path with something",
+        "be surfaced with asphalt。"
+      ],
+      "collocations": [
+        {
+          "pattern": "surface a road",
+          "use": "路面を作る工事を述べる。",
+          "example": "The contractors surfaced the new road before it opened.",
+          "translation": "業者は、開通前に新しい道路を舗装した。"
+        },
+        {
+          "pattern": "surface a path with something",
+          "use": "表面に使う材料を示す。",
+          "example": "They surfaced the path with gravel.",
+          "translation": "彼らは、その小道に砂利を敷いた。"
+        },
+        {
+          "pattern": "be surfaced with asphalt",
+          "use": "舗装された面を主語にし、材料を示す。",
+          "example": "The access road is surfaced with asphalt.",
+          "translation": "進入路は、アスファルトで舗装されている。"
+        }
+      ],
+      "notes": [
+        "surface の目的語は施工する道路や面、with の後ろが表層材料。過去形・過去分詞は surfaced。再施工・新しい表面への更新を強調する resurface と関連するが、surface だけで必ず二度目の施工を意味するわけではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "pave",
+          "definition": "道路や地面を舗装材で覆う。",
+          "frequency": 6,
+          "difference": "舗装の意味で surface と重なる。surface は対象の表面を作ることに焦点があり、別の文脈では舗装以外の面の仕上げにも使う。",
+          "example": "The courtyard was paved with stone.",
+          "translation": "中庭は、石で舗装されていた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 13,
+      "title": "【動詞：他動詞】水面へ出す、浮上させる",
+      "frequency": 3,
+      "register": [
+        "船舶・水中活動。"
+      ],
+      "definition": "潜水艦など、水中にあるものを水面へ上げる。水面へ出る対象を直接目的語とし、動作を起こす側を主語にする。",
+      "patterns": [
+        "surface a submarine",
+        "surface the vessel",
+        "be surfaced。"
+      ],
+      "collocations": [
+        {
+          "pattern": "surface a submarine",
+          "use": "潜水艦を浮上させる操作・指示を述べる。",
+          "example": "The captain surfaced the submarine after the exercise.",
+          "translation": "艦長は、訓練の後、潜水艦を浮上させた。"
+        },
+        {
+          "pattern": "be surfaced",
+          "use": "浮上させられる側を主語にする。",
+          "example": "The submarine was surfaced for an inspection.",
+          "translation": "その潜水艦は、点検のため浮上させられた。"
+        }
+      ],
+      "notes": [
+        "The submarine surfaced. は潜水艦自体を主語とする自動詞文、The captain surfaced the submarine. は艦長が対象を浮上させる他動詞文。was surfaced は後者に対応する受動態であり、自動詞をそのまま受動態にしたものではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 14,
+      "title": "【動詞：他動詞】表面を平ら・滑らかに仕上げる",
+      "frequency": 2,
+      "register": [
+        "加工・製造。専門的。"
+      ],
+      "definition": "材料などの表面を加工し、平らまたは滑らかな仕上がりにする。表層材料を敷く舗装とは、仕上げる対象・方法の捉え方が異なる。",
+      "patterns": [
+        "surface a board",
+        "surface a piece of wood",
+        "be surfaced to a smooth finish。"
+      ],
+      "collocations": [
+        {
+          "pattern": "surface a board",
+          "use": "板の表面を整える加工を述べる。",
+          "example": "The workshop surfaced the boards before they were assembled.",
+          "translation": "作業場では、組み立てる前に板の表面を仕上げた。"
+        },
+        {
+          "pattern": "be surfaced to a smooth finish",
+          "use": "加工後の滑らかな仕上がりを示す。",
+          "example": "The wooden panel was surfaced to a smooth finish.",
+          "translation": "木製パネルの表面は、滑らかに仕上げられた。"
+        }
+      ],
+      "notes": [
+        "surface a board は板を水面へ持ち上げることではなく、この加工文脈では表面を整えること。目的語と加工の文脈で、他動詞のどの意味かを読む。実際の加工手順・機械設定は、この語義からは決まらない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 15,
+      "title": "【名詞：可算】数学的な面、曲面",
+      "frequency": 4,
+      "register": [
+        "数学・幾何。"
+      ],
+      "definition": "平面や曲面として捉える二次元の広がり。三次元の空間内にある曲がった面も含み、立体の体積そのものとは区別する。",
+      "patterns": [
+        "a curved surface",
+        "a plane surface",
+        "the surface of a sphere。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a curved surface",
+          "use": "平らではない数学的な面を述べる。",
+          "example": "The diagram represents a curved surface in three-dimensional space.",
+          "translation": "その図は、三次元空間内の曲面を表している。"
+        },
+        {
+          "pattern": "a plane surface",
+          "use": "平面としての面を述べる。",
+          "example": "The exercise contrasts a plane surface with a curved one.",
+          "translation": "その問題では、平面と曲面を対比している。"
+        },
+        {
+          "pattern": "the surface of a sphere",
+          "use": "球の内部体積と境界の面を区別する。",
+          "example": "All points on the surface of a sphere are the same distance from its centre.",
+          "translation": "球面上の全ての点は、その球の中心から同じ距離にある。"
+        }
+      ],
+      "notes": [
+        "面積を表す surface area と、立体の体積を表す volume を混同しない。数学の厳密な定義は扱う分野によって追加条件があり、surface がいつでも日常的な固体の外皮だけを指すわけではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 16,
+      "title": "【名詞句：不可算】陸路・海路による郵便：surface mail",
+      "frequency": 4,
+      "register": [
+        "郵便・配送。"
+      ],
+      "definition": "航空機ではなく、道路・鉄道・船などを使って運ぶ郵便。具体的なサービス名・配送速度・料金は、郵便事業者や経路によって異なる。",
+      "patterns": [
+        "send something by surface mail",
+        "by surface mail rather than airmail",
+        "surface mail delivery。"
+      ],
+      "collocations": [
+        {
+          "pattern": "send something by surface mail",
+          "use": "航空によらない郵送方法を述べる。",
+          "example": "They sent the books by surface mail.",
+          "translation": "彼らは、本を航空便ではなく陸路・海路の郵便で送った。"
+        },
+        {
+          "pattern": "by surface mail rather than airmail",
+          "use": "航空便との選択を明示する。",
+          "example": "The parcel was sent by surface mail rather than airmail.",
+          "translation": "小包は、航空便ではなく陸路・海路の郵便で発送された。"
+        },
+        {
+          "pattern": "surface mail delivery",
+          "use": "その輸送方式での配達を述べる。",
+          "example": "The form lists surface mail delivery as an option.",
+          "translation": "その申込書には、陸路・海路の郵便配達が選択肢として記されている。"
+        }
+      ],
+      "notes": [
+        "mail はこの意味では通常不可算で、郵便物を数えるなら items of mail などを使う。by surface mail の by は手段を示す。日本語で船便と呼ぶ文脈があっても、英語の語義を海路だけに限定しない。現在利用できるサービスや料金を保証する表現ではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 17,
+      "title": "【動詞：自動詞・resurface】再び水面などへ現れる",
+      "frequency": 5,
+      "register": [
+        "一般・自然描写。"
+      ],
+      "definition": "水中や地中などから、もう一度表面へ出てくる。現れる対象自体を主語とし、再出現を re- で明示する。",
+      "patterns": [
+        "resurface after diving",
+        "resurface near something",
+        "resurface from below。"
+      ],
+      "collocations": [
+        {
+          "pattern": "resurface after diving",
+          "use": "潜った後の再浮上を述べる。",
+          "example": "The bird resurfaced after diving for a fish.",
+          "translation": "鳥は、魚を追って潜った後、再び水面へ出てきた。"
+        },
+        {
+          "pattern": "resurface near something",
+          "use": "再浮上した位置を示す。",
+          "example": "The swimmer resurfaced near the edge of the pool.",
+          "translation": "泳いでいた人は、プールの縁の近くに再び浮かび上がった。"
+        }
+      ],
+      "notes": [
+        "surface でも文脈によって再出現を述べられるが、resurface はもう一度という関係を明示する。ここでは自動詞なので、浮上したものを目的語へ置く構文として扱わない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 18,
+      "title": "【動詞：自動詞・resurface】再び表面化する、再登場する",
+      "frequency": 6,
+      "register": [
+        "一般・報道・業務。"
+      ],
+      "definition": "収まっていた感情・問題、見えなくなっていた人・物・情報などが、再び表へ現れる。解決済みだと思っていた問題の再燃にも使う。",
+      "patterns": [
+        "old doubts resurface",
+        "tensions resurface",
+        "resurface after years",
+        "resurface in a new form。"
+      ],
+      "collocations": [
+        {
+          "pattern": "old doubts resurface",
+          "use": "以前の疑念が再び現れることを述べる。",
+          "example": "Old doubts resurfaced when the figures were revised.",
+          "translation": "数値が修正されると、以前の疑念が再び浮上した。"
+        },
+        {
+          "pattern": "tensions resurface",
+          "use": "一度収まった緊張が再燃することを述べる。",
+          "example": "Tensions resurfaced during the negotiations.",
+          "translation": "交渉の間に、緊張が再び表面化した。"
+        },
+        {
+          "pattern": "resurface after years",
+          "use": "長い期間を経て再び現れることを述べる。",
+          "example": "The lost manuscript resurfaced after years in a private collection.",
+          "translation": "失われていた原稿は、何年も個人の所蔵品の中にあった後、再び姿を現した。"
+        },
+        {
+          "pattern": "resurface in a new form",
+          "use": "形を変えて戻る問題などを述べる。",
+          "example": "The same problem resurfaced in a new form.",
+          "translation": "同じ問題が、形を変えて再び現れた。"
+        }
+      ],
+      "notes": [
+        "resurface は、元気を取り戻す revive といつでも同じではない。問題が resurface するのは再び見える・知られるようになることであり、良い状態への回復を意味しない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 19,
+      "title": "【動詞：他動詞・resurface】新しい表面を施工する、再舗装する",
+      "frequency": 4,
+      "register": [
+        "道路・工事・設備。"
+      ],
+      "definition": "道路・通路などに新しい表層を作り、表面を更新する。再び現れる自動詞用法と違い、施工対象を直接目的語に取る。",
+      "patterns": [
+        "resurface a road",
+        "resurface a path",
+        "be resurfaced",
+        "resurface something with something。"
+      ],
+      "collocations": [
+        {
+          "pattern": "resurface a road",
+          "use": "道路の表層を新しくする工事を述べる。",
+          "example": "The council plans to resurface the road next month.",
+          "translation": "自治体は、来月その道路を再舗装する予定だ。"
+        },
+        {
+          "pattern": "be resurfaced",
+          "use": "更新される道路などを主語にする。",
+          "example": "The tennis courts were resurfaced during the closure.",
+          "translation": "閉鎖期間中に、テニスコートの表面が改修された。"
+        },
+        {
+          "pattern": "resurface something with something",
+          "use": "新しい表層に用いる材料を示す。",
+          "example": "They resurfaced the path with a new layer of gravel.",
+          "translation": "彼らは、小道に新たな砂利の層を敷いて表面を更新した。"
+        }
+      ],
+      "notes": [
+        "The road was resurfaced. は道路が施工された受動態で、The problem resurfaced. は問題が再び現れた自動詞文。主語が道路か問題かだけでなく、be と過去分詞による受動関係の有無も区別する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}
