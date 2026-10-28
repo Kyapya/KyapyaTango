@@ -3,7 +3,7 @@
   "slug": "perceive",
   "ipa": "米: /pɚˈsiːv/｜英: /pəˈsiːv/。2音節で、第2音節 /ˈsiːv/ に主強勢がある。米語の第1音節は r 色のある /pɚ/、英語は弱い /pə/。",
   "lead": "目・耳・鼻などの感覚を通して、人・物・動き・変化を直接捉える。完全に意識化したり、詳しく理解したりするとは限らない。機械知覚の文脈では、センサーなどが環境情報を捉える働きにも拡張して使われる。",
-  "updated": "2026-10-02",
+  "updated": "2026-10-28",
   "notion_url": "https://app.notion.com/p/perceive-3c64faa9b77d8140b72bdf69bf18369c",
   "pronunciation": [
     "第2音節の母音 /iː/ に続く語末の子音は /v/ で、/f/ と区別する。自然な発話では /v/ の声帯振動が弱くなることもあるため、常に最後まで明瞭な有声を保つという絶対的な規則ではない。",
@@ -138,7 +138,14 @@
         }
       ],
       "notes": [
-        "人・動物については感覚に入った対象を捉えることを表し、意図的に詳しく調べることまでは含まない。perceive O doing は「Oが～しているのを知覚する」という構文である。see や hear に見られる原形不定詞との対比を、そのまま perceive に当てはめない。perceive O as B のように対象を特定の性質・分類として捉える用法は、語義4を参照する。"
+        "人・動物については感覚に入った対象を捉えることを表し、意図的に詳しく調べることまでは含まない。perceive O doing は「Oが～しているのを知覚する」という構文である。see や hear に見られる原形不定詞との対比を、そのまま perceive に当てはめない。perceive O as B のように対象を特定の性質・分類として捉える用法は、語義4を参照する。",
+        "次は独立した反意語ではなく、認識・理解に至らないことを述べる説明的な表現である。",
+        "fail to notice",
+        "定義: 気づくことに失敗する",
+        "頻度: 〈8/10〉",
+        "違い: 意図的な無視ではなく、知覚・注意の結果として気づかなかったことを明示する",
+        "例: She failed to notice the warning light.",
+        "訳: 彼女は警告灯に気づかなかった。"
       ],
       "synonyms": [
         {
@@ -179,7 +186,7 @@
           "word": "overlook",
           "definition": "見えているもの・気づくべきものを見落とす",
           "frequency": 7,
-          "difference": "perceive が対象を意識に入れるのに対し、overlook は注意不足で見落とすことを表す",
+          "difference": "ここでは対象を捉えることと見落とすことの対立を表す。overlook は気づくべき点を見落とすことに焦点があり、perceive のあらゆる用法の否定に対応するわけではない",
           "example": "The reviewer overlooked a small error.",
           "translation": "査読者は小さな誤りを見落とした。"
         },
@@ -187,17 +194,9 @@
           "word": "miss",
           "definition": "対象を捉え損なう、見逃す",
           "frequency": 9,
-          "difference": "overlook より広く、視認・聴取の機会を逃すことにも使える",
+          "difference": "対象を捉えることと捉え損なうことの対立を表す。miss は視認・聴取の機会を逃すことにも使え、perceive と完全な補完関係になるわけではない",
           "example": "I missed the change in his expression.",
           "translation": "私は彼の表情の変化を見逃した。"
-        },
-        {
-          "word": "fail to notice",
-          "definition": "気づくことに失敗する",
-          "frequency": 8,
-          "difference": "意図的な無視ではなく、知覚・注意の結果として気づかなかったことを明示する",
-          "example": "She failed to notice the warning light.",
-          "translation": "彼女は警告灯に気づかなかった。"
         }
       ]
     },
@@ -253,7 +252,14 @@
         }
       ],
       "notes": [
-        "realize や recognize と重なるが、perceive は状況をどのように捉えたかという認識の枠組みに焦点を置きやすい。否定形では「気づいていない・認識していない」という意味になり、知識不足だけでなく、状況をそう捉えるに至っていないことも表す。語義1の直接の感覚知覚と、語義3の意味・含意の理解の中間に位置する学習上の区分であり、辞書によっては同じ大きな sense にまとめられる。"
+        "realize や recognize と重なるが、perceive は状況をどのように捉えたかという認識の枠組みに焦点を置きやすい。否定形では「気づいていない・認識していない」という意味になり、知識不足だけでなく、状況をそう捉えるに至っていないことも表す。語義1の直接の感覚知覚と、語義3の意味・含意の理解の中間に位置する学習上の区分であり、辞書によっては同じ大きな sense にまとめられる。",
+        "次は独立した反意語ではなく、認識・理解に至らないことを述べる説明的な表現である。",
+        "remain unaware of",
+        "定義: ～を知らないままでいる",
+        "頻度: 〈6/10〉",
+        "違い: perceive の認識到達と反対に、対象が意識や知識に入らない状態を明示する",
+        "例: They remained unaware of the change.",
+        "訳: 彼らはその変化に気づかないままだった。"
       ],
       "synonyms": [
         {
@@ -294,7 +300,7 @@
           "word": "overlook",
           "definition": "認識すべき事実や問題を見落とす",
           "frequency": 7,
-          "difference": "perceive が事実を認識するのに対し、overlook は注意や検討から漏らすことを表す",
+          "difference": "事実を認識することと、注意や検討から漏らすことの対立を表す。overlook は単に知らない状態一般を意味せず、perceive の否定と常に一致するわけではない",
           "example": "The report overlooked a key constraint.",
           "translation": "その報告書は重要な制約を見落とした。"
         },
@@ -302,17 +308,9 @@
           "word": "miss",
           "definition": "事実や意味に気づき損なう",
           "frequency": 9,
-          "difference": "miss は認識の機会を逃したことを広く表し、意図的な拒否までは含まない",
+          "difference": "事実や意味を捉えることと捉え損なうことの対立を表す。miss は意図的に拒否することを必須とせず、perceive の否定をそのまま言い換える語ではない",
           "example": "The analysis missed the main warning sign.",
           "translation": "その分析は主な警告の兆候を見逃した。"
-        },
-        {
-          "word": "remain unaware of",
-          "definition": "～を知らないままでいる",
-          "frequency": 6,
-          "difference": "perceive の認識到達と反対に、対象が意識や知識に入らない状態を明示する",
-          "example": "They remained unaware of the change.",
-          "translation": "彼らはその変化に気づかないままだった。"
         }
       ]
     },
@@ -368,7 +366,14 @@
         }
       ],
       "notes": [
-        "understand よりも、対象の意味・関係・含意を「捉えた」という視点が前面に出やすい。完全で詳細な理解を必ず含むわけではない。語義2の「事実だと認識する」と近いが、語義3では事実から読み取る意味や構造が中心で、as/to be などによる人・物への評価・分類は語義4で扱う。ただし、to不定詞は対象の状態を知覚・認識する記述にも使うため、構文だけで評価義と決めない。"
+        "understand よりも、対象の意味・関係・含意を「捉えた」という視点が前面に出やすい。完全で詳細な理解を必ず含むわけではない。語義2の「事実だと認識する」と近いが、語義3では事実から読み取る意味や構造が中心で、as/to be などによる人・物への評価・分類は語義4で扱う。ただし、to不定詞は対象の状態を知覚・認識する記述にも使うため、構文だけで評価義と決めない。",
+        "次は独立した反意語ではなく、認識・理解に至らないことを述べる説明的な表現である。",
+        "fail to grasp",
+        "定義: 要点・構造をつかめない",
+        "頻度: 〈7/10〉",
+        "違い: 完全な反対というより、理解に到達しないことを明示する対立表現である",
+        "例: The audience failed to grasp the central distinction.",
+        "訳: 聴衆は中心的な違いをつかめなかった。"
       ],
       "synonyms": [
         {
@@ -381,9 +386,9 @@
         },
         {
           "word": "comprehend",
-          "definition": "内容を十分に理解する",
+          "definition": "内容や意味を理解し、把握する",
           "frequency": 6,
-          "difference": "comprehend は perceive より硬く、内容全体を把握したことを強く示す",
+          "difference": "comprehend は内容や意味を知的に把握することを表す硬い語で、十分な理解を強調することもある。perceive は意味や関係を捉える点に焦点があるが、両者を理解の深さだけで固定的に順位づけない",
           "example": "The reader comprehended the argument quickly.",
           "translation": "その読者は議論をすぐに理解した。"
         },
@@ -409,7 +414,7 @@
           "word": "misunderstand",
           "definition": "意味や状況を誤って理解する",
           "frequency": 9,
-          "difference": "perceive が構造や含意を正しく捉えるのに対し、misunderstand は解釈の内容が誤る",
+          "difference": "ここでは意味や含意を適切に捉えることと誤って捉えることの対立を表す。単に理解していない場合とは異なり、perceive の否定と完全な補完関係にはならない",
           "example": "I misunderstood the implication of his reply.",
           "translation": "私は彼の返答の含意を誤解した。"
         },
@@ -417,17 +422,9 @@
           "word": "misinterpret",
           "definition": "発言・行動・資料を誤って解釈する",
           "frequency": 8,
-          "difference": "misinterpret は解釈の枠組みを誤ることに焦点があり、対象が言語・記号である場合に特に自然",
+          "difference": "含意などを適切に読み取ることと、解釈を誤ることの対立を表す。misinterpret は発言・行動・資料などの読み取り方の誤りに焦点があり、何も理解しないことや知覚しないこととは区別する",
           "example": "The headline was misinterpreted as a promise.",
           "translation": "その見出しは約束だと誤解釈された。"
-        },
-        {
-          "word": "fail to grasp",
-          "definition": "要点・構造をつかめない",
-          "frequency": 7,
-          "difference": "完全な反対というより、理解に到達しないことを明示する対立表現である",
-          "example": "The audience failed to grasp the central distinction.",
-          "translation": "聴衆は中心的な違いをつかめなかった。"
         }
       ]
     },
@@ -524,7 +521,7 @@
           "word": "consider",
           "definition": "人・物をあるものとして判断する",
           "frequency": 10,
-          "difference": "consider A (to be) B は判断の行為を強く示し、perceive の受け止め方より意図的である",
+          "difference": "consider A (to be) B は、対象についてある判断・見方を持つことを表す。この構文だけで熟考や意図的な検討を必ず意味するわけではない。perceive A as B は対象がどう受け止められるかという認識の面に焦点を置くが、両者を意図性の強さだけで固定的に順位づけない",
           "example": "They considered the proposal to be practical.",
           "translation": "彼らはその提案を実行可能だと判断した。"
         },
@@ -598,14 +595,15 @@
         }
       ],
       "notes": [
-        "名詞の前の perceived は「認識された・そう見なされた・知覚された」という形容詞的用法である。人の受け止め方を客観的な実態と区別する場合も、感覚で捉えられた性質を中立的に述べる場合もある。受け身の動詞 be perceived と過去分詞の形は同じだが、前者は名詞を修飾し、後者は認識の対象を主語にする。perceptible「知覚できる」と混同しない。",
+        "名詞の前の perceived は「認識された・そう見なされた・知覚された」という形容詞的用法である。人の受け止め方を客観的な実態と区別する場合も、感覚で捉えられた性質を中立的に述べる場合もある。名詞の前の perceived はその名詞を修飾する。一方、動詞の受動態 be perceived は、認識・知覚の対象を主語にして述べる。perceptible「知覚できる」と混同しない。",
         "次は名詞修飾の形容詞ではなく、判断・評価を表す動詞の受動態との構文上の対照である。",
         "be regarded as 〈性質・分類〉",
         "定義: あるものとして見なされた",
         "頻度: 〈8/10〉",
         "違い: be regarded as は語義4の be perceived as に対応する動詞の受動態である。名詞の前の perceived を、単独の regarded でそのまま置き換える表現ではない",
         "例: The proposal was regarded as realistic.",
-        "訳: その提案は現実的だと見なされた。"
+        "訳: その提案は現実的だと見なされた。",
+        "以下の類義語比較は、主に認識・評価されたものについての用法を扱う。perceived brightness のような感覚用法で、そのまま同じ置き換えができるとは限らない。"
       ],
       "synonyms": [
         {
@@ -620,15 +618,15 @@
           "word": "supposed",
           "definition": "そうだと思われている、そうであると想定された",
           "frequency": 9,
-          "difference": "supposed は根拠の弱い想定や通念を含むことがあり、perceived より不確実性が強い",
+          "difference": "supposed はそうだと想定・主張されていることを示し、話し手の疑いを含む場合がある。perceived は誰かにそう認識されたという面を表す。どちらも文脈によって実態とのずれを示し得るが、不確実性の強さを常に一方向に順位づけることはできない",
           "example": "The supposed advantage disappeared in practice.",
           "translation": "その優位性とされるものは実際には消えた。"
         },
         {
           "word": "apparent",
-          "definition": "見かけ上明らかな、そう見える",
+          "definition": "実際にそうかとは別に、そう見える",
           "frequency": 9,
-          "difference": "apparent は観察者にとって明らかに見える状態を表し、人々の認識・評価を明示しない",
+          "difference": "ここでは外見や手がかりからそう見えるという用法を扱い、別義の「明白な」と区別する。perceived は人にそう認識・評価された側面に、apparent はそう見える側面に焦点を置くが、どちらもこの比較だけで実際には誤りだと断定するものではない",
           "example": "The apparent benefit was short-lived.",
           "translation": "見かけ上の利点は長続きしなかった。"
         }

@@ -3,7 +3,7 @@
   "slug": "eliminate",
   "ipa": "米・英: /ɪˈlɪməneɪt/。4音節の i-LIM-uh-nate で、第2音節の /ˈlɪm/ に主強勢がある。第1音節の /ɪ/ と第3音節の /ə/ は弱く、第4音節の /neɪt/ は動詞の -ate なので /eɪt/ と発音する。米英で基本的な音節構成と主強勢の位置に大きな差はない。三人称単数 eliminates は /ɪˈlɪməneɪts/、過去形・過去分詞 eliminated は /ɪˈlɪməneɪtɪd/、-ing形 eliminating は /ɪˈlɪməneɪtɪŋ/。過去形・過去分詞の -ed は、語末の /t/ の後なので /ɪd/ となり、語末にもう1音節加わる。",
   "lead": "不要な物・問題・障害・状態などを取り除き、それが存在しない、または問題にならない状態にする。物理的に取り去る場合だけでなく、原因をなくす、必要性をなくす、制度上の項目を廃止する場合にも使う。単に程度を下げるだけなら reduce の方が合いやすく、eliminate は「なくす」という到達点を含みやすい。ただし、文脈上「完全にゼロにする」とまでは断定できない",
-  "updated": "2026-09-28",
+  "updated": "2026-10-28",
   "notion_url": "https://app.notion.com/p/eliminate-3854faa9b77d8197872ee253e9c990ba",
   "pronunciation": [],
   "etymology": [
@@ -47,7 +47,7 @@
     },
     {
       "type": "item",
-      "text": "体内から外へ押し出すこと → 「体外へ排出する」（語義5）"
+      "text": "体内から物質を除くこと → 「体内から除去する、体外へ排出する」（語義5）"
     },
     {
       "type": "item",
@@ -132,7 +132,7 @@
           "word": "eradicate",
           "definition": "病気・悪習・問題などを根こそぎ完全になくす。",
           "frequency": 6,
-          "difference": "eliminate より強く、根絶・撲滅の意図を表す硬い語。",
+          "difference": "定着した問題などを根こそぎ除く、根絶・撲滅という捉え方を強調する硬い語。eliminate も完全な除去に使えるため、常に一段強いという順位で区別しない。",
           "example": "The campaign aims to eradicate the disease.",
           "translation": "その運動はその病気の撲滅を目指している。"
         },
@@ -215,9 +215,9 @@
       "synonyms": [
         {
           "word": "rule out",
-          "definition": "可能性・説明・選択肢を、あり得ないものとして除外する。",
+          "definition": "可能性・説明・選択肢などを検討対象から外す。",
           "frequency": 9,
-          "difference": "eliminate より「可能性を否定する」という推論上の用法に特化し、句動詞なので会話でも使いやすい。",
+          "difference": "可能性を否定する推論だけでなく、不適切・実行困難として選択肢を外す場合にも使う。別の用法では、天候などの事情が実行を不可能にすることも表す。",
           "example": "The tests ruled out a serious infection.",
           "translation": "検査によって、重い感染症の可能性は除外された。"
         },
@@ -226,8 +226,8 @@
           "definition": "集合・範囲・参加者・考慮対象などに含めない。",
           "frequency": 9,
           "difference": "eliminate のように検討の結果外す場合にも使うが、最初から含めないことや、物理的・制度的に締め出すことにも広く使う。",
-          "example": "The price excludes delivery.",
-          "translation": "その価格には配送料が含まれていない。"
+          "example": "The committee excluded the proposal from further consideration.",
+          "translation": "委員会は、その提案を以後の検討対象から外した。"
         },
         {
           "word": "dismiss",
@@ -264,7 +264,7 @@
       "register": [
         "スポーツ、トーナメント、コンテスト、選考競争。一般ニュースや比喩的な競争にも使う。"
       ],
-      "definition": "競技者・チームなどを、試合や勝負で破って、その競技を続けられない状態にする。対象が競技から外れるという結果に焦点があり、対象を傷つけたり殺したりする意味はない。受動態で「敗退する」と訳すことが非常に多い。",
+      "definition": "競技者・チームなどを、その競技・大会で勝ち残れず、次の段階へ進めない状態にする。直接対戦で相手を破る場合だけでなく、予選の順位や成績条件によって敗退が決まる場合にも使う。対象が競技から外れるという結果に焦点があり、対象を傷つけたり殺したりする意味はない。受動態で「敗退する」と訳すことが非常に多い。",
       "patterns": [
         "eliminate 〈選手・チーム・競争相手〉＝〈選手・チーム・競争相手〉を敗退させる",
         "eliminate 〈人・チーム〉 from 〈competition/tournament〉＝〈人・チーム〉を〈競技・大会〉から敗退させる",
@@ -341,7 +341,7 @@
       "register": [
         "軍事・犯罪・フィクションなどに限定されやすい。比喩的に「脅威を抹消する」と言う場合は語義1の「なくす」に近く、実際に生命を奪う意味と断定しない。"
       ],
-      "definition": "人・敵・標的などを、計画的に殺す、または存在ごと消す。軍事・犯罪・スパイ小説・ゲームなどで、直接 kill と言わず冷淡または婉曲に表す用法である。一般の中立的な会話で、人を殺す意味の普通の言い換えとして使う語ではない。",
+      "definition": "人・敵・標的などを殺す、抹殺する。軍事・犯罪・スパイ小説・ゲームなどで、直接 kill と言わず冷淡または婉曲に表す用法である。一般の中立的な会話で、人を殺す意味の普通の言い換えとして使う語ではない。",
       "patterns": [
         "eliminate 〈enemy/target〉＝〈敵・標的〉を殺す",
         "〈人〉 be eliminated by 〈攻撃者・組織〉＝〈人〉が〈攻撃者・組織〉に殺される。対象が脅威・問題・リスクなら、通常は語義1の「取り除く・なくす」である。"
@@ -367,7 +367,14 @@
         }
       ],
       "notes": [
-        "eliminate の中心は「対象を外へ出して消す」であり、殺人義はその比喩的・婉曲的な拡張である。したがって、実際に殺したことを明確に伝える必要がある一般文では kill を使う方が誤解が少ない。eliminate a threat は多くの場合「脅威を取り除く」であり、人を殺したとまでは言わない。"
+        "eliminate の中心は「対象を外へ出して消す」であり、殺人義はその比喩的・婉曲的な拡張である。したがって、実際に殺したことを明確に伝える必要がある一般文では kill を使う方が誤解が少ない。eliminate a threat は多くの場合「脅威を取り除く」であり、人を殺したとまでは言わない。",
+        "以下は、命を奪うことと保護する行為との対照であり、直接の反意関係ではない。",
+        "protect",
+        "定義: 人・物を危害・損害から守る。",
+        "頻度: 〈9/10〉",
+        "違い: protect は保護する行為・働きに焦点があり、殺害の有無を直接述べる語ではない。ここでは殺害との関連対照であり、eliminate の直接的な反意語として扱わない。",
+        "例: The guards protected the witness.",
+        "訳: 警備員たちはその証人を守った。"
       ],
       "synonyms": [
         {
@@ -382,15 +389,15 @@
           "word": "assassinate",
           "definition": "政治家など重要人物を、政治的な目的などで計画的に殺害する。",
           "frequency": 6,
-          "difference": "eliminate より対象と方法が限定され、政治的・計画的な暗殺を明示する。",
+          "difference": "重要人物などの対象や政治的な動機、計画的な暗殺という点に焦点がある。特定の殺害方法を指定する語ではない。",
           "example": "The leader was assassinated during the visit.",
           "translation": "その指導者は訪問中に暗殺された。"
         },
         {
           "word": "execute",
-          "definition": "刑罰として、または命令などに基づいて人を殺す（処刑する）。",
+          "definition": "人を処刑する。",
           "frequency": 7,
-          "difference": "eliminate は殺害の方法や法的根拠を示さないが、execute は処刑・決められた殺害の含みを持つ。",
+          "difference": "execute は典型的には刑罰としての処刑を表し、婉曲的に殺害を表す eliminate とは焦点が異なる。ただし、execute という語だけで適法な手続きを経たとは保証されず、命令に基づく殺害すべてを指すわけでもない。",
           "example": "The prisoner was executed after the trial.",
           "translation": "その囚人は裁判の後に処刑された。"
         }
@@ -400,32 +407,24 @@
           "word": "spare",
           "definition": "殺したり罰したりせず、助けて生かしておく。",
           "frequency": 7,
-          "difference": "eliminate が命を奪う方向の婉曲表現になり得るのに対し、spare は危害を加えず生かすことを表す。",
+          "difference": "eliminate が命を奪う方向の婉曲表現になり得るのに対し、ここでの spare は命を奪わずにおくことを表す。殺されなかったことと、一切の危害を受けなかったことを同一視しない。",
           "example": "The soldiers spared the civilians.",
           "translation": "兵士たちは民間人を殺さずに助けた。"
-        },
-        {
-          "word": "protect",
-          "definition": "人・物を危害・損害から守る。",
-          "frequency": 9,
-          "difference": "protect は危害を防いで対象を存続させる行為であり、eliminate の殺害方向とは反対の結果をもたらす。",
-          "example": "The guards protected the witness.",
-          "translation": "警備員たちはその証人を守った。"
         }
       ]
     },
     {
       "number": 5,
-      "title": "【他動詞・自動詞・生理】体外へ排出する",
+      "title": "【他動詞・自動詞・生理】体内から除去する、体外へ排出する",
       "frequency": 5,
       "register": [
         "医学・生理学、健康・薬理の説明。一般向けの記事でも toxins、waste、drugs などと共に使われる。"
       ],
-      "definition": "人体や動物の体が、老廃物・不要な物質などを体外へ出す。医学・生理学の用法で、対象を単に「なくす」のではなく、生体の排泄・排出過程に焦点がある。薬物動態では、名詞 elimination が薬物が体内から失われる過程（通常、代謝と排泄を含む）を指し、excretion は物質や代謝物を体外へ排出する過程を指す。",
+      "definition": "人体や動物の体が、老廃物などを体外へ出す。また、薬物などを体内から除去する。薬物動態の elimination は代謝や排泄による薬物の消失を含み、物質や代謝物を体外へ出す excretion より広い。薬物については、必ずしも元の物質がそのまま体外へ出ることだけを意味しない。自動詞では排泄することを表す。",
       "patterns": [
-        "the body eliminates 〈waste/toxins〉＝体が〈老廃物・毒素〉を排出する",
-        "eliminate 〈物質〉 from the body＝〈物質〉を体から排出する",
-        "〈物質・薬〉 be eliminated from the body＝〈物質・薬〉が体から排出される",
+        "the body eliminates 〈waste/toxins〉＝体が〈老廃物・毒素〉を除去する",
+        "eliminate 〈物質〉 from the body＝〈物質〉を体内から除去する",
+        "〈物質・薬〉 be eliminated from the body＝〈物質・薬〉が体内から除去される",
         "〈人・動物〉 eliminate normally＝〈人・動物〉が正常に排泄する（医療記録調）。自動詞用法は形式的・専門的で、一般会話では排便・排尿などを具体的に言う方が自然である。"
       ],
       "collocations": [
@@ -437,21 +436,21 @@
         },
         {
           "pattern": "eliminate toxins from the body",
-          "use": "体内の不要・有害とされる物質を排出する。",
+          "use": "体内の有害とされる物質の除去を述べる。除去の経路はこの表現だけでは特定しない。",
           "example": "The liver helps the body eliminate some toxins.",
-          "translation": "肝臓は体が一部の毒素を排出するのを助ける。"
+          "translation": "肝臓は体が一部の毒素を除去するのを助ける。"
         },
         {
           "pattern": "eliminate a drug from the body",
-          "use": "薬物や薬剤が体内から排出される過程を説明する。",
+          "use": "代謝や排泄によって薬物が体内から消失する過程を説明する。",
           "example": "The drug is slowly eliminated from the body.",
-          "translation": "その薬は体からゆっくり排出される。"
+          "translation": "その薬は体内からゆっくり除去される。"
         },
         {
           "pattern": "eliminate excess fluid",
           "use": "体が余分な水分を体外へ排出することを説明する。",
-          "example": "Diuretics help the body eliminate excess fluid.",
-          "translation": "利尿薬は、体が余分な水分を排出するのを助ける。"
+          "example": "This diuretic helps the body eliminate excess fluid.",
+          "translation": "この利尿薬は、体が余分な水分を排出するのを助ける。"
         },
         {
           "pattern": "eliminate normally",
@@ -477,8 +476,8 @@
           "definition": "中にある物を力や作用で外へ押し出す。",
           "frequency": 7,
           "difference": "expel は外へ出す動作に焦点があり、eliminate は体内からなくなった結果や生理過程に焦点を置きやすい。",
-          "example": "A swallowed coin is usually expelled from the body naturally.",
-          "translation": "飲み込んだ硬貨は、通常は自然に体外へ排出される。"
+          "example": "She expelled the air from her lungs.",
+          "translation": "彼女は肺の中の空気を吐き出した。"
         },
         {
           "word": "void",
@@ -514,8 +513,8 @@
         {
           "pattern": "eliminate x from two equations",
           "use": "2つの方程式から x を消去する。",
-          "example": "Multiply the first equation by two to eliminate x from the system.",
-          "translation": "その連立方程式から x を消去するために、1つ目の方程式を2倍しなさい。"
+          "example": "We eliminate x from 2x + y = 5 and 2x + 3y = 9 by subtracting the equations.",
+          "translation": "2x + y = 5 と 2x + 3y = 9 の2式を引き算して、xを消去する。"
         },
         {
           "pattern": "eliminate one unknown by subtraction",
@@ -531,7 +530,7 @@
         }
       ],
       "notes": [
-        "数学の eliminate は、変数の係数をそろえて方程式を加減するなど、未知量を式から消す操作を表す。cancel は同じ因子を約分・相殺する場合に使われるため、連立方程式の消去法全体を指す語としてそのまま置き換えない。eliminate a variable と solve an equation は、消去という一工程と、解を求める全体工程の違いに注意する。"
+        "数学の eliminate は、変数の係数をそろえて方程式を加減するなど、未知量を式から消す操作を表す。cancel は項を相殺したり、分数の共通因子を約分したりする際にも使うが、これらを未知量の消去と同一視しない。連立方程式の消去法全体を指す語として、そのまま置き換えない。eliminate a variable と solve an equation は、消去という一工程と、解を求める全体工程の違いに注意する。"
       ],
       "synonyms": [
         {
@@ -544,9 +543,9 @@
         },
         {
           "word": "cancel out",
-          "definition": "反対の量や同じ因子が相殺され、結果から消える。",
+          "definition": "正負の項などを相殺する、またはそれらが相殺される。",
           "frequency": 7,
-          "difference": "cancel out は項や因子どうしが打ち消し合って消えるという結果・関係に焦点があり、eliminate は方程式を意図的に操作して未知量を消去する行為を表す。",
+          "difference": "ここでは項どうしの相殺を表す。意図的な操作にも使えるため、eliminate との違いを意図の有無で分けない。未知量の消去には相殺を使う場合があるが、操作全体を同じ語で言い換えられるとは限らない。",
           "example": "The positive and negative terms cancel out.",
           "translation": "正の項と負の項が相殺される。"
         }
