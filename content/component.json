@@ -1,0 +1,376 @@
+{
+  "word": "component",
+  "slug": "component",
+  "ipa": "米: /kəmˈpoʊnənt/｜英: /kəmˈpəʊnənt/。3音節で第2音節に主強勢がある。英米差は第2音節の二重母音で、米 /oʊ/、英 /əʊ/。第1・第3音節の母音は弱い /ə/。名詞と形容詞で基本的な発音は変わらない。複数形 components では語末に /s/ が加わり、音節数と強勢位置は変わらない。",
+  "lead": "機械・仕組み・計画などの全体を構成する、区別できる一つの部分。物理的な部品だけでなく、成分・機能・抽象的な要因にも使う。",
+  "updated": "2026-10-29",
+  "notion_url": "",
+  "pronunciation": [
+    "componential analysis は米: /kɑːmpəˌnenʃl əˈnæləsɪs/｜英: /kɒmpəˌnenʃl əˈnæləsɪs/。この表記では全体で8音節、第6音節に主強勢、第3音節に副強勢がある。英米差は第1音節の米 /ɑː/ と英 /ɒ/。componential の語末の /l/ が音節の中心になる読みを含む。"
+  ],
+  "etymology": [
+    "ラテン語 componere（組み合わせる）の現在分詞 componens の語幹 component- に由来する。com- は一緒に、ponere は置くという要素で、全体を組み立てる部分という意味につながる。compose と語源を共有するが、現代英語で compose に規則的な接尾辞を付けただけの形ではない。"
+  ],
+  "formation": [
+    {
+      "term": "componential",
+      "description": "構成要素に関わるという形容詞。componential analysis は、語の意味を特徴に分けて扱う言語学の用語。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "全体を組み立てる、区別可能な構成単位という捉え方。機器・ソフトウェア・数学・意味の分析で、何を一つの全体とし、どの単位に分けるかが変わる。"
+    },
+    {
+      "type": "item",
+      "text": "全体を組み立てる区別可能な部分 → 「構成要素、部品」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "ソフトウェアを組み立てる機能単位 → 「ソフトウェアの構成単位、UI部品」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "全体の構成部分であるという関係 → 「全体を構成する」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "合成して全体のベクトルを作る部分 → 「ベクトルを構成する方向別のベクトル成分」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "座標表現を組み立てる個々の数値 → 「座標値、数値としての成分」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "映像情報を構成成分に分けて扱う方式 → 「信号を成分別に分けた、コンポーネント方式の」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "語の意味を成す特徴を調べる分析 → 「意味の成分分析」（語義7）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞：可算】構成要素、部品",
+      "frequency": 8,
+      "register": [
+        "一般・技術・仕事・分析。"
+      ],
+      "definition": "機械・仕組み・計画などの全体を構成する、区別できる一つの部分。物理的な部品だけでなく、成分・機能・抽象的な要因にも使う。",
+      "patterns": [
+        "a component of something",
+        "a component in something",
+        "a component for something",
+        "a key component",
+        "electronic components",
+        "component failure",
+        "stereo components。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a component of something",
+          "use": "部分が属する全体を示す。",
+          "example": "Training is an important component of the new programme.",
+          "translation": "研修は、新しい計画の重要な構成要素である。"
+        },
+        {
+          "pattern": "a component in something",
+          "use": "ある仕組みや関係の中で働く要素を示す。",
+          "example": "Mutual trust is a key component in a successful partnership.",
+          "translation": "相互の信頼は、協力関係を成功させる重要な要素である。"
+        },
+        {
+          "pattern": "a component for something",
+          "use": "部品の用途・組込み先を示す。",
+          "example": "The factory produces components for electric vehicles.",
+          "translation": "その工場は、電気自動車向けの部品を製造している。"
+        },
+        {
+          "pattern": "a key component",
+          "use": "特に重要な構成部分を述べる。",
+          "example": "The proposal is missing a key component: a realistic budget.",
+          "translation": "その提案には、現実的な予算という重要な要素が欠けている。"
+        },
+        {
+          "pattern": "electronic components",
+          "use": "電子機器の部品をまとめて述べる。",
+          "example": "The supplier sells electronic components to small manufacturers.",
+          "translation": "その供給業者は、小規模な製造業者に電子部品を販売している。"
+        },
+        {
+          "pattern": "component failure",
+          "use": "構成部品の故障を名詞を重ねて述べる。",
+          "example": "The investigation traced the problem to a component failure.",
+          "translation": "調査の結果、問題の原因は部品の故障にあると分かった。"
+        },
+        {
+          "pattern": "stereo components",
+          "use": "音響システムを構成する個々の機器を述べる。",
+          "example": "The amplifier and tuner are separate stereo components.",
+          "translation": "アンプとチューナーは、別々の音響構成機器である。"
+        }
+      ],
+      "notes": [
+        "of は全体との所属関係、in は仕組みの中での関わり、for は用途を示しやすい。component 自体が常に不可欠という意味とは限らず、essential component や optional component と修飾できる。component supplier／component failure の component は、部品のという関係を示す名詞の修飾用法として捉えられる。"
+      ],
+      "synonyms": [
+        {
+          "word": "part",
+          "definition": "全体の一部分。",
+          "frequency": 10,
+          "difference": "part は最も広い一般語で、場所の一部や時間の一部にも使う。component は、組み立てや働きに関わる区別可能な構成単位を捉えやすい。",
+          "example": "Only part of the document was available.",
+          "translation": "文書の一部しか利用できなかった。"
+        },
+        {
+          "word": "element",
+          "definition": "全体を形作る部分・要因。",
+          "frequency": 9,
+          "difference": "element は性質や基本要因にも広く使う。component は、全体を構成する単位としての区別が意識されやすいが、抽象的な文脈では両者が重なる。",
+          "example": "There is an element of uncertainty in every forecast.",
+          "translation": "どの予測にも、不確実な部分がある。"
+        },
+        {
+          "word": "constituent",
+          "definition": "全体を構成する要素・成分。",
+          "frequency": 5,
+          "difference": "constituent は、何から成るかという構成や成分に重点を置く改まった語。component は機器の部品から抽象的な機能まで広く使う。",
+          "example": "The analysis identified the main constituents of the mixture.",
+          "translation": "分析によって、その混合物の主な成分が特定された。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞：可算】ソフトウェアの構成単位、UI部品",
+      "frequency": 6,
+      "register": [
+        "ソフトウェア開発・UI設計。"
+      ],
+      "definition": "ソフトウェアや画面を、役割ごとの単位として組み立てる際の部分。UIではボタンから画面全体まで、表示や振る舞いをまとめた部品として使われる。",
+      "patterns": [
+        "a software component",
+        "a reusable component",
+        "a parent component",
+        "a child component。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a software component",
+          "use": "システムを構成するソフトウェア上の単位を述べる。",
+          "example": "The update replaces one software component without changing the whole system.",
+          "translation": "その更新は、システム全体を変えずに、一つのソフトウェア部品を置き換える。"
+        },
+        {
+          "pattern": "a reusable component",
+          "use": "複数箇所で利用できるよう作られた部品を述べる。",
+          "example": "The team built a reusable component for displaying customer details.",
+          "translation": "チームは、顧客情報を表示するための再利用可能な部品を作った。"
+        },
+        {
+          "pattern": "a parent component",
+          "use": "UIの階層で、下位の部品を組み込む側を述べる。",
+          "example": "The parent component displays several smaller controls.",
+          "translation": "親コンポーネントは、複数の小さな操作部品を表示する。"
+        },
+        {
+          "pattern": "a child component",
+          "use": "親に組み込まれる部品を述べる。",
+          "example": "The child component shows the selected item's name.",
+          "translation": "子コンポーネントは、選択された項目の名前を表示する。"
+        }
+      ],
+      "notes": [
+        "component は、具体的な実装方法まで全ての技術で共通する名称ではない。Reactのように部品を組み合わせる仕組みでも、一度しか使わない component はあり、再利用可能という設計と、実際に複数回使われることを区別する。全てのソフトウェア部品を一律にJavaScriptの関数だと説明しない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【形容詞】全体を構成する",
+      "frequency": 5,
+      "register": [
+        "改まった説明・技術・分析。"
+      ],
+      "definition": "ある全体を成り立たせる部分であることを述べる。名詞の前に置き、その部分が全体の構成単位だと示す。",
+      "patterns": [
+        "component parts",
+        "component elements。"
+      ],
+      "collocations": [
+        {
+          "pattern": "component parts",
+          "use": "全体を作る各部分を述べる。",
+          "example": "The machine was separated into its component parts for inspection.",
+          "translation": "検査のために、その機械は構成部品に分解された。"
+        },
+        {
+          "pattern": "component elements",
+          "use": "全体の構成要素であることを明示する。",
+          "example": "The chapter examines the component elements of the argument.",
+          "translation": "その章は、議論を成り立たせる各要素を検討している。"
+        }
+      ],
+      "notes": [
+        "この形容詞用法は名詞前で使い、通常 The part is component. や very component のような叙述・程度表現にはしない。a component は名詞、component parts の component は構成するという形容詞で、形が同じでも働きが異なる。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【名詞：可算】ベクトルを構成する方向別のベクトル成分",
+      "frequency": 4,
+      "register": [
+        "数学・物理。"
+      ],
+      "definition": "一つのベクトルを、指定された方向に沿う複数のベクトルの和として捉えるときの各ベクトル。成分そのものを向きと大きさを持つ量として述べる用法。",
+      "patterns": [
+        "a component of a vector",
+        "a horizontal component",
+        "a vertical component。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a component of a vector",
+          "use": "合成されて全体を成す方向別のベクトルを述べる。",
+          "example": "Each component of the vector points along one of the chosen axes.",
+          "translation": "そのベクトルの各ベクトル成分は、選んだ軸の一つに沿う向きを持つ。"
+        },
+        {
+          "pattern": "a horizontal component",
+          "use": "水平方向に沿うベクトル部分を述べる。",
+          "example": "The diagram shows the horizontal component as an arrow pointing to the right.",
+          "translation": "図では、水平方向のベクトル成分が、右向きの矢印で示されている。"
+        },
+        {
+          "pattern": "a vertical component",
+          "use": "鉛直方向に沿うベクトル部分を述べる。",
+          "example": "The vertical component is drawn as an upward arrow.",
+          "translation": "鉛直方向のベクトル成分は、上向きの矢印で描かれている。"
+        }
+      ],
+      "notes": [
+        "ここでは component 自体をベクトルとして捉える。方向別の大きさを表す数値も component と呼ばれるため、矢印・ベクトルとして述べているか、座標値として述べているかを確認する。成分が必ず水平・鉛直の二つだけだと一般化しない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【名詞：可算】座標値、数値としての成分",
+      "frequency": 4,
+      "register": [
+        "数学・物理・計算。"
+      ],
+      "definition": "ベクトルや、数値を要素とする順序対などを表す、各座標位置の数値。方向ごとの量を、選んだ座標系における数で示す。",
+      "patterns": [
+        "the first component",
+        "the x component",
+        "a component equal to zero。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the first component",
+          "use": "順序のある成分の最初の値を述べる。",
+          "example": "The first component of the ordered pair is three.",
+          "translation": "その順序対の第一成分は三である。"
+        },
+        {
+          "pattern": "the x component",
+          "use": "x軸方向に対応する数値を述べる。",
+          "example": "The x component of the vector is negative in this coordinate system.",
+          "translation": "この座標系では、そのベクトルのx成分は負である。"
+        },
+        {
+          "pattern": "a component equal to zero",
+          "use": "ある位置の成分がゼロだと述べる。",
+          "example": "The calculation gives a vector with one component equal to zero.",
+          "translation": "その計算では、一つの成分がゼロであるベクトルが得られる。"
+        }
+      ],
+      "notes": [
+        "順序対の構成要素は一般には数値に限られないが、この語義では数値である場合を扱う。数値としての component は、選んだ座標系や単位などの条件に依存する。ベクトル成分を向きのある矢印で表す用法と、ここでの数値を同一の種類の対象として混同しない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【形容詞：映像信号】信号を成分別に分けた、コンポーネント方式の",
+      "frequency": 3,
+      "register": [
+        "映像機器・信号方式。"
+      ],
+      "definition": "映像に関する情報を複数の信号・チャンネルに分けて扱う方式を表す。全ての情報を一つの信号にまとめる方式と区別するために使われる。",
+      "patterns": [
+        "component video",
+        "a component input",
+        "a component signal。"
+      ],
+      "collocations": [
+        {
+          "pattern": "component video",
+          "use": "映像情報を分けて伝える方式を述べる。",
+          "example": "The manual lists component video among the supported connection types.",
+          "translation": "取扱説明書は、対応する接続方式の一つとしてコンポーネント映像を挙げている。"
+        },
+        {
+          "pattern": "a component input",
+          "use": "その方式の信号を受ける入力を述べる。",
+          "example": "The monitor has a component input for compatible equipment.",
+          "translation": "そのモニターには、対応機器用のコンポーネント入力がある。"
+        },
+        {
+          "pattern": "a component signal",
+          "use": "成分を分けた映像信号を述べる。",
+          "example": "The converter accepts a component signal from the source device.",
+          "translation": "その変換器は、出力元の機器からコンポーネント信号を受け取る。"
+        }
+      ],
+      "notes": [
+        "一般的な部品という名詞義ではなく、映像信号の方式を区別する語。名称だけから、端子の形・信号の仕様・機器同士の互換性まで判断しない。具体的な接続条件は機器の説明で確認する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【名詞句：不可算・可算・componential analysis】意味の成分分析",
+      "frequency": 2,
+      "register": [
+        "言語学・意味論。"
+      ],
+      "definition": "言語学で、語の意味を、共通する意味特徴や他の語と区別する意味特徴の組合せとして分析する方法。綴りや発音を小さく切り分けることそのものではない。",
+      "patterns": [
+        "use componential analysis",
+        "a componential analysis of something。"
+      ],
+      "collocations": [
+        {
+          "pattern": "use componential analysis",
+          "use": "語の意味を特徴に分けて分析する方法を用いる。",
+          "example": "The researcher used componential analysis to compare the meanings of several related verbs.",
+          "translation": "研究者は、意味の成分分析を用いて、関連する複数の動詞の意味を比較した。"
+        },
+        {
+          "pattern": "a componential analysis of something",
+          "use": "特定の語群についての一つの分析を述べる。",
+          "example": "The chapter presents a componential analysis of words describing movement.",
+          "translation": "その章は、移動を表す語の意味についての成分分析を提示している。"
+        }
+      ],
+      "notes": [
+        "方法一般としては不可算だが、特定の対象について行った一つの分析なら analysis を可算として扱える。componential の component は意味を成す特徴に関わる。接頭辞や接尾辞などを分ける語形成・形態の分析と、同じ作業だと考えない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}
