@@ -1,0 +1,1733 @@
+{
+  "word": "divide",
+  "slug": "divide",
+  "ipa": "米: /dəˈvaɪd/｜英: /dɪˈvaɪd/。2音節で第2音節に主強勢がある。この表記の英米差は第1音節の弱い母音で、米 /ə/、英 /ɪ/。名詞も動詞も強勢は後ろにある。divides は語末が /dz/、divided は /ɪd/ が加わる3音節、dividing も3音節となり、いずれも主強勢は第2音節のまま。",
+  "lead": "一つの物・集団・範囲を、区別できる複数の部分や区分にする。実際に切断する場合だけでなく、章分け・分類・集団分けなどにも使う。等しい大きさに分けることは、語そのものの必須条件ではない。",
+  "updated": "2026-10-29",
+  "notion_url": "",
+  "pronunciation": [
+    "division は米・英: /dɪˈvɪʒn/。3音節で第2音節に主強勢がある。divide の第2音節の /aɪ/ に対し、division では /ɪ/ となり、その後の子音も /d/ から /ʒ/ に変わる。divisible は米・英: /dɪˈvɪzəbl/。4音節で第2音節に主強勢があり、語末の /l/ が音節の中心になる読みを含む。divisive は米・英: /dɪˈvaɪsɪv/。3音節で第2音節に主強勢がある。undivided は米・英: /ˌʌndɪˈvaɪdɪd/。4音節で第3音節に主強勢、第1音節に副強勢がある。"
+  ],
+  "etymology": [
+    "ラテン語 dividere（分ける）に由来する。dis-（離れて）と、分離に関わる -videre から成る。この後半を、綴りの似たラテン語 videre（見る）と同じものとして説明しない。division、divisible、dividend もこの「分ける」という語源の系列につながるが、現代英語ではそれぞれ固有の意味と構文を持つ。"
+  ],
+  "formation": [
+    {
+      "term": "division",
+      "description": "分割・割り算・対立・部門などを表す名詞。divide の行為だけでなく、分けられた単位にも使う。"
+    },
+    {
+      "term": "divided",
+      "description": "過去形・過去分詞に加え、分かれた状態、意見の不一致、注意や忠誠の分散を表す形容詞。"
+    },
+    {
+      "term": "undivided",
+      "description": "un- による否定の形容詞で、分割されていないことや、注意・忠誠が全面的に一つへ向かうことを表す。"
+    },
+    {
+      "term": "divisible",
+      "description": "分割できること、数学である数で割り切れることを表す形容詞。現代の divide に単純に -able を付けた綴りではない。"
+    },
+    {
+      "term": "divisive",
+      "description": "人々の意見を分裂させるという、原因側に注目する形容詞。分かれている状態を述べる divided と区別する。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "一つのまとまりを、別々の部分・取り分・側に分けるという捉え方。物理的に切ることに限らず、数・役割・立場を分けること、その結果の単位や隔たりにも広がる。否定形では、その分割や分散がないことを表す。"
+    },
+    {
+      "type": "item",
+      "text": "全体を部分に分ける働き → 「分ける、区分する」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "全体が部分へ分かれる変化 → 「分かれる、枝分かれする、分裂する」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "取り分を相手別に分ける働き → 「分配する、分担する」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "資源を活動別に分ける働き → 「時間・注意などを振り分ける」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "全体を相手別の取り分に分ける動き → 「取り分に分ける、分配する」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "全体を小さな区画に分ける動き → 「小さな部分や区画に分ける」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "集団が組ごとに分かれる動き → 「組に分かれる、別々に分かれる」（語義7）"
+    },
+    {
+      "type": "item",
+      "text": "領域を別々の側に分ける境界 → 「隔てる、境界を成す」（語義8）"
+    },
+    {
+      "type": "item",
+      "text": "人々を異なる立場に分ける原因 → 「意見を分裂させる、対立させる」（語義9）"
+    },
+    {
+      "type": "item",
+      "text": "人々が異なる立場に分かれる変化 → 「意見が分かれる、対立する」（語義10）"
+    },
+    {
+      "type": "item",
+      "text": "全体を数で割って商を求める操作 → 「ある数を別の数で割る」（語義11）"
+    },
+    {
+      "type": "item",
+      "text": "除数を先に示して全体を割る操作 → 「ある数で別の数を割る」（語義12）"
+    },
+    {
+      "type": "item",
+      "text": "整数を余りなく分ける数の関係 → 「ある数を割り切る」（語義13）"
+    },
+    {
+      "type": "item",
+      "text": "除数が被除数に入る割り算の関係 → 「ある数に余りなく入る、割り切る」（語義14）"
+    },
+    {
+      "type": "item",
+      "text": "数を割る計算という活動 → 「割り算をする」（語義15）"
+    },
+    {
+      "type": "item",
+      "text": "二つの側を分ける隔たり → 「隔たり、分断、境目」（語義16）"
+    },
+    {
+      "type": "item",
+      "text": "意見や注意が別々に分かれた状態 → 「意見が分かれた、複数の対象に分散した」（語義17）"
+    },
+    {
+      "type": "item",
+      "text": "意見を別々に分ける性質 → 「対立を生む、分裂を招く」（語義18）"
+    },
+    {
+      "type": "item",
+      "text": "物や領域が部分に分かれた状態 → 「分割された、仕切られた」（語義19）"
+    },
+    {
+      "type": "item",
+      "text": "物や領域が部分に分かれない状態 → 「分割されていない」（語義20）"
+    },
+    {
+      "type": "item",
+      "text": "注意や忠誠が他へ分かれない状態 → 「全面的な、ほかにそらされない」（語義21）"
+    },
+    {
+      "type": "item",
+      "text": "対象を部分に分けられる性質 → 「分割できる」（語義22）"
+    },
+    {
+      "type": "item",
+      "text": "整数を余りなく分けられる性質 → 「ある数で割り切れる」（語義23）"
+    },
+    {
+      "type": "item",
+      "text": "全体を部分や役割に分ける行為 → 「分割、配分、分業」（語義24）"
+    },
+    {
+      "type": "item",
+      "text": "数を割る計算という操作 → 「割り算、除法」（語義25）"
+    },
+    {
+      "type": "item",
+      "text": "集団の立場が別々に分かれた状態 → 「意見の対立、分裂」（語義26）"
+    },
+    {
+      "type": "item",
+      "text": "組織や領域を分けた一単位 → 「部門、区分、行政区画」（語義27）"
+    },
+    {
+      "type": "item",
+      "text": "競技の参加者を分けた一集団 → 「スポーツの部、階級、リーグ内の区分」（語義28）"
+    },
+    {
+      "type": "item",
+      "text": "軍の組織を分けた大きな部隊単位 → 「師団」（語義29）"
+    },
+    {
+      "type": "item",
+      "text": "二つの範囲を分ける境目 → 「境界、区切り」（語義30）"
+    },
+    {
+      "type": "item",
+      "text": "水が流れる側を分ける境界 → 「分水界、分水嶺」（語義31）"
+    },
+    {
+      "type": "item",
+      "text": "議員の賛否を分けて数える採決 → 「賛否を数える採決」（語義32）"
+    },
+    {
+      "type": "item",
+      "text": "相手を分けて結束を妨げる支配法 → 「分裂させて支配する」（語義33）"
+    },
+    {
+      "type": "item",
+      "text": "問題を小さく分けて解を組み立てる方法 → 「分割統治法」（語義34）"
+    },
+    {
+      "type": "item",
+      "text": "採決で賛否の側に分かれる動き → 「採決のため賛否に分かれる」（語義35）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞：他動詞】分ける、区分する",
+      "frequency": 9,
+      "register": [
+        "一般・仕事・教育。"
+      ],
+      "definition": "一つの物・集団・範囲を、区別できる複数の部分や区分にする。実際に切断する場合だけでなく、章分け・分類・集団分けなどにも使う。等しい大きさに分けることは、語そのものの必須条件ではない。",
+      "patterns": [
+        "divide something into 〈複数の部分〉",
+        "divide something in half",
+        "divide something equally",
+        "be divided into 〈複数の部分〉。"
+      ],
+      "collocations": [
+        {
+          "pattern": "divide something into 〈複数の部分〉",
+          "use": "全体を分けた後の構成を示す。",
+          "example": "The teacher divided the class into three groups of different sizes.",
+          "translation": "教師はクラスを、人数の異なる三つのグループに分けた。"
+        },
+        {
+          "pattern": "divide something in half",
+          "use": "全体を二つの等しい部分にする。",
+          "example": "Fold the paper along the line to divide it in half.",
+          "translation": "紙を二等分するように、線に沿って折ってください。"
+        },
+        {
+          "pattern": "divide something equally",
+          "use": "等分であることを明示する。",
+          "example": "We divided the sheet equally into four sections.",
+          "translation": "私たちはその用紙を四つの区画に等分した。"
+        },
+        {
+          "pattern": "be divided into 〈複数の部分〉",
+          "use": "全体がどのような区分から成るかを述べる。",
+          "example": "The report is divided into an introduction and five chapters.",
+          "translation": "その報告書は、序論と五つの章に分かれている。"
+        }
+      ],
+      "notes": [
+        "into の後には分割後の部分、目的語には分ける前の全体を置く。divide the class into groups であり、グループを全体へ作り替える向きではない。in half は定着した形で、half に a を付けない。受動態は実際の分割行為にも現在の構成にも使える。divide は必ずしも物を傷つけたり切り離したりする動作ではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "split",
+          "definition": "一つのものを複数に分ける。",
+          "frequency": 9,
+          "difference": "割れる・裂けるという物理的な分離にもよく使い、一般的な分担にも使える。divide は整然とした区分や分類を述べやすい。",
+          "example": "They split the old team into two smaller teams.",
+          "translation": "彼らは従来のチームを二つの小さなチームに分けた。"
+        },
+        {
+          "word": "separate",
+          "definition": "一緒になっている物や人を離す、別々にする。",
+          "frequency": 9,
+          "difference": "全体を幾つの部分にするかより、対象同士を離すことに焦点がある。",
+          "example": "Please separate the clean towels from the used ones.",
+          "translation": "清潔なタオルを使用済みのものと分けてください。"
+        },
+        {
+          "word": "partition",
+          "definition": "空間や範囲を区画に分ける。",
+          "frequency": 5,
+          "difference": "壁・仕切りや論理的な区画を設けることに重点があり、一般的な divide より対象が限定される。",
+          "example": "They partitioned the large office into smaller rooms.",
+          "translation": "彼らは大きな事務室を仕切って小さな部屋に分けた。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "combine",
+          "definition": "複数の部分を一つのまとまりにする。",
+          "frequency": 8,
+          "difference": "部分へ分ける方向に対し、部分をまとめる方向で対立する。",
+          "example": "We combined the three sections into one chapter.",
+          "translation": "私たちは三つの節を一つの章にまとめた。"
+        },
+        {
+          "word": "unite",
+          "definition": "別々の人や集団を一つに結び付ける。",
+          "frequency": 7,
+          "difference": "特に人や集団を分けることに対し、まとまりを作る方向で対立する。",
+          "example": "The project united the two research teams.",
+          "translation": "その計画は二つの研究チームを一つに結び付けた。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【動詞：自動詞】分かれる、枝分かれする、分裂する",
+      "frequency": 7,
+      "register": [
+        "一般・地理・生物。"
+      ],
+      "definition": "全体が複数の部分へ分かれる、または一つの流れ・道などが複数の方向へ枝分かれする。細胞が分裂する場合にも使う。",
+      "patterns": [
+        "divide into 〈複数の部分〉",
+        "divide in two",
+        "cells + divide and grow",
+        "divide at 〈分岐点〉。"
+      ],
+      "collocations": [
+        {
+          "pattern": "divide into 〈複数の部分〉",
+          "use": "主語そのものが複数に分かれることを述べる。",
+          "example": "The path divides into two narrow trails beyond the bridge.",
+          "translation": "橋を越えると、その道は二本の細い小道に分かれる。"
+        },
+        {
+          "pattern": "divide in two",
+          "use": "一つのものが二つに分かれることを述べる。",
+          "example": "Under the microscope, we watched a cell divide in two.",
+          "translation": "私たちは顕微鏡で、一つの細胞が二つに分裂するのを観察した。"
+        },
+        {
+          "pattern": "cells + divide and grow",
+          "use": "細胞の分裂と成長を述べる。",
+          "example": "These cells continue to divide and grow in the culture.",
+          "translation": "これらの細胞は培養中に分裂と成長を続ける。"
+        },
+        {
+          "pattern": "divide at 〈分岐点〉",
+          "use": "道などが枝分かれする地点を示す。",
+          "example": "The road divides at the entrance to the village.",
+          "translation": "道は村の入り口で枝分かれしている。"
+        }
+      ],
+      "notes": [
+        "主語が分かれる側なので、直後に分ける対象の目的語を置かない。The path divides は道の分岐を述べ、Someone divides the land は誰かが土地を分割する行為を述べる。細胞が分裂することと、細胞数が減ることは同じではない。into two と in two はここでは二つに分かれる結果を表すが、into は two groups など名詞を続ける構文にも使える。"
+      ],
+      "synonyms": [
+        {
+          "word": "branch",
+          "definition": "一つの道や流れが複数の枝に分かれる。",
+          "frequency": 6,
+          "difference": "道・川・管などの枝分かれという形状に焦点があり、細胞の分裂全般を同じようには言い換えない。",
+          "example": "The stream branches just below the waterfall.",
+          "translation": "その小川は滝のすぐ下で枝分かれしている。"
+        },
+        {
+          "word": "split",
+          "definition": "一つのまとまりが複数に分かれる。",
+          "frequency": 8,
+          "difference": "自然な分岐から組織の分裂まで広く使う。対象や文脈によって、裂けたり壊れたりする含みが強くなる。",
+          "example": "The group split into two after the argument.",
+          "translation": "口論の後、その集団は二つに分かれた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞：他動詞】分配する、分担する",
+      "frequency": 8,
+      "register": [
+        "一般・仕事・家庭。"
+      ],
+      "definition": "金銭・物・仕事・責任などを、複数の受取人や担当者に割り当てる。全員への均等配分を意味するとは限らない。",
+      "patterns": [
+        "divide something among 〈複数の受取人〉",
+        "divide something between 〈個別に捉えた当事者〉",
+        "divide something equally",
+        "divide something with someone。"
+      ],
+      "collocations": [
+        {
+          "pattern": "divide something among 〈複数の受取人〉",
+          "use": "集団の成員に分配する。",
+          "example": "They divided the donated books among the village schools.",
+          "translation": "彼らは寄贈された本を村の各学校に分配した。"
+        },
+        {
+          "pattern": "divide something between 〈個別に捉えた当事者〉",
+          "use": "明確に区別した当事者同士で分ける。",
+          "example": "We divided the work between the three departments according to their expertise.",
+          "translation": "私たちは専門分野に応じて、三つの部署で仕事を分担した。"
+        },
+        {
+          "pattern": "divide something equally",
+          "use": "配分が均等であることを明示する。",
+          "example": "The four musicians divided the fee equally.",
+          "translation": "四人の音楽家は出演料を均等に分けた。"
+        },
+        {
+          "pattern": "divide something with someone",
+          "use": "他の人と取り分を分け合う。",
+          "example": "She divided the prize money with her teammate.",
+          "translation": "彼女は賞金をチームメートと分け合った。"
+        }
+      ],
+      "notes": [
+        "into は分けた後の部分、among や between は受取人・担当者を示す。divide the cake into pieces と divide the cake among the children は注目点が異なる。between を機械的に二者限定としない。三者以上でも、一人一人・一組一組を区別して配分関係を捉えるときに使える。share the money と同様、divide the money も等分かどうかは文脈次第。"
+      ],
+      "synonyms": [
+        {
+          "word": "distribute",
+          "definition": "物や金銭を複数の人や場所へ配る。",
+          "frequency": 8,
+          "difference": "配る先へ届けたり行き渡らせたりする過程に焦点があり、全体を取り分に分けることだけを述べるとは限らない。",
+          "example": "Volunteers distributed blankets to the families.",
+          "translation": "ボランティアが各家庭に毛布を配った。"
+        },
+        {
+          "word": "allocate",
+          "definition": "資金・時間・仕事などを一定の目的や担当へ割り当てる。",
+          "frequency": 7,
+          "difference": "計画や判断による割当てを表し、共有物を実際に分け合うことより管理上の配分に重点がある。",
+          "example": "The manager allocated two days to the inspection.",
+          "translation": "責任者は検査に二日を割り当てた。"
+        },
+        {
+          "word": "share",
+          "definition": "他の人と分け合う、共同で持つ。",
+          "frequency": 9,
+          "difference": "divide のように取り分を分ける場合に加え、同じ物を共同利用して分割しない場合にも使う。",
+          "example": "The two sisters shared the cost of the repairs.",
+          "translation": "姉妹二人は修理費を分担した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞：他動詞】時間・注意などを振り分ける",
+      "frequency": 7,
+      "register": [
+        "一般・仕事・生活。"
+      ],
+      "definition": "限られた時間・注意・労力などを、複数の活動や対象へ向ける。時間なら交互に使う場合があり、注意なら同時に複数へ向ける場合もある。",
+      "patterns": [
+        "divide one's time between 〈活動・場所〉",
+        "divide one's attention between 〈対象〉",
+        "divide one's energies between 〈活動〉。"
+      ],
+      "collocations": [
+        {
+          "pattern": "divide one's time between 〈活動・場所〉",
+          "use": "複数の活動や滞在先に時間を使う。",
+          "example": "He divides his time between teaching and writing.",
+          "translation": "彼は教える仕事と執筆の両方に時間を割いている。"
+        },
+        {
+          "pattern": "divide one's attention between 〈対象〉",
+          "use": "注意を複数の対象へ向ける。",
+          "example": "She divided her attention between the speaker and the interpreter.",
+          "translation": "彼女は話し手と通訳者の両方に注意を向けた。"
+        },
+        {
+          "pattern": "divide one's energies between 〈活動〉",
+          "use": "複数の活動に労力を振り向ける。",
+          "example": "They divide their energies between running the shop and caring for the garden.",
+          "translation": "彼らは店の運営と庭の手入れの両方に力を注いでいる。"
+        }
+      ],
+      "notes": [
+        "目的語は時間などの資源で、between の後に配分先を置く。二つの活動は名詞同士や -ing 形同士など、対応する形で並べる。divide one's time は半分ずつにするという意味ではない。また、複数の場所に同時にいることを意味せず、期間を分けて行き来する生活にも使える。divided attention は注意が分散している状態を表す。"
+      ],
+      "synonyms": [
+        {
+          "word": "apportion",
+          "definition": "一定の割合や基準で資源を配分する。",
+          "frequency": 4,
+          "difference": "割当て量や割合を決めるという、形式的・計画的な響きが強い。",
+          "example": "She apportioned her time according to the urgency of each task.",
+          "translation": "彼女は各作業の緊急度に応じて時間を配分した。"
+        },
+        {
+          "word": "devote",
+          "definition": "時間や労力をある活動に充てる。",
+          "frequency": 7,
+          "difference": "一つの対象への投入に焦点を置く。複数の配分先を必須としないので、divide と同じ構文では使わない。",
+          "example": "He devoted the afternoon to revising the report.",
+          "translation": "彼は午後を報告書の修正に充てた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【句動詞：他動詞・divide up】取り分に分ける、分配する",
+      "frequency": 7,
+      "register": [
+        "一般・会話・仕事。"
+      ],
+      "definition": "金銭・物・仕事などを、複数の人の取り分や担当へ分ける。up が付いても、均等配分であることが自動的に決まるわけではない。",
+      "patterns": [
+        "divide up something",
+        "divide something up",
+        "divide it up",
+        "divide something up among 〈受取人〉。"
+      ],
+      "collocations": [
+        {
+          "pattern": "divide up something",
+          "use": "分配する全体を up の後ろに置く。",
+          "example": "We divided up the remaining sandwiches after the meeting.",
+          "translation": "会議の後、残ったサンドイッチを分け合った。"
+        },
+        {
+          "pattern": "divide something up",
+          "use": "名詞の目的語を動詞と up の間に置く。",
+          "example": "The partners divided the profits up at the end of the year.",
+          "translation": "共同経営者たちは、年末に利益を分配した。"
+        },
+        {
+          "pattern": "divide it up",
+          "use": "分配するものを代名詞で受ける。",
+          "example": "There is some money left, so let's divide it up.",
+          "translation": "お金が少し残っているので、分けよう。"
+        },
+        {
+          "pattern": "divide something up among 〈受取人〉",
+          "use": "誰に配るかを明示する。",
+          "example": "They divided the food up among the volunteers.",
+          "translation": "彼らは食べ物をボランティアたちに分配した。"
+        }
+      ],
+      "notes": [
+        "分離可能な句動詞で、名詞目的語は up の前後に置ける。代名詞は divide it up のように間に置き、divide up it とはしない。divide だけでも分配を表せるが、divide up は全体をそれぞれの取り分へ分ける動きが分かりやすい。up は「上へ」という方向ではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【句動詞：他動詞・divide up】小さな部分や区画に分ける",
+      "frequency": 6,
+      "register": [
+        "一般・仕事・空間。"
+      ],
+      "definition": "空間・土地・内容などを複数の小さな部分に区分する。人へ配ることが必須ではない。",
+      "patterns": [
+        "divide something up into 〈部分〉",
+        "divide up something into 〈部分〉",
+        "divide it up into 〈部分〉。"
+      ],
+      "collocations": [
+        {
+          "pattern": "divide something up into 〈部分〉",
+          "use": "全体を小さな区分に分ける。",
+          "example": "They divided the warehouse up into separate storage areas.",
+          "translation": "彼らは倉庫を、それぞれ独立した保管区画に分けた。"
+        },
+        {
+          "pattern": "divide up something into 〈部分〉",
+          "use": "名詞目的語を up の後ろに置いて区分を示す。",
+          "example": "We divided up the long chapter into shorter sections.",
+          "translation": "私たちは長い章を短い節に分けた。"
+        },
+        {
+          "pattern": "divide it up into 〈部分〉",
+          "use": "既出の全体を代名詞で受けて分割結果を示す。",
+          "example": "The room is large, so we can divide it up into two workspaces.",
+          "translation": "その部屋は広いので、二つの作業スペースに分けられる。"
+        }
+      ],
+      "notes": [
+        "into は区分後の部分を示す。配分先を示す among や between とは役割が違う。目的語が代名詞なら up の前に置く点は語義5と同じ。目的語を区分する他動詞であり、ここでは空間そのものが自然に分かれる自動詞として扱わない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【句動詞：自動詞・divide up】組に分かれる、別々に分かれる",
+      "frequency": 6,
+      "register": [
+        "一般・会話・教育。"
+      ],
+      "definition": "主語の人々などが、複数の組や部分へ分かれる。分ける全体を目的語にする他動詞の divide something up とは異なる。",
+      "patterns": [
+        "people + divide up into 〈組〉",
+        "people + divide up。"
+      ],
+      "collocations": [
+        {
+          "pattern": "people + divide up into 〈組〉",
+          "use": "人々がどのような組に分かれるかを示す。",
+          "example": "We divided up into pairs for the exercise.",
+          "translation": "私たちは練習のために、二人組に分かれた。"
+        },
+        {
+          "pattern": "people + divide up",
+          "use": "主語の集団が別々の組へ分かれることを述べる。",
+          "example": "The group divided up so that each team could visit a different village.",
+          "translation": "それぞれのチームが別の村を訪問できるように、一行は分かれた。"
+        }
+      ],
+      "notes": [
+        "We divided up は自分たちが分かれる自動詞、We divided the students up は生徒たちを分ける他動詞。自動詞には動詞の目的語がないので、up の前後に目的語を移動させる説明は適用しない。into pairs は分かれた後の組を示す。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【動詞：他動詞】隔てる、境界を成す",
+      "frequency": 7,
+      "register": [
+        "一般・地理・空間。"
+      ],
+      "definition": "線・壁・川などが二つの場所や対象の間にあり、それらを別々の側として区別する。人が境界を設ける行為だけでなく、境界そのものを主語にできる。",
+      "patterns": [
+        "divide something from something",
+        "divide 〈二つの場所・集団〉",
+        "be divided by 〈境界〉。"
+      ],
+      "collocations": [
+        {
+          "pattern": "divide something from something",
+          "use": "二つの側を隔てる境界を述べる。",
+          "example": "A low wall divides our garden from the public path.",
+          "translation": "低い塀が、私たちの庭と公共の通路を隔てている。"
+        },
+        {
+          "pattern": "divide 〈二つの場所・集団〉",
+          "use": "境界が二つの場所の間を隔てることを述べる。",
+          "example": "The river divides the two districts.",
+          "translation": "川がその二つの地区を隔てている。"
+        },
+        {
+          "pattern": "be divided by 〈境界〉",
+          "use": "場所を主語にして、その間にある境界を示す。",
+          "example": "The two fields are divided by a narrow strip of woodland.",
+          "translation": "二つの畑は、細長い林によって隔てられている。"
+        }
+      ],
+      "notes": [
+        "A divides B from C では A が境界、B と C が隔てられる対象である。A が自分自身を二つに分けるわけではない。from は「何から隔てるか」を示し、分割後の部分を示す into と区別する。dividing line の dividing は、線が二つの側を分ける働きを表す現在分詞。物理的な境界だけでなく、概念上の区別にも使う。"
+      ],
+      "synonyms": [
+        {
+          "word": "separate",
+          "definition": "二つの場所や対象の間を隔てる。",
+          "frequency": 8,
+          "difference": "境界そのものにも距離にも使いやすく、二者が離れていることを広く述べる。",
+          "example": "A corridor separates the kitchen from the main hall.",
+          "translation": "廊下が台所と大広間を隔てている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 9,
+      "title": "【動詞：他動詞】意見を分裂させる、対立させる",
+      "frequency": 8,
+      "register": [
+        "一般・報道・政治・組織。"
+      ],
+      "definition": "問題・出来事・意見の相違などが、人々や組織を異なる立場へ分け、意見のまとまりを失わせる。物理的に離れた場所へ移すことではない。",
+      "patterns": [
+        "divide opinion",
+        "divide a community",
+        "divide someone from someone",
+        "be divided by 〈対立の原因〉。"
+      ],
+      "collocations": [
+        {
+          "pattern": "divide opinion",
+          "use": "賛否や評価が分かれる原因を述べる。",
+          "example": "The proposed tower has divided opinion among local residents.",
+          "translation": "計画されている高層建築をめぐって、地元住民の意見が分かれている。"
+        },
+        {
+          "pattern": "divide a community",
+          "use": "ある問題が地域社会の対立を生むことを述べる。",
+          "example": "The dispute over the school closure divided the community.",
+          "translation": "学校の閉鎖をめぐる争いが、地域社会を分裂させた。"
+        },
+        {
+          "pattern": "divide someone from someone",
+          "use": "意見の相違が人々の間の隔たりになることを述べる。",
+          "example": "Their views on education divide them from many of their neighbours.",
+          "translation": "教育についての考え方の違いが、彼らと近隣の多くの人々との隔たりになっている。"
+        },
+        {
+          "pattern": "be divided by 〈対立の原因〉",
+          "use": "対立する集団を主語にして原因を示す。",
+          "example": "The committee was divided by a disagreement about funding.",
+          "translation": "委員会は資金調達についての意見の相違で分裂していた。"
+        }
+      ],
+      "notes": [
+        "この意味では問題や方針も主語になる。The issue divides us は、その問題について私たちの意見が分かれるという意味で、問題自体が二つに切れるわけではない。be divided on/over an issue は意見が分かれた状態と争点を示し、be divided by something は分裂をもたらす原因を示す。原因を作る性質には divisive、既に分かれている状態には divided を使う。"
+      ],
+      "synonyms": [
+        {
+          "word": "polarize",
+          "definition": "意見や人々を対立する極へ分ける。",
+          "frequency": 6,
+          "difference": "単に意見が異なるだけでなく、両極への集中や対立の先鋭化に焦点がある。",
+          "example": "The campaign polarized voters along ideological lines.",
+          "translation": "その選挙運動は、思想上の立場によって有権者を二極化させた。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unite",
+          "definition": "人々の立場や行動を一つにまとめる。",
+          "frequency": 7,
+          "difference": "集団の意見や協力関係を分裂させることに対し、一体化させる方向で対立する。",
+          "example": "The need to protect the hospital united the residents.",
+          "translation": "病院を守る必要性が、住民たちを一つにまとめた。"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "【動詞：自動詞】意見が分かれる、対立する",
+      "frequency": 6,
+      "register": [
+        "一般・報道・政治。"
+      ],
+      "definition": "人々や集団が、ある争点について異なる立場に分かれる。何がその分裂を引き起こしたかを目的語で示す構文ではない。",
+      "patterns": [
+        "people + divide over 〈争点〉",
+        "people + divide over whether 〈節〉",
+        "people + divide over whether to do something",
+        "people + divide along 〈立場など〉 lines。"
+      ],
+      "collocations": [
+        {
+          "pattern": "people + divide over 〈争点〉",
+          "use": "集団の立場が分かれる争点を述べる。",
+          "example": "The delegates divided over the proposed timetable.",
+          "translation": "代表者たちは、提案された日程について意見が分かれた。"
+        },
+        {
+          "pattern": "people + divide over whether 〈節〉",
+          "use": "判断が分かれる内容を、主語と動詞を含む節で示す。",
+          "example": "The members divided over whether the proposed change was necessary.",
+          "translation": "提案された変更が必要かどうかについて、会員たちの意見は分かれた。"
+        },
+        {
+          "pattern": "people + divide over whether to do something",
+          "use": "何をするかどうかが争点であると示す。",
+          "example": "Members divided over whether to accept the compromise.",
+          "translation": "会員たちは、妥協案を受け入れるかどうかで意見が分かれた。"
+        },
+        {
+          "pattern": "people + divide along 〈立場など〉 lines",
+          "use": "どのような立場の違いに沿って分裂するかを述べる。",
+          "example": "Voters divided along party lines on the constitutional question.",
+          "translation": "その憲法上の問題について、有権者の意見は支持政党に沿って分かれた。"
+        }
+      ],
+      "notes": [
+        "能動形でも自動詞として使える。ただし状態を述べる日常的な言い方としては be divided on/over も重要。divide over は争点、divide along party lines は分かれ方の基準を示す。whether to do は「するかどうか」という間接疑問の不定詞形で、whether + 主語 + 動詞という節も続けられる。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 11,
+      "title": "【動詞：他動詞】ある数を別の数で割る",
+      "frequency": 8,
+      "register": [
+        "数学・教育・計算。"
+      ],
+      "definition": "ある数を被除数として、別の数を除数にして商を求める。一般の割り算で、答えが整数になることや、被除数が除数より大きいことは必須ではない。",
+      "patterns": [
+        "divide 〈被除数〉 by 〈除数〉",
+        "〈被除数〉 divided by 〈除数〉",
+        "divide something by something to get 〈答え〉。"
+      ],
+      "collocations": [
+        {
+          "pattern": "divide 〈被除数〉 by 〈除数〉",
+          "use": "どの数をどの数で割るかを順に示す。",
+          "example": "Divide thirty by six to find the number in each group.",
+          "translation": "各グループの個数を求めるために、三十を六で割ってください。"
+        },
+        {
+          "pattern": "〈被除数〉 divided by 〈除数〉",
+          "use": "計算式を読み上げる。",
+          "example": "Seven divided by two equals three point five.",
+          "translation": "七を二で割ると三・五になる。"
+        },
+        {
+          "pattern": "divide something by something to get 〈答え〉",
+          "use": "計算とその結果をつなげる。",
+          "example": "Divide three by six to get one half.",
+          "translation": "三を六で割ると二分の一になる。"
+        }
+      ],
+      "notes": [
+        "divide A by B は A ÷ B。目的語 A が割られる数で、by の後の B が割る数である。この構文の数の順序は、日本語の「A を B で割る」と一致する。into を使う語義12や、数を主語にする語義13とは、数の置く場所と役割を区別する。divided by を用いた式では、divided が過去分詞形になる。実際の分配で整数の個数を求める場面と、一般の割り算とは区別する。被除数の名称は dividend、除数は divisor、商は quotient。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 12,
+      "title": "【動詞：他動詞】ある数で別の数を割る",
+      "frequency": 5,
+      "register": [
+        "数学・教育。"
+      ],
+      "definition": "divide の直後に除数を置き、into の後の被除数をその数で割る。語義11と計算操作自体は同じだが、数の意味役割と並ぶ順序が異なる。",
+      "patterns": [
+        "divide 〈除数〉 into 〈被除数〉。"
+      ],
+      "collocations": [
+        {
+          "pattern": "divide 〈除数〉 into 〈被除数〉",
+          "use": "割る数を先に出して計算を指示する。",
+          "example": "Divide six into thirty; the answer is five.",
+          "translation": "六で三十を割ってください。答えは五です。"
+        }
+      ],
+      "notes": [
+        "divide six into thirty は 30 ÷ 6 で、divide thirty by six と同じ計算。into があるからといって「六を三十個に分ける」と読まない。一般の分割構文 divide something into parts とは、数を扱う数学上の構文として区別する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 13,
+      "title": "【動詞：他動詞】ある数を割り切る",
+      "frequency": 4,
+      "register": [
+        "数学。"
+      ],
+      "definition": "ある数を主語にして、その数が目的語の数の約数になる関係を述べる。整数の割り切れる関係を表す数学用法で、計算する人を主語にした命令とは異なる。",
+      "patterns": [
+        "〈除数〉 + divide + 〈被除数〉",
+        "〈除数〉 + divide + 〈被除数〉 evenly。"
+      ],
+      "collocations": [
+        {
+          "pattern": "〈除数〉 + divide + 〈被除数〉",
+          "use": "数同士の割り切れる関係を表す。",
+          "example": "Three divides twelve, but five does not.",
+          "translation": "三は十二を割り切るが、五は割り切らない。"
+        },
+        {
+          "pattern": "〈除数〉 + divide + 〈被除数〉 evenly",
+          "use": "余りが出ないことを明示する。",
+          "example": "Four divides twenty evenly.",
+          "translation": "二十は四で余りなく割り切れる。"
+        }
+      ],
+      "notes": [
+        "Three divides twelve の主語は three、目的語は twelve。語義11の Divide twelve by three では、命令の相手が計算し、twelve が目的語になる。この主語の違いを混同しない。ここでの evenly は整数として余りなく割り切れることを示す。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 14,
+      "title": "【動詞：自動詞】ある数に余りなく入る、割り切る",
+      "frequency": 4,
+      "register": [
+        "数学・計算の説明。"
+      ],
+      "definition": "除数を主語にし、into の後に置く被除数の中に、その数が余りなく入る関係を述べる。ここでは、整数として割り切れることや、その回数を示す用法を扱う。",
+      "patterns": [
+        "〈除数〉 + divide into 〈被除数〉 evenly",
+        "〈除数〉 + divide into 〈被除数〉 + 〈回数〉。"
+      ],
+      "collocations": [
+        {
+          "pattern": "〈除数〉 + divide into 〈被除数〉 evenly",
+          "use": "除数を主語にして、余りなく割り切れる関係を述べる。",
+          "example": "Three divides into twelve evenly.",
+          "translation": "十二は三で余りなく割り切れる。"
+        },
+        {
+          "pattern": "〈除数〉 + divide into 〈被除数〉 + 〈回数〉",
+          "use": "一方の数が他方の数の中に何回入るかを述べる。",
+          "example": "Five divides into twenty-five five times.",
+          "translation": "二十五の中に五は五回入る。"
+        }
+      ],
+      "notes": [
+        "Three divides into twelve では three が主語で、twelve は前置詞 into の目的語。人に計算を命じる Divide three into twelve では、省略された you が主語で、three は動詞の目的語になる。語義12の他動詞構文と表面の語順が似ていても、主語と目的語の役割は違う。evenly を付けると、整数として余りがないことを明示できる。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 15,
+      "title": "【動詞：自動詞】割り算をする",
+      "frequency": 6,
+      "register": [
+        "教育・計算。"
+      ],
+      "definition": "割り算という計算を行う。具体的にどの数をどの数で割るかを目的語に置かず、能力や活動として述べる。",
+      "patterns": [
+        "learn to divide",
+        "multiply and divide。"
+      ],
+      "collocations": [
+        {
+          "pattern": "learn to divide",
+          "use": "割り算を身に付けることを述べる。",
+          "example": "The children are learning to divide without a calculator.",
+          "translation": "子どもたちは、電卓を使わずに割り算をすることを学んでいる。"
+        },
+        {
+          "pattern": "multiply and divide",
+          "use": "掛け算と割り算を並べて述べる。",
+          "example": "She can multiply and divide quickly in her head.",
+          "translation": "彼女は掛け算と割り算を素早く暗算できる。"
+        }
+      ],
+      "notes": [
+        "同じ自動詞でも、Cells divide は細胞が分裂すること、Children learn to divide は子どもたちが割り算を学ぶこと。主語と周囲の語が意味を決める。具体的な計算を書く場合は by や into を含む構文で数の役割を明示する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 16,
+      "title": "【名詞：可算】隔たり、分断、境目",
+      "frequency": 7,
+      "register": [
+        "一般・報道・社会。"
+      ],
+      "definition": "人々・集団・立場・時期などの間にある大きな違いや隔たり。単なる相違点の列挙より、二つの側が隔てられているという捉え方が強い。",
+      "patterns": [
+        "a divide between 〈二つの側〉",
+        "bridge the divide",
+        "a widening divide",
+        "across the divide。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a divide between 〈二つの側〉",
+          "use": "隔たりのある二者を示す。",
+          "example": "There is a growing divide between the city's wealthy and poor residents.",
+          "translation": "その都市では、裕福な住民と貧しい住民の間の隔たりが広がっている。"
+        },
+        {
+          "pattern": "bridge the divide",
+          "use": "隔たりを越えて交流や理解を実現する。",
+          "example": "The joint project helped bridge the divide between the two communities.",
+          "translation": "共同事業は、二つの地域社会の隔たりを埋めるのに役立った。"
+        },
+        {
+          "pattern": "a widening divide",
+          "use": "隔たりが大きくなっていることを表す。",
+          "example": "The survey revealed a widening divide in attitudes towards remote work.",
+          "translation": "調査によって、在宅勤務に対する考え方の隔たりが広がっていることが分かった。"
+        },
+        {
+          "pattern": "across the divide",
+          "use": "隔たりの両側をまたぐ関係を述べる。",
+          "example": "Friendships continued across the political divide.",
+          "translation": "政治的立場の違いを越えて、友人関係は続いた。"
+        }
+      ],
+      "notes": [
+        "可算名詞で、a divide や the divide のように冠詞を伴う。複数の分断なら divides とも言える。名詞でも発音の主強勢は後ろで、動詞と違う強勢に変えない。divide は隔たりそのもの、division は分ける行為・区分・対立・部門なども表すので、どの文でも置換できるわけではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "gap",
+          "definition": "二者の間にある差や隔たり。",
+          "frequency": 8,
+          "difference": "数値・能力・情報量などの差にも広く使い、集団が二つの側へ分断される含みは必須ではない。",
+          "example": "Training helped close the gap in computer skills.",
+          "translation": "研修はコンピューター技能の差を縮めるのに役立った。"
+        },
+        {
+          "word": "rift",
+          "definition": "人間関係や集団の間に生じた深刻な亀裂。",
+          "frequency": 6,
+          "difference": "既存の関係が損なわれた対立を強く連想させ、単なる社会的な差より関係の破綻に重点がある。",
+          "example": "The argument caused a rift within the family.",
+          "translation": "その口論は家族の間に亀裂を生んだ。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 17,
+      "title": "【形容詞：divided】意見が分かれた、複数の対象に分散した",
+      "frequency": 7,
+      "register": [
+        "一般・報道・心理状態。"
+      ],
+      "definition": "人々の意見が一致していない状態、または注意・忠誠・感情などが複数の対象へ向かっている状態を表す。忠誠や感情では相反する相手の間で揺れることがあり、注意の分散では対象同士の対立は必須ではない。分裂を引き起こす原因そのものではない。",
+      "patterns": [
+        "be divided on 〈争点〉",
+        "remain divided over 〈争点〉",
+        "a deeply divided society",
+        "divided loyalties",
+        "divided attention",
+        "be divided between 〈選択肢・気持ち〉。"
+      ],
+      "collocations": [
+        {
+          "pattern": "be divided on 〈争点〉",
+          "use": "集団内で意見が一致していない状態を述べる。",
+          "example": "The board is divided on whether the company should expand overseas.",
+          "translation": "会社が海外進出すべきかどうかについて、取締役会の意見は分かれている。"
+        },
+        {
+          "pattern": "remain divided over 〈争点〉",
+          "use": "意見の不一致が続いていることを述べる。",
+          "example": "Residents remain divided over the location of the new station.",
+          "translation": "新駅の場所をめぐって、住民の意見は依然として分かれている。"
+        },
+        {
+          "pattern": "a deeply divided society",
+          "use": "社会の中に大きな立場の対立があることを述べる。",
+          "example": "The election took place in a deeply divided society.",
+          "translation": "その選挙は、深い分断を抱えた社会で行われた。"
+        },
+        {
+          "pattern": "divided loyalties",
+          "use": "相反する相手の両方に忠誠や義理を感じることを述べる。",
+          "example": "With relatives on both sides of the dispute, he felt divided loyalties.",
+          "translation": "争いの両側に親族がいるため、彼はどちらにも義理を感じて板挟みになった。"
+        },
+        {
+          "pattern": "divided attention",
+          "use": "注意が複数の対象へ分散した状態を述べる。",
+          "example": "The task required divided attention because participants had to monitor two screens at once.",
+          "translation": "参加者は二つの画面を同時に監視する必要があり、その課題では注意を分散させなければならなかった。"
+        },
+        {
+          "pattern": "be divided between 〈選択肢・気持ち〉",
+          "use": "一人の気持ちが複数の相反する対象へ向かうことを述べる。",
+          "example": "He was divided between loyalty to his team and his wish to accept a new job.",
+          "translation": "彼は、仲間への忠誠心と新しい仕事を引き受けたい気持ちとの間で揺れていた。"
+        }
+      ],
+      "notes": [
+        "a divided society の限定用法と、The board is divided の叙述用法がある。deeply や sharply は意見の隔たりの大きさを示す。divided loyalties は忠誠が弱いというだけではなく、複数の相手に引かれる状態。divided attention も必ずしも失敗を意味せず、注意配分を必要とする課題の説明に使える。人を主語にする be divided between は、一人の気持ちの揺れを表す場合があり、集団の構成員同士で意見が異なる場合と区別する。divisive は対立を生む性質、divided は対立・分散がある状態。"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "united",
+          "definition": "人々が立場や目的を共有してまとまっている。",
+          "frequency": 7,
+          "difference": "集団の意見が分かれた状態に対し、一致・結束した状態で対立する。注意の分散をそのまま united attention と言い換える関係ではない。",
+          "example": "The members were united in their support for the chair.",
+          "translation": "会員たちは議長を支持することで一致していた。"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "title": "【形容詞：divisive】対立を生む、分裂を招く",
+      "frequency": 6,
+      "register": [
+        "報道・政治・社会。非難・批判の含み。"
+      ],
+      "definition": "問題・言動・方針などが、人々を異なる立場へ分けて対立を引き起こす性質を持つ。通常、話者の否定的な評価を伴う。",
+      "patterns": [
+        "a divisive issue",
+        "be highly divisive",
+        "become increasingly divisive。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a divisive issue",
+          "use": "人々の意見を対立させる争点を述べる。",
+          "example": "The proposed merger became a divisive issue within the union.",
+          "translation": "合併案は、労働組合内の対立を生む争点になった。"
+        },
+        {
+          "pattern": "be highly divisive",
+          "use": "分裂を生む性質が強いと評価する。",
+          "example": "The minister's speech was highly divisive.",
+          "translation": "大臣の演説は、人々の間に大きな対立を生むものだった。"
+        },
+        {
+          "pattern": "become increasingly divisive",
+          "use": "対立を生む性質が強まっていくことを述べる。",
+          "example": "The debate became increasingly divisive as the vote approached.",
+          "translation": "投票が近づくにつれ、その議論はますます対立を生むものになった。"
+        }
+      ],
+      "notes": [
+        "限定・叙述の両方で使い、more divisive のように程度を比較できる。a divisive proposal は人々を分裂させる提案、a divided committee は意見が分かれた委員会。物理的に切り分けられるという意味の divisible とも別である。"
+      ],
+      "synonyms": [
+        {
+          "word": "controversial",
+          "definition": "賛否や議論を呼ぶ。",
+          "frequency": 8,
+          "difference": "議論の対象になることに重点がある。divisive は、その議論が人々の分裂を生むことを強く示す。",
+          "example": "The book makes a controversial claim about education.",
+          "translation": "その本は、教育について賛否を呼ぶ主張をしている。"
+        },
+        {
+          "word": "polarizing",
+          "definition": "意見を対立する極へ分ける。",
+          "frequency": 5,
+          "difference": "両極への分化に重点がある。divisive は集団内の対立を広く表し、必ず二極に集中するとは限らない。",
+          "example": "She is a polarizing figure in national politics.",
+          "translation": "彼女は国政で評価が両極に分かれる人物である。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 19,
+      "title": "【形容詞：divided】分割された、仕切られた",
+      "frequency": 6,
+      "register": [
+        "一般・空間。divided highway は主に米国。"
+      ],
+      "definition": "全体が複数の区画や部分に分かれている状態を表す。米国の道路については、反対方向の車線が中央分離帯などで隔てられたものにも使う。",
+      "patterns": [
+        "a divided space",
+        "a divided highway",
+        "remain divided into 〈区画〉。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a divided space",
+          "use": "空間が区切られている状態を述べる。",
+          "example": "The exhibition occupies a divided space with a separate area for each artist.",
+          "translation": "その展覧会は、作家ごとに別の区画を設けた、仕切られた空間で開かれている。"
+        },
+        {
+          "pattern": "a divided highway",
+          "use": "上下方向の車線が分離された道路を述べる。",
+          "example": "A wide grass median runs along the divided highway.",
+          "translation": "その上下線分離道路には、幅の広い草地の中央分離帯が続いている。"
+        },
+        {
+          "pattern": "remain divided into 〈区画〉",
+          "use": "区画分けされた状態が続くことを述べる。",
+          "example": "The hall remains divided into smaller rooms by movable walls.",
+          "translation": "そのホールは、可動式の壁で小部屋に区切られたままである。"
+        }
+      ],
+      "notes": [
+        "動詞 divide の受動態と連続する用法だが、ここでは分割された状態に注目する。divided highway は高速道路であることや有料であることまで必ず意味する名称ではない。divided opinions のような意見の分裂とは、後続名詞と文脈で区別する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 20,
+      "title": "【形容詞：undivided】分割されていない",
+      "frequency": 4,
+      "register": [
+        "一般・やや改まった記述。"
+      ],
+      "definition": "物・土地・組織などが別々の部分に分割されず、一つのまとまりを保っている。",
+      "patterns": [
+        "remain undivided",
+        "an undivided 〈土地・組織〉。"
+      ],
+      "collocations": [
+        {
+          "pattern": "remain undivided",
+          "use": "一つのまとまりが維持されていることを述べる。",
+          "example": "The large plot remained undivided after the sale.",
+          "translation": "その広い区画は、売却後も分割されずに残った。"
+        },
+        {
+          "pattern": "an undivided 〈土地・組織〉",
+          "use": "分割されていない対象を名詞の前で説明する。",
+          "example": "The map shows the estate as an undivided area.",
+          "translation": "地図には、その地所が一つの分割されていない区域として示されている。"
+        }
+      ],
+      "notes": [
+        "この意味は限定・叙述の両方で使う。土地について使われても、所有権・相続・持分に関する法律上の効果までは、この一般的な形容詞の意味だけでは決まらない。次の「全面的な」という注意・忠誠の用法と区別する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 21,
+      "title": "【形容詞：undivided】全面的な、ほかにそらされない",
+      "frequency": 6,
+      "register": [
+        "一般・やや改まった表現。"
+      ],
+      "definition": "注意・忠誠・支持などが、ほかへ分散せず、ある相手や対象に全面的に向けられている。",
+      "patterns": [
+        "one's undivided attention",
+        "one's undivided loyalty",
+        "give someone one's undivided attention。"
+      ],
+      "collocations": [
+        {
+          "pattern": "one's undivided attention",
+          "use": "他のことに気を取られない注意を求める。",
+          "example": "This delicate repair needs your undivided attention.",
+          "translation": "この慎重さを要する修理には、ほかのことに気を取られず集中する必要がある。"
+        },
+        {
+          "pattern": "one's undivided loyalty",
+          "use": "忠誠が他の相手との間で揺れていないことを述べる。",
+          "example": "The captain had the crew's undivided loyalty.",
+          "translation": "船長は乗組員たちの揺るぎない忠誠を得ていた。"
+        },
+        {
+          "pattern": "give someone one's undivided attention",
+          "use": "相手の話などに全面的に注意を向ける。",
+          "example": "I put my phone away and gave her my undivided attention.",
+          "translation": "私は携帯電話をしまい、彼女の話に集中した。"
+        }
+      ],
+      "notes": [
+        "この意味では通常、attention や loyalty などの前に置く。give someone one's undivided attention では、give の相手と注意の持ち主を区別する。注意を一つへ向けることを表し、必ず長時間続くという意味ではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 22,
+      "title": "【形容詞：divisible】分割できる",
+      "frequency": 4,
+      "register": [
+        "改まった記述・分析。"
+      ],
+      "definition": "対象を複数の部分や区分へ分けることができる。物理的に切断可能というだけでなく、内容を区分できることにも使う。",
+      "patterns": [
+        "be divisible into 〈部分・区分〉。"
+      ],
+      "collocations": [
+        {
+          "pattern": "be divisible into 〈部分・区分〉",
+          "use": "どのような部分に分けられるかを示す。",
+          "example": "The material is divisible into three broad categories.",
+          "translation": "その資料は、三つの大きな分類に分けることができる。"
+        }
+      ],
+      "notes": [
+        "通常は be divisible のように叙述的に使う。divided は既に分かれている状態、divisible は分けることができる性質であり、実際に分割済みであるとは限らない。into は区分後の部分を示す。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 23,
+      "title": "【形容詞：divisible】ある数で割り切れる",
+      "frequency": 5,
+      "register": [
+        "数学・教育。"
+      ],
+      "definition": "数が、指定した数で整数として余りなく割れる。通常、割り算を実行できるというだけでなく、余りがない関係を表す。",
+      "patterns": [
+        "be divisible by 〈除数〉",
+        "be evenly divisible by 〈除数〉。"
+      ],
+      "collocations": [
+        {
+          "pattern": "be divisible by 〈除数〉",
+          "use": "ある数で割り切れることを述べる。",
+          "example": "Eighteen is divisible by both two and three.",
+          "translation": "十八は二でも三でも割り切れる。"
+        },
+        {
+          "pattern": "be evenly divisible by 〈除数〉",
+          "use": "余りがないことを明示して述べる。",
+          "example": "Twenty-five is not evenly divisible by four.",
+          "translation": "二十五は四では余りなく割り切れない。"
+        }
+      ],
+      "notes": [
+        "Eighteen is divisible by three は 18 ÷ 3 の関係。Three divides eighteen と、主語に置く数が入れ替わる。divisible by four と divided by four を区別する。前者は割り切れる性質、後者は四で割る計算やその結果に関わる形である。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 24,
+      "title": "【名詞：不可算・単数形・division】分割、配分、分業",
+      "frequency": 7,
+      "register": [
+        "一般・仕事・分析。"
+      ],
+      "definition": "全体を部分に分けること、または資源・仕事などを複数の相手や役割に割り振ること。division of labour は、仕事を役割別に分担することを表す。",
+      "patterns": [
+        "the division of something into 〈部分〉",
+        "the division of something between 〈当事者〉",
+        "an unequal division of something",
+        "the division of labour。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the division of something into 〈部分〉",
+          "use": "全体の区分を名詞で述べる。",
+          "example": "The division of the course into short modules makes revision easier.",
+          "translation": "講座を短い単元に分けることで、復習がしやすくなる。"
+        },
+        {
+          "pattern": "the division of something between 〈当事者〉",
+          "use": "当事者間の配分を述べる。",
+          "example": "They agreed on the division of responsibilities between the two offices.",
+          "translation": "彼らは二つの事務所の責任分担について合意した。"
+        },
+        {
+          "pattern": "an unequal division of something",
+          "use": "配分が均等ではないことを述べる。",
+          "example": "An unequal division of household work caused tension between them.",
+          "translation": "家事の分担が不均等であることが、二人の間の緊張を生んだ。"
+        },
+        {
+          "pattern": "the division of labour",
+          "use": "仕事を役割別に分ける仕組みを述べる。",
+          "example": "A clear division of labour helped the small team finish on time.",
+          "translation": "明確な役割分担によって、小さなチームでも期限までに作業を終えられた。"
+        }
+      ],
+      "notes": [
+        "行為や仕組み一般は不可算で、a fair division や an unequal division のように特定の配分のあり方を単数形で捉える用法もある。労働・仕事の分担を表す labour は英国式綴りで、米国式では labor。分けること自体に均等という意味はない。of の後の全体と、into の後の区分、between/among の後の配分先を区別する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 25,
+      "title": "【名詞：不可算・division】割り算、除法",
+      "frequency": 7,
+      "register": [
+        "数学・教育。"
+      ],
+      "definition": "ある数を別の数で割って商を求める計算操作。計算方法としての名称である。",
+      "patterns": [
+        "learn division",
+        "division by 〈除数〉",
+        "multiplication and division。"
+      ],
+      "collocations": [
+        {
+          "pattern": "learn division",
+          "use": "割り算を学ぶことを述べる。",
+          "example": "The class began to learn division this term.",
+          "translation": "そのクラスは、今学期から割り算を学び始めた。"
+        },
+        {
+          "pattern": "division by 〈除数〉",
+          "use": "何で割る操作かを述べる。",
+          "example": "Division by ten moves the decimal point one place to the left in this notation.",
+          "translation": "この表記では、十で割ると小数点の位置が一桁左に移る。"
+        },
+        {
+          "pattern": "multiplication and division",
+          "use": "掛け算と割り算を計算の種類として並べる。",
+          "example": "The worksheet contains exercises in multiplication and division.",
+          "translation": "そのプリントには掛け算と割り算の練習問題が載っている。"
+        }
+      ],
+      "notes": [
+        "数学の操作一般としては不可算で、通常 a division とはしない。部門などを数える可算の division と区別する。calculate は計算全般、division はその中の割り算なので、同じ範囲の語ではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 26,
+      "title": "【名詞：可算・不可算・division】意見の対立、分裂",
+      "frequency": 7,
+      "register": [
+        "一般・報道・政治。"
+      ],
+      "definition": "集団の人々の意見や利害が一致していないこと、またはその具体的な隔たり。division が対立の状態一般、divisions が複数の亀裂や相違を表すことがある。",
+      "patterns": [
+        "division within a group",
+        "divisions over 〈争点〉",
+        "divisions between 〈集団〉",
+        "heal divisions。"
+      ],
+      "collocations": [
+        {
+          "pattern": "division within a group",
+          "use": "一つの集団内部の対立を述べる。",
+          "example": "The leadership contest exposed division within the party.",
+          "translation": "党首選は、党内の対立を露呈させた。"
+        },
+        {
+          "pattern": "divisions over 〈争点〉",
+          "use": "対立している問題を示す。",
+          "example": "Deep divisions over taxation delayed the agreement.",
+          "translation": "税制をめぐる深い対立が、合意を遅らせた。"
+        },
+        {
+          "pattern": "divisions between 〈集団〉",
+          "use": "対立する双方を明示する。",
+          "example": "The report describes divisions between urban and rural voters.",
+          "translation": "報告書は、都市部と農村部の有権者の間の意見の隔たりを説明している。"
+        },
+        {
+          "pattern": "heal divisions",
+          "use": "対立や亀裂を解消して関係を改善する。",
+          "example": "The new leader promised to heal divisions within the organization.",
+          "translation": "新しい指導者は、組織内の対立を解消すると約束した。"
+        }
+      ],
+      "notes": [
+        "division within the party は党内の対立、a division of the company は会社の一部門という解釈が普通で、前置詞と名詞の組合せが重要。divisions は対立が複数ある、または亀裂が各所にあるという捉え方に使う。物理的な分割や組織の部署と混同しない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 27,
+      "title": "【名詞：可算・division】部門、区分、行政区画",
+      "frequency": 7,
+      "register": [
+        "仕事・組織・行政。"
+      ],
+      "definition": "大きな組織や領域を分けた一つの単位。会社の事業部・行政上の区画など、全体の内部の区分を表す。",
+      "patterns": [
+        "a division of a company",
+        "the sales division",
+        "an administrative division",
+        "work in a division。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a division of a company",
+          "use": "組織全体に属する一部門を述べる。",
+          "example": "The research division of the company has opened a new laboratory.",
+          "translation": "その会社の研究部門は、新しい研究所を開設した。"
+        },
+        {
+          "pattern": "the sales division",
+          "use": "販売を担当する部門を指す。",
+          "example": "The sales division works closely with the product team.",
+          "translation": "販売部門は製品担当チームと緊密に協力している。"
+        },
+        {
+          "pattern": "an administrative division",
+          "use": "行政上の区域の単位を述べる。",
+          "example": "The map marks each administrative division with a different colour.",
+          "translation": "地図では、行政区画ごとに異なる色が付けられている。"
+        },
+        {
+          "pattern": "work in a division",
+          "use": "どの部門に所属して働くかを述べる。",
+          "example": "She works in the company's medical equipment division.",
+          "translation": "彼女はその会社の医療機器部門で働いている。"
+        }
+      ],
+      "notes": [
+        "可算なので a division、several divisions の形になる。人員のまとまりとして捉える組織名では、特に英国英語で単数形に複数動詞を合わせることもある。division・department・section の上下関係は組織によって違い、division なら必ず日本語の「事業部」に一致するとは限らない。行政区画も国によって実際の制度が異なる。"
+      ],
+      "synonyms": [
+        {
+          "word": "department",
+          "definition": "組織内で特定の仕事を担当する部門。",
+          "frequency": 9,
+          "difference": "日常的な部署名に広く使う。division との規模や上下関係は組織固有であり、語だけでは固定できない。",
+          "example": "The finance department checks the monthly figures.",
+          "translation": "財務部門は毎月の数値を確認する。"
+        },
+        {
+          "word": "section",
+          "definition": "全体を構成する一つの区分や部署。",
+          "frequency": 7,
+          "difference": "比較的小さな区分を指すことが多いが、具体的な階層は組織の名称規則による。",
+          "example": "He supervises the maintenance section.",
+          "translation": "彼は保全部門を監督している。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 28,
+      "title": "【名詞：可算・division】スポーツの部、階級、リーグ内の区分",
+      "frequency": 5,
+      "register": [
+        "スポーツ。"
+      ],
+      "definition": "競技の参加者やチームを、実力・地域・体重などによって分けた集団や競争上の区分。単に上位・下位の序列を表す場合だけではない。",
+      "patterns": [
+        "play in a division",
+        "win a division",
+        "a weight division。"
+      ],
+      "collocations": [
+        {
+          "pattern": "play in a division",
+          "use": "チームが所属する競技上の区分を示す。",
+          "example": "The club now plays in the second division.",
+          "translation": "そのクラブは現在、二部リーグでプレーしている。"
+        },
+        {
+          "pattern": "win a division",
+          "use": "所属する地区や部などで首位になることを述べる。",
+          "example": "The team won its division but lost in the next round.",
+          "translation": "そのチームは所属地区で優勝したが、次のラウンドで敗れた。"
+        },
+        {
+          "pattern": "a weight division",
+          "use": "体重による競技区分を述べる。",
+          "example": "The boxer moved up to a heavier weight division.",
+          "translation": "そのボクサーは、より重い体重階級へ上がった。"
+        }
+      ],
+      "notes": [
+        "competition 全体の優勝と division 内の優勝は同じとは限らない。名称を日本語にする際は、実際の競技制度に合わせて「部」「地区」「階級」などを選ぶ。地域別の division に、必ず上下の実力差があるわけではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 29,
+      "title": "【名詞：可算・division】師団",
+      "frequency": 4,
+      "register": [
+        "軍事・歴史・報道。"
+      ],
+      "definition": "軍隊の編制における大きな部隊単位で、一般に複数の旅団や連隊などから成る。具体的な人員数や構成は軍隊・時代によって異なる。",
+      "patterns": [
+        "an infantry division",
+        "command a division。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an infantry division",
+          "use": "歩兵を中心とした師団を指す。",
+          "example": "The museum has a gallery devoted to the history of an infantry division.",
+          "translation": "その博物館には、ある歩兵師団の歴史を紹介する展示室がある。"
+        },
+        {
+          "pattern": "command a division",
+          "use": "師団の指揮を執る立場を述べる。",
+          "example": "The biography describes the years when she commanded a division.",
+          "translation": "その伝記は、彼女が師団を指揮していた時期を描いている。"
+        }
+      ],
+      "notes": [
+        "組織を分けた単位という点は一般の部門と共通するが、軍事文脈では通常「師団」と訳す。division という語だけから固定の兵員数を断定しない。軍の一般的な section と同じ規模の部隊ではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 30,
+      "title": "【名詞：可算・division】境界、区切り",
+      "frequency": 5,
+      "register": [
+        "一般・空間・分類。"
+      ],
+      "definition": "二つの場所や範囲を隔てる線・区切り。人々の不仲そのものではなく、領域が別々になる境目に注目する。",
+      "patterns": [
+        "a division between 〈領域〉",
+        "a clear division。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a division between 〈領域〉",
+          "use": "二つの範囲の境目を述べる。",
+          "example": "A row of stones marks the division between the two gardens.",
+          "translation": "一列の石が、二つの庭の境界を示している。"
+        },
+        {
+          "pattern": "a clear division",
+          "use": "境目がはっきりしていると述べる。",
+          "example": "There is no clear division between the cooking and dining areas.",
+          "translation": "調理スペースと食事スペースの間には、はっきりした区切りがない。"
+        }
+      ],
+      "notes": [
+        "the division of land は土地を分ける行為、the division between two gardens は二つの庭の境目という違いがある。between があっても、集団間の対立という別の名詞義になり得るため、何を隔てているかを文脈で確認する。"
+      ],
+      "synonyms": [
+        {
+          "word": "boundary",
+          "definition": "場所・領域・範囲を隔てる境界。",
+          "frequency": 7,
+          "difference": "境界そのものを明確に指す。division のように分割の行為や組織単位を広く表す語ではない。",
+          "example": "The old hedge marks the property boundary.",
+          "translation": "古い生け垣が敷地の境界を示している。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 31,
+      "title": "【名詞：可算・divide】分水界、分水嶺",
+      "frequency": 3,
+      "register": [
+        "地理。主に米国・カナダ。"
+      ],
+      "definition": "雨水などが異なる水系へ流れていく側を分ける境界や高所。社会的な隔たりを表す名詞義とは別の地理的用法。",
+      "patterns": [
+        "cross a divide",
+        "on either side of the divide。"
+      ],
+      "collocations": [
+        {
+          "pattern": "cross a divide",
+          "use": "流域を分ける境界を越えることを述べる。",
+          "example": "The hiking route crosses a divide between two river basins.",
+          "translation": "その登山ルートは、二つの河川流域の分水界を越える。"
+        },
+        {
+          "pattern": "on either side of the divide",
+          "use": "分水界の両側で流れが異なることを述べる。",
+          "example": "Streams on either side of the divide flow towards different rivers.",
+          "translation": "分水界の両側の小川は、それぞれ別の川へ流れていく。"
+        }
+      ],
+      "notes": [
+        "ここでの divide は名詞であり、「割る」という動作ではない。単なる山頂の名称ではなく、水がどちらへ流れるかを分ける地形上の境界という意味。流域そのものと、その境界を区別する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 32,
+      "title": "【名詞：可算・division】賛否を数える採決",
+      "frequency": 3,
+      "register": [
+        "英国・議会。"
+      ],
+      "definition": "英国の議会などで、賛否を分けて票数を確かめる採決。一般的な意見の分裂を述べる名詞とは異なり、議会手続きの名称として使う。",
+      "patterns": [
+        "call for a division",
+        "a division on 〈議案〉。"
+      ],
+      "collocations": [
+        {
+          "pattern": "call for a division",
+          "use": "票数を確かめる採決を求めることを述べる。",
+          "example": "A member called for a division after the debate.",
+          "translation": "討論の後、ある議員が票数を確かめる採決を求めた。"
+        },
+        {
+          "pattern": "a division on 〈議案〉",
+          "use": "何についての採決かを示す。",
+          "example": "The record includes the result of a division on the amendment.",
+          "translation": "記録には、その修正案についての採決結果が載っている。"
+        }
+      ],
+      "notes": [
+        "語の意味は採決に関わるが、実際の投票方法や成立条件は議会・手続きによって異なる。一般的な division の意味だけから、採決に必要な人数や法的効果を推測しない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 33,
+      "title": "【動詞句・名詞前の複合修飾：divide and conquer・divide and rule】分裂させて支配する",
+      "frequency": 5,
+      "register": [
+        "政治・歴史・組織の力関係を論じる表現。"
+      ],
+      "definition": "相手側の人々を対立させ、団結できない状態にすることで支配や優位を保つことを表す定着表現。",
+      "patterns": [
+        "divide and conquer",
+        "divide and rule",
+        "a divide-and-rule policy。"
+      ],
+      "collocations": [
+        {
+          "pattern": "divide and conquer",
+          "use": "対立を利用した支配の方法を批判的に述べる。",
+          "example": "The historian argued that the regime tried to divide and conquer.",
+          "translation": "その歴史家は、政権が人々を分裂させて支配しようとしたと論じた。"
+        },
+        {
+          "pattern": "divide and rule",
+          "use": "分断による統治という考え方を述べる。",
+          "example": "The essay examines how rulers used rivalry to divide and rule.",
+          "translation": "その論文は、支配者が対立関係を利用して分割統治を行った方法を検討している。"
+        },
+        {
+          "pattern": "a divide-and-rule policy",
+          "use": "その考え方に基づく方針を名詞の前で説明する。",
+          "example": "Critics described the measure as a divide-and-rule policy.",
+          "translation": "批判者たちは、その措置を分割統治の方針だと評した。"
+        }
+      ],
+      "notes": [
+        "句全体を一つの方法として捉える。通常の動詞句ではハイフンを付けず、名詞の前で一まとまりの修飾語にすると divide-and-rule のように結ぶ。ここでは人々の対立を利用する用法を扱い、数学や計算機科学で問題を小さく分ける方法とは区別する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 34,
+      "title": "【名詞句：不可算・名詞前の複合修飾・divide and conquer】分割統治法",
+      "frequency": 3,
+      "register": [
+        "計算機科学・アルゴリズム。"
+      ],
+      "definition": "計算機科学で、問題をより小さな部分問題に分け、それらを再帰的に解き、結果を組み合わせて元の問題の解を得るというアルゴリズム設計の考え方。",
+      "patterns": [
+        "use divide and conquer",
+        "a divide-and-conquer algorithm",
+        "the divide-and-conquer approach。"
+      ],
+      "collocations": [
+        {
+          "pattern": "use divide and conquer",
+          "use": "問題を分けて解く設計原理を用いることを述べる。",
+          "example": "The algorithm uses divide and conquer to solve smaller versions of the problem and combine their results.",
+          "translation": "そのアルゴリズムは分割統治法を使い、元の問題を小さくした問題を解いて、その結果を組み合わせる。"
+        },
+        {
+          "pattern": "a divide-and-conquer algorithm",
+          "use": "その設計原理によるアルゴリズムを述べる。",
+          "example": "The lecture explains a divide-and-conquer algorithm for sorting a list.",
+          "translation": "その講義は、リストを整列させる分割統治法のアルゴリズムを説明している。"
+        },
+        {
+          "pattern": "the divide-and-conquer approach",
+          "use": "方法全体について述べる。",
+          "example": "In the divide-and-conquer approach, the solutions to the subproblems must support a solution to the original problem.",
+          "translation": "分割統治法では、部分問題の解が、元の問題の解を得ることにつながらなければならない。"
+        }
+      ],
+      "notes": [
+        "ここでは設計方法を指す名詞句で、人々を対立させて支配する政治的な動詞句とは用途が違う。単に複数の人へ仕事を配ることだけを定義としない。いつも二等分する方法、常に最速になる方法という意味でもない。名詞の前では divide-and-conquer algorithm のようにハイフンで結ぶ。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 35,
+      "title": "【動詞：自動詞】採決のため賛否に分かれる",
+      "frequency": 2,
+      "register": [
+        "主に英国・議会。"
+      ],
+      "definition": "議会の構成員が、票数を確かめる採決を行うために賛否の側へ分かれる。単に意見が食い違うという一般義とは区別する。",
+      "patterns": [
+        "the House + divide",
+        "members + divide on 〈議案〉。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the House + divide",
+          "use": "議会が賛否を数える採決に入ることを述べる。",
+          "example": "After the debate, the House divided to record the votes for and against the amendment.",
+          "translation": "討論の後、議会は修正案への賛否の票を記録するために採決を行った。"
+        },
+        {
+          "pattern": "members + divide on 〈議案〉",
+          "use": "採決の対象となる議案を示す。",
+          "example": "The members divided on the motion, and the votes were counted.",
+          "translation": "議員たちはその動議の採決で賛否に分かれ、票が数えられた。"
+        }
+      ],
+      "notes": [
+        "議会を主語にする The House divided のような記述に出会う。日常の意見の不一致を述べる divide over an issue と違い、ここでは採決という手続きが行われる。各議会の具体的な投票方法や可決条件は、語そのものの意味とは別に確認する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}
