@@ -1,0 +1,950 @@
+{
+  "word": "external",
+  "slug": "external",
+  "ipa": "米: /ɪkˈstɜːrnl/｜英: /ɪkˈstɜːnl/。3音節で第2音節に主強勢がある。英米差は第2音節の母音に続く /r/ の有無。末尾の /l/ が音節の中心となる読みを含む。externally は米: /ɪkˈstɜːrnəli/｜英: /ɪkˈstɜːnəli/。4音節で、主強勢と英米差の位置は同じ。",
+  "lead": "物体・建物・身体などの外側にある、またはその外側に関係する。どの対象を境界としているかによって外側の範囲が決まる。屋外という意味に限られない。",
+  "updated": "2026-10-29",
+  "notion_url": "",
+  "pronunciation": [
+    "externalize は米: /ɪkˈstɜːrnəlaɪz/｜英: /ɪkˈstɜːnəlaɪz/。4音節で第2音節に主強勢。externalization は米: /ɪkˌstɜːrnələˈzeɪʃn/｜英: /ɪkˌstɜːnəlaɪˈzeɪʃn/。6音節で第5音節に主強勢、第2音節に副強勢があり、末尾の /n/ が音節の中心となる読みを含む。名詞では、第2音節の /r/ の有無に加え、第4音節の母音が米では /ə/、英では /aɪ/ となる。",
+    "externality は米: /ˌekstɜːrˈnæləti/｜英: /ˌekstɜːˈnæləti/。5音節で第3音節に主強勢、第1音節に副強勢。第1音節の母音は external の /ɪ/ と違って /e/、英米差は第2音節の /r/ の有無である。"
+  ],
+  "etymology": [
+    "中世ラテン語を経て、ラテン語 exter（外側の）にさかのぼる。externus（外部の）も関係するラテン語の形である。現代語でも、何を一つのまとまりとして捉えるかによって、その外側にある位置・所属・由来を述べる。外部であることだけから、外国・屋外・秘密でないことなどの意味を一律に加えない。"
+  ],
+  "formation": [
+    {
+      "term": "externally",
+      "description": "外側で、外部から、外部へ、という副詞。場所・由来・伝達先などの範囲を動詞や形容詞に加える。"
+    },
+    {
+      "term": "externalize",
+      "description": "思考・感情などを外へ表すという他動詞。英国では externalise という綴りも使う。"
+    },
+    {
+      "term": "externalization",
+      "description": "外へ表すこと、外在化・外化を示す不可算名詞。英国では externalisation とも綴る。"
+    },
+    {
+      "term": "externality",
+      "description": "経済学の外部性や、認識主体の外に存在する性質を表す名詞。externalization の単なる異綴りではない。"
+    },
+    {
+      "term": "externals",
+      "description": "名詞 external の複数形で、外側の部分や外見的な事柄をまとめて指す用法がある。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "物・組織・国・認識主体など、ある境界の外側にあること。外側の位置だけでなく、所属・由来・見かけを述べ、派生語では内側から外へ表す動作や、取引当事者の外へ及ぶ影響へと具体化する。"
+    },
+    {
+      "type": "item",
+      "text": "物の境界の外側にある位置 → 「物の外側の、外部にある」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "対象の境界の外側にある由来 → 「外部からの、対象の外に由来する」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "組織の境界の外側にある所属 → 「組織外の、外部者による」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "組織の境界の外側へ向ける伝達 → 「組織外に向けた、外部との連絡の」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "組織の境界の外側へ伝える方向 → 「組織外へ、外部の相手に向けて」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "機器の本体の外側にある装置 → 「外付けの、本体外部に接続する」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "国の境界の外側との関係 → 「対外的な、外国との関係に関する」（語義7）"
+    },
+    {
+      "type": "item",
+      "text": "物の境界の外側を扱う動作や判断 → 「外側で、外側を、外から見て」（語義8）"
+    },
+    {
+      "type": "item",
+      "text": "組織の境界の外側から加わる作用 → 「外部から、外部の人・機関によって」（語義9）"
+    },
+    {
+      "type": "item",
+      "text": "身体の外側への使用 → 「外用の、身体の外側に使う」（語義10）"
+    },
+    {
+      "type": "item",
+      "text": "内実より外側の特徴への限定 → 「外面的な、表面的な、非本質的な」（語義11）"
+    },
+    {
+      "type": "item",
+      "text": "認識主体の外側にある現実 → 「心や認識主体から独立した、外界の」（語義12）"
+    },
+    {
+      "type": "item",
+      "text": "心の内側から外側への表現 → 「思考や感情を外へ表す、外化する」（語義13）"
+    },
+    {
+      "type": "item",
+      "text": "取引の外側へ及ぶ価格未反映の効果 → 「経済活動の外部性」（語義14）"
+    },
+    {
+      "type": "item",
+      "text": "主体の負担の外側へ費用を置く働き → 「費用を外部の負担にする」（語義15）"
+    },
+    {
+      "type": "item",
+      "text": "心の内側から外側へ表す過程 → 「思考や感情の外化、外在化」（語義16）"
+    },
+    {
+      "type": "item",
+      "text": "外側に現れる特徴のまとまり → 「外側の部分、外見的な事柄：externals」（語義17）"
+    },
+    {
+      "type": "item",
+      "text": "認識主体の外側にあるという性質 → 「認識主体の外に存在する性質」（語義18）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【形容詞】物の外側の、外部にある",
+      "frequency": 8,
+      "register": [
+        "日常・一般・技術。"
+      ],
+      "definition": "物体・建物・身体などの外側にある、またはその外側に関係する。どの対象を境界としているかによって外側の範囲が決まる。屋外という意味に限られない。",
+      "patterns": [
+        "an external wall",
+        "an external surface",
+        "external dimensions",
+        "external features",
+        "be external to something。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an external wall",
+          "use": "建物の外側を形成する壁を述べる。",
+          "example": "The crack is visible on the external wall.",
+          "translation": "外壁に、ひびが見える。"
+        },
+        {
+          "pattern": "an external surface",
+          "use": "物体の外面を指す。",
+          "example": "The coating protects the external surface of the pipe.",
+          "translation": "その塗膜は、管の外面を保護する。"
+        },
+        {
+          "pattern": "external dimensions",
+          "use": "外側の寸法を述べる。",
+          "example": "The external dimensions include the protective case.",
+          "translation": "外寸には、保護ケースの分も含まれている。"
+        },
+        {
+          "pattern": "external features",
+          "use": "外から観察できる特徴を述べる。",
+          "example": "The guide identifies the species by its external features.",
+          "translation": "その図鑑は、外見上の特徴によって種を識別している。"
+        },
+        {
+          "pattern": "be external to something",
+          "use": "形容詞に続く to で、何の外側かを示す。",
+          "example": "The antenna is external to the main casing.",
+          "translation": "アンテナは、本体ケースの外側にある。"
+        }
+      ],
+      "notes": [
+        "external to の to は形容詞に続く。the external surface of the pipe の of は surface と全体との関係を示し、external of と機械的に作るわけではない。external は内外を分類するのが基本で、程度の尺度として単純に very external と表す性質の語ではないが、文脈による比較を全て禁止するものでもない。"
+      ],
+      "synonyms": [
+        {
+          "word": "outer",
+          "definition": "より外側にある、外の層の。",
+          "frequency": 7,
+          "difference": "inner との対比で、層や位置の外側を示す。external は所属・由来など、物理的位置以外にも広く使う。",
+          "example": "The outer layer protects the softer material inside.",
+          "translation": "外側の層は、内側の柔らかい材料を保護する。"
+        },
+        {
+          "word": "exterior",
+          "definition": "建物や物体の外面の。",
+          "frequency": 6,
+          "difference": "外壁など、外面という位置に焦点を当てる。external は組織外の所属や外部由来といった抽象的な関係にも使う。",
+          "example": "The house has white exterior walls.",
+          "translation": "その家の外壁は白い。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "internal",
+          "definition": "物の内部にある、内側に関係する。",
+          "frequency": 8,
+          "difference": "同じ対象の内外という軸で対立する。境界とする対象が変われば、何が内部か外部かも変わる。",
+          "example": "The inspection covered both internal and external surfaces.",
+          "translation": "点検は、内面と外面の両方を対象とした。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【形容詞】外部からの、対象の外に由来する",
+      "frequency": 8,
+      "register": [
+        "一般・業務・分析。"
+      ],
+      "definition": "組織・状況・体系などの外側から生じる、またはその外側に属する。内側で生じる要因や、自分たちで直接管理する範囲と対比する。",
+      "patterns": [
+        "external factors",
+        "external pressure",
+        "external support",
+        "external causes",
+        "factors external to something。"
+      ],
+      "collocations": [
+        {
+          "pattern": "external factors",
+          "use": "対象外から影響する要因を述べる。",
+          "example": "The outcome was affected by external factors beyond the team's control.",
+          "translation": "結果は、チームが制御できない外部要因の影響を受けた。"
+        },
+        {
+          "pattern": "external pressure",
+          "use": "外側から加わる圧力を述べる。",
+          "example": "External pressure forced the organization to reconsider its plan.",
+          "translation": "外部からの圧力によって、組織は計画を再検討することになった。"
+        },
+        {
+          "pattern": "external support",
+          "use": "内部以外から受ける支援を述べる。",
+          "example": "The project continued with external support from several foundations.",
+          "translation": "その事業は、複数の財団から外部支援を受けて続けられた。"
+        },
+        {
+          "pattern": "external causes",
+          "use": "原因の由来が対象の外側にあることを述べる。",
+          "example": "The analysis separates external causes from failures within the system.",
+          "translation": "その分析は、外部の原因とシステム内部の不具合を分けている。"
+        },
+        {
+          "pattern": "factors external to something",
+          "use": "external を名詞の後ろに置き、基準となる対象を示す。",
+          "example": "Factors external to the organization shaped the final decision.",
+          "translation": "組織外の要因が、最終決定に影響した。"
+        }
+      ],
+      "notes": [
+        "外部要因であることと、制御不能であることは同じではない。制御できないと述べるなら beyond our control などの文脈が必要。external pressure は物理的圧力にも使えるため、組織や計画を明示すると抽象義が分かりやすい。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【形容詞】組織外の、外部者による",
+      "frequency": 7,
+      "register": [
+        "業務・教育・評価。"
+      ],
+      "definition": "ある企業・学校・組織に所属する内部の人ではなく、その外側の人や機関に関係する。評価・監査・助言などで、対象組織との所属関係を示す。",
+      "patterns": [
+        "an external auditor",
+        "an external consultant",
+        "an external examiner",
+        "external candidates",
+        "an external assessment。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an external auditor",
+          "use": "対象組織の外部の監査人を述べる。",
+          "example": "An external auditor reviewed the financial statements.",
+          "translation": "外部監査人が、財務諸表を検討した。"
+        },
+        {
+          "pattern": "an external consultant",
+          "use": "外部の助言担当者を示す。",
+          "example": "The company hired an external consultant to assess the process.",
+          "translation": "その会社は、業務過程を評価するため外部コンサルタントを雇った。"
+        },
+        {
+          "pattern": "an external examiner",
+          "use": "対象教育機関の外から評価に関わる人を述べる。",
+          "example": "The university invited an external examiner to review the students' work.",
+          "translation": "大学は、学生の成果物を評価するため外部の審査員を招いた。"
+        },
+        {
+          "pattern": "external candidates",
+          "use": "組織外からの応募者を示す。",
+          "example": "The vacancy is open to both internal and external candidates.",
+          "translation": "その募集職には、組織内と組織外の両方から応募できる。"
+        },
+        {
+          "pattern": "an external assessment",
+          "use": "外部者による評価を述べる。",
+          "example": "The team requested an external assessment of the project.",
+          "translation": "チームは、その事業について外部評価を求めた。"
+        }
+      ],
+      "notes": [
+        "external examiner は特に英国の教育で見られる名称だが、具体的な役割・権限は制度による。external は外国のという意味とは限らず、同じ国内の別組織の人にも使える。外部者という語だけで、法制度上の独立性や公正さの全条件が満たされると判断しない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【形容詞】組織外に向けた、外部との連絡の",
+      "frequency": 6,
+      "register": [
+        "業務・広報・情報管理。"
+      ],
+      "definition": "組織の外にいる相手への伝達・公開や、組織外との情報のやり取りに関係する。外部の人が担当することや、外部から入ってくる情報だけを意味するわけではない。",
+      "patterns": [
+        "external communication",
+        "external communications",
+        "external sharing",
+        "an external audience。"
+      ],
+      "collocations": [
+        {
+          "pattern": "external communication",
+          "use": "組織外との情報伝達という活動を述べる。",
+          "example": "The team coordinates external communication with customers and partners.",
+          "translation": "チームは、顧客や取引先との対外的な情報伝達を調整している。"
+        },
+        {
+          "pattern": "external communications",
+          "use": "組織外向けの連絡や広報をまとめて述べる。",
+          "example": "The policy separates internal notices from external communications.",
+          "translation": "その方針は、内部通知と外部向けの連絡を分けている。"
+        },
+        {
+          "pattern": "external sharing",
+          "use": "情報を組織外の相手と共有することを述べる。",
+          "example": "External sharing of the report requires prior approval.",
+          "translation": "その報告書を外部と共有するには、事前承認が必要だ。"
+        },
+        {
+          "pattern": "an external audience",
+          "use": "情報の受け手が組織外であることを示す。",
+          "example": "This version was prepared for an external audience.",
+          "translation": "この版は、組織外の読者に向けて作られた。"
+        }
+      ],
+      "notes": [
+        "外部向けという範囲を示しても、インターネット上で全員に公開するとは限らない。特定の顧客や取引先だけへの連絡も含められる。external consultant は担当者の所属、external communication は伝達の相手や範囲に注目するという違いがある。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【副詞：externally】組織外へ、外部の相手に向けて",
+      "frequency": 6,
+      "register": [
+        "業務・情報管理。"
+      ],
+      "definition": "文書・情報などを、組織の外にいる相手へ伝えることを示す。外部から受け取るという由来ではなく、伝達先の側を限定する副詞用法。",
+      "patterns": [
+        "share something externally",
+        "distribute something externally",
+        "release something externally。"
+      ],
+      "collocations": [
+        {
+          "pattern": "share something externally",
+          "use": "情報を組織外の相手と共有することを述べる。",
+          "example": "The draft must not be shared externally before approval.",
+          "translation": "承認前に、その草稿を外部と共有してはならない。"
+        },
+        {
+          "pattern": "distribute something externally",
+          "use": "文書を組織外へ配布することを述べる。",
+          "example": "The final brochure will be distributed externally to partner organizations.",
+          "translation": "完成したパンフレットは、外部の協力団体へ配布される予定だ。"
+        },
+        {
+          "pattern": "release something externally",
+          "use": "情報を内部だけでなく外に出すことを述べる。",
+          "example": "The company reviewed the figures before releasing them externally.",
+          "translation": "その会社は、数値を外部へ公表する前に確認した。"
+        }
+      ],
+      "notes": [
+        "be funded externally は資金の由来が外部、share externally は共有先が外部であり、動詞によって方向が変わる。externally だけで公開範囲や共有の権限が決まるわけではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【形容詞】外付けの、本体外部に接続する",
+      "frequency": 7,
+      "register": [
+        "コンピュータ・機器。"
+      ],
+      "definition": "コンピュータなどの本体に内蔵されず、その外側に置いたり接続したりして使う装置に関する。屋外設置やインターネット上の存在を意味するわけではない。",
+      "patterns": [
+        "an external hard drive",
+        "an external microphone",
+        "an external monitor",
+        "external storage。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an external hard drive",
+          "use": "本体外部に接続するハードディスクを述べる。",
+          "example": "She backed up the files to an external hard drive.",
+          "translation": "彼女は、ファイルを外付けハードディスクにバックアップした。"
+        },
+        {
+          "pattern": "an external microphone",
+          "use": "内蔵以外のマイクを示す。",
+          "example": "The camera can record sound through an external microphone.",
+          "translation": "そのカメラは、外付けマイクを通じて音声を記録できる。"
+        },
+        {
+          "pattern": "an external monitor",
+          "use": "本体画面とは別のディスプレイを示す。",
+          "example": "He connected the laptop to an external monitor.",
+          "translation": "彼は、ノートパソコンを外部モニターに接続した。"
+        },
+        {
+          "pattern": "external storage",
+          "use": "本体の外にある記憶装置を述べる。",
+          "example": "The application can save large files on external storage.",
+          "translation": "そのアプリは、大きなファイルを外部ストレージに保存できる。"
+        }
+      ],
+      "notes": [
+        "external drive は外付け装置であり、必ずクラウド保存を意味するわけではない。接続方式・互換性・性能は external という形容詞だけからは分からない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【形容詞】対外的な、外国との関係に関する",
+      "frequency": 6,
+      "register": [
+        "政治・経済・報道。"
+      ],
+      "definition": "国がその外側の国・地域と持つ関係に関わる。内政や国内事項と対比して、対外関係の範囲を示す。",
+      "patterns": [
+        "external affairs",
+        "external trade",
+        "external debt",
+        "an external threat。"
+      ],
+      "collocations": [
+        {
+          "pattern": "external affairs",
+          "use": "国の対外関係を述べる。",
+          "example": "The ministry handles external affairs as well as regional cooperation.",
+          "translation": "その省は、地域協力に加えて対外関係も扱っている。"
+        },
+        {
+          "pattern": "external trade",
+          "use": "国の外との貿易を述べる。",
+          "example": "The report examines the country's external trade.",
+          "translation": "その報告書は、その国の対外貿易を分析している。"
+        },
+        {
+          "pattern": "external debt",
+          "use": "対外債務という経済用語を示す。",
+          "example": "The table distinguishes external debt from domestic debt.",
+          "translation": "その表は、対外債務と国内債務を区別している。"
+        },
+        {
+          "pattern": "an external threat",
+          "use": "国外からの脅威を述べる。",
+          "example": "The statement identified an external threat to national security.",
+          "translation": "その声明は、国家の安全に対する外部からの脅威を指摘した。"
+        }
+      ],
+      "notes": [
+        "external debt などの統計上の分類は、通貨や国籍だけで単純に決まるとは限らない。ここでは対外的な関係という語彙的意味を扱い、個別の統計制度や金融取引の条件を定義しているわけではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "foreign",
+          "definition": "ある国から見て、他の国の・他の国に由来する。",
+          "frequency": 9,
+          "difference": "国を基準とした外国性を表す。external は国の外との関係を示す用法に加え、企業や物体の外側にも使える。",
+          "example": "The company entered several foreign markets.",
+          "translation": "その会社は、いくつかの海外市場へ進出した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【副詞：externally】外側で、外側を、外から見て",
+      "frequency": 6,
+      "register": [
+        "一般・技術・物の状態の説明。"
+      ],
+      "definition": "物体・建物などの外側を場所や対象として述べる。また、外観だけを判断の範囲として示すこともある。",
+      "patterns": [
+        "inspect something externally",
+        "be restored externally",
+        "look similar externally",
+        "be applied externally。"
+      ],
+      "collocations": [
+        {
+          "pattern": "inspect something externally",
+          "use": "対象の外側を点検することを述べる。",
+          "example": "The technician inspected the casing externally before opening it.",
+          "translation": "技術者は、筐体を開ける前に外側を点検した。"
+        },
+        {
+          "pattern": "be restored externally",
+          "use": "建物などの外側が修復されたことを述べる。",
+          "example": "The house has been restored externally, but work inside is still unfinished.",
+          "translation": "家の外側は修復されたが、内部の作業はまだ終わっていない。"
+        },
+        {
+          "pattern": "look similar externally",
+          "use": "外観の範囲で似ていると述べる。",
+          "example": "The devices look similar externally but contain different components.",
+          "translation": "その装置どうしは外見が似ているが、内部の部品は異なる。"
+        },
+        {
+          "pattern": "be applied externally",
+          "use": "薬剤などの塗布が身体の外側に行われるという記述を読む。",
+          "example": "The leaflet describes a preparation that is applied externally to the skin.",
+          "translation": "その説明書は、皮膚の外側に塗布する製剤について記している。"
+        }
+      ],
+      "notes": [
+        "external appearance は形容詞と名詞、look different externally は動作・状態の範囲を副詞で述べる形。外側に使うという薬剤用法から、あらゆる外部部位への安全性を推測しない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 9,
+      "title": "【副詞：externally】外部から、外部の人・機関によって",
+      "frequency": 6,
+      "register": [
+        "業務・研究・制度の説明。"
+      ],
+      "definition": "資金・規則・評価などの由来が、対象組織や体系の外側にあることを示す。外にある場所だけでなく、誰が資源や判断を供給するかに焦点がある。",
+      "patterns": [
+        "be funded externally",
+        "be imposed externally",
+        "be assessed externally",
+        "recruit externally。"
+      ],
+      "collocations": [
+        {
+          "pattern": "be funded externally",
+          "use": "資金を外部から受けることを述べる。",
+          "example": "The research programme is funded externally by a charitable foundation.",
+          "translation": "その研究計画は、外部の慈善財団から資金提供を受けている。"
+        },
+        {
+          "pattern": "be imposed externally",
+          "use": "外部から規則や条件が課されることを述べる。",
+          "example": "The restrictions were imposed externally rather than agreed within the group.",
+          "translation": "制限は、集団内で合意されたのではなく、外部から課された。"
+        },
+        {
+          "pattern": "be assessed externally",
+          "use": "対象組織以外による評価を述べる。",
+          "example": "The project will be assessed externally to provide another perspective.",
+          "translation": "別の視点を得るため、その事業は外部から評価される予定だ。"
+        },
+        {
+          "pattern": "recruit externally",
+          "use": "組織外から採用することを述べる。",
+          "example": "The company chose to recruit externally for the specialist role.",
+          "translation": "その会社は、専門職を社外から採用することにした。"
+        }
+      ],
+      "notes": [
+        "外部からという由来を述べる語で、必ず外国からという意味ではない。externally funded のような副詞＋過去分詞は、通常 -ly 副詞と後続語の間にハイフンを入れない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 10,
+      "title": "【形容詞・薬剤の用途】外用の、身体の外側に使う",
+      "frequency": 5,
+      "register": [
+        "薬剤・製品表示の語彙。"
+      ],
+      "definition": "薬剤などを身体の外側に使用することに関する。体内に取り入れる用途と区別する語として表示に使われる。",
+      "patterns": [
+        "for external use",
+        "for external use only。"
+      ],
+      "collocations": [
+        {
+          "pattern": "for external use",
+          "use": "外用という用途区分を読む。",
+          "example": "The label describes the lotion as intended for external use.",
+          "translation": "その表示には、ローションは外用を目的とすると記されている。"
+        },
+        {
+          "pattern": "for external use only",
+          "use": "外用に限るという表示を読む。",
+          "example": "The container is marked \"For external use only.\"",
+          "translation": "容器には「外用専用」と表示されている。"
+        }
+      ],
+      "notes": [
+        "外用という語だけで、身体の外側のどこへでも安全に使えると判断しない。具体的な製品の用途・使い方・注意事項は、その表示や専門家の指示で確認する。会社の external communication などとは対象と基準が違う。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 11,
+      "title": "【形容詞】外面的な、表面的な、非本質的な",
+      "frequency": 4,
+      "register": [
+        "説明・評論・やや硬い表現。"
+      ],
+      "definition": "見える外側の特徴や、内側の性質・本質には触れない事柄に関する用法。形や外見の相違だけに注目する場合などに使う。external の全用法が重要でないことを意味するわけではない。",
+      "patterns": [
+        "external differences",
+        "external appearances",
+        "external trappings。"
+      ],
+      "collocations": [
+        {
+          "pattern": "external differences",
+          "use": "相違が外見的な部分に限られることを述べる。",
+          "example": "The external differences between the designs do not change their basic function.",
+          "translation": "設計の外見上の違いは、基本機能を変えるものではない。"
+        },
+        {
+          "pattern": "external appearances",
+          "use": "内実と区別した見かけを述べる。",
+          "example": "We should not judge a person's character by external appearances.",
+          "translation": "人柄を、外見だけで判断すべきではない。"
+        },
+        {
+          "pattern": "external trappings",
+          "use": "本質より外形的な付属物を強調する。",
+          "example": "He valued the external trappings of success more than the work itself.",
+          "translation": "彼は、仕事そのものよりも、成功を示す外形的な飾りを重視した。"
+        }
+      ],
+      "notes": [
+        "external factors のような外部由来という意味では、その要因が重要なこともある。この語義の非本質的という含みを、全ての external へ広げない。表面的という意味では superficial と近いが、superficial は理解や人柄の浅さへの批判にも使う。"
+      ],
+      "synonyms": [
+        {
+          "word": "outward",
+          "definition": "外から見える、外に示す。",
+          "frequency": 6,
+          "difference": "外に見える態度と心中を対比する人物描写にも使いやすい。external は技術的な外面や所属などにも広い。",
+          "example": "Her outward calm concealed her anxiety.",
+          "translation": "彼女は外見上は落ち着いていたが、不安を抱えていた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 12,
+      "title": "【形容詞】心や認識主体から独立した、外界の",
+      "frequency": 4,
+      "register": [
+        "哲学・認識についての説明。"
+      ],
+      "definition": "認識する人の心の中だけにあるものではなく、その外に存在すると捉えられる事物・現実に関する。哲学では、認識と対象の関係を論じる際に使う。",
+      "patterns": [
+        "the external world",
+        "external reality",
+        "objects external to the mind。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the external world",
+          "use": "心の内側と区別する外界を述べる。",
+          "example": "The philosopher asks how we gain knowledge of the external world.",
+          "translation": "その哲学者は、私たちが外界についてどのように知識を得るかを問うている。"
+        },
+        {
+          "pattern": "external reality",
+          "use": "主観の外にある現実という概念を述べる。",
+          "example": "The essay examines the relationship between perception and external reality.",
+          "translation": "その論考は、知覚と外的現実の関係を考察している。"
+        },
+        {
+          "pattern": "objects external to the mind",
+          "use": "心とは別に存在するものとして対象を示す。",
+          "example": "The theory distinguishes mental images from objects external to the mind.",
+          "translation": "その理論は、心的イメージと、心の外にある対象を区別している。"
+        }
+      ],
+      "notes": [
+        "この表現を使うことと、外界について特定の哲学的立場を証明することは別である。体の外側という物理的な説明とも、議論している境界が異なる。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 13,
+      "title": "【動詞：他動詞・externalize】思考や感情を外へ表す、外化する",
+      "frequency": 4,
+      "register": [
+        "心理・芸術・評論。やや硬い表現。"
+      ],
+      "definition": "心の中の考え・感情などを、発言・行動・表現として外に示す。内側で起きていることを他者にも観察できる形にする用法で、常に計画的な発表というわけではない。",
+      "patterns": [
+        "externalize feelings",
+        "externalize an idea",
+        "externalize something through something",
+        "be externalized in something。"
+      ],
+      "collocations": [
+        {
+          "pattern": "externalize feelings",
+          "use": "感情が外に現れることを述べる。",
+          "example": "The character externalizes his frustration through restless movement.",
+          "translation": "その登場人物は、落ち着かない動きによって、いら立ちを外に表している。"
+        },
+        {
+          "pattern": "externalize an idea",
+          "use": "考えを形にして示すことを述べる。",
+          "example": "Sketching helped her externalize an idea that had been difficult to explain.",
+          "translation": "スケッチを描くことで、彼女は説明しにくかった考えを形にして示すことができた。"
+        },
+        {
+          "pattern": "externalize something through something",
+          "use": "外化の手段となる表現を示す。",
+          "example": "The artist externalized his anxiety through abstract images.",
+          "translation": "その芸術家は、抽象的なイメージを通じて不安を外に表した。"
+        },
+        {
+          "pattern": "be externalized in something",
+          "use": "表れる思考・感情を主語として、その形を示す。",
+          "example": "Her sense of isolation was externalized in the poem's imagery.",
+          "translation": "彼女の孤立感は、その詩のイメージ表現に外化されていた。"
+        }
+      ],
+      "notes": [
+        "直接目的語を取る。英国綴り externalise も同じ語で、過去形は externalized／externalised。人を外へ追い出す一般的な動詞ではなく、この語義では思考・感情などの表現を扱う。internalize が価値観などを内面へ取り込むのに対し、externalize は表出を述べるが、全ての文脈で完全な逆操作になるわけではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "express",
+          "definition": "考え・感情などを言葉や行動で表す。",
+          "frequency": 9,
+          "difference": "広く日常的に使える。externalize は内側にあったものが外に観察できる形となる過程を、分析的に捉えやすい。",
+          "example": "She expressed her concern in a short letter.",
+          "translation": "彼女は、短い手紙で懸念を伝えた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 14,
+      "title": "【名詞：可算・externality】経済活動の外部性",
+      "frequency": 4,
+      "register": [
+        "経済学・政策論。"
+      ],
+      "definition": "経済活動が、その取引の当事者以外にもたらす利益や不利益のうち、市場価格に反映されていないもの。悪影響だけに限らず、第三者に便益が及ぶ場合も含む。",
+      "patterns": [
+        "a negative externality",
+        "a positive externality",
+        "generate externalities",
+        "the externalities of something。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a negative externality",
+          "use": "第三者が負う不利益を述べる。",
+          "example": "The study treats pollution affecting nearby residents as a negative externality.",
+          "translation": "その研究は、近隣住民に影響する汚染を、負の外部性として扱っている。"
+        },
+        {
+          "pattern": "a positive externality",
+          "use": "第三者に及ぶ便益を述べる。",
+          "example": "Knowledge that other firms gain from research can create a positive externality.",
+          "translation": "研究から他の企業が得る知識は、正の外部性を生むことがある。"
+        },
+        {
+          "pattern": "generate externalities",
+          "use": "活動が取引の外にも影響を生むことを述べる。",
+          "example": "Production can generate externalities that are not reflected in the product's price.",
+          "translation": "生産活動は、製品の価格に反映されない外部性を生むことがある。"
+        },
+        {
+          "pattern": "the externalities of something",
+          "use": "どの活動の外部性かを示す。",
+          "example": "The analysis considers the externalities of road transport.",
+          "translation": "その分析は、道路輸送の外部性を検討している。"
+        }
+      ],
+      "notes": [
+        "通常の取引相手へ支払う料金や、会社の外で発生した費用を全て externality と呼ぶわけではない。第三者への影響と価格への未反映が重要。正・負は、便益か不利益かという方向を示し、単純に会社の利益が増えるか減るかを表しているのではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 15,
+      "title": "【動詞：他動詞・externalize】費用を外部の負担にする",
+      "frequency": 3,
+      "register": [
+        "経済・環境・政策論。"
+      ],
+      "definition": "活動に伴う環境・社会的な費用などを、活動主体自身の負担に含めず、外部に負わせる。単に料金を外部業者へ支払うこととは異なる、経済・政策上の用法。",
+      "patterns": [
+        "externalize environmental costs",
+        "externalize social costs",
+        "externalize costs onto others。"
+      ],
+      "collocations": [
+        {
+          "pattern": "externalize environmental costs",
+          "use": "環境への負担を主体自身の費用に含めないことを述べる。",
+          "example": "The policy aims to prevent producers from externalizing environmental costs.",
+          "translation": "その政策は、生産者が環境費用を外部の負担にするのを防ぐことを目指している。"
+        },
+        {
+          "pattern": "externalize social costs",
+          "use": "社会に生じる負担の外部化を述べる。",
+          "example": "The report criticizes a business model that externalizes social costs.",
+          "translation": "その報告書は、社会的費用を外部の負担にする事業モデルを批判している。"
+        },
+        {
+          "pattern": "externalize costs onto others",
+          "use": "費用を他者の負担にするという関係を示す。",
+          "example": "A low price does not prove efficiency if the producer externalizes costs onto others.",
+          "translation": "生産者が費用を他者の負担にしているなら、価格が低いだけでは効率的だとは言えない。"
+        }
+      ],
+      "notes": [
+        "対象が感情なら外に表す語義、costs なら費用を外部負担にする語義となり、中心訳が変わる。具体的に誰が負担するか、どの政策で対処するかは個別の分析事項である。外注する outsource と同義ではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 16,
+      "title": "【名詞：不可算・externalization】思考や感情の外化、外在化",
+      "frequency": 3,
+      "register": [
+        "心理・芸術・評論。硬い表現。"
+      ],
+      "definition": "心中の思考・感情などが、言動や作品などの外に見える形で表されること。その表出の過程を名詞で扱う。",
+      "patterns": [
+        "the externalization of something",
+        "externalization through art",
+        "a process of externalization。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the externalization of something",
+          "use": "外に表される感情・考えを示す。",
+          "example": "The scene depicts the externalization of the character's fear.",
+          "translation": "その場面は、登場人物の恐れが外に表れる様子を描いている。"
+        },
+        {
+          "pattern": "externalization through art",
+          "use": "芸術を手段とする外化を述べる。",
+          "example": "The essay discusses externalization through art rather than direct confession.",
+          "translation": "その論考は、直接の告白ではなく、芸術を通じた外化を論じている。"
+        },
+        {
+          "pattern": "a process of externalization",
+          "use": "内側から外へ表される過程を述べる。",
+          "example": "The drawings record a process of externalization over several months.",
+          "translation": "その一連の絵は、数か月にわたる外化の過程を記録している。"
+        }
+      ],
+      "notes": [
+        "この過程を表す意味では不可算。a process of externalization の a は process に付いている。英国綴り externalisation もあり、externality とは意味も語形も別である。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 17,
+      "title": "【名詞：通常複数形】外側の部分、外見的な事柄：externals",
+      "frequency": 2,
+      "register": [
+        "硬い表現・評論。"
+      ],
+      "definition": "物や人の外側に現れる部分・特徴をまとめて指す。内容や内面的な性質と対比して、外見だけの事柄を述べる場合がある。",
+      "patterns": [
+        "the externals of something",
+        "be concerned with externals",
+        "judge by externals。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the externals of something",
+          "use": "外側に現れる特徴をまとめて述べる。",
+          "example": "The externals of the ceremony had changed, but its purpose remained the same.",
+          "translation": "儀式の外形は変わっていたが、その目的は同じままだった。"
+        },
+        {
+          "pattern": "be concerned with externals",
+          "use": "外見的な事柄に関心が向いていることを述べる。",
+          "example": "The critic argued that the production was too concerned with externals.",
+          "translation": "批評家は、その作品が外面的な事柄にこだわりすぎていると論じた。"
+        },
+        {
+          "pattern": "judge by externals",
+          "use": "外見だけで判断することを述べる。",
+          "example": "It is easy to judge by externals and miss what really matters.",
+          "translation": "外見だけで判断して、本当に重要なことを見落とすのは簡単だ。"
+        }
+      ],
+      "notes": [
+        "ここでは名詞で、通常 externals と複数形を使う。external features の external は名詞を修飾する形容詞であり、形が近くても構造は異なる。日常会話では appearances や outward features などの方が意味を直接示せる場合もある。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 18,
+      "title": "【名詞：不可算・externality】認識主体の外に存在する性質",
+      "frequency": 1,
+      "register": [
+        "哲学。専門的。"
+      ],
+      "definition": "知覚・認識する主体の外に対象が存在するという性質。哲学的な文脈で、心の中の経験とその外にあるものとの関係を論じる。",
+      "patterns": [
+        "the externality of something",
+        "externality to the perceiving subject。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the externality of something",
+          "use": "対象が主体の外にあるという性質を論じる。",
+          "example": "The essay questions the externality of the objects we perceive.",
+          "translation": "その論考は、私たちが知覚する対象が主体の外に存在するという性質を問い直している。"
+        },
+        {
+          "pattern": "externality to the perceiving subject",
+          "use": "何に対して外部なのかを示す。",
+          "example": "The argument concerns the object's externality to the perceiving subject.",
+          "translation": "その議論は、対象が知覚する主体の外にあるという性質に関わる。"
+        }
+      ],
+      "notes": [
+        "この性質の意味では不可算。経済学の a positive externality のような個別の第三者効果と同じ意味ではない。用語を使うことだけで、特定の哲学的立場が証明されるわけではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}
