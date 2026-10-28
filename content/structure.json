@@ -1,0 +1,550 @@
+{
+  "word": "structure",
+  "slug": "structure",
+  "ipa": "米: /ˈstrʌktʃər/｜英: /ˈstrʌktʃə/。2音節で、第1音節に強勢がある。第1音節の母音 /ʌ/ は共通で、第2音節末が米では /ər/、ここに示す英の単独形では /ə/ になる。綴りの t と u を一字ずつ読むのではなく、/tʃ/ という音を含む。",
+  "lead": "複数の部分がどのようにつながり、配置され、全体を成しているか。構成のあり方として不可算で扱うほか、一つの構成方式や複数の型として数えることもできる。",
+  "updated": "2026-10-26",
+  "notion_url": "",
+  "pronunciation": [
+    "structures の語尾は /z/、structured の -ed は /d/ で、どちらも音節を増やさない。structuring は米・英とも /ˈstrʌktʃərɪŋ/ という3音節の形があり、母音が続くので英の形にも /r/ が現れる。structural は /ˈstrʌktʃərəl/、structurally は /ˈstrʌktʃərəli/ で、強勢は第1音節に残る。"
+  ],
+  "etymology": [
+    "ラテン語 structura に由来し、その背景に struere「積み上げる・組み立てる」がある。「組み立て」という発想は、造られた物と、部分同士の配置・関係という現代の意味にも共通する。英語では古くから名詞が使われ、動詞の一般的な使用は名詞より後に広がった。同じ struere の系列に construct「組み立てる・建設する」と instruct「教える・指示する」があるが、現代の意味や目的語の取り方は同一ではない。"
+  ],
+  "formation": [
+    {
+      "term": "structured",
+      "description": "structure の過去形・過去分詞。計画や組織が整った状態を表す形容詞としての用法は語義5を参照。"
+    },
+    {
+      "term": "structural",
+      "description": "structure に対応する形容詞。物や制度の構造に関することを表し、主に名詞の前で使う。"
+    },
+    {
+      "term": "structurally",
+      "description": "structural に -ly が付いた副詞。構造上、どのような性質があるかを述べる。"
+    },
+    {
+      "term": "unstructured",
+      "description": "structured に否定の un- が付いた形容詞。組織・計画・枠組みが定まっていないことを表す。"
+    },
+    {
+      "term": "restructure",
+      "description": "re- と structure に関係する動詞で、構造や組織を組み直すこと。re- が、既存の構成を改めることを明示する。structure 自体は、組み立てる対象が新しいものか既存のものかを指定しない。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "部分が結び付いて、一つの全体を成す組み立て。つながり方そのもの、組み上がった物、その組み立てを整える行為や状態へ展開し、unstructured はそのような構成が定まっていないことを表す。"
+    },
+    {
+      "type": "item",
+      "text": "部分の組み立て方としての配置・関係 → 「構造・構成・仕組み」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "部分の組み立てでできた全体 → 「構造物・組み合わさってできたもの」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "部分の組み立てにある計画的まとまり → 「まとまり・秩序・計画的な構成」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "部分の組み立てを整える行為 → 「構成する・体系立てる」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "部分の組み立てが整った状態 → 「構成が整った・計画的に組織された」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "部分の組み立てに関わる性質 → 「構造上の・組織の仕組みに関する」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "部分の組み立てに限った評価の観点 → 「構造上・構成の点で」（語義7）"
+    },
+    {
+      "type": "item",
+      "text": "部分の組み立てが定まらない状態 → 「決まった構成のない・自由形式の」（語義8）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞：不可算・可算】構造・構成・仕組み",
+      "frequency": 8,
+      "register": [
+        "一般・建築・社会・言語・自然科学。"
+      ],
+      "definition": "複数の部分がどのようにつながり、配置され、全体を成しているか。構成のあり方として不可算で扱うほか、一つの構成方式や複数の型として数えることもできる。",
+      "patterns": [
+        "the structure of something",
+        "a complex structure",
+        "organizational structure",
+        "sentence structure",
+        "molecular structure",
+        "data structure",
+        "changes in the structure of something。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the structure of something",
+          "use": "何の構成や仕組みかを示す。",
+          "example": "The diagram explains the structure of the bridge.",
+          "translation": "その図は、橋の構造を説明している。"
+        },
+        {
+          "pattern": "a complex structure",
+          "use": "一つの複雑な構成を持つと述べる。",
+          "example": "The organization has a complex structure with several levels of responsibility.",
+          "translation": "その組織は、責任の段階が幾つもある複雑な構成を持っている。"
+        },
+        {
+          "pattern": "organizational structure",
+          "use": "組織内部の構成や関係を述べる。",
+          "example": "The merger changed the company’s organizational structure.",
+          "translation": "合併によって、その会社の組織構造は変わった。"
+        },
+        {
+          "pattern": "sentence structure",
+          "use": "文を成す要素の組み合わせ方を指す。",
+          "example": "Changing the sentence structure made the paragraph easier to read.",
+          "translation": "文の構成を変えると、その段落は読みやすくなった。"
+        },
+        {
+          "pattern": "molecular structure",
+          "use": "分子を成す原子などのつながり方を指す。",
+          "example": "The two compounds have different molecular structures.",
+          "translation": "その二つの化合物は、分子構造が異なる。"
+        },
+        {
+          "pattern": "changes in the structure of something",
+          "use": "構成の変化を述べる。",
+          "example": "The study examines changes in the structure of the local economy.",
+          "translation": "その研究は、地域経済の構造変化を調べている。"
+        },
+        {
+          "pattern": "data structure",
+          "use": "コンピューターで扱う情報の組織化の仕方を指す。",
+          "example": "The program stores each record in a simple data structure.",
+          "translation": "そのプログラムは、各レコードを簡単なデータ構造に格納する。"
+        }
+      ],
+      "notes": [
+        "structure は、単に材料や要素が何であるかだけでなく、それらの関係・配置を含む。a structure、different structures は構成の型などを区別する形。the structure of the building は建物の組み立て方であり、語義2の a structure という建造物そのものと区別する。構造があることと、その構造が分かりやすく優れていることは別である。data structure は情報を整理して扱う構成を指すが、どの方式を採るか、どの操作が速いかまで、この語だけでは決まらない。"
+      ],
+      "synonyms": [
+        {
+          "word": "framework",
+          "definition": "全体を支え、形や展開の基礎を与える骨組み。",
+          "frequency": 7,
+          "difference": "structure は部分全体の配置や関係、framework は支えとなる基本的な骨組みに重点を置く。具体物にも、検討や制度の基本枠組みにも使う。",
+          "example": "The agreement provides a framework for future cooperation.",
+          "translation": "その協定は、今後の協力の枠組みを提供する。"
+        },
+        {
+          "word": "composition",
+          "definition": "全体を成している部分・成分の組み合わせ。",
+          "frequency": 6,
+          "difference": "何が、どのような要素として含まれるかを捉えやすい。structure はそれらがどうつながり配置されるかに焦点を置く。",
+          "example": "The chemical composition of the soil varies across the site.",
+          "translation": "土壌の化学組成は、その敷地内でも場所によって異なる。"
+        },
+        {
+          "word": "construction",
+          "definition": "物が造られた方法や作り。",
+          "frequency": 6,
+          "difference": "この用法は物の造り方を述べ、建設する行為自体を表す construction と区別する。structure は社会や言語などの関係の組み方にも広く使う。",
+          "example": "The boat’s wooden construction made it relatively light.",
+          "translation": "その船は木造だったので、比較的軽かった。"
+        },
+        {
+          "word": "fabric",
+          "definition": "建物や社会などを形づくる基本的な構成。",
+          "frequency": 5,
+          "difference": "この意味ではやや改まった語で、基盤を成す部分全体をまとめて捉える。衣服の布地という別義はここでの比較に含めない。",
+          "example": "The reforms affected the social fabric of the community.",
+          "translation": "その改革は、地域社会の基本的な構成に影響した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞：可算】構造物・組み合わさってできたもの",
+      "frequency": 7,
+      "register": [
+        "建造物・物の構成、生物の形態。"
+      ],
+      "definition": "複数の部分がつながって一つのまとまりを成すもの。特に建物などの造られた物を指すが、生物の体の一部など、自然に形成されたものにも使う。",
+      "patterns": [
+        "a wooden structure",
+        "build a structure",
+        "existing structures",
+        "a biological structure。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a wooden structure",
+          "use": "材料を添えて構造物を指す。",
+          "example": "A small wooden structure stood at the edge of the field.",
+          "translation": "畑の端に、小さな木造の建物が立っていた。"
+        },
+        {
+          "pattern": "build a structure",
+          "use": "部分を組み合わせて構造物を造る。",
+          "example": "The children built a simple structure from sticks and string.",
+          "translation": "子供たちは、棒とひもで簡単な構造物を作った。"
+        },
+        {
+          "pattern": "existing structures",
+          "use": "すでにある構造物をまとめて指す。",
+          "example": "The plan preserves the existing structures beside the river.",
+          "translation": "その計画では、川沿いの既存の構造物を残す。"
+        },
+        {
+          "pattern": "a biological structure",
+          "use": "生体を構成するまとまりを指す。",
+          "example": "The leaf is a biological structure made up of several types of tissue.",
+          "translation": "葉は、幾種類かの組織から成る生体の構造体だ。"
+        }
+      ],
+      "notes": [
+        "可算なので一つなら a structure、複数なら structures。建築物に限るという条件はないため、屋根や壁のない橋や塔にも使える。自然物の用法があることから、structure 自体を必ず「人が建設したもの」と定義しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "building",
+          "definition": "屋根や壁を備え、人が利用する建物。",
+          "frequency": 9,
+          "difference": "structure より対象が狭く、家・事務所・工場などを指す。structure には橋や生体の構造体なども含まれる。",
+          "example": "The building contains a library and several meeting rooms.",
+          "translation": "その建物には、図書館と幾つかの会議室が入っている。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞：不可算・可算】まとまり・秩序・計画的な構成",
+      "frequency": 7,
+      "register": [
+        "文章・学習・日常の計画。"
+      ],
+      "definition": "文章、活動、暮らしなどの各部分がつながり、整理・計画されていること。また、そのまとまりを与える一つの構成案。",
+      "patterns": [
+        "a lack of structure",
+        "give structure to something",
+        "need a structure",
+        "a clear structure。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a lack of structure",
+          "use": "まとまりや計画性の不足を述べる。",
+          "example": "A lack of structure made the presentation difficult to follow.",
+          "translation": "構成にまとまりがなく、その発表は話の流れを追いにくかった。"
+        },
+        {
+          "pattern": "give structure to something",
+          "use": "活動などに計画やまとまりを与える。",
+          "example": "Regular classes give structure to her week.",
+          "translation": "定期的な授業のおかげで、彼女の一週間の生活にリズムが生まれている。"
+        },
+        {
+          "pattern": "need a structure",
+          "use": "整理のための一つの構成が必要だと述べる。",
+          "example": "Your essay needs a structure that connects the examples to the main argument.",
+          "translation": "その小論文には、例を中心的な主張につなげる構成が必要だ。"
+        },
+        {
+          "pattern": "a clear structure",
+          "use": "分かりやすいまとまりを述べる。",
+          "example": "The course has a clear structure, with each lesson building on the previous one.",
+          "translation": "その講座は、前の授業を土台に次へ進む、明確な構成になっている。"
+        }
+      ],
+      "notes": [
+        "まとまりという性質を述べるときは不可算の structure、具体的な構成案を一つとして捉えるときは a structure と使い分けられる。「構造が全くない」という物理的な意味ではなく、説明や活動に整理された流れが足りないという評価になる場合がある。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞：他動詞】構成する・体系立てる",
+      "frequency": 7,
+      "register": [
+        "文章・教育・組織・業務。"
+      ],
+      "definition": "内容や活動の各部分を、ある仕組み・順序・枠組みに従う形に組み立てる。目的語は構成する対象で、受動態もよく使われる。",
+      "patterns": [
+        "structure something",
+        "structure something around something",
+        "structure something into 〈部分〉",
+        "be structured as something",
+        "be structured according to something",
+        "structure something + 〈方法の副詞〉。"
+      ],
+      "collocations": [
+        {
+          "pattern": "structure something",
+          "use": "文章など全体の構成を作る。",
+          "example": "She structured the report before writing the first draft.",
+          "translation": "彼女は初稿を書く前に、報告書の構成を組み立てた。"
+        },
+        {
+          "pattern": "structure something around something",
+          "use": "中心となる主題や軸に沿って組み立てる。",
+          "example": "The teacher structured the course around practical problems.",
+          "translation": "教師は、実践的な問題を軸にその講座を構成した。"
+        },
+        {
+          "pattern": "structure something into 〈部分〉",
+          "use": "いくつかの部分に分けて組み立てる。",
+          "example": "We structured the workshop into three sessions.",
+          "translation": "私たちは、そのワークショップを三つのセッションに分けて構成した。"
+        },
+        {
+          "pattern": "be structured as something",
+          "use": "どのような全体の形に構成されているかを述べる。",
+          "example": "The exhibition is structured as a journey through the city’s history.",
+          "translation": "その展示は、街の歴史をたどる旅という形に構成されている。"
+        },
+        {
+          "pattern": "be structured according to something",
+          "use": "構成の基準や原則を示す。",
+          "example": "The organization is structured according to the needs of each region.",
+          "translation": "その組織は、各地域の必要に応じて編成されている。"
+        },
+        {
+          "pattern": "structure something 〈方法の副詞〉",
+          "use": "どの順序・方法で構成するかを述べる。",
+          "example": "She structured the account chronologically.",
+          "translation": "彼女は、その説明を時系列に沿って構成した。"
+        }
+      ],
+      "notes": [
+        "around は中心となる軸、into は分けた構成部分、as は全体をどのような形にするか、according to は構成の基準を示す。これらを同じ意味の前置詞として入れ替えない。be structured は対象を主語にする受動構文として使え、単に structure の自動詞形があるということではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "organize",
+          "definition": "部分や活動を秩序ある形にまとめる。",
+          "frequency": 8,
+          "difference": "structure と重なるが、organize は行事の手配や人員の取りまとめにも使う。structure は全体の内部構成の組み立てを前面に出す。",
+          "example": "They organized the notes by topic.",
+          "translation": "彼らは、メモを話題ごとに整理した。"
+        },
+        {
+          "word": "arrange",
+          "definition": "物や内容をある順番や位置に並べる。",
+          "frequency": 8,
+          "difference": "structure は全体の仕組みを組むこと、arrange は具体的な並べ方や順序に注目する。物を少し並べ直すだけでも arrange は使える。",
+          "example": "She arranged the photographs in chronological order.",
+          "translation": "彼女は、写真を年代順に並べた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【形容詞：structured】構成が整った・計画的に組織された",
+      "frequency": 6,
+      "register": [
+        "教育・活動・手順・組織。"
+      ],
+      "definition": "活動や仕組みが、一定の計画や明確な構成に従うように整えられている。構成を作る行為ではなく、その結果の性質・状態を述べる。",
+      "patterns": [
+        "a structured programme",
+        "be more structured",
+        "a highly structured procedure",
+        "a loosely structured activity。限定・叙述の両用。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a structured programme",
+          "use": "計画的に組織されたプログラムを述べる。",
+          "example": "New staff follow a structured training programme.",
+          "translation": "新しい職員は、体系立てられた研修プログラムに沿って学ぶ。"
+        },
+        {
+          "pattern": "be more structured",
+          "use": "構成や計画性の程度を比較する。",
+          "example": "The second course was more structured than the first.",
+          "translation": "二つ目の講座は、最初の講座より構成が整っていた。"
+        },
+        {
+          "pattern": "a highly structured procedure",
+          "use": "手順が細かく体系化されていることを述べる。",
+          "example": "The team uses a highly structured procedure for handling complaints.",
+          "translation": "そのチームは、苦情に対応するための厳密に体系化された手順を用いている。"
+        },
+        {
+          "pattern": "a loosely structured activity",
+          "use": "緩やかな枠組みがある活動を述べる。",
+          "example": "The workshop ended with a loosely structured group activity.",
+          "translation": "ワークショップは、緩やかな枠組みに沿ったグループ活動で終わった。"
+        }
+      ],
+      "notes": [
+        "structured は動詞の過去分詞でもあるが、more structured のように構成の程度を比べる用法は形容詞として捉えられる。構成があることと、その構成が望ましいことは別であり、highly structured がいつも最良という意味ではない。a structured programme にハイフンは入れない。ここでの programme は英国式の綴りで、米国式では program を使う。"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "unstructured",
+          "definition": "一定の構成や枠組みが定まっていない。",
+          "frequency": 5,
+          "difference": "組織化・計画的な構成という同じ軸で structured と対照される。意図的に自由な進め方を選ぶ場合もあり、必ず悪い評価にはならない。",
+          "example": "The final session was deliberately unstructured.",
+          "translation": "最後のセッションは、意図的に決まった構成を設けずに行われた。"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "【形容詞：structural】構造上の・組織の仕組みに関する",
+      "frequency": 6,
+      "register": [
+        "建築・組織・社会・分析。"
+      ],
+      "definition": "物の造りや、全体を成す部分の配置・つながり方に関係する。建物などの物理的構造にも、社会や制度の構成にも使う。",
+      "patterns": [
+        "structural damage",
+        "structural changes in something",
+        "structural analysis",
+        "be structural。通常は名詞の前で使う。"
+      ],
+      "collocations": [
+        {
+          "pattern": "structural damage",
+          "use": "物の構造に関わる損傷を述べる。",
+          "example": "The inspection revealed structural damage to the bridge.",
+          "translation": "点検により、その橋に構造上の損傷が見つかった。"
+        },
+        {
+          "pattern": "structural changes in something",
+          "use": "全体の仕組みに関わる変化を述べる。",
+          "example": "The reforms brought structural changes in the organization.",
+          "translation": "その改革によって、組織の仕組みに変化が生じた。"
+        },
+        {
+          "pattern": "structural analysis",
+          "use": "構成部分やその関係の分析を述べる。",
+          "example": "The researchers carried out a structural analysis of the text.",
+          "translation": "研究者たちは、その文章の構造分析を行った。"
+        },
+        {
+          "pattern": "be structural",
+          "use": "問題などが構造に関係する性質だと述べる。",
+          "example": "The damage is structural, not merely cosmetic.",
+          "translation": "その損傷は単に見た目の問題ではなく、構造に関わるものだ。"
+        }
+      ],
+      "notes": [
+        "主に名詞を前から修飾するが、通常そう使うことと、述語に全く使えないことは別である。structured が一定の構成に整理された状態なのに対し、structural は構造に関するという関係を表す。構造上の原因や変更を述べる語で、それだけで変更の規模や良し悪しまで一律に決まるわけではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【副詞：structurally】構造上・構成の点で",
+      "frequency": 5,
+      "register": [
+        "建築・比較・言語・分析。"
+      ],
+      "definition": "何かの性質を、造りや構成の面に限って述べる。全ての面で同じ評価になるとは限らない。",
+      "patterns": [
+        "structurally sound",
+        "structurally different from something",
+        "structurally similar。"
+      ],
+      "collocations": [
+        {
+          "pattern": "structurally sound",
+          "use": "構造の面では健全であると述べる。",
+          "example": "The old building is structurally sound, although its wiring needs replacement.",
+          "translation": "その古い建物は構造上は健全だが、配線は交換する必要がある。"
+        },
+        {
+          "pattern": "structurally different from something",
+          "use": "比較対象と構造が異なることを述べる。",
+          "example": "This design is structurally different from the earlier version.",
+          "translation": "この設計は、以前の版とは構造が異なる。"
+        },
+        {
+          "pattern": "structurally similar",
+          "use": "構成の類似を述べる。",
+          "example": "The two languages are structurally similar despite their different vocabularies.",
+          "translation": "その二つの言語は、語彙が異なる一方で、構造上は似ている。"
+        }
+      ],
+      "notes": [
+        "副詞なので、sound、different、similar などの形容詞の評価範囲を構造面へ限定できる。structurally sound は設備や用途を含む全ての安全性の保証という意味ではない。structural damage は形容詞が名詞を修飾し、structurally different は副詞が形容詞を修飾する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【形容詞：unstructured】決まった構成のない・自由形式の",
+      "frequency": 5,
+      "register": [
+        "面接・会話・活動・計画。"
+      ],
+      "definition": "活動や話の進め方などに、一定の構成・組織立て・決まった枠組みがない。自由さを意図している場合も、まとまりの不足を指摘する場合もある。",
+      "patterns": [
+        "an unstructured interview",
+        "an unstructured discussion",
+        "unstructured time",
+        "be unstructured。限定・叙述の両用。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an unstructured interview",
+          "use": "決まった枠組みに縛られない面接を述べる。",
+          "example": "The researcher chose an unstructured interview so that participants could introduce their own topics.",
+          "translation": "研究者は、参加者が自分で話題を持ち出せるよう、自由形式の面接を選んだ。"
+        },
+        {
+          "pattern": "an unstructured discussion",
+          "use": "話の進め方に決まった構成がない議論を述べる。",
+          "example": "An unstructured discussion followed the presentation.",
+          "translation": "発表の後、自由な形式で議論が行われた。"
+        },
+        {
+          "pattern": "unstructured time",
+          "use": "活動を細かく組織していない時間を述べる。",
+          "example": "The schedule includes unstructured time for participants to explore the town.",
+          "translation": "その日程には、参加者が街を自由に見て回れる時間が含まれている。"
+        },
+        {
+          "pattern": "be unstructured",
+          "use": "まとまりの不足として構成を評価する。",
+          "example": "Her first draft was unstructured, so she reorganized it before revising the sentences.",
+          "translation": "彼女の初稿は構成にまとまりがなかったため、文を直す前に全体を組み直した。"
+        }
+      ],
+      "notes": [
+        "un- が structured の性質を否定する。unstructured な活動を前もって計画することもできるため、必ず unplanned「予定していなかった」と同じではない。面接の専門的な実施条件や評価方法まで、この形容詞だけから推測しない。"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "structured",
+          "definition": "一定の計画や構成に従って組織された。",
+          "frequency": 6,
+          "difference": "構成や組織立ての有無・程度という同じ軸で unstructured と対照される。structured の方が常に適切とは限らず、目的に応じて選ばれる。",
+          "example": "The beginners followed a structured series of exercises.",
+          "translation": "初心者たちは、体系立てられた一連の練習に取り組んだ。"
+        }
+      ]
+    }
+  ]
+}
