@@ -1,0 +1,1222 @@
+{
+  "word": "stable",
+  "slug": "stable",
+  "ipa": "米・英: /ˈsteɪbl/。2音節で第1音節に強勢を置く。形容詞・名詞・動詞で発音を変えない。綴りの末尾の e を独立した母音として読まない。stables は /ˈsteɪblz/、stabled は /ˈsteɪbld/、stabling は /ˈsteɪblɪŋ/。",
+  "lead": "物がバランスや位置を保ち、容易には動いたり倒れたりしない。外から力が加わっても状態を保ちやすいことを述べる場合もある。",
+  "updated": "2026-10-28",
+  "notion_url": "",
+  "pronunciation": [
+    "stability は /stəˈbɪləti/。4音節で第2音節に主強勢がある。stable と比べて第1音節の母音が /eɪ/ から /ə/ になり、主強勢も移る。unstable は /ʌnˈsteɪbl/、instability は /ˌɪnstəˈbɪləti/。否定の語形が un- と in- で異なる点にも注意する。",
+    "stabilize は /ˈsteɪbəlaɪz/、destabilize は /ˌdiːˈsteɪbəlaɪz/。前者は第1音節、後者は第2音節に主強勢がある。後者の第1音節には第二強勢を示している。"
+  ],
+  "etymology": [
+    "形容詞の stable はラテン語 stabilis に由来し、「立つ」に関係する stare へさかのぼる。一方、馬小屋を表す名詞は、古フランス語 estable を経てラテン語 stabulum に由来する。遠い語根に関係はあっても、現代英語の「安定した」が「馬小屋」から直接できたわけではない。形容詞の系列には stability、stabilize、unstable などがあり、馬小屋の名詞からは馬を収容する動詞の用法がある。"
+  ],
+  "formation": [
+    {
+      "term": "stability",
+      "description": "安定という状態・性質を表す名詞。語末をそのまま -ity に替えるだけでなく、発音と強勢も変わる。"
+    },
+    {
+      "term": "stabilize",
+      "description": "安定する、安定させるという動詞。英では stabilise とも綴る。"
+    },
+    {
+      "term": "stabilization",
+      "description": "安定する・安定させる過程を表す名詞。英では stabilisation とも綴る。"
+    },
+    {
+      "term": "stabilizer",
+      "description": "安定させる装置や物質。英では stabiliser とも綴り、複数形では自転車の補助輪も指す。"
+    },
+    {
+      "term": "stabilizers",
+      "description": "stabilizer の複数形。英では自転車の補助輪を指す用法がある。"
+    },
+    {
+      "term": "stably",
+      "description": "安定した状態・仕方で、という副詞。"
+    },
+    {
+      "term": "unstable",
+      "description": "安定していない、変動・転倒・変化などを起こしやすいという形容詞。"
+    },
+    {
+      "term": "instability",
+      "description": "不安定さを表す名詞。分野によって具体的な不安定現象を instabilities と数えることもある。"
+    },
+    {
+      "term": "destabilize",
+      "description": "不安定にするという他動詞。英では destabilise とも綴る。"
+    },
+    {
+      "term": "destabilized",
+      "description": "destabilize の過去形・過去分詞。受動態では不安定にされたことを表す。"
+    },
+    {
+      "term": "stabled",
+      "description": "馬を収容する動詞 stable の過去形・過去分詞。安定させる stabilized とは別である。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "状態や均衡が容易に崩れずに保たれること。形容詞とその関連語は、安定した性質、その性質を作る過程、保つための物、安定性の欠如へ広がる。語義5〜10の馬小屋を中心とする名詞・動詞・慣用表現の系列は、現代の語彙的意味ではこの核から導けない同綴異義の系列として別に覚える。遠い語根の関係だけで、馬小屋と安定性を一つの現代義にまとめない。"
+    },
+    {
+      "type": "item",
+      "text": "状態を保つ物の位置やバランス → 「ぐらつかない、倒れたり動いたりしにくい」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "状態を保つ状況や関係 → 「状態が安定した、大きく変動・悪化しにくい」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "状態を保つ人の感情や行動 → 「情緒が安定した、落ち着いた」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "状態を保つ化学的・物理的性質 → 「化学的・物理的な状態を変えにくい、安定した」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "状態を保つ性質そのもの → 「安定、安定性」（語義11）"
+    },
+    {
+      "type": "item",
+      "text": "状態を保てるようになる・する変化 → 「安定する、安定させる」（語義12）"
+    },
+    {
+      "type": "item",
+      "text": "状態を保てるようにする過程 → 「安定化」（語義13）"
+    },
+    {
+      "type": "item",
+      "text": "状態を保つための機械的な装置 → 「安定装置、姿勢や動きを安定させる部品」（語義14）"
+    },
+    {
+      "type": "item",
+      "text": "状態を保つための添加物 → 「安定剤」（語義15）"
+    },
+    {
+      "type": "item",
+      "text": "状態を保つために付ける補助の車輪 → 「自転車の補助輪」（語義16）"
+    },
+    {
+      "type": "item",
+      "text": "状態を保てず動きやすい性質 → 「ぐらつく、倒れたり動いたりしやすい」（語義17）"
+    },
+    {
+      "type": "item",
+      "text": "状態を保てず変動しやすい状況 → 「変動・崩壊しやすい、不安定な」（語義18）"
+    },
+    {
+      "type": "item",
+      "text": "状態を保ちにくい人の感情や行動 → 「情緒や行動が不安定な」（語義19）"
+    },
+    {
+      "type": "item",
+      "text": "状態を保ちにくい化学的・物理的性質 → 「化学的・物理的な状態が変わりやすい」（語義20）"
+    },
+    {
+      "type": "item",
+      "text": "状態を保ちにくい性質や現象 → 「不安定さ、不安定な現象」（語義21）"
+    },
+    {
+      "type": "item",
+      "text": "状態を保ちにくくする作用 → 「不安定にする」（語義22）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【形容詞】ぐらつかない、倒れたり動いたりしにくい",
+      "frequency": 7,
+      "register": [
+        "一般・物理的な安全性や構造の記述。"
+      ],
+      "definition": "物がバランスや位置を保ち、容易には動いたり倒れたりしない。外から力が加わっても状態を保ちやすいことを述べる場合もある。",
+      "patterns": [
+        "a stable platform",
+        "a stable surface",
+        "remain stable",
+        "stable enough to do something。限定・叙述の両方。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a stable platform",
+          "use": "作業などをする台がぐらつかないことを述べる。",
+          "example": "The equipment needs a stable platform to prevent vibration.",
+          "translation": "振動を防ぐため、その機器にはぐらつかない台が必要だ。"
+        },
+        {
+          "pattern": "a stable surface",
+          "use": "物を置く面の安定性を述べる。",
+          "example": "Place the model on a flat, stable surface.",
+          "translation": "模型を平らで安定した面に置いてください。"
+        },
+        {
+          "pattern": "remain stable",
+          "use": "力が加わった際も姿勢や位置を保つことを述べる。",
+          "example": "The boat remained stable as the passengers moved around.",
+          "translation": "乗客が動き回っても、その船は安定していた。"
+        },
+        {
+          "pattern": "stable enough to do something",
+          "use": "ある行為が可能な程度に安定していることを述べる。",
+          "example": "The table was stable enough to support the display.",
+          "translation": "そのテーブルは、展示物を支えられる程度には安定していた。"
+        }
+      ],
+      "notes": [
+        "stable は重い・硬いことそのものではない。軽くても倒れにくい物は stable と言えるし、重くてもバランスが悪ければ unstable であり得る。比較には more stable／most stable のほか stabler／stablest という形もある。「stable と書いてあるから安全」という判断を、構造や使用条件の確認に代用しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "steady",
+          "definition": "ぐらついたり大きく動いたりしない。",
+          "frequency": 7,
+          "difference": "動きや保持の一定さに注目でき、hold something steady のように使う。stable は位置やバランスを崩しにくい性質を述べる場合に使う。",
+          "example": "Please hold the camera steady while I adjust the light.",
+          "translation": "照明を調整する間、カメラを動かさずに持っていてください。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unstable",
+          "definition": "動いたり倒れたりしやすく、安定していない。",
+          "frequency": 6,
+          "difference": "バランスや位置を保てるかという同じ軸で対立する。必ずすでに倒れているという意味ではない。",
+          "example": "The stack of boxes was unstable and began to lean.",
+          "translation": "積み上げた箱は不安定で、傾き始めた。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【形容詞】状態が安定した、大きく変動・悪化しにくい",
+      "frequency": 8,
+      "register": [
+        "一般・報道・経済・生活。患者の状態についての記述にも使う。"
+      ],
+      "definition": "状況・関係・価格などが大きく変わらず、一定の状態を保っている。崩壊や悪化が起こりにくいという観点でも使うが、その状態自体が良いことまでは必須でない。",
+      "patterns": [
+        "stable prices",
+        "a stable relationship",
+        "a stable government",
+        "remain stable",
+        "in a stable condition。"
+      ],
+      "collocations": [
+        {
+          "pattern": "stable prices",
+          "use": "価格に大きな変動がないことを述べる。",
+          "example": "Prices remained stable throughout the summer.",
+          "translation": "夏の間、価格は安定していた。"
+        },
+        {
+          "pattern": "a stable relationship",
+          "use": "人間関係が継続して落ち着いていることを述べる。",
+          "example": "They have built a stable relationship based on mutual trust.",
+          "translation": "二人は、互いの信頼に基づく安定した関係を築いている。"
+        },
+        {
+          "pattern": "a stable government",
+          "use": "政権が容易に崩れず機能していることを述べる。",
+          "example": "The country needed a stable government to carry out the reforms.",
+          "translation": "改革を実行するため、その国には安定した政権が必要だった。"
+        },
+        {
+          "pattern": "remain stable",
+          "use": "指標などの状態が大きく変わらないことを述べる。",
+          "example": "Demand remained stable even after the new competitor entered the market.",
+          "translation": "新しい競合が市場に参入した後も、需要は安定していた。"
+        },
+        {
+          "pattern": "in a stable condition",
+          "use": "患者の容体に大きな悪化がないと報じる。",
+          "example": "The hospital reported that the patient was in a stable condition.",
+          "translation": "病院は、患者の容体は安定していると発表した。"
+        }
+      ],
+      "notes": [
+        "stable は「高い」「低い」「理想的」とは別の軸である。prices are stable でも価格が高い場合はある。患者の stable は容体が悪化していないことを表し得るが、健康・治癒・危険なしを意味しない。文脈ごとの評価指標や医学的な判断を、この形容詞だけで補わない。permanent「永続的な」とも同じではなく、安定した状態が今後ずっと続くとは限らない。"
+      ],
+      "synonyms": [
+        {
+          "word": "constant",
+          "definition": "値や量が変わらない、一定の。",
+          "frequency": 7,
+          "difference": "条件や数値を変えずに保つことをより直接的に述べる。stable は多少の小さな揺れがあっても全体として安定している場合に使える。",
+          "example": "The experiment was carried out at a constant temperature.",
+          "translation": "実験は一定の温度で行われた。"
+        },
+        {
+          "word": "steady",
+          "definition": "大きな乱れなく一定の調子を保つ。",
+          "frequency": 7,
+          "difference": "steady growth は安定したペースで増えることを表す。stable prices は価格が大きく変わらないことで、steady increase と同じではない。",
+          "example": "The company recorded steady growth in sales.",
+          "translation": "その会社は、売上の着実な伸びを記録した。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "unstable",
+          "definition": "急な変化や失敗が起きやすく、不安定な。",
+          "frequency": 7,
+          "difference": "状態を保てるかという軸で stable と対立する。",
+          "example": "The political situation remained unstable for months.",
+          "translation": "政治情勢は、何か月も不安定なままだった。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "【形容詞】情緒が安定した、落ち着いた",
+      "frequency": 6,
+      "register": [
+        "一般・人物や心理状態の記述。"
+      ],
+      "definition": "人が感情や行動を比較的一定に保ち、急激に乱れにくい。ある時点で落ち着いているだけでなく、性質や継続的な状態として述べることがある。",
+      "patterns": [
+        "emotionally stable",
+        "a stable person",
+        "feel more stable",
+        "mentally stable。"
+      ],
+      "collocations": [
+        {
+          "pattern": "emotionally stable",
+          "use": "感情面での安定を明示する。",
+          "example": "She felt more emotionally stable once her daily routine became predictable.",
+          "translation": "日課の見通しが立つようになると、彼女は感情面で以前より安定したと感じた。"
+        },
+        {
+          "pattern": "a stable person",
+          "use": "人の落ち着いた性質を述べる。",
+          "example": "He described his colleague as a stable person who handled pressure calmly.",
+          "translation": "彼は同僚を、重圧にも冷静に対処する落ち着いた人だと評した。"
+        },
+        {
+          "pattern": "feel more stable",
+          "use": "以前より心理的に落ち着いていると本人が感じることを述べる。",
+          "example": "After several quiet weeks, I began to feel more stable.",
+          "translation": "数週間を穏やかに過ごして、私は以前より気持ちが落ち着き始めた。"
+        },
+        {
+          "pattern": "mentally stable",
+          "use": "精神状態の安定を述べる。",
+          "example": "The narrator insists that he is mentally stable despite the stress.",
+          "translation": "語り手は、ストレスはあるが自分の精神状態は安定していると主張している。"
+        }
+      ],
+      "notes": [
+        "性格や精神状態を評価する表現なので、実在の相手について安易に stable／unstable と決めつけると失礼に響くことがある。unstable を特定の病名や危険人物という意味へ短絡させない。calm はその場での落ち着きにも使えるが、stable は変動しにくい状態・性質を捉える。"
+      ],
+      "synonyms": [
+        {
+          "word": "balanced",
+          "definition": "感情や判断などが極端に偏らず、落ち着いている。",
+          "frequency": 6,
+          "difference": "調和や偏りの少なさに注目する。stable は急な乱れや大きな変化が起こりにくい点を強調する。",
+          "example": "Her balanced approach helped the team discuss the problem calmly.",
+          "translation": "彼女の偏りのない取り組み方のおかげで、チームは落ち着いて問題を話し合えた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【形容詞：科学分野】化学的・物理的な状態を変えにくい、安定した",
+      "frequency": 5,
+      "register": [
+        "化学・物理・科学解説。"
+      ],
+      "definition": "ある条件の下で、化学組成や物理的状態などが容易には変化しない。原子核については、放射性崩壊を起こすものとの対比で使う場合がある。どの種類の安定性を扱うかは対象分野による。",
+      "patterns": [
+        "a stable compound",
+        "chemically stable",
+        "stable under 〈条件〉",
+        "a stable isotope。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a stable compound",
+          "use": "化合物が変化しにくい性質を述べる。",
+          "example": "The reaction produced a more stable compound.",
+          "translation": "その反応によって、より安定した化合物が生じた。"
+        },
+        {
+          "pattern": "chemically stable",
+          "use": "化学的な安定性を明示する。",
+          "example": "The material is chemically stable under the conditions used in the test.",
+          "translation": "その物質は、試験に使われた条件では化学的に安定している。"
+        },
+        {
+          "pattern": "stable under 〈条件〉",
+          "use": "安定性が成り立つ条件を限定する。",
+          "example": "The sample remained stable under normal laboratory conditions.",
+          "translation": "試料は、通常の実験室の条件では安定していた。"
+        },
+        {
+          "pattern": "a stable isotope",
+          "use": "放射性同位体との対比で、安定同位体を指す。",
+          "example": "The study used a stable isotope to trace the movement of the element.",
+          "translation": "その研究では、元素の移動を追跡するために安定同位体を用いた。"
+        }
+      ],
+      "notes": [
+        "stable は harmless「無害な」と同義ではない。通常の条件で安定していても、条件が変われば反応することがあり得る。原子核の安定性と化学反応の起こりにくさも別の性質なので、stable isotope から化学的に不活性だと推測しない。ここでの説明は語義の区別であり、物質の取扱いを判断する安全基準ではない。"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "unstable",
+          "definition": "条件に応じて変化しやすい、不安定な。",
+          "frequency": 5,
+          "difference": "化学的・物理的に状態を保つかという同じ軸で対立する。何がどの条件で変わるかは対象によって異なる。",
+          "example": "The report describes the compound as unstable at high temperatures.",
+          "translation": "その報告書では、その化合物は高温で不安定だと説明している。"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "【名詞：可算】馬小屋、厩舎",
+      "frequency": 6,
+      "register": [
+        "一般・乗馬・競馬・農場。"
+      ],
+      "definition": "主に馬を飼い、休ませるための建物。「安定した」という形容詞とは、現代英語では別の意味の系列として覚える。",
+      "patterns": [
+        "a stable",
+        "in the stable",
+        "clean the stables",
+        "a stable door。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a stable",
+          "use": "馬を入れる建物を一つ指す。",
+          "example": "A small stable stood behind the farmhouse.",
+          "translation": "農家の建物の裏に、小さな馬小屋があった。"
+        },
+        {
+          "pattern": "in the stable",
+          "use": "馬小屋の中にいることを述べる。",
+          "example": "The horses were resting in the stable.",
+          "translation": "馬たちは厩舎の中で休んでいた。"
+        },
+        {
+          "pattern": "clean the stables",
+          "use": "馬小屋の清掃を述べる。",
+          "example": "They cleaned the stables before the visitors arrived.",
+          "translation": "来訪者が来る前に、彼らは厩舎を掃除した。"
+        },
+        {
+          "pattern": "a stable door",
+          "use": "厩舎の扉を指す。",
+          "example": "He closed the stable door after bringing the horse inside.",
+          "translation": "彼は馬を中に入れた後、厩舎の扉を閉めた。"
+        }
+      ],
+      "notes": [
+        "a stable は名詞句、a stable table は「ぐらつかないテーブル」という形容詞を含む名詞句である。馬小屋を指す stable を「安定」という名詞として使わない。「安定」は stability。馬小屋が複数なら stables と数えるが、次の乗馬施設としての英の a stables は別の数え方である。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【名詞：可算／英では stables とも】馬を預ける施設、乗馬施設",
+      "frequency": 5,
+      "register": [
+        "乗馬・競馬。stables を単数の施設として扱う用法は英で見られる。"
+      ],
+      "definition": "馬を飼育・管理し、乗馬や調教などを行う組織・施設。単に建物の数を述べるのでなく、運営される一つの場所として指す。",
+      "patterns": [
+        "a riding stable",
+        "a riding stables",
+        "work at a stable",
+        "run a stable。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a riding stable",
+          "use": "乗馬用の馬を管理する施設を指す。",
+          "example": "She takes lessons at a riding stable outside the town.",
+          "translation": "彼女は、町外れの乗馬施設でレッスンを受けている。"
+        },
+        {
+          "pattern": "a riding stables",
+          "use": "英で、一つの乗馬施設を stables と呼ぶ。",
+          "example": "There is a riding stables near the village.",
+          "translation": "村の近くに乗馬施設がある。"
+        },
+        {
+          "pattern": "work at a stable",
+          "use": "馬の管理施設を勤務先として述べる。",
+          "example": "He works at a stable that trains young racehorses.",
+          "translation": "彼は、若い競走馬を調教する厩舎で働いている。"
+        },
+        {
+          "pattern": "run a stable",
+          "use": "馬を管理する組織を運営することを述べる。",
+          "example": "The family has run the stable for three generations.",
+          "translation": "その一家は、3代にわたってその厩舎を運営している。"
+        }
+      ],
+      "notes": [
+        "英の a stables は見た目が複数形でも、一つの施設を指すことがある。この組織・施設を表す用法には、単数動詞と複数動詞の両方を用いる用例がある。一般的な「複数の馬小屋」の stables と混同しない。stable を「乗馬学校」などの特定の学校制度と一律に同一視することも避ける。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【名詞：可算】同じ所有者・調教師の競走馬の一団",
+      "frequency": 4,
+      "register": [
+        "競馬・スポーツ。"
+      ],
+      "definition": "一人の所有者や調教師などのもとにある競走馬を、ひとまとまりとして指す。建物や運営組織に関係するが、この用法で直接述べているのは馬の集団である。",
+      "patterns": [
+        "a stable of racehorses",
+        "a horse from someone's stable",
+        "add a horse to a stable。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a stable of racehorses",
+          "use": "競走馬の一団を述べる。",
+          "example": "The owner has built up a stable of promising young racehorses.",
+          "translation": "その所有者は、将来有望な若い競走馬の一団をそろえてきた。"
+        },
+        {
+          "pattern": "a horse from someone's stable",
+          "use": "どの陣営の馬かを示す。",
+          "example": "Two horses from her stable qualified for the final.",
+          "translation": "彼女の管理する馬のうち2頭が、決勝への出場を決めた。"
+        },
+        {
+          "pattern": "add a horse to a stable",
+          "use": "管理する馬の一団に新しい馬を加える。",
+          "example": "They added a recently purchased colt to the stable.",
+          "translation": "彼らは、最近購入した若い雄馬を管理馬の一団に加えた。"
+        }
+      ],
+      "notes": [
+        "a stable of racehorses で of 以下は、その集団を構成する馬を示す。stable が馬の集団を指す文脈では、馬小屋という建物だけの話と訳し分ける。所有者と調教師が常に同一人物であることを意味するわけではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【名詞：単数形で用いることが多い】同じ組織に属する人材・製品の一群",
+      "frequency": 5,
+      "register": [
+        "報道・芸能・スポーツ・企業紹介。"
+      ],
+      "definition": "同じ会社や管理者のもとにある選手・作家・芸能人など、または同じ企業の製品群を、まとまりとして指す。馬の一団という名詞の比喩的な広がり。",
+      "patterns": [
+        "a stable of writers",
+        "a stable of performers",
+        "a stable of products",
+        "add someone to one's stable。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a stable of writers",
+          "use": "同じ出版社などに属する作家陣を述べる。",
+          "example": "The publisher has a stable of well-known crime writers.",
+          "translation": "その出版社は、有名な犯罪小説作家たちを抱えている。"
+        },
+        {
+          "pattern": "a stable of performers",
+          "use": "同じ組織が抱える出演者を述べる。",
+          "example": "The agency expanded its stable of performers.",
+          "translation": "その事務所は、所属する出演者の層を広げた。"
+        },
+        {
+          "pattern": "a stable of products",
+          "use": "企業の製品ラインアップを指す。",
+          "example": "The company added a budget model to its stable of products.",
+          "translation": "その会社は、製品ラインアップに低価格モデルを加えた。"
+        },
+        {
+          "pattern": "add someone to one's stable",
+          "use": "抱える人材の一群に人を加える。",
+          "example": "The club added two young players to its stable of talent.",
+          "translation": "そのクラブは、抱える有望な人材に若い選手2人を加えた。"
+        }
+      ],
+      "notes": [
+        "この意味は安定した人材という形容詞の意味ではない。a stable of actors は「俳優陣」、a stable team は「安定したチーム」と構造が異なる。人材を所有物のように捉える響きを感じる場合もあるため、本人への直接の呼び方などでは場面に配慮する。あらゆる無関係な集団を stable と呼ぶわけではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "roster",
+          "definition": "所属する人々の名簿、またはその顔ぶれ。",
+          "frequency": 5,
+          "difference": "メンバーの一覧としての側面に重点がある。stable は組織が抱える人材のまとまりを指す。",
+          "example": "The team announced its roster for the new season.",
+          "translation": "チームは、新シーズンの登録メンバーを発表した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 9,
+      "title": "【動詞：他動詞・自動詞／過去・過去分詞 stabled】馬を厩舎に入れる、馬が厩舎で過ごす",
+      "frequency": 3,
+      "register": [
+        "乗馬・競馬・馬の管理。"
+      ],
+      "definition": "他動詞では馬を厩舎に収容する。自動詞では馬などが厩舎に泊まる・暮らすことを表す。「安定させる」という意味の動詞ではない。",
+      "patterns": [
+        "stable a horse",
+        "be stabled at 〈施設〉",
+        "be stabled overnight",
+        "horses stable in 〈場所〉。"
+      ],
+      "collocations": [
+        {
+          "pattern": "stable a horse",
+          "use": "馬を厩舎に入れておくことを述べる。",
+          "example": "They stable the horses indoors during severe weather.",
+          "translation": "彼らは、天候が厳しいときには馬を屋内の厩舎に入れておく。"
+        },
+        {
+          "pattern": "be stabled at 〈施設〉",
+          "use": "馬がどこに収容されているかを述べる。",
+          "example": "The racehorse is stabled at a training centre nearby.",
+          "translation": "その競走馬は、近くの調教施設の厩舎に入っている。"
+        },
+        {
+          "pattern": "be stabled overnight",
+          "use": "馬を一晩厩舎に入れておくことを述べる。",
+          "example": "The visiting horses were stabled overnight before the competition.",
+          "translation": "遠方から来た馬たちは、競技の前に一晩厩舎に入れられた。"
+        },
+        {
+          "pattern": "horses stable in 〈場所〉",
+          "use": "馬自身を主語にして、厩舎で過ごすことを述べる。",
+          "example": "The horses stable in the old barn during the winter.",
+          "translation": "その馬たちは、冬の間は古い納屋に入って過ごす。"
+        }
+      ],
+      "notes": [
+        "We stable the horses here. は他動詞で人が収容する行為、The horses stable here. は自動詞で馬がそこで過ごすことを述べる。The horses are stabled here. は受動態である。自動詞用法も存在するが、一般的な説明では are kept in a stable のように言い換えることもできる。価格を安定させるなら stabilize prices で、×stable prices を動詞句としてその意味で使わない。stable prices は通常「安定した価格」という名詞句になる。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 10,
+      "title": "【慣用表現】馬が逃げた後に厩舎の戸を閉める、手遅れの対策をする",
+      "frequency": 4,
+      "register": [
+        "英の慣用表現・批評。"
+      ],
+      "definition": "問題や損失が既に起きた後で、それを未然に防ぐための対策を取ろうとすることをたとえる表現。対策のタイミングが遅いことを指摘する。",
+      "patterns": [
+        "close the stable door after the horse has bolted",
+        "shut the stable door after the horse has bolted。北米では barn door と horse has escaped を使う形もある。"
+      ],
+      "collocations": [
+        {
+          "pattern": "close the stable door after the horse has bolted",
+          "use": "問題の発生後に予防措置を取っても遅いと批判する。",
+          "example": "Introducing basic security checks after the data was stolen was closing the stable door after the horse had bolted.",
+          "translation": "データを盗まれた後で基本的な安全確認を導入したのは、被害が出てから対策するようなものだった。"
+        },
+        {
+          "pattern": "shut the stable door after the horse has bolted",
+          "use": "過去の失敗を防ぐには遅すぎる対応だと述べる。",
+          "example": "He said the new rule was like shutting the stable door after the horse had bolted.",
+          "translation": "彼は、新しい規則は問題が起きてから慌てて対策するようなものだと言った。"
+        }
+      ],
+      "notes": [
+        "bolt はこの表現では馬が急に逃げ出すことを表す。過去の出来事なら had bolted のように時制を合わせられる。起きた損失を取り消すには遅いというたとえであり、同種の被害を今後防ぐ対策まで常に無意味だと論理的に示すわけではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 11,
+      "title": "【名詞：stability・不可算】安定、安定性",
+      "frequency": 7,
+      "register": [
+        "一般・報道・技術。"
+      ],
+      "definition": "位置、状態、関係などが大きく変わったり崩れたりせずに保たれる性質。政治・経済・情緒・物のバランスなど、何の安定かは文脈で決まる。",
+      "patterns": [
+        "political stability",
+        "financial stability",
+        "emotional stability",
+        "the stability of something",
+        "improve stability。"
+      ],
+      "collocations": [
+        {
+          "pattern": "political stability",
+          "use": "政治の状態が大きく崩れず保たれることを述べる。",
+          "example": "The agreement helped restore political stability.",
+          "translation": "その合意は、政治の安定を取り戻すのに役立った。"
+        },
+        {
+          "pattern": "financial stability",
+          "use": "財政・金融面の安定を述べる。",
+          "example": "The family valued financial stability more than a sudden increase in income.",
+          "translation": "その家族は、収入の急増よりも経済的な安定を重視した。"
+        },
+        {
+          "pattern": "emotional stability",
+          "use": "感情の安定という性質を述べる。",
+          "example": "A predictable routine gave her a greater sense of emotional stability.",
+          "translation": "見通しの立つ日課によって、彼女は感情面で以前より安定を感じられた。"
+        },
+        {
+          "pattern": "the stability of something",
+          "use": "何の安定性を問題にしているかを明示する。",
+          "example": "The engineers tested the stability of the platform.",
+          "translation": "技術者たちは、その台の安定性を試験した。"
+        },
+        {
+          "pattern": "improve stability",
+          "use": "安定性を高めることを述べる。",
+          "example": "A wider base improved the chair's stability.",
+          "translation": "底部を広くすることで、椅子の安定性が高まった。"
+        }
+      ],
+      "notes": [
+        "通常は不可算で、安定一般を a stability と数えない。安定した状態・性質は stability、安定させる過程は stabilization と区別する。安定性が高いことと、安全・公平・利益など別の評価軸で望ましいことは同じではない。"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "instability",
+          "definition": "状態や均衡が保たれず、不意の変化や崩れが起こりやすいこと。",
+          "frequency": 6,
+          "difference": "安定した状態を保てるかという同じ軸で対立する。",
+          "example": "Political instability discouraged long-term planning.",
+          "translation": "政治の不安定さが、長期的な計画を立てにくくした。"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "【動詞：stabilize・自動詞・他動詞】安定する、安定させる",
+      "frequency": 6,
+      "register": [
+        "一般・経済・技術・医療の記述。英では stabilise とも綴る。"
+      ],
+      "definition": "変動や不安定な状態が落ち着く。また、物や状況を大きく変わらない状態へ持っていく。他動詞では安定させる対象を目的語に取る。",
+      "patterns": [
+        "prices stabilize",
+        "stabilize the economy",
+        "stabilize a structure",
+        "stabilize at 〈数値〉。"
+      ],
+      "collocations": [
+        {
+          "pattern": "prices stabilize",
+          "use": "価格の変動が落ち着くことを述べる。",
+          "example": "Prices began to stabilize after several weeks of sharp fluctuations.",
+          "translation": "数週間の激しい変動の後、価格は安定し始めた。"
+        },
+        {
+          "pattern": "stabilize the economy",
+          "use": "経済を安定した状態へ持っていくことを述べる。",
+          "example": "The measures were intended to stabilize the economy.",
+          "translation": "その措置は、経済を安定させることを目的としていた。"
+        },
+        {
+          "pattern": "stabilize a structure",
+          "use": "構造物のバランスなどを安定させる。",
+          "example": "Engineers added supports to stabilize the damaged structure.",
+          "translation": "技術者たちは、損傷した構造物を安定させるために支えを追加した。"
+        },
+        {
+          "pattern": "stabilize at 〈数値〉",
+          "use": "どの水準で落ち着いたかを示す。",
+          "example": "The temperature stabilized at twenty degrees.",
+          "translation": "温度は20度で安定した。"
+        }
+      ],
+      "notes": [
+        "Prices stabilized. は価格そのものを主語にした自動詞、The measures stabilized prices. は措置を主語、価格を目的語にした他動詞。stabilize at では at 以下が落ち着いた水準で、安定させる対象ではない。形容詞 stable、馬を収容する動詞 stable、安定化の動詞 stabilize を区別する。"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "destabilize",
+          "definition": "仕組みや状況を不安定にする。",
+          "frequency": 5,
+          "difference": "安定性を高めるか損なうかという方向で対立する。他動詞なので、stabilize の自動詞用法と機械的に入れ替えない。",
+          "example": "The dispute threatened to destabilize the coalition.",
+          "translation": "その対立は、連立政権を不安定にするおそれがあった。"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "【名詞：stabilization・不可算】安定化",
+      "frequency": 5,
+      "register": [
+        "経済・技術・医療など。英では stabilisation とも綴る。"
+      ],
+      "definition": "状態が安定する過程、または安定させる取り組み。既にある安定性という性質より、安定へ向かう変化に注目する。",
+      "patterns": [
+        "the stabilization of something",
+        "economic stabilization",
+        "a stabilization programme。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the stabilization of something",
+          "use": "安定化する対象を明示する。",
+          "example": "The stabilization of prices took longer than expected.",
+          "translation": "価格の安定化には、予想より時間がかかった。"
+        },
+        {
+          "pattern": "economic stabilization",
+          "use": "経済を落ち着かせる過程を述べる。",
+          "example": "The report reviews the costs of economic stabilization.",
+          "translation": "その報告書は、経済安定化のための費用を検討している。"
+        },
+        {
+          "pattern": "a stabilization programme",
+          "use": "安定化を目指す計画や事業を指す。",
+          "example": "The city launched a stabilization programme for the damaged buildings.",
+          "translation": "市は、損傷した建物の安定化事業を開始した。"
+        }
+      ],
+      "notes": [
+        "a stabilization programme の a が数えるのは programme であり、stabilization 自体ではない。stability と置き換えると、変化・取り組みから状態・性質へ焦点が移る。安定化という名称だけで、その取り組みが実際に成功したとは言えない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 14,
+      "title": "【名詞：stabilizer・可算】安定装置、姿勢や動きを安定させる部品",
+      "frequency": 4,
+      "register": [
+        "機械・乗り物・技術。英では stabiliser とも綴る。"
+      ],
+      "definition": "船や航空機などの姿勢・動きを安定させるための装置や部品。対象や方式は分野によって異なる。",
+      "patterns": [
+        "a stabilizer",
+        "the ship's stabilizers",
+        "fit a stabilizer。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a stabilizer",
+          "use": "安定のための装置を一つ指す。",
+          "example": "The diagram shows a stabilizer attached to the main body.",
+          "translation": "その図には、本体に取り付けられた安定装置が示されている。"
+        },
+        {
+          "pattern": "the ship's stabilizers",
+          "use": "船の動きを安定させる装置を指す。",
+          "example": "The ship's stabilizers helped reduce its rolling motion.",
+          "translation": "船の安定装置は、横揺れを減らすのに役立った。"
+        },
+        {
+          "pattern": "fit a stabilizer",
+          "use": "安定装置を取り付けることを述べる。",
+          "example": "The manufacturer fitted a stabilizer to the new model.",
+          "translation": "メーカーは、新型に安定装置を取り付けた。"
+        }
+      ],
+      "notes": [
+        "装置の名称であり、どの方向の動きをどの程度抑えるかは語だけでは分からない。stabilizer があれば転倒や事故が起きないという保証でもない。次の添加物や補助輪の意味は、乗り物・食品・自転車などの文脈で区別する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 15,
+      "title": "【名詞：stabilizer・可算】安定剤",
+      "frequency": 4,
+      "register": [
+        "食品・化学・製品表示。"
+      ],
+      "definition": "混合物が分離するなどの変化を抑え、状態を保つために加えられる物質。食品などの材料について使う。",
+      "patterns": [
+        "a stabilizer in something",
+        "use something as a stabilizer",
+        "contain a stabilizer。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a stabilizer in something",
+          "use": "何に安定剤が使われているかを示す。",
+          "example": "The label identifies the substance as a stabilizer in the mixture.",
+          "translation": "表示では、その物質は混合物の安定剤だとされている。"
+        },
+        {
+          "pattern": "use something as a stabilizer",
+          "use": "物質の用途を安定剤として述べる。",
+          "example": "The manufacturer uses the ingredient as a stabilizer to prevent separation.",
+          "translation": "メーカーは、分離を防ぐため、その成分を安定剤として使っている。"
+        },
+        {
+          "pattern": "contain a stabilizer",
+          "use": "安定剤を含むことを述べる。",
+          "example": "The product contains a stabilizer as well as a flavouring.",
+          "translation": "その製品には、香料に加えて安定剤が含まれている。"
+        }
+      ],
+      "notes": [
+        "stabilizer は物質の機能を述べる名称で、具体的な化学物質や量は別に確認する。preservative「保存料」とは目的が同じとは限らない。安定剤という名称だけから、人体への安全性や有害性を判断しない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 16,
+      "title": "【名詞：stabilizers・複数・英】自転車の補助輪",
+      "frequency": 4,
+      "register": [
+        "英・日常。"
+      ],
+      "definition": "子どもなどが自転車に乗る練習をするとき、バランスを助けるために付ける補助の車輪。北米では training wheels と呼ぶ。",
+      "patterns": [
+        "a bike with stabilizers",
+        "ride without stabilizers",
+        "remove the stabilizers。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a bike with stabilizers",
+          "use": "補助輪付きの自転車を指す。",
+          "example": "She learned on a small bike with stabilizers.",
+          "translation": "彼女は、補助輪付きの小さな自転車で乗り方を習った。"
+        },
+        {
+          "pattern": "ride without stabilizers",
+          "use": "補助輪なしで乗ることを述べる。",
+          "example": "He learned to ride without stabilizers last summer.",
+          "translation": "彼は去年の夏、補助輪なしで自転車に乗れるようになった。"
+        },
+        {
+          "pattern": "remove the stabilizers",
+          "use": "補助輪を外すことを述べる。",
+          "example": "They removed the stabilizers when she felt ready to try without them.",
+          "translation": "彼女が補助輪なしで試してみようと思えたときに、補助輪を外した。"
+        }
+      ],
+      "notes": [
+        "この意味では通常複数形。英の stabilisers という綴りもある。機械の安定装置一般を意味する単数 a stabilizer とは、文脈と数を区別する。training wheels は意味が対応する北米の表現で、stabilizers を「訓練する車輪」と逐語的に説明する必要はない。"
+      ],
+      "synonyms": [
+        {
+          "word": "training wheels",
+          "definition": "自転車の補助輪。",
+          "frequency": 5,
+          "difference": "主に北米で使う対応表現。ここでは機能の違いより地域的な呼び方の違いが中心である。",
+          "example": "The child practised on a bicycle with training wheels.",
+          "translation": "その子は、補助輪付きの自転車で練習した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 17,
+      "title": "【形容詞：unstable】ぐらつく、倒れたり動いたりしやすい",
+      "frequency": 6,
+      "register": [
+        "一般・構造や物の状態。"
+      ],
+      "definition": "位置やバランスを保ちにくく、力や動きによって倒れたり崩れたりするおそれがある。",
+      "patterns": [
+        "an unstable structure",
+        "unstable ground",
+        "become unstable",
+        "too unstable to do something。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an unstable structure",
+          "use": "構造物が安定を保てないことを述べる。",
+          "example": "The inspection identified an unstable structure near the entrance.",
+          "translation": "点検で、入口の近くに不安定な構造物が見つかった。"
+        },
+        {
+          "pattern": "unstable ground",
+          "use": "地面が崩れたり動いたりしやすいことを述べる。",
+          "example": "The path crosses an area of unstable ground.",
+          "translation": "その道は、不安定な地盤の区域を横切っている。"
+        },
+        {
+          "pattern": "become unstable",
+          "use": "バランスを失いやすい状態になることを述べる。",
+          "example": "The loaded cart became unstable on the slope.",
+          "translation": "荷物を載せた荷車は、斜面で不安定になった。"
+        },
+        {
+          "pattern": "too unstable to do something",
+          "use": "ある使い方には安定性が不足していることを述べる。",
+          "example": "The stand was too unstable to hold the heavy sculpture.",
+          "translation": "その台は不安定すぎて、重い彫刻を支えられなかった。"
+        }
+      ],
+      "notes": [
+        "まだ倒れていなくても unstable と言える。unstable と unusable「使用できない」は同義ではないが、使用の可否をこの単語だけで決めず実際の状態・条件を確認する。not stable より一語で不安定な性質を述べる形である。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 18,
+      "title": "【形容詞：unstable】変動・崩壊しやすい、不安定な",
+      "frequency": 7,
+      "register": [
+        "一般・報道・政治・経済・技術。"
+      ],
+      "definition": "状況・制度・関係などが一定の状態を保たず、急な変化や失敗が起こりやすい。",
+      "patterns": [
+        "an unstable economy",
+        "an unstable situation",
+        "an unstable relationship",
+        "remain unstable。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an unstable economy",
+          "use": "経済が変動や混乱を起こしやすいことを述べる。",
+          "example": "Businesses were reluctant to invest in an unstable economy.",
+          "translation": "企業は、不安定な経済の中で投資することに消極的だった。"
+        },
+        {
+          "pattern": "an unstable situation",
+          "use": "状況が大きく変化し得ることを述べる。",
+          "example": "The agreement left an unstable situation along the border.",
+          "translation": "その合意の後も、国境沿いには不安定な状況が残った。"
+        },
+        {
+          "pattern": "an unstable relationship",
+          "use": "関係が落ち着かず変化しやすいことを述べる。",
+          "example": "Frequent arguments made their relationship increasingly unstable.",
+          "translation": "口論が絶えず、二人の関係はますます不安定になった。"
+        },
+        {
+          "pattern": "remain unstable",
+          "use": "状況が安定しない状態を続けることを述べる。",
+          "example": "The software remained unstable after the update and continued to crash.",
+          "translation": "更新後もソフトウェアは不安定なままで、異常終了を繰り返した。"
+        }
+      ],
+      "notes": [
+        "価格や状況が上がる方向だけ、下がる方向だけを指定する語ではない。急な変化や機能不全の起きやすさに注目する。unstable software は人の感情の不安定さではなく動作の信頼性を述べるため、対象ごとに訳し分ける。"
+      ],
+      "synonyms": [
+        {
+          "word": "volatile",
+          "definition": "急激で大きな変動が起こりやすい。",
+          "frequency": 6,
+          "difference": "市場や価格では変動の激しさに重点を置く。unstable は制度の崩れや機能不全も含め、安定を保てないことをより広く述べる。",
+          "example": "Exchange rates were unusually volatile during the crisis.",
+          "translation": "危機の間、為替相場は異常に大きく変動した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 19,
+      "title": "【形容詞：unstable】情緒や行動が不安定な",
+      "frequency": 6,
+      "register": [
+        "人物・心理の記述。文脈によって強い、否定的な評価。"
+      ],
+      "definition": "人の感情や行動が急に変わり、落ち着いた状態を保ちにくいと捉える表現。話し手の評価を含み得るため、診断名のように扱わない。",
+      "patterns": [
+        "emotionally unstable",
+        "feel unstable",
+        "describe someone as unstable。"
+      ],
+      "collocations": [
+        {
+          "pattern": "emotionally unstable",
+          "use": "感情面の変動が大きい状態を述べる。",
+          "example": "The character is portrayed as emotionally unstable after a series of personal setbacks.",
+          "translation": "その登場人物は、個人的な挫折が重なった後、情緒が不安定になった人物として描かれている。"
+        },
+        {
+          "pattern": "feel unstable",
+          "use": "本人が気持ちの安定を欠くと感じることを述べる。",
+          "example": "She said she felt unstable and needed time to regain her confidence.",
+          "translation": "彼女は、気持ちが不安定で、自信を取り戻す時間が必要だと話した。"
+        },
+        {
+          "pattern": "describe someone as unstable",
+          "use": "誰かを不安定だと評価したことを述べる。",
+          "example": "The narrator describes him as unstable, but the other characters disagree.",
+          "translation": "語り手は彼を不安定な人物だと評しているが、ほかの登場人物は同意していない。"
+        }
+      ],
+      "notes": [
+        "人に unstable と直接言うと、強い非難や偏見と受け取られることがある。特定の病気、犯罪傾向、他者への危険性を必ず意味するわけではない。本人の一時的な感覚と、他人による性格全体の評価も区別する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 20,
+      "title": "【形容詞：unstable・科学分野】化学的・物理的な状態が変わりやすい",
+      "frequency": 5,
+      "register": [
+        "化学・物理・科学解説。"
+      ],
+      "definition": "ある条件で組成や状態が変化しやすい。原子核や同位体については、放射性崩壊との関係で使われる場合がある。",
+      "patterns": [
+        "an unstable compound",
+        "chemically unstable",
+        "an unstable isotope。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an unstable compound",
+          "use": "化合物の変化しやすさを述べる。",
+          "example": "The reaction forms an unstable compound that soon breaks down.",
+          "translation": "その反応では、間もなく分解する不安定な化合物が生じる。"
+        },
+        {
+          "pattern": "chemically unstable",
+          "use": "化学的な不安定さを明示する。",
+          "example": "The substance is chemically unstable when exposed to strong light.",
+          "translation": "その物質は、強い光にさらされると化学的に不安定になる。"
+        },
+        {
+          "pattern": "an unstable isotope",
+          "use": "崩壊する同位体について述べる。",
+          "example": "The unstable isotope decays into another element.",
+          "translation": "その不安定な同位体は、別の元素へと崩壊する。"
+        }
+      ],
+      "notes": [
+        "unstable は何がどの条件で変わるかを伴って理解する。爆発しやすい、人体に有害といった別の性質を常に含むわけではない。具体的な安全性を評価する説明ではなく、化学的な安定性と核の安定性の軸を区別する語彙説明である。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 21,
+      "title": "【名詞：instability・主に不可算／専門分野では可算も】不安定さ、不安定な現象",
+      "frequency": 6,
+      "register": [
+        "一般・報道・心理・技術。"
+      ],
+      "definition": "状態や均衡を保ちにくく、変化・崩れ・機能不全が起こりやすいこと。専門分野では、個々の不安定現象や型を instabilities と複数で述べることもある。",
+      "patterns": [
+        "political instability",
+        "emotional instability",
+        "instability in something",
+        "instabilities in a system。"
+      ],
+      "collocations": [
+        {
+          "pattern": "political instability",
+          "use": "政治的な不安定さを述べる。",
+          "example": "Years of political instability weakened public services.",
+          "translation": "長年の政治的不安定によって、公共サービスが弱体化した。"
+        },
+        {
+          "pattern": "emotional instability",
+          "use": "感情の安定を保ちにくいことを述べる。",
+          "example": "The novel explores the character's emotional instability without assigning a medical diagnosis.",
+          "translation": "その小説は、医学的な診断名を付けずに、登場人物の情緒の不安定さを描いている。"
+        },
+        {
+          "pattern": "instability in something",
+          "use": "どの仕組みに不安定さがあるかを示す。",
+          "example": "The tests revealed instability in the control system.",
+          "translation": "試験によって、制御システムの不安定さが明らかになった。"
+        },
+        {
+          "pattern": "instabilities in a system",
+          "use": "専門的な説明で、個々の不安定現象を複数として述べる。",
+          "example": "The model predicts two different instabilities in the flow.",
+          "translation": "そのモデルは、流れに生じる異なる二つの不安定現象を予測する。"
+        }
+      ],
+      "notes": [
+        "一般的な状態なら不可算で、political instability と述べる。一方、専門的に現象を分ける文脈には複数形もあるので、「必ず不可算」と限定しない。形容詞 unstable からの関係は分かるが、綴りは ×unstability ではなく instability。"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "stability",
+          "definition": "状態や均衡が保たれる安定性。",
+          "frequency": 7,
+          "difference": "安定性の有無という同じ軸で対立する。ただし程度差を持ち、単純な二者択一に限らない。",
+          "example": "The changes improved the stability of the network.",
+          "translation": "変更によって、ネットワークの安定性が高まった。"
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "title": "【動詞：destabilize・他動詞／過去分詞 destabilized】不安定にする",
+      "frequency": 5,
+      "register": [
+        "報道・政治・経済・組織論。英では destabilise とも綴る。"
+      ],
+      "definition": "政治・組織・関係などが安定して機能することを難しくし、崩れや変動を起こしやすくする。完全に崩壊させたという結果まで必ず含むわけではない。",
+      "patterns": [
+        "destabilize a government",
+        "destabilize the economy",
+        "threaten to destabilize something",
+        "be destabilized by something。"
+      ],
+      "collocations": [
+        {
+          "pattern": "destabilize a government",
+          "use": "政権の安定を損なうことを述べる。",
+          "example": "The scandal destabilized the government without immediately bringing it down.",
+          "translation": "その不祥事は、政権を直ちに倒しはしなかったが、不安定にした。"
+        },
+        {
+          "pattern": "destabilize the economy",
+          "use": "経済の安定を損なうことを述べる。",
+          "example": "The sudden loss of export income destabilized the economy.",
+          "translation": "輸出収入が突然失われたことで、経済は不安定になった。"
+        },
+        {
+          "pattern": "threaten to destabilize something",
+          "use": "不安定化につながるおそれを述べる。",
+          "example": "The disagreement threatened to destabilize the alliance.",
+          "translation": "その意見の対立は、同盟を不安定にするおそれがあった。"
+        },
+        {
+          "pattern": "be destabilized by something",
+          "use": "不安定にされた側を主語にする。",
+          "example": "The organization was destabilized by the departure of several senior managers.",
+          "translation": "複数の上級管理職が退職したことで、その組織は不安定になった。"
+        }
+      ],
+      "notes": [
+        "他動詞なので、destabilize the market のように不安定にする対象を直接置く。市場が不安定になったという状態変化は The market became unstable. と表せる。この欄では、何かが対象を不安定にする他動詞の構文を扱う。stabilize は自他両用だが、接頭辞を付けた語も必ず同じ自他になるわけではない。"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "stabilize",
+          "definition": "状態や仕組みを安定させる。",
+          "frequency": 6,
+          "difference": "他動詞用法同士なら、安定させる方向と不安定にする方向で対立する。",
+          "example": "The agreement helped stabilize relations between the two countries.",
+          "translation": "その合意は、両国の関係を安定させるのに役立った。"
+        }
+      ]
+    }
+  ]
+}
