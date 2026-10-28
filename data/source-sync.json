@@ -1,7 +1,7 @@
 {
   "version": 1,
   "repository": "Kyapya/english-dictionary",
-  "revision": "60939e1fd30a4dfbba9fc90aced2691a7f3af7a5",
+  "revision": "84fd8be7983cc503fdffb4ee52bd396c53bb09d9",
   "entries": {
     "immaculate": {
       "path": "entries/i/immaculate.md",
@@ -5662,6 +5662,10 @@
     "surface": {
       "path": "entries/s/surface.md",
       "sha256": "305af253c6943ab79ae9e35c98cc3915c461a000788faf3286c61d0038a92076"
+    },
+    "internal": {
+      "path": "entries/i/internal.md",
+      "sha256": "0854be559f18adb54b407c1e14094daceaa8ac6df9f4d7c83f6554917ea79026"
     }
   },
   "retained": []

@@ -1,0 +1,865 @@
+{
+  "word": "internal",
+  "slug": "internal",
+  "ipa": "米: /ɪnˈtɜːrnl/｜英: /ɪnˈtɜːnl/。3音節で第2音節に主強勢がある。英米差は第2音節の母音に続く /r/ の有無。末尾の /l/ が音節の中心となる読みを含み、綴りの各文字を同じ長さで読まない。internally は米: /ɪnˈtɜːrnəli/｜英: /ɪnˈtɜːnəli/。4音節で、主強勢は第2音節、英米差も第2音節の /r/ の有無である。",
+  "lead": "機械・建物・構造物などの内部に位置する、またはその内部に関わる。どの物を一つの全体として捉えるかが基準になる。",
+  "updated": "2026-10-29",
+  "notion_url": "",
+  "pronunciation": [
+    "internalize は米: /ɪnˈtɜːrnəlaɪz/｜英: /ɪnˈtɜːnəlaɪz/。4音節で第2音節に主強勢があり、英米差は第2音節の /r/ の有無。internalization は米: /ɪnˌtɜːrnələˈzeɪʃn/｜英: /ɪnˌtɜːnəlaɪˈzeɪʃn/。6音節で第5音節に主強勢、第2音節に副強勢がある。英米差は、第2音節の /r/ の有無に加え、第4音節の母音が米では /ə/、英では /aɪ/ となる点。末尾の /n/ が音節の中心となる読みを含む。"
+  ],
+  "etymology": [
+    "ラテン語 internus（内側の）に関係する internalis などの形を経た語。内側を指す意味のつながりがあり、現代語でも、何を一つのまとまりとするかによって、その内側を指す。身体・組織・国・心など、内外を分ける対象は文脈によって変わる。"
+  ],
+  "formation": [
+    {
+      "term": "internally",
+      "description": "形容詞から作られた副詞。内部で、内側から、内的に、などの意味で動詞や形容詞を修飾する。"
+    },
+    {
+      "term": "internalize",
+      "description": "価値観・考えなどを自分の内側へ取り込むという他動詞。英国では internalise という綴りも使う。"
+    },
+    {
+      "term": "internalization",
+      "description": "内面化を表す不可算名詞。英国では internalisation という綴りも使う。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "あるまとまりの外側ではなく、内側にある、または内側で生じること。物・身体・組織・国・心のどれを境界とするかによって意味が具体化し、派生語 internalize では自分の内側へ取り込む動作になる。語義13の internal medicine は、位置の内外ではなく医療の専門分野を指す制度的専門義で、語彙的意味が単なる内側という位置から導けないため、個別に参照する。"
+    },
+    {
+      "type": "item",
+      "text": "物を一つの全体とした内側の位置 → 「物の内部の、内側にある」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "組織を一つの全体とした内側の範囲 → 「組織内部の、社内の」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "身体を一つの全体とした内側の位置 → 「体内の、内臓の」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "国を一つの全体とした内側の範囲 → 「国内の、一国内部の」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "体系を一つの全体とした内側の関係 → 「内的な、物事自体の中にある」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "人の心を一つの全体とした内側の思考 → 「心の中の、内面的な」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "組織の内側で行う活動の範囲 → 「組織の内部で、内部向けに」（語義7）"
+    },
+    {
+      "type": "item",
+      "text": "物の内側で起きる変化や状態 → 「物の内側に、内部で」（語義8）"
+    },
+    {
+      "type": "item",
+      "text": "身体の内側で起きる現象 → 「体内で、体内に」（語義9）"
+    },
+    {
+      "type": "item",
+      "text": "国の内側で行う移動や取引 → 「国内で、一国の内部で」（語義10）"
+    },
+    {
+      "type": "item",
+      "text": "体系の内側だけでの整合の評価 → 「内部の要素どうしで、内的に」（語義11）"
+    },
+    {
+      "type": "item",
+      "text": "心の内側で起きる思考や反応 → 「心の中で、内心では」（語義12）"
+    },
+    {
+      "type": "item",
+      "text": "エンジンの内部で起きる燃焼 → 「内燃機関：internal combustion engine」（語義14）"
+    },
+    {
+      "type": "item",
+      "text": "自分の思考の内側へ取り込む働き → 「内面化する、自分の考え方の一部として取り込む」（語義15）"
+    },
+    {
+      "type": "item",
+      "text": "自分の思考の内側への取り込みの過程 → 「内面化」（語義16）"
+    },
+    {
+      "type": "item",
+      "text": "口から身体の内側へ入れる使用 → 「内服の、口から体内へ取り入れる」（語義17）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【形容詞・主に名詞の前】物の内部の、内側にある",
+      "frequency": 8,
+      "register": [
+        "一般・技術・構造の説明。"
+      ],
+      "definition": "機械・建物・構造物などの内部に位置する、またはその内部に関わる。どの物を一つの全体として捉えるかが基準になる。",
+      "patterns": [
+        "internal components",
+        "the internal structure of something",
+        "internal doors",
+        "internal dimensions",
+        "be internal to something。"
+      ],
+      "collocations": [
+        {
+          "pattern": "internal components",
+          "use": "機器の内部にある部品を述べる。",
+          "example": "The case protects the internal components from dust.",
+          "translation": "ケースは、内部の部品をほこりから保護する。"
+        },
+        {
+          "pattern": "the internal structure of something",
+          "use": "内側の構造を説明する。",
+          "example": "The scan revealed the internal structure of the object.",
+          "translation": "スキャンによって、その物体の内部構造が明らかになった。"
+        },
+        {
+          "pattern": "internal doors",
+          "use": "建物の内部にある扉を、外部への出入口と区別する。",
+          "example": "The plan shows the positions of the internal doors.",
+          "translation": "図面は、建物内部の扉の位置を示している。"
+        },
+        {
+          "pattern": "internal dimensions",
+          "use": "容器などの内側の寸法を示す。",
+          "example": "Check the internal dimensions before choosing a storage box.",
+          "translation": "収納箱を選ぶ前に、内寸を確認してください。"
+        },
+        {
+          "pattern": "be internal to something",
+          "use": "形容詞に to を続け、何の内側にあるかを示す。",
+          "example": "The battery is internal to the device and cannot be seen from outside.",
+          "translation": "電池は、その機器の内部にあり、外からは見えない。"
+        }
+      ],
+      "notes": [
+        "internal structure は構造が内部にあることを示し、必ず秘密という意味ではない。the internal structure of the machine の of は structure と全体の関係を示す。internal がいつでも of を後ろに要求する形容詞だと考えない。一方、be internal to something の to は形容詞に続き、内側の基準となる対象を示す。internal は内外を分類するのが基本で、通常は単純な程度の尺度で説明しないが、対比の文脈による比較まで一律に禁止するものではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "inner",
+          "definition": "内側に位置する、より内側の。",
+          "frequency": 7,
+          "difference": "inner layer のように、外側との相対的位置や内外の層を対比する。internal は物の内部にある構造・機能などを広く分類する。",
+          "example": "The inner layer is softer than the outer one.",
+          "translation": "内側の層は、外側の層より柔らかい。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "external",
+          "definition": "物の外側にある、外部に関わる。",
+          "frequency": 8,
+          "difference": "同じ対象の内外という軸で対立する。どこまでを一つの対象に含めるかによって境界は変わる。",
+          "example": "The device has both internal storage and an external drive.",
+          "translation": "その装置には、内蔵ストレージと外付けドライブの両方がある。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "【形容詞】組織内部の、社内の",
+      "frequency": 8,
+      "register": [
+        "業務・組織運営・報道。"
+      ],
+      "definition": "企業・団体・組織の内側で行われる、またはその成員・運営に関係する。外部の人や外部機関との関係に対して、組織内の範囲を示す。",
+      "patterns": [
+        "an internal review",
+        "an internal memo",
+        "internal communication",
+        "an internal candidate",
+        "for internal use",
+        "remain internal",
+        "be internal to an organization。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an internal review",
+          "use": "組織内で行う検討を述べる。",
+          "example": "The company launched an internal review of the process.",
+          "translation": "その会社は、業務過程について社内での検討を始めた。"
+        },
+        {
+          "pattern": "an internal memo",
+          "use": "組織内向けの文書を示す。",
+          "example": "The change was announced in an internal memo.",
+          "translation": "その変更は、社内メモで通知された。"
+        },
+        {
+          "pattern": "internal communication",
+          "use": "組織内の情報伝達を述べる。",
+          "example": "Poor internal communication caused confusion between the teams.",
+          "translation": "社内の情報伝達が不十分だったため、チーム間に混乱が生じた。"
+        },
+        {
+          "pattern": "an internal candidate",
+          "use": "組織内から応募・選考される候補者を示す。",
+          "example": "The position was filled by an internal candidate.",
+          "translation": "その職には、社内の候補者が就いた。"
+        },
+        {
+          "pattern": "for internal use",
+          "use": "組織の内部向けという利用範囲を示す。",
+          "example": "This draft is for internal use and has not been approved for publication.",
+          "translation": "この草稿は内部利用向けで、公開の承認は受けていない。"
+        },
+        {
+          "pattern": "remain internal",
+          "use": "問題や議論が組織内にとどまることを述べる。",
+          "example": "The discussion will remain internal until the proposal is ready.",
+          "translation": "提案が整うまで、その議論は組織内にとどめる。"
+        },
+        {
+          "pattern": "be internal to an organization",
+          "use": "問題などがどの組織の内部に属するかを示す。",
+          "example": "The disagreement is internal to the committee, not a dispute with an outside organization.",
+          "translation": "意見の相違は委員会内部のもので、外部組織との争いではない。"
+        }
+      ],
+      "notes": [
+        "internal と confidential は同義ではない。組織内向けの情報が機密とは限らず、機密かどうかは別の区分である。名詞前が多いが、この範囲では The discussion remains internal. のような述語用法も可能。internal audit などの専門的な役割を、担当者が必ず雇用されているかどうかだけで定義しない。"
+      ],
+      "synonyms": [
+        {
+          "word": "in-house",
+          "definition": "組織自身の中で行う、組織内の。",
+          "frequency": 6,
+          "difference": "外注や外部サービスとの対比で使いやすい。internal は文書の対象範囲や組織内の関係などにも広く使う。",
+          "example": "The company developed an in-house training programme.",
+          "translation": "その会社は、社内研修プログラムを開発した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【形容詞・主に名詞の前】体内の、内臓の",
+      "frequency": 7,
+      "register": [
+        "一般・身体や医療に関する記述。"
+      ],
+      "definition": "身体の内部にある、または体内で起こる。臓器・出血・損傷などの位置を述べる語で、見える皮膚表面との対比に使う。",
+      "patterns": [
+        "internal organs",
+        "internal bleeding",
+        "internal injuries。"
+      ],
+      "collocations": [
+        {
+          "pattern": "internal organs",
+          "use": "体内の臓器をまとめて述べる。",
+          "example": "The illustration shows several internal organs.",
+          "translation": "その図には、いくつかの内臓が示されている。"
+        },
+        {
+          "pattern": "internal bleeding",
+          "use": "体内での出血という記述を読む。",
+          "example": "The report stated that internal bleeding had been detected.",
+          "translation": "報告書には、体内の出血が見つかったと記されていた。"
+        },
+        {
+          "pattern": "internal injuries",
+          "use": "体内の損傷を述べる。",
+          "example": "The medical record distinguishes external wounds from internal injuries.",
+          "translation": "その診療記録は、外から見える傷と体内の損傷を区別している。"
+        }
+      ],
+      "notes": [
+        "internal は位置を分類する語で、出血や損傷の重さ、原因、治療の要否を単独で決めない。internal organs は内臓、internal injury は体内の損傷であり、何でも内臓という一語に置き換えない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【形容詞・主に名詞の前】国内の、一国内部の",
+      "frequency": 6,
+      "register": [
+        "報道・政治・地理・交通。"
+      ],
+      "definition": "国の境界の内側で起こる、または国内の統治・移動などに関係する。外国との関係や国境を越える移動と区別する。",
+      "patterns": [
+        "internal affairs",
+        "internal security",
+        "an internal flight",
+        "internal migration。"
+      ],
+      "collocations": [
+        {
+          "pattern": "internal affairs",
+          "use": "国の内政に関する事項を述べる。",
+          "example": "The statement concerned the country's internal affairs rather than foreign policy.",
+          "translation": "その声明は、外交政策ではなく、その国の内政に関わるものだった。"
+        },
+        {
+          "pattern": "internal security",
+          "use": "国内の安全・治安という分野を示す。",
+          "example": "The report discusses internal security and border policy separately.",
+          "translation": "その報告書は、国内の治安と国境政策を分けて論じている。"
+        },
+        {
+          "pattern": "an internal flight",
+          "use": "同じ国内の地点を結ぶ便を述べる。",
+          "example": "They took an internal flight between two cities in the same country.",
+          "translation": "彼らは、同じ国内の二つの都市を結ぶ国内便を利用した。"
+        },
+        {
+          "pattern": "internal migration",
+          "use": "国境を越えない人口移動を述べる。",
+          "example": "Internal migration changed the balance between rural and urban populations.",
+          "translation": "国内の人口移動によって、農村部と都市部の人口の比率が変わった。"
+        }
+      ],
+      "notes": [
+        "domestic と重なるが、domestic には家庭のという別の用法もあり、常に交換できるわけではない。internal affairs は組織内の問題を指す場合もあるため、国の文脈か組織の文脈かを確認する。"
+      ],
+      "synonyms": [
+        {
+          "word": "domestic",
+          "definition": "自国の、国内の。",
+          "frequency": 8,
+          "difference": "domestic flights／domestic policy などで一般的。internal はある国の内部に関する範囲を示し、文脈によって内政・内部事情という対比を強く出す。",
+          "example": "Domestic demand increased during the period.",
+          "translation": "その期間には、国内需要が増加した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【形容詞】内的な、物事自体の中にある",
+      "frequency": 6,
+      "register": [
+        "議論・学術・分析。"
+      ],
+      "definition": "考え方・体系・文書などの内部にある要素どうしの関係、または対象そのものから得られる事情に関わる。外からの証拠・原因・基準と対比する。",
+      "patterns": [
+        "internal consistency",
+        "internal contradictions",
+        "internal evidence",
+        "internal causes",
+        "be internal to an argument。"
+      ],
+      "collocations": [
+        {
+          "pattern": "internal consistency",
+          "use": "体系内の要素どうしに矛盾がないことを述べる。",
+          "example": "The argument has internal consistency, but its assumptions may still be false.",
+          "translation": "その議論には内的な整合性があるが、前提はなお誤っているかもしれない。"
+        },
+        {
+          "pattern": "internal contradictions",
+          "use": "内容の中で互いに食い違う点を述べる。",
+          "example": "The review identified several internal contradictions in the proposal.",
+          "translation": "検討によって、その提案の内部にいくつかの矛盾が見つかった。"
+        },
+        {
+          "pattern": "internal evidence",
+          "use": "文書などの内部から得られる証拠を述べる。",
+          "example": "The wording provides internal evidence about when the text was written.",
+          "translation": "その言葉遣いは、文章がいつ書かれたかを判断する内的証拠になる。"
+        },
+        {
+          "pattern": "internal causes",
+          "use": "対象の内部にある原因を示す。",
+          "example": "The model separates internal causes of change from external pressures.",
+          "translation": "そのモデルは、変化の内的な原因と外部からの圧力を分けている。"
+        },
+        {
+          "pattern": "be internal to an argument",
+          "use": "論理体系そのものの内側にある関係を述べる。",
+          "example": "The contradiction is internal to the argument; it does not depend on outside evidence.",
+          "translation": "矛盾はその議論の内部にあり、外からの証拠によって決まるものではない。"
+        }
+      ],
+      "notes": [
+        "internal consistency は、内容どうしが整合することを示すのであって、現実の事実と一致する保証ではない。internal evidence は、社外秘の証拠という意味に限定されず、対象内部から読み取れる根拠を表す。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【形容詞】心の中の、内面的な",
+      "frequency": 6,
+      "register": [
+        "一般・心理・人物描写。"
+      ],
+      "definition": "人の思考・感情の中にある。外からの対立や口に出した会話に対して、心中での迷い・葛藤・思考などを述べる。",
+      "patterns": [
+        "an internal conflict",
+        "an internal debate",
+        "an internal monologue",
+        "an internal struggle。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an internal conflict",
+          "use": "一人の心の中での葛藤を述べる。",
+          "example": "She felt an internal conflict between loyalty and ambition.",
+          "translation": "彼女は、忠誠心と野心との間で内面的な葛藤を感じた。"
+        },
+        {
+          "pattern": "an internal debate",
+          "use": "自分の中で選択肢を検討する思考を示す。",
+          "example": "After a long internal debate, he decided to decline the offer.",
+          "translation": "心の中で長く迷った末、彼はその申し出を断ることにした。"
+        },
+        {
+          "pattern": "an internal monologue",
+          "use": "人物の心中の言葉・思考を述べる。",
+          "example": "The novel reveals the narrator's internal monologue.",
+          "translation": "その小説は、語り手の心の中の独白を描いている。"
+        },
+        {
+          "pattern": "an internal struggle",
+          "use": "人が心中で抱える苦悩や葛藤を述べる。",
+          "example": "His internal struggle was not obvious to the people around him.",
+          "translation": "彼が内面で葛藤していることは、周囲の人にははっきりとは分からなかった。"
+        }
+      ],
+      "notes": [
+        "internal conflict は組織内の対立も表せるため、人物の心中の話なら感情・選択肢などを文脈に示す。心内であることと、必ず他人に隠していることは同じではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【副詞：internally】組織の内部で、内部向けに",
+      "frequency": 7,
+      "register": [
+        "業務・組織運営。"
+      ],
+      "definition": "連絡・募集・処理などが組織の中で行われることを示す。内部の人を対象とした活動や、外部へ出さず組織内で扱うことを述べる。",
+      "patterns": [
+        "advertise internally",
+        "circulate something internally",
+        "handle something internally",
+        "recruit internally。"
+      ],
+      "collocations": [
+        {
+          "pattern": "advertise internally",
+          "use": "求人などを組織内に告知することを述べる。",
+          "example": "The vacancy was advertised internally before applications opened to outsiders.",
+          "translation": "その欠員は、外部からの応募を受け付ける前に、組織内で告知された。"
+        },
+        {
+          "pattern": "circulate something internally",
+          "use": "文書を内部で回覧することを示す。",
+          "example": "We circulated the draft internally for comments.",
+          "translation": "私たちは、意見をもらうため草稿を内部で回覧した。"
+        },
+        {
+          "pattern": "handle something internally",
+          "use": "問題や作業を内部で扱うことを述べる。",
+          "example": "The organization decided to handle the scheduling problem internally.",
+          "translation": "その組織は、日程の問題を内部で処理することにした。"
+        },
+        {
+          "pattern": "recruit internally",
+          "use": "人材を組織内から登用することを述べる。",
+          "example": "The team recruited internally for the new role.",
+          "translation": "チームは、新しい役割の担当者を組織内から採用した。"
+        }
+      ],
+      "notes": [
+        "internal communication は形容詞が名詞を限定し、communicate internally は副詞が動作の範囲を限定する。internally を名詞の前に置いて an internally memo としない。内部で処理することが、常に隠蔽や不正を意味するわけではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【副詞：internally】物の内側に、内部で",
+      "frequency": 6,
+      "register": [
+        "一般・技術・構造の説明。"
+      ],
+      "definition": "物体・機器・建物などの内部を場所・範囲として示す。外観に関する externally と対比する場合がある。",
+      "patterns": [
+        "be damaged internally",
+        "be connected internally",
+        "inspect something internally。"
+      ],
+      "collocations": [
+        {
+          "pattern": "be damaged internally",
+          "use": "外見とは別に内部が損傷していることを述べる。",
+          "example": "The device looked intact but was damaged internally.",
+          "translation": "その装置は無傷に見えたが、内部は損傷していた。"
+        },
+        {
+          "pattern": "be connected internally",
+          "use": "接続が内側で行われていることを示す。",
+          "example": "The two units are connected internally by a cable.",
+          "translation": "二つのユニットは、内部でケーブルによって接続されている。"
+        },
+        {
+          "pattern": "inspect something internally",
+          "use": "内側を点検対象にすることを述べる。",
+          "example": "The technician inspected the housing internally and externally.",
+          "translation": "技術者は、筐体を内側と外側から点検した。"
+        }
+      ],
+      "notes": [
+        "物の外から見えない部分を表すが、秘密という意味を加える副詞ではない。internal damage と damaged internally は、名詞を形容する構造か、損傷する範囲を副詞で示す構造かが異なる。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 9,
+      "title": "【副詞：internally】体内で、体内に",
+      "frequency": 5,
+      "register": [
+        "身体・医療に関する記述。"
+      ],
+      "definition": "身体の内側で起きることや、体内の位置を述べる。組織の内部という業務用法とは、境界となる対象が異なる。",
+      "patterns": [
+        "bleed internally",
+        "be injured internally。"
+      ],
+      "collocations": [
+        {
+          "pattern": "bleed internally",
+          "use": "出血が体内で起きることを述べる。",
+          "example": "The medical report stated that the patient was bleeding internally.",
+          "translation": "医療報告書には、患者が体内で出血していたと記されていた。"
+        },
+        {
+          "pattern": "be injured internally",
+          "use": "体の内部を損傷しているという記述を読む。",
+          "example": "The account described him as injured internally despite having few visible wounds.",
+          "translation": "その記録では、目に見える傷は少なかったものの、彼は体内に損傷を負っていたとされていた。"
+        }
+      ],
+      "notes": [
+        "場所・範囲を述べる副詞であり、外傷の見た目だけで体内の状態を診断できるという意味ではない。internal bleeding は名詞句、bleed internally は動詞と副詞の組み合わせ。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 10,
+      "title": "【副詞：internally】国内で、一国の内部で",
+      "frequency": 4,
+      "register": [
+        "政治・経済・地理。"
+      ],
+      "definition": "移動・取引・活動などが国の内部で行われることを示す。組織内か国内かは、話題にしている境界から判断する。",
+      "patterns": [
+        "trade internally",
+        "move internally。"
+      ],
+      "collocations": [
+        {
+          "pattern": "trade internally",
+          "use": "国境を越えず国内で取引することを述べる。",
+          "example": "Most of these goods are traded internally within the country.",
+          "translation": "これらの品物の大半は、その国内で取引されている。"
+        },
+        {
+          "pattern": "move internally",
+          "use": "国内移動の範囲を明示する。",
+          "example": "Many families moved internally rather than crossing the national border.",
+          "translation": "多くの家族は、国境を越えるのではなく国内で転居した。"
+        }
+      ],
+      "notes": [
+        "internally だけでは企業内部の意味にもなり得るため、country や国境との対比などの文脈を使う。国内でという意味の domestically と重なるが、internally の全ての意味に domestically を使えるわけではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 11,
+      "title": "【副詞：internally】内部の要素どうしで、内的に",
+      "frequency": 5,
+      "register": [
+        "議論・学術・分析。"
+      ],
+      "definition": "体系・文章・考えなどの内部の関係に限って評価することを示す。外側の事実や別の体系との一致ではなく、対象内部での整合・関係を述べる。",
+      "patterns": [
+        "internally consistent",
+        "internally inconsistent",
+        "internally contradictory。"
+      ],
+      "collocations": [
+        {
+          "pattern": "internally consistent",
+          "use": "体系内で内容が矛盾しないことを述べる。",
+          "example": "The theory is internally consistent even though some predictions lack evidence.",
+          "translation": "一部の予測には証拠がないものの、その理論の内部には矛盾がない。"
+        },
+        {
+          "pattern": "internally inconsistent",
+          "use": "内容の中でつじつまが合わないことを述べる。",
+          "example": "The instructions are internally inconsistent about the deadline.",
+          "translation": "その指示には、締切について内部で食い違う記述がある。"
+        },
+        {
+          "pattern": "internally contradictory",
+          "use": "ある説明の内部に矛盾があると明示する。",
+          "example": "The statement is internally contradictory because it both permits and forbids the same action.",
+          "translation": "その声明は、同じ行為を認めると同時に禁じているため、内部で矛盾している。"
+        }
+      ],
+      "notes": [
+        "consistent などの形容詞を修飾するので、internal consistent としない。内部で整合することと、外部の現実に対して正しいことを分ける。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 12,
+      "title": "【副詞：internally】心の中で、内心では",
+      "frequency": 5,
+      "register": [
+        "一般・人物描写。"
+      ],
+      "definition": "感情や思考が心中で生じていることを述べる。外に示した態度と、内側の反応を対比する場合にも使う。",
+      "patterns": [
+        "laugh internally",
+        "argue internally",
+        "react internally。"
+      ],
+      "collocations": [
+        {
+          "pattern": "laugh internally",
+          "use": "声を出さず心の中で笑う反応を述べる。",
+          "example": "She kept a serious expression while laughing internally.",
+          "translation": "彼女は、心の中では笑いながら、真面目な表情を保っていた。"
+        },
+        {
+          "pattern": "argue internally",
+          "use": "心の中で考えを対立させて検討することを示す。",
+          "example": "He argued internally about whether to accept the invitation.",
+          "translation": "彼は、招待を受けるべきかどうか、心の中で考えを巡らせた。"
+        },
+        {
+          "pattern": "react internally",
+          "use": "表に出さない反応を述べる。",
+          "example": "She reacted internally with surprise but said nothing.",
+          "translation": "彼女は内心では驚いたが、何も言わなかった。"
+        }
+      ],
+      "notes": [
+        "心の中でという用法は、体内で起こる身体現象の説明とは異なる。internally と言うだけで、必ず感情を抑圧しているという心理学的な判断になるわけではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "inwardly",
+          "definition": "心の中で、内心では。",
+          "frequency": 5,
+          "difference": "外に示した態度と心中の反応を対比する人物描写になじむ。internally は同じ心中の意味に加え、物体・組織・国の内部にも広く使われる。",
+          "example": "She smiled, but inwardly she was disappointed.",
+          "translation": "彼女はほほ笑んだが、内心ではがっかりしていた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 13,
+      "title": "【名詞句：不可算】内科：internal medicine",
+      "frequency": 5,
+      "register": [
+        "医療分野名。ここでは米国の成人内科の範囲を中心に説明する。"
+      ],
+      "definition": "内科という医療分野。米国の専門領域としては、成人について、健康の維持、病気の予防・診断・治療、複雑な状態への対応を広く扱う。特定の一つの内臓だけを診ることを意味するわけではない。",
+      "patterns": [
+        "specialize in internal medicine",
+        "a department of internal medicine",
+        "an internal medicine physician。"
+      ],
+      "collocations": [
+        {
+          "pattern": "specialize in internal medicine",
+          "use": "医師の専門分野を述べる。",
+          "example": "She specializes in internal medicine and treats adult patients.",
+          "translation": "彼女は内科を専門とし、成人の患者を診ている。"
+        },
+        {
+          "pattern": "a department of internal medicine",
+          "use": "病院などの内科部門を指す。",
+          "example": "The hospital has a department of internal medicine for adult care.",
+          "translation": "その病院には、成人の診療を行う内科部門がある。"
+        },
+        {
+          "pattern": "an internal medicine physician",
+          "use": "内科医という役割を述べる。",
+          "example": "The seminar was led by an internal medicine physician.",
+          "translation": "セミナーは、内科医が進行した。"
+        }
+      ],
+      "notes": [
+        "internal medicine は一つの専門分野名で、internal organs の個々の臓器名の集合とは同じでない。国によって制度・資格・診療科の範囲が異なるため、ここでの説明を全ての国の資格条件へ広げない。具体的にどの医師を受診すべきかを、この語だけで決めるものではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 14,
+      "title": "【名詞句：可算】内燃機関：internal combustion engine",
+      "frequency": 5,
+      "register": [
+        "機械・自動車・技術。"
+      ],
+      "definition": "燃料の着火・燃焼が、エンジン自体の内部で起こるエンジン。internal は、燃焼が行われる場所を表す。",
+      "patterns": [
+        "an internal combustion engine",
+        "internal combustion engines",
+        "an internal combustion engine vehicle。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an internal combustion engine",
+          "use": "エンジン方式を一つの名詞句として述べる。",
+          "example": "The exhibit includes a model of an internal combustion engine.",
+          "translation": "展示には、内燃機関の模型が含まれている。"
+        },
+        {
+          "pattern": "internal combustion engines",
+          "use": "複数の内燃機関や方式全体を述べる。",
+          "example": "The course compares several types of internal combustion engines.",
+          "translation": "その講座では、いくつかの種類の内燃機関を比較する。"
+        },
+        {
+          "pattern": "an internal combustion engine vehicle",
+          "use": "動力方式として内燃機関を持つ車両を述べる。",
+          "example": "The report compares an electric vehicle with an internal combustion engine vehicle.",
+          "translation": "その報告書は、電気自動車と内燃機関を動力にする車両を比較している。"
+        }
+      ],
+      "notes": [
+        "句の中心は可算名詞 engine で、複数形は engines。internal combustion が内部燃焼という特徴を示す。ICE という略称も使われるが、氷を表す一般語 ice とは文脈を分ける。具体的な効率・環境性能や製作手順まで、この名称からは決まらない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 15,
+      "title": "【動詞：他動詞・internalize】内面化する、自分の考え方の一部として取り込む",
+      "frequency": 5,
+      "register": [
+        "心理・教育・社会の説明。"
+      ],
+      "definition": "外から得た価値観・態度・信念などを、自分の思考や行動の一部に取り込む。知識として覚えるだけでなく、判断や振る舞いに組み込まれることに重点がある。",
+      "patterns": [
+        "internalize values",
+        "internalize a belief",
+        "internalize stereotypes",
+        "be internalized。"
+      ],
+      "collocations": [
+        {
+          "pattern": "internalize values",
+          "use": "価値観が自分のものとなることを述べる。",
+          "example": "Children may internalize values through everyday interactions.",
+          "translation": "子どもは、日々のやり取りを通じて価値観を内面化することがある。"
+        },
+        {
+          "pattern": "internalize a belief",
+          "use": "外から得た信念を、自分の考えとして取り込むことを述べる。",
+          "example": "He had internalized the belief that asking for help was a weakness.",
+          "translation": "彼は、助けを求めるのは弱さだという信念を内面化していた。"
+        },
+        {
+          "pattern": "internalize stereotypes",
+          "use": "固定的な見方を取り込むことを述べる。",
+          "example": "People can internalize stereotypes without consciously agreeing with them.",
+          "translation": "人は、意識的に賛成していなくても、固定観念を内面化することがある。"
+        },
+        {
+          "pattern": "be internalized",
+          "use": "取り込まれる考えや規範を主語にする。",
+          "example": "The rules had become internalized through repeated practice.",
+          "translation": "繰り返し練習するうちに、規則は内面化されていた。"
+        }
+      ],
+      "notes": [
+        "直接目的語を取る。internalize が、取り込む考えの正しさや好ましさを保証するわけではない。英国綴り internalise も同じ語で、過去形は internalized／internalised。この語義では価値観などを取り込む動作を扱い、単に情報を秘密扱いにするという一般的な処理とは区別する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 16,
+      "title": "【名詞：不可算・internalization】内面化",
+      "frequency": 4,
+      "register": [
+        "心理・教育・社会の説明。"
+      ],
+      "definition": "価値観・信念・態度などを、個人の思考・行動の一部として取り込むこと。また、その過程。ここでは心理・社会的な取り込みを表す名詞として扱う。",
+      "patterns": [
+        "the internalization of something",
+        "the process of internalization",
+        "internalization of social norms。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the internalization of something",
+          "use": "何が内面化されるかを示す。",
+          "example": "The study examines the internalization of social expectations.",
+          "translation": "その研究は、社会的な期待の内面化を調べている。"
+        },
+        {
+          "pattern": "the process of internalization",
+          "use": "考えが取り込まれていく過程を述べる。",
+          "example": "The process of internalization may occur without deliberate reflection.",
+          "translation": "内面化の過程は、意識的に振り返ることなく起こる場合がある。"
+        },
+        {
+          "pattern": "internalization of social norms",
+          "use": "社会の規範が判断・行動に組み込まれることを述べる。",
+          "example": "The chapter discusses the internalization of social norms through interaction.",
+          "translation": "その章は、他者とのやり取りを通じた社会規範の内面化を論じている。"
+        }
+      ],
+      "notes": [
+        "この過程の意味では不可算で、the internalization of … の the は対象が特定されることを示す。英国綴りは internalisation。動詞 internalize と同じ強勢位置のまま読むのではなく、名詞では -zation の部分へ主強勢が移る。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 17,
+      "title": "【形容詞・薬剤の用途】内服の、口から体内へ取り入れる",
+      "frequency": 3,
+      "register": [
+        "薬剤の用途に関する記述。"
+      ],
+      "definition": "薬などを口から体内へ取り入れて使うことに関する用法。物体の内部に存在するという位置の説明とは違い、使用のしかたを分類する。",
+      "patterns": [
+        "for internal use。"
+      ],
+      "collocations": [
+        {
+          "pattern": "for internal use",
+          "use": "薬剤の説明で、内服用途という区分を読む。",
+          "example": "The medicine's label distinguishes external use from internal use.",
+          "translation": "その薬の表示は、外用と内服を区別している。"
+        }
+      ],
+      "notes": [
+        "ここでは辞書にある内服という語彙的用法を扱う。全ての制度・製品で internal use と oral use の範囲が同一だと保証するものではない。薬剤の文脈での用語説明であり、具体的な製品を飲んでよいという指示ではない。実際の薬の使い方は製品の表示や専門家の指示を確認する。会社の文書にある for internal use は組織内向けという別の意味であり、文脈を区別する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}
