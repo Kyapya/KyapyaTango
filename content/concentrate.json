@@ -1,0 +1,987 @@
+{
+  "word": "concentrate",
+  "slug": "concentrate",
+  "ipa": "米: /ˈkɑːnsntreɪt/｜英: /ˈkɒnsntreɪt/。3音節で第1音節に主強勢がある。英米差は第1音節の母音で、米では /ɑː/、英では /ɒ/。名詞でも語末を /ət/ に弱めず、動詞と同じ /eɪt/ で読む。語中の /n/ が音節の中心となる読みを含む。",
+  "lead": "注意や思考を一つの対象へ向け、ほかのことに散らさないようにする。目的語を直接置かず、対象を示すときは on を用いる。",
+  "updated": "2026-10-29",
+  "notion_url": "",
+  "pronunciation": [
+    "concentrated は米: /ˈkɑːnsntreɪtɪd/｜英: /ˈkɒnsntreɪtɪd/、concentrating は米: /ˈkɑːnsntreɪtɪŋ/｜英: /ˈkɒnsntreɪtɪŋ/。どちらも4音節で第1音節に主強勢があり、英米差は第1音節の母音。過去語尾 -ed は /ɪd/ となって音節を一つ加える。",
+    "concentration は米: /ˌkɑːnsnˈtreɪʃn/｜英: /ˌkɒnsnˈtreɪʃn/。4音節で第3音節に主強勢、第1音節に副強勢がある。英米差は第1音節の母音。語中と語末の /n/ が音節の中心となる読みを含む。"
+  ],
+  "etymology": [
+    "中心に集めるという意味から発達した語。Oxford は concentre をラテン語風にした形、またはフランス語 concentrer に由来するとし、con-（一緒に）とラテン語 centrum（中心）を挙げる。centre／center とも「中心」という語源要素を共有する。現代語では注意・資源を一か所に向けることと、物質を薄める成分を減らして濃くすることを区別して捉える。"
+  ],
+  "formation": [
+    {
+      "term": "concentrated",
+      "description": "動詞の過去形・過去分詞。濃縮された、力を集中した、一定の場所に集まったという形容詞用法もある。"
+    },
+    {
+      "term": "concentration",
+      "description": "集中すること・集中力、一か所への集積、濃度などを表す名詞。主強勢は動詞の第1音節から第3音節へ移る。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "注意・力・成分などが、特定の対象や範囲に集まるという捉え方。動詞 concentrate は集めたり濃くしたりする動作、形容詞 concentrated は集まった状態を表す。名詞 concentrate は濃縮物など、派生名詞 concentration は集中すること・集積・濃度などを表す。"
+    },
+    {
+      "type": "item",
+      "text": "注意を一つの対象へ集める姿勢 → 「集中する、専念する」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "注意や努力を一つの対象へ集める働き → 「注意・努力などを集中させる」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "資源や権限を一部へ集める働き → 「一か所・一分野に集める、集約する」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "人や活動が一所へ集まる分布 → 「一か所に集まる、集中して分布する」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "成分を限られた量の中に濃くする働き → 「濃くする、濃縮する」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "成分を濃くした物そのもの → 「濃縮物、濃縮液」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "成分が高い割合で集まる状態 → 「濃縮された、濃度の高い」（語義7）"
+    },
+    {
+      "type": "item",
+      "text": "労力が特定の目的へ集まる状態 → 「集中的な、力を集中した」（語義8）"
+    },
+    {
+      "type": "item",
+      "text": "人や物が一部へ集まっている状態 → 「一部に集まった、集積した」（語義9）"
+    },
+    {
+      "type": "item",
+      "text": "注意を対象へ集めて保つ能力・状態 → 「注意の集中、集中力」（語義10）"
+    },
+    {
+      "type": "item",
+      "text": "労力を特定の対象へ集める方針 → 「特定対象への専念、重点的な取り組み」（語義11）"
+    },
+    {
+      "type": "item",
+      "text": "権限や富が限られた先へ集まる過程・状態 → 「集約すること、集中した状態」（語義12）"
+    },
+    {
+      "type": "item",
+      "text": "人や物が一所へ集まったまとまり → 「一か所に集まった多数、集積」（語義13）"
+    },
+    {
+      "type": "item",
+      "text": "一定の量の中に成分が含まれる度合い → 「濃度」（語義14）"
+    },
+    {
+      "type": "item",
+      "text": "学びを重点的に集める専門領域 → 「大学で専門的に学ぶ領域、専攻」（語義15）"
+    },
+    {
+      "type": "item",
+      "text": "人を一定の場所へ集めて拘禁する施設 → 「強制収容所」（語義16）"
+    },
+    {
+      "type": "item",
+      "text": "光や熱を一点へ集める働き → 「光などを一点へ集める」（語義17）"
+    },
+    {
+      "type": "item",
+      "text": "物質を生体組織へ蓄積する働き → 「生体内に物質を蓄積・濃縮する」（語義18）"
+    },
+    {
+      "type": "item",
+      "text": "有用な鉱物の割合を高めた産物 → 「精鉱、濃縮された鉱物産物」（語義19）"
+    },
+    {
+      "type": "item",
+      "text": "消化可能な栄養分を多く含む飼料 → 「濃厚飼料」（語義20）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【動詞：自動詞】集中する、専念する",
+      "frequency": 9,
+      "register": [
+        "日常・一般・仕事・学習。"
+      ],
+      "definition": "注意や思考を一つの対象へ向け、ほかのことに散らさないようにする。目的語を直接置かず、対象を示すときは on を用いる。",
+      "patterns": [
+        "concentrate",
+        "concentrate on something",
+        "concentrate on doing something",
+        "I concentrate hard",
+        "find it difficult to concentrate。"
+      ],
+      "collocations": [
+        {
+          "pattern": "concentrate on something",
+          "use": "注意を向ける対象を名詞で示す。",
+          "example": "I need to concentrate on the report for the next hour.",
+          "translation": "これから一時間は、報告書に集中する必要がある。"
+        },
+        {
+          "pattern": "concentrate on doing something",
+          "use": "専念する行為を動名詞で示す。",
+          "example": "She concentrated on understanding the main argument.",
+          "translation": "彼女は、議論の要点を理解することに集中した。"
+        },
+        {
+          "pattern": "concentrate hard",
+          "use": "強く注意を向けていることを述べる。",
+          "example": "He concentrated hard but still missed one detail.",
+          "translation": "彼は一生懸命集中したが、それでも細部を一つ見落とした。"
+        },
+        {
+          "pattern": "find it difficult to concentrate",
+          "use": "集中しにくい状態を述べる。",
+          "example": "I find it difficult to concentrate when people are talking nearby.",
+          "translation": "近くで人が話していると、集中しにくい。"
+        }
+      ],
+      "notes": [
+        "対象への on は前置詞なので、後ろは名詞や -ing 形になる。concentrate on finishing とし、同じ意味で concentrate on to finish としない。concentrate the report を報告書に集中するという意味で使わず、concentrate on the report とする。目的語なしの Please concentrate. も可能で、文脈で対象が分かる場合がある。"
+      ],
+      "synonyms": [
+        {
+          "word": "focus",
+          "definition": "注意を特定の対象へ向ける。",
+          "frequency": 9,
+          "difference": "focus on は concentrate on と広く重なる。concentrate は注意を散らさず専念することに、focus は注目対象を定めることに焦点を置きやすい。絶対的な使い分けではない。",
+          "example": "Let's focus on the main question first.",
+          "translation": "まずは主な問題に焦点を当てよう。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【動詞：他動詞】注意・努力などを集中させる",
+      "frequency": 7,
+      "register": [
+        "一般・仕事・学習。"
+      ],
+      "definition": "注意・思考・努力・精力などを、一つの対象や目的へ向ける。集中させるものを直接目的語にし、その向け先を on で示す。",
+      "patterns": [
+        "concentrate one's attention on something",
+        "concentrate one's efforts on doing something",
+        "concentrate one's energies on something",
+        "concentrate the mind。"
+      ],
+      "collocations": [
+        {
+          "pattern": "concentrate one's attention on something",
+          "use": "注意という目的語と、その向け先を示す。",
+          "example": "She concentrated her attention on the speaker's explanation.",
+          "translation": "彼女は、話し手の説明に注意を集中させた。"
+        },
+        {
+          "pattern": "concentrate one's efforts on doing something",
+          "use": "努力を特定の課題へ向けることを述べる。",
+          "example": "The team concentrated its efforts on reducing errors.",
+          "translation": "チームは、誤りを減らすことに努力を集中した。"
+        },
+        {
+          "pattern": "concentrate one's energies on something",
+          "use": "精力の使い先を絞ることを述べる。",
+          "example": "He decided to concentrate his energies on the new project.",
+          "translation": "彼は、新しい事業に精力を集中させることを決めた。"
+        },
+        {
+          "pattern": "concentrate the mind",
+          "use": "状況などが思考を集中させることを述べる。",
+          "example": "A clear deadline can concentrate the mind.",
+          "translation": "明確な締切は、思考を集中させる働きを持ち得る。"
+        }
+      ],
+      "notes": [
+        "I concentrate on the task. と I concentrate my attention on the task. は近い内容だが、後者だけに直接目的語 my attention がある。concentrate the mind のように向け先を明示しないこともある。人を目的語にして何かをさせる一般的な使役動詞ではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【動詞：他動詞】一か所・一分野に集める、集約する",
+      "frequency": 6,
+      "register": [
+        "一般・組織・経済・地理。"
+      ],
+      "definition": "資源・活動・権限などを、特定の場所・分野・人の手元へ多く集める。分散していたものをまとめる場合や、配分を特定の部分へ偏らせる場合に使う。",
+      "patterns": [
+        "concentrate resources in one area",
+        "concentrate power in someone's hands",
+        "concentrate activity around something",
+        "be concentrated in something。"
+      ],
+      "collocations": [
+        {
+          "pattern": "concentrate resources in one area",
+          "use": "資源の配置を一つの地域に集める。",
+          "example": "The agency concentrated its resources in the worst-affected area.",
+          "translation": "その機関は、最も被害の大きかった地域に資源を集中させた。"
+        },
+        {
+          "pattern": "concentrate power in someone's hands",
+          "use": "権限が特定の人へ集まることを述べる。",
+          "example": "The reform concentrated decision-making power in the director's hands.",
+          "translation": "その改革によって、意思決定権が責任者の手に集中した。"
+        },
+        {
+          "pattern": "concentrate activity around something",
+          "use": "活動の中心となる場所を示す。",
+          "example": "The plan concentrates commercial activity around the station.",
+          "translation": "その計画は、商業活動を駅の周辺に集約する。"
+        },
+        {
+          "pattern": "be concentrated in something",
+          "use": "集められる側を主語にし、集積先を示す。",
+          "example": "Most of the equipment was concentrated in a single building.",
+          "translation": "機器の大半は、一つの建物に集められていた。"
+        }
+      ],
+      "notes": [
+        "場所なら in／around、注意や資源を向ける対象なら on など、後ろの関係に応じて前置詞を使い分ける。concentrate power と言っても、それ自体で政治的に正当か不当かを判定しているわけではない。centralize は中心へ権限・機能をまとめることに重点があり、concentrate は量や配分が一部に集まることにも広く使う。"
+      ],
+      "synonyms": [
+        {
+          "word": "centralize",
+          "definition": "権限や機能を一つの中心へまとめる。",
+          "frequency": 5,
+          "difference": "concentrate は量や分布が一部へ集まることに広く使う。centralize は管理や意思決定の中心をまとめることに重点がある。",
+          "example": "The company centralized purchasing at its head office.",
+          "translation": "その会社は、購買業務を本社に集約した。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【動詞：自動詞】一か所に集まる、集中して分布する",
+      "frequency": 4,
+      "register": [
+        "分布・地理・状況の説明。"
+      ],
+      "definition": "人・活動などが、共通の場所や領域へ多く集まる。集まるもの自体を主語にし、直接目的語を取らない。",
+      "patterns": [
+        "businesses concentrate in an area",
+        "people concentrate near something",
+        "activity concentrates around something。"
+      ],
+      "collocations": [
+        {
+          "pattern": "businesses concentrate in an area",
+          "use": "企業の分布が一部の地域へ集まることを述べる。",
+          "example": "Similar businesses tend to concentrate in the same district.",
+          "translation": "同種の企業は、同じ地区に集まる傾向がある。"
+        },
+        {
+          "pattern": "people concentrate near something",
+          "use": "人が特定地点の近くに多く集まることを述べる。",
+          "example": "People concentrated near the main entrance as the event ended.",
+          "translation": "行事が終わると、人々は正面入口の近くに集まった。"
+        },
+        {
+          "pattern": "activity concentrates around something",
+          "use": "活動の集まり方を述べる。",
+          "example": "Economic activity concentrates around the transport hub.",
+          "translation": "経済活動は、その交通拠点の周辺に集中している。"
+        }
+      ],
+      "notes": [
+        "この語義では concentrate は注意を向けるという意味ではなく、分布や集まり方を述べる。Companies concentrate in the city. と、何者かが企業を集めたという The policy concentrated companies in the city. は、自他と主語の役割が異なる。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 5,
+      "title": "【動詞：他動詞】濃くする、濃縮する",
+      "frequency": 5,
+      "register": [
+        "食品・化学・加工。"
+      ],
+      "definition": "水などの成分を減らすなどして、対象物中の特定成分の割合を高める。液体・食品などを濃縮する動作。単に総量を多くすることとは異なる。",
+      "patterns": [
+        "concentrate fruit juice",
+        "concentrate a solution",
+        "be concentrated by removing water。"
+      ],
+      "collocations": [
+        {
+          "pattern": "concentrate fruit juice",
+          "use": "果汁から水分を減らして濃くすることを述べる。",
+          "example": "The process concentrates fruit juice by removing some of its water.",
+          "translation": "その工程は、水分の一部を取り除いて果汁を濃縮する。"
+        },
+        {
+          "pattern": "concentrate a solution",
+          "use": "溶液中の成分の割合を高めることを述べる。",
+          "example": "The laboratory concentrated the solution before analysis.",
+          "translation": "研究室では、分析前に溶液を濃縮した。"
+        },
+        {
+          "pattern": "be concentrated by removing water",
+          "use": "濃縮される物質を主語にする。",
+          "example": "The liquid is concentrated by removing water under controlled conditions.",
+          "translation": "その液体は、管理された条件下で水を除去することにより濃縮される。"
+        }
+      ],
+      "notes": [
+        "concentrate a solution は溶液を濃縮すること。注意を向ける concentrate on a solution とは、目的語と前置詞の有無も意味も異なる。濃縮の具体的手法や安全条件は物質によって異なり、この語の例文は操作手順を示すものではない。"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "dilute",
+          "definition": "水などを加えて、含まれる成分の濃度を下げる。",
+          "frequency": 5,
+          "difference": "concentrate が濃度を高める方向なのに対し、dilute は濃度を下げる方向を表す。量が増えるか減るかだけの対立ではない。",
+          "example": "The technician diluted the sample before measurement.",
+          "translation": "技術者は、測定前に試料を希釈した。"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "【名詞：可算・不可算】濃縮物、濃縮液",
+      "frequency": 5,
+      "register": [
+        "食品・製品表示・加工。"
+      ],
+      "definition": "水などの成分を取り除き、特定成分を濃くした物質。食品などで、そのままの原料や、後から水を加えた製品と区別する。",
+      "patterns": [
+        "juice concentrate",
+        "from concentrate",
+        "a fruit concentrate",
+        "add water to the concentrate。"
+      ],
+      "collocations": [
+        {
+          "pattern": "juice concentrate",
+          "use": "濃縮した果汁という物質を述べる。",
+          "example": "The recipe uses a small amount of juice concentrate.",
+          "translation": "そのレシピでは、少量の濃縮果汁を使う。"
+        },
+        {
+          "pattern": "from concentrate",
+          "use": "濃縮原料を基にした製品であることを示す。",
+          "example": "The label states that the juice is made from concentrate.",
+          "translation": "表示には、そのジュースは濃縮果汁から作られていると記されている。"
+        },
+        {
+          "pattern": "a fruit concentrate",
+          "use": "一種類の濃縮原料を数えて述べる。",
+          "example": "The supplier introduced a fruit concentrate with a different flavour profile.",
+          "translation": "供給業者は、風味の特徴が異なる濃縮果汁原料を導入した。"
+        },
+        {
+          "pattern": "add water to the concentrate",
+          "use": "濃縮物に水を加えるという関係を述べる。",
+          "example": "Water was added to the concentrate before the mixture was tested.",
+          "translation": "混合物を試験する前に、濃縮物に水が加えられた。"
+        }
+      ],
+      "notes": [
+        "物質としては不可算で、一種類・一製品などを数える場合には a concentrate／concentrates が使える。concentrate は濃縮された物そのもの、concentration は濃縮の度合いや集中という名詞で、いつでも交換できるわけではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【形容詞：concentrated】濃縮された、濃度の高い",
+      "frequency": 5,
+      "register": [
+        "食品・化学・製品の説明。"
+      ],
+      "definition": "ある物質の中に特定成分が高い割合で含まれる、または水などを減らして濃くした状態。少ない量でも多くの成分を含むという相対的な濃さを述べる。",
+      "patterns": [
+        "concentrated juice",
+        "a concentrated solution",
+        "highly concentrated",
+        "more concentrated than something。"
+      ],
+      "collocations": [
+        {
+          "pattern": "concentrated juice",
+          "use": "濃縮した状態の果汁を形容する。",
+          "example": "The container holds concentrated juice rather than a ready-to-drink beverage.",
+          "translation": "その容器には、そのまま飲む飲料ではなく濃縮果汁が入っている。"
+        },
+        {
+          "pattern": "a concentrated solution",
+          "use": "濃度が高い溶液を述べる。",
+          "example": "The sample is a concentrated solution of the substance.",
+          "translation": "その試料は、その物質の濃度が高い溶液である。"
+        },
+        {
+          "pattern": "highly concentrated",
+          "use": "濃度が特に高いことを述べる。",
+          "example": "The product is highly concentrated, according to its technical description.",
+          "translation": "技術説明によると、その製品は非常に高濃度である。"
+        },
+        {
+          "pattern": "more concentrated than something",
+          "use": "二つの試料の濃度を比較する。",
+          "example": "This sample is more concentrated than the previous one.",
+          "translation": "この試料は、前のものより濃度が高い。"
+        }
+      ],
+      "notes": [
+        "酸・塩基について、濃度が高いという concentrated と、強酸・強塩基の strong は別の意味軸である。ただし、一般語の strong が濃さを表すこともあり、strong 全般を濃度と無関係だと考えない。濃度・量・危険性も同一の尺度ではないため、concentrated だけから使用方法や安全性を決めない。"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "dilute",
+          "definition": "溶液などに含まれる成分の濃度が低い。",
+          "frequency": 4,
+          "difference": "ここでは形容詞で、concentrated と濃度の高低という程度上の対立をなす。動詞 dilute は薄める動作を表す。",
+          "example": "The experiment used a dilute solution of salt.",
+          "translation": "その実験では、薄い食塩水を使った。"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "【形容詞：concentrated】集中的な、力を集中した",
+      "frequency": 6,
+      "register": [
+        "一般・仕事・学習。"
+      ],
+      "definition": "努力・作業などが、特定の目的に強く集中している。液体の濃さではなく、力や注意を散らさず向ける状態を述べる。",
+      "patterns": [
+        "a concentrated effort",
+        "concentrated work",
+        "a concentrated period of study。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a concentrated effort",
+          "use": "目標に力を集めた努力を述べる。",
+          "example": "A concentrated effort by the whole team resolved the problem.",
+          "translation": "チーム全体が集中的に努力したことで、その問題が解決した。"
+        },
+        {
+          "pattern": "concentrated work",
+          "use": "注意や労力を集中した作業を述べる。",
+          "example": "The task required several hours of concentrated work.",
+          "translation": "その課題には、数時間の集中的な作業が必要だった。"
+        },
+        {
+          "pattern": "a concentrated period of study",
+          "use": "ある期間に集中して学ぶことを述べる。",
+          "example": "She completed the course after a concentrated period of study.",
+          "translation": "彼女は、集中的に学ぶ期間を経て、その課程を修了した。"
+        }
+      ],
+      "notes": [
+        "concentrated effort は努力の集中を述べ、成果が必ず得られることや、長時間であることまで保証しない。concentrated juice の濃縮とは対象の種類が違う。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 9,
+      "title": "【形容詞：concentrated】一部に集まった、集積した",
+      "frequency": 5,
+      "register": [
+        "地理・組織・経済・分布の説明。"
+      ],
+      "definition": "人・物・権限などが、限られた場所や集団に多く集まっている。集める動作そのものより、集中して分布する状態を述べる。",
+      "patterns": [
+        "be concentrated in an area",
+        "be concentrated among a group",
+        "highly concentrated ownership",
+        "remain concentrated。"
+      ],
+      "collocations": [
+        {
+          "pattern": "be concentrated in an area",
+          "use": "分布が特定の場所に偏っていることを述べる。",
+          "example": "The population is concentrated in a narrow coastal strip.",
+          "translation": "人口は、海岸沿いの狭い帯状の地域に集中している。"
+        },
+        {
+          "pattern": "be concentrated among a group",
+          "use": "特定の集団へ多く集まる状態を述べる。",
+          "example": "Ownership is concentrated among a small group of investors.",
+          "translation": "所有は、少数の投資家の集団に集中している。"
+        },
+        {
+          "pattern": "highly concentrated ownership",
+          "use": "所有が分散していないことを名詞の前で示す。",
+          "example": "The report describes a market with highly concentrated ownership.",
+          "translation": "その報告書は、所有が非常に集中した市場を説明している。"
+        },
+        {
+          "pattern": "remain concentrated",
+          "use": "集積した状態の持続を述べる。",
+          "example": "Most jobs remain concentrated in the largest cities.",
+          "translation": "仕事の大半は、依然として大都市に集中している。"
+        }
+      ],
+      "notes": [
+        "be concentrated は集められたという受動態としても、集中している状態の説明としても読める。具体的な行為者・時点を述べるか、現在の分布に注目するかで捉え方が変わる。状態の集中と、人物が集中して考えていることを混同しない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 10,
+      "title": "【名詞：不可算・concentration】注意の集中、集中力",
+      "frequency": 8,
+      "register": [
+        "日常・一般・学習・仕事。"
+      ],
+      "definition": "注意や思考を一つの対象に保つこと、またその能力。周囲の刺激に注意を奪われず、考えたり作業したりする状態を表す。",
+      "patterns": [
+        "require concentration",
+        "lose concentration",
+        "break someone's concentration",
+        "a lapse in concentration",
+        "powers of concentration。"
+      ],
+      "collocations": [
+        {
+          "pattern": "require concentration",
+          "use": "作業に集中が必要なことを述べる。",
+          "example": "The puzzle requires patience and concentration.",
+          "translation": "そのパズルには、忍耐と集中力が必要だ。"
+        },
+        {
+          "pattern": "lose concentration",
+          "use": "注意を保てなくなることを述べる。",
+          "example": "I lost concentration when the phone rang.",
+          "translation": "電話が鳴ったとき、集中が途切れた。"
+        },
+        {
+          "pattern": "break someone's concentration",
+          "use": "外部の出来事が集中を妨げることを述べる。",
+          "example": "The sudden noise broke her concentration.",
+          "translation": "突然の物音で、彼女の集中が途切れた。"
+        },
+        {
+          "pattern": "a lapse in concentration",
+          "use": "一時的な注意の途切れを述べる。",
+          "example": "A brief lapse in concentration led to a small mistake.",
+          "translation": "一瞬集中が途切れたため、小さな間違いが生じた。"
+        },
+        {
+          "pattern": "powers of concentration",
+          "use": "集中する能力を述べる。",
+          "example": "The game tests the players' powers of concentration.",
+          "translation": "そのゲームは、参加者の集中力を試すものだ。"
+        }
+      ],
+      "notes": [
+        "この意味では不可算で、通常 have good concentration とする。a lapse in concentration の a は lapse に付く。ここで concentration を一つの濃縮液という意味の concentrate に置き換えない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 11,
+      "title": "【名詞：不可算・concentration】特定対象への専念、重点的な取り組み",
+      "frequency": 5,
+      "register": [
+        "業務・学習・分析。"
+      ],
+      "definition": "活動や考えをある対象へ絞って向けること。集中できる能力そのものより、何に注意・労力を配分するかという方針や取り組みに焦点を置く。",
+      "patterns": [
+        "concentration on something",
+        "concentration on doing something",
+        "excessive concentration on something。"
+      ],
+      "collocations": [
+        {
+          "pattern": "concentration on something",
+          "use": "専念する対象を示す。",
+          "example": "The company's concentration on quality helped it build a reputation.",
+          "translation": "その会社は、品質に重点を置くことで評判を築いた。"
+        },
+        {
+          "pattern": "concentration on doing something",
+          "use": "取り組みを向ける行為を動名詞で示す。",
+          "example": "Their concentration on improving the process produced steady gains.",
+          "translation": "彼らが工程改善に重点的に取り組んだことで、着実な改善が得られた。"
+        },
+        {
+          "pattern": "excessive concentration on something",
+          "use": "一つの対象への偏りが過度だと評価する。",
+          "example": "Excessive concentration on short-term results can obscure longer-term needs.",
+          "translation": "短期的な結果を重視しすぎると、長期的な必要性が見えにくくなることがある。"
+        }
+      ],
+      "notes": [
+        "on の後ろが取り組みの対象。concentration of a substance は物質の濃度を述べる別の構文で、前置詞だけを入れ替えて同じ内容になるわけではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 12,
+      "title": "【名詞：不可算・concentration】集約すること、集中した状態",
+      "frequency": 6,
+      "register": [
+        "一般・政治・経済・組織。"
+      ],
+      "definition": "権限・富・資源などが、限られた場所・人・組織へ集まること、また集められた状態。注意力ではなく、配分や分布の偏りを述べる。",
+      "patterns": [
+        "concentration of power",
+        "concentration of wealth in someone's hands",
+        "concentration of resources in one area。"
+      ],
+      "collocations": [
+        {
+          "pattern": "concentration of power",
+          "use": "権力や権限が一部へ集まることを述べる。",
+          "example": "The proposal would lead to further concentration of power.",
+          "translation": "その提案は、権力のさらなる集中につながるだろう。"
+        },
+        {
+          "pattern": "concentration of wealth in someone's hands",
+          "use": "富の集中先を示す。",
+          "example": "The report examines concentration of wealth in the hands of a small minority.",
+          "translation": "その報告書は、ごく少数の人々への富の集中を検討している。"
+        },
+        {
+          "pattern": "concentration of resources in one area",
+          "use": "資源の配分が一つの領域へ集まることを述べる。",
+          "example": "Concentration of resources in one area left other regions short of equipment.",
+          "translation": "一つの地域に資源が集中したため、ほかの地域では機器が不足した。"
+        }
+      ],
+      "notes": [
+        "of の後ろは集まるもの、in などの後ろは集中先である。過程・状態としては不可算だが、a concentration of shops のように一つの集積を捉える可算用法もある。concentration on quality は品質への専念であり、of power の権限の集約とは区別する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 13,
+      "title": "【名詞：可算・concentration】一か所に集まった多数、集積",
+      "frequency": 6,
+      "register": [
+        "地理・社会・分布の説明。"
+      ],
+      "definition": "人や物が、ある場所に多く集まっていること、またそのまとまり。周囲に比べて多い分布を述べる。",
+      "patterns": [
+        "a concentration of something",
+        "a high concentration of something",
+        "large concentrations of something。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a concentration of something",
+          "use": "特定の場所に集まるものを示す。",
+          "example": "There is a concentration of small restaurants near the station.",
+          "translation": "駅の近くには、小さな飲食店が集まっている。"
+        },
+        {
+          "pattern": "a high concentration of something",
+          "use": "一定の地域に特に多く存在することを述べる。",
+          "example": "The district has a high concentration of technology firms.",
+          "translation": "その地区には、技術系企業が多く集積している。"
+        },
+        {
+          "pattern": "large concentrations of something",
+          "use": "多く集まった区域・まとまりを複数形で述べる。",
+          "example": "The map shows large concentrations of population along the coast.",
+          "translation": "その地図は、海岸沿いの大きな人口集積を示している。"
+        }
+      ],
+      "notes": [
+        "a concentration of shops は店が集まることを述べ、店が注意力を発揮しているという意味ではない。複数の区域やまとまりなら concentrations が使える。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 14,
+      "title": "【名詞：可算・不可算・concentration】濃度",
+      "frequency": 6,
+      "register": [
+        "化学・科学・測定。"
+      ],
+      "definition": "溶液・混合物などの中に、特定の成分がどれくらい含まれているかを示す割合や、一定の量・体積あたりの量。物質の絶対的な総量だけを表す語ではない。",
+      "patterns": [
+        "the concentration of something in something",
+        "at a high concentration",
+        "low concentrations of something",
+        "measure concentration。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the concentration of something in something",
+          "use": "成分と、その成分を含む媒体を示す。",
+          "example": "The concentration of salt in the solution was measured in grams per litre.",
+          "translation": "溶液中の塩の濃度は、1リットルあたりのグラム数で測定された。"
+        },
+        {
+          "pattern": "at a high concentration",
+          "use": "高濃度という条件を述べる。",
+          "example": "The substance behaves differently at a high concentration.",
+          "translation": "その物質は、高濃度では挙動が異なる。"
+        },
+        {
+          "pattern": "low concentrations of something",
+          "use": "少ない割合で存在する成分を述べる。",
+          "example": "The instrument can detect low concentrations of the compound.",
+          "translation": "その装置は、低濃度のその化合物を検出できる。"
+        },
+        {
+          "pattern": "measure concentration",
+          "use": "濃度を測定することを述べる。",
+          "example": "The team measured concentration as well as total volume.",
+          "translation": "チームは、総体積に加えて濃度も測定した。"
+        }
+      ],
+      "notes": [
+        "a concentration や concentrations は特定の値・条件を数える場合に使い、濃度という性質一般は不可算でも使う。単位・温度・対象物質などの条件を切り離して数値を比較しない。concentrate は濃縮物、concentrated は高濃度などの状態を表す形容詞である。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 15,
+      "title": "【名詞：可算・concentration】大学で専門的に学ぶ領域、専攻",
+      "frequency": 4,
+      "register": [
+        "米国の大学などの教育用語。"
+      ],
+      "definition": "大学などで、学生が重点的に学ぶ専門領域を指す用法。米国の大学で見られ、たとえばブラウン大学では major に相当する呼称として concentration を用いる。制度上の位置づけは教育機関によって確認する。",
+      "patterns": [
+        "choose a concentration",
+        "an academic concentration",
+        "a concentration in a subject。"
+      ],
+      "collocations": [
+        {
+          "pattern": "choose a concentration",
+          "use": "専門的に学ぶ分野を選ぶことを述べる。",
+          "example": "Students are encouraged to explore several fields before choosing a concentration.",
+          "translation": "学生は、専攻を選ぶ前に複数の分野を学んでみるよう勧められている。"
+        },
+        {
+          "pattern": "an academic concentration",
+          "use": "学問上の専門領域であることを明示する。",
+          "example": "Her academic concentration combines history and political theory.",
+          "translation": "彼女の専攻は、歴史と政治理論を組み合わせたものだ。"
+        },
+        {
+          "pattern": "a concentration in a subject",
+          "use": "専門分野を in の後ろで示す。",
+          "example": "He completed a concentration in economics.",
+          "translation": "彼は、経済学の専攻課程を修了した。"
+        }
+      ],
+      "notes": [
+        "この意味は集中力ではなく学習分野を指す。どの大学でも concentration と major が完全に同一の制度というわけではないため、課程名・要件は当該大学の説明で確認する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 16,
+      "title": "【名詞句：可算・concentration camp】強制収容所",
+      "frequency": 5,
+      "register": [
+        "歴史・収容制度の記述。"
+      ],
+      "definition": "政治的な理由や特定集団への迫害などによって、民間人等を通常の司法手続による刑の言い渡しや審査とは別に拘禁する施設を指す用語。歴史叙述などで使われる。単に大勢が集まる野営地を意味するわけではない。",
+      "patterns": [
+        "a concentration camp",
+        "concentration camps",
+        "survivors of concentration camps。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a concentration camp",
+          "use": "強制収容所という施設を述べる。",
+          "example": "The memoir describes the author's detention in a concentration camp.",
+          "translation": "その回想録は、著者が強制収容所に拘禁された経験を記している。"
+        },
+        {
+          "pattern": "concentration camps",
+          "use": "複数の施設や体系を述べる。",
+          "example": "The museum explains the role of concentration camps in the Nazi camp system.",
+          "translation": "その博物館は、ナチ体制の収容所体系における強制収容所の役割を説明している。"
+        },
+        {
+          "pattern": "survivors of concentration camps",
+          "use": "収容所で生き延びた人々を述べる。",
+          "example": "The exhibition includes testimony from survivors of concentration camps.",
+          "translation": "その展示には、強制収容所の生存者の証言が含まれている。"
+        }
+      ],
+      "notes": [
+        "concentration camp と、大量殺害を主要目的として設置された killing center／extermination camp を常に同義にしない。一方、強制収容所で殺害がなかったという意味でもなく、歴史上は機能や分類が重なる施設もある。単語の形だけで、個別施設の実態や法的性質を決めつけない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 17,
+      "title": "【動詞：他動詞】光などを一点へ集める",
+      "frequency": 4,
+      "register": [
+        "光学・科学。"
+      ],
+      "definition": "光や熱などを限られた場所へ集める。注意・努力という抽象的な対象ではなく、物理的な作用が集中することを述べる。",
+      "patterns": [
+        "concentrate light",
+        "concentrate heat in one spot",
+        "concentrate sunlight onto something。"
+      ],
+      "collocations": [
+        {
+          "pattern": "concentrate light",
+          "use": "光を限られた場所に集めることを述べる。",
+          "example": "The lens concentrates light onto a small area.",
+          "translation": "レンズは、小さな領域に光を集める。"
+        },
+        {
+          "pattern": "concentrate heat in one spot",
+          "use": "熱が一か所に集まることを述べる。",
+          "example": "The design concentrates heat in one spot rather than spreading it evenly.",
+          "translation": "その設計では、熱が均一に広がるのでなく、一点に集中する。"
+        },
+        {
+          "pattern": "concentrate sunlight onto something",
+          "use": "太陽光が向かう対象を示す。",
+          "example": "The diagram shows mirrors concentrating sunlight onto a receiver.",
+          "translation": "その図は、鏡が受光部へ太陽光を集める様子を示している。"
+        }
+      ],
+      "notes": [
+        "concentrate light on／onto … は光を物理的に集める表現で、concentrate on light のように人が光の話題に集中する用法と構造が違う。ここでは光学的な関係を説明し、具体的な装置の操作方法を示していない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 18,
+      "title": "【動詞：他動詞】生体内に物質を蓄積・濃縮する",
+      "frequency": 3,
+      "register": [
+        "生物学・環境科学。"
+      ],
+      "definition": "生物が取り込んだ物質を体内の組織などに蓄え、そこでの濃度を高める。注意を向けるという心理的動作ではなく、生物学的な物質の集積を述べる。",
+      "patterns": [
+        "concentrate pollutants",
+        "concentrate a substance in tissues。"
+      ],
+      "collocations": [
+        {
+          "pattern": "concentrate pollutants",
+          "use": "生物による汚染物質の集積を述べる。",
+          "example": "Some aquatic organisms can concentrate pollutants in their tissues.",
+          "translation": "一部の水生生物は、体内の組織に汚染物質を蓄積・濃縮することがある。"
+        },
+        {
+          "pattern": "concentrate a substance in tissues",
+          "use": "物質が生体内のどこに集まるかを述べる。",
+          "example": "The study examined how the organisms concentrated the substance in their tissues.",
+          "translation": "その研究は、生物がその物質を組織内でどのように濃縮するかを調べた。"
+        }
+      ],
+      "notes": [
+        "主語は物質を蓄積する生物、目的語は蓄積される物質。生物が意識的に注意を向けているという意味ではない。具体的な物質の影響や健康上の危険度を、この動詞だけで判断しない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 19,
+      "title": "【名詞：可算・不可算】精鉱、濃縮された鉱物産物",
+      "frequency": 3,
+      "register": [
+        "鉱業・資源・貿易。"
+      ],
+      "definition": "鉱石から不要な成分の一部を取り除き、有用な鉱物の割合を高めた産物。採掘された鉱石そのものや、最終的な純金属とは区別する。",
+      "patterns": [
+        "copper concentrate",
+        "mineral concentrates",
+        "ship concentrate。"
+      ],
+      "collocations": [
+        {
+          "pattern": "copper concentrate",
+          "use": "銅を多く含む精鉱を述べる。",
+          "example": "The facility processes copper concentrate before further refining.",
+          "translation": "その施設は、さらに精製する前の銅精鉱を処理している。"
+        },
+        {
+          "pattern": "mineral concentrates",
+          "use": "複数種・複数の精鉱を述べる。",
+          "example": "The port handles several kinds of mineral concentrates.",
+          "translation": "その港は、数種類の精鉱を取り扱っている。"
+        },
+        {
+          "pattern": "ship concentrate",
+          "use": "産物としての精鉱の輸送を述べる。",
+          "example": "The mine ships concentrate to a processing plant.",
+          "translation": "その鉱山は、処理施設へ精鉱を出荷している。"
+        }
+      ],
+      "notes": [
+        "concentrate は有用成分の割合を高めた中間産物を指し、必ず完全に純粋な金属を意味するわけではない。具体的な成分や品位は、対象鉱物・工程・仕様で異なる。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 20,
+      "title": "【名詞：可算・不可算】濃厚飼料",
+      "frequency": 2,
+      "register": [
+        "畜産・飼料。"
+      ],
+      "definition": "一般に粗繊維が比較的少なく、消化可能な栄養分を多く含む飼料。粗飼料などと区別して用いられる畜産上の名称で、果汁の濃縮液とは対象が異なる。",
+      "patterns": [
+        "feed concentrate",
+        "concentrates for livestock",
+        "a mixture of forage and concentrate。"
+      ],
+      "collocations": [
+        {
+          "pattern": "feed concentrate",
+          "use": "栄養密度の高い飼料を指す。",
+          "example": "The report compares forage with feed concentrate.",
+          "translation": "その報告書は、粗飼料と濃厚飼料を比較している。"
+        },
+        {
+          "pattern": "concentrates for livestock",
+          "use": "家畜向けの濃厚飼料を述べる。",
+          "example": "The supplier produces concentrates for livestock.",
+          "translation": "その供給業者は、家畜用の濃厚飼料を製造している。"
+        },
+        {
+          "pattern": "a mixture of forage and concentrate",
+          "use": "粗飼料と濃厚飼料を区別して配合を述べる。",
+          "example": "The study describes a mixture of forage and concentrate.",
+          "translation": "その研究は、粗飼料と濃厚飼料の混合について述べている。"
+        }
+      ],
+      "notes": [
+        "concentrate という語だけで、全ての家畜に適切な給与量や配合が決まるわけではない。ここでは飼料の分類名を説明している。原料から水分などを取り除く濃縮加工を必ず経たという意味ではなく、穀類などもこの分類に含まれる。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}
