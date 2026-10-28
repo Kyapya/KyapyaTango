@@ -1,0 +1,965 @@
+{
+  "word": "core",
+  "slug": "core",
+  "ipa": "米: /kɔːr/｜英: /kɔː(r)/。1音節。英米差は第1音節末の /r/ で、米音では発音し、英音の括弧付き /r/ は後ろに母音が続く場合などの連結で現れる。名詞・形容詞・動詞で基本の発音は同じ。",
+  "lead": "問題・議論・考えなどを成り立たせる、中心的で重要な部分。周辺の事情や細部と区別して、何が本質なのかを述べる。",
+  "updated": "2026-10-29",
+  "notion_url": "",
+  "pronunciation": [
+    "複数形・三人称単数現在形 cores は米: /kɔːrz/｜英: /kɔːz/、過去形・過去分詞 cored は米: /kɔːrd/｜英: /kɔːd/。どちらも1音節で、英米差は第1音節の母音に続く /r/ の有無である。coring は米・英: /ˈkɔːrɪŋ/。2音節で第1音節に主強勢があり、母音が続くため英音にも /r/ が現れる。corps の単数形とは同音になるが、corpse は語末に /s/ があり別の語である。"
+  ],
+  "etymology": [
+    "中英語から使われているが、語の起源は確定していない。心臓を意味するラテン語 cor と形や意味が似ていることだけで、直接の由来と断定しない。果実の芯を取り除く動詞は、名詞 core を基にした用法である。"
+  ],
+  "formation": [
+    {
+      "term": "cores",
+      "description": "名詞の複数形、または動詞の三人称単数現在形。前後の構造で区別する。"
+    },
+    {
+      "term": "cored",
+      "description": "動詞の過去形・過去分詞。a cored apple は、芯を取り除いたリンゴという受動的な関係を示す。"
+    },
+    {
+      "term": "coring",
+      "description": "動詞の -ing 形。綴りは語末の e を落として作る。"
+    },
+    {
+      "term": "corer",
+      "description": "芯やコアを取り出す道具・器具を表す名詞。果実の芯抜き器やコア試料の採取器具などを指し、core の比較級として作られた形ではない。"
+    }
+  ],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "外側や周辺に対して、内部を構成する部分や機能上の中核。物体の芯だけでなく、活動を支える主要部分を指し、専門用法では何の内部・中核として扱うかによって対象が定まる。"
+    },
+    {
+      "type": "item",
+      "text": "物事の中心を成す本質的な内容 → 「核心、本質、最も重要な部分」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "物体の中心を成す内部の部分 → 「物の中心部、内部の核」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "果実の中心を成す種を含む部分 → 「果実の芯」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "活動の中心を成す主要な部分 → 「主要な、中核の、基本となる」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "胴体の中心を成す筋肉のまとまり → 「体幹の筋群、胴体中心部」（語義5）"
+    },
+    {
+      "type": "item",
+      "text": "活動の中心を成す人のまとまり → 「中心を成す人々、中核集団」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "果実の中心部分を取り除く動作 → 「果実の芯を取り除く」（語義7）"
+    },
+    {
+      "type": "item",
+      "text": "対象の中心まで及ぶ深さや程度 → 「芯まで、心底、徹底的に：to the core」（語義8）"
+    },
+    {
+      "type": "item",
+      "text": "命令処理の中心を成すCPU内の単位 → 「CPUの処理コア」（語義9）"
+    },
+    {
+      "type": "item",
+      "text": "変動の大きい品目を除いて捉える物価の基調 → 「物価の基調を見るため一部の品目を除いた」（語義10）"
+    },
+    {
+      "type": "item",
+      "text": "原子炉の中心を成す反応部分 → 「原子炉の炉心」（語義11）"
+    },
+    {
+      "type": "item",
+      "text": "対象の内部を抜き出した試料 → 「内部から採った柱状の試料」（語義12）"
+    },
+    {
+      "type": "item",
+      "text": "内部の試料となる部分を取り出す動作 → 「コア試料を採取する」（語義13）"
+    },
+    {
+      "type": "item",
+      "text": "磁気回路の中心を成す材料・部材 → 「コイルなどの磁性体の芯、鉄心」（語義14）"
+    },
+    {
+      "type": "item",
+      "text": "鋳型内部の形を作る部材 → 「鋳型の中子」（語義15）"
+    },
+    {
+      "type": "item",
+      "text": "建物の設備や動線をまとめる中核部分 → 「建物の設備・縦動線をまとめたコア」（語義16）"
+    },
+    {
+      "type": "item",
+      "text": "ケーブル内部を構成する導体単位 → 「ケーブルの芯線・絶縁された導体」（語義17）"
+    },
+    {
+      "type": "item",
+      "text": "剥片を採る元となる石の塊 → 「石器の材料となる石核」（語義18）"
+    },
+    {
+      "type": "item",
+      "text": "磁気的な記憶を担う素子 → 「磁気コアメモリの記憶素子」（語義19）"
+    }
+  ],
+  "sources": [],
+  "senses": [
+    {
+      "number": 1,
+      "title": "【名詞：可算・通常単数】核心、本質、最も重要な部分",
+      "frequency": 8,
+      "register": [
+        "一般・議論・業務・評論。"
+      ],
+      "definition": "問題・議論・考えなどを成り立たせる、中心的で重要な部分。周辺の事情や細部と区別して、何が本質なのかを述べる。",
+      "patterns": [
+        "the core of the problem",
+        "at the core of something",
+        "at its core",
+        "get to the core of something",
+        "form the core of something。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the core of the problem",
+          "use": "問題の本質的な部分を示す。",
+          "example": "The lack of reliable data is the core of the problem.",
+          "translation": "信頼できるデータがないことが、その問題の核心だ。"
+        },
+        {
+          "pattern": "at the core of something",
+          "use": "中心的な要因や理念の位置付けを示す。",
+          "example": "Trust is at the core of a lasting partnership.",
+          "translation": "長続きする協力関係の中心には、信頼がある。"
+        },
+        {
+          "pattern": "at its core",
+          "use": "対象を本質的に捉えて説明する。",
+          "example": "At its core, the dispute is about who has the authority to decide.",
+          "translation": "本質的には、その争いは誰に決定権があるのかという問題だ。"
+        },
+        {
+          "pattern": "get to the core of something",
+          "use": "周辺の話から重要な点へ到達することを述べる。",
+          "example": "Her question got to the core of the disagreement.",
+          "translation": "彼女の質問は、意見の相違の核心を突いた。"
+        },
+        {
+          "pattern": "form the core of something",
+          "use": "何が中心的内容を構成するかを述べる。",
+          "example": "These principles form the core of the training programme.",
+          "translation": "これらの原則が、その研修プログラムの中心を成している。"
+        }
+      ],
+      "notes": [
+        "at the core of は中心的位置、get to the core of は核心へ到達する動きで、前置詞は構文ごとに読む。core が必ず唯一の原因を意味するわけではなく、中心的な考え・内容・部分にも使える。"
+      ],
+      "synonyms": [
+        {
+          "word": "essence",
+          "definition": "そのものをそのものたらしめる本質。",
+          "frequency": 6,
+          "difference": "本質的な性質や特徴に焦点がある。core は問題の中心部分や、中心を成す要素のまとまりにも使う。",
+          "example": "Simplicity is the essence of this design.",
+          "translation": "簡潔さが、このデザインの本質だ。"
+        },
+        {
+          "word": "heart",
+          "definition": "物事の中心的・最重要の部分。",
+          "frequency": 8,
+          "difference": "at the heart of などで core と近く、活力や感情的中心の含みを伴う場合もある。全ての専門分野の core と交換できるわけではない。",
+          "example": "The question of fairness lies at the heart of the debate.",
+          "translation": "公平性の問題が、その議論の中心にある。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 2,
+      "title": "【名詞：可算】物の中心部、内部の核",
+      "frequency": 7,
+      "register": [
+        "一般・科学・構造の説明。"
+      ],
+      "definition": "物体の内側にあり、周囲の部分に包まれた中心的な部分。必ず幾何学的に一点の中心を指すのではなく、内部の層・塊・構造を指すこともある。",
+      "patterns": [
+        "the core of something",
+        "at the core of something",
+        "a solid core",
+        "the Earth's core",
+        "an inner core。"
+      ],
+      "collocations": [
+        {
+          "pattern": "the core of something",
+          "use": "何の内部中心かを示す。",
+          "example": "The core of the structure is surrounded by several protective layers.",
+          "translation": "その構造の中心部は、いくつもの保護層に囲まれている。"
+        },
+        {
+          "pattern": "a solid core",
+          "use": "内部の中心部が固体であることを述べる。",
+          "example": "The model contains a solid core inside a hollow shell.",
+          "translation": "その模型は、中空の外殻の内側に固体の芯を持つ。"
+        },
+        {
+          "pattern": "the Earth's core",
+          "use": "地球の中心部を指す。",
+          "example": "The diagram shows the Earth's core beneath the outer layers.",
+          "translation": "その図は、外側の層の下にある地球の核を示している。"
+        },
+        {
+          "pattern": "an inner core",
+          "use": "さらに内側の中心部を区別する。",
+          "example": "The sample has an inner core and a darker outer layer.",
+          "translation": "その試料には、内側の芯と、より暗い色の外層がある。"
+        }
+      ],
+      "notes": [
+        "the core of the Earth の of は全体と部分の関係を示す。中心という位置だけでなく、内側にまとまった部分を捉えるため、数学の点としての centre と必ず同じではない。天体の構造や組成の詳細は、core という語自体からは決まらない。"
+      ],
+      "synonyms": [
+        {
+          "word": "centre",
+          "definition": "中心となる場所・点・部分。",
+          "frequency": 9,
+          "difference": "米語では center。位置としての中心を広く表す。core は、外側に包まれた内部や、物事を支える中心的な塊を意識させやすい。",
+          "example": "Place the marker at the centre of the circle.",
+          "translation": "円の中心に印を置いてください。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 3,
+      "title": "【名詞：可算】果実の芯",
+      "frequency": 7,
+      "register": [
+        "日常・調理。"
+      ],
+      "definition": "リンゴ・ナシなどの中央にある、種を含む比較的硬い部分。果実全体の形や食べられる部分とは区別して呼ぶ。",
+      "patterns": [
+        "an apple core",
+        "a pear core",
+        "remove the core",
+        "cut out the core。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an apple core",
+          "use": "リンゴの中央部分を一つの物として述べる。",
+          "example": "She left an apple core on the plate.",
+          "translation": "彼女は、皿の上にリンゴの芯を残した。"
+        },
+        {
+          "pattern": "a pear core",
+          "use": "ナシの芯を述べる。",
+          "example": "The pear core contained several dark seeds.",
+          "translation": "そのナシの芯には、濃い色の種がいくつか入っていた。"
+        },
+        {
+          "pattern": "remove the core",
+          "use": "果実から芯を取り除く作業を述べる。",
+          "example": "Remove the core before slicing the apple.",
+          "translation": "リンゴを薄く切る前に、芯を取り除いてください。"
+        },
+        {
+          "pattern": "cut out the core",
+          "use": "切って芯を取り除くことを述べる。",
+          "example": "He cut out the core and divided the pear into pieces.",
+          "translation": "彼は、芯を切り取ってナシを小分けにした。"
+        }
+      ],
+      "notes": [
+        "core は種そのものを意味する seed と同じではなく、種を含む中央部分を指す。芯を取り除く動詞 core は、名詞をそのまま動詞として使った別の品詞である。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 4,
+      "title": "【形容詞】主要な、中核の、基本となる",
+      "frequency": 8,
+      "register": [
+        "一般・業務・教育。"
+      ],
+      "definition": "組織・事業・教育・考え方などを成り立たせる、中心的で重要な部分に属する。周辺的・付随的なものに対し、外せない主要部分を示す。",
+      "patterns": [
+        "core business",
+        "core subjects",
+        "a core curriculum",
+        "core values",
+        "core members",
+        "be core to something。"
+      ],
+      "collocations": [
+        {
+          "pattern": "core business",
+          "use": "企業の中心となる事業を述べる。",
+          "example": "The company decided to focus on its core business.",
+          "translation": "その会社は、中核事業に集中することを決めた。"
+        },
+        {
+          "pattern": "core subjects",
+          "use": "教育課程の基本となる科目を示す。",
+          "example": "Students take core subjects alongside a choice of electives.",
+          "translation": "学生は、選んだ選択科目に加えて、基本となる科目を履修する。"
+        },
+        {
+          "pattern": "a core curriculum",
+          "use": "共通の基本課程を述べる。",
+          "example": "The university introduced a core curriculum for first-year students.",
+          "translation": "その大学は、一年生向けの共通の基本課程を導入した。"
+        },
+        {
+          "pattern": "core values",
+          "use": "行動や組織を支える基本的価値観を述べる。",
+          "example": "Fairness and transparency are among the organization's core values.",
+          "translation": "公平性と透明性は、その組織の基本的価値観に含まれている。"
+        },
+        {
+          "pattern": "core members",
+          "use": "集団の中心となるメンバーを述べる。",
+          "example": "The core members meet weekly to coordinate the work.",
+          "translation": "中核メンバーは、作業を調整するため毎週集まる。"
+        },
+        {
+          "pattern": "be core to something",
+          "use": "述語位置で、何にとって重要な中核かを示す。",
+          "example": "Clear communication is core to effective teamwork.",
+          "translation": "明確な意思疎通は、効果的なチームワークの中核となる。"
+        }
+      ],
+      "notes": [
+        "名詞前の用法が多いが、be core to something のような述語用法もあるため、限定用法だけと断定しない。core と同じ形の名詞が名詞を修飾する分析と重なる場合もある。core curriculum の具体的な必修範囲は制度によって異なり、全ての学校で同じ内容を示すわけではない。比較級を機械的に corer と作らない。"
+      ],
+      "synonyms": [
+        {
+          "word": "central",
+          "definition": "中心的で、特に重要な。",
+          "frequency": 8,
+          "difference": "central to something と広く使える。core は周辺に対する中核・基本部分という区別を強く出しやすい。",
+          "example": "Reliable data is central to the decision-making process.",
+          "translation": "信頼できるデータは、意思決定の過程で中心的に重要だ。"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "peripheral",
+          "definition": "中心ではなく周辺に位置する、重要度が低い。",
+          "frequency": 5,
+          "difference": "中心性の軸で対立する。core が中核・主要部分なら、peripheral は周辺・付随部分を示す。",
+          "example": "The discussion focused on peripheral issues rather than the main problem.",
+          "translation": "議論は、主な問題よりも周辺的な事柄に集中した。"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "【名詞：可算・通常単数】体幹の筋群、胴体中心部",
+      "frequency": 6,
+      "register": [
+        "運動・身体の説明。"
+      ],
+      "definition": "腹部や腰まわりなど、胴体中心部の筋肉をまとまりとして捉えたもの。運動の文脈で、姿勢や動作を支える中心部を指す。単一の筋肉の固有名ではない。",
+      "patterns": [
+        "strengthen one's core",
+        "core muscles",
+        "core strength",
+        "engage one's core。"
+      ],
+      "collocations": [
+        {
+          "pattern": "strengthen one's core",
+          "use": "体幹を強くするという運動目標を述べる。",
+          "example": "The class includes exercises designed to strengthen the core.",
+          "translation": "そのクラスには、体幹を強くするための運動が含まれている。"
+        },
+        {
+          "pattern": "core muscles",
+          "use": "胴体中心部の筋肉を述べる。",
+          "example": "The illustration highlights the core muscles around the abdomen and lower back.",
+          "translation": "その図は、腹部と腰まわりの体幹の筋肉を示している。"
+        },
+        {
+          "pattern": "core strength",
+          "use": "体幹の力という性質を述べる。",
+          "example": "The instructor discussed core strength and balance.",
+          "translation": "指導員は、体幹の力とバランスについて説明した。"
+        },
+        {
+          "pattern": "engage one's core",
+          "use": "体幹の筋肉を使うという運動中の表現を読む。",
+          "example": "The instructor reminded the group to engage their core during the movement.",
+          "translation": "指導員は、その動作の間は体幹の筋肉を使うよう参加者たちに促した。"
+        }
+      ],
+      "notes": [
+        "core muscles などの core は、どの部分の筋肉かを限定する。core という語だけから全ての対象筋や安全な運動方法が決まるわけではなく、ここでの例文は治療・訓練の処方ではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 6,
+      "title": "【名詞：可算・通常単数】中心を成す人々、中核集団",
+      "frequency": 6,
+      "register": [
+        "組織・活動・業務。"
+      ],
+      "definition": "組織・運動などの中心となって活動を支える、比較的小さな集団。外側の参加者が変わっても中心部分として残ることを述べる場合がある。",
+      "patterns": [
+        "a core of volunteers",
+        "a small core of members",
+        "form the core of a team",
+        "a loyal core。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a core of volunteers",
+          "use": "中心を支える人々を of 以下で示す。",
+          "example": "The event depends on a core of experienced volunteers.",
+          "translation": "その行事は、中核となる経験豊富なボランティアたちに支えられている。"
+        },
+        {
+          "pattern": "a small core of members",
+          "use": "少人数の中心集団を述べる。",
+          "example": "A small core of members kept the organization running.",
+          "translation": "少人数の中核メンバーが、組織の活動を維持した。"
+        },
+        {
+          "pattern": "form the core of a team",
+          "use": "誰がチームの中核になるかを述べる。",
+          "example": "The original developers still form the core of the team.",
+          "translation": "初期の開発者たちが、今もチームの中核を成している。"
+        },
+        {
+          "pattern": "a loyal core",
+          "use": "支持を続ける中心集団を述べる。",
+          "example": "The club retained a loyal core even during the difficult years.",
+          "translation": "苦しい時期にも、そのクラブには忠実な中核メンバーが残った。"
+        }
+      ],
+      "notes": [
+        "a core of people は一つの中核集団を名詞として捉える形。core members は core が members を限定する形容詞用法で、同じ人々を指しても構造が異なる。core の小ささは外側全体との比較であり、特定の人数を定める語ではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 7,
+      "title": "【動詞：他動詞、過去分詞修飾を含む】果実の芯を取り除く",
+      "frequency": 5,
+      "register": [
+        "調理・レシピ。"
+      ],
+      "definition": "リンゴやナシなどから、種を含む中央の芯を取り除く。名詞 core が表す部分を除去する動作であり、芯を加えるという意味ではない。",
+      "patterns": [
+        "core an apple",
+        "peel and core something",
+        "a cored pear",
+        "be cored before cooking。"
+      ],
+      "collocations": [
+        {
+          "pattern": "core an apple",
+          "use": "リンゴの芯を取り除く作業を述べる。",
+          "example": "Core the apple before cutting it into rings.",
+          "translation": "リンゴを輪切りにする前に、芯を取り除いてください。"
+        },
+        {
+          "pattern": "peel and core something",
+          "use": "皮むきと芯の除去を並べて述べる。",
+          "example": "She peeled and cored the pears for the dessert.",
+          "translation": "彼女は、デザート用にナシの皮をむき、芯を取り除いた。"
+        },
+        {
+          "pattern": "a cored pear",
+          "use": "芯を取った状態の果実を過去分詞で修飾する。",
+          "example": "Place each cored pear in the baking dish.",
+          "translation": "芯を取り除いたナシを、それぞれ焼き皿に入れてください。"
+        },
+        {
+          "pattern": "be cored before cooking",
+          "use": "調理前の下ごしらえを受動形で述べる。",
+          "example": "The apples are cored before they are cooked.",
+          "translation": "リンゴは、加熱調理の前に芯を取り除く。"
+        }
+      ],
+      "notes": [
+        "規則活用で core–cored–cored、-ing 形は coring。a cored apple は過去分詞による修飾であり、この動詞が果実を直接目的語に取ることと整合する。remove the core from an apple と言い換えると、除去する部分と処理される果実の関係が見えやすい。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 8,
+      "title": "【前置詞句】芯まで、心底、徹底的に：to the core",
+      "frequency": 6,
+      "register": [
+        "一般・強調的な表現。"
+      ],
+      "definition": "人や物の中心的な部分にまで及ぶほど、完全に・深く、という程度を示す。感情的な衝撃にも、人の性質が根本までそうであるという評価にも使う。",
+      "patterns": [
+        "shake someone to the core",
+        "be shocked to the core",
+        "be rotten to the core",
+        "a professional to the core。"
+      ],
+      "collocations": [
+        {
+          "pattern": "shake someone to the core",
+          "use": "人を深く動揺させることを述べる。",
+          "example": "The sudden loss shook him to the core.",
+          "translation": "突然の喪失に、彼は心の底から動揺した。"
+        },
+        {
+          "pattern": "be shocked to the core",
+          "use": "衝撃の深さを強調する。",
+          "example": "She was shocked to the core by what she discovered.",
+          "translation": "発見したことに、彼女は心底衝撃を受けた。"
+        },
+        {
+          "pattern": "be rotten to the core",
+          "use": "腐敗や悪さが根本まで及ぶという強い評価を述べる。",
+          "example": "The novel portrays the fictional regime as rotten to the core.",
+          "translation": "その小説は、架空の政権を根っから腐敗したものとして描いている。"
+        },
+        {
+          "pattern": "a professional to the core",
+          "use": "徹底してある性質を持つ人物を評価する。",
+          "example": "Even under pressure, she remained a professional to the core.",
+          "translation": "重圧の中でも、彼女は徹底してプロとして振る舞った。"
+        }
+      ],
+      "notes": [
+        "the を含む to the core という形を使う。句全体は程度の深さを示し、必ず否定的とは限らない。a professional to the core のように肯定的な評価にも使える。at the core は中心にある位置、to the core は中心まで及ぶ範囲・程度という違いがある。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 9,
+      "title": "【名詞：可算】CPUの処理コア",
+      "frequency": 6,
+      "register": [
+        "コンピュータ・CPUの仕様。"
+      ],
+      "definition": "CPU内で命令の実行を担う処理単位。複数のコアを持つCPUは、複数の処理を並行して進める構成を取れる。CPU全体や、ソフトウェア上のスレッドそのものと同一ではない。",
+      "patterns": [
+        "a processor core",
+        "multiple cores",
+        "a six-core processor",
+        "physical cores。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a processor core",
+          "use": "CPU内部の処理単位を指す。",
+          "example": "Each processor core can execute instructions.",
+          "translation": "各プロセッサコアは、命令を実行できる。"
+        },
+        {
+          "pattern": "multiple cores",
+          "use": "処理コアが複数ある構成を述べる。",
+          "example": "The software distributes the workload across multiple cores.",
+          "translation": "そのソフトウェアは、処理負荷を複数のコアに分配する。"
+        },
+        {
+          "pattern": "a six-core processor",
+          "use": "コア数を名詞前の複合修飾で示す。",
+          "example": "This computer has a six-core processor.",
+          "translation": "このコンピュータは、6コアのプロセッサを搭載している。"
+        },
+        {
+          "pattern": "physical cores",
+          "use": "論理的な処理単位の表示と物理コアを区別する。",
+          "example": "The specification lists six physical cores and twelve threads.",
+          "translation": "その仕様には、物理コア6個、スレッド12本と記載されている。"
+        }
+      ],
+      "notes": [
+        "six-core のように名詞の前でまとめて修飾すると、core を単数形にしハイフンでつなぐ。一方、six cores は複数形。thread や logical processor の数は物理コア数と必ず一致するわけではなく、全てのCPUで1コアが常に2スレッドという決まりもない。コア数だけで性能比率を断定しない。Intel Core のようなブランド名と、一般名詞の core も区別する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 10,
+      "title": "【形容詞・経済指標】物価の基調を見るため一部の品目を除いた",
+      "frequency": 5,
+      "register": [
+        "経済・物価統計・金融報道。"
+      ],
+      "definition": "core CPI／core inflation などで、変動が大きい一部の品目を除いて物価の基調を捉える指標を示す。何を除くかは国や指標によって異なるため、core という名前だけで除外範囲を一律には決められない。",
+      "patterns": [
+        "core inflation",
+        "core CPI",
+        "US core CPI",
+        "Japan's core CPI。"
+      ],
+      "collocations": [
+        {
+          "pattern": "core inflation",
+          "use": "一部の品目を除いて見た物価上昇を、総合の物価上昇と区別する。",
+          "example": "The report distinguishes core inflation from headline inflation.",
+          "translation": "その報告書は、コアインフレ率と総合のインフレ率を区別している。"
+        },
+        {
+          "pattern": "US core CPI",
+          "use": "米国で一般にコアCPIと呼ばれる系列の範囲を述べる。",
+          "example": "US core CPI excludes food and energy.",
+          "translation": "米国のコアCPIは、食品とエネルギーを除いている。"
+        },
+        {
+          "pattern": "Japan's core CPI",
+          "use": "日本で一般にコアCPIと呼ばれる系列を示す。",
+          "example": "Japan's core CPI excludes fresh food rather than all food and energy.",
+          "translation": "日本のコアCPIが除くのは、食品全般とエネルギーではなく、生鮮食品である。"
+        }
+      ],
+      "notes": [
+        "CPI は消費者物価指数、inflation は物価上昇を表し、指数の水準と上昇率は区別する。米国の一般的な core CPI と日本の一般的なコアCPIでは範囲が異なり、さらに core-core などの呼び方にも複数の除外範囲がある。総合指数から食品やエネルギーの価格が消えたという意味ではなく、除外品目が生活に重要でないという評価でもない。本文の例は用語の範囲の説明で、現在の指数値や投資判断を示すものではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 11,
+      "title": "【名詞：可算】原子炉の炉心",
+      "frequency": 4,
+      "register": [
+        "原子力・技術・報道。"
+      ],
+      "definition": "原子炉で核分裂反応が起こる中心的な部分。原子炉全体や発電所全体ではなく、炉内の機能上の中核を指す専門語。",
+      "patterns": [
+        "a reactor core",
+        "the core of a nuclear reactor",
+        "core temperature。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a reactor core",
+          "use": "原子炉の炉心を述べる。",
+          "example": "The diagram identifies the reactor core inside the vessel.",
+          "translation": "その図は、容器の内部にある炉心を示している。"
+        },
+        {
+          "pattern": "core temperature",
+          "use": "炉心という部位の温度を述べる。",
+          "example": "The reactor test report includes measurements of core temperature.",
+          "translation": "原子炉の試験報告書には、炉心温度の測定値が含まれている。"
+        }
+      ],
+      "notes": [
+        "この core は機能を持つ部分の名称であり、単に原子炉の幾何学的中心点という意味ではない。部品構成や運転の安全条件は別の技術事項で、この語の定義だけから操作方法を導かない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 12,
+      "title": "【名詞：可算】内部から採った柱状の試料",
+      "frequency": 4,
+      "register": [
+        "地質学・地球科学・調査。"
+      ],
+      "definition": "岩石・堆積物・氷などの内部を調べるために採取した、柱状などの細長い試料。内部の層や構造を保持した試料として扱う。",
+      "patterns": [
+        "a sediment core",
+        "an ice core",
+        "a rock core",
+        "analyse a core sample。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a sediment core",
+          "use": "堆積物の層を調べる試料を述べる。",
+          "example": "The sediment core preserved layers from different periods.",
+          "translation": "その堆積物コアには、異なる時期の層が残されていた。"
+        },
+        {
+          "pattern": "an ice core",
+          "use": "氷の内部から採った試料を述べる。",
+          "example": "Researchers compared several ice cores collected from the region's ice sheet.",
+          "translation": "研究者たちは、その地域の氷床から採取した複数のコアを比較した。"
+        },
+        {
+          "pattern": "analyse a core sample",
+          "use": "採取した内部試料を分析対象として示す。",
+          "example": "The laboratory analysed the core sample to examine the sequence of layers.",
+          "translation": "研究室では、層の順序を調べるためコア試料を分析した。"
+        }
+      ],
+      "notes": [
+        "the core of the Earth は地球そのものの中心部、an ice core は採り出された試料で、同じ対象ではない。core sample は試料であることを明示した複合語であり、必ず元の物体の中心軸から採ったという意味ではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 13,
+      "title": "【動詞：他動詞】コア試料を採取する",
+      "frequency": 2,
+      "register": [
+        "地質調査・科学的な試料採取。"
+      ],
+      "definition": "地層や堆積物などから、内部を調べるためのコア試料を採取する。採取する対象の物質や採取地点を目的語にして述べる。果実の不要な芯を除去する用法と違い、取り出すコア自体を分析対象として扱う。",
+      "patterns": [
+        "core sediments",
+        "core a site",
+        "be cored at several locations。"
+      ],
+      "collocations": [
+        {
+          "pattern": "core sediments",
+          "use": "堆積物からコア試料を採取することを述べる。",
+          "example": "The team cored the lake-bed sediments to study older layers.",
+          "translation": "チームは、古い層を調べるため、湖底の堆積物からコア試料を採取した。"
+        },
+        {
+          "pattern": "core a site",
+          "use": "試料採取を行った地点を目的語にする。",
+          "example": "Researchers cored the site near the centre of the lake.",
+          "translation": "研究者たちは、湖の中央近くの地点でコア試料を採取した。"
+        },
+        {
+          "pattern": "be cored at several locations",
+          "use": "物質を採取対象とする受動態で、複数の採取位置を述べる。",
+          "example": "The sediments were cored at several locations to compare the layers.",
+          "translation": "層を比較するため、複数の場所で堆積物からコア試料が採取された。"
+        }
+      ],
+      "notes": [
+        "core a site は地点という空間を丸ごと取り除く意味ではなく、その地点で採取するという表現。受動態の The site was cored. でも同じ関係を保つ。ここでは採取作業を述べる動詞として扱い、実際の掘削・採取の手順や安全条件は説明していない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 14,
+      "title": "【名詞：可算】コイルなどの磁性体の芯、鉄心",
+      "frequency": 3,
+      "register": [
+        "電気・電子工学。"
+      ],
+      "definition": "コイルや変圧器などで磁気回路を構成する中心的な材料・部材。鉄に限らず、フェライトなどの磁性材料を用いるものもある。",
+      "patterns": [
+        "an iron core",
+        "a ferrite core",
+        "a transformer core。"
+      ],
+      "collocations": [
+        {
+          "pattern": "an iron core",
+          "use": "鉄を使った磁性体の芯を述べる。",
+          "example": "The coil is wound around an iron core.",
+          "translation": "コイルは、鉄心のまわりに巻かれている。"
+        },
+        {
+          "pattern": "a ferrite core",
+          "use": "フェライト材料の芯を示す。",
+          "example": "The component uses a ferrite core rather than a solid iron rod.",
+          "translation": "その部品は、鉄の棒ではなくフェライトの芯を使っている。"
+        },
+        {
+          "pattern": "a transformer core",
+          "use": "変圧器の磁気回路を構成する部材を述べる。",
+          "example": "The engineer examined the transformer core for damage.",
+          "translation": "技術者は、変圧器の鉄心に損傷がないか調べた。"
+        }
+      ],
+      "notes": [
+        "core を常に鉄製と決めつけない。鉄心という日本語は典型的な場合の訳で、具体的な材料は修飾語や部品仕様で確認する。CPUの処理コアとも、果実の芯とも別の専門対象を指す。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 15,
+      "title": "【名詞：可算】鋳型の中子",
+      "frequency": 2,
+      "register": [
+        "鋳造・製造業。"
+      ],
+      "definition": "鋳造品の内部に空洞や穴を作るため、鋳型の内側に配置する形状部分。製品の内部形状を作る役割を持つ。",
+      "patterns": [
+        "a sand core",
+        "place a core in a mould",
+        "remove the core。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a sand core",
+          "use": "砂を材料とする中子を指す。",
+          "example": "The drawing shows a sand core for the hollow section of the casting.",
+          "translation": "その図面は、鋳物の中空部分を作る砂中子を示している。"
+        },
+        {
+          "pattern": "place a core in a mould",
+          "use": "鋳型と中子の位置関係を述べる。",
+          "example": "The diagram shows where the core is placed in the mould.",
+          "translation": "その図は、鋳型内のどこに中子を配置するかを示している。"
+        }
+      ],
+      "notes": [
+        "英語の mould は米語では mold とも綴る。core は外形を作る鋳型全体の単なる別名ではなく、内側の形を作る部材として区別する。実際の製造工程や安全手順は、専門の仕様に基づく。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 16,
+      "title": "【名詞：可算】建物の設備・縦動線をまとめたコア",
+      "frequency": 3,
+      "register": [
+        "建築。"
+      ],
+      "definition": "建物で、階段・エレベーター・設備配管などを集めた中心的な区画や構造部分。建物の機能をまとめて支える区域として使う。",
+      "patterns": [
+        "a service core",
+        "a central core",
+        "the building's core。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a service core",
+          "use": "設備などをまとめた建物内の区画を述べる。",
+          "example": "The lifts and service shafts are grouped in a service core.",
+          "translation": "エレベーターと設備シャフトは、設備コアにまとめられている。"
+        },
+        {
+          "pattern": "a central core",
+          "use": "建物の中心部にあるコアを示す。",
+          "example": "Offices surround the central core containing the stairs and lifts.",
+          "translation": "階段とエレベーターを収めた中央のコアを囲むように、事務室が配置されている。"
+        }
+      ],
+      "notes": [
+        "建築上の core は機能的な区画を表し、どの部位が含まれるかは設計によって異なる。建物内の全ての部屋を指す語でも、常に正確な幾何学的中央だけを指す語でもない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 17,
+      "title": "【名詞：可算】ケーブルの芯線・絶縁された導体",
+      "frequency": 3,
+      "register": [
+        "電気配線・ケーブル仕様。"
+      ],
+      "definition": "ケーブルを構成する導体と、その周囲の絶縁からなる一つの単位。ケーブル全体ではなく、その内部で数えられる線の部分を指す用法。",
+      "patterns": [
+        "a cable core",
+        "a three-core cable",
+        "insulated cores。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a cable core",
+          "use": "ケーブル内部の導体単位を述べる。",
+          "example": "The diagram labels each cable core separately.",
+          "translation": "その図は、ケーブルの各芯線を別々に表示している。"
+        },
+        {
+          "pattern": "a three-core cable",
+          "use": "三つの芯を持つケーブルを述べる。",
+          "example": "The specification calls for a three-core cable.",
+          "translation": "その仕様では、3芯ケーブルを指定している。"
+        },
+        {
+          "pattern": "insulated cores",
+          "use": "絶縁された各芯を示す。",
+          "example": "The outer sheath surrounds the insulated cores.",
+          "translation": "外側のシースが、絶縁された芯線を包んでいる。"
+        }
+      ],
+      "notes": [
+        "three-core は名詞前の複合修飾なので core は単数形。芯数だけで用途・電圧・配線方法を判断せず、ケーブル全体を表す cable と内部の core を区別する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 18,
+      "title": "【名詞：可算】石器の材料となる石核",
+      "frequency": 2,
+      "register": [
+        "考古学・石器研究。"
+      ],
+      "definition": "石器を作る際に、石の剥片をはがし取る元となる石の塊。はがれた剥片そのものとは区別する。石核自体を道具として利用したかどうかは、別の観点である。",
+      "patterns": [
+        "a flint core",
+        "a stone core",
+        "flakes removed from a core。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a flint core",
+          "use": "フリントの石核を述べる。",
+          "example": "The archaeologist identified several scars on the flint core.",
+          "translation": "考古学者は、フリントの石核にいくつかの剥離痕を確認した。"
+        },
+        {
+          "pattern": "flakes removed from a core",
+          "use": "石核と剥片の関係を示す。",
+          "example": "The display shows flakes removed from a core during tool production.",
+          "translation": "展示には、道具の製作時に石核からはがされた剥片が示されている。"
+        }
+      ],
+      "notes": [
+        "この core は、物体の中心を測った位置という意味ではなく、剥片を取る元の石材という専門名称。石核と剥片の関係を区別して訳す。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 19,
+      "title": "【名詞：可算】磁気コアメモリの記憶素子",
+      "frequency": 2,
+      "register": [
+        "コンピュータ史・記憶装置。"
+      ],
+      "definition": "磁気コアメモリで情報を保持する、磁性材料の小さな輪などの素子。歴史的なコンピュータの記憶装置の文脈で使われる。現在のCPUの処理コアとは機能も対象も異なる。",
+      "patterns": [
+        "a magnetic core",
+        "magnetic cores",
+        "core memory。"
+      ],
+      "collocations": [
+        {
+          "pattern": "a magnetic core",
+          "use": "記憶装置の一つの磁性素子を述べる。",
+          "example": "In this memory system, a magnetic core stores one bit.",
+          "translation": "この記憶装置では、一つの磁気コアが1ビットを保持する。"
+        },
+        {
+          "pattern": "magnetic cores",
+          "use": "記憶装置を構成する多数の素子を述べる。",
+          "example": "The museum's computer contains an array of small magnetic cores.",
+          "translation": "博物館のコンピュータには、小さな磁気コアを並べた部分がある。"
+        },
+        {
+          "pattern": "core memory",
+          "use": "その素子を用いた記憶装置の名称を述べる。",
+          "example": "The exhibit explains how core memory stored data in early computers.",
+          "translation": "展示では、初期のコンピュータでコアメモリがどのようにデータを保持したかを説明している。"
+        }
+      ],
+      "notes": [
+        "core memory と processor core は同じ core を含むが、前者は記憶、後者は命令処理の単位を表す。歴史的な用語を、現代の全てのメモリやCPUにそのまま当てはめない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}
