@@ -3,7 +3,7 @@
   "slug": "consistent",
   "ipa": "米・英: /kənˈsɪstənt/。3音節の kən-SIS-tənt で、第2音節に主強勢がある。第1音節の /ə/ は弱く、第2音節の /ɪ/ が主強勢を担い、語末の -ent は /ənt/ と発音する。",
   "lead": "人がいつも同じように振る舞う、同じ意見・基準・態度を保つ、または仕事や競技で安定した水準を示す。人を評価するときは「信頼して任せやすい」という肯定的な含みが出やすいが、同じ態度や基準を保っていること自体を表す語であり、その基準が望ましいとは限らない。",
-  "updated": "2026-10-01",
+  "updated": "2026-10-29",
   "notion_url": "https://app.notion.com/p/consistent-3c74faa9b77d81dfbc1feb3ba2b3e596",
   "pronunciation": [
     "綴りの最初の con- は強い /kɑn/・/kɒn/ ではなく /kən/、語中の s は /s/、語末の t は /t/ である。",
@@ -140,7 +140,7 @@
           "word": "uniform",
           "definition": "全体にわたって同じで、ばらつきがない。",
           "frequency": 7,
-          "difference": "uniform は構成要素の間の均一性を強調し、物の外観・品質・分布にも使う。consistent は時間をまたぐ行動や方針にも使える。",
+          "difference": "uniform は外観・品質・分布などが全体でそろうことや、同じ状態を保つことに焦点を置く。consistent は行動が同じ基準に沿うことや、複数回の成果のぶれが少ないことにも使う。両者を空間と時間だけで区別しない。",
           "example": "The samples were not uniform in color or texture.",
           "translation": "その試料は色も質感も均一ではなかった。"
         },
@@ -244,9 +244,25 @@
           "word": "uniform",
           "definition": "複数の部分や試料が同じ性質・水準をもつ。",
           "frequency": 7,
-          "difference": "uniform は同一時点での全体の均一性を強調する。consistent は時間の経過や試行の反復にも自然である。",
+          "difference": "uniform は部分間の均一性や、形・程度・やり方が変わらないことに焦点を置く。同じ時点の比較だけでなく、時間を通じた不変にも使える。consistent は完全に同じ値でなくても、複数の結果が同じ傾向や水準を示すことを表せる。",
           "example": "The paint provides a uniform finish.",
           "translation": "その塗料は均一な仕上がりをもたらす。"
+        },
+        {
+          "word": "constant",
+          "definition": "時間がたっても、ある状態・水準が変わらない。",
+          "frequency": 8,
+          "difference": "この意味の constant は温度などの値・状態が一定であることに焦点を置く。consistent は多少の変動があっても、結果の傾向や品質にむらが少ないことを表せる。ただし constant complaints のように、constant が「絶えず繰り返される」という別の意味で使われる場合もある。",
+          "example": "The temperature remained constant throughout the experiment.",
+          "translation": "実験中、温度はずっと一定だった。"
+        },
+        {
+          "word": "continuous",
+          "definition": "途中で中断することなく、途切れずに続く。",
+          "frequency": 9,
+          "difference": "この意味の continuous は続き方に中断がないこと、consistent は品質・傾向・基準などにむらや食い違いが少ないことに焦点を置く。途切れず続いていても、その強さや質が一定とは限らない。",
+          "example": "The engine produced a continuous but uneven hum.",
+          "translation": "エンジンは、途切れないものの強弱のあるうなり音を出していた。"
         },
         {
           "word": "reproducible",
@@ -370,12 +386,12 @@
           "translation": "そのデザインは建物の伝統的な様式に合っている。"
         },
         {
-          "word": "coherent with",
-          "definition": "他の要素と論理的につながり、全体として筋が通っている。",
+          "word": "coherent",
+          "definition": "説明や議論の各部分がよくつながり、全体として筋が通って理解しやすい。",
           "frequency": 5,
-          "difference": "coherent は説明や議論の内部の筋道に焦点がある。consistent with は、別の事実・基準との不一致がないことまで広く表せる。",
-          "example": "The conclusion is coherent with the assumptions of the model.",
-          "translation": "その結論はモデルの仮定と論理的に整合している。"
+          "difference": "coherent は説明が整理され、各部分がつながって理解できることに焦点がある。consistent は内部に矛盾がないことにも、外部の事実・基準と食い違わないことにも使う。筋道が分かる説明でも、外部の証拠と一致するとは限らない。",
+          "example": "Her account was coherent, but some details conflicted with the evidence.",
+          "translation": "彼女の説明は筋が通って分かりやすかったが、細部のいくつかは証拠と食い違っていた。"
         }
       ],
       "antonyms": [
