@@ -3,7 +3,7 @@
   "slug": "extensive",
   "ipa": "米: /ɪkˈstɛnsɪv/｜英: /ɪkˈstensɪv/。3音節の ik-STEN-siv で、第2音節に主強勢がある。第1音節は弱い /ɪk/、第2音節の母音は米国発音で /ɛ/、英国発音で /e/ と表記され、第3音節は弱い /ɪv/ で終わる。",
   "lead": "土地・地域・建物の敷地などが大きな面積に及ぶ、または旅行・活動などが広い地域にわたることを表す。単に対象の数が多いというより、空間的な広がりや及ぶ範囲に焦点がある。",
-  "updated": "2026-09-28",
+  "updated": "2026-10-29",
   "notion_url": "https://app.notion.com/p/extensive-3c74faa9b77d81e7a7c1c960246b0221",
   "pronunciation": [
     "綴りの ex- はここでは /ɛks/ と強く読まず、x の /ks/ が分かれて、/k/ は語頭の弱い /ɪk/ に、/s/ は次の強勢音節の頭（/st/ の /s/）に属する。語末の -sive は /sɪv/ で、/saɪv/ ではない。",
@@ -198,9 +198,9 @@
         },
         {
           "pattern": "extensive injuries",
-          "use": "けがが広範囲に及び、重い処置を要することを表す。",
+          "use": "けがが広い範囲や多くの部位に及ぶことを表す。この形容詞だけで重症度や必要な処置まで確定するわけではない。",
           "example": "The driver sustained extensive injuries in the collision.",
-          "translation": "その運転手は衝突事故で広範囲に及ぶ重傷を負った。"
+          "translation": "その運転手は衝突事故で広範囲にわたるけがを負った。"
         },
         {
           "pattern": "extensive testing",
@@ -250,6 +250,14 @@
           "difference": "large-scale は規模の大きさを直接的・客観的に示し、名詞の前で使う。extensive は被害や内容が広範囲に及ぶことにも使える。",
           "example": "The city launched a large-scale renovation project.",
           "translation": "その都市は大規模な改修計画を開始した。"
+        },
+        {
+          "word": "widespread",
+          "definition": "広い地域や多くの場所・人々に広がっている。",
+          "frequency": 8,
+          "difference": "widespread damage は被害が各地に分布し、多くの場所に及ぶことに焦点を置く。extensive damage は被害全体の範囲・規模が大きいことに焦点を置く。意味は重なり、extensive なら必ず一続きの範囲を指すという区別ではない。",
+          "example": "The storm caused widespread damage across the region.",
+          "translation": "その嵐は地域の各地に被害をもたらした。"
         },
         {
           "word": "severe",
