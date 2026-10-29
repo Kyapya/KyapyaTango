@@ -3,7 +3,7 @@
   "slug": "scope",
   "ipa": "米: /skoʊp/｜英: /skəʊp/",
   "lead": "人が何かをしたり、能力を伸ばしたりするために残されている余地・機会。scope for + 名詞・動名詞 が最も定着しており、十分な余地にも、ほとんど余地がない状態にも使える。実際に成功する機会を保証する語ではなく、可能性を活かせる空間を表す。",
-  "updated": "2026-10-02",
+  "updated": "2026-10-29",
   "notion_url": "https://app.notion.com/p/scope-3ce4faa9b77d8179b29de2dadea378a6",
   "pronunciation": [
     "いずれも1音節で、子音群 /sk/ で始まり、語末を /p/ で閉じる。米音の母音 /oʊ/ は「オウ」、英音の /əʊ/ は中央寄りの「オウ」に近い。名詞と動詞で発音は同じである。",
@@ -63,8 +63,7 @@
         "scope for somebody to do＝人が～する余地",
         "give/allow somebody scope to do＝人に～する余地を与える",
         "have plenty of scope for＝～の余地が十分にある",
-        "have little scope for＝～の余地がほとんどない",
-        "within somebody's scope＝人の裁量・能力の範囲内で"
+        "have little scope for＝～の余地がほとんどない"
       ],
       "collocations": [
         {
@@ -90,17 +89,24 @@
           "use": "決められた手順に縛られず、創造的な工夫を加える余地を表す。",
           "example": "The assignment offers students considerable scope for creativity.",
           "translation": "その課題には、学生が創造性を発揮するかなりの余地がある。"
-        },
-        {
-          "pattern": "within somebody's scope",
-          "use": "ある人の能力、担当、裁量で処理できる範囲内であることを表す。",
-          "example": "Choosing the colors is within my scope, but changing the wiring is not.",
-          "translation": "色を選ぶのは私の裁量内だが、配線を変えるのは範囲外だ。"
         }
       ],
       "notes": [
         "この語義の scope は通常不可算で、×a scope for improvement とはせず plenty of scope for improvement のように使う。scope for 〈名詞〉と scope for somebody to do を区別する。前者は改善・創造性などの活動の余地、後者は特定の人が行為をする余地である。",
-        "room は会話でより直接的に「余地」を表し、scope は計画・仕事・能力を評価する分析的な響きがある。opportunity は実際に利用できる機会を指しやすいのに対し、scope は機会が残されている可能性・裁量に焦点を置く。"
+        "room は会話でより直接的に「余地」を表し、scope は計画・仕事・能力を評価する分析的な響きがある。opportunity は実際に利用できる機会を指しやすいのに対し、scope は機会が残されている可能性・裁量に焦点を置く。",
+        "対照表現: 以下の constraint と restriction は、行動の余地を狭める条件・制限を表す。scope の量的な反対そのものではなく、余地に影響する要因として区別する。",
+        "constraint",
+        "定義: 行動、選択、発展を制限する条件・制約。",
+        "頻度: 〈8/10〉",
+        "違い: constraint は自由に使える余地を狭める制約そのものを表し、scope はその制約の中で残る可能性・裁量を表す。制約が存在していても、活動の余地がなくなるとは限らない。",
+        "例: Time was the main constraint on the design team.",
+        "訳: 時間が設計チームにとって主な制約だった。",
+        "restriction",
+        "定義: 行動や利用を制限する規則・制限。",
+        "頻度: 〈8/10〉",
+        "違い: restriction は外から課される禁止・制限に焦点がある。ここでの scope は、そうした条件のもとで活動できる余地を表し、禁止・制限そのものとは区別する。",
+        "例: The venue has strict restrictions on outside food.",
+        "訳: その会場には外部からの食べ物に関する厳しい制限がある。"
       ],
       "synonyms": [
         {
@@ -128,24 +134,7 @@
           "translation": "そのインターンシップは、彼に研究チームと働く機会を与えた。"
         }
       ],
-      "antonyms": [
-        {
-          "word": "constraint",
-          "definition": "行動、選択、発展を制限する条件・制約。",
-          "frequency": 8,
-          "difference": "constraint は自由に使える余地を狭める制約そのものを表し、scope はその制約の中で残る可能性・裁量を表す。程度上の対立である。",
-          "example": "Time was the main constraint on the design team.",
-          "translation": "時間が設計チームにとって主な制約だった。"
-        },
-        {
-          "word": "restriction",
-          "definition": "行動や利用を制限する規則・制限。",
-          "frequency": 8,
-          "difference": "restriction は外から課される禁止・制限に焦点がある。scope は制限そのものだけでなく、許される側の余地にも使う。",
-          "example": "The venue has strict restrictions on outside food.",
-          "translation": "その会場には外部からの食べ物に関する厳しい制限がある。"
-        }
-      ]
+      "antonyms": []
     },
     {
       "number": 2,
@@ -224,6 +213,14 @@
           "translation": "被害の全容はまだ分かっていない。"
         },
         {
+          "word": "scale",
+          "definition": "活動、計画、問題などの大きさ・規模・広がり。",
+          "frequency": 9,
+          "difference": "scale は活動量や全体の大きさに、scope は扱う主題・業務・対象の範囲に焦点を置く。同じ対象分野のまま実施件数を増やすことと、扱う分野そのものを増やすことは区別できる。ただし、両語とも広がりに使え、規模と対象範囲が一緒に拡大する場合もある。",
+          "example": "We increased the scale of the survey without changing its scope.",
+          "translation": "私たちは調査の対象範囲を変えずに、実施規模を拡大した。"
+        },
+        {
           "word": "purview",
           "definition": "人・組織・制度が扱う、判断する権限・範囲。",
           "frequency": 5,
@@ -259,6 +256,12 @@
         "request access scopes＝アクセス権限の範囲を要求する"
       ],
       "collocations": [
+        {
+          "pattern": "within somebody's scope",
+          "use": "ある人の能力、担当、裁量で処理できる範囲内であることを表す。",
+          "example": "Choosing the colors is within my scope, but changing the wiring is not.",
+          "translation": "色を選ぶのは私の裁量内だが、配線を変えるのは範囲外だ。"
+        },
         {
           "pattern": "outside my scope",
           "use": "自分の技能、担当、権限では扱えないことを簡潔に示す。",
