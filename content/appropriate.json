@@ -3,7 +3,7 @@
   "slug": "appropriate",
   "ipa": "米: 形容詞 /əˈproʊpriət/｜動詞 /əˈproʊpriˌeɪt/；英: 形容詞 /əˈprəʊpriət/｜動詞 /əˈprəʊpriˌeɪt/。形容詞は語尾が /ət/、動詞は /eɪt/ で、品詞によって発音が変わる。",
   "lead": "状況・目的・年齢・相手などにふさわしい、適切な。",
-  "updated": "2026-09-26",
+  "updated": "2026-10-29",
   "notion_url": "https://app.notion.com/p/appropriate-3e24faa9b77d81a5a07fcd57fa48e706",
   "pronunciation": [],
   "etymology": [
@@ -46,7 +46,7 @@
     },
     {
       "type": "item",
-      "text": "資金を公的に特定の目的へ属させる行為 → 「正式に割り当てる、充当する」（語義2）"
+      "text": "資金などを特定の目的へ取り分ける行為 → 「正式に割り当てる、充当する」（語義2）"
     },
     {
       "type": "item",
@@ -57,7 +57,7 @@
   "senses": [
     {
       "number": 1,
-      "title": "【形容詞・限定用法／叙述用法】特定の状況・目的・人に適していて、社会的にも許容される。",
+      "title": "【形容詞・限定用法／叙述用法】特定の状況・目的・人にふさわしい、適切な。",
       "frequency": 9,
       "register": [
         "一般語。会話から公的・専門的な文章まで広く使う。"
@@ -66,7 +66,8 @@
       "patterns": [
         "appropriate for 〈purpose/person/situation〉",
         "appropriate to 〈circumstances/age/needs〉",
-        "be, seem, consider, think appropriate",
+        "be/seem appropriate",
+        "consider/think 〈対象〉 appropriate",
         "it is appropriate to do",
         "it is appropriate that..."
       ],
@@ -128,7 +129,7 @@
           "word": "suitable",
           "definition": "目的・条件・人に合っていて使える。",
           "frequency": 9,
-          "difference": "appropriate が場面や社会通念に照らした妥当さを表すのに対し、suitable は目的・条件に実用上合っていることに焦点を置く。",
+          "difference": "suitable と appropriate は、特定の目的・人・場面に合うという意味で大きく重なる。appropriate は行動や発言の場面上の妥当さを述べる場合にもよく使うが、社会的な礼儀だけを表す語ではない。suitable も服装や話すタイミングなどに使えるため、「appropriate は社会的、suitable は実用的」と二分しない。たとえば a suitable time と an appropriate time は、どちらも「ふさわしい時」を表せる。",
           "example": "This room is suitable for small meetings.",
           "translation": "この部屋は小規模な会議に適している。"
         },
@@ -170,7 +171,7 @@
           "word": "unsuitable",
           "definition": "目的・条件・人に合わず、使うのに適していない。",
           "frequency": 6,
-          "difference": "inappropriate より、実用上の不適合や条件不足に焦点を置きやすい。",
+          "difference": "unsuitable は用途・対象・場面に合わないことを表し、inappropriate と意味が重なる。実用面だけでなく服装・内容・人選などにも使うため、社会的な不適切さを表せないわけではない。",
           "example": "The surface is unsuitable for outdoor use.",
           "translation": "その表面は屋外での使用には適していない。"
         }
@@ -178,12 +179,12 @@
     },
     {
       "number": 2,
-      "title": "【動詞・他動詞／フォーマル】公的な権限で、金・予算・資源などを特定の目的のために割り当てる、充当する。",
+      "title": "【動詞・他動詞／フォーマル】金・予算・資源などを特定の目的のために割り当てる、充当する。",
       "frequency": 4,
       "register": [
         "フォーマル。行政・法律・会計・政策の文脈で多い。"
       ],
-      "definition": "公的な資金・資源を目的のために取り分ける、正式に割り当てる。",
+      "definition": "資金・資源などを特定の目的のために取り分ける、割り当てる。公的予算の正式な充当に多く使うが、公的機関の行為だけに限るわけではない。",
       "patterns": [
         "appropriate money/funds/resources for 〈purpose〉",
         "be appropriated for 〈purpose〉",
@@ -216,7 +217,7 @@
         }
       ],
       "notes": [
-        "公的機関などが目的を定めて予算や資源を取り分ける語。実際に支払う・使い切るという意味ではない。他者のものを自分に取り込む語義3とは、権限の有無と、何に属させるか（公的な目的か自分か）が異なる。"
+        "目的を定めて資金や資源を取り分ける語で、実際に支払う・使い切るという意味ではない。語義2は特定用途への充当、語義3は他者のものを自分のものとして取り込むことに焦点がある。語義3の無断・不当性は必須ではないため、権限の有無だけで二つの用法を判別しない。"
       ],
       "synonyms": [
         {
@@ -301,7 +302,7 @@
         }
       ],
       "notes": [
-        "無断使用・横取りの含みが文脈から生じやすいが、必須ではない。appropriation art（既存の図像を意図的に借用する美術）や、否定的な呼称を当事者側が取り込んで使い直す用法のように中立的・肯定的な使い方もある。misappropriate は不正・違法な流用であることが語自体で明確になる。公的な目的への正式な充当は語義2で、目的と権限の有無が境界になる。"
+        "無断使用・横取りの含みが文脈から生じやすいが、必須ではない。appropriation art（既存の図像を意図的に借用する美術）や、否定的な呼称を当事者側が取り込んで使い直す用法のように中立的・肯定的な使い方もある。misappropriate は不正・違法な流用であることが語自体で明確になる。特定の目的への資金などの充当は語義2で扱う。語義3との違いは、用途への充当を述べているのか、自分のものとして取り込むことを述べているのかという文脈から判断する。"
       ],
       "synonyms": [
         {
