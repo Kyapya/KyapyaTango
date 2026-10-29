@@ -3,7 +3,7 @@
   "slug": "prompt",
   "ipa": "米: /prɑːmpt/｜英: /prɒmpt/。1音節で、米語では /ɑː/、英語では /ɒ/ を発音する。語頭に /pr/、語末に /mpt/ という子音連続があり、/m/ と /p/ の間や /p/ と /t/ の間に母音を入れない。",
   "lead": "行動、対応、返答、支援、支払いなどが、必要以上に待たせずに行われることを表す。",
-  "updated": "2026-10-02",
+  "updated": "2026-10-29",
   "notion_url": "https://app.notion.com/p/prompt-3c74faa9b77d81539fe8e9b15a656155",
   "pronunciation": [
     "形容詞・動詞・名詞のいずれでも同じ1音節に強勢がある。名詞の複数形・動詞の三人称単数現在形 prompts は米 /prɑːmpts/・英 /prɒmpts/ で語末に /ts/ が続く。過去形・過去分詞 prompted は米 /ˈprɑːmptɪd/・英 /ˈprɒmptɪd/、-ing形 prompting は米 /ˈprɑːmptɪŋ/・英 /ˈprɒmptɪŋ/ である。基語が /t/ で終わるため、-ed は /d/ ではなく /ɪd/ と発音する。",
@@ -257,11 +257,11 @@
         },
         {
           "word": "responsive",
-          "definition": "要求、連絡、変化などにすぐ反応する。",
+          "definition": "要求、連絡、変化などに、素早く前向きに反応する。",
           "frequency": 7,
-          "difference": "responsive は反応のしやすさや積極性に焦点があり、promptのような期限・時刻の含みはない。",
+          "difference": "responsive は要求や意見に応じる姿勢・反応性に焦点を置き、対応の速さを含むこともある。prompt は応答や行動が遅れない点を強調する。responsive を「集合時刻に遅れない」という punctual の意味と同一視しない。",
           "example": "The support team is responsive to customer feedback.",
-          "translation": "そのサポートチームは顧客の意見にすぐ対応する。"
+          "translation": "そのサポートチームは顧客の意見に素早く、前向きに対応する。"
         },
         {
           "word": "ready",
@@ -463,6 +463,22 @@
           "difference": "motivate は行為者の内的な意欲・目的意識を重視する。prompt は意欲がなくても外部の出来事が行動を促す場合に使える。",
           "example": "The bonus motivated the team to finish early.",
           "translation": "その賞与がチームに早く終える意欲を与えた。"
+        },
+        {
+          "word": "encourage",
+          "definition": "人を励ましたり、行動を勧めて後押ししたりする。",
+          "frequency": 9,
+          "difference": "encourage は自信・意欲を支えたり、ある行動をよい選択として勧めたりする点に焦点を置く。prompt は必ずしも励ましではなく、出来事が行動を引き出すきっかけになる場合にも使う。encourage investment のように物事を促進する用法もあるため、encourage を人への励ましだけに限定しない。",
+          "example": "The teacher encouraged Mina to share her ideas.",
+          "translation": "先生はミナに、自分の考えを話すよう後押しした。"
+        },
+        {
+          "word": "urge",
+          "definition": "人にある行動をするよう強く勧めたり、要請したりする。",
+          "frequency": 8,
+          "difference": "urge は相手にしてほしい行動を強く勧める・求める働きかけに焦点がある。prompt はより広く、出来事や情報が行動の理由・きっかけになることも表す。urge someone to do と言っても、相手が実際にその行動をしたとは限らない。",
+          "example": "The manager urged the team to check the figures again.",
+          "translation": "部長はチームに、数値をもう一度確認するよう強く促した。"
         },
         {
           "word": "induce",
