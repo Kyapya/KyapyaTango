@@ -3,7 +3,7 @@
   "slug": "definite",
   "ipa": "米: /ˈdefənət/｜英: /ˈdefɪnət/。通常は3音節で、第1音節に主強勢がある。米語では第2音節の母音を弱い /ə/、英語では /ɪ/ と示すことが多い。語末は /nət/ で、綴りの -ite を finite のような /aɪt/ や /eɪt/ と読まない。definitely は米 /ˈdefənətli/・英 /ˈdefɪnətli/ のように発音し、語尾の -ly が加わる。",
   "lead": "答え、決定、計画、日付、合意、意図などが、曖昧な候補や一時的な案ではなく、内容として定まり、変更される可能性が低いことを表す。必ずしも今後絶対に変更できないという意味ではなく、現時点で決定・約束・判断が明確になっていることに焦点がある。人を主語とする叙述用法では、何かが本当だ、または起こると確信し、その判断をはっきり述べることも表す。",
-  "updated": "2026-10-01",
+  "updated": "2026-10-29",
   "notion_url": "https://app.notion.com/p/definite-3e04faa9b77d8143b77ec8044cfa7699",
   "pronunciation": [],
   "etymology": [
@@ -24,7 +24,7 @@
     },
     {
       "term": "definitive",
-      "description": "同じラテン語幹系統の形容詞。「決定的な、最終的な」。definite よりも最終判断・決着の含みが強く、単なる語尾違いとして置き換えない。"
+      "description": "同じラテン語幹系統の形容詞。「決定的な、最終的な」のほか、書物・作品などが「決定版とされる」という意味もある。definite と単なる語尾違いとして置き換えない。"
     },
     {
       "term": "define / definition",
@@ -153,7 +153,7 @@
         }
       ],
       "notes": [
-        "certain は事実・未来・話者の確信を広く表す。definite は答え・計画・日付などの内容が決まっていることを強調しやすいが、人を主語にして確信を示す用法もある。この人の用法は主に be definite about ... / be definite that ... という叙述形で使い、単に a definite person として「確信している人」を表すのは普通ではない。for definite は「確実に」というくだけた定型表現である。final は「それ以上変更しない最終段階」、firm は意思・態度の強さに焦点があるため、definite と完全には交換できない。I have no definite plans. は「将来の予定が一切ない」ではなく「決まった予定はない」という意味である。definite と definitely、definite と definitive を品詞や意味を考えずに置き換えない。綴りは definite であり、definate ではない。"
+        "certain は事実・未来・話者の確信を広く表す。definite は答え・計画・日付などの内容が決まっていることを強調しやすいが、人を主語にして確信を示す用法もある。この人の用法は主に be definite about ... / be definite that ... という叙述形で使い、単に a definite person として「確信している人」を表すのは普通ではない。for definite は「確実に」というくだけた定型表現である。final は「それ以上変更しない最終段階」、firm は意思・態度の強さに焦点があるため、definite と完全には交換できない。I have no definite plans. は「将来の予定が一切ない」ではなく「決まった予定はない」という意味である。definite と definitely、definite と definitive を品詞や意味を考えずに置き換えない。a definite answer は曖昧でない・確かな答え、a definitive answer は問題に最終的な決着をつける答えという焦点の違いがあるが、文脈によって意味は重なる。また a definitive guide は「その分野の決定版とされる案内書」という評価であり、definite に替えてもこの評価は表せない。definitive は、必ずしも時間的に最後に出されたものだけを指すわけではない。綴りは definite であり、definate ではない。"
       ],
       "synonyms": [
         {
@@ -430,7 +430,20 @@
         }
       ],
       "notes": [
-        "a definite amount は「量が決まっている」ことを示すが、必ずしも聞き手がその数値を知っているとは限らない。specific は「その特定のもの」という選択に、exact は誤差のない数値・内容に焦点がある。definite information は具体的で明確な情報（文脈によっては確かな情報）、definite plans は決定済みの予定というように、名詞によって「具体的」と「確定した」のどちらが前面に出るかが変わる。definite integral は「確実な積分」ではなく、積分区間が定まった数学用語である。"
+        "a definite amount は「量が決まっている」ことを示すが、必ずしも聞き手がその数値を知っているとは限らない。specific は「その特定のもの」という選択に、exact は誤差のない数値・内容に焦点がある。definite information は具体的で明確な情報（文脈によっては確かな情報）、definite plans は決定済みの予定というように、名詞によって「具体的」と「確定した」のどちらが前面に出るかが変わる。definite integral は「確実な積分」ではなく、積分区間が定まった数学用語である。",
+        "関連する対照表現：次の2語は、内容が定まっているかとは別に、明示されているか、上限があるかを表す。definite と直接反対になるとは限らない。",
+        "unspecified",
+        "定義: 必要な内容や条件が明示されていない。",
+        "頻度: 〈7/10〉",
+        "違い: unspecified は情報が指定されていないことに焦点があり、definite は情報の境界や内容が明らかであることを表す。",
+        "例: The shipment was delayed for unspecified reasons.",
+        "訳: その発送は理由が明示されないまま遅れた。",
+        "unlimited",
+        "定義: 数量・範囲・期間などに上限がない。",
+        "頻度: 〈8/10〉",
+        "違い: unlimited は上限の不存在を示し、definite は上限や範囲が定められていることを示す。ただし、definite が必ず有限量を意味するわけではない。",
+        "例: The plan offers unlimited data usage.",
+        "訳: そのプランはデータ通信を無制限で提供する。"
       ],
       "synonyms": [
         {
@@ -484,28 +497,12 @@
           "translation": "会議は無期限に延期された。"
         },
         {
-          "word": "unspecified",
-          "definition": "必要な内容や条件が明示されていない。",
-          "frequency": 7,
-          "difference": "unspecified は情報が指定されていないことに焦点があり、definite は情報の境界や内容が明らかであることを表す。",
-          "example": "The shipment was delayed for unspecified reasons.",
-          "translation": "その発送は理由が明示されないまま遅れた。"
-        },
-        {
           "word": "vague",
           "definition": "表現・考え・範囲などがぼんやりして具体性に欠ける。",
           "frequency": 9,
           "difference": "vague は内容の輪郭が弱いことを表し、definite は内容を具体的に切り出せることを表す。",
           "example": "His answer was too vague to be useful.",
           "translation": "彼の答えは曖昧すぎて役に立たなかった。"
-        },
-        {
-          "word": "unlimited",
-          "definition": "数量・範囲・期間などに上限がない。",
-          "frequency": 8,
-          "difference": "unlimited は上限の不存在を示し、definite は上限や範囲が定められていることを示す。ただし、definite が必ず有限量を意味するわけではない。",
-          "example": "The plan offers unlimited data usage.",
-          "translation": "そのプランはデータ通信を無制限で提供する。"
         }
       ]
     },
