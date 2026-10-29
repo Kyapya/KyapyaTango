@@ -3,7 +3,7 @@
   "slug": "distinct",
   "ipa": "米・英: /dɪˈstɪŋkt/。2音節の dɪ-STINGKT で、第2音節に主強勢がある。第1音節は弱い /dɪ/、第2音節の母音は /ɪ/ で、語末は /ŋ/・/k/・/t/ が連続する /ŋkt/ である。",
   "lead": "二つ以上の物、種類、考え、段階、役割などが同一ではなく、それぞれ独立して区別できることを表す。単に小さな差があるというより、分類・同一性・役割の境界を引けることが中心である。ただし、物理的に離れていることや相互に無関係であることまでは必ずしも意味しない。",
-  "updated": "2026-10-01",
+  "updated": "2026-10-29",
   "notion_url": "https://app.notion.com/p/distinct-3c74faa9b77d8164b813ed507b3e3b11",
   "pronunciation": [
     "語頭を /dɪs/ と切って強く読まず、/s/ は強勢のある第2音節の /st/ の一部として発音する。語末の3子音は学習者には難しいが、丁寧な発音では /k/ と /t/ を意識する。副詞 distinctly は /dɪˈstɪŋktli/ で、主強勢を保ったまま /li/ が加わる。"
@@ -253,9 +253,9 @@
         },
         {
           "word": "discernible",
-          "definition": "注意すれば知覚・認識できる程度に見分けられる。",
+          "definition": "知覚したり、違いや意味を認識したりできる。",
           "frequency": 4,
-          "difference": "discernible は「辛うじてでも識別可能か」という閾値を意識させ、しばしば改まった表現である。distinct は通常、特徴がより明瞭に現れていることを示す。",
+          "difference": "discernible は識別可能であることに焦点を置き、見えにくいものを見分ける場面にも使う。barely discernible なら「辛うじて識別できる」だが、discernible 単独を常に「辛うじて」と訳す必要はない。distinct は、輪郭や特徴が明瞭に認められることを強調する。",
           "example": "A faint pattern was discernible beneath the top layer of paint.",
           "translation": "上塗りの下に、かすかな模様が見分けられた。"
         },
@@ -302,7 +302,7 @@
       "register": [
         "標準語。会話、報道、ビジネス、評論で広く使う。distinct possibility、distinct advantage、distinct impression は定着度が高い。"
       ],
-      "definition": "可能性、印象、利点、変化、傾向、不足などが、無視できないほどはっきり存在する、または認められることを表す。知覚対象の輪郭ではなく、程度・存在・判断が明白であることが中心である。a distinct possibility は現実に考慮すべき可能性を示すが、必ず起こることまでは意味しない。名誉・貢献などについては「格別な・際立った」という評価を強めることもある。",
+      "definition": "可能性、印象、利点、変化、傾向、不足などが、はっきり存在する、または明確に認められることを表す。知覚対象の輪郭ではなく、程度・存在・判断が明白であることが中心である。a distinct possibility は現実に考慮すべき可能性を示すが、必ず起こることまでは意味しない。名誉・貢献などについては「格別な・際立った」という評価を強めることもある。",
       "patterns": [
         "a distinct 〈possibility/chance/risk〉＝はっきり存在する〈可能性・見込み・危険〉",
         "a distinct 〈advantage/disadvantage/improvement/change〉＝明白な〈利点・不利・改善・変化〉",
@@ -355,7 +355,20 @@
         }
       ],
       "notes": [
-        "この語義は主に名詞の前で使い、a distinct possibility、a distinct advantage のように程度を強める。distinct 自体が「確実な」を意味するわけではないため、a distinct possibility を「確実に起こること」と訳さない。可能性が明確に存在するという意味であり、その確率は文脈で決まる。the distinct impression that ... は話者の強い印象であって、内容の真実性を保証しない。distinct lack of ... は不足が目立つことを表し、しばしば否定的評価を伴う。この評価を、distinct advantage のような中立・肯定的表現へ一般化しない。"
+        "この語義は主に名詞の前で使い、a distinct possibility、a distinct advantage のように程度を強める。distinct 自体が「確実な」を意味するわけではないため、a distinct possibility を「確実に起こること」と訳さない。可能性が明確に存在するという意味であり、その確率は文脈で決まる。the distinct impression that ... は話者の強い印象であって、内容の真実性を保証しない。distinct lack of ... は不足が目立つことを表し、しばしば否定的評価を伴う。この評価を、distinct advantage のような中立・肯定的表現へ一般化しない。",
+        "対照表現として、程度や重要性の小ささを表す slight・negligible と区別する。ある違いを明瞭に認められることと、その違いが大きい、または重要であることは別の観点である。",
+        "slight",
+        "定義: 差、可能性、変化、利点などの程度が小さい。",
+        "頻度: 〈9/10〉",
+        "違い: slight は程度の小ささ、distinct は存在や違いが明確に認められることに焦点を置く。小さな変化でも、はっきり見分けられることはある。a slight chance は低い見込みを表し、a distinct possibility は現実的な可能性の存在を強調するが、後者が特定の確率を定めるわけではない。",
+        "例: There is only a slight chance of rain.",
+        "訳: 雨が降る可能性はわずかしかない。",
+        "negligible",
+        "定義: 影響、差、危険、可能性などが無視できるほど小さい。",
+        "頻度: 〈6/10〉",
+        "違い: negligible は大きさや重要性が無視できるほど小さいことを表す。測定上の違いが明瞭でも、その実務的な影響は無視できる場合があるため、distinct の直接的な反対語とは限らない。",
+        "例: The change had a negligible effect on total costs.",
+        "訳: その変更が総費用に与えた影響は無視できるほど小さかった。"
       ],
       "synonyms": [
         {
@@ -391,24 +404,7 @@
           "translation": "地域差は高年齢の労働者の間で最も顕著である。"
         }
       ],
-      "antonyms": [
-        {
-          "word": "slight",
-          "definition": "差、可能性、変化、利点などの程度が小さく、目立たない。",
-          "frequency": 9,
-          "difference": "distinct が無視しにくい明確な程度を示すのに対し、slight は存在しても程度が小さいことを示す。",
-          "example": "There is only a slight chance of rain.",
-          "translation": "雨が降る可能性はわずかしかない。"
-        },
-        {
-          "word": "negligible",
-          "definition": "影響、差、危険、可能性などが無視できるほど小さい。",
-          "frequency": 6,
-          "difference": "distinct が考慮に値する存在・程度を示すのに対し、negligible は実務上考慮しなくてよいほど小さいことを表す。",
-          "example": "The change had a negligible effect on total costs.",
-          "translation": "その変更が総費用に与えた影響は無視できるほど小さかった。"
-        }
-      ]
+      "antonyms": []
     },
     {
       "number": 4,
