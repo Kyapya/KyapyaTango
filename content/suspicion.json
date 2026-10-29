@@ -3,7 +3,7 @@
   "slug": "suspicion",
   "ipa": "Oxford は米・英とも /səˈspɪʃn/ と表記する。強勢は第2音節。語頭は弱い /sə/、語末は「シュン」に近く、全体で3音節。",
   "lead": "人が犯罪、不正、不誠実な行為をしたとして疑いの対象になること、またはその人の行為に不正の容疑を向けることを表す。焦点は、ある命題の真偽を予想すること自体より、特定の人がその行為をしたとして疑われている点にある。複数の個別の疑いを述べる suspicions は可算、疑いという状態を表す suspicion は不可算で使われる。on suspicion of ",
-  "updated": "2026-09-26",
+  "updated": "2026-10-29",
   "notion_url": "https://app.notion.com/p/suspicion-3e54faa9b77d81c18342e7ef12bf5c75",
   "pronunciation": [],
   "etymology": [
@@ -27,7 +27,7 @@
   "core": [
     {
       "type": "paragraph",
-      "text": "確証はないが、何かがあるのではないかと感じ取ることが共通の核である。"
+      "text": "疑いや推測の用法では、確証がなくても何かがあるのではないかと感じ取ることが中心になる。微量を表す語義4は「かすかに感じ取れるもの」として関連づけて覚えられるが、存在が不確かであることを必須とはしない。"
     },
     {
       "type": "item",
@@ -43,7 +43,7 @@
     },
     {
       "type": "item",
-      "text": "確証できないほどかすかに感じ取れる量 → 「ほんの少し、かすかな気配」（語義4）"
+      "text": "かすかに感じ取れる量 → 「ほんの少し、かすかな気配」（語義4）"
     }
   ],
   "sources": [],
@@ -169,7 +169,7 @@
           "word": "distrust",
           "definition": "人・組織・情報などを信用できないという感覚。",
           "frequency": 8,
-          "difference": "distrust は経験や根拠に基づいて定着した不信を表すことが多い。suspicion は、何か裏がありそうだという警戒や、確証のない疑いの段階に重心がある。",
+          "difference": "distrust は、人や物事を信用できないという感覚を直接表す。suspicion のこの語義と大きく重なるが、suspicion には不正の容疑や、あることが本当ではないかという推測の用法もあるため、すべての場面で distrust に置き換えられるわけではない。",
           "example": "Public distrust increased after the data leak.",
           "translation": "データ流出後、世間の不信が強まった。"
         },
@@ -177,7 +177,7 @@
           "word": "mistrust",
           "definition": "人・物事を十分には信頼しないこと。",
           "frequency": 7,
-          "difference": "distrust は信頼の欠如を幅広く表す。mistrust は相手や情報に確信が持てず、慎重に受け止める不信を表す。",
+          "difference": "mistrust と distrust は、どちらも相手や物事を信頼できないという意味で大きく重なる。mistrust も深い不信や経験から生じた不信に使うため、「distrust は根拠のある強い不信、mistrust は漠然とした弱い不信」と固定的に区別しない。suspicion と比較するときも、まずこの不信の意味なのか、別の語義の容疑・推測なのかを確かめる。",
           "example": "There was longstanding mistrust between the two groups.",
           "translation": "その二つの集団の間には長年の不信があった。"
         }
