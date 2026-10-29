@@ -3,7 +3,7 @@
   "slug": "assume",
   "ipa": "米: /əˈsuːm/｜英: /əˈsjuːm/。2音節で、第2音節に主強勢がある。第1音節は弱い /ə/。米音は /suː/、英音は /s/ の後に y の音 /j/ が入る /sjuː/ が標準的だが、英音でも /j/ を入れない /əˈsuːm/ が広く聞かれる。",
   "lead": "十分な証明や確認がないまま、ある事実・状態・判断を正しいもの、または前提として受け入れる。単に可能性を挙げるだけでなく、その前提に基づいて考えたり行動したりする含みがある。",
-  "updated": "2026-09-28",
+  "updated": "2026-10-29",
   "notion_url": "https://app.notion.com/p/assume-3c94faa9b77d81fdb869f85c6443aa94",
   "pronunciation": [
     "三人称単数 assumes は米 /əˈsuːmz/・英 /əˈsjuːmz/、過去形・過去分詞 assumed は米 /əˈsuːmd/・英 /əˈsjuːmd/、-ing形 assuming は米 /əˈsuːmɪŋ/・英 /əˈsjuːmɪŋ/。",
@@ -136,18 +136,34 @@
       ],
       "synonyms": [
         {
+          "word": "think",
+          "definition": "～だと思う、ある意見・判断を持つ。",
+          "frequency": 10,
+          "difference": "この意味の think は意見・判断を広く表す日常的な語で、十分に確認しないまま何かを前提として採用するという意味を必ずしも含まない。assume は、その内容を前提として受け入れる点に焦点がある。",
+          "example": "I think this plan will work, but we should test it first.",
+          "translation": "この計画はうまくいくと思うが、まず試すべきだ。"
+        },
+        {
+          "word": "believe",
+          "definition": "あることを真実だと思う、信じる。",
+          "frequency": 10,
+          "difference": "believe は内容を真実だと思っているという判断・信念を表し、assume は確認せず前提として受け入れる点に焦点を置く。believe にも完全には確信していない用法があるため、単語だけで証拠の十分さや確実さが決まるわけではない。議論のための assume では、仮の条件として置く場合もある。",
+          "example": "I believe her account, although I haven't checked every detail.",
+          "translation": "細部をすべて確認したわけではないが、彼女の説明を信じている。"
+        },
+        {
           "word": "suppose",
           "definition": "～だと思う、仮に～だとする。",
           "frequency": 10,
-          "difference": "suppose は日常会話で軽い推測や仮定を広く表し、I suppose ... は「たぶん～だろう」程度の控えめな推測になる。assume は確認しないまま前提として受け入れる点に焦点がある。",
+          "difference": "suppose は日常的な推測や仮定に使う。I suppose ... は控えめな推測だけでなく、しぶしぶの同意や発言を和らげる働きもあり、文脈で判断する。assume は確認しないまま前提として受け入れる点に焦点がある。",
           "example": "I suppose the meeting will end soon.",
           "translation": "会議はそろそろ終わるだろう。"
         },
         {
           "word": "presume",
-          "definition": "ある程度の根拠に基づき、～だと推定する。",
+          "definition": "～だろうと考える、推定する。",
           "frequency": 7,
-          "difference": "presume は状況証拠や通常の成り行きから「おそらくそうだ」と判断する含みがあり、assume は根拠の有無を問わず前提として受け入れる点に焦点がある。",
+          "difference": "presume は状況や通常の成り行きからそうだろうと考える見込み・確信を示しやすく、assume は前提として受け入れる点に焦点がある。用法は重なり、assume にも状況上の根拠があり得るため、「根拠なしの assume／根拠ありの presume」という絶対的な区別ではない。どちらも、語だけで内容が証明済みだと保証するわけではない。",
           "example": "We presumed that the shop was closed because all the lights were off.",
           "translation": "明かりがすべて消えていたので、私たちは店が閉まっているのだろうと思った。"
         },
