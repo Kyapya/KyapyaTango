@@ -3,7 +3,7 @@
   "slug": "premise",
   "ipa": "名詞は米・英: /ˈpremɪs/。2音節の PREM-iss で、第1音節に主強勢がある。語末の -ise を /aɪz/ と読む語ではなく、名詞では /ɪs/ で終わる。",
   "lead": "議論、推論、判断、計画、行動などを進める際に、真である、またはひとまず受け入れるものとして置かれる考え・命題・仮定。その前提自体が実際に正しいことを premise という語が保証するわけではなく、false premise「誤った前提」のようにも使える。",
-  "updated": "2026-10-02",
+  "updated": "2026-10-29",
   "notion_url": "https://app.notion.com/p/premise-3cc4faa9b77d81e08579ffe2255b4a30",
   "pronunciation": [
     "動詞は米・英で /prɪˈmaɪz/ と /ˈpremɪs/ の両方が辞書に載る。/prɪˈmaɪz/ では第2音節に強勢があり、語末は /aɪz/、/ˈpremɪs/ では名詞と同じ発音になる。とくに be premised on/upon ... を聞くときは、話者によってこの二つがあり得る。",
@@ -130,6 +130,14 @@
           "translation": "私たちの費用見積もりは、燃料価格が安定したままだという仮定に基づいている。"
         },
         {
+          "word": "hypothesis",
+          "definition": "事実や現象を説明するためなどに提示され、検討・検証の対象となる仮説。",
+          "frequency": 7,
+          "difference": "hypothesis は正しいかを調べる説明・仮説に焦点があり、premise は議論や推論の出発点として使う役割に焦点がある。同じ仮説をある推論の前提にすることもできるため、「未証明なら hypothesis、証明済みなら premise」という区別ではない。",
+          "example": "The team tested the hypothesis that the new layout would reduce errors.",
+          "translation": "そのチームは、新しい配置にすれば誤りが減るという仮説を検証した。"
+        },
+        {
           "word": "presupposition",
           "definition": "発言・理論・考えの背後ですでに成り立つものとして想定されている前提。",
           "frequency": 5,
@@ -207,7 +215,7 @@
           "word": "plot",
           "definition": "物語で起きる出来事の筋、展開。",
           "frequency": 9,
-          "difference": "plot は出来事の連鎖そのもの。premise はその連鎖を生み出す基本条件・着想である。",
+          "difference": "通常、plot は出来事の連鎖や展開に、premise はその土台となる基本条件・着想に焦点を置く。ただし、作品の主要な筋立てを要約するときには意味が重なることもある。",
           "example": "The plot becomes more complicated after the second episode.",
           "translation": "物語の筋は第2話以降さらに複雑になる。"
         }
@@ -411,8 +419,8 @@
           "definition": "理論・制度・主張などを、ある原理・根拠の上に築く。",
           "frequency": 5,
           "difference": "be founded on ... は基礎となる原理・価値・事実にも使え、premised on より「築かれている」という比喩が強い。",
-          "example": "The organization was founded on the principle of equal access.",
-          "translation": "その組織は、平等なアクセスという原則に基づいて設立された。"
+          "example": "The criticism was founded on a misunderstanding of the report.",
+          "translation": "その批判は、報告書の誤解に基づいていた。"
         },
         {
           "word": "predicate",
