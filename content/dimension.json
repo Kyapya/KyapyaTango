@@ -3,7 +3,7 @@
   "slug": "dimension",
   "ipa": "米: /dɪˈmenʃən/ が主要な掲載形で、/daɪˈmenʃən/ も認められる。英: /daɪˈmenʃən/ を主要な掲載形として載せる辞書が多いが、/dɪˈmenʃən/ も認められる。いずれも3音節で、第2音節の /men/ に主強勢がある。最初の音節は弱く、語末の /ʃən/ は「ション」に近い。派生語 dimensional は /dɪˈmenʃənəl/、dimensionless は /dɪˈmenʃənləs/ となる。",
   "lead": "物体や空間を、長さ、幅、高さ、深さ、直径などの一つの方向に沿って測った広がり。複数の方向の数値全体をいうときは dimensions と複数形にすることが多い。単位を伴う数値だけでなく、測定の軸そのものを指すこともある。",
-  "updated": "2026-10-01",
+  "updated": "2026-10-29",
   "notion_url": "https://app.notion.com/p/dimension-3cc4faa9b77d810baab6f57dd57dbc81",
   "pronunciation": [
     "複数形 dimensions は /dɪˈmenʃənz/、/daɪˈmenʃənz/。語末の -s は通常 /z/ で、dimensions of ... のように名詞の複数形として使う。動詞 dimension も /dɪˈmenʃən/、/daɪˈmenʃən/ があり、過去形・過去分詞 dimensioned は /dɪˈmenʃənd/、/daɪˈmenʃənd/、-ing形 dimensioning は /dɪˈmenʃənɪŋ/、/daɪˈmenʃənɪŋ/ となる。"
@@ -102,7 +102,6 @@
         "the dimension of 〈物体・空間〉＝物体・空間の一方向の寸法",
         "measure/check a dimension＝寸法を測る・確認する",
         "the 〈長さ・幅・高さ〉 dimension＝長さ・幅・高さ方向の寸法",
-        "in one/two/three dimensions＝1・2・3次元で",
         "a dimension of 〈数値〉＝〈数値〉の寸法"
       ],
       "collocations": [
@@ -123,12 +122,6 @@
           "use": "窓、入口、穴などの一方向の大きさを表す。",
           "example": "The dimension of the opening is too small for the replacement part.",
           "translation": "その開口部の寸法は交換部品には小さすぎる。"
-        },
-        {
-          "pattern": "in three dimensions",
-          "use": "長さ・幅・高さを持つ通常の立体空間で扱うことを表す。",
-          "example": "The software lets students view the molecule in three dimensions.",
-          "translation": "そのソフトウェアを使うと、学生は分子を三次元で見ることができる。"
         },
         {
           "pattern": "a dimension of 〈数値・単位〉",
@@ -311,7 +304,8 @@
       ],
       "notes": [
         "この語義では dimension は aspect、side、facet と近いが、dimension のほうが対象を分析する軸や、問題に新たに加わる要素という響きを持つ。a new dimension to the problem は「問題に新たな側面が加わった」であり、物理的な大きさが増えたという意味ではない。",
-        "通常、dimension to 〈対象〉では to の後ろに、側面が加わる問題・活動・経験などを置く。dimension of 〈対象〉では、対象を構成する一側面として述べる。どちらも可能な場合があるが、前置詞を機械的に入れ替えず、add a dimension to、the social dimension of のような定着した組合せで覚える。"
+        "通常、dimension to 〈対象〉では to の後ろに、側面が加わる問題・活動・経験などを置く。dimension of 〈対象〉では、対象を構成する一側面として述べる。どちらも可能な場合があるが、前置詞を機械的に入れ替えず、add a dimension to、the social dimension of のような定着した組合せで覚える。",
+        "対照表現: factor は、ここでは結果や判断を生じさせたり、それに影響したりする要因を表す。dimension が「対象のどの側面を見るか」に焦点を置くのに対し、factor は「何が結果や判断に影響するか」に焦点を置く。同じ事柄を両方の観点から捉えることはできるが、単なる置き換えではない。例: We examined the financial dimension of the project, and cost was a major factor in our decision. 訳: 私たちはその計画の財務面を検討し、費用は判断に大きく影響する要因となった。"
       ],
       "synonyms": [
         {
@@ -429,6 +423,7 @@
       "definition": "通常の幾何学・線形代数では、点の位置や数学的対象を指定するための独立した方向・座標の一つ。また、そのような独立した方向・自由度がいくつ必要かという数。直線は1次元、平面は2次元、通常の立体空間は3次元である。数学では、曲がった空間、ベクトル空間、抽象空間などにも一般化され、必ずしも目に見える方向だけを指さない。",
       "patterns": [
         "one/two/three dimensions＝1・2・3次元",
+        "in one/two/three dimensions＝1・2・3次元で",
         "an n-dimensional space＝n次元空間",
         "the dimension of 〈空間・ベクトル空間〉＝～の次元",
         "locate/represent 〈点・対象〉 in 〈次元〉＝～次元で位置を定める・表す",
@@ -439,7 +434,13 @@
           "pattern": "a three-dimensional space",
           "use": "長さ・幅・高さの三つの独立方向を持つ空間を表す。",
           "example": "The robot maps its position in a three-dimensional space.",
-          "translation": "そのロボットは自分の位置を三次元の地図上に示す。"
+          "translation": "そのロボットは、三次元空間内での自分の位置を図示する。"
+        },
+        {
+          "pattern": "in three dimensions",
+          "use": "長さ・幅・高さを持つ通常の立体空間で扱うことを表す。",
+          "example": "The software lets students view the molecule in three dimensions.",
+          "translation": "そのソフトウェアを使うと、学生は分子を三次元で見ることができる。"
         },
         {
           "pattern": "in two dimensions",
