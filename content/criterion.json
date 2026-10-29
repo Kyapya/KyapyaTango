@@ -3,7 +3,7 @@
   "slug": "criterion",
   "ipa": "米: /kraɪˈtɪriən/｜英: /kraɪˈtɪəriən/。4音節で、第2音節に主強勢がある。米では主強勢を担う部分が /ˈtɪr/、英では /ˈtɪə/ となる。語頭は cry と同じ /kraɪ/ で、語末は /iən/ と続く。米語は「クライ・ティリ・アン」、英語は「クライ・ティア・リアン」に近い音の流れになる。",
   "lead": "何かを評価、比較、選択、判定するときによりどころにする基準・条件・尺度。公式に決められた規則に限らず、判断する人が重視する一つの要素でもよい。通常は複数の criteria の一つとして用いられ、criterion 自体が「唯一の絶対基準」を含意するわけではない。",
-  "updated": "2026-10-01",
+  "updated": "2026-10-29",
   "notion_url": "https://app.notion.com/p/criterion-3c74faa9b77d814ea7c2f076ee1b995b",
   "pronunciation": [
     "複数形 criteria は米 /kraɪˈtɪriə/・英 /kraɪˈtɪəriə/。criterions は通常の -s 複数で、おおむね /kraɪˈtɪriənz/ と発音する。criterion は第1音節に主強勢を置かず、criteria を「クライテリアン」のように発音しない。"
@@ -95,24 +95,40 @@
         }
       ],
       "notes": [
-        "可算名詞なので、単数は a criterion・one criterion、標準的な複数は criteria である。正式な文章では This criterion is important.「この基準は重要だ」、These criteria are important.「これらの基準は重要だ」のように数を一致させる。criteria を単数として criteria is とする用法も現代英語で増えているが、正式な標準用法としては異論が残るため、学習者が標準的な書き言葉で使う場合は criterion を選ぶ。criterions という -s 複数も存在するが、通常の複数としては criteria が自然である。criterion は standard よりも、特定の判断で使う一つのテスト・要素に焦点があり、standard は権威によって定められた規則・水準や模範まで広く指せる。factor は判断に影響する要素だが、明示的な評価基準とは限らず、condition は満たす必要のある条件に焦点がある。criterion-referenced test の criterion は「テスト」そのものではなく、結果を照らし合わせる基準を指す。"
+        "可算名詞なので、単数は a criterion・one criterion、標準的な複数は criteria である。正式な文章では This criterion is important.「この基準は重要だ」、These criteria are important.「これらの基準は重要だ」のように数を一致させる。criteria を単数として criteria is とする用法も現代英語で増えているが、正式な標準用法としては異論が残るため、学習者が標準的な書き言葉で使う場合は criterion を選ぶ。criterions という -s 複数も存在するが、通常の複数としては criteria が自然である。criterion は判断に用いる基準・判定要素を指し、standard と意味が重なる。standard は品質や達成度の水準、行動の規範・模範にも使い、必ずしも外部の権威が定めたものに限らない。factor は判断に影響する要素でも、明示された評価基準とは限らない。condition や requirement は、選抜・参加などの文脈では満たすべき条件に焦点を置く。criterion も必須条件を指せるが、候補を比較するための観点にも使う。英語の test には試験・検査のほか「判断のよりどころ」という意味があり、この意味では criterion と重なる。ただし criterion-referenced test の test は試験そのもの、criterion は結果を照らし合わせる基準を指すので、同じものではない。"
       ],
       "synonyms": [
         {
           "word": "standard",
           "definition": "判断や行動のよりどころとなる規則・水準・模範。",
           "frequency": 10,
-          "difference": "criterion は特定の評価で使う一つの基準・判定要素を指しやすいのに対し、standard は権威や慣行によって定められた水準・規則という含みが強い。",
+          "difference": "criterion と standard はともに判断基準を表し、意味が重なる。criterion は何をよりどころに判定するかに焦点を置き、standard は求める品質・達成水準や規範・模範にも広く使う。standard を公的機関が定めた基準だけに限定しない。",
           "example": "The company has a high standard for customer service.",
           "translation": "その会社は顧客サービスに高い基準を設けている。"
         },
         {
           "word": "benchmark",
-          "definition": "性能や成果を比較するための基準点・目標値。",
+          "definition": "性能や成果などを比較・評価するときの参照基準。",
           "frequency": 8,
-          "difference": "benchmark は実績を数値や既存の水準と比較する含みが強く、criterion は選定や判定に使う要素全般を指せる。",
-          "example": "Response time is a useful benchmark for the new system.",
-          "translation": "応答時間は新しいシステムの有用な比較基準になる。"
+          "difference": "benchmark は何と比べて評価するかという参照点に焦点があり、criterion は何を基準に判断するかという観点・条件を広く指す。benchmark は達成目標として使われることもあるが、必ず目標値を意味するわけではなく、数値以外の作品・実績なども比較の基準になりうる。",
+          "example": "We used the old system's response time as a benchmark for the new one.",
+          "translation": "旧システムの応答時間を、新システムを評価するための比較基準にした。"
+        },
+        {
+          "word": "yardstick",
+          "definition": "程度や成果などを測り、判断するときの物差しとなる基準。",
+          "frequency": 6,
+          "difference": "criterion の比較的くだけた言い換えとして使え、量や程度を測る物差しという比喩が出やすい。benchmark とも重なるが、数量以外の評価に使えないという制約ではない。",
+          "example": "We used last year's results as a yardstick for judging this year's performance.",
+          "translation": "昨年の結果を、今年の成績を判断する物差しとして使った。"
+        },
+        {
+          "word": "touchstone",
+          "definition": "質や真価、本物かどうかを見極めるための試金石・判断基準。",
+          "frequency": 5,
+          "difference": "criterion が判定の観点・条件を広く表すのに対し、この意味の touchstone は、価値や誠実さなどの真価を見抜く手がかりという含みがある。単に数量を測る基準より、目に見えない性質を試す文脈に合う。",
+          "example": "How a company handles complaints is a touchstone of its commitment to customers.",
+          "translation": "会社が苦情にどう対応するかは、顧客をどれほど大切にしているかを見極める試金石になる。"
         },
         {
           "word": "factor",
@@ -129,6 +145,14 @@
           "difference": "condition は必要条件・前提条件に焦点があり、criterion は必ずしも合否を決める条件ではなく、比較や評価の尺度にも使える。",
           "example": "One condition of the agreement is that payment be made in advance.",
           "translation": "その契約の条件の一つは、代金を前払いすることだ。"
+        },
+        {
+          "word": "requirement",
+          "definition": "必要とされるもの、満たすことを求められる条件・要件。",
+          "frequency": 9,
+          "difference": "選抜・参加の文脈で requirement は満たすべき要件に焦点を置く。criterion は必須要件にも使える一方、候補を比較して評価するための観点にも使える。両者が重なる場合もあり、criterion なら任意、requirement なら重要という単純な区別ではない。",
+          "example": "A valid passport is a requirement for this trip.",
+          "translation": "この旅行には有効なパスポートが必要だ。"
         },
         {
           "word": "measure",
