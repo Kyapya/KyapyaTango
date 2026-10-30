@@ -3,7 +3,7 @@
   "slug": "authorize",
   "ipa": "米: /ˈɑː.θɚ.aɪz/｜英: /ˈɔː.θər.aɪz/",
   "lead": "権限・決定権のある人や組織が、支出、取引、計画、行為などを正式に認める。目的語は認められる事柄。本人の権利に基づく同意にも使うので、政府や法律上の許可に限らない。承認したことと、その行為を実際に行ったことは別である。",
-  "updated": "2026-10-11",
+  "updated": "2026-10-31",
   "notion_url": "https://app.notion.com/p/authorize-3f64faa9b77d81919a89cfe7bcd15245",
   "pronunciation": [
     "3音節で、第1音節に主強勢を置く。示した米英形の差は、第1音節の母音 /ɑː/ と /ɔː/、第2音節の /ɚ/ と /ər/。この英形の /r/ は後続する第3音節が母音で始まるため発音する。第2音節の子音 /θ/ は有声の /ð/ ではない。authorized の -ed は /d/、authorizes の -es は /ɪz/。authorizing では末尾の e を落とす。"
@@ -273,10 +273,16 @@
           "use": "ある行為が許可の範囲内にあるかを述べる。",
           "example": "Remote access is authorized only during scheduled maintenance.",
           "translation": "遠隔アクセスが許可されているのは、予定された保守作業の間だけだ。"
+        },
+        {
+          "pattern": "be authorized to do",
+          "use": "特定の行為をする権限が現在あるかを確認する。",
+          "example": "Are you authorized to approve these requests?",
+          "translation": "これらの申請を承認する権限がありますか。"
         }
       ],
       "notes": [
-        "名詞前の authorized にハイフンは付けない。状態を表す The access is authorized. と、承認行為を述べる The access was authorized by the director yesterday. は形が近く、後者は通常の受動態。become authorized to do は権限を得る変化を示せるが、get authorized は手続き上の許可を得るというくだけた言い方になりやすい。原則として程度の大小を表さず、very authorized や more authorized を標準的な比較として用いない。authorized は安全性・品質・正しさまで保証する語ではなく、公認伝記にも誤りや偏りはあり得る。"
+        "名詞前の authorized にハイフンは付けない。状態を表す The access is authorized. と、承認行為を述べる The access was authorized by the director yesterday. は形が近く、後者は通常の受動態。ただし、受動態にも状態を表す解釈があるので、状態を述べているという理由だけで形容詞と断定はしない。be authorized to do は語義2の受動態との境界が重なり、この語義では権限がある状態に焦点を当てている。become authorized to do は権限を得る変化を示せるが、get authorized は手続き上の許可を得るというくだけた言い方になりやすい。原則として程度の大小を表さず、very authorized や more authorized を標準的な比較として用いない。authorized は安全性・品質・正しさまで保証する語ではなく、公認伝記にも誤りや偏りはあり得る。"
       ],
       "synonyms": [
         {
