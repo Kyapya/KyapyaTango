@@ -3,7 +3,7 @@
   "slug": "contribute",
   "ipa": "米・英: /kənˈtrɪb.juːt/",
   "lead": "共通の目的や活動に向けて、金銭・物資・時間・労力・知識・意見などを出す。他動詞では出すものを直接目的語にし、自動詞ではその内容を明示せず、提供先・参加する活動などを示す。寄付だけでなく、費用の分担や会議への意見提供にも使い、必ずしも無償・自発的とは限らない。",
-  "updated": "2026-10-11",
+  "updated": "2026-10-31",
   "notion_url": "https://app.notion.com/p/contribute-3f64faa9b77d8173836fe8a31ff01f2e",
   "pronunciation": [
     "基本形は3音節で、第2音節に主強勢を置く。主にイギリス英語では /ˈkɒn.trɪ.bjuːt/ という第1音節に主強勢を置く形もある。基本形との違いは主強勢の位置、第1音節の母音 /ə/ と /ɒ/、第2・第3音節の境界で /b/ をどちらに含めるか。この表記では第3音節の /j/ は両方に含まれる。contributed の -ed は /ɪd/ で1音節増え、contributing では末尾の e を落とす。"
@@ -23,14 +23,6 @@
     {
       "term": "contributory",
       "description": "形容詞「一因となる、拠出を伴う」。a contributory factor は「一因」、a contributory pension scheme は加入者などが掛金を拠出する年金制度。制度の条件は語だけでは決まらない。"
-    },
-    {
-      "term": "contributing",
-      "description": "現在分詞。a contributing factor「一因となる要素」、a contributing editor「寄稿編集者」のように名詞の前でも用いる。前者は原因義、後者は出版義に対応する。"
-    },
-    {
-      "term": "contributed",
-      "description": "過去形・過去分詞。contributed funds「拠出された資金」のような限定用法も、基本的には動詞の受動的な意味を保つ。"
     }
   ],
   "core": [
@@ -127,7 +119,7 @@
         }
       ],
       "notes": [
-        "contribute money to the fund は「資金を基金に出す」、contribute to the fund は「基金に拠出する」。to の後が提供先であり、contribute the fund とすると基金自体を提供する意味になり得る。「彼らに資金を出す」は contribute money to them とし、contribute them money という二重目的語にはしない。to/toward/towards は前置詞で、contribute to buying new equipment のように後ろの動詞は -ing 形にする。have something to contribute の to は不定詞であり、別構造。会議の contribute は「出席する」だけではなく意見などを加えること。「協力したい」のつもりで contribute myself とせず、contribute や contribute my time を使う。共同活動に一部を出すことが中心だが、ほかの提供者の存在や、全体に占める小さな割合を常に明示する必要はない。"
+        "活用形は contributes、contributed、contributing。contributed funds「拠出された資金」は過去分詞による名詞の修飾で、提供される側を表す。活用形が存在することと、派生語が作られることは区別する。contribute money to the fund は「資金を基金に出す」、contribute to the fund は「基金に拠出する」。to の後が提供先であり、contribute the fund とすると基金自体を提供する意味になり得る。「彼らに資金を出す」は contribute money to them とし、contribute them money という二重目的語にはしない。to/toward/towards は前置詞で、contribute to buying new equipment のように後ろの動詞は -ing 形にする。have something to contribute の to は不定詞であり、別構造。会議の contribute は「出席する」だけではなく意見などを加えること。「協力したい」のつもりで contribute myself とせず、contribute や contribute my time を使う。共同活動に一部を出すことが中心だが、ほかの提供者の存在や、全体に占める小さな割合を常に明示する必要はない。"
       ],
       "synonyms": [
         {
@@ -140,9 +132,9 @@
         },
         {
           "word": "chip in",
-          "definition": "口語で、ほかの人と一緒に少額の金銭や助力を出す。",
+          "definition": "口語で、ほかの人と一緒に金銭や助力を出す。",
           "frequency": 7,
-          "difference": "contribute よりくだけており、共同の贈り物や食事代などの分担によく合う。",
+          "difference": "contribute よりくだけており、共同の贈り物や食事代などの分担によく合う。金額が少額であることを必須条件にはしない。",
           "example": "We all chipped in to buy a farewell gift.",
           "translation": "私たちはみんなでお金を出し合って、送別の品を買った。"
         },
