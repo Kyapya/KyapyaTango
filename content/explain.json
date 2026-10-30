@@ -3,7 +3,7 @@
   "slug": "explain",
   "ipa": "米・英: /ɪkˈspleɪn/",
   "lead": "言葉・規則・手順・仕組み・考えなどについて、意味や内容が理解できるように情報を示す。人のほか、説明書・記事・図なども主語になる。目的は理解を助けることだが、説明が常に正確で十分であることや、相手が実際に理解したことまでは保証しない。単に外見や性格を描写する describe、情報を知らせる tell と区別する。",
-  "updated": "2026-10-06",
+  "updated": "2026-10-30",
   "notion_url": "https://app.notion.com/p/explain-3f14faa9b77d81189b92dbb26c3f66e4",
   "pronunciation": [
     "2音節で、第2音節に主強勢を置く。第1音節の母音は /ɪ/、第2音節は二重母音 /eɪ/。/spleɪn/ の /s/・/p/・/l/ の間に母音を入れない。explains は /ɪkˈspleɪnz/、explained は /ɪkˈspleɪnd/ で、語尾に音節は増えない。explaining は /ɪkˈspleɪnɪŋ/。派生名詞 explanation /ˌekspləˈneɪʃn/ では、第1音節に第二強勢、第3音節に主強勢が移り、explain の第2音節にあった /eɪ/ は保たれない。"
@@ -154,7 +154,7 @@
         },
         {
           "pattern": "explain something in detail",
-          "use": "内容を省略せず、詳しく説明する。",
+          "use": "内容の細部まで詳しく説明する。",
           "example": "The next chapter explains the process in detail.",
           "translation": "次の章では、その過程を詳しく説明する。"
         },
@@ -313,8 +313,8 @@
         {
           "pattern": "explain something in terms of something",
           "use": "ある現象の原因を、特定の要因や枠組みから説明する。",
-          "example": "The researchers explained the decline in terms of reduced access to food.",
-          "translation": "研究者たちは、餌を得にくくなったことから個体数の減少を説明した。"
+          "example": "The researchers explained the decline in the bird population in terms of reduced access to food.",
+          "translation": "研究者たちは、餌を得にくくなったことから鳥の個体数の減少を説明した。"
         },
         {
           "pattern": "be unable to explain something",
@@ -495,7 +495,7 @@
         }
       ],
       "notes": [
-        "この能動構文では、再帰代名詞が自分の行動を指す直接目的語になる。explain myself to you は「あなたに自分の行動を釈明する」、explain the rule to myself は「自分自身に規則を説明する」で、後者の myself は to の後ろにある受け手。語順と意味役割が違う。",
+        "この能動構文では、再帰代名詞は主語と同じ人物を指し、直接目的語になる。explain oneself 全体で、その人自身の行動や発言の理由を説明するという意味を表す。explain myself to you は「あなたに自分の行動を釈明する」、explain the rule to myself は「自分自身に規則を説明する」で、後者の myself は to の後ろにある受け手。語順と意味役割が違う。",
         "Explain yourself. は、単に「分かりやすく説明してください」と頼むつもりで使うと、相手を問い詰める響きになりやすい。語義5にも同じ形はあるが、意図を明確にするなら Could you explain what you mean? のように内容を示す。自分の性格や経歴を紹介することは、通常 introduce oneself や describe oneself で表す。",
         "oneself を受動態の主語にして I was explained. としても、「私は釈明した」や「私は説明を受けた」にはならない。通常は能動の再帰構文を保ち、行動を主語にするなら My actions were explained to the committee. のように別の構文にする。"
       ],
