@@ -3,7 +3,7 @@
   "slug": "convince",
   "ipa": "米・英: /kənˈvɪns/",
   "lead": "理由・証拠・経験などにより、人がある内容を真実・正しい・妥当だと認めるようにする。主語は人だけでなく、説明・出来事・証拠などでもよい。納得した内容が客観的に正しいとは限らない。肯定の完了した出来事なら通常は納得の成立を表すが、try to convince は成功を保証しない。",
-  "updated": "2026-10-11",
+  "updated": "2026-10-31",
   "notion_url": "https://app.notion.com/p/convince-3f64faa9b77d81a28da4fb2051aea406",
   "pronunciation": [
     "2音節で、第2音節に主強勢を置く。第1音節の母音は弱い /ə/。convinced は /kənˈvɪnst/ で、-ed は /t/ と発音し、音節を増やさない。convincing は /kənˈvɪn.sɪŋ/ で3音節。末尾の e を落として -ing を付けるが、c は引き続き /s/ と読む。"
@@ -36,27 +36,27 @@
   "core": [
     {
       "type": "paragraph",
-      "text": "「疑いやためらいを越えて、確かだ・妥当だと感じさせる」が核。人を納得へ導く行為、納得して行動を選ぶこと、確信した状態、納得させる力、実力差に疑いを残さない勝ち方に展開する。"
+      "text": "「確かだ・妥当だという納得へ導く」が核。人を納得へ導く行為、納得して行動を選ぶこと、確信した状態、納得させる力、勝者の優位が明白な勝ち方に展開する。もとの疑いやためらいが解消される場合によく使うが、先に疑っていたことを必ず前提とするわけではない。"
     },
     {
       "type": "item",
-      "text": "疑いを越えた納得へ人を導くこと → 「納得させる、信じさせる」（語義1）"
+      "text": "確かだ・妥当だという納得へ人を導くこと → 「納得させる、信じさせる」（語義1）"
     },
     {
       "type": "item",
-      "text": "疑いを越えた納得へ導いて行動を選ばせること → 「説得して～する気にさせる」（語義2）"
+      "text": "確かだ・妥当だという納得へ導いて行動を選ばせること → 「説得して～する気にさせる」（語義2）"
     },
     {
       "type": "item",
-      "text": "疑いを越えた納得に人が達している状態 → 「確信している、信念の固い」（語義3）"
+      "text": "確かだ・妥当だという納得に人が達している状態 → 「確信している、信念の固い」（語義3）"
     },
     {
       "type": "item",
-      "text": "疑いを越えた納得を生む説明・表現の力 → 「説得力のある、真に迫った」（語義4）"
+      "text": "確かだ・妥当だという納得を生む説明・表現の力 → 「説得力のある、真に迫った」（語義4）"
     },
     {
       "type": "item",
-      "text": "疑いを越えた納得を生む勝ち方の明白さ → 「圧倒的な、実力差を示す」（語義5）"
+      "text": "確かだ・妥当だという納得を生む勝ち方の明白さ → 「圧倒的な、優位の明らかな」（語義5）"
     }
   ],
   "sources": [],
@@ -454,14 +454,14 @@
     },
     {
       "number": 5,
-      "title": "【形容詞・convincing・主に限定用法】圧倒的な、実力差を示す",
+      "title": "【形容詞・convincing・主に限定用法】圧倒的な、優位の明らかな",
       "frequency": 6,
       "register": [
         "スポーツ報道、選挙などの結果の評価。"
       ],
-      "definition": "勝利・勝ち方が、勝者の優位をはっきり示す。特にスポーツの結果に使い、僅差でどうにか勝つことと対照される。必ず特定以上の点差を必要とする語ではなく、試合内容も含めて評価する。",
+      "definition": "勝利・勝ち方が、勝者の優位をはっきり示す。特にスポーツの結果に使い、僅差でどうにか勝つことと対照される。必ず特定以上の点差を必要とする語ではなく、試合内容も含めて評価する。その試合などで示した優位の評価であり、両者の恒常的な能力差まで保証するわけではない。",
       "patterns": [
-        "a convincing win＝実力差の明らかな勝利",
+        "a convincing win＝優位の明らかな勝利",
         "a convincing victory over someone＝相手に対する圧倒的な勝利",
         "a convincing 〈スコア〉 win＝最終スコアを示した圧倒的な勝利",
         "the victory was convincing＝その勝利は優位をはっきり示すものだった"
@@ -471,7 +471,7 @@
           "pattern": "a convincing win（convince からの形容詞）",
           "use": "勝者が明らかに優勢だった勝利を述べる。",
           "example": "The home team opened the season with a convincing win.",
-          "translation": "ホームチームは、実力差を示す勝利でシーズンをスタートさせた。"
+          "translation": "ホームチームは、明らかな優位を示す勝利でシーズンをスタートさせた。"
         },
         {
           "pattern": "a convincing victory over someone（convince からの形容詞）",
@@ -487,7 +487,7 @@
         }
       ],
       "notes": [
-        "ここでの convincing は、説明で相手を説得したという意味ではなく、「どちらが優れていたかに疑いを残さない」勝ち方の評価。a convincing argument（語義4）と a convincing win で修飾対象が違う。He won convincingly. と副詞にすれば「彼ははっきりした実力差を示して勝った」。単に最終的に勝ったという事実だけで convincing になるわけではない。試合前に勝利を確信している人なら a convinced winner とはせず、a player confident of winning などと表す。"
+        "ここでの convincing は、説明で相手を説得したという意味ではなく、「その試合などでの勝者の優位に疑いを残さない」勝ち方の評価。a convincing argument（語義4）と a convincing win で修飾対象が違う。He won convincingly. と副詞にすれば「彼は明らかな優位を示して勝った」。単に最終的に勝ったという事実だけで convincing になるわけではない。試合前に勝利を確信している人なら a convinced winner とはせず、a player confident of winning などと表す。"
       ],
       "synonyms": [
         {
@@ -502,7 +502,7 @@
           "word": "comfortable",
           "definition": "勝利について、余裕のある。",
           "frequency": 6,
-          "difference": "勝つまでに危うさや苦労が少なかった点を強調する。convincing は実力差が明白だという評価を強く示す。",
+          "difference": "勝つまでに危うさや苦労が少なかった点を強調する。convincing は当該の試合などで示した優位が明白だという評価を強く示す。",
           "example": "They took a comfortable win in the opening match.",
           "translation": "彼らは、初戦で余裕のある勝利を収めた。"
         },
