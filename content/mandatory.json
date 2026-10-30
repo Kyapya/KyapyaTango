@@ -3,7 +3,7 @@
   "slug": "mandatory",
   "ipa": "米: /ˈmæn.də.tɔːr.i/｜英: /ˈmæn.də.tər.i/",
   "lead": "法律・規則・組織の方針・手続き上の条件などにより、実施・遵守・入力などが求められ、対象者が任意に省略できないこと。単に望ましい、役立つ、目的達成に必要というだけでなく、従うべき要件として定められていることを表す。",
-  "updated": "2026-10-11",
+  "updated": "2026-10-31",
   "notion_url": "https://app.notion.com/p/mandatory-3f64faa9b77d818bb39af7d47d8ffdb5",
   "pronunciation": [
     "示した形は4音節で、第1音節 /mæn/ に主強勢を置く。第3音節の母音が米音では /ɔː/、英音では /ə/ となる。第2音節はいずれも /ə/、第4音節はいずれも /i/。ここでの /r/ は後ろに母音が続くため、英音でも発音する。英音には第3音節の母音を省く3音節の /ˈmæn.də.tri/ もあり、この形の第3音節は /tri/ となる。"
@@ -247,18 +247,24 @@
     },
     {
       "number": 4,
-      "title": "【可算名詞・歴史】受任者、委任統治国",
+      "title": "【可算名詞・法律・歴史】受任者、委任統治国",
       "frequency": 1,
       "register": [
-        "主に歴史・国際法史。現代の一般文で人を「必須の人」と呼ぶために使う名詞ではない。"
+        "法律・歴史。一般の受任者は法律などの専門文脈、委任統治国は国際連盟に関する歴史記述で使う。一般文で人を「必須の人」と呼ぶ名詞ではない。"
       ],
-      "definition": "委任を受けた者、特に国際連盟から委任統治を託された国を指す名詞。現代の一般的な「必須」という形容詞からは、直接この意味を推測しにくい。",
+      "definition": "委任を受けた者を指す専門的な名詞。歴史の文脈では、特に国際連盟から委任統治を託された国を指す。現代の一般的な「必須」という形容詞からは、直接この意味を推測しにくい。",
       "patterns": [
         "a mandatory",
         "the mandatory",
         "〈数詞〉 mandatories。複数形は -y を -ies に変える。"
       ],
       "collocations": [
+        {
+          "pattern": "a mandatory（受任者）",
+          "use": "専門的な法律文脈で、委任を受けた人物を指す。",
+          "example": "She was appointed as a mandatory to act on his behalf.",
+          "translation": "彼女は、彼に代わって行為をする受任者として選任された。"
+        },
         {
           "pattern": "the mandatory",
           "use": "歴史記述で、すでに特定された委任統治国を指す。",
@@ -267,16 +273,16 @@
         }
       ],
       "notes": [
-        "a mandatory power では mandatory は形容詞、the mandatory ではそれ自体が国を指す名詞。mandatary という名詞形もあり、受任者を指す法律・歴史上の用語として使われる。日常の「必須事項」は a requirement、「必須科目」は a required course などが明確で、この歴史名詞を一般的な名詞化の手本にしない。"
+        "a mandatory power では mandatory は形容詞。上の国際連盟の例で the mandatory が国を指すときは、それ自体が名詞である。一般の受任者を述べる文脈では、the mandatory が特定の人物を指すこともある。mandatary という名詞形もあり、受任者を指す法律・歴史上の用語として使われる。日常の「必須事項」は a requirement、「必須科目」は a required course などが明確で、この専門的な名詞を一般的な名詞化の手本にしない。"
       ],
       "synonyms": [
         {
           "word": "mandatary",
           "definition": "委任を受けた者、歴史上の委任統治国。",
           "frequency": 1,
-          "difference": "この名詞義で mandatory に対応する別形。一般的な形容詞「必須の」の代わりに用いる語ではない。",
-          "example": "The treaty specified the duties of the mandatary.",
-          "translation": "その条約は、受任者の義務を定めていた。"
+          "difference": "受任者を指す法律用語や委任統治国を指す歴史用語として、mandatory に対応する別形。一般的な形容詞「必須の」の代わりには用いない。",
+          "example": "The document specified the duties of the mandatary appointed to act on her behalf.",
+          "translation": "その文書は、彼女に代わって行為をするために選任された受任者の義務を定めていた。"
         }
       ],
       "antonyms": []
