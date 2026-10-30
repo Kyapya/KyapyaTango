@@ -3,7 +3,7 @@
   "slug": "interview",
   "ipa": "米: /ˈɪn.tər.vjuː/｜英: /ˈɪn.tə.vjuː/",
   "lead": "仕事・コース・入学などの候補者に質問し、適性や経験を確かめる面談。候補者から組織に質問する機会も含み得る。",
-  "updated": "2026-10-06",
+  "updated": "2026-10-30",
   "notion_url": "https://app.notion.com/p/interview-3ef4faa9b77d815d9e7dc6885efdc4eb",
   "pronunciation": [
     "名詞・動詞とも3音節で、第1音節に主強勢を置く。第2音節の母音は弱く、米語では /r/ を伴うが、イギリス英語では次に子音 /v/ が来るため通常 /r/ を発音しない。第3音節の /vjuː/ は /v/ と /j/ を続け、間に日本語の母音を入れない。interviewed の語末は /d/、interviews の語末は /z/ で、どちらも音節数は増えない。"
@@ -303,8 +303,8 @@
         {
           "pattern": "be interviewed by someone",
           "use": "面接官を by で示す。",
-          "example": "I was interviewed by the head of the laboratory.",
-          "translation": "私は研究室の責任者による面接を受けた。"
+          "example": "I was interviewed for a research position by the head of the laboratory.",
+          "translation": "私は研究職の採用選考で、研究室の責任者による面接を受けた。"
         },
         {
           "pattern": "interview 〈candidates/applicants〉",
@@ -320,7 +320,7 @@
         }
       ],
       "notes": [
-        "他動詞の interview someone では主語が質問する側、目的語が候補者。I interviewed the manager. は通常「私がその管理職を面接した」で、「管理職の面接を受けた」なら I was interviewed by the manager. とする。目的語を省いた We are interviewing next week. も採用側の意味になれる。一方、応募者主語の I’m interviewing for a job. は語義5で、目的語がないだけで常に採用側と決まるわけではない。interview someone to do で「相手に何かをするよう面接する」という補文を作らない。interviewing は現在分詞・動名詞で、interviewing skills は面接・聞き取りの技術。応募者が主語の進行形なら「面接を受けている」となることもあり、語義5を参照。interviewed は過去形・過去分詞で、the people interviewed は過去分詞が people を後ろから修飾する「面接・取材された人々」。"
+        "この語義の interview someone では主語が質問する側、目的語が候補者。I interviewed the manager. では私が質問する側であり、文脈によって「その管理職を面接した」「その管理職に取材した」と解釈できる。採用面接で「管理職の面接を受けた」なら I was interviewed by the manager. とする。目的語を省いた We are interviewing next week. も採用側の意味になれる。一方、応募者主語の I’m interviewing for a job. は語義5で、目的語がないだけで常に採用側と決まるわけではない。interview someone to do で「相手に何かをするよう面接する」という補文を作らない。interviewing は現在分詞・動名詞で、interviewing skills は面接・聞き取りの技術。応募者が主語の進行形なら「面接を受けている」となることもあり、語義5を参照。interviewed は過去形・過去分詞で、the people interviewed は過去分詞が people を後ろから修飾する「面接・取材された人々」。"
       ],
       "synonyms": [
         {
@@ -345,7 +345,7 @@
           "frequency": 9,
           "difference": "interview より広い一般語で、正式な面接や採用目的は意味に含まれない。",
           "example": "The panel questioned each candidate about their previous work.",
-          "translation": "面接担当者たちは、候補者一人ひとりに前職の仕事について質問した。"
+          "translation": "面接担当者たちは、候補者一人ひとりに、以前に取り組んだ仕事について質問した。"
         }
       ],
       "antonyms": []
