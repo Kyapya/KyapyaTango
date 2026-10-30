@@ -3,7 +3,7 @@
   "slug": "prescribe",
   "ipa": "米・英: /prɪˈskraɪb/。2音節で、主強勢は第2音節。第1音節の母音は /ɪ/、第2音節は二重母音 /aɪ/。語末は有声音 /b/。prescribes の語尾は /bz/、prescribed は /bd/ で、通常ここに母音を足して音節を増やさない。proscribe と混同しやすいので、綴りの pre- と pro- も確認する。",
   "lead": "医師などが、患者に用いる薬・治療・療養方法を具体的に指示すること。薬だけでなく、理学療法や休養などにも使う。他動詞では処方内容を目的語に置き、自動詞では具体的な薬名などを出さずに「処方を行う」と述べる。薬を調剤して渡すこと、実際に投与すること、患者が服用したことまでは表さない。",
-  "updated": "2026-10-10",
+  "updated": "2026-10-30",
   "notion_url": "https://app.notion.com/p/prescribe-3f24faa9b77d81b79ce7e0962fe1c28b",
   "pronunciation": [],
   "etymology": [
@@ -92,7 +92,7 @@
           "pattern": "be prescribed something",
           "use": "患者を主語にして、処方を受けたことを述べる。",
           "example": "I was prescribed a short course of medication.",
-          "translation": "私は短期間分の薬を処方された。"
+          "translation": "私は短期間の薬物療法を処方された。"
         },
         {
           "pattern": "be prescribed to treat something",
@@ -303,7 +303,7 @@
           "word": "acquire by prescription",
           "definition": "所有権などを、時効の成立によって取得する。",
           "frequency": 2,
-          "difference": "権利取得の結果を明示する句。prescribe は、文脈によって時効取得を主張することや、そのための期間が進行することも表す。",
+          "difference": "権利取得の結果を明示する句。prescribe は時効取得を主張する意味でも使う。commence to prescribe では句全体で時効取得に向けた期間の進行開始を表し、開始の意味は commence が担う。",
           "example": "The dispute concerns ownership allegedly acquired by prescription.",
           "translation": "その争いは、時効によって取得したと主張される所有権に関するものだ。"
         }
