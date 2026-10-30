@@ -3,7 +3,7 @@
   "slug": "image",
   "ipa": "米・英: /ˈɪm.ɪdʒ/",
   "lead": "写真・絵・彫像・画面表示など、対象を目に見える形で表したもの。また、鏡・水面・レンズなどを通して見える像。静止画だけでなく動く映像にも使うが、必ずしも動画ファイル一本を意味しない。",
-  "updated": "2026-10-04",
+  "updated": "2026-10-30",
   "notion_url": "https://app.notion.com/p/image-3ef4faa9b77d81709824e140646259a3",
   "pronunciation": [
     "2音節で、第1音節に主強勢を置く。第1・第2音節の母音はいずれも短い /ɪ/ で、日本語の「イメージ」のように後半を長く伸ばさない。名詞と動詞で発音は同じ。複数形・三人称単数形 images は /ˈɪm.ɪ.dʒɪz/、過去形・過去分詞 imaged は /ˈɪm.ɪdʒd/、現在分詞 imaging は /ˈɪm.ɪ.dʒɪŋ/。"
@@ -40,7 +40,7 @@
   "core": [
     {
       "type": "paragraph",
-      "text": "対象そのものとは別に、目・心・表現・データなどに現れる「対応する像」。実物そっくりである必要はなく、受け取られ方や、別の形での表し方まで含む。数学でも写像による対応先という点はつながるが、集合としての厳密な意味は語義8で区別する。"
+      "text": "目・心・表現・データなどに現れる、対象に対応する「像」。実物そっくりである必要はなく、受け取られ方や、別の形での表し方まで含む。数学でも写像による対応先という点はつながるが、対応先が元の要素と同じ場合もある。集合としての厳密な意味は語義8で区別する。"
     },
     {
       "type": "item",
@@ -139,7 +139,7 @@
           "pattern": "capture an image",
           "use": "カメラなどが画像を記録することを述べる。",
           "example": "The camera captured a sharp image of the bird in flight.",
-          "translation": "カメラは飛んでいる鳥を鮮明な画像に捉えた。"
+          "translation": "カメラは飛んでいる鳥の鮮明な画像を記録した。"
         },
         {
           "pattern": "a mirror image of something",
@@ -833,7 +833,7 @@
         }
       ],
       "notes": [
-        "普通の説明なら depict / portray / represent が一般的。「企業の印象を良くする」という意味の image up と混同しない。image something in words は他者に示す表現、語義12の image something in one's mind は心の中で思い浮かべる行為。"
+        "普通の説明なら depict / portray / represent が一般的。日本語の「イメージアップする」を image up と直訳しない。企業の印象を良くするなら improve the company's image などと表す。image something in words は他者に示す表現、語義12の image something in one's mind は心の中で思い浮かべる行為。"
       ],
       "synonyms": [
         {
