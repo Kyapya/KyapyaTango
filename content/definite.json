@@ -1,9 +1,9 @@
 {
   "word": "definite",
   "slug": "definite",
-  "ipa": "米: /ˈdefənət/｜英: /ˈdefɪnət/。通常は3音節で、第1音節に主強勢がある。米語では第2音節の母音を弱い /ə/、英語では /ɪ/ と示すことが多い。語末は /nət/ で、綴りの -ite を finite のような /aɪt/ や /eɪt/ と読まない。definitely は米 /ˈdefənətli/・英 /ˈdefɪnətli/ のように発音し、語尾の -ly が加わる。",
+  "ipa": "米: /ˈdefənət/｜英: /ˈdefɪnət/。通常は3音節で、第1音節に主強勢がある。米語では第2音節の母音を弱い /ə/、英語では /ɪ/ と示すことが多い。語末は /nət/ で、綴りの -ite を finite の語末と同じ /aɪt/ にしたり、/eɪt/ と読んだりしない。definitely は米 /ˈdefənətli/・英 /ˈdefɪnətli/ のように発音し、語尾の -ly が加わる。",
   "lead": "答え、決定、計画、日付、合意、意図などが、曖昧な候補や一時的な案ではなく、内容として定まり、変更される可能性が低いことを表す。必ずしも今後絶対に変更できないという意味ではなく、現時点で決定・約束・判断が明確になっていることに焦点がある。人を主語とする叙述用法では、何かが本当だ、または起こると確信し、その判断をはっきり述べることも表す。",
-  "updated": "2026-10-29",
+  "updated": "2026-10-30",
   "notion_url": "https://app.notion.com/p/definite-3e04faa9b77d8143b77ec8044cfa7699",
   "pronunciation": [],
   "etymology": [
@@ -146,8 +146,20 @@
           "translation": "彼女は、出かける前にドアに鍵をかけたと確信を持って言った。"
         },
         {
-          "pattern": "know・say・find out for definite",
-          "use": "くだけた表現で、確実に知っていることや、はっきり確認することを表す。",
+          "pattern": "know for definite",
+          "use": "くだけた表現で、あることを確実に知っていると述べる。",
+          "example": "I know for definite that the shop is closed today.",
+          "translation": "その店が今日は休みだということは、確実に分かっている。"
+        },
+        {
+          "pattern": "say for definite",
+          "use": "くだけた表現で、確実なこととして言う、断言することを表す。can't say for definite なら「確かなことは言えない、断言できない」。",
+          "example": "I can't say for definite whether I'll be free on Saturday.",
+          "translation": "土曜日に時間が空いているかどうか、確かなことは言えない。"
+        },
+        {
+          "pattern": "find out for definite",
+          "use": "くだけた表現で、調べたり尋ねたりして、はっきり確かめることを表す。",
           "example": "I'll call the station and find out for definite whether the train is running.",
           "translation": "駅に電話して、その列車が運行しているかはっきり確かめるよ。"
         }
