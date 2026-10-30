@@ -3,7 +3,7 @@
   "slug": "overlook",
   "ipa": "米: /ˌoʊvərˈlʊk/｜英: /ˌəʊvəˈlʊk/",
   "lead": "存在する事実・誤り・可能性などに気づかず、注意や検討の対象に入れ損なう。実際に目で見る場面に限らず、重要性を十分認識しない場合にも使う。ここでは意図的に許すのではなく、認識や検討の抜けを表す。",
-  "updated": "2026-10-11",
+  "updated": "2026-10-31",
   "notion_url": "https://app.notion.com/p/overlook-3f54faa9b77d81078c62d158c05a9eea",
   "pronunciation": [
     "上は動詞の発音。3音節で、第3音節に主強勢、第1音節に第二強勢を置く。米英差は、第1音節の母音が米 /oʊ/・英 /əʊ/ であることと、第2音節末の /r/ を上の米語表記では発音し、英語表記では発音しないこと。第3音節の母音はどちらも /ʊ/。米語の名詞「展望地点」は /ˈoʊvərˌlʊk/ で、第1音節に主強勢、第3音節に第二強勢がある。動詞の過去形・過去分詞 overlooked の -ed は /t/ で、音節を増やさない。"
@@ -14,11 +14,7 @@
   "formation": [
     {
       "term": "overlooked",
-      "description": "過去形・過去分詞。「見落とされた、十分に評価されていない」という状態を表す修飾語にもなる。an overlooked detail、a frequently overlooked writer のように使い、be overlooked や get overlooked とも結び付く。場所が主語なら「外から見下ろされる」という受動の意味にもなる。"
-    },
-    {
-      "term": "overlooking",
-      "description": "現在分詞。a balcony overlooking the river のように、場所の位置や眺めを後ろから説明できる。「現在ちょうど見落としている」という意味に固定しない。"
+      "description": "過去分詞に由来する形容詞用法では、「見落とされた、十分に注目・検討されていない」という状態を表す。an overlooked detail、a frequently overlooked writer のように名詞を修飾する。動詞の過去形・過去分詞と同形だが、すべての overlooked が形容詞とは限らず、場所が主語の be overlooked は「外から見下ろされる」という受動態にもなる。"
     },
     {
       "term": "overlooker",
@@ -190,8 +186,8 @@
           "definition": "失敗・失礼・欠点などを、事情を考慮して許す。",
           "frequency": 8,
           "difference": "理由を認めて責任を軽く見る含みがあり、単に問題にしない overlook と重なるが同一ではない。",
-          "example": "The manager excused the delay because the train service had stopped.",
-          "translation": "電車が止まっていたため、上司は遅刻を許した。"
+          "example": "The manager excused my late arrival because the train service had stopped.",
+          "translation": "電車が止まっていたため、上司は私の遅刻を許した。"
         },
         {
           "word": "forgive",
@@ -230,7 +226,7 @@
       "definition": "建物・窓・高台などから、ある場所を見渡せること。また、人が高い位置から下の場所を眺めること。主語は見る側の場所または人、目的語は視野に入る場所になる。建物が周囲より高くそびえ、下の場所を見下ろす位置にある場合にも使う。",
       "patterns": [
         "〈建物・部屋・高台〉 + overlook + 〈場所〉",
-        "someone overlooks 〈場所〉 from 〈高い位置〉。a room overlooking 〈場所〉 は能動の現在分詞による後置修飾。〈見られる場所〉 + be overlooked by 〈建物など〉 は受動態。be overlooked は外から見通せる状態も表す。"
+        "someone overlooks 〈場所〉 from 〈高い位置〉。a room overlooking 〈場所〉 は能動の現在分詞による後置修飾で、場所の位置や眺めを説明する。overlooking は動詞の活用形であり、「現在ちょうど見落としている」という意味に固定しない。〈見られる場所〉 + be overlooked by 〈建物など〉 は受動態。be overlooked は外から見通せる状態も表す。"
       ],
       "collocations": [
         {
@@ -369,8 +365,8 @@
           "definition": "候補の中から人や物を選ぶ。",
           "frequency": 8,
           "difference": "候補者を選ばずに過ぎることに対し、選ぶという選考上の方向で対立する。",
-          "example": "The committee selected her for the fellowship.",
-          "translation": "委員会は彼女を研究奨励金の受給者に選んだ。"
+          "example": "The committee selected her to receive the research grant.",
+          "translation": "委員会は彼女を研究助成金の受給者に選んだ。"
         },
         {
           "word": "choose",
