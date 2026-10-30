@@ -3,7 +3,7 @@
   "slug": "wage",
   "ipa": "米・英: /weɪdʒ/。1音節で、母音は二重母音 /eɪ/。名詞と動詞で発音は同じ。複数名詞・三人称単数形の wages は /ˈweɪ.dʒɪz/、過去形・過去分詞の waged は /weɪdʒd/、現在分詞の waging は /ˈweɪ.dʒɪŋ/。waged の -ed は /d/ で、音節を増やさない。",
   "lead": "労働の対価として支払われる金銭、またはその金額・単価。時給・日給・出来高などを基準にする報酬との結び付きが強く、支払われる賃金を wages と複数で言うことも多い。経済の文脈では、労働への報酬を広くまとめて指す。",
-  "updated": "2026-10-11",
+  "updated": "2026-10-31",
   "notion_url": "https://app.notion.com/p/wage-3f64faa9b77d8168a46fdf3060b6e2b6",
   "pronunciation": [],
   "etymology": [
@@ -11,16 +11,12 @@
   ],
   "formation": [
     {
-      "term": "wages",
-      "description": "名詞では「賃金」の複数形として定着し、主語になる場合は通常複数扱いにして are・were などを用いる。動詞 wage の三人称単数現在形でもある。"
+      "term": "waged（形容詞）",
+      "description": "「賃金を受ける、有給の」。a waged worker「賃金を受けて働く人」、waged work「有給の仕事」のように、人や仕事の性質を表す。名詞 wage「賃金」に関連する形容詞であり、動詞 wage「戦争などを行う」の過去分詞と同じ綴りでも、意味・働きを区別する。詳しくは語義3。"
     },
     {
-      "term": "waged",
-      "description": "動詞の過去形・過去分詞。a war waged overseas「海外で行われた戦争」の waged は動詞の過去分詞で、「賃金をもらう戦争」ではない。waged には「有給の」という別の形容詞用法もあり、語義3・4で扱う。"
-    },
-    {
-      "term": "waging",
-      "description": "動詞の現在分詞。語末の e を落として -ing を付ける。"
+      "term": "the waged",
+      "description": "（形容詞の名詞的用法）：形容詞 waged に the を付け、「賃金を受けて働く人々」を集団として指す。複数扱いで、waged に -s は付けない。詳しくは語義4。"
     },
     {
       "term": "wage earner",
@@ -191,7 +187,7 @@
       "register": [
         "中立から硬め。報道、政治、社会活動、歴史。"
       ],
-      "definition": "戦争、闘争、組織的な運動などを始めて継続的に行う。目的語は war・campaign・battle・struggle などで、実際の武力行使にも、社会問題などへの比喩的な闘いにも使う。単に開始を告知するだけでなく、取り組みを実行することに焦点がある。",
+      "definition": "戦争、闘争、組織的な運動などを継続的に行う。目的語は war・campaign・battle・struggle などで、実際の武力行使にも、社会問題などへの比喩的な闘いにも使う。単に開始を告知するだけでなく、取り組みを実行することに焦点がある。",
       "patterns": [
         "wage war on someone/something＝相手・問題に対して戦争・闘いを行う",
         "wage war against someone/something＝相手・問題に対して戦争・闘いを行う",
@@ -246,7 +242,7 @@
         }
       ],
       "notes": [
-        "名詞 wage「賃金」と混同し、wage workers で「労働者に賃金を払う」としない。現代の通常の言い方は pay workers their wages。wage war は無冠詞の war、wage a war は特定の戦争を1つのものとして捉える表現。単数の campaign・battle には、通常 a・the・所有格などの限定詞が必要。対象は on または against、支持する目標は for、実現したい行動は to 不定詞で示せる。declare war「宣戦する」と wage war「戦争を行う」は同じ行為ではない。wage a project のように一般的な業務すべてへ機械的に広げず、carry out a project などを使う。"
+        "動詞の活用は wages（三人称単数現在形）、waged（過去形・過去分詞）、waging（現在分詞）。waging は語末の e を落として -ing を付ける。a war waged overseas「海外で行われた戦争」の waged は過去分詞で、語義3の「有給の」という形容詞とは異なる。名詞 wage「賃金」と混同し、wage workers で「労働者に賃金を払う」としない。現代の通常の言い方は pay workers their wages。wage war は無冠詞の war、wage a war は特定の戦争を1つのものとして捉える表現。単数の campaign・battle には、通常 a・the・所有格などの限定詞が必要。対象は on または against、支持する目標は for、実現したい行動は to 不定詞で示せる。declare war「宣戦する」と wage war「戦争を行う」は同じ行為ではない。wage a project のように一般的な業務すべてへ機械的に広げず、carry out a project などを使う。"
       ],
       "synonyms": [
         {
@@ -358,7 +354,7 @@
     },
     {
       "number": 4,
-      "title": "【名詞・the waged・複数扱い】賃金を受けて働く人々",
+      "title": "【形容詞の名詞的用法・the waged・複数扱い】賃金を受けて働く人々",
       "frequency": 3,
       "register": [
         "主に英国英語。料金区分、社会・労働に関する記述。"
