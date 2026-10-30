@@ -3,7 +3,7 @@
   "slug": "suggest",
   "ipa": "米: /səɡˈdʒest/, /səˈdʒest/｜英: /səˈdʒest/",
   "lead": "行動、計画、改善案などを、実行・採用を検討する選択肢として示す。普通は人や組織が主語だが、提案を載せた報告書なども主語になる。命令そのものではなく、提案されたことの実行や相手の同意までは含まない。ただし、上司の I strongly suggest ... などは文脈によって強い勧告や警告にもなる。",
-  "updated": "2026-10-06",
+  "updated": "2026-10-30",
   "notion_url": "https://app.notion.com/p/suggest-3f14faa9b77d8152a871ce743b0b5044",
   "pronunciation": [
     "2音節で、第2音節に主強勢を置く。第1音節の母音は /ə/、第2音節の母音は /e/。米語には第1音節末の /ɡ/ を発音して /səɡ/ とする形と、それを入れず /sə/ とする形があり、イギリス英語の代表形は後者。どちらも第2音節は /dʒest/ である。suggests は語尾が /sts/、suggested は語尾に /ɪd/ が加わって3音節になる。suggesting も /ɪŋ/ が加わって3音節。"
@@ -48,7 +48,7 @@
     },
     {
       "type": "item",
-      "text": "適任の候補を意識に上らせること → 「候補として挙げる、勧める」（語義2）"
+      "text": "目的に合う候補を意識に上らせること → 「候補として挙げる、勧める」（語義2）"
     },
     {
       "type": "item",
@@ -56,7 +56,7 @@
     },
     {
       "type": "item",
-      "text": "見解を遠回しに意識に上らせること → 「ほのめかす、～という見方を示す」（語義4）"
+      "text": "見解を遠回しに、または断定を控えて意識に上らせること → 「ほのめかす、～という見方を示す」（語義4）"
     },
     {
       "type": "item",
@@ -477,7 +477,7 @@
           "frequency": 8,
           "difference": "suggest と広く重なるが、言葉に含まれる意味を焦点化しやすい。suggest の「仮説として控えめに述べる」よりも、間接的な伝達が前面に出る。",
           "example": "His reply implied that the invitation was no longer open.",
-          "translation": "彼の返事には、もう招待するつもりはないという含みがあった。"
+          "translation": "彼の返事には、その招待はもう有効ではないという含みがあった。"
         },
         {
           "word": "hint",
@@ -560,7 +560,7 @@
           "frequency": 6,
           "difference": "suggest より鮮明な感覚・感情の喚起を述べやすい。芸術や文章の効果の説明によく合う。",
           "example": "The melody evoked memories of summer evenings at home.",
-          "translation": "その旋律は、故郷で過ごした夏の夕方の記憶を呼び起こした。"
+          "translation": "その旋律は、家で過ごした夏の夕方の記憶を呼び起こした。"
         },
         {
           "word": "recall",
@@ -616,7 +616,7 @@
         }
       ],
       "notes": [
-        "この「案が浮かぶ」という能動構文では、主語と同じものを指す itself・themselves が必要。A solution suggested to me. と再帰代名詞を落とさず、A solution suggested itself to me. とする。一方、A solution was suggested to me. は受動態で「誰かから解決策を提案された」であり、itself を省略した同じ構文ではない。",
+        "この「案が浮かぶ」という能動構文では、主語と同じものを指す itself・themselves が必要。A solution suggested to me. と再帰代名詞を落とさず、A solution suggested itself to me. とする。一方、A solution was suggested to me. は受動態で、解決策が提案・示唆されたことを述べる。人から提案を受けたのか、出来事などから着想を得たのかは文脈による。いずれも itself を省略した同じ構文ではない。",
         "単数主語なら itself、複数主語なら themselves。人が「私は思いついた」と言うときに I suggested myself. とするとこの意味にならず、語義2の「自分を候補に挙げた」と解釈され得る。I thought of a solution. または A solution suggested itself to me. とする。後ろの to someone は思い浮かんだ人を示し、文脈で分かれば省略できる。"
       ],
       "synonyms": [
