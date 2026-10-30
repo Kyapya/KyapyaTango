@@ -3,7 +3,7 @@
   "slug": "assure",
   "ipa": "米: /əˈʃʊr/｜英: /əˈʃʊə/、/əˈʃɔː/",
   "lead": "相手に対し、あることが本当である、または実現すると自信を持って伝えること。疑いや心配を取り除くために使うことが多いが、相手を慰める場面に限らず、自分の説明が確かだと強調する場合にも使う。話し手が確かだと述べる行為であり、発言内容が実際に真実であることや、相手が必ず安心することまでは保証しない。",
-  "updated": "2026-10-11",
+  "updated": "2026-10-31",
   "notion_url": "https://app.notion.com/p/assure-3f64faa9b77d81a19f5ed05a035b6ee2",
   "pronunciation": [
     "2音節で、第2音節に主強勢がある。第1音節は米英とも弱い /ə/。第2音節は、ここで示した米音では /ʊ/ に /r/ が続き、英音では /ʊə/ または /ɔː/ となり、単独発音の語末に /r/ を出さない。綴りの ss は /s/ ではなく /ʃ/。過去形・過去分詞 assured の語尾は /d/ で、独立した音節を増やさない。"
@@ -21,8 +21,8 @@
       "description": "＝不安な人を安心させる。現代では単に「もう一度 assure する」とは限らず、不安を和らげることが中心。"
     },
     {
-      "term": "assured（過去分詞・形容詞）",
-      "description": "＝確実な／自信に満ちた。動詞の受動形と、語義4・5の形容詞用法を区別する。"
+      "term": "assured（形容詞）",
+      "description": "＝自信に満ちた／確実な／確信している。動詞の過去形・過去分詞と同形だが、受動態と語義4～6の形容詞用法を区別する。"
     },
     {
       "term": "self-assured（形容詞）",
@@ -36,31 +36,35 @@
   "core": [
     {
       "type": "paragraph",
-      "text": "人の認識や、結果・保障を「確かなものにする」こと。言葉で確信を与える場合と、実際に結果や保障を確保する場合を区別すると、目的語の違いを整理しやすい。"
+      "text": "人の認識や、結果・保障に関わる「確かさ」。その確かさを伝える・確保する働きと、確かさが備わったと捉える状態・性質を区別する。人が確信していることと、結果が実際に確実であることは同じではない。"
     },
     {
       "type": "item",
-      "text": "相手の認識を確かなものにする言葉 → 「確かだと言って安心させる、断言する」（語義1）"
+      "text": "確かさを言葉で相手に与える働き → 「確かだと言って安心させる、断言する」（語義1）"
     },
     {
       "type": "item",
-      "text": "望む結果を確かなものにする働き → 「確実にする、保証する」（語義2）"
+      "text": "確かさを実際の結果にもたらす働き → 「確実にする、保証する」（語義2）"
     },
     {
       "type": "item",
-      "text": "自分の認識を確かなものにする確認 → 「自分で確かめる、確信を得る」（語義3）"
+      "text": "確かさを自らの認識に求める働き → 「自分で確かめる、確信を得る」（語義3）"
     },
     {
       "type": "item",
-      "text": "自分への確信が言動に表れる性質 → 「自信に満ちた、落ち着いて確かな」（語義4）"
+      "text": "確かさを言動に示す自信ある性質 → 「自信に満ちた、落ち着いて確かな」（語義4）"
     },
     {
       "type": "item",
-      "text": "結果や獲得が確かなものになった状態 → 「確実な、保証されている」（語義5）"
+      "text": "確かさを備えた結果・獲得の状態 → 「確実な、保証されている」（語義5）"
     },
     {
       "type": "item",
-      "text": "保険による保障を確かなものにする契約 → 「保険をかける」（語義6）"
+      "text": "確かさを認識して安心している状態 → 「確信している、安心している」（語義6）"
+    },
+    {
+      "type": "item",
+      "text": "確かさを保険で支える保障の設定 → 「保険をかける」（語義7）"
     }
   ],
   "sources": [],
@@ -235,7 +239,7 @@
       "register": [
         "改まった文章語。説明文、報告、物語など。日常会話では make sure が一般的。"
       ],
-      "definition": "状況を調べたり確認したりして、自分自身が確かだと思えるようにすること。単に根拠なく「大丈夫だ」と自分に言い聞かせる意味に限定しない。",
+      "definition": "自分自身があることを確かだと思えるようにすること。実際に状況を確認する場合にも、自分に言い聞かせて確信しようとする場合にも使い、外部の事実を検証する行為が必ず含まれるわけではない。",
       "patterns": [
         "assure oneself that 〈節〉＝～であることを自分で確かめる",
         "assure oneself of something＝状態・事実を確認して確信する。oneself は主語に合わせ myself/yourself/himself/herself/ourselves/themselves などにする。"
@@ -252,10 +256,16 @@
           "use": "情報の正しさを自分で検証する。",
           "example": "The editor checked the original records to assure himself of the accuracy of the dates.",
           "translation": "編集者は元の記録を調べ、日付が正確であることを自ら確認した。"
+        },
+        {
+          "pattern": "assure oneself that everything will be fine",
+          "use": "不安を抑えるため、大丈夫だと自分に言い聞かせる。",
+          "example": "She kept assuring herself that the interview would go well, although she still felt nervous.",
+          "translation": "彼女はまだ緊張していたが、面接はうまくいくはずだと自分に言い聞かせ続けていた。"
         }
       ],
       "notes": [
-        "この能動の再帰構文では、確認する本人を目的語として明示する。She assured herself that the door was locked. は「本人が確かめた」、She was assured that the door was locked. は語義1の受動で「他者からそうだと請け合われた」。後者を再帰代名詞を省略した形と考えない。assure oneself of a place は、文脈によっては語義2の「自分の出場枠を確保する」にもなるため、確認行為なのか実際の獲得なのかを読み分ける。"
+        "この能動の再帰構文では、確認する本人を目的語として明示する。She assured herself that the door was locked. は「本人が、鍵は掛かっていると確信した」、She was assured that the door was locked. は語義1の受動で「他者からそうだと請け合われた」。後者を再帰代名詞を省略した形と考えない。assure oneself of a place は、文脈によっては語義2の「自分の出場枠を確保する」にもなるため、確認行為なのか実際の獲得なのかを読み分ける。"
       ],
       "synonyms": [
         {
@@ -379,13 +389,11 @@
       "register": [
         "標準的な文章語。ビジネス、スポーツ、説明・保証の言葉。"
       ],
-      "definition": "結果が起こることや、人が何かを得られることが確実とされている状態。成功・将来・供給などにも、その受け手である人にも使う。virtually/almost assured は「ほぼ確実」であり、表現上なお余地を残す。rest assured は、相手に「確かだと思ってよい」と伝える定型表現。",
+      "definition": "結果が起こることや、人が何かを得られることが確実とされている状態。成功・将来・供給などにも、その受け手である人にも使う。virtually/almost assured は「ほぼ確実」であり、表現上なお余地を残す。rest assured のように人の確信・安心を表す用法は語義6で区別する。",
       "patterns": [
         "an assured 〈income/future/supply〉＝保証された収入・安定した将来・確実な供給",
         "〈結果〉 + be/seem assured＝結果が確実である・そう見える",
-        "someone + be assured of something＝人が何かを得られることが確実である",
-        "rest assured (that) 〈節〉＝～だと安心してよい",
-        "You can/may rest assured (that) 〈節〉＝～だとご安心いただける。結果の確実さでは virtually/almost assured が自然で、語義4のような very assured とは使い分ける。"
+        "someone + be assured of something＝人が何かを得られることが確実である。結果の確実さでは virtually/almost assured が自然で、語義4のような very assured とは使い分ける。"
       ],
       "collocations": [
         {
@@ -405,16 +413,10 @@
           "use": "人やチームが出場枠などを確保している状態を表す。",
           "example": "After today's results, the team is assured of a place in the semifinals.",
           "translation": "今日の結果により、そのチームの準決勝進出が確定した。"
-        },
-        {
-          "pattern": "rest assured that 〈節〉",
-          "use": "相手の懸念を取り除くため、確かな対応を約束する。",
-          "example": "Rest assured that we will contact you as soon as the replacement arrives.",
-          "translation": "交換品が届き次第、必ずご連絡しますのでご安心ください。"
         }
       ],
       "notes": [
-        "be assured of a place は、文脈により「出場できると説明を受けた」という語義1の受動にもなり得る。試合結果などで枠が確定した文脈なら、この状態義になる。rest assured の rest は「休息する」という指示ではなく、「確信した状態でいてよい」という定着した表現。Please rest assure は誤りで、Rest assured. または Rest assured that 〈節〉とする。You can rest assured of that.「その点は安心してよい」も自然。You can rest assured that... も自然で、受動文の be を追加して You can be rest assured としない。"
+        "be assured of a place は、文脈により「出場できると説明を受けた」という語義1の受動にもなり得る。試合結果などで枠が確定した文脈なら、この状態義になる。人に確信・安心を促す rest assured とは、結果そのものが確実か、本人が確かだと考えるかという焦点を分ける。"
       ],
       "synonyms": [
         {
@@ -455,6 +457,62 @@
     },
     {
       "number": 6,
+      "title": "【形容詞：assured、rest assured など】確信している、安心している",
+      "frequency": 6,
+      "register": [
+        "標準的な保証・説明の言葉。ビジネスや改まった会話など。"
+      ],
+      "definition": "あることが本当である、または実現すると確かに思っている状態。rest assured は、相手に「確かだと思ってよい」「安心してよい」と伝える定型表現。将来の対応を約束する場合だけでなく、現在や過去の事実について疑いを取り除く場合にも使う。人が確信することと、結果自体が確実である語義5とは焦点が異なる。",
+      "patterns": [
+        "rest assured (that) 〈節〉＝～だと安心してよい",
+        "You can/may rest assured (that) 〈節〉＝～だとご安心いただける",
+        "rest assured of something＝あることを確信して安心する。rest assured は、assured が人の状態を表す定型的な結合。"
+      ],
+      "collocations": [
+        {
+          "pattern": "rest assured that 〈節〉",
+          "use": "相手に、述べる内容を確かだと思って安心してよいと伝える。",
+          "example": "Rest assured that we will contact you as soon as the replacement arrives.",
+          "translation": "交換品が届き次第、必ずご連絡しますのでご安心ください。"
+        },
+        {
+          "pattern": "You can rest assured that 〈節〉",
+          "use": "現在の状況についても、相手が安心できるように伝える。",
+          "example": "You can rest assured that your original files are still safe.",
+          "translation": "元のファイルは今も無事ですので、ご安心ください。"
+        },
+        {
+          "pattern": "rest assured of that",
+          "use": "すでに述べた内容を that で受け、その点は確かだと伝える。",
+          "example": "Your identity will remain confidential; you can rest assured of that.",
+          "translation": "あなたの身元は秘密にされます。その点はご安心ください。"
+        }
+      ],
+      "notes": [
+        "rest assured の rest は「休息する」という指示ではなく、ある内容を確信して安心していてよいという定着した表現。Please rest assure は誤りで、Rest assured. または Rest assured that 〈節〉とする。You can rest assured that... に受動文の be を追加して You can be rest assured としない。この表現を使っただけで、述べた内容の真実性や契約上の保証が成立するわけではない。"
+      ],
+      "synonyms": [
+        {
+          "word": "be sure",
+          "definition": "あることが本当だと確信している。",
+          "frequency": 9,
+          "difference": "より日常的で幅広く使える。rest assured は相手の懸念を取り除くための定型的な言い方として使う。",
+          "example": "You can be sure that we take your concerns seriously.",
+          "translation": "私たちがあなたの懸念を真剣に受け止めていることは、確かだと思っていただいて構いません。"
+        },
+        {
+          "word": "feel confident",
+          "definition": "あることについて確信や安心感を持つ。",
+          "frequency": 7,
+          "difference": "本人の心理状態を直接述べ、相手に請け合う定型表現に限られない。",
+          "example": "After checking the records, she felt confident that the figures were correct.",
+          "translation": "記録を確認した後、彼女は数字が正しいと確信できた。"
+        }
+      ],
+      "antonyms": []
+    },
+    {
+      "number": 7,
       "title": "【動詞：他動詞】保険をかける",
       "frequency": 2,
       "register": [
