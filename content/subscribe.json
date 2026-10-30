@@ -3,7 +3,7 @@
   "slug": "subscribe",
   "ipa": "米・英: /səbˈskraɪb/。2音節で、第2音節に主強勢がある。第1音節の母音は弱い /ə/、第2音節は二重母音 /aɪ/。/s/・/k/・/r/ の間に日本語の母音を足して「スクライブ」と細かく区切らない。",
   "lead": "料金を払う契約・取決めにより、新聞や雑誌を定期的に受け取ったり、サービスを継続して利用したりする。申し込む行為にも、すでに利用している関係にも使う。毎月払いだけでなく、一定期間分を前払いする場合も含む。単品を一度だけ買うこととは区別する。",
-  "updated": "2026-10-10",
+  "updated": "2026-10-31",
   "notion_url": "https://app.notion.com/p/subscribe-3f34faa9b77d81509602c7c2fb2528ea",
   "pronunciation": [
     "活用は subscribes /səbˈskraɪbz/、subscribed /səbˈskraɪbd/、subscribing /səbˈskraɪbɪŋ/。subscribed の -ed は /d/ で、音節を増やさない。subscription /səbˈskrɪpʃən/ は3音節で、第2音節に主強勢がある。subscribe の第2音節の /aɪ/ が /ɪ/ に変わり、語幹末の /b/ に対応する部分は /pʃ/ になる。"
@@ -49,7 +49,7 @@
     },
     {
       "type": "item",
-      "text": "加わる関係を配信の受信者に設定すること → 「人を配信先として登録する」（語義3）"
+      "text": "加わる関係を、人を配信の受信者に登録することで成立させること → 「人を配信先として登録する」（語義3）"
     },
     {
       "type": "item",
@@ -86,7 +86,7 @@
         "subscribe to 〈雑誌・新聞・サービスなど〉",
         "subscribe＝対象が明らかな場合の単独使用",
         "subscribe for 〈期間〉＝契約・購読する期間",
-        "subscribe to something at 〈料金〉＝利用料金を示す。to は前置詞で、後ろは契約対象。現在形は利用関係、過去形は申込みの出来事、現在完了形は継続や経験を表せる。"
+        "subscribe to something at 〈料金〉＝利用料金を示す。to は前置詞で、後ろは契約対象。現在形は現在の利用関係などを表す。過去形は申込みの出来事にも、過去の購読・利用関係にも使う。現在完了形では、文脈に応じて継続・経験・申込みの完了などを表せる。"
       ],
       "collocations": [
         {
@@ -594,7 +594,7 @@
         {
           "pattern": "an oversubscribed school",
           "use": "入学希望者が受入れ枠を超える学校を指す。",
-          "example": "Several families applied to other schools after learning that their first choice was an oversubscribed school.",
+          "example": "Several families applied to other schools after learning that their first-choice school was oversubscribed.",
           "translation": "第一希望が定員を超える応募のある学校だと知り、数家族はほかの学校にも出願した。"
         },
         {
@@ -617,7 +617,7 @@
         }
       ],
       "notes": [
-        "ここで多いのは申込みであり、すでに受け入れた参加者が定員を超えているとは限らない。overbooked は予約を受け付けすぎた状態なので、区別する。fully subscribed（語義7）は募集枠が満たされた状態、oversubscribed はそれを超える需要がある状態。単に「登録者が大勢いるチャンネル」を an oversubscribed channel と呼ぶのは、登録可能枠を超えるという意味でない限り不適切。金融で three times oversubscribed は通常、申込額が募集額の3倍という用法で、募集額にさらに3倍を足した4倍とはしない。数値の解釈が重要な文書では、元の募集額と申込額も確認する。"
+        "ここで多いのは申込みであり、すでに受け入れた参加者が定員を超えているとは限らない。overbooked は予約を受け付けすぎた状態なので、区別する。fully subscribed（語義7）は募集枠が満たされた状態、oversubscribed はそれを超える需要がある状態。単に「登録者が大勢いるチャンネル」を an oversubscribed channel と呼ぶのは、登録可能枠を超えるという意味でない限り不適切。上の例では募集額1億ユーロに対して申込額3億ユーロと明示されているため、申込倍率は3倍である。倍率表現だけから計算を決め付けず、数値の解釈が重要な文書では、元の募集額・申込額と、その文書での倍率の定義を確認する。"
       ],
       "synonyms": [
         {
