@@ -1,15 +1,15 @@
 {
   "word": "effect",
   "slug": "effect",
-  "ipa": "米・英: /ɪˈfekt/、/əˈfekt/",
+  "ipa": "米・英: /ɪˈfekt/",
   "lead": "原因となる物・行為・出来事などによって、別の物や人に生じる変化・結果、またはその作用。望ましい効果にも悪影響にも使い、意図して起こした結果とは限らない。個々の影響や種類を数えるときは可算、作用や効き目を量として捉えるときは不可算になる。",
-  "updated": "2026-10-11",
+  "updated": "2026-10-31",
   "notion_url": "https://app.notion.com/p/effect-3f64faa9b77d8111a992f4488a389c40",
   "pronunciation": [
-    "2音節で、第2音節 /fekt/ に主強勢がある。名詞でも動詞でも、この発音と強勢は同じ。複数形・三人称単数形 effects は /ɪˈfekts/、動詞の過去形・過去分詞 effected は /ɪˈfektɪd/ で3音節になる。effect の第1音節には /ɪ/ と /ə/ の発音があり、affect の動詞発音 /əˈfekt/ と同音になる場合もある。第2音節の発音と強勢は共通する。音だけに頼らず、構文と意味で区別する。"
+    "2音節で、第2音節 /fekt/ に主強勢がある。名詞でも動詞でも、この発音と強勢は同じ。複数形・三人称単数形 effects は /ɪˈfekts/、動詞の過去形・過去分詞 effected は /ɪˈfektɪd/ で3音節になる。上は米英に共通する代表形。米語では第1音節を /ə/ とする発音もあり、その場合は affect の動詞発音 /əˈfekt/ と同音になる。第2音節の発音と強勢は共通する。音だけに頼らず、構文と意味で区別する。"
   ],
   "etymology": [
-    "フランス語およびラテン語 effectus「達成、結果、実行」に由来し、ラテン語 efficere「成し遂げる、作り出す」にさかのぼる。さらに ex- と facere「する、作る」に関係する。同じ語族には effective「効果的な」、efficacy「効き目」がある。affect も遠くは facere に関係するが、現代英語では effect の単なる綴り違いではない。effects「所持品」は、古い「行為の結果として得られた物」という意味につながる歴史的な用法。"
+    "フランス語およびラテン語 effectus「達成、結果、実行」に由来し、ラテン語 efficere「成し遂げる、作り出す」にさかのぼる。さらに ex- と facere「する、作る」に関係する。同じ語族には effective「効果的な」、efficacy「効き目」がある。affect も遠くは facere に関係するが、現代英語では effect の単なる綴り違いではない。effects「所持品」は、フランス語 effets の用法にならった複数形で、「影響」とは別に所有物を指す。"
   ],
   "formation": [
     {
@@ -39,40 +39,36 @@
     {
       "term": "after-effect（可算名詞）",
       "description": "＝後まで残る影響、後遺症。複数形 after-effects でもよく使う。"
-    },
-    {
-      "term": "effected / effecting",
-      "description": "（動詞の活用形）＝実現させた・させている。effected changes は「実施された変更」で、affected changes とも effective changes「効果のある変更」とも意味が違う。"
     }
   ],
   "core": [
     {
       "type": "paragraph",
-      "text": "働きかけによって現れる結果や、結果を生む実際の働き。物事への影響、感覚的な印象、規則の効力、結果を実現する動詞につながる。語義7の「趣旨」と語義8の「所持品」は歴史的残存義で、話の内容や所有物という語彙的意味をこの核から直接導けないため、個別に参照する。"
+      "text": "働きかけによって現れる結果や、結果を生む実際の働き。語義7の「趣旨」は中英語にもある内容・目的の意味、語義8の「所持品」はフランス語 effets にならった所有物の意味が残る歴史的残存義で、話の内容や所有物そのものを指し、この核から直接導けないため、個別に参照する。"
     },
     {
       "type": "item",
-      "text": "働きかけによって生じる変化 → 「影響、効果、結果」（語義1）"
+      "text": "実際の働きによって生じる変化 → 「影響、効果、結果」（語義1）"
     },
     {
       "type": "item",
-      "text": "規則や計画が実際に働く力 → 「効力、実施」（語義2）"
+      "text": "実際の働きを持つ規則や計画の効力 → 「効力、実施」（語義2）"
     },
     {
       "type": "item",
-      "text": "色や表現が感覚に生む結果 → 「印象、見た目の効果」（語義3）"
+      "text": "実際の働きが感覚に残す印象 → 「印象、見た目の効果」（語義3）"
     },
     {
       "type": "item",
-      "text": "映像や音に作り出す演出上の結果 → 「特殊効果、音響・映像効果」（語義4）"
+      "text": "実際の働きで映像や音に作る演出 → 「特殊効果、音響・映像効果」（語義4）"
     },
     {
       "type": "item",
-      "text": "表向きの形を越えた実際の働き → 「実質的には、事実上」（語義5）"
+      "text": "実際の働きから捉え直した事態 → 「実質的には、事実上」（語義5）"
     },
     {
       "type": "item",
-      "text": "働きかけによって結果を成立させる行為 → 「実現する、引き起こす」（語義6）"
+      "text": "実際の働きによって結果を成立させる行為 → 「実現する、引き起こす」（語義6）"
     }
   ],
   "sources": [],
@@ -545,7 +541,7 @@
         }
       ],
       "notes": [
-        "effect a change は「変化そのものを実現する」、affect a change は「その変化に影響する」で、焦点が違う。The policy affected employment.「政策は雇用に影響した」に対し、The policy effected a change in employment patterns.「政策は雇用形態の変化をもたらした」となる。「effect は必ず名詞」と覚えない。動詞の effect は目的語を直接取り、effect on something と前置詞だけを続けて「～に影響する」とは通常言わない。effected は過去分詞として be effected や changes effected by... に使うが、effective「効果的な」と同じ形容詞ではない。"
+        "effect a change は「変化そのものを実現する」、affect a change は「その変化に影響する」で、焦点が違う。The policy affected employment.「政策は雇用に影響した」に対し、The policy effected a change in employment patterns.「政策は雇用形態の変化をもたらした」となる。「effect は必ず名詞」と覚えない。動詞の effect は目的語を直接取り、effect on something と前置詞だけを続けて「～に影響する」とは通常言わない。effected は過去分詞として be effected や changes effected by... に使うが、effective「効果的な」と同じ形容詞ではない。effected changes は「実施された変更」で、affected changes「影響を受けた変更」や effective changes「効果のある変更」とも区別する。"
       ],
       "synonyms": [
         {
