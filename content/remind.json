@@ -3,7 +3,7 @@
   "slug": "remind",
   "ipa": "米・英: /rɪˈmaɪnd/",
   "lead": "人が忘れていた・忘れそうな用事や情報を意識に戻す、または重要な事実を改めて心に留めさせる。実際に忘れていたと断定する語ではなく、知っているはずの内容を確認する案内にも使う。主語は人のほか、メッセージ・表示・アラームなどにもなる。",
-  "updated": "2026-10-11",
+  "updated": "2026-10-31",
   "notion_url": "https://app.notion.com/p/remind-3f64faa9b77d81338099e9be751955e0",
   "pronunciation": [
     "2音節で、第2音節に主強勢を置く。第1音節の母音は短い /ɪ/、第2音節の /aɪ/ は二重母音。reminds は /rɪˈmaɪndz/、reminded は /rɪˈmaɪn.dɪd/。reminded の -ed は /ɪd/ と発音し、3音節になる。"
@@ -15,10 +15,6 @@
     {
       "term": "reminder",
       "description": "可算名詞「思い出させるもの、注意喚起の通知、督促」。a reminder to do「～するよう促す通知」、a reminder of something「～を思い起こさせるもの」などの形を取る。"
-    },
-    {
-      "term": "reminded / reminding / reminds",
-      "description": "過去形・過去分詞／現在分詞／三人称単数現在形。reminded は通常、注意を促された・思い出させられたという動詞の意味を保ち、独立した性質を表す形容詞として広く使うわけではない。"
     },
     {
       "term": "email reminder / payment reminder",
@@ -55,7 +51,7 @@
           "pattern": "remind someone to 〈動詞原形〉",
           "use": "忘れずにしてほしい行動を to不定詞で示す。",
           "example": "Please remind me to attach the invoice before I send the email.",
-          "translation": "メールを送る前に請求書を添付するよう、私に念を押してください。"
+          "translation": "メールを送る前に請求書を添付するのを忘れないよう、声をかけてください。"
         },
         {
           "pattern": "remind someone not to 〈動詞原形〉",
@@ -125,7 +121,7 @@
         }
       ],
       "notes": [
-        "remember は本人が覚えている・思い出す動詞、remind は人に思い出させる動詞。I remembered to call her. は「私は忘れず彼女に電話した」、The note reminded me to call her. は「メモを見て、彼女に電話することを思い出した」。後者は電話を実際にかけたことまで保証しない。「私に知らせて思い出させて」は Remind me. で、Remember me. ではない。remind to call と人目的語を落とさず、remind me to call とする。過去の行為を覚えているなら remember doing、用事を思い出させるなら remind someone to do であり、remind me calling としない。wh節は remind me where the file is のように平叙文の語順で、where is the file ではない。about と of は予定の再確認では重なるが、語義2の類似・連想を表す remind me of my father の of を about に替えない。remind myself は能動再帰形で、I was reminded は受動態。Please remind me. のように人目的語だけを残すことは可能。Let me remind you ... は丁寧な形でも強い念押しになり得るため、相手が既に承知している事情や口調に配慮する。"
+        "reminded は過去形・過去分詞、reminding は現在分詞、reminds は三人称単数現在形。これらは動詞の活用形で、派生語ではない。reminded は通常、注意を促された・思い出させられたという動詞の意味を保つ。remember は本人が覚えている・思い出す動詞、remind は人に思い出させる動詞。I remembered to call her. は「私は忘れず彼女に電話した」、The note reminded me to call her. は「メモを見て、彼女に電話することを思い出した」。後者は電話を実際にかけたことまで保証しない。「私に知らせて思い出させて」は Remind me. で、Remember me. ではない。remind to call と人目的語を落とさず、remind me to call とする。過去の行為を覚えているなら remember doing、用事を思い出させるなら remind someone to do であり、remind me calling としない。wh節は remind me where the file is のように平叙文の語順で、where is the file ではない。about と of は予定の再確認では重なるが、語義2の類似・連想を表す remind me of my father の of を about に替えない。remind myself は能動再帰形で、I was reminded は受動態。Please remind me. のように人目的語だけを残すことは可能。Let me remind you ... は丁寧な形でも強い念押しになり得るため、相手が既に承知している事情や口調に配慮する。"
       ],
       "synonyms": [
         {
