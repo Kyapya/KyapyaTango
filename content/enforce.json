@@ -3,7 +3,7 @@
   "slug": "enforce",
   "ipa": "米: /ɪnˈfɔːrs/｜英: /ɪnˈfɔːs/",
   "lead": "法律・規則・禁止・合意などを、単に存在させるだけでなく、実際に守らせたり実効性を持たせたりすること。法律の文脈では、権利や契約上の義務について実現・履行を求めることにも使う。監視や罰則を伴うことは多いが、物理的な力や処罰が常に必要なわけではない。",
-  "updated": "2026-10-11",
+  "updated": "2026-10-31",
   "notion_url": "https://app.notion.com/p/enforce-3f64faa9b77d819cbd83d2d97c49360d",
   "pronunciation": [
     "2音節で、第2音節に主強勢がある。示した米英差は、第2音節で米は母音の後に /r/ を発音する点。語末は /s/ で、/z/ ではない。過去形・過去分詞 enforced は米 /ɪnˈfɔːrst/、英 /ɪnˈfɔːst/ で、-ed は /t/。三人称単数 enforces は米 /ɪnˈfɔːr.sɪz/、英 /ɪnˈfɔː.sɪz/ となり、語尾に /ɪz/ が加わる。"
@@ -29,8 +29,8 @@
       "description": "＝規則・要求などを実行させる人。文脈によって取締り担当者、組織の強制役など。"
     },
     {
-      "term": "enforced（過去分詞・形容詞）",
-      "description": "＝執行された／強いられた。形容詞としての語義3も参照。"
+      "term": "enforced（形容詞）",
+      "description": "＝強いられた、やむを得ない。語義3を参照。動詞の過去形・過去分詞と同形だが、語義1の「執行された」という受動的な用法とは区別する。"
     },
     {
       "term": "reinforce（動詞）",
@@ -44,15 +44,15 @@
     },
     {
       "type": "item",
-      "text": "力や権限で規則の遵守を成立させること → 「守らせる、執行する、履行させる」（語義1）"
+      "text": "力による規則の遵守の確保 → 「守らせる、執行する、履行させる」（語義1）"
     },
     {
       "type": "item",
-      "text": "力や権限で特定の行動を成立させること → 「強制する、強いて実現させる」（語義2）"
+      "text": "力による特定の行動の実現 → 「強制する、強いて実現させる」（語義2）"
     },
     {
       "type": "item",
-      "text": "外からの力で状態が成立したこと → 「強いられた、やむを得ない」（語義3）"
+      "text": "力による本人の意思に反する状態の成立 → 「強いられた、やむを得ない」（語義3）"
     }
   ],
   "sources": [],
@@ -163,7 +163,7 @@
       ],
       "definition": "協力・沈黙・服従などの行動や状態を、権限・圧力・仕組みなどによって実現させること。既存の法令を守らせる語義1と重なる場合もあるが、この語義では、望む状態を相手に受け入れさせることに焦点がある。",
       "patterns": [
-        "enforce + 〈silence/cooperation/obedience〉",
+        "enforce 〈silence/cooperation/obedience〉",
         "enforce something on someone＝行動や状態などを人に強いる。目的語は主に強制される行動・状態で、通常の force someone to do と構文が異なる。受動も可能だが、外的事情による状態の形容詞 enforced は語義3を参照。"
       ],
       "collocations": [
@@ -232,9 +232,9 @@
       ],
       "definition": "本人の自由な選択ではなく、命令や外的事情によって生じた休止・欠席・離別などの状態。人による強制だけでなく、病気・故障など本人には避けられない事情によるものも含む。",
       "patterns": [
-        "an enforced + 〈absence/break/stay〉",
-        "enforced + 〈inactivity/isolation〉",
-        "a period of enforced + 〈inactivity/absence〉。名詞の前で使うことが多い。The break was enforced rather than voluntary. のような叙述用法も可能だが、The rule was enforced. は普通、語義1の動詞の受動と解釈する。"
+        "an enforced 〈absence/break/stay〉",
+        "enforced 〈inactivity/isolation〉",
+        "a period of enforced 〈inactivity/absence〉。名詞の前で使うことが多い。The break was enforced rather than voluntary. のような叙述用法も可能だが、The rule was enforced. は普通、語義1の動詞の受動と解釈する。"
       ],
       "collocations": [
         {
