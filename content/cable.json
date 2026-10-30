@@ -3,7 +3,7 @@
   "slug": "cable",
   "ipa": "米・英: /ˈkeɪ.bəl/",
   "lead": "電気や信号を運ぶための線状の部材で、通常は絶縁・保護用の被覆を備える。金属の導体を用いるものだけでなく、光を伝える光ファイバーケーブルも含む。独立した1本なら可算、長さで扱う材料・配線材なら不可算になる。",
-  "updated": "2026-10-04",
+  "updated": "2026-10-30",
   "notion_url": "https://app.notion.com/p/cable-3ef4faa9b77d811996eac24f52dd126a",
   "pronunciation": [
     "2音節で、第1音節の /eɪ/ に強勢がある。第2音節は弱い /əl/ で、日本語の「ケーブル」のようにすべての部分を同じ長さで発音しない。",
@@ -70,7 +70,7 @@
         },
         {
           "pattern": "a length of cable",
-          "use": "端子付きの製品1本ではなく、必要な長さの配線材を指す。",
+          "use": "必要な長さの、一続きの配線材として述べる。",
           "example": "We need another length of cable to finish the installation.",
           "translation": "設置を終えるには、もう一続きのケーブルが必要だ。"
         },
@@ -404,7 +404,7 @@
         }
       ],
       "notes": [
-        "受動形が多いが、作業者を主語にした能動形も使える。cable up は名詞目的語なら cable up the equipment と cable the equipment up、代名詞なら cable it up とする。cable up it とはしない。be cabled to a router は「ルーターに有線接続されている」という受動・結果状態で、再帰代名詞の省略ではない。語義9の cable the crate to the deck は鋼索による固定であり、電気的な接続ではない。"
+        "受動形が多いが、作業者を主語にした能動形も使える。cable up は名詞目的語なら cable up the equipment と cable the equipment up、代名詞なら cable it up とする。cable up it とはしない。be cabled to a router は「ルーターに有線接続されている」という受動・結果状態で、再帰代名詞の省略ではない。語義9の cable the crate to the deck は索による固定であり、電気的な接続ではない。"
       ],
       "synonyms": [
         {
@@ -584,7 +584,7 @@
           "word": "telegraph",
           "definition": "電信で情報を伝える。",
           "frequency": 3,
-          "difference": "電信という方式に焦点があり、海底ケーブルや海外宛てには限定されない。現代には別に「意図などをそれとなく示す」という比喩義もある。",
+          "difference": "電信という方式に焦点があり、海底ケーブルや海外宛てには限定されない。現代には別に「意図などを手掛かりによって伝える」という比喩義もあり、次の行動が意図せず相手に読まれる場合にも使う。",
           "example": "They telegraphed the result to the capital.",
           "translation": "彼らは結果を首都へ打電した。"
         },
@@ -601,7 +601,7 @@
     },
     {
       "number": 9,
-      "title": "【動詞・他動詞】鋼索で固定する",
+      "title": "【動詞・他動詞】索で固定する",
       "frequency": 2,
       "register": [
         "建設、機械、輸送などの技術的な記述。"
@@ -617,7 +617,7 @@
           "pattern": "cable 〈物〉 to 〈固定先〉",
           "use": "索を使った固定作業を述べる。",
           "example": "The workers cabled the heavy crate to the ship's deck.",
-          "translation": "作業員は重い木箱を船の甲板に鋼索で固定した。"
+          "translation": "作業員は重い木箱を船の甲板に索で固定した。"
         },
         {
           "pattern": "be cabled together",
@@ -627,14 +627,14 @@
         }
       ],
       "notes": [
-        "語義5と同じ cable A to B でも、固定する物と使う索によって意味が変わる。cable a camera to a monitor は通常「有線接続する」、cable a crate to a deck は「鋼索で固定する」。一般的な説明では secure something with a cable と言う方が手段と目的を明示できる。"
+        "語義5と同じ cable A to B でも、固定する物と使う索によって意味が変わる。cable a camera to a monitor は通常「有線接続する」、cable a crate to a deck は「索で固定する」。一般的な説明では secure something with a cable と言う方が手段と目的を明示できる。"
       ],
       "synonyms": [
         {
           "word": "lash",
           "definition": "綱などを何度か掛けて物をしっかり縛り付ける。",
           "frequency": 4,
-          "difference": "縛り方・固定の強さに焦点があり、鋼索の使用に限定されない。",
+          "difference": "縛り方・固定の強さに焦点があり、使用する綱などの材質は限定しない。",
           "example": "They lashed the boxes to the rack.",
           "translation": "彼らは箱を荷台にしっかり縛り付けた。"
         },
