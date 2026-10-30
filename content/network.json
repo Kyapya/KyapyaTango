@@ -3,7 +3,7 @@
   "slug": "network",
   "ipa": "米: /ˈnet.wɝːk/｜英: /ˈnet.wɜːk/",
   "lead": "複数のコンピューター、電話、周辺機器などが接続され、情報のやり取りや資源の共有ができる仕組み。有線・無線のどちらも含み、小さな家庭内の網から広域の通信網までを指す。",
-  "updated": "2026-10-04",
+  "updated": "2026-10-30",
   "notion_url": "https://app.notion.com/p/network-3ef4faa9b77d81aaa56bfd5487c3c387",
   "pronunciation": [
     "2音節で、第1音節の /e/ に強勢がある。米英の違いは第2音節で、米音 /wɝːk/ は r 音を伴う母音、ここに示す英音 /wɜːk/ は r 音を伴わない母音である。",
@@ -79,7 +79,7 @@
     },
     {
       "type": "item",
-      "text": "放送局のつながりを使う番組送出 → 「系列局で同時放送する」（語義11）"
+      "text": "放送局のつながりを使う番組送出 → 「系列局で放送する」（語義11）"
     },
     {
       "type": "item",
@@ -552,7 +552,7 @@
       "register": [
         "仕事、就職、イベント。"
       ],
-      "definition": "仕事や専門活動のために人とつながり、関係を育てる活動。動詞 network からできた活動名詞で、行為を一つの活動分野・機会として述べる。",
+      "definition": "人とつながり、関係を育てる活動。特に仕事や専門活動に役立つ人脈形成についてよく使う。動詞 network からできた活動名詞で、行為を一つの活動分野・機会として述べる。",
       "patterns": [
         "professional networking＝専門・仕事上の人脈形成",
         "a networking event＝交流のための催し",
@@ -717,7 +717,7 @@
         }
       ],
       "notes": [
-        "The network is down. は「通信網が停止している」、She studies networking. は「彼女はネットワーク技術を学んでいる」。後者の networking を、仕事上の「人脈作り」（語義7）と取り違えない。技術の活動名詞なので通常不可算で、networking equipments ではなく networking equipment とする。"
+        "The network is down. は「通信網が停止している」、She studies networking. は「彼女はネットワーク技術を学んでいる」。後者の networking を、仕事上の「人脈作り」（語義7）と取り違えない。networking は技術や活動を表す名詞として通常不可算。networking equipment では equipment が名詞句の中心であり、equipment も通常不可算なので networking equipments とはしない。"
       ],
       "synonyms": [],
       "antonyms": []
@@ -766,7 +766,7 @@
     },
     {
       "number": 11,
-      "title": "【動詞・他動詞】系列局で同時放送する",
+      "title": "【動詞・他動詞】系列局で放送する",
       "frequency": 3,
       "register": [
         "放送業界。特に英国式用法。"
@@ -775,7 +775,7 @@
       "patterns": [
         "network 〈番組〉＝系列局へ番組を送る",
         "be networked nationally＝全国の系列局で放送される",
-        "be networked across 〈地域〉＝地域全体でネット放送される",
+        "be networked across 〈地域〉＝その地域の系列局で放送される",
         "a nationally networked program＝全国ネットの番組。"
       ],
       "collocations": [
@@ -793,13 +793,13 @@
         },
         {
           "pattern": "be networked across 〈地域〉",
-          "use": "番組の同時放送範囲を示す。",
+          "use": "番組を流す放送網の地域的な範囲を示す。",
           "example": "The evening bulletin is networked across the country.",
-          "translation": "夕方のニュースは全国で同時放送されている。"
+          "translation": "夕方のニュースは全国の系列局で放送されている。"
         }
       ],
       "notes": [
-        "network the computers（語義8）は機器を接続し、network the program は番組を系列局で放送する。目的語が機器か番組かで意味が変わる。networked drama の networked は放送の過去分詞であり、必ずしも「インターネット配信された」という意味ではない。"
+        "network the computers（語義8）は機器を接続し、network the program は番組を系列局で放送する。目的語が機器か番組かで意味が変わる。networked drama の networked は放送の過去分詞であり、必ずしも「インターネット配信された」という意味ではない。同じ番組を複数局で同時放送する場面にも使うが、放送網への番組供給を述べる用法もある。放送時刻がそろっているかは文脈で確認する。"
       ],
       "synonyms": [
         {
