@@ -3,26 +3,22 @@
   "slug": "discount",
   "ipa": "名詞・形容詞: 米・英 /ˈdɪs.kaʊnt/。動詞: 米・英 /ˈdɪs.kaʊnt/ または /dɪsˈkaʊnt/。",
   "lead": "通常の価格・請求額から一定額や割合を引くこと、またはその減額。特定の顧客、まとめ買い、早期支払いなどへの優遇にも使う。商品に欠陥があることや、支払後にお金が戻ることは必須ではない。",
-  "updated": "2026-10-11",
+  "updated": "2026-10-31",
   "notion_url": "https://app.notion.com/p/discount-3f64faa9b77d812f838cd3a8cfaf8153",
   "pronunciation": [
-    "2音節で、第1音節の母音は /ɪ/、第2音節は /aʊ/。名詞・形容詞は第1音節に主強勢を置く。動詞は辞書・語義・話者によって強勢が異なり、値引き義を前強勢、考慮から外す義を後強勢で示す辞書もある。「動詞だから必ず後強勢」とは覚えない。discounted は -ed を /ɪd/ と発音するため3音節になる。"
+    "2音節で、第1音節の母音は /ɪ/、第2音節の母音は /aʊ/。名詞・形容詞は第1音節に主強勢を置く。動詞は辞書・語義・話者によって強勢が異なり、値引き義を前強勢、考慮から外す義を後強勢で示す辞書もある。「動詞だから必ず後強勢」とは覚えない。discounted は -ed を /ɪd/ と発音するため3音節になる。"
   ],
   "etymology": [
     "フランス語の「勘定から差し引く」を表す語に由来し、中世ラテン語 discomputare にさかのぼる。dis- と computare「数える、計算する」による形成で、計算から引くことが値引きや評価を差し引く意味につながる。同じ computare 系には count「数える」と compute「計算する」がある。"
   ],
   "formation": [
     {
-      "term": "discounted",
-      "description": "過去形・過去分詞。「値引きされた」「考慮から外された」など。a discounted ticket は値引きされた切符であり、a discount ticket とも言える。"
-    },
-    {
       "term": "discounter",
       "description": "可算名詞。「安売り業者、ディスカウント店」。a discounter のように店舗・業者を指す。"
     },
     {
       "term": "discounting",
-      "description": "動名詞・不可算名詞。「値引き販売」「割引計算」「手形などの割引」。分野により内容が変わる。"
+      "description": "動詞から名詞化した不可算名詞。「値引き販売」「割引計算」「手形などの割引」。分野により内容が変わる。"
     },
     {
       "term": "discount rate",
@@ -214,7 +210,7 @@
         }
       ],
       "notes": [
-        "by 20 percent は20パーセント「分」下げること、to 20 dollars は20ドル「に」下げること。discount the price と discount the product はどちらも成立する。受動形の be discounted と、名詞前の discounted prices も使う。自動詞用法は売り手が値引きを行う意味で、The price discounted. を「価格が下がった」の基本形として使わず、The price fell. または The price was discounted. とする。"
+        "by 20 percent は20パーセント「分」下げること、to 20 dollars は20ドル「に」下げること。discount the price と discount the product はどちらも成立する。過去形・過去分詞は discounted。受動形の be discounted と、名詞前の discounted prices も使う。a discounted ticket は値引きされた切符で、a discount ticket とも言える。語義3では discounted が「考慮から外された」を表す場合もある。自動詞用法は売り手が値引きを行う意味で、The price discounted. を「価格が下がった」の基本形として使わず、The price fell. または The price was discounted. とする。"
       ],
       "synonyms": [
         {
@@ -391,6 +387,12 @@
           "translation": "そのサイトは事務用品を割引価格で販売している。"
         },
         {
+          "pattern": "a discount retailer",
+          "use": "低価格で商品を販売する小売業者を指す。",
+          "example": "The discount retailer sells household goods at low prices.",
+          "translation": "その安売り小売業者は家庭用品を低価格で販売している。"
+        },
+        {
           "pattern": "a discount airline",
           "use": "安い運賃を売りにする航空会社を指す。",
           "example": "We flew with a discount airline to keep travel costs down.",
@@ -460,6 +462,12 @@
           "use": "計算に使う割引率を示す。",
           "example": "In this exercise, the future receipts are discounted at an annual rate of five percent.",
           "translation": "この演習では、将来の受取額を年率5パーセントで現在価値に割り引く。"
+        },
+        {
+          "pattern": "be discounted back to 〈基準時点〉",
+          "use": "将来の金額を、指定した評価時点の価値に換算する。",
+          "example": "The projected cash flows were discounted back to the start of the project.",
+          "translation": "予測キャッシュフローは、事業開始時点の価値に割り引かれた。"
         }
       ],
       "notes": [
@@ -552,6 +560,12 @@
           "use": "手形保有者を主語にし、現金化の相手を示す。",
           "example": "The exporter discounted the bill with its bank to obtain cash before maturity.",
           "translation": "輸出業者は満期前に現金を得るため、取引銀行でその手形を割り引いてもらった。"
+        },
+        {
+          "pattern": "a bill is discounted",
+          "use": "手形を主語にし、満期前に割引で資金化されることを述べる。",
+          "example": "The bill of exchange was discounted by the bank before it matured.",
+          "translation": "その為替手形は、満期前に銀行によって割り引かれた。"
         }
       ],
       "notes": [
@@ -574,7 +588,7 @@
       "title": "【動詞・他動詞】先取りして織り込む",
       "frequency": 4,
       "register": [
-        "金融市場・経済報道に多い。金融以外の計算・計画を表す用法は改まった低頻度表現。"
+        "金融市場・経済報道に多い。金融以外では、将来の事情を計算・計画に先取りして含める文脈でも用いる。"
       ],
       "definition": "将来起こると見込まれる事態を、現在の計算・計画に先取りして考慮する。特に金融では、市場・価格・投資家などが将来の材料を現在価格に織り込むことを表す。「無視する」と逆向きに読めるため注意が必要。",
       "patterns": [
