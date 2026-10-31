@@ -3,7 +3,7 @@
   "slug": "schedule",
   "ipa": "米: /ˈskedʒ.uːl/｜英: /ˈʃedʒ.uːl/",
   "lead": "何をいつ行うか、どの順序で進めるかを示す計画。個人の予定、勤務計画、工事などの工程表にも使う。通常は可算だが、on schedule などでは冠詞のない形で「予定された進行・時点」を表す。",
-  "updated": "2026-10-11",
+  "updated": "2026-10-31",
   "notion_url": "https://app.notion.com/p/schedule-3f64faa9b77d81f09fecfcdc974e1059",
   "pronunciation": [
     "名詞・動詞とも2音節で、第1音節に主強勢を置く。示した米英形の差は、第1音節の語頭子音 /sk/ と /ʃ/。この表記では両方とも第1音節末が /dʒ/、第2音節が /uːl/。英音には /ˈʃed.juːl/ もあり、その形では第1音節末の /d/ と第2音節初めの /j/ を分けて示す。scheduled の -ed は /d/、schedules の語末は /lz/。scheduling は e を落とす。"
@@ -14,11 +14,11 @@
   "formation": [
     {
       "term": "scheduled",
-      "description": "過去形・過去分詞と形容詞。予定済みの用法は語義4、交通の「定期便の」は語義5。"
+      "description": "分詞に由来する形容詞。「予定された」は語義4、交通の「定期便の、定期運行の」は語義5。動詞の過去形・過去分詞としての用法とは区別する。"
     },
     {
       "term": "scheduling",
-      "description": "動詞の現在分詞、または不可算名詞「日程作成、時間割り当て」。scheduling conflicts は予定の衝突。"
+      "description": "不可算名詞「日程作成、時間割り当て」。動詞の -ing 形からの名詞化。scheduling conflicts は予定の衝突。"
     },
     {
       "term": "scheduler",
@@ -40,31 +40,31 @@
     },
     {
       "type": "item",
-      "text": "計画に位置づけた活動の全体 → 「予定、日程、工程表」（語義1）"
+      "text": "一覧・計画に位置づけた活動の全体 → 「予定、日程、工程表」（語義1）"
     },
     {
       "type": "item",
-      "text": "計画に活動の時刻を位置づけること → 「予定を組む、日程に入れる」（語義2）"
+      "text": "一覧・計画に活動の時刻を位置づけること → 「予定を組む、日程に入れる」（語義2）"
     },
     {
       "type": "item",
-      "text": "計画に位置づけた時刻の一覧 → 「時刻表、時間割、番組表」（語義3）"
+      "text": "一覧・計画に位置づけた時刻の一覧 → 「時刻表、時間割、番組表」（語義3）"
     },
     {
       "type": "item",
-      "text": "計画に位置づけられた実施の状態 → 「予定された」（語義4）"
+      "text": "一覧・計画に位置づけられた実施の状態 → 「予定された」（語義4）"
     },
     {
       "type": "item",
-      "text": "計画に位置づけられた定期運行の状態 → 「定期便の、定期運行の」（語義5）"
+      "text": "一覧・計画に位置づけられた定期運行の状態 → 「定期便の、定期運行の」（語義5）"
     },
     {
       "type": "item",
-      "text": "一覧に位置づけた項目の全体 → 「一覧表、明細表、別表」（語義6）"
+      "text": "一覧・計画に位置づけた項目の全体 → 「一覧表、明細表、別表」（語義6）"
     },
     {
       "type": "item",
-      "text": "一覧に対象を正式に位置づけること → 「一覧に記載する、指定する」（語義7）"
+      "text": "一覧・計画に対象を正式に位置づけること → 「一覧に記載する、指定する」（語義7）"
     }
   ],
   "sources": [],
@@ -82,6 +82,7 @@
         "a schedule for 〈期間・計画〉＝～の予定",
         "a schedule of 〈行事・活動〉＝～を列挙した日程",
         "on schedule＝予定どおり",
+        "on one’s/the schedule＝予定表に載っている",
         "ahead of schedule＝予定より早く",
         "behind schedule＝予定より遅れて",
         "according to schedule＝予定どおりに",
@@ -112,6 +113,12 @@
           "use": "予定された時期・進度に合っていると述べる。",
           "example": "The renovation is on schedule and should finish in June.",
           "translation": "改修は予定どおりに進んでおり、6月には終わる見込みだ。"
+        },
+        {
+          "pattern": "on one’s schedule",
+          "use": "予定表に項目が載っていることを述べる。",
+          "example": "A meeting with the supplier is on my schedule for tomorrow.",
+          "translation": "私の明日の予定表には、供給業者との会議が入っている。"
         },
         {
           "pattern": "ahead of schedule",
@@ -190,7 +197,9 @@
         "be scheduled to do something＝～する予定である",
         "be scheduled for 〈日時・行為〉＝～に予定されている",
         "schedule someone/something in＝予定の中に組み込む",
-        "他動詞＋小辞: schedule in 〈名詞目的語〉＝同じ意味、代名詞は schedule it/them in"
+        "他動詞＋小辞: schedule in 〈名詞目的語〉＝同じ意味、代名詞は schedule it/them in",
+        "as scheduled＝予定されたとおりに",
+        "later/earlier than scheduled＝予定より遅く・早く"
       ],
       "collocations": [
         {
@@ -240,10 +249,22 @@
           "use": "活動を予定に組み込む。",
           "example": "Remember to schedule in a short break between the two sessions.",
           "translation": "二つのセッションの間に短い休憩を組み込むのを忘れないでください。"
+        },
+        {
+          "pattern": "as scheduled",
+          "use": "予定されたとおりの実施を述べる。",
+          "example": "The presentation began as scheduled at ten.",
+          "translation": "発表は、予定どおり10時に始まった。"
+        },
+        {
+          "pattern": "later than scheduled",
+          "use": "実際の時刻が予定より遅いことを示す。",
+          "example": "The repairs finished a week later than scheduled.",
+          "translation": "修理は、予定より1週間遅く終わった。"
         }
       ],
       "notes": [
-        "be scheduled for Friday の for の後は日時などの名詞句、be scheduled to start の to の後は動詞の原形。be scheduled on Friday は「金曜日に予定を組む／組まれる」とも解釈できるので、実施日を明確にするなら for Friday が便利。人には schedule someone to do と言えるが、arrange は通常 arrange for someone to do。schedule in は分離可能で、schedule a break in / schedule in a break、代名詞なら schedule it in とする。scheduled to arrive とだけ書かれていても、定刻到着や到着完了は保証されない。"
+        "scheduled は過去形・過去分詞、scheduling は現在分詞・動名詞としても使う。be scheduled for Friday の for の後は日時などの名詞句、be scheduled to start の to の後は動詞の原形。be scheduled on Friday の on Friday は、文脈により予定を設定した日と実施予定日のどちらにも結びつき得る。実施予定日を明確にするなら for Friday を使う。人には schedule someone to do と言えるが、arrange は通常 arrange for someone to do。schedule in は分離可能で、schedule a break in / schedule in a break、代名詞なら schedule it in とする。scheduled to arrive とだけ書かれていても、定刻到着や到着完了は保証されない。as scheduled や later than scheduled の scheduled は、主語と be 動詞の省略を伴う受動の分詞節として理解できる。as scheduled は「予定されたとおりに」、later than scheduled は実際の時期と予定された時期との比較で、scheduled 自体の比較級ではない。"
       ],
       "synonyms": [
         {
@@ -361,9 +382,7 @@
       "definition": "特定の日時に行われる予定になっている、あらかじめ日程に入っていることを表す。schedule の過去分詞からの形容詞用法で、時刻、会合、作業などを修飾する。",
       "patterns": [
         "a scheduled 〈行事・作業〉＝予定された～",
-        "the scheduled time/date＝予定の時刻・日付",
-        "as scheduled＝予定されたとおりに",
-        "later/earlier than scheduled＝予定より遅く・早く"
+        "the scheduled time/date＝予定の時刻・日付"
       ],
       "collocations": [
         {
@@ -383,22 +402,10 @@
           "use": "前から予定していた訪問を指す。",
           "example": "The minister’s scheduled visit was cancelled because of the storm.",
           "translation": "大臣の予定されていた訪問は、嵐のため中止された。"
-        },
-        {
-          "pattern": "as scheduled",
-          "use": "予定されたとおりの実施を述べる。",
-          "example": "The presentation began as scheduled at ten.",
-          "translation": "発表は、予定どおり10時に始まった。"
-        },
-        {
-          "pattern": "later than scheduled",
-          "use": "実際の時刻が予定より遅いことを示す。",
-          "example": "The repairs finished a week later than scheduled.",
-          "translation": "修理は、予定より1週間遅く終わった。"
         }
       ],
       "notes": [
-        "名詞前の限定用法が典型。The meeting is scheduled for Friday. のような形は、予定状態を表す一方で動詞 schedule の受動態とも連続する。very scheduled や通常の比較級ではなく、previously scheduled / regularly scheduled といった時間・頻度の修飾を使う。later than scheduled は scheduled 自体の比較級ではなく、実施時期の比較。as scheduled は「予定どおり」で、予定済みというだけの scheduled と区別する。"
+        "名詞前の限定用法が典型。The meeting is scheduled for Friday. のような形は、予定状態を表す一方で動詞 schedule の受動態とも連続する。very scheduled や通常の比較級ではなく、previously scheduled / regularly scheduled といった時間・頻度の修飾を使う。as scheduled / later than scheduled は省略を伴う受動の分詞節として語義2で扱う。名詞を直接修飾する形容詞用法とは構造が異なる。"
       ],
       "synonyms": [
         {
