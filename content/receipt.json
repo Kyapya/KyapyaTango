@@ -3,7 +3,7 @@
   "slug": "receipt",
   "ipa": "米・英: /rɪˈsiːt/",
   "lead": "金銭・商品・情報などを受け取った事実を示す書面や電子的な記録。買い物では代金の支払いを示す「領収書、レシート」が中心だが、品物の受領証や電子メールの開封通知も含む。",
-  "updated": "2026-10-11",
+  "updated": "2026-10-31",
   "notion_url": "https://app.notion.com/p/receipt-3f64faa9b77d81b88a22e2e79694c6d0",
   "pronunciation": [
     "2音節で、第2音節に主強勢を置く。p は発音せず、第2音節は /siːt/。receipts は /rɪˈsiːts/。低頻度の動詞の過去形 receipted は /rɪˈsiː.tɪd/ で3音節になる。recipe「料理の作り方」とは綴りも発音も異なる。"
@@ -14,20 +14,12 @@
   ],
   "formation": [
     {
-      "term": "receipts",
-      "description": "名詞の複数形。複数の領収書だけでなく、「収入額」「証拠」を表す定着した用法がある。"
-    },
-    {
-      "term": "receipted",
-      "description": "動詞 receipt の過去形・過去分詞。a receipted bill は「領収済みと記された請求書」で、単に届いた請求書ではない。"
-    },
-    {
       "term": "receipt book",
       "description": "複合名詞。現在の商業文脈では通常「領収書綴り」。古い料理文献では「料理法の本」の意味もあるため、時代・内容を確認する。"
     },
     {
       "term": "read receipt",
-      "description": "複合名詞。電子メールなどの「開封通知」。この複合語の read は /riːd/ とする辞書発音があり、過去分詞だから必ず /red/ と決めつけない。receipt の p はここでも発音しない。"
+      "description": "複合名詞。電子メールなどの「開封通知」。receipt の p はここでも発音しない。"
     },
     {
       "term": "non-receipt",
@@ -53,7 +45,7 @@
     },
     {
       "type": "item",
-      "text": "受取証のように事実を確認できる記録 → 「証拠、裏付け」（語義4）"
+      "text": "受け取りの記録になぞらえた事実の証拠 → 「証拠、裏付け」（語義4）"
     },
     {
       "type": "item",
@@ -65,7 +57,7 @@
     },
     {
       "type": "item",
-      "text": "代金の受け取りを書類に示す処理 → 「領収済みと記す」（語義7）"
+      "text": "受け取りを証明する請求書への記入 → 「領収済みと記す」（語義7）"
     }
   ],
   "sources": [],
@@ -99,7 +91,7 @@
           "pattern": "give someone a receipt for something",
           "use": "何の代金の領収書かを示す。",
           "example": "The receptionist gave me a receipt for the room deposit.",
-          "translation": "受付係は客室の予約金の領収書を私に渡した。"
+          "translation": "受付係は客室利用に伴う預り金の領収書を私に渡した。"
         },
         {
           "pattern": "keep the receipt",
@@ -108,10 +100,16 @@
           "translation": "ヘッドホンを返品する必要がある場合に備えて、レシートを保管しておいてください。"
         },
         {
-          "pattern": "a receipt for 〈金額〉",
-          "use": "領収された金額を示す。",
+          "pattern": "a receipt for 〈寄付・支払い〉",
+          "use": "何の支払いに対する領収書かを示す。",
           "example": "The charity emailed me a receipt for my 50-dollar donation.",
           "translation": "慈善団体は私の50ドルの寄付に対する領収書をメールで送ってきた。"
+        },
+        {
+          "pattern": "a receipt for 〈金額〉",
+          "use": "for の後ろに、受け取った金額を直接置く。",
+          "example": "Could you give me a receipt for fifty dollars?",
+          "translation": "50ドルの領収書をいただけますか。"
         },
         {
           "pattern": "an electronic receipt",
@@ -133,7 +131,7 @@
         }
       ],
       "notes": [
-        "1枚なら a receipt、複数なら receipts とする。a receipt for payment は支払いを証明する書類で、語義2の receipt of payment は「代金を受け取ること」。receipt を常に紙のレシートに限定しない。invoice は主に代金の請求、receipt は受領の証明で、発行目的が異なる。delivery receipt は受領記録であり、それだけで商品の品質に異議がないことや売買代金が支払済みであることまでは意味しない。read receipt も、通知が示す開封等と、内容を理解したことや賛同したことを同一視しない。"
+        "1枚なら a receipt、複数なら receipts とする。複数形 receipts には、単に複数の書類を表す場合のほか、語義3の収入額、語義4の証拠という用法もある。a receipt for payment は支払いを証明する書類で、語義2の receipt of payment は「代金を受け取ること」。receipt を常に紙のレシートに限定しない。invoice は主に代金の請求、receipt は受領の証明で、発行目的が異なる。delivery receipt は受領記録であり、それだけで商品の品質に異議がないことや売買代金が支払済みであることまでは意味しない。read receipt も、通知が示す開封等と、内容を理解したことや賛同したことを同一視しない。"
       ],
       "synonyms": [
         {
@@ -224,7 +222,7 @@
         }
       ],
       "notes": [
-        "この義は不可算で、on receipt of the goods とし、通常 on a receipt of the goods とはしない。受領証1枚なら a receipt for the goods と構造も意味も変わる。acknowledge receipt は「受け取ったと認める」であり、内容に同意・承認したとは限らない。on/upon receipt は受領時・受領後の迅速な対応を表す定型句だが、秒単位の即時処理を語だけで保証するわけではない。be in receipt of は硬い表現で、単純な I received your email. をいつも I am in receipt of your email. にする必要はない。"
+        "この義は不可算で、on receipt of the goods とし、通常 on a receipt of the goods とはしない。受領証1枚なら a receipt for the goods と構造も意味も変わる。acknowledge receipt は「受け取ったと認める」であり、内容に同意・承認したとは限らない。on/upon receipt は受領時・受領後の迅速な対応を表す定型句だが、秒単位の即時処理を語だけで保証するわけではない。be in receipt of は硬い表現で、単純な I received your email. をいつも I am in receipt of your email. にする必要はない。対照表現の delivery は「届けること」で、受け取る側に焦点を置く receipt とは視点が異なる。Delivery of the equipment is expected on Tuesday. は「機器は火曜日に届く予定である」。"
       ],
       "synonyms": [
         {
@@ -234,14 +232,6 @@
           "difference": "動詞 receive の -ing 形で、動作として述べやすい。receipt of the goods に対して receiving the goods と直接目的語を取る。",
           "example": "After receiving the documents, we checked the signatures.",
           "translation": "書類を受け取った後、署名を確認した。"
-        },
-        {
-          "word": "delivery",
-          "definition": "物品・書類などを受取先へ届けること。",
-          "frequency": 8,
-          "difference": "同じ受け渡しの出来事に関わるが、送り届ける側・到達を中心に表す。受領確認という意味そのものではない。",
-          "example": "Delivery of the equipment is expected on Tuesday.",
-          "translation": "機器は火曜日に届く予定である。"
         }
       ],
       "antonyms": []
@@ -466,8 +456,8 @@
       ],
       "definition": "請求書・勘定書などに、代金を受け取ったことを示す記入や印を施す。請求書を受け取ることでも、新たに代金を請求することでもない。",
       "patterns": [
-        "receipt a bill/an invoice＝請求書に領収済みと記す",
-        "a receipted bill/invoice＝領収済みと記された請求書",
+        "receipt a bill＝勘定書に領収済みと記す",
+        "receipt an invoice＝請求書に領収済みと記す",
         "〈請求書〉 be receipted＝領収済みの記入がされる。"
       ],
       "collocations": [
@@ -478,14 +468,14 @@
           "translation": "送金を受け取った後、仕入先は請求書に領収済みと記し、控えを返した。"
         },
         {
-          "pattern": "a receipted bill",
-          "use": "支払いを済ませた証拠となる請求書を指す。",
-          "example": "Please attach a receipted bill as evidence that the repairs have been paid for.",
-          "translation": "修理代を支払った証拠として、領収済みの請求書を添付してください。"
+          "pattern": "be receipted",
+          "use": "請求書を主語にして、領収済みの記入が行われることを述べる。",
+          "example": "The bill was receipted after we paid in cash.",
+          "translation": "私たちが現金で支払った後、勘定書に領収済みの記入がされた。"
         }
       ],
       "notes": [
-        "a receipted invoice の receipted はこの動詞からの過去分詞で、a received invoice「受け取った請求書」と区別する。receipted という語だけを「請求済み」と訳すと、invoice と支払い確認の段階を取り違える。どの書類が手続き上有効かは制度・契約によるため、この英語表現だけで税務上の適格性を判断しない。"
+        "a receipted bill は「領収済みと記された請求書」。Please attach a receipted bill as evidence that the repairs have been paid for. は「修理代を支払った証拠として、領収済みの請求書を添付してください」。a receipted invoice の receipted はこの動詞からの過去分詞で、a received invoice「受け取った請求書」と区別する。receipted という語だけを「請求済み」と訳すと、invoice と支払い確認の段階を取り違える。どの書類が手続き上有効かは制度・契約によるため、この英語表現だけで税務上の適格性を判断しない。"
       ],
       "synonyms": [
         {
@@ -527,7 +517,7 @@
         }
       ],
       "notes": [
-        "a receipt for soup は、現代のレストランならスープ代の領収書とも読める。この古風な語義を説明するには、古い料理書・材料・調理手順などの文脈が必要。自分で現在のレシピを書く際には recipe を使い、receipt の誤綴りで代用しない。"
+        "a receipt for soup は、現代のレストランならスープ代の領収書とも読める。この古風な語義を説明するには、古い料理書・材料・調理手順などの文脈が必要。現代の一般的な料理説明を書く際には recipe を使う。ただし、古い料理文献で使われる receipt は、必ずしも recipe の誤綴りではない。"
       ],
       "synonyms": [
         {
