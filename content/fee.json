@@ -3,20 +3,16 @@
   "slug": "fee",
   "ipa": "米・英: /fiː/",
   "lead": "特定の仕事、サービス、施設の利用、入場、登録、会員資格などに対して支払う、または請求される金額。専門家への報酬だけでなく、入会金、受験料、振込手数料なども含む。金額があらかじめ定められることは多いが、時間制や取引額に連動する方式もあり、「必ず一律の定額」という意味ではない。",
-  "updated": "2026-10-11",
+  "updated": "2026-10-31",
   "notion_url": "https://app.notion.com/p/fee-3f64faa9b77d81ffbad7c7a4e462bbaf",
   "pronunciation": [
     "1音節。母音は /iː/ で、語末に子音はない。複数形 fees は /fiːz/。まれな動詞用法でも同じ発音で、過去形・過去分詞 feed は /fiːd/、現在分詞 feeing は /ˈfiː.ɪŋ/。この feed は「食べ物を与える」という別動詞 feed と同綴り・同音だが、語の系統は異なる。"
   ],
   "etymology": [
-    "中英語を経て、アングロフランス語の fé、fief の系統に由来し、さらにゲルマン語の「家畜、財産」を表す語群につながる。「封建的な土地保有」の歴史と、「仕事や権利に対する支払い」の意味の両方を持つ。現代の不動産法で使う fee を、手数料から直接推測しないことが大切である。",
+    "中英語では、古英語 feoh「家畜、財産、金銭」と、アングロフランス語 fee「土地保有、封建的な義務や支払い」の系統が合流・相互影響したと説明される。後者は古フランス語の fief と関係し、両系統はさらにゲルマン語の「家畜、財産」を表す語群に関係するとされるが、フランス語系の遠い起源には推定が含まれる。土地保有や役務への報酬の歴史的なつながりはあるが、現代の不動産法で使う fee を「手数料」から直接推測しないことが大切である。",
     "同系語には fief「封土」と feudal「封建制度の」がある。feudal は「封土」を表す中世ラテン語の系統を経た語で、fee に接尾辞を付けた現代英語の派生語ではない。"
   ],
   "formation": [
-    {
-      "term": "fees",
-      "description": "可算名詞の複数形。複数の料金項目のほか、legal fees「弁護士費用」、school fees「学費」のように一連の支払いをまとめて表す。"
-    },
     {
       "term": "fee-paying",
       "description": "複合形容詞。「料金を払う」。fee-paying students は学費を払う学生。主に英国で fee-paying school といえば、保護者などが授業料を直接払う学校を指し、学校が料金を支払うという意味ではない。"
@@ -32,13 +28,26 @@
     {
       "term": "fee waiver",
       "description": "複合名詞。「料金の免除」。waiver は免除そのもの、fee は免除の対象となる料金を表す。"
-    },
-    {
-      "term": "feed、feeing",
-      "description": "低頻度の動詞 fee の活用形。feed は過去形・過去分詞、feeing は現在分詞で、主要な独立形容詞として覚える必要はない。"
     }
   ],
-  "core": [],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "支払いに関する語義では「仕事・サービス・利用などへの対価」が核になる。語義2は制度的専門義である相続可能な土地権原、語義3は歴史的残存義である封土そのものを指し、いずれも語彙的意味がこの支払いの核から導けないため、個別に参照する。"
+    },
+    {
+      "type": "item",
+      "text": "対価として定める金額 → 「料金、手数料、報酬」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "対価を働いた人に渡す行為 → 「報酬・心付けを与える」（語義4）"
+    },
+    {
+      "type": "item",
+      "text": "対価を約束して人を雇う行為 → 「賃金を払って雇う」（語義5）"
+    }
+  ],
   "sources": [],
   "senses": [
     {
@@ -166,7 +175,7 @@
         }
       ],
       "notes": [
-        "単数なら a fee、the fee、my fee などとし、複数なら fees。一般的な「料金が高い」は The fees are high. または The fee is high. とする。legal fees の legal は通常「法律サービスの」で、「法的に認められた料金」だけを意味しない。for は料金の対象、of は金額、to は支払先を示すため、a fee for the course、a fee of 100 euros、pay the fee to the school を区別する。pay a fee to enter the race の to enter は「大会に出るために」という目的を示す自然な形であり、a fee for entering the race と両立する。a fee for enter the race は不可。fee はあらゆる支払いの総称ではない。乗客の運賃は通常 fare、商品の売価は price、雇用関係に基づく定期給与は salary、時給などの賃金は wages とする。専門家の fee と会社員の salary は同じ「報酬」と訳せても典型的な契約関係が異なる。commission は取引成立や売上などに応じる手数料・歩合で、fee と重なることもある。英国の tuition fees に対し、米国では授業料自体を tuition と呼ぶことが多く、tuition and fees では fees が授業料以外の諸費用を指し得る。nominal fee は「ごく少額の料金」、non-refundable fee は「返金不可の料金」。fee だけで返金可否は分からない。古い文献では心付けを fee と呼ぶこともあるが、現代では tip が普通。成功報酬の許容範囲や負担する費用は制度・契約によって異なり、no win, no fee という表示だけから一切の支出がないとは判断しない。"
+        "単数なら a fee、the fee、my fee などとし、複数なら fees。fees は新しい派生語ではなく複数形で、複数の料金項目のほか、legal fees「弁護士費用」、school fees「学費」のように一連の支払いをまとめて表す。一般的な「料金が高い」は The fees are high. または The fee is high. とする。legal fees の legal は通常「法律サービスの」で、「法的に認められた料金」だけを意味しない。for は料金の対象、of は金額、to は支払先を示すため、a fee for the course、a fee of 100 euros、pay the fee to the school を区別する。pay a fee to enter the race の to enter は「大会に出るために」という目的を示す自然な形であり、a fee for entering the race と両立する。a fee for enter the race は不可。fee はあらゆる支払いの総称ではない。乗客の運賃は通常 fare、商品の売価は price、雇用関係に基づく定期給与は salary、時給などの賃金は wages とする。専門家の fee と会社員の salary は同じ「報酬」と訳せても典型的な契約関係が異なる。commission は取引成立や売上などに応じる手数料・歩合で、fee と重なることもある。英国の tuition fees に対し、米国では授業料自体を tuition と呼ぶことが多く、tuition and fees では fees が授業料以外の諸費用を指し得る。nominal fee は「ごく少額の料金」、non-refundable fee は「返金不可の料金」。fee だけで返金可否は分からない。古い文献では心付けを fee と呼ぶこともあるが、現代では tip が普通。成功報酬の許容範囲や負担する費用は制度・契約によって異なり、no win, no fee という表示だけから一切の支出がないとは判断しない。"
       ],
       "synonyms": [
         {
@@ -334,7 +343,7 @@
         }
       ],
       "notes": [
-        "目的語は受取人。料金を払う日常的な表現として fee the bill を使わず、pay the bill または pay a fee とする。語義1の名詞 fee と本義の動詞 fee を混同しない。過去形・過去分詞は feed で、feeed とは綴らない。現代の実用英語では pay someone、tip someone を優先する。"
+        "目的語は受取人。料金を払う日常的な表現として fee the bill を使わず、pay the bill または pay a fee とする。語義1の名詞 fee と本義の動詞 fee を混同しない。過去形・過去分詞は feed、現在分詞は feeing。これらは動詞の活用形であり、feed を feeed とは綴らない。現代の実用英語では pay someone、tip someone を優先する。"
       ],
       "synonyms": [
         {
@@ -361,9 +370,9 @@
       "title": "【動詞・他動詞】賃金を払って雇う",
       "frequency": 1,
       "register": [
-        "主にスコットランド。地域的で古風な雇用表現。"
+        "主にスコットランド。地域的な雇用表現。"
       ],
-      "definition": "人を、報酬を支払う取り決めで雇い入れる。特にスコットランドの古い雇用慣行に関わる文脈で使われる。",
+      "definition": "人を、報酬を支払う取り決めで雇い入れる。主にスコットランドの用法で、農場などの働き手を雇う文脈に現れる。",
       "patterns": [
         "fee someone＝人を雇い入れる",
         "fee someone for 〈期間〉＝ある期間、人を雇う"
@@ -384,7 +393,7 @@
           "word": "hire",
           "definition": "人を報酬を払って雇い入れる。",
           "frequency": 9,
-          "difference": "fee の地域的・古風な雇用義に対応する現代の一般語で、農作業に限らず各種の雇用に使う。",
+          "difference": "fee の地域的な雇用義に対応する一般語で、農作業に限らず各種の雇用に使う。",
           "example": "The farm hired two workers for the harvest.",
           "translation": "その農場は収穫期のために働き手を2人雇いました。"
         },
@@ -392,7 +401,7 @@
           "word": "employ",
           "definition": "人を仕事に就かせ、雇用する。",
           "frequency": 8,
-          "difference": "fee のような地域的・古風な響きはなく、雇い入れることに加えて雇用状態を継続していることにも使う。",
+          "difference": "fee のような地域的な限定がなく、雇い入れることに加えて雇用状態を継続していることにも使う。",
           "example": "The estate employed several gardeners throughout the year.",
           "translation": "その大邸宅では、一年を通して庭師を数人雇っていました。"
         }
