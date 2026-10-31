@@ -2,26 +2,18 @@
   "word": "fare",
   "slug": "fare",
   "ipa": "米: /fer/｜英: /feə(r)/",
-  "lead": "バス、電車、飛行機、タクシー、船などに乗って移動するために払う金額。個々の経路や条件に対応する運賃は可算名詞として扱い、full fare、half fare などでは無冠詞の不可算的な用法もある。切符という物や移動にかかる費用全般ではなく、乗客の輸送に対する料金に焦点を置く。",
-  "updated": "2026-10-11",
+  "lead": "バス、電車、飛行機、タクシー、船などに乗って移動するために払う金額。個々の経路や条件に対応する運賃は可算名詞として扱い、pay full fare、travel at half fare など、慣用的に冠詞を置かない形もある。切符という物や移動にかかる費用全般ではなく、乗客の輸送に対する料金に焦点を置く。",
+  "updated": "2026-10-31",
   "notion_url": "https://app.notion.com/p/fare-3f64faa9b77d81b8a990e26b16ee9ddb",
   "pronunciation": [
     "名詞・動詞とも1音節で、品詞による強勢差はない。第1音節の母音を米は /e/、英は /eə/ と表し、米ではその後の /r/ を発音する。英の括弧付きの (r) は、代表的な非r音性の発音では単独語末で発音せず、後ろに母音が続く場合に発音されることを表す。fair「公平な」とは同音だが、綴りと意味は異なる。",
     "複数形・三人称単数形 fares は米 /ferz/、英 /feəz/。過去形・過去分詞 fared は米 /ferd/、英 /feəd/。現在分詞 faring は米 /ˈfer.ɪŋ/、英 /ˈfeə.rɪŋ/ で2音節となり、第1音節に主強勢を置く。faring の第1音節の母音にも同じ米英差があり、英でも母音間の /r/ を発音する。"
   ],
   "etymology": [
-    "動詞は古英語 faran「行く、旅をする」、名詞は関連する fær、faru「旅、移動」の系統に由来する。運賃や有料の乗客という意味は、料金を払ってする旅との結び付きから理解できる。一方、「どのように事が運ぶか」という動詞義や、提供される食物という名詞義も古くから発達している。料理の意味の成立には、どのような食事を得て過ごすかという発想との関係が指摘されるが、現代の全語義を「乗車料金」から導くことはできない。",
+    "動詞は古英語 faran「行く、旅をする」、名詞は関連する fær、faru「旅、移動」の系統に由来する。運賃や有料の乗客という意味は、料金を払ってする旅との結び付きから理解できる。一方、「どのように事が運ぶか」という動詞義や、提供される食物という名詞義も古くから発達している。これらの歴史的な意味の広がりを、現代の全語義が「乗車料金」から導けるという説明に置き換えることはできない。",
     "同系語には ferry「渡し船、運ぶ」と ford「川の浅瀬、浅瀬を渡る」がある。fair「公平な」は発音が同じでも別系統である。"
   ],
   "formation": [
-    {
-      "term": "fares",
-      "description": "名詞の複数形「運賃、有料の乗客」、または動詞の三人称単数現在形。The fares are high. では名詞、She fares well. では動詞である。"
-    },
-    {
-      "term": "fared、faring",
-      "description": "動詞の過去形・過去分詞、現在分詞。faring では語末の e を落とす。通常は動詞の活用形で、fared を「料金を払った」という形容詞にはしない。"
-    },
     {
       "term": "airfare",
       "description": "air と fare の複合名詞。「航空運賃」。air fare と分ける表記もあり、航空券そのものより運賃を指す。"
@@ -48,12 +40,12 @@
   "senses": [
     {
       "number": 1,
-      "title": "【名詞・可算、不可算用法もある】運賃、乗車料金",
+      "title": "【名詞・主に可算、定型句では無冠詞】運賃、乗車料金",
       "frequency": 8,
       "register": [
         "中立。交通、旅行、経費精算、料金案内。"
       ],
-      "definition": "バス、電車、飛行機、タクシー、船などに乗って移動するために払う金額。個々の経路や条件に対応する運賃は可算名詞として扱い、full fare、half fare などでは無冠詞の不可算的な用法もある。切符という物や移動にかかる費用全般ではなく、乗客の輸送に対する料金に焦点を置く。",
+      "definition": "バス、電車、飛行機、タクシー、船などに乗って移動するために払う金額。個々の経路や条件に対応する運賃は可算名詞として扱い、pay full fare、travel at half fare など、慣用的に冠詞を置かない形もある。切符という物や移動にかかる費用全般ではなく、乗客の輸送に対する料金に焦点を置く。",
       "patterns": [
         "the fare to 〈目的地〉＝ある目的地までの運賃",
         "the fare from 〈出発地〉 to 〈目的地〉＝出発地から目的地までの運賃",
@@ -150,7 +142,7 @@
         }
       ],
       "notes": [
-        "a fare、the fare、fares を使うほか、pay full fare、travel half fare、travel at half fare のような定型的な無冠詞用法がある。a full fare のように一件の運賃を数える形も可能なので、full の後は必ず無冠詞と決めつけない。運賃の高低には high fares、low fares、cheap fares などを使う。one-way と single、round-trip と return は典型的な米英差であり、地域を越えて理解されないという意味ではない。an air fare、a taxi fare など、交通手段を前に置ける。fee は予約変更手数料などのサービス料金にも使い、fare は移動そのものの運賃を指すため、air fare と booking fee は別項目になり得る。貨物の輸送料を乗客の fare と同じ感覚で表さず、freight charges などを使う。語義5では a fare が料金を払う乗客を指す。I paid the fare.「運賃を払った」と The driver picked up a fare.「運転手が客を拾った」を目的語と動詞の組で区別する。"
+        "fares は名詞の複数形でも動詞の三人称単数現在形でもある。The fares are high. では名詞、She fares well. では動詞。複数形や活用形であって新しい派生語ではない。a fare、the fare、fares を使うほか、pay full fare、travel half fare、travel at half fare のような定型的な無冠詞用法がある。a full fare のように一件の運賃を数える形も可能なので、full fare は必ず無冠詞になると決めつけない。運賃の高低には high fares、low fares、cheap fares などを使う。one-way と single、round-trip と return は典型的な米英差であり、地域を越えて理解されないという意味ではない。an air fare、a taxi fare など、交通手段を前に置ける。fee は予約変更手数料などのサービス料金にも使い、fare は移動そのものの運賃を指すため、air fare と booking fee は別項目になり得る。貨物の輸送料を乗客の fare と同じ感覚で表さず、freight charges などを使う。語義5では a fare が料金を払う乗客を指す。I paid the fare.「運賃を払った」と The driver picked up a fare.「運転手が客を拾った」を目的語と動詞の組で区別する。"
       ],
       "synonyms": [
         {
@@ -195,6 +187,7 @@
         "someone/something + fare better than someone＝ある人よりよい結果になる",
         "someone/something + fare worse than expected＝予想より悪い結果になる",
         "How did someone fare?＝人の結果はどうだったか",
+        "How is someone/something faring?＝人や物事の現状・経過はどうか",
         "someone/something + fare well in 〈活動・状況〉＝ある活動や状況で好調である",
         "someone/something + fare well on 〈試験〉＝ある試験でよい成績を収める",
         "someone/something + fare badly under 〈制度・条件〉＝ある制度や条件の下で不利な結果になる",
@@ -239,6 +232,12 @@
           "translation": "昨日は最終面接だったね。どうだった？"
         },
         {
+          "pattern": "How is someone/something faring?（fare の進行形）",
+          "use": "進行形で、今どうやっているか、状況がどう推移しているかを尋ねる。",
+          "example": "How is the new restaurant faring after its first month?",
+          "translation": "開店から1か月が過ぎて、その新しいレストランの調子はどうですか。"
+        },
+        {
           "pattern": "fare well in 〈活動・状況〉",
           "use": "どの活動や環境でうまくいったのかを示す。",
           "example": "The independent candidates fared well in the local elections.",
@@ -246,7 +245,7 @@
         },
         {
           "pattern": "fare well on 〈試験〉",
-          "use": "特に米国英語で、試験やテストでの成績を述べる。",
+          "use": "on の後ろに試験やテストを置き、その成績を述べる。",
           "example": "Students who practised regularly fared well on the final test.",
           "translation": "定期的に練習した学生たちは、最終テストでよい成績を収めました。"
         },
@@ -270,7 +269,7 @@
         }
       ],
       "notes": [
-        "自動詞なので「試験でうまくいく」を fare the exam well とせず、fare well in the exam、fare well on the exam などとする。受動態の was fared well は使わない。通常は結果や状況を表す要素を伴うが、How did you fare? では how がその情報を尋ねるので、後ろに well などを足す必要はない。進行形の How are they faring? は「彼らの状況はどうか」と経過を尋ねる自然な形。better、worse は副詞の比較級で、fare の比較級ではない。fare better は比較対象よりましという意味でも使え、成功や黒字を必ず意味しない。fair well は綴り違いで、正しくは fare well。1語の farewell は別れのあいさつなどを表す別語。名詞の「運賃」と結び付けて fare を「運賃を払う」と訳さない。古風な It fared ill with him. は「彼の身の上に悪いことが起きた、彼は不運だった」という非人称的な表現で、普通の現代文では He fared badly. などを用いる。"
+        "過去形・過去分詞は fared、現在分詞は語末の e を落とした faring。これらは動詞の活用形で、fared を「料金を払った」という形容詞にはしない。自動詞なので「試験でうまくいく」を fare the exam well とせず、fare well in the exam、fare well on the exam などとする。受動態の was fared well は使わない。通常は結果や状況を表す要素を伴うが、How did you fare? では how がその情報を尋ねるので、後ろに well などを足す必要はない。進行形の How are they faring? は「彼らの状況はどうか」と経過を尋ねる自然な形。better、worse は副詞の比較級で、fare の比較級ではない。fare better は比較対象よりましという意味でも使え、成功や黒字を必ず意味しない。fair well は綴り違いで、正しくは fare well。1語の farewell は別れのあいさつなどを表す別語。名詞の「運賃」と結び付けて fare を「運賃を払う」と訳さない。古風な It fared ill with him. は「彼の身の上に悪いことが起きた、彼は不運だった」という非人称的な表現で、普通の現代文では He fared badly. などを用いる。"
       ],
       "synonyms": [
         {
