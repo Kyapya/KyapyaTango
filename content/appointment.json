@@ -3,7 +3,7 @@
   "slug": "appointment",
   "ipa": "米・英: /əˈpɔɪnt.mənt/",
   "lead": "人に会う、訪問する、診察やサービスを受けるなどのために、あらかじめ決めた日時の約束・予約。相手と時間枠を定める点が中心で、医療の予約に限らない。予定された面会・診察そのものを指すこともある。",
-  "updated": "2026-10-11",
+  "updated": "2026-10-31",
   "notion_url": "https://app.notion.com/p/appointment-3f64faa9b77d81f38e2fd81202ce60f2",
   "pronunciation": [
     "3音節で、第2音節に主強勢を置く。第1音節は弱い /ə/、第2音節の母音は /ɔɪ/、第3音節は /mənt/。appointments の複数語尾は /s/ で、語末全体は /mənts/ となる。"
@@ -15,7 +15,7 @@
   "formation": [
     {
       "term": "appoint",
-      "description": "他動詞。「任命する」。appoint someone as director／appoint someone to the board のように役職や所属を示す。"
+      "description": "appointment の語基に当たる他動詞。「任命する」。appoint someone as director／appoint someone to the board のように役職や所属を示す。"
     },
     {
       "term": "appointee",
@@ -53,19 +53,19 @@
     },
     {
       "type": "item",
-      "text": "人に定めて割り当てられた役職 → 「任命された職、役職」（語義3）"
+      "text": "人に定めて割り当てる役職 → 「任命された職、役職」（語義3）"
     },
     {
       "type": "item",
-      "text": "役職を定めて割り当てられた人 → 「任命された人、新任者」（語義4）"
+      "text": "役職を定めて割り当てる相手 → 「任命された人、新任者」（語義4）"
     },
     {
       "type": "item",
-      "text": "供給者としての役割を定める認定 → 「王室御用達の認定」（語義6）"
+      "text": "供給者の役割を定めて割り当てる認定 → 「王室御用達の認定」（語義6）"
     },
     {
       "type": "item",
-      "text": "財産の帰属先を定める権限の行使 → 「財産の帰属先・受益者の指定」（語義7）"
+      "text": "財産の帰属先を定めて割り当てる行為 → 「財産の帰属先・受益者の指定」（語義7）"
     }
   ],
   "sources": [],
@@ -81,6 +81,7 @@
       "patterns": [
         "an appointment with someone＝人との面会予約",
         "an appointment to do something＝何かをするための面会・訪問予約",
+        "an appointment for someone to do something＝人が～するための予約",
         "an appointment for 〈日時・用件〉＝その日時・用件の予約",
         "an appointment at 〈時刻・場所〉＝その時刻・場所での予約",
         "make/book/schedule an appointment＝予約する",
@@ -103,6 +104,12 @@
           "translation": "木曜日にそのアパートを内見する予約をしている。"
         },
         {
+          "pattern": "an appointment for someone to do something",
+          "use": "予約した行動を誰がするのか明示する。",
+          "example": "I made an appointment for my daughter to see the dentist.",
+          "translation": "娘が歯科医の診察を受ける予約を取った。"
+        },
+        {
           "pattern": "an appointment for 〈日時〉",
           "use": "予約を入れた日時を示す。",
           "example": "The clinic offered me an appointment for Monday morning.",
@@ -113,6 +120,12 @@
           "use": "約束の時刻を示す。",
           "example": "I have an appointment at three, so I need to leave by two thirty.",
           "translation": "3時に予約があるので、2時半までには出なければならない。"
+        },
+        {
+          "pattern": "an appointment at 〈場所〉",
+          "use": "診察・面会が行われる場所を示す。",
+          "example": "My appointment at the clinic is on Friday morning.",
+          "translation": "クリニックでの診察の予約は金曜日の午前だ。"
         },
         {
           "pattern": "a dental appointment",
@@ -152,7 +165,7 @@
         }
       ],
       "notes": [
-        "1件なら an appointment とする。make an appointment は予約を取ること、keep an appointment はその約束を守ることであり、keep を単に「予約を保管する」と訳さない。相手には with、日時には for／at、目的の行為には to不定詞を使う。appointment to see the manager は面会、appointment as manager は語義2の任命である。友人と気軽に遊ぶ約束なら plans、arrangements、meet を使った文が多く、appointment はやや事務的に響く。レストランのテーブルやホテルの部屋の確保は通常 reservation／booking。by appointment は予約制だが、by appointment to the King のような王室関連表現は語義6。医療の予約を表す doctor's appointment と doctor appointment はどちらも使われ、所有格だから医師本人の予定だとは限らない。"
+        "1件なら an appointment とする。make an appointment は予約を取ること、keep an appointment はその約束を守ることであり、keep を単に「予約を保管する」と訳さない。相手には with、日時には for／at、目的の行為には to不定詞を使う。an appointment for someone to do something では for の後の人が to 以下の行動をする人で、予約を取る人と同一とは限らない。appointment to see the manager は面会、appointment as manager は語義2の任命である。友人と気軽に遊ぶ約束なら plans、arrangements、meet を使った文が多く、appointment はやや事務的に響く。レストランのテーブルやホテルの部屋の確保は通常 reservation／booking。by appointment は予約制だが、by appointment to the King のような王室関連表現は語義6。医療の予約を表す doctor's appointment と doctor appointment はどちらも使われ、所有格だから医師本人の予定だとは限らない。"
       ],
       "synonyms": [
         {
@@ -354,7 +367,7 @@
       "title": "【名詞・可算】任命された人、新任者",
       "frequency": 5,
       "register": [
-        "人事・組織運営。特に英国系のビジネス英語で見られる。"
+        "人事・組織運営。人物を任命の結果として指す表現。"
       ],
       "definition": "ある職に選ばれた人を、任命の結果として指す用法。「よい人選だ」「新任者が加わる」のように、人物の適任性や新規配置を話題にする。",
       "patterns": [
