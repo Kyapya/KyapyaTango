@@ -3,7 +3,7 @@
   "slug": "maintain",
   "ipa": "米・英: /meɪnˈteɪn/",
   "lead": "状態・水準・活動・関係などが続くように保つ。品質や速度を一定に保つ場合も、連絡や秩序のように継続そのものを保つ場合もある。必ずしも以前と全く同じ数値であることや、対象が好ましいことまでは意味しない。",
-  "updated": "2026-10-11",
+  "updated": "2026-10-31",
   "notion_url": "https://app.notion.com/p/maintain-3f64faa9b77d811fbab4dce1d935dd35",
   "pronunciation": [
     "2音節で、第2音節 /teɪn/ に主強勢がある。第1音節と第2音節の母音はいずれも /eɪ/。第1音節を弱めた /mənˈteɪn/ もある。maintains の語尾は /z/、maintained の -ed は /d/ で、maintained /meɪnˈteɪnd/ も2音節。"
@@ -282,6 +282,12 @@
           "use": "組織や論者の立場が変わらないことを示す。",
           "example": "The committee maintains the position that the records should remain public.",
           "translation": "委員会は、その記録を引き続き公開すべきだという立場を堅持している。"
+        },
+        {
+          "pattern": "it is maintained that 〈節〉",
+          "use": "主張する人を前面に出さず、その主張内容を述べる。",
+          "example": "In the report, it is maintained that the new system will reduce costs.",
+          "translation": "その報告書では、新しいシステムによって費用が削減されると主張されている。"
         }
       ],
       "notes": [
@@ -356,6 +362,12 @@
           "use": "どれだけの収入で生活を支えるかを示す。",
           "example": "He struggled to maintain himself and his son on a single income.",
           "translation": "彼は一人分の収入で自分と息子の生活を支えるのに苦労した。"
+        },
+        {
+          "pattern": "be maintained by 〈収入・援助者〉",
+          "use": "誰の援助やどの収入によって生活を支えられるかを示す。",
+          "example": "During his studies, he was maintained by his parents, who paid for his food and accommodation.",
+          "translation": "在学中、彼は食費と住居費を負担してくれる両親に養われていた。"
         }
       ],
       "notes": [
