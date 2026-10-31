@@ -2,8 +2,8 @@
   "word": "warranty",
   "slug": "warranty",
   "ipa": "米: /ˈwɔːr.ən.ti/｜英: /ˈwɒr.ən.ti/",
-  "lead": "商品に一定期間内の不具合が生じたときに修理・交換などに応じるという販売者・メーカーの保証。また、その保証内容を記した文書。作業の品質が不十分な場合にやり直す保証にも使う。書面で示されることが多いが、保証の適用対象や対応方法は内容による。",
-  "updated": "2026-10-11",
+  "lead": "商品の品質や性能について責任を持ち、不具合などがあれば修理・交換・返金などに応じるという販売者・メーカーの保証。また、その保証内容を記した文書。作業の品質が不十分な場合にやり直す保証にも使う。保証期間や条件を書面で示すことが多いが、適用対象や対応方法は内容による。",
+  "updated": "2026-10-31",
   "notion_url": "https://app.notion.com/p/warranty-3f64faa9b77d81429ef3e1e63700fc2d",
   "pronunciation": [
     "通常の名詞は3音節で、第1音節に主強勢。上の表記では第1音節の母音が米 /ɔː/、英 /ɒ/ と異なる。r はどちらも次の母音につながる。米語には第1音節を /ɑː/ とする発音もある。低頻度の動詞では、米 /ˌwɔːr.ənˈtiː/ のように第3音節へ主強勢、第1音節へ第二強勢を置く発音も記載される。複数形 warranties の語尾は /z/。"
@@ -13,14 +13,6 @@
     "同系語には warrant「保証する、正当とする」、guarantee「保証、保証する」がある。現代の warranty は製品保証や契約の保証事項に特に結び付き、一般的な約束すべてに自由に使う語ではない。"
   ],
   "formation": [
-    {
-      "term": "warranties",
-      "description": "名詞の複数形。語尾の y を ies にする。a warranty、two warranties と数える。"
-    },
-    {
-      "term": "warrantied / warrantying",
-      "description": "低頻度の動詞 warranty の過去形・過去分詞と現在分詞。過去形は -ied、-ing 形は y を残す。"
-    },
     {
       "term": "warrantor",
       "description": "可算名詞。「保証を与える者」。主に法律・商業の用語。"
@@ -65,7 +57,7 @@
       "register": [
         "日常・買い物・製品サポート・商業"
       ],
-      "definition": "商品に一定期間内の不具合が生じたときに修理・交換などに応じるという販売者・メーカーの保証。また、その保証内容を記した文書。作業の品質が不十分な場合にやり直す保証にも使う。書面で示されることが多いが、保証の適用対象や対応方法は内容による。",
+      "definition": "商品の品質や性能について責任を持ち、不具合などがあれば修理・交換・返金などに応じるという販売者・メーカーの保証。また、その保証内容を記した文書。作業の品質が不十分な場合にやり直す保証にも使う。保証期間や条件を書面で示すことが多いが、適用対象や対応方法は内容による。",
       "patterns": [
         "come with a two-year warranty＝2年間の保証が付いている",
         "be under warranty＝保証の適用期間内にある",
@@ -127,7 +119,7 @@
         }
       ],
       "notes": [
-        "保証一般の状態は under warranty と無冠詞にする。under the warranty は特定の保証契約に基づくことを示す。a two-year warranty の year は名詞前の複合修飾語なので単数。guarantee も書面による製品保証を表せるため、「warranty は書面、guarantee は口約束」と二分しない。warranty が必ず無料・無期限・全損傷対応という意味でもない。例文の保証条件は架空の製品についての説明であり、すべての契約で同じ条件や法的有効性を主張するものではない。"
+        "名詞の複数形は語尾の y を ies にした warranties で、a warranty、two warranties と数える。通常の複数形であり、派生語ではない。保証が適用される状態を表す定型表現 under warranty では、通常、冠詞を置かない。under the warranty は特定の保証契約に基づくことを示す。a two-year warranty の year は名詞前の複合修飾語なので単数。guarantee も書面による製品保証を表せるため、「warranty は書面、guarantee は口約束」と二分しない。warranty が必ず無料・無期限・全損傷対応という意味でもない。例文の保証条件は架空の製品についての説明であり、すべての契約で同じ条件や法的有効性を主張するものではない。"
       ],
       "synonyms": [
         {
@@ -162,7 +154,8 @@
         "an express warranty＝明示された保証",
         "an implied warranty＝黙示の保証",
         "a warranty of title＝権原の保証",
-        "breach of warranty＝保証違反"
+        "breach of warranty＝保証違反",
+        "a condition or a warranty＝契約条項の分類上の condition か warranty か"
       ],
       "collocations": [
         {
@@ -194,10 +187,16 @@
           "use": "保証した内容に反したという主張を表す。",
           "example": "The buyer alleged a breach of warranty concerning the condition of the machinery.",
           "translation": "買主は、機械の状態に関する保証違反があったと主張した。"
+        },
+        {
+          "pattern": "a condition or a warranty",
+          "use": "英法の契約条項の分類で、違反時の救済に関わる区別を述べる。",
+          "example": "The court considered whether the delivery term was a condition or a warranty.",
+          "translation": "裁判所は、その引渡条項が条件条項（condition）か保証条項（warranty）かを検討した。"
         }
       ],
       "notes": [
-        "法律文書の representations and warranties は通常「表明および保証」。representation と warranty の法的な役割・救済がいつでも同一とは限らない。warranty of title の title は「題名」ではなく権原。implied warranty の存在から、warranty は常に保証書そのものを意味すると考えてはいけない。ここでは語彙の意味を示しており、違反時の解除権や損害賠償の成立を一律に決めない。"
+        "法律文書の representations and warranties は通常「表明および保証」。representation と warranty の法的な役割・救済がいつでも同一とは限らない。warranty of title の title は「題名」ではなく権原。implied warranty の存在から、warranty は常に保証書そのものを意味すると考えてはいけない。英法で契約条項を condition、warranty、innominate term に分類する場合、condition の違反は原則として契約終了を選ぶ根拠になるのに対し、warranty の違反だけでは通常その権利は生じず、損害賠償などが問題になる。契約に明示された終了権などは別に検討されるため、保証一般にこの分類や効果を機械的に当てはめない。"
       ],
       "synonyms": [
         {
@@ -272,9 +271,9 @@
       "title": "【動詞・他動詞】保証を付ける",
       "frequency": 3,
       "register": [
-        "主に米国の商業表現"
+        "商業表現"
       ],
-      "definition": "メーカーや販売業者が、商品・部品・作業について warranty を与える。名詞から転用された低頻度の動詞で、特に米国の商業文脈に見られる。一般的には guarantee や provide a warranty の方が広く通じる。",
+      "definition": "メーカーや販売業者が、商品・部品・作業について warranty を与える。名詞から転用された低頻度の動詞で、製品サポートなどの商業文脈に見られる。一般的には guarantee や provide a warranty の方が広く通じる。",
       "patterns": [
         "warranty something for 〈期間〉＝対象に所定期間の保証を付ける",
         "warranty something against 〈不具合〉＝対象に不具合に対する保証を付ける",
@@ -301,7 +300,7 @@
         }
       ],
       "notes": [
-        "過去形・過去分詞は warrantied、現在分詞は warrantying。warranted は別の動詞 warrant の過去形・過去分詞で、「正当な、根拠のある」という形容詞用法もあるため混同しない。a warrantied part は保証付き部品を表す受動的な限定用法で、ハイフンは不要。"
+        "過去形・過去分詞は warrantied と -ied にし、現在分詞 warrantying では y を残す。これらは動詞の活用形である。warranted は別の動詞 warrant の過去形・過去分詞で、「正当な、根拠のある」という形容詞用法もあるため混同しない。a warrantied part は保証付き部品を表す受動的な限定用法で、ハイフンは不要。"
       ],
       "synonyms": [
         {
