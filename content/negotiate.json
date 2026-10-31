@@ -3,7 +3,7 @@
   "slug": "negotiate",
   "ipa": "米: /nəˈɡoʊ.ʃi.eɪt/｜英: /nəˈɡəʊ.ʃi.eɪt/",
   "lead": "合意や条件の調整を目指して、相手と話し合う。契約・外交などの正式な協議に多いが、日常の条件交渉にも使う。交渉という行為を表し、合意に至ったことは必ずしも意味しない。",
-  "updated": "2026-10-11",
+  "updated": "2026-10-31",
   "notion_url": "https://app.notion.com/p/negotiate-3f64faa9b77d81edaf81d4e306bbd8de",
   "pronunciation": [
     "4音節で、第2音節に主強勢を置く。示した米英形の差は、第2音節の母音 /oʊ/ と /əʊ/。第1音節を /nɪ/ と発音する形もある。第3音節は /ʃi/ で、第4音節の /eɪt/ と区別する。negotiated の -ed は /ɪd/ で1音節増え、negotiating では末尾の e を落とす。"
@@ -31,32 +31,28 @@
     {
       "term": "renegotiate",
       "description": "他動詞・自動詞「再交渉する」。既にある条件を改めて協議する。"
-    },
-    {
-      "term": "negotiated / negotiating",
-      "description": "過去分詞・現在分詞。a negotiated settlement「交渉による解決」、negotiating skills「交渉力」などに使うが、元の動詞と無関係な状態を示すものではない。"
     }
   ],
   "core": [
     {
       "type": "paragraph",
-      "text": "「相手や難しい条件に対応しながら、物事を進める」が主要な一般義を結ぶ手掛かり。話合いでは合意へ、道や問題では通過・処理へ向かう。語義5・6は制度的専門義で、証書の権利移転・換金という語彙的意味はこの核から導けないため、個別に参照する。"
+      "text": "「相手や条件に対応しながら、物事を進める」が主要な一般義を結ぶ手掛かり。話合いでは合意へ、道や問題では通過・処理へ向かう。交渉が必ず難航するわけではなく、条件が複雑であることも必須ではない。語義5・6は制度的専門義で、証書の権利移転・換金という語彙的意味はこの核から導けないため、個別に参照する。"
     },
     {
       "type": "item",
-      "text": "難しい条件に対応して話合いを進めること → 「交渉する、協議する」（語義1）"
+      "text": "条件に対応して話合いを進めること → 「交渉する、協議する」（語義1）"
     },
     {
       "type": "item",
-      "text": "難しい条件に対応して合意内容をまとめること → 「交渉で取り決める、条件を詰める」（語義2）"
+      "text": "条件に対応して合意内容をまとめること → 「交渉で取り決める、条件を詰める」（語義2）"
     },
     {
       "type": "item",
-      "text": "難しい条件に対応して道を進むこと → 「うまく通り抜ける、切り抜けて進む」（語義3）"
+      "text": "条件に対応して道を進むこと → 「うまく通り抜ける、切り抜けて進む」（語義3）"
     },
     {
       "type": "item",
-      "text": "難しい条件に対応して問題への対処を進めること → 「うまく対処する、切り抜ける」（語義4）"
+      "text": "条件に対応して問題への対処を進めること → 「うまく対処する、切り抜ける」（語義4）"
     }
   ],
   "sources": [],
@@ -129,7 +125,7 @@
         }
       ],
       "notes": [
-        "相手は negotiate with the manager、求めるものは negotiate for a discount、議題は negotiate over the price。negotiate the manager で「管理者と交渉する」とはしない。negotiate for a discount は値引きを求める行為、negotiate a discount は語義2で値引き条件を交渉して取り決めること。on behalf of は代表する側、with は交渉相手を示す。negotiate between A and B は間に立つ役割だが、negotiate 自体が常に中立の第三者として仲裁するという意味ではない。話合いの拒否・中断は交渉とは対照的な行動だが、単純な反意語にはしない。"
+        "negotiated は過去形・過去分詞、negotiating は現在分詞。a negotiated settlement「交渉による解決」は過去分詞による修飾、negotiating skills「交渉力」は -ing 形による修飾である。活用形が存在することと、新たな派生語が作られることは区別する。相手は negotiate with the manager、求めるものは negotiate for a discount、議題は negotiate over the price。negotiate the manager で「管理者と交渉する」とはしない。negotiate for a discount は値引きを求める行為、negotiate a discount は語義2で値引き条件を交渉して取り決めること。on behalf of は代表する側、with は交渉相手を示す。negotiate between A and B は間に立つ役割だが、negotiate 自体が常に中立の第三者として仲裁するという意味ではない。話合いの拒否・中断は交渉とは対照的な行動だが、単純な反意語にはしない。"
       ],
       "synonyms": [
         {
