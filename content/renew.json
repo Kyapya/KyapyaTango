@@ -3,7 +3,7 @@
   "slug": "renew",
   "ipa": "米: /rɪˈnuː/｜英: /rɪˈnjuː/",
   "lead": "契約・会員資格・許可証・購読などを、新たな期間にも有効にする、またはそのための更新手続きを行う。図書館の本なら貸出期間を延長することで、本を新しい物に交換することではない。既存の関係を続けることが中心で、条件が全く変わらないとは限らない。",
-  "updated": "2026-10-11",
+  "updated": "2026-10-31",
   "notion_url": "https://app.notion.com/p/renew-3f64faa9b77d81b88488f19cc240c317",
   "pronunciation": [
     "2音節で、第2音節に主強勢がある。第1音節 /rɪ/ は共通で、第2音節が米音 /nuː/、英音 /njuː/。この代表的な米英差は /n/ の直後の /j/ の有無である。renews の語尾は /z/、renewed の -ed は /d/。renewed は米 /rɪˈnuːd/、英 /rɪˈnjuːd/ で、いずれも2音節。"
@@ -41,35 +41,35 @@
     },
     {
       "type": "item",
-      "text": "有効期間を新たにする手続き → 「更新する、有効期間を延ばす」（語義1）"
+      "text": "新たな有効期間を与える手続き → 「更新する、有効期間を延ばす」（語義1）"
     },
     {
       "type": "item",
-      "text": "有効期間を新たにする継続 → 「更新する、更新される」（語義2）"
+      "text": "新たな有効期間へ移る継続 → 「更新する、更新される」（語義2）"
     },
     {
       "type": "item",
-      "text": "活動や関係を新たにする再始動 → 「再開する、再び取り組む」（語義3）"
+      "text": "新たな活動や関係の始動 → 「再開する、再び取り組む」（語義3）"
     },
     {
       "type": "item",
-      "text": "表明を新たにする言い直し → 「改めて表明する、再び求める」（語義4）"
+      "text": "新たな表明による意思の再提示 → 「改めて表明する、再び求める」（語義4）"
     },
     {
       "type": "item",
-      "text": "活力や信頼を新たにする回復 → 「よみがえらせる、回復させる」（語義5）"
+      "text": "新たな活力や信頼の回復 → 「よみがえらせる、回復させる」（語義5）"
     },
     {
       "type": "item",
-      "text": "部材や中身を新たにする交換 → 「取り替える、新しくする」（語義6）"
+      "text": "新たな部材や中身への交換 → 「取り替える、新しくする」（語義6）"
     },
     {
       "type": "item",
-      "text": "活動や力が新たになった状態 → 「新たな、再び強まった」（語義7）"
+      "text": "新たな活動や力を備えた状態 → 「新たな、再び強まった」（語義7）"
     },
     {
       "type": "item",
-      "text": "構成要素が新たになる自己更新 → 「再生する、新たになる」（語義8）"
+      "text": "新たな構成要素による自己更新 → 「再生する、新たになる」（語義8）"
     }
   ],
   "sources": [],
@@ -281,7 +281,7 @@
         },
         {
           "word": "revive",
-          "definition": "弱まったり途絶えたりした活動や関係を復活させる。",
+          "definition": "弱まったり途絶えたりした活動・関係・関心などを復活させる。",
           "frequency": 7,
           "difference": "renew より、ほとんど失われていた活力や存在感を取り戻す面を強調する。",
           "example": "The festival revived interest in traditional music.",
@@ -312,7 +312,7 @@
         "renew calls for something＝改めて要求を表明する",
         "renew an appeal to someone to do＝人に改めて行動を訴える",
         "renew a promise to do＝約束を改めて表明する",
-        "renew one's commitment to 〈名詞・動名詞〉＝取り組む決意を新たにする。"
+        "renew one's commitment to 〈名詞・動名詞〉＝取り組む決意を改めて表明する。"
       ],
       "collocations": [
         {
@@ -336,18 +336,24 @@
         {
           "pattern": "renew one's commitment to 〈名詞・動名詞〉",
           "use": "取り組みを続ける意思を改めて示す。",
-          "example": "The company renewed its commitment to reducing waste.",
-          "translation": "会社は、廃棄物削減に取り組む決意を改めて示した。"
+          "example": "In its annual report, the company renewed its commitment to reducing waste.",
+          "translation": "会社は年次報告書で、廃棄物削減に取り組む決意を改めて示した。"
         },
         {
           "pattern": "renew one's wedding vows",
           "use": "結婚の誓いを再び述べる。",
           "example": "They renewed their wedding vows on their twentieth anniversary.",
           "translation": "2人は結婚20周年に、結婚の誓いを改めて交わした。"
+        },
+        {
+          "pattern": "renew a promise to do",
+          "use": "以前の約束を改めて表明する。",
+          "example": "The mayor renewed her promise to improve public transport.",
+          "translation": "市長は、公共交通を改善するという約束を改めて表明した。"
         }
       ],
       "notes": [
-        "renew calls の calls は電話ではなく「要求・呼び掛け」。renew a request は依頼を改めて述べたということで、依頼が承認されたことを意味しない。renew one's commitment to doing の to は前置詞なので動名詞が続く。renew one's wedding vows は誓いの再表明であり、結婚の法的有効期間を延長するという意味ではない。"
+        "renew calls の calls は電話ではなく「要求・呼び掛け」。renew a request は依頼を改めて述べたということで、依頼が承認されたことを意味しない。renew one's commitment to doing の to は前置詞なので動名詞が続く。口に出さず決意そのものを新たにする場合にも使えるが、ここでは声明などで意思を改めて示す用法を扱う。renew one's wedding vows は誓いの再表明であり、結婚の法的有効期間を延長するという意味ではない。"
       ],
       "synonyms": [
         {
@@ -415,6 +421,12 @@
           "use": "人や組織が自らを立て直す。",
           "example": "The organization renewed itself by bringing in new leaders and ideas.",
           "translation": "その組織は、新しい指導者や考え方を取り入れることで活力を取り戻した。"
+        },
+        {
+          "pattern": "be renewed by something",
+          "use": "何かをきっかけに希望や信頼などがよみがえることを示す。",
+          "example": "Our confidence was renewed by the success of the first trial.",
+          "translation": "最初の試験が成功したことで、私たちは自信を取り戻した。"
         }
       ],
       "notes": [
@@ -453,7 +465,7 @@
       "title": "【他動詞】取り替える、新しくする",
       "frequency": 5,
       "register": [
-        "保守・建築・技術・生物学。部材の交換という使い方は特に英国の記述で見られる。"
+        "保守・建築・技術・生物学。"
       ],
       "definition": "古くなったり傷んだり消耗したりした部材・設備・中身を、新しいものに替える。同じ役割を担う部分の交換・再生が中心で、単なる期間延長ではない。",
       "patterns": [
@@ -522,7 +534,8 @@
       "patterns": [
         "renewed 〈関心・努力・活動など〉＝新たな・再び起きたもの",
         "with renewed 〈活力・決意〉＝新たな活力・決意をもって",
-        "renewed interest in something＝何かへの再び高まった関心。通常は名詞の前に置き、very renewed や renewed-er のような程度・比較表現は普通使わない。"
+        "renewed interest in something＝何かへの再び高まった関心",
+        "feel renewed＝活力を取り戻したと感じる。活動や関心を修飾する場合は通常、名詞の前に置き、very renewed や renewed-er のような程度・比較表現は普通使わない。"
       ],
       "collocations": [
         {
@@ -548,6 +561,12 @@
           "use": "再開した戦闘を報道する。",
           "example": "Renewed fighting forced residents to leave the area.",
           "translation": "再び始まった戦闘により、住民たちはその地域を離れざるを得なくなった。"
+        },
+        {
+          "pattern": "feel renewed",
+          "use": "人が心身の活力を取り戻したと感じることを述べる。",
+          "example": "After a restful holiday, I felt renewed and ready to return to work.",
+          "translation": "ゆっくり休暇を過ごした後、私は元気を取り戻し、仕事に戻る気になった。"
         }
       ],
       "notes": [
