@@ -3,7 +3,7 @@
   "slug": "inspect",
   "ipa": "米・英: /ɪnˈspekt/",
   "lead": "物や人を注意深く調べ、その状態・品質・細部などを確かめる。不具合や損傷の有無を調べる場合が多いが、必ず欠陥を探すとは限らない。目で確かめる行為が典型的で、対象に応じて器具や情報の確認も伴う。点検すること自体は修理・承認・合格判定とは別である。",
-  "updated": "2026-10-11",
+  "updated": "2026-10-31",
   "notion_url": "https://app.notion.com/p/inspect-3f64faa9b77d8106991debc6af12fefc",
   "pronunciation": [
     "2音節で、第2音節に主強勢を置く。語末は /kt/ という子音の連続で、間に母音を入れない。inspects の語末は /kts/。inspected の -ed は /ɪd/ で、/ɪnˈspek.tɪd/ と3音節になる。"
@@ -23,14 +23,6 @@
     {
       "term": "reinspect / re-inspect",
       "description": "他動詞「再検査する、再点検する」。検査を繰り返す意味。"
-    },
-    {
-      "term": "inspected",
-      "description": "過去形・過去分詞。inspected goods「検査済みの商品」のように修飾にも使うが、検査に合格したことまでは語だけで決まらない。"
-    },
-    {
-      "term": "inspecting",
-      "description": "現在分詞。an inspecting officer は検査・視察を行う職員であり、点検される側ではない。"
     }
   ],
   "core": [],
@@ -80,13 +72,19 @@
           "pattern": "inspect 〈設備〉 to see whether 〈節〉",
           "use": "点検で確認したい条件を節で示す。",
           "example": "We inspected the doors to see whether the seals were still intact.",
-          "translation": "私たちは、密閉材がまだ傷んでいないかを確かめるためにドアを点検した。"
+          "translation": "私たちは、すき間をふさぐシール材がまだ傷んでいないかを確かめるためにドアを点検した。"
         },
         {
           "pattern": "have 〈機器〉 inspected",
           "use": "専門家などに点検を依頼する。",
           "example": "We had the lift inspected after it stopped unexpectedly.",
           "translation": "エレベーターが突然停止したため、私たちは点検してもらった。"
+        },
+        {
+          "pattern": "be inspected before/after 〈名詞・-ing〉",
+          "use": "検査が行われるタイミングを示す。",
+          "example": "The equipment is inspected before each use.",
+          "translation": "その機器は、使用するたびに事前に点検される。"
         },
         {
           "pattern": "inspect the documents",
@@ -102,7 +100,7 @@
         }
       ],
       "notes": [
-        "inspect the equipment for damage は「設備に損傷がないか調べる」、inspect the damage は「存在する損傷の状態を調べる」。for の有無で目的語の役割が変わる。対象は直接目的語に取り、inspect about the machine としない。have the machine inspected の machine は点検される側で、have the technician inspect the machine では technician が点検する側。inspect は物や状態を慎重に確かめる語なので、計算の答えや綴りの単純な確認には check が自然。診察全般を言うなら examine a patient が通常で、inspect a wound のような特定部位の目視確認と区別する。米語の have a house inspected に対応して、イギリス英語の不動産取引では have a house surveyed も使うが、検査の範囲・制度が同一とは限らない。inspected goods は検査した商品であって、passed inspection「検査に合格した」と同じではない。"
+        "inspected は過去形・過去分詞、inspecting は現在分詞で、動詞の活用形である。an inspecting officer は検査・視察を行う職員であり、点検される側ではない。inspect the equipment for damage は「設備に損傷がないか調べる」、inspect the damage は「存在する損傷の状態を調べる」。for の有無で目的語の役割が変わる。対象は直接目的語に取り、inspect about the machine としない。have the machine inspected の machine は点検される側で、have the technician inspect the machine では technician が点検する側。inspect は物や状態を慎重に確かめる語なので、計算の答えや綴りの単純な確認には check が自然。診察全般を言うなら examine a patient が通常で、inspect a wound のような特定部位の目視確認と区別する。米語の have a house inspected に対応して、イギリス英語の不動産取引では have a house surveyed も使うが、検査の範囲・制度が同一とは限らない。inspected goods は検査した商品であって、passed inspection「検査に合格した」と同じではない。"
       ],
       "synonyms": [
         {
