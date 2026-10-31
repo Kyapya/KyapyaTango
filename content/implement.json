@@ -3,7 +3,7 @@
   "slug": "implement",
   "ipa": "動詞: 米 /ˈɪm.plə.ment/｜英 /ˈɪm.plɪ.ment/",
   "lead": "計画、決定、方針、制度などを、具体的な行動や仕組みによって実際に機能させる。計画を立てることや承認することより、その内容を現実の運用へ移す段階に焦点がある。実施の範囲・進み具合は fully、partially、gradually などで限定でき、目標の達成や成功まで自動的に意味しない。",
-  "updated": "2026-10-11",
+  "updated": "2026-10-31",
   "notion_url": "https://app.notion.com/p/implement-3f64faa9b77d81de9fa7e73ac4a45023",
   "pronunciation": [
     "名詞: 米 /ˈɪm.plə.mənt/｜英 /ˈɪm.plɪ.mənt/",
@@ -20,17 +20,30 @@
     {
       "term": "implementer / implementor",
       "description": "可算名詞「実施者、実装を行う人・組織」。後者の綴りも使われる。"
-    },
-    {
-      "term": "implemented",
-      "description": "過去形・過去分詞。a fully implemented system「全面的に導入されたシステム」のように修飾にも使う。動詞から離れた評価義としては扱わない。"
-    },
-    {
-      "term": "implementing",
-      "description": "現在分詞。an implementing agency「実施機関」のように、制度・事業を実行する主体を修飾する。"
     }
   ],
-  "core": [],
+  "core": [
+    {
+      "type": "paragraph",
+      "text": "「目的を実際に果たすための手立て」が手掛かり。名詞は作業を支える道具や手段を指し、動詞は計画・仕様に具体的な手立てを与えて実行へ移すことを表す。単語の中心を整理するための見方で、動詞の目的語が道具そのものだという意味ではない。"
+    },
+    {
+      "type": "item",
+      "text": "目的を果たす手立てとして計画を実行すること → 「実施する、実行に移す、導入する」（語義1）"
+    },
+    {
+      "type": "item",
+      "text": "目的を果たす手立てとして仕様を動く形にすること → 「実装する」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "目的を果たす手立てとなる器具 → 「道具、用具、器具」（語義3）"
+    },
+    {
+      "type": "item",
+      "text": "目的を果たす手立てとなる人・仕組み → 「目的を実現する手段、道具となる人・物」（語義4）"
+    }
+  ],
   "sources": [],
   "senses": [
     {
@@ -80,6 +93,12 @@
           "translation": "その倉庫では、返品を追跡する新しいシステムの導入を進めている。"
         },
         {
+          "pattern": "be implemented in 〈場所・組織〉",
+          "use": "計画や制度が実施される場所・組織を示す。",
+          "example": "The new policy was implemented in all regional offices.",
+          "translation": "新しい方針は、すべての地域事務所で実施された。"
+        },
+        {
           "pattern": "be implemented in stages",
           "use": "一度に全面実施せず、段階を分ける。",
           "example": "The reforms will be implemented in stages over two years.",
@@ -93,7 +112,7 @@
         }
       ],
       "notes": [
-        "implement a policy は「方針を実施する」、formulate a policy は「方針を立案する」、approve a policy は「方針を承認する」。implement は enforce「規則を守らせる」とも異なり、制度を動かすための仕組みの導入などを含む。「計画を実行する」は implement the plan とし、implement of the plan とはしない。名詞なら implementation of the plan。通常は物事を目的語に取り、implement someone to do の形で人に実行させる意味にはしない。implement to reduce costs だけでは何を実施するかが欠けるため、implement measures to reduce costs とする。ソフトウェアを職場へ導入する場合と、機能をコードとして作る語義2は、同じ system が目的語でも文脈により区別する。"
+        "implemented は過去形・過去分詞、implementing は現在分詞で、動詞の活用形である。a fully implemented system「全面的に導入されたシステム」は過去分詞による修飾、an implementing agency「実施機関」は実行主体を表す現在分詞による修飾。implement a policy は「方針を実施する」、formulate a policy は「方針を立案する」、approve a policy は「方針を承認する」。implement は enforce「規則を守らせる」とも異なり、制度を動かすための仕組みの導入などを含む。「計画を実行する」は implement the plan とし、implement of the plan とはしない。名詞なら implementation of the plan。通常は物事を目的語に取り、implement someone to do の形で人に実行させる意味にはしない。implement to reduce costs だけでは何を実施するかが欠けるため、implement measures to reduce costs とする。ソフトウェアを職場へ導入する場合と、機能をコードとして作る語義2は、同じ system が目的語でも文脈により区別する。"
       ],
       "synonyms": [
         {
@@ -258,8 +277,8 @@
         {
           "pattern": "an implement for 〈-ing〉",
           "use": "道具の用途を説明する。",
-          "example": "This wooden implement is for pressing patterns into soft clay.",
-          "translation": "この木製の道具は、柔らかい粘土に押し当てて模様を付けるためのものだ。"
+          "example": "She picked up a wooden implement for pressing patterns into soft clay.",
+          "translation": "彼女は、柔らかい粘土に押し当てて模様を付ける木製の道具を手に取った。"
         }
       ],
       "notes": [
