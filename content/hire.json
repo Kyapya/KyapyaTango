@@ -1,9 +1,9 @@
 {
   "word": "hire",
   "slug": "hire",
-  "ipa": "米: /haɪr/｜英: /haɪə(r)/。米の表記では /aɪ/ から /r/ に続き、英の表記では第1音節の /aɪə/ の終わりに中央寄りの母音が現れる。実際の発音は1音節に近くまとめる話者と、母音をやや分ける話者がいる。英の語末の (r) は、一般に後ろに母音が続くときに発音される。名詞と動詞で発音は同じ。hired の -ed は /d/ で、/ɪd/ を加えない。",
+  "ipa": "米: /haɪr/｜英: /haɪə(r)/。米の表記では /aɪ/ から /r/ に続き、英の表記では /aɪ/ に中央寄りの母音 /ə/ が続く。実際の発音は1音節にまとめる話者と2音節に分ける話者がいる。米英差の位置は、1音節なら第1音節の後半、2音節なら第2音節付近の母音と /r/ の部分。英の語末の (r) は、一般に後ろに母音が続くときに発音される。名詞と動詞で発音は同じ。hired の -ed は /d/ で、/ɪd/ を加えない。",
   "lead": "人に報酬を払って仕事をしてもらう。従業員として採用する場合にも、専門家や会社に特定の仕事を頼む場合にも使い、常勤・長期雇用に限らない。",
-  "updated": "2026-10-11",
+  "updated": "2026-10-31",
   "notion_url": "https://app.notion.com/p/hire-3f64faa9b77d81ec9a3ff84672ff4c89",
   "pronunciation": [],
   "etymology": [
@@ -11,12 +11,8 @@
   ],
   "formation": [
     {
-      "term": "hires / hired / hiring",
-      "description": "三人称単数現在・過去形と過去分詞・現在分詞。hiring は語末の e を落とす。"
-    },
-    {
       "term": "hiring",
-      "description": "採用すること・採用活動を表す名詞。hiring manager「採用担当マネージャー」などにも使う。"
+      "description": "人を採用することや物を有料で借りることを表す名詞。人事では採用活動を指し、hiring manager「採用担当マネージャー」などにも使う。"
     },
     {
       "term": "rehire",
@@ -32,7 +28,7 @@
     },
     {
       "term": "hire purchase",
-      "description": "主に英国で、分割払いによる購入方式を表す複合名詞。単に物を短期に借りる hire とは区別する。"
+      "description": "主に英国で、物を使いながら分割払いをし、最終支払いなど契約上の条件を満たして所有権を得る購入方式。単に有料で借りて返す hire とは区別する。"
     }
   ],
   "core": [
@@ -79,6 +75,22 @@
     {
       "type": "item",
       "text": "料金と引き換えに働く仕事への参入 → 「雇われる・職に就く」（語義10）"
+    },
+    {
+      "type": "item",
+      "text": "料金と引き換えに新たな働き手を迎える行為 → 「人を新たに雇い入れる」（語義11）"
+    },
+    {
+      "type": "item",
+      "text": "料金と引き換えに作業を実施してもらう行為 → 「料金を払って作業をしてもらう」（語義12）"
+    },
+    {
+      "type": "item",
+      "text": "料金と引き換えに作業を外部へ任せる行為 → 「仕事を有償で外部に任せる」（語義13）"
+    },
+    {
+      "type": "item",
+      "text": "料金と引き換えの利用・労働に対する金銭 → 「使用料・労働の報酬」（語義14）"
     }
   ],
   "sources": [],
@@ -145,7 +157,7 @@
         }
       ],
       "notes": [
-        "hire someone to do は「その人にその仕事をしてもらうために雇う」。誤: hire someone do／正: hire someone to do。hire は採用という出来事に焦点を置きやすく、employ は雇用関係の継続や雇用人数にもよく使うが、両語の意味は重なる。recruit は有償の雇用以外の加入者も募れる。hired staff、hired equipment の hired は「雇われた・借りた」を表す分詞的修飾で、元の動詞義から理解できる。hire a lawyer は依頼主側、hire oneself out は仕事を引き受ける側を主語にする（語義7）。"
+        "三人称単数現在は hires、過去形・過去分詞は hired、現在分詞は hiring。hiring は語末の e を落とす。これらは動詞の活用形。hire someone to do は「その人にその仕事をしてもらうために雇う」。誤: hire someone do／正: hire someone to do。hire は採用という出来事に焦点を置きやすく、employ は雇用関係の継続や雇用人数にもよく使うが、両語の意味は重なる。recruit は有償の雇用以外の加入者も募れる。hired staff、hired equipment の hired は「雇われた・借りた」を表す分詞的修飾で、元の動詞義から理解できる。hire a lawyer は依頼主側、hire oneself out は仕事を引き受ける側を主語にする（語義7）。"
       ],
       "synonyms": [
         {
@@ -407,6 +419,7 @@
       "definition": "料金を支払って物・場所を一時的に使うことや、その手配。for hire は「有料で利用できる」という意味で、人の仕事・サービスについて「仕事を引き受けます」と示す場合にも使う。",
       "patterns": [
         "car hire＝車の賃借・レンタカー利用",
+        "a hire car＝レンタカー",
         "the hire of something＝その物・場所を借りること",
         "for hire＝有料で利用可能な",
         "on hire from someone＝相手から有料で借りている",
@@ -418,6 +431,12 @@
           "use": "レンタカーのサービス・利用を名詞で示す。",
           "example": "The package includes flights and car hire.",
           "translation": "そのパッケージには航空券とレンタカーの利用が含まれている。"
+        },
+        {
+          "pattern": "a hire car",
+          "use": "名詞 hire を前に置いて、有料で借りる車を指す。",
+          "example": "We returned the hire car to the airport before our flight.",
+          "translation": "私たちは飛行機に乗る前に、レンタカーを空港に返却した。"
         },
         {
           "pattern": "the hire of something",
@@ -451,7 +470,7 @@
         }
       ],
       "notes": [
-        "賃借一般の hire は通常不可算で car hire のように使う。a hire charge の a が数えているのは charge。for hire は通常「有料で利用・雇用可能」を表す。on hire from someone は「相手から有料で借りている」を表すが、on hire には for hire と同じ意味の用法もあるため、文脈で判断する。a photographer for hire は雇用済みの人を指す a hire（語義3）とは異なる。古い文章では hire 自体が「使用料・労働の報酬」を表すこともあるが、現代の通常の金額表示では hire charge、fee、wages などが明確。"
+        "賃借一般の hire は通常不可算で car hire のように使う。a hire charge の a が数えているのは charge。a hire car の hire は car を修飾し、「レンタカー」を表す。for hire は通常「有料で利用・雇用可能」を表す。on hire from someone は「相手から有料で借りている」を表すが、on hire には for hire と同じ意味の用法もあるため、文脈で判断する。a photographer for hire は雇用済みの人を指す a hire（語義3）とは異なる。hire 自体が金銭を指す用法もあり、現代の海運の用船料にも使う（語義14）。人の賃金を指す単独の hire は古風な文章に見られる。"
       ],
       "synonyms": [
         {
@@ -515,7 +534,7 @@
         }
       ],
       "notes": [
-        "名詞目的語なら hire out the equipment と hire the equipment out の両方が可能。代名詞は hire it out であり、誤: hire out it。hire a car from a company は会社から借りる、hire a car out to a customer は客に貸す。hire oneself out は自分で仕事を請け負う別の定型構文（語義7）。人材提供の例は語彙的な働き方を表しており、契約上の雇用主や法的な派遣形態までは確定しない。"
+        "名詞目的語なら hire out the equipment と hire the equipment out の両方が可能。代名詞は hire it out であり、誤: hire out it。hire a car from a company は会社から借りる、hire a car out to a customer は客に貸す。hire oneself out は自分で仕事を請け負う別の定型構文（語義7）。仕事を目的語にした hire out the work は、逆に料金を払って外注すること（語義13）。人材提供の例は語彙的な働き方を表しており、契約上の雇用主や法的な派遣形態までは確定しない。"
       ],
       "synonyms": [
         {
@@ -548,7 +567,8 @@
       "patterns": [
         "hire oneself out＝自分の働きを有償で提供する",
         "hire oneself out as 〈職業〉＝その職業として仕事を請け負う",
-        "hire oneself out to someone＝相手のために有償で働く。"
+        "hire oneself out to someone＝相手のために有償で働く",
+        "hire oneself out for 〈期間〉＝その期間だけ有償で仕事を請け負う。"
       ],
       "collocations": [
         {
@@ -716,7 +736,7 @@
         }
       ],
       "notes": [
-        "The company is hiring. は会社が採用していること（語義2）、He hired on with the company. は彼がその会社に雇われたことを表す。hire on の on はこの自動詞を作る小辞で、直後に人を直接目的語として置く構文ではない。職種を補う as、雇い主を補う with は省略できる。hire out「雇われて働く」（語義8）と意味は近いが、hire on は仕事を得て働き始める局面に焦点がある。"
+        "The company is hiring. は会社が採用していること（語義2）、He hired on with the company. は彼がその会社に雇われたことを表す。この語義の hire on は目的語を置かない自動詞。ただし、雇う側を主語にした hire someone on、hire on new staff という他動詞用法もある（語義11）。職種を補う as、雇い主を補う with は省略できる。hire out「雇われて働く」（語義8）と意味は近いが、hire on は仕事を得て働き始める局面に焦点がある。"
       ],
       "synonyms": [
         {
@@ -728,6 +748,137 @@
           "translation": "彼女は地元のパン屋で仕事を得た。"
         }
       ],
+      "antonyms": []
+    },
+    {
+      "number": 11,
+      "title": "【句動詞・他動詞・分離可能】人を新たに雇い入れる",
+      "frequency": 3,
+      "register": [
+        "主に米国、雇用についての説明。単なる hire より用法が限られる。"
+      ],
+      "definition": "hire on の形で、人を従業員などとして迎え入れる。主語は雇う側、目的語は雇われる人で、働き手が主語の自動詞用法とは逆の立場になる。",
+      "patterns": [
+        "hire someone on＝人を雇い入れる",
+        "hire on new staff＝新しい職員を雇い入れる",
+        "hire someone on as 〈役職〉＝その役職として人を雇い入れる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "hire someone on as 〈役職〉",
+          "use": "採用する側から、新しく任せる職務を述べる。",
+          "example": "The charity hired him on as a bookkeeper.",
+          "translation": "その慈善団体は彼を簿記担当者として雇い入れた。"
+        },
+        {
+          "pattern": "hire on new staff",
+          "use": "名詞の目的語を on の後に置く。",
+          "example": "The clinic plans to hire on new staff before expanding its services.",
+          "translation": "その診療所はサービスを拡充する前に、新しい職員を雇い入れる予定だ。"
+        }
+      ],
+      "notes": [
+        "hire him on の him は雇われる人を指し、代名詞は hire と on の間に置く。名詞なら hire on new staff と hire new staff on の両方がある。語義10の He hired on. は「彼が雇われた」、この語義の They hired him on. は「彼らが彼を雇った」。hire someone on a temporary contract の on a temporary contract は契約条件を表す前置詞句で、ここでの小辞 on とは構造が異なる。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 12,
+      "title": "【動詞・他動詞】料金を払って作業をしてもらう",
+      "frequency": 2,
+      "register": [
+        "特に米国の農林業・家の手入れなど。一般的な hire someone to do より限られた構文。"
+      ],
+      "definition": "hire 〈作業〉 done の形で、作業を自分で行わず、対価を払って誰かに実施してもらう。hire someone to do と異なり、直接目的語は働く人ではなく、実施してもらう作業。",
+      "patterns": [
+        "hire 〈作業〉 done＝その作業を有料でしてもらう",
+        "hire the work done＝その仕事を料金を払って人に任せる。"
+      ],
+      "collocations": [
+        {
+          "pattern": "hire the work done",
+          "use": "自分で実施するか、料金を払って任せるかを述べる。",
+          "example": "We could clear the brush ourselves or hire the work done.",
+          "translation": "私たち自身で低木を刈り払ってもよいし、料金を払ってその作業を人に任せてもよい。"
+        }
+      ],
+      "notes": [
+        "done は do の過去分詞で、目的語の作業が実施されることを表す補語。hire someone done ではなく、hire someone to do the work と区別する。この構文では実施者を直接目的語にしていない。一般的には pay someone to do the work、have the work done も使えるが、後者はそれだけで支払いを明示するわけではない。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 13,
+      "title": "【句動詞・他動詞・分離可能】仕事を有償で外部に任せる",
+      "frequency": 3,
+      "register": [
+        "仕事の外注、家の修繕など。主に英国英語として扱われる用法だが、米国でも使う。"
+      ],
+      "definition": "hire out の目的語に作業を置き、料金を払って外部の業者などに実施を任せる。主語は作業の発注側で、物を貸し出して料金を受け取る語義6とはお金の流れが異なる。",
+      "patterns": [
+        "hire out the work＝その作業を有料で外注する",
+        "hire the work out＝その作業を有料で外注する",
+        "hire it out＝その作業を有料で外注する。"
+      ],
+      "collocations": [
+        {
+          "pattern": "hire out the work",
+          "use": "自分で修繕する代わりに、業者へ頼むことを表す。",
+          "example": "Rather than repair the roof ourselves, we decided to hire out the work.",
+          "translation": "私たちは自分で屋根を修理する代わりに、その作業を業者に有料で任せることにした。"
+        },
+        {
+          "pattern": "hire it out",
+          "use": "既出の作業を代名詞で受けて、外注すると述べる。",
+          "example": "Replacing the wiring is a job for a professional, so we will hire it out.",
+          "translation": "配線の交換は専門家の仕事なので、その作業は有料で外注するつもりだ。"
+        }
+      ],
+      "notes": [
+        "名詞目的語は out の前後に置けるが、代名詞は hire it out。語義6の hire equipment out は機器を貸して料金を受け取り、この語義の hire the repair work out は修理を頼んで料金を払う。hire out という形だけで金銭の流れを決めず、目的語が貸す物・派遣する人なのか、外注する仕事なのかを確認する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 14,
+      "title": "【名詞・不可算】使用料・労働の報酬",
+      "frequency": 3,
+      "register": [
+        "海運・契約。人の労働報酬を指す単独の hire は古風・文学的な文章で見られる。"
+      ],
+      "definition": "物を一時的に使うため、または人に働いてもらうために支払う、あるいは支払うことになっている金銭。現代の海運では船の利用に対する用船料を指す。",
+      "patterns": [
+        "pay hire＝使用料を払う",
+        "hire is due＝使用料の支払期日が来ている",
+        "one’s hire＝その人の労働に対する報酬。"
+      ],
+      "collocations": [
+        {
+          "pattern": "pay hire",
+          "use": "用船契約に基づく船の使用料の支払いを述べる。",
+          "example": "Under the charter, the company pays hire monthly for the use of the vessel.",
+          "translation": "その用船契約では、会社は船の使用に対する用船料を毎月支払う。"
+        },
+        {
+          "pattern": "hire is due",
+          "use": "船の使用料の支払期日を示す。",
+          "example": "The charter states that the next instalment of hire is due on Monday.",
+          "translation": "その用船契約には、次回分の用船料の支払期日は月曜日だと記載されている。"
+        },
+        {
+          "pattern": "one’s hire",
+          "use": "人が労働の見返りとして受け取る報酬を古風な文体で述べる。",
+          "example": "In the old tale, the servant asks the merchant for his hire.",
+          "translation": "その昔話では、召使いが商人に自分の働きに対する報酬を求める。"
+        }
+      ],
+      "notes": [
+        "ここでの hire は借りる行為ではなく、その対価。船の用船料を指す用法まで「古語」と考えない。一方、日常の給与には wages、pay などを使うのが一般的。支払時期や金額、支払停止が認められる条件は契約によるもので、この単語だけでは決まらない。"
+      ],
+      "synonyms": [],
       "antonyms": []
     }
   ]
