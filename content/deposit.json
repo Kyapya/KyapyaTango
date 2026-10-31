@@ -1,15 +1,15 @@
 {
   "word": "deposit",
   "slug": "deposit",
-  "ipa": "米: /dɪˈpɑː.zɪt/｜英: /dɪˈpɒz.ɪt/",
+  "ipa": "米: /dɪˈpɑːzɪt/｜英: /dɪˈpɒzɪt/",
   "lead": "銀行などの口座へ入れた金銭、または一回の入金。個々の入金は a deposit、複数は deposits。預けてある状態は on deposit と表す。口座残高全体と一回ごとの入金額は区別する。",
-  "updated": "2026-10-11",
+  "updated": "2026-10-31",
   "notion_url": "https://app.notion.com/p/deposit-3f64faa9b77d81aebb85d89892276e50",
   "pronunciation": [
     "名詞・動詞とも3音節で、第2音節に主強勢を置く。主な米英差は第2音節の母音で、米 /ɑː/、英 /ɒ/。第3音節の母音はここでは /ɪ/ とし、米語には /ə/ とする辞書表記もある。deposited の語尾は /ɪd/、deposits の語尾は /s/。"
   ],
   "etymology": [
-    "ラテン語 deponere「下に置く、預ける」の過去分詞 depositus に由来する名詞・動詞の系統。de-「下へ」と ponere「置く」が背景にあり、金銭を預ける意味と物質が置き残される意味の両方につながる。",
+    "ラテン語 deponere「下に置く、預ける」の過去分詞 depositus と、その中性形を名詞として使った depositum「預けたもの」にさかのぼる。de-「下へ・離して」と ponere「置く」が背景にあり、金銭を預ける意味と物質が置き残される意味の両方につながる。",
     "同系語には depose「退位させる、証言する」、position「位置」、opponent「対抗者」がある。これらの現代的意味がすべて deposit の用法になるわけではない。"
   ],
   "formation": [
@@ -23,7 +23,7 @@
     },
     {
       "term": "deposition",
-      "description": "名詞。「堆積、析出」のほか、法律では「宣誓証言」、政治では「退位させること」。銀行への日常的な入金には通常 deposit を使う。"
+      "description": "名詞。「堆積、析出」のほか、米国法などでは「法廷外で記録される宣誓証言」、政治では「退位させること、公職からの解任」。銀行への日常的な入金には通常 deposit を使う。"
     },
     {
       "term": "deposit account",
@@ -32,10 +32,6 @@
     {
       "term": "direct deposit",
       "description": "複合名詞。給与などの「口座への直接振込」。直接窓口で現金を渡すことではない。"
-    },
-    {
-      "term": "deposited",
-      "description": "過去形・過去分詞。deposited funds「預け入れられた資金」などは元の動詞から理解できる限定用法で、通常ハイフンを付けない。"
     }
   ],
   "core": [
@@ -82,6 +78,10 @@
     {
       "type": "item",
       "text": "物質が置き残されてたまる変化 → 「堆積する、析出する」（語義10）"
+    },
+    {
+      "type": "item",
+      "text": "立候補の条件として金銭を預けるもの → 「選挙の供託金」（語義11）"
     }
   ],
   "sources": [],
@@ -311,6 +311,7 @@
         "deposit money in 〈口座〉＝口座にお金を預け入れる",
         "deposit funds into 〈口座〉＝口座へ資金を入れる",
         "deposit a check＝小切手を入金する",
+        "be deposited into 〈口座〉＝口座へ入金される",
         "have something deposited into 〈口座〉＝何かを口座へ入金してもらう"
       ],
       "collocations": [
@@ -333,6 +334,12 @@
           "translation": "銀行のアプリでその小切手を入金できます。"
         },
         {
+          "pattern": "be deposited into 〈口座〉",
+          "use": "資金を主語にし、その入金先を述べる。",
+          "example": "The refund was deposited into my account yesterday.",
+          "translation": "返金額は昨日、私の口座に振り込まれた。"
+        },
+        {
           "pattern": "have something deposited into 〈口座〉",
           "use": "給与などを入金してもらう手配を述べる。",
           "example": "He has his salary deposited into the same account every month.",
@@ -340,7 +347,7 @@
         }
       ],
       "notes": [
-        "口座は deposit の直接目的語ではなく、in や into の後に置く。「口座に入金する」は deposit money into the account であり、deposit the account ではない。deposit someone money ではなく、deposit money into someone’s account とする。check は米綴り、cheque は英綴り。目的語が文脈上明らかなときには省かれることもある。"
+        "deposited は過去形・過去分詞で、deposited funds「預け入れられた資金」のような名詞修飾も元の動詞から理解できる。通常ハイフンは付けず、単なる活用形を独立した派生語とはしない。口座は deposit の直接目的語ではなく、in や into の後に置く。「口座に入金する」は deposit money into the account であり、deposit the account ではない。deposit someone money ではなく、deposit money into someone’s account とする。check は米綴り、cheque は英綴り。目的語が文脈上明らかなときには省かれることもある。"
       ],
       "synonyms": [
         {
@@ -515,12 +522,12 @@
     },
     {
       "number": 7,
-      "title": "【名詞・可算または不可算】堆積物、沈殿物、付着物",
+      "title": "【名詞・主に可算】堆積物、沈殿物、付着物",
       "frequency": 6,
       "register": [
         "一般・地学・化学・医学"
       ],
-      "definition": "水・空気などから分離して表面や底にたまった物質や層。泥、鉱物成分、脂肪などに用い、見える汚れだけを指すわけではない。ひとかたまりや種類を数える場合は可算、物質として捉える場合は不可算。",
+      "definition": "運ばれたり、分離・沈着したりして、表面や底、体内などにたまった物質や層。泥、鉱物成分、脂肪などに用い、見える汚れだけを指すわけではない。層や集まりを一つと数えて a deposit とし、複数なら deposits とする。",
       "patterns": [
         "a deposit of 〈物質〉＝その物質の堆積物",
         "deposits on 〈表面〉＝表面の付着物",
@@ -559,9 +566,9 @@
       "synonyms": [
         {
           "word": "sediment",
-          "definition": "液体中の粒子が沈んでできる沈殿物や堆積物。",
+          "definition": "液体中から沈んだり、水・風・氷河などに運ばれてたまったりした粒子状の沈殿物・堆積物。",
           "frequency": 6,
-          "difference": "deposit より沈降した粒子に焦点があり、医学の脂肪沈着などにはそのまま使えない。",
+          "difference": "砂や泥などの粒子状物質に焦点があり、液体中で沈む場合に限らない。deposit は表面に付く鉱物成分や体内の脂肪沈着などにも使い、範囲がより広い。",
           "example": "A layer of sediment covered the bottom of the jar.",
           "translation": "瓶の底を沈殿物の層が覆っていた。"
         },
@@ -737,11 +744,50 @@
           "word": "precipitate",
           "definition": "溶液中から固体として析出する。",
           "frequency": 3,
-          "difference": "化学的な固体の分離に限定され、風で砂が積もる場合などには使わない。",
+          "difference": "ここでの析出義は、溶液から固体が分離することに焦点がある。deposit は風で砂が積もるような物質の蓄積にも使える。precipitate のほかの意味まで、この比較に含めているわけではない。",
           "example": "Crystals precipitated from the cooling solution.",
           "translation": "冷えていく溶液から結晶が析出した。"
         }
       ],
+      "antonyms": []
+    },
+    {
+      "number": 11,
+      "title": "【名詞・可算】選挙の供託金",
+      "frequency": 3,
+      "register": [
+        "政治・選挙報道。ここでは英国の議会選挙に関する用語として扱う。"
+      ],
+      "definition": "英国の議会選挙などで、立候補に際して納める金銭。選挙後の得票など、制度上の条件によって返還や没収が決まる。賃貸物件の損傷を担保する保証金とは目的が異なる。",
+      "patterns": [
+        "pay an election deposit＝選挙の供託金を納める",
+        "lose one's deposit＝供託金を没収される",
+        "have one's deposit returned＝供託金の返還を受ける"
+      ],
+      "collocations": [
+        {
+          "pattern": "pay an election deposit",
+          "use": "立候補に伴う金銭の納付を述べる。",
+          "example": "She paid an election deposit when standing for Parliament.",
+          "translation": "彼女は議会選挙に立候補する際、供託金を納めた。"
+        },
+        {
+          "pattern": "lose one's deposit",
+          "use": "選挙での得票が少なく、供託金が返還されないことを述べる。",
+          "example": "The candidate received so few votes that he lost his deposit.",
+          "translation": "その候補者は得票が少なすぎたため、供託金を没収された。"
+        },
+        {
+          "pattern": "have one's deposit returned",
+          "use": "返還に必要な得票条件を満たしたことを述べる。",
+          "example": "Although she did not win the seat, she received enough votes to have her deposit returned.",
+          "translation": "彼女は議席を獲得できなかったが、供託金の返還を受けるのに十分な票を得た。"
+        }
+      ],
+      "notes": [
+        "lose one's deposit は、ここでは財布などを落としてお金をなくすことではない。当選しなくても返還条件を満たす場合があるため、「落選したら必ず没収」とは解釈しない。必要額や返還条件は国・選挙の種類によって異なり、日本の供託制度と同じ条件を当てはめない。"
+      ],
+      "synonyms": [],
       "antonyms": []
     }
   ]
