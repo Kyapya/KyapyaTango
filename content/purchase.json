@@ -3,7 +3,7 @@
   "slug": "purchase",
   "ipa": "米: /ˈpɝː.tʃəs/｜英: /ˈpɜː.tʃəs/",
   "lead": "金銭などの対価を払って、商品・サービス・権利などを手に入れる。buy より改まった言い方で、業務上の購買や販売案内に多いが、高価な物や企業による購入に限らない。金額を主語にして、その金額で何かが買えるという意味にもなる。",
-  "updated": "2026-10-11",
+  "updated": "2026-10-31",
   "notion_url": "https://app.notion.com/p/purchase-3f64faa9b77d81bda29ac3c5cd1883ed",
   "pronunciation": [
     "名詞・動詞とも2音節で、第1音節に主強勢を置く。第1音節の母音が米音では r 音を伴う /ɝː/、英音では /ɜː/。第2音節 /tʃəs/ は共通で、chase /tʃeɪs/ のような二重母音にはしない。purchases は語尾に /ɪz/ が加わり3音節、purchased は /t/ が加わり2音節のまま。"
@@ -53,7 +53,7 @@
     },
     {
       "type": "item",
-      "text": "犠牲を対価として手に入れる獲得 → 「代償を払って手に入れる」（語義5）"
+      "text": "犠牲という対価を払って手に入れる獲得 → 「代償を払って手に入れる」（語義5）"
     }
   ],
   "sources": [],
@@ -71,7 +71,8 @@
         "purchase something from someone＝売り手から買う",
         "purchase something for 〈金額〉＝その価格で買う",
         "purchase something for someone＝人のために買う",
-        "purchase something at 〈価格・割引率など〉＝その条件で買う",
+        "purchase something at 〈価格〉＝その価格で買う",
+        "purchase something at a discount＝割引価格で買う",
         "〈商品など〉 be purchased＝購入される",
         "〈金額〉 + purchase + 〈商品・サービス〉＝その金額で買える",
         "purchase online＝オンラインで買う。最後の形などでは、購入対象が一般的・明白な場合に直接目的語を置かない。"
@@ -94,6 +95,12 @@
           "use": "購入の受益者を示す。",
           "example": "The office purchased adjustable chairs for its staff.",
           "translation": "事務所は職員のために調節可能な椅子を購入した。"
+        },
+        {
+          "pattern": "purchase something at 〈価格〉",
+          "use": "商品を買う際に適用される価格を示す。",
+          "example": "We purchased the remaining tickets at the regular price.",
+          "translation": "私たちは残りのチケットを通常価格で購入した。"
         },
         {
           "pattern": "purchase something at a discount",
@@ -308,7 +315,7 @@
         }
       ],
       "notes": [
-        "I made two purchases. だけでは「2回の購入」か「2つの買い物」かが文脈によって決まる。I carried my purchases home. は運ぶ対象なので購入品の意味。a good purchase は価格・品質などの点で良い買い物だった物を指せるが、purchase 自体に「お買い得」という意味が常にあるわけではない。個々の購入品は可算で、many purchases とする。"
+        "I made two purchases. だけでは「2回の購入取引」か「2つの購入品」かが文脈によって決まる。I carried my purchases home. は運ぶ対象なので購入品の意味。a good purchase は価格・品質などの点で良い買い物だった物を指せるが、purchase 自体に「お買い得」という意味が常にあるわけではない。個々の購入品は可算で、many purchases とする。"
       ],
       "synonyms": [
         {
@@ -369,6 +376,12 @@
           "use": "比喩的に、働き掛けや考え方が影響を及ぼす足掛かりを得る。",
           "example": "The proposal gradually gained purchase with the public.",
           "translation": "その提案は次第に、一般の人々の間で影響力を持つようになった。"
+        },
+        {
+          "pattern": "have little/no purchase",
+          "use": "滑りやすく、力を掛けるための接触が十分に得られないことを示す。",
+          "example": "On the smooth, wet surface, her boots had little purchase.",
+          "translation": "滑らかで濡れた面では、彼女のブーツは十分に踏ん張りが利かなかった。"
         }
       ],
       "notes": [
