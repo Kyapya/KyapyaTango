@@ -3,7 +3,7 @@
   "slug": "submit",
   "ipa": "米・英: /səbˈmɪt/",
   "lead": "書類、作品、案、データ、案件などを、受理・審査・判断してもらうために相手へ正式に差し出す。電子送信にも、裁判所などの判断に案件を委ねる場合にも使う。物理的な紙を渡すこと、採用されること、最終承認を得ることは必須ではない。",
-  "updated": "2026-10-11",
+  "updated": "2026-10-31",
   "notion_url": "https://app.notion.com/p/submit-3f64faa9b77d810d903acb6bbd9867c1",
   "pronunciation": [
     "2音節で、第2音節に主強勢を置く。第1音節の母音は弱い /ə/、第2音節は短い /ɪ/。過去形・過去分詞 submitted /səbˈmɪtɪd/、現在分詞 submitting /səbˈmɪtɪŋ/ では t を重ねる。submitted の -ed は /ɪd/ で1音節を加える。三人称単数 submits の末尾は /ts/。"
@@ -14,7 +14,7 @@
   "formation": [
     {
       "term": "submission",
-      "description": "名詞「提出、提出物、服従」。提出・服従という行為は不可算、個々の提出物や意見書は可算。格闘技では「降参、一本勝ちをもたらす技」の文脈でも使う。"
+      "description": "名詞「提出、提出物、服従」。提出・服従という行為は不可算、個々の提出物や意見書は可算。格闘技では「降参」や、その勝敗、降参を狙う技を指す文脈でも使う。"
     },
     {
       "term": "submissive",
@@ -27,10 +27,6 @@
     {
       "term": "submitter",
       "description": "可算名詞「提出者、投稿者」。フォームや審査手続きで使う。"
-    },
-    {
-      "term": "submitted / submitting",
-      "description": "基本的には過去分詞・現在分詞。submitted documents は提出された書類で、submissive と区別する。"
     }
   ],
   "core": [
@@ -126,7 +122,7 @@
         }
       ],
       "notes": [
-        "提出物を直接目的語に置く。submit the report to her / submit it to her が基本で、「彼女に報告書を提出する」を submit her the report とは通常言わない。to は提出先、for は目的を表し、submit the plan to the board for approval と併用できる。by Friday は金曜日を期限とし、until Friday は同じ意味にならない。Click Submit. の Submit は画面のボタン名で、通常の名詞「提出」は submission。文脈が明白なら Please submit by Friday. のような目的語省略もあるが、他動詞用法の省略であり語義2の服従とは別。"
+        "submitted / submitting は基本的に動詞の活用形。submitted documents は提出された書類で、態度を表す形容詞 submissive と区別する。提出物を直接目的語に置く。submit the report to her / submit it to her が基本で、「彼女に報告書を提出する」を submit her the report とは通常言わない。to は提出先、for は目的を表し、submit the plan to the board for approval と併用できる。by Friday は金曜日を期限とし、until Friday は同じ意味にならない。Click Submit. の Submit は画面のボタン名で、通常の名詞「提出」は submission。文脈が明白なら Please submit by Friday. のような目的語省略もあるが、他動詞用法の省略であり語義2の服従とは別。"
       ],
       "synonyms": [
         {
@@ -197,7 +193,7 @@
         }
       ],
       "notes": [
-        "submit to の to は前置詞。代名詞なら submit to them とする。submit themselves to the rules と submit to the rules は、再帰目的語を取る他動詞構文と自動詞構文の対応であり、再帰代名詞が常に必要なわけではない。submit the rules は語義1なら「規則を提出する」で、従う意味にはならない。be forced to submit は force の受動態で、submit 自体を受動にしたものではない。格闘技で選手が submit するのは降参することで、語義6の submit an opponent とは主語の勝敗が逆になる。"
+        "submit to の to は前置詞。代名詞なら submit to them とする。submit themselves to the rules と submit to the rules は、再帰目的語を取る他動詞構文と自動詞構文の対応であり、再帰代名詞が常に必要なわけではない。submit the rules は語義1なら「規則を提出する」で、従う意味にはならない。be forced to submit は force の受動態で、submit 自体を受動にしたものではない。格闘技で自動詞として選手が submit する場合は降参を表し、語義6の submit an opponent とは主語の勝敗が逆になる。"
       ],
       "synonyms": [
         {
@@ -460,7 +456,7 @@
         }
       ],
       "notes": [
-        "The fighter submitted. は自動詞で「その選手が降参した」。The fighter submitted his opponent. は他動詞で「その選手が相手にサブミッションで勝った」。人を直接目的語にするこの競技用法を、通常の「書類を提出する」の人目的語版だと解釈しない。勝敗の判定や技の扱いは競技規則による。"
+        "The fighter submitted. は単独では通常、自動詞で「その選手が降参した」と読む。The fighter submitted his opponent. は他動詞で「その選手が相手にサブミッションで勝った」。人を直接目的語にするこの競技用法を、通常の「書類を提出する」の人目的語版だと解釈しない。ただし、前後から相手が分かる場面では他動詞の目的語が省略されることもあるため、目的語が書かれていないという理由だけで負けた側とは断定しない。勝敗の判定や技の扱いは競技規則による。"
       ],
       "synonyms": [
         {
