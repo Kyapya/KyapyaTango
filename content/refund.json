@@ -1,15 +1,15 @@
 {
   "word": "refund",
   "slug": "refund",
-  "ipa": "名詞: 米・英 /ˈriː.fʌnd/。返金を表す動詞: 米・英 /ˌriːˈfʌnd/。動詞には /rɪˈfʌnd/ という発音もあり、米語では第1音節に主強勢を置く /ˈriːˌfʌnd/ も認められる。",
+  "ipa": "名詞: 米・英 /ˈriː.fʌnd/。返金を表す動詞: 米・英 /rɪˈfʌnd/。米語では動詞にも、第1音節に主強勢を置く /ˈriːˌfʌnd/ がある。借換え義の動詞: /ˌriːˈfʌnd/。",
   "lead": "すでに支払った金額の全部または一部が返されること、またはその金額。返品・取消し・過払いなどによって生じるが、不満や商品の欠陥が必須とは限らない。",
-  "updated": "2026-10-11",
+  "updated": "2026-10-31",
   "notion_url": "https://app.notion.com/p/refund-3f64faa9b77d81a3a4a6f8a4ae8f18bd",
   "pronunciation": [
-    "いずれも2音節。名詞では第1音節、動詞の基本形では第2音節に主強勢を置くが、「動詞は必ず後ろに強勢」とはしない。動詞の第1音節の母音には /iː/ と /ɪ/ の違いがあり、第2音節の母音は /ʌ/。借換え義の動詞は /ˌriːˈfʌnd/。refunded の -ed は /ɪd/ と発音して1音節を加える。"
+    "いずれも2音節。名詞では第1音節、返金義の動詞の基本形では第2音節に主強勢を置く。米語の動詞の異形 /ˈriːˌfʌnd/ では、第1音節の母音が /iː/ になり、主強勢は第1音節、第二強勢は第2音節に置かれる。借換え義の /ˌriːˈfʌnd/ では第1音節の母音が /iː/ で第二強勢、第2音節の母音が /ʌ/ で主強勢となる。返金義の基本形の refunded は /rɪˈfʌn.dɪd/ で、-ed の /ɪd/ により3音節になる。"
   ],
   "etymology": [
-    "返金義は、古フランス語を経てラテン語 refundere「注ぎ戻す」にさかのぼる。re-「戻して」と fundere「注ぐ」からなり、受け取ったものを返す意味につながった。fundere を共有する語には、液体などを「注ぎ込む」ことに由来する infuse と、「広く注ぎ広げる」ことに由来する diffuse がある。",
+    "返金義は、フランス語の形やラテン語 refundere「注ぎ戻す」に由来する。re-「戻して」と fundere「注ぐ」からなり、受け取ったものを返す意味につながった。fundere を共有する語には、液体などを「注ぎ込む」ことに由来する infuse と、「広く注ぎ広げる」ことに由来する diffuse がある。",
     "金融の「借り換える」は、re-「再び」と fund「資金を調達する」からなる別の形成で、返金義の語源分解と混同しない。"
   ],
   "formation": [
@@ -23,25 +23,25 @@
     },
     {
       "term": "refunding",
-      "description": "動名詞としての「返金すること」のほか、金融では不可算名詞「借換え」も表す。どちらかは目的語や文脈で判断する。"
-    },
-    {
-      "term": "refunded",
-      "description": "過去形・過去分詞。refunded fees「返金された料金」は返金動作の結果を表し、refundable「返金可能な」と区別する。"
+      "description": "金融の名詞「借換え」。借換え義の動詞から名詞化した形で、通常の返金動作を表す -ing 形とは文脈で区別する。個々の借換えを数える refundings という複数形もある。"
     }
   ],
   "core": [
     {
       "type": "paragraph",
-      "text": "日常の名詞・動詞では、すでに支払われたお金が支払者側へ戻ることが核になる。語義3は同綴異義で、re- と fund による別形成の「借換え」を表し、この返金の核からは導けないため、個別に参照する。"
+      "text": "日常の名詞・動詞では、すでに支払われたお金が支払者側へ戻ることが核になる。語義4は同綴異義で、re- と fund による別形成の「借換え」を表し、この返金の核からは導けないため、個別に参照する。"
     },
     {
       "type": "item",
-      "text": "支払済みのお金が戻ることとその金額 → 「返金、返金額」（語義1）"
+      "text": "支払済みのお金の返却とその金額 → 「返金、返金額」（語義1）"
     },
     {
       "type": "item",
-      "text": "支払済みのお金を支払者側へ戻す行為 → 「返金する、払い戻す」（語義2）"
+      "text": "支払済みのお金の返却で対象や相手を示す行為 → 「返金する、払い戻す」（語義2）"
+    },
+    {
+      "type": "item",
+      "text": "支払済みのお金の返却で対応自体を述べる用法 → 「返金を行う」（語義3）"
     }
   ],
   "sources": [],
@@ -131,9 +131,9 @@
         },
         {
           "word": "rebate",
-          "definition": "支払額の一部を後から返すこと、またはその払い戻し。",
+          "definition": "支払額を、通例その一部について払い戻すこと、またはその金額。",
           "frequency": 6,
-          "difference": "販促や税金など、所定の条件による一部還付に多い。refund は取消しによる全額返金も含む。",
+          "difference": "販促や税金など、所定の条件による還付に多い。refund は返品・取消しや過払いなどの返金を広く表す。返金率だけで両語を分けない。",
           "example": "Buyers who register the appliance can claim a rebate.",
           "translation": "その家電を登録した購入者は、払い戻しを申請できる。"
         }
@@ -202,7 +202,7 @@
         }
       ],
       "notes": [
-        "refund someone the money と refund the money to someone の両方が使える。返金を受けたい購入者が I want to refund the money. と言うと、自分が返す側に読まれやすい。「返金してほしい」は I would like a refund. または I would like the money refunded.。refund は主に返すお金・相手を目的語にするので、「商品を返品する」には return the item が明確。reimburse と使用範囲は重なるが、出張費の精算では reimburse someone for the expenses が典型で、refund the expenses も成立する。refunded の受動態は返金の実施、refundable は返金可能性を表す。"
+        "refund someone the money と refund the money to someone の両方が使える。返金を受けたい購入者が I want to refund the money. と言うと、自分が返す側に読まれやすい。「返金してほしい」は I would like a refund. または I would like the money refunded.。refund は主に返すお金・相手を目的語にするので、「商品を返品する」には return the item が明確。reimburse と使用範囲は重なるが、出張費の精算では reimburse someone for the expenses が典型で、refund the expenses も成立する。過去形・過去分詞は refunded。refunded fees「返金された料金」のような名詞修飾や受動態は返金の実施・結果を表し、refundable「返金可能な」は可能性を表す。"
       ],
       "synonyms": [
         {
@@ -234,6 +234,32 @@
     },
     {
       "number": 3,
+      "title": "【動詞・自動詞】返金を行う",
+      "frequency": 4,
+      "register": [
+        "商取引・顧客対応。返金の方針や対応を述べる。"
+      ],
+      "definition": "返す金額や相手を直接目的語にせず、払い戻しを行うことを述べる。",
+      "patterns": [
+        "someone + refund＝返金を行う",
+        "refuse to refund＝返金を拒む。"
+      ],
+      "collocations": [
+        {
+          "pattern": "refuse to refund",
+          "use": "目的語を置かず、返金対応を拒むことを述べる。",
+          "example": "The seller refused to refund even though the order had been canceled.",
+          "translation": "注文はキャンセルされていたのに、販売者は返金を拒んだ。"
+        }
+      ],
+      "notes": [
+        "誰にいくら返すかが文脈から分かる場合などに使う。対象を明示する refund the money や refund the customer は語義2の他動詞用法。借換えを表す金融義とは区別する。"
+      ],
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "number": 4,
       "title": "【動詞・他動詞】借り換える",
       "frequency": 3,
       "register": [
@@ -257,6 +283,12 @@
           "use": "借換え元と新たな債券の関係を示す。",
           "example": "The issuer refunded the old bonds with a new bond issue carrying a lower interest rate.",
           "translation": "発行体は金利の低い新規債券を発行して、旧債券を借り換えた。"
+        },
+        {
+          "pattern": "be refunded through 〈新たな資金調達〉",
+          "use": "既存債務を主語にして、その借換え資金の調達方法を示す。",
+          "example": "The outstanding bonds were refunded through a new bond issue.",
+          "translation": "未償還の債券は、新規債券の発行によって借り換えられた。"
         }
       ],
       "notes": [
